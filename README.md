@@ -1,8 +1,8 @@
 
-### Hi there, I'm Cindy - aka [Carmilea][website] 👋
+## Hi there, I'm Cindy - aka [Carmilea][website] 👋
 
 
-## I love technology, especially in the area of infrastructure and software engineering!!
+### I love technology, especially in the area of infrastructure and software engineering!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
