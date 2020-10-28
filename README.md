@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OnlyFans Faces Allegations of Fraud, Theft](https://forensicnews.net/2020/08/13/onlyfans-faces-allegations-of-fraud-theft/)
+- [The Charlie Brown Halloween special won’t air on network television this year](https://www.washingtonpost.com/opinions/2020/10/27/charlie-brown-halloween-special-great-pumpkin-streaming-apple-tv/)
 - [John Gray: 'What can we learn from cats? Don't live in an imagined future'](https://www.theguardian.com/books/2020/oct/25/john-gray-what-can-we-learn-from-cats-dont-live-in-an-imagined-future)
-- [Study finds over 80 percent of Covid-19 patients have Vitamin D deficiency](https://www.endocrine.org/news-and-advocacy/news-room/2020/study-finds-over-80-percent-of-covid19-patients-have-vitamin-d-deficiency)
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [10 years, 8 months and 12 days](https://www.prototypo.io/blog/news/10-years-8-months-and-12-days/)
-- [A Guy Walks into an Apple Store](https://birchtree.me/blog/a-guy-walks-into-an-apple-store/)
+- [Sketch: Proud to Build a Truly Native Mac App](https://www.sketch.com/blog/2020/10/26/part-of-your-world-why-we-re-proud-to-build-a-truly-native-mac-app/?hn)
+- [Over 80% of Covid-19 patients in a hospital study have Vitamin D deficiency](https://www.endocrine.org/news-and-advocacy/news-room/2020/study-finds-over-80-percent-of-covid19-patients-have-vitamin-d-deficiency)
 <!-- BLOG-POST-LIST:END -->
 
 ---
