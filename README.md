@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jerry, Inc. (YC S17) Is Hiring a Data Analyst in Toronto, Canada](https://apply.workable.com/jerry/j/485D148B0C/)
 - [A company whose name was an XSS injection attack](https://suite.endole.co.uk/insight/company/12956509-that-company-whose-name-used-to-contain-html-script-tags-ltd)
 - [Learnings from Running a Longevity Startup](https://www.celinehh.com/year-1-learnings)
 - [World’s First Ocean Hybrid Platform Converts Tidal Waves into Energy](https://spectrum.ieee.org/news-from-around-ieee/the-institute/ieee-member-news/worlds-first-ocean-hybrid-platform-converts-tidal-waves-into-energy)
 - [Transhumanism and Augmented Reality – A brave new augmented world](https://qaautomation.dev/a-brave-new-agumented-world/)
-- [Pyston v2: Faster Python](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
