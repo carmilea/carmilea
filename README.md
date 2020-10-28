@@ -38,6 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [MemSQL is now SingleStore](https://www.youtube.com/watch?v=b0v_MJ6prZg)
+- [MemSQL #WebSockets with #SSL - #serverless browser app to database with no API](https://www.youtube.com/watch?v=zLHBChcHKfs)
+- [#MemSQL #WebSockets - Browser to Database with no API](https://www.youtube.com/watch?v=Dy-P5rm8p50)
+- [Secure MemSQL Studio with SSL](https://www.youtube.com/watch?v=c9Bk8sEYlc4)
+- [Community Conversations - Vinicius Ruoso](https://www.youtube.com/watch?v=QAFHPFobfwE)
 <!-- YOUTUBE:END -->
 
 
