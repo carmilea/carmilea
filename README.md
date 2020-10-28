@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wikimedia is moving to Gitlab](https://www.mediawiki.org/wiki/GitLab_consultation#Outcome)
-- [Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
-- [Ask HN: Should I learn C/C++ or Rust as my first systems programming language?](https://news.ycombinator.com/item?id=24919526)
-- [Grafana Tempo, a scalable distributed tracing system](https://grafana.com/blog/2020/10/27/announcing-grafana-tempo-a-massively-scalable-distributed-tracing-system/)
-- [Consumer Reports: Cadillac's Super Cruise Outperforms Tesla's Autopilot](https://www.consumerreports.org/car-safety/cadillac-super-cruise-outperforms-other-active-driving-assistance-systems/)
+- [AMD Radeon Reveal Event Livestream](https://www.youtube.com/watch?v=mG5Gjx5QVEA)
+- [On Abandoning the X Server](https://ajaxnwnk.blogspot.com/2020/10/on-abandoning-x-server.html)
+- [SparkFun À La Carte](https://www.sparkfun.com/news/3422)
+- [Launch HN: Artifact (YC S20) – Personal podcasts with the people in your life](https://news.ycombinator.com/item?id=24919931)
+- [That company whose name used to contain HTML script tags Ltd](https://find-and-update.company-information.service.gov.uk/company/12956509)
 <!-- BLOG-POST-LIST:END -->
 
 ---
