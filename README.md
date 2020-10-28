@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [World’s First Ocean Hybrid Platform Converts Tidal Waves into Energy](https://spectrum.ieee.org/news-from-around-ieee/the-institute/ieee-member-news/worlds-first-ocean-hybrid-platform-converts-tidal-waves-into-energy)
+- [Transhumanism and Augmented Reality – A brave new augmented world](https://qaautomation.dev/a-brave-new-agumented-world/)
 - [Pyston v2: 20% faster Python](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/)
-- [Woman allegedly impersonated prosecutor, dropped charges against herself](https://www.unionleader.com/news/courts/woman-accused-of-impersonating-prosecutor-dropping-criminal-charges-against-herself/article_1fdb1551-147d-53dd-ad45-6680bfc556fa.html?block_id=897573)
-- [Security Blueprints of Many Companies Leaked in Hack of Swedish Firm Gunnebo](https://krebsonsecurity.com/2020/10/security-blueprints-of-many-companies-leaked-in-hack-of-swedish-firm-gunnebo/)
-- [Show HN: Uncover how your funds spend money in politics](https://www.yourstake.org/politics/)
-- [BaseDash (YC S20) is hiring remote full stack engineers](https://www.basedash.com/careers)
+- [Dr. Leonid Rogozov operating himself to remove his appendix in Antarctica, 1961](https://rarehistoricalphotos.com/leonid-rogozov-appendix-1961/)
+- [Coinbase Card](https://www.coinbase.com/card)
 <!-- BLOG-POST-LIST:END -->
 
 ---
