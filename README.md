@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [BBC finds Facebook failed to remove child abuse (2017)](https://www.wired.co.uk/article/facebook-child-abuse-images-bbc-investigation)
+- [Fedora 33](https://fedoramagazine.org/announcing-fedora-33/)
 - [Therapy patients blackmailed for cash after clinic data breach](https://www.bbc.com/news/technology-54692120)
 - [The Self-Driving Car Is a Red Herring](http://nautil.us/issue/92/frontiers/the-self_driving-car-is-a-red-herring)
 - [Draw on a PDF Online](https://www.goodannotations.com/tools/draw-on-pdf)
-- [Tcl for Web Nerds (2011)](https://philip.greenspun.com/tcl/index.adp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
