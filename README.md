@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Grand Unified Theory of Software Architecture](https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html)
+- [Proposal: Keep the nuclear launch codes in an innocent volunteer's chest-cavity](https://boingboing.net/2015/12/11/proposal-keep-the-nuclear-lau.html)
+- [When will web browsers be complete?](https://gist.github.com/lf94/ad72f1da36fbc965e4a1d4daeb1d6cb3)
+- [A Grand Unified Theory of Software Architecture](https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html)
 - [Senate report says Google's AMP should be policed by the FTC](https://www.wsj.com/articles/lawmakers-want-to-protect-local-newspapers-from-google-facebook-11603789201)
 - [How to Dual-Boot Ubuntu 20.04 and Windows 10 with Encryption](https://www.mikekasberg.com/blog/2020/04/08/dual-boot-ubuntu-and-windows-with-encryption.html)
-- [Amazon destroys $1.5m of sellers inventory – now homeless](https://www.smh.com.au/business/companies/ruined-my-life-after-going-all-in-on-amazon-a-merchant-says-he-lost-everything-20201028-p5697l.html)
-- [Xbox creator Seamus Blackley baked a 4,500-year-old Egyptian sourdough](https://www.atlasobscura.com/articles/what-bread-did-ancient-egyptians-eat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
