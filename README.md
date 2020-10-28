@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Florida Gov. DeSantis attempts to vote, discovers someone changed his address](https://www.wesh.com/article/florida-governor-voter-info-changed/34508114)
+- [Pyston v2: 20% faster Python](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/)
+- [Woman allegedly impersonated prosecutor, dropped charges against herself](https://www.unionleader.com/news/courts/woman-accused-of-impersonating-prosecutor-dropping-criminal-charges-against-herself/article_1fdb1551-147d-53dd-ad45-6680bfc556fa.html?block_id=897573)
+- [Security Blueprints of Many Companies Leaked in Hack of Swedish Firm Gunnebo](https://krebsonsecurity.com/2020/10/security-blueprints-of-many-companies-leaked-in-hack-of-swedish-firm-gunnebo/)
+- [Show HN: Uncover how your funds spend money in politics](https://www.yourstake.org/politics/)
 - [BaseDash (YC S20) is hiring remote full stack engineers](https://www.basedash.com/careers)
-- [Sony: Flutter and Wayland is the best practice in embedded systems using Linux [pdf]](https://static.sched.com/hosted_files/osseu2020/e0/Oct%2027_Graphical%20User%20Interface%20Using%20Flutter%20in%20Embedded%20Systems_Hidenori%20Matsubayashi.pdf)
-- [Show HN: You had a productive day, until now](https://theblocks.netlify.app/)
-- [UV B LEDs More Effective in Producing Vitamin D3 in Human Skin (2017)](https://www.nature.com/articles/s41598-017-11362-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
