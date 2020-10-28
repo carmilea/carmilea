@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nutcracker Challenge: Blob-Free WiFi and BLE](https://www.pine64.org/2020/10/28/nutcracker-challenge-blob-free-wifi-ble/)
-- [Proposal: Keep the nuclear launch codes in an innocent volunteer's chest-cavity](https://boingboing.net/2015/12/11/proposal-keep-the-nuclear-lau.html)
-- [Looking Back on 35 Years as an Amiga User](https://bytecellar.com/2020/10/27/looking-back-on-35-years-as-an-amiga-user/)
-- [A Grand Unified Theory of Software Architecture](https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html)
-- [Senate report says Google's AMP should be policed by the FTC](https://www.wsj.com/articles/lawmakers-want-to-protect-local-newspapers-from-google-facebook-11603789201)
+- [BBC finds Facebook failed to remove child abuse (2017)](https://www.wired.co.uk/article/facebook-child-abuse-images-bbc-investigation)
+- [Therapy patients blackmailed for cash after clinic data breach](https://www.bbc.com/news/technology-54692120)
+- [The Self-Driving Car Is a Red Herring](http://nautil.us/issue/92/frontiers/the-self_driving-car-is-a-red-herring)
+- [Draw on a PDF Online](https://www.goodannotations.com/tools/draw-on-pdf)
+- [Tcl for Web Nerds (2011)](https://philip.greenspun.com/tcl/index.adp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
