@@ -51,6 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [John Gray: 'What can we learn from cats? Don't live in an imagined future'](https://www.theguardian.com/books/2020/oct/25/john-gray-what-can-we-learn-from-cats-dont-live-in-an-imagined-future)
+- [Study finds over 80 percent of Covid-19 patients have Vitamin D deficiency](https://www.endocrine.org/news-and-advocacy/news-room/2020/study-finds-over-80-percent-of-covid19-patients-have-vitamin-d-deficiency)
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [10 years, 8 months and 12 days](https://www.prototypo.io/blog/news/10-years-8-months-and-12-days/)
+- [A Guy Walks into an Apple Store](https://birchtree.me/blog/a-guy-walks-into-an-apple-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
