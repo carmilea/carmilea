@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The New York Times' first article about Hitler's rise is stunning](https://www.vox.com/2015/2/11/8016017/ny-times-hitler)
+- [Nutcracker Challenge: Blob-Free WiFi and BLE](https://www.pine64.org/2020/10/28/nutcracker-challenge-blob-free-wifi-ble/)
 - [Proposal: Keep the nuclear launch codes in an innocent volunteer's chest-cavity](https://boingboing.net/2015/12/11/proposal-keep-the-nuclear-lau.html)
 - [When will web browsers be complete?](https://gist.github.com/lf94/ad72f1da36fbc965e4a1d4daeb1d6cb3)
-- [A Grand Unified Theory of Software Architecture](https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html)
-- [Senate report says Google's AMP should be policed by the FTC](https://www.wsj.com/articles/lawmakers-want-to-protect-local-newspapers-from-google-facebook-11603789201)
-- [How to Dual-Boot Ubuntu 20.04 and Windows 10 with Encryption](https://www.mikekasberg.com/blog/2020/04/08/dual-boot-ubuntu-and-windows-with-encryption.html)
+- [Looking Back on 35 Years as an Amiga User](https://bytecellar.com/2020/10/27/looking-back-on-35-years-as-an-amiga-user/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
