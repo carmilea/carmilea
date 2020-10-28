@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD Radeon Reveal Event Livestream](https://www.youtube.com/watch?v=mG5Gjx5QVEA)
-- [On Abandoning the X Server](https://ajaxnwnk.blogspot.com/2020/10/on-abandoning-x-server.html)
-- [SparkFun À La Carte](https://www.sparkfun.com/news/3422)
-- [Launch HN: Artifact (YC S20) – Personal podcasts with the people in your life](https://news.ycombinator.com/item?id=24919931)
-- [That company whose name used to contain HTML script tags Ltd](https://find-and-update.company-information.service.gov.uk/company/12956509)
+- [Florida Gov. DeSantis attempts to vote, discovers someone changed his address](https://www.wesh.com/article/florida-governor-voter-info-changed/34508114)
+- [BaseDash (YC S20) is hiring remote full stack engineers](https://www.basedash.com/careers)
+- [Sony: Flutter and Wayland is the best practice in embedded systems using Linux [pdf]](https://static.sched.com/hosted_files/osseu2020/e0/Oct%2027_Graphical%20User%20Interface%20Using%20Flutter%20in%20Embedded%20Systems_Hidenori%20Matsubayashi.pdf)
+- [Show HN: You had a productive day, until now](https://theblocks.netlify.app/)
+- [UV B LEDs More Effective in Producing Vitamin D3 in Human Skin (2017)](https://www.nature.com/articles/s41598-017-11362-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
