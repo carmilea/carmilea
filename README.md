@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Senate report says Google's AMP should be policed by the FTC](https://www.wsj.com/articles/lawmakers-want-to-protect-local-newspapers-from-google-facebook-11603789201)
 - [The Fall of Silicon Valley](https://www.robrhinehart.com/the-fall-of-silicon-valley/)
 - [How to Dual-Boot Ubuntu 20.04 and Windows 10 with Encryption](https://www.mikekasberg.com/blog/2020/04/08/dual-boot-ubuntu-and-windows-with-encryption.html)
 - [Amazon destroys $1.5m of sellers inventory – now homeless](https://www.smh.com.au/business/companies/ruined-my-life-after-going-all-in-on-amazon-a-merchant-says-he-lost-everything-20201028-p5697l.html)
-- [How the Man Who Invented Xbox Baked a 4,500-Year-Old Egyptian Sourdough](https://www.atlasobscura.com/articles/what-bread-did-ancient-egyptians-eat)
-- [A CIA Office Visits Moscow, Returns with Mysterious, Crippling Headaches](https://www.npr.org/2020/10/27/927263593/a-cia-officer-visits-moscow-returns-with-mysterious-crippling-headaches)
+- [Xbox creator Seamus Blackley baked a 4,500-year-old Egyptian sourdough](https://www.atlasobscura.com/articles/what-bread-did-ancient-egyptians-eat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
