@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spy agency ducks questions about 'back doors' in tech products](https://www.reuters.com/article/us-usa-security-congress-insight/spy-agency-ducks-questions-about-back-doors-in-tech-products-idUSKBN27D1CS)
-- [Can lab-grown brains become conscious?](https://www.nature.com/articles/d41586-020-02986-y)
-- [How Hacker News Crushed David Walsh Blog](https://davidwalsh.name/request-metrics-performance)
-- [Apple Building Search Engine to Take on Google, Report Claims](https://www.forbes.com/sites/barrycollins/2020/10/28/apple-building-search-engine-to-take-on-google-report-claims/)
-- [Dutch flying car gets permission to drive on European roads](https://www.psychnewsdaily.com/dutch-flying-car-pal-v-gets-permission-to-drive-on-european-roads/)
+- [Wikimedia is moving to Gitlab](https://www.mediawiki.org/wiki/GitLab_consultation#Outcome)
+- [Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+- [Ask HN: Should I learn C/C++ or Rust as my first systems programming language?](https://news.ycombinator.com/item?id=24919526)
+- [Grafana Tempo, a scalable distributed tracing system](https://grafana.com/blog/2020/10/27/announcing-grafana-tempo-a-massively-scalable-distributed-tracing-system/)
+- [Consumer Reports: Cadillac's Super Cruise Outperforms Tesla's Autopilot](https://www.consumerreports.org/car-safety/cadillac-super-cruise-outperforms-other-active-driving-assistance-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
