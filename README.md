@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Dual-Boot Ubuntu 20.04 and Windows 10 with Encryption](https://www.mikekasberg.com/blog/2020/04/08/dual-boot-ubuntu-and-windows-with-encryption.html)
+- [Amazon destroys $1.5m of sellers inventory – now homeless](https://www.smh.com.au/business/companies/ruined-my-life-after-going-all-in-on-amazon-a-merchant-says-he-lost-everything-20201028-p5697l.html)
+- [How the Man Who Invented Xbox Baked a 4,500-Year-Old Egyptian Sourdough](https://www.atlasobscura.com/articles/what-bread-did-ancient-egyptians-eat)
+- [A CIA Office Visits Moscow, Returns with Mysterious, Crippling Headaches](https://www.npr.org/2020/10/27/927263593/a-cia-officer-visits-moscow-returns-with-mysterious-crippling-headaches)
 - [When is no-code useful?](https://linus.coffee/note/no-code/)
-- [Google's new logos are bad](https://techcrunch.com/2020/10/06/googles-new-logos-are-bad/)
-- [Per Brinch Hansen books on compilers scanned, page updated](http://pascal.hansotten.com/per-brinch-hansen/)
-- [OnlyFans Faces Allegations of Fraud, Theft](https://forensicnews.net/2020/08/13/onlyfans-faces-allegations-of-fraud-theft/)
-- [John Gray: 'What can we learn from cats? Don't live in an imagined future'](https://www.theguardian.com/books/2020/oct/25/john-gray-what-can-we-learn-from-cats-dont-live-in-an-imagined-future)
 <!-- BLOG-POST-LIST:END -->
 
 ---
