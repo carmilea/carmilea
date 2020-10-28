@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A company whose name was an XSS injection attack](https://suite.endole.co.uk/insight/company/12956509-that-company-whose-name-used-to-contain-html-script-tags-ltd)
+- [Learnings from Running a Longevity Startup](https://www.celinehh.com/year-1-learnings)
 - [World’s First Ocean Hybrid Platform Converts Tidal Waves into Energy](https://spectrum.ieee.org/news-from-around-ieee/the-institute/ieee-member-news/worlds-first-ocean-hybrid-platform-converts-tidal-waves-into-energy)
 - [Transhumanism and Augmented Reality – A brave new augmented world](https://qaautomation.dev/a-brave-new-agumented-world/)
-- [Pyston v2: 20% faster Python](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/)
-- [Dr. Leonid Rogozov operating himself to remove his appendix in Antarctica, 1961](https://rarehistoricalphotos.com/leonid-rogozov-appendix-1961/)
-- [Coinbase Card](https://www.coinbase.com/card)
+- [Pyston v2: Faster Python](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
