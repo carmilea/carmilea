@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BBC finds Facebook failed to remove child abuse (2017)](https://www.wired.co.uk/article/facebook-child-abuse-images-bbc-investigation)
-- [Fedora 33](https://fedoramagazine.org/announcing-fedora-33/)
-- [Therapy patients blackmailed for cash after clinic data breach](https://www.bbc.com/news/technology-54692120)
-- [The Self-Driving Car Is a Red Herring](http://nautil.us/issue/92/frontiers/the-self_driving-car-is-a-red-herring)
-- [Draw on a PDF Online](https://www.goodannotations.com/tools/draw-on-pdf)
+- [How Hacker News Crushed David Walsh Blog](https://davidwalsh.name/request-metrics-performance)
+- [Apple Building Search Engine to Take on Google, Report Claims](https://www.forbes.com/sites/barrycollins/2020/10/28/apple-building-search-engine-to-take-on-google-report-claims/)
+- [Dutch flying car gets permission to drive on European roads](https://www.psychnewsdaily.com/dutch-flying-car-pal-v-gets-permission-to-drive-on-european-roads/)
+- [SARS-CoV-2 spike D614G variant confers enhanced replication and transmissibility](https://www.biorxiv.org/content/10.1101/2020.10.27.357558v1)
+- [Are we losing our ability to remember?](https://st.im/are-we-losing-our-ability-to-remember/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
