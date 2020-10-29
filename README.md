@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bazel Build System Support for LLVM](https://github.com/google/llvm-bazel)
+- [Study helps explain why motivation to learn declines with age](https://news.mit.edu/2020/why-learn-motivate-age-decline-1027)
 - [Sharks Wash Up on Beaches, Stabbed by Swordfish](https://www.nytimes.com/2020/10/27/science/swordfish-stabbing-sharks.html)
-- [Google stops selling Nest Secure, still offers support](https://support.google.com/googlenest/answer/10191961)
 - [Jerry, Inc. (YC S17) Is Hiring a Data Analyst in Toronto, Canada](https://apply.workable.com/jerry/j/485D148B0C/)
-- [World’s First Ocean Hybrid Platform Converts Tidal Waves into Energy](https://spectrum.ieee.org/news-from-around-ieee/the-institute/ieee-member-news/worlds-first-ocean-hybrid-platform-converts-tidal-waves-into-energy)
 - [Pyston v2: Faster Python](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/)
 <!-- BLOG-POST-LIST:END -->
 
