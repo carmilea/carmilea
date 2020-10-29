@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Semgrep and r2c](https://r2c.dev/blog/2020/introducing-semgrep-and-r2c/)
+- [MDN Web Docs evolves: Lowdown on the upcoming new platform](https://hacks.mozilla.org/2020/10/mdn-web-docs-evolves-lowdown-on-the-upcoming-new-platform/)
+- [Compiling a Lisp to x86-64: Labelled procedure calls](https://bernsteinbear.com/blog/compiling-a-lisp-11/)
+- [Microsoft Overhauls Excel with Custom Data Types](https://www.theverge.com/2020/10/29/21539844/microsoft-excel-custom-data-types-power-bi-wolfram-alpha-power-query-data)
 - [Grubhub sued for listing restaurants without permission](https://www.axios.com/grubhub-sued-restaurants-delivery-5fa51bda-73c4-44b0-93f7-314660d8b7af.html)
-- [Launch HN: Cohere (YC S20) – Real-time user support for web apps](https://news.ycombinator.com/item?id=24930271)
-- [Vim-Mario: Mario on Vim](https://github.com/rbtnn/vim-mario)
-- [Show HN: Grasp – grep Clojure code using clojure.spec regexes](https://github.com/borkdude/grasp)
-- [Show HN: Nhost – Open source Firebase alternative with GraphQL](https://nhost.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
