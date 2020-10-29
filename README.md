@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Resignation from the Intercept](https://greenwald.substack.com/p/my-resignation-from-the-intercept)
+- [Mall real estate company collected 5M images of shoppers](https://www.cbc.ca/news/politics/cadillac-fairview-5-million-images-1.5781735?cmp=rss)
 - [On Fexprs and Defmacro](https://www.brinckerhoff.org/scraps/joe-marshall-on-FEXPRS-and-DEFMACRO.txt)
 - [Chartio (YC S10) is hiring sr product Designers, Managers and Engineers](https://chartio.com/about/careers/senior-product-designer/)
 - [Show HN: Open-source, fully customizable voice and chat widgets for the web](https://www.jovo.tech/news/2020-10-29-jovo-for-web-v3-2)
