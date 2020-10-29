@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smash: An efficient compression algorithm for microcontrollers](https://blog.segger.com/smash-an-efficient-compression-algorithm-for-microcontrollers/)
+- [The Problem with (All) the Tech Hearings](https://zeynep.substack.com/p/the-problem-with-all-the-tech-hearings)
 - [Tesorio (YC S15) Is Hiring Senior Engineers – join our distributed team](https://www.tesorio.com/careers#job-openings)
 - [Facebook Q3 2020](https://investor.fb.com/investor-events/event-details/2020/Facebook-Q3-2020-Earnings/default.aspx)
 - [Facebook Reports Third Quarter 2020 Results [pdf]](https://s21.q4cdn.com/399680738/files/doc_financials/2020/q3/FB-09.30.2020-Exhibit-99.1.pdf)
-- [Apple Reports Fourth Quarter Results](https://www.apple.com/newsroom/2020/10/apple-reports-fourth-quarter-results/)
-- [Alphabet announces Q3 2020 earnings](https://abc.xyz/investor/static/pdf/2020Q3_alphabet_earnings_release.pdf?cache=514fb58)
 <!-- BLOG-POST-LIST:END -->
 
 ---
