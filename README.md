@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Resignation from the Intercept](https://greenwald.substack.com/p/my-resignation-from-the-intercept)
+- [On Fexprs and Defmacro](https://www.brinckerhoff.org/scraps/joe-marshall-on-FEXPRS-and-DEFMACRO.txt)
 - [Chartio (YC S10) is hiring sr product Designers, Managers and Engineers](https://chartio.com/about/careers/senior-product-designer/)
 - [Show HN: Open-source, fully customizable voice and chat widgets for the web](https://www.jovo.tech/news/2020-10-29-jovo-for-web-v3-2)
 - [The Heart of RISC-V Development Is Unmatched](https://www.sifive.com/blog/the-heart-of-risc-v-development-is-unmatched)
-- [The Laptev Sea hasn't frozen](https://www.economist.com/graphic-detail/2020/10/28/more-bad-news-for-the-arctic-the-laptev-sea-hasnt-frozen)
-- [The ungentle joy of spider sex](https://knowablemagazine.org/article/living-world/2020/the-ungentle-joy-spider-sex)
 <!-- BLOG-POST-LIST:END -->
 
 ---
