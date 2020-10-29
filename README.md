@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Violated a Code of Conduct](https://www.fast.ai/2020/10/28/code-of-conduct/)
+- [Actively maintained YouTube-DL GitHub repo](https://github.com/blackjack4494/yt-dlc)
+- [FBI, DHS, HHS Warn of Imminent,Credible Ransomware Threat Against U.S. Hospitals](https://krebsonsecurity.com/2020/10/fbi-dhs-hhs-warn-of-imminent-credible-ransomware-threat-against-u-s-hospitals/)
 - [Bazel Build System Support for LLVM](https://github.com/google/llvm-bazel)
-- [Study helps explain why motivation to learn declines with age](https://news.mit.edu/2020/why-learn-motivate-age-decline-1027)
-- [Sharks Wash Up on Beaches, Stabbed by Swordfish](https://www.nytimes.com/2020/10/27/science/swordfish-stabbing-sharks.html)
-- [Jerry, Inc. (YC S17) Is Hiring a Data Analyst in Toronto, Canada](https://apply.workable.com/jerry/j/485D148B0C/)
-- [Pyston v2: Faster Python](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/)
+- [Canadian military tested propaganda mission on Canadians that went off the rails](https://ottawacitizen.com/news/national/defence-watch/forged-letter-warning-about-wolves-on-the-loose-part-of-canadian-forces-propaganda-campaign-that-went-awry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
