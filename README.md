@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Semgrep and r2c](https://r2c.dev/blog/2020/introducing-semgrep-and-r2c/)
-- [MDN Web Docs evolves: Lowdown on the upcoming new platform](https://hacks.mozilla.org/2020/10/mdn-web-docs-evolves-lowdown-on-the-upcoming-new-platform/)
-- [Compiling a Lisp to x86-64: Labelled procedure calls](https://bernsteinbear.com/blog/compiling-a-lisp-11/)
-- [Microsoft Overhauls Excel with Custom Data Types](https://www.theverge.com/2020/10/29/21539844/microsoft-excel-custom-data-types-power-bi-wolfram-alpha-power-query-data)
-- [Grubhub sued for listing restaurants without permission](https://www.axios.com/grubhub-sued-restaurants-delivery-5fa51bda-73c4-44b0-93f7-314660d8b7af.html)
+- [Chartio (YC S10) is hiring sr product Designers, Managers and Engineers](https://chartio.com/about/careers/senior-product-designer/)
+- [Show HN: Open-source, fully customizable voice and chat widgets for the web](https://www.jovo.tech/news/2020-10-29-jovo-for-web-v3-2)
+- [The Heart of RISC-V Development Is Unmatched](https://www.sifive.com/blog/the-heart-of-risc-v-development-is-unmatched)
+- [The Laptev Sea hasn't frozen](https://www.economist.com/graphic-detail/2020/10/28/more-bad-news-for-the-arctic-the-laptev-sea-hasnt-frozen)
+- [The ungentle joy of spider sex](https://knowablemagazine.org/article/living-world/2020/the-ungentle-joy-spider-sex)
 <!-- BLOG-POST-LIST:END -->
 
 ---
