@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to walk upright and stop living in a cave](https://taylor.gl/blog/9/)
+- [Image Scaling Attacks](https://embracethered.com/blog/posts/2020/husky-ai-image-rescaling-attacks/)
+- [Wyoming Is Using Dark Money to Help Keep Coal Plants in Other States Open](https://www.npr.org/2020/10/28/926625599/wyoming-is-using-dark-money-to-help-keep-coal-plants-in-other-states-open)
+- [Sale of Amateur Radio AMPRnet TCP/IP Addresses Raised $108M](https://www.icqpodcast.com/news/2020/10/25/sale-of-amateur-radio-amprnet-tcpip-addresses-raised-108m)
 - [To protect democracy, journalists need to learn to think like hackers and spies](https://thecorrespondent.com/770/to-protect-democracy-journalists-need-to-learn-to-think-like-hackers-and-spies/101939685540-beaf329e?pk_campaign=daily)
 - [figlet – a program for making large letters out of ordinary text](http://www.figlet.org/)
-- [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
-- [What's in a Linux Executable?](https://fasterthanli.me/series/making-our-own-executable-packer/part-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
