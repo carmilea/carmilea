@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Remarkable Number 1/89](http://www2.math.ou.edu/~dmccullough/teaching/miscellanea/miner.html)
+- [Real-world SRE: What not FAANG companies are doing](https://sreteams.substack.com/p/hash)
+- [A Little Money Laundering Can Have a Big Impact on Real Estate Prices (2019)](https://betterdwelling.com/how-a-little-money-laundering-can-have-a-big-impact-on-real-estate-prices/#_)
 - [Pachyderm Raises Series B, Hiring for Pre-Sales, Golang, DevOps, Docs Engr](https://boards.greenhouse.io/pachyderm)
 - [A Page Load Time Comparison of Raspberry Pi 3 and 4 Web Servers](https://cheapskatesguide.org/articles/raspberry-pi-3-4-web-server.html)
-- [RIAA Obtains Subpoenas Targeting 40 YouTube-Ripping Platforms and Pirate Sites](https://torrentfreak.com/riaa-obtains-subpoenas-targeting-40-youtube-ripping-platforms-pirate-sites-201029/)
-- [Oregon hospital shuts down computer system after ransomware attack](https://www.beckershospitalreview.com/cybersecurity/oregon-hospital-shuts-down-computer-system-after-ransomware-attack-4-notes.html)
-- [Amazon Argues Users Don't Own Purchased Prime Video Content](https://www.hollywoodreporter.com/thr-esq/amazon-argues-users-dont-actually-own-purchased-prime-video-content)
 <!-- BLOG-POST-LIST:END -->
 
 ---
