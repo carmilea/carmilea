@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: What would mechanical programming look like?](https://mockmechanics.com/)
-- [Ruby on Rails in a Week](https://www.simplethread.com/ruby-on-rails-in-a-week/)
-- [Don't Contribute Anything Relevant in Web Forums Like Reddit](https://karl-voit.at/2020/10/23/avoid-web-forums/)
-- [eBPF Summit Day 1 Recap](https://cilium.io/blog/2020/10/28/ebpf-summit-day-1/)
-- [A12 – Advancing Network Transparency on the Desktop](https://arcan-fe.com/2020/10/28/a12-advancing-network-transparency-on-the-desktop/)
+- [Tesorio (YC S15) Is Hiring Senior Engineers – join our distributed team](https://www.tesorio.com/careers#job-openings)
+- [Facebook Q3 2020](https://investor.fb.com/investor-events/event-details/2020/Facebook-Q3-2020-Earnings/default.aspx)
+- [Facebook Reports Third Quarter 2020 Results [pdf]](https://s21.q4cdn.com/399680738/files/doc_financials/2020/q3/FB-09.30.2020-Exhibit-99.1.pdf)
+- [Apple Reports Fourth Quarter Results](https://www.apple.com/newsroom/2020/10/apple-reports-fourth-quarter-results/)
+- [Alphabet announces Q3 2020 earnings](https://abc.xyz/investor/static/pdf/2020Q3_alphabet_earnings_release.pdf?cache=514fb58)
 <!-- BLOG-POST-LIST:END -->
 
 ---
