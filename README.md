@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US may not be back to normal until 2022, Fauci says](https://lite.cnn.com/en/article/h_eb6c11210c36ac0dfba4e58af4ef3a54)
 - [Grubhub sued for listing restaurants without permission](https://www.axios.com/grubhub-sued-restaurants-delivery-5fa51bda-73c4-44b0-93f7-314660d8b7af.html)
 - [Launch HN: Cohere (YC S20) – Real-time user support for web apps](https://news.ycombinator.com/item?id=24930271)
 - [Vim-Mario: Mario on Vim](https://github.com/rbtnn/vim-mario)
 - [Show HN: Grasp – grep Clojure code using clojure.spec regexes](https://github.com/borkdude/grasp)
+- [Show HN: Nhost – Open source Firebase alternative with GraphQL](https://nhost.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
