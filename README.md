@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Remarkable Number 1/89](http://www2.math.ou.edu/~dmccullough/teaching/miscellanea/miner.html)
-- [Real-world SRE: What not FAANG companies are doing](https://sreteams.substack.com/p/hash)
-- [A Little Money Laundering Can Have a Big Impact on Real Estate Prices (2019)](https://betterdwelling.com/how-a-little-money-laundering-can-have-a-big-impact-on-real-estate-prices/#_)
-- [Pachyderm Raises Series B, Hiring for Pre-Sales, Golang, DevOps, Docs Engr](https://boards.greenhouse.io/pachyderm)
-- [A Page Load Time Comparison of Raspberry Pi 3 and 4 Web Servers](https://cheapskatesguide.org/articles/raspberry-pi-3-4-web-server.html)
+- [US may not be back to normal until 2022, Fauci says](https://lite.cnn.com/en/article/h_eb6c11210c36ac0dfba4e58af4ef3a54)
+- [Grubhub sued for listing restaurants without permission](https://www.axios.com/grubhub-sued-restaurants-delivery-5fa51bda-73c4-44b0-93f7-314660d8b7af.html)
+- [Launch HN: Cohere (YC S20) – Real-time user support for web apps](https://news.ycombinator.com/item?id=24930271)
+- [Vim-Mario: Mario on Vim](https://github.com/rbtnn/vim-mario)
+- [Show HN: Grasp – grep Clojure code using clojure.spec regexes](https://github.com/borkdude/grasp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
