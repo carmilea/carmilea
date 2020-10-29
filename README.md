@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mall real estate company collected 5M images of shoppers](https://www.cbc.ca/news/politics/cadillac-fairview-5-million-images-1.5781735?cmp=rss)
-- [On Fexprs and Defmacro](https://www.brinckerhoff.org/scraps/joe-marshall-on-FEXPRS-and-DEFMACRO.txt)
-- [Chartio (YC S10) is hiring sr product Designers, Managers and Engineers](https://chartio.com/about/careers/senior-product-designer/)
-- [Show HN: Open-source, fully customizable voice and chat widgets for the web](https://www.jovo.tech/news/2020-10-29-jovo-for-web-v3-2)
-- [The Heart of RISC-V Development Is Unmatched](https://www.sifive.com/blog/the-heart-of-risc-v-development-is-unmatched)
+- [Show HN: What would mechanical programming look like?](https://mockmechanics.com/)
+- [Ruby on Rails in a Week](https://www.simplethread.com/ruby-on-rails-in-a-week/)
+- [Don't Contribute Anything Relevant in Web Forums Like Reddit](https://karl-voit.at/2020/10/23/avoid-web-forums/)
+- [eBPF Summit Day 1 Recap](https://cilium.io/blog/2020/10/28/ebpf-summit-day-1/)
+- [A12 – Advancing Network Transparency on the Desktop](https://arcan-fe.com/2020/10/28/a12-advancing-network-transparency-on-the-desktop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
