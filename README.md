@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to walk upright and stop living in a cave](https://taylor.gl/blog/9/)
+- [To protect democracy, journalists need to learn to think like hackers and spies](https://thecorrespondent.com/770/to-protect-democracy-journalists-need-to-learn-to-think-like-hackers-and-spies/101939685540-beaf329e?pk_campaign=daily)
 - [figlet – a program for making large letters out of ordinary text](http://www.figlet.org/)
+- [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
 - [What's in a Linux Executable?](https://fasterthanli.me/series/making-our-own-executable-packer/part-1)
-- [Sexual Eeling](https://www.historytoday.com/archive/natural-histories/sexual-eeling)
-- [I Violated a Code of Conduct](https://www.fast.ai/2020/10/28/code-of-conduct/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
