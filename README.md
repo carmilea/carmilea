@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oregon hospital shuts down computer system after ransomware attack](https://www.beckershospitalreview.com/cybersecurity/oregon-hospital-shuts-down-computer-system-after-ransomware-attack-4-notes.html)
+- [Amazon Argues Users Don't Own Purchased Prime Video Content](https://www.hollywoodreporter.com/thr-esq/amazon-argues-users-dont-actually-own-purchased-prime-video-content)
 - [Image Scaling Attacks](https://embracethered.com/blog/posts/2020/husky-ai-image-rescaling-attacks/)
-- [Wyoming uses a “dark money” advocacy group to advocate for coal in other states](https://www.npr.org/2020/10/28/926625599/wyoming-is-using-dark-money-to-help-keep-coal-plants-in-other-states-open)
+- [Wyoming uses a “dark money” organization to advocate for coal in other states](https://www.npr.org/2020/10/28/926625599/wyoming-is-using-dark-money-to-help-keep-coal-plants-in-other-states-open)
 - [figlet – a program for making large letters out of ordinary text](http://www.figlet.org/)
-- [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
-- [What's in a Linux Executable?](https://fasterthanli.me/series/making-our-own-executable-packer/part-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
