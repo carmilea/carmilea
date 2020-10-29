@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to walk upright and stop living in a cave](https://taylor.gl/blog/9/)
+- [figlet – a program for making large letters out of ordinary text](http://www.figlet.org/)
+- [What's in a Linux Executable?](https://fasterthanli.me/series/making-our-own-executable-packer/part-1)
+- [Sexual Eeling](https://www.historytoday.com/archive/natural-histories/sexual-eeling)
 - [I Violated a Code of Conduct](https://www.fast.ai/2020/10/28/code-of-conduct/)
-- [Youtube-dlc – Download videos from YouTube or other video platforms](https://github.com/blackjack4494/yt-dlc)
-- [FBI, DHS, HHS Warn of Imminent,Credible Ransomware Threat Against U.S. Hospitals](https://krebsonsecurity.com/2020/10/fbi-dhs-hhs-warn-of-imminent-credible-ransomware-threat-against-u-s-hospitals/)
-- [Bazel Build System Support for LLVM](https://github.com/google/llvm-bazel)
-- [Canadian military tested propaganda mission on Canadians that went off the rails](https://ottawacitizen.com/news/national/defence-watch/forged-letter-warning-about-wolves-on-the-loose-part-of-canadian-forces-propaganda-campaign-that-went-awry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
