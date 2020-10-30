@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The 8th Wonder of the World: Foxconn Mirage Factory in Wisconsin](https://www.theverge.com/21507966/csk-8th-wonder-of-the-world)
 - [Intermittent fasting from dawn to sunset induces anticancer response](https://pubmed.ncbi.nlm.nih.gov/33110154/)
 - [DeepSource (YC W20) Is hiring software engineers](https://deepsource.io/jobs/)
 - [Vega-Lite: A Grammar of Interactive Graphics](https://vega.github.io/vega-lite/)
 - [Greatest Vacuum Tubes You’ve Never Heard Of](https://spectrum.ieee.org/tech-history/space-age/the-11-greatest-vacuum-tubes-youve-never-heard-of)
-- [The Corporatization of Nursing Homes](https://prospect.org/familycare/the-corporatization-of-nursing-homes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
