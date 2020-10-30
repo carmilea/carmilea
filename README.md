@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Neighbourly Solution to the 'X Is Deprecated? ' Conundrum](https://www.divergent-desktop.org/blog/2020/10/29/improving-x/)
 - [5Gbps Ethernet on the Raspberry Pi Compute Module 4](https://www.jeffgeerling.com/blog/2020/5-gbps-ethernet-on-raspberry-pi-compute-module-4)
 - [Beautifully preserved cave bears emerge from Siberian permafrost](https://arstechnica.com/science/2020/09/beautifully-preserved-cave-bears-emerge-from-siberian-permafrost/)
 - [What’s so exciting about Postgres?](https://changelog.com/podcast/417#transcript)
-- [Lobe.ai – A simple tool for train machine learning models](https://lobe.ai/)
-- [Swift Concurrency Roadmap](https://forums.swift.org/t/swift-concurrency-roadmap/41611)
+- [Lobe.ai – A simple tool for training machine learning models](https://lobe.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
