@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Love Letter to the Internet of Old](https://www.cameronsworld.net)
+- [Ask HN: Please stop writing tutorials/tech articles on Medium](https://news.ycombinator.com/item?id=24942037)
+- [Weird AI Yankovic: Generating Parody Lyrics](https://arxiv.org/abs/2009.12240)
 - [Valve put their 'Pressure Vessel' container source for Linux games up on Gitlab](https://www.gamingonlinux.com/2020/10/valve-put-their-pressure-vessel-container-source-for-linux-games-up-on-gitlab)
 - [Welcome (YC W20) is hiring engineers to build the future of virtual events](https://jobs.lever.co/welcome?location=U.S.%20Remote&team=Engineering)
-- [What gravitational-wave events reveal about the Universe](https://www.nature.com/articles/d41586-020-03047-0)
-- [MCS-48: The quest for 16-bit division on the 8-bit CPU which can’t divide](http://tech.mattmillman.com/mcs-48-the-quest-for-16-bit-division-on-the-8-bit-cpu-which-cant-divide-anything/)
-- [Rust for Clojurists (2015)](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
