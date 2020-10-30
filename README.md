@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fact Checks and Context for Wayback Machine Pages](http://blog.archive.org/2020/10/30/fact-checks-and-context-for-wayback-machine-pages/)
+- [Public Apology to Jeremy Howard](https://numfocus.org/blog/jeremy-howard-apology)
+- [It's called Medium because it's neither rare nor well done](https://quoteinvestigator.com/2019/07/24/tv/)
 - [5Gbps Ethernet on the Raspberry Pi Compute Module 4](https://www.jeffgeerling.com/blog/2020/5-gbps-ethernet-on-raspberry-pi-compute-module-4)
-- [What's so about Postgres? (transcript)](https://changelog.com/podcast/417#transcript)
-- [Lobe.ai is now in public beta](https://lobe.ai/)
-- [Kde.org Migrated to Hugo](https://carlschwan.eu/2020/10/30/kde-org-hugo.html)
-- [SDLang – Simple Declarative Language](https://sdlang.org/)
+- [What’s so exciting about Postgres?](https://changelog.com/podcast/417#transcript)
 <!-- BLOG-POST-LIST:END -->
 
 ---
