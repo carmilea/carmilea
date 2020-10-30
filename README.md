@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lobe.ai is now in public beta](https://lobe.ai/)
+- [Recovering Lost Roam Notes](https://jeffchen.dev/posts/Recovering-Lost-Roam-Notes/)
+- [Kde.org Migrated to Hugo](https://carlschwan.eu/2020/10/30/kde-org-hugo.html)
+- [SDLang – Simple Declarative Language](https://sdlang.org/)
 - [Smarking (YC W15) Is Hiring an Implementation and Tech Partnership Manager](https://jobs.lever.co/smarking/237fb34f-8fd1-431e-b631-1374fb73bfd6)
-- [AWS ALBs have finally gRPC Support](https://aws.amazon.com/about-aws/whats-new/2020/10/application-load-balancers-enable-grpc-workloads-end-to-end-http-2-support/)
-- [Mendoza: Use stack machines to compute efficient JSON diffs](https://www.sanity.io/blog/mendoza)
-- [Goodbye IFTTT](https://benjamincongdon.me/blog/2020/10/30/Goodbye-IFTTT/)
-- [Hardware-as-a-Service](https://diff.substack.com/p/hardware-as-a-service)
 <!-- BLOG-POST-LIST:END -->
 
 ---
