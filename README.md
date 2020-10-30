@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fact Checks and Context for Wayback Machine Pages](http://blog.archive.org/2020/10/30/fact-checks-and-context-for-wayback-machine-pages/)
-- [Public Apology to Jeremy Howard](https://numfocus.org/blog/jeremy-howard-apology)
-- [It's called Medium because it's neither rare nor well done](https://quoteinvestigator.com/2019/07/24/tv/)
 - [5Gbps Ethernet on the Raspberry Pi Compute Module 4](https://www.jeffgeerling.com/blog/2020/5-gbps-ethernet-on-raspberry-pi-compute-module-4)
+- [Beautifully preserved cave bears emerge from Siberian permafrost](https://arstechnica.com/science/2020/09/beautifully-preserved-cave-bears-emerge-from-siberian-permafrost/)
 - [What’s so exciting about Postgres?](https://changelog.com/podcast/417#transcript)
+- [Lobe.ai – A simple tool for train machine learning models](https://lobe.ai/)
+- [Swift Concurrency Roadmap](https://forums.swift.org/t/swift-concurrency-roadmap/41611)
 <!-- BLOG-POST-LIST:END -->
 
 ---
