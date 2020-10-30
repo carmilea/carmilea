@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Sunsets Google Cloud Print](https://support.google.com/chrome/answer/1069693?p=cloudprint&visit_id=637396497759142658-95133053&rd=1)
+- [Awk: `Begin { ` Part 1](https://jemma.dev/blog/awk-part-1)
+- [Is Rust web yet? YES And it's freaking fast](http://www.arewewebyet.org/)
+- [Show HN: Backtest Trading Strategies: A Quantopian Alternative](https://www.tradytics.com/backtester)
 - [Facebook Is a 'Super Spreader' of Election Misinformation](https://www.newsweek.com/facebook-super-spreader-election-misinformation-1543306)
-- [Factorio Friday Facts #362](https://www.factorio.com/blog/post/fff-362)
-- [Index (YC S19) Is hiring founding engineer to make metrics dashboards fun](http://careers.tryindex.com)
-- ['Time Cells' Discovered in Human Brains: Why Some Memories Seem Like Movies](https://www.npr.org/sections/health-shots/2020/10/29/929133717/why-some-memories-seem-like-movies-time-cells-discovered-in-human-brains)
-- [Big Ideas for Making Fusion Power a Reality](https://spectrum.ieee.org/energy/nuclear/5-big-ideas-for-making-fusion-power-a-reality)
 <!-- BLOG-POST-LIST:END -->
 
 ---
