@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Leveraging a 3D printer “defect” to create a new quasi-textile](https://news.mit.edu/2020/defextiles-leveraging-3d-printer-defect-to-create-quasi-textiles-1020)
 - [The 8th Wonder of the World: Foxconn Mirage Factory in Wisconsin](https://www.theverge.com/21507966/csk-8th-wonder-of-the-world)
 - [Intermittent fasting from dawn to sunset induces anticancer response](https://pubmed.ncbi.nlm.nih.gov/33110154/)
 - [Getting Audio Visualizations Working with Web Audio API](https://dwayne.xyz/post/audio-visualizations-web-audio-api)
 - [DeepSource (YC W20) Is hiring software engineers](https://deepsource.io/jobs/)
-- [Vega-Lite: A Grammar of Interactive Graphics](https://vega.github.io/vega-lite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
