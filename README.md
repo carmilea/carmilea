@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Index (YC S19) Is hiring founding engineer to make metrics dashboards fun](http://careers.tryindex.com)
+- ['Time Cells' Discovered in Human Brains: Why Some Memories Seem Like Movies](https://www.npr.org/sections/health-shots/2020/10/29/929133717/why-some-memories-seem-like-movies-time-cells-discovered-in-human-brains)
+- [Big Ideas for Making Fusion Power a Reality](https://spectrum.ieee.org/energy/nuclear/5-big-ideas-for-making-fusion-power-a-reality)
 - [Leveraging a 3D printer “defect” to create a new quasi-textile](https://news.mit.edu/2020/defextiles-leveraging-3d-printer-defect-to-create-quasi-textiles-1020)
-- [The 8th Wonder of the World: Foxconn Mirage Factory in Wisconsin](https://www.theverge.com/21507966/csk-8th-wonder-of-the-world)
-- [Intermittent fasting from dawn to sunset induces anticancer response](https://pubmed.ncbi.nlm.nih.gov/33110154/)
-- [Getting Audio Visualizations Working with Web Audio API](https://dwayne.xyz/post/audio-visualizations-web-audio-api)
-- [DeepSource (YC W20) Is hiring software engineers](https://deepsource.io/jobs/)
+- [Software licensing and my opposition to copyleft](https://github.com/BurntSushi/notes/blob/master/2020-10-29_licensing-and-copyleft.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
