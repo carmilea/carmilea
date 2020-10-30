@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Love Letter to the Internet of Old](https://www.cameronsworld.net)
-- [Ask HN: Please stop writing tutorials/tech articles on Medium](https://news.ycombinator.com/item?id=24942037)
-- [Weird AI Yankovic: Generating Parody Lyrics](https://arxiv.org/abs/2009.12240)
-- [Valve put their 'Pressure Vessel' container source for Linux games up on Gitlab](https://www.gamingonlinux.com/2020/10/valve-put-their-pressure-vessel-container-source-for-linux-games-up-on-gitlab)
-- [Welcome (YC W20) is hiring engineers to build the future of virtual events](https://jobs.lever.co/welcome?location=U.S.%20Remote&team=Engineering)
+- [Launch HN: Deepnote (YC S19) – A better data science notebook](https://news.ycombinator.com/item?id=24942797)
+- [The misuse of colour in science communication](https://www.nature.com/articles/s41467-020-19160-7)
+- [A Researcher’s Guide to Some Legal Risks of Security Research [pdf]](https://clinic.cyber.harvard.edu/files/2020/10/Security_Researchers_Guide-2.pdf)
+- [Mailchimp outlines right to ban users for “inaccurate” content](https://reclaimthenet.org/mailchimp-misinformation-censorship/)
+- [Gray Wolves to Be Removed from Endangered Species List](https://www.npr.org/2020/10/29/929095979/gray-wolves-to-be-removed-from-endangered-species-list)
 <!-- BLOG-POST-LIST:END -->
 
 ---
