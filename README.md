@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve put their 'Pressure Vessel' container source for Linux games up on Gitlab](https://www.gamingonlinux.com/2020/10/valve-put-their-pressure-vessel-container-source-for-linux-games-up-on-gitlab)
 - [Welcome (YC W20) is hiring engineers to build the future of virtual events](https://jobs.lever.co/welcome?location=U.S.%20Remote&team=Engineering)
+- [What gravitational-wave events reveal about the Universe](https://www.nature.com/articles/d41586-020-03047-0)
 - [MCS-48: The quest for 16-bit division on the 8-bit CPU which can’t divide](http://tech.mattmillman.com/mcs-48-the-quest-for-16-bit-division-on-the-8-bit-cpu-which-cant-divide-anything/)
 - [Rust for Clojurists (2015)](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
-- [Google Sunsets Google Cloud Print](https://support.google.com/chrome/answer/1069693?p=cloudprint&visit_id=637396497759142658-95133053&rd=1)
-- [Awk: `Begin { ` Part 1](https://jemma.dev/blog/awk-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
