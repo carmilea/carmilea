@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSource (YC W20) Is hiring software engineers](https://deepsource.io/jobs/)
 - [The Corporatization of Nursing Homes](https://prospect.org/familycare/the-corporatization-of-nursing-homes/)
 - [Glass viscosity calculations debunk the myth of flow in medieval windows (2017)](https://ceramics.org/ceramic-tech-today/glass-viscosity-calculations-definitively-debunk-the-myth-of-observable-flow-in-medieval-windows)
 - [The Sun is more active now than over the last 8000 years (2004)](https://www.mpg.de/research/sun-activity-high)
 - [An exponent one-fifth algorithm for deterministic integer factorisation](https://arxiv.org/abs/2010.05450)
-- [Smash: An efficient compression algorithm for microcontrollers](https://blog.segger.com/smash-an-efficient-compression-algorithm-for-microcontrollers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
