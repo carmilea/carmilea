@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Maine Becomes First State to Use Ranked-Choice Voting in a Presidential Election](https://www.wsj.com/articles/maine-becomes-first-state-to-use-ranked-choice-voting-in-a-presidential-election-11604062812)
-- [Waymo pulls back the curtain on 6.1M miles of self-driving car data in Phoenix](https://www.theverge.com/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google)
-- [Launch HN: Deepnote (YC S19) – A better data science notebook](https://news.ycombinator.com/item?id=24942797)
-- [The misuse of colour in science communication](https://www.nature.com/articles/s41467-020-19160-7)
-- [Edsger Dijkstra – The Man Who Carried Computer Science on His Shoulders](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)
+- [Smarking (YC W15) Is Hiring an Implementation and Tech Partnership Manager](https://jobs.lever.co/smarking/237fb34f-8fd1-431e-b631-1374fb73bfd6)
+- [AWS ALBs have finally gRPC Support](https://aws.amazon.com/about-aws/whats-new/2020/10/application-load-balancers-enable-grpc-workloads-end-to-end-http-2-support/)
+- [Mendoza: Use stack machines to compute efficient JSON diffs](https://www.sanity.io/blog/mendoza)
+- [Goodbye IFTTT](https://benjamincongdon.me/blog/2020/10/30/Goodbye-IFTTT/)
+- [Hardware-as-a-Service](https://diff.substack.com/p/hardware-as-a-service)
 <!-- BLOG-POST-LIST:END -->
 
 ---
