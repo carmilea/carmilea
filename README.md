@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [5Gbps Ethernet on the Raspberry Pi Compute Module 4](https://www.jeffgeerling.com/blog/2020/5-gbps-ethernet-on-raspberry-pi-compute-module-4)
+- [What's so about Postgres? (transcript)](https://changelog.com/podcast/417#transcript)
 - [Lobe.ai is now in public beta](https://lobe.ai/)
-- [Recovering Lost Roam Notes](https://jeffchen.dev/posts/Recovering-Lost-Roam-Notes/)
 - [Kde.org Migrated to Hugo](https://carlschwan.eu/2020/10/30/kde-org-hugo.html)
 - [SDLang – Simple Declarative Language](https://sdlang.org/)
-- [Smarking (YC W15) Is Hiring an Implementation and Tech Partnership Manager](https://jobs.lever.co/smarking/237fb34f-8fd1-431e-b631-1374fb73bfd6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
