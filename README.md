@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Maine Becomes First State to Use Ranked-Choice Voting in a Presidential Election](https://www.wsj.com/articles/maine-becomes-first-state-to-use-ranked-choice-voting-in-a-presidential-election-11604062812)
+- [Waymo pulls back the curtain on 6.1M miles of self-driving car data in Phoenix](https://www.theverge.com/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google)
 - [Launch HN: Deepnote (YC S19) – A better data science notebook](https://news.ycombinator.com/item?id=24942797)
 - [The misuse of colour in science communication](https://www.nature.com/articles/s41467-020-19160-7)
-- [A Researcher’s Guide to Some Legal Risks of Security Research [pdf]](https://clinic.cyber.harvard.edu/files/2020/10/Security_Researchers_Guide-2.pdf)
-- [Mailchimp outlines right to ban users for “inaccurate” content](https://reclaimthenet.org/mailchimp-misinformation-censorship/)
-- [Gray Wolves to Be Removed from Endangered Species List](https://www.npr.org/2020/10/29/929095979/gray-wolves-to-be-removed-from-endangered-species-list)
+- [Edsger Dijkstra – The Man Who Carried Computer Science on His Shoulders](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)
 <!-- BLOG-POST-LIST:END -->
 
 ---
