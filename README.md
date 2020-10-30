@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome (YC W20) is hiring engineers to build the future of virtual events](https://jobs.lever.co/welcome?location=U.S.%20Remote&team=Engineering)
+- [MCS-48: The quest for 16-bit division on the 8-bit CPU which can’t divide](http://tech.mattmillman.com/mcs-48-the-quest-for-16-bit-division-on-the-8-bit-cpu-which-cant-divide-anything/)
+- [Rust for Clojurists (2015)](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
 - [Google Sunsets Google Cloud Print](https://support.google.com/chrome/answer/1069693?p=cloudprint&visit_id=637396497759142658-95133053&rd=1)
 - [Awk: `Begin { ` Part 1](https://jemma.dev/blog/awk-part-1)
-- [Is Rust web yet? YES And it's freaking fast](http://www.arewewebyet.org/)
-- [Show HN: Backtest Trading Strategies: A Quantopian Alternative](https://www.tradytics.com/backtester)
-- [Facebook Is a 'Super Spreader' of Election Misinformation](https://www.newsweek.com/facebook-super-spreader-election-misinformation-1543306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
