@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Index (YC S19) Is hiring founding engineer to make metrics dashboards fun](http://careers.tryindex.com)
-- [Apple refuses to engrave ‘liberate’ protest slogan on HK customer’s Apple Pencil](https://coconuts.co/hongkong/news/apple-refuses-to-engrave-liberate-protest-slogan-on-hong-kong-customers-apple-pencil/)
 - ['Time Cells' Discovered in Human Brains: Why Some Memories Seem Like Movies](https://www.npr.org/sections/health-shots/2020/10/29/929133717/why-some-memories-seem-like-movies-time-cells-discovered-in-human-brains)
 - [Big Ideas for Making Fusion Power a Reality](https://spectrum.ieee.org/energy/nuclear/5-big-ideas-for-making-fusion-power-a-reality)
 - [Leveraging a 3D printer “defect” to create a new quasi-textile](https://news.mit.edu/2020/defextiles-leveraging-3d-printer-defect-to-create-quasi-textiles-1020)
+- [Intermittent fasting from dawn to sunset induces anticancer response](https://pubmed.ncbi.nlm.nih.gov/33110154/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
