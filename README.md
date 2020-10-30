@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Corporatization of Nursing Homes](https://prospect.org/familycare/the-corporatization-of-nursing-homes/)
+- [Glass viscosity calculations debunk the myth of flow in medieval windows (2017)](https://ceramics.org/ceramic-tech-today/glass-viscosity-calculations-definitively-debunk-the-myth-of-observable-flow-in-medieval-windows)
+- [The Sun is more active now than over the last 8000 years (2004)](https://www.mpg.de/research/sun-activity-high)
 - [An exponent one-fifth algorithm for deterministic integer factorisation](https://arxiv.org/abs/2010.05450)
 - [Smash: An efficient compression algorithm for microcontrollers](https://blog.segger.com/smash-an-efficient-compression-algorithm-for-microcontrollers/)
-- [The Problem with (All) the Tech Hearings](https://zeynep.substack.com/p/the-problem-with-all-the-tech-hearings)
-- [Tesorio (YC S15) Is Hiring Senior Engineers – join our distributed team](https://www.tesorio.com/careers#job-openings)
-- [Facebook Reports Third Quarter 2020 Results [pdf]](https://s21.q4cdn.com/399680738/files/doc_financials/2020/q3/FB-09.30.2020-Exhibit-99.1.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
