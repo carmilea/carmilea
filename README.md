@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [The Know Show: Raj Verma, CEO of SingleStore interviews Vivek Ranadivé, Owner of Sacramento Kings](https://www.youtube.com/watch?v=oSum6-wpEPo)
-- [MemSQL is now SingleStore](https://www.youtube.com/watch?v=b0v_MJ6prZg)
-- [SingleStore #WebSockets with #SSL - #serverless browser app to database with no API](https://www.youtube.com/watch?v=zLHBChcHKfs)
-- [#SingleStore #WebSockets - Browser to Database with no API](https://www.youtube.com/watch?v=Dy-P5rm8p50)
-- [Secure SingleStore Studio with SSL](https://www.youtube.com/watch?v=c9Bk8sEYlc4)
+- [#DataRevolution2020 - Fast Data](https://www.youtube.com/watch?v=HwchqQ_416E)
+- [#DataRevolution2020 - Using Data to Run a Data Company](https://www.youtube.com/watch?v=M9Qdp_ZHjCA)
+- [#DataRevolution2020 - #DataForGood](https://www.youtube.com/watch?v=BCnuXEjCKSo)
+- [#DataRevolution2020 - Changing of the Guard & Data Trends of the Future](https://www.youtube.com/watch?v=zaakdo8Mhjs)
+- [#DataRevolution2020 - Data Down Under](https://www.youtube.com/watch?v=7mGVbyOIfVY)
 <!-- YOUTUBE:END -->
 
 
