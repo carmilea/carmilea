@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [#DataRevolution2020 - Virtues](https://www.youtube.com/watch?v=hpAIBzBaiNU)
+- [#DataRevolution2020 - Visionary/The Future](https://www.youtube.com/watch?v=Evu-jKdxGp4)
+- [#DataRevolution2020 - Data & Diversity](https://www.youtube.com/watch?v=npKFVhcpVfE)
 - [#DataRevolution2020 - Data Stalwarts](https://www.youtube.com/watch?v=dL3zhQ5fiHA)
 - [#DataRevolution2020 - Fast Data](https://www.youtube.com/watch?v=HwchqQ_416E)
-- [#DataRevolution2020 - Using Data to Run a Data Company](https://www.youtube.com/watch?v=M9Qdp_ZHjCA)
-- [#DataRevolution2020 - #DataForGood](https://www.youtube.com/watch?v=BCnuXEjCKSo)
-- [#DataRevolution2020 - Changing of the Guard & Data Trends of the Future](https://www.youtube.com/watch?v=zaakdo8Mhjs)
 <!-- YOUTUBE:END -->
 
 
