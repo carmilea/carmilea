@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can you crack the combination lock? Yeah – De Bruijn Sequences](https://www.youtube.com/watch?v=iPLQgXUiU14&vl=en-GB)
 - [Turkish Ultranationalist Group on the “Hunt for Armenians” in France](https://www.vice.com/en/article/epddna/turkey-france-armenia-grey-wolves-lyon)
 - [NASA WebGL of the Universe](https://exoplanets.nasa.gov/eyes-on-exoplanets/)
-- [Joe Rogan Experience #1556 – Glenn Greenwald](https://www.youtube.com/watch?v=t0rcLsoIKgA)
 - [LIL: Little Interpreted Language](http://runtimeterror.com/tech/lil/)
 - [Foundations of Software Engineering](https://cmu-313.github.io)
 <!-- BLOG-POST-LIST:END -->
