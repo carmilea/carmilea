@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turkish Ultranationalist Group on the “Hunt for Armenians” in France](https://www.vice.com/en/article/epddna/turkey-france-armenia-grey-wolves-lyon)
 - [NASA WebGL of the Universe](https://exoplanets.nasa.gov/eyes-on-exoplanets/)
-- [Overpopulation one of the ten greatest threats to humanity](https://populationmatters.org/news/2020/04/23/report-overpopulation-one-ten-greatest-threats-humanity)
 - [Joe Rogan Experience #1556 – Glenn Greenwald](https://www.youtube.com/watch?v=t0rcLsoIKgA)
+- [LIL: Little Interpreted Language](http://runtimeterror.com/tech/lil/)
 - [Foundations of Software Engineering](https://cmu-313.github.io)
-- [Is This the End of the Repairable iPhone?](https://www.ifixit.com/News/45921/is-this-the-end-of-the-repairable-iphone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
