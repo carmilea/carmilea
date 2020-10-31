@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA WebGL of the Universe](https://exoplanets.nasa.gov/eyes-on-exoplanets/)
+- [Overpopulation one of the ten greatest threats to humanity](https://populationmatters.org/news/2020/04/23/report-overpopulation-one-ten-greatest-threats-humanity)
+- [Joe Rogan Experience #1556 – Glenn Greenwald](https://www.youtube.com/watch?v=t0rcLsoIKgA)
 - [Foundations of Software Engineering](https://cmu-313.github.io)
 - [Is This the End of the Repairable iPhone?](https://www.ifixit.com/News/45921/is-this-the-end-of-the-repairable-iphone)
-- [A Better Mousetrap – Converting WebPages to Web APIs](https://turnerj.com/blog/a-better-mousetrap)
-- [PG&E should be fined $166M for botched power shut-offs, watchdog says](https://www.latimes.com/environment/story/2020-10-30/pge-fine-recommended-power-outages)
-- [Packaging Kubernetes for Debian](https://lwn.net/SubscriberLink/835599/f3b49b022582e03e/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
