@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Oh Jeeeesus”: Drivers react to Tesla’s full self-driving beta release](https://arstechnica.com/cars/2020/10/tesla-is-now-beta-testing-self-driving-software-on-public-roads/)
-- [Sir Sean Connery dies aged 90](https://www.bbc.co.uk/news/entertainment-arts-54761824)
-- [New political polarization casts rivals as alien, unlikable, contemptible](https://www.scientificamerican.com/article/why-hatred-and-othering-of-political-foes-has-spiked-to-extreme-levels/)
+- [FreeCAD BIM development news – July/August/September 2020](https://yorik.uncreated.net/blog/2020-011-freecad-september)
+- [Sean Connery: James Bond actor dies aged 90](https://www.bbc.com/news/entertainment-arts-54761824)
+- [Drivers react to Tesla’s full self-driving beta release](https://arstechnica.com/cars/2020/10/tesla-is-now-beta-testing-self-driving-software-on-public-roads/)
+- [Governments Worldwide Consider Ditching Daylight Saving Time](https://www.scientificamerican.com/article/governments-worldwide-consider-ditching-daylight-saving-time/)
 - [De Bruijn Sequences (2011) [video]](https://www.youtube.com/watch?v=iPLQgXUiU14&vl=en-GB)
-- [MIT AI model detects Covid-19 through recorded coughs](https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029)
 <!-- BLOG-POST-LIST:END -->
 
 ---
