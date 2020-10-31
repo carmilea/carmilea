@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Web based Windows XP desktop recreation (powered by React)](https://winxp.now.sh/)
+- [Precomp: Further compress files that are already compressed](https://github.com/schnaader/precomp-cpp)
 - [Octotree – Proprietary Firefox extension contains AGPL-licensed code](https://github.com/ovity/octotree/issues/1040)
 - [First-ever footage of a ram's horn squid in its natural habitat 800m deep](https://www.sciencealert.com/first-ever-deep-sea-footage-of-a-ram-s-horn-squid-has-scientists-freaking-out)
 - [Intermittent fasting increases hippocampal neurogenesis in mice](https://pubmed.ncbi.nlm.nih.gov/31804775/)
-- [Metal Spheres Swarm Together to Create Freeform Modular Robots](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/freebots-spheres-swarm-robots)
-- [What does product market fit look for a B2B startup?](https://dayzero.substack.com/p/product-market-fit-for-a-b2b-company)
 <!-- BLOG-POST-LIST:END -->
 
 ---
