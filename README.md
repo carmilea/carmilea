@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Oh Jeeeesus”: Drivers react to Tesla’s full self-driving beta release](https://arstechnica.com/cars/2020/10/tesla-is-now-beta-testing-self-driving-software-on-public-roads/)
+- [Sir Sean Connery dies aged 90](https://www.bbc.co.uk/news/entertainment-arts-54761824)
 - [New political polarization casts rivals as alien, unlikable, contemptible](https://www.scientificamerican.com/article/why-hatred-and-othering-of-political-foes-has-spiked-to-extreme-levels/)
 - [De Bruijn Sequences (2011) [video]](https://www.youtube.com/watch?v=iPLQgXUiU14&vl=en-GB)
-- [NASA WebGL of the Universe](https://exoplanets.nasa.gov/eyes-on-exoplanets/)
-- [LIL: Little Interpreted Language](http://runtimeterror.com/tech/lil/)
-- [Foundations of Software Engineering](https://cmu-313.github.io)
+- [MIT AI model detects Covid-19 through recorded coughs](https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029)
 <!-- BLOG-POST-LIST:END -->
 
 ---
