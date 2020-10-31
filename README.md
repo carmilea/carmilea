@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Caste discrimination in some of Silicon Valley's richest tech companies](https://www.npr.org/2020/10/14/923736245/caste-arrives-in-silicon-valley)
+- [Intermittent fasting increases adult hippocampal neurogenesis](https://pubmed.ncbi.nlm.nih.gov/31804775/)
 - [Sexagesimal](https://en.wikipedia.org/wiki/Sexagesimal)
-- [Programmable Filament Gives Even Simple 3D Printers Multi-Material Capabilities](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/programmable-filament-gives-even-simple-3d-printers-multimaterial-capabilities)
-- [2020's fastest-rising tech jobs? Programming language PHP leads the way](https://www.zdnet.com/article/2020s-fastest-rising-tech-jobs-programming-language-php-leads-the-way/)
-- [Starting a Telephone Company in 2019, or How I Built Fiber to My Neighbors](https://www.youtube.com/watch?v=Twe6uTwOyJo)
-- [People Are Jailbreaking Used Teslas to Get the Features They Expect](https://www.vice.com/en/article/y3mb3w/people-are-jailbreaking-used-teslas-to-get-the-features-they-expect)
+- [Metal Spheres Swarm Together to Create Freeform Modular Robots](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/freebots-spheres-swarm-robots)
+- [What does product market fit look for a B2B startup?](https://dayzero.substack.com/p/product-market-fit-for-a-b2b-company)
 <!-- BLOG-POST-LIST:END -->
 
 ---
