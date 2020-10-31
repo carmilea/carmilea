@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California Property Taxes Mapped](https://www.officialdata.org/ca-property-tax/)
 - [New nuclear plant at Sizewell set for green light](https://www.bbc.com/news/business-54754016)
 - [How to Deal with Extreme Physical Pain](https://www.hanselman.com/blog/how-to-deal-with-extreme-physical-pain)
 - [A Neighbourly Solution to the 'X Is Deprecated? ' Conundrum](https://www.divergent-desktop.org/blog/2020/10/29/improving-x/)
 - [5Gbps Ethernet on the Raspberry Pi Compute Module 4](https://www.jeffgeerling.com/blog/2020/5-gbps-ethernet-on-raspberry-pi-compute-module-4)
-- [Beautifully preserved cave bears emerge from Siberian permafrost](https://arstechnica.com/science/2020/09/beautifully-preserved-cave-bears-emerge-from-siberian-permafrost/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
