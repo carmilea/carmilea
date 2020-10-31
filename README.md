@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dieter Rams: ten principles for good design](https://www.vitsoe.com/gb/about/good-design)
+- [Apple is warning Mac users that Amazon Music app and HP drivers are malware](https://appleinsider.com/articles/20/10/23/some-mac-users-being-warned-that-amazon-music-app-and-hp-drivers-are-malware)
 - [Web based Windows XP desktop recreation (powered by React)](https://winxp.now.sh/)
 - [Precomp: Further compress files that are already compressed](https://github.com/schnaader/precomp-cpp)
 - [Inside the stacked RAM modules used in the Apple III](http://www.righto.com/2020/10/inside-stacked-ram-modules-used-in.html)
-- [Octotree – Proprietary Firefox extension contains AGPL-licensed code](https://github.com/ovity/octotree/issues/1040)
-- [First-ever footage of a ram's horn squid in its natural habitat 800m deep](https://www.sciencealert.com/first-ever-deep-sea-footage-of-a-ram-s-horn-squid-has-scientists-freaking-out)
 <!-- BLOG-POST-LIST:END -->
 
 ---
