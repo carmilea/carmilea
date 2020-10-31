@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Bitcoin’s White Paper Got Right, Wrong and What We Still Don’t Know (2018)](https://www.coindesk.com/what-bitcoins-white-paper-got-right-wrong-and-what-we-still-dont-know)
-- [Show HN: Web scraping that just works with OpenFaaS with Puppeteer](https://www.openfaas.com/blog/puppeteer-scraping/)
-- [FreeCAD BIM development news](https://yorik.uncreated.net/blog/2020-011-freecad-september)
-- [Masks Work. Really. We’ll Show You How](https://www.nytimes.com/interactive/2020/10/30/science/wear-mask-covid-particles-ul.html)
-- [Governments Worldwide Consider Ditching Daylight Saving Time](https://www.scientificamerican.com/article/governments-worldwide-consider-ditching-daylight-saving-time/)
+- [Sexagesimal](https://en.wikipedia.org/wiki/Sexagesimal)
+- [Programmable Filament Gives Even Simple 3D Printers Multi-Material Capabilities](https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/programmable-filament-gives-even-simple-3d-printers-multimaterial-capabilities)
+- [2020's fastest-rising tech jobs? Programming language PHP leads the way](https://www.zdnet.com/article/2020s-fastest-rising-tech-jobs-programming-language-php-leads-the-way/)
+- [Starting a Telephone Company in 2019, or How I Built Fiber to My Neighbors](https://www.youtube.com/watch?v=Twe6uTwOyJo)
+- [People Are Jailbreaking Used Teslas to Get the Features They Expect](https://www.vice.com/en/article/y3mb3w/people-are-jailbreaking-used-teslas-to-get-the-features-they-expect)
 <!-- BLOG-POST-LIST:END -->
 
 ---
