@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Camera Ruins Soccer Game After Mistaking Referee's Bald Head for Ball](https://www.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball)
+- [Please Share Your Thoughts](https://news.ycombinator.com/item?id=24955600)
+- [Homicide victim found in burnt-out SUV ID'd as man behind spam-email empire](https://www.cbc.ca/news/canada/british-columbia/davis-wolfgang-hawke-missing-dead-1.5782107)
 - [Dieter Rams: ten principles for good design](https://www.vitsoe.com/gb/about/good-design)
-- [Apple is warning Mac users that Amazon Music app and HP drivers are malware](https://appleinsider.com/articles/20/10/23/some-mac-users-being-warned-that-amazon-music-app-and-hp-drivers-are-malware)
-- [Web based Windows XP desktop recreation (powered by React)](https://winxp.now.sh/)
-- [Precomp: Further compress files that are already compressed](https://github.com/schnaader/precomp-cpp)
-- [Inside the stacked RAM modules used in the Apple III](http://www.righto.com/2020/10/inside-stacked-ram-modules-used-in.html)
+- [The Complete Idiot’s Guide to the Independence of the Continuum Hypothesis](https://www.scottaaronson.com/blog/?p=4974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
