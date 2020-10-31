@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can you crack the combination lock? Yeah – De Bruijn Sequences](https://www.youtube.com/watch?v=iPLQgXUiU14&vl=en-GB)
-- [Turkish Ultranationalist Group on the “Hunt for Armenians” in France](https://www.vice.com/en/article/epddna/turkey-france-armenia-grey-wolves-lyon)
+- [New political polarization casts rivals as alien, unlikable, contemptible](https://www.scientificamerican.com/article/why-hatred-and-othering-of-political-foes-has-spiked-to-extreme-levels/)
+- [De Bruijn Sequences (2011) [video]](https://www.youtube.com/watch?v=iPLQgXUiU14&vl=en-GB)
 - [NASA WebGL of the Universe](https://exoplanets.nasa.gov/eyes-on-exoplanets/)
 - [LIL: Little Interpreted Language](http://runtimeterror.com/tech/lil/)
 - [Foundations of Software Engineering](https://cmu-313.github.io)
