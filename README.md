@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Foundations of Software Engineering](https://cmu-313.github.io)
+- [Is This the End of the Repairable iPhone?](https://www.ifixit.com/News/45921/is-this-the-end-of-the-repairable-iphone)
 - [A Better Mousetrap – Converting WebPages to Web APIs](https://turnerj.com/blog/a-better-mousetrap)
 - [PG&E should be fined $166M for botched power shut-offs, watchdog says](https://www.latimes.com/environment/story/2020-10-30/pge-fine-recommended-power-outages)
 - [Packaging Kubernetes for Debian](https://lwn.net/SubscriberLink/835599/f3b49b022582e03e/)
-- [Distributed Systems Learning Notes](https://timilearning.com/)
-- [New nuclear plant at Sizewell set for green light](https://www.bbc.com/news/business-54754016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
