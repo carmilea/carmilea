@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FreeCAD BIM development news – July/August/September 2020](https://yorik.uncreated.net/blog/2020-011-freecad-september)
-- [Sean Connery: James Bond actor dies aged 90](https://www.bbc.com/news/entertainment-arts-54761824)
-- [Drivers react to Tesla’s full self-driving beta release](https://arstechnica.com/cars/2020/10/tesla-is-now-beta-testing-self-driving-software-on-public-roads/)
+- [What Bitcoin’s White Paper Got Right, Wrong and What We Still Don’t Know (2018)](https://www.coindesk.com/what-bitcoins-white-paper-got-right-wrong-and-what-we-still-dont-know)
+- [Show HN: Web scraping that just works with OpenFaaS with Puppeteer](https://www.openfaas.com/blog/puppeteer-scraping/)
+- [FreeCAD BIM development news](https://yorik.uncreated.net/blog/2020-011-freecad-september)
+- [Masks Work. Really. We’ll Show You How](https://www.nytimes.com/interactive/2020/10/30/science/wear-mask-covid-particles-ul.html)
 - [Governments Worldwide Consider Ditching Daylight Saving Time](https://www.scientificamerican.com/article/governments-worldwide-consider-ditching-daylight-saving-time/)
-- [De Bruijn Sequences (2011) [video]](https://www.youtube.com/watch?v=iPLQgXUiU14&vl=en-GB)
 <!-- BLOG-POST-LIST:END -->
 
 ---
