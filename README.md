@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPerfect for DOS Updated](http://www.columbia.edu/~em36/wpdos/)
+- [Poll: 62% of Americans Say They Have Political Views They’re Afraid to Share](https://www.cato.org/publications/survey-reports/poll-62-americans-say-they-have-political-views-theyre-afraid-share)
 - [SafeButler (YC S17) Is Hiring a UX Designer](https://www.safebutler.com/careers)
 - [Timeline of early eukaryotic evolution unveiled](https://phys.org/news/2020-10-timeline-early-eukaryotic-evolution-unveiled.html)
 - [Pine64 Smarphone Spare Parts](https://pine64.com/product-category/smarphone-spare-parts/?v=0446c16e2e66)
-- [An ex-ARM engineer critiques RISC-V](https://gist.github.com/erincandescent/8a10eeeea1918ee4f9d9982f7618ef68)
-- [Netflix Android and iOS Studio Apps – Now Powered by Kotlin Multiplatform](https://netflixtechblog.com/netflix-android-and-ios-studio-apps-kotlin-multiplatform-d6d4d8d25d23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
