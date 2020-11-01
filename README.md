@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who Is America?](http://plsignore.com/who-is-america/)
+- [George Orwell's Reflection on Fascism: Looking Back on the Spanish War (1942)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/looking-back-on-the-spanish-war/)
+- [The West’s Infernos Are Melting Our Sense of How Fire Works](https://www.wired.com/story/west-coast-california-wildfire-infernos/)
 - [The Remains of the US Airmail Beacon System](https://sometimes-interesting.com/2013/12/04/concrete-arrows-and-the-u-s-airmail-beacon-system/)
 - [SQL X-to-Y](https://www.damirsystems.com/sql-x-to-y/)
-- [Average UX Improvements Are Shrinking over Time](https://www.nngroup.com/articles/ux-gains-shrinking/)
-- [Seam (YC S20 – IoT/Hardware) Is Hiring a Head of API Platform](https://www.workatastartup.com/companies/21800)
-- [Public static final int EM_NATION_TYPE_UYGUR = 1;](https://twitter.com/q3k/status/1322943395497680897)
 <!-- BLOG-POST-LIST:END -->
 
 ---
