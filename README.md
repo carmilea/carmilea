@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Navigate Being the Only Woman on Your Team](https://www.builtincolorado.com/2020/10/15/how-to-navigate-being-the-only-woman-on-your-team)
+- [Winamp for Windows 10](http://www.mywinamp.com/winamp-for-windows-10-download/)
+- [Uber Engineer Quits over Pressure to Support Proposition 22](https://www.kqed.org/news/11844698/uber-engineer-quits-over-pressure-to-support-proposition-22)
 - [Open letter to founders: entrepreneurship is not physics](https://www.younglingfeynman.com/essays/physicsenvy)
+- [Trinity Desktop Environment R14.0.9 Release Notes](https://wiki.trinitydesktop.org/Release_Notes_For_R14.0.9)
 - [As a former social media analyst, I'm quitting Twitter](https://madrox.substack.com/p/yet-another-quitting-twitter)
-- [The missing explanation of ZK-SNARKs: Part 1](https://www.cryptologie.net/article/507/the-missing-explanation-of-zk-snarks/)
-- [Notion's Onboarding Experience: A Case of Simplicity and Delightfulness](https://blog.moeminmamdouh.com/notions-onboarding-experience-a-case-of-simplicity-and-delightfulness)
 <!-- BLOG-POST-LIST:END -->
 
 ---
