@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft and the NSA](http://techrights.org/wiki/index.php/Microsoft_and_the_NSA)
 - [Intake of saturated fatty acids and risk of coronary heart disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5121105/)
+- [Let the Incarcerated Vote](https://www.theatlantic.com/ideas/archive/2020/10/let-incarcerated-vote/616951/)
 - [Writing a user manual at work makes teams less anxious and more productive](https://qz.com/1046131/writing-a-user-manual-at-work-makes-teams-less-anxious-and-more-productive/)
 - [Why skin lesions are peanuts and brain tumors harder nuts](https://thegradient.pub/why-skin-lesions-are-peanuts-and-brain-tumors-harder-nuts/)
-- [No new locally-acquired coronavirus cases in Australia yesterday](https://www.covid19data.com.au/)
-- [Visualizing Git Concepts with D3](https://onlywei.github.io/explain-git-with-d3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
