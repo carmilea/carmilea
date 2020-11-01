@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New youtube-dl release: v2020.11.01.1](https://youtube-dl.org/)
+- [Mitmproxy 5.3](https://github.com/mitmproxy/mitmproxy/releases/tag/v5.3.0)
 - [Unpopular opinion: Weekdays/weekend split isn't for everyone](https://twitter.com/meseali/status/1322860064974274560)
 - [Piipcam – 1080P IP Camera on a Raspberry Pi Zero W](https://github.com/sepfy/piipcam)
-- [Soccer match ruined when AI-controlled camera mistakes ref’s bald head for ball](https://www.sbnation.com/soccer/2020/10/30/21541962/soccer-match-ai-camera-bald-head-ball)
 - [Ask HN: How do custom software dev firms make money?](https://news.ycombinator.com/item?id=24959238)
-- [WordPerfect for DOS Updated](http://www.columbia.edu/~em36/wpdos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
