@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Remains of the US Airmail Beacon System](https://sometimes-interesting.com/2013/12/04/concrete-arrows-and-the-u-s-airmail-beacon-system/)
+- [SQL X-to-Y](https://www.damirsystems.com/sql-x-to-y/)
+- [Average UX Improvements Are Shrinking over Time](https://www.nngroup.com/articles/ux-gains-shrinking/)
 - [Seam (YC S20 – IoT/Hardware) Is Hiring a Head of API Platform](https://www.workatastartup.com/companies/21800)
-- [New youtube-dl release: v2020.11.01.1](https://youtube-dl.org/)
-- [Mitmproxy 5.3](https://github.com/mitmproxy/mitmproxy/releases/tag/v5.3.0)
-- [Chrome unlikely to support XPath 3.1](https://github.com/whatwg/dom/issues/903#issuecomment-707748069)
-- [Show HN: A JavaScript SDK to reduce video streaming costs by 90%](https://api.peervadoo.com/test)
+- [Public static final int EM_NATION_TYPE_UYGUR = 1;](https://twitter.com/q3k/status/1322943395497680897)
 <!-- BLOG-POST-LIST:END -->
 
 ---
