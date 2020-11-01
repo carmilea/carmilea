@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [China's Draft 'Personal Information Protection Law' (Full Translation)](https://www.newamerica.org/cybersecurity-initiative/digichina/blog/chinas-draft-personal-information-protection-law-full-translation/)
+- [Nat Slipstreaming](https://samy.pl/slipstream/)
 - [AI Camera Ruins Soccer Game After Mistaking Referee's Bald Head for Ball](https://www.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball)
+- [Ropes, an Alternative to Strings [pdf]](http://www.cs.rit.edu/usr/local/pub/jeh/courses/QUARTERS/FP/Labs/CedarRope/rope-paper.pdf)
 - [Please Share Your Thoughts](https://news.ycombinator.com/item?id=24955600)
-- [Homicide victim found in burnt-out SUV ID'd as man behind spam-email empire](https://www.cbc.ca/news/canada/british-columbia/davis-wolfgang-hawke-missing-dead-1.5782107)
-- [Dieter Rams: ten principles for good design](https://www.vitsoe.com/gb/about/good-design)
-- [The Complete Idiot’s Guide to the Independence of the Continuum Hypothesis](https://www.scottaaronson.com/blog/?p=4974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
