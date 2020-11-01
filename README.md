@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Academic Substack: Open, Free, and Subject to Review](https://jfmcdonald.substack.com/p/academic-substack-open-free-and-subject)
 - [China's Draft 'Personal Information Protection Law' (Full Translation)](https://www.newamerica.org/cybersecurity-initiative/digichina/blog/chinas-draft-personal-information-protection-law-full-translation/)
 - [Nat Slipstreaming](https://samy.pl/slipstream/)
 - [AI Camera Ruins Soccer Game After Mistaking Referee's Bald Head for Ball](https://www.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball)
-- [Ropes, an Alternative to Strings [pdf]](http://www.cs.rit.edu/usr/local/pub/jeh/courses/QUARTERS/FP/Labs/CedarRope/rope-paper.pdf)
-- [Please Share Your Thoughts](https://news.ycombinator.com/item?id=24955600)
+- [Ropes, an Alternative to Strings [pdf] (1995)](http://www.cs.rit.edu/usr/local/pub/jeh/courses/QUARTERS/FP/Labs/CedarRope/rope-paper.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
