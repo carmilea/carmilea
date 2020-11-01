@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I No Longer Tell My Friends about Anki/SuperMemo](https://www.masterhowtolearn.com/2020-10-31-why-i-no-longer-tell-my-friends-about-anki-supermemo/)
+- [Intake of saturated fatty acids and risk of coronary heart disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5121105/)
 - [Writing a user manual at work makes teams less anxious and more productive](https://qz.com/1046131/writing-a-user-manual-at-work-makes-teams-less-anxious-and-more-productive/)
 - [Why skin lesions are peanuts and brain tumors harder nuts](https://thegradient.pub/why-skin-lesions-are-peanuts-and-brain-tumors-harder-nuts/)
 - [No new locally-acquired coronavirus cases in Australia yesterday](https://www.covid19data.com.au/)
