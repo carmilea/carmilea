@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Timeline of early eukaryotic evolution unveiled](https://phys.org/news/2020-10-timeline-early-eukaryotic-evolution-unveiled.html)
+- [Pine64 Smarphone Spare Parts](https://pine64.com/product-category/smarphone-spare-parts/?v=0446c16e2e66)
+- [An ex-ARM engineer critiques RISC-V](https://gist.github.com/erincandescent/8a10eeeea1918ee4f9d9982f7618ef68)
 - [Precursor, a mobile open-source electronics platform for developing secure apps](https://www.crowdsupply.com/sutajio-kosagi/precursor)
-- [Microsoft and the NSA](http://techrights.org/wiki/index.php/Microsoft_and_the_NSA)
-- [Intake of saturated fatty acids and risk of coronary heart disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5121105/)
-- [Let the Incarcerated Vote](https://www.theatlantic.com/ideas/archive/2020/10/let-incarcerated-vote/616951/)
-- [Writing a user manual at work makes teams less anxious and more productive](https://qz.com/1046131/writing-a-user-manual-at-work-makes-teams-less-anxious-and-more-productive/)
+- [macOS 11 boot volume layout](https://eclecticlight.co/2020/09/16/boot-volume-layout/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
