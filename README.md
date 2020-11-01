@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No new coronavirus cases in Australia on Saturday](https://www.covid19data.com.au/)
-- [Toronto-area lawyer had to flee Canada after taking on the tow truck industry](https://www.ctvnews.ca/w5/this-toronto-area-lawyer-had-to-flee-the-country-after-taking-on-the-tow-truck-industry-1.5167869)
-- [Simple Image Vectorization](https://wordsandbuttons.online/simple_image_vectorization.html)
-- [D2iQ (formerly Mesosphere) sunsetting DC/OS and focusing on Kubernetes](https://d2iq.com/blog/d2iq-takes-the-next-step-forward)
-- [First beta release of Alire, the package manager for Ada/SPARK](https://blog.adacore.com/first-beta-release-of-alire-the-package-manager-for-ada-spark)
+- [I No Longer Tell My Friends about Anki/SuperMemo](https://www.masterhowtolearn.com/2020-10-31-why-i-no-longer-tell-my-friends-about-anki-supermemo/)
+- [Writing a user manual at work makes teams less anxious and more productive](https://qz.com/1046131/writing-a-user-manual-at-work-makes-teams-less-anxious-and-more-productive/)
+- [Why skin lesions are peanuts and brain tumors harder nuts](https://thegradient.pub/why-skin-lesions-are-peanuts-and-brain-tumors-harder-nuts/)
+- [No new locally-acquired coronavirus cases in Australia yesterday](https://www.covid19data.com.au/)
+- [Visualizing Git Concepts with D3](https://onlywei.github.io/explain-git-with-d3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
