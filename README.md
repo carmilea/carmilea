@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Seam (YC S20 – IoT/Hardware) Is Hiring a Head of API Platform](https://www.workatastartup.com/companies/21800)
 - [New youtube-dl release: v2020.11.01.1](https://youtube-dl.org/)
 - [Mitmproxy 5.3](https://github.com/mitmproxy/mitmproxy/releases/tag/v5.3.0)
-- [Unpopular opinion: Weekdays/weekend split isn't for everyone](https://twitter.com/meseali/status/1322860064974274560)
-- [Piipcam – 1080P IP Camera on a Raspberry Pi Zero W](https://github.com/sepfy/piipcam)
-- [Ask HN: How do custom software dev firms make money?](https://news.ycombinator.com/item?id=24959238)
+- [Chrome unlikely to support XPath 3.1](https://github.com/whatwg/dom/issues/903#issuecomment-707748069)
+- [Show HN: A JavaScript SDK to reduce video streaming costs by 90%](https://api.peervadoo.com/test)
 <!-- BLOG-POST-LIST:END -->
 
 ---
