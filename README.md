@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Collision](https://fiftytwo.in/story/collision/)
+- [Millions of animals missing from scientific studies](https://www.sciencemag.org/news/2020/10/millions-animals-may-be-missing-scientific-studies)
+- [Algebraic Effects for React Developers](https://reesew.io/posts/react-algebraic-effects)
 - [Winamp for Windows 10](http://www.mywinamp.com/winamp-for-windows-10-download/)
-- [Uber Engineer Quits over Pressure to Support Proposition 22](https://www.kqed.org/news/11844698/uber-engineer-quits-over-pressure-to-support-proposition-22)
-- [Open letter to founders: entrepreneurship is not physics](https://www.younglingfeynman.com/essays/physicsenvy)
 - [Trinity Desktop Environment R14.0.9 Release Notes](https://wiki.trinitydesktop.org/Release_Notes_For_R14.0.9)
-- [As a former social media analyst, I'm quitting Twitter](https://madrox.substack.com/p/yet-another-quitting-twitter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
