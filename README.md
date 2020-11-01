@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Navigate Being the Only Woman on Your Team](https://www.builtincolorado.com/2020/10/15/how-to-navigate-being-the-only-woman-on-your-team)
+- [Open letter to founders: entrepreneurship is not physics](https://www.younglingfeynman.com/essays/physicsenvy)
+- [As a former social media analyst, I'm quitting Twitter](https://madrox.substack.com/p/yet-another-quitting-twitter)
 - [The missing explanation of ZK-SNARKs: Part 1](https://www.cryptologie.net/article/507/the-missing-explanation-of-zk-snarks/)
-- [George Orwell's Reflection on Fascism: Looking Back on the Spanish War (1942)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/looking-back-on-the-spanish-war/)
-- [Bunnie's Precursor Crowdfunding Begins](https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/crowdfunding-begins)
-- [The West’s Infernos Are Melting Our Sense of How Fire Works](https://www.wired.com/story/west-coast-california-wildfire-infernos/)
-- [SQL X-to-Y](https://www.damirsystems.com/sql-x-to-y/)
+- [Notion's Onboarding Experience: A Case of Simplicity and Delightfulness](https://blog.moeminmamdouh.com/notions-onboarding-experience-a-case-of-simplicity-and-delightfulness)
 <!-- BLOG-POST-LIST:END -->
 
 ---
