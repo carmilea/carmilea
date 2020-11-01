@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do custom software dev firms make money?](https://news.ycombinator.com/item?id=24959238)
 - [WordPerfect for DOS Updated](http://www.columbia.edu/~em36/wpdos/)
-- [Poll: 62% of Americans Say They Have Political Views They’re Afraid to Share](https://www.cato.org/publications/survey-reports/poll-62-americans-say-they-have-political-views-theyre-afraid-share)
 - [SafeButler (YC S17) Is Hiring a UX Designer](https://www.safebutler.com/careers)
-- [Timeline of early eukaryotic evolution unveiled](https://phys.org/news/2020-10-timeline-early-eukaryotic-evolution-unveiled.html)
-- [Pine64 Smarphone Spare Parts](https://pine64.com/product-category/smarphone-spare-parts/?v=0446c16e2e66)
+- [Single-Celled Organism Appears to Make Decisions (2019)](https://www.the-scientist.com/news-opinion/single-celled-organism-appears-to-make-decisions-66818)
+- [7GUIs](https://eugenkiss.github.io/7guis/tasks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
