@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First beta release of Alire, the package manager for Ada/SPARK](https://blog.adacore.com/first-beta-release-of-alire-the-package-manager-for-ada-spark)
 - [Academic Substack: Open, Free, and Subject to Review](https://jfmcdonald.substack.com/p/academic-substack-open-free-and-subject)
-- [Yet another alternative to floating-point numbers](https://wordsandbuttons.online/yet_another_alternative_to_floating_point_numbers.html)
 - [Intent to stop using null in my (JavaScript) code](https://github.com/sindresorhus/meta/issues/7)
 - [China's Draft 'Personal Information Protection Law' (Full Translation)](https://www.newamerica.org/cybersecurity-initiative/digichina/blog/chinas-draft-personal-information-protection-law-full-translation/)
 - [Nat Slipstreaming](https://samy.pl/slipstream/)
