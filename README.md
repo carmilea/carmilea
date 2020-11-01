@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Is America?](http://plsignore.com/who-is-america/)
+- [The missing explanation of ZK-SNARKs: Part 1](https://www.cryptologie.net/article/507/the-missing-explanation-of-zk-snarks/)
 - [George Orwell's Reflection on Fascism: Looking Back on the Spanish War (1942)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/looking-back-on-the-spanish-war/)
+- [Bunnie's Precursor Crowdfunding Begins](https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/crowdfunding-begins)
 - [The West’s Infernos Are Melting Our Sense of How Fire Works](https://www.wired.com/story/west-coast-california-wildfire-infernos/)
-- [The Remains of the US Airmail Beacon System](https://sometimes-interesting.com/2013/12/04/concrete-arrows-and-the-u-s-airmail-beacon-system/)
 - [SQL X-to-Y](https://www.damirsystems.com/sql-x-to-y/)
 <!-- BLOG-POST-LIST:END -->
 
