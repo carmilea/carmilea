@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No new coronavirus cases in Australia on Saturday](https://www.covid19data.com.au/)
 - [Toronto-area lawyer had to flee Canada after taking on the tow truck industry](https://www.ctvnews.ca/w5/this-toronto-area-lawyer-had-to-flee-the-country-after-taking-on-the-tow-truck-industry-1.5167869)
+- [Simple Image Vectorization](https://wordsandbuttons.online/simple_image_vectorization.html)
+- [D2iQ (formerly Mesosphere) sunsetting DC/OS and focusing on Kubernetes](https://d2iq.com/blog/d2iq-takes-the-next-step-forward)
 - [First beta release of Alire, the package manager for Ada/SPARK](https://blog.adacore.com/first-beta-release-of-alire-the-package-manager-for-ada-spark)
-- [Academic Substack: Open, Free, and Subject to Review](https://jfmcdonald.substack.com/p/academic-substack-open-free-and-subject)
-- [Yet another alternative to floating-point numbers](https://wordsandbuttons.online/yet_another_alternative_to_floating_point_numbers.html)
-- [Intent to stop using null in my (JavaScript) code](https://github.com/sindresorhus/meta/issues/7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
