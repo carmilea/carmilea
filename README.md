@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Warns Users Reposting YouTube-DL They Could Be Banned](https://torrentfreak.com/github-warns-users-reposting-youtube-dl-they-could-be-banned-201102/)
-- [Dojo3D – a simple JavaScript library for 3D interactive stories](https://github.com/webprofusion/dojo3d)
-- [Is a billion-dollar worth of server lying on the ground?](https://cerebralab.com/Is_a_billion-dollar_worth_of_server_lying_on_the_ground)
-- [Build a Collaborative Chatbot with Google Sheets and TensorFlow](https://jonathanbgn.com/nlp/2020/09/29/chatbot-universal-sentence-encoder.html)
-- [My fiber optical modem broadcasts a poem via ethernet frame 0x8300](https://gist.github.com/riobard/c7eb86aa3586c36ffaa75f7be3b57d66)
+- [South Park creators have new political satire series with AI-generated deepfakes](https://www.theregister.com/2020/11/02/in_brief_ai/)
+- [Cellular immunity to SARS-CoV2 found at 6 months in non-hospitalised individuals](https://www.uk-cic.org/news/cellular-immunity-sars-cov-2-found-six-months-non-hospitalised-individuals)
+- [Review of High Priority Projects free software: your input is needed](https://www.fsf.org/blogs/community/committee-begins-review-of-high-priority-projects-free-software-list-2014-your-input-is-needed-by-january-8)
+- [Why is subtracting these two times in 1927 giving a strange result?](https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-times-in-1927-giving-a-strange-result)
+- [Githubassets.com Cert Has Expired](https://news.ycombinator.com/item?id=24967170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
