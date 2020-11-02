@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rendering photo-realistic glass in the browser](https://domenicobrz.github.io/webgl/projects/SSRefractionDepthPeeling/)
+- [Ask HN: How's the Kickstarter Union Going?](https://news.ycombinator.com/item?id=24964870)
 - [How Google Meet's background blur and replacement work](https://ai.googleblog.com/2020/10/background-features-in-google-meet.html)
 - [The Life of Einstein's First Wife](https://blogs.scientificamerican.com/guest-blog/the-forgotten-life-of-einsteins-first-wife/)
 - [The new pricing model for Travis CI](https://blog.travis-ci.com/2020-11-02-travis-ci-new-billing)
-- [David Shor’s Unified Theory of American Politics](https://nymag.com/intelligencer/2020/07/david-shor-cancel-culture-2020-election-theory-polls.html)
-- [The history of wildfire modeling](https://triplebyte.com/blog/the-history-of-wildfire-modeling?hnpost)
 <!-- BLOG-POST-LIST:END -->
 
 ---
