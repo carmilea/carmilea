@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook exempted Trump allies from misinformation rules](https://www.businessinsider.com/facebook-trump-family-misinformation-rules-exemption-donald-trump-jr-2020-11)
+- [Show HN: A Python container for dataclasses \w multi-indexing and vector opps](https://github.com/joshlk/dataclassframe)
+- [SEC raised the limit on Regulation Crowdfunding from $1.07M to $5M](https://twitter.com/shl/status/1323311964823592960)
+- [Tech Workers Take to the Mountains, Bringing Silicon Valley with Them](https://www.wsj.com/articles/tech-workers-take-to-the-mountains-bringing-silicon-valley-with-them-11604242802)
 - [EasyPost (YC S13) Is Hiring to Take over ECommerce](https://www.easypost.com/careers)
-- [“Before cancelling your subscription, you must agree to the following”](https://twitter.com/apenwarr/status/1322998961704210433)
-- [Ask HN: Who is hiring? (November 2020)](https://news.ycombinator.com/item?id=24969524)
-- [Twilio wraps $3.2B purchase of Segment after warp speed courtship](https://techcrunch.com/2020/11/02/twilio-wraps-3-2b-purchase-of-segment-after-warp-speed-courtship/)
-- [Keeping Netflix Reliable Using Prioritized Load Shedding](https://netflixtechblog.com/keeping-netflix-reliable-using-prioritized-load-shedding-6cc827b02f94)
 <!-- BLOG-POST-LIST:END -->
 
 ---
