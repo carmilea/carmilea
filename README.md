@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Silicon Mac Event Announced](https://www.theverge.com/2020/11/2/21546136/apple-event-date-time-november-10th-one-more-thing-arm-mac-silicon)
+- [Ask HN: Consultants and freelancers, how do you handle invoicing?](https://news.ycombinator.com/item?id=24972066)
+- [SingleStore for Fastboards](https://www.singlestore.com/blog/singlestore-for-fastboards/)
+- [The AI Who Mistook a Bald Head for a Soccer Ball](https://kottke.org/20/11/the-ai-who-mistook-a-bald-head-for-a-soccer-ball)
 - [Why Tunnels in the US Cost Much More Than Anywhere Else in the World](https://tunnelingonline.com/why-tunnels-in-the-us-cost-much-more-than-anywhere-else-in-the-world/)
-- [My Thoughts on Monorepo](https://shekhargulati.com/2020/11/02/my-thoughts-on-monorepo/)
-- [Dante's Peek](https://www.etymonline.com/columns/post/dante%27s-peek)
-- [Quantum circuit for the fast Fourier transform](https://link.springer.com/article/10.1007/s11128-020-02776-5)
-- [Show HN: A Python container for dataclasses \w multi-indexing and vector opps](https://github.com/joshlk/dataclassframe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
