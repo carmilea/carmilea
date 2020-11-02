@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Hangover, Win64/Win32 applications on arm64/ppc64le/x86_64 Linux and x86_64 Mac](https://github.com/AndreRH/hangover)
+- [Faster Growth, Fairer Growth: Policies for a High Road, High Performance Economy](https://www.niskanencenter.org/faster_fairer/agenda.html)
+- [Names are not type safety](http://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/)
 - [Sbang lets you run scripts with long shebang lines](https://github.com/spack/sbang)
-- [Collision](https://fiftytwo.in/story/collision/)
-- [Millions of animals missing from scientific studies](https://www.sciencemag.org/news/2020/10/millions-animals-may-be-missing-scientific-studies)
-- [Algebraic Effects for React Developers](https://reesew.io/posts/react-algebraic-effects)
+- [Stator: A full-stack boilerplate – releases, deployments, enforced conventions](https://github.com/chocolat-chaud-io/stator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
