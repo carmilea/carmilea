@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dan Kohn Has Died](https://news.ycombinator.com/item?id=24968442)
-- [How I talk to the victims of conspiracy theories](https://www.bbc.co.uk/news/blogs-trending-54738471)
-- [Why most African countries are not prospering](https://iafrikan.com/2020/04/28/iafrikan-daily-brief-why-most-african-countries-are-not-prospering/)
-- [South Park creators have new political satire series with AI-generated deepfakes](https://www.theregister.com/2020/11/02/in_brief_ai/)
-- [Cellular immunity to SARS-CoV2 found at 6 months in non-hospitalised individuals](https://www.uk-cic.org/news/cellular-immunity-sars-cov-2-found-six-months-non-hospitalised-individuals)
+- [“Before cancelling your subscription, you must agree to the following”](https://twitter.com/apenwarr/status/1322998961704210433)
+- [Twilio wraps $3.2B purchase of Segment after warp speed courtship](https://techcrunch.com/2020/11/02/twilio-wraps-3-2b-purchase-of-segment-after-warp-speed-courtship/)
+- [Keeping Netflix Reliable Using Prioritized Load Shedding](https://netflixtechblog.com/keeping-netflix-reliable-using-prioritized-load-shedding-6cc827b02f94)
+- [Learning coupled differential equations subject to non-conservative forces](https://arxiv.org/abs/2010.11270)
+- [Dan Kohn has died](https://twitter.com/DrOceanJulie/status/1322957062444326919)
 <!-- BLOG-POST-LIST:END -->
 
 ---
