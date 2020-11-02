@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rendering photo-realistic glass in the browser](https://domenicobrz.github.io/webgl/projects/SSRefractionDepthPeeling/)
-- [The Paranoid Style in American Politics (1964)](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/)
-- [How Google Meet's background blur and replacement work](https://ai.googleblog.com/2020/10/background-features-in-google-meet.html)
-- [Why Leaders Need to Learn the Skill of Writing](https://fromthegreennotebook.com/2020/10/03/why-leaders-need-to-learn-the-skill-of-writing/)
-- [The Life of Einstein's First Wife](https://blogs.scientificamerican.com/guest-blog/the-forgotten-life-of-einsteins-first-wife/)
+- [Raspberry Pi 400 Computer (Raspberry Pi 4 in Keyboard-Based Formfactor)](https://www.raspberrypi.org/blog/raspberry-pi-400-the-70-desktop-pc/)
+- [Google users locked out after 15 years' use](https://www.businessinsider.com/google-users-locked-out-after-years-2020-10)
+- [The Case Against More Ethanol](https://e360.yale.edu/features/the_case_against_ethanol_bad_for_environment)
+- [Study: Focus will shape the future of distributed work](https://blog.dropbox.com/topics/work-culture/economist-intelligence-unit-distributed-work-study)
+- [A Thousand Slayn](https://www.lrb.co.uk/the-paper/v42/n21/barbara-newman/a-thousand-slayn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
