@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The history of wildfire modeling](https://triplebyte.com/blog/the-history-of-wildfire-modeling?hnpost)
 - [Hangover, Win64/Win32 applications on arm64/ppc64le/x86_64 Linux and x86_64 Mac](https://github.com/AndreRH/hangover)
 - [Faster Growth, Fairer Growth: Policies for a High Road, High Performance Economy](https://www.niskanencenter.org/faster_fairer/agenda.html)
 - [Names are not type safety](http://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/)
 - [Sbang lets you run scripts with long shebang lines](https://github.com/spack/sbang)
-- [Stator: A full-stack boilerplate – releases, deployments, enforced conventions](https://github.com/chocolat-chaud-io/stator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
