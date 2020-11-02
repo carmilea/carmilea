@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Rendering photo-realistic glass in the browser](https://domenicobrz.github.io/webgl/projects/SSRefractionDepthPeeling/)
-- [Ask HN: How's the Kickstarter Union Going?](https://news.ycombinator.com/item?id=24964870)
+- [The Paranoid Style in American Politics (1964)](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/)
 - [How Google Meet's background blur and replacement work](https://ai.googleblog.com/2020/10/background-features-in-google-meet.html)
+- [Why Leaders Need to Learn the Skill of Writing](https://fromthegreennotebook.com/2020/10/03/why-leaders-need-to-learn-the-skill-of-writing/)
 - [The Life of Einstein's First Wife](https://blogs.scientificamerican.com/guest-blog/the-forgotten-life-of-einsteins-first-wife/)
-- [The new pricing model for Travis CI](https://blog.travis-ci.com/2020-11-02-travis-ci-new-billing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
