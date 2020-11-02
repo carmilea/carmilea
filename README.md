@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rabbet (YC S17) Is Hiring Software Engineers (US Remote/Austin)](https://apply.workable.com/rabbet/j/EA0C679685/)
+- [Brave Browser Passes 20M Monthly Active Users and 7M Daily Active Users](https://brave.com/20m-mau/)
+- [No More Google](https://nomoregoogle.com/)
 - [Apple Silicon Mac Event Announced](https://www.theverge.com/2020/11/2/21546136/apple-event-date-time-november-10th-one-more-thing-arm-mac-silicon)
 - [Ask HN: Consultants and freelancers, how do you handle invoicing?](https://news.ycombinator.com/item?id=24972066)
-- [SingleStore for Fastboards](https://www.singlestore.com/blog/singlestore-for-fastboards/)
-- [The AI Who Mistook a Bald Head for a Soccer Ball](https://kottke.org/20/11/the-ai-who-mistook-a-bald-head-for-a-soccer-ball)
-- [Why Tunnels in the US Cost Much More Than Anywhere Else in the World](https://tunnelingonline.com/why-tunnels-in-the-us-cost-much-more-than-anywhere-else-in-the-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
