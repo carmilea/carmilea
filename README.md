@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Google Meet's background blur and replacement work](https://ai.googleblog.com/2020/10/background-features-in-google-meet.html)
+- [The Life of Einstein's First Wife](https://blogs.scientificamerican.com/guest-blog/the-forgotten-life-of-einsteins-first-wife/)
 - [The new pricing model for Travis CI](https://blog.travis-ci.com/2020-11-02-travis-ci-new-billing)
+- [David Shor’s Unified Theory of American Politics](https://nymag.com/intelligencer/2020/07/david-shor-cancel-culture-2020-election-theory-polls.html)
 - [The history of wildfire modeling](https://triplebyte.com/blog/the-history-of-wildfire-modeling?hnpost)
-- [Hangover, Win64/Win32 applications on arm64/ppc64le/x86_64 Linux and x86_64 Mac](https://github.com/AndreRH/hangover)
-- [Faster Growth, Fairer Growth: Policies for a High Road, High Performance Economy](https://www.niskanencenter.org/faster_fairer/agenda.html)
-- [Names are not type safety](http://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
