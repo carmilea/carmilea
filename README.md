@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The West has failed – US and Europe have made a mess of handling the crisis](https://www.irishtimes.com/opinion/the-west-has-failed-us-and-europe-have-made-a-mess-of-handling-the-crisis-1.4395473)
+- [Githubassets.com Cert Has Expired](https://news.ycombinator.com/item?id=24967170)
+- [GitHub Warns Users Reposting YouTube-DL They Could Be Banned](https://torrentfreak.com/github-warns-users-reposting-youtube-dl-they-could-be-banned-201102/)
 - [Dojo3D – a simple JavaScript library for 3D interactive stories](https://github.com/webprofusion/dojo3d)
+- [Is a billion-dollar worth of server lying on the ground?](https://cerebralab.com/Is_a_billion-dollar_worth_of_server_lying_on_the_ground)
 - [Build a Collaborative Chatbot with Google Sheets and TensorFlow](https://jonathanbgn.com/nlp/2020/09/29/chatbot-universal-sentence-encoder.html)
-- [Lithuania is paying people to trade in polluting cars for escooters and ebikes](https://thenextweb.com/shift/2020/10/29/lithuania-cash-for-clunkers-scheme-old-cars-out-escooters-in-ebikes/)
-- [All the resources you need for front end development](http://github.com/developer-resources/frontend-development)
 <!-- BLOG-POST-LIST:END -->
 
 ---
