@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The West has failed – US and Europe have made a mess of handling the crisis](https://www.irishtimes.com/opinion/the-west-has-failed-us-and-europe-have-made-a-mess-of-handling-the-crisis-1.4395473)
+- [Dojo3D – a simple JavaScript library for 3D interactive stories](https://github.com/webprofusion/dojo3d)
 - [Build a Collaborative Chatbot with Google Sheets and TensorFlow](https://jonathanbgn.com/nlp/2020/09/29/chatbot-universal-sentence-encoder.html)
 - [Lithuania is paying people to trade in polluting cars for escooters and ebikes](https://thenextweb.com/shift/2020/10/29/lithuania-cash-for-clunkers-scheme-old-cars-out-escooters-in-ebikes/)
-- [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/)
 - [All the resources you need for front end development](http://github.com/developer-resources/frontend-development)
-- [You might not need to store plaintext emails](https://blog.klungo.no/2020/11/01/you-might-not-need-to-store-plaintext-emails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
