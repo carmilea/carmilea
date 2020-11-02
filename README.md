@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/)
+- [You might not need to store user emails](https://blog.klungo.no/2020/11/01/you-might-not-need-to-store-plaintext-emails/)
+- [The Raspberry Pi 400 – Teardown and Review](https://www.jeffgeerling.com/blog/2020/raspberry-pi-400-teardown-and-review)
 - [Raspberry Pi 400 Computer (Raspberry Pi 4 in Keyboard-Based Formfactor)](https://www.raspberrypi.org/blog/raspberry-pi-400-the-70-desktop-pc/)
 - [Google users locked out after 15 years' use](https://www.businessinsider.com/google-users-locked-out-after-years-2020-10)
-- [The Case Against More Ethanol](https://e360.yale.edu/features/the_case_against_ethanol_bad_for_environment)
-- [Study: Focus will shape the future of distributed work](https://blog.dropbox.com/topics/work-culture/economist-intelligence-unit-distributed-work-study)
-- [A Thousand Slayn](https://www.lrb.co.uk/the-paper/v42/n21/barbara-newman/a-thousand-slayn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
