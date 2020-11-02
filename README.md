@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dan Kohn Has Died](https://news.ycombinator.com/item?id=24968442)
+- [How I talk to the victims of conspiracy theories](https://www.bbc.co.uk/news/blogs-trending-54738471)
+- [Why most African countries are not prospering](https://iafrikan.com/2020/04/28/iafrikan-daily-brief-why-most-african-countries-are-not-prospering/)
 - [South Park creators have new political satire series with AI-generated deepfakes](https://www.theregister.com/2020/11/02/in_brief_ai/)
 - [Cellular immunity to SARS-CoV2 found at 6 months in non-hospitalised individuals](https://www.uk-cic.org/news/cellular-immunity-sars-cov-2-found-six-months-non-hospitalised-individuals)
-- [Review of High Priority Projects free software: your input is needed](https://www.fsf.org/blogs/community/committee-begins-review-of-high-priority-projects-free-software-list-2014-your-input-is-needed-by-january-8)
-- [Why is subtracting these two times in 1927 giving a strange result?](https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-times-in-1927-giving-a-strange-result)
-- [Githubassets.com Cert Has Expired](https://news.ycombinator.com/item?id=24967170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
