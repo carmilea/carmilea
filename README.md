@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook exempted Trump allies from misinformation rules](https://www.businessinsider.com/facebook-trump-family-misinformation-rules-exemption-donald-trump-jr-2020-11)
+- [Why Tunnels in the US Cost Much More Than Anywhere Else in the World](https://tunnelingonline.com/why-tunnels-in-the-us-cost-much-more-than-anywhere-else-in-the-world/)
+- [My Thoughts on Monorepo](https://shekhargulati.com/2020/11/02/my-thoughts-on-monorepo/)
+- [Dante's Peek](https://www.etymonline.com/columns/post/dante%27s-peek)
+- [Quantum circuit for the fast Fourier transform](https://link.springer.com/article/10.1007/s11128-020-02776-5)
 - [Show HN: A Python container for dataclasses \w multi-indexing and vector opps](https://github.com/joshlk/dataclassframe)
-- [SEC raised the limit on Regulation Crowdfunding from $1.07M to $5M](https://twitter.com/shl/status/1323311964823592960)
-- [Tech Workers Take to the Mountains, Bringing Silicon Valley with Them](https://www.wsj.com/articles/tech-workers-take-to-the-mountains-bringing-silicon-valley-with-them-11604242802)
-- [EasyPost (YC S13) Is Hiring to Take over ECommerce](https://www.easypost.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
