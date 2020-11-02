@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Collaborative Chatbot with Google Sheets and TensorFlow](https://jonathanbgn.com/nlp/2020/09/29/chatbot-universal-sentence-encoder.html)
+- [Lithuania is paying people to trade in polluting cars for escooters and ebikes](https://thenextweb.com/shift/2020/10/29/lithuania-cash-for-clunkers-scheme-old-cars-out-escooters-in-ebikes/)
 - [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/)
-- [You might not need to store user emails](https://blog.klungo.no/2020/11/01/you-might-not-need-to-store-plaintext-emails/)
-- [The Raspberry Pi 400 – Teardown and Review](https://www.jeffgeerling.com/blog/2020/raspberry-pi-400-teardown-and-review)
-- [Raspberry Pi 400 Computer (Raspberry Pi 4 in Keyboard-Based Formfactor)](https://www.raspberrypi.org/blog/raspberry-pi-400-the-70-desktop-pc/)
-- [Google users locked out after 15 years' use](https://www.businessinsider.com/google-users-locked-out-after-years-2020-10)
+- [All the resources you need for front end development](http://github.com/developer-resources/frontend-development)
+- [You might not need to store plaintext emails](https://blog.klungo.no/2020/11/01/you-might-not-need-to-store-plaintext-emails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
