@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nassim Taleb vs. Nate Silver: who is right about election forecasting?](http://quant.am/statistics/2020/10/11/taleb-silver-feud/)
+- [eBay removing Raspberry Pi listings as they “encourage infringement”](https://twitter.com/lbhq/status/1323482627681198080)
 - [Ox is a fast text editor, written in Rust, that runs in your terminal](https://github.com/curlpipe/ox)
 - [Remove auto renew from my account](https://community.teamviewer.com/t5/General-Questions-EN/remove-auto-renew-from-my-account/m-p/51971/highlight/true#M25385)
 - [EME, CDM, AES, CENC, and Keys – Building Blocks of DRM](https://ottverse.com/eme-cenc-cdm-aes-keys-drm-digital-rights-management/)
-- [AWS pre-announces public container image registry](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/)
+- [Libyear – a simple measure of software dependency freshness](https://libyear.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
