@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How not to SaaS – lessons from 2 years of building 3k MRR SaaS](https://twitter.com/HammadH4/status/1323400864892022784)
+- [Leaving OCaml](https://blog.darklang.com/leaving-ocaml/)
 - [Hyper-regional chippy traditions of Britain and Ireland](https://vittles.substack.com/p/the-hyper-regional-chippy-traditions)
 - [How to publish Git repos that cannot be republished to GitHub](http://joeyh.name/blog/entry/how_to_publish_git_repos_that_cannot_be_republished_to_github/)
 - [Ubiquitous Medieval Pigs](https://www.laphamsquarterly.org/roundtable/ubiquitous-medieval-pigs)
