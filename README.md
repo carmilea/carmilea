@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qovery Engine – open-source multi-cloud deployment](https://github.com/Qovery/engine)
+- [Building an artificial sun that looks realistic](https://www.youtube.com/watch?v=6bqBsHSwPgw)
 - [Document your code just by hitting “record”](https://paircast.io)
 - [Bevy 0.3: game engine built in Rust](https://bevyengine.org/news/bevy-0-3/)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [NoisePage – Self-Driving Database Management System](https://noise.page/)
-- [Tad, a desktop application for viewing and analyzing tabular data](https://github.com/antonycourtney/tad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
