@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two Charged in SIM Swapping, Vishing Scams](https://krebsonsecurity.com/2020/11/two-charged-in-sim-swapping-vishing-scams/)
+- [DigitalOcean Container Registry Now GA](https://www.digitalocean.com/products/container-registry/)
 - [A Nameless Hiker and the Case the Internet Can’t Crack](https://www.wired.com/story/nameless-hiker-mostly-harmless-internet-mystery/)
 - [Movie Industry: VPNs and Tor Pose a Threat to Legitimate Streaming Platforms](https://torrentfreak.com/movie-industry-vpns-and-tor-pose-a-threat-to-legitimate-streaming-platforms-201103/)
 - [Release (YC W20) Is Hiring Account Execs and a Product Marketer](https://releaseapp.io/company)
-- [Programming R at native speed using Haskell](https://www.tweag.io/blog/2015-09-08-programming-r-at-native-speed-in-haskell/)
-- [Germany raided 83 homes in coordinated raids against online hate speech](https://pressfrom.info/us/news/world/-577439-european-police-in-coordinated-raids-against-online-hate-speech.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
