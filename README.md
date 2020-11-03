@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Release (YC W20) Is Hiring Account Execs and a Product Marketer](https://releaseapp.io/company)
+- [Programming R at native speed using Haskell](https://www.tweag.io/blog/2015-09-08-programming-r-at-native-speed-in-haskell/)
+- [I got 10k post karma on Reddit with (and without) fast.ai](https://www.a8b.io/posts/10k-karma-reddit-bot/)
+- [A divorce in Italy destroyed my researcher career](https://interessesuperioredelminore.wordpress.com/2020/11/01/the-business-of-divorce/)
 - [App Will Help You Follow Election Results Without Triggering Your Anxiety](https://lifehacker.com/track-election-results-on-your-phone-without-breaking-y-1845532159)
-- [Doubts over a ‘possible sign of life’ on Venus show how science works](https://www.sciencenews.org/article/venus-phosphine-possible-sign-life-doubts-how-science-works)
-- [The testing pyramid should look more like a crab](https://changelog.com/posts/the-testing-pyramid-should-look-more-like-a-crab)
-- [GitHub: Widespread Injection Vulnerabilities in Actions](https://bugs.chromium.org/p/project-zero/issues/detail?id=2070&can=2&q=&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary&cells=ids)
-- [What’s Motivating the Matrix Engine Movement in HPC?](https://www.nextplatform.com/2020/11/02/whats-really-motivating-the-matrix-engine-movement-in-hpc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
