@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Untimely Demise of Workstations](https://deprogrammaticaipsum.com/the-untimely-demise-of-workstations/)
+- [Learning Rust as a Gopher, part 3](https://levpaul.com/posts/rust-lesson-3-and-4/)
+- [Starlink Beta Has Outperformed Most Internet in the US](https://futurism.com/the-byte/starlink-beta-outperformed-most-internet-us)
 - [DahliaOS operating system, combining the best of GNU/Linux and Fuchsia OS](https://github.com/dahlia-os)
 - [Voyager 2 is back online after eight months of radio silence](https://www.theregister.com/2020/11/03/voyager_2_back_online/)
-- [Scipio: A Thread-per-Core Crate for Rust and Linux](https://www.datadoghq.com/blog/engineering/introducing-scipio/)
-- [AWS hearts multi-cloud? It's gonna happen](https://cloudirregular.substack.com/p/aws-hearts-multi-cloud-its-gonna)
-- [eBay removing Raspberry Pi listings as they “encourage infringement”](https://twitter.com/lbhq/status/1323482627681198080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
