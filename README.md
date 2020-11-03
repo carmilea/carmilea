@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Secure Phone Series: Device Security](https://copperhead.co/blog/secure-phone-series-device-security/)
+- [How we made our SaaS homepage cookie-free](https://blog.leavemealone.app/no-more-cookies/)
+- [React Fundamentals: What I’m Learning](https://buaiscia.github.io/posts/learning-on-epic-react-fundamentals)
 - [The Muse (YC W12) Is Hiring an Email Marketing Coordinator](https://www.themuse.com/jobs/themuse/email-marketing-coordinator)
 - [Banks, QE, and Money-Printing](https://www.lynalden.com/money-printing/)
-- [Show HN: Kord – Python tool for displaying guitar chords/scales on your terminal](https://github.com/synestematic/kord)
-- [The Untimely Demise of Workstations](https://deprogrammaticaipsum.com/the-untimely-demise-of-workstations/)
-- [Rust from a Gopher – Lessons 3 and 4](https://levpaul.com/posts/rust-lesson-3-and-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
