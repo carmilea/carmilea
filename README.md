@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Nameless Hiker and the Case the Internet Can’t Crack](https://www.wired.com/story/nameless-hiker-mostly-harmless-internet-mystery/)
+- [Movie Industry: VPNs and Tor Pose a Threat to Legitimate Streaming Platforms](https://torrentfreak.com/movie-industry-vpns-and-tor-pose-a-threat-to-legitimate-streaming-platforms-201103/)
 - [Release (YC W20) Is Hiring Account Execs and a Product Marketer](https://releaseapp.io/company)
 - [Programming R at native speed using Haskell](https://www.tweag.io/blog/2015-09-08-programming-r-at-native-speed-in-haskell/)
-- [I got 10k post karma on Reddit with (and without) fast.ai](https://www.a8b.io/posts/10k-karma-reddit-bot/)
-- [A divorce in Italy destroyed my researcher career](https://interessesuperioredelminore.wordpress.com/2020/11/01/the-business-of-divorce/)
-- [App Will Help You Follow Election Results Without Triggering Your Anxiety](https://lifehacker.com/track-election-results-on-your-phone-without-breaking-y-1845532159)
+- [Germany raided 83 homes in coordinated raids against online hate speech](https://pressfrom.info/us/news/world/-577439-european-police-in-coordinated-raids-against-online-hate-speech.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
