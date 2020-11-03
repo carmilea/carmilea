@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- ["I cannot disable the TeamViewer auto-renewal in advance"](https://community.teamviewer.com/t5/General-Questions-EN/remove-auto-renew-from-my-account/m-p/51971/highlight/true#M25385)
+- [Nassim Taleb vs. Nate Silver: who is right about election forecasting?](http://quant.am/statistics/2020/10/11/taleb-silver-feud/)
+- [Ox is a fast text editor, written in Rust, that runs in your terminal](https://github.com/curlpipe/ox)
+- [Remove auto renew from my account](https://community.teamviewer.com/t5/General-Questions-EN/remove-auto-renew-from-my-account/m-p/51971/highlight/true#M25385)
 - [EME, CDM, AES, CENC, and Keys – Building Blocks of DRM](https://ottverse.com/eme-cenc-cdm-aes-keys-drm-digital-rights-management/)
-- [Sales as a Core Competency in Your Company](https://21-lessons.com/sales-as-a-core-competency-in-your-company/)
-- [Leaving OCaml](https://blog.darklang.com/leaving-ocaml/)
-- [Hyper-regional chippy traditions of Britain and Ireland](https://vittles.substack.com/p/the-hyper-regional-chippy-traditions)
+- [AWS pre-announces public container image registry](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
