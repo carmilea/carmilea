@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. contributes 5 times more ocean plastic than previous estimates](https://inhabitat.com/u-s-contributes-5-times-more-ocean-plastic-than-previous-estimates/)
-- [Two Charged in SIM Swapping, Vishing Scams](https://krebsonsecurity.com/2020/11/two-charged-in-sim-swapping-vishing-scams/)
-- [DigitalOcean Container Registry Now GA](https://www.digitalocean.com/products/container-registry/)
-- [Bucket Brigade Singing](https://www.jefftk.com/p/bucket-brigade-singing)
-- [A Nameless Hiker and the Case the Internet Can’t Crack](https://www.wired.com/story/nameless-hiker-mostly-harmless-internet-mystery/)
+- [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
+- [NoisePage – Self-Driving Database Management System](https://noise.page/)
+- [Why did Europe become less religious over time and the US didn't?](https://www.reddit.com/r/AskHistorians/comments/19isi7/why_did_europe_become_less_religious_over_time/)
+- [Mind-Melting Decision Proves a Dialer Can Never Be Too Old to Be an ATDS](https://tcpaworld.com/2020/11/03/heres-your-tcpa-distraction-for-a-normal-tuesday-with-nothing-else-going-on-mind-melting-decision-proves-a-dialer-can-never-be-too-old-to-be-an-atds/)
+- [Decision Journal Template](https://optemization.com/decision-journal-notion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
