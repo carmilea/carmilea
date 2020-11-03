@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Covid-19 Artificial Intelligence Diagnosis using only Cough Recordings [pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9208795)
+- [Show HN: Kord – Python tool for displaying guitar chords/scales on your terminal](https://github.com/synestematic/kord)
 - [The Untimely Demise of Workstations](https://deprogrammaticaipsum.com/the-untimely-demise-of-workstations/)
 - [Learning Rust as a Gopher, part 3](https://levpaul.com/posts/rust-lesson-3-and-4/)
 - [Starlink Beta Has Outperformed Most Internet in the US](https://futurism.com/the-byte/starlink-beta-outperformed-most-internet-us)
-- [DahliaOS operating system, combining the best of GNU/Linux and Fuchsia OS](https://github.com/dahlia-os)
-- [Voyager 2 is back online after eight months of radio silence](https://www.theregister.com/2020/11/03/voyager_2_back_online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
