@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [App Will Help You Follow Election Results Without Triggering Your Anxiety](https://lifehacker.com/track-election-results-on-your-phone-without-breaking-y-1845532159)
+- [Doubts over a ‘possible sign of life’ on Venus show how science works](https://www.sciencenews.org/article/venus-phosphine-possible-sign-life-doubts-how-science-works)
+- [The testing pyramid should look more like a crab](https://changelog.com/posts/the-testing-pyramid-should-look-more-like-a-crab)
 - [GitHub: Widespread Injection Vulnerabilities in Actions](https://bugs.chromium.org/p/project-zero/issues/detail?id=2070&can=2&q=&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary&cells=ids)
-- [Women Using Less Feminine Terms in Cover Letters Are Less Likely to Get Hired](https://journals.aom.org/doi/full/10.5465/amj.2018.1280.summary)
-- [Malicious NPM package opens backdoors on programmers' computers](https://www.zdnet.com/article/malicious-npm-package-opens-backdoors-on-programmers-computers/)
-- [Dark's new back end will be in F# (2020)](https://blog.darklang.com/new-backend-fsharp/)
-- [Secure Phone Series: Device Security](https://copperhead.co/blog/secure-phone-series-device-security/)
+- [What’s Motivating the Matrix Engine Movement in HPC?](https://www.nextplatform.com/2020/11/02/whats-really-motivating-the-matrix-engine-movement-in-hpc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
