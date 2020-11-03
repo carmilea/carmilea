@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. contributes 5 times more ocean plastic than previous estimates](https://inhabitat.com/u-s-contributes-5-times-more-ocean-plastic-than-previous-estimates/)
 - [Two Charged in SIM Swapping, Vishing Scams](https://krebsonsecurity.com/2020/11/two-charged-in-sim-swapping-vishing-scams/)
 - [DigitalOcean Container Registry Now GA](https://www.digitalocean.com/products/container-registry/)
+- [Bucket Brigade Singing](https://www.jefftk.com/p/bucket-brigade-singing)
 - [A Nameless Hiker and the Case the Internet Can’t Crack](https://www.wired.com/story/nameless-hiker-mostly-harmless-internet-mystery/)
-- [Movie Industry: VPNs and Tor Pose a Threat to Legitimate Streaming Platforms](https://torrentfreak.com/movie-industry-vpns-and-tor-pose-a-threat-to-legitimate-streaming-platforms-201103/)
-- [Release (YC W20) Is Hiring Account Execs and a Product Marketer](https://releaseapp.io/company)
 <!-- BLOG-POST-LIST:END -->
 
 ---
