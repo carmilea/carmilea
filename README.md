@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub: Widespread Injection Vulnerabilities in Actions](https://bugs.chromium.org/p/project-zero/issues/detail?id=2070&can=2&q=&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary&cells=ids)
+- [Women Using Less Feminine Terms in Cover Letters Are Less Likely to Get Hired](https://journals.aom.org/doi/full/10.5465/amj.2018.1280.summary)
+- [Malicious NPM package opens backdoors on programmers' computers](https://www.zdnet.com/article/malicious-npm-package-opens-backdoors-on-programmers-computers/)
+- [Dark's new back end will be in F# (2020)](https://blog.darklang.com/new-backend-fsharp/)
 - [Secure Phone Series: Device Security](https://copperhead.co/blog/secure-phone-series-device-security/)
-- [How we made our SaaS homepage cookie-free](https://blog.leavemealone.app/no-more-cookies/)
-- [React Fundamentals: What I’m Learning](https://buaiscia.github.io/posts/learning-on-epic-react-fundamentals)
-- [The Muse (YC W12) Is Hiring an Email Marketing Coordinator](https://www.themuse.com/jobs/themuse/email-marketing-coordinator)
-- [Banks, QE, and Money-Printing](https://www.lynalden.com/money-printing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
