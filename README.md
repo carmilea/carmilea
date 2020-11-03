@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- ["I cannot disable the TeamViewer auto-renewal in advance"](https://community.teamviewer.com/t5/General-Questions-EN/remove-auto-renew-from-my-account/m-p/51971/highlight/true#M25385)
 - [EME, CDM, AES, CENC, and Keys – Building Blocks of DRM](https://ottverse.com/eme-cenc-cdm-aes-keys-drm-digital-rights-management/)
 - [Sales as a Core Competency in Your Company](https://21-lessons.com/sales-as-a-core-competency-in-your-company/)
 - [Leaving OCaml](https://blog.darklang.com/leaving-ocaml/)
 - [Hyper-regional chippy traditions of Britain and Ireland](https://vittles.substack.com/p/the-hyper-regional-chippy-traditions)
-- [How to publish Git repos that cannot be republished to GitHub](http://joeyh.name/blog/entry/how_to_publish_git_repos_that_cannot_be_republished_to_github/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
