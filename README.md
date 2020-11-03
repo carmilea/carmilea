@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
+- [Document your code just by hitting “record”](https://paircast.io)
+- [Bevy 0.3: game engine built in Rust](https://bevyengine.org/news/bevy-0-3/)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 - [NoisePage – Self-Driving Database Management System](https://noise.page/)
-- [Why did Europe become less religious over time and the US didn't?](https://www.reddit.com/r/AskHistorians/comments/19isi7/why_did_europe_become_less_religious_over_time/)
-- [Mind-Melting Decision Proves a Dialer Can Never Be Too Old to Be an ATDS](https://tcpaworld.com/2020/11/03/heres-your-tcpa-distraction-for-a-normal-tuesday-with-nothing-else-going-on-mind-melting-decision-proves-a-dialer-can-never-be-too-old-to-be-an-atds/)
-- [Decision Journal Template](https://optemization.com/decision-journal-notion)
+- [Tad, a desktop application for viewing and analyzing tabular data](https://github.com/antonycourtney/tad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
