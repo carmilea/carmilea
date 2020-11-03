@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EME, CDM, AES, CENC, and Keys – Building Blocks of DRM](https://ottverse.com/eme-cenc-cdm-aes-keys-drm-digital-rights-management/)
+- [Sales as a Core Competency in Your Company](https://21-lessons.com/sales-as-a-core-competency-in-your-company/)
 - [Leaving OCaml](https://blog.darklang.com/leaving-ocaml/)
 - [Hyper-regional chippy traditions of Britain and Ireland](https://vittles.substack.com/p/the-hyper-regional-chippy-traditions)
 - [How to publish Git repos that cannot be republished to GitHub](http://joeyh.name/blog/entry/how_to_publish_git_repos_that_cannot_be_republished_to_github/)
-- [Ubiquitous Medieval Pigs](https://www.laphamsquarterly.org/roundtable/ubiquitous-medieval-pigs)
-- [Rabbet (YC S17) Is Hiring Software Engineers (US Remote/Austin)](https://apply.workable.com/rabbet/j/EA0C679685/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
