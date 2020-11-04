@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Google Cloud Functions](https://ncona.com/2020/11/introduction-to-google-cloud-functions/)
 - [California Voters Exempt Uber, Lyft, DoorDash from Having to Reclassify Drivers](https://www.wsj.com/articles/california-voters-exempt-uber-lyft-doordash-from-having-to-reclassify-drivers-11604476276)
 - [Chameleons Not Seen by Scientists for Century Found in a Madagascar Hotel Garden](https://www.goodnewsnetwork.org/rare-chameleon-rediscovered-in-hotel-garden/)
 - [Dear ImGui – Bloat-free graphical user interface library for C++](https://github.com/ocornut/imgui)
 - [How to seriously read a scientific paper](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
-- [AP reports US election results via Ethereum blockchain](https://developer.ap.org/ap-elections-api/#election-race-calls-on-blockchain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
