@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California Voters Exempt Uber, Lyft, DoorDash from Having to Reclassify Drivers](https://www.wsj.com/articles/california-voters-exempt-uber-lyft-doordash-from-having-to-reclassify-drivers-11604476276)
+- [Chameleons Not Seen by Scientists for Century Found in a Madagascar Hotel Garden](https://www.goodnewsnetwork.org/rare-chameleon-rediscovered-in-hotel-garden/)
 - [Dear ImGui – Bloat-free graphical user interface library for C++](https://github.com/ocornut/imgui)
 - [How to seriously read a scientific paper](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 - [AP reports US election results via Ethereum blockchain](https://developer.ap.org/ap-elections-api/#election-race-calls-on-blockchain)
-- [All systems go for UK’s £55M fusion energy experiment](https://ccfe.ukaea.uk/all-systems-go-for-uks-55m-fusion-energy-experiment/)
-- [Oregon becomes first state to legalize psychedelic mushrooms](https://www.oregonlive.com/politics/2020/11/oregon-becomes-first-state-to-legalize-psychedelic-mushrooms.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
