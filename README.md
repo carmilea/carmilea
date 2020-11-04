@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to seriously read a scientific paper](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 - [Uber and Lyft expected to prevail in CA ballot measure](https://www.cnbc.com/2020/11/03/california-voters-projected-to-pass-prop-22-backed-by-uber-and-lyft.html)
+- [Clean Code – Notes](https://smalldata.tech/blog/2018/09/16/clean-code-notes)
 - [AP reports US election results via Ethereum blockchain](https://developer.ap.org/ap-elections-api/#election-race-calls-on-blockchain)
 - [All systems go for UK’s £55M fusion energy experiment](https://ccfe.ukaea.uk/all-systems-go-for-uks-55m-fusion-energy-experiment/)
-- [Oregon becomes first state to legalize psychedelic mushrooms](https://www.oregonlive.com/politics/2020/11/oregon-becomes-first-state-to-legalize-psychedelic-mushrooms.html)
-- [Scala 3.0.0-M1 Release](https://github.com/lampepfl/dotty/releases/tag/3.0.0-M1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
