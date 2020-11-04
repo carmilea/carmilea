@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Dark didn't choose Rust](https://blog.darklang.com/why-dark-didnt-choose-rust/)
+- [Election Betting Odds](https://electionbettingodds.com/)
+- [TeXmacs 1.99.14 released. Take a look at this research paper exported to HTML](https://www.texmacs.org/joris/ffnlogn/ffnlogn.html)
 - [Down to the Suburbs: helping out while working at your parents' place](https://blog.shortbar.com/working-from-home-in-homewood-77368bd848ea)
 - [Mutated Coronavirus from Minks is a threat to Humans](https://www.bt.dk/politik/alle-mink-skal-slaas-ihjel-muteret-coronavirus-fra-mink-er-en-trussel-for)
-- [Portland, Maine passes referendum banning facial surveillance](https://techcrunch.com/2020/11/04/portland-maine-passes-referendum-banning-facial-surveillance/)
-- [SharpestMinds (YC W18) Is Hiring a Full-Stack Developer in Toronto](https://public.3.basecamp.com/p/gCuDuaVRKTbTKYdVz2yzg6wd)
-- [Denmark to cull millions of minks over mutated coronavirus](https://www.thelocal.dk/20201104/denmark-to-cull-millions-of-minks-over-mutated-coronavirus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
