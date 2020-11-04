@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A68 iceberg on collision path with South Georgia](https://www.bbc.com/news/science-environment-54798031)
-- [Leaders focus on doing the right thing, managers focus on doing things right](https://twitter.com/id_aa_carmack/status/1323679565533925376)
 - [Qovery Engine – open-source multi-cloud deployment](https://github.com/Qovery/engine)
 - [Building an artificial sun that looks realistic](https://www.youtube.com/watch?v=6bqBsHSwPgw)
 - [Scientist Believes Aging Is Optional](https://www.outsideonline.com/2404642/lifespan-david-sinclair-book-review)
+- [Document your code just by hitting “record”](https://paircast.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
