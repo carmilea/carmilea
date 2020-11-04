@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/career/swe-fullstack)
+- [Amazon Launches New RabbitMQ Message Broker Service](https://aws.amazon.com/blogs/aws/amazon-mq-update-new-rabbitmq-message-broker-service/)
+- [Let's put e-voting where it belongs: on the trash-heap of bad ideas (2016)](https://www.theguardian.com/commentisfree/2016/jul/12/lets-put-e-voting-where-it-belongs-on-the-trash-heap-of-bad-ideas)
 - [City Pages, the Alt-Weekly Where Music Writing Reigned Supreme](https://www.nytimes.com/2020/11/02/arts/music/minneapolis-city-pages-music.html)
-- [Show HN: Ugliest.app – The ugly but good app platform](https://ugliest.app)
-- [Nucleus Security & SingleStore Partner to Manage Vulnerabilities at Scale](https://www.singlestore.com/blog/nucleus-security-singlestore-partner-to-manage-vulnerabilities-at-scale/)
-- [Microsoft Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons)
+- [Show HN: Ugliest.app – Ugly but good app platform](https://ugliest.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
