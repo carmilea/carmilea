@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Dark didn't choose Rust](https://blog.darklang.com/why-dark-didnt-choose-rust/)
-- [Election Betting Odds](https://electionbettingodds.com/)
+- [Show HN: Ugliest.app – The ugly but good app platform](https://ugliest.app)
+- [Someone Just Emptied Out a Bitcoin Wallet with $964M in It](https://www.vice.com/en/article/g5bbaj/someone-emptied-out-bitcoin-wallet-with-964000000-million)
+- [How to Find a CTO for Your Startup](https://altar.io/how-to-find-a-cto-for-your-startup-the-founders-guide/)
+- [Microsoft Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons)
 - [TeXmacs 1.99.14 released. Take a look at this research paper exported to HTML](https://www.texmacs.org/joris/ffnlogn/ffnlogn.html)
-- [Down to the Suburbs: helping out while working at your parents' place](https://blog.shortbar.com/working-from-home-in-homewood-77368bd848ea)
-- [Mutated Coronavirus from Minks is a threat to Humans](https://www.bt.dk/politik/alle-mink-skal-slaas-ihjel-muteret-coronavirus-fra-mink-er-en-trussel-for)
 <!-- BLOG-POST-LIST:END -->
 
 ---
