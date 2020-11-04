@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple removes The DoNotPay app from the iOS App Store](https://twitter.com/jbrowder1/status/1323804586121994241)
-- [Kim Dotcom Can Be Extradited to the United States, Subject to Judicial Review](https://torrentfreak.com/kim-dotcom-can-be-extradited-to-the-united-states-subject-to-judicial-review-201104/)
-- [Three Months of Go (From a Haskeller's Perspective)](https://memo.barrucadu.co.uk/three-months-of-go.html)
-- [Klein Vision’s AirCar, a Flying Car Prototype, Completes Maiden Flight](https://robbreport.com/motors/aviation/klein-visions-aircar-prototype-first-flight-1234578689/)
-- [A68 iceberg on collision path with South Georgia](https://www.bbc.com/news/science-environment-54798031)
+- [Uber and Lyft expected to prevail in CA ballot measure](https://www.cnbc.com/2020/11/03/california-voters-projected-to-pass-prop-22-backed-by-uber-and-lyft.html)
+- [AP reports US election results via Ethereum blockchain](https://developer.ap.org/ap-elections-api/#election-race-calls-on-blockchain)
+- [All systems go for UK’s £55M fusion energy experiment](https://ccfe.ukaea.uk/all-systems-go-for-uks-55m-fusion-energy-experiment/)
+- [Oregon becomes first state to legalize psychedelic mushrooms](https://www.oregonlive.com/politics/2020/11/oregon-becomes-first-state-to-legalize-psychedelic-mushrooms.html)
+- [Scala 3.0.0-M1 Release](https://github.com/lampepfl/dotty/releases/tag/3.0.0-M1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
