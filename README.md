@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dell Adding Hardware Privacy Driver for Linux](https://www.phoronix.com/scan.php?page=news_item&px=Dell-Hardware-Privacy-Linux)
+- [U.S. Exits Paris Climate Accord](https://www.scientificamerican.com/article/u-s-exits-paris-climate-accord-after-trump-stalls-global-warming-action-for-four-years/)
+- [Disclosure: Unlimited Chase Ultimate Rewards Points](https://chadscira.com/post/5fa269d46142ac544e013d6e/DISCLOSURE-Unlimited-Chase-Ultimate-Rewards-Points)
 - [Shasqi (YC W15) Is Hiring 2 (USA-Remote) Executive Assistants](https://www.linkedin.com/posts/shasqi-inc%2E_hiring-activity-6729487192873410560-yfR9)
-- [RIAA Takedowns Backfire as Pirated MP3s Now Surface on GitHub](https://torrentfreak.com/riaa-takedowns-backfire-as-pirated-mp3s-now-surface-on-github-201104/)
-- [Massachusetts voters pass right-to-repair expansion opening up car data](https://www.engadget.com/motor-vehicle-data-question-1-081059455.html)
-- [Introduction to Google Cloud Functions](https://ncona.com/2020/11/introduction-to-google-cloud-functions/)
-- [California Voters Exempt Uber, Lyft, DoorDash from Having to Reclassify Drivers](https://www.wsj.com/articles/california-voters-exempt-uber-lyft-doordash-from-having-to-reclassify-drivers-11604476276)
+- [Get Started with Infection Monkey, Open Source Security Tool](https://swimm.io/blog/infection-monkey-tutorial-start-contributing-using-swimm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
