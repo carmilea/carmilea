@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MI5 moves UK Terrorism threat level to “SEVERE”](https://www.mi5.gov.uk/threat-levels)
+- [Carmack on doing the right things and doing things right](https://twitter.com/id_aa_carmack/status/1323679565533925376)
 - [Qovery Engine – open-source multi-cloud deployment](https://github.com/Qovery/engine)
 - [Building an artificial sun that looks realistic](https://www.youtube.com/watch?v=6bqBsHSwPgw)
 - [Scientist Believes Aging Is Optional](https://www.outsideonline.com/2404642/lifespan-david-sinclair-book-review)
