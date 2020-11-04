@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Monitor Airplane Traffic with a Raspberry Pi](https://brianchristner.io/monitor-airplane-traffic-with-a-raspberry-pi/)
+- [Oregon becomes first U.S. state to decriminalize possession of all drugs](https://twitter.com/BNONews/status/1323852852700368899)
 - [eBird: A crowdsourced bird sighting database](https://ebird.org/)
 - [Designing Raspberry Pi 400](https://www.raspberrypi.org/blog/designing-raspberry-pi-400/)
 - [Dell Adding Hardware Privacy Driver for Linux](https://www.phoronix.com/scan.php?page=news_item&px=Dell-Hardware-Privacy-Linux)
-- [U.S. Exits Paris Climate Accord](https://www.scientificamerican.com/article/u-s-exits-paris-climate-accord-after-trump-stalls-global-warming-action-for-four-years/)
-- [Disclosure: Unlimited Chase Ultimate Rewards Points](https://chadscira.com/post/5fa269d46142ac544e013d6e/DISCLOSURE-Unlimited-Chase-Ultimate-Rewards-Points)
 <!-- BLOG-POST-LIST:END -->
 
 ---
