@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/career/swe-fullstack)
+- [City Pages, the Alt-Weekly Where Music Writing Reigned Supreme](https://www.nytimes.com/2020/11/02/arts/music/minneapolis-city-pages-music.html)
 - [Show HN: Ugliest.app – The ugly but good app platform](https://ugliest.app)
-- [Someone Just Emptied Out a Bitcoin Wallet with $964M in It](https://www.vice.com/en/article/g5bbaj/someone-emptied-out-bitcoin-wallet-with-964000000-million)
-- [How to Find a CTO for Your Startup](https://altar.io/how-to-find-a-cto-for-your-startup-the-founders-guide/)
+- [Nucleus Security & SingleStore Partner to Manage Vulnerabilities at Scale](https://www.singlestore.com/blog/nucleus-security-singlestore-partner-to-manage-vulnerabilities-at-scale/)
 - [Microsoft Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons)
-- [TeXmacs 1.99.14 released. Take a look at this research paper exported to HTML](https://www.texmacs.org/joris/ffnlogn/ffnlogn.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
