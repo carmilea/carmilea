@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MI5 moves UK Terrorism threat level to “SEVERE”](https://www.mi5.gov.uk/threat-levels)
 - [Qovery Engine – open-source multi-cloud deployment](https://github.com/Qovery/engine)
 - [Building an artificial sun that looks realistic](https://www.youtube.com/watch?v=6bqBsHSwPgw)
+- [Scientist Believes Aging Is Optional](https://www.outsideonline.com/2404642/lifespan-david-sinclair-book-review)
 - [Document your code just by hitting “record”](https://paircast.io)
-- [Bevy 0.3: game engine built in Rust](https://bevyengine.org/news/bevy-0-3/)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
