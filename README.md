@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Down to the Suburbs: helping out while working at your parents' place](https://blog.shortbar.com/working-from-home-in-homewood-77368bd848ea)
+- [Mutated Coronavirus from Minks is a threat to Humans](https://www.bt.dk/politik/alle-mink-skal-slaas-ihjel-muteret-coronavirus-fra-mink-er-en-trussel-for)
+- [Portland, Maine passes referendum banning facial surveillance](https://techcrunch.com/2020/11/04/portland-maine-passes-referendum-banning-facial-surveillance/)
 - [SharpestMinds (YC W18) Is Hiring a Full-Stack Developer in Toronto](https://public.3.basecamp.com/p/gCuDuaVRKTbTKYdVz2yzg6wd)
-- [Notes on Paxos](https://matklad.github.io/2020/11/01/notes-on-paxos.html)
-- [Launch HN: Sunsama (YC W19) – Daily Planner for Busy People](https://news.ycombinator.com/item?id=24990238)
-- [Victims of school bullying are at a higher risk of developing violent behavior](https://www.uco.es/ucci/es/noticias-ingles/item/3138-victims-of-school-bullying-are-at-a-higher-risk-of-developing-violent-behavior-in-the-future)
-- [AI pioneer Geoff Hinton: “Deep learning is going to be able to do everything”](https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/)
+- [Denmark to cull millions of minks over mutated coronavirus](https://www.thelocal.dk/20201104/denmark-to-cull-millions-of-minks-over-mutated-coronavirus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
