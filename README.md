@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tax Protester FAQ](https://evans-legal.com/dan/tpfaq.html)
+- [Massachusetts Just Passed the World’s Most Advanced Right to Repair Law](https://www.ifixit.com/News/46235/massachusetts-just-passed-the-worlds-most-advanced-right-to-repair-law)
+- [New study finds psilocybin greatly and quickly relieves depression](https://www.psychnewsdaily.com/new-study-psilocybin-magic-mushrooms-relieves-depression/)
 - [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/career/swe-fullstack)
 - [Amazon Launches New RabbitMQ Message Broker Service](https://aws.amazon.com/blogs/aws/amazon-mq-update-new-rabbitmq-message-broker-service/)
-- [Let's put e-voting where it belongs: on the trash-heap of bad ideas (2016)](https://www.theguardian.com/commentisfree/2016/jul/12/lets-put-e-voting-where-it-belongs-on-the-trash-heap-of-bad-ideas)
-- [City Pages, the Alt-Weekly Where Music Writing Reigned Supreme](https://www.nytimes.com/2020/11/02/arts/music/minneapolis-city-pages-music.html)
-- [Show HN: Ugliest.app – Ugly but good app platform](https://ugliest.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
