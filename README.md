@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple removes The DoNotPay app from the iOS App Store](https://twitter.com/jbrowder1/status/1323804586121994241)
+- [Three Months of Go (From a Haskeller's Perspective)](https://memo.barrucadu.co.uk/three-months-of-go.html)
+- [Klein Vision’s AirCar, a Flying Car Prototype, Completes Maiden Flight](https://robbreport.com/motors/aviation/klein-visions-aircar-prototype-first-flight-1234578689/)
 - [A68 iceberg on collision path with South Georgia](https://www.bbc.com/news/science-environment-54798031)
-- [Qovery Engine – open-source multi-cloud deployment](https://github.com/Qovery/engine)
-- [Building an artificial sun that looks realistic](https://www.youtube.com/watch?v=6bqBsHSwPgw)
-- [Scientist Believes Aging Is Optional](https://www.outsideonline.com/2404642/lifespan-david-sinclair-book-review)
-- [Document your code just by hitting “record”](https://paircast.io)
+- [Building an artificial sun that looks realistic [video]](https://www.youtube.com/watch?v=6bqBsHSwPgw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
