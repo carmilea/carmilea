@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SharpestMinds (YC W18) Is Hiring a Full-Stack Developer in Toronto](https://public.3.basecamp.com/p/gCuDuaVRKTbTKYdVz2yzg6wd)
+- [Notes on Paxos](https://matklad.github.io/2020/11/01/notes-on-paxos.html)
 - [Launch HN: Sunsama (YC W19) – Daily Planner for Busy People](https://news.ycombinator.com/item?id=24990238)
-- [What If Facebook Is the Real ‘Silent Majority’?](https://www.nytimes.com/2020/08/27/technology/what-if-facebook-is-the-real-silent-majority.html)
 - [Victims of school bullying are at a higher risk of developing violent behavior](https://www.uco.es/ucci/es/noticias-ingles/item/3138-victims-of-school-bullying-are-at-a-higher-risk-of-developing-violent-behavior-in-the-future)
 - [AI pioneer Geoff Hinton: “Deep learning is going to be able to do everything”](https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/)
-- [Kim Dotcom can be extradited to US but can also appeal](https://www.bbc.com/news/technology-54809226)
 <!-- BLOG-POST-LIST:END -->
 
 ---
