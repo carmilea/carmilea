@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [San Francisco voters approve taxes on highly paid CEOs, big businesses](https://www.latimes.com/world-nation/story/2020-11-05/san-francisco-voters-approve-taxes-on-ceos-big-businesses)
-- [About the security content of iOS 12.4.9](https://support.apple.com/en-us/HT211940)
-- [A guide to live chat tools for startups](https://satchel.com/live-chat/)
-- [IAM whatever you say IAM](https://eng.lyft.com/iam-whatever-you-say-iam-febce59d1e3b)
-- [U.S. Feds Seized Nearly $1B in Bitcoin from Wallet Linked to Silk Road](https://www.vice.com/en/article/akdgz8/us-feds-seize-1-billion-in-bitcoin-from-wallet-linked-to-silk-road)
+- [Lawn Love (YC S14) Is Hiring a Head of Growth Marketing [Remote]](https://apply.workable.com/lawn-love/j/A749319261/)
+- [Managing my personnal servers in 2020 with K3s](https://github.com/erebe/personal-server/blob/master/README.md)
+- [San Francisco voters approve first-in-the-nation CEO tax that targets income gap](https://calmatters.org/california-divide/2020/11/san-francisco-ceo-tax-income-gap)
+- [Anu, the sound distributed version control system](https://anu.dev/)
+- [Thunderbird 78 is available on the Snap Store](https://snapcraft.io/thunderbird)
 <!-- BLOG-POST-LIST:END -->
 
 ---
