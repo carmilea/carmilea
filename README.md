@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OVH Cloud shuts down Guerrilla Mail](https://twitter.com/GuerrillaMail/status/1324190197580328961)
+- [Dutch brewery burns iron as a clean, recyclable fuel](https://newatlas.com/energy/bavarian-brewery-carbon-free-renewable-iron-fuel/)
 - [CERN Online introductory lectures on quantum computing from 6 November](https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november)
 - [The Unreasonable Syntactic Expressivity of RNNs](https://nlp.stanford.edu/~johnhew/rnns-hierarchy.html)
 - [Account Takeover via IDOR in Starbucks Singapore](http://www.kamilonurozkaleli.com/posts/starbucks-singapore-account-takeover/)
-- [Show HN: Toy Haskell blockchain with variable hash functions for ASIC resistance](https://github.com/PaulGustafson/dcc)
-- [Prestige in US Today](https://www.overcomingbias.com/2020/11/what-makes-prestige.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
