@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Source Code Leaked Online](https://resynth1943.net/articles/github-source-code-leak/)
-- [A Pedometer in the Real World](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
+- [Don’t kid yourself. The polls messed up](https://statmodeling.stat.columbia.edu/2020/11/04/dont-kid-yourself-the-polls-messed-up-and-that-would-be-the-case-even-wed-forecasted-biden-losing-florida-and-only-barely-winning-the-electoral-college/)
+- [GitHub Source Code Leak](https://resynth1943.net/articles/github-source-code-leak/)
+- [A Pedometer in the Real World (2015)](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
 - [Anatomy of a Binary Executable](https://oswalt.dev/2020/11/anatomy-of-a-binary-executable/)
 - [750M genetically modified mosquitoes to be released in Florida](https://www.bbc.com/news/world-us-canada-53856776)
-- [Go Type Parameters – Draft Design](https://go.googlesource.com/proposal/+/refs/heads/master/design/go2draft-type-parameters.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
