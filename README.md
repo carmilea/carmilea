@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Whistleblower: UN actively passing names of Uighur dissidents to Chinese regime](https://www.i24news.tv/en/news/international/1604309404-un-actively-passing-names-of-uighur-dissidents-to-chinese-regime-whistleblower)
+- [Proctorio used DMCA to take down a student’s critical tweets](https://techcrunch.com/2020/11/05/proctorio-dmca-copyright-critical-tweets/)
+- [Western Digital SweRV RISC-V Core](https://github.com/chipsalliance/Cores-SweRV)
 - [Polyphemus silk spinning – from cocoon to yarn](http://www.wormspit.com/polyspin.htm)
 - [Lawn Love (YC S14) Is Hiring a Head of Growth Marketing [Remote]](https://apply.workable.com/lawn-love/j/A749319261/)
-- [Managing my personnal servers in 2020 with K3s](https://github.com/erebe/personal-server/blob/master/README.md)
-- [San Francisco voters approve first-in-the-nation CEO tax that targets income gap](https://calmatters.org/california-divide/2020/11/san-francisco-ceo-tax-income-gap)
-- [Martin Gurri and the ungovernable public](https://www.thepullrequest.com/p/the-prophet-of-the-revolt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
