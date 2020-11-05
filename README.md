@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Source Code Leaked Online](https://resynth1943.net/articles/github-source-code-leak/)
+- [Google Breaks Gmail on Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=1586047)
 - [750M genetically modified mosquitoes to be released in Florida](https://www.bbc.com/news/world-us-canada-53856776)
 - [There was a clear winner on election night: Marijuana](https://thehill.com/opinion/civil-rights/524519-there-was-a-clear-winner-on-election-night-marijuana)
-- [Tax Protester FAQ](https://evans-legal.com/dan/tpfaq.html)
 - [Massachusetts Just Passed the World’s Most Advanced Right to Repair Law](https://www.ifixit.com/News/46235/massachusetts-just-passed-the-worlds-most-advanced-right-to-repair-law)
-- [New study finds psilocybin greatly and quickly relieves depression](https://www.psychnewsdaily.com/new-study-psilocybin-magic-mushrooms-relieves-depression/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
