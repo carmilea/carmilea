@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [San Francisco voters approve taxes on highly paid CEOs, big businesses](https://www.latimes.com/world-nation/story/2020-11-05/san-francisco-voters-approve-taxes-on-ceos-big-businesses)
+- [About the security content of iOS 12.4.9](https://support.apple.com/en-us/HT211940)
+- [A guide to live chat tools for startups](https://satchel.com/live-chat/)
+- [IAM whatever you say IAM](https://eng.lyft.com/iam-whatever-you-say-iam-febce59d1e3b)
 - [U.S. Feds Seized Nearly $1B in Bitcoin from Wallet Linked to Silk Road](https://www.vice.com/en/article/akdgz8/us-feds-seize-1-billion-in-bitcoin-from-wallet-linked-to-silk-road)
-- [Facebook was used as a proxy by web scraping bots](https://datadome.co/bot-detection/how-facebook-was-used-as-a-proxy-by-web-scraping-bots/)
-- [U.S. sues Visa to block its acquisition of Plaid](https://www.reuters.com/article/us-visa-lawsuit-plaid/u-s-sues-visa-to-block-its-acquisition-of-plaid-idUSKBN27L26S)
-- [Mux (YC W16) is hiring to help build the Stripe for video](https://mux.com/jobs)
-- [Over $1 Billion in Silk Road Bitcoin Is Target of U.S. Suit](https://www.bloomberg.com/news/articles/2020-11-05/u-s-seeks-forfeiture-of-bitcoin-valued-at-over-1-billion?sref=w3vFo7gi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
