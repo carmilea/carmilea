@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Update on MuseScore 3.6 and 4.0](https://musescore.org/en/node/312563)
+- [Hosting Provider Leaked 63M Records Including Magento and WordPress Credentials](https://securethoughts.com/hosting-provider-exposed-63-million-customer-records/)
+- [Echo/printf to write images in 5 LoC with zero libraries or headersnetpbm](https://www.vidarholen.net/contents/blog/?p=904)
 - [OVH Cloud shuts down Guerrilla Mail](https://twitter.com/GuerrillaMail/status/1324190197580328961)
-- [The code I shared was so bad, someone got kicked out of the country](http://theorangeduck.com/page/reproduce-their-results#sourcecode)
-- [Dutch brewery burns iron as a clean, recyclable fuel](https://newatlas.com/energy/bavarian-brewery-carbon-free-renewable-iron-fuel/)
-- [CERN Online introductory lectures on quantum computing from 6 November](https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november)
-- [The Unreasonable Syntactic Expressivity of RNNs](https://nlp.stanford.edu/~johnhew/rnns-hierarchy.html)
+- [BBC Online Moves to AWS, Serverless](https://www.bbc.co.uk/blogs/internet/entries/8673fe2a-e876-45fc-9a5f-203c049c9f9c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
