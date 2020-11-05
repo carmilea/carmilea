@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Python overtakes Java to become the second-most popular programming language](https://www.techrepublic.com/article/python-overtakes-java-to-become-the-second-most-popular-programming-language/)
+- [Taplytics (YC W14) Is Expanding Hiring for Software Engs and Sales](https://jobs.lever.co/taplytics)
+- [Social Media Usage and the Level of Depressive Symptoms in the US [pdf]](https://drive.google.com/file/d/1x8icCMCMWcBS2H2mc48bQgm-ZfkQwTEQ/view)
+- [Uno: Single-Codebase for Windows, WebAssembly, iOS, macOS, Android and Linux](https://platform.uno/)
 - [Update on MuseScore 3.6 and 4.0](https://musescore.org/en/node/312563)
-- [Hosting Provider Leaked 63M Records Including Magento and WordPress Credentials](https://securethoughts.com/hosting-provider-exposed-63-million-customer-records/)
-- [Echo/printf to write images in 5 LoC with zero libraries or headersnetpbm](https://www.vidarholen.net/contents/blog/?p=904)
-- [OVH Cloud shuts down Guerrilla Mail](https://twitter.com/GuerrillaMail/status/1324190197580328961)
-- [BBC Online Moves to AWS, Serverless](https://www.bbc.co.uk/blogs/internet/entries/8673fe2a-e876-45fc-9a5f-203c049c9f9c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
