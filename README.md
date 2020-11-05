@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mux (YC W16) is hiring to help build the Stripe for video](https://mux.com/jobs)
 - [Bitcoin's price shoots past $15,000 for the first time since January 2018](https://www.theblockcrypto.com/linked/83684/bitcoins-price-shoots-past-15000-for-the-first-time-since-january-2018)
 - [Volvo Trucks to launch full range of electric trucks in Europe in 2021](https://www.reuters.com/article/us-volvo-electric/volvo-trucks-to-launch-full-range-of-electric-trucks-in-europe-in-2021-idUSKBN27L0SI)
 - [Making a Snake Clone with Bevy](https://mbuffett.com/posts/bevy-snake-tutorial/)
 - [Linux Distributions You Can Rely on for Your Ancient 32-Bit Computer](https://itsfoss.com/32-bit-linux-distributions/)
-- [Ask HN: Lost Economic Theories: Printing Inflation-Free Money?](https://news.ycombinator.com/item?id=24998664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
