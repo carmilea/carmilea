@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore Storage Options](https://www.youtube.com/watch?v=t5cXT0Y6HBc)
 - [Why SingleStore?](https://www.youtube.com/watch?v=nur-mx_J-ls)
 - [#DataRevolution2020 - Virtues](https://www.youtube.com/watch?v=hpAIBzBaiNU)
 - [#DataRevolution2020 - Visionary/The Future](https://www.youtube.com/watch?v=Evu-jKdxGp4)
 - [#DataRevolution2020 - Data & Diversity](https://www.youtube.com/watch?v=npKFVhcpVfE)
-- [#DataRevolution2020 - Data Stalwarts](https://www.youtube.com/watch?v=dL3zhQ5fiHA)
 <!-- YOUTUBE:END -->
 
 
