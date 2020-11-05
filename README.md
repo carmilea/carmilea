@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Switching from Vim to Intellij](https://browntreelabs.com/from-vim-to-intellij/)
-- [New Reddit’s PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.reddit.com%2F&tab=mobile)
-- [Netflix Targets Critical ‘Cuties’ Tweets with Copyright Takedown Requests](https://torrentfreak.com/netflix-targets-critical-cuties-tweets-with-copyright-takedown-requests-201105/)
-- [Python overtakes Java to become the second-most popular programming language](https://www.techrepublic.com/article/python-overtakes-java-to-become-the-second-most-popular-programming-language/)
-- [Taplytics (YC W14) Is Expanding Hiring for Software Engs and Sales](https://jobs.lever.co/taplytics)
+- [The Dead Vote in Michigan](https://austingwalters.com/the-dead-vote-in-michigan/)
+- [Ask HN: Lost Economic Theories: Printing Inflation-Free Money?](https://news.ycombinator.com/item?id=24998664)
+- [SVG Path Editor](https://yqnn.github.io/svg-path-editor/)
+- [We are building a CLI first PaaS without a web frontend](https://crufter.com/cli-first-paas)
+- [AMD Ryzen 9 5900X and Ryzen 9 5950X Dominate On Linux](https://www.phoronix.com/vr.php?view=29687)
 <!-- BLOG-POST-LIST:END -->
 
 ---
