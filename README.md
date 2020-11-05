@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Feds Seized Nearly $1B in Bitcoin from Wallet Linked to Silk Road](https://www.vice.com/en/article/akdgz8/us-feds-seize-1-billion-in-bitcoin-from-wallet-linked-to-silk-road)
+- [Facebook was used as a proxy by web scraping bots](https://datadome.co/bot-detection/how-facebook-was-used-as-a-proxy-by-web-scraping-bots/)
 - [U.S. sues Visa to block its acquisition of Plaid](https://www.reuters.com/article/us-visa-lawsuit-plaid/u-s-sues-visa-to-block-its-acquisition-of-plaid-idUSKBN27L26S)
 - [Mux (YC W16) is hiring to help build the Stripe for video](https://mux.com/jobs)
 - [Over $1 Billion in Silk Road Bitcoin Is Target of U.S. Suit](https://www.bloomberg.com/news/articles/2020-11-05/u-s-seeks-forfeiture-of-bitcoin-valued-at-over-1-billion?sref=w3vFo7gi)
-- [Volvo Trucks to launch full range of electric trucks in Europe in 2021](https://www.reuters.com/article/us-volvo-electric/volvo-trucks-to-launch-full-range-of-electric-trucks-in-europe-in-2021-idUSKBN27L0SI)
-- [Making a Snake Clone with Bevy](https://mbuffett.com/posts/bevy-snake-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
