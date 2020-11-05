@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Source Code Leaked Online](https://resynth1943.net/articles/github-source-code-leak/)
-- [Google Breaks Gmail on Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=1586047)
+- [A Pedometer in the Real World](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
+- [Anatomy of a Binary Executable](https://oswalt.dev/2020/11/anatomy-of-a-binary-executable/)
 - [750M genetically modified mosquitoes to be released in Florida](https://www.bbc.com/news/world-us-canada-53856776)
-- [There was a clear winner on election night: Marijuana](https://thehill.com/opinion/civil-rights/524519-there-was-a-clear-winner-on-election-night-marijuana)
-- [Massachusetts Just Passed the World’s Most Advanced Right to Repair Law](https://www.ifixit.com/News/46235/massachusetts-just-passed-the-worlds-most-advanced-right-to-repair-law)
+- [Go Type Parameters – Draft Design](https://go.googlesource.com/proposal/+/refs/heads/master/design/go2draft-type-parameters.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
