@@ -55,7 +55,7 @@
 - [Taplytics (YC W14) Is Expanding Hiring for Software Engs and Sales](https://jobs.lever.co/taplytics)
 - [Social Media Usage and the Level of Depressive Symptoms in the US [pdf]](https://drive.google.com/file/d/1x8icCMCMWcBS2H2mc48bQgm-ZfkQwTEQ/view)
 - [Uno: Single-Codebase for Windows, WebAssembly, iOS, macOS, Android and Linux](https://platform.uno/)
-- [Update on MuseScore 3.6 and 4.0](https://musescore.org/en/node/312563)
+- [JetBrains Compose](https://www.jetbrains.com/lp/compose/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
