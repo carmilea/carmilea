@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [750M genetically modified mosquitoes to be released in Florida](https://www.bbc.com/news/world-us-canada-53856776)
+- [There was a clear winner on election night: Marijuana](https://thehill.com/opinion/civil-rights/524519-there-was-a-clear-winner-on-election-night-marijuana)
 - [Tax Protester FAQ](https://evans-legal.com/dan/tpfaq.html)
 - [Massachusetts Just Passed the World’s Most Advanced Right to Repair Law](https://www.ifixit.com/News/46235/massachusetts-just-passed-the-worlds-most-advanced-right-to-repair-law)
 - [New study finds psilocybin greatly and quickly relieves depression](https://www.psychnewsdaily.com/new-study-psilocybin-magic-mushrooms-relieves-depression/)
-- [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/career/swe-fullstack)
-- [Amazon Launches New RabbitMQ Message Broker Service](https://aws.amazon.com/blogs/aws/amazon-mq-update-new-rabbitmq-message-broker-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
