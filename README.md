@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [OVH Cloud shuts down Guerrilla Mail](https://twitter.com/GuerrillaMail/status/1324190197580328961)
+- [The code I shared was so bad, someone got kicked out of the country](http://theorangeduck.com/page/reproduce-their-results#sourcecode)
 - [Dutch brewery burns iron as a clean, recyclable fuel](https://newatlas.com/energy/bavarian-brewery-carbon-free-renewable-iron-fuel/)
 - [CERN Online introductory lectures on quantum computing from 6 November](https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november)
 - [The Unreasonable Syntactic Expressivity of RNNs](https://nlp.stanford.edu/~johnhew/rnns-hierarchy.html)
-- [Account Takeover via IDOR in Starbucks Singapore](http://www.kamilonurozkaleli.com/posts/starbucks-singapore-account-takeover/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
