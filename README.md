@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. sues Visa to block its acquisition of Plaid](https://www.reuters.com/article/us-visa-lawsuit-plaid/u-s-sues-visa-to-block-its-acquisition-of-plaid-idUSKBN27L26S)
 - [Mux (YC W16) is hiring to help build the Stripe for video](https://mux.com/jobs)
-- [Bitcoin's price shoots past $15,000 for the first time since January 2018](https://www.theblockcrypto.com/linked/83684/bitcoins-price-shoots-past-15000-for-the-first-time-since-january-2018)
+- [Over $1 Billion in Silk Road Bitcoin Is Target of U.S. Suit](https://www.bloomberg.com/news/articles/2020-11-05/u-s-seeks-forfeiture-of-bitcoin-valued-at-over-1-billion?sref=w3vFo7gi)
 - [Volvo Trucks to launch full range of electric trucks in Europe in 2021](https://www.reuters.com/article/us-volvo-electric/volvo-trucks-to-launch-full-range-of-electric-trucks-in-europe-in-2021-idUSKBN27L0SI)
 - [Making a Snake Clone with Bevy](https://mbuffett.com/posts/bevy-snake-tutorial/)
-- [Linux Distributions You Can Rely on for Your Ancient 32-Bit Computer](https://itsfoss.com/32-bit-linux-distributions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
