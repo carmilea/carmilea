@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Switching from Vim to Intellij](https://browntreelabs.com/from-vim-to-intellij/)
+- [New Reddit’s PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.reddit.com%2F&tab=mobile)
+- [Netflix Targets Critical ‘Cuties’ Tweets with Copyright Takedown Requests](https://torrentfreak.com/netflix-targets-critical-cuties-tweets-with-copyright-takedown-requests-201105/)
 - [Python overtakes Java to become the second-most popular programming language](https://www.techrepublic.com/article/python-overtakes-java-to-become-the-second-most-popular-programming-language/)
 - [Taplytics (YC W14) Is Expanding Hiring for Software Engs and Sales](https://jobs.lever.co/taplytics)
-- [Social Media Usage and the Level of Depressive Symptoms in the US [pdf]](https://drive.google.com/file/d/1x8icCMCMWcBS2H2mc48bQgm-ZfkQwTEQ/view)
-- [Uno: Single-Codebase for Windows, WebAssembly, iOS, macOS, Android and Linux](https://platform.uno/)
-- [JetBrains Compose](https://www.jetbrains.com/lp/compose/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
