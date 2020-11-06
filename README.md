@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Double Robotics (YC S12) Is Hiring an Operations and Supply Chain Manager](https://angel.co/company/double-robotics/jobs/73583-operations-and-supply-chain-manager)
+- [Ray Tracer Sandbox in Vulkan](https://github.com/Zielon/PBRVulkan)
+- [Why Silicon Valley has so many Bad Managers (and what to do about it)](https://getlighthouse.com/blog/silicon-valley-bad-managers/)
+- [ClickHouse Capacity Estimation Framework at Clouflare](https://blog.cloudflare.com/clickhouse-capacity-estimation-framework/)
+- [Double Robotics (YC S12) is hiring an operations and supply chain manager](https://angel.co/company/double-robotics/jobs/73583-operations-and-supply-chain-manager)
 - [A Forrester & SingleStore Q&A: Using Real-Time Analytics to Prevent & Fight the COVID-19 Pandemic](https://www.singlestore.com/blog/a-forrester-singlestore-qa-using-real-time-analytics-to-prevent-fight-the-covid-19-pandemic/)
-- [Hooking Up Our Custom OS to a Standard Library](https://blog.stephenmarz.com/2020/10/25/hooking-up-our-custom-os-to-a-standard-library/)
-- [A Linux sysadmin's introduction to cgroups](https://www.redhat.com/sysadmin/cgroups-part-one)
-- [What’s the Role of Developer Experience in Programming Languages Research?](https://blog.sigplan.org/2020/10/27/whats-the-role-of-developer-experience-in-programming-languages-research/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
