@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust vs. Go](https://bitfieldconsulting.com/golang/rust-vs-go)
+- [Show HN: Pull request bot that fixes code smells](https://django.doctor/?show-hn)
 - [Relationship Hero (YC S17) Is Hiring Full-Time Coaches](https://relationshiphero.com/careers?role=coach)
 - [The Turing-Completeness Problem](https://alan-lang.org/the-turing-completeness-problem.html)
 - [Show HN: Tecktok – Triplebyte for Singaporean, Indonesian and Indian Engineers](https://tecktok.io/#/)
-- [Gron – Make JSON Greppable](https://github.com/tomnomnom/gron)
-- [How to write warm emails](http://akhilkg.me/blog/cold-emails)
 <!-- BLOG-POST-LIST:END -->
 
 ---
