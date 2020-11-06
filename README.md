@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How extremophilic bacteria survive in space for one year](https://medienportal.univie.ac.at/presse/aktuelle-pressemeldungen/detailansicht/artikel/microbial-space-travel-on-a-molecular-scale/)
+- [Learning From Quibi](https://salildalvi.substack.com/p/learning-from-quibi)
+- [100 Years on a Dirty Dog: The History of Greyhound (2013)](https://www.mentalfloss.com/article/54273/100-years-dirty-dog-history-greyhound)
 - [Privacy-preserving features in the Mobile Driving License](https://security.googleblog.com/2020/10/privacy-preserving-features-in-mobile.html)
 - [Dover (YC S19) is hiring engineers to build a truly modern recruiting agency](https://www.dover.io/open-roles/senior-software-engineer)
-- [Fast open-source intrusion detection](https://www.cylab.cmu.edu/news/2020/11/05-intrusion.html)
-- [Ultra Secure Password Storage with NitroPepper](https://www.sentiatechblog.com/ultra-secure-password-storage-with-nitropepper)
-- [DoD and NSA Launch New Cybersecurity Initiative with HBCUs](https://www.accesscyber.org/department-of-defense-national-security-agency-launch-cybersecurity-initiative-with-historically-black-universities-colleges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
