@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust vs. Go](https://bitfieldconsulting.com/golang/rust-vs-go)
+- [James Burke Interview](https://www.youtube.com/watch?v=mUb6Sv-rUv0)
+- [Arm Looks to Laptops: Cortex-A78C Processor for PCs Announced](https://www.tomshardware.com/news/arm-looks-to-laptops-cortex-a78c-processor-for-pcs-announced)
+- [YouTube's fake animal rescue ring](https://www.youtube.com/watch?v=fqPXcv-IE0k)
 - [Show HN: Pull request bot that fixes code smells](https://django.doctor/?show-hn)
-- [Relationship Hero (YC S17) Is Hiring Full-Time Coaches](https://relationshiphero.com/careers?role=coach)
-- [The Turing-Completeness Problem](https://alan-lang.org/the-turing-completeness-problem.html)
-- [Show HN: Tecktok – Triplebyte for Singaporean, Indonesian and Indian Engineers](https://tecktok.io/#/)
+- [Why Typing Erlang is Hard (and what can we do about it)](https://abstractmachines.dev/posts/am012-why-typing-erlang-is-hard.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
