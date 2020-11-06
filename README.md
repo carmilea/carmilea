@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Sir – Git-diff-able JSON database on yer filesystem](https://github.com/c9fe/sirdb)
+- [FinTech: Shaping the Financial World](https://ocw.mit.edu/courses/sloan-school-of-management/15-s08-fintech-shaping-the-financial-world-spring-2020/index.htm)
 - [Ibis – A PHP tool that helps you write eBooks in markdown and convert to PDF](https://github.com/themsaid/ibis)
-- [Helsinki free 90-day relocation package: City as a Service](https://www.helsinkibusinesshub.fi/90-day-finn/)
+- [Helsinki Relocation Package: City as a Service](https://www.helsinkibusinesshub.fi/90-day-finn/)
 - [RIAA Abuses DMCA to Take Down Popular Tool for Downloading Online Videos](https://www.eff.org/deeplinks/2020/11/riaa-abuses-dmca-take-down-popular-tool-downloading-online-video)
-- [Tobias Lutke still writes code for Shopify](https://changelog.com/podcast/416#transcript-45)
-- [Travis CI's new pricing plan threw a wrench in my open source works](https://www.jeffgeerling.com/blog/2020/travis-cis-new-pricing-plan-threw-wrench-my-open-source-works)
 <!-- BLOG-POST-LIST:END -->
 
 ---
