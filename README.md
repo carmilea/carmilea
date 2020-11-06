@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [James Burke Interview](https://www.youtube.com/watch?v=mUb6Sv-rUv0)
+- [Soluble ACE2 shows promise for treating severe Covid­19](https://www.nature.com/articles/s41392-020-00374-6)
+- [Ask HN: As a person, what can I do to improve a city?](https://news.ycombinator.com/item?id=25007697)
+- [Dealing with Security Holes in Chips](https://semiengineering.com/dealing-with-security-holes-in-chips/)
+- [James Burke Interview [video]](https://www.youtube.com/watch?v=mUb6Sv-rUv0)
 - [Arm Looks to Laptops: Cortex-A78C Processor for PCs Announced](https://www.tomshardware.com/news/arm-looks-to-laptops-cortex-a78c-processor-for-pcs-announced)
-- [YouTube's fake animal rescue ring](https://www.youtube.com/watch?v=fqPXcv-IE0k)
-- [Show HN: Pull request bot that fixes code smells](https://django.doctor/?show-hn)
-- [Why Typing Erlang is Hard (and what can we do about it)](https://abstractmachines.dev/posts/am012-why-typing-erlang-is-hard.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
