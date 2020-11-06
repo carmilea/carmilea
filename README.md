@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Collections: Iron, How Did They Make It, Addendum: Crucible Steel and Cast Iron](https://acoup.blog/2020/11/06/collections-iron-how-did-they-make-it-addendum-crucible-steel-and-cast-iron/)
-- [AI Expert Roadmap](https://i.am.ai/roadmap)
-- [Ray Tracer Sandbox in Vulkan](https://github.com/Zielon/PBRVulkan)
-- [Double Robotics (YC S12) is hiring an operations and supply chain manager](https://angel.co/company/double-robotics/jobs/73583-operations-and-supply-chain-manager)
-- [A Forrester & SingleStore Q&A: Using Real-Time Analytics to Prevent & Fight the COVID-19 Pandemic](https://www.singlestore.com/blog/a-forrester-singlestore-qa-using-real-time-analytics-to-prevent-fight-the-covid-19-pandemic/)
+- [Dover (YC S19) is hiring engineers to build a truly modern recruiting agency](https://www.dover.io/open-roles/senior-software-engineer)
+- [Whole Foods grocery chain bans Canadian employees from wearing poppies](https://www.cbc.ca/news/canada/ottawa/whole-foods-bans-poppies-1.5791551)
+- [World’s fastest open-source intrusion detection is here](https://www.cylab.cmu.edu/news/2020/11/05-intrusion.html)
+- [Ultra Secure Password Storage with NitroPepper](https://www.sentiatechblog.com/ultra-secure-password-storage-with-nitropepper)
+- [Mayastor: Lightning Fast Storage for Kubernetes](https://www.percona.com/community-blog/2020/10/23/mayastor-lightning-fast-storage-for-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
