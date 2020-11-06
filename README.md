@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [John McAffee Arrested in Spain](https://www.bbc.com/news/world-europe-54431726)
+- [Steve Bannon’s show pulled off Twitter and YouTube over calls for violence](https://techcrunch.com/2020/11/05/steve-bannons-show-pulled-off-twitter-and-youtube-over-calls-for-violence/)
+- [Helsinki free 90-day relocation package: City as a Service](https://www.helsinkibusinesshub.fi/90-day-finn/)
 - [Tobias Lutke still writes code for Shopify](https://changelog.com/podcast/416#transcript-45)
 - [Travis CI's new pricing plan threw a wrench in my open source works](https://www.jeffgeerling.com/blog/2020/travis-cis-new-pricing-plan-threw-wrench-my-open-source-works)
 - [Proctorio used DMCA to take down a student’s critical tweets](https://techcrunch.com/2020/11/05/proctorio-dmca-copyright-critical-tweets/)
-- [Western Digital SweRV RISC-V Core](https://github.com/chipsalliance/Cores-SweRV)
 <!-- BLOG-POST-LIST:END -->
 
 ---
