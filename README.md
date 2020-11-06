@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Privacy-preserving features in the Mobile Driving License](https://security.googleblog.com/2020/10/privacy-preserving-features-in-mobile.html)
 - [Dover (YC S19) is hiring engineers to build a truly modern recruiting agency](https://www.dover.io/open-roles/senior-software-engineer)
-- [Whole Foods grocery chain bans Canadian employees from wearing poppies](https://www.cbc.ca/news/canada/ottawa/whole-foods-bans-poppies-1.5791551)
-- [World’s fastest open-source intrusion detection is here](https://www.cylab.cmu.edu/news/2020/11/05-intrusion.html)
+- [Fast open-source intrusion detection](https://www.cylab.cmu.edu/news/2020/11/05-intrusion.html)
 - [Ultra Secure Password Storage with NitroPepper](https://www.sentiatechblog.com/ultra-secure-password-storage-with-nitropepper)
-- [Mayastor: Lightning Fast Storage for Kubernetes](https://www.percona.com/community-blog/2020/10/23/mayastor-lightning-fast-storage-for-kubernetes/)
+- [DoD and NSA Launch New Cybersecurity Initiative with HBCUs](https://www.accesscyber.org/department-of-defense-national-security-agency-launch-cybersecurity-initiative-with-historically-black-universities-colleges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
