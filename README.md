@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Collections: Iron, How Did They Make It, Addendum: Crucible Steel and Cast Iron](https://acoup.blog/2020/11/06/collections-iron-how-did-they-make-it-addendum-crucible-steel-and-cast-iron/)
 - [AI Expert Roadmap](https://i.am.ai/roadmap)
 - [Ray Tracer Sandbox in Vulkan](https://github.com/Zielon/PBRVulkan)
-- [Why Silicon Valley has so many Bad Managers (and what to do about it)](https://getlighthouse.com/blog/silicon-valley-bad-managers/)
 - [Double Robotics (YC S12) is hiring an operations and supply chain manager](https://angel.co/company/double-robotics/jobs/73583-operations-and-supply-chain-manager)
 - [A Forrester & SingleStore Q&A: Using Real-Time Analytics to Prevent & Fight the COVID-19 Pandemic](https://www.singlestore.com/blog/a-forrester-singlestore-qa-using-real-time-analytics-to-prevent-fight-the-covid-19-pandemic/)
 <!-- BLOG-POST-LIST:END -->
