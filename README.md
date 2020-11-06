@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Tecktok – Triplebyte for Singaporean, Indonesian and Indian Engineers](https://tecktok.io/#/)
+- [How to Write Warm Emails](http://akhilkg.me/blog/cold-emails)
 - [AWS is not offering Austria's TLD .at for registration](https://forums.aws.amazon.com/message.jspa?messageID=898894)
-- [Billionaire Jack Ma fell to earth and took Ant's mega IPO with him](https://www.reuters.com/article/ant-group-ipo-suspension-regulators/how-billionaire-jack-ma-fell-to-earth-and-took-ants-mega-ipo-with-him-idUSKBN27L2GX)
 - [Switch from Ruby to Crystal](https://blog.logrocket.com/why-you-should-switch-from-ruby-to-crystal/)
-- [OneSignal is hiring a SRE to help deliver 8B daily messages for 1M developers](https://onesignal.com/careers/22b0b1cf-122a-4065-b28c-3a42a6819477)
-- [Deprecating scp](https://lwn.net/SubscriberLink/835962/ae41b27bc20699ad/)
+- [Sleeping with Half a Brain](https://www.scientificamerican.com/article/sleeping-with-half-a-brain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
