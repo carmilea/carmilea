@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [OneSignal is hiring a SRE to help deliver 8B daily messages for 1M developers](https://onesignal.com/careers/22b0b1cf-122a-4065-b28c-3a42a6819477)
-- [Why There Aren't More Googles](http://paulgraham.com/googles.html#)
+- [Real World Haskell](https://mmhaskell.com/real-world)
+- [Why There Aren't More Googles (2008)](http://paulgraham.com/googles.html)
 - [Show HN: Sir – Git-diff-able JSON database on yer filesystem](https://github.com/c9fe/sirdb)
-- [New lockdown: Manchester University students pull down campus fences](https://www.bbc.com/news/uk-england-manchester-54833331)
-- [FinTech: Shaping the Financial World](https://ocw.mit.edu/courses/sloan-school-of-management/15-s08-fintech-shaping-the-financial-world-spring-2020/index.htm)
+- [ReCAPTCHA and the Anonymous Experience](https://blog.repl.it/anon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
