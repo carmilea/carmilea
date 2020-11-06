@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clean code won't save the planet](https://buttondown.email/hillelwayne/archive/no-your-clean-code-wont-save-the-planet/)
+- [An Oral History of 'Marge vs. the Monorail'](https://www.vice.com/en/article/akdzx5/an-oral-history-of-marge-vs-the-monorail-the-simpsons)
+- [Intel’s palpable desperation on display with Rocket Lake](https://semiaccurate.com/2020/10/29/intels-palpable-desperation-on-display-with-rocket-lake/)
 - [Soluble ACE2 shows promise for treating severe Covid­19](https://www.nature.com/articles/s41392-020-00374-6)
-- [Ask HN: As a person, what can I do to improve a city?](https://news.ycombinator.com/item?id=25007697)
-- [Dealing with Security Holes in Chips](https://semiengineering.com/dealing-with-security-holes-in-chips/)
-- [James Burke Interview [video]](https://www.youtube.com/watch?v=mUb6Sv-rUv0)
-- [Arm Looks to Laptops: Cortex-A78C Processor for PCs Announced](https://www.tomshardware.com/news/arm-looks-to-laptops-cortex-a78c-processor-for-pcs-announced)
+- [Playstation 5 review: Not just a more-powerful PS4](https://arstechnica.com/gaming/2020/11/playstation-5-review-more-of-a-generational-hop-than-a-leap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
