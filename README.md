@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gmail scanned my contents and shadow banned my emails](https://news.ycombinator.com/item?id=25005072)
 - [Show HN: Sir – Git-diff-able JSON database on yer filesystem](https://github.com/c9fe/sirdb)
 - [New lockdown: Manchester University students pull down campus fences](https://www.bbc.com/news/uk-england-manchester-54833331)
 - [FinTech: Shaping the Financial World](https://ocw.mit.edu/courses/sloan-school-of-management/15-s08-fintech-shaping-the-financial-world-spring-2020/index.htm)
 - [Ibis – A PHP tool that helps you write eBooks in markdown and convert to PDF](https://github.com/themsaid/ibis)
+- [Helsinki Relocation Package: City as a Service](https://www.helsinkibusinesshub.fi/90-day-finn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
