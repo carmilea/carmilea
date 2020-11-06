@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [John McAffee Arrested in Spain](https://www.bbc.com/news/world-europe-54431726)
+- [Tobias Lutke still writes code for Shopify](https://changelog.com/podcast/416#transcript-45)
 - [Travis CI's new pricing plan threw a wrench in my open source works](https://www.jeffgeerling.com/blog/2020/travis-cis-new-pricing-plan-threw-wrench-my-open-source-works)
 - [Proctorio used DMCA to take down a student’s critical tweets](https://techcrunch.com/2020/11/05/proctorio-dmca-copyright-critical-tweets/)
 - [Western Digital SweRV RISC-V Core](https://github.com/chipsalliance/Cores-SweRV)
-- [Polyphemus silk spinning – from cocoon to yarn](http://www.wormspit.com/polyspin.htm)
-- [Lawn Love (YC S14) Is Hiring a Head of Growth Marketing [Remote]](https://apply.workable.com/lawn-love/j/A749319261/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
