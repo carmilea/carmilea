@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Whistleblower: UN actively passing names of Uighur dissidents to Chinese regime](https://www.i24news.tv/en/news/international/1604309404-un-actively-passing-names-of-uighur-dissidents-to-chinese-regime-whistleblower)
+- [Travis CI's new pricing plan threw a wrench in my open source works](https://www.jeffgeerling.com/blog/2020/travis-cis-new-pricing-plan-threw-wrench-my-open-source-works)
 - [Proctorio used DMCA to take down a student’s critical tweets](https://techcrunch.com/2020/11/05/proctorio-dmca-copyright-critical-tweets/)
 - [Western Digital SweRV RISC-V Core](https://github.com/chipsalliance/Cores-SweRV)
 - [Polyphemus silk spinning – from cocoon to yarn](http://www.wormspit.com/polyspin.htm)
