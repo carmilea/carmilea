@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Tecktok – Triplebyte for Singaporean, Indonesian and Indian Engineers](https://tecktok.io/#/)
-- [How to Write Warm Emails](http://akhilkg.me/blog/cold-emails)
+- [Gron – Make JSON Greppable](https://github.com/tomnomnom/gron)
+- [How to write warm emails](http://akhilkg.me/blog/cold-emails)
 - [AWS is not offering Austria's TLD .at for registration](https://forums.aws.amazon.com/message.jspa?messageID=898894)
 - [Switch from Ruby to Crystal](https://blog.logrocket.com/why-you-should-switch-from-ruby-to-crystal/)
-- [Sleeping with Half a Brain](https://www.scientificamerican.com/article/sleeping-with-half-a-brain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
