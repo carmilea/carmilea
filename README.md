@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BaseDash (YC S20) is hiring remote full stack engineers](https://www.basedash.com/careers)
 - [Jira on premises end of life starts feb 2021](https://www.atlassian.com/migration/faqs)
 - [Singapore rears moquitoes infected with Wolbachia bacteria to combat dengue](https://www.reuters.com/article/us-singapore-environment-dengue-idUSKBN25O03A)
 - [SpotifyKeyDumper – Dump song decryption keys from the Windows Spotify client](https://gitlab.com/fuck-capitalism/spotifykeydumper)
 - [Marketers are addicted to bad data](https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data)
-- [The ergonomic Ultimate Hacking Keyboard 60: v2](https://ultimatehackingkeyboard.com/blog/2020/11/05/introducing-the-uhk-60-v2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
