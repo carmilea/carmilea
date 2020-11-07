@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Voters rejecting the war on drugs is a win for public health](https://arstechnica.com/science/2020/11/voters-rejecting-the-war-on-drugs-is-a-win-for-public-health/)
+- [Google Photos will lock some new features behind a paywall](https://www.xda-developers.com/google-photos-5-18-confirms-premium-editing-features-google-one-members/)
 - [Policy, not tech, spurred Danish dominance in wind energy](https://news.cornell.edu/stories/2020/11/policy-not-tech-spurred-danish-dominance-wind-energy)
+- [CSVs: The Good, the Bad, and the Ugly](https://alexgaynor.net/2020/sep/24/csv-good-bad-ugly/)
 - [YC Gaming Startups Are Hiring (Job Expo with Emmett Shear, CEO of Twitch)](https://news.ycombinator.com/item?id=25014592)
-- [Why not use GraphQL?](https://wundergraph.com/blog/why_not_use_graphql)
-- [Has the hidden matter of the universe been discovered?](https://phys.org/news/2020-11-hidden-universe.html)
-- [Advanced Join Patterns for the Actor Model Based on CEP Techniques](https://programming-journal.org/2021/5/10/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
