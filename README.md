@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Impact of fasting and calorie restriction on cancer cells](https://osher.ucsf.edu/patient-care/integrative-medicine-resources/cancer-and-nutrition/faq/cancer-and-fasting-calorie-restriction)
 - [Severe brain injury and paralysis temporarily reversed with a sleeping pill](https://www.sciencedirect.com/science/article/pii/S0010945220303130)
-- [The Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
+- [The Early History of Smalltalk (1993)](http://worrydream.com/EarlyHistoryOfSmalltalk/)
 - [Go in Production – Lessons Learned](https://tdom.dev/go-in-production)
 - [Manuka, the World’s Most Coveted Honey (2018)](https://www.afar.com/magazine/the-wild-story-of-manuka-the-worlds-most-coveted-honey)
-- [How extremophilic bacteria survive in space for one year](https://medienportal.univie.ac.at/presse/aktuelle-pressemeldungen/detailansicht/artikel/microbial-space-travel-on-a-molecular-scale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
