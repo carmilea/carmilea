@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Copyright vs. Copyleft](https://www.gnu.org/gwm/libredocxml/x53.html)
 - [Look inside iPad Pro 11s Lidar Scanner](https://www.eetasia.com/look-inside-ipad-pro-11s-lidar-scanner/)
 - [Raspberry Pi 400 – First Impressions](https://martinpeck.com/blog/2020/11/06/Raspberry-Pi-400/)
 - [AMD EPYC 7713 'Milan' Zen 3 CPU Benchmarked](https://wccftech.com/amd-3rd-gen-epyc-7713-milan-zen-3-cpu-spotted-64-cores-spotted-benchmarked/)
 - [Launch HN: Please-unsubscribe.com – fwd emails to unsubscribe from marketing](https://please-unsubscribe.com)
-- [UK Codemasters Sold to Take-Two Games](https://www.bbc.co.uk/news/technology-54840773)
 <!-- BLOG-POST-LIST:END -->
 
 ---
