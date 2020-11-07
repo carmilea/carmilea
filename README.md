@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to design and defend an embedded Linux device](https://embeddedbits.org/introduction-embedded-linux-security-part-1/)
-- [Programmers: Stop Calling Yourselves Engineers](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/)
-- [How to switch an old Windows laptop to Linux](https://www.theverge.com/21550815/windows-microsoft-linux-mint-laptop-how-to-switch)
-- [Feynman, Algorithmic Orchestration and Node Based Programming](https://generative.substack.com/p/feynman-algorithmic-orchestration)
-- [Voters rejecting the war on drugs is a win for public health](https://arstechnica.com/science/2020/11/voters-rejecting-the-war-on-drugs-is-a-win-for-public-health/)
+- [Flexport is hiring software engineers to build the platform for global trade](https://www.flexport.com/careers/department/engineering)
+- [Twitter has applied warning labels to 37% of Trump's tweets since polls closed](https://edition.cnn.com/politics/live-news/trump-biden-election-results-11-07-20/h_4b7431d7ff5ea6dc0fb40e8247492de8)
+- [Linux Security Hardening for Beginners](https://news.ycombinator.com/item?id=25016108)
+- [Fosshost launches ARMv8 64-bit eMAG](https://fosshost.org/about)
+- [Biden Defeats Trump to Become Next President](https://www.nbcnews.com/politics/2020-election/biden-defeats-trump-win-white-house-nbc-news-projects-n1246912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
