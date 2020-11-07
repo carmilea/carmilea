@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn how to design and defend an embedded Linux device](https://embeddedbits.org/introduction-embedded-linux-security-part-1/)
+- [Programmers: Stop Calling Yourselves Engineers](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/)
+- [How to switch an old Windows laptop to Linux](https://www.theverge.com/21550815/windows-microsoft-linux-mint-laptop-how-to-switch)
+- [Feynman, Algorithmic Orchestration and Node Based Programming](https://generative.substack.com/p/feynman-algorithmic-orchestration)
 - [Voters rejecting the war on drugs is a win for public health](https://arstechnica.com/science/2020/11/voters-rejecting-the-war-on-drugs-is-a-win-for-public-health/)
-- [Google Photos will lock some new features behind a paywall](https://www.xda-developers.com/google-photos-5-18-confirms-premium-editing-features-google-one-members/)
-- [Policy, not tech, spurred Danish dominance in wind energy](https://news.cornell.edu/stories/2020/11/policy-not-tech-spurred-danish-dominance-wind-energy)
-- [CSVs: The Good, the Bad, and the Ugly](https://alexgaynor.net/2020/sep/24/csv-good-bad-ugly/)
-- [YC Gaming Startups Are Hiring (Job Expo with Emmett Shear, CEO of Twitch)](https://news.ycombinator.com/item?id=25014592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
