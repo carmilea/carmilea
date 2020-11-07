@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD 3rd Gen EPYC 7713 'Milan' 64 Core Zen 3 CPU Benchmarked](https://wccftech.com/amd-3rd-gen-epyc-7713-milan-zen-3-cpu-spotted-64-cores-spotted-benchmarked/)
+- [Launch HN: Please-unsubscribe.com – fwd emails to unsubscribe from marketing](https://please-unsubscribe.com)
+- [US Government Continues Encryption War](https://blog.privacytools.io/us-government-continues-encryption-war/)
 - [What will happen when you commit secrets to a public Git repo?](https://twitter.com/andrzejdyjak/status/1324360905237372929)
-- [Eric Weinstein Part 1 -the secret seminar](https://idontspeakgerman.libsyn.com/61-eric-weinstein-part-1-the-secret-seminar)
 - [FreeBSD should not adopt launchd (2015)](https://blog.darknedgy.net/technology/2015/08/26/0/)
-- [Impact of fasting and calorie restriction on cancer cells](https://osher.ucsf.edu/patient-care/integrative-medicine-resources/cancer-and-nutrition/faq/cancer-and-fasting-calorie-restriction)
-- [Severe brain injury and paralysis temporarily reversed with a sleeping pill](https://www.sciencedirect.com/science/article/pii/S0010945220303130)
 <!-- BLOG-POST-LIST:END -->
 
 ---
