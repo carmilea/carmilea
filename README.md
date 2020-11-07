@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Severe brain injury and paralysis temporarily reversed with a sleeping pill](https://www.sciencedirect.com/science/article/pii/S0010945220303130)
 - [The Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
 - [Go in Production – Lessons Learned](https://tdom.dev/go-in-production)
-- [The Wild Story of Manuka, the World’s Most Coveted Honey(2018)](https://www.afar.com/magazine/the-wild-story-of-manuka-the-worlds-most-coveted-honey)
+- [Manuka, the World’s Most Coveted Honey (2018)](https://www.afar.com/magazine/the-wild-story-of-manuka-the-worlds-most-coveted-honey)
 - [How extremophilic bacteria survive in space for one year](https://medienportal.univie.ac.at/presse/aktuelle-pressemeldungen/detailansicht/artikel/microbial-space-travel-on-a-molecular-scale/)
-- [If the universe is expanding, are we expanding too?](https://www.forbes.com/sites/startswithabang/2020/11/06/ask-ethan-if-the-universe-is-expanding-are-we-expanding-too/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
