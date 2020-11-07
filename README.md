@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FreeBSD should not adopt launchd](https://blog.darknedgy.net/technology/2015/08/26/0/)
+- [What will happen when you commit secrets to a public Git repo?](https://twitter.com/andrzejdyjak/status/1324360905237372929)
+- [Eric Weinstein Part 1 -the secret seminar](https://idontspeakgerman.libsyn.com/61-eric-weinstein-part-1-the-secret-seminar)
+- [FreeBSD should not adopt launchd (2015)](https://blog.darknedgy.net/technology/2015/08/26/0/)
 - [Impact of fasting and calorie restriction on cancer cells](https://osher.ucsf.edu/patient-care/integrative-medicine-resources/cancer-and-nutrition/faq/cancer-and-fasting-calorie-restriction)
 - [Severe brain injury and paralysis temporarily reversed with a sleeping pill](https://www.sciencedirect.com/science/article/pii/S0010945220303130)
-- [The Early History of Smalltalk (1993)](http://worrydream.com/EarlyHistoryOfSmalltalk/)
-- [Go in Production – Lessons Learned](https://tdom.dev/go-in-production)
 <!-- BLOG-POST-LIST:END -->
 
 ---
