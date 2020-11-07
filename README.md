@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Wild Story of Manuka, the World’s Most Coveted Honey(2018)](https://www.afar.com/magazine/the-wild-story-of-manuka-the-worlds-most-coveted-honey)
+- [What's so great about Go?](https://stackoverflow.blog/2020/11/02/go-golang-learn-fast-programming-languages/)
 - [How extremophilic bacteria survive in space for one year](https://medienportal.univie.ac.at/presse/aktuelle-pressemeldungen/detailansicht/artikel/microbial-space-travel-on-a-molecular-scale/)
 - [100 Years on a Dirty Dog: The History of Greyhound (2013)](https://www.mentalfloss.com/article/54273/100-years-dirty-dog-history-greyhound)
-- [Privacy-preserving features in the Mobile Driving License](https://security.googleblog.com/2020/10/privacy-preserving-features-in-mobile.html)
-- [The Living Mahabharata](https://aeon.co/essays/the-indian-epic-mahabharata-imparts-a-dark-nuanced-moral-vision)
+- [Manual Memory Management in Go using jemalloc](https://dgraph.io/blog/post/manual-memory-management-golang-jemalloc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
