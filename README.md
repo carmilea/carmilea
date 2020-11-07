@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Policy, not tech, spurred Danish dominance in wind energy](https://news.cornell.edu/stories/2020/11/policy-not-tech-spurred-danish-dominance-wind-energy)
 - [YC Gaming Startups Are Hiring (Job Expo with Emmett Shear, CEO of Twitch)](https://news.ycombinator.com/item?id=25014592)
 - [Why not use GraphQL?](https://wundergraph.com/blog/why_not_use_graphql)
 - [Has the hidden matter of the universe been discovered?](https://phys.org/news/2020-11-hidden-universe.html)
 - [Advanced Join Patterns for the Actor Model Based on CEP Techniques](https://programming-journal.org/2021/5/10/)
-- [Arch Conf 2020](https://media.ccc.de/c/arch-conf-2020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
