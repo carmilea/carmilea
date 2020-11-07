@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don’t Forget About Associative Memories](https://thegradient.pub/dont-forget-about-associative-memories/)
+- [Apple blocks game streaming services unless individual games are approved](https://www.bbc.com/news/technology-53693581)
+- [Going from $0 to $2m ARR in 2 years](https://laskie.co/playbooks/bootstrapping-b2b-sales)
+- [Build Your Own Professional-Grade Audio Amp on the Sort of Cheap (2018)](https://spectrum.ieee.org/consumer-electronics/audiovideo/build-your-own-professionalgrade-audio-amp-on-the-sort-of-cheap)
 - [BaseDash (YC S20) is hiring remote full stack engineers](https://www.basedash.com/careers)
-- [Jira on premises end of life starts feb 2021](https://www.atlassian.com/migration/faqs)
-- [Singapore rears moquitoes infected with Wolbachia bacteria to combat dengue](https://www.reuters.com/article/us-singapore-environment-dengue-idUSKBN25O03A)
-- [SpotifyKeyDumper – Dump song decryption keys from the Windows Spotify client](https://gitlab.com/fuck-capitalism/spotifykeydumper)
-- [Marketers are addicted to bad data](https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data)
 <!-- BLOG-POST-LIST:END -->
 
 ---
