@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Jira on premises end of life starts feb 2021](https://www.atlassian.com/migration/faqs)
+- [Singapore rears moquitoes infected with Wolbachia bacteria to combat dengue](https://www.reuters.com/article/us-singapore-environment-dengue-idUSKBN25O03A)
+- [SpotifyKeyDumper – Dump song decryption keys from the Windows Spotify client](https://gitlab.com/fuck-capitalism/spotifykeydumper)
 - [Marketers are addicted to bad data](https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data)
 - [The ergonomic Ultimate Hacking Keyboard 60: v2](https://ultimatehackingkeyboard.com/blog/2020/11/05/introducing-the-uhk-60-v2)
-- [V8 has optimized new JavaScript language features](https://github.com/thlorenz/v8-perf/blob/master/language-features.md)
-- [Flexport is hiring software engineers to build the platform for global trade](https://www.flexport.com/careers/department/engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
