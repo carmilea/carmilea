@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Copyright vs. Copyleft](https://www.gnu.org/gwm/libredocxml/x53.html)
-- [Look inside iPad Pro 11s Lidar Scanner](https://www.eetasia.com/look-inside-ipad-pro-11s-lidar-scanner/)
-- [Raspberry Pi 400 – First Impressions](https://martinpeck.com/blog/2020/11/06/Raspberry-Pi-400/)
-- [AMD EPYC 7713 'Milan' Zen 3 CPU Benchmarked](https://wccftech.com/amd-3rd-gen-epyc-7713-milan-zen-3-cpu-spotted-64-cores-spotted-benchmarked/)
-- [Launch HN: Please-unsubscribe.com – fwd emails to unsubscribe from marketing](https://please-unsubscribe.com)
+- [YC Gaming Startups Are Hiring (Job Expo with Emmett Shear, CEO of Twitch)](https://news.ycombinator.com/item?id=25014592)
+- [Why not use GraphQL? Misconceptions about API styles and why REST is superior](https://wundergraph.com/blog/why_not_use_graphql)
+- [Has the hidden matter of the universe been discovered?](https://phys.org/news/2020-11-hidden-universe.html)
+- [Advanced Join Patterns for the Actor Model Based on CEP Techniques](https://programming-journal.org/2021/5/10/)
+- [Arch Conf 2020](https://media.ccc.de/c/arch-conf-2020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
