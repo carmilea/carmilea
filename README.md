@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mutt 2.0 Release Notes](http://www.mutt.org/relnotes/2.0/)
 - [Don’t Forget About Associative Memories](https://thegradient.pub/dont-forget-about-associative-memories/)
 - [Apple blocks game streaming services unless individual games are approved](https://www.bbc.com/news/technology-53693581)
-- [Going from $0 to $2m ARR in 2 years](https://laskie.co/playbooks/bootstrapping-b2b-sales)
-- [Build Your Own Professional-Grade Audio Amp on the Sort of Cheap (2018)](https://spectrum.ieee.org/consumer-electronics/audiovideo/build-your-own-professionalgrade-audio-amp-on-the-sort-of-cheap)
-- [BaseDash (YC S20) is hiring remote full stack engineers](https://www.basedash.com/careers)
+- [Going from $0 to $2M ARR in 2 years](https://laskie.co/playbooks/bootstrapping-b2b-sales)
+- [BMI 30 increases risk of severe Covid and death](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7493748/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
