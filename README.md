@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jira on premises end of life starts feb 2021](https://www.atlassian.com/migration/faqs)
 - [Marketers are addicted to bad data](https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data)
 - [The ergonomic Ultimate Hacking Keyboard 60: v2](https://ultimatehackingkeyboard.com/blog/2020/11/05/introducing-the-uhk-60-v2)
+- [V8 has optimized new JavaScript language features](https://github.com/thlorenz/v8-perf/blob/master/language-features.md)
 - [Flexport is hiring software engineers to build the platform for global trade](https://www.flexport.com/careers/department/engineering)
-- [Mercedes Benz infotainment soon will be able to control Bosch Smart Home devices](https://www.autoconnectedcar.com/2020/11/mercedes-benz-mbux-will-talk-to-bosch-smart-home-windows-shutters-sensor-lights-hvac/)
-- [Fosshost launches ARMv8 64-bit eMAG](https://fosshost.org/about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
