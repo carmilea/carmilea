@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Marketers are addicted to bad data](https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data)
+- [The ergonomic Ultimate Hacking Keyboard 60: v2](https://ultimatehackingkeyboard.com/blog/2020/11/05/introducing-the-uhk-60-v2)
 - [Flexport is hiring software engineers to build the platform for global trade](https://www.flexport.com/careers/department/engineering)
-- [Twitter has applied warning labels to 37% of Trump's tweets since polls closed](https://edition.cnn.com/politics/live-news/trump-biden-election-results-11-07-20/h_4b7431d7ff5ea6dc0fb40e8247492de8)
-- [Linux Security Hardening for Beginners](https://news.ycombinator.com/item?id=25016108)
+- [Mercedes Benz infotainment soon will be able to control Bosch Smart Home devices](https://www.autoconnectedcar.com/2020/11/mercedes-benz-mbux-will-talk-to-bosch-smart-home-windows-shutters-sensor-lights-hvac/)
 - [Fosshost launches ARMv8 64-bit eMAG](https://fosshost.org/about)
-- [Biden Defeats Trump to Become Next President](https://www.nbcnews.com/politics/2020-election/biden-defeats-trump-win-white-house-nbc-news-projects-n1246912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
