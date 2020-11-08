@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jerry, Inc. (YC S17) Is Hiring a Software Engineer](https://apply.workable.com/jerry/j/C40F2377E7/)
 - [Using Alfred to open your GitHub repositories in the browser](https://mmazzarolo.com/blog/2020-09-28-alfred-github-repos/)
 - [How Much VCs Make](https://www.saastr.com/heres-how-much-your-vcs-make/)
 - [Review: A Counterfeit, $100 iPhone X](https://www.vice.com/en/article/qvmkdd/counterfeit-iphone-x-review-and-teardown)
 - [The accidental genius of Yo: On minimal viable communications](https://capiche.com/e/yo-atomized-communication)
-- [macOS file diff app, Kaleidoscope, acquired by Letter Opener GmbH](https://kaleidoscope.app/release-notes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
