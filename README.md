@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can We Wipe Out All Coronaviruses for Good?](https://singularityhub.com/2020/10/27/can-we-wipe-out-all-coronaviruses-for-good-heres-what-a-group-of-200-scientists-think/)
+- [Honour among thieves: the study of a cybercrime marketplace in action](https://www.cam.ac.uk/research/news/honour-among-thieves-the-study-of-a-cybercrime-marketplace-in-action)
+- [How to Identify Destructive Leadership Patterns](https://articles.tilt365.com/identify-destructive-leadership-patterns/)
 - [Tesorio (YC S15) Is Hiring Senior Engineers – join our distributed team](https://www.tesorio.com/careers#job-openings)
 - [Ask HN: How do you prevent code leak from current/former employees?](https://news.ycombinator.com/item?id=25025089)
-- [Taking screenshots isn't allowed by the app](https://support.google.com/pixelphone/thread/70006808?hl=en)
-- [One Week of NixOS](https://jae.moe/blog/2020/11/one-week-of-nixos/)
-- [On Spotify, the top 0.4% of artists get 9.9% of the payout [pdf]](http://www.digitalmedia.fi/wp-content/uploads/2018/02/UC_report_final_171213.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
