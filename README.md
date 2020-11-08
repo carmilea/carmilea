@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s OK to Not Care About Politics](https://www.meta-nomad.net/its-ok-to-not-care-about-politics/)
+- [RansomEXX Trojan attacks Linux systems](https://securelist.com/ransomexx-trojan-attacks-linux-systems/99279/)
+- [Computer Crime: Pirates and Phone Phreaks (1983)](https://archive.org/details/softside-magazine-59/page/n9)
 - [Large Corporations Aren’t Going to Save the Real Linux Community](http://techrights.org/2020/11/08/faking-communities/)
-- ['Jeopardy’ host Alex Trebek dead at 80 after cancer battle](https://www.nydailynews.com/snyde/ny-jeopardy-host-alex-trebek-dead-20201108-yxqn7dgnv5dsjj4e6uqte3twee-story.html)
-- [Alex Trebeck, host of Jeopardy, has passed away](https://twitter.com/Jeopardy/status/1325490106329751553)
-- [New Motorola 68000 emulation support in QEMU (talk)](https://www.youtube.com/watch?v=s_ve0bCC9q4)
-- [USPS patent for reliable voting system secured with blockchain](https://patentscope.wipo.int/search/en/detail.jsf?docId=US301570250&tab=NATIONALBIBLIO)
+- [Alex Trebeck has died](https://twitter.com/Jeopardy/status/1325490106329751553)
 <!-- BLOG-POST-LIST:END -->
 
 ---
