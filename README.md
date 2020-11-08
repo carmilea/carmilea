@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jerry, Inc. (YC S17) Is Hiring a Software Engineer](https://apply.workable.com/jerry/j/C40F2377E7/)
-- [Using Alfred to open your GitHub repositories in the browser](https://mmazzarolo.com/blog/2020-09-28-alfred-github-repos/)
-- [How Much VCs Make](https://www.saastr.com/heres-how-much-your-vcs-make/)
-- [Review: A Counterfeit, $100 iPhone X](https://www.vice.com/en/article/qvmkdd/counterfeit-iphone-x-review-and-teardown)
-- [The accidental genius of Yo: On minimal viable communications](https://capiche.com/e/yo-atomized-communication)
+- [Large Corporations Aren’t Going to Save the Real Linux Community](http://techrights.org/2020/11/08/faking-communities/)
+- ['Jeopardy’ host Alex Trebek dead at 80 after cancer battle](https://www.nydailynews.com/snyde/ny-jeopardy-host-alex-trebek-dead-20201108-yxqn7dgnv5dsjj4e6uqte3twee-story.html)
+- [Alex Trebeck, host of Jeopardy, has passed away](https://twitter.com/Jeopardy/status/1325490106329751553)
+- [New Motorola 68000 emulation support in QEMU (talk)](https://www.youtube.com/watch?v=s_ve0bCC9q4)
+- [USPS patent for reliable voting system secured with blockchain](https://patentscope.wipo.int/search/en/detail.jsf?docId=US301570250&tab=NATIONALBIBLIO)
 <!-- BLOG-POST-LIST:END -->
 
 ---
