@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NPM package 'isarray' is downloaded 40M times a week](https://www.npmjs.com/package/isarray)
-- [Google Launches App That Lets Banks Remotely Lock Your Android Device](https://beebom.com/google-launches-app-that-lets-banks-remotely-lock-android-device/)
-- [Can We Wipe Out All Coronaviruses for Good?](https://singularityhub.com/2020/10/27/can-we-wipe-out-all-coronaviruses-for-good-heres-what-a-group-of-200-scientists-think/)
-- [Slack stores Browser Cookies (including dubious 3rd party) without users consent](https://twitter.com/yazijys/status/1325431870780268544)
-- [Transmit Radio Signals via Ethernet](https://github.com/sq5bpf/etherify)
+- [Using Alfred to open your GitHub repositories in the browser](https://mmazzarolo.com/blog/2020-09-28-alfred-github-repos/)
+- [How Much VCs Make](https://www.saastr.com/heres-how-much-your-vcs-make/)
+- [Review: A Counterfeit, $100 iPhone X](https://www.vice.com/en/article/qvmkdd/counterfeit-iphone-x-review-and-teardown)
+- [The accidental genius of Yo: On minimal viable communications](https://capiche.com/e/yo-atomized-communication)
+- [macOS file diff app, Kaleidoscope, acquired by Letter Opener GmbH](https://kaleidoscope.app/release-notes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
