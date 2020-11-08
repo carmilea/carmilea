@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Seriously, Stop Using RSA](https://blog.trailofbits.com/2019/07/08/fuck-rsa/)
 - [Finally: A usable and secure password policy backed by science](https://www.cylab.cmu.edu/news/2020/10/20-passwordpolicy.html)
-- [Tech Startups Say New Pay Rules for H-1B Visas Are Unaffordable](https://www.wsj.com/articles/tech-startups-say-new-pay-rules-for-h-1b-visas-are-unaffordable-11604246400)
 - [WinApps: Run Windows apps in Linux as if they were a part of the native OS](https://github.com/Fmstrat/winapps)
 - [Submarine Cable Map](https://www.submarinecablemap.com/)
 - [Mutt 2.0 Release Notes](http://www.mutt.org/relnotes/2.0/)
