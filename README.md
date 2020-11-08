@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney unveiled an animatronic robot with the same gaze as humans](https://www.businessinsider.com/disney-unveiled-a-robot-with-the-same-gaze-as-humans-2020-11)
-- [Send Payments in India with WhatsApp](https://blog.whatsapp.com/send-payments-in-india-with-whatsapp/?lang=en)
-- [Show HN: Baller ToDo; a no-list todo app](https://ballertodo.com/)
-- [Stop using RSA (2019)](https://blog.trailofbits.com/2019/07/08/fuck-rsa/)
-- [Stack Videos Horizontally, Vertically, in a Grid With FFmpeg](https://ottverse.com/stack-videos-horizontally-vertically-grid-with-ffmpeg/)
+- [Tesorio (YC S15) Is Hiring Senior Engineers – join our distributed team](https://www.tesorio.com/careers#job-openings)
+- [Taking screenshots isn't allowed by the app](https://support.google.com/pixelphone/thread/70006808?hl=en)
+- [One Week of NixOS](https://jae.moe/blog/2020/11/one-week-of-nixos/)
+- [On Spotify, the top 0.4% of artists get 9.9% of the payout [pdf]](http://www.digitalmedia.fi/wp-content/uploads/2018/02/UC_report_final_171213.pdf)
+- [Pongmechanik](http://cyberniklas.de/pongmechanik/indexen.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
