@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop using RSA](https://blog.trailofbits.com/2019/07/08/fuck-rsa/)
+- [Show HN: BallerTODO; a no-list todo app](https://ballertodo.com/)
+- [There's A Mason Jar Shortage Because So Many People Are Getting Into Canning](https://www.delish.com/food-news/a34345878/mason-jar-shortage-2020/)
+- [Stop using RSA (2019)](https://blog.trailofbits.com/2019/07/08/fuck-rsa/)
 - [Stack Videos Horizontally, Vertically, in a Grid With FFmpeg](https://ottverse.com/stack-videos-horizontally-vertically-grid-with-ffmpeg/)
 - [Finally: A usable and secure password policy backed by science](https://www.cylab.cmu.edu/news/2020/10/20-passwordpolicy.html)
-- [WinApps: Run Windows apps in Linux as if they were a part of the native OS](https://github.com/Fmstrat/winapps)
-- [Submarine Cable Map](https://www.submarinecablemap.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
