@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Deepnote – a real-time collaborative data science notebook in the cloud](https://deepnote.com)
-- [“Overpaid Executive Tax” in SF hits firms that pay CEOs 100X more than workers](https://arstechnica.com/tech-policy/2020/11/overpaid-executive-tax-in-sf-hits-firms-that-pay-ceos-100x-more-than-workers/)
 - [Submarine Cable Map](https://www.submarinecablemap.com/)
 - [Mutt 2.0 Release Notes](http://www.mutt.org/relnotes/2.0/)
 - [Don’t Forget About Associative Memories](https://thegradient.pub/dont-forget-about-associative-memories/)
+- [Apple blocks game streaming services unless individual games are approved](https://www.bbc.com/news/technology-53693581)
 <!-- BLOG-POST-LIST:END -->
 
 ---
