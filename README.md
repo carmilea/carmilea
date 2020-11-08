@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Restoring a 37 Year-Old IBM F Mechanical Keyboard](https://blog.opsdisk.com/restoring-a-37-year-old-ibm-model-f-mechanical-keyboard.html)
 - [DeepSource (YC W20) Is Hiring a Director of Marketing (Remote Within US)](https://deepsource.io/jobs/director-marketing-us/)
-- [Zig 0.7.0 tagged](https://ziglang.org)
-- [Alternative app store for non-jailbroken iOS devices](https://github.com/rileytestut/AltStore)
-- [EU proposal to ban encryption for chat apps](https://fm4.orf.at/stories/3008930/)
+- [AltStore: An alternative app store for non-jailbroken iOS devices](https://github.com/rileytestut/AltStore)
+- [EU Draft Council Declaration Against Encryption [pdf]](https://www.statewatch.org/media/1434/eu-council-draft-declaration-against-encryption-12143-20.pdf)
 - [About iSH’s pending removal from the App Store](https://ish.app/app-store-removal)
 <!-- BLOG-POST-LIST:END -->
 
