@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Seriously, Stop Using RSA](https://blog.trailofbits.com/2019/07/08/fuck-rsa/)
+- [Stop using RSA](https://blog.trailofbits.com/2019/07/08/fuck-rsa/)
+- [Stack Videos Horizontally, Vertically, in a Grid With FFmpeg](https://ottverse.com/stack-videos-horizontally-vertically-grid-with-ffmpeg/)
 - [Finally: A usable and secure password policy backed by science](https://www.cylab.cmu.edu/news/2020/10/20-passwordpolicy.html)
 - [WinApps: Run Windows apps in Linux as if they were a part of the native OS](https://github.com/Fmstrat/winapps)
 - [Submarine Cable Map](https://www.submarinecablemap.com/)
-- [Mutt 2.0 Release Notes](http://www.mutt.org/relnotes/2.0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
