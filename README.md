@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: BallerTODO; a no-list todo app](https://ballertodo.com/)
-- [There's A Mason Jar Shortage Because So Many People Are Getting Into Canning](https://www.delish.com/food-news/a34345878/mason-jar-shortage-2020/)
+- [Show HN: Baller ToDo; a no-list todo app](https://ballertodo.com/)
+- [There's a Mason Jar Shortage](https://www.delish.com/food-news/a34345878/mason-jar-shortage-2020/)
 - [Stop using RSA (2019)](https://blog.trailofbits.com/2019/07/08/fuck-rsa/)
 - [Stack Videos Horizontally, Vertically, in a Grid With FFmpeg](https://ottverse.com/stack-videos-horizontally-vertically-grid-with-ffmpeg/)
 - [Finally: A usable and secure password policy backed by science](https://www.cylab.cmu.edu/news/2020/10/20-passwordpolicy.html)
