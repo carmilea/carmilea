@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSource (YC W20) Is Hiring a Director of Marketing (Remote Within US)](https://deepsource.io/jobs/director-marketing-us/)
+- [Alternative app store for non-jailbroken iOS devices](https://github.com/rileytestut/AltStore)
 - [EU proposal to ban encryption for chat apps](https://fm4.orf.at/stories/3008930/)
 - [About iSH’s pending removal from the App Store](https://ish.app/app-store-removal)
 - [RansomEXX Trojan attacks Linux systems](https://securelist.com/ransomexx-trojan-attacks-linux-systems/99279/)
-- [Computer Crime: Pirates and Phone Phreaks (1983)](https://archive.org/details/softside-magazine-59/page/n9)
-- [Large Corporations Aren’t Going to Save the Real Linux Community](http://techrights.org/2020/11/08/faking-communities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
