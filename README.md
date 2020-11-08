@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp Introduces Payments in India](https://blog.whatsapp.com/send-payments-in-india-with-whatsapp/?lang=en)
+- [Disney unveiled an animatronic robot with the same gaze as humans](https://www.businessinsider.com/disney-unveiled-a-robot-with-the-same-gaze-as-humans-2020-11)
+- [Send Payments in India with WhatsApp](https://blog.whatsapp.com/send-payments-in-india-with-whatsapp/?lang=en)
 - [Show HN: Baller ToDo; a no-list todo app](https://ballertodo.com/)
 - [Stop using RSA (2019)](https://blog.trailofbits.com/2019/07/08/fuck-rsa/)
 - [Stack Videos Horizontally, Vertically, in a Grid With FFmpeg](https://ottverse.com/stack-videos-horizontally-vertically-grid-with-ffmpeg/)
-- [Finally: A usable and secure password policy backed by science](https://www.cylab.cmu.edu/news/2020/10/20-passwordpolicy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
