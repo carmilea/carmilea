@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WinApps: Run Windows apps in Linux as if they were a part of the native OS](https://github.com/Fmstrat/winapps)
 - [Show HN: Deepnote – a real-time collaborative data science notebook in the cloud](https://deepnote.com)
 - [Submarine Cable Map](https://www.submarinecablemap.com/)
 - [Mutt 2.0 Release Notes](http://www.mutt.org/relnotes/2.0/)
 - [Don’t Forget About Associative Memories](https://thegradient.pub/dont-forget-about-associative-memories/)
-- [Apple blocks game streaming services unless individual games are approved](https://www.bbc.com/news/technology-53693581)
 <!-- BLOG-POST-LIST:END -->
 
 ---
