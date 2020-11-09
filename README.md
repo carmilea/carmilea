@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No More Free Work from Marak: Pay Me or Fork This](https://github.com/Marak/faker.js/issues/1046)
+- [Opvia (YC S20) Is Hiring](https://www.notion.so/opvia/Jobs-151305ed30a140f29ec9eb7df00deadc)
+- [Apple requests to remove WebAssembly support in a-Shell](https://twitter.com/a_Shell_iOS/status/1325526061099196416)
+- [I'm going to experiment by being Blind and Alone for 24 Hours](https://dormin.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/)
 - [The Tao of Programming (1987)](https://www.mit.edu/~xela/tao.html)
-- [Start with pen and paper](https://sethetter.com/posts/start-with-pen-and-paper/)
-- [Cool Machine Learning Books](http://matpalm.com/blog/cool_machine_learning_books/)
-- [A fun website that simulates fluid](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
-- [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
