@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [The Battle for the Soul of Digital Freedom Taking Place Inside Your Printer](https://www.eff.org/deeplinks/2020/11/ink-stained-wretches-battle-soul-digital-freedom-taking-place-inside-your-printer)
+- [Converting Utzoo-Wiseman Usenet Tapes to PostgreSQL Back End Using Python](https://www.joe0.com/2020/10/07/converting-utzoo-wiseman-netnews-archive-to-postgresql-using-python-3-8/)
 - [100+ Startups that have hit more than $1K MRR in about 12-24 months](https://openstartups.listt.xyz)
-- [Analyzing the Limits of Connection Scalability in Postgres](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/analyzing-the-limits-of-connection-scalability-in-postgres/ba-p/1757266)
-- [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/index.html)
-- [HP replaces free ink for life plan with '99 cents/month or your printer stops'](https://hardware.slashdot.org/story/20/11/09/0221226/hp-replaces-free-ink-for-life-plan-with-99-cents-a-month-or-your-printer-stops-working)
-- [Voters Overwhelmingly Back Community Broadband in Chicago and Denver](https://www.vice.com/en/article/xgzxvz/voters-overwhelmingly-back-community-broadband-in-chicago-and-denver)
+- [Show HN: Zonote – Sticky notes with Markdown and Tabs, all in one .txt file](https://github.com/zonetti/zonote)
 <!-- BLOG-POST-LIST:END -->
 
 ---
