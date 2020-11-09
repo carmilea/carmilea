@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rabbet (YC S17) Is Hiring Software Engineers (US Remote/Austin)](https://apply.workable.com/rabbet/j/EA0C679685/)
+- [Covid vaccine: First vaccine offers 90% protection](https://www.bbc.co.uk/news/health-54873105)
+- [UK firm to turn moon rock into oxygen and building materials](https://www.theguardian.com/science/2020/nov/09/uk-firm-to-turn-moon-rock-into-oxygen-and-building-materials)
 - [Company forced to change name that could be used to hack websites](https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk)
-- [The least exploited web browser is IE](https://www.radsix.com/dashboard1/)
-- [Pijul: Towards 1.0](https://pijul.org/posts/2020-11-07-towards-1.0/)
-- [XuanTie C906 based Allwinner RISC-V processor to power $12 Linux SBC's](https://www.cnx-software.com/2020/11/09/xuantie-c906-based-allwinner-risc-v-processor-to-power-12-linux-sbcs/)
-- [Have Fruits and Vegetables Become Less Nutritious? (2011)](https://www.scientificamerican.com/article/soil-depletion-and-nutrition-loss/)
+- [Zero-Days in Desktop Web Browsers](https://www.radsix.com/dashboard1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
