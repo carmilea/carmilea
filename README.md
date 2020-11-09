@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [McDonald's is adding plant-based burgers to the menu](https://www.protocol.com/bulletins/mcdonalds-plant-based)
+- [Why Rust Is the Future of Game Development](https://thefuntastic.com/blog/why-rust-is-the-future-game-dev?)
+- [Canadian government pledges to connect 98% of Canadians via High-Speed Internet](https://www.cbc.ca/news/politics/broadband-internet-1.5794901)
 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [The Battle for the Soul of Digital Freedom Taking Place Inside Your Printer](https://www.eff.org/deeplinks/2020/11/ink-stained-wretches-battle-soul-digital-freedom-taking-place-inside-your-printer)
-- [Converting Utzoo-Wiseman Usenet Tapes to PostgreSQL Back End Using Python](https://www.joe0.com/2020/10/07/converting-utzoo-wiseman-netnews-archive-to-postgresql-using-python-3-8/)
-- [100+ Startups that have hit more than $1K MRR in about 12-24 months](https://openstartups.listt.xyz)
-- [Show HN: Zonote – Sticky notes with Markdown and Tabs, all in one .txt file](https://github.com/zonetti/zonote)
 <!-- BLOG-POST-LIST:END -->
 
 ---
