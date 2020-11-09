@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lazy Lantern (YC S19) Is Hiring Remote FullStack and Back End Engs](https://angel.co/company/lazylantern/jobs)
+- [Bentley to Retire Roaring 12-Cylinder Engines, Go Electric](https://www.bloomberg.com/news/articles/2020-11-05/bentley-to-retire-roaring-12-cylinder-engines-in-electric-shift)
+- [Looking for Voter Fraud (In Old Elections) with Data Visualization](https://probablydance.com/2020/11/08/looking-for-voter-fraud-in-old-elections-with-data-visualization/)
 - [Increment.me: easily get anonymous feedback on anything](https://increment.me)
 - [Restoring a 37 Year-Old IBM F Mechanical Keyboard](https://blog.opsdisk.com/restoring-a-37-year-old-ibm-model-f-mechanical-keyboard.html)
-- [Reverse-engineering the carry-lookahead circuit in the Intel 8008 processor](http://www.righto.com/2020/11/reverse-engineering-carry-lookahead.html?m=1)
-- [DeepSource (YC W20) Is Hiring a Director of Marketing (Remote Within US)](https://deepsource.io/jobs/director-marketing-us/)
-- [AltStore: An alternative app store for non-jailbroken iOS devices](https://github.com/rileytestut/AltStore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
