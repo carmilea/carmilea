@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eric Schmidt has applied to become a citizen of Cyprus](https://www.vox.com/recode/2020/11/9/21547055/eric-schmidt-google-citizen-cyprus-european-union)
+- [Slingbox Discontinued Announcement and Frequently Asked Questions (FAQ)](https://www.slingbox.com/discontinued)
+- [How to GraphQL with Ruby, Rails, Active Record, and No N+1](https://evilmartians.com/chronicles/how-to-graphql-with-ruby-rails-active-record-and-no-n-plus-one)
 - [McDonald's is adding plant-based burgers to the menu](https://www.protocol.com/bulletins/mcdonalds-plant-based)
 - [Why Rust Is the Future of Game Development](https://thefuntastic.com/blog/why-rust-is-the-future-game-dev?)
-- [Canadian government pledges to connect 98% of Canadians via High-Speed Internet](https://www.cbc.ca/news/politics/broadband-internet-1.5794901)
-- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [The Battle for the Soul of Digital Freedom Taking Place Inside Your Printer](https://www.eff.org/deeplinks/2020/11/ink-stained-wretches-battle-soul-digital-freedom-taking-place-inside-your-printer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
