@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
+- [Start with pen and paper](https://sethetter.com/posts/start-with-pen-and-paper/)
+- [Cool Machine Learning Books](http://matpalm.com/blog/cool_machine_learning_books/)
+- [A fun website that simulates fluid](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 - [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/)
-- [Lazy Lantern (YC S19) Is Hiring Remote FullStack and Back End Engs](https://angel.co/company/lazylantern/jobs)
-- [I now have an Oculus paperweight](https://www.reddit.com/r/oculus/comments/jqh1bg/i_now_have_an_oculus_paperweight/)
-- [In Appalachia, a Plan to Save Wild Ginseng](https://undark.org/2020/11/04/save-wild-ginseng-appalachia/)
-- [Looking for Voter Fraud (In Old Elections) with Data Visualization](https://probablydance.com/2020/11/08/looking-for-voter-fraud-in-old-elections-with-data-visualization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
