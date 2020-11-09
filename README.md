@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dirt Poor: Have Fruits and Vegetables Become Less Nutritious?](https://www.scientificamerican.com/article/soil-depletion-and-nutrition-loss/)
+- [XuanTie C906 based Allwinner RISC-V processor to power $12 Linux SBC's](https://www.cnx-software.com/2020/11/09/xuantie-c906-based-allwinner-risc-v-processor-to-power-12-linux-sbcs/)
+- [Have Fruits and Vegetables Become Less Nutritious? (2011)](https://www.scientificamerican.com/article/soil-depletion-and-nutrition-loss/)
+- [Structured Concurrency](https://ericniebler.com/2020/11/08/structured-concurrency/)
 - [No More Free Work from Marak: Pay Me or Fork This](https://github.com/Marak/faker.js/issues/1046)
 - [Opvia (YC S20) Is Hiring](https://www.notion.so/opvia/Jobs-151305ed30a140f29ec9eb7df00deadc)
-- [Apple requests to remove WebAssembly support in a-Shell](https://twitter.com/a_Shell_iOS/status/1325526061099196416)
-- [I'm going to experiment by being Blind and Alone for 24 Hours](https://dormin.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
