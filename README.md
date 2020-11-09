@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A US Visa in 937 Days](https://daniel.haxx.se/blog/2020/11/09/a-us-visa-in-937-days/)
-- [Apple’s New Era Has Begun](https://www.forbes.com/sites/danrunkevicius/2020/11/09/apples-new-era-has-begun/)
-- [No Free Features](https://landshark.io/2020/11/09/no-free-features.html)
-- [Let’s Build a Video Card (2019)](https://eater.net/vga)
-- [Multicore OCaml: October 2020](https://discuss.ocaml.org/t/multicore-ocaml-october-2020/6729)
+- [100+ Startups that have hit more than $1K MRR in about 12-24 months](https://openstartups.listt.xyz)
+- [Analyzing the Limits of Connection Scalability in Postgres](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/analyzing-the-limits-of-connection-scalability-in-postgres/ba-p/1757266)
+- [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/index.html)
+- [HP replaces free ink for life plan with '99 cents/month or your printer stops'](https://hardware.slashdot.org/story/20/11/09/0221226/hp-replaces-free-ink-for-life-plan-with-99-cents-a-month-or-your-printer-stops-working)
+- [Voters Overwhelmingly Back Community Broadband in Chicago and Denver](https://www.vice.com/en/article/xgzxvz/voters-overwhelmingly-back-community-broadband-in-chicago-and-denver)
 <!-- BLOG-POST-LIST:END -->
 
 ---
