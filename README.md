@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A US Visa in 937 Days](https://daniel.haxx.se/blog/2020/11/09/a-us-visa-in-937-days/)
+- [Apple’s New Era Has Begun](https://www.forbes.com/sites/danrunkevicius/2020/11/09/apples-new-era-has-begun/)
+- [No Free Features](https://landshark.io/2020/11/09/no-free-features.html)
+- [Let’s Build a Video Card (2019)](https://eater.net/vga)
 - [Multicore OCaml: October 2020](https://discuss.ocaml.org/t/multicore-ocaml-october-2020/6729)
-- [NHS data: Can Sir Tim Berners-Lee fix it?](https://www.bbc.co.uk/news/technology-54871705)
-- [Pfizer, BioNTech say their Covid-19 vaccine is more than 90% effective](https://www.reuters.com/article/us-health-coronavirus-vaccines-pfizer/pfizer-biontech-say-their-covid-19-vaccine-is-more-than-90-effective-idUSKBN27P1CT)
-- [Rabbet (YC S17) Is Hiring Software Engineers (US Remote/Austin)](https://apply.workable.com/rabbet/j/EA0C679685/)
-- [Covid vaccine: First ‘milestone’ vaccine offers 90% protection](https://www.bbc.co.uk/news/health-54873105)
 <!-- BLOG-POST-LIST:END -->
 
 ---
