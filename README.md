@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Security scorecards for open source projects](https://opensource.googleblog.com/2020/11/security-scorecards-for-open-source.html)
-- [Virtual Consensus in Delos](https://blog.acolyer.org/2020/11/09/delos/)
 - [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management#)
 - [Slimium: Debloating the Chromium Browser with Feature Subsetting](https://dl.acm.org/doi/pdf/10.1145/3372297.3417866)
 - [How to Recalculate a Spreadsheet](https://lord.io/blog/2020/spreadsheets/)
+- [Launch HN: Gather.Town (YC S19) – Spatial video chat for remote teams](https://gather.town/?ref=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
