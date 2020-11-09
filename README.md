@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Increment.me: easily get anonymous feedback on anything](https://increment.me)
 - [Restoring a 37 Year-Old IBM F Mechanical Keyboard](https://blog.opsdisk.com/restoring-a-37-year-old-ibm-model-f-mechanical-keyboard.html)
+- [Reverse-engineering the carry-lookahead circuit in the Intel 8008 processor](http://www.righto.com/2020/11/reverse-engineering-carry-lookahead.html?m=1)
 - [DeepSource (YC W20) Is Hiring a Director of Marketing (Remote Within US)](https://deepsource.io/jobs/director-marketing-us/)
 - [AltStore: An alternative app store for non-jailbroken iOS devices](https://github.com/rileytestut/AltStore)
-- [EU Draft Council Declaration Against Encryption [pdf]](https://www.statewatch.org/media/1434/eu-council-draft-declaration-against-encryption-12143-20.pdf)
-- [About iSH’s pending removal from the App Store](https://ish.app/app-store-removal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
