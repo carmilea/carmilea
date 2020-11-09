@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Company forced to change name that could be used to hack websites](https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk)
+- [The least exploited web browser is IE](https://www.radsix.com/dashboard1/)
+- [Pijul: Towards 1.0](https://pijul.org/posts/2020-11-07-towards-1.0/)
 - [XuanTie C906 based Allwinner RISC-V processor to power $12 Linux SBC's](https://www.cnx-software.com/2020/11/09/xuantie-c906-based-allwinner-risc-v-processor-to-power-12-linux-sbcs/)
 - [Have Fruits and Vegetables Become Less Nutritious? (2011)](https://www.scientificamerican.com/article/soil-depletion-and-nutrition-loss/)
-- [Structured Concurrency](https://ericniebler.com/2020/11/08/structured-concurrency/)
-- [No More Free Work from Marak: Pay Me or Fork This](https://github.com/Marak/faker.js/issues/1046)
-- [Opvia (YC S20) Is Hiring](https://www.notion.so/opvia/Jobs-151305ed30a140f29ec9eb7df00deadc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
