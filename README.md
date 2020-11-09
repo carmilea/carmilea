@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/)
 - [Lazy Lantern (YC S19) Is Hiring Remote FullStack and Back End Engs](https://angel.co/company/lazylantern/jobs)
 - [I now have an Oculus paperweight](https://www.reddit.com/r/oculus/comments/jqh1bg/i_now_have_an_oculus_paperweight/)
-- [Increment.me: easily get anonymous feedback on anything](https://increment.me)
-- [Restoring a 37 Year-Old IBM F Mechanical Keyboard](https://blog.opsdisk.com/restoring-a-37-year-old-ibm-model-f-mechanical-keyboard.html)
-- [Reverse-engineering the carry-lookahead circuit in the Intel 8008 processor](http://www.righto.com/2020/11/reverse-engineering-carry-lookahead.html?m=1)
+- [In Appalachia, a Plan to Save Wild Ginseng](https://undark.org/2020/11/04/save-wild-ginseng-appalachia/)
+- [Looking for Voter Fraud (In Old Elections) with Data Visualization](https://probablydance.com/2020/11/08/looking-for-voter-fraud-in-old-elections-with-data-visualization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
