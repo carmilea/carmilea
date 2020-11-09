@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
+- [The Tao of Programming (1987)](https://www.mit.edu/~xela/tao.html)
 - [Start with pen and paper](https://sethetter.com/posts/start-with-pen-and-paper/)
 - [Cool Machine Learning Books](http://matpalm.com/blog/cool_machine_learning_books/)
 - [A fun website that simulates fluid](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
