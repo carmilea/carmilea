@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Multicore OCaml: October 2020](https://discuss.ocaml.org/t/multicore-ocaml-october-2020/6729)
 - [NHS data: Can Sir Tim Berners-Lee fix it?](https://www.bbc.co.uk/news/technology-54871705)
+- [Pfizer, BioNTech say their Covid-19 vaccine is more than 90% effective](https://www.reuters.com/article/us-health-coronavirus-vaccines-pfizer/pfizer-biontech-say-their-covid-19-vaccine-is-more-than-90-effective-idUSKBN27P1CT)
 - [Rabbet (YC S17) Is Hiring Software Engineers (US Remote/Austin)](https://apply.workable.com/rabbet/j/EA0C679685/)
 - [Covid vaccine: First ‘milestone’ vaccine offers 90% protection](https://www.bbc.co.uk/news/health-54873105)
-- [UK firm to turn moon rock into oxygen and building materials](https://www.theguardian.com/science/2020/nov/09/uk-firm-to-turn-moon-rock-into-oxygen-and-building-materials)
-- [Company forced to change name that could be used to hack websites](https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
