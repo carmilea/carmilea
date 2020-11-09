@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Go helped save HealthCare.gov](https://changelog.com/gotime/154)
+- [AWS Security Maturity Roadmap [pdf]](https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf)
+- [WD SN850 delivers the best performing SSD we've ever tested](https://www.tweaktown.com/reviews/9664/wd-black-sn850-1tb-nvme-2-ssd/index.html)
+- [Show HN: A novel approach to detect image manipulation](https://github.com/dennis-tra/image-stego)
 - [Eric Schmidt has applied to become a citizen of Cyprus](https://www.vox.com/recode/2020/11/9/21547055/eric-schmidt-google-citizen-cyprus-european-union)
-- [Slingbox Discontinued Announcement and Frequently Asked Questions (FAQ)](https://www.slingbox.com/discontinued)
-- [How to GraphQL with Ruby, Rails, Active Record, and No N+1](https://evilmartians.com/chronicles/how-to-graphql-with-ruby-rails-active-record-and-no-n-plus-one)
-- [McDonald's is adding plant-based burgers to the menu](https://www.protocol.com/bulletins/mcdonalds-plant-based)
-- [Why Rust Is the Future of Game Development](https://thefuntastic.com/blog/why-rust-is-the-future-game-dev?)
 <!-- BLOG-POST-LIST:END -->
 
 ---
