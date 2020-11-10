@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Indie Systems Programming Conference (Nov 14-15)](https://www.handmade-seattle.com)
 - [One pollster’s explanation for why the polls got it wrong](https://www.vox.com/policy-and-politics/2020/11/10/21551766/election-polls-results-wrong-david-shor)
 - [Introducing the next generation of Mac](https://www.apple.com/newsroom/2020/11/introducing-the-next-generation-of-mac/)
-- [Apple unveils M1, its first system-on-a-chip for portable Mac computers](https://9to5mac.com/2020/11/10/apple-unveils-m1-its-first-system-on-a-chip-for-portable-mac-computers/)
-- [Qt 6.0 Beta 4 Released](https://www.phoronix.com/scan.php?page=news_item&px=Qt-6.0-Beta-4-Released)
-- [Burnout can exacerbate work stress, further promoting a vicious circle](https://www.uni-mainz.de/presse/aktuell/12451_ENG_HTML.php)
+- [Elections, Bitcoin and M2](https://macrocrunch.substack.com/p/elections-bitcoin-and-m2)
+- [InfluxDB is betting on Rust and Apache Arrow for next-gen data store](https://www.influxdata.com/blog/announcing-influxdb-iox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
