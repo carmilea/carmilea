@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Indie Systems Programming Conference (Nov 14-15)](https://www.handmade-seattle.com)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [Apple Announces the Apple Silicon M1 – What to Expect, Based on A14](https://www.anandtech.com/show/16226/apple-silicon-m1-a14-deep-dive)
+- [Operators Ep 14: Keith Rabois (Founders Fund)](https://delian.substack.com/p/operators-ep-14-keith-rabois-founders)
 - [One pollster’s explanation for why the polls got it wrong](https://www.vox.com/policy-and-politics/2020/11/10/21551766/election-polls-results-wrong-david-shor)
 - [Introducing the next generation of Mac](https://www.apple.com/newsroom/2020/11/introducing-the-next-generation-of-mac/)
-- [Elections, Bitcoin and M2](https://macrocrunch.substack.com/p/elections-bitcoin-and-m2)
-- [InfluxDB is betting on Rust and Apache Arrow for next-gen data store](https://www.influxdata.com/blog/announcing-influxdb-iox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
