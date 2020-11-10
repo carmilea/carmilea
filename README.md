@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Burnout can exacerbate work stress, further promoting a vicious circle](https://www.uni-mainz.de/presse/aktuell/12451_ENG_HTML.php)
+- [The Lonely Work of Moderating Hacker News](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news)
+- [Drew DeVault: My experience as a poll worker in Pennsylvania](https://portal.drewdevault.com/2020/11/10/2020-Election-worker.gmi)
 - [Bitmovin (YC S15) Is Hiring a Marketing Operations Manager in San Francisco](https://bitmovin.com/careers-legacy/4917788002/?gh_jid=4917788002)
-- [Eleven Years of Go](https://blog.golang.org/11years)
-- [The Gods on Hacker News](https://www.riknieu.com/the-gods-on-hackernews/)
-- [Origins of the youtube-dl project](https://rg3.name/202011071352.html)
-- [Investing in Isovalent](https://a16z.com/2020/11/10/investing-in-isovalent/)
+- [eBPF – The Future of Networking and Security](https://cilium.io/blog/2020/11/10/ebpf-future-of-networking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
