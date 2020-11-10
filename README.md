@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AppleCrate II: A New Apple II-Based Parallel Computer](http://michaeljmahon.com/AppleCrateII.html)
+- [The Art of Thinking by Ernest Dimnet](http://gutenberg.net.au/ebooks14/1400451h.html)
 - [Army Wants Smaller Brigades, Stronger Divisions and Lots of Robots](https://breakingdefense.com/2020/11/army-wants-smaller-brigades-stronger-divisions-lots-of-robots/)
 - [Inside The Secret Math Society Known Simply as Nicolas Bourbaki](https://www.quantamagazine.org/inside-the-secret-math-society-known-as-nicolas-bourbaki-20201109/)
 - [Best Practices for Writing Clean Interfaces in Go](https://qvault.io/2020/03/15/best-practices-for-writing-clean-interfaces-in-go/)
-- [Large-scale multilingual audio visual dubbing](https://arxiv.org/abs/2011.03530)
-- [Try Design Thinking](https://garybasin.com/try-design-thinking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
