@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Ambient noise generator for Windows that I give away, coupon “NOISE”](https://gumroad.com/l/AmvxE)
 - [WaystoCap (YC W17) Is Hiring a Full Stack Software Engineer](https://waystocap.breezy.hr/p/1f311202d596-full-stack-software-engineer)
 - [Complex text layouts progress report in Godot game engine](https://godotengine.org/article/complex-text-layouts-progress-report-2)
 - [Show HN: Micro 3.0 Released – a platform for microservices development](https://micro.mu/blog/2020/11/05/micro-v3-aka-m3o.html)
 - [HP printer firmware upgrade ban 3rd-party ink cartridges](https://kevin.deldycke.com/2020/11/revert-hp-printer-ban-on-third-party-ink-cartridges/)
-- [Zoom lied to users about end-to-end encryption for years, FTC says](https://arstechnica.com/tech-policy/2020/11/zoom-lied-to-users-about-end-to-end-encryption-for-years-ftc-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
