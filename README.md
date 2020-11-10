@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Betfair still hasn't paid out its 2020 Presidential Election market](https://www.betfair.com/exchange/plus/politics/market/1.128151441)
+- [Second cable breaks at Puerto Rico’s Arecibo telescope](https://www.sciencemag.org/news/2020/11/second-cable-breaks-puerto-rico-s-arecibo-telescope)
+- [I sold Baremetrics](https://baremetrics.com/blog/i-sold-baremetrics)
 - [Show HN: Ambient noise generator for Windows that I give away, coupon “NOISE”](https://gumroad.com/l/AmvxE)
 - [WaystoCap (YC W17) Is Hiring a Full Stack Software Engineer](https://waystocap.breezy.hr/p/1f311202d596-full-stack-software-engineer)
-- [Complex text layouts progress report in Godot game engine](https://godotengine.org/article/complex-text-layouts-progress-report-2)
-- [Show HN: Micro 3.0 Released – a platform for microservices development](https://micro.mu/blog/2020/11/05/micro-v3-aka-m3o.html)
-- [HP printer firmware upgrade ban 3rd-party ink cartridges](https://kevin.deldycke.com/2020/11/revert-hp-printer-ban-on-third-party-ink-cartridges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
