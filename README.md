@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Betfair still hasn't paid out its 2020 Presidential Election market](https://www.betfair.com/exchange/plus/politics/market/1.128151441)
+- [American Airlines Is Quietly Bringing Back the 737Max](https://www.zdnet.com/article/american-airlines-is-quietly-bringing-back-the-737-max-heres-why-thats-disturbing/)
+- [One in five Covid-19 patients develop mental illness within 90 days – study](https://www.reuters.com/article/health-coronavirus-mental-illness-int-idUSKBN27P35N)
 - [Second cable breaks at Puerto Rico’s Arecibo telescope](https://www.sciencemag.org/news/2020/11/second-cable-breaks-puerto-rico-s-arecibo-telescope)
+- [Show HN: Fastest way to share passwords with your spouse](https://www.secureappy.com/)
 - [I sold Baremetrics](https://baremetrics.com/blog/i-sold-baremetrics)
-- [Show HN: Ambient noise generator for Windows that I give away, coupon “NOISE”](https://gumroad.com/l/AmvxE)
-- [WaystoCap (YC W17) Is Hiring a Full Stack Software Engineer](https://waystocap.breezy.hr/p/1f311202d596-full-stack-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
