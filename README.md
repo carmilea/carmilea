@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Could a Peasant Defeat a Knight in Battle?](https://www.medievalists.net/2020/11/peasant-knight-battle/)
+- [Security scorecards for open source projects](https://opensource.googleblog.com/2020/11/security-scorecards-for-open-source.html)
 - [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management#)
 - [Slimium: Debloating the Chromium Browser with Feature Subsetting](https://dl.acm.org/doi/pdf/10.1145/3372297.3417866)
 - [How to Recalculate a Spreadsheet](https://lord.io/blog/2020/spreadsheets/)
-- [Launch HN: Gather.Town (YC S19) – Spatial video chat for remote teams](https://gather.town/?ref=hn)
-- [Pixel 5 review: Google spends its bill-of-materials budget unwisely](https://arstechnica.com/?p=1714684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
