@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [This is how I git](https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git/)
 - [Demodesk (YC W19) Raises Series-A and Is Hiring in Munich](https://jobs.lever.co/demodesk)
 - [A Primer in BERTology: What We Know About How Bert Works](https://arxiv.org/abs/2002.12327)
 - [Pernosco Omniscient Debugger is now available for individual developers](https://pernos.co/?)
 - [AppleCrate II: A New Apple II-Based Parallel Computer (2015)](http://michaeljmahon.com/AppleCrateII.html)
-- [Army wants smaller brigades, stronger divisions and lots of robots](https://breakingdefense.com/2020/11/army-wants-smaller-brigades-stronger-divisions-lots-of-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
