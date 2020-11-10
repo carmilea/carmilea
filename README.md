@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [C source-to-source compiler enhancement from within](https://hal.inria.fr/hal-02998412)
+- [Spectre.console, pretty console apps in .NET](https://github.com/spectresystems/spectre.console)
+- [Computer Scientists Achieve ‘Crown Jewel’ of Cryptography](https://www.quantamagazine.org/computer-scientists-achieve-crown-jewel-of-cryptography-20201110/)
+- [On Apple's Piss-Poor Documentation](https://www.caseyliss.com/2020/11/10/on-apples-pisspoor-documentation)
 - [American Airlines Is Quietly Bringing Back the 737Max](https://www.zdnet.com/article/american-airlines-is-quietly-bringing-back-the-737-max-heres-why-thats-disturbing/)
-- [One in five Covid-19 patients develop mental illness within 90 days – study](https://www.reuters.com/article/health-coronavirus-mental-illness-int-idUSKBN27P35N)
-- [Second cable breaks at Puerto Rico’s Arecibo telescope](https://www.sciencemag.org/news/2020/11/second-cable-breaks-puerto-rico-s-arecibo-telescope)
-- [Show HN: Fastest way to share passwords with your spouse](https://www.secureappy.com/)
-- [I sold Baremetrics](https://baremetrics.com/blog/i-sold-baremetrics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
