@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C source-to-source compiler enhancement from within](https://hal.inria.fr/hal-02998412)
-- [Spectre.console, pretty console apps in .NET](https://github.com/spectresystems/spectre.console)
-- [Computer Scientists Achieve ‘Crown Jewel’ of Cryptography](https://www.quantamagazine.org/computer-scientists-achieve-crown-jewel-of-cryptography-20201110/)
-- [On Apple's Piss-Poor Documentation](https://www.caseyliss.com/2020/11/10/on-apples-pisspoor-documentation)
-- [American Airlines Is Quietly Bringing Back the 737Max](https://www.zdnet.com/article/american-airlines-is-quietly-bringing-back-the-737-max-heres-why-thats-disturbing/)
+- [Bitmovin (YC S15) Is Hiring a Marketing Operations Manager in San Francisco](https://bitmovin.com/careers-legacy/4917788002/?gh_jid=4917788002)
+- [Eleven Years of Go](https://blog.golang.org/11years)
+- [The Gods on Hacker News](https://www.riknieu.com/the-gods-on-hackernews/)
+- [Origins of the youtube-dl project](https://rg3.name/202011071352.html)
+- [Investing in Isovalent](https://a16z.com/2020/11/10/investing-in-isovalent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
