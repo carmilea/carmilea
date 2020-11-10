@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Large-scale multilingual audio visual dubbing](https://arxiv.org/abs/2011.03530)
+- [Try Design Thinking](https://garybasin.com/try-design-thinking/)
 - [Could a Peasant Defeat a Knight in Battle?](https://www.medievalists.net/2020/11/peasant-knight-battle/)
-- [Security scorecards for open source projects](https://opensource.googleblog.com/2020/11/security-scorecards-for-open-source.html)
+- [The Ladders of Wealth Creation](https://gradually.co/roadmap-to-building-wealth/)
 - [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management#)
-- [Slimium: Debloating the Chromium Browser with Feature Subsetting](https://dl.acm.org/doi/pdf/10.1145/3372297.3417866)
-- [How to Recalculate a Spreadsheet](https://lord.io/blog/2020/spreadsheets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
