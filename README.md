@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter may slow down users’ ability to ‘like’ tweets containing misinformation](https://techcrunch.com/2020/11/09/twitter-may-slow-down-users-ability-to-like-tweets-containing-misinformation/)
+- [Zoom lied to users about end-to-end encryption for years, FTC says](https://arstechnica.com/tech-policy/2020/11/zoom-lied-to-users-about-end-to-end-encryption-for-years-ftc-says/)
+- [Homemade Q-Switch for Solid State Lasers](http://laserkids.sourceforge.net/eng_ssl_qswitch.html)
+- [Behind Pfizer's vaccine, an understated husband-and-wife “dream team”](https://www.reuters.com/article/health-coronavirus-biontech-ceo-newsmake-idUSKBN27P1O5)
+- [The myriad meanings of pwd in Unix systems](https://qmacro.org/2020/11/08/the-meaning-of-pwd-in-unix-systems/)
 - [Valve Is Working on Another Extension to Help in Direct3D-over-Vulkan](https://www.phoronix.com/scan.php?page=news_item&px=VK_VALVE_mutable_descriptor)
-- [EU hits Amazon with antitrust charges over merchant data](https://www.ft.com/content/4908995d-5ba4-4e14-a863-bcb8858e8bd2)
-- [Disable All Telemetry and Data Collection in Mozilla Firefox Quantum](https://chefkochblog.wordpress.com/2018/01/08/disable-all-telemetry-and-data-collection-in-mozilla-firefox-quantum/)
-- [Open Source Media Service CCTV/Video Recording/Object Detection](https://github.com/fastogt/fastocloud_back)
 <!-- BLOG-POST-LIST:END -->
 
 ---
