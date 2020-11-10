@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One pollster’s explanation for why the polls got it wrong](https://www.vox.com/policy-and-politics/2020/11/10/21551766/election-polls-results-wrong-david-shor)
+- [Introducing the next generation of Mac](https://www.apple.com/newsroom/2020/11/introducing-the-next-generation-of-mac/)
+- [Apple unveils M1, its first system-on-a-chip for portable Mac computers](https://9to5mac.com/2020/11/10/apple-unveils-m1-its-first-system-on-a-chip-for-portable-mac-computers/)
+- [Qt 6.0 Beta 4 Released](https://www.phoronix.com/scan.php?page=news_item&px=Qt-6.0-Beta-4-Released)
 - [Burnout can exacerbate work stress, further promoting a vicious circle](https://www.uni-mainz.de/presse/aktuell/12451_ENG_HTML.php)
-- [The Lonely Work of Moderating Hacker News](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news)
-- [Drew DeVault: My experience as a poll worker in Pennsylvania](https://portal.drewdevault.com/2020/11/10/2020-Election-worker.gmi)
-- [Bitmovin (YC S15) Is Hiring a Marketing Operations Manager in San Francisco](https://bitmovin.com/careers-legacy/4917788002/?gh_jid=4917788002)
-- [eBPF – The Future of Networking and Security](https://cilium.io/blog/2020/11/10/ebpf-future-of-networking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
