@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WaystoCap (YC W17) Is Hiring a Full Stack Software Engineer](https://waystocap.breezy.hr/p/1f311202d596-full-stack-software-engineer)
+- [Complex text layouts progress report in Godot game engine](https://godotengine.org/article/complex-text-layouts-progress-report-2)
+- [Show HN: Micro 3.0 Released – a platform for microservices development](https://micro.mu/blog/2020/11/05/micro-v3-aka-m3o.html)
+- [HP printer firmware upgrade ban 3rd-party ink cartridges](https://kevin.deldycke.com/2020/11/revert-hp-printer-ban-on-third-party-ink-cartridges/)
 - [Zoom lied to users about end-to-end encryption for years, FTC says](https://arstechnica.com/tech-policy/2020/11/zoom-lied-to-users-about-end-to-end-encryption-for-years-ftc-says/)
-- [Homemade Q-Switch for Solid State Lasers](http://laserkids.sourceforge.net/eng_ssl_qswitch.html)
-- [Behind Pfizer's vaccine, an understated husband-and-wife “dream team”](https://www.reuters.com/article/health-coronavirus-biontech-ceo-newsmake-idUSKBN27P1O5)
-- [The myriad meanings of pwd in Unix systems](https://qmacro.org/2020/11/08/the-meaning-of-pwd-in-unix-systems/)
-- [Valve Is Working on Another Extension to Help in Direct3D-over-Vulkan](https://www.phoronix.com/scan.php?page=news_item&px=VK_VALVE_mutable_descriptor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
