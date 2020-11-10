@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exodus of Silicon Valley](https://breakingground.us/exodus/)
+- [Firejail – Sandbox Linux Applications](https://github.com/netblue30/firejail)
 - [Times Change: Inside the New York Times’ Heated Reckoning With Itself](https://nymag.com/intelligencer/2020/11/inside-the-new-york-times-heated-reckoning-with-itself.html)
 - [Vigil: The eternal morally vigilant programming language](https://github.com/munificent/vigil)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [Apple Announces the Apple Silicon M1 – What to Expect, Based on A14](https://www.anandtech.com/show/16226/apple-silicon-m1-a14-deep-dive)
-- [Operators Ep 14: Keith Rabois (Founders Fund)](https://delian.substack.com/p/operators-ep-14-keith-rabois-founders)
 <!-- BLOG-POST-LIST:END -->
 
 ---
