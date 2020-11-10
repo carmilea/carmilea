@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AppleCrate II: A New Apple II-Based Parallel Computer](http://michaeljmahon.com/AppleCrateII.html)
+- [Pernosco Omniscient Debugger is now available for individual developers](https://pernos.co/?)
+- [AppleCrate II: A New Apple II-Based Parallel Computer (2015)](http://michaeljmahon.com/AppleCrateII.html)
 - [The Art of Thinking by Ernest Dimnet](http://gutenberg.net.au/ebooks14/1400451h.html)
-- [Army Wants Smaller Brigades, Stronger Divisions and Lots of Robots](https://breakingdefense.com/2020/11/army-wants-smaller-brigades-stronger-divisions-lots-of-robots/)
-- [Inside The Secret Math Society Known Simply as Nicolas Bourbaki](https://www.quantamagazine.org/inside-the-secret-math-society-known-as-nicolas-bourbaki-20201109/)
-- [Best Practices for Writing Clean Interfaces in Go](https://qvault.io/2020/03/15/best-practices-for-writing-clean-interfaces-in-go/)
+- [Army wants smaller brigades, stronger divisions and lots of robots](https://breakingdefense.com/2020/11/army-wants-smaller-brigades-stronger-divisions-lots-of-robots/)
+- [The Secret Math Society Known as Nicolas Bourbaki](https://www.quantamagazine.org/inside-the-secret-math-society-known-as-nicolas-bourbaki-20201109/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
