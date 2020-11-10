@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Army Wants Smaller Brigades, Stronger Divisions and Lots of Robots](https://breakingdefense.com/2020/11/army-wants-smaller-brigades-stronger-divisions-lots-of-robots/)
+- [Inside The Secret Math Society Known Simply as Nicolas Bourbaki](https://www.quantamagazine.org/inside-the-secret-math-society-known-as-nicolas-bourbaki-20201109/)
+- [Best Practices for Writing Clean Interfaces in Go](https://qvault.io/2020/03/15/best-practices-for-writing-clean-interfaces-in-go/)
 - [Large-scale multilingual audio visual dubbing](https://arxiv.org/abs/2011.03530)
 - [Try Design Thinking](https://garybasin.com/try-design-thinking/)
-- [Could a Peasant Defeat a Knight in Battle?](https://www.medievalists.net/2020/11/peasant-knight-battle/)
-- [The Ladders of Wealth Creation](https://gradually.co/roadmap-to-building-wealth/)
-- [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
