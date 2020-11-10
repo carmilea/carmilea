@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [This is how I git](https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git/)
-- [Demodesk (YC W19) Raises Series-A and Is Hiring in Munich](https://jobs.lever.co/demodesk)
-- [A Primer in BERTology: What We Know About How Bert Works](https://arxiv.org/abs/2002.12327)
-- [Pernosco Omniscient Debugger is now available for individual developers](https://pernos.co/?)
-- [AppleCrate II: A New Apple II-Based Parallel Computer (2015)](http://michaeljmahon.com/AppleCrateII.html)
+- [Twitter may slow down users’ ability to ‘like’ tweets containing misinformation](https://techcrunch.com/2020/11/09/twitter-may-slow-down-users-ability-to-like-tweets-containing-misinformation/)
+- [Valve Is Working on Another Extension to Help in Direct3D-over-Vulkan](https://www.phoronix.com/scan.php?page=news_item&px=VK_VALVE_mutable_descriptor)
+- [EU hits Amazon with antitrust charges over merchant data](https://www.ft.com/content/4908995d-5ba4-4e14-a863-bcb8858e8bd2)
+- [Disable All Telemetry and Data Collection in Mozilla Firefox Quantum](https://chefkochblog.wordpress.com/2018/01/08/disable-all-telemetry-and-data-collection-in-mozilla-firefox-quantum/)
+- [Open Source Media Service CCTV/Video Recording/Object Detection](https://github.com/fastogt/fastocloud_back)
 <!-- BLOG-POST-LIST:END -->
 
 ---
