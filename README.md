@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Wouldn't it be great to be able to follow fellow HN users?](https://news.ycombinator.com/item?id=25058236)
-- [Apple's Shifting Differentiation](https://stratechery.com/2020/apples-shifting-differentiation/)
-- [Postgres Observability](https://pgstats.dev/)
-- [Advanced System-on-Chip Design Lecture Notes (PDFs, Free)](https://iis-people.ee.ethz.ch/~gmichi/asocd/lecturenotes/)
-- [CQRS: Command Query Responsibility Segregation](https://martinfowler.com/bliki/CQRS.html)
+- [Systematically removing code](https://thepugautomatic.com/2020/11/systematically-removing-code/)
+- [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
+- [PyPy: Faster Python with Minimal Effort](https://realpython.com/pypy-faster-python/)
+- [$200k in sales from a $6k advertisement](https://www.wifidabba.com/blog/200000-dollars-in-sales-from-one-daringfireball-ad)
+- [Show HN: Gumroad Analytics on Steroids](https://fullstats.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
