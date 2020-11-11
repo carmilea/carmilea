@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Exodus of Silicon Valley](https://breakingground.us/exodus/)
-- [Firejail – Sandbox Linux Applications](https://github.com/netblue30/firejail)
-- [Times Change: Inside the New York Times’ Heated Reckoning With Itself](https://nymag.com/intelligencer/2020/11/inside-the-new-york-times-heated-reckoning-with-itself.html)
-- [Vigil: The eternal morally vigilant programming language](https://github.com/munificent/vigil)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [InfluxDB 2.0 Is Out](https://www.influxdata.com/blog/influxdata-advances-possibilities-of-time-series-data-with-general-availability-of-influxdb-2-0/)
+- [YubiKey Biometric Security Key](https://www.yubico.com/blog/getting-a-biometric-security-key-right/)
+- [How to get root on Ubuntu 20.04 by pretending nobody’s /home](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE)
+- [Multivitamins' 'benefits' are all in your head: study](https://medicalxpress.com/news/2020-11-multivitamin-multimineral-users-self-report-health.html)
+- [Of OnlyFans and Intimacy at Scale?](https://jamesmcgirk.substack.com/p/sirens-in-the-digital-ocean)
 <!-- BLOG-POST-LIST:END -->
 
 ---
