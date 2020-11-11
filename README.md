@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Asynchronous Task Scheduling at Dropbox](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
+- [Notion Timeline View](https://www.notion.so/guides/timeline-view-unlocks-high-output-planning-for-your-team)
 - [Create your own smart baby monitor with a RaspberryPi and TensorFlow](https://towardsdatascience.com/create-your-own-smart-baby-monitor-with-a-raspberrypi-and-tensorflow-5b25713410ca)
 - [AndroWish – run desktop Tcl/Tk programs almost unaltered on the Android Platform](https://www.androwish.org/index.html/home)
 - [Raspberry Pi Homelab with Kubernetes](https://amithm.ca/2020/10/kubernetes-raspberrypi-homelab/)
-- [Overview of 3D meshing methods using open source tools](https://www.sesamx.io/blog/3d_mesh_with_free_tools/)
-- [Updating Google Photos’ storage policy to build for the future](https://blog.google/products/photos/storage-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
