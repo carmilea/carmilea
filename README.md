@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pfizer's CEO sold $5.6M in stock on same day of vaccine news](https://www.axios.com/pfizer-ceo-albert-bourla-stock-sale-covid-vaccine-c380a500-ee02-4106-befe-88b08c656d39.html)
+- [Option Hacking the Tektronix TDS 420A](https://tomverbeure.github.io/2020/07/11/Option-Hacking-the-Tektronix-TDS-420A.html)
+- [Charles Darwin’s hunch about early life was probably right](https://www.bbc.com/future/article/20201110-charles-darwin-early-life-theory)
+- [Academia Resembles a Drug Gang](https://blogs.lse.ac.uk/impactofsocialsciences/2013/12/11/how-academia-resembles-a-drug-gang/)
+- [We made our own x86 shellcode emulator and how it works](https://hvmi.github.io/blog/2020/11/11/bdshemu.html)
 - [Stacker (YC S20) Is Hiring Product Engineers and Designers](https://static.stacker.app/hiring)
-- [How a crop of startups are trying to make for-profit local news work](https://digiday.com/media/go-in-small-with-clear-eyed-expectations-how-a-crop-of-startups-are-trying-to-make-for-profit-local-news-work/)
-- [Drug Themes in Science Fiction, by Robert Silverberg (1974) [pdf]](https://erowid.org/library/library_bibliography1.pdf)
-- [Cell Signaling Technologies – Detailed 3D model of human cells](http://www.digizyme.com/cst_landscapes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
