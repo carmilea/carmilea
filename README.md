@@ -55,7 +55,7 @@
 - [Stacker (YC S20) Is Hiring Product Engineers and Designers](https://static.stacker.app/hiring)
 - [How a crop of startups are trying to make for-profit local news work](https://digiday.com/media/go-in-small-with-clear-eyed-expectations-how-a-crop-of-startups-are-trying-to-make-for-profit-local-news-work/)
 - [Drug Themes in Science Fiction, by Robert Silverberg (1974) [pdf]](https://erowid.org/library/library_bibliography1.pdf)
-- [Cell Signaling Technologies – Most detailed 3D model of human cells](http://www.digizyme.com/cst_landscapes.html)
+- [Cell Signaling Technologies – Detailed 3D model of human cells](http://www.digizyme.com/cst_landscapes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
