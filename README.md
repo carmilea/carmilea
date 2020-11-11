@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Visualization of connections between politicians and orgs awarded gov contracts](https://sophieehill.shinyapps.io/my-little-crony/)
+- [Ask HN: Wouldn't it be great to be able to follow fellow HN users?](https://news.ycombinator.com/item?id=25058236)
+- [Apple's Shifting Differentiation](https://stratechery.com/2020/apples-shifting-differentiation/)
+- [Postgres Observability](https://pgstats.dev/)
 - [Advanced System-on-Chip Design Lecture Notes (PDFs, Free)](https://iis-people.ee.ethz.ch/~gmichi/asocd/lecturenotes/)
-- [Rolls Royce plans UK class of mini-nuclear plants](https://www.bbc.com/news/science-environment-54703204)
-- [Deutsche Bank: Tax home workers 'to help pay those who cannot'](https://www.bbc.com/news/business-54876526)
-- [Apple’s M1 chip does not support external GPUs](https://appleinsider.com/articles/20/11/10/apple-silicon-m1-macs-do-not-support-egpus/)
+- [CQRS: Command Query Responsibility Segregation](https://martinfowler.com/bliki/CQRS.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
