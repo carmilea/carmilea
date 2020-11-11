@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [InfluxDB 2.0 Is Out](https://www.influxdata.com/blog/influxdata-advances-possibilities-of-time-series-data-with-general-availability-of-influxdb-2-0/)
 - [YubiKey Biometric Security Key](https://www.yubico.com/blog/getting-a-biometric-security-key-right/)
+- [Using Rust to Scale Elixir for 11M Concurrent Users](https://blog.discord.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3)
 - [How to get root on Ubuntu 20.04 by pretending nobody’s /home](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE)
-- [Multivitamins' 'benefits' are all in your head: study](https://medicalxpress.com/news/2020-11-multivitamin-multimineral-users-self-report-health.html)
-- [Of OnlyFans and Intimacy at Scale?](https://jamesmcgirk.substack.com/p/sirens-in-the-digital-ocean)
+- [Firejail – Sandbox Linux Applications](https://github.com/netblue30/firejail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
