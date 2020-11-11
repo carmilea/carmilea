@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YC runs Work at a Startup to help you find jobs at over 500 YC-vetted startups](https://www.workatastartup.com)
+- [How to Write Unit Tests for Logging](https://principal-it.eu/2020/11/unit-tests-for-logging/)
 - [Option Hacking the Tektronix TDS 420A](https://tomverbeure.github.io/2020/07/11/Option-Hacking-the-Tektronix-TDS-420A.html)
 - [Charles Darwin’s hunch about early life was probably right](https://www.bbc.com/future/article/20201110-charles-darwin-early-life-theory)
-- [Academia Resembles a Drug Gang](https://blogs.lse.ac.uk/impactofsocialsciences/2013/12/11/how-academia-resembles-a-drug-gang/)
-- [We made our own x86 shellcode emulator and how it works](https://hvmi.github.io/blog/2020/11/11/bdshemu.html)
-- [Stacker (YC S20) Is Hiring Product Engineers and Designers](https://static.stacker.app/hiring)
+- [Academia Resembles a Drug Gang (2013)](https://blogs.lse.ac.uk/impactofsocialsciences/2013/12/11/how-academia-resembles-a-drug-gang/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
