@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pfizer's CEO sold $5.6M in stock on same day of vaccine news](https://www.axios.com/pfizer-ceo-albert-bourla-stock-sale-covid-vaccine-c380a500-ee02-4106-befe-88b08c656d39.html)
 - [Stacker (YC S20) Is Hiring Product Engineers and Designers](https://static.stacker.app/hiring)
 - [How a crop of startups are trying to make for-profit local news work](https://digiday.com/media/go-in-small-with-clear-eyed-expectations-how-a-crop-of-startups-are-trying-to-make-for-profit-local-news-work/)
+- [Drug Themes in Science Fiction, by Robert Silverberg (1974) [pdf]](https://erowid.org/library/library_bibliography1.pdf)
 - [Cell Signaling Technologies – Most detailed 3D model of human cells](http://www.digizyme.com/cst_landscapes.html)
-- [Americans are more worried about their sons than their daughters](https://www.brookings.edu/blog/up-front/2020/10/07/americans-are-more-worried-about-their-sons-than-their-daughters/)
-- [iFixit tools in Apple's lab](https://twitter.com/iFixit/status/1326264991192764416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
