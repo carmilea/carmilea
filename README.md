@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oh, the irony: iFixit tools in Apple's lab](https://twitter.com/iFixit/status/1326264991192764416)
-- [Graduate Level Math Notes (Harvard)](https://github.com/Dongryul-Kim/harvard_notes)
-- [The intriguing maps that reveal alternate histories](https://www.bbc.com/future/article/20201104-the-intriguing-maps-that-reveal-alternate-histories)
-- [Getting a biometric security key right](https://www.yubico.com/blog/getting-a-biometric-security-key-right/)
-- [Using Rust to Scale Elixir for 11M Concurrent Users](https://blog.discord.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3)
+- [Stacker (YC S20) Is Hiring Product Engineers and Designers](https://static.stacker.app/hiring)
+- [How a crop of startups are trying to make for-profit local news work](https://digiday.com/media/go-in-small-with-clear-eyed-expectations-how-a-crop-of-startups-are-trying-to-make-for-profit-local-news-work/)
+- [Cell Signaling Technologies – Most detailed 3D model of human cells](http://www.digizyme.com/cst_landscapes.html)
+- [Americans are more worried about their sons than their daughters](https://www.brookings.edu/blog/up-front/2020/10/07/americans-are-more-worried-about-their-sons-than-their-daughters/)
+- [iFixit tools in Apple's lab](https://twitter.com/iFixit/status/1326264991192764416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
