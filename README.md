@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YC runs Work at a Startup to help you find jobs at over 500 YC-vetted startups](https://www.workatastartup.com)
-- [How to Write Unit Tests for Logging](https://principal-it.eu/2020/11/unit-tests-for-logging/)
-- [Option Hacking the Tektronix TDS 420A](https://tomverbeure.github.io/2020/07/11/Option-Hacking-the-Tektronix-TDS-420A.html)
-- [Charles Darwin’s hunch about early life was probably right](https://www.bbc.com/future/article/20201110-charles-darwin-early-life-theory)
-- [Academia Resembles a Drug Gang (2013)](https://blogs.lse.ac.uk/impactofsocialsciences/2013/12/11/how-academia-resembles-a-drug-gang/)
+- [Visualization of connections between politicians and orgs awarded gov contracts](https://sophieehill.shinyapps.io/my-little-crony/)
+- [Advanced System-on-Chip Design Lecture Notes (PDFs, Free)](https://iis-people.ee.ethz.ch/~gmichi/asocd/lecturenotes/)
+- [Rolls Royce plans UK class of mini-nuclear plants](https://www.bbc.com/news/science-environment-54703204)
+- [Deutsche Bank: Tax home workers 'to help pay those who cannot'](https://www.bbc.com/news/business-54876526)
+- [Apple’s M1 chip does not support external GPUs](https://appleinsider.com/articles/20/11/10/apple-silicon-m1-macs-do-not-support-egpus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
