@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring PGO for the Rust Compiler](https://blog.rust-lang.org/inside-rust/2020/11/11/exploring-pgo-for-the-rust-compiler)
-- [Building the Mathematical Library of the Future](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/)
-- [Doomsday prepping – Disaster planning for less crazy folk](https://lcamtuf.coredump.cx/prep/)
-- [Self hosted uptime robot alternative written in go](https://github.com/TwinProduction/gatus/actions)
-- [Remembering and Recognizing Our Brave and Faithful Veterans](https://www.singlestore.com/blog/veterans-day-singlestore/)
+- [Create your own smart baby monitor with a RaspberryPi and TensorFlow](https://towardsdatascience.com/create-your-own-smart-baby-monitor-with-a-raspberrypi-and-tensorflow-5b25713410ca)
+- [AndroWish – run desktop Tcl/Tk programs almost unaltered on the Android Platform](https://www.androwish.org/index.html/home)
+- [Raspberry Pi Homelab with Kubernetes](https://amithm.ca/2020/10/kubernetes-raspberrypi-homelab/)
+- [Overview of 3D meshing methods using open source tools](https://www.sesamx.io/blog/3d_mesh_with_free_tools/)
+- [Updating Google Photos’ storage policy to build for the future](https://blog.google/products/photos/storage-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
