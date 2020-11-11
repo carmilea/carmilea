@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shasqi (YC W15) Is Hiring Dir Translational Sciences and Dir. Medicinal Chemistry](https://news.ycombinator.com/item?id=25060126)
-- [Disaster ‘prepping’ was once an American pastime. Today, it’s mainstream again](https://www.nationalgeographic.com/history/2020/11/disaster-prepping-was-once-an-american-pastime-today-its-mainstream-again/)
-- [Dark Companies](https://gitlab.com/simonebrunozzi/dark-companies)
-- [Show HN: Self-hosted offline Internet from your browsing history](https://github.com/c9fe/22120.git)
-- [Show HN: Dead easy Python for executing many HTTP requests asynchronously](https://github.com/joshlk/many_requests)
+- [Exploring PGO for the Rust Compiler](https://blog.rust-lang.org/inside-rust/2020/11/11/exploring-pgo-for-the-rust-compiler)
+- [Building the Mathematical Library of the Future](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/)
+- [Doomsday prepping – Disaster planning for less crazy folk](https://lcamtuf.coredump.cx/prep/)
+- [Self hosted uptime robot alternative written in go](https://github.com/TwinProduction/gatus/actions)
+- [Remembering and Recognizing Our Brave and Faithful Veterans](https://www.singlestore.com/blog/veterans-day-singlestore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
