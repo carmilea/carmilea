@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The U.S. Divorce Rate Has Hit a 50-Year Low](https://ifstudies.org/blog/the-us-divorce-rate-has-hit-a-50-year-low)
-- [Productivity vs. Privacy](https://jessems.com/productivity-vs-privacy)
-- [ByteDance asks federal apeals court to vacate US order forcing it to sell TikTok](https://techcrunch.com/2020/11/10/bytedance-asks-federal-appeals-court-to-vacate-u-s-order-forcing-it-to-sell-tiktok/)
-- [Show HN: The Least Dangerous To-Do List](https://theleastdangeroustodolist.com)
-- [Systematically removing code](https://thepugautomatic.com/2020/11/systematically-removing-code/)
+- [Shasqi (YC W15) Is Hiring Dir Translational Sciences and Dir. Medicinal Chemistry](https://news.ycombinator.com/item?id=25060126)
+- [Disaster ‘prepping’ was once an American pastime. Today, it’s mainstream again](https://www.nationalgeographic.com/history/2020/11/disaster-prepping-was-once-an-american-pastime-today-its-mainstream-again/)
+- [Dark Companies](https://gitlab.com/simonebrunozzi/dark-companies)
+- [Show HN: Self-hosted offline Internet from your browsing history](https://github.com/c9fe/22120.git)
+- [Show HN: Dead easy Python for executing many HTTP requests asynchronously](https://github.com/joshlk/many_requests)
 <!-- BLOG-POST-LIST:END -->
 
 ---
