@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The U.S. Divorce Rate Has Hit a 50-Year Low](https://ifstudies.org/blog/the-us-divorce-rate-has-hit-a-50-year-low)
+- [Productivity vs. Privacy](https://jessems.com/productivity-vs-privacy)
+- [ByteDance asks federal apeals court to vacate US order forcing it to sell TikTok](https://techcrunch.com/2020/11/10/bytedance-asks-federal-appeals-court-to-vacate-u-s-order-forcing-it-to-sell-tiktok/)
+- [Show HN: The Least Dangerous To-Do List](https://theleastdangeroustodolist.com)
 - [Systematically removing code](https://thepugautomatic.com/2020/11/systematically-removing-code/)
-- [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
-- [PyPy: Faster Python with Minimal Effort](https://realpython.com/pypy-faster-python/)
-- [$200k in sales from a $6k advertisement](https://www.wifidabba.com/blog/200000-dollars-in-sales-from-one-daringfireball-ad)
-- [Show HN: Gumroad Analytics on Steroids](https://fullstats.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
