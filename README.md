@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Benford's “law” does not detect voting fraud](https://www.cambridge.org/core/journals/political-analysis/article/benfords-law-and-the-detection-of-election-fraud/3B1D64E822371C461AF3C61CE91AAF6D)
+- [Evidence-based software engineering: book released](http://shape-of-code.coding-guidelines.com/2020/11/08/evidence-based-software-engineering-book-released/)
+- [Stripe is now charging 0.5% more for recurring charges](https://stripe.com/billing)
+- [macOS Big Sur is here](https://www.apple.com/newsroom/2020/11/macos-big-sur-is-here/)
+- [Judge dismisses Apple’s “theft” claims in Epic Games lawsuit](https://arstechnica.com/gaming/2020/11/judge-dismisses-apples-theft-claims-in-epic-games-lawsuit/)
 - [Guido van Rossum joins Microsoft](https://twitter.com/gvanrossum/status/1326932991566700549)
-- [Sweeps (YC W20) Is Hiring a Senior Software Engineer](https://sweeps.ai/senior-software-engineer.pdf)
-- [Effect of exercise training for five years on all cause mortality](https://www.bmj.com/content/371/bmj.m3485)
-- [Show HN: A 1000 auto-generated hexagonal SVG logos](https://dosycorp.gitlab.io/dosylogo/?v923418754891239875624v1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
