@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kurt Vonnegut, The Art of Fiction No. 64 (1977)](https://www.theparisreview.org/interviews/3605/the-art-of-fiction-no-64-kurt-vonnegut)
-- [Lowkey (YC S18) is hiring a founding designer (and engineers) who like games](https://www.notion.so/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
-- [MacBook Pros unable to open any non-Apple application](https://twitter.com/lapcatsoftware/status/1326990296412991489)
-- [Most popular links in Hacker News comments, 2006–2015](https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md)
-- [Qwant: The Search Engine That Respects Your Privacy](https://www.qwant.com/)
+- [The Anti-Federalist Papers](http://resources.utulsa.edu/law/classes/rice/Constitutional/AntiFederalist/antifed.htm)
+- [Cairo Is Dead](https://lists.cairographics.org/archives/cairo/2020-November/029080.html)
+- [Show HN: Find GitHub Users' Email Address](https://github.com/jemmaissroff/find_github_email)
+- [Resident Selection: Do We Discriminate Against the Obese and Unattractive?](https://journals.lww.com/academicmedicine/fulltext/2019/11000/bias_in_radiology_resident_selection__do_we.41.aspx)
+- [Nuclear war is unlikely to cause human extinction](https://www.lesswrong.com/posts/sT6NxFxso6Z9xjS7o/nuclear-war-is-unlikely-to-cause-human-extinction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
