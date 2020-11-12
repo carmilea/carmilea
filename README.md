@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It's 2030. I own nothing, have no privacy, and life has never been better (2016)](https://www.weforum.org/agenda/2016/11/shopping-i-can-t-really-remember-what-that-is/)
+- [Gender and Race Preferences in Hiring at Silicon Valley Tech Firms [pdf]](https://poseidon01.ssrn.com/delivery.php?ID=870067088114085014029095093078066108058045018002021023103090073113114113022086086007037114118031122002109098127089019009084094057019039084049117096074078117021004090002021086121020094104081095016016071069072081030118091117004104001119121087029025096026&EXT=pdf)
+- [Linux Command One-Liners](https://linuxcommandlibrary.com/basic/oneliners.html)
+- [Show HN: Switch Git Users CLI](https://github.com/geongeorge/Git-User-Switch)
 - [Netlify for the frontend, Micro for the backend](https://blog.m3o.com/2020/11/12/netlify-for-the-frontend-micro-for-the-backend.html)
 - [Campaign “Reclaim Your Face” Calls for a Ban on Biometric Mass Surveillance](https://edri.org/our-work/campaign-reclaim-your-face-calls-for-a-ban-on-biometric-mass-surveillance/)
-- [Neural Nets (1994)](https://www.teamten.com/lawrence/writings/plan02.html)
-- [Google knows where you are, and so do advertisers](https://www.vice.com/en/article/3an84b/six-reasons-why-google-maps-is-the-creepiest-app-on-your-phone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
