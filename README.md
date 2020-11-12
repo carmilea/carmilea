@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Benford's “law” does not detect voting fraud](https://www.cambridge.org/core/journals/political-analysis/article/benfords-law-and-the-detection-of-election-fraud/3B1D64E822371C461AF3C61CE91AAF6D)
 - [Guido van Rossum joins Microsoft](https://twitter.com/gvanrossum/status/1326932991566700549)
 - [Sweeps (YC W20) Is Hiring a Senior Software Engineer](https://sweeps.ai/senior-software-engineer.pdf)
 - [Effect of exercise training for five years on all cause mortality](https://www.bmj.com/content/371/bmj.m3485)
-- [Migrating Large Heroku Postgres Instances to AWS Aurora Without Downtime](https://thecodinginterface.com/blog/heroku-postgres-migration-to-aurora/)
-- [AWS releases Glue Databrew, a visual ETL tool](https://aws.amazon.com/glue/features/databrew/)
+- [Show HN: A 1000 auto-generated hexagonal SVG logos](https://dosycorp.gitlab.io/dosylogo/?v923418754891239875624v1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
