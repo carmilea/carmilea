@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Funkwhale – Decentralized, self-hosted music server](https://funkwhale.audio/)
 - [Deepnote (YC S19) is hiring software engineers (Europe, Prague)](https://deepnote.com/publish/jobs)
 - [Physicists Pin Down Nuclear Reaction from Moments After the Big Bang](https://www.quantamagazine.org/physicists-pin-down-nuclear-reaction-from-moments-after-the-big-bang-20201111/)
 - [RIP Google Music](https://techcrunch.com/2020/11/11/rip-google-music-one-of-the-companys-last-examples-of-generosity/)
 - [Volt: A reactive web framework where your Ruby code runs both server and client](http://www.voltframework.com/)
-- [Apple Silicon M1 chip in MacBook Air outperforms high-end 16-inch MacBook Pro](https://www.macrumors.com/2020/11/11/m1-macbook-air-first-benchmark/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
