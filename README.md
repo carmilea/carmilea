@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Silicon M1 chip in MacBook Air outperforms high-end 16-inch MacBook Pro](https://www.macrumors.com/2020/11/11/m1-macbook-air-first-benchmark/)
+- [Volt: A reactive web framework where your Ruby code runs both server and client](http://www.voltframework.com/)
+- [MacBook Air M1 Geekbench](https://browser.geekbench.com/v5/cpu/4651056)
 - [Blink: Intent to Remove: HTTP/2 and gQUIC server push](https://groups.google.com/a/chromium.org/g/blink-dev/c/K3rYLvmQUBY/m/vOWBKZGoAQAJ)
 - [YouTube Down](https://downdetector.com/status/youtube/)
 - [Booting a macOS Apple Silicon Kernel in QEMU](https://worthdoingbadly.com/xnuqemu3/)
-- [Publishers’ Bind](https://www.firstthings.com/article/2020/11/publishers-bind)
 <!-- BLOG-POST-LIST:END -->
 
 ---
