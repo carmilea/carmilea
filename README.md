@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sweden Covid-19 Update](https://marginalrevolution.com/marginalrevolution/2020/11/sweden-covid-19-update.html)
+- [Progress, Stagnation, and Flying Cars](https://rootsofprogress.org/where-is-my-flying-car)
+- [I Still Use Vim](https://buttondown.email/hillelwayne/archive/why-i-still-use-vim/)
 - [Evidence-based software engineering: book released](http://shape-of-code.coding-guidelines.com/2020/11/08/evidence-based-software-engineering-book-released/)
-- [Stripe is now charging 0.5% more for recurring charges](https://stripe.com/billing)
-- [macOS Big Sur is here](https://www.apple.com/newsroom/2020/11/macos-big-sur-is-here/)
-- [Judge dismisses Apple’s “theft” claims in Epic Games lawsuit](https://arstechnica.com/gaming/2020/11/judge-dismisses-apples-theft-claims-in-epic-games-lawsuit/)
-- [Guido van Rossum joins Microsoft](https://twitter.com/gvanrossum/status/1326932991566700549)
+- [Docker fails to launch on Apple Silicon](https://github.com/docker/for-mac/issues/4733)
 <!-- BLOG-POST-LIST:END -->
 
 ---
