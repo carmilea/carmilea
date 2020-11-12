@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Honda Has Beaten Everyone to Level 3 Autonomy](https://carbuzz.com/news/honda-has-beaten-everyone-to-level-3-autonomy)
-- [Gender and Race Preferences in Hiring at Silicon Valley Tech Firms [pdf]](https://poseidon01.ssrn.com/delivery.php?ID=870067088114085014029095093078066108058045018002021023103090073113114113022086086007037114118031122002109098127089019009084094057019039084049117096074078117021004090002021086121020094104081095016016071069072081030118091117004104001119121087029025096026&EXT=pdf)
-- [Linux Command One-Liners](https://linuxcommandlibrary.com/basic/oneliners.html)
-- [Show HN: Switch Git Users CLI](https://github.com/geongeorge/Git-User-Switch)
-- [Netlify for the frontend, Micro for the backend](https://blog.m3o.com/2020/11/12/netlify-for-the-frontend-micro-for-the-backend.html)
+- [Wayeb: A Complex Event Processing and Forecasting Engine](https://github.com/ElAlev/Wayeb)
+- [DNS cache poisoning, the Internet attack from 2008, is back from the dead](https://arstechnica.com/information-technology/2020/11/researchers-find-way-to-revive-kaminskys-2008-dns-cache-poisoning-attack/)
+- [The Exploding Whale remastered: 50th anniversary of legendary Oregon event](https://katu.com/news/local/the-exploding-whale-50th-anniversary-of-legendary-oregon-event)
+- [Koyeb Serverless Engine: Docker Containers, Continuous Deployment of Functions](http://koyeb.com/blog/announcing-the-koyeb-serverless-engine-docker-containers-and-continuous-deployment-of-functions)
+- [Group of Google critics calls for EU antitrust action](https://uk.reuters.com/article/us-eu-alphabet-antitrust-exclusive/exclusive-group-of-165-google-critics-calls-for-swift-eu-antitrust-action-letter-idUKKBN27S0YQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
