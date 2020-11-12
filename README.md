@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Six Reasons Why Google Maps Is the Creepiest App on Your Phone](https://www.vice.com/en/article/3an84b/six-reasons-why-google-maps-is-the-creepiest-app-on-your-phone)
-- [Funkwhale – Decentralized, self-hosted music server](https://funkwhale.audio/)
-- [How to Become a Shopify Developer – Resources to Become a Shopify Dev](https://iliashaddad.com/blog/how-to-become-shopify-developer)
-- [Deepnote (YC S19) is hiring software engineers (Europe, Prague)](https://deepnote.com/publish/jobs)
-- [Google Takeout: Export a copy of your data in Google services](https://takeout.google.com/)
+- [It's 2030. I own nothing, have no privacy, and life has never been better (2016)](https://www.weforum.org/agenda/2016/11/shopping-i-can-t-really-remember-what-that-is/)
+- [Army head Sir Mark Carleton-Smith declared missing after dropped in wrong field](https://www.standard.co.uk/news/uk/army-head-mark-carletonsmith-missing-wrong-field-b67569.html)
+- [Netlify for the frontend, Micro for the backend](https://blog.m3o.com/2020/11/12/netlify-for-the-frontend-micro-for-the-backend.html)
+- [Campaign “Reclaim Your Face” Calls for a Ban on Biometric Mass Surveillance](https://edri.org/our-work/campaign-reclaim-your-face-calls-for-a-ban-on-biometric-mass-surveillance/)
+- [Neural Nets (1994)](https://www.teamten.com/lawrence/writings/plan02.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
