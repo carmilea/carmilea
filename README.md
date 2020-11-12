@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blink: Intent to Remove: HTTP/2 and gQUIC server push](https://groups.google.com/a/chromium.org/g/blink-dev/c/K3rYLvmQUBY/m/vOWBKZGoAQAJ)
 - [YouTube Down](https://downdetector.com/status/youtube/)
 - [Booting a macOS Apple Silicon Kernel in QEMU](https://worthdoingbadly.com/xnuqemu3/)
 - [Dan's online motorcycle repair course (1999-2020)](http://www.dansmc.com/MC_repaircourse.htm)
 - [Notion.clone: open-source notes editor like in Notion](https://github.com/konstantinmuenster/notion-clone)
-- [Asynchronous Task Scheduling at Dropbox](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
