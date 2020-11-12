@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kurt Vonnegut, The Art of Fiction No. 64 (1977)](https://www.theparisreview.org/interviews/3605/the-art-of-fiction-no-64-kurt-vonnegut)
+- [Lowkey (YC S18) is hiring a founding designer (and engineers) who like games](https://www.notion.so/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
+- [MacBook Pros unable to open any non-Apple application](https://twitter.com/lapcatsoftware/status/1326990296412991489)
 - [Most popular links in Hacker News comments, 2006–2015](https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md)
 - [Qwant: The Search Engine That Respects Your Privacy](https://www.qwant.com/)
-- [Progress, Stagnation, and Flying Cars](https://rootsofprogress.org/where-is-my-flying-car)
-- [I Still Use Vim](https://buttondown.email/hillelwayne/archive/why-i-still-use-vim/)
-- [Evidence-based software engineering: book released](http://shape-of-code.coding-guidelines.com/2020/11/08/evidence-based-software-engineering-book-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
