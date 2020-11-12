@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Physicists Pin Down Nuclear Reaction from Moments After the Big Bang](https://www.quantamagazine.org/physicists-pin-down-nuclear-reaction-from-moments-after-the-big-bang-20201111/)
 - [RIP Google Music, one of the company’s last examples of generosity](https://techcrunch.com/2020/11/11/rip-google-music-one-of-the-companys-last-examples-of-generosity/)
 - [Volt: A reactive web framework where your Ruby code runs both server and client](http://www.voltframework.com/)
 - [Apple Silicon M1 chip in MacBook Air outperforms high-end 16-inch MacBook Pro](https://www.macrumors.com/2020/11/11/m1-macbook-air-first-benchmark/)
 - [Blink: Intent to Remove: HTTP/2 and gQUIC server push](https://groups.google.com/a/chromium.org/g/blink-dev/c/K3rYLvmQUBY/m/vOWBKZGoAQAJ)
-- [YouTube Down](https://downdetector.com/status/youtube/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
