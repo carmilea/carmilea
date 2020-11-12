@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Silicon M1 chip in MacBook Air outperforms high-end 16-inch MacBook Pro](https://www.macrumors.com/2020/11/11/m1-macbook-air-first-benchmark/)
 - [Blink: Intent to Remove: HTTP/2 and gQUIC server push](https://groups.google.com/a/chromium.org/g/blink-dev/c/K3rYLvmQUBY/m/vOWBKZGoAQAJ)
 - [YouTube Down](https://downdetector.com/status/youtube/)
 - [Booting a macOS Apple Silicon Kernel in QEMU](https://worthdoingbadly.com/xnuqemu3/)
-- [Dan's online motorcycle repair course (1999-2020)](http://www.dansmc.com/MC_repaircourse.htm)
-- [Notion.clone: open-source notes editor like in Notion](https://github.com/konstantinmuenster/notion-clone)
+- [Publishers’ Bind](https://www.firstthings.com/article/2020/11/publishers-bind)
 <!-- BLOG-POST-LIST:END -->
 
 ---
