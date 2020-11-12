@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Funkwhale – Decentralized, self-hosted music server](https://funkwhale.audio/)
 - [Deepnote (YC S19) is hiring software engineers (Europe, Prague)](https://deepnote.com/publish/jobs)
+- [Google Takeout: Export a copy of your data in Google services](https://takeout.google.com/)
 - [Physicists Pin Down Nuclear Reaction from Moments After the Big Bang](https://www.quantamagazine.org/physicists-pin-down-nuclear-reaction-from-moments-after-the-big-bang-20201111/)
 - [RIP Google Music](https://techcrunch.com/2020/11/11/rip-google-music-one-of-the-companys-last-examples-of-generosity/)
-- [Volt: A reactive web framework where your Ruby code runs both server and client](http://www.voltframework.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
