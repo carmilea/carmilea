@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sweden Covid-19 Update](https://marginalrevolution.com/marginalrevolution/2020/11/sweden-covid-19-update.html)
+- [Most popular links in Hacker News comments, 2006–2015](https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md)
+- [Qwant: The Search Engine That Respects Your Privacy](https://www.qwant.com/)
 - [Progress, Stagnation, and Flying Cars](https://rootsofprogress.org/where-is-my-flying-car)
 - [I Still Use Vim](https://buttondown.email/hillelwayne/archive/why-i-still-use-vim/)
 - [Evidence-based software engineering: book released](http://shape-of-code.coding-guidelines.com/2020/11/08/evidence-based-software-engineering-book-released/)
-- [Docker fails to launch on Apple Silicon](https://github.com/docker/for-mac/issues/4733)
 <!-- BLOG-POST-LIST:END -->
 
 ---
