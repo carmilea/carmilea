@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Six Reasons Why Google Maps Is the Creepiest App on Your Phone](https://www.vice.com/en/article/3an84b/six-reasons-why-google-maps-is-the-creepiest-app-on-your-phone)
 - [Funkwhale – Decentralized, self-hosted music server](https://funkwhale.audio/)
+- [How to Become a Shopify Developer – Resources to Become a Shopify Dev](https://iliashaddad.com/blog/how-to-become-shopify-developer)
 - [Deepnote (YC S19) is hiring software engineers (Europe, Prague)](https://deepnote.com/publish/jobs)
 - [Google Takeout: Export a copy of your data in Google services](https://takeout.google.com/)
-- [Physicists Pin Down Nuclear Reaction from Moments After the Big Bang](https://www.quantamagazine.org/physicists-pin-down-nuclear-reaction-from-moments-after-the-big-bang-20201111/)
-- [RIP Google Music](https://techcrunch.com/2020/11/11/rip-google-music-one-of-the-companys-last-examples-of-generosity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
