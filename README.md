@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepnote (YC S19) is hiring software engineers (Europe, Prague)](https://deepnote.com/publish/jobs)
 - [Physicists Pin Down Nuclear Reaction from Moments After the Big Bang](https://www.quantamagazine.org/physicists-pin-down-nuclear-reaction-from-moments-after-the-big-bang-20201111/)
-- [RIP Google Music, one of the company’s last examples of generosity](https://techcrunch.com/2020/11/11/rip-google-music-one-of-the-companys-last-examples-of-generosity/)
+- [RIP Google Music](https://techcrunch.com/2020/11/11/rip-google-music-one-of-the-companys-last-examples-of-generosity/)
+- [Evidence suggests state Senate candidates were plants funded by dark money](https://www.local10.com/news/local/2020/11/11/evidence-suggests-several-state-senate-candidates-were-plants-funded-by-dark-money/)
 - [Volt: A reactive web framework where your Ruby code runs both server and client](http://www.voltframework.com/)
-- [Apple Silicon M1 chip in MacBook Air outperforms high-end 16-inch MacBook Pro](https://www.macrumors.com/2020/11/11/m1-macbook-air-first-benchmark/)
-- [Blink: Intent to Remove: HTTP/2 and gQUIC server push](https://groups.google.com/a/chromium.org/g/blink-dev/c/K3rYLvmQUBY/m/vOWBKZGoAQAJ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
