@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wayeb: A Complex Event Processing and Forecasting Engine](https://github.com/ElAlev/Wayeb)
-- [DNS cache poisoning, the Internet attack from 2008, is back from the dead](https://arstechnica.com/information-technology/2020/11/researchers-find-way-to-revive-kaminskys-2008-dns-cache-poisoning-attack/)
-- [The Exploding Whale remastered: 50th anniversary of legendary Oregon event](https://katu.com/news/local/the-exploding-whale-50th-anniversary-of-legendary-oregon-event)
-- [Koyeb Serverless Engine: Docker Containers, Continuous Deployment of Functions](http://koyeb.com/blog/announcing-the-koyeb-serverless-engine-docker-containers-and-continuous-deployment-of-functions)
-- [Group of Google critics calls for EU antitrust action](https://uk.reuters.com/article/us-eu-alphabet-antitrust-exclusive/exclusive-group-of-165-google-critics-calls-for-swift-eu-antitrust-action-letter-idUKKBN27S0YQ)
+- [Guido van Rossum joins Microsoft](https://twitter.com/gvanrossum/status/1326932991566700549)
+- [Sweeps (YC W20) Is Hiring a Senior Software Engineer](https://sweeps.ai/senior-software-engineer.pdf)
+- [Effect of exercise training for five years on all cause mortality](https://www.bmj.com/content/371/bmj.m3485)
+- [Migrating Large Heroku Postgres Instances to AWS Aurora Without Downtime](https://thecodinginterface.com/blog/heroku-postgres-migration-to-aurora/)
+- [AWS releases Glue Databrew, a visual ETL tool](https://aws.amazon.com/glue/features/databrew/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
