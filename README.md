@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Editing the C standard / “LaTeX is horseshit”](https://thephd.github.io/editing-the-c-standard)
-- [Measles surging as Covid-19 curbs disrupt vaccinations](https://www.reuters.com/article/us-health-measles-global/measles-surging-as-covid-19-curbs-disrupt-vaccinations-idUSKBN27S2TC)
-- [Factorio 1.1 is getting close](https://www.factorio.com/blog/post/fff-363)
-- [When 13.3 is greater than 14](https://fabiensanglard.net/aspect_ratio/index.html)
-- [API design is stuck in the past](https://buf.build/blog/api-design-is-stuck-in-the-past)
+- [Jerry, Inc. (YC S17) Is Hiring a Head of Auto Loans and Refinance](https://apply.workable.com/jerry/j/AE86E23AD6/)
+- [Cargill: The worst company in the world (2019) PDF](http://www.mightyearth.org/wp-content/uploads/Mighty-Earth-Report-Cargill-The-Worst-Company-in-the-World-July-2019.pdf)
+- [Editing the C Standard](https://thephd.github.io/editing-the-c-standard)
+- [Ghidra 9.2 released](https://ghidra-sre.org/releaseNotes_9.2.html)
+- [GFXBench: Apple M1](https://gfxbench.com/compare.jsp?benchmark=gfx50&did1=90754264&os1=OS%20X&api1=metal&hwtype1=GPU&hwname1=Apple+M1&did2=40679076&os2=OS%20X&api2=metal&hwtype2=dGPU&hwname2=NVIDIA+GeForce+GTX+1050+Ti)
 <!-- BLOG-POST-LIST:END -->
 
 ---
