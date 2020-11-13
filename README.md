@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CISA Rumor Control](https://www.cisa.gov/rumorcontrol)
+- [Google Widevine Content Decryption Module DMCA](https://github.com/github/dmca/blob/master/2020/11/2020-11-09-Google.md)
+- [CISA: The November 3rd election was the most secure in American history](https://www.cisa.gov/news/2020/11/12/joint-statement-elections-infrastructure-government-coordinating-council-election)
 - [Vitamin D Supplementation Improves Cognitive Function: 12-month RCT](https://pubmed.ncbi.nlm.nih.gov/33164936/)
 - [The Anti-Federalist Papers](http://resources.utulsa.edu/law/classes/rice/Constitutional/AntiFederalist/antifed.htm)
-- [Is there still somebody in the Cairo community who is able to make a release?](https://lists.cairographics.org/archives/cairo/2020-November/029080.html)
-- [Bias in radiology resident selection against the obese and unattractive?](https://journals.lww.com/academicmedicine/fulltext/2019/11000/bias_in_radiology_resident_selection__do_we.41.aspx)
-- [Nuclear war is unlikely to cause human extinction?](https://www.lesswrong.com/posts/sT6NxFxso6Z9xjS7o/nuclear-war-is-unlikely-to-cause-human-extinction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
