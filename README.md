@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Measles surging as Covid-19 curbs disrupt vaccinations](https://www.reuters.com/article/us-health-measles-global/measles-surging-as-covid-19-curbs-disrupt-vaccinations-idUSKBN27S2TC)
+- [Factorio 1.1 is getting close](https://www.factorio.com/blog/post/fff-363)
+- [API design is stuck in the past](https://buf.build/blog/api-design-is-stuck-in-the-past)
 - [Dover (YC S19) is hiring engineers to build a truly modern recruiting agency](https://www.dover.io/open-roles/senior-software-engineer)
-- [Double fetches, scheduling algorithms, and onion rings](https://offlinemark.com/2020/11/12/double-fetches-scheduling-algorithms-onion-rings/)
-- [So you've made a mistake and it's public](https://meta.wikimedia.org/wiki/So_you%27ve_made_a_mistake_and_it%27s_public...)
-- [Optimizing Things in the USSR](https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/)
-- [Cloudflare Durable Objects in Production](https://linc.sh/blog/durable-objects-in-production)
+- [Xi Jinping personally halted Ant's IPO after Jack Ma snubbed government leaders](https://markets.businessinsider.com/news/stocks/ant-group-ipo-personally-halted-china-xi-jinping-jack-wsj-2020-11-1029800224)
 <!-- BLOG-POST-LIST:END -->
 
 ---
