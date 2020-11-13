@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [They Thought They Were Free: The Germans, 1933-45 (1955)](https://press.uchicago.edu/Misc/Chicago/511928.html)
 - [DoorDash S-1](https://www.sec.gov/Archives/edgar/data/1792789/000119312520292381/d752207ds1.htm)
 - [The total PC market (including tablets) had 23% year-on-year growth](https://www.canalys.com/newsroom/worldwide-pc-market-Q3-2020?ctid=1782-534b72bc4477bfd6e0472dbc203ff746)
 - [Less screen time and more sleep critical for preventing depression](https://www.westernsydney.edu.au/newscentre/news_centre/more_news_stories/less_screen_time_and_more_sleep_critical_for_preventing_depression)
 - [Hunting for Malicious Packages on PyPI](https://jordan-wright.com/blog/post/2020-11-12-hunting-for-malicious-packages-on-pypi/)
-- [Gig economy companies spent more than $200m to bankroll Proposition 22](https://www.theguardian.com/commentisfree/2020/nov/12/uber-prop-22-law-drivers-ab5-gig-workers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
