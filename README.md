@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RevenueCat (YC S18) Is Hiring a Reliability Engineer (Remote)](https://jobs.lever.co/revenuecat/dca0930f-c5a8-4309-b339-1fc72a753996)
 - [Fast UI Draw is a library that provides a higher performance Canvas interface](https://github.com/intel/fastuidraw)
-- [You Can Buy This Electric Car for $7,999 in California](https://singularityhub.com/2020/11/12/you-can-buy-this-electric-car-for-7999-in-california/)
+- [Estimated 3° Warming by 2500 if we cut all emissions now](https://www.nature.com/articles/s41598-020-75481-z)
 - [Google Widevine Content Decryption Module DMCA](https://github.com/github/dmca/blob/master/2020/11/2020-11-09-Google.md)
 - [Your Computer Isn't Yours](https://sneak.berlin/20201112/your-computer-isnt-yours/)
-- [Vitamin D Supplementation Improves Cognitive Function: 12-month RCT](https://pubmed.ncbi.nlm.nih.gov/33164936/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
