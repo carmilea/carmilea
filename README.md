@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [The Know Show: Pivoting with a Purpose](https://www.youtube.com/watch?v=6h4F3G4rrcU)
 - [Secure SingleStore with SSL](https://www.youtube.com/watch?v=5nejNHcKsao)
 - [From #Dashboards to #Fastboards with #SingleStore](https://www.youtube.com/watch?v=4jJotyPN6HQ)
 - [The Know Show: Nolan Grace and Micah Bhakti](https://www.youtube.com/watch?v=izOsGD57hkY)
 - [Introducing the Know Show](https://www.youtube.com/watch?v=u-ltONTYH2s)
-- [SingleStore Storage Options](https://www.youtube.com/watch?v=t5cXT0Y6HBc)
 <!-- YOUTUBE:END -->
 
 
