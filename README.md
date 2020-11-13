@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why TCP over TCP is a bad idea (2001)](http://sites.inka.de/~bigred/devel/tcp-tcp.html)
 - [Denisovan Mitochondrial DNA Found in Tibetan Cave](http://www.sci-news.com/othersciences/anthropology/denisovan-mitochondrial-dna-baishiya-karst-cave-09010.html)
 - [Apple outages affecting Mac apps, Big Sur updates, iMessage, and more](https://9to5mac.com/2020/11/12/apple-widespread-outages-big-sur-downloads-catalina-imessage/)
 - [RevenueCat (YC S18) Is Hiring a Reliability Engineer (Remote)](https://jobs.lever.co/revenuecat/dca0930f-c5a8-4309-b339-1fc72a753996)
 - [Fast UI Draw is a library that provides a higher performance Canvas interface](https://github.com/intel/fastuidraw)
-- [Google Widevine Content Decryption Module DMCA](https://github.com/github/dmca/blob/master/2020/11/2020-11-09-Google.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
