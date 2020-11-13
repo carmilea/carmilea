@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A few kilograms weight loss nearly halves the risk of diabetes](https://www.uea.ac.uk/news/-/article/a-few-kilograms-weight-loss-nearly-halves-the-risk-of-diabetes)
-- [Super-spreading wedding demonstrates COV-19 risk posed by holiday gatherings](https://www.latimes.com/science/story/2020-11-12/covid-19-spread-at-thanksgiving-holiday-gatherings-could-be-like-maine-wedding)
-- [They Thought They Were Free: The Germans, 1933-45 (1955)](https://press.uchicago.edu/Misc/Chicago/511928.html)
-- [DoorDash S-1](https://www.sec.gov/Archives/edgar/data/1792789/000119312520292381/d752207ds1.htm)
-- [The total PC market (including tablets) had 23% year-on-year growth](https://www.canalys.com/newsroom/worldwide-pc-market-Q3-2020?ctid=1782-534b72bc4477bfd6e0472dbc203ff746)
+- [Dover (YC S19) is hiring engineers to build a truly modern recruiting agency](https://www.dover.io/open-roles/senior-software-engineer)
+- [Double fetches, scheduling algorithms, and onion rings](https://offlinemark.com/2020/11/12/double-fetches-scheduling-algorithms-onion-rings/)
+- [So you've made a mistake and it's public](https://meta.wikimedia.org/wiki/So_you%27ve_made_a_mistake_and_it%27s_public...)
+- [Optimizing Things in the USSR](https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/)
+- [Cloudflare Durable Objects in Production](https://linc.sh/blog/durable-objects-in-production)
 <!-- BLOG-POST-LIST:END -->
 
 ---
