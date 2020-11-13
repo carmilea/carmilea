@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Editing the C standard / “LaTeX is horseshit”](https://thephd.github.io/editing-the-c-standard)
 - [Measles surging as Covid-19 curbs disrupt vaccinations](https://www.reuters.com/article/us-health-measles-global/measles-surging-as-covid-19-curbs-disrupt-vaccinations-idUSKBN27S2TC)
 - [Factorio 1.1 is getting close](https://www.factorio.com/blog/post/fff-363)
+- [When 13.3 is greater than 14](https://fabiensanglard.net/aspect_ratio/index.html)
 - [API design is stuck in the past](https://buf.build/blog/api-design-is-stuck-in-the-past)
-- [Dover (YC S19) is hiring engineers to build a truly modern recruiting agency](https://www.dover.io/open-roles/senior-software-engineer)
-- [Xi Jinping personally halted Ant's IPO after Jack Ma snubbed government leaders](https://markets.businessinsider.com/news/stocks/ant-group-ipo-personally-halted-china-xi-jinping-jack-wsj-2020-11-1029800224)
 <!-- BLOG-POST-LIST:END -->
 
 ---
