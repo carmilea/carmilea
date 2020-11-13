@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Zuckerberg defends not suspending ex-Trump aide Bannon from Facebook: recording](https://www.reuters.com/article/us-usa-election-facebook-idUSKBN27S35P)
-- [Apple: Developer ID Certificate Revocation (OCSP)](https://lapcatsoftware.com/articles/revocation.html)
 - [The Anti-Federalist Papers](http://resources.utulsa.edu/law/classes/rice/Constitutional/AntiFederalist/antifed.htm)
+- [Is there still somebody in the Cairo community who is able to make a release?](https://lists.cairographics.org/archives/cairo/2020-November/029080.html)
 - [Show HN: Find GitHub Users' Email Address](https://github.com/jemmaissroff/find_github_email)
-- [Resident Selection: Do We Discriminate Against the Obese and Unattractive?](https://journals.lww.com/academicmedicine/fulltext/2019/11000/bias_in_radiology_resident_selection__do_we.41.aspx)
+- [Bias in radiology resident selection against the obese and unattractive?](https://journals.lww.com/academicmedicine/fulltext/2019/11000/bias_in_radiology_resident_selection__do_we.41.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
