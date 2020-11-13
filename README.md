@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Next Decade Could Be Even Worse](https://www.theatlantic.com/magazine/archive/2020/12/can-history-predict-future/616993/)
 - [Smarking (YC W15) Is Hiring an Implementation and Tech Partnership Manager](https://jobs.lever.co/smarking/237fb34f-8fd1-431e-b631-1374fb73bfd6)
+- [Google Photos hooked users with free unlimited storage. Now that's changing](https://keyt.com/news/money-and-business/2020/11/12/google-photos-hooked-users-with-free-unlimited-storage-now-thats-changing/)
+- [Paul's Online Math Tutorials and Notes](https://tutorial.math.lamar.edu/)
 - [Why TCP over TCP is a bad idea (2001)](http://sites.inka.de/~bigred/devel/tcp-tcp.html)
-- [Denisovan Mitochondrial DNA Found in Tibetan Cave](http://www.sci-news.com/othersciences/anthropology/denisovan-mitochondrial-dna-baishiya-karst-cave-09010.html)
-- [Apple outages affecting Mac apps, Big Sur updates, iMessage, and more](https://9to5mac.com/2020/11/12/apple-widespread-outages-big-sur-downloads-catalina-imessage/)
-- [Fast UI Draw is a library that provides a higher performance Canvas interface](https://github.com/intel/fastuidraw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
