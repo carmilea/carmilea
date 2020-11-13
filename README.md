@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fast UI Draw is a library that provides a higher performance Canvas interface](https://github.com/intel/fastuidraw)
 - [You Can Buy This Electric Car for $7,999 in California](https://singularityhub.com/2020/11/12/you-can-buy-this-electric-car-for-7999-in-california/)
 - [Google Widevine Content Decryption Module DMCA](https://github.com/github/dmca/blob/master/2020/11/2020-11-09-Google.md)
-- [CISA: The November 3rd election was the most secure in American history](https://www.cisa.gov/news/2020/11/12/joint-statement-elections-infrastructure-government-coordinating-council-election)
 - [Your Computer Isn't Yours](https://sneak.berlin/20201112/your-computer-isnt-yours/)
 - [Vitamin D Supplementation Improves Cognitive Function: 12-month RCT](https://pubmed.ncbi.nlm.nih.gov/33164936/)
 <!-- BLOG-POST-LIST:END -->
