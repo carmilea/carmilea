@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The story about that viral image of Kamala Harris and Ruby Bridges](https://www.latimes.com/california/story/2020-11-13/election-2020-kamala-harris-ruby-bridges-illustration-sacramento)
+- [The Hyperloop’s Only Destination Is a Capitalist Hellscape](https://discourseblog.com/hyperloop-test-virgin-scam/)
 - [Jerry, Inc. (YC S17) Is Hiring a Head of Auto Loans and Refinance](https://apply.workable.com/jerry/j/AE86E23AD6/)
-- [Cargill: The worst company in the world (2019) PDF](http://www.mightyearth.org/wp-content/uploads/Mighty-Earth-Report-Cargill-The-Worst-Company-in-the-World-July-2019.pdf)
-- [Editing the C Standard](https://thephd.github.io/editing-the-c-standard)
-- [Ghidra 9.2 released](https://ghidra-sre.org/releaseNotes_9.2.html)
-- [GFXBench: Apple M1](https://gfxbench.com/compare.jsp?benchmark=gfx50&did1=90754264&os1=OS%20X&api1=metal&hwtype1=GPU&hwname1=Apple+M1&did2=40679076&os2=OS%20X&api2=metal&hwtype2=dGPU&hwname2=NVIDIA+GeForce+GTX+1050+Ti)
+- [Hostage Situation at Ubisoft Montreal](https://www.cbr.com/ubisoft-montreal-hostage-situation/)
+- [Ghidra 9.2](https://ghidra-sre.org/releaseNotes_9.2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
