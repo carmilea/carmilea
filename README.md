@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chili pepper consumption associated with 25% reduction in death from any cause](https://scitechdaily.com/people-who-eat-chili-pepper-may-live-longer-reduced-risk-of-dying-from-cardiovascular-disease-or-cancer/)
+- [Popular Pirate Sites ‘Disappear’ from DuckDuckGo’s Top Search Results](https://torrentfreak.com/popular-pirate-sites-disappear-from-duckduckgos-top-search-results-201112/)
+- [Newton’s Daunting Masterpiece Had a Surprisingly Wide Audience, Historians Find](https://www.nytimes.com/2020/11/12/science/isaac-newton-principia.html)
+- [Plants can grow quickly or accurately, but not both](https://massivesci.com/notes/plant-speed-accuracy-trade-off-growth/)
 - [NYC Pilot Tries Mental Health Responders in Place of Police](https://www.bloomberg.com/news/articles/2020-11-13/nyc-pilot-sends-health-workers-in-place-of-police)
-- [Study supports link between traffic-related air pollution and mental disorders](https://www.kcl.ac.uk/news/study-supports-link-between-traffic-related-air-pollution-and-mental-disorders)
-- [Why Military History?](https://acoup.blog/2020/11/13/collections-why-military-history/)
-- [A Court Ruling in Austria Could Censor the Internet Worldwide](https://slate.com/technology/2020/11/austria-facebook-eva-glawischnig-piesczek-censorship.html)
-- [GNUnet 0.14.0](https://gnunet.org/en/news/2020-11-0.14.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
