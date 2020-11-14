@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Military History?](https://acoup.blog/2020/11/13/collections-why-military-history/)
+- [A Court Ruling in Austria Could Censor the Internet Worldwide](https://slate.com/technology/2020/11/austria-facebook-eva-glawischnig-piesczek-censorship.html)
 - [GNUnet 0.14.0](https://gnunet.org/en/news/2020-11-0.14.0.html)
 - [Google sued: Idle Android eats mobile data to send telemetry and preload ads](https://www.theregister.com/2020/11/14/google_android_data_allowance/)
 - [Empathy and perspective taking: How social skills are built](https://www.cbs.mpg.de/empathy-and-perspective-taking-how-social-skills-are-built)
-- [A Visual Comparison of macOS Catalina and Big Sur](https://www.andrewdenty.com/blog/2020/07/01/a-visual-comparison-of-macos-catalina-and-big-sur.html)
-- [Tiny Bubbles Under a Ship May Be the Secret to Reducing Fuel Consumption](https://www.smithsonianmag.com/innovation/tiny-bubbles-under-ship-may-be-secret-to-reducing-fuel-consumption-180976278/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
