@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NYC Pilot Tries Mental Health Responders in Place of Police](https://www.bloomberg.com/news/articles/2020-11-13/nyc-pilot-sends-health-workers-in-place-of-police)
+- [Study supports link between traffic-related air pollution and mental disorders](https://www.kcl.ac.uk/news/study-supports-link-between-traffic-related-air-pollution-and-mental-disorders)
 - [Why Military History?](https://acoup.blog/2020/11/13/collections-why-military-history/)
 - [A Court Ruling in Austria Could Censor the Internet Worldwide](https://slate.com/technology/2020/11/austria-facebook-eva-glawischnig-piesczek-censorship.html)
 - [GNUnet 0.14.0](https://gnunet.org/en/news/2020-11-0.14.0.html)
-- [Google sued: Idle Android eats mobile data to send telemetry and preload ads](https://www.theregister.com/2020/11/14/google_android_data_allowance/)
-- [Empathy and perspective taking: How social skills are built](https://www.cbs.mpg.de/empathy-and-perspective-taking-how-social-skills-are-built)
 <!-- BLOG-POST-LIST:END -->
 
 ---
