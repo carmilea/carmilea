@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bypassing Firewalls in macOS Big Sur](https://twitter.com/patrickwardle/status/1327726496203476992)
+- [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html)
 - [The Muse (YC W12) Is Hiring a Director of Analytics and BI](https://www.themuse.com/jobs/themuse/director-of-analytics-business-intelligence)
 - [Does Apple really log every app you run? A technical look](https://blog.jacopo.io/en/post/apple-ocsp/)
 - [The future of microwave cooking is solid-state](https://www.electronicsweekly.com/news/design/the-future-of-microwave-cooking-is-solid-state-2016-01/)
-- [The Best and Worst Microcontroller SDKs](https://interrupt.memfault.com/blog/the-best-and-worst-mcu-sdks)
-- [Reverse-engineering the classic MK4116 16-kilobit DRAM chip](http://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
