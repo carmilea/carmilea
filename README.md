@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is an ARM-based laptop a viable development machine for a Back end dev?](https://news.ycombinator.com/item?id=25090940)
+- [Ask HN: Is an ARM-based laptop a viable development machine for a Backend dev?](https://news.ycombinator.com/item?id=25090940)
+- [Virgin Hyperloop Has Invented the World's Crappiest High-Speed Rail](https://defector.com/virgin-hyperloop-has-invented-the-worlds-crappiest-high-speed-rail/)
 - [British Airways Flight 5390](https://en.wikipedia.org/wiki/British_Airways_Flight_5390)
+- [We need less powerful languages](https://lukeplant.me.uk/blog/posts/less-powerful-languages/)
 - [Files Are Fraught with Peril](https://danluu.com/deconstruct-files/)
-- [Smaller than ever–exploring the unusual properties of quantum-sized materials](https://www.titech.ac.jp/english/news/2020/048014.html)
-- [Femtosecond laser writing of glass, including borosilicate, sulfide, and lead](https://patents.google.com/patent/US6573026B1/en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
