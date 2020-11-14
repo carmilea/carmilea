@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Reverse-engineering the classic MK4116 16-kilobit DRAM chip](http://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
-- [Show HN: I created the easiest way to share and collaborate on links on the web](http://seelink.app)
 - [Informational privacy: a precondition for democratic participation?](https://blogs.lse.ac.uk/businessreview/2019/12/13/informational-privacy-a-precondition-for-democratic-participation/)
 - [Pimp My Microwave](https://github.com/dekuNukem/pimp_my_microwave/#)
 - [Handmade Seattle – virtual low-level programming conference](https://www.handmade-seattle.com/)
+- [The Prestige Trap: finance, big tech, and consulting](https://wesdesilvestro.com/the-prestige-trap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
