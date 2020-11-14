@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is an ARM-based laptop a viable development machine for a Back end dev?](https://news.ycombinator.com/item?id=25090940)
+- [British Airways Flight 5390](https://en.wikipedia.org/wiki/British_Airways_Flight_5390)
+- [Files Are Fraught with Peril](https://danluu.com/deconstruct-files/)
 - [Smaller than ever–exploring the unusual properties of quantum-sized materials](https://www.titech.ac.jp/english/news/2020/048014.html)
 - [Femtosecond laser writing of glass, including borosilicate, sulfide, and lead](https://patents.google.com/patent/US6573026B1/en)
-- [Personal Data Warehouses: Reclaiming Your Data](https://simonwillison.net/2020/Nov/14/personal-data-warehouses/)
-- [A GAN to generate dithers minimising frame difference for a slow movie player](http://matpalm.com/blog/dithernet_vsmp/)
-- [Logseq – privacy-first, open-source knowledge sharing and management platform](https://github.com/logseq/logseq)
 <!-- BLOG-POST-LIST:END -->
 
 ---
