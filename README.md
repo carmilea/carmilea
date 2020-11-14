@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Rehex – Reverse Engineers' Hex Editor](https://github.com/solemnwarning/rehex)
 - [Show HN: A Stargate in 140 chars of JavaScript](https://www.dwitter.net/d/20584)
+- [A Pretty Good Mathematical Model of Perfectionism](https://jessegalef.com/2020/08/09/a-pretty-good-mathematical-model-of-perfectionism/)
 - [The Strange Disappearance of Cooperation in America](http://peterturchin.com/cliodynamica/strange-disappearance/)
 - [gping: Ping, but with a graph](https://github.com/orf/gping)
-- [Jerry, Inc. (YC S17) Is Hiring a Head of Auto Loans and Refinance](https://apply.workable.com/jerry/j/AE86E23AD6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
