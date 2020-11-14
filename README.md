@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smaller than ever–exploring the unusual properties of quantum-sized materials](https://www.titech.ac.jp/english/news/2020/048014.html)
 - [Femtosecond laser writing of glass, including borosilicate, sulfide, and lead](https://patents.google.com/patent/US6573026B1/en)
 - [Personal Data Warehouses: Reclaiming Your Data](https://simonwillison.net/2020/Nov/14/personal-data-warehouses/)
 - [A GAN to generate dithers minimising frame difference for a slow movie player](http://matpalm.com/blog/dithernet_vsmp/)
 - [Logseq – privacy-first, open-source knowledge sharing and management platform](https://github.com/logseq/logseq)
-- [macOS 11 (Big Sur) Compatibility News](https://support.native-instruments.com/hc/en-us/articles/360013515618-macOS-11-Big-Sur-Compatibility-News)
 <!-- BLOG-POST-LIST:END -->
 
 ---
