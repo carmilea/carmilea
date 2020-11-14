@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS 11 (Big Sur) Compatibility News](https://support.native-instruments.com/hc/en-us/articles/360013515618-macOS-11-Big-Sur-Compatibility-News)
 - [A Modest Proposal in the New Age of DMCA Takedown Aggression](https://sfconservancy.org/blog/2020/nov/13/widevine-dmca-takedown/)
+- [Play with Go](https://play-with-go.dev/guides.html)
 - [Rehex – Reverse Engineers' Hex Editor](https://github.com/solemnwarning/rehex)
 - [Show HN: A Stargate in 140 chars of JavaScript](https://www.dwitter.net/d/20584)
-- [A Pretty Good Mathematical Model of Perfectionism](https://jessegalef.com/2020/08/09/a-pretty-good-mathematical-model-of-perfectionism/)
-- [TildeRadio is Internet radio streamed by/for users of the tildeverse](https://tilderadio.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
