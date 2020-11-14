@@ -55,7 +55,7 @@
 - [Informational privacy: a precondition for democratic participation?](https://blogs.lse.ac.uk/businessreview/2019/12/13/informational-privacy-a-precondition-for-democratic-participation/)
 - [Pimp My Microwave](https://github.com/dekuNukem/pimp_my_microwave/#)
 - [Handmade Seattle – virtual low-level programming conference](https://www.handmade-seattle.com/)
-- [The Prestige Trap: finance, big tech, and consulting](https://wesdesilvestro.com/the-prestige-trap)
+- [Save like a pessimist, invest like an optimist](https://www.collaborativefund.com/blog/save-like-a-pessimist-invest-like-an-optimist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
