@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse (YC W12) Is Hiring a Director of Analytics and BI](https://www.themuse.com/jobs/themuse/director-of-analytics-business-intelligence)
+- [The future of microwave cooking is solid-state](https://www.electronicsweekly.com/news/design/the-future-of-microwave-cooking-is-solid-state-2016-01/)
 - [Reverse-engineering the classic MK4116 16-kilobit DRAM chip](http://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
 - [Informational privacy: a precondition for democratic participation?](https://blogs.lse.ac.uk/businessreview/2019/12/13/informational-privacy-a-precondition-for-democratic-participation/)
 - [Pimp My Microwave](https://github.com/dekuNukem/pimp_my_microwave/#)
-- [Handmade Seattle – virtual low-level programming conference](https://www.handmade-seattle.com/)
-- [Save like a pessimist, invest like an optimist](https://www.collaborativefund.com/blog/save-like-a-pessimist-invest-like-an-optimist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
