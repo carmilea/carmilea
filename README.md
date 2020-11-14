@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chili pepper consumption associated with 25% reduction in death from any cause](https://scitechdaily.com/people-who-eat-chili-pepper-may-live-longer-reduced-risk-of-dying-from-cardiovascular-disease-or-cancer/)
-- [Popular Pirate Sites ‘Disappear’ from DuckDuckGo’s Top Search Results](https://torrentfreak.com/popular-pirate-sites-disappear-from-duckduckgos-top-search-results-201112/)
-- [Newton’s Daunting Masterpiece Had a Surprisingly Wide Audience, Historians Find](https://www.nytimes.com/2020/11/12/science/isaac-newton-principia.html)
-- [Plants can grow quickly or accurately, but not both](https://massivesci.com/notes/plant-speed-accuracy-trade-off-growth/)
-- [NYC Pilot Tries Mental Health Responders in Place of Police](https://www.bloomberg.com/news/articles/2020-11-13/nyc-pilot-sends-health-workers-in-place-of-police)
+- [The Prestige Trap: finance, big tech, and consulting](https://wesdesilvestro.com/the-prestige-trap)
+- [Save like a pessimist, invest like an optimist](https://www.collaborativefund.com/blog/save-like-a-pessimist-invest-like-an-optimist/)
+- [Covid-19 Event Risk Assessment Planning Tool](https://covid19risk.biosci.gatech.edu/)
+- [Obfuscating Complexity Considered Harmful](https://rule11.tech/obfuscating-complexity-considered-harmful/)
+- [Application Trust is Hard, but Apple does it Well](https://www.security-embedded.com/blog/2020/11/14/application-trust-is-hard-but-apple-does-it-well)
 <!-- BLOG-POST-LIST:END -->
 
 ---
