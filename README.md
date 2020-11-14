@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GNUnet 0.14.0](https://gnunet.org/en/news/2020-11-0.14.0.html)
+- [Google sued: Idle Android eats mobile data to send telemetry and preload ads](https://www.theregister.com/2020/11/14/google_android_data_allowance/)
 - [Empathy and perspective taking: How social skills are built](https://www.cbs.mpg.de/empathy-and-perspective-taking-how-social-skills-are-built)
-- [On the expressive power of programming languages](https://pwlconf.org/2019/shriram-krishnamurthi/)
-- [Stop Emailing Like a Rube](https://sneak.berlin/20201029/stop-emailing-like-a-rube/)
-- [Never Use Google to Sign-In](https://gurjeet.singh.im/blog/never-use-google-to-sign-in)
-- [PokéWalker hacking: A complete device takeover and ROM dump using infrared](http://dmitry.gr/?r=05.Projects&proj=28.%20pokewalker)
+- [A Visual Comparison of macOS Catalina and Big Sur](https://www.andrewdenty.com/blog/2020/07/01/a-visual-comparison-of-macos-catalina-and-big-sur.html)
+- [Tiny Bubbles Under a Ship May Be the Secret to Reducing Fuel Consumption](https://www.smithsonianmag.com/innovation/tiny-bubbles-under-ship-may-be-secret-to-reducing-fuel-consumption-180976278/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
