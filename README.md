@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rehex – Reverse Engineers' Hex Editor](https://github.com/solemnwarning/rehex)
+- [Show HN: A Stargate in 140 chars of JavaScript](https://www.dwitter.net/d/20584)
+- [The Strange Disappearance of Cooperation in America](http://peterturchin.com/cliodynamica/strange-disappearance/)
+- [gping: Ping, but with a graph](https://github.com/orf/gping)
 - [Jerry, Inc. (YC S17) Is Hiring a Head of Auto Loans and Refinance](https://apply.workable.com/jerry/j/AE86E23AD6/)
-- [Ghidra 9.2](https://ghidra-sre.org/releaseNotes_9.2.html)
-- [GFXBench: Apple M1](https://gfxbench.com/compare.jsp?benchmark=gfx50&did1=90754264&os1=OS%20X&api1=metal&hwtype1=GPU&hwname1=Apple+M1&did2=40679076&os2=OS%20X&api2=metal&hwtype2=dGPU&hwname2=NVIDIA+GeForce+GTX+1050+Ti)
-- [GM recalling nearly 69,000 Bolt EVs for fire risks](https://www.reuters.com/article/us-gm-recall/gm-recalling-nearly-69000-bolt-evs-for-fire-risks-idUSKBN27T2LG)
-- [Measles surging as Covid-19 curbs disrupt vaccinations](https://www.reuters.com/article/us-health-measles-global/measles-surging-as-covid-19-curbs-disrupt-vaccinations-idUSKBN27S2TC)
 <!-- BLOG-POST-LIST:END -->
 
 ---
