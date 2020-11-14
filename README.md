@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Empathy and perspective taking: How social skills are built](https://www.cbs.mpg.de/empathy-and-perspective-taking-how-social-skills-are-built)
+- [On the expressive power of programming languages](https://pwlconf.org/2019/shriram-krishnamurthi/)
+- [Stop Emailing Like a Rube](https://sneak.berlin/20201029/stop-emailing-like-a-rube/)
+- [Never Use Google to Sign-In](https://gurjeet.singh.im/blog/never-use-google-to-sign-in)
 - [PokéWalker hacking: A complete device takeover and ROM dump using infrared](http://dmitry.gr/?r=05.Projects&proj=28.%20pokewalker)
-- [British Airways Flight 5390](https://en.wikipedia.org/wiki/British_Airways_Flight_5390)
-- [We need less powerful languages (2015)](https://lukeplant.me.uk/blog/posts/less-powerful-languages/)
-- [Files Are Fraught with Peril (2019)](https://danluu.com/deconstruct-files/)
-- [Smaller than ever–exploring the unusual properties of quantum-sized materials](https://www.titech.ac.jp/english/news/2020/048014.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
