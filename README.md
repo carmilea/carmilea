@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Prestige Trap: finance, big tech, and consulting](https://wesdesilvestro.com/the-prestige-trap)
-- [Save like a pessimist, invest like an optimist](https://www.collaborativefund.com/blog/save-like-a-pessimist-invest-like-an-optimist/)
-- [Covid-19 Event Risk Assessment Planning Tool](https://covid19risk.biosci.gatech.edu/)
-- [Obfuscating Complexity Considered Harmful](https://rule11.tech/obfuscating-complexity-considered-harmful/)
-- [Application Trust is Hard, but Apple does it Well](https://www.security-embedded.com/blog/2020/11/14/application-trust-is-hard-but-apple-does-it-well)
+- [Reverse-engineering the classic MK4116 16-kilobit DRAM chip](http://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
+- [Show HN: I created the easiest way to share and collaborate on links on the web](http://seelink.app)
+- [Informational privacy: a precondition for democratic participation?](https://blogs.lse.ac.uk/businessreview/2019/12/13/informational-privacy-a-precondition-for-democratic-participation/)
+- [Pimp My Microwave](https://github.com/dekuNukem/pimp_my_microwave/#)
+- [Handmade Seattle – virtual low-level programming conference](https://www.handmade-seattle.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
