@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [30% of world GDP signed a trade agreement yesterday](https://www.smh.com.au/world/asia/mega-free-trade-deal-a-lifeline-for-australia-china-relations-20201112-p56dx8.html)
 - [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
-- [Ask HN: Why Isn't Open Source Voting Software Mandated?](https://news.ycombinator.com/item?id=25104650)
+- [The True Size Of Countries (Mercator projection)](https://thetruesize.com/)
 - [After losing my savings as an indie hacker, I can't do it anymore. I quit.](https://www.indiehackers.com/post/after-losing-38676-as-an-indie-hacker-i-cant-do-it-anymore-i-quit-8673223598)
-- [“Facebook has taken the name of my open source project ”](https://github.com/facebook/react-native/issues/30395)
 - [Most statin problems caused by mysterious 'nocebo effect', study suggests](https://www.bbc.co.uk/news/health-54951648)
 <!-- BLOG-POST-LIST:END -->
 
