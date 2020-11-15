@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ongoing Death of Free Speech: ACLU Lawyer Cheers Suppression of a New Book](https://greenwald.substack.com/p/the-ongoing-death-of-free-speech)
 - [Bitmovin (YC S15) Is Hiring Sales, Support and Engineering in Denver](https://bitmovin.com/careers/)
 - [Create Vintage Videos Using FFmpeg in 4 Simple Steps](https://ottverse.com/create-vintage-videos-using-ffmpeg/)
 - [The first open-source ventilator tested on human patients](https://github.com/makers-for-life/makair/)
-- [Soumitra Chatterjee: India acting legend dies, aged 85](https://www.bbc.com/news/world-asia-india-54500364)
-- [UK to ban sale of new petrol and diesel cars from 2030: FT](https://www.reuters.com/article/britain-autos/uk-to-ban-sale-of-new-petrol-and-diesel-cars-from-2030-ft-idUSKBN27U0DG)
+- [A Case for Properties: Programming Language Design](https://blog.willbanders.dev/articles/a-case-for-properties.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
