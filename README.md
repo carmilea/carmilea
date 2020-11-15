@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nearly 28M licensed Texas drivers hit by data breach](https://www.fox26houston.com/news/nearly-28-million-licensed-texas-drivers-hit-by-data-breach?taid=5fafc6ce1ef01a000123a0c2&utm_campaign=trueanthem&utm_medium=trueanthem&utm_source=twitter)
 - [Better disposable coffee cups made from Sugar Cane](https://www.economist.com/science-and-technology/2020/11/14/better-disposable-coffee-cups)
 - [‘It’s time to come home’ – Pentagon chief wants to end wars in Middle East](https://www.cnbc.com/2020/11/14/acting-pentagon-chief-says-wars-must-end-in-first-address.html)
 - [Poll: Have you experienced depressive symptoms over the past two weeks?](https://news.ycombinator.com/item?id=25097685)
 - [Ask HN: Are You Depressed?](http://www.strawpoll.me/22152225)
-- [There is little chance CRISPR will ever be widely used to directly treat disease](http://www.josiahzayner.com/2020/10/crispr-is-dead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
