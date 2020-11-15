@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sourcehut's Second Year in Alpha](https://sourcehut.org/blog/2020-11-15-sourcehut-2-year-alpha/)
-- [Neil Postman on Cyberspace (1995) [video]](https://www.youtube.com/watch?v=49rcVQ1vFAY)
-- [UN says new polio outbreak in Sudan caused by oral vaccine](https://apnews.com/article/virus-outbreak-health-middle-east-africa-united-nations-619efb65b9eeec5650f011b960a152e9)
-- [PinePhone – KDE Community edition](https://kde.org/announcements/pinephone-plasma-mobile-edition/)
-- [Electrified wingsuit from BMW reaches 186MPH on first flight](https://robbreport.com/motors/aviation/bmw-electrified-wingsuit-maiden-flight-1234580128/)
+- [Bitmovin (YC S15) Is Hiring Sales, Support and Engineering in Denver](https://bitmovin.com/careers/)
+- [Create Vintage Videos Using FFmpeg in 4 Simple Steps](https://ottverse.com/create-vintage-videos-using-ffmpeg/)
+- [The first open-source ventilator tested on human patients](https://github.com/makers-for-life/makair/)
+- [Soumitra Chatterjee: India acting legend dies, aged 85](https://www.bbc.com/news/world-asia-india-54500364)
+- [UK to ban sale of new petrol and diesel cars from 2030: FT](https://www.reuters.com/article/britain-autos/uk-to-ban-sale-of-new-petrol-and-diesel-cars-from-2030-ft-idUSKBN27U0DG)
 <!-- BLOG-POST-LIST:END -->
 
 ---
