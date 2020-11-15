@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [KDE and Pine64 Introduce the PinePhone – KDE Community Edition](https://kde.org/announcements/pinephone-plasma-mobile-edition/)
+- [Moving my serverless project to Ruby on Rails](https://frantic.im/back-to-rails)
 - [The Messaging Layer Security (MLS) Protocol](https://datatracker.ietf.org/doc/draft-ietf-mls-protocol/)
 - [BetterExplained: Clear, intuitive lessons about mathematics](https://betterexplained.com/)
 - [Pydis a redis clone POC in 250 lines of code 60% as fast](https://github.com/boramalper/pydis)
-- [Why to Start a Startup in a Bad Economy (2008)](http://www.paulgraham.com/badeconomy.html)
-- [No, “Open Source” Does Not Mean “Includes Free Support”](https://raccoon.onyxbits.de/blog/bugreport-free-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
