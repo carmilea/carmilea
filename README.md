@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Aggregating reviews of popular podcast hosting platforms](https://podcasthosting.review/)
+- [Sourcehut's Second Year in Alpha](https://sourcehut.org/blog/2020-11-15-sourcehut-2-year-alpha/)
+- [Neil Postman on Cyberspace (1995) [video]](https://www.youtube.com/watch?v=49rcVQ1vFAY)
 - [UN says new polio outbreak in Sudan caused by oral vaccine](https://apnews.com/article/virus-outbreak-health-middle-east-africa-united-nations-619efb65b9eeec5650f011b960a152e9)
 - [PinePhone – KDE Community edition](https://kde.org/announcements/pinephone-plasma-mobile-edition/)
 - [Electrified wingsuit from BMW reaches 186MPH on first flight](https://robbreport.com/motors/aviation/bmw-electrified-wingsuit-maiden-flight-1234580128/)
-- [Moving my serverless project to Ruby on Rails](https://frantic.im/back-to-rails)
 <!-- BLOG-POST-LIST:END -->
 
 ---
