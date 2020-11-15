@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [KDE and Pine64 Introduce the PinePhone – KDE Community Edition](https://kde.org/announcements/pinephone-plasma-mobile-edition/)
+- [Show HN: Aggregating reviews of popular podcast hosting platforms](https://podcasthosting.review/)
+- [UN says new polio outbreak in Sudan caused by oral vaccine](https://apnews.com/article/virus-outbreak-health-middle-east-africa-united-nations-619efb65b9eeec5650f011b960a152e9)
+- [PinePhone – KDE Community edition](https://kde.org/announcements/pinephone-plasma-mobile-edition/)
+- [Electrified wingsuit from BMW reaches 186MPH on first flight](https://robbreport.com/motors/aviation/bmw-electrified-wingsuit-maiden-flight-1234580128/)
 - [Moving my serverless project to Ruby on Rails](https://frantic.im/back-to-rails)
-- [The Messaging Layer Security (MLS) Protocol](https://datatracker.ietf.org/doc/draft-ietf-mls-protocol/)
-- [BetterExplained: Clear, intuitive lessons about mathematics](https://betterexplained.com/)
-- [Pydis a redis clone POC in 250 lines of code 60% as fast](https://github.com/boramalper/pydis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
