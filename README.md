@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Norwegian Covid-19 contact tracing app banned by the Data Protection Authority](https://blog.runbox.com/2020/10/the-norwegian-covid-19-contact-tracing-app-is-banned-by-the-data-protection-authority/)
 - [30% of world GDP signed a trade agreement yesterday](https://www.smh.com.au/world/asia/mega-free-trade-deal-a-lifeline-for-australia-china-relations-20201112-p56dx8.html)
+- [Objective reasons to prefer Linux over Windows](https://github.com/nbeaver/why-linux-is-better)
 - [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
 - [The True Size Of Countries (Mercator projection)](https://thetruesize.com/)
-- [After losing my savings as an indie hacker, I can't do it anymore. I quit.](https://www.indiehackers.com/post/after-losing-38676-as-an-indie-hacker-i-cant-do-it-anymore-i-quit-8673223598)
-- [Most statin problems caused by mysterious 'nocebo effect', study suggests](https://www.bbc.co.uk/news/health-54951648)
 <!-- BLOG-POST-LIST:END -->
 
 ---
