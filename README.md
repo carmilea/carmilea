@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Poll: Have you experienced depressive symptoms over the past two weeks?](https://news.ycombinator.com/item?id=25097685)
 - [Ask HN: Are You Depressed?](http://www.strawpoll.me/22152225)
 - [There is little chance CRISPR will ever be widely used to directly treat disease](http://www.josiahzayner.com/2020/10/crispr-is-dead.html)
 - [Bypassing Firewalls in macOS Big Sur](https://twitter.com/patrickwardle/status/1327726496203476992)
 - [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html)
-- [The Muse (YC W12) Is Hiring a Director of Analytics and BI](https://www.themuse.com/jobs/themuse/director-of-analytics-business-intelligence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
