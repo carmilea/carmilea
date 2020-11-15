@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What underestimated technologies will dominate within 5 years?](https://news.ycombinator.com/item?id=25096973)
+- [Ask HN: Are You Depressed?](http://www.strawpoll.me/22152225)
+- [Crispr Is Dead](http://www.josiahzayner.com/2020/10/crispr-is-dead.html)
 - [Bypassing Firewalls in macOS Big Sur](https://twitter.com/patrickwardle/status/1327726496203476992)
 - [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html)
-- [The Muse (YC W12) Is Hiring a Director of Analytics and BI](https://www.themuse.com/jobs/themuse/director-of-analytics-business-intelligence)
-- [Does Apple really log every app you run? A technical look](https://blog.jacopo.io/en/post/apple-ocsp/)
-- [The Best and Worst Microcontroller SDKs](https://interrupt.memfault.com/blog/the-best-and-worst-mcu-sdks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
