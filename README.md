@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Data breach exposes nearly 28M Texas drivers' records](https://statescoop.com/data-breach-exposes-nearly-28-million-texas-drivers-records/)
+- [Ori Pocket Office](https://www.oriliving.com/products/pocket-office)
 - [Nearly 28M licensed Texas drivers hit by data breach](https://www.fox26houston.com/news/nearly-28-million-licensed-texas-drivers-hit-by-data-breach?taid=5fafc6ce1ef01a000123a0c2&utm_campaign=trueanthem&utm_medium=trueanthem&utm_source=twitter)
 - [Twitch streamers report DMCA takedowns for in-game sound effects](https://www.gamesindustry.biz/articles/2020-11-13-twitch-streamers-report-dmca-takedowns-for-in-game-sound-effects)
 - [Google made plans to target the EU official in charge of digital policy updates](https://arstechnica.com/tech-policy/2020/11/google-apologizes-to-thierry-breton-over-plan-to-target-eu-commissioner/)
