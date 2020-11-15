@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: LibreASR – An On-Premise, Streaming Speech Recognition System](https://github.com/iceychris/LibreASR)
+- [No, “Open Source” Does Not Mean “Includes Free Support”](https://raccoon.onyxbits.de/blog/bugreport-free-support/)
+- [Show HN: LibreASR – An On-Premises, Streaming Speech Recognition System](https://github.com/iceychris/LibreASR)
 - [The Reasons I Ripped Out a £6k Lighting System](https://robdobson.com/2020/11/the-10-reasons-i-ripped-out-a-6k-lighting-system/)
 - [Charles Koch Says His Partisanship Was a Mistake](https://www.wsj.com/articles/charles-koch-says-his-partisanship-was-a-mistake-11605286893)
 - [Sad DNS Explained](https://blog.cloudflare.com/sad-dns-explained/)
-- [Ask HN: Am I too late for the “Data Science” wave?](https://news.ycombinator.com/item?id=25098921)
 <!-- BLOG-POST-LIST:END -->
 
 ---
