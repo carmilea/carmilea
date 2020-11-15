@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: LibreASR – An On-Premise, Streaming Speech Recognition System](https://github.com/iceychris/LibreASR)
+- [The Reasons I Ripped Out a £6k Lighting System](https://robdobson.com/2020/11/the-10-reasons-i-ripped-out-a-6k-lighting-system/)
+- [Charles Koch Says His Partisanship Was a Mistake](https://www.wsj.com/articles/charles-koch-says-his-partisanship-was-a-mistake-11605286893)
 - [Sad DNS Explained](https://blog.cloudflare.com/sad-dns-explained/)
 - [Ask HN: Am I too late for the “Data Science” wave?](https://news.ycombinator.com/item?id=25098921)
-- [Ori Pocket Office](https://www.oriliving.com/products/pocket-office)
-- [Nearly 28M licensed Texas drivers hit by data breach](https://www.fox26houston.com/news/nearly-28-million-licensed-texas-drivers-hit-by-data-breach?taid=5fafc6ce1ef01a000123a0c2&utm_campaign=trueanthem&utm_medium=trueanthem&utm_source=twitter)
-- [Twitch streamers report DMCA takedowns for in-game sound effects](https://www.gamesindustry.biz/articles/2020-11-13-twitch-streamers-report-dmca-takedowns-for-in-game-sound-effects)
 <!-- BLOG-POST-LIST:END -->
 
 ---
