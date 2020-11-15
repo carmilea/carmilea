@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Messaging Layer Security (MLS) Protocol](https://datatracker.ietf.org/doc/draft-ietf-mls-protocol/)
+- [BetterExplained: Clear, intuitive lessons about mathematics](https://betterexplained.com/)
+- [Pydis a redis clone POC in 250 lines of code 60% as fast](https://github.com/boramalper/pydis)
+- [Why to Start a Startup in a Bad Economy (2008)](http://www.paulgraham.com/badeconomy.html)
 - [No, “Open Source” Does Not Mean “Includes Free Support”](https://raccoon.onyxbits.de/blog/bugreport-free-support/)
-- [Show HN: LibreASR – An On-Premises, Streaming Speech Recognition System](https://github.com/iceychris/LibreASR)
-- [The Reasons I Ripped Out a £6k Lighting System](https://robdobson.com/2020/11/the-10-reasons-i-ripped-out-a-6k-lighting-system/)
-- [Charles Koch Says His Partisanship Was a Mistake](https://www.wsj.com/articles/charles-koch-says-his-partisanship-was-a-mistake-11605286893)
-- [Sad DNS Explained](https://blog.cloudflare.com/sad-dns-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
