@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [“Facebook has taken the name of my open source project ”](https://github.com/facebook/react-native/issues/30395)
+- [Improving seasonal forecast using probabilistic deep learning](https://arxiv.org/abs/2010.14610)
+- [Packrat Parsing: Simple, Powerful, Lazy, Linear Time [pdf]](https://pdos.csail.mit.edu/~baford/packrat/icfp02/packrat-icfp02.pdf)
 - [Laser-Guided Lightning May Help Prevent Wildfires – Breaking Asia](https://www.breakingasia.com/news/laser-guided-lightning-may-help-prevent-wildfires/)
-- [The Largest Gypsy Ghetto in Europe – Stolipinovo, Bulgaria](https://yomadic.com/stolipinovo-gypsy-ghetto/)
 - [Drumbit – Online Drum Machine](https://drumbit.app/)
-- [Scientists grow bigger monkey brains using human genes, replicating evolution](https://interestingengineering.com/scientists-grow-bigger-monkey-brains-using-human-genes-replicating-evolution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
