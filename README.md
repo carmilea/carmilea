@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
+- [Ask HN: Why Isn't Open Source Voting Software Mandated?](https://news.ycombinator.com/item?id=25104650)
+- [After losing my savings as an indie hacker, I can't do it anymore. I quit.](https://www.indiehackers.com/post/after-losing-38676-as-an-indie-hacker-i-cant-do-it-anymore-i-quit-8673223598)
 - [“Facebook has taken the name of my open source project ”](https://github.com/facebook/react-native/issues/30395)
-- [Improving seasonal forecast using probabilistic deep learning](https://arxiv.org/abs/2010.14610)
-- [Packrat Parsing: Simple, Powerful, Lazy, Linear Time [pdf]](https://pdos.csail.mit.edu/~baford/packrat/icfp02/packrat-icfp02.pdf)
-- [Laser-Guided Lightning May Help Prevent Wildfires – Breaking Asia](https://www.breakingasia.com/news/laser-guided-lightning-may-help-prevent-wildfires/)
-- [Drumbit – Online Drum Machine](https://drumbit.app/)
+- [Most statin problems caused by mysterious 'nocebo effect', study suggests](https://www.bbc.co.uk/news/health-54951648)
 <!-- BLOG-POST-LIST:END -->
 
 ---
