@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ongoing Death of Free Speech: ACLU Lawyer Cheers Suppression of a New Book](https://greenwald.substack.com/p/the-ongoing-death-of-free-speech)
-- [Bitmovin (YC S15) Is Hiring Sales, Support and Engineering in Denver](https://bitmovin.com/careers/)
-- [Create Vintage Videos Using FFmpeg in 4 Simple Steps](https://ottverse.com/create-vintage-videos-using-ffmpeg/)
-- [The first open-source ventilator tested on human patients](https://github.com/makers-for-life/makair/)
-- [A Case for Properties: Programming Language Design](https://blog.willbanders.dev/articles/a-case-for-properties.html)
+- [“Facebook has taken the name of my open source project ”](https://github.com/facebook/react-native/issues/30395)
+- [Laser-Guided Lightning May Help Prevent Wildfires – Breaking Asia](https://www.breakingasia.com/news/laser-guided-lightning-may-help-prevent-wildfires/)
+- [The Largest Gypsy Ghetto in Europe – Stolipinovo, Bulgaria](https://yomadic.com/stolipinovo-gypsy-ghetto/)
+- [Drumbit – Online Drum Machine](https://drumbit.app/)
+- [Scientists grow bigger monkey brains using human genes, replicating evolution](https://interestingengineering.com/scientists-grow-bigger-monkey-brains-using-human-genes-replicating-evolution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
