@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Starlink has some hiccups as expected, but users are impressed](https://arstechnica.com/information-technology/2020/11/spacex-starlink-has-some-hiccups-as-expected-but-users-are-impressed/)
 - [SpaceX Crew-1 [video]](https://www.youtube.com/watch?v=bnChQbxLkkI&resubmit=1)
 - [Bay Area applicants flood program that pays them $10k to leave California](https://www.sfgate.com/living-in-sf/article/San-Franciscans-are-jumping-at-an-offer-of-10k-15591762.php)
 - [Show HN: 15FPS to 60FPS, new GPU real-time flow-based method](https://www.youtube.com/watch?v=lqtqmP46LaA)
 - [Apple Silicon M1 Emulating x86 Is Still Faster Than Every Other Mac](https://www.macrumors.com/2020/11/15/m1-chip-emulating-x86-benchmark/)
-- [Reasons to prefer Linux over Windows (2014)](https://github.com/nbeaver/why-linux-is-better)
 <!-- BLOG-POST-LIST:END -->
 
 ---
