@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube-dl's repository has been restored](https://github.com/ytdl-org/youtube-dl)
 - [Show HN: I created a URL shortener that can be entirely hosted on GitHub Pages](https://github.com/nelsontky/gh-pages-url-shortener)
 - [Moderna's Covid vaccine shows nearly 95% protection](https://www.bbc.com/news/health-54902908)
-- [Moderna Covid vaccine candidate almost 95% effective, trials show](https://www.theguardian.com/world/2020/nov/16/moderna-covid-vaccine-candidate-almost-95-effective-trials-show)
 - [How I hacked the StaySafe program, the government Covid-19 tracker of Sri Lanka](https://rukshn.github.io/how-i-hacked-stay-safe-covid-tracker/)
 - [Show HN: FFCreator-A fast short video processing library](https://github.com/tnfe/FFCreator)
 <!-- BLOG-POST-LIST:END -->
