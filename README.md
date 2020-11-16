@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On learning chess as an adult: From 650 to 1750 in two years](https://jacobbrazeal.wordpress.com/2020/11/16/on-learning-chess-as-an-adult-from-650-to-1750-in-two-years/)
+- [Apple Addresses Privacy Concerns Surrounding App Authentication in macOS](https://www.macrumors.com/2020/11/15/apple-privacy-macos-app-authenticaion/)
 - [The Basque-Icelandic Pidgin](https://en.wikipedia.org/wiki/Basque–Icelandic_pidgin)
-- [Italian police use Lamborghini to transport donor kidney 300 miles in two hours](https://jalopnik.com/italian-police-use-lamborghini-to-transport-donor-kidne-1845674197)
-- [Apple Responds to macOS Privacy Concerns, Explains Why Apps Were Slow to Launch](https://www.iphoneincanada.ca/mac/apple-responds-to-macos-privacy-concerns-explains-why-apps-were-slow-to-launch/)
-- [Only 17% of Consumers Believe Personalized Ads Are Ethical (2019)](https://www.forbes.com/sites/johnkoetsier/2019/02/09/83-of-consumers-believe-personalized-ads-are-morally-wrong-survey-says/)
-- [Safely open apps on your Mac](https://support.apple.com/en-us/HT202491)
+- [A Short History of Romaji](https://www.dampfkraft.com/romaji-history.html)
+- [Achieving 100Gbps intrusion prevention on a single server](https://blog.acolyer.org/2020/11/16/pigasus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
