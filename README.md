@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you write simple explanations without sounding condescending?](https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/)
+- [AMD at a Tipping Point with Instinct MI100 GPU Accelerators](https://www.nextplatform.com/2020/11/16/amd-at-a-tipping-point-with-instinct-mi100-gpu-accelerators/)
 - [YouTube-dl's repository has been restored](https://github.com/ytdl-org/youtube-dl)
+- [I failed to make LinkedIn fix their broken international domain URL parser](https://helmstedt.dk/2020/11/how-i-failed-to-make-linkedin-fix-their-broken-url-parser-for-international-domain-names/)
 - [Show HN: I created a URL shortener that can be entirely hosted on GitHub Pages](https://github.com/nelsontky/gh-pages-url-shortener)
-- [Moderna's Covid vaccine shows nearly 95% protection](https://www.bbc.com/news/health-54902908)
-- [How I hacked the StaySafe program, the government Covid-19 tracker of Sri Lanka](https://rukshn.github.io/how-i-hacked-stay-safe-covid-tracker/)
-- [Show HN: FFCreator-A fast short video processing library](https://github.com/tnfe/FFCreator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
