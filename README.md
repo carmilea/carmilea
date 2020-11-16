@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: FFCreator-A fast short video processing library](https://github.com/tnfe/FFCreator)
+- [Farewell, macOS](https://preslav.me/2020/11/16/farewell-macos-ubuntu/)
+- [The Largest Commercial Cylindrical Slide Rule Has a Scale Length of 24m](https://cacm.acm.org/blogs/blog-cacm/244935-the-worlds-largest-commercial-cylindrical-slide-rule-has-a-scale-length-of-24m/fulltext)
 - [Max Schrems hits Apple with complaints over ad-tracking device](https://www.bloomberg.com/news/articles/2020-11-16/apple-targeted-by-privacy-campaigner-who-took-on-facebook)
 - [Apple apps can bypass firewalls and VPNs – a potential security/privacy issue](https://thenextweb.com/plugged/2020/11/16/apple-apps-on-big-sur-bypass-firewalls-vpns-analysis-macos/)
-- [Moving OkCupid from REST to GraphQL](https://tech.okcupid.com/moving-okcupid-from-rest-to-graphql/)
-- [A Spacetime Surprise: Time Isn’t Just Another Dimension](https://www.forbes.com/sites/startswithabang/2020/08/12/a-spacetime-surprise-time-isnt-just-another-dimension)
-- [On Learning Chess as an Adult – From 650 to 1750 in Two Years](https://jacobbrazeal.wordpress.com/2020/11/16/on-learning-chess-as-an-adult-from-650-to-1750-in-two-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
