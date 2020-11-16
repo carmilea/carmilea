@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbnb S-1](https://www.sec.gov/Archives/edgar/data/1559720/000119312520294801/d81668ds1.htm)
+- [Caltech Awards 10,000th PhD Degree](https://www.caltech.edu/about/news/caltech-awards-10000th-phd-degree-during-october-conferral-students-impacted-pandemic)
+- [Google Cloud SQL now supports PostgreSQL 13](https://cloud.google.com/blog/products/databases/cloud-sql-database-service-adds-postgresql-13)
+- [Lax oversight allows Chicago police to avoid turning on their body cams](https://storymaps.arcgis.com/stories/3603ef8cc492488c847cffbe03ad0f1d)
 - [Tesorio Is Hiring a Senior Product Manager and Senior Engineers](https://www.tesorio.com/careers#job-openings)
-- [Researchers’ AI aligns sheet music with MIDI audio](https://venturebeat.com/2020/07/22/researchers-ai-aligns-sheet-music-with-midi-audio/)
-- [Sweden bans public events of more than eight people](https://www.thelocal.se/20201116/breaking-sweden-introduces-limit-of-eight-coronavirus)
-- [Reverse engineering a forgotten 1970s Intel dual core beast: 8271, a new ISA](https://scarybeastsecurity.blogspot.com/2020/11/reverse-engineering-forgotten-1970s.html)
-- [Twitter names famed hacker 'Mudge' as head of security](https://www.reuters.com/article/idUSKBN27W2MB)
 <!-- BLOG-POST-LIST:END -->
 
 ---
