@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse engineering a forgotten 1970s Intel dual core beast: 8271, a new ISA](https://scarybeastsecurity.blogspot.com/2020/11/reverse-engineering-forgotten-1970s.html)
+- [What Gödel Discovered](https://stopa.io/post/269)
 - [Benefits of Domain-Driven Design in Nuxt Apps](https://vueschool.io/articles/vuejs-tutorials/domain-driven-design-in-nuxt-apps/)
-- [Covid-19: politicisation, “corruption,” and suppression of science](https://www.bmj.com/content/371/bmj.m4425)
-- [My side projects always fail. This time is different.](https://www.themvpsprint.com/p/how-and-when-to-acquire-saas-users)
-- [Repl.it (YC W18) Is Hiring Growth and SRE](https://jobs.lever.co/replit/)
-- [More patents disclosing a Sony medium format camera with curved sensor](https://www.sonyalpharumors.com/more-patents-disclosing-a-sony-medium-format-camera-concept-with-curved-sensor/)
+- [Strava raises $110M, growth rate of 2M new users per month in 2020](https://techcrunch.com/2020/11/16/strava-raises-110-million-touts-growth-rate-of-2-million-new-users-per-month-in-2020/)
+- [Big no on Big Sur: Mullvad disallows Apple apps to bypass firewall](https://mullvad.net/en/blog/2020/11/16/big-no-big-sur-mullvad-disallows-apple-apps-bypass-firewall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
