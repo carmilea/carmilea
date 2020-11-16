@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Starlink has some hiccups as expected, but users are impressed](https://arstechnica.com/information-technology/2020/11/spacex-starlink-has-some-hiccups-as-expected-but-users-are-impressed/)
+- [What distinguishes great software engineers? [pdf]](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)
 - [SpaceX Crew-1 [video]](https://www.youtube.com/watch?v=bnChQbxLkkI&resubmit=1)
 - [Bay Area applicants flood program that pays them $10k to leave California](https://www.sfgate.com/living-in-sf/article/San-Franciscans-are-jumping-at-an-offer-of-10k-15591762.php)
 - [Show HN: 15FPS to 60FPS, new GPU real-time flow-based method](https://www.youtube.com/watch?v=lqtqmP46LaA)
