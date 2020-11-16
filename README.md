@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My side projects always fail. This time is different.](https://www.themvpsprint.com/p/how-and-when-to-acquire-saas-users)
 - [Repl.it (YC W18) Is Hiring Growth and SRE](https://jobs.lever.co/replit/)
-- [Show HN: Covid-19 Time Series Workbench (OWID Data)](https://info.qaware.de/software-ekg-covid-edition)
 - [More patents disclosing a Sony medium format camera with curved sensor](https://www.sonyalpharumors.com/more-patents-disclosing-a-sony-medium-format-camera-concept-with-curved-sensor/)
-- [Yelp Is Screwing over Restaurants by Quietly Replacing Their Phone Numbers](https://www.vice.com/en/article/wjwebw/yelp-is-sneakily-replacing-restaurants-phone-numbers-so-grubhub-can-take-a-cut)
-- [Ok Google: please publish your DKIM secret keys](https://blog.cryptographyengineering.com/2020/11/16/ok-google-please-publish-your-dkim-secret-keys/)
+- [Run Python Applications Efficiently with malloc_trim](https://reliability.substack.com/p/run-python-servers-more-efficiently)
+- [Vitamin D improves survival in Covid-19 elderly patients](https://www.sciencedirect.com/science/article/pii/S096007602030296X)
 <!-- BLOG-POST-LIST:END -->
 
 ---
