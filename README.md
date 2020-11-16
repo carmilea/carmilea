@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you write simple explanations without sounding condescending?](https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/)
-- [AMD at a Tipping Point with Instinct MI100 GPU Accelerators](https://www.nextplatform.com/2020/11/16/amd-at-a-tipping-point-with-instinct-mi100-gpu-accelerators/)
-- [YouTube-dl's repository has been restored](https://github.com/ytdl-org/youtube-dl)
-- [I failed to make LinkedIn fix their broken international domain URL parser](https://helmstedt.dk/2020/11/how-i-failed-to-make-linkedin-fix-their-broken-url-parser-for-international-domain-names/)
-- [Show HN: I created a URL shortener that can be entirely hosted on GitHub Pages](https://github.com/nelsontky/gh-pages-url-shortener)
+- [Yelp Is Screwing over Restaurants by Quietly Replacing Their Phone Numbers](https://www.vice.com/en/article/wjwebw/yelp-is-sneakily-replacing-restaurants-phone-numbers-so-grubhub-can-take-a-cut)
+- [Standing up for developers: YouTube-dl is back](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/)
+- [Exotic Programming Ideas: Part 2 (Term Rewriting)](https://www.stephendiehl.com/posts/exotic02.html)
+- [Scammers Expose Facebook Data Haul of 13M Records](https://www.infosecurity-magazine.com/news/scammers-expose-facebook-data-13/)
+- [Black Screen After MacBook Pro Update to macOS Big Sur](https://discussions.apple.com/thread/252040614)
 <!-- BLOG-POST-LIST:END -->
 
 ---
