@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Benefits of Domain-Driven Design in Nuxt Apps](https://vueschool.io/articles/vuejs-tutorials/domain-driven-design-in-nuxt-apps/)
+- [Covid-19: politicisation, “corruption,” and suppression of science](https://www.bmj.com/content/371/bmj.m4425)
 - [My side projects always fail. This time is different.](https://www.themvpsprint.com/p/how-and-when-to-acquire-saas-users)
 - [Repl.it (YC W18) Is Hiring Growth and SRE](https://jobs.lever.co/replit/)
 - [More patents disclosing a Sony medium format camera with curved sensor](https://www.sonyalpharumors.com/more-patents-disclosing-a-sony-medium-format-camera-concept-with-curved-sensor/)
-- [Run Python Applications Efficiently with malloc_trim](https://reliability.substack.com/p/run-python-servers-more-efficiently)
-- [Vitamin D improves survival in Covid-19 elderly patients](https://www.sciencedirect.com/science/article/pii/S096007602030296X)
 <!-- BLOG-POST-LIST:END -->
 
 ---
