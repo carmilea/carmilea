@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Schrems hits Apple with complaints over ad-tracking device](https://www.bloomberg.com/news/articles/2020-11-16/apple-targeted-by-privacy-campaigner-who-took-on-facebook)
 - [Apple apps can bypass firewalls and VPNs – a potential security/privacy issue](https://thenextweb.com/plugged/2020/11/16/apple-apps-on-big-sur-bypass-firewalls-vpns-analysis-macos/)
 - [Moving OkCupid from REST to GraphQL](https://tech.okcupid.com/moving-okcupid-from-rest-to-graphql/)
 - [A Spacetime Surprise: Time Isn’t Just Another Dimension](https://www.forbes.com/sites/startswithabang/2020/08/12/a-spacetime-surprise-time-isnt-just-another-dimension)
-- [On learning chess as an adult: From 650 to 1750 in two years](https://jacobbrazeal.wordpress.com/2020/11/16/on-learning-chess-as-an-adult-from-650-to-1750-in-two-years/)
-- [Show HN: Ubuntu Mate](https://ubuntu-mate.org/)
+- [On Learning Chess as an Adult – From 650 to 1750 in Two Years](https://jacobbrazeal.wordpress.com/2020/11/16/on-learning-chess-as-an-adult-from-650-to-1750-in-two-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
