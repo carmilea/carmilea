@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A woman who is allergic to water(2016)](https://www.bbc.com/future/article/20160915-the-woman-who-is-allergic-to-water)
+- [Italian Police Use Lamborghini to Transport Donor Kidney 300 Miles in Two Hours](https://jalopnik.com/italian-police-use-lamborghini-to-transport-donor-kidne-1845674197)
+- [Safely open apps on your Mac](https://support.apple.com/en-us/HT202491)
+- [A woman who is allergic to water (2016)](https://www.bbc.com/future/article/20160915-the-woman-who-is-allergic-to-water)
 - [RCEP, the world’s biggest trade agreement](https://www.economist.com/finance-and-economics/2020/11/15/the-meaning-of-rcep-the-worlds-biggest-trade-agreement)
 - [What distinguishes great software engineers? [pdf]](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)
-- [SpaceX Starlink has some hiccups as expected, but users are impressed](https://arstechnica.com/information-technology/2020/11/spacex-starlink-has-some-hiccups-as-expected-but-users-are-impressed/)
-- [SpaceX Crew-1 [video]](https://www.youtube.com/watch?v=bnChQbxLkkI&resubmit=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
