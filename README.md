@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I created a URL shortener that can be entirely hosted on GitHub Pages](https://github.com/nelsontky/gh-pages-url-shortener)
+- [Moderna's Covid vaccine shows nearly 95% protection](https://www.bbc.com/news/health-54902908)
+- [Moderna Covid vaccine candidate almost 95% effective, trials show](https://www.theguardian.com/world/2020/nov/16/moderna-covid-vaccine-candidate-almost-95-effective-trials-show)
+- [How I hacked the StaySafe program, the government Covid-19 tracker of Sri Lanka](https://rukshn.github.io/how-i-hacked-stay-safe-covid-tracker/)
 - [Show HN: FFCreator-A fast short video processing library](https://github.com/tnfe/FFCreator)
-- [Farewell, macOS](https://preslav.me/2020/11/16/farewell-macos-ubuntu/)
-- [The Largest Commercial Cylindrical Slide Rule Has a Scale Length of 24m](https://cacm.acm.org/blogs/blog-cacm/244935-the-worlds-largest-commercial-cylindrical-slide-rule-has-a-scale-length-of-24m/fulltext)
-- [Max Schrems hits Apple with complaints over ad-tracking device](https://www.bloomberg.com/news/articles/2020-11-16/apple-targeted-by-privacy-campaigner-who-took-on-facebook)
-- [Apple apps can bypass firewalls and VPNs – a potential security/privacy issue](https://thenextweb.com/plugged/2020/11/16/apple-apps-on-big-sur-bypass-firewalls-vpns-analysis-macos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
