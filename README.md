@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Essay: How do you describe TikTok?](https://kylechayka.substack.com/p/essay-how-do-you-describe-tiktok)
+- [K0s – Zero Friction Kubernetes](https://github.com/k0sproject/k0s)
 - [Airbnb S-1](https://www.sec.gov/Archives/edgar/data/1559720/000119312520294801/d81668ds1.htm)
 - [Caltech Awards 10,000th PhD Degree](https://www.caltech.edu/about/news/caltech-awards-10000th-phd-degree-during-october-conferral-students-impacted-pandemic)
 - [Google Cloud SQL now supports PostgreSQL 13](https://cloud.google.com/blog/products/databases/cloud-sql-database-service-adds-postgresql-13)
-- [Lax oversight allows Chicago police to avoid turning on their body cams](https://storymaps.arcgis.com/stories/3603ef8cc492488c847cffbe03ad0f1d)
-- [Tesorio Is Hiring a Senior Product Manager and Senior Engineers](https://www.tesorio.com/careers#job-openings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
