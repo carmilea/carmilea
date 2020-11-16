@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Repl.it (YC W18) Is Hiring Growth and SRE](https://jobs.lever.co/replit/)
+- [Show HN: Covid-19 Time Series Workbench (OWID Data)](https://info.qaware.de/software-ekg-covid-edition)
+- [More patents disclosing a Sony medium format camera with curved sensor](https://www.sonyalpharumors.com/more-patents-disclosing-a-sony-medium-format-camera-concept-with-curved-sensor/)
 - [Yelp Is Screwing over Restaurants by Quietly Replacing Their Phone Numbers](https://www.vice.com/en/article/wjwebw/yelp-is-sneakily-replacing-restaurants-phone-numbers-so-grubhub-can-take-a-cut)
-- [Standing up for developers: YouTube-dl is back](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/)
-- [Exotic Programming Ideas: Part 2 (Term Rewriting)](https://www.stephendiehl.com/posts/exotic02.html)
-- [Scammers Expose Facebook Data Haul of 13M Records](https://www.infosecurity-magazine.com/news/scammers-expose-facebook-data-13/)
-- [Black Screen After MacBook Pro Update to macOS Big Sur](https://discussions.apple.com/thread/252040614)
+- [Ok Google: please publish your DKIM secret keys](https://blog.cryptographyengineering.com/2020/11/16/ok-google-please-publish-your-dkim-secret-keys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
