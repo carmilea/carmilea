@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio Is Hiring a Senior Product Manager and Senior Engineers](https://www.tesorio.com/careers#job-openings)
+- [Researchers’ AI aligns sheet music with MIDI audio](https://venturebeat.com/2020/07/22/researchers-ai-aligns-sheet-music-with-midi-audio/)
+- [Sweden bans public events of more than eight people](https://www.thelocal.se/20201116/breaking-sweden-introduces-limit-of-eight-coronavirus)
 - [Reverse engineering a forgotten 1970s Intel dual core beast: 8271, a new ISA](https://scarybeastsecurity.blogspot.com/2020/11/reverse-engineering-forgotten-1970s.html)
-- [What Gödel Discovered](https://stopa.io/post/269)
-- [Benefits of Domain-Driven Design in Nuxt Apps](https://vueschool.io/articles/vuejs-tutorials/domain-driven-design-in-nuxt-apps/)
-- [Strava raises $110M, growth rate of 2M new users per month in 2020](https://techcrunch.com/2020/11/16/strava-raises-110-million-touts-growth-rate-of-2-million-new-users-per-month-in-2020/)
-- [Big no on Big Sur: Mullvad disallows Apple apps to bypass firewall](https://mullvad.net/en/blog/2020/11/16/big-no-big-sur-mullvad-disallows-apple-apps-bypass-firewall/)
+- [Twitter names famed hacker 'Mudge' as head of security](https://www.reuters.com/article/idUSKBN27W2MB)
 <!-- BLOG-POST-LIST:END -->
 
 ---
