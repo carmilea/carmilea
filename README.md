@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Italian Police Use Lamborghini to Transport Donor Kidney 300 Miles in Two Hours](https://jalopnik.com/italian-police-use-lamborghini-to-transport-donor-kidne-1845674197)
+- [The Basque-Icelandic Pidgin](https://en.wikipedia.org/wiki/Basque–Icelandic_pidgin)
+- [Italian police use Lamborghini to transport donor kidney 300 miles in two hours](https://jalopnik.com/italian-police-use-lamborghini-to-transport-donor-kidne-1845674197)
+- [Apple Responds to macOS Privacy Concerns, Explains Why Apps Were Slow to Launch](https://www.iphoneincanada.ca/mac/apple-responds-to-macos-privacy-concerns-explains-why-apps-were-slow-to-launch/)
+- [Only 17% of Consumers Believe Personalized Ads Are Ethical (2019)](https://www.forbes.com/sites/johnkoetsier/2019/02/09/83-of-consumers-believe-personalized-ads-are-morally-wrong-survey-says/)
 - [Safely open apps on your Mac](https://support.apple.com/en-us/HT202491)
-- [A woman who is allergic to water (2016)](https://www.bbc.com/future/article/20160915-the-woman-who-is-allergic-to-water)
-- [RCEP, the world’s biggest trade agreement](https://www.economist.com/finance-and-economics/2020/11/15/the-meaning-of-rcep-the-worlds-biggest-trade-agreement)
-- [What distinguishes great software engineers? [pdf]](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
