@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Crew-1](https://www.youtube.com/watch?v=bnChQbxLkkI&resubmit=1)
+- [Bay Area applicants flood program that pays them $10k to leave California](https://www.sfgate.com/living-in-sf/article/San-Franciscans-are-jumping-at-an-offer-of-10k-15591762.php)
+- [Show HN: 15FPS to 60FPS, new GPU real-time flow-based method](https://www.youtube.com/watch?v=lqtqmP46LaA)
 - [Norwegian Covid-19 contact tracing app banned by the Data Protection Authority](https://blog.runbox.com/2020/10/the-norwegian-covid-19-contact-tracing-app-is-banned-by-the-data-protection-authority/)
-- [30% of world GDP signed a trade agreement yesterday](https://www.smh.com.au/world/asia/mega-free-trade-deal-a-lifeline-for-australia-china-relations-20201112-p56dx8.html)
-- [Objective reasons to prefer Linux over Windows](https://github.com/nbeaver/why-linux-is-better)
-- [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
-- [The True Size Of Countries (Mercator projection)](https://thetruesize.com/)
+- [Apple Silicon M1 Emulating x86 Is Still Faster Than Every Other Mac](https://www.macrumors.com/2020/11/15/m1-chip-emulating-x86-benchmark/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
