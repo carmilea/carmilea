@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving a Golang project from panics to errors. Wouldnt wish this on my enemies.](https://www.dolthub.com/blog/2020-11-16-panics-to-errors/)
+- [Apple Silicon M1 Chips and Docker](https://www.docker.com/blog/apple-silicon-m1-chips-and-docker/)
 - [CareRev (YC S16) Is Hiring a People Operations Manager](https://grnh.se/e66c35f63us)
-- [Show HN: I created a user interview template](https://www.userinterviewexchange.com/blog/user-interview-template)
 - [Headlamp: a new UI for Kubernetes](https://kinvolk.io/blog/2020/11/shining-a-light-on-the-kubernetes-user-experience-with-headlamp/)
 - [High Performance Individuals and Teams](https://pablasso.com/high-performance-individuals-and-teams/)
-- [Show HN: Text-to-podcast: Repurpose any content into podcasts](https://www.narratedbypoise.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
