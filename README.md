@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reusable development containers with Docker Compose and Dip](https://evilmartians.com/chronicles/reusable-development-containers-with-docker-compose-and-dip)
-- [Watch Live: Tech CEOs Zuckerberg, Dorsey Testify Before Senate [video]](https://thehill.com/video/senate/526278-watch-live-tech-ceos-zuckerberg-and-dorsey-testify-before-senate)
-- [Apple MacBook Pro with M1 Review](https://www.theverge.com/21570497/apple-macbook-pro-2020-m1-review)
-- [Best aspects of C language](https://blog.joren.ga/programming/best-of-c)
-- [2020 Mac Mini – Putting Apple Silicon M1 To The Test](https://www.anandtech.com/show/16252/mac-mini-apple-m1-tested)
+- [Servo’s New Home](https://blog.servo.org/2020/11/17/servo-home/)
+- [Hemingway App makes your writing bold and clear](http://www.hemingwayapp.com)
+- [Show HN: Nnn – the unorthodox terminal file manager](https://github.com/jarun/nnn)
+- [Emojis paved the way for UTF-8 everywhere](https://developers.ibexa.co/blog/emojis-paved-the-way-for-utf-8-everywhere)
+- [A brief history of enterprise data challenges](https://hassenchaieb.com/data-challenges-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
