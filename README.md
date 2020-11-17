@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox 83 introduces HTTPS-Only Mode](https://blog.mozilla.org/security/2020/11/17/firefox-83-introduces-https-only-mode/)
-- [In India a software engineer is imprisoned for automating forms on website](https://www.huffingtonpost.in/entry/s-yuvarajaa-super-tatkal-pro-irctc-train-ticket-booking_in_5fb25d5cc5b6d8781808f6ab)
-- [“You Have Zero Privacy” Says Internal Royal Canadian Mounted Police Presentation](https://thetyee.ca/News/2020/11/16/You-Have-Zero-Privacy-RCMP-Web-Spying/)
-- [Mux (YC W16) is hiring a developer to work on open source video players](https://mux.com/jobs?hnj=player)
-- [Covid Took My Grandfather. But It Wasn’t What Killed Him](https://www.thecut.com/article/covid-deaths-injustice.html)
+- [Why do Covid-19 deaths in Sweden always appear to decrease](https://ourworldindata.org/covid-sweden-death-reporting)
+- [Getting Started with Ansible](https://steampunk.si/blog/getting-started-with-ansible/)
+- [How Browsers Work (2012)](https://taligarsiel.com/Projects/howbrowserswork1.htm)
+- [Apple hits back at European activist complaints against tracking tool](https://www.reuters.com/article/idUSKBN27W0J1)
+- [Graphics for JVM](https://tonsky.me/blog/skija/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
