@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon launches Amazon Pharmacy for prescription medicine delivery](https://www.theverge.com/2020/11/17/21571091/amazon-pharmacy-store-launch-home-delivery-prescription-medication)
-- [Calmcode – Video Tutorials for Modern Ideas and Open Source Tools](https://calmcode.io/)
-- [1% of people cause half of global aviation emissions](https://www.theguardian.com/business/2020/nov/17/people-cause-global-aviation-emissions-study-covid-19)
-- [Show HN: Free utility to change macOS Big Sur menu bar color](https://github.com/igorkulman/ChangeMenuBarColor)
-- [Impraise (YC S14) is hiring a UX Copywriter (part-time)](https://jobs.impraise.com/o/ux-copywriter-freelancer-parttime-16hweek-3-months)
+- [Reusable development containers with Docker Compose and Dip](https://evilmartians.com/chronicles/reusable-development-containers-with-docker-compose-and-dip)
+- [Watch Live: Tech CEOs Zuckerberg, Dorsey Testify Before Senate [video]](https://thehill.com/video/senate/526278-watch-live-tech-ceos-zuckerberg-and-dorsey-testify-before-senate)
+- [Apple MacBook Pro with M1 Review](https://www.theverge.com/21570497/apple-macbook-pro-2020-m1-review)
+- [Best aspects of C language](https://blog.joren.ga/programming/best-of-c)
+- [2020 Mac Mini – Putting Apple Silicon M1 To The Test](https://www.anandtech.com/show/16252/mac-mini-apple-m1-tested)
 <!-- BLOG-POST-LIST:END -->
 
 ---
