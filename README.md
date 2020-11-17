@@ -54,8 +54,8 @@
 - [CareRev (YC S16) Is Hiring a People Operations Manager](https://grnh.se/e66c35f63us)
 - [Show HN: I created a user interview template](https://www.userinterviewexchange.com/blog/user-interview-template)
 - [Headlamp: a new UI for Kubernetes](https://kinvolk.io/blog/2020/11/shining-a-light-on-the-kubernetes-user-experience-with-headlamp/)
+- [High Performance Individuals and Teams](https://pablasso.com/high-performance-individuals-and-teams/)
 - [Show HN: Text-to-podcast: Repurpose any content into podcasts](https://www.narratedbypoise.com/)
-- [Essay: How do you describe TikTok?](https://kylechayka.substack.com/p/essay-how-do-you-describe-tiktok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
