@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Glue Work as a Software Engineer](https://noidea.dog/glue)
-- [What’s expected of us (2005)](https://www.nature.com/articles/436150a)
-- [Cutter – Free and Open Source Re Platform Powered by Radare2](https://cutter.re/)
-- [Open source security tools list](https://github.com/Penetrum-Security/Security-List)
-- [Improving on QBasic's Random Number Generator](https://nullprogram.com/blog/2020/11/17/)
+- [Mux (YC W16) is hiring a developer to work on open source video players](https://mux.com/jobs?hnj=player)
+- [New powerful malware obfuscation technique](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9186656)
+- [Ik.me: a free email address for life developed and hosted in Switzerland](https://www.infomaniak.com/en/free-email)
+- [Being Glue](https://noidea.dog/glue)
+- [China attacks fishing boats in conquest of South China Sea](https://www.latimes.com/world-nation/story/2020-11-12/china-attacks-fishing-boats-in-conquest-of-south-china-sea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
