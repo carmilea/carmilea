@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why do Covid-19 deaths in Sweden always appear to decrease](https://ourworldindata.org/covid-sweden-death-reporting)
+- [Impraise (YC S14) is hiring a UX Copywriter (part-time)](https://jobs.impraise.com/o/ux-copywriter-freelancer-parttime-16hweek-3-months)
 - [Getting Started with Ansible](https://steampunk.si/blog/getting-started-with-ansible/)
 - [How Browsers Work (2012)](https://taligarsiel.com/Projects/howbrowserswork1.htm)
 - [Apple hits back at European activist complaints against tracking tool](https://www.reuters.com/article/idUSKBN27W0J1)
