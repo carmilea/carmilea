@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Twelve70 - Men's outfit generator and closet management](https://www.twelve70.com/)
+- [Heuristics and performance bounds for automated design](https://arxiv.org/abs/2011.08002)
 - [16-inch MBP with i9 2x slower than M1 MacBook Air in a real world Rust compile](https://twitter.com/rikarends/status/1328598935380910082)
 - [SafeButler (YC S17) is hiring an engineer and a UX designer](https://www.safebutler.com/careers)
-- [Servo’s new home](https://blog.servo.org/2020/11/17/servo-home/)
-- [Hemingway Editor](http://www.hemingwayapp.com)
-- [Show HN: Nnn – the unorthodox terminal file manager](https://github.com/jarun/nnn)
+- [South Dakota nurse says many dying patients still insist Covid-19 'not real'](https://thehill.com/homenews/state-watch/526204-south-dakota-nurse-says-many-dying-patients-still-insist-covid-19-not)
 <!-- BLOG-POST-LIST:END -->
 
 ---
