@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Postal Service Data Suggests Significant Population Decline in San Francisco](https://www.publiccommentsf.com/post/u-s-postal-service-data-suggests-significant-population-decline-in-san-francisco)
+- [Linux's Stateless H.264 Decode Interface Ready to Be Deemed Stable](https://www.phoronix.com/scan.php?page=news_item&px=Stateless-H264-Out-Of-Staging)
 - [Show HN: Twelve70 - Men's outfit generator and closet management](https://www.twelve70.com/)
-- [Heuristics and performance bounds for automated design](https://arxiv.org/abs/2011.08002)
-- [16-inch MBP with i9 2x slower than M1 MacBook Air in a real world Rust compile](https://twitter.com/rikarends/status/1328598935380910082)
-- [SafeButler (YC S17) is hiring an engineer and a UX designer](https://www.safebutler.com/careers)
-- [South Dakota nurse says many dying patients still insist Covid-19 'not real'](https://thehill.com/homenews/state-watch/526204-south-dakota-nurse-says-many-dying-patients-still-insist-covid-19-not)
+- [Tab throttling and more performance improvements in Chrome M87](https://blog.chromium.org/2020/11/tab-throttling-and-more-performance.html)
+- [We can do better than DuckDuckGo](https://drewdevault.com/2020/11/17/Better-than-DuckDuckGo.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
