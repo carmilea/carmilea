@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [General availability of a new UI for Kubernetes: Headlamp](https://kinvolk.io/blog/2020/11/shining-a-light-on-the-kubernetes-user-experience-with-headlamp/)
+- [Show HN: Text-to-podcast: Repurpose any content into podcasts](https://www.narratedbypoise.com/)
 - [Essay: How do you describe TikTok?](https://kylechayka.substack.com/p/essay-how-do-you-describe-tiktok)
 - [K0s – Zero Friction Kubernetes](https://github.com/k0sproject/k0s)
 - [Airbnb S-1](https://www.sec.gov/Archives/edgar/data/1559720/000119312520294801/d81668ds1.htm)
-- [Caltech Awards 10,000th PhD Degree](https://www.caltech.edu/about/news/caltech-awards-10000th-phd-degree-during-october-conferral-students-impacted-pandemic)
-- [Google Cloud SQL now supports PostgreSQL 13](https://cloud.google.com/blog/products/databases/cloud-sql-database-service-adds-postgresql-13)
 <!-- BLOG-POST-LIST:END -->
 
 ---
