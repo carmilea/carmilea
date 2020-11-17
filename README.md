@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [30% Faster Rust Build Times using Cranelift Instead of the LLVM](https://github.com/rust-lang/rust/pull/77975)
+- [30% Faster Rust Build Times using Cranelift instead of the LLVM](https://github.com/rust-lang/rust/pull/77975)
 - [A Software Tester's Perspective on Statistical Learning Theory](http://mitchgordon.me/ml/2020/11/05/statistical-learning-theory-testing.html)
 - [Rabbet (YC S17) Is Hiring Software Engineers (US Remote/Austin)](https://apply.workable.com/rabbet)
-- [Brow.sh](https://www.brow.sh/)
+- [Brow.sh: a modern text-based browser](https://www.brow.sh/)
 - [Linux's Stateless H.264 Decode Interface Ready to Be Deemed Stable](https://www.phoronix.com/scan.php?page=news_item&px=Stateless-H264-Out-Of-Staging)
 <!-- BLOG-POST-LIST:END -->
 
