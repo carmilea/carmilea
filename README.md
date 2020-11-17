@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Early access to Proton Drive is here](https://protonmail.com/blog/proton-drive-early-access/)
+- [Show HN: Free utility to change macOS Big Sur menu bar color](https://github.com/igorkulman/ChangeMenuBarColor)
 - [Impraise (YC S14) is hiring a UX Copywriter (part-time)](https://jobs.impraise.com/o/ux-copywriter-freelancer-parttime-16hweek-3-months)
 - [Getting Started with Ansible](https://steampunk.si/blog/getting-started-with-ansible/)
-- [How Browsers Work (2012)](https://taligarsiel.com/Projects/howbrowserswork1.htm)
-- [Apple hits back at European activist complaints against tracking tool](https://www.reuters.com/article/idUSKBN27W0J1)
-- [Graphics for JVM](https://tonsky.me/blog/skija/)
+- [Show HN: New Explainable AI Algorithms](https://wagtaillabs.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
