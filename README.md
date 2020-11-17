@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Glue Work as a Software Engineer](https://noidea.dog/glue)
 - [What’s expected of us (2005)](https://www.nature.com/articles/436150a)
 - [Cutter – Free and Open Source Re Platform Powered by Radare2](https://cutter.re/)
-- [FBI: GRU Hackers on Most Wanted list for international cyber attacks](https://www.fbi.gov/wanted/cyber/gru-hackers-destructive-malware-and-international-cyber-attacks)
+- [Open source security tools list](https://github.com/Penetrum-Security/Security-List)
 - [Improving on QBasic's Random Number Generator](https://nullprogram.com/blog/2020/11/17/)
-- [Good / Bad Product Manager](https://wildbit.com/good-bad/product-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
