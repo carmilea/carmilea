@@ -54,8 +54,8 @@
 - [Mux (YC W16) is hiring a developer to work on open source video players](https://mux.com/jobs?hnj=player)
 - [New powerful malware obfuscation technique](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9186656)
 - [Ik.me: a free email address for life developed and hosted in Switzerland](https://www.infomaniak.com/en/free-email)
-- [Being Glue](https://noidea.dog/glue)
-- [China attacks fishing boats in conquest of South China Sea](https://www.latimes.com/world-nation/story/2020-11-12/china-attacks-fishing-boats-in-conquest-of-south-china-sea)
+- [Show HN: Dev community that lets you blog on your domain for free](https://hashnode.com)
+- [The Nine Phases of an Open Source Project Maintainer](https://nibblestew.blogspot.com/2020/11/the-nine-phases-of-open-source-project.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
