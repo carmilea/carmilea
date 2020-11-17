@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Postal Service Data Suggests Significant Population Decline in San Francisco](https://www.publiccommentsf.com/post/u-s-postal-service-data-suggests-significant-population-decline-in-san-francisco)
+- [Rabbet (YC S17) Is Hiring Software Engineers (US Remote/Austin)](https://apply.workable.com/rabbet)
+- [US Postal Service data suggests significant population decline in San Francisco](https://www.publiccommentsf.com/post/u-s-postal-service-data-suggests-significant-population-decline-in-san-francisco)
 - [Linux's Stateless H.264 Decode Interface Ready to Be Deemed Stable](https://www.phoronix.com/scan.php?page=news_item&px=Stateless-H264-Out-Of-Staging)
 - [Show HN: Twelve70 - Men's outfit generator and closet management](https://www.twelve70.com/)
 - [Tab throttling and more performance improvements in Chrome M87](https://blog.chromium.org/2020/11/tab-throttling-and-more-performance.html)
-- [We can do better than DuckDuckGo](https://drewdevault.com/2020/11/17/Better-than-DuckDuckGo.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
