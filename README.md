@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moving a Golang project from panics to errors. Wouldnt wish this on my enemies.](https://www.dolthub.com/blog/2020-11-16-panics-to-errors/)
-- [Apple Silicon M1 Chips and Docker](https://www.docker.com/blog/apple-silicon-m1-chips-and-docker/)
-- [CareRev (YC S16) Is Hiring a People Operations Manager](https://grnh.se/e66c35f63us)
-- [Headlamp: a new UI for Kubernetes](https://kinvolk.io/blog/2020/11/shining-a-light-on-the-kubernetes-user-experience-with-headlamp/)
-- [High Performance Individuals and Teams](https://pablasso.com/high-performance-individuals-and-teams/)
+- [What’s expected of us (2005)](https://www.nature.com/articles/436150a)
+- [Cutter – Free and Open Source Re Platform Powered by Radare2](https://cutter.re/)
+- [FBI: GRU Hackers on Most Wanted list for international cyber attacks](https://www.fbi.gov/wanted/cyber/gru-hackers-destructive-malware-and-international-cyber-attacks)
+- [Improving on QBasic's Random Number Generator](https://nullprogram.com/blog/2020/11/17/)
+- [Good / Bad Product Manager](https://wildbit.com/good-bad/product-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
