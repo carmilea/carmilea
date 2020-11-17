@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [General availability of a new UI for Kubernetes: Headlamp](https://kinvolk.io/blog/2020/11/shining-a-light-on-the-kubernetes-user-experience-with-headlamp/)
+- [CareRev (YC S16) Is Hiring a People Operations Manager](https://grnh.se/e66c35f63us)
+- [Show HN: I created a user interview template](https://www.userinterviewexchange.com/blog/user-interview-template)
+- [Headlamp: a new UI for Kubernetes](https://kinvolk.io/blog/2020/11/shining-a-light-on-the-kubernetes-user-experience-with-headlamp/)
 - [Show HN: Text-to-podcast: Repurpose any content into podcasts](https://www.narratedbypoise.com/)
 - [Essay: How do you describe TikTok?](https://kylechayka.substack.com/p/essay-how-do-you-describe-tiktok)
-- [K0s – Zero Friction Kubernetes](https://github.com/k0sproject/k0s)
-- [Airbnb S-1](https://www.sec.gov/Archives/edgar/data/1559720/000119312520294801/d81668ds1.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
