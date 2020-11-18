@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenSSL Is Written by Monkeys](https://www.peereboom.us/assl/assl/html/openssl.html)
+- [FDA Authorizes first at home Covid test](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-covid-19-test-self-testing-home)
+- [The Math of Password Hashing Algorithms and Entropy (2019)](https://fusionauth.io/learn/expert-advice/security/math-of-password-hashing-algorithms-entropy/)
+- [Write Code Like You Write a Recipe](https://ahungry.com/blog/2020-11-17-Write-Code-Like-You-Write-a-Recipe.html)
+- [Making GitHub CI workflow 3x faster](https://github.blog/2020-10-29-making-github-ci-workflow-3x-faster/)
 - [Not Just Nuclear: Families are elders long buried and generations yet unborn](https://www.plough.com/en/topics/justice/social-justice/immigration/not-just-nuclear)
-- [AWS Network Firewall – New Managed Firewall Service in VPC](https://aws.amazon.com/blogs/aws/aws-network-firewall-new-managed-firewall-service-in-vpc/)
-- [World of Warcraft 9.0.2 client runs natively on Apple Silicon](https://us.forums.blizzard.com/en/wow/t/mac-support-update-november-16/722775)
-- [Run x86 Apps (including homebrew) in the Terminal on Apple Silicon](https://www.notion.so/Run-x86-Apps-including-homebrew-in-the-Terminal-on-Apple-Silicon-8350b43d97de4ce690f283277e958602)
 <!-- BLOG-POST-LIST:END -->
 
 ---
