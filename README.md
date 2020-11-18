@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What is the best money you have spent on professional development?](https://news.ycombinator.com/item?id=25136258)
+- [Will Apple M1 mean better support for Raspberry Pi?](https://news.ycombinator.com/item?id=25136028)
 - [Sweeps (YC W20) Is Hiring a Senior Front-End Engineer](https://sweeps.ai/senior-frontend-engineer.pdf)
 - [Six Months of Tiny Projects](https://tinyprojects.dev/posts/six_months_of_tiny_projects)
 - [Apple Announces App Store Small Business Program](https://www.apple.com/newsroom/2020/11/apple-announces-app-store-small-business-program/)
-- [UI design for software developers. Part 1, Colors](http://amortizedcost.net/ui-desing-for-software-developer-part-1/)
-- [A React library to design Diagrams with ease](https://github.com/antonioru/beautiful-react-diagrams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
