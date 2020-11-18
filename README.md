@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Not Just Nuclear: Families are elders long buried and generations yet unborn](https://www.plough.com/en/topics/justice/social-justice/immigration/not-just-nuclear)
+- [World of Warcraft patch 9.0.2: native Apple Silicon support](https://us.forums.blizzard.com/en/wow/t/mac-support-update-november-16/722775)
 - [Run x86 Apps (including homebrew) in the Terminal on Apple Silicon](https://www.notion.so/Run-x86-Apps-including-homebrew-in-the-Terminal-on-Apple-Silicon-8350b43d97de4ce690f283277e958602)
-- [Krebsonsecurity.com has an expired SSL certificate](https://krebsonsecurity.com/)
 - [US Navy destroyer shoots down an ICBM in milestone test](https://www.defensenews.com/naval/2020/11/17/us-navy-destroyer-shoots-down-an-icbm-in-milestone-test/)
 - [DeepSource (YC W20) Is Hiring Front-End Engineers in India (Remote)](https://deepsource.io/jobs/senior-frontend-engineer-platform-in/)
-- [The Rise and Fall of Getting Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done)
 <!-- BLOG-POST-LIST:END -->
 
 ---
