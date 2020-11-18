@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Opvia (YC S20) Is Hiring Founding Engineers in London](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
+- [Pine64 November Update: KDE PinePhone CE and a Peek into the Future](https://www.pine64.org/2020/11/15/november-update-kde-pinephone-ce-and-a-peek-into-the-future/)
 - [Ramanujan's Easiest Formula](https://johncarlosbaez.wordpress.com/2020/11/18/ramanujans-easiest-formula/)
-- [FDA authorizes first at-home Covid test](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-covid-19-test-self-testing-home)
-- [The Math of Password Hashing Algorithms and Entropy (2019)](https://fusionauth.io/learn/expert-advice/security/math-of-password-hashing-algorithms-entropy/)
-- [Write Code Like You Write a Recipe](https://ahungry.com/blog/2020-11-17-Write-Code-Like-You-Write-a-Recipe.html)
-- [Making GitHub CI workflow 3x faster](https://github.blog/2020-10-29-making-github-ci-workflow-3x-faster/)
+- [FDA authorizes first Covid-19 test for self-testing at home](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-covid-19-test-self-testing-home)
+- [40 Millisecond Bug](https://vorner.github.io/2020/11/06/40-ms-bug.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
