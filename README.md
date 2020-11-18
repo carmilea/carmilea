@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spying with Your Robot Vacuum Cleaner: Eavesdropping via Lidar Sensors [pdf]](https://www.cs.umd.edu/~nirupam/images/2_publication/papers/LidarPhone_SenSys20_nirupam.pdf)
-- [Show HN: Podcast API](https://www.listennotes.com/api/)
-- [Dropbox saved $75M over two years by building its own infrastructure (2018)](https://www.geekwire.com/2018/dropbox-saved-almost-75-million-two-years-building-tech-infrastructure/)
-- [Help English learners achieve their full potential at Cambly (YC W14)](https://jobs.cambly.com/?utm_source=hackernewsjobs&utm_medium=organic&utm_campaign=20201117)
-- [Show HN: *scratch*.js – Interactive JavaScript Scratchpad](https://hole.dev/scratch/)
+- [Open EMR](https://www.open-emr.org/)
+- [Easily Identify Malicious Servers on the Internet with JARM](https://engineering.salesforce.com/easily-identify-malicious-servers-on-the-internet-with-jarm-e095edac525a)
+- [Open-sourcing FioSynth, an I/O benchmark tool for data center workloads](https://engineering.fb.com/2020/11/18/open-source/fiosynth/)
+- [Google moves into Venmo, banks’ territory with checking accounts](https://www.cnbc.com/2020/11/18/google-moves-into-venmo-and-banking-turf-with-checking-account-app.html)
+- [TailwindCSS v2.0](https://blog.tailwindcss.com/tailwindcss-v2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
