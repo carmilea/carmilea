@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Radio I/Q Data for Dummies](http://whiteboard.ping.se/SDR/IQ)
 - [Sony basically removed 25 years of history from PlayStation.com](https://delistedgames.com/sony-basically-removed-25-years-of-history-from-playstation-com/)
+- [Tough Qs to ask your remote employer who gives Cost Of Living based compensation](https://www.nityesh.com/equal-pay-for-equal-work-at-a-remote-company/)
 - [Britain to ban new petrol cars and vans by 2030 on road to net zero emissions](https://www.reuters.com/article/us-climate-change-britain/britain-to-ban-new-petrol-cars-and-vans-by-2030-on-road-to-net-zero-emissions-idUSKBN27X2Z0)
 - [DEA Pursues Vast Expansion of Patient Surveillance](https://filtermag.org/dea-expand-patient-surveillance/)
-- [Opvia (YC S20) Is Hiring Founding Engineers in London](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
