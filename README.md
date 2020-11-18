@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump says he fired top cybersecurity official Christopher Krebs](https://www.axios.com/trump-fires-cybersecurity-christopher-krebs-fa03f026-1acb-4669-8e76-38f13307f7bd.html)
+- [Firefox Nightly supports Apple silicon natively](https://bugzilla.mozilla.org/show_bug.cgi?id=1648496#c2)
+- [Unbound DNS Blacklist](https://vermaden.wordpress.com/2020/11/18/unbound-dns-blacklist/)
+- [The genetic structure of SARS‐CoV‐2 does not rule out a laboratory origin](https://onlinelibrary.wiley.com/doi/10.1002/bies.202000240)
 - [30% Faster Rust Build Times using Cranelift instead of the LLVM](https://github.com/rust-lang/rust/pull/77975)
-- [A Software Tester's Perspective on Statistical Learning Theory](http://mitchgordon.me/ml/2020/11/05/statistical-learning-theory-testing.html)
-- [Rabbet (YC S17) Is Hiring Software Engineers (US Remote/Austin)](https://apply.workable.com/rabbet)
-- [Brow.sh: a modern text-based browser](https://www.brow.sh/)
-- [Linux's Stateless H.264 Decode Interface Ready to Be Deemed Stable](https://www.phoronix.com/scan.php?page=news_item&px=Stateless-H264-Out-Of-Staging)
 <!-- BLOG-POST-LIST:END -->
 
 ---
