@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Britain to ban new petrol cars and vans by 2030 on road to net zero emissions](https://www.reuters.com/article/us-climate-change-britain/britain-to-ban-new-petrol-cars-and-vans-by-2030-on-road-to-net-zero-emissions-idUSKBN27X2Z0)
+- [DEA Pursues Vast Expansion of Patient Surveillance](https://filtermag.org/dea-expand-patient-surveillance/)
 - [Opvia (YC S20) Is Hiring Founding Engineers in London](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
 - [Pine64 November Update: KDE PinePhone CE and a Peek into the Future](https://www.pine64.org/2020/11/15/november-update-kde-pinephone-ce-and-a-peek-into-the-future/)
 - [Ramanujan's Easiest Formula](https://johncarlosbaez.wordpress.com/2020/11/18/ramanujans-easiest-formula/)
-- [FDA authorizes first Covid-19 test for self-testing at home](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-covid-19-test-self-testing-home)
-- [40 Millisecond Bug](https://vorner.github.io/2020/11/06/40-ms-bug.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
