@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: What is the best money you have spent on professional development?](https://news.ycombinator.com/item?id=25136258)
+- [Boeing 737 Max Is Cleared by FAA to Resume Flights](https://www.nytimes.com/2020/11/18/business/boeing-737-max-faa.html)
 - [Will Apple M1 mean better support for Raspberry Pi?](https://news.ycombinator.com/item?id=25136028)
+- [Pfizer and BioNTech Conclude Phase 3 Study of Covid-19 Vaccine Candidate](https://investors.biontech.de/news-releases/news-release-details/pfizer-and-biontech-conclude-phase-3-study-covid-19-vaccine)
 - [Sweeps (YC W20) Is Hiring a Senior Front-End Engineer](https://sweeps.ai/senior-frontend-engineer.pdf)
-- [Six Months of Tiny Projects](https://tinyprojects.dev/posts/six_months_of_tiny_projects)
-- [Apple Announces App Store Small Business Program](https://www.apple.com/newsroom/2020/11/apple-announces-app-store-small-business-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
