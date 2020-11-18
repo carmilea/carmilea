@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Podcast API](https://www.listennotes.com/api/)
+- [Dropbox saved $75M over 2 years with its own infrastructure (2018)](https://www.geekwire.com/2018/dropbox-saved-almost-75-million-two-years-building-tech-infrastructure/)
 - [Help English learners achieve their full potential at Cambly (YC W14)](https://jobs.cambly.com/?utm_source=hackernewsjobs&utm_medium=organic&utm_campaign=20201117)
+- [Show HN: *scratch*.js – Interactive JavaScript Scratchpad](https://hole.dev/scratch/)
 - [Lambda Fellows](https://lambdaschool.com/lambda-fellows)
-- [Free and liberated e-books, carefully produced for the true book lover](https://standardebooks.org/)
-- [Writing a technical book: from idea to print](https://sararobinson.dev/2020/11/17/writing-a-technical-book.html)
-- [Ask HN: How to Get Rid of Impostor Syndrome?](https://news.ycombinator.com/item?id=25138029)
 <!-- BLOG-POST-LIST:END -->
 
 ---
