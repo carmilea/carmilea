@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to better ventilate your home](https://www.theatlantic.com/health/archive/2020/09/diy-ventilation-home-pandemic/616150/)
+- [AMD Radeon RX 6800 and RX 6800 XT Review](https://www.overclock3d.net/reviews/gpu_displays/amd_radeon_rx_6800_and_rx_6800_xt_review/1)
+- [M1 Mac Mini Teardown](https://egpu.io/forums/desktop-computing/teardown-late-2020-mac-mini-apple-silicon-m1-thunderbolt-4-usb4-pcie-4/)
 - [Ask HN: What is the best money you have spent on professional development?](https://news.ycombinator.com/item?id=25136258)
-- [Boeing 737 Max Is Cleared by FAA to Resume Flights](https://www.nytimes.com/2020/11/18/business/boeing-737-max-faa.html)
-- [Will Apple M1 mean better support for Raspberry Pi?](https://news.ycombinator.com/item?id=25136028)
 - [Pfizer and BioNTech Conclude Phase 3 Study of Covid-19 Vaccine Candidate](https://investors.biontech.de/news-releases/news-release-details/pfizer-and-biontech-conclude-phase-3-study-covid-19-vaccine)
-- [Sweeps (YC W20) Is Hiring a Senior Front-End Engineer](https://sweeps.ai/senior-frontend-engineer.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
