@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FDA Authorizes first at home Covid test](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-covid-19-test-self-testing-home)
+- [Ramanujan's Easiest Formula](https://johncarlosbaez.wordpress.com/2020/11/18/ramanujans-easiest-formula/)
+- [FDA authorizes first at-home Covid test](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-covid-19-test-self-testing-home)
 - [The Math of Password Hashing Algorithms and Entropy (2019)](https://fusionauth.io/learn/expert-advice/security/math-of-password-hashing-algorithms-entropy/)
 - [Write Code Like You Write a Recipe](https://ahungry.com/blog/2020-11-17-Write-Code-Like-You-Write-a-Recipe.html)
 - [Making GitHub CI workflow 3x faster](https://github.blog/2020-10-29-making-github-ci-workflow-3x-faster/)
-- [Not Just Nuclear: Families are elders long buried and generations yet unborn](https://www.plough.com/en/topics/justice/social-justice/immigration/not-just-nuclear)
 <!-- BLOG-POST-LIST:END -->
 
 ---
