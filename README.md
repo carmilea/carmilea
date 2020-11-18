@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fond (YC W12) Is Hiring Software Development Engineer in Test (SDET)](https://jobs.lever.co/fond/796724b5-fda2-415b-908c-1015bdc8dbbd)
+- [How to evaluate a cybersecurity vendor's ML claims](https://twitter.com/joshua_saxe/status/1328834270723452928)
+- [The “Eat What You Kill” execution strategy (2015)](https://webtide.com/eat-what-you-kill/)
+- [Vue vs React: Best Choice for Startups](https://swimm.io/blog/vue-vs-react-best-choice-for-startups/)
 - [Open EMR](https://www.open-emr.org/)
-- [Easily Identify Malicious Servers on the Internet with JARM](https://engineering.salesforce.com/easily-identify-malicious-servers-on-the-internet-with-jarm-e095edac525a)
-- [Open-sourcing FioSynth, an I/O benchmark tool for data center workloads](https://engineering.fb.com/2020/11/18/open-source/fiosynth/)
-- [Google moves into Venmo, banks’ territory with checking accounts](https://www.cnbc.com/2020/11/18/google-moves-into-venmo-and-banking-turf-with-checking-account-app.html)
-- [TailwindCSS v2.0](https://blog.tailwindcss.com/tailwindcss-v2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
