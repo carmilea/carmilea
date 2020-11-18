@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sweeps (YC W20) Is Hiring a Senior Front-End Engineer](https://sweeps.ai/senior-frontend-engineer.pdf)
+- [Six Months of Tiny Projects](https://tinyprojects.dev/posts/six_months_of_tiny_projects)
 - [Apple Announces App Store Small Business Program](https://www.apple.com/newsroom/2020/11/apple-announces-app-store-small-business-program/)
 - [UI design for software developers. Part 1, Colors](http://amortizedcost.net/ui-desing-for-software-developer-part-1/)
-- [I/Q Data for Dummies](http://whiteboard.ping.se/SDR/IQ)
-- [Sony basically removed 25 years of history from PlayStation.com](https://delistedgames.com/sony-basically-removed-25-years-of-history-from-playstation-com/)
-- [Tough Qs to ask your remote employer who gives Cost Of Living based compensation](https://www.nityesh.com/equal-pay-for-equal-work-at-a-remote-company/)
+- [A React library to design Diagrams with ease](https://github.com/antonioru/beautiful-react-diagrams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
