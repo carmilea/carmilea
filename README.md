@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Run x86 Apps (including homebrew) in the Terminal on Apple Silicon](https://www.notion.so/Run-x86-Apps-including-homebrew-in-the-Terminal-on-Apple-Silicon-8350b43d97de4ce690f283277e958602)
+- [Krebsonsecurity.com has an expired SSL certificate](https://krebsonsecurity.com/)
+- [US Navy destroyer shoots down an ICBM in milestone test](https://www.defensenews.com/naval/2020/11/17/us-navy-destroyer-shoots-down-an-icbm-in-milestone-test/)
 - [DeepSource (YC W20) Is Hiring Front-End Engineers in India (Remote)](https://deepsource.io/jobs/senior-frontend-engineer-platform-in/)
-- [Firefox Nightly supports Apple silicon natively](https://bugzilla.mozilla.org/show_bug.cgi?id=1648496#c2)
-- [Unbound DNS Blacklist](https://vermaden.wordpress.com/2020/11/18/unbound-dns-blacklist/)
-- [The Makeup of the CCP Elite](http://chinadatalab.ucsd.edu/viz-blog/the-makeup-of-the-ccp-elite/)
-- [30% Faster Rust Build Times using Cranelift instead of the LLVM](https://github.com/rust-lang/rust/pull/77975)
+- [The Rise and Fall of Getting Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done)
 <!-- BLOG-POST-LIST:END -->
 
 ---
