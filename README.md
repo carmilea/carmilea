@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Help English learners achieve their full potential at Cambly (YC W14)](https://jobs.cambly.com/?utm_source=hackernewsjobs&utm_medium=organic&utm_campaign=20201117)
+- [Lambda Fellows](https://lambdaschool.com/lambda-fellows)
 - [Free and liberated e-books, carefully produced for the true book lover](https://standardebooks.org/)
-- [Programming Language Fragility](https://cancel.fm/blog/2019-11/language-fragility/)
-- [Update to Git changes the default of init.defaultBranch to main](https://lore.kernel.org/git/pull.762.git.1605221038.gitgitgadget@gmail.com/)
-- [Five AI failures you need to know before starting AI project](https://thinkml.ai/five-biggest-failures-of-ai-projects-reason-to-fail/)
-- [How to better ventilate your home](https://www.theatlantic.com/health/archive/2020/09/diy-ventilation-home-pandemic/616150/)
+- [Writing a technical book: from idea to print](https://sararobinson.dev/2020/11/17/writing-a-technical-book.html)
+- [Ask HN: How to Get Rid of Impostor Syndrome?](https://news.ycombinator.com/item?id=25138029)
 <!-- BLOG-POST-LIST:END -->
 
 ---
