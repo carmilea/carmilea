@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Radio I/Q Data for Dummies](http://whiteboard.ping.se/SDR/IQ)
+- [Apple Announces App Store Small Business Program](https://www.apple.com/newsroom/2020/11/apple-announces-app-store-small-business-program/)
+- [UI design for software developers. Part 1, Colors](http://amortizedcost.net/ui-desing-for-software-developer-part-1/)
+- [I/Q Data for Dummies](http://whiteboard.ping.se/SDR/IQ)
 - [Sony basically removed 25 years of history from PlayStation.com](https://delistedgames.com/sony-basically-removed-25-years-of-history-from-playstation-com/)
 - [Tough Qs to ask your remote employer who gives Cost Of Living based compensation](https://www.nityesh.com/equal-pay-for-equal-work-at-a-remote-company/)
-- [Britain to ban new petrol cars and vans by 2030 on road to net zero emissions](https://www.reuters.com/article/us-climate-change-britain/britain-to-ban-new-petrol-cars-and-vans-by-2030-on-road-to-net-zero-emissions-idUSKBN27X2Z0)
-- [DEA Pursues Vast Expansion of Patient Surveillance](https://filtermag.org/dea-expand-patient-surveillance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
