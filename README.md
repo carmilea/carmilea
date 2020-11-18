@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump says he fired top cybersecurity official Christopher Krebs](https://www.axios.com/trump-fires-cybersecurity-christopher-krebs-fa03f026-1acb-4669-8e76-38f13307f7bd.html)
+- [DeepSource (YC W20) Is Hiring Front-End Engineers in India (Remote)](https://deepsource.io/jobs/senior-frontend-engineer-platform-in/)
 - [Firefox Nightly supports Apple silicon natively](https://bugzilla.mozilla.org/show_bug.cgi?id=1648496#c2)
 - [Unbound DNS Blacklist](https://vermaden.wordpress.com/2020/11/18/unbound-dns-blacklist/)
-- [The genetic structure of SARS‐CoV‐2 does not rule out a laboratory origin](https://onlinelibrary.wiley.com/doi/10.1002/bies.202000240)
+- [The Makeup of the CCP Elite](http://chinadatalab.ucsd.edu/viz-blog/the-makeup-of-the-ccp-elite/)
 - [30% Faster Rust Build Times using Cranelift instead of the LLVM](https://github.com/rust-lang/rust/pull/77975)
 <!-- BLOG-POST-LIST:END -->
 
