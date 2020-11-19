@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Sunshine](https://sunshine.com/introducing-sunshine/)
+- [As internet forums die off, finding community can be harder than ever](https://www.engadget.com/2020-02-27-internet-forums-dying-off.html)
 - [A Ray of Hope: Array Programming for the 21st Century [video]](https://www.youtube.com/watch?v=x1FoTYnJxeY)
 - [Using GANs to Create Fantastical Creatures](https://ai.googleblog.com/2020/11/using-gans-to-create-fantastical.html)
 - [Leveraging ML Compute for Accelerated Training on Mac](https://machinelearning.apple.com/updates/ml-compute-training-on-mac)
