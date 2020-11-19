@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Kernel Module: A Debugging Nightmare](https://reberhardt.com/blog/2020/11/18/my-first-kernel-module.html)
-- [Show HN: Building a VLC Media Player in JavaScript (Using Ffmpeg = WebAssembly)](https://bestmediaplayer.org/)
-- [Vodka is a creative coding environment for creative writers (LISP)](https://github.com/eeeeaaii/vodka)
-- [The Mysterious Appeal of a Labyrinth](https://www.bbc.com/culture/article/20201118-the-mysterious-appeal-of-a-labyrinth)
-- [1MB Club](https://1mb.club/)
+- [Windows Subsystem for Linux: The lost potential](https://jmmv.dev/2020/11/wsl-lost-potential.html)
+- [OneSignal (Messaging and Push Notification APIs) is hiring a back end engineer](https://onesignal.com/careers/90cfa84c-5d78-47e8-a3f3-5cbaddd0ca89)
+- [Flash Animations Live Forever at the Internet Archive](http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive/)
+- [Writing a Postgres Foreign Data Wrapper for Clickhouse in Go](https://arunsori.me/posts/postgres-clickhouse-fdw-in-go/)
+- [Information Overload Helps Fake News Spread, and Social Media Knows It](https://www.scientificamerican.com/article/information-overload-helps-fake-news-spread-and-social-media-knows-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
