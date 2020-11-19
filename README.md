@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Replicate (YC W20) – Version control for machine learning](https://replicate.ai/)
-- [Announcing Rust 1.48.0](https://blog.rust-lang.org/2020/11/19/Rust-1.48)
-- [Rust 1.48](https://blog.rust-lang.org/2020/11/19/Rust-1.48.html)
-- [Timing for bringing page experience to Google Search](https://developers.google.com/search/blog/2020/11/timing-for-page-experience)
-- [M1 Macs Review](https://sixcolors.com/post/2020/11/m1-macs-review/)
+- [We Are Looking for a Recruiting Manager. Teleport (YC S15)](https://jobs.lever.co/gravitational/15325c7f-9d13-4d29-9951-12e2897dedc7)
+- [Famed Arecibo telescope, on the brink of collapse, will be dismantled](https://www.sciencemag.org/news/2020/11/famed-arecibo-telescope-brink-collapse-will-be-dismantled)
+- [A pure JavaScript implementation of Git for Node and browsers](https://github.com/isomorphic-git/isomorphic-git)
+- [The SEC “Modernizes” the Accredited Investor Definition](https://talkinsaasy.com/blog/the-sec-modernizes-the-accredited-investor-definition)
+- [Full text search on 400M US court cases](https://www.judyrecords.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
