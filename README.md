@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CDC advises Americans not to travel for Thanksgiving](https://www.axios.com/cdc-thanksgiving-travel-coronavirus-spread-48170cf3-8121-4bb5-bd37-2ddb507cdb55.html)
-- [Show HN: 1MB Club](https://1mb.club/)
+- [The number of people dying is not the same as in any other year](https://fullfact.org/health/coronavirus-figures-talk-radio/)
+- [Vodka is a creative coding environment for creative writers (LISP)](https://github.com/eeeeaaii/vodka)
+- [The Mysterious Appeal of a Labyrinth](https://www.bbc.com/culture/article/20201118-the-mysterious-appeal-of-a-labyrinth)
+- [1MB Club](https://1mb.club/)
 - [Jackie Chan's Best Advice](https://www.weedonandscott.com/blog/post/jackie-chan-best-advice/)
-- [We Are Looking for a Recruiting Manager. Teleport (YC S15)](https://jobs.lever.co/gravitational/15325c7f-9d13-4d29-9951-12e2897dedc7)
-- [Famed Arecibo telescope, on the brink of collapse, will be dismantled](https://www.sciencemag.org/news/2020/11/famed-arecibo-telescope-brink-collapse-will-be-dismantled)
 <!-- BLOG-POST-LIST:END -->
 
 ---
