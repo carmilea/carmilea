@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Publishers may finally be able to ditch AMP as Google faces antitrust scrutiny](https://themarkup.org/google-the-giant/2020/11/19/as-antitrust-pressure-mounts-google-to-pull-back-benefit-to-news-sites-that-adopted-its-preferred-mobile-technology)
+- [M1 Macs Review: The Next Generation](https://sixcolors.com/post/2020/11/m1-macs-review/)
+- [YouTube Will Now Show Ads on All Videos Even If Creators Don’t Want Them](https://www.forbes.com/sites/johnkoetsier/2020/11/18/youtube-will-now-show-ads-on-all-videos-even-if-creators-dont-want-them/)
+- [Beirut Port Explosion – Investigation Video](https://forensic-architecture.org/investigation/beirut-port-explosion)
 - [InfluxData (InfluxDB) is hiring Rust and columnar database programmers (remote)](https://boards.greenhouse.io/influxdb/jobs/2447843?gh_src=da842a8d1us)
-- [Mozilla DNS over HTTPS (DoH) and Trusted Recursive Resolver (TRR) Comment Period](https://blog.mozilla.org/netpolicy/2020/11/18/doh-comment-period-2020/)
-- [Notepad++ 7.9.1 – pour Samuel Paty](https://notepad-plus-plus.org/news/v791-pour-samuel-paty/)
-- [Pic – Light and Glory over Crete](https://misspellede.com/us/light-and-glory-over-crete/)
-- [Funkwhale is looking for new maintainers](https://blog.funkwhale.audio/~/Announcements/funkwhale-is-looking-for-new-maintainers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
