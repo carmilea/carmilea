@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Funkwhale is looking for new maintainers](https://blog.funkwhale.audio/~/Announcements/funkwhale-is-looking-for-new-maintainers/)
+- [Man Becomes Overnight Millionaire After Meteorite Crashes Through His Roof](https://www.ndtv.com/offbeat/man-becomes-overnight-millionaire-after-meteorite-crashes-through-his-roof-2327321?pfrom=home-lateststories)
+- [Google Publishes Latest Linux Patches So Only Trusted Tasks Share a Core](https://www.phoronix.com/scan.php?page=news_item&px=Google-Core-Scheduling-v9)
 - [Show HN: Zfs.rent](https://zfs.rent)
-- [My Beef with RuboCop](https://www.rubypigeon.com/posts/my-beef-with-rubocop/)
-- [Huawei ML Kit – Integration of Scene Detection-Huawei Developer](https://forums.developer.huawei.com/forumPortal/en/topic/0204400184662360088)
-- [Archive of Lisp Machine, Inc](https://github.com/jrm-code-project/LISP-Machine)
-- [Backblaze S3 API is having some downtime](https://s3.us-west-002.backblazeb2.com)
+- [GCompris Celebrates 20 Years](https://gcompris.net/index-en.html#2020-11-19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
