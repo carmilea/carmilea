@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Publishers may finally be able to ditch AMP as Google faces antitrust scrutiny](https://themarkup.org/google-the-giant/2020/11/19/as-antitrust-pressure-mounts-google-to-pull-back-benefit-to-news-sites-that-adopted-its-preferred-mobile-technology)
-- [M1 Macs Review: The Next Generation](https://sixcolors.com/post/2020/11/m1-macs-review/)
+- [Rust 1.48](https://blog.rust-lang.org/2020/11/19/Rust-1.48.html)
+- [Google will reduce preferential treatment for AMP content](https://themarkup.org/google-the-giant/2020/11/19/as-antitrust-pressure-mounts-google-to-pull-back-benefit-to-news-sites-that-adopted-its-preferred-mobile-technology)
+- [M1 Macs Review](https://sixcolors.com/post/2020/11/m1-macs-review/)
 - [YouTube Will Now Show Ads on All Videos Even If Creators Don’t Want Them](https://www.forbes.com/sites/johnkoetsier/2020/11/18/youtube-will-now-show-ads-on-all-videos-even-if-creators-dont-want-them/)
-- [Beirut Port Explosion – Investigation Video](https://forensic-architecture.org/investigation/beirut-port-explosion)
-- [InfluxData (InfluxDB) is hiring Rust and columnar database programmers (remote)](https://boards.greenhouse.io/influxdb/jobs/2447843?gh_src=da842a8d1us)
+- [Beirut Port Explosion](https://forensic-architecture.org/investigation/beirut-port-explosion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
