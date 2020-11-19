@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Replicate (YC W20) – Version control for machine learning](https://replicate.ai/)
+- [Announcing Rust 1.48.0](https://blog.rust-lang.org/2020/11/19/Rust-1.48)
 - [Rust 1.48](https://blog.rust-lang.org/2020/11/19/Rust-1.48.html)
-- [Google will reduce preferential treatment for AMP content](https://themarkup.org/google-the-giant/2020/11/19/as-antitrust-pressure-mounts-google-to-pull-back-benefit-to-news-sites-that-adopted-its-preferred-mobile-technology)
+- [Timing for bringing page experience to Google Search](https://developers.google.com/search/blog/2020/11/timing-for-page-experience)
 - [M1 Macs Review](https://sixcolors.com/post/2020/11/m1-macs-review/)
-- [YouTube Will Now Show Ads on All Videos Even If Creators Don’t Want Them](https://www.forbes.com/sites/johnkoetsier/2020/11/18/youtube-will-now-show-ads-on-all-videos-even-if-creators-dont-want-them/)
-- [Beirut Port Explosion](https://forensic-architecture.org/investigation/beirut-port-explosion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
