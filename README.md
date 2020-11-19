@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving Away from Travis CI](https://ropensci.org/technotes/2020/11/19/moving-away-travis/)
+- [Roblox S-1](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)
 - [Windows Subsystem for Linux: The lost potential](https://jmmv.dev/2020/11/wsl-lost-potential.html)
 - [OneSignal (Messaging and Push Notification APIs) is hiring a back end engineer](https://onesignal.com/careers/90cfa84c-5d78-47e8-a3f3-5cbaddd0ca89)
 - [Flash Animations Live Forever at the Internet Archive](http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive/)
-- [Tiny liquid droplets are driving a cell biology rethink](https://knowablemagazine.org/article/living-world/2020/what-is-liquid-liquid-phase-separation)
-- [Writing a Postgres Foreign Data Wrapper for Clickhouse in Go](https://arunsori.me/posts/postgres-clickhouse-fdw-in-go/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
