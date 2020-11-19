@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CDC advises Americans not to travel for Thanksgiving](https://www.axios.com/cdc-thanksgiving-travel-coronavirus-spread-48170cf3-8121-4bb5-bd37-2ddb507cdb55.html)
+- [Show HN: 1MB Club](https://1mb.club/)
+- [Jackie Chan's Best Advice](https://www.weedonandscott.com/blog/post/jackie-chan-best-advice/)
 - [We Are Looking for a Recruiting Manager. Teleport (YC S15)](https://jobs.lever.co/gravitational/15325c7f-9d13-4d29-9951-12e2897dedc7)
 - [Famed Arecibo telescope, on the brink of collapse, will be dismantled](https://www.sciencemag.org/news/2020/11/famed-arecibo-telescope-brink-collapse-will-be-dismantled)
-- [A pure JavaScript implementation of Git for Node and browsers](https://github.com/isomorphic-git/isomorphic-git)
-- [The SEC “Modernizes” the Accredited Investor Definition](https://talkinsaasy.com/blog/the-sec-modernizes-the-accredited-investor-definition)
-- [Full text search on 400M US court cases](https://www.judyrecords.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
