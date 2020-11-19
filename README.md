@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [As internet forums die off, finding community can be harder than ever](https://www.engadget.com/2020-02-27-internet-forums-dying-off.html)
-- [A Ray of Hope: Array Programming for the 21st Century [video]](https://www.youtube.com/watch?v=x1FoTYnJxeY)
-- [Using GANs to Create Fantastical Creatures](https://ai.googleblog.com/2020/11/using-gans-to-create-fantastical.html)
-- [Leveraging ML Compute for Accelerated Training on Mac](https://machinelearning.apple.com/updates/ml-compute-training-on-mac)
-- [RPC DRAM support in open source DRAM controller](https://antmicro.com/blog/2020/10/rpc-dram-support-in-litedram/)
+- [Show HN: Zfs.rent](https://zfs.rent)
+- [My Beef with RuboCop](https://www.rubypigeon.com/posts/my-beef-with-rubocop/)
+- [Huawei ML Kit – Integration of Scene Detection-Huawei Developer](https://forums.developer.huawei.com/forumPortal/en/topic/0204400184662360088)
+- [Archive of Lisp Machine, Inc](https://github.com/jrm-code-project/LISP-Machine)
+- [Backblaze S3 API is having some downtime](https://s3.us-west-002.backblazeb2.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
