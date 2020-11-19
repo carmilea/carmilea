@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gilad Bracha, “Array Programming for the 21st Century”](https://www.youtube.com/watch?v=x1FoTYnJxeY)
+- [Gilad Bracha, “Array Programming for the 21st Century” [video]](https://www.youtube.com/watch?v=x1FoTYnJxeY)
 - [Using GANs to Create Fantastical Creatures](https://ai.googleblog.com/2020/11/using-gans-to-create-fantastical.html)
 - [Leveraging ML Compute for Accelerated Training on Mac](https://machinelearning.apple.com/updates/ml-compute-training-on-mac)
 - [RPC DRAM support in open source DRAM controller](https://antmicro.com/blog/2020/10/rpc-dram-support-in-litedram/)
