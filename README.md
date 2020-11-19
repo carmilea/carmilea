@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Relationship Hero (YC S17) Is Hiring Full-Time Virtual Relationship Coaches](https://relationshiphero.com/careers?role=coach)
-- [Power-cycling a USB port should be simple, right? (2017)](https://laforge.gnumonks.org/blog/20170524-usb-port-powercycle/)
 - [DisneyMustPay Alan Dean Foster](https://www.sfwa.org/2020/11/18/disney-must-pay/)
 - [Chrome ‘Bug’ Exempts Google Cookies from Data Privacy Settings](https://hfet.org/chrome-bug-exempts-google-cookies-from-data-privacy-settings/)
 - [Affirm Public S-1 Filing](https://www.sec.gov/Archives/edgar/data/1820953/000110465920126927/tm2026663-4_s1.htm)
+- [Apple Agrees to Pay $113M to Settle 'Batterygate' Case over iPhone Slowdowns](https://text.npr.org/936268845)
 <!-- BLOG-POST-LIST:END -->
 
 ---
