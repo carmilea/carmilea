@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [InfluxData (InfluxDB) is hiring Rust and columnar database programmers (remote)](https://boards.greenhouse.io/influxdb/jobs/2447843?gh_src=da842a8d1us)
+- [Mozilla DNS over HTTPS (DoH) and Trusted Recursive Resolver (TRR) Comment Period](https://blog.mozilla.org/netpolicy/2020/11/18/doh-comment-period-2020/)
+- [Notepad++ 7.9.1 – pour Samuel Paty](https://notepad-plus-plus.org/news/v791-pour-samuel-paty/)
+- [Pic – Light and Glory over Crete](https://misspellede.com/us/light-and-glory-over-crete/)
 - [Funkwhale is looking for new maintainers](https://blog.funkwhale.audio/~/Announcements/funkwhale-is-looking-for-new-maintainers/)
-- [Man Becomes Overnight Millionaire After Meteorite Crashes Through His Roof](https://www.ndtv.com/offbeat/man-becomes-overnight-millionaire-after-meteorite-crashes-through-his-roof-2327321?pfrom=home-lateststories)
-- [Google Publishes Latest Linux Patches So Only Trusted Tasks Share a Core](https://www.phoronix.com/scan.php?page=news_item&px=Google-Core-Scheduling-v9)
-- [Show HN: Zfs.rent](https://zfs.rent)
-- [GCompris Celebrates 20 Years](https://gcompris.net/index-en.html#2020-11-19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
