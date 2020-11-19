@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The number of people dying is not the same as in any other year](https://fullfact.org/health/coronavirus-figures-talk-radio/)
+- [My First Kernel Module: A Debugging Nightmare](https://reberhardt.com/blog/2020/11/18/my-first-kernel-module.html)
+- [Show HN: Building a VLC Media Player in JavaScript (Using Ffmpeg = WebAssembly)](https://bestmediaplayer.org/)
 - [Vodka is a creative coding environment for creative writers (LISP)](https://github.com/eeeeaaii/vodka)
 - [The Mysterious Appeal of a Labyrinth](https://www.bbc.com/culture/article/20201118-the-mysterious-appeal-of-a-labyrinth)
 - [1MB Club](https://1mb.club/)
-- [Jackie Chan's Best Advice](https://www.weedonandscott.com/blog/post/jackie-chan-best-advice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
