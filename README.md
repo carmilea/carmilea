@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RPC DRAM support in open source DRAM controller](https://antmicro.com/blog/2020/10/rpc-dram-support-in-litedram/)
+- [There hasn't been a leap second for a while](https://fanf.dreamwidth.org/133823.html)
+- [Changes to the pip dependency resolver in 20.3 (2020)](https://pip.pypa.io/en/latest/user_guide/#changes-to-the-pip-dependency-resolver-in-20-2-2020)
 - [Non-macOS operating systems can be booted on M1 Macs](https://support.apple.com/guide/mac-help/macos-recovery-a-mac-apple-silicon-mchl82829c17/11.0/mac/11.0#mchl9b13cbdc)
 - [Relationship Hero (YC S17) Is Hiring Full-Time Virtual Relationship Coaches](https://relationshiphero.com/careers?role=coach)
-- [DisneyMustPay Alan Dean Foster](https://www.sfwa.org/2020/11/18/disney-must-pay/)
-- [Chrome ‘Bug’ Exempts Google Cookies from Data Privacy Settings](https://hfet.org/chrome-bug-exempts-google-cookies-from-data-privacy-settings/)
-- [Affirm Public S-1 Filing](https://www.sec.gov/Archives/edgar/data/1820953/000110465920126927/tm2026663-4_s1.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
