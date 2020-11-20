@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Increase in Bitcoin Addresses as More People Join the BTC Price Surge](https://coincolony.net/increase-in-bitcoin-addresses-as-more-people-join-the-btc-price-surge/)
+- [A neural network learns when it should not be trusted](https://news.mit.edu/2020/neural-network-uncertainty-1120)
 - [SwiftNIO SSH](https://swift.org/blog/swiftnio-ssh/)
+- [Assassin’s Creed: Valhalla and the Unfortunate Implications](https://acoup.blog/2020/11/20/miscellanea-my-thoughts-on-assassins-creed-valhalla/)
 - [Electron 11.0 released with support for Apple Silicon](https://www.electronjs.org/blog/electron-11-0)
 - [An Introduction to ZFS](https://www.servethehome.com/an-introduction-to-zfs-a-place-to-start/)
-- [EXWM (Emacs X Window Manager)](https://github.com/ch11ng/exwm/wiki/Screenshots)
 <!-- BLOG-POST-LIST:END -->
 
 ---
