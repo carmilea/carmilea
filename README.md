@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Year of the Linux Desktop: Switching from MacBook to Linux](https://monadical.com/posts/moving-to-linux-desktop.html)
-- [Why are there so many cats in Istanbul?](https://www.legalnomads.com/istanbul-cats/)
-- [Hyperbaric oxygen therapy increases telomere length in isolated blood cells](https://www.aging-us.com/article/202188/text)
-- [Static Typing for Ruby: Adopting Sorbet at Scale](https://shopify.engineering/static-typing-ruby)
-- [Nbdev: A literate programming environment that democratizes best practices](https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/)
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Google to shut down Google Voice integration with classic Hangouts](https://support.google.com/hangouts/answer/3187125?hl=en)
+- [Facebook’s experimental hate-speech policy seems to be working](https://restofworld.org/2020/pressing-pause-on-fake-news-in-myanmar/)
+- [Is Apple Silicon Ready?](https://isapplesiliconready.com/)
+- [Moving from Macbook to Linux](https://monadical.com/posts/moving-to-linux-desktop.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
