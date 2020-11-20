@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building My Own LoneStar Electronics Mmdvm Hotspot](https://www.kj7nzl.net/blog/building-my-own-lonestar-electronics-mmdvm-hotspot/)
+- [Electron 11.0 released with support for Apple Silicon](https://www.electronjs.org/blog/electron-11-0)
+- [An Introduction to ZFS](https://www.servethehome.com/an-introduction-to-zfs-a-place-to-start/)
+- [EXWM (Emacs X Window Manager)](https://github.com/ch11ng/exwm/wiki/Screenshots)
 - [VkFFT – Vulkan Fast Fourier Transform library](https://github.com/dtolm/VkFFT)
-- [Dark Reader – enable Dark Mode on Wikipedia and many other websites](https://darkreader.org/)
-- [TypeScript 4.1](https://devblogs.microsoft.com/typescript/announcing-typescript-4-1/)
-- [PCalc for macOS](https://www.pcalc.com/mac/index.html)
-- [Starting January 4 Google will block sign-ins from embedded browser frameworks](https://lists.webkit.org/pipermail/webkit-dev/2020-November/031604.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
