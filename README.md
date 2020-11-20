@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Transitioning from Docker to Podman](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/)
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [Google to shut down Google Voice integration with classic Hangouts](https://support.google.com/hangouts/answer/3187125?hl=en)
-- [Facebook’s experimental hate-speech policy seems to be working](https://restofworld.org/2020/pressing-pause-on-fake-news-in-myanmar/)
+- [Job Site Hired, Once Valued at $500M, Discusses Winding Down](https://www.theinformation.com/articles/job-site-hired-once-valued-at-500-million-discusses-winding-down)
 - [Is Apple Silicon Ready?](https://isapplesiliconready.com/)
-- [Moving from Macbook to Linux](https://monadical.com/posts/moving-to-linux-desktop.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
