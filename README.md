@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [French Scientist Didier Raoult Given Rusty Razor Award For Pseudoscience](https://www.skeptic.org.uk/2020/11/french-scientist-didier-raoult-given-rusty-razor-award-for-pseudoscience/)
+- [Wish S-1](https://www.sec.gov/Archives/edgar/data/1822250/000119312520298630/d82777ds1.htm)
 - [YC runs Work at a Startup to help you find jobs at over 500 YC-vetted startups](https://www.workatastartup.com/)
 - [Pfizer submits Covid vaccine to FDA for approval, to distribute in December](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-submit-emergency-use-authorization)
-- [New binary artifact management tool](https://github.com/artipie/artipie)
-- [Dev Fonts](https://devfonts.gafi.dev/)
-- [Eight Years at Roblox](https://zeux.io/2020/08/02/eight-years-at-roblox/)
+- [HomePod has been jailbroken with checkra1n](https://yalujailbreak.net/homepod-checkra1n-jailbreak/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
