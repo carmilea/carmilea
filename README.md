@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YC runs Work at a Startup to help you find jobs at over 500 YC-vetted startups](https://www.workatastartup.com/)
+- [Pfizer submits Covid vaccine to FDA for approval, to distribute in December](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-submit-emergency-use-authorization)
+- [New binary artifact management tool](https://github.com/artipie/artipie)
 - [Dev Fonts](https://devfonts.gafi.dev/)
-- [James Dyson Award – International and Sustainability winners announced](https://www.jamesdysonaward.org/en-us/news/international-and-sustainability-winners-announced/)
-- [Artificial diamonds creation process generating lonsdaleite](https://newatlas.com/materials/scientists-rare-diamonds-minutes-room-temperature/)
-- [Cheap Router Table and Lift](https://www.splitbrain.org/blog/2020-11/17-cheap_router_table_lift)
-- [SwiftNIO SSH](https://swift.org/blog/swiftnio-ssh/)
+- [Eight Years at Roblox](https://zeux.io/2020/08/02/eight-years-at-roblox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
