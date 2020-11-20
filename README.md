@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [James Dyson Award 2020 winner invents cancer screening kit for home use](https://www.jamesdysonaward.org/en-us/news/international-and-sustainability-winners-announced/)
+- [Dev Fonts](https://devfonts.gafi.dev/)
+- [James Dyson Award – International and Sustainability winners announced](https://www.jamesdysonaward.org/en-us/news/international-and-sustainability-winners-announced/)
 - [Artificial diamonds creation process generating lonsdaleite](https://newatlas.com/materials/scientists-rare-diamonds-minutes-room-temperature/)
-- [Go standard library benchmarks – Intel vs. M1](https://roland.zone/m1-go-benchmarks/)
 - [Cheap Router Table and Lift](https://www.splitbrain.org/blog/2020-11/17-cheap_router_table_lift)
 - [SwiftNIO SSH](https://swift.org/blog/swiftnio-ssh/)
 <!-- BLOG-POST-LIST:END -->
