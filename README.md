@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [It's Here - the Future of Data Analytics](https://www.youtube.com/watch?v=Hvb93TOY1mU)
 - [An Introduction to SingleStore](https://www.youtube.com/watch?v=2B8ayWaCcQg)
 - [Improve Time to Market with Real-Time Analytics on Time-Series Data](https://www.youtube.com/watch?v=uCd34JSsluE)
 - [The Know Show: Pivoting with a Purpose](https://www.youtube.com/watch?v=6h4F3G4rrcU)
 - [Secure SingleStore with SSL](https://www.youtube.com/watch?v=5nejNHcKsao)
-- [From #Dashboards to #Fastboards with #SingleStore](https://www.youtube.com/watch?v=4jJotyPN6HQ)
 <!-- YOUTUBE:END -->
 
 
