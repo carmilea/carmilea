@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Building My Own LoneStar Electronics Mmdvm Hotspot](https://www.kj7nzl.net/blog/building-my-own-lonestar-electronics-mmdvm-hotspot/)
+- [Increase in Bitcoin Addresses as More People Join the BTC Price Surge](https://coincolony.net/increase-in-bitcoin-addresses-as-more-people-join-the-btc-price-surge/)
+- [SwiftNIO SSH](https://swift.org/blog/swiftnio-ssh/)
 - [Electron 11.0 released with support for Apple Silicon](https://www.electronjs.org/blog/electron-11-0)
 - [An Introduction to ZFS](https://www.servethehome.com/an-introduction-to-zfs-a-place-to-start/)
 - [EXWM (Emacs X Window Manager)](https://github.com/ch11ng/exwm/wiki/Screenshots)
-- [VkFFT – Vulkan Fast Fourier Transform library](https://github.com/dtolm/VkFFT)
 <!-- BLOG-POST-LIST:END -->
 
 ---
