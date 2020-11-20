@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The HubSpot Culture Code](https://network.hubspot.com/slides/the-hubspot-culture-code)
-- [Show HN: Lunatic – Actor System for Rust/WebAssembly](https://github.com/lunatic-lang/lunatic)
-- [The golden age of configuration languages](https://cosminilie.ro/posts/evolution-of-configuration-languages/)
-- [The Vale Programming Language](https://vale.dev/)
-- [Wish S-1](https://www.sec.gov/Archives/edgar/data/1822250/000119312520298630/d82777ds1.htm)
+- [Study identifies reasons for soaring nuclear plant cost overruns in the U.S.](https://news.mit.edu/2020/reasons-nuclear-overruns-1118)
+- [Symbolics, Inc.: A failure of heterogeneous engineering (2001) [pdf]](http://web.mit.edu/6.933/www/Symbolics.pdf)
+- [Sega VR Revived: Emulating an Unreleased Genesis Accessory](https://gamehistory.org/segavr/)
+- [Why We're Building Observable](https://observablehq.com/@observablehq/why-were-building-observable)
+- [I've now played with a Raspberry Pi 400 for a week and here are my conclusions](https://news.ycombinator.com/item?id=25161266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
