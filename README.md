@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Are There So Many Cats in Istanbul?](https://www.legalnomads.com/istanbul-cats/)
+- [NHS planning to start covid vaccination of under 50s by end of January](https://www.hsj.co.uk/coronavirus/exclusive-nhs-planning-to-start-covid-vaccination-of-under-50s-by-end-of-january/7029015.article)
+- [Static Typing for Ruby: Adopting Sorbet at Scale](https://shopify.engineering/static-typing-ruby)
 - [Nbdev: A literate programming environment that democratizes best practices](https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/)
-- [Dropbase (YC W20) Is Hiring Fullstack and Back End Engineers (Remote in Canada/US)](https://www.notion.so/Dropbase-Careers-17c94443158a49e3bff3487ed45b83eb)
-- [Show HN: SystemFlow – Like Tailwind, but for Webflow](https://systemflow.co)
-- [Study identifies reasons for soaring nuclear plant cost overruns in the U.S.](https://news.mit.edu/2020/reasons-nuclear-overruns-1118)
-- [Symbolics, Inc.: A failure of heterogeneous engineering (2001) [pdf]](http://web.mit.edu/6.933/www/Symbolics.pdf)
+- [Async communication: don't expect immediate answer, expect better answer](https://youteam.io/blog/hubstaffs-jared-brown-on-being-an-industry-leader-with-a-remote-team-spread-across-18-countries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
