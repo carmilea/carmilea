@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It is high time we let go of the Mersenne Twister](https://arxiv.org/abs/1910.06437)
+- [Optimizing Your Web App 100x Is Like Adding 99 Servers](https://lukerissacher.com/blog/optimizing_your_web_app)
+- [Opytimizer: Nature-Inspired Computation in Python](https://github.com/gugarosa/opytimizer)
 - [Transitioning from Docker to Podman](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/)
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Google to shut down Google Voice integration with classic Hangouts](https://support.google.com/hangouts/answer/3187125?hl=en)
-- [Job Site Hired, Once Valued at $500M, Discusses Winding Down](https://www.theinformation.com/articles/job-site-hired-once-valued-at-500-million-discusses-winding-down)
-- [Is Apple Silicon Ready?](https://isapplesiliconready.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
