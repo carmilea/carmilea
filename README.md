@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sniper rifles flowing to Mexican cartels show a decade of U.S. failure](https://www.washingtonpost.com/graphics/2020/world/mexico-losing-control/mexico-drug-cartels-sniper-rifles-us-gun-policy/)
 - [TypeScript 4.1](https://devblogs.microsoft.com/typescript/announcing-typescript-4-1/)
 - [PCalc for macOS](https://www.pcalc.com/mac/index.html)
 - [Starting January 4 Google will block sign-ins from embedded browser frameworks](https://lists.webkit.org/pipermail/webkit-dev/2020-November/031604.html)
 - [Moving Away from Travis CI](https://ropensci.org/technotes/2020/11/19/moving-away-travis/)
-- [Roblox S-1](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
