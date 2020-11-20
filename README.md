@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Are There So Many Cats in Istanbul?](https://www.legalnomads.com/istanbul-cats/)
-- [NHS planning to start covid vaccination of under 50s by end of January](https://www.hsj.co.uk/coronavirus/exclusive-nhs-planning-to-start-covid-vaccination-of-under-50s-by-end-of-january/7029015.article)
+- [The Year of the Linux Desktop: Switching from MacBook to Linux](https://monadical.com/posts/moving-to-linux-desktop.html)
+- [Why are there so many cats in Istanbul?](https://www.legalnomads.com/istanbul-cats/)
+- [Hyperbaric oxygen therapy increases telomere length in isolated blood cells](https://www.aging-us.com/article/202188/text)
 - [Static Typing for Ruby: Adopting Sorbet at Scale](https://shopify.engineering/static-typing-ruby)
 - [Nbdev: A literate programming environment that democratizes best practices](https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/)
-- [Async communication: don't expect immediate answer, expect better answer](https://youteam.io/blog/hubstaffs-jared-brown-on-being-an-industry-leader-with-a-remote-team-spread-across-18-countries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
