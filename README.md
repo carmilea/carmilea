@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nbdev: A literate programming environment that democratizes best practices](https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/)
 - [Dropbase (YC W20) Is Hiring Fullstack and Back End Engineers (Remote in Canada/US)](https://www.notion.so/Dropbase-Careers-17c94443158a49e3bff3487ed45b83eb)
+- [Show HN: SystemFlow – Like Tailwind, but for Webflow](https://systemflow.co)
 - [Study identifies reasons for soaring nuclear plant cost overruns in the U.S.](https://news.mit.edu/2020/reasons-nuclear-overruns-1118)
 - [Symbolics, Inc.: A failure of heterogeneous engineering (2001) [pdf]](http://web.mit.edu/6.933/www/Symbolics.pdf)
-- [Sega VR Revived: Emulating an Unreleased Genesis Accessory](https://gamehistory.org/segavr/)
-- [Why We're Building Observable](https://observablehq.com/@observablehq/why-were-building-observable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
