@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The HubSpot Culture Code](https://network.hubspot.com/slides/the-hubspot-culture-code)
 - [Show HN: Lunatic – Actor System for Rust/WebAssembly](https://github.com/lunatic-lang/lunatic)
+- [The golden age of configuration languages](https://cosminilie.ro/posts/evolution-of-configuration-languages/)
 - [The Vale Programming Language](https://vale.dev/)
-- [French Scientist Didier Raoult Given Rusty Razor Award For Pseudoscience](https://www.skeptic.org.uk/2020/11/french-scientist-didier-raoult-given-rusty-razor-award-for-pseudoscience/)
 - [Wish S-1](https://www.sec.gov/Archives/edgar/data/1822250/000119312520298630/d82777ds1.htm)
-- [YC runs Work at a Startup to help you find jobs at over 500 YC-vetted startups](https://www.workatastartup.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
