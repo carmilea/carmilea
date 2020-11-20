@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A neural network learns when it should not be trusted](https://news.mit.edu/2020/neural-network-uncertainty-1120)
-- [SwiftNIO SSH](https://swift.org/blog/swiftnio-ssh/)
-- [Assassin’s Creed: Valhalla and the Unfortunate Implications](https://acoup.blog/2020/11/20/miscellanea-my-thoughts-on-assassins-creed-valhalla/)
-- [Electron 11.0 released with support for Apple Silicon](https://www.electronjs.org/blog/electron-11-0)
-- [An Introduction to ZFS](https://www.servethehome.com/an-introduction-to-zfs-a-place-to-start/)
+- [James Dyson Award 2020 winner invents cancer screening kit for home use](https://www.jamesdysonaward.org/en-us/news/international-and-sustainability-winners-announced/)
+- [Artificial diamonds creation process generating lonsdaleite](https://newatlas.com/materials/scientists-rare-diamonds-minutes-room-temperature/)
+- [Go standard library benchmarks – Intel vs. M1](https://roland.zone/m1-go-benchmarks/)
+- [Cheap Router Table and Lift](https://www.splitbrain.org/blog/2020-11/17-cheap_router_table_lift)
+- [Spring-powered wheel claims to be ‘E-bike alternative at lower cost’](https://www.cyclingweekly.com/news/product-news/spring-powered-wheel-claims-to-be-e-bike-alternative-at-lower-cost-476421)
 <!-- BLOG-POST-LIST:END -->
 
 ---
