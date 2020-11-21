@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Winding down my Debian involvement](https://michael.stapelberg.ch/posts/2019-03-10-debian-winding-down/)
+- [I got rich on the other hand](https://sive.rs/richand)
+- [Ask HN: Have you picked any new skill from scratch, in your 40s or later?](https://news.ycombinator.com/item?id=25169621)
 - [Interpretation of confidence intervals and Bayesian credible intervals](https://thestatsgeek.com/2020/11/21/interpretation-of-frequentist-confidence-intervals-and-bayesian-credible-intervals/)
 - [Some Math Problems Seem Impossible. That Can Be a Good Thing](https://www.quantamagazine.org/some-math-problems-seem-impossible-that-can-be-a-good-thing-20201118/)
-- [Low parental income in childhood linked to increased risk of mental disorders](https://doi.org/10.1186/s12916-020-01794-5)
-- [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management)
-- [Field geology at Mars' equator points to ancient megaflood](https://phys.org/news/2020-11-field-geology-mars-equator-ancient.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
