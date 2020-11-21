@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Miss Working from the Office](https://www.roguelazer.com/2020/11/i-miss-working-from-the-office/)
 - [Mvp.css – build your landing page with only semantic HTML](https://andybrewer.github.io/mvp/)
 - [Show HN: Jupystar – Run any Jupyter notebook in the browser](https://starboard.gg/jupystar)
 - [Why do proof assistants use dependent type theory instead of set theory?](https://mathoverflow.net/questions/376839/what-makes-dependent-type-theory-more-suitable-than-set-theory-for-proof-assista)
 - [SQLite briefing for Linux kernel hackers](https://sqlite.org/lpc2019/doc/trunk/briefing.md)
-- [Cover Your Tracks](https://www.eff.org/deeplinks/2020/11/introducing-cover-your-tracks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
