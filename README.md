@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jan Morris Has Died](https://www.theguardian.com/books/2020/nov/20/jan-morris-historian-travel-writer-and-trans-pioneer-dies-aged-94)
+- [FTC commissioner met with Apple regarding Facebook’s iOS 14 complaints](https://www.myhealthyapple.com/etc-apple-facebook-ios14/)
 - [Scientists Uncover the Universal Geometry of Geology](https://www.quantamagazine.org/geometry-reveals-how-the-world-is-assembled-from-cubes-20201119/)
 - [I'm building a Minecraft clone in hardware, on a tiny FPGA with 143kb of RAM](https://twitter.com/nickmqb/status/1330195947050176517)
-- [In Praise of Chris Krebs](https://www.lawfareblog.com/praise-chris-krebs)
 - [Should I use SwiftUI in production? A code-to-code comparison to help you decide](https://triplebyte.com/blog/should-i-use-swiftui-in-production-heres-how-to-decide?ref=hnpost)
-- [GoDaddy Employees Used in Attacks on Multiple Cryptocurrency Services](https://krebsonsecurity.com/2020/11/godaddy-employees-used-in-attacks-on-multiple-cryptocurrency-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
