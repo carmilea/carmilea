@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X11 Library Sees Lots of Fixes with LibX11 1.7 Release](https://www.phoronix.com/scan.php?page=news_item&px=libX11-1.7.0-Released)
+- [Google to block less secure browsers and applications](https://developers.googleblog.com/2020/08/guidance-for-our-effort-to-block-less-secure-browser-and-apps.html)
 - [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
+- [Best of Next Computer System Collection](http://www.kevra.org/TheBestOfNext/index.html)
 - [Jan Morris Has Died](https://www.theguardian.com/books/2020/nov/20/jan-morris-historian-travel-writer-and-trans-pioneer-dies-aged-94)
-- [FTC commissioner met with Apple regarding Facebook’s iOS 14 complaints](https://www.myhealthyapple.com/etc-apple-facebook-ios14/)
-- [Scientists Uncover the Universal Geometry of Geology](https://www.quantamagazine.org/geometry-reveals-how-the-world-is-assembled-from-cubes-20201119/)
-- [I'm building a Minecraft clone in hardware, on a tiny FPGA with 143kb of RAM](https://twitter.com/nickmqb/status/1330195947050176517)
 <!-- BLOG-POST-LIST:END -->
 
 ---
