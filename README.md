@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mighty (Faster Chrome Streamed from the Cloud) Is Hiring Engineers](https://docs.google.com/document/u/0/d/18ff1YrETEf4RRbcR251j9hGLGdKQ52x65OzTGc5DWFI/)
+- [We are the Starlink team, ask us anything](https://www.reddit.com/r/Starlink/comments/jybmgn/we_are_the_starlink_team_ask_us_anything/)
+- [Ask HN: How do you stimulate your creativity on a day like today?](https://news.ycombinator.com/item?id=25170661)
+- [Production Oriented Development](https://paulosman.me/2019/12/30/production-oriented-development.html)
 - [Winding down my Debian involvement](https://michael.stapelberg.ch/posts/2019-03-10-debian-winding-down/)
-- [I got rich on the other hand](https://sive.rs/richand)
-- [Ask HN: Have you picked any new skill from scratch, in your 40s or later?](https://news.ycombinator.com/item?id=25169621)
-- [Interpretation of confidence intervals and Bayesian credible intervals](https://thestatsgeek.com/2020/11/21/interpretation-of-frequentist-confidence-intervals-and-bayesian-credible-intervals/)
-- [Some Math Problems Seem Impossible. That Can Be a Good Thing](https://www.quantamagazine.org/some-math-problems-seem-impossible-that-can-be-a-good-thing-20201118/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
