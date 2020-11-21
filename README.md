@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Cover Your Tracks](https://www.eff.org/deeplinks/2020/11/introducing-cover-your-tracks)
-- [It is high time we let go of the Mersenne Twister](https://arxiv.org/abs/1910.06437)
+- [It is high time we let go of the Mersenne Twister (2019)](https://arxiv.org/abs/1910.06437)
 - [Optimizing Your Web App 100x Is Like Adding 99 Servers](https://lukerissacher.com/blog/optimizing_your_web_app)
 - [Opytimizer: Nature-Inspired Computation in Python](https://github.com/gugarosa/opytimizer)
 - [Transitioning from Docker to Podman](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/)
