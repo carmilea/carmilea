@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mvp.css – build your landing page with only semantic HTML](https://andybrewer.github.io/mvp/)
+- [Show HN: Jupystar – Run any Jupyter notebook in the browser](https://starboard.gg/jupystar)
 - [Why do proof assistants use dependent type theory instead of set theory?](https://mathoverflow.net/questions/376839/what-makes-dependent-type-theory-more-suitable-than-set-theory-for-proof-assista)
+- [SQLite briefing for Linux kernel hackers](https://sqlite.org/lpc2019/doc/trunk/briefing.md)
 - [Why Use ECC? (2015)](https://danluu.com/why-ecc/)
-- [Cover Your Tracks](https://www.eff.org/deeplinks/2020/11/introducing-cover-your-tracks)
-- [It is high time we let go of the Mersenne Twister (2019)](https://arxiv.org/abs/1910.06437)
-- [Optimizing Your Web App 100x Is Like Adding 99 Servers](https://lukerissacher.com/blog/optimizing_your_web_app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
