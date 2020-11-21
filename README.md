@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management)
+- [Field geology at Mars' equator points to ancient megaflood](https://phys.org/news/2020-11-field-geology-mars-equator-ancient.html)
+- [Show HN: Create Slides with Plain Text](https://play.presenta.cc/)
 - [Our Immune System](https://berthub.eu/articles/posts/immune-system/)
 - [I Miss Working from the Office](https://www.roguelazer.com/2020/11/i-miss-working-from-the-office/)
-- [Mvp.css – build your landing page with only semantic HTML](https://andybrewer.github.io/mvp/)
-- [Show HN: Jupystar – Run any Jupyter notebook in the browser](https://starboard.gg/jupystar)
-- [Why do proof assistants use dependent type theory instead of set theory?](https://mathoverflow.net/questions/376839/what-makes-dependent-type-theory-more-suitable-than-set-theory-for-proof-assista)
 <!-- BLOG-POST-LIST:END -->
 
 ---
