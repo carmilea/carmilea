@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Some Math Problems Seem Impossible. That Can Be a Good Thing](https://www.quantamagazine.org/some-math-problems-seem-impossible-that-can-be-a-good-thing-20201118/)
 - [Low parental income in childhood linked to increased risk of mental disorders](https://doi.org/10.1186/s12916-020-01794-5)
 - [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management)
 - [Field geology at Mars' equator points to ancient megaflood](https://phys.org/news/2020-11-field-geology-mars-equator-ancient.html)
-- [ASCII Art in 1939 (Jun, 1939)](http://blog.modernmechanix.com/ascii-art-1939/)
-- [Show HN: Create Slides with Plain Text](https://play.presenta.cc/)
+- [ASCII Art in 1939](http://blog.modernmechanix.com/ascii-art-1939/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
