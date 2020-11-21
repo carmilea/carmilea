@@ -55,7 +55,7 @@
 - [It is high time we let go of the Mersenne Twister (2019)](https://arxiv.org/abs/1910.06437)
 - [Optimizing Your Web App 100x Is Like Adding 99 Servers](https://lukerissacher.com/blog/optimizing_your_web_app)
 - [Opytimizer: Nature-Inspired Computation in Python](https://github.com/gugarosa/opytimizer)
-- [Transitioning from Docker to Podman](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/)
+- [Test for Divisibility by 13](https://www.johndcook.com/blog/2020/11/10/test-for-divisibility-by-13/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
