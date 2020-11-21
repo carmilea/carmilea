@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Life Lessons from a 97-Year-Old Lobsterman (2019)](https://www.outsideonline.com/2401643/life-lessons-97-year-old-lobsterman)
+- [Startups: The Beginning](https://foundersatwork.posthaven.com/startups-the-very-beginning)
+- [Deep Frozen Arctic Microbes Are Waking Up](https://www.scientificamerican.com/article/deep-frozen-arctic-microbes-are-waking-up/)
+- [Show HN: WhatFeatures – Get rewarded for providing feedback on new features](http://www.Whatfeaturesdoyouwant.com)
 - [Mighty (Faster Chrome Streamed from the Cloud) Is Hiring Engineers](https://docs.google.com/document/u/0/d/18ff1YrETEf4RRbcR251j9hGLGdKQ52x65OzTGc5DWFI/)
-- [We are the Starlink team, ask us anything](https://www.reddit.com/r/Starlink/comments/jybmgn/we_are_the_starlink_team_ask_us_anything/)
-- [Ask HN: How do you stimulate your creativity on a day like today?](https://news.ycombinator.com/item?id=25170661)
-- [Production Oriented Development](https://paulosman.me/2019/12/30/production-oriented-development.html)
-- [Winding down my Debian involvement](https://michael.stapelberg.ch/posts/2019-03-10-debian-winding-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
