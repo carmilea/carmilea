@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Secret Vice (1931) [pdf]](http://faculty.smu.edu/bwheeler/tolkien/online_reader/T-ASecretVice.PDF)
 - [X11 Library Sees Lots of Fixes with LibX11 1.7 Release](https://www.phoronix.com/scan.php?page=news_item&px=libX11-1.7.0-Released)
-- [Google to block less secure browsers and applications](https://developers.googleblog.com/2020/08/guidance-for-our-effort-to-block-less-secure-browser-and-apps.html)
+- [iPad on Linux (Not Yet)](https://ipadlinux.org/)
+- [Guidance to developers affected by effort to block less secure browsers, apps](https://developers.googleblog.com/2020/08/guidance-for-our-effort-to-block-less-secure-browser-and-apps.html)
 - [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
-- [Best of Next Computer System Collection](http://www.kevra.org/TheBestOfNext/index.html)
-- [Jan Morris Has Died](https://www.theguardian.com/books/2020/nov/20/jan-morris-historian-travel-writer-and-trans-pioneer-dies-aged-94)
 <!-- BLOG-POST-LIST:END -->
 
 ---
