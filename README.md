@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Life Lessons from a 97-Year-Old Lobsterman (2019)](https://www.outsideonline.com/2401643/life-lessons-97-year-old-lobsterman)
-- [Startups: The Beginning](https://foundersatwork.posthaven.com/startups-the-very-beginning)
-- [Deep Frozen Arctic Microbes Are Waking Up](https://www.scientificamerican.com/article/deep-frozen-arctic-microbes-are-waking-up/)
-- [Show HN: WhatFeatures – Get rewarded for providing feedback on new features](http://www.Whatfeaturesdoyouwant.com)
-- [Mighty (Faster Chrome Streamed from the Cloud) Is Hiring Engineers](https://docs.google.com/document/u/0/d/18ff1YrETEf4RRbcR251j9hGLGdKQ52x65OzTGc5DWFI/)
+- [Scientists Uncover the Universal Geometry of Geology](https://www.quantamagazine.org/geometry-reveals-how-the-world-is-assembled-from-cubes-20201119/)
+- [I'm building a Minecraft clone in hardware, on a tiny FPGA with 143kb of RAM](https://twitter.com/nickmqb/status/1330195947050176517)
+- [In Praise of Chris Krebs](https://www.lawfareblog.com/praise-chris-krebs)
+- [Should I use SwiftUI in production? A code-to-code comparison to help you decide](https://triplebyte.com/blog/should-i-use-swiftui-in-production-heres-how-to-decide?ref=hnpost)
+- [GoDaddy Employees Used in Attacks on Multiple Cryptocurrency Services](https://krebsonsecurity.com/2020/11/godaddy-employees-used-in-attacks-on-multiple-cryptocurrency-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
