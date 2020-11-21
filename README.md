@@ -55,7 +55,7 @@
 - [Show HN: Jupystar – Run any Jupyter notebook in the browser](https://starboard.gg/jupystar)
 - [Why do proof assistants use dependent type theory instead of set theory?](https://mathoverflow.net/questions/376839/what-makes-dependent-type-theory-more-suitable-than-set-theory-for-proof-assista)
 - [SQLite briefing for Linux kernel hackers](https://sqlite.org/lpc2019/doc/trunk/briefing.md)
-- [Why Use ECC? (2015)](https://danluu.com/why-ecc/)
+- [Cover Your Tracks](https://www.eff.org/deeplinks/2020/11/introducing-cover-your-tracks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
