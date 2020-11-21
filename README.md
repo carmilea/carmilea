@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Low parental income in childhood linked to increased risk of mental disorders](https://doi.org/10.1186/s12916-020-01794-5)
 - [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management)
 - [Field geology at Mars' equator points to ancient megaflood](https://phys.org/news/2020-11-field-geology-mars-equator-ancient.html)
+- [ASCII Art in 1939 (Jun, 1939)](http://blog.modernmechanix.com/ascii-art-1939/)
 - [Show HN: Create Slides with Plain Text](https://play.presenta.cc/)
-- [Our Immune System](https://berthub.eu/articles/posts/immune-system/)
-- [I Miss Working from the Office](https://www.roguelazer.com/2020/11/i-miss-working-from-the-office/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
