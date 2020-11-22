@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Booting from a vinyl record](http://boginjr.com/it/sw/dev/vinyl-boot/)
+- [Brexit can best be understood as a civil war within capitalism](https://twitter.com/GeorgeMonbiot/status/1329701729328357379)
 - [CareRev (YC S16) Is Hiring a Senior Android Developer](https://news.ycombinator.com/item?id=25176784)
-- [YouTube storing cookies before you even give them permission to do so](https://news.ycombinator.com/item?id=25176720)
+- [Apple MacBook Pro 13” M1 Review- Why You Might Want to Pass](https://www.forbes.com/sites/patrickmoorhead/2020/11/21/apple-macbook-pro-13-m1-reviewwhy-you-might-want-to-pass/)
 - [Facebook Is Going After Its Critics in the Name of Privacy](https://www.wired.com/story/facebook-is-going-after-its-critics-in-the-name-of-privacy/)
-- [250kb Club](https://250kb.club)
-- [Show HN: pbcopy/pbpaste across machines via Gitlab Snippets](https://github.com/bradwood/glsnip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
