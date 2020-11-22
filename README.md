@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. retailer Guitar Center files for bankruptcy](https://www.reuters.com/article/BigStory12/idUSKBN282058)
-- [We Have No Idea What Happens Next](https://www.collaborativefund.com/blog/we-have-no-idea-what-happens-next/)
+- [To Understand How Science Denial Works, Look to History](https://www.scientificamerican.com/article/to-understand-how-science-denial-works-look-to-history/)
+- [Guitar Center files for bankruptcy](https://www.reuters.com/article/BigStory12/idUSKBN282058)
+- [What Makes a Great Product Manager](https://informedpm.com/posts/great-product-manager)
+- [We have no idea what happens next](https://www.collaborativefund.com/blog/we-have-no-idea-what-happens-next/)
 - [Show HN: Making Python one-liner-fit with the new pwk (Python With Kurly braces)](https://github.com/umlet/pwk)
-- [EasyPost (YC S13) Is Hiring to Take over ECommerce](https://www.easypost.com/careers)
-- [You Are the Product](https://www.lrb.co.uk/the-paper/v39/n16/john-lanchester/you-are-the-product)
 <!-- BLOG-POST-LIST:END -->
 
 ---
