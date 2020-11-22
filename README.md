@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit is slowly killing the old interface? native image galleries are invisible](https://old.reddit.com/r/nvidia/comments/jyg1jq/finished_the_build_a_pc_of_ice_and_fire/)
+- [Raytracing – In Excel [video]](https://www.youtube.com/watch?v=m28jJ7CMp8A)
+- [An Abandoned Mansion in NYC Raises Questions](https://www.hooch.net/an-abandoned-mansion-in-nyc-raises-questions)
 - [Pianists for Alternatively Sized Keyboards](http://paskpiano.org/about/)
 - [X11 Library Sees Lots of Fixes with LibX11 1.7 Release](https://www.phoronix.com/scan.php?page=news_item&px=libX11-1.7.0-Released)
 - [Linux on iPad](https://ipadlinux.org/)
-- [Guidance to developers affected by effort to block less secure browsers, apps](https://developers.googleblog.com/2020/08/guidance-for-our-effort-to-block-less-secure-browser-and-apps.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
