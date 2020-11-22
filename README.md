@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How big are your tablespoons?](https://news.ycombinator.com/item?id=25177360)
+- [Exotic Programming Ideas: Part 3 (Effect Systems)](https://www.stephendiehl.com/posts/exotic03.html)
+- [Before the Mayflower](https://www.historytoday.com/history-matters/mayflower)
+- [Human Ageing Reversed in ‘Holy Grail’ Study, Scientists Say](https://www.independent.co.uk/life-style/gadgets-and-tech/anti-ageing-reverse-treatment-telomeres-b1748067.html)
+- [Dolly Parton helped fund Moderna’s vaccine. It began with an unlikely friendship](https://www.washingtonpost.com/nation/2020/11/18/dolly-parton-moderna-vaccine-abumrad-covid/)
 - [The dubiousness of digitized signature services](https://blog.certisfy.com/2020/11/the-dubiousness-of-digitized-signature.html)
-- [When Science Was the Best Show in America](http://m.nautil.us/issue/93/forerunners/when-science-was-the-best-show-in-america)
-- [Building a roam-like, networked, heavily-customized realtime editor, part 1](https://namiwang.github.io/2020/11/12/building-a-roam-like-networked-heavily-customized-realtime-editor-part-1.html)
-- [When Tipping Was Considered Deeply Un-American (2015)](https://www.npr.org/sections/thesalt/2015/11/30/457125740/when-tipping-was-considered-deeply-un-american)
 <!-- BLOG-POST-LIST:END -->
 
 ---
