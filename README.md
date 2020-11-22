@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anti-Mask League of San Francisco](https://en.wikipedia.org/wiki/Anti-Mask_League_of_San_Francisco)
-- [Booting from a vinyl record](http://boginjr.com/it/sw/dev/vinyl-boot/)
-- [Asus Release Raspberry Pi Competitor Tinkerboard 2 and 2S](https://www.tomshardware.com/news/tinkerboard-2-and-tinkerboard-2s-announced)
-- [CareRev (YC S16) Is Hiring a Senior Android Developer](https://news.ycombinator.com/item?id=25176784)
-- [Facebook Is Going After Its Critics in the Name of Privacy](https://www.wired.com/story/facebook-is-going-after-its-critics-in-the-name-of-privacy/)
+- [Ask HN: How big are your tablespoons?](https://news.ycombinator.com/item?id=25177360)
+- [The dubiousness of digitized signature services](https://blog.certisfy.com/2020/11/the-dubiousness-of-digitized-signature.html)
+- [When Science Was the Best Show in America](http://m.nautil.us/issue/93/forerunners/when-science-was-the-best-show-in-america)
+- [Building a roam-like, networked, heavily-customized realtime editor, part 1](https://namiwang.github.io/2020/11/12/building-a-roam-like-networked-heavily-customized-realtime-editor-part-1.html)
+- [When Tipping Was Considered Deeply Un-American (2015)](https://www.npr.org/sections/thesalt/2015/11/30/457125740/when-tipping-was-considered-deeply-un-american)
 <!-- BLOG-POST-LIST:END -->
 
 ---
