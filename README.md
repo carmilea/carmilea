@@ -54,8 +54,8 @@
 - [Slapdash (YC W19), a unified interface for cloud apps, is hiring a lead designer](https://slapdash.com/about)
 - [A Novel Framework for Explaining Machine Learning Using Shapley Values](https://arxiv.org/abs/1909.08128)
 - [Guy builds bird feeder that accepts bottle caps for food. Magpies love it.](https://www.boredpanda.com/magpies-recycling-machine-bottle-caps/)
-- [Mark Zuckerberg's Ponzi Scheme](http://www.aarongreenspan.com/writing/20190723/mark-zuckerbergs-ponzi-scheme/)
-- [Casio F-91W: The strangely ubiquitous watch (2011)](https://www.bbc.com/news/magazine-13194733)
+- [A Month of Terraform](https://jeremywsherman.com/blog/2020/11/21/a-month-of-terraform/)
+- [We’re Optimizing Ourselves to Death](https://zandercutt.com/2019/02/18/were-optimizing-ourselves-to-death/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
