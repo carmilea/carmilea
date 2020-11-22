@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Getting Paid for Your Data Is a Bad Deal](https://www.eff.org/deeplinks/2020/10/why-getting-paid-your-data-bad-deal)
 - [Slapdash (YC W19), a unified interface for cloud apps, is hiring a lead designer](https://slapdash.com/about)
 - [A Novel Framework for Explaining Machine Learning Using Shapley Values](https://arxiv.org/abs/1909.08128)
 - [Guy builds bird feeder that accepts bottle caps for food. Magpies love it.](https://www.boredpanda.com/magpies-recycling-machine-bottle-caps/)
-- [A Month of Terraform](https://jeremywsherman.com/blog/2020/11/21/a-month-of-terraform/)
-- [We’re Optimizing Ourselves to Death](https://zandercutt.com/2019/02/18/were-optimizing-ourselves-to-death/)
+- [Show HN: Minimalist App for Backups to Any Storage](https://blobbackup.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
