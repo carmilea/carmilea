@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Frequent, rapid testing could turn national Covid-19 tide within weeks](https://www.colorado.edu/today/2020/11/20/frequent-rapid-testing-could-turn-national-covid-19-tide-within-weeks)
+- [Reddit is slowly killing the old interface – native image galleries are invisble](https://old.reddit.com/r/nvidia/comments/jyg1jq/finished_the_build_a_pc_of_ice_and_fire/)
 - [1 in 4 Americans are jobless or earning poverty-level wages, new study finds](https://www.cbsnews.com/news/jobless-americans-poverty-line-earnings/)
+- [Covid-19 down in 24 counties with mask mandates, up in 81 counties without](https://www.cdc.gov/mmwr/volumes/69/wr/mm6947e2.htm)
 - [Pianists for Alternatively Sized Keyboards](http://paskpiano.org/about/)
-- [X11 Library Sees Lots of Fixes with LibX11 1.7 Release](https://www.phoronix.com/scan.php?page=news_item&px=libX11-1.7.0-Released)
-- [Linux on iPad](https://ipadlinux.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
