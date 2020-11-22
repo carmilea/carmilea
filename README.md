@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Raytracing – In Excel [video]](https://www.youtube.com/watch?v=m28jJ7CMp8A)
-- [An Abandoned Mansion in NYC Raises Questions](https://www.hooch.net/an-abandoned-mansion-in-nyc-raises-questions)
+- [Indians predated Newton 'discovery' by 250 years](https://www.manchester.ac.uk/discover/news/indians-predated-newton-discovery-by-250-years/)
+- [Gimp is 25 years old today](https://www.gimp.org/news/2020/11/21/25-years-of-gimp/)
+- [The scarred landscapes created by humanity’s material thirst](https://www.bbc.com/future/article/20201117-mining-and-anthropocene-landscapes)
 - [Pianists for Alternatively Sized Keyboards](http://paskpiano.org/about/)
 - [X11 Library Sees Lots of Fixes with LibX11 1.7 Release](https://www.phoronix.com/scan.php?page=news_item&px=libX11-1.7.0-Released)
-- [Linux on iPad](https://ipadlinux.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
