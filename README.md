@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [To Understand How Science Denial Works, Look to History](https://www.scientificamerican.com/article/to-understand-how-science-denial-works-look-to-history/)
+- [Casio F-91W: The strangely ubiquitous watch (2011)](https://www.bbc.com/news/magazine-13194733)
+- [We’re Optimizing Ourselves to Death](https://zandercutt.com/2019/02/18/were-optimizing-ourselves-to-death/)
+- [Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette/)
 - [Guitar Center files for bankruptcy](https://www.reuters.com/article/BigStory12/idUSKBN282058)
 - [What Makes a Great Product Manager](https://informedpm.com/posts/great-product-manager)
-- [We have no idea what happens next](https://www.collaborativefund.com/blog/we-have-no-idea-what-happens-next/)
-- [Show HN: Making Python one-liner-fit with the new pwk (Python With Kurly braces)](https://github.com/umlet/pwk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
