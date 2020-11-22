@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Slapdash (YC W19), a unified interface for cloud apps, is hiring a lead designer](https://slapdash.com/about)
+- [A Novel Framework for Explaining Machine Learning Using Shapley Values](https://arxiv.org/abs/1909.08128)
+- [Guy builds bird feeder that accepts bottle caps for food. Magpies love it.](https://www.boredpanda.com/magpies-recycling-machine-bottle-caps/)
+- [Mark Zuckerberg's Ponzi Scheme](http://www.aarongreenspan.com/writing/20190723/mark-zuckerbergs-ponzi-scheme/)
 - [Casio F-91W: The strangely ubiquitous watch (2011)](https://www.bbc.com/news/magazine-13194733)
-- [We’re Optimizing Ourselves to Death](https://zandercutt.com/2019/02/18/were-optimizing-ourselves-to-death/)
-- [Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette/)
-- [Guitar Center files for bankruptcy](https://www.reuters.com/article/BigStory12/idUSKBN282058)
-- [What Makes a Great Product Manager](https://informedpm.com/posts/great-product-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
