@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anti-Mask League of San Francisco](https://en.wikipedia.org/wiki/Anti-Mask_League_of_San_Francisco)
 - [Booting from a vinyl record](http://boginjr.com/it/sw/dev/vinyl-boot/)
-- [Brexit can best be understood as a civil war within capitalism](https://twitter.com/GeorgeMonbiot/status/1329701729328357379)
+- [Asus Release Raspberry Pi Competitor Tinkerboard 2 and 2S](https://www.tomshardware.com/news/tinkerboard-2-and-tinkerboard-2s-announced)
 - [CareRev (YC S16) Is Hiring a Senior Android Developer](https://news.ycombinator.com/item?id=25176784)
-- [Apple MacBook Pro 13” M1 Review- Why You Might Want to Pass](https://www.forbes.com/sites/patrickmoorhead/2020/11/21/apple-macbook-pro-13-m1-reviewwhy-you-might-want-to-pass/)
 - [Facebook Is Going After Its Critics in the Name of Privacy](https://www.wired.com/story/facebook-is-going-after-its-critics-in-the-name-of-privacy/)
 <!-- BLOG-POST-LIST:END -->
 
