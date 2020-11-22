@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian Startup WhiteHatJr files $2.6mn suit against reviewer exposing fake Ads](https://nextbigwhat.com/whitehatjr-files-20-cr-defamation-case-against-pradeep-poonia/)
+- [Apple lets some Big Sur network traffic bypass firewalls](https://arstechnica.com/gadgets/2020/11/apple-lets-some-big-sur-network-traffic-bypass-firewalls/)
 - [Matestack – Reactive UIs in pure Ruby](https://matestack.io)
 - [Gimp is 25 years old today](https://www.gimp.org/news/2020/11/21/25-years-of-gimp/)
 - [Using Python's Bisect Module](https://johnlekberg.com/blog/2020-11-21-stdlib-bisect.html)
-- [Pianists for Alternatively Sized Keyboards](http://paskpiano.org/about/)
-- [X11 Library Sees Lots of Fixes with LibX11 1.7 Release](https://www.phoronix.com/scan.php?page=news_item&px=libX11-1.7.0-Released)
 <!-- BLOG-POST-LIST:END -->
 
 ---
