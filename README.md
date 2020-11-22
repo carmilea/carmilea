@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Indians predated Newton 'discovery' by 250 years](https://www.manchester.ac.uk/discover/news/indians-predated-newton-discovery-by-250-years/)
+- [Component based web UIs in pure Ruby](https://matestack.io)
+- [Vit-D in asymptomatic and critically ill Covid-19 patients and correlation](https://www.nature.com/articles/s41598-020-77093-z)
 - [Gimp is 25 years old today](https://www.gimp.org/news/2020/11/21/25-years-of-gimp/)
-- [The scarred landscapes created by humanity’s material thirst](https://www.bbc.com/future/article/20201117-mining-and-anthropocene-landscapes)
+- [Rent control is keeping rents high in San Francisco](https://philip.greenspun.com/blog/2020/11/21/rent-control-is-keeping-rents-high-in-san-francisco/)
 - [Pianists for Alternatively Sized Keyboards](http://paskpiano.org/about/)
-- [X11 Library Sees Lots of Fixes with LibX11 1.7 Release](https://www.phoronix.com/scan.php?page=news_item&px=libX11-1.7.0-Released)
 <!-- BLOG-POST-LIST:END -->
 
 ---
