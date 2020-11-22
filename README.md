@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“This one trick to do sqr() and cube() in C”](https://twitter.com/shafikyaghmour/status/1328754360285683713)
+- [The Birth of Unix with Brian Kernighan – CoRecursive Podcast](https://corecursive.com/brian-kernighan-unix-bell-labs1/)
 - [Indian Startup WhiteHatJr files $2.6mn suit against reviewer exposing fake Ads](https://nextbigwhat.com/whitehatjr-files-20-cr-defamation-case-against-pradeep-poonia/)
+- [This X Does Not Exist](https://thisxdoesnotexist.com/)
 - [Apple lets some Big Sur network traffic bypass firewalls](https://arstechnica.com/gadgets/2020/11/apple-lets-some-big-sur-network-traffic-bypass-firewalls/)
-- [Matestack – Reactive UIs in pure Ruby](https://matestack.io)
-- [Gimp is 25 years old today](https://www.gimp.org/news/2020/11/21/25-years-of-gimp/)
-- [Using Python's Bisect Module](https://johnlekberg.com/blog/2020-11-21-stdlib-bisect.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
