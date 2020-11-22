@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Minimum Loveable Product](https://www.preetamnath.com/micro-saas/minimum-loveable-product-micro-saas)
 - [Matestack – Reactive UIs in pure Ruby](https://matestack.io)
 - [Gimp is 25 years old today](https://www.gimp.org/news/2020/11/21/25-years-of-gimp/)
+- [Using Python's Bisect Module](https://johnlekberg.com/blog/2020-11-21-stdlib-bisect.html)
 - [Pianists for Alternatively Sized Keyboards](http://paskpiano.org/about/)
 - [X11 Library Sees Lots of Fixes with LibX11 1.7 Release](https://www.phoronix.com/scan.php?page=news_item&px=libX11-1.7.0-Released)
 <!-- BLOG-POST-LIST:END -->
