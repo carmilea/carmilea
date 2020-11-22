@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Secret Vice (1931) [pdf]](http://faculty.smu.edu/bwheeler/tolkien/online_reader/T-ASecretVice.PDF)
+- [1 in 4 Americans are jobless or earning poverty-level wages, new study finds](https://www.cbsnews.com/news/jobless-americans-poverty-line-earnings/)
+- [Pianists for Alternatively Sized Keyboards](http://paskpiano.org/about/)
 - [X11 Library Sees Lots of Fixes with LibX11 1.7 Release](https://www.phoronix.com/scan.php?page=news_item&px=libX11-1.7.0-Released)
-- [iPad on Linux (Not Yet)](https://ipadlinux.org/)
+- [Linux on iPad](https://ipadlinux.org/)
 - [Guidance to developers affected by effort to block less secure browsers, apps](https://developers.googleblog.com/2020/08/guidance-for-our-effort-to-block-less-secure-browser-and-apps.html)
-- [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
