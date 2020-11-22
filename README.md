@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Exotic Programming Ideas: Part 3 (Effect Systems)](https://www.stephendiehl.com/posts/exotic03.html)
-- [Before the Mayflower](https://www.historytoday.com/history-matters/mayflower)
-- [Human Ageing Reversed in ‘Holy Grail’ Study, Scientists Say](https://www.independent.co.uk/life-style/gadgets-and-tech/anti-ageing-reverse-treatment-telomeres-b1748067.html)
-- [Dolly Parton helped fund Moderna’s vaccine. It began with an unlikely friendship](https://www.washingtonpost.com/nation/2020/11/18/dolly-parton-moderna-vaccine-abumrad-covid/)
-- [The dubiousness of digitized signature services](https://blog.certisfy.com/2020/11/the-dubiousness-of-digitized-signature.html)
+- [EasyPost (YC S13) Is Hiring to Take over ECommerce](https://www.easypost.com/careers)
+- [Ray Dalio Has a Point About Bitcoin at $18,000](https://www.bloomberg.com/opinion/articles/2020-11-18/ray-dalio-has-a-point-about-bitcoin-at-18-000)
+- [You Are the Product](https://www.lrb.co.uk/the-paper/v39/n16/john-lanchester/you-are-the-product)
+- [To Do Politics or Not Do Politics? Tech Startups Are Divided](https://www.nytimes.com/2020/10/28/technology/politics-tech-start-ups-culture-war.html)
+- [ESP32-C3 WiFi and BLE RISC-V processor is pin-to-pin compatible with ESP8266](https://www.cnx-software.com/2020/11/22/esp32-c3-wifi-ble-risc-v-processor-is-pin-to-pin-compatible-with-esp8266/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
