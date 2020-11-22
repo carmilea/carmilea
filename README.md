@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. retailer Guitar Center files for bankruptcy](https://www.reuters.com/article/BigStory12/idUSKBN282058)
+- [We Have No Idea What Happens Next](https://www.collaborativefund.com/blog/we-have-no-idea-what-happens-next/)
+- [Show HN: Making Python one-liner-fit with the new pwk (Python With Kurly braces)](https://github.com/umlet/pwk)
 - [EasyPost (YC S13) Is Hiring to Take over ECommerce](https://www.easypost.com/careers)
-- [Ray Dalio Has a Point About Bitcoin at $18,000](https://www.bloomberg.com/opinion/articles/2020-11-18/ray-dalio-has-a-point-about-bitcoin-at-18-000)
 - [You Are the Product](https://www.lrb.co.uk/the-paper/v39/n16/john-lanchester/you-are-the-product)
-- [To Do Politics or Not Do Politics? Tech Startups Are Divided](https://www.nytimes.com/2020/10/28/technology/politics-tech-start-ups-culture-war.html)
-- [ESP32-C3 WiFi and BLE RISC-V processor is pin-to-pin compatible with ESP8266](https://www.cnx-software.com/2020/11/22/esp32-c3-wifi-ble-risc-v-processor-is-pin-to-pin-compatible-with-esp8266/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
