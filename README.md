@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“This one trick to do sqr() and cube() in C”](https://twitter.com/shafikyaghmour/status/1328754360285683713)
-- [The Birth of Unix with Brian Kernighan – CoRecursive Podcast](https://corecursive.com/brian-kernighan-unix-bell-labs1/)
-- [Indian Startup WhiteHatJr files $2.6mn suit against reviewer exposing fake Ads](https://nextbigwhat.com/whitehatjr-files-20-cr-defamation-case-against-pradeep-poonia/)
-- [This X Does Not Exist](https://thisxdoesnotexist.com/)
-- [Apple lets some Big Sur network traffic bypass firewalls](https://arstechnica.com/gadgets/2020/11/apple-lets-some-big-sur-network-traffic-bypass-firewalls/)
+- [CareRev (YC S16) Is Hiring a Senior Android Developer](https://news.ycombinator.com/item?id=25176784)
+- [YouTube storing cookies before you even give them permission to do so](https://news.ycombinator.com/item?id=25176720)
+- [Facebook Is Going After Its Critics in the Name of Privacy](https://www.wired.com/story/facebook-is-going-after-its-critics-in-the-name-of-privacy/)
+- [250kb Club](https://250kb.club)
+- [Show HN: pbcopy/pbpaste across machines via Gitlab Snippets](https://github.com/bradwood/glsnip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
