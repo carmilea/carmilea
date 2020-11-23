@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The CIA's Quest for Mind Control: Torture, LSD and a 'Poisoner in Chief'](https://www.wxxinews.org/post/cias-secret-quest-mind-control-torture-lsd-and-poisoner-chief-0)
 - [Why Getting Paid for Your Data Is a Bad Deal](https://www.eff.org/deeplinks/2020/10/why-getting-paid-your-data-bad-deal)
+- [Celebrating two Canadian POWs who took down an entire shipyard](https://quillette.com/2020/11/11/on-remembrance-day-celebrating-two-canadian-prisoners-who-took-down-an-entire-shipyard/)
 - [Slapdash (YC W19), a unified interface for cloud apps, is hiring a lead designer](https://slapdash.com/about)
-- [A Novel Framework for Explaining Machine Learning Using Shapley Values](https://arxiv.org/abs/1909.08128)
-- [Guy builds bird feeder that accepts bottle caps for food. Magpies love it.](https://www.boredpanda.com/magpies-recycling-machine-bottle-caps/)
-- [Show HN: Minimalist App for Backups to Any Storage](https://blobbackup.com)
+- [A bird feeder that accepts bottle caps for food](https://www.boredpanda.com/magpies-recycling-machine-bottle-caps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
