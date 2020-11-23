@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google makes breaking change to publishing Sheets as data](https://issuetracker.google.com/issues/173534863)
 - [First Responders Unprepared for Electric Vehicle Fires: Report](https://pittsburgh.legalexaminer.com/legal/first-responders-unprepared-for-electric-vehicle-fires-report/)
+- [Psilocybin and migraine: First of its kind trial reports promising results](https://newatlas.com/health-wellbeing/psilocybin-migraine-psychedelic-clinical-trial-promising-results/)
 - [Jerry, Inc. (YC S17) Is Hiring a Head of Analytics](https://apply.workable.com/jerry/j/8469CB700A/)
-- [“Microsoft Pluton Hardware Security Coming to Our CPUs”: AMD, Intel, Qualcomm](https://www.anandtech.com/show/16269/microsoft-pluton-hardware-security-coming-to-our-cpus-amd-intel-qualcomm)
-- [Convolution Is Fancy Multiplication](https://betterexplained.com/articles/intuitive-convolution/)
-- [Intel is spreading FUD about supposed Ryzen 4000 performance drops on battery](https://www.extremetech.com/extreme/317657-intel-is-spreading-fud-about-supposedly-huge-ryzen-4000-performance-drops-on-battery)
+- [Zoomquilt](https://zoomquilt.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
