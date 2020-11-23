@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Good Heavens 10M Impacted in Pray.com Data Exposure](https://threatpost.com/10m-impacted-pray-com-data-exposure/161459/)
 - [DevTerm - An Open Source Portable Terminal for Every Dev](https://www.clockworkpi.com/)
-- [PC Life After Apple Silicon](https://mondaynote.com/pc-life-after-apple-silicon-a96861f58442)
 - [Don’t be duped by performance, Apple’s M1 silicon is all about platform control](https://www.androidauthority.com/apple-m1-chip-platform-control-1178210/)
 - [Google Is Testing End-to-End Encryption in Android Messages](https://www.wired.com/story/google-is-testing-end-to-end-encryption-in-android-messages/)
 - [Hacker Nearly Stole $8M from Aussie Hedge Fund Using a Fake Zoom Invite](https://www.gizmodo.com.au/2020/11/a-hacker-nearly-stole-8-million-from-an-aussie-hedge-fund-using-a-fake-zoom-invite/)
