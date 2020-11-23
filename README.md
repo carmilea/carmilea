@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluetooth Attack Can Steal a Tesla Model X in Minutes](https://www.wired.com/story/tesla-model-x-hack-bluetooth/#:~:text=But%20one%20security%20researcher%20has,just%20a%20matter%20of%20minutes.)
+- [Could we reboot a modern civilization without fossil fuels](https://aeon.co/essays/could-we-reboot-a-modern-civilisation-without-fossil-fuels)
+- [All counties in China have officially been lifted out of poverty](https://news.cgtn.com/news/2020-11-23/Last-nine-counties-in-China-taken-off-poverty-list-VEt2hd9rWw/index.html)
+- [The Nintendo Switch uses my open source code](https://twitter.com/feross/status/1330582600813924352)
 - [Solomon Islands set to ban Facebook in the name of 'national unity'](https://www.abc.net.au/news/2020-11-23/solomon-islands-set-to-ban-facebook-for-sake-of-national-unity/12910786)
-- [MicroOS and Kubic: New Lighter Minimum Hardware Requirements](https://kubic.opensuse.org/blog/2020-11-23-requirements/)
-- [Good Heavens 10M Impacted in Pray.com Data Exposure](https://threatpost.com/10m-impacted-pray-com-data-exposure/161459/)
-- [What it’s like inside your plane’s hidden ‘crew rest’](https://thepointsguy.co.uk/news/secret-crew-rest/)
-- [Use Netlify Functions and the Twitter API v2 as a CMS for Your Gatsby Blog](https://paulie.dev/posts/2020/11/gatsby-netlify-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
