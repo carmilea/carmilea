@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel is spreading FUD about supposed Ryzen 4000 performance drops on battery](https://www.extremetech.com/extreme/317657-intel-is-spreading-fud-about-supposedly-huge-ryzen-4000-performance-drops-on-battery)
+- [SarsCov2 transmission through air is unlikely in outdoor, if not in crowded area](https://www.sciencedirect.com/science/article/pii/S0160412020322108?via%3Dihub)
 - [If Your Business Is Not Working In Real Time, You’re Out Of Time To Capture The Business Moment](https://www.singlestore.com/blog/if-your-business-is-not-working-in-real-time-youre-out-of-time-to-capture-the-business-moment/)
-- [Walmart Exclusive Wi-Fi Router Contains Backdoor to Control Devices](https://hfet.org/walmart-exclusive-wi-fi-router-contains-backdoor-to-control-devices/)
+- [Carmack on Apple successfully migrating from 68k to PPC to x86 to ARM](https://twitter.com/id_aa_carmack/status/1330719158334578692)
 - ['Smart' doorbells for sale on Amazon came stocked with security vulnerabilities](https://www.cyberscoop.com/smart-doorbells-amazon-ebay-ncc-vulnerabilities/)
-- [Misfit Tractors a Money Saver for Arkansas Farmer](https://www.agweb.com/article/misfit-tractors-money-saver-arkansas-farmer)
-- [Changed-block tracking and differential backups in QEMU](https://lwn.net/SubscriberLink/837053/1a4a7fb108cfb870/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
