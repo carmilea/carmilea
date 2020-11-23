@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If Your Business Is Not Working In Real Time, You’re Out Of Time To Capture The Business Moment](https://www.singlestore.com/blog/if-your-business-is-not-working-in-real-time-youre-out-of-time-to-capture-the-business-moment/)
+- [Walmart Exclusive Wi-Fi Router Contains Backdoor to Control Devices](https://hfet.org/walmart-exclusive-wi-fi-router-contains-backdoor-to-control-devices/)
+- ['Smart' doorbells for sale on Amazon came stocked with security vulnerabilities](https://www.cyberscoop.com/smart-doorbells-amazon-ebay-ncc-vulnerabilities/)
 - [Misfit Tractors a Money Saver for Arkansas Farmer](https://www.agweb.com/article/misfit-tractors-money-saver-arkansas-farmer)
-- [Secret Amazon Reports Expose the Company’s Surveillance of Employee Groups](https://www.vice.com/en/article/5dp3yn/amazon-leaked-reports-expose-spying-warehouse-workers-labor-union-environmental-groups-social-movements)
 - [Changed-block tracking and differential backups in QEMU](https://lwn.net/SubscriberLink/837053/1a4a7fb108cfb870/)
-- [Flexport plans to hire 250 engineers in 2021](HTTPS://Flexport.com/careers)
-- [Selling to unicorns from my parents basement](https://www.themvpsprint.com/p/selling-to-unicorns-from-my-parents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
