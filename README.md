@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Misfit Tractors a Money Saver for Arkansas Farmer](https://www.agweb.com/article/misfit-tractors-money-saver-arkansas-farmer)
+- [Secret Amazon Reports Expose the Company’s Surveillance of Employee Groups](https://www.vice.com/en/article/5dp3yn/amazon-leaked-reports-expose-spying-warehouse-workers-labor-union-environmental-groups-social-movements)
+- [Changed-block tracking and differential backups in QEMU](https://lwn.net/SubscriberLink/837053/1a4a7fb108cfb870/)
 - [Flexport plans to hire 250 engineers in 2021](HTTPS://Flexport.com/careers)
-- [KFC restaurant that drives autonomously](https://twitter.com/sascha_p/status/1330876014449352704)
-- [Iconic Star Wars Book Author Claims Disney Owes Him 4 Years of Overdue Royalties](https://movieweb.com/star-wars-books-alan-dean-foster-disney-royalties/)
-- [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
-- [Getting Started with Firecracker on Raspberry Pi](https://dev.l1x.be/posts/2020/11/22/getting-started-with-firecracker-on-raspberry-pi/)
+- [Selling to unicorns from my parents basement](https://www.themvpsprint.com/p/selling-to-unicorns-from-my-parents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
