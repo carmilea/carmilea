@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DevTerm - An Open Source Portable Terminal for Every Dev](https://www.clockworkpi.com/)
+- [PC Life After Apple Silicon](https://mondaynote.com/pc-life-after-apple-silicon-a96861f58442)
+- [Don’t be duped by performance, Apple’s M1 silicon is all about platform control](https://www.androidauthority.com/apple-m1-chip-platform-control-1178210/)
 - [Google Is Testing End-to-End Encryption in Android Messages](https://www.wired.com/story/google-is-testing-end-to-end-encryption-in-android-messages/)
-- [Testing for Divisibility by 19](https://blog.plover.com/math/divisibility-by-19.html)
-- [IoT Unravelled Part 1: It's a Mess but Then There's Home Assistant](https://www.troyhunt.com/iot-unravelled-part-1-its-a-mess-but-then-theres-home-assistant/)
-- [Oxford University breakthrough on global COVID-19 vaccine](https://www.ox.ac.uk/news/2020-11-23-oxford-university-breakthrough-global-covid-19-vaccine)
-- [Covid-19, duration of viral shedding, and infectiousness: meta-analysis](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30172-5/fulltext)
+- [Hacker Nearly Stole $8M from Aussie Hedge Fund Using a Fake Zoom Invite](https://www.gizmodo.com.au/2020/11/a-hacker-nearly-stole-8-million-from-an-aussie-hedge-fund-using-a-fake-zoom-invite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
