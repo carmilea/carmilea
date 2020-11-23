@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport plans to hire 250 engineers in 2021](HTTPS://Flexport.com/careers)
+- [KFC restaurant that drives autonomously](https://twitter.com/sascha_p/status/1330876014449352704)
+- [Iconic Star Wars Book Author Claims Disney Owes Him 4 Years of Overdue Royalties](https://movieweb.com/star-wars-books-alan-dean-foster-disney-royalties/)
+- [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
 - [Getting Started with Firecracker on Raspberry Pi](https://dev.l1x.be/posts/2020/11/22/getting-started-with-firecracker-on-raspberry-pi/)
-- [Show HN: Django refactoring game – can you fix all the Models anti-patterns?](https://django.doctor/challenge)
-- [Bluetooth Attack Can Steal a Tesla Model X in Minutes](https://www.wired.com/story/tesla-model-x-hack-bluetooth/#:~:text=But%20one%20security%20researcher%20has,just%20a%20matter%20of%20minutes.)
-- [Could we reboot a modern civilization without fossil fuels](https://aeon.co/essays/could-we-reboot-a-modern-civilisation-without-fossil-fuels)
-- [The Nintendo Switch uses my open source code](https://twitter.com/feross/status/1330582600813924352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
