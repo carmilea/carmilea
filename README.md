@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Solomon Islands set to ban Facebook in the name of 'national unity'](https://www.abc.net.au/news/2020-11-23/solomon-islands-set-to-ban-facebook-for-sake-of-national-unity/12910786)
+- [MicroOS and Kubic: New Lighter Minimum Hardware Requirements](https://kubic.opensuse.org/blog/2020-11-23-requirements/)
 - [Good Heavens 10M Impacted in Pray.com Data Exposure](https://threatpost.com/10m-impacted-pray-com-data-exposure/161459/)
-- [DevTerm - An Open Source Portable Terminal for Every Dev](https://www.clockworkpi.com/)
-- [Don’t be duped by performance, Apple’s M1 silicon is all about platform control](https://www.androidauthority.com/apple-m1-chip-platform-control-1178210/)
-- [Google Is Testing End-to-End Encryption in Android Messages](https://www.wired.com/story/google-is-testing-end-to-end-encryption-in-android-messages/)
-- [Hacker Nearly Stole $8M from Aussie Hedge Fund Using a Fake Zoom Invite](https://www.gizmodo.com.au/2020/11/a-hacker-nearly-stole-8-million-from-an-aussie-hedge-fund-using-a-fake-zoom-invite/)
+- [What it’s like inside your plane’s hidden ‘crew rest’](https://thepointsguy.co.uk/news/secret-crew-rest/)
+- [Use Netlify Functions and the Twitter API v2 as a CMS for Your Gatsby Blog](https://paulie.dev/posts/2020/11/gatsby-netlify-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
