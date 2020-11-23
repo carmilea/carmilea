@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Is Testing End-to-End Encryption in Android Messages](https://www.wired.com/story/google-is-testing-end-to-end-encryption-in-android-messages/)
 - [IoT Unravelled Part 1: It's a Mess but Then There's Home Assistant](https://www.troyhunt.com/iot-unravelled-part-1-its-a-mess-but-then-theres-home-assistant/)
-- [Oxford vaccine is 70% effective & tests on 2 dose regimens show it could be 90%](https://www.ox.ac.uk/news/2020-11-23-oxford-university-breakthrough-global-covid-19-vaccine)
-- [Facebook Condemned for Providing Platform to Neo-Nazi Network](https://hfet.org/facebook-condemned-for-providing-platform-to-neo-nazi-network/)
-- [Oxford University vaccine shows 70% protection](https://www.bbc.co.uk/news/health-55040635)
+- [Google Drive is a sad joke, don't use it for business](https://support.google.com/a/thread/6694222?hl=en)
+- [Oxford University breakthrough on global COVID-19 vaccine](https://www.ox.ac.uk/news/2020-11-23-oxford-university-breakthrough-global-covid-19-vaccine)
 - [Covid-19, duration of viral shedding, and infectiousness: meta-analysis](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30172-5/fulltext)
 <!-- BLOG-POST-LIST:END -->
 
