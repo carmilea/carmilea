@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Examples of 'Anti-Homeless' Hostile Architecture](https://interestingengineering.com/15-examples-of-anti-homeless-hostile-architecture-that-you-probably-never-noticed-before)
-- [What You Pay Attention to Becomes Your Life](https://mythirdbrain.substack.com/p/how-i-spend-my-attention)
+- [Drinking coffee or tea from paper cups may be bad for your health](https://www.studyfinds.org/drinking-coffee-tea-paper-cups-bad-for-health/)
+- [How I Spend My Attention](https://mythirdbrain.substack.com/p/how-i-spend-my-attention)
 - [Run Homebrew Natively on Apple Silicon Arm M1](https://github.com/mikelxc/Workarounds-for-ARM-mac)
+- [Open-source paved the way for today’s remote software development processes](https://increment.com/remote/committing-to-collaboration-version-control/)
 - [Police in Mississippi to Pilot a Program to Live-Stream Amazon Ring Cameras](https://foundation.mozilla.org/en/blog/police-mississippi-pilot-program-live-stream-amazon-ring-cameras/)
-- [Michael J Fox: ‘Every step now is a frigging math problem, so I take it slow’](https://www.theguardian.com/culture/2020/nov/21/michael-j-fox-every-step-now-is-a-frigging-math-problem-so-i-take-it-slow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
