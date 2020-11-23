@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First Responders Unprepared for Electric Vehicle Fires: Report](https://pittsburgh.legalexaminer.com/legal/first-responders-unprepared-for-electric-vehicle-fires-report/)
+- [Jerry, Inc. (YC S17) Is Hiring a Head of Analytics](https://apply.workable.com/jerry/j/8469CB700A/)
+- [“Microsoft Pluton Hardware Security Coming to Our CPUs”: AMD, Intel, Qualcomm](https://www.anandtech.com/show/16269/microsoft-pluton-hardware-security-coming-to-our-cpus-amd-intel-qualcomm)
+- [Convolution Is Fancy Multiplication](https://betterexplained.com/articles/intuitive-convolution/)
 - [Intel is spreading FUD about supposed Ryzen 4000 performance drops on battery](https://www.extremetech.com/extreme/317657-intel-is-spreading-fud-about-supposedly-huge-ryzen-4000-performance-drops-on-battery)
-- [SarsCov2 transmission through air is unlikely in outdoor, if not in crowded area](https://www.sciencedirect.com/science/article/pii/S0160412020322108?via%3Dihub)
-- [If Your Business Is Not Working In Real Time, You’re Out Of Time To Capture The Business Moment](https://www.singlestore.com/blog/if-your-business-is-not-working-in-real-time-youre-out-of-time-to-capture-the-business-moment/)
-- [Carmack on Apple successfully migrating from 68k to PPC to x86 to ARM](https://twitter.com/id_aa_carmack/status/1330719158334578692)
-- ['Smart' doorbells for sale on Amazon came stocked with security vulnerabilities](https://www.cyberscoop.com/smart-doorbells-amazon-ebay-ncc-vulnerabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
