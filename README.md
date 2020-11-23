@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IoT Unravelled Part 1: It's a Mess but Then There's Home Assistant](https://www.troyhunt.com/iot-unravelled-part-1-its-a-mess-but-then-theres-home-assistant/)
 - [Oxford vaccine is 70% effective & tests on 2 dose regimens show it could be 90%](https://www.ox.ac.uk/news/2020-11-23-oxford-university-breakthrough-global-covid-19-vaccine)
-- [Oxford COVID-19 Vaccine 70% Effective](https://www.bbc.co.uk/news/health-55040635)
+- [Facebook Condemned for Providing Platform to Neo-Nazi Network](https://hfet.org/facebook-condemned-for-providing-platform-to-neo-nazi-network/)
+- [Oxford University vaccine shows 70% protection](https://www.bbc.co.uk/news/health-55040635)
 - [Covid-19, duration of viral shedding, and infectiousness: meta-analysis](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30172-5/fulltext)
-- [How I Spend My Attention](https://mythirdbrain.substack.com/p/how-i-spend-my-attention)
-- [Run Homebrew Natively on Apple Silicon Arm M1](https://github.com/mikelxc/Workarounds-for-ARM-mac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
