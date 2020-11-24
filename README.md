@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tips for Performant TypeScript](https://github.com/microsoft/TypeScript/wiki/Performance)
+- [Microsoft 365 has employee surveillance and analytics built in](https://twitter.com/WolfieChristl/status/1331221942850949121)
+- [How to use Reddit to get your first users](https://blog.spreadtheworld.net/posts/get-first-users-reddit/)
 - [The New York Public Library’s Last, Secret Apartments (2016)](https://www.atlasobscura.com/articles/inside-the-new-york-public-librarys-last-secret-apartments)
-- [Why Is Scientific Illiteracy So Acceptable](https://quillette.com/2020/11/23/why-is-scientific-illiteracy-so-acceptable/)
-- [What was it like to be a software engineer at NeXT?](https://www.quora.com/What-was-it-like-to-be-a-software-engineer-at-NeXT-Did-workers-interact-with-Steve-Jobs?share=1)
-- [Pachyderm Raises Series B, Hiring for Golang and Enterprise SE Roles](https://boards.greenhouse.io/pachyderm)
-- [You’re not anonymous. I know your name, email, and company (2012)](http://web.archive.org/web/20150628160834/https://42floors.com/blog/uncategorized/youre-not-anonymous-i-know-your-name-email-and-company)
+- [Making applications scalable with Load Balancing (2006)](https://wtarreau.blogspot.com/2006/11/making-applications-scalable-with-load.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
