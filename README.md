@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The AMA is a tax-exempt hedge fund and licensing corporation](https://www.epsilontheory.com/ama-bitfd/)
+- [Email a Dumpster Fire](https://hey.science/dumpster-fire/)
+- [Scaleway Stardust Instances](https://www.scaleway.com/en/stardust-instances/)
 - [Learn Difficult Concepts with the Adept Method](https://betterexplained.com/articles/adept-method/)
 - [How Rainbow Tables Work](http://kestas.kuliukas.com/RainbowTables/)
-- [Jane Street Market Prediction ($100k Kaggle competition)](https://www.kaggle.com/c/jane-street-market-prediction)
-- [Pam 1.5.0 has a auth bypass under some conditions](https://www.openwall.com/lists/oss-security/2020/11/24/3)
-- [How do people find bugs?](https://cryptologie.net/article/511/how-do-people-find-bugs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
