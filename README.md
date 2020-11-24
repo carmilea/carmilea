@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Difficult Concepts with the Adept Method](https://betterexplained.com/articles/adept-method/)
+- [How Rainbow Tables Work](http://kestas.kuliukas.com/RainbowTables/)
+- [Jane Street Market Prediction ($100k Kaggle competition)](https://www.kaggle.com/c/jane-street-market-prediction)
+- [Pam 1.5.0 has a auth bypass under some conditions](https://www.openwall.com/lists/oss-security/2020/11/24/3)
 - [How do people find bugs?](https://cryptologie.net/article/511/how-do-people-find-bugs/)
-- [No surprises here – On the absence of information in today’s media](https://www.turningchaos.com/essays/no-surprises-here)
-- [Ask HN: Where are the Beautiful clean HTML/CSS templates?](https://news.ycombinator.com/item?id=25200702)
-- [Why AWS loves Rust, and how we’d like to help](https://aws.amazon.com/blogs/opensource/why-aws-loves-rust-and-how-wed-like-to-help/)
-- [Bitmovin (YC S15) Is Hiring Software Engineers in Austria and Denver](https://bitmovin.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
