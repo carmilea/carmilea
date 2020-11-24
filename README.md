@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TCP Performance problems related to Nagle’s Algorithm and Delayed ACK (2005)](http://www.stuartcheshire.org/papers/NagleDelayedAck/)
+- [VSCode memory leak issue marked “out-of-scope”](https://github.com/microsoft/vscode/issues/107999)
 - [Someone Attacked Our Company](https://usefathom.com/blog/ddos-attack?hn)
-- [Why is life expectancy in the US lower than in other rich countries?](https://ourworldindata.org/us-life-expectancy-low)
 - [Guide to OOMKill Alerting in Kubernetes Clusters](https://www.netice9.com/blog/guide-to-oomkill-alerting-in-kubernetes-clusters)
 - [First Responders Unprepared for Electric Vehicle Fires: Report](https://pittsburgh.legalexaminer.com/legal/first-responders-unprepared-for-electric-vehicle-fires-report/)
-- [Psilocybin and migraine: First of its kind trial reports promising results](https://newatlas.com/health-wellbeing/psilocybin-migraine-psychedelic-clinical-trial-promising-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
