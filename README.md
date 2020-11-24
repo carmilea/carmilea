@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Repl.it (YC W18) Is Hiring Growth and SRE to give people coding superpowers](https://jobs.lever.co/replit/)
+- [US Internet Speeds 91% Faster in 2020 According to User Speed Tests](https://fairinternetreport.com/research/usa-vs-europe-internet-speed-analysis)
+- [Progress bars still lie: Please fix them](https://web.eecs.utk.edu/~azh/blog/fixprogressbars.html)
+- [Repl.it (YC W18) Is Hiring Growth and SRE](https://jobs.lever.co/replit/)
+- [AWS Managed Workflows for Apache Airflow](https://aws.amazon.com/blogs/aws/introducing-amazon-managed-workflows-for-apache-airflow-mwaa/)
 - [The AMA is a tax-exempt hedge fund and licensing corporation](https://www.epsilontheory.com/ama-bitfd/)
-- [Email a Dumpster Fire](https://hey.science/dumpster-fire/)
-- [Scaleway Stardust Instances](https://www.scaleway.com/en/stardust-instances/)
-- [Learn Difficult Concepts with the Adept Method](https://betterexplained.com/articles/adept-method/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
