@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The New York Public Library’s Last, Secret Apartments (2016)](https://www.atlasobscura.com/articles/inside-the-new-york-public-librarys-last-secret-apartments)
+- [Why Is Scientific Illiteracy So Acceptable](https://quillette.com/2020/11/23/why-is-scientific-illiteracy-so-acceptable/)
 - [What was it like to be a software engineer at NeXT?](https://www.quora.com/What-was-it-like-to-be-a-software-engineer-at-NeXT-Did-workers-interact-with-Steve-Jobs?share=1)
 - [Pachyderm Raises Series B, Hiring for Golang and Enterprise SE Roles](https://boards.greenhouse.io/pachyderm)
 - [You’re not anonymous. I know your name, email, and company (2012)](http://web.archive.org/web/20150628160834/https://42floors.com/blog/uncategorized/youre-not-anonymous-i-know-your-name-email-and-company)
-- [FreeBSD Commands Cheat Sheet](https://github.com/sbz/freebsd-commands)
-- [Ask HN: Why do some timestamps on HN have a full stop at the end?](https://news.ycombinator.com/item?id=25197418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
