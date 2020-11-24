@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What was it like to be a software engineer at NeXT?](https://www.quora.com/What-was-it-like-to-be-a-software-engineer-at-NeXT-Did-workers-interact-with-Steve-Jobs?share=1)
 - [Pachyderm Raises Series B, Hiring for Golang and Enterprise SE Roles](https://boards.greenhouse.io/pachyderm)
+- [You’re not anonymous. I know your name, email, and company (2012)](http://web.archive.org/web/20150628160834/https://42floors.com/blog/uncategorized/youre-not-anonymous-i-know-your-name-email-and-company)
 - [FreeBSD Commands Cheat Sheet](https://github.com/sbz/freebsd-commands)
 - [Ask HN: Why do some timestamps on HN have a full stop at the end?](https://news.ycombinator.com/item?id=25197418)
-- [Spectre.Console lets you make beautiful console apps with .NET Core](https://www.hanselman.com/blog/spectreconsole-lets-you-make-beautiful-console-apps-with-net-core)
-- [Oslo got pedestrian and cyclist deaths down to zero. Here’s how](https://www.wired.co.uk/article/oslo-pedestrianisation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
