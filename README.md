@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Repl.it (YC W18) Is Hiring Growth and SRE to give people coding superpowers](https://jobs.lever.co/replit/)
 - [The AMA is a tax-exempt hedge fund and licensing corporation](https://www.epsilontheory.com/ama-bitfd/)
 - [Email a Dumpster Fire](https://hey.science/dumpster-fire/)
 - [Scaleway Stardust Instances](https://www.scaleway.com/en/stardust-instances/)
 - [Learn Difficult Concepts with the Adept Method](https://betterexplained.com/articles/adept-method/)
-- [How Rainbow Tables Work](http://kestas.kuliukas.com/RainbowTables/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
