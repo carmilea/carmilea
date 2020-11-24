@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aurora 7 Prototype – 7 Screen Laptop](https://expanscape.com/the-aurora-7-prototype/the-story-of-the-aurora-7/)
+- [Metal monolith found by helicopter crew in Utah desert](https://www.bbc.co.uk/news/world-us-canada-55056570)
 - [Tips for Performant TypeScript](https://github.com/microsoft/TypeScript/wiki/Performance)
+- [It’s Not Just You: Garfield Is Not Meant to Be Funny](https://www.smithsonianmag.com/smart-news/its-not-just-you-garfield-is-not-meant-to-be-funny-6199556/)
 - [Microsoft 365 has employee surveillance and analytics built in](https://twitter.com/WolfieChristl/status/1331221942850949121)
-- [How to use Reddit to get your first users](https://blog.spreadtheworld.net/posts/get-first-users-reddit/)
-- [The New York Public Library’s Last, Secret Apartments (2016)](https://www.atlasobscura.com/articles/inside-the-new-york-public-librarys-last-secret-apartments)
-- [Making applications scalable with Load Balancing (2006)](https://wtarreau.blogspot.com/2006/11/making-applications-scalable-with-load.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
