@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is life expectancy in the US lower than in other rich countries?](https://ourworldindata.org/us-life-expectancy-low)
 - [Guide to OOMKill Alerting in Kubernetes Clusters](https://www.netice9.com/blog/guide-to-oomkill-alerting-in-kubernetes-clusters)
+- [Show HN: Drawing Navigator – a browser for CAD blueprints](http://www.drawnav.com)
 - [Google makes breaking change to publishing Sheets as data](https://issuetracker.google.com/issues/173534863)
 - [First Responders Unprepared for Electric Vehicle Fires: Report](https://pittsburgh.legalexaminer.com/legal/first-responders-unprepared-for-electric-vehicle-fires-report/)
-- [Psilocybin and migraine: First of its kind trial reports promising results](https://newatlas.com/health-wellbeing/psilocybin-migraine-psychedelic-clinical-trial-promising-results/)
-- [Jerry, Inc. (YC S17) Is Hiring a Head of Analytics](https://apply.workable.com/jerry/j/8469CB700A/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
