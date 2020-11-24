@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How do people find bugs?](https://cryptologie.net/article/511/how-do-people-find-bugs/)
+- [No surprises here – On the absence of information in today’s media](https://www.turningchaos.com/essays/no-surprises-here)
+- [Ask HN: Where are the Beautiful clean HTML/CSS templates?](https://news.ycombinator.com/item?id=25200702)
+- [Why AWS loves Rust, and how we’d like to help](https://aws.amazon.com/blogs/opensource/why-aws-loves-rust-and-how-wed-like-to-help/)
 - [Bitmovin (YC S15) Is Hiring Software Engineers in Austria and Denver](https://bitmovin.com/careers/)
-- [My EOY Reflection Checklist](https://boringstartupstuff.com/newsletter/nov-24th-2020-finish-the-year-strong)
-- [Aurora 7 Prototype – 7 Screen Laptop](https://expanscape.com/the-aurora-7-prototype/the-story-of-the-aurora-7/)
-- [Metal monolith found by helicopter crew in Utah desert](https://www.bbc.co.uk/news/world-us-canada-55056570)
-- [Tips for Performant TypeScript](https://github.com/microsoft/TypeScript/wiki/Performance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
