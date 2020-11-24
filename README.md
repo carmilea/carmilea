@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pachyderm Raises Series B, Hiring for Golang and Enterprise SE Roles](https://boards.greenhouse.io/pachyderm)
+- [FreeBSD Commands Cheat Sheet](https://github.com/sbz/freebsd-commands)
+- [Ask HN: Why do some timestamps on HN have a full stop at the end?](https://news.ycombinator.com/item?id=25197418)
 - [Spectre.Console lets you make beautiful console apps with .NET Core](https://www.hanselman.com/blog/spectreconsole-lets-you-make-beautiful-console-apps-with-net-core)
-- [Why pay $1657 for a $27 USB stick?](https://security.stackexchange.com/q/241202/50573)
-- [You might not need machine learning](https://nullprogram.com/blog/2020/11/24/)
-- [Vietnam’s Cricket One gets pre-Series A funding to make insect protein patties](https://agfundernews.com/vietnams-cricket-one-gets-pre-series-a-funding-to-make-the-case-for-its-insect-protein-patties.html)
-- [IoT Unravelled Part 2: IP Addresses, Network, Zigbee, Custom Firmware, Soldering](https://www.troyhunt.com/iot-unravelled-part-2-ip-addresses-network-zigbee-custom-firmware-and-soldering/)
+- [Oslo got pedestrian and cyclist deaths down to zero. Here’s how](https://www.wired.co.uk/article/oslo-pedestrianisation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
