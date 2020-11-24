@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Opvia (YC S20, Airtable for Scientists) Is Hiring Founding Engineers in London](https://airtable.com/shrhv1yYtcMtPskra)
+- [MyNOR: Single Board Computer that uses a single NOR gate as it ALU](http://www.mynor.org/)
+- [Verilog to Minecraft Redstone Synthesizer](https://github.com/itsFrank/MinecraftHDL)
 - [DOM recording for web application demos](https://robert.ocallahan.org/2020/11/dom-recording-for-web-application-demos.html)
 - [Why is day of the month 1-indexed but the month is 0-indexed in C?](https://twitter.com/hillelogram/status/1329228419628998665)
-- [TCP Performance problems related to Nagle’s Algorithm and Delayed ACK (2005)](http://www.stuartcheshire.org/papers/NagleDelayedAck/)
-- [Someone Attacked Our Company](https://usefathom.com/blog/ddos-attack?hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
