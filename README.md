@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is carbon capture a viable solution?](https://www.thedetechtor.com/post/carbon-capture-usage-and-storage-the-solution-to-the-climate-crisis)
+- [Why pay $1657 for a $27 USB stick?](https://security.stackexchange.com/q/241202/50573)
 - [You might not need machine learning](https://nullprogram.com/blog/2020/11/24/)
-- [German Professor Who Is Hardcore Star Wars Fan Repaints Observatory as R2-D2](https://themindcircle.com/german-professor-star-wars-fan-repaints-observatory/)
 - [Amazon Sidewalk](https://www.amazon.com/gp/browse.html?node=21328123011)
 - [IoT Unravelled Part 2: IP Addresses, Network, Zigbee, Custom Firmware, Soldering](https://www.troyhunt.com/iot-unravelled-part-2-ip-addresses-network-zigbee-custom-firmware-and-soldering/)
-- [Plugin hybrids in new emissions scandal: test show higher pollution than claimed](https://www.transportenvironment.org/press/plug-hybrids-new-emissions-scandal-tests-show-higher-pollution-claimed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
