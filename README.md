@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IRS Could Search Warrantless Location Database over 10k Times](https://www.vice.com/en/article/m7agpa/irs-location-data-venntel-contract)
-- [Protect domains that don’t send email](https://www.gov.uk/guidance/protect-domains-that-dont-send-email)
-- [The Cerrado: how Brazil’s vital ‘water tank’ went from forest to soy fields](https://www.theguardian.com/environment/2020/nov/25/the-cerrado-how-brazils-vital-water-tank-went-from-forest-to-soy-fields)
-- [Edward Snowden on the Dangers of Silicon Valley Censorship [video]](https://www.youtube.com/watch?v=5qEuKCS-czU&feature=emb_title)
-- [Java Verbal Expressions](https://github.com/VerbalExpressions/JavaVerbalExpressions)
+- [Tesorio Is Hiring a Senior Product Manager and Senior Engineers](https://www.tesorio.com/careers#job-openings)
+- [Diego Maradona: Argentina legend dies aged 60](https://www.bbc.co.uk/sport/football/54810392)
+- [Salesforce Possibly Acquiring Slack](https://www.cnbc.com/2020/11/25/slack-shares-jump-following-report-of-possible-salesforce-acquisition.html)
+- [WhatsApp can now read your recent messages when you report a user](https://wabetainfo.com/whatsapp-beta-for-android-2-20-206-3-whats-new/)
+- [Diego Maradona, one of the greatest footballers of all time, dies aged 60](https://www.theguardian.com/football/2020/nov/25/diego-maradona-dies-one-of-greatest-footballers-of-all-time-argentina-world-cup-1986)
 <!-- BLOG-POST-LIST:END -->
 
 ---
