@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Performance Matters (2019)](https://www.hillelwayne.com/post/performance-matters/)
+- [Discord bans me for using their official client](https://annaclemens.io/discord)
+- [A Survival Guide to Medieval Fairy Tales](https://www.medievalists.net/2020/11/medieval-fairy-tales/)
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [A Port of “The Last True Unix” to x86](https://www.nordier.com/)
-- [Topology-Aware Service Routing on Kubernetes with Linkerd](https://linkerd.io/2020/11/23/topology-aware-service-routing-on-kubernetes-with-linkerd/)
-- [Quiver: A modern commutative diagram editor](https://github.com/varkor/quiver)
-- [The Circles Don't Move](https://twitter.com/skepteis/status/1331665705645842434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
