@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js Commerce store, one-click deploy to Netlify](https://github.com/chec/commercejs-nextjs-demo-store)
+- [The Error Model (2016)](http://joeduffyblog.com/2016/02/07/the-error-model/)
+- [SpinLaunch is building a gigantic centrifuge to launch satellites into orbit](https://www.syfy.com/syfywire/spinlaunch-centrifuge-slingshots-rockets-into-space)
 - [Coinbase Pro Disables Margin Trading](https://blog.coinbase.com/coinbase-pro-disables-margin-trading-42f5862f8a66?_branch_match_id=294135607811499728&source=emailShare-23ee579691f2-1606255385&gi=b0ebf2e9c5b0)
-- [Progress bars still lie](https://web.eecs.utk.edu/~azh/blog/fixprogressbars.html)
-- [Repl.it (YC W18) Is Hiring Growth and SRE](https://jobs.lever.co/replit/)
-- [AWS Managed Workflows for Apache Airflow](https://aws.amazon.com/blogs/aws/introducing-amazon-managed-workflows-for-apache-airflow-mwaa/)
-- [Apple Silicon M1: Black. Magic. Fuckery](https://www.singhkays.com/blog/apple-silicon-m1-black-magic/)
+- [US internet speeds 91% faster in 2020 according to user speed tests](https://fairinternetreport.com/research/usa-vs-europe-internet-speed-analysis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
