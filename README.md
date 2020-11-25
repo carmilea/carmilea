@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RevenueCat (YC S18) Is Hiring an Engineering Manager (Remote)](https://jobs.lever.co/revenuecat/c77633a8-2047-4082-9cc6-91de1c13c68e)
+- [An API is a user interface](https://www.arp242.net/api-ux.html)
+- [Show HN: I made a simple tool to sell your services on a subscription basis](https://retainer.dev/)
 - [We need the wolf](https://www.theguardian.com/environment/2020/nov/24/landscape-of-fear-why-we-need-the-wolf-rewilding-scotland)
 - [Watch how a dangerous air pollutant dropped during Covid-19 in NASA video](https://www.mercedsunstar.com/news/nation-world/national/article247403485.html)
-- [How the U.S. Used Disinformation and the 'Jakarta Method' to Change the World](https://www.insideedition.com/how-the-us-used-disinformation-and-the-jakarta-method-to-change-the-world-62895)
-- [Next.js Commerce store, one-click deploy to Netlify](https://github.com/chec/commercejs-nextjs-demo-store)
-- [The Error Model (2016)](http://joeduffyblog.com/2016/02/07/the-error-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
