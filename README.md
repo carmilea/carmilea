@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dashboards to Fastboards](https://www.singlestore.com/blog/dashboards-to-fastboards/)
 - [FreeBSD Desktop – Part 3 – X11 Window System – 𝚟𝚎𝚛𝚖𝚊𝚍𝚎𝚗](https://vermaden.wordpress.com/2018/05/22/freebsd-desktop-part-3-x11-window-system/)
+- [Preserving Flash: why emulation is better than migration](https://blog.dshr.org/2020/11/i-rest-my-case.html)
 - [The Future of the Free Software Foundation](https://www.fsf.org/blogs/sysadmin/moving-into-the-future-with-the-fsf-tech-team)
-- [Mmhmm](https://www.mmhmm.app/)
-- [Tesorio Is Hiring a Senior Product Manager and Senior Engineers](https://www.tesorio.com/careers#job-openings)
-- [Diego Maradona has died](https://www.bbc.co.uk/sport/football/54810392)
+- [Blender 2.91 Released](https://www.blender.org/download/releases/2-91/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
