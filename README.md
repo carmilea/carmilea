@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [A Port of “The Last True Unix” to x86](https://www.nordier.com/)
 - [Topology-Aware Service Routing on Kubernetes with Linkerd](https://linkerd.io/2020/11/23/topology-aware-service-routing-on-kubernetes-with-linkerd/)
 - [Quiver: A modern commutative diagram editor](https://github.com/varkor/quiver)
-- [Governors take heat for violating their own coronavirus restrictions](https://thehill.com/homenews/state-watch/527465-governors-take-heat-for-violating-their-own-coronavirus-restrictions)
 - [The Circles Don't Move](https://twitter.com/skepteis/status/1331665705645842434)
 <!-- BLOG-POST-LIST:END -->
 
