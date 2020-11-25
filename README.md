@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Locating a hospital by hanging meat around the city (981CE)](https://en.wikipedia.org/wiki/Bimaristan#Al-Adudi_Hospital)
-- [macOS has checked app signatures online for over 2 years](https://eclecticlight.co/2020/11/25/macos-has-checked-app-signatures-online-for-over-2-years/)
-- [Proptee: £0 commission property stock exchange](https://proptee.io/)
-- [Raptor Maps (YC S16) Is Hiring Software Engineers for Solar Industry Product](https://raptormaps.com/jobs/)
-- [We Rewrote Everything in $hotlang, and Our Startup Still Failed](https://docs.google.com/document/d/1hKdqwFOfqPDgon-USFzZYsKWMgbHpAyJiFnjYQ7gVdA/edit)
+- [Misinformation ‘Superspreaders’ Seed False Election Theories](https://www.nytimes.com/2020/11/23/technology/election-misinformation-facebook-twitter.html)
+- [Libgen Storage Decentralization on IPFS](https://freeread.org/ipfs/)
+- [For What Are America's Wealthy Thankful? A Worsening Culture War](https://taibbi.substack.com/p/for-what-are-americas-wealthy-thankful-fe3)
+- [A Modern Compiler for the French Tax Code](https://arxiv.org/abs/2011.07966)
+- [We Fix: A DIY Manifesto (2014)](https://www.popularmechanics.com/home/how-to/a10652/why-we-fix-a-diy-manifesto-16846653/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
