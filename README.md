@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HuffPost India is history, thanks to new FDI norms](https://www.newslaundry.com/2020/11/25/huffpost-india-is-history-thanks-to-new-fdi-norms)
+- [Raptor Maps (YC S16) Is Hiring Software Engineers for Solar Industry Product](https://raptormaps.com/jobs/)
+- [Apache OpenMeetings – video chat, messaging, white board, doc editing and more](https://openmeetings.apache.org/)
+- [Unequal Power](https://www.epi.org/unequalpower/)
+- [View of Andromeda over Patagonia](https://misspellede.com/us/andromeda-over-patagonia/)
 - [IoT Unravelled Part 3: Security](https://www.troyhunt.com/iot-unravelled-part-3-security/)
-- [1% of farms operate 70% of world's farmland](https://www.theguardian.com/environment/2020/nov/24/farmland-inequality-is-rising-around-the-world-finds-report)
-- [Raspberry Pi 4 V3DV graphics driver achieves Vulkan 1.0 conformance](https://www.cnx-software.com/2020/11/25/raspberry-pi-4-v3dv-graphics-driver-achieves-vulkan-1-0-conformance/)
-- [RevenueCat (YC S18) Is Hiring an Engineering Manager (Remote)](https://jobs.lever.co/revenuecat/c77633a8-2047-4082-9cc6-91de1c13c68e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
