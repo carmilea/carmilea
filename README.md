@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We need the wolf](https://www.theguardian.com/environment/2020/nov/24/landscape-of-fear-why-we-need-the-wolf-rewilding-scotland)
 - [Watch how a dangerous air pollutant dropped during Covid-19 in NASA video](https://www.mercedsunstar.com/news/nation-world/national/article247403485.html)
+- [How the U.S. Used Disinformation and the 'Jakarta Method' to Change the World](https://www.insideedition.com/how-the-us-used-disinformation-and-the-jakarta-method-to-change-the-world-62895)
 - [Next.js Commerce store, one-click deploy to Netlify](https://github.com/chec/commercejs-nextjs-demo-store)
 - [The Error Model (2016)](http://joeduffyblog.com/2016/02/07/the-error-model/)
-- [SpinLaunch is building a gigantic centrifuge to launch satellites into orbit](https://www.syfy.com/syfywire/spinlaunch-centrifuge-slingshots-rockets-into-space)
-- [US internet speeds 91% faster in 2020 according to user speed tests](https://fairinternetreport.com/research/usa-vs-europe-internet-speed-analysis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
