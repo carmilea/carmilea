@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Misinformation ‘Superspreaders’ Seed False Election Theories](https://www.nytimes.com/2020/11/23/technology/election-misinformation-facebook-twitter.html)
-- [Libgen Storage Decentralization on IPFS](https://freeread.org/ipfs/)
-- [For What Are America's Wealthy Thankful? A Worsening Culture War](https://taibbi.substack.com/p/for-what-are-americas-wealthy-thankful-fe3)
-- [A Modern Compiler for the French Tax Code](https://arxiv.org/abs/2011.07966)
-- [We Fix: A DIY Manifesto (2014)](https://www.popularmechanics.com/home/how-to/a10652/why-we-fix-a-diy-manifesto-16846653/)
+- [Laser fusion reactor approaches ‘burning plasma’ milestone](https://www.sciencemag.org/news/2020/11/laser-fusion-reactor-approaches-burning-plasma-milestone)
+- [The Grand Unification Proposal [doc]](https://docs.google.com/document/d/1Ys-2Pb6PUVl8-5BMhM770trKNp_DmGrfskDlp-L_WSs/preview?pru=AAABdiPfn7Y*IRT5QXJF7RDRgVb8-q53aA)
+- [Cloudwatch just stopped triggering our Lambdas](https://twitter.com/bugaralife/status/1331604999802122240)
+- [Build It with Nitrogen: The Fast-Off-the-Block Erlang Web Framework](https://leanpub.com/builditwithnitrogen)
+- [What is Breach and Attack Simulation](https://www.cloudcape.de/en/what-is-breach-and-attack-simulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
