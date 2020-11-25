@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Laser fusion reactor approaches ‘burning plasma’ milestone](https://www.sciencemag.org/news/2020/11/laser-fusion-reactor-approaches-burning-plasma-milestone)
-- [The Grand Unification Proposal [doc]](https://docs.google.com/document/d/1Ys-2Pb6PUVl8-5BMhM770trKNp_DmGrfskDlp-L_WSs/preview?pru=AAABdiPfn7Y*IRT5QXJF7RDRgVb8-q53aA)
-- [Cloudwatch just stopped triggering our Lambdas](https://twitter.com/bugaralife/status/1331604999802122240)
-- [Build It with Nitrogen: The Fast-Off-the-Block Erlang Web Framework](https://leanpub.com/builditwithnitrogen)
-- [What is Breach and Attack Simulation](https://www.cloudcape.de/en/what-is-breach-and-attack-simulation/)
+- [IRS Could Search Warrantless Location Database over 10k Times](https://www.vice.com/en/article/m7agpa/irs-location-data-venntel-contract)
+- [Protect domains that don’t send email](https://www.gov.uk/guidance/protect-domains-that-dont-send-email)
+- [The Cerrado: how Brazil’s vital ‘water tank’ went from forest to soy fields](https://www.theguardian.com/environment/2020/nov/25/the-cerrado-how-brazils-vital-water-tank-went-from-forest-to-soy-fields)
+- [Edward Snowden on the Dangers of Silicon Valley Censorship [video]](https://www.youtube.com/watch?v=5qEuKCS-czU&feature=emb_title)
+- [Java Verbal Expressions](https://github.com/VerbalExpressions/JavaVerbalExpressions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
