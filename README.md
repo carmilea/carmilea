@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Locating a hospital by hanging meat around the city (981CE)](https://en.wikipedia.org/wiki/Bimaristan#Al-Adudi_Hospital)
+- [macOS has checked app signatures online for over 2 years](https://eclecticlight.co/2020/11/25/macos-has-checked-app-signatures-online-for-over-2-years/)
+- [Proptee: £0 commission property stock exchange](https://proptee.io/)
 - [Raptor Maps (YC S16) Is Hiring Software Engineers for Solar Industry Product](https://raptormaps.com/jobs/)
-- [Apache OpenMeetings – video chat, messaging, white board, doc editing and more](https://openmeetings.apache.org/)
-- [Unequal Power](https://www.epi.org/unequalpower/)
-- [View of Andromeda over Patagonia](https://misspellede.com/us/andromeda-over-patagonia/)
-- [IoT Unravelled Part 3: Security](https://www.troyhunt.com/iot-unravelled-part-3-security/)
+- [We Rewrote Everything in $hotlang, and Our Startup Still Failed](https://docs.google.com/document/d/1hKdqwFOfqPDgon-USFzZYsKWMgbHpAyJiFnjYQ7gVdA/edit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
