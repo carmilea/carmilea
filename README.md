@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1% of farms operate 70% of world's farmland](https://www.theguardian.com/environment/2020/nov/24/farmland-inequality-is-rising-around-the-world-finds-report)
 - [RevenueCat (YC S18) Is Hiring an Engineering Manager (Remote)](https://jobs.lever.co/revenuecat/c77633a8-2047-4082-9cc6-91de1c13c68e)
 - [An API is a user interface](https://www.arp242.net/api-ux.html)
-- [Show HN: I made a simple tool to sell your services on a subscription basis](https://retainer.dev/)
 - [We need the wolf](https://www.theguardian.com/environment/2020/nov/24/landscape-of-fear-why-we-need-the-wolf-rewilding-scotland)
 - [Watch how a dangerous air pollutant dropped during Covid-19 in NASA video](https://www.mercedsunstar.com/news/nation-world/national/article247403485.html)
 <!-- BLOG-POST-LIST:END -->
