@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD Desktop – Part 3 – X11 Window System – 𝚟𝚎𝚛𝚖𝚊𝚍𝚎𝚗](https://vermaden.wordpress.com/2018/05/22/freebsd-desktop-part-3-x11-window-system/)
+- [The Future of the Free Software Foundation](https://www.fsf.org/blogs/sysadmin/moving-into-the-future-with-the-fsf-tech-team)
+- [Mmhmm](https://www.mmhmm.app/)
 - [Tesorio Is Hiring a Senior Product Manager and Senior Engineers](https://www.tesorio.com/careers#job-openings)
-- [Diego Maradona: Argentina legend dies aged 60](https://www.bbc.co.uk/sport/football/54810392)
-- [Salesforce Possibly Acquiring Slack](https://www.cnbc.com/2020/11/25/slack-shares-jump-following-report-of-possible-salesforce-acquisition.html)
-- [WhatsApp can now read your recent messages when you report a user](https://wabetainfo.com/whatsapp-beta-for-android-2-20-206-3-whats-new/)
-- [Diego Maradona, one of the greatest footballers of all time, dies aged 60](https://www.theguardian.com/football/2020/nov/25/diego-maradona-dies-one-of-greatest-footballers-of-all-time-argentina-world-cup-1986)
+- [Diego Maradona has died](https://www.bbc.co.uk/sport/football/54810392)
 <!-- BLOG-POST-LIST:END -->
 
 ---
