@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [World's first no-kill eggs go on sale in Berlin](https://www.theguardian.com/environment/2018/dec/22/worlds-first-no-kill-eggs-go-on-sale-in-berlin)
+- [HuffPost India is history because of Indian govt new foreign investment rules](https://www.newslaundry.com/2020/11/25/huffpost-india-is-history-thanks-to-new-fdi-norms)
 - [1% of farms operate 70% of world's farmland](https://www.theguardian.com/environment/2020/nov/24/farmland-inequality-is-rising-around-the-world-finds-report)
+- [Raspberry Pi 4 V3DV graphics driver achieves Vulkan 1.0 conformance](https://www.cnx-software.com/2020/11/25/raspberry-pi-4-v3dv-graphics-driver-achieves-vulkan-1-0-conformance/)
 - [RevenueCat (YC S18) Is Hiring an Engineering Manager (Remote)](https://jobs.lever.co/revenuecat/c77633a8-2047-4082-9cc6-91de1c13c68e)
-- [An API is a user interface](https://www.arp242.net/api-ux.html)
-- [We need the wolf](https://www.theguardian.com/environment/2020/nov/24/landscape-of-fear-why-we-need-the-wolf-rewilding-scotland)
-- [Watch how a dangerous air pollutant dropped during Covid-19 in NASA video](https://www.mercedsunstar.com/news/nation-world/national/article247403485.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
