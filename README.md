@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Edx bans Iranians while MOOCs are specifically exepmted from sanctions](https://news.ycombinator.com/item?id=25203876)
-- [Show HN: Desks with Embedded Wiring](http://www.cabletread.com)
 - [Coinbase Pro Disables Margin Trading](https://blog.coinbase.com/coinbase-pro-disables-margin-trading-42f5862f8a66?_branch_match_id=294135607811499728&source=emailShare-23ee579691f2-1606255385&gi=b0ebf2e9c5b0)
-- [US Internet Speeds 91% Faster in 2020 According to User Speed Tests](https://fairinternetreport.com/research/usa-vs-europe-internet-speed-analysis)
 - [Progress bars still lie](https://web.eecs.utk.edu/~azh/blog/fixprogressbars.html)
+- [Repl.it (YC W18) Is Hiring Growth and SRE](https://jobs.lever.co/replit/)
+- [AWS Managed Workflows for Apache Airflow](https://aws.amazon.com/blogs/aws/introducing-amazon-managed-workflows-for-apache-airflow-mwaa/)
+- [Apple Silicon M1: Black. Magic. Fuckery](https://www.singhkays.com/blog/apple-silicon-m1-black-magic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
