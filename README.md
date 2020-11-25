@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run a Database on AWS with Better Performance and Lower Cost](https://pingcap.com/blog/run-database-on-aws-with-better-performance-and-lower-cost/)
-- [Remember when you could reboot your computer without rebooting your phone first?](https://annoying.technology/posts/7b574a72da90e5cd/)
+- [Watch how a dangerous air pollutant dropped during Covid-19 in NASA video](https://www.mercedsunstar.com/news/nation-world/national/article247403485.html)
 - [Next.js Commerce store, one-click deploy to Netlify](https://github.com/chec/commercejs-nextjs-demo-store)
 - [The Error Model (2016)](http://joeduffyblog.com/2016/02/07/the-error-model/)
 - [SpinLaunch is building a gigantic centrifuge to launch satellites into orbit](https://www.syfy.com/syfywire/spinlaunch-centrifuge-slingshots-rockets-into-space)
+- [US internet speeds 91% faster in 2020 according to user speed tests](https://fairinternetreport.com/research/usa-vs-europe-internet-speed-analysis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
