@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dashboards to Fastboards](https://www.singlestore.com/blog/dashboards-to-fastboards/)
-- [FreeBSD Desktop – Part 3 – X11 Window System – 𝚟𝚎𝚛𝚖𝚊𝚍𝚎𝚗](https://vermaden.wordpress.com/2018/05/22/freebsd-desktop-part-3-x11-window-system/)
-- [Preserving Flash: why emulation is better than migration](https://blog.dshr.org/2020/11/i-rest-my-case.html)
-- [The Future of the Free Software Foundation](https://www.fsf.org/blogs/sysadmin/moving-into-the-future-with-the-fsf-tech-team)
-- [Blender 2.91 Released](https://www.blender.org/download/releases/2-91/)
+- [A Port of “The Last True Unix” to x86](https://www.nordier.com/)
+- [Topology-Aware Service Routing on Kubernetes with Linkerd](https://linkerd.io/2020/11/23/topology-aware-service-routing-on-kubernetes-with-linkerd/)
+- [Quiver: A modern commutative diagram editor](https://github.com/varkor/quiver)
+- [Governors take heat for violating their own coronavirus restrictions](https://thehill.com/homenews/state-watch/527465-governors-take-heat-for-violating-their-own-coronavirus-restrictions)
+- [The Circles Don't Move](https://twitter.com/skepteis/status/1331665705645842434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
