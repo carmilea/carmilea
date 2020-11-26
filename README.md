@@ -55,7 +55,7 @@
 - [Io_uring and eBPF Will Revolutionize Programming in Linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
 - [The major genetic risk factor for severe Covid-19 is inherited from Neanderthals](https://www.nature.com/articles/s41586-020-2818-3)
 - [TrueVault (YC W14) is hiring a UX/UI Designer for a new product](https://news.ycombinator.com/item?id=25221670)
-- [The cost of fixed-line broadband in 206 countries](https://www.cable.co.uk/broadband/pricing/worldwide-comparison/)
+- [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
