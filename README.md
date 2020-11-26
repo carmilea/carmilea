@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s Secureboot private key leaked](https://twitter.com/j_duffy01/status/1332076828664754176)
 - [Fucking, Austria changes name to Fugging](https://www.theguardian.com/world/2020/nov/26/fugging-hell-tired-of-mockery-austrian-village-changes-name)
 - [The Muse (YC W12) Is Hiring a Director of Analytics and BI](https://www.themuse.com/jobs/themuse/director-of-analytics-business-intelligence)
 - [Bombadillo](https://bombadillo.colorfield.space/)
-- [Leaf-cutter ants have rocky crystal armor, never before seen in insects](https://api.nationalgeographic.com/distribution/public/animals/2020/11/leaf-cutter-ants-have-strong-mineral-armor)
+- [Leaf-cutter ants have rocky crystal armor, never before seen in insects](https://www.nationalgeographic.com/animals/2020/11/leaf-cutter-ants-have-strong-mineral-armor/)
+- [The Sparrow with Four Sexes (2016)](https://www.nature.com/news/the-sparrow-with-four-sexes-1.21018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
