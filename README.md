@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Java is better than C++ for high speed trading systems](https://news.efinancialcareers.com/uk-en/3004875/low-latency-java-trading-systems)
+- [Raycast (YC W20) Is Hiring Fullstack Software Engineers (EU, Remote)](https://raycast.com/jobs/software-engineer-fullstack)
+- [An ex-Googler’s guide to dev tools](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools/)
+- [Java is better than C++ for high speed trading systems](https://news.efinancialcareers.com/uk-en/3004875/low-latency-java-trading-systems)
+- [Amazon Sorry for Sidewalk 'Confusion'](https://www.bbc.com/news/technology-55059696)
 - [TSMC and Google push chipmaking boundaries with 3D 'stacking'](https://asia.nikkei.com/Business/Technology/TSMC-and-Google-push-chipmaking-boundaries-with-3D-stacking)
-- [GiftGenius – An Artificial Intelligence Gift Concierge Built on GPT-3](http://GiftGenius.ai)
-- [An upcoming story about Coinbase](https://blog.coinbase.com/upcoming-story-about-coinbase-2012afc25d27)
-- [Everything You Know About MongoDB Is Wrong](https://developer.mongodb.com/article/everything-you-know-is-wrong)
 <!-- BLOG-POST-LIST:END -->
 
 ---
