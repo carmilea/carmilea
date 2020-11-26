@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Java is better than C++ for high speed trading systems](https://news.efinancialcareers.com/uk-en/3004875/low-latency-java-trading-systems)
+- [TSMC and Google push chipmaking boundaries with 3D 'stacking'](https://asia.nikkei.com/Business/Technology/TSMC-and-Google-push-chipmaking-boundaries-with-3D-stacking)
+- [GiftGenius – An Artificial Intelligence Gift Concierge Built on GPT-3](http://GiftGenius.ai)
+- [An upcoming story about Coinbase](https://blog.coinbase.com/upcoming-story-about-coinbase-2012afc25d27)
 - [Everything You Know About MongoDB Is Wrong](https://developer.mongodb.com/article/everything-you-know-is-wrong)
-- [How the Once Elusive Dream of Laser Weapons Suddenly Became a Reality](https://www.thedrive.com/the-war-zone/37775/how-the-once-elusive-dream-of-laser-weapons-suddenly-became-a-reality)
-- [Pimutils: The coreutils of personal information management](https://pimutils.org/)
-- [How fast does interpolation search converge?](https://lemire.me/blog/2020/11/25/how-fast-does-interpolation-search-converge)
-- [Technology as It Should Be](https://puri.sm/posts/technology-as-it-should-be/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
