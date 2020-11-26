@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Truly Sustainable Technology Is Free and Open](https://opensustain.tech/)
-- [Magic Mushrooms Are Changing the Lives of Terminal Cancer Patients](https://thetyee.ca/News/2020/11/25/Magic-Mushrooms-Changing-Lives-Terminal-Cancer-Patients/)
-- [Mozilla/web-ext: A command line tool to help build, run, and test web extensions](https://github.com/mozilla/web-ext)
-- [Raycast (YC W20) Is Hiring Fullstack Software Engineers (EU, Remote)](https://raycast.com/jobs/software-engineer-fullstack)
-- [An ex-Googler’s guide to dev tools](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools/)
+- [Origin of the trefoil radiation warning sign](https://www.orau.org/ptp/articlesstories/radwarnsymbstory.htm)
+- [6 Essential Things I Wish I Knew When I Started Programming](https://blog.nickbulljs.com/6-essential-things-i-wish-i-knew-when-i-started-programming)
+- [China aims to shake US grip on chip design tools](https://asia.nikkei.com/Business/China-tech/China-aims-to-shake-US-grip-on-chip-design-tools)
+- [EmacsConf 2020: State of Retro Gaming in Emacs](https://emacsconf.org/2020/schedule/27/)
+- [Your Move, iPad](https://beckyhansmeyer.com/2020/11/25/your-move-ipad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
