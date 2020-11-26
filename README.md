@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How My Paid Community Made $5K in Its First Week](https://monicalent.com/paid-community-launch/)
+- [For the first time in European history, registrations for EV's overtook diesel](https://www.jato.com/in-september-2020-for-the-first-time-in-european-history-registrations-for-electrified-vehicles-overtook-diesel/?TrucksFoT&utm_source=Benedict%27s+Newsletter&utm_campaign=4ae5655276-Benedict%27s+newsletter+free&utm_medium=email&utm_term=0_4999ca107f-4ae5655276-70706881)
+- [How fear and disgust drive consumer behavior](https://hbr.org/2020/11/in-a-pandemic-we-buy-what-we-know)
+- [Ubuntu successfully virtualized on M1](https://forums.macrumors.com/threads/ubuntu-linux-virtualized-on-m1-success.2270365/?post=29300053#post-29300053)
 - [Show HN: Forexbook – Automated trading journal that syncs with Metatrader](https://forexbook.com)
-- [GiveCampus (YC S15) Is Hiring remote Sr engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
-- [We need a FrontPage that lets common folk retake the internet with creativity](https://invisibleup.com/articles/33/)
-- [Origin of the trefoil radiation warning sign](https://www.orau.org/ptp/articlesstories/radwarnsymbstory.htm)
-- [China aims to shake US grip on chip design tools](https://asia.nikkei.com/Business/China-tech/China-aims-to-shake-US-grip-on-chip-design-tools)
 <!-- BLOG-POST-LIST:END -->
 
 ---
