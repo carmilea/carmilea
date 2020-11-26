@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Find info about the developers who post projects on Show HN](https://showhn-dashboard.netlify.app/)
+- [Parse, Don’t Type-Check](https://neilmadden.blog/2020/11/25/parse-dont-type-check/)
 - [How My Paid Community Made $5K in Its First Week](https://monicalent.com/paid-community-launch/)
 - [For the first time in European history, registrations for EV's overtook diesel](https://www.jato.com/in-september-2020-for-the-first-time-in-european-history-registrations-for-electrified-vehicles-overtook-diesel/?TrucksFoT&utm_source=Benedict%27s+Newsletter&utm_campaign=4ae5655276-Benedict%27s+newsletter+free&utm_medium=email&utm_term=0_4999ca107f-4ae5655276-70706881)
-- [How fear and disgust drive consumer behavior](https://hbr.org/2020/11/in-a-pandemic-we-buy-what-we-know)
 - [Ubuntu successfully virtualized on M1](https://forums.macrumors.com/threads/ubuntu-linux-virtualized-on-m1-success.2270365/?post=29300053#post-29300053)
-- [Show HN: Forexbook – Automated trading journal that syncs with Metatrader](https://forexbook.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
