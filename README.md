@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Pimutils: The coreutils of personal information management](https://pimutils.org/)
 - [How fast does interpolation search converge?](https://lemire.me/blog/2020/11/25/how-fast-does-interpolation-search-converge)
-- [Technology as It Should Be – Purism](https://puri.sm/posts/technology-as-it-should-be/)
+- [Technology as It Should Be](https://puri.sm/posts/technology-as-it-should-be/)
 - [Performance Matters (2019)](https://www.hillelwayne.com/post/performance-matters/)
 - [A New Study About Color Tries to Decode ‘The Brain’s Pantone’](https://www.wired.com/story/a-new-study-about-color-tries-to-decode-the-brains-pantone/)
 <!-- BLOG-POST-LIST:END -->
