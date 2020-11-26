@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Find info about the developers who post projects on Show HN](https://showhn-dashboard.netlify.app/)
-- [Parse, Don’t Type-Check](https://neilmadden.blog/2020/11/25/parse-dont-type-check/)
-- [How My Paid Community Made $5K in Its First Week](https://monicalent.com/paid-community-launch/)
-- [For the first time in European history, registrations for EV's overtook diesel](https://www.jato.com/in-september-2020-for-the-first-time-in-european-history-registrations-for-electrified-vehicles-overtook-diesel/?TrucksFoT&utm_source=Benedict%27s+Newsletter&utm_campaign=4ae5655276-Benedict%27s+newsletter+free&utm_medium=email&utm_term=0_4999ca107f-4ae5655276-70706881)
-- [Ubuntu successfully virtualized on M1](https://forums.macrumors.com/threads/ubuntu-linux-virtualized-on-m1-success.2270365/?post=29300053#post-29300053)
+- [Brazil's full DB of Covid tests and patient PII leaked](https://saude.estadao.com.br/noticias/geral,vazamento-de-senha-do-ministerio-da-saude-expoe-dados-de-16-milhoes-de-pacientes-de-covid,70003528583)
+- [Music Production on Guix System](https://guix.gnu.org/en/blog/2020/music-production-on-guix-system/)
+- [PHP 8](https://www.php.net/archive/2020.php#2020-11-26-3)
+- [Show HN: A React Native template with open source login, user management server](https://www.getory.io/login-user-management-mobile-apps-react-native-expo-template)
+- [Show HN: Weird JSON superset with BigInt, Infinity, TypedArray etc](https://github.com/c9fe/weird-json)
 <!-- BLOG-POST-LIST:END -->
 
 ---
