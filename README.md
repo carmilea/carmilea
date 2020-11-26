@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Forexbook – Automated trading journal that syncs with Metatrader](https://forexbook.com)
 - [GiveCampus (YC S15) Is Hiring remote Sr engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
-- [A Kid, a Minor Bike Accident and a $19,000 Medical Bill](https://www.npr.org/sections/health-shots/2020/11/25/937971995/a-kid-a-minor-bike-accident-and-a-19-000-medical-bill)
 - [We need a FrontPage that lets common folk retake the internet with creativity](https://invisibleup.com/articles/33/)
 - [Origin of the trefoil radiation warning sign](https://www.orau.org/ptp/articlesstories/radwarnsymbstory.htm)
 - [China aims to shake US grip on chip design tools](https://asia.nikkei.com/Business/China-tech/China-aims-to-shake-US-grip-on-chip-design-tools)
