@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [TrueVault (YC W14) is hiring a UX/UI Designer for a new product](https://news.ycombinator.com/item?id=25221670)
+- [Show HN: Evolving Top-Down Shooter](https://github.com/dcz-self/breedmatic)
 - [The cost of fixed-line broadband in 206 countries](https://www.cable.co.uk/broadband/pricing/worldwide-comparison/)
 - [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
 - [Reconstructing the sound of WW1 artillery from counter-battery ranging systems](https://codatocoda.com/blog/making-a-new-world-armistice-soundwave/)
-- [The Pasta King Trusted Us–On Our Honor](https://www.kqed.org/bayareabites/139616/the-pasta-king-trusted-us-on-our-honor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
