@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Know About MongoDB Is Wrong](https://developer.mongodb.com/article/everything-you-know-is-wrong)
 - [How the Once Elusive Dream of Laser Weapons Suddenly Became a Reality](https://www.thedrive.com/the-war-zone/37775/how-the-once-elusive-dream-of-laser-weapons-suddenly-became-a-reality)
 - [Pimutils: The coreutils of personal information management](https://pimutils.org/)
 - [How fast does interpolation search converge?](https://lemire.me/blog/2020/11/25/how-fast-does-interpolation-search-converge)
 - [Technology as It Should Be](https://puri.sm/posts/technology-as-it-should-be/)
-- [Performance Matters (2019)](https://www.hillelwayne.com/post/performance-matters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
