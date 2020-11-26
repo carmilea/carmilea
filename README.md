@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brazil's full DB of Covid tests and patient PII leaked](https://saude.estadao.com.br/noticias/geral,vazamento-de-senha-do-ministerio-da-saude-expoe-dados-de-16-milhoes-de-pacientes-de-covid,70003528583)
-- [Music Production on Guix System](https://guix.gnu.org/en/blog/2020/music-production-on-guix-system/)
-- [PHP 8](https://www.php.net/archive/2020.php#2020-11-26-3)
-- [Show HN: A React Native template with open source login, user management server](https://www.getory.io/login-user-management-mobile-apps-react-native-expo-template)
-- [Show HN: Weird JSON superset with BigInt, Infinity, TypedArray etc](https://github.com/c9fe/weird-json)
+- [TrueVault (YC W14) is hiring a UX/UI Designer for a new product](https://news.ycombinator.com/item?id=25221670)
+- [The cost of fixed-line broadband in 206 countries](https://www.cable.co.uk/broadband/pricing/worldwide-comparison/)
+- [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
+- [Reconstructing the sound of WW1 artillery from counter-battery ranging systems](https://codatocoda.com/blog/making-a-new-world-armistice-soundwave/)
+- [The Pasta King Trusted Us–On Our Honor](https://www.kqed.org/bayareabites/139616/the-pasta-king-trusted-us-on-our-honor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
