@@ -54,7 +54,7 @@
 - [Raycast (YC W20) Is Hiring Fullstack Software Engineers (EU, Remote)](https://raycast.com/jobs/software-engineer-fullstack)
 - [An ex-Googler’s guide to dev tools](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools/)
 - [Java is better than C++ for high speed trading systems](https://news.efinancialcareers.com/uk-en/3004875/low-latency-java-trading-systems)
-- [Amazon Sorry for Sidewalk 'Confusion'](https://www.bbc.com/news/technology-55059696)
+- [Facebook’s Latest Error Shakes Advertisers’ Confidence](https://www.wsj.com/articles/facebooks-latest-error-shakes-advertisers-confidence-11606346927)
 - [TSMC and Google push chipmaking boundaries with 3D 'stacking'](https://asia.nikkei.com/Business/Technology/TSMC-and-Google-push-chipmaking-boundaries-with-3D-stacking)
 <!-- BLOG-POST-LIST:END -->
 
