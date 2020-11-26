@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Truly Sustainable Technology Is Free and Open](https://opensustain.tech/)
+- [Magic Mushrooms Are Changing the Lives of Terminal Cancer Patients](https://thetyee.ca/News/2020/11/25/Magic-Mushrooms-Changing-Lives-Terminal-Cancer-Patients/)
+- [Mozilla/web-ext: A command line tool to help build, run, and test web extensions](https://github.com/mozilla/web-ext)
 - [Raycast (YC W20) Is Hiring Fullstack Software Engineers (EU, Remote)](https://raycast.com/jobs/software-engineer-fullstack)
 - [An ex-Googler’s guide to dev tools](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools/)
-- [Java is better than C++ for high speed trading systems](https://news.efinancialcareers.com/uk-en/3004875/low-latency-java-trading-systems)
-- [Facebook’s Latest Error Shakes Advertisers’ Confidence](https://www.wsj.com/articles/facebooks-latest-error-shakes-advertisers-confidence-11606346927)
-- [TSMC and Google push chipmaking boundaries with 3D 'stacking'](https://asia.nikkei.com/Business/Technology/TSMC-and-Google-push-chipmaking-boundaries-with-3D-stacking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
