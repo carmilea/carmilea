@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse (YC W12) Is Hiring a Director of Analytics and BI](https://www.themuse.com/jobs/themuse/director-of-analytics-business-intelligence)
+- [Bombadillo](https://bombadillo.colorfield.space/)
+- [Leaf-cutter ants have rocky crystal armor, never before seen in insects](https://api.nationalgeographic.com/distribution/public/animals/2020/11/leaf-cutter-ants-have-strong-mineral-armor)
+- [The Sparrow with Four Sexes](https://www.nature.com/news/the-sparrow-with-four-sexes-1.21018)
 - [Ragya – Indian classical music played by time of the day](https://www.ragya.com/)
-- [Io_uring and eBPF Will Revolutionize Programming in Linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
-- [The major genetic risk factor for severe Covid-19 is inherited from Neanderthals](https://www.nature.com/articles/s41586-020-2818-3)
-- [TrueVault (YC W14) is hiring a UX/UI Designer for a new product](https://news.ycombinator.com/item?id=25221670)
-- [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
