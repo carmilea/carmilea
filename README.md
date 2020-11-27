@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cult of Posits](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/posits/)
+- [The Purpose of Writing](https://limitlesscuriosity.com/the-purpose-of-writing/)
 - [US agency investigating Tesla front suspension failures](https://abcnews.go.com/Technology/wireStory/us-agency-investigating-tesla-front-suspension-failures-74425830)
+- [Show HN: Dungeon Map Doodler – A free to use D&D map maker](https://dungeonmapdoodler.com/index.html)
 - [When the Long Tail Wags the Dog (2006)](http://www.bricklin.com/tailwagsdog.htm)
-- [Unusual murder weapons in crime fiction](https://crimereads.com/the-most-unusual-murder-weapons-in-crime-fiction/)
-- [Blackrota, a heavily obfuscated backdoor written in Go](https://blog.netlab.360.com/blackrota-an-obfuscated-backdoor-written-in-go-en/)
-- [Windows for Arm on M1 Mac Successfully Virtualized](https://www.macrumors.com/2020/11/27/developer-successfully-virtualizes-windows-on-m1/?ref=upstract.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
