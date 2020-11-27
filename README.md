@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A look at Chang’e 5 telemetry](https://destevez.net/2020/11/a-look-at-change-5-telemetry/)
+- [A tiny badge led to dozens of sales and hundreds of new followers](https://jakobgreenfeld.com/badge)
+- [Metal for IntelliJ Platform](https://blog.jetbrains.com/platform/2020/11/metal-for-intellij-platform/)
+- [People Can't Vacuum or Use Their Doorbell Because Amazon's Servers Are Down](https://eminetra.com.au/people-cant-vacuum-or-use-their-doorbell-because-amazons-cloud-servers-are-down/74505/)
 - [Fucking, Austria changes name to Fugging](https://www.theguardian.com/world/2020/nov/26/fugging-hell-tired-of-mockery-austrian-village-changes-name)
-- [The Muse (YC W12) Is Hiring a Director of Analytics and BI](https://www.themuse.com/jobs/themuse/director-of-analytics-business-intelligence)
-- [Bombadillo](https://bombadillo.colorfield.space/)
-- [Leaf-cutter ants have rocky crystal armor, never before seen in insects](https://www.nationalgeographic.com/animals/2020/11/leaf-cutter-ants-have-strong-mineral-armor/)
-- [The Sparrow with Four Sexes (2016)](https://www.nature.com/news/the-sparrow-with-four-sexes-1.21018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
