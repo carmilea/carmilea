@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tripping through IBM’s astonishingly insane 1937 corporate songbook](https://arstechnica.com/information-technology/2014/08/tripping-through-ibms-astonishingly-insane-1937-corporate-songbook/)
+- [Green Hydrogen: Could It Be Key to a Carbon-Free Economy?](https://e360.yale.edu/features/green-hydrogen-could-it-be-key-to-a-carbon-free-economy)
+- [Rebuilding the Racket Compiler with Chez Scheme](https://notamonadtutorial.com/rebuilding-the-racket-compiler-with-chez-scheme-210e23a69484)
+- [A New Theory of Western Civilization](https://www.theatlantic.com/magazine/archive/2020/10/joseph-henrich-weird-people/615496/)
+- [Tripping through IBM’s astonishingly insane 1937 corporate songbook (2014)](https://arstechnica.com/information-technology/2014/08/tripping-through-ibms-astonishingly-insane-1937-corporate-songbook/)
 - [How to Think for Yourself](http://paulgraham.com/think.html)
-- [1.5 is the midpoint between 0 and infinity in Ruby](https://blog.peterzhu.ca/ruby-range-bsearch/)
-- [CAPTCHAs don’t prove you’re human – they prove you’re American (2017)](https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/)
-- [Infinite Bad Guy](https://billie.withyoutube.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
