@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cult of Posits](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/posits/)
-- [The Purpose of Writing](https://limitlesscuriosity.com/the-purpose-of-writing/)
-- [US agency investigating Tesla front suspension failures](https://abcnews.go.com/Technology/wireStory/us-agency-investigating-tesla-front-suspension-failures-74425830)
-- [Show HN: Dungeon Map Doodler – A free to use D&D map maker](https://dungeonmapdoodler.com/index.html)
-- [When the Long Tail Wags the Dog (2006)](http://www.bricklin.com/tailwagsdog.htm)
+- [Reveal.js: HTML presentation framework](https://revealjs.com/)
+- [ReStuff](http://restuff.jcs.org)
+- [British engineers develop process to turn moon dust into oxygen](https://www.bignewsnetwork.com/news/267100986/british-engineers-develop-process-to-turn-moon-dust-into-oxygen)
+- [A few ways to make money in FOSS](https://drewdevault.com/2020/11/20/A-few-ways-to-make-money-in-FOSS.html)
+- [TLDR: Extreme Summarization of Scientific Documents](https://arxiv.org/abs/2004.15011)
 <!-- BLOG-POST-LIST:END -->
 
 ---
