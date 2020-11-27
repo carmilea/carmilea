@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blackrota, a heavily obfuscated backdoor written in Go](https://blog.netlab.360.com/blackrota-an-obfuscated-backdoor-written-in-go-en/)
+- [Windows for Arm on M1 Mac Successfully Virtualized](https://www.macrumors.com/2020/11/27/developer-successfully-virtualizes-windows-on-m1/?ref=upstract.com)
+- [Switzerland – Europe's Silicon Valley for Developers?](https://www.wearedevelopers.com/magazine/is-switzerland-better-than-silicon-valley-for-software-developers)
 - [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
-- [Iran’s Top Nuclear Scientist Killed in Attack](https://www.nytimes.com/2020/11/27/world/middleeast/mohsen-fakhrizadeh-iran-scientist-killed.html)
 - [CrateDB: Purpose-built to scale modern applications in a machine data world](https://crate.io/)
-- [Daniel Kahneman: “A Short Course in Thinking About Thinking”](https://www.edge.org/events/the-edge-master-class-2007-a-short-course-in-thinking-about-thinking)
-- [Greg LeMond’s New 26 LB. Carbon Fiber Ebike](http://Lemond.com/prolog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
