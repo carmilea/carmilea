@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Psiloscoby: Psilocybin Brewed by Kombucha](https://invisible.college/project/psiloscoby)
 - [Pandoc for TeXnicians [pdf]](https://tug.org/tug2020/preprints/MacFarlane-Keynote-slides.pdf)
+- [Dear Mozilla: Why Thunderbird 78.x is both great and awful (PGP)](https://www.sindastra.de/p/1583/dear-mozilla-why-thunderbird-78-x-is-both-great-and-awful-pgp/)
 - [A look at Chang’e 5 telemetry](https://destevez.net/2020/11/a-look-at-change-5-telemetry/)
 - [Metal for IntelliJ Platform](https://blog.jetbrains.com/platform/2020/11/metal-for-intellij-platform/)
-- [People Can't Vacuum or Use Their Doorbell Because Amazon's Servers Are Down](https://eminetra.com.au/people-cant-vacuum-or-use-their-doorbell-because-amazons-cloud-servers-are-down/74505/)
-- [The Muse (YC W12) Is Hiring a Director of Analytics and BI](https://www.themuse.com/jobs/themuse/director-of-analytics-business-intelligence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
