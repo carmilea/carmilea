@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Psiloscoby: Psilocybin Brewed by Kombucha](https://invisible.college/project/psiloscoby)
 - [Pandoc for TeXnicians [pdf]](https://tug.org/tug2020/preprints/MacFarlane-Keynote-slides.pdf)
-- [Dear Mozilla: Why Thunderbird 78.x is both great and awful (PGP)](https://www.sindastra.de/p/1583/dear-mozilla-why-thunderbird-78-x-is-both-great-and-awful-pgp/)
+- [Thunderbird 78.x is great but has issues for advanced PGP users](https://www.sindastra.de/p/1583/dear-mozilla-why-thunderbird-78-x-is-both-great-and-awful-pgp/)
 - [A look at Chang’e 5 telemetry](https://destevez.net/2020/11/a-look-at-change-5-telemetry/)
 - [Metal for IntelliJ Platform](https://blog.jetbrains.com/platform/2020/11/metal-for-intellij-platform/)
 <!-- BLOG-POST-LIST:END -->
