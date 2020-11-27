@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tripping through IBM’s astonishingly insane 1937 corporate songbook](https://arstechnica.com/information-technology/2014/08/tripping-through-ibms-astonishingly-insane-1937-corporate-songbook/)
+- [How to Think for Yourself](http://paulgraham.com/think.html)
 - [1.5 is the midpoint between 0 and infinity in Ruby](https://blog.peterzhu.ca/ruby-range-bsearch/)
 - [CAPTCHAs don’t prove you’re human – they prove you’re American (2017)](https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/)
 - [Infinite Bad Guy](https://billie.withyoutube.com/)
-- [How to Memorize Faster with the Spaced Repetition Learning Technique](https://productive.fish/blog/spaced-repetition/)
-- [The Leaderless Organization (2012)](https://digitaltonto.com/2012/the-leaderless-organization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
