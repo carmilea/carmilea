@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US agency investigating Tesla front suspension failures](https://abcnews.go.com/Technology/wireStory/us-agency-investigating-tesla-front-suspension-failures-74425830)
+- [When the Long Tail Wags the Dog (2006)](http://www.bricklin.com/tailwagsdog.htm)
+- [Unusual murder weapons in crime fiction](https://crimereads.com/the-most-unusual-murder-weapons-in-crime-fiction/)
 - [Blackrota, a heavily obfuscated backdoor written in Go](https://blog.netlab.360.com/blackrota-an-obfuscated-backdoor-written-in-go-en/)
 - [Windows for Arm on M1 Mac Successfully Virtualized](https://www.macrumors.com/2020/11/27/developer-successfully-virtualizes-windows-on-m1/?ref=upstract.com)
-- [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
-- [CrateDB: Purpose-built to scale modern applications in a machine data world](https://crate.io/)
-- [European Parliament vote takes another big step toward ‘right to repair’](https://www.theverge.com/2020/11/25/21719701/european-parliament-right-to-repair-resolution-hardware-eu-commission-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
