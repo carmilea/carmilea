@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I've Recorded My Drug Use in an Excel Sheet for Nine Years](https://www.vice.com/en/article/jgq8g7/ive-recorded-my-drug-use-in-an-excel-sheet-for-nine-years)
+- [Microsoft's Creepy New 'Productivity Score' Gamifies Workplace Surveillance](https://gizmodo.com/microsofts-creepy-new-productivity-score-gamifies-workp-1845763063)
+- [A group of recent Princeton graduates has won more than $6M in 66 lottery wins](https://www.indystar.com/story/news/investigations/2020/11/11/group-recent-princeton-grads-winning-lotteries-across-u-s/6146979002/)
 - [Psiloscoby: Psilocybin Brewed by Kombucha](https://invisible.college/project/psiloscoby)
 - [Pandoc for TeXnicians [pdf]](https://tug.org/tug2020/preprints/MacFarlane-Keynote-slides.pdf)
-- [Thunderbird 78.x is great but has issues for advanced PGP users](https://www.sindastra.de/p/1583/dear-mozilla-why-thunderbird-78-x-is-both-great-and-awful-pgp/)
-- [A look at Chang’e 5 telemetry](https://destevez.net/2020/11/a-look-at-change-5-telemetry/)
-- [Metal for IntelliJ Platform](https://blog.jetbrains.com/platform/2020/11/metal-for-intellij-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
