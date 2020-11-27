@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Blackrota, a heavily obfuscated backdoor written in Go](https://blog.netlab.360.com/blackrota-an-obfuscated-backdoor-written-in-go-en/)
 - [Windows for Arm on M1 Mac Successfully Virtualized](https://www.macrumors.com/2020/11/27/developer-successfully-virtualizes-windows-on-m1/?ref=upstract.com)
-- [Switzerland – Europe's Silicon Valley for Developers?](https://www.wearedevelopers.com/magazine/is-switzerland-better-than-silicon-valley-for-software-developers)
 - [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
 - [CrateDB: Purpose-built to scale modern applications in a machine data world](https://crate.io/)
+- [European Parliament vote takes another big step toward ‘right to repair’](https://www.theverge.com/2020/11/25/21719701/european-parliament-right-to-repair-resolution-hardware-eu-commission-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
