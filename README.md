@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1.5 is the midpoint between 0 and infinity in Ruby](https://blog.peterzhu.ca/ruby-range-bsearch/)
+- [CAPTCHAs don’t prove you’re human – they prove you’re American (2017)](https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/)
 - [How to Memorize Faster with the Spaced Repetition Learning Technique](https://productive.fish/blog/spaced-repetition/)
 - [YouTuber gets cease and desist notice for video showing how to make cheese](https://m.youtube.com/watch?v=M_AzMLhPF1Q)
 - [The Leaderless Organization (2012)](https://digitaltonto.com/2012/the-leaderless-organization/)
-- [Amazon Workers to Stage Coordinated Black Friday Protests in 15 Countries](https://www.vice.com/en/article/epdvzp/amazon-workers-to-stage-coordinated-black-friday-protests-in-12-countries)
-- [DIY Smart Doorbell with a Raspberry Pi](https://www.technicallywizardry.com/diy-smart-doorbell-raspberry-pi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
