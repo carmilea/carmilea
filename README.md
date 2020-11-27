@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
+- [Iran’s Top Nuclear Scientist Killed in Attack](https://www.nytimes.com/2020/11/27/world/middleeast/mohsen-fakhrizadeh-iran-scientist-killed.html)
+- [CrateDB: Purpose-built to scale modern applications in a machine data world](https://crate.io/)
+- [Daniel Kahneman: “A Short Course in Thinking About Thinking”](https://www.edge.org/events/the-edge-master-class-2007-a-short-course-in-thinking-about-thinking)
 - [Greg LeMond’s New 26 LB. Carbon Fiber Ebike](http://Lemond.com/prolog)
-- [I'm Peter Roberts, immigration attorney who does work for YC startups. AMA](https://news.ycombinator.com/item?id=25229672)
-- [‘Tokenized’: Inside Black Workers’ Struggles at the King of Crypto Startups](https://www.nytimes.com/2020/11/27/technology/coinbase-cryptocurrency-black-employees.html#click=https://t.co/akHbGxS2QL)
-- [Glucose metabolism responds to perceived sugar intake more than actual intake](https://www.nature.com/articles/s41598-020-72501-w?mc_cid=2b33d59ff8&mc_eid=e358e73db6)
-- [Running Docker on Apple Silicon M1 (Follow-Up)](https://finestructure.co/blog/2020/11/27/running-docker-on-apple-silicon-m1-follow-up)
 <!-- BLOG-POST-LIST:END -->
 
 ---
