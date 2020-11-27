@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Memorize Faster with the Spaced Repetition Learning Technique](https://productive.fish/blog/spaced-repetition/)
+- [YouTuber gets cease and desist notice for video showing how to make cheese](https://m.youtube.com/watch?v=M_AzMLhPF1Q)
+- [The Leaderless Organization (2012)](https://digitaltonto.com/2012/the-leaderless-organization/)
+- [Amazon Workers to Stage Coordinated Black Friday Protests in 15 Countries](https://www.vice.com/en/article/epdvzp/amazon-workers-to-stage-coordinated-black-friday-protests-in-12-countries)
 - [DIY Smart Doorbell with a Raspberry Pi](https://www.technicallywizardry.com/diy-smart-doorbell-raspberry-pi/)
-- [Hacker News over Gemini](https://portal.drewdevault.com/2020/11/08/HN-over-Gemini.gmi)
-- [Tell HN: Thank You Dang](https://news.ycombinator.com/item?id=25225775)
-- [Microsoft's Creepy New 'Productivity Score' Gamifies Workplace Surveillance](https://gizmodo.com/microsofts-creepy-new-productivity-score-gamifies-workp-1845763063)
-- [A group of recent Princeton graduates has won more than $6M in 66 lottery wins](https://www.indystar.com/story/news/investigations/2020/11/11/group-recent-princeton-grads-winning-lotteries-across-u-s/6146979002/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
