@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Glucose metabolism responds to perceived sugar intake more than actual intake](https://www.nature.com/articles/s41598-020-72501-w?mc_cid=2b33d59ff8&mc_eid=e358e73db6)
+- [Running Docker on Apple Silicon M1 (Follow-Up)](https://finestructure.co/blog/2020/11/27/running-docker-on-apple-silicon-m1-follow-up)
 - [ASICs at the Edge](https://blog.cloudflare.com/asics-at-the-edge/)
-- [Green Hydrogen: Could It Be Key to a Carbon-Free Economy?](https://e360.yale.edu/features/green-hydrogen-could-it-be-key-to-a-carbon-free-economy)
 - [Rebuilding the Racket Compiler with Chez Scheme](https://notamonadtutorial.com/rebuilding-the-racket-compiler-with-chez-scheme-210e23a69484)
 - [A New Theory of Western Civilization](https://www.theatlantic.com/magazine/archive/2020/10/joseph-henrich-weird-people/615496/)
-- [Tripping through IBM’s astonishingly insane 1937 corporate songbook (2014)](https://arstechnica.com/information-technology/2014/08/tripping-through-ibms-astonishingly-insane-1937-corporate-songbook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
