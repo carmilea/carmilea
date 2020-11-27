@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Greg LeMond’s New 26 LB. Carbon Fiber Ebike](http://Lemond.com/prolog)
+- [I'm Peter Roberts, immigration attorney who does work for YC startups. AMA](https://news.ycombinator.com/item?id=25229672)
+- [‘Tokenized’: Inside Black Workers’ Struggles at the King of Crypto Startups](https://www.nytimes.com/2020/11/27/technology/coinbase-cryptocurrency-black-employees.html#click=https://t.co/akHbGxS2QL)
 - [Glucose metabolism responds to perceived sugar intake more than actual intake](https://www.nature.com/articles/s41598-020-72501-w?mc_cid=2b33d59ff8&mc_eid=e358e73db6)
 - [Running Docker on Apple Silicon M1 (Follow-Up)](https://finestructure.co/blog/2020/11/27/running-docker-on-apple-silicon-m1-follow-up)
-- [ASICs at the Edge](https://blog.cloudflare.com/asics-at-the-edge/)
-- [Rebuilding the Racket Compiler with Chez Scheme](https://notamonadtutorial.com/rebuilding-the-racket-compiler-with-chez-scheme-210e23a69484)
-- [A New Theory of Western Civilization](https://www.theatlantic.com/magazine/archive/2020/10/joseph-henrich-weird-people/615496/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
