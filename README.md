@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [McKinsey Proposed Paying Pharmacy Companies Rebates for OxyContin Overdoses](https://www.nytimes.com/2020/11/27/business/mckinsey-purdue-oxycontin-opioids.html)
+- [Just Solve the File Format Problem](http://fileformats.archiveteam.org/)
+- [Tasmania declares itself 100 per cent powered by renewable electricity](https://reneweconomy.com.au/tasmania-declares-itself-100-per-cent-powered-by-renewable-electricity-25119/)
 - [Apple CPU tricks: memory reordering, JavaScript support, ref counting](https://twitter.com/ErrataRob/status/1331735383193903104)
 - [R number for UK below 1 for first time since August](https://www.bbc.co.uk/news/health-55105285)
 - [Reveal.js: HTML presentation framework](https://revealjs.com/)
-- [ReStuff](http://restuff.jcs.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
