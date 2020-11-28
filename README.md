@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Amazon Pay](https://makeamazonpay.com)
 - [Legalist (YC S16) Is Hiring a Chief of Staff](https://angel.co/company/legalist/jobs/1028587-chief-of-staff)
 - [Apple Silicon M1: A Developer's Perspective](https://steipete.com/posts/apple-silicon-m1-a-developer-perspective/)
 - [Please](https://please.build/)
 - [FlashFloppy: Open-source Firmware for floppy emulators](https://github.com/keirf/FlashFloppy/wiki)
+- [Hyperdimensional Computing](https://github.com/HyperdimensionalComputing/collection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
