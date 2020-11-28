@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linus Torvalds doubts Linux will get ported to Apple M1 hardware](https://arstechnica.com/gadgets/2020/11/__trashed-6/)
+- [MODNet: Is a Green Screen Necessary for Real-Time Human Matting?](https://github.com/ZHKKKe/MODNet)
+- [Amiga 68000 Assembly Course #01 based on the book by Fabio Ciucci](https://www.youtube.com/watch?v=UpNS-IVsBew)
 - [How the Self-Esteem Craze Took Over America And why the hype was irresistible](https://www.thecut.com/2017/05/self-esteem-grit-do-they-really-help.html)
 - [Amazon hires 427,000 people in 10 months](https://www.nytimes.com/2020/11/27/technology/pushed-by-pandemic-amazon-goes-on-a-hiring-spree-without-equal.html)
-- [Most Americans Object to Government Tracking Their Activities Through Cellphones](https://www.wsj.com/articles/most-americans-object-to-government-tracking-of-their-activities-through-cellphones-11606305601)
-- [Is Probability Real?](https://www.arameb.com/blog/2020/11/22/probability)
-- [Always leave the code better than you found it](https://letterstoanewdeveloper.com/2020/11/23/always-leave-the-code-better-than-you-found-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
