@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Legalist (YC S16) Is Hiring a Chief of Staff](https://angel.co/company/legalist/jobs/1028587-chief-of-staff)
-- [Apple Silicon M1: A Developer's Perspective](https://steipete.com/posts/apple-silicon-m1-a-developer-perspective/)
-- [Please](https://please.build/)
-- [FlashFloppy: Open-source Firmware for floppy emulators](https://github.com/keirf/FlashFloppy/wiki)
-- [Hyperdimensional Computing](https://github.com/HyperdimensionalComputing/collection)
+- [Holodomor](https://en.wikipedia.org/wiki/Holodomor#Remembrance)
+- [Radical new bike chain claims to be faster, more durable than anything available](https://cyclingtips.com/2020/11/new-motion-labs-dual-engagement-chain/)
+- [30 years later, QBasic is still the best](http://www.nicolasbize.com/blog/30-years-later-qbasic-is-still-the-best/)
+- [The Persian Art of Etiquette (2016)](http://www.bbc.com/travel/story/20161104-the-persian-art-of-etiquette)
+- [Machine Learning for Art with Google’s Emil Wallner](https://www.letstalkai.show/e/mlart-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
