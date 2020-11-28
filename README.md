@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tex – Use Elixir like a scripting language, across your system](https://github.com/doawoo/tex)
+- [Godot's 2D engine gets several improvements for upcoming 4.0](https://godotengine.org/article/godots-2d-engine-gets-several-improvements-upcoming-40)
 - [Please disable JavaScript to view this site](https://heydonworks.com/)
-- [Radical new bike chain claims to be faster, more durable than anything available](https://cyclingtips.com/2020/11/new-motion-labs-dual-engagement-chain/)
-- [30 years later, QBasic is still the best](http://www.nicolasbize.com/blog/30-years-later-qbasic-is-still-the-best/)
-- [The Persian Art of Etiquette (2016)](http://www.bbc.com/travel/story/20161104-the-persian-art-of-etiquette)
-- [Machine Learning for Art with Google’s Emil Wallner](https://www.letstalkai.show/e/mlart-interview/)
+- [Second Swiss firm allegedly sold encrypted spying devices](https://www.swissinfo.ch/eng/second-swiss-firm-allegedly-sold-encrypted-spying-devices/46186432)
+- [New bike chain claims to be faster, more durable](https://cyclingtips.com/2020/11/new-motion-labs-dual-engagement-chain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
