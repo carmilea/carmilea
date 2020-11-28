@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Holodomor](https://en.wikipedia.org/wiki/Holodomor#Remembrance)
+- [Please disable JavaScript to view this site](https://heydonworks.com/)
 - [Radical new bike chain claims to be faster, more durable than anything available](https://cyclingtips.com/2020/11/new-motion-labs-dual-engagement-chain/)
 - [30 years later, QBasic is still the best](http://www.nicolasbize.com/blog/30-years-later-qbasic-is-still-the-best/)
 - [The Persian Art of Etiquette (2016)](http://www.bbc.com/travel/story/20161104-the-persian-art-of-etiquette)
