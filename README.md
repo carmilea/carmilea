@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TSMC: SoIC](https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/SoIC.htm)
-- [Lisp Koans](https://github.com/google/lisp-koans)
-- [Lufthansa trialing lie-flat Economy seat concept](https://edition.cnn.com/travel/article/lufthansa-sleepers-row-lie-flat-economy-seat/index.html)
-- [Datasette-ripgrep: a regular expression search engine for your source code](https://simonwillison.net/2020/Nov/28/datasette-ripgrep/)
-- [Summary of the Amazon Kinesis Event in the Northern Virginia (US-East-1) Region](https://aws.amazon.com/message/11201/)
+- [Amazon hires 427,000 people in 10 months](https://www.nytimes.com/2020/11/27/technology/pushed-by-pandemic-amazon-goes-on-a-hiring-spree-without-equal.html)
+- [Most Americans Object to Government Tracking Their Activities Through Cellphones](https://www.wsj.com/articles/most-americans-object-to-government-tracking-of-their-activities-through-cellphones-11606305601)
+- [Is Probability Real?](https://www.arameb.com/blog/2020/11/22/probability)
+- [Always leave the code better than you found it](https://letterstoanewdeveloper.com/2020/11/23/always-leave-the-code-better-than-you-found-it/)
+- [What were these Roman objects used for?](http://www.celticnz.co.nz/Dodecahedron/Decoding%20the%20Druidic%20Dodecahedron1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
