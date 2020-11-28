@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Physicist creates N95-type respirators using cotton candy machine](https://phys.org/news/2020-11-physicist-n95-type-respirators-cotton-candy.html)
 - [AWS hires Rust compiler team co-lead Felix Klock](https://www.theregister.com/2020/11/27/aws_hires_rust_compiler_team/)
-- [Suicide claimed more Japanese lives in October than 10 months of Covid](https://www.cbsnews.com/news/japan-suicide-coronavirus-more-japanese-suicides-in-october-than-total-covid-deaths/)
 - [DeepSource (YC W20) Is Looking for a Director of Marketing](https://deepsource.io/jobs/director-marketing-us/)
-- [Bill Gates is wrong about education](https://supermemo.guru/wiki/Bill_Gates_is_wrong_about_education)
+- [Tony Hsieh has died](https://www.yahoo.com/lifestyle/tony-hsieh-zappos-luminary-revolutionized-045239863.html)
+- [The Unix Command Language (1976)](https://github.com/susam/tucl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
