@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Legalist (YC S16) Is Hiring a Chief of Staff](https://angel.co/company/legalist/jobs/1028587-chief-of-staff)
+- [Apple Silicon M1: A Developer's Perspective](https://steipete.com/posts/apple-silicon-m1-a-developer-perspective/)
+- [FlashFloppy: Open-source Firmware for floppy emulators](https://github.com/keirf/FlashFloppy/wiki)
 - [Linus Torvalds doubts Linux will get ported to Apple M1 hardware](https://arstechnica.com/gadgets/2020/11/__trashed-6/)
-- [MODNet: Is a Green Screen Necessary for Real-Time Human Matting?](https://github.com/ZHKKKe/MODNet)
-- [Amiga 68000 Assembly Course #01 based on the book by Fabio Ciucci](https://www.youtube.com/watch?v=UpNS-IVsBew)
-- [How the Self-Esteem Craze Took Over America And why the hype was irresistible](https://www.thecut.com/2017/05/self-esteem-grit-do-they-really-help.html)
-- [Amazon hires 427,000 people in 10 months](https://www.nytimes.com/2020/11/27/technology/pushed-by-pandemic-amazon-goes-on-a-hiring-spree-without-equal.html)
+- [MIT 6.004 L14: Implementing RISC-V Processor in Hardware](https://twitter.com/diodesign/status/1332507524403056641)
 <!-- BLOG-POST-LIST:END -->
 
 ---
