@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSource (YC W20) Is Looking for a Director of Marketing](https://deepsource.io/jobs/director-marketing-us/)
 - [Tony Hsieh has died](https://www.yahoo.com/lifestyle/tony-hsieh-zappos-luminary-revolutionized-045239863.html)
-- [The Unix Command Language (First ever paper published on the Unix shell) (1976)](https://github.com/susam/tucl)
-- [K6 is “like unit testing, for performance”](https://github.com/loadimpact/k6)
+- [The Unix Command Language (1976)](https://github.com/susam/tucl)
+- [K6: Like unit testing, for performance](https://github.com/loadimpact/k6)
 - [Just Solve the File Format Problem](http://fileformats.archiveteam.org/)
-- [Tasmania declares itself 100 per cent powered by renewable electricity](https://reneweconomy.com.au/tasmania-declares-itself-100-per-cent-powered-by-renewable-electricity-25119/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
