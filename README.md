@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Growl in Retirement](http://336699.org/GrowlRetirement)
+- [Blogging vs. Blog Setups](https://rakhim.org/honestly-undefined/19/)
 - [Tex – Use Elixir like a scripting language, across your system](https://github.com/doawoo/tex)
+- [An Extra 100 Ideas for Computing](https://github.com/samsquire/ideas3)
 - [Godot's 2D engine gets several improvements for upcoming 4.0](https://godotengine.org/article/godots-2d-engine-gets-several-improvements-upcoming-40)
-- [Please disable JavaScript to view this site](https://heydonworks.com/)
-- [Second Swiss firm allegedly sold encrypted spying devices](https://www.swissinfo.ch/eng/second-swiss-firm-allegedly-sold-encrypted-spying-devices/46186432)
-- [New bike chain claims to be faster, more durable](https://cyclingtips.com/2020/11/new-motion-labs-dual-engagement-chain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
