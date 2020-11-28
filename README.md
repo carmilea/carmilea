@@ -54,8 +54,8 @@
 - [Physicist creates N95-type respirators using cotton candy machine](https://phys.org/news/2020-11-physicist-n95-type-respirators-cotton-candy.html)
 - [AWS hires Rust compiler team co-lead Felix Klock](https://www.theregister.com/2020/11/27/aws_hires_rust_compiler_team/)
 - [DeepSource (YC W20) Is Looking for a Director of Marketing](https://deepsource.io/jobs/director-marketing-us/)
+- [Goodbye PowerDns](https://blog.powerdns.com/2020/11/27/goodbye-dns-goodbye-powerdns/)
 - [Tony Hsieh has died](https://www.yahoo.com/lifestyle/tony-hsieh-zappos-luminary-revolutionized-045239863.html)
-- [The Unix Command Language (1976)](https://github.com/susam/tucl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
