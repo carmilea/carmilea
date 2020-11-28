@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple CPU tricks: memory reordering, JavaScript support, ref counting](https://twitter.com/ErrataRob/status/1331735383193903104)
+- [R number for UK below 1 for first time since August](https://www.bbc.co.uk/news/health-55105285)
 - [Reveal.js: HTML presentation framework](https://revealjs.com/)
 - [ReStuff](http://restuff.jcs.org)
 - [British engineers develop process to turn moon dust into oxygen](https://www.bignewsnetwork.com/news/267100986/british-engineers-develop-process-to-turn-moon-dust-into-oxygen)
-- [A few ways to make money in FOSS](https://drewdevault.com/2020/11/20/A-few-ways-to-make-money-in-FOSS.html)
-- [TLDR: Extreme Summarization of Scientific Documents](https://arxiv.org/abs/2004.15011)
 <!-- BLOG-POST-LIST:END -->
 
 ---
