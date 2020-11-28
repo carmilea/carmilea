@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Protect Your DNA Data Before and After Taking an At-Home Test](https://www.nytimes.com/2019/06/12/smarter-living/how-to-protect-your-dna-data.html)
+- [K6 is “like unit testing, for performance”](https://github.com/loadimpact/k6)
 - [Just Solve the File Format Problem](http://fileformats.archiveteam.org/)
 - [Tasmania declares itself 100 per cent powered by renewable electricity](https://reneweconomy.com.au/tasmania-declares-itself-100-per-cent-powered-by-renewable-electricity-25119/)
 - [Apple CPU tricks: memory reordering, JavaScript support, ref counting](https://twitter.com/ErrataRob/status/1331735383193903104)
-- [R number for UK below 1 for first time since August](https://www.bbc.co.uk/news/health-55105285)
-- [Reveal.js: HTML presentation framework](https://revealjs.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
