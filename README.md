@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Make Amazon Pay](https://makeamazonpay.com)
 - [Legalist (YC S16) Is Hiring a Chief of Staff](https://angel.co/company/legalist/jobs/1028587-chief-of-staff)
 - [Apple Silicon M1: A Developer's Perspective](https://steipete.com/posts/apple-silicon-m1-a-developer-perspective/)
+- [Please](https://please.build/)
 - [FlashFloppy: Open-source Firmware for floppy emulators](https://github.com/keirf/FlashFloppy/wiki)
-- [Linus Torvalds doubts Linux will get ported to Apple M1 hardware](https://arstechnica.com/gadgets/2020/11/__trashed-6/)
-- [MIT 6.004 L14: Implementing RISC-V Processor in Hardware](https://twitter.com/diodesign/status/1332507524403056641)
 <!-- BLOG-POST-LIST:END -->
 
 ---
