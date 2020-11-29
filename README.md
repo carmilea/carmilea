@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Video game lets you do nothing in particular in a suburban Russian tower block](https://www.calvertjournal.com/articles/show/11066/this-new-video-game-lets-you-do-nothing-in-a-suburban-russian-tower-block)
 - [Melting ice patch in Norway reveals large collection of ancient arrows](https://phys.org/news/2020-11-ice-patch-norway-reveals-large.html)
 - [Openstreetmap Foundation board election: manifestos, official questions answers](https://wiki.openstreetmap.org/wiki/Foundation/AGM20/Election_to_Board/Answers_and_manifestos)
-- [Fingerprinting](https://wiki.mozilla.org/Fingerprinting)
 - [Scion EPIC: a path-aware clean-slate internet architecture](https://blog.apnic.net/2020/11/25/epic-exploring-challenges-and-opportunities-in-next-generation-internet-architectures/)
 - [Isetta: Writing a Game Engine from Scratch](https://isetta.io/blogs/week-0/)
 <!-- BLOG-POST-LIST:END -->
