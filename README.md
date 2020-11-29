@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Only distributed fact-checking can keep up with democratized distribution](https://abe-winter.github.io/only/fans/2020/11/29/everything-in-moderation.html)
+- [Ask HN: Programming 101 online course recommendations?](https://news.ycombinator.com/item?id=25246581)
+- [NYC Paid McKinsey $27.5M to Stem Jail Violence. Instead, Violence Soared](https://www.propublica.org/article/new-york-city-paid-mckinsey-millions-to-stem-jail-violence-instead-violence-soared)
 - [Sleep duration is associated with brain structure and cognitive performance](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25132)
 - [Community Phone Company (YC W19) Is Hiring](https://communityphone.org/pages/careers)
-- [DwarFS: A fast high compression read-only file system](https://github.com/mhx/dwarfs)
-- [Show HN: I Rebuilt MySpace from 2007](https://spacehey.com/?ref=hn)
-- [OCaml User Survey 2020 Results](https://www.dropbox.com/s/omba1d8vhljnrcn/OCaml-user-survey-2020.pdf?dl=0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
