@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Shadow Banned 'The CIA Is a Terrorist Organization' by Second Thought](https://twitter.com/_SecondThought/status/1332746158947635202)
-- [Scented candles: An unexpected victim of the Covid-19 pandemic](https://twitter.com/kate_ptrv/status/1332398737604431874)
-- [Watercooling a Canon R5 to enable unlimited 8K recording](https://petapixel.com/2020/11/28/this-guy-watercooled-his-canon-r5-and-unlocked-unlimited-8k/)
-- [Gallery-dl – download images from several image hosting sites](https://github.com/mikf/gallery-dl)
-- [Flexport (YC W14) is hiring engineers in Amsterdam](https://Flexport.com/careers/engineering)
+- [Guns, Drugs and Viral Content: Welcome to Cartel TikTok](https://www.nytimes.com/2020/11/28/world/americas/mexico-drugs-cartel-tiktok.html)
+- [Microsoft is working on an Android subsystem for Windows 10](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-working-on-an-android-subsystem-for-windows-10/)
+- [Little Things That Made Amiga Great – Datagubbe.se](https://datagubbe.se/ltmag/)
+- [Show HN: A/B test Hacker News titles with AI](https://www.hacker-ai.com)
+- [Ask HN: Top Coursera Courses?](https://news.ycombinator.com/item?id=25245125)
 <!-- BLOG-POST-LIST:END -->
 
 ---
