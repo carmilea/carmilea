@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoiding GMOs isn’t just anti-science. It’s immoral. (2017)](https://www.washingtonpost.com/opinions/avoiding-gmos-isnt-just-anti-science-its-immoral/2017/12/27/fc773022-ea83-11e7-b698-91d4e35920a3_story.html)
+- [Making Playstation 1 Modchips](https://blog.kchung.co/making-playstation-modchips/)
+- [How to Run a Ponzi Scheme for Tech People](https://callmenish.com/how-to-run-a-tech-ponzi-scheme/)
 - [Repl.it (YC W18) Is Hiring a Site Reliability Engineer](https://jobs.lever.co/replit/)
-- [Microsoft patents tech to score meetings with body language, facial expressions](https://www.geekwire.com/2020/microsoft-patents-technology-score-meetings-using-body-language-facial-expressions-data/)
 - [Quake's 3-D Engine: The Big Picture by Michael Abrash (2000)](https://www.bluesnews.com/abrash/chap70.shtml)
-- [Remote control truck with remote control gun, self destructed after attack](https://twitter.com/l4stewar/status/1333094707954651137)
-- [Software and Hardware for General Robots](https://blog.evjang.com/2020/11/moravec-bots.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
