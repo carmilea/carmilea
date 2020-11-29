@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It's only fake-believe: how to deal with a conspiracy theorist](https://www.theguardian.com/society/2020/nov/29/how-to-deal-with-a-conspiracy-theorist-5g-covid-plandemic-qanon)
+- [Unslack: Transform the way your business communicates (again)](https://unslack.co/)
 - [Flexport (YC W14) is hiring engineers in Amsterdam](https://Flexport.com/careers/engineering)
 - [Interval Tree Clocks](https://ferd.ca/interval-tree-clocks.html)
 - [A better Kubernetes from the ground up](https://blog.dave.tf/post/new-kubernetes/)
