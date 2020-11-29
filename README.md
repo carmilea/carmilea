@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ten Problems for Silicon Valley in the 2020s](https://www.tenproblems.com/2020/11/29/ten-problems-for-silicon-valley-in-the-2020s/)
-- [Would you be willing to fund a Linux port to Apple Silicon](https://twitter.com/marcan42/status/1333126001161773056)
-- [Only distributed fact-checking can keep up with democratized distribution](https://abe-winter.github.io/only/fans/2020/11/29/everything-in-moderation.html)
-- [Ask HN: Programming 101 online course recommendations?](https://news.ycombinator.com/item?id=25246581)
-- [NYC Paid McKinsey $27.5M to Stem Jail Violence. Instead, Violence Soared](https://www.propublica.org/article/new-york-city-paid-mckinsey-millions-to-stem-jail-violence-instead-violence-soared)
+- [Repl.it (YC W18) Is Hiring a Site Reliability Engineer](https://jobs.lever.co/replit/)
+- [Microsoft patents tech to score meetings with body language, facial expressions](https://www.geekwire.com/2020/microsoft-patents-technology-score-meetings-using-body-language-facial-expressions-data/)
+- [Quake's 3-D Engine: The Big Picture by Michael Abrash (2000)](https://www.bluesnews.com/abrash/chap70.shtml)
+- [Remote control truck with remote control gun, self destructed after attack](https://twitter.com/l4stewar/status/1333094707954651137)
+- [Software and Hardware for General Robots](https://blog.evjang.com/2020/11/moravec-bots.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
