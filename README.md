@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Metal Monolith in Utah Gone](https://www.nytimes.com/2020/11/28/us/monolith-utah-disappeared.html)
+- [Moths draped in stealth acoustic cloak evade bat sonar](https://www.chemistryworld.com/news/moths-draped-in-stealth-acoustic-cloak-evade-bat-sonar/4012807.article)
+- [Lysol Is Making More Sanitizer Than Ever. In Pandemic America, It’s Not Enough](https://www.bloomberg.com/news/features/2020-11-19/lysol-is-making-more-sanitizer-than-ever-in-pandemic-america-it-s-not-enough)
+- [Ruffle – A Flash Player emulator written in Rust](https://ruffle.rs/)
 - [The Donut King who went from rags to riches, twice](https://www.bbc.com/news/stories-54546427)
-- [Video game lets you do nothing in particular in a suburban Russian tower block](https://www.calvertjournal.com/articles/show/11066/this-new-video-game-lets-you-do-nothing-in-a-suburban-russian-tower-block)
-- [Melting ice patch in Norway reveals large collection of ancient arrows](https://phys.org/news/2020-11-ice-patch-norway-reveals-large.html)
-- [Openstreetmap Foundation board election: manifestos, official questions answers](https://wiki.openstreetmap.org/wiki/Foundation/AGM20/Election_to_Board/Answers_and_manifestos)
-- [Scion EPIC: a path-aware clean-slate internet architecture](https://blog.apnic.net/2020/11/25/epic-exploring-challenges-and-opportunities-in-next-generation-internet-architectures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
