@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It's only fake-believe: how to deal with a conspiracy theorist](https://www.theguardian.com/society/2020/nov/29/how-to-deal-with-a-conspiracy-theorist-5g-covid-plandemic-qanon)
 - [Flexport (YC W14) is hiring engineers in Amsterdam](https://Flexport.com/careers/engineering)
 - [Interval Tree Clocks](https://ferd.ca/interval-tree-clocks.html)
+- [A better Kubernetes from the ground up](https://blog.dave.tf/post/new-kubernetes/)
 - [Nim compiler — Pascal source code](https://github.com/nim-lang/Nim/tree/ea1f1ec6d4d6c776eb0f81c2bebdd4cb4c817ebe/nim)
-- [Roblox pays 26% of its revenue to Apple/Google for payment processing](https://twitter.com/eric_ruleman/status/1332595028384952320)
-- [Metal Monolith in Utah Gone](https://www.nytimes.com/2020/11/28/us/monolith-utah-disappeared.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
