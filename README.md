@@ -55,7 +55,7 @@
 - [Flexport (YC W14) is hiring engineers in Amsterdam](https://Flexport.com/careers/engineering)
 - [Interval Tree Clocks](https://ferd.ca/interval-tree-clocks.html)
 - [A better Kubernetes from the ground up](https://blog.dave.tf/post/new-kubernetes/)
-- [Nim compiler — Pascal source code](https://github.com/nim-lang/Nim/tree/ea1f1ec6d4d6c776eb0f81c2bebdd4cb4c817ebe/nim)
+- [Twtxt Is a Self-Hosted, Twitter-Like Decentralised MicroBlogging Platform](https://github.com/jointwt/twtxt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
