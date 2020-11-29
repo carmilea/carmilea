@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Flexport (YC W14) is hiring engineers in Amsterdam](https://Flexport.com/careers/engineering)
+- [Interval Tree Clocks](https://ferd.ca/interval-tree-clocks.html)
 - [Nim compiler — Pascal source code](https://github.com/nim-lang/Nim/tree/ea1f1ec6d4d6c776eb0f81c2bebdd4cb4c817ebe/nim)
 - [Roblox pays 26% of its revenue to Apple/Google for payment processing](https://twitter.com/eric_ruleman/status/1332595028384952320)
 - [Metal Monolith in Utah Gone](https://www.nytimes.com/2020/11/28/us/monolith-utah-disappeared.html)
-- [Moths draped in stealth acoustic cloak evade bat sonar](https://www.chemistryworld.com/news/moths-draped-in-stealth-acoustic-cloak-evade-bat-sonar/4012807.article)
 <!-- BLOG-POST-LIST:END -->
 
 ---
