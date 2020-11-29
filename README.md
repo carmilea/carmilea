@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sleep duration is associated with brain structure and cognitive performance](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25132)
 - [Community Phone Company (YC W19) Is Hiring](https://communityphone.org/pages/careers)
 - [DwarFS: A fast high compression read-only file system](https://github.com/mhx/dwarfs)
 - [Show HN: I Rebuilt MySpace from 2007](https://spacehey.com/?ref=hn)
-- [Ask HN: Crashed founders, what was the point of failure?](https://news.ycombinator.com/item?id=25245366)
-- [Microsoft is working on an Android subsystem for Windows 10](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-working-on-an-android-subsystem-for-windows-10/)
+- [OCaml User Survey 2020 Results](https://www.dropbox.com/s/omba1d8vhljnrcn/OCaml-user-survey-2020.pdf?dl=0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
