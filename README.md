@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I have $1M cash in my bank – how can I stretch it so I can retire & live off it?](https://news.ycombinator.com/item?id=25243037)
+- [Flexport is hiring 50 engineers in Amsterdam in 2021](https://Flexport.com/careers/engineering)
+- [Ask HN: Make the black bar on top clickable, so that we know who is there for](https://news.ycombinator.com/item?id=25243230)
 - [Metal Monolith in Utah Gone](https://www.nytimes.com/2020/11/28/us/monolith-utah-disappeared.html)
 - [Moths draped in stealth acoustic cloak evade bat sonar](https://www.chemistryworld.com/news/moths-draped-in-stealth-acoustic-cloak-evade-bat-sonar/4012807.article)
-- [Undeleting a File Overwritten with Mv](https://behind.pretix.eu/2020/11/28/undelete-flv-file/)
-- [Lysol Is Making More Sanitizer Than Ever. In Pandemic America, It’s Not Enough](https://www.bloomberg.com/news/features/2020-11-19/lysol-is-making-more-sanitizer-than-ever-in-pandemic-america-it-s-not-enough)
+- [Undeleting a file overwritten with mv](https://behind.pretix.eu/2020/11/28/undelete-flv-file/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
