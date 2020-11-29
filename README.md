@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Growl in Retirement](http://336699.org/GrowlRetirement)
-- [Blogging vs. Blog Setups](https://rakhim.org/honestly-undefined/19/)
-- [Tex – Use Elixir like a scripting language, across your system](https://github.com/doawoo/tex)
-- [An Extra 100 Ideas for Computing](https://github.com/samsquire/ideas3)
-- [Godot's 2D engine gets several improvements for upcoming 4.0](https://godotengine.org/article/godots-2d-engine-gets-several-improvements-upcoming-40)
+- [Melting ice patch in Norway reveals large collection of ancient arrows](https://phys.org/news/2020-11-ice-patch-norway-reveals-large.html)
+- [Openstreetmap Foundation board election: manifestos, official questions answers](https://wiki.openstreetmap.org/wiki/Foundation/AGM20/Election_to_Board/Answers_and_manifestos)
+- [Fingerprinting](https://wiki.mozilla.org/Fingerprinting)
+- [Scion EPIC: a path-aware clean-slate internet architecture](https://blog.apnic.net/2020/11/25/epic-exploring-challenges-and-opportunities-in-next-generation-internet-architectures/)
+- [Isetta: Writing a Game Engine from Scratch](https://isetta.io/blogs/week-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
