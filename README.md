@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Shadow Banned 'The CIA Is a Terrorist Organization' by Second Thought](https://twitter.com/_SecondThought/status/1332746158947635202)
+- [Scented candles: An unexpected victim of the Covid-19 pandemic](https://twitter.com/kate_ptrv/status/1332398737604431874)
+- [Watercooling a Canon R5 to enable unlimited 8K recording](https://petapixel.com/2020/11/28/this-guy-watercooled-his-canon-r5-and-unlocked-unlimited-8k/)
 - [Gallery-dl – download images from several image hosting sites](https://github.com/mikf/gallery-dl)
 - [Flexport (YC W14) is hiring engineers in Amsterdam](https://Flexport.com/careers/engineering)
-- [Interval Tree Clocks](https://ferd.ca/interval-tree-clocks.html)
-- [A better Kubernetes from the ground up](https://blog.dave.tf/post/new-kubernetes/)
-- [Twtxt Is a Self-Hosted, Twitter-Like Decentralised MicroBlogging Platform](https://github.com/jointwt/twtxt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
