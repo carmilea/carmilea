@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fed. system to track hosp. beds and Covid-19 patients provides questionable data](https://www.sciencemag.org/news/2020/11/federal-system-tracking-hospital-beds-and-covid-19-patients-provides-questionable-data)
-- [YC runs Work at a Startup to help you find jobs at over 700 YC-vetted startups](https://www.workatastartup.com/)
-- [Show HN: StrongMap – JavaScript Map Meets Your Hard Disk](https://github.com/c9fe/StrongMap)
-- [The Gernsback Continuum by William Gibson (1981)](https://web.archive.org/web/20070217183337/http://www.americanheritage.com/articles/magazine/it/1988/1/1988_1_34.shtml)
-- [Salesforce Deal to Buy Slack Expected to Be Announced Tuesday After Market Close](https://www.nbcnewyork.com/news/business/money-report/salesforce-deal-to-buy-slack-expected-to-be-announced-tomorrow-after-market-close/2751515/)
+- [M1 Mac mini overtakes entire Japanese desktop market in less than 2 weeks](https://appleterm.com/2020/11/30/m1-mac-mini-desktop-market-share-japan/)
+- [Romain Grosjean walked away from F1’s scariest crash in decades](https://arstechnica.com/cars/2020/11/how-romain-grosjean-walked-away-from-f1s-scariest-crash-in-decades/)
+- [BBC Basic Editor](https://bbcmic.ro/)
+- [FCC Chairman Ajit Pai will step down on January 20](https://www.cnbc.com/2020/11/30/fcc-chairman-ajit-pai-will-step-down-on-january-20.html)
+- [Over Half of U.S. Young Adults Now Live with Their Parents](https://www.visualcapitalist.com/us-young-adults-living-with-their-parents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
