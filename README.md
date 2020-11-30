@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How many registers does an x86-64 CPU have?](https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have)
+- [No one who got Moderna's vaccine in trial developed severe Covid-19](https://www.sciencemag.org/news/2020/11/absolutely-remarkable-no-one-who-got-modernas-vaccine-trial-developed-severe-covid-19)
+- [Apple Create ML: Creating an Image Classifier Model](https://developer.apple.com/documentation/createml/creating_an_image_classifier_model)
 - [England's Covid-19 infections down 30% during national lockdown – survey](https://www.reuters.com/article/us-health-coronavirus-britain-study-idUSKBN28A00H)
 - [Error Handling Is Hard](https://www.fpcomplete.com/blog/error-handling-is-hard/)
-- [Five Biggest Stocks Are 23% of S&P 500 Market Cap](https://thesoundingline.com/chart-top-five-stocks-hit-23-of-sp-500-market-cap/)
-- [Show HN: Train your leadership skills in 2 min a day [iOS app]](https://apps.apple.com/app/bunch-daily-leadership-coach/id1500872908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
