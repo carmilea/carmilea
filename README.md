@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flappy Bird in 228 Bytes](https://gist.github.com/gullyn/95b2ab9e465317f1d4e4607cf6e94205)
-- [Ask HN: Top Udemy Courses?](https://news.ycombinator.com/item?id=25251267)
+- [Bivector.net: geometric algebra for computer graphics, vision, and engineering](https://bivector.net/)
+- [Painting a Selfie Girl, with Maths](https://www.youtube.com/watch?v=8--5LwHRhjk)
+- [Flappy Bird in 228 bytes](https://gist.github.com/gullyn/95b2ab9e465317f1d4e4607cf6e94205)
 - [The Tech Monopolies Go Vertical](https://mule.substack.com/p/the-tech-monopolies-go-vertical)
 - [The Truth About Starting a Startup](https://tracy.posthaven.com/the-truth-about-starting-a-startup)
-- [“You have to watch this interview where Mike Tyson talks about medieval history”](https://quidplura.com/2020/11/29/and-this-worlds-a-fickle-measure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
