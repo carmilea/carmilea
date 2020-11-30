@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenZFS 2.0.0](https://github.com/openzfs/zfs/releases/tag/zfs-2.0.0)
+- [David Shaw vs. Seymour Papert Debate (1995) [video]](https://www.c-span.org/video/?c4616565/david-shaw-vs-seymour-papert-debate)
 - [Email Lessons from Napoleon](https://thesweetsetup.com/email-lessons-from-napoleon/)
-- [On Casuistry](https://philosophynow.org/issues/141/On_Casuistry)
-- [The Covid Science Wars](https://www.scientificamerican.com/article/the-covid-science-wars1/)
 - [H. G. Wells reviews "Metropolis" (1927)](https://erkelzaar.tsudao.com/reviews/H.G.Wells_on_Metropolis%201927.htm)
 - [Post PC](http://www.asymco.com/2020/11/30/post-pc/)
 <!-- BLOG-POST-LIST:END -->
