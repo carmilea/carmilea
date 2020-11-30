@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: How to learn writing blog posts?](https://news.ycombinator.com/item?id=25250058)
+- [Recruiters and Human Traffickers](https://www.tokyodev.com/2020/10/01/recruiting-in-japan/)
 - [Notation as a Tool of Thought](https://www.jsoftware.com/papers/tot.htm)
-- [William S Burroughs and the Cult of Rock’n’Roll by Casey Rae Review](https://www.theguardian.com/books/2020/nov/21/william-s-burroughs-and-the-cult-of-rocknroll-by-casey-rae-review-countercultural-hero)
+- [William S Burroughs and the Cult of Rock’n’Roll](https://www.theguardian.com/books/2020/nov/21/william-s-burroughs-and-the-cult-of-rocknroll-by-casey-rae-review-countercultural-hero)
 - [Making Playstation 1 Modchips](https://blog.kchung.co/making-playstation-modchips/)
-- [How to Run a Ponzi Scheme for Tech People](https://callmenish.com/how-to-run-a-tech-ponzi-scheme/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
