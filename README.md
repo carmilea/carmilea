@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How many registers does an x86-64 CPU have?](https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have)
-- [No one who got Moderna's vaccine in trial developed severe Covid-19](https://www.sciencemag.org/news/2020/11/absolutely-remarkable-no-one-who-got-modernas-vaccine-trial-developed-severe-covid-19)
-- [Apple Create ML: Creating an Image Classifier Model](https://developer.apple.com/documentation/createml/creating_an_image_classifier_model)
-- [England's Covid-19 infections down 30% during national lockdown – survey](https://www.reuters.com/article/us-health-coronavirus-britain-study-idUSKBN28A00H)
-- [Error Handling Is Hard](https://www.fpcomplete.com/blog/error-handling-is-hard/)
+- [The Gernsback Continuum by William Gibson (1981)](https://web.archive.org/web/20070217183337/http://www.americanheritage.com/articles/magazine/it/1988/1/1988_1_34.shtml)
+- [Salesforce Deal to Buy Slack Expected to Be Announced Tuesday After Market Close](https://www.nbcnewyork.com/news/business/money-report/salesforce-deal-to-buy-slack-expected-to-be-announced-tomorrow-after-market-close/2751515/)
+- [IRS Says Its Own Error Sent $1,200 Stimulus Checks to Non-Americans Overseas](https://www.npr.org/2020/11/30/938902523/irs-says-its-own-error-sent-1-200-stimulus-checks-to-non-americans-overseas)
+- [DeepMind Solved Protein Folding](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology)
+- [SymPy 1.7 Released](https://github.com/sympy/sympy/wiki/Release-Notes-for-1.7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
