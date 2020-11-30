@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sirum (YC W15 Nonprofit) hiring many roles to make medicine more affordable](https://www.sirum.org/about/#careers)
+- [Interpretability in Machine Learning: An Overview](https://thegradient.pub/interpretability-in-ml-a-broad-overview/)
+- [A System to Transparently Compress Hundreds of Petabytes of Image](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/horn)
 - [Ask HN: How to learn writing blog posts?](https://news.ycombinator.com/item?id=25250058)
 - [Recruiters and Human Traffickers](https://www.tokyodev.com/2020/10/01/recruiting-in-japan/)
-- [Notation as a Tool of Thought](https://www.jsoftware.com/papers/tot.htm)
-- [William S Burroughs and the Cult of Rock’n’Roll](https://www.theguardian.com/books/2020/nov/21/william-s-burroughs-and-the-cult-of-rocknroll-by-casey-rae-review-countercultural-hero)
-- [Making Playstation 1 Modchips](https://blog.kchung.co/making-playstation-modchips/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
