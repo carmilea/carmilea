@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GNU Octave 6.1.0](https://www.gnu.org/software/octave/NEWS-6.1.html)
 - [Bivector.net: geometric algebra for computer graphics, vision, and engineering](https://bivector.net/)
-- [Painting a Selfie Girl, with Maths](https://www.youtube.com/watch?v=8--5LwHRhjk)
+- [Painting a Selfie Girl, with Maths [video]](https://www.youtube.com/watch?v=8--5LwHRhjk)
 - [Flappy Bird in 228 bytes](https://gist.github.com/gullyn/95b2ab9e465317f1d4e4607cf6e94205)
-- [The Tech Monopolies Go Vertical](https://mule.substack.com/p/the-tech-monopolies-go-vertical)
-- [The Truth About Starting a Startup](https://tracy.posthaven.com/the-truth-about-starting-a-startup)
+- [I am an 80 column purist](https://daniel.haxx.se/blog/2020/11/30/i-am-an-80-column-purist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
