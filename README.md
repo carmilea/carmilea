@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikipedia has a ton of money. So why is it begging you to donate yours?](https://www.washingtonpost.com/news/the-intersect/wp/2015/12/02/wikipedia-has-a-ton-of-money-so-why-is-it-begging-you-to-donate-yours/)
+- [YC runs Work at a Startup to help you find jobs at over 700 YC-vetted startups](https://www.workatastartup.com/)
+- [Bitcoin Price Hits All-Time High of $19,786, Topping 2017 Record](https://www.wsj.com/articles/bitcoin-hits-all-time-high-of-19-786-topping-record-from-december-2017-11606750573)
+- [‘Good riddance’: Tech’s flight from San Francisco is a relief to some advocates](https://www.cnbc.com/2020/11/29/good-riddance-techs-flight-from-san-francisco-is-a-relief-to-some.html)
 - [The Gernsback Continuum by William Gibson (1981)](https://web.archive.org/web/20070217183337/http://www.americanheritage.com/articles/magazine/it/1988/1/1988_1_34.shtml)
-- [Salesforce Deal to Buy Slack Expected to Be Announced Tuesday After Market Close](https://www.nbcnewyork.com/news/business/money-report/salesforce-deal-to-buy-slack-expected-to-be-announced-tomorrow-after-market-close/2751515/)
-- [IRS Says Its Own Error Sent $1,200 Stimulus Checks to Non-Americans Overseas](https://www.npr.org/2020/11/30/938902523/irs-says-its-own-error-sent-1-200-stimulus-checks-to-non-americans-overseas)
-- [DeepMind Solved Protein Folding](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology)
-- [SymPy 1.7 Released](https://github.com/sympy/sympy/wiki/Release-Notes-for-1.7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
