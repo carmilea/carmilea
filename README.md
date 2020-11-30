@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
+- [A free-as-in-freedom re-implementation of Google’s Android user space](https://microg.org/)
+- [macOS 11 Big Sur compatibility on Apple Silicon](https://github.com/Homebrew/brew/issues/7857)
 - [GNU Octave 6.1.0](https://www.gnu.org/software/octave/NEWS-6.1.html)
-- [Bivector.net: geometric algebra for computer graphics, vision, and engineering](https://bivector.net/)
-- [Painting a Selfie Girl, with Maths [video]](https://www.youtube.com/watch?v=8--5LwHRhjk)
-- [Flappy Bird in 228 bytes](https://gist.github.com/gullyn/95b2ab9e465317f1d4e4607cf6e94205)
-- [I am an 80 column purist](https://daniel.haxx.se/blog/2020/11/30/i-am-an-80-column-purist/)
+- [BiVector.net – Geometric Algebra for CGI, Vision and Engineering](https://bivector.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
