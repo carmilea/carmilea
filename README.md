@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s Time to Stop Nap-Shaming](https://www.nytimes.com/2020/11/24/dining/thanksgiving-nap.html)
-- [E Foundation – deGoogled unGoogled smartphone OS and online services](https://e.foundation/)
-- [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
-- [To What Extent Do We See with Mathematics?](https://blogs.scientificamerican.com/guest-blog/to-what-extent-do-we-see-with-mathematics/)
-- [A free-as-in-freedom re-implementation of Google’s Android user space](https://microg.org/)
+- [How many registers does an x86-64 CPU have?](https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have)
+- [England's Covid-19 infections down 30% during national lockdown – survey](https://www.reuters.com/article/us-health-coronavirus-britain-study-idUSKBN28A00H)
+- [Error Handling Is Hard](https://www.fpcomplete.com/blog/error-handling-is-hard/)
+- [Five Biggest Stocks Are 23% of S&P 500 Market Cap](https://thesoundingline.com/chart-top-five-stocks-hit-23-of-sp-500-market-cap/)
+- [Show HN: Train your leadership skills in 2 min a day [iOS app]](https://apps.apple.com/app/bunch-daily-leadership-coach/id1500872908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
