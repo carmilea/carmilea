@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore, The Database of Now™](https://www.youtube.com/watch?v=mo0m-nShLb4)
 - [Launch Codes for SaaS Success - The Know Show](https://www.youtube.com/watch?v=HItNOfs1qoU)
 - [Send alert notifications with SingleStore Report](https://www.youtube.com/watch?v=jBLYpCqiceM)
 - [Cross the streams! Blending real-time and historical datasets from Vertica and SingleStore](https://www.youtube.com/watch?v=XaTPyqMuZI0)
 - [It's Here - the Future of Data Analytics](https://www.youtube.com/watch?v=Hvb93TOY1mU)
-- [SingleStore Architecture Overview](https://www.youtube.com/watch?v=2B8ayWaCcQg)
 <!-- YOUTUBE:END -->
 
 
