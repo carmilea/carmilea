@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Running a full desktop environment on an Amazon Kindle](https://nns.ee/blog/2019/04/14/chroot-shenanigans-2.html)
-- [Adopt your elePHPant now, the only original PHP elephant](https://www.elephpant.com/elephpant)
-- [The Sound So Loud That It Circled the Earth Four Times](http://nautil.us/blog/the-sound-so-loud-that-it-circled-the-earth-four-times)
-- [Romain Grosjean walked away from F1’s scariest crash in decades](https://arstechnica.com/cars/2020/11/how-romain-grosjean-walked-away-from-f1s-scariest-crash-in-decades/)
-- [BBC Basic Editor](https://bbcmic.ro/)
+- [Email Lessons from Napoleon](https://thesweetsetup.com/email-lessons-from-napoleon/)
+- [On Casuistry](https://philosophynow.org/issues/141/On_Casuistry)
+- [The Covid Science Wars](https://www.scientificamerican.com/article/the-covid-science-wars1/)
+- [H. G. Wells reviews "Metropolis" (1927)](https://erkelzaar.tsudao.com/reviews/H.G.Wells_on_Metropolis%201927.htm)
+- [Post PC](http://www.asymco.com/2020/11/30/post-pc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
