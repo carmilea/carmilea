@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s time to remove news from Facebook and Google](https://blog.nillium.com/its-time-to-remove-news-from-facebook-and-google/)
+- [William S Burroughs and the Cult of Rock’n’Roll by Casey Rae Review](https://www.theguardian.com/books/2020/nov/21/william-s-burroughs-and-the-cult-of-rocknroll-by-casey-rae-review-countercultural-hero)
 - [Making Playstation 1 Modchips](https://blog.kchung.co/making-playstation-modchips/)
 - [How to Run a Ponzi Scheme for Tech People](https://callmenish.com/how-to-run-a-tech-ponzi-scheme/)
 - [Repl.it (YC W18) Is Hiring a Site Reliability Engineer](https://jobs.lever.co/replit/)
