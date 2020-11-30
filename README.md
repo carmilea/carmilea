@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s Time to Stop Nap-Shaming](https://www.nytimes.com/2020/11/24/dining/thanksgiving-nap.html)
+- [E Foundation – deGoogled unGoogled smartphone OS and online services](https://e.foundation/)
 - [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
+- [To What Extent Do We See with Mathematics?](https://blogs.scientificamerican.com/guest-blog/to-what-extent-do-we-see-with-mathematics/)
 - [A free-as-in-freedom re-implementation of Google’s Android user space](https://microg.org/)
-- [macOS 11 Big Sur compatibility on Apple Silicon](https://github.com/Homebrew/brew/issues/7857)
-- [GNU Octave 6.1.0](https://www.gnu.org/software/octave/NEWS-6.1.html)
-- [BiVector.net – Geometric Algebra for CGI, Vision and Engineering](https://bivector.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
