@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flappy Bird in 228 Bytes](https://gist.github.com/gullyn/95b2ab9e465317f1d4e4607cf6e94205)
+- [Ask HN: Top Udemy Courses?](https://news.ycombinator.com/item?id=25251267)
 - [The Tech Monopolies Go Vertical](https://mule.substack.com/p/the-tech-monopolies-go-vertical)
 - [The Truth About Starting a Startup](https://tracy.posthaven.com/the-truth-about-starting-a-startup)
 - [“You have to watch this interview where Mike Tyson talks about medieval history”](https://quidplura.com/2020/11/29/and-this-worlds-a-fickle-measure/)
-- [Sirum (YC W15 Nonprofit) hiring many roles to make medicine more affordable](https://www.sirum.org/about/#careers)
-- [Show HN: Dicom Medical Image Library in Go (v1.0.0)](https://github.com/suyashkumar/dicom/tree/v1.0.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
