@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Victoria to fine drivers blocking EV chargers](https://www.carexpert.com.au/car-news/victoria-to-fine-drivers-blocking-ev-chargers)
 - [Sirum (YC W15 Nonprofit) hiring many roles to make medicine more affordable](https://www.sirum.org/about/#careers)
 - [Show HN: Dicom Medical Image Library in Go (v1.0.0)](https://github.com/suyashkumar/dicom/tree/v1.0.0)
 - [Interpretability in Machine Learning: An Overview](https://thegradient.pub/interpretability-in-ml-a-broad-overview/)
 - [A System to Transparently Compress Hundreds of Petabytes of Image](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/horn)
-- [Recruiters and Human Traffickers](https://www.tokyodev.com/2020/10/01/recruiting-in-japan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
