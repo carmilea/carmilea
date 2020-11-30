@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoiding GMOs isn’t just anti-science. It’s immoral. (2017)](https://www.washingtonpost.com/opinions/avoiding-gmos-isnt-just-anti-science-its-immoral/2017/12/27/fc773022-ea83-11e7-b698-91d4e35920a3_story.html)
+- [It’s time to remove news from Facebook and Google](https://blog.nillium.com/its-time-to-remove-news-from-facebook-and-google/)
 - [Making Playstation 1 Modchips](https://blog.kchung.co/making-playstation-modchips/)
 - [How to Run a Ponzi Scheme for Tech People](https://callmenish.com/how-to-run-a-tech-ponzi-scheme/)
 - [Repl.it (YC W18) Is Hiring a Site Reliability Engineer](https://jobs.lever.co/replit/)
