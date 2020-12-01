@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wyze 20$ Smart Watch](https://wyze.com/wyze-watch.html)
+- [The Strength of Being Misunderstood](https://blog.samaltman.com/the-strength-of-being-misunderstood)
 - [Show HN: Slyde – A new privacy-focused general social network](https://slyde.network)
-- [How to Buy Gifts That People Actually Want](https://www.willpatrick.co.uk/articles/how-to-buy-gifts-that-people-actually-want)
-- [AWS Lambda – Functions with Up to 10 GB of Memory and 6 VCPUs](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-functions-with-up-to-10-gb-of-memory-and-6-vcpus/)
-- [AWS costs are up 236% compared to colocation in 2020](https://www.servethehome.com/falling-from-the-sky-2020-self-hosting-still-pays/)
-- [An Update on PromQL Compatibility Across Vendors](https://promlabs.com/blog/2020/11/26/an-update-on-promql-compatibility-across-vendors)
+- [How to buy gifts that people actually want](https://www.willpatrick.co.uk/articles/how-to-buy-gifts-that-people-actually-want)
+- [Self-Hosting Still Pays](https://www.servethehome.com/falling-from-the-sky-2020-self-hosting-still-pays/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
