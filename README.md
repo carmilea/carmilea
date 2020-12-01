@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Pixar's Universal Scene Description Now on Pypi](https://pypi.org/project/usd-core/)
-- [Vitamin D Insufficiency May Account for Almost 90% of Covid-19 Deaths](https://www.mdpi.com/2072-6643/12/12/3642/htm)
+- [Vitamin D insufficiency may account for almost 90% of Covid-19 deaths](https://www.mdpi.com/2072-6643/12/12/3642/htm)
 - [Undergraduate Math Student Pushes Frontier of Graph Theory](https://www.quantamagazine.org/mit-undergraduate-math-student-pushes-frontier-of-graph-theory-20201130/)
 - [Why do I care the open web is dying?](https://insightbrowser.com/blog/open-web-dying-why-care)
 - [South Korea's fusion device KSTAR runs for 20 seconds at 100M degrees Celsius](http://www.arirang.com/news/News_View.asp?nseq=268322)
