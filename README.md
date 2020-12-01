@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why do I care the open web is dying?](https://insightbrowser.com/blog/open-web-dying-why-care)
+- [South Korea's fusion device KSTAR runs for 20 seconds at 100M degrees Celsius](http://www.arirang.com/news/News_View.asp?nseq=268322)
+- [LuckysheetServer – Google Sheets-like realtime collaborative spreadsheet](https://github.com/mengshukeji/LuckysheetServer)
 - [GM scales back partnership with electric truck startup Nikola](https://www.detroitnews.com/story/business/autos/general-motors/2020/11/30/gm-scales-back-partnership-electric-truck-startup-nikola/115072224/)
 - [OpenZFS 2.0](https://github.com/openzfs/zfs/releases/tag/zfs-2.0.0)
-- [David Shaw vs. Seymour Papert Debate (1995) [video]](https://www.c-span.org/video/?c4616565/david-shaw-vs-seymour-papert-debate)
-- [Email Lessons from Napoleon](https://thesweetsetup.com/email-lessons-from-napoleon/)
-- [H. G. Wells reviews "Metropolis" (1927)](https://erkelzaar.tsudao.com/reviews/H.G.Wells_on_Metropolis%201927.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
