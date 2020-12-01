@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ethereum 2.0 Launches Successfully](https://twitter.com/ethereum/status/1333743998637400073)
+- [Show HN: Wisdom-of-crowds survey tool that finds hidden consensus at scale](http://opinionx.co)
 - [Arecibo Observatory Collapsed](https://twitter.com/DeborahTiempo/status/1333741751069192195)
-- [KDE Community Edition is now available](https://www.pine64.org/2020/12/01/kde-community-edition-is-now-available/)
-- [Busybox-based Linux distro from scratch](https://re-ws.pl/2020/11/busybox-based-linux-distro-from-scratch/)
-- [Show HN: Everchat 1.0 – Build your community in the fastest way ever](https://everch.at)
+- [PinePhone KDE Community Edition is now available](https://www.pine64.org/2020/12/01/kde-community-edition-is-now-available/)
+- [Foundations of Probabilistic Programming](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
