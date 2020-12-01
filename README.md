@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oasis Linux: a small statically-linked Linux system](https://github.com/oasislinux/oasis)
-- [Ethereum 2.0 Launches Successfully](https://twitter.com/ethereum/status/1333743998637400073)
-- [Show HN: Wisdom-of-crowds survey tool that finds hidden consensus at scale](http://opinionx.co)
-- [Arecibo Observatory Collapsed](https://twitter.com/DeborahTiempo/status/1333741751069192195)
-- [250M people participate in nationwide strike in India](https://peoplesdispatch.org/2020/11/27/250-million-people-participate-in-nationwide-strike-in-india/)
+- [Precursor’s Custom PCBs](https://www.bunniestudios.com/blog/?p=6011)
+- [macOS to FreeBSD migration a.k.a. why I left macOS](https://antranigv.am/weblog_en/posts/macos_to_freebsd/)
+- [Ask HN: Who is hiring? (December 2020)](https://news.ycombinator.com/item?id=25266288)
+- [An open source portable terminal for every dev](https://www.clockworkpi.com/devterm)
+- [Rancher Lab Acquired by SUSE](https://rancher.com/blog/2020/suse-day1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
