@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Lambda pricing now per ms](https://aws.amazon.com/lambda/pricing)
-- [Cambly (YC W14) is hiring remote senior back end engineers](https://jobs.lever.co/cambly/5d96bd36-372b-491b-9c79-01d6524213c8?lever-origin=applied&lever-source%5B%5D=hackernews)
-- [AWS Proton](https://aws.amazon.com/proton/)
-- [Amazon Elastic Container Registry Public: A New Public Container Registry](https://aws.amazon.com/blogs/aws/amazon-ecr-public-a-new-public-container-registry/)
-- [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/)
+- [AWS costs are up 236% compared to colocation in 2020](https://www.servethehome.com/falling-from-the-sky-2020-self-hosting-still-pays/)
+- [An Update on PromQL Compatibility Across Vendors](https://promlabs.com/blog/2020/11/26/an-update-on-promql-compatibility-across-vendors)
+- [AWS Open Sources SQL Server-to-Postgres Translation Layer](https://aws.amazon.com/blogs/opensource/want-more-postgresql-you-just-might-like-babelfish/)
+- [AWS Lambda Supports Containers](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/)
+- [AWS Lambda pricing now per ms](https://aws.amazon.com/lambda/pricing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
