@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesforce Signs Definitive Agreement to Acquire Slack](https://www.salesforce.com/news/press-releases/2020/12/01/salesforce-definitive-agreement-update/)
+- [The Muse (YC W12) Is Hiring a Director of Analytics and BI](https://www.themuse.com/jobs/themuse/director-of-analytics-business-intelligence)
+- [Five Things We Need to Know About Technological Change – By Neil Postman, 1998](https://samim.io/p/2019-12-16-five-things-we-need-to-know-about-technological-change/)
 - [Wyze 20$ Smart Watch](https://wyze.com/wyze-watch.html)
 - [The Strength of Being Misunderstood](https://blog.samaltman.com/the-strength-of-being-misunderstood)
-- [Show HN: Slyde – A new privacy-focused general social network](https://slyde.network)
-- [How to buy gifts that people actually want](https://www.willpatrick.co.uk/articles/how-to-buy-gifts-that-people-actually-want)
-- [Self-Hosting Still Pays](https://www.servethehome.com/falling-from-the-sky-2020-self-hosting-still-pays/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
