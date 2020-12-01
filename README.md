@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oasis Linux: a small statically-linked Linux system](https://github.com/oasislinux/oasis)
 - [Ethereum 2.0 Launches Successfully](https://twitter.com/ethereum/status/1333743998637400073)
 - [Show HN: Wisdom-of-crowds survey tool that finds hidden consensus at scale](http://opinionx.co)
 - [Arecibo Observatory Collapsed](https://twitter.com/DeborahTiempo/status/1333741751069192195)
-- [PinePhone KDE Community Edition is now available](https://www.pine64.org/2020/12/01/kde-community-edition-is-now-available/)
-- [Foundations of Probabilistic Programming](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE)
+- [250M people participate in nationwide strike in India](https://peoplesdispatch.org/2020/11/27/250-million-people-participate-in-nationwide-strike-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
