@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Announces macOS on EC2](https://aws.amazon.com/blogs/aws/new-use-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/)
+- [Micro Magic RISC-V Core Claims to Beat Apple M1 and Arm Cortex-A9](https://www.eetimes.com/micro-magic-risc-v-core-claims-to-beat-apple-m1-and-arm-cortex-a9/)
+- [Amazon EC2 Mac Instances](https://aws.amazon.com/blogs/aws/new-use-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/)
+- [I Hired a Freelance Editor for My Blog (2017)](https://mtlynch.io/editor/)
 - [ARM and Lock-Free Programming](https://randomascii.wordpress.com/2020/11/29/arm-and-lock-free-programming/)
 - [Pixar's Universal Scene Description Now on Pypi](https://pypi.org/project/usd-core/)
-- [Vitamin D insufficiency may account for almost 90% of Covid-19 deaths](https://www.mdpi.com/2072-6643/12/12/3642/htm)
-- [Undergraduate Math Student Pushes Frontier of Graph Theory](https://www.quantamagazine.org/mit-undergraduate-math-student-pushes-frontier-of-graph-theory-20201130/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
