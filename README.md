@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Raycast (YC W20) Is Hiring macOS Software Engineers (EU, Remote)](https://raycast.com/jobs/software-engineer-macos)
-- [Programmer, developer, engineer? What do you call yourself and why?](https://compiler.substack.com/p/-programmer-developer-engineer-what/comments)
 - [Simple Math to Set Up a Sales Team](https://sacks.substack.com/p/simple-math-to-set-up-a-sales-team)
 - [QEMU Advent Calendar 2020](https://www.qemu-advent-calendar.org/2020/)
 - [Amazon EC2 Mac Instances](https://aws.amazon.com/blogs/aws/new-use-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/)
+- [I Hired a Freelance Editor for My Blog (2017)](https://mtlynch.io/editor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
