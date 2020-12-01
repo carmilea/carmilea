@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Precursor’s Custom PCBs](https://www.bunniestudios.com/blog/?p=6011)
-- [macOS to FreeBSD migration a.k.a. why I left macOS](https://antranigv.am/weblog_en/posts/macos_to_freebsd/)
-- [Ask HN: Who is hiring? (December 2020)](https://news.ycombinator.com/item?id=25266288)
-- [An open source portable terminal for every dev](https://www.clockworkpi.com/devterm)
-- [Rancher Lab Acquired by SUSE](https://rancher.com/blog/2020/suse-day1)
+- [AWS Lambda pricing now per ms](https://aws.amazon.com/lambda/pricing)
+- [Cambly (YC W14) is hiring remote senior back end engineers](https://jobs.lever.co/cambly/5d96bd36-372b-491b-9c79-01d6524213c8?lever-origin=applied&lever-source%5B%5D=hackernews)
+- [AWS Proton](https://aws.amazon.com/proton/)
+- [Amazon Elastic Container Registry Public: A New Public Container Registry](https://aws.amazon.com/blogs/aws/amazon-ecr-public-a-new-public-container-registry/)
+- [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
