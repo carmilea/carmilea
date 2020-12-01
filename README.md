@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Legendary Science Fiction Author Ben Bova Has Passed at the Age of 88](https://www.tor.com/2020/11/30/legendary-science-fiction-author-ben-bova-has-passed-at-the-age-of-88/)
+- [GM scales back partnership with electric truck startup Nikola](https://www.detroitnews.com/story/business/autos/general-motors/2020/11/30/gm-scales-back-partnership-electric-truck-startup-nikola/115072224/)
 - [OpenZFS 2.0](https://github.com/openzfs/zfs/releases/tag/zfs-2.0.0)
 - [David Shaw vs. Seymour Papert Debate (1995) [video]](https://www.c-span.org/video/?c4616565/david-shaw-vs-seymour-papert-debate)
 - [Email Lessons from Napoleon](https://thesweetsetup.com/email-lessons-from-napoleon/)
