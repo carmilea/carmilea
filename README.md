@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Slyde – A new privacy-focused general social network](https://slyde.network)
+- [How to Buy Gifts That People Actually Want](https://www.willpatrick.co.uk/articles/how-to-buy-gifts-that-people-actually-want)
+- [AWS Lambda – Functions with Up to 10 GB of Memory and 6 VCPUs](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-functions-with-up-to-10-gb-of-memory-and-6-vcpus/)
 - [AWS costs are up 236% compared to colocation in 2020](https://www.servethehome.com/falling-from-the-sky-2020-self-hosting-still-pays/)
 - [An Update on PromQL Compatibility Across Vendors](https://promlabs.com/blog/2020/11/26/an-update-on-promql-compatibility-across-vendors)
-- [AWS Open Sources SQL Server-to-Postgres Translation Layer](https://aws.amazon.com/blogs/opensource/want-more-postgresql-you-just-might-like-babelfish/)
-- [AWS Lambda Supports Containers](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/)
-- [AWS Lambda pricing now per ms](https://aws.amazon.com/lambda/pricing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
