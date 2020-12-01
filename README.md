@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Treatment for Covid-19 Using Ethanol Vapor Inhalation](https://clinicaltrials.gov/ct2/show/NCT04554433)
 - [Busybox-based Linux distro from scratch](https://re-ws.pl/2020/11/busybox-based-linux-distro-from-scratch/)
 - [Show HN: Everchat 1.0 – Build your community in the fastest way ever](https://everch.at)
 - [Raycast (YC W20) Is Hiring macOS Software Engineers (EU, Remote)](https://raycast.com/jobs/software-engineer-macos)
 - [Simple Math to Set Up a Sales Team](https://sacks.substack.com/p/simple-math-to-set-up-a-sales-team)
-- [QEMU Advent Calendar 2020](https://www.qemu-advent-calendar.org/2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
