@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [QBE vs. LLVM](https://c9x.me/compile/doc/llvm.html)
+- [Mux (YC W16) is hiring a support engineer in ~UTC+0](https://mux.com/jobs)
+- [Chomsky and Hierarchies of Computation](https://dev.to/bellmar/writing-a-bnf-grammar-featuring-prof-jeff-heinz-1cf0)
 - [Win by Segfault and Other Notes on Exploiting Chess Engines](https://chess.resistant.tech/)
 - [Observable and Creative Coding](https://observablehq.com/@makio135/creative-coding)
-- [Front: The $1.3B Startup Slackifying Email](https://sacra.com/research/front-inside-the-startup-slackifying-email/?)
-- [Arecibo Observatory Telescope Collapses, Ending an Era of World-Class Research](https://www.npr.org/2020/12/01/940767001/arecibo-observatory-telescope-collapses-ending-an-era-of-world-class-research)
-- [NN-SVG: Generate publication-ready NN-architecture schematics](https://alexlenail.me/NN-SVG/AlexNet.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
