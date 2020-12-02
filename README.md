@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Boeing's upgraded 737 Max completes first flight with media onboard](https://www.reuters.com/article/us-boeing-737max-american-airline/boeings-upgraded-737-max-completes-first-flight-with-media-onboard-idUSKBN28C1LV)
+- [NandGame – Build a Computer from Scratch](http://nandgame.com/)
+- [Covid-19: politicisation, “corruption,” and suppression of science [pdf]](https://www.bmj.com/content/bmj/371/bmj.m4425.full.pdf)
 - [Winamp Skins Collection](https://archive.org/details/winampskins)
-- [Taking PHP Seriously](https://slack.engineering/taking-php-seriously/)
+- [Taking PHP Seriously (2016)](https://slack.engineering/taking-php-seriously/)
 - [Relationship Hero (YC S17) Is Hiring Full-Time Coaches](https://relationshiphero.com/careers?role=coach)
-- [A Japanese shop is 1,020 years old](https://www.nytimes.com/2020/12/02/business/japan-old-companies.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
