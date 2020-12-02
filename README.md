@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing's upgraded 737 Max completes first flight with media onboard](https://www.reuters.com/article/us-boeing-737max-american-airline/boeings-upgraded-737-max-completes-first-flight-with-media-onboard-idUSKBN28C1LV)
+- [Winamp Skins Collection](https://archive.org/details/winampskins)
+- [Taking PHP Seriously](https://slack.engineering/taking-php-seriously/)
 - [Relationship Hero (YC S17) Is Hiring Full-Time Coaches](https://relationshiphero.com/careers?role=coach)
 - [A Japanese shop is 1,020 years old](https://www.nytimes.com/2020/12/02/business/japan-old-companies.html)
-- [Do not sign a contract with Snowflake](https://news.ycombinator.com/item?id=25281061)
-- [Less than half of Americans know that alcohol is a carcinogen](https://thecounter.org/public-health-groups-alcohol-label-warnings-carcinogen-cancer-link-awareness-prop-65/)
-- [Siteswap](https://en.wikipedia.org/wiki/Siteswap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
