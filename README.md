@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Evictions Associated with More Than 10k Deaths from Covid-19](https://www.npr.org/2020/12/01/940816002/researcher-finds-evictions-are-associated-with-more-than-10-000-death-from-covid)
-- [It’s Managers, Not Workers, Who Are Losing Jobs to AI and Robots, Study Shows](https://www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/)
+- [Horseshoe crab blood to remain big pharma's standard as group rejects substitute](https://www.theguardian.com/environment/2020/may/31/crab-blood-to-remain-big-pharmas-standard-as-industry-group-rejects-substitute)
+- [Pakistan’s new regulations aim to ‘silence the internet’](https://www.aljazeera.com/news/2020/12/2/pakistans-new-regulations-aim-to-silence-the)
 - [RemoveJS – Remove JavaScript from any website](https://remove-js.com/)
-- [GPT-3 Has Learned to Code, Blog and Argue](https://www.nytimes.com/2020/11/24/science/artificial-intelligence-ai-gpt3.html)
-- [Amnesia – Data anonymization made easy](https://amnesia.openaire.eu/)
+- [Show HN: Escape the room.](https://eloeffler.gitlab.io/eloeffler/proto-vcser/)
+- [TSMC confirms 3nm tech for 2022, could enable epic 80B transistor GPUs](https://www.pcgamer.com/tsmc-confirms-3nm-tech-for-2022-could-enable-epic-80-billion-transistor-gpus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
