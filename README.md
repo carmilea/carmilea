@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iPhone zero-click Wi-Fi exploit is one of the most breathtaking hacks ever](https://arstechnica.com/gadgets/2020/12/iphone-zero-click-wi-fi-exploit-is-one-of-the-most-breathtaking-hacks-ever/)
+- [UK approves Pfizer vaccine rollout](https://www.bbc.co.uk/news/health-55145696)
+- [UK approves Pfizer/BioNTech Covid vaccine](https://www.bbc.com/news/health-55145696)
 - [QBE vs. LLVM](https://c9x.me/compile/doc/llvm.html)
-- [Mux (YC W16) is hiring a support engineer in ~UTC+0](https://mux.com/jobs)
-- [Chomsky and Hierarchies of Computation](https://dev.to/bellmar/writing-a-bnf-grammar-featuring-prof-jeff-heinz-1cf0)
-- [Win by Segfault and Other Notes on Exploiting Chess Engines](https://chess.resistant.tech/)
-- [Observable and Creative Coding](https://observablehq.com/@makio135/creative-coding)
+- [Drug Reverses Age-Related Cognitive Decline Within Days](https://neurosciencenews.com/age-cognition-reversal-drug-17347/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
