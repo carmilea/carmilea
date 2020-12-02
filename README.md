@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Front: The $1.3B Startup Slackifying Email](https://sacra.com/research/front-inside-the-startup-slackifying-email/?)
+- [Arecibo Observatory Telescope Collapses, Ending an Era of World-Class Research](https://www.npr.org/2020/12/01/940767001/arecibo-observatory-telescope-collapses-ending-an-era-of-world-class-research)
+- [NN-SVG: Generate publication-ready NN-architecture schematics](https://alexlenail.me/NN-SVG/AlexNet.html)
 - [Computer Science Degree – Is it worthy it? Should You Get it?](https://monalidor.com/computer-science-degree-is-it-worthy-it/)
-- [Yes! High level languages should be used to write systems software (1975)](https://dl.acm.org/doi/10.1145/800181.810318)
-- [AWS S3 is now strongly consistent](https://aws.amazon.com/s3/consistency/)
-- [Ask HN: What are the best advanced computer science courses online?](https://news.ycombinator.com/item?id=25271676)
-- [Attention K-Mart Shoppers: Piped Music Collection on the Internet Archive](https://archive.org/details/attentionkmartshoppers)
+- [S3 Strong Consistency](https://aws.amazon.com/s3/consistency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
