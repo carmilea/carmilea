@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amnesia – data anonymization made easy](https://amnesia.openaire.eu/)
+- [Xix.ai (YC W17) Is Hiring Engineers](https://jobs.lever.co/xix)
+- [Australian Government’s Bureau of Meteorology Can’t Do HTTPS](https://www.bom.gov.au/)
+- [Ask HN: Has anyone seen smart TVs connect to unsecured WiFi without permission?](https://news.ycombinator.com/item?id=25275350)
 - [Linux kernel heap quarantine versus use-after-free exploits](https://a13xp0p0v.github.io/2020/11/30/slab-quarantine.html)
-- [Hackers can take full control of online compilers through a RCE exploit (2018)](https://serhack.me/articles/hackers-full-control-of-online-compilers-through-a-common-exploit/)
-- [Reggie Fowler owes lawyers $600k](https://amycastor.com/2020/12/02/man-linked-to-missing-bitfinex-tether-funds-owes-lawyers-600000/)
-- [Messenger API Updates for Europe](https://developers.facebook.com/docs/messenger-platform/europe-updates)
-- [QBE vs. LLVM](https://c9x.me/compile/doc/llvm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
