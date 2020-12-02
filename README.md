@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Archive and historians sue White House, seek to preserve presidential records](https://nsarchive.gwu.edu/briefing-book/foia/2020-12-01/archive-historians-crew-sue-white-house-seek-preserve-presidential-records-during-transition)
+- [Google illegally spied on workers before firing them, US labor board alleges](https://www.theverge.com/2020/12/2/22047383/google-spied-workers-before-firing-labor-complaint)
 - [Cyberespionage Using SS7 via Circles](https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/)
 - [MIT study: Covid-19 vaccines may be less effective for racial minorities](https://www.csail.mit.edu/news/mit-study-covid-19-vaccines-may-be-less-effective-racial-minorities)
 - [Lantern (YC S19) Is Hiring a Remote FullStack Engineer](https://angel.co/company/lazylantern/jobs)
-- [Artist releases album called “Ok Google Play Music” on Spotify](https://open.spotify.com/album/4zkEptQvq1lVG0BSPLuLFf?si=1Y4i7boAQc-jCc2IP_BGSw&utm_source=podnews.net&utm_medium=email&utm_campaign=podnews.net:2020-12-02)
-- [Materialize Raises a $32M Series B](https://materialize.com/materialize-series-b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
