@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift to Add call/cc](https://github.com/apple/swift/pull/34916)
+- [Win by Segfault and Other Notes on Exploiting Chess Engines](https://chess.resistant.tech/)
+- [Concurrency: Implement withUnsafe[Throwing]Continuation](https://github.com/apple/swift/pull/34916)
 - [Front: The $1.3B Startup Slackifying Email](https://sacra.com/research/front-inside-the-startup-slackifying-email/?)
 - [Arecibo Observatory Telescope Collapses, Ending an Era of World-Class Research](https://www.npr.org/2020/12/01/940767001/arecibo-observatory-telescope-collapses-ending-an-era-of-world-class-research)
 - [NN-SVG: Generate publication-ready NN-architecture schematics](https://alexlenail.me/NN-SVG/AlexNet.html)
-- [S3 Strong Consistency](https://aws.amazon.com/s3/consistency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
