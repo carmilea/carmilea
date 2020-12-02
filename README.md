@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes is deprecating Docker support](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.20.md)
-- [How the CCP Does Job Promotions](https://chinatalk.substack.com/p/how-the-ccp-does-job-promotions)
+- [Urbit Precepts Discussion](https://urbit.org/blog/precepts-discussion/)
+- [Kubernetes is deprecating Docker runtime support](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.20.md)
+- [Using Topology to Classify Labelled Graphs](https://bastian.rieck.me/blog/posts/2020/topology_graphs/)
+- [The Founder’s Guide to Actually Understanding Users](https://mgadams.com/the-founders-guide-to-actually-understanding-users-c68feaecac44)
 - [PTM – Page Table Manipulation from Usermode](https://back.engineering/01/12/2020/)
-- [Paul Graham on Replit's Growth](https://twitter.com/paulg/status/1334178824121147392)
-- [Archive and historians sue White House, seek to preserve presidential records](https://nsarchive.gwu.edu/briefing-book/foia/2020-12-01/archive-historians-crew-sue-white-house-seek-preserve-presidential-records-during-transition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
