@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why scientists are turning to Rust](https://www.nature.com/articles/d41586-020-03382-2)
+- [AWS S3 is now strongly consistent](https://aws.amazon.com/s3/consistency/)
+- [Ask HN: What are the best advanced computer science courses online?](https://news.ycombinator.com/item?id=25271676)
+- [Attention K-Mart Shoppers: Piped Music Collection on the Internet Archive](https://archive.org/details/attentionkmartshoppers)
 - [An iOS zero-click radio proximity exploit odyssey](https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html)
 - [Feature Casualties of Large Databases](https://brandur.org/large-database-casualties)
-- [Salesforce Signs Definitive Agreement to Acquire Slack](https://www.salesforce.com/news/press-releases/2020/12/01/salesforce-definitive-agreement-update/)
-- [The Muse (YC W12) Is Hiring a Director of Analytics and BI](https://www.themuse.com/jobs/themuse/director-of-analytics-business-intelligence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
