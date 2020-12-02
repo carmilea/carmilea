@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Urbit Precepts Discussion](https://urbit.org/blog/precepts-discussion/)
-- [Kubernetes is deprecating Docker runtime support](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.20.md)
-- [Using Topology to Classify Labelled Graphs](https://bastian.rieck.me/blog/posts/2020/topology_graphs/)
-- [The Founder’s Guide to Actually Understanding Users](https://mgadams.com/the-founders-guide-to-actually-understanding-users-c68feaecac44)
-- [PTM – Page Table Manipulation from Usermode](https://back.engineering/01/12/2020/)
+- [Relationship Hero (YC S17) Is Hiring Full-Time Coaches](https://relationshiphero.com/careers?role=coach)
+- [A Japanese shop is 1,020 years old](https://www.nytimes.com/2020/12/02/business/japan-old-companies.html)
+- [Do not sign a contract with Snowflake](https://news.ycombinator.com/item?id=25281061)
+- [Less than half of Americans know that alcohol is a carcinogen](https://thecounter.org/public-health-groups-alcohol-label-warnings-carcinogen-cancer-link-awareness-prop-65/)
+- [Siteswap](https://en.wikipedia.org/wiki/Siteswap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
