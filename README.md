@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Horseshoe crab blood to remain big pharma's standard as group rejects substitute](https://www.theguardian.com/environment/2020/may/31/crab-blood-to-remain-big-pharmas-standard-as-industry-group-rejects-substitute)
-- [Pakistan’s new regulations aim to ‘silence the internet’](https://www.aljazeera.com/news/2020/12/2/pakistans-new-regulations-aim-to-silence-the)
-- [RemoveJS – Remove JavaScript from any website](https://remove-js.com/)
-- [Show HN: Escape the room.](https://eloeffler.gitlab.io/eloeffler/proto-vcser/)
-- [TSMC confirms 3nm tech for 2022, could enable epic 80B transistor GPUs](https://www.pcgamer.com/tsmc-confirms-3nm-tech-for-2022-could-enable-epic-80-billion-transistor-gpus/)
+- [Google Poly is shutting down](https://support.google.com/poly/answer/10192635)
+- [Materialize Raises a $32M Series B](https://materialize.com/materialize-series-b/)
+- [Japan and South Korea see surge of suicides among young women](https://www.washingtonpost.com/world/asia_pacific/japan-suicides-pandemic-women/2020/11/28/0617e3a2-fdbd-11ea-b0e4-350e4e60cc91_story.html)
+- [Rga: Ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz](https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/)
+- [Teardown of “Dishy McFlatface,” the SpaceX Starlink User Terminal](https://arstechnica.com/information-technology/2020/12/teardown-of-dishy-mcflatface-the-spacex-starlink-user-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
