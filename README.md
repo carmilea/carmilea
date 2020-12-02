@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Amnesia – data anonymization made easy](https://amnesia.openaire.eu/)
 - [Xix.ai (YC W17) Is Hiring Engineers](https://jobs.lever.co/xix)
-- [Australian Government’s Bureau of Meteorology Can’t Do HTTPS](https://www.bom.gov.au/)
+- [Amazon’s cloudy Macs cost $25.99 a day. 77 days of usage would buy you your own](https://www.theregister.com/2020/12/02/aws_ec2_mac_pricing/)
+- [A Chain Cut Through a Capsized Cargo Ship Filled W' Cars: Process Is Fascinating](https://jalopnik.com/a-chain-just-cut-through-a-capsized-cargo-ship-filled-w-1845784581)
 - [Ask HN: Has anyone seen smart TVs connect to unsecured WiFi without permission?](https://news.ycombinator.com/item?id=25275350)
-- [Linux kernel heap quarantine versus use-after-free exploits](https://a13xp0p0v.github.io/2020/11/30/slab-quarantine.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
