@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Poly is shutting down](https://support.google.com/poly/answer/10192635)
+- [Cyberespionage Using SS7 via Circles](https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/)
+- [MIT study: Covid-19 vaccines may be less effective for racial minorities](https://www.csail.mit.edu/news/mit-study-covid-19-vaccines-may-be-less-effective-racial-minorities)
+- [Lantern (YC S19) Is Hiring a Remote FullStack Engineer](https://angel.co/company/lazylantern/jobs)
+- [Artist releases album called “Ok Google Play Music” on Spotify](https://open.spotify.com/album/4zkEptQvq1lVG0BSPLuLFf?si=1Y4i7boAQc-jCc2IP_BGSw&utm_source=podnews.net&utm_medium=email&utm_campaign=podnews.net:2020-12-02)
 - [Materialize Raises a $32M Series B](https://materialize.com/materialize-series-b/)
-- [Japan and South Korea see surge of suicides among young women](https://www.washingtonpost.com/world/asia_pacific/japan-suicides-pandemic-women/2020/11/28/0617e3a2-fdbd-11ea-b0e4-350e4e60cc91_story.html)
-- [Rga: Ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz](https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/)
-- [Teardown of “Dishy McFlatface,” the SpaceX Starlink User Terminal](https://arstechnica.com/information-technology/2020/12/teardown-of-dishy-mcflatface-the-spacex-starlink-user-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
