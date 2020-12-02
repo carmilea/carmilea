@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Win by Segfault and Other Notes on Exploiting Chess Engines](https://chess.resistant.tech/)
-- [Concurrency: Implement withUnsafe[Throwing]Continuation](https://github.com/apple/swift/pull/34916)
+- [Observable and Creative Coding](https://observablehq.com/@makio135/creative-coding)
 - [Front: The $1.3B Startup Slackifying Email](https://sacra.com/research/front-inside-the-startup-slackifying-email/?)
 - [Arecibo Observatory Telescope Collapses, Ending an Era of World-Class Research](https://www.npr.org/2020/12/01/940767001/arecibo-observatory-telescope-collapses-ending-an-era-of-world-class-research)
 - [NN-SVG: Generate publication-ready NN-architecture schematics](https://alexlenail.me/NN-SVG/AlexNet.html)
