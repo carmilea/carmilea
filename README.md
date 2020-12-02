@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes is deprecating Docker support](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.20.md)
+- [How the CCP Does Job Promotions](https://chinatalk.substack.com/p/how-the-ccp-does-job-promotions)
+- [PTM – Page Table Manipulation from Usermode](https://back.engineering/01/12/2020/)
+- [Paul Graham on Replit's Growth](https://twitter.com/paulg/status/1334178824121147392)
 - [Archive and historians sue White House, seek to preserve presidential records](https://nsarchive.gwu.edu/briefing-book/foia/2020-12-01/archive-historians-crew-sue-white-house-seek-preserve-presidential-records-during-transition)
-- [Google illegally spied on workers before firing them, US labor board alleges](https://www.theverge.com/2020/12/2/22047383/google-spied-workers-before-firing-labor-complaint)
-- [Cyberespionage Using SS7 via Circles](https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/)
-- [MIT study: Covid-19 vaccines may be less effective for racial minorities](https://www.csail.mit.edu/news/mit-study-covid-19-vaccines-may-be-less-effective-racial-minorities)
-- [Lantern (YC S19) Is Hiring a Remote FullStack Engineer](https://angel.co/company/lazylantern/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
