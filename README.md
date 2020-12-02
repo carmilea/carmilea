@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iPhone zero-click Wi-Fi exploit is one of the most breathtaking hacks ever](https://arstechnica.com/gadgets/2020/12/iphone-zero-click-wi-fi-exploit-is-one-of-the-most-breathtaking-hacks-ever/)
-- [UK approves Pfizer vaccine rollout](https://www.bbc.co.uk/news/health-55145696)
-- [UK approves Pfizer/BioNTech Covid vaccine](https://www.bbc.com/news/health-55145696)
+- [Reggie Fowler owes lawyers $600k](https://amycastor.com/2020/12/02/man-linked-to-missing-bitfinex-tether-funds-owes-lawyers-600000/)
+- [iPhone zero-click Wi-Fi exploit](https://arstechnica.com/gadgets/2020/12/iphone-zero-click-wi-fi-exploit-is-one-of-the-most-breathtaking-hacks-ever/)
+- [Messenger API Updates for Europe](https://developers.facebook.com/docs/messenger-platform/europe-updates)
+- [Covid Pfizer vaccine approved for use next week in UK](https://www.bbc.com/news/health-55145696)
 - [QBE vs. LLVM](https://c9x.me/compile/doc/llvm.html)
-- [Drug Reverses Age-Related Cognitive Decline Within Days](https://neurosciencenews.com/age-cognition-reversal-drug-17347/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
