@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Computer Science Degree – Is it worthy it? Should You Get it?](https://monalidor.com/computer-science-degree-is-it-worthy-it/)
+- [Yes! High level languages should be used to write systems software (1975)](https://dl.acm.org/doi/10.1145/800181.810318)
 - [AWS S3 is now strongly consistent](https://aws.amazon.com/s3/consistency/)
 - [Ask HN: What are the best advanced computer science courses online?](https://news.ycombinator.com/item?id=25271676)
 - [Attention K-Mart Shoppers: Piped Music Collection on the Internet Archive](https://archive.org/details/attentionkmartshoppers)
-- [An iOS zero-click radio proximity exploit odyssey](https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html)
-- [Feature Casualties of Large Databases](https://brandur.org/large-database-casualties)
 <!-- BLOG-POST-LIST:END -->
 
 ---
