@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists studying why gamers invert their controls](https://www.theguardian.com/games/2020/dec/02/scientists-studying-why-gamers-invert-their-controls)
+- [Linux kernel heap quarantine versus use-after-free exploits](https://a13xp0p0v.github.io/2020/11/30/slab-quarantine.html)
 - [Hackers can take full control of online compilers through a RCE exploit (2018)](https://serhack.me/articles/hackers-full-control-of-online-compilers-through-a-common-exploit/)
 - [Reggie Fowler owes lawyers $600k](https://amycastor.com/2020/12/02/man-linked-to-missing-bitfinex-tether-funds-owes-lawyers-600000/)
 - [Messenger API Updates for Europe](https://developers.facebook.com/docs/messenger-platform/europe-updates)
-- [Covid Pfizer vaccine approved for use next week in UK](https://www.bbc.com/news/health-55145696)
+- [QBE vs. LLVM](https://c9x.me/compile/doc/llvm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
