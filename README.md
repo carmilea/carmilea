@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amnesia – data anonymization made easy](https://amnesia.openaire.eu/)
-- [Xix.ai (YC W17) Is Hiring Engineers](https://jobs.lever.co/xix)
-- [Amazon’s cloudy Macs cost $25.99 a day. 77 days of usage would buy you your own](https://www.theregister.com/2020/12/02/aws_ec2_mac_pricing/)
-- [A Chain Cut Through a Capsized Cargo Ship Filled W' Cars: Process Is Fascinating](https://jalopnik.com/a-chain-just-cut-through-a-capsized-cargo-ship-filled-w-1845784581)
-- [Ask HN: Has anyone seen smart TVs connect to unsecured WiFi without permission?](https://news.ycombinator.com/item?id=25275350)
+- [Evictions Associated with More Than 10k Deaths from Covid-19](https://www.npr.org/2020/12/01/940816002/researcher-finds-evictions-are-associated-with-more-than-10-000-death-from-covid)
+- [It’s Managers, Not Workers, Who Are Losing Jobs to AI and Robots, Study Shows](https://www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/)
+- [RemoveJS – Remove JavaScript from any website](https://remove-js.com/)
+- [GPT-3 Has Learned to Code, Blog and Argue](https://www.nytimes.com/2020/11/24/science/artificial-intelligence-ai-gpt3.html)
+- [Amnesia – Data anonymization made easy](https://amnesia.openaire.eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
