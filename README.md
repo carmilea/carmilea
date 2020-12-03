@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Phone Was Spying on Me, So I Tracked Down the Surveillants](https://twitter.com/martingund/status/1334465877153095680)
+- [What's new in Svelte (Dec 2020)](https://svelte.dev/blog/whats-new-in-svelte-december-2020)
 - [Taplytics (YC W14) Is Hiring for Software Engs, Sales and Tech Support](https://jobs.lever.co/taplytics)
 - [TimescaleDB vs. Amazon Timestream](https://blog.timescale.com/blog/timescaledb-vs-amazon-timestream-6000x-higher-inserts-175x-faster-queries-220x-cheaper/)
 - [How to Safely Store a Password(2010)](https://codahale.com/how-to-safely-store-a-password/)
-- [64-bit RISC-V core claims 10x better CoreMarks/Watt compared to other 3-5GHz CPU](http://linuxgizmos.com/64-bit-risc-v-core-claims-10x-better-coremarks-watt-compared-to-other-3-5ghz-cpus/)
-- [Sockets in Your Shell](https://who23.github.io/2020/12/03/sockets-in-your-shell.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
