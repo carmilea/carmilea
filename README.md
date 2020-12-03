@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesorio Is Hiring a Senior Product Manager and Senior Engineers](https://www.tesorio.com/careers#job-openings)
-- [Apple App Store Small Business Program for 15% rate](https://developer.apple.com/app-store/small-business-program/#)
-- [New Pip resolver takes a long time to complete](https://github.com/pypa/pip/issues/9187)
-- [Mesa 20.3 released with out-of-the-box support for Arm's Mali Bifrost GPUs](https://docs.mesa3d.org/relnotes/20.3.0.html)
-- [Justice Dept files suit against Facebook for discriminating against U.S. workers](https://www.justice.gov/opa/pr/justice-department-files-lawsuit-against-facebook-discriminating-against-us-workers)
+- [Gaia 'discovery machine' updates star catalogue](https://www.bbc.co.uk/news/science-environment-55178257)
+- [Architectures for Mitigating AWS Outages](https://www.forelse.io/posts/architectures-for-mitigating-aws-outages/)
+- [TinyCheck: Easily capture network communications from a smartphone](https://github.com/KasperskyLab/TinyCheck)
+- [Germany cut fossil fuels as much as did the U.S., but at far greater expense](https://spectrum.ieee.org/energy/renewables/germanys-energiewende-20-years-later)
+- [Google will delete all your data on Gmail, etc. if you are inactive for 2 years](http://www.indiatvnews.com/technology/news-googe-delete-your-content-if-your-inactive-for-2-years-664359)
 <!-- BLOG-POST-LIST:END -->
 
 ---
