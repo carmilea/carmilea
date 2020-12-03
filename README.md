@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethical AI researcher Timnit Gebru fired from Google](https://twitter.com/timnitGebru/status/1334352694664957952)
+- [Briefing note: US Deputy Secretary Of State meeting with Andrei Gromyko (1985)](https://history.state.gov/historicaldocuments/frus1981-88v05/d16)
+- [For every cycle a HW engineer saves, a SW engineer will add two instructions](https://fabiensanglard.net/silicone/)
+- [Show HN: BeautifulCode, generate beautiful images of your source code](https://www.beautifulcodes.in/)
 - [Baby girl born from record-setting 27-year-old embryo](https://www.bbc.com/news/world-us-canada-55164607)
 - [AstraZeneca to be exempt from Covid vaccine liability claims in most countries](https://www.theglobeandmail.com/business/international-business/article-astrazeneca-to-be-exempt-from-coronavirus-vaccine-liability-claims-in/)
-- [Hackhunter hunts down malicious WiFi](https://ia.acs.org.au/content/ia/article/2020/australian-innovation-hunts-down-malicious-wifi-.html)
-- [Protein folding: Much more intricate than we thought](https://cen.acs.org/articles/95/i31/Protein-folding-Much-intricate-thought.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
