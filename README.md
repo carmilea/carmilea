@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [NandGame – Build a Computer from Scratch](http://nandgame.com/)
+- [Four Types of Kanji (2019)](https://learnjapanesebest.wordpress.com/2019/12/11/the-four-types-of-kanji/)
 - [Covid-19: politicisation, “corruption,” and suppression of science [pdf]](https://www.bmj.com/content/bmj/371/bmj.m4425.full.pdf)
+- [Error 418 – I'm a Teapot](http://error418.net/)
 - [Winamp Skins Collection](https://archive.org/details/winampskins)
-- [Taking PHP Seriously (2016)](https://slack.engineering/taking-php-seriously/)
-- [Relationship Hero (YC S17) Is Hiring Full-Time Coaches](https://relationshiphero.com/careers?role=coach)
 <!-- BLOG-POST-LIST:END -->
 
 ---
