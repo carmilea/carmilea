@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pine retail stores vs. community stores](https://www.pine64.org/2020/12/02/pine-store-community-pricing-online-retail-stores/?s=09)
+- [The Chrome Root Program](https://groups.google.com/g/mozilla.dev.security.policy/c/3Q36J4flnQs/m/VyWFiVwrBQAJ)
 - [NandGame – Build a Computer from Scratch](http://nandgame.com/)
 - [Four Types of Kanji (2019)](https://learnjapanesebest.wordpress.com/2019/12/11/the-four-types-of-kanji/)
 - [Covid-19: politicisation, “corruption,” and suppression of science [pdf]](https://www.bmj.com/content/bmj/371/bmj.m4425.full.pdf)
-- [Error 418 – I'm a Teapot](http://error418.net/)
-- [Winamp Skins Collection](https://archive.org/details/winampskins)
 <!-- BLOG-POST-LIST:END -->
 
 ---
