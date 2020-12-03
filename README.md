@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unreal Engine 4.26 now available](https://docs.unrealengine.com/en-US/WhatsNew/Builds/ReleaseNotes/4_26/index.html)
-- [Colombia Is Considering Legalizing Its Cocaine Industry](https://www.vice.com/en/article/epdv3j/colombia-is-considering-legalizing-its-massive-cocaine-industry)
-- [Computer input latency from 1977-2017](https://danluu.com/input-lag/)
-- [Google fired employees for union activity, says US agency](https://www.bbc.co.uk/news/technology-55173063)
-- [Vitamin D metabolites and the gut microbiome in older men](https://www.nature.com/articles/s41467-020-19793-8)
+- [OneSignal is hiring a Back end Engineer interested in writing in Go and Rust](https://onesignal.com/careers/90cfa84c-5d78-47e8-a3f3-5cbaddd0ca89)
+- [Futures explained in 200 lines of Rust](https://cfsamson.github.io/books-futures-explained/introduction.html)
+- [AWS: Run Microsoft SQL Server apps on PostgreSQL with little to no code changes](https://aws.amazon.com/rds/aurora/babelfish/)
+- [Toward more efficient and inclusive work with asynchronous communication](https://www.singlestore.com/blog/toward-more-efficient-and-inclusive-work-with-asynchronous-communication/)
+- [Drone Footage of Arecibo Observatory Collapse](https://www.nsf.gov/news/special_reports/arecibo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
