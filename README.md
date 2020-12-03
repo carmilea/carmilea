@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [State of Common Lisp Survey 2020](https://docs.google.com/forms/d/e/1FAIpQLSfg7UJRKrkI3OjOHWL4xI-murE4LpQjIxsiAhFdPEmtyLX3kg/viewanalytics)
+- [Ditch high definition and new tech to fight climate change](https://www.bbc.co.uk/news/technology-55164410)
 - [Mushrooms Can Eat Plastic, Petroleum and CO2](https://returntonow.net/2018/01/11/7-ways-mushrooms-can-save-world/)
 - [Twin – Tailwind with the flexibility of CSS-in-JS](https://github.com/ben-rogerson/twin.macro)
 - [Briefing note: US Deputy Secretary Of State meeting with Andrei Gromyko (1985)](https://history.state.gov/historicaldocuments/frus1981-88v05/d16)
-- [In-Database Machine Learning [pdf]](https://btw.informatik.uni-rostock.de/download/tagungsband/B6-1.pdf)
-- [These are called opportunities](https://fabiensanglard.net/silicone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
