@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WebAsm: Forth with Lisp Syntax](https://ph1lter.bitbucket.io/blog/2020-12-03-webasm-forth-with-lisp-syntax.html)
 - [OneSignal is hiring a Back end Engineer interested in writing in Go and Rust](https://onesignal.com/careers/90cfa84c-5d78-47e8-a3f3-5cbaddd0ca89)
 - [Futures explained in 200 lines of Rust](https://cfsamson.github.io/books-futures-explained/introduction.html)
 - [AWS: Run Microsoft SQL Server apps on PostgreSQL with little to no code changes](https://aws.amazon.com/rds/aurora/babelfish/)
 - [Toward more efficient and inclusive work with asynchronous communication](https://www.singlestore.com/blog/toward-more-efficient-and-inclusive-work-with-asynchronous-communication/)
-- [Drone Footage of Arecibo Observatory Collapse](https://www.nsf.gov/news/special_reports/arecibo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
