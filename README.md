@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mushrooms Can Eat Plastic, Petroleum and CO2](https://returntonow.net/2018/01/11/7-ways-mushrooms-can-save-world/)
+- [Twin – Tailwind with the flexibility of CSS-in-JS](https://github.com/ben-rogerson/twin.macro)
 - [Briefing note: US Deputy Secretary Of State meeting with Andrei Gromyko (1985)](https://history.state.gov/historicaldocuments/frus1981-88v05/d16)
-- [For every cycle a HW engineer saves, a SW engineer will add two instructions](https://fabiensanglard.net/silicone/)
-- [Show HN: BeautifulCode, generate beautiful images of your source code](https://www.beautifulcodes.in/)
-- [Baby girl born from record-setting 27-year-old embryo](https://www.bbc.com/news/world-us-canada-55164607)
-- [AstraZeneca to be exempt from Covid vaccine liability claims in most countries](https://www.theglobeandmail.com/business/international-business/article-astrazeneca-to-be-exempt-from-coronavirus-vaccine-liability-claims-in/)
+- [In-Database Machine Learning [pdf]](https://btw.informatik.uni-rostock.de/download/tagungsband/B6-1.pdf)
+- [These are called opportunities](https://fabiensanglard.net/silicone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
