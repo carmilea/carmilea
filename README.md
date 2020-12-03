@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI researcher Timnit Gebru fired from Google](https://www.platformer.news/p/the-withering-email-that-got-an-ethical)
+- [Justice Dept Lawsuit Against Facebook for Discriminating Against U.S. Workers](https://www.justice.gov/opa/pr/justice-department-files-lawsuit-against-facebook-discriminating-against-us-workers)
+- [Warner Bros. Will Send Entire 2021 Slate to HBO Max and Theaters](https://www.hollywoodreporter.com/news/warner-bros-smashes-box-office-windows-will-send-2021-slate-to-hbo-max-and-theaters)
+- [AI researcher Timnit Gebru resigns from Google](https://www.platformer.news/p/the-withering-email-that-got-an-ethical)
 - [WebAsm: Forth with Lisp Syntax](https://ph1lter.bitbucket.io/blog/2020-12-03-webasm-forth-with-lisp-syntax.html)
 - [OneSignal is hiring a Back end Engineer interested in writing in Go and Rust](https://onesignal.com/careers/90cfa84c-5d78-47e8-a3f3-5cbaddd0ca89)
-- [Futures explained in 200 lines of Rust](https://cfsamson.github.io/books-futures-explained/introduction.html)
-- [US ends era of emotional support animals on planes](https://www.bbc.com/news/world-us-canada-55177736)
 <!-- BLOG-POST-LIST:END -->
 
 ---
