@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gaia 'discovery machine' updates star catalogue](https://www.bbc.co.uk/news/science-environment-55178257)
+- [ReBeL: A general game-playing AI bot that excels at poker and more](https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/?href=)
 - [Architectures for Mitigating AWS Outages](https://www.forelse.io/posts/architectures-for-mitigating-aws-outages/)
-- [TinyCheck: Easily capture network communications from a smartphone](https://github.com/KasperskyLab/TinyCheck)
-- [Germany cut fossil fuels as much as did the U.S., but at far greater expense](https://spectrum.ieee.org/energy/renewables/germanys-energiewende-20-years-later)
+- [TinyCheck: Easily capture network communications coming from a smartphone](https://github.com/KasperskyLab/TinyCheck)
+- [Justice Department Sues to Block Visa's Proposed Acquisition of Plaid](https://www.justice.gov/opa/pr/justice-department-sues-block-visas-proposed-acquisition-plaid)
 - [Google will delete all your data on Gmail, etc. if you are inactive for 2 years](http://www.indiatvnews.com/technology/news-googe-delete-your-content-if-your-inactive-for-2-years-664359)
 <!-- BLOG-POST-LIST:END -->
 
