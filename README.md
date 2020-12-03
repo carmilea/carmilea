@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Justice Dept Lawsuit Against Facebook for Discriminating Against U.S. Workers](https://www.justice.gov/opa/pr/justice-department-files-lawsuit-against-facebook-discriminating-against-us-workers)
-- [Warner Bros. Will Send Entire 2021 Slate to HBO Max and Theaters](https://www.hollywoodreporter.com/news/warner-bros-smashes-box-office-windows-will-send-2021-slate-to-hbo-max-and-theaters)
-- [AI researcher Timnit Gebru resigns from Google](https://www.platformer.news/p/the-withering-email-that-got-an-ethical)
-- [WebAsm: Forth with Lisp Syntax](https://ph1lter.bitbucket.io/blog/2020-12-03-webasm-forth-with-lisp-syntax.html)
-- [OneSignal is hiring a Back end Engineer interested in writing in Go and Rust](https://onesignal.com/careers/90cfa84c-5d78-47e8-a3f3-5cbaddd0ca89)
+- [Tesorio Is Hiring a Senior Product Manager and Senior Engineers](https://www.tesorio.com/careers#job-openings)
+- [Apple App Store Small Business Program for 15% rate](https://developer.apple.com/app-store/small-business-program/#)
+- [New Pip resolver takes a long time to complete](https://github.com/pypa/pip/issues/9187)
+- [Mesa 20.3 released with out-of-the-box support for Arm's Mali Bifrost GPUs](https://docs.mesa3d.org/relnotes/20.3.0.html)
+- [Justice Dept files suit against Facebook for discriminating against U.S. workers](https://www.justice.gov/opa/pr/justice-department-files-lawsuit-against-facebook-discriminating-against-us-workers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
