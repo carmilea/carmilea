@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hawala traders are being squeezed by regulators and Covid-19](https://www.economist.com/finance-and-economics/2020/11/28/hawala-traders-are-being-squeezed-by-regulators-and-covid-19)
+- [Benchmark: Puppeteer vs. Selenium vs. Playwright vs. WebDriverIO](https://blog.checklyhq.com/puppeteer-vs-selenium-vs-playwright-speed-comparison/)
+- [M1 Macs: Truth and Truthiness](https://daringfireball.net/2020/12/m1_macs_truth_and_truthiness)
 - [My Phone Was Spying on Me, So I Tracked Down the Surveillants](https://twitter.com/martingund/status/1334465877153095680)
 - [What's new in Svelte (Dec 2020)](https://svelte.dev/blog/whats-new-in-svelte-december-2020)
-- [Taplytics (YC W14) Is Hiring for Software Engs, Sales and Tech Support](https://jobs.lever.co/taplytics)
-- [TimescaleDB vs. Amazon Timestream](https://blog.timescale.com/blog/timescaledb-vs-amazon-timestream-6000x-higher-inserts-175x-faster-queries-220x-cheaper/)
-- [How to Safely Store a Password(2010)](https://codahale.com/how-to-safely-store-a-password/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
