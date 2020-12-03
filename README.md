@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Taplytics (YC W14) Is Hiring for Software Engs, Sales and Tech Support](https://jobs.lever.co/taplytics)
+- [TimescaleDB vs. Amazon Timestream](https://blog.timescale.com/blog/timescaledb-vs-amazon-timestream-6000x-higher-inserts-175x-faster-queries-220x-cheaper/)
+- [How to Safely Store a Password(2010)](https://codahale.com/how-to-safely-store-a-password/)
 - [64-bit RISC-V core claims 10x better CoreMarks/Watt compared to other 3-5GHz CPU](http://linuxgizmos.com/64-bit-risc-v-core-claims-10x-better-coremarks-watt-compared-to-other-3-5ghz-cpus/)
 - [Sockets in Your Shell](https://who23.github.io/2020/12/03/sockets-in-your-shell.html)
-- [State of Common Lisp Survey 2020](https://docs.google.com/forms/d/e/1FAIpQLSfg7UJRKrkI3OjOHWL4xI-murE4LpQjIxsiAhFdPEmtyLX3kg/viewanalytics)
-- [Ditch high definition and new tech to fight climate change](https://www.bbc.co.uk/news/technology-55164410)
-- [Mushrooms Can Eat Plastic, Petroleum and CO2 (2018)](https://returntonow.net/2018/01/11/7-ways-mushrooms-can-save-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
