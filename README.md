@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD CPU sales skyrocket with Ryzen 5000 launch, leaving Intel in the dust](https://www.techradar.com/uk/news/amd-cpu-sales-skyrocket-with-ryzen-5000-launch-leaving-intel-in-the-dust)
-- [AWS just went multi-cloud and it's only the beginning – A Cloud Guru](https://acloudguru.com/blog/business/aws-just-went-multi-cloud-and-its-only-the-beginning)
-- [PFAS “forever” chemicals found in hundreds more everyday products](https://theintercept.com/2020/12/02/pfas-chemicals-products/)
-- [The Base58 Encoding Scheme](https://tools.ietf.org/id/draft-msporny-base58-01.html)
-- [The “$20M to $500M” Question: Adding Top Down Sales](https://a16z.com/2020/12/03/adding-top-down-sales-bottom-up-enterprise-startup/)
+- [Unreal Engine 4.26 now available](https://docs.unrealengine.com/en-US/WhatsNew/Builds/ReleaseNotes/4_26/index.html)
+- [Colombia Is Considering Legalizing Its Cocaine Industry](https://www.vice.com/en/article/epdv3j/colombia-is-considering-legalizing-its-massive-cocaine-industry)
+- [Computer input latency from 1977-2017](https://danluu.com/input-lag/)
+- [Google fired employees for union activity, says US agency](https://www.bbc.co.uk/news/technology-55173063)
+- [Vitamin D metabolites and the gut microbiome in older men](https://www.nature.com/articles/s41467-020-19793-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
