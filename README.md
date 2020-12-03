@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hawala traders are being squeezed by regulators and Covid-19](https://www.economist.com/finance-and-economics/2020/11/28/hawala-traders-are-being-squeezed-by-regulators-and-covid-19)
-- [Benchmark: Puppeteer vs. Selenium vs. Playwright vs. WebDriverIO](https://blog.checklyhq.com/puppeteer-vs-selenium-vs-playwright-speed-comparison/)
-- [M1 Macs: Truth and Truthiness](https://daringfireball.net/2020/12/m1_macs_truth_and_truthiness)
-- [My Phone Was Spying on Me, So I Tracked Down the Surveillants](https://twitter.com/martingund/status/1334465877153095680)
-- [What's new in Svelte (Dec 2020)](https://svelte.dev/blog/whats-new-in-svelte-december-2020)
+- [AMD CPU sales skyrocket with Ryzen 5000 launch, leaving Intel in the dust](https://www.techradar.com/uk/news/amd-cpu-sales-skyrocket-with-ryzen-5000-launch-leaving-intel-in-the-dust)
+- [AWS just went multi-cloud and it's only the beginning – A Cloud Guru](https://acloudguru.com/blog/business/aws-just-went-multi-cloud-and-its-only-the-beginning)
+- [PFAS “forever” chemicals found in hundreds more everyday products](https://theintercept.com/2020/12/02/pfas-chemicals-products/)
+- [The Base58 Encoding Scheme](https://tools.ietf.org/id/draft-msporny-base58-01.html)
+- [The “$20M to $500M” Question: Adding Top Down Sales](https://a16z.com/2020/12/03/adding-top-down-sales-bottom-up-enterprise-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
