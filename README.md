@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ethical AI researcher Timnit Gebru fired from Google](https://twitter.com/timnitGebru/status/1334352694664957952)
 - [Baby girl born from record-setting 27-year-old embryo](https://www.bbc.com/news/world-us-canada-55164607)
+- [AstraZeneca to be exempt from Covid vaccine liability claims in most countries](https://www.theglobeandmail.com/business/international-business/article-astrazeneca-to-be-exempt-from-coronavirus-vaccine-liability-claims-in/)
+- [Hackhunter hunts down malicious WiFi](https://ia.acs.org.au/content/ia/article/2020/australian-innovation-hunts-down-malicious-wifi-.html)
 - [Protein folding: Much more intricate than we thought](https://cen.acs.org/articles/95/i31/Protein-folding-Much-intricate-thought.html)
-- [HTTP/2 Push is dead](https://evertpot.com/http-2-push-is-dead/)
-- [Pine retail stores vs. community stores](https://www.pine64.org/2020/12/02/pine-store-community-pricing-online-retail-stores/?s=09)
-- [U.S. states plan to sue Facebook next week: sources](https://www.reuters.com/article/us-tech-antitrust-facebook/u-s-states-plan-to-sue-facebook-next-week-sources-idUSKBN28C3HO)
 <!-- BLOG-POST-LIST:END -->
 
 ---
