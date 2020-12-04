@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [All mersenne prime exponents below 100M tested at least once](https://www.mersenne.org/report_milestones/)
-- [U.S. House votes to decriminalize marijuana at federal level](https://www.reuters.com/article/usa-congress-marijuana/u-s-house-votes-to-decriminalize-marijuana-at-federal-level-idUSKBN28E2TX)
+- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Google readies its own chip for future Pixels, Chromebooks](https://www.axios.com/scoop-google-readies-its-own-chip-for-future-pixels-chromebooks-e5f8479e-4a38-485c-a264-9ef9cf68908c.html)
+- [About Google's approach to research publication – Jeff Dean](https://docs.google.com/document/d/1f2kYWDXwhzYnq8ebVtuk9CqQqz7ScqxhSIxeYGrWjK0/preview?pru=AAABdlNwLxs*PKCOHN-Ks0PI5nFrljenMg)
+- [All Mersenne prime exponents below 100m tested at least once](https://www.mersenne.org/report_milestones/)
 - [No, DeepMind has not solved protein folding](http://occamstypewriter.org/scurry/2020/12/02/no-deepmind-has-not-solved-protein-folding/)
-- [The Myth of Code Coverage](https://preslav.me/2020/12/03/the-myth-of-code-coverage/)
-- [Army computer models unveil secret to quieter small drones](https://www.army.mil/article/241373)
 <!-- BLOG-POST-LIST:END -->
 
 ---
