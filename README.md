@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rimac Tests Its Hypercar So It Won’t Brick Stoplights with EM Radiation](https://www.thedrive.com/tech/37922/how-rimac-tests-its-c_two-hypercar-so-it-wont-brick-stoplights-with-electromagnetic-radiation)
+- [Pfizer chairman: We're not sure if someone can transmit Covid after vaccination](https://thehill.com/news-by-subject/healthcare/528619-pfizer-chairman-were-not-sure-if-someone-can-transmit-virus-after)
 - [A terminal-based workflow for research, writing, and programming](http://jacobzelko.com/workflow/)
 - [A spellchecker used to be a major feat of software engineering (2008)](https://prog21.dadgum.com/29.html)
-- [ReBeL: A general game-playing AI bot that excels at poker and more](https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/?href=)
 - [Architectures for Mitigating AWS Outages](https://www.forelse.io/posts/architectures-for-mitigating-aws-outages/)
+- [TinyCheck: Easily capture network communications coming from a smartphone](https://github.com/KasperskyLab/TinyCheck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
