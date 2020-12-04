@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- ['I tried the world's first no-kill, lab-grown chicken burger'](https://www.theguardian.com/food/2020/dec/04/no-kill-lab-grown-chicken-burger-restaurant-israel)
+- [Mozart: Leck mich im Arsch](https://en.wikipedia.org/wiki/Leck_mich_im_Arsch)
 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Sight restored by turning back the epigenetic clock](https://www.nature.com/articles/d41586-020-03119-1)
 - [Google readies its own chip for future Pixels, Chromebooks](https://www.axios.com/scoop-google-readies-its-own-chip-for-future-pixels-chromebooks-e5f8479e-4a38-485c-a264-9ef9cf68908c.html)
-- [About Google's approach to research publication – Jeff Dean](https://docs.google.com/document/d/1f2kYWDXwhzYnq8ebVtuk9CqQqz7ScqxhSIxeYGrWjK0/preview?pru=AAABdlNwLxs*PKCOHN-Ks0PI5nFrljenMg)
-- [All Mersenne prime exponents below 100m tested at least once](https://www.mersenne.org/report_milestones/)
-- [No, DeepMind has not solved protein folding](http://occamstypewriter.org/scurry/2020/12/02/no-deepmind-has-not-solved-protein-folding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
