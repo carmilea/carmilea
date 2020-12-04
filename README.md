@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On this day in 1995: Netscape and Sun Announce JavaScript](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html)
+- [I made 24 high-quality Covid illustrations. Free for commercial and personal use](https://www.pixeltrue.com/frontliner-heroes)
 - [Time to Say Goodbye to Google Fonts](https://wicki.io/posts/2020-11-goodbye-google-fonts/)
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 - [Project Loom and Structured Concurrency](https://www.javaadvent.com/2020/12/project-loom-and-structured-concurrency.html)
-- [Face masks considerably reduce Covid-19 cases in Germany (12/2020)](https://www.pnas.org/content/early/2020/12/02/2015954117)
-- [Flexport is hiring experienced enterprise software engineers](HTTPS://Flexport.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
