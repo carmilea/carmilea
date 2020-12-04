@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Controversial Programming Opinions](https://programmers.blogoverflow.com/2012/08/20-controversial-programming-opinions/)
-- [Reddit Claims 52M Daily Users, Revealing a Key Figure for Social-Media Platforms](https://www.wsj.com/articles/reddit-claims-52-million-daily-users-revealing-a-key-figure-for-social-media-platforms-11606822200)
+- [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
+- [Google staff rally behind fired AI researcher](https://www.bbc.com/news/technology-55187611)
+- [Porting a 100% local app to the web](https://actualbudget.com/blog/porting-local-app-web)
+- [Spiders Can Fly Hundreds of Miles Using Electricity](https://www.theatlantic.com/science/archive/2018/07/the-electric-flight-of-spiders/564437/)
 - [VAccel: Hardware Acceleration for Lightweight Hypervisors](https://vaccel.org)
-- [Mannequin.js: An Articulated Mannequin Figure Library](https://boytchev.github.io/mannequin.js/)
-- [Web analytics should at least meet the standards of informed consent](https://drewdevault.com/2020/12/04/Analytics-and-informed-consent.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
