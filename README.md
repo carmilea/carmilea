@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Flexport is hiring experienced enterprise software engineers](HTTPS://Flexport.com/careers)
+- [What was Aragorn's tax policy?](https://www.youtube.com/watch?v=p-VxvKoDFIw)
+- [Monoliths as a Service](https://www.themostfamousartist.com/maas)
 - [Faroe Island's first roundabout in the World under The Atlantic Ocean](https://nordfra.dk/faroe-island-first-roundabout-in-the-world-under-the-atlantic-ocean/)
-- [I Manage My Random Daily Notes](https://hachibu.net/posts/2020/how-i-manage-my-random-daily-notes/)
-- [That Dothraki Horde, Part I: Barbarian Couture](https://acoup.blog/2020/12/04/collections-that-dothraki-horde-part-i-barbarian-couture/)
-- [System76 – Pangolin](https://system76.com/laptops/pangolin)
+- [How I Manage My Random Daily Notes](https://hachibu.net/posts/2020/how-i-manage-my-random-daily-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
