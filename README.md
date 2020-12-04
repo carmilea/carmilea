@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Online WebCam Eye-Tracking API](https://api.gazerecorder.com)
+- [A terminal-based workflow for research, writing, and programming](http://jacobzelko.com/workflow/)
+- [A spellchecker used to be a major feat of software engineering (2008)](https://prog21.dadgum.com/29.html)
+- [Math Keeps Changing](https://macwright.com/2020/02/14/math-keeps-changing.html)
 - [ReBeL: A general game-playing AI bot that excels at poker and more](https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/?href=)
-- [Architectures for Mitigating AWS Outages](https://www.forelse.io/posts/architectures-for-mitigating-aws-outages/)
-- [TinyCheck: Easily capture network communications coming from a smartphone](https://github.com/KasperskyLab/TinyCheck)
-- [Justice Department Sues to Block Visa's Proposed Acquisition of Plaid](https://www.justice.gov/opa/pr/justice-department-sues-block-visas-proposed-acquisition-plaid)
-- [Google will delete all your data on Gmail, etc. if you are inactive for 2 years](http://www.indiatvnews.com/technology/news-googe-delete-your-content-if-your-inactive-for-2-years-664359)
 <!-- BLOG-POST-LIST:END -->
 
 ---
