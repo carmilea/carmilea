@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pfizer chairman: We're not sure if someone can transmit Covid after vaccination](https://thehill.com/news-by-subject/healthcare/528619-pfizer-chairman-were-not-sure-if-someone-can-transmit-virus-after)
-- [A terminal-based workflow for research, writing, and programming](http://jacobzelko.com/workflow/)
-- [A spellchecker used to be a major feat of software engineering (2008)](https://prog21.dadgum.com/29.html)
-- [Architectures for Mitigating AWS Outages](https://www.forelse.io/posts/architectures-for-mitigating-aws-outages/)
-- [TinyCheck: Easily capture network communications coming from a smartphone](https://github.com/KasperskyLab/TinyCheck)
+- [System76 – Pangolin](https://system76.com/laptops/pangolin)
+- [Hieroglyph, a research tool to easily view a YouTube video's transcript](http://hierogly.ph)
+- [“I've had to relearn coding to get through the new interviews”](https://news.efinancialcareers.com/uk-en/3004947/coding-interviews-hackerrank-nightmare)
+- [No dog food today – the Linux Foundation annual report](https://daniel-lange.com/archives/166-No-dog-food-today-the-Linux-Foundation-annual-report.html)
+- [PixelNeRF Neural Radiance Fields from One or Few Images](https://alexyu.net/pixelnerf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
