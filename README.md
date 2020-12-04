@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [That Dothraki Horde, Part I: Barbarian Couture](https://acoup.blog/2020/12/04/collections-that-dothraki-horde-part-i-barbarian-couture/)
 - [System76 – Pangolin](https://system76.com/laptops/pangolin)
 - [Hieroglyph, a research tool to easily view a YouTube video's transcript](http://hierogly.ph)
 - [“I've had to relearn coding to get through the new interviews”](https://news.efinancialcareers.com/uk-en/3004947/coding-interviews-hackerrank-nightmare)
-- [No dog food today – the Linux Foundation annual report](https://daniel-lange.com/archives/166-No-dog-food-today-the-Linux-Foundation-annual-report.html)
 - [PixelNeRF Neural Radiance Fields from One or Few Images](https://alexyu.net/pixelnerf/)
 <!-- BLOG-POST-LIST:END -->
 
