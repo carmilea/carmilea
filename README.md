@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Google Analytics without GDPR consent](https://evrim.io/using-google-analytics-without-gdpr-consent/)
 - [On this day in 1995: Netscape and Sun Announce JavaScript](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html)
 - [I made 24 high-quality Covid illustrations. Free for commercial and personal use](https://www.pixeltrue.com/frontliner-heroes)
 - [Time to Say Goodbye to Google Fonts](https://wicki.io/posts/2020-11-goodbye-google-fonts/)
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
-- [Project Loom and Structured Concurrency](https://www.javaadvent.com/2020/12/project-loom-and-structured-concurrency.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
