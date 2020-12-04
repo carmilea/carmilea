@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU pushes for 'right to disconnect' from work at home](https://m.dw.com/en/eu-pushes-for-right-to-disconnect-from-work-at-home/a-55803776)
-- [On this day in 1995: Netscape and Sun Announce JavaScript](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html)
-- [“Thundersnow” Hits Edinburgh](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-55184493)
-- [I made 24 high-quality Covid illustrations. Free for commercial and personal use](https://www.pixeltrue.com/frontliner-heroes)
-- [Time to Say Goodbye to Google Fonts](https://wicki.io/posts/2020-11-goodbye-google-fonts/)
+- [FCC to Require Email Addresses on Applications](http://www.arrl.org/news/fcc-to-require-email-addresses-on-applications)
+- [Web analytics should at least meet the standards of informed consent](https://drewdevault.com/2020/12/04/Analytics-and-informed-consent.html)
+- [Paris to ‘get rid of 70k parking spaces’](https://www.itsinternational.com/its3/news/paris-get-rid-70000-parking-spaces)
+- [What You Can Learn from How to Ace a YC Interview](http://paulgraham.com/ace.html)
+- [The Complete Guide to Effective Reading](https://maartenvandoorn.nl/reading-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
