@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+- [Project Loom and Structured Concurrency](https://www.javaadvent.com/2020/12/project-loom-and-structured-concurrency.html)
+- [Face masks considerably reduce Covid-19 cases in Germany (12/2020)](https://www.pnas.org/content/early/2020/12/02/2015954117)
 - [Flexport is hiring experienced enterprise software engineers](HTTPS://Flexport.com/careers)
 - [What was Aragorn's tax policy?](https://www.youtube.com/watch?v=p-VxvKoDFIw)
-- [Monoliths as a Service](https://www.themostfamousartist.com/maas)
-- [Faroe Island's first roundabout in the World under The Atlantic Ocean](https://nordfra.dk/faroe-island-first-roundabout-in-the-world-under-the-atlantic-ocean/)
-- [How I Manage My Random Daily Notes](https://hachibu.net/posts/2020/how-i-manage-my-random-daily-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
