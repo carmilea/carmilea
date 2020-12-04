@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- ['I tried the world's first no-kill, lab-grown chicken burger'](https://www.theguardian.com/food/2020/dec/04/no-kill-lab-grown-chicken-burger-restaurant-israel)
+- [Down Here, They Sometimes Call It 'Boy'](https://www.realclearbooks.com/articles/2020/11/17/down_here_they_sometimes_call_it_boy_585675.html)
+- [PHP8, from a Security Point of View](https://dustri.org/b/php8-from-a-security-point-of-view.html)
 - [Mozart: Leck mich im Arsch](https://en.wikipedia.org/wiki/Leck_mich_im_Arsch)
 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [Sight restored by turning back the epigenetic clock](https://www.nature.com/articles/d41586-020-03119-1)
-- [Google readies its own chip for future Pixels, Chromebooks](https://www.axios.com/scoop-google-readies-its-own-chip-for-future-pixels-chromebooks-e5f8479e-4a38-485c-a264-9ef9cf68908c.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
