@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All mersenne prime exponents below 100M tested at least once](https://www.mersenne.org/report_milestones/)
+- [U.S. House votes to decriminalize marijuana at federal level](https://www.reuters.com/article/usa-congress-marijuana/u-s-house-votes-to-decriminalize-marijuana-at-federal-level-idUSKBN28E2TX)
 - [No, DeepMind has not solved protein folding](http://occamstypewriter.org/scurry/2020/12/02/no-deepmind-has-not-solved-protein-folding/)
 - [The Myth of Code Coverage](https://preslav.me/2020/12/03/the-myth-of-code-coverage/)
 - [Army computer models unveil secret to quieter small drones](https://www.army.mil/article/241373)
-- [Fable 3 (F# to JavaScript compiler) released](https://fable.io/blog/Announcing-Nagareyama-4.html)
-- [AWS SageMaker and SingleStore: Operationalizing Machine Learning at Scale](https://www.singlestore.com/blog/aws-sagemaker-and-singlestore-operationalizing-machine-learning-at-scale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
