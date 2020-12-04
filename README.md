@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Google Analytics without GDPR consent](https://evrim.io/using-google-analytics-without-gdpr-consent/)
+- [EU pushes for 'right to disconnect' from work at home](https://m.dw.com/en/eu-pushes-for-right-to-disconnect-from-work-at-home/a-55803776)
 - [On this day in 1995: Netscape and Sun Announce JavaScript](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html)
+- [“Thundersnow” Hits Edinburgh](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-55184493)
 - [I made 24 high-quality Covid illustrations. Free for commercial and personal use](https://www.pixeltrue.com/frontliner-heroes)
 - [Time to Say Goodbye to Google Fonts](https://wicki.io/posts/2020-11-goodbye-google-fonts/)
-- [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
