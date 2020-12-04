@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep-learning robot Shimon writes and rhymes in real time](https://www.scientificamerican.com/article/this-robot-can-rap-really/)
 - [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
-- [Google staff rally behind fired AI researcher](https://www.bbc.com/news/technology-55187611)
+- [As Vaccines Are Rolled Out, Get Ready for False Side Effects](https://blogs.sciencemag.org/pipeline/archives/2020/12/04/get-ready-for-false-side-effects)
+- [Show HN: CLI Guidelines – A guide to help you write better command-line programs](https://clig.dev/)
 - [Porting a 100% local app to the web](https://actualbudget.com/blog/porting-local-app-web)
-- [Spiders Can Fly Hundreds of Miles Using Electricity](https://www.theatlantic.com/science/archive/2018/07/the-electric-flight-of-spiders/564437/)
-- [VAccel: Hardware Acceleration for Lightweight Hypervisors](https://vaccel.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
