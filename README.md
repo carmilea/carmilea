@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep-learning robot Shimon writes and rhymes in real time](https://www.scientificamerican.com/article/this-robot-can-rap-really/)
-- [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](https://substack.com/jobs)
-- [As Vaccines Are Rolled Out, Get Ready for False Side Effects](https://blogs.sciencemag.org/pipeline/archives/2020/12/04/get-ready-for-false-side-effects)
-- [Show HN: CLI Guidelines – A guide to help you write better command-line programs](https://clig.dev/)
-- [Porting a 100% local app to the web](https://actualbudget.com/blog/porting-local-app-web)
+- [No, DeepMind has not solved protein folding](http://occamstypewriter.org/scurry/2020/12/02/no-deepmind-has-not-solved-protein-folding/)
+- [The Myth of Code Coverage](https://preslav.me/2020/12/03/the-myth-of-code-coverage/)
+- [Army computer models unveil secret to quieter small drones](https://www.army.mil/article/241373)
+- [Fable 3 (F# to JavaScript compiler) released](https://fable.io/blog/Announcing-Nagareyama-4.html)
+- [AWS SageMaker and SingleStore: Operationalizing Machine Learning at Scale](https://www.singlestore.com/blog/aws-sagemaker-and-singlestore-operationalizing-machine-learning-at-scale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
