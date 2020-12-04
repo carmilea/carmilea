@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FCC to Require Email Addresses on Applications](http://www.arrl.org/news/fcc-to-require-email-addresses-on-applications)
+- [Controversial Programming Opinions](https://programmers.blogoverflow.com/2012/08/20-controversial-programming-opinions/)
+- [Reddit Claims 52M Daily Users, Revealing a Key Figure for Social-Media Platforms](https://www.wsj.com/articles/reddit-claims-52-million-daily-users-revealing-a-key-figure-for-social-media-platforms-11606822200)
+- [VAccel: Hardware Acceleration for Lightweight Hypervisors](https://vaccel.org)
+- [Mannequin.js: An Articulated Mannequin Figure Library](https://boytchev.github.io/mannequin.js/)
 - [Web analytics should at least meet the standards of informed consent](https://drewdevault.com/2020/12/04/Analytics-and-informed-consent.html)
-- [Paris to ‘get rid of 70k parking spaces’](https://www.itsinternational.com/its3/news/paris-get-rid-70000-parking-spaces)
-- [What You Can Learn from How to Ace a YC Interview](http://paulgraham.com/ace.html)
-- [The Complete Guide to Effective Reading](https://maartenvandoorn.nl/reading-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
