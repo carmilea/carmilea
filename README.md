@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What Linux Desktop Environment do you use on tablets?](https://news.ycombinator.com/item?id=25314547)
 - [How 700 Epidemiologists Are Living Now, and What They Think Is Next](https://www.nytimes.com/2020/12/04/upshot/epidemiologists-virus-survey-.html)
 - [std::visit is everything wrong with modern C++ (2017)](https://bitbashing.io/std-visit.html)
 - [Exotic Programming Ideas](https://www.stephendiehl.com/posts/exotic04.html)
 - [Scaling Down Deep Learning](https://greydanus.github.io/2020/12/01/scaling-down/)
-- [Your Smart TV is probably ignoring your PiHole](https://labzilla.io/blog/force-dns-pihole)
 <!-- BLOG-POST-LIST:END -->
 
 ---
