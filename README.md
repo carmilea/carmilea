@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How 700 Epidemiologists Are Living Now, and What They Think Is Next](https://www.nytimes.com/2020/12/04/upshot/epidemiologists-virus-survey-.html)
+- [std::visit is everything wrong with modern C++ (2017)](https://bitbashing.io/std-visit.html)
 - [Exotic Programming Ideas](https://www.stephendiehl.com/posts/exotic04.html)
 - [Scaling Down Deep Learning](https://greydanus.github.io/2020/12/01/scaling-down/)
 - [Your Smart TV is probably ignoring your PiHole](https://labzilla.io/blog/force-dns-pihole)
-- [Section 230 is Good, Actually](https://www.eff.org/deeplinks/2020/12/section-230-good-actually)
-- [Show HN: Make slides with text, markdown, YAML, JSON or JavaScript, your call](https://play.presenta.cc/v2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
