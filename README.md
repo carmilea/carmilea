@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Section 230 Is Good](https://www.eff.org/deeplinks/2020/12/section-230-good-actually)
-- [The Jupiter-Saturn Conjunction of Dec 21, 2020](https://sparky.rice.edu/public-night/jupsat.html)
-- [Radicle: A peer-to-peer alternative to GitHub](http://radicle.xyz#/beta)
-- [Modern Tire-pressure monitoring system Sensors: Let's try a DoS attack](http://www.mirider.com/weblog/2020/12/04#20201204_Modern_TPMS_Sensors_Lets_try_a_DoS_attack)
-- [PHP RFC: Enumerations](https://wiki.php.net/rfc/enumerations)
+- [Exotic Programming Ideas](https://www.stephendiehl.com/posts/exotic04.html)
+- [Scaling Down Deep Learning](https://greydanus.github.io/2020/12/01/scaling-down/)
+- [Your Smart TV is probably ignoring your PiHole](https://labzilla.io/blog/force-dns-pihole)
+- [Section 230 is Good, Actually](https://www.eff.org/deeplinks/2020/12/section-230-good-actually)
+- [Show HN: Make slides with text, markdown, YAML, JSON or JavaScript, your call](https://play.presenta.cc/v2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
