@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What Linux Desktop Environment do you use on tablets?](https://news.ycombinator.com/item?id=25314547)
-- [How 700 Epidemiologists Are Living Now, and What They Think Is Next](https://www.nytimes.com/2020/12/04/upshot/epidemiologists-virus-survey-.html)
-- [std::visit is everything wrong with modern C++ (2017)](https://bitbashing.io/std-visit.html)
-- [Exotic Programming Ideas](https://www.stephendiehl.com/posts/exotic04.html)
-- [Scaling Down Deep Learning](https://greydanus.github.io/2020/12/01/scaling-down/)
+- [Companies are now writing reports tailored for AI readers](https://www.theguardian.com/commentisfree/2020/dec/05/companies-are-now-writing-reports-tailored-for-ai-readers-and-it-should-worry-us)
+- [Major Flaws of Human Thinking](https://dandanua.github.io/posts/major-flaws-of-human-thinking/)
+- [The Game UI Database, a comprehensive reference of game interface design](https://www.gameuidatabase.com/)
+- [Exploring supervisors’ two‐faced response to their past abusive behavior](https://onlinelibrary.wiley.com/doi/10.1111/peps.12424)
+- [Apple’s “Extended Dynamic Range” Brings HDR to Non-HDR Displays](https://prolost.com/blog/edr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
