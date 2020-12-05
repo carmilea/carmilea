@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Salesforce prevents employee from sitting on external board](https://twitter.com/nikichristoff/status/1334912895440785415)
+- [Section 230 Is Good](https://www.eff.org/deeplinks/2020/12/section-230-good-actually)
 - [The Jupiter-Saturn Conjunction of Dec 21, 2020](https://sparky.rice.edu/public-night/jupsat.html)
 - [Radicle: A peer-to-peer alternative to GitHub](http://radicle.xyz#/beta)
 - [Modern Tire-pressure monitoring system Sensors: Let's try a DoS attack](http://www.mirider.com/weblog/2020/12/04#20201204_Modern_TPMS_Sensors_Lets_try_a_DoS_attack)
