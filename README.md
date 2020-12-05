@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A ubiquitous tire rubber–derived chemical induces acute mortality in coho salmon](https://science.sciencemag.org/content/early/2020/12/02/science.abd6951)
+- [A New Theorem Maps Out the Limits of Quantum Physics](https://www.quantamagazine.org/a-new-theorem-maps-out-the-limits-of-quantum-physics-20201203/)
 - [Occupational Depression Inventory: A new tool for clinicians and epidemiologists](https://www.sciencedirect.com/science/article/pii/S0022399920308114)
-- [MIT Technology Review Read Timnit Gebru's Paper. Here's What It Said](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru)
+- [We read the paper that forced Timnit Gebru out of Google](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru)
 - [The Appealing and Potentially Lethal Delicacy That Is Fugu](https://www.nytimes.com/2020/12/04/t-magazine/fugu-blowfish-deadly-food.html)
-- [This is Real, That's Not](https://streetlifesolutions.blogspot.com/2020/12/this-is-real-thats-not.html)
-- [The future of 32-bit Linux](https://lwn.net/SubscriberLink/838807/9b293f03c03ef0c5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
