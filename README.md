@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Repl.it (YC W18) Is Hiring to Give People Coding Superpowers](https://jobs.lever.co/replit/)
+- [Bill Gates on Bayesian Networks (back in 1996)](https://www.cs.ubc.ca/~murphyk/Bayes/la.times.html)
 - [Book publishers call on Apple to match 15% commission granted to developers](https://www.ibpa-online.org/news/541675/IBPA-Calls-on-Apple-to-Reduce-Its-Commission-from-30-to-15-on-Apple-Books-for-Authors-Platform.htm)
 - [Hacker Public Radio](https://hackerpublicradio.org/)
-- [Major Flaws of Human Thinking](https://dandanua.github.io/posts/major-flaws-of-human-thinking/)
-- [The Game UI Database, a comprehensive reference of game interface design](https://www.gameuidatabase.com/)
+- [Slash GraphQL – The fastest way to build GraphQL apps](https://dgraph.io/slash-graphql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
