@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Alternatives to HN for non-Hacker News?](https://news.ycombinator.com/item?id=25318880)
+- [Scroll Back: The Theory and Practice of Cameras in Side-Scrollers](https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub)
+- [Ask HN: Recommend books that give you insight into other professions](https://news.ycombinator.com/item?id=25317963)
 - [Why a land-value tax is inevitable](https://www.progress.org/articles/why-a-land-value-tax-is-inevitable)
-- [A Special Kind of Hell: intmax_t in C and C++](https://thephd.github.io/intmax_t-hell-c++-c)
 - [GNU World Order](https://gnuworldorder.info/)
-- [Debian 10.7 Released](https://www.debian.org/News/2020/20201205)
-- [R adds native pipe and lambda syntax](https://developer.r-project.org/blosxom.cgi/R-devel/NEWS/2020/12/04#n2020-12-04)
 <!-- BLOG-POST-LIST:END -->
 
 ---
