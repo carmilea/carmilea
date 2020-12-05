@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Companies are now writing reports tailored for AI readers](https://www.theguardian.com/commentisfree/2020/dec/05/companies-are-now-writing-reports-tailored-for-ai-readers-and-it-should-worry-us)
+- [Repl.it (YC W18) Is Hiring to Give People Coding Superpowers](https://jobs.lever.co/replit/)
+- [Book publishers call on Apple to match 15% commission granted to developers](https://www.ibpa-online.org/news/541675/IBPA-Calls-on-Apple-to-Reduce-Its-Commission-from-30-to-15-on-Apple-Books-for-Authors-Platform.htm)
+- [Hacker Public Radio](https://hackerpublicradio.org/)
 - [Major Flaws of Human Thinking](https://dandanua.github.io/posts/major-flaws-of-human-thinking/)
 - [The Game UI Database, a comprehensive reference of game interface design](https://www.gameuidatabase.com/)
-- [Exploring supervisors’ two‐faced response to their past abusive behavior](https://onlinelibrary.wiley.com/doi/10.1111/peps.12424)
-- [Apple’s “Extended Dynamic Range” Brings HDR to Non-HDR Displays](https://prolost.com/blog/edr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
