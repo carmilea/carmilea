@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesforce prevents employee from sitting on external board](https://twitter.com/nikichristoff/status/1334912895440785415)
+- [The Jupiter-Saturn Conjunction of Dec 21, 2020](https://sparky.rice.edu/public-night/jupsat.html)
 - [Radicle: A peer-to-peer alternative to GitHub](http://radicle.xyz#/beta)
 - [Modern Tire-pressure monitoring system Sensors: Let's try a DoS attack](http://www.mirider.com/weblog/2020/12/04#20201204_Modern_TPMS_Sensors_Lets_try_a_DoS_attack)
 - [PHP RFC: Enumerations](https://wiki.php.net/rfc/enumerations)
-- [The Erosion of Deep Literacy](https://www.nationalaffairs.com/publications/detail/the-erosion-of-deep-literacy)
-- [A ubiquitous tire rubber–derived chemical induces acute mortality in coho salmon](https://science.sciencemag.org/content/early/2020/12/02/science.abd6951)
 <!-- BLOG-POST-LIST:END -->
 
 ---
