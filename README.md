@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Alternatives to HN for non-Hacker News?](https://news.ycombinator.com/item?id=25318880)
+- [High-Throughput Game Message Server with Python WebSockets](https://mortoray.com/2020/12/06/high-throughput-game-message-server-with-python-websockets/)
 - [Scroll Back: The Theory and Practice of Cameras in Side-Scrollers](https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub)
 - [Ask HN: Recommend books that give you insight into other professions](https://news.ycombinator.com/item?id=25317963)
-- [Why a land-value tax is inevitable](https://www.progress.org/articles/why-a-land-value-tax-is-inevitable)
 - [GNU World Order](https://gnuworldorder.info/)
+- [R adds native pipe and lambda syntax](https://developer.r-project.org/blosxom.cgi/R-devel/NEWS/2020/12/04#n2020-12-04)
 <!-- BLOG-POST-LIST:END -->
 
 ---
