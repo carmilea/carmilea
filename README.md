@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [ICE Is Trying to Force BuzzFeed News to Divulge Its Sources](https://www.buzzfeednews.com/article/hamedaleaziz/ice-subpoena-buzzfeed-immigration-sources)
+- [A Special Kind of Hell: intmax_t in C and C++](https://thephd.github.io/intmax_t-hell-c++-c)
 - [GNU World Order](https://gnuworldorder.info/)
-- [Ask HN: What was your best passive income in 2020?](https://news.ycombinator.com/item?id=25316912)
+- [Debian 10.7 Released](https://www.debian.org/News/2020/20201205)
 - [R adds native pipe and lambda syntax](https://developer.r-project.org/blosxom.cgi/R-devel/NEWS/2020/12/04#n2020-12-04)
-- [Repl.it (YC W18) Is Hiring](https://jobs.lever.co/replit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
