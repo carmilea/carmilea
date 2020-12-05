@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Effects of Cinnamon, Curcumin/Turmeric on Glucose, Lipid, Cognitive Measures](https://academic.oup.com/cdn/article/4/Supplement_2/493/5845269)
 - [The Erosion of Deep Literacy](https://www.nationalaffairs.com/publications/detail/the-erosion-of-deep-literacy)
 - [A ubiquitous tire rubber–derived chemical induces acute mortality in coho salmon](https://science.sciencemag.org/content/early/2020/12/02/science.abd6951)
 - [A New Theorem Maps Out the Limits of Quantum Physics](https://www.quantamagazine.org/a-new-theorem-maps-out-the-limits-of-quantum-physics-20201203/)
 - [Occupational Depression Inventory: A new tool for clinicians and epidemiologists](https://www.sciencedirect.com/science/article/pii/S0022399920308114)
+- [We read the paper that forced Timnit Gebru out of Google](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru)
 <!-- BLOG-POST-LIST:END -->
 
 ---
