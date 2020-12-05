@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ICE Is Trying to Force BuzzFeed News to Divulge Its Sources](https://www.buzzfeednews.com/article/hamedaleaziz/ice-subpoena-buzzfeed-immigration-sources)
+- [Why a land-value tax is inevitable](https://www.progress.org/articles/why-a-land-value-tax-is-inevitable)
 - [A Special Kind of Hell: intmax_t in C and C++](https://thephd.github.io/intmax_t-hell-c++-c)
 - [GNU World Order](https://gnuworldorder.info/)
 - [Debian 10.7 Released](https://www.debian.org/News/2020/20201205)
