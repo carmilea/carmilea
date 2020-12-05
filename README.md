@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [About 150 U.S. Cadillac Dealers to Exit Brand, Rather Than Sell Electric Cars](https://www.wsj.com/articles/about-150-u-s-cadillac-dealers-to-exit-brand-rather-than-sell-electric-cars-11607111494)
 - [Down Here, They Sometimes Call It 'Boy'](https://www.realclearbooks.com/articles/2020/11/17/down_here_they_sometimes_call_it_boy_585675.html)
-- [PHP8, from a Security Point of View](https://dustri.org/b/php8-from-a-security-point-of-view.html)
 - [Mozart: Leck mich im Arsch](https://en.wikipedia.org/wiki/Leck_mich_im_Arsch)
 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [Sight restored by turning back the epigenetic clock](https://www.nature.com/articles/d41586-020-03119-1)
