@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Repl.it (YC W18) Is Hiring to Give People Coding Superpowers](https://jobs.lever.co/replit/)
-- [Bill Gates on Bayesian Networks (back in 1996)](https://www.cs.ubc.ca/~murphyk/Bayes/la.times.html)
-- [Book publishers call on Apple to match 15% commission granted to developers](https://www.ibpa-online.org/news/541675/IBPA-Calls-on-Apple-to-Reduce-Its-Commission-from-30-to-15-on-Apple-Books-for-Authors-Platform.htm)
-- [Hacker Public Radio](https://hackerpublicradio.org/)
-- [Slash GraphQL – The fastest way to build GraphQL apps](https://dgraph.io/slash-graphql)
+- [ICE Is Trying to Force BuzzFeed News to Divulge Its Sources](https://www.buzzfeednews.com/article/hamedaleaziz/ice-subpoena-buzzfeed-immigration-sources)
+- [GNU World Order](https://gnuworldorder.info/)
+- [Ask HN: What was your best passive income in 2020?](https://news.ycombinator.com/item?id=25316912)
+- [R adds native pipe and lambda syntax](https://developer.r-project.org/blosxom.cgi/R-devel/NEWS/2020/12/04#n2020-12-04)
+- [Repl.it (YC W18) Is Hiring](https://jobs.lever.co/replit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
