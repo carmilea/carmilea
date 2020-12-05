@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I accidentally built a spying app](https://withblue.ink/2020/09/24/that-time-i-accidentally-built-a-spying-app.html)
-- [Teddit: a free and open source alternative Reddit front-end focused on privacy](https://teddit.net/)
+- [Teddit: a free and open-source Reddit front end focused on privacy](https://teddit.net/)
 - [Excess mortality from March to December of 2020](https://ourworldindata.org/excess-mortality-covid)
 - [About 150 U.S. Cadillac Dealers to Exit Brand, Rather Than Sell Electric Cars](https://www.wsj.com/articles/about-150-u-s-cadillac-dealers-to-exit-brand-rather-than-sell-electric-cars-11607111494)
 - [Down Here, They Sometimes Call It 'Boy'](https://www.realclearbooks.com/articles/2020/11/17/down_here_they_sometimes_call_it_boy_585675.html)
