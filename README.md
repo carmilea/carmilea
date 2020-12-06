@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Grenfell Tower inquiry is uncovering a major corporate scandal](https://www.spectator.co.uk/article/the-grenfell-tower-inquiry-is-uncovering-a-major-corporate-scandal/)
+- [More than 1,200 Google workers condemn firing of AI scientist Timnit Gebru](https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics)
 - [Antioxidants prevent health-promoting effects of physical exercise [pdf]](https://www.pnas.org/content/pnas/106/21/8665.full.pdf)
 - [Diem – A rebrand of Facebook Libra](https://www.diem.com)
 - [Is the preprocessor still needed in C++? (2017)](https://foonathan.net/2017/05/preprocessor/)
-- [Show HN: DotComAgain – Find free dropped .com domains](https://dotcomagain.com/)
-- [Choose Boring Technology](https://panelbear.com/blog/boring-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
