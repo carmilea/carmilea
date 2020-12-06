@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Macs with T2, M1 chips cannot be restored to factory state without Apple](https://sneak.berlin/20201204/on-trusting-macintosh-hardware/)
+- [Raycast (YC W20) Is Hiring a Developer Advocate (Remote, UTC ± 3h)](https://raycast.com/jobs/developer-advocate)
+- [Lessons for Early Stage Founders](https://calv.info/early-stage-lessons)
 - [Archaeologists Could Help Bring Otters Back from the Dead](https://www.nytimes.com/2020/12/03/science/otters-oregon-alaska.html)
 - [How I Collected a Debt from an Unscrupulous Merchant](https://mtlynch.io/collect-debt/)
 - [The unseen man-made 'tracks' on the deep ocean floor](https://www.bbc.com/future/article/20201202-deep-sea-mining-tracks-on-the-ocean-floor)
-- [LinkedIn is the fucking worst](https://divinations.substack.com/p/linkedins-alternate-universe##)
 <!-- BLOG-POST-LIST:END -->
 
 ---
