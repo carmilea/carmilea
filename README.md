@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Is the preprocessor still needed in C++? (2017)](https://foonathan.net/2017/05/preprocessor/)
 - [Choose Boring Technology](https://panelbear.com/blog/boring-tech/)
-- [Hardware-Accelerated TensorFlow and TensorFlow Addons for macOS 11.0](https://github.com/apple/tensorflow_macos)
-- [The Perils of File Typing](https://invisibleup.com/articles/34/)
-- [Monopoly Technology Platforms Are Colonizing Education](https://instituteforpubliceducation.org/monopoly-technology-platforms-are-colonizing-education/)
+- [Skybolt: A C++ planetary environment rendering engine with Python bindings](https://github.com/Piraxus/Skybolt)
+- [A mathematical formalisation challenge by Peter Scholze](https://xenaproject.wordpress.com/2020/12/05/liquid-tensor-experiment/)
+- [Bohmian Mechanics (2017)](https://plato.stanford.edu/entries/qm-bohm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
