@@ -54,8 +54,8 @@
 - [Hardware-Accelerated TensorFlow and TensorFlow Addons for macOS 11.0](https://github.com/apple/tensorflow_macos)
 - [The Perils of File Typing](https://invisibleup.com/articles/34/)
 - [Monopoly Technology Platforms Are Colonizing Education](https://instituteforpubliceducation.org/monopoly-technology-platforms-are-colonizing-education/)
+- [Fixing a 3 year old bug in Nvidia GeForce Experience](https://details-of-note.blogspot.com/2020/12/nvidia-3-year-old-bug.html)
 - [VisiData in 60 Seconds](https://jsvine.github.io/intro-to-visidata/the-big-picture/visidata-in-60-seconds/)
-- [Havana syndrome: 'directed' radio frequency likely cause of illness](https://www.theguardian.com/us-news/2020/dec/06/havana-syndrome-directed-radio-frequency-likely-cause-of-illness-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
