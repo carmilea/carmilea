@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Visualizing Deep Features from Podcasts (Lex Fridman, JRE)](http://lexfridman.faith/)
 - [Raycast (YC W20) Is Hiring a Developer Advocate (Remote, UTC ± 3h)](https://raycast.com/jobs/developer-advocate)
 - [Lessons for Early Stage Founders](https://calv.info/early-stage-lessons)
-- [Archaeologists Could Help Bring Otters Back from the Dead](https://www.nytimes.com/2020/12/03/science/otters-oregon-alaska.html)
-- [How I Collected a Debt from an Unscrupulous Merchant](https://mtlynch.io/collect-debt/)
-- [The unseen man-made 'tracks' on the deep ocean floor](https://www.bbc.com/future/article/20201202-deep-sea-mining-tracks-on-the-ocean-floor)
+- [Semantic segmentation algorithms do not generalize to off-road datasets](https://unmannedlab.github.io/research/RELLIS-3D)
+- [Show HN: A simple, plain, minimal, classless CSS for simple, plain HTML pages](https://github.com/susam/spcss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
