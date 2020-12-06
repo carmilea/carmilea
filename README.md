@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vanishing zeroes for geometric algebra in Rust](https://fanf.dreamwidth.org/134024.html)
+- [Docker's Second Death](https://www.tariqislam.com/posts/kubernetes-docker-dep/)
+- [WildDuck – No spof scalable and API driven email server](https://github.com/nodemailer/wildduck#wildduck-mail-server)
 - [Kazakhstan government is intercepting HTTPS traffic in its capital (again)](https://www.zdnet.com/article/kazakhstan-government-is-intercepting-https-traffic-in-its-capital/)
-- [Gustave – Embedded OS kernel fuzzer](https://github.com/airbus-seclab/gustave)
-- [Gaming Mathematics: Probability](https://www.888casino.com/blog/gaming-mathematics/gambling-probability)
-- [EmacsConf – 2020 – Talks](https://emacsconf.org/2020/talks/)
-- [Ask HN: How do you balance reading books vs. articles](https://news.ycombinator.com/item?id=25324140)
+- [YARA – The pattern matching swiss knife](https://github.com/VirusTotal/yara)
 <!-- BLOG-POST-LIST:END -->
 
 ---
