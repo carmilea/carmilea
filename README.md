@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gaming Mathematics: Probability](https://www.888casino.com/blog/gaming-mathematics/gambling-probability)
+- [EmacsConf – 2020 – Talks](https://emacsconf.org/2020/talks/)
+- [Ask HN: How do you balance reading books vs. articles](https://news.ycombinator.com/item?id=25324140)
+- [The Dark Future Where Payments Are Politicized and Bitcoin Wins](https://www.coindesk.com/dark-future-payments-politicized-bitcoin-wins)
 - [The Grenfell Tower inquiry is uncovering a major corporate scandal](https://www.spectator.co.uk/article/the-grenfell-tower-inquiry-is-uncovering-a-major-corporate-scandal/)
-- [More than 1,200 Google workers condemn firing of AI scientist Timnit Gebru](https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics)
-- [Antioxidants prevent health-promoting effects of physical exercise [pdf]](https://www.pnas.org/content/pnas/106/21/8665.full.pdf)
-- [Diem – A rebrand of Facebook Libra](https://www.diem.com)
-- [Is the preprocessor still needed in C++? (2017)](https://foonathan.net/2017/05/preprocessor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
