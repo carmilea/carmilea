@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Marines Looks at Microdosing LSD for Enhancement in Intelligence Analysis [pdf]](https://mca-marines.org/wp-content/uploads/Microdosing.pdf)
 - [Researchers Who Exposed VW Gain Little Reward from Success](https://www.nytimes.com/2016/07/25/business/vw-wvu-diesel-volkswagen-west-virginia.html)
-- [WhatsApp Will Start Showing Ads](https://www.entrepreneur.com/article/360971)
 - [Asteroid capsule located in Australian desert](https://www.bbc.co.uk/news/science-environment-55201662)
 - [The Tragic Tale of DEC, the Computing Giant That Died Too Soon](https://digital.com/about/dec/)
 - [Modifying and running a binary by recompiling a reverse engineered disassembly](https://www.devever.net/~hl/recompile)
