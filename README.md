@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Macs with T2, M1 chips cannot be restored to factory state without Apple](https://sneak.berlin/20201204/on-trusting-macintosh-hardware/)
 - [Famine Under the Nazis Revealed the Cause of Celiac Disease (2018)](https://www.atlasobscura.com/articles/history-of-celiac-disease)
-- [Bay Area restaurants consider closing due to outdoor dining ban](https://www.sfchronicle.com/restaurants/article/Something-has-to-give-Bay-Area-restaurants-15774785.php)
 - [InstaHide Disappointingly Wins Bell Labs Prize, 2nd Place](https://nicholas.carlini.com/writing/2020/instahide_disappointingly_wins_bell_labs_prize.html)
 - [Microdosing: Improving performance enhancement in intelligence analysis (2019) [pdf]](https://mca-marines.org/wp-content/uploads/Microdosing.pdf)
 - [Researchers Who Exposed VW Gain Little Reward from Success](https://www.nytimes.com/2016/07/25/business/vw-wvu-diesel-volkswagen-west-virginia.html)
