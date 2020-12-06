@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Antioxidants prevent health-promoting effects of physical exercise [pdf]](https://www.pnas.org/content/pnas/106/21/8665.full.pdf)
+- [Diem – A rebrand of Facebook Libra](https://www.diem.com)
 - [Is the preprocessor still needed in C++? (2017)](https://foonathan.net/2017/05/preprocessor/)
+- [Show HN: DotComAgain – Find free dropped .com domains](https://dotcomagain.com/)
 - [Choose Boring Technology](https://panelbear.com/blog/boring-tech/)
-- [Skybolt: A C++ planetary environment rendering engine with Python bindings](https://github.com/Piraxus/Skybolt)
-- [A mathematical formalisation challenge by Peter Scholze](https://xenaproject.wordpress.com/2020/12/05/liquid-tensor-experiment/)
-- [Bohmian Mechanics (2017)](https://plato.stanford.edu/entries/qm-bohm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
