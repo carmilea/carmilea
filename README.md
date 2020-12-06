@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kazakhstan government is intercepting HTTPS traffic in its capital (again)](https://www.zdnet.com/article/kazakhstan-government-is-intercepting-https-traffic-in-its-capital/)
+- [Gustave – Embedded OS kernel fuzzer](https://github.com/airbus-seclab/gustave)
 - [Gaming Mathematics: Probability](https://www.888casino.com/blog/gaming-mathematics/gambling-probability)
 - [EmacsConf – 2020 – Talks](https://emacsconf.org/2020/talks/)
 - [Ask HN: How do you balance reading books vs. articles](https://news.ycombinator.com/item?id=25324140)
-- [The Dark Future Where Payments Are Politicized and Bitcoin Wins](https://www.coindesk.com/dark-future-payments-politicized-bitcoin-wins)
-- [The Grenfell Tower inquiry is uncovering a major corporate scandal](https://www.spectator.co.uk/article/the-grenfell-tower-inquiry-is-uncovering-a-major-corporate-scandal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
