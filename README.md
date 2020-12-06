@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [High-Throughput Game Message Server with Python WebSockets](https://mortoray.com/2020/12/06/high-throughput-game-message-server-with-python-websockets/)
-- [Scroll Back: The Theory and Practice of Cameras in Side-Scrollers](https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub)
-- [Ask HN: Recommend books that give you insight into other professions](https://news.ycombinator.com/item?id=25317963)
-- [GNU World Order](https://gnuworldorder.info/)
-- [R adds native pipe and lambda syntax](https://developer.r-project.org/blosxom.cgi/R-devel/NEWS/2020/12/04#n2020-12-04)
+- [Bitcoin (still) makes no sense](https://thinkoutloudnews.substack.com/p/bitcoin-still-makes-no-sense)
+- [Researchers Who Exposed VW Gain Little Reward from Success](https://www.nytimes.com/2016/07/25/business/vw-wvu-diesel-volkswagen-west-virginia.html)
+- [WhatsApp Will Start Showing Ads](https://www.entrepreneur.com/article/360971)
+- [Modifying and running a binary by recompiling a reverse engineered disassembly](https://www.devever.net/~hl/recompile)
+- [How does Brown University know where you are?](https://jack.wrenn.fyi/blog/brown-location-surveillance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
