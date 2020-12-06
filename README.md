@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aston Martin behind debunked anti-electic vehicle “study”](https://www.metafilter.com/189618/Aston-Martin-behind-debunked-anti-electic-vehicle-study)
 - [Bitcoin (still) makes no sense](https://thinkoutloudnews.substack.com/p/bitcoin-still-makes-no-sense)
 - [Researchers Who Exposed VW Gain Little Reward from Success](https://www.nytimes.com/2016/07/25/business/vw-wvu-diesel-volkswagen-west-virginia.html)
+- [An essay on property rights as the foundation of all law](https://www.thesavvystreet.com/property-rights-the-foundation-of-freedom/)
 - [WhatsApp Will Start Showing Ads](https://www.entrepreneur.com/article/360971)
-- [Modifying and running a binary by recompiling a reverse engineered disassembly](https://www.devever.net/~hl/recompile)
-- [How does Brown University know where you are?](https://jack.wrenn.fyi/blog/brown-location-surveillance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
