@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Vanishing zeroes for geometric algebra in Rust](https://fanf.dreamwidth.org/134024.html)
+- [The Raspberry Pi 4 has a fan now – the Case Fan](https://www.jeffgeerling.com/blog/2020/raspberry-pi-4-has-fan-now-case-fan)
 - [Docker's Second Death](https://www.tariqislam.com/posts/kubernetes-docker-dep/)
 - [WildDuck – No spof scalable and API driven email server](https://github.com/nodemailer/wildduck#wildduck-mail-server)
 - [Kazakhstan government is intercepting HTTPS traffic in its capital (again)](https://www.zdnet.com/article/kazakhstan-government-is-intercepting-https-traffic-in-its-capital/)
-- [YARA – The pattern matching swiss knife](https://github.com/VirusTotal/yara)
 <!-- BLOG-POST-LIST:END -->
 
 ---
