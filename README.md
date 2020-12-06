@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the preprocessor still needed in C++? (2017)](https://foonathan.net/2017/05/preprocessor/)
+- [Choose Boring Technology](https://panelbear.com/blog/boring-tech/)
 - [Hardware-Accelerated TensorFlow and TensorFlow Addons for macOS 11.0](https://github.com/apple/tensorflow_macos)
 - [The Perils of File Typing](https://invisibleup.com/articles/34/)
 - [Monopoly Technology Platforms Are Colonizing Education](https://instituteforpubliceducation.org/monopoly-technology-platforms-are-colonizing-education/)
-- [Fixing a 3 year old bug in Nvidia GeForce Experience](https://details-of-note.blogspot.com/2020/12/nvidia-3-year-old-bug.html)
-- [VisiData in 60 Seconds](https://jsvine.github.io/intro-to-visidata/the-big-picture/visidata-in-60-seconds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
