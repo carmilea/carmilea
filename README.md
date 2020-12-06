@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management)
+- [Forbidden Stories – Cartel Project: global network of investigative journalists](https://forbiddenstories.org/)
+- [She Couldn’t Open for Outdoor Dining. The Film Crew Next Door Could](https://www.nytimes.com/2020/12/05/us/outdoor-dining-la-protest.html)
+- [Cloudflare working on Cloudflare Pages, for deploying and hosting JAMstack](https://twitter.com/wongmjane/status/1335198021131194370)
 - [Vanishing zeroes for geometric algebra in Rust](https://fanf.dreamwidth.org/134024.html)
-- [The Raspberry Pi 4 has a fan now – the Case Fan](https://www.jeffgeerling.com/blog/2020/raspberry-pi-4-has-fan-now-case-fan)
-- [Docker's Second Death](https://www.tariqislam.com/posts/kubernetes-docker-dep/)
-- [WildDuck – No spof scalable and API driven email server](https://github.com/nodemailer/wildduck#wildduck-mail-server)
-- [Kazakhstan government is intercepting HTTPS traffic in its capital (again)](https://www.zdnet.com/article/kazakhstan-government-is-intercepting-https-traffic-in-its-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
