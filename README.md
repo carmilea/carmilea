@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management)
+- [Linus Torvalds' good taste argument for linked lists, explained](https://github.com/mkirchner/linked-list-good-taste)
+- [The Death of Zappos Tony Hsieh: A Spiral of Alcohol, Drugs and Extreme Behavior](https://www.wsj.com/articles/the-death-of-zappos-tony-hsieh-a-spiral-of-alcohol-drugs-and-extreme-behavior-11607264719#refreshed)
+- [A tool for recovering passwords from pixelized screenshots](https://github.com/beurtschipper/Depix)
 - [Forbidden Stories – Cartel Project: global network of investigative journalists](https://forbiddenstories.org/)
-- [She Couldn’t Open for Outdoor Dining. The Film Crew Next Door Could](https://www.nytimes.com/2020/12/05/us/outdoor-dining-la-protest.html)
-- [Cloudflare working on Cloudflare Pages, for deploying and hosting JAMstack](https://twitter.com/wongmjane/status/1335198021131194370)
-- [Vanishing zeroes for geometric algebra in Rust](https://fanf.dreamwidth.org/134024.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
