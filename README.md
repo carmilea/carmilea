@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Let’s Encrypt moving to new CA root](https://www.infoq.com/news/2020/12/five-years-lets-encrypt/)
 - [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management)
 - [Linus Torvalds' good taste argument for linked lists, explained](https://github.com/mkirchner/linked-list-good-taste)
 - [The Death of Zappos Tony Hsieh: A Spiral of Alcohol, Drugs and Extreme Behavior](https://www.wsj.com/articles/the-death-of-zappos-tony-hsieh-a-spiral-of-alcohol-drugs-and-extreme-behavior-11607264719#refreshed)
 - [A tool for recovering passwords from pixelized screenshots](https://github.com/beurtschipper/Depix)
-- [Forbidden Stories – Cartel Project: global network of investigative journalists](https://forbiddenstories.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
