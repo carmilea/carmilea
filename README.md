@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WMF Board considering the removal of Jimmy Wales' trustee position](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2020-11-29/News_and_notes)
-- [Apple Preps Next Mac Chips with Aim to Outclass Highest-End PCs](https://www.bloomberg.com/news/articles/2020-12-07/apple-preps-next-mac-chips-with-aim-to-outclass-highest-end-pcs)
-- [Xero-click, wormable, cross-platform remote code execution in Microsoft Teams](https://github.com/oskarsve/ms-teams-rce)
-- [Study Edge (YC S12) Is Hiring](https://news.ycombinator.com/item?id=25331344)
-- [Analog TV Station on ESP8266](https://github.com/cnlohr/channel3)
+- [Show HN: Haxon, CLI tooling to retrieve data from Axon police body cams](https://github.com/xraymemory/haxon)
+- [How Payment Transaction Processing Works](https://blog.privacy.com/how-payment-transactions-work/)
+- [ZaReason Linux PC Vendor Closes After 10 Years Selling Linux Hardware](https://www.phoronix.com/scan.php?page=news_item&px=ZaReason-Shuts-Down)
+- [Why experts are sounding the alarm about the hidden dangers of gas stoves](https://qz.com/1941254/experts-are-sounding-the-alarm-about-the-dangers-of-gas-stoves/)
+- [I Love Tailwind](https://mxstbr.com/thoughts/tailwind/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
