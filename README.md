@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Where Did Combinators Come From? Hunting the Story of Moses Schönfinkel](https://writings.stephenwolfram.com/2020/12/where-did-combinators-come-from-hunting-the-story-of-moses-schonfinkel/)
 - [Gitter now natively speaks Matrix](https://matrix.org/blog/2020/12/07/gitter-now-speaks-matrix)
 - [Listenlater.fm – A Read-It-Later service for your ears](https://www.listenlater.fm/)
 - [Sirum (YC W15 Nonprofit) hiring many roles to make medicine more affordable](https://www.sirum.org/about/#careers)
 - [Bootstrap 5 Beta 1](https://blog.getbootstrap.com/2020/12/07/bootstrap-5-beta-1/)
-- [Tech elites leaving San Francisco threaten Silicon Valley's supremacy](https://www.businessinsider.com/tech-elites-leaving-san-francisco-threaten-silicon-valley-supremacy-2020-11)
 <!-- BLOG-POST-LIST:END -->
 
 ---
