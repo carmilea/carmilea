@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why do most top performers have the highest count of commits and pull requests?](https://swecareer.substack.com/p/why-do-most-top-performers-have-the)
+- [The CIA's Deadly Deceits and the Vietnam War, with Ralph McGehee (1986)](https://ourhiddenhistory.org/entry/the-cia-s-deadly-deceits-and-the-vietnam-war-w-ex-cia-officer-ralph-mcgehee)
 - [Rewriting LaTeX in Pure Rust](https://github.com/crlf0710/tectonic)
 - [A container ship lost a record 1,800 containers](https://www.one-apus-container-incident.com/)
 - [Show HN: Boltstream – Self-hosted full end-to-end live video streaming platform](https://github.com/benwilber/boltstream)
