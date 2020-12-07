@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Should California ban gas in new homes? A climate battle heats up](https://www.latimes.com/business/story/2020-12-07/should-california-ban-gas-in-new-homes-a-climate-battle-heats-up)
+- [Sirum (YC W15 Nonprofit) hiring many roles to make medicine more affordable](https://www.sirum.org/about/#careers)
+- [Tech elites leaving San Francisco threaten Silicon Valley's supremacy](https://www.businessinsider.com/tech-elites-leaving-san-francisco-threaten-silicon-valley-supremacy-2020-11)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
 - [An Elderly Mathematician Hacked the Lottery for $26M](https://entrepreneurshandbook.co/an-elderly-mathematician-hacked-the-lottery-for-26-million-121c28faa88b)
-- [Show HN: Haxon, CLI tooling to retrieve data from Axon police body cams](https://github.com/xraymemory/haxon)
-- [Ask HN: What's that Game that predicts your choices?](https://news.ycombinator.com/item?id=25332641)
-- [How Payment Transaction Processing Works](https://blog.privacy.com/how-payment-transactions-work/)
-- [ZaReason Linux PC Vendor Closes After 10 Years Selling Linux Hardware](https://www.phoronix.com/scan.php?page=news_item&px=ZaReason-Shuts-Down)
 <!-- BLOG-POST-LIST:END -->
 
 ---
