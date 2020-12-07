@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Professor livestreams entire Computer Science course in 12 hours](https://www.youtube.com/watch?v=bK8LVFWA0L8&list=PLylTVsqZiRXPU09ULWGfXYsEtw-Qtq0Yn&t=20m37s)
+- [Librem 5 Evergreen vs. Pinephone](https://thatgeoguy.ca/blog/2020/12/06/Librem-5-Evergreen-vs-Pinephone/)
+- [EPA declines to tighten soot pollution standards](https://www.axios.com/epa-tighten-soot-standards-declines-52e277b4-8d79-499e-a5b7-da20e2c4381a.html)
+- [Upcoming test: SpaceX Starship high-altitude flight](https://www.spacex.com/vehicles/starship/)
 - [The body as mediator: The phenomenology of Merleau-Ponty](https://aeon.co/essays/the-phenomenology-of-merleau-ponty-and-embodiment-in-the-world)
-- [Uber sells self-driving unit in deal that will push Aurora’s valuation to $10B](https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/)
-- [Wagnerism](https://van-us.atavist.com/ross-wagner)
-- [German court forces mail provider Tutanota to insert a backdoor](https://www.heise.de/news/Gericht-zwingt-Mailprovider-Tutanota-zu-Ueberwachungsfunktion-4972460.html)
-- [FuzzOS – an operating system which is designed specifically for fuzzing](https://gamozolabs.github.io/fuzzing/2020/12/06/fuzzos.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
