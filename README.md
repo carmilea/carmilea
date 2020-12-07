@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Let’s Encrypt moving to new CA root](https://www.infoq.com/news/2020/12/five-years-lets-encrypt/)
-- [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management)
-- [Linus Torvalds' good taste argument for linked lists, explained](https://github.com/mkirchner/linked-list-good-taste)
-- [The Death of Zappos Tony Hsieh: A Spiral of Alcohol, Drugs and Extreme Behavior](https://www.wsj.com/articles/the-death-of-zappos-tony-hsieh-a-spiral-of-alcohol-drugs-and-extreme-behavior-11607264719#refreshed)
-- [A tool for recovering passwords from pixelized screenshots](https://github.com/beurtschipper/Depix)
+- [Cyberpunk 2077 involved months of crunch at CD Projekt Red, despite promises](https://www.polygon.com/2020/12/4/21575914/cyberpunk-2077-release-crunch-labor-delays-cd-projekt-red)
+- [Show HN: Squiggle – A Sketch library for making low-fidelity wireframes](https://ui8.net/squiggle/products/squiggle)
+- [My Procedurally Generated Music Is Awful](https://devlog.groovelet.com/p/procedurally-generated-music-is-awful)
+- [Apple Silicon M1 Disruption](https://mondaynote.com/apple-silicon-m1-disruption-af11f639103a)
+- [New Sauerbraten 2020 Edition Released](http://www.sauerworld.org/new-sauerbraten-2020-edition-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
