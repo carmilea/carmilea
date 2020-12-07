@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Categories of personal information collected](https://policies.tinder.com/ccpa-addendum/us/en)
 - [FuzzOS – an operating system which is designed specifically for fuzzing](https://gamozolabs.github.io/fuzzing/2020/12/06/fuzzos.html)
+- [Zcash Open Major Grants](https://zcashomg.org/)
 - [SpaceX gets $886M from FCC to subsidize Starlink in 35 states](https://arstechnica.com/tech-policy/2020/12/spacex-gets-886-million-from-fcc-to-subsidize-starlink-in-35-states/)
-- [Ask HN: Why does an article critical of Paul Graham get removed?](https://news.ycombinator.com/item?id=25336231)
 - [Financial Stability Oversight Council: 2020 Annual Report [pdf]](https://home.treasury.gov/system/files/261/FSOC2020AnnualReport.pdf)
-- [Google employees say AI researcher did not resign, despite what exec claims](https://www.cnbc.com/2020/12/07/google-employees-dispute-jeff-dean-claim-timnit-gebru-did-not-resign.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
