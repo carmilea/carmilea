@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Study Edge (YC S12) Is Hiring](https://news.ycombinator.com/item?id=25331344)
 - [Analog TV Station on ESP8266](https://github.com/cnlohr/channel3)
 - [WW1 trench fever identified in former homeless man in Canada](https://www.theguardian.com/society/2020/dec/07/ww1-trench-fever-identified-in-former-homeless-man-in-canada)
-- [Steve Wozniak launches Efforce, “first blockchain-based energy-saving platform”](https://efforce.io/)
+- [Steve Wozniak launches Efforce, a blockchain-based energy-saving platform](https://efforce.io/)
 - [The Danish climate minister closing down the oil industry for good](https://www.theguardian.com/world/2020/dec/05/the-danish-climate-minister-closing-down-the-oil-industry-for-good)
-- [The CIA's Deadly Deceits and the Vietnam War, with Ralph McGehee (1986)](https://ourhiddenhistory.org/entry/the-cia-s-deadly-deceits-and-the-vietnam-war-w-ex-cia-officer-ralph-mcgehee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
