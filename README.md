@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A container ship lost a record 1,800 containers](https://www.one-apus-container-incident.com/)
 - [Show HN: Boltstream – Self-hosted full end-to-end live video streaming platform](https://github.com/benwilber/boltstream)
 - [Google removes some IAC browser extensions for 'policy violations'](https://www.reuters.com/article/us-google-iac-interactive/google-removes-some-iac-browser-extensions-for-policy-violations-idUSKBN28G0TR)
 - [Three Cheers for Solutionism?](https://aelkus.github.io/theory/2020/12/03/solu.html)
-- [Show HN: Squiggle – A Sketch library for making low-fidelity wireframes](https://ui8.net/squiggle/products/squiggle)
-- [My Procedurally Generated Music Is Awful](https://devlog.groovelet.com/p/procedurally-generated-music-is-awful)
+- [Falling Out of Love with Apple, Part 3: Content and Censorship](https://hardware.substack.com/p/falling-out-of-love-with-apple-part3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
