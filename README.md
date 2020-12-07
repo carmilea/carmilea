@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WW1 trench fever identified in former homeless man in Canada](https://www.theguardian.com/society/2020/dec/07/ww1-trench-fever-identified-in-former-homeless-man-in-canada)
+- [The Danish climate minister closing down the oil industry for good](https://www.theguardian.com/world/2020/dec/05/the-danish-climate-minister-closing-down-the-oil-industry-for-good)
 - [The CIA's Deadly Deceits and the Vietnam War, with Ralph McGehee (1986)](https://ourhiddenhistory.org/entry/the-cia-s-deadly-deceits-and-the-vietnam-war-w-ex-cia-officer-ralph-mcgehee)
 - [Rewriting LaTeX in Pure Rust](https://github.com/crlf0710/tectonic)
 - [A container ship lost a record 1,800 containers](https://www.one-apus-container-incident.com/)
-- [Show HN: Boltstream – Self-hosted full end-to-end live video streaming platform](https://github.com/benwilber/boltstream)
-- [Google removes some IAC browser extensions for 'policy violations'](https://www.reuters.com/article/us-google-iac-interactive/google-removes-some-iac-browser-extensions-for-policy-violations-idUSKBN28G0TR)
 <!-- BLOG-POST-LIST:END -->
 
 ---
