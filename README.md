@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Should California ban gas in new homes? A climate battle heats up](https://www.latimes.com/business/story/2020-12-07/should-california-ban-gas-in-new-homes-a-climate-battle-heats-up)
+- [Gitter now natively speaks Matrix](https://matrix.org/blog/2020/12/07/gitter-now-speaks-matrix)
+- [Listenlater.fm – A Read-It-Later service for your ears](https://www.listenlater.fm/)
 - [Sirum (YC W15 Nonprofit) hiring many roles to make medicine more affordable](https://www.sirum.org/about/#careers)
+- [Bootstrap 5 Beta 1](https://blog.getbootstrap.com/2020/12/07/bootstrap-5-beta-1/)
 - [Tech elites leaving San Francisco threaten Silicon Valley's supremacy](https://www.businessinsider.com/tech-elites-leaving-san-francisco-threaten-silicon-valley-supremacy-2020-11)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-- [An Elderly Mathematician Hacked the Lottery for $26M](https://entrepreneurshandbook.co/an-elderly-mathematician-hacked-the-lottery-for-26-million-121c28faa88b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
