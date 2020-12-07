@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why do most top performers have the highest count of commits and pull requests?](https://swecareer.substack.com/p/why-do-most-top-performers-have-the)
+- [Rewriting LaTeX in Pure Rust](https://github.com/crlf0710/tectonic)
 - [A container ship lost a record 1,800 containers](https://www.one-apus-container-incident.com/)
 - [Show HN: Boltstream – Self-hosted full end-to-end live video streaming platform](https://github.com/benwilber/boltstream)
 - [Google removes some IAC browser extensions for 'policy violations'](https://www.reuters.com/article/us-google-iac-interactive/google-removes-some-iac-browser-extensions-for-policy-violations-idUSKBN28G0TR)
-- [Three Cheers for Solutionism?](https://aelkus.github.io/theory/2020/12/03/solu.html)
-- [Falling Out of Love with Apple, Part 3: Content and Censorship](https://hardware.substack.com/p/falling-out-of-love-with-apple-part3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
