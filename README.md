@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyberpunk 2077 involved months of crunch at CD Projekt Red, despite promises](https://www.polygon.com/2020/12/4/21575914/cyberpunk-2077-release-crunch-labor-delays-cd-projekt-red)
+- [Three Cheers for Solutionism?](https://aelkus.github.io/theory/2020/12/03/solu.html)
 - [Show HN: Squiggle – A Sketch library for making low-fidelity wireframes](https://ui8.net/squiggle/products/squiggle)
 - [My Procedurally Generated Music Is Awful](https://devlog.groovelet.com/p/procedurally-generated-music-is-awful)
 - [Apple Silicon M1 Disruption](https://mondaynote.com/apple-silicon-m1-disruption-af11f639103a)
