@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Categories of personal information collected](https://policies.tinder.com/ccpa-addendum/us/en)
+- [The body as mediator: The phenomenology of Merleau-Ponty](https://aeon.co/essays/the-phenomenology-of-merleau-ponty-and-embodiment-in-the-world)
+- [Uber sells self-driving unit in deal that will push Aurora’s valuation to $10B](https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/)
+- [Wagnerism](https://van-us.atavist.com/ross-wagner)
+- [German court forces mail provider Tutanota to insert a backdoor](https://www.heise.de/news/Gericht-zwingt-Mailprovider-Tutanota-zu-Ueberwachungsfunktion-4972460.html)
 - [FuzzOS – an operating system which is designed specifically for fuzzing](https://gamozolabs.github.io/fuzzing/2020/12/06/fuzzos.html)
-- [Zcash Open Major Grants](https://zcashomg.org/)
-- [SpaceX gets $886M from FCC to subsidize Starlink in 35 states](https://arstechnica.com/tech-policy/2020/12/spacex-gets-886-million-from-fcc-to-subsidize-starlink-in-35-states/)
-- [Financial Stability Oversight Council: 2020 Annual Report [pdf]](https://home.treasury.gov/system/files/261/FSOC2020AnnualReport.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
