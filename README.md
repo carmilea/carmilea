@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google removes some IAC browser extensions for 'policy violations'](https://www.reuters.com/article/us-google-iac-interactive/google-removes-some-iac-browser-extensions-for-policy-violations-idUSKBN28G0TR)
 - [Three Cheers for Solutionism?](https://aelkus.github.io/theory/2020/12/03/solu.html)
 - [Show HN: Squiggle – A Sketch library for making low-fidelity wireframes](https://ui8.net/squiggle/products/squiggle)
 - [My Procedurally Generated Music Is Awful](https://devlog.groovelet.com/p/procedurally-generated-music-is-awful)
 - [Apple Silicon M1 Disruption](https://mondaynote.com/apple-silicon-m1-disruption-af11f639103a)
-- [New Sauerbraten 2020 Edition Released](http://www.sauerworld.org/new-sauerbraten-2020-edition-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
