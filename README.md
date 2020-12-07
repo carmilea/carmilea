@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Preps Next Mac Chips with Aim to Outclass Highest-End PCs](https://www.bloomberg.com/news/articles/2020-12-07/apple-preps-next-mac-chips-with-aim-to-outclass-highest-end-pcs)
 - [Study Edge (YC S12) Is Hiring](https://news.ycombinator.com/item?id=25331344)
 - [Analog TV Station on ESP8266](https://github.com/cnlohr/channel3)
 - [WW1 trench fever identified in former homeless man in Canada](https://www.theguardian.com/society/2020/dec/07/ww1-trench-fever-identified-in-former-homeless-man-in-canada)
 - [Steve Wozniak launches Efforce, a blockchain-based energy-saving platform](https://efforce.io/)
-- [The Danish climate minister closing down the oil industry for good](https://www.theguardian.com/world/2020/dec/05/the-danish-climate-minister-closing-down-the-oil-industry-for-good)
 <!-- BLOG-POST-LIST:END -->
 
 ---
