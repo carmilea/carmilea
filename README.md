@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Elderly Mathematician Hacked the Lottery for $26M](https://entrepreneurshandbook.co/an-elderly-mathematician-hacked-the-lottery-for-26-million-121c28faa88b)
 - [Show HN: Haxon, CLI tooling to retrieve data from Axon police body cams](https://github.com/xraymemory/haxon)
+- [Ask HN: What's that Game that predicts your choices?](https://news.ycombinator.com/item?id=25332641)
 - [How Payment Transaction Processing Works](https://blog.privacy.com/how-payment-transactions-work/)
 - [ZaReason Linux PC Vendor Closes After 10 Years Selling Linux Hardware](https://www.phoronix.com/scan.php?page=news_item&px=ZaReason-Shuts-Down)
-- [Why experts are sounding the alarm about the hidden dangers of gas stoves](https://qz.com/1941254/experts-are-sounding-the-alarm-about-the-dangers-of-gas-stoves/)
-- [I Love Tailwind](https://mxstbr.com/thoughts/tailwind/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
