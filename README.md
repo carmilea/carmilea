@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WMF Board considering the removal of Jimmy Wales' trustee position](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2020-11-29/News_and_notes)
 - [Apple Preps Next Mac Chips with Aim to Outclass Highest-End PCs](https://www.bloomberg.com/news/articles/2020-12-07/apple-preps-next-mac-chips-with-aim-to-outclass-highest-end-pcs)
+- [Xero-click, wormable, cross-platform remote code execution in Microsoft Teams](https://github.com/oskarsve/ms-teams-rce)
 - [Study Edge (YC S12) Is Hiring](https://news.ycombinator.com/item?id=25331344)
 - [Analog TV Station on ESP8266](https://github.com/cnlohr/channel3)
-- [WW1 trench fever identified in former homeless man in Canada](https://www.theguardian.com/society/2020/dec/07/ww1-trench-fever-identified-in-former-homeless-man-in-canada)
-- [Steve Wozniak launches Efforce, a blockchain-based energy-saving platform](https://efforce.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
