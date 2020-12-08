@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Simplify your data strategy with #DataMesh](https://www.youtube.com/watch?v=0TpZUNd3Q8s)
 - [The Know Show: Monster Data](https://www.youtube.com/watch?v=thunJNr2zMQ)
 - [#SingleStore, #Prometheus, and #Grafana](https://www.youtube.com/watch?v=m46bppE3alc)
 - [SingleStore, The Database of Now™](https://www.youtube.com/watch?v=mo0m-nShLb4)
 - [Launch Codes for SaaS Success - The Know Show](https://www.youtube.com/watch?v=HItNOfs1qoU)
-- [Send alert notifications with SingleStore Report](https://www.youtube.com/watch?v=jBLYpCqiceM)
 <!-- YOUTUBE:END -->
 
 
