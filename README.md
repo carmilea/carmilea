@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CSS in GitHub Readmes](https://github.com/sindresorhus/css-in-readme-like-wat)
+- [Nomad v1.0 release – workload orchestration](https://github.com/hashicorp/nomad/releases/tag/v1.0.0)
 - [GitHub Releases Dark Mode](https://github.com/settings/appearance)
-- [Rizin – open-source Reverse Engineering framework forked from radare2](https://rizin.re/)
 - [GitHub Universe 2020: Opening Keynote](https://githubuniverse.com/)
 - [Etsy was a twee culture punchline, now it’s a Wall Street darling](https://www.nytimes.com/2020/12/08/business/etsy-masks-wall-street.html)
 <!-- BLOG-POST-LIST:END -->
