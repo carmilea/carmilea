@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Drug Reverses Age-Related Mental Decline Within Days](https://www.ucsf.edu/news/2020/12/419201/drug-reverses-age-related-mental-decline-within-days)
+- [Apple Silicon Games - 400+ Game Performance Reports for Apple Silicon Macs](https://applesilicongames.com)
 - [Innovative universal flu vaccine shows promise in first clinical test](https://www.sciencemag.org/news/2020/12/innovative-universal-flu-vaccine-shows-promises-it-first-clinical-test)
 - [Chuck Yeager has died](https://twitter.com/GenChuckYeager)
 - [San Mateo County Health Officer Statement on Bay Area Stay-at-Home Orders](https://www.smchealth.org/health-officer-updates/december-7-2020-health-officer-statement)
