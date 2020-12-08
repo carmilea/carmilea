@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenSSL Security Advisory – EDIPARTYNAME NULL pointer de-reference CVE-2020-1971](https://www.openssl.org/news/secadv/20201208.txt)
-- [LinkedIn SRE Curriculum for Non-Traditional Hires](https://github.com/linkedin/school-of-sre)
-- [CentOS Project shifts focus to CentOS Stream](https://blog.centos.org/2020/12/future-is-centos-stream/)
-- [CentOS Project shifts focus to CentOS Stream](https://lists.centos.org/pipermail/centos-announce/2020-December/048208.html)
-- [Qt 6.0](https://www.qt.io/blog/qt-6.0-released)
+- [Mapbox GL JS is no longer open source](https://github.com/mapbox/mapbox-gl-js/blob/main/CHANGELOG.md#200)
+- [Stateoftheart.ai – 2M+ papers, 2K+ datasets](https://news.ycombinator.com/item?id=25347059)
+- [We Love GPLv3, but Are Switching License to Apache 2.0: TerminusDB](https://terminusdb.com/blog/2020/12/08/we-love-gplv3-but-are-switching-license-to-apache-2-0-terminusdb/)
+- [GOL Airlines to Resume 737 Max Flights on Wednesday](https://www.reuters.com/article/us-boeing-737max-brazil-gol-linhas-ae/brazils-gol-to-resume-flying-boeing-737-max-from-dec-9-idUSKBN28I05Q)
+- [Kafka Is Not a Database](https://materialize.com/kafka-is-not-a-database/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
