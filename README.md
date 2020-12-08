@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Playing Tetris in Task Manager on 420 CPU VM](https://twitter.com/markrussinovich/status/1335651115958894593)
+- [AgileMD – Front-End Software Engineer – San Francisco or Remote – Full-Time](https://news.ycombinator.com/item?id=25344154)
+- [Privacy Labels and Lookalike Audiences](https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/)
+- [Rebekah Jones' house raided at gunpoint](https://twitter.com/GeoRebekah/status/1336065787900145665)
+- [Connecting an ASR33 Teletype to an ESP32](https://www.revk.uk/2020/12/connecting-asr33-teletype-to-esp32.html)
 - [Printable, flexible battery offers 10 times the density of lithium-ion](https://newatlas.com/energy/printable-high-density-batteries-silver-oxide/)
-- [Simple and flexible tool for managing secrets](https://github.com/mozilla/sops)
-- [First person receives Pfizer Covid-19 vaccine in UK](https://www.bbc.com/news/uk-55227325)
-- [Innovative universal flu vaccine shows promise in first clinical test](https://www.sciencemag.org/news/2020/12/innovative-universal-flu-vaccine-shows-promises-it-first-clinical-test)
 <!-- BLOG-POST-LIST:END -->
 
 ---
