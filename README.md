@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare and Apple design a new privacy-friendly internet protocol](https://techcrunch.com/2020/12/08/cloudflare-and-apple-design-a-new-privacy-friendly-internet-protocol/)
 - [AgileMD – Front-End Software Engineer – San Francisco or Remote – Full-Time](https://news.ycombinator.com/item?id=25344154)
 - [Privacy Labels and Lookalike Audiences](https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/)
-- [Rebekah Jones' house raided at gunpoint](https://twitter.com/GeoRebekah/status/1336065787900145665)
 - [Connecting an ASR33 Teletype to an ESP32](https://www.revk.uk/2020/12/connecting-asr33-teletype-to-esp32.html)
 - [Printable, flexible battery offers 10 times the density of lithium-ion](https://newatlas.com/energy/printable-high-density-batteries-silver-oxide/)
 <!-- BLOG-POST-LIST:END -->
