@@ -55,7 +55,7 @@
 - [Kubernetes 1.20](https://kubernetes.io/blog/2020/12/08/kubernetes-1-20-release-announcement/)
 - [FireEye Shares Details of Recent Cyber Attack](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 - [Reverie Labs (YC W18) Is Hiring Summer 2020 Engineering Interns](https://www.workatastartup.com/jobs/40492)
-- [Poor evidence that Q-tips are harmful](https://residentcontrarian.substack.com/p/on-the-exciting-subject-of-earwax)
+- [CSS in GitHub Readmes](https://github.com/sindresorhus/css-in-readme-like-wat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
