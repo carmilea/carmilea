@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverie Labs (YC W18) Is Hiring Summer 2020 Eng Interns](https://www.workatastartup.com/jobs/40492)
+- [Measuring "efficiency" in document prepration: Microsoft Word vs. LaTex](https://blog.cr.yp.to/20201206-msword.html)
 - [CSS in GitHub Readmes](https://github.com/sindresorhus/css-in-readme-like-wat)
 - [GitHub Releases Dark Mode](https://github.com/settings/appearance)
 - [Etsy was a twee culture punchline, now it’s a Wall Street darling](https://www.nytimes.com/2020/12/08/business/etsy-masks-wall-street.html)
-- [Expanding Fuchsia's open source model](https://opensource.googleblog.com/2020/12/expanding-fuchsias-open-source-model.html)
-- [Jerry, Inc. (YC S17) Is Hiring a Technical SEO Analyst](https://apply.workable.com/jerry/j/CB9ACE9592/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
