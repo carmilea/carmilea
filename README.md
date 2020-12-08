@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Professor livestreams entire Computer Science course in 12 hours](https://www.youtube.com/watch?v=bK8LVFWA0L8&list=PLylTVsqZiRXPU09ULWGfXYsEtw-Qtq0Yn&t=20m37s)
+- [Codeweavers Has 13 Full Time Developers Working on Proton/SteamPlay](https://boilingsteam.com/podcast-with-james-ramey-full-transcript/)
+- [Agents raid home of fired Florida data scientist who built Covid-19 dashboard](https://www.tallahassee.com/story/news/2020/12/07/agents-raid-home-fired-florida-data-scientist-who-built-covid-19-dashboard-rebekah-jones/6482817002/)
+- [Travis CI is no longer providing CI minutes for open source projects](https://news.ycombinator.com/item?id=25338983)
 - [Librem 5 Evergreen vs. Pinephone](https://thatgeoguy.ca/blog/2020/12/06/Librem-5-Evergreen-vs-Pinephone/)
 - [EPA declines to tighten soot pollution standards](https://www.axios.com/epa-tighten-soot-standards-declines-52e277b4-8d79-499e-a5b7-da20e2c4381a.html)
-- [Upcoming test: SpaceX Starship high-altitude flight](https://www.spacex.com/vehicles/starship/)
-- [The body as mediator: The phenomenology of Merleau-Ponty](https://aeon.co/essays/the-phenomenology-of-merleau-ponty-and-embodiment-in-the-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
