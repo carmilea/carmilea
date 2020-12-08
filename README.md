@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenSSL Security Advisory – EDIPARTYNAME NULL pointer de-reference CVE-2020-1971](https://www.openssl.org/news/secadv/20201208.txt)
+- [LinkedIn SRE Curriculum for Non-Traditional Hires](https://github.com/linkedin/school-of-sre)
+- [CentOS Project shifts focus to CentOS Stream](https://blog.centos.org/2020/12/future-is-centos-stream/)
+- [CentOS Project shifts focus to CentOS Stream](https://lists.centos.org/pipermail/centos-announce/2020-December/048208.html)
 - [Qt 6.0](https://www.qt.io/blog/qt-6.0-released)
-- [AirPods Max](https://www.apple.com/newsroom/2020/12/apple-introduces-airpods-max-the-magic-of-airpods-in-a-stunning-over-ear-design/)
-- [Tesla to raise up to $5B in share offering, its second in three months](https://www.cnbc.com/2020/12/08/tesla-to-raise-up-to-5-billion-in-share-offering.html)
-- [Cloudflare and Apple design a new privacy-friendly internet protocol](https://techcrunch.com/2020/12/08/cloudflare-and-apple-design-a-new-privacy-friendly-internet-protocol/)
-- [AgileMD – Front-End Software Engineer – San Francisco or Remote – Full-Time](https://news.ycombinator.com/item?id=25344154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
