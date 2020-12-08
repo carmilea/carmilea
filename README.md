@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chuck Yeager Has Died](https://twitter.com/GenChuckYeager)
+- [San Mateo County Health Officer Statement on Bay Area Stay-at-Home Orders](https://www.smchealth.org/health-officer-updates/december-7-2020-health-officer-statement)
 - [Obarun – Arch Linux based distro with skarnet s6/66 suite](https://obarun.org)
 - [SpaceX Starship Users' Guide [pdf]](https://www.spacex.com/media/starship_users_guide_v1.pdf)
 - [A Logarithm Too Clever by Half (2004)](https://people.eecs.berkeley.edu/~wkahan/LOG10HAF.TXT)
-- [The Man Who Found Forrest Fenn's Treasure](https://www.outsideonline.com/2419429/forrest-fenn-treasure-jack-stuef)
-- [Hexagonal Grids (2013)](https://www.redblobgames.com/grids/hexagons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
