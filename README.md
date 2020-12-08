@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverie Labs (YC W18) Is Hiring Summer 2020 Eng Interns](https://www.workatastartup.com/jobs/40492)
-- [Measuring "efficiency" in document prepration: Microsoft Word vs. LaTex](https://blog.cr.yp.to/20201206-msword.html)
-- [CSS in GitHub Readmes](https://github.com/sindresorhus/css-in-readme-like-wat)
-- [GitHub Releases Dark Mode](https://github.com/settings/appearance)
-- [Etsy was a twee culture punchline, now it’s a Wall Street darling](https://www.nytimes.com/2020/12/08/business/etsy-masks-wall-street.html)
+- [80% of musicians earn less than £200 a year from streaming](https://www.nme.com/news/music/82-per-cent-of-musicians-earn-less-than-200-a-year-from-streaming-2833510)
+- [Kubernetes 1.20](https://kubernetes.io/blog/2020/12/08/kubernetes-1-20-release-announcement/)
+- [FireEye Shares Details of Recent Cyber Attack](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
+- [Reverie Labs (YC W18) Is Hiring Summer 2020 Engineering Interns](https://www.workatastartup.com/jobs/40492)
+- [Poor evidence that Q-tips are harmful](https://residentcontrarian.substack.com/p/on-the-exciting-subject-of-earwax)
 <!-- BLOG-POST-LIST:END -->
 
 ---
