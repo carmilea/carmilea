@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qt 6.0](https://www.qt.io/blog/qt-6.0-released)
+- [AirPods Max](https://www.apple.com/newsroom/2020/12/apple-introduces-airpods-max-the-magic-of-airpods-in-a-stunning-over-ear-design/)
+- [Tesla to raise up to $5B in share offering, its second in three months](https://www.cnbc.com/2020/12/08/tesla-to-raise-up-to-5-billion-in-share-offering.html)
 - [Cloudflare and Apple design a new privacy-friendly internet protocol](https://techcrunch.com/2020/12/08/cloudflare-and-apple-design-a-new-privacy-friendly-internet-protocol/)
 - [AgileMD – Front-End Software Engineer – San Francisco or Remote – Full-Time](https://news.ycombinator.com/item?id=25344154)
-- [Privacy Labels and Lookalike Audiences](https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/)
-- [Connecting an ASR33 Teletype to an ESP32](https://www.revk.uk/2020/12/connecting-asr33-teletype-to-esp32.html)
-- [Printable, flexible battery offers 10 times the density of lithium-ion](https://newatlas.com/energy/printable-high-density-batteries-silver-oxide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
