@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CSS in GitHub Readmes](https://github.com/sindresorhus/css-in-readme-like-wat)
-- [Nomad v1.0 release – workload orchestration](https://github.com/hashicorp/nomad/releases/tag/v1.0.0)
 - [GitHub Releases Dark Mode](https://github.com/settings/appearance)
-- [GitHub Universe 2020: Opening Keynote](https://githubuniverse.com/)
 - [Etsy was a twee culture punchline, now it’s a Wall Street darling](https://www.nytimes.com/2020/12/08/business/etsy-masks-wall-street.html)
+- [Expanding Fuchsia's open source model](https://opensource.googleblog.com/2020/12/expanding-fuchsias-open-source-model.html)
+- [Jerry, Inc. (YC S17) Is Hiring a Technical SEO Analyst](https://apply.workable.com/jerry/j/CB9ACE9592/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
