@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Obarun – Arch Linux based distro with skarnet s6/66 suite](https://obarun.org)
+- [SpaceX Starship Users' Guide [pdf]](https://www.spacex.com/media/starship_users_guide_v1.pdf)
+- [A Logarithm Too Clever by Half (2004)](https://people.eecs.berkeley.edu/~wkahan/LOG10HAF.TXT)
 - [The Man Who Found Forrest Fenn's Treasure](https://www.outsideonline.com/2419429/forrest-fenn-treasure-jack-stuef)
-- [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
-- [The Rapture Happened but I Wasn’t Called](https://steveblank.com/2020/12/07/the-rapture-happened-but-i-wasnt-called/)
-- [TrueNorth (YC W20) Is Hiring](https://www.workatastartup.com/companies/13176)
-- [Agents raid home of fired Florida data scientist who built Covid-19 dashboard](https://www.tallahassee.com/story/news/2020/12/07/agents-raid-home-fired-florida-data-scientist-who-built-covid-19-dashboard-rebekah-jones/6482817002/)
+- [Hexagonal Grids (2013)](https://www.redblobgames.com/grids/hexagons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
