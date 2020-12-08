@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pilot Chuck Yeager Dies at 97, Had 'The Right Stuff' and Then Some](https://www.npr.org/2020/12/07/341894780/pilot-chuck-yeager-dies-at-97-had-the-right-stuff-and-then-some)
+- [Innovative universal flu vaccine shows promise in first clinical test](https://www.sciencemag.org/news/2020/12/innovative-universal-flu-vaccine-shows-promises-it-first-clinical-test)
 - [Chuck Yeager Has Died](https://twitter.com/GenChuckYeager)
 - [San Mateo County Health Officer Statement on Bay Area Stay-at-Home Orders](https://www.smchealth.org/health-officer-updates/december-7-2020-health-officer-statement)
 - [Obarun – Arch Linux based distro with skarnet s6/66 suite](https://obarun.org)
-- [SpaceX Starship Users' Guide [pdf]](https://www.spacex.com/media/starship_users_guide_v1.pdf)
-- [A Logarithm Too Clever by Half (2004)](https://people.eecs.berkeley.edu/~wkahan/LOG10HAF.TXT)
 <!-- BLOG-POST-LIST:END -->
 
 ---
