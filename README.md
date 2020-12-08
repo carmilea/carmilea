@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Etsy Was a Twee Culture Punchline, Now It’s a Wall Street Darling](https://www.nytimes.com/2020/12/08/business/etsy-masks-wall-street.html)
-- [Expanding Fuchsia's open source model](https://opensource.googleblog.com/2020/12/expanding-fuchsias-open-source-model.html)
-- [Jerry, Inc. (YC S17) Is Hiring a Technical SEO Analyst](https://apply.workable.com/jerry/j/CB9ACE9592/)
-- [The Complexity of Building a Lie-Down Workstation](https://altwork.com/blogs/news/the-complexity-of-building-a-lie-down-workstation)
-- [Show HN: End-to-end encrypted location sharing service (like Google Latitude)](https://www.zood.xyz/)
+- [CSS in GitHub Readmes](https://github.com/sindresorhus/css-in-readme-like-wat)
+- [GitHub Releases Dark Mode](https://github.com/settings/appearance)
+- [Rizin – open-source Reverse Engineering framework forked from radare2](https://rizin.re/)
+- [GitHub Universe 2020: Opening Keynote](https://githubuniverse.com/)
+- [Etsy was a twee culture punchline, now it’s a Wall Street darling](https://www.nytimes.com/2020/12/08/business/etsy-masks-wall-street.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
