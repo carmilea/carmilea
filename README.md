@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New York Times Best Seller Business Book](https://dubeyaayush07.github.io/deliberate-mistakes/new-york-times-best-seller-business-book/)
+- [The Far-Reaching Impact of Dr. Timnit Gebru](https://thegradient.pub/the-far-reaching-impacts-of-timnit-gebru/)
+- [The Import on Interaction Pattern](https://addyosmani.com/blog/import-on-interaction/)
+- [Manifest V3 now available on M88 Beta](https://blog.chromium.org/2020/12/manifest-v3-now-available-on-m88-beta.html)
 - [Houdini.how](https://houdini.how/)
 - [YouTube to remove content that alleges widespread election fraud](https://thehill.com/policy/technology/529414-youtube-to-start-removing-content-alleging-widespread-election-fraud)
-- [DoorDash from Application to IPO](https://blog.ycombinator.com/doordash-from-application-to-ipo/)
-- [BlueCargo (YC S18) Is Hiring](https://www.workatastartup.com/jobs/40494)
 <!-- BLOG-POST-LIST:END -->
 
 ---
