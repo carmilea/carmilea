@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyundai to acquire Boston Dynamics for nearly $1B](https://www.therobotreport.com/hyundai-acquires-boston-dynamics-for-921m/)
-- [MDMA-assisted couples therapy investigated in landmark pilot trial](https://newatlas.com/health-wellbeing/mdma-assisted-couples-therapy-ptsd-cbct-pilot-trial-maps/)
-- [FTC Sues Facebook for Illegal Monopolization](https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization)
-- [Apple starts selling yoga mats](https://www.apple.com/shop/product/HPG82ZM/A/manduka-ekolite-yoga-mat)
-- [Code Review Best Practices – Lessons from the Trenches](https://blogboard.io/blog/code-review-best-practices)
+- [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/careers)
+- [Rails 6.1](https://weblog.rubyonrails.org/2020/12/9/Rails-6-1-0-release/)
+- [Hyundai to acquire Boston Dynamics](https://www.therobotreport.com/hyundai-acquires-boston-dynamics-for-921m/)
+- [MDMA-assisted couples therapy investigated in pilot trial](https://newatlas.com/health-wellbeing/mdma-assisted-couples-therapy-ptsd-cbct-pilot-trial-maps/)
+- [Common Problems in Financial Services Reconciliation](https://kunle.app/dec-2020-financial-reconciliation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
