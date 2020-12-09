@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Detecting the use of “curl – bash” server side (2016)](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
+- [Good Books for a Lousy Year](https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2020)
+- [Cloudflare and Apple made a new DNS protocol to protect your data from ISPs](https://www.theverge.com/2020/12/8/22163871/cloudflare-apple-dns-protocol-online-privacy)
+- [Show HN: Over 2M cooking recipes ready for text generation](https://github.com/Glorf/recipenlg)
 - [Notabene (YC S20) Is Hiring](https://notabene.id/jobs/backend-engineer)
-- [Leaked Government UFO Photo: What Is Hovering Cube-Shaped Object?](https://www.popularmechanics.com/military/research/a34908126/leaked-ufo-photo-motionless-cube-shaped-object/)
-- [Interactive audio-visual dive into the music](https://physicsofbeauty.art/)
-- [U.S. Used Patriot Act to Gather Logs of Website Visitors](https://www.nytimes.com/2020/12/03/us/politics/section-215-patriot-act.html)
-- [Stanford MLSys Seminar Series](https://mlsys.stanford.edu/?ref=mlnews)
 <!-- BLOG-POST-LIST:END -->
 
 ---
