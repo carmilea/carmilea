@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [80% of musicians earn less than £200 a year from streaming](https://www.nme.com/news/music/82-per-cent-of-musicians-earn-less-than-200-a-year-from-streaming-2833510)
-- [Kubernetes 1.20](https://kubernetes.io/blog/2020/12/08/kubernetes-1-20-release-announcement/)
-- [FireEye Shares Details of Recent Cyber Attack](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
-- [Reverie Labs (YC W18) Is Hiring Summer 2020 Engineering Interns](https://www.workatastartup.com/jobs/40492)
-- [CSS in GitHub Readmes](https://github.com/sindresorhus/css-in-readme-like-wat)
+- [MPG: A Multi-Ingredient Pizza Image Generator with Conditional StyleGANs [pdf]](https://export.arxiv.org/pdf/2012.02821.pdf)
+- [Building a Better Monolith (With WebAssembly)](https://blog.suborbital.dev/building-a-better-monolith)
+- [Coronavirus Could Push More Than 1B People to Extreme Poverty](https://nationalinterest.org/blog/coronavirus/coronavirus-could-push-more-1-billion-people-extreme-poverty-174057)
+- [Building a Scalable E-Commerce Data Model](https://resources.fabric.inc/blog/ecommerce-data-model)
+- [Pennsylvania Election Officially Contested](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22o155.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
