@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla CEO Elon Musk critical of California, leaves the state and moves to Texas](https://www.ktvu.com/news/tesla-ceo-elon-musk-critical-of-california-leaves-the-state-and-moves-to-texas)
+- [Supporting the 2020 U.S. Election](https://blog.youtube/news-and-events/supporting-the-2020-us-election)
 - [Cloudflare’s privacy-first Web Analytics is now available for everyone](https://blog.cloudflare.com/privacy-first-web-analytics/)
-- [NumPy – Ndarray Object](https://www.alphacodingskills.com/numpy/numpy-ndarray.php)
-- [Law Enforcement Is Accessing Locked Devices Quite Well, Thank You](https://www.lawfareblog.com/law-enforcement-accessing-locked-devices-quite-well-thank-you)
-- [Germany, France, 11 other EU countries team up for semiconductor push](https://www.reuters.com/article/eu-tech-semiconductor-idUSKBN28H1HV)
-- [Show HN: Write-Only Interface for Twitter](https://typefully.app/)
+- [Circulation of Elites](https://en.wikipedia.org/wiki/Circulation_of_elite)
+- [ZFS: Use mirror vdevs, not RAIDZ](https://jrs-s.net/2015/02/06/zfs-you-should-use-mirror-vdevs-not-raidz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
