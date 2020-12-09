@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New York Times Best Seller Business Book](https://dubeyaayush07.github.io/deliberate-mistakes/new-york-times-best-seller-business-book/)
+- [Houdini.how](https://houdini.how/)
+- [YouTube to remove content that alleges widespread election fraud](https://thehill.com/policy/technology/529414-youtube-to-start-removing-content-alleging-widespread-election-fraud)
+- [DoorDash from Application to IPO](https://blog.ycombinator.com/doordash-from-application-to-ipo/)
 - [BlueCargo (YC S18) Is Hiring](https://www.workatastartup.com/jobs/40494)
-- [Pandemic Villains: Robinhood](https://taibbi.substack.com/p/pandemic-villains-robinhood)
-- [A Brief Goodbye to CentOS](https://www.clementchiew.me/blog/blog-013)
-- [A Guide to Enterprise Event-Driven Architecture](https://wiprodigital.com/2020/11/10/a-guide-to-enterprise-event-driven-architecture/)
-- [Cloudflare’s privacy-first Web Analytics is now available for everyone](https://blog.cloudflare.com/privacy-first-web-analytics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
