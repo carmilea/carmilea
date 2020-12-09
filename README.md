@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla CEO Elon Musk critical of California, leaves the state and moves to Texas](https://www.ktvu.com/news/tesla-ceo-elon-musk-critical-of-california-leaves-the-state-and-moves-to-texas)
-- [Supporting the 2020 U.S. Election](https://blog.youtube/news-and-events/supporting-the-2020-us-election)
+- [To Lose Weight with Exercise, Aim for 300 Minutes a Week](https://www.nytimes.com/2020/12/09/well/move/to-lose-weight-with-exercise-aim-for-300-minutes-a-week.html)
+- [A Brief Goodbye to CentOS](https://www.clementchiew.me/blog/blog-013)
 - [Cloudflare’s privacy-first Web Analytics is now available for everyone](https://blog.cloudflare.com/privacy-first-web-analytics/)
 - [Circulation of Elites](https://en.wikipedia.org/wiki/Circulation_of_elite)
 - [ZFS: Use mirror vdevs, not RAIDZ](https://jrs-s.net/2015/02/06/zfs-you-should-use-mirror-vdevs-not-raidz/)
