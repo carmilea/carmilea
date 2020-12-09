@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare’s privacy-first Web Analytics is now available for everyone](https://blog.cloudflare.com/privacy-first-web-analytics/)
+- [NumPy – Ndarray Object](https://www.alphacodingskills.com/numpy/numpy-ndarray.php)
+- [Law Enforcement Is Accessing Locked Devices Quite Well, Thank You](https://www.lawfareblog.com/law-enforcement-accessing-locked-devices-quite-well-thank-you)
+- [Germany, France, 11 other EU countries team up for semiconductor push](https://www.reuters.com/article/eu-tech-semiconductor-idUSKBN28H1HV)
 - [Show HN: Write-Only Interface for Twitter](https://typefully.app/)
-- [Centos.rip](https://centos.rip/)
-- [PlotJuggler 3: fast and intuitive time series visualization](https://github.com/facontidavide/PlotJuggler)
-- [YC runs Work at a Startup to help you find jobs at over 700 YC-vetted startups](http://workatastartup.com/)
-- [Detecting the use of “curl – bash” server side (2016)](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
