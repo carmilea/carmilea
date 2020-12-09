@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flash Player EOL, Adobe Announces 12-Day Grace Period](https://datahorde.org/?p=1856)
 - [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/careers)
 - [Rails 6.1](https://weblog.rubyonrails.org/2020/12/9/Rails-6-1-0-release/)
+- [On Marlon Brando (1973)](https://www.villagevoice.com/2020/12/06/on-marlon-brando-an-essay-in-nine-parts/)
 - [Hyundai to acquire Boston Dynamics](https://www.therobotreport.com/hyundai-acquires-boston-dynamics-for-921m/)
-- [MDMA-assisted couples therapy investigated in pilot trial](https://newatlas.com/health-wellbeing/mdma-assisted-couples-therapy-ptsd-cbct-pilot-trial-maps/)
-- [Common Problems in Financial Services Reconciliation](https://kunle.app/dec-2020-financial-reconciliation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
