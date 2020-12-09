@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Far-Reaching Impact of Dr. Timnit Gebru](https://thegradient.pub/the-far-reaching-impacts-of-timnit-gebru/)
-- [The Import on Interaction Pattern](https://addyosmani.com/blog/import-on-interaction/)
-- [Manifest V3 now available on M88 Beta](https://blog.chromium.org/2020/12/manifest-v3-now-available-on-m88-beta.html)
-- [Houdini.how](https://houdini.how/)
-- [YouTube to remove content that alleges widespread election fraud](https://thehill.com/policy/technology/529414-youtube-to-start-removing-content-alleging-widespread-election-fraud)
+- [Hyundai to acquire Boston Dynamics for nearly $1B](https://www.therobotreport.com/hyundai-acquires-boston-dynamics-for-921m/)
+- [MDMA-assisted couples therapy investigated in landmark pilot trial](https://newatlas.com/health-wellbeing/mdma-assisted-couples-therapy-ptsd-cbct-pilot-trial-maps/)
+- [FTC Sues Facebook for Illegal Monopolization](https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization)
+- [Apple starts selling yoga mats](https://www.apple.com/shop/product/HPG82ZM/A/manduka-ekolite-yoga-mat)
+- [Code Review Best Practices – Lessons from the Trenches](https://blogboard.io/blog/code-review-best-practices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
