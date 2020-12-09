@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why did I build monoliths all around the world? [video]](https://www.youtube.com/watch?v=j-pKKM6CXr0)
 - [MPG: A Multi-Ingredient Pizza Image Generator with Conditional StyleGANs [pdf]](https://export.arxiv.org/pdf/2012.02821.pdf)
-- [Building a Better Monolith (With WebAssembly)](https://blog.suborbital.dev/building-a-better-monolith)
-- [Coronavirus Could Push More Than 1B People to Extreme Poverty](https://nationalinterest.org/blog/coronavirus/coronavirus-could-push-more-1-billion-people-extreme-poverty-174057)
-- [Building a Scalable E-Commerce Data Model](https://resources.fabric.inc/blog/ecommerce-data-model)
-- [Pennsylvania Election Officially Contested](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22o155.html)
+- [Building a scalable e-commerce data model](https://resources.fabric.inc/blog/ecommerce-data-model)
+- [Working with Unikernel Volumes in Nanos](https://nanovms.com/dev/tutorials/working-with-unikernel-volumes-in-nanos)
+- [Show HN: This website is valid JSON](https://webdatarender.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
