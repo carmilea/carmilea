@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Original CentOS founder intends to create new fork of RHEL](http://rockylinux.org)
 - [How the Golden State Killer was found: A covert operation and private DNA](https://www.latimes.com/california/story/2020-12-08/man-in-the-window)
 - [U.S. physicists rally around ambitious plan to build fusion power plant](https://www.sciencemag.org/news/2020/12/us-physicists-rally-around-ambitious-plan-build-fusion-power-plant)
-- [Security firm FireEye got hacked](https://www.reuters.com/article/us-fireeye-cyber/u-s-cybersecurity-firm-fireeye-discloses-breach-theft-of-hacking-tools-idUSKBN28I31E)
-- [ImHex – A Hex Editor for people that value their eye sight](https://github.com/WerWolv/ImHex)
+- [ImHex – A Hex Editor](https://github.com/WerWolv/ImHex)
 - [Building a scalable e-commerce data model](https://resources.fabric.inc/blog/ecommerce-data-model)
 <!-- BLOG-POST-LIST:END -->
 
