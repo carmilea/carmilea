@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why did I build monoliths all around the world? [video]](https://www.youtube.com/watch?v=j-pKKM6CXr0)
+- [Security firm FireEye got hacked](https://www.reuters.com/article/us-fireeye-cyber/u-s-cybersecurity-firm-fireeye-discloses-breach-theft-of-hacking-tools-idUSKBN28I31E)
+- [ImHex – A Hex Editor for people that value their eye sight](https://github.com/WerWolv/ImHex)
 - [MPG: A Multi-Ingredient Pizza Image Generator with Conditional StyleGANs [pdf]](https://export.arxiv.org/pdf/2012.02821.pdf)
 - [Building a scalable e-commerce data model](https://resources.fabric.inc/blog/ecommerce-data-model)
 - [Working with Unikernel Volumes in Nanos](https://nanovms.com/dev/tutorials/working-with-unikernel-volumes-in-nanos)
-- [Show HN: This website is valid JSON](https://webdatarender.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
