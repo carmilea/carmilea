@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [To Lose Weight with Exercise, Aim for 300 Minutes a Week](https://www.nytimes.com/2020/12/09/well/move/to-lose-weight-with-exercise-aim-for-300-minutes-a-week.html)
+- [BlueCargo (YC S18) Is Hiring](https://www.workatastartup.com/jobs/40494)
+- [Pandemic Villains: Robinhood](https://taibbi.substack.com/p/pandemic-villains-robinhood)
 - [A Brief Goodbye to CentOS](https://www.clementchiew.me/blog/blog-013)
+- [A Guide to Enterprise Event-Driven Architecture](https://wiprodigital.com/2020/11/10/a-guide-to-enterprise-event-driven-architecture/)
 - [Cloudflare’s privacy-first Web Analytics is now available for everyone](https://blog.cloudflare.com/privacy-first-web-analytics/)
-- [Circulation of Elites](https://en.wikipedia.org/wiki/Circulation_of_elite)
-- [ZFS: Use mirror vdevs, not RAIDZ](https://jrs-s.net/2015/02/06/zfs-you-should-use-mirror-vdevs-not-raidz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
