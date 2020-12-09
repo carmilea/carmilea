@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Singapore approves lab-grown 'chicken' meat](https://www.bbc.com/news/business-55155741)
 - [Detecting the use of “curl – bash” server side (2016)](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
 - [Good Books for a Lousy Year](https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2020)
 - [Cloudflare and Apple made a new DNS protocol to protect your data from ISPs](https://www.theverge.com/2020/12/8/22163871/cloudflare-apple-dns-protocol-online-privacy)
 - [Show HN: Over 2M cooking recipes ready for text generation](https://github.com/Glorf/recipenlg)
-- [Notabene (YC S20) Is Hiring](https://notabene.id/jobs/backend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
