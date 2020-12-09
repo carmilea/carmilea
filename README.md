@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Write-Only Interface for Twitter](https://typefully.app/)
+- [Centos.rip](https://centos.rip/)
 - [PlotJuggler 3: fast and intuitive time series visualization](https://github.com/facontidavide/PlotJuggler)
 - [YC runs Work at a Startup to help you find jobs at over 700 YC-vetted startups](http://workatastartup.com/)
 - [Detecting the use of “curl – bash” server side (2016)](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
-- [Good Books for a Lousy Year](https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2020)
-- [Cloudflare and Apple made a new DNS protocol to protect your data from ISPs](https://www.theverge.com/2020/12/8/22163871/cloudflare-apple-dns-protocol-online-privacy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
