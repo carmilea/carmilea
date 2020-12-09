@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Original CentOS founder intends to create new fork of RHEL](http://rockylinux.org)
+- [U.S. Used Patriot Act to Gather Logs of Website Visitors](https://www.nytimes.com/2020/12/03/us/politics/section-215-patriot-act.html)
 - [How the Golden State Killer was found: A covert operation and private DNA](https://www.latimes.com/california/story/2020-12-08/man-in-the-window)
-- [U.S. physicists rally around ambitious plan to build fusion power plant](https://www.sciencemag.org/news/2020/12/us-physicists-rally-around-ambitious-plan-build-fusion-power-plant)
+- [U.S. physicists rally around plan to build fusion power plant](https://www.sciencemag.org/news/2020/12/us-physicists-rally-around-ambitious-plan-build-fusion-power-plant)
 - [ImHex – A Hex Editor](https://github.com/WerWolv/ImHex)
 - [Building a scalable e-commerce data model](https://resources.fabric.inc/blog/ecommerce-data-model)
 <!-- BLOG-POST-LIST:END -->
