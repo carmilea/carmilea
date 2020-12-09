@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deno 1.6 supports compiling TypeScript to a single executable](https://github.com/denoland/deno/issues/986#issuecomment-740756795)
+- [Starship – SN8 – High-Altitude Flight Test](https://www.youtube.com/watch?v=ap-BkkrRg-o&feature=emb_logo)
 - [Flash Player EOL, Adobe Announces 12-Day Grace Period](https://datahorde.org/?p=1856)
 - [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/careers)
 - [Rails 6.1](https://weblog.rubyonrails.org/2020/12/9/Rails-6-1-0-release/)
-- [On Marlon Brando (1973)](https://www.villagevoice.com/2020/12/06/on-marlon-brando-an-essay-in-nine-parts/)
-- [Hyundai to acquire Boston Dynamics](https://www.therobotreport.com/hyundai-acquires-boston-dynamics-for-921m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
