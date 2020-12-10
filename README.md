@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Covid-19 vaccine: Allergy warning](https://www.bbc.com/news/health-55244122)
+- [Google Chief Apologizes for A.I. Researcher’s Dismissal](https://www.nytimes.com/2020/12/09/technology/timnit-gebru-google-pichai.html)
+- [A Non-Hallucinogenic Psychedelic Analog for Treating Mental Illness](https://chemistry.ucdavis.edu/news/non-hallucinogenic-psychedelic-analog-treating-mental-illness)
+- [California judge says L.A. officials 'arbitrarily' set outdoor dining ban](https://www.politico.com/states/california/story/2020/12/08/california-judge-says-la-officials-arbitrarily-set-outdoor-dining-ban-9424881)
 - [Open Security Training: open license training material for computer security](https://opensecuritytraining.info/)
 - [Steaks Grown from Human Cells Spark Interest and Outrage](https://www.nytimes.com/2020/12/07/arts/design/Ouroboros-Steak-design-museum.html)
-- [Sony acquires anime streaming service Crunchyroll for $1.175B](https://www.polygon.com/2020/12/9/21547657/sonys-funimation-acquires-crunchyroll-deal-price-watching-anime)
-- [Longbets: A bioerror will lead to one million casualties by Dec 2020](https://longbets.org/9/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
