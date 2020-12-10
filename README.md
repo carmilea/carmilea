@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe has released the last Flash update ever](https://www.theverge.com/2020/12/9/22166160/adobe-last-flash-player-update-support-ending-december)
-- [Mux (YC W16) is hiring a support engineer in ~UTC+0](https://mux.com/jobs?hnj=ldn)
-- [A Non-Hallucinogenic Psychedelic Analog for Treating Mental Illness](https://chemistry.ucdavis.edu/news/non-hallucinogenic-psychedelic-analog-treating-mental-illness)
-- [California judge says L.A. officials 'arbitrarily' set outdoor dining ban](https://www.politico.com/states/california/story/2020/12/08/california-judge-says-la-officials-arbitrarily-set-outdoor-dining-ban-9424881)
-- [Open Security Training: open license training material for computer security](https://opensecuritytraining.info/)
+- [Wall Street Begins Trading Water Futures as a Commodity](https://e360.yale.edu/digest/wall-street-begins-trading-water-futures-as-a-commodity)
+- [Pfizer-Biontech vaccine data stolen in cyber attack](https://www.reuters.com/article/us-ema-cyber/hackers-steal-pfizer-biontech-covid-19-vaccine-data-in-europe-companies-say-idUSKBN28J2Q7)
+- [Coronavirus kills more people in the US in one day than on September 11](https://www.abc.net.au/news/2020-12-10/coronavirus-us-marks-deadliest-day-since-september-11/12953842)
+- [Russian 'doomsday' plane's radio equipment stolen by thieves](https://www.bbc.com/news/world-europe-55229438)
+- [Amnesia: IoT flaws dangerous and patches unlikely, say experts](https://www.computerweekly.com/news/252493386/Amnesia33-IoT-flaws-dangerous-and-patches-unlikely-say-experts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
