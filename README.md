@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Age-specific mortality and immunity patterns of SARS-CoV-2](https://www.nature.com/articles/s41586-020-2918-0)
+- [This Week in Rust 368](https://this-week-in-rust.org/blog/2020/12/09/this-week-in-rust-368/)
+- [The CentOS Project Just Committed Suicide](https://fosspost.org/centos-project-suicide/)
 - [Wall Street Begins Trading Water Futures as a Commodity](https://e360.yale.edu/digest/wall-street-begins-trading-water-futures-as-a-commodity)
 - [Pfizer-Biontech vaccine data stolen in cyber attack](https://www.reuters.com/article/us-ema-cyber/hackers-steal-pfizer-biontech-covid-19-vaccine-data-in-europe-companies-say-idUSKBN28J2Q7)
-- [Russian 'doomsday' plane's radio equipment stolen by thieves](https://www.bbc.com/news/world-europe-55229438)
-- [Amnesia: IoT flaws dangerous and patches unlikely, say experts](https://www.computerweekly.com/news/252493386/Amnesia33-IoT-flaws-dangerous-and-patches-unlikely-say-experts)
-- [Free to download public domain art, posters and illustrations](https://artvee.com/?)
 <!-- BLOG-POST-LIST:END -->
 
 ---
