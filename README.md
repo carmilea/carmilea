@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Filmbox – Physically accurate motion picture film emulation](https://videovillage.co/filmbox/)
+- [Bill Ackman: give every American cash at birth so they can retire a millionaire](https://www.businessinsider.com/bill-ackman-give-americans-cash-birth-universal-basic-income-equity-2020-12)
+- [Cyberpunk 2077 runs on Linux through the Proton compatibility layer on day 1](https://twitter.com/Plagman2/status/1336777322607734784)
+- [SpaceX launches and nearly lands starship on its first suborbital flight](https://www.wired.com/story/spacex-launches-and-crashes-its-starship-mars-rocket/)
 - [Deno 1.6 supports compiling TypeScript to a single executable](https://github.com/denoland/deno/issues/986#issuecomment-740756795)
-- [Starship – SN8 – High-Altitude Flight Test](https://www.youtube.com/watch?v=ap-BkkrRg-o&feature=emb_logo)
-- [Flash Player EOL, Adobe Announces 12-Day Grace Period](https://datahorde.org/?p=1856)
-- [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/careers)
-- [Rails 6.1](https://weblog.rubyonrails.org/2020/12/9/Rails-6-1-0-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
