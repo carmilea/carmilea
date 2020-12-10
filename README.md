@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Steaks Grown from Human Cells Spark Interest and Outrage](https://www.nytimes.com/2020/12/07/arts/design/Ouroboros-Steak-design-museum.html)
+- [Sony acquires anime streaming service Crunchyroll for $1.175B](https://www.polygon.com/2020/12/9/21547657/sonys-funimation-acquires-crunchyroll-deal-price-watching-anime)
 - [Filmbox – Physically accurate motion picture film emulation](https://videovillage.co/filmbox/)
 - [Cyberpunk 2077 runs on Linux through the Proton compatibility layer on day 1](https://twitter.com/Plagman2/status/1336777322607734784)
 - [SpaceX launches and nearly lands starship on its first suborbital flight](https://www.wired.com/story/spacex-launches-and-crashes-its-starship-mars-rocket/)
-- [Deno 1.6 supports compiling TypeScript to a single executable](https://github.com/denoland/deno/issues/986#issuecomment-740756795)
-- [HiFiBerryOS](https://github.com/hifiberry/hifiberry-os/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
