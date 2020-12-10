@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Clojure](https://www.thoughtworks.com/podcasts/future-clojure)
+- [Debugging WebAssembly with Modern Tools](https://developers.google.com/web/updates/2020/12/webassembly)
+- [Facebook hit with antitrust probe for tying Oculus use to Facebook accounts](https://techcrunch.com/2020/12/10/facebook-hit-with-antitrust-probe-for-tying-oculus-use-to-facebook-accounts/)
 - [IMAP API – self hosted daemon to access IMAP and SMTP accounts via HTTP API](https://github.com/andris9/imapapi)
 - [Morgan Stanley to Shift About $120B of Assets to Germany](https://www.bloomberg.com/news/articles/2020-12-10/morgan-stanley-to-shift-about-120-billion-of-assets-to-germany)
-- [Bitaccess (YC S14) Is Hiring a General Manager](https://angel.co/company/bitaccess/jobs/1089019-general-manager)
-- [Lessons from Running a Sale That Earned 3 Month's Profit in a Week](https://www.coryzue.com/writing/black-friday/)
-- [Facebook Messenger, Instagram and WhatsApp Outage (Ongoing)](https://developers.facebook.com/status/dashboard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
