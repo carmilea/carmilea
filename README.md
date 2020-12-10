@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Wall Street Begins Trading Water Futures as a Commodity](https://e360.yale.edu/digest/wall-street-begins-trading-water-futures-as-a-commodity)
 - [Pfizer-Biontech vaccine data stolen in cyber attack](https://www.reuters.com/article/us-ema-cyber/hackers-steal-pfizer-biontech-covid-19-vaccine-data-in-europe-companies-say-idUSKBN28J2Q7)
-- [Coronavirus kills more people in the US in one day than on September 11](https://www.abc.net.au/news/2020-12-10/coronavirus-us-marks-deadliest-day-since-september-11/12953842)
 - [Russian 'doomsday' plane's radio equipment stolen by thieves](https://www.bbc.com/news/world-europe-55229438)
 - [Amnesia: IoT flaws dangerous and patches unlikely, say experts](https://www.computerweekly.com/news/252493386/Amnesia33-IoT-flaws-dangerous-and-patches-unlikely-say-experts)
+- [Free to download public domain art, posters and illustrations](https://artvee.com/?)
 <!-- BLOG-POST-LIST:END -->
 
 ---
