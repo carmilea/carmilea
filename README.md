@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [More Americans are shoplifting food](https://www.washingtonpost.com/business/2020/12/10/pandemic-shoplifting-hunger/)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [Ask HN: Successful one-person online businesses?](https://news.ycombinator.com/item?id=25377696)
 - [Google Stories](http://stories.google)
 - [Google: Common Expression Language Spec](https://github.com/google/cel-spec)
-- [A New Take on RSS](https://findka.com/blog/new-take-on-rss/)
-- [The Airbnbs](https://blog.ycombinator.com/the-airbnbs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
