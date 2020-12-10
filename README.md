@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Progress Toward a Safer Psychedelic Drug to Treat Depression and Addiction](https://www.npr.org/sections/health-shots/2020/12/09/944572325/progress-toward-a-safer-psychedelic-drug-to-treat-depression-and-addiction)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [MasterCard to stop processing payments on Pornhub, cites unlawful content](https://www.reuters.com/article/us-pornhub-mastercard/mastercard-to-stop-processing-payments-on-pornhub-cites-unlawful-content-idUSKBN28K30C)
 - [Google Stories](http://stories.google)
-- [Brave Complies with Apple iOS](https://brave.com/rewards-ios/)
+- [Google: Common Expression Language Spec](https://github.com/google/cel-spec)
 - [CentOS 8 vs. Amazon Linux 2](https://computingforgeeks.com/centos-vs-amazon-linux-feature-comparison/)
-- [Cyberpunk 2077 a 'warning' about the future](https://www.bbc.com/news/newsbeat-55247702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
