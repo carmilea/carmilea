@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe has released the last Flash update ever](https://www.theverge.com/2020/12/9/22166160/adobe-last-flash-player-update-support-ending-december)
 - [Mux (YC W16) is hiring a support engineer in ~UTC+0](https://mux.com/jobs?hnj=ldn)
 - [A Non-Hallucinogenic Psychedelic Analog for Treating Mental Illness](https://chemistry.ucdavis.edu/news/non-hallucinogenic-psychedelic-analog-treating-mental-illness)
 - [California judge says L.A. officials 'arbitrarily' set outdoor dining ban](https://www.politico.com/states/california/story/2020/12/08/california-judge-says-la-officials-arbitrarily-set-outdoor-dining-ban-9424881)
 - [Open Security Training: open license training material for computer security](https://opensecuritytraining.info/)
-- [Steaks Grown from Human Cells Spark Interest and Outrage](https://www.nytimes.com/2020/12/07/arts/design/Ouroboros-Steak-design-museum.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
