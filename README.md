@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Age-specific mortality and immunity patterns of SARS-CoV-2](https://www.nature.com/articles/s41586-020-2918-0)
-- [This Week in Rust 368](https://this-week-in-rust.org/blog/2020/12/09/this-week-in-rust-368/)
-- [The CentOS Project Just Committed Suicide](https://fosspost.org/centos-project-suicide/)
-- [Wall Street Begins Trading Water Futures as a Commodity](https://e360.yale.edu/digest/wall-street-begins-trading-water-futures-as-a-commodity)
-- [Pfizer-Biontech vaccine data stolen in cyber attack](https://www.reuters.com/article/us-ema-cyber/hackers-steal-pfizer-biontech-covid-19-vaccine-data-in-europe-companies-say-idUSKBN28J2Q7)
+- [Morgan Stanley to Shift About $120B of Assets to Germany](https://www.bloomberg.com/news/articles/2020-12-10/morgan-stanley-to-shift-about-120-billion-of-assets-to-germany)
+- [Bitaccess (YC S14) Is Hiring a General Manager](https://angel.co/company/bitaccess/jobs/1089019-general-manager)
+- [Lessons from Running a Sale That Earned 3 Month's Profit in a Week](https://www.coryzue.com/writing/black-friday/)
+- [Facebook Messenger, Instagram and WhatsApp Outage (Ongoing)](https://developers.facebook.com/status/dashboard/)
+- [French watchdog fines Google, Amazon for breaching cookies rules](https://fr.reuters.com/article/idUSKBN28K0NA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
