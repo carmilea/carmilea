@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Covid-19 vaccine: Allergy warning](https://www.bbc.com/news/health-55244122)
+- [Open Security Training: open license training material for computer security](https://opensecuritytraining.info/)
 - [Steaks Grown from Human Cells Spark Interest and Outrage](https://www.nytimes.com/2020/12/07/arts/design/Ouroboros-Steak-design-museum.html)
 - [Sony acquires anime streaming service Crunchyroll for $1.175B](https://www.polygon.com/2020/12/9/21547657/sonys-funimation-acquires-crunchyroll-deal-price-watching-anime)
-- [Filmbox – Physically accurate motion picture film emulation](https://videovillage.co/filmbox/)
-- [Cyberpunk 2077 runs on Linux through the Proton compatibility layer on day 1](https://twitter.com/Plagman2/status/1336777322607734784)
-- [SpaceX launches and nearly lands starship on its first suborbital flight](https://www.wired.com/story/spacex-launches-and-crashes-its-starship-mars-rocket/)
+- [Longbets: A bioerror will lead to one million casualties by Dec 2020](https://longbets.org/9/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
