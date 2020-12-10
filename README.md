@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting our first 1000 users in one day](https://francescodilorenzo.com/typefully-launch)
+- [Ask HN: Losing all interest in programming, what now?](https://news.ycombinator.com/item?id=25374140)
 - [The Future of Clojure](https://www.thoughtworks.com/podcasts/future-clojure)
 - [Debugging WebAssembly with Modern Tools](https://developers.google.com/web/updates/2020/12/webassembly)
 - [Facebook hit with antitrust probe for tying Oculus use to Facebook accounts](https://techcrunch.com/2020/12/10/facebook-hit-with-antitrust-probe-for-tying-oculus-use-to-facebook-accounts/)
-- [IMAP API – self hosted daemon to access IMAP and SMTP accounts via HTTP API](https://github.com/andris9/imapapi)
-- [Morgan Stanley to Shift About $120B of Assets to Germany](https://www.bloomberg.com/news/articles/2020-12-10/morgan-stanley-to-shift-about-120-billion-of-assets-to-germany)
 <!-- BLOG-POST-LIST:END -->
 
 ---
