@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Florida’s justification for raiding whistleblower Rebekah Jones is looking shaky](https://www.theverge.com/2020/12/9/22166012/florida-raid-rebekah-jones-covid-19-data-dashboard)
+- [Mux (YC W16) is hiring a support engineer in ~UTC+0](https://mux.com/jobs?hnj=ldn)
 - [A Non-Hallucinogenic Psychedelic Analog for Treating Mental Illness](https://chemistry.ucdavis.edu/news/non-hallucinogenic-psychedelic-analog-treating-mental-illness)
 - [California judge says L.A. officials 'arbitrarily' set outdoor dining ban](https://www.politico.com/states/california/story/2020/12/08/california-judge-says-la-officials-arbitrarily-set-outdoor-dining-ban-9424881)
 - [Open Security Training: open license training material for computer security](https://opensecuritytraining.info/)
