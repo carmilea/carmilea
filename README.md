@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s Time to Embrace Kubernetes Really?](https://www.pulumi.com/blog/embrace-kubernetes-part1/)
-- [Ask HN: I'm quitting my job. Will create a game. Any advice?](https://news.ycombinator.com/item?id=25376714)
-- [The Airbnbs](https://blog.ycombinator.com/the-airbnbs/)
-- [Centaur Labs (YC W19 – medical data labeling at scale) is hiring engineers](https://www.centaurlabs.com/careers)
-- [Double fetches, scheduling algorithms, and onion rings](https://offlinemark.com/2020/11/12/double-fetches-scheduling-algorithms-onion-rings/)
+- [Progress Toward a Safer Psychedelic Drug to Treat Depression and Addiction](https://www.npr.org/sections/health-shots/2020/12/09/944572325/progress-toward-a-safer-psychedelic-drug-to-treat-depression-and-addiction)
+- [Google Stories](http://stories.google)
+- [Brave Complies with Apple iOS](https://brave.com/rewards-ios/)
+- [CentOS 8 vs. Amazon Linux 2](https://computingforgeeks.com/centos-vs-amazon-linux-feature-comparison/)
+- [Cyberpunk 2077 a 'warning' about the future](https://www.bbc.com/news/newsbeat-55247702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
