@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Chief Apologizes for A.I. Researcher’s Dismissal](https://www.nytimes.com/2020/12/09/technology/timnit-gebru-google-pichai.html)
+- [Florida’s justification for raiding whistleblower Rebekah Jones is looking shaky](https://www.theverge.com/2020/12/9/22166012/florida-raid-rebekah-jones-covid-19-data-dashboard)
 - [A Non-Hallucinogenic Psychedelic Analog for Treating Mental Illness](https://chemistry.ucdavis.edu/news/non-hallucinogenic-psychedelic-analog-treating-mental-illness)
 - [California judge says L.A. officials 'arbitrarily' set outdoor dining ban](https://www.politico.com/states/california/story/2020/12/08/california-judge-says-la-officials-arbitrarily-set-outdoor-dining-ban-9424881)
 - [Open Security Training: open license training material for computer security](https://opensecuritytraining.info/)
