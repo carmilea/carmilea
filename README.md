@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting our first 1000 users in one day](https://francescodilorenzo.com/typefully-launch)
-- [Ask HN: Losing all interest in programming, what now?](https://news.ycombinator.com/item?id=25374140)
-- [The Future of Clojure](https://www.thoughtworks.com/podcasts/future-clojure)
-- [Debugging WebAssembly with Modern Tools](https://developers.google.com/web/updates/2020/12/webassembly)
-- [Facebook hit with antitrust probe for tying Oculus use to Facebook accounts](https://techcrunch.com/2020/12/10/facebook-hit-with-antitrust-probe-for-tying-oculus-use-to-facebook-accounts/)
+- [New Relic to open-source Pixie’s eBPF observability platform](https://blog.pixielabs.ai/pixie-new-relic/)
+- [A guide to product analytics tools for startups](https://satchel.com/web-analytics/)
+- [CentOS Stream, or Debian?](https://jonathancarter.org/2020/12/10/centos-stream-or-debian/)
+- [Anti-fingerprinting extensions tend to make fingerprinting easier](https://palant.info/2020/12/10/how-anti-fingerprinting-extensions-tend-to-make-fingerprinting-easier/)
+- [Getting our first thousand users in one day](https://francescodilorenzo.com/typefully-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
