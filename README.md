@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Centaur Labs (YC W19 – medical data labeling at scale) is hiring engineers](https://www.centaurlabs.com/careers)
+- [The 'app store' before the App Store wants to liberate your iPhone again](https://www.washingtonpost.com/technology/2020/12/10/cydia-apple-lawsuit/)
+- [After Centuries, a Seemingly Simple Math Problem Gets an Exact Solution](https://www.quantamagazine.org/mathematician-solves-centuries-old-grazing-goat-problem-exactly-20201209/)
+- [Middle America is still racking up a ton of new coronavirus cases](https://www.axios.com/middle-america-is-still-racking-up-a-ton-of-new-coronavirus-cases-597035c0-c922-4baf-8691-103881150c9f.html)
 - [New Relic to open-source Pixie’s eBPF observability platform](https://blog.pixielabs.ai/pixie-new-relic/)
-- [A guide to product analytics tools for startups](https://satchel.com/web-analytics/)
-- [CentOS Stream, or Debian?](https://jonathancarter.org/2020/12/10/centos-stream-or-debian/)
-- [Anti-fingerprinting extensions tend to make fingerprinting easier](https://palant.info/2020/12/10/how-anti-fingerprinting-extensions-tend-to-make-fingerprinting-easier/)
-- [Getting our first thousand users in one day](https://francescodilorenzo.com/typefully-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
