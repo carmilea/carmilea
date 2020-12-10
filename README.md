@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s Time to Embrace Kubernetes Really?](https://www.pulumi.com/blog/embrace-kubernetes-part1/)
+- [Ask HN: I'm quitting my job. Will create a game. Any advice?](https://news.ycombinator.com/item?id=25376714)
+- [The Airbnbs](https://blog.ycombinator.com/the-airbnbs/)
 - [Centaur Labs (YC W19 – medical data labeling at scale) is hiring engineers](https://www.centaurlabs.com/careers)
-- [The 'app store' before the App Store wants to liberate your iPhone again](https://www.washingtonpost.com/technology/2020/12/10/cydia-apple-lawsuit/)
-- [After Centuries, a Seemingly Simple Math Problem Gets an Exact Solution](https://www.quantamagazine.org/mathematician-solves-centuries-old-grazing-goat-problem-exactly-20201209/)
-- [New Relic to open-source Pixie’s eBPF observability platform](https://blog.pixielabs.ai/pixie-new-relic/)
-- [A guide to product analytics tools for startups](https://satchel.com/web-analytics/)
+- [Double fetches, scheduling algorithms, and onion rings](https://offlinemark.com/2020/11/12/double-fetches-scheduling-algorithms-onion-rings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
