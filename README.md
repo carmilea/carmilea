@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [MasterCard to stop processing payments on Pornhub, cites unlawful content](https://www.reuters.com/article/us-pornhub-mastercard/mastercard-to-stop-processing-payments-on-pornhub-cites-unlawful-content-idUSKBN28K30C)
 - [Google Stories](http://stories.google)
 - [Google: Common Expression Language Spec](https://github.com/google/cel-spec)
-- [CentOS 8 vs. Amazon Linux 2](https://computingforgeeks.com/centos-vs-amazon-linux-feature-comparison/)
+- [A New Take on RSS](https://findka.com/blog/new-take-on-rss/)
+- [The Airbnbs](https://blog.ycombinator.com/the-airbnbs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
