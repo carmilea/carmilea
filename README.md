@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Raycast (YC W20) Is Hiring Back End Software Engineers (EU, Remote)](https://raycast.com/jobs/software-engineer-backend)
+- [Welcome to the Museum of Bad Album Covers](http://www.zonicweb.net/badalbmcvrs/index.htm)
+- [Microsoft releases a preview of x64 emulation on Windows for ARM](https://blogs.windows.com/windows-insider/2020/12/10/announcing-windows-10-insider-preview-build-21277/)
+- [Raycast (YC W20) Is Hiring Backend Software Engineers (Remote, UTC ± 3 hours)](https://raycast.com/jobs/software-engineer-backend)
+- [Brave Introduces Brave Today, the Privacy-Preserving News Reader](https://brave.com/announcing-brave-today/)
 - [Monads and GATs in Nightly Rust](https://www.fpcomplete.com/blog/monads-gats-nightly-rust/)
-- [Vftool runs Linux virtual machines in macOS Big Sur](https://github.com/evansm7/vftool)
-- [Some doctors, therapists get Health Canada permission to use magic mushrooms](https://www.cbc.ca/news/canada/london/some-doctors-therapists-get-health-canada-permission-to-use-magic-mushrooms-1.5834485)
-- [Pornhub banned from credit card networks](https://arstechnica.com/tech-policy/2020/12/visa-and-mastercard-ban-pornhub-over-abusive-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
