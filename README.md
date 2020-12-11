@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Repl.it (YC W18) Is Hiring designers to build better programming environments](https://jobs.lever.co/replit/4ef495be-6ced-42d9-bcc1-3c6f57a346bd)
-- [Self-Victimhood Is a Personality Type, Researchers Find](https://reason.com/2020/12/10/tendency-for-interpersonal-victimhood-trauma-research-study-trigger/)
-- [Elon Musk Decries ‘M.B.A.-ization’ of America](https://www.wsj.com/articles/elon-musk-decries-m-b-a-ization-of-america-11607548589)
-- [$100 robot kit running ROS2 and Navigation2](https://blog.hadabot.com/ros2-nav2-go-to-goal-low-cost-robot-kit.html)
-- [Emacs Survey 2020 Results](https://emacssurvey.org/2020/)
+- [Oracle Moving HQ to Austin](https://www.sec.gov/ix?doc=/Archives/edgar/data/1341439/000156459020056896/orcl-10q_20201130.htm)
+- [Poll: Will you take the Covid vaccine?](https://news.ycombinator.com/item?id=25391159)
+- [Electric Monarch tractor can plow a field without a driver and run for ten hours](https://www.thedrive.com/news/38032/the-50k-electric-monarch-tractor-can-plow-a-field-without-you-and-run-for-10-hours)
+- [The Zodiac Killer's most uncrackable cipher has, at last, been solved](https://www.sfgate.com/crime/article/zodiac-340-cipher-solved-solution-code-15795178.php)
+- [Repl.it (YC W18) is hiring designers to build better programming environments](https://jobs.lever.co/replit/4ef495be-6ced-42d9-bcc1-3c6f57a346bd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
