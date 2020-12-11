@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vitamin D and Covid-19](https://vitamin-d-covid.shotwell.ca/)
+- [Cypress: Fast, easy, and reliable testing for anything that runs in the browser](https://www.cypress.io/)
+- [Ask HN: What's are your personal automations?](https://news.ycombinator.com/item?id=25381191)
+- [Combinatorial Theory Journal Launches with Innovative Open Access Funding Model](https://osc.universityofcalifornia.edu/2020/12/combinatorial-theory-launches/)
 - [Honeybees found using tools to repel giant hornet attacks](https://www.nationalgeographic.com/animals/2020/12/honeybees-use-tools-dung-repels-giant-hornets/)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [Google Stories](http://stories.google)
-- [Common Expression Language](https://github.com/google/cel-spec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
