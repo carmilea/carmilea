@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How did Apple manage to create such a better chip than Intel?](https://news.ycombinator.com/item?id=25381537)
+- [Toyota's game-changing solid-state battery](https://asia.nikkei.com/content/4c8b11d1c65d83d23ba9aeb11030a947)
 - [How the Slowest Computer Programs Illuminate Math’s Fundamental Limits](https://www.quantamagazine.org/the-busy-beaver-game-illuminates-the-fundamental-limits-of-math-20201210/)
-- [I Did the Math on My Town’s Cul-de-Sacs. Here's What I Found](https://www.strongtowns.org/journal/2020/8/10/i-did-the-math-on-my-towns-cul-de-sacs)
 - [Cypress: Fast, easy, and reliable testing for anything that runs in a browser](https://www.cypress.io/)
+- [Coca-Cola named world’s worst plastic polluter for third straight year](https://www.independent.co.uk/environment/coca-cola-plastic-pollution-nestle-pepsico-b1767370.html)
 - [Google Alternatives](https://justprivacy.org/google-alternatives/)
 <!-- BLOG-POST-LIST:END -->
 
