@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gustav (YC S17) Is Hiring – Growth Product Manager (Fully Remote)](https://gustav-technologies-inc.breezy.hr/p/a8a7f360866101)
+- [Major browsers are getting hit in widespread malware attacks](https://arstechnica.com/information-technology/2020/12/ongoing-malware-attacks-are-hitting-users-of-4-major-browsers/)
+- [Study Indicates Diet May Help Reduce Congitive Decline](https://www.research.iastate.edu/news/isu-study-indicates-diet-may-help-reduce-cognitive-decline/)
 - [We can have democracy or we can have Facebook](https://the.ink/p/we-can-have-democracy-or-we-can-have)
 - [Museum of Bad Album Covers](http://www.zonicweb.net/badalbmcvrs/index.htm)
-- [Decrypting the Signal App](https://www.cellebrite.com/en/blog/cellebrites-new-solution-for-decrypting-the-signal-app/)
-- [Microsoft releases a preview of x64 emulation on Windows for ARM](https://blogs.windows.com/windows-insider/2020/12/10/announcing-windows-10-insider-preview-build-21277/)
-- [Raycast (YC W20) Is Hiring Backend Software Engineers (Remote, UTC ± 3 hours)](https://raycast.com/jobs/software-engineer-backend)
 <!-- BLOG-POST-LIST:END -->
 
 ---
