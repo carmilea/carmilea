@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU leaders agree to cut emissions by at least 55% by end of decade](https://www.theguardian.com/world/2020/dec/11/eu-leaders-reach-deal-to-cut-emissions-by-at-least-55-by-end-of-decade)
+- [GnuCOBOL 3.1.1](https://sourceforge.net/p/gnucobol/code/HEAD/tree/branches/gnucobol-3.x/NEWS)
 - [Gustav (YC S17) Is Hiring – Growth Product Manager (Fully Remote)](https://gustav-technologies-inc.breezy.hr/p/a8a7f360866101)
 - [Major browsers are getting hit in widespread malware attacks](https://arstechnica.com/information-technology/2020/12/ongoing-malware-attacks-are-hitting-users-of-4-major-browsers/)
-- [Study Indicates Diet May Help Reduce Congitive Decline](https://www.research.iastate.edu/news/isu-study-indicates-diet-may-help-reduce-cognitive-decline/)
-- [We can have democracy or we can have Facebook](https://the.ink/p/we-can-have-democracy-or-we-can-have)
-- [Museum of Bad Album Covers](http://www.zonicweb.net/badalbmcvrs/index.htm)
+- [Diet may help reduce cognitive decline](https://www.research.iastate.edu/news/isu-study-indicates-diet-may-help-reduce-cognitive-decline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
