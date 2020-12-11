@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The M1 MacBook Air: Perfection](https://500ish.com/the-m1-macbook-air-perfection-d3033f8488ce)
+- [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 - [Airbnb’s Stunning IPO](https://www.nytimes.com/2020/12/11/business/dealbook/airbnb-ipo-chesky.html)
-- [Working from home at 25MHz: You could do worse than a Quadra 700 (even in 2020)](https://arstechnica.com/information-technology/2020/12/it-still-runs-on-your-imagination-passing-2020-time-with-a-macintosh-quadra-700/)
-- [Who Americans spend their time with, by age](https://ourworldindata.org/time-with-others-lifetime)
-- [EU leaders agree to cut emissions by at least 55% by end of decade](https://www.theguardian.com/world/2020/dec/11/eu-leaders-reach-deal-to-cut-emissions-by-at-least-55-by-end-of-decade)
+- [Implementing Rust's Dbg in Python](https://rtpg.co/2020/12/11/dbg-in-python.html)
+- [Working from home at 25MHz: You could do worse than a Quadra 700, even in 2020](https://arstechnica.com/information-technology/2020/12/it-still-runs-on-your-imagination-passing-2020-time-with-a-macintosh-quadra-700/)
+- [Why does Linux have so much trouble sleeping and waking?](https://news.ycombinator.com/item?id=25385860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
