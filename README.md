@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Repl.it (YC W18) Is Hiring designers to build better programming environments](https://jobs.lever.co/replit/4ef495be-6ced-42d9-bcc1-3c6f57a346bd)
+- [Self-Victimhood Is a Personality Type, Researchers Find](https://reason.com/2020/12/10/tendency-for-interpersonal-victimhood-trauma-research-study-trigger/)
 - [Elon Musk Decries ‘M.B.A.-ization’ of America](https://www.wsj.com/articles/elon-musk-decries-m-b-a-ization-of-america-11607548589)
 - [$100 robot kit running ROS2 and Navigation2](https://blog.hadabot.com/ros2-nav2-go-to-goal-low-cost-robot-kit.html)
-- [Sales tax creates more unnecessary pain than value added tax](https://dyno-might.github.io/2020/12/09/sales-tax-creates-more-unnecessary-pain-than-value-added-tax/)
 - [Emacs Survey 2020 Results](https://emacssurvey.org/2020/)
-- [1MW Molten-Salt Test Reactor by Copenhagen Atomic for €88k](https://www.youtube.com/watch?v=A9zfYTWjZqk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
