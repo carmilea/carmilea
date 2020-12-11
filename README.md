@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why does Linux have so much trouble sleeping and waking?](https://news.ycombinator.com/item?id=25385860)
+- [The M1 MacBook Air: Perfection](https://500ish.com/the-m1-macbook-air-perfection-d3033f8488ce)
+- [Airbnb’s Stunning IPO](https://www.nytimes.com/2020/12/11/business/dealbook/airbnb-ipo-chesky.html)
+- [Working from home at 25MHz: You could do worse than a Quadra 700 (even in 2020)](https://arstechnica.com/information-technology/2020/12/it-still-runs-on-your-imagination-passing-2020-time-with-a-macintosh-quadra-700/)
+- [Who Americans spend their time with, by age](https://ourworldindata.org/time-with-others-lifetime)
 - [EU leaders agree to cut emissions by at least 55% by end of decade](https://www.theguardian.com/world/2020/dec/11/eu-leaders-reach-deal-to-cut-emissions-by-at-least-55-by-end-of-decade)
-- [GnuCOBOL 3.1.1](https://sourceforge.net/p/gnucobol/code/HEAD/tree/branches/gnucobol-3.x/NEWS)
-- [Gustav (YC S17) Is Hiring – Growth Product Manager (Fully Remote)](https://gustav-technologies-inc.breezy.hr/p/a8a7f360866101)
-- [Major browsers are getting hit in widespread malware attacks](https://arstechnica.com/information-technology/2020/12/ongoing-malware-attacks-are-hitting-users-of-4-major-browsers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
