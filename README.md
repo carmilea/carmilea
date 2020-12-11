@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [The Know Show: Data for Child Safety](https://www.youtube.com/watch?v=O4j9zR7mdSY)
 - [SingleStore Sharding and Shard Keys](https://www.youtube.com/watch?v=_vYmGkynuIw)
 - [Simplify your data strategy with #DataMesh](https://www.youtube.com/watch?v=0TpZUNd3Q8s)
 - [The Know Show: Monster Data](https://www.youtube.com/watch?v=thunJNr2zMQ)
 - [#SingleStore, #Prometheus, and #Grafana](https://www.youtube.com/watch?v=m46bppE3alc)
-- [SingleStore, The Database of Now™](https://www.youtube.com/watch?v=mo0m-nShLb4)
 <!-- YOUTUBE:END -->
 
 
