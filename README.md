@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We can have democracy or we can have Facebook](https://the.ink/p/we-can-have-democracy-or-we-can-have)
 - [Museum of Bad Album Covers](http://www.zonicweb.net/badalbmcvrs/index.htm)
-- [Heavy is the Head that wears the AirPods Max](https://daringfireball.net/2020/12/heavy_is_the_head_that_wears_the_airpods_max)
+- [Decrypting the Signal App](https://www.cellebrite.com/en/blog/cellebrites-new-solution-for-decrypting-the-signal-app/)
 - [Microsoft releases a preview of x64 emulation on Windows for ARM](https://blogs.windows.com/windows-insider/2020/12/10/announcing-windows-10-insider-preview-build-21277/)
 - [Raycast (YC W20) Is Hiring Backend Software Engineers (Remote, UTC ± 3 hours)](https://raycast.com/jobs/software-engineer-backend)
-- [Brave Introduces Brave Today, the Privacy-Preserving News Reader](https://brave.com/announcing-brave-today/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
