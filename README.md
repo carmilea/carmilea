@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk: I think there might be too many MBAs running companies](https://www.wsj.com/articles/elon-musk-decries-m-b-a-ization-of-america-11607548589)
-- [Key People Are Leaving Facebook and Torching the Company in Departure Notes](https://www.buzzfeednews.com/article/ryanmac/facebook-rules-hate-speech-employees-leaving)
-- [Daily U.S. death toll will exceed 9/11′s for months, CDC director says](https://www.washingtonpost.com/nation/2020/12/11/coronavirus-covid-live-updates-us/)
-- [Emacs Survey 2020](https://emacssurvey.org/2020/)
+- [Elon Musk Decries ‘M.B.A.-ization’ of America](https://www.wsj.com/articles/elon-musk-decries-m-b-a-ization-of-america-11607548589)
+- [$100 robot kit running ROS2 and Navigation2](https://blog.hadabot.com/ros2-nav2-go-to-goal-low-cost-robot-kit.html)
+- [Sales tax creates more unnecessary pain than value added tax](https://dyno-might.github.io/2020/12/09/sales-tax-creates-more-unnecessary-pain-than-value-added-tax/)
+- [Emacs Survey 2020 Results](https://emacssurvey.org/2020/)
 - [1MW Molten-Salt Test Reactor by Copenhagen Atomic for €88k](https://www.youtube.com/watch?v=A9zfYTWjZqk)
 <!-- BLOG-POST-LIST:END -->
 
