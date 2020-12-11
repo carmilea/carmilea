@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cypress: Fast, easy, and reliable testing for anything that runs in the browser](https://www.cypress.io/)
-- [Ask HN: What's are your personal automations?](https://news.ycombinator.com/item?id=25381191)
-- [Combinatorial Theory Journal Launches with Innovative Open Access Funding Model](https://osc.universityofcalifornia.edu/2020/12/combinatorial-theory-launches/)
-- [Honeybees found using tools to repel giant hornet attacks](https://www.nationalgeographic.com/animals/2020/12/honeybees-use-tools-dung-repels-giant-hornets/)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [Ask HN: How did Apple manage to create such a better chip than Intel?](https://news.ycombinator.com/item?id=25381537)
+- [How the Slowest Computer Programs Illuminate Math’s Fundamental Limits](https://www.quantamagazine.org/the-busy-beaver-game-illuminates-the-fundamental-limits-of-math-20201210/)
+- [I Did the Math on My Town’s Cul-de-Sacs. Here's What I Found](https://www.strongtowns.org/journal/2020/8/10/i-did-the-math-on-my-towns-cul-de-sacs)
+- [Cypress: Fast, easy, and reliable testing for anything that runs in a browser](https://www.cypress.io/)
+- [Google Alternatives](https://justprivacy.org/google-alternatives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
