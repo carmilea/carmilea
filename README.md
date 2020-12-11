@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast (YC W20) Is Hiring Back End Software Engineers (EU, Remote)](https://raycast.com/jobs/software-engineer-backend)
 - [Vftool runs Linux virtual machines in macOS Big Sur](https://github.com/evansm7/vftool)
 - [Some doctors, therapists get Health Canada permission to use magic mushrooms](https://www.cbc.ca/news/canada/london/some-doctors-therapists-get-health-canada-permission-to-use-magic-mushrooms-1.5834485)
-- [The Moral Case for a Wealth Tax Has Never Been Clearer](https://www.wbur.org/cognoscenti/2020/12/10/massachusetts-wealth-tax-pandemic-covid-19-miles-howard)
-- [Google creates criticality score for OSS](https://opensource.googleblog.com/)
+- [Finding Critical Open Source Projects](https://opensource.googleblog.com/)
 - [How the Slowest Computer Programs Illuminate Math’s Fundamental Limits](https://www.quantamagazine.org/the-busy-beaver-game-illuminates-the-fundamental-limits-of-math-20201210/)
 <!-- BLOG-POST-LIST:END -->
 
