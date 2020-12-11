@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1MW Molten-Salt Test Reactor by Copenhagen Atomic for €88k](https://www.youtube.com/watch?v=A9zfYTWjZqk)
 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [Starship SN9 damaged in an accident in the high-bay](https://twitter.com/Erdayastronaut/status/1337418241346576384)
 - [Ask HN: What are your best tips or resources when it comes to marketing?](https://news.ycombinator.com/item?id=25387367)
 - [Smash Training Retrospective](https://waleedkhan.name/blog/smash-training-retrospective/)
-- [Show HN: How I got to $9.99 MRR after 7 years](https://cloak.ist/blog/how-i-got-to-9-99-mrr-after-7-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
