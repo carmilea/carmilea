@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to the Museum of Bad Album Covers](http://www.zonicweb.net/badalbmcvrs/index.htm)
+- [Museum of Bad Album Covers](http://www.zonicweb.net/badalbmcvrs/index.htm)
+- [Heavy is the Head that wears the AirPods Max](https://daringfireball.net/2020/12/heavy_is_the_head_that_wears_the_airpods_max)
 - [Microsoft releases a preview of x64 emulation on Windows for ARM](https://blogs.windows.com/windows-insider/2020/12/10/announcing-windows-10-insider-preview-build-21277/)
 - [Raycast (YC W20) Is Hiring Backend Software Engineers (Remote, UTC ± 3 hours)](https://raycast.com/jobs/software-engineer-backend)
 - [Brave Introduces Brave Today, the Privacy-Preserving News Reader](https://brave.com/announcing-brave-today/)
-- [Monads and GATs in Nightly Rust](https://www.fpcomplete.com/blog/monads-gats-nightly-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
