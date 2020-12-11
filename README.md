@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vftool runs Linux virtual machines in macOS Big Sur](https://github.com/evansm7/vftool)
 - [Some doctors, therapists get Health Canada permission to use magic mushrooms](https://www.cbc.ca/news/canada/london/some-doctors-therapists-get-health-canada-permission-to-use-magic-mushrooms-1.5834485)
-- [Toyota's game-changing solid-state battery](https://asia.nikkei.com/content/4c8b11d1c65d83d23ba9aeb11030a947)
+- [The Moral Case for a Wealth Tax Has Never Been Clearer](https://www.wbur.org/cognoscenti/2020/12/10/massachusetts-wealth-tax-pandemic-covid-19-miles-howard)
 - [Google creates criticality score for OSS](https://opensource.googleblog.com/)
 - [How the Slowest Computer Programs Illuminate Math’s Fundamental Limits](https://www.quantamagazine.org/the-busy-beaver-game-illuminates-the-fundamental-limits-of-math-20201210/)
-- [Cypress: Fast, easy, and reliable testing for anything that runs in a browser](https://www.cypress.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
