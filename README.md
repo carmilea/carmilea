@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is anyone working on a less painful intubation tube?](https://news.ycombinator.com/item?id=25395314)
-- [FDA Issuing Emergency Use Authorization for First Covid-19 Vaccine](https://www.fda.gov/news-events/press-announcements/fda-takes-key-action-fight-against-covid-19-issuing-emergency-use-authorization-first-covid-19)
-- [Molly](https://thevolta.org/im-bbutler.html)
-- [Show HN: Devbook – Search Engine for Developers](https://usedevbook.com)
-- [The Anti-Mac User Interface (1996)](https://www.nngroup.com/articles/anti-mac-interface/)
+- [How the novel coronavirus has evolved](https://graphics.reuters.com/HEALTH-CORONAVIRUS/EVOLUTION/yxmpjqkdzvr/index.html)
+- [FCC RDOF (broadband grant auction) winners map, color coded by bidder](https://experience.arcgis.com/experience/0b324cabf7b94d9ca34caa9361122d94/)
+- [Gamers allege EA uses Dynamic Difficulty Adjustment so players spend more money](https://slate.com/technology/2020/12/electronic-arts-fifa-madden-nhl-lawsuit-dynamic-difficulty-adjustment.html)
+- [Talk about “AI” in the press these days tends to conflate two things](https://nostalgebraist.tumblr.com/post/636924589769998336/talk-about-ai-in-the-press-these-days-tends-to)
+- [Amazon owns more than $2B worth of IPv4 addresses](https://dangoldin.com/2020/12/11/amazon-owns-more-than-2b-worth-of-ipv4-addresses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
