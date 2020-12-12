@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is anyone working on a less painful intubation tube?](https://news.ycombinator.com/item?id=25395314)
 - [FDA Issuing Emergency Use Authorization for First Covid-19 Vaccine](https://www.fda.gov/news-events/press-announcements/fda-takes-key-action-fight-against-covid-19-issuing-emergency-use-authorization-first-covid-19)
-- [ARM MacBook vs. Intel MacBook](https://lemire.me/blog/2020/12/11/arm-macbook-vs-intel-macbook/)
 - [The Anti-Mac User Interface (1996)](https://www.nngroup.com/articles/anti-mac-interface/)
 - [The YouTube ban is un-American, wrong, and will backfire](https://taibbi.substack.com/p/the-youtube-ban-is-un-american-wrong)
 - [Oracle Moving HQ to Austin](https://www.sec.gov/ix?doc=/Archives/edgar/data/1341439/000156459020056896/orcl-10q_20201130.htm)
