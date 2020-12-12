@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ARM MacBook vs. Intel MacBook](https://lemire.me/blog/2020/12/11/arm-macbook-vs-intel-macbook/)
 - [The Anti-Mac User Interface (1996)](https://www.nngroup.com/articles/anti-mac-interface/)
 - [Show HN: Discover $ monthly revenue of OnlyFans models](https://ofans.herokuapp.com)
-- [Almost one in five Americans may have been infected with Covid-19](https://www.economist.com/graphic-detail/2020/12/10/almost-one-in-five-americans-may-have-been-infected-with-covid-19)
 - [The YouTube ban is un-American, wrong, and will backfire](https://taibbi.substack.com/p/the-youtube-ban-is-un-american-wrong)
 - [Oracle Moving HQ to Austin](https://www.sec.gov/ix?doc=/Archives/edgar/data/1341439/000156459020056896/orcl-10q_20201130.htm)
 <!-- BLOG-POST-LIST:END -->
