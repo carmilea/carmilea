@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google fired employees for union activity, says US agency](https://www.bbc.com/news/technology-55173063)
 - [The unexpected rule of adjectival ordering in English](https://qz.com/773738/how-non-english-speakers-are-taught-this-crazy-english-grammar-rule-you-know-but-youve-never-heard-of/)
+- [How UI developers can adapt, not die](https://triplebyte.com/blog/everything-about-software-ui-is-changing-heres-how-engineers-can-keep-up?ref=hnpost)
 - [Longest known exposure photograph ever captured using a beer can](https://www.herts.ac.uk/about-us/media-centre/news/2020/longest-known-exposure-photograph-ever-captured-using-a-beer-can)
 - [Automate any tasks that require multiple entries of data in a browser](https://cognifirm.com/)
-- [How the novel coronavirus has evolved](https://graphics.reuters.com/HEALTH-CORONAVIRUS/EVOLUTION/yxmpjqkdzvr/index.html)
-- [FCC RDOF (broadband grant auction) winners map, color coded by bidder](https://experience.arcgis.com/experience/0b324cabf7b94d9ca34caa9361122d94/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
