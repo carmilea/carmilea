@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management)
 - [Modular unikernel designed to run applications securely on micro-VMs](http://osv.io)
-- [Scientists just teleported an object into Earth's orbit for the first time](https://www.businessinsider.com/teleportation-china-earth-orbit-quantum-internet-2017-7)
 - [The unexpected rule of adjectival ordering in English](https://qz.com/773738/how-non-english-speakers-are-taught-this-crazy-english-grammar-rule-you-know-but-youve-never-heard-of/)
-- [How UI developers can adapt, not die](https://triplebyte.com/blog/everything-about-software-ui-is-changing-heres-how-engineers-can-keep-up?ref=hnpost)
+- [Amateur sleuths crack one of the Zodiac Killer's ciphers after 51 years](https://thehill.com/homenews/news/529929-amateur-sleuths-crack-one-of-the-zodiac-killers-ciphers-after-51-years)
+- [Longest known exposure photograph ever captured using a beer can](https://www.herts.ac.uk/about-us/media-centre/news/2020/longest-known-exposure-photograph-ever-captured-using-a-beer-can)
 <!-- BLOG-POST-LIST:END -->
 
 ---
