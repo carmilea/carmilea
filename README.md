@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Risk-First Software Development](https://riskfirst.org)
+- [SCOTUS Rules You May Sue Government Agents for Damages When They Violate Rights](https://ij.org/press-release/u-s-supreme-court-rules-unanimously-you-may-sue-government-agents-for-damages-when-they-violate-your-individual-rights/)
+- [Open-source browser history page with analytics](https://github.com/seanmiller802/BrowserTime)
 - [Chinese authorities detain Bloomberg News staff member](https://www.axios.com/china-government-bloomberg-news-arrest-journalist-5016b770-6ece-476d-a108-653a0667ece9.html)
-- [I built a picture frame with a greyscale e-paper that runs on battery for years](https://framelabs.eu/en/)
-- [Chrome Is Bad](https://chromeisbad.com/)
-- [“A damn stupid thing to do”–the origins of C](https://arstechnica.com/?post_type=post&p=1728174)
-- [Thread-Per-Core Buffer Management for a modern storage system](https://vectorized.io/blog/tpc-buffers/)
+- [Toyota's game-changing solid-state battery en route for 2021 debut – Nikkei Asia](https://asia.nikkei.com/Business/Technology/Toyota-s-game-changing-solid-state-battery-en-route-for-2021-debut)
 <!-- BLOG-POST-LIST:END -->
 
 ---
