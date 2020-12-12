@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JetPack Aviation (YC W19) Is Hiring](https://news.ycombinator.com/submitjob)
 - [Show HN: I made a periodic table of the web's APIs](http://wwwperiodictable.surge.sh/?hn5)
 - [Buy Don't Build](https://jrott.com/posts/why-buy/)
+- [Become Shell Literate](https://drewdevault.com/2020/12/12/Shell-literacy.html)
 - [Semgrep for Cloud Security](https://www.marcolancini.it/2020/blog-semgrep-for-cloud-security/)
-- [Real wireframe teapot mounted inside a Commodore Pet display (2004)](https://vimeo.com/1821572)
-- [Olbers' Paradox](https://en.wikipedia.org/wiki/Olbers%27_paradox#:~:text=In%20astrophysics%20and%20physical%20cosmology,infinite%20and%20eternal%20static%20universe.)
 <!-- BLOG-POST-LIST:END -->
 
 ---
