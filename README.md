@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The unexpected rule of adjectival ordering in English](https://qz.com/773738/how-non-english-speakers-are-taught-this-crazy-english-grammar-rule-you-know-but-youve-never-heard-of/)
+- [Longest known exposure photograph ever captured using a beer can](https://www.herts.ac.uk/about-us/media-centre/news/2020/longest-known-exposure-photograph-ever-captured-using-a-beer-can)
 - [Automate any tasks that require multiple entries of data in a browser](https://cognifirm.com/)
 - [How the novel coronavirus has evolved](https://graphics.reuters.com/HEALTH-CORONAVIRUS/EVOLUTION/yxmpjqkdzvr/index.html)
 - [FCC RDOF (broadband grant auction) winners map, color coded by bidder](https://experience.arcgis.com/experience/0b324cabf7b94d9ca34caa9361122d94/)
-- [Gamers allege EA uses Dynamic Difficulty Adjustment so players spend more money](https://slate.com/technology/2020/12/electronic-arts-fifa-madden-nhl-lawsuit-dynamic-difficulty-adjustment.html)
-- [Talk about “AI” in the press these days tends to conflate two things](https://nostalgebraist.tumblr.com/post/636924589769998336/talk-about-ai-in-the-press-these-days-tends-to)
 <!-- BLOG-POST-LIST:END -->
 
 ---
