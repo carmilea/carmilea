@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Anti-Mac User Interface (1996)](https://www.nngroup.com/articles/anti-mac-interface/)
+- [Show HN: Discover $ monthly revenue of OnlyFans models](https://ofans.herokuapp.com)
 - [Almost one in five Americans may have been infected with Covid-19](https://www.economist.com/graphic-detail/2020/12/10/almost-one-in-five-americans-may-have-been-infected-with-covid-19)
+- [The YouTube ban is un-American, wrong, and will backfire](https://taibbi.substack.com/p/the-youtube-ban-is-un-american-wrong)
 - [Oracle Moving HQ to Austin](https://www.sec.gov/ix?doc=/Archives/edgar/data/1341439/000156459020056896/orcl-10q_20201130.htm)
-- [Poll: Will you take the Covid vaccine?](https://news.ycombinator.com/item?id=25391159)
-- [Electric Monarch tractor can plow a field without a driver and run for ten hours](https://www.thedrive.com/news/38032/the-50k-electric-monarch-tractor-can-plow-a-field-without-you-and-run-for-10-hours)
-- [The Zodiac Killer's most uncrackable cipher has, at last, been solved](https://www.sfgate.com/crime/article/zodiac-340-cipher-solved-solution-code-15795178.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
