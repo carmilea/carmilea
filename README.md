@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Earnestness](http://paulgraham.com/earnest.html)
+- [Google Cloud: $72,000 bill overnight](https://www.theregister.com/2020/12/10/google_cloud_over_run/)
+- [Ask HN: What are useful OKRs and KPIs for SWEs](https://news.ycombinator.com/item?id=25398138)
+- [Twitch suspends DragonForce guitarist Herman Li for playing his own music](https://happymag.tv/dragonforce-guitarist-twitch-ban/)
 - [Simplo batteries breaking MacBook logic boards?](https://www.ifixit.com/Answers/View/670543/Simplo+batteries+breaking+logic+boards)
-- [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management)
-- [Modular unikernel designed to run applications securely on micro-VMs](http://osv.io)
-- [Amateur sleuths crack one of the Zodiac Killer's ciphers after 51 years](https://thehill.com/homenews/news/529929-amateur-sleuths-crack-one-of-the-zodiac-killers-ciphers-after-51-years)
-- [Longest known exposure photograph ever captured using a beer can](https://www.herts.ac.uk/about-us/media-centre/news/2020/longest-known-exposure-photograph-ever-captured-using-a-beer-can)
 <!-- BLOG-POST-LIST:END -->
 
 ---
