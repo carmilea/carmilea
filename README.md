@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Real wireframe teapot mounted inside a Commodore Pet display (2004)](https://vimeo.com/1821572)
+- [Twitter limits users interacting with Trump's tweets about 'stolen' election](https://thehill.com/policy/technology/529942-twitter-prevents-users-from-liking-replying-to-trumps-tweets-about-stolen)
+- [Olbers' Paradox](https://en.wikipedia.org/wiki/Olbers%27_paradox#:~:text=In%20astrophysics%20and%20physical%20cosmology,infinite%20and%20eternal%20static%20universe.)
 - [Earnestness](http://paulgraham.com/earnest.html)
-- [Google Cloud: $72,000 bill overnight](https://www.theregister.com/2020/12/10/google_cloud_over_run/)
-- [Ask HN: What are useful OKRs and KPIs for SWEs](https://news.ycombinator.com/item?id=25398138)
 - [Twitch suspends DragonForce guitarist Herman Li for playing his own music](https://happymag.tv/dragonforce-guitarist-twitch-ban/)
-- [Simplo batteries breaking MacBook logic boards?](https://www.ifixit.com/Answers/View/670543/Simplo+batteries+breaking+logic+boards)
 <!-- BLOG-POST-LIST:END -->
 
 ---
