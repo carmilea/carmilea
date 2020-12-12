@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I built a picture frame with a greyscale e-paper that runs on battery for years](https://framelabs.eu/en/)
+- [Chrome Is Bad](https://chromeisbad.com/)
 - [“A damn stupid thing to do”–the origins of C](https://arstechnica.com/?post_type=post&p=1728174)
 - [Thread-Per-Core Buffer Management for a modern storage system](https://vectorized.io/blog/tpc-buffers/)
 - [Red Hat Goes Full IBM and Says Farewell to CentOS](https://www.servethehome.com/red-hat-goes-full-ibm-and-says-farewell-to-centos/)
-- [GitHub Dark Mode is too Dark. Here's the mathematical proof](https://blog.karenying.com/posts/github-darkmode-sucks)
-- [I've designed Python fantasy cards to learn it easier](https://summonthejson.com/products/summon-the-json-python-deck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
