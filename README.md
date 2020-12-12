@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese authorities detain Bloomberg News staff member](https://www.axios.com/china-government-bloomberg-news-arrest-journalist-5016b770-6ece-476d-a108-653a0667ece9.html)
 - [I built a picture frame with a greyscale e-paper that runs on battery for years](https://framelabs.eu/en/)
 - [Chrome Is Bad](https://chromeisbad.com/)
 - [“A damn stupid thing to do”–the origins of C](https://arstechnica.com/?post_type=post&p=1728174)
 - [Thread-Per-Core Buffer Management for a modern storage system](https://vectorized.io/blog/tpc-buffers/)
-- [Red Hat Goes Full IBM and Says Farewell to CentOS](https://www.servethehome.com/red-hat-goes-full-ibm-and-says-farewell-to-centos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
