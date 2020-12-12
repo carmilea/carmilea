@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bulk loading into PostgreSQL: Options and comparison](https://www.highgo.ca/2020/12/08/bulk-loading-into-postgresql-options-and-comparison/)
 - [Risk-First Software Development](https://riskfirst.org)
 - [SCOTUS Rules You May Sue Government Agents for Damages When They Violate Rights](https://ij.org/press-release/u-s-supreme-court-rules-unanimously-you-may-sue-government-agents-for-damages-when-they-violate-your-individual-rights/)
 - [Open-source browser history page with analytics](https://github.com/seanmiller802/BrowserTime)
-- [Chinese authorities detain Bloomberg News staff member](https://www.axios.com/china-government-bloomberg-news-arrest-journalist-5016b770-6ece-476d-a108-653a0667ece9.html)
-- [Toyota's game-changing solid-state battery en route for 2021 debut – Nikkei Asia](https://asia.nikkei.com/Business/Technology/Toyota-s-game-changing-solid-state-battery-en-route-for-2021-debut)
+- [I Hacked into Facebook's Legal Department Admin Panel](https://alaa.blog/2020/12/how-i-hacked-facebook-part-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
