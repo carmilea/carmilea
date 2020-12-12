@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplo batteries breaking MacBook logic boards?](https://www.ifixit.com/Answers/View/670543/Simplo+batteries+breaking+logic+boards)
 - [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management)
 - [Modular unikernel designed to run applications securely on micro-VMs](http://osv.io)
-- [The unexpected rule of adjectival ordering in English](https://qz.com/773738/how-non-english-speakers-are-taught-this-crazy-english-grammar-rule-you-know-but-youve-never-heard-of/)
 - [Amateur sleuths crack one of the Zodiac Killer's ciphers after 51 years](https://thehill.com/homenews/news/529929-amateur-sleuths-crack-one-of-the-zodiac-killers-ciphers-after-51-years)
 - [Longest known exposure photograph ever captured using a beer can](https://www.herts.ac.uk/about-us/media-centre/news/2020/longest-known-exposure-photograph-ever-captured-using-a-beer-can)
 <!-- BLOG-POST-LIST:END -->
