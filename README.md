@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JetPack Aviation (YC W19) Is Hiring](https://news.ycombinator.com/submitjob)
-- [Show HN: I made a periodic table of the web's APIs](http://wwwperiodictable.surge.sh/?hn5)
-- [Buy Don't Build](https://jrott.com/posts/why-buy/)
-- [Become Shell Literate](https://drewdevault.com/2020/12/12/Shell-literacy.html)
-- [Semgrep for Cloud Security](https://www.marcolancini.it/2020/blog-semgrep-for-cloud-security/)
+- [“A damn stupid thing to do”–the origins of C](https://arstechnica.com/?post_type=post&p=1728174)
+- [Thread-Per-Core Buffer Management for a modern storage system](https://vectorized.io/blog/tpc-buffers/)
+- [Red Hat Goes Full IBM and Says Farewell to CentOS](https://www.servethehome.com/red-hat-goes-full-ibm-and-says-farewell-to-centos/)
+- [GitHub Dark Mode is too Dark. Here's the mathematical proof](https://blog.karenying.com/posts/github-darkmode-sucks)
+- [I've designed Python fantasy cards to learn it easier](https://summonthejson.com/products/summon-the-json-python-deck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
