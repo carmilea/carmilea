@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Team uses copper to image Alzheimer's aggregates in the brain](https://blogs.illinois.edu/view/6367/502469350)
 - [Anticipating vaccine, forecast expects recovery to begin in spring 2021](https://www.anderson.ucla.edu/news-and-events/press-releases/anticipating-vaccine-ucla-anderson-forecast-expects-recovery-to-begin-in-spring-21)
-- [Norman Abramson, creator of ARPAnet and Ethernet precursor ALOHAnet, dies at 88](https://www.nytimes.com/2020/12/11/technology/norman-abramson-dead.html)
+- [Norman Abramson has died](https://www.nytimes.com/2020/12/11/technology/norman-abramson-dead.html)
 - [New UK police speed gun can read license plates from half a mile away at night](https://www.thedrive.com/news/38111/new-uk-police-speed-gun-can-read-license-plates-from-nearly-half-a-mile-away-at-night)
 - [If you can't play the new VR version of Myst, why not play the Apple II demake](http://www.deater.net/weave/vmwprod/mist/)
-- [To listen well, get curious](https://www.benkuhn.net/listen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
