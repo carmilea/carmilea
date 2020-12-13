@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bulk loading into PostgreSQL: Options and comparison](https://www.highgo.ca/2020/12/08/bulk-loading-into-postgresql-options-and-comparison/)
-- [Risk-First Software Development](https://riskfirst.org)
-- [SCOTUS Rules You May Sue Government Agents for Damages When They Violate Rights](https://ij.org/press-release/u-s-supreme-court-rules-unanimously-you-may-sue-government-agents-for-damages-when-they-violate-your-individual-rights/)
-- [Open-source browser history page with analytics](https://github.com/seanmiller802/BrowserTime)
-- [I Hacked into Facebook's Legal Department Admin Panel](https://alaa.blog/2020/12/how-i-hacked-facebook-part-one/)
+- [Why radio receivers won’t tune 800-900 MHz](https://computer.rip/2020-11-28%20the%20verboten%20band.html)
+- [Show HN: Cyberpunk city, Urban fantasy art, Rainy city](https://cybervibes.netlify.app/)
+- [Violence breaks out at Wistron Corp’s iPhone manufacturing plant near Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/violence-breaks-out-at-wistron-corps-iphone-manufacturing-plant-near-bengaluru/articleshow/79691511.cms)
+- [Writing a Memory Allocator](http://dmitrysoshnikov.com/compilers/writing-a-memory-allocator/)
+- [Show HN: Curated List of Online Learning](https://news.ycombinator.com/item?id=25402800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
