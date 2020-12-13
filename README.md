@@ -54,8 +54,8 @@
 - [The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/)
 - [“Under-the-hood of GraphQL”-look at the execute req part of the query lifecycle](https://craigtaub.dev/under-the-hood-of-graphql)
 - [Hypercore protocol: a distributed (P2P) append-only log](https://hypercore-protocol.org/)
-- [Notes on Learning Languages](https://lukesmith.xyz/articles/learning-languages)
 - [Hyperbeam: A 1-1 E2E encrypted internet pipe powered by Hyperswarm](https://github.com/mafintosh/hyperbeam)
+- [Dreaming in Code](https://fossacademic.tech/2020/12/06/Dreaming-In-Code.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
