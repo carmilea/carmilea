@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dead Millionaire Convinced Dozens of Women to Have as Many Babies as Possible (2015)](https://fivethirtyeight.com/features/how-a-dead-millionaire-convinced-dozens-of-women-to-have-as-many-babies-as-possible/)
-- [Ambition (YC W14) Is Hiring Django/React Engineers](https://ambition.com/career/opportunity/full-stack-engineer/)
-- [Goodreads plans to retire API access, disables existing API keys](https://joealcorn.co.uk/blog/2020/goodreads-retiring-API)
-- [George Orwell’s 1984 through a neuroscience lens](https://brainpizza.substack.com/p/george-orwells-1984-through-a-neuroscience)
-- [OSv – Linux binary compatible unikernel for virtualized environments](https://github.com/cloudius-systems/osv)
+- [Free Pascal](https://www.freepascal.org/)
+- [Functional Programming Is Not What Makes Haskell Great](https://hackernoon.com/functional-programming-is-not-what-makes-haskell-great-n33h3zkn)
+- [PayPal introduces new fee for dormant accounts](https://www.theguardian.com/money/2020/dec/12/paypal-introduces-new-fee-for-dormant-accounts)
+- [Akku: Experimental Bluetooth headset battery monitoring application for macOS](https://github.com/jariz/Akku)
+- [If-then-else had to be invented](https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
