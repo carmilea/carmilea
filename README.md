@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dead Millionaire Convinced Dozens of Women to Have as Many Babies as Possible](https://fivethirtyeight.com/features/how-a-dead-millionaire-convinced-dozens-of-women-to-have-as-many-babies-as-possible/)
+- [Ambition (YC W14) Is Hiring Django/React Engineers](https://ambition.com/career/opportunity/full-stack-engineer/)
 - [Goodreads plans to retire API access, disables existing API keys](https://joealcorn.co.uk/blog/2020/goodreads-retiring-API)
+- [George Orwell’s 1984 through a neuroscience lens](https://brainpizza.substack.com/p/george-orwells-1984-through-a-neuroscience)
 - [OSv – Linux binary compatible unikernel for virtualized environments](https://github.com/cloudius-systems/osv)
-- [Team uses copper to image Alzheimer's aggregates in the brain](https://blogs.illinois.edu/view/6367/502469350)
-- [Norman Abramson has died](https://www.nytimes.com/2020/12/11/technology/norman-abramson-dead.html)
-- [New UK police speed gun can read license plates from half a mile away at night](https://www.thedrive.com/news/38111/new-uk-police-speed-gun-can-read-license-plates-from-nearly-half-a-mile-away-at-night)
 <!-- BLOG-POST-LIST:END -->
 
 ---
