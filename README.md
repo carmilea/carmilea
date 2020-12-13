@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New UK Police Speed Gun Can Read License Plates from Half a Mile Away–At Night](https://www.thedrive.com/news/38111/new-uk-police-speed-gun-can-read-license-plates-from-nearly-half-a-mile-away-at-night)
 - [Why radio receivers won’t tune 800-900 MHz](https://computer.rip/2020-11-28%20the%20verboten%20band.html)
-- [Show HN: Cyberpunk city, Urban fantasy art, Rainy city](https://cybervibes.netlify.app/)
 - [Violence breaks out at Wistron Corp’s iPhone manufacturing plant near Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/violence-breaks-out-at-wistron-corps-iphone-manufacturing-plant-near-bengaluru/articleshow/79691511.cms)
 - [Writing a Memory Allocator](http://dmitrysoshnikov.com/compilers/writing-a-memory-allocator/)
 - [Show HN: Curated List of Online Learning](https://news.ycombinator.com/item?id=25402800)
