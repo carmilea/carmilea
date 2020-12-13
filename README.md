@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Notes on Learning Languages](https://lukesmith.xyz/articles/learning-languages)
+- [Why software ends up complex](https://alexgaynor.net/2020/nov/30/why-software-ends-up-complex/)
 - [MicroStrategy will have 0.3% of all Bitcoin supply by the end of 2020](https://www.kevinrooke.com/post/microstrategys-bitcoin-debt-bet)
+- [Network effect: visualizing AI connections in the natural sciences](https://www.nature.com/articles/d41586-020-03410-1)
 - [Stalking Her Daughter’s Killers Across Mexico, One by One](https://www.nytimes.com/2020/12/13/world/americas/miriam-rodriguez-san-fernando.html)
-- [Free Pascal](https://www.freepascal.org/)
-- [The State of Linux Debuggers](https://scattered-thoughts.net/writing/the-state-of-linux-debuggers/)
-- [Functional Programming Is Not What Makes Haskell Great](https://hackernoon.com/functional-programming-is-not-what-makes-haskell-great-n33h3zkn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
