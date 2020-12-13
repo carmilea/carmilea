@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Major leak 'exposes' members and 'lifts the lid' on the Chinese Communist Party](https://gitlab.com/shanghai-ccp-member-db/shanghai-ccp-member-db)
+- [5 lines I put in a blank .vimrc](https://swordandsignals.com/2020/12/13/5-lines-in-vimrc.html)
 - [Thinking About Decentralized Communities](https://gurlic.com/root/thinking-about-decentralized-communities)
 - [Sharrows, the bicycle infrastructure that doesn’t work and nobody wants](https://macwright.com/2020/12/04/sharrows.html)
 - [Ramstein Air Base in Germany Experiences Potential Incoming Missile Scare](https://www.thedrive.com/the-war-zone/38131/ramstein-air-base-in-germany-experiences-potential-incoming-missile-scare)
-- [U.S. Treasury breached by hackers backed by foreign government – sources](https://www.reuters.com/article/us-usa-cyber-amazon-com-exclsuive/u-s-treasury-breached-by-hackers-backed-by-foreign-government-sources-idUSKBN28N0PG)
-- [The Secret History of Windows Task Manager from Retired Microsoft Engineer](https://www.youtube.com/watch?v=f8VBOiPV-_M)
 <!-- BLOG-POST-LIST:END -->
 
 ---
