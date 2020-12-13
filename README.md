@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Goodreads plans to retire API access, disables existing API keys](https://joealcorn.co.uk/blog/2020/goodreads-retiring-API)
+- [OSv – Linux binary compatible unikernel for virtualized environments](https://github.com/cloudius-systems/osv)
 - [Team uses copper to image Alzheimer's aggregates in the brain](https://blogs.illinois.edu/view/6367/502469350)
-- [Who Owns the Stars: The Trouble with Urbit](http://distributedweb.care/posts/who-owns-the-stars/)
 - [Norman Abramson has died](https://www.nytimes.com/2020/12/11/technology/norman-abramson-dead.html)
 - [New UK police speed gun can read license plates from half a mile away at night](https://www.thedrive.com/news/38111/new-uk-police-speed-gun-can-read-license-plates-from-nearly-half-a-mile-away-at-night)
-- [If you can't play the new VR version of Myst, why not play the Apple II demake](http://www.deater.net/weave/vmwprod/mist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
