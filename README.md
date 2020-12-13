@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ARM MacBook vs. Intel MacBook: A SIMD Benchmark](https://lemire.me/blog/2020/12/13/arm-macbook-vs-intel-macbook-a-simd-benchmark/)
 - [The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/)
 - [“Under-the-hood of GraphQL”-look at the execute req part of the query lifecycle](https://craigtaub.dev/under-the-hood-of-graphql)
 - [Hypercore protocol: a distributed (P2P) append-only log](https://hypercore-protocol.org/)
 - [Hyperbeam: A 1-1 E2E encrypted internet pipe powered by Hyperswarm](https://github.com/mafintosh/hyperbeam)
-- [Dreaming in Code](https://fossacademic.tech/2020/12/06/Dreaming-In-Code.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
