@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MicroStrategy will have 0.3% of all Bitcoin supply by the end of 2020](https://www.kevinrooke.com/post/microstrategys-bitcoin-debt-bet)
+- [Stalking Her Daughter’s Killers Across Mexico, One by One](https://www.nytimes.com/2020/12/13/world/americas/miriam-rodriguez-san-fernando.html)
 - [Free Pascal](https://www.freepascal.org/)
+- [The State of Linux Debuggers](https://scattered-thoughts.net/writing/the-state-of-linux-debuggers/)
 - [Functional Programming Is Not What Makes Haskell Great](https://hackernoon.com/functional-programming-is-not-what-makes-haskell-great-n33h3zkn)
-- [PayPal introduces new fee for dormant accounts](https://www.theguardian.com/money/2020/dec/12/paypal-introduces-new-fee-for-dormant-accounts)
-- [Akku: Experimental Bluetooth headset battery monitoring application for macOS](https://github.com/jariz/Akku)
-- [If-then-else had to be invented](https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
