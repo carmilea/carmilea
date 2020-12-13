@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sharrows, the bicycle infrastructure that doesn’t work and nobody wants](https://macwright.com/2020/12/04/sharrows.html)
+- [U.S. Treasury breached by hackers backed by foreign government](https://www.reuters.com/article/us-usa-cyber-amazon-com-exclsuive/u-s-treasury-breached-by-hackers-backed-by-foreign-government-sources-idUSKBN28N0PG)
+- [The Secret History of Windows Task Manager from Retired Microsoft Engineer](https://www.youtube.com/watch?v=f8VBOiPV-_M)
 - [ARM MacBook vs. Intel MacBook: A SIMD Benchmark](https://lemire.me/blog/2020/12/13/arm-macbook-vs-intel-macbook-a-simd-benchmark/)
-- [The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/)
-- [“Under-the-hood of GraphQL”-look at the execute req part of the query lifecycle](https://craigtaub.dev/under-the-hood-of-graphql)
-- [Hypercore protocol: a distributed (P2P) append-only log](https://hypercore-protocol.org/)
-- [Hyperbeam: A 1-1 E2E encrypted internet pipe powered by Hyperswarm](https://github.com/mafintosh/hyperbeam)
+- [Ask HN: How do you prevent eyestrain with daily computer use?](https://news.ycombinator.com/item?id=25408587)
 <!-- BLOG-POST-LIST:END -->
 
 ---
