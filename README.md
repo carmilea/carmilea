@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zig 0.7.1 Released – 69 bugs fixed](https://ziglang.org/download/0.7.1/release-notes.html)
 - [Major leak 'exposes' members and 'lifts the lid' on the Chinese Communist Party](https://gitlab.com/shanghai-ccp-member-db/shanghai-ccp-member-db)
-- [5 lines I put in a blank .vimrc](https://swordandsignals.com/2020/12/13/5-lines-in-vimrc.html)
+- [Five lines I put in a blank .vimrc](https://swordandsignals.com/2020/12/13/5-lines-in-vimrc.html)
 - [Thinking About Decentralized Communities](https://gurlic.com/root/thinking-about-decentralized-communities)
 - [Sharrows, the bicycle infrastructure that doesn’t work and nobody wants](https://macwright.com/2020/12/04/sharrows.html)
-- [Ramstein Air Base in Germany Experiences Potential Incoming Missile Scare](https://www.thedrive.com/the-war-zone/38131/ramstein-air-base-in-germany-experiences-potential-incoming-missile-scare)
 <!-- BLOG-POST-LIST:END -->
 
 ---
