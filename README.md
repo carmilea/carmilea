@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/)
+- [“Under-the-hood of GraphQL”-look at the execute req part of the query lifecycle](https://craigtaub.dev/under-the-hood-of-graphql)
+- [Hypercore protocol: a distributed (P2P) append-only log](https://hypercore-protocol.org/)
 - [Notes on Learning Languages](https://lukesmith.xyz/articles/learning-languages)
-- [Why software ends up complex](https://alexgaynor.net/2020/nov/30/why-software-ends-up-complex/)
-- [MicroStrategy will have 0.3% of all Bitcoin supply by the end of 2020](https://www.kevinrooke.com/post/microstrategys-bitcoin-debt-bet)
-- [Network effect: visualizing AI connections in the natural sciences](https://www.nature.com/articles/d41586-020-03410-1)
-- [Stalking Her Daughter’s Killers Across Mexico, One by One](https://www.nytimes.com/2020/12/13/world/americas/miriam-rodriguez-san-fernando.html)
+- [Hyperbeam: A 1-1 E2E encrypted internet pipe powered by Hyperswarm](https://github.com/mafintosh/hyperbeam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
