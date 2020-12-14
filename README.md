@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FTC Issues Orders to Nine Social Media and Video Streaming Services](https://www.ftc.gov/news-events/press-releases/2020/12/ftc-issues-orders-nine-social-media-video-streaming-services-0)
-- [The cleverest floppy disc protection ever? Western Security Ltd](https://scarybeastsecurity.blogspot.com/2020/12/the-cleverest-floppy-disc-protection.html)
-- [Data Catalogs Are Dead; Long Live Data Discovery](https://www.montecarlodata.com/data-catalogs-are-dead-long-live-data-discovery/)
-- [Show HN: I built a comprehensive Ark ETF tracker](https://cathiesark.com/)
-- [Cardio fitness notifications are available today on Apple Watch](https://www.apple.com/newsroom/2020/12/cardio-fitness-notifications-are-available-today-on-apple-watch/)
+- [Fractal Architectures: A Framework to adopt IaC at Enterprise Scale](https://yanchware.com/content/fractal-arch-iac)
+- [Lawsuits Filed by FTC and the State Attorneys General Are Revisionist History](https://about.fb.com/news/2020/12/lawsuits-filed-by-the-ftc-and-state-attorneys-general-are-revisionist-history/)
+- [Slack Is the Right Tool for the Wrong Way to Work](https://www.newyorker.com/culture/cultural-comment/slack-is-the-right-tool-for-the-wrong-way-to-work)
+- [“This is the worst documentation I have ever seen in my life”](https://github.com/amzn/selling-partner-api-docs/issues/180)
+- [Instagram's Million Dollar Bug (2015)](https://web.archive.org/web/20151217205414/http://www.exfiltrated.com/research-Instagram-RCE.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
