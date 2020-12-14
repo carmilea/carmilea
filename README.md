@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Google: Search Competition should be 1 Click Away so why 15+ on Android?](https://spreadprivacy.com/one-click-away/)
+- [Green recovery must end the reign of GDP, argue Cambridge and UN economists](https://phys.org/news/2020-12-green-recovery-gdp-cambridge-economists.html)
+- [SEO Is Gentrifying the Internet](https://www.currentaffairs.org/2020/12/how-seo-is-gentrifying-the-internet)
+- [Reddit is buying TikTok rival Dubsmash](https://www.cnn.com/2020/12/14/tech/reddit-dubsmash/index.html)
 - [A Defer Mechanism for C](https://gustedt.wordpress.com/2020/12/14/a-defer-mechanism-for-c/)
-- [Ask HN: How many hours per day do you work?](https://news.ycombinator.com/item?id=25417210)
-- [World’s biggest iceberg heads for disaster](https://graphics.reuters.com/CLIMATE-CHANGE/ICEBERG/yzdvxjrbzvx/index.html)
-- [The (Fictional) Day Google Forgot to Check Passwords (2014) [video]](https://www.youtube.com/watch?v=y4GB_NDU43Q)
-- [Only Intrinsic Motivation Lasts](https://danielvassallo.com/only-intrinsic-motivation-lasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
