@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zig 0.7.1 Released – 69 bugs fixed](https://ziglang.org/download/0.7.1/release-notes.html)
-- [Major leak 'exposes' members and 'lifts the lid' on the Chinese Communist Party](https://gitlab.com/shanghai-ccp-member-db/shanghai-ccp-member-db)
-- [Five lines I put in a blank .vimrc](https://swordandsignals.com/2020/12/13/5-lines-in-vimrc.html)
-- [Thinking About Decentralized Communities](https://gurlic.com/root/thinking-about-decentralized-communities)
-- [Sharrows, the bicycle infrastructure that doesn’t work and nobody wants](https://macwright.com/2020/12/04/sharrows.html)
+- [Human Clock](https://humanclock.com/)
+- [Linux 5.10](https://lore.kernel.org/lkml/CAHk-=whCKhxNyKn1Arut8xUDKTwp3fWcCj_jbL5dbzkUmo45gQ@mail.gmail.com/T/#u)
+- [Tesla's market cap now accounts for roughly 1/3rd of the global automaker market](https://datamentary.net/psa-tesla-may-soon-be-as-big-as-all-other-automakers-combined/)
+- [Apple TV Was Making a Show About Gawker. Then Tim Cook Found Out](https://www.nytimes.com/2020/12/13/business/media/apple-gawker-tim-cook.html)
+- [Evidence that investors penalize female founders for lack of industry fit](https://advances.sciencemag.org/content/6/48/eabd7664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
