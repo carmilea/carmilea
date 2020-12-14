@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe's night trains are on track for a resurgence](https://edition.cnn.com/travel/article/night-trains-europe-sleeper-obb/index.html)
-- [Tesorio Is Hiring a Senior Product Manager and Senior Engineers](https://www.tesorio.com/careers#job-openings)
-- [Pointers Are Complicated II, or: We need better language specs](https://www.ralfj.de/blog/2020/12/14/provenance.html)
-- [U.S. Treasury, Commerce Depts. Hacked Through SolarWinds Compromise](https://krebsonsecurity.com/2020/12/u-s-treasury-commerce-depts-hacked-through-solarwinds-compromise/)
-- [Pornhub just purged all unverified content from the platform](https://www.vice.com/en/article/jgqjjy/pornhub-suspended-all-unverified-videos-content)
+- [The cleverest floppy disc protection ever? Western Security Ltd](https://scarybeastsecurity.blogspot.com/2020/12/the-cleverest-floppy-disc-protection.html)
+- [My Experience Building a Tech Startup Without a Technical Co-Founder](https://altar.io/building-a-startup-without-a-technical-co-founder/)
+- [Show HN: I built a comprehensive Ark ETF tracker](https://cathiesark.com/)
+- [Coordinated disclosure of XML roundtrip vulnerabilities in Go’s standard library](https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/)
+- [Why are new devices dependent on the Internet but made with little forethought?](http://www.circuitbored.com/communicate/viewtopic.php?f=3&t=188&p=193#p193)
 <!-- BLOG-POST-LIST:END -->
 
 ---
