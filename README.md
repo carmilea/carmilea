@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blabrecs](https://mkremins.github.io/blabrecs/)
 - [Human Clock](https://humanclock.com/)
 - [Linux 5.10](https://lore.kernel.org/lkml/CAHk-=whCKhxNyKn1Arut8xUDKTwp3fWcCj_jbL5dbzkUmo45gQ@mail.gmail.com/T/#u)
 - [Tesla's market cap now accounts for roughly 1/3rd of the global automaker market](https://datamentary.net/psa-tesla-may-soon-be-as-big-as-all-other-automakers-combined/)
 - [Apple TV Was Making a Show About Gawker. Then Tim Cook Found Out](https://www.nytimes.com/2020/12/13/business/media/apple-gawker-tim-cook.html)
-- [Evidence that investors penalize female founders for lack of industry fit](https://advances.sciencemag.org/content/6/48/eabd7664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
