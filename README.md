@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Google: Search Competition should be 1 Click Away so why 15+ on Android?](https://spreadprivacy.com/one-click-away/)
-- [Green recovery must end the reign of GDP, argue Cambridge and UN economists](https://phys.org/news/2020-12-green-recovery-gdp-cambridge-economists.html)
-- [SEO Is Gentrifying the Internet](https://www.currentaffairs.org/2020/12/how-seo-is-gentrifying-the-internet)
-- [Reddit is buying TikTok rival Dubsmash](https://www.cnn.com/2020/12/14/tech/reddit-dubsmash/index.html)
-- [A Defer Mechanism for C](https://gustedt.wordpress.com/2020/12/14/a-defer-mechanism-for-c/)
+- [So-called sophisticated cyberattack against US government, a simple GitHub leak](https://savebreach.com/solarwinds-credentials-exposure-led-to-us-government-fireye-breach/)
+- ['New variant' of coronavirus identified](https://www.bbc.co.uk/news/health-55308211)
+- [Pornhub Just Purged All Unverified Content from the Platform](https://www.vice.com/en/article/jgqjjy/pornhub-suspended-all-unverified-videos-content)
+- [Insulation: First the body, then the home (2011)](https://www.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html)
+- [The AI Girlfriend Seducing China’s Lonely Men](https://www.sixthtone.com/news/1006531/The%20AI%20Girlfriend%20Seducing%20China%E2%80%99s%20Lonely%20Men/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
