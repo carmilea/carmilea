@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe's night trains are on track for a resurgence](https://edition.cnn.com/travel/article/night-trains-europe-sleeper-obb/index.html)
 - [Tesorio Is Hiring a Senior Product Manager and Senior Engineers](https://www.tesorio.com/careers#job-openings)
-- [I Share Startup Ideas and Many Peoples Don’t](https://news.ycombinator.com/item?id=25419662)
-- [Pornhub Just Purged All Unverified Content from the Platform](https://www.vice.com/en/article/jgqjjy/pornhub-suspended-all-unverified-videos-content)
-- [Insulation: First the body, then the home (2011)](https://www.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html)
-- [Apple M1 vs. Ryzen 3900X vs. Intel I9 in Software Development](https://tech.ssut.me/apple-m1-chip-benchmarks-focused-on-the-real-world-programming/)
+- [Pointers Are Complicated II, or: We need better language specs](https://www.ralfj.de/blog/2020/12/14/provenance.html)
+- [U.S. Treasury, Commerce Depts. Hacked Through SolarWinds Compromise](https://krebsonsecurity.com/2020/12/u-s-treasury-commerce-depts-hacked-through-solarwinds-compromise/)
+- [Pornhub just purged all unverified content from the platform](https://www.vice.com/en/article/jgqjjy/pornhub-suspended-all-unverified-videos-content)
 <!-- BLOG-POST-LIST:END -->
 
 ---
