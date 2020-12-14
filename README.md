@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacker News is also seeing downtime (not just Google)](https://news.ycombinator.com/item?id=25416388)
+- [Google Outage](https://news.ycombinator.com/item?id=25415989)
 - [We need legal controls on web advertising](https://www.theregister.com/2020/12/14/google_manifest_plugin_opinion/)
-- [Ask HN: Google Play Music Alternative?](https://news.ycombinator.com/item?id=25415093)
 - [Lambda School Is the Biggest Mistake I Made This Year](https://www.reddit.com/r/LambdaSchool/comments/kb87od/lambda_school_is_the_biggest_mistake_i_made_this/)
 - [Europe's Biggest Vertical Farm Will Be Powered by Wind and Planted by Robots](https://singularityhub.com/2020/12/11/europes-biggest-vertical-farm-will-be-powered-by-wind-and-planted-by-robots/)
-- [Death by 1000 layers: the perils of over-abstraction in Java (2017)](https://www.quantcast.com/blog/death-by-1000-layers-the-perils-of-over-abstraction-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
