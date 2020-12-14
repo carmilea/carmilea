@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nature's 'Brita Filter' Is Dying and Nobody Knows Why](https://www.wuwm.com/post/natures-brita-filter-dying-and-nobody-knows-why)
-- [SolarWinds supply chain attack exploits SUNBURST backdoor](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
+- [Highly Evasive Attacker Leverages SolarWinds Supply Chain](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
+- [The World’s First Medical Records](https://lithub.com/what-the-worlds-first-medical-records-tell-us-about-ancient-life/)
 - [Blabrecs](https://mkremins.github.io/blabrecs/)
 - [In Pictures: How much plastic are you eating?](https://www.aljazeera.com/gallery/2020/12/11/in-pictures-how-much-plastic-are-you-eating)
 - [WavesMesh: Pay-what-you-can community-owned ISP for Baltimore](https://projectwaves.net/)
