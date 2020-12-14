@@ -55,7 +55,7 @@
 - [The World’s First Medical Records](https://lithub.com/what-the-worlds-first-medical-records-tell-us-about-ancient-life/)
 - [Blabrecs](https://mkremins.github.io/blabrecs/)
 - [In Pictures: How much plastic are you eating?](https://www.aljazeera.com/gallery/2020/12/11/in-pictures-how-much-plastic-are-you-eating)
-- [WavesMesh: Pay-what-you-can community-owned ISP for Baltimore](https://projectwaves.net/)
+- [For Apollo 11 he wasn’t on the moon, but his coffee was warm (2019)](https://www.nytimes.com/2019/07/16/science/michael-collins-apollo-11.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
