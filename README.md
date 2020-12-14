@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fractal Architectures: A Framework to adopt IaC at Enterprise Scale](https://yanchware.com/content/fractal-arch-iac)
-- [Lawsuits Filed by FTC and the State Attorneys General Are Revisionist History](https://about.fb.com/news/2020/12/lawsuits-filed-by-the-ftc-and-state-attorneys-general-are-revisionist-history/)
-- [Slack Is the Right Tool for the Wrong Way to Work](https://www.newyorker.com/culture/cultural-comment/slack-is-the-right-tool-for-the-wrong-way-to-work)
+- [Eric Engstrom, co-creator of DirectX, passes away at 55](https://www.wsj.com/articles/microsoft-misfit-helped-lead-company-into-game-market-11607537700)
+- [How we built scalable spatial indexing in CockroachDB](https://www.cockroachlabs.com/blog/how-we-built-spatial-indexing/)
+- [Fractal Architectures: A Software Craftsman's take to Infrastructure as Code](https://yanchware.com/content/fractal-arch-iac)
 - [“This is the worst documentation I have ever seen in my life”](https://github.com/amzn/selling-partner-api-docs/issues/180)
 - [Instagram's Million Dollar Bug (2015)](https://web.archive.org/web/20151217205414/http://www.exfiltrated.com/research-Instagram-RCE.php)
 <!-- BLOG-POST-LIST:END -->
