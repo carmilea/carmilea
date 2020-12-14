@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [So-called sophisticated cyberattack against US government, a simple GitHub leak](https://savebreach.com/solarwinds-credentials-exposure-led-to-us-government-fireye-breach/)
-- ['New variant' of coronavirus identified](https://www.bbc.co.uk/news/health-55308211)
+- [Tesorio Is Hiring a Senior Product Manager and Senior Engineers](https://www.tesorio.com/careers#job-openings)
+- [I Share Startup Ideas and Many Peoples Don’t](https://news.ycombinator.com/item?id=25419662)
 - [Pornhub Just Purged All Unverified Content from the Platform](https://www.vice.com/en/article/jgqjjy/pornhub-suspended-all-unverified-videos-content)
 - [Insulation: First the body, then the home (2011)](https://www.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html)
-- [The AI Girlfriend Seducing China’s Lonely Men](https://www.sixthtone.com/news/1006531/The%20AI%20Girlfriend%20Seducing%20China%E2%80%99s%20Lonely%20Men/)
+- [Apple M1 vs. Ryzen 3900X vs. Intel I9 in Software Development](https://tech.ssut.me/apple-m1-chip-benchmarks-focused-on-the-real-world-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
