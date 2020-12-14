@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Defer Mechanism for C](https://gustedt.wordpress.com/2020/12/14/a-defer-mechanism-for-c/)
+- [Ask HN: How many hours per day do you work?](https://news.ycombinator.com/item?id=25417210)
 - [World’s biggest iceberg heads for disaster](https://graphics.reuters.com/CLIMATE-CHANGE/ICEBERG/yzdvxjrbzvx/index.html)
 - [The (Fictional) Day Google Forgot to Check Passwords (2014) [video]](https://www.youtube.com/watch?v=y4GB_NDU43Q)
-- [Ask HN: Why do they make cars go so fast if its illegal?](https://news.ycombinator.com/item?id=25416687)
-- [Show HN: Chromiumoxid – An Async Headless Chrome API in Rust](https://github.com/mattsse/chromiumoxide)
-- [EA to buy Dirt Rally-maker Codemasters for £1bn](https://www.bbc.com/news/technology-55300362)
+- [Only Intrinsic Motivation Lasts](https://danielvassallo.com/only-intrinsic-motivation-lasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
