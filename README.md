@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Death by 1000 layers: the perils of over-abstraction in Java (2017)](https://www.quantcast.com/blog/death-by-1000-layers-the-perils-of-over-abstraction-in-java/)
+- [Show HN: Instantly search 28M books from OpenLibrary (by Internet Archive)](https://books-search.typesense.org/)
+- [Free open-source Media Cloud Platform](https://github.com/fastogt/fastocloud_service)
 - [Highly Evasive Attacker Leverages SolarWinds Supply Chain](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
 - [The World’s First Medical Records](https://lithub.com/what-the-worlds-first-medical-records-tell-us-about-ancient-life/)
-- [Blabrecs](https://mkremins.github.io/blabrecs/)
-- [In Pictures: How much plastic are you eating?](https://www.aljazeera.com/gallery/2020/12/11/in-pictures-how-much-plastic-are-you-eating)
-- [For Apollo 11 he wasn’t on the moon, but his coffee was warm (2019)](https://www.nytimes.com/2019/07/16/science/michael-collins-apollo-11.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
