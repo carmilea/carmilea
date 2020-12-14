@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC Issues Orders to Nine Social Media and Video Streaming Services](https://www.ftc.gov/news-events/press-releases/2020/12/ftc-issues-orders-nine-social-media-video-streaming-services-0)
 - [The cleverest floppy disc protection ever? Western Security Ltd](https://scarybeastsecurity.blogspot.com/2020/12/the-cleverest-floppy-disc-protection.html)
-- [My Experience Building a Tech Startup Without a Technical Co-Founder](https://altar.io/building-a-startup-without-a-technical-co-founder/)
+- [Data Catalogs Are Dead; Long Live Data Discovery](https://www.montecarlodata.com/data-catalogs-are-dead-long-live-data-discovery/)
 - [Show HN: I built a comprehensive Ark ETF tracker](https://cathiesark.com/)
-- [Coordinated disclosure of XML roundtrip vulnerabilities in Go’s standard library](https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/)
-- [Why are new devices dependent on the Internet but made with little forethought?](http://www.circuitbored.com/communicate/viewtopic.php?f=3&t=188&p=193#p193)
+- [Cardio fitness notifications are available today on Apple Watch](https://www.apple.com/newsroom/2020/12/cardio-fitness-notifications-are-available-today-on-apple-watch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
