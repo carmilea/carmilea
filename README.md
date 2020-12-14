@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Journey to Finally Ditching Windows for Good](https://boilingsteam.com/my-journey-to-finally-ditching-windows-for-good/)
+- [Episode 341: Patrick McKenzie (patio11)](http://www.thinkingpoker.net/2020/12/episode-341-patrick-mckenzie/)
+- [Show HN: A Twilio-powered interactive talk radio platform](https://capiche.fm)
+- [Who Were America’s Enslaved? New Database Humanizes the Names Behind the Numbers](https://www.smithsonianmag.com/history/sweeping-new-digital-database-emphasizes-enslaved-peoples-individuality-180976513)
 - [Eric Engstrom, co-creator of DirectX, passes away at 55](https://www.wsj.com/articles/microsoft-misfit-helped-lead-company-into-game-market-11607537700)
-- [How we built scalable spatial indexing in CockroachDB](https://www.cockroachlabs.com/blog/how-we-built-spatial-indexing/)
-- [Fractal Architectures: A Software Craftsman's take to Infrastructure as Code](https://yanchware.com/content/fractal-arch-iac)
-- [“This is the worst documentation I have ever seen in my life”](https://github.com/amzn/selling-partner-api-docs/issues/180)
-- [Instagram's Million Dollar Bug (2015)](https://web.archive.org/web/20151217205414/http://www.exfiltrated.com/research-Instagram-RCE.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
