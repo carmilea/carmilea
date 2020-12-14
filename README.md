@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe's Biggest Vertical Farm Will Be Powered by Wind and Planted by Robots](https://singularityhub.com/2020/12/11/europes-biggest-vertical-farm-will-be-powered-by-wind-and-planted-by-robots/)
 - [Death by 1000 layers: the perils of over-abstraction in Java (2017)](https://www.quantcast.com/blog/death-by-1000-layers-the-perils-of-over-abstraction-in-java/)
 - [Show HN: Instantly search 28M books from OpenLibrary (by Internet Archive)](https://books-search.typesense.org/)
 - [Free open-source Media Cloud Platform](https://github.com/fastogt/fastocloud_service)
 - [Highly Evasive Attacker Leverages SolarWinds Supply Chain](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
-- [The World’s First Medical Records](https://lithub.com/what-the-worlds-first-medical-records-tell-us-about-ancient-life/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
