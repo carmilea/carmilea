@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SolarWinds supply chain attack exploits SUNBURST backdoor](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
 - [Child spends $16K on iPad game in-app purchases](https://appleinsider.com/articles/20/12/13/kid-spends-16k-on-in-app-purchases-for-ipad-game-sonic-forces)
 - [Blabrecs](https://mkremins.github.io/blabrecs/)
+- [In Pictures: How much plastic are you eating?](https://www.aljazeera.com/gallery/2020/12/11/in-pictures-how-much-plastic-are-you-eating)
 - [Human Clock](https://humanclock.com/)
-- [Linux 5.10](https://lore.kernel.org/lkml/CAHk-=whCKhxNyKn1Arut8xUDKTwp3fWcCj_jbL5dbzkUmo45gQ@mail.gmail.com/T/#u)
-- [Tesla's market cap now accounts for roughly 1/3rd of the global automaker market](https://datamentary.net/psa-tesla-may-soon-be-as-big-as-all-other-automakers-combined/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
