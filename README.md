@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A newly discovered body part changes our understanding of the brain](http://sitn.hms.harvard.edu/flash/2016/how-a-newly-discovered-body-part-changes-our-understanding-of-the-brain-and-the-immune-system/)
+- [Challenging the ‘Great Reset’ theory of pandemics](https://engelsbergideas.com/essays/challenging-the-great-reset-theory-of-pandemics/)
+- [Dash: Scalable Hashing on Persistent Memory [pdf]](http://www.vldb.org/pvldb/vol13/p1147-lu.pdf)
+- [The Science of Brute Force (2017)](https://cacm.acm.org/magazines/2017/8/219606-the-science-of-brute-force/fulltext)
 - [Being good at coding competitions correlates negatively with job performance](https://catonmat.net/programming-competitions-work-performance)
-- [Police Say Civil Asset Forfeiture Reduces Crime. New Study Shows They’re Wrong](https://www.propublica.org/article/police-say-seizing-property-without-trial-helps-keep-crime-down-a-new-study-shows-theyre-wrong)
-- [SwiftUI tutorials rewritten completely](https://developer.apple.com/tutorials/app-dev-training)
-- [Episode 341: Patrick McKenzie (patio11)](http://www.thinkingpoker.net/2020/12/episode-341-patrick-mckenzie/)
-- [Show HN: A Twilio-powered interactive talk radio platform](https://capiche.fm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
