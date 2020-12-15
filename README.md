@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox 84.0](https://www.mozilla.org/en-US/firefox/84.0/releasenotes/)
-- [Show HN: Offline-First Personal Kanban](https://personalkanban.js.org/showcase.html)
-- [Ask HN: How to run analytics on data without access to the data?](https://news.ycombinator.com/item?id=25429749)
-- [Show HN: Polotno Studio – Canva-like design editor, without signups or ads](https://studio.polotno.dev/)
-- [Kate is 20 years old](https://kate-editor.org/post/2020/2020-12-14-kate-is-20-years-old/)
+- [AWS Fault Injection Simulator](https://aws.amazon.com/fis/)
+- [REST vs. GraphQL – A search for evidence on which is better](https://42papers.com/p/rest-vs-graphql-a-controlled-experiment)
+- [63.8% of People View Journalism More Dangerous Than 10 Years Ago](https://www.safety.com/news/people-view-journalism-more-dangerous-than-ten-years-ago/)
+- [Stacker (YC S20) Is Hiring React/Python Engineers (Remote, Europe)](https://stackerhq.com/jobs)
+- [SingleStore DB 7.3 is Now Generally Available](https://www.singlestore.com/blog/singlestore-db-7-3-is-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
