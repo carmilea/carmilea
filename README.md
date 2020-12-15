@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Case of the Extra 40ms](https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513?source=rss----2615bd06b42e---4)
 - [A newly discovered body part changes our understanding of the brain](http://sitn.hms.harvard.edu/flash/2016/how-a-newly-discovered-body-part-changes-our-understanding-of-the-brain-and-the-immune-system/)
-- [Challenging the ‘Great Reset’ theory of pandemics](https://engelsbergideas.com/essays/challenging-the-great-reset-theory-of-pandemics/)
 - [Dash: Scalable Hashing on Persistent Memory [pdf]](http://www.vldb.org/pvldb/vol13/p1147-lu.pdf)
+- [When Squirrels Were One of America’s Most Popular Pets (2017)](https://www.atlasobscura.com/articles/pet-squirrel-craze)
 - [The Science of Brute Force (2017)](https://cacm.acm.org/magazines/2017/8/219606-the-science-of-brute-force/fulltext)
-- [Being good at coding competitions correlates negatively with job performance](https://catonmat.net/programming-competitions-work-performance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
