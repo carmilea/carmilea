@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trexo Robotics (YC W19) Is Hiring](https://angel.co/company/trexo-robotics/jobs/1085269-operations-manager)
 - [Apple’s Anti-Tracking Plans for iPhone](https://foundation.mozilla.org/en/campaigns/apples-anti-tracking-plans-iphone/)
 - [Minimal safe Bash script template](https://betterdev.blog/minimal-safe-bash-script-template/)
 - [Exhaustiveness Checking with Mypy](https://hakibenita.com/python-mypy-exhaustive-checking)
 - [End-User Programming (2019)](https://www.inkandswitch.com/end-user-programming.html)
-- [EU to unveil landmark law curbing power of tech giants](https://www.dw.com/en/eu-to-unveil-landmark-law-curbing-power-of-tech-giants/a-55939862)
 <!-- BLOG-POST-LIST:END -->
 
 ---
