@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey to Finally Ditching Windows for Good](https://boilingsteam.com/my-journey-to-finally-ditching-windows-for-good/)
+- [Nvidia’s Director of AI research is publicly sharing names of her enemies](https://twitter.com/jessesingal/status/1338512968343048193)
+- [Police Say Civil Asset Forfeiture Reduces Crime. New Study Shows They’re Wrong](https://www.propublica.org/article/police-say-seizing-property-without-trial-helps-keep-crime-down-a-new-study-shows-theyre-wrong)
+- [Build an 8-bit CPU from scratch](https://eater.net/)
+- [SwiftUI tutorials rewritten completely](https://developer.apple.com/tutorials/app-dev-training)
 - [Episode 341: Patrick McKenzie (patio11)](http://www.thinkingpoker.net/2020/12/episode-341-patrick-mckenzie/)
-- [Show HN: A Twilio-powered interactive talk radio platform](https://capiche.fm)
-- [Who Were America’s Enslaved? New Database Humanizes the Names Behind the Numbers](https://www.smithsonianmag.com/history/sweeping-new-digital-database-emphasizes-enslaved-peoples-individuality-180976513)
-- [Eric Engstrom, co-creator of DirectX, passes away at 55](https://www.wsj.com/articles/microsoft-misfit-helped-lead-company-into-game-market-11607537700)
 <!-- BLOG-POST-LIST:END -->
 
 ---
