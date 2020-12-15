@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Trexo Robotics (YC W19) Is Hiring](https://angel.co/company/trexo-robotics/jobs/1085269-operations-manager)
-- [Apple’s Anti-Tracking Plans for iPhone](https://foundation.mozilla.org/en/campaigns/apples-anti-tracking-plans-iphone/)
-- [Minimal safe Bash script template](https://betterdev.blog/minimal-safe-bash-script-template/)
-- [Exhaustiveness Checking with Mypy](https://hakibenita.com/python-mypy-exhaustive-checking)
-- [End-User Programming (2019)](https://www.inkandswitch.com/end-user-programming.html)
+- [Ask HN: How to run analytics on data without access to the data?](https://news.ycombinator.com/item?id=25429749)
+- [Show HN: Polotno Studio – Canva-like design editor, without signups or ads](https://studio.polotno.dev/)
+- [Kate is 20 years old](https://kate-editor.org/post/2020/2020-12-14-kate-is-20-years-old/)
+- [Welcome Yari: MDN Web Docs has a new platform](https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/)
+- [Shitlist Driven Development](https://sirupsen.com/shitlists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
