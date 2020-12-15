@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First commercial curved CMOS sensor from startup CURVE](https://image-sensors-world.blogspot.com/2020/12/first-commercial-curved-cmos-sensor.html)
-- [Estimated 1.56B face masks will have entered oceans in 2020](https://oceansasia.org/covid-19-facemasks/)
-- [Understanding ProRAW](https://blog.halide.cam/understanding-proraw-4eed556d4c54)
-- [EU reveals plan to regulate Big Tech](https://www.bbc.com/news/technology-55318225)
-- [Amazon Managed Service for Prometheus](https://aws.amazon.com/prometheus/)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [What I Wish Someone Had Told Me About Tensor Computation Libraries](https://eigenfoo.xyz/tensor-computation-libraries/)
+- [SingleStore Universal Storage, Episode 3: Revenge of the Upsert](https://www.singlestore.com/blog/singlestore-universal-storage-episode-3-revenge-of-the-upsert/)
+- [Mundane: Rust cryptography library that is difficult to misuse](https://github.com/google/mundane)
+- [Unicorn Traits – Early Signs of a Bilion Dollar Company](https://thestartup.substack.com/p/unicorn-traits)
 <!-- BLOG-POST-LIST:END -->
 
 ---
