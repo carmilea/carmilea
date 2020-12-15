@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [EU reveals plan to regulate Big Tech](https://www.bbc.com/news/technology-55318225)
-- [Firefly Reboot Coming to Disney+](https://www.giantfreakinrobot.com/ent/firefly-reboot-disney.html)
 - [Amazon Managed Service for Prometheus](https://aws.amazon.com/prometheus/)
 - [Amazon Managed Service for Grafana](http://aws.amazon.com/grafana)
 - [Neverware is now part of Google](https://cloudreadykb.neverware.com/s/article/Neverware-is-now-part-of-Google-FAQ)
+- [PINE64 December Update](https://www.pine64.org/2020/12/15/december-update-the-longest-one-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
