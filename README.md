@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia’s Director of AI research is publicly sharing names of her enemies](https://twitter.com/jessesingal/status/1338512968343048193)
+- [Being good at coding competitions correlates negatively with job performance](https://catonmat.net/programming-competitions-work-performance)
 - [Police Say Civil Asset Forfeiture Reduces Crime. New Study Shows They’re Wrong](https://www.propublica.org/article/police-say-seizing-property-without-trial-helps-keep-crime-down-a-new-study-shows-theyre-wrong)
-- [Build an 8-bit CPU from scratch](https://eater.net/)
 - [SwiftUI tutorials rewritten completely](https://developer.apple.com/tutorials/app-dev-training)
 - [Episode 341: Patrick McKenzie (patio11)](http://www.thinkingpoker.net/2020/12/episode-341-patrick-mckenzie/)
+- [Show HN: A Twilio-powered interactive talk radio platform](https://capiche.fm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
