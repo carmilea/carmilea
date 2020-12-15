@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Fault Injection Simulator](https://aws.amazon.com/fis/)
-- [REST vs. GraphQL – A search for evidence on which is better](https://42papers.com/p/rest-vs-graphql-a-controlled-experiment)
-- [63.8% of People View Journalism More Dangerous Than 10 Years Ago](https://www.safety.com/news/people-view-journalism-more-dangerous-than-ten-years-ago/)
-- [Stacker (YC S20) Is Hiring React/Python Engineers (Remote, Europe)](https://stackerhq.com/jobs)
-- [SingleStore DB 7.3 is Now Generally Available](https://www.singlestore.com/blog/singlestore-db-7-3-is-now-generally-available/)
+- [EU reveals plan to regulate Big Tech](https://www.bbc.com/news/technology-55318225)
+- [Firefly Reboot Coming to Disney+](https://www.giantfreakinrobot.com/ent/firefly-reboot-disney.html)
+- [Amazon Managed Service for Prometheus](https://aws.amazon.com/prometheus/)
+- [Amazon Managed Service for Grafana](http://aws.amazon.com/grafana)
+- [Neverware is now part of Google](https://cloudreadykb.neverware.com/s/article/Neverware-is-now-part-of-Google-FAQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
