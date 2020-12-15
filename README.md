@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Health Canada opens the door to psychedelic therapies](https://www.citynews1130.com/video/2020/12/12/health-canada-opens-the-door-to-psychedelic-therapies/)
-- [Silicon Valley exodus: Bay Area tech companies leaving for Texas](https://www.ktvu.com/news/silicon-valley-exodus-bay-area-tech-companies-leaving-for-texas)
 - [TP-Link Archer VT1600V V2 Super User Password Cracked](https://www.marcelvarallo.com/so-we-cracked-the-archer-vr1600v-v2-super-user-password/)
 - [The Case of the Extra 40ms](https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513?source=rss----2615bd06b42e---4)
 - [A newly discovered body part changes our understanding of the brain (2016)](http://sitn.hms.harvard.edu/flash/2016/how-a-newly-discovered-body-part-changes-our-understanding-of-the-brain-and-the-immune-system/)
+- [Dash: Scalable Hashing on Persistent Memory [pdf]](http://www.vldb.org/pvldb/vol13/p1147-lu.pdf)
+- [When Squirrels Were One of America’s Most Popular Pets (2017)](https://www.atlasobscura.com/articles/pet-squirrel-craze)
 <!-- BLOG-POST-LIST:END -->
 
 ---
