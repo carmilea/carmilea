@@ -55,7 +55,7 @@
 - [Show HN: Polotno Studio – Canva-like design editor, without signups or ads](https://studio.polotno.dev/)
 - [Kate is 20 years old](https://kate-editor.org/post/2020/2020-12-14-kate-is-20-years-old/)
 - [Welcome Yari: MDN Web Docs has a new platform](https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/)
-- [Shitlist Driven Development](https://sirupsen.com/shitlists/)
+- [App privacy labels now live on the App Store](https://developer.apple.com/news/?id=3wann9gh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
