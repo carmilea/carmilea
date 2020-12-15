@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [What I Wish Someone Had Told Me About Tensor Computation Libraries](https://eigenfoo.xyz/tensor-computation-libraries/)
-- [SingleStore Universal Storage, Episode 3: Revenge of the Upsert](https://www.singlestore.com/blog/singlestore-universal-storage-episode-3-revenge-of-the-upsert/)
-- [Mundane: Rust cryptography library that is difficult to misuse](https://github.com/google/mundane)
-- [Unicorn Traits – Early Signs of a Bilion Dollar Company](https://thestartup.substack.com/p/unicorn-traits)
+- [Gmail Having Issues](https://www.google.com/appsstatus#hl=en&v=issue&sid=1&iid=a8b67908fadee664c68c240ff9f529ab)
+- [Fleeing New Yorkers resulted in an estimated $34B in lost income](https://www.reuters.com/article/usa-economy-nyc/fleeing-new-yorkers-resulted-in-an-estimated-34-billion-in-lost-income-study-idUKKBN28P1Q1)
+- [Facebook to move UK users to California terms, avoiding EU privacy rules](https://www.reuters.com/article/britain-eu-facebook-exclusive-idUSKBN28P2HH)
+- [Why Free Software Needs Free Documentation](https://www.gnu.org/philosophy/free-doc.html)
+- [iPhone 12 Pro Max Camera Review Zion – Austin Mann](http://austinmann.com/trek/iphone-12-pro-camera-max-review-zion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
