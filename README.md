@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Covid relief bill smaller than either parties pre-election promises](https://taibbi.substack.com/p/amazing-hypocrisy-democrats-make)
-- [When Italian Futurists Declared War on Pasta (1930)](https://www.openculture.com/2020/12/when-italian-futurists-declared-war-on-pasta-1930.html)
+- [Italian Futurists Declared War on Pasta](https://www.openculture.com/2020/12/when-italian-futurists-declared-war-on-pasta-1930.html)
 - [Why Do Models That Predict Failure Fail? [pdf]](https://www.fdic.gov/analysis/cfr/working-papers/2020/cfr-wp2020-05.pdf)
 - [Adding Encrypted Group Calls to Signal](https://signal.org/blog/group-calls/)
 - [Show HN: Show last Git push on an e-paper device](https://github.com/napsy/git-on-epaper)
+- [The Most Complete List of Legally Free Python Books (Updated 2021)](https://www.pythonkitchen.com/legally-free-python-books-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
