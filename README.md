@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Is a Doomsday Machine](https://www.theatlantic.com/technology/archive/2020/12/facebook-doomsday-machine/617384/)
 - [Ask HN: How to run analytics on data without access to the data?](https://news.ycombinator.com/item?id=25429749)
 - [Show HN: Polotno Studio – Canva-like design editor, without signups or ads](https://studio.polotno.dev/)
 - [Kate is 20 years old](https://kate-editor.org/post/2020/2020-12-14-kate-is-20-years-old/)
 - [Welcome Yari: MDN Web Docs has a new platform](https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/)
-- [App privacy labels now live on the App Store](https://developer.apple.com/news/?id=3wann9gh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
