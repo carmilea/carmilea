@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding Encrypted Group Calls to Signal](https://signal.org/blog/group-calls/)
 - [Google Cloud Status Dashboard](https://status.cloud.google.com/incident/zall/20013)
+- [A palm oil alternative could help save rainforests](https://www.bbc.com/news/business-55016453)
+- [Assume You're Below Average](https://sive.rs/below-average)
 - [TP-Link Archer VT1600V V2 Super User Password Cracked](https://www.marcelvarallo.com/so-we-cracked-the-archer-vr1600v-v2-super-user-password/)
-- [The Case of the Extra 40ms](https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513?source=rss----2615bd06b42e---4)
-- [A newly discovered body part changes our understanding of the brain (2016)](http://sitn.hms.harvard.edu/flash/2016/how-a-newly-discovered-body-part-changes-our-understanding-of-the-brain-and-the-immune-system/)
-- [Dash: Scalable Hashing on Persistent Memory [pdf]](http://www.vldb.org/pvldb/vol13/p1147-lu.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
