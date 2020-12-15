@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Covid relief bill smaller than either parties pre-election promises](https://taibbi.substack.com/p/amazing-hypocrisy-democrats-make)
+- [When Italian Futurists Declared War on Pasta (1930)](https://www.openculture.com/2020/12/when-italian-futurists-declared-war-on-pasta-1930.html)
+- [Why Do Models That Predict Failure Fail? [pdf]](https://www.fdic.gov/analysis/cfr/working-papers/2020/cfr-wp2020-05.pdf)
 - [Adding Encrypted Group Calls to Signal](https://signal.org/blog/group-calls/)
-- [Google Cloud Status Dashboard](https://status.cloud.google.com/incident/zall/20013)
-- [A palm oil alternative could help save rainforests](https://www.bbc.com/news/business-55016453)
-- [Assume You're Below Average](https://sive.rs/below-average)
-- [TP-Link Archer VT1600V V2 Super User Password Cracked](https://www.marcelvarallo.com/so-we-cracked-the-archer-vr1600v-v2-super-user-password/)
+- [Show HN: Show last Git push on an e-paper device](https://github.com/napsy/git-on-epaper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
