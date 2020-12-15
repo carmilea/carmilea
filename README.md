@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First commercial curved CMOS sensor from startup CURVE](https://image-sensors-world.blogspot.com/2020/12/first-commercial-curved-cmos-sensor.html)
+- [Estimated 1.56B face masks will have entered oceans in 2020](https://oceansasia.org/covid-19-facemasks/)
+- [Understanding ProRAW](https://blog.halide.cam/understanding-proraw-4eed556d4c54)
 - [EU reveals plan to regulate Big Tech](https://www.bbc.com/news/technology-55318225)
 - [Amazon Managed Service for Prometheus](https://aws.amazon.com/prometheus/)
-- [Amazon Managed Service for Grafana](http://aws.amazon.com/grafana)
-- [Neverware is now part of Google](https://cloudreadykb.neverware.com/s/article/Neverware-is-now-part-of-Google-FAQ)
-- [PINE64 December Update](https://www.pine64.org/2020/12/15/december-update-the-longest-one-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
