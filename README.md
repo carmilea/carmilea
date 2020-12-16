@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin Hits New All-Time High](https://www.livecoinwatch.com/price/Bitcoin-BTC)
 - [Vercel raise $40M Series B](https://vercel.com/blog/series-b-40m-to-build-the-next-web)
 - [Facebook criticizes Apple’s iOS privacy changes with full-page newspaper ads](https://www.theverge.com/2020/12/16/22178068/facebook-apple-newspaper-ads-ios-privacy-changes)
 - [Tesco removes 20m items of plastic from Christmas range](https://www.theguardian.com/business/2020/dec/09/tesco-removes-20m-items-of-plastic-from-christmas-range)
 - [Facebook accuses people tied to French military of running troll accounts](https://edition.cnn.com/2020/12/15/tech/facebook-france-africa-troll/index.html)
-- [Ask HN: I want to start learning Lisp. Where do I begin?](https://news.ycombinator.com/item?id=25441664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
