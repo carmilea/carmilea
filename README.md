@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin Hits New All-Time High](https://www.livecoinwatch.com/price/Bitcoin-BTC)
-- [Vercel raise $40M Series B](https://vercel.com/blog/series-b-40m-to-build-the-next-web)
-- [Facebook criticizes Apple’s iOS privacy changes with full-page newspaper ads](https://www.theverge.com/2020/12/16/22178068/facebook-apple-newspaper-ads-ios-privacy-changes)
-- [Tesco removes 20m items of plastic from Christmas range](https://www.theguardian.com/business/2020/dec/09/tesco-removes-20m-items-of-plastic-from-christmas-range)
-- [Facebook accuses people tied to French military of running troll accounts](https://edition.cnn.com/2020/12/15/tech/facebook-france-africa-troll/index.html)
+- [I Lost all my funds, with one idiot mistake – I will pay 13k $ for solution](https://github.com/ethereum/solidity/issues/10616)
+- [Bitcoin breaks above $20k for the first time ever](https://www.cnbc.com/2020/12/16/bitcoin-breaks-above-20000-for-the-first-time-ever.html)
+- [SolarWinds leaked FTP credentials through a public GitHub repo since 2018](https://www.savebreach.com/solarwinds-exposed-ftp-credentials-back-in-2018-says-security-researcher-vinoth/)
+- [Tig – Text-mode interface for Git](https://jonas.github.io/tig/)
+- [Google Finance Finally Updated](https://www.google.com/finance/quote/GOOG:NASDAQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
