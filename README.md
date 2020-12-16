@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [SolarWinds use the password 'solarwinds123' on their Update Servers](https://in.reuters.com/article/global-cyber-solarwinds-idINKBN28P2N8)
+- [Far cry: How the fire burns and spreads](https://jflevesque.com/2012/12/06/far-cry-how-the-fire-burns-and-spreads/)
 - [Gmail having issues](https://www.google.com/appsstatus#hl=en&v=issue&sid=1&iid=a8b67908fadee664c68c240ff9f529ab)
 - [CD Projekt Conference Call with the Management Board [pdf] (Dec 14)](https://www.cdprojekt.com/en/wp-content/uploads-en/2020/12/call-transcript_en.pdf)
 - [Facebook to move UK users to California terms, avoiding EU privacy rules](https://www.reuters.com/article/britain-eu-facebook-exclusive-idUSKBN28P2HH)
-- [Free software needs free documentation](https://www.gnu.org/philosophy/free-doc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
