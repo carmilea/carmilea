@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FDA authorizes rapid, at-home Covid test kit, costs –$30 with results in 15 min](https://www.axios.com/fda-authorizes-rapid-at-home-coronavirus-test-85012e02-6c4f-4d98-be7d-8334d85a6c4c.html)
-- [Zero to Emacs and Org-roam: a step-by-step guide on Windows 10](https://github.com/nobiot/Zero-to-Emacs-and-Org-roam)
-- [SaaSy Math: A Resource of SaaS Metrics for Your Startup](https://www.talkinsaasy.com/saasy-math)
-- [Bitcoin breaks above $20k](https://www.nasdaq.com/articles/bitcoin-hits-record-above-%2420k-as-analysts-remain-confident-of-future-2020-12-16)
-- [Guide to Effective Linux and Bash for Data Scientists](http://dagshub.com/blog/effective-linux-bash-data-scientists/)
+- [Nearly 8M Americans have fallen into poverty since summer](https://www.washingtonpost.com/business/2020/12/16/poverty-rising/)
+- [Pulley (YC W20) Is Hiring Go Engineers](https://news.ycombinator.com/item?id=25444908)
+- [Amazon Location Service](https://aws.amazon.com/blogs/aws/amazon-location-add-maps-and-location-awareness-to-your-applications/)
+- [Substack Reader: An RSS feed reader for tracking newsletter subscriptions](https://blog.substack.com/p/new-reader-homepage)
+- [CentOS dropped because it “was not [..] providing [..] usefulness to Red Hat”](https://www.itprotoday.com/linux/community-concerns-prompt-red-hat-drop-centos-centos-stream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
