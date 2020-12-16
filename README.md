@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Preview in macOS Big Sur is irreversibly destroying PDFs – again](https://annoying.technology/posts/86f4ea27e4cd90d0/)
-- [The demographic and cultural roots of the midlife crisis](https://royalsocietypublishing.org/doi/10.1098/rsnr.2020.0008)
-- [Tech Preview of Docker Desktop for M1](https://www.docker.com/blog/download-and-try-the-tech-preview-of-docker-desktop-for-m1/)
-- [A Beginner's Garden of Chess Openings (2002)](https://dwheeler.com/chess-openings/)
-- [GTK 4.0 Released](https://blog.gtk.org/2020/12/16/gtk-4-0/)
+- [State of Texas vs. Google LLC [pdf]](https://www.texasattorneygeneral.gov/sites/default/files/images/admin/2020/Press/20201216%20COMPLAINT_REDACTED.pdf)
+- [Openbase (YC S20) Is Hiring](https://news.ycombinator.com/item?id=25448582)
+- [Sequoia PGP 1.0 Released: The Seedling Is a Sapling](https://sequoia-pgp.org/blog/2020/12/16/202012-1.0/)
+- [Amazon marks breakthrough in Project Kuiper development](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-marks-breakthrough-in-project-kuiper-development)
+- [Covid-19 is 10 times deadlier for people with Down syndrome](https://www.sciencemag.org/news/2020/12/covid-19-10-times-deadlier-people-down-syndrome-raising-calls-early-vaccination)
 <!-- BLOG-POST-LIST:END -->
 
 ---
