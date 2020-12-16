@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [4k 144Hz no longer available after upgrade to Big Sur](https://egpu.io/forums/mac-setup/4k144hz-no-longer-available-after-upgrade-to-big-sur/)
 - [Gmail having issues](https://www.google.com/appsstatus#hl=en&v=issue&sid=1&iid=a8b67908fadee664c68c240ff9f529ab)
 - [CD Projekt Conference Call with the Management Board [pdf] (Dec 14)](https://www.cdprojekt.com/en/wp-content/uploads-en/2020/12/call-transcript_en.pdf)
 - [Facebook to move UK users to California terms, avoiding EU privacy rules](https://www.reuters.com/article/britain-eu-facebook-exclusive-idUSKBN28P2HH)
 - [Free software needs free documentation](https://www.gnu.org/philosophy/free-doc.html)
-- [iPhone 12 Pro Max Camera Review: Zion NP](http://austinmann.com/trek/iphone-12-pro-camera-max-review-zion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
