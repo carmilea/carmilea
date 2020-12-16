@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nearly 8M Americans have fallen into poverty since summer](https://www.washingtonpost.com/business/2020/12/16/poverty-rising/)
-- [Pulley (YC W20) Is Hiring Go Engineers](https://news.ycombinator.com/item?id=25444908)
-- [Amazon Location Service](https://aws.amazon.com/blogs/aws/amazon-location-add-maps-and-location-awareness-to-your-applications/)
-- [Substack Reader: An RSS feed reader for tracking newsletter subscriptions](https://blog.substack.com/p/new-reader-homepage)
-- [CentOS dropped because it “was not [..] providing [..] usefulness to Red Hat”](https://www.itprotoday.com/linux/community-concerns-prompt-red-hat-drop-centos-centos-stream)
+- [GTK 4.0 Released](https://blog.gtk.org/2020/12/16/gtk-4-0/)
+- [Trump Twitter Was Hacked](https://www.bbc.co.uk/news/technology-55337192)
+- [Rocky Linux: A CentOS replacement by the original CentOS founder](https://github.com/rocky-linux/rocky)
+- [Jet Powered Volkswagen Beetle – $550k (sunnyvale)](https://sfbay.craigslist.org/sby/cto/d/mountain-view-jet-powered-volkswagen/7241823593.html)
+- [Child-safety laws may reduce the birth rate](https://www.economist.com/science-and-technology/2020/11/28/child-safety-laws-may-reduce-the-birth-rate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
