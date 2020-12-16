@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ContentFly (YC W21) Is Hiring Software Engineers (Remote)](https://contentfly.com/company)
+- [High-Frequency Traders Push Closer to Light Speed with Cutting-Edge Cables](https://www.wsj.com/articles/high-frequency-traders-push-closer-to-light-speed-with-cutting-edge-cables-11608028200)
 - [RoboScan: Lego+Raspberry Pi-powered analog film roll scanner](https://github.com/bezineb5/RoboScan#roboscan)
+- [Debian CD Image for AArch64 Windows Laptops](https://github.com/aarch64-laptops/debian-cdimage)
 - [A new release for GNU Octave](https://lwn.net/SubscriberLink/840050/47a639d7753cc988/)
-- [Show HN: I made a crate for creating interactive chord diagrams in Rust](https://datacrayon.com/posts/programming/rust-notebooks/visualisation-of-co-occurring-types/)
-- [I3: Improved Tiling Window Manager](https://i3wm.org/)
-- [Elderly patients 23% more likely to die if surgery is on the surgeon’s birthday](https://www.psychnewsdaily.com/elderly-emergency-surgery-patients-23-more-likely-to-die-if-operation-takes-place-on-surgeons-birthday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
