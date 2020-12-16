@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Universal Storage update in #SingleStore 7.3](https://www.youtube.com/watch?v=gfjEtPtz9ao)
 - [What's new in SingleStore 7.3](https://www.youtube.com/watch?v=XPNDQGuRwbo)
 - [The Know Show: Data for Child Safety](https://www.youtube.com/watch?v=O4j9zR7mdSY)
 - [SingleStore Sharding and Shard Keys](https://www.youtube.com/watch?v=_vYmGkynuIw)
 - [Simplify your data strategy with #DataMesh](https://www.youtube.com/watch?v=0TpZUNd3Q8s)
-- [The Know Show: Monster Data](https://www.youtube.com/watch?v=thunJNr2zMQ)
 <!-- YOUTUBE:END -->
 
 
