@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Lost all my funds, with one idiot mistake – I will pay 13k $ for solution](https://github.com/ethereum/solidity/issues/10616)
-- [Bitcoin breaks above $20k for the first time ever](https://www.cnbc.com/2020/12/16/bitcoin-breaks-above-20000-for-the-first-time-ever.html)
-- [SolarWinds leaked FTP credentials through a public GitHub repo since 2018](https://www.savebreach.com/solarwinds-exposed-ftp-credentials-back-in-2018-says-security-researcher-vinoth/)
-- [Tig – Text-mode interface for Git](https://jonas.github.io/tig/)
-- [Google Finance Finally Updated](https://www.google.com/finance/quote/GOOG:NASDAQ)
+- [FDA authorizes rapid, at-home Covid test kit, costs –$30 with results in 15 min](https://www.axios.com/fda-authorizes-rapid-at-home-coronavirus-test-85012e02-6c4f-4d98-be7d-8334d85a6c4c.html)
+- [Zero to Emacs and Org-roam: a step-by-step guide on Windows 10](https://github.com/nobiot/Zero-to-Emacs-and-Org-roam)
+- [SaaSy Math: A Resource of SaaS Metrics for Your Startup](https://www.talkinsaasy.com/saasy-math)
+- [Bitcoin breaks above $20k](https://www.nasdaq.com/articles/bitcoin-hits-record-above-%2420k-as-analysts-remain-confident-of-future-2020-12-16)
+- [Guide to Effective Linux and Bash for Data Scientists](http://dagshub.com/blog/effective-linux-bash-data-scientists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
