@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RoboScan: Lego+Raspberry Pi-powered analog film roll scanner](https://github.com/bezineb5/RoboScan#roboscan)
+- [A new release for GNU Octave](https://lwn.net/SubscriberLink/840050/47a639d7753cc988/)
 - [Show HN: I made a crate for creating interactive chord diagrams in Rust](https://datacrayon.com/posts/programming/rust-notebooks/visualisation-of-co-occurring-types/)
 - [I3: Improved Tiling Window Manager](https://i3wm.org/)
 - [Elderly patients 23% more likely to die if surgery is on the surgeon’s birthday](https://www.psychnewsdaily.com/elderly-emergency-surgery-patients-23-more-likely-to-die-if-operation-takes-place-on-surgeons-birthday/)
-- [Air-FI: Generating Covert Wi-Fi Signals from Air-Gapped Computers](https://arxiv.org/abs/2012.06884)
-- [GiveCampus (YC S15) is hiring remote senior engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
