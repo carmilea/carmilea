@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a crate for creating interactive chord diagrams in Rust](https://datacrayon.com/posts/programming/rust-notebooks/visualisation-of-co-occurring-types/)
+- [I3: Improved Tiling Window Manager](https://i3wm.org/)
 - [Elderly patients 23% more likely to die if surgery is on the surgeon’s birthday](https://www.psychnewsdaily.com/elderly-emergency-surgery-patients-23-more-likely-to-die-if-operation-takes-place-on-surgeons-birthday/)
 - [Air-FI: Generating Covert Wi-Fi Signals from Air-Gapped Computers](https://arxiv.org/abs/2012.06884)
 - [GiveCampus (YC S15) is hiring remote senior engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
-- [Brazil scientists map forest regrowth keeping Amazon from collapse: Study](https://news.mongabay.com/2020/12/brazil-scientists-map-forest-regrowth-keeping-amazon-from-collapse-study/)
-- [Far Cry: How the Fire Burns and Spreads (2012)](https://jflevesque.com/2012/12/06/far-cry-how-the-fire-burns-and-spreads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
