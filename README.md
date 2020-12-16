@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GiveCampus (YC S15) Is Hiring remote Sr engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
-- [Fleeing New Yorkers resulted in an estimated $34B in lost income](https://www.reuters.com/article/usa-economy-nyc-idUSKBN28P1Q8)
+- [Air-FI: Generating Covert Wi-Fi Signals from Air-Gapped Computers](https://arxiv.org/abs/2012.06884)
+- [GiveCampus (YC S15) is hiring remote senior engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
 - [Brazil scientists map forest regrowth keeping Amazon from collapse: Study](https://news.mongabay.com/2020/12/brazil-scientists-map-forest-regrowth-keeping-amazon-from-collapse-study/)
 - [Far Cry: How the Fire Burns and Spreads (2012)](https://jflevesque.com/2012/12/06/far-cry-how-the-fire-burns-and-spreads/)
 - [Gmail having issues](https://www.google.com/appsstatus#hl=en&v=issue&sid=1&iid=a8b67908fadee664c68c240ff9f529ab)
