@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner's Garden of Chess Openings](https://dwheeler.com/chess-openings/)
+- [Preview in macOS Big Sur is irreversibly destroying PDFs – again](https://annoying.technology/posts/86f4ea27e4cd90d0/)
+- [The demographic and cultural roots of the midlife crisis](https://royalsocietypublishing.org/doi/10.1098/rsnr.2020.0008)
+- [Tech Preview of Docker Desktop for M1](https://www.docker.com/blog/download-and-try-the-tech-preview-of-docker-desktop-for-m1/)
+- [A Beginner's Garden of Chess Openings (2002)](https://dwheeler.com/chess-openings/)
 - [GTK 4.0 Released](https://blog.gtk.org/2020/12/16/gtk-4-0/)
-- [Rocky Linux: A CentOS replacement by the original CentOS founder](https://github.com/rocky-linux/rocky)
-- [Jet Powered Volkswagen Beetle – $550k (sunnyvale)](https://sfbay.craigslist.org/sby/cto/d/mountain-view-jet-powered-volkswagen/7241823593.html)
-- [A complete computer science study plan to become a software engineer](https://github.com/jwasham/coding-interview-university)
 <!-- BLOG-POST-LIST:END -->
 
 ---
