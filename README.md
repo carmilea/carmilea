@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Proud Boys and antifa: A right-wing activist met a left-wing anti-fascist (2019)](https://www.bbc.co.uk/news/blogs-trending-47332054)
 - [MacKenzie Scott, ex-wife of Jeff Bezos, says she gave $4.2B to charity](https://www.cbsnews.com/news/mackenzie-scott-bezos-charity-4-2-billion/)
 - [SolarWinds use the password 'solarwinds123' on their Update Servers](https://in.reuters.com/article/global-cyber-solarwinds-idINKBN28P2N8)
 - [Far cry: How the fire burns and spreads](https://jflevesque.com/2012/12/06/far-cry-how-the-fire-burns-and-spreads/)
 - [Gmail having issues](https://www.google.com/appsstatus#hl=en&v=issue&sid=1&iid=a8b67908fadee664c68c240ff9f529ab)
+- [CD Projekt Conference Call with the Management Board [pdf] (Dec 14)](https://www.cdprojekt.com/en/wp-content/uploads-en/2020/12/call-transcript_en.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
