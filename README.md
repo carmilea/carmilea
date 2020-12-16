@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [State of Texas vs. Google LLC [pdf]](https://www.texasattorneygeneral.gov/sites/default/files/images/admin/2020/Press/20201216%20COMPLAINT_REDACTED.pdf)
+- [States bring action against Google under federal and state antitrust laws [pdf]](https://www.texasattorneygeneral.gov/sites/default/files/images/admin/2020/Press/20201216%20COMPLAINT_REDACTED.pdf)
 - [Openbase (YC S20) Is Hiring](https://news.ycombinator.com/item?id=25448582)
 - [Sequoia PGP 1.0 Released: The Seedling Is a Sapling](https://sequoia-pgp.org/blog/2020/12/16/202012-1.0/)
-- [Amazon marks breakthrough in Project Kuiper development](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-marks-breakthrough-in-project-kuiper-development)
+- [Project Kuiper's custom-built antenna architecture](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-marks-breakthrough-in-project-kuiper-development)
 - [Covid-19 is 10 times deadlier for people with Down syndrome](https://www.sciencemag.org/news/2020/12/covid-19-10-times-deadlier-people-down-syndrome-raising-calls-early-vaccination)
 <!-- BLOG-POST-LIST:END -->
 
