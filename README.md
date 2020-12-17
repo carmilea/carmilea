@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Philosophy of the GNU Project](https://www.gnu.org/philosophy/philosophy.html)
+- [Launch HN: ShareWith (YC W21) – Easily share internal websites securely](https://news.ycombinator.com/item?id=25457085)
+- [Biomarker of Alzheimer's found to be regulated by sleep cycles](https://newatlas.com/medical/biomarker-alzheimers-protein-sleep-cycles-rhythm/)
+- [GCC's inefficient code generation for C++ initializers](https://news.ycombinator.com/item?id=25456252)
+- [Philosophy of the GNU Project (2018)](https://www.gnu.org/philosophy/philosophy.html)
 - [Show HN: Make comic book layouts in the browser](https://andrewfulrich.gitlab.io/panelle/)
-- [Map of quotation marks in European languages](https://jakubmarian.com/map-of-quotation-marks-in-european-languages/)
-- [Stripe’s payments APIs: the first ten years](https://stripe.com/blog/payment-api-design)
-- [SEC Charges Robinhood $65M for Misleading Customers About Revenue Sources](https://www.sec.gov/news/press-release/2020-321#:~:text=Press%20Release-,SEC%20Charges%20Robinhood%20Financial%20With%20Misleading%20Customers%20About%20Revenue%20Sources,Satisfy%20Duty%20of%20Best%20Execution&text=The%20order%20finds%20that%20Robinhood,from%20not%20paying%20a%20commission.)
 <!-- BLOG-POST-LIST:END -->
 
 ---
