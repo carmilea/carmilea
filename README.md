@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase announces confidential submission of draft registration statement](https://blog.coinbase.com/coinbase-announces-confidential-submission-of-draft-registration-statement-b140a9dfc9f5)
+- [Changes to GitHub Code Search Indexing](https://github.blog/changelog/2020-12-17-changes-to-code-search-indexing/)
+- [Commits are shapshots, not diffs](https://github.blog/2020-12-17-commits-are-shapshots-not-diffs/)
 - [Sick of spending time on Auth, we built an open source 'Stripe for Auth'](https://news.ycombinator.com/item?id=25458033)
-- [No Cookie for You](https://github.blog/2020-12-17-no-cookie-for-you/)
-- [Reverie Labs (YC W18) Is Hiring Senior Full-Stack Engineers to Cure Cancer](https://jobs.lever.co/reverielabs/3215ba2d-a3be-412b-954d-10e1e75eb078)
-- [Global chip shortage threatens production of laptops, smartphones and more](https://www.reuters.com/article/idUSKBN28R0ZL)
-- [Stop Silencing Critics from MiddleEast and NorthAfrica](https://www.accessnow.org/facebook-twitter-youtube-stop-silencing-critical-voices-mena/)
+- [Software breakthrough radically boosts the speed of DNA sequencers](https://newatlas.com/medical/uncalled-faster-dna-sequencing-nanopore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
