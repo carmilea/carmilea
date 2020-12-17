@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No Cookie for You](https://github.blog/2020-12-17-no-cookie-for-you/)
+- [Reverie Labs (YC W18) Is Hiring Senior Full-Stack Engineers to Cure Cancer](https://jobs.lever.co/reverielabs/3215ba2d-a3be-412b-954d-10e1e75eb078)
+- [Global chip shortage threatens production of laptops, smartphones and more](https://www.reuters.com/article/idUSKBN28R0ZL)
+- [Stop Silencing Critics from MiddleEast and NorthAfrica](https://www.accessnow.org/facebook-twitter-youtube-stop-silencing-critical-voices-mena/)
 - [Launch HN: ShareWith (YC W21) – Easily share internal websites securely](https://news.ycombinator.com/item?id=25457085)
-- [Biomarker of Alzheimer's found to be regulated by sleep cycles](https://newatlas.com/medical/biomarker-alzheimers-protein-sleep-cycles-rhythm/)
-- [GCC's inefficient code generation for C++ initializers](https://news.ycombinator.com/item?id=25456252)
-- [Philosophy of the GNU Project (2018)](https://www.gnu.org/philosophy/philosophy.html)
-- [Show HN: Make comic book layouts in the browser](https://andrewfulrich.gitlab.io/panelle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
