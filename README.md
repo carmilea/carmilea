@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Mobile emulator farms” used to steal millions from US and EU banks](https://arstechnica.com/information-technology/2020/12/evil-mobile-emulator-farms-used-to-steal-millions-from-us-and-eu-banks/)
-- [An Overview of End-to-End Entity Resolution for Big Data](https://blog.acolyer.org/2020/12/14/entity-resolution/)
-- [A New Satellite Can Peer Inside Buildings, Day or Night](https://futurism.com/new-satellite-buildings-day-night)
-- [Lessons from building and growing an open source SaaS](https://plausible.io/blog/building-open-source)
-- [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
+- [Stripe’s payments APIs: the first ten years](https://stripe.com/blog/payment-api-design)
+- [SEC Charges Robinhood $65M for Misleading Customers About Revenue Sources](https://www.sec.gov/news/press-release/2020-321#:~:text=Press%20Release-,SEC%20Charges%20Robinhood%20Financial%20With%20Misleading%20Customers%20About%20Revenue%20Sources,Satisfy%20Duty%20of%20Best%20Execution&text=The%20order%20finds%20that%20Robinhood,from%20not%20paying%20a%20commission.)
+- [Cloudflare Pages: the best way to build JAMstack websites](https://blog.cloudflare.com/cloudflare-pages/)
+- [Zstandard v1.4.7](https://github.com/facebook/zstd/releases/tag/v1.4.7)
+- [More information on the plant disturbance at Olkiluoto 2](https://www.tvo.fi/en/index/news/pressreleasesstockexchangereleases/2020/moreinformationontheplantdisturbanceatolkiluoto2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
