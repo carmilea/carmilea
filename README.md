@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Mobile emulator farms” used to steal millions from US and EU banks](https://arstechnica.com/information-technology/2020/12/evil-mobile-emulator-farms-used-to-steal-millions-from-us-and-eu-banks/)
+- [An Overview of End-to-End Entity Resolution for Big Data](https://blog.acolyer.org/2020/12/14/entity-resolution/)
+- [A New Satellite Can Peer Inside Buildings, Day or Night](https://futurism.com/new-satellite-buildings-day-night)
+- [Lessons from building and growing an open source SaaS](https://plausible.io/blog/building-open-source)
 - [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
-- [How Google’s AI ethics meltdown could shape policy](https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/)
-- [GWSL: Run graphical Linux apps in WSL](https://github.com/Opticos/GWSL-Source)
-- [Free internet for all not such a bad idea](https://www.theguardian.com/technology/2020/dec/11/free-internet-for-all-not-such-a-bad-idea)
-- [51% of 4M Docker images have critical vulnerabilities](https://thechief.io/c/news/51-4-million-docker-images-have-critical-vulnerabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
