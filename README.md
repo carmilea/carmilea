@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tensions in Google's ethical AI group increase as it sends demands to CEO](https://www.cnn.com/2020/12/16/tech/google-timnit-gebru-ethical-ai-letter/index.html)
+- [Raycast (YC W20) Is Hiring Fullstack Software Engineers (Remote, UTC ± 3 Hours)](https://raycast.com/jobs/software-engineer-fullstack)
 - [Transmits AM radio on computers without radio transmitting hardware](https://github.com/fulldecent/system-bus-radio)
 - [SolarWinds’ shares drop 22 per cent. But what’s this? $286M in stock sales](https://www.theregister.com/2020/12/16/solarwinds_stock_sale/)
 - [React's UseRef Deep Dive](https://www.giovannibenussi.com/blog/a-complete-guide-to-useref/?id=1)
