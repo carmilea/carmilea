@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Truebill (YC W16) Is Hiring a Lead Security Architect](https://boards.greenhouse.io/truebill/jobs/4297986003)
+- [Advanced Persistent Threat Compromise of Government Agencies](https://us-cert.cisa.gov/ncas/alerts/aa20-352a)
+- [Hallucinations re: the rendering of Cyberpunk 2077](http://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html)
+- [How I Met My Wife (1994)](https://www.newyorker.com/magazine/1994/07/25/how-i-met-my-wife)
 - [Reverse engineering the Nest home/away API](https://blog.emilburzo.com/2020/12/reverse-engineering-nest-home-away-status-api/)
-- [Show HN: Cimbar – File transfer via color barcodes and the Android camera](https://github.com/sz3/libcimbar)
-- [Amazon disallows pointing out paid reviews](http://blog.kevmod.com/2020/12/amazon-disallows-pointing-out-paid-reviews/)
-- [When free software isn't practically superior (2015)](https://www.gnu.org/philosophy/when-free-software-isnt-practically-superior.html)
-- [Coinbase announces confidential submission of draft registration statement](https://blog.coinbase.com/coinbase-announces-confidential-submission-of-draft-registration-statement-b140a9dfc9f5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
