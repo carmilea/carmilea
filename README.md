@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Book about Aircraft Scale Drawings Creating with Inkscape and Gimp](https://airplanes3d.wordpress.com/2020/12/08/a-book-about-aircraft-scale-drawings/)
+- [You have the right to record police in public, federal court rules](https://www.universalhub.com/2020/you-have-right-secretly-record-police-public)
+- [LiquidPiston's “inside-out” rotary X-Engine wins Army research contract](https://newatlas.com/military/liquidpiston-rotary-x-engine-army-generator/)
 - [States bring action against Google under federal and state antitrust laws [pdf]](https://www.texasattorneygeneral.gov/sites/default/files/images/admin/2020/Press/20201216%20COMPLAINT_REDACTED.pdf)
 - [Openbase (YC S20) Is Hiring](https://news.ycombinator.com/item?id=25448582)
-- [Sequoia PGP 1.0 Released: The Seedling Is a Sapling](https://sequoia-pgp.org/blog/2020/12/16/202012-1.0/)
-- [Project Kuiper's custom-built antenna architecture](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-marks-breakthrough-in-project-kuiper-development)
-- [Covid-19 is 10 times deadlier for people with Down syndrome](https://www.sciencemag.org/news/2020/12/covid-19-10-times-deadlier-people-down-syndrome-raising-calls-early-vaccination)
 <!-- BLOG-POST-LIST:END -->
 
 ---
