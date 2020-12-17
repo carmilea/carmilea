@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD src repository is transitioning from Subversion to Git this weekend](https://lists.freebsd.org/pipermail/freebsd-current/2020-December/077858.html)
+- [The black market in stolen antiquities on Facebook](https://slate.com/technology/2020/12/facebook-stolen-antiquities-art-black-market.html)
+- [Dismissing Python Garbage Collection (2017)](https://instagram-engineering.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172?source=social.tw)
 - [Truebill (YC W16) Is Hiring a Lead Security Architect](https://boards.greenhouse.io/truebill/jobs/4297986003)
 - [Advanced Persistent Threat Compromise of Government Agencies](https://us-cert.cisa.gov/ncas/alerts/aa20-352a)
-- [Hallucinations re: the rendering of Cyberpunk 2077](http://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html)
-- [How I Met My Wife (1994)](https://www.newyorker.com/magazine/1994/07/25/how-i-met-my-wife)
-- [Reverse engineering the Nest home/away API](https://blog.emilburzo.com/2020/12/reverse-engineering-nest-home-away-status-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
