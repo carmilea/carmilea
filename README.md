@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Relationship Hero (YC S17) Is Hiring](https://relationshiphero.com/careers?role=coach)
-- [Flanderization](https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization)
-- [A Book about Aircraft Scale Drawings Creating with Inkscape and Gimp](https://airplanes3d.wordpress.com/2020/12/08/a-book-about-aircraft-scale-drawings/)
-- [You have the right to record police in public, federal court rules](https://www.universalhub.com/2020/you-have-right-secretly-record-police-public)
-- [LiquidPiston's “inside-out” rotary X-Engine wins Army research contract](https://newatlas.com/military/liquidpiston-rotary-x-engine-army-generator/)
+- [Tensions in Google's ethical AI group increase as it sends demands to CEO](https://www.cnn.com/2020/12/16/tech/google-timnit-gebru-ethical-ai-letter/index.html)
+- [Transmits AM radio on computers without radio transmitting hardware](https://github.com/fulldecent/system-bus-radio)
+- [SolarWinds’ shares drop 22 per cent. But what’s this? $286M in stock sales](https://www.theregister.com/2020/12/16/solarwinds_stock_sale/)
+- [React's UseRef Deep Dive](https://www.giovannibenussi.com/blog/a-complete-guide-to-useref/?id=1)
+- [Trump Is Considering Clemency for Silk Road Founder](https://www.thedailybeast.com/trump-considers-clemency-for-ross-ulbricht-silk-road-kingpin-convicted-of-drug-and-money-laundering-charges)
 <!-- BLOG-POST-LIST:END -->
 
 ---
