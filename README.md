@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
+- [How Google’s AI ethics meltdown could shape policy](https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/)
 - [GWSL: Run graphical Linux apps in WSL](https://github.com/Opticos/GWSL-Source)
 - [Free internet for all not such a bad idea](https://www.theguardian.com/technology/2020/dec/11/free-internet-for-all-not-such-a-bad-idea)
-- [Facebook Takes Out Newspaper Ads to Attack Apple's Strengthening iOS Privacy](https://daringfireball.net/linked/2020/12/16/facebook-full-page-ad)
-- [Raycast (YC W20) Is Hiring Fullstack Software Engineers (Remote, UTC ± 3 Hours)](https://raycast.com/jobs/software-engineer-fullstack)
-- [USC § 1201, DMCA Exemptions and Software Freedom](https://sfconservancy.org/blog/2020/dec/16/dmca-exemptions-explained/)
+- [51% of 4M Docker images have critical vulnerabilities](https://thechief.io/c/news/51-4-million-docker-images-have-critical-vulnerabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
