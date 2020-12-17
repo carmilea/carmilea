@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse engineering the Nest home/away API](https://blog.emilburzo.com/2020/12/reverse-engineering-nest-home-away-status-api/)
+- [Show HN: Cimbar – File transfer via color barcodes and the Android camera](https://github.com/sz3/libcimbar)
+- [Amazon disallows pointing out paid reviews](http://blog.kevmod.com/2020/12/amazon-disallows-pointing-out-paid-reviews/)
+- [When free software isn't practically superior (2015)](https://www.gnu.org/philosophy/when-free-software-isnt-practically-superior.html)
 - [Coinbase announces confidential submission of draft registration statement](https://blog.coinbase.com/coinbase-announces-confidential-submission-of-draft-registration-statement-b140a9dfc9f5)
-- [Changes to GitHub Code Search Indexing](https://github.blog/changelog/2020-12-17-changes-to-code-search-indexing/)
-- [Commits are shapshots, not diffs](https://github.blog/2020-12-17-commits-are-shapshots-not-diffs/)
-- [Sick of spending time on Auth, we built an open source 'Stripe for Auth'](https://news.ycombinator.com/item?id=25458033)
-- [Software breakthrough radically boosts the speed of DNA sequencers](https://newatlas.com/medical/uncalled-faster-dna-sequencing-nanopore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
