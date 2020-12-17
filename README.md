@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The terms simp, virgin, and incel will all be banned on Twitch](https://dotesports.com/streaming/news/the-terms-simp-virgin-and-incel-will-all-be-banned-on-twitch-when-used-as-insults)
 - [Relationship Hero (YC S17) Is Hiring](https://relationshiphero.com/careers?role=coach)
 - [Flanderization](https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization)
 - [A Book about Aircraft Scale Drawings Creating with Inkscape and Gimp](https://airplanes3d.wordpress.com/2020/12/08/a-book-about-aircraft-scale-drawings/)
 - [You have the right to record police in public, federal court rules](https://www.universalhub.com/2020/you-have-right-secretly-record-police-public)
+- [LiquidPiston's “inside-out” rotary X-Engine wins Army research contract](https://newatlas.com/military/liquidpiston-rotary-x-engine-army-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
