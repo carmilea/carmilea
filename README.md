@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GWSL: Run graphical Linux apps in WSL](https://github.com/Opticos/GWSL-Source)
+- [Free internet for all not such a bad idea](https://www.theguardian.com/technology/2020/dec/11/free-internet-for-all-not-such-a-bad-idea)
 - [Facebook Takes Out Newspaper Ads to Attack Apple's Strengthening iOS Privacy](https://daringfireball.net/linked/2020/12/16/facebook-full-page-ad)
 - [Raycast (YC W20) Is Hiring Fullstack Software Engineers (Remote, UTC ± 3 Hours)](https://raycast.com/jobs/software-engineer-fullstack)
 - [USC § 1201, DMCA Exemptions and Software Freedom](https://sfconservancy.org/blog/2020/dec/16/dmca-exemptions-explained/)
-- [Creative Code-Generated Art](https://www.editorx.com/shaping-design/article/creative-coding)
-- [Transmits AM radio on computers without radio transmitting hardware](https://github.com/fulldecent/system-bus-radio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
