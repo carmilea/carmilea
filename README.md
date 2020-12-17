@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Randomly stumble on indie websites. Recreating the original StumbleUpon](https://stumblingon.com)
 - [FreeBSD src repository is transitioning from Subversion to Git this weekend](https://lists.freebsd.org/pipermail/freebsd-current/2020-December/077858.html)
 - [The black market in stolen antiquities on Facebook](https://slate.com/technology/2020/12/facebook-stolen-antiquities-art-black-market.html)
 - [Dismissing Python Garbage Collection (2017)](https://instagram-engineering.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172?source=social.tw)
 - [Truebill (YC W16) Is Hiring a Lead Security Architect](https://boards.greenhouse.io/truebill/jobs/4297986003)
-- [Advanced Persistent Threat Compromise of Government Agencies](https://us-cert.cisa.gov/ncas/alerts/aa20-352a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
