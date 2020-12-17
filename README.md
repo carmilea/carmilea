@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Relationship Hero (YC S17) Is Hiring](https://relationshiphero.com/careers?role=coach)
+- [Flanderization](https://tvtropes.org/pmwiki/pmwiki.php/Main/Flanderization)
 - [A Book about Aircraft Scale Drawings Creating with Inkscape and Gimp](https://airplanes3d.wordpress.com/2020/12/08/a-book-about-aircraft-scale-drawings/)
 - [You have the right to record police in public, federal court rules](https://www.universalhub.com/2020/you-have-right-secretly-record-police-public)
 - [LiquidPiston's “inside-out” rotary X-Engine wins Army research contract](https://newatlas.com/military/liquidpiston-rotary-x-engine-army-generator/)
-- [States bring action against Google under federal and state antitrust laws [pdf]](https://www.texasattorneygeneral.gov/sites/default/files/images/admin/2020/Press/20201216%20COMPLAINT_REDACTED.pdf)
-- [Openbase (YC S20) Is Hiring](https://news.ycombinator.com/item?id=25448582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
