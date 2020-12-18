@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California nurses union plans holiday strike over PPE](https://californiaglobe.com/section-2/california-nurses-union-plans-holiday-strike-over-ppe-shortage/)
+- [I Got a Computer Science Degree in 3 Months for Less Than $5000](https://miguelrochefort.com/blog/cs-degree/)
 - [It Took Two Days to Develop Moderna’s Vaccine](https://theness.com/neurologicablog/index.php/it-took-two-days-to-develop-modernas-vaccine/)
 - [Cerulean: Experimental micro-blogging app for Matrix](https://matrix.org/blog/2020/12/18/introducing-cerulean)
 - [API-diff: a tool for side-by-side evaluations of JSON APIs](https://radar.io/blog/open-source-api-diff-library)
-- [I've walked away from software development](https://old.reddit.com/r/cscareerquestions/comments/kfcmbj/ive_walked_away_from_software_development/)
-- [Fermilab and partners achieve sustained, high-fidelity quantum teleportation](https://news.fnal.gov/2020/12/fermilab-and-partners-achieve-sustained-high-fidelity-quantum-teleportation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
