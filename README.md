@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
+- [Two Hundred Different Misspellings of Schwarzenegger](https://www.watercoolertrivia.com/blog/schwarzenegger)
 - [Python at Scale: Strict Modules](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834?source=social.tw)
+- [Toxic fumes seep into the air you breathe on planes](https://www.latimes.com/projects/toxic-chemicals-planes-covid-19-travel-woes/)
 - [Original Dartmouth College BASIC manual (1964) [pdf]](http://www.bitsavers.org/pdf/dartmouth/BASIC_Oct64.pdf)
-- [Hacking Spree Reached into Microsoft](https://www.reuters.com/article/usa-cyber-breach-exclusive-int-idUSKBN28R3E2)
-- [The Smalltalk Zoo](https://computerhistory.org/blog/introducing-the-smalltalk-zoo-48-years-of-smalltalk-history-at-chm/)
-- [Show HN: StumblingOn – Randomly find indie websites – recreating StumbleUpon](https://stumblingon.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
