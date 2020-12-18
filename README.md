@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech giants will block Kazakhstan's web surveillance efforts again](https://www.engadget.com/tech-giants-browsers-block-kazakhstan-web-surveillance-080031499.html)
-- [Google Kills Android Things, Its IoT OS, in January](https://arstechnica.com/gadgets/2020/12/google-kills-android-things-its-iot-os-in-january/)
-- [CareRev (YC S16) Is Hiring a Designer](https://grnh.se/6eac8fa93us)
-- [Facebook's Hypocrisy on Apple's New iOS 14 Privacy Feature](https://thebigtech.substack.com/p/facebook-criticising-apples-ios-14)
-- [Twitter cut off the ability to read a tweet by fetching its URL with a HTTP GET](https://twitter.com/zarfeblong/status/1339742840142872577)
+- [Czech startup (JetBrains) founders turn billionaires without VC help](https://www.bloomberg.com/news/articles/2020-12-18/czech-startup-founders-turn-billionaires-without-vc-help)
+- [Charityvest (YC S20) Is Hiring Senior Node.js / PostgreSQL / AWS Engineers](https://apply.workable.com/charityvest/j/06829E8841/)
+- [Ousted Black Google Researcher: 'They Wanted to Have My Presence, but Not Me'](https://www.npr.org/2020/12/17/947719354/ousted-black-google-researcher-they-wanted-to-have-my-presence-but-not-me-exactl)
+- [The opioid effects of gluten exorphins: asymptomatic celiac disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5025969/)
+- [The Ampere Altra Review: 2x 80 Cores Arm Server Performance Monster](https://www.anandtech.com/show/16315/the-ampere-altra-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
