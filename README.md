@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [mRNA's next challenge: Will it work as a drug?](https://science.sciencemag.org/content/370/6523/1388.full)
+- [Rust 2021 Roadmap](https://github.com/rust-lang/rfcs/pull/3037)
+- [Equity guide for employees at fast-growing companies](https://withcompound.com/r/equity-guide-to-fast-growing-companies)
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Justin Amash Introduces Bill to End Civil Asset Forfeiture Nationwide](https://reason.com/2020/12/17/justin-amash-introduces-bill-to-end-civil-asset-forfeiture-nationwide/)
-- [I prepared for a decade to graduate in CS in three months](https://miguelrochefort.com/blog/cs-degree/)
-- [Starting a blog has never been this difficult](https://ruky.me/2020/12/18/starting-a-blog-has-never-been-this-difficult/)
-- [It Took Two Days to Develop Moderna’s Vaccine](https://theness.com/neurologicablog/index.php/it-took-two-days-to-develop-modernas-vaccine/)
+- [Show HN: Juicebox – Quickly create beautiful, interactive data presentations](https://www.juiceanalytics.com/juicebox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
