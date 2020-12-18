@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Surgery, the Ultimate Placebo](https://www.skepdoc.info/ian-harris-on-surgery-the-ultimate-placebo/)
 - [Post Mortem of Google Outage on 14 December 2020](http://status.cloud.google.com/incident/zall/20013#20013004)
-- [I Bought Apple Silicon](https://honzajavorek.cz/blog/i-bought-apple-silicon/)
 - [Microsoft Designing Its Own Chips for Servers, Surface PCs](https://www.bloomberg.com/news/articles/2020-12-18/microsoft-is-designing-its-own-chips-for-servers-surface-pcs)
+- [How to kill the university](https://thesephist.com/posts/universities/)
 - [Repl.it (YC W18) is hiring designers to build better programming environments](https://jobs.lever.co/replit/4ef495be-6ced-42d9-bcc1-3c6f57a346bd)
-- [On Design Patterns in C++](https://www.fluentcpp.com/2020/12/18/on-design-patterns-in-cpp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
