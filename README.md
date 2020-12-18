@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [API-diff: a tool for side-by-side evaluations of JSON APIs](https://radar.io/blog/open-source-api-diff-library)
+- [I've walked away from software development](https://old.reddit.com/r/cscareerquestions/comments/kfcmbj/ive_walked_away_from_software_development/)
+- [Fermilab and partners achieve sustained, high-fidelity quantum teleportation](https://news.fnal.gov/2020/12/fermilab-and-partners-achieve-sustained-high-fidelity-quantum-teleportation/)
+- [How to Find Focus](https://thesephist.com/posts/focus/)
 - [When important components become scarce: CPUs, GPUs](https://www.igorslab.de/en/if-important-components-will-become-shortage-cpus-gpus-console-chips-and-other-components-as-complex-handle-object/)
-- [Possible Radio Emission from Exoplanet Detected](https://news.cornell.edu/stories/2020/12/cornell-postdoc-detects-possible-exoplanet-radio-emission)
-- [I Have Resigned from the Google AMP Advisory Committee](https://shkspr.mobi/blog/2020/12/i-have-resigned-from-the-google-amp-advisory-committee/)
-- [A swarm of drones flying through heavy forest–while staying in formation](https://www.sciencemag.org/news/2020/12/watch-swarm-drones-fly-through-heavy-forest-while-staying-formation)
-- [How to make full colour PCB art](https://pixel.curious.supplies/blog/pcb_art/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
