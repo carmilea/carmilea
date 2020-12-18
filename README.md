@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Photographer Who Set Out to Watch Herself Age](https://www.newyorker.com/culture/photo-booth/the-photographer-who-set-out-to-watch-herself-age#intcid=recommendations_the-new-yorker-homepage_c2371688-d62f-42d9-9a9b-79212143288c_popular4-1)
 - [Adding Composite Video to a Famicom](https://www.leadedsolder.com/2020/12/17/famicom-composite-mod-v1.html)
+- [Big Sur bug prevents upgrades to the next version](https://micromdm.io/blog/big-sur-softwareupdate/)
 - [U.S. has evidence hackers accessed its nuclear networks](https://www.politico.com/news/2020/12/17/nuclear-agency-hacked-officials-inform-congress-447855)
-- [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
-- [Two Hundred Different Misspellings of Schwarzenegger](https://www.watercoolertrivia.com/blog/schwarzenegger)
-- [Python at Scale: Strict Modules](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834?source=social.tw)
+- [What If OpenDocument Used SQLite? (2014)](https://www.sqlite.org/affcase1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
