@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The wealthy scramble for Covid-19 vaccines: ‘If I donate $25,000..’](https://www.latimes.com/california/story/2020-12-18/wealthy-patients-scramble-covid-19-vaccine)
-- [Show HN: Sqwok – A low-cruft, minimalist alternative to Reddit and Twitter](https://sqwok.im/)
-- [Brian Chesky on Ron Conway](https://news.airbnb.com/ron-conway-and-the-economic-empowerment-award/)
-- [mRNA's next challenge: Will it work as a drug?](https://science.sciencemag.org/content/370/6523/1388.full)
-- [Rust 2021 Roadmap](https://github.com/rust-lang/rfcs/pull/3037)
+- [Repl.it (YC W18) is hiring designers to build better programming environments](https://jobs.lever.co/replit/4ef495be-6ced-42d9-bcc1-3c6f57a346bd)
+- [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw)
+- [On Design Patterns in C++](https://www.fluentcpp.com/2020/12/18/on-design-patterns-in-cpp/)
+- [Go 1.16 Beta 1 is released](https://groups.google.com/g/golang-announce/c/2-Rj3P5uRLs/m/mYxD2RJkAQAJ?pli=1)
+- [Microsoft says it found malicious software in its systems](https://www.reuters.com/article/us-usa-cyber-breach-idUSKBN28R2ZJ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
