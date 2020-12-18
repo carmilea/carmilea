@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CareRev (YC S16) Is Hiring a Designer](https://grnh.se/6eac8fa93us)
+- [Facebook's Hypocrisy on Apple's New iOS 14 Privacy Feature](https://thebigtech.substack.com/p/facebook-criticising-apples-ios-14)
+- [Twitter cut off the ability to read a tweet by fetching its URL with a HTTP GET](https://twitter.com/zarfeblong/status/1339742840142872577)
 - [The Photographer Who Set Out to Watch Herself Age](https://www.newyorker.com/culture/photo-booth/the-photographer-who-set-out-to-watch-herself-age#intcid=recommendations_the-new-yorker-homepage_c2371688-d62f-42d9-9a9b-79212143288c_popular4-1)
 - [Adding Composite Video to a Famicom](https://www.leadedsolder.com/2020/12/17/famicom-composite-mod-v1.html)
-- [Big Sur bug prevents upgrades to the next version](https://micromdm.io/blog/big-sur-softwareupdate/)
-- [U.S. has evidence hackers accessed its nuclear networks](https://www.politico.com/news/2020/12/17/nuclear-agency-hacked-officials-inform-congress-447855)
-- [What If OpenDocument Used SQLite? (2014)](https://www.sqlite.org/affcase1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
