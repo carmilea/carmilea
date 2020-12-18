@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Post Mortem of Google Outage on 14 December 2020](http://status.cloud.google.com/incident/zall/20013#20013004)
+- [I Bought Apple Silicon](https://honzajavorek.cz/blog/i-bought-apple-silicon/)
+- [Microsoft Designing Its Own Chips for Servers, Surface PCs](https://www.bloomberg.com/news/articles/2020-12-18/microsoft-is-designing-its-own-chips-for-servers-surface-pcs)
 - [Repl.it (YC W18) is hiring designers to build better programming environments](https://jobs.lever.co/replit/4ef495be-6ced-42d9-bcc1-3c6f57a346bd)
-- [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw)
 - [On Design Patterns in C++](https://www.fluentcpp.com/2020/12/18/on-design-patterns-in-cpp/)
-- [Go 1.16 Beta 1 is released](https://groups.google.com/g/golang-announce/c/2-Rj3P5uRLs/m/mYxD2RJkAQAJ?pli=1)
-- [Microsoft says it found malicious software in its systems](https://www.reuters.com/article/us-usa-cyber-breach-idUSKBN28R2ZJ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
