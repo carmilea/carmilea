@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Randomly stumble on indie websites. Recreating the original StumbleUpon](https://stumblingon.com)
-- [FreeBSD src repository is transitioning from Subversion to Git this weekend](https://lists.freebsd.org/pipermail/freebsd-current/2020-December/077858.html)
-- [The black market in stolen antiquities on Facebook](https://slate.com/technology/2020/12/facebook-stolen-antiquities-art-black-market.html)
-- [Dismissing Python Garbage Collection (2017)](https://instagram-engineering.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172?source=social.tw)
-- [Truebill (YC W16) Is Hiring a Lead Security Architect](https://boards.greenhouse.io/truebill/jobs/4297986003)
+- [Python at Scale: Strict Modules](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834?source=social.tw)
+- [Original Dartmouth College BASIC manual (1964) [pdf]](http://www.bitsavers.org/pdf/dartmouth/BASIC_Oct64.pdf)
+- [Hacking Spree Reached into Microsoft](https://www.reuters.com/article/usa-cyber-breach-exclusive-int-idUSKBN28R3E2)
+- [The Smalltalk Zoo](https://computerhistory.org/blog/introducing-the-smalltalk-zoo-48-years-of-smalltalk-history-at-chm/)
+- [Show HN: StumblingOn – Randomly find indie websites – recreating StumbleUpon](https://stumblingon.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
