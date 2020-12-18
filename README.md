@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech giants will block Kazakhstan's web surveillance efforts again](https://www.engadget.com/tech-giants-browsers-block-kazakhstan-web-surveillance-080031499.html)
+- [Cyberpunk 2077 removed from PS Store and refunded](https://twitter.com/AskPlayStation/status/1339737360184078336)
 - [CareRev (YC S16) Is Hiring a Designer](https://grnh.se/6eac8fa93us)
 - [Facebook's Hypocrisy on Apple's New iOS 14 Privacy Feature](https://thebigtech.substack.com/p/facebook-criticising-apples-ios-14)
 - [Twitter cut off the ability to read a tweet by fetching its URL with a HTTP GET](https://twitter.com/zarfeblong/status/1339742840142872577)
-- [The Photographer Who Set Out to Watch Herself Age](https://www.newyorker.com/culture/photo-booth/the-photographer-who-set-out-to-watch-herself-age#intcid=recommendations_the-new-yorker-homepage_c2371688-d62f-42d9-9a9b-79212143288c_popular4-1)
-- [Big Sur bug prevents upgrades to the next version](https://micromdm.io/blog/big-sur-softwareupdate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
