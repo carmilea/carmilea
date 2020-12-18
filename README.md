@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Adding Composite Video to a Famicom](https://www.leadedsolder.com/2020/12/17/famicom-composite-mod-v1.html)
-- [U.S. has evidence hackers accessed its nuclear networks](https://www.reuters.com/article/idUSKBN28R34N)
+- [U.S. has evidence hackers accessed its nuclear networks](https://www.politico.com/news/2020/12/17/nuclear-agency-hacked-officials-inform-congress-447855)
 - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
 - [Two Hundred Different Misspellings of Schwarzenegger](https://www.watercoolertrivia.com/blog/schwarzenegger)
 - [Python at Scale: Strict Modules](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834?source=social.tw)
