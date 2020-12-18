@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Czech startup (JetBrains) founders turn billionaires without VC help](https://www.bloomberg.com/news/articles/2020-12-18/czech-startup-founders-turn-billionaires-without-vc-help)
-- [Charityvest (YC S20) Is Hiring Senior Node.js / PostgreSQL / AWS Engineers](https://apply.workable.com/charityvest/j/06829E8841/)
-- [Ousted Black Google Researcher: 'They Wanted to Have My Presence, but Not Me'](https://www.npr.org/2020/12/17/947719354/ousted-black-google-researcher-they-wanted-to-have-my-presence-but-not-me-exactl)
-- [The opioid effects of gluten exorphins: asymptomatic celiac disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5025969/)
-- [The Ampere Altra Review: 2x 80 Cores Arm Server Performance Monster](https://www.anandtech.com/show/16315/the-ampere-altra-review)
+- [When important components become scarce: CPUs, GPUs](https://www.igorslab.de/en/if-important-components-will-become-shortage-cpus-gpus-console-chips-and-other-components-as-complex-handle-object/)
+- [Possible Radio Emission from Exoplanet Detected](https://news.cornell.edu/stories/2020/12/cornell-postdoc-detects-possible-exoplanet-radio-emission)
+- [I Have Resigned from the Google AMP Advisory Committee](https://shkspr.mobi/blog/2020/12/i-have-resigned-from-the-google-amp-advisory-committee/)
+- [A swarm of drones flying through heavy forest–while staying in formation](https://www.sciencemag.org/news/2020/12/watch-swarm-drones-fly-through-heavy-forest-while-staying-formation)
+- [How to make full colour PCB art](https://pixel.curious.supplies/blog/pcb_art/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
