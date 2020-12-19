@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing 'inappropriately coached' pilots in 737 Max testing -U.S. Senate report](https://www.reuters.com/article/us-boeing-737-max/boeing-inappropriately-coached-pilots-in-737-max-testing-u-s-senate-report-idUSKBN28S314)
 - [Zoom executive charged with disrupting meetings commemorating Tiananmen Square](https://www.justice.gov/opa/pr/china-based-executive-us-telecommunications-company-charged-disrupting-video-meetings)
+- [Virtual Machine Detection in the Browser](https://bannedit.github.io/Virtual-Machine-Detection-In-The-Browser.html)
 - [Moderna Announces FDA Authorization of Moderna Covid-19 Vaccine in U.S.](https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-fda-authorization-moderna-covid-19-vaccine-us)
-- [Seuss-Star Trek mashup crashes and burns at Ninth Circuit](https://www.courthousenews.com/seuss-star-trek-mash-up-crash-lands-with-ninth-circuit/)
-- [That Dothraki Horde, Part III: Horse Fiddles](https://acoup.blog/2020/12/18/collections-that-dothraki-horde-part-iii-horse-fiddles/)
-- [Surgery, the Ultimate Placebo](https://www.skepdoc.info/ian-harris-on-surgery-the-ultimate-placebo/)
+- [Show HN: I have found the world's greatest landing page](https://muzzleapp.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
