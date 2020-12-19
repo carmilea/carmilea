@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stanford Apologizes After Vaccine Allocation Leaves Out Medical Residents](https://www.npr.org/sections/coronavirus-live-updates/2020/12/18/948176807/stanford-apologizes-after-vaccine-allocation-leaves-out-nearly-all-medical-resid)
-- [Why ‘Useless’ Surgery Is Still Popular (2016)](https://www.nytimes.com/2016/08/04/upshot/the-right-to-know-that-an-operation-is-next-to-useless.html)
-- [Facebook: Free as in Bullshit](https://daringfireball.net/2020/12/facebook_free_as_in_bullshit)
-- [California plan for a wealth tax on anyone who spends 60 days/year in the state](https://www.wsj.com/articles/a-california-plan-to-chase-away-the-rich-then-keep-stalking-them-11608331448)
-- [How AltaVista, our first good search engine, fell into the digital abyss](https://tedium.co/2020/12/15/altavista-history-digital-dot-com-domain-name)
+- [Being kind to others is good for your health](https://www.bbc.com/future/article/20201215-why-being-kind-to-others-is-good-for-your-health)
+- [The Muse (YC W12) Is Hiring a Director of Analytics and BI](https://www.themuse.com/jobs/themuse/director-of-analytics-business-intelligence)
+- [London Put in Emergency Lockdown as U.K. Fights New Strain](https://www.bloomberg.com/news/articles/2020-12-19/london-put-in-emergency-lockdown-as-u-k-fights-new-virus-strain)
+- [9k-Year-Old Stonehenge-Like Structure Found Under Lake Michigan](https://archaeology-world.com/9000-year-old-stonehenge-like-structure-found-under-lake-michigan/)
+- [New York Times retracts core of podcast series ‘Caliphate’](https://www.npr.org/2020/12/18/944594193/new-york-times-retracts-hit-podcast-series-caliphate-on-isis-executioner)
 <!-- BLOG-POST-LIST:END -->
 
 ---
