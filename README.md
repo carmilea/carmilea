@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook: Free as in Bullshit](https://daringfireball.net/2020/12/facebook_free_as_in_bullshit)
+- [A California Plan to Chase Away the Rich, Then Keep Stalking Them (Wealth Tax)](https://www.wsj.com/articles/a-california-plan-to-chase-away-the-rich-then-keep-stalking-them-11608331448)
+- [How AltaVista, our first good search engine, fell into the digital abyss](https://tedium.co/2020/12/15/altavista-history-digital-dot-com-domain-name)
 - [Show HN: Argos Translate – Neural machine translation made easy with Python](https://github.com/argosopentech/argos-translate)
-- [Extremist Programming](http://blog.ezyang.com/2012/11/extremist-programming/)
-- [Wildfire smoke is loaded with microbes](https://arstechnica.com/science/2020/12/wildfire-smoke-is-loaded-with-microbes-is-that-dangerous/)
-- [Great American Rail Trail - A new way to travel across the US](http://www.bbc.com/travel/story/20201213-a-new-way-to-travel-across-the-us)
-- [When DevSecOps goes wrong: a short lesson from Huawei's source code](https://r2c.dev/blog/2020/when-devsecops-goes-wrong-a-short-lesson-from-huaweis-source-code/)
+- [Extremist Programming (2012)](http://blog.ezyang.com/2012/11/extremist-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
