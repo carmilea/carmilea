@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Proton: “Conway's Law-as-a-Service”?](https://acloudguru.com/blog/engineering/aws-proton-is-conways-law-as-a-service)
-- [Being capable of thinking quantitatively is the single most important thing](https://news.mit.edu/2019/student-john-urschel-math-football-0515)
-- [inciteful.xyz: Better way to search through academic literature written in Rust](https://inciteful.xyz/)
+- [Bevy 0.4: data oriented game engine built in Rust](https://bevyengine.org/news/bevy-0-4/)
+- [IMF would use your search history for credit scores](https://gizmodo.com/your-credit-score-should-be-based-on-your-web-history-1845912592)
+- [John Urschel tackles his lifelong balance of math and football in new memoir](https://news.mit.edu/2019/student-john-urschel-math-football-0515)
+- [Inciteful: Using Citations to Explore Academic Literature](https://inciteful.xyz/)
 - [AnchorHash: A Scalable Consistent Hash](https://42papers.com/p/anchorhash-a-scalable-consistent-hash)
-- [Being kind to others is good for your health](https://www.bbc.com/future/article/20201215-why-being-kind-to-others-is-good-for-your-health)
 <!-- BLOG-POST-LIST:END -->
 
 ---
