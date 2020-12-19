@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Argos Translate – Neural machine translation made easy with Python](https://github.com/argosopentech/argos-translate)
+- [Extremist Programming](http://blog.ezyang.com/2012/11/extremist-programming/)
 - [Wildfire smoke is loaded with microbes](https://arstechnica.com/science/2020/12/wildfire-smoke-is-loaded-with-microbes-is-that-dangerous/)
-- [Taplytics (YC W14) Is Hiring for Tech Support Eng and Software Eng](https://jobs.lever.co/taplytics)
-- [Peter Saville and New Order’s Colour Code (2011)](https://wharferj.wordpress.com/2011/04/19/peter-saville-new-order-colour-code/)
-- [How Shopify Uses WebAssembly Outside of the Browser](https://shopify.engineering/shopify-webassembly)
-- [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
+- [Great American Rail Trail - A new way to travel across the US](http://www.bbc.com/travel/story/20201213-a-new-way-to-travel-across-the-us)
+- [When DevSecOps goes wrong: a short lesson from Huawei's source code](https://r2c.dev/blog/2020/when-devsecops-goes-wrong-a-short-lesson-from-huaweis-source-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
