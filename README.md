@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why can we smell copper?](https://chemistry.stackexchange.com/a/7917)
-- [Cyberpunk 2077: how 2020's biggest video game launch turned into a shambles](https://www.theguardian.com/games/2020/dec/18/cyberpunk-2077-how-2020s-biggest-video-game-launch-turned-into-a-shambles)
 - [Zoom executive charged with disrupting meetings commemorating Tiananmen Square](https://www.justice.gov/opa/pr/china-based-executive-us-telecommunications-company-charged-disrupting-video-meetings)
 - [Virtual Machine Detection in the Browser (2019)](https://bannedit.github.io/Virtual-Machine-Detection-In-The-Browser.html)
 - [FDA grants authorization to Moderna's Covid-19 vaccine](https://www.statnews.com/2020/12/18/fda-eua-moderna-vaccine-covid19/)
+- [A modern port of Turbo Vision 2.0](https://github.com/magiblot/tvision)
 <!-- BLOG-POST-LIST:END -->
 
 ---
