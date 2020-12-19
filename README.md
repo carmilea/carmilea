@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Seuss-Star Trek mashup crashes and burns at Ninth Circuit](https://www.courthousenews.com/seuss-star-trek-mash-up-crash-lands-with-ninth-circuit/)
+- [That Dothraki Horde, Part III: Horse Fiddles](https://acoup.blog/2020/12/18/collections-that-dothraki-horde-part-iii-horse-fiddles/)
 - [Surgery, the Ultimate Placebo](https://www.skepdoc.info/ian-harris-on-surgery-the-ultimate-placebo/)
+- [Postdocs under pressure: ‘Can I even do this any more?’](https://www.nature.com/articles/d41586-020-03235-y)
 - [Post Mortem of Google Outage on 14 December 2020](http://status.cloud.google.com/incident/zall/20013#20013004)
-- [Microsoft Designing Its Own Chips for Servers, Surface PCs](https://www.bloomberg.com/news/articles/2020-12-18/microsoft-is-designing-its-own-chips-for-servers-surface-pcs)
-- [How to kill the university](https://thesephist.com/posts/universities/)
-- [Repl.it (YC W18) is hiring designers to build better programming environments](https://jobs.lever.co/replit/4ef495be-6ced-42d9-bcc1-3c6f57a346bd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
