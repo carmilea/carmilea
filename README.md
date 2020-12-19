@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No SAR Can't See Through Buildings](https://www.capellaspace.com/no-sar-cant-see-through-buildings/)
+- [Oculus Quest user breaks neck, then Facebook deletes his account](https://www.reddit.com/r/oculus/comments/kg1761/after_posting_about_breaking_my_neck_while/)
+- [The original "Spacewar!" running on a virtual DEC PDP-1](https://www.masswerk.at/spacewar/)
+- [No, SAR Can't See Through Buildings](https://www.capellaspace.com/no-sar-cant-see-through-buildings/)
 - [TerraPi modular case system for Raspberry Pi supports multiple SSD's, DIN rail](https://www.cnx-software.com/2020/12/19/terrapi-modular-case-for-raspberry-pi-supports-multiple-ssds-din-rail-horizontal-vertical-mounts/)
-- [John Urschel tackles his lifelong balance of math and football in new memoir](https://news.mit.edu/2019/student-john-urschel-math-football-0515)
-- [Inciteful: Using Citations to Explore Academic Literature](https://inciteful.xyz/)
-- [Being kind to others is good for your health](https://www.bbc.com/future/article/20201215-why-being-kind-to-others-is-good-for-your-health)
+- [Chemicals in Plastic Waste Are Killing Us](https://smosa.com/report-plastic-waste-not-just-bad-for-environment-the-chemicals-are-killing-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
