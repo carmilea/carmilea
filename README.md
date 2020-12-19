@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why can we smell copper?](https://chemistry.stackexchange.com/a/7917)
 - [A Crypto User Sent $50k to a Smart Contract. It's Gone Forever](https://decrypt.co/51692/a-crypto-user-sent-50000-to-a-smart-contract-its-gone-forever)
 - [Boeing 'inappropriately coached' pilots in 737 MAX testing: U.S. Senate report](https://www.reuters.com/article/us-boeing-737-max/boeing-inappropriately-coached-pilots-in-737-max-testing-u-s-senate-report-idUSKBN28S314)
 - [Zoom executive charged with disrupting meetings commemorating Tiananmen Square](https://www.justice.gov/opa/pr/china-based-executive-us-telecommunications-company-charged-disrupting-video-meetings)
 - [Virtual Machine Detection in the Browser (2019)](https://bannedit.github.io/Virtual-Machine-Detection-In-The-Browser.html)
-- [FDA grants authorization to Moderna's Covid-19 vaccine](https://www.statnews.com/2020/12/18/fda-eua-moderna-vaccine-covid19/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
