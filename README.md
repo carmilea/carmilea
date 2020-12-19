@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Proton: “Conway's Law-as-a-Service”?](https://acloudguru.com/blog/engineering/aws-proton-is-conways-law-as-a-service)
+- [Being capable of thinking quantitatively is the single most important thing](https://news.mit.edu/2019/student-john-urschel-math-football-0515)
+- [inciteful.xyz: Better way to search through academic literature written in Rust](https://inciteful.xyz/)
+- [AnchorHash: A Scalable Consistent Hash](https://42papers.com/p/anchorhash-a-scalable-consistent-hash)
 - [Being kind to others is good for your health](https://www.bbc.com/future/article/20201215-why-being-kind-to-others-is-good-for-your-health)
-- [The Muse (YC W12) Is Hiring a Director of Analytics and BI](https://www.themuse.com/jobs/themuse/director-of-analytics-business-intelligence)
-- [London Put in Emergency Lockdown as U.K. Fights New Strain](https://www.bloomberg.com/news/articles/2020-12-19/london-put-in-emergency-lockdown-as-u-k-fights-new-virus-strain)
-- [9k-Year-Old Stonehenge-Like Structure Found Under Lake Michigan](https://archaeology-world.com/9000-year-old-stonehenge-like-structure-found-under-lake-michigan/)
-- [New York Times retracts core of podcast series ‘Caliphate’](https://www.npr.org/2020/12/18/944594193/new-york-times-retracts-hit-podcast-series-caliphate-on-isis-executioner)
 <!-- BLOG-POST-LIST:END -->
 
 ---
