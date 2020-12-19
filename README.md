@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zoom executive charged with disrupting meetings commemorating Tiananmen Square](https://www.justice.gov/opa/pr/china-based-executive-us-telecommunications-company-charged-disrupting-video-meetings)
+- [Moderna Announces FDA Authorization of Moderna Covid-19 Vaccine in U.S.](https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-fda-authorization-moderna-covid-19-vaccine-us)
 - [Seuss-Star Trek mashup crashes and burns at Ninth Circuit](https://www.courthousenews.com/seuss-star-trek-mash-up-crash-lands-with-ninth-circuit/)
 - [That Dothraki Horde, Part III: Horse Fiddles](https://acoup.blog/2020/12/18/collections-that-dothraki-horde-part-iii-horse-fiddles/)
 - [Surgery, the Ultimate Placebo](https://www.skepdoc.info/ian-harris-on-surgery-the-ultimate-placebo/)
-- [Postdocs under pressure: ‘Can I even do this any more?’](https://www.nature.com/articles/d41586-020-03235-y)
-- [Post Mortem of Google Outage on 14 December 2020](http://status.cloud.google.com/incident/zall/20013#20013004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
