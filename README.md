@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Calling for rapid and sustained reduction in SARS-CoV-2 infections](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32625-8/fulltext)
+- [Commoditize Your Complement](https://www.gwern.net/Complement)
+- [Was the Olympic torch for 2020 lit using 35mm nitrocellulose film?](https://petapixel.com/2013/10/20/lighting-olympic-flame-involve-setting-fire-piece-35mm-film/)
+- [Why Content Is King](https://divinations.substack.com/p/why-content-is-king)
 - [Why can we smell copper?](https://chemistry.stackexchange.com/a/7917)
-- [Zoom executive charged with disrupting meetings commemorating Tiananmen Square](https://www.justice.gov/opa/pr/china-based-executive-us-telecommunications-company-charged-disrupting-video-meetings)
-- [Virtual Machine Detection in the Browser (2019)](https://bannedit.github.io/Virtual-Machine-Detection-In-The-Browser.html)
-- [FDA grants authorization to Moderna's Covid-19 vaccine](https://www.statnews.com/2020/12/18/fda-eua-moderna-vaccine-covid19/)
-- [A modern port of Turbo Vision 2.0](https://github.com/magiblot/tvision)
 <!-- BLOG-POST-LIST:END -->
 
 ---
