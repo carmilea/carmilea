@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Calling for rapid and sustained reduction in SARS-CoV-2 infections](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32625-8/fulltext)
-- [Commoditize Your Complement](https://www.gwern.net/Complement)
-- [Was the Olympic torch for 2020 lit using 35mm nitrocellulose film?](https://petapixel.com/2013/10/20/lighting-olympic-flame-involve-setting-fire-piece-35mm-film/)
-- [Why Content Is King](https://divinations.substack.com/p/why-content-is-king)
-- [Why can we smell copper?](https://chemistry.stackexchange.com/a/7917)
+- [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
+- [Solving Algorithmic Problems in Python with Pytest (2019)](https://adamj.eu/tech/2019/04/21/solving-algorithmic-problems-in-python-with-pytest/)
+- [Max: Boeing 'inappropriately coached' pilots in test after crashes](https://www.bbc.com/news/world-us-canada-55372499)
+- [Should we turn readmes into interactive notebooks on the web?](http://matyunya-readme.ellx.app/)
+- [Commoditize your complement (2019)](https://www.gwern.net/Complement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
