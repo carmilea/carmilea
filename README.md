@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bevy 0.4: data oriented game engine built in Rust](https://bevyengine.org/news/bevy-0-4/)
-- [IMF would use your search history for credit scores](https://gizmodo.com/your-credit-score-should-be-based-on-your-web-history-1845912592)
+- [No SAR Can't See Through Buildings](https://www.capellaspace.com/no-sar-cant-see-through-buildings/)
+- [TerraPi modular case system for Raspberry Pi supports multiple SSD's, DIN rail](https://www.cnx-software.com/2020/12/19/terrapi-modular-case-for-raspberry-pi-supports-multiple-ssds-din-rail-horizontal-vertical-mounts/)
 - [John Urschel tackles his lifelong balance of math and football in new memoir](https://news.mit.edu/2019/student-john-urschel-math-football-0515)
 - [Inciteful: Using Citations to Explore Academic Literature](https://inciteful.xyz/)
-- [AnchorHash: A Scalable Consistent Hash](https://42papers.com/p/anchorhash-a-scalable-consistent-hash)
+- [Being kind to others is good for your health](https://www.bbc.com/future/article/20201215-why-being-kind-to-others-is-good-for-your-health)
 <!-- BLOG-POST-LIST:END -->
 
 ---
