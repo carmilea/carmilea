@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Taplytics (YC W14) Is Hiring for Tech Support Eng and Software Eng](https://jobs.lever.co/taplytics)
+- [Peter Saville and New Order’s Colour Code (2011)](https://wharferj.wordpress.com/2011/04/19/peter-saville-new-order-colour-code/)
+- [Shopify Uses WebAssembly Outside of the Browser](https://shopify.engineering/shopify-webassembly)
 - [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
 - [Solving Algorithmic Problems in Python with Pytest (2019)](https://adamj.eu/tech/2019/04/21/solving-algorithmic-problems-in-python-with-pytest/)
-- [Max: Boeing 'inappropriately coached' pilots in test after crashes](https://www.bbc.com/news/world-us-canada-55372499)
-- [Should we turn readmes into interactive notebooks on the web?](http://matyunya-readme.ellx.app/)
-- [Commoditize your complement (2019)](https://www.gwern.net/Complement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
