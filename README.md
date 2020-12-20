@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Internet Is for Porn](https://themargins.substack.com/p/the-internet-is-for-porn)
 - [Starting Sunday, cable companies can no longer ‘rent’ you the router you own](https://www.theverge.com/2020/12/19/22191096/internet-modem-router-rental-fee-fix-television-viewer-protection-act-tvpa)
 - [Show HN: How we made the PJON network protocol from scratch](https://www.pjon.org/how.php)
 - [Early humans may have survived the harsh winters by hibernating](https://www.theguardian.com/science/2020/dec/20/early-humans-may-have-survived-the-harsh-winters-by-hibernating)
 - [Building a simple neural net in Java](https://smalldata.tech/blog/2016/05/03/building-a-simple-neural-net-in-java)
-- [Mux (YC W16) is hiring a support engineer in ~UTC+0](https://mux.com/jobs?hnj=ldn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
