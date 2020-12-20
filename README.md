@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Set up a Raspberry Pi metero detector](https://www.skyatnightmagazine.com/advice/diy/raspberry-pi-meteor-detector/)
+- [Posenet Fruit Ninja in the Browser(Tensorflow.js and Posenet)](https://huhai463127310.github.io/posenet_fruit_ninja/)
 - [The Internet Is for Porn](https://themargins.substack.com/p/the-internet-is-for-porn)
+- [Vindicated scientist demonstrated surgery alternatives for stroke victims](https://www.theguardian.com/society/2020/dec/19/scorned-scientist-now-vindicated-in-her-work-on-how-to-treat-stroke)
 - [Starting Sunday, cable companies can no longer ‘rent’ you the router you own](https://www.theverge.com/2020/12/19/22191096/internet-modem-router-rental-fee-fix-television-viewer-protection-act-tvpa)
-- [Show HN: How we made the PJON network protocol from scratch](https://www.pjon.org/how.php)
-- [Early humans may have survived the harsh winters by hibernating](https://www.theguardian.com/science/2020/dec/20/early-humans-may-have-survived-the-harsh-winters-by-hibernating)
-- [Building a simple neural net in Java](https://smalldata.tech/blog/2016/05/03/building-a-simple-neural-net-in-java)
 <!-- BLOG-POST-LIST:END -->
 
 ---
