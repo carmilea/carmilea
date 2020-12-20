@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An English ruling on transgender teens could have global repercussions](https://www.economist.com/international/2020/12/12/an-english-ruling-on-transgender-teens-could-have-global-repercussions)
 - [How to cook a medieval feast: recipes from the Middle Ages](https://blog.britishmuseum.org/how-to-cook-a-medieval-feast/)
 - [Rebooting a 15 year-old game written in D – Part 1 Compiling](https://speps.fr/articles/torus-trooper-part1/)
 - [All problems stem from man's inability to sit quietly in a room alone (2014)](https://www.theguardian.com/lifeandstyle/2014/jul/19/change-your-life-sit-down-and-think)
 - [Arrays of Arrays (2009)](https://ericlippert.com/2009/08/17/arrays-of-arrays/)
+- [Windows 10 20H2: ChkDsk damages filesystem on SSDs with KB4592438 installed](https://borncity.com/win/2020/12/18/windows-10-20h2-chkdsk-damages-file-system-on-ssds-with-update-kb4592438-installed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
