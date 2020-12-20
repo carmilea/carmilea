@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Overdose deaths far outpace Covid-19 deaths in San Francisco](https://www.sfgate.com/news/article/Overdose-deaths-far-outpace-COVID-19-deaths-in-15816356.php?IPID=SFGate-HP-CP-Spotlight)
-- [Decaying Tanker Has 4 Times the Amount of Oil as the Exxon Valdez](https://scitechdaily.com/scientists-warn-of-likely-massive-oil-spill-abandoned-tanker-has-4-times-the-amount-of-oil-as-the-exxon-valdez/)
-- [The Gervais Principle, or the Office According to “The Office” (2009)](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
-- [An obscure British PC maker invented ARM and changed the world](https://arstechnica.com/features/2020/12/how-an-obscure-british-pc-maker-invented-arm-and-changed-the-world/)
-- [Set up a Raspberry Pi meteor detector](https://www.skyatnightmagazine.com/advice/diy/raspberry-pi-meteor-detector/)
+- [Researchers propose faster, more efficient alternatives to backpropagation](https://venturebeat.com/2020/12/16/at-neurips-2020-researchers-proposed-faster-more-efficient-alternatives-to-backpropagation/)
+- [FFmpeg is 20 years old today](https://twitter.com/ffmpeg/status/1340698413143224320)
+- [Scientists looking for aliens investigate radio beam from nearby star](https://www.theguardian.com/science/2020/dec/18/scientists-looking-for-aliens-investigate-radio-beam-from-nearby-star)
+- [Lode Runner](https://www.filfre.net/2020/12/lode-runner/)
+- [An Engineer’s Guide to Stock Options](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
