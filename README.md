@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Where does one search development advice these days?](https://news.ycombinator.com/item?id=25485171)
+- [Mux (YC W16) is hiring a support engineer in ~UTC+0](https://mux.com/jobs?hnj=ldn)
+- [Raspberry Pi Server Mark III](https://uplab.pro/2020/12/raspberry-pi-server-mark-iii/)
 - [The Effect of Computer-Assisted Learning on Students’ Long-Term Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3309169)
+- [Flax Engine – Competition for Godot/Unreal/Unity?](https://flaxengine.com/)
 - [Show HN: Owncast – The open source, self-hosted live streaming server](https://news.ycombinator.com/item?id=25484133)
-- [How to cook a medieval feast: recipes from the Middle Ages](https://blog.britishmuseum.org/how-to-cook-a-medieval-feast/)
-- [Rebooting a 15 year-old game written in D – Part 1 Compiling](https://speps.fr/articles/torus-trooper-part1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
