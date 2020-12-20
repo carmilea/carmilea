@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Starting Sunday, cable companies can no longer ‘rent’ you the router you own](https://www.theverge.com/2020/12/19/22191096/internet-modem-router-rental-fee-fix-television-viewer-protection-act-tvpa)
+- [Show HN: How we made the PJON network protocol from scratch](https://www.pjon.org/how.php)
+- [Early humans may have survived the harsh winters by hibernating](https://www.theguardian.com/science/2020/dec/20/early-humans-may-have-survived-the-harsh-winters-by-hibernating)
+- [Building a simple neural net in Java](https://smalldata.tech/blog/2016/05/03/building-a-simple-neural-net-in-java)
 - [Mux (YC W16) is hiring a support engineer in ~UTC+0](https://mux.com/jobs?hnj=ldn)
-- [Raspberry Pi Server Mark III](https://uplab.pro/2020/12/raspberry-pi-server-mark-iii/)
-- [The Effect of Computer-Assisted Learning on Students’ Long-Term Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3309169)
-- [Flax Engine – Competition for Godot/Unreal/Unity?](https://flaxengine.com/)
-- [Show HN: Owncast – The open source, self-hosted live streaming server](https://news.ycombinator.com/item?id=25484133)
 <!-- BLOG-POST-LIST:END -->
 
 ---
