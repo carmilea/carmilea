@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turn ur photos to sketch DL Model](https://github.com/vijishmadhavan/ArtLine)
+- [On the Graying of Gnome](https://hpjansson.org/blag/2020/12/16/on-the-graying-of-gnome/)
+- [Security expert warned SolarWinds in 2019 that anyone could access server](https://www.businessinsider.com.au/solarwinds-warned-weak-123-password-could-expose-firm-report-2020-12)
+- [A Fraud Operation Stole Millions from Online Bank Accounts](https://www.wired.com/story/massive-fraud-operation-stole-millions-online-bank-accounts/)
 - [Hackers last year conducted a 'dry run' of SolarWinds breach](https://news.yahoo.com/hackers-last-year-conducted-a-dry-run-of-solar-winds-breach-215232815.html)
-- [Researchers propose faster, more efficient alternatives to backpropagation](https://venturebeat.com/2020/12/16/at-neurips-2020-researchers-proposed-faster-more-efficient-alternatives-to-backpropagation/)
-- [FFmpeg is 20 years old today](https://twitter.com/ffmpeg/status/1340698413143224320)
-- [Scientists looking for aliens investigate radio beam from nearby star](https://www.theguardian.com/science/2020/dec/18/scientists-looking-for-aliens-investigate-radio-beam-from-nearby-star)
-- [Lode Runner](https://www.filfre.net/2020/12/lode-runner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
