@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Turn ur photos to sketch DL Model](https://github.com/vijishmadhavan/ArtLine)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [Journalists Hacked with Suspected NSO Group iMessage ‘Zero-Click’ Exploit](https://citizenlab.ca/2020/12/the-great-ipwn-journalists-hacked-with-suspected-nso-group-imessage-zero-click-exploit/)
+- [Dozens of Al Jazeera journalists allegedly hacked using NSO Group spyware](https://www.theguardian.com/media/2020/dec/20/citizen-lab-nso-dozens-of-aljazeera-journalists-allegedly-hacked-using-israeli-firm-spyware)
+- [Of 18,000 backdoored servers, hackers followed up on only a few dozen](https://arstechnica.com/information-technology/2020/12/only-an-elite-few-solarwinds-hack-victims-received-follow-on-attacks/)
 - [On the Graying of Gnome](https://hpjansson.org/blag/2020/12/16/on-the-graying-of-gnome/)
-- [Security expert warned SolarWinds in 2019 that anyone could access server](https://www.businessinsider.com.au/solarwinds-warned-weak-123-password-could-expose-firm-report-2020-12)
-- [A Fraud Operation Stole Millions from Online Bank Accounts](https://www.wired.com/story/massive-fraud-operation-stole-millions-online-bank-accounts/)
-- [Hackers last year conducted a 'dry run' of SolarWinds breach](https://news.yahoo.com/hackers-last-year-conducted-a-dry-run-of-solar-winds-breach-215232815.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
