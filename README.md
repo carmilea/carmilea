@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Super Nintendo World theme park](https://www.youtube.com/watch?v=hQaRBOI-9kg)
-- [Show HN: Create a QR code with text in the code pattern](http://qr.new)
-- [Setting up your own Nextcloud instance to get off of Google](https://kiramclean.com/blog/how-to-set-up-your-own-nextcloud-server/)
-- [The original "Spacewar!" running on a virtual DEC PDP-1](https://www.masswerk.at/spacewar/)
-- [No, SAR Can't See Through Buildings](https://www.capellaspace.com/no-sar-cant-see-through-buildings/)
+- [Preliminary genomic characterisation of an emergent SARS-CoV-2 lineage in the UK](https://virological.org/t/preliminary-genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-the-uk-defined-by-a-novel-set-of-spike-mutations/563)
+- [Back to the '70s with Serverless](http://evrl.com/devops/cloud/2020/12/18/serverless.html)
+- [IceWM 2.0 – Ice Window Manager](https://ice-wm.org/)
+- [Show HN: Flurly – sell any digital file online](https://flurly.com/)
+- [The Abolition of Work (2002)](https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
