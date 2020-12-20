@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Where does one search development advice these days?](https://news.ycombinator.com/item?id=25485171)
 - [The Effect of Computer-Assisted Learning on Students’ Long-Term Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3309169)
-- [Treasure Hunter Notches 5th Year in Prison for Refusing to Forfeit His Loot](https://www.nytimes.com/2020/12/19/us/tommy-thompson-gold-treasure-hunter.html)
 - [Show HN: Owncast – The open source, self-hosted live streaming server](https://news.ycombinator.com/item?id=25484133)
 - [How to cook a medieval feast: recipes from the Middle Ages](https://blog.britishmuseum.org/how-to-cook-a-medieval-feast/)
 - [Rebooting a 15 year-old game written in D – Part 1 Compiling](https://speps.fr/articles/torus-trooper-part1/)
