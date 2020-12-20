@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [They risk their lives cleaning hospitals. Now, they are getting vaccinated](https://www.latimes.com/california/story/2020-12-19/covid-vaccine-california-hospital-custodial-workers)
+- [How to cook a medieval feast: recipes from the Middle Ages](https://blog.britishmuseum.org/how-to-cook-a-medieval-feast/)
 - [All problems stem from man's inability to sit quietly in a room alone (2014)](https://www.theguardian.com/lifeandstyle/2014/jul/19/change-your-life-sit-down-and-think)
 - [Arrays of Arrays (2009)](https://ericlippert.com/2009/08/17/arrays-of-arrays/)
 - [Windows 10 20H2: ChkDsk damages filesystem on SSDs with KB4592438 installed](https://borncity.com/win/2020/12/18/windows-10-20h2-chkdsk-damages-file-system-on-ssds-with-update-kb4592438-installed/)
