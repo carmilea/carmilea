@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Resignate](https://languagelog.ldc.upenn.edu/nll/?p=49666)
 - [More challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
 - [A medical hoax leads to a 50-year mistruth about MSG (2019)](https://news.colgate.edu/magazine/2019/02/06/the-strange-case-of-dr-ho-man-kwok/)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 - [Journalists Hacked with Suspected NSO Group iMessage ‘Zero-Click’ Exploit](https://citizenlab.ca/2020/12/the-great-ipwn-journalists-hacked-with-suspected-nso-group-imessage-zero-click-exploit/)
-- [Dozens of Al Jazeera journalists allegedly hacked using NSO Group spyware](https://www.theguardian.com/media/2020/dec/20/citizen-lab-nso-dozens-of-aljazeera-journalists-allegedly-hacked-using-israeli-firm-spyware)
 <!-- BLOG-POST-LIST:END -->
 
 ---
