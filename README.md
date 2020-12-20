@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Set up a Raspberry Pi metero detector](https://www.skyatnightmagazine.com/advice/diy/raspberry-pi-meteor-detector/)
-- [Posenet Fruit Ninja in the Browser(Tensorflow.js and Posenet)](https://huhai463127310.github.io/posenet_fruit_ninja/)
-- [The Internet Is for Porn](https://themargins.substack.com/p/the-internet-is-for-porn)
-- [Vindicated scientist demonstrated surgery alternatives for stroke victims](https://www.theguardian.com/society/2020/dec/19/scorned-scientist-now-vindicated-in-her-work-on-how-to-treat-stroke)
-- [Starting Sunday, cable companies can no longer ‘rent’ you the router you own](https://www.theverge.com/2020/12/19/22191096/internet-modem-router-rental-fee-fix-television-viewer-protection-act-tvpa)
+- [Overdose deaths far outpace Covid-19 deaths in San Francisco](https://www.sfgate.com/news/article/Overdose-deaths-far-outpace-COVID-19-deaths-in-15816356.php?IPID=SFGate-HP-CP-Spotlight)
+- [Decaying Tanker Has 4 Times the Amount of Oil as the Exxon Valdez](https://scitechdaily.com/scientists-warn-of-likely-massive-oil-spill-abandoned-tanker-has-4-times-the-amount-of-oil-as-the-exxon-valdez/)
+- [The Gervais Principle, or the Office According to “The Office” (2009)](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
+- [An obscure British PC maker invented ARM and changed the world](https://arstechnica.com/features/2020/12/how-an-obscure-british-pc-maker-invented-arm-and-changed-the-world/)
+- [Set up a Raspberry Pi meteor detector](https://www.skyatnightmagazine.com/advice/diy/raspberry-pi-meteor-detector/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
