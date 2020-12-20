@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [They risk their lives cleaning hospitals. Now, they are getting vaccinated](https://www.latimes.com/california/story/2020-12-19/covid-vaccine-california-hospital-custodial-workers)
 - [All problems stem from man's inability to sit quietly in a room alone (2014)](https://www.theguardian.com/lifeandstyle/2014/jul/19/change-your-life-sit-down-and-think)
+- [Arrays of Arrays (2009)](https://ericlippert.com/2009/08/17/arrays-of-arrays/)
 - [Windows 10 20H2: ChkDsk damages filesystem on SSDs with KB4592438 installed](https://borncity.com/win/2020/12/18/windows-10-20h2-chkdsk-damages-file-system-on-ssds-with-update-kb4592438-installed/)
 - [Show HN: Mantel-top computerized musical chimes with MicroPython on an ESP-32](https://github.com/keredson/chimes/blob/main/README.md)
-- [Back to the '70s with Serverless](http://evrl.com/devops/cloud/2020/12/18/serverless.html)
-- [IceWM 2.0 – Ice Window Manager](https://ice-wm.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
