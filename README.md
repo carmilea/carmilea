@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers last year conducted a 'dry run' of SolarWinds breach](https://news.yahoo.com/hackers-last-year-conducted-a-dry-run-of-solar-winds-breach-215232815.html)
 - [Researchers propose faster, more efficient alternatives to backpropagation](https://venturebeat.com/2020/12/16/at-neurips-2020-researchers-proposed-faster-more-efficient-alternatives-to-backpropagation/)
 - [FFmpeg is 20 years old today](https://twitter.com/ffmpeg/status/1340698413143224320)
+- [Crime Shouldn't Pay: Why Big Tech Executives Should Face Jail](https://mattstoller.substack.com/p/crime-shouldnt-pay-why-big-tech-executives)
 - [Scientists looking for aliens investigate radio beam from nearby star](https://www.theguardian.com/science/2020/dec/18/scientists-looking-for-aliens-investigate-radio-beam-from-nearby-star)
-- [Lode Runner](https://www.filfre.net/2020/12/lode-runner/)
-- [An Engineer’s Guide to Stock Options](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
