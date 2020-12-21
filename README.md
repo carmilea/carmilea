@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Class Action: Same IP Address Upload Pirate Movies and File DMCA Notices](https://torrentfreak.com/youtube-class-action-same-ip-address-used-to-upload-pirate-movies-file-dmca-notices-201221/)
-- [Ignore AMP](https://meiert.com/en/blog/ignore-amp/)
-- [Why I've Been Merging Microservices Back into the Monolith at InVision](https://www.bennadel.com/blog/3944-why-ive-been-merging-microservices-back-into-the-monolith-at-invision.htm)
-- [Jaywalking decriminalization, 100 years after the auto industry made it a crime](https://www.virginiamercury.com/2020/12/21/jaywalking-decriminalization-is-coming-to-virginia-100-years-after-the-auto-industry-helped-make-it-a-crime/)
-- [Internet Archive announces new Open Library Explorer (beta)](https://blog.openlibrary.org/2020/12/16/introducing-the-open-library-explorer/)
+- [Osmind (YC S20) is hiring a Senior Software Engineer to transform mental health](https://news.ycombinator.com/item?id=25499475)
+- [Apple targets car production by 2024, eyes ‘next level’ battery tech: sources](https://www.reuters.com/article/us-apple-autos-exclusive/exclusive-apple-targets-car-production-by-2024-and-eyes-next-level-battery-technology-sources-idUSKBN28V2PY)
+- [Generating Cryptographically Secure Random Numbers with Coins and a Cup](https://blog.sia.tech/generating-cryptographically-secure-random-numbers-with-coins-and-a-cup-4e223899509e)
+- [The Universe Is Expanding Faster Than Expected](https://www.quantamagazine.org/astronomers-get-their-wish-and-the-hubble-crisis-gets-worse-20201217/)
+- [UK coronavirus variant may be more able to infect children: scientists](https://www.reuters.com/article/us-health-coronavirus-variant-children-idUSKBN28V2F5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
