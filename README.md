@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fuzzy logic rice cookers (2016)](https://fivethirtyeight.com/features/an-ode-to-the-rice-cooker-the-smartest-kitchen-appliance-ive-ever-owned/)
 - [‘Magic’ angle graphene and the creation of unexpected topological quantum states](https://www.princeton.edu/news/2020/12/14/magic-angle-graphene-and-creation-unexpected-topological-quantum-states)
 - [eBPF Is Awesome](https://filipnikolovski.com/posts/ebpf/)
 - [More challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
 - [Mile-Long Wooden Xylophone Plays Bach in Japanese Forest](https://dornob.com/mile-long-wooden-xylophone-plays-bach-in-japanese-forest/)
-- [A medical hoax leads to a 50-year mistruth about MSG (2019)](https://news.colgate.edu/magazine/2019/02/06/the-strange-case-of-dr-ho-man-kwok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
