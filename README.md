@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Class Action: Same IP Address Upload Pirate Movies and File DMCA Notices](https://torrentfreak.com/youtube-class-action-same-ip-address-used-to-upload-pirate-movies-file-dmca-notices-201221/)
+- [Ignore AMP](https://meiert.com/en/blog/ignore-amp/)
 - [Why I've Been Merging Microservices Back into the Monolith at InVision](https://www.bennadel.com/blog/3944-why-ive-been-merging-microservices-back-into-the-monolith-at-invision.htm)
+- [Jaywalking decriminalization, 100 years after the auto industry made it a crime](https://www.virginiamercury.com/2020/12/21/jaywalking-decriminalization-is-coming-to-virginia-100-years-after-the-auto-industry-helped-make-it-a-crime/)
 - [Internet Archive announces new Open Library Explorer (beta)](https://blog.openlibrary.org/2020/12/16/introducing-the-open-library-explorer/)
-- [Show HN: Pop.com – Video Calls, in 3D](https://pop.com)
-- [Facebook Lets Vietnam’s Cyberarmy Target Dissidents, Rejecting a Celebrity Plea](https://theintercept.com/2020/12/21/facebook-vietnam-censorship/)
-- [Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
