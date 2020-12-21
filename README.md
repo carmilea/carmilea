@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ruby 3.0.0 RC1 Released](https://www.ruby-lang.org/en/news/2020/12/20/ruby-3-0-0-rc1-released/)
+- [Russian opposition leader Navalny dupes spy into revealing how he was poisoned](https://www.cnn.com/2020/12/21/europe/russia-navalny-poisoning-underpants-ward/index.html)
+- [Some U.S. Colleges Cut Tuition](https://www.bloomberg.com/news/articles/2020-12-18/some-u-s-colleges-cut-tuition-ending-relentless-price-spiral)
+- [Show HN: Find the safest well lit walking route between two locations](https://github.com/mfbx9da4/brightpath-backend#mission)
+- [Ruby 3.0.0 RC1](https://www.ruby-lang.org/en/news/2020/12/20/ruby-3-0-0-rc1-released/)
 - [Facebook's attempt to vilify Apple looks like sour grapes](https://www.theguardian.com/technology/2020/dec/16/facebooks-attempt-to-vilify-apple-tastes-like-sour-grapes)
-- [Nikon Is ending 70 years of camera production in Japan](https://www.mirrorlessrumors.com/nikon-is-ending-70-years-of-camera-production-in-japan/)
-- [GameLisp: Scripting language for Rust game development](https://gamelisp.rs/)
-- [Startup Stock Options – Why A Good Deal Has Gone Bad (2019)](https://steveblank.com/2019/04/10/startup-stock-options-why-a-good-deal-has-gone-bad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
