@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Employees how excersised stock options. How did it go?](https://news.ycombinator.com/item?id=25496166)
+- [I rewrote a Clojure tool in Rust](https://timofreiberg.github.io/clojure-vs-rust/)
+- [Netflix's Metaflow: Reproducible machine learning pipelines](https://www.cortex.dev/post/reproducible-machine-learning-pipelines-with-metaflow-and-cortex)
+- [Modern Treasury (YC S18) is hiring engineers and designer #2](https://angel.co/company/moderntreasury)
+- [Evidence of “modified gravity” in 150 galaxies bolsters dark matter alternative](https://newatlas.com/physics/modified-gravity-evidence-dark-matter/)
 - [Congress is set to ban most surprise medical bills](https://www.nytimes.com/2020/12/20/upshot/surprise-medical-bills-congress-ban.html)
-- [Russian opposition leader Navalny dupes spy into revealing how he was poisoned](https://www.cnn.com/2020/12/21/europe/russia-navalny-poisoning-underpants-ward/index.html)
-- [Show HN: NoteCalc](https://github.com/bbodi/notecalc3/releases/tag/v0.3.0)
-- [Some U.S. Colleges Cut Tuition](https://www.bloomberg.com/news/articles/2020-12-18/some-u-s-colleges-cut-tuition-ending-relentless-price-spiral)
 <!-- BLOG-POST-LIST:END -->
 
 ---
