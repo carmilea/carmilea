@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Nikon ends 70 years of camera production in Japan, moving to Thailand](https://www.mirrorlessrumors.com/nikon-is-ending-70-years-of-camera-production-in-japan/)
+- [New coronavirus variant in UK: What do we know?](https://www.bbc.com/news/health-55388846)
 - [GameLisp: Scripting language for Rust game development](https://gamelisp.rs/)
 - [Startup Stock Options – Why a Good Deal Has Gone Bad](https://steveblank.com/2019/04/10/startup-stock-options-why-a-good-deal-has-gone-bad/)
 - [Chef cofounder on CentOS: It’s time to open source everything](https://planetstoryline.com/chef-cofounder-on-centos-its-time-to-open-source-everything/)
-- [$7/month wages paid to iPhone factory workers despite being hired for $100+/mo](https://arstechnica.com/gadgets/2020/12/worker-protests-at-indian-iphone-factory-causes-up-to-7-million-in-damages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
