@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Employees how excersised stock options. How did it go?](https://news.ycombinator.com/item?id=25496166)
+- [Congress is set to ban most surprise medical bills](https://www.nytimes.com/2020/12/20/upshot/surprise-medical-bills-congress-ban.html)
 - [Russian opposition leader Navalny dupes spy into revealing how he was poisoned](https://www.cnn.com/2020/12/21/europe/russia-navalny-poisoning-underpants-ward/index.html)
+- [Show HN: NoteCalc](https://github.com/bbodi/notecalc3/releases/tag/v0.3.0)
 - [Some U.S. Colleges Cut Tuition](https://www.bloomberg.com/news/articles/2020-12-18/some-u-s-colleges-cut-tuition-ending-relentless-price-spiral)
-- [Show HN: Find the safest well lit walking route between two locations](https://github.com/mfbx9da4/brightpath-backend#mission)
-- [Ruby 3.0.0 RC1](https://www.ruby-lang.org/en/news/2020/12/20/ruby-3-0-0-rc1-released/)
-- [Facebook's attempt to vilify Apple looks like sour grapes](https://www.theguardian.com/technology/2020/dec/16/facebooks-attempt-to-vilify-apple-tastes-like-sour-grapes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
