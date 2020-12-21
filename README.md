@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Threema apps are Open Source](https://threema.ch/en/blog/posts/open-source-discount)
-- [Joining Apple 40 years ago](https://mondaynote.com/joining-apple-40-years-ago-805114536a2)
-- [Great Hacker != Great Hire (2004)](https://ericsink.com/entries/No_Great_Hackers.html)
-- [Bash 5.1](https://lists.gnu.org/archive/html/info-gnu/2020-12/msg00003.html)
-- [World’s biggest iceberg heads for disaster](https://graphics.reuters.com/CLIMATE-CHANGE/ICEBERG/yzdvxjrbzvx/)
+- [Nikon ends 70 years of camera production in Japan, moving to Thailand](https://www.mirrorlessrumors.com/nikon-is-ending-70-years-of-camera-production-in-japan/)
+- [GameLisp: Scripting language for Rust game development](https://gamelisp.rs/)
+- [Startup Stock Options – Why a Good Deal Has Gone Bad](https://steveblank.com/2019/04/10/startup-stock-options-why-a-good-deal-has-gone-bad/)
+- [Chef cofounder on CentOS: It’s time to open source everything](https://planetstoryline.com/chef-cofounder-on-centos-its-time-to-open-source-everything/)
+- [$7/month wages paid to iPhone factory workers despite being hired for $100+/mo](https://arstechnica.com/gadgets/2020/12/worker-protests-at-indian-iphone-factory-causes-up-to-7-million-in-damages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
