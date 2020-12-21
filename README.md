@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Joining Apple 40 years ago](https://mondaynote.com/joining-apple-40-years-ago-805114536a2)
 - [Bash 5.1](https://lists.gnu.org/archive/html/info-gnu/2020-12/msg00003.html)
 - [World’s biggest iceberg heads for disaster](https://graphics.reuters.com/CLIMATE-CHANGE/ICEBERG/yzdvxjrbzvx/)
 - [Herald – Bluetooth contact tracing protocol](https://vmware.github.io/herald/)
 - [3D printing boats is becoming standard practice](https://www.3dprintingmedia.network/3d-printing-boats-is-becoming-standard-practice/)
-- [Show HN: A TO-DO app that fits inside a single tweet](https://ruky.me/2020/12/21/a-to-do-app-that-fits-in-a-single-tweet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
