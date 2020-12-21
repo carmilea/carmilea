@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fuck Amazon Vine](https://thingamagig.com/vine/WhyAmazonVineSucks.html?x=3)
+- [Write code. Not too much. Mostly functions.](https://www.brandonsmith.ninja/blog/write-code-not-too-much-mostly-functions)
+- [Election's Over, Facebook Gets Back to Spreading Misinformation](https://www.vanityfair.com/news/2020/12/with-the-election-over-facebook-gets-back-to-spreading-misinformation)
 - [Osmind (YC S20) is hiring a Senior Software Engineer to transform mental health](https://news.ycombinator.com/item?id=25499475)
+- [SEC filed an emergency action against Silicon Sage Builders for securities fraud](https://www.sec.gov/news/press-release/2020-329)
 - [Apple targets car production by 2024, eyes ‘next level’ battery tech: sources](https://www.reuters.com/article/us-apple-autos-exclusive/exclusive-apple-targets-car-production-by-2024-and-eyes-next-level-battery-technology-sources-idUSKBN28V2PY)
-- [Generating Cryptographically Secure Random Numbers with Coins and a Cup](https://blog.sia.tech/generating-cryptographically-secure-random-numbers-with-coins-and-a-cup-4e223899509e)
-- [The Universe Is Expanding Faster Than Expected](https://www.quantamagazine.org/astronomers-get-their-wish-and-the-hubble-crisis-gets-worse-20201217/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
