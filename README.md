@@ -54,8 +54,8 @@
 - [Life of a Vitess Cluster](https://vitess.io/blog/2020-04-27-life-of-a-cluster/)
 - [Unix Recovery Legend](https://www.ee.ryerson.ca/~elf/hack/recovery.html)
 - [Cakelisp: A Programming Language for Games](https://macoy.me/blog/programming/CakelispIntro)
+- [PicoLisp Chess](https://software-lab.de/chess/README)
 - [‘Magic’ angle graphene and the creation of unexpected topological quantum states](https://www.princeton.edu/news/2020/12/14/magic-angle-graphene-and-creation-unexpected-topological-quantum-states)
-- [eBPF Is Awesome](https://filipnikolovski.com/posts/ebpf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
