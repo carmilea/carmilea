@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bash 5.1 has been released](https://lists.gnu.org/archive/html/info-gnu/2020-12/msg00003.html)
 - [Paper about Herbalife-related patient death removed after legal threats](https://scienceintegritydigest.com/2020/12/20/paper-about-herbalife-related-patient-death-removed-after-company-threatens-to-sue-the-journal/)
 - [Life of a Vitess Cluster](https://vitess.io/blog/2020-04-27-life-of-a-cluster/)
 - [Unix Recovery Legend](https://www.ee.ryerson.ca/~elf/hack/recovery.html)
 - [Cakelisp: A Programming Language for Games](https://macoy.me/blog/programming/CakelispIntro)
-- [PicoLisp Chess](https://software-lab.de/chess/README)
 <!-- BLOG-POST-LIST:END -->
 
 ---
