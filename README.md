@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I've Been Merging Microservices Back into the Monolith at InVision](https://www.bennadel.com/blog/3944-why-ive-been-merging-microservices-back-into-the-monolith-at-invision.htm)
+- [Internet Archive announces new Open Library Explorer (beta)](https://blog.openlibrary.org/2020/12/16/introducing-the-open-library-explorer/)
+- [Show HN: Pop.com – Video Calls, in 3D](https://pop.com)
 - [Facebook Lets Vietnam’s Cyberarmy Target Dissidents, Rejecting a Celebrity Plea](https://theintercept.com/2020/12/21/facebook-vietnam-censorship/)
 - [Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
-- [I rewrote a Clojure tool in Rust](https://timofreiberg.github.io/clojure-vs-rust/)
-- [Netflix's Metaflow: Reproducible machine learning pipelines](https://www.cortex.dev/post/reproducible-machine-learning-pipelines-with-metaflow-and-cortex)
-- [Project Oberon 2013 on RISC-V](https://github.com/solbjorg/oberon-riscv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
