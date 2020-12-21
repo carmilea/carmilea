@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Resignate](https://languagelog.ldc.upenn.edu/nll/?p=49666)
+- [‘Magic’ angle graphene and the creation of unexpected topological quantum states](https://www.princeton.edu/news/2020/12/14/magic-angle-graphene-and-creation-unexpected-topological-quantum-states)
+- [eBPF Is Awesome](https://filipnikolovski.com/posts/ebpf/)
 - [More challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
+- [Mile-Long Wooden Xylophone Plays Bach in Japanese Forest](https://dornob.com/mile-long-wooden-xylophone-plays-bach-in-japanese-forest/)
 - [A medical hoax leads to a 50-year mistruth about MSG (2019)](https://news.colgate.edu/magazine/2019/02/06/the-strange-case-of-dr-ho-man-kwok/)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [Journalists Hacked with Suspected NSO Group iMessage ‘Zero-Click’ Exploit](https://citizenlab.ca/2020/12/the-great-ipwn-journalists-hacked-with-suspected-nso-group-imessage-zero-click-exploit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
