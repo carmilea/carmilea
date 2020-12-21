@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Threema apps are Open Source](https://threema.ch/en/blog/posts/open-source-discount)
 - [Joining Apple 40 years ago](https://mondaynote.com/joining-apple-40-years-ago-805114536a2)
+- [Great Hacker != Great Hire (2004)](https://ericsink.com/entries/No_Great_Hackers.html)
 - [Bash 5.1](https://lists.gnu.org/archive/html/info-gnu/2020-12/msg00003.html)
 - [World’s biggest iceberg heads for disaster](https://graphics.reuters.com/CLIMATE-CHANGE/ICEBERG/yzdvxjrbzvx/)
-- [Herald – Bluetooth contact tracing protocol](https://vmware.github.io/herald/)
-- [3D printing boats is becoming standard practice](https://www.3dprintingmedia.network/3d-printing-boats-is-becoming-standard-practice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
