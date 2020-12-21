@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Lets Vietnam’s Cyberarmy Target Dissidents, Rejecting a Celebrity Plea](https://theintercept.com/2020/12/21/facebook-vietnam-censorship/)
+- [Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
 - [I rewrote a Clojure tool in Rust](https://timofreiberg.github.io/clojure-vs-rust/)
 - [Netflix's Metaflow: Reproducible machine learning pipelines](https://www.cortex.dev/post/reproducible-machine-learning-pipelines-with-metaflow-and-cortex)
-- [Modern Treasury (YC S18) is hiring engineers and designer #2](https://angel.co/company/moderntreasury)
-- [Evidence of “modified gravity” in 150 galaxies bolsters dark matter alternative](https://newatlas.com/physics/modified-gravity-evidence-dark-matter/)
-- [Congress is set to ban most surprise medical bills](https://www.nytimes.com/2020/12/20/upshot/surprise-medical-bills-congress-ban.html)
+- [Project Oberon 2013 on RISC-V](https://github.com/solbjorg/oberon-riscv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
