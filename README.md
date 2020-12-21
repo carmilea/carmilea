@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“I took FSFE to court. This is my story”](https://write.as/malinagalina/i-took-fsfe-to-court)
+- [Ruby 3.0.0 RC1 Released](https://www.ruby-lang.org/en/news/2020/12/20/ruby-3-0-0-rc1-released/)
 - [Facebook's attempt to vilify Apple looks like sour grapes](https://www.theguardian.com/technology/2020/dec/16/facebooks-attempt-to-vilify-apple-tastes-like-sour-grapes)
 - [Nikon Is ending 70 years of camera production in Japan](https://www.mirrorlessrumors.com/nikon-is-ending-70-years-of-camera-production-in-japan/)
-- [New coronavirus variant in UK: What do we know?](https://www.bbc.com/news/health-55388846)
 - [GameLisp: Scripting language for Rust game development](https://gamelisp.rs/)
+- [Startup Stock Options – Why A Good Deal Has Gone Bad (2019)](https://steveblank.com/2019/04/10/startup-stock-options-why-a-good-deal-has-gone-bad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
