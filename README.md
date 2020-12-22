@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Illegal Streaming to be a felony soon](https://www.tillis.senate.gov/2020/12/tillis-releases-text-of-bipartisan-legislation-to-fight-illegal-streaming-by-criminal-organizations)
-- [Sweden edges closer to NATO membership](https://www.politico.eu/article/sweden-nato-membership-dilemma/)
-- [Ask HN: Co-founder wants me to leave but won't entertain a buy out offer](https://news.ycombinator.com/item?id=25506593)
-- [Tillis Pushes Prison Time for Online Streamers After Hollywood Cash Blitz](https://prospect.org/power/senator-thom-tillis-pushes-prison-time-for-online-streamers/)
-- [You Should Write a User Guide](https://boringstartupstuff.com/newsletter/dec-22nd-2020-write-a-user-guide)
+- [Hotwire: HTML over the Wire](https://hotwire.dev/)
+- [Should you Work Hard? (2019)](https://jacobobryant.com/post/2019/alignment/)
+- [Dava Newman Named Director of MIT Media Lab](https://news.mit.edu/2020/media-lab-director-newman-1222)
+- [The Rise and Fall of Minitel – Open Culture](https://www.openculture.com/2020/02/how-france-invented-a-popular-profitable-internet-of-its-own-in-the-80s-the-rise-and-fall-of-minitel.html)
+- [Humans Made a Space Barrier Around Earth](https://www.popularmechanics.com/science/environment/a34980813/human-made-space-barrier-around-earth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
