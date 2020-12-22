@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Did Joseph Smith Use Psychedelic Substances to Facilitate Visionary Experiences? [pdf]](http://www.mormonthink.com/files/restoration-sacred-mushroom.pdf)
 - [Voat Is Shutting Down](https://voat.co/v/announcements/4169936)
 - [Show HN: 02Books – An open source web app to teach kids to read](https://news.ycombinator.com/item?id=25501294)
 - [My Engineering Axioms](https://martinrue.com/my-engineering-axioms/)
 - [Write code. Not too much. Mostly functions.](https://www.brandonsmith.ninja/blog/write-code-not-too-much-mostly-functions)
-- [Osmind (YC S20) is hiring a Senior Software Engineer to transform mental health](https://news.ycombinator.com/item?id=25499475)
 <!-- BLOG-POST-LIST:END -->
 
 ---
