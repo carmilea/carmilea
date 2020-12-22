@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Common security vulnerabilities with crypto websites and APIs](https://introvertmac.wordpress.com/2020/12/22/common-security-issues-with-crypto-websites-and-apis/)
-- [Together Software (YC S19) Hiring Software Engineer](https://jobs.lever.co/together/86c724e1-9337-487b-a79f-541e82a35d51)
-- [Ripple: A wireless token-passing protocol for multi-hop wireless mesh networks](https://www.researchgate.net/publication/3417652_Ripple_A_wireless_token-passing_protocol_for_multi-hop_wireless_mesh_networks)
-- [Thousands of fraudsters are selling via Shopify, analysis finds](https://www.ft.com/content/0280592d-0adf-4dcb-a831-4f8a85f414bc)
-- [Microplastics found in the placentas of human fetuses](https://www.theguardian.com/environment/2020/dec/22/microplastics-revealed-in-placentas-unborn-babies)
+- [2k Parents Demand Major Academic Publisher Drop Proctorio Surveillance Tech](https://www.vice.com/en/article/88am8k/2000-parents-demand-major-academic-publisher-drop-proctorio-surveillance-tech)
+- [Microsoft and Google join FB's legal battle against Israeli hacking company NSO](https://venturebeat.com/2020/12/22/microsoft-and-google-join-facebooks-legal-battle-against-hacking-company-nso/)
+- [Apple Silicon M1 MacBook Pro Review: This Changes Everything](https://petapixel.com/2020/12/21/apple-silicon-m1-macbook-pro-review-this-changes-everything/)
+- [Bare-Metal Kubernetes with K3s](https://blog.alexellis.io/bare-metal-kubernetes-with-k3s/)
+- [Microsoft, Google, Cisco, and others file amicus brief in support of NSO lawsuit](https://www.zdnet.com/article/microsoft-google-cisco-and-others-file-amicus-brief-in-support-of-facebooks-nso-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
