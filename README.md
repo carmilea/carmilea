@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WiFi 6 gets 1.34 Gbps on the Raspberry Pi CM4](https://www.jeffgeerling.com/blog/2020/wifi-6-gets-134-gbps-on-raspberry-pi-cm4)
 - [Lakehouse: New Open Platforms That Unify Data Warehousing and Advanced Analytics [pdf]](http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
 - [Nintendo “stalked” hackers with private investigators, coercing into settlements](https://twitter.com/forestillusion/status/1341222991619792897)
 - [What Does Privacy Mean Under Surveillance Capitalism?](https://lithub.com/what-does-privacy-really-mean-under-surveillance-capitalism/)
-- [Amazon’s surveillance drones violate FCC rules](https://www.vice.com/en/article/z3vvga/amazons-surveillance-drones-violate-fcc-rules-its-time-to-enforce-them)
 - [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
 <!-- BLOG-POST-LIST:END -->
 
