@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Voat Is Shutting Down](https://voat.co/v/announcements/4169936)
 - [Show HN: 02Books – An open source web app to teach kids to read](https://news.ycombinator.com/item?id=25501294)
+- [My Engineering Axioms](https://martinrue.com/my-engineering-axioms/)
 - [Write code. Not too much. Mostly functions.](https://www.brandonsmith.ninja/blog/write-code-not-too-much-mostly-functions)
 - [Osmind (YC S20) is hiring a Senior Software Engineer to transform mental health](https://news.ycombinator.com/item?id=25499475)
-- [SEC filed an emergency action against Silicon Sage Builders for securities fraud](https://www.sec.gov/news/press-release/2020-329)
 <!-- BLOG-POST-LIST:END -->
 
 ---
