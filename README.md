@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Did Joseph Smith Use Psychedelic Substances to Facilitate Visionary Experiences? [pdf]](http://www.mormonthink.com/files/restoration-sacred-mushroom.pdf)
+- [Congress Crams Language to Criminalize Streaming, Meme-Sharing into Omnibus Bill](https://www.commondreams.org/news/2020/12/21/atrocious-congress-crams-language-criminalize-online-streaming-meme-sharing-5500)
+- [Cryptocurrency company Ripple says SEC lawsuit is imminent](https://www.axios.com/cryptocurrency-ripple-sec-lawsuit-imminent-94f946a5-cdc5-4c9c-89cc-65409a563e2c.html)
+- [Double Blind Passwords (a.k.a. Horcruxing)](https://kaizoku.dev/double-blind-passwords-aka-horcruxing)
 - [Voat Is Shutting Down](https://voat.co/v/announcements/4169936)
 - [Show HN: 02Books – An open source web app to teach kids to read](https://news.ycombinator.com/item?id=25501294)
-- [My Engineering Axioms](https://martinrue.com/my-engineering-axioms/)
-- [Write code. Not too much. Mostly functions.](https://www.brandonsmith.ninja/blog/write-code-not-too-much-mostly-functions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
