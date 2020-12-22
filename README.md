@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. approves NYSE listing plan to cut out Wall Street middlemen](https://www.reuters.com/article/us-usa-sec-nyse/u-s-approves-nyse-listing-plan-to-cut-out-wall-street-middlemen-idUSKBN28W2D4)
-- [A janitor making $4/hr walked into a Fortune 500 company boardroom](https://twitter.com/ankithharathi/status/1341193051184611331)
-- [Mark Rober (former NASA) launches a 30 day Creative Engineering Class](https://monthly.com/mark-rober-engineering)
-- [WiFi 6 gets 1.34 Gbps on the Raspberry Pi CM4](https://www.jeffgeerling.com/blog/2020/wifi-6-gets-134-gbps-on-raspberry-pi-cm4)
-- [Nintendo “stalked” hackers with private investigators, coercing into settlements](https://twitter.com/forestillusion/status/1341222991619792897)
+- [This Car Is Powered by Salt Water: 760HP, Top Speed 186 MPH, 621 Miles/Tank](https://www.scifront.com/this-car-is-powered-by-salt-water-760hp-top-speed-186-mph-621-miles-tank/)
+- [OneSignal (Messaging and Push Notification APIs) is hiring a back end engineer](https://onesignal.com/careers/90cfa84c-5d78-47e8-a3f3-5cbaddd0ca89)
+- [V(vlang) 0.2 Is Out](https://github.com/vlang/v/discussions/7474)
+- [SEC formally sues cryptocurrency company Ripple](https://www.axios.com/sec-formally-sues-cryptocurrency-company-ripple-83bfed3a-60dd-45d2-ae67-35431676f957.html)
+- [SEC Charges Ripple with Conducting $1.3B Unregistered Securities Offering](https://www.sec.gov/news/press-release/2020-338)
 <!-- BLOG-POST-LIST:END -->
 
 ---
