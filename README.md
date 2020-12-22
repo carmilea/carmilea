@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Raycast (YC W20) Is Hiring Back End Software Engineers (Remote, UTC ± 3 Hours)](https://raycast.com/jobs/software-engineer-backend)
-- [Testicular Compression Boosts Testosterone](https://pubmed.ncbi.nlm.nih.gov/8498875/)
 - [Google, Facebook Agreed to Team Up Against Possible Antitrust Action](https://www.wsj.com/articles/google-facebook-agreed-to-team-up-against-possible-antitrust-action-draft-lawsuit-says-11608612219)
 - [Suspicions grow that nanoparticles in Pfizer vaccine trigger allergic reactions](https://www.sciencemag.org/news/2020/12/suspicions-grow-nanoparticles-pfizer-s-covid-19-vaccine-trigger-rare-allergic-reactions)
 - [Congress Crams Language to Criminalize Streaming, Meme-Sharing into Omnibus Bill](https://www.commondreams.org/news/2020/12/21/atrocious-congress-crams-language-criminalize-online-streaming-meme-sharing-5500)
+- [This Community is Available in the App](https://ruky.me/2020/12/22/this-community-is-available-in-the-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
