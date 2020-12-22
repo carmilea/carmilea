@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. approves NYSE listing plan to cut out Wall Street middlemen](https://www.reuters.com/article/us-usa-sec-nyse/u-s-approves-nyse-listing-plan-to-cut-out-wall-street-middlemen-idUSKBN28W2D4)
+- [A janitor making $4/hr walked into a Fortune 500 company boardroom](https://twitter.com/ankithharathi/status/1341193051184611331)
+- [Mark Rober (former NASA) launches a 30 day Creative Engineering Class](https://monthly.com/mark-rober-engineering)
 - [WiFi 6 gets 1.34 Gbps on the Raspberry Pi CM4](https://www.jeffgeerling.com/blog/2020/wifi-6-gets-134-gbps-on-raspberry-pi-cm4)
-- [Lakehouse: New Open Platforms That Unify Data Warehousing and Advanced Analytics [pdf]](http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
 - [Nintendo “stalked” hackers with private investigators, coercing into settlements](https://twitter.com/forestillusion/status/1341222991619792897)
-- [What Does Privacy Mean Under Surveillance Capitalism?](https://lithub.com/what-does-privacy-really-mean-under-surveillance-capitalism/)
-- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
