@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [This Car Is Powered by Salt Water: 760HP, Top Speed 186 MPH, 621 Miles/Tank](https://www.scifront.com/this-car-is-powered-by-salt-water-760hp-top-speed-186-mph-621-miles-tank/)
+- [How neutering dogs became the norm](https://moosenuggets.substack.com/p/chapter-2-how-neutering-became-the)
+- [Interview with an anonymous AWS cybersecurity engineer](https://logicmag.io/commons/inside-the-whale-an-interview-with-an-anonymous-amazonian/)
 - [OneSignal (Messaging and Push Notification APIs) is hiring a back end engineer](https://onesignal.com/careers/90cfa84c-5d78-47e8-a3f3-5cbaddd0ca89)
 - [V(vlang) 0.2 Is Out](https://github.com/vlang/v/discussions/7474)
 - [SEC formally sues cryptocurrency company Ripple](https://www.axios.com/sec-formally-sues-cryptocurrency-company-ripple-83bfed3a-60dd-45d2-ae67-35431676f957.html)
-- [SEC Charges Ripple with Conducting $1.3B Unregistered Securities Offering](https://www.sec.gov/news/press-release/2020-338)
 <!-- BLOG-POST-LIST:END -->
 
 ---
