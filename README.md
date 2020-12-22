@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon’s Surveillance Drones Violate FCC Rules. It's Time to Enforce Them](https://www.vice.com/en/article/z3vvga/amazons-surveillance-drones-violate-fcc-rules-its-time-to-enforce-them)
+- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [He may have found the key to the origins of life. Why have so few heard of him?](https://www.nationalgeographic.com/science/2020/12/he-may-have-found-the-key-to-origins-of-life-tibor-ganti-chemoton)
+- [Turbo: The speed of a SPA without having to write any JavaScript](https://turbo.hotwire.dev/)
 - [Hotwire: HTML over the Wire](https://hotwire.dev/)
-- [Should you Work Hard? (2019)](https://jacobobryant.com/post/2019/alignment/)
-- [Dava Newman Named Director of MIT Media Lab](https://news.mit.edu/2020/media-lab-director-newman-1222)
-- [The Rise and Fall of Minitel – Open Culture](https://www.openculture.com/2020/02/how-france-invented-a-popular-profitable-internet-of-its-own-in-the-80s-the-rise-and-fall-of-minitel.html)
-- [Humans Made a Space Barrier Around Earth](https://www.popularmechanics.com/science/environment/a34980813/human-made-space-barrier-around-earth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
