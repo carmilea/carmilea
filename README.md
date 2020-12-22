@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Is Working on a Car](https://www.cnbc.com/2020/12/21/lidar-stocks-soar-after-report-that-apple-is-working-on-a-car-for-2024.html)
 - [2k Parents Demand Major Academic Publisher Drop Proctorio Surveillance Tech](https://www.vice.com/en/article/88am8k/2000-parents-demand-major-academic-publisher-drop-proctorio-surveillance-tech)
-- [Microsoft and Google join FB's legal battle against Israeli hacking company NSO](https://venturebeat.com/2020/12/22/microsoft-and-google-join-facebooks-legal-battle-against-hacking-company-nso/)
-- [Apple Silicon M1 MacBook Pro Review: This Changes Everything](https://petapixel.com/2020/12/21/apple-silicon-m1-macbook-pro-review-this-changes-everything/)
+- [Microsoft and Google join Facebook’s legal battle against NSO](https://venturebeat.com/2020/12/22/microsoft-and-google-join-facebooks-legal-battle-against-hacking-company-nso/)
 - [Bare-Metal Kubernetes with K3s](https://blog.alexellis.io/bare-metal-kubernetes-with-k3s/)
 - [Microsoft, Google, Cisco, and others file amicus brief in support of NSO lawsuit](https://www.zdnet.com/article/microsoft-google-cisco-and-others-file-amicus-brief-in-support-of-facebooks-nso-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
