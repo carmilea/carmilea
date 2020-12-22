@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon’s Surveillance Drones Violate FCC Rules. It's Time to Enforce Them](https://www.vice.com/en/article/z3vvga/amazons-surveillance-drones-violate-fcc-rules-its-time-to-enforce-them)
+- [Lakehouse: New Open Platforms That Unify Data Warehousing and Advanced Analytics [pdf]](http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
+- [Nintendo “stalked” hackers with private investigators, coercing into settlements](https://twitter.com/forestillusion/status/1341222991619792897)
+- [What Does Privacy Mean Under Surveillance Capitalism?](https://lithub.com/what-does-privacy-really-mean-under-surveillance-capitalism/)
+- [Amazon’s surveillance drones violate FCC rules](https://www.vice.com/en/article/z3vvga/amazons-surveillance-drones-violate-fcc-rules-its-time-to-enforce-them)
 - [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [He may have found the key to the origins of life. Why have so few heard of him?](https://www.nationalgeographic.com/science/2020/12/he-may-have-found-the-key-to-origins-of-life-tibor-ganti-chemoton)
-- [Turbo: The speed of a SPA without having to write any JavaScript](https://turbo.hotwire.dev/)
-- [Hotwire: HTML over the Wire](https://hotwire.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
