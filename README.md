@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Is Working on a Car](https://www.cnbc.com/2020/12/21/lidar-stocks-soar-after-report-that-apple-is-working-on-a-car-for-2024.html)
-- [2k Parents Demand Major Academic Publisher Drop Proctorio Surveillance Tech](https://www.vice.com/en/article/88am8k/2000-parents-demand-major-academic-publisher-drop-proctorio-surveillance-tech)
-- [Microsoft and Google join Facebook’s legal battle against NSO](https://venturebeat.com/2020/12/22/microsoft-and-google-join-facebooks-legal-battle-against-hacking-company-nso/)
-- [Bare-Metal Kubernetes with K3s](https://blog.alexellis.io/bare-metal-kubernetes-with-k3s/)
-- [Microsoft, Google, Cisco, and others file amicus brief in support of NSO lawsuit](https://www.zdnet.com/article/microsoft-google-cisco-and-others-file-amicus-brief-in-support-of-facebooks-nso-lawsuit/)
+- [Illegal Streaming to be a felony soon](https://www.tillis.senate.gov/2020/12/tillis-releases-text-of-bipartisan-legislation-to-fight-illegal-streaming-by-criminal-organizations)
+- [Sweden edges closer to NATO membership](https://www.politico.eu/article/sweden-nato-membership-dilemma/)
+- [Ask HN: Co-founder wants me to leave but won't entertain a buy out offer](https://news.ycombinator.com/item?id=25506593)
+- [Tillis Pushes Prison Time for Online Streamers After Hollywood Cash Blitz](https://prospect.org/power/senator-thom-tillis-pushes-prison-time-for-online-streamers/)
+- [You Should Write a User Guide](https://boringstartupstuff.com/newsletter/dec-22nd-2020-write-a-user-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
