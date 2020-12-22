@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thai baby elephant hit by motorcycle survives after receiving CPR](https://www.reuters.com/article/us-thailand-accident-baby-elephant/thai-baby-elephant-hit-by-motorcycle-survives-after-receiving-cpr-idUSKBN28V1J8)
-- [Why can’t you buy a good webcam?](https://vsevolod.net/good-webcams/)
-- [Raycast (YC W20) Is Hiring Back End Software Engineers (Remote, UTC ± 3 Hours)](https://raycast.com/jobs/software-engineer-backend)
-- [Google, Facebook Agreed to Team Up Against Possible Antitrust Action](https://www.wsj.com/articles/google-facebook-agreed-to-team-up-against-possible-antitrust-action-draft-lawsuit-says-11608612219)
-- [Congress Crams Language to Criminalize Streaming, Meme-Sharing into Omnibus Bill](https://www.commondreams.org/news/2020/12/21/atrocious-congress-crams-language-criminalize-online-streaming-meme-sharing-5500)
+- [Common security vulnerabilities with crypto websites and APIs](https://introvertmac.wordpress.com/2020/12/22/common-security-issues-with-crypto-websites-and-apis/)
+- [Together Software (YC S19) Hiring Software Engineer](https://jobs.lever.co/together/86c724e1-9337-487b-a79f-541e82a35d51)
+- [Ripple: A wireless token-passing protocol for multi-hop wireless mesh networks](https://www.researchgate.net/publication/3417652_Ripple_A_wireless_token-passing_protocol_for_multi-hop_wireless_mesh_networks)
+- [Thousands of fraudsters are selling via Shopify, analysis finds](https://www.ft.com/content/0280592d-0adf-4dcb-a831-4f8a85f414bc)
+- [Microplastics found in the placentas of human fetuses](https://www.theguardian.com/environment/2020/dec/22/microplastics-revealed-in-placentas-unborn-babies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
