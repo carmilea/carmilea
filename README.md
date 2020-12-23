@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IPv6 WireGuard Peering](https://fly.io/blog/ipv6-wireguard-peering/)
+- [Things You're Allowed to Do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 - [US deaths in 2020 top 3M, by far most ever counted](https://apnews.com/article/us-coronavirus-deaths-top-3-million-e2bc856b6ec45563b84ee2e87ae8d5e7)
 - [Flix – Next-generation reliable, concise, functional-first programming language](https://flix.dev/)
 - [What if incomes grew like GDP?](https://www.rand.org/blog/2020/10/a-25-trillion-question-what-if-incomes-grew-like-gdp.html)
-- [Unraveling the role of the microbiome in major depressive disorder](https://journals.lww.com/hrpjournal/Fulltext/2020/01000/Gutted__Unraveling_the_Role_of_the_Microbiome_in.4.aspx)
-- [The Quantum Ad-List contains domains used by ads, trackers, malware](https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list)
 <!-- BLOG-POST-LIST:END -->
 
 ---
