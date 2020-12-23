@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Voice Chats Done Right](https://telegram.org/blog/voice-chats)
 - [Linux 5.10 has a 500% to 2000% BTRFS performance regression](https://www.reddit.com/r/linux/comments/kieqyu/warning_linux_510_has_a_500_to_2000_btrfs/)
-- [Maps.me is gone. We must bring it back](https://telegra.ph/What-happened-to-the-old-MAPSME-12-20)
+- [Maps.me is gone, and we must bring it back](https://telegra.ph/What-happened-to-the-old-MAPSME-12-20)
 - [Xfce 4.16](https://xfce.org/about/news/?post=1608595200)
 - [Booting an M1 Mac from an external disk](https://eclecticlight.co/2020/12/22/booting-an-m1-mac-from-an-external-disk-it-is-possible/)
-- [TerarkDB, ByteDance's RocksDB replacement](https://github.com/bytedance/terarkdb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
