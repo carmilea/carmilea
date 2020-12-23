@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Baremetrics: “you need to make a call to unsubscribe” lol](https://twitter.com/cmdkhalilov/status/1341462579680587778)
 - [The FBI Is Breaking into Encrypted Devices. We’re Suing](https://www.aclu.org/news/privacy-technology/the-fbi-is-secretly-breaking-into-encrypted-devices-were-suing)
 - [IPv6 WireGuard Peering](https://fly.io/blog/ipv6-wireguard-peering/)
 - [Things You're Allowed to Do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
-- [Flix – Next-generation reliable, concise, functional-first programming language](https://flix.dev/)
-- [What if incomes grew like GDP?](https://www.rand.org/blog/2020/10/a-25-trillion-question-what-if-incomes-grew-like-gdp.html)
+- [Medo: A modern UHD 4K open source Media editor for Haiku OS in less than 1.44 Mb](https://discuss.haiku-os.org/t/announcement-haiku-media-editor-r1-0-0-beta-1/10218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
