@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stan is a state-of-the-art platform for statistical modeling](https://mc-stan.org/)
-- [Voice Chats Done Right](https://telegram.org/blog/voice-chats)
-- [Linux 5.10 has a 500% to 2000% BTRFS performance regression](https://www.reddit.com/r/linux/comments/kieqyu/warning_linux_510_has_a_500_to_2000_btrfs/)
-- [Maps.me is gone, and we must bring it back](https://telegra.ph/What-happened-to-the-old-MAPSME-12-20)
-- [Xfce 4.16](https://xfce.org/about/news/?post=1608595200)
+- [Google told its scientists to 'strike a positive tone' in AI research -documents](https://www.reuters.com/article/us-alphabet-google-research-focus/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-idUSKBN28X1CB)
+- [Over 700 YC startups are actively hiring on YC's workatastartup.com](https://www.workatastartup.com/jobs)
+- [‘YouTube recommendations are toxic’ says dev who worked on the algorithm](https://thenextweb.com/google/2019/06/14/youtube-recommendations-toxic-algorithm-google-ai/)
+- [Military scrambling to understand aviation crash risk from new 5G sale](https://www.defensenews.com/2020/12/21/the-military-is-scrambling-to-understand-the-aviation-crash-risk-from-a-new-5g-sale/)
+- [Officials Seize 27,400 Artifacts Looted by a Single French Treasure Hunter](https://www.smithsonianmag.com/smart-news/french-officials-seize-more-27000-looted-archaeological-artifacts-180976590/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
