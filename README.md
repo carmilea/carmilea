@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Booting an M1 Mac from an external disk: it is possible](https://eclecticlight.co/2020/12/22/booting-an-m1-mac-from-an-external-disk-it-is-possible/)
-- [ByteDance's RocksDB replacement(TerarkDB) is now open source](https://github.com/bytedance/terarkdb)
-- [Git Koans](https://stevelosh.com/blog/2013/04/git-koans/)
+- [Xfce 4.16](https://xfce.org/about/news/?post=1608595200)
+- [Booting an M1 Mac from an external disk](https://eclecticlight.co/2020/12/22/booting-an-m1-mac-from-an-external-disk-it-is-possible/)
+- [TerarkDB, ByteDance's RocksDB replacement](https://github.com/bytedance/terarkdb)
+- [Git Koans (2013)](https://stevelosh.com/blog/2013/04/git-koans/)
 - [Baremetrics: “you need to make a call to unsubscribe” lol](https://twitter.com/cmdkhalilov/status/1341462579680587778)
-- [The FBI Is Breaking into Encrypted Devices – We’re Suing](https://www.aclu.org/news/privacy-technology/the-fbi-is-secretly-breaking-into-encrypted-devices-were-suing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
