@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UX Issues with Notion](https://telegra.ph/Notion-is-a-UX-Disaster-12-23)
+- [Phony Targets](https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html)
 - [Google/Fitbit will monetise health data and harm consumers [pdf]](https://cepr.org/sites/default/files/policy_insights/PolicyInsight107.pdf)
+- [How to Favicon in 2021: Six files that fit most needs](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
 - [Build a tiny certificate authority for your homelab](https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/)
-- [Web Authentication Methods Compared](https://testdriven.io/blog/web-authentication-methods/)
-- [Facebook Employees Say Apple Fight Is “Self Serving”](https://www.buzzfeednews.com/article/craigsilverman/facebook-apple-fight-self-serving)
-- [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
