@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US deaths in 2020 top 3M, by far most ever counted](https://apnews.com/article/us-coronavirus-deaths-top-3-million-e2bc856b6ec45563b84ee2e87ae8d5e7)
+- [Flix – Next-generation reliable, concise, functional-first programming language](https://flix.dev/)
+- [What if incomes grew like GDP?](https://www.rand.org/blog/2020/10/a-25-trillion-question-what-if-incomes-grew-like-gdp.html)
 - [Unraveling the role of the microbiome in major depressive disorder](https://journals.lww.com/hrpjournal/Fulltext/2020/01000/Gutted__Unraveling_the_Role_of_the_Microbiome_in.4.aspx)
 - [The Quantum Ad-List contains domains used by ads, trackers, malware](https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list)
-- [Facebook reveals 'SuperCell' tower to increase connectivity in rural areas](https://engineering.fb.com/2020/12/03/connectivity/supercell-reaching-new-heights-for-wider-connectivity/)
-- [How neutering dogs became the norm](https://moosenuggets.substack.com/p/chapter-2-how-neutering-became-the)
-- [Interview with an anonymous AWS cybersecurity engineer](https://logicmag.io/commons/inside-the-whale-an-interview-with-an-anonymous-amazonian/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
