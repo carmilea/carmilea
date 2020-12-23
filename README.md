@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Maps.me is gone. We must bring it back](https://telegra.ph/What-happened-to-the-old-MAPSME-12-20)
 - [Xfce 4.16](https://xfce.org/about/news/?post=1608595200)
 - [Booting an M1 Mac from an external disk](https://eclecticlight.co/2020/12/22/booting-an-m1-mac-from-an-external-disk-it-is-possible/)
 - [TerarkDB, ByteDance's RocksDB replacement](https://github.com/bytedance/terarkdb)
 - [Git Koans (2013)](https://stevelosh.com/blog/2013/04/git-koans/)
-- [Baremetrics: “you need to make a call to unsubscribe” lol](https://twitter.com/cmdkhalilov/status/1341462579680587778)
 <!-- BLOG-POST-LIST:END -->
 
 ---
