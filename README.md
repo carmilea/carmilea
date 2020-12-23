@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Simulated Pipelines in #SingleStore](https://www.youtube.com/watch?v=QSKIXtBtmOE)
 - [approx_percentile is much faster](https://www.youtube.com/watch?v=kLBVW_H4g94)
 - [The Know Show: Level Up Your Data Game](https://www.youtube.com/watch?v=LJFc6you-wY)
 - [Universal Storage update in #SingleStore 7.3](https://www.youtube.com/watch?v=gfjEtPtz9ao)
 - [What's new in SingleStore 7.3](https://www.youtube.com/watch?v=XPNDQGuRwbo)
-- [The Know Show: Data for Child Safety](https://www.youtube.com/watch?v=O4j9zR7mdSY)
 <!-- YOUTUBE:END -->
 
 
