@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Compiling Qt with Docker multi-stage and multi-platform](https://www.docker.com/blog/compiling-qt-with-docker-multi-stage-and-multi-platform/)
+- [Anti-diarrhoea drug drives cancer cells to cell death](https://aktuelles.uni-frankfurt.de/englisch/anti-diarrhoea-drug-drives-cancer-cells-to-cell-death/)
 - [How bad is your Spotify?](https://pudding.cool/2020/12/judge-my-spotify)
 - [We rendered a million web pages to find out what makes the web slow](https://itnext.io/we-rendered-a-million-web-pages-to-find-out-what-makes-the-web-slow-72bbba9ade96)
 - [Fonio: A collaborative scholarly text editor for building static websites](https://github.com/medialab/fonio/)
-- [Consider the Golden Mole (2019)](https://www.lrb.co.uk/the-paper/v41/n08/katherine-rundell/consider-the-golden-mole)
-- [Show HN: Django and React SaaS boilerplate tutorial](https://github.com/saasitive/django-react-boilerplate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
