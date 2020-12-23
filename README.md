@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No, Cellebrite Cannot “Break Signal Encryption”](https://signal.org/blog/cellebrite-and-clickbait/)
-- [Tokio, the async runtime for Rust, hits 1.0](https://tokio.rs/blog/2020-12-tokio-1-0)
-- [Telegram's Getting Ads](https://gizmodo.com/oh-great-telegrams-getting-ads-1845940099)
-- [Finding Software Bugs Using Symbolic Execution](https://sasnauskas.eu/finding-software-bugs-using-symbolic-execution/)
-- [Interview advice that got me offers from Google, Microsoft, and Stripe](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/)
+- [Google/Fitbit will monetise health data and harm consumers [pdf]](https://cepr.org/sites/default/files/policy_insights/PolicyInsight107.pdf)
+- [Build a tiny certificate authority for your homelab](https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/)
+- [Web Authentication Methods Compared](https://testdriven.io/blog/web-authentication-methods/)
+- [Facebook Employees Say Apple Fight Is “Self Serving”](https://www.buzzfeednews.com/article/craigsilverman/facebook-apple-fight-self-serving)
+- [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
