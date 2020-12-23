@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unraveling the role of the microbiome in major depressive disorder](https://journals.lww.com/hrpjournal/Fulltext/2020/01000/Gutted__Unraveling_the_Role_of_the_Microbiome_in.4.aspx)
+- [The Quantum Ad-List contains domains used by ads, trackers, malware](https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list)
 - [Facebook reveals 'SuperCell' tower to increase connectivity in rural areas](https://engineering.fb.com/2020/12/03/connectivity/supercell-reaching-new-heights-for-wider-connectivity/)
-- [Quick Reference for all modern/useful HTML5 link and meta tags](https://fjolt.com/article/meta-tag-ref-html-quick-start)
+- [How neutering dogs became the norm](https://moosenuggets.substack.com/p/chapter-2-how-neutering-became-the)
 - [Interview with an anonymous AWS cybersecurity engineer](https://logicmag.io/commons/inside-the-whale-an-interview-with-an-anonymous-amazonian/)
-- [OneSignal (Messaging and Push Notification APIs) is hiring a back end engineer](https://onesignal.com/careers/90cfa84c-5d78-47e8-a3f3-5cbaddd0ca89)
-- [V(vlang) 0.2 Is Out](https://github.com/vlang/v/discussions/7474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
