@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How bad is your Spotify?](https://pudding.cool/2020/12/judge-my-spotify)
 - [We rendered a million web pages to find out what makes the web slow](https://itnext.io/we-rendered-a-million-web-pages-to-find-out-what-makes-the-web-slow-72bbba9ade96)
+- [Fonio: A collaborative scholarly text editor for building static websites](https://github.com/medialab/fonio/)
 - [Consider the Golden Mole (2019)](https://www.lrb.co.uk/the-paper/v41/n08/katherine-rundell/consider-the-golden-mole)
 - [Show HN: Django and React SaaS boilerplate tutorial](https://github.com/saasitive/django-react-boilerplate)
-- [Robinhood was indeed too good to be true](https://www.morningstar.com/articles/1015686/robinhood-was-indeed-too-good-to-be-true)
-- [The beautiful Silent ThunderBolt-3 PC](https://fabiensanglard.net/tb3/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
