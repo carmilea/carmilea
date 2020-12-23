@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We rendered a million web pages to find out what makes the web slow](https://itnext.io/we-rendered-a-million-web-pages-to-find-out-what-makes-the-web-slow-72bbba9ade96)
+- [Consider the Golden Mole (2019)](https://www.lrb.co.uk/the-paper/v41/n08/katherine-rundell/consider-the-golden-mole)
+- [Show HN: Django and React SaaS boilerplate tutorial](https://github.com/saasitive/django-react-boilerplate)
 - [Robinhood was indeed too good to be true](https://www.morningstar.com/articles/1015686/robinhood-was-indeed-too-good-to-be-true)
 - [The beautiful Silent ThunderBolt-3 PC](https://fabiensanglard.net/tb3/index.html)
-- [Expensify.cash](https://expensify.cash)
-- [Google told its scientists to ‘strike a positive tone’ in AI research](https://www.reuters.com/article/us-alphabet-google-research-focus/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-idUSKBN28X1CB)
-- [Over 700 YC startups are actively hiring on YC's workatastartup.com](https://www.workatastartup.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
