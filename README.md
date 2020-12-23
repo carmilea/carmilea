@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Compiling Qt with Docker multi-stage and multi-platform](https://www.docker.com/blog/compiling-qt-with-docker-multi-stage-and-multi-platform/)
-- [Anti-diarrhoea drug drives cancer cells to cell death](https://aktuelles.uni-frankfurt.de/englisch/anti-diarrhoea-drug-drives-cancer-cells-to-cell-death/)
-- [How bad is your Spotify?](https://pudding.cool/2020/12/judge-my-spotify)
-- [We rendered a million web pages to find out what makes the web slow](https://itnext.io/we-rendered-a-million-web-pages-to-find-out-what-makes-the-web-slow-72bbba9ade96)
-- [Fonio: A collaborative scholarly text editor for building static websites](https://github.com/medialab/fonio/)
+- [Spotify Employee Accused of Deleting Joe Rogan’s Alex Jones Interview](https://www.digitalmusicnews.com/2020/11/29/joe-rogan-spotify-employee-alex-jones/)
+- [Interview advice that got me offers from Google, Microsoft, and Stripe](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/)
+- [Evolving Container Security with Linux User Namespaces](https://netflixtechblog.com/evolving-container-security-with-linux-user-namespaces-afbe3308c082)
+- [Windows 0day privilege escalation still not fixed](https://bugs.chromium.org/p/project-zero/issues/detail?id=2096)
+- [SafeButler (YC S17) Is Hiring a Software Engineer](http://www.safebutler.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
