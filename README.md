@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google told its scientists to 'strike a positive tone' in AI research -documents](https://www.reuters.com/article/us-alphabet-google-research-focus/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-idUSKBN28X1CB)
+- [Robinhood was indeed too good to be true](https://www.morningstar.com/articles/1015686/robinhood-was-indeed-too-good-to-be-true)
+- [The beautiful Silent ThunderBolt-3 PC](https://fabiensanglard.net/tb3/index.html)
+- [Expensify.cash](https://expensify.cash)
+- [Google told its scientists to ‘strike a positive tone’ in AI research](https://www.reuters.com/article/us-alphabet-google-research-focus/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-idUSKBN28X1CB)
 - [Over 700 YC startups are actively hiring on YC's workatastartup.com](https://www.workatastartup.com/jobs)
-- [‘YouTube recommendations are toxic’ says dev who worked on the algorithm](https://thenextweb.com/google/2019/06/14/youtube-recommendations-toxic-algorithm-google-ai/)
-- [Military scrambling to understand aviation crash risk from new 5G sale](https://www.defensenews.com/2020/12/21/the-military-is-scrambling-to-understand-the-aviation-crash-risk-from-a-new-5g-sale/)
-- [Officials Seize 27,400 Artifacts Looted by a Single French Treasure Hunter](https://www.smithsonianmag.com/smart-news/french-officials-seize-more-27000-looted-archaeological-artifacts-180976590/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
