@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify Employee Accused of Deleting Joe Rogan’s Alex Jones Interview](https://www.digitalmusicnews.com/2020/11/29/joe-rogan-spotify-employee-alex-jones/)
+- [No, Cellebrite Cannot “Break Signal Encryption”](https://signal.org/blog/cellebrite-and-clickbait/)
+- [Tokio, the async runtime for Rust, hits 1.0](https://tokio.rs/blog/2020-12-tokio-1-0)
+- [Telegram's Getting Ads](https://gizmodo.com/oh-great-telegrams-getting-ads-1845940099)
+- [Finding Software Bugs Using Symbolic Execution](https://sasnauskas.eu/finding-software-bugs-using-symbolic-execution/)
 - [Interview advice that got me offers from Google, Microsoft, and Stripe](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/)
-- [Evolving Container Security with Linux User Namespaces](https://netflixtechblog.com/evolving-container-security-with-linux-user-namespaces-afbe3308c082)
-- [Windows 0day privilege escalation still not fixed](https://bugs.chromium.org/p/project-zero/issues/detail?id=2096)
-- [SafeButler (YC S17) Is Hiring a Software Engineer](http://www.safebutler.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
