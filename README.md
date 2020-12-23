@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Booting an M1 Mac from an external disk: it is possible](https://eclecticlight.co/2020/12/22/booting-an-m1-mac-from-an-external-disk-it-is-possible/)
+- [ByteDance's RocksDB replacement(TerarkDB) is now open source](https://github.com/bytedance/terarkdb)
+- [Git Koans](https://stevelosh.com/blog/2013/04/git-koans/)
 - [Baremetrics: “you need to make a call to unsubscribe” lol](https://twitter.com/cmdkhalilov/status/1341462579680587778)
-- [The FBI Is Breaking into Encrypted Devices. We’re Suing](https://www.aclu.org/news/privacy-technology/the-fbi-is-secretly-breaking-into-encrypted-devices-were-suing)
-- [IPv6 WireGuard Peering](https://fly.io/blog/ipv6-wireguard-peering/)
-- [Things You're Allowed to Do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
-- [Medo: A modern UHD 4K open source Media editor for Haiku OS in less than 1.44 Mb](https://discuss.haiku-os.org/t/announcement-haiku-media-editor-r1-0-0-beta-1/10218)
+- [The FBI Is Breaking into Encrypted Devices – We’re Suing](https://www.aclu.org/news/privacy-technology/the-fbi-is-secretly-breaking-into-encrypted-devices-were-suing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
