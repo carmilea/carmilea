@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PureOS: Freedom, Privacy, and Security](https://lwn.net/SubscriberLink/841105/d99c445b4aca536f/)
 - [Daily (YC W16) Is Hiring an Engineer Who Writes](https://www.notion.so/dailyco/Engineer-who-writes-db0fb67a2d114846847ef275c972017f)
 - [How We Saved Dot Org](https://www.eff.org/deeplinks/2020/12/how-we-saved-org-2020-review)
 - [Going All in on the Mac App Store](https://www.unboundapp.com/blog/mac-app-store/)
 - [J. G. Ballard, The Art of Fiction No. 85 (1984)](https://theparisreview.org/interviews/2929/the-art-of-fiction-no-85-j-g-ballard)
-- [UX Issues with Notion](https://telegra.ph/Notion-is-a-UX-Disaster-12-23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
