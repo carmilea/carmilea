@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily (YC W16) Is Hiring an Engineer Who Writes](https://www.notion.so/dailyco/Engineer-who-writes-db0fb67a2d114846847ef275c972017f)
+- [World Health Organization open source program](https://github.com/WorldHealthOrganization/open-source-communication-channel)
+- [Going All in on the Mac App Store](https://www.unboundapp.com/blog/mac-app-store/)
 - [UX Issues with Notion](https://telegra.ph/Notion-is-a-UX-Disaster-12-23)
 - [Phony Targets](https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html)
-- [Google/Fitbit will monetise health data and harm consumers [pdf]](https://cepr.org/sites/default/files/policy_insights/PolicyInsight107.pdf)
-- [How to Favicon in 2021: Six files that fit most needs](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
-- [Build a tiny certificate authority for your homelab](https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
