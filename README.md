@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In CPython, types implemented in C are part of the type tree](https://utcc.utoronto.ca/~cks/space/blog/python/CPythonCTypesHaveTree)
-- [The Google Fitbit Deal: Hazardous to competition, privacy, and our health [pdf]](https://www.democraticmedia.org/sites/default/files/field/public-files/2020/googlefitbitdeal020820.pdf)
-- [I wired a Christmas tree with 500 LED lights and calculated their 3D coordinates](https://www.youtube.com/watch?v=TvlpIojusBE)
-- [TiddlyWiki 5.1.23](https://tiddlywiki.com)
-- [Magician-turned-mathematician uncovers bias in coin flipping (2004)](https://news.stanford.edu/pr/2004/diaconis-69.html)
+- [Craft – Create Documents. Brings Back the Joy to Writing](https://www.craft.do/)
+- [Facebook Declared War on Apple, and It Just May Signal the End of Facebook](https://www.inc.com/justin-bariso/facebook-declared-war-on-apple-it-just-may-signal-end-of-facebook.html)
+- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Hackers threaten to leak plastic surgery pictures](https://www.bbc.co.uk/news/technology-55439190)
+- [Software Development Team Structure: Important Roles and Responsibilities](https://steelkiwi.com/blog/software-development-team-structure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
