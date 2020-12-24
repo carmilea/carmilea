@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A perceptual color space for image processing](https://bottosson.github.io/posts/oklab/)
 - [GitDuck (YC S20) Is Hiring a Product Engineer (Remote ~UTC+0)](https://www.notion.so/gitduck/Product-Engineer-599ce7e227a34d3bb91f695295d69dc5)
 - [Covid: France rewards frontline immigrant workers with citizenship](https://www.bbc.com/news/world-europe-55423257)
 - [Fantasy UI](https://www.pushing-pixels.org/fui/)
 - [James Gunn (1923-2020)](https://locusmag.com/2020/12/james-gunn-1923-2020/)
-- [Snapdrop – AirDrop equivalent through a web browser using WebRTC](https://snapdrop.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
