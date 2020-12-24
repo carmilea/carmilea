@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQISign](https://ellipticnews.wordpress.com/2020/12/24/sqisign/)
+- [Facebook Managers Trash Their Own Ad Targeting in Unsealed Remarks](https://theintercept.com/2020/12/24/facebook-ad-targeting-small-business/)
 - [Craft – Create Documents. Brings Back the Joy to Writing](https://www.craft.do/)
 - [Facebook Declared War on Apple, and It Just May Signal the End of Facebook](https://www.inc.com/justin-bariso/facebook-declared-war-on-apple-it-just-may-signal-end-of-facebook.html)
-- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Hackers threaten to leak plastic surgery pictures](https://www.bbc.co.uk/news/technology-55439190)
-- [Software Development Team Structure: Important Roles and Responsibilities](https://steelkiwi.com/blog/software-development-team-structure/)
+- [Paleontologists Are Trying to Understand Why the Fossil Record Is Mostly Males](https://www.atlasobscura.com/articles/fossil-record-prefers-males)
 <!-- BLOG-POST-LIST:END -->
 
 ---
