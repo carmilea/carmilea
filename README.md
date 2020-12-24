@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel Is Finished](https://seekingalpha.com/article/4395996-intel-is-finished)
+- [Another new Covid-19 virus variant found in Nigeria, says Africa CDC](https://www.reuters.com/article/us-health-coronavirus-africa-idUSKBN28Y1B7)
+- [Amazon and Walmrt not sharing extra profits made during pandemic with employees](https://www.brookings.edu/blog/the-avenue/2020/12/22/amazon-and-walmart-have-raked-in-billions-in-additional-profits-during-the-pandemic-and-shared-almost-none-of-it-with-their-workers/)
+- [Michael I. Jordan: Artificial Intelligence – The Revolution Hasn’t Happened Yet](https://rise.cs.berkeley.edu/blog/michael-i-jordan-artificial-intelligence%E2%80%8A-%E2%80%8Athe-revolution-hasnt-happened-yet/)
 - [SQISign](https://ellipticnews.wordpress.com/2020/12/24/sqisign/)
 - [GoDaddy employees told they were getting a holiday bonus in a phishing test](https://coppercourier.com/story/godaddy-employees-holiday-bonus-secruity-test/)
-- [Facebook Managers Trash Their Own Ad Targeting in Unsealed Remarks](https://theintercept.com/2020/12/24/facebook-ad-targeting-small-business/)
-- [Craft – Create Documents. Brings Back the Joy to Writing](https://www.craft.do/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
