@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kit-Kat Xclock](https://github.com/BarkyTheDog/catclock)
+- [I am lonely will anyone speak to me](https://en.wikipedia.org/wiki/I_am_lonely_will_anyone_speak_to_me)
 - [Adobe Lightroom v6 is Falling Apart](https://petapixel.com/2020/12/24/adobe-lightroom-v6-is-falling-apart/)
+- [CubicDOOM a ray-casting game that fits in a boot sector (510 bytes)](https://github.com/nanochess/cubicDoom)
 - [Sony Publishes an Official Linux Driver for Playstation 5 DualSense Controllers](https://www.phoronix.com/scan.php?page=news_item&px=Sony-HID-PlayStation-PS5)
-- [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management)
-- [Show HN: TreeOS – A 16-bit bootsector Christmas tree demo](https://github.com/cfallin/treeos)
-- [Implementing Anonymous Posts on Gurlic](https://gurlic.com/root/implementing-anonymous-posts-on-gurlic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
