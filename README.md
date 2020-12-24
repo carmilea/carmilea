@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe Lightroom v6 is Falling Apart](https://petapixel.com/2020/12/24/adobe-lightroom-v6-is-falling-apart/)
 - [Sony Publishes an Official Linux Driver for Playstation 5 DualSense Controllers](https://www.phoronix.com/scan.php?page=news_item&px=Sony-HID-PlayStation-PS5)
 - [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management)
 - [Show HN: TreeOS – A 16-bit bootsector Christmas tree demo](https://github.com/cfallin/treeos)
-- [How to Start a Startup](https://startupclass.samaltman.com/)
-- [Ask HN: What was a book that changed your life?](https://news.ycombinator.com/item?id=25530700)
+- [Implementing Anonymous Posts on Gurlic](https://gurlic.com/root/implementing-anonymous-posts-on-gurlic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
