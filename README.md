@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel Is Finished](https://seekingalpha.com/article/4395996-intel-is-finished)
 - [SQISign](https://ellipticnews.wordpress.com/2020/12/24/sqisign/)
+- [GoDaddy employees told they were getting a holiday bonus in a phishing test](https://coppercourier.com/story/godaddy-employees-holiday-bonus-secruity-test/)
 - [Facebook Managers Trash Their Own Ad Targeting in Unsealed Remarks](https://theintercept.com/2020/12/24/facebook-ad-targeting-small-business/)
 - [Craft – Create Documents. Brings Back the Joy to Writing](https://www.craft.do/)
-- [Facebook Declared War on Apple, and It Just May Signal the End of Facebook](https://www.inc.com/justin-bariso/facebook-declared-war-on-apple-it-just-may-signal-end-of-facebook.html)
-- [Paleontologists Are Trying to Understand Why the Fossil Record Is Mostly Males](https://www.atlasobscura.com/articles/fossil-record-prefers-males)
 <!-- BLOG-POST-LIST:END -->
 
 ---
