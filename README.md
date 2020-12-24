@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK and EU agree Brexit trade deal](https://www.theguardian.com/politics/2020/dec/24/uk-eu-agree-brexit-trade-deal-agreement)
+- [TiddlyWiki 5.1.23 Is Out](https://tiddlywiki.com)
+- [Magician-turned-mathematician uncovers bias in coin flipping: 51% (2004)](https://news.stanford.edu/pr/2004/diaconis-69.html)
 - [BMW to shame out-of-warranty UK drivers with smart billboards](https://www.thedrive.com/news/38406/bmw-will-publicly-shame-out-of-warranty-drivers-with-smart-billboards-and-license-plate-readers)
 - [Demodesk (YC W19): we're looking for someone to own our QA](https://jobs.lever.co/demodesk)
-- [The Mayron Cole Piano Method is now free](https://www.freepianomethod.com/)
-- [What Privacy Is For](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2175406)
-- [University of Helsinki free MOOC on the Ethics of AI](https://ethics-of-ai.mooc.fi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
