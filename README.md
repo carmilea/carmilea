@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Demodesk (YC W19): we're looking for someone to own our QA](https://jobs.lever.co/demodesk)
 - [Producer of Netflix Three body problem found poisoned](https://variety.com/2020/film/news/netflix-yoozoo-three-body-problem-murder-poison-1234874776/)
 - [Fish is not operational on a vt220 terminal #2559](https://github.com/fish-shell/fish-shell/issues/2559)
 - [Grenfell Tower inquiry: 11 key things we’ve learned this year](https://www.bbc.co.uk/news/uk-55349395)
-- [A perceptual color space for image processing](https://bottosson.github.io/posts/oklab/)
-- [GitDuck (YC S20) Is Hiring a Product Engineer (Remote ~UTC+0)](https://www.notion.so/gitduck/Product-Engineer-599ce7e227a34d3bb91f695295d69dc5)
+- [The Mystery of Deceased Hiker ‘Mostly Harmless’ Is at Long Last Solved](https://www.adventure-journal.com/2020/12/the-mystery-of-deceased-hiker-mostly-harmless-is-at-long-last-solved/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
