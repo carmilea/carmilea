@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What Lived Up to the Hype?](https://news.ycombinator.com/item?id=25525457)
+- [Fantasy UI](https://www.pushing-pixels.org/fui/)
 - [James Gunn (1923-2020)](https://locusmag.com/2020/12/james-gunn-1923-2020/)
 - [Snapdrop – AirDrop equivalent through a web browser using WebRTC](https://snapdrop.net)
 - [Datasette.io, an official project website for Datasette](https://simonwillison.net/2020/Dec/13/datasette-io/)
-- [Israeli Cyber Experts Uncover Attack on 85,000 MySQL Servers](https://www.srnnews.com/the-media-line-israeli-cyber-experts-uncover-massive-attack-on-85000-mysql-servers/)
-- [Raster CRT Typography (According to Dec)](https://www.masswerk.at/nowgobang/2019/dec-crt-typography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
