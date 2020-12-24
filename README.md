@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BMW to shame out-of-warranty UK drivers with smart billboards](https://www.thedrive.com/news/38406/bmw-will-publicly-shame-out-of-warranty-drivers-with-smart-billboards-and-license-plate-readers)
 - [Demodesk (YC W19): we're looking for someone to own our QA](https://jobs.lever.co/demodesk)
-- [Producer of Netflix Three body problem found poisoned](https://variety.com/2020/film/news/netflix-yoozoo-three-body-problem-murder-poison-1234874776/)
-- [Fish is not operational on a vt220 terminal #2559](https://github.com/fish-shell/fish-shell/issues/2559)
-- [Grenfell Tower inquiry: 11 key things we’ve learned this year](https://www.bbc.co.uk/news/uk-55349395)
-- [The Mystery of Deceased Hiker ‘Mostly Harmless’ Is at Long Last Solved](https://www.adventure-journal.com/2020/12/the-mystery-of-deceased-hiker-mostly-harmless-is-at-long-last-solved/)
+- [The Mayron Cole Piano Method is now free](https://www.freepianomethod.com/)
+- [What Privacy Is For](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2175406)
+- [University of Helsinki free MOOC on the Ethics of AI](https://ethics-of-ai.mooc.fi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
