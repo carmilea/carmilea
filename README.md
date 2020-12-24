@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK and EU agree Brexit trade deal](https://www.theguardian.com/politics/2020/dec/24/uk-eu-agree-brexit-trade-deal-agreement)
-- [TiddlyWiki 5.1.23 Is Out](https://tiddlywiki.com)
-- [Magician-turned-mathematician uncovers bias in coin flipping: 51% (2004)](https://news.stanford.edu/pr/2004/diaconis-69.html)
-- [BMW to shame out-of-warranty UK drivers with smart billboards](https://www.thedrive.com/news/38406/bmw-will-publicly-shame-out-of-warranty-drivers-with-smart-billboards-and-license-plate-readers)
-- [Demodesk (YC W19): we're looking for someone to own our QA](https://jobs.lever.co/demodesk)
+- [In CPython, types implemented in C are part of the type tree](https://utcc.utoronto.ca/~cks/space/blog/python/CPythonCTypesHaveTree)
+- [The Google Fitbit Deal: Hazardous to competition, privacy, and our health [pdf]](https://www.democraticmedia.org/sites/default/files/field/public-files/2020/googlefitbitdeal020820.pdf)
+- [I wired a Christmas tree with 500 LED lights and calculated their 3D coordinates](https://www.youtube.com/watch?v=TvlpIojusBE)
+- [TiddlyWiki 5.1.23](https://tiddlywiki.com)
+- [Magician-turned-mathematician uncovers bias in coin flipping (2004)](https://news.stanford.edu/pr/2004/diaconis-69.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
