@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hydrothermal cooling could save millions of kWh a year in Hawaii [pdf]](https://energy.hawaii.gov/wp-content/uploads/2011/10/SeaWaterDistrictCoolingFeasibilityAnalysisfortheStateofHawaii2002.pdf)
-- [Vim³ – Vim rendered on a cube for no reason](https://github.com/oakes/vim_cubed#vim)
-- [Repl.it (YC W18) Is Hiring a Founding Site Reliability Engineer](https://jobs.lever.co/replit/a0fbd9bf-1a86-4b1e-8c59-3a60e8bd32ef)
-- [Mountain Peaks in WebGL](https://felixpalmer.github.io/peaks-of-austria/)
-- [Ask HN: Best Talks of 2020?](https://news.ycombinator.com/item?id=25537230)
+- [Mutated Covid-19 strain confirmed in Japan as nation case tally hits record high](https://www.japantimes.co.jp/news/2020/12/25/national/tokyo-coronavirus-884-cases/)
+- [Ask HN: Why does Pinterest dominate Google search results?](https://news.ycombinator.com/item?id=25538586)
+- [Dasung just released a 25 inch eInk monitor](https://www.reddit.com/r/eink/comments/kjvsoj/dasung_just_released_a_25_inch_eink_monitor/)
+- [The Serviceberry: An Economy of Abundance](https://emergencemagazine.org/story/the-serviceberry/)
+- [Some of Git Internals](https://yurichev.com/news/20201220_git/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
