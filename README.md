@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Orleans City Council bans facial recognition, predictive policing and other](https://thelensnola.org/2020/12/18/new-orleans-city-council-approves-ban-on-facial-recognition-predictive-policing-and-other-surveillance-tech/)
+- [LA jet pack guy captured on video](https://nypost.com/2020/12/25/dramatic-video-appears-to-capture-elusive-la-jet-pack-guy/)
 - [The Biggest and Weirdest Commits in Linux Kernel Git History (2017)](https://www.destroyallsoftware.com/blog/2017/the-biggest-and-weirdest-commits-in-linux-kernel-git-history)
 - [Gustav (YC S17) Is Hiring – Product Designer (UX/UI) – Fully Remote](https://gustav-technologies-inc.breezy.hr/p/da7898ec7ded01)
 - [Some Differences Between macOS and Common Unix Systems](https://www.dyx.name/posts/macunix.html)
-- [Redox OS 0.6, the micro-kernel based Rust-written operating system](https://www.phoronix.com/scan.php?page=news_item&px=Redox-OS-0.6-Released)
-- [Planner 2.6 released. An open-source Todoist alternative for Linux](https://useplanner.com/release/2020/12/24/merry-christmas-everyone-planner-2-6-is-here/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
