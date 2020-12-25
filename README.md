@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Linux port for the Nintendo 64](https://lore.kernel.org/linux-mips/20201225190503.12353218812e1655f56f0bf8@gmx.com/T/#m0862c3484e0da7195dc8989421d30f01b3b1c63a)
+- [RIP: Fr. Reginald Foster, OCD](https://theoldie.co.uk/blog/the-popes-latin-teacher)
+- [The Historical Cost of Light](https://pudding.cool/2020/12/lighting-cost/)
 - [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](http://substack.com/jobs)
-- [Mutated Covid-19 strain confirmed in Japan as case tally hits record high](https://www.japantimes.co.jp/news/2020/12/25/national/tokyo-coronavirus-884-cases/)
-- [Ask HN: Why does Pinterest dominate Google text search results?](https://news.ycombinator.com/item?id=25538586)
-- [Dasung just released a 25 inch eInk monitor](https://www.reddit.com/r/eink/comments/kjvsoj/dasung_just_released_a_25_inch_eink_monitor/)
-- [The Serviceberry: An Economy of Abundance](https://emergencemagazine.org/story/the-serviceberry/)
+- [NixOS on ARM/Raspberry Pi](https://nixos.wiki/wiki/NixOS_on_ARM/Raspberry_Pi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
