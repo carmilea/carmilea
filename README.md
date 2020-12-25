@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mutated Covid-19 strain confirmed in Japan as nation case tally hits record high](https://www.japantimes.co.jp/news/2020/12/25/national/tokyo-coronavirus-884-cases/)
-- [Ask HN: Why does Pinterest dominate Google search results?](https://news.ycombinator.com/item?id=25538586)
+- [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](http://substack.com/jobs)
+- [Mutated Covid-19 strain confirmed in Japan as case tally hits record high](https://www.japantimes.co.jp/news/2020/12/25/national/tokyo-coronavirus-884-cases/)
+- [Ask HN: Why does Pinterest dominate Google text search results?](https://news.ycombinator.com/item?id=25538586)
 - [Dasung just released a 25 inch eInk monitor](https://www.reddit.com/r/eink/comments/kjvsoj/dasung_just_released_a_25_inch_eink_monitor/)
 - [The Serviceberry: An Economy of Abundance](https://emergencemagazine.org/story/the-serviceberry/)
-- [Some of Git Internals](https://yurichev.com/news/20201220_git/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
