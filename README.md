@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Slower News](https://www.slowernews.com/)
+- [Working at Apple](http://worrydream.com/#!/Apple)
+- [Beyond “Fermi’s Paradox”: What Is the Percolation Theory Hypothesis?](https://www.universetoday.com/148088/beyond-fermis-paradox-xv-what-is-the-percolation-theory-hypothesis/)
 - [The Impact of Apple Silicon Macs on Broadway](https://brianli.com/2020/12/the-impact-of-apple-silicon-macs-on-broadway/)
-- [Nikola stock craters after cancellation of major garbage truck order](https://arstechnica.com/cars/2020/12/nikola-stock-craters-after-cancellation-of-major-garbage-truck-order/)
 - [Eyes hint at hidden mental-health conditions](https://www.nature.com/articles/d41586-019-01114-9)
-- [Ruby 3.0](https://www.ruby-lang.org/en/news/2020/12/25/ruby-3-0-0-released/)
-- [Developer and Power Users Tool List for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
