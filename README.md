@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Gustav (YC S17) Is Hiring – Product Designer (UX/UI) – Fully Remote](https://gustav-technologies-inc.breezy.hr/p/da7898ec7ded01)
+- [Some Differences Between macOS and Common Unix Systems](https://www.dyx.name/posts/macunix.html)
 - [Redox OS 0.6, the micro-kernel based Rust-written operating system](https://www.phoronix.com/scan.php?page=news_item&px=Redox-OS-0.6-Released)
 - [What comes after Git?](https://twitter.com/jasoncwarner/status/1342172372061749248)
-- [Slower News](https://www.slowernews.com/)
-- [Working at Apple (2011)](http://worrydream.com/#!/Apple)
+- [Planner 2.6 released. An open-source Todoist alternative for Linux](https://useplanner.com/release/2020/12/24/merry-christmas-everyone-planner-2-6-is-here/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
