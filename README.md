@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gustav (YC S17) Is Hiring – Product Designer (UX/UI) – Fully Remote](https://gustav-technologies-inc.breezy.hr/p/da7898ec7ded01)
+- [Redox OS 0.6, the micro-kernel based Rust-written operating system](https://www.phoronix.com/scan.php?page=news_item&px=Redox-OS-0.6-Released)
+- [What comes after Git?](https://twitter.com/jasoncwarner/status/1342172372061749248)
 - [Slower News](https://www.slowernews.com/)
-- [Working at Apple](http://worrydream.com/#!/Apple)
-- [Beyond “Fermi’s Paradox”: What Is the Percolation Theory Hypothesis?](https://www.universetoday.com/148088/beyond-fermis-paradox-xv-what-is-the-percolation-theory-hypothesis/)
-- [The Impact of Apple Silicon Macs on Broadway](https://brianli.com/2020/12/the-impact-of-apple-silicon-macs-on-broadway/)
-- [Eyes hint at hidden mental-health conditions](https://www.nature.com/articles/d41586-019-01114-9)
+- [Working at Apple (2011)](http://worrydream.com/#!/Apple)
 <!-- BLOG-POST-LIST:END -->
 
 ---
