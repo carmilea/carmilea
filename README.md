@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Impact of Apple Silicon Macs on Broadway](https://brianli.com/2020/12/the-impact-of-apple-silicon-macs-on-broadway/)
+- [Nikola stock craters after cancellation of major garbage truck order](https://arstechnica.com/cars/2020/12/nikola-stock-craters-after-cancellation-of-major-garbage-truck-order/)
 - [Ruby 3.0](https://www.ruby-lang.org/en/news/2020/12/25/ruby-3-0-0-released/)
 - [Price increase on .io on January 21, 2021](https://news.gandi.net/en/2020/12/price-increase-on-io-on-january-1-2021/)
 - [Developer and Power Users Tool List for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
-- [Ham radio and astronauts](https://www.latimes.com/business/story/2020-12-23/ham-radio-and-astronauts)
-- [Programming Languages as Objects in Nature](https://parentheticallyspeaking.org/articles/pls-nature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
