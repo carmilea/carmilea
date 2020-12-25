@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Repl.it (YC W18) Is Hiring a Founding Site Reliability Engineer](https://jobs.lever.co/replit/a0fbd9bf-1a86-4b1e-8c59-3a60e8bd32ef)
+- [Mountain Peaks in WebGL](https://felixpalmer.github.io/peaks-of-austria/)
 - [Ask HN: Best Talks of 2020?](https://news.ycombinator.com/item?id=25537230)
-- [Aliens Likely Annihilated Themselves Through Progress](https://www.ibtimes.sg/aliens-likely-annihilated-themselves-through-progress-suggests-new-extraterrestrial-research-54416)
 - [Binary Search Reconsidered (2018)](https://www.solipsys.co.uk/new/BinarySearchReconsidered.html?TwoEqualsFour)
-- [New Orleans City Council bans facial recognition, predictive policing and other](https://thelensnola.org/2020/12/18/new-orleans-city-council-approves-ban-on-facial-recognition-predictive-policing-and-other-surveillance-tech/)
-- [Build a Two-Way Pager with Lora](https://spectrum.ieee.org/geek-life/hands-on/build-a-twoway-pager-with-lora)
+- [Utilizing Quantum BlockChain for 6th Generation Neural Networks](https://shkspr.mobi/blog/2020/12/utilizing-quantum-blockchain-for-6th-generation-neural-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
