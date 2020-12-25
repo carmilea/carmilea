@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Best Talks of 2020?](https://news.ycombinator.com/item?id=25537230)
+- [Aliens Likely Annihilated Themselves Through Progress](https://www.ibtimes.sg/aliens-likely-annihilated-themselves-through-progress-suggests-new-extraterrestrial-research-54416)
+- [Binary Search Reconsidered (2018)](https://www.solipsys.co.uk/new/BinarySearchReconsidered.html?TwoEqualsFour)
 - [New Orleans City Council bans facial recognition, predictive policing and other](https://thelensnola.org/2020/12/18/new-orleans-city-council-approves-ban-on-facial-recognition-predictive-policing-and-other-surveillance-tech/)
-- [LA jet pack guy captured on video](https://nypost.com/2020/12/25/dramatic-video-appears-to-capture-elusive-la-jet-pack-guy/)
-- [The Biggest and Weirdest Commits in Linux Kernel Git History (2017)](https://www.destroyallsoftware.com/blog/2017/the-biggest-and-weirdest-commits-in-linux-kernel-git-history)
-- [Gustav (YC S17) Is Hiring – Product Designer (UX/UI) – Fully Remote](https://gustav-technologies-inc.breezy.hr/p/da7898ec7ded01)
-- [Some Differences Between macOS and Common Unix Systems](https://www.dyx.name/posts/macunix.html)
+- [Build a Two-Way Pager with Lora](https://spectrum.ieee.org/geek-life/hands-on/build-a-twoway-pager-with-lora)
 <!-- BLOG-POST-LIST:END -->
 
 ---
