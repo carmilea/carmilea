@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [The Know Show - The Shift to Business Outcomes-Focused Decisions](https://www.youtube.com/watch?v=cZ4V8xoPV9I)
 - [Simulated Pipelines in #SingleStore](https://www.youtube.com/watch?v=QSKIXtBtmOE)
 - [approx_percentile is much faster](https://www.youtube.com/watch?v=kLBVW_H4g94)
 - [The Know Show: Level Up Your Data Game](https://www.youtube.com/watch?v=LJFc6you-wY)
 - [Universal Storage update in #SingleStore 7.3](https://www.youtube.com/watch?v=gfjEtPtz9ao)
-- [What's new in SingleStore 7.3](https://www.youtube.com/watch?v=XPNDQGuRwbo)
 <!-- YOUTUBE:END -->
 
 
