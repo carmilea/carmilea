@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bulverism is to “assume that your opponent is wrong, and explain his error”](https://en.wikipedia.org/wiki/Bulverism)
+- [18XX Train Games](https://en.wikipedia.org/wiki/18XX)
+- [Salmon spawning in the upper Columbia River, first in 80 years](https://www.spokesman.com/stories/2020/dec/17/for-the-first-time-in-more-than-80-years-salmon-sp/)
 - [New Linux port for the Nintendo 64](https://lore.kernel.org/linux-mips/20201225190503.12353218812e1655f56f0bf8@gmx.com/T/#m0862c3484e0da7195dc8989421d30f01b3b1c63a)
-- [RIP: Fr. Reginald Foster, OCD](https://theoldie.co.uk/blog/the-popes-latin-teacher)
-- [The Historical Cost of Light](https://pudding.cool/2020/12/lighting-cost/)
-- [Substack (YC W18) Is Hiring to Build a Better Business Model for Writing](http://substack.com/jobs)
-- [NixOS on ARM/Raspberry Pi](https://nixos.wiki/wiki/NixOS_on_ARM/Raspberry_Pi)
+- [Father Reginald Foster has died](https://theoldie.co.uk/blog/the-popes-latin-teacher)
 <!-- BLOG-POST-LIST:END -->
 
 ---
