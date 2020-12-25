@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [After riots, iPhone manufacturer says it “deeply regrets” exploiting workers](https://arstechnica.com/gadgets/2020/12/after-riots-iphone-manufacturer-says-it-deeply-regrets-exploiting-workers/)
-- [Living in space can get lonely. Talking to random people over ham radio helps](https://www.latimes.com/business/story/2020-12-23/ham-radio-and-astronauts?)
+- [Ruby 3.0.0 Released](https://www.ruby-lang.org/en/news/2020/12/25/ruby-3-0-0-released/)
+- [The aftermath of “No, 'Open Source' does not mean 'Includes Free Support'”](https://raccoon.onyxbits.de/blog/reactions-bugreport-free-support/)
+- [Ham radio and astronauts](https://www.latimes.com/business/story/2020-12-23/ham-radio-and-astronauts)
 - [Programming Languages as Objects in Nature](https://parentheticallyspeaking.org/articles/pls-nature/)
-- [Yes, the KFConsole Is Real and It's Spectacular](https://collider.com/kfconsole-real-specs-price-release-date-details/)
 - [FYI: TripleByte is emailing old referrals](https://news.ycombinator.com/item?id=25533487)
 <!-- BLOG-POST-LIST:END -->
 
