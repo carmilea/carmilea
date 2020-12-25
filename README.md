@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hydrothermal cooling could save millions of kWh a year in Hawaii [pdf]](https://energy.hawaii.gov/wp-content/uploads/2011/10/SeaWaterDistrictCoolingFeasibilityAnalysisfortheStateofHawaii2002.pdf)
+- [Vim³ – Vim rendered on a cube for no reason](https://github.com/oakes/vim_cubed#vim)
 - [Repl.it (YC W18) Is Hiring a Founding Site Reliability Engineer](https://jobs.lever.co/replit/a0fbd9bf-1a86-4b1e-8c59-3a60e8bd32ef)
 - [Mountain Peaks in WebGL](https://felixpalmer.github.io/peaks-of-austria/)
 - [Ask HN: Best Talks of 2020?](https://news.ycombinator.com/item?id=25537230)
-- [Binary Search Reconsidered (2018)](https://www.solipsys.co.uk/new/BinarySearchReconsidered.html?TwoEqualsFour)
-- [Utilizing Quantum BlockChain for 6th Generation Neural Networks](https://shkspr.mobi/blog/2020/12/utilizing-quantum-blockchain-for-6th-generation-neural-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
