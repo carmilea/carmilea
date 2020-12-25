@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stanisław Lem's Reflections on the Objects of His Childhood Home](https://thereader.mitpress.mit.edu/stanislaw-lems-reflections-childhood/)
+- [WireGuard: Great protocol, but skip the Mac app](https://rachelbythebay.com/w/2020/12/24/wg/)
 - [Kit-Kat Xclock](https://github.com/BarkyTheDog/catclock)
 - [I am lonely will anyone speak to me](https://en.wikipedia.org/wiki/I_am_lonely_will_anyone_speak_to_me)
 - [CubicDOOM a ray-casting game that fits in a boot sector (510 bytes)](https://github.com/nanochess/cubicDoom)
-- [Sony Publishes an Official Linux Driver for Playstation 5 DualSense Controllers](https://www.phoronix.com/scan.php?page=news_item&px=Sony-HID-PlayStation-PS5)
-- [The Muse (YC W12) Is Hiring a Director of Account Management](https://www.themuse.com/jobs/themuse/director-account-management)
 <!-- BLOG-POST-LIST:END -->
 
 ---
