@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After riots, iPhone manufacturer says it “deeply regrets” exploiting workers](https://arstechnica.com/gadgets/2020/12/after-riots-iphone-manufacturer-says-it-deeply-regrets-exploiting-workers/)
+- [Living in space can get lonely. Talking to random people over ham radio helps](https://www.latimes.com/business/story/2020-12-23/ham-radio-and-astronauts?)
+- [Programming Languages as Objects in Nature](https://parentheticallyspeaking.org/articles/pls-nature/)
+- [Yes, the KFConsole Is Real and It's Spectacular](https://collider.com/kfconsole-real-specs-price-release-date-details/)
 - [FYI: TripleByte is emailing old referrals](https://news.ycombinator.com/item?id=25533487)
-- [Stanisław Lem's Reflections on the Objects of His Childhood Home](https://thereader.mitpress.mit.edu/stanislaw-lems-reflections-childhood/)
-- [WireGuard: Great protocol, but skip the Mac app](https://rachelbythebay.com/w/2020/12/24/wg/)
-- [Kit-Kat Xclock](https://github.com/BarkyTheDog/catclock)
-- [I am lonely will anyone speak to me](https://en.wikipedia.org/wiki/I_am_lonely_will_anyone_speak_to_me)
 <!-- BLOG-POST-LIST:END -->
 
 ---
