@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Treasury (YC S18) is hiring engineers and designer #2](https://angel.co/company/moderntreasury)
+- [Apple’s rivals plan to catch up with the mighty M1 chip](https://www.wired.co.uk/article/apple-m1-chip-macbook-alternative)
+- [Simple-graph: a graph database in SQLite, via “SQLite as a document database”](https://github.com/dpapathanasiou/simple-graph)
 - [Domino’s Pizza Drove a 90x Increase in Stock Value by Acting Like a Startup](https://producthabits.com/dominos-pizza-drove-90x-increase-stock-value-acting-like-tech-startup/)
 - [Stadia uses a web app to bypass Apple's policy on cloud gaming apps](https://www.extremetech.com/mobile/318411-stadia-is-now-playable-on-iphone-thanks-to-googles-new-web-app)
-- [Mass die-off of birds in south-western US 'caused by starvation'](https://www.theguardian.com/environment/2020/dec/26/mass-die-off-of-birds-in-south-western-us-caused-by-starvation-aoe)
-- [Lawyers Automate This, So Why Don't Airlines?](https://leejo.github.io/2020/12/26/EZY1952/)
-- [Computer science is not software engineering](https://swizec.com/blog/computer-science-is-not-software-engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
