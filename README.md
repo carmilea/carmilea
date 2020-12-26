@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursed IP Address Representations](https://twitter.com/dave_universetf/status/1342685822286360576)
+- [Cursed IP Address Representations](https://blog.dave.tf/post/ip-addr-parsing/)
 - [I reverse engineered Google Docs to play back any document's keystrokes (2014)](http://features.jsomers.net/how-i-reverse-engineered-google-docs/)
 - [Show HN: CodeSwing – A CodePen-like interactive playground, built into VS Code](https://github.com/codespaces-contrib/codeswing)
 - [Give your Mac imaginary unlimited storage thanks to Disk Utility’s bug](https://eclecticlight.co/2020/12/26/give-your-mac-imaginary-unlimited-storage-thanks-to-disk-utilitys-bug/)
