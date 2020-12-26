@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google AMP gets a shock to its system as advisor quits, lawsuit claims foul play](https://www.theregister.com/2020/12/19/google_amp_resignation/)
+- [Manga Guide to Lisp](http://lambda.bugyo.tk/cdr/mwl/)
 - [In study, acetaminophen makes risky moves seem less dangerous](https://news.osu.edu/a-pain-reliever-that-alters-perceptions-of-risk)
 - [Dev-C++ Is a Low Memory Windows Native C++ IDE Built in Delphi](https://blogs.embarcadero.com/dev-c-is-a-low-memory-windows-native-c-ide-built-in-delphi/)
 - [Ask HN: What startup/technology is on your 'to watch' list?](https://news.ycombinator.com/item?id=25540583)
