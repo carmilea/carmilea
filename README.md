@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I reverse engineered Google docs (2014)](http://features.jsomers.net/how-i-reverse-engineered-google-docs/)
+- [B.C. man accused of dangerous driving for sleeping in selfdriving speeding Tesla](https://globalnews.ca/news/7534323/a-legal-first-b-c-man-accused-of-dangerous-driving-for-sleeping-in-self-driving-speeding-tesla/)
 - [The Family with No Fingerprints](https://www.bbc.com/news/world-asia-55301200)
 - [Give your Mac (imaginary) unlimited storage thanks to Disk Utility’s bug](https://eclecticlight.co/2020/12/26/give-your-mac-imaginary-unlimited-storage-thanks-to-disk-utilitys-bug/)
-- [Modern Treasury (YC S18) is hiring engineers and designer #2](https://angel.co/company/moderntreasury)
-- [Apple’s rivals plan to catch up with the mighty M1 chip](https://www.wired.co.uk/article/apple-m1-chip-macbook-alternative)
-- [Simple-graph: a graph database in SQLite, via “SQLite as a document database”](https://github.com/dpapathanasiou/simple-graph)
+- [What’s the Best Non-Smart TV Sold Today?](https://helpatmyhome.com/best-non-smart-tv/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
