@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Acetaminophen Alters Perceptions of Risk](https://news.osu.edu/a-pain-reliever-that-alters-perceptions-of-risk)
 - [Dev-C++ Is a Low Memory Windows Native C++ IDE Built in Delphi](https://blogs.embarcadero.com/dev-c-is-a-low-memory-windows-native-c-ide-built-in-delphi/)
 - [Ask HN: What startup/technology is on your 'to watch' list?](https://news.ycombinator.com/item?id=25540583)
-- [Info is available about which college majors pay off, students aren’t using it](https://www.washingtonpost.com/local/education/college-major-salary/2020/12/24/cad0f5de-44b3-11eb-b0e4-0f182923a025_story.html)
 - [Backdoor in Zyxel Products](https://www.eyecontrol.nl/blog/undocumented-user-account-in-zyxel-products.html)
 - [A Complete Guide to LLVM for Programming Language Creators](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
 <!-- BLOG-POST-LIST:END -->
