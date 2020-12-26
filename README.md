@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Demand Side Sales 101](https://m.signalvnoise.com/demand-side-sales-101-a-new-book-on-sales-by-bob-moesta/)
+- [Computer science is not software engineering](https://swizec.com/blog/computer-science-is-not-software-engineering)
+- [They want us to be compliant, not secure](https://www.go350.com/posts/they-want-us-to-be-compliant-not-secure/)
+- [Print this file, your printer will jam (2008)](https://nedbatchelder.com/blog/200811/print_this_file_your_printer_will_jam.html)
 - [Executable PNGs](https://djharper.dev/post/2020/12/26/executable-pngs/)
 - [The other side of sea level change](https://www.nature.com/articles/s43247-020-00075-6)
-- [Apple iCloud Account Sign In has had an outage affecting some users for 24 hours](https://www.apple.com/support/systemstatus?down)
-- [Controversial ‘spy tech’ firm Palantir lands £23m NHS data deal](https://www.opendemocracy.net/en/ournhs/controversial-tech-firm-palantir-23m-nhs-data-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
