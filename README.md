@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Made a Covid-19 Vaccine in My Kitchen and It Worked – Science Still Sucks](http://www.josiahzayner.com/2020/12/i-made-covid-19-vaccine-in-my-kitchen.html)
+- [The Dunning-Kruger Effect Is Probably Not Real](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
 - [An Oscar Winner Made a Khashoggi Documentary. Streaming Services Didn’t Want It](https://www.nytimes.com/2020/12/24/business/media/dissident-jamal-khashoggi-netflix-amazon.html#click=https://t.co/HoBRLE1wPV)
 - [Getting rid of NPM scripts](https://blog.uidrafter.com/engineering/getting-rid-of-npm-scripts)
+- [Mastering Pinterest SEO: An insider's guide](https://blog.aesthetic.com/blog/pinterest-guide/)
 - [Cursed IP Address Representations](https://blog.dave.tf/post/ip-addr-parsing/)
-- [I reverse engineered Google Docs to play back any document's keystrokes (2014)](http://features.jsomers.net/how-i-reverse-engineered-google-docs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
