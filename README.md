@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bulverism is to “assume that your opponent is wrong, and explain his error”](https://en.wikipedia.org/wiki/Bulverism)
+- [Backdoor in Zyxel Products](https://www.eyecontrol.nl/blog/undocumented-user-account-in-zyxel-products.html)
+- [A Complete Guide to LLVM for Programming Language Creators](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
+- [ATT services down due to bombing in Nashville](https://www.tennessean.com/story/news/local/2020/12/25/att-outage-internet-down-hours-after-nashville-explosion/4045278001/)
 - [18XX Train Games](https://en.wikipedia.org/wiki/18XX)
 - [Salmon spawning in the upper Columbia River, first in 80 years](https://www.spokesman.com/stories/2020/dec/17/for-the-first-time-in-more-than-80-years-salmon-sp/)
-- [New Linux port for the Nintendo 64](https://lore.kernel.org/linux-mips/20201225190503.12353218812e1655f56f0bf8@gmx.com/T/#m0862c3484e0da7195dc8989421d30f01b3b1c63a)
-- [Father Reginald Foster has died](https://theoldie.co.uk/blog/the-popes-latin-teacher)
 <!-- BLOG-POST-LIST:END -->
 
 ---
