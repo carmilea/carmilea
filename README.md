@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I reverse engineered Google docs (2014)](http://features.jsomers.net/how-i-reverse-engineered-google-docs/)
-- [B.C. man accused of dangerous driving for sleeping in selfdriving speeding Tesla](https://globalnews.ca/news/7534323/a-legal-first-b-c-man-accused-of-dangerous-driving-for-sleeping-in-self-driving-speeding-tesla/)
-- [The Family with No Fingerprints](https://www.bbc.com/news/world-asia-55301200)
-- [Give your Mac (imaginary) unlimited storage thanks to Disk Utility’s bug](https://eclecticlight.co/2020/12/26/give-your-mac-imaginary-unlimited-storage-thanks-to-disk-utilitys-bug/)
-- [What’s the Best Non-Smart TV Sold Today?](https://helpatmyhome.com/best-non-smart-tv/)
+- [Cursed IP Address Representations](https://twitter.com/dave_universetf/status/1342685822286360576)
+- [I reverse engineered Google Docs to play back any document's keystrokes (2014)](http://features.jsomers.net/how-i-reverse-engineered-google-docs/)
+- [Show HN: CodeSwing – A CodePen-like interactive playground, built into VS Code](https://github.com/codespaces-contrib/codeswing)
+- [Give your Mac imaginary unlimited storage thanks to Disk Utility’s bug](https://eclecticlight.co/2020/12/26/give-your-mac-imaginary-unlimited-storage-thanks-to-disk-utilitys-bug/)
+- [What’s the best non-smart TV sold today?](https://helpatmyhome.com/best-non-smart-tv/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
