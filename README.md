@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Acetaminophen Alters Perceptions of Risk](https://news.osu.edu/a-pain-reliever-that-alters-perceptions-of-risk)
+- [All I Want for Christmas are Urban Warfare capabilities](https://mwi.usma.edu/all-i-want-for-christmas-is-an-urban-warfare-capability-set/)
+- [In study, acetaminophen makes risky moves seem less dangerous](https://news.osu.edu/a-pain-reliever-that-alters-perceptions-of-risk)
 - [Dev-C++ Is a Low Memory Windows Native C++ IDE Built in Delphi](https://blogs.embarcadero.com/dev-c-is-a-low-memory-windows-native-c-ide-built-in-delphi/)
 - [Ask HN: What startup/technology is on your 'to watch' list?](https://news.ycombinator.com/item?id=25540583)
 - [Backdoor in Zyxel Products](https://www.eyecontrol.nl/blog/undocumented-user-account-in-zyxel-products.html)
-- [A Complete Guide to LLVM for Programming Language Creators](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
