@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Executable PNGs](https://djharper.dev/post/2020/12/26/executable-pngs/)
+- [Controversial ‘spy tech’ firm Palantir lands £23m NHS data deal](https://www.opendemocracy.net/en/ournhs/controversial-tech-firm-palantir-23m-nhs-data-deal/)
 - [Charityvest (YC S20) Is Hiring Senior TypeScript / PostgreSQL / AWS Engineers](https://apply.workable.com/charityvest/j/06829E8841/)
 - [1937 Film Perfectly Explains How a Car Differential Works](https://www.roadandtrack.com/car-culture/classic-cars/a25833/1937-film-perfectly-explains-how-a-car-differential-works/)
 - [Photocatalyst splits water into H and O2 at quantum efficiency near 100%](https://fuelcellsworks.com/news/photocatalyst-that-can-split-water-into-hydrogen-and-oxygen-at-a-quantum-efficiency-close-to-100/)
-- [How much math you need for programming? (2014)](https://lispmachine.wordpress.com/2014/12/05/how-much-math-you-need-for-programming/)
-- [Manga Guide to Lisp](http://lambda.bugyo.tk/cdr/mwl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
