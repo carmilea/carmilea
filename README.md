@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Photocatalyst splits water into H and O2 at quantum efficiency near 100%](https://fuelcellsworks.com/news/photocatalyst-that-can-split-water-into-hydrogen-and-oxygen-at-a-quantum-efficiency-close-to-100/)
+- [How much math do you need for programming?](https://lispmachine.wordpress.com/2014/12/05/how-much-math-you-need-for-programming/)
 - [Manga Guide to Lisp](http://lambda.bugyo.tk/cdr/mwl/)
 - [In study, acetaminophen makes risky moves seem less dangerous](https://news.osu.edu/a-pain-reliever-that-alters-perceptions-of-risk)
 - [Dev-C++ Is a Low Memory Windows Native C++ IDE Built in Delphi](https://blogs.embarcadero.com/dev-c-is-a-low-memory-windows-native-c-ide-built-in-delphi/)
-- [Ask HN: What startup/technology is on your 'to watch' list?](https://news.ycombinator.com/item?id=25540583)
-- [Backdoor in Zyxel Products](https://www.eyecontrol.nl/blog/undocumented-user-account-in-zyxel-products.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
