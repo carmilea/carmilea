@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Demand Side Sales 101](https://m.signalvnoise.com/demand-side-sales-101-a-new-book-on-sales-by-bob-moesta/)
 - [Executable PNGs](https://djharper.dev/post/2020/12/26/executable-pngs/)
+- [The other side of sea level change](https://www.nature.com/articles/s43247-020-00075-6)
+- [Apple iCloud Account Sign In has had an outage affecting some users for 24 hours](https://www.apple.com/support/systemstatus?down)
 - [Controversial ‘spy tech’ firm Palantir lands £23m NHS data deal](https://www.opendemocracy.net/en/ournhs/controversial-tech-firm-palantir-23m-nhs-data-deal/)
-- [Charityvest (YC S20) Is Hiring Senior TypeScript / PostgreSQL / AWS Engineers](https://apply.workable.com/charityvest/j/06829E8841/)
-- [1937 Film Perfectly Explains How a Car Differential Works](https://www.roadandtrack.com/car-culture/classic-cars/a25833/1937-film-perfectly-explains-how-a-car-differential-works/)
-- [Photocatalyst splits water into H and O2 at quantum efficiency near 100%](https://fuelcellsworks.com/news/photocatalyst-that-can-split-water-into-hydrogen-and-oxygen-at-a-quantum-efficiency-close-to-100/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
