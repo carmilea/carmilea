@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Dev-C++ Is a Low Memory Windows Native C++ IDE Built in Delphi](https://blogs.embarcadero.com/dev-c-is-a-low-memory-windows-native-c-ide-built-in-delphi/)
+- [Ask HN: What startup/technology is on your 'to watch' list?](https://news.ycombinator.com/item?id=25540583)
 - [Info is available about which college majors pay off, students aren’t using it](https://www.washingtonpost.com/local/education/college-major-salary/2020/12/24/cad0f5de-44b3-11eb-b0e4-0f182923a025_story.html)
 - [Backdoor in Zyxel Products](https://www.eyecontrol.nl/blog/undocumented-user-account-in-zyxel-products.html)
 - [A Complete Guide to LLVM for Programming Language Creators](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
-- [ATT services down due to bombing in Nashville](https://www.tennessean.com/story/news/local/2020/12/25/att-outage-internet-down-hours-after-nashville-explosion/4045278001/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
