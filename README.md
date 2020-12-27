@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: UrlRoulette – Pass a URL to the next visitor](https://urlroulette.net/)
+- [Orthodox C++](https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b)
 - [Ask HN: Favorite Podcast Episode of 2020](https://news.ycombinator.com/item?id=25553818)
 - [A Statistical Estimate of Extraterrestrial Intelligence in the Milky Way Galaxy](https://arxiv.org/abs/2012.07902)
 - [Under the hood of the Subaru Levorg: ADAS and programmable logic](https://www.embedded-computing.com/home-page/guess-what-s-under-the-hood-of-the-subaru-levorg-adas-and-programmable-logic)
-- [Show HN: Stork: A customizable, WASM-powered full-text search plugin for the web](https://stork-search.net)
-- [Upptime – GitHub-powered open-source uptime monitor and status page](https://upptime.js.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
