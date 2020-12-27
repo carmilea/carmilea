@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Relocating to London After Brexit](https://news.ycombinator.com/item?id=25550782)
 - [Legalist (YC S16) Is Hiring](https://www.workatastartup.com/jobs/41335)
+- [Central Bank Digital Currencies Are a Bad Idea](https://www.forgac.me/blog/2020/11/17/three-reasons-why-central-bank-digital-currencies-are-a-bad-idea)
 - [Mary Kenneth Keller](https://en.wikipedia.org/wiki/Mary_Kenneth_Keller)
 - [Introduction to Reinforcement Learning with David Silver [2015]](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
-- [Owncast Instances](https://directory.owncast.online/)
-- [RC3 Streams](https://streaming.media.ccc.de/rc3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
