@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Books That Changed My Business](https://capitalandgrowth.org/answers/Article/3516328/5-Books-That-Changed-My-Business)
+- [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+- [Owncast Instances](https://directory.owncast.online/)
 - [Raycast (YC W20) Is Hiring Fullstack Software Engineers (Remote, UTC ± 3 Hours)](https://raycast.com/jobs/software-engineer-fullstack)
 - [California Public Utilities Commission fired director who exposed missing $200M](https://www.propublica.org/article/she-noticed-200-million-missing-then-she-was-fired)
 - [Oxford and AstraZeneca Covid-19 vaccine: "potency miscalculation"](https://www.reuters.com/article/us-health-coronavirus-britain-vaccine-sp-idUKKBN28Y0XU)
-- [Seasonal Spirals](https://observablehq.com/@yurivish/seasonal-spirals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
