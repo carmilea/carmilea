@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Central and Southern California have 0 percent ICU capacity](https://www.nytimes.com/2020/12/26/world/central-and-southern-california-icu-capacity.html)
+- [California Public Utilities Commission fired director who exposed $200M missing](https://www.propublica.org/article/she-noticed-200-million-missing-then-she-was-fired)
 - [Oxford and AstraZeneca Covid-19 vaccine: "potency miscalculation"](https://www.reuters.com/article/us-health-coronavirus-britain-vaccine-sp-idUKKBN28Y0XU)
 - [Seasonal Spirals](https://observablehq.com/@yurivish/seasonal-spirals)
 - [API pagination design](https://solovyov.net/blog/2020/api-pagination-design/)
-- [What If You Could Do It All Over?](https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over)
+- [The Future of RTS](https://docs.google.com/document/d/1RIAmHaInU_tb-Xv9EMZ6SP2zLE50t91zI2ThINwCHHo/edit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
