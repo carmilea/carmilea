@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Systems design explains the world: volume 1](https://apenwarr.ca/log/20201227)
+- [83 Years On: Remembering the Nanjing Massacre](https://ramblinghistory.co.uk/2020/12/11/nanjing-massacre-remembered/)
 - [APIs All the Way Down](https://notboring.substack.com/p/apis-all-the-way-down)
 - [Unilever Says It Will Resume Advertising on Facebook](https://www.wsj.com/articles/unilever-says-it-will-resume-advertising-on-facebook-in-u-s-11608245092)
-- [What the Dunning-Kruger effect is and isn’t](https://www.talyarkoni.org/blog/2010/07/07/what-the-dunning-kruger-effect-is-and-isnt/)
-- [Investors Double Down on Stocks, Pushing Margin Debt to Record](https://www.wsj.com/articles/investors-double-down-on-stocks-pushing-margin-debt-to-record-11609077600)
-- [Why 'Accidental Americans' Are Desperate to Give Up Their U.S. Citizenship](https://time.com/5922972/accidental-americans-fatca/)
+- [An unusual meteorite may hold the building blocks of life](https://www.sciencemag.org/news/2020/08/unusual-meteorite-more-valuable-gold-may-hold-building-blocks-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
