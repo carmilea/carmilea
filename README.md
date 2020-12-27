@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sci-Hub and Libgen Face ISP Blocking in India After High Court Complaint](https://torrentfreak.com/sci-hub-libgen-face-isp-blocking-in-india-after-publishers-file-high-court-complaint-201227/)
-- [Show HN: Play the Chrome T-Rex game by physically jumping](https://github.com/veggiedefender/projectordino)
-- [Pilot draws syringe in the sky to celebrate Covid-19 vaccine](https://www.flightradar24.com/blog/pilot-draws-syringe-in-the-sky-to-celebrate-covid-19-vaccine/)
-- [SaaS We Happily Pay For](https://francescodilorenzo.com/saas-we-pay-for)
-- [Systems design explains the world: volume 1](https://apenwarr.ca/log/20201227)
+- [Ask HN: Favorite Podcast Episode of 2020](https://news.ycombinator.com/item?id=25553818)
+- [Under the hood of the Subaru Levorg: ADAS and programmable logic](https://www.embedded-computing.com/home-page/guess-what-s-under-the-hood-of-the-subaru-levorg-adas-and-programmable-logic)
+- [Upptime – GitHub-powered open-source uptime monitor and status page](https://upptime.js.org/)
+- [Reddit suspends blind people for using an accessible Reddit client](https://www.reddit.com/r/DystopiaForReddit/comments/kkv0d2/reddit_suspended_two_people_who_use_dystopia/)
+- [A first look at Ghidra’s Debugger – Game Boy Advance Edition](https://wrongbaud.github.io/posts/ghidra-debugger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
