@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bees Are Now Considered the Most Important Living Thing on Earth](https://blog.therainforestsite.greatergood.com/why-are-bees-important/)
+- [Sci-Hub and Libgen Face ISP Blocking in India After High Court Complaint](https://torrentfreak.com/sci-hub-libgen-face-isp-blocking-in-india-after-publishers-file-high-court-complaint-201227/)
+- [Show HN: Play the Chrome T-Rex game by physically jumping](https://github.com/veggiedefender/projectordino)
 - [Pilot draws syringe in the sky to celebrate Covid-19 vaccine](https://www.flightradar24.com/blog/pilot-draws-syringe-in-the-sky-to-celebrate-covid-19-vaccine/)
-- [FBI agents investigating if 5G paranoia was behind Nashville bombing](https://www.wsmv.com/news/fbi-agents-investigating-if-5g-paranoia-was-behind-nashville-bombing/article_952f937e-47f9-11eb-b1c3-bfda1689fb18.html)
 - [SaaS We Happily Pay For](https://francescodilorenzo.com/saas-we-pay-for)
 - [Systems design explains the world: volume 1](https://apenwarr.ca/log/20201227)
 <!-- BLOG-POST-LIST:END -->
