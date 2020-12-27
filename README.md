@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pico-8: Another World (Intro)](https://twitter.com/FSouchu/status/1343200216229543937)
+- [Bye Bye Mongo, Hello Postgres (2018)](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres)
+- [Free-space optical links for space communication networks](https://arxiv.org/abs/2012.13166)
 - [Snebu – Simple Network Encrypting Backup Utility](https://www.snebu.com)
 - [Rotating Sails Help to Revive Wind-Powered Shipping](https://www.scientificamerican.com/article/rotating-sails-help-to-revive-wind-powered-shipping/)
-- [Bash HTTP Monitoring Dashboard](https://raymii.org/s/software/Bash_HTTP_Monitoring_Dashboard.html)
-- [Complex Systems Fail](https://how.complexsystems.fail)
-- [A drone pilot was fined $182K by the FAA](https://www.dpreview.com/news/6343616131/how-one-drone-pilot-got-slapped-with-182-000-in-fines-from-the-faa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
