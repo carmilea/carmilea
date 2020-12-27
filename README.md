@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dunning-Kruger Effect Is Probably Not Real](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
-- [An Oscar Winner Made a Khashoggi Documentary. Streaming Services Didn’t Want It](https://www.nytimes.com/2020/12/24/business/media/dissident-jamal-khashoggi-netflix-amazon.html#click=https://t.co/HoBRLE1wPV)
-- [Getting rid of NPM scripts](https://blog.uidrafter.com/engineering/getting-rid-of-npm-scripts)
-- [Mastering Pinterest SEO: An insider's guide](https://blog.aesthetic.com/blog/pinterest-guide/)
-- [Cursed IP Address Representations](https://blog.dave.tf/post/ip-addr-parsing/)
+- [Chris “HuK” Loranger's Thoughts on RTSes](https://docs.google.com/document/d/1RIAmHaInU_tb-Xv9EMZ6SP2zLE50t91zI2ThINwCHHo/edit)
+- [What If You Could Do It All Over?](https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over)
+- [Starship / Super Heavy](https://www.faa.gov/space/stakeholder_engagement/spacex_starship/starship_super_heavy/)
+- [Kit FUI – User interfaces found in films](https://www.saji8k.com/kit-fui/)
+- [Run More Stuff in Docker](https://jonathan.bergknoff.com/journal/run-more-stuff-in-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
