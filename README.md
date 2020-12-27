@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: UrlRoulette – Pass a URL to the next visitor](https://urlroulette.net/)
+- [A Tiny Lispy Transpiler](https://github.com/LingDong-/wax)
+- [Show HN: Archivy-HN – automatically save and download your upvoted HN posts](https://github.com/archivy/archivy-hn)
 - [Orthodox C++](https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b)
-- [Ask HN: Favorite Podcast Episode of 2020](https://news.ycombinator.com/item?id=25553818)
 - [A Statistical Estimate of Extraterrestrial Intelligence in the Milky Way Galaxy](https://arxiv.org/abs/2012.07902)
 - [Under the hood of the Subaru Levorg: ADAS and programmable logic](https://www.embedded-computing.com/home-page/guess-what-s-under-the-hood-of-the-subaru-levorg-adas-and-programmable-logic)
 <!-- BLOG-POST-LIST:END -->
