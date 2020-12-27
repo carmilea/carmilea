@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Relocating to London After Brexit](https://news.ycombinator.com/item?id=25550782)
-- [Legalist (YC S16) Is Hiring](https://www.workatastartup.com/jobs/41335)
-- [Central Bank Digital Currencies Are a Bad Idea](https://www.forgac.me/blog/2020/11/17/three-reasons-why-central-bank-digital-currencies-are-a-bad-idea)
-- [Mary Kenneth Keller](https://en.wikipedia.org/wiki/Mary_Kenneth_Keller)
-- [Introduction to Reinforcement Learning with David Silver [2015]](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+- [Snebu – Simple Network Encrypting Backup Utility](https://www.snebu.com)
+- [Rotating Sails Help to Revive Wind-Powered Shipping](https://www.scientificamerican.com/article/rotating-sails-help-to-revive-wind-powered-shipping/)
+- [Bash HTTP Monitoring Dashboard](https://raymii.org/s/software/Bash_HTTP_Monitoring_Dashboard.html)
+- [Complex Systems Fail](https://how.complexsystems.fail)
+- [A drone pilot was fined $182K by the FAA](https://www.dpreview.com/news/6343616131/how-one-drone-pilot-got-slapped-with-182-000-in-fines-from-the-faa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
