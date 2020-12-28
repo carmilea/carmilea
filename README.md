@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [He spent 10 days in jail after facial recognition led to arrest of the wrong man](https://www.nj.com/middlesex/2020/12/he-spent-10-days-in-jail-after-facial-recognition-software-led-to-the-arrest-of-the-wrong-man-lawsuit-says.html)
+- [Anonymously call out the bad behavior of “ghosting” by recruiters](http://ghostreply.com)
+- [BLC1: A candidate signal around Proxima](https://sites.psu.edu/astrowright/2020/12/20/blc1-a-candidate-signal-around-proxima/)
 - [Ask HW: Qubes OS alternative on LXD containers](https://www.qubes-os.org/doc/getting-started/)
 - [Buttplug (Sex Toy Control Library) Hits v1 Milestone](https://nonpolynomial.com/2020/12/28/buttplug-hits-v1-milestone/)
-- [PaSh: Light-Touch Data-Parallel Shell Processing](https://arxiv.org/abs/2007.09436)
-- [Implementing join planning in our open source Golang SQL query engine](https://www.dolthub.com/blog/2020-12-28-join-planning/)
-- [AWS Added Apple Mac Mini Nodes to EC2 – ServeTheHome](https://www.servethehome.com/how-aws-added-apple-mac-mini-nodes-to-ec2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
