@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bill Gates's Foundation Is Leading a Green Counterrevolution in Africa](https://jacobinmag.com/2020/12/agribusiness-gates-foundation-green-revolution-africa-agra)
 - [The poison found in everyone, even unborn babies – and who is responsible for it](https://www.theguardian.com/commentisfree/2020/dec/17/dark-waters-pfas-ticking-chemical-time-bomb-in-your-blood)
 - [HN Readers](https://blog.luke.lol/tech/15-hacker-news-alternatives/)
 - [Osmocom icE1usb: open hardware USB E1/T1 adapter](https://projects.osmocom.org/news/128)
-- [Show HN: 10 KB Club: With links to popular HN, Reddit threads for each website](https://10kbclub.com/)
-- [The rise of intangibles and the demise of accounting](https://tanay.substack.com/p/the-rise-of-intangibles-and-the-demise)
+- [10 KB Club: With links to popular HN, Reddit, Lobsters threads for each website](https://10kbclub.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
