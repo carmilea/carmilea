@@ -55,7 +55,7 @@
 - [Fujifilm Created a Magnetic Tape That Can Store 580 Terabytes](https://petapixel.com/2020/12/26/fujifilm-created-a-magnetic-tape-that-can-store-580-terabytes/)
 - [Gather (YC S19) Is Hiring a Senior WebRTC Engineer](https://www.notion.so/Senior-Video-Engineer-2d9b26e304d54619bbfd34df340f6a4d)
 - [FAA issuing new rules to allow drones to fly over people and at night](https://www.reuters.com/article/us-usa-drones-faa/u-s-to-allow-small-drones-to-fly-over-people-at-night-idUSKBN2921R8)
-- [In-depth: Functional programming in C++ (John Carmack, 2012)](https://gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php)
+- [Functional programming in C++ (2012)](https://gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
