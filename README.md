@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Children choose to save dogs over humans, adults chose 1 human over 100 dogs](https://journals.sagepub.com/doi/abs/10.1177/0956797620960398?journalCode=pssa)
+- [PaSh: Light-Touch Data-Parallel Shell Processing](https://arxiv.org/abs/2007.09436)
 - [AWS Added Apple Mac Mini Nodes to EC2 – ServeTheHome](https://www.servethehome.com/how-aws-added-apple-mac-mini-nodes-to-ec2/)
-- [The Stock Market Is the Cheapest Since 1980](https://www.forbes.com/sites/danrunkevicius/2021/12/28/the-stock-market-is-the-cheapest-since-1980/)
+- [Listen to Wikipedia](http://listen.hatnote.com/)
 - [Covid-19 Changes Our Sleep](https://www.theatlantic.com/health/archive/2020/12/covid-19-sleep-pandemic-zzzz/617454/)
-- [Convicted Copyright Troll Lawyer Reboots Pirate Honeypot Scheme from Prison](https://torrentfreak.com/convicted-copyright-troll-lawyer-reboots-pirate-honeypot-scheme-from-prison-201225/)
-- [A Comparison of Futhark and Dex](https://futhark-lang.org/blog/2020-12-28-futhark-and-dex.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
