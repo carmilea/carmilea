@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dialup: Serendipitous Voice Chat](https://dialup.com)
+- [Zoomquilt 2](http://zoomquilt2.com/)
 - [The Fight for WorldBox](https://www.reddit.com/r/Worldbox/comments/jmplqw/the_fight_for_worldbox_or_how_a_game_you_worked/)
 - [Why Raytracing won't simplify AAA real-time rendering](http://c0de517e.blogspot.com/2020/12/why-raytracing-wont-simplify-aaa-real.html)
 - [The poison found in everyone, even unborn babies – and who is responsible for it](https://www.theguardian.com/commentisfree/2020/dec/17/dark-waters-pfas-ticking-chemical-time-bomb-in-your-blood)
-- [HN Readers](https://blog.luke.lol/tech/15-hacker-news-alternatives/)
-- [Osmocom icE1usb: open hardware USB E1/T1 adapter](https://projects.osmocom.org/news/128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
