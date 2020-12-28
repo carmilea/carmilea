@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Images of the the samples returned to earth from the asteroid Ryugu](http://www.hayabusa2.jaxa.jp/en/topics/20201225_samples/)
 - [Wordpress market share keeps growing](https://w3techs.com/technologies/history_overview/content_management/all/y)
 - [Britain’s electricity since 2010: fossil fuel use nearly halves](https://theconversation.com/britains-electricity-since-2010-wind-surges-to-second-place-coal-collapses-and-fossil-fuel-use-nearly-halves-129346)
 - [Chinese Demography: China is shrinking, and is about to shrink more](https://noahpinion.substack.com/p/chinese-demography)
 - [Dialup: Serendipitous Voice Chat](https://dialup.com)
-- [UK-EU trade deal refers to Netscape Communicator 4 as “modern email software”](https://twitter.com/paulmaunders/status/1343143578147684357)
 <!-- BLOG-POST-LIST:END -->
 
 ---
