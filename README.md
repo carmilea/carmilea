@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wisp: A light Lisp written in C++](https://github.com/adam-mcdaniel/wisp)
 - [MDacne (YC W17) Is Hiring a Growth Marketer](https://www.workatastartup.com/jobs/41333)
-- [Stealing your private documents through a bug in Google Docs](https://savebreach.com/stealing-private-documents-through-a-google-docs-bug/)
+- [ITX Motherboard with an Elbrus CPU](https://blog.jmdawson.co.uk/icepeakitx-elbrus-8cb-itx-motherboard/)
+- [Stealing private documents through a bug in Google Docs](https://savebreach.com/stealing-private-documents-through-a-google-docs-bug/)
 - [Atlantropa](https://en.wikipedia.org/wiki/Atlantropa)
-- [Coolest custom mechanical keyboards](https://cybernews.com/editorial/coolest-custom-mechanical-keyboards-weve-ever-seen/)
-- [Scientists turn CO2 into jet fuel](https://www.engadget.com/co2-converted-into-jet-fuel-224318943.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
