@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bill Gates's Foundation Is Leading a Green Counterrevolution in Africa](https://jacobinmag.com/2020/12/agribusiness-gates-foundation-green-revolution-africa-agra)
+- [The Fight for WorldBox](https://www.reddit.com/r/Worldbox/comments/jmplqw/the_fight_for_worldbox_or_how_a_game_you_worked/)
 - [The poison found in everyone, even unborn babies – and who is responsible for it](https://www.theguardian.com/commentisfree/2020/dec/17/dark-waters-pfas-ticking-chemical-time-bomb-in-your-blood)
 - [HN Readers](https://blog.luke.lol/tech/15-hacker-news-alternatives/)
 - [Osmocom icE1usb: open hardware USB E1/T1 adapter](https://projects.osmocom.org/news/128)
