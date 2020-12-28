@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Sirum (YC W15 Nonprofit) hiring many roles to make medicine more affordable](https://www.sirum.org/about/#careers)
+- [Show HN: Cygnus-X1 – A Thrust Vectoring Model Rocket Flight Computer](https://github.com/polishdude20/CygnusX1)
+- [90% of Waking Hours Spent Staring at Glowing Rectangles (2009)](https://www.theonion.com/report-90-of-waking-hours-spent-staring-at-glowing-re-1819570829)
 - [2-Acre Vertical Farm Run by AI and Robots Out-Produces 720-Acre Flat Farm](https://www.intelligentliving.co/vertical-farm-out-produces-flat-farm/)
 - [Resolving the Time Paradox Implied by Functional Programs](https://softwarefordays.com/post/resolving-the-fp-time-paradox/)
-- [A Tiny Lispy Transpiler](https://github.com/LingDong-/wax)
-- [Show HN: Archivy-HN – automatically save and download your upvoted HN posts](https://github.com/archivy/archivy-hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
