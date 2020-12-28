@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The poison found in everyone, even unborn babies – and who is responsible for it](https://www.theguardian.com/commentisfree/2020/dec/17/dark-waters-pfas-ticking-chemical-time-bomb-in-your-blood)
+- [HN Readers](https://blog.luke.lol/tech/15-hacker-news-alternatives/)
+- [Osmocom icE1usb: open hardware USB E1/T1 adapter](https://projects.osmocom.org/news/128)
+- [Show HN: 10 KB Club: With links to popular HN, Reddit threads for each website](https://10kbclub.com/)
 - [The rise of intangibles and the demise of accounting](https://tanay.substack.com/p/the-rise-of-intangibles-and-the-demise)
-- [Raspberry Pi PCIe Devices](https://pipci.jeffgeerling.com)
-- [North Dakota needed to hire Latvians to manage an ancient state computer system](https://www.inforum.com/news/government-and-politics/6816654-North-Dakota-needed-to-hire-Latvians-to-manage-an-ancient-state-computer-system)
-- [Cosmopolitan Libc: build-once run-anywhere C library](https://justine.lol/cosmopolitan/index.html)
-- [Sirum (YC W15 Nonprofit) hiring many roles to make medicine more affordable](https://www.sirum.org/about/#careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
