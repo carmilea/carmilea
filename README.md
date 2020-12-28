@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sirum (YC W15 Nonprofit) hiring many roles to make medicine more affordable](https://www.sirum.org/about/#careers)
+- [2-Acre Vertical Farm Run by AI and Robots Out-Produces 720-Acre Flat Farm](https://www.intelligentliving.co/vertical-farm-out-produces-flat-farm/)
+- [Resolving the Time Paradox Implied by Functional Programs](https://softwarefordays.com/post/resolving-the-fp-time-paradox/)
 - [A Tiny Lispy Transpiler](https://github.com/LingDong-/wax)
 - [Show HN: Archivy-HN – automatically save and download your upvoted HN posts](https://github.com/archivy/archivy-hn)
-- [Orthodox C++](https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b)
-- [A Statistical Estimate of Extraterrestrial Intelligence in the Milky Way Galaxy](https://arxiv.org/abs/2012.07902)
-- [Under the hood of the Subaru Levorg: ADAS and programmable logic](https://www.embedded-computing.com/home-page/guess-what-s-under-the-hood-of-the-subaru-levorg-adas-and-programmable-logic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
