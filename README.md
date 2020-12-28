@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Britain’s electricity since 2010: fossil fuel use nearly halves](https://theconversation.com/britains-electricity-since-2010-wind-surges-to-second-place-coal-collapses-and-fossil-fuel-use-nearly-halves-129346)
+- [Chinese Demography: China is shrinking, and is about to shrink more](https://noahpinion.substack.com/p/chinese-demography)
 - [Dialup: Serendipitous Voice Chat](https://dialup.com)
+- [UK-EU trade deal refers to Netscape Communicator 4 as “modern email software”](https://twitter.com/paulmaunders/status/1343143578147684357)
 - [Zoomquilt 2](http://zoomquilt2.com/)
-- [The Fight for WorldBox](https://www.reddit.com/r/Worldbox/comments/jmplqw/the_fight_for_worldbox_or_how_a_game_you_worked/)
-- [Why Raytracing won't simplify AAA real-time rendering](http://c0de517e.blogspot.com/2020/12/why-raytracing-wont-simplify-aaa-real.html)
-- [The poison found in everyone, even unborn babies – and who is responsible for it](https://www.theguardian.com/commentisfree/2020/dec/17/dark-waters-pfas-ticking-chemical-time-bomb-in-your-blood)
 <!-- BLOG-POST-LIST:END -->
 
 ---
