@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Major Wireless Network Flaw Is Still Being Exploited to Track User Locations](https://www.techdirt.com/articles/20201216/08324945898/major-wireless-network-flaw-is-still-being-exploited-to-track-user-locations.shtml)
 - [Wisp: A light Lisp written in C++](https://github.com/adam-mcdaniel/wisp)
 - [MDacne (YC W17) Is Hiring a Growth Marketer](https://www.workatastartup.com/jobs/41333)
 - [ITX Motherboard with an Elbrus CPU](https://blog.jmdawson.co.uk/icepeakitx-elbrus-8cb-itx-motherboard/)
 - [Stealing private documents through a bug in Google Docs](https://savebreach.com/stealing-private-documents-through-a-google-docs-bug/)
-- [Atlantropa](https://en.wikipedia.org/wiki/Atlantropa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
