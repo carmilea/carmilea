@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Major Wireless Network Flaw Is Still Being Exploited to Track User Locations](https://www.techdirt.com/articles/20201216/08324945898/major-wireless-network-flaw-is-still-being-exploited-to-track-user-locations.shtml)
-- [Wisp: A light Lisp written in C++](https://github.com/adam-mcdaniel/wisp)
-- [MDacne (YC W17) Is Hiring a Growth Marketer](https://www.workatastartup.com/jobs/41333)
-- [ITX Motherboard with an Elbrus CPU](https://blog.jmdawson.co.uk/icepeakitx-elbrus-8cb-itx-motherboard/)
-- [Stealing private documents through a bug in Google Docs](https://savebreach.com/stealing-private-documents-through-a-google-docs-bug/)
+- [AWS Added Apple Mac Mini Nodes to EC2 – ServeTheHome](https://www.servethehome.com/how-aws-added-apple-mac-mini-nodes-to-ec2/)
+- [The Stock Market Is the Cheapest Since 1980](https://www.forbes.com/sites/danrunkevicius/2021/12/28/the-stock-market-is-the-cheapest-since-1980/)
+- [Covid-19 Changes Our Sleep](https://www.theatlantic.com/health/archive/2020/12/covid-19-sleep-pandemic-zzzz/617454/)
+- [Convicted Copyright Troll Lawyer Reboots Pirate Honeypot Scheme from Prison](https://torrentfreak.com/convicted-copyright-troll-lawyer-reboots-pirate-honeypot-scheme-from-prison-201225/)
+- [A Comparison of Futhark and Dex](https://futhark-lang.org/blog/2020-12-28-futhark-and-dex.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
