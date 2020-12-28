@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Children choose to save dogs over humans, adults chose 1 human over 100 dogs](https://journals.sagepub.com/doi/abs/10.1177/0956797620960398?journalCode=pssa)
+- [Ask HW: Qubes OS alternative on LXD containers](https://www.qubes-os.org/doc/getting-started/)
+- [Buttplug (Sex Toy Control Library) Hits v1 Milestone](https://nonpolynomial.com/2020/12/28/buttplug-hits-v1-milestone/)
 - [PaSh: Light-Touch Data-Parallel Shell Processing](https://arxiv.org/abs/2007.09436)
+- [Implementing join planning in our open source Golang SQL query engine](https://www.dolthub.com/blog/2020-12-28-join-planning/)
 - [AWS Added Apple Mac Mini Nodes to EC2 – ServeTheHome](https://www.servethehome.com/how-aws-added-apple-mac-mini-nodes-to-ec2/)
-- [Listen to Wikipedia](http://listen.hatnote.com/)
-- [Covid-19 Changes Our Sleep](https://www.theatlantic.com/health/archive/2020/12/covid-19-sleep-pandemic-zzzz/617454/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
