@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Images of the the samples returned to earth from the asteroid Ryugu](http://www.hayabusa2.jaxa.jp/en/topics/20201225_samples/)
-- [Wordpress market share keeps growing](https://w3techs.com/technologies/history_overview/content_management/all/y)
-- [Britain’s electricity since 2010: fossil fuel use nearly halves](https://theconversation.com/britains-electricity-since-2010-wind-surges-to-second-place-coal-collapses-and-fossil-fuel-use-nearly-halves-129346)
-- [Chinese Demography: China is shrinking, and is about to shrink more](https://noahpinion.substack.com/p/chinese-demography)
-- [Dialup: Serendipitous Voice Chat](https://dialup.com)
+- [MDacne (YC W17) Is Hiring a Growth Marketer](https://www.workatastartup.com/jobs/41333)
+- [Stealing your private documents through a bug in Google Docs](https://savebreach.com/stealing-private-documents-through-a-google-docs-bug/)
+- [Atlantropa](https://en.wikipedia.org/wiki/Atlantropa)
+- [Coolest custom mechanical keyboards](https://cybernews.com/editorial/coolest-custom-mechanical-keyboards-weve-ever-seen/)
+- [Scientists turn CO2 into jet fuel](https://www.engadget.com/co2-converted-into-jet-fuel-224318943.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
