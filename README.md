@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [North Dakota needed to hire Latvians to manage an ancient state computer system](https://www.inforum.com/news/government-and-politics/6816654-North-Dakota-needed-to-hire-Latvians-to-manage-an-ancient-state-computer-system)
+- [Cosmopolitan Libc: build-once run-anywhere C library](https://justine.lol/cosmopolitan/index.html)
 - [Sirum (YC W15 Nonprofit) hiring many roles to make medicine more affordable](https://www.sirum.org/about/#careers)
 - [Show HN: Cygnus-X1 – A Thrust Vectoring Model Rocket Flight Computer](https://github.com/polishdude20/CygnusX1)
-- [90% of Waking Hours Spent Staring at Glowing Rectangles (2009)](https://www.theonion.com/report-90-of-waking-hours-spent-staring-at-glowing-re-1819570829)
 - [2-Acre Vertical Farm Run by AI and Robots Out-Produces 720-Acre Flat Farm](https://www.intelligentliving.co/vertical-farm-out-produces-flat-farm/)
-- [Resolving the Time Paradox Implied by Functional Programs](https://softwarefordays.com/post/resolving-the-fp-time-paradox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
