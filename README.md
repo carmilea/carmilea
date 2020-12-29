@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Git cake: when is my README's birthday?](https://bhupesh-v.github.io/git-cake-when-is-my-readme-birthday/)
-- [Boeing 737 Max to Resume Flying U.S. Passengers Today](https://www.nytimes.com/2020/12/29/business/boeing-737-max-return.html)
-- [Against Essential and Accidental Complexity](https://danluu.com/essential-complexity/)
-- [Stacker (YC S20) Is Hiring Product Engineers (React/Python) + a Product Designer](https://www.stackerhq.com/jobs)
-- [Hayley Wakenshaw's ASCII art tutorial](https://www.ludd.ltu.se/~vk/pics/ascii/junkyard/techstuff/tutorials/Hayley_Wakenshaw.html)
+- [New U.S. Dietary Guidelines Reject Recommendation to Cut Sugar, Alcohol Intake](https://www.wsj.com/articles/new-u-s-dietary-guidelines-reject-recommendation-to-cut-sugar-alcohol-intake-11609254000)
+- [iPhone workers given choice of forced labor or being sent to detention centers](https://9to5mac.com/2020/12/29/iphone-workers-forced-labor/)
+- [Ten year study: No link between violent video games and aggressive behavior](https://gamesage.net/blogs/news/ten-year-long-study-confirms-no-link-between-playing-violent-video-games-as-early-as-ten-years-old-and-aggressive-behavior-later-in-life)
+- [We should administer Covid-19 vaccines as fast as possible, not reserve doses](https://www.theglobeandmail.com/canada/article-new-data-favour-administering-covid-19-vaccines-as-fast-as-possible/)
+- [Git cake: when is my readme’s birthday?](https://bhupesh-v.github.io/git-cake-when-is-my-readme-birthday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
