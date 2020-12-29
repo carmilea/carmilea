@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [More than 73% of American adults are overweight or obese](https://www.diabetes.co.uk/news/2020/dec/more-than-73-of-american-adults-overweight-or-obese.html)
 - [Tesla FSD Beta 8 tested for self-driving performance in snowy conditions](https://www.teslaoracle.com/2020/12/29/fsd-beta-8-tested-for-self-driving-performance-in-snowy-conditions/)
+- [Bug drone for UK army that weights 196g, has 40 mins autonomy and 2km range](https://www.baesystems.com/en/collaborating-with-uavtek-to-develop-nano-bug-drone)
 - [Boston Dynamics: Do You Love Me?](https://www.youtube.com/watch?v=fn3KWM1kuAw)
 - [Apple loses copyright battle against security startup Corellium](https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/)
-- [Hedge fund Third Point urges Intel to explore deal options](https://www.reuters.com/article/us-intel-thirdpoint-exclusive-idUSKBN2931PS)
-- [Computer Science textbooks that are freely available online](https://csgordon.github.io/books.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
