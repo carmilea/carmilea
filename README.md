@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla FSD Beta 8 tested for self-driving performance in snowy conditions](https://www.teslaoracle.com/2020/12/29/fsd-beta-8-tested-for-self-driving-performance-in-snowy-conditions/)
+- [Boston Dynamics: Do You Love Me?](https://www.youtube.com/watch?v=fn3KWM1kuAw)
+- [Apple loses copyright battle against security startup Corellium](https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/)
+- [Hedge fund Third Point urges Intel to explore deal options](https://www.reuters.com/article/us-intel-thirdpoint-exclusive-idUSKBN2931PS)
 - [Computer Science textbooks that are freely available online](https://csgordon.github.io/books.html)
-- [Germany: 'Colossal' cyberattack knocks out Funke news group](https://www.dw.com/en/germany-colossal-cyberattack-knocks-out-funke-news-group/a-56087804)
-- [Collaborative Thinking: Takeaways from 21 lessons for the 21st century](https://blog.jzhao.xyz/posts/collaborative-thinking/)
-- [ContentFly (YC W21) Is Hiring for Engineering, Marketing and Success (Remote)](https://contentfly.homerun.co/?lang=en)
-- [YouTube removed a Cybersecurity channel without much reason](https://www.linkedin.com/posts/mohammedadam24_cybersecurity-infosec-penetrationtesting-activity-6749595324978987008-UFbn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
