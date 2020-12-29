@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the iPhone Timer App displays a Fake Time](https://lukashermann.dev/writing/why-the-iphone-timer-displays-fake-time/)
-- [Fujifilm Created a Magnetic Tape That Can Store 580 Terabytes](https://petapixel.com/2020/12/26/fujifilm-created-a-magnetic-tape-that-can-store-580-terabytes/)
-- [Gather (YC S19) Is Hiring a Senior WebRTC Engineer](https://www.notion.so/Senior-Video-Engineer-2d9b26e304d54619bbfd34df340f6a4d)
-- [FAA issuing new rules to allow drones to fly over people and at night](https://www.reuters.com/article/us-usa-drones-faa/u-s-to-allow-small-drones-to-fly-over-people-at-night-idUSKBN2921R8)
-- [Functional programming in C++ (2012)](https://gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php)
+- [The Philosophy of Anger](http://bostonreview.net/forum/agnes-callard-philosophy-anger)
+- [Teaching the Unfortunate Parts](https://www.executeprogram.com/blog/teaching-the-unfortunate-parts)
+- [Architecture of the Game Boy Advance](https://www.copetti.org/writings/consoles/game-boy-advance/)
+- [Email providers – which one to choose?](https://digdeeper.neocities.org/ghost/email.html)
+- [Niex: Jupyter Notebooks but Using Elixir](https://github.com/jonklein/niex)
 <!-- BLOG-POST-LIST:END -->
 
 ---
