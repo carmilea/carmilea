@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: LinkAce – Your self-hosted, FOSS bookmark archive](https://www.linkace.org/)
-- [Mobile data shows which European countries took lockdown seriously](https://theconversation.com/mobile-data-shows-which-european-countries-took-lockdown-seriously-138758)
-- [Show HN: HackerDaily – What if HN updates only once a day?](https://hackerdaily.io)
-- [Virality and Chaos](https://blog.6aa4fd.com/post/virality/)
-- [Google Maps' Moat Is Evaporating](https://joemorrison.substack.com/p/google-maps-moat-is-evaporating)
+- [Stacker (YC S20) Is Hiring Product Engineers (React/Python) + a Product Designer](https://www.stackerhq.com/jobs)
+- [Rule Allows Natural Gas Transport by Rail in Dense Areas](https://www.npr.org/2020/12/29/950140412/that-terrifies-me-trump-rule-allows-natural-gas-transport-by-rail-in-dense-areas)
+- [A growing list of long distance hikes around the world](https://thruhikes.net/)
+- [Why Do People Stay Poor? [pdf]](https://www.lse.ac.uk/economics/Assets/Documents/personal-pages/robin-burgess/why-do-people-stay-poor-evidence-on-poverty-traps-from-rural-bangladesh-revision-V4-32.pdf)
+- [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
