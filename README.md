@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Git cake: when is my README's birthday?](https://bhupesh-v.github.io/git-cake-when-is-my-readme-birthday/)
+- [Boeing 737 Max to Resume Flying U.S. Passengers Today](https://www.nytimes.com/2020/12/29/business/boeing-737-max-return.html)
 - [Against Essential and Accidental Complexity](https://danluu.com/essential-complexity/)
 - [Stacker (YC S20) Is Hiring Product Engineers (React/Python) + a Product Designer](https://www.stackerhq.com/jobs)
-- [Rule Allows Natural Gas Transport by Rail in Dense Areas](https://www.npr.org/2020/12/29/950140412/that-terrifies-me-trump-rule-allows-natural-gas-transport-by-rail-in-dense-areas)
-- [A growing list of long distance hikes around the world](https://thruhikes.net/)
-- [Why Do People Stay Poor? [pdf]](https://www.lse.ac.uk/economics/Assets/Documents/personal-pages/robin-burgess/why-do-people-stay-poor-evidence-on-poverty-traps-from-rural-bangladesh-revision-V4-32.pdf)
+- [Hayley Wakenshaw's ASCII art tutorial](https://www.ludd.ltu.se/~vk/pics/ascii/junkyard/techstuff/tutorials/Hayley_Wakenshaw.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
