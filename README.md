@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [More than 73% of American adults are overweight or obese](https://www.diabetes.co.uk/news/2020/dec/more-than-73-of-american-adults-overweight-or-obese.html)
-- [Tesla FSD Beta 8 tested for self-driving performance in snowy conditions](https://www.teslaoracle.com/2020/12/29/fsd-beta-8-tested-for-self-driving-performance-in-snowy-conditions/)
-- [Bug drone for UK army that weights 196g, has 40 mins autonomy and 2km range](https://www.baesystems.com/en/collaborating-with-uavtek-to-develop-nano-bug-drone)
-- [Boston Dynamics: Do You Love Me?](https://www.youtube.com/watch?v=fn3KWM1kuAw)
-- [Apple loses copyright battle against security startup Corellium](https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/)
+- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [Graph Toy, an interactive graph visualizer using mathematical functions](http://memorystomp.com/graphtoy/)
+- [ZeroPi – $9.99 SBC with 512MB and Gigabit Ethernet](https://www.friendlyarm.com/index.php?route=product/product&product_id=266)
+- [The Owl’s Right Eye (Protest Symbols)](https://unintendedconsequenc.es/the-owls-right-eye/)
+- [Google Maps changes a route after the drama of young people lost on a ghost road](https://tekdeeps.com/google-maps-changes-a-route-after-the-drama-of-young-people-lost-on-a-ghost-road/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
