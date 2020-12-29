@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Python libraries of 2020 you should know about](https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/)
+- [2020, the Year of Everything Fake](https://graymirror.substack.com/p/2020-the-year-of-everything-fake)
+- [An Open Letter to the Communications of the ACM](https://docs.google.com/document/d/1-KM6yc416Gh1wue92DHReoyZqheIaIM23fkz0KwOpkw/)
 - [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - [Graph Toy, an interactive graph visualizer using mathematical functions](http://memorystomp.com/graphtoy/)
-- [ZeroPi – $9.99 SBC with 512MB and Gigabit Ethernet](https://www.friendlyarm.com/index.php?route=product/product&product_id=266)
-- [The Owl’s Right Eye (Protest Symbols)](https://unintendedconsequenc.es/the-owls-right-eye/)
-- [Google Maps changes a route after the drama of young people lost on a ghost road](https://tekdeeps.com/google-maps-changes-a-route-after-the-drama-of-young-people-lost-on-a-ghost-road/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
