@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Against Essential and Accidental Complexity](https://danluu.com/essential-complexity/)
 - [Stacker (YC S20) Is Hiring Product Engineers (React/Python) + a Product Designer](https://www.stackerhq.com/jobs)
 - [Rule Allows Natural Gas Transport by Rail in Dense Areas](https://www.npr.org/2020/12/29/950140412/that-terrifies-me-trump-rule-allows-natural-gas-transport-by-rail-in-dense-areas)
 - [A growing list of long distance hikes around the world](https://thruhikes.net/)
 - [Why Do People Stay Poor? [pdf]](https://www.lse.ac.uk/economics/Assets/Documents/personal-pages/robin-burgess/why-do-people-stay-poor-evidence-on-poverty-traps-from-rural-bangladesh-revision-V4-32.pdf)
-- [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
