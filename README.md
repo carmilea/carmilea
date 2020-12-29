@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Raspberry Pi 400 with a $2 IPS 240x240 micro display](https://github.com/igbit/micro-displays/blob/main/README.md)
+- [A Beginner's Guide to Houseplants](https://www.notion.so/rxhl/A-Beginner-s-Guide-to-Houseplants-f90190a8c15b4bb8b65c60f16e3f9502)
 - [Coinbase to Suspend Trading in XRP](https://www.reuters.com/article/us-coinbase-xrp/coinbase-to-suspend-trading-in-xrp-idUSKBN292222)
 - [The Philosophy of Anger](http://bostonreview.net/forum/agnes-callard-philosophy-anger)
 - [Teaching the Unfortunate Parts](https://www.executeprogram.com/blog/teaching-the-unfortunate-parts)
-- [Architecture of the Game Boy Advance](https://www.copetti.org/writings/consoles/game-boy-advance/)
-- [Email providers – which one to choose?](https://digdeeper.neocities.org/ghost/email.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
