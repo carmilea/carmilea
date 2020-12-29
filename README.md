@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why Is There a Bucatini Shortage in America?](https://www.grubstreet.com/2020/12/2020-bucatini-shortage-investigation.html)
-- [Hate Your Job](https://iai.tv/articles/why-you-should-hate-your-job-auid-1075)
+- [The Mac that saved Apple](https://sixcolors.com/post/2020/12/20-macs-for-2020-1-imac-g3/)
 - [Show HN: Raspberry Pi 400 with a $2 IPS 240x240 micro display](https://github.com/igbit/micro-displays/blob/main/README.md)
-- [A Beginner's Guide to Houseplants](https://www.notion.so/rxhl/A-Beginner-s-Guide-to-Houseplants-f90190a8c15b4bb8b65c60f16e3f9502)
-- [Teaching the Unfortunate Parts](https://www.executeprogram.com/blog/teaching-the-unfortunate-parts)
+- [A Brief Global History of the War on Cannabis](https://thereader.mitpress.mit.edu/a-brief-global-history-of-the-war-on-cannabis/)
+- [The Philosophy of Anger](http://bostonreview.net/forum/agnes-callard-philosophy-anger)
 <!-- BLOG-POST-LIST:END -->
 
 ---
