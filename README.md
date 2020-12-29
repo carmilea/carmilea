@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase to Suspend Trading in XRP](https://www.reuters.com/article/us-coinbase-xrp/coinbase-to-suspend-trading-in-xrp-idUSKBN292222)
 - [The Philosophy of Anger](http://bostonreview.net/forum/agnes-callard-philosophy-anger)
 - [Teaching the Unfortunate Parts](https://www.executeprogram.com/blog/teaching-the-unfortunate-parts)
 - [Architecture of the Game Boy Advance](https://www.copetti.org/writings/consoles/game-boy-advance/)
 - [Email providers – which one to choose?](https://digdeeper.neocities.org/ghost/email.html)
-- [Niex: Jupyter Notebooks but Using Elixir](https://github.com/jonklein/niex)
 <!-- BLOG-POST-LIST:END -->
 
 ---
