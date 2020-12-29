@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coronavirus: Spain to keep registry of those who refuse Covid vaccine](https://www.bbc.com/news/world-europe-55471282)
 - [Japan developing wooden satellites to cut down on space junk](https://www.bbc.com/news/business-55463366)
 - [Why Is There a Bucatini Shortage in America?](https://www.grubstreet.com/2020/12/2020-bucatini-shortage-investigation.html)
 - [The Mac that saved Apple](https://sixcolors.com/post/2020/12/20-macs-for-2020-1-imac-g3/)
 - [Show HN: Raspberry Pi 400 with a $2 IPS 240x240 micro display](https://github.com/igbit/micro-displays/blob/main/README.md)
-- [A Brief Global History of the War on Cannabis](https://thereader.mitpress.mit.edu/a-brief-global-history-of-the-war-on-cannabis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
