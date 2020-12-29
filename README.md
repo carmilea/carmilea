@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Computer Science textbooks that are freely available online](https://csgordon.github.io/books.html)
+- [Germany: 'Colossal' cyberattack knocks out Funke news group](https://www.dw.com/en/germany-colossal-cyberattack-knocks-out-funke-news-group/a-56087804)
+- [Collaborative Thinking: Takeaways from 21 lessons for the 21st century](https://blog.jzhao.xyz/posts/collaborative-thinking/)
 - [ContentFly (YC W21) Is Hiring for Engineering, Marketing and Success (Remote)](https://contentfly.homerun.co/?lang=en)
 - [YouTube removed a Cybersecurity channel without much reason](https://www.linkedin.com/posts/mohammedadam24_cybersecurity-infosec-penetrationtesting-activity-6749595324978987008-UFbn)
-- [Is Substack the Media Future We Want?](https://www.newyorker.com/magazine/2021/01/04/is-substack-the-media-future-we-want)
-- [10,800 Years Ago, Early Humans Planted Forest Islands in Amazonia's Grasslands](https://www.discovermagazine.com/planet-earth/10-800-years-ago-early-humans-planted-forest-islands-in-amazonias-grasslands)
-- [MasterCard data analytics opt-out page: where did it go?](https://news.ycombinator.com/item?id=25570690)
 <!-- BLOG-POST-LIST:END -->
 
 ---
