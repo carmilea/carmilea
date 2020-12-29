@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cider 1.0](https://metaredux.com/posts/2020/12/28/cider-1-0.html)
-- [Japan developing wooden satellites to cut down on space junk](https://www.bbc.com/news/business-55463366)
-- [Endnotes on 2020: Crypto and Beyond](https://vitalik.ca/general/2020/12/28/endnotes.html)
-- [Why Is There a Bucatini Shortage in America?](https://www.grubstreet.com/2020/12/2020-bucatini-shortage-investigation.html)
-- [The Mac that saved Apple](https://sixcolors.com/post/2020/12/20-macs-for-2020-1-imac-g3/)
+- [Show HN: LinkAce – Your self-hosted, FOSS bookmark archive](https://www.linkace.org/)
+- [Mobile data shows which European countries took lockdown seriously](https://theconversation.com/mobile-data-shows-which-european-countries-took-lockdown-seriously-138758)
+- [Show HN: HackerDaily – What if HN updates only once a day?](https://hackerdaily.io)
+- [Virality and Chaos](https://blog.6aa4fd.com/post/virality/)
+- [Google Maps' Moat Is Evaporating](https://joemorrison.substack.com/p/google-maps-moat-is-evaporating)
 <!-- BLOG-POST-LIST:END -->
 
 ---
