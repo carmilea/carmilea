@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube removed a Cybersecurity channel without much reason](https://www.linkedin.com/posts/mohammedadam24_cybersecurity-infosec-penetrationtesting-activity-6749595324978987008-UFbn)
+- [10,800 Years Ago, Early Humans Planted Forest Islands in Amazonia's Grasslands](https://www.discovermagazine.com/planet-earth/10-800-years-ago-early-humans-planted-forest-islands-in-amazonias-grasslands)
+- [MasterCard data analytics opt-out page: where did it go?](https://news.ycombinator.com/item?id=25570690)
+- [The Life in the Simpsons Is No Longer Attainable](https://www.theatlantic.com/ideas/archive/2020/12/life-simpsons-no-longer-attainable/617499/)
 - [New U.S. Dietary Guidelines Reject Recommendation to Cut Sugar, Alcohol Intake](https://www.wsj.com/articles/new-u-s-dietary-guidelines-reject-recommendation-to-cut-sugar-alcohol-intake-11609254000)
-- [iPhone workers given choice of forced labor or being sent to detention centers](https://9to5mac.com/2020/12/29/iphone-workers-forced-labor/)
-- [Ten year study: No link between violent video games and aggressive behavior](https://gamesage.net/blogs/news/ten-year-long-study-confirms-no-link-between-playing-violent-video-games-as-early-as-ten-years-old-and-aggressive-behavior-later-in-life)
-- [We should administer Covid-19 vaccines as fast as possible, not reserve doses](https://www.theglobeandmail.com/canada/article-new-data-favour-administering-covid-19-vaccines-as-fast-as-possible/)
-- [Git cake: when is my readme’s birthday?](https://bhupesh-v.github.io/git-cake-when-is-my-readme-birthday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
