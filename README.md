@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vaccines Are the Safest Medical Procedure We Have. Make Your Wager Wisely](http://m.nautil.us/blog/vaccines-are-the-safest-medical-procedure-we-have-make-your-wager-wisely)
+- [Uber Eats avoids ruling on workers' status by settling with delivery rider](https://www.theguardian.com/technology/2020/dec/30/uber-eats-avoids-landmark-ruling-on-workers-status-by-settling-case-with-delivery-rider)
+- [Chinese Airline Completes Maiden Passenger Flight with Domestically Built Plane](https://www.caixinglobal.com/2020-12-30/china-eastern-unit-completes-maiden-passenger-flight-with-domestically-built-plane-101645055.html?rkey=4jojc%2BU9Dvsngy8ZDEibRfFL%2FE7ci4pK8bNFOzBEfLyZ3HhuWefoyg%3D%3D&cxg=web&Sfrom=twitter)
+- [The Impossible Mirror Scene in 'Contact'](https://filmschoolrejects.com/contact-mirror-scene/)
 - [Show HN: PSX Party – Online Multiplayer Playstation 1 Emulator Using WebRTC](https://psxparty.kosmi.io/?ref=hn1)
-- [ViennaSuperiorCourt: Facebook can skip GDPR consent but must give access to data](https://noyb.eu/en/vienna-superior-court-facebook-can-bypass-gdpr-consent-must-give-access-data)
-- [Amazon still hasn’t fixed its problem with bait-and-switch reviews](https://arstechnica.com/tech-policy/2020/12/amazon-still-hasnt-fixed-its-problem-with-bait-and-switch-reviews)
-- [Stripe co-founder on how his billion-dollar company continues to evolve](https://www.irishtimes.com/business/technology/john-collison-it-is-entirely-plausible-that-you-could-set-up-stripe-in-dublin-now-1.4438722)
-- [IntelliJ Idea 2020.3.1 Is Out with Apple Silicon Support](https://blog.jetbrains.com/idea/2020/12/intellij-idea-2020-3-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
