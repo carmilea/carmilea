@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Full repeal of Section 230 to push for $2k stimulus checks](https://www.theverge.com/2020/12/29/22204976/section-230-senate-deal-stimulus-talks-checks)
+- [Messengers of hope: two mRNA Covid-19 vaccines herald a new era for vaccinology](https://www.nature.com/articles/s41587-020-00807-1)
+- [Lying to Bill Gates to get the Xbox project approved](https://www.gamesradar.com/seamus-blackley-on-tricking-bill-gates-and-the-jedi-mind-tricks-that-were-needed-to-make-the-original-xbox/)
+- [Learn 3D Computer Graphics Programming from Scratch](https://courses.pikuma.com/courses/learn-computer-graphics-programming)
 - [Visa Advertising Solutions (VAS) Opt Out](https://marketingreportoptout.visa.com/OPTOUT/request.do)
 - [Top Python libraries of 2020 you should know about](https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/)
-- [An Open Letter to the Communications of the ACM](https://docs.google.com/document/d/1-KM6yc416Gh1wue92DHReoyZqheIaIM23fkz0KwOpkw/)
-- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
