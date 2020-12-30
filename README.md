@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In Poland, 8 clams are connected to the water quality alert network](https://www.polishnews.co.uk/poznan-the-clams-filter-the-water-they-check-whether-the-water-is-polluted-or-clean/)
+- [Leading someone with more years of experience than my age](https://danielrrojas.com/2020/12/27/leading-someone-with-more-years-of-experience-than-my-age/)
+- [Clams filter the water and check whether the water is polluted or clean](https://www.polishnews.co.uk/poznan-the-clams-filter-the-water-they-check-whether-the-water-is-polluted-or-clean/)
 - [Learn Quantum Computation](https://qiskit.org/textbook/preface.html)
-- [Our Year in Review: How we’ve kept Firefox working for you in 2020](https://blog.mozilla.org/blog/2020/12/15/our-year-in-review-how-weve-kept-firefox-working-for-you-in-2020/)
 - [Flash Player is about to stop working on Windows 10](https://www.windowslatest.com/2020/12/27/adobe-flash-player-is-about-to-stop-working-on-windows-10/)
 - [Ditching Excel for Python in a legacy industry](https://amypeniston.com/ditching-excel-for-python/)
 <!-- BLOG-POST-LIST:END -->
