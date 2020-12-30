@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe co-founder on how his billion-dollar company continues to evolve](https://www.irishtimes.com/business/technology/john-collison-it-is-entirely-plausible-that-you-could-set-up-stripe-in-dublin-now-1.4438722)
+- [IntelliJ Idea 2020.3.1 Is Out with Apple Silicon Support](https://blog.jetbrains.com/idea/2020/12/intellij-idea-2020-3-1/)
+- [The Scientific Case for Two Spaces After a Period](https://www.theatlantic.com/science/archive/2018/05/two-spaces-after-a-period/559304/)
 - [Nintendo's use of surveillance and private investigators to target modders](https://twitter.com/eclipse_tt/status/1341187958838321158)
 - [SameBoy – emulating how Game Boy SoC electrically interferes with the speakers](https://twitter.com/liji32/status/1344067474371846153)
-- [“Find Satoshi” PerplexCity puzzle solved](https://findsatoshi.com/)
-- [Why make games for Linux if they don't sell?](https://www.theregister.com/2020/12/26/linux_game_development_scene/)
-- [Argentina legalises abortion in landmark moment for women's rights](https://www.theguardian.com/world/2020/dec/30/argentina-legalises-abortion-in-landmark-moment-for-womens-rights)
 <!-- BLOG-POST-LIST:END -->
 
 ---
