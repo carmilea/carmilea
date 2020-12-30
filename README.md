@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California nurse tests positive over a week after receiving Pfizer vaccine](https://www.reuters.com/article/us-health-coronavirus-usa-vaccine-idUSKBN2940QL)
+- [Running BSDs on AMD Ryzen 5000 Series – FreeBSD/Linux Benchmarks](https://www.phoronix.com/scan.php?page=article&item=amd-5900x-bsd)
 - [Oxford-AstraZeneca coronavirus vaccine approved for use in UK](https://www.bbc.co.uk/news/health-55280671)
 - [Ask HN: What low-code “dashboarding“ SaaS would you recommend in 2021?](https://news.ycombinator.com/item?id=25579379)
 - [ACE: Apple Type-C Port Controller Secrets](https://blog.t8012.dev/ace-part-1/)
