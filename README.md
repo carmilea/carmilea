@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vaccines Are the Safest Medical Procedure We Have. Make Your Wager Wisely](http://m.nautil.us/blog/vaccines-are-the-safest-medical-procedure-we-have-make-your-wager-wisely)
+- [Four-day week means 'I don't waste holidays on chores'](https://www.bbc.co.uk/news/business-55485010)
+- [Spirals, Snowflakes and Trees: Recursion in Pictures](http://learn.hfm.io/fractals/fractals.html)
+- [Chobani Yogurt CEO Hamdi Ulukaya Is a Pro-Employee Billionaire in Expansion Mode](https://www.bloomberg.com/news/features/2020-12-24/chobani-yogurt-ceo-hamdi-ulukaya-is-a-pro-employee-billionaire-in-expansion-mode)
+- [Riding the Indie Business Rollercoaster My 2020 year in review](https://www.coryzue.com/writing/2020/)
 - [Uber Eats avoids ruling on workers' status by settling with delivery rider](https://www.theguardian.com/technology/2020/dec/30/uber-eats-avoids-landmark-ruling-on-workers-status-by-settling-case-with-delivery-rider)
-- [Chinese Airline Completes Maiden Passenger Flight with Domestically Built Plane](https://www.caixinglobal.com/2020-12-30/china-eastern-unit-completes-maiden-passenger-flight-with-domestically-built-plane-101645055.html?rkey=4jojc%2BU9Dvsngy8ZDEibRfFL%2FE7ci4pK8bNFOzBEfLyZ3HhuWefoyg%3D%3D&cxg=web&Sfrom=twitter)
-- [The Impossible Mirror Scene in 'Contact'](https://filmschoolrejects.com/contact-mirror-scene/)
-- [Show HN: PSX Party – Online Multiplayer Playstation 1 Emulator Using WebRTC](https://psxparty.kosmi.io/?ref=hn1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
