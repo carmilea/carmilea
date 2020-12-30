@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: PSX Party – Online Multiplayer Playstation 1 Emulator Using WebRTC](https://psxparty.kosmi.io/?ref=hn1)
+- [ViennaSuperiorCourt: Facebook can skip GDPR consent but must give access to data](https://noyb.eu/en/vienna-superior-court-facebook-can-bypass-gdpr-consent-must-give-access-data)
+- [Amazon still hasn’t fixed its problem with bait-and-switch reviews](https://arstechnica.com/tech-policy/2020/12/amazon-still-hasnt-fixed-its-problem-with-bait-and-switch-reviews)
 - [Stripe co-founder on how his billion-dollar company continues to evolve](https://www.irishtimes.com/business/technology/john-collison-it-is-entirely-plausible-that-you-could-set-up-stripe-in-dublin-now-1.4438722)
 - [IntelliJ Idea 2020.3.1 Is Out with Apple Silicon Support](https://blog.jetbrains.com/idea/2020/12/intellij-idea-2020-3-1/)
-- [The Scientific Case for Two Spaces After a Period](https://www.theatlantic.com/science/archive/2018/05/two-spaces-after-a-period/559304/)
-- [Nintendo's use of surveillance and private investigators to target modders](https://twitter.com/eclipse_tt/status/1341187958838321158)
-- [SameBoy – emulating how Game Boy SoC electrically interferes with the speakers](https://twitter.com/liji32/status/1344067474371846153)
 <!-- BLOG-POST-LIST:END -->
 
 ---
