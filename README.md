@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It takes a lot of energy for machines to learn](https://theconversation.com/it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry-151825)
 - [How We Built the GitHub Globe](https://github.blog/2020-12-21-how-we-built-the-github-globe/)
 - [Scammers siphoned $36B in fraudulent unemployment payments from US](https://www.usatoday.com/in-depth/news/investigations/2020/12/30/unemployment-fraud-how-international-scammers-took-36-b-us/3960263001/)
-- [Ask HN: Has anyone purchased the base M1 Mac Mini for development work?](https://news.ycombinator.com/item?id=25584421)
 - [Writing my first Gameboy Emulator](http://benwiser.com/blog/Writing-my-first-Gameboy-Emulator.html)
 - [Four-day week means 'I don't waste holidays on chores'](https://www.bbc.co.uk/news/business-55485010)
 <!-- BLOG-POST-LIST:END -->
