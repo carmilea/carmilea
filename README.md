@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scammers siphoned $36B in fraudulent unemployment payments from US](https://www.usatoday.com/in-depth/news/investigations/2020/12/30/unemployment-fraud-how-international-scammers-took-36-b-us/3960263001/)
+- [Ask HN: Has anyone purchased the base M1 Mac Mini for development work?](https://news.ycombinator.com/item?id=25584421)
 - [Four-day week means 'I don't waste holidays on chores'](https://www.bbc.co.uk/news/business-55485010)
 - [Spirals, Snowflakes and Trees: Recursion in Pictures](http://learn.hfm.io/fractals/fractals.html)
-- [Chobani Yogurt CEO Hamdi Ulukaya Is a Pro-Employee Billionaire in Expansion Mode](https://www.bloomberg.com/news/features/2020-12-24/chobani-yogurt-ceo-hamdi-ulukaya-is-a-pro-employee-billionaire-in-expansion-mode)
-- [Riding the Indie Business Rollercoaster My 2020 year in review](https://www.coryzue.com/writing/2020/)
-- [Uber Eats avoids ruling on workers' status by settling with delivery rider](https://www.theguardian.com/technology/2020/dec/30/uber-eats-avoids-landmark-ruling-on-workers-status-by-settling-case-with-delivery-rider)
+- [Sunsetting Blender Network in 2021](https://www.blender.org/press/sunsetting-blender-network-in-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
