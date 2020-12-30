@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [European Citizen's Initiative for Unconditional Basic Income](https://eci.ec.europa.eu/014/public/)
 - [Oxford-AstraZeneca coronavirus vaccine approved for use in UK](https://www.bbc.co.uk/news/health-55280671)
 - [Covid-19: Oxford-AstraZeneca coronavirus vaccine approved for use in UK](https://www.bbc.com/news/health-55280671)
 - [Ask HN: What low-code “dashboarding“ SaaS would you recommend in 2021?](https://news.ycombinator.com/item?id=25579379)
 - [ACE: Apple Type-C Port Controller Secrets](https://blog.t8012.dev/ace-part-1/)
-- [Show HN: Candymail – Email Automation for Node.js](https://saasbase.dev/candymail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
