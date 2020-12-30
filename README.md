@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What low-code “dashboarding“ SaaS would you recommend in 2021?](https://news.ycombinator.com/item?id=25579379)
+- ['Electronic amoeba' approximates traveling salesman problem in linear time](https://www.sciencedaily.com/releases/2020/12/201210112050.htm)
 - [Show HN: Candymail – Email Automation for Node.js](https://saasbase.dev/candymail)
-- [These Tech Companies Aren't Adjusting Pay When Employees Relocate](https://www.foxbusiness.com/economy/these-tech-companies-are-paying-workers-the-same-rates-across-us)
-- [Girlfriend warned Nashville police Anthony Warner was building bomb a year ago](https://www.tennessean.com/story/news/crime/2020/12/29/nashville-explosion-woman-warned-mnpd-warner-building-bomb-2019/4082253001/)
-- [GoDaddy has allegedly been socially engineered, problem still ongiong?](https://twitter.com/AdamScochran/status/1344065686663028736)
 - [Messengers of hope: two mRNA Covid-19 vaccines herald a new era for vaccinology](https://www.nature.com/articles/s41587-020-00807-1)
+- [An internal team 'hoodwinked' Bill Gates into launching the Xbox project](https://www.gamesradar.com/microsoft-xbox-edge-game-changers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
