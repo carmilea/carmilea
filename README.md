@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Relationship Hero (YC S17) is hiring relationship coaches – fully remote](https://relationshiphero.com/careers?role=coach)
-- [Baltimore police lied about almost every aspect of its spy plane program](https://www.vice.com/en/article/qjpjqd/baltimore-police-lied-about-almost-every-aspect-of-its-spy-plane-program)
-- [It takes a lot of energy for machines to learn](https://theconversation.com/it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry-151825)
-- [How We Built the GitHub Globe](https://github.blog/2020-12-21-how-we-built-the-github-globe/)
-- [Ultimate Debian Database](https://wiki.debian.org/UltimateDebianDatabase)
+- [In Poland, 8 clams are connected to the water quality alert network](https://www.polishnews.co.uk/poznan-the-clams-filter-the-water-they-check-whether-the-water-is-polluted-or-clean/)
+- [Learn Quantum Computation](https://qiskit.org/textbook/preface.html)
+- [Our Year in Review: How we’ve kept Firefox working for you in 2020](https://blog.mozilla.org/blog/2020/12/15/our-year-in-review-how-weve-kept-firefox-working-for-you-in-2020/)
+- [Flash Player is about to stop working on Windows 10](https://www.windowslatest.com/2020/12/27/adobe-flash-player-is-about-to-stop-working-on-windows-10/)
+- [Ditching Excel for Python in a legacy industry](https://amypeniston.com/ditching-excel-for-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
