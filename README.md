@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In Covid Surge, LA hospitals turn away ambulances and put patients in gift shops](https://www.latimes.com/california/story/2020-12-29/l-a-county-hospitals-at-the-breaking-point-turn-away-ambulances)
+- [GoDaddy has allegedly been socially engineered, problem still ongiong?](https://twitter.com/AdamScochran/status/1344065686663028736)
 - [Messengers of hope: two mRNA Covid-19 vaccines herald a new era for vaccinology](https://www.nature.com/articles/s41587-020-00807-1)
-- [Lying to Bill Gates to get the Xbox project approved](https://www.gamesradar.com/seamus-blackley-on-tricking-bill-gates-and-the-jedi-mind-tricks-that-were-needed-to-make-the-original-xbox/)
+- [An internal team 'hoodwinked' Bill Gates into launching the Xbox project](https://www.gamesradar.com/microsoft-xbox-edge-game-changers/)
 - [Learn 3D Computer Graphics Programming from Scratch](https://courses.pikuma.com/courses/learn-computer-graphics-programming)
 - [Visa Advertising Solutions (VAS) Opt Out](https://marketingreportoptout.visa.com/OPTOUT/request.do)
 <!-- BLOG-POST-LIST:END -->
