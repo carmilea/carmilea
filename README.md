@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo's use of surveillance and private investigators to target modders](https://twitter.com/eclipse_tt/status/1341187958838321158)
+- [SameBoy – emulating how Game Boy SoC electrically interferes with the speakers](https://twitter.com/liji32/status/1344067474371846153)
+- [“Find Satoshi” PerplexCity puzzle solved](https://findsatoshi.com/)
+- [Ask HN: What's a side project you built to make money that hasn't?](https://news.ycombinator.com/item?id=25580637)
 - [Running BSDs on AMD Ryzen 5000 Series – FreeBSD/Linux Benchmarks](https://www.phoronix.com/scan.php?page=article&item=amd-5900x-bsd)
-- [Oxford-AstraZeneca coronavirus vaccine approved for use in UK](https://www.bbc.co.uk/news/health-55280671)
-- [Ask HN: What low-code “dashboarding“ SaaS would you recommend in 2021?](https://news.ycombinator.com/item?id=25579379)
-- [ACE: Apple Type-C Port Controller Secrets](https://blog.t8012.dev/ace-part-1/)
-- [Show HN: Candymail – Email Automation for Node.js](https://saasbase.dev/candymail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
