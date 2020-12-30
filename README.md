@@ -54,8 +54,8 @@
 - [Nintendo's use of surveillance and private investigators to target modders](https://twitter.com/eclipse_tt/status/1341187958838321158)
 - [SameBoy – emulating how Game Boy SoC electrically interferes with the speakers](https://twitter.com/liji32/status/1344067474371846153)
 - [“Find Satoshi” PerplexCity puzzle solved](https://findsatoshi.com/)
-- [Ask HN: What's a side project you built to make money that hasn't?](https://news.ycombinator.com/item?id=25580637)
-- [Running BSDs on AMD Ryzen 5000 Series – FreeBSD/Linux Benchmarks](https://www.phoronix.com/scan.php?page=article&item=amd-5900x-bsd)
+- [Why make games for Linux if they don't sell?](https://www.theregister.com/2020/12/26/linux_game_development_scene/)
+- [Argentina legalises abortion in landmark moment for women's rights](https://www.theguardian.com/world/2020/dec/30/argentina-legalises-abortion-in-landmark-moment-for-womens-rights)
 <!-- BLOG-POST-LIST:END -->
 
 ---
