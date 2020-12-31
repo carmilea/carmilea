@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Buys Wondery as Podcasting Race Continues](https://www.nytimes.com/2020/12/30/business/dealbook/wondery-amazon-podcasts.html)
+- [WebAssembly Studio](https://webassembly.studio)
 - [Show HN: Sonyflake distributed unique ID generator implemented in Rust](https://github.com/bahlo/sonyflake-rs)
 - [The Theory of Interstellar Trade (1978)](https://fermatslibrary.com/s/the-theory-of-interstellar-trade)
 - [Elasticsearch new features: 2020 year in review – BigData Boutique Blog](https://blog.bigdataboutique.com/2020/12/elasticsearch-new-features-2020-year-in-review-g5wyqy)
-- [Drone users face new rules across Europe and UK](https://www.bbc.co.uk/news/technology-55424729)
-- [The Elements of Statistical Learning [pdf]](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
