@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open letter from computer scientists to ACM opposing cancel culture](https://docs.google.com/document/d/1-KM6yc416Gh1wue92DHReoyZqheIaIM23fkz0KwOpkw/edit)
+- [“Odd Radio Circles” have astronomers excited](https://singularityhub.com/2020/12/30/wtf-newly-discovered-ghostly-circles-in-the-sky-cant-be-explained-by-current-theories-and-astronomers-are-excited/)
+- [I can’t work the hours I did in 2020 again yet struggling to see how to avoid it](https://twitter.com/AkikoMHart/status/1344567257733730304)
 - [Deterministic Aperture: A distributed, load balancing algorithm](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)
 - [The Safecracker of Last Resort (2018)](https://www.theatlantic.com/technology/archive/2018/12/professional-safecracker-reveals-his-craft/577897/)
 - [Doing Python development under Mac OS](https://peter-whittaker.com/install-python-MacOS)
-- [My Favorite Books 2020](https://oleb.net/2020/favorite-books-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
