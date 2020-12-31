@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML5 still doesn't replicate what mattered about Flash](https://twitter.com/larsiusprime/status/1344404336252768257)
+- [Show HN: Diffgram – Human Supervision of AI Data](https://diffgram.com/)
+- [Uber will charge 25% starting Jan. 1 in Seattle as per minimum wage law](https://www.seattletimes.com/seattle-news/transportation/embargoed-uber-raising-its-prices-starting-jan-1/)
 - [Leading someone with more years of experience than my age](https://danielrrojas.com/2020/12/27/leading-someone-with-more-years-of-experience-than-my-age/)
 - [Clams filter the water and check whether the water is polluted or clean](https://www.polishnews.co.uk/poznan-the-clams-filter-the-water-they-check-whether-the-water-is-polluted-or-clean/)
-- [Learn Quantum Computation](https://qiskit.org/textbook/preface.html)
-- [Flash Player is about to stop working on Windows 10](https://www.windowslatest.com/2020/12/27/adobe-flash-player-is-about-to-stop-working-on-windows-10/)
-- [Ditching Excel for Python in a legacy industry](https://amypeniston.com/ditching-excel-for-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
