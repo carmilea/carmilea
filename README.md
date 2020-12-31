@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Service Centers Are Preventing Delivery Refusals in Weird Ways](https://insideevs.com/news/463589/tesla-service-centers-preventing-delivery-refusals/)
 - [Interview Transcript – Donald Knuth [pdf]](https://philipkiely.com/assets/files/WfSD_Bonus_Interview_-_Donald_Knuth.pdf)
 - [AWS Lambda Terraform Cookbook with working examples](https://github.com/nsriram/lambda-the-terraform-way)
 - [Well, Actually – Physics Answers](http://backreaction.blogspot.com/2020/12/well-actually-10-physics-answers.html)
-- [Shortformer: Better Language Modeling using Shorter Inputs [pdf]](https://ofir.io/shortformer.pdf)
-- [HTML5 still doesn't replicate what mattered about Flash](https://twitter.com/larsiusprime/status/1344404336252768257)
+- [LibrePhotos: A Self-Hosted Google Photos Alternative](https://github.com/LibrePhotos/librephotos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
