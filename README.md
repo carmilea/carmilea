@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Buys Wondery as Podcasting Race Continues](https://www.nytimes.com/2020/12/30/business/dealbook/wondery-amazon-podcasts.html)
+- [Rust 1.49.0](https://blog.rust-lang.org/2020/12/31/Rust-1.49.0.html)
+- [What Is Life? (2019)](https://berthub.eu/articles/posts/what-is-life/)
+- [Tall people are less supportive of government redistribution of wealth](https://www.sciencedirect.com/science/article/pii/S1090513820301379)
+- [The Kate Text Editor in 2020](https://kate-editor.org/post/2020/2020-12-31-kate-in-2020/)
 - [WebAssembly Studio](https://webassembly.studio)
-- [Show HN: Sonyflake distributed unique ID generator implemented in Rust](https://github.com/bahlo/sonyflake-rs)
-- [The Theory of Interstellar Trade (1978)](https://fermatslibrary.com/s/the-theory-of-interstellar-trade)
-- [Elasticsearch new features: 2020 year in review – BigData Boutique Blog](https://blog.bigdataboutique.com/2020/12/elasticsearch-new-features-2020-year-in-review-g5wyqy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
