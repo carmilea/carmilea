@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open letter from computer scientists to ACM opposing cancel culture](https://docs.google.com/document/d/1-KM6yc416Gh1wue92DHReoyZqheIaIM23fkz0KwOpkw/edit)
+- [Deterministic Aperture: A distributed, load balancing algorithm](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)
 - [The Safecracker of Last Resort (2018)](https://www.theatlantic.com/technology/archive/2018/12/professional-safecracker-reveals-his-craft/577897/)
 - [Doing Python development under Mac OS](https://peter-whittaker.com/install-python-MacOS)
 - [My Favorite Books 2020](https://oleb.net/2020/favorite-books-2020/)
-- [Ex-FBI Operative Says He Worked to Disrupt Political Activity Up to 1974 (1975)](https://www.nytimes.com/1975/02/24/archives/exoperative-says-he-worked-for-fbi-to-disrupt-political-activities.html)
-- [Happy New Year HN](https://news.ycombinator.com/item?id=25595865)
 <!-- BLOG-POST-LIST:END -->
 
 ---
