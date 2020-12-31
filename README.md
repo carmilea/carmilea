@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Great Britain road numbering scheme](https://en.wikipedia.org/wiki/Great_Britain_road_numbering_scheme)
+- [Ticketmaster will pay $10M for hacking rival ticket seller](https://www.theverge.com/2020/12/30/22206955/ticketmaster-songkick-crowdsurge-hacking-deferred-prosecution-fine)
 - [Nim in 2020: A Short Recap](https://nim-lang.org/blog/2020/12/28/nim-in-2020-a-short-recap.html)
 - [Being bilingual makes swearing easier](https://www.theguardian.com/science/blog/2017/mar/27/bad-language-why-being-bilingual-makes-swearing-easier)
-- [Why Jira Sucks](https://whyjirasucks.com/)
-- [Woolly Rhino from Ice Age Unearthed in Russian Arctic](https://www.bbc.com/news/world-europe-55490037)
-- [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
+- [RC3 talk: How to survive in spacecraft](https://media.ccc.de/v/rc3-158638-how_to_survive_in_spacecraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
