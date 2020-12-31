@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nim in 2020: A Short Recap](https://nim-lang.org/blog/2020/12/28/nim-in-2020-a-short-recap.html)
+- [Being bilingual makes swearing easier](https://www.theguardian.com/science/blog/2017/mar/27/bad-language-why-being-bilingual-makes-swearing-easier)
+- [Why Jira Sucks](https://whyjirasucks.com/)
+- [Woolly Rhino from Ice Age Unearthed in Russian Arctic](https://www.bbc.com/news/world-europe-55490037)
 - [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
-- [Tesla Service Centers Are Preventing Delivery Refusals in Weird Ways](https://insideevs.com/news/463589/tesla-service-centers-preventing-delivery-refusals/)
-- [Interview Transcript – Donald Knuth [pdf]](https://philipkiely.com/assets/files/WfSD_Bonus_Interview_-_Donald_Knuth.pdf)
-- [Firefox not planning on supporting PWA](https://bugzilla.mozilla.org/show_bug.cgi?id=1682593)
-- [AWS Lambda Terraform Cookbook with working examples](https://github.com/nsriram/lambda-the-terraform-way)
 <!-- BLOG-POST-LIST:END -->
 
 ---
