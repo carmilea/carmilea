@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mitsubishi Heavy to build biggest zero-carbon steel plant](https://asia.nikkei.com/Spotlight/Environment/Climate-Change/Mitsubishi-Heavy-to-build-biggest-zero-carbon-steel-plant)
-- [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)
-- [Great Britain road numbering scheme](https://en.wikipedia.org/wiki/Great_Britain_road_numbering_scheme)
-- [Shamelessness as a Strategy (2019)](https://nadiaeghbal.com/shameless)
-- [Ticketmaster will pay $10M for hacking rival ticket seller](https://www.theverge.com/2020/12/30/22206955/ticketmaster-songkick-crowdsurge-hacking-deferred-prosecution-fine)
+- [Show HN: Sonyflake distributed unique ID generator implemented in Rust](https://github.com/bahlo/sonyflake-rs)
+- [The Theory of Interstellar Trade (1978)](https://fermatslibrary.com/s/the-theory-of-interstellar-trade)
+- [Elasticsearch new features: 2020 year in review – BigData Boutique Blog](https://blog.bigdataboutique.com/2020/12/elasticsearch-new-features-2020-year-in-review-g5wyqy)
+- [Drone users face new rules across Europe and UK](https://www.bbc.co.uk/news/technology-55424729)
+- [The Elements of Statistical Learning [pdf]](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
