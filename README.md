@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Msmtp: About Authentication Methods](https://marlam.de/msmtp/news/about-authentication/)
-- [Erdoğan’s censorship now targeting media outlets in Europe](https://www.turkishminute.com/2020/12/31/erdogans-censorship-now-targeting-media-outlets-in-europe/)
-- [Apple Took Three Years to Cut Ties with Supplier That Used Underage Labor](https://www.theinformation.com/articles/apple-took-three-years-to-cut-ties-with-supplier-that-used-underage-labor)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [Boys are trailing girls in their academic performance: why? [audio]](https://www.bbc.co.uk/programmes/w3cszl4l)
+- [My Favorite Books 2020](https://oleb.net/2020/favorite-books-2020/)
+- [Ex-FBI Operative Says He Worked to Disrupt Political Activity Up to 1974 (1975)](https://www.nytimes.com/1975/02/24/archives/exoperative-says-he-worked-for-fbi-to-disrupt-political-activities.html)
+- [Pure Digital CSS, Swiss Made, Clock. No JavaScript, No HTML](https://www.quaxio.com/pure_css_digital_clock.html)
+- [SolarWinds hackers were able to access Microsoft source code](https://www.reuters.com/article/us-global-cyber-microsoft/solarwinds-hackers-were-able-to-access-microsoft-source-code-microsoft-blog-post-idUSKBN2951M9)
+- [Autofocus for the 16mm Telephoto Lens Mounted on the Raspberry Pi HQ Camera](https://lemariva.com/blog/2020/12/raspberry-pi-hq-camera-autofocus-telephoto-lens)
 <!-- BLOG-POST-LIST:END -->
 
 ---
