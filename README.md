@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MF Doom Has Died](https://consequenceofsound.net/2020/12/mf-doom-dead-obituary/)
+- [Bitcoin is a disaster](https://www.metzdowd.com/pipermail/cryptography/2020-December/036510.html)
 - [“Odd Radio Circles” have astronomers excited](https://singularityhub.com/2020/12/30/wtf-newly-discovered-ghostly-circles-in-the-sky-cant-be-explained-by-current-theories-and-astronomers-are-excited/)
 - [I can’t work the hours I did in 2020 again yet struggling to see how to avoid it](https://twitter.com/AkikoMHart/status/1344567257733730304)
 - [Deterministic Aperture: A distributed, load balancing algorithm](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)
-- [The Safecracker of Last Resort (2018)](https://www.theatlantic.com/technology/archive/2018/12/professional-safecracker-reveals-his-craft/577897/)
-- [Doing Python development under Mac OS](https://peter-whittaker.com/install-python-MacOS)
 <!-- BLOG-POST-LIST:END -->
 
 ---
