@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FCC orders phone companies to help trace illegal robocallers](https://www.engadget.com/fcc-illegal-robocalls-tracing-new-rules-122542768.html)
-- [Tim Berners-Lee on 30 years of the web: 'We can get the web we want' (2019)](https://www.theguardian.com/technology/2019/mar/12/tim-berners-lee-on-30-years-of-the-web-if-we-dream-a-little-we-can-get-the-web-we-want)
-- [Hospital employee fired for ‘intentionally’ ruining 500 doses of vaccine](https://www.washingtonpost.com/nation/2020/12/31/covid-vaccines-destroyed-wisconsin-hospital/#click=https://t.co/F4ZJXST2tX)
-- [Small test reacter using cyanobacteria](https://www.mikechatzidakis.com/home/2017/7/29/spirulina-algae-photobioreactor)
-- [Rust 1.49.0](https://blog.rust-lang.org/2020/12/31/Rust-1.49.0.html)
+- [Msmtp: About Authentication Methods](https://marlam.de/msmtp/news/about-authentication/)
+- [Erdoğan’s censorship now targeting media outlets in Europe](https://www.turkishminute.com/2020/12/31/erdogans-censorship-now-targeting-media-outlets-in-europe/)
+- [Apple Took Three Years to Cut Ties with Supplier That Used Underage Labor](https://www.theinformation.com/articles/apple-took-three-years-to-cut-ties-with-supplier-that-used-underage-labor)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [Boys are trailing girls in their academic performance: why? [audio]](https://www.bbc.co.uk/programmes/w3cszl4l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
