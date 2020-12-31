@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Even If It's 'Bonkers,' Poll Finds Many Believe QAnon, Other Conspiracy Theories](https://www.npr.org/2020/12/30/951095644/even-if-its-bonkers-poll-finds-many-believe-qanon-and-other-conspiracy-theories)
 - [Show HN: AWS Lambda Terraform Cookbook with working examples](https://github.com/nsriram/lambda-the-terraform-way)
+- [Well, Actually. 10 Physics Answers](http://backreaction.blogspot.com/2020/12/well-actually-10-physics-answers.html)
 - [Shortformer: Better Language Modeling using Shorter Inputs [pdf]](https://ofir.io/shortformer.pdf)
 - [Distilleries that made hand sanitizer charged $14k surprise fee by FDA](https://reason.com/2020/12/30/when-there-wasnt-enough-hand-sanitizer-distilleries-stepped-up-now-theyre-facing-14060-fda-fees/)
-- [HTML5 still doesn't replicate what mattered about Flash](https://twitter.com/larsiusprime/status/1344404336252768257)
-- [Show HN: Diffgram – Human Supervision of AI Data](https://diffgram.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
