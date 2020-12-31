@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mitsubishi Heavy to build biggest zero-carbon steel plant](https://asia.nikkei.com/Spotlight/Environment/Climate-Change/Mitsubishi-Heavy-to-build-biggest-zero-carbon-steel-plant)
+- [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)
 - [Great Britain road numbering scheme](https://en.wikipedia.org/wiki/Great_Britain_road_numbering_scheme)
+- [Shamelessness as a Strategy (2019)](https://nadiaeghbal.com/shameless)
 - [Ticketmaster will pay $10M for hacking rival ticket seller](https://www.theverge.com/2020/12/30/22206955/ticketmaster-songkick-crowdsurge-hacking-deferred-prosecution-fine)
-- [Nim in 2020: A Short Recap](https://nim-lang.org/blog/2020/12/28/nim-in-2020-a-short-recap.html)
-- [Being bilingual makes swearing easier](https://www.theguardian.com/science/blog/2017/mar/27/bad-language-why-being-bilingual-makes-swearing-easier)
-- [RC3 talk: How to survive in spacecraft](https://media.ccc.de/v/rc3-158638-how_to_survive_in_spacecraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
