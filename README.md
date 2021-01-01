@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NY State Assembly Bill A416](https://www.nysenate.gov/legislation/bills/2021/a416)
+- [Modern Treasury (YC S18) is hiring an experienced product designer](https://angel.co/company/moderntreasury/jobs/1102956-product-designer)
+- [Things I Didn't Learn in 2020](https://damnoptimist.substack.com/p/8-things-i-didnt-learn-in-2020)
 - [Apple has threatened to remove Amphetamine from the App Store](https://github.com/x74353/SaveAmphetamine)
 - [School or Prison](https://www.schoolprison.com/)
-- [Artichoke is a Ruby made with Rust that compiles to WebAssembly](https://github.com/artichoke/artichoke)
-- [Show HN: Scanning the Web for Security.txt Files](https://github.com/62726164/a-survey-of-security-dot-txt)
+- [Politician's Syllogism](https://en.wikipedia.org/wiki/Politician%27s_syllogism)
 <!-- BLOG-POST-LIST:END -->
 
 ---
