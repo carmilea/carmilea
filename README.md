@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AirPods Max are no match for my AirPods](https://merecivilian.com/airpodsmax/)
+- [Raycast (YC W20) is hiring to make developers more productive](https://raycast.com/jobs)
 - [The naval shipworm helped bring about the Industrial Revolution](https://twitter.com/davidfickling/status/1344404814256504832)
 - [The largest dam-removal in US history](https://www.bbc.com/future/article/20201110-the-largest-dam-removal-project-in-american-history)
 - [TabFS: Mount your Browser Tabs as a Filesystem](https://omar.website/tabfs/)
