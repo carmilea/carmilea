@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eagle Cash](https://en.wikipedia.org/wiki/Eagle_Cash)
 - [Raycast (YC W20) is hiring to make developers more productive](https://raycast.com/jobs)
+- [Sparse Matrices](https://matteding.github.io/2019/04/25/sparse-matrices)
 - [The naval shipworm helped bring about the Industrial Revolution](https://twitter.com/davidfickling/status/1344404814256504832)
 - [The largest dam-removal in US history](https://www.bbc.com/future/article/20201110-the-largest-dam-removal-project-in-american-history)
-- [TabFS: Mount your Browser Tabs as a Filesystem](https://omar.website/tabfs/)
-- [Most of what you read on the internet is written by insane people (2018)](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
