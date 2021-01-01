@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ToriLisp – an ersatz Lisp for tiny birds](http://blog.fogus.me/2020/12/22/torilisp-an-ersatz-lisp-for-tiny-birds/)
+- [Show HN: Stasis, a simple static site generator with deployment to S3/CloudFront](https://github.com/czep/stasis)
+- [The World's current and next Innovations depend on a single country, Taiwan](https://erickhun.com/posts/world-innovation-taiwan-semiconductors/)
 - [George Orwell is out of copyright. What happens now?](https://www.theguardian.com/books/booksblog/2021/jan/01/george-orwell-is-out-of-copyright-what-happens-now)
 - [Running Debian on a 32MB RAM Single Core ARM SBC](https://blog.jmdawson.co.uk/lichee-nano-pi-will-it-run-debian/)
-- [Distcc – distribute builds across multiple machines simultaneously (2006)](https://distcc.github.io/)
-- [EU Signs €145bn Declaration to Develop Next Gen Processors and 2nm Technology](https://www.eetimes.eu/eu-signs-e145bn-declaration-to-develop-next-gen-processors-and-2nm-technology/)
-- [Zynga shuts down FarmVille after 11 years](https://twitter.com/markpinc/status/1344742333443493889)
 <!-- BLOG-POST-LIST:END -->
 
 ---
