@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU Signs €145bn Declaration to Develop Next Gen Processors and 2nm Technology](https://www.eetimes.eu/eu-signs-e145bn-declaration-to-develop-next-gen-processors-and-2nm-technology/)
+- [Zynga shuts down FarmVille after 11 years](https://twitter.com/markpinc/status/1344742333443493889)
 - [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
-- [Fired App Reviewer Sues Apple](https://mjtsai.com/blog/2020/12/31/fired-app-reviewer-sues-apple/)
-- [State machines are wonderful tools](https://nullprogram.com/blog/2020/12/31/)
-- [2021: CA law restricts delivery apps from listing restaurants without permission](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB2149)
-- [When You’re Outnumbered: Lessons from Two British Masters of Irregular Warfare](https://warontherocks.com/2020/08/when-youre-outnumbered-lessons-from-two-british-masters-of-irregular-warfare/)
+- [Concurrencpp v0.0.9 – Modern concurrency for C++](https://github.com/David-Haim/concurrencpp)
+- [White House wins ruling on disclosing health care prices](https://apnews.com/article/donald-trump-politics-kayleigh-mcenany-courts-f0700210fe86004255f68f15d12e9932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
