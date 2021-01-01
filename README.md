@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After embracing remote work in 2020 companies face conflicts making it permanent](https://venturebeat.com/2021/01/01/after-embracing-remote-work-in-2020-companies-face-conflicts-making-it-permanent/)
+- [Legalist (YC S16) Is Hiring a VP of Sales](https://angel.co/company/legalist/jobs/436631-vp-of-sales)
 - [Desalination Breakthrough Could Lead to Cheaper Water Filtration](https://news.utexas.edu/2020/12/31/desalination-breakthrough-could-lead-to-cheaper-water-filtration/)
 - [Embed Flash SWF content without the Plugin](https://developers.ibexa.co/blog/embed-flash-swf-content-without-adobe-plugin)
 - [ToriLisp – an ersatz Lisp for tiny birds](http://blog.fogus.me/2020/12/22/torilisp-an-ersatz-lisp-for-tiny-birds/)
-- [The parenting style that creates leaders](https://www.bbc.com/worklife/article/20200406-what-leader-are-you-it-depends-on-your-parents)
-- [Show HN: Stasis, a simple static site generator with deployment to S3/CloudFront](https://github.com/czep/stasis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
