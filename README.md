@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [2021: CA law restricts delivery apps from listing restaurants without permission](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB2149)
+- [When You’re Outnumbered: Lessons from Two British Masters of Irregular Warfare](https://warontherocks.com/2020/08/when-youre-outnumbered-lessons-from-two-british-masters-of-irregular-warfare/)
 - [Eagle Cash](https://en.wikipedia.org/wiki/Eagle_Cash)
 - [Raycast (YC W20) is hiring to make developers more productive](https://raycast.com/jobs)
 - [Sparse Matrices](https://matteding.github.io/2019/04/25/sparse-matrices)
-- [The naval shipworm helped bring about the Industrial Revolution](https://twitter.com/davidfickling/status/1344404814256504832)
 <!-- BLOG-POST-LIST:END -->
 
 ---
