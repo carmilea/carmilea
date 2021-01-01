@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Scanning the Web for Security.txt Files](https://github.com/62726164/a-survey-of-security-dot-txt)
+- [Rapture of the Deep (2003)](https://vault.si.com/vault/2003/06/16/rapture-deep-carried-away-love-risk-and-each-other-two-worlds-best-freedivers-went-limits-their)
+- [Peer-reviewed papers are getting increasingly boring](https://lemire.me/blog/2021/01/01/peer-reviewed-papers-are-getting-increasingly-boring/)
+- [Simjacker vulnerability exploited by surveillance companies](https://simjacker.com)
 - [After embracing remote work in 2020 companies face conflicts making it permanent](https://venturebeat.com/2021/01/01/after-embracing-remote-work-in-2020-companies-face-conflicts-making-it-permanent/)
-- [Legalist (YC S16) Is Hiring a VP of Sales](https://angel.co/company/legalist/jobs/436631-vp-of-sales)
-- [Desalination Breakthrough Could Lead to Cheaper Water Filtration](https://news.utexas.edu/2020/12/31/desalination-breakthrough-could-lead-to-cheaper-water-filtration/)
-- [Embed Flash SWF content without the Plugin](https://developers.ibexa.co/blog/embed-flash-swf-content-without-adobe-plugin)
-- [ToriLisp – an ersatz Lisp for tiny birds](http://blog.fogus.me/2020/12/22/torilisp-an-ersatz-lisp-for-tiny-birds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
