@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple has threatened to remove Amphetamine from the App Store](https://github.com/x74353/SaveAmphetamine)
+- [Artichoke is a Ruby made with Rust that compiles to WebAssembly](https://github.com/artichoke/artichoke)
 - [Show HN: Scanning the Web for Security.txt Files](https://github.com/62726164/a-survey-of-security-dot-txt)
 - [Rapture of the Deep (2003)](https://vault.si.com/vault/2003/06/16/rapture-deep-carried-away-love-risk-and-each-other-two-worlds-best-freedivers-went-limits-their)
 - [Peer-reviewed papers are getting increasingly boring](https://lemire.me/blog/2021/01/01/peer-reviewed-papers-are-getting-increasingly-boring/)
-- [Simjacker vulnerability exploited by surveillance companies](https://simjacker.com)
-- [After embracing remote work in 2020 companies face conflicts making it permanent](https://venturebeat.com/2021/01/01/after-embracing-remote-work-in-2020-companies-face-conflicts-making-it-permanent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
