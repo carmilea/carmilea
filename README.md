@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Short Sellers Lost $38B in 2020 as Stock Surged](https://finance.yahoo.com/news/tesla-short-sellers-lost-38-120733160.html)
+- [Most of What You Read on the Internet Is Written by Insane People](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/)
+- [How to write good prompts: using spaced repetition to create understanding](https://andymatuschak.org/prompts/)
 - [The Design of the Roland Juno Syntheziser's Oscillators](https://blog.thea.codes/the-design-of-the-juno-dco/)
+- [Reverse Engineering Source Code of the Biontech Pfizer Vaccine: Part 2](https://berthub.eu/articles/posts/part-2-reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
 - [MF DOOM Has Died](https://consequenceofsound.net/2020/12/mf-doom-dead-obituary/)
-- [Bitcoin is a disaster](https://www.metzdowd.com/pipermail/cryptography/2020-December/036510.html)
-- [“Odd Radio Circles” have astronomers excited](https://singularityhub.com/2020/12/30/wtf-newly-discovered-ghostly-circles-in-the-sky-cant-be-explained-by-current-theories-and-astronomers-are-excited/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
