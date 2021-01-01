@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Desalination Breakthrough Could Lead to Cheaper Water Filtration](https://news.utexas.edu/2020/12/31/desalination-breakthrough-could-lead-to-cheaper-water-filtration/)
+- [Embed Flash SWF content without the Plugin](https://developers.ibexa.co/blog/embed-flash-swf-content-without-adobe-plugin)
 - [ToriLisp – an ersatz Lisp for tiny birds](http://blog.fogus.me/2020/12/22/torilisp-an-ersatz-lisp-for-tiny-birds/)
+- [The parenting style that creates leaders](https://www.bbc.com/worklife/article/20200406-what-leader-are-you-it-depends-on-your-parents)
 - [Show HN: Stasis, a simple static site generator with deployment to S3/CloudFront](https://github.com/czep/stasis)
-- [The World's current and next Innovations depend on a single country, Taiwan](https://erickhun.com/posts/world-innovation-taiwan-semiconductors/)
-- [George Orwell is out of copyright. What happens now?](https://www.theguardian.com/books/booksblog/2021/jan/01/george-orwell-is-out-of-copyright-what-happens-now)
-- [Running Debian on a 32MB RAM Single Core ARM SBC](https://blog.jmdawson.co.uk/lichee-nano-pi-will-it-run-debian/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
