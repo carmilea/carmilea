@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Most of What You Read on the Internet Is Written by Insane People](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/)
+- [The naval shipworm helped bring about the Industrial Revolution](https://twitter.com/davidfickling/status/1344404814256504832)
+- [The largest dam-removal in US history](https://www.bbc.com/future/article/20201110-the-largest-dam-removal-project-in-american-history)
+- [TabFS: Mount your Browser Tabs as a Filesystem](https://omar.website/tabfs/)
+- [Most of what you read on the internet is written by insane people (2018)](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/)
 - [How to write good prompts: using spaced repetition to create understanding](https://andymatuschak.org/prompts/)
-- [Best of HN 2020](https://hn.algolia.com/?dateEnd=1609415804&dateRange=custom&dateStart=1577836800&page=0&prefix=false&query=&sort=byPopularity&type=story)
-- [The Design of the Roland Juno Syntheziser's Oscillators](https://blog.thea.codes/the-design-of-the-juno-dco/)
-- [Reverse Engineering Source Code of the Biontech Pfizer Vaccine: Part 2](https://berthub.eu/articles/posts/part-2-reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
