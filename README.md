@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Pile: An 800GB Dataset of Diverse Text for Language Modeling](http://pile.eleuther.ai/)
+- [Anti-Aging: State of the Art](https://www.lesswrong.com/posts/RcifQCKkRc9XTjxC2/anti-aging-state-of-the-art)
 - [A megacorp is not your dream job](https://drewdevault.com/2021/01/01/Megacorps-are-not-your-dream-job.html)
 - [Modern Treasury (YC S18) is hiring an experienced product designer](https://angel.co/company/moderntreasury/jobs/1102956-product-designer)
 - [Crossing 2000 Miles of Siberia to Reach One of the Most Isolated Cities on Earth](https://www.thedrive.com/news/38035/russian-off-roaders-crossed-2000-miles-of-siberia-to-reach-one-of-the-most-isolated-cities-on-earth)
-- [Things I Didn't Learn in 2020](https://damnoptimist.substack.com/p/8-things-i-didnt-learn-in-2020)
-- [Apple has threatened to remove Amphetamine from the App Store](https://github.com/x74353/SaveAmphetamine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
