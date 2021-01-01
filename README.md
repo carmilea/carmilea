@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AirPods Max are no match for my AirPods](https://merecivilian.com/airpodsmax/)
 - [The naval shipworm helped bring about the Industrial Revolution](https://twitter.com/davidfickling/status/1344404814256504832)
 - [The largest dam-removal in US history](https://www.bbc.com/future/article/20201110-the-largest-dam-removal-project-in-american-history)
 - [TabFS: Mount your Browser Tabs as a Filesystem](https://omar.website/tabfs/)
 - [Most of what you read on the internet is written by insane people (2018)](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/)
-- [How to write good prompts: using spaced repetition to create understanding](https://andymatuschak.org/prompts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
