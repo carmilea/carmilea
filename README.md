@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [George Orwell is out of copyright. What happens now?](https://www.theguardian.com/books/booksblog/2021/jan/01/george-orwell-is-out-of-copyright-what-happens-now)
+- [Running Debian on a 32MB RAM Single Core ARM SBC](https://blog.jmdawson.co.uk/lichee-nano-pi-will-it-run-debian/)
+- [Distcc – distribute builds across multiple machines simultaneously (2006)](https://distcc.github.io/)
 - [EU Signs €145bn Declaration to Develop Next Gen Processors and 2nm Technology](https://www.eetimes.eu/eu-signs-e145bn-declaration-to-develop-next-gen-processors-and-2nm-technology/)
 - [Zynga shuts down FarmVille after 11 years](https://twitter.com/markpinc/status/1344742333443493889)
-- [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
-- [Concurrencpp v0.0.9 – Modern concurrency for C++](https://github.com/David-Haim/concurrencpp)
-- [White House wins ruling on disclosing health care prices](https://apnews.com/article/donald-trump-politics-kayleigh-mcenany-courts-f0700210fe86004255f68f15d12e9932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
