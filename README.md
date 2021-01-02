@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Successful one-person online businesses in 2021?](https://news.ycombinator.com/item?id=25614966)
+- [When Birds Migrated to the Moon](https://thereader.mitpress.mit.edu/when-birds-migrated-to-the-moon/)
 - [Smart spaces will fine petrol car owners illegally parking in electric bays](https://www.thetimes.co.uk/edition/news/smart-spaces-will-fine-drivers-illegally-parking-in-electric-bays-r7t9rwqkf)
 - [Why Markets Boomed in a Year of Human Misery](https://www.nytimes.com/2021/01/01/upshot/why-markets-boomed-2020.html)
-- [Show HN: I shot high-res stitched panoramas in Iceland using a thermal camera](https://petapixel.com/2019/07/13/shooting-high-res-thermal-photos-of-iceland-to-show-nature-at-work/?q=5)
-- [CoinTracker Is Hiring (YC W18, Crypto Portfolio Manager, Remote)](https://www.cointracker.io/careers)
-- [50 Years of Text Games – A 2021 Journey from Oregon Trail to A.I. Dungeon](https://if50.substack.com/p/introduction)
+- [The Conspiracy Theory Handbook](https://www.climatechangecommunication.org/conspiracy-theory-handbook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
