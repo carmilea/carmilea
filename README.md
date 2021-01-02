@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US passes anti-corruption law that effectively bans anonymous shell companies](https://www.independent.co.uk/news/world/americas/us-passes-historic-anti-corruption-legislation-that-effectively-bans-anonymous-shell-companies-b1781380.html)
 - [Virtual Environments Demystified](https://meribold.org/python/2018/02/13/virtual-environments-9487/)
 - [Create Terraform files using Python scripts](https://github.com/mjuenema/python-terrascript)
 - [Koan: A word2vec negative sampling implementation with correct CBOW update](https://github.com/bloomberg/koan)
 - [A review of endianness bugs in Qt, and how they were fixed](https://mitya57.me/weblog/2021/01/qt-big-endian-history.html)
-- [How Graphviz thinks the USA is laid out](https://shitpost.plover.com/g/graphviz-usa.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
