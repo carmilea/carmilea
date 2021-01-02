@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Simple and Dynamic Method for Consistent Productivity](https://matthewsaltz.wordpress.com/2020/11/24/a-simple-and-dynamic-method-for-consistent-productivity/)
+- [How Ray Kurzweil's 2019 predictions are faring](https://www.militantfuturist.com/how-ray-kurzweils-2019-predictions-are-faring-pt-4/)
 - [Peter M. Neumann, 1940–2020](https://rjlipton.wordpress.com/2021/01/01/peter-m-neumann-1940-2020/)
-- [California reports 585 coronavirus deaths, new single-day record in state](https://ktla.com/news/california/california-reports-585-coronavirus-deaths-new-single-day-record-in-state/)
 - [F# for fun and profit: Terms and Conditions](https://fsharpforfunandprofit.com/about/terms/)
 - [Horrifying PDF Experiments](https://github.com/osnr/horrifying-pdf-experiments)
-- [Cscope: A developer's tool for browsing source code](http://cscope.sourceforge.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
