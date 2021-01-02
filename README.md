@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding time for creativity will give you respite from worries](https://www.theguardian.com/lifeandstyle/2021/jan/02/finding-time-for-creativity-will-give-you-respite-from-worries)
+- [France planning new aircraft carrier](https://ukdefencejournal.org.uk/france-planning-new-aircraft-carrier/)
+- [Pixar's Render Farm](https://twitter.com/pixprin/status/1345146328058269696)
+- [Mexican doctor hospitalized after receiving Covid-19 vaccine](https://www.reuters.com/article/health-coronavirus-mexico-vaccines/mexican-doctor-hospitalized-after-receiving-covid-19-vaccine-idUSKBN2970H3)
 - [Why Openstreetmap as a product fails to compete with Google Maps – part 1/3](https://bedogged.substack.com/p/the-mobile-map-app-part-i-the-void)
 - [Ask HN: Successful one-person online businesses in 2021?](https://news.ycombinator.com/item?id=25614966)
-- [When Birds Migrated to the Moon](https://thereader.mitpress.mit.edu/when-birds-migrated-to-the-moon/)
-- [Smart spaces will fine petrol car owners illegally parking in electric bays](https://www.thetimes.co.uk/edition/news/smart-spaces-will-fine-drivers-illegally-parking-in-electric-bays-r7t9rwqkf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
