@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [F# for fun and profit: Terms and Conditions](https://fsharpforfunandprofit.com/about/terms/)
 - [Horrifying PDF Experiments](https://github.com/osnr/horrifying-pdf-experiments)
 - [Cscope: A developer's tool for browsing source code](http://cscope.sourceforge.net/)
 - [Getting Started in Robotics](https://allshire.org/getting-started-robotics/)
 - [One Year of Excalidraw](https://blog.excalidraw.com/one-year-of-excalidraw/)
-- [The Great Software Stagnation](https://alarmingdevelopment.org/?p=1475)
 <!-- BLOG-POST-LIST:END -->
 
 ---
