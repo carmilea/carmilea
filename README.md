@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding time for creativity will give you respite from worries](https://www.theguardian.com/lifeandstyle/2021/jan/02/finding-time-for-creativity-will-give-you-respite-from-worries)
+- [Why Openstreetmap as a product fails to compete with Google Maps – part 1/3](https://bedogged.substack.com/p/the-mobile-map-app-part-i-the-void)
 - [Ask HN: Successful one-person online businesses in 2021?](https://news.ycombinator.com/item?id=25614966)
 - [When Birds Migrated to the Moon](https://thereader.mitpress.mit.edu/when-birds-migrated-to-the-moon/)
 - [Smart spaces will fine petrol car owners illegally parking in electric bays](https://www.thetimes.co.uk/edition/news/smart-spaces-will-fine-drivers-illegally-parking-in-electric-bays-r7t9rwqkf)
-- [Why Markets Boomed in a Year of Human Misery](https://www.nytimes.com/2021/01/01/upshot/why-markets-boomed-2020.html)
-- [The Conspiracy Theory Handbook](https://www.climatechangecommunication.org/conspiracy-theory-handbook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
