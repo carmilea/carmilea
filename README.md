@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CVE Stuffing](https://jerrygamblin.com/2020/12/17/cve-stuffing/)
+- [Open Source Smartwatch](https://www.pine64.org/pinetime/)
 - [Lets talk about changelogs (how I loathe 'bugfixes and performance improvements)](https://raymii.org/s/blog/Rant_Lets_talk_about_changelogs.html)
-- [Brexit VAT rules: shipping notice on a Dutch ecommerce store](https://twitter.com/uk_domain_names/status/1345149939064713217)
 - [US passes anti-corruption law that effectively bans anonymous shell companies](https://www.independent.co.uk/news/world/americas/us-passes-historic-anti-corruption-legislation-that-effectively-bans-anonymous-shell-companies-b1781380.html)
 - [Antique Ticker Tape Machines](https://www.justcollecting.com/antiques/antique-ticker-tape-machines)
-- [Virtual Environments Demystified](https://meribold.org/python/2018/02/13/virtual-environments-9487/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
