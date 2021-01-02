@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UE4 – Astronaut explorer game prototype](https://www.youtube.com/watch?v=Hjr2_A6mS0U)
-- [The Yale Manual for Psilocybin-Assisted Therapy of Depression](https://psyarxiv.com/u6v9y)
-- [Setting up personal OKR (objectives and key-results)](https://hackpravj.com/blog/personal-okr-2021-plan/)
-- [WSL2 corrupting Git repositories and shell history](https://github.com/microsoft/WSL2-Linux-Kernel/issues/168)
-- [Facebook's advertising integrity chief leaves company](https://www.reuters.com/article/us-facebook-executive-idUSKBN2962M6)
+- [Smart spaces will fine petrol car owners illegally parking in electric bays](https://www.thetimes.co.uk/edition/news/smart-spaces-will-fine-drivers-illegally-parking-in-electric-bays-r7t9rwqkf)
+- [Why Markets Boomed in a Year of Human Misery](https://www.nytimes.com/2021/01/01/upshot/why-markets-boomed-2020.html)
+- [Show HN: I shot high-res stitched panoramas in Iceland using a thermal camera](https://petapixel.com/2019/07/13/shooting-high-res-thermal-photos-of-iceland-to-show-nature-at-work/?q=5)
+- [CoinTracker Is Hiring (YC W18, Crypto Portfolio Manager, Remote)](https://www.cointracker.io/careers)
+- [50 Years of Text Games – A 2021 Journey from Oregon Trail to A.I. Dungeon](https://if50.substack.com/p/introduction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
