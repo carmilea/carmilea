@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Phone addiction linked to over a dozen psychological and physical problems](https://cognitiontoday.com/phone-addiction-coping-solutions-research-statistics/)
-- [The Plague Year](https://www.newyorker.com/magazine/2021/01/04/the-plague-year)
-- [Pixar's Render Farm](https://twitter.com/pixprin/status/1345146328058269696)
-- [Stylebot on Firefox (apply custom css on webpages)](https://addons.mozilla.org/en-US/firefox/addon/stylebot-web/)
-- [Why Openstreetmap as a product fails to compete with Google Maps – part 1/3](https://bedogged.substack.com/p/the-mobile-map-app-part-i-the-void)
+- [It’s Official: Pentagon Puts F-35 Full-Rate Production Decision on Hold](https://www.thedrive.com/the-war-zone/38507/its-official-pentagon-puts-f-35-full-rate-production-decision-on-hold)
+- [France Hits Record 19.2% EV Share in December – Up Almost 6× Year on Year](https://cleantechnica.com/2021/01/02/france-hits-record-19-2-ev-share-in-december-up-almost-6x-year-on-year/)
+- [Backdoor account discovered in more than 100k Zyxel firewalls, VPN gateways](https://www.zdnet.com/article/backdoor-account-discovered-in-more-than-100000-zyxel-firewalls-vpn-gateways/)
+- [South Korea now has 11M 5G subscribers](https://www.telecomlead.com/5g/south-korea-has-11-mn-5g-subscribers-98257)
+- [Python – Create large ZIP archives without memory inflation](https://github.com/BuzonIO/zipfly#lib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
