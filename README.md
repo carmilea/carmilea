@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s Official: Pentagon Puts F-35 Full-Rate Production Decision on Hold](https://www.thedrive.com/the-war-zone/38507/its-official-pentagon-puts-f-35-full-rate-production-decision-on-hold)
+- [How your startup can survive technical debt](https://andreschweighofer.com/tech/how-your-startup-can-survive-technical-debt/)
+- [The Eerie Beauty of the Apple Watch Solar Face, and the Anatomy of Nightfall](https://www.hodinkee.com/articles/the-eerie-beauty-of-the-apple-watch-solar-face-and-the-anatomy-of-nightfall)
+- [Tunguska: Ternary Computer Emulator](http://tunguska.sourceforge.net/about.html)
+- [Pentagon Puts F-35 Full-Rate Production Decision on Hold](https://www.thedrive.com/the-war-zone/38507/its-official-pentagon-puts-f-35-full-rate-production-decision-on-hold)
 - [France Hits Record 19.2% EV Share in December – Up Almost 6× Year on Year](https://cleantechnica.com/2021/01/02/france-hits-record-19-2-ev-share-in-december-up-almost-6x-year-on-year/)
-- [Backdoor account discovered in more than 100k Zyxel firewalls, VPN gateways](https://www.zdnet.com/article/backdoor-account-discovered-in-more-than-100000-zyxel-firewalls-vpn-gateways/)
-- [South Korea now has 11M 5G subscribers](https://www.telecomlead.com/5g/south-korea-has-11-mn-5g-subscribers-98257)
-- [Python – Create large ZIP archives without memory inflation](https://github.com/BuzonIO/zipfly#lib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
