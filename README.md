@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Compiled, buildtime atomic CSS in JavaScript and all your favorite APIs](https://compiledcssinjs.com/)
+- [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+- [Best Paper Awards in Computer Science in the Past 25 Years (1996-2020)](https://jeffhuang.com/best_paper_awards/)
 - [A Simple and Dynamic Method for Consistent Productivity](https://matthewsaltz.wordpress.com/2020/11/24/a-simple-and-dynamic-method-for-consistent-productivity/)
 - [How Ray Kurzweil's 2019 predictions are faring](https://www.militantfuturist.com/how-ray-kurzweils-2019-predictions-are-faring-pt-4/)
-- [Peter M. Neumann, 1940–2020](https://rjlipton.wordpress.com/2021/01/01/peter-m-neumann-1940-2020/)
-- [F# for fun and profit: Terms and Conditions](https://fsharpforfunandprofit.com/about/terms/)
-- [Horrifying PDF Experiments](https://github.com/osnr/horrifying-pdf-experiments)
 <!-- BLOG-POST-LIST:END -->
 
 ---
