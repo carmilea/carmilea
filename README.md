@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Environments Demystified](https://meribold.org/python/2018/02/13/virtual-environments-9487/)
+- [Create Terraform files using Python scripts](https://github.com/mjuenema/python-terrascript)
+- [A review of endianness bugs in Qt, and how they were fixed](https://mitya57.me/weblog/2021/01/qt-big-endian-history.html)
+- [How Graphviz thinks the USA is laid out](https://shitpost.plover.com/g/graphviz-usa.html)
 - [C2nim: A tool to translate ANSI C code to Nim](https://github.com/nim-lang/c2nim)
-- [Show HN: Compiled, buildtime atomic CSS in JavaScript and all your favorite APIs](https://compiledcssinjs.com/)
-- [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
-- [Best Paper Awards in Computer Science in the Past 25 Years (1996-2020)](https://jeffhuang.com/best_paper_awards/)
-- [A Simple and Dynamic Method for Consistent Productivity](https://matthewsaltz.wordpress.com/2020/11/24/a-simple-and-dynamic-method-for-consistent-productivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
