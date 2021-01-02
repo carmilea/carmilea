@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Peter M. Neumann, 1940–2020](https://rjlipton.wordpress.com/2021/01/01/peter-m-neumann-1940-2020/)
+- [California reports 585 coronavirus deaths, new single-day record in state](https://ktla.com/news/california/california-reports-585-coronavirus-deaths-new-single-day-record-in-state/)
 - [F# for fun and profit: Terms and Conditions](https://fsharpforfunandprofit.com/about/terms/)
 - [Horrifying PDF Experiments](https://github.com/osnr/horrifying-pdf-experiments)
 - [Cscope: A developer's tool for browsing source code](http://cscope.sourceforge.net/)
-- [Getting Started in Robotics](https://allshire.org/getting-started-robotics/)
-- [One Year of Excalidraw](https://blog.excalidraw.com/one-year-of-excalidraw/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
