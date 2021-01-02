@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UE4 – Astronaut explorer game prototype](https://www.youtube.com/watch?v=Hjr2_A6mS0U)
 - [The Yale Manual for Psilocybin-Assisted Therapy of Depression](https://psyarxiv.com/u6v9y)
+- [Setting up personal OKR (objectives and key-results)](https://hackpravj.com/blog/personal-okr-2021-plan/)
 - [WSL2 corrupting Git repositories and shell history](https://github.com/microsoft/WSL2-Linux-Kernel/issues/168)
 - [Facebook's advertising integrity chief leaves company](https://www.reuters.com/article/us-facebook-executive-idUSKBN2962M6)
-- [ShenScript – An Implementation of the Shen Language for JavaScript](https://shenscript.readthedocs.io)
-- [Meals based on vegetable protein sources (beans and peas) are more satiating](https://pubmed.ncbi.nlm.nih.gov/27765144/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
