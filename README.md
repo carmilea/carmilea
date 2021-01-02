@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [France planning new aircraft carrier](https://ukdefencejournal.org.uk/france-planning-new-aircraft-carrier/)
+- [Phone addiction linked to over a dozen psychological and physical problems](https://cognitiontoday.com/phone-addiction-coping-solutions-research-statistics/)
+- [The Plague Year](https://www.newyorker.com/magazine/2021/01/04/the-plague-year)
 - [Pixar's Render Farm](https://twitter.com/pixprin/status/1345146328058269696)
-- [Mexican doctor hospitalized after receiving Covid-19 vaccine](https://www.reuters.com/article/health-coronavirus-mexico-vaccines/mexican-doctor-hospitalized-after-receiving-covid-19-vaccine-idUSKBN2970H3)
+- [Stylebot on Firefox (apply custom css on webpages)](https://addons.mozilla.org/en-US/firefox/addon/stylebot-web/)
 - [Why Openstreetmap as a product fails to compete with Google Maps – part 1/3](https://bedogged.substack.com/p/the-mobile-map-app-part-i-the-void)
-- [Ask HN: Successful one-person online businesses in 2021?](https://news.ycombinator.com/item?id=25614966)
 <!-- BLOG-POST-LIST:END -->
 
 ---
