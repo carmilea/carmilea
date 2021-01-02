@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Horrifying PDF Experiments](https://github.com/osnr/horrifying-pdf-experiments)
+- [Cscope: A developer's tool for browsing source code](http://cscope.sourceforge.net/)
+- [Getting Started in Robotics](https://allshire.org/getting-started-robotics/)
 - [One Year of Excalidraw](https://blog.excalidraw.com/one-year-of-excalidraw/)
 - [The Great Software Stagnation](https://alarmingdevelopment.org/?p=1475)
-- [The Pile: An 800GB Dataset of Diverse Text for Language Modeling](http://pile.eleuther.ai/)
-- [Anti-Aging: State of the Art](https://www.lesswrong.com/posts/RcifQCKkRc9XTjxC2/anti-aging-state-of-the-art)
-- [Modern Treasury (YC S18) is hiring an experienced product designer](https://angel.co/company/moderntreasury/jobs/1102956-product-designer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
