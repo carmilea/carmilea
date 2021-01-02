@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One Year of Excalidraw](https://blog.excalidraw.com/one-year-of-excalidraw/)
+- [The Great Software Stagnation](https://alarmingdevelopment.org/?p=1475)
 - [The Pile: An 800GB Dataset of Diverse Text for Language Modeling](http://pile.eleuther.ai/)
 - [Anti-Aging: State of the Art](https://www.lesswrong.com/posts/RcifQCKkRc9XTjxC2/anti-aging-state-of-the-art)
-- [A megacorp is not your dream job](https://drewdevault.com/2021/01/01/Megacorps-are-not-your-dream-job.html)
 - [Modern Treasury (YC S18) is hiring an experienced product designer](https://angel.co/company/moderntreasury/jobs/1102956-product-designer)
-- [Crossing 2000 Miles of Siberia to Reach One of the Most Isolated Cities on Earth](https://www.thedrive.com/news/38035/russian-off-roaders-crossed-2000-miles-of-siberia-to-reach-one-of-the-most-isolated-cities-on-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
