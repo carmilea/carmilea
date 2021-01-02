@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Yale Manual for Psilocybin-Assisted Therapy of Depression](https://psyarxiv.com/u6v9y)
+- [WSL2 corrupting Git repositories and shell history](https://github.com/microsoft/WSL2-Linux-Kernel/issues/168)
 - [Facebook's advertising integrity chief leaves company](https://www.reuters.com/article/us-facebook-executive-idUSKBN2962M6)
 - [ShenScript – An Implementation of the Shen Language for JavaScript](https://shenscript.readthedocs.io)
-- [CVE Stuffing](https://jerrygamblin.com/2020/12/17/cve-stuffing/)
-- [Open Source Smartwatch](https://www.pine64.org/pinetime/)
-- [Lets talk about changelogs (how I loathe 'bugfixes and performance improvements)](https://raymii.org/s/blog/Rant_Lets_talk_about_changelogs.html)
+- [Meals based on vegetable protein sources (beans and peas) are more satiating](https://pubmed.ncbi.nlm.nih.gov/27765144/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
