@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The design flaws of password managers](https://www.go350.com/posts/the-design-flaws-of-password-managers/)
-- [Ray Bradbury at 100: A Conversation Between Sam Weller and Dana Gioia](https://lareviewofbooks.org/article/ray-bradbury-at-100-a-conversation-between-sam-weller-and-dana-gioia/)
-- [Handtrack.js: A library for prototyping realtime hand detection in the browser](https://github.com/victordibia/handtrack.js)
-- [The Perfect Media Server](https://perfectmediaserver.com/)
-- [Encrypted Backup Shootout](https://acha.ninja/blog/encrypted_backup_shootout/)
+- [A new release for GNU Octave](https://lwn.net/Articles/840050/)
+- [New 2021 GPS Accuracy Issue Impacting Some Garmin, Suunto, Other GPS Devices](https://www.dcrainmaker.com/2021/01/gps-accuracy-impacting-devices.html)
+- [On Repl-Driven Programming](http://mikelevins.github.io/posts/2020-12-18-repl-driven/)
+- [Ordered Key-Value Stores](https://hyper.dev/ordered-key-value-stores.html)
+- [Rust Design Patterns as a Book](https://rust-unofficial.github.io/patterns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
