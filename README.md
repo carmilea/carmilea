@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD Patent Reveals Hybrid CPU-FPGA Design That Could Be Enabled by Xilinx Tech](https://hothardware.com/news/amd-patent-hybrid-cpu-fpga-design-xilinx)
-- [What's good about offset pagination; designing parallel cursor-based web APIs](https://brandur.org/fragments/offset-pagination)
-- [I logged my activities at 15-minute intervals for the whole year](https://samplesize.one/blog/posts/my_year_in_data/)
-- [How to open a file in Emacs: a story about Lisp, technology, and human progress](https://www.murilopereira.com/how-to-open-a-file-in-emacs/)
-- [Italy Will Rebuild Colosseum’s Floor, Restoring Arena to Its Gladiator-Era Glory](https://www.smithsonianmag.com/smart-news/italy-plans-install-floors-colosseum-1-180976635/)
+- [URL shorteners set ad tracking cookies](https://ylukem.com/blog/url-shorteners-set-ad-tracking-cookies)
+- [Data Science 2020 – Highlights](https://nulldata.substack.com/p/data-science-2020-highlights)
+- [Uber discovered they’d been defrauded out of 2/3 of their ad spend](https://twitter.com/nandoodles/status/1345774768746852353)
+- [From microops to abstract resources: constructing simpler CPU performance models](https://arxiv.org/abs/2012.11473)
+- [Reviving Old X Code](https://keithp.com/blogs/kgames/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
