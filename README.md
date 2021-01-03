@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Laws of Tech: Commoditize Your Complement](https://www.gwern.net/Complement#)
+- [Opensource your abandonware (2010)](http://pulkomandy.tk/_/_Development/_Opensource%20your%20abandonware)
+- [Show HN: I made a free documentation tool](https://sidepage.co)
+- [Reviving the 1973 Unix text to voice translator](https://www.spinellis.gr/blog/20210102/)
 - [A new release for GNU Octave](https://lwn.net/Articles/840050/)
-- [New 2021 GPS Accuracy Issue Impacting Some Garmin, Suunto, Other GPS Devices](https://www.dcrainmaker.com/2021/01/gps-accuracy-impacting-devices.html)
-- [On Repl-Driven Programming](http://mikelevins.github.io/posts/2020-12-18-repl-driven/)
-- [Ordered Key-Value Stores](https://hyper.dev/ordered-key-value-stores.html)
-- [Rust Design Patterns as a Book](https://rust-unofficial.github.io/patterns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
