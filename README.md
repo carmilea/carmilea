@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Clojure?](https://briansunter.com/blog/why-clojure/)
-- [Linus Torvalds: ECC matters](https://www.realworldtech.com/forum/?threadid=198497&curpostid=198647)
-- [How to Stop Endless Discussions](https://candost.blog/how-to-stop-endless-discussions/)
-- [Scientists Believe US Embassy and CIA Officers Hit with High-Power Microwaves](https://scitechdaily.com/scientists-believe-us-embassy-staff-and-cia-officers-were-hit-with-high-power-microwaves-heres-how-the-weapons-work/)
-- [Show HN: OpenScan – open-source document scanner app](https://github.com/Ethereal-Developers-Inc/OpenScan)
+- [AMD Patent Reveals Hybrid CPU-FPGA Design That Could Be Enabled by Xilinx Tech](https://hothardware.com/news/amd-patent-hybrid-cpu-fpga-design-xilinx)
+- [What's good about offset pagination; designing parallel cursor-based web APIs](https://brandur.org/fragments/offset-pagination)
+- [I logged my activities at 15-minute intervals for the whole year](https://samplesize.one/blog/posts/my_year_in_data/)
+- [How to open a file in Emacs: a story about Lisp, technology, and human progress](https://www.murilopereira.com/how-to-open-a-file-in-emacs/)
+- [Italy Will Rebuild Colosseum’s Floor, Restoring Arena to Its Gladiator-Era Glory](https://www.smithsonianmag.com/smart-news/italy-plans-install-floors-colosseum-1-180976635/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
