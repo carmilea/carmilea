@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Laws of Tech: Commoditize Your Complement](https://www.gwern.net/Complement#)
+- [SafetyWing (YC W18) Is Hiring a Senior Back End Engineer](https://remoteok.io/remote-jobs/100967-remote-senior-backend-engineer-safetywing)
 - [Opensource your abandonware (2010)](http://pulkomandy.tk/_/_Development/_Opensource%20your%20abandonware)
 - [Show HN: I made a free documentation tool](https://sidepage.co)
 - [Reviving the 1973 Unix text to voice translator](https://www.spinellis.gr/blog/20210102/)
