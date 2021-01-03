@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Another French Study Looks Into The Use of Nicotine Against Covid-19](https://www.vapingpost.com/2020/12/10/another-french-study-looks-into-the-use-of-nicotine-against-covid-19/)
 - [The design flaws of password managers](https://www.go350.com/posts/the-design-flaws-of-password-managers/)
 - [Ray Bradbury at 100: A Conversation Between Sam Weller and Dana Gioia](https://lareviewofbooks.org/article/ray-bradbury-at-100-a-conversation-between-sam-weller-and-dana-gioia/)
 - [Handtrack.js: A library for prototyping realtime hand detection in the browser](https://github.com/victordibia/handtrack.js)
 - [The Perfect Media Server](https://perfectmediaserver.com/)
+- [Encrypted Backup Shootout](https://acha.ninja/blog/encrypted_backup_shootout/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
