@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Suspender: New maintainer is probably malicious](https://github.com/greatsuspender/thegreatsuspender/issues/1263)
-- [Castlevania III Password Algorithm](https://meatfighter.com/castlevania3-password/)
-- [Varlink: Interface description format and protocol for humans and machines](https://varlink.org/FAQ)
-- [Do I have to worry about copyright issues for code posted on Stack Overflow?](https://meta.stackexchange.com/a/12537)
-- [Indian Govt to buy bulk subscription of scientific journals and give free access](https://indianexpress.com/article/india/pune/one-nation-one-subscription-govt-draft-policy-7128799/lite/)
+- [Why Clojure?](https://briansunter.com/blog/why-clojure/)
+- [Linus Torvalds: ECC matters](https://www.realworldtech.com/forum/?threadid=198497&curpostid=198647)
+- [How to Stop Endless Discussions](https://candost.blog/how-to-stop-endless-discussions/)
+- [Scientists Believe US Embassy and CIA Officers Hit with High-Power Microwaves](https://scitechdaily.com/scientists-believe-us-embassy-staff-and-cia-officers-were-hit-with-high-power-microwaves-heres-how-the-weapons-work/)
+- [Show HN: OpenScan – open-source document scanner app](https://github.com/Ethereal-Developers-Inc/OpenScan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
