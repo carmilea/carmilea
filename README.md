@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Societal Collapse](https://en.wikipedia.org/wiki/Societal_collapse)
-- [DOJ Argues: US can kill own citizens without review when state secrets involved](https://www.abajournal.com/news/article/doj-lawyer-argues-us-can-kill-its-own-citizens-without-review-when-state-secrets-are-involved)
+- [Tesla Model S drove through flares and cones before hitting marked police car](https://twitter.com/acollinsphoto/status/1345525220048830465)
+- [Ray Bradbury at 100: A Conversation Between Sam Weller and Dana Gioia](https://lareviewofbooks.org/article/ray-bradbury-at-100-a-conversation-between-sam-weller-and-dana-gioia/)
+- [Handtrack.js: A library for prototyping realtime hand detection in the browser](https://github.com/victordibia/handtrack.js)
 - [Encrypted Backup Shootout](https://acha.ninja/blog/encrypted_backup_shootout/)
-- [Lack of Vitamin D is associated with SARS-CoV-2 infection and mortality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7489890/)
-- [Apple reverses stance on Amphetamine App](https://www.engadget.com/apple-will-not-ban-mac-app-amphetamine-from-store-224919743.html)
+- [Zig in 30 Minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50)
 <!-- BLOG-POST-LIST:END -->
 
 ---
