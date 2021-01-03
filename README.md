@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ongoing Accomplishment of the Big Five](https://carcinisation.com/2020/07/04/the-ongoing-accomplishment-of-the-big-five/)
+- [Apple Backtracks After Popular Mac App 'Amphetamine' Threatened with Removal](https://www.macrumors.com/2021/01/02/amphetamine-app-store-removal-threat/)
 - [How your startup can survive technical debt](https://andreschweighofer.com/tech/how-your-startup-can-survive-technical-debt/)
 - [The Eerie Beauty of the Apple Watch Solar Face, and the Anatomy of Nightfall](https://www.hodinkee.com/articles/the-eerie-beauty-of-the-apple-watch-solar-face-and-the-anatomy-of-nightfall)
 - [Tunguska: Ternary Computer Emulator](http://tunguska.sourceforge.net/about.html)
-- [Pentagon Puts F-35 Full-Rate Production Decision on Hold](https://www.thedrive.com/the-war-zone/38507/its-official-pentagon-puts-f-35-full-rate-production-decision-on-hold)
-- [France Hits Record 19.2% EV Share in December – Up Almost 6× Year on Year](https://cleantechnica.com/2021/01/02/france-hits-record-19-2-ev-share-in-december-up-almost-6x-year-on-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
