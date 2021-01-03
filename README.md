@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Model S drove through flares and cones before hitting marked police car](https://twitter.com/acollinsphoto/status/1345525220048830465)
+- [Nicotine as a Preventiative Measure [against COVID-19]](https://www.vapingpost.com/2020/12/10/another-french-study-looks-into-the-use-of-nicotine-against-covid-19/)
+- [The design flaws of password managers](https://www.go350.com/posts/the-design-flaws-of-password-managers/)
 - [Ray Bradbury at 100: A Conversation Between Sam Weller and Dana Gioia](https://lareviewofbooks.org/article/ray-bradbury-at-100-a-conversation-between-sam-weller-and-dana-gioia/)
 - [Handtrack.js: A library for prototyping realtime hand detection in the browser](https://github.com/victordibia/handtrack.js)
-- [Encrypted Backup Shootout](https://acha.ninja/blog/encrypted_backup_shootout/)
-- [Zig in 30 Minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50)
+- [The Perfect Media Server](https://perfectmediaserver.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
