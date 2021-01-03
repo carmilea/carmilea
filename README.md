@@ -54,8 +54,8 @@
 - [Societal Collapse](https://en.wikipedia.org/wiki/Societal_collapse)
 - [DOJ Argues: US can kill own citizens without review when state secrets involved](https://www.abajournal.com/news/article/doj-lawyer-argues-us-can-kill-its-own-citizens-without-review-when-state-secrets-are-involved)
 - [Encrypted Backup Shootout](https://acha.ninja/blog/encrypted_backup_shootout/)
+- [Lack of Vitamin D is associated with SARS-CoV-2 infection and mortality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7489890/)
 - [Apple reverses stance on Amphetamine App](https://www.engadget.com/apple-will-not-ban-mac-app-amphetamine-from-store-224919743.html)
-- [The Ongoing Accomplishment of the Big Five](https://carcinisation.com/2020/07/04/the-ongoing-accomplishment-of-the-big-five/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
