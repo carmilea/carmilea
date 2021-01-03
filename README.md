@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [McConnell, Pelosi homes vandalized after $2k relief fails](https://apnews.com/article/san-francisco-coronavirus-pandemic-kentucky-louisville-vandalism-ee07ba3e87a46a3ea27277d0c946ec9d)
+- [Do I have to worry about copyright issues for code posted on Stack Overflow?](https://meta.stackexchange.com/a/12537)
+- [GTK4 for Graphical User Interfaces](http://ssalewski.de/gtkprogramming.html)
 - [Tell HN: Please update your DNS records when abandoning servers](https://news.ycombinator.com/item?id=25621519)
 - [Show HN: Think an AI can’t write, design and code? Think again](https://headlime.com/features/landing-page)
-- [SafetyWing (YC W18) Is Hiring a Senior Back End Engineer](https://remoteok.io/remote-jobs/100967-remote-senior-backend-engineer-safetywing)
-- [Opensource your abandonware (2010)](http://pulkomandy.tk/_/_Development/_Opensource%20your%20abandonware)
-- [Show HN: I made a free documentation tool](https://sidepage.co)
 <!-- BLOG-POST-LIST:END -->
 
 ---
