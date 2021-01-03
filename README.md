@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [URL shorteners set ad tracking cookies](https://ylukem.com/blog/url-shorteners-set-ad-tracking-cookies)
-- [Data Science 2020 – Highlights](https://nulldata.substack.com/p/data-science-2020-highlights)
+- [Unanswered user makes question their MS thesis and answers self 2 years later](https://stackoverflow.com/questions/47444189/immediate-mode-gui-performance)
 - [Uber discovered they’d been defrauded out of 2/3 of their ad spend](https://twitter.com/nandoodles/status/1345774768746852353)
 - [From microops to abstract resources: constructing simpler CPU performance models](https://arxiv.org/abs/2012.11473)
 - [Reviving Old X Code](https://keithp.com/blogs/kgames/)
