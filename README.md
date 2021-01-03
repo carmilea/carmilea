@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Marketing Follies of 2020](http://createsend.com/t/d-7426D8509B0D40372540EF23F30FEDED)
-- [The Rust module system for Python users](https://blog.waleedkhan.name/rust-modules-for-python-users/)
+- [The Wire in HD (2014)](http://davidsimon.com/the-wire-hd-with-videos/)
+- [Marketing Follies of 2020](http://createsend.com/t/d-7426D8509B0D40372540EF23F30FEDED)
 - [Show HN: Unique macOS system monitor app](https://apps.apple.com/us/app/pluto-hud/id1544577573?mt=12)
 - [URL shorteners set ad tracking cookies](https://ylukem.com/blog/url-shorteners-set-ad-tracking-cookies)
 - [Unanswered user makes question their MS thesis and answers self 2 years later](https://stackoverflow.com/questions/47444189/immediate-mode-gui-performance)
