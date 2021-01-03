@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Societal Collapse](https://en.wikipedia.org/wiki/Societal_collapse)
+- [DOJ Argues: US can kill own citizens without review when state secrets involved](https://www.abajournal.com/news/article/doj-lawyer-argues-us-can-kill-its-own-citizens-without-review-when-state-secrets-are-involved)
+- [Encrypted Backup Shootout](https://acha.ninja/blog/encrypted_backup_shootout/)
+- [Apple reverses stance on Amphetamine App](https://www.engadget.com/apple-will-not-ban-mac-app-amphetamine-from-store-224919743.html)
 - [The Ongoing Accomplishment of the Big Five](https://carcinisation.com/2020/07/04/the-ongoing-accomplishment-of-the-big-five/)
-- [Apple Backtracks After Popular Mac App 'Amphetamine' Threatened with Removal](https://www.macrumors.com/2021/01/02/amphetamine-app-store-removal-threat/)
-- [How your startup can survive technical debt](https://andreschweighofer.com/tech/how-your-startup-can-survive-technical-debt/)
-- [The Eerie Beauty of the Apple Watch Solar Face, and the Anatomy of Nightfall](https://www.hodinkee.com/articles/the-eerie-beauty-of-the-apple-watch-solar-face-and-the-anatomy-of-nightfall)
-- [Tunguska: Ternary Computer Emulator](http://tunguska.sourceforge.net/about.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
