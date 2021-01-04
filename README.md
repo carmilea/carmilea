@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Crush: Controlled, Scalable, Decentralized Placement of Replicated Data [pdf]](https://ceph.com/wp-content/uploads/2016/08/weil-crush-sc06.pdf)
+- [Britney Spears' Guide to Semiconductor Physics](http://britneyspears.ac/lasers.htm)
 - [The Wire in HD (2014)](http://davidsimon.com/the-wire-hd-with-videos/)
 - [Look Up Unknown Phone Numbers Using Facebook Reset Password](https://bytexd.com/look-up-unknown-phone-numbers/)
 - [Show HN: Pluto – macOS system monitor app](https://apps.apple.com/us/app/pluto-hud/id1544577573?mt=12)
-- [URL shorteners set ad tracking cookies](https://ylukem.com/blog/url-shorteners-set-ad-tracking-cookies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
