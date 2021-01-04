@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK .gov site broke Google realtime analytics during lockdown announcement](https://twitter.com/therealnooshu/status/1346188723667533826)
-- [Quitting a New Job](https://yolken.net/blog/quitting-a-new-job)
-- [Reverie Labs (YC W18) Is Hiring Senior Software Engineers to Help Cure Cancer](https://www.reverielabs.com/careers)
-- [SolarWinds: The more we learn, the worse it looks](https://www.zdnet.com/article/solarwinds-the-more-we-learn-the-worse-it-looks/)
-- [Amazon, Berkshire Hathaway, JPMorgan End Health-Care Venture Haven](https://www.cnbc.com/2021/01/04/haven-the-amazon-berkshire-jpmorgan-venture-to-disrupt-healthcare-is-disbanding-after-3-years.html)
+- [Gov.uk traffic spike after lockdown announcement, 40k to 700k in 11 minutes](https://twitter.com/TheRealNooshu/status/1346190185084706817)
+- [Hawaii’s Beaches Are Disappearing](https://projects.propublica.org/hawaii-beach-loss/)
+- [Cory Doctorow: Neofeudalism and the Digital Manor](https://locusmag.com/2021/01/cory-doctorow-neofeudalism-and-the-digital-manor/)
+- [Sixty Minutes Episode Is Pure Misleading Moral Panic About Section 230](https://www.techdirt.com/articles/20210104/01172345990/60-minutes-episode-is-pure-misleading-moral-panic-about-section-230-blames-unrelated-issues-it.shtml)
+- [ZX81 Webserver](http://zx81-siggi.zx-team.org/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
