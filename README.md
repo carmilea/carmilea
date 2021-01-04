@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Human Rights Violations by the CIA](https://en.wikipedia.org/wiki/Human_rights_violations_by_the_CIA)
-- [Fair Code](https://faircode.io/)
+- [Quitting a New Job](https://yolken.net/blog/quitting-a-new-job)
+- [Reverie Labs (YC W18) Is Hiring Senior Software Engineers to Help Cure Cancer](https://www.reverielabs.com/careers)
+- [SolarWinds: The more we learn, the worse it looks](https://www.zdnet.com/article/solarwinds-the-more-we-learn-the-worse-it-looks/)
+- [America Can’t Even Produce the Things It Invented](https://www.nytimes.com/2021/01/04/opinion/manufacturing-united-states-masks.html)
 - [The science and pseudoscience of diagnosing mental illness](https://www.nybooks.com/articles/2021/01/14/changing-psychiatrys-mind/)
-- [Fork the Government](https://www.npr.org/2020/12/23/949764249/fork-the-government)
-- [The Nashville bombing and threats to critical infrastructure](https://warontherocks.com/2020/12/the-nashville-bombing-and-threats-to-critical-infrastructure-we-saw-this-coming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
