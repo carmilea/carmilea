@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An automated pipeline for the discovery of conspiracy theories](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233879)
+- [“Hello, World ” in zero lines of code](https://codegolf.stackexchange.com/questions/215705/hello-world-in-zero-lines-of-code)
+- [Taking FOSDEM Live via Matrix](https://matrix.org/blog/2021/01/04/taking-fosdem-online-via-matrix)
 - [Dogger Bank's giant turbines herald a wind of change in UK industry](https://www.theguardian.com/business/2021/jan/02/dogger-banks-giant-turbines-herald-a-wind-of-change-in-uk-industry)
 - [Google workers announce plans to unionize](https://www.theverge.com/2021/1/4/22212347/google-employees-contractors-announce-union-cwa-alphabet)
-- [Julian Assange extradition to US blocked by UK court](https://www.bbc.com/news/uk-55528241)
-- [We’re Google Workers, and We Are Forming a Union](https://www.nytimes.com/2021/01/04/opinion/google-union.html)
-- [USA vs. Julian Assange Judgment](https://www.judiciary.uk/judgments/usa-v-julian-assange/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
