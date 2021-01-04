@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Slack Ongoing Connection Issues](https://status.slack.com/2021-01/9ecc1bc75347b6d1)
-- [An automated pipeline for the discovery of conspiracy theories](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233879)
-- [“Hello, World” in zero lines of code](https://codegolf.stackexchange.com/questions/215705/hello-world-in-zero-lines-of-code)
-- [The thinking behind the 32GB Windows Format limit on FAT32](https://www.theregister.com/2021/01/04/windows_format_fat32/)
-- [The proliferation of disingenuous music marketing and playlisting services](https://news.distrokid.com/artificial-streaming-b495f57c8486)
+- [U.S. will continue to seek Assange’s extradition – U.S. Justice Department](https://www.reuters.com/article/us-wikileaks-assange-usa/u-s-will-continue-to-seek-assanges-extradition-u-s-justice-department-idUSKBN2991KQ)
+- [Opensourced IFTTT with N8n.io](https://tech.davidfield.co.uk/opensourced-ifttt-with-n8n-io/)
+- [Teledyne to Acquire FLIR Systems](https://www.thestreet.com/investing/teledyne-tdy-flir-systems-acquisition)
+- [Open source RGB lighting control for keyboards, fans, etc.](https://gitlab.com/CalcProgrammer1/OpenRGB)
+- [BadEconomics: Putting $400M of Bitcoin on your company balance sheet](https://www.singlelunch.com/2020/10/21/badeconomics-putting-400m-of-bitcoin-on-your-company-balance-sheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
