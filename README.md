@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dining Philosophers Problem](https://pages.mtu.edu/~shene/NSF-3/e-Book/MUTEX/TM-example-philos-1.html)
+- [Crush: Controlled, Scalable, Decentralized Placement of Replicated Data [pdf]](https://ceph.com/wp-content/uploads/2016/08/weil-crush-sc06.pdf)
 - [Nocoiner predictions: 2021 will be year of comedy gold](https://amycastor.com/2021/01/02/2021-the-year-of-comedy-gold-and-other-bitcoin-skeptic-predictions/)
-- [$1000 grant for individuals working on climate change, no strings attached](https://www.climategrants.earth/)
 - [The Wire in HD (2014)](http://davidsimon.com/the-wire-hd-with-videos/)
 - [Marketing Follies of 2020](http://createsend.com/t/d-7426D8509B0D40372540EF23F30FEDED)
+- [Look Up Unknown Phone Numbers Using Facebook Reset Password](https://bytexd.com/look-up-unknown-phone-numbers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
