@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alarm as South Korea sees more deaths than births](https://www.bbc.co.uk/news/world-asia-55526450)
+- [Microsoft files patent to create chatbots from your dead loved ones](https://www.inputmag.com/culture/microsoft-files-patent-to-create-chatbots-from-your-dead-loved-ones)
+- [Verified Programming in F*: A Tutorial](http://fstar-lang.org/tutorial/)
 - [Ask HN: How do I get people to find my pre-launch landing page?](https://news.ycombinator.com/item?id=25629047)
-- [BrexitImpacts: Companies charging more, or stopping sales because of Brexit](https://twitter.com/uk_domain_names/status/1345765584349356033)
+- [Equal Pay for Equal Work](https://dusted.codes/equal-pay-for-equal-work)
 - [Ask HN: Why isn't one-time sign in links more popular for authentication?](https://news.ycombinator.com/item?id=25628729)
-- [Singapore says contact tracing data may be used for criminal investigations](https://www.channelnewsasia.com/news/singapore/singapore-police-force-can-obtain-tracetogether-data-covid-19-13889914)
 <!-- BLOG-POST-LIST:END -->
 
 ---
