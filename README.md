@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Crush: Controlled, Scalable, Decentralized Placement of Replicated Data [pdf]](https://ceph.com/wp-content/uploads/2016/08/weil-crush-sc06.pdf)
-- [Nocoiner predictions: 2021 will be year of comedy gold](https://amycastor.com/2021/01/02/2021-the-year-of-comedy-gold-and-other-bitcoin-skeptic-predictions/)
+- [Britney Spears' Guide to Semiconductor Physics](http://britneyspears.ac/lasers.htm)
 - [The Wire in HD (2014)](http://davidsimon.com/the-wire-hd-with-videos/)
-- [Marketing Follies of 2020](http://createsend.com/t/d-7426D8509B0D40372540EF23F30FEDED)
 - [Look Up Unknown Phone Numbers Using Facebook Reset Password](https://bytexd.com/look-up-unknown-phone-numbers/)
+- [Show HN: Pluto – macOS system monitor app](https://apps.apple.com/us/app/pluto-hud/id1544577573?mt=12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
