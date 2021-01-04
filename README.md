@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Notion is having a service interruption](https://status.notion.so/)
+- [The science and pseudoscience of diagnosing mental illness](https://www.nybooks.com/articles/2021/01/14/changing-psychiatrys-mind/)
+- [Bitcoin Is the First New Religion of the 21st Century](https://twitter.com/TheStalwart/status/1346064023637385216)
+- [Ask HN: Is HN slow today?](https://news.ycombinator.com/item?id=25635115)
+- [Show HN: I made an alternative platform for professional profiles](https://read.cv)
 - [The Muse (YC W12) Is Hiring a Senior Product Designer](https://www.themuse.com/jobs/themuse/senior-product-designer)
-- [Slack Down Completely](https://status.slack.com/#)
-- [Ditherpunk: The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
-- [U.S. will continue to seek Assange’s extradition – U.S. Justice Department](https://www.reuters.com/article/us-wikileaks-assange-usa/u-s-will-continue-to-seek-assanges-extradition-u-s-justice-department-idUSKBN2991KQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
