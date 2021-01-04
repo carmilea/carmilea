@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alarm as South Korea sees more deaths than births](https://www.bbc.co.uk/news/world-asia-55526450)
+- [Ask HN: How do I get people to find my pre-launch landing page?](https://news.ycombinator.com/item?id=25629047)
+- [BrexitImpacts: Companies charging more, or stopping sales because of Brexit](https://twitter.com/uk_domain_names/status/1345765584349356033)
+- [Ask HN: Why isn't one-time sign in links more popular for authentication?](https://news.ycombinator.com/item?id=25628729)
 - [Singapore says contact tracing data may be used for criminal investigations](https://www.channelnewsasia.com/news/singapore/singapore-police-force-can-obtain-tracetogether-data-covid-19-13889914)
-- [QuestDB (YC S20) Is Hiring a Back End Engineer](https://questdb.io/careers/)
-- [Show HN: Lightspeed – subsecond, open source, self hosted stream from OBS](https://github.com/GRVYDEV/Project-Lightspeed)
-- [Crush: Controlled, Scalable, Decentralized Placement of Replicated Data [pdf]](https://ceph.com/wp-content/uploads/2016/08/weil-crush-sc06.pdf)
-- [Britney Spears' Guide to Semiconductor Physics](http://britneyspears.ac/lasers.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
