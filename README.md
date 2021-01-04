@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Human Rights Violations by the CIA](https://en.wikipedia.org/wiki/Human_rights_violations_by_the_CIA)
+- [Fair Code](https://faircode.io/)
 - [The science and pseudoscience of diagnosing mental illness](https://www.nybooks.com/articles/2021/01/14/changing-psychiatrys-mind/)
-- [Bitcoin Is the First New Religion of the 21st Century](https://twitter.com/TheStalwart/status/1346064023637385216)
-- [Ask HN: Is HN slow today?](https://news.ycombinator.com/item?id=25635115)
-- [Show HN: I made an alternative platform for professional profiles](https://read.cv)
-- [The Muse (YC W12) Is Hiring a Senior Product Designer](https://www.themuse.com/jobs/themuse/senior-product-designer)
+- [Fork the Government](https://www.npr.org/2020/12/23/949764249/fork-the-government)
+- [The Nashville bombing and threats to critical infrastructure](https://warontherocks.com/2020/12/the-nashville-bombing-and-threats-to-critical-infrastructure-we-saw-this-coming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
