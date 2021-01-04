@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Slack Ongoing Connection Issues](https://status.slack.com/2021-01/9ecc1bc75347b6d1)
 - [An automated pipeline for the discovery of conspiracy theories](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233879)
 - [“Hello, World” in zero lines of code](https://codegolf.stackexchange.com/questions/215705/hello-world-in-zero-lines-of-code)
 - [The thinking behind the 32GB Windows Format limit on FAT32](https://www.theregister.com/2021/01/04/windows_format_fat32/)
-- [The fake, botted Spotify playlist industry](https://news.distrokid.com/artificial-streaming-b495f57c8486)
-- [Taking FOSDEM online via Matrix](https://matrix.org/blog/2021/01/04/taking-fosdem-online-via-matrix)
+- [The proliferation of disingenuous music marketing and playlisting services](https://news.distrokid.com/artificial-streaming-b495f57c8486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
