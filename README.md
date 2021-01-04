@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Dining Philosophers Problem](https://pages.mtu.edu/~shene/NSF-3/e-Book/MUTEX/TM-example-philos-1.html)
+- [Nocoiner predictions: 2021 will be year of comedy gold](https://amycastor.com/2021/01/02/2021-the-year-of-comedy-gold-and-other-bitcoin-skeptic-predictions/)
+- [$1000 grant for individuals working on climate change, no strings attached](https://www.climategrants.earth/)
 - [The Wire in HD (2014)](http://davidsimon.com/the-wire-hd-with-videos/)
 - [Marketing Follies of 2020](http://createsend.com/t/d-7426D8509B0D40372540EF23F30FEDED)
-- [Show HN: Unique macOS system monitor app](https://apps.apple.com/us/app/pluto-hud/id1544577573?mt=12)
-- [URL shorteners set ad tracking cookies](https://ylukem.com/blog/url-shorteners-set-ad-tracking-cookies)
-- [Unanswered user makes question their MS thesis and answers self 2 years later](https://stackoverflow.com/questions/47444189/immediate-mode-gui-performance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
