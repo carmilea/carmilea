@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [An automated pipeline for the discovery of conspiracy theories](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233879)
-- [“Hello, World ” in zero lines of code](https://codegolf.stackexchange.com/questions/215705/hello-world-in-zero-lines-of-code)
-- [Taking FOSDEM Live via Matrix](https://matrix.org/blog/2021/01/04/taking-fosdem-online-via-matrix)
-- [Dogger Bank's giant turbines herald a wind of change in UK industry](https://www.theguardian.com/business/2021/jan/02/dogger-banks-giant-turbines-herald-a-wind-of-change-in-uk-industry)
-- [Google workers announce plans to unionize](https://www.theverge.com/2021/1/4/22212347/google-employees-contractors-announce-union-cwa-alphabet)
+- [“Hello, World” in zero lines of code](https://codegolf.stackexchange.com/questions/215705/hello-world-in-zero-lines-of-code)
+- [The thinking behind the 32GB Windows Format limit on FAT32](https://www.theregister.com/2021/01/04/windows_format_fat32/)
+- [The fake, botted Spotify playlist industry](https://news.distrokid.com/artificial-streaming-b495f57c8486)
+- [Taking FOSDEM online via Matrix](https://matrix.org/blog/2021/01/04/taking-fosdem-online-via-matrix)
 <!-- BLOG-POST-LIST:END -->
 
 ---
