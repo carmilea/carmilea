@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK .gov site broke Google realtime analytics during lockdown announcement](https://twitter.com/therealnooshu/status/1346188723667533826)
 - [Quitting a New Job](https://yolken.net/blog/quitting-a-new-job)
 - [Reverie Labs (YC W18) Is Hiring Senior Software Engineers to Help Cure Cancer](https://www.reverielabs.com/careers)
 - [SolarWinds: The more we learn, the worse it looks](https://www.zdnet.com/article/solarwinds-the-more-we-learn-the-worse-it-looks/)
-- [America Can’t Even Produce the Things It Invented](https://www.nytimes.com/2021/01/04/opinion/manufacturing-united-states-masks.html)
-- [The science and pseudoscience of diagnosing mental illness](https://www.nybooks.com/articles/2021/01/14/changing-psychiatrys-mind/)
+- [Amazon, Berkshire Hathaway, JPMorgan End Health-Care Venture Haven](https://www.cnbc.com/2021/01/04/haven-the-amazon-berkshire-jpmorgan-venture-to-disrupt-healthcare-is-disbanding-after-3-years.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
