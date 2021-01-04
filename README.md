@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [QuestDB (YC S20) Is Hiring a Back End Engineer](https://questdb.io/careers/)
 - [Show HN: Lightspeed – subsecond, open source, self hosted stream from OBS](https://github.com/GRVYDEV/Project-Lightspeed)
 - [Crush: Controlled, Scalable, Decentralized Placement of Replicated Data [pdf]](https://ceph.com/wp-content/uploads/2016/08/weil-crush-sc06.pdf)
 - [Britney Spears' Guide to Semiconductor Physics](http://britneyspears.ac/lasers.htm)
 - [Letting Go of Nostalgia Urbanism](https://www.granolashotgun.com/granolashotguncom/2mvygaw3y67fx5bqrvno2lp452zifc)
-- [MIT 6.172: Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
