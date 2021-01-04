@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Lightspeed – subsecond, open source, self hosted stream from OBS](https://github.com/GRVYDEV/Project-Lightspeed)
 - [Crush: Controlled, Scalable, Decentralized Placement of Replicated Data [pdf]](https://ceph.com/wp-content/uploads/2016/08/weil-crush-sc06.pdf)
 - [Britney Spears' Guide to Semiconductor Physics](http://britneyspears.ac/lasers.htm)
-- [The Wire in HD (2014)](http://davidsimon.com/the-wire-hd-with-videos/)
-- [Look Up Unknown Phone Numbers Using Facebook Reset Password](https://bytexd.com/look-up-unknown-phone-numbers/)
-- [Show HN: Pluto – macOS system monitor app](https://apps.apple.com/us/app/pluto-hud/id1544577573?mt=12)
+- [Letting Go of Nostalgia Urbanism](https://www.granolashotgun.com/granolashotguncom/2mvygaw3y67fx5bqrvno2lp452zifc)
+- [MIT 6.172: Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
