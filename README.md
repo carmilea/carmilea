@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dogger Bank's giant turbines herald a wind of change in UK industry](https://www.theguardian.com/business/2021/jan/02/dogger-banks-giant-turbines-herald-a-wind-of-change-in-uk-industry)
+- [Google workers announce plans to unionize](https://www.theverge.com/2021/1/4/22212347/google-employees-contractors-announce-union-cwa-alphabet)
 - [Julian Assange extradition to US blocked by UK court](https://www.bbc.com/news/uk-55528241)
+- [We’re Google Workers, and We Are Forming a Union](https://www.nytimes.com/2021/01/04/opinion/google-union.html)
 - [USA vs. Julian Assange Judgment](https://www.judiciary.uk/judgments/usa-v-julian-assange/)
-- [Free Public APIs to Improve Productivity](https://blog.idrisolubisi.com/35-free-public-apis-to-improve-productivity)
-- [Auction: David’s Personal KITT Knight Rider Car on Sale](https://www.liveauctioneers.com/item/95041485_davids-personal-kitt-knight-rider-car)
-- [Microsoft patent: Creating a conversational chat bot of a specific person](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10853717.PN.&OS=PN/10853717&RS=PN/10853717)
 <!-- BLOG-POST-LIST:END -->
 
 ---
