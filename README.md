@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Notion is having a service interruption](https://status.notion.so/)
+- [The Muse (YC W12) Is Hiring a Senior Product Designer](https://www.themuse.com/jobs/themuse/senior-product-designer)
+- [Slack Down Completely](https://status.slack.com/#)
+- [Ditherpunk: The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
 - [U.S. will continue to seek Assange’s extradition – U.S. Justice Department](https://www.reuters.com/article/us-wikileaks-assange-usa/u-s-will-continue-to-seek-assanges-extradition-u-s-justice-department-idUSKBN2991KQ)
-- [Opensourced IFTTT with N8n.io](https://tech.davidfield.co.uk/opensourced-ifttt-with-n8n-io/)
-- [Teledyne to Acquire FLIR Systems](https://www.thestreet.com/investing/teledyne-tdy-flir-systems-acquisition)
-- [Open source RGB lighting control for keyboards, fans, etc.](https://gitlab.com/CalcProgrammer1/OpenRGB)
-- [BadEconomics: Putting $400M of Bitcoin on your company balance sheet](https://www.singlelunch.com/2020/10/21/badeconomics-putting-400m-of-bitcoin-on-your-company-balance-sheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
