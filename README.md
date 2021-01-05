@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Learn Prolog in 2021?](http://dstrohmaier.com/why-learn-prolog-in-2021/)
+- [The Cole-Bar Hammer, a 7-year old Kickstarter that is still going](https://www.kickstarter.com/projects/363439631/the-cole-bar-hammer/posts)
+- [27th International Obfuscated C Code Contest winners published](https://www.ioccc.org/2020/)
 - [5G Advocates Renew Attempts to Poach Wi-Fi’s 6GHz Spectrum](https://www.eetimes.com/5g-advocates-renew-attempts-to-poach-wi-fis-6ghz-spectrum/)
 - [A Brief History of Peanut Butter](https://www.smithsonianmag.com/innovation/brief-history-peanut-butter-180976525/)
-- [Jerry, Inc. (YC S17) is hiring engineering and product (all experience levels)](https://jerry.ai/careers)
-- [GUIDs Are Not the Only Answer](https://www.softwareatscale.dev/p/guids-are-not-enough)
-- [Ask HN: Any luck negotiating better terms for on-call?](https://news.ycombinator.com/item?id=25650905)
 <!-- BLOG-POST-LIST:END -->
 
 ---
