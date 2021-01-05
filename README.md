@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Robbers in HK stolen 15 Bitcoins from a guy who has been kicked out of car](https://www.scmp.com/news/hong-kong/law-and-crime/article/3116489/robbers-steal-over-hk3-million-worth-bitcoins-trader)
+- [Payment processor for Amazon India had leak of over 100M users](https://www.businessinsider.in/tech/news/over-100-million-debit-and-credit-card-users-data-has-been-leaked-online-from-payments-processor-juspay-amazon-and-swiggy/articleshow/80096472.cms)
+- [The Data Show That Socialism Works (2019)](https://www.currentaffairs.org/2019/12/the-data-show-that-socialism-works)
+- [GitHub blocks entire company because one employee was in Iran](https://twitter.com/sebslomski/status/1344219609923276801)
 - [Show HN: 3D-Parallax, labelfree 3D experience from a 2D image using parallax](https://github.com/VincentLefevre/3D-parallax)
 - [Prolific (YC S19) Is Hiring Senior Engineers in the UK/EU](https://www.prolific.co/careers/)
-- [Geometric effects of certain system design choices](https://rachelbythebay.com/w/2021/01/04/dns/)
-- [Parable of Alien Chess](https://lukesmith.xyz/articles/chess)
 <!-- BLOG-POST-LIST:END -->
 
 ---
