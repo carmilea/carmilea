@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Largest canyon in the solar system revealed in stunning new images](https://www.livescience.com/mars-deepest-canyon-in-solar-system.html)
+- [Cloud Development Kit (CDK) by AWS will completely change software](https://news.ycombinator.com/item?id=25642100)
 - [Changing Faces: The Mistaken Portrait of Legendre (2009) [pdf]](http://www.ams.org/notices/200911/rtx091101440p.pdf)
-- [Principle of Maximum Entropy](https://leimao.github.io/blog/Maximum-Entropy/)
+- [Show HN: Handel – A procedural programming language for writing songs in browser](https://handel-pl.github.io)
 - [Telegram publishes users' locations online](https://blog.ahmed.nyc/2021/01/if-you-use-this-feature-on-telegram.html)
-- [Reddit user invents a new way to build a memristor, shares it](https://www.reddit.com/r/electronics/comments/kqbgnn/i_believe_ive_created_a_memristor_and_im_to_open/)
-- [Openbase (YC S20) Is Hiring](https://news.ycombinator.com/item?id=25640569)
 <!-- BLOG-POST-LIST:END -->
 
 ---
