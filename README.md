@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gov.uk traffic spike after lockdown announcement, 40k to 700k in 11 minutes](https://twitter.com/TheRealNooshu/status/1346190185084706817)
-- [Hawaii’s Beaches Are Disappearing](https://projects.propublica.org/hawaii-beach-loss/)
-- [Cory Doctorow: Neofeudalism and the Digital Manor](https://locusmag.com/2021/01/cory-doctorow-neofeudalism-and-the-digital-manor/)
-- [Sixty Minutes Episode Is Pure Misleading Moral Panic About Section 230](https://www.techdirt.com/articles/20210104/01172345990/60-minutes-episode-is-pure-misleading-moral-panic-about-section-230-blames-unrelated-issues-it.shtml)
-- [ZX81 Webserver](http://zx81-siggi.zx-team.org/index.html)
+- [Openbase (YC S20) Is Hiring](https://news.ycombinator.com/item?id=25640569)
+- [Jack Ma Is Missing](https://nymag.com/intelligencer/2021/01/where-in-the-world-is-jack-ma.html)
+- [The Lab Leak Hypothesis](https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.html)
+- [Fast and Accurate Percentiles with APPROX_PERCENTILE in SingleStore](https://www.singlestore.com/blog/fast-and-accurate-percentiles-with-approx_percentile-in-singlestore/)
+- [My Google Traffic Has Fallen to Zero](https://www.goodcheapandfast.com/2020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
