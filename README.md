@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Advancing developer freedom: GitHub is fully available in Iran](https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/)
+- [Moral Competence](https://evanjconrad.com/posts/moral-competence)
+- [Danes Get 20-Year 0% Mortgages](https://www.bloombergquint.com/onweb/danes-get-20-year-0-mortgages-as-interest-rates-keep-sinking)
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [5M+ Wordpress sites use “Classic Editor” plugin over Gutenberg](https://wordpress.org/plugins/classic-editor/)
-- [A Plan Made to Shield Big Tobacco from Facts Is Now EPA Policy](https://www.nytimes.com/2021/01/04/climate/trump-epa-science.html)
-- [Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
-- [Ticketmaster admits it hacked rival company before it went out of business](https://arstechnica.com/information-technology/2021/01/ticketmaster-pays-10-million-criminal-fine-for-hacking-a-rival-company/)
+- [81k UK-owned .eu domains suspended as Brexit transition ends](https://www.zdnet.com/article/81000-uk-owned-eu-domains-suspended-as-brexit-transition-ends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
