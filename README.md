@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Advancing developer freedom: GitHub is fully available in Iran](https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/)
-- [Moral Competence](https://evanjconrad.com/posts/moral-competence)
-- [Danes Get 20-Year 0% Mortgages](https://www.bloombergquint.com/onweb/danes-get-20-year-0-mortgages-as-interest-rates-keep-sinking)
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [81k UK-owned .eu domains suspended as Brexit transition ends](https://www.zdnet.com/article/81000-uk-owned-eu-domains-suspended-as-brexit-transition-ends/)
+- [Apple: How to convert existing web extensions for Safari](https://developer.apple.com/news/?id=qiz0arxc&utm_source=GiacomoBalli.com&utm_medium=GiacomoBalli.com&utm_campaign=GiacomoBalli.com)
+- [A list of microgrant programs for your good ideas](https://github.com/nayafia/microgrants)
+- [Is Everything Securities Fraud?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3664132)
+- [Automated Combinatorial Testing for Software – Acts](https://csrc.nist.gov/projects/automated-combinatorial-testing-for-software)
+- [GitHub is fully available in Iran](https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
