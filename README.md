@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Changing Faces: The Mistaken Portrait of Legendre (2009) [pdf]](http://www.ams.org/notices/200911/rtx091101440p.pdf)
 - [Principle of Maximum Entropy](https://leimao.github.io/blog/Maximum-Entropy/)
 - [Telegram publishes users' locations online](https://blog.ahmed.nyc/2021/01/if-you-use-this-feature-on-telegram.html)
 - [Reddit user invents a new way to build a memristor, shares it](https://www.reddit.com/r/electronics/comments/kqbgnn/i_believe_ive_created_a_memristor_and_im_to_open/)
 - [Openbase (YC S20) Is Hiring](https://news.ycombinator.com/item?id=25640569)
-- [Fast and Accurate Percentiles with APPROX_PERCENTILE in SingleStore](https://www.singlestore.com/blog/fast-and-accurate-percentiles-with-approx_percentile-in-singlestore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
