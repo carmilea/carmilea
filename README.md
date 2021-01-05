@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Largest canyon in the solar system revealed in stunning new images](https://www.livescience.com/mars-deepest-canyon-in-solar-system.html)
-- [Cloud Development Kit (CDK) by AWS will completely change software](https://news.ycombinator.com/item?id=25642100)
 - [Changing Faces: The Mistaken Portrait of Legendre (2009) [pdf]](http://www.ams.org/notices/200911/rtx091101440p.pdf)
+- [Remote access to virtual machines in a seamless way with video, audio, USB](https://www.spice-space.org/)
 - [Show HN: Handel – A procedural programming language for writing songs in browser](https://handel-pl.github.io)
 - [Telegram publishes users' locations online](https://blog.ahmed.nyc/2021/01/if-you-use-this-feature-on-telegram.html)
 <!-- BLOG-POST-LIST:END -->
