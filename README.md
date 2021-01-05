@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Largest canyon in the solar system revealed in stunning new images](https://www.livescience.com/mars-deepest-canyon-in-solar-system.html)
-- [Changing Faces: The Mistaken Portrait of Legendre (2009) [pdf]](http://www.ams.org/notices/200911/rtx091101440p.pdf)
-- [Remote access to virtual machines in a seamless way with video, audio, USB](https://www.spice-space.org/)
-- [Show HN: Handel – A procedural programming language for writing songs in browser](https://handel-pl.github.io)
-- [Telegram publishes users' locations online](https://blog.ahmed.nyc/2021/01/if-you-use-this-feature-on-telegram.html)
+- [Prolific (YC S19) Is Hiring Senior Engineers in the UK/EU](https://www.prolific.co/careers/)
+- [Geometric effects of certain system design choices](https://rachelbythebay.com/w/2021/01/04/dns/)
+- [The Parable of Alien Chess](https://lukesmith.xyz/articles/chess)
+- [LA: Ambulance crews to not transport patients with little chance of survival](https://www.latimes.com/california/story/2021-01-04/los-angeles-hospitals-cannot-keep-up-covid-19-surge-illness)
+- [EFF to FinCEN: Stop Pushing for More Financial Surveillance](https://www.eff.org/deeplinks/2021/01/eff-fincen-stop-pushing-more-financial-surveillance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
