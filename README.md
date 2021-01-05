@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RSD is a open source high performance RISC-V Processor](https://github.com/rsd-devel/rsd)
-- [LayerCI (YC S20) is hiring devs to work on a distributed hypervisor in Toronto](https://bookface.ycombinator.com/company/21906/jobs/28849)
-- [Payment processor for Amazon India had leak of over 100M users](https://www.businessinsider.in/tech/news/over-100-million-debit-and-credit-card-users-data-has-been-leaked-online-from-payments-processor-juspay-amazon-and-swiggy/articleshow/80096472.cms)
-- [GitHub blocks entire company because one employee was in Iran](https://twitter.com/sebslomski/status/1344219609923276801)
-- [Show HN: 3D-Parallax, labelfree 3D experience from a 2D image using parallax](https://github.com/VincentLefevre/3D-parallax)
+- [Over 700 YC startups are actively hiring on YC's workatastartup.com](https://www.workatastartup.com/jobs)
+- [ML Beyond Curve Fitting: An Intro to Causal Inference and Do-Calculus](https://www.inference.vc/untitled/)
+- [Microsoft job posting suggests a major user interface update expected in 2021](https://www.zdnet.com/article/microsoft-plans-sweeping-design-changes-to-show-that-windows-is-back)
+- [Termux no longer updated on Google Play](https://wiki.termux.com/wiki/Termux_Google_Play)
+- [How I Learned to Love and Fear the Riemann Hypothesis](https://www.quantamagazine.org/how-i-learned-to-love-and-fear-the-riemann-hypothesis-20210104/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
