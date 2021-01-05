@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PE Anatomist – Explore data structures in PE files](https://rammerlabs.alidml.ru/index-eng.html)
-- [Electric cars make up 54% of cars sold in Norway in 2020](https://www.theguardian.com/environment/2021/jan/05/electric-cars-record-market-share-norway)
-- [Over 700 YC startups are actively hiring on YC's workatastartup.com](https://www.workatastartup.com/jobs)
-- [Termux no longer updated on Google Play](https://wiki.termux.com/wiki/Termux_Google_Play)
-- [How I Learned to Love and Fear the Riemann Hypothesis](https://www.quantamagazine.org/how-i-learned-to-love-and-fear-the-riemann-hypothesis-20210104/)
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [5M+ Wordpress sites use “Classic Editor” plugin over Gutenberg](https://wordpress.org/plugins/classic-editor/)
+- [A Plan Made to Shield Big Tobacco from Facts Is Now EPA Policy](https://www.nytimes.com/2021/01/04/climate/trump-epa-science.html)
+- [Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
+- [Ticketmaster admits it hacked rival company before it went out of business](https://arstechnica.com/information-technology/2021/01/ticketmaster-pays-10-million-criminal-fine-for-hacking-a-rival-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
