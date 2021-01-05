@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple: How to convert existing web extensions for Safari](https://developer.apple.com/news/?id=qiz0arxc&utm_source=GiacomoBalli.com&utm_medium=GiacomoBalli.com&utm_campaign=GiacomoBalli.com)
-- [A list of microgrant programs for your good ideas](https://github.com/nayafia/microgrants)
+- [Clip: Connecting Text and Images](https://openai.com/blog/clip/)
+- [Asahi Linux: Linux on Apple Silicon project](https://asahilinux.org/)
+- [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
+- [How to convert existing web extensions for Safari](https://developer.apple.com/news/?id=qiz0arxc&utm_source=GiacomoBalli.com&utm_medium=GiacomoBalli.com&utm_campaign=GiacomoBalli.com)
 - [Is Everything Securities Fraud?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3664132)
-- [Automated Combinatorial Testing for Software – Acts](https://csrc.nist.gov/projects/automated-combinatorial-testing-for-software)
-- [GitHub is fully available in Iran](https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
