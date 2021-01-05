@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RSD is a open source high performance RISC-V Processor](https://github.com/rsd-devel/rsd)
+- [LayerCI (YC S20) is hiring devs to work on a distributed hypervisor in Toronto](https://bookface.ycombinator.com/company/21906/jobs/28849)
 - [Payment processor for Amazon India had leak of over 100M users](https://www.businessinsider.in/tech/news/over-100-million-debit-and-credit-card-users-data-has-been-leaked-online-from-payments-processor-juspay-amazon-and-swiggy/articleshow/80096472.cms)
-- [The Data Show That Socialism Works (2019)](https://www.currentaffairs.org/2019/12/the-data-show-that-socialism-works)
 - [GitHub blocks entire company because one employee was in Iran](https://twitter.com/sebslomski/status/1344219609923276801)
 - [Show HN: 3D-Parallax, labelfree 3D experience from a 2D image using parallax](https://github.com/VincentLefevre/3D-parallax)
-- [Prolific (YC S19) Is Hiring Senior Engineers in the UK/EU](https://www.prolific.co/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
