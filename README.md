@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Clip: Connecting Text and Images](https://openai.com/blog/clip/)
-- [Asahi Linux: Linux on Apple Silicon project](https://asahilinux.org/)
-- [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
-- [How to convert existing web extensions for Safari](https://developer.apple.com/news/?id=qiz0arxc&utm_source=GiacomoBalli.com&utm_medium=GiacomoBalli.com&utm_campaign=GiacomoBalli.com)
-- [Is Everything Securities Fraud?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3664132)
+- [Jerry, Inc. (YC S17) Is Hiring Engineering and Product (All Exp Levels)](https://jerry.ai/careers)
+- [Gene Wolfe Turned Science Fiction into High Art (2019)](https://www.theringer.com/2019/4/25/18515675/gene-wolfe-science-fiction-author)
+- [Gravity Energy Storage: Alternative to batteries for grid storage](https://spectrum.ieee.org/energy/batteries-storage/gravity-energy-storage-will-show-its-potential-in-2021)
+- [Conway's Multiplayer Game of Life](http://lifecompetes.com/)
+- [Automatically fixing packet loss on my connection](https://senryu.pub/afternoonrobot/articles/automatically-fixing-packet-loss-on-my-connection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
