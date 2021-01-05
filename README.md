@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [#SQL Select into #JSON with #SingleStore](https://www.youtube.com/watch?v=y9oL_r7gEPY)
 - [#SingleStore #Indexes](https://www.youtube.com/watch?v=fYpajwmVrfU)
 - [Operational #BI: Executing #ML models at #speed and #scale](https://www.youtube.com/watch?v=tJX4keRszMA)
 - [#Offline #Deployment with the #SingleStore Browser UI](https://www.youtube.com/watch?v=iujEOWe3ziE)
 - [The Know Show - The Shift to Business Outcomes-Focused Decisions](https://www.youtube.com/watch?v=cZ4V8xoPV9I)
-- [Simulated Pipelines in #SingleStore](https://www.youtube.com/watch?v=QSKIXtBtmOE)
 <!-- YOUTUBE:END -->
 
 
