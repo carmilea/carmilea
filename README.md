@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Robbers in HK stolen 15 Bitcoins from a guy who has been kicked out of car](https://www.scmp.com/news/hong-kong/law-and-crime/article/3116489/robbers-steal-over-hk3-million-worth-bitcoins-trader)
 - [Show HN: 3D-Parallax, labelfree 3D experience from a 2D image using parallax](https://github.com/VincentLefevre/3D-parallax)
 - [Prolific (YC S19) Is Hiring Senior Engineers in the UK/EU](https://www.prolific.co/careers/)
 - [Geometric effects of certain system design choices](https://rachelbythebay.com/w/2021/01/04/dns/)
 - [Parable of Alien Chess](https://lukesmith.xyz/articles/chess)
-- [LA: Ambulance crews to not transport patients with little chance of survival](https://www.latimes.com/california/story/2021-01-04/los-angeles-hospitals-cannot-keep-up-covid-19-surge-illness)
 <!-- BLOG-POST-LIST:END -->
 
 ---
