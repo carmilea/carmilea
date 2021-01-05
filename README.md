@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PE Anatomist – Explore data structures in PE files](https://rammerlabs.alidml.ru/index-eng.html)
+- [Electric cars make up 54% of cars sold in Norway in 2020](https://www.theguardian.com/environment/2021/jan/05/electric-cars-record-market-share-norway)
 - [Over 700 YC startups are actively hiring on YC's workatastartup.com](https://www.workatastartup.com/jobs)
-- [Microsoft job posting suggests a major user interface update expected in 2021](https://www.zdnet.com/article/microsoft-plans-sweeping-design-changes-to-show-that-windows-is-back)
 - [Termux no longer updated on Google Play](https://wiki.termux.com/wiki/Termux_Google_Play)
 - [How I Learned to Love and Fear the Riemann Hypothesis](https://www.quantamagazine.org/how-i-learned-to-love-and-fear-the-riemann-hypothesis-20210104/)
-- [Show HN: Unclack – a macOS app that auto-mutes your keyboard](https://unclack.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
