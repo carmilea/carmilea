@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jerry, Inc. (YC S17) Is Hiring Engineering and Product (All Exp Levels)](https://jerry.ai/careers)
-- [Gene Wolfe Turned Science Fiction into High Art (2019)](https://www.theringer.com/2019/4/25/18515675/gene-wolfe-science-fiction-author)
-- [Gravity Energy Storage: Alternative to batteries for grid storage](https://spectrum.ieee.org/energy/batteries-storage/gravity-energy-storage-will-show-its-potential-in-2021)
-- [Conway's Multiplayer Game of Life](http://lifecompetes.com/)
-- [Automatically fixing packet loss on my connection](https://senryu.pub/afternoonrobot/articles/automatically-fixing-packet-loss-on-my-connection)
+- [5G Advocates Renew Attempts to Poach Wi-Fi’s 6GHz Spectrum](https://www.eetimes.com/5g-advocates-renew-attempts-to-poach-wi-fis-6ghz-spectrum/)
+- [A Brief History of Peanut Butter](https://www.smithsonianmag.com/innovation/brief-history-peanut-butter-180976525/)
+- [Jerry, Inc. (YC S17) is hiring engineering and product (all experience levels)](https://jerry.ai/careers)
+- [GUIDs Are Not the Only Answer](https://www.softwareatscale.dev/p/guids-are-not-enough)
+- [Ask HN: Any luck negotiating better terms for on-call?](https://news.ycombinator.com/item?id=25650905)
 <!-- BLOG-POST-LIST:END -->
 
 ---
