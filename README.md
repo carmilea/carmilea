@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Openbase (YC S20) Is Hiring](https://news.ycombinator.com/item?id=25640569)
-- [Jack Ma Is Missing](https://nymag.com/intelligencer/2021/01/where-in-the-world-is-jack-ma.html)
-- [The Lab Leak Hypothesis](https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.html)
 - [Fast and Accurate Percentiles with APPROX_PERCENTILE in SingleStore](https://www.singlestore.com/blog/fast-and-accurate-percentiles-with-approx_percentile-in-singlestore/)
+- [Vons, Pavilions to Replace Drivers with Independent Contractors](https://knock-la.com/vons-fires-delivery-drivers-prop-22-e899ee24ffd0)
 - [My Google Traffic Has Fallen to Zero](https://www.goodcheapandfast.com/2020)
+- [Linus Torvalds rails at Intel for 'killing' the ECC industry](https://www.theregister.com/2021/01/04/linus_torvalds_intel_killed_ecc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
