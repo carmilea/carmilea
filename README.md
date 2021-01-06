@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NSA Wanted Backdoor Access in Linux, Says Linus Torvalds’ Father](https://www.omgubuntu.co.uk/2013/11/nsa-ask-linus-torvalds-include-backdoors-linux-father-says-yes)
+- [A constructive look at the Atari 2600 BASIC cartridge](http://boston.conman.org/2015/06/16.1)
 - [State of Industrial Robotics: Emerging Tech, Challenges, Key Research Directions [pdf]](https://workofthefuture.mit.edu/wp-content/uploads/2020/11/2020-Research-Brief-Sanneman-Fourie-Shah.pdf)
 - [Memory access on the Apple M1 processor](https://lemire.me/blog/2021/01/06/memory-access-on-the-apple-m1-processor/)
 - [GiveCampus (YC S15) hiring remote senior engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
-- [Deleting Facebook permanently](https://blog.spacehey.com/entry?id=4054)
-- [PeerJS – Simple peer-to-peer with WebRTC](https://peerjs.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
