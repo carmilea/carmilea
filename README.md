@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Experimental Semantic Code Explorer](https://artifacts.bypaulshen.com/code-explorer/02/)
-- [OneSignal (Messaging and Push Notification APIs) is hiring a back end engineer](https://onesignal.com/careers/90cfa84c-5d78-47e8-a3f3-5cbaddd0ca89)
-- [WhatsApp gives users an ultimatum: Share data with FB or stop using the app](https://arstechnica.com/tech-policy/2021/01/whatsapp-users-must-share-their-data-with-facebook-or-stop-using-the-app/)
-- [Debugging Lisp](https://malisper.me/category/debugging-common-lisp/)
-- [U.S. Capitol Locked Down Amid Escalating Protests](https://www.npr.org/sections/congress-electoral-college-tally-live-updates/2021/01/06/954028436/u-s-capitol-locked-down-amid-escalating-far-right-protests)
+- [A new SaaS metric for demonstrating the ROI of community](https://orbit.love/blog/whats-your-communitys-nrg)
+- [A Look at the CPU Security Mitigation Costs Three Years After Spectre/Meltdown](https://www.phoronix.com/scan.php?page=article&item=3-years-specmelt&num=1)
+- [London will be overwhelmed by Covid in a fortnight says leaked NHS briefing](https://www.hsj.co.uk/acute-care/exclusive-london-will-be-overwhelmed-by-covid-in-a-fortnight-says-leaked-nhs-england-briefing/7029264.article)
+- [Show HN: v8-riscv — Port of JavaScript V8 engine to RISC-V](https://github.com/v8-riscv/v8)
+- [Show HN: Microsoft Office 97 clipart converted to SVG](https://archive.org/details/mso97clipart)
 <!-- BLOG-POST-LIST:END -->
 
 ---
