@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal (Messaging and Push Notification APIs) is hiring a back end engineer](https://onesignal.com/careers/90cfa84c-5d78-47e8-a3f3-5cbaddd0ca89)
+- [Debugging Lisp](https://malisper.me/category/debugging-common-lisp/)
+- [NTFS Remote Code Execution (CVE-2020-17096) Analysi](https://blog.zecops.com/vulnerabilities/ntfs-remote-code-execution-cve-2020-17096-analysis/)
 - [U.S. Capitol Locked Down Amid Escalating Protests](https://www.npr.org/sections/congress-electoral-college-tally-live-updates/2021/01/06/954028436/u-s-capitol-locked-down-amid-escalating-far-right-protests)
 - [NSA Wanted Backdoor Access in Linux, Says Linus Torvalds’ Father](https://www.omgubuntu.co.uk/2013/11/nsa-ask-linus-torvalds-include-backdoors-linux-father-says-yes)
-- [A constructive look at the Atari 2600 BASIC cartridge](http://boston.conman.org/2015/06/16.1)
-- [State of Industrial Robotics: Emerging Tech, Challenges, Key Research Directions [pdf]](https://workofthefuture.mit.edu/wp-content/uploads/2020/11/2020-Research-Brief-Sanneman-Fourie-Shah.pdf)
-- [Memory access on the Apple M1 processor](https://lemire.me/blog/2021/01/06/memory-access-on-the-apple-m1-processor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
