@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [State of Industrial Robotics: Emerging Tech, Challenges, Key Research Directions [pdf]](https://workofthefuture.mit.edu/wp-content/uploads/2020/11/2020-Research-Brief-Sanneman-Fourie-Shah.pdf)
+- [Memory access on the Apple M1 processor](https://lemire.me/blog/2021/01/06/memory-access-on-the-apple-m1-processor/)
+- [GiveCampus (YC S15) hiring remote senior engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
+- [Deleting Facebook permanently](https://blog.spacehey.com/entry?id=4054)
 - [PeerJS – Simple peer-to-peer with WebRTC](https://peerjs.com/)
-- [Should the Web Expose Hardware Capabilities?](https://www.smashingmagazine.com/2021/01/web-expose-hardware-capabilities/)
-- [Huawei Tops Intel as Top Linux Kernel Contributor for 5.10](https://news.itsfoss.com/huawei-kernel-contribution/)
-- [New Quantum Algorithms Finally Crack Nonlinear Equations](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/)
-- [What I’ve Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
