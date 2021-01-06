@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Money Laundering via Author Impersonation on Amazon](https://krebsonsecurity.com/2018/02/money-laundering-via-author-impersonation-on-amazon)
 - [GNU Units](https://www.gnu.org/software/units/)
-- [Donald Trump should not visit the UK to play golf](https://www.bbc.co.uk/news/av/uk-scotland-55553493)
+- [How WhatsApp works with other Facebook products](https://www.whatsapp.com/legal/updates/privacy-policy?eea=0#privacy-policy-updates-how-we-work-with-other-facebook-companies)
 - [Lantern (YC S19) Is Hiring a FullStack Engineer and a Growth Marketer (Remote)](https://www.notion.so/Lantern-is-Hiring-3c4297071cfc4d4ba567b79c04fdf769#70d9135209e64f9b9effc0b668b66b20)
-- [Trump bans Alipay and seven other Chinese apps](https://www.bbc.com/news/business-55555269)
 - [Simulating the PIN cracking scene in Terminator 2](https://bert.org/2021/01/04/t2-pin-cracking/)
 <!-- BLOG-POST-LIST:END -->
 
