@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Syntropy Stack – The Future of Programmable Networking](https://www.syntropystack.com/)
+- [Denmark offers homeowners 20-year loans at a fixed interest rate of zero](https://www.smh.com.au/business/banking-and-finance/denmark-offers-homeowners-20-year-loans-at-a-fixed-interest-rate-of-zero-20210106-p56rzj.html)
+- [State of Clojure 2021](https://news.ycombinator.com/item?id=25656075)
+- [Emacs Symbolic Integration](https://www.gnu.org/software/emacs/manual/html_node/calc/Integration.html)
 - [Jim Keller moves to AI chip startup](https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUSL1N2JG2I6)
 - [How the placenta evolved from an ancient virus](https://whyy.org/segments/the-placenta-went-viral-and-protomammals-were-born/)
-- [Turing Labs Inc. (YC W20) Is Hiring](https://www.workatastartup.com/jobs/21272)
-- [US doctor forgives $650k in medical bills for cancer patients](https://www.bbc.com/news/world-us-canada-55544496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
