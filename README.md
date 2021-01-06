@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turing Labs Inc. (YC W20) Is Hiring](https://www.workatastartup.com/jobs/21272)
 - [US doctor forgives $650k in medical bills for cancer patients](https://www.bbc.com/news/world-us-canada-55544496)
 - [Lunar programming language by David Moon](http://users.rcn.com/david-moon/Lunar/)
 - [We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)
 - [An Uncommon Cold](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7252012/)
-- [What I Use Now Instead of Google](https://kiramclean.com/blog/what-i-use-now-instead-of-google/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
