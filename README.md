@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)
 - [Deep-learning text-to-speech tool for generating voices of various characters](https://15.ai/)
 - [Doctor Who HiFive – Inventor Coding Kit](https://www.hifiveinventor.com/)
 - [DeepSource (YC W20) Is Hiring a Growth Marketer](https://deepsource.io/jobs/growth-marketer-in/)
 - [Cincinnati is home to the largest unused subway system in the world (2016)](https://www.atlasobscura.com/articles/cincinnati-built-a-subway-system-100-years-ago-but-never-used-it)
-- [Show HN: Build your own programming language in C++](https://github.com/codr7/alang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
