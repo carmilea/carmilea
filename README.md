@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Experimental Semantic Code Explorer](https://artifacts.bypaulshen.com/code-explorer/02/)
 - [OneSignal (Messaging and Push Notification APIs) is hiring a back end engineer](https://onesignal.com/careers/90cfa84c-5d78-47e8-a3f3-5cbaddd0ca89)
+- [WhatsApp gives users an ultimatum: Share data with FB or stop using the app](https://arstechnica.com/tech-policy/2021/01/whatsapp-users-must-share-their-data-with-facebook-or-stop-using-the-app/)
 - [Debugging Lisp](https://malisper.me/category/debugging-common-lisp/)
-- [NTFS Remote Code Execution (CVE-2020-17096) Analysi](https://blog.zecops.com/vulnerabilities/ntfs-remote-code-execution-cve-2020-17096-analysis/)
 - [U.S. Capitol Locked Down Amid Escalating Protests](https://www.npr.org/sections/congress-electoral-college-tally-live-updates/2021/01/06/954028436/u-s-capitol-locked-down-amid-escalating-far-right-protests)
-- [NSA Wanted Backdoor Access in Linux, Says Linus Torvalds’ Father](https://www.omgubuntu.co.uk/2013/11/nsa-ask-linus-torvalds-include-backdoors-linux-father-says-yes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
