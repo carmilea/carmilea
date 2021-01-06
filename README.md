@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linus Torvalds tears into Intel, favors AMD](https://www.zdnet.com/article/linus-torvalds-tears-into-intel-favors-amd/)
-- [Money Laundering via Author Impersonation on Amazon](https://krebsonsecurity.com/2018/02/money-laundering-via-author-impersonation-on-amazon)
-- [Show HN: Collection of free illustrations like undraw](https://www.vektors.pro/)
-- [GNU Units](https://www.gnu.org/software/units/)
-- [I built the antithesis of Zoom. Add GIFs, stickers, BGs. Talk like you do IRL](https://reslash.co)
+- [PeerJS – Simple peer-to-peer with WebRTC](https://peerjs.com/)
+- [Should the Web Expose Hardware Capabilities?](https://www.smashingmagazine.com/2021/01/web-expose-hardware-capabilities/)
+- [Huawei Tops Intel as Top Linux Kernel Contributor for 5.10](https://news.itsfoss.com/huawei-kernel-contribution/)
+- [New Quantum Algorithms Finally Crack Nonlinear Equations](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/)
+- [What I’ve Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
