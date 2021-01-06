@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSource (YC W20) Is Hiring a Growth Marketer](https://deepsource.io/jobs/growth-marketer-in/)
+- [Cincinnati is home to the largest unused subway system in the world (2016)](https://www.atlasobscura.com/articles/cincinnati-built-a-subway-system-100-years-ago-but-never-used-it)
+- [Show HN: Build your own programming language in C++](https://github.com/codr7/alang)
 - [Why Learn Prolog in 2021?](http://dstrohmaier.com/why-learn-prolog-in-2021/)
 - [The Cole-Bar Hammer, a 7-year old Kickstarter that is still going](https://www.kickstarter.com/projects/363439631/the-cole-bar-hammer/posts)
-- [27th International Obfuscated C Code Contest winners published](https://www.ioccc.org/2020/)
-- [5G Advocates Renew Attempts to Poach Wi-Fi’s 6GHz Spectrum](https://www.eetimes.com/5g-advocates-renew-attempts-to-poach-wi-fis-6ghz-spectrum/)
-- [A Brief History of Peanut Butter](https://www.smithsonianmag.com/innovation/brief-history-peanut-butter-180976525/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
