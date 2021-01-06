@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How WhatsApp works with other Facebook products](https://www.whatsapp.com/legal/updates/privacy-policy?eea=0#privacy-policy-updates-how-we-work-with-other-facebook-companies)
+- [Lantern (YC S19) Is Hiring a FullStack Engineer and a Growth Marketer (Remote)](https://www.notion.so/Lantern-is-Hiring-3c4297071cfc4d4ba567b79c04fdf769#70d9135209e64f9b9effc0b668b66b20)
+- [Trump bans Alipay and seven other Chinese apps](https://www.bbc.com/news/business-55555269)
 - [Introduction to Window Functions in SQL](https://khashtamov.com/en/sql-window-functions/)
-- [Emacs Symbolic Integration](https://www.gnu.org/software/emacs/manual/html_node/calc/Integration.html)
-- [Jim Keller moves to AI chip startup](https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUSL1N2JG2I6)
-- [How the placenta evolved from an ancient virus](https://whyy.org/segments/the-placenta-went-viral-and-protomammals-were-born/)
-- [Turing Labs Inc. (YC W20) Is Hiring](https://www.workatastartup.com/jobs/21272)
+- [Why the Future of Startups Are Studios](https://latecheckout.substack.com/p/why-the-future-of-startups-are-studios)
 <!-- BLOG-POST-LIST:END -->
 
 ---
