@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Doctor Who HiFive – Inventor Coding Kit](https://www.hifiveinventor.com/)
 - [DeepSource (YC W20) Is Hiring a Growth Marketer](https://deepsource.io/jobs/growth-marketer-in/)
+- [Why Move from Gradle to Maven](https://blog.astradot.com/why-we-moved-from-gradle-to-maven/)
 - [Cincinnati is home to the largest unused subway system in the world (2016)](https://www.atlasobscura.com/articles/cincinnati-built-a-subway-system-100-years-ago-but-never-used-it)
 - [Show HN: Build your own programming language in C++](https://github.com/codr7/alang)
-- [Why Learn Prolog in 2021?](http://dstrohmaier.com/why-learn-prolog-in-2021/)
-- [The Cole-Bar Hammer, a 7-year old Kickstarter that is still going](https://www.kickstarter.com/projects/363439631/the-cole-bar-hammer/posts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
