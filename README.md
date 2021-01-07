@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sirum (YC W15 Nonprofit) hiring many roles to make medicine more affordable](https://www.sirum.org/about/#careers)
+- [Our Response to the Violence in Washington](https://about.fb.com/news/2021/01/responding-to-the-violence-in-washington-dc/)
 - [A new SaaS metric for demonstrating the ROI of community](https://orbit.love/blog/whats-your-communitys-nrg)
 - [A Look at the CPU Security Mitigation Costs Three Years After Spectre/Meltdown](https://www.phoronix.com/scan.php?page=article&item=3-years-specmelt&num=1)
-- [London will be overwhelmed by Covid in a fortnight says leaked NHS briefing](https://www.hsj.co.uk/acute-care/exclusive-london-will-be-overwhelmed-by-covid-in-a-fortnight-says-leaked-nhs-england-briefing/7029264.article)
-- [Show HN: v8-riscv — Port of JavaScript V8 engine to RISC-V](https://github.com/v8-riscv/v8)
-- [Show HN: Microsoft Office 97 clipart converted to SVG](https://archive.org/details/mso97clipart)
+- [LBRY does to publishing, what Bitcoin did to money](https://lbry.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
