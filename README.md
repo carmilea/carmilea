@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [MakAir: Covid-19 ventilator with a Raspberry Pi](https://blog.senx.io/makair-covid-19-ventilator-with-a-raspberry-pi/)
-- [Larry Page's (Google) question about crawling from 1996](https://groups.google.com/g/comp.lang.java/c/aSPAJO05LIU/m/ushhUIQQ-ogJ)
+- [Setting User-Agent Field? (1996)](https://groups.google.com/g/comp.lang.java/c/aSPAJO05LIU/m/ushhUIQQ-ogJ)
 - [Alloy Automation (YC W20) is hiring full-stack engineers passionate about API's](https://apply.workable.com/alloy-automation/j/27639ECE80/)
+- [Crypto Market Tops $1T as Bitcoin Breaches $37,000](https://www.bloomberg.com/news/articles/2021-01-07/crypto-market-value-tops-1-trillion-as-bitcoin-breaches-37-000)
 - [Poll: Switching from WhatsApp](https://news.ycombinator.com/item?id=25669864)
-- [OpenBoard – FOSS Keyboard for Android which respects your privacy](https://github.com/dslul/openboard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
