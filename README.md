@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Azlo Is Closing Down](https://news.ycombinator.com/item?id=25676301)
+- [Sony’s 2021 TV lineup runs Google TV and fully embraces HDMI 2.1](https://www.theverge.com/2021/1/7/22218693/sony-tv-lineup-8k-4k-z9j-a90j-a80j-x95j-x90j-ces-2021)
+- [Twitch disables Trump’s account indefinitely](https://www.theverge.com/2021/1/7/22219144/twitch-trump-ban-indefinitely-capitol-attack)
+- [USB floppy controller for Amiga disks](https://github.com/jtsiomb/usbamigafloppy)
 - [Coinbase hits number 30 in the top free apps on Apple's mobile store](https://www.theblockcrypto.com/linked/90427/coinbase-rankings-app-store-january)
-- [A physical breach is a nightmare scenario for Capitol IT](https://twitter.com/jacobian/status/1347000969435860993)
-- [Kraken Is Down](https://status.kraken.com/)
-- [Thonny: A hassle-free Python micro-IDE](https://thonny.org/)
-- [Universal Decimal Classification](https://en.wikipedia.org/wiki/Universal_Decimal_Classification)
 <!-- BLOG-POST-LIST:END -->
 
 ---
