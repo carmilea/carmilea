@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UUCP must stay; fetchmail sucks (2001)](https://docs.freebsd.org/cgi/getmsg.cgi?fetch=585008+0+archive/2001/freebsd-arch/20010218.freebsd-arch)
-- [MakAir: Covid-19 ventilator with a Raspberry Pi](https://blog.senx.io/makair-covid-19-ventilator-with-a-raspberry-pi/)
-- [Setting User-Agent Field? (1996)](https://groups.google.com/g/comp.lang.java/c/aSPAJO05LIU/m/ushhUIQQ-ogJ)
-- [Alloy Automation (YC W20) is hiring full-stack engineers passionate about API's](https://apply.workable.com/alloy-automation/j/27639ECE80/)
-- [Poll: Switching from WhatsApp](https://news.ycombinator.com/item?id=25669864)
+- [Elon Musk becomes richest person worth $185bn](https://www.bbc.com/news/technology-55578403)
+- [Coinbase is experiencing connectivity issues](https://status.coinbase.com/)
+- [Facebook Indefinitely Suspends Trump](https://www.facebook.com/4/posts/10112681480907401/)
+- [Microsoft tried to buy Nintendo, but got laughed out of the room](https://www.engadget.com/microsoft-wanted-to-buy-nintendo-145746874.html)
+- [Show HN: I built an intercom for my 6 yo to keep us connected during quarantine](https://chordata.cc/blog/open-source-intercom-for-kids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
