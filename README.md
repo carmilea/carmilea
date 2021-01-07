@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shooting photos with an IMAX projector lens](https://theslantedlens.com/2021/crazy-huge-imax-lens-amazing-street-portraits/)
+- [A developer's perspective: the problem with screen reader testing](https://jaketracey.com/a-developers-perspective-the-problem-with-screen-reader-testing/)
 - [Sirum (YC W15 Nonprofit) hiring many roles to make medicine more affordable](https://www.sirum.org/about/#careers)
-- [Our Response to the Violence in Washington](https://about.fb.com/news/2021/01/responding-to-the-violence-in-washington-dc/)
 - [A new SaaS metric for demonstrating the ROI of community](https://orbit.love/blog/whats-your-communitys-nrg)
 - [A Look at the CPU Security Mitigation Costs Three Years After Spectre/Meltdown](https://www.phoronix.com/scan.php?page=article&item=3-years-specmelt&num=1)
-- [LBRY does to publishing, what Bitcoin did to money](https://lbry.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
