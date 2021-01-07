@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Infosec implications of the US Capitol physical breach](https://twitter.com/neurovagrant/status/1346964347684179970)
 - [Shooting photos with an IMAX projector lens](https://theslantedlens.com/2021/crazy-huge-imax-lens-amazing-street-portraits/)
 - [A developer's perspective: the problem with screen reader testing](https://jaketracey.com/a-developers-perspective-the-problem-with-screen-reader-testing/)
 - [Sirum (YC W15 Nonprofit) hiring many roles to make medicine more affordable](https://www.sirum.org/about/#careers)
-- [A new SaaS metric for demonstrating the ROI of community](https://orbit.love/blog/whats-your-communitys-nrg)
-- [A Look at the CPU Security Mitigation Costs Three Years After Spectre/Meltdown](https://www.phoronix.com/scan.php?page=article&item=3-years-specmelt&num=1)
+- [All Our Selves in One Basket – on centralization of social spaces](https://invisibleup.com/articles/31/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
