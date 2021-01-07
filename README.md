@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Pentagon Has 6 Months to Disclose What It Knows About UFOs](https://www.military.com/daily-news/2021/01/04/pentagon-has-6-months-disclose-what-it-knows-about-ufos.html)
+- [Why don’t PCs use error correcting RAM? “Because Intel,” says Linus](https://arstechnica.com/gadgets/2021/01/linus-torvalds-blames-intel-for-lack-of-ecc-ram-in-consumer-pcs/#:~:text=Torvalds%20blames%20Intel,of%20economics%20and%20lower%20power.&text=Because%20Intel%20was%20pushing%20shit,policy%20of%20artificial%20market%20segmentation.)
 - [Infosec implications of the US Capitol physical breach](https://twitter.com/neurovagrant/status/1346964347684179970)
 - [Shooting photos with an IMAX projector lens](https://theslantedlens.com/2021/crazy-huge-imax-lens-amazing-street-portraits/)
 - [A developer's perspective: the problem with screen reader testing](https://jaketracey.com/a-developers-perspective-the-problem-with-screen-reader-testing/)
-- [Sirum (YC W15 Nonprofit) hiring many roles to make medicine more affordable](https://www.sirum.org/about/#careers)
-- [All Our Selves in One Basket – on centralization of social spaces](https://invisibleup.com/articles/31/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
