@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube announcement on content policies](https://twitter.com/YouTubeInsider/status/1347231471212371970)
+- [Coinbase hits number 30 in the top free apps on Apple's mobile store](https://www.theblockcrypto.com/linked/90427/coinbase-rankings-app-store-january)
+- [A physical breach is a nightmare scenario for Capitol IT](https://twitter.com/jacobian/status/1347000969435860993)
+- [Kraken Is Down](https://status.kraken.com/)
 - [Thonny: A hassle-free Python micro-IDE](https://thonny.org/)
 - [Universal Decimal Classification](https://en.wikipedia.org/wiki/Universal_Decimal_Classification)
-- [Dissecting the Apple M1 GPU, part I](https://rosenzweig.io/blog/asahi-gpu-part-1.html)
-- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
