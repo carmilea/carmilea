@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UUCP must stay; fetchmail sucks (2001)](https://docs.freebsd.org/cgi/getmsg.cgi?fetch=585008+0+archive/2001/freebsd-arch/20010218.freebsd-arch)
 - [MakAir: Covid-19 ventilator with a Raspberry Pi](https://blog.senx.io/makair-covid-19-ventilator-with-a-raspberry-pi/)
 - [Setting User-Agent Field? (1996)](https://groups.google.com/g/comp.lang.java/c/aSPAJO05LIU/m/ushhUIQQ-ogJ)
 - [Alloy Automation (YC W20) is hiring full-stack engineers passionate about API's](https://apply.workable.com/alloy-automation/j/27639ECE80/)
-- [Crypto Market Tops $1T as Bitcoin Breaches $37,000](https://www.bloomberg.com/news/articles/2021-01-07/crypto-market-value-tops-1-trillion-as-bitcoin-breaches-37-000)
 - [Poll: Switching from WhatsApp](https://news.ycombinator.com/item?id=25669864)
 <!-- BLOG-POST-LIST:END -->
 
