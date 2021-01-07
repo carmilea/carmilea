@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk becomes richest person worth $185bn](https://www.bbc.com/news/technology-55578403)
-- [Coinbase is experiencing connectivity issues](https://status.coinbase.com/)
-- [Facebook Indefinitely Suspends Trump](https://www.facebook.com/4/posts/10112681480907401/)
-- [Microsoft tried to buy Nintendo, but got laughed out of the room](https://www.engadget.com/microsoft-wanted-to-buy-nintendo-145746874.html)
-- [Show HN: I built an intercom for my 6 yo to keep us connected during quarantine](https://chordata.cc/blog/open-source-intercom-for-kids/)
+- [YouTube announcement on content policies](https://twitter.com/YouTubeInsider/status/1347231471212371970)
+- [Thonny: A hassle-free Python micro-IDE](https://thonny.org/)
+- [Universal Decimal Classification](https://en.wikipedia.org/wiki/Universal_Decimal_Classification)
+- [Dissecting the Apple M1 GPU, part I](https://rosenzweig.io/blog/asahi-gpu-part-1.html)
+- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
