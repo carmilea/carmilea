@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Azlo Is Closing Down](https://news.ycombinator.com/item?id=25676301)
-- [Sony’s 2021 TV lineup runs Google TV and fully embraces HDMI 2.1](https://www.theverge.com/2021/1/7/22218693/sony-tv-lineup-8k-4k-z9j-a90j-a80j-x95j-x90j-ces-2021)
-- [Twitch disables Trump’s account indefinitely](https://www.theverge.com/2021/1/7/22219144/twitch-trump-ban-indefinitely-capitol-attack)
-- [USB floppy controller for Amiga disks](https://github.com/jtsiomb/usbamigafloppy)
-- [Coinbase hits number 30 in the top free apps on Apple's mobile store](https://www.theblockcrypto.com/linked/90427/coinbase-rankings-app-store-january)
+- [Boeing Charged with 737 Max Fraud Conspiracy and Agrees to Pay over $2.5B](https://www.justice.gov/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion)
+- [Apple’s Self-Driving Electric Car Is at Least Half a Decade Away](https://www.bloomberg.com/news/articles/2021-01-07/apple-s-aapl-tesla-tsla-killer-won-t-ship-for-at-least-half-a-decade)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [A noninflammatory mRNA vaccine for treatment of autoimmune encephalomyelitis](https://science.sciencemag.org/content/371/6525/145)
+- [The nuclear lighthouses built by the Soviets in the Arctic [video]](https://www.bbc.com/reel/video/p0931jtk/the-nuclear-lighthouses-built-by-the-soviets-in-the-arctic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
