@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Make School (YC W12) is hiring a remote video editor to make edu content](https://news.ycombinator.com/item?id=25668066)
 - [Roblox raises $520M at $29.5B valuation](https://venturebeat.com/2021/01/06/roblox-raises-520-million-at-29-5-billion-valuation-will-go-public-through-direct-listing/)
-- [Archiving the Capitol Hill Riots • /R/DataHoarder](https://reddit.com/r/DataHoarder/comments/krx449/megathread_archiving_the_capitol_hill_riots/)
-- [Capitol Police, a department shrouded in secrecy: not subject to FOIA requests](https://www.rollcall.com/2020/06/15/capitol-police-a-department-shrouded-in-secrecy/)
 - [Scandinavian 'Nabob' of the British Empire: Discovery of a New Colonial Archive](https://thewire.in/history/sweden-british-empire-joseph-stephens)
+- [Infosec implications of the US Capitol physical breach](https://twitter.com/neurovagrant/status/1346964347684179970)
+- [M1 Macs cannot support dual Extended displays through their Thunderbolt 3 ports](https://www.caldigit.com/apple-silicon-mac-and-caldigit-dock-compatibility/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
