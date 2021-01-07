@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Boeing Charged with 737 Max Fraud Conspiracy and Agrees to Pay over $2.5B](https://www.justice.gov/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion)
-- [Apple’s Self-Driving Electric Car Is at Least Half a Decade Away](https://www.bloomberg.com/news/articles/2021-01-07/apple-s-aapl-tesla-tsla-killer-won-t-ship-for-at-least-half-a-decade)
+- [What React Gets Wrong](https://thejunkland.com/blog/what-react-gets-wrong.html)
+- [Boeing charged with 737 Max fraud conspiracy and agrees to pay over $2.5B](https://www.justice.gov/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion)
+- [DOJ fines Boeing over $2.5B, charges it with fraud conspiracy](https://www.cnbc.com/2021/01/07/doj-fines-boeing-over-2point5-billion-charges-it-with-fraud-conspiracy-over-737-max-crashes.html)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 - [A noninflammatory mRNA vaccine for treatment of autoimmune encephalomyelitis](https://science.sciencemag.org/content/371/6525/145)
-- [The nuclear lighthouses built by the Soviets in the Arctic [video]](https://www.bbc.com/reel/video/p0931jtk/the-nuclear-lighthouses-built-by-the-soviets-in-the-arctic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
