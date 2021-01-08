@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking victim SolarWinds hires ex-Homeland Security officer Krebs as consultant](https://www.reuters.com/article/global-cyber-solarwinds/hacking-victim-solarwinds-hires-ex-homeland-security-official-krebs-as-consultant-idUSL1N2JJ069)
-- [Facebook: 64% of the time users join extremist groups, the platform told them to](https://www.wired.com/story/opinion-platforms-must-pay-for-their-role-in-the-insurrection/)
 - [How Tail Call Optimization Works](https://eklitzke.org/how-tail-call-optimization-works)
 - [Hyundai Motor says it is in early talks with Apple](https://www.reuters.com/article/us-hyundai-motor-stocks/hyundai-motor-says-it-is-in-early-talks-with-apple-shares-surge-24-idUSKBN29D02E)
 - [Avoiding instruction cache misses (2019)](https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/)
+- [CO2 already emitted will warm Earth beyond climate targets, study finds](https://www.cbc.ca/news/technology/climate-targets-1.5861537)
+- [College campuses are designed at human-scale – cities can be too](https://www.strongtowns.org/journal/2021/1/6/college-campuses-as-a-model-for-urban-planning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
