@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat to acquire Kubernetes security company StackRox](https://www.redhat.com/en/about/press-releases/red-hat-acquire-kubernetes-native-security-leader-stackrox)
+- [Research team demonstrates world’s fastest optical neuromorphic processor](https://www.swinburne.edu.au/news/2021/01/swinburne-led-research-team-demonstrates-worlds-fastest-optical-neuromorphic-processor/)
 - [Modern Treasury (YC S18) is hiring full-stack software engineers](https://angel.co/company/moderntreasury/jobs/617123-full-stack-software-engineer)
-- [The International Obfuscated C Code Contest 2020 winners](https://www.ioccc.org/2020/carlini/index.html)
-- [Smooth voxel terrain: isosurface extraction with marching cubes and surface nets](https://0fps.net/2012/07/12/smooth-voxel-terrain-part-2/)
-- [Session Protocol: Technical implementation details](https://getsession.org/session-protocol-technical-information/)
-- [Signal AMA on Reddit](https://www.reddit.com/r/technology/comments/kt91qk/signal_private_messenger_team_here_we_support_an/)
+- [Best of show – abuse of libc](https://www.ioccc.org/2020/carlini/index.html)
+- [Intel Talks with TSMC, Samsung to Outsource Some Chip Production](https://www.bloomberg.com/news/articles/2021-01-08/intel-talks-with-tsmc-samsung-to-outsource-some-chip-production)
 <!-- BLOG-POST-LIST:END -->
 
 ---
