@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Discord bans users for using open-source third party clients](https://github.com/Bios-Marcel/cordless#i-am-closing-down-the-cordless-project)
-- [Sci-Hub Founder Criticizes Sudden Twitter Ban over “Counterfeit” Content](https://torrentfreak.com/sci-hub-founder-criticises-sudden-twitter-ban-over-over-counterfeit-content-210108/)
-- [Victory at the High Court against the government’s use of 'general warrants’](https://privacyinternational.org/press-release/4358/victory-high-court-against-governments-use-general-warrants)
-- [World's Busiest International and Domestic Air Routes Right Now](https://www.oag.com/busiest-routes-right-now)
-- [Google Chrome browser privacy plan investigated in UK](https://www.bbc.co.uk/news/technology-55219750)
+- [Clubhouse uploads all your contacts](https://twitter.com/Espen_Antonsen/status/1347546630896160770)
+- [WhatsApp security whitepaper update: server might have access to private keys](https://twitter.com/Shiftreduce/status/1347546599384346624)
+- [Excess protein enabled dog domestication during severe Ice Age winters](https://www.scientificamerican.com/article/dog-domestication-may-have-begun-because-paleo-humans-couldnt-stomach-the-original-paleo-diet/)
+- [Why don’t PCs use error correcting RAM? “Because Intel,” says Linus](https://arstechnica.com/gadgets/2021/01/linus-torvalds-blames-intel-for-lack-of-ecc-ram-in-consumer-pcs)
+- [Dominion Voting Systems sues pro-Trump lawyer, seeking more than $1.3B](https://www.washingtonpost.com/politics/dominion-sues-pro-trump-lawyer-sidney-powell-seeking-more-than-13-billion/2021/01/08/ebe5dbe0-5106-11eb-b96e-0e54447b23a1_story.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
