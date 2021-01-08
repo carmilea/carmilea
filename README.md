@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Brad Rukstales, CEO of Cognesia, Arrested at U.S. Capitol Riot](https://chicago.cbslocal.com/2021/01/07/brad-rukstales-of-inverness-arrested-at-u-s-capitol-riot-apologizes-and-expresses-embarrassment/)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (UTC ± 3h)](https://raycast.com/jobs)
-- [FCC Democrats Set to Move on Net Neutrality, Broadband Subsidies](https://news.bloomberglaw.com/tech-and-telecom-law/fcc-democrats-set-to-move-on-net-neutrality-broadband-subsidies)
+- [Scipy Lecture Notes: One document to learn numerics, science, and data in Python](http://www.scipy-lectures.org/index.html)
 - [How Tail Call Optimization Works](https://eklitzke.org/how-tail-call-optimization-works)
 - [Avoiding instruction cache misses (2019)](https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/)
 <!-- BLOG-POST-LIST:END -->
