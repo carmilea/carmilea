@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Victory at the High Court against the government’s use of 'general warrants’](https://privacyinternational.org/press-release/4358/victory-high-court-against-governments-use-general-warrants)
+- [Google Chrome browser privacy plan investigated in UK](https://www.bbc.co.uk/news/technology-55219750)
+- [Show HN: Ecco – See what your NLP language model is “thinking”](https://www.eccox.io/)
 - [Tab (YC, London) is hiring full stack developers (fintech/travel)](https://jobs.tab.travel/o/full-stack-developer-1)
 - [WhatsApp Beaten by Apple’s New iMessage Privacy Update](https://www.forbes.com/sites/zakdoffman/2021/01/03/whatsapp-beaten-by-apples-new-imessage-update-for-iphone-users/)
-- [Apple's privacy labels show WhatsApp and Facebook Messenger hunger for user data](https://www.techradar.com/news/apples-privacy-labels-reveals-whatsapp-and-facebook-messengers-hunger-for-user-data)
-- [Tether has been manipulating Bitcoin's price upwards for years now](https://twitter.com/JacobOracle/status/1346133062204198917)
-- [Doing Symbolic Math with SymPy](https://lwn.net/Articles/840986/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
