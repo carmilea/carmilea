@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Get started with #SingleStore in C# and .NET](https://www.youtube.com/watch?v=E-4t5uqZosk)
 - [Live and Historical #Monitoring in #SingleStore #Studio](https://www.youtube.com/watch?v=n8eEkSqaN5Y)
 - [#SQL Select into #JSON with #SingleStore](https://www.youtube.com/watch?v=y9oL_r7gEPY)
 - [#SingleStore #Indexes](https://www.youtube.com/watch?v=fYpajwmVrfU)
 - [Operational #BI: Executing #ML models at #speed and #scale](https://www.youtube.com/watch?v=tJX4keRszMA)
-- [#Offline #Deployment with the #SingleStore Browser UI](https://www.youtube.com/watch?v=iujEOWe3ziE)
 <!-- YOUTUBE:END -->
 
 
