@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Treasury (YC S18) is hiring full-stack software engineers](https://angel.co/company/moderntreasury/jobs/617123-full-stack-software-engineer)
+- [The International Obfuscated C Code Contest 2020 winners](https://www.ioccc.org/2020/carlini/index.html)
+- [Smooth voxel terrain: isosurface extraction with marching cubes and surface nets](https://0fps.net/2012/07/12/smooth-voxel-terrain-part-2/)
+- [Session Protocol: Technical implementation details](https://getsession.org/session-protocol-technical-information/)
 - [Signal AMA on Reddit](https://www.reddit.com/r/technology/comments/kt91qk/signal_private_messenger_team_here_we_support_an/)
-- [We Don't Sell Ads (2012)](https://blog.whatsapp.com/why-we-don-t-sell-ads)
-- [Why Plainclothes Police Had Striped Reflective Tape on Their Glocks](https://www.thedrive.com/the-war-zone/38590/why-plainclothes-police-had-striped-reflective-tape-on-their-glocks-during-the-capitol-siege)
-- [Ajit Pai, FCC drops Section 230 plan](https://arstechnica.com/tech-policy/2021/01/ajit-pai-abandons-plan-to-help-trump-punish-facebook-and-twitter/)
-- [Laptop stolen from Pelosi's office during storming of U.S. Capitol, says aide](https://www.reuters.com/article/BigStory12/idUSKBN29D2HA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
