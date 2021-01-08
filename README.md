@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brad Rukstales, CEO of Cognesia, Arrested at U.S. Capitol Riot](https://chicago.cbslocal.com/2021/01/07/brad-rukstales-of-inverness-arrested-at-u-s-capitol-riot-apologizes-and-expresses-embarrassment/)
+- [Raycast (YC W20) Is Hiring to Make Developers More Productive (UTC ± 3h)](https://raycast.com/jobs)
+- [FCC Democrats Set to Move on Net Neutrality, Broadband Subsidies](https://news.bloomberglaw.com/tech-and-telecom-law/fcc-democrats-set-to-move-on-net-neutrality-broadband-subsidies)
 - [How Tail Call Optimization Works](https://eklitzke.org/how-tail-call-optimization-works)
-- [Hyundai Motor says it is in early talks with Apple](https://www.reuters.com/article/us-hyundai-motor-stocks/hyundai-motor-says-it-is-in-early-talks-with-apple-shares-surge-24-idUSKBN29D02E)
 - [Avoiding instruction cache misses (2019)](https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/)
-- [CO2 already emitted will warm Earth beyond climate targets, study finds](https://www.cbc.ca/news/technology/climate-targets-1.5861537)
-- [College campuses are designed at human-scale – cities can be too](https://www.strongtowns.org/journal/2021/1/6/college-campuses-as-a-model-for-urban-planning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
