@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Signal AMA on Reddit](https://www.reddit.com/r/technology/comments/kt91qk/signal_private_messenger_team_here_we_support_an/)
 - [We Don't Sell Ads (2012)](https://blog.whatsapp.com/why-we-don-t-sell-ads)
 - [Why Plainclothes Police Had Striped Reflective Tape on Their Glocks](https://www.thedrive.com/the-war-zone/38590/why-plainclothes-police-had-striped-reflective-tape-on-their-glocks-during-the-capitol-siege)
+- [Ajit Pai, FCC drops Section 230 plan](https://arstechnica.com/tech-policy/2021/01/ajit-pai-abandons-plan-to-help-trump-punish-facebook-and-twitter/)
 - [Laptop stolen from Pelosi's office during storming of U.S. Capitol, says aide](https://www.reuters.com/article/BigStory12/idUSKBN29D2HA)
-- [Archaeologists in Turkey Unearth 2,500-Year-Old Temple of Aphrodite](https://www.smithsonianmag.com/smart-news/2500-year-old-temple-aphrodite-found-turkey-180976694/)
-- [Reddit bans subreddit group “r/DonaldTrump”](https://www.axios.com/reddit-bans-rdonaldtrump-subreddit-ff1da2de-37ab-49cf-afbd-2012f806959e.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
