@@ -54,8 +54,8 @@
 - [Hyundai Motor says it is in early talks with Apple](https://www.reuters.com/article/us-hyundai-motor-stocks/hyundai-motor-says-it-is-in-early-talks-with-apple-shares-surge-24-idUSKBN29D02E)
 - [Avoiding instruction cache misses (2019)](https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/)
 - [CO2 already emitted will warm Earth beyond climate targets, study finds](https://www.cbc.ca/news/technology/climate-targets-1.5861537)
+- [College Campuses Are Designed at Human-Scale. Our Cities Can Be Too](https://www.strongtowns.org/journal/2021/1/6/college-campuses-as-a-model-for-urban-planning)
 - [Sealed U.S. Court Records Exposed in SolarWinds Breach](https://krebsonsecurity.com/2021/01/sealed-u-s-court-records-exposed-in-solarwinds-breach/)
-- [Show HN: Leet Resumes – a free technical resume-writing service](https://leetresumes.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
