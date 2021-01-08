@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nancy Pelosi spokesman confirms laptop was stolen from the speaker’s office](https://www.theguardian.com/us-news/live/2021/jan/08/donald-trump-capitol-impeachment-joe-biden-election-coronavirus-covid-live-updates)
-- [2020 Mathematical Art Exhibition](http://www.ams.org/publicoutreach/math-imagery/2020-Exhibition)
-- [Apache Beam for Search: Getting Started by Hacking Time](https://shopify.engineering/apache-beam-for-search-getting-started-by-hacking-time)
-- [Truebill (YC W16) Is Hiring a Head of Security](https://boards.greenhouse.io/truebill/jobs/4297986003)
-- [Ask HN: Which companies work like Gumroad?](https://news.ycombinator.com/item?id=25686678)
+- [We Don't Sell Ads (2012)](https://blog.whatsapp.com/why-we-don-t-sell-ads)
+- [Why Plainclothes Police Had Striped Reflective Tape on Their Glocks](https://www.thedrive.com/the-war-zone/38590/why-plainclothes-police-had-striped-reflective-tape-on-their-glocks-during-the-capitol-siege)
+- [Laptop stolen from Pelosi's office during storming of U.S. Capitol, says aide](https://www.reuters.com/article/BigStory12/idUSKBN29D2HA)
+- [Archaeologists in Turkey Unearth 2,500-Year-Old Temple of Aphrodite](https://www.smithsonianmag.com/smart-news/2500-year-old-temple-aphrodite-found-turkey-180976694/)
+- [Reddit bans subreddit group “r/DonaldTrump”](https://www.axios.com/reddit-bans-rdonaldtrump-subreddit-ff1da2de-37ab-49cf-afbd-2012f806959e.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
