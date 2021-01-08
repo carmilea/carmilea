@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Permanent suspension of @realDonaldTrump](https://blog.twitter.com/en_us/topics/company/2020/suspension.html)
+- [The Semantic Web, Syllogism, and Worldview (Clay Shirky, 2003)](https://www.karmak.org/archive/2004/06/semantic_syllogism.html)
+- [Apple and Google face pressure to deplatform Parler](https://www.theverge.com/2021/1/8/22220366/apple-google-parler-pressure-deplatform-violence-capitol)
 - [Red Hat to acquire Kubernetes security company StackRox](https://www.redhat.com/en/about/press-releases/red-hat-acquire-kubernetes-native-security-leader-stackrox)
 - [Research team demonstrates world’s fastest optical neuromorphic processor](https://www.swinburne.edu.au/news/2021/01/swinburne-led-research-team-demonstrates-worlds-fastest-optical-neuromorphic-processor/)
-- [Modern Treasury (YC S18) is hiring full-stack software engineers](https://angel.co/company/moderntreasury/jobs/617123-full-stack-software-engineer)
-- [Best of show – abuse of libc](https://www.ioccc.org/2020/carlini/index.html)
-- [Intel Talks with TSMC, Samsung to Outsource Some Chip Production](https://www.bloomberg.com/news/articles/2021-01-08/intel-talks-with-tsmc-samsung-to-outsource-some-chip-production)
 <!-- BLOG-POST-LIST:END -->
 
 ---
