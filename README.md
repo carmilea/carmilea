@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CO2 already emitted will warm Earth beyond climate targets](https://www.cbc.ca/news/technology/climate-targets-1.5861537)
+- [Genetic correlation of various human qualities](https://twitter.com/dr_appie/status/1347214300318998529)
+- [Sealed U.S. Court Records Exposed in SolarWinds Breach](https://krebsonsecurity.com/2021/01/sealed-u-s-court-records-exposed-in-solarwinds-breach/)
+- [Insurrectionists’ social media presence gives feds an easy way to ID them](https://arstechnica.com/tech-policy/2021/01/insurrectionists-social-media-presence-gives-feds-an-easy-way-to-id-them/)
 - [Show HN: Leet Resumes – a free technical resume-writing service](https://leetresumes.com/)
-- [A Porsche Taycan Just Beat Tesla for the Fastest EV Cannonball Run Record](https://www.thedrive.com/news/38578/a-porsche-taycan-just-beat-tesla-for-the-fastest-ev-cannonball-run-record)
-- [Boeing charged with 737 Max fraud conspiracy and agrees to pay over $2.5B](https://www.justice.gov/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion)
-- [DOJ fines Boeing over $2.5B, charges it with fraud conspiracy](https://www.cnbc.com/2021/01/07/doj-fines-boeing-over-2point5-billion-charges-it-with-fraud-conspiracy-over-737-max-crashes.html)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
