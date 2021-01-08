@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Doing Symbolic Math with SymPy](https://lwn.net/Articles/840986/)
 - [The Amiga 1000, Still Receiving New Peripherals 35 Years Later](https://hackaday.com/2021/01/08/the-amiga-1000-still-receiving-new-peripherals-35-years-later/)
 - [TI sent a DMCA takedown to a site archiving datasheets](https://twitter.com/marcan42/status/1347403996332376065)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (UTC ± 3h)](https://raycast.com/jobs)
 - [Scipy Lecture Notes: One document to learn numerics, science, and data in Python](http://www.scipy-lectures.org/index.html)
-- [How Tail Call Optimization Works](https://eklitzke.org/how-tail-call-optimization-works)
 <!-- BLOG-POST-LIST:END -->
 
 ---
