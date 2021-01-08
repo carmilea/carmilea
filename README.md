@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brad Rukstales, CEO of Cognesia, Arrested at U.S. Capitol Riot](https://chicago.cbslocal.com/2021/01/07/brad-rukstales-of-inverness-arrested-at-u-s-capitol-riot-apologizes-and-expresses-embarrassment/)
+- [TI sent a DMCA takedown to a site archiving datasheets](https://twitter.com/marcan42/status/1347403996332376065)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (UTC ± 3h)](https://raycast.com/jobs)
 - [Scipy Lecture Notes: One document to learn numerics, science, and data in Python](http://www.scipy-lectures.org/index.html)
 - [How Tail Call Optimization Works](https://eklitzke.org/how-tail-call-optimization-works)
-- [Avoiding instruction cache misses (2019)](https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/)
+- [Huygens, senior and junior](https://aeon.co/essays/why-huygens-father-and-son-personify-the-scientific-revolution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
