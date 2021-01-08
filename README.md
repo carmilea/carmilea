@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord bans users for using open-source third party clients](https://github.com/Bios-Marcel/cordless#i-am-closing-down-the-cordless-project)
+- [Sci-Hub Founder Criticizes Sudden Twitter Ban over “Counterfeit” Content](https://torrentfreak.com/sci-hub-founder-criticises-sudden-twitter-ban-over-over-counterfeit-content-210108/)
 - [Victory at the High Court against the government’s use of 'general warrants’](https://privacyinternational.org/press-release/4358/victory-high-court-against-governments-use-general-warrants)
+- [World's Busiest International and Domestic Air Routes Right Now](https://www.oag.com/busiest-routes-right-now)
 - [Google Chrome browser privacy plan investigated in UK](https://www.bbc.co.uk/news/technology-55219750)
-- [Show HN: Ecco – See what your NLP language model is “thinking”](https://www.eccox.io/)
-- [Tab (YC, London) is hiring full stack developers (fintech/travel)](https://jobs.tab.travel/o/full-stack-developer-1)
-- [WhatsApp Beaten by Apple’s New iMessage Privacy Update](https://www.forbes.com/sites/zakdoffman/2021/01/03/whatsapp-beaten-by-apples-new-imessage-update-for-iphone-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
