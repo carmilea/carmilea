@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Clubhouse uploads all your contacts](https://twitter.com/Espen_Antonsen/status/1347546630896160770)
-- [WhatsApp security whitepaper update: server might have access to private keys](https://twitter.com/Shiftreduce/status/1347546599384346624)
-- [Excess protein enabled dog domestication during severe Ice Age winters](https://www.scientificamerican.com/article/dog-domestication-may-have-begun-because-paleo-humans-couldnt-stomach-the-original-paleo-diet/)
-- [Why don’t PCs use error correcting RAM? “Because Intel,” says Linus](https://arstechnica.com/gadgets/2021/01/linus-torvalds-blames-intel-for-lack-of-ecc-ram-in-consumer-pcs)
-- [Dominion Voting Systems sues pro-Trump lawyer, seeking more than $1.3B](https://www.washingtonpost.com/politics/dominion-sues-pro-trump-lawyer-sidney-powell-seeking-more-than-13-billion/2021/01/08/ebe5dbe0-5106-11eb-b96e-0e54447b23a1_story.html)
+- [Yeti is a Facebook-Free business](https://blog.yeticheese.com/yeti-is-a-facebook-free-business/)
+- [The Sperm Kings Have a Problem: Too Much Demand](https://www.nytimes.com/2021/01/08/business/sperm-donors-facebook-groups.html)
+- [Mute Your Microphone While Typing with Hushboard](https://popey.com/blog/2021/01/hush-keyboards-with-hushboard/)
+- [Signal WhatsApp Chats Import](https://github.com/signalapp/Signal-Android/issues/1014)
+- [An Update on SolarWinds](https://blog.jetbrains.com/blog/2021/01/07/an-update-on-solarwinds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
