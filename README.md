@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tab (YC, London) is hiring full stack developers (fintech/travel)](https://jobs.tab.travel/o/full-stack-developer-1)
+- [WhatsApp Beaten by Apple’s New iMessage Privacy Update](https://www.forbes.com/sites/zakdoffman/2021/01/03/whatsapp-beaten-by-apples-new-imessage-update-for-iphone-users/)
+- [Apple's privacy labels show WhatsApp and Facebook Messenger hunger for user data](https://www.techradar.com/news/apples-privacy-labels-reveals-whatsapp-and-facebook-messengers-hunger-for-user-data)
+- [Tether has been manipulating Bitcoin's price upwards for years now](https://twitter.com/JacobOracle/status/1346133062204198917)
 - [Doing Symbolic Math with SymPy](https://lwn.net/Articles/840986/)
-- [The Amiga 1000, Still Receiving New Peripherals 35 Years Later](https://hackaday.com/2021/01/08/the-amiga-1000-still-receiving-new-peripherals-35-years-later/)
-- [TI sent a DMCA takedown to a site archiving datasheets](https://twitter.com/marcan42/status/1347403996332376065)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (UTC ± 3h)](https://raycast.com/jobs)
-- [Scipy Lecture Notes: One document to learn numerics, science, and data in Python](http://www.scipy-lectures.org/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
