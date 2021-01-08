@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yeti is a Facebook-Free business](https://blog.yeticheese.com/yeti-is-a-facebook-free-business/)
-- [The Sperm Kings Have a Problem: Too Much Demand](https://www.nytimes.com/2021/01/08/business/sperm-donors-facebook-groups.html)
-- [Mute Your Microphone While Typing with Hushboard](https://popey.com/blog/2021/01/hush-keyboards-with-hushboard/)
-- [Signal WhatsApp Chats Import](https://github.com/signalapp/Signal-Android/issues/1014)
-- [An Update on SolarWinds](https://blog.jetbrains.com/blog/2021/01/07/an-update-on-solarwinds/)
+- [Nancy Pelosi spokesman confirms laptop was stolen from the speaker’s office](https://www.theguardian.com/us-news/live/2021/jan/08/donald-trump-capitol-impeachment-joe-biden-election-coronavirus-covid-live-updates)
+- [2020 Mathematical Art Exhibition](http://www.ams.org/publicoutreach/math-imagery/2020-Exhibition)
+- [Apache Beam for Search: Getting Started by Hacking Time](https://shopify.engineering/apache-beam-for-search-getting-started-by-hacking-time)
+- [Truebill (YC W16) Is Hiring a Head of Security](https://boards.greenhouse.io/truebill/jobs/4297986003)
+- [Ask HN: Which companies work like Gumroad?](https://news.ycombinator.com/item?id=25686678)
 <!-- BLOG-POST-LIST:END -->
 
 ---
