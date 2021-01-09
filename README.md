@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [To the moon: defining and detecting cryptocurrency pump-and-dumps (2018)](https://crimesciencejournal.biomedcentral.com/articles/10.1186/s40163-018-0093-5)
-- [SafetyWing (YC W18) is hiring a back-end engineer (remote)](https://www.workatastartup.com/jobs/41403)
-- [The Capitol Attack Doesn’t Justify Expanding Surveillance](https://www.wired.com/story/opinion-the-capitol-attack-doesnt-justify-expanding-surveillance/)
-- [Early clinical trial shows anti-depressant prevents hospitalization from Covid](https://jamanetwork.com/journals/jama/fullarticle/2773108)
-- [Woo for Its Own Sake](https://scottlocklin.wordpress.com/2021/01/08/woo-for-its-own-sake/)
+- [Crash: Sriwijaya B735 at Jakarta, lost height and impacted Java Sea](https://avherald.com/h?article=4e18553c&opt=0)
+- [Some Tesla Model 3 rear windows shatter spontaneously](https://www.carscoops.com/2021/01/tesla-model-3-window-shatters-spontaneously-minutes-after-taking-delivery/)
+- [ACLU Counsel Warns of 'Unchecked Power' of Twitter, Facebook](https://www.newsweek.com/aclu-counsel-warns-unchecked-power-twitter-facebook-after-trump-suspension-1560248)
+- [Raymarching Distance Fields (2008-2020 compilation)](https://iquilezles.org/www/articles/raymarchingdf/raymarchingdf.htm)
+- [Making Pandemic-proof live Theatre](https://jackp.svbtle.com/pandemic-proof-theatre)
 <!-- BLOG-POST-LIST:END -->
 
 ---
