@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Signal gaining popularity in India after WhatsApp policy changes](https://economictimes.indiatimes.com/tech/technology/whatsapp-rival-signal-reports-growing-pains-after-elon-musks-tweet/articleshow/80172451.cms)
-- [Machine Learning for Developers weekly newsletter (ML4Devs, Issue 1)](https://ml4devs.substack.com/p/001-machine-learning-for-developers-newsletter)
-- [Pfizer vaccine appears effective against new coronavirus variants study suggests](https://www.cbc.ca/news/health/pfizer-biontech-vaccine-appears-effective-against-mutation-in-new-coronavirus-variants-study-suggests-1.5865885)
-- [ACLU Statement Opposing the 'Confronting the Threat of Domestic Terrorism Act' (2019)](https://www.aclu.org/letter/aclu-statement-opposing-hr-4192-confronting-threat-domestic-terrorism-act)
-- [Voice of America CEO Accused of Fraud, Misuse of Office All in One Week](https://www.npr.org/2021/01/08/953999556/voice-of-america-ceo-accused-of-fraud-misuse-of-office-all-in-one-week?t=1610160818306&t=1610161474821)
+- [Pfizer vaccine appears effective against mutation in new coronavirus variants](https://www.cbc.ca/news/health/pfizer-biontech-vaccine-appears-effective-against-mutation-in-new-coronavirus-variants-study-suggests-1.5865885)
+- [Writing an iRacing SDK Implementation in F#](https://markjames.dev/2021-01-08-writing-an-iracing-sdk-implementation-fsharp/)
+- [Trumps email campaign service has suspended him](https://twitter.com/DaveLeeFT/status/1347724201331814401)
+- [Twitter suspends Sci-Hub account amid Indian court case](https://twitter.com/verge/status/1347597998155591680)
 <!-- BLOG-POST-LIST:END -->
 
 ---
