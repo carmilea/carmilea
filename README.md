@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a runtime reflection system for Rust (Part 3)](https://www.osohq.com/post/runtime-reflection-pt-3)
+- [The Muse (YC W12) Is Hiring a Director of Analytics and BI](https://www.themuse.com/jobs/themuse/director-of-analytics-business-intelligence)
+- [Twitter Confirms It Halted 'Hang Mike Pence' as a Trending Topic](https://www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253)
+- [Ugandan Govt Blocks Google Playstore, Apple AppStore, and YouTube](https://techjaja.com/govt-blocks-google-playstore-apple-appstore-and-youtube/)
 - [Writing a Kubernetes CRD Controller in Rust](http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html)
-- [The war between Silicon Valley and Washington takes a new turn](https://www.politico.com/news/2021/01/09/big-tech-trump-twitter-456841)
-- [Robot Made of Ice Can Repair and Rebuild Itself](https://www.freethink.com/articles/robot-made-of-ice)
-- [Clearview AI being used to identify Capitol rioters](https://www.nytimes.com/live/2021/01/09/us/trump-biden#facial-recognition-clearview-capitol)
-- [Canon CR3 Fileformat](https://github.com/lclevy/canon_cr3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
