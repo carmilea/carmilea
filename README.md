@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crash: Sriwijaya B735 at Jakarta, lost height and impacted Java Sea](https://avherald.com/h?article=4e18553c&opt=0)
-- [Some Tesla Model 3 rear windows shatter spontaneously](https://www.carscoops.com/2021/01/tesla-model-3-window-shatters-spontaneously-minutes-after-taking-delivery/)
-- [ACLU Counsel Warns of 'Unchecked Power' of Twitter, Facebook](https://www.newsweek.com/aclu-counsel-warns-unchecked-power-twitter-facebook-after-trump-suspension-1560248)
-- [Raymarching Distance Fields (2008-2020 compilation)](https://iquilezles.org/www/articles/raymarchingdf/raymarchingdf.htm)
-- [Making Pandemic-proof live Theatre](https://jackp.svbtle.com/pandemic-proof-theatre)
+- [Writing a Kubernetes CRD Controller in Rust](http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html)
+- [The war between Silicon Valley and Washington takes a new turn](https://www.politico.com/news/2021/01/09/big-tech-trump-twitter-456841)
+- [Robot Made of Ice Can Repair and Rebuild Itself](https://www.freethink.com/articles/robot-made-of-ice)
+- [Clearview AI being used to identify Capitol rioters](https://www.nytimes.com/live/2021/01/09/us/trump-biden#facial-recognition-clearview-capitol)
+- [Canon CR3 Fileformat](https://github.com/lclevy/canon_cr3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
