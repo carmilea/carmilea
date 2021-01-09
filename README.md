@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google suspending Parler from the Google Play store](https://play.google.com/store/apps/details?id=com.parler.parler&hl=en&gl=US)
-- [Google Bans Parler from the Google Play Store](https://twitter.com/viaCristiano/status/1347705178699558912)
-- [Archive of 43k+ Donald Trump Twitter Screenshots](https://pikaso.me/blog/donald-trump-twitter-archive)
+- [Twitter suspends Sci-Hub account amid Indian court case](https://twitter.com/verge/status/1347597998155591680)
+- [Parlor has been removed from Google Play](https://www.msn.com/en-us/news/technology/parler-removed-from-google-play-store-as-apple-app-store-suspension-reportedly-looms/ar-BB1cB6ny)
+- [Falsehoods and the First Amendment (2019)](https://ssrn.com/abstract=3426765)
+- [When Amazon Switched from Sun to Linux](https://twitter.com/DanRose999/status/1347677573900242944)
 - [Permanent suspension of @realDonaldTrump](https://blog.twitter.com/en_us/topics/company/2020/suspension.html)
-- [Apple Has Threatened to Ban Parler from the App Store](https://www.buzzfeednews.com/article/ryanmac/apple-threatens-ban-parler)
 <!-- BLOG-POST-LIST:END -->
 
 ---
