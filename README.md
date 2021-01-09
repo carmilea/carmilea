@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crash with Antlia 2 gave the Milky Way the ripples in its outer disc](https://phys.org/news/2019-06-evidence-antlia-gave-milky-ripples.html)
+- [Sriwijaya Air flight SJ182, a Boeing 737, has disappeared from radar](https://twitter.com/spectatorindex/status/1347856317839417345)
 - [Akin's Laws of Spacecraft Design](http://spacecraft.ssl.umd.edu/akins_laws.html)
 - [Michael Apted has died](https://www.bbc.co.uk/news/uk-55597263)
 - [Show HN: DevBooks – Help Developers find indy books](https://thesmartcoder.dev/books/)
-- [They spent 12 years solving a puzzle. It yielded the first Covid-19 vaccines](https://www.nationalgeographic.com/science/2020/12/these-scientists-spent-twelve-years-solving-puzzle-yielded-coronavirus-vaccines/)
-- [Show HN: Convier.me – A Calendar Service for Developers](https://convier.me)
 <!-- BLOG-POST-LIST:END -->
 
 ---
