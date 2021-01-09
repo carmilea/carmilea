@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Extracting the IP Address for TheDonald.win](https://soatok.blog/2021/01/09/masks-off-for-thedonald-win/)
-- [Fungi's Lessons for Adapting to Life on a Damaged Planet](https://lithub.com/fungis-lessons-for-adapting-to-life-on-a-damaged-planet/)
-- [Chris Patten: Mass arrests of Hong Kong Democrats [on Jan 6 2021]](https://www.hongkongwatch.org/all-posts/2021/1/6/chris-patten-mass-arrests-of-hong-kong-democrats-shows-why-eu-parliament-must-reject-china-investment-agreement)
-- [Ask HN: Show me your half baked project](https://news.ycombinator.com/item?id=25700135)
-- [Ray Tracing in pure CMake](https://64.github.io/cmake-raytracer/)
+- [Early clinical trial shows anti-depressant prevents hospitalization from Covid](https://jamanetwork.com/journals/jama/fullarticle/2773108)
+- [Woo for Its Own Sake](https://scottlocklin.wordpress.com/2021/01/08/woo-for-its-own-sake/)
+- [NASA's Curiosity rover: 3k days on Mars](https://www.bbc.com/news/science-environment-55562150)
+- [Pesticide believed to kill bees is authorised for use in England](https://www.theguardian.com/environment/2021/jan/09/pesticide-believed-kill-bees-authorised-use-england-eu-farmers)
+- [Next Gen Static Blogging](https://inoads.com/articles/2020-01-09-Next-Gen-Static-Blogging)
 <!-- BLOG-POST-LIST:END -->
 
 ---
