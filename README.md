@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Extracting the IP Address for TheDonald.win](https://soatok.blog/2021/01/09/masks-off-for-thedonald-win/)
+- [Fungi's Lessons for Adapting to Life on a Damaged Planet](https://lithub.com/fungis-lessons-for-adapting-to-life-on-a-damaged-planet/)
+- [Chris Patten: Mass arrests of Hong Kong Democrats [on Jan 6 2021]](https://www.hongkongwatch.org/all-posts/2021/1/6/chris-patten-mass-arrests-of-hong-kong-democrats-shows-why-eu-parliament-must-reject-china-investment-agreement)
+- [Ask HN: Show me your half baked project](https://news.ycombinator.com/item?id=25700135)
 - [Ray Tracing in pure CMake](https://64.github.io/cmake-raytracer/)
-- [Caper Is Hiring](https://recruiterflow.com/caper/jobs/34)
-- [Haskell is a Bad Programming Language (2020)](https://blog.shitiomatic.tech/post/haskell-is-a-bad-programming-language/#👾)
-- [Crash with Antlia 2 gave the Milky Way the ripples in its outer disc](https://phys.org/news/2019-06-evidence-antlia-gave-milky-ripples.html)
-- [Police found pickup truck full of bombs and guns near Capitol](https://edition.cnn.com/2021/01/08/politics/us-capitol-riots-arrest-pelosi-desk/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
