@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [To the moon: defining and detecting cryptocurrency pump-and-dumps (2018)](https://crimesciencejournal.biomedcentral.com/articles/10.1186/s40163-018-0093-5)
+- [SafetyWing (YC W18) is hiring a back-end engineer (remote)](https://www.workatastartup.com/jobs/41403)
+- [The Capitol Attack Doesn’t Justify Expanding Surveillance](https://www.wired.com/story/opinion-the-capitol-attack-doesnt-justify-expanding-surveillance/)
 - [Early clinical trial shows anti-depressant prevents hospitalization from Covid](https://jamanetwork.com/journals/jama/fullarticle/2773108)
 - [Woo for Its Own Sake](https://scottlocklin.wordpress.com/2021/01/08/woo-for-its-own-sake/)
-- [NASA's Curiosity rover: 3k days on Mars](https://www.bbc.com/news/science-environment-55562150)
-- [Pesticide believed to kill bees is authorised for use in England](https://www.theguardian.com/environment/2021/jan/09/pesticide-believed-kill-bees-authorised-use-england-eu-farmers)
-- [Next Gen Static Blogging](https://inoads.com/articles/2020-01-09-Next-Gen-Static-Blogging)
 <!-- BLOG-POST-LIST:END -->
 
 ---
