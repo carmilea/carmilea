@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gun: The P2P database for freedom fighters](https://gun.eco/)
+- [Show HN: Convier.me – A Calendar Service for Developers](https://convier.me)
 - [GitDuck (YC S20) Is Hiring a Product Engineer](https://www.notion.so/gitduck/Product-Engineer-599ce7e227a34d3bb91f695295d69dc5)
 - [You've Been Referred Here Because You're Wrong About Section 230 of the CDA](https://www.techdirt.com/articles/20200531/23325444617/hello-youve-been-referred-here-because-youre-wrong-about-section-230-communications-decency-act.shtml)
-- [Signal gaining popularity in India after WhatsApp policy changes](https://economictimes.indiatimes.com/tech/technology/whatsapp-rival-signal-reports-growing-pains-after-elon-musks-tweet/articleshow/80172451.cms)
-- [Pfizer vaccine appears effective against mutation in new coronavirus variants](https://www.cbc.ca/news/health/pfizer-biontech-vaccine-appears-effective-against-mutation-in-new-coronavirus-variants-study-suggests-1.5865885)
-- [Writing an iRacing SDK Implementation in F#](https://markjames.dev/2021-01-08-writing-an-iracing-sdk-implementation-fsharp/)
+- [Forced Game of Minesweeper on Login](https://github.com/OGoodness/Minesweeper-Login)
 <!-- BLOG-POST-LIST:END -->
 
 ---
