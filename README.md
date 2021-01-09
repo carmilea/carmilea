@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ray Tracing in pure CMake](https://64.github.io/cmake-raytracer/)
+- [Authoritarianism Through Coding: Signal](https://www.oyd.org.tr/en/articles/signal/)
 - [Caper Is Hiring](https://recruiterflow.com/caper/jobs/34)
 - [Haskell is a Bad Programming Language (2020)](https://blog.shitiomatic.tech/post/haskell-is-a-bad-programming-language/#👾)
 - [Crash with Antlia 2 gave the Milky Way the ripples in its outer disc](https://phys.org/news/2019-06-evidence-antlia-gave-milky-ripples.html)
-- [Police found pickup truck full of bombs and guns near Capitol](https://edition.cnn.com/2021/01/08/politics/us-capitol-riots-arrest-pelosi-desk/index.html)
-- [Sriwijaya Air flight SJ182, a Boeing 737, has disappeared from radar](https://twitter.com/spectatorindex/status/1347856317839417345)
 <!-- BLOG-POST-LIST:END -->
 
 ---
