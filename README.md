@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter suspends Sci-Hub account amid Indian court case](https://twitter.com/verge/status/1347597998155591680)
-- [Parlor has been removed from Google Play](https://www.msn.com/en-us/news/technology/parler-removed-from-google-play-store-as-apple-app-store-suspension-reportedly-looms/ar-BB1cB6ny)
-- [Falsehoods and the First Amendment (2019)](https://ssrn.com/abstract=3426765)
-- [When Amazon Switched from Sun to Linux](https://twitter.com/DanRose999/status/1347677573900242944)
-- [Permanent suspension of @realDonaldTrump](https://blog.twitter.com/en_us/topics/company/2020/suspension.html)
+- [Signal gaining popularity in India after WhatsApp policy changes](https://economictimes.indiatimes.com/tech/technology/whatsapp-rival-signal-reports-growing-pains-after-elon-musks-tweet/articleshow/80172451.cms)
+- [Machine Learning for Developers weekly newsletter (ML4Devs, Issue 1)](https://ml4devs.substack.com/p/001-machine-learning-for-developers-newsletter)
+- [Pfizer vaccine appears effective against new coronavirus variants study suggests](https://www.cbc.ca/news/health/pfizer-biontech-vaccine-appears-effective-against-mutation-in-new-coronavirus-variants-study-suggests-1.5865885)
+- [ACLU Statement Opposing the 'Confronting the Threat of Domestic Terrorism Act' (2019)](https://www.aclu.org/letter/aclu-statement-opposing-hr-4192-confronting-threat-domestic-terrorism-act)
+- [Voice of America CEO Accused of Fraud, Misuse of Office All in One Week](https://www.npr.org/2021/01/08/953999556/voice-of-america-ceo-accused-of-fraud-misuse-of-office-all-in-one-week?t=1610160818306&t=1610161474821)
 <!-- BLOG-POST-LIST:END -->
 
 ---
