@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cracks in US nuclear command and control](https://www.axios.com/nuclear-command-control-trump-pelosi-a4f85e00-96a9-4665-8295-332e34d582d9.html)
-- [Tesla to produce $25K car as early as 2022](https://www.teslarati.com/tesla-25k-car-release-date-2022-china-report/)
+- [Lifting Self-Imposed Restrictions on the U.S.-Taiwan Relationship](https://www.state.gov/lifting-self-imposed-restrictions-on-the-u-s-taiwan-relationship/)
 - [Building a runtime reflection system for Rust (Part 3)](https://www.osohq.com/post/runtime-reflection-pt-3)
 - [The Muse (YC W12) Is Hiring a Director of Analytics and BI](https://www.themuse.com/jobs/themuse/director-of-analytics-business-intelligence)
 - [LenPEG](https://www.dangermouse.net/esoteric/lenpeg.html)
+- [Ugandan government blocks Google Play Store, Apple App Store, and YouTube](https://techjaja.com/govt-blocks-google-playstore-apple-appstore-and-youtube/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
