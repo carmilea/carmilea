@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You've Been Referred Here Because You're Wrong About Section 230 of the CDA](https://www.techdirt.com/articles/20200531/23325444617/hello-youve-been-referred-here-because-youre-wrong-about-section-230-communications-decency-act.shtml)
+- [Parler App delisted from Google Play; Apple threatening same within 24h](https://www.nytimes.com/2021/01/08/technology/parler-apple-google.html)
 - [Signal gaining popularity in India after WhatsApp policy changes](https://economictimes.indiatimes.com/tech/technology/whatsapp-rival-signal-reports-growing-pains-after-elon-musks-tweet/articleshow/80172451.cms)
 - [Pfizer vaccine appears effective against mutation in new coronavirus variants](https://www.cbc.ca/news/health/pfizer-biontech-vaccine-appears-effective-against-mutation-in-new-coronavirus-variants-study-suggests-1.5865885)
 - [Writing an iRacing SDK Implementation in F#](https://markjames.dev/2021-01-08-writing-an-iracing-sdk-implementation-fsharp/)
-- [Trumps email campaign service has suspended him](https://twitter.com/DaveLeeFT/status/1347724201331814401)
-- [Twitter suspends Sci-Hub account amid Indian court case](https://twitter.com/verge/status/1347597998155591680)
 <!-- BLOG-POST-LIST:END -->
 
 ---
