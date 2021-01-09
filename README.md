@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Akin's Laws of Spacecraft Design](http://spacecraft.ssl.umd.edu/akins_laws.html)
+- [Michael Apted has died](https://www.bbc.co.uk/news/uk-55597263)
 - [Show HN: DevBooks – Help Developers find indy books](https://thesmartcoder.dev/books/)
 - [They spent 12 years solving a puzzle. It yielded the first Covid-19 vaccines](https://www.nationalgeographic.com/science/2020/12/these-scientists-spent-twelve-years-solving-puzzle-yielded-coronavirus-vaccines/)
 - [Show HN: Convier.me – A Calendar Service for Developers](https://convier.me)
-- [GitDuck (YC S20) Is Hiring a Product Engineer](https://www.notion.so/gitduck/Product-Engineer-599ce7e227a34d3bb91f695295d69dc5)
-- [You've Been Referred Here Because You're Wrong About Section 230 of the CDA](https://www.techdirt.com/articles/20200531/23325444617/hello-youve-been-referred-here-because-youre-wrong-about-section-230-communications-decency-act.shtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
