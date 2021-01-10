@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google enforces 3rd-party cookies on Drive](https://twitter.com/sodomak/status/1348221044318994432)
-- [Ecosia – the search engine that plants trees](https://www.ecosia.org/)
-- [Always-On Time-Series Database: Keeping Up Where There's No Way to Catch Up](https://queue.acm.org/detail.cfm?id=3442634)
-- [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
-- [CTO day 2: downsizing the team](https://danlebrero.com/2020/12/02/cto-diary-downsizing-team-firing/)
+- [Show HN: Array – A Better Python List](https://github.com/Lauriat/funct)
+- [Teacher creates ingenious exam question to find cheaters and catches 14 students](https://www.irishmirror.ie/news/weird-news/teacher-creates-ingenious-exam-question-23228848)
+- [Mux (YC W16) is hiring a support engineer in ~UTC+0](https://mux.com/jobs?hnj=ldn)
+- [Scuttlebutt – A decentralized secure gossip platform](https://scuttlebutt.nz/index)
+- [Collapsing Polar Vortex is set to release the arctic hounds for the US and EU](https://www.severe-weather.eu/global-weather/polar-vortex-collapse-winter-weather-europe-united-states-2021-fa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
