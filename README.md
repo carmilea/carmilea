@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter deletes China embassy's Xinjiang 'emancipation' tweet](https://www.bbc.com/news/world-asia-china-55608089)
 - [DGtal: Digital Geometry Tools and Algorithms Library](https://dgtal.org/)
+- [Tor – all v3 onion addresses are unavailable](https://old.reddit.com/r/TOR/comments/ktv8bw/the_entire_tor_v3_consensus_is_down)
+- [USBQ Toolkit](https://usbq.org/)
 - [Terms of Service; Didn’t Read](https://tosdr.org/en/frontpage)
-- [Show HN: Array – A Better Python List](https://github.com/Lauriat/funct)
-- [Teacher creates ingenious exam question to find cheaters and catches 14 students](https://www.irishmirror.ie/news/weird-news/teacher-creates-ingenious-exam-question-23228848)
-- [Mux (YC W16) is hiring a support engineer in ~UTC+0](https://mux.com/jobs?hnj=ldn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
