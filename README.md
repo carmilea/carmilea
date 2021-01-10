@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google enforces 3rd-party cookies on Drive](https://twitter.com/sodomak/status/1348221044318994432)
 - [Ecosia – the search engine that plants trees](https://www.ecosia.org/)
+- [Always-On Time-Series Database: Keeping Up Where There's No Way to Catch Up](https://queue.acm.org/detail.cfm?id=3442634)
+- [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
 - [CTO day 2: downsizing the team](https://danlebrero.com/2020/12/02/cto-diary-downsizing-team-firing/)
-- [Noise Planets (Generative Art)](https://avinayak.github.io/art/2021/01/09/noise-planets.html)
-- [Blocks Courtesy of Konrad Zuse (2014)](https://journal.infinitenegativeutility.com/blocks-courtesy-of-konrad-zuse)
-- [Twitter thread – What was learnt from deplatforming ISIS](https://twitter.com/amaramarasingam/status/1348147867739975681)
 <!-- BLOG-POST-LIST:END -->
 
 ---
