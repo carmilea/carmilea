@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Cargo Cult (2017)](https://hanshowe.org/2017/02/04/trump-and-the-reverse-cargo-cult/)
-- [We've been running a bootstrapped startup for 1 year. Our top takeaways](https://newscatcherapi.com/blog/we-ve-been-running-a-bootstrapped-startup-for-1-year-our-top-15-takeaways)
-- [Powerful Life Skills for the New Decade](https://neilkakkar.com/powerful-life-skills.html)
-- [The Weirdness of Kentucky Route Zero (2016)](http://blog.joshhaas.com/2016/10/the-weirdness-of-kentucky-route-zero/)
-- [Secure and blinded medical data analysis with OpenSAFELY](https://explainthispaper.com/identifying-covid-risk-factors-new-secure-analytics-platform/)
+- [NixOS Linux](https://nixos.org/)
+- [Sex workers say 'defunding Pornhub' puts their livelihoods at risk](https://www.bbc.com/news/technology-55551300)
+- [The M1 MacBook Air is the best computer I've ever owned](https://bou.ke/blog/macbouk-air/)
+- [Foundations of Embedded Systems](https://f-of-e.org/)
+- [The Early Development of Programming Languages (1976) [pdf]](http://bitsavers.trailing-edge.com/pdf/stanford/cs_techReports/STAN-CS-76-562_EarlyDevelPgmgLang_Aug76.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
