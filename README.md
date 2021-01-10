@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
-- [AWS Boots Parler](https://twitter.com/jsrailton/status/1348092163708612609)
+- [Common pronunciations of Linux directories, commands, etc. (2017)](https://www.linux.org/threads/common-pronunciations-of-linux-directories-commands-etc.4445/)
+- [Wikipedia is 20, and its reputation has never been higher](https://www.economist.com/international/2021/01/09/wikipedia-is-20-and-its-reputation-has-never-been-higher)
 - [Gen Z is using Slack, TikTok, Clubhouse to break into venture capital](https://www.businessinsider.com/gen-z-vcs-slack-movement-venture-capital-investing-tiktok-sway-2021-1)
-- [EFF's Response to Social Media Companies Decision to Block Pres.Trump’s Accounts](https://www.eff.org/deeplinks/2021/01/eff-response-social-media-companies-decision-block-president-trumps-accounts)
-- [PeerTube v3](https://framablog.org/2021/01/07/peertube-v3-its-a-live-a-liiiiive/)
+- [Amazon Is Booting Parler Off of Its Web Hosting Service](https://www.buzzfeednews.com/johnpaczkowski/amazon-parler-aws)
+- [The Platform Is the Enemy](https://danielbmarkham.com/the-platform-is-the-enemy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
