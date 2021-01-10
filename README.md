@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump Twitter ban 'raises regulation questions' – UK govt minister](https://www.bbc.co.uk/news/uk-politics-55609903)
+- [Chemisty of Cast-Iron Seasoning: A Science-Based How-To (2010)](http://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/)
+- [GCC Rust: GCC Front-End for Rust](https://github.com/Rust-GCC/gccrs)
+- [The many lies about reducing complexity part 2: Cloud](https://ea.rna.nl/2021/01/10/the-many-lies-about-reducing-complexity-part-2-cloud/)
+- [Cabal: A peer-to-peer, off-grid, community-first, hackable chat platform](https://cabal.chat/)
 - [US intelligence agencies have 180 days to share what they know about UFOs](https://edition.cnn.com/2021/01/10/us/ufo-report-emergency-relief-bill-trnd/index.html)
-- [Element – All-in-one secure chat app for teams, friends and organisations](https://element.io/)
-- [Twitter deletes China embassy's Xinjiang 'emancipation' tweet](https://www.bbc.com/news/world-asia-china-55608089)
-- [DGtal: Digital Geometry Tools and Algorithms Library](https://dgtal.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
