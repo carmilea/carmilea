@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Is Booting Parler Off of Its Web Hosting Service](https://www.buzzfeednews.com/johnpaczkowski/amazon-parler-aws)
-- [Amazon Is Booting Parler Off AWS](https://www.buzzfeednews.com/article/johnpaczkowski/amazon-parler-aws)
-- [Apple Removes Parler from App Store](https://www.cnn.com/2021/01/09/tech/parler-suspended-apple-app-store/index.html)
+- [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
+- [AWS Boots Parler](https://twitter.com/jsrailton/status/1348092163708612609)
+- [Gen Z is using Slack, TikTok, Clubhouse to break into venture capital](https://www.businessinsider.com/gen-z-vcs-slack-movement-venture-capital-investing-tiktok-sway-2021-1)
 - [EFF's Response to Social Media Companies Decision to Block Pres.Trump’s Accounts](https://www.eff.org/deeplinks/2021/01/eff-response-social-media-companies-decision-block-president-trumps-accounts)
-- [PeerTube v3: it’s a live, a liiiiive](https://framablog.org/2021/01/07/peertube-v3-its-a-live-a-liiiiive/)
+- [PeerTube v3](https://framablog.org/2021/01/07/peertube-v3-its-a-live-a-liiiiive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
