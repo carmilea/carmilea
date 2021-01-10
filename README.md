@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vuejs rejects close to 75% of outside contributions](https://merge-chance.info/target?repo=vuejs/vue)
+- [Microsoft Refuses to Open Source VSCode Python Language Sever](https://github.com/microsoft/pylance-release/issues/4)
+- [Show HN: Dexter, a Voice Controlled Assistant](https://github.com/iamsrp/dexter)
 - [NixOS Linux](https://nixos.org/)
-- [Sex workers say 'defunding Pornhub' puts their livelihoods at risk](https://www.bbc.com/news/technology-55551300)
-- [The M1 MacBook Air is the best computer I've ever owned](https://bou.ke/blog/macbouk-air/)
 - [Foundations of Embedded Systems](https://f-of-e.org/)
-- [The Early Development of Programming Languages (1976) [pdf]](http://bitsavers.trailing-edge.com/pdf/stanford/cs_techReports/STAN-CS-76-562_EarlyDevelPgmgLang_Aug76.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
