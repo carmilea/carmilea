@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Parler CEO Says Service Dropped by “Every Vendor” and Could End His Business](https://deadline.com/2021/01/parler-ceo-says-service-dropped-by-every-vendor-and-could-end-the-company-1234670607/)
+- [Who Is Funding Parler?](https://twitter.com/davetroy/status/1327253991936454663)
+- [Discovering and exploring mmap using Go](https://brunocalza.me/2021/01/10/discovering-and-exploring-mmap-using-go/)
 - [FPGA dev board that's cheap, simple and supported by OSS toolchain](https://github.com/tinyvision-ai-inc/UPduino-v3.0)
-- [GNOME has no thumbnails in the file picker (and my toilets are blocked)](https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html)
-- [Quick Overview of Julia language [pdf]](http://algorithmsbook.com/files/appendix-g.pdf)
-- [Facebook buying ads for Messenger to be top result when you search for 'Signal'](https://twitter.com/signalapp/status/1348079223701794819/)
+- [Counter-Anti-Disintermediation](https://wiki.p2pfoundation.net/Counter-Anti-Disintermediation)
+- [GNOME has no thumbnails in the file picker and my toilets are blocked](https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
