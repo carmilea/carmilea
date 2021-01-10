@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DGtal: Digital Geometry Tools and Algorithms Library](https://dgtal.org/)
+- [Terms of Service; Didn’t Read](https://tosdr.org/en/frontpage)
 - [Show HN: Array – A Better Python List](https://github.com/Lauriat/funct)
 - [Teacher creates ingenious exam question to find cheaters and catches 14 students](https://www.irishmirror.ie/news/weird-news/teacher-creates-ingenious-exam-question-23228848)
 - [Mux (YC W16) is hiring a support engineer in ~UTC+0](https://mux.com/jobs?hnj=ldn)
-- [Scuttlebutt – A decentralized secure gossip platform](https://scuttlebutt.nz/index)
-- [Collapsing Polar Vortex is set to release the arctic hounds for the US and EU](https://www.severe-weather.eu/global-weather/polar-vortex-collapse-winter-weather-europe-united-states-2021-fa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
