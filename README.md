@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parler CEO Says Service Dropped by “Every Vendor” and Could End His Business](https://deadline.com/2021/01/parler-ceo-says-service-dropped-by-every-vendor-and-could-end-the-company-1234670607/)
+- [FPGA dev board that's cheap, simple and supported by OSS toolchain](https://github.com/tinyvision-ai-inc/UPduino-v3.0)
+- [GNOME has no thumbnails in the file picker (and my toilets are blocked)](https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html)
 - [Quick Overview of Julia language [pdf]](http://algorithmsbook.com/files/appendix-g.pdf)
 - [Facebook buying ads for Messenger to be top result when you search for 'Signal'](https://twitter.com/signalapp/status/1348079223701794819/)
-- [Cooking for Founders](https://tylertringas.com/cooking-for-founders/)
-- [Vuejs rejects close to 75% of outside contributions](https://merge-chance.info/target?repo=vuejs/vue)
-- [Show HN: Dexter, a Voice Controlled Assistant](https://github.com/iamsrp/dexter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
