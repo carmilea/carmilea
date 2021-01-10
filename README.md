@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ecosia – the search engine that plants trees](https://www.ecosia.org/)
+- [CTO day 2: downsizing the team](https://danlebrero.com/2020/12/02/cto-diary-downsizing-team-firing/)
+- [Noise Planets (Generative Art)](https://avinayak.github.io/art/2021/01/09/noise-planets.html)
+- [Blocks Courtesy of Konrad Zuse (2014)](https://journal.infinitenegativeutility.com/blocks-courtesy-of-konrad-zuse)
 - [Twitter thread – What was learnt from deplatforming ISIS](https://twitter.com/amaramarasingam/status/1348147867739975681)
-- [Top Ranked Tweets on Hacker News in Year 2020](https://harishgarg.com/writing/hacker-news-front-page-tweets-2020/)
-- [A Breakthrough in Measuring the Building Blocks of Nature](http://m.nautil.us/blog/a-breakthrough-in-measuring-the-building-blocks-of-nature)
-- [Will the US Experience a Violent Upheaval in 2020? (2012)](https://www.livescience.com/22109-cycles-violence-2020.html)
-- [H-1B: Trump administration goes ahead with rule to scrap visa lottery](https://www.mercurynews.com/2021/01/07/h-1b-trump-administration-goes-ahead-with-rule-to-scrap-visa-lottery-but-change-may-not-stand)
 <!-- BLOG-POST-LIST:END -->
 
 ---
