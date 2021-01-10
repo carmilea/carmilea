@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter thread – What was learnt from deplatforming ISIS](https://twitter.com/amaramarasingam/status/1348147867739975681)
+- [Top Ranked Tweets on Hacker News in Year 2020](https://harishgarg.com/writing/hacker-news-front-page-tweets-2020/)
+- [A Breakthrough in Measuring the Building Blocks of Nature](http://m.nautil.us/blog/a-breakthrough-in-measuring-the-building-blocks-of-nature)
 - [Will the US Experience a Violent Upheaval in 2020? (2012)](https://www.livescience.com/22109-cycles-violence-2020.html)
 - [H-1B: Trump administration goes ahead with rule to scrap visa lottery](https://www.mercurynews.com/2021/01/07/h-1b-trump-administration-goes-ahead-with-rule-to-scrap-visa-lottery-but-change-may-not-stand)
-- [How did the Elephant get its Trunk?](https://www.historytoday.com/archive/natural-histories/how-did-elephant-get-its-trunk)
-- [Common pronunciations of Linux directories, commands, etc. (2017)](https://www.linux.org/threads/common-pronunciations-of-linux-directories-commands-etc.4445/)
-- [Skynet – Build a Free Internet](https://siasky.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
