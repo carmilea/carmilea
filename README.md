@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lifting Self-Imposed Restrictions on the U.S.-Taiwan Relationship](https://www.state.gov/lifting-self-imposed-restrictions-on-the-u-s-taiwan-relationship/)
-- [Building a runtime reflection system for Rust (Part 3)](https://www.osohq.com/post/runtime-reflection-pt-3)
-- [The Muse (YC W12) Is Hiring a Director of Analytics and BI](https://www.themuse.com/jobs/themuse/director-of-analytics-business-intelligence)
-- [LenPEG](https://www.dangermouse.net/esoteric/lenpeg.html)
-- [Ugandan government blocks Google Play Store, Apple App Store, and YouTube](https://techjaja.com/govt-blocks-google-playstore-apple-appstore-and-youtube/)
+- [FBI Seeking Information Related to Violent Activity at the U.S. Capitol Building](https://tips.fbi.gov/digitalmedia/aad18481a3e8f02)
+- [Apple suspends Parler from the App Store indefinitely](https://www.nytimes.com/2021/01/09/technology/apple-google-parler.html)
+- [Predictions Scorecard, 2021 January 01 – Rodney Brooks](http://rodneybrooks.com/predictions-scorecard-2021-january-01/)
+- [AVIF support enabled by default in Firefox 86](https://bugzilla.mozilla.org/show_bug.cgi?id=1682995)
+- [An Invisible Tax on the Web: Video Codecs](https://blog.mozilla.org/blog/2018/07/11/royalty-free-web-video-codecs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
