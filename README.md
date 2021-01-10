@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quick Overview of Julia language [pdf]](http://algorithmsbook.com/files/appendix-g.pdf)
+- [Facebook buying ads for Messenger to be top result when you search for 'Signal'](https://twitter.com/signalapp/status/1348079223701794819/)
+- [Cooking for Founders](https://tylertringas.com/cooking-for-founders/)
 - [Vuejs rejects close to 75% of outside contributions](https://merge-chance.info/target?repo=vuejs/vue)
-- [Microsoft Refuses to Open Source VSCode Python Language Sever](https://github.com/microsoft/pylance-release/issues/4)
 - [Show HN: Dexter, a Voice Controlled Assistant](https://github.com/iamsrp/dexter)
-- [NixOS Linux](https://nixos.org/)
-- [Foundations of Embedded Systems](https://f-of-e.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
