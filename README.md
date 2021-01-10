@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How did the Elephant get its Trunk?](https://www.historytoday.com/archive/natural-histories/how-did-elephant-get-its-trunk)
+- [Common pronunciations of Linux directories, commands, etc. (2017)](https://www.linux.org/threads/common-pronunciations-of-linux-directories-commands-etc.4445/)
 - [Skynet – Build a Free Internet](https://siasky.net/)
 - [Wikipedia is 20](https://www.economist.com/international/2021/01/09/wikipedia-is-20-and-its-reputation-has-never-been-higher)
 - [The Platform Is the Enemy](https://danielbmarkham.com/the-platform-is-the-enemy/)
-- [Why 1920s L.A. Went Wild for an 18th-Century Scottish Novelist](https://www.atlasobscura.com/articles/walter-scott-los-angeles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
