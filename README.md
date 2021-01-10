@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump Twitter ban 'raises regulation questions' – UK govt minister](https://www.bbc.co.uk/news/uk-politics-55609903)
+- [US intelligence agencies have 180 days to share what they know about UFOs](https://edition.cnn.com/2021/01/10/us/ufo-report-emergency-relief-bill-trnd/index.html)
+- [Element – All-in-one secure chat app for teams, friends and organisations](https://element.io/)
 - [Twitter deletes China embassy's Xinjiang 'emancipation' tweet](https://www.bbc.com/news/world-asia-china-55608089)
 - [DGtal: Digital Geometry Tools and Algorithms Library](https://dgtal.org/)
-- [Tor – all v3 onion addresses are unavailable](https://old.reddit.com/r/TOR/comments/ktv8bw/the_entire_tor_v3_consensus_is_down)
-- [USBQ Toolkit](https://usbq.org/)
-- [Terms of Service; Didn’t Read](https://tosdr.org/en/frontpage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
