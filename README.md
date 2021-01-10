@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI Seeking Information Related to Violent Activity at the U.S. Capitol Building](https://tips.fbi.gov/digitalmedia/aad18481a3e8f02)
-- [Apple suspends Parler from the App Store indefinitely](https://www.nytimes.com/2021/01/09/technology/apple-google-parler.html)
-- [Predictions Scorecard, 2021 January 01 – Rodney Brooks](http://rodneybrooks.com/predictions-scorecard-2021-january-01/)
-- [AVIF support enabled by default in Firefox 86](https://bugzilla.mozilla.org/show_bug.cgi?id=1682995)
-- [An Invisible Tax on the Web: Video Codecs](https://blog.mozilla.org/blog/2018/07/11/royalty-free-web-video-codecs/)
+- [Amazon Is Booting Parler Off of Its Web Hosting Service](https://www.buzzfeednews.com/johnpaczkowski/amazon-parler-aws)
+- [Amazon Is Booting Parler Off AWS](https://www.buzzfeednews.com/article/johnpaczkowski/amazon-parler-aws)
+- [Apple Removes Parler from App Store](https://www.cnn.com/2021/01/09/tech/parler-suspended-apple-app-store/index.html)
+- [EFF's Response to Social Media Companies Decision to Block Pres.Trump’s Accounts](https://www.eff.org/deeplinks/2021/01/eff-response-social-media-companies-decision-block-president-trumps-accounts)
+- [PeerTube v3: it’s a live, a liiiiive](https://framablog.org/2021/01/07/peertube-v3-its-a-live-a-liiiiive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
