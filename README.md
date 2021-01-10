@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chemisty of Cast-Iron Seasoning: A Science-Based How-To (2010)](http://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/)
-- [GCC Rust: GCC Front-End for Rust](https://github.com/Rust-GCC/gccrs)
-- [The many lies about reducing complexity part 2: Cloud](https://ea.rna.nl/2021/01/10/the-many-lies-about-reducing-complexity-part-2-cloud/)
-- [Cabal: A peer-to-peer, off-grid, community-first, hackable chat platform](https://cabal.chat/)
-- [US intelligence agencies have 180 days to share what they know about UFOs](https://edition.cnn.com/2021/01/10/us/ufo-report-emergency-relief-bill-trnd/index.html)
+- [Reverse Cargo Cult (2017)](https://hanshowe.org/2017/02/04/trump-and-the-reverse-cargo-cult/)
+- [We've been running a bootstrapped startup for 1 year. Our top takeaways](https://newscatcherapi.com/blog/we-ve-been-running-a-bootstrapped-startup-for-1-year-our-top-15-takeaways)
+- [Powerful Life Skills for the New Decade](https://neilkakkar.com/powerful-life-skills.html)
+- [The Weirdness of Kentucky Route Zero (2016)](http://blog.joshhaas.com/2016/10/the-weirdness-of-kentucky-route-zero/)
+- [Secure and blinded medical data analysis with OpenSAFELY](https://explainthispaper.com/identifying-covid-risk-factors-new-secure-analytics-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
