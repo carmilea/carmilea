@@ -54,8 +54,8 @@
 - [DeepSource (YC W20) Is Hiring a Go Engineer](https://deepsource.io/jobs/software-engineer-language-go-in/)
 - [Somerset cattle grid mistaken for wall by car sensors](https://www.bbc.co.uk/news/uk-england-somerset-55571080)
 - [YouTube bans Steve Bannon's podcast channel](https://www.businessinsider.com/youtube-bans-steve-bannon-war-room-podcast-rudy-giuliani-comments-2021-1)
-- [Addressing the Threat from Securities Investments That Finance CCP Military](https://www.federalregister.gov/documents/2020/11/17/2020-25459/addressing-the-threat-from-securities-investments-that-finance-communist-chinese-military-companies)
-- [Automated Symbolic Verification of Telegram's MTProto 2.0](https://arxiv.org/abs/2012.03141)
+- [Counter-Strike: Global Offensive Perfect World Edition](https://counterstrike.fandom.com/wiki/Counter-Strike:_Global_Offensive_Perfect_World_Edition)
+- [Why we need wide adoption of social recovery wallets](https://vitalik.ca/general/2021/01/11/recovery.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
