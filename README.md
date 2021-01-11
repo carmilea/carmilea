@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parler user data exposed and exfiltrated](https://www.alpha.facebook.com/groups/majordomo/permalink/10161497935914522/)
+- [I Can Tolerate Anything Except the Outgroup](https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/)
 - [Runtime improvement for Minimum Cut algorithm first time in 25 years](https://arxiv.org/abs/1911.01145)
 - [Stanford pulls plug on the return of freshmen and sophomores to campus](https://www.mercurynews.com/2021/01/10/stanford-pulls-plug-on-the-return-of-freshmen-and-sophomores-to-campus/)
 - [DeepSource (YC W20) Is Hiring a Go Engineer](https://deepsource.io/jobs/software-engineer-language-go-in/)
-- [YouTube bans Steve Bannon's podcast channel](https://www.businessinsider.com/youtube-bans-steve-bannon-war-room-podcast-rudy-giuliani-comments-2021-1)
-- [Why we need wide adoption of social recovery wallets](https://vitalik.ca/general/2021/01/11/recovery.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
