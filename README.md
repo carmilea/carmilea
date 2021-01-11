@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Parler Databases Disclosed](https://twitter.com/bitburner/status/1348558563019427842)
+- [Why Haskell is our first choice for building production software systems](https://www.foxhound.systems/blog/why-haskell-for-production/)
+- [The IBM 2321 Data Cell Drive](https://web.archive.org/web/20110720214958/https://www.columbia.edu/cu/computinghistory/datacell.html)
 - [Cryptography Dispatches: The Most Backdoor-Looking Bug I’ve Ever Seen](https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-the-most-backdoor-looking/)
 - [Blërg, a microblogging platform](https://blerg.cc/)
-- [Malware on My Android Phone](https://www.beust.com/weblog/malware-on-my-android-phone/)
-- [Member: Decentralized Twitter alternative, uncensorable, open source](https://member.cash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
