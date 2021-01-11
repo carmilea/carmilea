@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Thumbnail.ai – Just paste a blog post link and get a thumbnail](https://thumbnail.ai/)
-- [China CCP to Nationalize Jack Ma's Alibaba and Ant Group – Report](https://www.ibtimes.sg/china-ccp-nationalize-jack-mas-alibaba-ant-group-54444)
-- [Modal (YC W16) Is Hiring a Director of Product](https://www.workatastartup.com/jobs/41461)
-- [Simple Anomaly Detection Using Plain SQL](https://hakibenita.com/sql-anomaly-detection)
-- [Tell HN: Aaron Swartz died today, 8 years ago](https://news.ycombinator.com/item?id=25731566)
+- [Getting Started with Brave](https://support.brave.com/hc/en-us/articles/360035410812-Quickstart-guide-New-to-Brave-Start-here-)
+- [SR-71 Blackbird's ground speed check story](https://theaviationgeekclub.com/sr-71-blackbird-pilot-tells-story-behind-famed-ground-speed-check/)
+- [Intruder at the top of the 20 meter amateur band?](http://ka7oei.blogspot.com/2020/12/intruder-at-top-of-20-meter-amateur-band.html)
+- [RDRAND on AMD Ryzen 9 5900X is flakey](https://github.com/systemd/systemd/issues/18184)
+- [OpenSocial Specification](https://github.com/OpenSocial/spec/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
