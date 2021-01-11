@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [70TB of Parler users’ messages, videos, and posts leaked by security researchers](https://cybernews.com/news/70tb-of-parler-users-messages-videos-and-posts-leaked-by-security-researchers/)
-- [Bitcoin: Be prepared to lose all your money, FCA warns consumers](https://www.theguardian.com/business/2021/jan/11/bitcoin-be-prepared-to-lose-all-your-money-fca-warns-consumers-risk-productis-cryptoassets)
-- [Chinese regulators to push tech giants to share consumer credit data](https://www.reuters.com/article/us-china-big-tech-data-exclusive/exclusive-chinese-regulators-to-push-tech-giants-to-share-consumer-credit-data-sources-idUSKBN29G0M4)
-- [Tim Berners-Lee wants to put people in control of their personal data](https://www.nytimes.com/2021/01/10/technology/tim-berners-lee-privacy-internet.html)
-- [Don't Toss It, Fix It Europe Is Guaranteeing Citizens the “Right to Repair”](https://reasonstobecheerful.world/europe-guarantee-right-to-repair-ifixit/)
+- [Tell HN: Aaron Swartz died today, 8 years ago](https://news.ycombinator.com/item?id=25731566)
+- [Bitmessage: A decentralized and trustless P2P communications protocol](https://wiki.bitmessage.org/index.php/Main_Page)
+- [My personal wishlist for a decentralized social network](https://carter.sande.duodecima.technology/decentralized-wishlist/)
+- [Study: All non-violent criminals jailed on minor drug offence should be released](https://www.newkerala.com/news/2021/4866.htm)
+- [Facebook Admits It Was Used to Incite Violence in Myanmar (2018)](https://www.nytimes.com/2018/11/06/technology/myanmar-facebook.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
