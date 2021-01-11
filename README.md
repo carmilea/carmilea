@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blërg, a microblogging platform](https://blerg.cc/)
 - [Malware on My Android Phone](https://www.beust.com/weblog/malware-on-my-android-phone/)
+- [Member: Decentralized Twitter alternative, uncensorable, open source](https://member.cash/)
 - [The Confusing World of USB](https://fabiensanglard.net/nousb/index.html)
 - [Runtime improvement for Minimum Cut algorithm first time in 25 years (2019)](https://arxiv.org/abs/1911.01145)
-- [Stanford pulls plug on the return of freshmen and sophomores to campus](https://www.mercurynews.com/2021/01/10/stanford-pulls-plug-on-the-return-of-freshmen-and-sophomores-to-campus/)
-- [DeepSource (YC W20) Is Hiring a Go Engineer](https://deepsource.io/jobs/software-engineer-language-go-in/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
