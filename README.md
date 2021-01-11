@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parler Databases Disclosed](https://twitter.com/bitburner/status/1348558563019427842)
+- [Cryptography Dispatches: The Most Backdoor-Looking Bug I’ve Ever Seen](https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-the-most-backdoor-looking/)
 - [Blërg, a microblogging platform](https://blerg.cc/)
 - [Malware on My Android Phone](https://www.beust.com/weblog/malware-on-my-android-phone/)
 - [Member: Decentralized Twitter alternative, uncensorable, open source](https://member.cash/)
-- [The Confusing World of USB](https://fabiensanglard.net/nousb/index.html)
-- [Runtime improvement for Minimum Cut algorithm first time in 25 years (2019)](https://arxiv.org/abs/1911.01145)
 <!-- BLOG-POST-LIST:END -->
 
 ---
