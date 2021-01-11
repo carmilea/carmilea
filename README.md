@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [70TB of Parler users’ messages, videos, and posts leaked by security researchers](https://cybernews.com/news/70tb-of-parler-users-messages-videos-and-posts-leaked-by-security-researchers/)
+- [Trump’s Twitter Exile Spurs Opposition from Germany, France](https://www.bloomberg.com/news/articles/2021-01-11/merkel-sees-closing-trump-s-social-media-accounts-problematic)
+- [Chinese regulators to push tech giants to share consumer credit data](https://www.reuters.com/article/us-china-big-tech-data-exclusive/exclusive-chinese-regulators-to-push-tech-giants-to-share-consumer-credit-data-sources-idUSKBN29G0M4)
 - [Tim Berners-Lee wants to put people in control of their personal data](https://www.nytimes.com/2021/01/10/technology/tim-berners-lee-privacy-internet.html)
-- [Choosing a Model for Your Open Source Business (2017)](https://snipe.net/2017/08/05/choosing-a-model-for-your-open-source-business/)
-- [This Year, Autonomous Trucks Will Take to the Road with No One on Board](https://spectrum.ieee.org/transportation/self-driving/this-year-autonomous-trucks-will-take-to-the-road-with-no-one-on-board)
-- [Stealing Your Private YouTube Videos, One Frame at a Time](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/)
-- [iPhone 7 with dead NAND netbooting unmodified Ubuntu 20.04 via USB ethernet](https://old.reddit.com/r/linux/comments/kux9xx/success_iphone_7_with_dead_nand_netbooting/)
+- [Don't Toss It, Fix It Europe Is Guaranteeing Citizens the “Right to Repair”](https://reasonstobecheerful.world/europe-guarantee-right-to-repair-ifixit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
