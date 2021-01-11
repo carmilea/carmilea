@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Parler's user data may have been breached](https://twitter.com/thejeremyvine/status/1348595834762485763)
-- [Why Haskell is our first choice for building production software systems](https://www.foxhound.systems/blog/why-haskell-for-production/)
-- [The great bicycle boom of 2020](https://www.bbc.com/future/bespoke/made-on-earth/the-great-bicycle-boom-of-2020.html)
-- [The IBM 2321 Data Cell Drive](https://web.archive.org/web/20110720214958/https://www.columbia.edu/cu/computinghistory/datacell.html)
-- [Cryptography Dispatches: The Most Backdoor-Looking Bug I’ve Ever Seen](https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-the-most-backdoor-looking/)
+- [Tim Berners-Lee wants to put people in control of their personal data](https://www.nytimes.com/2021/01/10/technology/tim-berners-lee-privacy-internet.html)
+- [Choosing a Model for Your Open Source Business (2017)](https://snipe.net/2017/08/05/choosing-a-model-for-your-open-source-business/)
+- [This Year, Autonomous Trucks Will Take to the Road with No One on Board](https://spectrum.ieee.org/transportation/self-driving/this-year-autonomous-trucks-will-take-to-the-road-with-no-one-on-board)
+- [Stealing Your Private YouTube Videos, One Frame at a Time](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/)
+- [iPhone 7 with dead NAND netbooting unmodified Ubuntu 20.04 via USB ethernet](https://old.reddit.com/r/linux/comments/kux9xx/success_iphone_7_with_dead_nand_netbooting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
