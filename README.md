@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Donald J. Trump's term ended on 2021-01-11 19:49:00](https://www.state.gov/biographies/donald-j-trump/)
-- [Why Isn’t Telegram End-to-End Encrypted by Default](https://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14)
+- [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
+- [Poland Justice Minister announces online freedom of speech bill](https://polandin.com/51388314/justice-minister-announces-online-freedom-of-speech-bill)
+- [Why Isn’t Telegram End-to-End Encrypted by Default (2017)](https://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14)
 - [CD Projekt Red is under investigation](https://www.mcvuk.com/business-news/cd-projekt-red-is-under-investigation-by-polands-office-of-competition-and-consumer-protection/)
 - [We Need a New Media System](https://taibbi.substack.com/p/we-need-a-new-media-system)
-- [Superintelligence cannot be contained: Lessons from Computability Theory](https://arxiv.org/abs/1607.00913)
 <!-- BLOG-POST-LIST:END -->
 
 ---
