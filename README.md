@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [70TB of Parler users’ messages, videos, and posts leaked by security researchers](https://cybernews.com/news/70tb-of-parler-users-messages-videos-and-posts-leaked-by-security-researchers/)
-- [Trump’s Twitter Exile Spurs Opposition from Germany, France](https://www.bloomberg.com/news/articles/2021-01-11/merkel-sees-closing-trump-s-social-media-accounts-problematic)
+- [Bitcoin: Be prepared to lose all your money, FCA warns consumers](https://www.theguardian.com/business/2021/jan/11/bitcoin-be-prepared-to-lose-all-your-money-fca-warns-consumers-risk-productis-cryptoassets)
 - [Chinese regulators to push tech giants to share consumer credit data](https://www.reuters.com/article/us-china-big-tech-data-exclusive/exclusive-chinese-regulators-to-push-tech-giants-to-share-consumer-credit-data-sources-idUSKBN29G0M4)
 - [Tim Berners-Lee wants to put people in control of their personal data](https://www.nytimes.com/2021/01/10/technology/tim-berners-lee-privacy-internet.html)
 - [Don't Toss It, Fix It Europe Is Guaranteeing Citizens the “Right to Repair”](https://reasonstobecheerful.world/europe-guarantee-right-to-repair-ifixit/)
