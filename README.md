@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Says It Is Removing All Content Mentioning 'Stop the Steal'](https://www.wsj.com/articles/facebook-says-it-is-removing-all-content-mentioning-stop-the-steal-11610401305)
+- [FBI warns of plans for nationwide armed protests next week](https://www.seattletimes.com/nation-world/nation/fbi-warns-of-plans-for-nationwide-armed-protests-next-week/)
 - [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
-- [Poland Justice Minister announces online freedom of speech bill](https://polandin.com/51388314/justice-minister-announces-online-freedom-of-speech-bill)
-- [Why Isn’t Telegram End-to-End Encrypted by Default (2017)](https://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14)
+- [What Is a Gamma Squeeze in the Context of Stock Trading?](https://www.swfinstitute.org/news/83341/what-is-a-gamma-squeeze-in-the-context-of-stock-trading)
 - [CD Projekt Red is under investigation](https://www.mcvuk.com/business-news/cd-projekt-red-is-under-investigation-by-polands-office-of-competition-and-consumer-protection/)
-- [We Need a New Media System](https://taibbi.substack.com/p/we-need-a-new-media-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
