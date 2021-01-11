@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Runtime improvement for Minimum Cut algorithm first time in 25 years](https://arxiv.org/abs/1911.01145)
+- [Stanford pulls plug on the return of freshmen and sophomores to campus](https://www.mercurynews.com/2021/01/10/stanford-pulls-plug-on-the-return-of-freshmen-and-sophomores-to-campus/)
 - [DeepSource (YC W20) Is Hiring a Go Engineer](https://deepsource.io/jobs/software-engineer-language-go-in/)
-- [Somerset cattle grid mistaken for wall by car sensors](https://www.bbc.co.uk/news/uk-england-somerset-55571080)
 - [YouTube bans Steve Bannon's podcast channel](https://www.businessinsider.com/youtube-bans-steve-bannon-war-room-podcast-rudy-giuliani-comments-2021-1)
-- [Counter-Strike: Global Offensive Perfect World Edition](https://counterstrike.fandom.com/wiki/Counter-Strike:_Global_Offensive_Perfect_World_Edition)
 - [Why we need wide adoption of social recovery wallets](https://vitalik.ca/general/2021/01/11/recovery.html)
 <!-- BLOG-POST-LIST:END -->
 
