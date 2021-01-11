@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Thumbnail.ai – Just paste a blog post link and get a thumbnail](https://thumbnail.ai/)
+- [China CCP to Nationalize Jack Ma's Alibaba and Ant Group – Report](https://www.ibtimes.sg/china-ccp-nationalize-jack-mas-alibaba-ant-group-54444)
+- [Modal (YC W16) Is Hiring a Director of Product](https://www.workatastartup.com/jobs/41461)
+- [Simple Anomaly Detection Using Plain SQL](https://hakibenita.com/sql-anomaly-detection)
 - [Tell HN: Aaron Swartz died today, 8 years ago](https://news.ycombinator.com/item?id=25731566)
-- [Bitmessage: A decentralized and trustless P2P communications protocol](https://wiki.bitmessage.org/index.php/Main_Page)
-- [My personal wishlist for a decentralized social network](https://carter.sande.duodecima.technology/decentralized-wishlist/)
-- [Study: All non-violent criminals jailed on minor drug offence should be released](https://www.newkerala.com/news/2021/4866.htm)
-- [Facebook Admits It Was Used to Incite Violence in Myanmar (2018)](https://www.nytimes.com/2018/11/06/technology/myanmar-facebook.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
