@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Brave](https://support.brave.com/hc/en-us/articles/360035410812-Quickstart-guide-New-to-Brave-Start-here-)
-- [SR-71 Blackbird's ground speed check story](https://theaviationgeekclub.com/sr-71-blackbird-pilot-tells-story-behind-famed-ground-speed-check/)
-- [Intruder at the top of the 20 meter amateur band?](http://ka7oei.blogspot.com/2020/12/intruder-at-top-of-20-meter-amateur-band.html)
-- [RDRAND on AMD Ryzen 9 5900X is flakey](https://github.com/systemd/systemd/issues/18184)
-- [OpenSocial Specification](https://github.com/OpenSocial/spec/)
+- [Donald J. Trump's term ended on 2021-01-11 19:49:00](https://www.state.gov/biographies/donald-j-trump/)
+- [Why Isn’t Telegram End-to-End Encrypted by Default](https://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14)
+- [CD Projekt Red is under investigation](https://www.mcvuk.com/business-news/cd-projekt-red-is-under-investigation-by-polands-office-of-competition-and-consumer-protection/)
+- [We Need a New Media System](https://taibbi.substack.com/p/we-need-a-new-media-system)
+- [Superintelligence cannot be contained: Lessons from Computability Theory](https://arxiv.org/abs/1607.00913)
 <!-- BLOG-POST-LIST:END -->
 
 ---
