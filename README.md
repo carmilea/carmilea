@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unbiquiti FrontRow](https://www.frontrow.com/)
+- [The Internet's Own Boy: The Story of Aaron Swartz (2014)](https://peertube2.cpy.re/videos/watch/04af977f-4201-4697-be67-a8d8cae6fa7a)
+- [Getting Ready for Launch](https://adhoc.team/2021/01/08/getting-ready-for-launch/)
+- [Citing 'Censorship' Concerns, North Idaho ISP Blocks Facebook, Twitter](https://www.kgw.com/article/news/local/idaho-internet-provider-blocks-facebook-and-twitter/293-867cc22b-fb90-4142-a296-8d800d2a03fb)
 - [Facebook Says It Is Removing All Content Mentioning 'Stop the Steal'](https://www.wsj.com/articles/facebook-says-it-is-removing-all-content-mentioning-stop-the-steal-11610401305)
-- [FBI warns of plans for nationwide armed protests next week](https://www.seattletimes.com/nation-world/nation/fbi-warns-of-plans-for-nationwide-armed-protests-next-week/)
-- [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
-- [What Is a Gamma Squeeze in the Context of Stock Trading?](https://www.swfinstitute.org/news/83341/what-is-a-gamma-squeeze-in-the-context-of-stock-trading)
-- [CD Projekt Red is under investigation](https://www.mcvuk.com/business-news/cd-projekt-red-is-under-investigation-by-polands-office-of-competition-and-consumer-protection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
