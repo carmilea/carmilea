@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Is Funding Parler?](https://twitter.com/davetroy/status/1327253991936454663)
-- [Discovering and exploring mmap using Go](https://brunocalza.me/2021/01/10/discovering-and-exploring-mmap-using-go/)
-- [FPGA dev board that's cheap, simple and supported by OSS toolchain](https://github.com/tinyvision-ai-inc/UPduino-v3.0)
-- [Counter-Anti-Disintermediation](https://wiki.p2pfoundation.net/Counter-Anti-Disintermediation)
-- [GNOME has no thumbnails in the file picker and my toilets are blocked](https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html)
+- [DeepSource (YC W20) Is Hiring a Go Engineer](https://deepsource.io/jobs/software-engineer-language-go-in/)
+- [Somerset cattle grid mistaken for wall by car sensors](https://www.bbc.co.uk/news/uk-england-somerset-55571080)
+- [YouTube bans Steve Bannon's podcast channel](https://www.businessinsider.com/youtube-bans-steve-bannon-war-room-podcast-rudy-giuliani-comments-2021-1)
+- [Addressing the Threat from Securities Investments That Finance CCP Military](https://www.federalregister.gov/documents/2020/11/17/2020-25459/addressing-the-threat-from-securities-investments-that-finance-communist-chinese-military-companies)
+- [Automated Symbolic Verification of Telegram's MTProto 2.0](https://arxiv.org/abs/2012.03141)
 <!-- BLOG-POST-LIST:END -->
 
 ---
