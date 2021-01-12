@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Sued by YouTube Rival Rumble over Search Rankings](https://www.wsj.com/articles/google-sued-by-youtube-rival-over-search-rankings-11610407969)
 - [Sirum (YC W15 Nonprofit) hiring engineers to improve healthcare for families](https://www.sirum.org/about/#careers)
-- [Unbiquiti FrontRow](https://www.frontrow.com/)
 - [Getting Ready for Launch](https://adhoc.team/2021/01/08/getting-ready-for-launch/)
 - [My ISP Is Killing My Idle SSH Sessions. Yours Might Be Too](https://anderstrier.dk/2021/01/11/my-isp-is-killing-my-idle-ssh-sessions-yours-might-be-too/)
-- [Now what? The collateral damage of a tech backlash](https://blog.nillium.com/now-what-the-collateral-damage-of-a-tech-backlash/)
+- [An additional non-backtracking RegExp engine](https://v8.dev/blog/non-backtracking-regexp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
