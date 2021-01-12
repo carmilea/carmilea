@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US imposes 25% Tarriff on importing aircraft parts from Europe](https://simpleflying.com/airbus-us-tariffs/)
-- [Flash is finally gone: The end arrives as Adobe starts blocking Flash content](https://www.zdnet.com/article/adobe-flash-is-over-the-end-has-finally-arrived-as-adobe-starts-blocking-flash-content/)
-- [After Twitter Ban, Sci Hub Is Now on the Uncensorable Web](https://www.nasdaq.com/articles/pirated-academic-database-sci-hub-is-now-on-the-uncensorable-web-2021-01-11)
-- [The State of FOSS in India](https://state-of-foss.in/)
-- [America Bankrupted Its Cities – The Growth Ponzi Scheme](https://www.youtube.com/watch?v=7IsMeKl-Sv0)
+- [Sorting Robotics (YC W19) Is Hiring](https://www.workatastartup.com/jobs/41476)
+- [Show HN: Amplication – Instantly Generate Node.js Apps with GraphQL and REST API](https://github.com/amplication/amplication)
+- [Huawei ExaGear: x86_64 apps on Arm 64-bit Linux systems](https://threedots.ovh/blog/2021/01/huawei-exagear-x86_64-apps-on-arm64/)
+- [Uganda bans social media ahead of presidential election](https://www.reuters.com/article/us-uganda-election/ugandan-opposition-presidential-candidate-bobi-wine-says-military-raided-his-home-idUSKBN29H0KH)
+- [The Lies that can Undermine Democracy](https://martinfowler.com/articles/202101-lies-and-democracy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
