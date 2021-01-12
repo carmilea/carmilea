@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the Canadian Tech Scene Doesn’t Work](https://alexdanco.com/2021/01/11/why-the-canadian-tech-scene-doesnt-work/)
+- [GoDaddy Boots AR15.com](https://www.thetruthaboutguns.com/the-deplatforming-continues-godaddy-boots-ar15-com/)
 - [Theranos destroyed subpoenaed SQL blood test database, prosecutors say](https://www.theregister.com/2021/01/12/theranos_database_loss/)
 - [Amazon Echo Flex Teardown: Microphone Mute, Real or Fake?](https://electronupdate.blogspot.com/2021/01/amazon-echo-flex-microphone-mute-real.html)
-- [Moderna is announcing three new vaccine programs. Seasonal flu, HIV, and Nipah](https://investors.modernatx.com/news-releases/news-release-details/moderna-provides-business-update-and-announces-three-new)
-- [Show HN: Symmetrical Drawing Tool for Doodling](https://www.aliciaunderhill.xyz/Andala/)
-- [Baby Megalodons Were 6-Foot-Long Womb Cannibals, Study Suggests](https://www.nytimes.com/2021/01/10/science/megalodons-baby-shark.html)
+- [Moderna is announcing three new vaccine programs](https://investors.modernatx.com/news-releases/news-release-details/moderna-provides-business-update-and-announces-three-new)
 <!-- BLOG-POST-LIST:END -->
 
 ---
