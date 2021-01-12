@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Solarwind, Fireeye, Microsoft and Cisco leaks are offered for sale](http://solarleaks.net/)
+- [Learn X by Doing Y – A project-based learning search engine](https://aquadzn.github.io/learn-x-by-doing-y/)
+- [The Smalltalk Zoo](https://smalltalkzoo.thechm.org/)
 - [Visa and Plaid Abandon Merger After Antitrust Division’s Suit to Block](https://www.justice.gov/opa/pr/visa-and-plaid-abandon-merger-after-antitrust-division-s-suit-block)
 - [Repl.it is hiring designers and engineers to build better programming environments](https://repl.it/site/careers)
-- [SolarWinds: What Hit Us Could Hit Others](https://krebsonsecurity.com/2021/01/solarwinds-what-hit-us-could-hit-others/)
-- [Entire Computer Science Curriculum in 1000 YouTube Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/)
-- [Central Spain records temperatures of -25°C after snowstorm](https://www.bbc.co.uk/news/world-europe-55632791)
 <!-- BLOG-POST-LIST:END -->
 
 ---
