@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Central Spain records temperatures of -25°C after snowstorm](https://www.bbc.co.uk/news/world-europe-55632791)
 - [U.S. to require negative Covid-19 tests for international air passengers](https://www.reuters.com/article/us-health-coronavirus-airlines/u-s-to-require-negative-covid-19-tests-for-international-air-passengers-sources-idUSKBN29H2KD)
-- [If it will matter after today, stop talking about it in a chat room](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/)
-- [Show HN: Vantage – An alternative AWS console focused on developer experience](https://www.vantage.sh/)
-- [A Proposal for Adding Generics to Go](https://blog.golang.org/generics-proposal)
-- [BioNTech CEO applies Covid-19 vaccine's mRNA tech to multiple sclerosis](https://www.fiercebiotech.com/research/biontech-ceo-turns-covid-19-vaccine-s-mrna-tech-against-multiple-sclerosis)
+- [Software That Sucks Less](https://suckless.org/philosophy/)
+- [If it will matter after today, don't talk about it in a chat room](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/)
+- [Telegram surpassed 500M active users. 25 mil new users in the last 3days](https://twitter.com/telegram/status/1349014065931284480)
 <!-- BLOG-POST-LIST:END -->
 
 ---
