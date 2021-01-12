@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Messenger Comparisons – Threema, Signal, Telegram and WhatsApp](https://threema.ch/en/messenger-comparison)
+- [President of Mexico warns about Silicon Valley censorship](https://www.reddit.com/r/media_criticism/comments/kvkp3k/listen_to_the_mexican_presidents_warnings_about/)
+- [Facebook confirms data-sharing agreements with Chinese firms, including Huawei (2018)](https://www.bbc.com/news/business-44379593)
 - [Signal Fork with WhatsApp Migration](https://github.com/jukefoxer/Signal-Android/tree/feature/wa-db-import)
-- [Show HN: See the Price of Stocks in BTC](https://stonksinbtc.xyz/)
-- [Teamspeak 5 to be based on the Matrix protocol](https://community.teamspeak.com/t/teamspeak-5-beta-bug-report-bbcode-not-working-channel-commander-not-shown/14670/4)
-- [Molly for Android: A fork of Signal for Android with passphrase lock](https://github.com/mollyim/mollyim-android)
-- [Parler social network sues Amazon for pulling support](https://www.bbc.com/news/technology-55615214)
+- [A Brief Introduction to Forth (1993)](https://users.ece.cmu.edu/~koopman/forth/hopl.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
