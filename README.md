@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sirum (YC W15 Nonprofit) hiring engineers to improve healthcare for families](https://www.sirum.org/about/#careers)
 - [Unbiquiti FrontRow](https://www.frontrow.com/)
-- [The Internet's Own Boy: The Story of Aaron Swartz (2014)](https://peertube2.cpy.re/videos/watch/04af977f-4201-4697-be67-a8d8cae6fa7a)
 - [Getting Ready for Launch](https://adhoc.team/2021/01/08/getting-ready-for-launch/)
-- [Citing 'Censorship' Concerns, North Idaho ISP Blocks Facebook, Twitter](https://www.kgw.com/article/news/local/idaho-internet-provider-blocks-facebook-and-twitter/293-867cc22b-fb90-4142-a296-8d800d2a03fb)
-- [Facebook Says It Is Removing All Content Mentioning 'Stop the Steal'](https://www.wsj.com/articles/facebook-says-it-is-removing-all-content-mentioning-stop-the-steal-11610401305)
+- [My ISP Is Killing My Idle SSH Sessions. Yours Might Be Too](https://anderstrier.dk/2021/01/11/my-isp-is-killing-my-idle-ssh-sessions-yours-might-be-too/)
+- [Now what? The collateral damage of a tech backlash](https://blog.nillium.com/now-what-the-collateral-damage-of-a-tech-backlash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
