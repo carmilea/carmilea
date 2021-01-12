@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel’s 8-Core Mobile Tiger Lake-H, at 45 W, to Ship in Q1](https://www.anandtech.com/show/16384/intels-8-core-mobile-tiger-lake-h-at-45-w-to-ship-in-q1)
+- [Salesforce has “taken action” against the RNC, but won’t say how](https://www.reuters.com/article/us-usa-election-corporate-salesforce-com/salesforce-says-it-has-taken-action-to-prevent-further-u-s-political-violence-idUSKBN29H003)
+- [Leaked memos Amazon warn 'be vigilant' due to threats to blow up data centers](https://www.businessinsider.com/amazon-cloud-exec-warns-employees-vigilant-after-parler-ban-2021-1)
 - [Pachyderm is hiring a Sr Python Eng to join our Integrations team](https://boards.greenhouse.io/pachyderm/jobs/4281815003)
-- [Facebook to staff: Avoid company-branded clothing for own safety](https://www.businessinsider.com/facebook-trump-ban-staff-company-branded-clothing-safety-concerns-2021-1)
-- [Facebook targets “stop the steal” content ahead of Inauguration Day](https://www.zdnet.com/article/facebook-targets-stop-the-steal-content-ahead-of-inauguration-day/)
-- [Messenger Comparisons – Threema, Signal, Telegram and WhatsApp](https://threema.ch/en/messenger-comparison)
-- [I received first-ever donation on my open-source side project and it felt great](https://gourav.io/blog/first-donation-on-open-source-side-project)
+- [Plain Text Accounting](https://plaintextaccounting.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
