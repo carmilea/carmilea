@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Vantage – An alternative AWS console focused on developer experience](https://www.vantage.sh/)
+- [A Proposal for Adding Generics to Go](https://blog.golang.org/generics-proposal)
 - [Sorting Robotics (YC W19) Is Hiring](https://www.workatastartup.com/jobs/41476)
 - [Show HN: Amplication – Instantly Generate Node.js Apps with GraphQL and REST API](https://github.com/amplication/amplication)
 - [Huawei ExaGear: x86_64 apps on Arm 64-bit Linux systems](https://threedots.ovh/blog/2021/01/huawei-exagear-x86_64-apps-on-arm64/)
-- [Uganda bans social media ahead of presidential election](https://www.reuters.com/article/us-uganda-election/ugandan-opposition-presidential-candidate-bobi-wine-says-military-raided-his-home-idUSKBN29H0KH)
-- [The Lies that can Undermine Democracy](https://martinfowler.com/articles/202101-lies-and-democracy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
