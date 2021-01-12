@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook to staff: Avoid company-branded clothing for own safety](https://www.businessinsider.com/facebook-trump-ban-staff-company-branded-clothing-safety-concerns-2021-1)
+- [Facebook targets “stop the steal” content ahead of Inauguration Day](https://www.zdnet.com/article/facebook-targets-stop-the-steal-content-ahead-of-inauguration-day/)
 - [Messenger Comparisons – Threema, Signal, Telegram and WhatsApp](https://threema.ch/en/messenger-comparison)
-- [President of Mexico warns about Silicon Valley censorship](https://www.reddit.com/r/media_criticism/comments/kvkp3k/listen_to_the_mexican_presidents_warnings_about/)
+- [The Pomodoro Technique for Time Management](https://blog.ticktick.com/2021/01/11/pomodoro-technique-how-to-do-it-and-why-it-works/)
 - [Facebook confirms data-sharing agreements with Chinese firms, including Huawei (2018)](https://www.bbc.com/news/business-44379593)
-- [Signal Fork with WhatsApp Migration](https://github.com/jukefoxer/Signal-Android/tree/feature/wa-db-import)
-- [A Brief Introduction to Forth (1993)](https://users.ece.cmu.edu/~koopman/forth/hopl.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
