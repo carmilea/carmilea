@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Idaho internet provider blocks Facebook, Twitter](https://www.kgw.com/article/news/local/technology/idaho-internet-provider-blocks-facebook-and-twitter/293-867cc22b-fb90-4142-a296-8d800d2a03fb)
+- [Signal Fork with WhatsApp Migration](https://github.com/jukefoxer/Signal-Android/tree/feature/wa-db-import)
+- [Show HN: See the Price of Stocks in BTC](https://stonksinbtc.xyz/)
 - [Teamspeak 5 to be based on the Matrix protocol](https://community.teamspeak.com/t/teamspeak-5-beta-bug-report-bbcode-not-working-channel-commander-not-shown/14670/4)
-- [Lulu – Mac open-source firewall that aims to block unknown outgoing connections](https://objective-see.com/products/lulu.html)
-- [What can Seattle learn from Dutch street design?](https://www.youtube.com/watch?v=l0GA901oGe4)
-- [Make School (YC W12) Is Hiring a Remote Curriculum Engineer](https://news.ycombinator.com/item?id=25743350)
+- [Molly for Android: A fork of Signal for Android with passphrase lock](https://github.com/mollyim/mollyim-android)
+- [Parler social network sues Amazon for pulling support](https://www.bbc.com/news/technology-55615214)
 <!-- BLOG-POST-LIST:END -->
 
 ---
