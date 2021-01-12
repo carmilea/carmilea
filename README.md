@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the Canadian Tech Scene Doesn’t Work](https://alexdanco.com/2021/01/11/why-the-canadian-tech-scene-doesnt-work/)
-- [GoDaddy Boots AR15.com](https://www.thetruthaboutguns.com/the-deplatforming-continues-godaddy-boots-ar15-com/)
+- [Department of Defense and Department of Commerce to Develop Open 5G Systems](https://www.defense.gov/Newsroom/Releases/Release/Article/2467484/department-of-defense-and-department-of-commerce-explore-5g-challenge-to-develo/)
+- [How the Canadian Tech Scene Encourages Finite Gameplay](https://alexdanco.com/2021/01/11/why-the-canadian-tech-scene-doesnt-work/)
 - [Theranos destroyed subpoenaed SQL blood test database, prosecutors say](https://www.theregister.com/2021/01/12/theranos_database_loss/)
 - [Amazon Echo Flex Teardown: Microphone Mute, Real or Fake?](https://electronupdate.blogspot.com/2021/01/amazon-echo-flex-microphone-mute-real.html)
 - [Moderna is announcing three new vaccine programs](https://investors.modernatx.com/news-releases/news-release-details/moderna-provides-business-update-and-announces-three-new)
