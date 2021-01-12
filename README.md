@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Idaho internet provider blocks Facebook, Twitter](https://www.kgw.com/article/news/local/technology/idaho-internet-provider-blocks-facebook-and-twitter/293-867cc22b-fb90-4142-a296-8d800d2a03fb)
+- [Teamspeak 5 to be based on the Matrix protocol](https://community.teamspeak.com/t/teamspeak-5-beta-bug-report-bbcode-not-working-channel-commander-not-shown/14670/4)
+- [Lulu – Mac open-source firewall that aims to block unknown outgoing connections](https://objective-see.com/products/lulu.html)
+- [What can Seattle learn from Dutch street design?](https://www.youtube.com/watch?v=l0GA901oGe4)
 - [Make School (YC W12) Is Hiring a Remote Curriculum Engineer](https://news.ycombinator.com/item?id=25743350)
-- [Department of Defense and Department of Commerce to Develop Open 5G Systems](https://www.defense.gov/Newsroom/Releases/Release/Article/2467484/department-of-defense-and-department-of-commerce-explore-5g-challenge-to-develo/)
-- [Ron Paul locked out of his Facebook page](https://twitter.com/ronpaul/status/1348694943905308672)
-- [How the Canadian Tech Scene Encourages Finite Gameplay](https://alexdanco.com/2021/01/11/why-the-canadian-tech-scene-doesnt-work/)
-- [Theranos destroyed subpoenaed SQL blood test database, prosecutors say](https://www.theregister.com/2021/01/12/theranos_database_loss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
