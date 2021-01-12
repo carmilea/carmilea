@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Sued by YouTube Rival Rumble over Search Rankings](https://www.wsj.com/articles/google-sued-by-youtube-rival-over-search-rankings-11610407969)
-- [Sirum (YC W15 Nonprofit) hiring engineers to improve healthcare for families](https://www.sirum.org/about/#careers)
-- [Getting Ready for Launch](https://adhoc.team/2021/01/08/getting-ready-for-launch/)
-- [My ISP Is Killing My Idle SSH Sessions. Yours Might Be Too](https://anderstrier.dk/2021/01/11/my-isp-is-killing-my-idle-ssh-sessions-yours-might-be-too/)
-- [An additional non-backtracking RegExp engine](https://v8.dev/blog/non-backtracking-regexp)
+- [Theranos destroyed subpoenaed SQL blood test database, prosecutors say](https://www.theregister.com/2021/01/12/theranos_database_loss/)
+- [Amazon Echo Flex Teardown: Microphone Mute, Real or Fake?](https://electronupdate.blogspot.com/2021/01/amazon-echo-flex-microphone-mute-real.html)
+- [Moderna is announcing three new vaccine programs. Seasonal flu, HIV, and Nipah](https://investors.modernatx.com/news-releases/news-release-details/moderna-provides-business-update-and-announces-three-new)
+- [Show HN: Symmetrical Drawing Tool for Doodling](https://www.aliciaunderhill.xyz/Andala/)
+- [Baby Megalodons Were 6-Foot-Long Womb Cannibals, Study Suggests](https://www.nytimes.com/2021/01/10/science/megalodons-baby-shark.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
