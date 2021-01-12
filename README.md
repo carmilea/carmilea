@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pachyderm is hiring a Sr Python Eng to join our Integrations team](https://boards.greenhouse.io/pachyderm/jobs/4281815003)
 - [Facebook to staff: Avoid company-branded clothing for own safety](https://www.businessinsider.com/facebook-trump-ban-staff-company-branded-clothing-safety-concerns-2021-1)
 - [Facebook targets “stop the steal” content ahead of Inauguration Day](https://www.zdnet.com/article/facebook-targets-stop-the-steal-content-ahead-of-inauguration-day/)
 - [Messenger Comparisons – Threema, Signal, Telegram and WhatsApp](https://threema.ch/en/messenger-comparison)
-- [The Pomodoro Technique for Time Management](https://blog.ticktick.com/2021/01/11/pomodoro-technique-how-to-do-it-and-why-it-works/)
-- [Facebook confirms data-sharing agreements with Chinese firms, including Huawei (2018)](https://www.bbc.com/news/business-44379593)
+- [I received first-ever donation on my open-source side project and it felt great](https://gourav.io/blog/first-donation-on-open-source-side-project)
 <!-- BLOG-POST-LIST:END -->
 
 ---
