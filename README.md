@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US imposes 25% Tarriff on importing aircraft parts from Europe](https://simpleflying.com/airbus-us-tariffs/)
 - [Flash is finally gone: The end arrives as Adobe starts blocking Flash content](https://www.zdnet.com/article/adobe-flash-is-over-the-end-has-finally-arrived-as-adobe-starts-blocking-flash-content/)
 - [After Twitter Ban, Sci Hub Is Now on the Uncensorable Web](https://www.nasdaq.com/articles/pirated-academic-database-sci-hub-is-now-on-the-uncensorable-web-2021-01-11)
 - [The State of FOSS in India](https://state-of-foss.in/)
-- [Signal increased limits for group calls. What should be done next?](https://twitter.com/signalapp/status/1348728450895384578)
-- [Intel’s 8-Core Mobile Tiger Lake-H, at 45 W, to Ship in Q1](https://www.anandtech.com/show/16384/intels-8-core-mobile-tiger-lake-h-at-45-w-to-ship-in-q1)
+- [America Bankrupted Its Cities – The Growth Ponzi Scheme](https://www.youtube.com/watch?v=7IsMeKl-Sv0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
