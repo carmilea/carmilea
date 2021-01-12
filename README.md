@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Visa and Plaid Abandon Merger After Antitrust Division’s Suit to Block](https://www.justice.gov/opa/pr/visa-and-plaid-abandon-merger-after-antitrust-division-s-suit-block)
+- [Repl.it is hiring designers and engineers to build better programming environments](https://repl.it/site/careers)
+- [SolarWinds: What Hit Us Could Hit Others](https://krebsonsecurity.com/2021/01/solarwinds-what-hit-us-could-hit-others/)
+- [Entire Computer Science Curriculum in 1000 YouTube Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/)
 - [Central Spain records temperatures of -25°C after snowstorm](https://www.bbc.co.uk/news/world-europe-55632791)
-- [U.S. to require negative Covid-19 tests for international air passengers](https://www.reuters.com/article/us-health-coronavirus-airlines/u-s-to-require-negative-covid-19-tests-for-international-air-passengers-sources-idUSKBN29H2KD)
-- [Software That Sucks Less](https://suckless.org/philosophy/)
-- [If it will matter after today, don't talk about it in a chat room](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/)
-- [Telegram surpassed 500M active users. 25 mil new users in the last 3days](https://twitter.com/telegram/status/1349014065931284480)
 <!-- BLOG-POST-LIST:END -->
 
 ---
