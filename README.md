@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. to require negative Covid-19 tests for international air passengers](https://www.reuters.com/article/us-health-coronavirus-airlines/u-s-to-require-negative-covid-19-tests-for-international-air-passengers-sources-idUSKBN29H2KD)
+- [If it will matter after today, stop talking about it in a chat room](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/)
 - [Show HN: Vantage – An alternative AWS console focused on developer experience](https://www.vantage.sh/)
 - [A Proposal for Adding Generics to Go](https://blog.golang.org/generics-proposal)
-- [Sorting Robotics (YC W19) Is Hiring](https://www.workatastartup.com/jobs/41476)
-- [Show HN: Amplication – Instantly Generate Node.js Apps with GraphQL and REST API](https://github.com/amplication/amplication)
-- [Huawei ExaGear: x86_64 apps on Arm 64-bit Linux systems](https://threedots.ovh/blog/2021/01/huawei-exagear-x86_64-apps-on-arm64/)
+- [BioNTech CEO applies Covid-19 vaccine's mRNA tech to multiple sclerosis](https://www.fiercebiotech.com/research/biontech-ceo-turns-covid-19-vaccine-s-mrna-tech-against-multiple-sclerosis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
