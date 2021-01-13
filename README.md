@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC Settlement with Fertility-Tracking App for Facebook/Google SDK Data Sharing](https://www.ftc.gov/news-events/press-releases/2021/01/developer-popular-womens-fertility-tracking-app-settles-ftc)
+- [The Art of Whaling: Illustrations from the Logbooks of Nantucket Whaleships](https://publicdomainreview.org/essay/the-art-of-whaling)
+- [Superconducting Microprocessors? Turns Out They're Ultra-Efficient](https://spectrum.ieee.org/tech-talk/computing/hardware/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
+- [No-code platform Webflow (YC) raises $140M at a $2.1B valuation](https://venturebeat.com/2021/01/13/no-code-development-platform-webflow-raises-140-million-at-2-1-billion-valuation/)
 - [Daily (YC W16) Is Hiring a Head of Startup Experience](https://www.notion.so/Head-of-Startup-Experience-c706421a57f44ee3ada2dd478e1f7820)
-- [Dropbox – A Message from Our CEO](https://blog.dropbox.com/topics/company/-a-message-from-our-ceo)
-- [Workaholism Leads to Mental and Physical Health Problems](https://www.hse.ru/en/news/research/433782660.html)
-- [Magic Mushrooms Injected into Man's Veins Started to Grow in Blood](https://www.iflscience.com/health-and-medicine/man-injected-magic-mushrooms-into-his-veins-and-they-started-to-grow-in-his-blood/)
-- [Show HN: Open-source Golang OAuth2 provider Ory Hydra 1.9](https://github.com/ory/hydra/releases/tag/v1.9.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
