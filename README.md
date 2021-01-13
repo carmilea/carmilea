@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The J1 Forth CPU](https://www.excamera.com/sphinx/fpga-j1.html)
+- [The neural network of the Stockfish chess engine](https://cp4space.hatsya.com/2021/01/08/the-neural-network-of-the-stockfish-chess-engine/)
+- [Top scientists warn of 'ghastly future of mass extinction' and climate disruptio](https://www.theguardian.com/environment/2021/jan/13/top-scientists-warn-of-ghastly-future-of-mass-extinction-and-climate-disruption-aoe)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [Debian Discusses Vendoring–Again](https://lwn.net/SubscriberLink/842319/8adb13e08d0302bd/)
-- [Ask HN: What are the expectations of a principal engineer in your company?](https://news.ycombinator.com/item?id=25758663)
-- [Drawbridge: What SQL Server on Linux is built on](https://threedots.ovh/blog/2021/01/drawbridge-what-sql-server-on-linux-is-built-on/)
-- [Management Debt (2012)](https://a16z.com/2012/01/19/management-debt/)
+- [Some Unlikely 2021 Predictions](https://lwn.net/SubscriberLink/840632/5120a4e4b44f7d2a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
