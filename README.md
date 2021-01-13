@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BeagleV – An affordable RISC-V computer designed to run Linux](https://beaglev.seeed.cc/)
 - [How Huawei controls its employees in Europe](https://netzpolitik.org/2021/wolf-culture-how-huawei-controls-its-employees-in-europe/)
+- [Show HN: Waver – Messaging Through Sound](https://github.com/ggerganov/ggwave/tree/master/examples/waver)
 - [Join YC's software team and help build Work at a Startup](https://www.workatastartup.com/jobs/41302)
 - [Ask HN: How do we build the new remote education system](https://news.ycombinator.com/item?id=25760960)
-- [TikTok: All under-16s' accounts made private](https://www.bbc.com/news/technology-55639920)
-- [Ask HN: Do we need a Google Customers Union? Could it work?](https://news.ycombinator.com/item?id=25760750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
