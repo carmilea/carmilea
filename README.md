@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I stole the data in millions of people’s Google accounts](https://blog.usejournal.com/how-i-stole-the-data-in-millions-of-peoples-google-accounts-aa1b72dcc075)
 - [The J1 Forth CPU](https://www.excamera.com/sphinx/fpga-j1.html)
+- [2020 Game](https://2020game.io/)
+- [“WireGuard: great protocol, but skip the Mac app” – a response](https://lists.zx2c4.com/pipermail/wireguard/2020-December/006226.html)
 - [The neural network of the Stockfish chess engine](https://cp4space.hatsya.com/2021/01/08/the-neural-network-of-the-stockfish-chess-engine/)
-- [Top scientists warn of 'ghastly future of mass extinction' and climate disruptio](https://www.theguardian.com/environment/2021/jan/13/top-scientists-warn-of-ghastly-future-of-mass-extinction-and-climate-disruption-aoe)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [Some Unlikely 2021 Predictions](https://lwn.net/SubscriberLink/840632/5120a4e4b44f7d2a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
