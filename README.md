@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Unlikely Database Migration](https://tailscale.com/blog/an-unlikely-database-migration/)
+- [Ten years without Elixir](http://blog.cretaria.com/posts/ten-years-without-elixir.html)
+- [AWS Machine Learning Manager Is Rooting Out Bias in AI Programs](https://spectrum.ieee.org/the-institute/ieee-member-news/this-aws-machine-learning-manager-is-rooting-out-bias-in-ai-programs)
+- [I believe US could see rolling series of “Ireland events” over next 2 months](https://www.epsilontheory.com/the-ireland-event-2/)
 - [FTC Settlement with Fertility-Tracking App for Facebook/Google SDK Data Sharing](https://www.ftc.gov/news-events/press-releases/2021/01/developer-popular-womens-fertility-tracking-app-settles-ftc)
-- [The Art of Whaling: Illustrations from the Logbooks of Nantucket Whaleships](https://publicdomainreview.org/essay/the-art-of-whaling)
-- [Superconducting Microprocessors? Turns Out They're Ultra-Efficient](https://spectrum.ieee.org/tech-talk/computing/hardware/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency)
-- [No-code platform Webflow (YC) raises $140M at a $2.1B valuation](https://venturebeat.com/2021/01/13/no-code-development-platform-webflow-raises-140-million-at-2-1-billion-valuation/)
-- [Daily (YC W16) Is Hiring a Head of Startup Experience](https://www.notion.so/Head-of-Startup-Experience-c706421a57f44ee3ada2dd478e1f7820)
 <!-- BLOG-POST-LIST:END -->
 
 ---
