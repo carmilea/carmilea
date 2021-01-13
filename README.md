@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
+- [Debian Discusses Vendoring–Again](https://lwn.net/SubscriberLink/842319/8adb13e08d0302bd/)
 - [Ask HN: What are the expectations of a principal engineer in your company?](https://news.ycombinator.com/item?id=25758663)
+- [Drawbridge: What SQL Server on Linux is built on](https://threedots.ovh/blog/2021/01/drawbridge-what-sql-server-on-linux-is-built-on/)
 - [Management Debt (2012)](https://a16z.com/2012/01/19/management-debt/)
-- [The CIA Releases Trove of UFO Documents](https://www.theblackvault.com/documentarchive/ufos-the-central-intelligence-agency-cia-collection/)
-- [Frank Wilczek - A Prodigy Who Cracked Open the Cosmos](https://www.quantamagazine.org/frank-wilczek-cracked-open-the-cosmos-20210112/)
-- [Signal community: Reminder: Please be nice](https://community.signalusers.org/t/reminder-please-be-nice/21217)
 <!-- BLOG-POST-LIST:END -->
 
 ---
