@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Berlin car sharing startup Miles demands €13k from customer whose car was stolen](https://www.mobilegeeks.com/news/miles-mobility-is-demanding-money-from-customers-whose-berlin-car-stole-damages-what-to-do/)
+- [Why Negotiating Is Just Like Doing Squats](https://reyt.net/blog/why-negotiating-is-just-like-doing-squats/)
+- [The platforms have acted, raising hard questions about technology and democracy](https://www.newyorker.com/tech/annals-of-technology/big-tech-unplugs-trump)
+- [Show HN: A Heart Rate Monitor App Written in Vanilla JavaScript](https://github.com/richrd/heart-rate-monitor)
 - [BuildZoom (better way to build custom homes) Is hiring a principal engineer](https://jobs.lever.co/buildzoom)
-- [Bitcoin: Magic Internet Money](https://www.researchaffiliates.com/en_us/publications/articles/820-bitcoin-magic-internet-money.html)
-- [How AWS is helping to secure internet routing](https://aws.amazon.com/blogs/networking-and-content-delivery/how-aws-is-helping-to-secure-internet-routing/)
-- [An Unlikely Database Migration](https://tailscale.com/blog/an-unlikely-database-migration/)
+- [Helping to secure internet routing](https://aws.amazon.com/blogs/networking-and-content-delivery/how-aws-is-helping-to-secure-internet-routing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
