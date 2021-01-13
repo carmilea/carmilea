@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BeagleV – An affordable RISC-V computer designed to run Linux](https://beaglev.seeed.cc/)
-- [How Huawei controls its employees in Europe](https://netzpolitik.org/2021/wolf-culture-how-huawei-controls-its-employees-in-europe/)
-- [Show HN: Waver – Messaging Through Sound](https://github.com/ggerganov/ggwave/tree/master/examples/waver)
-- [Join YC's software team and help build Work at a Startup](https://www.workatastartup.com/jobs/41302)
-- [Ask HN: How do we build the new remote education system](https://news.ycombinator.com/item?id=25760960)
+- [Jobless, Selling Nudes Online and Still Struggling](https://www.nytimes.com/2021/01/13/business/onlyfans-pandemic-users.html)
+- [Magic Mushrooms Injected into Man's Veins Started to Grow in Blood](https://www.iflscience.com/health-and-medicine/man-injected-magic-mushrooms-into-his-veins-and-they-started-to-grow-in-his-blood/)
+- [Show HN: Open-source Golang OAuth2 provider Ory Hydra 1.9](https://github.com/ory/hydra/releases/tag/v1.9.0)
+- [Show HN: Open-Source Time Tracker](https://timetagger.app/)
+- [I Downvoted Because](https://idownvotedbecau.se/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
