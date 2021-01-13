@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Insurrection as a Service](https://www.piratewires.com/p/insurrection-as-a-service)
+- [What we know sex with Neanderthals was like](https://www.bbc.com/future/article/20210112-heres-what-sex-with-neanderthals-was-like)
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [How AWS is helping to secure internet routing](https://aws.amazon.com/blogs/networking-and-content-delivery/how-aws-is-helping-to-secure-internet-routing/)
 - [An Unlikely Database Migration](https://tailscale.com/blog/an-unlikely-database-migration/)
-- [Ten years without Elixir](http://blog.cretaria.com/posts/ten-years-without-elixir.html)
-- [AWS Machine Learning Manager Is Rooting Out Bias in AI Programs](https://spectrum.ieee.org/the-institute/ieee-member-news/this-aws-machine-learning-manager-is-rooting-out-bias-in-ai-programs)
-- [I believe US could see rolling series of “Ireland events” over next 2 months](https://www.epsilontheory.com/the-ireland-event-2/)
-- [FTC Settlement with Fertility-Tracking App for Facebook/Google SDK Data Sharing](https://www.ftc.gov/news-events/press-releases/2021/01/developer-popular-womens-fertility-tracking-app-settles-ftc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
