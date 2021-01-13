@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Apple Chose Clang](https://opensource.apple.com/source/clang/clang-23/clang/tools/clang/www/comparison.html)
+- [Samsung Confirms AMD RDNA GPU in Next Exynos Flagship](https://www.anandtech.com/show/16408/samsung-confirms-amd-rdna-gpu-in-next-exynos-flagship)
+- [Why Apple Chose Clang (2008)](https://opensource.apple.com/source/clang/clang-23/clang/tools/clang/www/comparison.html)
 - [Solarwind, Fireeye, Microsoft and Cisco leaks are offered for sale](http://solarleaks.net/)
 - [Learn X by Doing Y – A project-based learning search engine](https://aquadzn.github.io/learn-x-by-doing-y/)
 - [The Smalltalk Zoo](https://smalltalkzoo.thechm.org/)
-- [Visa and Plaid Abandon Merger After Antitrust Division’s Suit to Block](https://www.justice.gov/opa/pr/visa-and-plaid-abandon-merger-after-antitrust-division-s-suit-block)
 <!-- BLOG-POST-LIST:END -->
 
 ---
