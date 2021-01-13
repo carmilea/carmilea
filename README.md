@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Insurrection as a Service](https://www.piratewires.com/p/insurrection-as-a-service)
-- [What we know sex with Neanderthals was like](https://www.bbc.com/future/article/20210112-heres-what-sex-with-neanderthals-was-like)
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Berlin car sharing startup Miles demands €13k from customer whose car was stolen](https://www.mobilegeeks.com/news/miles-mobility-is-demanding-money-from-customers-whose-berlin-car-stole-damages-what-to-do/)
+- [BuildZoom (better way to build custom homes) Is hiring a principal engineer](https://jobs.lever.co/buildzoom)
+- [Bitcoin: Magic Internet Money](https://www.researchaffiliates.com/en_us/publications/articles/820-bitcoin-magic-internet-money.html)
 - [How AWS is helping to secure internet routing](https://aws.amazon.com/blogs/networking-and-content-delivery/how-aws-is-helping-to-secure-internet-routing/)
 - [An Unlikely Database Migration](https://tailscale.com/blog/an-unlikely-database-migration/)
 <!-- BLOG-POST-LIST:END -->
