@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I stole the data in millions of people’s Google accounts](https://blog.usejournal.com/how-i-stole-the-data-in-millions-of-peoples-google-accounts-aa1b72dcc075)
+- [YouTube suspends Donald Trump's channel](https://www.bbc.com/news/technology-55643774)
+- [Milestone: Half a million downloads for VideoLAN packages in the .NET ecosystem](https://mfkl.github.io/2021/01/13/half-a-million-downloads.html)
+- [Cross Language interfaces between C and C++](https://gustedt.wordpress.com/2017/08/08/cross-language-interfaces-between-c-and-c/)
 - [The J1 Forth CPU](https://www.excamera.com/sphinx/fpga-j1.html)
 - [2020 Game](https://2020game.io/)
-- [“WireGuard: great protocol, but skip the Mac app” – a response](https://lists.zx2c4.com/pipermail/wireguard/2020-December/006226.html)
-- [The neural network of the Stockfish chess engine](https://cp4space.hatsya.com/2021/01/08/the-neural-network-of-the-stockfish-chess-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
