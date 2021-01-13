@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Milestone: Half a million downloads for VideoLAN packages in the .NET ecosystem](https://mfkl.github.io/2021/01/13/half-a-million-downloads.html)
-- [Cross Language interfaces between C and C++](https://gustedt.wordpress.com/2017/08/08/cross-language-interfaces-between-c-and-c/)
-- [The J1 Forth CPU](https://www.excamera.com/sphinx/fpga-j1.html)
-- [2020 Game](https://2020game.io/)
-- [Developer’s response to “WireGuard: great protocol, but skip the Mac app”](https://lists.zx2c4.com/pipermail/wireguard/2020-December/006226.html)
+- [How Huawei controls its employees in Europe](https://netzpolitik.org/2021/wolf-culture-how-huawei-controls-its-employees-in-europe/)
+- [Join YC's software team and help build Work at a Startup](https://www.workatastartup.com/jobs/41302)
+- [Ask HN: How do we build the new remote education system](https://news.ycombinator.com/item?id=25760960)
+- [TikTok: All under-16s' accounts made private](https://www.bbc.com/news/technology-55639920)
+- [Ask HN: Do we need a Google Customers Union? Could it work?](https://news.ycombinator.com/item?id=25760750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
