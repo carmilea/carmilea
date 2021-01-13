@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter loses $5B, shares down 12% since Trump ban](https://www.aa.com.tr/en/economy/twitter-loses-5b-shares-down-12-since-trump-ban/2106401)
+- [“A Headline That Will Make Global-Warming Activists Apoplectic”](https://statmodeling.stat.columbia.edu/2021/01/11/a-headline-that-will-make-global-warming-activists-apoplectic-hows-that-one-going-huh/)
 - [Samsung Confirms AMD RDNA GPU in Next Exynos Flagship](https://www.anandtech.com/show/16408/samsung-confirms-amd-rdna-gpu-in-next-exynos-flagship)
 - [Why Apple Chose Clang (2008)](https://opensource.apple.com/source/clang/clang-23/clang/tools/clang/www/comparison.html)
 - [Solarwind, Fireeye, Microsoft and Cisco leaks are offered for sale](http://solarleaks.net/)
-- [Learn X by Doing Y – A project-based learning search engine](https://aquadzn.github.io/learn-x-by-doing-y/)
-- [The Smalltalk Zoo](https://smalltalkzoo.thechm.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
