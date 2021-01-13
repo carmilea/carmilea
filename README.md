@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Management Debt (2012)](https://a16z.com/2012/01/19/management-debt/)
 - [The CIA Releases Trove of UFO Documents](https://www.theblackvault.com/documentarchive/ufos-the-central-intelligence-agency-cia-collection/)
-- [Frank Wilczek - A Prodigy Who Cracked Open the Cosmos](https://www.quantamagazine.org/frank-wilczek-cracked-open-the-cosmos-20210112/)
 - [Signal community: Reminder: Please be nice](https://community.signalusers.org/t/reminder-please-be-nice/21217)
 - [“A Headline That Will Make Global-Warming Activists Apoplectic”](https://statmodeling.stat.columbia.edu/2021/01/11/a-headline-that-will-make-global-warming-activists-apoplectic-hows-that-one-going-huh/)
 - [Huawei patent mentions use of Uighur-spotting tech](https://www.bbc.co.uk/news/technology-55634388)
