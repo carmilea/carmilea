@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fitbit Joins Google](https://view.e.fitbit.com/?qs=d3868550959f4fb0f11680ed849499d7db9add137dc554d73aba09f15f2fd112c55b23a7db3626d49b3d032be5585eeef5757c35e9b3fdbfd8572ba2c78415dee4f4f429a992213c038881c758fd46c8)
-- [Fred Wilson: Smart Contracts on Bitcoin](https://avc.com/2021/01/smart-contracts-on-bitcoin/)
-- [The Supply Chain for Lithium](https://clearpath.org/energy-101/supply-chain-for-lithium-and-critical-minerals-is-critical/)
-- [The Richer You Are, the More Likely You’ll Social Distance, Study Finds](https://releases.jhu.edu/2021/01/14/the-richer-you-are-the-more-likely-youll-social-distance-study-finds/)
-- [Testosterone levels show steady decrease among young US men](https://www.urologytimes.com/view/testosterone-levels-show-steady-decrease-among-young-us-men)
+- [Aquafaba](http://aquafaba.com/index.html)
+- [Jerry, Inc. (YC S17) is hiring engineering and product (all experience levels)](https://jerry.ai/careers)
+- [CSS Turing Machine](https://brandondong.github.io/css-turing-machine/)
+- [Smart contracts on Bitcoin](https://avc.com/2021/01/smart-contracts-on-bitcoin/)
+- [The Supply Chain for Lithium (2020)](https://clearpath.org/energy-101/supply-chain-for-lithium-and-critical-minerals-is-critical/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
