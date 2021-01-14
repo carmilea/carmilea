@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Course of the Raku programming language](https://course.raku.org/)
-- [Oklo (YC S14) Is Hiring](https://www.workatastartup.com/jobs/41545)
-- [CS631: Advanced Programming in the Unix Environment](https://stevens.netmeister.org/631/)
-- [Parisian Accent in 1912](https://www.franceculture.fr/sciences-du-langage/archive-exceptionnelle-ecoutez-laccent-parisien-en-1912)
-- [Malvuln – Malware Vulnerability Research](https://www.malvuln.com)
+- [Martin Kleppman: Decentralised content moderation](https://martin.kleppmann.com/2021/01/13/decentralised-content-moderation.html)
+- [Hack together your own e-paper smartwatch with this $50 open-source kit](https://www.theverge.com/2021/1/13/22229985/customizable-epaper-smartwatch-kit-arduino)
+- [Complete collection of 1980's (and later) Dungeon Magazine](https://archive.org/details/dungeonmagazine?sort=titleSorter)
+- [Trump ban obscures real issue: state-backed manipulation rampant on social media](https://theconversation.com/trumps-twitter-ban-obscures-the-real-problem-state-backed-manipulation-is-rampant-on-social-media-153136)
+- [Machine Learning: The Great Stagnation](https://marksaroufim.substack.com/p/machine-learning-the-great-stagnation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
