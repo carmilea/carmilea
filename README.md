@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Martin Kleppman: Decentralised content moderation](https://martin.kleppmann.com/2021/01/13/decentralised-content-moderation.html)
-- [Hack together your own e-paper smartwatch with this $50 open-source kit](https://www.theverge.com/2021/1/13/22229985/customizable-epaper-smartwatch-kit-arduino)
-- [Complete collection of 1980's (and later) Dungeon Magazine](https://archive.org/details/dungeonmagazine?sort=titleSorter)
-- [Trump ban obscures real issue: state-backed manipulation rampant on social media](https://theconversation.com/trumps-twitter-ban-obscures-the-real-problem-state-backed-manipulation-is-rampant-on-social-media-153136)
-- [Machine Learning: The Great Stagnation](https://marksaroufim.substack.com/p/machine-learning-the-great-stagnation)
+- [Apple scrapped plans to fully secure iCloud backups after FBI intervention](https://www.theverge.com/2020/1/21/21075033/apple-icloud-end-to-end-encryption-scrapped-fbi-reuters-report)
+- [Antioxidants Vitamin C and Vitamin E Linked to Lower Risk of Parkinson’s](https://www.aan.com/PressRoom/Home/PressRelease/3848)
+- [Elastic Moving to SSPL](https://www.elastic.co/blog/licensing-change)
+- [Siegfried Fischbacher from 'Siegfried and Roy' magician duo has died](https://www.dw.com/en/siegfried-and-roy-magician-dies/a-56223814)
+- [Facebook Has Been Showing Military Gear Ads Next to “Insurrection” Posts](https://www.buzzfeednews.com/article/ryanmac/facebook-profits-military-gear-ads-capitol-riot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
