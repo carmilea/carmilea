@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [George W. Bush is smarter than you (2013)](http://keithhennessey.com/2013/04/24/smarter/)
 - [Can Apple's M1 help you train models faster and cheaper than Nvidia's V100?](https://wandb.ai/vanpelt/m1-benchmark/reports/Can-Apple-s-M1-help-you-train-models-faster-cheaper-than-NVIDIA-s-V100---VmlldzozNTkyMzg)
 - [Ask HN: Oldest piece of hardware a user could access the internet with?](https://news.ycombinator.com/item?id=25772792)
 - [zForth – Tiny, embeddable, flexible, compact Forth for embedded systems](https://github.com/zevv/zForth)
 - [macOS Big Sur 11.2 beta 2 adds full native kernel support (Linux, BSD et al.)](https://twitter.com/marcan42/status/1349478954982232064)
-- [If you want peace, study war](https://www.persuasion.community/p/if-you-want-peace-study-war-533)
 <!-- BLOG-POST-LIST:END -->
 
 ---
