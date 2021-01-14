@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Personal Assistant Company saves $100k with Coda](https://coda.io/@michelle-penczak/no-code-just-a-coda-doc-how-squared-away-saves-a-thousand-hours)
-- [U.S. insurrectionists received $500k in bitcoins from French donor](https://blog.chainalysis.com/reports/capitol-riot-bitcoin-donation-alt-right-domestic-extremism)
-- [PG: Twitter made a mistake in banning Sci-Hub](https://twitter.com/paulg/status/1349771657485955074)
-- [25 Years of Pixar’s Vibrant, Emotional Color Palettes](https://hyperallergic.com/610771/the-art-of-pixar-chronicle-books/)
-- [Bill and Melinda Gates revealed as largest private farmland owners in US](https://landreport.com/2021/01/bill-gates-americas-top-farmland-owner/)
+- [Fitbit Joins Google](https://view.e.fitbit.com/?qs=d3868550959f4fb0f11680ed849499d7db9add137dc554d73aba09f15f2fd112c55b23a7db3626d49b3d032be5585eeef5757c35e9b3fdbfd8572ba2c78415dee4f4f429a992213c038881c758fd46c8)
+- [Fred Wilson: Smart Contracts on Bitcoin](https://avc.com/2021/01/smart-contracts-on-bitcoin/)
+- [The Supply Chain for Lithium](https://clearpath.org/energy-101/supply-chain-for-lithium-and-critical-minerals-is-critical/)
+- [The Richer You Are, the More Likely You’ll Social Distance, Study Finds](https://releases.jhu.edu/2021/01/14/the-richer-you-are-the-more-likely-youll-social-distance-study-finds/)
+- [Testosterone levels show steady decrease among young US men](https://www.urologytimes.com/view/testosterone-levels-show-steady-decrease-among-young-us-men)
 <!-- BLOG-POST-LIST:END -->
 
 ---
