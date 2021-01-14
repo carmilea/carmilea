@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Apple's M1 help you train models faster and cheaper than Nvidia's V100?](https://wandb.ai/vanpelt/m1-benchmark/reports/Can-Apple-s-M1-help-you-train-models-faster-cheaper-than-NVIDIA-s-V100---VmlldzozNTkyMzg)
 - [Ask HN: Oldest piece of hardware a user could access the internet with?](https://news.ycombinator.com/item?id=25772792)
 - [zForth – Tiny, embeddable, flexible, compact Forth for embedded systems](https://github.com/zevv/zForth)
-- [If You Want Peace, Study War](https://www.persuasion.community/p/if-you-want-peace-study-war-533)
-- [Lessons for Philosophers and Scientists from Sherlock Holmes and Father Brown](http://blog.practicalethics.ox.ac.uk/2021/01/lessons-for-philosophers-and-scientists-from-sherlock-holmes-and-father-brown/)
-- [Panasonic’s Innovative Augmented-Reality HUD Could Be in Cars by 2024](https://www.caranddriver.com/news/a35195014/panasonic-augmented-reality-head-up-display-cars-2024/)
+- [macOS Big Sur 11.2 beta 2 adds full native kernel support (Linux, BSD et al.)](https://twitter.com/marcan42/status/1349478954982232064)
+- [If you want peace, study war](https://www.persuasion.community/p/if-you-want-peace-study-war-533)
 <!-- BLOG-POST-LIST:END -->
 
 ---
