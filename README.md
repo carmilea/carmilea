@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Malvuln – Malware Vulnability Research](https://www.malvuln.com)
-- [Idris 2 version 0.3.0 Released](https://www.idris-lang.org/idris-2-version-030-released.html)
-- [Inline Caching](https://bernsteinbear.com/blog/inline-caching/)
-- [Can Apple's M1 help you train models faster and cheaper than Nvidia's V100?](https://wandb.ai/vanpelt/m1-benchmark/reports/Can-Apple-s-M1-help-you-train-models-faster-cheaper-than-NVIDIA-s-V100---VmlldzozNTkyMzg)
-- [Ask HN: Oldest piece of hardware a user could access the internet with?](https://news.ycombinator.com/item?id=25772792)
+- [A Complete Course of the Raku programming language](https://course.raku.org/)
+- [Oklo (YC S14) Is Hiring](https://www.workatastartup.com/jobs/41545)
+- [CS631: Advanced Programming in the Unix Environment](https://stevens.netmeister.org/631/)
+- [Parisian Accent in 1912](https://www.franceculture.fr/sciences-du-langage/archive-exceptionnelle-ecoutez-laccent-parisien-en-1912)
+- [Malvuln – Malware Vulnerability Research](https://www.malvuln.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
