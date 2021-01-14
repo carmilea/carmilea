@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Protesters Riot At Inauguration 95 Arrested (2017)](https://twitter.com/MarkDice/status/1349496157425131521)
+- [Apple removes first-party firewall exemption in macOS 11.2 beta 2](https://twitter.com/patrickwardle/status/1349488392732491776)
+- [You Might Not Need JQuery](http://youmightnotneedjquery.com/)
+- [Andrew Yang Enters Mayor's Race with Scaled Back Plan for Universal Basic Income](https://gothamist.com/news/andrew-yang-enters-mayors-race-scaled-back-plan-universal-basic-income)
 - [Senior NASA scientist pleads guilty om China ties](https://www.nasdaq.com/articles/nasa-scientist-pleads-guilty-to-lying-about-china-ties-2021-01-13)
-- [Facebooks role in Capitol Protest larger than previously thought](https://www.washingtonpost.com/technology/2021/01/13/facebook-role-in-capitol-protest/)
 - [Pirate Bay Founder Thinks Parler’s Inability to Stay Online Is 'Embarrassing'](https://www.vice.com/en/article/3an7pn/pirate-bay-founder-thinks-parlers-inability-to-stay-online-is-embarrassing)
-- [BuildZoom (better way to build custom homes) Is hiring a principal engineer](https://jobs.lever.co/buildzoom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
