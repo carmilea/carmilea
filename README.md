@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dollar General plans to pay employees to get Covid-19 vaccination](https://www.reuters.com/article/us-health-coronavirus-dollar-general/dollar-general-plans-to-pay-employees-to-get-covid-19-vaccination-idUSKBN29I25G)
+- [Feds asks Tesla to recall 158,000 vehicles over failing touchscreen displays](https://techcrunch.com/2021/01/13/feds-asks-tesla-to-recall-158000-vehicles-over-failing-touchscreen-displays/)
+- [The Most Popular College Books](https://www.degreequery.com/the-most-popular-college-books/)
 - [Apple removes first-party firewall exemption in macOS 11.2 beta 2](https://twitter.com/patrickwardle/status/1349488392732491776)
 - [You Might Not Need JQuery](http://youmightnotneedjquery.com/)
-- [Andrew Yang Enters Mayor's Race with Scaled Back Plan for Universal Basic Income](https://gothamist.com/news/andrew-yang-enters-mayors-race-scaled-back-plan-universal-basic-income)
-- [Senior NASA scientist pleads guilty om China ties](https://www.nasdaq.com/articles/nasa-scientist-pleads-guilty-to-lying-about-china-ties-2021-01-13)
-- [Pirate Bay Founder Thinks Parler’s Inability to Stay Online Is 'Embarrassing'](https://www.vice.com/en/article/3an7pn/pirate-bay-founder-thinks-parlers-inability-to-stay-online-is-embarrassing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
