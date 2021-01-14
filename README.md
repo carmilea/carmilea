@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Negotiating Is Just Like Doing Squats](https://reyt.net/blog/why-negotiating-is-just-like-doing-squats/)
-- [The platforms have acted, raising hard questions about technology and democracy](https://www.newyorker.com/tech/annals-of-technology/big-tech-unplugs-trump)
-- [Show HN: A Heart Rate Monitor App Written in Vanilla JavaScript](https://github.com/richrd/heart-rate-monitor)
+- [Protesters Riot At Inauguration 95 Arrested (2017)](https://twitter.com/MarkDice/status/1349496157425131521)
+- [Senior NASA scientist pleads guilty om China ties](https://www.nasdaq.com/articles/nasa-scientist-pleads-guilty-to-lying-about-china-ties-2021-01-13)
+- [Facebooks role in Capitol Protest larger than previously thought](https://www.washingtonpost.com/technology/2021/01/13/facebook-role-in-capitol-protest/)
+- [Pirate Bay Founder Thinks Parler’s Inability to Stay Online Is 'Embarrassing'](https://www.vice.com/en/article/3an7pn/pirate-bay-founder-thinks-parlers-inability-to-stay-online-is-embarrassing)
 - [BuildZoom (better way to build custom homes) Is hiring a principal engineer](https://jobs.lever.co/buildzoom)
-- [Helping to secure internet routing](https://aws.amazon.com/blogs/networking-and-content-delivery/how-aws-is-helping-to-secure-internet-routing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
