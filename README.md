@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Aquafaba](http://aquafaba.com/index.html)
-- [Jerry, Inc. (YC S17) is hiring engineering and product (all experience levels)](https://jerry.ai/careers)
-- [CSS Turing Machine](https://brandondong.github.io/css-turing-machine/)
-- [Smart contracts on Bitcoin](https://avc.com/2021/01/smart-contracts-on-bitcoin/)
-- [The Supply Chain for Lithium (2020)](https://clearpath.org/energy-101/supply-chain-for-lithium-and-critical-minerals-is-critical/)
+- [Filesystem Error Handling (2017)](https://danluu.com/filesystem-errors/)
+- [Zoom improvements requested by music schools](https://music.yale.edu/news/yale-led-effort-yields-zoom-upgrades)
+- [Native Americans say U.S. does not own land it is about to give to Rio Tinto](https://www.reuters.com/article/us-usa-mining-resolution/native-americans-say-u-s-does-not-own-land-it-is-about-to-give-to-rio-tinto-idUSKBN29J2R9)
+- [Ask HN: What are you working on?](https://news.ycombinator.com/item?id=25783152)
+- [Open Letter from Laura Poitras](https://www.praxisfilms.org/open-letter-from-laura-poitras/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
