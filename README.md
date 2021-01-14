@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple scrapped plans to fully secure iCloud backups after FBI intervention](https://www.theverge.com/2020/1/21/21075033/apple-icloud-end-to-end-encryption-scrapped-fbi-reuters-report)
-- [Antioxidants Vitamin C and Vitamin E Linked to Lower Risk of Parkinson’s](https://www.aan.com/PressRoom/Home/PressRelease/3848)
-- [Elastic Moving to SSPL](https://www.elastic.co/blog/licensing-change)
-- [Siegfried Fischbacher from 'Siegfried and Roy' magician duo has died](https://www.dw.com/en/siegfried-and-roy-magician-dies/a-56223814)
-- [Facebook Has Been Showing Military Gear Ads Next to “Insurrection” Posts](https://www.buzzfeednews.com/article/ryanmac/facebook-profits-military-gear-ads-capitol-riot)
+- [Apply to YC on Your Schedule](https://blog.ycombinator.com/apply-to-yc-on-your-schedule/)
+- [Tara AI (YC W15) is hiring a growth product manager to build the anti-Jira](https://tara.ai/about/careers/)
+- [Wikipedia’s 20th Birthday Website](https://wikimediafoundation.org/wikipedia20/)
+- [U.S. jobless numbers surge as worsening Covid-19 pandemic hurts businesses](https://www.cbc.ca/news/business/us-jobless-numbers-1.5872817)
+- [Free ePub books from the Open University on mutiple topics](https://www.open.edu/openlearn/free-ebooks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
