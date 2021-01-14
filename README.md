@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apply to YC on Your Schedule](https://blog.ycombinator.com/apply-to-yc-on-your-schedule/)
-- [Tara AI (YC W15) is hiring a growth product manager to build the anti-Jira](https://tara.ai/about/careers/)
-- [Wikipedia’s 20th Birthday Website](https://wikimediafoundation.org/wikipedia20/)
-- [U.S. jobless numbers surge as worsening Covid-19 pandemic hurts businesses](https://www.cbc.ca/news/business/us-jobless-numbers-1.5872817)
-- [Free ePub books from the Open University on mutiple topics](https://www.open.edu/openlearn/free-ebooks)
+- [Personal Assistant Company saves $100k with Coda](https://coda.io/@michelle-penczak/no-code-just-a-coda-doc-how-squared-away-saves-a-thousand-hours)
+- [U.S. insurrectionists received $500k in bitcoins from French donor](https://blog.chainalysis.com/reports/capitol-riot-bitcoin-donation-alt-right-domestic-extremism)
+- [PG: Twitter made a mistake in banning Sci-Hub](https://twitter.com/paulg/status/1349771657485955074)
+- [25 Years of Pixar’s Vibrant, Emotional Color Palettes](https://hyperallergic.com/610771/the-art-of-pixar-chronicle-books/)
+- [Bill and Melinda Gates revealed as largest private farmland owners in US](https://landreport.com/2021/01/bill-gates-americas-top-farmland-owner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
