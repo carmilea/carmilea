@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Filesystem Error Handling (2017)](https://danluu.com/filesystem-errors/)
-- [Zoom improvements requested by music schools](https://music.yale.edu/news/yale-led-effort-yields-zoom-upgrades)
-- [Native Americans say U.S. does not own land it is about to give to Rio Tinto](https://www.reuters.com/article/us-usa-mining-resolution/native-americans-say-u-s-does-not-own-land-it-is-about-to-give-to-rio-tinto-idUSKBN29J2R9)
-- [Ask HN: What are you working on?](https://news.ycombinator.com/item?id=25783152)
-- [Open Letter from Laura Poitras](https://www.praxisfilms.org/open-letter-from-laura-poitras/)
+- [Facebook sues two Chrome extension devs for scraping user data](https://about.fb.com/news/2021/01/combating-scraping-by-malicious-browser-extensions/)
+- [The 'megascale' structures that humans could one day build](https://www.bbc.com/future/article/20210113-the-megascale-structures-that-humans-could-one-day-build)
+- [The Monumental and Human Poetry of Paul Valéry (2020)](https://hyperallergic.com/580740/the-idea-of-perfection-the-poetry-and-prose-of-paul-valery/)
+- [How to Train a Scaled-YOLOv4 Object Detection Model](https://blog.paperspace.com/how-to-train-scaled-yolov4-object-detection/)
+- [Building Clusters with Serf.io (and Fly.io)](https://fly.io/blog/building-clusters-with-serf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
