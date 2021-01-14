@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Oldest piece of hardware a user could access the internet with?](https://news.ycombinator.com/item?id=25772792)
 - [zForth – Tiny, embeddable, flexible, compact Forth for embedded systems](https://github.com/zevv/zForth)
+- [If You Want Peace, Study War](https://www.persuasion.community/p/if-you-want-peace-study-war-533)
 - [Lessons for Philosophers and Scientists from Sherlock Holmes and Father Brown](http://blog.practicalethics.ox.ac.uk/2021/01/lessons-for-philosophers-and-scientists-from-sherlock-holmes-and-father-brown/)
-- [What would a 51-star U.S. Flag Look Like?](http://danbliss.blogspot.com/2011/11/)
 - [Panasonic’s Innovative Augmented-Reality HUD Could Be in Cars by 2024](https://www.caranddriver.com/news/a35195014/panasonic-augmented-reality-head-up-display-cars-2024/)
-- [Null](https://popey.com/blog/2021/01/null/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
