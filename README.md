@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2021-24122 Apache Tomcat Information Disclosure](http://mail-archives.apache.org/mod_mbox/www-announce/202101.mbox/%3Cf3765f21-969d-7f21-e34a-efc106175373%40apache.org%3E)
-- [Lua's Lack of “Batteries”](https://lwn.net/Articles/812122/)
-- [macOS malware used run-only AppleScripts to avoid detection for five years](https://www.zdnet.com/article/macos-malware-used-run-only-applescripts-to-avoid-detection-for-five-years/)
-- [Uganda's January 13, 2021 Internet Shut Down](https://blog.cloudflare.com/uganda-january-13-2021-internet-shut-down/)
-- [Higher coffee intake may be linked to lower prostate cancer risk](https://www.bmj.com/company/newsroom/higher-coffee-intake-may-be-linked-to-lower-prostate-cancer-risk/)
+- [Escaping VirtualBox 6.1: Part 1](https://secret.club/2021/01/14/vbox-escape.html)
+- [WhatsApp delays privacy changes following backlash](https://p.dw.com/p/3nzYg)
+- [Giving More Time for Our Recent Update](https://blog.whatsapp.com/giving-more-time-for-our-recent-update)
+- [Establishment of a closed artificial ecosystem to ensure human survival on moon](https://www.biorxiv.org/content/10.1101/2021.01.12.426282v1)
+- [Elasticsearch is dead, long live Open Distro for Elasticsearch](https://www.logicalclocks.com/blog/elasticsearch-is-dead-long-live-open-distro-for-elasticsearch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
