@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tremendous (YC W11) Is Hiring Rails Engineers – Remote OK](https://angel.co/company/tremendous/jobs/620099-fullstack-software-engineer-remote)
+- [Show HN: Forgo.js is a 4kb React alternative based on plain JS and DOM APIs](https://forgojs.org/)
 - [Escaping VirtualBox 6.1: Part 1](https://secret.club/2021/01/14/vbox-escape.html)
 - [WhatsApp delays privacy changes following backlash](https://p.dw.com/p/3nzYg)
 - [Giving More Time for Our Recent Update](https://blog.whatsapp.com/giving-more-time-for-our-recent-update)
-- [Establishment of a closed artificial ecosystem to ensure human survival on moon](https://www.biorxiv.org/content/10.1101/2021.01.12.426282v1)
-- [Elasticsearch is dead, long live Open Distro for Elasticsearch](https://www.logicalclocks.com/blog/elasticsearch-is-dead-long-live-open-distro-for-elasticsearch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
