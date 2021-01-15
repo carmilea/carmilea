@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Giving social networking back to you – Mastodon](https://joinmastodon.org/)
+- [Request for Startups](https://evaz.substack.com/p/rfs)
 - [The State of IPv6 support on the Tor network](https://blog.torproject.org/state-of-ipv6-support-tor-network)
 - [Show HN: Vmctl/Vmcli – Easily Run Linux VMs on M1 Macs](https://github.com/gyf304/vmcli)
 - [The Greatest Books of All Time](https://thegreatestbooks.org/)
-- [Oberon OS Walkthrough](http://ignorethecode.net/blog/2009/04/22/oberon/)
-- [Time Management by Randy Pausch [pdf]](https://www.cs.virginia.edu/~robins/Randy/RandyPauschTimeManagement2007.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
