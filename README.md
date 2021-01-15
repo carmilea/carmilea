@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TrueVault (YC W14) Is Hiring a Content Writer (Full-Time, Contract)](https://www.workatastartup.com/jobs/41548)
-- [Running MatterMost as a Unikernel](https://nanovms.com/dev/tutorials/running-mattermost-as-unikernel)
-- [My preferred .NET console stack](https://www.devlead.se/posts/2021/2021-01-15-my-preferred-console-stack)
-- [Dns.Watch Public DNS Servers](https://dns.watch/)
-- [The Unsettling Truth About the ‘Mostly Harmless’ Hiker](https://www.wired.com/story/unsettling-truth-mostly-harmless-hiker/)
+- [CVE-2021-24122 Apache Tomcat Information Disclosure](http://mail-archives.apache.org/mod_mbox/www-announce/202101.mbox/%3Cf3765f21-969d-7f21-e34a-efc106175373%40apache.org%3E)
+- [Lua's Lack of “Batteries”](https://lwn.net/Articles/812122/)
+- [macOS malware used run-only AppleScripts to avoid detection for five years](https://www.zdnet.com/article/macos-malware-used-run-only-applescripts-to-avoid-detection-for-five-years/)
+- [Uganda's January 13, 2021 Internet Shut Down](https://blog.cloudflare.com/uganda-january-13-2021-internet-shut-down/)
+- [Higher coffee intake may be linked to lower prostate cancer risk](https://www.bmj.com/company/newsroom/higher-coffee-intake-may-be-linked-to-lower-prostate-cancer-risk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
