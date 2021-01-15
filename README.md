@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Political Detox Week – No politics on HN for one week (2016)](https://news.ycombinator.com/item?id=13108404)
 - [Facebook sues two Chrome extension devs for scraping user data](https://about.fb.com/news/2021/01/combating-scraping-by-malicious-browser-extensions/)
-- [The 'megascale' structures that humans could one day build](https://www.bbc.com/future/article/20210113-the-megascale-structures-that-humans-could-one-day-build)
+- ['Megascale' structures that humans could one day build](https://www.bbc.com/future/article/20210113-the-megascale-structures-that-humans-could-one-day-build)
+- [Beating Up on Qsort (2019)](https://travisdowns.github.io/blog/2019/05/22/sorting.html)
 - [The Monumental and Human Poetry of Paul Valéry (2020)](https://hyperallergic.com/580740/the-idea-of-perfection-the-poetry-and-prose-of-paul-valery/)
-- [How to Train a Scaled-YOLOv4 Object Detection Model](https://blog.paperspace.com/how-to-train-scaled-yolov4-object-detection/)
-- [Building Clusters with Serf.io (and Fly.io)](https://fly.io/blog/building-clusters-with-serf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
