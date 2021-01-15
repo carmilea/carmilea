@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Giving social networking back to you – Mastodon](https://joinmastodon.org/)
+- [The Spoon Theory](https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/)
+- [Opvia (YC S20) Is Hiring Full-Stack Engineers in London](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
+- [NTFS Corruption on Win10](https://twitter.com/jonasLyk/status/1347900440000811010)
 - [Request for Startups](https://evaz.substack.com/p/rfs)
-- [The State of IPv6 support on the Tor network](https://blog.torproject.org/state-of-ipv6-support-tor-network)
-- [Show HN: Vmctl/Vmcli – Easily Run Linux VMs on M1 Macs](https://github.com/gyf304/vmcli)
-- [The Greatest Books of All Time](https://thegreatestbooks.org/)
+- [Donut.c Without a Math Library](https://www.a1k0n.net/2021/01/13/optimizing-donut.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
