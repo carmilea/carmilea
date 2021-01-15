@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Night.fm](https://night.fm/)
-- [Nuclear 'Small-Modular-Reactor' Startups Are Pursuing the Industrial Heat Market](https://www.bloomberg.com/news/articles/2020-12-05/nuclear-power-in-energy-transition-small-modular-reactors-challenge-natural-gas)
-- [Why cancer cells waste so much energy](https://news.mit.edu/2021/cancer-cells-waste-energy-0115)
-- [Show HN: Supernotes – Embeddable Markdown note-cards](https://supernotes.app/)
-- [AMD Launches Ryzen 5000 Mobile](https://www.anandtech.com/show/16405/amd-launches-ryzen-5000-mobile-zen-3-and-cezanne-for-notebooks)
+- [TrueVault (YC W14) Is Hiring a Content Writer (Full-Time, Contract)](https://www.workatastartup.com/jobs/41548)
+- [Running MatterMost as a Unikernel](https://nanovms.com/dev/tutorials/running-mattermost-as-unikernel)
+- [My preferred .NET console stack](https://www.devlead.se/posts/2021/2021-01-15-my-preferred-console-stack)
+- [Dns.Watch Public DNS Servers](https://dns.watch/)
+- [The Unsettling Truth About the ‘Mostly Harmless’ Hiker](https://www.wired.com/story/unsettling-truth-mostly-harmless-hiker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
