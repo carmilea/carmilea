@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Night.fm](https://night.fm/)
+- [Nuclear 'Small-Modular-Reactor' Startups Are Pursuing the Industrial Heat Market](https://www.bloomberg.com/news/articles/2020-12-05/nuclear-power-in-energy-transition-small-modular-reactors-challenge-natural-gas)
 - [Why cancer cells waste so much energy](https://news.mit.edu/2021/cancer-cells-waste-energy-0115)
+- [Show HN: Supernotes – Embeddable Markdown note-cards](https://supernotes.app/)
 - [AMD Launches Ryzen 5000 Mobile](https://www.anandtech.com/show/16405/amd-launches-ryzen-5000-mobile-zen-3-and-cezanne-for-notebooks)
-- [Notabene (YC S20) Is Hiring a Front End and Back End/DevOps](https://notabene.id/jobs)
-- [StimulusReflex, or LiveView for Rails](https://docs.stimulusreflex.com/)
-- [Tell HN: Dropbox now requires access to contacts for Google login](https://news.ycombinator.com/item?id=25789603)
 <!-- BLOG-POST-LIST:END -->
 
 ---
