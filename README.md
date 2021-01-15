@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rebuilding the spellchecker, pt.3: Lookup–compounds and solutions](https://zverok.github.io/blog/2021-01-14-spellchecker-3.html)
+- [A speaker placement tip that speaker manuals get wrong (2017)](https://sonicscoop.com/2017/12/14/the-1-speaker-placement-tip-speaker-manuals-get-completely-wrong/)
 - [Jonathan Blow – Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=pW-SOdj4Kkk)
 - [Radiance – Database of VR Art](https://www.radiancevr.co)
-- [New MacBook Pro Models to Feature MagSafe, No Touch Bar and More Ports](https://www.macrumors.com/2021/01/15/new-macbook-pro-models-magsafe-ports/)
 - [The Spoon Theory (2012)](https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/)
-- [Opvia (YC S20) Is Hiring Full-Stack Engineers in London](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
