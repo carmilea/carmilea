@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Political Detox Week – No politics on HN for one week (2016)](https://news.ycombinator.com/item?id=13108404)
-- [Facebook sues two Chrome extension devs for scraping user data](https://about.fb.com/news/2021/01/combating-scraping-by-malicious-browser-extensions/)
-- ['Megascale' structures that humans could one day build](https://www.bbc.com/future/article/20210113-the-megascale-structures-that-humans-could-one-day-build)
-- [Beating Up on Qsort (2019)](https://travisdowns.github.io/blog/2019/05/22/sorting.html)
-- [The Monumental and Human Poetry of Paul Valéry (2020)](https://hyperallergic.com/580740/the-idea-of-perfection-the-poetry-and-prose-of-paul-valery/)
+- [Apple M1 Assembly Language Hello World](https://smist08.wordpress.com/2021/01/08/apple-m1-assembly-language-hello-world/)
+- [William Blake's Four-Fold Imagination (2020)](https://aeon.co/essays/what-we-can-learn-from-william-blakes-visionary-imagination)
+- [An Introduction to the Internet of Materials](https://dl.acm.org/doi/pdf/10.1145/3429948)
+- [Debian 11 “bullseye” freeze started](https://lists.debian.org/debian-devel-announce/2021/01/msg00002.html)
+- [Mini-Microsoft](http://minimsft.blogspot.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
