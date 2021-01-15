@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A CSV file with 80k tweets from the day of the capitol hill riots](https://github.com/cwhaley112/capitol-riot-tweets)
-- [Dropbox now requires access to contacts for Google login](https://news.ycombinator.com/item?id=25789603)
-- [The Magsafe charging system in the iPhone 12 can interfere with a pacemaker](https://bhrs.com/important-life-saving-therapy-inhibition-by-phones-containing-magnets/)
-- [Villarejo: The rise and fall of the Spanish state's fixer](https://www.bbc.com/news/world-europe-54189074)
-- [How Vivaldi browser is different from Google Chrome](https://vivaldi.com/blog/vivaldi-browser-vs-google-chrome/)
+- [Notabene (YC S20) Is Hiring a Front End and Back End/DevOps](https://notabene.id/jobs)
+- [Cancel platform Australia: Google seriously looks at pulling out search engine](https://www.crikey.com.au/2021/01/14/google-search-australia-cancelled/)
+- [StimulusReflex, or LiveView for Rails](https://docs.stimulusreflex.com/)
+- [Tell HN: Dropbox now requires access to contacts for Google login](https://news.ycombinator.com/item?id=25789603)
+- [Life Saving Therapy Inhibition by Phones Containing Magnets](https://www.heartrhythmjournal.com/article/S1547-5271(20)31227-3/fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
