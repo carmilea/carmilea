@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rebuilding the spellchecker, pt.3: Lookup–compounds and solutions](https://zverok.github.io/blog/2021-01-14-spellchecker-3.html)
-- [A speaker placement tip that speaker manuals get wrong (2017)](https://sonicscoop.com/2017/12/14/the-1-speaker-placement-tip-speaker-manuals-get-completely-wrong/)
-- [Jonathan Blow – Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=pW-SOdj4Kkk)
-- [Radiance – Database of VR Art](https://www.radiancevr.co)
-- [The Spoon Theory (2012)](https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/)
+- [A CSV file with 80k tweets from the day of the capitol hill riots](https://github.com/cwhaley112/capitol-riot-tweets)
+- [Dropbox now requires access to contacts for Google login](https://news.ycombinator.com/item?id=25789603)
+- [The Magsafe charging system in the iPhone 12 can interfere with a pacemaker](https://bhrs.com/important-life-saving-therapy-inhibition-by-phones-containing-magnets/)
+- [Villarejo: The rise and fall of the Spanish state's fixer](https://www.bbc.com/news/world-europe-54189074)
+- [How Vivaldi browser is different from Google Chrome](https://vivaldi.com/blog/vivaldi-browser-vs-google-chrome/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
