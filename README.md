@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jonathan Blow – Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=pW-SOdj4Kkk)
 - [Radiance – Database of VR Art](https://www.radiancevr.co)
 - [New MacBook Pro Models to Feature MagSafe, No Touch Bar and More Ports](https://www.macrumors.com/2021/01/15/new-macbook-pro-models-magsafe-ports/)
 - [The Spoon Theory (2012)](https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/)
 - [Opvia (YC S20) Is Hiring Full-Stack Engineers in London](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
-- [NTFS Corruption on Win10](https://twitter.com/jonasLyk/status/1347900440000811010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
