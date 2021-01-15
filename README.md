@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tremendous (YC W11) Is Hiring Rails Engineers – Remote OK](https://angel.co/company/tremendous/jobs/620099-fullstack-software-engineer-remote)
-- [Show HN: Forgo.js is a 4kb React alternative based on plain JS and DOM APIs](https://forgojs.org/)
-- [Escaping VirtualBox 6.1: Part 1](https://secret.club/2021/01/14/vbox-escape.html)
-- [WhatsApp delays privacy changes following backlash](https://p.dw.com/p/3nzYg)
-- [Giving More Time for Our Recent Update](https://blog.whatsapp.com/giving-more-time-for-our-recent-update)
+- [Norway investigates 23 deaths in frail elderly patients after vaccination](https://www.bmj.com/content/372/bmj.n149)
+- [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/)
+- [Apple fails to overturn VirnetX patent verdict, could owe over $1.1B](https://www.reuters.com/article/us-apple-virnetx-idUSKBN29K2DU)
+- [Lua, a Misunderstood Language](https://andregarzia.com/2021/01/lua-a-misunderstood-language.html)
+- [Bugtraq: BugTraq Shutdown](https://seclists.org/bugtraq/2021/Jan/0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
