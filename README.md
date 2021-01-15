@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Get started with #SingleStore in C# and .NET using #EntityFramework](https://www.youtube.com/watch?v=FC4pc-fcTro)
 - [Get started with #SingleStore #StoredProcedures in C# and .NET](https://www.youtube.com/watch?v=Mk--pJsB3y4)
 - [#SingleStore #AdTech Reference Architecture](https://www.youtube.com/watch?v=9S3D1DZW7Dg)
 - [Get started with #SingleStore in C# and .NET](https://www.youtube.com/watch?v=E-4t5uqZosk)
 - [Live and Historical #Monitoring in #SingleStore #Studio](https://www.youtube.com/watch?v=n8eEkSqaN5Y)
-- [#SQL Select into #JSON with #SingleStore](https://www.youtube.com/watch?v=y9oL_r7gEPY)
 <!-- YOUTUBE:END -->
 
 
