@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why cancer cells waste so much energy](https://news.mit.edu/2021/cancer-cells-waste-energy-0115)
+- [AMD Launches Ryzen 5000 Mobile](https://www.anandtech.com/show/16405/amd-launches-ryzen-5000-mobile-zen-3-and-cezanne-for-notebooks)
 - [Notabene (YC S20) Is Hiring a Front End and Back End/DevOps](https://notabene.id/jobs)
-- [Cancel platform Australia: Google seriously looks at pulling out search engine](https://www.crikey.com.au/2021/01/14/google-search-australia-cancelled/)
 - [StimulusReflex, or LiveView for Rails](https://docs.stimulusreflex.com/)
 - [Tell HN: Dropbox now requires access to contacts for Google login](https://news.ycombinator.com/item?id=25789603)
-- [Life Saving Therapy Inhibition by Phones Containing Magnets](https://www.heartrhythmjournal.com/article/S1547-5271(20)31227-3/fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
