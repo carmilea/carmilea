@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Norway investigates 23 deaths in frail elderly patients after vaccination](https://www.bmj.com/content/372/bmj.n149)
+- [State of JavaScript 2020](https://2020.stateofjs.com/en-US/)
+- [Jeffrey Epsteins Little Black-Book Unredacted [pdf]](https://spidercatweb.blog/wp-content/uploads/2019/08/Jeffrey-Epsteins-Little-Black-Book-unredacted.pdf)
 - [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/)
+- [Why Zig when there is already C++, D, and Rust?](https://ziglang.org/learn/why_zig_rust_d_cpp/)
 - [Apple fails to overturn VirnetX patent verdict, could owe over $1.1B](https://www.reuters.com/article/us-apple-virnetx-idUSKBN29K2DU)
-- [Lua, a Misunderstood Language](https://andregarzia.com/2021/01/lua-a-misunderstood-language.html)
-- [Bugtraq: BugTraq Shutdown](https://seclists.org/bugtraq/2021/Jan/0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
