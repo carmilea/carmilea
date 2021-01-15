@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple M1 Assembly Language Hello World](https://smist08.wordpress.com/2021/01/08/apple-m1-assembly-language-hello-world/)
-- [William Blake's Four-Fold Imagination (2020)](https://aeon.co/essays/what-we-can-learn-from-william-blakes-visionary-imagination)
-- [An Introduction to the Internet of Materials](https://dl.acm.org/doi/pdf/10.1145/3429948)
-- [Debian 11 “bullseye” freeze started](https://lists.debian.org/debian-devel-announce/2021/01/msg00002.html)
-- [Mini-Microsoft](http://minimsft.blogspot.com/)
+- [The State of IPv6 support on the Tor network](https://blog.torproject.org/state-of-ipv6-support-tor-network)
+- [Show HN: Vmctl/Vmcli – Easily Run Linux VMs on M1 Macs](https://github.com/gyf304/vmcli)
+- [The Greatest Books of All Time](https://thegreatestbooks.org/)
+- [Oberon OS Walkthrough](http://ignorethecode.net/blog/2009/04/22/oberon/)
+- [Time Management by Randy Pausch [pdf]](https://www.cs.virginia.edu/~robins/Randy/RandyPauschTimeManagement2007.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
