@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [REST Servers in Go: Part 1 – standard library](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
-- [Hex Diagram Labels](https://simblob.blogspot.com/2021/01/hex-diagram-labels.html)
-- [NSA Recommends How Enterprises Can Securely Adopt Encrypted DNS](https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2471956/nsa-recommends-how-enterprises-can-securely-adopt-encrypted-dns/)
-- [Mnm – an open source project to replace email and SMTP](https://mnmnotmail.org/)
-- [Signal outage is keeping messages from sending](https://www.theverge.com/2021/1/15/22232993/signal-outage-new-users-messages-not-sending)
+- [Attacking the DeFi ecosystem with flash loans for fun and profit](https://arxiv.org/abs/2003.03810)
+- [Would Rust Secure Curl?](https://timmmm.github.io/curl-vulnerabilities-rust/)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [I Think Beethoven Encoded His Deafness in His Music](https://www.nytimes.com/2020/12/27/arts/music/beethoven-hearing-loss-deafness.html)
+- [Rust: Structuring and handling errors in 2020 (2020)](https://nick.groenen.me/posts/rust-error-handling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
