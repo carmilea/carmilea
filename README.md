@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Have the Tables Turned on NoSQL?](https://stackoverflow.blog/2021/01/14/have-the-tables-turned-on-nosql/)
 - [Rust is a hard way to make a web API](https://macwright.com/2021/01/15/rust.html)
+- [The surprisingly difficult problem of user-defined order in SQL](https://begriffs.com/posts/2018-03-20-user-defined-order.html)
 - [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/)
 - [Bugtraq: BugTraq Shutdown](https://seclists.org/bugtraq/2021/Jan/0)
 - [Tremendous (YC W11) Is Hiring Rails Engineers – Remote OK](https://angel.co/company/tremendous/jobs/620099-fullstack-software-engineer-remote)
