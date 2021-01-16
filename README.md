@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Every day at the same time, my internet dies for 1 minute. How do I investigate?](https://news.ycombinator.com/item?id=25802714)
+- [Do we have negative prime numbers?](https://math.stackexchange.com/q/1002459)
+- [My Second Brain – Zettelkasten](https://scottspence.com/2020/07/17/my-second-brain-zettelkasten/)
 - [How a senior journalist got scammed by a fake job offer from “Harvard”](https://www.ndtv.com/blog/how-i-fell-for-a-phishing-attack-my-story-by-nidhi-razdan-2353395)
 - [The Problem with Gradle](https://www.bruceeckel.com/2021/01/02/the-problem-with-gradle/)
-- [Taplytics (YC W14) Is Hiring for Software Engs (FT and Co-Op) & Sales](https://jobs.lever.co/taplytics)
-- [Limiting Private API Availability in Chromium](https://blog.chromium.org/2021/01/limiting-private-api-availability-in.html)
-- [Computer System Engineering (MIT OCW)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
