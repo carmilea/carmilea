@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [DuckDuckGo Advertising for Signal on Twitter](https://twitter.com/duckduckgo/status/1347555409859670018)
-- [Ask HN: AWS account expires in 2 weeks. Can't login, but they keep asking me to](https://news.ycombinator.com/item?id=25803133)
-- [Signal apps DDoS'ed their own server](https://twitter.com/NovakDaniel/status/1350471722034745348)
-- [Every day at the same time, my internet dies for 1 minute. How do I investigate?](https://news.ycombinator.com/item?id=25802714)
+- [Norway warns of fatal side effects of Covid-19 vaccine after elderly deaths](https://legemiddelverket.no/nyheter/covid-19-vaccination-associated-with-deaths-in-elderly-people-who-are-frail)
+- [The Cabal: Valve’s Design Process for Creating Half-Life](https://www.gamasutra.com/view/feature/131815/the_cabal_valves_design_process_.php)
+- [Ask HN: How do you like developing on an M1 Mac so far?](https://news.ycombinator.com/item?id=25804072)
+- [Aegis Authenticator – open-source 2FA for Android](https://getaegis.app/)
+- [Mark 1 Homebuilt Forth Computer (TTL only, no microprocessor)](http://www.aholme.co.uk/Mk1/Architecture.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
