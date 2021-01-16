@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [State of JavaScript 2020](https://2020.stateofjs.com/en-US/)
-- [Jeffrey Epsteins Little Black-Book Unredacted [pdf]](https://spidercatweb.blog/wp-content/uploads/2019/08/Jeffrey-Epsteins-Little-Black-Book-unredacted.pdf)
+- [Have the Tables Turned on NoSQL?](https://stackoverflow.blog/2021/01/14/have-the-tables-turned-on-nosql/)
+- [Rust is a hard way to make a web API](https://macwright.com/2021/01/15/rust.html)
 - [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/)
-- [Why Zig when there is already C++, D, and Rust?](https://ziglang.org/learn/why_zig_rust_d_cpp/)
-- [Apple fails to overturn VirnetX patent verdict, could owe over $1.1B](https://www.reuters.com/article/us-apple-virnetx-idUSKBN29K2DU)
+- [Bugtraq: BugTraq Shutdown](https://seclists.org/bugtraq/2021/Jan/0)
+- [Tremendous (YC W11) Is Hiring Rails Engineers – Remote OK](https://angel.co/company/tremendous/jobs/620099-fullstack-software-engineer-remote)
 <!-- BLOG-POST-LIST:END -->
 
 ---
