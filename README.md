@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HannStar EMC-3412 a retro x86 SBC](https://blog.jmdawson.co.uk/hannstar-emc-3412-a-retro-x86-sbc/)
+- [State bill would let you sue social media giants for political censorship](https://www.bizpacreview.com/2021/01/16/bad-news-for-big-tech-state-bill-would-let-you-sue-social-media-giants-for-political-censorship-1017234/)
 - [Attacking the DeFi ecosystem with flash loans for fun and profit](https://arxiv.org/abs/2003.03810)
 - [Would Rust Secure Curl?](https://timmmm.github.io/curl-vulnerabilities-rust/)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [I Think Beethoven Encoded His Deafness in His Music](https://www.nytimes.com/2020/12/27/arts/music/beethoven-hearing-loss-deafness.html)
-- [Rust: Structuring and handling errors in 2020 (2020)](https://nick.groenen.me/posts/rust-error-handling/)
+- [Par2cmdline is a PAR 2.0 compatible file verification and repair tool](https://github.com/Parchive/par2cmdline)
 <!-- BLOG-POST-LIST:END -->
 
 ---
