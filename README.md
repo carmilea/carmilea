@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [DuckDuckGo Advertising for Signal on Twitter](https://twitter.com/duckduckgo/status/1347555409859670018)
+- [Ask HN: AWS account expires in 2 weeks. Can't login, but they keep asking me to](https://news.ycombinator.com/item?id=25803133)
+- [Signal apps DDoS'ed their own server](https://twitter.com/NovakDaniel/status/1350471722034745348)
 - [Every day at the same time, my internet dies for 1 minute. How do I investigate?](https://news.ycombinator.com/item?id=25802714)
-- [Do we have negative prime numbers?](https://math.stackexchange.com/q/1002459)
-- [My Second Brain – Zettelkasten](https://scottspence.com/2020/07/17/my-second-brain-zettelkasten/)
-- [How a senior journalist got scammed by a fake job offer from “Harvard”](https://www.ndtv.com/blog/how-i-fell-for-a-phishing-attack-my-story-by-nidhi-razdan-2353395)
-- [The Problem with Gradle](https://www.bruceeckel.com/2021/01/02/the-problem-with-gradle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
