@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ensuring a transparent, thorough investigation of Covid-19’s origin](https://www.state.gov/ensuring-a-transparent-thorough-investigation-of-covid-19s-origin/)
 - [OneSignal (Messaging and Push Notification APIs) is hiring a back end engineer](https://onesignal.com/careers)
 - [Facebook will pay more than $300 each to 1.6M Illinois users in settlement](https://arstechnica.com/tech-policy/2021/01/illinois-facebook-users-to-get-more-than-300-each-in-privacy-settlement/)
 - [Have the Tables Turned on NoSQL?](https://stackoverflow.blog/2021/01/14/have-the-tables-turned-on-nosql/)
 - [State of JavaScript 2020](https://2020.stateofjs.com/en-US/)
+- [Rust is a hard way to make a web API](https://macwright.com/2021/01/15/rust.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
