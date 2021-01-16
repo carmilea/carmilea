@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HannStar EMC-3412 a retro x86 SBC](https://blog.jmdawson.co.uk/hannstar-emc-3412-a-retro-x86-sbc/)
-- [State bill would let you sue social media giants for political censorship](https://www.bizpacreview.com/2021/01/16/bad-news-for-big-tech-state-bill-would-let-you-sue-social-media-giants-for-political-censorship-1017234/)
+- [Intel Kills Off All Optane-Only SSDs for Consumers, No Replacements Planned](https://www.tomshardware.com/news/intel-kills-off-all-optane-only-ssds-for-consumers-no-replacements-planned)
 - [Attacking the DeFi ecosystem with flash loans for fun and profit](https://arxiv.org/abs/2003.03810)
+- [Fujitsu A64FX Microarchitecture Manual [pdf]](https://github.com/fujitsu/A64FX/blob/master/doc/A64FX_Microarchitecture_Manual_en_1.3.pdf)
 - [Would Rust Secure Curl?](https://timmmm.github.io/curl-vulnerabilities-rust/)
 - [Par2cmdline is a PAR 2.0 compatible file verification and repair tool](https://github.com/Parchive/par2cmdline)
 <!-- BLOG-POST-LIST:END -->
