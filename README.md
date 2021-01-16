@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Norway warns of fatal side effects of Covid-19 vaccine after elderly deaths](https://legemiddelverket.no/nyheter/covid-19-vaccination-associated-with-deaths-in-elderly-people-who-are-frail)
 - [The Cabal: Valve’s Design Process for Creating Half-Life](https://www.gamasutra.com/view/feature/131815/the_cabal_valves_design_process_.php)
-- [Ask HN: How do you like developing on an M1 Mac so far?](https://news.ycombinator.com/item?id=25804072)
+- [A Nepali team has made the first winter ascent of K2](http://www.alpinist.com/doc/web21w/newswire-k2-first-winter-ascent)
 - [Aegis Authenticator – open-source 2FA for Android](https://getaegis.app/)
 - [Mark 1 Homebuilt Forth Computer (TTL only, no microprocessor)](http://www.aholme.co.uk/Mk1/Architecture.htm)
+- [Nepalese team makes first successful winter ascent of K2](https://www.theguardian.com/world/2021/jan/16/nepalese-team-makes-first-successful-winter-ascent-of-k2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
