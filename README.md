@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cabal: Valve’s Design Process for Creating Half-Life](https://www.gamasutra.com/view/feature/131815/the_cabal_valves_design_process_.php)
-- [A Nepali team has made the first winter ascent of K2](http://www.alpinist.com/doc/web21w/newswire-k2-first-winter-ascent)
-- [Aegis Authenticator – open-source 2FA for Android](https://getaegis.app/)
-- [Mark 1 Homebuilt Forth Computer (TTL only, no microprocessor)](http://www.aholme.co.uk/Mk1/Architecture.htm)
-- [Nepalese team makes first successful winter ascent of K2](https://www.theguardian.com/world/2021/jan/16/nepalese-team-makes-first-successful-winter-ascent-of-k2)
+- [REST Servers in Go: Part 1 – standard library](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
+- [Hex Diagram Labels](https://simblob.blogspot.com/2021/01/hex-diagram-labels.html)
+- [NSA Recommends How Enterprises Can Securely Adopt Encrypted DNS](https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2471956/nsa-recommends-how-enterprises-can-securely-adopt-encrypted-dns/)
+- [Mnm – an open source project to replace email and SMTP](https://mnmnotmail.org/)
+- [Signal outage is keeping messages from sending](https://www.theverge.com/2021/1/15/22232993/signal-outage-new-users-messages-not-sending)
 <!-- BLOG-POST-LIST:END -->
 
 ---
