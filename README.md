@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Insurrection Will Be Live Streamed: Notes Toward a Theory of Digitization](https://theconvivialsociety.substack.com/p/the-insurrection-will-be-live-streamed)
+- [The Problem with Gradle](https://www.bruceeckel.com/2021/01/02/the-problem-with-gradle/)
 - [Taplytics (YC W14) Is Hiring for Software Engs (FT and Co-Op) & Sales](https://jobs.lever.co/taplytics)
+- [WontFix: Chromium forcing its own title bar and borders on Linux](https://bugs.chromium.org/p/chromium/issues/detail?id=896584)
 - [Limiting Private API Availability in Chromium](https://blog.chromium.org/2021/01/limiting-private-api-availability-in.html)
-- [Computer System Engineering (MIT OCW)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
-- [New ‘Action Roguelike’ C++ Project on GitHub](https://www.tomlooman.com/action-roguelike-cpp-ue4/)
-- [Airbyte: Simple and extensible open-source EL(T)](https://github.com/airbytehq/airbyte)
 <!-- BLOG-POST-LIST:END -->
 
 ---
