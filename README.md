@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Limiting Private API Availability in Chromium](https://blog.chromium.org/2021/01/limiting-private-api-availability-in.html)
 - [Computer System Engineering (MIT OCW)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
 - [New ‘Action Roguelike’ C++ Project on GitHub](https://www.tomlooman.com/action-roguelike-cpp-ue4/)
 - [Airbyte: Simple and extensible open-source EL(T)](https://github.com/airbytehq/airbyte)
 - [Alternative lightweight UI library to modern day frameworks](https://mithril.js.org/)
-- [Building DigitalOcean's API Gateway](https://mauricio.github.io/2021/01/14/building-digitaloceans-api-gateway.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
