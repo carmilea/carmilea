@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parler's website is back online, but app still not in stores](https://www.reuters.com/article/us-parler-website/parlers-website-is-back-online-but-app-still-not-in-stores-idUSKBN29M0QU)
+- [ZFS copies=n is not a substitute for device redundancy (2016)](https://jrs-s.net/2016/05/02/zfs-copies-equals-n/)
+- [Why the Service Mesh Should Fade Out of Sight](https://go.forrester.com/blogs/why-the-service-mesh-should-fade-out-of-sight/)
+- [Safari 14 added WebExtensions support. So where are the extensions?](https://sixcolors.com/post/2021/01/safari-14-added-webextensions-support-so-where-are-the-extensions/)
 - [Virgin Orbit confirms that LauncherOne has reached orbit](https://twitter.com/Virgin_Orbit/status/1350892947160485889)
-- [The Buy Nothing Project](https://buynothingproject.org/about/)
-- [Drunken Sailor – Public Domain Sea Shanty](https://opengameart.org/content/opl2-unkown-drunken-sailor)
-- [Amazon Echo Flex Teardown: The Big Silicon](https://electronupdate.blogspot.com/2021/01/amazon-echo-flex-teardown-big-silicon.html)
-- [Dog ownership associated with decreased cardiovascular risk](https://www.ahajournals.org/doi/10.1161/CIRCOUTCOMES.119.005554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
