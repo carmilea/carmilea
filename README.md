@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Sailor’s Chanties (1906) [pdf]](https://www.jstor.org/stable/pdf/534759.pdf)
 - [The World’s Oldest Story? ‘Seven Sisters’ Myths May Reach Back 100k Years](https://singularityhub.com/2021/01/10/the-worlds-oldest-story-astronomers-say-global-myths-about-seven-sisters-stars-may-reach-back-100000-years/)
-- [Republic of Indian Stream](https://en.wikipedia.org/wiki/Republic_of_Indian_Stream)
 - [JingOS: Linux Distro Inspired by the iPad](https://www.jingos.com/)
 - [The Tragedy of Gemini](https://maya.land/monologues/2021/01/11/the-tragedy-of-gemini.html)
+- [The first blue pigment discovered in 200 years is now commercially available](https://news.artnet.com/art-world/yinmn-blue-comes-market-1921665)
 <!-- BLOG-POST-LIST:END -->
 
 ---
