@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [js;dr = JavaScript required; Didn’t Read.](https://tantek.com/2015/069/t1/js-dr-javascript-required-dead)
+- [E Ink has developed a 2nd generation Advanced Color E-Paper](https://goodereader.com/blog/e-paper/e-ink-has-developed-acep-gallery-4100-color-e-paper)
+- [Google is building an internet without cookies – publishers are concerned](https://www.pressgazette.co.uk/death-of-third-party-cookies-sandbox-google/)
 - [PBRT in Rust](https://github.com/wahn/rs_pbrt)
 - [The Muse (YC W12) Is Hiring a Senior Designer](https://www.themuse.com/jobs/themuse/senior-product-designer)
-- [Cyber Security; Beginner Roadmap](https://blog.ashimi.xyz/cyber-security-beginner-roadmap-ckk1cmmvb08jfqps1amjuh10o)
-- [Ask HN: Which are the best Go repositories to read to learn the language?](https://news.ycombinator.com/item?id=25812021)
-- [We can do better than Signal](https://icyphox.sh/blog/signal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
