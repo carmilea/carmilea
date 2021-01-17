@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Navy – Tic Tac UFO – High frequency gravitational wave generator](https://patents.google.com/patent/US10322827B2/en?inventor=Salvatore+Cezar+Pais)
+- [Natively visualize NetworkX graphs using D3.js and pywebview (without electron)](https://github.com/byt3bl33d3r/webview_d3)
+- [The First Blue Pigment Discovered in 200 Years Is Finally Commercially Available](https://news.artnet.com/art-world/yinmn-blue-comes-market-1921665)
 - [Show HN: RemoteClub – Best cities to work remotely across the world](https://remoteclub.com/)
-- [Signal Is Back](https://twitter.com/signalapp/status/1350595202872823809/)
-- [Attacking the DeFi ecosystem with flash loans for fun and profit](https://arxiv.org/abs/2003.03810)
-- [Fujitsu A64FX Microarchitecture Manual [pdf]](https://github.com/fujitsu/A64FX/blob/master/doc/A64FX_Microarchitecture_Manual_en_1.3.pdf)
-- [Par2cmdline is a PAR 2.0 compatible file verification and repair tool](https://github.com/Parchive/par2cmdline)
+- [Signal Is Up and Running](https://status.signal.org/?)
 <!-- BLOG-POST-LIST:END -->
 
 ---
