@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacker News sentiment towards Big Tech companies](https://www.quiverquant.com/sources/hackernews)
+- [PBRT in Rust](https://github.com/wahn/rs_pbrt)
 - [The Muse (YC W12) Is Hiring a Senior Designer](https://www.themuse.com/jobs/themuse/senior-product-designer)
-- [Mahatma Gandhi's killer venerated as Hindu nationalism resurges in India](https://www.theguardian.com/world/2021/jan/17/mahatma-gandhis-killer-venerated-as-hindu-nationalism-resurges-in-india)
-- [Ask HN: Which are the best go repositories to read to learn the language?](https://news.ycombinator.com/item?id=25812021)
-- [Another scam paper published in a “scientific” journal](https://whyevolutionistrue.com/2021/01/15/another-scam-paper-published-in-a-scientific-journal/)
+- [Cyber Security; Beginner Roadmap](https://blog.ashimi.xyz/cyber-security-beginner-roadmap-ckk1cmmvb08jfqps1amjuh10o)
+- [Ask HN: Which are the best Go repositories to read to learn the language?](https://news.ycombinator.com/item?id=25812021)
+- [We can do better than Signal](https://icyphox.sh/blog/signal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
