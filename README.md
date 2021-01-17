@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Lex Fridman AI Podcast Search](https://share.streamlit.io/rmeinl/podcast_search/app.py)
+- [Modern Treasury (YC S18) is hiring in engineering, design, growth, recruiting](https://angel.co/company/moderntreasury)
+- [“Tencent QQ caught scraping all browser history on Windows”](https://twitter.com/CodeColorist/status/1350625255765671938)
 - [Sailor’s Chanties (1906) [pdf]](https://www.jstor.org/stable/pdf/534759.pdf)
 - [The World’s Oldest Story? ‘Seven Sisters’ Myths May Reach Back 100k Years](https://singularityhub.com/2021/01/10/the-worlds-oldest-story-astronomers-say-global-myths-about-seven-sisters-stars-may-reach-back-100000-years/)
-- [JingOS: Linux Distro Inspired by the iPad](https://www.jingos.com/)
-- [The first blue pigment discovered in 200 years is now commercially available](https://news.artnet.com/art-world/yinmn-blue-comes-market-1921665)
-- [Dostoevsky in Love](https://www.theguardian.com/books/2021/jan/14/dostoevsky-in-love-by-alex-christofi-review-unpredictable-dangerous-and-thrilling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
