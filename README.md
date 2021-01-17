@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tim Cook Defends Parler App Suspension: ‘We Don’t Consider That Free Speech’](https://www.msn.com/en-us/news/technology/apple-ceo-tim-cook-defends-parler-app-suspension-e2-80-98we-don-e2-80-99t-consider-that-free-speech-e2-80-99/ar-BB1cMMN1)
+- [Arrest warrant issued for ex-Florida data scientist Rebekah Jones](https://www.tampabay.com/news/florida/2021/01/16/arrest-warrant-issued-for-ex-florida-data-scientist-rebekah-jones/)
 - [Downpour: DRM Free Audiobooks](https://www.downpour.com/)
 - [After a decade, NASA’s big rocket fails its first real test](https://arstechnica.com/science/2021/01/nasas-space-launch-system-rocket-shuts-down-after-just-67-seconds/)
 - [The values of Emacs, the Neovim revolution, and the VSCode gorilla](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/)
