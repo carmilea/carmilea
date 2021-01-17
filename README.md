@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BladeRF-wiphy: open-source IEEE 802.11 compatible Software Defined Radio modem](https://www.nuand.com/bladeRF-wiphy/)
+- [QuantMath: Financial maths library for risk-neutral pricing and risk in Rust](https://github.com/MarcusRainbow/QuantMath)
 - [js;dr = JavaScript required; Didn’t Read.](https://tantek.com/2015/069/t1/js-dr-javascript-required-dead)
+- [Creating Comfy FreeBSD Jails Using Standard Tools](https://kettunen.io/post/standard-freebsd-jails/)
 - [E Ink has developed a 2nd generation Advanced Color E-Paper](https://goodereader.com/blog/e-paper/e-ink-has-developed-acep-gallery-4100-color-e-paper)
-- [Google is building an internet without cookies – publishers are concerned](https://www.pressgazette.co.uk/death-of-third-party-cookies-sandbox-google/)
-- [PBRT in Rust](https://github.com/wahn/rs_pbrt)
-- [The Muse (YC W12) Is Hiring a Senior Designer](https://www.themuse.com/jobs/themuse/senior-product-designer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
