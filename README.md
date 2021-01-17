@@ -54,8 +54,8 @@
 - [Sailor’s Chanties (1906) [pdf]](https://www.jstor.org/stable/pdf/534759.pdf)
 - [The World’s Oldest Story? ‘Seven Sisters’ Myths May Reach Back 100k Years](https://singularityhub.com/2021/01/10/the-worlds-oldest-story-astronomers-say-global-myths-about-seven-sisters-stars-may-reach-back-100000-years/)
 - [JingOS: Linux Distro Inspired by the iPad](https://www.jingos.com/)
-- [The Tragedy of Gemini](https://maya.land/monologues/2021/01/11/the-tragedy-of-gemini.html)
 - [The first blue pigment discovered in 200 years is now commercially available](https://news.artnet.com/art-world/yinmn-blue-comes-market-1921665)
+- [Dostoevsky in Love](https://www.theguardian.com/books/2021/jan/14/dostoevsky-in-love-by-alex-christofi-review-unpredictable-dangerous-and-thrilling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
