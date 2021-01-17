@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BladeRF-wiphy: open-source IEEE 802.11 compatible Software Defined Radio modem](https://www.nuand.com/bladeRF-wiphy/)
-- [QuantMath: Financial maths library for risk-neutral pricing and risk in Rust](https://github.com/MarcusRainbow/QuantMath)
-- [js;dr = JavaScript required; Didn’t Read.](https://tantek.com/2015/069/t1/js-dr-javascript-required-dead)
-- [Creating Comfy FreeBSD Jails Using Standard Tools](https://kettunen.io/post/standard-freebsd-jails/)
-- [E Ink has developed a 2nd generation Advanced Color E-Paper](https://goodereader.com/blog/e-paper/e-ink-has-developed-acep-gallery-4100-color-e-paper)
+- [Bitcoin == Global Warming](https://twitter.com/smdiehl/status/1350880234917285888)
+- [The Environmental Cost of Bitcoin](https://twitter.com/smdiehl/status/1350869944888664064)
+- [Drunken Sailor – Public Domain Sea Shanty](https://opengameart.org/content/opl2-unkown-drunken-sailor)
+- [Amazon Echo Flex Teardown: The Big Silicon](https://electronupdate.blogspot.com/2021/01/amazon-echo-flex-teardown-big-silicon.html)
+- [BladeRF-wiphy: Open-source, software defined radio modem](https://www.nuand.com/bladeRF-wiphy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
