@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Big Tech Has Helped Trash America](https://www.nytimes.com/2021/01/15/opinion/tech-hope-america.html)
+- [BitLocker Lockscreen Bypass](https://secret.club/2021/01/15/bitlocker-bypass.html)
+- [The Great Filter](https://mason.gmu.edu/~rhanson/greatfilter.html)
 - [Show HN: Lex Fridman AI Podcast Search](https://share.streamlit.io/rmeinl/podcast_search/app.py)
 - [Modern Treasury (YC S18) is hiring in engineering, design, growth, recruiting](https://angel.co/company/moderntreasury)
-- [“Tencent QQ caught scraping all browser history on Windows”](https://twitter.com/CodeColorist/status/1350625255765671938)
-- [Sailor’s Chanties (1906) [pdf]](https://www.jstor.org/stable/pdf/534759.pdf)
-- [The World’s Oldest Story? ‘Seven Sisters’ Myths May Reach Back 100k Years](https://singularityhub.com/2021/01/10/the-worlds-oldest-story-astronomers-say-global-myths-about-seven-sisters-stars-may-reach-back-100000-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
