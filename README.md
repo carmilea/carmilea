@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin == Global Warming](https://twitter.com/smdiehl/status/1350880234917285888)
-- [The Environmental Cost of Bitcoin](https://twitter.com/smdiehl/status/1350869944888664064)
+- [Virgin Orbit confirms that LauncherOne has reached orbit](https://twitter.com/Virgin_Orbit/status/1350892947160485889)
+- [The Buy Nothing Project](https://buynothingproject.org/about/)
 - [Drunken Sailor – Public Domain Sea Shanty](https://opengameart.org/content/opl2-unkown-drunken-sailor)
 - [Amazon Echo Flex Teardown: The Big Silicon](https://electronupdate.blogspot.com/2021/01/amazon-echo-flex-teardown-big-silicon.html)
-- [BladeRF-wiphy: Open-source, software defined radio modem](https://www.nuand.com/bladeRF-wiphy/)
+- [Dog ownership associated with decreased cardiovascular risk](https://www.ahajournals.org/doi/10.1161/CIRCOUTCOMES.119.005554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
