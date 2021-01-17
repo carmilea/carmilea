@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Tech Has Helped Trash America](https://www.nytimes.com/2021/01/15/opinion/tech-hope-america.html)
+- [Tim Cook Defends Parler App Suspension: ‘We Don’t Consider That Free Speech’](https://www.msn.com/en-us/news/technology/apple-ceo-tim-cook-defends-parler-app-suspension-e2-80-98we-don-e2-80-99t-consider-that-free-speech-e2-80-99/ar-BB1cMMN1)
+- [Downpour: DRM Free Audiobooks](https://www.downpour.com/)
+- [After a decade, NASA’s big rocket fails its first real test](https://arstechnica.com/science/2021/01/nasas-space-launch-system-rocket-shuts-down-after-just-67-seconds/)
+- [The values of Emacs, the Neovim revolution, and the VSCode gorilla](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/)
 - [BitLocker Lockscreen Bypass](https://secret.club/2021/01/15/bitlocker-bypass.html)
-- [The Great Filter](https://mason.gmu.edu/~rhanson/greatfilter.html)
-- [Show HN: Lex Fridman AI Podcast Search](https://share.streamlit.io/rmeinl/podcast_search/app.py)
-- [Modern Treasury (YC S18) is hiring in engineering, design, growth, recruiting](https://angel.co/company/moderntreasury)
 <!-- BLOG-POST-LIST:END -->
 
 ---
