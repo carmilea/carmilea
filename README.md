@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Arrest warrant issued for ex-Florida data scientist Rebekah Jones](https://www.tampabay.com/news/florida/2021/01/16/arrest-warrant-issued-for-ex-florida-data-scientist-rebekah-jones/)
-- [Downpour: DRM Free Audiobooks](https://www.downpour.com/)
-- [After a decade, NASA’s big rocket fails its first real test](https://arstechnica.com/science/2021/01/nasas-space-launch-system-rocket-shuts-down-after-just-67-seconds/)
-- [The values of Emacs, the Neovim revolution, and the VSCode gorilla](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/)
-- [BitLocker Lockscreen Bypass](https://secret.club/2021/01/15/bitlocker-bypass.html)
+- [Hacker News sentiment towards Big Tech companies](https://www.quiverquant.com/sources/hackernews)
+- [The Muse (YC W12) Is Hiring a Senior Designer](https://www.themuse.com/jobs/themuse/senior-product-designer)
+- [Mahatma Gandhi's killer venerated as Hindu nationalism resurges in India](https://www.theguardian.com/world/2021/jan/17/mahatma-gandhis-killer-venerated-as-hindu-nationalism-resurges-in-india)
+- [Ask HN: Which are the best go repositories to read to learn the language?](https://news.ycombinator.com/item?id=25812021)
+- [Another scam paper published in a “scientific” journal](https://whyevolutionistrue.com/2021/01/15/another-scam-paper-published-in-a-scientific-journal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
