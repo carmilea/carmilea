@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple's MacBook revival plan is stupid smart: Bring back old features](https://www.inputmag.com/design/apple-macbook-revival-plan-is-stupid-smart-bring-back-old-features)
 - [New Linux Distro Inspired by the iPad](https://www.jingos.com/)
-- [When parties reverse their stance, supporters immediately switch their opinions](https://thespeakernewsjournal.com/science/when-political-parties-reverse-their-policy-stance-their-supporters-immediately-switch-their-opinions-too/)
 - [The Tragedy of Gemini](https://maya.land/monologues/2021/01/11/the-tragedy-of-gemini.html)
 - [US Navy – Tic Tac UFO – High frequency gravitational wave generator](https://patents.google.com/patent/US10322827B2/en?inventor=Salvatore+Cezar+Pais)
-- [The First Blue Pigment Discovered in 200 Years Is Finally Commercially Available](https://news.artnet.com/art-world/yinmn-blue-comes-market-1921665)
+- [The first blue pigment discovered in 200 years is now commercially available](https://news.artnet.com/art-world/yinmn-blue-comes-market-1921665)
 <!-- BLOG-POST-LIST:END -->
 
 ---
