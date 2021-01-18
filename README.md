@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Woman may have tried to sell Pelosi computer device to Russians, FBI says](https://www.reuters.com/article/us-usa-trump-protests-cyber/woman-may-have-tried-to-sell-pelosi-computer-device-to-russians-fbi-says-idUSKBN29N1KU)
-- [Three reasons fungi are not plants](https://asm.org/Articles/2021/January/Three-Reasons-Fungi-Are-Not-Plants)
-- [Ballista: Distributed compute platform implemented in Rust, using Apache Arrow](https://github.com/ballista-compute/ballista)
-- [With the Death of Cash, Privacy Faces a Deeply Uncertain Future](https://hackernoon.com/with-the-death-of-cash-privacy-faces-a-deeply-uncertain-future-l8c344v)
-- [The Crooked Geometry of Round Trips](https://www.quantamagazine.org/the-crooked-geometry-of-round-trips-20210113/)
+- [A 19th-Century Vision of the Year 2000](https://publicdomainreview.org/collection/a-19th-century-vision-of-the-year-2000)
+- [How I Build Web Apps As A Freelancer](https://timdaub.github.io/2021/01/16/web-principles/)
+- [Clubhouse for X – The emerging trend of audio-only applications](https://forum.ei2030.org/t/clubhouse-for-x-the-emerging-trend-of-audio-only-applications/99)
+- [Nobody lives here: Nearly 5M Census Blocks with zero population (2014)](https://tumblr.mapsbynik.com/post/82791188950/nobody-lives-here-the-4-million-census-blocks)
+- [Celebrating Martin Luther King, Jr.’s Leadership and Values](https://www.singlestore.com/blog/celebrating-martin-luther-king-jr-s-leadership-and-values/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
