@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [React Component for 3D Maps](https://github.com/felixpalmer/procedural-gl-react)
-- [Blind man regains sight thanks to Israeli startup's synthetic cornea](https://www.israelhayom.com/2021/01/12/blind-man-sees-again-thanks-to-israeli-startups-artificial-cornea/)
-- [Stromatolites: A Billion-Year-Old Living Organism](http://www.bbc.com/travel/story/20210117-stromatolites-the-earths-oldest-living-lifeforms)
-- [Venice combats overtourism by tracking visitors](https://edition.cnn.com/travel/article/venice-control-room-tourism/index.html)
-- [GitHub Stale Bots – A False Economy](https://blog.benwinding.com/github-stale-bots/)
+- [Why Combustion Is Exothermic](https://pubs.acs.org/doi/10.1021/acs.jchemed.5b00333#)
+- [Will your PR get merged?](https://merge-chance.info/)
+- [Foxconn gets green light for $270M factory in Vietnam](https://appleinsider.com/articles/21/01/18/foxconn-gets-green-light-for-270m-factory-in-vietnam)
+- [Show HN: A low-code alternative for Stripe/Twilio Integrations](https://appstitch.dev)
+- [Show HN: Compare prices that US hospitals charge patients and insurance co's](https://turquoise.health/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
