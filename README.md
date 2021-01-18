@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Off-the-Record Messaging Protocol version 4 draft](https://github.com/otrv4/otrv4)
 - [The Amiga 1000 Parceiro](https://www.amigalove.com/viewtopic.php?t=1689)
 - [HR is not your friend, and other things I think you should know](http://rachelbythebay.com/w/2021/01/17/woe/)
-- [I Tried to Get a ‘Leftover Dose’ of the Vaccine Last Night](https://www.thecut.com/2021/01/i-tried-to-get-a-leftover-dose-of-the-vaccine-last-night.html)
 - [Japanese people may have gained longevity by balancing their diets](https://www.economist.com/graphic-detail/2021/01/16/japanese-people-may-have-gained-longevity-by-balancing-their-diets)
 - [Can You Treat Loneliness by Creating an Imaginary Friend?](https://nautil.us/blog/can-you-treat-loneliness-by-creating-an-imaginary-friend)
 <!-- BLOG-POST-LIST:END -->
