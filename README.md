@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software engineering is a learning process, working code is a side effect](https://www.lambdabytes.io/posts/selearning/)
 - [The Problem with Writing-Style Advice](https://metaphorhacker.net/2021/01/the-nonsense-of-style-academic-writing-should-be-scrupulous-not-stylish/)
 - [BuildZoom (better way to build custom homes) Is hiring a principal engineer](https://jobs.lever.co/buildzoom)
 - [I wasted $40k on a fantastic startup idea](https://tjcx.me/p/i-wasted-40k-on-a-fantastic-startup-idea)
-- [A 19th-Century Vision of the Year 2000](https://publicdomainreview.org/collection/a-19th-century-vision-of-the-year-2000)
 - [Nobody lives here: Nearly 5M Census Blocks with zero population (2014)](https://tumblr.mapsbynik.com/post/82791188950/nobody-lives-here-the-4-million-census-blocks)
 <!-- BLOG-POST-LIST:END -->
 
