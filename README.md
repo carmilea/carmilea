@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kodable Is Hiring Game and Web Developers – Help teach millions of kids to code](https://angel.co/company/kodable/jobs)
+- [GNU Radio 3.9.0.0](https://www.gnuradio.org/news/2021-01-17-gnu-radio-v3.9.0.0-release/)
+- [Update: Prosecutors asked that Rebekah Jones be banned from the internet](https://yro.slashdot.org/story/21/01/17/2257210/floridas-whistleblower-covid-19-data-manager-arrested-today)
+- [The Embedded YouTube Player Told Me What You Were Watching](https://bugs.xdavidhu.me./google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/)
 - [Why Combustion Is Exothermic](https://pubs.acs.org/doi/10.1021/acs.jchemed.5b00333#)
-- [Will your PR get merged?](https://merge-chance.info/)
-- [Foxconn gets green light for $270M factory in Vietnam](https://appleinsider.com/articles/21/01/18/foxconn-gets-green-light-for-270m-factory-in-vietnam)
-- [Show HN: A low-code alternative for Stripe/Twilio Integrations](https://appstitch.dev)
-- [Show HN: Compare prices that US hospitals charge patients and insurance co's](https://turquoise.health/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
