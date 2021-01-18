@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Man found 'living in airport for three months' over Covid fears](https://www.bbc.com/news/world-us-canada-55702003)
-- [GPT-Neo recreating GPT-3 free open source](https://www.eleuther.ai/gpt-neo)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [Show HN: 100 LOC Ruby forward proxy using only standard libraries](https://github.com/jamesmoriarty/forward-proxy)
-- [The Amiga 1000 Parceiro](https://www.amigalove.com/viewtopic.php?t=1689)
+- [Venice combats overtourism by tracking visitors](https://edition.cnn.com/travel/article/venice-control-room-tourism/index.html)
+- [Dover (YC S19) is hiring a growth engineer to modernize recruiting](https://www.dover.io/open-roles/growth-engineer)
+- [Categories of Nets](https://johncarlosbaez.wordpress.com/2021/01/17/categories-of-nets/)
+- [Can Google Fix the $108B News Industry It Helped Break?](https://www.bloomberg.com/opinion/articles/2021-01-18/can-google-facebook-fix-the-108-billion-news-industry-it-helped-break)
+- [The Fediverse is better than regular social media](https://slashdev.space/posts/2021-01-18-reasons-the-fediverse-is-better)
 <!-- BLOG-POST-LIST:END -->
 
 ---
