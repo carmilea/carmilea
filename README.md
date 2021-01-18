@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kodable Is Hiring Game and Web Developers – Help teach millions of kids to code](https://angel.co/company/kodable/jobs)
-- [GNU Radio 3.9.0.0](https://www.gnuradio.org/news/2021-01-17-gnu-radio-v3.9.0.0-release/)
-- [Update: Prosecutors asked that Rebekah Jones be banned from the internet](https://yro.slashdot.org/story/21/01/17/2257210/floridas-whistleblower-covid-19-data-manager-arrested-today)
-- [The Embedded YouTube Player Told Me What You Were Watching](https://bugs.xdavidhu.me./google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/)
-- [Why Combustion Is Exothermic](https://pubs.acs.org/doi/10.1021/acs.jchemed.5b00333#)
+- [Woman may have tried to sell Pelosi computer device to Russians, FBI says](https://www.reuters.com/article/us-usa-trump-protests-cyber/woman-may-have-tried-to-sell-pelosi-computer-device-to-russians-fbi-says-idUSKBN29N1KU)
+- [Three reasons fungi are not plants](https://asm.org/Articles/2021/January/Three-Reasons-Fungi-Are-Not-Plants)
+- [Ballista: Distributed compute platform implemented in Rust, using Apache Arrow](https://github.com/ballista-compute/ballista)
+- [With the Death of Cash, Privacy Faces a Deeply Uncertain Future](https://hackernoon.com/with-the-death-of-cash-privacy-faces-a-deeply-uncertain-future-l8c344v)
+- [The Crooked Geometry of Round Trips](https://www.quantamagazine.org/the-crooked-geometry-of-round-trips-20210113/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
