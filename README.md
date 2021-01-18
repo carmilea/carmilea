@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Certbot deprecates operating system packages, “standardizes” on snaps](https://certbot.eff.org/docs/install.html#operating-system-packages)
+- [Aldous Huxley interviewed by Mike Wallace (1958)](https://www.youtube.com/watch?v=alasBxZsb40)
+- [China and Japan race to dominate the future of high-speed rail – The Japan Times](https://www.japantimes.co.jp/news/2020/11/24/business/economy-business/china-japan-high-speed-rail-race/)
+- [Context switching costs more than we give it credit for](https://thinkingthrough.substack.com/p/context-switching-cost-more-than)
 - [Soviet Pilot Escapes from POW Camp by Stealing a German Bomber and Flying Home](https://en.wikipedia.org/wiki/Mikhail_Devyatayev)
-- [Virgin Orbit launches 10 satellites to orbit in landmark test flight](https://www.space.com/virgin-orbit-launches-10-satellites-to-orbit)
-- [I looked at all the ways Microsoft Teams tracks users](https://www.zdnet.com/article/i-looked-at-all-the-ways-microsoft-teams-tracks-users-and-my-head-is-spinning/)
-- [ZFS copies=n is not a substitute for device redundancy (2016)](https://jrs-s.net/2016/05/02/zfs-copies-equals-n/)
+- [Parler's home page is back online, but app still not in stores](https://www.reuters.com/article/us-parler-website/parlers-website-is-back-online-but-app-still-not-in-stores-idUSKBN29M0QU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
