@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-Neo recreating GPT-3 free open source](https://www.eleuther.ai/gpt-neo)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [Show HN: 100 LOC Ruby forward proxy using only standard libraries](https://github.com/jamesmoriarty/forward-proxy)
 - [The Amiga 1000 Parceiro](https://www.amigalove.com/viewtopic.php?t=1689)
 - [Tracking down a segfault that suddenly started happening](https://www.downtowndougbrown.com/2021/01/tracking-down-a-segfault-that-suddenly-started-happening/)
-- [HR is not your friend, and other things I think you should know](http://rachelbythebay.com/w/2021/01/17/woe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
