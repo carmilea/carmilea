@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HR is not your friend, and other things I think you should know](http://rachelbythebay.com/w/2021/01/17/woe/)
+- [I Tried to Get a ‘Leftover Dose’ of the Vaccine Last Night](https://www.thecut.com/2021/01/i-tried-to-get-a-leftover-dose-of-the-vaccine-last-night.html)
+- [Japanese people may have gained longevity by balancing their diets](https://www.economist.com/graphic-detail/2021/01/16/japanese-people-may-have-gained-longevity-by-balancing-their-diets)
 - [Aldous Huxley interviewed by Mike Wallace (1958)](https://www.youtube.com/watch?v=alasBxZsb40)
-- [China and Japan race to dominate the future of high-speed rail – The Japan Times](https://www.japantimes.co.jp/news/2020/11/24/business/economy-business/china-japan-high-speed-rail-race/)
 - [Context switching costs more than we give it credit for](https://thinkingthrough.substack.com/p/context-switching-cost-more-than)
-- [Soviet Pilot Escapes from POW Camp by Stealing a German Bomber and Flying Home](https://en.wikipedia.org/wiki/Mikhail_Devyatayev)
-- [Parler's home page is back online, but app still not in stores](https://www.reuters.com/article/us-parler-website/parlers-website-is-back-online-but-app-still-not-in-stores-idUSKBN29M0QU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
