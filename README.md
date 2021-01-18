@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [React Component for 3D Maps](https://github.com/felixpalmer/procedural-gl-react)
+- [Blind man regains sight thanks to Israeli startup's synthetic cornea](https://www.israelhayom.com/2021/01/12/blind-man-sees-again-thanks-to-israeli-startups-artificial-cornea/)
+- [Stromatolites: A Billion-Year-Old Living Organism](http://www.bbc.com/travel/story/20210117-stromatolites-the-earths-oldest-living-lifeforms)
 - [Venice combats overtourism by tracking visitors](https://edition.cnn.com/travel/article/venice-control-room-tourism/index.html)
-- [Dover (YC S19) is hiring a growth engineer to modernize recruiting](https://www.dover.io/open-roles/growth-engineer)
-- [Categories of Nets](https://johncarlosbaez.wordpress.com/2021/01/17/categories-of-nets/)
-- [Can Google Fix the $108B News Industry It Helped Break?](https://www.bloomberg.com/opinion/articles/2021-01-18/can-google-facebook-fix-the-108-billion-news-industry-it-helped-break)
-- [The Fediverse is better than regular social media](https://slashdev.space/posts/2021-01-18-reasons-the-fediverse-is-better)
+- [GitHub Stale Bots – A False Economy](https://blog.benwinding.com/github-stale-bots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
