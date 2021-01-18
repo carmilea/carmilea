@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom (better way to build custom homes) Is hiring a principal engineer](https://jobs.lever.co/buildzoom)
+- [What Can You Put in a Refrigerator? (2015)](https://prog21.dadgum.com/212.html)
+- [I wasted $40k on a fantastic startup idea](https://tjcx.me/p/i-wasted-40k-on-a-fantastic-startup-idea)
 - [A 19th-Century Vision of the Year 2000](https://publicdomainreview.org/collection/a-19th-century-vision-of-the-year-2000)
 - [How I Build Web Apps As A Freelancer](https://timdaub.github.io/2021/01/16/web-principles/)
-- [Clubhouse for X – The emerging trend of audio-only applications](https://forum.ei2030.org/t/clubhouse-for-x-the-emerging-trend-of-audio-only-applications/99)
-- [Nobody lives here: Nearly 5M Census Blocks with zero population (2014)](https://tumblr.mapsbynik.com/post/82791188950/nobody-lives-here-the-4-million-census-blocks)
-- [Celebrating Martin Luther King, Jr.’s Leadership and Values](https://www.singlestore.com/blog/celebrating-martin-luther-king-jr-s-leadership-and-values/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
