@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Man found 'living in airport for three months' over Covid fears](https://www.bbc.com/news/world-us-canada-55702003)
 - [GPT-Neo recreating GPT-3 free open source](https://www.eleuther.ai/gpt-neo)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [Show HN: 100 LOC Ruby forward proxy using only standard libraries](https://github.com/jamesmoriarty/forward-proxy)
 - [The Amiga 1000 Parceiro](https://www.amigalove.com/viewtopic.php?t=1689)
-- [Tracking down a segfault that suddenly started happening](https://www.downtowndougbrown.com/2021/01/tracking-down-a-segfault-that-suddenly-started-happening/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
