@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Storming Reddit's Moat](https://floodstate.substack.com/p/storming-reddits-moat)
+- [Gaming the system: How GameStop stock surged 1,500% in nine months](https://arstechnica.com/gaming/2021/01/gaming-the-system-how-gamestop-stock-surged-1500-in-nine-months/)
+- [Show HN: RSS Feeds with News from AWS](https://www.cloudnews.dev/feeds)
+- [China wants to build an open source ecosystem to rival GitHub](https://restofworld.org/2021/china-gitee-to-rival-github/)
 - [GitHub has received a DMCA from MPA for source code of torrent tracker nyaa.si](https://github.com/github/dmca/blob/master/2021/01/2021-01-14-mpa.md)
-- [The State of State Machines](https://googleprojectzero.blogspot.com/2021/01/the-state-of-state-machines.html)
-- [Lispsyntax.jl: A Clojure-like Lisp syntax for julia](https://github.com/swadey/LispSyntax.jl)
-- [KFC Mascot Col. Sanders Talks Malbolge Programming on General Hospital](https://esoteric.codes/blog/kfc-col-sanders-talks-malbolge-general-hospital)
-- [Capitol Attack Was Months in the Making on Facebook](https://www.techtransparencyproject.org/articles/capitol-attack-was-months-making-facebook)
 <!-- BLOG-POST-LIST:END -->
 
 ---
