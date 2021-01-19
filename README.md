@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is this plane landing or departing?](https://aviation.stackexchange.com/questions/34586/is-this-plane-landing-or-departing)
+- [Vineyard: An open-source in-memory data manager](https://github.com/alibaba/libvineyard)
+- [Dashworks (YC W20) Is Hiring Our Founding Front End Engineer](https://www.notion.so/dashworks/Join-Us-03d259fee23e469891b699edc2ab647c)
+- [Computer History Wiki](https://gunkies.org/wiki/Main_Page)
+- [Is this plane landing or departing? (2017)](https://aviation.stackexchange.com/questions/34586/is-this-plane-landing-or-departing)
 - [Turkey imposes advertising bans on Twitter, Periscope and Pinterest](https://www.reuters.com/article/turkey-twitter-int-idUSKBN29O0CM)
-- [How to leave Google and why](https://jach.me/how-to-leave-google)
-- [Digital VT100 (1978) – Beautiful Vintage Terminal](https://www.oldcomputr.com/digital-vt100-1978/#more-703)
-- [Is Signal as easy to use as WhatsApp? (a ~40 hour analysis)](https://builtformars.com/creating-an-account-with-signal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
