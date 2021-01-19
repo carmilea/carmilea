@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon: Not OK – why we had to change Elastic licensing](https://www.elastic.co/blog/why-license-change-AWS)
-- [Intel Problems](https://stratechery.com/2021/intel-problems/)
-- [Raspberry Pi Lego Sorter](https://www.raspberrypi.org/blog/raspberry-pi-lego-sorter/)
-- [What Parler Saw During the Attack on the Capitol](https://projects.propublica.org/parler-capitol-videos/)
-- [novelWriter 1.0](https://github.com/vkbo/novelWriter/releases/tag/v1.0)
+- [Unfurl Inc. (YC W21) Is Hiring](https://www.workatastartup.com/jobs/41607)
+- [Launch HN: Seed (YC W21) – A Fully-Managed CI/CD Pipeline for Serverless](https://news.ycombinator.com/item?id=25835280)
+- [Radio Users Reminded Not to Use Radios in Crimes](http://www.arrl.org/news/fcc-issues-enforcement-advisory-radio-users-reminded-not-to-use-radios-in-crimes)
+- [Elasticsearch does not belong to Elastic](https://drewdevault.com/2021/01/19/Elasticsearch-does-not-belong-to-Elastic.html)
+- [Revelio: A MimbleWimble Proof of Reserves Protocol](https://ieeexplore.ieee.org/abstract/document/8787552)
 <!-- BLOG-POST-LIST:END -->
 
 ---
