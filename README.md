@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is this plane landing or departing?](https://aviation.stackexchange.com/questions/34586/is-this-plane-landing-or-departing)
+- [Turkey imposes advertising bans on Twitter, Periscope and Pinterest](https://www.reuters.com/article/turkey-twitter-int-idUSKBN29O0CM)
+- [How to leave Google and why](https://jach.me/how-to-leave-google)
 - [Digital VT100 (1978) – Beautiful Vintage Terminal](https://www.oldcomputr.com/digital-vt100-1978/#more-703)
-- [Is Bitcoin a Scam?](https://www.theguardian.com/news/audio/2021/jan/19/is-bitcoin-a-scam)
-- [Kenneth Kuttler's Free Math Books](https://klkuttler.com/)
-- [United States military and prostitution in South Korea](https://en.wikipedia.org/wiki/United_States_military_and_prostitution_in_South_Korea)
-- [User power, not power users: htop and its design philosophy](https://hisham.hm/2020/12/18/user-power-not-power-users-htop-and-its-design-philosophy/)
+- [Is Signal as easy to use as WhatsApp? (a ~40 hour analysis)](https://builtformars.com/creating-an-account-with-signal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
