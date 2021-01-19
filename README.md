@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ransomware: Anti-virus unable to detect it](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186656#abc)
+- [Nature’s Electromagnetic Symphony – Whistlers](https://aklsh.now.sh/blog/whistlers/)
 - [OpenWRT forum user data stolen in weekend data breach](https://www.bleepingcomputer.com/news/security/openwrt-forum-user-data-stolen-in-weekend-data-breach/)
 - [Paint.wtf](https://paint.wtf/)
 - [Nearly half of adult Canadians struggle with literacy](https://www.cbc.ca/radio/costofliving/let-s-get-digital-from-bitcoin-to-stocktok-plus-what-low-literacy-means-for-canada-s-economy-1.5873703/nearly-half-of-adult-canadians-struggle-with-literacy-and-that-s-bad-for-the-economy-1.5873757)
-- [Crossword.el – download and play crossword puzzles in Emacs](https://github.com/Boruch-Baum/emacs-crossword)
-- [Show HN: A high-performance TensorFlow library for quantitative finance](https://github.com/google/tf-quant-finance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
