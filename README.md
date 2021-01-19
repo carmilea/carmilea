@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unfurl Inc. (YC W21) Is Hiring](https://www.workatastartup.com/jobs/41607)
-- [Launch HN: Seed (YC W21) – A Fully-Managed CI/CD Pipeline for Serverless](https://news.ycombinator.com/item?id=25835280)
-- [Radio Users Reminded Not to Use Radios in Crimes](http://www.arrl.org/news/fcc-issues-enforcement-advisory-radio-users-reminded-not-to-use-radios-in-crimes)
-- [Elasticsearch does not belong to Elastic](https://drewdevault.com/2021/01/19/Elasticsearch-does-not-belong-to-Elastic.html)
-- [Revelio: A MimbleWimble Proof of Reserves Protocol](https://ieeexplore.ieee.org/abstract/document/8787552)
+- [GitHub has received a DMCA from MPA for source code of torrent tracker nyaa.si](https://github.com/github/dmca/blob/master/2021/01/2021-01-14-mpa.md)
+- [The State of State Machines](https://googleprojectzero.blogspot.com/2021/01/the-state-of-state-machines.html)
+- [Lispsyntax.jl: A Clojure-like Lisp syntax for julia](https://github.com/swadey/LispSyntax.jl)
+- [KFC Mascot Col. Sanders Talks Malbolge Programming on General Hospital](https://esoteric.codes/blog/kfc-col-sanders-talks-malbolge-general-hospital)
+- [Capitol Attack Was Months in the Making on Facebook](https://www.techtransparencyproject.org/articles/capitol-attack-was-months-making-facebook)
 <!-- BLOG-POST-LIST:END -->
 
 ---
