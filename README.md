@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenWRT forum user data stolen in weekend data breach](https://www.bleepingcomputer.com/news/security/openwrt-forum-user-data-stolen-in-weekend-data-breach/)
+- [Paint.wtf](https://paint.wtf/)
+- [Nearly half of adult Canadians struggle with literacy](https://www.cbc.ca/radio/costofliving/let-s-get-digital-from-bitcoin-to-stocktok-plus-what-low-literacy-means-for-canada-s-economy-1.5873703/nearly-half-of-adult-canadians-struggle-with-literacy-and-that-s-bad-for-the-economy-1.5873757)
 - [Crossword.el – download and play crossword puzzles in Emacs](https://github.com/Boruch-Baum/emacs-crossword)
-- [Parler comes back online hosted by Russia](https://www.reuters.com/article/BigStory12/idUSKBN29N23N)
 - [Show HN: A high-performance TensorFlow library for quantitative finance](https://github.com/google/tf-quant-finance)
-- [What You Should Know Before Leaking a Zoom Meeting](https://theintercept.com/2021/01/18/leak-zoom-meeting/)
-- [Full success of first-ever cubesat mission equipped with Hall-effect propulsion](https://exotrail.com/news/2021-01-12/100-exotrail-paves-the-way-for-new-space-mobility-with-first-of-its-kind-successful-in-orbit-demonstration-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
