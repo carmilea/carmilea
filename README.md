@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything you need to know to design your own CNC router](https://mattferraro.dev/posts/cnc-router)
-- [Amazon permanently shuts down Prime Pantry](https://www.subscriptioninsider.com/topics/business-operations/amazon-permanently-shuts-down-prime-pantry)
-- [Colorize](https://alexbeals.com/projects/colorize/)
-- [Software engineering is a learning process, working code is a side effect](https://www.lambdabytes.io/posts/selearning/)
-- [The Problem with Writing-Style Advice](https://metaphorhacker.net/2021/01/the-nonsense-of-style-academic-writing-should-be-scrupulous-not-stylish/)
+- [Crossword.el – download and play crossword puzzles in Emacs](https://github.com/Boruch-Baum/emacs-crossword)
+- [Order on Protecting Americans from Overcriminalization Through Regulatory Reform](https://www.whitehouse.gov/presidential-actions/executive-order-protecting-americans-overcriminalization-regulatory-reform/)
+- [Show HN: A high-performance TensorFlow library for quantitative finance](https://github.com/google/tf-quant-finance)
+- [What You Should Know Before Leaking a Zoom Meeting](https://theintercept.com/2021/01/18/leak-zoom-meeting/)
+- [Full success of first-ever cubesat mission equipped with Hall-effect propulsion](https://exotrail.com/news/2021-01-12/100-exotrail-paves-the-way-for-new-space-mobility-with-first-of-its-kind-successful-in-orbit-demonstration-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
