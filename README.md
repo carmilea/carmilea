@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [novelWriter 1.0](https://github.com/vkbo/novelWriter/releases/tag/v1.0)
 - [Vineyard: An open-source in-memory data manager](https://github.com/alibaba/libvineyard)
 - [Dashworks (YC W20) Is Hiring Our Founding Front End Engineer](https://www.notion.so/dashworks/Join-Us-03d259fee23e469891b699edc2ab647c)
 - [Computer History Wiki](https://gunkies.org/wiki/Main_Page)
 - [Is this plane landing or departing? (2017)](https://aviation.stackexchange.com/questions/34586/is-this-plane-landing-or-departing)
-- [Turkey imposes advertising bans on Twitter, Periscope and Pinterest](https://www.reuters.com/article/turkey-twitter-int-idUSKBN29O0CM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
