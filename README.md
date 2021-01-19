@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ransomware: Anti-virus unable to detect it](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186656#abc)
+- [Electric car batteries with five-minute charging times produced](https://www.theguardian.com/environment/2021/jan/19/electric-car-batteries-race-ahead-with-five-minute-charging-times)
+- [Mothers of children with autism have ‘significantly different’ metabolite levels](https://www.studyfinds.org/mothers-of-children-with-autism-have-significantly-different-metabolite-levels/)
 - [Nature’s Electromagnetic Symphony – Whistlers](https://aklsh.now.sh/blog/whistlers/)
-- [OpenWRT forum user data stolen in weekend data breach](https://www.bleepingcomputer.com/news/security/openwrt-forum-user-data-stolen-in-weekend-data-breach/)
 - [Paint.wtf](https://paint.wtf/)
 - [Nearly half of adult Canadians struggle with literacy](https://www.cbc.ca/radio/costofliving/let-s-get-digital-from-bitcoin-to-stocktok-plus-what-low-literacy-means-for-canada-s-economy-1.5873703/nearly-half-of-adult-canadians-struggle-with-literacy-and-that-s-bad-for-the-economy-1.5873757)
 <!-- BLOG-POST-LIST:END -->
