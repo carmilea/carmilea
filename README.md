@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Electric car batteries with five-minute charging times produced](https://www.theguardian.com/environment/2021/jan/19/electric-car-batteries-race-ahead-with-five-minute-charging-times)
-- [Mothers of children with autism have ‘significantly different’ metabolite levels](https://www.studyfinds.org/mothers-of-children-with-autism-have-significantly-different-metabolite-levels/)
-- [Nature’s Electromagnetic Symphony – Whistlers](https://aklsh.now.sh/blog/whistlers/)
-- [Paint.wtf](https://paint.wtf/)
-- [Nearly half of adult Canadians struggle with literacy](https://www.cbc.ca/radio/costofliving/let-s-get-digital-from-bitcoin-to-stocktok-plus-what-low-literacy-means-for-canada-s-economy-1.5873703/nearly-half-of-adult-canadians-struggle-with-literacy-and-that-s-bad-for-the-economy-1.5873757)
+- [Digital VT100 (1978) – Beautiful Vintage Terminal](https://www.oldcomputr.com/digital-vt100-1978/#more-703)
+- [Is Bitcoin a Scam?](https://www.theguardian.com/news/audio/2021/jan/19/is-bitcoin-a-scam)
+- [Kenneth Kuttler's Free Math Books](https://klkuttler.com/)
+- [United States military and prostitution in South Korea](https://en.wikipedia.org/wiki/United_States_military_and_prostitution_in_South_Korea)
+- [User power, not power users: htop and its design philosophy](https://hisham.hm/2020/12/18/user-power-not-power-users-htop-and-its-design-philosophy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
