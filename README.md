@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Storming Reddit's Moat](https://floodstate.substack.com/p/storming-reddits-moat)
-- [Gaming the system: How GameStop stock surged 1,500% in nine months](https://arstechnica.com/gaming/2021/01/gaming-the-system-how-gamestop-stock-surged-1500-in-nine-months/)
-- [Show HN: RSS Feeds with News from AWS](https://www.cloudnews.dev/feeds)
-- [China wants to build an open source ecosystem to rival GitHub](https://restofworld.org/2021/china-gitee-to-rival-github/)
-- [GitHub has received a DMCA from MPA for source code of torrent tracker nyaa.si](https://github.com/github/dmca/blob/master/2021/01/2021-01-14-mpa.md)
+- [Nabis (YC W19) hiring software engineers (PST ± 3h) to ship $1B of cannabis](https://angel.co/company/nabis/jobs/650850-senior-software-engineer)
+- [Three Mathematicians We Lost in 2020](https://www.newyorker.com/culture/annals-of-inquiry/three-mathematicians-we-lost-in-2020)
+- [Exploring the Supply Chain of the Pfizer/BioNTech and Moderna Covid-19 Vaccines](https://blog.jonasneubert.com/2021/01/10/exploring-the-supply-chain-of-the-pfizer-biontech-and-moderna-covid-19-vaccines/)
+- [Evolving a Curated Retro Game Collection](https://www.racketboy.com/journal/evolving-a-curated-retro-game-collection-fine-tuning-av-setups)
+- [Smart Drone Mailbox Secures the Future of “Last Inch” Deliveries](https://now.northropgrumman.com/smart-drone-mailbox-secures-the-future-of-last-inch-deliveries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
