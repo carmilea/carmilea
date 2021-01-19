@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Crossword.el – download and play crossword puzzles in Emacs](https://github.com/Boruch-Baum/emacs-crossword)
-- [Order on Protecting Americans from Overcriminalization Through Regulatory Reform](https://www.whitehouse.gov/presidential-actions/executive-order-protecting-americans-overcriminalization-regulatory-reform/)
+- [Parler comes back online hosted by Russia](https://www.reuters.com/article/BigStory12/idUSKBN29N23N)
 - [Show HN: A high-performance TensorFlow library for quantitative finance](https://github.com/google/tf-quant-finance)
 - [What You Should Know Before Leaking a Zoom Meeting](https://theintercept.com/2021/01/18/leak-zoom-meeting/)
 - [Full success of first-ever cubesat mission equipped with Hall-effect propulsion](https://exotrail.com/news/2021-01-12/100-exotrail-paves-the-way-for-new-space-mobility-with-first-of-its-kind-successful-in-orbit-demonstration-mission/)
