@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [India asks WhatsApp to withdraw new privacy policy over ‘grave concerns’](https://techcrunch.com/2021/01/19/india-asks-whatsapp-to-withdraw-new-privacy-policy-expresses-grave-concerns/)
+- [Show HN: I built an online interactive course that helps you learn vim faster](https://www.vim.so)
+- [Open source means surrendering your monopoly over commercial exploitation](https://drewdevault.com/2021/01/20/FOSS-is-to-surrender-your-monopoly.html)
+- [SpaceX Starlink Mission #17](https://www.youtube.com/watch?v=84Nct_Q9Lqw)
 - [Odeko (YC S19) Is Hiring](https://www.workatastartup.com/jobs/41609)
-- [Linux Running on Apple M1](https://twitter.com/cmwdotme/status/1351838924621099008)
-- [Show HN: Audio DSP language SOUL reaches v1.0 status](https://soul-lang.github.io/SOUL/docs/SOUL_V1_Release.html)
-- [Intel outsources Core i3 to TSMC's 5nm process](https://www.eenewseurope.com/news/intel-TSMC-5nm)
-- [SymQEMU: Compilation-based symbolic execution for binaries](http://www.s3.eurecom.fr/tools/symbolic_execution/symqemu.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
