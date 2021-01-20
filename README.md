@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [For Hannah Arendt, totalitarianism is rooted in loneliness](https://aeon.co/essays/for-hannah-arendt-totalitarianism-is-rooted-in-loneliness)
+- [Navalny team releases investigation into ′Putin′s Palace′](https://www.dw.com/en/navalny-team-releases-investigation-into-putins-palace/a-56278956)
+- [I no longer trust The Great Suspender](https://dafoster.net/articles/2021/01/20/i-no-longer-trust-the-great-suspender/)
+- [Bison rangers wanted to oversee U.K. herd – no bison experience necessary](https://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.5871385/bison-rangers-wanted-to-oversee-u-k-herd-no-bison-experience-necessary-1.5871386)
 - [India asks WhatsApp to withdraw new privacy policy over ‘grave concerns’](https://techcrunch.com/2021/01/19/india-asks-whatsapp-to-withdraw-new-privacy-policy-expresses-grave-concerns/)
-- [Show HN: I built an online interactive course that helps you learn vim faster](https://www.vim.so)
-- [Open source means surrendering your monopoly over commercial exploitation](https://drewdevault.com/2021/01/20/FOSS-is-to-surrender-your-monopoly.html)
-- [SpaceX Starlink Mission #17](https://www.youtube.com/watch?v=84Nct_Q9Lqw)
-- [Odeko (YC S19) Is Hiring](https://www.workatastartup.com/jobs/41609)
 <!-- BLOG-POST-LIST:END -->
 
 ---
