@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lawn Love (YC S14) Is Hiring a Head of SEO (Remote)](https://apply.workable.com/lawn-love/j/434A86963B/)
-- [USA.css – units set in inches, 1776 bytes](https://bennettfeely.com/usa-css/)
-- [Porting Firefox to Apple Silicon](https://hacks.mozilla.org/2021/01/porting-firefox-to-apple-silicon/)
-- [Flow-Based Programming](https://jpaulm.github.io/fbp/index.html)
-- [Why outsource your auth system?](https://fusionauth.io/blog/2021/01/20/why-outsource-auth/)
+- [Janet Yellen suggests 'curtailing' cryptocurrencies such as Bitcoin](https://markets.businessinsider.com/currencies/news/bitcoin-price-cryptocurrency-should-be-curtailed-terrorism-concerns-yellen-2021-1-1029985692)
+- [Distributed search engines using BitTorrent and SQLite](https://github.com/lmatteis/torrent-net)
+- [How to Use White-Labeling to Create Profitable Apps](https://www.inspiringapps.com/blog/mobile-industry/how-to-use-white-labeling-to-create-profitable-apps/)
+- [The harmful assumptions we make about tasks](https://blog.cyrusroshan.com/post/task-management-assumptions/)
+- [FedEx Shipping Damage Creates Fractured Artworks](https://kottke.org/21/01/fedex-shipping-damage-creates-fractured-artworks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
