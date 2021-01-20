@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Putin's Billion Dollar Palace](https://meduza.io/en/feature/2021/01/19/putin-s-palace)
+- [Show HN: Il2cpp-modder – Generate DLL injection projects for hacking Unity games](https://github.com/juanmjacobs/il2cpp-modder)
 - [Never Been Seen: Science Museum Group Collection](https://thesciencemuseum.github.io/never-been-seen/index.html)
-- [Apple knew a supplier was using child labor but took 3 years to fully cut ties](https://www.businessinsider.com/apple-knowingly-used-child-labor-supplier-3-years-cut-costs-2020-12)
 - [Nabis (YC W19) hiring software engineers (PST ± 3h) to ship $1B of cannabis](https://angel.co/company/nabis/jobs/650850-senior-software-engineer)
 - [Three Mathematicians We Lost in 2020](https://www.newyorker.com/culture/annals-of-inquiry/three-mathematicians-we-lost-in-2020)
+- [Exploring the Supply Chain of the Pfizer/BioNTech and Moderna Covid-19 Vaccines](https://blog.jonasneubert.com/2021/01/10/exploring-the-supply-chain-of-the-pfizer-biontech-and-moderna-covid-19-vaccines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
