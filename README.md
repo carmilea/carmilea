@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthony Levandowski received a full pardon from Trump](https://www.bbc.com/news/world-us-canada-55729221)
+- [Goodbye and good riddance to the 16:9 aspect ratio](https://www.theverge.com/2021/1/19/22238671/16-9-aspect-ratio-hp-elite-folio-dell-latitude-lenovo-thinkbook-plus-legion-7)
+- [SpaceX acquires former oil rigs to serve as floating Starship spaceports](https://www.nasaspaceflight.com/2021/01/spacex-rigs-starship-spaceports/)
+- [Can't uninstall Adobe apps without an account](https://feedback.photoshop.com/conversations/photoshop/cant-uninstall-adobe-apps-without-an-account/5f5f45ee4b561a3d4268bd5e)
 - [Kids Find a Security Flaw in Linux Mint by Mashing Keys](https://github.com/linuxmint/cinnamon-screensaver/issues/354)
-- [Tailscale on NixOS: A New Minecraft Server in Ten Minutes](https://tailscale.com/blog/nixos-minecraft/)
-- [Opvia (YC S20) Is Hiring Engineers in London](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
-- [Anthony Levandowski Pardoned by Trump](https://www.whitehouse.gov/briefings-statements/statement-press-secretary-regarding-executive-grants-clemency-012021/)
-- [Serverless SQLite](https://sql.lspgn.workers.dev/?hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
