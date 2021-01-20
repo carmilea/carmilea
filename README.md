@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [90% of Everything Is Crap](https://critter.blog/2021/01/20/90-of-everything-is-crap/)
+- [The Lakota: A Human Story](https://kirkcenter.org/reviews/the-lakota-as-a-human-story/)
 - [CareRev (YC S16) Is Hiring Product Managers – Remote USA](https://news.ycombinator.com/item?id=25851925)
 - [Vertical farms grow veggies on site at restaurants and grocery stores](https://newatlas.com/good-thinking/vertical-field-urban-farm-geoponics/)
 - [Jai Language Primer (2017)](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md)
