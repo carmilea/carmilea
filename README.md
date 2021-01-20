@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Librem 5 Update: Shipping Estimates and CPU Supply Chain](https://puri.sm/posts/librem-5-update-shipping-estimates-and-cpu-supply-chain/)
+- [Ultraleap – tactile sensations projected onto your hands](https://www.ultraleap.com/haptics/#how-it-works)
 - [The Lakota: A Human Story](https://kirkcenter.org/reviews/the-lakota-as-a-human-story/)
-- [CareRev (YC S16) Is Hiring Product Managers – Remote USA](https://news.ycombinator.com/item?id=25851925)
-- [Vertical farms grow veggies on site at restaurants and grocery stores](https://newatlas.com/good-thinking/vertical-field-urban-farm-geoponics/)
-- [Jai Language Primer (2017)](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md)
-- [Vitamin D uncorrelated with Covid severity in those of European descent](https://nutrition.bmj.com/content/early/2021/01/07/bmjnph-2020-000151)
+- [Name Etymologies](http://branemrys.blogspot.com/2021/01/name-etymologies.html)
+- [The Left-NIMBY Canon](https://noahpinion.substack.com/p/the-left-nimby-canon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
