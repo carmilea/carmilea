@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [90% of Everything Is Crap](https://critter.blog/2021/01/20/90-of-everything-is-crap/)
+- [CareRev (YC S16) Is Hiring Product Managers – Remote USA](https://news.ycombinator.com/item?id=25851925)
 - [Vertical farms grow veggies on site at restaurants and grocery stores](https://newatlas.com/good-thinking/vertical-field-urban-farm-geoponics/)
 - [Jai Language Primer (2017)](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md)
 - [Vitamin D uncorrelated with Covid severity in those of European descent](https://nutrition.bmj.com/content/early/2021/01/07/bmjnph-2020-000151)
-- [Distributed search engines using BitTorrent and SQLite](https://github.com/lmatteis/torrent-net)
-- [The harmful assumptions we make about tasks](https://blog.cyrusroshan.com/post/task-management-assumptions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
