@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthony Levandowski received a full pardon from Trump](https://www.bbc.com/news/world-us-canada-55729221)
-- [Goodbye and good riddance to the 16:9 aspect ratio](https://www.theverge.com/2021/1/19/22238671/16-9-aspect-ratio-hp-elite-folio-dell-latitude-lenovo-thinkbook-plus-legion-7)
-- [SpaceX acquires former oil rigs to serve as floating Starship spaceports](https://www.nasaspaceflight.com/2021/01/spacex-rigs-starship-spaceports/)
-- [Can't uninstall Adobe apps without an account](https://feedback.photoshop.com/conversations/photoshop/cant-uninstall-adobe-apps-without-an-account/5f5f45ee4b561a3d4268bd5e)
-- [Kids Find a Security Flaw in Linux Mint by Mashing Keys](https://github.com/linuxmint/cinnamon-screensaver/issues/354)
+- [Odeko (YC S19) Is Hiring](https://www.workatastartup.com/jobs/41609)
+- [Linux Running on Apple M1](https://twitter.com/cmwdotme/status/1351838924621099008)
+- [Show HN: Audio DSP language SOUL reaches v1.0 status](https://soul-lang.github.io/SOUL/docs/SOUL_V1_Release.html)
+- [Intel outsources Core i3 to TSMC's 5nm process](https://www.eenewseurope.com/news/intel-TSMC-5nm)
+- [SymQEMU: Compilation-based symbolic execution for binaries](http://www.s3.eurecom.fr/tools/symbolic_execution/symqemu.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
