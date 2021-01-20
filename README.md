@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [For Hannah Arendt, totalitarianism is rooted in loneliness](https://aeon.co/essays/for-hannah-arendt-totalitarianism-is-rooted-in-loneliness)
-- [Navalny team releases investigation into ′Putin′s Palace′](https://www.dw.com/en/navalny-team-releases-investigation-into-putins-palace/a-56278956)
-- [I no longer trust The Great Suspender](https://dafoster.net/articles/2021/01/20/i-no-longer-trust-the-great-suspender/)
-- [Bison rangers wanted to oversee U.K. herd – no bison experience necessary](https://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.5871385/bison-rangers-wanted-to-oversee-u-k-herd-no-bison-experience-necessary-1.5871386)
-- [India asks WhatsApp to withdraw new privacy policy over ‘grave concerns’](https://techcrunch.com/2021/01/19/india-asks-whatsapp-to-withdraw-new-privacy-policy-expresses-grave-concerns/)
+- [Lawn Love (YC S14) Is Hiring a Head of SEO (Remote)](https://apply.workable.com/lawn-love/j/434A86963B/)
+- [USA.css – units set in inches, 1776 bytes](https://bennettfeely.com/usa-css/)
+- [Porting Firefox to Apple Silicon](https://hacks.mozilla.org/2021/01/porting-firefox-to-apple-silicon/)
+- [Flow-Based Programming](https://jpaulm.github.io/fbp/index.html)
+- [Why outsource your auth system?](https://fusionauth.io/blog/2021/01/20/why-outsource-auth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
