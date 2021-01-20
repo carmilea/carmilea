@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kids Find a Security Flaw in Linux Mint by Mashing Keys](https://github.com/linuxmint/cinnamon-screensaver/issues/354)
+- [Tailscale on NixOS: A New Minecraft Server in Ten Minutes](https://tailscale.com/blog/nixos-minecraft/)
 - [Opvia (YC S20) Is Hiring Engineers in London](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
 - [Anthony Levandowski Pardoned by Trump](https://www.whitehouse.gov/briefings-statements/statement-press-secretary-regarding-executive-grants-clemency-012021/)
 - [Serverless SQLite](https://sql.lspgn.workers.dev/?hn)
-- [Jack Ma makes first live appearance in three months in online meet](https://www.reuters.com/article/us-china-alibaba-jack-ma/alibabas-jack-ma-makes-first-public-appearance-since-oct-in-online-meeting-state-media-idUSKBN29P0CA)
-- [Google is investigating the actions of another top AI ethicist](https://www.axios.com/scoop-google-is-investigating-the-actions-of-another-top-ai-ethicist-50030739-ea3d-4ea2-b452-c228b4fc9773.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
