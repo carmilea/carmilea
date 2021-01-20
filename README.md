@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Janet Yellen suggests 'curtailing' cryptocurrencies such as Bitcoin](https://markets.businessinsider.com/currencies/news/bitcoin-price-cryptocurrency-should-be-curtailed-terrorism-concerns-yellen-2021-1-1029985692)
+- [Vertical farms grow veggies on site at restaurants and grocery stores](https://newatlas.com/good-thinking/vertical-field-urban-farm-geoponics/)
+- [Jai Language Primer (2017)](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md)
+- [Vitamin D uncorrelated with Covid severity in those of European descent](https://nutrition.bmj.com/content/early/2021/01/07/bmjnph-2020-000151)
 - [Distributed search engines using BitTorrent and SQLite](https://github.com/lmatteis/torrent-net)
-- [How to Use White-Labeling to Create Profitable Apps](https://www.inspiringapps.com/blog/mobile-industry/how-to-use-white-labeling-to-create-profitable-apps/)
 - [The harmful assumptions we make about tasks](https://blog.cyrusroshan.com/post/task-management-assumptions/)
-- [FedEx Shipping Damage Creates Fractured Artworks](https://kottke.org/21/01/fedex-shipping-damage-creates-fractured-artworks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
