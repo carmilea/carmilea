@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SlateStarCodex Is Back](https://astralcodexten.substack.com/)
 - [AWS announces forks of Elasticsearch and Kibana](https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch)
-- [When You Know](https://www.tbray.org/ongoing/When/202x/2021/01/20/When-You-Know)
+- [Still alive](https://astralcodexten.substack.com/p/still-alive)
 - [Modal (YC W16) Is Hiring a Customer Success Leader](https://jobs.lever.co/modal/87f46918-c1d6-4a05-9aac-22d2fb99ab15)
-- [DeLorean Considering all-electric reboot](https://www.newdelorean.com/nhtsa-releases-final-low-volume-manufacturing-rules/)
-- [Judge refuses to reinstate Parler after Amazon shut it down](https://www.npr.org/2021/01/21/956486352/judge-refuses-to-reinstate-parler-after-amazon-shut-it-down)
+- [DeLorean considering all-electric reboot](https://www.newdelorean.com/nhtsa-releases-final-low-volume-manufacturing-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
