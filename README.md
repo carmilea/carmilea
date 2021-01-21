@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gary Numan: 'One of my songs got over a million streams – I got £37'](https://news.sky.com/story/gary-numan-one-of-my-songs-got-over-a-million-streams-i-got-16337-12192462)
 - [Privacy Comparison of Web Browsers](https://spyware.neocities.org/articles/browsers.html)
 - [Memfault (YC W19) Is Hiring Engineers in Boston and Berlin](https://angel.co/company/memfault-inc/jobs)
 - [Raspberry Pi Pico and RP2040 Microcontroller](https://www.raspberrypi.org/products/raspberry-pi-pico/)
 - [Management by metrics leads us astray](https://jakobgreenfeld.com/metrics)
-- [The value of science (1955) [pdf]](https://calteches.library.caltech.edu/1575/1/Science.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
