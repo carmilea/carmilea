@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Do We Assume Extraterrestrials Might Want To](https://www.scientificamerican.com/article/why-do-we-assume-extraterrestrials-might-want-to-visit-us/)
+- [Three shockingly obvious ways to make flying less miserable](https://www.fastcompany.com/90594825/three-shockingly-obvious-ways-to-make-flying-less-miserable)
 - [Why cats are crazy for catnip](https://www.sciencemag.org/news/2021/01/why-cats-are-crazy-catnip)
-- [Brave browser adds peer-to-peer IPFS protocol to combat censorship](https://techxplore.com/news/2021-01-brave-browser-peer-to-peer-ipfs-protocol.html)
 - [Legalist (YC S16) Is Hiring a VP of Sales](https://angel.co/company/legalist/jobs/436631-vp-of-sales)
-- [Yes, Bitcoin Is a Ponzi – Learn How the Investment Fraud Works](https://openblockchains.github.io/bitcoin-ponzi)
-- [Golang's network stack attempts to parse HTTP headers as UTF-8](https://twitter.com/albinowax/status/1351936571080122372)
+- [Grocers Have a Strategy to Get Workers Vaccinated Against Covid-19: Pay Them](https://www.npr.org/2021/01/21/958849642/grocers-have-a-strategy-to-get-their-workers-vaccinated-against-covid-19-pay-the)
 <!-- BLOG-POST-LIST:END -->
 
 ---
