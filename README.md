@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tcl/Tk 8.6.11](https://wiki.tcl-lang.org/page/Changes+in+Tcl%2FTk+8%2E6%2E11)
-- [Memfault (YC W19) Is Hiring Engineers in Boston and Berlin](https://angel.co/company/memfault-inc/jobs)
-- [Raspberry Pi Pico and RP2040 Microcontroller](https://www.raspberrypi.org/products/raspberry-pi-pico/)
-- [Management by metrics leads us astray](https://jakobgreenfeld.com/metrics)
-- [The value of science (1955) [pdf]](https://calteches.library.caltech.edu/1575/1/Science.pdf)
+- [Why cats are crazy for catnip](https://www.sciencemag.org/news/2021/01/why-cats-are-crazy-catnip)
+- [Brave browser adds peer-to-peer IPFS protocol to combat censorship](https://techxplore.com/news/2021-01-brave-browser-peer-to-peer-ipfs-protocol.html)
+- [Legalist (YC S16) Is Hiring a VP of Sales](https://angel.co/company/legalist/jobs/436631-vp-of-sales)
+- [Yes, Bitcoin Is a Ponzi – Learn How the Investment Fraud Works](https://openblockchains.github.io/bitcoin-ponzi)
+- [Golang's network stack attempts to parse HTTP headers as UTF-8](https://twitter.com/albinowax/status/1351936571080122372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
