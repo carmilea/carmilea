@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The value of science – Richard Feynman [pdf]](https://calteches.library.caltech.edu/1575/1/Science.pdf)
 - [Life of a Netflix Partner Engineer – The case of the extra 40 ms](https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513)
-- [Installing Debian on Modern Hardware](https://lwn.net/SubscriberLink/843172/21340b641eaa0f62/)
 - [Inside California’s colossal container-ship traffic jam](https://www.freightwaves.com/news/inside-californias-colossal-container-ship-traffic-jam/)
 - [Select a muscle and it provides the exercises to workout the selected muscle](https://musclewiki.com/)
 - [Sirum (YC W15) is hiring to help make medications affordable for all](https://news.ycombinator.com/item?id=25854032)
