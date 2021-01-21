@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paradox-Free Time Travel Is Theoretically Possible](https://www.npr.org/2020/09/27/917556254/paradox-free-time-travel-is-theoretically-possible-researchers-say)
+- [Installing Debian on Modern Hardware](https://lwn.net/SubscriberLink/843172/21340b641eaa0f62/)
 - [Inside California’s colossal container-ship traffic jam](https://www.freightwaves.com/news/inside-californias-colossal-container-ship-traffic-jam/)
 - [Select a muscle and it provides the exercises to workout the selected muscle](https://musclewiki.com/)
-- [2020 Saw Unprecedented Murder Spike in Major U.S. Cities](https://www.statista.com/chart/23905/change-in-homicides-in-us-cities/)
 - [Sirum (YC W15) is hiring to help make medications affordable for all](https://news.ycombinator.com/item?id=25854032)
-- [Google Blocking Web Privacy Proposals at W3C (2019)](https://www.cpomagazine.com/data-privacy/google-blocking-web-privacy-proposals-at-w3c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
