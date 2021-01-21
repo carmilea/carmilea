@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mux (YC W16) is hiring a support engineer in ~UTC+0](https://mux.com/jobs?hnj=ldn)
-- [Advertisements have emerged on Substack's 'ad-free' newsletter platform](https://www.businessinsider.com/advertisements-emerge-on-substacks-ad-free-newsletter-ecosystem-2021-1)
-- [Launch HN: Finmark (YC S20) – Financial planning software for startups](https://news.ycombinator.com/item?id=25860819)
-- [Amanda Gorman's “The Hill We Climb” (Full Text)](https://www.cnbc.com/2021/01/20/amanda-gormans-inaugural-poem-the-hill-we-climb-full-text.html)
-- [Prostate cancer can be precisely diagnosed using a urine test with AI](https://phys.org/news/2021-01-cancer-precisely-urine-artificial-intelligence.html)
+- [Rust for Windows](https://github.com/microsoft/windows-rs)
+- [Retiring Tucows Downloads](https://tucows.com/retired/)
+- [Unlocking LUKS2 Volumes with TPM2, FIDO2, PKCS#11 Security HW on Systemd 248](http://0pointer.net/blog/unlocking-luks2-volumes-with-tpm2-fido2-pkcs11-security-hardware-on-systemd-248.html)
+- [Show HN: I did a little thing in V](https://github.com/profullstack/bitchin.net)
+- [Twitter refused to remove child porn – it didn’t ‘violate policies’: lawsuit](https://nypost.com/2021/01/21/twitter-sued-for-allegedly-refusing-to-remove-child-porn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
