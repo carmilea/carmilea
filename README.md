@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The value of science – Richard Feynman [pdf]](https://calteches.library.caltech.edu/1575/1/Science.pdf)
-- [Life of a Netflix Partner Engineer – The case of the extra 40 ms](https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513)
-- [Inside California’s colossal container-ship traffic jam](https://www.freightwaves.com/news/inside-californias-colossal-container-ship-traffic-jam/)
-- [Select a muscle and it provides the exercises to workout the selected muscle](https://musclewiki.com/)
-- [Sirum (YC W15) is hiring to help make medications affordable for all](https://news.ycombinator.com/item?id=25854032)
+- [Privacy Comparison of Web Browsers](https://spyware.neocities.org/articles/browsers.html)
+- [Memfault (YC W19) Is Hiring Engineers in Boston and Berlin](https://angel.co/company/memfault-inc/jobs)
+- [Raspberry Pi Pico and RP2040 Microcontroller](https://www.raspberrypi.org/products/raspberry-pi-pico/)
+- [Management by metrics leads us astray](https://jakobgreenfeld.com/metrics)
+- [The value of science (1955) [pdf]](https://calteches.library.caltech.edu/1575/1/Science.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
