@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Do We Assume Extraterrestrials Might Want To](https://www.scientificamerican.com/article/why-do-we-assume-extraterrestrials-might-want-to-visit-us/)
-- [Three shockingly obvious ways to make flying less miserable](https://www.fastcompany.com/90594825/three-shockingly-obvious-ways-to-make-flying-less-miserable)
-- [Why cats are crazy for catnip](https://www.sciencemag.org/news/2021/01/why-cats-are-crazy-catnip)
-- [Legalist (YC S16) Is Hiring a VP of Sales](https://angel.co/company/legalist/jobs/436631-vp-of-sales)
-- [Grocers Have a Strategy to Get Workers Vaccinated Against Covid-19: Pay Them](https://www.npr.org/2021/01/21/958849642/grocers-have-a-strategy-to-get-their-workers-vaccinated-against-covid-19-pay-the)
+- [VSCode, Dev Containers and Docker: moving software development forward](https://blog.feabhas.com/2021/01/vscode-dev-containers-and-docker-moving-software-development-forward/)
+- [Predicting Hard Drive Failure with Machine Learning](https://datto.engineering/post/predicting-hard-drive-failure-with-machine-learning)
+- [Why do we assume extraterrestrials might want to visit us?](https://www.scientificamerican.com/article/why-do-we-assume-extraterrestrials-might-want-to-visit-us/)
+- [How to Start a Biotech Company on a Budget](https://blog.ycombinator.com/how-to-start-a-biotech-company-on-a-budget/)
+- [Threema – Secure and Private Messenger](https://threema.ch/en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
