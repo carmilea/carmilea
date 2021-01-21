@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RAM is the new disk – and how to measure its performance (2015)](https://tanelpoder.com/2015/11/30/ram-is-the-new-disk-and-how-to-measure-its-performance-part-3-cpu-instructions-cycles/)
+- [Instacart to Cut 1,900 Jobs, Including Its Only Union Roles](https://www.bloomberg.com/news/articles/2021-01-21/instacart-to-cut-1-900-jobs-including-its-only-union-positions)
 - [Rust for Windows](https://github.com/microsoft/windows-rs)
 - [Retiring Tucows Downloads](https://tucows.com/retired/)
-- [Unlocking LUKS2 Volumes with TPM2, FIDO2, PKCS#11 Security HW on Systemd 248](http://0pointer.net/blog/unlocking-luks2-volumes-with-tpm2-fido2-pkcs11-security-hardware-on-systemd-248.html)
-- [Show HN: I did a little thing in V](https://github.com/profullstack/bitchin.net)
-- [Twitter refused to remove child porn – it didn’t ‘violate policies’: lawsuit](https://nypost.com/2021/01/21/twitter-sued-for-allegedly-refusing-to-remove-child-porn/)
+- [Show HN: Pluto in-browser VR spatial video chat](https://pluto.video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
