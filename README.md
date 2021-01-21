@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Paradox-Free Time Travel Is Theoretically Possible](https://www.npr.org/2020/09/27/917556254/paradox-free-time-travel-is-theoretically-possible-researchers-say)
+- [Life of a Netflix Partner Engineer – The case of the extra 40 ms](https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513)
 - [Installing Debian on Modern Hardware](https://lwn.net/SubscriberLink/843172/21340b641eaa0f62/)
 - [Inside California’s colossal container-ship traffic jam](https://www.freightwaves.com/news/inside-californias-colossal-container-ship-traffic-jam/)
 - [Select a muscle and it provides the exercises to workout the selected muscle](https://musclewiki.com/)
