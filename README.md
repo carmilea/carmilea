@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fastmail Is Experiencing an Outage](https://www.fastmailstatus.com/services/general/2021-01-21)
+- [What is good and bad about the F-35 cockpit](https://hushkit.net/2021/01/21/what-is-good-and-bad-about-the-f-35-cockpit-a-panthers-pilots-guide-to-modern-cockpits/)
+- [Encrypted Password Manager Bitwarden Releases “Emergency Access” Feature](https://bitwarden.com/help/article/releasenotes/#2021-01-19)
 - [RAM is the new disk – and how to measure its performance (2015)](https://tanelpoder.com/2015/11/30/ram-is-the-new-disk-and-how-to-measure-its-performance-part-3-cpu-instructions-cycles/)
 - [Instacart to Cut 1,900 Jobs, Including Its Only Union Roles](https://www.bloomberg.com/news/articles/2021-01-21/instacart-to-cut-1-900-jobs-including-its-only-union-positions)
-- [Rust for Windows](https://github.com/microsoft/windows-rs)
-- [Retiring Tucows Downloads](https://tucows.com/retired/)
-- [Show HN: Pluto in-browser VR spatial video chat](https://pluto.video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
