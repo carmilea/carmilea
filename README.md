@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modal (YC W16) Is Hiring a Customer Success Leader](https://jobs.lever.co/modal/87f46918-c1d6-4a05-9aac-22d2fb99ab15)
+- [I schedule my friendships like I schedule my meetings](https://critter.blog/2021/01/21/i-schedule-my-friendships-like-i-schedule-my-meetings/)
+- [DeLorean Considering all-electric reboot](https://www.newdelorean.com/nhtsa-releases-final-low-volume-manufacturing-rules/)
+- [Judge Refuses to Reinstate Parler After Amazon Shut It Down](https://www.npr.org/2021/01/21/956486352/judge-refuses-to-reinstate-parler-after-amazon-shut-it-down)
 - [Fastmail Is Experiencing an Outage](https://www.fastmailstatus.com/services/general/2021-01-21)
-- [What is good and bad about the F-35 cockpit](https://hushkit.net/2021/01/21/what-is-good-and-bad-about-the-f-35-cockpit-a-panthers-pilots-guide-to-modern-cockpits/)
-- [Encrypted Password Manager Bitwarden Releases “Emergency Access” Feature](https://bitwarden.com/help/article/releasenotes/#2021-01-19)
-- [RAM is the new disk – and how to measure its performance (2015)](https://tanelpoder.com/2015/11/30/ram-is-the-new-disk-and-how-to-measure-its-performance-part-3-cpu-instructions-cycles/)
-- [Instacart to Cut 1,900 Jobs, Including Its Only Union Roles](https://www.bloomberg.com/news/articles/2021-01-21/instacart-to-cut-1-900-jobs-including-its-only-union-positions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
