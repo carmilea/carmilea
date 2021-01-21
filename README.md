@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS announces forks of Elasticsearch and Kibana](https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch)
+- [When You Know](https://www.tbray.org/ongoing/When/202x/2021/01/20/When-You-Know)
 - [Modal (YC W16) Is Hiring a Customer Success Leader](https://jobs.lever.co/modal/87f46918-c1d6-4a05-9aac-22d2fb99ab15)
-- [I schedule my friendships like I schedule my meetings](https://critter.blog/2021/01/21/i-schedule-my-friendships-like-i-schedule-my-meetings/)
 - [DeLorean Considering all-electric reboot](https://www.newdelorean.com/nhtsa-releases-final-low-volume-manufacturing-rules/)
-- [Judge Refuses to Reinstate Parler After Amazon Shut It Down](https://www.npr.org/2021/01/21/956486352/judge-refuses-to-reinstate-parler-after-amazon-shut-it-down)
-- [Fastmail Is Experiencing an Outage](https://www.fastmailstatus.com/services/general/2021-01-21)
+- [Judge refuses to reinstate Parler after Amazon shut it down](https://www.npr.org/2021/01/21/956486352/judge-refuses-to-reinstate-parler-after-amazon-shut-it-down)
 <!-- BLOG-POST-LIST:END -->
 
 ---
