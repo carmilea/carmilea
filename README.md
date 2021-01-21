@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside California’s colossal container-ship traffic jam](https://www.freightwaves.com/news/inside-californias-colossal-container-ship-traffic-jam/)
+- [Select a muscle and it provides the exercises to workout the selected muscle](https://musclewiki.com/)
+- [2020 Saw Unprecedented Murder Spike in Major U.S. Cities](https://www.statista.com/chart/23905/change-in-homicides-in-us-cities/)
 - [Sirum (YC W15) is hiring to help make medications affordable for all](https://news.ycombinator.com/item?id=25854032)
-- [In a 23-1 vote, Google vetoes Web Privacy Proposals at the W3C (2019)](https://www.cpomagazine.com/data-privacy/google-blocking-web-privacy-proposals-at-w3c/)
-- [Librem 5 Update: Shipping Estimates and CPU Supply Chain](https://puri.sm/posts/librem-5-update-shipping-estimates-and-cpu-supply-chain/)
-- [Ultraleap – tactile sensations projected onto your hands](https://www.ultraleap.com/haptics/#how-it-works)
-- [The Lakota: A Human Story](https://kirkcenter.org/reviews/the-lakota-as-a-human-story/)
+- [Google Blocking Web Privacy Proposals at W3C (2019)](https://www.cpomagazine.com/data-privacy/google-blocking-web-privacy-proposals-at-w3c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
