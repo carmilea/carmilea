@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VSCode, Dev Containers and Docker: moving software development forward](https://blog.feabhas.com/2021/01/vscode-dev-containers-and-docker-moving-software-development-forward/)
-- [Predicting Hard Drive Failure with Machine Learning](https://datto.engineering/post/predicting-hard-drive-failure-with-machine-learning)
-- [Why do we assume extraterrestrials might want to visit us?](https://www.scientificamerican.com/article/why-do-we-assume-extraterrestrials-might-want-to-visit-us/)
-- [How to Start a Biotech Company on a Budget](https://blog.ycombinator.com/how-to-start-a-biotech-company-on-a-budget/)
-- [Threema – Secure and Private Messenger](https://threema.ch/en)
+- [Mux (YC W16) is hiring a support engineer in ~UTC+0](https://mux.com/jobs?hnj=ldn)
+- [Advertisements have emerged on Substack's 'ad-free' newsletter platform](https://www.businessinsider.com/advertisements-emerge-on-substacks-ad-free-newsletter-ecosystem-2021-1)
+- [Launch HN: Finmark (YC S20) – Financial planning software for startups](https://news.ycombinator.com/item?id=25860819)
+- [Amanda Gorman's “The Hill We Climb” (Full Text)](https://www.cnbc.com/2021/01/20/amanda-gormans-inaugural-poem-the-hill-we-climb-full-text.html)
+- [Prostate cancer can be precisely diagnosed using a urine test with AI](https://phys.org/news/2021-01-cancer-precisely-urine-artificial-intelligence.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
