@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Patent Shows Plans to Revive Deceased Loved Ones as Chatbots](https://www.independent.co.uk/life-style/gadgets-and-tech/microsoft-chatbot-patent-dead-b1789979.html)
-- [B2B SaaS marketplaces with opportunities for indie hackers](https://rocketgems.com/blog/saas-marketplaces/)
-- [Y Combinator is hiring a product engineer to help more YC companies hire](https://news.ycombinator.com/item?id=25870891)
-- [Show HN: 128-bit, roughly-ordered, URL-safe UUIDs](https://github.com/anthonynsimon/timeflake)
-- [Android Ported to RISC-V](https://www.theregister.com/2021/01/21/android_riscv_port/)
+- [Raspberry Pi Enters Microcontroller Game with $4 Pico](https://hackaday.com/2021/01/20/raspberry-pi-enters-microcontroller-game-with-4-pico/)
+- [Remembering Windows 3.1 themes and user empowerment](https://hisham.hm/2019/07/26/remembering-windows-31-themes-and-user-empowerment/)
+- [Palantir’s God’s-Eye View of Afghanistan](https://www.wired.com/story/palantirs-gods-eye-view-of-afghanistan/)
+- [A story about pivots](https://posthog.com/blog/story-about-pivots)
+- [Rqlite: The lightweight, distributed relational database built on SQLite](https://github.com/rqlite/rqlite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
