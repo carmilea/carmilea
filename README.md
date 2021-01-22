@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The spat between Google and Australia, as reported on HN](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Google%20Australia&sort=byDate&type=story)
+- [B2B SaaS marketplaces with opportunities for indie hackers](https://rocketgems.com/blog/saas-marketplaces/)
+- [Y Combinator is hiring a product engineer to help more YC companies hire](https://news.ycombinator.com/item?id=25870891)
 - [Show HN: 128-bit, roughly-ordered, URL-safe UUIDs](https://github.com/anthonynsimon/timeflake)
-- [The Secure Messaging App Conundrum: Signal vs. Telegram [pdf]](https://cqi.inf.usi.ch/publications/telegram_vs_signal.pdf)
 - [Android Ported to RISC-V](https://www.theregister.com/2021/01/21/android_riscv_port/)
 - [Show HN: Welder – Record high-quality remote interviews](https://www.getwelder.com/)
 <!-- BLOG-POST-LIST:END -->
