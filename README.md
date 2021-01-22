@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Analog Computer Inside Prime Minister](http://www.insidegmt.com/2021/01/the-analog-computer-inside-prime-minister/)
-- [Brad Cox, creator of Objective-C, has passed away](https://www.legacy.com/us/obituaries/scnow/name/brad-cox-obituary?pid=197454225)
-- [Facebook shuts down major left wing group in Britain](https://swp.org.uk/press-release-facebook-shuts-down-major-left-wing-group-in-britain/)
-- [Researchers develop new graphene nanochannel water filters](https://www.brown.edu/news/2021-01-21/vagme)
-- [Weak Men Are Superweapons (2014)](https://www.slatestarcodexabridged.com/Weak-Men-Are-Superweapons)
+- [One hull crack located in ISS, another one suspected](https://tass.com/science/1247847)
+- [Could Indoor Vertical Farms Feed Livestock?](https://www.smithsonianmag.com/innovation/could-indoor-vertical-farms-feed-livestock-180976809/)
+- [Brad Cox has died](https://www.legacy.com/us/obituaries/scnow/name/brad-cox-obituary?pid=197454225)
+- [Facebook shuts down the Socialist Workers Party in Britain](https://swp.org.uk/press-release-facebook-shuts-down-major-left-wing-group-in-britain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
