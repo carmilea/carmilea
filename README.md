@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Git News – Social News website for developers and GitHub fans](https://gitnews.tech)
+- [Tales of Favicons and Caches: Persistent Tracking in Modern Browsers [pdf]](https://www.cs.uic.edu/~polakis/papers/solomos-ndss21.pdf)
 - [Google's Project Loon is shutting down](https://blog.x.company/loons-final-flight-e9d699123a96?gi=b913b3d1667e)
-- [r/wallstreetbets set to private after increased media coverage](https://news.ycombinator.com/item?id=25868680)
-- [Monarch butterfly population moves closer to extinction](https://abcnews.go.com/Technology/wireStory/monarch-butterfly-population-moves-closer-extinction-75351089)
-- [Why isn't differential dataflow more popular?](https://scattered-thoughts.net/writing/why-isnt-differential-dataflow-more-popular/)
-- [Relationship Hero (YC S17) Is Hiring Coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
+- [Monarch butterfly population in California spirals to another record low](http://xerces.org/blog/monarch-population-in-california-spirals-to-another-record-low)
+- [Tini Veltman (1931–2021): From Assembly Language to a Nobel Prize](https://writings.stephenwolfram.com/2021/01/tini-veltman-1931-2021-from-assembly-language-to-a-nobel-prize/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
