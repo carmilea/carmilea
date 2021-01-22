@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jerry, Inc. (YC S17) Is Hiring for Engineering and Product (All Levels)](https://jerry.ai/careers)
-- [.NET GC Internals mini-series](https://tooslowexception.com/net-gc-internals-mini-series/)
-- [Pivotal discovery in quantum and classical information processing](https://www.anl.gov/article/pivotal-discovery-in-quantum-and-classical-information-processing)
-- [PostgreSQL on ARM-Based AWS EC2 Instances](https://www.percona.com/blog/2021/01/22/postgresql-on-arm-based-aws-ec2-instances-is-it-any-good/)
-- [Access Control for GitHub Pages](https://github.blog/changelog/2021-01-21-access-control-for-github-pages/)
+- [The Analog Computer Inside Prime Minister](http://www.insidegmt.com/2021/01/the-analog-computer-inside-prime-minister/)
+- [Brad Cox, creator of Objective-C, has passed away](https://www.legacy.com/us/obituaries/scnow/name/brad-cox-obituary?pid=197454225)
+- [Facebook shuts down major left wing group in Britain](https://swp.org.uk/press-release-facebook-shuts-down-major-left-wing-group-in-britain/)
+- [Researchers develop new graphene nanochannel water filters](https://www.brown.edu/news/2021-01-21/vagme)
+- [Weak Men Are Superweapons (2014)](https://www.slatestarcodexabridged.com/Weak-Men-Are-Superweapons)
 <!-- BLOG-POST-LIST:END -->
 
 ---
