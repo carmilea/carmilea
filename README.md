@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SlateStarCodex Is Back](https://astralcodexten.substack.com/)
+- [Toyota's game-changing solid-state battery en route for 2021 debut](https://asia.nikkei.com/Spotlight/Most-read-in-2020/Toyota-s-game-changing-solid-state-battery-en-route-for-2021-debut)
+- [Relationship Hero (YC S17) Is Hiring Coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
+- [Novichok Nerve Agent Poisoning](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32644-1/fulltext)
 - [AWS announces forks of Elasticsearch and Kibana](https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch)
 - [Still alive](https://astralcodexten.substack.com/p/still-alive)
-- [Modal (YC W16) Is Hiring a Customer Success Leader](https://jobs.lever.co/modal/87f46918-c1d6-4a05-9aac-22d2fb99ab15)
-- [DeLorean considering all-electric reboot](https://www.newdelorean.com/nhtsa-releases-final-low-volume-manufacturing-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
