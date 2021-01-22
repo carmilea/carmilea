@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Repl.it is hiring designers and engineers to build better programming environments](https://repl.it/careers)
-- [The strange economics of open-source software (2015)](https://www.philipotoole.com/the-strange-economics-of-open-source-software/)
-- [Audi announces end of combustion A4, A6 and A8 models](https://www.electrive.com/2021/01/22/audi-announces-end-of-combustion-a4-a6-a8-models/)
-- [Show HN: Iconduck – 100k open source icons, downloadable and searchable](https://iconduck.com/)
-- [Electric vehicles close to ‘tipping point’ of mass adoption](https://www.theguardian.com/environment/2021/jan/22/electric-vehicles-close-to-tipping-point-of-mass-adoption)
+- [Alphabet shutting Loon, which used balloon alternative to cell towers](https://www.reuters.com/article/us-alphabet-loon/alphabet-shutting-loon-which-used-balloon-alternative-to-cell-towers-idUSKBN29R02U)
+- [First-ever atomic resolution video of salt crystals forming in real time](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00161.html)
+- [Climate change: US emissions in 2020 in biggest fall since WWII](https://www.bbc.com/news/science-environment-55632050)
+- [How hard should I push myself?](https://superorganizers.every.to/p/how-hard-should-i-push-myself)
+- [Accidental Nuclear War: A Timeline of Close Calls](https://futureoflife.org/background/nuclear-close-calls-a-timeline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
