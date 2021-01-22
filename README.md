@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Git News – Social News website for developers and GitHub fans](https://gitnews.tech)
+- [Cancellation of the Keystone XL pipeline and Alberta's oil dependent economy](https://www.cbc.ca/news/canada/calgary/road-ahead-alberta-ucp-jason-kenney-how-is-it-going-1.5882168)
 - [Tales of Favicons and Caches: Persistent Tracking in Modern Browsers [pdf]](https://www.cs.uic.edu/~polakis/papers/solomos-ndss21.pdf)
-- [Google's Project Loon is shutting down](https://blog.x.company/loons-final-flight-e9d699123a96?gi=b913b3d1667e)
+- [Loon’s final flight](https://blog.x.company/loons-final-flight-e9d699123a96?gi=b913b3d1667e)
 - [Monarch butterfly population in California spirals to another record low](http://xerces.org/blog/monarch-population-in-california-spirals-to-another-record-low)
-- [Tini Veltman (1931–2021): From Assembly Language to a Nobel Prize](https://writings.stephenwolfram.com/2021/01/tini-veltman-1931-2021-from-assembly-language-to-a-nobel-prize/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
