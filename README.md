@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What companies are you excited about?](https://news.ycombinator.com/item?id=25869285)
 - [Show HN: Git News – Social News website for developers and GitHub fans](https://gitnews.tech)
-- [Cancellation of the Keystone XL pipeline and Alberta's oil dependent economy](https://www.cbc.ca/news/canada/calgary/road-ahead-alberta-ucp-jason-kenney-how-is-it-going-1.5882168)
 - [Tales of Favicons and Caches: Persistent Tracking in Modern Browsers [pdf]](https://www.cs.uic.edu/~polakis/papers/solomos-ndss21.pdf)
 - [Loon’s final flight](https://blog.x.company/loons-final-flight-e9d699123a96?gi=b913b3d1667e)
 - [Monarch butterfly population in California spirals to another record low](http://xerces.org/blog/monarch-population-in-california-spirals-to-another-record-low)
