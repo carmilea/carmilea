@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Patent Shows Plans to Revive Deceased Loved Ones as Chatbots](https://www.independent.co.uk/life-style/gadgets-and-tech/microsoft-chatbot-patent-dead-b1789979.html)
 - [B2B SaaS marketplaces with opportunities for indie hackers](https://rocketgems.com/blog/saas-marketplaces/)
 - [Y Combinator is hiring a product engineer to help more YC companies hire](https://news.ycombinator.com/item?id=25870891)
 - [Show HN: 128-bit, roughly-ordered, URL-safe UUIDs](https://github.com/anthonynsimon/timeflake)
 - [Android Ported to RISC-V](https://www.theregister.com/2021/01/21/android_riscv_port/)
-- [Show HN: Welder – Record high-quality remote interviews](https://www.getwelder.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
