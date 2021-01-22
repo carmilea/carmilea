@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The spat between Google and Australia, as reported on HN](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Google%20Australia&sort=byDate&type=story)
+- [Show HN: 128-bit, roughly-ordered, URL-safe UUIDs](https://github.com/anthonynsimon/timeflake)
+- [The Secure Messaging App Conundrum: Signal vs. Telegram [pdf]](https://cqi.inf.usi.ch/publications/telegram_vs_signal.pdf)
 - [Android Ported to RISC-V](https://www.theregister.com/2021/01/21/android_riscv_port/)
-- [Complete rewrite of ownCloud to move away from LAMP](https://owncloud.com/infinite-scale/)
-- [Why webcams aren’t good enough](https://reincubate.com/support/how-to/why-are-webcams-bad/)
-- [Show HN: Git News – Social News website for developers and GitHub fans](https://gitnews.tech)
-- [Tales of Favicons and Caches: Persistent Tracking in Modern Browsers [pdf]](https://www.cs.uic.edu/~polakis/papers/solomos-ndss21.pdf)
+- [Show HN: Welder – Record high-quality remote interviews](https://www.getwelder.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
