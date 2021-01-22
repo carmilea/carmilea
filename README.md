@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi Enters Microcontroller Game with $4 Pico](https://hackaday.com/2021/01/20/raspberry-pi-enters-microcontroller-game-with-4-pico/)
-- [Remembering Windows 3.1 themes and user empowerment](https://hisham.hm/2019/07/26/remembering-windows-31-themes-and-user-empowerment/)
-- [Palantir’s God’s-Eye View of Afghanistan](https://www.wired.com/story/palantirs-gods-eye-view-of-afghanistan/)
-- [A story about pivots](https://posthog.com/blog/story-about-pivots)
-- [Rqlite: The lightweight, distributed relational database built on SQLite](https://github.com/rqlite/rqlite)
+- [Repl.it is hiring designers and engineers to build better programming environments](https://repl.it/careers)
+- [The strange economics of open-source software (2015)](https://www.philipotoole.com/the-strange-economics-of-open-source-software/)
+- [Audi announces end of combustion A4, A6 and A8 models](https://www.electrive.com/2021/01/22/audi-announces-end-of-combustion-a4-a6-a8-models/)
+- [Show HN: Iconduck – 100k open source icons, downloadable and searchable](https://iconduck.com/)
+- [Electric vehicles close to ‘tipping point’ of mass adoption](https://www.theguardian.com/environment/2021/jan/22/electric-vehicles-close-to-tipping-point-of-mass-adoption)
 <!-- BLOG-POST-LIST:END -->
 
 ---
