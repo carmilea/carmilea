@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Access Control for GitHub Pages](https://github.blog/changelog/2021-01-21-access-control-for-github-pages/)
 - [Alphabet shutting Loon, which used balloon alternative to cell towers](https://www.reuters.com/article/us-alphabet-loon/alphabet-shutting-loon-which-used-balloon-alternative-to-cell-towers-idUSKBN29R02U)
 - [First-ever atomic resolution video of salt crystals forming in real time](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00161.html)
 - [Climate change: US emissions in 2020 in biggest fall since WWII](https://www.bbc.com/news/science-environment-55632050)
-- [How hard should I push myself?](https://superorganizers.every.to/p/how-hard-should-i-push-myself)
 - [Accidental Nuclear War: A Timeline of Close Calls](https://futureoflife.org/background/nuclear-close-calls-a-timeline/)
 <!-- BLOG-POST-LIST:END -->
 
