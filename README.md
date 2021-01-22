@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google's Project Loon is shutting down](https://blog.x.company/loons-final-flight-e9d699123a96?gi=b913b3d1667e)
+- [r/wallstreetbets set to private after increased media coverage](https://news.ycombinator.com/item?id=25868680)
+- [Monarch butterfly population moves closer to extinction](https://abcnews.go.com/Technology/wireStory/monarch-butterfly-population-moves-closer-extinction-75351089)
+- [Why isn't differential dataflow more popular?](https://scattered-thoughts.net/writing/why-isnt-differential-dataflow-more-popular/)
 - [Relationship Hero (YC S17) Is Hiring Coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
-- [AWS announces forks of Elasticsearch and Kibana](https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch)
-- [Still alive](https://astralcodexten.substack.com/p/still-alive)
-- [A Computational Model for Intelligent Manufacturing](https://industrytoday.com/a-computational-model-for-intelligent-manufacturing/)
-- [DeLorean considering all-electric reboot](https://www.newdelorean.com/nhtsa-releases-final-low-volume-manufacturing-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
