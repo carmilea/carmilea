@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
+- [Gandi – We Under DDoS](https://status.gandi.net/)
 - [Tencent is acquiring a majority stake in Klei Entertainment](https://forums.kleientertainment.com/forums/topic/126355-studio-announcement/)
 - [Show HN: Rysolv – Fix open source issues, get paid](https://rysolv.com/issues)
-- [Oversight Board accepts case on Trump's indefinite suspension from Facebook](https://oversightboard.com/news/236821561313092-oversight-board-accepts-case-on-former-us-president-trump-s-indefinite-suspension-from-facebook-and-instagram/)
 - [Who Will Control the Software That Powers the Internet?](https://a16z.com/2021/01/14/internet-control-crypto-decentralization-community-owned-operated-networks/)
-- [New six-film series from Adam Curtis](https://www.bbc.com/mediacentre/2021/cgyoomh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
