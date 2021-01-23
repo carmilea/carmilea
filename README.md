@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rollerball Pens of 2021](https://unsharpen.com/best-rollerball-pen/)
+- [FBI agents track cell phones that pinged near the Capitol](https://www.wusa9.com/article/features/producers-picks/fbi-tracks-cell-phones-that-were-near-capitol-insurrection-and-riot/65-ca268165-a5c5-46a4-8b88-943a8517343a)
+- [How to teach technical concepts with cartoons](https://jvns.ca/teach-tech-with-cartoons/)
+- [Teleguard: Swiss Made Safe Messaging](https://teleguard.com/en/)
 - [Going to the Moon Was Easy Compared to 100UL](http://www.avweb.com/insider/going-to-the-moon-was-easy-compared-to-100ul/)
-- [Microsoft same-day reversal on Xbox Live Gold price doubling](https://www.windowscentral.com/xbox-live-gold-price-increase-reversed-gold-no-longer-required-free-play-games)
-- [Only Sponsers: Build a Salary with GitHub Sponsors](https://onlysponsors.dev/)
-- [Larry King has died](https://twitter.com/kingsthings/status/1352960673978880000)
-- [Irma: Open-source, attribute based credentials](https://irma.app/docs/what-is-irma/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
