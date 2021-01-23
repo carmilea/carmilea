@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The team shaking up climate models](https://www.csmonitor.com/Environment/2021/0122/Meet-the-team-shaking-up-climate-models)
+- [VisualAge for Java 1.0 – Let the Future Begin (1997)](https://www.tug.ca/articles/Volume13/V13N1/V13N1_Jenkins_VisualAge-for-Java.html)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [Replicating GPT-2 at Home](https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html)
-- [Firecracker: Start a VM in less than a second](https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/)
-- [Twitter Bots Are a Major Source of Climate Disinformation](https://www.scientificamerican.com/article/twitter-bots-are-a-major-source-of-climate-disinformation/)
-- [Rollerball Pens of 2021](https://unsharpen.com/best-rollerball-pen/)
+- [19yo, bootstrapped SaaS, 250k ARR after 10 months](https://news.ycombinator.com/item?id=25883858)
+- [TRS-80: a TRS-80 running a custom Associated Press ROM](https://wayne.lorentz.me/This_TRS-80/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
