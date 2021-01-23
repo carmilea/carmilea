@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluetooth Attack Can Steal a Tesla Model X in Minutes](https://www.wired.com/story/tesla-model-x-hack-bluetooth/)
+- [New six-film series from Adam Curtis](https://www.bbc.com/mediacentre/2021/cgyoomh)
 - [The Analog Computer Inside Prime Minister](http://www.insidegmt.com/2021/01/the-analog-computer-inside-prime-minister/)
 - [One hull crack located in ISS, another one suspected](https://tass.com/science/1247847)
 - [Could Indoor Vertical Farms Feed Livestock?](https://www.smithsonianmag.com/innovation/could-indoor-vertical-farms-feed-livestock-180976809/)
-- [Brad Cox has died](https://www.legacy.com/us/obituaries/scnow/name/brad-cox-obituary?pid=197454225)
-- [Facebook shuts down the Socialist Workers Party in Britain](https://swp.org.uk/press-release-facebook-shuts-down-major-left-wing-group-in-britain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
