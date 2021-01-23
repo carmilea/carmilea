@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi as x2go “thin” client](http://www.multi-seat.com/x2go/)
 - [Bitcoin Core Lead Maintainer Steps Back, Encourages Decentralization](https://laanwj.github.io/2021/01/21/decentralize.html)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [Tencent is acquiring a majority stake in Klei Entertainment](https://forums.kleientertainment.com/forums/topic/126355-studio-announcement/)
 - [Show HN: Rysolv – Fix open source issues, get paid](https://rysolv.com/issues)
-- [Who Will Control the Software That Powers the Internet?](https://a16z.com/2021/01/14/internet-control-crypto-decentralization-community-owned-operated-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
