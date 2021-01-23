@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [Replicating GPT-2 at Home](https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html)
+- [Firecracker: Start a VM in less than a second](https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/)
+- [Twitter Bots Are a Major Source of Climate Disinformation](https://www.scientificamerican.com/article/twitter-bots-are-a-major-source-of-climate-disinformation/)
 - [Rollerball Pens of 2021](https://unsharpen.com/best-rollerball-pen/)
-- [FBI agents track cell phones that pinged near the Capitol](https://www.wusa9.com/article/features/producers-picks/fbi-tracks-cell-phones-that-were-near-capitol-insurrection-and-riot/65-ca268165-a5c5-46a4-8b88-943a8517343a)
-- [How to teach technical concepts with cartoons](https://jvns.ca/teach-tech-with-cartoons/)
-- [Teleguard: Swiss Made Safe Messaging](https://teleguard.com/en/)
-- [Going to the Moon Was Easy Compared to 100UL](http://www.avweb.com/insider/going-to-the-moon-was-easy-compared-to-100ul/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
