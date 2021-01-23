@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google has turned off access to sync features for Chromium](https://bodhi.fedoraproject.org/updates/FEDORA-2021-48866282e5)
+- [Malware found on laptops given out by government](https://www.bbc.com/news/technology-55749959)
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [Filmulator – a streamlined, open-source raw photo editor](https://filmulator.org/v0-11-0/)
 - [Ask HN: Is low level progarmming job more satisfying?](https://news.ycombinator.com/item?id=25885699)
-- [Why can 2 times 3 sometimes equal 7 with Android's Neural Network API?](http://alexanderganderson.github.io/engineering/2021/01/23/integer_indeterminism.html)
-- [DrScheme in Space](https://parentheticallyspeaking.org/articles/drscheme-in-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
