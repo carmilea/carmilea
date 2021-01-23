@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why can 2 times 3 sometimes equal 7 with Android's Neural Network API?](http://alexanderganderson.github.io/engineering/2021/01/23/integer_indeterminism.html)
 - [I bought 200 Raspberry Pi Model B’s and I’m going to fix them](https://blog.jmdawson.co.uk/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-1/)
 - [Internet disrupted in Russia amid opposition protests](https://netblocks.org/reports/internet-disrupted-in-russia-amid-opposition-protests-98aRXQAo)
 - [Microsoft Opens Up Old Win32 APIs to C# and Rust](https://visualstudiomagazine.com/articles/2021/01/21/win32-apis.aspx)
 - [Vole.wtf](https://vole.wtf/)
-- [Show HN: Traindown – A language to help athletes express their training](https://traindown.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
