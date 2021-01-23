@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse (YC W12) Is Hiring a Senior Product Designer](https://www.themuse.com/jobs/themuse/senior-product-designer)
+- [Chemotherapy with light; only one injection required](https://www.eurekalert.org/pub_releases/2021-01/nrco-cwl011121.php)
 - [Italy Blocks Users on TikTok After 10-Year-Old Girl Died in a Blackout Challenge](https://relayvibes.co/italy-blocks-users-on-tiktok-after-a-10-year-old-girl-died-in-a-blackout-challenge/)
+- [Open Positions](https://freebsdfoundation.org/open-positions/)
 - [Raspberry Pi as x2go “thin” client](http://www.multi-seat.com/x2go/)
-- [Bitcoin Core Lead Maintainer Steps Back, Encourages Decentralization](https://laanwj.github.io/2021/01/21/decentralize.html)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [Show HN: Rysolv – Fix open source issues, get paid](https://rysolv.com/issues)
 <!-- BLOG-POST-LIST:END -->
 
 ---
