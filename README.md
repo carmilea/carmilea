@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who Will Control the Software That Powers the Internet?](https://a16z.com/2021/01/14/internet-control-crypto-decentralization-community-owned-operated-networks/)
+- [Programming Language Creator or Serial Killer?](https://vole.wtf/coder-serial-killer-quiz/)
 - [Bluetooth Attack Can Steal a Tesla Model X in Minutes](https://www.wired.com/story/tesla-model-x-hack-bluetooth/)
 - [New six-film series from Adam Curtis](https://www.bbc.com/mediacentre/2021/cgyoomh)
 - [The Analog Computer Inside Prime Minister](http://www.insidegmt.com/2021/01/the-analog-computer-inside-prime-minister/)
-- [One hull crack located in ISS, another one suspected](https://tass.com/science/1247847)
-- [Could Indoor Vertical Farms Feed Livestock?](https://www.smithsonianmag.com/innovation/could-indoor-vertical-farms-feed-livestock-180976809/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
