@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The team shaking up climate models](https://www.csmonitor.com/Environment/2021/0122/Meet-the-team-shaking-up-climate-models)
-- [VisualAge for Java 1.0 – Let the Future Begin (1997)](https://www.tug.ca/articles/Volume13/V13N1/V13N1_Jenkins_VisualAge-for-Java.html)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [19yo, bootstrapped SaaS, 250k ARR after 10 months](https://news.ycombinator.com/item?id=25883858)
-- [TRS-80: a TRS-80 running a custom Associated Press ROM](https://wayne.lorentz.me/This_TRS-80/)
+- [I bought 200 Raspberry Pi Model B’s and I’m going to fix them](https://blog.jmdawson.co.uk/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-1/)
+- [Internet disrupted in Russia amid opposition protests](https://netblocks.org/reports/internet-disrupted-in-russia-amid-opposition-protests-98aRXQAo)
+- [Microsoft Opens Up Old Win32 APIs to C# and Rust](https://visualstudiomagazine.com/articles/2021/01/21/win32-apis.aspx)
+- [Vole.wtf](https://vole.wtf/)
+- [Show HN: Traindown – A language to help athletes express their training](https://traindown.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
