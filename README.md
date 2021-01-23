@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Going to the Moon Was Easy Compared to 100UL](http://www.avweb.com/insider/going-to-the-moon-was-easy-compared-to-100ul/)
 - [Microsoft same-day reversal on Xbox Live Gold price doubling](https://www.windowscentral.com/xbox-live-gold-price-increase-reversed-gold-no-longer-required-free-play-games)
+- [Only Sponsers: Build a Salary with GitHub Sponsors](https://onlysponsors.dev/)
 - [Larry King has died](https://twitter.com/kingsthings/status/1352960673978880000)
-- [But How, Exactly, Do Databases Use mmap?](https://brunocalza.me/but-how-exactly-databases-use-mmap/)
-- [Pied Piper’s New Internet Isn’t Just Possible, It’s Almost Here (2017)](https://www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/)
-- [Java 1.0 Turns 25](https://www.infoq.com/news/2021/01/java-turns-25/)
+- [Irma: Open-source, attribute based credentials](https://irma.app/docs/what-is-irma/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
