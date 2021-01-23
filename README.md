@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA Files Reveal a Surprising Threat to Airline Safety: US Military's GPS Tests](https://spectrum.ieee.org/aerospace/aviation/faa-files-reveal-a-surprising-threat-to-airline-safety-the-us-militarys-gps-tests)
+- [Tree – a lib for working with nested data structures, open-sourced by deepmind](https://github.com/deepmind/tree)
+- [Cryptocurreny Crime Is Way Ahead of Regulators and Law Enforcement](https://www.fnlondon.com/articles/nouriel-roubini-the-great-crypto-heist-20190719)
+- [Site.js: Small Web construction set](https://sitejs.org/)
 - [Google has turned off access to sync features for Chromium](https://bodhi.fedoraproject.org/updates/FEDORA-2021-48866282e5)
-- [Malware found on laptops given out by government](https://www.bbc.com/news/technology-55749959)
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Filmulator – a streamlined, open-source raw photo editor](https://filmulator.org/v0-11-0/)
-- [Ask HN: Is low level progarmming job more satisfying?](https://news.ycombinator.com/item?id=25885699)
 <!-- BLOG-POST-LIST:END -->
 
 ---
