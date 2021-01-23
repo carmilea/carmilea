@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook deactivated account after it advocated decentralized social networks](https://twitter.com/lincolncannon/status/1352655954882379776)
 - [Tencent is acquiring a majority stake in Klei Entertainment](https://forums.kleientertainment.com/forums/topic/126355-studio-announcement/)
 - [Show HN: Rysolv – Fix open source issues, get paid](https://rysolv.com/issues)
 - [Oversight Board accepts case on Trump's indefinite suspension from Facebook](https://oversightboard.com/news/236821561313092-oversight-board-accepts-case-on-former-us-president-trump-s-indefinite-suspension-from-facebook-and-instagram/)
 - [Who Will Control the Software That Powers the Internet?](https://a16z.com/2021/01/14/internet-control-crypto-decentralization-community-owned-operated-networks/)
-- [Programming Language Creator or Serial Killer?](https://vole.wtf/coder-serial-killer-quiz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
