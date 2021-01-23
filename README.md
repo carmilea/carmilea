@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Filmulator – a streamlined, open-source raw photo editor](https://filmulator.org/v0-11-0/)
+- [Ask HN: Is low level progarmming job more satisfying?](https://news.ycombinator.com/item?id=25885699)
 - [Why can 2 times 3 sometimes equal 7 with Android's Neural Network API?](http://alexanderganderson.github.io/engineering/2021/01/23/integer_indeterminism.html)
-- [I bought 200 Raspberry Pi Model B’s and I’m going to fix them](https://blog.jmdawson.co.uk/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-1/)
-- [Internet disrupted in Russia amid opposition protests](https://netblocks.org/reports/internet-disrupted-in-russia-amid-opposition-protests-98aRXQAo)
-- [Microsoft Opens Up Old Win32 APIs to C# and Rust](https://visualstudiomagazine.com/articles/2021/01/21/win32-apis.aspx)
-- [Vole.wtf](https://vole.wtf/)
+- [DrScheme in Space](https://parentheticallyspeaking.org/articles/drscheme-in-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
