@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Muse (YC W12) Is Hiring a Senior Product Designer](https://www.themuse.com/jobs/themuse/senior-product-designer)
-- [Chemotherapy with light; only one injection required](https://www.eurekalert.org/pub_releases/2021-01/nrco-cwl011121.php)
-- [Italy Blocks Users on TikTok After 10-Year-Old Girl Died in a Blackout Challenge](https://relayvibes.co/italy-blocks-users-on-tiktok-after-a-10-year-old-girl-died-in-a-blackout-challenge/)
-- [Open Positions](https://freebsdfoundation.org/open-positions/)
-- [Raspberry Pi as x2go “thin” client](http://www.multi-seat.com/x2go/)
+- [Microsoft same-day reversal on Xbox Live Gold price doubling](https://www.windowscentral.com/xbox-live-gold-price-increase-reversed-gold-no-longer-required-free-play-games)
+- [Larry King has died](https://twitter.com/kingsthings/status/1352960673978880000)
+- [But How, Exactly, Do Databases Use mmap?](https://brunocalza.me/but-how-exactly-databases-use-mmap/)
+- [Pied Piper’s New Internet Isn’t Just Possible, It’s Almost Here (2017)](https://www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/)
+- [Java 1.0 Turns 25](https://www.infoq.com/news/2021/01/java-turns-25/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
