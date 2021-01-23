@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rolling Stone seeks 'thought leaders' willing to pay $2k to write for them](https://www.theguardian.com/media/2021/jan/23/rolling-stone-magazine-culture-council-publication)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [Gandi – We Under DDoS](https://status.gandi.net/)
 - [Tencent is acquiring a majority stake in Klei Entertainment](https://forums.kleientertainment.com/forums/topic/126355-studio-announcement/)
 - [Show HN: Rysolv – Fix open source issues, get paid](https://rysolv.com/issues)
-- [Who Will Control the Software That Powers the Internet?](https://a16z.com/2021/01/14/internet-control-crypto-decentralization-community-owned-operated-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
