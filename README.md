@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Baffling Brexit rules threaten export chaos](https://www.theguardian.com/politics/2021/jan/10/baffling-brexit-rules-threaten-export-chaos-gove-is-warned)
 - [Move to EU to avoid Brexit costs, firms told](https://www.theguardian.com/politics/2021/jan/23/brexit-hit-firms-advised-government-officials-set-up-shop-in-eu)
+- [Godiva Chocolates to close all 128 North American stores due to Covid pandemic](https://abc13.com/godiva-chocolates-closing-stores/9941539)
 - [SoftBank's plan to sell Arm to Nvidia is hitting an antitrust wall](https://asia.nikkei.com/Business/Technology/SoftBank-s-plan-to-sell-Arm-to-NVIDIA-is-hitting-antitrust-wall-around-the-world)
 - [(YC W14) Is Hiring a Software Engineer (Remote) – TypeScript or Python/Spark](https://jobs.42.engineering)
-- [Show HN: Full text search Project Gutenberg (60m paragraphs)](https://gutensearch.com/)
-- [Visual Sentence Composer for Japanese](https://japanesecomplete.com/visual-composer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
