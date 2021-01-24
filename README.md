@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Our experience with the Fediverse, and why we left](https://infosec-handbook.eu/news/2020-12-05-leaving-the-fediverse/)
-- [Experienced well-being rises with income, even above $75,000 per year](https://www.pnas.org/content/118/4/e2016976118)
 - [Solar is now ‘cheapest electricity in history’, confirms IEA](https://www.weforum.org/agenda/2020/10/solar-cheap-energy-coal-gas-renewables-climate-change-environment-sustainability)
-- [Show HN: Powerful Spreadsheet Data Table for all frameworks](https://github.com/revolist/revogrid)
-- [Ghost cities and abandoned areas with a declining population](https://www.theguardian.com/world/2021/jan/24/as-birth-rates-fall-animals-prowl-in-our-abandoned-ghost-villages)
+- [Racket Compiler and Runtime Status: January 2021](https://blog.racket-lang.org/2021/01/racket-status.html)
+- [SpaceX: World record number of satellites launched](https://www.bbc.co.uk/news/science-environment-55775977)
+- [Show HN: RevoGrid – Spreadsheet data table for all frameworks](https://github.com/revolist/revogrid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
