@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Czech trainers teach dogs to sniff out Covid: 95-percent success rate](https://www.france24.com/en/live-news/20210124-czech-trainers-teach-dogs-to-sniff-out-covid)
+- [A 10B Pixel Scan of Vermeer’s Masterpiece](https://www.micro-pano.com/pearl/index.html)
 - [Hush: Noiseless Browsing for Safari](https://daringfireball.net/linked/2021/01/23/hush)
 - [Lack of sleep, stress can lead to symptoms resembling concussion](https://news.osu.edu/lack-of-sleep-stress-can-lead-to-symptoms-resembling-concussion/)
 - [Deskreen – Turn any device with a web browser to a second computer screen](https://github.com/pavlobu/deskreen)
-- [SoftBank’s plan to sell Arm to NVIDIA is hitting antitrust wall around the world](https://asia.nikkei.com/Business/Technology/SoftBank-s-plan-to-sell-Arm-to-NVIDIA-is-hitting-antitrust-wall-around-the-world)
-- [42 (YC W14) Is Hiring a Software Engineer (Remote) – TypeScript or Python/Spark](https://jobs.42.engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
