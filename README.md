@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Move to EU to avoid Brexit costs, firms told](https://www.theguardian.com/politics/2021/jan/23/brexit-hit-firms-advised-government-officials-set-up-shop-in-eu)
+- [SoftBank's plan to sell Arm to Nvidia is hitting an antitrust wall](https://asia.nikkei.com/Business/Technology/SoftBank-s-plan-to-sell-Arm-to-NVIDIA-is-hitting-antitrust-wall-around-the-world)
 - [(YC W14) Is Hiring a Software Engineer (Remote) – TypeScript or Python/Spark](https://jobs.42.engineering)
 - [Show HN: Full text search Project Gutenberg (60m paragraphs)](https://gutensearch.com/)
 - [Visual Sentence Composer for Japanese](https://japanesecomplete.com/visual-composer)
-- [Pip has dropped support for Python 2](https://pip.pypa.io/en/stable/news/#id1)
-- [Whitehouse.gov Chooses WordPress, Again](https://pagely.com/blog/whitehouse-gov-chooses-wordpress-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
