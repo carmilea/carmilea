@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Computer Revolution Hasn't Happened Yet](https://catonmat.net/videos/the-computer-revolution-hasnt-happened-yet)
 - [Military intelligence buys location data instead of getting warrants](https://arstechnica.com/tech-policy/2021/01/military-intelligence-buys-location-data-instead-of-getting-warrants-memo-shows/)
 - [AeroPython: Classical Aerodynamics with Python](https://github.com/barbagroup/AeroPython)
 - [Proof of X](https://julian.digital/2020/08/06/proof-of-x/)
 - [Japanese companies fight for share of EUV chip technology sector](https://asia.nikkei.com/Business/Electronics/Japanese-companies-fight-for-share-of-EUV-chip-technology-sector)
-- [Our infrastructure is being built based on past climate data](https://www.vice.com/en/article/jgx8y8/our-infrastructure-is-being-built-for-a-climate-thats-already-gone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
