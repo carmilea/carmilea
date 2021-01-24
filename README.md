@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Military intelligence buys location data instead of getting warrants](https://arstechnica.com/tech-policy/2021/01/military-intelligence-buys-location-data-instead-of-getting-warrants-memo-shows/)
+- [AeroPython: Classical Aerodynamics with Python](https://github.com/barbagroup/AeroPython)
+- [Proof of X](https://julian.digital/2020/08/06/proof-of-x/)
 - [Japanese companies fight for share of EUV chip technology sector](https://asia.nikkei.com/Business/Electronics/Japanese-companies-fight-for-share-of-EUV-chip-technology-sector)
 - [Our infrastructure is being built based on past climate data](https://www.vice.com/en/article/jgx8y8/our-infrastructure-is-being-built-for-a-climate-thats-already-gone)
-- [Waymo CEO dismisses Tesla self-driving plan: “This is not how it works”](https://arstechnica.com/cars/2021/01/waymo-ceo-tesla-is-not-a-competitor-at-all/)
-- [I wouldn't invest in open-source companies, even though I ran one](https://www.linkedin.com/pulse/why-i-wouldnt-invest-open-source-companies-even-though-wolfram-hempel)
-- [A new newsletter on database engines, streaming systems, query planning](https://scattered-thoughts.net/writing/a-new-newsletter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
