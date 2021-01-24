@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Our infrastructure is being built based on past climate data](https://www.vice.com/en/article/jgx8y8/our-infrastructure-is-being-built-for-a-climate-thats-already-gone)
+- [I wouldn't invest in open-source companies, even though I ran one](https://www.linkedin.com/pulse/why-i-wouldnt-invest-open-source-companies-even-though-wolfram-hempel)
+- [A new newsletter on database engines, streaming systems, query planning](https://scattered-thoughts.net/writing/a-new-newsletter/)
+- [Apple Car: For Real This Time?](https://mondaynote.com/apple-car-for-real-this-time-cce10d7e9d93)
 - [Our experience with the Fediverse, and why we left](https://infosec-handbook.eu/news/2020-12-05-leaving-the-fediverse/)
-- [Solar is now ‘cheapest electricity in history’, confirms IEA](https://www.weforum.org/agenda/2020/10/solar-cheap-energy-coal-gas-renewables-climate-change-environment-sustainability)
-- [Racket Compiler and Runtime Status: January 2021](https://blog.racket-lang.org/2021/01/racket-status.html)
-- [SpaceX: World record number of satellites launched](https://www.bbc.co.uk/news/science-environment-55775977)
-- [Show HN: RevoGrid – Spreadsheet data table for all frameworks](https://github.com/revolist/revogrid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
