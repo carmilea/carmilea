@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Full text search Project Gutenberg (60m paragraphs)](https://gutensearch.com/)
 - [Visual Sentence Composer for Japanese](https://japanesecomplete.com/visual-composer)
 - [Pip has dropped support for Python 2](https://pip.pypa.io/en/stable/news/#id1)
 - [Curve.fi is hiring Python (Vyper) dev and QA (py.test). Math knowledge is and+](https://www.curve.fi/careers)
 - [Whitehouse.gov Chooses WordPress, Again](https://pagely.com/blog/whitehouse-gov-chooses-wordpress-again/)
-- [Uber Lays off Postmates Founder/CEO, 180 others](https://www.nytimes.com/2021/01/23/technology/uber-postmates-layoffs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
