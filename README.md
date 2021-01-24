@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oxford pledged to donate rights to their Covid Vaccine, then sold them to pharma](https://khn.org/news/rather-than-give-away-its-covid-vaccine-oxford-makes-a-deal-with-drugmaker/)
+- [Hush: Noiseless Browsing for Safari](https://daringfireball.net/linked/2021/01/23/hush)
 - [Lack of sleep, stress can lead to symptoms resembling concussion](https://news.osu.edu/lack-of-sleep-stress-can-lead-to-symptoms-resembling-concussion/)
 - [Deskreen – Turn any device with a web browser to a second computer screen](https://github.com/pavlobu/deskreen)
-- [Baffling Brexit rules threaten export chaos](https://www.theguardian.com/politics/2021/jan/10/baffling-brexit-rules-threaten-export-chaos-gove-is-warned)
-- [Godiva Chocolates to close all 128 North American stores due to Covid pandemic](https://abc13.com/godiva-chocolates-closing-stores/9941539)
+- [SoftBank’s plan to sell Arm to NVIDIA is hitting antitrust wall around the world](https://asia.nikkei.com/Business/Technology/SoftBank-s-plan-to-sell-Arm-to-NVIDIA-is-hitting-antitrust-wall-around-the-world)
+- [42 (YC W14) Is Hiring a Software Engineer (Remote) – TypeScript or Python/Spark](https://jobs.42.engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
