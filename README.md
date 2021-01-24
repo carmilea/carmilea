@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pip has dropped support for Python 2](https://pip.pypa.io/en/stable/news/#id1)
 - [Curve.fi is hiring Python (Vyper) dev and QA (py.test). Math knowledge is and+](https://www.curve.fi/careers)
 - [Whitehouse.gov Chooses WordPress, Again](https://pagely.com/blog/whitehouse-gov-chooses-wordpress-again/)
 - [Uber Lays off Postmates Founder/CEO, 180 others](https://www.nytimes.com/2021/01/23/technology/uber-postmates-layoffs.html)
-- [Software engineering topics I changed my mind on after 6 years in the industry](https://chriskiehl.com/article/thoughts-after-6-years)
-- [How Long Does a Bottle of Wine Last After It Is Opened?: Vinography](https://www.vinography.com/2020/12/how-long-does-a-bottle-of-wine-last-after-it-is-opened)
+- [Forever Chemicals Are Widespread in U.S. Drinking Water](https://www.scientificamerican.com/article/forever-chemicals-are-widespread-in-u-s-drinking-water/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
