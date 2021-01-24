@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Visual Sentence Composer for Japanese](https://japanesecomplete.com/visual-composer)
 - [Pip has dropped support for Python 2](https://pip.pypa.io/en/stable/news/#id1)
 - [Curve.fi is hiring Python (Vyper) dev and QA (py.test). Math knowledge is and+](https://www.curve.fi/careers)
 - [Whitehouse.gov Chooses WordPress, Again](https://pagely.com/blog/whitehouse-gov-chooses-wordpress-again/)
 - [Uber Lays off Postmates Founder/CEO, 180 others](https://www.nytimes.com/2021/01/23/technology/uber-postmates-layoffs.html)
-- [Forever Chemicals Are Widespread in U.S. Drinking Water](https://www.scientificamerican.com/article/forever-chemicals-are-widespread-in-u-s-drinking-water/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
