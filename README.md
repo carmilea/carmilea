@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Czech trainers teach dogs to sniff out Covid: 95-percent success rate](https://www.france24.com/en/live-news/20210124-czech-trainers-teach-dogs-to-sniff-out-covid)
-- [A 10B Pixel Scan of Vermeer’s Masterpiece](https://www.micro-pano.com/pearl/index.html)
-- [Hush: Noiseless Browsing for Safari](https://daringfireball.net/linked/2021/01/23/hush)
-- [Lack of sleep, stress can lead to symptoms resembling concussion](https://news.osu.edu/lack-of-sleep-stress-can-lead-to-symptoms-resembling-concussion/)
-- [Deskreen – Turn any device with a web browser to a second computer screen](https://github.com/pavlobu/deskreen)
+- [Our experience with the Fediverse, and why we left](https://infosec-handbook.eu/news/2020-12-05-leaving-the-fediverse/)
+- [Experienced well-being rises with income, even above $75,000 per year](https://www.pnas.org/content/118/4/e2016976118)
+- [Solar is now ‘cheapest electricity in history’, confirms IEA](https://www.weforum.org/agenda/2020/10/solar-cheap-energy-coal-gas-renewables-climate-change-environment-sustainability)
+- [Show HN: Powerful Spreadsheet Data Table for all frameworks](https://github.com/revolist/revogrid)
+- [Ghost cities and abandoned areas with a declining population](https://www.theguardian.com/world/2021/jan/24/as-birth-rates-fall-animals-prowl-in-our-abandoned-ghost-villages)
 <!-- BLOG-POST-LIST:END -->
 
 ---
