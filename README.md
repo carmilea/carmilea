@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FAA Files Reveal a Surprising Threat to Airline Safety: US Military's GPS Tests](https://spectrum.ieee.org/aerospace/aviation/faa-files-reveal-a-surprising-threat-to-airline-safety-the-us-militarys-gps-tests)
-- [Tree – a lib for working with nested data structures, open-sourced by deepmind](https://github.com/deepmind/tree)
-- [Cryptocurreny Crime Is Way Ahead of Regulators and Law Enforcement](https://www.fnlondon.com/articles/nouriel-roubini-the-great-crypto-heist-20190719)
-- [Site.js: Small Web construction set](https://sitejs.org/)
-- [Google has turned off access to sync features for Chromium](https://bodhi.fedoraproject.org/updates/FEDORA-2021-48866282e5)
+- [Curve.fi is hiring Python (Vyper) dev and QA (py.test). Math knowledge is and+](https://www.curve.fi/careers)
+- [Whitehouse.gov Chooses WordPress, Again](https://pagely.com/blog/whitehouse-gov-chooses-wordpress-again/)
+- [Uber Lays off Postmates Founder/CEO, 180 others](https://www.nytimes.com/2021/01/23/technology/uber-postmates-layoffs.html)
+- [Software engineering topics I changed my mind on after 6 years in the industry](https://chriskiehl.com/article/thoughts-after-6-years)
+- [How Long Does a Bottle of Wine Last After It Is Opened?: Vinography](https://www.vinography.com/2020/12/how-long-does-a-bottle-of-wine-last-after-it-is-opened)
 <!-- BLOG-POST-LIST:END -->
 
 ---
