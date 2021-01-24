@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Japanese companies fight for share of EUV chip technology sector](https://asia.nikkei.com/Business/Electronics/Japanese-companies-fight-for-share-of-EUV-chip-technology-sector)
 - [Our infrastructure is being built based on past climate data](https://www.vice.com/en/article/jgx8y8/our-infrastructure-is-being-built-for-a-climate-thats-already-gone)
+- [Waymo CEO dismisses Tesla self-driving plan: “This is not how it works”](https://arstechnica.com/cars/2021/01/waymo-ceo-tesla-is-not-a-competitor-at-all/)
 - [I wouldn't invest in open-source companies, even though I ran one](https://www.linkedin.com/pulse/why-i-wouldnt-invest-open-source-companies-even-though-wolfram-hempel)
 - [A new newsletter on database engines, streaming systems, query planning](https://scattered-thoughts.net/writing/a-new-newsletter/)
-- [Apple Car: For Real This Time?](https://mondaynote.com/apple-car-for-real-this-time-cce10d7e9d93)
-- [Our experience with the Fediverse, and why we left](https://infosec-handbook.eu/news/2020-12-05-leaving-the-fediverse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
