@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [18.7 Million Americans Vaccinated](http://covidvaxcount.live)
+- [American Airlines has so much extra wine that it is starting a delivery service](https://www.cnn.com/2021/01/21/tech/american-airlines-wine-delivery/index.html)
+- [Papercraft Models of Computers](http://rockybergen.com/papercraft)
 - [WhatsApp loses millions of users after terms update](https://www.theguardian.com/technology/2021/jan/24/whatsapp-loses-millions-of-users-after-terms-update)
 - [Ordering burritos from my SPARC (1992)](http://www.mit.edu/afs.new/sipb/user/marthag/postscript/burritos)
-- [Hacking Habit Development with iOS Shortcuts](https://kylewill.blog/hacking-habit-development/)
-- [The computer revolution hasn’t happened yet (1997)](https://catonmat.net/videos/the-computer-revolution-hasnt-happened-yet)
-- [The RustyHermit Unikernel](https://rust-osdev.com/showcase/rusty-hermit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
