@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflect (no-code test automation platform) is hiring our first Account Executive](https://www.workatastartup.com/jobs/41675)
+- [First atomic clock wristwatch (2003)](http://leapsecond.com/pages/atomic-bill/)
 - [Birdwatch Overview](https://twitter.github.io/birdwatch/about/overview/)
 - [The Nihilism of R/Wallstreetbets](https://jeromysonne.com/the-nihilism-of-r-wallstreetbets/)
 - [What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967/)
-- [The Year of Grinding Teeth](https://www.theparisreview.org/blog/2021/01/21/the-year-of-grinding-teeth/)
-- [Myopia correcting 'smart glasses' from Japan to be sold in Asia](https://asia.nikkei.com/Business/Health-Care/Myopia-correcting-smart-glasses-from-Japan-to-be-sold-in-Asia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
