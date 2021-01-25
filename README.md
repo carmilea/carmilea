@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Computer Revolution Hasn't Happened Yet](https://catonmat.net/videos/the-computer-revolution-hasnt-happened-yet)
-- [Military intelligence buys location data instead of getting warrants](https://arstechnica.com/tech-policy/2021/01/military-intelligence-buys-location-data-instead-of-getting-warrants-memo-shows/)
-- [AeroPython: Classical Aerodynamics with Python](https://github.com/barbagroup/AeroPython)
-- [Proof of X](https://julian.digital/2020/08/06/proof-of-x/)
-- [Japanese companies fight for share of EUV chip technology sector](https://asia.nikkei.com/Business/Electronics/Japanese-companies-fight-for-share-of-EUV-chip-technology-sector)
+- [WhatsApp loses millions of users after terms update](https://www.theguardian.com/technology/2021/jan/24/whatsapp-loses-millions-of-users-after-terms-update)
+- [Ordering burritos from my SPARC (1992)](http://www.mit.edu/afs.new/sipb/user/marthag/postscript/burritos)
+- [Hacking Habit Development with iOS Shortcuts](https://kylewill.blog/hacking-habit-development/)
+- [The computer revolution hasn’t happened yet (1997)](https://catonmat.net/videos/the-computer-revolution-hasnt-happened-yet)
+- [The RustyHermit Unikernel](https://rust-osdev.com/showcase/rusty-hermit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
