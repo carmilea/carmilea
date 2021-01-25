@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Find the best developer blogs on any tech stack](https://bloggingfordevs.com/trends/)
-- [A deeper dive into our May 2019 security incident](https://stackoverflow.blog/2021/01/25/a-deeper-dive-into-our-may-2019-security-incident/)
-- [Confession Of A C/C++ Programmer (2017)](https://robert.ocallahan.org/2017/07/confession-of-cc-programmer.html)
-- [Italy consumer association sues Apple for planned iPhone obsolescence](https://www.reuters.com/article/us-italy-apple-class-action-idUSKBN29U1BB)
-- [Gabe Newell on Brain Computer Interface Technology [video]](https://www.tvnz.co.nz/one-news/new-zealand/gabe-newell-says-brain-computer-interface-tech-allow-video-games-far-beyond-human-meat-peripherals-can-comprehend)
+- [GiveCampus (YC S15) remote hiring senior engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
+- [Launch HN: Aviron (YC W21) – High-Intensity Peloton for Rowing](https://news.ycombinator.com/item?id=25905467)
+- [Giant leak exposes data from almost all Brazilians](https://www.databreaches.net/giant-leak-exposes-data-from-almost-all-brazilians/)
+- [European startups hacking the ageing process](https://sifted.eu/articles/european-longevity-startups/)
+- [Vancouver seaplane company to resume test flights with electric plane](https://www.cbc.ca/news/canada/british-columbia/vancouver-electric-seaplane-test-flights-1.5884479)
 <!-- BLOG-POST-LIST:END -->
 
 ---
