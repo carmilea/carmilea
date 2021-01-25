@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Senior Fullstack Engineer – Back End Focus (Rails/React/AWS/K8s)](https://releaseapp.io/company#jobs)
+- [It’s always windy somewhere: Balancing renewable energy in Europe (2017)](https://arstechnica.com/science/2017/07/its-always-windy-somewhere-balancing-renewable-energy-in-europe/)
+- [Food delivery startup Wolt raises $530m](https://sifted.eu/articles/wolt-530m-raise/)
+- [Matrix.org Foundation accounts filing overdue by three months](https://github.com/matrix-org/matrix-doc/issues/2378#issuecomment-766714945)
 - [How to reform the attention economy business model of Big Tech](https://www.technologyreview.com/2021/01/10/1015934/facebook-twitter-youtube-big-tech-attention-economy-reform/)
-- [We Crush, Poison, and Destroy Insects at Our Own Peril](http://m.nautil.us/issue/95/escape/we-crush-poison-and-destroy-insects-at-our-own-peril)
-- [CondensationDB: Build secure and collaborative apps [open-source]](https://github.com/CondensationDB/Condensation)
-- [Philosophy of Mathematics (SEP)](https://plato.stanford.edu/entries/philosophy-mathematics/)
-- [Boeing 737 Max cleared to fly again 'too early'](https://www.bbc.co.uk/news/business-55751150)
 <!-- BLOG-POST-LIST:END -->
 
 ---
