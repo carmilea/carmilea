@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Entire company Gsuite access has been banned](https://news.ycombinator.com/item?id=25899814)
+- [Opvia (YC S20) Is Hiring Full Stack Engineers in London](https://bookface.ycombinator.com/company/21909/jobs/32455)
 - [Reserve – New Sam Altman backed stablecoin crypto project](https://reserve.org)
 - [5nm in the USA: TSMC's Board Approves $3.5B Fab in Arizona](https://www.tomshardware.com/news/tsmc-arizona-fab-investment)
 - [PGM Indexes: Learned indexes that match B-tree performance with 83x less space](https://pgm.di.unipi.it/)
