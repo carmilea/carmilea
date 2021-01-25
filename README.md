@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GiveCampus (YC S15) remote hiring senior engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
-- [Launch HN: Aviron (YC W21) – High-Intensity Peloton for Rowing](https://news.ycombinator.com/item?id=25905467)
-- [Giant leak exposes data from almost all Brazilians](https://www.databreaches.net/giant-leak-exposes-data-from-almost-all-brazilians/)
-- [European startups hacking the ageing process](https://sifted.eu/articles/european-longevity-startups/)
-- [Vancouver seaplane company to resume test flights with electric plane](https://www.cbc.ca/news/canada/british-columbia/vancouver-electric-seaplane-test-flights-1.5884479)
+- [App suspended from Google Play for listing supported subtitle formats](https://github.com/moneytoo/Player/issues/37)
+- [Birdwatch, a community-based approach to misinformation](https://blog.twitter.com/en_us/topics/product/2021/introducing-birdwatch-a-community-based-approach-to-misinformation.html)
+- [Operant Conditioning by Software Bugs (2012)](https://blog.regehr.org/archives/861)
+- [Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/)
+- [Otokichi](https://en.wikipedia.org/wiki/Otokichi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
