@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflect (no-code test automation platform) is hiring our first Account Executive](https://www.workatastartup.com/jobs/41675)
+- [Right to Repair off to the races in 2021 with 14 active states](https://uspirg.org/blogs/blog/usp/right-repair-races-2021-14-active-states)
+- [The day my voice broke](https://www.theguardian.com/music/2021/jan/19/vocal-polyps-injury-singing-john-colapinto-steven-zeitels?src=longreads)
+- [Reflect (no-code test automation platform) is hiring our first account executive](https://www.workatastartup.com/jobs/41675)
 - [First atomic clock wristwatch (2003)](http://leapsecond.com/pages/atomic-bill/)
 - [Birdwatch Overview](https://twitter.github.io/birdwatch/about/overview/)
-- [The Nihilism of R/Wallstreetbets](https://jeromysonne.com/the-nihilism-of-r-wallstreetbets/)
-- [What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
