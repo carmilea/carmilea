@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [5nm in the USA: TSMC's Board Approves $3.5B Fab in Arizona](https://www.tomshardware.com/news/tsmc-arizona-fab-investment)
+- [PGM Indexes: Learned indexes that match B-tree performance with 83x less space](https://pgm.di.unipi.it/)
 - [Peering agreements between Backblaze and Cloudflare](https://www.reddit.com/r/backblaze/comments/l2lq42/how_long_will_cloudflare_peering_stay_for/gk6qie0/)
 - [Applications of Deep Neural Networks v2 [pdf]](https://arxiv.org/abs/2009.05673)
-- [Need advice or assistance for son who is in prison](https://mathoverflow.net/questions/382003/need-advice-or-assistance-for-son-who-is-in-prison-his-interest-is-scattering-t)
 - [18.7 Million Americans Vaccinated](https://covidvaxcount.live/)
-- [Sales of electric cars up by 43% in 2020](https://www.theguardian.com/environment/2021/jan/19/global-sales-of-electric-cars-accelerate-fast-in-2020-despite-covid-pandemic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
