@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Ever Happened to ICQ? (2019)](https://www.techspot.com/article/1771-icq/)
+- [J one-page interpreter fragment (1992)](http://code.jsoftware.com/wiki/Essays/Incunabulum)
+- [SpaceX Starship SN9 High Altitude Test – Live [video]](https://www.youtube.com/watch?v=NtGutb1R5cQ)
+- [MasterCard to increase fees for UK purchases from EU](https://www.ft.com/content/39f553a0-00c5-48ad-a8ee-0b9fd75554b0)
 - [Senior Fullstack Engineer – Back End Focus (Rails/React/AWS/K8s)](https://releaseapp.io/company#jobs)
-- [It’s always windy somewhere: Balancing renewable energy in Europe (2017)](https://arstechnica.com/science/2017/07/its-always-windy-somewhere-balancing-renewable-energy-in-europe/)
-- [Food delivery startup Wolt raises $530m](https://sifted.eu/articles/wolt-530m-raise/)
-- [Matrix.org Foundation accounts filing overdue by three months](https://github.com/matrix-org/matrix-doc/issues/2378#issuecomment-766714945)
-- [How to reform the attention economy business model of Big Tech](https://www.technologyreview.com/2021/01/10/1015934/facebook-twitter-youtube-big-tech-attention-economy-reform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
