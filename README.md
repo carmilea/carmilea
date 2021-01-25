@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [App suspended from Google Play for listing supported subtitle formats](https://github.com/moneytoo/Player/issues/37)
-- [Birdwatch, a community-based approach to misinformation](https://blog.twitter.com/en_us/topics/product/2021/introducing-birdwatch-a-community-based-approach-to-misinformation.html)
-- [Operant Conditioning by Software Bugs (2012)](https://blog.regehr.org/archives/861)
-- [Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/)
-- [Otokichi](https://en.wikipedia.org/wiki/Otokichi)
+- [Birdwatch Overview](https://twitter.github.io/birdwatch/about/overview/)
+- [The Nihilism of R/Wallstreetbets](https://jeromysonne.com/the-nihilism-of-r-wallstreetbets/)
+- [What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967/)
+- [The Year of Grinding Teeth](https://www.theparisreview.org/blog/2021/01/21/the-year-of-grinding-teeth/)
+- [Myopia correcting 'smart glasses' from Japan to be sold in Asia](https://asia.nikkei.com/Business/Health-Care/Myopia-correcting-smart-glasses-from-Japan-to-be-sold-in-Asia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
