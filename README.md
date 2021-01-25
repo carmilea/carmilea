@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coffee Meets Bagel's Big Postgres Upgrade](https://tech.coffeemeetsbagel.com/our-journey-to-postgresql-12-3d6ee15d305a)
+- [Dinosaur Unearthed in Argentina Could Be Largest Land Animal Ever](https://www.smithsonianmag.com/smart-news/dinosaur-unearthed-argentina-could-be-largest-land-animal-ever-180976813/)
 - [Right to Repair off to the races in 2021 with 14 active states](https://uspirg.org/blogs/blog/usp/right-repair-races-2021-14-active-states)
+- [Replacing Dropbox in favor of DigitalOcean spaces](https://mitjafelicijan.com/replacing-dropbox-in-favor-of-digitalocean-spaces.html)
 - [The day my voice broke](https://www.theguardian.com/music/2021/jan/19/vocal-polyps-injury-singing-john-colapinto-steven-zeitels?src=longreads)
-- [Reflect (no-code test automation platform) is hiring our first account executive](https://www.workatastartup.com/jobs/41675)
-- [First atomic clock wristwatch (2003)](http://leapsecond.com/pages/atomic-bill/)
-- [Birdwatch Overview](https://twitter.github.io/birdwatch/about/overview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
