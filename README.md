@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We Crush, Poison, and Destroy Insects at Our Own Peril](http://m.nautil.us/issue/95/escape/we-crush-poison-and-destroy-insects-at-our-own-peril)
 - [Boeing 737 Max cleared to fly again 'too early'](https://www.bbc.co.uk/news/business-55751150)
 - [Opvia (YC S20) Is Hiring Full Stack Engineers in London](https://bookface.ycombinator.com/company/21909/jobs/32455)
+- [A Recursive Model learned index structure](https://github.com/BenJoyenConseil/rmi)
 - [Escaping the Roadmap Trap](https://productcrunch.substack.com/p/escaping-the-roadmap-trap)
-- [5nm in the USA: TSMC's Board Approves $3.5B Fab in Arizona](https://www.tomshardware.com/news/tsmc-arizona-fab-investment)
-- [PGM Indexes: Learned indexes that match B-tree performance with 83x less space](https://pgm.di.unipi.it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
