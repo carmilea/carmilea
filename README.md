@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Ever Happened to ICQ? (2019)](https://www.techspot.com/article/1771-icq/)
-- [J one-page interpreter fragment (1992)](http://code.jsoftware.com/wiki/Essays/Incunabulum)
-- [SpaceX Starship SN9 High Altitude Test – Live [video]](https://www.youtube.com/watch?v=NtGutb1R5cQ)
-- [MasterCard to increase fees for UK purchases from EU](https://www.ft.com/content/39f553a0-00c5-48ad-a8ee-0b9fd75554b0)
-- [Senior Fullstack Engineer – Back End Focus (Rails/React/AWS/K8s)](https://releaseapp.io/company#jobs)
+- [Find the best developer blogs on any tech stack](https://bloggingfordevs.com/trends/)
+- [A deeper dive into our May 2019 security incident](https://stackoverflow.blog/2021/01/25/a-deeper-dive-into-our-may-2019-security-incident/)
+- [Confession Of A C/C++ Programmer (2017)](https://robert.ocallahan.org/2017/07/confession-of-cc-programmer.html)
+- [Italy consumer association sues Apple for planned iPhone obsolescence](https://www.reuters.com/article/us-italy-apple-class-action-idUSKBN29U1BB)
+- [Gabe Newell on Brain Computer Interface Technology [video]](https://www.tvnz.co.nz/one-news/new-zealand/gabe-newell-says-brain-computer-interface-tech-allow-video-games-far-beyond-human-meat-peripherals-can-comprehend)
 <!-- BLOG-POST-LIST:END -->
 
 ---
