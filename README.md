@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing 737 Max cleared to fly again 'too early'](https://www.bbc.co.uk/news/business-55751150)
 - [Opvia (YC S20) Is Hiring Full Stack Engineers in London](https://bookface.ycombinator.com/company/21909/jobs/32455)
-- [Reserve – New Sam Altman backed stablecoin crypto project](https://reserve.org)
+- [Escaping the Roadmap Trap](https://productcrunch.substack.com/p/escaping-the-roadmap-trap)
 - [5nm in the USA: TSMC's Board Approves $3.5B Fab in Arizona](https://www.tomshardware.com/news/tsmc-arizona-fab-investment)
 - [PGM Indexes: Learned indexes that match B-tree performance with 83x less space](https://pgm.di.unipi.it/)
-- [Peering agreements between Backblaze and Cloudflare](https://www.reddit.com/r/backblaze/comments/l2lq42/how_long_will_cloudflare_peering_stay_for/gk6qie0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
