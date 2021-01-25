@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to reform the attention economy business model of Big Tech](https://www.technologyreview.com/2021/01/10/1015934/facebook-twitter-youtube-big-tech-attention-economy-reform/)
 - [We Crush, Poison, and Destroy Insects at Our Own Peril](http://m.nautil.us/issue/95/escape/we-crush-poison-and-destroy-insects-at-our-own-peril)
+- [CondensationDB: Build secure and collaborative apps [open-source]](https://github.com/CondensationDB/Condensation)
+- [Philosophy of Mathematics (SEP)](https://plato.stanford.edu/entries/philosophy-mathematics/)
 - [Boeing 737 Max cleared to fly again 'too early'](https://www.bbc.co.uk/news/business-55751150)
-- [Opvia (YC S20) Is Hiring Full Stack Engineers in London](https://bookface.ycombinator.com/company/21909/jobs/32455)
-- [A Recursive Model learned index structure](https://github.com/BenJoyenConseil/rmi)
-- [Escaping the Roadmap Trap](https://productcrunch.substack.com/p/escaping-the-roadmap-trap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
