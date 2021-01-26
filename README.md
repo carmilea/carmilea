@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox 85 Release Notes](https://www.mozilla.org/en-US/firefox/85.0/releasenotes/)
-- [Revue Is Joining Twitter](https://www.getrevue.co/profile/the_week_in_newsletters/issues/whew-309265)
-- [Timing matters when correcting fake news](https://www.pnas.org/content/118/5/e2020043118)
-- [UPS sells short-haul trucking business for $800M](https://news.bloomberglaw.com/mergers-and-acquisitions/ups-to-sell-trucking-unit-under-ceos-better-not-bigger-pledge?usertype=External&bwid=00000177-3a14-dd8f-adff-fa57a3300003&qid=7048241&cti=LSCH&uc=1320028586&et=NEWSLETTER&emc=mrnw_nl%3A10&source=newsletter&item=read-button&region=digest&access-ticket=eyJjdHh0IjoiTVJOVyIsImlkIjoiMDAwMDAxNzctM2ExNC1kZDhmLWFkZmYtZmE1N2EzMzAwMDAzIiwic2lnIjoiWHRNNjRMR3RveTVLbDRYVC85UHNUOWFPSVlvPSIsInRpbWUiOiIxNjExNjY0MTA5IiwidXVpZCI6IlpUVVBud3BJcEU2R3pXLzFwZCs2bWc9PUt5UFVzakNwa0xOcDA0dVB4bGRlSkE9PSIsInYiOiIxIn0%3D)
-- [What I Learned from Google for Startups Founders Academy](https://blog.google/outreach-initiatives/entrepreneurs/google-startups-founders-academy/)
+- [Show HN: A worker owned (CO-OP) version of Amazon but for sustainable products](https://thesustainablecoopstore.splashthat.com/)
+- [Data Visualization and the Modern Imagination](https://exhibits.stanford.edu/dataviz/)
+- [Facebook restores service to socialist pages, claiming “automation error”](https://www.wsws.org/en/articles/2021/01/26/pers-j26.html)
+- [100 years later, the dystopian origin of the word ‘robot’ still rings true](https://qz.com/1956974/where-the-word-robot-comes-from/)
+- [Firefox 85](https://www.mozilla.org/en-US/firefox/85.0/releasenotes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
