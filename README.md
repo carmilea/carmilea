@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Decentro (YC S20) Is Hiring](https://www.workatastartup.com/jobs/41750)
 - [The Endless Browser Wars](https://lwn.net/SubscriberLink/843607/6c830d9c90684026/)
-- [Mozilla announces Open Web Docs](https://hacks.mozilla.org/2021/01/welcoming-open-web-docs-to-the-mdn-family/)
 - [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
-- [OneSignal Is Hiring Engineers in California, New York, Texas, and the UK](https://onesignal.com/careers)
 - [New campaign targeting security researchers](https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/)
+- [Time-lapse of a single cell transforming into a salamander (2019)](https://www.nationalgeographic.com/animals/2019/02/time-lapse-film-shows-salamander-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
