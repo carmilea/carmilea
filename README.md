@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Coffee Meets Bagel's Big Postgres Upgrade](https://tech.coffeemeetsbagel.com/our-journey-to-postgresql-12-3d6ee15d305a)
-- [Dinosaur Unearthed in Argentina Could Be Largest Land Animal Ever](https://www.smithsonianmag.com/smart-news/dinosaur-unearthed-argentina-could-be-largest-land-animal-ever-180976813/)
-- [Right to Repair off to the races in 2021 with 14 active states](https://uspirg.org/blogs/blog/usp/right-repair-races-2021-14-active-states)
-- [Replacing Dropbox in favor of DigitalOcean spaces](https://mitjafelicijan.com/replacing-dropbox-in-favor-of-digitalocean-spaces.html)
-- [The day my voice broke](https://www.theguardian.com/music/2021/jan/19/vocal-polyps-injury-singing-john-colapinto-steven-zeitels?src=longreads)
+- [Future Plans for Autotools](https://lists.gnu.org/archive/html/autoconf/2021-01/msg00049.html)
+- [Time-lapse of a single cell transforming into a salamander (2019)](https://www.nationalgeographic.com/animals/2019/02/time-lapse-film-shows-salamander-development/)
+- [Our Journey to PostgreSQL 12](https://tech.coffeemeetsbagel.com/our-journey-to-postgresql-12-3d6ee15d305a)
+- [Collapse OS – bootstrap post-collapse technology](https://collapseos.org/)
+- [Dinosaur unearthed in Argentina could be largest land animal ever](https://www.smithsonianmag.com/smart-news/dinosaur-unearthed-argentina-could-be-largest-land-animal-ever-180976813/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
