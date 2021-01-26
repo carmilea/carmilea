@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plex Arcade](https://www.plex.tv/blog/game-on-a-plex-blog-story/)
+- [Internet outages hit the East Coast, causing issues for Verizon, Zoom, etc.](https://www.washingtonpost.com/technology/2021/01/26/internet-outage-east-coast/)
 - [Claude Shannon Demonstrates Machine Learning (1952)](https://techchannel.att.com/play-video.cfm/2010/3/16/In-Their-Own-Words-Claude-Shannon-Demonstrates-Machine-Learning)
 - [Gitlab is moving to a three-tier product subscription model](https://about.gitlab.com/blog/2021/01/26/new-gitlab-product-subscription-model/)
 - [Topology 101: The Hole Truth](https://www.quantamagazine.org/topology-101-how-mathematicians-study-holes-20210126/)
-- [UserGems (YC S14) Is Hiring 2nd and 3rd Account Executive (Remote, US)](https://www.usergems.com/careers/account-executive)
-- [Load balancing and its different types](https://www.wisdomgeek.com/development/software-architecture/load-balancing-and-its-different-types/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
