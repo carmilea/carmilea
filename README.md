@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to stop another 'Day Zero'](https://www.bbc.com/future/article/20210105-day-zero-how-chennais-wetlands-could-save-it-from-drought)
+- [Mozilla announces Open Web Docs](https://hacks.mozilla.org/2021/01/welcoming-open-web-docs-to-the-mdn-family/)
 - [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
 - [OneSignal Is Hiring Engineers in California, New York, Texas, and the UK](https://onesignal.com/careers)
 - [The Battle Inside Signal](https://www.platformer.news/p/-the-battle-inside-signal)
