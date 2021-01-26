@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Radar (YC W13) Is Hiring](https://www.workatastartup.com/jobs/41758)
+- [Spectrum2_signald: An XMPP/Signal gateway (pre-alpha version)](https://gitlab.com/nicocool84/spectrum2_signald/)
+- [Nq – a simple Unix job queue system](https://github.com/leahneukirchen/nq)
+- [The Serval WS from System76: A Powerful Linux Workstation Running PopOS](https://boilingsteam.com/the-serval-ws-a-powerful-linux-workstation-review/)
 - [Baron Samedit: Heap-based buffer overflow in Sudo (CVE-2021-3156)](https://www.openwall.com/lists/oss-security/2021/01/26/3)
-- [Plex Arcade](https://www.plex.tv/blog/game-on-a-plex-blog-story/)
-- [Internet outages hit the East Coast, causing issues for Verizon, Zoom, etc.](https://www.washingtonpost.com/technology/2021/01/26/internet-outage-east-coast/)
-- [Claude Shannon Demonstrates Machine Learning (1952)](https://techchannel.att.com/play-video.cfm/2010/3/16/In-Their-Own-Words-Claude-Shannon-Demonstrates-Machine-Learning)
-- [Gitlab is moving to a three-tier product subscription model](https://about.gitlab.com/blog/2021/01/26/new-gitlab-product-subscription-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
