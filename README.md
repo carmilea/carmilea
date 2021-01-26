@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What does the night sky look like on Mars?](https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars/)
 - [Radar (YC W13) Is Hiring](https://www.workatastartup.com/jobs/41758)
-- [Spectrum2_signald: An XMPP/Signal gateway (pre-alpha version)](https://gitlab.com/nicocool84/spectrum2_signald/)
 - [Nq – a simple Unix job queue system](https://github.com/leahneukirchen/nq)
-- [The Serval WS from System76: A Powerful Linux Workstation Running PopOS](https://boilingsteam.com/the-serval-ws-a-powerful-linux-workstation-review/)
 - [Baron Samedit: Heap-based buffer overflow in Sudo (CVE-2021-3156)](https://www.openwall.com/lists/oss-security/2021/01/26/3)
+- [CVE-2021-3156: Heap-Based Buffer Overflow in Sudo](https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
