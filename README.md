@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UPS sells short-haul trucking business for $800M](https://news.bloomberglaw.com/mergers-and-acquisitions/ups-to-sell-trucking-unit-under-ceos-better-not-bigger-pledge?usertype=External&bwid=00000177-3a14-dd8f-adff-fa57a3300003&qid=7048241&cti=LSCH&uc=1320028586&et=NEWSLETTER&emc=mrnw_nl%3A10&source=newsletter&item=read-button&region=digest&access-ticket=eyJjdHh0IjoiTVJOVyIsImlkIjoiMDAwMDAxNzctM2ExNC1kZDhmLWFkZmYtZmE1N2EzMzAwMDAzIiwic2lnIjoiWHRNNjRMR3RveTVLbDRYVC85UHNUOWFPSVlvPSIsInRpbWUiOiIxNjExNjY0MTA5IiwidXVpZCI6IlpUVVBud3BJcEU2R3pXLzFwZCs2bWc9PUt5UFVzakNwa0xOcDA0dVB4bGRlSkE9PSIsInYiOiIxIn0%3D)
+- [Air pollution linked to higher risk of irreversible sight loss](https://www.theguardian.com/environment/2021/jan/26/air-pollution-linked-to-higher-risk-of-irreversible-sight-loss)
+- [Postgres Scaling Advice for 2021](https://www.cybertec-postgresql.com/en/postgres-scaling-advice-for-2021/)
+- [Making Twitter a better home for writers](https://blog.twitter.com/en_us/topics/company/2021/making-twitter-a-better-home-for-writers.html)
 - [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [Red Hat simply refused to invest in CentOS Linux – interview](https://www.theregister.com/2021/01/26/killing_centos/)
-- [MasterCard to push up fees for UK purchases from EU due to Brexit](https://www.bbc.com/news/business-55796426)
-- [System separation in Europe Synchronous Area on 8 January 2021 – 2nd update](https://www.entsoe.eu/news/2021/01/26/system-separation-in-the-continental-europe-synchronous-area-on-8-january-2021-2nd-update/)
-- [Greens: Why we eat the leaves that we do (2013)](https://botanistinthekitchen.blog/2013/04/08/greens-why-we-eat-the-leaves-that-we-do/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
