@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
 - [OneSignal Is Hiring Engineers in California, New York, Texas, and the UK](https://onesignal.com/careers)
-- [The Battle of GameStop: How Reddit Is Taking on Wall Street – and Winning](https://paranoidenough.com/2021/01/25/The-Battle-of-Gamestop.html)
-- [“The Big Shift.” Internal Facebook Memo Tells Employees to Do Better on Privacy](https://bigtechnology.substack.com/p/the-big-shift-internal-facebook-memo)
+- [The Battle Inside Signal](https://www.platformer.news/p/-the-battle-inside-signal)
+- [New campaign targeting security researchers](https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/)
 - [Future Plans for Autotools](https://lists.gnu.org/archive/html/autoconf/2021-01/msg00049.html)
-- [Time-lapse of a single cell transforming into a salamander (2019)](https://www.nationalgeographic.com/animals/2019/02/time-lapse-film-shows-salamander-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
