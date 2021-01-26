@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: A worker owned (CO-OP) version of Amazon but for sustainable products](https://thesustainablecoopstore.splashthat.com/)
+- [Backblaze Hard Drive Stats for 2020](https://www.backblaze.com/blog/backblaze-hard-drive-stats-for-2020/)
+- [Launch HN: Airbyte (YC W20) – Open-Source ELT (Fivetran/Stitch Alternative)](https://news.ycombinator.com/item?id=25917403)
+- [Tips for Debugging Kubernetes CrashLoopBackOff](https://releaseapp.io/blog/kubernetes-how-to-debug-crashloopbackoff-in-a-container)
+- [Show HN: A worker owned (co-op) store for sustainable products](https://thesustainablecoopstore.splashthat.com/)
 - [Data Visualization and the Modern Imagination](https://exhibits.stanford.edu/dataviz/)
-- [Facebook restores service to socialist pages, claiming “automation error”](https://www.wsws.org/en/articles/2021/01/26/pers-j26.html)
-- [100 years later, the dystopian origin of the word ‘robot’ still rings true](https://qz.com/1956974/where-the-word-robot-comes-from/)
-- [Firefox 85](https://www.mozilla.org/en-US/firefox/85.0/releasenotes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
