@@ -54,8 +54,8 @@
 - [Decentro (YC S20) Is Hiring](https://www.workatastartup.com/jobs/41750)
 - [The Endless Browser Wars](https://lwn.net/SubscriberLink/843607/6c830d9c90684026/)
 - [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
+- [The Battle of GameStop](https://paranoidenough.com/2021/01/25/The-Battle-of-Gamestop.html)
 - [New campaign targeting security researchers](https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/)
-- [Time-lapse of a single cell transforming into a salamander (2019)](https://www.nationalgeographic.com/animals/2019/02/time-lapse-film-shows-salamander-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
