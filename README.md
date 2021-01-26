@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to stop another 'Day Zero'](https://www.bbc.com/future/article/20210105-day-zero-how-chennais-wetlands-could-save-it-from-drought)
 - [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
 - [OneSignal Is Hiring Engineers in California, New York, Texas, and the UK](https://onesignal.com/careers)
 - [The Battle Inside Signal](https://www.platformer.news/p/-the-battle-inside-signal)
 - [New campaign targeting security researchers](https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/)
-- [Future Plans for Autotools](https://lists.gnu.org/archive/html/autoconf/2021-01/msg00049.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
