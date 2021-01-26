@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal Is Hiring Engineers in California, New York, Texas, and the UK](https://onesignal.com/careers)
+- [The Battle of GameStop: How Reddit Is Taking on Wall Street – and Winning](https://paranoidenough.com/2021/01/25/The-Battle-of-Gamestop.html)
+- [“The Big Shift.” Internal Facebook Memo Tells Employees to Do Better on Privacy](https://bigtechnology.substack.com/p/the-big-shift-internal-facebook-memo)
 - [Future Plans for Autotools](https://lists.gnu.org/archive/html/autoconf/2021-01/msg00049.html)
 - [Time-lapse of a single cell transforming into a salamander (2019)](https://www.nationalgeographic.com/animals/2019/02/time-lapse-film-shows-salamander-development/)
-- [Our Journey to PostgreSQL 12](https://tech.coffeemeetsbagel.com/our-journey-to-postgresql-12-3d6ee15d305a)
-- [Collapse OS – bootstrap post-collapse technology](https://collapseos.org/)
-- [Dinosaur unearthed in Argentina could be largest land animal ever](https://www.smithsonianmag.com/smart-news/dinosaur-unearthed-argentina-could-be-largest-land-animal-ever-180976813/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
