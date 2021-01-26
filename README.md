@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UserGems (YC S14) Is Hiring 2nd and 3rd Account Executive (Remote, US)](https://www.usergems.com/careers/account-executive)
+- [Load balancing and its different types](https://www.wisdomgeek.com/development/software-architecture/load-balancing-and-its-different-types/)
+- [FiOS service disruption in Northeast US](https://istheservicedown.com/problems/verizon-fios/map)
+- [We rendered a million web pages to find out what makes the web slow](https://catchjs.com/Blog/PerformanceInTheWild)
 - [Backblaze Hard Drive Stats for 2020](https://www.backblaze.com/blog/backblaze-hard-drive-stats-for-2020/)
-- [Launch HN: Airbyte (YC W20) – Open-Source ELT (Fivetran/Stitch Alternative)](https://news.ycombinator.com/item?id=25917403)
-- [Tips for Debugging Kubernetes CrashLoopBackOff](https://releaseapp.io/blog/kubernetes-how-to-debug-crashloopbackoff-in-a-container)
-- [Show HN: A worker owned (co-op) store for sustainable products](https://thesustainablecoopstore.splashthat.com/)
-- [Data Visualization and the Modern Imagination](https://exhibits.stanford.edu/dataviz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
