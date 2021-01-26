@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Endless Browser Wars](https://lwn.net/SubscriberLink/843607/6c830d9c90684026/)
 - [Mozilla announces Open Web Docs](https://hacks.mozilla.org/2021/01/welcoming-open-web-docs-to-the-mdn-family/)
 - [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
 - [OneSignal Is Hiring Engineers in California, New York, Texas, and the UK](https://onesignal.com/careers)
-- [The Battle Inside Signal](https://www.platformer.news/p/-the-battle-inside-signal)
 - [New campaign targeting security researchers](https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/)
 <!-- BLOG-POST-LIST:END -->
 
