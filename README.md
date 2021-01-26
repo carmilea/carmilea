@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [Red Hat simply refused to invest in CentOS Linux – interview](https://www.theregister.com/2021/01/26/killing_centos/)
+- [MasterCard to push up fees for UK purchases from EU due to Brexit](https://www.bbc.com/news/business-55796426)
 - [System separation in Europe Synchronous Area on 8 January 2021 – 2nd update](https://www.entsoe.eu/news/2021/01/26/system-separation-in-the-continental-europe-synchronous-area-on-8-january-2021-2nd-update/)
-- [The Epic, Absurdly Complex Battle Between a Zombie Maker and Its Victim](https://www.scientificamerican.com/article/the-epic-absurdly-complex-battle-between-a-zombie-maker-and-its-victim/)
 - [Greens: Why we eat the leaves that we do (2013)](https://botanistinthekitchen.blog/2013/04/08/greens-why-we-eat-the-leaves-that-we-do/)
-- [Grindr app issued an almost 10mil EUR GDPR fine by Norway](https://noyb.eu/en/gay-dating-app-grindr-be-fined-almost-eu-10-mio)
-- [Todo List for Vim](https://vimhelp.org/todo.txt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
