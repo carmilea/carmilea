@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Pros and Cons of DRY Code](https://qvault.io/2021/01/25/the-pros-and-cons-of-dry-code/)
+- [Evcxr: A Rust REPL and Jupyter Kernel](https://github.com/google/evcxr)
 - [What does the night sky look like on Mars?](https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars/)
 - [Radar (YC W13) Is Hiring](https://www.workatastartup.com/jobs/41758)
-- [Nq – a simple Unix job queue system](https://github.com/leahneukirchen/nq)
-- [Baron Samedit: Heap-based buffer overflow in Sudo (CVE-2021-3156)](https://www.openwall.com/lists/oss-security/2021/01/26/3)
-- [CVE-2021-3156: Heap-Based Buffer Overflow in Sudo](https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit)
+- [A Map of Mathematics](https://mathmap.quantamagazine.org/map/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
