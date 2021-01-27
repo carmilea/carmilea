@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CrateDB Doubling Down on Permissive Licensing and the Elasticsearch Lockdow](https://crate.io/a/cratedb-doubling-down-on-permissive-licensing-and-the-elasticsearch-lockdown/)
+- [Stop Doing MOOCs, YouTube Courses, etc.](https://eugeneyan.com/writing/you-dont-need-another-mooc/)
+- [Gitlab removes its 'starter' tier Users must either pay 5x more or lose features](https://www.theregister.com/2021/01/27/gitlab_removes_starter_tier/)
 - [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
-- [How r/WallStreetBets gamed the stock of GameStop](https://www.theverge.com/22251427/reddit-gamestop-stock-short-wallstreetbets-robinhood-wall-street)
-- [Tesla’s Charging Stations Left Other Manufacturers in the Dust](https://hbr.org/2021/01/how-teslas-charging-stations-left-other-manufacturers-in-the-dust)
-- [Data fetching on the web still sucks](https://performancejs.com/post/hde6a90/Data-Fetching-on-the-Web-Still-Sucks)
-- [Syngen: A library for audio game development](https://shiftbacktick.io/code/2020/10/31/introducing-syngen.html)
+- [Show HN: My bi-weekly newsletter on all things Elixir and Erlang](https://www.getrevue.co/profile/this-week-in-elixir-and-erlang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
