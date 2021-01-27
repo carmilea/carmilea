@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Telephoto fear: how lenses affect views of crowds](https://mainichi.jp/english/articles/20210126/p2a/00m/0op/009000c)
 - [Visual Tcl](http://vtcl.sourceforge.net/?x=screen)
 - [IKEA Buys 11,000 Acres of U.S. Forest to Keep It from Being Developed](https://www.goodnewsnetwork.org/ikea-buys-forest-in-georgia/?)
 - [AMD Reports Q4/FY 2020 Earnings: Record Revenues Repeat](https://www.anandtech.com/show/16455/amd-reports-q4fy-2020-earnings-record-revenues-repeat)
 - [A Peek into the Future of Distros](https://venam.nixers.net/blog/programming/2021/01/26/future-of-distros.html)
-- [Crony Beliefs](https://meltingasphalt.com/crony-beliefs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
