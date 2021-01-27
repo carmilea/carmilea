@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WebRTC is now a W3C and IETF standard](https://web.dev/webrtc-standard-announcement/)
 - [Mark Cuban launches a transparent, low cost generic drug company](https://costplusdrugs.com/)
 - [CrateDB Doubling Down on Permissive Licensing and the Elasticsearch Lockdow](https://crate.io/a/cratedb-doubling-down-on-permissive-licensing-and-the-elasticsearch-lockdown/)
-- [Stop Doing MOOCs, YouTube Courses, etc.](https://eugeneyan.com/writing/you-dont-need-another-mooc/)
-- [Social Media Influencer Charged with Election Interference](https://www.justice.gov/opa/pr/social-media-influencer-charged-election-interference-stemming-voter-disinformation-campaign)
+- [Most of the time, we don’t really need another MOOC](https://eugeneyan.com/writing/you-dont-need-another-mooc/)
 - [Gitlab removes its 'starter' tier Users must either pay 5x more or lose features](https://www.theregister.com/2021/01/27/gitlab_removes_starter_tier/)
 <!-- BLOG-POST-LIST:END -->
 
