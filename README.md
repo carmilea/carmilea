@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Very Detailed Guide on Split Keyboards and How to Build Them](https://github.com/diimdeep/awesome-split-keyboards)
+- [Agent Fired from Literary Agency for Using Parler and Gab](https://www.newsweek.com/agent-fired-literary-agency-using-parler-gab-1564687)
+- [Big Ideas 2021 [pdf]](https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARK%E2%80%93Invest_BigIdeas_2021.pdf)
+- [Mother's blood test predicts a sub-type of autism](https://www.nature.com/articles/s41380-020-00998-8)
 - [The Pros and Cons of DRY Code](https://qvault.io/2021/01/25/the-pros-and-cons-of-dry-code/)
-- [Evcxr: A Rust REPL and Jupyter Kernel](https://github.com/google/evcxr)
-- [What does the night sky look like on Mars?](https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars/)
-- [Radar (YC W13) Is Hiring](https://www.workatastartup.com/jobs/41758)
-- [A Map of Mathematics](https://mathmap.quantamagazine.org/map/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
