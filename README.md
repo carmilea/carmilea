@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Peek into the Future of Distros](https://venam.nixers.net/blog/programming/2021/01/26/future-of-distros.html)
 - [Crony Beliefs](https://meltingasphalt.com/crony-beliefs)
-- [Why Create a New Unix Shell?](http://www.oilshell.org/blog/2021/01/why-a-new-shell.html)
-- [Why Does It Take So Long to Build Software](https://www.simplethread.com/why-does-it-take-so-long-to-build-software/)
+- [AMD Ryzen 9 5980HS Cezanne Review: Ryzen 5000 Mobile Tested](https://www.anandtech.com/print/16446/amd-ryzen-9-5980hs-cezanne-review-ryzen-5000-mobile-tested)
+- [Why does it take so long to build software? (2020)](https://www.simplethread.com/why-does-it-take-so-long-to-build-software/)
 - [The Culture War: Iain M. Banks’s Billionaire Fans](https://bloodknife.com/culture-war-iain-m-banks-jeff-bezos/)
-- [Frugal Web Browser: A Design Experiment](https://frugalweb.xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
