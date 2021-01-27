@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Silicon Valley is shutting down speech loopholes. Latest target: live content](https://taibbi.substack.com/p/meet-the-censored-status-coup)
+- [Crony Beliefs](https://meltingasphalt.com/crony-beliefs)
+- [Why Create a New Unix Shell?](http://www.oilshell.org/blog/2021/01/why-a-new-shell.html)
+- [Why Does It Take So Long to Build Software](https://www.simplethread.com/why-does-it-take-so-long-to-build-software/)
+- [The Culture War: Iain M. Banks’s Billionaire Fans](https://bloodknife.com/culture-war-iain-m-banks-jeff-bezos/)
 - [Frugal Web Browser: A Design Experiment](https://frugalweb.xyz/)
-- [CircuitPython: Programming Hardware in Python](https://github.com/adafruit/circuitpython)
-- [A minimalistic site to vent and see others doing the same in realtime](https://www.ventscape.life/)
-- [A worry junior engineers frequently have is that they ask too many questions](https://twitter.com/EvyKassirer/status/1220556930675904516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
