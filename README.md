@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GameStop Opened at $300+ Today](https://imgur.com/gallery/JBejsIL)
+- [My child has two parents. Why does day care call only me? (2018)](https://www.washingtonpost.com/outlook/my-child-has-two-parents-why-does-day-care-call-only-me/2018/09/25/6b6e46b0-b076-11e8-a20b-5f4f84429666_story.html)
+- [Ask HN: Questions to ask a company to know you don't want to work there?](https://news.ycombinator.com/item?id=25928641)
 - [Social media damages teenagers' mental health, report says](https://www.bbc.com/news/technology-55826238)
-- [Sealioning](https://en.wikipedia.org/wiki/Sealioning)
-- [Secret Ingredient Found to Power Supernovas](https://www.quantamagazine.org/supercomputer-simulations-reveal-the-power-inside-a-supernova-20210121/)
-- [Made in the USA: Socialism for the Rich. Capitalism for the Rest](https://www.nytimes.com/2021/01/26/opinion/us-capitalism-socialism.html)
-- [Twitter improves API usage for researchers](https://blog.twitter.com/developer/en_us/topics/tips/2021/enabling-the-future-of-academic-research-with-the-twitter-api.html)
+- [Topology 101: How Mathematicians Study Holes](https://www.quantamagazine.org/topology-101-how-mathematicians-study-holes-20210126/?mc_cid=ab08c41b0f&mc_eid=8663481594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
