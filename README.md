@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Frugal Web Browser: A Design Experiment](https://frugalweb.xyz/)
+- [CircuitPython: Programming Hardware in Python](https://github.com/adafruit/circuitpython)
+- [A minimalistic site to vent and see others doing the same in realtime](https://www.ventscape.life/)
 - [A Very Detailed Guide on Split Keyboards and How to Build Them](https://github.com/diimdeep/awesome-split-keyboards)
-- [Agent Fired from Literary Agency for Using Parler and Gab](https://www.newsweek.com/agent-fired-literary-agency-using-parler-gab-1564687)
 - [Big Ideas 2021 [pdf]](https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARK%E2%80%93Invest_BigIdeas_2021.pdf)
-- [Mother's blood test predicts a sub-type of autism](https://www.nature.com/articles/s41380-020-00998-8)
-- [The Pros and Cons of DRY Code](https://qvault.io/2021/01/25/the-pros-and-cons-of-dry-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
