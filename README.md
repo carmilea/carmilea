@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Soteris (YC S19) Is Hiring Employees #4-5 – cloud and data infra](https://www.workatastartup.com/companies/12609)
-- [Zombie fires in northeastern Yakutia continue to burn at air temperature of -50C](https://siberiantimes.com/other/others/news/peat-fires-continue-to-burn-at-air-temperature-of-50c-in-northeastern-yakutia/)
-- [Cannes: Machine learning saves Dropbox $1.7M a year on document previews](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
-- [OO in Python is mostly pointless](https://leontrolski.github.io/mostly-pointless.html)
-- [WebRTC is now a W3C and IETF standard](https://web.dev/webrtc-standard-announcement/)
+- [Facebook Q4 2020 earnings [pdf]](https://s21.q4cdn.com/399680738/files/doc_financials/2020/q4/FB-12.31.2020-Exhibit-99.1.pdf)
+- [Opening Up the Samsung Q60 Series Smart TV](https://labs.f-secure.com/blog/samsung-q60r-smart-tv-opening-up-the-samsung-q60-series-smart-tv/)
+- [Show HN: My multiplayer custom-engine game that loads in less than a second](http://vnav.io)
+- [Apple First Quarter Results](https://www.apple.com/newsroom/2021/01/apple-reports-first-quarter-results/)
+- [Historical Dictionary of Science Fiction](https://sfdictionary.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
