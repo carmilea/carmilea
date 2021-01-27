@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Get started with #SingleStore in #JavaScript and #Node](https://www.youtube.com/watch?v=NvgVx9wmb3k)
 - [Loading #Geography Data into #SingleStore](https://www.youtube.com/watch?v=h5cbNatDYlA)
 - [Customer Impact Story: True Digital Group](https://www.youtube.com/watch?v=EwNMO2YFe10)
 - [Get started with #SingleStore in C# and .NET using #Dapper](https://www.youtube.com/watch?v=o5nebzLQ-aE)
 - [Get started with #SingleStore in C# and .NET using #EntityFramework](https://www.youtube.com/watch?v=FC4pc-fcTro)
-- [Get started with #SingleStore #StoredProcedures in C# and .NET](https://www.youtube.com/watch?v=Mk--pJsB3y4)
 <!-- YOUTUBE:END -->
 
 
