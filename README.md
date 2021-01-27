@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Visual Tcl](http://vtcl.sourceforge.net/?x=screen)
+- [IKEA Buys 11,000 Acres of U.S. Forest to Keep It from Being Developed](https://www.goodnewsnetwork.org/ikea-buys-forest-in-georgia/?)
+- [AMD Reports Q4/FY 2020 Earnings: Record Revenues Repeat](https://www.anandtech.com/show/16455/amd-reports-q4fy-2020-earnings-record-revenues-repeat)
 - [A Peek into the Future of Distros](https://venam.nixers.net/blog/programming/2021/01/26/future-of-distros.html)
 - [Crony Beliefs](https://meltingasphalt.com/crony-beliefs)
-- [AMD Ryzen 9 5980HS Cezanne Review: Ryzen 5000 Mobile Tested](https://www.anandtech.com/print/16446/amd-ryzen-9-5980hs-cezanne-review-ryzen-5000-mobile-tested)
-- [Why does it take so long to build software? (2020)](https://www.simplethread.com/why-does-it-take-so-long-to-build-software/)
-- [The Culture War: Iain M. Banks’s Billionaire Fans](https://bloodknife.com/culture-war-iain-m-banks-jeff-bezos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
