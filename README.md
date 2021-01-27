@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Social media damages teenagers' mental health, report says](https://www.bbc.com/news/technology-55826238)
+- [Sealioning](https://en.wikipedia.org/wiki/Sealioning)
+- [Secret Ingredient Found to Power Supernovas](https://www.quantamagazine.org/supercomputer-simulations-reveal-the-power-inside-a-supernova-20210121/)
 - [Made in the USA: Socialism for the Rich. Capitalism for the Rest](https://www.nytimes.com/2021/01/26/opinion/us-capitalism-socialism.html)
 - [Twitter improves API usage for researchers](https://blog.twitter.com/developer/en_us/topics/tips/2021/enabling-the-future-of-academic-research-with-the-twitter-api.html)
-- [Vue Native](https://vue-native.io/)
-- [Memfault (YC W19) Is Hiring Back End Engineers in Boston](https://www.workatastartup.com/jobs/32116)
-- [Telephoto fear: how lenses affect views of crowds](https://mainichi.jp/english/articles/20210126/p2a/00m/0op/009000c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
