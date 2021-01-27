@@ -54,8 +54,8 @@
 - [Silicon Valley is shutting down speech loopholes. Latest target: live content](https://taibbi.substack.com/p/meet-the-censored-status-coup)
 - [Frugal Web Browser: A Design Experiment](https://frugalweb.xyz/)
 - [CircuitPython: Programming Hardware in Python](https://github.com/adafruit/circuitpython)
-- [Navy “UFO Patent” Documents Talk of “Spacetime Modification Weapon”](https://www.thedrive.com/the-war-zone/38937/navy-ufo-patent-documents-talk-of-spacetime-modification-weapon-detail-experimental-testing)
 - [A minimalistic site to vent and see others doing the same in realtime](https://www.ventscape.life/)
+- [A worry junior engineers frequently have is that they ask too many questions](https://twitter.com/EvyKassirer/status/1220556930675904516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
