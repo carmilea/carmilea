@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GameStop Is Rage Against the Financial Machine](https://www.bloomberg.com/opinion/articles/2021-01-27/gamestop-short-squeeze-is-rage-against-the-financial-machine)
+- [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
+- [How r/WallStreetBets gamed the stock of GameStop](https://www.theverge.com/22251427/reddit-gamestop-stock-short-wallstreetbets-robinhood-wall-street)
+- [Tesla’s Charging Stations Left Other Manufacturers in the Dust](https://hbr.org/2021/01/how-teslas-charging-stations-left-other-manufacturers-in-the-dust)
 - [Data fetching on the web still sucks](https://performancejs.com/post/hde6a90/Data-Fetching-on-the-Web-Still-Sucks)
-- [Launch HN: Axle Health (YC W21) – In-Home Healthcare as a Service](https://news.ycombinator.com/item?id=25930061)
-- [U.S. Suffers Sharpest Rise in Poverty Rate in More Than 50 Years](https://www.bloomberg.com/news/articles/2021-01-25/u-s-suffers-sharpest-rise-in-poverty-rate-in-more-than-50-years)
-- [My 2 Year Journey to $10K MRR](https://www.bannerbear.com/journey-to-10k-mrr/)
+- [Syngen: A library for audio game development](https://shiftbacktick.io/code/2020/10/31/introducing-syngen.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
