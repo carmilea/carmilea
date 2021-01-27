@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GameStop Opened at $300+ Today](https://imgur.com/gallery/JBejsIL)
-- [My child has two parents. Why does day care call only me? (2018)](https://www.washingtonpost.com/outlook/my-child-has-two-parents-why-does-day-care-call-only-me/2018/09/25/6b6e46b0-b076-11e8-a20b-5f4f84429666_story.html)
-- [Ask HN: Questions to ask a company to know you don't want to work there?](https://news.ycombinator.com/item?id=25928641)
-- [Social media damages teenagers' mental health, report says](https://www.bbc.com/news/technology-55826238)
-- [Topology 101: How Mathematicians Study Holes](https://www.quantamagazine.org/topology-101-how-mathematicians-study-holes-20210126/?mc_cid=ab08c41b0f&mc_eid=8663481594)
+- [GameStop Is Rage Against the Financial Machine](https://www.bloomberg.com/opinion/articles/2021-01-27/gamestop-short-squeeze-is-rage-against-the-financial-machine)
+- [Data fetching on the web still sucks](https://performancejs.com/post/hde6a90/Data-Fetching-on-the-Web-Still-Sucks)
+- [Launch HN: Axle Health (YC W21) – In-Home Healthcare as a Service](https://news.ycombinator.com/item?id=25930061)
+- [U.S. Suffers Sharpest Rise in Poverty Rate in More Than 50 Years](https://www.bloomberg.com/news/articles/2021-01-25/u-s-suffers-sharpest-rise-in-poverty-rate-in-more-than-50-years)
+- [My 2 Year Journey to $10K MRR](https://www.bannerbear.com/journey-to-10k-mrr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
