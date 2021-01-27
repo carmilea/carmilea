@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [One-third of tech workers admit to working only 3 to 4 hours a day](https://www.fastcompany.com/90597677/report-one-third-of-tech-workers-admit-to-working-only-3-4-hours-a-day)
+- [Made in the USA: Socialism for the Rich. Capitalism for the Rest](https://www.nytimes.com/2021/01/26/opinion/us-capitalism-socialism.html)
+- [Twitter improves API usage for researchers](https://blog.twitter.com/developer/en_us/topics/tips/2021/enabling-the-future-of-academic-research-with-the-twitter-api.html)
 - [Vue Native](https://vue-native.io/)
 - [Memfault (YC W19) Is Hiring Back End Engineers in Boston](https://www.workatastartup.com/jobs/32116)
 - [Telephoto fear: how lenses affect views of crowds](https://mainichi.jp/english/articles/20210126/p2a/00m/0op/009000c)
-- [Show HN: Peer-to-peer messaging app that works with or without internet access](https://github.com/berty/berty)
 <!-- BLOG-POST-LIST:END -->
 
 ---
