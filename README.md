@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Soteris (YC S19) Is Hiring Employees #4-5 – cloud and data infra](https://www.workatastartup.com/companies/12609)
+- [Zombie fires in northeastern Yakutia continue to burn at air temperature of -50C](https://siberiantimes.com/other/others/news/peat-fires-continue-to-burn-at-air-temperature-of-50c-in-northeastern-yakutia/)
+- [Cannes: Machine learning saves Dropbox $1.7M a year on document previews](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
+- [OO in Python is mostly pointless](https://leontrolski.github.io/mostly-pointless.html)
 - [WebRTC is now a W3C and IETF standard](https://web.dev/webrtc-standard-announcement/)
-- [Mark Cuban launches a transparent, low cost generic drug company](https://costplusdrugs.com/)
-- [CrateDB Doubling Down on Permissive Licensing and the Elasticsearch Lockdow](https://crate.io/a/cratedb-doubling-down-on-permissive-licensing-and-the-elasticsearch-lockdown/)
-- [Most of the time, we don’t really need another MOOC](https://eugeneyan.com/writing/you-dont-need-another-mooc/)
-- [Gitlab removes its 'starter' tier Users must either pay 5x more or lose features](https://www.theregister.com/2021/01/27/gitlab_removes_starter_tier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
