@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mux (YC W16) is hiring to help build the Stripe for video](https://mux.com/jobs?hnj=stripe)
+- [ProtonMail, Tutanota urging EU to reconsider encryption rules](https://www.cyberscoop.com/encryption-europe-tutanota-protonmail-threema-tresorit/)
+- [Zuckerberg is creating a new criminal justice reform group backed with $350M](https://www.vox.com/recode/2021/1/27/22251211/mark-zuckerberg-priscilla-chan-czi-criminal-justice-immigration-overhaul)
+- [The EU must protect the right to privacy and not attack end-to-end encryption](https://protonmail.com/blog/joint-statement-eu-encryption/)
 - [Qutebrowser v2.0.0 released (with better adblocker)](https://lists.schokokeks.org/pipermail/qutebrowser-announce/2021-January/000090.html)
-- [Perl.com Taken over by Domain Squatters](https://twitter.com/briandfoy_perl/status/1354535622069919748)
-- [Too rude for Facebook: the ban on Britain's historic place names](https://www.theguardian.com/technology/2021/jan/27/too-rude-for-facebook-the-ban-on-britains-historic-place-names)
-- [Developers spend most of their time figuring the system out](https://blog.feenk.com/developers-spend-most-of-their-time-figuri-7aj1ocjhe765vvlln8qqbuhto/)
-- [Show HN: Low-power Kindle-based dashboard](https://github.com/pascalw/kindle-dash)
 <!-- BLOG-POST-LIST:END -->
 
 ---
