@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Citadel allegedly reloaded Shorts on GME before Robinhood put restrictions](https://twitter.com/justinkan/status/1354853920762253315)
+- [PSD is not my favourite file format](https://github.com/zepouet/Xee-xCode-4.5/blob/master/XeePhotoshopLoader.m#L108)
 - [We Are Preparing a Class Action Lawsuit Against Robinhood](https://reddit.com/r/wallstreetbets/comments/l6yrs3/we_are_preparing_a_class_action_lawsuit_against/)
+- [How can I get list of textbooks being used in top colleges?](https://news.ycombinator.com/item?id=25945428)
 - [Jack Ma Agrees to Shrink His Business Empire, Bowing to China Pressure](https://relayvibes.co/jack-ma-agrees-to-shrink-his-business-empire-bowing-to-china-pressure/)
-- [Tesla's new steering yoke isn't retro, it's a safety risk](https://www.cnet.com/roadshow/news/tesla-model-s-steering-yoke/)
-- [Class Action Lawsuit Filed Against Robinhood in the State of New York](https://twitter.com/ljmoynihan/status/1354836830169006081)
-- [Shift to Remote Work Based on 7k HN Who Is Hiring Posts](https://www.shinkim.io/posts/shift-to-remote-work-based-on-7-000-hacker-news-job-posts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
