@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit's Elegant GameStop Revolution Will Be Crushed](https://nymag.com/intelligencer/2021/01/scott-galloway-unpacks-the-gamestop-uprising.html)
-- [Protocols, Not Platforms: A Technological Approach to Free Speech](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)
-- [Fleeing WhatsApp for Better Privacy? Don't Turn to Telegram](https://www.wired.com/story/telegram-encryption-whatsapp-settings/)
-- [/r/wallstreetbets vs. WallStreet: It's not about the money anymore](https://thinkingthrough.substack.com/p/rwallstreetbets-vs-wallstreet-its)
-- [Neural Geometric Level of Detail: Real-Time Rendering with Implicit 3D Surfaces](https://nv-tlabs.github.io/nglod/)
+- [GameStop: Amateur investors continue to outwit Wall Street](https://www.bbc.com/news/business-55837519)
+- [Dogecoin Surges as Reddit Traders Push to Make It the Crypto GameStop](https://www.forbes.com/sites/roberthart/2021/01/28/its-doge-time-dogecoin-surges-as-reddit-traders-push-to-make-it-the-crypto-gamestop/)
+- [Robinhood blocks purchases of Gamespot, AMC](https://twitter.com/RobinhoodApp/status/1354805613566410756)
+- [Cracks are showing in Enterprise Open Source's foundations](https://www.jeffgeerling.com/blog/2021/cracks-are-showing-enterprise-open-sources-foundations)
+- [Parents' income, not smarts, key to entrepreneurship](https://www.jpost.com/israel-news/parents-income-not-smarts-key-to-entrepreneurship-study-657058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
