@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [American woman who ‘unsettled the public’ with Twitter thread will be deported](https://coconuts.co/bali/news/american-woman-who-unsettled-the-public-with-twitter-thread-will-be-deported-official/)
+- [Qutebrowser v2.0.0 released (with better adblocker)](https://lists.schokokeks.org/pipermail/qutebrowser-announce/2021-January/000090.html)
+- [Perl.com Taken over by Domain Squatters](https://twitter.com/briandfoy_perl/status/1354535622069919748)
+- [Too rude for Facebook: the ban on Britain's historic place names](https://www.theguardian.com/technology/2021/jan/27/too-rude-for-facebook-the-ban-on-britains-historic-place-names)
 - [Developers spend most of their time figuring the system out](https://blog.feenk.com/developers-spend-most-of-their-time-figuri-7aj1ocjhe765vvlln8qqbuhto/)
 - [Show HN: Low-power Kindle-based dashboard](https://github.com/pascalw/kindle-dash)
-- [JaaS: The team that builds Jitsi can now also run it for you](https://jitsi.org/blog/jaas-the-team-that-builds-jitsi-can-now-also-run-it-for-you/)
-- [Where do we go from here and who is going to step up to help us?](https://old.reddit.com/r/wallstreetbets/comments/l6j4r9/where_do_we_go_from_here_and_who_is_going_to_step/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
