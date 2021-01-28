@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Class Action Lawsuit Filed Against Robinhood](https://www.yumpu.com/en/document/read/65257553/1-complaint)
-- [Robinhood now has a 1-Star rating on the Google Play Store](https://play.google.com/store/apps/details?id=com.robinhood.android&showAllReviews=true)
-- [Coinbase announces proposed direct listing](https://blog.coinbase.com/coinbase-announces-proposed-direct-listing-3a52c4298ccc)
-- [Analyzing and breaking an externally encrypted HDD](https://syscall.eu/blog/2018/03/12/aigo_part1/)
-- [PSD is not my favourite file format (2009)](https://github.com/zepouet/Xee-xCode-4.5/blob/master/XeePhotoshopLoader.m#L108)
+- [Shelf Engine (YC S18) is hiring a Senior Data Scientist to stop food waste](https://jobs.lever.co/shelfengine/ef1e1320-0a24-4343-8c51-abd83bbe2659)
+- [Plotnine: Grammar of Graphics for Python](https://datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
+- [Show HN: The usable eBook (azw3,mobi,ePub,pdf) reader inside a browser](https://www.loudreader.com)
+- [Robinhood begins auto-liquidating $GME shares bought on margin](https://www.reddit.com/r/wallstreetbets/comments/l75pa1/robinhood_is_selling_peoples_gamestop_shares/)
+- [ADHD-resistant sticky note that changes color and font often to not disappear](https://crazypython.github.io/adhd-resistant-sticky-notes/note.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
