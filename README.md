@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GameStop: Amateur investors continue to outwit Wall Street](https://www.bbc.com/news/business-55837519)
-- [Dogecoin Surges as Reddit Traders Push to Make It the Crypto GameStop](https://www.forbes.com/sites/roberthart/2021/01/28/its-doge-time-dogecoin-surges-as-reddit-traders-push-to-make-it-the-crypto-gamestop/)
-- [Robinhood blocks purchases of Gamespot, AMC](https://twitter.com/RobinhoodApp/status/1354805613566410756)
-- [Cracks are showing in Enterprise Open Source's foundations](https://www.jeffgeerling.com/blog/2021/cracks-are-showing-enterprise-open-sources-foundations)
-- [Parents' income, not smarts, key to entrepreneurship](https://www.jpost.com/israel-news/parents-income-not-smarts-key-to-entrepreneurship-study-657058)
+- [We Are Preparing a Class Action Lawsuit Against Robinhood](https://reddit.com/r/wallstreetbets/comments/l6yrs3/we_are_preparing_a_class_action_lawsuit_against/)
+- [Jack Ma Agrees to Shrink His Business Empire, Bowing to China Pressure](https://relayvibes.co/jack-ma-agrees-to-shrink-his-business-empire-bowing-to-china-pressure/)
+- [Tesla's new steering yoke isn't retro, it's a safety risk](https://www.cnet.com/roadshow/news/tesla-model-s-steering-yoke/)
+- [Class Action Lawsuit Filed Against Robinhood in the State of New York](https://twitter.com/ljmoynihan/status/1354836830169006081)
+- [Shift to Remote Work Based on 7k HN Who Is Hiring Posts](https://www.shinkim.io/posts/shift-to-remote-work-based-on-7-000-hacker-news-job-posts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
