@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Citadel allegedly reloaded Shorts on GME before Robinhood put restrictions](https://twitter.com/justinkan/status/1354853920762253315)
-- [PSD is not my favourite file format](https://github.com/zepouet/Xee-xCode-4.5/blob/master/XeePhotoshopLoader.m#L108)
-- [We Are Preparing a Class Action Lawsuit Against Robinhood](https://reddit.com/r/wallstreetbets/comments/l6yrs3/we_are_preparing_a_class_action_lawsuit_against/)
-- [How can I get list of textbooks being used in top colleges?](https://news.ycombinator.com/item?id=25945428)
-- [Jack Ma Agrees to Shrink His Business Empire, Bowing to China Pressure](https://relayvibes.co/jack-ma-agrees-to-shrink-his-business-empire-bowing-to-china-pressure/)
+- [Robinhood apparently selling people's shares ”for their own good“](https://twitter.com/ArkhonDH/status/1354834763245359111)
+- [Thank You, Apple for Standing Strong for Privacy](https://foundation.mozilla.org/en/blog/thank-you-apple-for-standing-strong-for-privacy/)
+- [High-flying Reddit stocks whipsaw as platforms like Robinhood curb trading](https://www.axios.com/robinhood-gamestop-restrictions-370adfcb-fe22-494d-85e7-eb9c4a98bed7.html)
+- [PSD is not my favourite file format (2009)](https://github.com/zepouet/Xee-xCode-4.5/blob/master/XeePhotoshopLoader.m#L108)
+- [We Are Preparing a Class Action Lawsuit Against Robinhood](https://old.reddit.com/r/wallstreetbets/comments/l6yrs3/we_are_preparing_a_class_action_lawsuit_against/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
