@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit's Elegant GameStop Revolution Will Be Crushed](https://nymag.com/intelligencer/2021/01/scott-galloway-unpacks-the-gamestop-uprising.html)
+- [Protocols, Not Platforms: A Technological Approach to Free Speech](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)
+- [Fleeing WhatsApp for Better Privacy? Don't Turn to Telegram](https://www.wired.com/story/telegram-encryption-whatsapp-settings/)
+- [/r/wallstreetbets vs. WallStreet: It's not about the money anymore](https://thinkingthrough.substack.com/p/rwallstreetbets-vs-wallstreet-its)
 - [Neural Geometric Level of Detail: Real-Time Rendering with Implicit 3D Surfaces](https://nv-tlabs.github.io/nglod/)
-- [Tesla fire kills man because door handles wouldn’t open, lawsuit alleges](https://www.washingtonpost.com/business/2019/10/23/man-died-burning-tesla-because-its-futuristic-doors-wouldnt-open-lawsuit-alleges/)
-- [Setup Anaconda, Jupyter, and Rust](https://datacrayon.com/posts/programming/rust-notebooks/setup-anaconda-jupyter-and-rust/)
-- [Robinhood is limiting purchases of stocks: AMC, Blackberry, Nokia, and GameStop](https://twitter.com/KHOUStephanie/status/1354781130021609478)
-- [Mscsim – flight dynamics simulation software](https://github.com/marek-cel/mscsim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
