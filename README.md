@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook Q4 2020 earnings [pdf]](https://s21.q4cdn.com/399680738/files/doc_financials/2020/q4/FB-12.31.2020-Exhibit-99.1.pdf)
+- [Discord bans r/WallStreetBets server, subreddit goes private](https://www.theverge.com/2021/1/27/22253251/discord-bans-the-r-wallstreetbets-server)
+- [Fix Terminals](http://www.leonerd.org.uk/hacks/fixterms/)
 - [Opening Up the Samsung Q60 Series Smart TV (2019)](https://labs.f-secure.com/blog/samsung-q60r-smart-tv-opening-up-the-samsung-q60-series-smart-tv/)
 - [Show HN: My multiplayer custom-engine game that loads in less than a second](http://vnav.io)
 - [Historical Dictionary of Science Fiction](https://sfdictionary.com)
-- [Soteris (YC S19) is hiring employees #4-5 – cloud and data infrastructure](https://www.workatastartup.com/companies/12609)
 <!-- BLOG-POST-LIST:END -->
 
 ---
