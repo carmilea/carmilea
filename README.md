@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Robinhood apparently selling people's shares ”for their own good“](https://twitter.com/ArkhonDH/status/1354834763245359111)
-- [Thank You, Apple for Standing Strong for Privacy](https://foundation.mozilla.org/en/blog/thank-you-apple-for-standing-strong-for-privacy/)
-- [High-flying Reddit stocks whipsaw as platforms like Robinhood curb trading](https://www.axios.com/robinhood-gamestop-restrictions-370adfcb-fe22-494d-85e7-eb9c4a98bed7.html)
+- [Class Action Lawsuit Filed Against Robinhood](https://www.yumpu.com/en/document/read/65257553/1-complaint)
+- [Robinhood now has a 1-Star rating on the Google Play Store](https://play.google.com/store/apps/details?id=com.robinhood.android&showAllReviews=true)
+- [Coinbase announces proposed direct listing](https://blog.coinbase.com/coinbase-announces-proposed-direct-listing-3a52c4298ccc)
+- [Analyzing and breaking an externally encrypted HDD](https://syscall.eu/blog/2018/03/12/aigo_part1/)
 - [PSD is not my favourite file format (2009)](https://github.com/zepouet/Xee-xCode-4.5/blob/master/XeePhotoshopLoader.m#L108)
-- [We Are Preparing a Class Action Lawsuit Against Robinhood](https://old.reddit.com/r/wallstreetbets/comments/l6yrs3/we_are_preparing_a_class_action_lawsuit_against/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
