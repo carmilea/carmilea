@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Open Covid-19 Vaccine Appointments](https://getmyvaccine.org/)
-- [Where do we go from here and who is going to step up to help us?](https://www.reddit.com/r/wallstreetbets/comments/l6j4r9/where_do_we_go_from_here_and_who_is_going_to_step/)
-- [More than 100M Americans have diabetes or prediabetes (2017)](https://www.cdc.gov/media/releases/2017/p0718-diabetes-report.html)
-- [Discord bans r/WallStreetBets server, subreddit goes private](https://www.theverge.com/2021/1/27/22253251/discord-bans-the-r-wallstreetbets-server)
-- [Fix Terminals](http://www.leonerd.org.uk/hacks/fixterms/)
+- [JaaS: The team that builds Jitsi can now also run it for you](https://jitsi.org/blog/jaas-the-team-that-builds-jitsi-can-now-also-run-it-for-you/)
+- [The Climate Crisis Is Worse Than You Can Imagine. Here’s What Happens If You Try](https://www.propublica.org/article/the-climate-crisis-is-worse-than-you-can-imagine-heres-what-happens-if-you-try)
+- [Where do we go from here and who is going to step up to help us?](https://old.reddit.com/r/wallstreetbets/comments/l6j4r9/where_do_we_go_from_here_and_who_is_going_to_step/)
+- [Love and Death: “Quality of life” calculations leave out much that matters](https://hedgehogreview.com/blog/thr/posts/love-and-death)
+- [Discord bans r/WallStreetBets server, subreddit went private for a while](https://www.theverge.com/2021/1/27/22253251/discord-bans-the-r-wallstreetbets-server)
 <!-- BLOG-POST-LIST:END -->
 
 ---
