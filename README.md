@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Open Covid-19 Vaccine Appointments](https://getmyvaccine.org/)
-- [Resurgence of Covid-19 in Manaus, Brazil, despite high seroprevalence](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00183-5/fulltext)
 - [Where do we go from here and who is going to step up to help us?](https://www.reddit.com/r/wallstreetbets/comments/l6j4r9/where_do_we_go_from_here_and_who_is_going_to_step/)
 - [More than 100M Americans have diabetes or prediabetes (2017)](https://www.cdc.gov/media/releases/2017/p0718-diabetes-report.html)
 - [Discord bans r/WallStreetBets server, subreddit goes private](https://www.theverge.com/2021/1/27/22253251/discord-bans-the-r-wallstreetbets-server)
+- [Fix Terminals](http://www.leonerd.org.uk/hacks/fixterms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
