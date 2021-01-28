@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A framework that makes things worse on purpose](https://postmodernize.telnet.asia/)
+- [Open Source Mission Control Software from NASA](https://nasa.github.io/openmct/)
+- [Losing faith in UX](https://creativegood.com/blog/21/losing-faith-in-ux.html)
 - [OpenBSD on the Lenovo ThinkPad X1 Nano](https://jcs.org/2021/01/27/x1nano)
 - [Shelf Engine (YC S18) is hiring a Senior Data Scientist to stop food waste](https://jobs.lever.co/shelfengine/ef1e1320-0a24-4343-8c51-abd83bbe2659)
-- [Plotnine: Grammar of Graphics for Python](https://datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
-- [Show HN: A usable eBook reader inside a browser (azw3, mobi, ePub, pdf)](https://www.loudreader.com)
-- [Robinhood Hit with Class Action Lawsuit After Halting GameStop Stock](https://www.ign.com/articles/robinhood-hit-with-class-action-lawsuit-after-halting-gamestop-stock)
 <!-- BLOG-POST-LIST:END -->
 
 ---
