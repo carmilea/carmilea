@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Arpio (YC W21) – Protect your business from AWS outages & ransomware](https://news.ycombinator.com/item?id=25941082)
-- [Minimum Viable Clojure Developer](https://www.reddit.com/r/Clojure/comments/l61ib4/minimum_viable_clojure_developer/)
-- [Ask HN: Is there anywhere to get help with employment contracts?](https://news.ycombinator.com/item?id=25940949)
-- [Mux (YC W16) is hiring to help build the Stripe for video](https://mux.com/jobs?hnj=stripe)
-- [ProtonMail, Tutanota urging EU to reconsider encryption rules](https://www.cyberscoop.com/encryption-europe-tutanota-protonmail-threema-tresorit/)
+- [Neural Geometric Level of Detail: Real-Time Rendering with Implicit 3D Surfaces](https://nv-tlabs.github.io/nglod/)
+- [Tesla fire kills man because door handles wouldn’t open, lawsuit alleges](https://www.washingtonpost.com/business/2019/10/23/man-died-burning-tesla-because-its-futuristic-doors-wouldnt-open-lawsuit-alleges/)
+- [Setup Anaconda, Jupyter, and Rust](https://datacrayon.com/posts/programming/rust-notebooks/setup-anaconda-jupyter-and-rust/)
+- [Robinhood is limiting purchases of stocks: AMC, Blackberry, Nokia, and GameStop](https://twitter.com/KHOUStephanie/status/1354781130021609478)
+- [Mscsim – flight dynamics simulation software](https://github.com/marek-cel/mscsim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
