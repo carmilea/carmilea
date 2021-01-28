@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenBSD on the Lenovo ThinkPad X1 Nano](https://jcs.org/2021/01/27/x1nano)
 - [Shelf Engine (YC S18) is hiring a Senior Data Scientist to stop food waste](https://jobs.lever.co/shelfengine/ef1e1320-0a24-4343-8c51-abd83bbe2659)
 - [Plotnine: Grammar of Graphics for Python](https://datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
-- [Show HN: The usable eBook (azw3,mobi,ePub,pdf) reader inside a browser](https://www.loudreader.com)
-- [Robinhood begins auto-liquidating $GME shares bought on margin](https://www.reddit.com/r/wallstreetbets/comments/l75pa1/robinhood_is_selling_peoples_gamestop_shares/)
-- [ADHD-resistant sticky note that changes color and font often to not disappear](https://crazypython.github.io/adhd-resistant-sticky-notes/note.html)
+- [Show HN: A usable eBook reader inside a browser (azw3, mobi, ePub, pdf)](https://www.loudreader.com)
+- [Robinhood Hit with Class Action Lawsuit After Halting GameStop Stock](https://www.ign.com/articles/robinhood-hit-with-class-action-lawsuit-after-halting-gamestop-stock)
 <!-- BLOG-POST-LIST:END -->
 
 ---
