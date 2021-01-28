@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Arpio (YC W21) – Protect your business from AWS outages & ransomware](https://news.ycombinator.com/item?id=25941082)
+- [Minimum Viable Clojure Developer](https://www.reddit.com/r/Clojure/comments/l61ib4/minimum_viable_clojure_developer/)
+- [Ask HN: Is there anywhere to get help with employment contracts?](https://news.ycombinator.com/item?id=25940949)
 - [Mux (YC W16) is hiring to help build the Stripe for video](https://mux.com/jobs?hnj=stripe)
 - [ProtonMail, Tutanota urging EU to reconsider encryption rules](https://www.cyberscoop.com/encryption-europe-tutanota-protonmail-threema-tresorit/)
-- [Zuckerberg is creating a new criminal justice reform group backed with $350M](https://www.vox.com/recode/2021/1/27/22251211/mark-zuckerberg-priscilla-chan-czi-criminal-justice-immigration-overhaul)
-- [The EU must protect the right to privacy and not attack end-to-end encryption](https://protonmail.com/blog/joint-statement-eu-encryption/)
-- [Qutebrowser v2.0.0 released (with better adblocker)](https://lists.schokokeks.org/pipermail/qutebrowser-announce/2021-January/000090.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
