@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Factorio Friday Facts #364 – 1.1 stable](https://factorio.com/blog/post/fff-364)
+- [PyO3: Rust Bindings for the Python Interpreter](https://github.com/PyO3/pyo3)
 - [Impraise (YC S14) Is Hiring Senior Ruby Engineers](https://jobs.impraise.com/o/senior-backend-developer)
 - [Shorting and Indian capital markets](https://zerodha.com/z-connect/trending/shorting-and-indian-capital-markets)
 - [Göbekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe)
-- [Markov Chain Monte Carlo: Burn-In Is Unnecessary](http://users.stat.umn.edu/~geyer/mcmc/burn.html)
-- [Robinhood, in Need of Cash, Raises $1B from Its Investors](https://www.nytimes.com/2021/01/29/technology/robinhood-fundraising.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
