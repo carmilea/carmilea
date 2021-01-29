@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s Time for Police to Stop Lying to Suspects](https://www.nytimes.com/2021/01/29/opinion/false-confessions-police-interrogation.html)
+- [IKEA using AR to let users decide which furniture fits where](https://karlsnotes.com/ikea-and-the-future-of-living/)
+- [PyCharm's Transition to Apple Silicon](https://blog.jetbrains.com/pycharm/2021/01/the-transition-to-apple-silicon/)
 - [AstraZeneca/EU contract, partly uncensored](https://fragdenstaat.de/dokumente/8409-apa_-_astrazeneca/)
-- [Sci-Founder Fellowship: $250-400k and mentoring for scientists starting startups](http://sci-founder.com)
-- [Temperature likely has no effect on the transmission of Covid-19](https://aip.scitation.org/doi/full/10.1063/10.0003485)
-- [Google reportedly scraps thousands of negative Robinhood reviews](https://cointelegraph.com/news/google-reportedly-scraps-thousands-of-negative-robinhood-reviews)
-- [Making GitHub’s new homepage fast and performant](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/)
+- [Robinhood’s plan to “democratize finance” hit a GameStop-shaped speed bump](https://arstechnica.com/gaming/2021/01/robinhoods-plan-to-democratize-finance-hit-a-gamestop-shaped-speed-bump/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
