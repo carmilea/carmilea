@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dover (YC S19) is hiring a growth engineer to modernize recruiting (dover.io)](https://www.dover.io/open-roles/growth-engineer)
-- [Facebook Preps Antitrust Lawsuit Against Apple](https://www.theinformation.com/articles/facebook-looks-to-take-its-fight-with-apple-to-court)
-- [Google Cloud SQL Incident](https://status.cloud.google.com/incident/cloud-sql/21001)
-- [Robinhood is still severely limiting trading](https://www.cnbc.com/2021/01/29/robinhood-is-still-severely-limiting-trading-gamestop-holders-can-only-buy-one-additional-share.html)
-- [Sudo buffer overflow explained, and how to patch (WSL and Linux) [video]](https://github.com/mbcrump/CVE-2021-3156/blob/main/README.md)
+- ['Sea Prison': Covid-19 has left hundreds of thousands of seafarers stranded](https://www.npr.org/2021/01/29/959626340/-sea-prison-covid-19-has-left-hundreds-of-thousands-of-seafarers-stranded)
+- [WindowTabs: Browser-style tabbed window management on the desktop](https://github.com/leafOfTree/WindowTabs)
+- [Weird compiler bug – Same code, different results](https://blog.zaita.com/mingw64-compiler-bug/)
+- [Dover (YC S19) is hiring a growth engineer to modernize recruiting](https://www.dover.io/open-roles/growth-engineer)
+- [Ask HN: Remote workers in a non-tech city, what's your experience?](https://news.ycombinator.com/item?id=25962178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
