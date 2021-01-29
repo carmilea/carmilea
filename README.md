@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HackerRank (YC S11) Is Hiring](https://boards.greenhouse.io/hackerrank/jobs/2447568?gh_jid=2447568)
+- [Transfer Stocks Out of Your Robinhood Account](https://robinhood.com/us/en/support/articles/transfer-stocks-out-of-your-robinhood-account/)
+- [Facebook shuts popular stock trading group amid GameStop frenzy](https://www.reuters.com/article/us-retail-trading-facebook-idUSKBN29X34P)
+- [Unix Programmer's Manual, First Edition (1971)](https://www.bell-labs.com/usr/dmr/www/1stEdman.html)
+- [HackerRank (YC S11) Is Hiring a Senior Product designer](https://boards.greenhouse.io/hackerrank/jobs/2447568?gh_jid=2447568)
 - [Cuffless device delivers clinically accurate blood pressure measurements](https://www.embedded.com/cuffless-device-delivers-clinically-accurate-blood-pressure-measurements/)
-- [Interest rates have been declining globally for the past 700 years (2020)](https://www.bankofengland.co.uk/working-paper/2020/eight-centuries-of-global-real-interest-rates-r-g-and-the-suprasecular-decline-1311-2018)
-- [Robinhood Play Store listing went from 329K reviews to 180K in few hours](https://play.google.com/store/apps/details?id=com.robinhood.android&showAllReviews=true&showAllReviews=true&1)
-- [High Short Interest Stocks](https://www.highshortinterest.com/all/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
