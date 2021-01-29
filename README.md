@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Has science solved one of history’s greatest adventure mysteries?](https://www.nationalgeographic.com/science/2021/01/has-science-solved-history-greatest-adventure-mystery-dyatlov/)
+- [Quantquake: 2020 and the Revenge Against the Nerds](https://rhsfinancial.com/2021/01/11/quantquake-2020-and-the-revenge-against-the-nerds/)
+- [The Evolution of the QEMU Translator](https://www.linaro.org/blog/the-evolution-of-the-qemu-translator/)
 - [A Look at iMessage in iOS 14](https://googleprojectzero.blogspot.com/2021/01/a-look-at-imessage-in-ios-14.html)
 - [Google Deletes Nearly 100k Negative Reviews of Robinhood App](https://www.theverge.com/2021/1/28/22255245/google-deleting-bad-robinhood-reviews-play-store)
-- [Transfer Stocks Out of Your Robinhood Account](https://robinhood.com/us/en/support/articles/transfer-stocks-out-of-your-robinhood-account/)
-- [Facebook shuts popular stock trading group amid GameStop frenzy](https://www.reuters.com/article/us-retail-trading-facebook-idUSKBN29X34P)
-- [Unix Programmer's Manual, First Edition (1971)](https://www.bell-labs.com/usr/dmr/www/1stEdman.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
