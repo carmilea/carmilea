@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Baking with Machine Learning](https://sararobinson.dev/2020/04/30/baking-machine-learning.html)
+- [YInMn, the First New Blue Pigment in Two Centuries](https://hyperallergic.com/615971/meet-yinmn-the-first-new-shade-of-blue-in-two-centuries/)
 - ['Sea Prison': Covid-19 has left hundreds of thousands of seafarers stranded](https://www.npr.org/2021/01/29/959626340/-sea-prison-covid-19-has-left-hundreds-of-thousands-of-seafarers-stranded)
-- [WindowTabs: Browser-style tabbed window management on the desktop](https://github.com/leafOfTree/WindowTabs)
 - [Weird compiler bug – Same code, different results](https://blog.zaita.com/mingw64-compiler-bug/)
 - [Dover (YC S19) is hiring a growth engineer to modernize recruiting](https://www.dover.io/open-roles/growth-engineer)
-- [Ask HN: Remote workers in a non-tech city, what's your experience?](https://news.ycombinator.com/item?id=25962178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
