@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Factorio Friday Facts #364 – 1.1 stable](https://factorio.com/blog/post/fff-364)
-- [PyO3: Rust Bindings for the Python Interpreter](https://github.com/PyO3/pyo3)
-- [Impraise (YC S14) Is Hiring Senior Ruby Engineers](https://jobs.impraise.com/o/senior-backend-developer)
-- [Shorting and Indian capital markets](https://zerodha.com/z-connect/trending/shorting-and-indian-capital-markets)
-- [Göbekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe)
+- [Pony – High Performance Safe Actor Programming](https://www.ponylang.io/discover/#what-is-pony)
+- [The censorship of WallStreetBets needs to be a watershed moment for everyone](https://proprivacy.com/privacy-news/wallstreetbets-censorship-watershed?r=7562724589)
+- [The Irony in the GameStop (GME) Story](https://www.nasdaq.com/articles/the-irony-in-the-gamestop-gme-story-2021-01-25)
+- [Solar-Powered, Off-Grid Bike Can Bust Poachers Anywhere](https://www.thedrive.com/news/38996/this-solar-powered-off-grid-bike-can-bust-poachers-anywhere)
+- [The Uncensored Guide to ‘Oumuamua, Aliens, and That Harvard Astronomer](https://www.forbes.com/sites/startswithabang/2021/01/28/the-uncensored-guide-to-oumuamua-aliens-and-that-harvard-astronomer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
