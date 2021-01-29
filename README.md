@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2021-3156: Explained, Shown and How to Patch (WSL and Linux)](https://github.com/mbcrump/CVE-2021-3156/blob/main/README.md)
-- [Can you make a basic web app without googling? I can't](https://web.eecs.utk.edu/~azh/blog/webappwithoutgoogling.html)
-- [Who Does That Server Serve? (2014)](https://www.gnu.org/philosophy/who-does-that-server-really-serve.en.html)
-- [It’s Time for Police to Stop Lying to Suspects](https://www.nytimes.com/2021/01/29/opinion/false-confessions-police-interrogation.html)
-- [Show HN: Wallstreetbets Sentiment Past 24 Hours](https://wsbsentiment.io/)
+- [Dover (YC S19) is hiring a growth engineer to modernize recruiting (dover.io)](https://www.dover.io/open-roles/growth-engineer)
+- [Facebook Preps Antitrust Lawsuit Against Apple](https://www.theinformation.com/articles/facebook-looks-to-take-its-fight-with-apple-to-court)
+- [Google Cloud SQL Incident](https://status.cloud.google.com/incident/cloud-sql/21001)
+- [Robinhood is still severely limiting trading](https://www.cnbc.com/2021/01/29/robinhood-is-still-severely-limiting-trading-gamestop-holders-can-only-buy-one-additional-share.html)
+- [Sudo buffer overflow explained, and how to patch (WSL and Linux) [video]](https://github.com/mbcrump/CVE-2021-3156/blob/main/README.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
