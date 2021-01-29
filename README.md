@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Robinhood denies claims that it sold GameStop shares out from under its traders](https://www.theverge.com/2021/1/28/22254857/robinhood-gamestop-amc-shares-sold-surprised-users)
+- [Making GitHub’s new homepage fast and performant](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/)
+- [Jerry, Inc. (YC S17) Is Hiring Product, Engineering, Marketing (All Levels)](https://jerry.ai/careers)
+- [San Francisco's school board in name only](https://www.sfchronicle.com/opinion/editorials/article/Editorial-San-Francisco-s-school-board-in-name-15903477.php)
 - [Surround sound from lightweight roll-to-roll printed loudspeaker paper](https://phys.org/news/2021-01-lightweight-roll-to-roll-loudspeaker-paper.html)
 - [Die Shots of the Raspberry Pi RP2040](https://blog.adafruit.com/2021/01/29/die-shots-of-the-raspberry-pi-rp2040-chip-teardown-dieshot-reverseengineering-piday-johndmcmaster-raspberry_pi/)
-- [A Day in the Life of Your Data [pdf]](https://www.apple.com/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf)
-- [Johnson and Johnson Covid-19 vaccine appears 66% effective in global trial](https://www.cbc.ca/news/health/johnson-johnson-covid-vaccine-trial-1.5893009)
 <!-- BLOG-POST-LIST:END -->
 
 ---
