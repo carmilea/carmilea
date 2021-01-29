@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shorting and Indian capital markets](https://zerodha.com/z-connect/trending/shorting-and-indian-capital-markets)
 - [Göbekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe)
-- [Google Deleted over 100k Negative Robinhood Reviews](https://www.reddit.com/r/wallstreetbets/comments/l7bh1m/not_sure_if_anyone_posted_this_here_but_yikes/)
 - [YouTeam (YC W18) Is Hiring Digital Marketing Manager with Focus on SEO+sem](https://www.workatastartup.com/jobs/41816)
 - [Robinhood, in Need of Cash, Raises $1B from Its Investors](https://www.nytimes.com/2021/01/29/technology/robinhood-fundraising.html)
 - [A small, delayed avalanche may have been responsible for the Dyatlov Incident](https://www.nationalgeographic.com/science/2021/01/has-science-solved-history-greatest-adventure-mystery-dyatlov/)
