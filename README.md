@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Impraise (YC S14) Is Hiring Senior Ruby Engineers](https://jobs.impraise.com/o/senior-backend-developer)
 - [Shorting and Indian capital markets](https://zerodha.com/z-connect/trending/shorting-and-indian-capital-markets)
 - [Göbekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe)
-- [YouTeam (YC W18) Is Hiring Digital Marketing Manager with Focus on SEO+sem](https://www.workatastartup.com/jobs/41816)
+- [Markov Chain Monte Carlo: Burn-In Is Unnecessary](http://users.stat.umn.edu/~geyer/mcmc/burn.html)
 - [Robinhood, in Need of Cash, Raises $1B from Its Investors](https://www.nytimes.com/2021/01/29/technology/robinhood-fundraising.html)
-- [A small, delayed avalanche may have been responsible for the Dyatlov Incident](https://www.nationalgeographic.com/science/2021/01/has-science-solved-history-greatest-adventure-mystery-dyatlov/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
