@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook is banning leftwing users like me – and it's going largely unnoticed](https://www.theguardian.com/commentisfree/2021/jan/29/facebook-banned-me-because-i-am-leftwing-i-am-not-the-only-one)
+- [Apple: A Day in the Life of Your Data [pdf]](https://www.apple.com/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf)
+- [Launch HN: InpharmD (YC W21) – curated drug information for doctors](https://news.ycombinator.com/item?id=25957775)
+- [Statement of SEC Regarding Recent Market Volatility](https://www.sec.gov/news/public-statement/joint-statement-market-volatility-2021-01-29)
 - [Pony – High Performance Safe Actor Programming](https://www.ponylang.io/discover/#what-is-pony)
-- [The censorship of WallStreetBets needs to be a watershed moment for everyone](https://proprivacy.com/privacy-news/wallstreetbets-censorship-watershed?r=7562724589)
-- [The Irony in the GameStop (GME) Story](https://www.nasdaq.com/articles/the-irony-in-the-gamestop-gme-story-2021-01-25)
-- [Solar-Powered, Off-Grid Bike Can Bust Poachers Anywhere](https://www.thedrive.com/news/38996/this-solar-powered-off-grid-bike-can-bust-poachers-anywhere)
-- [The Uncensored Guide to ‘Oumuamua, Aliens, and That Harvard Astronomer](https://www.forbes.com/sites/startswithabang/2021/01/28/the-uncensored-guide-to-oumuamua-aliens-and-that-harvard-astronomer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
