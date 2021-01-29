@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook is banning leftwing users like me – and it's going largely unnoticed](https://www.theguardian.com/commentisfree/2021/jan/29/facebook-banned-me-because-i-am-leftwing-i-am-not-the-only-one)
-- [Apple: A Day in the Life of Your Data [pdf]](https://www.apple.com/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf)
-- [Launch HN: InpharmD (YC W21) – curated drug information for doctors](https://news.ycombinator.com/item?id=25957775)
-- [Statement of SEC Regarding Recent Market Volatility](https://www.sec.gov/news/public-statement/joint-statement-market-volatility-2021-01-29)
-- [Pony – High Performance Safe Actor Programming](https://www.ponylang.io/discover/#what-is-pony)
+- [Robinhood denies claims that it sold GameStop shares out from under its traders](https://www.theverge.com/2021/1/28/22254857/robinhood-gamestop-amc-shares-sold-surprised-users)
+- [Surround sound from lightweight roll-to-roll printed loudspeaker paper](https://phys.org/news/2021-01-lightweight-roll-to-roll-loudspeaker-paper.html)
+- [Die Shots of the Raspberry Pi RP2040](https://blog.adafruit.com/2021/01/29/die-shots-of-the-raspberry-pi-rp2040-chip-teardown-dieshot-reverseengineering-piday-johndmcmaster-raspberry_pi/)
+- [A Day in the Life of Your Data [pdf]](https://www.apple.com/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf)
+- [Johnson and Johnson Covid-19 vaccine appears 66% effective in global trial](https://www.cbc.ca/news/health/johnson-johnson-covid-vaccine-trial-1.5893009)
 <!-- BLOG-POST-LIST:END -->
 
 ---
