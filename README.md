@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [YouTeam (YC W18) Is Hiring Digital Marketing Manager with Focus on SEO+sem](https://www.workatastartup.com/jobs/41816)
+- [The Battle Inside Signal](https://www.platformer.news/p/-the-battle-inside-signal?token=eyJ1c2VyX2lkIjo0MzQ3NzIsInBvc3RfaWQiOjMxODY4OTA3LCJfIjoibzJTMHAiLCJpYXQiOjE2MTE5MDI0MjcsImV4cCI6MTYxMTkwNjAyNywiaXNzIjoicHViLTc5NzYiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.L1J8hz-yIOsa3Xg56ClwjyeSoVcHkHPrzpJVG9hEFfE)
 - [Robinhood, in Need of Cash, Raises $1B from Its Investors](https://www.nytimes.com/2021/01/29/technology/robinhood-fundraising.html)
 - [A small, delayed avalanche may have been responsible for the Dyatlov Incident](https://www.nationalgeographic.com/science/2021/01/has-science-solved-history-greatest-adventure-mystery-dyatlov/)
 - [Quantquake: 2020 and the Revenge Against the Nerds](https://rhsfinancial.com/2021/01/11/quantquake-2020-and-the-revenge-against-the-nerds/)
-- [The Evolution of the QEMU Translator](https://www.linaro.org/blog/the-evolution-of-the-qemu-translator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
