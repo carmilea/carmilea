@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Look at iMessage in iOS 14](https://googleprojectzero.blogspot.com/2021/01/a-look-at-imessage-in-ios-14.html)
+- [Google Deletes Nearly 100k Negative Reviews of Robinhood App](https://www.theverge.com/2021/1/28/22255245/google-deleting-bad-robinhood-reviews-play-store)
 - [Transfer Stocks Out of Your Robinhood Account](https://robinhood.com/us/en/support/articles/transfer-stocks-out-of-your-robinhood-account/)
 - [Facebook shuts popular stock trading group amid GameStop frenzy](https://www.reuters.com/article/us-retail-trading-facebook-idUSKBN29X34P)
 - [Unix Programmer's Manual, First Edition (1971)](https://www.bell-labs.com/usr/dmr/www/1stEdman.html)
-- [HackerRank (YC S11) Is Hiring a Senior Product designer](https://boards.greenhouse.io/hackerrank/jobs/2447568?gh_jid=2447568)
-- [Cuffless device delivers clinically accurate blood pressure measurements](https://www.embedded.com/cuffless-device-delivers-clinically-accurate-blood-pressure-measurements/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
