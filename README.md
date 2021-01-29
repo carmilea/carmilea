@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTeam (YC W18) Is Hiring Digital Marketing Manager with Focus on SEO+sem](https://www.workatastartup.com/jobs/41816)
 - [Robinhood, in Need of Cash, Raises $1B from Its Investors](https://www.nytimes.com/2021/01/29/technology/robinhood-fundraising.html)
 - [A small, delayed avalanche may have been responsible for the Dyatlov Incident](https://www.nationalgeographic.com/science/2021/01/has-science-solved-history-greatest-adventure-mystery-dyatlov/)
 - [Quantquake: 2020 and the Revenge Against the Nerds](https://rhsfinancial.com/2021/01/11/quantquake-2020-and-the-revenge-against-the-nerds/)
 - [The Evolution of the QEMU Translator](https://www.linaro.org/blog/the-evolution-of-the-qemu-translator/)
-- [A Look at iMessage in iOS 14](https://googleprojectzero.blogspot.com/2021/01/a-look-at-imessage-in-ios-14.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
