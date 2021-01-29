@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AstraZeneca/EU contract, partly uncensored](https://fragdenstaat.de/dokumente/8409-apa_-_astrazeneca/)
+- [Sci-Founder Fellowship: $250-400k and mentoring for scientists starting startups](http://sci-founder.com)
+- [Temperature likely has no effect on the transmission of Covid-19](https://aip.scitation.org/doi/full/10.1063/10.0003485)
+- [Google reportedly scraps thousands of negative Robinhood reviews](https://cointelegraph.com/news/google-reportedly-scraps-thousands-of-negative-robinhood-reviews)
 - [Making GitHub’s new homepage fast and performant](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/)
-- [Jerry, Inc. (YC S17) Is Hiring Product, Engineering, Marketing (All Levels)](https://jerry.ai/careers)
-- [San Francisco's school board in name only](https://www.sfchronicle.com/opinion/editorials/article/Editorial-San-Francisco-s-school-board-in-name-15903477.php)
-- [Surround sound from lightweight roll-to-roll printed loudspeaker paper](https://phys.org/news/2021-01-lightweight-roll-to-roll-loudspeaker-paper.html)
-- [Die Shots of the Raspberry Pi RP2040](https://blog.adafruit.com/2021/01/29/die-shots-of-the-raspberry-pi-rp2040-chip-teardown-dieshot-reverseengineering-piday-johndmcmaster-raspberry_pi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
