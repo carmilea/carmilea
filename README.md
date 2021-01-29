@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A framework that makes things worse on purpose](https://postmodernize.telnet.asia/)
-- [Open Source Mission Control Software from NASA](https://nasa.github.io/openmct/)
-- [Losing faith in UX](https://creativegood.com/blog/21/losing-faith-in-ux.html)
-- [OpenBSD on the Lenovo ThinkPad X1 Nano](https://jcs.org/2021/01/27/x1nano)
-- [Shelf Engine (YC S18) is hiring a Senior Data Scientist to stop food waste](https://jobs.lever.co/shelfengine/ef1e1320-0a24-4343-8c51-abd83bbe2659)
+- [HackerRank (YC S11) Is Hiring](https://boards.greenhouse.io/hackerrank/jobs/2447568?gh_jid=2447568)
+- [Cuffless device delivers clinically accurate blood pressure measurements](https://www.embedded.com/cuffless-device-delivers-clinically-accurate-blood-pressure-measurements/)
+- [Interest rates have been declining globally for the past 700 years (2020)](https://www.bankofengland.co.uk/working-paper/2020/eight-centuries-of-global-real-interest-rates-r-g-and-the-suprasecular-decline-1311-2018)
+- [Robinhood Play Store listing went from 329K reviews to 180K in few hours](https://play.google.com/store/apps/details?id=com.robinhood.android&showAllReviews=true&showAllReviews=true&1)
+- [High Short Interest Stocks](https://www.highshortinterest.com/all/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
