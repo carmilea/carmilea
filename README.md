@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2021-3156: Explained, Shown and How to Patch (WSL and Linux)](https://github.com/mbcrump/CVE-2021-3156/blob/main/README.md)
+- [Can you make a basic web app without googling? I can't](https://web.eecs.utk.edu/~azh/blog/webappwithoutgoogling.html)
+- [Who Does That Server Serve? (2014)](https://www.gnu.org/philosophy/who-does-that-server-really-serve.en.html)
 - [It’s Time for Police to Stop Lying to Suspects](https://www.nytimes.com/2021/01/29/opinion/false-confessions-police-interrogation.html)
-- [IKEA using AR to let users decide which furniture fits where](https://karlsnotes.com/ikea-and-the-future-of-living/)
-- [PyCharm's Transition to Apple Silicon](https://blog.jetbrains.com/pycharm/2021/01/the-transition-to-apple-silicon/)
-- [AstraZeneca/EU contract, partly uncensored](https://fragdenstaat.de/dokumente/8409-apa_-_astrazeneca/)
-- [Robinhood’s plan to “democratize finance” hit a GameStop-shaped speed bump](https://arstechnica.com/gaming/2021/01/robinhoods-plan-to-democratize-finance-hit-a-gamestop-shaped-speed-bump/)
+- [Show HN: Wallstreetbets Sentiment Past 24 Hours](https://wsbsentiment.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
