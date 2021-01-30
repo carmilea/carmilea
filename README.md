@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [(YC W14) Is Hiring Software Engineers (Remote) – Node/PySpark](https://weworkremotely.com/remote-jobs/42-technologies-software-engineer-full-time-remote)
+- [42 (YC W14) Is Hiring Software Engineers (Remote) – Node/PySpark](https://weworkremotely.com/remote-jobs/42-technologies-software-engineer-full-time-remote)
+- [A network analysis on cloud gaming: Stadia, GeForce Now and PSNow](https://arxiv.org/abs/2012.06774)
+- [Symbols the Microsoft Way](https://randomascii.wordpress.com/2013/03/09/symbols-the-microsoft-way/)
 - [India protests: Internet cut to hunger-striking farmers in Delhi](https://www.bbc.co.uk/news/world-asia-india-55872480)
 - [Show HN: Watchpoints, an easy to use watchpoints equivalent library for Python](https://github.com/gaogaotiantian/watchpoints)
-- [Regular afternoon naps linked to improved cognitive function](https://www.sciencefocus.com/the-human-body/afternoon-naps-linked-to-improved-cognitive-function/)
-- [Once we can see them, it’s too late](https://www.scottaaronson.com/blog/?p=5253)
 <!-- BLOG-POST-LIST:END -->
 
 ---
