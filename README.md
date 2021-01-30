@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas DPS mistakenly sends out Amber Alert for Chucky doll](https://www.kens5.com/article/news/local/texas/dps-mistakenly-sends-out-amber-alert-for-chucky-doll-source-says/273-a1781aed-160a-4656-969f-641353732681)
 - [How a Cancer Drug Carrier's Structure Can Help Selectively Target Cancer Cells](https://www.tus.ac.jp/en/mediarelations/archive/20210126_1212.html)
 - [Humanlike thumb dexterity may date back as far as 2M years ago](https://www.sciencenews.org/article/humanlike-thumb-dexterity-hominid-evolution)
-- [Creating my awesome Windows 10 dev setup](https://chimerical.ca/posts/creating-my-awesome-windows-10-dev-setup/)
 - [Siliconpr0n: High Resolution Chip Maps](https://siliconpr0n.org/map/)
+- [Apple Silicon M1 supports “billion of colors” a.k.a. HDR 10-bit output](https://singhkays.com/blog/apple-silicon-m1-hdr-10bit-billion-colors/)
+- [Element (Matrix chat app) suspended from the Google Play Store](https://twitter.com/element_hq/status/1355290296947499013)
 <!-- BLOG-POST-LIST:END -->
 
 ---
