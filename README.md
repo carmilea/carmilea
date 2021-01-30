@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In Philadelphia, a Scandal Erupts over Vaccination Startup Led by 22-Year-Old](https://www.npr.org/sections/health-shots/2021/01/29/962143659/in-philadelphia-a-scandal-erupts-over-vaccination-start-up-led-by-22-year-old)
+- [University of Leicester firing all pure math faculty](https://twitter.com/wtgowers/status/1355184163020804099)
+- [According to lawsuit, Subway’s tuna sandwiches contain “no scintilla of tuna”](https://www.thecut.com/2021/01/lawsuit-claims-subway-tuna-is-made-from-anything-but-tuna.html)
 - [How a Cancer Drug Carrier's Structure Can Help Selectively Target Cancer Cells](https://www.tus.ac.jp/en/mediarelations/archive/20210126_1212.html)
 - [Humanlike thumb dexterity may date back as far as 2M years ago](https://www.sciencenews.org/article/humanlike-thumb-dexterity-hominid-evolution)
-- [Siliconpr0n: High Resolution Chip Maps](https://siliconpr0n.org/map/)
-- [Apple Silicon M1 supports “billion of colors” a.k.a. HDR 10-bit output](https://singhkays.com/blog/apple-silicon-m1-hdr-10bit-billion-colors/)
-- [Element (Matrix chat app) suspended from the Google Play Store](https://twitter.com/element_hq/status/1355290296947499013)
 <!-- BLOG-POST-LIST:END -->
 
 ---
