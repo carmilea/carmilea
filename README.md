@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Element Was Suspended from the Playstore](https://play.google.com/store/apps/details?id=im.vector.app)
-- [Creating my awesome Windows 10 dev setup](https://chimerical.ca/posts/creating-my-awesome-windows-10-dev-setup/)
 - [Siliconpr0n: High Resolution Chip Maps](https://siliconpr0n.org/map/)
 - [Apple Silicon M1 supports “billion of colors” a.k.a. HDR 10-bit output](https://singhkays.com/blog/apple-silicon-m1-hdr-10bit-billion-colors/)
 - [Europe's Vaccine Disaster](https://www.spiegel.de/international/europe/europe-s-vaccine-disaster-commission-president-ursula-von-der-leyen-seeking-to-duck-responsibility-a-1197547d-6219-4438-9d69-b76e64701802)
+- [Pixel Shaders in Windows Terminal](https://github.com/microsoft/terminal/tree/main/samples/PixelShaders)
 <!-- BLOG-POST-LIST:END -->
 
 ---
