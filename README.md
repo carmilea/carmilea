@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Moderators Speak Out About Poor Working Conditions in Ireland](https://www.vice.com/en/article/v7mqj4/watch-facebook-moderators-speak-out-about-poor-working-conditions-in-ireland)
+- [Dogecoin trading volume hits $5B, surpassing Bitcoin's for the first time ever](https://cointelegraph.com/news/dogecoin-trading-volume-hits-5b-surpassing-bitcoin-s-for-the-first-time-ever)
+- [Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites](https://webtransparency.cs.princeton.edu/dark-patterns/)
+- [Ask HN: What if Stack Overflow suddenly decides to shut down?](https://news.ycombinator.com/item?id=25968444)
 - [The Muse (YC W12) Is Hiring a Senior Product Designer](https://www.themuse.com/jobs/themuse/senior-product-designer)
-- [Offline Algorithms in Low-Frequency Trading](https://queue.acm.org/detail.cfm?id=3448307)
-- [Clojure/Script mode for CodeMirror 6](https://nextjournal.github.io/clojure-mode/)
-- [Show HN: Collection of Deep Learning implementations with side-by-side notes](https://nn.labml.ai)
-- [macOS Big Sur breaks PostgreSQL because of new security API](https://github.com/PostgresApp/PostgresApp/issues/610)
 <!-- BLOG-POST-LIST:END -->
 
 ---
