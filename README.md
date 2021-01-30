@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse (YC W12) Is Hiring a Senior Product Designer](https://www.themuse.com/jobs/themuse/senior-product-designer)
 - [Show HN: Collection of Deep Learning implementations with side-by-side notes](https://nn.labml.ai)
+- [macOS Big Sur breaks PostgreSQL because of new security API](https://github.com/PostgresApp/PostgresApp/issues/610)
 - [Number Parsing at a Gigabyte per Second](https://lemire.me/blog/2021/01/29/number-parsing-at-a-gigabyte-per-second/)
 - [New Xquartz release with native Apple Silicon support](https://www.mail-archive.com/xquartz-dev@lists.macosforge.org/msg01027.html)
-- [University of Leicester firing all pure math faculty](https://twitter.com/wtgowers/status/1355184163020804099)
-- [How a Cancer Drug Carrier's Structure Can Help Selectively Target Cancer Cells](https://www.tus.ac.jp/en/mediarelations/archive/20210126_1212.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
