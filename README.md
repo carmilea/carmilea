@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [G.M.’S Electric Car Goal Blindsides Rivals and Shakes Up an Industry](https://www.nytimes.com/2021/01/29/business/general-motors-electric-cars.html)
+- [OnePlus 6 and OnePlus 6T seeing work for mainline Linux kernel support](https://www.xda-developers.com/oneplus-6-6t-mainline-linux-kernel-support/)
+- [SOPHIE has died](https://pitchfork.com/news/sophie-has-died/)
+- [How to select best UPS and Solar to be off-grid 24 hour for 2kw](https://news.ycombinator.com/item?id=25969272)
 - [Facebook Moderators Speak Out About Poor Working Conditions in Ireland](https://www.vice.com/en/article/v7mqj4/watch-facebook-moderators-speak-out-about-poor-working-conditions-in-ireland)
-- [Dogecoin trading volume hits $5B, surpassing Bitcoin's for the first time ever](https://cointelegraph.com/news/dogecoin-trading-volume-hits-5b-surpassing-bitcoin-s-for-the-first-time-ever)
-- [Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites](https://webtransparency.cs.princeton.edu/dark-patterns/)
-- [Ask HN: What if Stack Overflow suddenly decides to shut down?](https://news.ycombinator.com/item?id=25968444)
-- [The Muse (YC W12) Is Hiring a Senior Product Designer](https://www.themuse.com/jobs/themuse/senior-product-designer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
