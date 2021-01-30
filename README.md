@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [G.M.’S Electric Car Goal Blindsides Rivals and Shakes Up an Industry](https://www.nytimes.com/2021/01/29/business/general-motors-electric-cars.html)
-- [OnePlus 6 and OnePlus 6T seeing work for mainline Linux kernel support](https://www.xda-developers.com/oneplus-6-6t-mainline-linux-kernel-support/)
-- [SOPHIE has died](https://pitchfork.com/news/sophie-has-died/)
-- [How to select best UPS and Solar to be off-grid 24 hour for 2kw](https://news.ycombinator.com/item?id=25969272)
-- [Facebook Moderators Speak Out About Poor Working Conditions in Ireland](https://www.vice.com/en/article/v7mqj4/watch-facebook-moderators-speak-out-about-poor-working-conditions-in-ireland)
+- [India proposes law to ban cryptocurrencies, create official digital currency](https://www.thehindu.com/sci-tech/technology/india-proposes-law-to-ban-cryptocurrencies-create-official-digital-currency/article33703822.ece)
+- [The Reddit GME short squeeze game plan (143 days old)](https://www.reddit.com/r/wallstreetbets/comments/ip6jnv/the_real_greatest_short_burn_of_the_century/)
+- [Cyclic Dependencies Are Evil](https://fsharpforfunandprofit.com/posts/cyclic-dependencies/)
+- [QUIC much easier to fingerprint than HTTPS](https://arxiv.org/abs/2101.11871)
+- [Electric Cars Are Coming, and Fast. Is the Nation’s Grid Up to It?](https://www.nytimes.com/2021/01/29/climate/gm-electric-cars-power-grid.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
