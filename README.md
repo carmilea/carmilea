@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [(YC W14) Is Hiring Software Engineers (Remote) – Node/PySpark](https://weworkremotely.com/remote-jobs/42-technologies-software-engineer-full-time-remote)
+- [India protests: Internet cut to hunger-striking farmers in Delhi](https://www.bbc.co.uk/news/world-asia-india-55872480)
+- [Show HN: Watchpoints, an easy to use watchpoints equivalent library for Python](https://github.com/gaogaotiantian/watchpoints)
+- [Regular afternoon naps linked to improved cognitive function](https://www.sciencefocus.com/the-human-body/afternoon-naps-linked-to-improved-cognitive-function/)
 - [Once we can see them, it’s too late](https://www.scottaaronson.com/blog/?p=5253)
-- [Why It’s Usually Crazier Than You Expect](https://www.collaborativefund.com/blog/crazy/)
-- [Analysis: Robinhood protected from lawsuits by user agreement, Congress](https://www.reuters.com/article/us-retail-trading-robinhood-liability-an-idUSKBN29Z0HI)
-- [IBM paperweight teardown: Reverse-engineering 1970s memory chips](https://www.righto.com/2021/01/ibm-paperweight-teardown-reverse.html)
-- [Cory Doctorow: IP (2020)](https://locusmag.com/2020/09/cory-doctorow-ip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
