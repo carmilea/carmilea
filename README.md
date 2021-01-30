@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wayland Keylogger (2021)](https://github.com/Aishou/wayland-keylogger)
+- [Universal Basic Income Is Superior to a $15 Minimum Wage (2019)](https://basicincometoday.com/opinion-universal-basic-income-is-superior-to-a-15-minimum-wage/)
 - [Robinhood and Reddit protected from lawsuits by user agreement, Congress](https://www.reuters.com/article/us-retail-trading-robinhood-liability-an-idUSKBN29Z0HI)
+- [IBM paperweight teardown: Reverse-engineering 1970s memory chips](https://www.righto.com/2021/01/ibm-paperweight-teardown-reverse.html)
 - [Cory Doctorow: IP](https://locusmag.com/2020/09/cory-doctorow-ip)
-- [Forget 10x Developer – Become Full X Developer](https://maxpower.substack.com/p/full-x)
-- [How to stream media using WebRTC and FFmpeg, and why it's a bad idea](https://blog.maxwellgale.com/2021/01/30/streaming-video-over-webrtc-using-ffmpeg/)
-- [A few HiDPI tricks for Linux](https://blog.yossarian.net/2020/12/24/A-few-HiDPI-tricks-for-Linux)
 <!-- BLOG-POST-LIST:END -->
 
 ---
