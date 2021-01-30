@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 - [India proposes law to ban cryptocurrencies, create official digital currency](https://www.thehindu.com/sci-tech/technology/india-proposes-law-to-ban-cryptocurrencies-create-official-digital-currency/article33703822.ece)
-- [The Reddit GME short squeeze game plan (143 days old)](https://www.reddit.com/r/wallstreetbets/comments/ip6jnv/the_real_greatest_short_burn_of_the_century/)
 - [Cyclic Dependencies Are Evil](https://fsharpforfunandprofit.com/posts/cyclic-dependencies/)
 - [QUIC much easier to fingerprint than HTTPS](https://arxiv.org/abs/2101.11871)
-- [Electric Cars Are Coming, and Fast. Is the Nation’s Grid Up to It?](https://www.nytimes.com/2021/01/29/climate/gm-electric-cars-power-grid.html)
+- [What Did We Lose When We Lost the Stars?](https://theconvivialsociety.substack.com/p/what-did-we-lose-when-we-lost-the)
 <!-- BLOG-POST-LIST:END -->
 
 ---
