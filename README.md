@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Collection of Deep Learning implementations with side-by-side notes](https://nn.labml.ai)
+- [New Xquartz release with native Apple Silicon support](https://www.mail-archive.com/xquartz-dev@lists.macosforge.org/msg01027.html)
 - [In Philadelphia, a Scandal Erupts over Vaccination Startup Led by 22-Year-Old](https://www.npr.org/sections/health-shots/2021/01/29/962143659/in-philadelphia-a-scandal-erupts-over-vaccination-start-up-led-by-22-year-old)
 - [University of Leicester firing all pure math faculty](https://twitter.com/wtgowers/status/1355184163020804099)
-- [According to lawsuit, Subway’s tuna sandwiches contain “no scintilla of tuna”](https://www.thecut.com/2021/01/lawsuit-claims-subway-tuna-is-made-from-anything-but-tuna.html)
 - [How a Cancer Drug Carrier's Structure Can Help Selectively Target Cancer Cells](https://www.tus.ac.jp/en/mediarelations/archive/20210126_1212.html)
-- [Humanlike thumb dexterity may date back as far as 2M years ago](https://www.sciencenews.org/article/humanlike-thumb-dexterity-hominid-evolution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
