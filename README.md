@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [India proposes law to ban cryptocurrencies, create official digital currency](https://www.thehindu.com/sci-tech/technology/india-proposes-law-to-ban-cryptocurrencies-create-official-digital-currency/article33703822.ece)
-- [Cyclic Dependencies Are Evil](https://fsharpforfunandprofit.com/posts/cyclic-dependencies/)
-- [QUIC much easier to fingerprint than HTTPS](https://arxiv.org/abs/2101.11871)
-- [What Did We Lose When We Lost the Stars?](https://theconvivialsociety.substack.com/p/what-did-we-lose-when-we-lost-the)
+- [Robinhood and Reddit protected from lawsuits by user agreement, Congress](https://www.reuters.com/article/us-retail-trading-robinhood-liability-an-idUSKBN29Z0HI)
+- [Cory Doctorow: IP](https://locusmag.com/2020/09/cory-doctorow-ip)
+- [Forget 10x Developer – Become Full X Developer](https://maxpower.substack.com/p/full-x)
+- [How to stream media using WebRTC and FFmpeg, and why it's a bad idea](https://blog.maxwellgale.com/2021/01/30/streaming-video-over-webrtc-using-ffmpeg/)
+- [A few HiDPI tricks for Linux](https://blog.yossarian.net/2020/12/24/A-few-HiDPI-tricks-for-Linux)
 <!-- BLOG-POST-LIST:END -->
 
 ---
