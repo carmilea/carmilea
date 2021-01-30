@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Updated for 2021: Docker Django and Intercooler Is Go-To Stack for Building SaaS](https://www.simplecto.com/docker-django-traefik-intercoolerjs-is-my-stack-for-2021/)
+- [Software Verification and Analysis Using Z3](https://research.nccgroup.com/2021/01/29/software-verification-and-analysis-using-z3/)
 - [42 (YC W14) Is Hiring Software Engineers (Remote) – Node/PySpark](https://weworkremotely.com/remote-jobs/42-technologies-software-engineer-full-time-remote)
 - [A network analysis on cloud gaming: Stadia, GeForce Now and PSNow](https://arxiv.org/abs/2012.06774)
 - [Symbols the Microsoft Way](https://randomascii.wordpress.com/2013/03/09/symbols-the-microsoft-way/)
-- [India protests: Internet cut to hunger-striking farmers in Delhi](https://www.bbc.co.uk/news/world-asia-india-55872480)
-- [Show HN: Watchpoints, an easy to use watchpoints equivalent library for Python](https://github.com/gaogaotiantian/watchpoints)
 <!-- BLOG-POST-LIST:END -->
 
 ---
