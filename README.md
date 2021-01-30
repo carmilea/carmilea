@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wayland Keylogger (2021)](https://github.com/Aishou/wayland-keylogger)
-- [Universal Basic Income Is Superior to a $15 Minimum Wage (2019)](https://basicincometoday.com/opinion-universal-basic-income-is-superior-to-a-15-minimum-wage/)
-- [Robinhood and Reddit protected from lawsuits by user agreement, Congress](https://www.reuters.com/article/us-retail-trading-robinhood-liability-an-idUSKBN29Z0HI)
+- [Once we can see them, it’s too late](https://www.scottaaronson.com/blog/?p=5253)
+- [Why It’s Usually Crazier Than You Expect](https://www.collaborativefund.com/blog/crazy/)
+- [Analysis: Robinhood protected from lawsuits by user agreement, Congress](https://www.reuters.com/article/us-retail-trading-robinhood-liability-an-idUSKBN29Z0HI)
 - [IBM paperweight teardown: Reverse-engineering 1970s memory chips](https://www.righto.com/2021/01/ibm-paperweight-teardown-reverse.html)
-- [Cory Doctorow: IP](https://locusmag.com/2020/09/cory-doctorow-ip)
+- [Cory Doctorow: IP (2020)](https://locusmag.com/2020/09/cory-doctorow-ip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
