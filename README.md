@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Collector of Math and Physics Surprises](https://www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/)
+- [Show HN: YaHNd – HN Books: The Best Books of Hacker News](https://yahnd.com/books/)
+- [AtoB (YC S20) – Stripe for Transportation – Hiring Founding Team Engineers](https://www.notion.so/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
+- [Iran's blogfather: Facebook, Instagram and Twitter are killing the web](https://www.theguardian.com/technology/2015/dec/29/irans-blogfather-facebook-instagram-and-twitter-are-killing-the-web)
 - [Launch HN: LayerCI (YC S20) - Staging servers that act like (and replace) CI](https://news.ycombinator.com/item?id=25979941)
-- [Why GNU/Linux Viruses are fairly uncommon](https://www.gnu.org/fun/jokes/evilmalware.html)
-- [GitHub Should Start an App Store](https://www.ankshilp.com/time_for_github_app_store/)
-- [Why Robinhood Disabled Buys but Not Sells](https://stu2b50.dev/posts/why-robinhood-d3580b)
-- [Access to vocational education can boost income over the long term](https://voxeu.org/article/access-vocational-education-can-boost-income-over-long-term)
 <!-- BLOG-POST-LIST:END -->
 
 ---
