@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Alan Turing Cryptography Competition](https://www.maths.manchester.ac.uk/cryptography_competition/)
 - [Release (YC W20) Is Hiring – Senior Rails with DevOps (K8s) Experience](https://www.workatastartup.com/jobs/41565)
+- [RFC 8959: The “secret-token” URI Scheme](https://www.rfc-editor.org/rfc/rfc8959.txt)
 - [Diamonds Aren’t Special and Neither Is Your Love](https://www.theatlantic.com/family/archive/2021/01/diamonds-arent-special-and-neither-is-your-love/617859/)
 - [Show HN: alsa_rnnoise is a HQ noise filter for ALSA, powered by Xiph.Org RNNoise](https://sr.ht/~arsen/alsa_rnnoise/)
-- [How to Turn an IKEA Coffee Table into a DIY Server Rack](https://wiki.eth0.nl/index.php/LackRack)
-- [NumPy 1.20](https://numpy.org/doc/1.20/release/1.20.0-notes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
