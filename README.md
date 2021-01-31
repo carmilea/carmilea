@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome 89 Beta: Advanced Hardware Interactions, Web Sharing on Desktop, and More](https://blog.chromium.org/2021/01/chrome-89-beta-advanced-hardware.html)
+- [ZX Spectrum Next: The Evolution of the Speccy](https://www.specnext.com/about/)
+- [Naked shorting: The curious incident of the shares that didn't exist](https://web.archive.org/web/20160215135645/https://www.euromoney.com/Article/1001047/Naked-shorting-The-curious-incident-of-the-shares-that-didnt-.html)
+- [US, Argentina agree to exchange country-by-country reports on multinationals](https://mnetax.com/us-argentina-agree-to-exchange-country-by-country-reports-of-large-multinational-42276)
 - [Studying the impact of U.S. immigration barriers on global knowledge production](https://privpapers.ssrn.com/sol3/papers.cfm?abstract_id=3762886)
-- [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol [pdf] (2019)](https://eprint.iacr.org/2016/889.pdf)
-- [Meshtastic: Open-source, off-grid, hiking, climbing, GPS mesh communicator](https://meshtastic.letstalkthis.com/)
-- [New powerful malware obfuscation technique](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9186656#8866)
-- [A Collector of Math and Physics Surprises](https://www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
