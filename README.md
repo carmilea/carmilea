@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrants to the US are up to 6 times more productive than migrants elsewhere](https://privpapers.ssrn.com/sol3/papers.cfm?abstract_id=3762886)
+- [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol [pdf] (2019)](https://eprint.iacr.org/2016/889.pdf)
+- [Meshtastic: Open-source, off-grid, hiking, climbing, GPS mesh communicator](https://meshtastic.letstalkthis.com/)
+- [New powerful malware obfuscation technique](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9186656#8866)
 - [A Collector of Math and Physics Surprises](https://www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/)
-- [Show HN: YaHNd – HN Books: The Best Books of Hacker News](https://yahnd.com/books/)
-- [AtoB (YC S20) – Stripe for Transportation – Hiring Founding Team Engineers](https://www.notion.so/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
-- [Iran's blogfather: Facebook, Instagram and Twitter are killing the web](https://www.theguardian.com/technology/2015/dec/29/irans-blogfather-facebook-instagram-and-twitter-are-killing-the-web)
-- [Launch HN: LayerCI (YC S20) - Staging servers that act like (and replace) CI](https://news.ycombinator.com/item?id=25979941)
 <!-- BLOG-POST-LIST:END -->
 
 ---
