@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Airwindows – Free VST Plugins for Mac, Windows and Linux](http://www.airwindows.com/vsts/)
-- [My 90s TV: Browse 90s Television](https://my90stv.com)
-- [Ecstasy and psilocybin are shaking up psychiatry](https://www.nature.com/articles/d41586-021-00187-9)
-- [Updated for 2021: Docker Django and Intercooler Is Go-To Stack for Building SaaS](https://www.simplecto.com/docker-django-traefik-intercoolerjs-is-my-stack-for-2021/)
-- [Software Verification and Analysis Using Z3](https://research.nccgroup.com/2021/01/29/software-verification-and-analysis-using-z3/)
+- [CDC website built by Deloitte at a cost of $44M is abandoned due to bugs](https://www.technologyreview.com/2021/01/30/1017086/cdc-44-million-vaccine-data-vams-problems/)
+- [Dodger Stadium vaccination site shut down amid protest](https://www.latimes.com/california/story/2021-01-30/dodger-stadiums-covid-19-vaccination-site-shutdown-after-dozens-of-protesters-gather-at-entrance)
+- [RV64X: A Free, open-source GPU for RISC-V](https://www.eetimes.com/rv64x-a-free-open-source-gpu-for-risc-v/)
+- [MDMA Solo – A practical guide for healing your self [pdf]](https://ia902906.us.archive.org/5/items/mdmasolo/MDMA%20solo.pdf)
+- [‘Meme stock’ rally rescues AMC theaters from $600M debt](https://www.polygon.com/movies/2021/1/29/22256360/amc-stock-price-reddit-rally-robinhood-debt-conversion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
