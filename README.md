@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google union in turmoil following global alliance announcement](https://www.theverge.com/2021/1/30/22256577/alphabet-workers-union-turmoil-global-alliance-announcement-google-cwa)
-- [A Model for Identity in Software](https://christine.website/blog/identity-model-software-2021-01-31)
-- [Respect Your Power Users](https://tedium.co/2021/01/27/power-users-history/)
-- [The Alan Turing Cryptography Competition](https://www.maths.manchester.ac.uk/cryptography_competition/)
-- [Release (YC W20) Is Hiring – Senior Rails with DevOps (K8s) Experience](https://www.workatastartup.com/jobs/41565)
+- [GitHub Should Start an App Store](https://www.ankshilp.com/time_for_github_app_store/)
+- [The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html)
+- [IoT Network Watches You as You Shop – Without Cameras](https://www.thingsquare.com/blog/articles/iot-mesh-retail/)
+- [Rome in 3D](https://relivehistoryin3d.com/projects/rome-in-3d/)
+- [Americans Don’t Know What Urban Collapse Looks Like](https://www.theatlantic.com/ideas/archive/2021/01/seductive-appeal-urban-catastrophe/617878/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
