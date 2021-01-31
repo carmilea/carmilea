@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I work on code search at GitHub – what needs to improve?](https://twitter.com/JnBrymn/status/1355654689652690953)
+- [Build your own X, a collection of tutorials (Search engine, Neural Net, etc.)](https://github.com/danistefanovic/build-your-own-x)
 - [CDC website built by Deloitte at a cost of $44M is abandoned due to bugs](https://www.technologyreview.com/2021/01/30/1017086/cdc-44-million-vaccine-data-vams-problems/)
 - [RV64X: A Free, open-source GPU for RISC-V](https://www.eetimes.com/rv64x-a-free-open-source-gpu-for-risc-v/)
 - [‘Meme stock’ rally rescues AMC theaters from $600M debt](https://www.polygon.com/movies/2021/1/29/22256360/amc-stock-price-reddit-rally-robinhood-debt-conversion)
