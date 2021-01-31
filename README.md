@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Drawbacks of P2P (and a Defense of Signal)](https://changelog.complete.org/archives/10216-the-hidden-drawbacks-of-p2p-and-a-defense-of-signal)
 - [An Archeologist’s Guide to Beer Cans](https://daily.jstor.org/an-archeologists-guide-to-beer-cans/)
 - [Chronicles of a Bubble Tea Addict](https://www.newyorker.com/culture/personal-history/chronicles-of-a-bubble-tea-addict)
 - [Build your own X, a collection of tutorials (Search engine, Neural Net, etc.)](https://github.com/danistefanovic/build-your-own-x)
 - [CDC website built by Deloitte at a cost of $44M is abandoned due to bugs](https://www.technologyreview.com/2021/01/30/1017086/cdc-44-million-vaccine-data-vams-problems/)
-- [RV64X: A Free, open-source GPU for RISC-V](https://www.eetimes.com/rv64x-a-free-open-source-gpu-for-risc-v/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
