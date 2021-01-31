@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Airwindows – Free VST Plugins for Mac, Windows and Linux](http://www.airwindows.com/vsts/)
+- [My 90s TV: Browse 90s Television](https://my90stv.com)
+- [Ecstasy and psilocybin are shaking up psychiatry](https://www.nature.com/articles/d41586-021-00187-9)
 - [Updated for 2021: Docker Django and Intercooler Is Go-To Stack for Building SaaS](https://www.simplecto.com/docker-django-traefik-intercoolerjs-is-my-stack-for-2021/)
 - [Software Verification and Analysis Using Z3](https://research.nccgroup.com/2021/01/29/software-verification-and-analysis-using-z3/)
-- [42 (YC W14) Is Hiring Software Engineers (Remote) – Node/PySpark](https://weworkremotely.com/remote-jobs/42-technologies-software-engineer-full-time-remote)
-- [A network analysis on cloud gaming: Stadia, GeForce Now and PSNow](https://arxiv.org/abs/2012.06774)
-- [Symbols the Microsoft Way](https://randomascii.wordpress.com/2013/03/09/symbols-the-microsoft-way/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
