@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Model for Identity in Software](https://christine.website/blog/identity-model-software-2021-01-31)
+- [Respect Your Power Users](https://tedium.co/2021/01/27/power-users-history/)
 - [The Alan Turing Cryptography Competition](https://www.maths.manchester.ac.uk/cryptography_competition/)
 - [Release (YC W20) Is Hiring – Senior Rails with DevOps (K8s) Experience](https://www.workatastartup.com/jobs/41565)
 - [RFC 8959: The “secret-token” URI Scheme](https://www.rfc-editor.org/rfc/rfc8959.txt)
-- [Diamonds Aren’t Special and Neither Is Your Love](https://www.theatlantic.com/family/archive/2021/01/diamonds-arent-special-and-neither-is-your-love/617859/)
-- [Show HN: alsa_rnnoise is a HQ noise filter for ALSA, powered by Xiph.Org RNNoise](https://sr.ht/~arsen/alsa_rnnoise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
