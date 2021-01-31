@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit and Robinhood gamified the stock market, and it’s going to end badly](https://qz.com/1966818/with-gamestop-reddit-and-robinhood-gamified-the-stock-market/)
-- [Bringing Stack Clash Protection to Clang / x86](https://blog.llvm.org/posts/2021-01-05-stack-clash-protection/)
-- [Decentro (YC S20) Is Hiring Senior Back-End Engineers](https://www.workatastartup.com/jobs/21940)
-- [Crun: Fully featured OCI runtime and C library for running containers](https://github.com/containers/crun)
-- [How does Clang 2.7 hold up in 2021?](https://gist.github.com/zeux/3ce4fcc3a43072b4315abde95319ecb6)
+- [Release (YC W20) Is Hiring – Senior Rails with DevOps (K8s) Experience](https://www.workatastartup.com/jobs/41565)
+- [Diamonds Aren’t Special and Neither Is Your Love](https://www.theatlantic.com/family/archive/2021/01/diamonds-arent-special-and-neither-is-your-love/617859/)
+- [Show HN: alsa_rnnoise is a HQ noise filter for ALSA, powered by Xiph.Org RNNoise](https://sr.ht/~arsen/alsa_rnnoise/)
+- [How to Turn an IKEA Coffee Table into a DIY Server Rack](https://wiki.eth0.nl/index.php/LackRack)
+- [NumPy 1.20](https://numpy.org/doc/1.20/release/1.20.0-notes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
