@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NES.css – NES-Style CSS Framework](https://nostalgic-css.github.io/NES.css/)
+- [Visa May Add Cryptocurrencies to Its Payments Network, Says CEO](https://www.coindesk.com/visa-may-add-cryptocurrencies-to-its-payments-network-says-ceo)
 - [Chrome 89 Beta: Advanced Hardware Interactions, Web Sharing on Desktop, and More](https://blog.chromium.org/2021/01/chrome-89-beta-advanced-hardware.html)
 - [ZX Spectrum Next: The Evolution of the Speccy](https://www.specnext.com/about/)
-- [Naked shorting: The curious incident of the shares that didn't exist](https://web.archive.org/web/20160215135645/https://www.euromoney.com/Article/1001047/Naked-shorting-The-curious-incident-of-the-shares-that-didnt-.html)
-- [US, Argentina agree to exchange country-by-country reports on multinationals](https://mnetax.com/us-argentina-agree-to-exchange-country-by-country-reports-of-large-multinational-42276)
-- [Studying the impact of U.S. immigration barriers on global knowledge production](https://privpapers.ssrn.com/sol3/papers.cfm?abstract_id=3762886)
+- [Picmunge: An Image-Processing Pipeline](https://picmunge.cvservant.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
