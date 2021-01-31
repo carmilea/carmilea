@@ -54,8 +54,8 @@
 - [The Virus Changed. Now We Must ‘Get to Zero’ or Face Catastrophe](https://thetyee.ca/Analysis/2021/01/28/Virus-Changed-Get-To-Zero-Face-Catastrophe/)
 - [Decentro (YC S20) Is Hiring Senior Back-End Engineers](https://www.workatastartup.com/jobs/21940)
 - [Crun: Fully featured OCI runtime and C library for running containers](https://github.com/containers/crun)
+- [3D reconstructions using a phone and employing binary encoded modulation LEDs](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-2-1502&id=446446)
 - [How does Clang 2.7 hold up in 2021?](https://gist.github.com/zeux/3ce4fcc3a43072b4315abde95319ecb6)
-- [FM Reception with the GNU Radio Companion](https://www.nutsvolts.com/magazine/article/fm-reception-with-the-gnu-radio-companion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
