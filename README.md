@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Archeologist’s Guide to Beer Cans](https://daily.jstor.org/an-archeologists-guide-to-beer-cans/)
+- [Chronicles of a Bubble Tea Addict](https://www.newyorker.com/culture/personal-history/chronicles-of-a-bubble-tea-addict)
 - [Build your own X, a collection of tutorials (Search engine, Neural Net, etc.)](https://github.com/danistefanovic/build-your-own-x)
 - [CDC website built by Deloitte at a cost of $44M is abandoned due to bugs](https://www.technologyreview.com/2021/01/30/1017086/cdc-44-million-vaccine-data-vams-problems/)
 - [RV64X: A Free, open-source GPU for RISC-V](https://www.eetimes.com/rv64x-a-free-open-source-gpu-for-risc-v/)
-- [‘Meme stock’ rally rescues AMC theaters from $600M debt](https://www.polygon.com/movies/2021/1/29/22256360/amc-stock-price-reddit-rally-robinhood-debt-conversion)
-- [Airwindows – Free VST Plugins for Mac, Windows and Linux](http://www.airwindows.com/vsts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
