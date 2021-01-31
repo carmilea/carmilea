@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrants to the US are up to 6 times more productive than migrants elsewhere](https://privpapers.ssrn.com/sol3/papers.cfm?abstract_id=3762886)
+- [Studying the impact of U.S. immigration barriers on global knowledge production](https://privpapers.ssrn.com/sol3/papers.cfm?abstract_id=3762886)
 - [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol [pdf] (2019)](https://eprint.iacr.org/2016/889.pdf)
 - [Meshtastic: Open-source, off-grid, hiking, climbing, GPS mesh communicator](https://meshtastic.letstalkthis.com/)
 - [New powerful malware obfuscation technique](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9186656#8866)
