@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You Don't Need Kafka](https://vicki.substack.com/p/you-dont-need-kafka)
+- [Hedge fund Melvin sustains 53% loss after Reddit onslaught](https://arstechnica.com/gadgets/2021/01/hedge-fund-melvin-sustains-53-loss-after-reddit-onslaught/)
 - [NES.css – NES-Style CSS Framework](https://nostalgic-css.github.io/NES.css/)
-- [Visa May Add Cryptocurrencies to Its Payments Network, Says CEO](https://www.coindesk.com/visa-may-add-cryptocurrencies-to-its-payments-network-says-ceo)
-- [Chrome 89 Beta: Advanced Hardware Interactions, Web Sharing on Desktop, and More](https://blog.chromium.org/2021/01/chrome-89-beta-advanced-hardware.html)
-- [ZX Spectrum Next: The Evolution of the Speccy](https://www.specnext.com/about/)
-- [Picmunge: An Image-Processing Pipeline](https://picmunge.cvservant.com/)
+- [WhatsApp and the Domestication of Users](https://seirdy.one/2021/01/27/whatsapp-and-the-domestication-of-users.html)
+- [Your Success Is Not a Story](https://taylorlorenz.substack.com/p/your-success-is-not-a-story)
 <!-- BLOG-POST-LIST:END -->
 
 ---
