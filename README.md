@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: LayerCI (YC S20) - Staging servers that act like (and replace) CI](https://news.ycombinator.com/item?id=25979941)
+- [Why GNU/Linux Viruses are fairly uncommon](https://www.gnu.org/fun/jokes/evilmalware.html)
 - [GitHub Should Start an App Store](https://www.ankshilp.com/time_for_github_app_store/)
-- [The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html)
-- [IoT Network Watches You as You Shop – Without Cameras](https://www.thingsquare.com/blog/articles/iot-mesh-retail/)
-- [Rome in 3D](https://relivehistoryin3d.com/projects/rome-in-3d/)
-- [Americans Don’t Know What Urban Collapse Looks Like](https://www.theatlantic.com/ideas/archive/2021/01/seductive-appeal-urban-catastrophe/617878/)
+- [Why Robinhood Disabled Buys but Not Sells](https://stu2b50.dev/posts/why-robinhood-d3580b)
+- [Access to vocational education can boost income over the long term](https://voxeu.org/article/access-vocational-education-can-boost-income-over-long-term)
 <!-- BLOG-POST-LIST:END -->
 
 ---
