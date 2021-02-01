@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GameStop Short Squeeze: The Media Has It Wrong](https://www.mergersandinquisitions.com/gamestop-short-squeeze/)
+- [Tamper-Evident Logs](https://transparency.dev/)
+- [Personal Memoirs of a Silicon Valley Tech Whore: Part 1](https://solaire.substack.com/p/personal-memoirs-of-a-silicon-valley)
 - [Sirum (YC W15) is hiring folks with pharmacy experience](https://news.ycombinator.com/item?id=25993873)
 - [Show HN: ASL Classifier Built with CoreML and Roboflow](https://github.com/narner/ASL-Classifier-Demo)
 - [VideoLAN is 20 years old today](https://www.videolan.org/press/videolan-20.html)
-- [Google Stadia shuts down internal studios, changing business focus](https://kotaku.com/google-stadia-shuts-down-internal-studios-changing-bus-1846146761)
 <!-- BLOG-POST-LIST:END -->
 
 ---
