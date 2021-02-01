@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla's dirty little secret: Its net profit doesn't come from selling cars](https://www.cnn.com/2021/01/31/investing/tesla-profitability/index.html)
+- [Tesla's net profit doesn't come from selling cars](https://www.cnn.com/2021/01/31/investing/tesla-profitability/index.html)
 - [Odeko (YC S19) is hiring Senior Engineers – join our distributed team](https://angel.co/company/odeko-inc/jobs)
 - [Communications Minister touts the opportunities of a Google-less Australia](https://www.zdnet.com/article/communications-minister-touts-the-opportunities-of-a-google-less-australia/)
+- [Ask HN: Recommended books and papers on distributed systems?](https://news.ycombinator.com/item?id=25987664)
 - [Build a Raspberry Pi CM4 4-Bay NAS with Wiretrustee Carrier Board](https://www.cnx-software.com/2021/02/01/build-a-raspberry-pi-cm4-4-bay-nas-with-wiretrustee-carrier-board/)
-- [Internet disrupted in Myanmar amid military coup](https://netblocks.org/reports/internet-disrupted-in-myanmar-amid-apparent-military-uprising-JBZrmlB6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
