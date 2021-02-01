@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Myanmar military takes control of country after detaining Aung San Suu Kyi](https://www.bbc.com/news/world-asia-55882489)
+- [Semgrep: JavaScript browser security concat bypass not detected](https://github.com/returntocorp/semgrep/issues/2409)
+- [Spotify wins patent to surveil users’ emotions to recommend music](https://www.thesanfranciscotelegraph.com/technology/3678/in-spotify-music-listens-to-you-streaming-platform-wins-patent-to-surveil-users-emotions-to-recommend-music/)
 - [Show HN: A retrainable subtitle synchronizer you can now build your own](https://subaligner.readthedocs.io/)
 - [AMD vs. Intel vs. Nvidia: How Users Are Switching](https://boilingsteam.com/amd-vs-nvidia-are-linux-gamers-switching-yet/)
-- [Bedrock Linux – a meta Linux distribution](https://bedrocklinux.org/)
-- [Many use cases don’t require Kafka (2019)](https://vicki.substack.com/p/you-dont-need-kafka)
-- [Hedge fund Melvin sustains 53% loss after Reddit onslaught](https://arstechnica.com/gadgets/2021/01/hedge-fund-melvin-sustains-53-loss-after-reddit-onslaught/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
