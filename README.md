@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Internet disrupted in Myanmar amid military coup](https://netblocks.org/reports/internet-disrupted-in-myanmar-amid-apparent-military-uprising-JBZrmlB6)
 - [Apple watch keyboard developer put off by app store scammers](https://twitter.com/keleftheriou/status/1356011069395755009)
 - [Protonmail Is Experiencing an Outage](https://protonstatus.com/)
 - [gemini:// Space](https://spwhitton.name//blog/entry/geminispace/)
 - [Show HN: Deploy ML Models on a Budget](https://github.com/ebhy/budgetml)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
