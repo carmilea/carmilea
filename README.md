@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Unexpected Find That Freed 20GB of Unused Index Space in PostgreSQL](https://hakibenita.com/postgresql-unused-index-size)
-- [SpaCy v3.0 Released (Python Natural Language Processing)](https://github.com/explosion/spaCy/releases/tag/v3.0.0)
+- [Launch HN: Albedo (YC W21) – Highest resolution satellite imagery](https://news.ycombinator.com/item?id=25989085)
+- [An unexpected find that freed 20gb of unused index space in PostgreSQL](https://hakibenita.com/postgresql-unused-index-size)
+- [SpaCy 3.0](https://github.com/explosion/spaCy/releases/tag/v3.0.0)
 - [Slack’s Outage on January 4th 2021](https://slack.engineering/slacks-outage-on-january-4th-2021/)
 - [Secure your MQTT server with authentication and encryption](https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/)
-- [A simple ray tracer in Lean 4](https://github.com/kmill/lean4-raytracer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
