@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla's net profit doesn't come from selling cars](https://www.cnn.com/2021/01/31/investing/tesla-profitability/index.html)
-- [Odeko (YC S19) is hiring Senior Engineers – join our distributed team](https://angel.co/company/odeko-inc/jobs)
-- [Communications Minister touts the opportunities of a Google-less Australia](https://www.zdnet.com/article/communications-minister-touts-the-opportunities-of-a-google-less-australia/)
-- [Ask HN: Recommended books and papers on distributed systems?](https://news.ycombinator.com/item?id=25987664)
-- [Build a Raspberry Pi CM4 4-Bay NAS with Wiretrustee Carrier Board](https://www.cnx-software.com/2021/02/01/build-a-raspberry-pi-cm4-4-bay-nas-with-wiretrustee-carrier-board/)
+- [The Unexpected Find That Freed 20GB of Unused Index Space in PostgreSQL](https://hakibenita.com/postgresql-unused-index-size)
+- [SpaCy v3.0 Released (Python Natural Language Processing)](https://github.com/explosion/spaCy/releases/tag/v3.0.0)
+- [Slack’s Outage on January 4th 2021](https://slack.engineering/slacks-outage-on-january-4th-2021/)
+- [Secure your MQTT server with authentication and encryption](https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/)
+- [A simple ray tracer in Lean 4](https://github.com/kmill/lean4-raytracer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
