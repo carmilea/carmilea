@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unbroken Enigma Message](https://enigma.hoerenberg.com/index.php?cat=Unbroken)
+- [Should individuals who already had a SARS-CoV-2 infection receive 1 or 2 shots? [pdf]](https://www.medrxiv.org/content/10.1101/2021.01.29.21250653v1.full.pdf)
+- [Drug decriminalization in Oregon begins today](https://drugpolicy.org/press-release/2021/02/drug-decriminalization-oregon-officially-begins-today)
 - [Launch HN: Opstrace (YC S19) – open-source Datadog](https://news.ycombinator.com/item?id=25991485)
 - [KeePassXC 2.6.4 Released](https://keepassxc.org/blog/2021-01-31-2.6.4-released/)
-- [The Cult of Best Practice](https://domk.website/blog/2021-01-31-cult-of-best-practise.html)
-- [FastAPI framework, high perf, easy to learn, fast to code, ready for production](https://fastapi.tiangolo.com/)
-- [Russian Pipeline Is Germany's Greatest Foreign Policy Embarrassment](https://www.spiegel.de/international/germany/a-price-too-high-russian-pipeline-is-germany-s-greatest-foreign-policy-embarrassment-a-0fcefa58-ca51-41ca-b480-98015203e9fa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
