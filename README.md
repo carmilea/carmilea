@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GameStop situation is a golden opportunity for decentralized exchanges](https://modernconsensus.com/commentary/opinion/gamestop-is-defis-golden-moment/)
-- [Focusing on Stadia’s future as a platform, and winding down SG&E](https://blog.google/products/stadia/focusing-on-stadias-future-as-a-platform-and-winding-down-sge)
+- [Sirum (YC W15) is hiring folks with pharmacy experience](https://news.ycombinator.com/item?id=25993873)
+- [Show HN: ASL Classifier Built with CoreML and Roboflow](https://github.com/narner/ASL-Classifier-Demo)
 - [VideoLAN is 20 years old today](https://www.videolan.org/press/videolan-20.html)
-- [Google Stadia Shuts Down Internal Studios, Changing Business Focus](https://kotaku.com/google-stadia-shuts-down-internal-studios-changing-bus-1846146761)
+- [Google Stadia shuts down internal studios, changing business focus](https://kotaku.com/google-stadia-shuts-down-internal-studios-changing-bus-1846146761)
 - [Itanium: Mark Architecture as Orphaned](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=228345bf98cd78f91d007478a51f9a471489e44a)
 <!-- BLOG-POST-LIST:END -->
 
