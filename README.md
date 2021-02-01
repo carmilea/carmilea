@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cloak-and-Dagger Tale Behind an Anticipated Result in Particle Physics](https://www.sciencemag.org/news/2021/01/cloak-and-dagger-tale-behind-year-s-most-anticipated-result-particle-physics)
 - [Myanmar military takes control of country after detaining Aung San Suu Kyi](https://www.bbc.com/news/world-asia-55882489)
+- [That’s Big Sir to You (SuperDuper, Big Sur)](https://www.shirtpocket.com/blog/index.php/shadedgrey/thats_big_sir_to_you/)
 - [Semgrep: JavaScript browser security concat bypass not detected](https://github.com/returntocorp/semgrep/issues/2409)
 - [Spotify wins patent to surveil users’ emotions to recommend music](https://www.thesanfranciscotelegraph.com/technology/3678/in-spotify-music-listens-to-you-streaming-platform-wins-patent-to-surveil-users-emotions-to-recommend-music/)
-- [Show HN: A retrainable subtitle synchronizer you can now build your own](https://subaligner.readthedocs.io/)
-- [AMD vs. Intel vs. Nvidia: How Users Are Switching](https://boilingsteam.com/amd-vs-nvidia-are-linux-gamers-switching-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
