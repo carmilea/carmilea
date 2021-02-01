@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pip has dropped support for Python 2](https://pip.pypa.io/en/stable/news/#id4)
+- [Launch HN: Opstrace (YC S19) – open-source Datadog](https://news.ycombinator.com/item?id=25991485)
+- [KeePassXC 2.6.4 Released](https://keepassxc.org/blog/2021-01-31-2.6.4-released/)
+- [The Cult of Best Practice](https://domk.website/blog/2021-01-31-cult-of-best-practise.html)
 - [FastAPI framework, high perf, easy to learn, fast to code, ready for production](https://fastapi.tiangolo.com/)
-- [Dunkin’ employee was fired for giving donuts that gone to waste to the homeless](https://www.dailydot.com/irl/dunkin-employee-who-exposed-waste-policy-fired/)
 - [Russian Pipeline Is Germany's Greatest Foreign Policy Embarrassment](https://www.spiegel.de/international/germany/a-price-too-high-russian-pipeline-is-germany-s-greatest-foreign-policy-embarrassment-a-0fcefa58-ca51-41ca-b480-98015203e9fa)
-- [UpCodes is hiring 2 SWEs, 1 ops mgr to automate compliance for architects](https://up.codes/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
