@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple watch keyboard developer put off by app store scammers](https://twitter.com/keleftheriou/status/1356011069395755009)
+- [Protonmail Is Experiencing an Outage](https://protonstatus.com/)
 - [gemini:// Space](https://spwhitton.name//blog/entry/geminispace/)
+- [Show HN: Deploy ML Models on a Budget](https://github.com/ebhy/budgetml)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [Amazon’s Ring now reportedly partners with 2k US police and fire departments](https://www.theverge.com/2021/1/31/22258856/amazon-ring-partners-police-fire-security-privacy-cameras)
-- [It Feels Like the Game Is Rigged](https://theirrelevantinvestor.com/2021/02/01/it-feels-like-the-game-is-rigged/)
-- [A cloak-and-dagger tale behind an anticipated result in particle physics](https://www.sciencemag.org/news/2021/01/cloak-and-dagger-tale-behind-year-s-most-anticipated-result-particle-physics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
