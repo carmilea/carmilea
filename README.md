@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla's dirty little secret: Its net profit doesn't come from selling cars](https://www.cnn.com/2021/01/31/investing/tesla-profitability/index.html)
+- [Odeko (YC S19) is hiring Senior Engineers – join our distributed team](https://angel.co/company/odeko-inc/jobs)
+- [Communications Minister touts the opportunities of a Google-less Australia](https://www.zdnet.com/article/communications-minister-touts-the-opportunities-of-a-google-less-australia/)
+- [Build a Raspberry Pi CM4 4-Bay NAS with Wiretrustee Carrier Board](https://www.cnx-software.com/2021/02/01/build-a-raspberry-pi-cm4-4-bay-nas-with-wiretrustee-carrier-board/)
 - [Internet disrupted in Myanmar amid military coup](https://netblocks.org/reports/internet-disrupted-in-myanmar-amid-apparent-military-uprising-JBZrmlB6)
-- [Apple watch keyboard developer put off by app store scammers](https://twitter.com/keleftheriou/status/1356011069395755009)
-- [Protonmail Is Experiencing an Outage](https://protonstatus.com/)
-- [gemini:// Space](https://spwhitton.name//blog/entry/geminispace/)
-- [Show HN: Deploy ML Models on a Budget](https://github.com/ebhy/budgetml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
