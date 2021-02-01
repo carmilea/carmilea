@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [This is how Google will collapse](https://www.googliath.org/this-is-how-google-will-collapse-by-daniel-colin-james/)
 - [Signal, Telegram rendered useless during Myanmar coup – deauth + SMS offline](https://twitter.com/the_ayeminthant/status/1356064981712691200)
 - [It Feels Like the Game Is Rigged](https://theirrelevantinvestor.com/2021/02/01/it-feels-like-the-game-is-rigged/)
 - [The Cloak-and-Dagger Tale Behind an Anticipated Result in Particle Physics](https://www.sciencemag.org/news/2021/01/cloak-and-dagger-tale-behind-year-s-most-anticipated-result-particle-physics)
-- [That’s Big Sir to You (SuperDuper, Big Sur)](https://www.shirtpocket.com/blog/index.php/shadedgrey/thats_big_sir_to_you/)
-- [Semgrep: JavaScript browser security concat bypass not detected](https://github.com/returntocorp/semgrep/issues/2409)
+- [That’s Big Sir to You](https://www.shirtpocket.com/blog/index.php/shadedgrey/thats_big_sir_to_you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
