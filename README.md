@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unbroken Enigma Message](https://enigma.hoerenberg.com/index.php?cat=Unbroken)
-- [Should individuals who already had a SARS-CoV-2 infection receive 1 or 2 shots? [pdf]](https://www.medrxiv.org/content/10.1101/2021.01.29.21250653v1.full.pdf)
-- [Drug decriminalization in Oregon begins today](https://drugpolicy.org/press-release/2021/02/drug-decriminalization-oregon-officially-begins-today)
-- [Launch HN: Opstrace (YC S19) – open-source Datadog](https://news.ycombinator.com/item?id=25991485)
-- [KeePassXC 2.6.4 Released](https://keepassxc.org/blog/2021-01-31-2.6.4-released/)
+- [GameStop situation is a golden opportunity for decentralized exchanges](https://modernconsensus.com/commentary/opinion/gamestop-is-defis-golden-moment/)
+- [Focusing on Stadia’s future as a platform, and winding down SG&E](https://blog.google/products/stadia/focusing-on-stadias-future-as-a-platform-and-winding-down-sge)
+- [VideoLAN is 20 years old today](https://www.videolan.org/press/videolan-20.html)
+- [Google Stadia Shuts Down Internal Studios, Changing Business Focus](https://kotaku.com/google-stadia-shuts-down-internal-studios-changing-bus-1846146761)
+- [Itanium: Mark Architecture as Orphaned](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=228345bf98cd78f91d007478a51f9a471489e44a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
