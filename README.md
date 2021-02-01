@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bedrock Linux – a meta Linux distribution](https://bedrocklinux.org/)
 - [You Don't Need Kafka](https://vicki.substack.com/p/you-dont-need-kafka)
 - [Hedge fund Melvin sustains 53% loss after Reddit onslaught](https://arstechnica.com/gadgets/2021/01/hedge-fund-melvin-sustains-53-loss-after-reddit-onslaught/)
 - [NES.css – NES-Style CSS Framework](https://nostalgic-css.github.io/NES.css/)
 - [WhatsApp and the Domestication of Users](https://seirdy.one/2021/01/27/whatsapp-and-the-domestication-of-users.html)
-- [Your Success Is Not a Story](https://taylorlorenz.substack.com/p/your-success-is-not-a-story)
 <!-- BLOG-POST-LIST:END -->
 
 ---
