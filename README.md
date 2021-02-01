@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A retrainable subtitle synchronizer you can now build your own](https://subaligner.readthedocs.io/)
+- [AMD vs. Intel vs. Nvidia: How Users Are Switching](https://boilingsteam.com/amd-vs-nvidia-are-linux-gamers-switching-yet/)
 - [Bedrock Linux – a meta Linux distribution](https://bedrocklinux.org/)
-- [You Don't Need Kafka](https://vicki.substack.com/p/you-dont-need-kafka)
+- [Many use cases don’t require Kafka (2019)](https://vicki.substack.com/p/you-dont-need-kafka)
 - [Hedge fund Melvin sustains 53% loss after Reddit onslaught](https://arstechnica.com/gadgets/2021/01/hedge-fund-melvin-sustains-53-loss-after-reddit-onslaught/)
-- [NES.css – NES-Style CSS Framework](https://nostalgic-css.github.io/NES.css/)
-- [WhatsApp and the Domestication of Users](https://seirdy.one/2021/01/27/whatsapp-and-the-domestication-of-users.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
