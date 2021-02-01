@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A data ecosystem fosters sustainable innovation](https://ruben.verborgh.org/blog/2020/12/07/a-data-ecosystem-fosters-sustainable-innovation/)
-- [Scientists fear pandemic's 'hyper hygiene' could have long-term health impacts](https://ottawacitizen.com/news/local-news/the-downside-of-clean-scientists-fear-pandemics-hyper-hygiene-could-have-long-term-health-impacts)
-- [Solid Project: All of your data, under your control](https://solidproject.org/)
-- [Reinforcement Learning at Facebook](https://corecursive.com/061-reinforcement-learning/)
-- [The Focus to Say No](https://fs.blog/2011/09/steve-jobs-saying-no/)
+- [Pip has dropped support for Python 2](https://pip.pypa.io/en/stable/news/#id4)
+- [FastAPI framework, high perf, easy to learn, fast to code, ready for production](https://fastapi.tiangolo.com/)
+- [Dunkin’ employee was fired for giving donuts that gone to waste to the homeless](https://www.dailydot.com/irl/dunkin-employee-who-exposed-waste-policy-fired/)
+- [Russian Pipeline Is Germany's Greatest Foreign Policy Embarrassment](https://www.spiegel.de/international/germany/a-price-too-high-russian-pipeline-is-germany-s-greatest-foreign-policy-embarrassment-a-0fcefa58-ca51-41ca-b480-98015203e9fa)
+- [UpCodes is hiring 2 SWEs, 1 ops mgr to automate compliance for architects](https://up.codes/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
