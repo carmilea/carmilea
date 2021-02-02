@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ambition (YC W14) Is Hiring Django/React Software Engineer](https://ambition.com/career/opportunity/full-stack-engineer/)
+- [Australia’s PM Suggests Bing Adequate If Google Blocks Searches Down Under](https://www.gizmodo.com.au/2021/02/australias-pm-suggests-bing-adequate-if-google-blocks-searches-down-under/)
+- [Prosperity comes at 'devastating' cost to nature](https://www.bbc.com/news/science-environment-55893696)
 - [The Canary Chirps](https://www.hackerfactor.com/blog/index.php?/archives/911-The-Canary-Chirps.html)
 - [Chainlink and Fleta Partner to Advance Medical Blockchain Applications](https://cryptoticker.io/en/chainlink-fleta-medical/)
-- [Wayland is not ready as a 1:1 compatible Xorg replacement just yet](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
-- [Ahead of the Ripple (XRP) SEC Court Date, Flare Network Declares Its Support](https://blockchain.news/news/ahead-of-the-ripple-xrp-sec-court-date-flare-network-declares-its-support)
-- [Scaleway announced Apple M1 instances](https://www.scaleway.com/en/hello-m1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
