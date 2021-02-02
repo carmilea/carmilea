@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Bezos to retire as CEO; AWS head to become CEO](https://ir.aboutamazon.com/news-release/news-release-details/2021/Amazon.com-Announces-Fourth-Quarter-Results/default.aspx)
-- [Circle Medical (YC S15) Is Hiring Fullstack Engineers in Montreal](https://www.workatastartup.com/jobs/41910)
-- [SpaceX SN9 Explodes on Landing](https://twitter.com/SpaceX/status/1356699321840721920)
-- [Dante's descendant seeks to overturn poet's 1302 corruption conviction](https://www.theguardian.com/books/2021/feb/01/dante-descendant-seeks-to-overturn-poets-1302-corruption-conviction)
-- [Starship – SN9 – High-Altitude Flight Test](https://www.youtube.com/watch?v=_zZ7fIkpBgs)
+- [Metaplane: “Is this dashboard broken again?”](https://www.metaplane.dev/?from=hn)
+- [Van Gogh hiding at the back of a Toulouse-Lautrec drawing](https://www.theartnewspaper.com/blog/is-van-gogh-hiding-at-the-back-of-a-toulouse-lautrec-drawing)
+- [2020 Q4 Alphabet Earnings Release [pdf]](https://abc.xyz/investor/static/pdf/2020Q4_alphabet_earnings_release.pdf)
+- [Show HN: Archivy – Extensible Self Hosted Knowledge Base – v1 Release](https://archivy.github.io)
+- [Email from Jeff Bezos to employees](https://www.aboutamazon.com/news/company-news/email-from-jeff-bezos-to-employees)
 <!-- BLOG-POST-LIST:END -->
 
 ---
