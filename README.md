@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Think Twice Before Abandoning Xorg – Wayland Breaks Everything](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
 - [Scaleway announced Apple M1 instances](https://www.scaleway.com/en/hello-m1/)
+- [Aerobics instructor captures Myanmar coup in her dance video](https://www.timesnownews.com/the-buzz/article/aerobics-instructor-appears-to-capture-myanmar-coup-in-dance-video-watch/714885)
 - [Exploring FPGA Graphics](https://projectf.io/posts/fpga-graphics/)
 - [Localyze (YC S19) is hiring software engineers in Germany and Portugal](https://localyzeapp.com/jobs/)
-- [Investigation Xoth: Smartphone location tracking](https://www.expressvpn.com/digital-security-lab/investigation-xoth)
-- [Go 1.16 will make system calls through Libc on OpenBSD](https://utcc.utoronto.ca/~cks/space/blog/programming/Go116OpenBSDUsesLibc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
