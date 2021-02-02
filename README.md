@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Routable (YC S17) – Scale payouts without building in-house tools](https://news.ycombinator.com/item?id=26004340)
-- [The Impact of Chief Diversity Officers on Diverse Faculty Hiring](https://www.nber.org/papers/w24969)
-- [YC Build Sprint Winter 2021](https://blog.ycombinator.com/yc-build-sprint-winter-2021/)
-- [Gem (YC S17) Is Hiring](https://news.ycombinator.com/item?id=26003452)
-- [Generating Text with Markov Chains](https://healeycodes.com/generating-text-with-markov-chains/)
+- [EteSync – Secure Data Sync](https://www.etesync.com/)
+- [Oxford vaccine shows sustained protection of 76% in 3-month gap til second dose](https://www.ox.ac.uk/news/2021-02-02-oxford-coronavirus-vaccine-shows-sustained-protection-76-during-3-month-interval)
+- [Proprietary Software Is Often Malware](https://www.gnu.org/proprietary/proprietary.html)
+- [Ask HN: Non-US Fired after Bipolar depression shared with HR. Can they fire me?](https://news.ycombinator.com/item?id=26004861)
+- [S100 Computers](http://s100computers.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
