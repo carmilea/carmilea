@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [20k honey bees took over a tech company’s empty office during lockdown](https://qz.com/work/1965925/20000-honey-bees-took-over-a-tech-office-during-covid-19/)
-- [CompilerGym: A toolkit for reinforcement learning for compiler optimization](https://facebookresearch.github.io/CompilerGym/getting_started.html)
-- [I'm tired of this anti-Wayland horseshit](https://drewdevault.com/2021/02/02/Anti-Wayland-horseshit.html)
-- [Pale Moon 29.0](https://www.palemoon.org/releasenotes.shtml)
-- [Gam-COVID-Vac phase 3 trial results: 91·6% efficacy and well tolerated](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00234-8/fulltext)
+- [Fake cluster boosts Huawei – accounts with GAN Faces attack Belgium [pdf]](https://public-assets.graphika.com/reports/graphika_report_fake_cluster_boosts_huawei.pdf)
+- [A Framework for Writing Better Documentation](https://documentation.divio.com/)
+- [Launch HN: Zaraz (YC W20) – Use third-party tools without slowing your website](https://news.ycombinator.com/item?id=26002657)
+- [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
+- [GoboLinux](https://www.gobolinux.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
