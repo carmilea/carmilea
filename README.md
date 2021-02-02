@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EteSync – Secure Data Sync](https://www.etesync.com/)
-- [Oxford vaccine shows sustained protection of 76% in 3-month gap til second dose](https://www.ox.ac.uk/news/2021-02-02-oxford-coronavirus-vaccine-shows-sustained-protection-76-during-3-month-interval)
-- [Proprietary Software Is Often Malware](https://www.gnu.org/proprietary/proprietary.html)
-- [Ask HN: Non-US Fired after Bipolar depression shared with HR. Can they fire me?](https://news.ycombinator.com/item?id=26004861)
-- [S100 Computers](http://s100computers.com/)
+- [Starship – SN9 – High-Altitude Flight Test](https://www.youtube.com/watch?v=_zZ7fIkpBgs)
+- [It’s time for T+2 to go. (1/9)](https://twitter.com/vladtenev/status/1356687248746455041)
+- [YouTube Cancels the U.S. Senate](https://www.wsj.com/articles/youtube-cancels-the-u-s-senate-11612288061)
+- [Bad TypeScript Habits to Break This Year](https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/)
+- [Language Development During Interstellar Travel](https://zenodo.org/record/3747353)
 <!-- BLOG-POST-LIST:END -->
 
 ---
