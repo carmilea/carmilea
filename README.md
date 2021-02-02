@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AirPods Max: An Audiophile Review](https://mariusmasalar.me/airpods-max)
+- [Just because I have a vertical screen, doesn’t mean I’m on a phone](https://shkspr.mobi/blog/2021/02/just-because-i-have-a-vertical-screen-doesnt-mean-im-on-a-phone/)
 - [Navy Finally Speaks Up About Its “UFO Patent” Experiments](https://www.thedrive.com/the-war-zone/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments)
-- [Covid-19 rarely spreads through surfaces. So why are we still deep cleaning?](https://www.nature.com/articles/d41586-021-00251-4)
 - [Ambition (YC W14) Is Hiring Django/React Software Engineer](https://ambition.com/career/opportunity/full-stack-engineer/)
 - [The Canary Chirps](https://www.hackerfactor.com/blog/index.php?/archives/911-The-Canary-Chirps.html)
-- [A Manual for Creating Atheists: A Critical Review (2014)](https://www.catholic.com/magazine/online-edition/a-manual-for-creating-atheists-a-critical-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
