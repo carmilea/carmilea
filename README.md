@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Localyze (YC S19) is hiring software engineers in Germany and Portugal](https://localyzeapp.com/jobs/)
 - [JavaScript Algorithms and Data Structures (examples and explanations of each)](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)
 - [We analyzed 450 apps and found location trackers in every one](https://www.expressvpn.com/blog/digital-security-lab-location-trackers-smartphone-apps-research/)
 - [Go 1.16 will make system calls through Libc on OpenBSD](https://utcc.utoronto.ca/~cks/space/blog/programming/Go116OpenBSDUsesLibc)
 - [The World’s Fastest DES Cracker](https://crack.sh/)
-- [Building XNU for macOS 11.2 (Intel and Apple Silicon)](https://kernelshaman.blogspot.com/2021/02/building-xnu-for-macos-112-intel-apple.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
