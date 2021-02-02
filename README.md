@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring FPGA Graphics](https://projectf.io/posts/fpga-graphics/)
 - [Localyze (YC S19) is hiring software engineers in Germany and Portugal](https://localyzeapp.com/jobs/)
-- [JavaScript Algorithms and Data Structures (examples and explanations of each)](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)
-- [We analyzed 450 apps and found location trackers in every one](https://www.expressvpn.com/blog/digital-security-lab-location-trackers-smartphone-apps-research/)
+- [Investigation Xoth: Smartphone location tracking](https://www.expressvpn.com/digital-security-lab/investigation-xoth)
 - [Go 1.16 will make system calls through Libc on OpenBSD](https://utcc.utoronto.ca/~cks/space/blog/programming/Go116OpenBSDUsesLibc)
 - [The World’s Fastest DES Cracker](https://crack.sh/)
 <!-- BLOG-POST-LIST:END -->
