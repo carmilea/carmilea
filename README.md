@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaleway announced Apple M1 instances](https://www.scaleway.com/en/hello-m1/)
 - [Exploring FPGA Graphics](https://projectf.io/posts/fpga-graphics/)
 - [Localyze (YC S19) is hiring software engineers in Germany and Portugal](https://localyzeapp.com/jobs/)
 - [Investigation Xoth: Smartphone location tracking](https://www.expressvpn.com/digital-security-lab/investigation-xoth)
 - [Go 1.16 will make system calls through Libc on OpenBSD](https://utcc.utoronto.ca/~cks/space/blog/programming/Go116OpenBSDUsesLibc)
-- [The World’s Fastest DES Cracker](https://crack.sh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
