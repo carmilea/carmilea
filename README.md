@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Think Twice Before Abandoning Xorg – Wayland Breaks Everything](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
+- [The Canary Chirps](https://www.hackerfactor.com/blog/index.php?/archives/911-The-Canary-Chirps.html)
+- [Chainlink and Fleta Partner to Advance Medical Blockchain Applications](https://cryptoticker.io/en/chainlink-fleta-medical/)
+- [Wayland is not ready as a 1:1 compatible Xorg replacement just yet](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
+- [Ahead of the Ripple (XRP) SEC Court Date, Flare Network Declares Its Support](https://blockchain.news/news/ahead-of-the-ripple-xrp-sec-court-date-flare-network-declares-its-support)
 - [Scaleway announced Apple M1 instances](https://www.scaleway.com/en/hello-m1/)
-- [Aerobics instructor captures Myanmar coup in her dance video](https://www.timesnownews.com/the-buzz/article/aerobics-instructor-appears-to-capture-myanmar-coup-in-dance-video-watch/714885)
-- [Exploring FPGA Graphics](https://projectf.io/posts/fpga-graphics/)
-- [Localyze (YC S19) is hiring software engineers in Germany and Portugal](https://localyzeapp.com/jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
