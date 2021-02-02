@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AirPods Max: An Audiophile Review](https://mariusmasalar.me/airpods-max)
-- [Just because I have a vertical screen, doesn’t mean I’m on a phone](https://shkspr.mobi/blog/2021/02/just-because-i-have-a-vertical-screen-doesnt-mean-im-on-a-phone/)
-- [Navy Finally Speaks Up About Its “UFO Patent” Experiments](https://www.thedrive.com/the-war-zone/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments)
-- [Ambition (YC W14) Is Hiring Django/React Software Engineer](https://ambition.com/career/opportunity/full-stack-engineer/)
-- [The Canary Chirps](https://www.hackerfactor.com/blog/index.php?/archives/911-The-Canary-Chirps.html)
+- [20k honey bees took over a tech company’s empty office during lockdown](https://qz.com/work/1965925/20000-honey-bees-took-over-a-tech-office-during-covid-19/)
+- [CompilerGym: A toolkit for reinforcement learning for compiler optimization](https://facebookresearch.github.io/CompilerGym/getting_started.html)
+- [I'm tired of this anti-Wayland horseshit](https://drewdevault.com/2021/02/02/Anti-Wayland-horseshit.html)
+- [Pale Moon 29.0](https://www.palemoon.org/releasenotes.shtml)
+- [Gam-COVID-Vac phase 3 trial results: 91·6% efficacy and well tolerated](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00234-8/fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
