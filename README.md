@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Algorithms and Data Structures (examples and explanations of each)](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)
+- [We analyzed 450 apps and found location trackers in every one](https://www.expressvpn.com/blog/digital-security-lab-location-trackers-smartphone-apps-research/)
 - [Go 1.16 will make system calls through Libc on OpenBSD](https://utcc.utoronto.ca/~cks/space/blog/programming/Go116OpenBSDUsesLibc)
-- [Essential Japanese: The Mental Model [pdf]](https://japanesecomplete.com/guide)
-- [Google, Department of Labor settlement resolves alleged pay, discrimination](https://www.dol.gov/newsroom/releases/ofccp/ofccp20210201)
 - [The World’s Fastest DES Cracker](https://crack.sh/)
 - [Building XNU for macOS 11.2 (Intel and Apple Silicon)](https://kernelshaman.blogspot.com/2021/02/building-xnu-for-macos-112-intel-apple.html)
 <!-- BLOG-POST-LIST:END -->
