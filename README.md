@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Navy Finally Speaks Up About Its “UFO Patent” Experiments](https://www.thedrive.com/the-war-zone/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments)
+- [Covid-19 rarely spreads through surfaces. So why are we still deep cleaning?](https://www.nature.com/articles/d41586-021-00251-4)
 - [Ambition (YC W14) Is Hiring Django/React Software Engineer](https://ambition.com/career/opportunity/full-stack-engineer/)
-- [Australia’s PM Suggests Bing Adequate If Google Blocks Searches Down Under](https://www.gizmodo.com.au/2021/02/australias-pm-suggests-bing-adequate-if-google-blocks-searches-down-under/)
-- [Prosperity comes at 'devastating' cost to nature](https://www.bbc.com/news/science-environment-55893696)
 - [The Canary Chirps](https://www.hackerfactor.com/blog/index.php?/archives/911-The-Canary-Chirps.html)
-- [Chainlink and Fleta Partner to Advance Medical Blockchain Applications](https://cryptoticker.io/en/chainlink-fleta-medical/)
+- [A Manual for Creating Atheists: A Critical Review (2014)](https://www.catholic.com/magazine/online-edition/a-manual-for-creating-atheists-a-critical-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
