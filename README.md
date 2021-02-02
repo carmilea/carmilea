@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolut just stopped trading $GME and $AMC – similar to Robinhood](https://www.mrhack.io/blog/revolut-stops-trading-gme-amc-stocks-statement/)
+- [Launch HN: Routable (YC S17) – Scale payouts without building in-house tools](https://news.ycombinator.com/item?id=26004340)
+- [The Impact of Chief Diversity Officers on Diverse Faculty Hiring](https://www.nber.org/papers/w24969)
+- [YC Build Sprint Winter 2021](https://blog.ycombinator.com/yc-build-sprint-winter-2021/)
 - [Gem (YC S17) Is Hiring](https://news.ycombinator.com/item?id=26003452)
-- [Covid-19: Captain Sir Tom Moore dies with coronavirus](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-55881753)
 - [Generating Text with Markov Chains](https://healeycodes.com/generating-text-with-markov-chains/)
-- [Fake cluster boosts Huawei – accounts with GAN Faces attack Belgium [pdf]](https://public-assets.graphika.com/reports/graphika_report_fake_cluster_boosts_huawei.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
