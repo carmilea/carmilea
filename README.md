@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google LLC, US DoL settlement resolves alleged pay, hiring discrimination](https://www.dol.gov/newsroom/releases/ofccp/ofccp20210201)
 - [Building XNU for macOS 11.2 (Intel and Apple Silicon)](https://kernelshaman.blogspot.com/2021/02/building-xnu-for-macos-112-intel-apple.html)
-- [A 25-Year-Old Bet Comes Due: Has Tech Destroyed Society?](https://www.wired.com/story/a-25-year-old-bet-comes-due-has-tech-destroyed-society/)
+- [nntpit: minimalist reddit2nntp gateway](https://github.com/taviso/nntpit)
 - [Show HN: Time tracking with plain text files](https://github.com/jotaen/klog)
 - [The first commercial astronaut mission to orbit Earth aboard Dragon](https://www.spacex.com/updates/inspiration-4-mission/)
-- [Gemini Earn](https://www.gemini.com/earn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
