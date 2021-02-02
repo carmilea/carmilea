@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jeff Bezos to retire as CEO; AWS head to become CEO](https://ir.aboutamazon.com/news-release/news-release-details/2021/Amazon.com-Announces-Fourth-Quarter-Results/default.aspx)
+- [Circle Medical (YC S15) Is Hiring Fullstack Engineers in Montreal](https://www.workatastartup.com/jobs/41910)
+- [SpaceX SN9 Explodes on Landing](https://twitter.com/SpaceX/status/1356699321840721920)
+- [Dante's descendant seeks to overturn poet's 1302 corruption conviction](https://www.theguardian.com/books/2021/feb/01/dante-descendant-seeks-to-overturn-poets-1302-corruption-conviction)
 - [Starship – SN9 – High-Altitude Flight Test](https://www.youtube.com/watch?v=_zZ7fIkpBgs)
-- [It’s time for T+2 to go. (1/9)](https://twitter.com/vladtenev/status/1356687248746455041)
-- [YouTube Cancels the U.S. Senate](https://www.wsj.com/articles/youtube-cancels-the-u-s-senate-11612288061)
-- [Bad TypeScript Habits to Break This Year](https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/)
-- [Language Development During Interstellar Travel](https://zenodo.org/record/3747353)
 <!-- BLOG-POST-LIST:END -->
 
 ---
