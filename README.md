@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.16 will make system calls through Libc on OpenBSD](https://utcc.utoronto.ca/~cks/space/blog/programming/Go116OpenBSDUsesLibc)
+- [Essential Japanese: The Mental Model [pdf]](https://japanesecomplete.com/guide)
 - [Google, Department of Labor settlement resolves alleged pay, discrimination](https://www.dol.gov/newsroom/releases/ofccp/ofccp20210201)
 - [The World’s Fastest DES Cracker](https://crack.sh/)
 - [Building XNU for macOS 11.2 (Intel and Apple Silicon)](https://kernelshaman.blogspot.com/2021/02/building-xnu-for-macos-112-intel-apple.html)
-- [Nntpit: Minimalist Reddit-to-NNTP gateway](https://github.com/taviso/nntpit)
-- [A 25-Year-Old Bet Comes Due: Has Tech Destroyed Society?](https://www.wired.com/story/a-25-year-old-bet-comes-due-has-tech-destroyed-society/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
