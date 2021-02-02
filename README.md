@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolut just stopped trading $GME and $AMC – similar to Robinhood](https://www.mrhack.io/blog/revolut-stops-trading-gme-amc-stocks-statement/)
+- [Gem (YC S17) Is Hiring](https://news.ycombinator.com/item?id=26003452)
+- [Covid-19: Captain Sir Tom Moore dies with coronavirus](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-55881753)
+- [Generating Text with Markov Chains](https://healeycodes.com/generating-text-with-markov-chains/)
 - [Fake cluster boosts Huawei – accounts with GAN Faces attack Belgium [pdf]](https://public-assets.graphika.com/reports/graphika_report_fake_cluster_boosts_huawei.pdf)
-- [A Framework for Writing Better Documentation](https://documentation.divio.com/)
-- [Launch HN: Zaraz (YC W20) – Use third-party tools without slowing your website](https://news.ycombinator.com/item?id=26002657)
-- [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
-- [GoboLinux](https://www.gobolinux.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
