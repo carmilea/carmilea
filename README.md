@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LibreOffice 7.1 Community Edition Released](https://blog.documentfoundation.org/blog/2021/02/03/libreoffice-7-1-community/)
+- [Normal People Deployed Facial Recognition on Capitol Hill Protesters](https://www.vice.com/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters)
+- [Jeff Bezos Pitching Amazon.com (1997)](https://www.youtube.com/watch?v=rWRbTnE1PEM)
 - [The effect of switching to TCMalloc on RocksDB memory use](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use/)
 - [Pachyderm is hiring a Sr Python Eng to join our Integrations team](https://boards.greenhouse.io/pachyderm/jobs/4281816003)
-- [French ferry firm opens new post-Brexit routes bypassing UK](https://www.theneweuropean.co.uk/brexit-news/europe-news/brittany-ferries-ireland-france-freight-services-brexit-7302228)
-- [A terminal stock watcher and stock position tracker](https://github.com/achannarasappa/ticker)
-- [Show HN: Espanso: detect a typed keyword and replace it while you're typing](https://espanso.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
