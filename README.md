@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Effective Property-Based Testing](https://blog.auxon.io/2021/02/01/effective-property-based-testing/)
+- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+- [Berlin’s €2B plan to wean off Huawei (Nokia and Ericsson too)](https://www.politico.eu/article/germany-huawei-telecoms-plan/)
 - [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 - [Cargo Cult Software Engineering](https://stevemcconnell.com/articles/cargo-cult-software-engineering/)
-- [Threadripper 3990X: The Quest To Compile 1B Lines Of C++ On 64 Cores](https://blogs.embarcadero.com/threadripper-3990x-the-quest-to-compile-1-billion-lines-of-c-on-64-cores/)
-- [AMC, GameStop Give Hedge Fund Mudrick Capital $200M in Gains](https://www.bloomberg.com/news/articles/2021-02-02/mudrick-capital-gains-200-million-on-amc-gamestop-in-wild-week)
-- [Digital VT100 (1978)](https://www.oldcomputr.com/digital-vt100-1978/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
