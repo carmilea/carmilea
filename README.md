@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Indian government orders Twitter to remove contents related to farmers protest](https://www.ndtv.com/india-news/government-notice-asks-twitter-to-comply-with-order-to-remove-contents-accounts-related-to-hashtags-linked-to-farmers-protest-2362377)
-- [When did “disturb” became the default mode?](https://news.ycombinator.com/item?id=26011847)
+- [A terminal stock watcher and stock position tracker](https://github.com/achannarasappa/ticker)
 - [Sea Levels Are Rising Faster Than Most Pessimistic Forecasts](https://www.bloomberg.com/news/articles/2021-02-02/sea-levels-are-rising-faster-than-most-pessimistic-forecasts)
 - [Memfault (YC W19) Is Hiring TypeScript Engineers in Berlin](https://www.workatastartup.com/jobs/25893)
 - [Everything you never wanted to know about ANSI escape codes](https://notes.burke.libbey.me/ansi-escape-codes/)
+- [What Is Applied Category Theory? (2018)](https://arxiv.org/abs/1809.05923)
 <!-- BLOG-POST-LIST:END -->
 
 ---
