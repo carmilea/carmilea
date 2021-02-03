@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Divide Between Political Parties Is Smaller Than We Think](https://behavioralscientist.org/the-divide-between-political-parties-feels-big-fortunately-its-smaller-than-we-think/)
+- [I converted my demoscene font collection to PNG and put it on GitHub](https://github.com/ianhan/BitmapFonts)
 - [Fathom (YC W21) is hiring first SRE to scale our write-heavy app](https://www.workatastartup.com/jobs/41480)
+- [Google’s approach to replacing the cookie is drawing antitrust scrutiny](https://digiday.com/media/why-googles-approach-to-replacing-the-cookie-is-drawing-antitrust-scrutiny)
 - [Robert Caro and Kurt Vonnegut interview each other (1999)](https://www.robertcaro.com/interview-with-kurt-vonnegut/)
-- [FOSDEM 2021 online – Feb 6/7 – No registration necessary](https://fosdem.org/2021/)
-- [The mathematics of shuffling](https://plus.maths.org/content/mathematics-shuffling)
-- [Proposal for an App History API](https://github.com/WICG/proposals/issues/20)
 <!-- BLOG-POST-LIST:END -->
 
 ---
