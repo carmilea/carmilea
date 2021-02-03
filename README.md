@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Arrow 3.0.0 Release](https://arrow.apache.org/blog/2021/01/25/3.0.0-release/)
-- [Show HN: YTT Tech – My curated database of instructional YouTube Videos](https://ytt-tech.com)
-- [Homebrew Python Is Not for You](https://justinmayer.com/posts/homebrew-python-is-not-for-you/)
-- [Effective Property-Based Testing](https://blog.auxon.io/2021/02/01/effective-property-based-testing/)
-- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+- [Fathom (YC W21) is hiring first SRE to scale our write-heavy app](https://www.workatastartup.com/jobs/41480)
+- [Robert Caro and Kurt Vonnegut interview each other (1999)](https://www.robertcaro.com/interview-with-kurt-vonnegut/)
+- [FOSDEM 2021 online – Feb 6/7 – No registration necessary](https://fosdem.org/2021/)
+- [The mathematics of shuffling](https://plus.maths.org/content/mathematics-shuffling)
+- [Proposal for an App History API](https://github.com/WICG/proposals/issues/20)
 <!-- BLOG-POST-LIST:END -->
 
 ---
