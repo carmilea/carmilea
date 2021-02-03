@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LibreOffice 7.1 Community Edition Released](https://blog.documentfoundation.org/blog/2021/02/03/libreoffice-7-1-community/)
-- [Normal People Deployed Facial Recognition on Capitol Hill Protesters](https://www.vice.com/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters)
-- [Jeff Bezos Pitching Amazon.com (1997)](https://www.youtube.com/watch?v=rWRbTnE1PEM)
-- [The effect of switching to TCMalloc on RocksDB memory use](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use/)
-- [Pachyderm is hiring a Sr Python Eng to join our Integrations team](https://boards.greenhouse.io/pachyderm/jobs/4281816003)
+- [IBM has cut its blockchain team down to almost nothing – sources](https://www.coindesk.com/ibm-blockchain-revenue-misses-job-cuts-sources)
+- [Ask HN: What is the oldest image online in which the link is not broken?](https://news.ycombinator.com/item?id=26013354)
+- [LibreOffice 7.1 Community Edition](https://blog.documentfoundation.org/blog/2021/02/03/libreoffice-7-1-community/)
+- [How normal people deployed facial recognition on Capitol Hill protesters](https://www.vice.com/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters)
+- [Jeff Bezos Pitching Amazon.com (1997) [video]](https://www.youtube.com/watch?v=rWRbTnE1PEM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
