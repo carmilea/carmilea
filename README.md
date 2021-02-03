@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Academic Media Censorship Conference Censored by YouTube](https://www.mintpressnews.com/media-censorship-conference-censored-youtube/274918/)
+- [Academic media censorship conference censored by YouTube?](https://www.mintpressnews.com/media-censorship-conference-censored-youtube/274918/)
 - [Van Gogh hiding at the back of a Toulouse-Lautrec drawing](https://www.theartnewspaper.com/blog/is-van-gogh-hiding-at-the-back-of-a-toulouse-lautrec-drawing)
 - [2020 Q4 Alphabet Earnings Release [pdf]](https://abc.xyz/investor/static/pdf/2020Q4_alphabet_earnings_release.pdf)
 - [Show HN: Archivy – Extensible Self Hosted Knowledge Base – v1 Release](https://archivy.github.io)
