@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Academic media censorship conference censored by YouTube?](https://www.mintpressnews.com/media-censorship-conference-censored-youtube/274918/)
+- [Dual-port 100GbE PCI-E 4.0 network cards are now under $1300](https://www.broadcom.com/products/ethernet-connectivity/network-adapters/100gb-nic-ocp/p2100g)
 - [Van Gogh hiding at the back of a Toulouse-Lautrec drawing](https://www.theartnewspaper.com/blog/is-van-gogh-hiding-at-the-back-of-a-toulouse-lautrec-drawing)
 - [2020 Q4 Alphabet Earnings Release [pdf]](https://abc.xyz/investor/static/pdf/2020Q4_alphabet_earnings_release.pdf)
 - [Show HN: Archivy – Extensible Self Hosted Knowledge Base – v1 Release](https://archivy.github.io)
-- [Email from Jeff Bezos to employees](https://www.aboutamazon.com/news/company-news/email-from-jeff-bezos-to-employees)
 <!-- BLOG-POST-LIST:END -->
 
 ---
