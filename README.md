@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Divide Between Political Parties Is Smaller Than We Think](https://behavioralscientist.org/the-divide-between-political-parties-feels-big-fortunately-its-smaller-than-we-think/)
+- [Prop. 22 faces first legal challenge as SEIU, ride-hail drivers file suit](https://www.latimes.com/business/technology/story/2021-01-12/prop-22-faces-first-legal-challenge-from-ride-share-drivers-seiu)
+- [Quantitative Economics with Julia](https://julia.quantecon.org/index_toc.html)
 - [I converted my demoscene font collection to PNG and put it on GitHub](https://github.com/ianhan/BitmapFonts)
 - [Fathom (YC W21) is hiring first SRE to scale our write-heavy app](https://www.workatastartup.com/jobs/41480)
 - [Google’s approach to replacing the cookie is drawing antitrust scrutiny](https://digiday.com/media/why-googles-approach-to-replacing-the-cookie-is-drawing-antitrust-scrutiny)
-- [Robert Caro and Kurt Vonnegut interview each other (1999)](https://www.robertcaro.com/interview-with-kurt-vonnegut/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
