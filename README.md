@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel leak: 20GB of source code, chipset design and Intel Management Engine (ME)](https://www.bleepingcomputer.com/news/security/intel-leak-20gb-of-source-code-internal-docs-from-alleged-breach/)
 - [Sputnik V vaccine peer reviewed with efficacy of 91.6%](https://sputnikvaccine.com/newsroom/pressreleases/a-vaccine-for-all-mankind-sputnik-v-s-efficacy-in-fighting-covid-19-is-validated-by-internationally-/)
 - [SK hynix begins offering samples of 176-layer NAND chip](https://koreajoongangdaily.joins.com/2020/12/07/business/industry/SK-hynix-NAND-Flash/20201207153100497.html)
 - [Academic media censorship conference censored by YouTube?](https://www.mintpressnews.com/media-censorship-conference-censored-youtube/274918/)
 - [Van Gogh hiding at the back of a Toulouse-Lautrec drawing](https://www.theartnewspaper.com/blog/is-van-gogh-hiding-at-the-back-of-a-toulouse-lautrec-drawing)
-- [2020 Q4 Alphabet Earnings Release [pdf]](https://abc.xyz/investor/static/pdf/2020Q4_alphabet_earnings_release.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
