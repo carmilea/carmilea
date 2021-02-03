@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital VT100 (1978)](https://www.oldcomputr.com/digital-vt100-1978/)
+- [Apple urged to root out rating scams as developer highlights enforcement failure](https://techcrunch.com/2021/02/03/apple-urged-to-root-out-rating-scams-as-developer-highlights-ugly-cost-of-enforcement-failure/)
+- [Lowkey (YC S18) is hiring mobile and front end engineers who like games](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
 - [Who Built the Egyptian Pyramids? Not Slaves](https://www.discovermagazine.com/planet-earth/who-built-the-egyptian-pyramids-not-slaves)
-- [Yellen Accepted $700K Speaking Fees from Citadel; Will Not Recuse from Hearing](https://www.bloomberg.com/news/articles/2021-02-03/yellen-summons-regulators-to-discuss-financial-market-volatility)
 - [Myths of Vaccine Manufacturing](https://blogs.sciencemag.org/pipeline/archives/2021/02/02/myths-of-vaccine-manufacturing)
-- [Why It Matters Whether Hashed Passwords Are Personal Information Under U.S. Law](https://www.jdsupra.com/legalnews/why-it-matters-whether-hashed-passwords-3305065/)
-- [Is the Industry Ready for T-0 Settlement? (2018)](https://www.dtcc.com/dtcc-connection/articles/2018/june/22/is-the-industry-ready-for-t-0-settlement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
