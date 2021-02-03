@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Memfault (YC W19) Is Hiring TypeScript Engineers in Berlin](https://www.workatastartup.com/jobs/25893)
-- [What Is Applied Category Theory?](https://arxiv.org/abs/1809.05923)
-- [Keeping tax low for the rich does not boost economy](https://www.lse.ac.uk/News/Latest-news-from-LSE/2020/L-December/Tax-cuts-for-the-rich)
+- [What Is Applied Category Theory? (2018)](https://arxiv.org/abs/1809.05923)
+- [How to Lose Money](https://www.getrevue.co/profile/andrewtye/issues/how-to-lose-money-323332)
 - [Product Manager vs. Product Marketing Manager vs. Product Owner](https://www.damilolaa.xyz/Product-Manager-vs-Product-Marketing-Manager-vs-Product-Owner)
 - [UCSF team has engineered a tiny antibody capable of neutralizing the coronavirus](https://www.ucsf.edu/magazine/covid-aeronabs)
 <!-- BLOG-POST-LIST:END -->
