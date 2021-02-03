@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Stocks Lose $167B as Reddit Crowd Preaches Defiance](https://www.bloomberg.com/news/articles/2021-02-02/moonshot-stocks-lose-167-billion-as-crowd-preaches-defiance)
-- [Uighur camp detainees allege systematic rape](https://www.bbc.com/news/world-asia-china-55794071)
+- [Sputnik V vaccine peer reviewed with efficacy of 91.6%](https://sputnikvaccine.com/newsroom/pressreleases/a-vaccine-for-all-mankind-sputnik-v-s-efficacy-in-fighting-covid-19-is-validated-by-internationally-/)
 - [SK hynix begins offering samples of 176-layer NAND chip](https://koreajoongangdaily.joins.com/2020/12/07/business/industry/SK-hynix-NAND-Flash/20201207153100497.html)
-- [Coronavirus is in the air – there’s too much focus on surfaces](https://www.nature.com/articles/d41586-021-00277-8)
 - [Academic media censorship conference censored by YouTube?](https://www.mintpressnews.com/media-censorship-conference-censored-youtube/274918/)
+- [Van Gogh hiding at the back of a Toulouse-Lautrec drawing](https://www.theartnewspaper.com/blog/is-van-gogh-hiding-at-the-back-of-a-toulouse-lautrec-drawing)
+- [2020 Q4 Alphabet Earnings Release [pdf]](https://abc.xyz/investor/static/pdf/2020Q4_alphabet_earnings_release.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
