@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The effect of switching to TCMalloc on RocksDB memory use](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use/)
+- [Pachyderm is hiring a Sr Python Eng to join our Integrations team](https://boards.greenhouse.io/pachyderm/jobs/4281816003)
+- [French ferry firm opens new post-Brexit routes bypassing UK](https://www.theneweuropean.co.uk/brexit-news/europe-news/brittany-ferries-ireland-france-freight-services-brexit-7302228)
 - [A terminal stock watcher and stock position tracker](https://github.com/achannarasappa/ticker)
-- [Sea Levels Are Rising Faster Than Most Pessimistic Forecasts](https://www.bloomberg.com/news/articles/2021-02-02/sea-levels-are-rising-faster-than-most-pessimistic-forecasts)
-- [Memfault (YC W19) Is Hiring TypeScript Engineers in Berlin](https://www.workatastartup.com/jobs/25893)
-- [Everything you never wanted to know about ANSI escape codes](https://notes.burke.libbey.me/ansi-escape-codes/)
-- [What Is Applied Category Theory? (2018)](https://arxiv.org/abs/1809.05923)
+- [Show HN: Espanso: detect a typed keyword and replace it while you're typing](https://espanso.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
