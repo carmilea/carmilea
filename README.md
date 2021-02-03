@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Emerge (YC W21) – Monitor and reduce iOS app size](https://news.ycombinator.com/item?id=26014180)
-- [Hybrid supercapacitor offers NiMH energy density, charges much faster](https://newatlas.com/energy/qut-hybrid-supercapacitor/)
-- [The Relentless Jeff Bezos](https://stratechery.com/2021/the-relentless-jeff-bezos/)
-- [Show HN: Haven, self-host a private blog instead of using Facebook](https://havenweb.org/)
-- [IBM has cut its blockchain team down to almost nothing – sources](https://www.coindesk.com/ibm-blockchain-revenue-misses-job-cuts-sources)
+- [Who Built the Egyptian Pyramids? Not Slaves](https://www.discovermagazine.com/planet-earth/who-built-the-egyptian-pyramids-not-slaves)
+- [Yellen Accepted $700K Speaking Fees from Citadel; Will Not Recuse from Hearing](https://www.bloomberg.com/news/articles/2021-02-03/yellen-summons-regulators-to-discuss-financial-market-volatility)
+- [Myths of Vaccine Manufacturing](https://blogs.sciencemag.org/pipeline/archives/2021/02/02/myths-of-vaccine-manufacturing)
+- [Why It Matters Whether Hashed Passwords Are Personal Information Under U.S. Law](https://www.jdsupra.com/legalnews/why-it-matters-whether-hashed-passwords-3305065/)
+- [Is the Industry Ready for T-0 Settlement? (2018)](https://www.dtcc.com/dtcc-connection/articles/2018/june/22/is-the-industry-ready-for-t-0-settlement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
