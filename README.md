@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
+- [Cargo Cult Software Engineering](https://stevemcconnell.com/articles/cargo-cult-software-engineering/)
+- [Threadripper 3990X: The Quest To Compile 1B Lines Of C++ On 64 Cores](https://blogs.embarcadero.com/threadripper-3990x-the-quest-to-compile-1-billion-lines-of-c-on-64-cores/)
+- [AMC, GameStop Give Hedge Fund Mudrick Capital $200M in Gains](https://www.bloomberg.com/news/articles/2021-02-02/mudrick-capital-gains-200-million-on-amc-gamestop-in-wild-week)
 - [Digital VT100 (1978)](https://www.oldcomputr.com/digital-vt100-1978/)
-- [Apple urged to root out rating scams as developer highlights enforcement failure](https://techcrunch.com/2021/02/03/apple-urged-to-root-out-rating-scams-as-developer-highlights-ugly-cost-of-enforcement-failure/)
-- [Lowkey (YC S18) is hiring mobile and front end engineers who like games](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
-- [Who Built the Egyptian Pyramids? Not Slaves](https://www.discovermagazine.com/planet-earth/who-built-the-egyptian-pyramids-not-slaves)
-- [Myths of Vaccine Manufacturing](https://blogs.sciencemag.org/pipeline/archives/2021/02/02/myths-of-vaccine-manufacturing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
