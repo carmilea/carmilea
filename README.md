@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Memfault (YC W19) Is Hiring TypeScript Engineers in Berlin](https://www.workatastartup.com/jobs/25893)
+- [What Is Applied Category Theory?](https://arxiv.org/abs/1809.05923)
+- [Keeping tax low for the rich does not boost economy](https://www.lse.ac.uk/News/Latest-news-from-LSE/2020/L-December/Tax-cuts-for-the-rich)
+- [Product Manager vs. Product Marketing Manager vs. Product Owner](https://www.damilolaa.xyz/Product-Manager-vs-Product-Marketing-Manager-vs-Product-Owner)
 - [UCSF team has engineered a tiny antibody capable of neutralizing the coronavirus](https://www.ucsf.edu/magazine/covid-aeronabs)
-- [Amazon's anti-union propaganda site for its Alabama warehouse](https://www.doitwithoutdues.com/)
-- [OpenPLi – Open-Source Set-Top Box Software](https://openpli.org)
-- [Bluetooth Trackball Mark II](https://blog.jfedor.org/2021/01/bluetooth-trackball-mark-ii.html?m=1)
-- [SK hynix begins offering samples of 176-layer NAND chip](https://koreajoongangdaily.joins.com/2020/12/07/business/industry/SK-hynix-NAND-Flash/20201207153100497.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
