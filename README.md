@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache Arrow 3.0.0 Release](https://arrow.apache.org/blog/2021/01/25/3.0.0-release/)
+- [Show HN: YTT Tech – My curated database of instructional YouTube Videos](https://ytt-tech.com)
+- [Homebrew Python Is Not for You](https://justinmayer.com/posts/homebrew-python-is-not-for-you/)
 - [Effective Property-Based Testing](https://blog.auxon.io/2021/02/01/effective-property-based-testing/)
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
-- [Berlin’s €2B plan to wean off Huawei (Nokia and Ericsson too)](https://www.politico.eu/article/germany-huawei-telecoms-plan/)
-- [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
-- [Cargo Cult Software Engineering](https://stevemcconnell.com/articles/cargo-cult-software-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
