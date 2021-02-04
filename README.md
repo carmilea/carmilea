@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Relationship Hero (YC S17) Is Hiring Couples Coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
+- [Social Network Parler Terminates CEO John Matze](https://www.reuters.com/article/ctech-us-parler-ceo-idCAKBN2A33B0-OCATC)
 - [Arbtt, the automatic rule-based time-tracker](http://arbtt.nomeata.de/#what)
+- [A Superoptimizer for LLVM IR](https://github.com/google/souper)
 - [Prop. 22 faces first legal challenge as SEIU, ride-hail drivers file suit](https://www.latimes.com/business/technology/story/2021-01-12/prop-22-faces-first-legal-challenge-from-ride-share-drivers-seiu)
-- [I converted my demoscene font collection to PNG and put it on GitHub](https://github.com/ianhan/BitmapFonts)
-- [Fathom (YC W21) is hiring first SRE to scale our write-heavy app](https://www.workatastartup.com/jobs/41480)
-- [Google’s approach to replacing the cookie is drawing antitrust scrutiny](https://digiday.com/media/why-googles-approach-to-replacing-the-cookie-is-drawing-antitrust-scrutiny)
 <!-- BLOG-POST-LIST:END -->
 
 ---
