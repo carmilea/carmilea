@@ -55,7 +55,7 @@
 - [Social Network Parler Terminates CEO John Matze](https://www.reuters.com/article/ctech-us-parler-ceo-idCAKBN2A33B0-OCATC)
 - [Arbtt, the automatic rule-based time-tracker](http://arbtt.nomeata.de/#what)
 - [A Superoptimizer for LLVM IR](https://github.com/google/souper)
-- [Prop. 22 faces first legal challenge as SEIU, ride-hail drivers file suit](https://www.latimes.com/business/technology/story/2021-01-12/prop-22-faces-first-legal-challenge-from-ride-share-drivers-seiu)
+- [I converted my demoscene font collection to PNG and put it on GitHub](https://github.com/ianhan/BitmapFonts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
