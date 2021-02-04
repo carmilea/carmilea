@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Clover Health: How Chamath Lured Retail Investors into a Broken Business](https://hindenburgresearch.com/clover/)
-- [Delicious back online in read-only mode](https://twitter.com/Delicious/status/1357065549436518400)
-- [UK banks given six months to prepare for negative interest rates](https://www.theguardian.com/business/2021/feb/04/uk-banks-given-six-months-to-prepare-for-negative-interest-rates)
-- [Collection of Human Interface and Software Design Guides](http://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/)
-- [Weave.jl – Scientific Reports Using Julia](https://weavejl.mpastell.com/stable/)
+- [How to Win at the Stock Market by Being Lazy](http://web.archive.org/web/20210204101314/https://www.nytimes.com/2021/02/04/upshot/stock-market-winning-strategy.html)
+- [Launch HN: Tint (YC W21) – Embed insurance into any product](https://news.ycombinator.com/item?id=26026526)
+- [$1,944 for a Coronavirus Test? Readers Helped Us Spot an Unusual Trend](https://www.nytimes.com/2020/11/10/insider/readers-medical-bills-doctor.html)
+- [Rust-Analyzer Architecture](https://github.com/rust-analyzer/rust-analyzer/blob/master/docs/dev/architecture.md)
+- [Machine Learning, Kolmogorov Complexity, and Squishy Bunnies (2019)](http://www.theorangeduck.com/page/machine-learning-kolmogorov-complexity-squishy-bunnies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
