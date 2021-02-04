@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverie Labs (YC W18) Is Hiring Senior Software Engineers to Help Cure Cancer](https://jobs.lever.co/reverielabs/3215ba2d-a3be-412b-954d-10e1e75eb078)
+- [Association Between Egg Consumption and Risk of Cardiovascular Outcomes](https://pubmed.ncbi.nlm.nih.gov/32653422/)
+- [Apple Watch can help track Parkinson's disease symptoms](https://www.statnews.com/2021/02/03/apple-watch-parkinsons-disease-tremor/)
 - [Why Security Defects Go Unnoticed During Code Reviews? [pdf]](http://amiangshu.com/papers/paul-ICSE-2021.pdf)
-- [Stepping Down as CEO of the Wikimedia Foundation](https://diff.wikimedia.org/2021/02/04/stepping-down-as-ceo-of-the-wikimedia-foundation/)
 - [Peter Naur's view of programming](https://hiringengineersbook.com/post/autonomy)
-- [Powerpaste, the hydrogen technology for small vehicles](https://www.fraunhofer.de/en/press/research-news/2021/february-2021/hydrogen-powered-drives-for-e-scooters.html)
-- [PocketSuite (YC W16) Is Hiring Our Fourth Lead Engineer (Remote)](https://www.workatastartup.com/jobs/1084)
 <!-- BLOG-POST-LIST:END -->
 
 ---
