@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Win at the Stock Market by Being Lazy](http://web.archive.org/web/20210204101314/https://www.nytimes.com/2021/02/04/upshot/stock-market-winning-strategy.html)
-- [Launch HN: Tint (YC W21) – Embed insurance into any product](https://news.ycombinator.com/item?id=26026526)
-- [$1,944 for a Coronavirus Test? Readers Helped Us Spot an Unusual Trend](https://www.nytimes.com/2020/11/10/insider/readers-medical-bills-doctor.html)
-- [Rust-Analyzer Architecture](https://github.com/rust-analyzer/rust-analyzer/blob/master/docs/dev/architecture.md)
-- [Machine Learning, Kolmogorov Complexity, and Squishy Bunnies (2019)](http://www.theorangeduck.com/page/machine-learning-kolmogorov-complexity-squishy-bunnies)
+- [Source Code Is Worthless](https://hiringengineersbook.com/post/autonomy)
+- [PocketSuite (YC W16) Is Hiring Our Fourth Lead Engineer (Remote)](https://www.workatastartup.com/jobs/1084)
+- [Help users in Iran reconnect to Signal](https://signal.org/blog/help-iran-reconnect/)
+- [A better way to build ML: Why you should be using Active Learning](https://humanloop.com/blog/why-you-should-be-using-active-learning/)
+- [Native Mac APIs for Go](https://github.com/progrium/macdriver)
 <!-- BLOG-POST-LIST:END -->
 
 ---
