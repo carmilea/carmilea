@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The visitor pattern is essentially the same thing as Church encoding](https://www.haskellforall.com/2021/01/the-visitor-pattern-is-essentially-same.html)
-- [Free Music for Your Videos](https://www.audiak.com/)
-- [Monkey.org](https://monkey.org/)
-- [Amazon shortchanged drivers $61.7M in tips](https://www.washingtonpost.com/technology/2021/02/02/amazon-ftc-tip-settlement/)
-- [Relationship Hero (YC S17) Is Hiring Couples Coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
+- [Carupi (YC W20) Is Hiring](https://www.workatastartup.com/jobs/41980)
+- [A tool to create slides using Markdown easily for you](https://github.com/hiroppy/fusuma)
+- [China promotes education drive to make boys more 'manly'](https://www.bbc.com/news/world-asia-china-55926248)
+- [Datatype99: C99 with Sum Types, v0.1.0](https://github.com/Hirrolot/datatype99)
+- [GNSS Jamming and Spoofing, a.k.a. Galileo's Authentication Algorithm Part 3](https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
