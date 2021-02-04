@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Free Music for Your Videos](https://www.audiak.com/)
 - [Monkey.org](https://monkey.org/)
 - [Amazon shortchanged drivers $61.7M in tips](https://www.washingtonpost.com/technology/2021/02/02/amazon-ftc-tip-settlement/)
 - [Relationship Hero (YC S17) Is Hiring Couples Coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
 - [Parler CEO says he was fired by board](https://www.reuters.com/article/ctech-us-parler-ceo-idCAKBN2A33B0-OCATC)
-- [Show HN: Egyptian Ratscrew Online](https://playcards.club)
 <!-- BLOG-POST-LIST:END -->
 
 ---
