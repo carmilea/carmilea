@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google News Showcase Launches in Australia](https://blog.google/products/news/google-news-showcase-launches-australia/)
+- [The Arctic Ocean was covered by a shelf ice and filled with freshwater](https://www.awi.de/en/about-us/service/press/single-view/arktischer-ozean-bedeckt-von-schelfeisen-und-voller-suesswasser.html)
+- [Show HN: Deploy your own algo-trader in 5 minutes with 0 code](http://www.getquantbase.com/#deploy)
 - [Reverie Labs (YC W18) Is Hiring Senior Software Engineers to Help Cure Cancer](https://jobs.lever.co/reverielabs/3215ba2d-a3be-412b-954d-10e1e75eb078)
-- [Association Between Egg Consumption and Risk of Cardiovascular Outcomes](https://pubmed.ncbi.nlm.nih.gov/32653422/)
-- [Apple Watch can help track Parkinson's disease symptoms](https://www.statnews.com/2021/02/03/apple-watch-parkinsons-disease-tremor/)
-- [Why Security Defects Go Unnoticed During Code Reviews? [pdf]](http://amiangshu.com/papers/paul-ICSE-2021.pdf)
-- [Peter Naur's view of programming](https://hiringengineersbook.com/post/autonomy)
+- [Apple Watch can help track Parkinson's disease symptoms: study](https://www.statnews.com/2021/02/03/apple-watch-parkinsons-disease-tremor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
