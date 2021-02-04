@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Weave.jl – Scientific Reports Using Julia](https://weavejl.mpastell.com/stable/)
+- [What Is React: A Visual Introduction for Beginners](https://learnreact.design/posts/what-is-react)
+- [Newly Active 250Tbps Subsea Cable – The Google Cloud Dunant Cable](https://cloud.google.com/blog/products/infrastructure/googles-dunant-subsea-cable-is-now-ready-for-service)
+- [McKinsey to pay $573M to settle claims over opioid crisis role: source](https://www.reuters.com/article/us-usa-mckinsey-idUSKBN2A405Q)
 - [Waiting for PostgreSQL 14 – SEARCH and CYCLE clauses](https://www.depesz.com/2021/02/04/waiting-for-postgresql-14-search-and-cycle-clauses/)
-- [Carupi (YC W20) Is Hiring](https://www.workatastartup.com/jobs/41980)
-- [Some Proteins Change Their Folds to Perform Different Jobs](https://www.quantamagazine.org/metamorphic-proteins-change-their-folds-for-different-jobs-20210203/)
-- [A tool to create slides using Markdown easily for you](https://github.com/hiroppy/fusuma)
-- [Datatype99: C99 with Sum Types, v0.1.0](https://github.com/Hirrolot/datatype99)
 <!-- BLOG-POST-LIST:END -->
 
 ---
