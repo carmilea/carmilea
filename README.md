@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [India Should Buy Bitcoin](https://balajis.com/why-india-should-buy-bitcoin/)
+- [Why Security Defects Go Unnoticed During Code Reviews? [pdf]](http://amiangshu.com/papers/paul-ICSE-2021.pdf)
 - [Stepping Down as CEO of the Wikimedia Foundation](https://diff.wikimedia.org/2021/02/04/stepping-down-as-ceo-of-the-wikimedia-foundation/)
+- [Peter Naur's view of programming](https://hiringengineersbook.com/post/autonomy)
 - [Powerpaste, the hydrogen technology for small vehicles](https://www.fraunhofer.de/en/press/research-news/2021/february-2021/hydrogen-powered-drives-for-e-scooters.html)
 - [PocketSuite (YC W16) Is Hiring Our Fourth Lead Engineer (Remote)](https://www.workatastartup.com/jobs/1084)
-- [Help users in Iran reconnect to Signal](https://signal.org/blog/help-iran-reconnect/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
