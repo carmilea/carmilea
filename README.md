@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Source Code Is Worthless](https://hiringengineersbook.com/post/autonomy)
+- [Powerpaste, the hydrogen technology for small vehicles](https://www.fraunhofer.de/en/press/research-news/2021/february-2021/hydrogen-powered-drives-for-e-scooters.html)
 - [PocketSuite (YC W16) Is Hiring Our Fourth Lead Engineer (Remote)](https://www.workatastartup.com/jobs/1084)
+- [2020 at OCamlPro](https://www.ocamlpro.com/2021/02/02/2020-at-ocamlpro/)
 - [Help users in Iran reconnect to Signal](https://signal.org/blog/help-iran-reconnect/)
-- [A better way to build ML: Why you should be using Active Learning](https://humanloop.com/blog/why-you-should-be-using-active-learning/)
-- [Native Mac APIs for Go](https://github.com/progrium/macdriver)
 <!-- BLOG-POST-LIST:END -->
 
 ---
