@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Get started with #SingleStore #StoredProcedures in #Ruby](https://www.youtube.com/watch?v=wI8yTP9w40M)
 - [Get started with #SingleStore in #Ruby](https://www.youtube.com/watch?v=2gpEbwJyS-Q)
 - [Get started with #SingleStore in #JavaScript and #Node using #Sequelize](https://www.youtube.com/watch?v=koILFN2h7b8)
 - [Get started with #SingleStore #StoredProcedures in #JavaScript and #Node](https://www.youtube.com/watch?v=VLsGoPZeYxA)
 - [Get started with #SingleStore in #JavaScript and #Node](https://www.youtube.com/watch?v=NvgVx9wmb3k)
-- [Loading #Geography Data into #SingleStore](https://www.youtube.com/watch?v=h5cbNatDYlA)
 <!-- YOUTUBE:END -->
 
 
