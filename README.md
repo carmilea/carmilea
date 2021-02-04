@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clover Health: How Chamath Lured Retail Investors into a Broken Business](https://hindenburgresearch.com/clover/)
+- [Delicious back online in read-only mode](https://twitter.com/Delicious/status/1357065549436518400)
+- [UK banks given six months to prepare for negative interest rates](https://www.theguardian.com/business/2021/feb/04/uk-banks-given-six-months-to-prepare-for-negative-interest-rates)
+- [Collection of Human Interface and Software Design Guides](http://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/)
 - [Weave.jl – Scientific Reports Using Julia](https://weavejl.mpastell.com/stable/)
-- [What Is React: A Visual Introduction for Beginners](https://learnreact.design/posts/what-is-react)
-- [Newly Active 250Tbps Subsea Cable – The Google Cloud Dunant Cable](https://cloud.google.com/blog/products/infrastructure/googles-dunant-subsea-cable-is-now-ready-for-service)
-- [McKinsey to pay $573M to settle claims over opioid crisis role: source](https://www.reuters.com/article/us-usa-mckinsey-idUSKBN2A405Q)
-- [Waiting for PostgreSQL 14 – SEARCH and CYCLE clauses](https://www.depesz.com/2021/02/04/waiting-for-postgresql-14-search-and-cycle-clauses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
