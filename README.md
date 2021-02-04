@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Waiting for PostgreSQL 14 – SEARCH and CYCLE clauses](https://www.depesz.com/2021/02/04/waiting-for-postgresql-14-search-and-cycle-clauses/)
 - [Carupi (YC W20) Is Hiring](https://www.workatastartup.com/jobs/41980)
+- [Some Proteins Change Their Folds to Perform Different Jobs](https://www.quantamagazine.org/metamorphic-proteins-change-their-folds-for-different-jobs-20210203/)
 - [A tool to create slides using Markdown easily for you](https://github.com/hiroppy/fusuma)
-- [China promotes education drive to make boys more 'manly'](https://www.bbc.com/news/world-asia-china-55926248)
 - [Datatype99: C99 with Sum Types, v0.1.0](https://github.com/Hirrolot/datatype99)
-- [GNSS Jamming and Spoofing, a.k.a. Galileo's Authentication Algorithm Part 3](https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
