@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don't Believe the Hype About Hypersonic Missiles](https://spectrum.ieee.org/tech-talk/aerospace/military/hypersonic-missiles-are-being-hyped)
-- [The Elements of Computing Systems, Second Edition](https://mitpress.mit.edu/books/elements-computing-systems-second-edition)
-- [AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/)
-- [Chromium cleans up its act and daily DNS root server queries drop by 60B](https://www.theregister.com/2021/02/04/chromium_dns_traffic_drop/)
-- [We're Building a Calendar for Work](https://risecalendar.com/)
+- [Launch HN: Text Blaze (YC W21) Programmable snippets to automate tedious typing](https://news.ycombinator.com/item?id=26037816)
+- [Launch HN: MagicBell (YC W21) – embedded notification system for your product](https://news.ycombinator.com/item?id=26037645)
+- [Browser Fingerprinting Study](https://browser-fingerprint.cs.fau.de/)
+- [Veloren – open-source MMORPG written in Rust](https://veloren.net/)
+- [Will India Ban Twitter?](https://www.platformer.news/p/will-india-ban-twitter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
