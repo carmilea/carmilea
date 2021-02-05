@@ -55,7 +55,7 @@
 - [A Flash Player emulator written in Rust](https://github.com/ruffle-rs/ruffle)
 - [SpaceX says its Starlink satellite internet service now has over 10k users](https://www.cnbc.com/2021/02/04/spacex-starlink-satellite-internet-service-has-over-10000-users.html)
 - [The Universal Warrior – The Many Faces of Battle](https://acoup.blog/2021/02/05/collections-the-universal-warrior-part-iia-the-many-faces-of-battle/)
-- [Disqus, the Dark Commenting System](https://supunkavinda.blog/disqus)
+- [Disqus, a dark commenting system](https://supunkavinda.blog/disqus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
