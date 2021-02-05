@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Text Blaze (YC W21) Programmable snippets to automate tedious typing](https://news.ycombinator.com/item?id=26037816)
-- [Launch HN: MagicBell (YC W21) – embedded notification system for your product](https://news.ycombinator.com/item?id=26037645)
-- [Browser Fingerprinting Study](https://browser-fingerprint.cs.fau.de/)
-- [Veloren – open-source MMORPG written in Rust](https://veloren.net/)
-- [Will India Ban Twitter?](https://www.platformer.news/p/will-india-ban-twitter)
+- [Show HN: Remarkbox is now Free (pay what you can)](https://www.remarkbox.com/remarkbox-is-now-pay-what-you-can.html)
+- [DeepSource (YC W20) Is Hiring a Head of Marketing](https://deepsource.io/jobs/head-marketing-us/)
+- ['Coup Attempt' of Reddit's Wallstreetbets Forum Is Averted](https://www.pcmag.com/news/coup-attempt-of-reddits-wallstreetbets-forum-is-averted)
+- [The GameStop stock is part of our national pandemic gambling binge](https://slate.com/business/2021/02/gamestock-stock-gme-gambling-casinos-wallstreetbets.html?via=rss)
+- [U.S. Senators propose limiting liability shield for social media platforms](https://www.reuters.com/article/us-usa-tech-section-230/u-s-senators-propose-limiting-liability-shield-for-social-media-platforms-idUSKBN2A5233)
 <!-- BLOG-POST-LIST:END -->
 
 ---
