@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GameStop, 'Reddit rally' stocks slide more, Yellen vows scrutiny](https://www.reuters.com/article/us-retail-trade/gamestop-reddit-rally-stocks-slide-more-yellen-vows-scrutiny-idUSKBN2A40Z0/)
+- [The endless browser wars](https://lwn.net/Articles/843607/)
+- [Show HN: I curated a list of actionable advice by indiehackers](https://valuedensity.vercel.app/)
 - [The man who produced Steve Jobs’ keynotes for 20 years (2018)](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years)
 - [A Flash Player emulator written in Rust](https://github.com/ruffle-rs/ruffle)
-- [SpaceX says its Starlink satellite internet service now has over 10k users](https://www.cnbc.com/2021/02/04/spacex-starlink-satellite-internet-service-has-over-10000-users.html)
-- [The Universal Warrior – The Many Faces of Battle](https://acoup.blog/2021/02/05/collections-the-universal-warrior-part-iia-the-many-faces-of-battle/)
-- [Disqus, a dark commenting system](https://supunkavinda.blog/disqus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
