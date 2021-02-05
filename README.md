@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In their own words: Trinity at 75 - The First Nuclear Bomb](https://thebulletin.org/2020/07/in-their-own-words-trinity-at-75/)
+- [Alexander von Humboldt: A Scientist’s Mind, a Poet’s Soul](https://www.thenewatlantis.com/publications/a-scientists-mind-a-poets-soul)
 - [Apollo 14 50th anniversary images find Alan Shepard's ball and how far he hit it](https://www.bbc.com/sport/golf/55927727)
 - [Museum of Bad Art](http://museumofbadart.org/)
 - [New report on Apple’s VR headset: 8K in each eye, potential $3k price tag](https://arstechnica.com/gadgets/2021/02/new-report-on-apples-vr-headset-8k-in-each-eye-potential-3000-price-tag/)
-- [Python's tug of war between beginner-friendly and advanced features](https://aroberge.blogspot.com/2021/02/pythons-tug-of-war-between-beginner.html)
-- [A Python interpreter rewritten in Rust, that can run pip](https://rustpython.github.io/featured/2021/01/26/pip-support.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
