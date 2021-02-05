@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [18-year-old takes out $1M in student loans: shorts market, loans get forgiven](https://thestonkmarket.com/18-year-old-takes-out-1-million-in-student-loans-shorts-the-market-loans-get-forgiven/)
+- [Turing Labs Inc. (YC W20) Is Hiring](https://www.workatastartup.com/jobs/42033)
+- [Notes on My Chemotherapy](https://www.charlieharrington.com/chemotherapy)
+- [iPhone's Adult Content Filter Blocks Anything 'Asian'](https://gizmodo.com/your-iphones-adult-content-filter-blocks-anything-asian-1846200028)
+- [Balthazar Personal Computing Device, a 13“ RISC-V laptop](https://balthazar.space/wiki/Balthazar)
 - [Spyder – a free and open source scientific environment written in Python](https://www.spyder-ide.org/)
-- [Postures of Transport: Sex, God, and Rocking Chairs](https://publicdomainreview.org/essay/postures-of-transport)
-- [Seeing the Pentagon Papers in a New Light](https://www.propublica.org/article/seeing-the-pentagon-papers-in-a-new-light)
-- [Managing your boss: adjusting to narcissists, 'ghosts,' gaslighters](https://www.reuters.com/article/us-change-suite-managingup-idUSKBN2A40HC)
 <!-- BLOG-POST-LIST:END -->
 
 ---
