@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CodeMirror 6](https://codemirror.net/6/)
-- [Show HN: Remarkbox is now Free (pay what you can)](https://www.remarkbox.com/remarkbox-is-now-pay-what-you-can.html)
+- [Show HN: A modern documentation tool for C++ and a replacement for Doxygen](https://hdoc.io/)
+- [Show HN: Remarkbox – Hosted comments without ads or tracking](https://www.remarkbox.com/remarkbox-is-now-pay-what-you-can.html)
 - [DeepSource (YC W20) Is Hiring a Head of Marketing](https://deepsource.io/jobs/head-marketing-us/)
 - ['Coup Attempt' of Reddit's Wallstreetbets Forum Is Averted](https://www.pcmag.com/news/coup-attempt-of-reddits-wallstreetbets-forum-is-averted)
-- [The GameStop stock is part of our national pandemic gambling binge](https://slate.com/business/2021/02/gamestock-stock-gme-gambling-casinos-wallstreetbets.html?via=rss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
