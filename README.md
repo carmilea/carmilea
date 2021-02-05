@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A man who produced Steve Jobs’ keynotes for 20 years](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years)
+- [The man who produced Steve Jobs’ keynotes for 20 years (2018)](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years)
 - [A Flash Player emulator written in Rust](https://github.com/ruffle-rs/ruffle)
 - [SpaceX says its Starlink satellite internet service now has over 10k users](https://www.cnbc.com/2021/02/04/spacex-starlink-satellite-internet-service-has-over-10000-users.html)
 - [The Universal Warrior – The Many Faces of Battle](https://acoup.blog/2021/02/05/collections-the-universal-warrior-part-iia-the-many-faces-of-battle/)
