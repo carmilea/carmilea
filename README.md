@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GameStop, 'Reddit rally' stocks slide more, Yellen vows scrutiny](https://www.reuters.com/article/us-retail-trade/gamestop-reddit-rally-stocks-slide-more-yellen-vows-scrutiny-idUSKBN2A40Z0/)
+- [FOSDEM 2021](https://fosdem.org/2021/schedule)
+- [Factorio Future Plans](https://www.factorio.com/blog/post/fff-365)
 - [The endless browser wars](https://lwn.net/Articles/843607/)
-- [Show HN: I curated a list of actionable advice by indiehackers](https://valuedensity.vercel.app/)
 - [The man who produced Steve Jobs’ keynotes for 20 years (2018)](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years)
 - [A Flash Player emulator written in Rust](https://github.com/ruffle-rs/ruffle)
 <!-- BLOG-POST-LIST:END -->
