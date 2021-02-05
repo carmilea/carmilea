@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Great SameSite Confusion](https://jub0bs.com/posts/2021-01-29-great-samesite-confusion/)
-- [The Road to Utopia](https://culture.io/manifesto)
 - [Zero arrests in 6 months of health care professionals replacing police officers](https://denverite.com/2021/02/02/in-the-first-six-months-of-health-care-professionals-replacing-police-officers-no-one-they-encountered-was-arrested/)
 - [In their own words: Trinity at 75 - The First Nuclear Bomb](https://thebulletin.org/2020/07/in-their-own-words-trinity-at-75/)
 - [Alexander von Humboldt: A Scientist’s Mind, a Poet’s Soul](https://www.thenewatlantis.com/publications/a-scientists-mind-a-poets-soul)
+- [Apollo 14 50th anniversary images find Alan Shepard's ball and how far he hit it](https://www.bbc.com/sport/golf/55927727)
 <!-- BLOG-POST-LIST:END -->
 
 ---
