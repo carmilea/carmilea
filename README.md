@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apollo 14 50th anniversary images find Alan Shepard's ball and how far he hit it](https://www.bbc.com/sport/golf/55927727)
+- [Museum of Bad Art](http://museumofbadart.org/)
+- [New report on Apple’s VR headset: 8K in each eye, potential $3k price tag](https://arstechnica.com/gadgets/2021/02/new-report-on-apples-vr-headset-8k-in-each-eye-potential-3000-price-tag/)
+- [Python's tug of war between beginner-friendly and advanced features](https://aroberge.blogspot.com/2021/02/pythons-tug-of-war-between-beginner.html)
 - [A Python interpreter rewritten in Rust, that can run pip](https://rustpython.github.io/featured/2021/01/26/pip-support.html)
-- [The Arctic Ocean was covered by a shelf ice and filled with freshwater](https://www.awi.de/en/about-us/service/press/single-view/arktischer-ozean-bedeckt-von-schelfeisen-und-voller-suesswasser.html)
-- [Reverie Labs (YC W18) Is Hiring Senior Software Engineers to Help Cure Cancer](https://jobs.lever.co/reverielabs/3215ba2d-a3be-412b-954d-10e1e75eb078)
-- [Donating Docker Distribution to the CNCF](https://www.docker.com/blog/donating-docker-distribution-to-the-cncf/)
-- [Why Security Defects Go Unnoticed During Code Reviews? [pdf]](http://amiangshu.com/papers/paul-ICSE-2021.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
