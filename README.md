@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft repo installed on all Raspberry Pi’s](https://www.reddit.com/r/linux/comments/lbu0t1/microsoft_repo_installed_on_all_raspberry_pis/)
+- [Tara AI (YC W15) Is Hiring a product designer to build the anti-Jira](https://tara.ai/about/careers/)
+- [LibrePlanet 2021: annual conference to promote Software Freedom](https://libreplanet.org/2021/)
 - [FOSDEM 2021](https://fosdem.org/2021/schedule)
 - [Factorio Future Plans](https://www.factorio.com/blog/post/fff-365)
-- [The endless browser wars](https://lwn.net/Articles/843607/)
-- [The man who produced Steve Jobs’ keynotes for 20 years (2018)](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years)
-- [A Flash Player emulator written in Rust](https://github.com/ruffle-rs/ruffle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
