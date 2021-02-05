@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A man who produced Steve Jobs’ keynotes for 20 years](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years)
 - [A Flash Player emulator written in Rust](https://github.com/ruffle-rs/ruffle)
+- [SpaceX says its Starlink satellite internet service now has over 10k users](https://www.cnbc.com/2021/02/04/spacex-starlink-satellite-internet-service-has-over-10000-users.html)
 - [The Universal Warrior – The Many Faces of Battle](https://acoup.blog/2021/02/05/collections-the-universal-warrior-part-iia-the-many-faces-of-battle/)
-- [The Great SameSite Confusion](https://jub0bs.com/posts/2021-01-29-great-samesite-confusion/)
-- [Zero arrests in 6 months of health care professionals replacing police officers](https://denverite.com/2021/02/02/in-the-first-six-months-of-health-care-professionals-replacing-police-officers-no-one-they-encountered-was-arrested/)
-- [In their own words: Trinity at 75 - The First Nuclear Bomb](https://thebulletin.org/2020/07/in-their-own-words-trinity-at-75/)
+- [Disqus, the Dark Commenting System](https://supunkavinda.blog/disqus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
