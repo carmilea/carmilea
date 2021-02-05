@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero arrests in 6 months of health care professionals replacing police officers](https://denverite.com/2021/02/02/in-the-first-six-months-of-health-care-professionals-replacing-police-officers-no-one-they-encountered-was-arrested/)
 - [In their own words: Trinity at 75 - The First Nuclear Bomb](https://thebulletin.org/2020/07/in-their-own-words-trinity-at-75/)
 - [Alexander von Humboldt: A Scientist’s Mind, a Poet’s Soul](https://www.thenewatlantis.com/publications/a-scientists-mind-a-poets-soul)
 - [Apollo 14 50th anniversary images find Alan Shepard's ball and how far he hit it](https://www.bbc.com/sport/golf/55927727)
 - [Museum of Bad Art](http://museumofbadart.org/)
-- [New report on Apple’s VR headset: 8K in each eye, potential $3k price tag](https://arstechnica.com/gadgets/2021/02/new-report-on-apples-vr-headset-8k-in-each-eye-potential-3000-price-tag/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
