@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [KGB Manual: Training the Operative for Psychological Influence of Foreigners [pdf]](https://www.4freerussia.org/wp-content/uploads/sites/3/2019/11/Some-Aspects-of-Training-the-Operative.pdf)
-- [Homebrew 3.0](https://brew.sh/2021/02/05/homebrew-3.0.0/)
-- [Reloadr – Hot code reloading tool for Python](https://github.com/hoh/reloadr)
-- [Google, Apple cave to Pakistan pressure to take down apps by Ahmadiyya Muslims](https://www.buzzfeednews.com/article/meghara/pakistan-forced-down-ahmadiyya-apps)
-- [Tara AI (YC W15) Is Hiring a product designer to build the anti-Jira](https://tara.ai/about/careers/)
+- [Don't Believe the Hype About Hypersonic Missiles](https://spectrum.ieee.org/tech-talk/aerospace/military/hypersonic-missiles-are-being-hyped)
+- [The Elements of Computing Systems, Second Edition](https://mitpress.mit.edu/books/elements-computing-systems-second-edition)
+- [AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/)
+- [Chromium cleans up its act and daily DNS root server queries drop by 60B](https://www.theregister.com/2021/02/04/chromium_dns_traffic_drop/)
+- [We're Building a Calendar for Work](https://risecalendar.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
