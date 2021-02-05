@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft repo installed on all Raspberry Pi’s](https://www.reddit.com/r/linux/comments/lbu0t1/microsoft_repo_installed_on_all_raspberry_pis/)
+- [Homebrew 3.0](https://brew.sh/2021/02/05/homebrew-3.0.0/)
+- [Police seize $60M of Bitcoin from fraudster, but he won’t provide the key](https://www.reuters.com/article/us-crypto-currency-germany-password/police-seize-60-million-of-bitcoin-now-wheres-the-password-idUSKBN2A511T/)
+- [Reloadr – Hot code reloading tool for Python](https://github.com/hoh/reloadr)
+- [Google and Apple Cave to Pakistani Pressure, Take Down Ahmadiyya Muslim Apps](https://www.buzzfeednews.com/article/meghara/pakistan-forced-down-ahmadiyya-apps)
 - [Tara AI (YC W15) Is Hiring a product designer to build the anti-Jira](https://tara.ai/about/careers/)
-- [LibrePlanet 2021: annual conference to promote Software Freedom](https://libreplanet.org/2021/)
-- [FOSDEM 2021](https://fosdem.org/2021/schedule)
-- [Factorio Future Plans](https://www.factorio.com/blog/post/fff-365)
 <!-- BLOG-POST-LIST:END -->
 
 ---
