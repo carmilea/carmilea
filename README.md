@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CodeMirror 6](https://codemirror.net/6/)
 - [Show HN: Remarkbox is now Free (pay what you can)](https://www.remarkbox.com/remarkbox-is-now-pay-what-you-can.html)
 - [DeepSource (YC W20) Is Hiring a Head of Marketing](https://deepsource.io/jobs/head-marketing-us/)
 - ['Coup Attempt' of Reddit's Wallstreetbets Forum Is Averted](https://www.pcmag.com/news/coup-attempt-of-reddits-wallstreetbets-forum-is-averted)
 - [The GameStop stock is part of our national pandemic gambling binge](https://slate.com/business/2021/02/gamestock-stock-gme-gambling-casinos-wallstreetbets.html?via=rss)
-- [U.S. Senators propose limiting liability shield for social media platforms](https://www.reuters.com/article/us-usa-tech-section-230/u-s-senators-propose-limiting-liability-shield-for-social-media-platforms-idUSKBN2A5233)
 <!-- BLOG-POST-LIST:END -->
 
 ---
