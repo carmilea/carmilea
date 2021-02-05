@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CodeMirror 6](https://codemirror.net/6/)
-- [Show HN: A modern documentation tool for C++ and a replacement for Doxygen](https://hdoc.io/)
-- [Show HN: Remarkbox – Hosted comments without ads or tracking](https://www.remarkbox.com/remarkbox-is-now-pay-what-you-can.html)
-- [DeepSource (YC W20) Is Hiring a Head of Marketing](https://deepsource.io/jobs/head-marketing-us/)
-- ['Coup Attempt' of Reddit's Wallstreetbets Forum Is Averted](https://www.pcmag.com/news/coup-attempt-of-reddits-wallstreetbets-forum-is-averted)
+- [18-year-old takes out $1M in student loans: shorts market, loans get forgiven](https://thestonkmarket.com/18-year-old-takes-out-1-million-in-student-loans-shorts-the-market-loans-get-forgiven/)
+- [Spyder – a free and open source scientific environment written in Python](https://www.spyder-ide.org/)
+- [Postures of Transport: Sex, God, and Rocking Chairs](https://publicdomainreview.org/essay/postures-of-transport)
+- [Seeing the Pentagon Papers in a New Light](https://www.propublica.org/article/seeing-the-pentagon-papers-in-a-new-light)
+- [Managing your boss: adjusting to narcissists, 'ghosts,' gaslighters](https://www.reuters.com/article/us-change-suite-managingup-idUSKBN2A40HC)
 <!-- BLOG-POST-LIST:END -->
 
 ---
