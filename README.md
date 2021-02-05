@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Turing Labs Inc. (YC W20) Is Hiring](https://www.workatastartup.com/jobs/42033)
 - [Notes on My Chemotherapy](https://www.charlieharrington.com/chemotherapy)
-- [iPhone's Adult Content Filter Blocks Anything 'Asian'](https://gizmodo.com/your-iphones-adult-content-filter-blocks-anything-asian-1846200028)
-- [Balthazar Personal Computing Device, a 13“ RISC-V laptop](https://balthazar.space/wiki/Balthazar)
-- [Spyder – a free and open source scientific environment written in Python](https://www.spyder-ide.org/)
+- [B8ta closing another San Francisco store after armed robbery](https://www.sfgate.com/bayarea/article/B8ta-closing-Hayes-Valley-store-crime-15925268.php)
+- [Ask HN: Hacker News comment tree indentation on text-based web browsers?](https://news.ycombinator.com/item?id=26040504)
+- [Balthazar Personal Computing Device, a 13” RISC-V laptop](https://balthazar.space/wiki/Balthazar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
