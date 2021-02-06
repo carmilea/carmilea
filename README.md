@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeansList (YC IK12) Is Hiring a React Native Eng to Build Apps for Schools](https://apply.workable.com/deanslist/j/07A42A6EB9/)
+- [Ask HN: Why are monitors matte and laptops glossy and not the other way around?](https://news.ycombinator.com/item?id=26044558)
+- [Reddit’s ‘GMEBagHoldersClub’ Is Where GameStop Stock Buyers Admit They Messed Up](https://www.vice.com/en/article/k7ayga/reddits-gmebagholdersclub-is-where-gamestock-stock-buyers-admit-they-messed-up)
 - [Oil companies buying up EV charging networks: Shell acquires Ubitricity](https://chargedevs.com/newswire/oil-companies-buying-up-ev-charging-networks-shell-acquires-ubitricity/)
 - [In historic shift, Virginia lawmakers pass marijuana legalization bills](https://wset.com/news/local/virginia-house-votes-legalize-marijuana)
-- [Netflix's Annual Reports (10-Ks) used to be a work of art. What happened?](https://singhkays.com/blog/netflix-annual-reports-work-of-art/)
-- [Mt. Gox demise as told by a Bitcoin insider](https://www.bloomberg.com/news/articles/2021-01-31/-trillion-dollar-mt-gox-demise-as-told-by-a-bitcoin-insider)
-- [Ligeti Stratos – First Open Source Microlight Aircraft](http://ligeti-stratos.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
