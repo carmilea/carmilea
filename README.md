@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Does the Title ‘Esquire’ Mean, Anyway?](https://www.atlasobscura.com/articles/what-is-an-esquire)
+- [Iamlive – Generate an IAM policy from AWS client-side monitoring](https://github.com/iann0036/iamlive)
 - [Student astronomer finds missing galactic matter](https://phys.org/news/2021-02-student-astronomer-galactic.html)
 - [Docbot (YC W19) Is Hiring a C++ Engineer](https://news.ycombinator.com/item?id=26045978)
 - [Complexity Explained](https://complexityexplained.github.io/)
