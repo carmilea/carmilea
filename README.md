@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What Does the Title ‘Esquire’ Mean, Anyway?](https://www.atlasobscura.com/articles/what-is-an-esquire)
-- [Docbot (YC W19) Is Hiring C++ Engineer](https://news.ycombinator.com/item?id=26045978)
+- [Student astronomer finds missing galactic matter](https://phys.org/news/2021-02-student-astronomer-galactic.html)
+- [Docbot (YC W19) Is Hiring a C++ Engineer](https://news.ycombinator.com/item?id=26045978)
 - [Complexity Explained](https://complexityexplained.github.io/)
-- [A Simple Model of Grabby Aliens](https://arxiv.org/abs/2102.01522)
-- [Cambridge Analytica psychologist advising Covid19 disinformation network](https://bylinetimes.com/2021/02/02/cambridge-analytica-psychologist-advising-global-covid-19-disinformation-network-linked-to-nigel-farage-and-conservative-party/)
+- [What data on myself I collect and why (2020)](https://beepb00p.xyz/my-data.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
