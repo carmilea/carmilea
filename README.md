@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A one-bit processor explained: reverse-engineering the vintage MC14500B](https://www.righto.com/2021/02/a-one-bit-processor-explained-reverse.html)
+- [Turn to RSS Feeds to Regain Control of the World Wide Web](http://techrights.org/2021/02/06/rss-feeds-www/)
 - [BuildZoom (YC W13) Is Hiring Senior Software Engineers](https://jobs.lever.co/buildzoom/250de263-7052-4a9a-ae66-a57165280af9)
+- [Colorless green ideas sleep furiously](https://en.wikipedia.org/wiki/Colorless_green_ideas_sleep_furiously)
 - [Decoding the Innovation Delusion, Nurturing the Maintenance Mindset](https://spectrum.ieee.org/tech-talk/tech-history/silicon-revolution/decoding-the-innovation-delusion-nurturing-the-maintenance-mindset)
-- [Programming for Cats – A book written specially for cats who want to program](https://programmingforcats.com/)
-- [Indonesia bans forced religious attire in schools](https://www.bbc.com/news/world-asia-55945202)
-- [A German man is keeping $60M in Bitcoin from police](https://www.theverge.com/tldr/2021/2/5/22268646/german-police-bitcoin-digital-wallet-missing-password)
 <!-- BLOG-POST-LIST:END -->
 
 ---
