@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Does TikTok have a problem with Black bodies?](https://qz.com/1969252/does-tiktok-have-a-problem-with-black-womens-bodies/)
+- [I wrote a cat food company how much they'd save by making their cans taller](https://twitter.com/mathematicsprof/status/1235553604016070656)
 - [Iamlive – Generate an IAM policy from AWS client-side monitoring](https://github.com/iann0036/iamlive)
-- [Student astronomer finds missing galactic matter](https://phys.org/news/2021-02-student-astronomer-galactic.html)
-- [Docbot (YC W19) Is Hiring a C++ Engineer](https://news.ycombinator.com/item?id=26045978)
-- [Complexity Explained](https://complexityexplained.github.io/)
-- [What data on myself I collect and why (2020)](https://beepb00p.xyz/my-data.html)
+- [Nevada bill would allow tech companies to create governments](https://www.techregister.co.uk/nevada-bill-would-allow-tech-companies-to-create-governments/)
+- [What Does the Title ‘Esquire’ Mean, Anyway?](https://www.atlasobscura.com/articles/what-is-an-esquire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
