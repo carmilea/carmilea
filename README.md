@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mt. Gox Demise as Told by a Bitcoin Insider](https://www.bloomberg.com/news/articles/2021-01-31/-trillion-dollar-mt-gox-demise-as-told-by-a-bitcoin-insider)
+- [Mt. Gox demise as told by a Bitcoin insider](https://www.bloomberg.com/news/articles/2021-01-31/-trillion-dollar-mt-gox-demise-as-told-by-a-bitcoin-insider)
 - [Ligeti Stratos – First Open Source Microlight Aircraft](http://ligeti-stratos.com/)
 - [Sauropod Vertebra Picture of the Week](https://svpow.com/)
+- [Show HN: Ht – HTTPie Clone in Rust](https://github.com/ducaale/ht)
 - [I'm the high QA guy. Let me test your website](http://www.highqaguy.com/)
-- [Android emulator abused to introduce malware onto PCs](https://blog.malwarebytes.com/awareness/2021/02/android-emulator-abused-to-introduce-malware-onto-pcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
