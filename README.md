@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla: Recalled touchscreens were meant to only last 5-6 years](https://www.motorauthority.com/news/1131184_tesla-recalled-touchscreens-were-meant-to-only-last-5-6-years#:~:text=Tesla%20told%20regulators%20that%20the,on%20United%20States%20roads%20today)
 - [NuCypher (YC S16) – Rust Software Engineer – Remote – Full Time](https://news.ycombinator.com/item?id=26049890)
-- [I bought 200 Raspberry Pi Model B’s and I’m going to fix them Part 5](https://james.li/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-5/)
+- [I bought 200 Raspberry Pi Model B’s and I’m going to fix them: Part 5](https://james.li/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-5/)
 - [A Woman Who Stood Between America and a Generation of ‘Thalidomide Babies’](https://www.smithsonianmag.com/science-nature/woman-who-stood-between-america-and-epidemic-birth-defects-180963165/)
 - [Saharan dust: Orange skies and sandy snow in southern Europe](https://www.bbc.com/news/av/world-europe-55966867)
-- [SharpApp](https://www.builtbybel.com/ms-apps/sharpapp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
