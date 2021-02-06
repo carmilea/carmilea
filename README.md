@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Does the Title ‘Esquire’ Mean, Anyway?](https://www.atlasobscura.com/articles/what-is-an-esquire)
+- [Docbot (YC W19) Is Hiring C++ Engineer](https://news.ycombinator.com/item?id=26045978)
+- [Complexity Explained](https://complexityexplained.github.io/)
+- [A Simple Model of Grabby Aliens](https://arxiv.org/abs/2102.01522)
 - [Cambridge Analytica psychologist advising Covid19 disinformation network](https://bylinetimes.com/2021/02/02/cambridge-analytica-psychologist-advising-global-covid-19-disinformation-network-linked-to-nigel-farage-and-conservative-party/)
-- [DeansList (YC IK12) Is Hiring a React Native Eng to Build Apps for Schools](https://apply.workable.com/deanslist/j/07A42A6EB9/)
-- [AI maths whiz creates tough new problems for humans to solve](https://www.nature.com/articles/d41586-021-00304-8)
-- [Oil companies buying up EV charging networks: Shell acquires Ubitricity](https://chargedevs.com/newswire/oil-companies-buying-up-ev-charging-networks-shell-acquires-ubitricity/)
-- [Virginia lawmakers pass marijuana legalization bills](https://wset.com/news/local/virginia-house-votes-legalize-marijuana)
 <!-- BLOG-POST-LIST:END -->
 
 ---
