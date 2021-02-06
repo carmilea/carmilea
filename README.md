@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech barons like Jeff Bezos want to colonize space and the oceans](https://www.theguardian.com/commentisfree/2021/feb/05/jeff-bezos-elon-musk-spacex-blue-origin)
 - [DeansList (YC IK12) Is Hiring a React Native Eng to Build Apps for Schools](https://apply.workable.com/deanslist/j/07A42A6EB9/)
 - [AI maths whiz creates tough new problems for humans to solve](https://www.nature.com/articles/d41586-021-00304-8)
 - [Ask HN: Why are monitors matte and laptops glossy and not the other way around?](https://news.ycombinator.com/item?id=26044558)
 - [Reddit’s ‘GMEBagHoldersClub’ Is Where GameStop Stock Buyers Admit They Messed Up](https://www.vice.com/en/article/k7ayga/reddits-gmebagholdersclub-is-where-gamestock-stock-buyers-admit-they-messed-up)
+- [Oil companies buying up EV charging networks: Shell acquires Ubitricity](https://chargedevs.com/newswire/oil-companies-buying-up-ev-charging-networks-shell-acquires-ubitricity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
