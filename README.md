@@ -55,7 +55,7 @@
 - [Mt. Gox demise as told by a Bitcoin insider](https://www.bloomberg.com/news/articles/2021-01-31/-trillion-dollar-mt-gox-demise-as-told-by-a-bitcoin-insider)
 - [Ligeti Stratos – First Open Source Microlight Aircraft](http://ligeti-stratos.com/)
 - [C++11 Tuple Implementation Details (2012)](http://mitchnull.blogspot.com/2012/06/c11-tuple-implementation-details-part-1.html)
-- [Sauropod Vertebra Picture of the Week](https://svpow.com/)
+- [Show HN: Ht – HTTPie Clone in Rust](https://github.com/ducaale/ht)
 <!-- BLOG-POST-LIST:END -->
 
 ---
