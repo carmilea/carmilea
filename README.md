@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Antarctic continent has not warmed in the last seven decades](https://www.nature.com/articles/s41612-020-00143-w)
-- [Frustration Is Spreading Faster Than the Vaccine Is](https://www.theatlantic.com/ideas/archive/2021/02/americas-soviet-style-vaccine-rollout/617942/)
-- [JavaScript Minification Benchmarks](https://github.com/privatenumber/minification-benchmarks)
-- [A one-bit processor explained: reverse-engineering the vintage MC14500B](https://www.righto.com/2021/02/a-one-bit-processor-explained-reverse.html)
-- [Turn to RSS Feeds to Regain Control of the World Wide Web](http://techrights.org/2021/02/06/rss-feeds-www/)
+- [Saharan dust: Orange skies and sandy snow in southern Europe](https://www.bbc.com/news/av/world-europe-55966867)
+- [Oops: Google admits failing to wipe all Android apps with location-tracking X-Mo](https://www.theregister.com/2021/02/06/google_xmode_android_apps_play_store/)
+- [How to lower the price of plant-based meat](https://us14.campaign-archive.com/?u=66df320da8400b581cbc1b539&id=cea38367f1)
+- [Show HN: Epub.to – ePub to pdf, ePub to mobi, ePub to kindle, and an ePub API](https://epub.to)
+- [What I Learned in Avalanche School (2019)](https://www.nytimes.com/2019/12/31/magazine/avalanche-school-heidi-julavits.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
