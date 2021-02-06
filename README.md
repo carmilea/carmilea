@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Antarctic continent has not warmed in the last seven decades](https://www.nature.com/articles/s41612-020-00143-w)
+- [Frustration Is Spreading Faster Than the Vaccine Is](https://www.theatlantic.com/ideas/archive/2021/02/americas-soviet-style-vaccine-rollout/617942/)
+- [JavaScript Minification Benchmarks](https://github.com/privatenumber/minification-benchmarks)
 - [A one-bit processor explained: reverse-engineering the vintage MC14500B](https://www.righto.com/2021/02/a-one-bit-processor-explained-reverse.html)
 - [Turn to RSS Feeds to Regain Control of the World Wide Web](http://techrights.org/2021/02/06/rss-feeds-www/)
-- [BuildZoom (YC W13) Is Hiring Senior Software Engineers](https://jobs.lever.co/buildzoom/250de263-7052-4a9a-ae66-a57165280af9)
-- [Colorless green ideas sleep furiously](https://en.wikipedia.org/wiki/Colorless_green_ideas_sleep_furiously)
-- [Decoding the Innovation Delusion, Nurturing the Maintenance Mindset](https://spectrum.ieee.org/tech-talk/tech-history/silicon-revolution/decoding-the-innovation-delusion-nurturing-the-maintenance-mindset)
 <!-- BLOG-POST-LIST:END -->
 
 ---
