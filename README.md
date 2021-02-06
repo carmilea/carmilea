@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Does TikTok have a problem with Black bodies?](https://qz.com/1969252/does-tiktok-have-a-problem-with-black-womens-bodies/)
-- [I wrote a cat food company how much they'd save by making their cans taller](https://twitter.com/mathematicsprof/status/1235553604016070656)
-- [Iamlive – Generate an IAM policy from AWS client-side monitoring](https://github.com/iann0036/iamlive)
-- [Nevada bill would allow tech companies to create governments](https://www.techregister.co.uk/nevada-bill-would-allow-tech-companies-to-create-governments/)
-- [What Does the Title ‘Esquire’ Mean, Anyway?](https://www.atlasobscura.com/articles/what-is-an-esquire)
+- [Programming for Cats – A book written specially for cats who want to program](https://programmingforcats.com/)
+- [Indonesia bans forced religious attire in schools](https://www.bbc.com/news/world-asia-55945202)
+- [A German man is keeping $60M in Bitcoin from police](https://www.theverge.com/tldr/2021/2/5/22268646/german-police-bitcoin-digital-wallet-missing-password)
+- [Big name corporations more likely to commit fraud](https://news.wsu.edu/2021/02/02/big-name-corporations-likely-commit-fraud/)
+- [Nordvpn disables features when you turn off auto-renew](https://www.reddit.com/r/assholedesign/comments/ldf9g9/nordvpn_disables_features_when_you_turn_off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
