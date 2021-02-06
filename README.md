@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NuCypher (YC S16) – Rust Software Engineer – Remote – Full Time](https://news.ycombinator.com/item?id=26049890)
 - [Saharan dust: Orange skies and sandy snow in southern Europe](https://www.bbc.com/news/av/world-europe-55966867)
 - [Oops: Google admits failing to wipe all Android apps with location-tracking X-Mo](https://www.theregister.com/2021/02/06/google_xmode_android_apps_play_store/)
 - [How to lower the price of plant-based meat](https://us14.campaign-archive.com/?u=66df320da8400b581cbc1b539&id=cea38367f1)
-- [Show HN: Epub.to – ePub to pdf, ePub to mobi, ePub to kindle, and an ePub API](https://epub.to)
-- [What I Learned in Avalanche School (2019)](https://www.nytimes.com/2019/12/31/magazine/avalanche-school-heidi-julavits.html)
+- [Show HN: Epub.to – ePub to pdf, mobi, Kindle, and an API](https://epub.to)
 <!-- BLOG-POST-LIST:END -->
 
 ---
