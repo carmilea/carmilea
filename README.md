@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom (YC W13) Is Hiring Senior Software Engineers](https://jobs.lever.co/buildzoom/250de263-7052-4a9a-ae66-a57165280af9)
+- [Decoding the Innovation Delusion, Nurturing the Maintenance Mindset](https://spectrum.ieee.org/tech-talk/tech-history/silicon-revolution/decoding-the-innovation-delusion-nurturing-the-maintenance-mindset)
 - [Programming for Cats – A book written specially for cats who want to program](https://programmingforcats.com/)
 - [Indonesia bans forced religious attire in schools](https://www.bbc.com/news/world-asia-55945202)
 - [A German man is keeping $60M in Bitcoin from police](https://www.theverge.com/tldr/2021/2/5/22268646/german-police-bitcoin-digital-wallet-missing-password)
-- [Big name corporations more likely to commit fraud](https://news.wsu.edu/2021/02/02/big-name-corporations-likely-commit-fraud/)
-- [Nordvpn disables features when you turn off auto-renew](https://www.reddit.com/r/assholedesign/comments/ldf9g9/nordvpn_disables_features_when_you_turn_off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
