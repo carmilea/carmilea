@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [Ask HN: Any tips for a programmer wanting to switch into Security?](https://news.ycombinator.com/item?id=26056136)
+- [Show HN: Stamp turns a folder into a plain text file and a file into a folder](https://github.com/treenotation/jtree/tree/master/langs/stamp)
 - [List of Inventors Killed by Their Own Inventions](https://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions)
-- [NRA Bankruptcy Will Lead to Unprecedented Disclosure of Org's Financial Habits](https://www.bloombergquint.com/onweb/nra-bankruptcy-lets-critics-peer-into-gun-lobby-s-inner-workings)
-- [The Awful Reign of the Red Delicious (2014)](https://www.theatlantic.com/health/archive/2014/09/the-evil-reign-of-the-red-delicious/379892/)
-- [Frontex Files](https://frontexfiles.eu/en.html)
-- [Show HN: One thousand in – I've built an IPO “FOMO” web app](https://onethousand.in/)
+- [Haiku Activity Report – January 2021](https://www.haiku-os.org/blog/pulkomandy/2021-02-06-haiku_activity_report_january_2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
