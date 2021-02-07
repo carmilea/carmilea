@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Talent Is Largely a Myth](https://blog.nukemberg.com/post/talent-is-largely-a-myth/)
+- [Casinos as a Business Model](https://satisologie.substack.com/p/casinos-as-a-business-model)
 - [Graph theory, graph convolutional networks, knowledge graphs](https://albertazout.substack.com/p/gradient-ascent-10)
 - [Soldat is a unique 2D (side-view) multiplayer action game](https://github.com/Soldat/soldat)
 - [Mux (YC W16) is hiring product and brand designers excited about dev tools](https://mux.com/jobs?hnj=designers)
