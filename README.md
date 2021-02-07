@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Arb: Efficient Arbitrary-Precision Midpoint-Radius Interval Arithmetic (2016)](https://arxiv.org/abs/1611.02831)
+- [Reflect (no-code test automation platform) is hiring our first account executive](https://www.workatastartup.com/jobs/41675)
+- [Threat Modeling Manifesto](http://www.threatmodelingmanifesto.org/)
+- [A Visual Language for Digital Integration](https://blogs.mulesoft.com/api-integration/strategy/a-visual-language-for-digital-integration/)
 - [RFC 1178: Choosing a name for your computer (1990)](https://tools.ietf.org/html/rfc1178)
-- [How to Run FreeBSD 13.0-BETA1 ARM64 in QEMU on Apple Silicon (MacBook Pro M1)](https://gist.github.com/ctsrc/a1f57933a2cde9abc0f07be12889f97f#)
-- [Things JRR Tolkien has never said, done, written or had anything to do with](https://thetolkienist.com/things-j-r-r-tolkien-has-never-said-done-written-or-had-anything-to-do-with-an-on-going-series/)
-- [The Full Automation Fallacy](https://futuresofwork.co.uk/2020/12/02/the-full-automation-fallacy/)
-- [Henry Ford cardiologists find iPhone 12 deactivates implantable cardiac devices](https://nbc25news.com/news/local/henry-ford-cardiologists-find-iphone-12-magnet-deactivates-implantable-cardiac-devices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
