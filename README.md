@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [List of Inventors Killed by Their Own Inventions](https://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions)
+- [NRA Bankruptcy Will Lead to Unprecedented Disclosure of Org's Financial Habits](https://www.bloombergquint.com/onweb/nra-bankruptcy-lets-critics-peer-into-gun-lobby-s-inner-workings)
+- [The Awful Reign of the Red Delicious (2014)](https://www.theatlantic.com/health/archive/2014/09/the-evil-reign-of-the-red-delicious/379892/)
+- [Frontex Files](https://frontexfiles.eu/en.html)
 - [Show HN: One thousand in – I've built an IPO “FOMO” web app](https://onethousand.in/)
-- [Neo-mc – a Midnight Commander fork with scripting and other features](https://github.com/neo-mc/neo-mc)
-- [Science fiction hasn’t prepared us to imagine machine learning](https://tedunderwood.com/2021/02/02/why-sf-hasnt-prepared-us-to-imagine-machine-learning/)
-- [Arb: Efficient Arbitrary-Precision Midpoint-Radius Interval Arithmetic (2016)](https://arxiv.org/abs/1611.02831)
-- [Performance Impact of Ad Blockers](https://www.debugbear.com/blog/2020-chrome-extension-performance-report#performance-impact-of-ad-blockers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
