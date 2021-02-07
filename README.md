@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford Makes $29B Commitment to Electric and Self-Driving Cars](https://www.caranddriver.com/news/a35432253/ford-ev-commitment-announced/)
+- [Scientists Develop Transparent Wood That Is Stronger and Lighter Than Glass](https://www.cbc.ca/radio/quirks/scientists-develop-transparent-wood-that-is-stronger-and-lighter-than-glass-1.5902739)
 - [Scientists develop transparent wood that is stronger and lighter than glass](https://www.cbc.ca/1.5902739)
 - [The Mediocre Programmer](http://themediocreprogrammer.com/what-is-the-mediocre-programmer.html#what-is-the-mediocre-programmer)
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-- [Supercookie: Browser Fingerprinting via Favicon](https://github.com/jonasstrehle/supercookie)
-- [Mezzano: Operating system written in Common Lisp](https://github.com/froggey/Mezzano#mezzano-an-operating-system-written-in-common-lisp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
