@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First Dairy-Identical Vegan Ice Cream Launches at 5k Stores](https://vegnews.com/2021/2/dairy-identical-vegan-ice-cream-at-5-000-stores)
 - [The Mediocre Programmer](http://themediocreprogrammer.com/what-is-the-mediocre-programmer.html#what-is-the-mediocre-programmer)
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Supercookie: Browser Fingerprinting via Favicon](https://github.com/jonasstrehle/supercookie)
 - [Mezzano: Operating system written in Common Lisp](https://github.com/froggey/Mezzano#mezzano-an-operating-system-written-in-common-lisp)
-- [FreeBSD 13.0-BETA1 Now Available](https://lists.freebsd.org/pipermail/freebsd-stable/2021-February/093047.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
