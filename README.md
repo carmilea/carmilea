@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Science fiction hasn’t prepared us to imagine machine learning](https://tedunderwood.com/2021/02/02/why-sf-hasnt-prepared-us-to-imagine-machine-learning/)
 - [Arb: Efficient Arbitrary-Precision Midpoint-Radius Interval Arithmetic (2016)](https://arxiv.org/abs/1611.02831)
 - [Reflect (no-code test automation platform) is hiring our first account executive](https://www.workatastartup.com/jobs/41675)
 - [Threat Modeling Manifesto](http://www.threatmodelingmanifesto.org/)
 - [A Visual Language for Digital Integration](https://blogs.mulesoft.com/api-integration/strategy/a-visual-language-for-digital-integration/)
-- [RFC 1178: Choosing a name for your computer (1990)](https://tools.ietf.org/html/rfc1178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
