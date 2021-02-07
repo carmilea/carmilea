@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [Foraging humans, mammals and birds who live in the same place behave similarly](http://www.bristol.ac.uk/news/2021/january/behavioural-convergence.html)
 - [How many early human species existed on Earth?](https://www.livescience.com/how-many-human-species.html)
 - [Scientists develop transparent wood that is stronger and lighter than glass](https://www.cbc.ca/1.5902739)
-- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
