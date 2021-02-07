@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Mediocre Programmer](http://themediocreprogrammer.com/what-is-the-mediocre-programmer.html#what-is-the-mediocre-programmer)
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Supercookie: Browser Fingerprinting via Favicon](https://github.com/jonasstrehle/supercookie)
 - [Mezzano: Operating system written in Common Lisp](https://github.com/froggey/Mezzano#mezzano-an-operating-system-written-in-common-lisp)
 - [FreeBSD 13.0-BETA1 Now Available](https://lists.freebsd.org/pipermail/freebsd-stable/2021-February/093047.html)
-- [Why We Fight over Fiction](https://www.overcomingbias.com/2020/11/why-we-fight-over-fiction.html)
-- [Scientific community on report of a strange chemical at Venus: Probably not](https://arstechnica.com/science/2021/02/scientific-community-on-report-of-a-strange-chemical-at-venus-probably-not/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
