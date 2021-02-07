@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Hatboro Blues](https://libertiesjournal.com/now-showing/the-hatboro-blues/)
+- [The Feminine Physique: On Women's Bodybuilding](https://believermag.com/the-feminine-physique/)
 - [Amazon responds to Musk's accusations of impeding SpaceX Starlink Internet plans](https://www.cnbc.com/2021/02/05/amazons-kuiper-responds-to-elon-musks-spacex-on-fcc-request.html)
 - [Powerpaste, a high-density, safe, and easily transportable hydrogen energy fuel](https://www.inceptivemind.com/powerpaste-high-density-safe-easily-transportable-hydrogen-energy-fuel/17468/)
 - [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [Flash Loans Are Providing Instant Cash to Crypto Speculators](https://www.bloomberg.com/news/articles/2021-02-07/flash-loans-are-providing-instant-cash-to-crypto-speculators)
-- [Ask HN: Any tips for a programmer wanting to switch into Security?](https://news.ycombinator.com/item?id=26056136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
