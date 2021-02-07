@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK exports to EU slashed by 68% since Brexit](https://www.theguardian.com/politics/2021/feb/06/fury-at-gove-as-exports-to-eu-slashed-by-68-since-brexit)
+- [Show HN: One thousand in – I've built an IPO “FOMO” web app](https://onethousand.in/)
+- [Neo-mc – a Midnight Commander fork with scripting and other features](https://github.com/neo-mc/neo-mc)
 - [Science fiction hasn’t prepared us to imagine machine learning](https://tedunderwood.com/2021/02/02/why-sf-hasnt-prepared-us-to-imagine-machine-learning/)
 - [Arb: Efficient Arbitrary-Precision Midpoint-Radius Interval Arithmetic (2016)](https://arxiv.org/abs/1611.02831)
-- [Reflect (no-code test automation platform) is hiring our first account executive](https://www.workatastartup.com/jobs/41675)
-- [Threat Modeling Manifesto](http://www.threatmodelingmanifesto.org/)
+- [Performance Impact of Ad Blockers](https://www.debugbear.com/blog/2020-chrome-extension-performance-report#performance-impact-of-ad-blockers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
