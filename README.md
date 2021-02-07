@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon responds to Musk's accusations of impeding SpaceX Starlink Internet plans](https://www.cnbc.com/2021/02/05/amazons-kuiper-responds-to-elon-musks-spacex-on-fcc-request.html)
+- [Powerpaste, a high-density, safe, and easily transportable hydrogen energy fuel](https://www.inceptivemind.com/powerpaste-high-density-safe-easily-transportable-hydrogen-energy-fuel/17468/)
 - [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [Flash Loans Are Providing Instant Cash to Crypto Speculators](https://www.bloomberg.com/news/articles/2021-02-07/flash-loans-are-providing-instant-cash-to-crypto-speculators)
 - [Ask HN: Any tips for a programmer wanting to switch into Security?](https://news.ycombinator.com/item?id=26056136)
-- [Show HN: Stamp turns a folder into a plain text file and a file into a folder](https://github.com/treenotation/jtree/tree/master/langs/stamp)
-- [List of Inventors Killed by Their Own Inventions](https://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions)
-- [Haiku Activity Report – January 2021](https://www.haiku-os.org/blog/pulkomandy/2021-02-06-haiku_activity_report_january_2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
