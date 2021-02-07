@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [Foraging humans, mammals and birds who live in the same place behave similarly](http://www.bristol.ac.uk/news/2021/january/behavioural-convergence.html)
-- [Ford Makes $29B Commitment to Electric and Self-Driving Cars](https://www.caranddriver.com/news/a35432253/ford-ev-commitment-announced/)
+- [How many early human species existed on Earth?](https://www.livescience.com/how-many-human-species.html)
 - [Scientists develop transparent wood that is stronger and lighter than glass](https://www.cbc.ca/1.5902739)
-- [The Mediocre Programmer](http://themediocreprogrammer.com/what-is-the-mediocre-programmer.html#what-is-the-mediocre-programmer)
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 <!-- BLOG-POST-LIST:END -->
 
