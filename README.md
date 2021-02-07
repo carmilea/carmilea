@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Phrase “Kilroy Was Here”](https://www.thoughtco.com/killroy-was-here-4152093)
+- [Taxonomies of Visual Programming (1989) [pdf]](https://www.cs.cmu.edu/~bam/papers/vltax2.pdf)
+- [Faux86: A portable, open-source 8086 emulator for bare metal Raspberry Pi (2019)](https://github.com/jhhoward/Faux86)
+- [Pennsylvania town coal mine has been on fire since 1962](https://en.wikipedia.org/wiki/Centralia_mine_fire)
 - [The Hatboro Blues](https://libertiesjournal.com/now-showing/the-hatboro-blues/)
-- [The Feminine Physique: On Women's Bodybuilding](https://believermag.com/the-feminine-physique/)
-- [Amazon responds to Musk's accusations of impeding SpaceX Starlink Internet plans](https://www.cnbc.com/2021/02/05/amazons-kuiper-responds-to-elon-musks-spacex-on-fcc-request.html)
-- [Powerpaste, a high-density, safe, and easily transportable hydrogen energy fuel](https://www.inceptivemind.com/powerpaste-high-density-safe-easily-transportable-hydrogen-energy-fuel/17468/)
-- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
