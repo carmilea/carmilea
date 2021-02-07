@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Talent Is Largely a Myth](https://blog.nukemberg.com/post/talent-is-largely-a-myth/)
+- [Graph theory, graph convolutional networks, knowledge graphs](https://albertazout.substack.com/p/gradient-ascent-10)
+- [Soldat is a unique 2D (side-view) multiplayer action game](https://github.com/Soldat/soldat)
 - [Mux (YC W16) is hiring product and brand designers excited about dev tools](https://mux.com/jobs?hnj=designers)
-- [DVD-Drive Based Laser Scanning Microscope](https://loetlabor-jena.de/doku.php?id=projekte:dvdlsm:start)
-- [Solar flare-style rocket thruster ‘could send astronauts to outer solar system’](https://www.imeche.org/news/news-article/solar-flare-style-rocket-thruster-could-send-astronauts-to-outer-solar-system)
-- [Cixin Liu's Postscript for the American Edition for “The Three Body Problem”](http://reader.epubee.com/books/mobile/29/294c9e5c56c501ef2b2965341b7abb89/text/part0042.html)
-- [The Phrase “Kilroy Was Here” (2017)](https://www.thoughtco.com/killroy-was-here-4152093)
+- [Xpdf](http://www.xpdfreader.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
