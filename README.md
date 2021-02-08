@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Happens When the NYT and New Yorker Make Mistakes](https://savingjournalism.substack.com/p/how-newspapers-handle-corrections)
 - [Don't Offer a Free Plan](https://nofreeplan.com)
-- [Casinos as a Business Model](https://satisologie.substack.com/p/casinos-as-a-business-model)
 - [Talent Is Largely a Myth](https://blog.nukemberg.com/post/talent-is-largely-a-myth/)
 - [Graph theory, graph convolutional networks, knowledge graphs](https://albertazout.substack.com/p/gradient-ascent-10)
 - [Why updating DNS is slow](https://wizardzines.com/comics/updating-dns/)
