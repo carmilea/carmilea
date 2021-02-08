@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don't Offer a Free Plan](https://nofreeplan.com)
 - [Casinos as a Business Model](https://satisologie.substack.com/p/casinos-as-a-business-model)
+- [Talent Is Largely a Myth](https://blog.nukemberg.com/post/talent-is-largely-a-myth/)
 - [Graph theory, graph convolutional networks, knowledge graphs](https://albertazout.substack.com/p/gradient-ascent-10)
-- [Soldat is a unique 2D (side-view) multiplayer action game](https://github.com/Soldat/soldat)
-- [Mux (YC W16) is hiring product and brand designers excited about dev tools](https://mux.com/jobs?hnj=designers)
-- [Xpdf](http://www.xpdfreader.com/)
+- [Why updating DNS is slow](https://wizardzines.com/comics/updating-dns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
