@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Someone attempted to poison water supply in Florida city during hack](https://www.tampabay.com/news/pinellas/2021/02/08/someone-tried-to-poison-oldsmars-water-supply-during-hack-sheriff-says/)
+- [Hacker increased chemical level at Oldsmar's city water system, sheriff says](https://www.wtsp.com/article/news/local/pinellascounty/pinellas-oldsmar-water-system-computer-intrustion/67-512b2bab-9f94-44d7-841e-5169fdb0a0bd)
 - [OneSignal (Messaging and Push Notification APIs) is hiring a back end engineer](https://onesignal.com/careers)
 - [The Exclusive Website](https://exclusive.website/)
 - [Show HN: Clerk – all of user management as-a-service, not just authentication](https://clerk.dev/blog/all-of-user-management-not-just-authentication)
-- [Gradient Descent Models Are Kernel Machines](https://infoproc.blogspot.com/2021/02/gradient-descent-models-are-kernel.html)
-- [Scientists develop transparent wood that is stronger and lighter than glass](https://www.cbc.ca/radio/quirks/scientists-develop-transparent-wood-that-is-stronger-and-lighter-than-glass-1.5902739)
 <!-- BLOG-POST-LIST:END -->
 
 ---
