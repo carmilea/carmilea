@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Barcode Scanner app on Google Play infects 10M users with one update](https://blog.malwarebytes.com/android/2021/02/barcode-scanner-app-on-google-play-infects-10-million-users-with-one-update/)
+- [AMD reportedly developing ARM silicon chip](https://www.tomsguide.com/news/look-out-apple-m1-amd-reportedly-developing-arm-silicon-chip)
+- [Barcode scanner app on Google Play infects 10m users with one update](https://blog.malwarebytes.com/android/2021/02/barcode-scanner-app-on-google-play-infects-10-million-users-with-one-update/)
 - [Stop Swiss Cheesing your calendar](https://thinkingthrough.substack.com/p/stop-swiss-cheesing-your-calendar)
 - [South Africa suspends rollout of Oxford-AstraZeneca coronavirus vaccine](https://www.dw.com/en/south-africa-suspends-rollout-of-oxford-astrazeneca-coronavirus-vaccine/a-56491411)
-- [tusk (thought you should know) – Short-lived anonymous feedback](https://tusk.page)
-- [TurboTax’s 20-Year Fight to Stop Americans from Filing Their Taxes for Free](https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free)
+- [Tusk – Short-lived anonymous feedback](https://tusk.page)
 <!-- BLOG-POST-LIST:END -->
 
 ---
