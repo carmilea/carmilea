@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Guile – Scheme Implementation Supporting R5RS, R6RS, and R7RS Standard and SRFI](https://www.gnu.org/software/guile/)
+- [LayerCI (YC S20) is hiring technology sales reps in Toronto](https://www.workatastartup.com/jobs/42051)
+- [Cloudflare’s free plan is a bad choice for commercial projects](https://pawelurbanek.com/cloudflare-free-plan)
+- [Harvard astronomer argues that alien vessel paid us a visit](https://phys.org/news/2021-02-harvard-astronomer-alien-vessel-paid.html)
+- [Protecting your capital during a war](https://fritz.substack.com/p/protecting-your-capital-during-a)
 - [Terraria on Stadia cancelled after developer's Google account gets locked](https://twitter.com/Demilogic/status/1358661842147692549)
-- [Barcode scanner app on Google Play infects 10m users with one update](https://blog.malwarebytes.com/android/2021/02/barcode-scanner-app-on-google-play-infects-10-million-users-with-one-update/)
-- [Stop Swiss Cheesing your calendar](https://thinkingthrough.substack.com/p/stop-swiss-cheesing-your-calendar)
-- [South Africa suspends rollout of Oxford-AstraZeneca coronavirus vaccine](https://www.dw.com/en/south-africa-suspends-rollout-of-oxford-astrazeneca-coronavirus-vaccine/a-56491411)
 <!-- BLOG-POST-LIST:END -->
 
 ---
