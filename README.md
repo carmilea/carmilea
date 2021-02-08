@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla buys $1.5B in Bitcoin and plans to start accepting it as payment](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html)
-- [Tesla buys $1.5B BTC, may accept payments in future](https://techcrunch.com/2021/02/08/tesla-buys-1-5b-in-bitcoin-may-accept-the-cryptocurrency-as-payment-in-the-future/)
-- [Tesla Invests $1.5B in Bitcoin, Plans to Accept Cryptocurrency](https://www.bloomberg.com/news/articles/2021-02-08/tesla-invests-1-5-billion-in-bitcoin-plans-to-accept-cryptocurrency)
+- [Gitlab Project Hit by Spambot](https://gitlab.com/gitlab-org/gitlab/-/issues/320750)
+- [Tesla buys $1.5B in Bitcoin, may accept it as payment in the future](https://techcrunch.com/2021/02/08/tesla-buys-1-5b-in-bitcoin-may-accept-the-cryptocurrency-as-payment-in-the-future/)
 - [Deleting Facebook](https://robertheaton.com/deleting-facebook/)
+- [The computers rejecting your job application](https://www.bbc.co.uk/news/business-55932977)
 - [LayerCI (YC S20) is hiring technology sales reps in Toronto](https://www.workatastartup.com/jobs/42051)
 <!-- BLOG-POST-LIST:END -->
 
