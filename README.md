@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Opinion on Blockchain](https://vladcalin.ro/blog/2021-02-07-about-blockchain)
+- [Automatic Differentiation Does Incur Truncation Errors (Kinda)](https://www.oxinabox.net/2021/02/08/AD-truncation-error.html)
+- [Ask HN: What's your best advice for someone turning 30 today?](https://news.ycombinator.com/item?id=26068320)
+- [TechEmpower Framework Benchmarks: Round 20 (2021-02-08)](https://www.techempower.com/benchmarks/#section=data-r20)
+- [Blog with Markdown and Git, and degrade gracefully through time](https://brandur.org/fragments/graceful-degradation-time)
 - [Reminder: Terraria Dev’s Google Story Is Not Unusual at All](https://codewriteplay.com/2021/02/08/reminder-terraria-devs-google-story-is-not-unusual-at-all/)
-- [Rust Foundation: Hello, World](https://foundation.rust-lang.org/posts/2021-02-08-hello-world/)
-- [Legalist (YC S16) first product hire](https://boards.greenhouse.io/legalist/jobs/4000419004)
-- [I followed my dreams and got demoted to software developer](https://stackoverflow.blog/2021/02/08/moving-from-designer-to-developer-stack-overflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
