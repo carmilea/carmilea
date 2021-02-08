@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Anti-Tech Bias Looks Like](https://savingjournalism.substack.com/p/what-anti-tech-bias-looks-like)
-- [AWS Announces Amazon Aurora Supports PostgreSQL 12](https://www.infoq.com/news/2021/02/amazon-aurora-postgresql-12/)
+- [Migrate Everything from Linux to BSD](https://www.unixsheikh.com/articles/why-you-should-migrate-everything-from-linux-to-bsd.html)
+- [Change your Mac address with a shell script](https://josh.works/shell-script-basics-change-mac-address)
+- [I'm an interviewer at my company and burnt out](https://dear.mariechatfield.com/interviewer-burn-out)
 - [What happens when the NYT and New Yorker make mistakes](https://savingjournalism.substack.com/p/how-newspapers-handle-corrections)
 - [Don't Offer a Free Plan](https://nofreeplan.com)
-- [Graph theory, graph convolutional networks, knowledge graphs](https://albertazout.substack.com/p/gradient-ascent-10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
