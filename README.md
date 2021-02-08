@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Opinion on Blockchain](https://vladcalin.ro/blog/2021-02-07-about-blockchain)
+- [Reminder: Terraria Dev’s Google Story Is Not Unusual at All](https://codewriteplay.com/2021/02/08/reminder-terraria-devs-google-story-is-not-unusual-at-all/)
 - [Rust Foundation: Hello, World](https://foundation.rust-lang.org/posts/2021-02-08-hello-world/)
 - [Legalist (YC S16) first product hire](https://boards.greenhouse.io/legalist/jobs/4000419004)
-- [Wombat poop: Scientists reveal mystery behind cube-shaped droppings](https://www.bbc.com/news/world-australia-46258616)
 - [I followed my dreams and got demoted to software developer](https://stackoverflow.blog/2021/02/08/moving-from-designer-to-developer-stack-overflow/)
-- [Starting Over: A FOSS proposal for a new type of OS for a new type of computer](https://liam-on-linux.livejournal.com/77065.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
