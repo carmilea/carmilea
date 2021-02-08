@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Barcode Scanner app on Google Play infects 10M users with one update](https://blog.malwarebytes.com/android/2021/02/barcode-scanner-app-on-google-play-infects-10-million-users-with-one-update/)
+- [If any Ubuntu maintainers are listening: PLEASE STOP DOING THIS](https://github.com/ipxe/ipxe/commit/e8393c372)
 - [South Africa suspends rollout of Oxford-AstraZeneca coronavirus vaccine](https://www.dw.com/en/south-africa-suspends-rollout-of-oxford-astrazeneca-coronavirus-vaccine/a-56491411)
+- [tusk (thought you should know) – Short-lived anonymous feedback](https://tusk.page)
 - [TurboTax’s 20-Year Fight to Stop Americans from Filing Their Taxes for Free](https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free)
-- [Migrate Everything from Linux to BSD](https://www.unixsheikh.com/articles/why-you-should-migrate-everything-from-linux-to-bsd.html)
-- [Change your Mac address with a shell script](https://josh.works/shell-script-basics-change-mac-address)
-- [I'm an interviewer at my company and burnt out](https://dear.mariechatfield.com/interviewer-burn-out)
 <!-- BLOG-POST-LIST:END -->
 
 ---
