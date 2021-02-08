@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No ‘gay gene’: study homes in on genetic basis of human sexuality](https://www.nature.com/articles/d41586-019-02585-6)
-- [GitHub experiencing issues with actions, pull requests, packages](https://www.githubstatus.com/incidents/th4mgzt9y25t)
-- [Show HN: Weekend project, shows when the next season of your TV show premieres](https://news.ycombinator.com/item?id=26066346)
-- [Show HN: "Programming Algorithms in Lisp” Book](https://www.apress.com/gp/book/9781484264270)
-- [Launch HN: Jiga (YC W21) – Faster custom parts for hardware products](https://news.ycombinator.com/item?id=26066276)
+- [Rust Foundation: Hello, World](https://foundation.rust-lang.org/posts/2021-02-08-hello-world/)
+- [Legalist (YC S16) first product hire](https://boards.greenhouse.io/legalist/jobs/4000419004)
+- [Wombat poop: Scientists reveal mystery behind cube-shaped droppings](https://www.bbc.com/news/world-australia-46258616)
+- [I followed my dreams and got demoted to software developer](https://stackoverflow.blog/2021/02/08/moving-from-designer-to-developer-stack-overflow/)
+- [Starting Over: A FOSS proposal for a new type of OS for a new type of computer](https://liam-on-linux.livejournal.com/77065.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
