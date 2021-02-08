@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD reportedly developing ARM silicon chip](https://www.tomsguide.com/news/look-out-apple-m1-amd-reportedly-developing-arm-silicon-chip)
+- [Terraria on Stadia cancelled after developer's Google account gets locked](https://twitter.com/Demilogic/status/1358661842147692549)
 - [Barcode scanner app on Google Play infects 10m users with one update](https://blog.malwarebytes.com/android/2021/02/barcode-scanner-app-on-google-play-infects-10-million-users-with-one-update/)
 - [Stop Swiss Cheesing your calendar](https://thinkingthrough.substack.com/p/stop-swiss-cheesing-your-calendar)
 - [South Africa suspends rollout of Oxford-AstraZeneca coronavirus vaccine](https://www.dw.com/en/south-africa-suspends-rollout-of-oxford-astrazeneca-coronavirus-vaccine/a-56491411)
