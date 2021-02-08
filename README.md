@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When the NYT and New Yorker Make Mistakes](https://savingjournalism.substack.com/p/how-newspapers-handle-corrections)
+- [What Anti-Tech Bias Looks Like](https://savingjournalism.substack.com/p/what-anti-tech-bias-looks-like)
+- [AWS Announces Amazon Aurora Supports PostgreSQL 12](https://www.infoq.com/news/2021/02/amazon-aurora-postgresql-12/)
+- [What happens when the NYT and New Yorker make mistakes](https://savingjournalism.substack.com/p/how-newspapers-handle-corrections)
 - [Don't Offer a Free Plan](https://nofreeplan.com)
-- [Talent Is Largely a Myth](https://blog.nukemberg.com/post/talent-is-largely-a-myth/)
 - [Graph theory, graph convolutional networks, knowledge graphs](https://albertazout.substack.com/p/gradient-ascent-10)
-- [Why updating DNS is slow](https://wizardzines.com/comics/updating-dns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
