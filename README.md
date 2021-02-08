@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla buys $1.5B in Bitcoin and plans to start accepting it as payment](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html)
+- [Tesla buys $1.5B BTC, may accept payments in future](https://techcrunch.com/2021/02/08/tesla-buys-1-5b-in-bitcoin-may-accept-the-cryptocurrency-as-payment-in-the-future/)
+- [Tesla Invests $1.5B in Bitcoin, Plans to Accept Cryptocurrency](https://www.bloomberg.com/news/articles/2021-02-08/tesla-invests-1-5-billion-in-bitcoin-plans-to-accept-cryptocurrency)
+- [Deleting Facebook](https://robertheaton.com/deleting-facebook/)
 - [LayerCI (YC S20) is hiring technology sales reps in Toronto](https://www.workatastartup.com/jobs/42051)
-- [Cloudflare’s free plan is a bad choice for commercial projects](https://pawelurbanek.com/cloudflare-free-plan)
-- [Harvard astronomer argues that alien vessel paid us a visit](https://phys.org/news/2021-02-harvard-astronomer-alien-vessel-paid.html)
-- [Protecting your capital during a war](https://fritz.substack.com/p/protecting-your-capital-during-a)
-- [Terraria on Stadia cancelled after developer's Google account gets locked](https://twitter.com/Demilogic/status/1358661842147692549)
 <!-- BLOG-POST-LIST:END -->
 
 ---
