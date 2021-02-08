@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla buys $1.5B worth of Bitcoin](https://www.theverge.com/2021/2/8/22272103/tesla-bitcoin-investment-1-5-billion-cryptocurrency-payments)
+- [100-GHz Single-Flux-Quantum Bit-Serial Adder Based on 10-KA/Cm2 Niobium Process](https://ieeexplore.ieee.org/document/5682059)
+- [Launch HN: Infracost (YC W21) – open-source cloud cost estimator](https://news.ycombinator.com/item?id=26064588)
+- [Multiway Turing Machines](https://www.wolframphysics.org/bulletins/2021/02/multiway-turing-machines/)
 - [Gitlab Project Hit by Spambot](https://gitlab.com/gitlab-org/gitlab/-/issues/320750)
-- [Tesla buys $1.5B in Bitcoin, may accept it as payment in the future](https://techcrunch.com/2021/02/08/tesla-buys-1-5b-in-bitcoin-may-accept-the-cryptocurrency-as-payment-in-the-future/)
-- [Deleting Facebook](https://robertheaton.com/deleting-facebook/)
-- [The computers rejecting your job application](https://www.bbc.co.uk/news/business-55932977)
-- [LayerCI (YC S20) is hiring technology sales reps in Toronto](https://www.workatastartup.com/jobs/42051)
 <!-- BLOG-POST-LIST:END -->
 
 ---
