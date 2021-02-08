@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal (Messaging and Push Notification APIs) is hiring a back end engineer](https://onesignal.com/careers)
+- [The Exclusive Website](https://exclusive.website/)
+- [Show HN: Clerk – all of user management as-a-service, not just authentication](https://clerk.dev/blog/all-of-user-management-not-just-authentication)
 - [Gradient Descent Models Are Kernel Machines](https://infoproc.blogspot.com/2021/02/gradient-descent-models-are-kernel.html)
 - [Scientists develop transparent wood that is stronger and lighter than glass](https://www.cbc.ca/radio/quirks/scientists-develop-transparent-wood-that-is-stronger-and-lighter-than-glass-1.5902739)
-- [Automatic Differentiation Does Incur Truncation Errors (Kinda)](https://www.oxinabox.net/2021/02/08/AD-truncation-error.html)
-- [TechEmpower Framework Benchmarks: Round 20 (2021-02-08)](https://www.techempower.com/benchmarks/#section=data-r20)
-- [Blog with Markdown and Git, and degrade gracefully through time](https://brandur.org/fragments/graceful-degradation-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
