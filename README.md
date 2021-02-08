@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [South Africa suspends rollout of Oxford-AstraZeneca coronavirus vaccine](https://www.dw.com/en/south-africa-suspends-rollout-of-oxford-astrazeneca-coronavirus-vaccine/a-56491411)
+- [TurboTax’s 20-Year Fight to Stop Americans from Filing Their Taxes for Free](https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free)
 - [Migrate Everything from Linux to BSD](https://www.unixsheikh.com/articles/why-you-should-migrate-everything-from-linux-to-bsd.html)
 - [Change your Mac address with a shell script](https://josh.works/shell-script-basics-change-mac-address)
 - [I'm an interviewer at my company and burnt out](https://dear.mariechatfield.com/interviewer-burn-out)
-- [What happens when the NYT and New Yorker make mistakes](https://savingjournalism.substack.com/p/how-newspapers-handle-corrections)
-- [Don't Offer a Free Plan](https://nofreeplan.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
