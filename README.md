@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gradient Descent Models Are Kernel Machines](https://infoproc.blogspot.com/2021/02/gradient-descent-models-are-kernel.html)
+- [Scientists develop transparent wood that is stronger and lighter than glass](https://www.cbc.ca/radio/quirks/scientists-develop-transparent-wood-that-is-stronger-and-lighter-than-glass-1.5902739)
 - [Automatic Differentiation Does Incur Truncation Errors (Kinda)](https://www.oxinabox.net/2021/02/08/AD-truncation-error.html)
-- [Ask HN: What's your best advice for someone turning 30 today?](https://news.ycombinator.com/item?id=26068320)
 - [TechEmpower Framework Benchmarks: Round 20 (2021-02-08)](https://www.techempower.com/benchmarks/#section=data-r20)
 - [Blog with Markdown and Git, and degrade gracefully through time](https://brandur.org/fragments/graceful-degradation-time)
-- [Reminder: Terraria Dev’s Google Story Is Not Unusual at All](https://codewriteplay.com/2021/02/08/reminder-terraria-devs-google-story-is-not-unusual-at-all/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
