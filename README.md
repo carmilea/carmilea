@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla buys $1.5B worth of Bitcoin](https://www.theverge.com/2021/2/8/22272103/tesla-bitcoin-investment-1-5-billion-cryptocurrency-payments)
-- [100-GHz Single-Flux-Quantum Bit-Serial Adder Based on 10-KA/Cm2 Niobium Process](https://ieeexplore.ieee.org/document/5682059)
-- [Launch HN: Infracost (YC W21) – open-source cloud cost estimator](https://news.ycombinator.com/item?id=26064588)
-- [Multiway Turing Machines](https://www.wolframphysics.org/bulletins/2021/02/multiway-turing-machines/)
-- [Gitlab Project Hit by Spambot](https://gitlab.com/gitlab-org/gitlab/-/issues/320750)
+- [No ‘gay gene’: study homes in on genetic basis of human sexuality](https://www.nature.com/articles/d41586-019-02585-6)
+- [GitHub experiencing issues with actions, pull requests, packages](https://www.githubstatus.com/incidents/th4mgzt9y25t)
+- [Show HN: Weekend project, shows when the next season of your TV show premieres](https://news.ycombinator.com/item?id=26066346)
+- [Show HN: "Programming Algorithms in Lisp” Book](https://www.apress.com/gp/book/9781484264270)
+- [Launch HN: Jiga (YC W21) – Faster custom parts for hardware products](https://news.ycombinator.com/item?id=26066276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
