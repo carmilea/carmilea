@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cores of Rendering Madness: The AMD Threadripper Pro 3995WX Review](https://www.anandtech.com/show/16478/64-cores-of-rendering-madness-the-amd-threadripper-pro-3995wx-review)
+- [Haskell: The Bad Parts, part 2 (2020)](https://www.snoyman.com/blog/2020/11/haskell-bad-parts-2)
 - [Robinhood sued by family of stock trader who killed himself](https://www.theguardian.com/us-news/2021/feb/09/robinhood-sued-by-family-of-stock-trader-who-killed-himself)
-- [Bitcoin powers towards $50K as Tesla takes it mainstream](https://www.reuters.com/article/us-crypto-currency/bitcoin-powers-towards-50k-as-tesla-takes-it-mainstream-idUSKBN2A90W9)
 - [Pseudophilosophy encourages confused, self-indulgent thinking](https://psyche.co/ideas/pseudophilosophy-encourages-confused-self-indulgent-thinking)
 - [Show HN: "100 Page Python Intro" eBook](https://learnbyexample.github.io/100_page_python_intro/introduction.html)
-- [Caper (YC W16) Is Hiring a Site Reliability Engineer (Remote)](https://news.ycombinator.com/item?id=26076497)
 <!-- BLOG-POST-LIST:END -->
 
 ---
