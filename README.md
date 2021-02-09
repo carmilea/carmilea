@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vantage Has Acquired Ec2instances.info](https://www.vantage.sh/blog/vantage-has-acquired-ec2instances-info)
 - [Fedora on the PinePhone: Pipewire Calling](https://odysee.com/@linmob:3/fedora-on-the-pinephone-pipewire-calling:1)
+- [Ask HN: Team fun event ideas during WFH?](https://news.ycombinator.com/item?id=26080163)
 - [CoinTracker (YC W18) Is Hiring to Facilitate the Transition to Crypto – Remote](https://www.cointracker.io/careers)
 - [What happens when Go programs end? (Podcast with transcript)](https://changelog.com/news/Wy0J/visit)
-- [Launch HN: SigNoz (YC W21) – Open-source alternative to DataDog](https://news.ycombinator.com/item?id=26079389)
-- [Launch HN: Great Question (YC W21) – Customer research tools for software teams](https://news.ycombinator.com/item?id=26079141)
 <!-- BLOG-POST-LIST:END -->
 
 ---
