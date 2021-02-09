@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Covid-19 and the political economy of mass hysteria [pdf]](https://res.mdpi.com/d_attachment/ijerph/ijerph-18-01376/article_deploy/ijerph-18-01376.pdf)
-- [A Statement on Recent Events Between Signal and the Anti-Censorship Community](https://github.com/net4people/bbs/issues/63)
-- [ReactOS sees major update – MM and CC, PnP, I/O, KMDF, NTFS, compiler upgrades](https://reactos.org/blogs/newsletter-100/)
-- [CD Project Red has been hacked. Hit with ransomware and data stolen.](https://twitter.com/CDPROJEKTRED/status/1359048125403590660)
-- [RankScience (YC W17) Is Hiring a Product Manager](https://news.ycombinator.com/item?id=26074690)
+- [Caper (YC W16) Is Hiring a Site Reliability Engineer (Remote)](https://news.ycombinator.com/item?id=26076497)
+- [Pi from High School Maths](https://theartofmachinery.com/2020/10/26/pi_from_high_school_maths.html)
+- [No support Linux hosting shutting down from hack](https://www.nosupportlinuxhosting.com/)
+- [Compiler Class](https://norswap.com/compilers/)
+- [Man to pay £25,000 damages over negative TrustPilot review](https://www.bbc.co.uk/news/technology-55981600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
