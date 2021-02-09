@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fedora on the PinePhone: Pipewire Calling](https://odysee.com/@linmob:3/fedora-on-the-pinephone-pipewire-calling:1)
+- [CoinTracker (YC W18) Is Hiring to Facilitate the Transition to Crypto – Remote](https://www.cointracker.io/careers)
+- [What happens when Go programs end? (Podcast with transcript)](https://changelog.com/news/Wy0J/visit)
 - [Launch HN: SigNoz (YC W21) – Open-source alternative to DataDog](https://news.ycombinator.com/item?id=26079389)
 - [Launch HN: Great Question (YC W21) – Customer research tools for software teams](https://news.ycombinator.com/item?id=26079141)
-- [Show HN: Polar Signals Continuous Profiler – Systematic Performance Profiling](https://www.polarsignals.com/blog/posts/2021/02/09/announcing-polar-signals-continuous-profiler/)
-- [John McWhorter: The Neoracists](https://www.persuasion.community/p/john-mcwhorter-the-neoracists)
-- [Leveraging the Go Type System](https://www.gopherguides.com/articles/leveraging-the-go-type-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
