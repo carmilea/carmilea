@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. dollar drops to two-week low; Bitcoin eyes $50k](https://www.reuters.com/article/us-global-forex/u-s-dollar-drops-to-two-week-low-bitcoin-eyes-50000-idUSKBN2A912F)
+- [SDL Moves to GitHub](https://discourse.libsdl.org/t/sdl-moving-to-github/28700/5)
+- [OpenStreetMap proven to be a highly accurate map in top US cities](https://eng.lyft.com/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec)
 - [Haxe 4.2](https://community.haxe.org/t/haxe-4-2-0-is-released/2888)
 - [Lumi is hiring to build a marketplace for sustainable factories – work anywhere](https://www.lumi.com/jobs)
-- [Python behind the scenes #8: how Python integers work](https://tenthousandmeters.com/blog/python-behind-the-scenes-8-how-python-integers-work/)
-- [Why thinking too much can be bad for you](https://www.economist.com/1843/2012/12/29/why-thinking-too-much-can-be-bad-for-you)
+- [Cops are playing music while citizens are filming to trigger copyright filters](https://twitter.com/jason_koebler/status/1359213426740895744)
 <!-- BLOG-POST-LIST:END -->
 
 ---
