@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Browser Fuzzing at Mozilla](https://hacks.mozilla.org/2021/02/browser-fuzzing-at-mozilla/)
 - [Vantage Has Acquired Ec2instances.info](https://www.vantage.sh/blog/vantage-has-acquired-ec2instances-info)
 - [Fedora on the PinePhone: Pipewire Calling](https://odysee.com/@linmob:3/fedora-on-the-pinephone-pipewire-calling:1)
-- [Ask HN: Team fun event ideas during WFH?](https://news.ycombinator.com/item?id=26080163)
 - [CoinTracker (YC W18) Is Hiring to Facilitate the Transition to Crypto – Remote](https://www.cointracker.io/careers)
 - [What happens when Go programs end? (Podcast with transcript)](https://changelog.com/news/Wy0J/visit)
 <!-- BLOG-POST-LIST:END -->
