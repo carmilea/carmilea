@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Statement on Recent Events Between Signal and the Anti-Censorship Community](https://github.com/net4people/bbs/issues/63)
 - [CD Project Red has been hacked. Hit with ransomware and data stolen.](https://twitter.com/CDPROJEKTRED/status/1359048125403590660)
-- [Block The New York Times](https://www.blocknyt.com)
-- [Twitter considering subscription fees to ensure 'revenue durability'](https://thehill.com/policy/technology/537793-twitter-considering-subscription-fees-to-ensure-revenue-durability)
 - [RankScience (YC W17) Is Hiring a Product Manager](https://news.ycombinator.com/item?id=26074690)
 - [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+- [The World’s Aging Dams](https://e360.yale.edu/features/water-warning-the-looming-threat-of-the-worlds-aging-dams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
