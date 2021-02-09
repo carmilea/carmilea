@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Algorithms by Jeff Erickson (Free algorithms textbook)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+- [The World’s Aging Dams](https://e360.yale.edu/features/water-warning-the-looming-threat-of-the-worlds-aging-dams)
+- [Rise in Attacks on Elderly Asian Americans in Bay Area](https://www.cnn.com/2021/02/08/us/asian-american-attacks-bay-area/index.html)
 - [HyperRogue: A puzzle roguelike in a non-Euclidean world](http://roguetemple.com/z/hyper/)
 - [Turning an old Amazon Kindle into a eInk development platform](https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/)
-- [De Cecco reveals why there is a bucatini shortage in America](https://www.grubstreet.com/2021/02/de-cecco-bucatini-shortage-interview.html#_ga=2.215720407.158932652.1612751392-988703692.1609033476)
-- [Reddit valued at $6B on a $250M round](https://www.reuters.com/article/us-reddit-funding/reddits-valuation-doubles-to-6-billion-after-new-250-million-funding-idUSKBN2A9056)
-- [Sirum (YC W15) Is Hiring Software Engineers with Pharmacy Experience](https://news.ycombinator.com/item?id=26072562)
 <!-- BLOG-POST-LIST:END -->
 
 ---
