@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Someone attempted to poison water supply in Florida city during hack](https://www.tampabay.com/news/pinellas/2021/02/08/someone-tried-to-poison-oldsmars-water-supply-during-hack-sheriff-says/)
+- [20% of requests for Wikimedia Commons are for one image of a flower](https://phabricator.wikimedia.org/T273741)
+- [Robinhood sued by family of 20-year old trader who committed suicide](https://www.cnbc.com/2021/02/08/robinhood-sued-by-family-of-alex-kearns-20-year-old-trader-who-killed-himself-.html)
+- [DeFi: On Blockchain and Smart Contract-Based Financial Markets – St. Louis Fed](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [Hacker increased chemical level at Oldsmar's city water system, sheriff says](https://www.wtsp.com/article/news/local/pinellascounty/pinellas-oldsmar-water-system-computer-intrustion/67-512b2bab-9f94-44d7-841e-5169fdb0a0bd)
 - [OneSignal (Messaging and Push Notification APIs) is hiring a back end engineer](https://onesignal.com/careers)
-- [The Exclusive Website](https://exclusive.website/)
-- [Show HN: Clerk – all of user management as-a-service, not just authentication](https://clerk.dev/blog/all-of-user-management-not-just-authentication)
 <!-- BLOG-POST-LIST:END -->
 
 ---
