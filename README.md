@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cores of Rendering Madness: The AMD Threadripper Pro 3995WX Review](https://www.anandtech.com/show/16478/64-cores-of-rendering-madness-the-amd-threadripper-pro-3995wx-review)
-- [Haskell: The Bad Parts, part 2 (2020)](https://www.snoyman.com/blog/2020/11/haskell-bad-parts-2)
-- [Robinhood sued by family of stock trader who killed himself](https://www.theguardian.com/us-news/2021/feb/09/robinhood-sued-by-family-of-stock-trader-who-killed-himself)
-- [Pseudophilosophy encourages confused, self-indulgent thinking](https://psyche.co/ideas/pseudophilosophy-encourages-confused-self-indulgent-thinking)
-- [Show HN: "100 Page Python Intro" eBook](https://learnbyexample.github.io/100_page_python_intro/introduction.html)
+- [Launch HN: SigNoz (YC W21) – Open-source alternative to DataDog](https://news.ycombinator.com/item?id=26079389)
+- [Launch HN: Great Question (YC W21) – Customer research tools for software teams](https://news.ycombinator.com/item?id=26079141)
+- [Show HN: Polar Signals Continuous Profiler – Systematic Performance Profiling](https://www.polarsignals.com/blog/posts/2021/02/09/announcing-polar-signals-continuous-profiler/)
+- [John McWhorter: The Neoracists](https://www.persuasion.community/p/john-mcwhorter-the-neoracists)
+- [Leveraging the Go Type System](https://www.gopherguides.com/articles/leveraging-the-go-type-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
