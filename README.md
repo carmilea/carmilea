@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Covid-19 and the political economy of mass hysteria [pdf]](https://res.mdpi.com/d_attachment/ijerph/ijerph-18-01376/article_deploy/ijerph-18-01376.pdf)
 - [A Statement on Recent Events Between Signal and the Anti-Censorship Community](https://github.com/net4people/bbs/issues/63)
+- [ReactOS sees major update – MM and CC, PnP, I/O, KMDF, NTFS, compiler upgrades](https://reactos.org/blogs/newsletter-100/)
 - [CD Project Red has been hacked. Hit with ransomware and data stolen.](https://twitter.com/CDPROJEKTRED/status/1359048125403590660)
 - [RankScience (YC W17) Is Hiring a Product Manager](https://news.ycombinator.com/item?id=26074690)
-- [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
-- [The World’s Aging Dams](https://e360.yale.edu/features/water-warning-the-looming-threat-of-the-worlds-aging-dams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
