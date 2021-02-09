@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Objection to ORM Hatred](https://www.jakso.me/blog/objection-to-orm-hatred)
 - [Caper (YC W16) Is Hiring a Site Reliability Engineer (Remote)](https://news.ycombinator.com/item?id=26076497)
 - [Pi from High School Maths](https://theartofmachinery.com/2020/10/26/pi_from_high_school_maths.html)
 - [No support Linux hosting shutting down from hack](https://www.nosupportlinuxhosting.com/)
 - [Compiler Class](https://norswap.com/compilers/)
-- [Man to pay £25,000 damages over negative TrustPilot review](https://www.bbc.co.uk/news/technology-55981600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
