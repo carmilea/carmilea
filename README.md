@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Sirum (YC W15) Is Hiring Software Engineers with Pharmacy Experience](https://news.ycombinator.com/item?id=26072562)
 - [20% of requests for Wikimedia Commons are for one image of a flower](https://phabricator.wikimedia.org/T273741)
-- [Robinhood sued by family of 20-year old trader who committed suicide](https://www.cnbc.com/2021/02/08/robinhood-sued-by-family-of-alex-kearns-20-year-old-trader-who-killed-himself-.html)
-- [Dependency on rust removes support for a number of platforms](https://github.com/pyca/cryptography/issues/5771)
-- [DeFi: On Blockchain and Smart Contract-Based Financial Markets – St. Louis Fed](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
+- [Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
+- [Hacker increased chemical level at Oldsmar's city water system, sheriff says](https://www.wtsp.com/article/news/local/pinellascounty/pinellas-oldsmar-water-system-computer-intrustion/67-512b2bab-9f94-44d7-841e-5169fdb0a0bd)
+- [The Exclusive Website](https://exclusive.website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
