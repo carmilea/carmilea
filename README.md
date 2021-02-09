@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Creeping as a Service](https://every.to/divinations/creeping-as-a-service-craas)
+- [Facebook Enginering: Automatic root cause analysis](https://engineering.fb.com/2021/02/09/developer-tools/minesweeper/)
+- [Show HN: Pep – Turn your site into a fast, installable Progressive Web App (PWA)](https://pep.dev/?hn)
+- [Pattern Matching Accepted for Python](https://lwn.net/Articles/845480/)
 - [Browser Fuzzing at Mozilla](https://hacks.mozilla.org/2021/02/browser-fuzzing-at-mozilla/)
-- [Vantage Has Acquired Ec2instances.info](https://www.vantage.sh/blog/vantage-has-acquired-ec2instances-info)
-- [Fedora on the PinePhone: Pipewire Calling](https://odysee.com/@linmob:3/fedora-on-the-pinephone-pipewire-calling:1)
-- [CoinTracker (YC W18) Is Hiring to Facilitate the Transition to Crypto – Remote](https://www.cointracker.io/careers)
-- [What happens when Go programs end? (Podcast with transcript)](https://changelog.com/news/Wy0J/visit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
