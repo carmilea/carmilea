@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Creeping as a Service](https://every.to/divinations/creeping-as-a-service-craas)
-- [Facebook Enginering: Automatic root cause analysis](https://engineering.fb.com/2021/02/09/developer-tools/minesweeper/)
-- [Show HN: Pep – Turn your site into a fast, installable Progressive Web App (PWA)](https://pep.dev/?hn)
-- [Pattern Matching Accepted for Python](https://lwn.net/Articles/845480/)
-- [Browser Fuzzing at Mozilla](https://hacks.mozilla.org/2021/02/browser-fuzzing-at-mozilla/)
+- [U.S. dollar drops to two-week low; Bitcoin eyes $50k](https://www.reuters.com/article/us-global-forex/u-s-dollar-drops-to-two-week-low-bitcoin-eyes-50000-idUSKBN2A912F)
+- [Haxe 4.2](https://community.haxe.org/t/haxe-4-2-0-is-released/2888)
+- [Lumi is hiring to build a marketplace for sustainable factories – work anywhere](https://www.lumi.com/jobs)
+- [Python behind the scenes #8: how Python integers work](https://tenthousandmeters.com/blog/python-behind-the-scenes-8-how-python-integers-work/)
+- [Why thinking too much can be bad for you](https://www.economist.com/1843/2012/12/29/why-thinking-too-much-can-be-bad-for-you)
 <!-- BLOG-POST-LIST:END -->
 
 ---
