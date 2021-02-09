@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RankScience (YC W17) Is Hiring a Product Manager](https://news.ycombinator.com/item?id=26074690)
 - [Algorithms by Jeff Erickson (Free algorithms textbook)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 - [The World’s Aging Dams](https://e360.yale.edu/features/water-warning-the-looming-threat-of-the-worlds-aging-dams)
-- [Rise in Attacks on Elderly Asian Americans in Bay Area](https://www.cnn.com/2021/02/08/us/asian-american-attacks-bay-area/index.html)
 - [HyperRogue: A puzzle roguelike in a non-Euclidean world](http://roguetemple.com/z/hyper/)
 - [Turning an old Amazon Kindle into a eInk development platform](https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/)
 <!-- BLOG-POST-LIST:END -->
