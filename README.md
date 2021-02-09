@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Objection to ORM Hatred](https://www.jakso.me/blog/objection-to-orm-hatred)
+- [Robinhood sued by family of stock trader who killed himself](https://www.theguardian.com/us-news/2021/feb/09/robinhood-sued-by-family-of-stock-trader-who-killed-himself)
+- [Bitcoin powers towards $50K as Tesla takes it mainstream](https://www.reuters.com/article/us-crypto-currency/bitcoin-powers-towards-50k-as-tesla-takes-it-mainstream-idUSKBN2A90W9)
+- [Pseudophilosophy encourages confused, self-indulgent thinking](https://psyche.co/ideas/pseudophilosophy-encourages-confused-self-indulgent-thinking)
+- [Show HN: "100 Page Python Intro" eBook](https://learnbyexample.github.io/100_page_python_intro/introduction.html)
 - [Caper (YC W16) Is Hiring a Site Reliability Engineer (Remote)](https://news.ycombinator.com/item?id=26076497)
-- [Pi from High School Maths](https://theartofmachinery.com/2020/10/26/pi_from_high_school_maths.html)
-- [No support Linux hosting shutting down from hack](https://www.nosupportlinuxhosting.com/)
-- [Compiler Class](https://norswap.com/compilers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
