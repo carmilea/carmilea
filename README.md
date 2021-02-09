@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [De Cecco Finally Reveals What the Heck Is Going on with Its Bucatini](https://www.grubstreet.com/2021/02/de-cecco-bucatini-shortage-interview.html#_ga=2.215720407.158932652.1612751392-988703692.1609033476)
 - [Sirum (YC W15) Is Hiring Software Engineers with Pharmacy Experience](https://news.ycombinator.com/item?id=26072562)
 - [20% of requests for Wikimedia Commons are for one image of a flower](https://phabricator.wikimedia.org/T273741)
 - [Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [Hacker increased chemical level at Oldsmar's city water system, sheriff says](https://www.wtsp.com/article/news/local/pinellascounty/pinellas-oldsmar-water-system-computer-intrustion/67-512b2bab-9f94-44d7-841e-5169fdb0a0bd)
-- [The Exclusive Website](https://exclusive.website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
