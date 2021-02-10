@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stanford Makes iPhone Development Course Free](https://cs193p.sites.stanford.edu/)
+- [A sneak peek at MetaHuman Creator](https://www.unrealengine.com/en-US/blog/a-sneak-peek-at-metahuman-creator-high-fidelity-digital-humans-made-easy)
+- [Elon Musk wants clean power. But Tesla's carrying Bitcoin's dirty baggage](https://www.reuters.com/article/us-crypto-currency-tesla-climate-insight/elon-musk-wants-clean-power-but-teslas-carrying-bitcoins-dirty-baggage-idUSKBN2AA193)
+- [Web Scraping 101 with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
 - [Launch HN: Taste (YC W21) – Recreate nice restaurant experiences at home](https://www.gettaste.com)
-- [Jazzer brings modern fuzz testing to the JVM](https://blog.code-intelligence.com/fuzzing-for-jvm-is-now-open-source)
-- [Patterns of Distributed Systems (2020)](https://martinfowler.com/articles/patterns-of-distributed-systems/)
-- [Paw is joining Rapid API, Paw for the Web, Windows, and Linux is available](https://blog.paw.cloud/paw-joins-forces-with-rapidapi/)
-- [Apple Watch Identifies SARS-CoV2 Infection and Predicts Diagnosis](https://preprints.jmir.org/preprint/26107)
 <!-- BLOG-POST-LIST:END -->
 
 ---
