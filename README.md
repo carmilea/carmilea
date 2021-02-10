@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/careers)
+- [Samsung Foundry: New $17B Fab in the USA by Late 2023](https://www.anandtech.com/show/16483/samsung-in-the-usa-a-17-billion-usd-fab-by-late-2023)
 - [A Poetic Apology: Or Why Should You Use Poetry to Manage Python Dependencies](https://muttdata.ai/blog/2020/08/21/a-poetic-apology.html)
-- [Golang generics proposal has been accepted](https://github.com/golang/go/issues/43651#issuecomment-776944155)
 - [Pattern Generator – Create Seamless, Royalty-Free Patterns](https://doodad.dev/pattern-generator/)
 - [Kenyan recycles plastic waste into bricks stronger than concrete](https://www.reuters.com/article/us-kenya-environment-recycling-idUSKBN2A211N)
-- [Bitcoin's fundamental value is negative given its environmental impact](https://markets.businessinsider.com/currencies/news/bitcoin-value-negative-environmental-impact-nouriel-roubini-cryptocurrencies-2021-2-1030067687)
 <!-- BLOG-POST-LIST:END -->
 
 ---
