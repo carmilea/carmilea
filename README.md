@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Base64.ai – Extract text, data, photos and more from all types of docs](http://base64.ai/)
+- [Brain2Pix: Video Reconstruction from Brain Activity](https://www.biorxiv.org/content/10.1101/2021.02.02.429430v1)
 - [Posix Threads Programming](https://computing.llnl.gov/tutorials/pthreads/)
 - [Ham Radio Forms a Planet-Sized Space Weather Sensor Network](https://eos.org/features/ham-radio-forms-a-planet-sized-space-weather-sensor-network)
 - [How to Get Startup Ideas](https://www.wilburlabs.com/blueprints/how-to-get-startup-ideas)
-- [Flynt: Convert old Python string formatting to f-strings](https://github.com/ikamensh/flynt)
-- [Turtle visual cortex is non-retinotopic](https://blog.jordan.matelsky.com/365papers/141/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
