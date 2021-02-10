@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Over 700 YC startups are hiring on YC's workatastartup.com](https://www.workatastartup.com/jobs)
+- [90-year-old man spends $10k on 2 ads in WSJ to tell AT&T CEO about slow net](https://www.foxla.com/news/90-year-old-man-spends-10000-on-2-ads-in-wsj-to-tell-att-ceo-about-his-slow-internet-service)
 - [Base64.ai – Extract text, data, photos and more from all types of docs](http://base64.ai/)
 - [Brain2Pix: Video Reconstruction from Brain Activity](https://www.biorxiv.org/content/10.1101/2021.02.02.429430v1)
 - [Posix Threads Programming](https://computing.llnl.gov/tutorials/pthreads/)
-- [Ham Radio Forms a Planet-Sized Space Weather Sensor Network](https://eos.org/features/ham-radio-forms-a-planet-sized-space-weather-sensor-network)
-- [How to Get Startup Ideas](https://www.wilburlabs.com/blueprints/how-to-get-startup-ideas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
