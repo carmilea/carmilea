@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Timezone Bullshit](https://blog.wesleyac.com/posts/timezone-bullshit)
 - [EPA Takes Action to Protect Scientific Integrity](https://www.epa.gov/newsreleases/epa-takes-action-protect-scientific-integrity)
 - [Using ES Modules (ESM) in Node.js: A Practical Guide (Part 1)](https://gils-blog.tayar.org/posts/using-jsm-esm-in-nodejs-a-practical-guide-part-1/)
 - [Researcher hacks over 35 tech firms in novel supply chain attack](https://www.bleepingcomputer.com/news/security/researcher-hacks-over-35-tech-firms-in-novel-supply-chain-attack/)
-- [Over 700 YC startups are hiring on YC's workatastartup.com](https://www.workatastartup.com/jobs)
-- [Google could have killed Facebook](https://shaneosullivan.wordpress.com/2020/12/02/the-story-of-how-google-could-have-killed-facebook-with-the-flick-of-a-switch/)
+- [Google’s next big Chrome update will rewrite the rules of the web](https://www.wired.co.uk/article/google-chrome-cookies-third-party-ads)
 <!-- BLOG-POST-LIST:END -->
 
 ---
