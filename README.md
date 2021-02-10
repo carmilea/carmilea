@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello system, a FreeBSD-based OS designed to resemble Mac](https://hellosystem.github.io/docs/)
 - [Launch HN: Wasp (YC W21) – DSL for building full-stack web apps](https://news.ycombinator.com/item?id=26091956)
 - [2021 Revision of the Mathematics Framework for California Public Schools](https://www.cde.ca.gov/ci/ma/cf/)
 - [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
-- [Value of Bitcoin is negative given environmental impact, Nouriel Roubini](https://markets.businessinsider.com/currencies/news/bitcoin-value-negative-environmental-impact-nouriel-roubini-cryptocurrencies-2021-2-1030067687)
-- [Stanford Makes iPhone Development Course Free](https://cs193p.sites.stanford.edu/)
+- [‘I get better sleep’: the people who quit social media](https://www.theguardian.com/lifeandstyle/2021/feb/10/people-who-quit-social-media)
 <!-- BLOG-POST-LIST:END -->
 
 ---
