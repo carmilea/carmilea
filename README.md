@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EPA Takes Action to Protect Scientific Integrity](https://www.epa.gov/newsreleases/epa-takes-action-protect-scientific-integrity)
+- [Using ES Modules (ESM) in Node.js: A Practical Guide (Part 1)](https://gils-blog.tayar.org/posts/using-jsm-esm-in-nodejs-a-practical-guide-part-1/)
+- [Researcher hacks over 35 tech firms in novel supply chain attack](https://www.bleepingcomputer.com/news/security/researcher-hacks-over-35-tech-firms-in-novel-supply-chain-attack/)
 - [Over 700 YC startups are hiring on YC's workatastartup.com](https://www.workatastartup.com/jobs)
-- [90-year-old man spends $10k on 2 ads in WSJ to tell AT&T CEO about slow internet](https://www.foxla.com/news/90-year-old-man-spends-10000-on-2-ads-in-wsj-to-tell-att-ceo-about-his-slow-internet-service)
 - [Google could have killed Facebook](https://shaneosullivan.wordpress.com/2020/12/02/the-story-of-how-google-could-have-killed-facebook-with-the-flick-of-a-switch/)
-- [Base64.ai – Extract text, data, photos and more from all types of docs](http://base64.ai/)
-- [Brain2Pix: Video Reconstruction from Brain Activity](https://www.biorxiv.org/content/10.1101/2021.02.02.429430v1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
