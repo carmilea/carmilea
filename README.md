@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ham Radio Forms a Planet-Sized Space Weather Sensor Network](https://eos.org/features/ham-radio-forms-a-planet-sized-space-weather-sensor-network)
+- [The Great Gatsby: The World's Most Misunderstood Novel](https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel)
+- [How to Get Startup Ideas](https://www.wilburlabs.com/blueprints/how-to-get-startup-ideas)
+- [Flynt: Convert old Python string formatting to f-strings](https://github.com/ikamensh/flynt)
 - [Turtle visual cortex is non-retinotopic](https://blog.jordan.matelsky.com/365papers/141/)
-- [Github1s – One second to read GitHub code with VS Code](https://github.com/conwnet/github1s)
-- [iRacing Telemetry with F#](https://markjames.dev/2021-02-09-iracing-telemetry-fsharp/)
-- [An SQL Solution for Jupyter](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925)
-- [GlobalSign: RSA-1024 leaf certificate issued after 2013-12-31](https://bugzilla.mozilla.org/show_bug.cgi?id=1690807)
 <!-- BLOG-POST-LIST:END -->
 
 ---
