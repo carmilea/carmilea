@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Timezone Bullshit](https://blog.wesleyac.com/posts/timezone-bullshit)
-- [EPA Takes Action to Protect Scientific Integrity](https://www.epa.gov/newsreleases/epa-takes-action-protect-scientific-integrity)
-- [Using ES Modules (ESM) in Node.js: A Practical Guide (Part 1)](https://gils-blog.tayar.org/posts/using-jsm-esm-in-nodejs-a-practical-guide-part-1/)
-- [Researcher hacks over 35 tech firms in novel supply chain attack](https://www.bleepingcomputer.com/news/security/researcher-hacks-over-35-tech-firms-in-novel-supply-chain-attack/)
-- [Google’s next big Chrome update will rewrite the rules of the web](https://www.wired.co.uk/article/google-chrome-cookies-third-party-ads)
+- [Mozilla Welcomes the Rust Foundation](https://blog.mozilla.org/blog/2021/02/08/mozilla-welcomes-the-rust-foundation/)
+- [GiveCampus (YC S15) Is Hiring remote Sr engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
+- [Crackpot Cryptography and Security Theater](https://soatok.blog/2021/02/09/crackpot-cryptography-and-security-theater/)
+- [Are we game yet? – A guide to the Rust game development ecosystem](https://arewegameyet.rs/)
+- [Is Apple Banning Free Analytics SDKs?](https://steamclock.com/blog/2021/02/apple-tracking-analytics-sdks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
