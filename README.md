@@ -55,7 +55,7 @@
 - [GiveCampus (YC S15) Is Hiring remote Sr engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
 - [Crackpot Cryptography and Security Theater](https://soatok.blog/2021/02/09/crackpot-cryptography-and-security-theater/)
 - [Are we game yet? – A guide to the Rust game development ecosystem](https://arewegameyet.rs/)
-- [Is Apple Banning Free Analytics SDKs?](https://steamclock.com/blog/2021/02/apple-tracking-analytics-sdks/)
+- [Timezone Bullshit](https://blog.wesleyac.com/posts/timezone-bullshit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
