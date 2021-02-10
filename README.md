@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Trust and the Viability of Cryptocurrency](https://jordanugalde.substack.com/p/trust-and-the-viability-of-cryptocurrency)
+- [Yuzu (Nintendo Switch Emulator) Progress Report January 2021](https://yuzu-emu.org/entry/yuzu-progress-report-jan-2021/)
+- [What’s interesting about the Florida water system hack is that we heard about it](https://krebsonsecurity.com/2021/02/whats-most-interesting-about-the-florida-water-system-hack-that-we-heard-about-it-at-all/)
+- [8-Year-Old Calls Out NPR for Lack of Dinosaur Stories](https://www.npr.org/2021/02/09/965953078/8-year-old-calls-out-npr-for-lack-of-dinosaur-stories)
 - [Imaging low-mass planets within the habitable zone of α Centauri](https://www.nature.com/articles/s41467-021-21176-6)
 - [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/careers)
-- [Samsung Foundry: New $17B Fab in the USA by Late 2023](https://www.anandtech.com/show/16483/samsung-in-the-usa-a-17-billion-usd-fab-by-late-2023)
-- [A Poetic Apology: Or Why Should You Use Poetry to Manage Python Dependencies](https://muttdata.ai/blog/2020/08/21/a-poetic-apology.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
