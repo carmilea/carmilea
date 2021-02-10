@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Over 700 YC startups are hiring on YC's workatastartup.com](https://www.workatastartup.com/jobs)
-- [90-year-old man spends $10k on 2 ads in WSJ to tell AT&T CEO about slow net](https://www.foxla.com/news/90-year-old-man-spends-10000-on-2-ads-in-wsj-to-tell-att-ceo-about-his-slow-internet-service)
+- [90-year-old man spends $10k on 2 ads in WSJ to tell AT&T CEO about slow internet](https://www.foxla.com/news/90-year-old-man-spends-10000-on-2-ads-in-wsj-to-tell-att-ceo-about-his-slow-internet-service)
+- [Google could have killed Facebook with the flick of a switch – SOS](https://shaneosullivan.wordpress.com/2020/12/02/the-story-of-how-google-could-have-killed-facebook-with-the-flick-of-a-switch/)
 - [Base64.ai – Extract text, data, photos and more from all types of docs](http://base64.ai/)
 - [Brain2Pix: Video Reconstruction from Brain Activity](https://www.biorxiv.org/content/10.1101/2021.02.02.429430v1)
-- [Posix Threads Programming](https://computing.llnl.gov/tutorials/pthreads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
