@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trust and the Viability of Cryptocurrency](https://jordanugalde.substack.com/p/trust-and-the-viability-of-cryptocurrency)
+- [Imaging low-mass planets within the habitable zone of α Centauri](https://www.nature.com/articles/s41467-021-21176-6)
 - [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/careers)
 - [Samsung Foundry: New $17B Fab in the USA by Late 2023](https://www.anandtech.com/show/16483/samsung-in-the-usa-a-17-billion-usd-fab-by-late-2023)
 - [A Poetic Apology: Or Why Should You Use Poetry to Manage Python Dependencies](https://muttdata.ai/blog/2020/08/21/a-poetic-apology.html)
-- [Pattern Generator – Create Seamless, Royalty-Free Patterns](https://doodad.dev/pattern-generator/)
-- [Kenyan recycles plastic waste into bricks stronger than concrete](https://www.reuters.com/article/us-kenya-environment-recycling-idUSKBN2A211N)
 <!-- BLOG-POST-LIST:END -->
 
 ---
