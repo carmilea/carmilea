@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Posix Threads Programming](https://computing.llnl.gov/tutorials/pthreads/)
 - [Ham Radio Forms a Planet-Sized Space Weather Sensor Network](https://eos.org/features/ham-radio-forms-a-planet-sized-space-weather-sensor-network)
-- [The Great Gatsby: The World's Most Misunderstood Novel](https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel)
 - [How to Get Startup Ideas](https://www.wilburlabs.com/blueprints/how-to-get-startup-ideas)
 - [Flynt: Convert old Python string formatting to f-strings](https://github.com/ikamensh/flynt)
 - [Turtle visual cortex is non-retinotopic](https://blog.jordan.matelsky.com/365papers/141/)
