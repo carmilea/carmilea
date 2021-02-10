@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello system, a FreeBSD-based OS designed to resemble Mac](https://hellosystem.github.io/docs/)
-- [Launch HN: Wasp (YC W21) – DSL for building full-stack web apps](https://news.ycombinator.com/item?id=26091956)
-- [2021 Revision of the Mathematics Framework for California Public Schools](https://www.cde.ca.gov/ci/ma/cf/)
-- [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
-- [‘I get better sleep’: the people who quit social media](https://www.theguardian.com/lifeandstyle/2021/feb/10/people-who-quit-social-media)
+- [GitHub Account hijack through broken link in developer.twitter.com](https://hackerone.com/reports/1031321)
+- [Viral 'I'm not a cat' filter is decades-old software](https://www.bbc.co.uk/news/technology-56010156)
+- [The unusual way I'm funding my open source work](https://kerkour.com/blog/the-unusual-way-im-funding-my-open-source-work/)
+- [Interview Frustrations](https://jessimekirk.com/blog/interview_frustrations/)
+- [State of Independent SaaS 2021](https://microconf.com/sois-report-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
