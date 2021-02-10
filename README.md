@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How we implemented replication in Memgraph DB – Our approach and challenges.](https://memgraph.com/blog/implementing-data-replication)
+- [Show HN: Screenstab – A tool to turn screenshots into beautiful image assets](https://www.screenstab.com/)
+- [Bitcoin now uses more electricity than Argentina](https://cbeci.org/cbeci/comparisons)
 - [Mozilla Welcomes the Rust Foundation](https://blog.mozilla.org/blog/2021/02/08/mozilla-welcomes-the-rust-foundation/)
 - [GiveCampus (YC S15) Is Hiring remote Sr engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
-- [Crackpot Cryptography and Security Theater](https://soatok.blog/2021/02/09/crackpot-cryptography-and-security-theater/)
-- [Are we game yet? – A guide to the Rust game development ecosystem](https://arewegameyet.rs/)
-- [Timezone Bullshit](https://blog.wesleyac.com/posts/timezone-bullshit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
