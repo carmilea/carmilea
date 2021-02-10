@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How we implemented replication in Memgraph DB – Our approach and challenges.](https://memgraph.com/blog/implementing-data-replication)
-- [Show HN: Screenstab – A tool to turn screenshots into beautiful image assets](https://www.screenstab.com/)
-- [Bitcoin now uses more electricity than Argentina](https://cbeci.org/cbeci/comparisons)
-- [Mozilla Welcomes the Rust Foundation](https://blog.mozilla.org/blog/2021/02/08/mozilla-welcomes-the-rust-foundation/)
-- [GiveCampus (YC S15) Is Hiring remote Sr engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
+- [Launch HN: Taste (YC W21) – Recreate nice restaurant experiences at home](https://www.gettaste.com)
+- [Jazzer brings modern fuzz testing to the JVM](https://blog.code-intelligence.com/fuzzing-for-jvm-is-now-open-source)
+- [Patterns of Distributed Systems (2020)](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+- [Paw is joining Rapid API, Paw for the Web, Windows, and Linux is available](https://blog.paw.cloud/paw-joins-forces-with-rapidapi/)
+- [Apple Watch Identifies SARS-CoV2 Infection and Predicts Diagnosis](https://preprints.jmir.org/preprint/26107)
 <!-- BLOG-POST-LIST:END -->
 
 ---
