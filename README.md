@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Account hijack through broken link in developer.twitter.com](https://hackerone.com/reports/1031321)
-- [Viral 'I'm not a cat' filter is decades-old software](https://www.bbc.co.uk/news/technology-56010156)
-- [The unusual way I'm funding my open source work](https://kerkour.com/blog/the-unusual-way-im-funding-my-open-source-work/)
-- [Interview Frustrations](https://jessimekirk.com/blog/interview_frustrations/)
-- [State of Independent SaaS 2021](https://microconf.com/sois-report-2021)
+- [A Poetic Apology: Or Why Should You Use Poetry to Manage Python Dependencies](https://muttdata.ai/blog/2020/08/21/a-poetic-apology.html)
+- [Golang generics proposal has been accepted](https://github.com/golang/go/issues/43651#issuecomment-776944155)
+- [Pattern Generator – Create Seamless, Royalty-Free Patterns](https://doodad.dev/pattern-generator/)
+- [Kenyan recycles plastic waste into bricks stronger than concrete](https://www.reuters.com/article/us-kenya-environment-recycling-idUSKBN2A211N)
+- [Bitcoin's fundamental value is negative given its environmental impact](https://markets.businessinsider.com/currencies/news/bitcoin-value-negative-environmental-impact-nouriel-roubini-cryptocurrencies-2021-2-1030067687)
 <!-- BLOG-POST-LIST:END -->
 
 ---
