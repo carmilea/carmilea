@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Wasp (YC W21) – DSL for building full-stack web apps](https://news.ycombinator.com/item?id=26091956)
+- [2021 Revision of the Mathematics Framework for California Public Schools](https://www.cde.ca.gov/ci/ma/cf/)
+- [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
+- [Value of Bitcoin is negative given environmental impact, Nouriel Roubini](https://markets.businessinsider.com/currencies/news/bitcoin-value-negative-environmental-impact-nouriel-roubini-cryptocurrencies-2021-2-1030067687)
 - [Stanford Makes iPhone Development Course Free](https://cs193p.sites.stanford.edu/)
-- [A sneak peek at MetaHuman Creator](https://www.unrealengine.com/en-US/blog/a-sneak-peek-at-metahuman-creator-high-fidelity-digital-humans-made-easy)
-- [Elon Musk wants clean power. But Tesla's carrying Bitcoin's dirty baggage](https://www.reuters.com/article/us-crypto-currency-tesla-climate-insight/elon-musk-wants-clean-power-but-teslas-carrying-bitcoins-dirty-baggage-idUSKBN2AA193)
-- [Web Scraping 101 with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
-- [Launch HN: Taste (YC W21) – Recreate nice restaurant experiences at home](https://www.gettaste.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
