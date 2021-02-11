@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Switching to Windows](http://ignorethecode.net/blog/2021/02/02/switching_to_windows/)
-- [GameStop missed out on capitalizing on the Reddit rally](https://www.reuters.com/article/us-retail-trading-gamestop-capitalraise/exclusive-how-gamestop-missed-out-on-capitalizing-on-the-reddit-rally-idUSKBN2AB14F)
-- [New Story Charity (YC S15) Is Hiring](https://www.workatastartup.com/jobs/33188)
-- [Bitcoin is the greatest scam in history (2018)](https://www.vox.com/2018/4/24/17275202/bitcoin-scam-cryptocurrency-mining-pump-dump-fraud-ico-value)
-- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
+- [From First Principles: Why Scala?](https://www.lihaoyi.com/post/FromFirstPrinciplesWhyScala.html)
+- [Rust Actix Web Beginners Toolkit](https://github.com/intelliconnect/rust-lang-apps)
+- [Upptime – GitHub actions powered uptime monitor](https://github.com/upptime/upptime)
+- [Nanowire could provide a stable, easy-to-make superconducting transistor](https://news.mit.edu/2021/nanowire-superconducting-transistor-0211)
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
