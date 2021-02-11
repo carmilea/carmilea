@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
+- [Why the upgrade cycle will never end (2015)](https://www.scientificamerican.com/article/why-the-upgrade-cycle-will-never-end/)
 - [Lalboard – A 3D-printed keyboard inspired by the DataHand](https://github.com/JesusFreke/lalboard)
 - [Can’t Find an N95 Mask? This Company Has 30M That It Can’t Sell](https://www.nytimes.com/2021/02/10/health/covid-masks-china-united-states.html)
 - [Migrating old artifacts from JCenter to MavenCentral](https://www.marcogomiero.com/posts/2021/move-libray-jcenter-to-maven/)
-- [Wikimedia narrows down the app sendin 90M requests to a pic of flower](https://phabricator.wikimedia.org/T273741#6815828)
-- [Mouse studies show gene therapy can cause big drop in latent herpes infections](https://www.fredhutch.org/en/news/center-news/2020/08/herpes-simplex-gene-therapy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
