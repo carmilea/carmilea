@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My reading stack with Miniflux/RSS and Pocket](https://cri.dev/posts/2021-02-09-my-reading-stack-miniflux-rss-pocket/)
+- [Idioms for the D Programming Language](https://p0nce.github.io/d-idioms/)
+- [Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention](https://arxiv.org/abs/2102.03902)
+- [Lynx: Power-Efficient Cryptocurrency Using RPi [pdf]](http://cdn.getlynx.io/2019-03-17_Lynx_Whitepaper_v1.1.pdf)
+- [Running unmodified Linux programs on Fuchsia](https://fuchsia-review.googlesource.com/c/fuchsia/+/485181)
 - [Launch HN: Cord (YC W21) – training data toolbox for computer vision](https://news.ycombinator.com/item?id=26104104)
-- [Repl.it is hiring to change how people code](http://repl.it/careers)
-- [Why I Built Litestream](https://litestream.io/blog/why-i-built-litestream/)
-- [How Fat Does a Fat Binary Need to Be?](https://justine.lol/cosmopolitan/howfat.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
