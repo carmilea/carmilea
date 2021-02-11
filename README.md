@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Switching to Windows](http://ignorethecode.net/blog/2021/02/02/switching_to_windows/)
+- [GameStop missed out on capitalizing on the Reddit rally](https://www.reuters.com/article/us-retail-trading-gamestop-capitalraise/exclusive-how-gamestop-missed-out-on-capitalizing-on-the-reddit-rally-idUSKBN2AB14F)
 - [New Story Charity (YC S15) Is Hiring](https://www.workatastartup.com/jobs/33188)
-- [U.S. has world’s highest rate of children living in single-parent households](https://www.pewresearch.org/fact-tank/2019/12/12/u-s-children-more-likely-than-children-in-other-countries-to-live-with-just-one-parent/)
-- [CD Projekt Red's ransomed data stated starting bid $1.000.000](https://twitter.com/vxunderground/status/1359473460448231425)
+- [Bitcoin is the greatest scam in history (2018)](https://www.vox.com/2018/4/24/17275202/bitcoin-scam-cryptocurrency-mining-pump-dump-fraud-ico-value)
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
-- [Why the upgrade cycle will never end (2015)](https://www.scientificamerican.com/article/why-the-upgrade-cycle-will-never-end/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
