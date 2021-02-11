@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Chorus Meditation (YC W21) – Meditation for Non-Meditators](https://news.ycombinator.com/item?id=26103433)
-- [America's 1% Has Taken $50T From the Bottom 90%](https://time.com/5888024/50-trillion-income-inequality-america/)
-- [TurboTax Just Tricked You into Paying to File Your Taxes](https://www.propublica.org/article/turbotax-just-tricked-you-into-paying-to-file-your-taxes)
-- [ZoraOS](https://zora.engineering/launch-announcement)
-- [Fired software engineer sues Wayfair for mistreatment over caregiving, age](https://www.bostonglobe.com/2021/02/11/nation/fired-software-engineer-sues-wayfair-mistreatment-over-caregiving-age/)
+- [Launch HN: Cord (YC W21) – training data toolbox for computer vision](https://news.ycombinator.com/item?id=26104104)
+- [Should random() be banned?](https://r2c.dev/blog/2021/should-random-be-banned/)
+- [Repl.it is hiring to change how people code](http://repl.it/careers)
+- [Why I Built Litestream](https://litestream.io/blog/why-i-built-litestream/)
+- [How Fat Does a Fat Binary Need to Be?](https://justine.lol/cosmopolitan/howfat.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
