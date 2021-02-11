@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD Is Currently Hiring More Linux Engineers](https://www.phoronix.com/scan.php?page=news_item&px=AMD-Hiring-More-Linux-2021)
-- [MasterCard to open up network to cryptocurrencies](https://www.reuters.com/article/us-crypto-currency-mastercard/mastercard-to-open-up-network-to-select-cryptocurrencies-idUSKBN2AA2WF)
-- [Ray Dalio – What I think of Bitcoin](https://www.bridgewater.com/research-and-insights/ray-dalio-what-i-think-of-bitcoin)
-- [The Vaccine Had to Be Used. He Used It. He Was Fired](https://nyti.ms/3q5J38a)
-- [Budgie Is Worth a Try](https://rentry.co/9nxds)
+- [Launch HN: Chorus Meditation (YC W21) – Meditation for Non-Meditators](https://news.ycombinator.com/item?id=26103433)
+- [America's 1% Has Taken $50T From the Bottom 90%](https://time.com/5888024/50-trillion-income-inequality-america/)
+- [TurboTax Just Tricked You into Paying to File Your Taxes](https://www.propublica.org/article/turbotax-just-tricked-you-into-paying-to-file-your-taxes)
+- [ZoraOS](https://zora.engineering/launch-announcement)
+- [Fired software engineer sues Wayfair for mistreatment over caregiving, age](https://www.bostonglobe.com/2021/02/11/nation/fired-software-engineer-sues-wayfair-mistreatment-over-caregiving-age/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
