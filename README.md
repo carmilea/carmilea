@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [QuestDB (YC S20) is hiring C++ and columnar database programmers](https://questdb.io/careers/)
+- [Rethinkscape – a new UX/UI proposal for Inkscape](https://github.com/PIWEEK/rethinkscape)
+- [Leaving Mozilla](https://www.emilykager.com/writing/2021/02/10/mozilla.html)
+- [Amsterdam displaces London as Europe's top stocks centre after Brexit](https://www.reuters.com/article/us-britain-eu-markets/amsterdam-displaces-london-as-europes-top-stocks-centre-after-brexit-idUSKBN2AB0I8)
 - [Normalizing AWS IAM Policies for use in automated analysis](https://steampipe.io/blog/normalizing-aws-iam-policies-for-automated-analysis)
-- [Kubernetes Failure Stories](https://k8s.af)
-- [Leaving Cmder for Alacritty (2020)](https://justjensen.co/leaving-cmder-for-alacritty-2020-edition/)
-- [UC Berkeley Library acquires FBI records of surveillance of Black leaders](https://www.berkeleyside.com/2021/02/04/uc-berkeley-library-acquires-fbi-records-of-surveillance-of-black-leaders)
-- [Idioms for the D Programming Language](https://p0nce.github.io/d-idioms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
