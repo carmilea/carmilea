@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [From First Principles: Why Scala?](https://www.lihaoyi.com/post/FromFirstPrinciplesWhyScala.html)
-- [Rust Actix Web Beginners Toolkit](https://github.com/intelliconnect/rust-lang-apps)
-- [Upptime – GitHub actions powered uptime monitor](https://github.com/upptime/upptime)
-- [Nanowire could provide a stable, easy-to-make superconducting transistor](https://news.mit.edu/2021/nanowire-superconducting-transistor-0211)
-- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
+- [AMD Is Currently Hiring More Linux Engineers](https://www.phoronix.com/scan.php?page=news_item&px=AMD-Hiring-More-Linux-2021)
+- [MasterCard to open up network to cryptocurrencies](https://www.reuters.com/article/us-crypto-currency-mastercard/mastercard-to-open-up-network-to-select-cryptocurrencies-idUSKBN2AA2WF)
+- [Ray Dalio – What I think of Bitcoin](https://www.bridgewater.com/research-and-insights/ray-dalio-what-i-think-of-bitcoin)
+- [The Vaccine Had to Be Used. He Used It. He Was Fired](https://nyti.ms/3q5J38a)
+- [Budgie Is Worth a Try](https://rentry.co/9nxds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
