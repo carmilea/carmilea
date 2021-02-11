@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Crypto-Chernobyl](https://www.stephendiehl.com/blog/chernobyl.html)
+- [Teaching Students How to Cheat During the Pandemic](https://daveeargle.com/2020/09/11/kobayashi-maru-proctorio-version/)
+- [Why Wasn't Ruby 3 Faster?](https://www.fastruby.io/blog/ruby/performance/why-wasnt-ruby-3-faster.html)
 - [Yuzu (Nintendo Switch Emulator) Progress Report January 2021](https://yuzu-emu.org/entry/yuzu-progress-report-jan-2021/)
 - [What’s interesting about the Florida water system hack is that we heard about it](https://krebsonsecurity.com/2021/02/whats-most-interesting-about-the-florida-water-system-hack-that-we-heard-about-it-at-all/)
-- [8-Year-Old Calls Out NPR for Lack of Dinosaur Stories](https://www.npr.org/2021/02/09/965953078/8-year-old-calls-out-npr-for-lack-of-dinosaur-stories)
-- [Imaging low-mass planets within the habitable zone of α Centauri](https://www.nature.com/articles/s41467-021-21176-6)
-- [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
