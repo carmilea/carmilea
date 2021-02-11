@@ -54,8 +54,8 @@
 - [Hustler founder and free-speech activist Larry Flynt dies aged 78](https://www.bbc.com/news/world-us-canada-56019589)
 - [Teaching Students How to Cheat During the Pandemic](https://daveeargle.com/2020/09/11/kobayashi-maru-proctorio-version/)
 - [Why Wasn't Ruby 3 Faster?](https://www.fastruby.io/blog/ruby/performance/why-wasnt-ruby-3-faster.html)
+- [Google is now telling users its apps are out of date. No updates are available](https://spencerdailey.com/2021/02/10/google-itself-is-now-telling-users-their-apps-are-out-of-date-despite-no-updates-being-available/)
 - [Yuzu (Nintendo Switch Emulator) Progress Report January 2021](https://yuzu-emu.org/entry/yuzu-progress-report-jan-2021/)
-- [What’s interesting about the Florida water system hack is that we heard about it](https://krebsonsecurity.com/2021/02/whats-most-interesting-about-the-florida-water-system-hack-that-we-heard-about-it-at-all/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
