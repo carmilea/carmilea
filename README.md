@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pravetz Computers](https://en.wikipedia.org/wiki/Pravetz_computers)
+- [A reverse-engineered description of Adobe Type 1 fonts. (1989)](https://minnie.tuhs.org/pipermail/tuhs/2021-February/023136.html)
+- [Cloudflare Announces Fourth Quarter and Fiscal Year 2020 Financial Results](https://cloudflare.net/news/news-details/2021/Cloudflare-Announces-Fourth-Quarter-and-Fiscal-Year-2020-Financial-Results/default.aspx)
 - [QuestDB (YC S20) is hiring C++ and columnar database programmers](https://questdb.io/careers/)
 - [Rethinkscape – a new UX/UI proposal for Inkscape](https://github.com/PIWEEK/rethinkscape)
-- [Leaving Mozilla](https://www.emilykager.com/writing/2021/02/10/mozilla.html)
-- [Amsterdam displaces London as Europe's top stocks centre after Brexit](https://www.reuters.com/article/us-britain-eu-markets/amsterdam-displaces-london-as-europes-top-stocks-centre-after-brexit-idUSKBN2AB0I8)
-- [Normalizing AWS IAM Policies for use in automated analysis](https://steampipe.io/blog/normalizing-aws-iam-policies-for-automated-analysis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
