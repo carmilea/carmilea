@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Crypto-Chernobyl](https://www.stephendiehl.com/blog/chernobyl.html)
+- [Hustler founder and free-speech activist Larry Flynt dies aged 78](https://www.bbc.com/news/world-us-canada-56019589)
 - [Teaching Students How to Cheat During the Pandemic](https://daveeargle.com/2020/09/11/kobayashi-maru-proctorio-version/)
 - [Why Wasn't Ruby 3 Faster?](https://www.fastruby.io/blog/ruby/performance/why-wasnt-ruby-3-faster.html)
 - [Yuzu (Nintendo Switch Emulator) Progress Report January 2021](https://yuzu-emu.org/entry/yuzu-progress-report-jan-2021/)
