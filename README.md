@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A cure for herpes? There is progress to report](https://www.fredhutch.org/en/news/center-news/2020/08/herpes-simplex-gene-therapy.html)
+- [Ask HN: Startup employees getting nothing after acquisition, is this normal?](https://news.ycombinator.com/item?id=26098882)
+- [Why scientists want to kill Pablo Escobar's hippos](https://www.bbc.co.uk/news/world-latin-america-56011594)
+- [Mouse studies show gene therapy can cause big drop in latent herpes infections](https://www.fredhutch.org/en/news/center-news/2020/08/herpes-simplex-gene-therapy.html)
 - [Microsoft's FoxPro 2.5 Is Fast and Easy to Use (1993)](https://www.latimes.com/archives/la-xpm-1993-04-08-fi-20371-story.html)
 - [System76 Launch Configurable Keyboard with Open Source Code](https://github.com/system76/launch)
-- [Science of Aging Is Focus of New Bakar Research Institute](https://www.ucsf.edu/news/2021/02/419781/science-aging-focus-new-bakar-research-institute)
-- [What the F--k Python?](https://github.com/satwikkansal/wtfpython)
 <!-- BLOG-POST-LIST:END -->
 
 ---
