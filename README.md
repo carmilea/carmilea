@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My reading stack with Miniflux/RSS and Pocket](https://cri.dev/posts/2021-02-09-my-reading-stack-miniflux-rss-pocket/)
 - [Launch HN: Cord (YC W21) – training data toolbox for computer vision](https://news.ycombinator.com/item?id=26104104)
-- [Should random() be banned?](https://r2c.dev/blog/2021/should-random-be-banned/)
 - [Repl.it is hiring to change how people code](http://repl.it/careers)
 - [Why I Built Litestream](https://litestream.io/blog/why-i-built-litestream/)
 - [How Fat Does a Fat Binary Need to Be?](https://justine.lol/cosmopolitan/howfat.html)
