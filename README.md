@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Pravetz Computers](https://en.wikipedia.org/wiki/Pravetz_computers)
+- [Show HN: Sleepy Time Conference—conferences that comes together while you sleep](https://github.com/breck7/sleepytimeconference/blob/main/README.md)
 - [A reverse-engineered description of Adobe Type 1 fonts. (1989)](https://minnie.tuhs.org/pipermail/tuhs/2021-February/023136.html)
 - [Cloudflare Announces Fourth Quarter and Fiscal Year 2020 Financial Results](https://cloudflare.net/news/news-details/2021/Cloudflare-Announces-Fourth-Quarter-and-Fiscal-Year-2020-Financial-Results/default.aspx)
 - [QuestDB (YC S20) is hiring C++ and columnar database programmers](https://questdb.io/careers/)
-- [Rethinkscape – a new UX/UI proposal for Inkscape](https://github.com/PIWEEK/rethinkscape)
 <!-- BLOG-POST-LIST:END -->
 
 ---
