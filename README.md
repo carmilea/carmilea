@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Normalizing AWS IAM Policies for use in automated analysis](https://steampipe.io/blog/normalizing-aws-iam-policies-for-automated-analysis)
+- [Kubernetes Failure Stories](https://k8s.af)
+- [Leaving Cmder for Alacritty (2020)](https://justjensen.co/leaving-cmder-for-alacritty-2020-edition/)
+- [UC Berkeley Library acquires FBI records of surveillance of Black leaders](https://www.berkeleyside.com/2021/02/04/uc-berkeley-library-acquires-fbi-records-of-surveillance-of-black-leaders)
 - [Idioms for the D Programming Language](https://p0nce.github.io/d-idioms/)
-- [Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention](https://arxiv.org/abs/2102.03902)
-- [Lynx: Power-Efficient Cryptocurrency Using RPi [pdf]](http://cdn.getlynx.io/2019-03-17_Lynx_Whitepaper_v1.1.pdf)
-- [Running unmodified Linux programs on Fuchsia](https://fuchsia-review.googlesource.com/c/fuchsia/+/485181)
-- [Launch HN: Cord (YC W21) – training data toolbox for computer vision](https://news.ycombinator.com/item?id=26104104)
 <!-- BLOG-POST-LIST:END -->
 
 ---
