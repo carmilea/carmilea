@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [San Francisco school board halts appointment based on race](https://abc7news.com/education/sf-school-board-halts-appointment-based-on-race/10328448/)
+- [The Ghost in the MP3](http://theghostinthemp3.com/theghostinthemp3.html)
 - [Yandex said it caught an employee selling access to users' inboxes](https://www.zdnet.com/article/yandex-said-it-caught-an-employee-selling-access-to-users-inboxes/)
 - [The Muse (YC W12) Is Hiring a Senior Front-End Engineer](https://jobs.lever.co/themuse/aa9aa182-ac93-4cae-9d46-65f879a23773?lever-origin=applied&lever-source%5B%5D=YC)
-- [Czech gunmaker CZG buys Colt](https://reuters.com/article/idUSL1N2KH3HO)
 - [SerenityOS: Writing a Full Chain Exploit](https://devcraft.io/2021/02/11/serenityos-writing-a-full-chain-exploit.html)
+- [Multiple Beverly Hills PD officers now weaponizing copyright against streaming](https://www.vice.com/en/article/bvxa7q/new-video-shows-beverly-hills-cops-playing-beatles-to-trigger-instagram-copyright-filter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
