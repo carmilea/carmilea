@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- ['Gamechanger' drug for treating obesity cuts body weight by 20 percent](https://www.sciencedaily.com/releases/2021/02/210211091352.htm)
+- [“I saw that you spun up an Ubuntu image in Azure”](https://twitter.com/LucaBongiorni/status/1359560585990537216)
+- [EU privacy agency urges more safeguards to curb U.S. tech giants](https://www.reuters.com/article/us-eu-tech-privacy/eu-privacy-agency-urges-more-safeguards-to-curb-u-s-tech-giants-idUSKBN2AA25D)
+- [Euro privacy watchdog calls for end of targeted advertising](https://www.theregister.com/2021/02/11/eu_ad_rules/)
+- [Flexible working shows 55% high performers compared to 36% for 40 hours/week](https://hbr.org/2021/01/9-trends-that-will-shape-work-in-2021-and-beyond)
 - [Visual Studio Code Comes to Raspberry Pi](https://www.raspberrypi.org/blog/visual-studio-code-comes-to-raspberry-pi/)
-- [“Genocide” is the wrong word for the horrors of Xinjiang](https://www.economist.com/leaders/2021/02/13/genocide-is-the-wrong-word-for-the-horrors-of-xinjiang)
-- [Surveys: More Americans Want Starlink Than 5G Home Internet](https://www.pcmag.com/news/surveys-more-americans-want-starlink-than-5g-home-internet)
-- [Self-organising textures from cellular automata](https://distill.pub/selforg/2021/textures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
