@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Great Firewall of America – censoring VPN ports via deep packet inspection](https://yewtu.be/watch?v=rSmGxw0GSq8)
 - [Comparison of Rust async and Linux thread context switch time and memory use](https://github.com/jimblandy/context-switch)
 - [You Shall Not Pass](https://youshallnotpass.glitch.me/?)
 - [U.S. Postage Stamp Will Honor the 'First Lady of Physics'](https://www.smithsonianmag.com/smart-news/us-postage-stamp-will-honor-first-lady-physics-180976979/)
 - [Show HN: Real-time multiplayer games with cubes. Early feedback on dev docs?](https://docs.particubes.com/)
-- [Show HN: git-peek – git repo to local editor instantly](https://github.com/jarred-sumner/git-peek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
