@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse (YC W12) Is Hiring a Senior Front-End Engineer](https://jobs.lever.co/themuse/aa9aa182-ac93-4cae-9d46-65f879a23773?lever-origin=applied&lever-source%5B%5D=YC)
+- [Czech gunmaker CZG buys Colt](https://reuters.com/article/idUSL1N2KH3HO)
 - [SerenityOS: Writing a Full Chain Exploit](https://devcraft.io/2021/02/11/serenityos-writing-a-full-chain-exploit.html)
 - [Multiple Beverly Hills PD officers now weaponizing copyright against streaming](https://www.vice.com/en/article/bvxa7q/new-video-shows-beverly-hills-cops-playing-beatles-to-trigger-instagram-copyright-filter)
-- [Mathematician Solves Sensitivity Conjecture in Two Pages [2019]](https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/)
-- [SVG: The Good, the Bad and the Ugly](https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html)
-- [The Miyawaki Method: A Better Way to Build Forests? (2019)](https://daily.jstor.org/the-miyawaki-method-a-better-way-to-build-forests/)
+- [Mathematician Solves Sensitivity Conjecture in Two Pages (2019)](https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
