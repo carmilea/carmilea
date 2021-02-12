@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stanford archive to highlight Black histories of Silicon Valley](https://news.stanford.edu/2021/02/11/archiving-black-histories-silicon-valley/)
 - [Show HN: Real-time multiplayer games with cubes. Early feedback on dev docs?](https://docs.particubes.com/)
 - [Show HN: git-peek – git repo to local editor instantly](https://github.com/jarred-sumner/git-peek)
 - [Pravetz Computers](https://en.wikipedia.org/wiki/Pravetz_computers)
 - [Show HN: Sleepy Time Conference—conferences that comes together while you sleep](https://github.com/breck7/sleepytimeconference/blob/main/README.md)
+- [A reverse-engineered description of Adobe Type 1 fonts. (1989)](https://minnie.tuhs.org/pipermail/tuhs/2021-February/023136.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
