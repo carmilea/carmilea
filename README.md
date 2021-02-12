@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify Optimized the Largest Dataflow Job Ever for Wrapped 2020](https://engineering.atspotify.com/2021/02/11/how-spotify-optimized-the-largest-dataflow-job-ever-for-wrapped-2020)
+- [Stonehenge may have been built in Wales and then relocated](https://www.bbc.co.uk/news/uk-wales-56029203)
+- [Australia to introduce Google, Facebook legislation to parliament next week](https://www.reuters.com/article/us-australia-media-google/australia-to-introduce-landmark-google-facebook-legislation-to-parliament-next-week-idUSKBN2AC0BF)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [Chick Corea has died](https://chickcorea.com/)
-- [Apple redirects Google Safe Browsing traffic through proxy servers in iOS 14.5](https://the8-bit.com/apple-proxies-google-safe-browsing-privacy/)
-- [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
-- [Unknown Unknowns in Machine Learning](https://ai.googleblog.com/2021/02/uncovering-unknown-unknowns-in-machine.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
