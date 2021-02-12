@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [Jazz Pianist and Composer, Chick Corea passed away at age 79](https://chickcorea.com/)
+- [Chick Corea has died](https://chickcorea.com/)
 - [Apple redirects Google Safe Browsing traffic through proxy servers in iOS 14.5](https://the8-bit.com/apple-proxies-google-safe-browsing-privacy/)
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
 - [Unknown Unknowns in Machine Learning](https://ai.googleblog.com/2021/02/uncovering-unknown-unknowns-in-machine.html)
