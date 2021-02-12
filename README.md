@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ghost in the MP3](http://theghostinthemp3.com/theghostinthemp3.html)
-- [Yandex said it caught an employee selling access to users' inboxes](https://www.zdnet.com/article/yandex-said-it-caught-an-employee-selling-access-to-users-inboxes/)
-- [The Muse (YC W12) Is Hiring a Senior Front-End Engineer](https://jobs.lever.co/themuse/aa9aa182-ac93-4cae-9d46-65f879a23773?lever-origin=applied&lever-source%5B%5D=YC)
-- [SerenityOS: Writing a Full Chain Exploit](https://devcraft.io/2021/02/11/serenityos-writing-a-full-chain-exploit.html)
-- [Multiple Beverly Hills PD officers now weaponizing copyright against streaming](https://www.vice.com/en/article/bvxa7q/new-video-shows-beverly-hills-cops-playing-beatles-to-trigger-instagram-copyright-filter)
+- [Svgrepo: Browse 300.000 SVG Vectors and Icons](https://www.svgrepo.com/)
+- [Can we please discuss Big Tech's suppression of oppressive regimes?](https://news.ycombinator.com/item?id=26117559)
+- [Linux Memory Management FAQ](http://landley.net/writing/memory-faq.txt)
+- [Swift for TensorFlow Shuts Down](https://github.com/tensorflow/swift)
+- [Microbial ecosystems in the mouth and gut are linked to many ills](https://www.economist.com/science-and-technology/2021/02/10/microbial-ecosystems-in-the-mouth-and-gut-are-linked-to-many-ills)
 <!-- BLOG-POST-LIST:END -->
 
 ---
