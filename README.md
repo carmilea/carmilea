@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- ['Gamechanger' drug for treating obesity cuts body weight by 20 percent](https://www.sciencedaily.com/releases/2021/02/210211091352.htm)
+- [Visual Studio Code Comes to Raspberry Pi](https://www.raspberrypi.org/blog/visual-studio-code-comes-to-raspberry-pi/)
+- [“Genocide” is the wrong word for the horrors of Xinjiang](https://www.economist.com/leaders/2021/02/13/genocide-is-the-wrong-word-for-the-horrors-of-xinjiang)
+- [Surveys: More Americans Want Starlink Than 5G Home Internet](https://www.pcmag.com/news/surveys-more-americans-want-starlink-than-5g-home-internet)
 - [Self-organising textures from cellular automata](https://distill.pub/selforg/2021/textures/)
-- [Impraise (YC S14) Is Hiring Account Executive](https://www.workatastartup.com/jobs/41981)
-- [Fuzz me wrong – How QuickCheck destroyed my favourite theory](https://thma.github.io/posts/2021-01-30-How-QuickCheck-destroyed-my-favourite-theory.html)
-- [Spotify Optimized the Largest Dataflow Job Ever for Wrapped 2020](https://engineering.atspotify.com/2021/02/11/how-spotify-optimized-the-largest-dataflow-job-ever-for-wrapped-2020)
-- [Stonehenge may have been built in Wales and then relocated](https://www.bbc.co.uk/news/uk-wales-56029203)
 <!-- BLOG-POST-LIST:END -->
 
 ---
