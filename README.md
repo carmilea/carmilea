@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Impraise (YC S14) Is Hiring Account Executive](https://www.workatastartup.com/jobs/41981)
+- [Fuzz me wrong – How QuickCheck destroyed my favourite theory](https://thma.github.io/posts/2021-01-30-How-QuickCheck-destroyed-my-favourite-theory.html)
 - [Spotify Optimized the Largest Dataflow Job Ever for Wrapped 2020](https://engineering.atspotify.com/2021/02/11/how-spotify-optimized-the-largest-dataflow-job-ever-for-wrapped-2020)
 - [Stonehenge may have been built in Wales and then relocated](https://www.bbc.co.uk/news/uk-wales-56029203)
 - [Australia to introduce Google, Facebook legislation to parliament next week](https://www.reuters.com/article/us-australia-media-google/australia-to-introduce-landmark-google-facebook-legislation-to-parliament-next-week-idUSKBN2AC0BF)
-- [Performance Showdown: Rust vs. JavaScript](https://cesarvr.io/post/rust-performance/)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
