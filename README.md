@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparison of Rust async and Linux thread context switch time and memory use](https://github.com/jimblandy/context-switch)
+- [You Shall Not Pass](https://youshallnotpass.glitch.me/?)
+- [U.S. Postage Stamp Will Honor the 'First Lady of Physics'](https://www.smithsonianmag.com/smart-news/us-postage-stamp-will-honor-first-lady-physics-180976979/)
 - [Show HN: Real-time multiplayer games with cubes. Early feedback on dev docs?](https://docs.particubes.com/)
 - [Show HN: git-peek – git repo to local editor instantly](https://github.com/jarred-sumner/git-peek)
-- [Pravetz Computers](https://en.wikipedia.org/wiki/Pravetz_computers)
-- [Show HN: Sleepy Time Conference—conferences that comes together while you sleep](https://github.com/breck7/sleepytimeconference/blob/main/README.md)
-- [A reverse-engineered description of Adobe Type 1 fonts. (1989)](https://minnie.tuhs.org/pipermail/tuhs/2021-February/023136.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
