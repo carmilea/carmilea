@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“I saw that you spun up an Ubuntu image in Azure”](https://twitter.com/LucaBongiorni/status/1359560585990537216)
-- [EU privacy agency urges more safeguards to curb U.S. tech giants](https://www.reuters.com/article/us-eu-tech-privacy/eu-privacy-agency-urges-more-safeguards-to-curb-u-s-tech-giants-idUSKBN2AA25D)
-- [Euro privacy watchdog calls for end of targeted advertising](https://www.theregister.com/2021/02/11/eu_ad_rules/)
-- [Flexible working shows 55% high performers compared to 36% for 40 hours/week](https://hbr.org/2021/01/9-trends-that-will-shape-work-in-2021-and-beyond)
-- [Visual Studio Code Comes to Raspberry Pi](https://www.raspberrypi.org/blog/visual-studio-code-comes-to-raspberry-pi/)
+- [SerenityOS: Writing a Full Chain Exploit](https://devcraft.io/2021/02/11/serenityos-writing-a-full-chain-exploit.html)
+- [Multiple Beverly Hills PD officers now weaponizing copyright against streaming](https://www.vice.com/en/article/bvxa7q/new-video-shows-beverly-hills-cops-playing-beatles-to-trigger-instagram-copyright-filter)
+- [Mathematician Solves Sensitivity Conjecture in Two Pages [2019]](https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/)
+- [SVG: The Good, the Bad and the Ugly](https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html)
+- [The Miyawaki Method: A Better Way to Build Forests? (2019)](https://daily.jstor.org/the-miyawaki-method-a-better-way-to-build-forests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
