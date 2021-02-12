@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jerry, Inc. (YC S17) Is Hiring a VP of Engineering](https://apply.workable.com/jerry/j/B8AC064D37/)
+- [Show HN: Check if my startup ideas have legs](https://provetheywantit.com/)
+- [How .NET container images are maintained](https://devblogs.microsoft.com/dotnet/staying-safe-with-dotnet-containers/)
 - [Svgrepo: Browse 300.000 SVG Vectors and Icons](https://www.svgrepo.com/)
-- [Can we please discuss Big Tech's suppression of oppressive regimes?](https://news.ycombinator.com/item?id=26117559)
-- [Linux Memory Management FAQ](http://landley.net/writing/memory-faq.txt)
-- [Swift for TensorFlow Shuts Down](https://github.com/tensorflow/swift)
-- [Microbial ecosystems in the mouth and gut are linked to many ills](https://www.economist.com/science-and-technology/2021/02/10/microbial-ecosystems-in-the-mouth-and-gut-are-linked-to-many-ills)
+- [Virtual Boy Architecture: A Practical Analysis](https://www.copetti.org/writings/consoles/virtual-boy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
