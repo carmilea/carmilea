@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anger and Fear as Asian American Seniors Targeted in Bay Area Attacks](https://www.npr.org/2021/02/12/966940217/anger-and-fear-as-asian-american-seniors-targeted-in-bay-area-attacks)
+- [Calvin and Hobbes Search Engine](http://michaelyingling.com/random/calvin_and_hobbes/)
+- [Fintech data sources are often superior to traditional credit assessment methods](https://blogs.imf.org/2020/12/17/what-is-really-new-in-fintech/)
 - [Ggwave: Tiny Data-over-Sound Library](https://github.com/ggerganov/ggwave#ggwave)
 - [Short Fat Engineers Are Under Valued](https://nested.substack.com/p/short-fat-engineers-are-undervalued)
-- [Show HN: Search inside YouTube videos using natural language queries](https://github.com/haltakov/natural-language-youtube-search)
-- [Jerry, Inc. (YC S17) Is Hiring a VP of Engineering](https://apply.workable.com/jerry/j/B8AC064D37/)
-- [How .NET container images are maintained](https://devblogs.microsoft.com/dotnet/staying-safe-with-dotnet-containers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
