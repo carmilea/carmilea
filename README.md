@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ggwave: Tiny Data-over-Sound Library](https://github.com/ggerganov/ggwave#ggwave)
+- [Short Fat Engineers Are Under Valued](https://nested.substack.com/p/short-fat-engineers-are-undervalued)
+- [Show HN: Search inside YouTube videos using natural language queries](https://github.com/haltakov/natural-language-youtube-search)
 - [Jerry, Inc. (YC S17) Is Hiring a VP of Engineering](https://apply.workable.com/jerry/j/B8AC064D37/)
-- [Show HN: Check if my startup ideas have legs](https://provetheywantit.com/)
 - [How .NET container images are maintained](https://devblogs.microsoft.com/dotnet/staying-safe-with-dotnet-containers/)
-- [Svgrepo: Browse 300.000 SVG Vectors and Icons](https://www.svgrepo.com/)
-- [Virtual Boy Architecture: A Practical Analysis](https://www.copetti.org/writings/consoles/virtual-boy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
