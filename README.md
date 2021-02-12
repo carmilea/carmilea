@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
+- [Jazz Pianist and Composer, Chick Corea passed away at age 79](https://chickcorea.com/)
+- [Apple redirects Google Safe Browsing traffic through proxy servers in iOS 14.5](https://the8-bit.com/apple-proxies-google-safe-browsing-privacy/)
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
-- [Comparison of Rust async and Linux thread context switch time and memory use](https://github.com/jimblandy/context-switch)
-- [U.S. Postage Stamp Will Honor the 'First Lady of Physics'](https://www.smithsonianmag.com/smart-news/us-postage-stamp-will-honor-first-lady-physics-180976979/)
-- [Show HN: Real-time multiplayer games with cubes. Early feedback on dev docs?](https://docs.particubes.com/)
-- [Show HN: git-peek – git repo to local editor instantly](https://github.com/jarred-sumner/git-peek)
+- [Unknown Unknowns in Machine Learning](https://ai.googleblog.com/2021/02/uncovering-unknown-unknowns-in-machine.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
