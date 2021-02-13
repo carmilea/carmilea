@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [Zuckerberg wants to 'inflict pain' on Apple for privacy changes](https://appleinsider.com/articles/21/02/13/zuckerberg-wants-to-inflict-pain-on-apple-for-privacy-changes)
+- [A fake company to play around with spammers and you can use it too](https://twitter.com/Boris/status/1360208504544444417)
+- [Show HN: Peer-to-Peer data transfer tool based on libp2p](https://github.com/dennis-tra/pcp)
 - [The Kotlin Foundation](https://kotlinlang.org/docs/kotlin-foundation.html)
-- [78rpm Records Digitized](https://archive.org/details/georgeblood?tab=collection)
-- [Show HN: Privacy-first home security on mobile with smart alerts](https://www.ai-cam.app/)
-- [Differentiation Under Integral Sign (2015) [pdf]](https://web.williams.edu/Mathematics/lg5/Feynman.pdf)
-- [S**tbowl: The algorithmically powered in-home physical caching platform](https://www.shitbowl.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
