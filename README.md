@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellites Reveal Cause of Uttarakhand Flood That Devastated Hydroelectric Dams](https://www.scientificamerican.com/article/miniature-satellites-reveal-cause-of-deadly-uttarakhand-flood-that-devastated-hydroelectric-dams/)
 - [Taplytics (YC W14) Is Hiring for Enterprise Sales Development Rep](https://jobs.lever.co/taplytics/cab67183-9d2a-4fdb-b5bc-cbbb2d959983)
 - [How Early Megacities Emerged from the Jungles of Cambodia](https://www.atlasobscura.com/articles/ancient-cambodian-megacities)
 - [Google is now a Visionary Sponsor of the Python Software Foundation](http://pyfound.blogspot.com/2021/02/welcoming-google-as-visionary-sponsor.html)
 - [Threat Actors Now Target Docker via Container Escape Features](https://www.trendmicro.com/en_us/research/21/b/threat-actors-now-target-docker-via-container-escape-features.html)
-- [Alternative Shells](https://github.com/oilshell/oil/wiki/Alternative-Shells)
 <!-- BLOG-POST-LIST:END -->
 
 ---
