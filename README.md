@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UMass Amherst Prohibits Students from Leaving Dorms for Walks](https://www.nbcboston.com/news/local/amid-covid-outbreak-umass-amherst-prohibits-students-from-leaving-dorms-for-walks/2299189/)
 - [Ditherpunk 2 – beyond 1-bit](https://www.makeworld.gq/2021/02/dithering.html)
-- [With 777 Kanji, 90% Coverage of Kanji in the Wild](https://japanesecomplete.com/777)
 - [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/)
 - [The GPL-Violations.org Project](http://gpl-violations.org/)
 - [Calvin and Hobbes Search Engine](http://michaelyingling.com/random/calvin_and_hobbes/)
