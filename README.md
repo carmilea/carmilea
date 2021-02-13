@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Lantern (YC S19) Is Hiring a Data Scientist and Growth Marketer](https://www.notion.so/Lantern-is-Hiring-3c4297071cfc4d4ba567b79c04fdf769)
+- [Google is now a visionary sponsor of the Python Software Foundation](http://pyfound.blogspot.com/2021/02/welcoming-google-as-visionary-sponsor.html)
 - [Alternative Shells](https://github.com/oilshell/oil/wiki/Alternative-Shells)
 - [The Making of Facebook’s Supreme Court](https://www.newyorker.com/tech/annals-of-technology/inside-the-making-of-facebooks-supreme-court)
 - [Ditherpunk 2 – beyond 1-bit](https://www.makeworld.gq/2021/02/dithering.html)
-- [The GPL-Violations.org Project](http://gpl-violations.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
