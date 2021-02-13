@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The role of officer race and gender in police-civilian interactions in Chicago](https://science.sciencemag.org/content/371/6530/696)
+- [Food Order Has Significant Impact on Glucose and Insulin Levels](https://news.weill.cornell.edu/news/2015/06/food-order-has-significant-impact-on-glucose-and-insulin-levels-louis-aronne)
+- [Data Laced with History: Causal Trees and Operational CRDTs (2018)](http://archagon.net/blog/2018/03/24/data-laced-with-history/)
+- [What was the original reason for the design of AT&T assembly syntax?](https://stackoverflow.com/q/42244028/334816)
+- [WHO scientists: NYT misquoted us to fit a prescribed narrative](https://twitter.com/TheaKFischer/status/1360590441817772034)
 - [Show HN: Bestsnip – Draw animations online with automatic inbetweening](https://bestsnip.com/animation/)
-- [Dover (YC S19) is hiring a growth engineer to modernize recruiting](https://www.dover.io/open-roles/growth-engineer)
-- [Solving Magic Squares Using Backtracking](http://www.eurisko.us/solving-magic-squares-using-backtracking/)
-- [Comp.lang.c Google Group has been banned](https://groups.google.com/g/comp.lang.c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
