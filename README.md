@@ -55,7 +55,7 @@
 - [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/)
 - [The GPL-Violations.org Project](http://gpl-violations.org/)
 - [Calvin and Hobbes Search Engine](http://michaelyingling.com/random/calvin_and_hobbes/)
-- [Ggwave: Tiny Data-over-Sound Library](https://github.com/ggerganov/ggwave#ggwave)
+- [IMF researchers: digital footprint yields better credit assessment](https://blogs.imf.org/2020/12/17/what-is-really-new-in-fintech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
