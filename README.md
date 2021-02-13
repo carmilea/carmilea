@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US raises ‘deep concerns’ over WHO report on Covid’s Wuhan origins](https://www.reuters.com/article/us-health-coronavirus-usa-idUSKBN2AD0FX)
-- [Ziglings: Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings)
-- [Our Brutal Science System Almost Cost Us a Pioneer of mRNA Vaccines](https://www.wbur.org/commonhealth/2021/02/12/brutal-science-system-mrna-pioneer)
-- [Free Surface to Air missile simulator from Hungary](https://sites.google.com/site/samsimulator1972/home)
-- [Boeing 757 cargo door opens after takeoff](https://twitter.com/LucyIsabel33/status/1360630930587725825)
+- [Rupert Neve, Grammy-Winning Audio Industry Icon, Dies at 94](https://www.rupertneve.com/news/rupert-neve-1926-2021/)
+- [50 Years Ago, Sugar Industry Quietly Paid Scientists to Point Blame at Fat(2016)](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
+- [7.3 earthquake near Fukushima in Japan](https://www.nbcnews.com/news/world/magnitude-7-1-earthquake-strikes-near-site-fukushima-nuclear-disaster-n1257826)
+- [The worst of the two worlds: Excel meets Outlook](https://adepts.of0x.cc/vba-outlook/)
+- [Clubhouse user IDs, Chatroom IDs are transmitted in plaintext over the internet](https://twitter.com/stanfordio/status/1360423163125919749)
 <!-- BLOG-POST-LIST:END -->
 
 ---
