@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lantern (YC S19) Is Hiring a Data Scientist and Growth Marketer](https://www.notion.so/Lantern-is-Hiring-3c4297071cfc4d4ba567b79c04fdf769)
+- [Alternative Shells](https://github.com/oilshell/oil/wiki/Alternative-Shells)
 - [The Making of Facebook’s Supreme Court](https://www.newyorker.com/tech/annals-of-technology/inside-the-making-of-facebooks-supreme-court)
 - [Ditherpunk 2 – beyond 1-bit](https://www.makeworld.gq/2021/02/dithering.html)
 - [The GPL-Violations.org Project](http://gpl-violations.org/)
-- [Calvin and Hobbes Search Engine](http://michaelyingling.com/random/calvin_and_hobbes/)
-- [IMF researchers: digital footprint yields better credit assessment](https://blogs.imf.org/2020/12/17/what-is-really-new-in-fintech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
