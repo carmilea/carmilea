@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Richard Feynman’s Integral Trick [pdf]](https://web.williams.edu/Mathematics/lg5/Feynman.pdf)
-- [Google hasn’t updated their iOS apps for 2 months to avoid new privacy labels](https://arstechnica.com/gadgets/2021/02/google-flags-its-ios-apps-as-out-of-date-after-two-months-of-neglect/)
-- [OpenStreetMap in Realtime](https://osm-in-realtime.jwestman.net/)
-- [Satellites Reveal Cause of Uttarakhand Flood That Devastated Hydroelectric Dams](https://www.scientificamerican.com/article/miniature-satellites-reveal-cause-of-deadly-uttarakhand-flood-that-devastated-hydroelectric-dams/)
-- [Animation of a blue whale trying to avoid ships](https://www.independent.co.uk/news/science/blue-whales-feeding-chile-research-b1797069.html)
+- [The Kotlin Foundation](https://kotlinlang.org/docs/kotlin-foundation.html)
+- [78rpm Records Digitized](https://archive.org/details/georgeblood?tab=collection)
+- [Show HN: Privacy-first home security on mobile with smart alerts](https://www.ai-cam.app/)
+- [Differentiation Under Integral Sign (2015) [pdf]](https://web.williams.edu/Mathematics/lg5/Feynman.pdf)
+- [S**tbowl: The algorithmically powered in-home physical caching platform](https://www.shitbowl.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
