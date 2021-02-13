@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Making of Facebook’s Supreme Court](https://www.newyorker.com/tech/annals-of-technology/inside-the-making-of-facebooks-supreme-court)
 - [Ditherpunk 2 – beyond 1-bit](https://www.makeworld.gq/2021/02/dithering.html)
-- [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/)
 - [The GPL-Violations.org Project](http://gpl-violations.org/)
 - [Calvin and Hobbes Search Engine](http://michaelyingling.com/random/calvin_and_hobbes/)
 - [IMF researchers: digital footprint yields better credit assessment](https://blogs.imf.org/2020/12/17/what-is-really-new-in-fintech/)
