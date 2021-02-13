@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Grand Solar Minimum (2020-2053) will lead to terrestrial cooling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7575229/)
 - [Lantern (YC S19) Is Hiring a Data Scientist and Growth Marketer](https://www.notion.so/Lantern-is-Hiring-3c4297071cfc4d4ba567b79c04fdf769)
 - [Google is now a visionary sponsor of the Python Software Foundation](http://pyfound.blogspot.com/2021/02/welcoming-google-as-visionary-sponsor.html)
+- [Threat Actors Now Target Docker via Container Escape Features](https://www.trendmicro.com/en_us/research/21/b/threat-actors-now-target-docker-via-container-escape-features.html)
 - [Alternative Shells](https://github.com/oilshell/oil/wiki/Alternative-Shells)
-- [The Making of Facebook’s Supreme Court](https://www.newyorker.com/tech/annals-of-technology/inside-the-making-of-facebooks-supreme-court)
-- [Ditherpunk 2 – beyond 1-bit](https://www.makeworld.gq/2021/02/dithering.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
