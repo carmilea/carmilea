@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner’s Guide to Getting Started with Bitcoin](https://serhack.me/articles/getting-started-with-bitcoin/)
 - [Lantern (YC S19) Is Hiring a Data Scientist and Growth Marketer](https://www.notion.so/Lantern-is-Hiring-3c4297071cfc4d4ba567b79c04fdf769)
 - [Google is now a visionary sponsor of the Python Software Foundation](http://pyfound.blogspot.com/2021/02/welcoming-google-as-visionary-sponsor.html)
 - [Threat Actors Now Target Docker via Container Escape Features](https://www.trendmicro.com/en_us/research/21/b/threat-actors-now-target-docker-via-container-escape-features.html)
 - [Alternative Shells](https://github.com/oilshell/oil/wiki/Alternative-Shells)
-- [The Making of Facebook’s Supreme Court](https://www.newyorker.com/tech/annals-of-technology/inside-the-making-of-facebooks-supreme-court)
 <!-- BLOG-POST-LIST:END -->
 
 ---
