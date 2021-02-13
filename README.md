@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [Zuckerberg wants to 'inflict pain' on Apple for privacy changes](https://appleinsider.com/articles/21/02/13/zuckerberg-wants-to-inflict-pain-on-apple-for-privacy-changes)
-- [A fake company to play around with spammers and you can use it too](https://twitter.com/Boris/status/1360208504544444417)
-- [Show HN: Peer-to-Peer data transfer tool based on libp2p](https://github.com/dennis-tra/pcp)
-- [The Kotlin Foundation](https://kotlinlang.org/docs/kotlin-foundation.html)
+- [Torching the Modern-Day Library of Alexandria](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/#)
+- [Ziglings: Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings)
+- [Our Brutal Science System Almost Cost Us a Pioneer of mRNA Vaccines](https://www.wbur.org/commonhealth/2021/02/12/brutal-science-system-mrna-pioneer)
+- [Free Surface to Air missile simulator from Hungary](https://sites.google.com/site/samsimulator1972/home)
+- [Boeing 757 cargo door opens after takeoff](https://twitter.com/LucyIsabel33/status/1360630930587725825)
 <!-- BLOG-POST-LIST:END -->
 
 ---
