@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Torching the Modern-Day Library of Alexandria](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/#)
+- [US raises ‘deep concerns’ over WHO report on Covid’s Wuhan origins](https://www.reuters.com/article/us-health-coronavirus-usa-idUSKBN2AD0FX)
 - [Ziglings: Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings)
 - [Our Brutal Science System Almost Cost Us a Pioneer of mRNA Vaccines](https://www.wbur.org/commonhealth/2021/02/12/brutal-science-system-mrna-pioneer)
 - [Free Surface to Air missile simulator from Hungary](https://sites.google.com/site/samsimulator1972/home)
