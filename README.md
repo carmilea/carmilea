@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/)
 - [Calvin and Hobbes Search Engine](http://michaelyingling.com/random/calvin_and_hobbes/)
 - [Ggwave: Tiny Data-over-Sound Library](https://github.com/ggerganov/ggwave#ggwave)
 - [Short fat engineers are undervalued](https://nested.substack.com/p/short-fat-engineers-are-undervalued)
 - [Show HN: Search inside YouTube videos using natural language queries](https://github.com/haltakov/natural-language-youtube-search)
-- [FIDO2 security key company releases hardware that's open source and uses Rust](https://solokeys.com/blogs/news/our-solo-v2-campaign-launches-on-january-26th)
 <!-- BLOG-POST-LIST:END -->
 
 ---
