@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [These 15 Billionaires Own America's News Media Companies](https://www.forbes.com/sites/katevinton/2016/06/01/these-15-billionaires-own-americas-news-media-companies/)
-- [Graphics Programming Weekly](https://www.jendrikillner.com/tags/weekly/)
-- [Half Doses of Moderna Vaccine Produce Neutralizing Antibodies](https://marginalrevolution.com/marginalrevolution/2021/02/half-doses-of-moderna-produce-neutralizing-antibodies.html)
-- [Parler’s epic fail: A crash course on running your own servers](https://blog.alexgleason.me/run-your-own-server/)
-- [Understanding is poor substitute for convexity (2012)](https://www.edge.org/conversation/nassim_nicholas_taleb-understanding-is-a-poor-substitute-for-convexity-antifragility)
+- [Distribution of JVM Desktop Applications](https://blog.frankel.ch/state-jvm-desktop-frameworks/6/)
+- [Jet.jl: A WIP compile time type checker for Julia](https://github.com/aviatesk/JET.jl)
+- [Why Databricks Is Winning](https://cloudnativeenterprise.substack.com/p/why-databricks-winning-market)
+- [These 15 Billionaires Own America's News Media Companies (2016)](https://www.forbes.com/sites/katevinton/2016/06/01/these-15-billionaires-own-americas-news-media-companies/)
+- [Show HN: Khan-dl – Khan Academy Course Downloader](https://github.com/rand-net/khan-dl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
