@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why blockchain is not yet working (2018)](https://as1ndu.xyz/2018/05/why-blockchain-is-not-yet-working/)
-- [Armenia Is an Orphaned Client State](https://palladiummag.com/2021/02/12/armenia-is-an-orphaned-client-state/)
+- [Do Adults Really Not Remember School Sucked?](https://www.ianwelsh.net/do-adults-really-not-remember-school-sucked/)
+- [Brendan Eich: JavaScript, Firefox, Mozilla, and Brave – Lex Fridman Podcast #160](https://www.youtube.com/watch?v=krB0enBeSiE)
+- [A Streamlit component for real-time video processing web apps, streamlit-webrtc](https://discuss.streamlit.io/t/new-component-streamlit-webrtc-a-new-way-to-deal-with-real-time-media-streams/8669)
 - [Fluxus – live coding environment in Scheme](http://www.pawfal.org/fluxus/)
 - [Roaring Kitty to testify on GameStop alongside hedge fund managers](https://www.reuters.com/article/retail-trading-congress-gamestop/update-1-roaring-kitty-to-testify-on-gamestop-alongside-hedge-fund-managers-idUSL1N2KJ0IU)
-- [Racket v8.0](https://blog.racket-lang.org/2021/02/racket-v8-0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
