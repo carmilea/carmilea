@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sirum (YC W15) Is Hiring Software and QA Engineers with Pharmacy Experience](https://news.ycombinator.com/item?id=26133925)
+- [DeepMind achieves SOTA image recognition with 8.7x less compute](https://arxiv.org/abs/2102.06171)
+- [RethinkDNS – monitor app activity, block ads and firewall apps on Android](https://www.bravedns.com/)
 - [Calligra- FOSS Office Suite by KDE Team](https://calligra.org/)
-- [Julia 1.6: what has changed since Julia 1.0?](https://www.oxinabox.net/2021/02/13/Julia-1.6-what-has-changed-since-1.0.html)
-- [Nyuzi – An Experimental Open-Source FPGA GPGPU Processor](https://github.com/jbush001/NyuziProcessor/)
-- [Swing primer](https://www.ethanhein.com/wp/2021/swing-primer/)
-- [In defense of interesting writing on controversial topics](https://www.slowboring.com/p/slate-star-codex)
+- [List of Leaf Vegetables](https://en.wikipedia.org/wiki/List_of_leaf_vegetables)
 <!-- BLOG-POST-LIST:END -->
 
 ---
