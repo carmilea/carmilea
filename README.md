@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Calligra- FOSS Office Suite by KDE Team](https://calligra.org/)
 - [Julia 1.6: what has changed since Julia 1.0?](https://www.oxinabox.net/2021/02/13/Julia-1.6-what-has-changed-since-1.0.html)
-- [Nyuzi – An Experimental (Open-Source FPGA) GPGPU Processor](https://github.com/jbush001/NyuziProcessor/)
+- [Nyuzi – An Experimental Open-Source FPGA GPGPU Processor](https://github.com/jbush001/NyuziProcessor/)
+- [Swing primer](https://www.ethanhein.com/wp/2021/swing-primer/)
 - [In defense of interesting writing on controversial topics](https://www.slowboring.com/p/slate-star-codex)
-- [Force Directed Graph of London's Railways](https://shkspr.mobi/blog/2021/02/force-directed-graph-of-the-london-tube-map-including-crossrail/)
-- [Odeko (YC S19) Is Hiring Senior Engineers, Designers and PMs](https://angel.co/company/odeko-inc/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
