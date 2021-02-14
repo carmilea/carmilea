@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [(fluxus) – live coding environment in Scheme](http://www.pawfal.org/fluxus/)
 - [Roaring Kitty to testify on GameStop alongside hedge fund managers](https://www.reuters.com/article/retail-trading-congress-gamestop/update-1-roaring-kitty-to-testify-on-gamestop-alongside-hedge-fund-managers-idUSL1N2KJ0IU)
 - [Racket v8.0](https://blog.racket-lang.org/2021/02/racket-v8-0.html)
 - [A Grand Anticlimax: The New York Times on Scott Alexander](https://www.scottaaronson.com/blog/?p=5310)
 - [On Navigating a Large Codebase](https://blog.royalsloth.eu/posts/on-navigating-a-large-codebase/)
-- [1921 Duesenberg Model A Belonged to the Same Family for Almost a Century](https://www.thedrive.com/news/39252/1921-duesenberg-model-a-belonged-to-the-same-family-for-almost-a-century)
 <!-- BLOG-POST-LIST:END -->
 
 ---
