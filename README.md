@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [(fluxus) – live coding environment in Scheme](http://www.pawfal.org/fluxus/)
+- [Why blockchain is not yet working (2018)](https://as1ndu.xyz/2018/05/why-blockchain-is-not-yet-working/)
+- [Armenia Is an Orphaned Client State](https://palladiummag.com/2021/02/12/armenia-is-an-orphaned-client-state/)
+- [Fluxus – live coding environment in Scheme](http://www.pawfal.org/fluxus/)
 - [Roaring Kitty to testify on GameStop alongside hedge fund managers](https://www.reuters.com/article/retail-trading-congress-gamestop/update-1-roaring-kitty-to-testify-on-gamestop-alongside-hedge-fund-managers-idUSL1N2KJ0IU)
 - [Racket v8.0](https://blog.racket-lang.org/2021/02/racket-v8-0.html)
-- [A Grand Anticlimax: The New York Times on Scott Alexander](https://www.scottaaronson.com/blog/?p=5310)
-- [On Navigating a Large Codebase](https://blog.royalsloth.eu/posts/on-navigating-a-large-codebase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
