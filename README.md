@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No code is a lie (2019)](https://webflow.com/blog/no-code-is-a-lie)
-- [Bromite: A Privacy-Enhanced Chromium Fork for Android](https://www.bromite.org/)
-- [Distribution of JVM Desktop Applications](https://blog.frankel.ch/state-jvm-desktop-frameworks/6/)
-- [Jet.jl: A WIP compile time type checker for Julia](https://github.com/aviatesk/JET.jl)
-- [These 15 Billionaires Own America's News Media Companies (2016)](https://www.forbes.com/sites/katevinton/2016/06/01/these-15-billionaires-own-americas-news-media-companies/)
+- [The Origin of Robot Arm Programming Languages](https://rodneybrooks.com/the-origin-of-robot-arm-programming-languages/)
+- [I exploited existing YouTube videos with a fake Patreon profile](https://www.lucas03.com/how-i-exploited-existing-youtube-videos-with-a-fake-patreon-profile/)
+- [A Warning to Users of NurseryCam](https://cybergibbons.com/security-2/a-warning-to-users-of-nurserycam/)
+- [Journalism, particularly at the highest level, is about raw power](https://www.cjr.org/public_editor/washington-post-tesla-trump-power.php)
+- [A second look at "no code" tools (2019)](https://webflow.com/blog/no-code-is-a-lie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
