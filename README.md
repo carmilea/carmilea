@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Grand Anticlimax: The New York Times on Scott Alexander](https://www.scottaaronson.com/blog/?p=5310)
 - [On Navigating a Large Codebase](https://blog.royalsloth.eu/posts/on-navigating-a-large-codebase/)
 - [1921 Duesenberg Model A Belonged to the Same Family for Almost a Century](https://www.thedrive.com/news/39252/1921-duesenberg-model-a-belonged-to-the-same-family-for-almost-a-century)
 - [Banned in Boston](https://en.wikipedia.org/wiki/Banned_in_Boston)
 - [Statement on New York Times Article](https://astralcodexten.substack.com/p/statement-on-new-york-times-article)
-- [Tajir (YC W20) Is Hiring Android and Back-End Engineers](https://www.workatastartup.com/companies/13494)
 <!-- BLOG-POST-LIST:END -->
 
 ---
