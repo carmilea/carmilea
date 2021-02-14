@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Odeko (YC S19) Is Hiring Senior Engineers, Designers and PMs](https://angel.co/company/odeko-inc/jobs)
+- [K-9 Mail is looking for funding](https://k9mail.app/2021/02/14/K-9-Mail-is-looking-for-funding)
+- [Bevy: A game engine built in Rust](https://github.com/bevyengine/bevy)
+- [The Shame of Swedish Education: J’Accuse](https://dianeravitch.net/2021/02/13/the-shame-of-swedish-education-jaccuse-part-1/)
 - [Do Adults Really Not Remember School Sucked?](https://www.ianwelsh.net/do-adults-really-not-remember-school-sucked/)
-- [Brendan Eich: JavaScript, Firefox, Mozilla, and Brave – Lex Fridman Podcast #160](https://www.youtube.com/watch?v=krB0enBeSiE)
-- [A Streamlit component for real-time video processing web apps, streamlit-webrtc](https://discuss.streamlit.io/t/new-component-streamlit-webrtc-a-new-way-to-deal-with-real-time-media-streams/8669)
-- [Fluxus – live coding environment in Scheme](http://www.pawfal.org/fluxus/)
-- [Roaring Kitty to testify on GameStop alongside hedge fund managers](https://www.reuters.com/article/retail-trading-congress-gamestop/update-1-roaring-kitty-to-testify-on-gamestop-alongside-hedge-fund-managers-idUSL1N2KJ0IU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
