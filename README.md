@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Force Directed Graph of London's Railways](https://shkspr.mobi/blog/2021/02/force-directed-graph-of-the-london-tube-map-including-crossrail/)
+- [UK universities face fines as part of 'twin assault' on cancel culture](https://www.telegraph.co.uk/politics/2021/02/13/exclusive-universities-face-fines-part-twin-assault-cancel-culture/)
+- [Google is testing a dark mode for desktop search](https://www.theverge.com/2021/2/10/22276553/google-search-dark-mode-desktop)
+- [Digging Deeper Into Holocaust History](https://nautil.us/issue/95/escape/digging-deeper-into-holocaust-history)
 - [Odeko (YC S19) Is Hiring Senior Engineers, Designers and PMs](https://angel.co/company/odeko-inc/jobs)
-- [K-9 Mail is looking for funding](https://k9mail.app/2021/02/14/K-9-Mail-is-looking-for-funding)
-- [Bevy: A game engine built in Rust](https://github.com/bevyengine/bevy)
-- [The Shame of Swedish Education: J’Accuse](https://dianeravitch.net/2021/02/13/the-shame-of-swedish-education-jaccuse-part-1/)
-- [Do Adults Really Not Remember School Sucked?](https://www.ianwelsh.net/do-adults-really-not-remember-school-sucked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
