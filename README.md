@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In defense of interesting writing on controversial topics](https://www.slowboring.com/p/slate-star-codex)
 - [Force Directed Graph of London's Railways](https://shkspr.mobi/blog/2021/02/force-directed-graph-of-the-london-tube-map-including-crossrail/)
-- [UK universities face fines as part of 'twin assault' on cancel culture](https://www.telegraph.co.uk/politics/2021/02/13/exclusive-universities-face-fines-part-twin-assault-cancel-culture/)
-- [Google is testing a dark mode for desktop search](https://www.theverge.com/2021/2/10/22276553/google-search-dark-mode-desktop)
+- [When it comes to race and gender, oppressed people can be oppressors too](https://www.theguardian.com/commentisfree/2021/feb/14/race-gender-oppressed-can-be-oppressors-too-kemi-badenoch)
 - [Digging Deeper Into Holocaust History](https://nautil.us/issue/95/escape/digging-deeper-into-holocaust-history)
 - [Odeko (YC S19) Is Hiring Senior Engineers, Designers and PMs](https://angel.co/company/odeko-inc/jobs)
 <!-- BLOG-POST-LIST:END -->
