@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Statement on New York Times Article](https://astralcodexten.substack.com/p/statement-on-new-york-times-article)
+- [Banned in Boston](https://en.wikipedia.org/wiki/Banned_in_Boston)
 - [Tajir (YC W20) Is Hiring Android and Back-End Engineers](https://www.workatastartup.com/companies/13494)
 - [Who is Scott Alexander and what is he about?](https://jasoncrawford.org/guide-to-scott-alexander-and-slate-star-codex)
 - [Show HN: M1 Chart – The stock market adjusted for the US-dollar money supply](https://m1chart.com/?ref=hn)
