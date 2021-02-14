@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bromite: A Privacy-Enhanced Chromium Fork for Android](https://www.bromite.org/)
 - [Distribution of JVM Desktop Applications](https://blog.frankel.ch/state-jvm-desktop-frameworks/6/)
 - [Jet.jl: A WIP compile time type checker for Julia](https://github.com/aviatesk/JET.jl)
 - [Why Databricks Is Winning](https://cloudnativeenterprise.substack.com/p/why-databricks-winning-market)
 - [These 15 Billionaires Own America's News Media Companies (2016)](https://www.forbes.com/sites/katevinton/2016/06/01/these-15-billionaires-own-americas-news-media-companies/)
-- [Show HN: Khan-dl – Khan Academy Course Downloader](https://github.com/rand-net/khan-dl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
