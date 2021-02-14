@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Julia 1.6: what has changed since Julia 1.0?](https://www.oxinabox.net/2021/02/13/Julia-1.6-what-has-changed-since-1.0.html)
+- [Nyuzi – An Experimental (Open-Source FPGA) GPGPU Processor](https://github.com/jbush001/NyuziProcessor/)
 - [In defense of interesting writing on controversial topics](https://www.slowboring.com/p/slate-star-codex)
 - [Force Directed Graph of London's Railways](https://shkspr.mobi/blog/2021/02/force-directed-graph-of-the-london-tube-map-including-crossrail/)
-- [When it comes to race and gender, oppressed people can be oppressors too](https://www.theguardian.com/commentisfree/2021/feb/14/race-gender-oppressed-can-be-oppressors-too-kemi-badenoch)
-- [Digging Deeper Into Holocaust History](https://nautil.us/issue/95/escape/digging-deeper-into-holocaust-history)
 - [Odeko (YC S19) Is Hiring Senior Engineers, Designers and PMs](https://angel.co/company/odeko-inc/jobs)
 <!-- BLOG-POST-LIST:END -->
 
