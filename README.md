@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Statement on New York Times Article](https://astralcodexten.substack.com/p/statement-on-new-york-times-article)
 - [Tajir (YC W20) Is Hiring Android and Back-End Engineers](https://www.workatastartup.com/companies/13494)
+- [Who is Scott Alexander and what is he about?](https://jasoncrawford.org/guide-to-scott-alexander-and-slate-star-codex)
 - [Show HN: M1 Chart – The stock market adjusted for the US-dollar money supply](https://m1chart.com/?ref=hn)
-- [Htmx 1.2.0 Release](https://htmx.org/posts/2021-2-13-htmx-1.2.0-is-released/)
 - [Data Laced with History: Causal Trees and Operational CRDTs (2018)](http://archagon.net/blog/2018/03/24/data-laced-with-history/)
-- [What was the original reason for the design of AT&T assembly syntax?](https://stackoverflow.com/q/42244028/334816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
