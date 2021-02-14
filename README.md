@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [(Very) Basic Intro to Elliptic Curve Cryptography](https://qvault.io/2020/09/17/very-basic-intro-to-elliptic-curve-cryptography/)
+- [Chris Sacca's Act 2: Lowercarbon Capital](https://lowercarboncapital.com/act2/)
 - [Sirum (YC W15) Is Hiring Software and QA Engineers with Pharmacy Experience](https://news.ycombinator.com/item?id=26133925)
-- [DeepMind achieves SOTA image recognition with 8.7x less compute](https://arxiv.org/abs/2102.06171)
+- [DeepMind achieves SOTA image recognition with 8.7x faster training](https://arxiv.org/abs/2102.06171)
 - [RethinkDNS – monitor app activity, block ads and firewall apps on Android](https://www.bravedns.com/)
-- [Calligra- FOSS Office Suite by KDE Team](https://calligra.org/)
-- [List of Leaf Vegetables](https://en.wikipedia.org/wiki/List_of_leaf_vegetables)
 <!-- BLOG-POST-LIST:END -->
 
 ---
