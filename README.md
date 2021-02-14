@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On Navigating a Large Codebase](https://blog.royalsloth.eu/posts/on-navigating-a-large-codebase/)
+- [1921 Duesenberg Model A Belonged to the Same Family for Almost a Century](https://www.thedrive.com/news/39252/1921-duesenberg-model-a-belonged-to-the-same-family-for-almost-a-century)
 - [Banned in Boston](https://en.wikipedia.org/wiki/Banned_in_Boston)
+- [Statement on New York Times Article](https://astralcodexten.substack.com/p/statement-on-new-york-times-article)
 - [Tajir (YC W20) Is Hiring Android and Back-End Engineers](https://www.workatastartup.com/companies/13494)
-- [Who is Scott Alexander and what is he about?](https://jasoncrawford.org/guide-to-scott-alexander-and-slate-star-codex)
-- [Show HN: M1 Chart – The stock market adjusted for the US-dollar money supply](https://m1chart.com/?ref=hn)
-- [Data Laced with History: Causal Trees and Operational CRDTs (2018)](http://archagon.net/blog/2018/03/24/data-laced-with-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
