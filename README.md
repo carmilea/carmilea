@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [(Very) Basic Intro to Elliptic Curve Cryptography](https://qvault.io/2020/09/17/very-basic-intro-to-elliptic-curve-cryptography/)
-- [Chris Sacca's Act 2: Lowercarbon Capital](https://lowercarboncapital.com/act2/)
-- [Sirum (YC W15) Is Hiring Software and QA Engineers with Pharmacy Experience](https://news.ycombinator.com/item?id=26133925)
-- [DeepMind achieves SOTA image recognition with 8.7x faster training](https://arxiv.org/abs/2102.06171)
-- [RethinkDNS – monitor app activity, block ads and firewall apps on Android](https://www.bravedns.com/)
+- [These 15 Billionaires Own America's News Media Companies](https://www.forbes.com/sites/katevinton/2016/06/01/these-15-billionaires-own-americas-news-media-companies/)
+- [Graphics Programming Weekly](https://www.jendrikillner.com/tags/weekly/)
+- [Half Doses of Moderna Vaccine Produce Neutralizing Antibodies](https://marginalrevolution.com/marginalrevolution/2021/02/half-doses-of-moderna-produce-neutralizing-antibodies.html)
+- [Parler’s epic fail: A crash course on running your own servers](https://blog.alexgleason.me/run-your-own-server/)
+- [Understanding is poor substitute for convexity (2012)](https://www.edge.org/conversation/nassim_nicholas_taleb-understanding-is-a-poor-substitute-for-convexity-antifragility)
 <!-- BLOG-POST-LIST:END -->
 
 ---
