@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Food Order Has Significant Impact on Glucose and Insulin Levels](https://news.weill.cornell.edu/news/2015/06/food-order-has-significant-impact-on-glucose-and-insulin-levels-louis-aronne)
+- [Show HN: M1 Chart – The stock market adjusted for the US-dollar money supply](https://m1chart.com/?ref=hn)
+- [Htmx 1.2.0 Release](https://htmx.org/posts/2021-2-13-htmx-1.2.0-is-released/)
+- [Food Order Has Significant Impact on Glucose and Insulin Levels (2015)](https://news.weill.cornell.edu/news/2015/06/food-order-has-significant-impact-on-glucose-and-insulin-levels-louis-aronne)
 - [Data Laced with History: Causal Trees and Operational CRDTs (2018)](http://archagon.net/blog/2018/03/24/data-laced-with-history/)
 - [What was the original reason for the design of AT&T assembly syntax?](https://stackoverflow.com/q/42244028/334816)
-- [WHO scientists: NYT misquoted us to fit a prescribed narrative](https://twitter.com/TheaKFischer/status/1360590441817772034)
-- [Show HN: Bestsnip – Draw animations online with automatic inbetweening](https://bestsnip.com/animation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
