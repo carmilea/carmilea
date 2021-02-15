@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What are the best websites that the Anglosphere doesn't know about?](https://news.ycombinator.com/item?id=26137479)
+- [How Poverty Makes Workers Less Productive](https://www.npr.org/sections/money/2021/02/02/961910289/how-poverty-makes-workers-less-productive?)
 - [The Origin of Robot Arm Programming Languages](https://rodneybrooks.com/the-origin-of-robot-arm-programming-languages/)
 - [I exploited existing YouTube videos with a fake Patreon profile](https://www.lucas03.com/how-i-exploited-existing-youtube-videos-with-a-fake-patreon-profile/)
 - [A Warning to Users of NurseryCam](https://cybergibbons.com/security-2/a-warning-to-users-of-nurserycam/)
-- [Journalism, particularly at the highest level, is about raw power](https://www.cjr.org/public_editor/washington-post-tesla-trump-power.php)
-- [A second look at "no code" tools (2019)](https://webflow.com/blog/no-code-is-a-lie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
