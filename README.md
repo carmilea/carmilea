@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ambition (YC W14) Is Hiring Product Manager, UX Designer, Django/React Engineers](https://ambition.com/careers/)
+- [Parler is back online after a month of downtime](https://www.theverge.com/2021/2/15/22284036/parler-social-network-relaunch-new-hosting)
+- [Launch HN: Noya (YC W21) – Direct air capture of CO2 using cooling towers](https://news.ycombinator.com/item?id=26144432)
+- [Pine64 Februrary Update: Show and Tell](https://www.pine64.org/2021/02/15/february-update-show-and-tell/)
 - [Launch HN: Pyroscope (YC W21) – Continuous profiling software](https://news.ycombinator.com/item?id=26143923)
-- [Clubhouse’s Inevitability](https://stratechery.com/2021/clubhouses-inevitability/)
-- [Faster JavaScript Calls](https://v8.dev/blog/adaptor-frame)
-- [Bill Gates Has a Master Plan for Battling Climate Change](https://www.wsj.com/articles/bill-gates-interview-climate-change-book-11613173337)
-- [LiteSpeed QUIC (LSQUIC) is an open-source implementation of QUIC and HTTP/3](https://github.com/litespeedtech/lsquic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
