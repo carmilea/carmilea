@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ReadMe (YC W15) Is Hiring a UI Engineer](https://readme.com/careers#ui-engineer)
+- [Microsoft’s Big Win in Quantum Computing Was an ‘Error’ After All](https://www.wired.com/story/microsoft-win-quantum-computing-error/)
+- [Spotify is letting employees work from anywhere while paying SF and NY salaries](https://www.businessinsider.com/spotify-unveils-new-remote-work-option-for-all-employees-2021-2)
 - [A tiny C compiler which can compile itself (in 2048 bytes)](https://bellard.org/otcc/)
 - [Interactive Data Visualisation with Rust](https://shahinrostami.com/posts/programming/rust-notebooks/visualisation-of-co-occurring-types/)
-- [Why SELECT * is bad for SQL performance](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/)
-- [World’s First 1k-Processor Chip, Powered by a Single AA Battery (2016)](https://www.ucdavis.edu/news/worlds-first-1000-processor-chip)
-- [Show HN: Shopify's Top 90 Most Successful Startups in 2021](https://reviewbolt.com/top/shopify/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
