@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the Hell Do You Govern in a Complex World](https://howthehell.substack.com/p/govern-complex-world)
+- [Good Ideas, Through the Looking Glass (PDF, 2005)](https://people.inf.ethz.ch/wirth/Articles/GoodIdeas_origFig.pdf)
 - [Ercot nearly at capacity for Texas power grid](http://www.ercot.com/content/cdr/html/real_time_system_conditions.html)
 - [Ask HN: What are the best websites that the Anglosphere doesn't know about?](https://news.ycombinator.com/item?id=26137479)
-- [How Poverty Makes Workers Less Productive](https://www.npr.org/sections/money/2021/02/02/961910289/how-poverty-makes-workers-less-productive?)
 - [The Origin of Robot Arm Programming Languages](https://rodneybrooks.com/the-origin-of-robot-arm-programming-languages/)
-- [I exploited existing YouTube videos with a fake Patreon profile](https://www.lucas03.com/how-i-exploited-existing-youtube-videos-with-a-fake-patreon-profile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
