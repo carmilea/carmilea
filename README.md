@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yes, bacon is killing us](https://www.theguardian.com/news/2018/mar/01/bacon-cancer-processed-meats-nitrates-nitrites-sausages)
-- [Parler announces it's back online with new hosting service](https://www.foxbusiness.com/media/parler-back-online-on-new-platform)
-- [I Love Coding on Linux](https://opensource.com/article/21/2/linux-programming)
-- [Ask HN: Is “contact us for pricing” a dark pattern?](https://news.ycombinator.com/item?id=26144706)
-- [The Ramanujan Machine is an intellectual fraud](https://www.galoisrepresentations.com/2019/07/17/the-ramanujan-machine-is-an-intellectual-fraud/)
+- [California’s affordable housing problem is really a national one](https://www.nytimes.com/2021/02/12/business/economy/california-housing-crisis.html)
+- [Mining Bitcoin with pencil and paper: 0.67 hashes per day (2014)](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html)
+- [Python strings are immutable, but only sometimes](https://web.eecs.utk.edu/~azh/blog/pythonstringsaremutable.html)
+- [Media files extracted from North Korea's Red Star OS](https://github.com/BlackOtton/RedStar-Media)
+- [YouTubers have to declare ads. Why doesn't anyone else? [video]](https://www.youtube.com/watch?v=L-x8DYTOv7w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
