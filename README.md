@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A tiny C compiler which can compile itself (in 2048 bytes)](https://bellard.org/otcc/)
+- [Interactive Data Visualisation with Rust](https://shahinrostami.com/posts/programming/rust-notebooks/visualisation-of-co-occurring-types/)
+- [Why SELECT * is bad for SQL performance](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/)
+- [World’s First 1k-Processor Chip, Powered by a Single AA Battery (2016)](https://www.ucdavis.edu/news/worlds-first-1000-processor-chip)
 - [Show HN: Shopify's Top 90 Most Successful Startups in 2021](https://reviewbolt.com/top/shopify/)
-- [Israeli study finds 94% drop in symptomatic Covid-19 cases with Pfizer vaccine](https://www.reuters.com/article/us-health-coronavirus-israel-vaccine-idUSKBN2AE0Q2)
-- [Our World in Data (YC W19) Is Hiring a Full-Stack Dev and a Technical Team Lead](https://ourworldindata.org/jobs)
-- [Is Your Linux Version Hiding Interrupt CPU Usage from You?](https://tanelpoder.com/posts/linux-hiding-interrupt-cpu-usage/#how-to-measure-interrupt-cpu-overhead-when-irq-time-accounting-is-disabled)
-- [I Blew It](http://www.erasmatazz.com/personal/self/i-really-blew-it.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
