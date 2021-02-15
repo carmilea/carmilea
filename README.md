@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Machines Are Inventing New Math We've Never Seen](https://www.vice.com/en/article/xgzkek/machines-are-inventing-new-math-weve-never-seen)
-- [The U.S.' vaccine rollout is world-beating](https://noahpinion.substack.com/p/the-us-vaccine-rollout-is-world-beating)
+- [LiteSpeed QUIC (LSQUIC) is an open-source implementation of QUIC and HTTP/3](https://github.com/litespeedtech/lsquic)
+- [Introduction to the 'Why use F#' series (2012)](https://fsharpforfunandprofit.com/posts/why-use-fsharp-intro/)
+- [WhatsApp alternatives that respect privacy](https://protonmail.com/blog/whatsapp-alternatives/)
+- [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
 - [What is the case against F#? (2009)](https://stackoverflow.com/questions/1105422/what-is-the-case-against-f#)
-- [An Improved Thread with C++20](http://modernescpp.com/index.php/an-improved-thread-with-c-20)
-- [Riot Squad Cops Open Up About Disastrous Response to Capitol Riot](https://www.propublica.org/article/i-dont-trust-the-people-above-me-riot-squad-cops-open-up-about-disastrous-response-to-capitol-insurrection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
