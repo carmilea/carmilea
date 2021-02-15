@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California’s affordable housing problem is really a national one](https://www.nytimes.com/2021/02/12/business/economy/california-housing-crisis.html)
+- [BuildZoom (better way to build custom homes) is hiring engineers in Arizona](https://jobs.lever.co/buildzoom)
+- [Autopilot on Cars for $999](http://comma.ai)
 - [Mining Bitcoin with pencil and paper: 0.67 hashes per day (2014)](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html)
 - [Python strings are immutable, but only sometimes](https://web.eecs.utk.edu/~azh/blog/pythonstringsaremutable.html)
 - [Media files extracted from North Korea's Red Star OS](https://github.com/BlackOtton/RedStar-Media)
-- [YouTubers have to declare ads. Why doesn't anyone else? [video]](https://www.youtube.com/watch?v=L-x8DYTOv7w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
