@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BuildZoom (better way to build custom homes) is hiring engineers in Arizona](https://jobs.lever.co/buildzoom)
-- [Autopilot on Cars for $999](http://comma.ai)
-- [Mining Bitcoin with pencil and paper: 0.67 hashes per day (2014)](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html)
-- [Python strings are immutable, but only sometimes](https://web.eecs.utk.edu/~azh/blog/pythonstringsaremutable.html)
-- [Media files extracted from North Korea's Red Star OS](https://github.com/BlackOtton/RedStar-Media)
+- [Dante: Our Medieval Contemporary](https://hyperallergic.com/621011/dante-our-medieval-contemporary/)
+- [Closed Loophole Confirms the Unreality of the Quantum World (2018)](https://www.quantamagazine.org/closed-loophole-confirms-the-unreality-of-the-quantum-world-20180725/)
+- [Sort by controversial a.k.a. Shiri’s scissor (2018)](https://slatestarcodex.com/2018/10/30/sort-by-controversial/)
+- [The Libet experiment doesn't disprove free will (2019)](https://blogs.scientificamerican.com/observations/how-a-flawed-experiment-proved-that-free-will-doesnt-exist/)
+- [Ink – Scripting language for interactive stories](https://www.inklestudios.com/ink/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
