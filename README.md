@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Improved Thread with C++20](http://modernescpp.com/index.php/an-improved-thread-with-c-20)
+- [Bitcoin and other PoW coins are an ESG nightmare](https://www.ofnumbers.com/2021/02/14/bitcoin-and-other-pow-coins-are-an-esg-nightmare/)
+- [Running Nomad for a Home Server](https://mrkaran.dev/posts/home-server-nomad/)
 - [ReadMe (YC W15) Is Hiring a UI Engineer](https://readme.com/careers#ui-engineer)
-- [Microsoft’s Big Win in Quantum Computing Was an ‘Error’ After All](https://www.wired.com/story/microsoft-win-quantum-computing-error/)
-- [Spotify is letting employees work from anywhere while paying SF and NY salaries](https://www.businessinsider.com/spotify-unveils-new-remote-work-option-for-all-employees-2021-2)
-- [A tiny C compiler which can compile itself (in 2048 bytes)](https://bellard.org/otcc/)
-- [Interactive Data Visualisation with Rust](https://shahinrostami.com/posts/programming/rust-notebooks/visualisation-of-co-occurring-types/)
+- [26 Years of Delphi](https://blogs.embarcadero.com/26-years-of-delphi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
