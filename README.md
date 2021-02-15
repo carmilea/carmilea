@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Pyroscope (YC W21) – Continuous profiling software](https://news.ycombinator.com/item?id=26143923)
+- [Clubhouse’s Inevitability](https://stratechery.com/2021/clubhouses-inevitability/)
+- [Faster JavaScript Calls](https://v8.dev/blog/adaptor-frame)
+- [Bill Gates Has a Master Plan for Battling Climate Change](https://www.wsj.com/articles/bill-gates-interview-climate-change-book-11613173337)
 - [LiteSpeed QUIC (LSQUIC) is an open-source implementation of QUIC and HTTP/3](https://github.com/litespeedtech/lsquic)
-- [Introduction to the 'Why use F#' series (2012)](https://fsharpforfunandprofit.com/posts/why-use-fsharp-intro/)
-- [WhatsApp alternatives that respect privacy](https://protonmail.com/blog/whatsapp-alternatives/)
-- [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
-- [What is the case against F#? (2009)](https://stackoverflow.com/questions/1105422/what-is-the-case-against-f#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
