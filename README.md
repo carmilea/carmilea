@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Hazards of Asset Allocation in a Late-Stage Major Bubble](https://www.gmo.com/americas/research-library/waiting-for-the-last-dance/)
 - [Ask HN: What are the best websites that the Anglosphere doesn't know about?](https://news.ycombinator.com/item?id=26137479)
 - [How Poverty Makes Workers Less Productive](https://www.npr.org/sections/money/2021/02/02/961910289/how-poverty-makes-workers-less-productive?)
 - [The Origin of Robot Arm Programming Languages](https://rodneybrooks.com/the-origin-of-robot-arm-programming-languages/)
 - [I exploited existing YouTube videos with a fake Patreon profile](https://www.lucas03.com/how-i-exploited-existing-youtube-videos-with-a-fake-patreon-profile/)
-- [A Warning to Users of NurseryCam](https://cybergibbons.com/security-2/a-warning-to-users-of-nurserycam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
