@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [SolarWinds hack was 'largest and most sophisticated attack' ever: MSFT president](https://www.reuters.com/article/us-cyber-solarwinds-microsoft-idUSKBN2AF03R)
 - [Listen to radio stations from around the world](http://radio.garden/visit/pescara/3zDUtXlZ)
-- [How the Hell Do You Govern in a Complex World](https://howthehell.substack.com/p/govern-complex-world)
-- [First time Microsoft 'acknowledged' wine](https://www.winehq.org/pipermail/wine-devel/2005-February/033868.html)
+- [Show HN: ustaxes.org – open-source tax filing webapp](https://github.com/thegrims/UsTaxes)
 - [Ercot nearly at capacity for Texas power grid](http://www.ercot.com/content/cdr/html/real_time_system_conditions.html)
+- [Melting permafrost cause huge underground methane explosions in Siberia](https://siberiantimes.com/other/others/news/scientists-call-for-urgent-increase-in-monitoring-potentially-explosive-permafrost-heave-mounds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
