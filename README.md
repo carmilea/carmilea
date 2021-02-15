@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Love Coding on Linux](https://opensource.com/article/21/2/linux-programming)
+- [The Ramanujan Machine is an intellectual fraud](https://www.galoisrepresentations.com/2019/07/17/the-ramanujan-machine-is-an-intellectual-fraud/)
+- [YouTubers have to declare ads. Why doesn't anyone else? [video]](https://www.youtube.com/watch?v=L-x8DYTOv7w)
 - [Ambition (YC W14) Is Hiring Product Manager, UX Designer, Django/React Engineers](https://ambition.com/careers/)
 - [Parler is back online after a month of downtime](https://www.theverge.com/2021/2/15/22284036/parler-social-network-relaunch-new-hosting)
-- [Launch HN: Noya (YC W21) – Direct air capture of CO2 using cooling towers](https://news.ycombinator.com/item?id=26144432)
-- [Pine64 Februrary Update: Show and Tell](https://www.pine64.org/2021/02/15/february-update-show-and-tell/)
-- [Launch HN: Pyroscope (YC W21) – Continuous profiling software](https://news.ycombinator.com/item?id=26143923)
 <!-- BLOG-POST-LIST:END -->
 
 ---
