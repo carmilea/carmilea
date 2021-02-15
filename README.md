@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Shopify's Top 90 Most Successful Startups in 2021](https://reviewbolt.com/top/shopify/)
 - [Israeli study finds 94% drop in symptomatic Covid-19 cases with Pfizer vaccine](https://www.reuters.com/article/us-health-coronavirus-israel-vaccine-idUSKBN2AE0Q2)
 - [Our World in Data (YC W19) Is Hiring a Full-Stack Dev and a Technical Team Lead](https://ourworldindata.org/jobs)
 - [Is Your Linux Version Hiding Interrupt CPU Usage from You?](https://tanelpoder.com/posts/linux-hiding-interrupt-cpu-usage/#how-to-measure-interrupt-cpu-overhead-when-irq-time-accounting-is-disabled)
 - [I Blew It](http://www.erasmatazz.com/personal/self/i-really-blew-it.html)
-- [3 years ago, remote top paying gigs were hard to find. Today they are the norm](https://twitter.com/southpolesteve/status/1361171417824395266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
