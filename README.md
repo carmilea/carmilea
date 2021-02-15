@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Blew It](http://www.erasmatazz.com/personal/self/i-really-blew-it.html)
+- [3 years ago, remote top paying gigs were hard to find. Today they are the norm](https://twitter.com/southpolesteve/status/1361171417824395266)
 - [SolarWinds hack was 'largest and most sophisticated attack' ever: MSFT president](https://www.reuters.com/article/us-cyber-solarwinds-microsoft-idUSKBN2AF03R)
 - [Listen to radio stations from around the world](http://radio.garden/visit/pescara/3zDUtXlZ)
 - [Show HN: ustaxes.org – open-source tax filing webapp](https://github.com/thegrims/UsTaxes)
-- [Ercot nearly at capacity for Texas power grid](http://www.ercot.com/content/cdr/html/real_time_system_conditions.html)
-- [Melting permafrost cause huge underground methane explosions in Siberia](https://siberiantimes.com/other/others/news/scientists-call-for-urgent-increase-in-monitoring-potentially-explosive-permafrost-heave-mounds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
