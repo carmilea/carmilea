@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Machines Are Inventing New Math We've Never Seen](https://www.vice.com/en/article/xgzkek/machines-are-inventing-new-math-weve-never-seen)
+- [The U.S.' vaccine rollout is world-beating](https://noahpinion.substack.com/p/the-us-vaccine-rollout-is-world-beating)
+- [What is the case against F#? (2009)](https://stackoverflow.com/questions/1105422/what-is-the-case-against-f#)
 - [An Improved Thread with C++20](http://modernescpp.com/index.php/an-improved-thread-with-c-20)
-- [Bitcoin and other PoW coins are an ESG nightmare](https://www.ofnumbers.com/2021/02/14/bitcoin-and-other-pow-coins-are-an-esg-nightmare/)
-- [Running Nomad for a Home Server](https://mrkaran.dev/posts/home-server-nomad/)
-- [ReadMe (YC W15) Is Hiring a UI Engineer](https://readme.com/careers#ui-engineer)
-- [26 Years of Delphi](https://blogs.embarcadero.com/26-years-of-delphi/)
+- [Riot Squad Cops Open Up About Disastrous Response to Capitol Riot](https://www.propublica.org/article/i-dont-trust-the-people-above-me-riot-squad-cops-open-up-about-disastrous-response-to-capitol-insurrection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
