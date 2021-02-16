@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.16 Release Notes](https://golang.org/doc/go1.16)
+- [Functorio](https://bartoszmilewski.com/2021/02/16/functorio/.)
+- [16 bytes of Python code compiles to 32 terabytes of bytecode](https://codegolf.stackexchange.com/a/69415/4270)
 - [New Report Shows Cops Used Ring Cameras to Monitor Black Lives Matter Protests](https://www.eff.org/press/releases/new-eff-report-shows-cops-used-ring-cameras-monitor-black-lives-matter-protests)
 - [The Simtel.net MS-DOS Collection](http://www.lanet.lv/simtel.net/msdos/index-msdos.html)
-- [AirPods as a Platform](https://julian.digital/2020/04/19/airpods-as-a-platform/)
-- [Pine64 Unveils Quartz64 SBC](https://www.cnx-software.com/2021/02/16/pine64-unveils-quartz64-sbc-powered-by-rockchip-rk3566-soc/)
-- [Taloflow (YC W21) Is Hiring an API Project Engineer](https://www.workatastartup.com/jobs/42164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
