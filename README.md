@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Report Shows Cops Used Ring Cameras to Monitor Black Lives Matter Protests](https://www.eff.org/press/releases/new-eff-report-shows-cops-used-ring-cameras-monitor-black-lives-matter-protests)
+- [The Simtel.net MS-DOS Collection](http://www.lanet.lv/simtel.net/msdos/index-msdos.html)
+- [AirPods as a Platform](https://julian.digital/2020/04/19/airpods-as-a-platform/)
 - [Pine64 Unveils Quartz64 SBC](https://www.cnx-software.com/2021/02/16/pine64-unveils-quartz64-sbc-powered-by-rockchip-rk3566-soc/)
-- [Munchausen Syndrome by Recruiter](https://engineering.tapad.com/munchausen-syndrome-by-recruiter-697f5dd03515?sk=006cb9232d9506d527a1033464495526)
 - [Taloflow (YC W21) Is Hiring an API Project Engineer](https://www.workatastartup.com/jobs/42164)
-- [Nigeria's Central Bank has prohibited banks from processing cryptocurrencies](https://twitter.com/DocumentingBTC/status/1357679262908694529)
-- [Minimally Invasive (and More Accurate) Analytics: GoAccess and Athena/SQL](https://brandur.org/minimal-analytics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
