@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok hit with consumer law breaches complaints across Europe](https://www.reuters.com/article/us-tiktok-eu/tiktok-hit-with-consumer-law-breaches-complaints-across-europe-idUSKBN2AG0S8)
-- [Python Pattern Matching Tutorial](https://github.com/gvanrossum/patma/blob/master/README.md#tutorial)
-- [Managing Staff-Plus Engineers](https://lethain.com/managing-staff-plus-engineers/)
-- [Show HN: Endgame – An AWS Pentesting tool to backdoor or expose AWS resources](https://github.com/salesforce/endgame)
-- [Lastpass free limits to single device from March 16](https://support.logmeininc.com/lastpass/help/what-can-i-expect-to-change-for-lastpass-free-on-march-16-2021)
+- [Minimally Invasive (and More Accurate) Analytics: GoAccess and Athena/SQL](https://brandur.org/minimal-analytics)
+- [What I Worked On](http://paulgraham.com/worked.html)
+- [Launch HN: June (YC W21) – Two-click analytics reports on top of Segment data](https://news.ycombinator.com/item?id=26155327)
+- [Bitcoin’s Overnight Collapse Probability Is About 50%](http://www.tr0lly.com/bitcoin/bitcoins-overnight-collapse-probability-is-about-50/)
+- [The VT-69 portable data terminal](http://violence.works)
 <!-- BLOG-POST-LIST:END -->
 
 ---
