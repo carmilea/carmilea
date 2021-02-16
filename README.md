@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NYT Article on Slate Star Codex Sourced from Reddit “Sneer Club”](https://twitter.com/jimrandomh/status/1361384583405608960)
 - [FPGA NTP Server](https://research.wand.net.nz/hardware/ntp.php)
-- [US Presidential Election $25,000 Database Bounty Review](https://www.dolthub.com/blog/2021-02-15-election-bounty-review/)
+- [US Presidential Election $25k Database Bounty Review](https://www.dolthub.com/blog/2021-02-15-election-bounty-review/)
 - [Building Rich Terminal Dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
 - [Performance Optimization Contest](https://easyperf.net/blog/2019/02/02/Performance-optimization-contest)
-- [Windows Refund Day](http://marc.merlins.org/linux/refundday/#:~:text=For%20those%20who%20hadn%27t,with%20the%20machine%20they%20bought)
 <!-- BLOG-POST-LIST:END -->
 
 ---
