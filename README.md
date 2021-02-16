@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [#SQL #Programmability with variables in #SingleStore](https://www.youtube.com/watch?v=4rZ3yCx_rH8)
 - [Get started with #SingleStore #StoredProcedures in #Go](https://www.youtube.com/watch?v=SAyuNkMorFo)
 - [Get started with #SingleStore in #Go](https://www.youtube.com/watch?v=4gn2KfKanjQ)
 - [Get started with #SingleStore #StoredProcedures in #Ruby](https://www.youtube.com/watch?v=wI8yTP9w40M)
 - [Get started with #SingleStore in #Ruby](https://www.youtube.com/watch?v=2gpEbwJyS-Q)
-- [Get started with #SingleStore in #JavaScript and #Node using #Sequelize](https://www.youtube.com/watch?v=koILFN2h7b8)
 <!-- YOUTUBE:END -->
 
 
