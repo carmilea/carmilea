@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How They SRE](https://github.com/upgundecha/howtheysre)
+- [Supermicro Hack: China Exploited a US Tech Supplier over Years [2021 Follow-Up]](https://www.bloomberg.com/features/2021-supermicro/#)
 - [Fake Amazon reviews 'being sold in bulk' online](https://www.bbc.com/news/business-56069472)
 - [FPGA NTP Server](https://research.wand.net.nz/hardware/ntp.php)
 - [US Presidential Election $25k Database Bounty Review](https://www.dolthub.com/blog/2021-02-15-election-bounty-review/)
-- [Building Rich Terminal Dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
-- [Performance Optimization Contest](https://easyperf.net/blog/2019/02/02/Performance-optimization-contest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
