@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin surpasses $50K for first time ever as major companies jump into crypto](https://www.cnbc.com/2021/02/16/bitcoin-btc-price-hits-50000-for-the-first-time.html)
+- [Is Spacetime Real?](https://www.forbes.com/sites/startswithabang/2021/02/12/ask-ethan-is-spacetime-real)
 - [Truebill (YC W16) Is Hiring a Lead Security Engineer](https://boards.greenhouse.io/truebill/jobs/4297986003)
 - [“Silicon Valley’s Safe Space” has misinformed readers](https://reason.com/2021/02/15/what-the-new-york-times-hit-piece-on-slate-star-codex-says-about-media-gatekeeping/)
+- [Show HN: Pageturner – a community for building a reading habit](https://joinpageturner.com/?ref=hackernews)
 - [Arranging Invisible Icons in Quadratic Time](https://randomascii.wordpress.com/2021/02/16/arranging-invisible-icons-in-quadratic-time/)
-- [Many Small Queries Are Efficient in SQLite](https://sqlite.org/np1queryprob.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
