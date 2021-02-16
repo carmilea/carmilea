@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep dive on Tether (Fall 2019)](https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/)
+- [Many Small Queries Are Efficient in SQLite](https://sqlite.org/np1queryprob.html)
+- [Kanban board in one HTML using localstorage](https://github.com/apankrat/nullboard)
+- [Understanding the Rise of “Socialism”](https://braddelong.substack.com/p/understanding-the-rise-of-socialism)
 - [How They SRE](https://github.com/upgundecha/howtheysre)
-- [Fake Amazon reviews 'being sold in bulk' online](https://www.bbc.com/news/business-56069472)
-- [FPGA NTP Server](https://research.wand.net.nz/hardware/ntp.php)
-- [US Presidential Election $25k Database Bounty Review](https://www.dolthub.com/blog/2021-02-15-election-bounty-review/)
+- [All about thread-local storage](https://maskray.me/blog/2021-02-14-all-about-thread-local-storage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
