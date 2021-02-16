@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Undici – an HTTP/1.1 client, written from scratch for Node.js](https://www.npmjs.com/package/undici)
 - [Many Small Queries Are Efficient in SQLite](https://sqlite.org/np1queryprob.html)
 - [Kanban board in one HTML using localstorage](https://github.com/apankrat/nullboard)
-- [Understanding the Rise of “Socialism”](https://braddelong.substack.com/p/understanding-the-rise-of-socialism)
 - [How They SRE](https://github.com/upgundecha/howtheysre)
 - [All about thread-local storage](https://maskray.me/blog/2021-02-14-all-about-thread-local-storage)
 <!-- BLOG-POST-LIST:END -->
