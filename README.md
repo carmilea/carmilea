@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Taloflow (YC W21) Is Hiring an API Project Engineer](https://www.workatastartup.com/jobs/42164)
+- [Nigeria's Central Bank has prohibited banks from processing cryptocurrencies](https://twitter.com/DocumentingBTC/status/1357679262908694529)
 - [Minimally Invasive (and More Accurate) Analytics: GoAccess and Athena/SQL](https://brandur.org/minimal-analytics)
 - [What I Worked On](http://paulgraham.com/worked.html)
 - [Launch HN: June (YC W21) – Two-click analytics reports on top of Segment data](https://news.ycombinator.com/item?id=26155327)
-- [Bitcoin’s Overnight Collapse Probability Is About 50%](http://www.tr0lly.com/bitcoin/bitcoins-overnight-collapse-probability-is-about-50/)
-- [The VT-69 portable data terminal](http://violence.works)
 <!-- BLOG-POST-LIST:END -->
 
 ---
