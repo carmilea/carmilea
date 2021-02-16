@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Photographer Sues Kat Von D over Miles Davis Tattoo](https://petapixel.com/2021/02/15/photographer-sues-kat-von-d-over-miles-davis-tattoo/)
-- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [Organizations Using the D Language](https://dlang.org/orgs-using-d.html)
-- [Go 1.16 Release Notes](https://golang.org/doc/go1.16)
-- [Functorio](https://bartoszmilewski.com/2021/02/16/functorio/.)
+- [Malware in open-source web extensions](https://lwn.net/SubscriberLink/846272/37d25507fa3e9cd3/)
+- [Marcuse-Anon: Cult of the Pseudo-Intellectual](https://taibbi.substack.com/p/marcuse-anon-cult-of-the-pseudo-intellectual-1d3)
+- [What went wrong with the Texas power grid?](https://www.houstonchronicle.com/business/energy/article/Wholesale-power-prices-spiking-across-Texas-15951684.php)
+- [The most important part of modern government is database management](https://twitter.com/rcolvile/status/1361673425140543490)
+- [Clubhouse Bio Generator](https://perchance.org/owh9gelu4t)
 <!-- BLOG-POST-LIST:END -->
 
 ---
