@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Truebill (YC W16) Is Hiring a Lead Security Engineer](https://boards.greenhouse.io/truebill/jobs/4297986003)
 - [Arranging Invisible Icons in Quadratic Time](https://randomascii.wordpress.com/2021/02/16/arranging-invisible-icons-in-quadratic-time/)
 - [Many Small Queries Are Efficient in SQLite](https://sqlite.org/np1queryprob.html)
 - [Kanban board in one HTML using localstorage](https://github.com/apankrat/nullboard)
 - [How They SRE](https://github.com/upgundecha/howtheysre)
-- [All about thread-local storage](https://maskray.me/blog/2021-02-14-all-about-thread-local-storage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
