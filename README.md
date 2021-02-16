@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [Organizations Using the D Language](https://dlang.org/orgs-using-d.html)
 - [Go 1.16 Release Notes](https://golang.org/doc/go1.16)
 - [Functorio](https://bartoszmilewski.com/2021/02/16/functorio/.)
-- [16 bytes of Python code compiles to 32 terabytes of bytecode](https://codegolf.stackexchange.com/a/69415/4270)
-- [New Report Shows Cops Used Ring Cameras to Monitor Black Lives Matter Protests](https://www.eff.org/press/releases/new-eff-report-shows-cops-used-ring-cameras-monitor-black-lives-matter-protests)
-- [The Simtel.net MS-DOS Collection](http://www.lanet.lv/simtel.net/msdos/index-msdos.html)
+- [16 bytes of Python that compile to 32 terabytes of bytecode (2016)](https://codegolf.stackexchange.com/a/69415/4270)
 <!-- BLOG-POST-LIST:END -->
 
 ---
