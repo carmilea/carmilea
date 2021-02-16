@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Spacetime Real?](https://www.forbes.com/sites/startswithabang/2021/02/12/ask-ethan-is-spacetime-real)
-- [Truebill (YC W16) Is Hiring a Lead Security Engineer](https://boards.greenhouse.io/truebill/jobs/4297986003)
-- [“Silicon Valley’s Safe Space” has misinformed readers](https://reason.com/2021/02/15/what-the-new-york-times-hit-piece-on-slate-star-codex-says-about-media-gatekeeping/)
-- [Show HN: Pageturner – a community for building a reading habit](https://joinpageturner.com/?ref=hackernews)
-- [Arranging Invisible Icons in Quadratic Time](https://randomascii.wordpress.com/2021/02/16/arranging-invisible-icons-in-quadratic-time/)
+- [TikTok hit with consumer law breaches complaints across Europe](https://www.reuters.com/article/us-tiktok-eu/tiktok-hit-with-consumer-law-breaches-complaints-across-europe-idUSKBN2AG0S8)
+- [Python Pattern Matching Tutorial](https://github.com/gvanrossum/patma/blob/master/README.md#tutorial)
+- [Managing Staff-Plus Engineers](https://lethain.com/managing-staff-plus-engineers/)
+- [Show HN: Endgame – An AWS Pentesting tool to backdoor or expose AWS resources](https://github.com/salesforce/endgame)
+- [Lastpass free limits to single device from March 16](https://support.logmeininc.com/lastpass/help/what-can-i-expect-to-change-for-lastpass-free-on-march-16-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
