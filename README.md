@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Photographer Sues Kat Von D over Miles Davis Tattoo](https://petapixel.com/2021/02/15/photographer-sues-kat-von-d-over-miles-davis-tattoo/)
 - [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - [Organizations Using the D Language](https://dlang.org/orgs-using-d.html)
 - [Go 1.16 Release Notes](https://golang.org/doc/go1.16)
 - [Functorio](https://bartoszmilewski.com/2021/02/16/functorio/.)
-- [16 bytes of Python that compile to 32 terabytes of bytecode (2016)](https://codegolf.stackexchange.com/a/69415/4270)
 <!-- BLOG-POST-LIST:END -->
 
 ---
