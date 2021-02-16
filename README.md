@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NYT Article on Slate Star Codex Sourced from Reddit “Sneer Club”](https://twitter.com/jimrandomh/status/1361384583405608960)
+- [Fake Amazon reviews 'being sold in bulk' online](https://www.bbc.com/news/business-56069472)
 - [FPGA NTP Server](https://research.wand.net.nz/hardware/ntp.php)
 - [US Presidential Election $25k Database Bounty Review](https://www.dolthub.com/blog/2021-02-15-election-bounty-review/)
 - [Building Rich Terminal Dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
