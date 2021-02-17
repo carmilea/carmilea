@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Kernel Programming Language (2007)](https://web.cs.wpi.edu/~jshutt/kernel.html)
+- [GitHub Deceased User Policy](https://docs.github.com/en/github/site-policy/github-deceased-user-policy)
+- [The Kernel Programming Language (2010)](https://web.cs.wpi.edu/~jshutt/kernel.html)
+- [Spy pixels in emails 'have become endemic'](https://www.bbc.co.uk/news/technology-56071437)
 - [Command Line Shell for SQLite](https://www.sqlite.org/cli.html)
 - [Most healthcare apps not up to NHS standards](https://www.bbc.com/news/technology-56083231)
-- [Done Answering Questions Stack Overflow](https://games.greggman.com/game/done-with-stackoverflow/)
-- [Front-of-the-Front-End and Back-of-the-Front-End Web Development](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
