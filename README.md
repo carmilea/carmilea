@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What World War I Can Teach Us about Misjudging Tech and Social Change (2020)](https://www.carnegie.org/topics/topic-articles/emerging-global-order/1920-2020-what-the-history-of-world-war-1-can-teach-us-about-misjudging-tech-social-change/)
+- [When did “privacy issues” start to mean “too much privacy”?](https://mleverything.substack.com/p/when-did-privacy-issues-start-to)
 - [WorkRamp (YC S16) Is Hiring Remote Engineers](https://jobs.lever.co/workramp/b964ff22-9b46-4e65-a773-4b00e36fcbed)
-- [Show HN: Guesbook for my static site using GitHub Gist and Netlify Functions](https://sunnygolovine.com/guestbook)
-- [31.2˝ Color EPaper Display](https://shopkits.eink.com/product/31-2%CB%9D-color-epaper-display-sb1452-qab/)
-- [Changes to sharing and viewing news on Facebook in Australia](https://about.fb.com/news/2021/02/changes-to-sharing-and-viewing-news-on-facebook-in-australia/)
-- [Visualization of 40M Cell Towers](https://alpercinar.com/open-cell-id/)
+- [Taking a Fall](https://www.popularmechanics.com/adventure/outdoors/a35340487/how-to-fall-from-a-plane-and-survive/?utm_source=DamnInteresting)
+- [Ask HN: Advice for finding an entry-level remote job?](https://news.ycombinator.com/item?id=26171008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
