@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fetch (YC S15) Is Hiring at UI Designer](https://www.workatastartup.com/jobs/42206)
+- [WebKit Quirks](https://github.com/WebKit/WebKit/blob/main/Source/WebCore/page/Quirks.cpp)
+- [Forth in Space Applications](https://www.forth.com/resources/space-applications/)
+- [Python Programming and Numerical Methods: A Guide for Engineers and Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 - [Git Submodules: Adding, Using, Removing, Updating](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
-- [Show HN: A social platform with music in focus. Download the app](https://syncc.app/)
-- [Dear Email Industry, We've Got a GDPR Problem](https://www.jacquescorbytuech.com/writing/gdpr-email-tracking)
-- [Easy Forth: Learn forth with REPL in the browser](https://skilldrick.github.io/easyforth)
-- [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
