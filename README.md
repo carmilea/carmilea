@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Changes to Sharing and Viewing News on Facebook in Australia](https://about.fb.com/news/2021/02/changes-to-sharing-and-viewing-news-on-facebook-in-australia/)
+- [How this Ends](https://avc.com/2021/02/how-this-ends/)
+- [Show HN: Guesbook for my static site using GitHub Gist and Netlify Functions](https://sunnygolovine.com/guestbook)
+- [31.2˝ Color EPaper Display](https://shopkits.eink.com/product/31-2%CB%9D-color-epaper-display-sb1452-qab/)
+- [Changes to sharing and viewing news on Facebook in Australia](https://about.fb.com/news/2021/02/changes-to-sharing-and-viewing-news-on-facebook-in-australia/)
 - [Visualization of 40M Cell Towers](https://alpercinar.com/open-cell-id/)
-- [Passwordless Logins with Yubikey](https://adl1995.github.io/passwordless-logins-with-yubikey.html)
-- [VSI OpenVMS v9.0-G Released (x86 port)](https://vmssoftware.com/about/news/2021-02-12-v9-g-announcement/)
-- [RetroForth 2021.1 Is Released](http://forthworks.com/retro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
