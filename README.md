@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Changes to Sharing and Viewing News on Facebook in Australia](https://about.fb.com/news/2021/02/changes-to-sharing-and-viewing-news-on-facebook-in-australia/)
+- [Visualization of 40M Cell Towers](https://alpercinar.com/open-cell-id/)
+- [Passwordless Logins with Yubikey](https://adl1995.github.io/passwordless-logins-with-yubikey.html)
+- [VSI OpenVMS v9.0-G Released (x86 port)](https://vmssoftware.com/about/news/2021-02-12-v9-g-announcement/)
 - [RetroForth 2021.1 Is Released](http://forthworks.com/retro)
-- [Theorem LP (YC W14) Is Hiring a Site Reliability Engineer](https://jobs.lever.co/theoremlp/88e698da-c803-4783-90ab-79ccdf85a81a)
-- [Nx: Multi-dimensional tensors Elixir lib with multi-staged compilation (CPU/GPU)](https://github.com/elixir-nx/nx/tree/main/nx)
-- [Show HN: Ray.so – Create beautiful images of your code](https://ray.so)
-- [Launch HN: Worksphere (YC W21) – Manage flexible in-office or remote workspaces](https://news.ycombinator.com/item?id=26167923)
 <!-- BLOG-POST-LIST:END -->
 
 ---
