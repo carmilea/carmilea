@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Submodules: Adding, Using, Removing, Updating](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
 - [Show HN: A social platform with music in focus. Download the app](https://syncc.app/)
+- [Dear Email Industry, We've Got a GDPR Problem](https://www.jacquescorbytuech.com/writing/gdpr-email-tracking)
 - [Easy Forth: Learn forth with REPL in the browser](https://skilldrick.github.io/easyforth)
 - [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
-- [Pixar in a Box: the art of storytelling](https://www.khanacademy.org/humanities/hass-storytelling/storytelling-pixar-in-a-box)
-- [European Citizens' Initiative for a ban on biometric mass surveillance](https://reclaimyourface.eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
