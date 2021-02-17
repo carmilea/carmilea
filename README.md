@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Andriy on Twitter: “Playing Gta3 on FreeBSD 13.0-BETA2](https://twitter.com/andros_ua/status/1361989214053761032)
+- [World’s first coronavirus human challenge study gets green light in UK](https://www.politico.eu/article/worlds-first-coronavirus-human-challenge-study-gets-green-light-in-uk/)
 - [Declassified spacecrafts and orbital weapons of the USSR](https://www.xissufotoday.space/2018/04/declassified-spacecrafts-and-orbital.html)
 - [UK to launch taxpayer-funded high-risk tech research agency exempt from FOI](https://www.thetimes.co.uk/article/secrecy-for-high-risk-tech-research-agency-aria-h72lql80k)
 - [Inline and Sideline Approaches for Low-Cost Memory Safety in C](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-954.html)
-- [Epic Games takes Apple fight to EU antitrust regulators](https://www.reuters.com/article/us-eu-apple-epic-games-antitrust/epic-games-takes-apple-fight-to-eu-antitrust-regulators-idUSKBN2AH0MO)
-- [Critical Thinking Isn't Just a Process](https://zeynep.substack.com/p/critical-thinking-isnt-just-a-process)
 <!-- BLOG-POST-LIST:END -->
 
 ---
