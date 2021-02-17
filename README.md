@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How this Ends](https://avc.com/2021/02/how-this-ends/)
+- [WorkRamp (YC S16) Is Hiring Remote Engineers](https://jobs.lever.co/workramp/b964ff22-9b46-4e65-a773-4b00e36fcbed)
 - [Show HN: Guesbook for my static site using GitHub Gist and Netlify Functions](https://sunnygolovine.com/guestbook)
 - [31.2˝ Color EPaper Display](https://shopkits.eink.com/product/31-2%CB%9D-color-epaper-display-sb1452-qab/)
 - [Changes to sharing and viewing news on Facebook in Australia](https://about.fb.com/news/2021/02/changes-to-sharing-and-viewing-news-on-facebook-in-australia/)
