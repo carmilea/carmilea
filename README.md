@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why did I leave Google or, why did I stay so long?](https://paygo.media/p/25171)
+- ['Sexual favours were the norm in music industry'](https://www.bbc.com/news/entertainment-arts-56029660)
+- [Zooko's Triangle](http://en.wikipedia.org/wiki/Zooko%27s_triangle)
 - [Fetch (YC S15) Is Hiring at UI Designer](https://www.workatastartup.com/jobs/42206)
-- [WebKit Quirks](https://github.com/WebKit/WebKit/blob/main/Source/WebCore/page/Quirks.cpp)
-- [Forth in Space Applications](https://www.forth.com/resources/space-applications/)
-- [Python Programming and Numerical Methods: A Guide for Engineers and Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
-- [Git Submodules: Adding, Using, Removing, Updating](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
+- [Quad9 public DNS moves to Switzerland](https://www.quad9.net/news/blog/quad9-public-domain-name-service-moves-to-switzerland-for-maximum-internet-privacy-protection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
