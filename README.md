@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
+- [IKEA Catalog to Be Discontinued](https://www.architecturaldigest.com/story/ikea-catalog-to-be-discontinued)
 - [GitHub Deceased User Policy](https://docs.github.com/en/github/site-policy/github-deceased-user-policy)
 - [The Kernel Programming Language (2010)](https://web.cs.wpi.edu/~jshutt/kernel.html)
 - [Spy pixels in emails 'have become endemic'](https://www.bbc.co.uk/news/technology-56071437)
-- [Command Line Shell for SQLite](https://www.sqlite.org/cli.html)
-- [Most healthcare apps not up to NHS standards](https://www.bbc.com/news/technology-56083231)
 <!-- BLOG-POST-LIST:END -->
 
 ---
