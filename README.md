@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RetroForth 2021.1 Is Released](http://forthworks.com/retro)
+- [Theorem LP (YC W14) Is Hiring a Site Reliability Engineer](https://jobs.lever.co/theoremlp/88e698da-c803-4783-90ab-79ccdf85a81a)
+- [Nx: Multi-dimensional tensors Elixir lib with multi-staged compilation (CPU/GPU)](https://github.com/elixir-nx/nx/tree/main/nx)
+- [Show HN: Ray.so – Create beautiful images of your code](https://ray.so)
 - [Growing Inventory of Black Holes Offers a Radical Probe of the Cosmos](https://www.quantamagazine.org/new-black-holes-offer-physicists-a-radical-probe-of-the-cosmos-20210217/)
-- [Amazon documents reveal company’s strategy to dodge India’s regulators](https://www.reuters.com/investigates/special-report/amazon-india-operation/)
-- [Kill the Newsletter – Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
-- [Blitz.js Now in Beta (Batteries Included Framework Built on Next.js)](https://blitzjs.com/)
-- [World’s first coronavirus human challenge study gets green light in UK](https://www.politico.eu/article/worlds-first-coronavirus-human-challenge-study-gets-green-light-in-uk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
