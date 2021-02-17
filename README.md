@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Porsche to begin producing synthetic fuels in 2022](https://www.autocar.co.uk/car-news/industry-news/porsche-begin-producing-synthetic-fuels-2022)
+- [Kill the Alarm Clock](https://supermemo.guru/wiki/Kill_the_alarm_clock)
+- [Samsung Develops Industry’s First High Bandwidth Memory with AI Processing Power](https://news.samsung.com/global/samsung-develops-industrys-first-high-bandwidth-memory-with-ai-processing-power)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [IKEA Catalog to Be Discontinued](https://www.architecturaldigest.com/story/ikea-catalog-to-be-discontinued)
-- [GitHub Deceased User Policy](https://docs.github.com/en/github/site-policy/github-deceased-user-policy)
-- [The Kernel Programming Language (2010)](https://web.cs.wpi.edu/~jshutt/kernel.html)
-- [Spy pixels in emails 'have become endemic'](https://www.bbc.co.uk/news/technology-56071437)
+- [IKEA to discontinue its annual catalog, ending a 70-year run](https://www.architecturaldigest.com/story/ikea-catalog-to-be-discontinued)
 <!-- BLOG-POST-LIST:END -->
 
 ---
