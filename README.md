@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
+- [Pixar in a Box: the art of storytelling](https://www.khanacademy.org/humanities/hass-storytelling/storytelling-pixar-in-a-box)
+- [European Citizens' Initiative for a ban on biometric mass surveillance](https://reclaimyourface.eu/)
 - [Porsche to begin producing synthetic fuels in 2022](https://www.autocar.co.uk/car-news/industry-news/porsche-begin-producing-synthetic-fuels-2022)
-- [Kill the Alarm Clock](https://supermemo.guru/wiki/Kill_the_alarm_clock)
-- [Samsung Develops Industry’s First High Bandwidth Memory with AI Processing Power](https://news.samsung.com/global/samsung-develops-industrys-first-high-bandwidth-memory-with-ai-processing-power)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [IKEA to discontinue its annual catalog, ending a 70-year run](https://www.architecturaldigest.com/story/ikea-catalog-to-be-discontinued)
+- [Kill the Alarm Clock (2017)](https://supermemo.guru/wiki/Kill_the_alarm_clock)
 <!-- BLOG-POST-LIST:END -->
 
 ---
