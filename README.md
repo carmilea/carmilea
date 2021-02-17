@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why did I leave Google or, why did I stay so long?](https://paygo.media/p/25171)
-- ['Sexual favours were the norm in music industry'](https://www.bbc.com/news/entertainment-arts-56029660)
-- [Zooko's Triangle](http://en.wikipedia.org/wiki/Zooko%27s_triangle)
-- [Fetch (YC S15) Is Hiring at UI Designer](https://www.workatastartup.com/jobs/42206)
-- [Quad9 public DNS moves to Switzerland](https://www.quad9.net/news/blog/quad9-public-domain-name-service-moves-to-switzerland-for-maximum-internet-privacy-protection/)
+- [Declassified spacecrafts and orbital weapons of the USSR](https://www.xissufotoday.space/2018/04/declassified-spacecrafts-and-orbital.html)
+- [UK to launch taxpayer-funded high-risk tech research agency exempt from FOI](https://www.thetimes.co.uk/article/secrecy-for-high-risk-tech-research-agency-aria-h72lql80k)
+- [Inline and Sideline Approaches for Low-Cost Memory Safety in C](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-954.html)
+- [Epic Games takes Apple fight to EU antitrust regulators](https://www.reuters.com/article/us-eu-apple-epic-games-antitrust/epic-games-takes-apple-fight-to-eu-antitrust-regulators-idUSKBN2AH0MO)
+- [Critical Thinking Isn't Just a Process](https://zeynep.substack.com/p/critical-thinking-isnt-just-a-process)
 <!-- BLOG-POST-LIST:END -->
 
 ---
