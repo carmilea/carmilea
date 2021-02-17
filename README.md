@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Andriy on Twitter: “Playing Gta3 on FreeBSD 13.0-BETA2](https://twitter.com/andros_ua/status/1361989214053761032)
+- [Growing Inventory of Black Holes Offers a Radical Probe of the Cosmos](https://www.quantamagazine.org/new-black-holes-offer-physicists-a-radical-probe-of-the-cosmos-20210217/)
+- [Amazon documents reveal company’s strategy to dodge India’s regulators](https://www.reuters.com/investigates/special-report/amazon-india-operation/)
+- [Kill the Newsletter – Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
+- [Blitz.js Now in Beta (Batteries Included Framework Built on Next.js)](https://blitzjs.com/)
 - [World’s first coronavirus human challenge study gets green light in UK](https://www.politico.eu/article/worlds-first-coronavirus-human-challenge-study-gets-green-light-in-uk/)
-- [Declassified spacecrafts and orbital weapons of the USSR](https://www.xissufotoday.space/2018/04/declassified-spacecrafts-and-orbital.html)
-- [UK to launch taxpayer-funded high-risk tech research agency exempt from FOI](https://www.thetimes.co.uk/article/secrecy-for-high-risk-tech-research-agency-aria-h72lql80k)
-- [Inline and Sideline Approaches for Low-Cost Memory Safety in C](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-954.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
