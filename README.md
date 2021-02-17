@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Kernel Programming Language (2007)](https://web.cs.wpi.edu/~jshutt/kernel.html)
 - [Command Line Shell for SQLite](https://www.sqlite.org/cli.html)
 - [Most healthcare apps not up to NHS standards](https://www.bbc.com/news/technology-56083231)
 - [Done Answering Questions Stack Overflow](https://games.greggman.com/game/done-with-stackoverflow/)
 - [Front-of-the-Front-End and Back-of-the-Front-End Web Development](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)
-- [Malware in open-source web extensions](https://lwn.net/SubscriberLink/846272/37d25507fa3e9cd3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
