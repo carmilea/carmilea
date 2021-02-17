@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Front-of-the-Front-End and Back-of-the-Front-End Web Development](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)
 - [The Database Inside Your Codebase](https://feifan.blog/posts/the-database-inside-your-codebase)
 - [Malware in open-source web extensions](https://lwn.net/SubscriberLink/846272/37d25507fa3e9cd3/)
 - [What went wrong with the Texas power grid?](https://www.houstonchronicle.com/business/energy/article/Wholesale-power-prices-spiking-across-Texas-15951684.php)
 - [The most important part of modern government is database management](https://twitter.com/rcolvile/status/1361673425140543490)
-- [Clubhouse Bio Generator](https://perchance.org/owh9gelu4t)
 <!-- BLOG-POST-LIST:END -->
 
 ---
