@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Kalashnikov comes with WiFi, Bluetooth and phone sync](https://www.reuters.com/article/us-russia-kalashnikov/russias-kalashnikov-eyes-production-in-india-woos-gadget-lovers-with-hi-tech-shotgun-idUSKBN2AI1LU)
-- [Super fast super property access](https://v8.dev/blog/fast-super)
-- [Power-of-2-Choices in Practice](https://engineering.mixpanel.com/power-of-2-choices-in-practice-b6097020dfad)
-- [GPT-3, Esq? Evaluating AI Legal Summaries [pdf]](http://www.davidvictorrodriguez.com/uploads/2/6/4/2/26420847/gpt-3_esq_-_evaluating_ai_legal_summaries.pdf)
-- [Forth SoC Written in VHDL](https://github.com/howerj/forth-cpu)
+- [Vertical Farming Does Not Save Space](https://www.lowtechmagazine.com/2021/02/vertical-farming-ecosystem-services.html)
+- [Uber Shuts Down App That Told Drivers If Uber Underpaid Them](https://www.vice.com/en/article/wx8yvm/uber-shuts-down-app-that-lets-users-know-how-badly-theyve-been-cheated)
+- [NASA's Perseverance Rover Landing Livestream](https://www.youtube.com/watch?v=gm0b_ijaYMQ&feature=emb_title)
+- [House Republicans propose nationwide ban on municipal broadband networks](https://arstechnica.com/tech-policy/2021/02/gop-plan-for-broadband-competition-would-ban-city-run-networks-across-us/)
+- [Share of U.S. workers holding multiple jobs is rising](https://www.reuters.com/article/us-usa-economy-multiple-jobs-idUSKBN2AH2PI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
