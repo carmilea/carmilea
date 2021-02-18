@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Analysis: Texas power outage leaves officials working political angles](https://www.texastribune.org/2021/02/17/texas-power-outage-analysis/)
+- [Mitigating Memory Safety Issues in Open Source Software](https://security.googleblog.com/2021/02/mitigating-memory-safety-issues-in-open.html)
 - [Dapr – Distributed Application Runtime](https://dapr.io/)
 - [Expanding our testing in San Francisco](https://blog.waymo.com/2021/02/expanding-our-testing-in-san-francisco.html)
 - [Google Open-Sources Trillion-Parameter AI Language Model Switch Transformer](https://www.infoq.com/news/2021/02/google-trillion-parameter-ai/)
