@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Who did the Anglo-Saxons think they were?](https://www.archaeology.co.uk/articles/who-did-the-anglo-saxons-think-they-were.htm)
+- [Zsh Tricks to Blow Your Mind](https://www.twilio.com/blog/zsh-tricks-to-blow-your-mind)
 - [40 Year History of Opposition to Nuclear Power in California](https://www.energy-net.org/01NUKE/CALIF.HTM)
 - [Starlink is now Accepting General Pre-orders](https://www.starlink.com/)
 - [How GoodRx Profits from Our Broken Pharmacy Pricing System (2020)](https://www.drugchannels.net/2020/08/how-goodrx-profits-from-our-broken.html)
-- [Electricity over $900/MWh in most of Western US now](http://www.caiso.com/pricemap/Pages/default.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
