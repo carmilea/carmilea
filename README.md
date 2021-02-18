@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymo: Expanding our testing in San Francisco](https://blog.waymo.com/2021/02/expanding-our-testing-in-san-francisco.html)
-- [68% of the top links on Facebook since September are in support of Donald Trump](https://www.businessofbusiness.com/articles/alt-right-media-thrives-on-facebook-dan-bongino-ben-shapiro/)
-- [Show HN: ExampleOfiOSLiDAR – sample codes using the Lidar sensor on iOS device](https://github.com/TokyoYoshida/ExampleOfiOSLiDAR)
+- [Natural gas, not wind turbines, main driver of Texas power shortage](https://www.politifact.com/article/2021/feb/16/natural-gas-not-wind-turbines-main-driver-texas-po/)
+- [Expanding our testing in San Francisco](https://blog.waymo.com/2021/02/expanding-our-testing-in-san-francisco.html)
+- [Google Open-Sources Trillion-Parameter AI Language Model Switch Transformer](https://www.infoq.com/news/2021/02/google-trillion-parameter-ai/)
 - [What World War I Can Teach Us about Misjudging Tech and Social Change (2020)](https://www.carnegie.org/topics/topic-articles/emerging-global-order/1920-2020-what-the-history-of-world-war-1-can-teach-us-about-misjudging-tech-social-change/)
 - [WorkRamp (YC S16) Is Hiring Remote Engineers](https://jobs.lever.co/workramp/b964ff22-9b46-4e65-a773-4b00e36fcbed)
 <!-- BLOG-POST-LIST:END -->
