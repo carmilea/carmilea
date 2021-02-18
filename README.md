@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vertical Farming Does Not Save Space](https://www.lowtechmagazine.com/2021/02/vertical-farming-ecosystem-services.html)
-- [Uber Shuts Down App That Told Drivers If Uber Underpaid Them](https://www.vice.com/en/article/wx8yvm/uber-shuts-down-app-that-lets-users-know-how-badly-theyve-been-cheated)
-- [NASA's Perseverance Rover Landing Livestream](https://www.youtube.com/watch?v=gm0b_ijaYMQ&feature=emb_title)
-- [House Republicans propose nationwide ban on municipal broadband networks](https://arstechnica.com/tech-policy/2021/02/gop-plan-for-broadband-competition-would-ban-city-run-networks-across-us/)
-- [Share of U.S. workers holding multiple jobs is rising](https://www.reuters.com/article/us-usa-economy-multiple-jobs-idUSKBN2AH2PI)
+- [Raptor Maps (YC S16) Is Hiring a Director of Marketing to Scale Solar Power](https://raptormaps.com/jobs/)
+- [NASA's Perseverance Mars Rover: touch down confirmed](https://twitter.com/NASAPersevere/status/1362506126839848961)
+- [Perseverance Has Landed](https://mars.nasa.gov/mars2020/timeline/landing/)
+- [Open source chess developers warn about a commercial engine based on Stockfish](https://lichess.org/blog/YCvy7xMAACIA8007/fat-fritz-2-is-a-rip-off)
+- [Show HN: ScreenToVideo – Record your videos flawlessly](https://screentovideo.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
