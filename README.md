@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jane Austen's concept of information (Not Claude Shannon's) (2013)](https://www.cs.bham.ac.uk/research/projects/cogaff/misc/austen-info.html)
+- [Texas power outage is a nation wide problem](https://garrettbattaglia.com/post/texas-power/)
+- [My Wish for Python 4](https://aroberge.blogspot.com/2021/02/my-wish-for-python-4.html)
 - [Bruce Blackburn, Designer of NASA Worm Logo, Has Died](https://www.nytimes.com/2021/02/18/us/bruce-blackburn-dead.html)
 - [Gleam 0.14 – type-safe language for the Erlang VM](https://gleam.run/news/gleam-v0.14-released/)
-- [Real-time dialogue between experimenters and dreamers during REM sleep](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00059-2)
-- [Raptor Maps (YC S16) Is Hiring a Director of Marketing to Scale Solar Power](https://raptormaps.com/jobs/)
-- [Open source chess developers warn about a commercial engine based on Stockfish](https://lichess.org/blog/YCvy7xMAACIA8007/fat-fritz-2-is-a-rip-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
