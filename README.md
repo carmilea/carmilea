@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PiinPoint (YC W14) Is Hiring Software Engineers in Waterloo, Canada](https://angel.co/company/piinpoint/jobs/108874-full-stack-developer)
+- [Building Replica Amigas to Preserve Digital Artwork](https://hackaday.com/2021/02/17/building-replica-amigas-to-preserve-digital-artwork/)
+- [StoneKnifeForth (With a Metacircular Compiler)](https://github.com/kragen/stoneknifeforth)
+- [Lithuania plans to hold drills in case of accident at the Belarus nuclear plant](https://www.lrt.lt/en/news-in-english/19/1346034/lithuania-plans-to-hold-evacuation-drills-after-belarus-launches-nuclear-plant)
 - [How NASA Designed a Helicopter That Could Fly Autonomously on Mars](https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars)
-- [Precisely: Matcher Library for Python](https://github.com/mwilliamson/python-precisely)
-- [Facebook Australia: PM Scott Morrison 'will not be intimidated' by tech giant](https://www.bbc.com/news/world-australia-56109036)
-- [Launch HN: Datrics (YC W21) – No-Code Analytics and ML for FinTech](https://news.ycombinator.com/item?id=26177284)
-- [New Model M Is an American-Made Keyboard That Puts a Spring Back in Your Typing](https://tidbits.com/2021/02/17/new-model-m-is-an-american-made-keyboard-that-puts-a-spring-back-in-your-typing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
