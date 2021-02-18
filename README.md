@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CheapETH: A Fun Ethereum Testnet](https://cheapeth.org/)
 - [Starlink is now Accepting General Pre-orders](https://www.starlink.com/)
-- [How GoodRx Profits from Our Broken Pharmacy Pricing System](https://www.drugchannels.net/2020/08/how-goodrx-profits-from-our-broken.html)
+- [How GoodRx Profits from Our Broken Pharmacy Pricing System (2020)](https://www.drugchannels.net/2020/08/how-goodrx-profits-from-our-broken.html)
 - [Electricity over $900/MWh in most of Western US now](http://www.caiso.com/pricemap/Pages/default.aspx)
 - [Before buying a NYT subscription, see what it'll take to cancel it](https://imgur.com/a/K8m7p2t)
-- [Functioning ‘mechanical gears’ seen in nature for the first time](https://www.cam.ac.uk/research/news/functioning-mechanical-gears-seen-in-nature-for-the-first-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
