@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Game Stopped? (Live congressional hearing on GameStop)](https://www.youtube.com/watch?v=RfEuNHVPc_k)
+- [Bodyport (YC S15) is hiring engineers to predict and prevent heart disease](https://bodyport.com/careers)
+- [Poly will be shutting down forever on 30 June 2021](https://poly.google.com/)
+- [50 years of text games – 1977: Zork](https://if50.substack.com/p/1977-zork)
 - [Sci-Hub: Elsevier and Springer Nature Obtain UK ISP Blocking Order](https://torrentfreak.com/sci-hub-elsevier-and-springer-nature-obtain-uk-isp-blocking-order-210218/)
-- [Airbnb will build a new tech hub in Atlanta](https://www.protocol.com/airbnb-new-tech-hub-atlanta)
-- [Reply All Is Having Its Own Reckoning Now](https://www.vulture.com/2021/02/reply-all-hosts-step-down-test-kitchen.html)
-- [Citibank just got a $500M lesson in the importance of UI design](https://arstechnica.com/tech-policy/2021/02/citibank-just-got-a-500-million-lesson-in-the-importance-of-ui-design/)
-- [Coq 8.13](https://coq.inria.fr/news/coq-8-13-0-is-out.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
