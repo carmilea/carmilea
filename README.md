@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Kalashnikov comes with WiFi, Bluetooth and phone sync](https://www.reuters.com/article/us-russia-kalashnikov/russias-kalashnikov-eyes-production-in-india-woos-gadget-lovers-with-hi-tech-shotgun-idUSKBN2AI1LU)
+- [Super fast super property access](https://v8.dev/blog/fast-super)
+- [Power-of-2-Choices in Practice](https://engineering.mixpanel.com/power-of-2-choices-in-practice-b6097020dfad)
+- [GPT-3, Esq? Evaluating AI Legal Summaries [pdf]](http://www.davidvictorrodriguez.com/uploads/2/6/4/2/26420847/gpt-3_esq_-_evaluating_ai_legal_summaries.pdf)
 - [Forth SoC Written in VHDL](https://github.com/howerj/forth-cpu)
-- [Commandline Database Clients with Autocompletion and Syntax Highlighting](https://www.dbcli.com)
-- [Ruby Garbage Collection Deep Dive: Tri-Color Mark and Sweep](https://jemma.dev/blog/gc-mark-and-sweep)
-- [Migrating to SQLAlchemy 2.0](https://docs.sqlalchemy.org/en/14/changelog/migration_20.html)
-- [Robinhood CEO, Reddit Co-Founder and Others Testify on GameStop Stock](https://www.c-span.org/video/?508545-1/robinhood-ceo-reddit-founder-testify-gamestop-stock-part-1&playEvent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
