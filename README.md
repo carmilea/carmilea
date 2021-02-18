@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia announces mining GPUs, cripples hash rate of RTX-3060](https://wccftech.com/nvidia-launches-cmp-30hx-40hx-50hx-and-90hx-gpus-for-mining-cripples-hash-rate-of-rtx-3060/)
-- [RTX 3060 ETH hash rate is halved](https://blogs.nvidia.com/blog/2021/02/18/geforce-cmp/)
-- [Global debt soars to 356% of GDP](https://www.axios.com/global-debt-gdp-898959ed-f96a-4c4d-85a3-5d3cc419631f.html)
-- [Chrome RAM/CPU Usage vs. Safari vs. Flotato](https://www.flotato.com/post/memory-chrome-safari-flotato)
-- [A TL;DR after analyzing Clubhouse app](https://twitter.com/brian_pak/status/1361866446427488256)
+- [Sci-Hub: Elsevier and Springer Nature Obtain UK ISP Blocking Order](https://torrentfreak.com/sci-hub-elsevier-and-springer-nature-obtain-uk-isp-blocking-order-210218/)
+- [Airbnb will build a new tech hub in Atlanta](https://www.protocol.com/airbnb-new-tech-hub-atlanta)
+- [Reply All Is Having Its Own Reckoning Now](https://www.vulture.com/2021/02/reply-all-hosts-step-down-test-kitchen.html)
+- [Citibank just got a $500M lesson in the importance of UI design](https://arstechnica.com/tech-policy/2021/02/citibank-just-got-a-500-million-lesson-in-the-importance-of-ui-design/)
+- [Coq 8.13](https://coq.inria.fr/news/coq-8-13-0-is-out.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
