@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CheapETH: A Fun Ethereum Testnet](https://cheapeth.org/)
+- [Who did the Anglo-Saxons think they were?](https://www.archaeology.co.uk/articles/who-did-the-anglo-saxons-think-they-were.htm)
+- [40 Year History of Opposition to Nuclear Power in California](https://www.energy-net.org/01NUKE/CALIF.HTM)
 - [Starlink is now Accepting General Pre-orders](https://www.starlink.com/)
 - [How GoodRx Profits from Our Broken Pharmacy Pricing System (2020)](https://www.drugchannels.net/2020/08/how-goodrx-profits-from-our-broken.html)
 - [Electricity over $900/MWh in most of Western US now](http://www.caiso.com/pricemap/Pages/default.aspx)
-- [Before buying a NYT subscription, see what it'll take to cancel it](https://imgur.com/a/K8m7p2t)
 <!-- BLOG-POST-LIST:END -->
 
 ---
