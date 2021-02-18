@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mitigating Memory Safety Issues in Open Source Software](https://security.googleblog.com/2021/02/mitigating-memory-safety-issues-in-open.html)
-- [Dapr – Distributed Application Runtime](https://dapr.io/)
-- [Expanding our testing in San Francisco](https://blog.waymo.com/2021/02/expanding-our-testing-in-san-francisco.html)
-- [Google Open-Sources Trillion-Parameter AI Language Model Switch Transformer](https://www.infoq.com/news/2021/02/google-trillion-parameter-ai/)
-- [What World War I Can Teach Us about Misjudging Tech and Social Change (2020)](https://www.carnegie.org/topics/topic-articles/emerging-global-order/1920-2020-what-the-history-of-world-war-1-can-teach-us-about-misjudging-tech-social-change/)
+- [Starlink is now Accepting General Pre-orders](https://www.starlink.com/)
+- [How GoodRx Profits from Our Broken Pharmacy Pricing System](https://www.drugchannels.net/2020/08/how-goodrx-profits-from-our-broken.html)
+- [Electricity over $900/MWh in most of Western US now](http://www.caiso.com/pricemap/Pages/default.aspx)
+- [Before buying a NYT subscription, see what it'll take to cancel it](https://imgur.com/a/K8m7p2t)
+- [Functioning ‘mechanical gears’ seen in nature for the first time](https://www.cam.ac.uk/research/news/functioning-mechanical-gears-seen-in-nature-for-the-first-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
