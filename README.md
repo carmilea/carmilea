@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google will provide fundings for rewriting popular open source projects in Rust](https://security.googleblog.com/2021/02/mitigating-memory-safety-issues-in-open.html)
+- [Plant Blindness](https://en.wikipedia.org/wiki/Plant_blindness)
 - [PiinPoint (YC W14) Is Hiring Software Engineers in Waterloo, Canada](https://angel.co/company/piinpoint/jobs/108874-full-stack-developer)
-- [Building Replica Amigas to Preserve Digital Artwork](https://hackaday.com/2021/02/17/building-replica-amigas-to-preserve-digital-artwork/)
+- [The Fantasy of Opting Out](https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/)
 - [StoneKnifeForth (With a Metacircular Compiler)](https://github.com/kragen/stoneknifeforth)
-- [Lithuania plans to hold drills in case of accident at the Belarus nuclear plant](https://www.lrt.lt/en/news-in-english/19/1346034/lithuania-plans-to-hold-evacuation-drills-after-belarus-launches-nuclear-plant)
-- [How NASA Designed a Helicopter That Could Fly Autonomously on Mars](https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
