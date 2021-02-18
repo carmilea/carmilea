@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia announces mining GPUs, cripples hash rate of RTX-3060](https://wccftech.com/nvidia-launches-cmp-30hx-40hx-50hx-and-90hx-gpus-for-mining-cripples-hash-rate-of-rtx-3060/)
+- [RTX 3060 ETH hash rate is halved](https://blogs.nvidia.com/blog/2021/02/18/geforce-cmp/)
+- [Global debt soars to 356% of GDP](https://www.axios.com/global-debt-gdp-898959ed-f96a-4c4d-85a3-5d3cc419631f.html)
+- [Chrome RAM/CPU Usage vs. Safari vs. Flotato](https://www.flotato.com/post/memory-chrome-safari-flotato)
 - [A TL;DR after analyzing Clubhouse app](https://twitter.com/brian_pak/status/1361866446427488256)
-- [Curl is C](https://daniel.haxx.se/blog/2017/03/27/curl-is-c/)
-- [Launch HN: Ontop (YC W21) – Easily hire and pay remote workers in LATAM](https://news.ycombinator.com/item?id=26179281)
-- [Mitigating Memory Safety Issues in Open Source Software](https://security.googleblog.com/2021/02/mitigating-memory-safety-issues-in-open.html)
-- [Plant Blindness](https://en.wikipedia.org/wiki/Plant_blindness)
 <!-- BLOG-POST-LIST:END -->
 
 ---
