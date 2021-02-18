@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How NASA Designed a Helicopter That Could Fly Autonomously on Mars](https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars)
 - [Ask HN: What is your advice to someone who is starting out in software industry?](https://news.ycombinator.com/item?id=26177355)
 - [Launch HN: Datrics (YC W21) – No-Code Analytics and ML for FinTech](https://news.ycombinator.com/item?id=26177284)
 - [New Model M Is an American-Made Keyboard That Puts a Spring Back in Your Typing](https://tidbits.com/2021/02/17/new-model-m-is-an-american-made-keyboard-that-puts-a-spring-back-in-your-typing/)
 - [Who did the Anglo-Saxons think they were?](https://www.archaeology.co.uk/articles/who-did-the-anglo-saxons-think-they-were.htm)
-- [Zsh Tricks to Blow Your Mind](https://www.twilio.com/blog/zsh-tricks-to-blow-your-mind)
 <!-- BLOG-POST-LIST:END -->
 
 ---
