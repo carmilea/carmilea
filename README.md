@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bruce Blackburn, Designer of NASA Worm Logo, Has Died](https://www.nytimes.com/2021/02/18/us/bruce-blackburn-dead.html)
+- [Gleam 0.14 – type-safe language for the Erlang VM](https://gleam.run/news/gleam-v0.14-released/)
+- [Real-time dialogue between experimenters and dreamers during REM sleep](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00059-2)
 - [Raptor Maps (YC S16) Is Hiring a Director of Marketing to Scale Solar Power](https://raptormaps.com/jobs/)
-- [NASA's Perseverance Mars Rover: touch down confirmed](https://twitter.com/NASAPersevere/status/1362506126839848961)
-- [Perseverance Has Landed](https://mars.nasa.gov/mars2020/timeline/landing/)
 - [Open source chess developers warn about a commercial engine based on Stockfish](https://lichess.org/blog/YCvy7xMAACIA8007/fat-fritz-2-is-a-rip-off)
-- [Show HN: ScreenToVideo – Record your videos flawlessly](https://screentovideo.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
