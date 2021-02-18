@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Game Stopped? (Live congressional hearing on GameStop)](https://www.youtube.com/watch?v=RfEuNHVPc_k)
-- [Bodyport (YC S15) is hiring engineers to predict and prevent heart disease](https://bodyport.com/careers)
-- [Poly will be shutting down forever on 30 June 2021](https://poly.google.com/)
-- [50 years of text games – 1977: Zork](https://if50.substack.com/p/1977-zork)
-- [Sci-Hub: Elsevier and Springer Nature Obtain UK ISP Blocking Order](https://torrentfreak.com/sci-hub-elsevier-and-springer-nature-obtain-uk-isp-blocking-order-210218/)
+- [Forth SoC Written in VHDL](https://github.com/howerj/forth-cpu)
+- [Commandline Database Clients with Autocompletion and Syntax Highlighting](https://www.dbcli.com)
+- [Ruby Garbage Collection Deep Dive: Tri-Color Mark and Sweep](https://jemma.dev/blog/gc-mark-and-sweep)
+- [Migrating to SQLAlchemy 2.0](https://docs.sqlalchemy.org/en/14/changelog/migration_20.html)
+- [Robinhood CEO, Reddit Co-Founder and Others Testify on GameStop Stock](https://www.c-span.org/video/?508545-1/robinhood-ceo-reddit-founder-testify-gamestop-stock-part-1&playEvent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
