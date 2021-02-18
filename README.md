@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google will provide fundings for rewriting popular open source projects in Rust](https://security.googleblog.com/2021/02/mitigating-memory-safety-issues-in-open.html)
+- [A TL;DR after analyzing Clubhouse app](https://twitter.com/brian_pak/status/1361866446427488256)
+- [Curl is C](https://daniel.haxx.se/blog/2017/03/27/curl-is-c/)
+- [Launch HN: Ontop (YC W21) – Easily hire and pay remote workers in LATAM](https://news.ycombinator.com/item?id=26179281)
+- [Mitigating Memory Safety Issues in Open Source Software](https://security.googleblog.com/2021/02/mitigating-memory-safety-issues-in-open.html)
 - [Plant Blindness](https://en.wikipedia.org/wiki/Plant_blindness)
-- [PiinPoint (YC W14) Is Hiring Software Engineers in Waterloo, Canada](https://angel.co/company/piinpoint/jobs/108874-full-stack-developer)
-- [The Fantasy of Opting Out](https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/)
-- [StoneKnifeForth (With a Metacircular Compiler)](https://github.com/kragen/stoneknifeforth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
