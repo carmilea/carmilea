@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Issues in IL](https://www.cloudflarestatus.com/?feb192021)
-- [Caltech to Remove the Names of Robert A. Millikan and Other Eugenics Proponents](https://www.caltech.edu/about/news/caltech-to-remove-the-names-of-robert-a-millikan-and-five-other-eugenics-proponents)
+- [The MetaHumans: High-fidelity digital humans in minutes](https://www.unrealengine.com/en-US/digital-humans)
+- [Reducing Real-Time Query Latency from 0.5 s to 0.01 s with an HTAP Database](https://en.pingcap.com/case-studies/reduce-real-time-query-latency-from-0.5s-to-0.01s-with-scale-out-htap-database)
 - [12 requests per second – Realistic Python web frameworks](https://suade.org/dev/12-requests-per-second-with-python/)
 - [The Adams Event](https://newsroom.unsw.edu.au/news/science-tech/ancient-relic-points-turning-point-earths-history-42000-years-ago)
-- [Radio Amateur Copies Signal from Mars-Orbiting Satellite](http://www.arrl.org/news/british-columbia-radio-amateur-copies-signal-from-mars-orbiting-satellite)
+- [Show HN: Archive as you browse, store locally and/or share with others via IPFS](https://archiveweb.page)
 <!-- BLOG-POST-LIST:END -->
 
 ---
