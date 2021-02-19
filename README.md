@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The DreamBank, a collection of over 20k dream reports](http://www.dreambank.net/)
+- [Mars Photo Booth](https://mars.nasa.gov/mars2020/participate/photo-booth/)
+- [Launch HN: HiGeorge (YC W21) – Real-time data visualizations for public datasets](https://news.ycombinator.com/item?id=26194440)
+- [Wayland on Wine: A First Update](https://www.collabora.com/news-and-blog/news-and-events/wayland-on-wine-an-exciting-first-update.html)
 - [Truncating Bar Graphs Persistently Misleads Viewers](https://www.sciencedirect.com/science/article/abs/pii/S2211368120300978?dgcid=author)
-- [Poor Swelter as Urban Areas of U.S. Southwest Get Hotter](https://www.ucdavis.edu/news/poor-swelter-urban-areas-us-southwest-get-hotter)
-- [Facebook reported fake numbers to advertisers](https://news.yahoo.com/unsealed-court-document-claims-facebook-203236002.html)
-- [Google Workspace for Education storage policy changes](https://support.google.com/a/answer/10403871)
-- [I built ByteDance's censorship machine](https://www.protocol.com/i-built-bytedance-censorship-machine-2650611161)
 <!-- BLOG-POST-LIST:END -->
 
 ---
