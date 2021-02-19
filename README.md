@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flexport is hiring product managers to simplify global commerce](https://www.flexport.com/careers/department/engineering)
-- [Ultima VIII (Or, How to Destroy a Gaming Franchise in One Easy Step)](https://www.filfre.net/2021/02/ultima-viii-or-how-to-destroy-a-gaming-franchise-in-one-easy-step/)
-- [Launch HN: MindsDB (YC W20) – Machine Learning Inside Your Database](https://news.ycombinator.com/item?id=26195057)
-- [The coronavirus is here to stay – here’s what that means](https://www.nature.com/articles/d41586-021-00396-2)
-- [Tauri: An Electron alternative written in Rust](https://tauri.studio/)
+- [Koo became India’s Hindu nationalist–approved Twitter alternative](https://restofworld.org/2021/how-koo-became-a-right-wing-darling-in-india/)
+- [Cleaner parallel curves with Euler spirals](https://raphlinus.github.io/curves/2021/02/19/parallel-curves.html)
+- [Mars landing: Photo shows Perseverance rover during landing](https://www.bbc.co.uk/news/science-environment-56133281)
+- [Nyan Cat on the Blockchain](https://foundation.app/NyanCat/nyan-cat-219)
+- [Why is America getting a new $100B nuclear weapon?](https://thebulletin.org/2021/02/why-is-america-getting-a-new-100-billion-nuclear-weapon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
