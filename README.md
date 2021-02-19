@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Koo became India’s Hindu nationalist–approved Twitter alternative](https://restofworld.org/2021/how-koo-became-a-right-wing-darling-in-india/)
+- [Mars becomes the 2nd planet that has more computers running Linux than Windows](https://twitter.com/mikko/status/1362763793042972673)
 - [Cleaner parallel curves with Euler spirals](https://raphlinus.github.io/curves/2021/02/19/parallel-curves.html)
+- [Bitcoin hits $1T in market value](https://www.cnbc.com/2021/02/19/bitcoin-hits-1-trillion-in-market-value-as-cryptocurrency-surge-continues.html)
 - [Mars landing: Photo shows Perseverance rover during landing](https://www.bbc.co.uk/news/science-environment-56133281)
-- [Nyan Cat on the Blockchain](https://foundation.app/NyanCat/nyan-cat-219)
-- [Why is America getting a new $100B nuclear weapon?](https://thebulletin.org/2021/02/why-is-america-getting-a-new-100-billion-nuclear-weapon/)
+- [Flexport is hiring product managers to simplify global commerce](https://www.flexport.com/careers/department/engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
