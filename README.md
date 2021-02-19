@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tim Berners-Lee says Australian media pay law would make internet unworkable](https://www.dailymail.co.uk/news/article-9276511/World-Wide-Web-inventor-Tim-Berners-Lee-says-Australian-media-pay-law-make-internet-unworkable.html)
-- [WhatsApp to move ahead with privacy update despite backlash](https://www.reuters.com/article/facebook-whatsapp-privacy-idUSL4N2KP0XY)
-- [Bill allows U.S. publishers to team up when negotiating with Facebook, Google](https://www.reuters.com/article/us-australia-media-facebook-us-exclusive/exclusive-coming-bill-would-allow-u-s-news-publishers-to-team-up-when-negotiating-with-facebook-google-idUSKBN2AJ16X)
-- [Memfault (YC W19) Is Hiring Back End Engineers in Boston](https://www.workatastartup.com/jobs/32116)
-- [Thunderstorms spew out gamma rays – these scientists want to know why](https://www.nature.com/articles/d41586-021-00395-3)
+- [Truncating Bar Graphs Persistently Misleads Viewers](https://www.sciencedirect.com/science/article/abs/pii/S2211368120300978?dgcid=author)
+- [Poor Swelter as Urban Areas of U.S. Southwest Get Hotter](https://www.ucdavis.edu/news/poor-swelter-urban-areas-us-southwest-get-hotter)
+- [Facebook reported fake numbers to advertisers](https://news.yahoo.com/unsealed-court-document-claims-facebook-203236002.html)
+- [Google Workspace for Education storage policy changes](https://support.google.com/a/answer/10403871)
+- [I built ByteDance's censorship machine](https://www.protocol.com/i-built-bytedance-censorship-machine-2650611161)
 <!-- BLOG-POST-LIST:END -->
 
 ---
