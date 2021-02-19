@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Memfault (YC W19) Is Hiring Back End Engineers in Boston](https://www.workatastartup.com/jobs/32116)
+- [“I will slaughter you”](https://daniel.haxx.se/blog/2021/02/19/i-will-slaughter-you/)
+- [Remove Nominet's (.UK) Board and Restoring Public Benefit Mission](https://publicbenefit.uk/)
 - [How to be more productive without forcing yourself](https://www.deprocrastination.co/blog/how-to-be-productive-without-forcing-yourself)
-- [UK Supreme Court rules Uber drivers are workers](https://www.bbc.co.uk/news/business-56123668)
-- [Where Everything Went Wrong: Error Handling and Error Messages in Rust](https://msirringhaus.github.io/Where-everything-went-wrong/)
-- [A Follow-Up to “Location-Based Pay”](https://blackshaw.substack.com/p/pay-2)
-- [Tagged Unions Are Overrated](https://buttondown.email/nelhage/archive/tagged-unions-are-overrated/)
+- [Uber drivers are workers not self employed, Supreme Court rules](https://www.bbc.co.uk/news/business-56123668)
 <!-- BLOG-POST-LIST:END -->
 
 ---
