@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to be more productive without forcing yourself](https://www.deprocrastination.co/blog/how-to-be-productive-without-forcing-yourself)
+- [UK Supreme Court rules Uber drivers are workers](https://www.bbc.co.uk/news/business-56123668)
 - [Where Everything Went Wrong: Error Handling and Error Messages in Rust](https://msirringhaus.github.io/Where-everything-went-wrong/)
 - [A Follow-Up to “Location-Based Pay”](https://blackshaw.substack.com/p/pay-2)
 - [Tagged Unions Are Overrated](https://buttondown.email/nelhage/archive/tagged-unions-are-overrated/)
-- [Monolith First](https://martinfowler.com/bliki/MonolithFirst.html)
-- [Checked C](https://github.com/microsoft/checkedc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
