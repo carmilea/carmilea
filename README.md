@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The DreamBank, a collection of over 20k dream reports](http://www.dreambank.net/)
-- [Mars Photo Booth](https://mars.nasa.gov/mars2020/participate/photo-booth/)
-- [Launch HN: HiGeorge (YC W21) – Real-time data visualizations for public datasets](https://news.ycombinator.com/item?id=26194440)
-- [Wayland on Wine: A First Update](https://www.collabora.com/news-and-blog/news-and-events/wayland-on-wine-an-exciting-first-update.html)
-- [Truncating Bar Graphs Persistently Misleads Viewers](https://www.sciencedirect.com/science/article/abs/pii/S2211368120300978?dgcid=author)
+- [Flexport is hiring product managers to simplify global commerce](https://www.flexport.com/careers/department/engineering)
+- [Ultima VIII (Or, How to Destroy a Gaming Franchise in One Easy Step)](https://www.filfre.net/2021/02/ultima-viii-or-how-to-destroy-a-gaming-franchise-in-one-easy-step/)
+- [Launch HN: MindsDB (YC W20) – Machine Learning Inside Your Database](https://news.ycombinator.com/item?id=26195057)
+- [Tauri: An Electron alternative written in Rust](https://tauri.studio/)
+- [Prediction Markets: Tales from the Election](https://vitalik.ca/general/2021/02/18/election.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
