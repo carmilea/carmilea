@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Has Amazon Ruined the Name Alexa?](https://www.statista.com/chart/13907/babies-named-alexa/)
 - [BTC Endgame](https://github.com/mikekelly/btc-endgame)
 - [Federal Charges Against Stanford University Researcher Expanded](https://www.justice.gov/opa/pr/federal-charges-against-stanford-university-researcher-expanded)
 - [Circle Medical (YC S15) Is Hiring a Growth Engineer](https://jobs.lever.co/circlemedical/78723d6b-49fc-4bb5-911d-61d1ca20b6ea)
 - [Cockpit – Integrated, glanceable, web-based interface for servers](https://cockpit-project.org/)
+- [Mars becomes the 2nd planet that has more computers running Linux than Windows](https://twitter.com/mikko/status/1362763793042972673)
 <!-- BLOG-POST-LIST:END -->
 
 ---
