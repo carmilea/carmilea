@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [British Columbia Radio Amateur Copies Signal from Mars-Orbiting Satellite](http://www.arrl.org/news/british-columbia-radio-amateur-copies-signal-from-mars-orbiting-satellite)
+- [Hawai'i could be 2nd state to legalize psychedelic mushrooms](https://www.kitv.com/story/43360017/hawaii-could-be-2nd-state-to-legalize-psychedelic-mushrooms)
 - [Why is it so hard to see code from 5 minutes ago?](https://web.eecs.utk.edu/~azh/blog/yestercode.html)
 - [Jane Austen's concept of information (Not Claude Shannon's) (2013)](https://www.cs.bham.ac.uk/research/projects/cogaff/misc/austen-info.html)
 - [The Texas power outage is a nation-wide problem](https://garrettbattaglia.com/post/texas-power/)
-- [California State Legislator Introduces Bill to Decriminalize Psychedelics](https://maps.org/news/media/8885-statement-california-state-legislator-introduces-bill-to-decriminalize-psychedelics)
-- [Bruce Blackburn, Designer of NASA Worm Logo, Has Died](https://www.nytimes.com/2021/02/18/us/bruce-blackburn-dead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
