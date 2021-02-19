@@ -54,8 +54,8 @@
 - [Flexport is hiring product managers to simplify global commerce](https://www.flexport.com/careers/department/engineering)
 - [Ultima VIII (Or, How to Destroy a Gaming Franchise in One Easy Step)](https://www.filfre.net/2021/02/ultima-viii-or-how-to-destroy-a-gaming-franchise-in-one-easy-step/)
 - [Launch HN: MindsDB (YC W20) – Machine Learning Inside Your Database](https://news.ycombinator.com/item?id=26195057)
+- [The coronavirus is here to stay – here’s what that means](https://www.nature.com/articles/d41586-021-00396-2)
 - [Tauri: An Electron alternative written in Rust](https://tauri.studio/)
-- [Prediction Markets: Tales from the Election](https://vitalik.ca/general/2021/02/18/election.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
