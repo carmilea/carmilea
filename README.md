@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Circle Medical (YC S15) Is Hiring a Growth Engineer](https://jobs.lever.co/circlemedical/78723d6b-49fc-4bb5-911d-61d1ca20b6ea)
+- [Cockpit – Integrated, glanceable, web-based interface for your servers](https://cockpit-project.org/)
 - [Mars becomes the 2nd planet that has more computers running Linux than Windows](https://twitter.com/mikko/status/1362763793042972673)
-- [Cleaner parallel curves with Euler spirals](https://raphlinus.github.io/curves/2021/02/19/parallel-curves.html)
-- [Bitcoin hits $1T in market value](https://www.cnbc.com/2021/02/19/bitcoin-hits-1-trillion-in-market-value-as-cryptocurrency-surge-continues.html)
-- [Mars landing: Photo shows Perseverance rover during landing](https://www.bbc.co.uk/news/science-environment-56133281)
-- [Flexport is hiring product managers to simplify global commerce](https://www.flexport.com/careers/department/engineering)
+- [How Antidepressants Work, at Last?](https://blogs.sciencemag.org/pipeline/archives/2021/02/19/how-antidepressants-work-at-last)
+- [Koo, India’s free-speech Twitter alternative](https://restofworld.org/2021/how-koo-became-a-right-wing-darling-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
