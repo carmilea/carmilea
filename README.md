@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Monolith First](https://martinfowler.com/bliki/MonolithFirst.html)
+- [Checked C (Microsoft)](https://github.com/microsoft/checkedc)
+- [Things You Should Do Now](https://secure.phabricator.com/book/phabflavor/article/things_you_should_do_now/)
 - [The MetaHumans: High-fidelity digital humans in minutes](https://www.unrealengine.com/en-US/digital-humans)
 - [12 requests per second: A realistic look at Python web frameworks](https://suade.org/dev/12-requests-per-second-with-python/)
-- [I Miss My Bar](http://imissmybar.com/)
-- [The Adams Event](https://newsroom.unsw.edu.au/news/science-tech/ancient-relic-points-turning-point-earths-history-42000-years-ago)
-- [Show HN: Archive as you browse, store locally and/or share with others via IPFS](https://archiveweb.page)
 <!-- BLOG-POST-LIST:END -->
 
 ---
