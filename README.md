@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The MetaHumans: High-fidelity digital humans in minutes](https://www.unrealengine.com/en-US/digital-humans)
-- [Reducing Real-Time Query Latency from 0.5 s to 0.01 s with an HTAP Database](https://en.pingcap.com/case-studies/reduce-real-time-query-latency-from-0.5s-to-0.01s-with-scale-out-htap-database)
-- [12 requests per second – Realistic Python web frameworks](https://suade.org/dev/12-requests-per-second-with-python/)
+- [Reducing Real-Time Query Latency with an HTAP Database](https://en.pingcap.com/case-studies/reduce-real-time-query-latency-from-0.5s-to-0.01s-with-scale-out-htap-database)
+- [12 requests per second: A realistic look at Python web frameworks](https://suade.org/dev/12-requests-per-second-with-python/)
+- [I Miss My Bar](http://imissmybar.com/)
 - [The Adams Event](https://newsroom.unsw.edu.au/news/science-tech/ancient-relic-points-turning-point-earths-history-42000-years-ago)
-- [Show HN: Archive as you browse, store locally and/or share with others via IPFS](https://archiveweb.page)
 <!-- BLOG-POST-LIST:END -->
 
 ---
