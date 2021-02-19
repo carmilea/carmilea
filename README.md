@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tim Berners-Lee says Australian media pay law would make internet unworkable](https://www.dailymail.co.uk/news/article-9276511/World-Wide-Web-inventor-Tim-Berners-Lee-says-Australian-media-pay-law-make-internet-unworkable.html)
+- [WhatsApp to move ahead with privacy update despite backlash](https://www.reuters.com/article/facebook-whatsapp-privacy-idUSL4N2KP0XY)
 - [Bill allows U.S. publishers to team up when negotiating with Facebook, Google](https://www.reuters.com/article/us-australia-media-facebook-us-exclusive/exclusive-coming-bill-would-allow-u-s-news-publishers-to-team-up-when-negotiating-with-facebook-google-idUSKBN2AJ16X)
-- [Facebook is gambling Australia can't do without it. What if we prove them wrong](https://www.theguardian.com/commentisfree/2021/feb/19/facebook-is-gambling-australia-cant-live-without-it-imagine-if-we-prove-them-wrong)
 - [Memfault (YC W19) Is Hiring Back End Engineers in Boston](https://www.workatastartup.com/jobs/32116)
 - [Thunderstorms spew out gamma rays – these scientists want to know why](https://www.nature.com/articles/d41586-021-00395-3)
-- [“I will slaughter you”](https://daniel.haxx.se/blog/2021/02/19/i-will-slaughter-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
