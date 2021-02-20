@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: Can I trust brokers with my stocks?](https://news.ycombinator.com/item?id=26203713)
+- [Scientists Achieve Real-Time Communication with Lucid Dreamers in Breakthrough](https://www.vice.com/en/article/4admym/scientists-achieve-real-time-communication-with-lucid-dreamers-in-breakthrough)
 - [Unofficial Clubhouse app for Android](https://github.com/grishka/Houseclub/releases)
+- [Stateless Kubernetes overlay networks with IPv6](https://john-millikin.com/stateless-kubernetes-overlay-networks-with-ipv6)
 - [My history with Forth and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
-- [LayerCI (YC S20) is hiring devs to work on a distributed hypervisor in Toronto](https://www.workatastartup.com/jobs/42204)
-- [Native Type Theory](https://golem.ph.utexas.edu/category/2021/02/native_type_theory.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
