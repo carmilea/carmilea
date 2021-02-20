@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Life in E-Ink](https://rgoswami.me/posts/my-life-in-eink/)
+- [She was trafficked into a giant brothel. Now she runs it](https://www.economist.com/1843/2021/02/19/she-was-trafficked-into-a-giant-brothel-now-she-runs-it)
 - [Logging into Gmail on Chrome links my Google Account to the browser](https://news.ycombinator.com/item?id=26200298)
-- [Google Research: NSan: a floating-point numerical sanitizer](https://dl.acm.org/doi/abs/10.1145/3446804.3446848)
-- [Are Disagreements Honest? (2004) [pdf]](https://ppe.mercatus.org/system/files/Are_Disagreements_Honest_-_WP.pdf)
 - [A request for Pinboard old-timers](https://www.prettyfwd.com/t/XiK8ArVIT6uVItPGeH3lzA/)
 - [Diablo II: Resurrected](https://diablo2.blizzard.com/)
 <!-- BLOG-POST-LIST:END -->
