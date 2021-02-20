@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Augmenting Human Intellect](https://www.dougengelbart.org/content/view/138)
+- [United B772 at Denver on Feb 20th 2021, engine inlet separates from engine](https://avherald.com/h?article=4e35503b&opt=0)
 - [Debian Packages That Need Lovin'](https://wnpp.debian.net/)
 - [Lumi is hiring a UI designer to build the platform for sustainable manufacturing](https://www.lumi.com/jobs)
 - [Immortality vs. Society](https://grishka.me/immortality-vs-society/)
-- [Clearing price for supplying power to Texas grid –$31.65](http://www.ercot.com/content/cdr/contours/rtmLmp.html)
-- [Turbo Pascal Compiler in JavaScript](https://github.com/lkesteloot/turbopascal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
