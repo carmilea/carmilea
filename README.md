@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Logging into Gmail on Chrome links my Google Account to the browser](https://news.ycombinator.com/item?id=26200298)
+- [Google Research: NSan: a floating-point numerical sanitizer](https://dl.acm.org/doi/abs/10.1145/3446804.3446848)
+- [Are Disagreements Honest? (2004) [pdf]](https://ppe.mercatus.org/system/files/Are_Disagreements_Honest_-_WP.pdf)
+- [A request for Pinboard old-timers](https://www.prettyfwd.com/t/XiK8ArVIT6uVItPGeH3lzA/)
 - [Diablo II: Resurrected](https://diablo2.blizzard.com/)
-- [Margaret Mitchell fired from Google](https://www.axios.com/google-fires-another-ai-ethics-leader-6ef7dcd5-4583-4396-b5b3-129547ff3091.html)
-- [F’: Flight Software and Embedded Systems Framework](https://nasa.github.io/fprime/)
-- [Has Amazon Ruined the Name Alexa?](https://www.statista.com/chart/13907/babies-named-alexa/)
-- [BTC Endgame](https://github.com/mikekelly/btc-endgame)
 <!-- BLOG-POST-LIST:END -->
 
 ---
