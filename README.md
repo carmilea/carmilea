@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [What is the fuss over central-bank digital currencies?](https://www.economist.com/the-economist-explains/2021/02/16/what-is-the-fuss-over-central-bank-digital-currencies)
 - [Cryptomedia, NFTs, and the Next Internet](https://thehundreds.com/blogs/monologue/cryptomedia)
-- [Open source decentralized social network, like Twitter. Developed with WebRTC](https://foxql.com)
+- [Embracing Functional Programming in Ruby (2017)](https://kellysutton.com/2017/09/13/embracing-functional-programming-in-ruby.html)
 - [Draw an iceberg and see how it would float in water](https://joshdata.me/iceberger.html)
 - [My Life in E-Ink](https://rgoswami.me/posts/my-life-in-eink/)
 <!-- BLOG-POST-LIST:END -->
