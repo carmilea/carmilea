@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [M1 Macs have another hidden boot mode](https://eclecticlight.co/2021/02/20/m1-macs-have-another-hidden-boot-mode/)
 - [How to have better arguments online](https://www.theguardian.com/society/2021/feb/16/how-to-have-better-arguments-social-media-politics-conflict)
 - [In the 90s part of Germany's air traffic control software ran on Emacs](https://www.reddit.com/r/emacs/comments/lly7po/do_you_use_emacs_lisp_as_a_general_purpose/gnvzisy)
-- [I don't know, Timmy, being God is a big responsibility](https://qntm.org/responsibility)
-- [What is the fuss over central-bank digital currencies?](https://www.economist.com/the-economist-explains/2021/02/16/what-is-the-fuss-over-central-bank-digital-currencies)
+- [I don't know, Timmy, being God is a big responsibility (2007)](https://qntm.org/responsibility)
 - [Embracing Functional Programming in Ruby (2017)](https://kellysutton.com/2017/09/13/embracing-functional-programming-in-ruby.html)
 <!-- BLOG-POST-LIST:END -->
 
