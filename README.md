@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Can I trust brokers with my stocks?](https://news.ycombinator.com/item?id=26203713)
+- [Verbally ask NPCs random questions and get impressive verbal GPT3 replies](https://www.youtube.com/watch?v=nnuSQvoroJo)
+- [Little is a statically typed, C-like scripting language](http://www.little-lang.org/)
+- [Texas-Style Blackouts Are the Future](https://www.wsj.com/articles/texas-style-blackouts-are-the-future-11613772034)
+- [U.S. Airports No Longer Have to Build Their Own Terrible Trains](https://www.vice.com/en/article/z3v5j3/us-airports-no-longer-have-to-build-their-own-crappy-trains)
 - [Scientists Achieve Real-Time Communication with Lucid Dreamers in Breakthrough](https://www.vice.com/en/article/4admym/scientists-achieve-real-time-communication-with-lucid-dreamers-in-breakthrough)
-- [Unofficial Clubhouse app for Android](https://github.com/grishka/Houseclub/releases)
-- [Stateless Kubernetes overlay networks with IPv6](https://john-millikin.com/stateless-kubernetes-overlay-networks-with-ipv6)
-- [My history with Forth and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
