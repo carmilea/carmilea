@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Vellum – An interactive list of nonfiction books reviewed by academics](https://vellum.tachy.org)
-- [Show HN: Sabre – The bullshit-free (c) programming language](https://github.com/garritfra/sabre)
-- [Ask HN: Truly successful applications based on decentralized networks?](https://news.ycombinator.com/item?id=26206504)
-- [Machine Learning for Computer Architecture](https://ai.googleblog.com/2021/02/machine-learning-for-computer.html)
-- [A global environmental crisis 42,000 years ago](https://science.sciencemag.org/content/371/6531/811.full)
+- [Pfizer seeks to store vaccine at higher temperatures, easing logistics](https://www.reuters.com/article/us-health-coronavirus-pfizer-idUSKBN2AJ1CJ)
+- [New Release: 0 A.D. Alpha 24: Xšayāršā](https://play0ad.com/new-release-0-a-d-alpha-24-xsayarsa/)
+- [Adversarial.io – Fighting mass image recognition](https://adversarial.io)
+- [How can you not be romantic about programming?](https://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/)
+- [Memory Techniques from Vedic Learning [pdf]](https://artofmemory.com/files/forum/1183/divideandlink_0.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
