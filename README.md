@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Verbally ask NPCs random questions and get impressive verbal GPT3 replies](https://www.youtube.com/watch?v=nnuSQvoroJo)
-- [Little is a statically typed, C-like scripting language](http://www.little-lang.org/)
-- [Texas-Style Blackouts Are the Future](https://www.wsj.com/articles/texas-style-blackouts-are-the-future-11613772034)
-- [U.S. Airports No Longer Have to Build Their Own Terrible Trains](https://www.vice.com/en/article/z3v5j3/us-airports-no-longer-have-to-build-their-own-crappy-trains)
-- [Scientists Achieve Real-Time Communication with Lucid Dreamers in Breakthrough](https://www.vice.com/en/article/4admym/scientists-achieve-real-time-communication-with-lucid-dreamers-in-breakthrough)
+- [German air traffic control system software accidentally written in Emacs Lisp](https://old.reddit.com/r/emacs/comments/lly7po/do_you_use_emacs_lisp_as_a_general_purpose/gnvzisy/)
+- [Coronavirus Mutants Are Spreading Fast](https://www.spiegel.de/international/germany/the-third-wave-coronavirus-mutants-are-spreading-fast-a-09b88dcd-009d-4e6d-ab00-dd7cd88323fb)
+- [How to Destroy the Earth](https://qntm.org/destroy)
+- [Can We Break the 2nm Barrier in Silicon Fabrication?](https://jscitech.ir/news-views/can-we-break-the-2nm-barrier-in-silicon-fabrication/jscitech/601/)
+- [New malware found on 30k Macs has security pros stumped](https://arstechnica.com/information-technology/2021/02/new-malware-found-on-30000-macs-has-security-pros-stumped/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
