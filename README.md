@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the fuss over central-bank digital currencies?](https://www.economist.com/the-economist-explains/2021/02/16/what-is-the-fuss-over-central-bank-digital-currencies)
+- [Cryptomedia, NFTs, and the Next Internet](https://thehundreds.com/blogs/monologue/cryptomedia)
+- [Open source decentralized social network, like Twitter. Developed with WebRTC](https://foxql.com)
 - [Draw an iceberg and see how it would float in water](https://joshdata.me/iceberger.html)
-- [Sequoia Capital says it was hacked](https://www.axios.com/sequoia-capital-says-it-was-hacked-590dcdd6-fe49-46c6-8422-60a944272302.html)
 - [My Life in E-Ink](https://rgoswami.me/posts/my-life-in-eink/)
-- [Google Research: NSan: a floating-point numerical sanitizer](https://dl.acm.org/doi/abs/10.1145/3446804.3446848)
-- [A request for Pinboard old-timers](https://www.prettyfwd.com/t/XiK8ArVIT6uVItPGeH3lzA/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
