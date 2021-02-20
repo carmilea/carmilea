@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In the 90s part of Germany's air traffic control software ran on Emacs](https://www.reddit.com/r/emacs/comments/lly7po/do_you_use_emacs_lisp_as_a_general_purpose/gnvzisy)
 - [I don't know, Timmy, being God is a big responsibility](https://qntm.org/responsibility)
 - [Most teen bully among friends 4 social hierarchy – anti-bullying programs fail](https://www.ucdavis.edu/news/most-teen-bullying-occurs-among-peers-climbing-social-ladder)
 - [What is the fuss over central-bank digital currencies?](https://www.economist.com/the-economist-explains/2021/02/16/what-is-the-fuss-over-central-bank-digital-currencies)
-- [Cryptomedia, NFTs, and the Next Internet](https://thehundreds.com/blogs/monologue/cryptomedia)
-- [Embracing Functional Programming in Ruby (2017)](https://kellysutton.com/2017/09/13/embracing-functional-programming-in-ruby.html)
+- [Dropbox Passwords](https://www.dropbox.com/features/security/passwords)
 <!-- BLOG-POST-LIST:END -->
 
 ---
