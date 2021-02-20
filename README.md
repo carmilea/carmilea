@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Teardown of a quartz crystal oscillator and the tiny IC inside](https://www.righto.com/2021/02/teardown-of-quartz-crystal-oscillator.html)
-- [Tribler: An attack-resilient micro-economy for media](https://github.com/Tribler/tribler/wiki#tribler-an-attack-resilient-micro-economy-for-media)
-- [Twitch censors live Metallica concert with dorkiest music imaginable](https://music.avclub.com/twitch-censors-live-metallica-concert-with-dorkiest-mus-1846314134)
-- [Swift Achieved Dynamic Linking Where Rust Couldn't (2019)](https://gankra.github.io/blah/swift-abi/)
-- [OneSignal (Messaging and Push Notification APIs) is hiring a mobile SDK engineer](https://onesignal.com/careers)
+- [Show HN: Vellum – An interactive list of nonfiction books reviewed by academics](https://vellum.tachy.org)
+- [Show HN: Sabre – The bullshit-free (c) programming language](https://github.com/garritfra/sabre)
+- [Ask HN: Truly successful applications based on decentralized networks?](https://news.ycombinator.com/item?id=26206504)
+- [Machine Learning for Computer Architecture](https://ai.googleblog.com/2021/02/machine-learning-for-computer.html)
+- [A global environmental crisis 42,000 years ago](https://science.sciencemag.org/content/371/6531/811.full)
 <!-- BLOG-POST-LIST:END -->
 
 ---
