@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Fires “Ethical AI” Research Lead Meg Mitchell, Escalating Turmoil](https://www.bloomberg.com/news/articles/2021-02-19/google-fires-researcher-meg-mitchell-escalating-ai-saga)
 - [My Life in E-Ink](https://rgoswami.me/posts/my-life-in-eink/)
-- [She was trafficked into a giant brothel. Now she runs it](https://www.economist.com/1843/2021/02/19/she-was-trafficked-into-a-giant-brothel-now-she-runs-it)
-- [Logging into Gmail on Chrome links my Google Account to the browser](https://news.ycombinator.com/item?id=26200298)
 - [A request for Pinboard old-timers](https://www.prettyfwd.com/t/XiK8ArVIT6uVItPGeH3lzA/)
-- [Diablo II: Resurrected](https://diablo2.blizzard.com/)
+- [Coinbase valued above $100B, ahead of direct listing](https://www.axios.com/coinbase-valued-100-billion-direct-listing-9b43e316-7ff7-4f6a-a1db-4dc2481a93ee.html)
+- [F’: Flight Software and Embedded Systems Framework](https://nasa.github.io/fprime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
