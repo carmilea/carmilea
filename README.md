@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Debian Packages That Need Lovin'](https://wnpp.debian.net/)
 - [Lumi is hiring a UI designer to build the platform for sustainable manufacturing](https://www.lumi.com/jobs)
 - [Immortality vs. Society](https://grishka.me/immortality-vs-society/)
+- [Clearing price for supplying power to Texas grid –$31.65](http://www.ercot.com/content/cdr/contours/rtmLmp.html)
 - [Turbo Pascal Compiler in JavaScript](https://github.com/lkesteloot/turbopascal)
-- [New Release: 0 A.D. Alpha 24: Xšayāršā](https://play0ad.com/new-release-0-a-d-alpha-24-xsayarsa/)
-- [Adversarial.io – Fighting mass image recognition](https://adversarial.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
