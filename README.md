@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LayerCI (YC S20) is hiring devs to work on a distributed hypervisor in Toronto](https://www.workatastartup.com/jobs/42204)
+- [Linux Sucks 2021 – The End of Linux Is Nigh](https://odysee.com/@Lunduke:e/LinuxSucks2021:1)
+- [Native Type Theory](https://golem.ph.utexas.edu/category/2021/02/native_type_theory.html)
 - [M1 Macs have another hidden boot mode](https://eclecticlight.co/2021/02/20/m1-macs-have-another-hidden-boot-mode/)
-- [How to have better arguments online](https://www.theguardian.com/society/2021/feb/16/how-to-have-better-arguments-social-media-politics-conflict)
-- [In the 90s part of Germany's air traffic control software ran on Emacs](https://www.reddit.com/r/emacs/comments/lly7po/do_you_use_emacs_lisp_as_a_general_purpose/gnvzisy)
-- [I don't know, Timmy, being God is a big responsibility (2007)](https://qntm.org/responsibility)
-- [Embracing Functional Programming in Ruby (2017)](https://kellysutton.com/2017/09/13/embracing-functional-programming-in-ruby.html)
+- [Ask HN: How do solo SaaS founders handle monitoring/pagerduty?](https://news.ycombinator.com/item?id=26203074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
