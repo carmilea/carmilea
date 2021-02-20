@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [German air traffic control system software accidentally written in Emacs Lisp](https://old.reddit.com/r/emacs/comments/lly7po/do_you_use_emacs_lisp_as_a_general_purpose/gnvzisy/)
-- [Coronavirus Mutants Are Spreading Fast](https://www.spiegel.de/international/germany/the-third-wave-coronavirus-mutants-are-spreading-fast-a-09b88dcd-009d-4e6d-ab00-dd7cd88323fb)
-- [How to Destroy the Earth](https://qntm.org/destroy)
-- [Can We Break the 2nm Barrier in Silicon Fabrication?](https://jscitech.ir/news-views/can-we-break-the-2nm-barrier-in-silicon-fabrication/jscitech/601/)
-- [New malware found on 30k Macs has security pros stumped](https://arstechnica.com/information-technology/2021/02/new-malware-found-on-30000-macs-has-security-pros-stumped/)
+- [OneSignal (Messaging and Push Notification APIs) is hiring a mobile SDK engineer](https://onesignal.com/careers)
+- [Unique_ptr difference between libstdc++ and Libc++ crashes your application](https://blogs.kde.org/2021/02/20/uniqueptr-difference-between-libstdc-and-libc-crashes-your-application)
+- [Cranelift, Part 2: Compiler Efficiency, CFGs, and a Branch Peephole Optimizer](https://cfallin.org/blog/2021/01/22/cranelift-isel-2/)
+- [90K packages are stolen daily in NYC. A building resisted](https://www.nytimes.com/2021/02/19/nyregion/package-theft-east-village.html)
+- [The Two Hours That Nearly Destroyed Texas’s Electric Grid](https://www.bloomberg.com/news/features/2021-02-20/texas-blackout-how-the-electrical-grid-failed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
