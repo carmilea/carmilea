@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Fires “Ethical AI” Research Lead Meg Mitchell, Escalating Turmoil](https://www.bloomberg.com/news/articles/2021-02-19/google-fires-researcher-meg-mitchell-escalating-ai-saga)
+- [Draw an iceberg and see how it would float in water](https://joshdata.me/iceberger.html)
+- [Sequoia Capital says it was hacked](https://www.axios.com/sequoia-capital-says-it-was-hacked-590dcdd6-fe49-46c6-8422-60a944272302.html)
 - [My Life in E-Ink](https://rgoswami.me/posts/my-life-in-eink/)
+- [Google Research: NSan: a floating-point numerical sanitizer](https://dl.acm.org/doi/abs/10.1145/3446804.3446848)
 - [A request for Pinboard old-timers](https://www.prettyfwd.com/t/XiK8ArVIT6uVItPGeH3lzA/)
-- [Coinbase valued above $100B, ahead of direct listing](https://www.axios.com/coinbase-valued-100-billion-direct-listing-9b43e316-7ff7-4f6a-a1db-4dc2481a93ee.html)
-- [F’: Flight Software and Embedded Systems Framework](https://nasa.github.io/fprime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
