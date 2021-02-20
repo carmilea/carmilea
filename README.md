@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pfizer seeks to store vaccine at higher temperatures, easing logistics](https://www.reuters.com/article/us-health-coronavirus-pfizer-idUSKBN2AJ1CJ)
+- [Lumi is hiring a UI designer to build the platform for sustainable manufacturing](https://www.lumi.com/jobs)
+- [Immortality vs. Society](https://grishka.me/immortality-vs-society/)
+- [Turbo Pascal Compiler in JavaScript](https://github.com/lkesteloot/turbopascal)
 - [New Release: 0 A.D. Alpha 24: Xšayāršā](https://play0ad.com/new-release-0-a-d-alpha-24-xsayarsa/)
 - [Adversarial.io – Fighting mass image recognition](https://adversarial.io)
-- [How can you not be romantic about programming?](https://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/)
-- [Memory Techniques from Vedic Learning [pdf]](https://artofmemory.com/files/forum/1183/divideandlink_0.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
