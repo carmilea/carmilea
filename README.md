@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Can I trust brokers with my stocks?](https://news.ycombinator.com/item?id=26203713)
+- [Unofficial Clubhouse app for Android](https://github.com/grishka/Houseclub/releases)
+- [My history with Forth and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 - [LayerCI (YC S20) is hiring devs to work on a distributed hypervisor in Toronto](https://www.workatastartup.com/jobs/42204)
-- [Linux Sucks 2021 – The End of Linux Is Nigh](https://odysee.com/@Lunduke:e/LinuxSucks2021:1)
 - [Native Type Theory](https://golem.ph.utexas.edu/category/2021/02/native_type_theory.html)
-- [M1 Macs have another hidden boot mode](https://eclecticlight.co/2021/02/20/m1-macs-have-another-hidden-boot-mode/)
-- [Ask HN: How do solo SaaS founders handle monitoring/pagerduty?](https://news.ycombinator.com/item?id=26203074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
