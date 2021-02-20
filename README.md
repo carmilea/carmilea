@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Teardown of a quartz crystal oscillator and the tiny IC inside](https://www.righto.com/2021/02/teardown-of-quartz-crystal-oscillator.html)
+- [Tribler: An attack-resilient micro-economy for media](https://github.com/Tribler/tribler/wiki#tribler-an-attack-resilient-micro-economy-for-media)
+- [Twitch censors live Metallica concert with dorkiest music imaginable](https://music.avclub.com/twitch-censors-live-metallica-concert-with-dorkiest-mus-1846314134)
+- [Swift Achieved Dynamic Linking Where Rust Couldn't (2019)](https://gankra.github.io/blah/swift-abi/)
 - [OneSignal (Messaging and Push Notification APIs) is hiring a mobile SDK engineer](https://onesignal.com/careers)
-- [Unique_ptr difference between libstdc++ and Libc++ crashes your application](https://blogs.kde.org/2021/02/20/uniqueptr-difference-between-libstdc-and-libc-crashes-your-application)
-- [Cranelift, Part 2: Compiler Efficiency, CFGs, and a Branch Peephole Optimizer](https://cfallin.org/blog/2021/01/22/cranelift-isel-2/)
-- [90K packages are stolen daily in NYC. A building resisted](https://www.nytimes.com/2021/02/19/nyregion/package-theft-east-village.html)
-- [The Two Hours That Nearly Destroyed Texas’s Electric Grid](https://www.bloomberg.com/news/features/2021-02-20/texas-blackout-how-the-electrical-grid-failed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
