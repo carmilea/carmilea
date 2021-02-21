@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Consultant Breaks into Wrong Bank](https://darknetdiaries.com/episode/6/)
+- [My School Gamed the Stats](https://www.greaterwrong.com/posts/Yv9aj9bWD5H7aaDdy/how-my-school-gamed-the-stats)
+- [Facebook takes down main page of Myanmar military](https://www.reuters.com/article/us-myanmar-politics-facebook/facebook-takes-down-main-page-of-myanmar-military-idUSKBN2AL029)
 - [Boringtechnology.club](http://boringtechnology.club/)
 - [Importance of Conceptual Integrity in System Design](https://wiki.c2.com/?ConceptualIntegrity)
-- [Who Is Still Buying VHS Tapes?](https://www.nytimes.com/2021/02/20/style/vhs-tapes.html)
-- [Linux and Penguin Logo (1996)](https://lkml.org/lkml/1996/5/12/136)
-- [Modern software controls dependencies because it helps software authors](https://utcc.utoronto.ca/~cks/space/blog/tech/BundlingHelpsSoftwareAuthors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
