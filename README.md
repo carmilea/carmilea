@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When Engineers Were Humanists](https://www.nybooks.com/articles/2021/03/11/engineers-humanists-renaissance-inventions/)
+- [Cross-Database Queries in SQLite](https://simonwillison.net/2021/Feb/21/cross-database-queries/)
 - [The Apparent Kia Ransomware Hackers Are Demanding Millions in Bitcoin](https://www.thedrive.com/tech/39309/the-apparent-hackers-behind-kias-ransomware-attack-are-demanding-millions-in-bitcoin)
 - [Replit (YC W18) is hiring to make computing more accessible](https://blog.repl.it/seriesa)
 - [An Introduction to Crystal](https://blog.oisinaylward.me/blog/crystal/)
-- [‘It just blew fire’: Kauai woman watched as an engine fell apart on flight 328](https://www.hawaiinewsnow.com/2021/02/21/it-just-blew-fire-kauai-woman-watched-engine-failed-united-flight/)
-- [Feedback Welcome: I am developing an e-paper calendar as a consumer product](https://www.invisible-computers.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
