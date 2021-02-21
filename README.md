@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hurt by Lockdowns, California’s Small Businesses Push to Recall Newsom](https://www.nytimes.com/2021/02/19/business/newsom-coronavirus-california.html)
+- [Complexity No Bar to AI](https://www.gwern.net/Complexity-vs-AI)
+- [Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu)
+- [Mistakes I've Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/)
 - [Diplomacy: The Board Game of the Alpha Nerds (2014)](http://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
-- [Commenting vs. Making](https://chiefofstuff.substack.com/p/commenting-vs-making)
-- [WhatsApp Reveals What Happens to Users Who Don't Agree to Privacy Policy Changes](https://www.macrumors.com/2021/02/21/whatsapp-fate-of-accounts-privacy-policy/)
-- [Online Speech Is Now an Existential Question for Tech](https://www.wsj.com/articles/online-speech-is-now-an-existential-question-for-tech-11613797254)
-- [Please do not put IP addresses into DNS MX records](https://blog.hboeck.de/archives/904-Please-do-not-put-IP-addresses-into-DNS-MX-records.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
