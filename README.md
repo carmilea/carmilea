@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [28-year-old turned his college side hustle into a $1.3B startup](https://news.google.com/articles/CAIiEEvgZ9Tq-nl7jnQp3XevpmkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen)
 - [Modern software controls dependencies because it helps software authors](https://utcc.utoronto.ca/~cks/space/blog/tech/BundlingHelpsSoftwareAuthors)
 - [Second Citizenships, Residencies, and/or Temporary Relocation](https://www.lesswrong.com/posts/jHnFBHrwiNb5xvLBM/second-citizenships-residencies-and-or-temporary-relocation)
 - [Find the Hard Work You're Willing to Do (2018)](http://www.cs.uni.edu/%7Ewallingf/blog/archives/monthly/2018-10.html#e2018-10-21T09_53_29.htm)
 - [OpenBSD boots multi-user on Apple M1 hardware](https://marc.info/?l=openbsd-arm&m=161386122115249&w=2)
-- [NASA Has Decided to Start Building the Lunar Gateway Using the Falcon Heavy](https://www.universetoday.com/150124/nasa-has-decided-to-start-building-the-lunar-gateway-using-the-falcon-heavy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
