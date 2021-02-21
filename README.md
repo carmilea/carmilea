@@ -54,8 +54,8 @@
 - [Silent Running: The sci-fi that predicted modern crises](https://www.bbc.com/culture/article/20210212-silent-running-the-sci-fi-that-predicted-modern-crises)
 - [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
 - [The Beirut Bank Job (2017)](https://darknetdiaries.com/episode/6/)
+- [How my school gamed the stats](https://www.greaterwrong.com/posts/Yv9aj9bWD5H7aaDdy/how-my-school-gamed-the-stats)
 - [Facebook takes down main page of Myanmar military](https://www.reuters.com/article/us-myanmar-politics-facebook/facebook-takes-down-main-page-of-myanmar-military-idUSKBN2AL029)
-- [Boringtechnology.club](http://boringtechnology.club/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
