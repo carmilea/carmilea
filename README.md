@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Commenting vs. Making](https://chiefofstuff.substack.com/p/commenting-vs-making)
+- [Please do not put IP addresses into DNS MX records](https://blog.hboeck.de/archives/904-Please-do-not-put-IP-addresses-into-DNS-MX-records.html)
 - [Seed-stage YC startups are hiring on Y Combinator.com](https://ycombinator.com/jobs)
+- [Alice 4 FPGA Rasterizer (Open Hardware Video Card Related)](https://lkesteloot.github.io/alice/alice4/fpga-rasterizer.html)
 - [Formalising Mathematics: An Introduction](https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/)
-- [Super-efficient blockchain architecture based on FIDO keys](https://dandanua.github.io/posts/super-efficient-blockchain-architecture-based-on-fido-keys/)
-- [Show HN: CompreFace is a free and open-source face recognition software](https://github.com/exadel-inc/CompreFace)
-- [Build an SMS Forwarder with Raspberry Pi Zero W and Waveshare SIM7000E Hat](https://mete.dev/2021/02/21/build-an-sms-forwarder-with-raspberry-pi-zero-w-and-waveshare-sim7000e-hat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
