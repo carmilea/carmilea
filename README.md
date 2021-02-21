@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Diplomacy: The Board Game of the Alpha Nerds (2014)](http://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
 - [Commenting vs. Making](https://chiefofstuff.substack.com/p/commenting-vs-making)
+- [WhatsApp Reveals What Happens to Users Who Don't Agree to Privacy Policy Changes](https://www.macrumors.com/2021/02/21/whatsapp-fate-of-accounts-privacy-policy/)
+- [Online Speech Is Now an Existential Question for Tech](https://www.wsj.com/articles/online-speech-is-now-an-existential-question-for-tech-11613797254)
 - [Please do not put IP addresses into DNS MX records](https://blog.hboeck.de/archives/904-Please-do-not-put-IP-addresses-into-DNS-MX-records.html)
-- [Seed-stage YC startups are hiring on Y Combinator.com](https://ycombinator.com/jobs)
-- [Alice 4 FPGA Rasterizer (Open Hardware Video Card Related)](https://lkesteloot.github.io/alice/alice4/fpga-rasterizer.html)
-- [Formalising Mathematics: An Introduction](https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
