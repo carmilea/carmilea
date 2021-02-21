@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [28-year-old turned his college side hustle into a $1.3B startup](https://news.google.com/articles/CAIiEEvgZ9Tq-nl7jnQp3XevpmkqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen)
+- [Who Is Still Buying VHS Tapes?](https://www.nytimes.com/2021/02/20/style/vhs-tapes.html)
+- [Linux and Penguin Logo (1996)](https://lkml.org/lkml/1996/5/12/136)
 - [Modern software controls dependencies because it helps software authors](https://utcc.utoronto.ca/~cks/space/blog/tech/BundlingHelpsSoftwareAuthors)
 - [Second Citizenships, Residencies, and/or Temporary Relocation](https://www.lesswrong.com/posts/jHnFBHrwiNb5xvLBM/second-citizenships-residencies-and-or-temporary-relocation)
 - [Find the Hard Work You're Willing to Do (2018)](http://www.cs.uni.edu/%7Ewallingf/blog/archives/monthly/2018-10.html#e2018-10-21T09_53_29.htm)
-- [OpenBSD boots multi-user on Apple M1 hardware](https://marc.info/?l=openbsd-arm&m=161386122115249&w=2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
