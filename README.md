@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Australian Facebook News Ban Isn’t About Democracy](https://jacobinmag.com/2021/02/facebook-news-corp-australia-standoff)
 - [Who Is Still Buying VHS Tapes?](https://www.nytimes.com/2021/02/20/style/vhs-tapes.html)
 - [Linux and Penguin Logo (1996)](https://lkml.org/lkml/1996/5/12/136)
 - [Modern software controls dependencies because it helps software authors](https://utcc.utoronto.ca/~cks/space/blog/tech/BundlingHelpsSoftwareAuthors)
 - [Boeing 747 loses parts after take-off from Maastricht – 2 injuries](https://www.aviation24.be/airlines/longtail-aviation/boeing-747-loses-parts-after-take-off-from-maastricht-diverts-to-liege-two-people-injured/)
+- [Find the Hard Work You're Willing to Do (2018)](http://www.cs.uni.edu/%7Ewallingf/blog/archives/monthly/2018-10.html#e2018-10-21T09_53_29.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
