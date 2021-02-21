@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When Bitcoin miners take over a town](https://www.politico.eu/article/this-is-what-happens-when-bitcoin-miners-take-over-your-town/)
+- [Find a person's profile across 350 social media sites](https://github.com/qeeqbox/social-analyzer)
 - [Silent Running: The sci-fi that predicted modern crises](https://www.bbc.com/culture/article/20210212-silent-running-the-sci-fi-that-predicted-modern-crises)
 - [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
-- [The Beirut Bank Job (2017)](https://darknetdiaries.com/episode/6/)
-- [How my school gamed the stats](https://www.greaterwrong.com/posts/Yv9aj9bWD5H7aaDdy/how-my-school-gamed-the-stats)
-- [Facebook takes down main page of Myanmar military](https://www.reuters.com/article/us-myanmar-politics-facebook/facebook-takes-down-main-page-of-myanmar-military-idUSKBN2AL029)
+- [NHS saves children’s lives with world-first ‘dead’ heart transplants](https://www.thetimes.co.uk/article/nhs-saves-childrens-lives-with-world-first-dead-heart-transplants-b0httn8lb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
