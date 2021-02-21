@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Activists Who Embrace Nuclear Power](https://www.newyorker.com/tech/annals-of-technology/the-activists-who-embrace-nuclear-power)
+- [Seed-stage YC startups are hiring on Y Combinator.com](https://ycombinator.com/jobs)
+- [Formalising Mathematics: An Introduction](https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/)
+- [Super-efficient blockchain architecture based on FIDO keys](https://dandanua.github.io/posts/super-efficient-blockchain-architecture-based-on-fido-keys/)
+- [Show HN: CompreFace is a free and open-source face recognition software](https://github.com/exadel-inc/CompreFace)
 - [Build an SMS Forwarder with Raspberry Pi Zero W and Waveshare SIM7000E Hat](https://mete.dev/2021/02/21/build-an-sms-forwarder-with-raspberry-pi-zero-w-and-waveshare-sim7000e-hat/)
-- [66% of all Tether (USDT) have been printed those last 6 months](https://coinmarketcap.com/currencies/tether/)
-- [Find a person's profile across 350 social media sites](https://github.com/qeeqbox/social-analyzer)
-- [Silent Running: The sci-fi that predicted modern crises](https://www.bbc.com/culture/article/20210212-silent-running-the-sci-fi-that-predicted-modern-crises)
 <!-- BLOG-POST-LIST:END -->
 
 ---
