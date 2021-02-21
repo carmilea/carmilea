@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Silent Running: The sci-fi that predicted modern crises](https://www.bbc.com/culture/article/20210212-silent-running-the-sci-fi-that-predicted-modern-crises)
 - [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
-- [Security Consultant Breaks into Wrong Bank](https://darknetdiaries.com/episode/6/)
+- [The Beirut Bank Job (2017)](https://darknetdiaries.com/episode/6/)
 - [Facebook takes down main page of Myanmar military](https://www.reuters.com/article/us-myanmar-politics-facebook/facebook-takes-down-main-page-of-myanmar-military-idUSKBN2AL029)
 - [Boringtechnology.club](http://boringtechnology.club/)
-- [Importance of Conceptual Integrity in System Design](https://wiki.c2.com/?ConceptualIntegrity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
