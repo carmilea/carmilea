@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When Bitcoin miners take over a town](https://www.politico.eu/article/this-is-what-happens-when-bitcoin-miners-take-over-your-town/)
+- [The Activists Who Embrace Nuclear Power](https://www.newyorker.com/tech/annals-of-technology/the-activists-who-embrace-nuclear-power)
+- [Build an SMS Forwarder with Raspberry Pi Zero W and Waveshare SIM7000E Hat](https://mete.dev/2021/02/21/build-an-sms-forwarder-with-raspberry-pi-zero-w-and-waveshare-sim7000e-hat/)
+- [66% of all Tether (USDT) have been printed those last 6 months](https://coinmarketcap.com/currencies/tether/)
 - [Find a person's profile across 350 social media sites](https://github.com/qeeqbox/social-analyzer)
 - [Silent Running: The sci-fi that predicted modern crises](https://www.bbc.com/culture/article/20210212-silent-running-the-sci-fi-that-predicted-modern-crises)
-- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
-- [NHS saves children’s lives with world-first ‘dead’ heart transplants](https://www.thetimes.co.uk/article/nhs-saves-childrens-lives-with-world-first-dead-heart-transplants-b0httn8lb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
