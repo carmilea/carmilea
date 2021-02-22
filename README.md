@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GiveCampus (YC S15) is hiring remote senior engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
+- [Gyroplane Accidents 1985-2005](https://pubmed.ncbi.nlm.nih.gov/18856189/)
 - [Mars 2020 Descent and Landing Video](https://www.youtube.com/watch?v=4czjS9h4Fpg)
 - [Gitlab 13.9 Released](https://about.gitlab.com/releases/2021/02/22/gitlab-13-9-released/)
-- [We are still using PBKDF2-SHA256](https://github.com/bitwarden/jslib/issues/52#issuecomment-783594951)
 - [It’s time to free ourselves from ‘Big Tech’ monopoly](https://azcapitoltimes.com/news/2021/02/19/its-time-to-free-ourselves-from-big-tech-monopoly/)
-- [Show HN: Note, my simple command line note taking app](https://github.com/wsw70/note)
 <!-- BLOG-POST-LIST:END -->
 
 ---
