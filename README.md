@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
+- [Intermittent fasting for the prevention of cardiovascular disease](https://www.ncbi.nlm.nih.gov/pubmed/33512717)
 - [Hitchhikers Guide to the Galaxy – 30th Anniversary Edition – Free Play Online](https://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-game-30th-anniversary-edition)
 - [Go is not an easy language](https://www.arp242.net/go-easy.html)
 - [Super Mario 64 Decompilation](https://github.com/n64decomp/sm64)
-- [2020 Industrial Capabilities Report to Congress [pdf]](https://www.businessdefense.gov/Portals/51/USA002573-20%20ICR_2020_Web.pdf)
-- [Doomsday Ships Were Ready to Ride Out Nuclear Armageddon Before Doomsday Planes](https://www.thedrive.com/the-war-zone/39301/there-were-doomsday-ships-ready-to-ride-out-nuclear-armageddon-before-there-were-doomsday-planes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
