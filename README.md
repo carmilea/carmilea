@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Living Like It's 99: No Social Media, No Smartphone](https://www.alvarez.io/posts/living-like-it-s-99/)
-- [Smarking (YC W15) Is Hiring Account and Customer Success Managers](https://jobs.lever.co/smarking/4d483469-285a-4492-bc21-28af85d2d83b)
-- [Abundant Capital](https://blog.aaronkharris.com/abundant-capital)
-- [Software Bug Keeping Hundreds of Inmates in Arizona Prisons Beyond Release Dates](https://kjzz.org/content/1660988/whistleblowers-software-bug-keeping-hundreds-inmates-arizona-prisons-beyond-release)
-- [TikTok and the Network Effects of Creativity](https://www.eugenewei.com/blog/2021/2/15/american-idle)
+- [Launch HN: Wyndly (YC W21) – Allergy relief through at-home oral drops](https://news.ycombinator.com/item?id=26227807)
+- [A quarter of the known bee species have not been sighted since 1990](https://www.nationalgeographic.com/animals/article/we-havent-seen-quarter-of-known-bee-species-since-1990s)
+- [30K Macs are infected with ‘Silver Sparrow’ virus and no one knows why](https://www.macworld.com/article/3608621/30k-macs-are-infected-with-silver-sparrow-virus-and-no-one-knows-why.html)
+- [Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
+- [Unsuck-It](http://unsuck-it.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
