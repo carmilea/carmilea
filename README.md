@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When Engineers Were Humanists](https://www.nybooks.com/articles/2021/03/11/engineers-humanists-renaissance-inventions/)
-- [Cross-Database Queries in SQLite](https://simonwillison.net/2021/Feb/21/cross-database-queries/)
-- [The Apparent Kia Ransomware Hackers Are Demanding Millions in Bitcoin](https://www.thedrive.com/tech/39309/the-apparent-hackers-behind-kias-ransomware-attack-are-demanding-millions-in-bitcoin)
-- [Replit (YC W18) is hiring to make computing more accessible](https://blog.repl.it/seriesa)
-- [An Introduction to Crystal](https://blog.oisinaylward.me/blog/crystal/)
+- [TransferWise: World, Meet Wise](https://wise.com/gb/blog/world-meet-wise)
+- [Show HN: Turn scripts into fine-tuned voices via Wiki markups](https://github.com/baxtree/wiki2ssml)
+- [Germany, once a model, is swamped like everyone else by pandemic's second wave](https://www.nytimes.com/2021/02/20/world/europe/germany-coronavirus-second-wave.html)
+- [YouTube blocked chess channel after mistaken detection of racial slurs](https://www.news18.com/news/buzz/youtube-ai-blocked-chess-channel-after-confusing-black-and-white-for-racist-slurs-3454316.html)
+- [It’s cheaper because we pass the risk on to you](https://shkspr.mobi/blog/2021/02/its-cheaper-because-we-pass-the-risk-on-to-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
