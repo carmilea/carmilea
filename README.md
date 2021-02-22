@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok and the Network Effects of Creativity](https://www.eugenewei.com/blog/2021/2/15/american-idle)
+- [Flowrite: Turn short lists of facts into well-written emails](https://www.flowrite.com/?ref=lbixer#waitlist)
+- [Best practices for REST API design (2020)](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
 - [Tree-sitter: an incremental parsing system for programming tools](https://github.com/tree-sitter/tree-sitter)
 - [Daft Punk Break Up](https://pitchfork.com/news/daft-punk-call-it-quits/)
-- [Traitor: Linux privilege escalation made easy](https://github.com/liamg/traitor)
-- [Launch HN: H3X (YC W21) – High power density electric aircraft motors](https://news.ycombinator.com/item?id=26224709)
-- [Tasks, microtasks, queues and schedules – JakeArchibald.com](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
