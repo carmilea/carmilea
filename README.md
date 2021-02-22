@@ -55,7 +55,7 @@
 - [My tutorial and take on C++20 coroutines](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [Indian Government Breached, Massive Amount of Critical Vulnerabilities](https://johnjhacking.com/blog/indian-government-breached-massive-amount-of-critical-vulnerabilities/)
-- [Hitchhikers Guide to the Galaxy – 30th Anniversary Edition – Free Play Online](https://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-game-30th-anniversary-edition)
+- [Data Immutability, Verifiability and Integrity Without the Blockchain Overhead](https://techtake.info/2021/02/16/data-immutability-verifiability-and-integrity-without-the-blockchain-overhead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
