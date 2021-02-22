@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Muppet Show: Disney+ adds content warning of negative depictions of cultures](https://www.theguardian.com/culture/2021/feb/22/the-muppet-show-episodes-given-a-content-warning-on-disney)
+- [SwiftGraphQL – A GraphQL client that lets you forget about GraphQL](http://github.com/maticzav/swift-graphql)
+- [Why Does the Pandemic Seem to Be Hitting Some Countries Harder Than Others?](https://www.newyorker.com/magazine/2021/03/01/why-does-the-pandemic-seem-to-be-hitting-some-countries-harder-than-others)
 - [Jupiter (YC S19), hyperpersonalized grocery from 2050, hiring Senior ML Engineer](https://jupiter.co/careers)
 - [Virtual passport app presents real data risk, experts warn](https://www.cbc.ca/news/canada/ottawa/passport-application-online-program-1.5920625)
 - [Twitter locks out Irish Bishop after he criticized euthanasia](https://reclaimthenet.org/twitter-locks-out-irish-bishop-after-he-criticized-euthanasia/)
-- [Jian – How the Chinese APT31 stole and used an unknown Equation Group 0-Day](https://research.checkpoint.com/2021/the-story-of-jian)
 <!-- BLOG-POST-LIST:END -->
 
 ---
