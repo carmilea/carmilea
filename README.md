@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [People with extremist views less able to do complex mental tasks](https://www.theguardian.com/science/2021/feb/22/people-with-extremist-views-less-able-to-do-complex-mental-tasks-research-suggests)
+- [The Muppet Show: Disney+ adds content warning of negative depictions of cultures](https://www.theguardian.com/culture/2021/feb/22/the-muppet-show-episodes-given-a-content-warning-on-disney)
 - [Jupiter (YC S19), hyperpersonalized grocery from 2050, hiring Senior ML Engineer](https://jupiter.co/careers)
 - [Virtual passport app presents real data risk, experts warn](https://www.cbc.ca/news/canada/ottawa/passport-application-online-program-1.5920625)
 - [Twitter locks out Irish Bishop after he criticized euthanasia](https://reclaimthenet.org/twitter-locks-out-irish-bishop-after-he-criticized-euthanasia/)
-- [MacBook Pro M1X benchmarks just leaked – and Intel should be scared](https://www.tomsguide.com/news/macbook-pro-m1x-benchmarks-just-leaked-and-intel-should-be-scared)
+- [Jian – How the Chinese APT31 stole and used an unknown Equation Group 0-Day](https://research.checkpoint.com/2021/the-story-of-jian)
 <!-- BLOG-POST-LIST:END -->
 
 ---
