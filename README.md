@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kea parrots perform domain-general statistical inference](https://www.nature.com/articles/s41467-020-14695-1)
+- [My tutorial and take on C++20 coroutines](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [Intermittent fasting for the prevention of cardiovascular disease](https://www.ncbi.nlm.nih.gov/pubmed/33512717)
+- [Indian Government Breached, Massive Amount of Critical Vulnerabilities](https://johnjhacking.com/blog/indian-government-breached-massive-amount-of-critical-vulnerabilities/)
 - [Hitchhikers Guide to the Galaxy – 30th Anniversary Edition – Free Play Online](https://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-game-30th-anniversary-edition)
-- [Go is not an easy language](https://www.arp242.net/go-easy.html)
-- [Super Mario 64 Decompilation](https://github.com/n64decomp/sm64)
 <!-- BLOG-POST-LIST:END -->
 
 ---
