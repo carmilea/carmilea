@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ethereum Isn't Fun Anymore](https://timdaub.github.io/2021/02/22/ethereum-isnt-fun-anymore/)
+- [Korean Air, Asiana to ground Boeing 777 after engine incident](http://www.koreaherald.com/view.php?ud=20210222001051)
+- [Enable hibernation when Lockdown is enabled](https://lore.kernel.org/lkml/20210220013255.1083202-1-matthewgarrett@google.com/T/#u)
 - [Kea parrots perform domain-general statistical inference](https://www.nature.com/articles/s41467-020-14695-1)
 - [My tutorial and take on C++20 coroutines](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [Indian Government Breached, Massive Amount of Critical Vulnerabilities](https://johnjhacking.com/blog/indian-government-breached-massive-amount-of-critical-vulnerabilities/)
-- [Data Immutability, Verifiability and Integrity Without the Blockchain Overhead](https://techtake.info/2021/02/16/data-immutability-verifiability-and-integrity-without-the-blockchain-overhead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
