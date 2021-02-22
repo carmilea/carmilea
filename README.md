@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Living Like It's 99: No Social Media, No Smartphone](https://www.alvarez.io/posts/living-like-it-s-99/)
+- [Smarking (YC W15) Is Hiring Account and Customer Success Managers](https://jobs.lever.co/smarking/4d483469-285a-4492-bc21-28af85d2d83b)
+- [Abundant Capital](https://blog.aaronkharris.com/abundant-capital)
+- [Software Bug Keeping Hundreds of Inmates in Arizona Prisons Beyond Release Dates](https://kjzz.org/content/1660988/whistleblowers-software-bug-keeping-hundreds-inmates-arizona-prisons-beyond-release)
 - [TikTok and the Network Effects of Creativity](https://www.eugenewei.com/blog/2021/2/15/american-idle)
-- [Flowrite: Turn short lists of facts into well-written emails](https://www.flowrite.com/?ref=lbixer#waitlist)
-- [Best practices for REST API design (2020)](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
-- [Tree-sitter: an incremental parsing system for programming tools](https://github.com/tree-sitter/tree-sitter)
-- [Daft Punk Break Up](https://pitchfork.com/news/daft-punk-call-it-quits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
