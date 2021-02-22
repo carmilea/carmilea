@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2020 Industrial Capabilities Report to Congress [pdf]](https://www.businessdefense.gov/Portals/51/USA002573-20%20ICR_2020_Web.pdf)
+- [Doomsday Ships Were Ready to Ride Out Nuclear Armageddon Before Doomsday Planes](https://www.thedrive.com/the-war-zone/39301/there-were-doomsday-ships-ready-to-ride-out-nuclear-armageddon-before-there-were-doomsday-planes)
+- [Calling for benefit–risk evaluations of Covid-19 control measures](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00193-8/fulltext)
 - [TransferWise: World, Meet Wise](https://wise.com/gb/blog/world-meet-wise)
 - [Show HN: Turn scripts into fine-tuned voices via Wiki markups](https://github.com/baxtree/wiki2ssml)
-- [Germany, once a model, is swamped like everyone else by pandemic's second wave](https://www.nytimes.com/2021/02/20/world/europe/germany-coronavirus-second-wave.html)
-- [YouTube blocked chess channel after mistaken detection of racial slurs](https://www.news18.com/news/buzz/youtube-ai-blocked-chess-channel-after-confusing-black-and-white-for-racist-slurs-3454316.html)
-- [It’s cheaper because we pass the risk on to you](https://shkspr.mobi/blog/2021/02/its-cheaper-because-we-pass-the-risk-on-to-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
