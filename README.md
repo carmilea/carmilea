@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple's SWE tech interview scope, for a junior position is hilarious](https://twitter.com/krzyzanowskim/status/1363640961318985729)
 - [Ethereum Isn't Fun Anymore](https://timdaub.github.io/2021/02/22/ethereum-isnt-fun-anymore/)
 - [Korean Air, Asiana to ground Boeing 777 after engine incident](http://www.koreaherald.com/view.php?ud=20210222001051)
 - [Enable hibernation when Lockdown is enabled](https://lore.kernel.org/lkml/20210220013255.1083202-1-matthewgarrett@google.com/T/#u)
 - [Kea parrots perform domain-general statistical inference](https://www.nature.com/articles/s41467-020-14695-1)
-- [My tutorial and take on C++20 coroutines](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
