@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SwiftGraphQL – A GraphQL client that lets you forget about GraphQL](http://github.com/maticzav/swift-graphql)
-- [Why Does the Pandemic Seem to Be Hitting Some Countries Harder Than Others?](https://www.newyorker.com/magazine/2021/03/01/why-does-the-pandemic-seem-to-be-hitting-some-countries-harder-than-others)
-- [Jupiter (YC S19), hyperpersonalized grocery from 2050, hiring Senior ML Engineer](https://jupiter.co/careers)
-- [Virtual passport app presents real data risk, experts warn](https://www.cbc.ca/news/canada/ottawa/passport-application-online-program-1.5920625)
-- [Twitter locks out Irish Bishop after he criticized euthanasia](https://reclaimthenet.org/twitter-locks-out-irish-bishop-after-he-criticized-euthanasia/)
+- [Tree-sitter: an incremental parsing system for programming tools](https://github.com/tree-sitter/tree-sitter)
+- [Daft Punk Break Up](https://pitchfork.com/news/daft-punk-call-it-quits/)
+- [Traitor: Linux privilege escalation made easy](https://github.com/liamg/traitor)
+- [Launch HN: H3X (YC W21) – High power density electric aircraft motors](https://news.ycombinator.com/item?id=26224709)
+- [Tasks, microtasks, queues and schedules – JakeArchibald.com](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
