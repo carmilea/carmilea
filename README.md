@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We are still using PBKDF2-SHA256](https://github.com/bitwarden/jslib/issues/52#issuecomment-783594951)
+- [Germans are turning down Oxford-AstraZeneca Covid vaccine](https://www.thetimes.co.uk/article/germans-are-turning-down-oxford-astrazeneca-covid-vaccine-hpvh6rh6r)
+- [It’s time to free ourselves from ‘Big Tech’ monopoly](https://azcapitoltimes.com/news/2021/02/19/its-time-to-free-ourselves-from-big-tech-monopoly/)
+- [Show HN: Note, my simple command line note taking app](https://github.com/wsw70/note)
 - [Launch HN: Wyndly (YC W21) – Allergy relief through at-home oral drops](https://news.ycombinator.com/item?id=26227807)
-- [A quarter of the known bee species have not been sighted since 1990](https://www.nationalgeographic.com/animals/article/we-havent-seen-quarter-of-known-bee-species-since-1990s)
-- [30K Macs are infected with ‘Silver Sparrow’ virus and no one knows why](https://www.macworld.com/article/3608621/30k-macs-are-infected-with-silver-sparrow-virus-and-no-one-knows-why.html)
-- [Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
-- [Unsuck-It](http://unsuck-it.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
