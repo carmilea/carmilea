@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bird watching goes both ways](https://www.altaonline.com/dispatches/a34762846/los-angeles-bird-watching-jason-g-goldman/)
 - [GiveCampus (YC S15) is hiring remote senior engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
+- [Reading Candidates’ GitHub Profiles](https://ayende.com/blog/193153-C/reading-candidates-github-profilers)
 - [Gyroplane Accidents 1985-2005](https://pubmed.ncbi.nlm.nih.gov/18856189/)
-- [Mars 2020 Descent and Landing Video](https://www.youtube.com/watch?v=4czjS9h4Fpg)
-- [Gitlab 13.9 Released](https://about.gitlab.com/releases/2021/02/22/gitlab-13-9-released/)
-- [It’s time to free ourselves from ‘Big Tech’ monopoly](https://azcapitoltimes.com/news/2021/02/19/its-time-to-free-ourselves-from-big-tech-monopoly/)
+- [India's artisanal fountain pens are making their mark](https://www.bbc.com/news/world-asia-india-55314701)
 <!-- BLOG-POST-LIST:END -->
 
 ---
