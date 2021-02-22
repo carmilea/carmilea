@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars 2020 Descent and Landing Video](https://www.youtube.com/watch?v=4czjS9h4Fpg)
+- [Gitlab 13.9 Released](https://about.gitlab.com/releases/2021/02/22/gitlab-13-9-released/)
 - [We are still using PBKDF2-SHA256](https://github.com/bitwarden/jslib/issues/52#issuecomment-783594951)
-- [Germans are turning down Oxford-AstraZeneca Covid vaccine](https://www.thetimes.co.uk/article/germans-are-turning-down-oxford-astrazeneca-covid-vaccine-hpvh6rh6r)
 - [It’s time to free ourselves from ‘Big Tech’ monopoly](https://azcapitoltimes.com/news/2021/02/19/its-time-to-free-ourselves-from-big-tech-monopoly/)
 - [Show HN: Note, my simple command line note taking app](https://github.com/wsw70/note)
-- [Launch HN: Wyndly (YC W21) – Allergy relief through at-home oral drops](https://news.ycombinator.com/item?id=26227807)
 <!-- BLOG-POST-LIST:END -->
 
 ---
