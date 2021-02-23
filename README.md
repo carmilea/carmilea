@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Guy walked around a Australia – alone and with no assistance](https://greatestadventurers.com/the-amateur-tramp-the-man-who-walked-around-a-continent/)
 - [Scientists break through the wall of sleep to the untapped world of dreams](https://beta.nsf.gov/science-matters/scientists-break-through-wall-sleep-untapped-world-dreams)
 - [EasyPost (YC S13) Is Hiring – Build an API that ships billions](https://www.easypost.com/careers)
 - [ComputeSharp, Run C# on the GPU](https://github.com/Sergio0694/ComputeSharp/tree/dev)
-- [Lucid Motors agrees to go public with $24B valuation](https://www.autonews.com/technology/lucid-motors-agrees-go-public-24-billion-valuation)
-- [Canadians derailed a train and drove it to City Hall for power after a ice storm](https://www.thedrive.com/news/39378/how-canadians-derailed-a-train-and-drove-it-to-city-hall-for-power-after-a-brutal-ice-storm)
+- [Facebook to restore news in Australia after last-minute deal with government](https://www.smh.com.au/politics/federal/government-agrees-to-last-minute-amendments-to-media-code-20210222-p574kc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
