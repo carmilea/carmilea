@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Impraise (YC S14) hiring Senior Engineer building a remote working tool for teams](https://jobs.impraise.com/o/senior-backend-developer)
+- [Doesnotexist.codes: Try to guess if code is real or GPT2-generated](https://doesnotexist.codes)
 - [IPv8: Authenticated Private P2P Communication](https://github.com/Tribler/py-ipv8)
 - [The Thousand Brains Theory of Intelligence (2019)](https://numenta.com/blog/2019/01/16/the-thousand-brains-theory-of-intelligence/)
 - [Add experimental fuzz test support for Go 1.17](https://github.com/golang/go/issues/44551)
-- [Iron Ox (YC W16) is hiring SWEs to build the next generation of farming](https://jobs.lever.co/ironox)
-- [Launch HN: GreaseBoss (YC W21) – Real-time system to manage industrial greasing](https://news.ycombinator.com/item?id=26240581)
 <!-- BLOG-POST-LIST:END -->
 
 ---
