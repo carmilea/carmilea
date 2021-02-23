@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Standard Cyborg (YC W15) is hiring a fullstack engineer](https://bookface.ycombinator.com/company/832/jobs/42281)
-- [Recreating Real-World Terrain with React, Three.js and WebGL Shaders](https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1)
-- [Samsung now updates Android for longer than Google does](https://arstechnica.com/gadgets/2021/02/samsung-now-updates-android-for-longer-than-google-does/)
-- [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
-- [Mypyc: Compile type-annotated Python to C](https://github.com/python/mypy/tree/master/mypyc)
+- [Iron Ox is hiring Sr Front end and SWEs to build the next generation of farming](https://jobs.lever.co/ironox)
+- [Launch HN: GreaseBoss (YC W21) – Lubricate with Confidence](https://news.ycombinator.com/item?id=26240581)
+- [Who cares about the Ivy League?](https://noahpinion.substack.com/p/who-cares-about-the-ivy-league)
+- [Automatio – Visual Automated Extraction Tool](https://automatio.co/)
+- [Free for Developers](https://free-for.dev/#/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
