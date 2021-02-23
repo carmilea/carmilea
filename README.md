@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [M1 Mac Users Reporting Extremely Poor Hard Drive Health Readings](https://www.iphoneincanada.ca/news/m1-mac-users-poor-ssd-health/)
+- [Architecture of the Playstation 2](https://www.copetti.org/writings/consoles/playstation-2/)
 - [I helped build ByteDance's censorship machine](https://www.protocol.com/china/i-built-bytedance-censorship-machine)
 - [Show HN: Replace printf() with cool generic print, almost like Python/JS](https://github.com/exebook/generic-print)
-- [Square buys $170M worth of bitcoins](https://www.reuters.com/article/square-results/payments-firm-square-buys-170-mln-worth-of-bitcoins-idUSL4N2KT439)
 - [Taking a Stand in the War on General-Purpose Computing](https://cheapskatesguide.org/articles/war-on-gp-computing.html)
-- [A new take on remote/hybrid standups](https://www.rally.video/post/stand-ups-suck-why-not-rally-instead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
