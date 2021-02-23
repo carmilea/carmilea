@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lucid Motors agrees to go public with $24B valuation](https://www.autonews.com/technology/lucid-motors-agrees-go-public-24-billion-valuation)
 - [Sirum (YC W15) Is Hiring Software and QA Engineers with Pharmacy Experience](https://news.ycombinator.com/item?id=26233783)
-- [Macamathehou in Lincolnshire and people named Muhammad in medieval England](https://www.caitlingreen.org/2021/01/macamathehou-in-lincolnshire.html)
-- [Forget Tesla: Millions in China are embracing tiny off-brand competitors](https://restofworld.org/2021/tesla-vs-tiny-cars/)
-- [Nintendo DS-TV-Out Restoration Project](https://lostnintendohistory.github.io/DS-TV-OUT)
-- [The Bombard Story](https://greatestadventurers.com/the-bombard-story/)
+- [Canadians Derailed a Train and Drove It to City Hall for Power After a Ice Storm](https://www.thedrive.com/news/39378/how-canadians-derailed-a-train-and-drove-it-to-city-hall-for-power-after-a-brutal-ice-storm)
+- [Booting the IBM 1401: How a 1959 punch-card computer loads a program](https://www.righto.com/2021/02/an-ibm-1401-mainframe-computer-at.html)
+- [Is soy a key driver of deforestation](https://ourworldindata.org/soy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
