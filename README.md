@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Interest Surges in Top Colleges, While Struggling Ones Scrape for Applicants](https://www.nytimes.com/2021/02/20/us/colleges-covid-applicants.html)
+- [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
+- [Mypyc: Compile type-annotated Python to C](https://github.com/python/mypy/tree/master/mypyc)
+- [Ask HN: What is a creative product you've discovered recently?](https://news.ycombinator.com/item?id=26237932)
 - [Epic will pay off class-action loot-box settlement with in-game currency](https://arstechnica.com/gaming/2021/02/epic-will-pay-off-class-action-loot-box-settlement-with-in-game-currency/)
 - [Fructose reprogrammes glutamine-dependent oxidative metabolism to support LPS](https://www.nature.com/articles/s41467-021-21461-4)
-- [Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/)
-- [Standard ECMA-4 Flow Charts, 2nd Edition (1966) [pdf]](https://www.ecma-international.org/wp-content/uploads/ECMA-4_2nd_edition_september_1966.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
