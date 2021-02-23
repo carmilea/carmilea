@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Long Blockchain Shares Delisted by SEC](https://www.bloomberg.com/news/articles/2021-02-22/long-blockchain-delisted-by-sec-after-riding-2017-s-crypto-craze)
+- [Gridcoin: An open source cryptocurrency that rewards work performed on the BOINC](https://en.wikipedia.org/wiki/Gridcoin)
+- [Mechanical Engineer to build advanced bio-automation at Volta (YC W19)](https://www.workatastartup.com/jobs/42290)
 - [I heat my home by mining crypto currencies](https://blog.haschek.at/2021/how-i-heat-my-home-by-mining.html)
 - [Guy walked around Australia – alone and with no assistance](https://greatestadventurers.com/the-amateur-tramp-the-man-who-walked-around-a-continent/)
-- [Scientists break through the wall of sleep to the untapped world of dreams](https://beta.nsf.gov/science-matters/scientists-break-through-wall-sleep-untapped-world-dreams)
-- [EasyPost (YC S13) Is Hiring – Build an API that ships billions](https://www.easypost.com/careers)
+- [Man Rewrites SNES Racing Game to Improve Its Framerate Sevenfold](https://kotaku.com/hacker-rewrites-crappy-snes-racer-to-improve-its-frame-1846328191)
 <!-- BLOG-POST-LIST:END -->
 
 ---
