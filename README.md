@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Robert’s Rules Suck: Why We Can’t Make Change Until We Change the System](https://aninjusticemag.com/roberts-rules-suck-47b689f3c48f)
-- [Amazon documents reveal company's strategy to dodge India's regulators](https://www.reuters.com/article/us-amazon-india-operation-special-report-idUSKBN2AH1HS)
+- [Another Boeing Pratt and Whitney Engine Exploded in the Netherlands](https://twitter.com/ajplus/status/1363852544003371010)
+- [Aya Neo: A New Challenger for Handheld PC Gaming](https://boilingsteam.com/aya-neo-a-new-challenger-for-handheld-pc-gaming/)
+- [TK Finance Dictionary: “SPAC”](https://taibbi.substack.com/p/financial-devils-dictionary-spac)
 - [Bird watching goes both ways](https://www.altaonline.com/dispatches/a34762846/los-angeles-bird-watching-jason-g-goldman/)
 - [GiveCampus (YC S15) is hiring remote senior engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
-- [Gyroplane Accidents 1985-2005](https://pubmed.ncbi.nlm.nih.gov/18856189/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
