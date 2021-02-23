@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Forget Tesla: Millions in China are embracing tiny off-brand competitors](https://restofworld.org/2021/tesla-vs-tiny-cars/)
 - [Nintendo DS-TV-Out Restoration Project](https://lostnintendohistory.github.io/DS-TV-OUT)
 - [The Bombard Story](https://greatestadventurers.com/the-bombard-story/)
 - [Aya Neo: A New Challenger for Handheld PC Gaming](https://boilingsteam.com/aya-neo-a-new-challenger-for-handheld-pc-gaming/)
-- [TK Finance Dictionary: “SPAC”](https://taibbi.substack.com/p/financial-devils-dictionary-spac)
 - [Bird watching goes both ways](https://www.altaonline.com/dispatches/a34762846/los-angeles-bird-watching-jason-g-goldman/)
 <!-- BLOG-POST-LIST:END -->
 
