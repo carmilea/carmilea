@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Thousand Brains Theory of Intelligence (2019)](https://numenta.com/blog/2019/01/16/the-thousand-brains-theory-of-intelligence/)
 - [Iron Ox is hiring Sr Front end and SWEs to build the next generation of farming](https://jobs.lever.co/ironox)
-- [Launch HN: GreaseBoss (YC W21) – Lubricate with Confidence](https://news.ycombinator.com/item?id=26240581)
-- [Who cares about the Ivy League?](https://noahpinion.substack.com/p/who-cares-about-the-ivy-league)
+- [Launch HN: GreaseBoss (YC W21) – Real-time system to manage industrial greasing](https://news.ycombinator.com/item?id=26240581)
 - [Automatio – Visual Automated Extraction Tool](https://automatio.co/)
 - [Free for Developers](https://free-for.dev/#/)
 <!-- BLOG-POST-LIST:END -->
