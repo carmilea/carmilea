@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Load #Avro files into #SingleStore](https://www.youtube.com/watch?v=wPj_ctZkXxE)
 - [Creating #StoredProcedures in #SingleStore](https://www.youtube.com/watch?v=mPlsw1PYaOU)
 - [#SQL #Programmability with variables in #SingleStore](https://www.youtube.com/watch?v=4rZ3yCx_rH8)
 - [Get started with #SingleStore #StoredProcedures in #Go](https://www.youtube.com/watch?v=SAyuNkMorFo)
 - [Get started with #SingleStore in #Go](https://www.youtube.com/watch?v=4gn2KfKanjQ)
-- [Get started with #SingleStore #StoredProcedures in #Ruby](https://www.youtube.com/watch?v=wI8yTP9w40M)
 <!-- YOUTUBE:END -->
 
 
