@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The next generation of VR on Playstation](https://blog.playstation.com/2021/02/23/introducing-the-next-generation-of-vr-on-playstation/#sf243317607)
-- [Indiana Bill to Let Government Steal from People Suspected of Unlawful Assembly](https://reason.com/2021/02/19/indiana-senate-civil-forfeiture-unlawful-assembly-government-property-seizure/)
-- [Firefox 86 Introduces Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/)
-- [See how 100 startups are running – MRR and Stats](https://openstartups.run)
-- [1 in 3 Americans know someone who died from Covid-19](https://www.axios.com/coronavirus-death-know-someone-263d12d2-9296-4547-8d57-e619f65d47e2.html)
+- [Interest Surges in Top Colleges, While Struggling Ones Scrape for Applicants](https://www.nytimes.com/2021/02/20/us/colleges-covid-applicants.html)
+- [Epic will pay off class-action loot-box settlement with in-game currency](https://arstechnica.com/gaming/2021/02/epic-will-pay-off-class-action-loot-box-settlement-with-in-game-currency/)
+- [Fructose reprogrammes glutamine-dependent oxidative metabolism to support LPS](https://www.nature.com/articles/s41467-021-21461-4)
+- [Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/)
+- [Standard ECMA-4 Flow Charts, 2nd Edition (1966) [pdf]](https://www.ecma-international.org/wp-content/uploads/ECMA-4_2nd_edition_september_1966.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
