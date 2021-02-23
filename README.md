@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Standard Cyborg (YC W15) is hiring a fullstack engineer](https://bookface.ycombinator.com/company/832/jobs/42281)
+- [Recreating Real-World Terrain with React, Three.js and WebGL Shaders](https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1)
+- [Samsung now updates Android for longer than Google does](https://arstechnica.com/gadgets/2021/02/samsung-now-updates-android-for-longer-than-google-does/)
 - [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
 - [Mypyc: Compile type-annotated Python to C](https://github.com/python/mypy/tree/master/mypyc)
-- [Ask HN: What is a creative product you've discovered recently?](https://news.ycombinator.com/item?id=26237932)
-- [Epic will pay off class-action loot-box settlement with in-game currency](https://arstechnica.com/gaming/2021/02/epic-will-pay-off-class-action-loot-box-settlement-with-in-game-currency/)
-- [Fructose reprogrammes glutamine-dependent oxidative metabolism to support LPS](https://www.nature.com/articles/s41467-021-21461-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
