@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sirum (YC W15) Is Hiring Software and QA Engineers with Pharmacy Experience](https://news.ycombinator.com/item?id=26233783)
 - [Macamathehou in Lincolnshire and people named Muhammad in medieval England](https://www.caitlingreen.org/2021/01/macamathehou-in-lincolnshire.html)
 - [Forget Tesla: Millions in China are embracing tiny off-brand competitors](https://restofworld.org/2021/tesla-vs-tiny-cars/)
 - [Nintendo DS-TV-Out Restoration Project](https://lostnintendohistory.github.io/DS-TV-OUT)
 - [The Bombard Story](https://greatestadventurers.com/the-bombard-story/)
-- [Aya Neo: A New Challenger for Handheld PC Gaming](https://boilingsteam.com/aya-neo-a-new-challenger-for-handheld-pc-gaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
