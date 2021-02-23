@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nextcloud Hub 21: 10x performance, whiteboard, talk, and groupware](https://nextcloud.com/blog/nextcloud-hub-21-out-with-up-to-10x-better-performance-whiteboard-and-more-collaboration-features/)
-- [NYAG Ends Virtual Currency Trading Platform Bitfinex’s Illegal Activities](https://ag.ny.gov/press-release/2021/attorney-general-james-ends-virtual-currency-trading-platform-bitfinexs-illegal?ref)
-- [Why an Animated Flying Cat with a Pop-Tart Body Sold for Almost $600k](https://www.nytimes.com/2021/02/22/business/nft-nba-top-shot-crypto.html)
-- [Gridcoin: An open source cryptocurrency that rewards work performed on the BOINC](https://en.wikipedia.org/wiki/Gridcoin)
-- [Mechanical Engineer to build advanced bio-automation at Volta (YC W19)](https://www.workatastartup.com/jobs/42290)
+- [The next generation of VR on Playstation](https://blog.playstation.com/2021/02/23/introducing-the-next-generation-of-vr-on-playstation/#sf243317607)
+- [Indiana Bill to Let Government Steal from People Suspected of Unlawful Assembly](https://reason.com/2021/02/19/indiana-senate-civil-forfeiture-unlawful-assembly-government-property-seizure/)
+- [Firefox 86 Introduces Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/)
+- [See how 100 startups are running – MRR and Stats](https://openstartups.run)
+- [1 in 3 Americans know someone who died from Covid-19](https://www.axios.com/coronavirus-death-know-someone-263d12d2-9296-4547-8d57-e619f65d47e2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
