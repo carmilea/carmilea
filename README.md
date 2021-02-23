@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Guy walked around a Australia – alone and with no assistance](https://greatestadventurers.com/the-amateur-tramp-the-man-who-walked-around-a-continent/)
+- [Long Blockchain Shares Delisted by SEC](https://www.bloomberg.com/news/articles/2021-02-22/long-blockchain-delisted-by-sec-after-riding-2017-s-crypto-craze)
+- [I heat my home by mining crypto currencies](https://blog.haschek.at/2021/how-i-heat-my-home-by-mining.html)
+- [Guy walked around Australia – alone and with no assistance](https://greatestadventurers.com/the-amateur-tramp-the-man-who-walked-around-a-continent/)
 - [Scientists break through the wall of sleep to the untapped world of dreams](https://beta.nsf.gov/science-matters/scientists-break-through-wall-sleep-untapped-world-dreams)
 - [EasyPost (YC S13) Is Hiring – Build an API that ships billions](https://www.easypost.com/careers)
-- [ComputeSharp, Run C# on the GPU](https://github.com/Sergio0694/ComputeSharp/tree/dev)
-- [Facebook to restore news in Australia after last-minute deal with government](https://www.smh.com.au/politics/federal/government-agrees-to-last-minute-amendments-to-media-code-20210222-p574kc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
