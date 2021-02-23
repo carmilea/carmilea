@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Another Boeing Pratt and Whitney Engine Exploded in the Netherlands](https://twitter.com/ajplus/status/1363852544003371010)
+- [Nintendo DS-TV-Out Restoration Project](https://lostnintendohistory.github.io/DS-TV-OUT)
+- [The Bombard Story](https://greatestadventurers.com/the-bombard-story/)
 - [Aya Neo: A New Challenger for Handheld PC Gaming](https://boilingsteam.com/aya-neo-a-new-challenger-for-handheld-pc-gaming/)
 - [TK Finance Dictionary: “SPAC”](https://taibbi.substack.com/p/financial-devils-dictionary-spac)
 - [Bird watching goes both ways](https://www.altaonline.com/dispatches/a34762846/los-angeles-bird-watching-jason-g-goldman/)
-- [GiveCampus (YC S15) is hiring remote senior engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
