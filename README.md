@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
 - [ComputeSharp, Run C# on the GPU](https://github.com/Sergio0694/ComputeSharp/tree/dev)
-- [Facebook to restore news pages in Australia](https://www.bbc.com/news/world-australia-56165015)
 - [Facebook to restore news in Australia after last-minute deal with government](https://www.smh.com.au/politics/federal/government-agrees-to-last-minute-amendments-to-media-code-20210222-p574kc.html)
 - [Lucid Motors agrees to go public with $24B valuation](https://www.autonews.com/technology/lucid-motors-agrees-go-public-24-billion-valuation)
+- [Canadians derailed a train and drove it to City Hall for power after a ice storm](https://www.thedrive.com/news/39378/how-canadians-derailed-a-train-and-drove-it-to-city-hall-for-power-after-a-brutal-ice-storm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
