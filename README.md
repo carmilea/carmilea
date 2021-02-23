@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lucid Motors agrees to go public with $24B valuation](https://www.autonews.com/technology/lucid-motors-agrees-go-public-24-billion-valuation)
+- [Facebook to restore news pages in Australia](https://www.bbc.com/news/world-australia-56165015)
+- [Facebook to restore news in Australia after last-minute deal with government](https://www.smh.com.au/politics/federal/government-agrees-to-last-minute-amendments-to-media-code-20210222-p574kc.html)
+- [Announcing Skittish](https://waxy.org/2021/02/announcing-skittish/)
 - [Sirum (YC W15) Is Hiring Software and QA Engineers with Pharmacy Experience](https://news.ycombinator.com/item?id=26233783)
 - [Canadians Derailed a Train and Drove It to City Hall for Power After a Ice Storm](https://www.thedrive.com/news/39378/how-canadians-derailed-a-train-and-drove-it-to-city-hall-for-power-after-a-brutal-ice-storm)
-- [Booting the IBM 1401: How a 1959 punch-card computer loads a program](https://www.righto.com/2021/02/an-ibm-1401-mainframe-computer-at.html)
-- [Is soy a key driver of deforestation](https://ourworldindata.org/soy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
