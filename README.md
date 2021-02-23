@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Impraise (YC S14) hiring Senior Engineer building a remote working tool for teams](https://jobs.impraise.com/o/senior-backend-developer)
-- [Doesnotexist.codes: Try to guess if code is real or GPT2-generated](https://doesnotexist.codes)
-- [IPv8: Authenticated Private P2P Communication](https://github.com/Tribler/py-ipv8)
-- [The Thousand Brains Theory of Intelligence (2019)](https://numenta.com/blog/2019/01/16/the-thousand-brains-theory-of-intelligence/)
-- [Add experimental fuzz test support for Go 1.17](https://github.com/golang/go/issues/44551)
+- [I helped build ByteDance's censorship machine](https://www.protocol.com/china/i-built-bytedance-censorship-machine)
+- [Show HN: Replace printf() with cool generic print, almost like Python/JS](https://github.com/exebook/generic-print)
+- [Square buys $170M worth of bitcoins](https://www.reuters.com/article/square-results/payments-firm-square-buys-170-mln-worth-of-bitcoins-idUSL4N2KT439)
+- [Taking a Stand in the War on General-Purpose Computing](https://cheapskatesguide.org/articles/war-on-gp-computing.html)
+- [A new take on remote/hybrid standups](https://www.rally.video/post/stand-ups-suck-why-not-rally-instead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
