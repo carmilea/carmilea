@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nextcloud Hub 21: 10x performance, whiteboard, talk, and groupware](https://nextcloud.com/blog/nextcloud-hub-21-out-with-up-to-10x-better-performance-whiteboard-and-more-collaboration-features/)
+- [NYAG Ends Virtual Currency Trading Platform Bitfinex’s Illegal Activities](https://ag.ny.gov/press-release/2021/attorney-general-james-ends-virtual-currency-trading-platform-bitfinexs-illegal?ref)
+- [Why an Animated Flying Cat with a Pop-Tart Body Sold for Almost $600k](https://www.nytimes.com/2021/02/22/business/nft-nba-top-shot-crypto.html)
 - [Gridcoin: An open source cryptocurrency that rewards work performed on the BOINC](https://en.wikipedia.org/wiki/Gridcoin)
 - [Mechanical Engineer to build advanced bio-automation at Volta (YC W19)](https://www.workatastartup.com/jobs/42290)
-- [I heat my home by mining crypto currencies](https://blog.haschek.at/2021/how-i-heat-my-home-by-mining.html)
-- [Guy walked around Australia – alone and with no assistance](https://greatestadventurers.com/the-amateur-tramp-the-man-who-walked-around-a-continent/)
-- [Man Rewrites SNES Racing Game to Improve Its Framerate Sevenfold](https://kotaku.com/hacker-rewrites-crappy-snes-racer-to-improve-its-frame-1846328191)
 <!-- BLOG-POST-LIST:END -->
 
 ---
