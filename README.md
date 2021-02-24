@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [California’s coronavirus strain looks increasingly dangerous](https://www.sandiegouniontribune.com/news/science/story/2021-02-23/california-homegrown-coronavirus-strain-looks-increasingly-transmissible-and-dangerous)
 - [The grisly trials that gave poison to prisoners](https://www.nature.com/articles/d41586-021-00077-0)
-- [LinkedIn is building a gig marketplace, taking on UpWork and Fiverr](https://aimgroup.com/2021/02/22/linkedin-building-gig-marketplace/)
+- [LinkedIn is building a gig marketplace](https://aimgroup.com/2021/02/22/linkedin-building-gig-marketplace/)
 - [RaSCSI: A virtual SCSI device emulator that runs on a Raspberry Pi](https://github.com/akuker/RASCSI/wiki)
 - [Modules, Monoliths, and Microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/)
 <!-- BLOG-POST-LIST:END -->
