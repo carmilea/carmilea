@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas Electric Bills Were $28B Higher Under Deregulation](https://www.wsj.com/articles/texas-electric-bills-were-28-billion-higher-under-deregulation-11614162780)
-- [We trademark Open Source software and you should too](https://lightmeter.io/why-trademark-open-source-software/)
+- [Hackers Tied to Russia's GRU Targeted the US Grid for Years, Researchers Warn](https://www.wired.com/story/russia-gru-hackers-us-grid/)
+- [AROS is a lightweight, efficient, and flexible desktop operating system](http://www.aros.org/)
+- [Why trademark Open Source software](https://lightmeter.io/why-trademark-open-source-software/)
 - [Is the Western way of raising kids weird?](https://www.bbc.com/future/article/20210222-the-unusual-ways-western-parents-raise-children)
 - [Streak (YC S11) hiring to build spreadsheets in email (remote/react/TypeScript)](https://www.streak.com/careers/product-engineer)
-- [Cloud-Making Aerosol Could Devastate Polar Sea Ice](https://www.quantamagazine.org/cloud-making-aerosol-could-devastate-polar-sea-ice-20210223/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
