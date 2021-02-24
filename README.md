@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On Writing More](https://ava.substack.com/p/on-writing-more)
+- [Avoid Contentious Terms](https://www.jefftk.com/p/avoid-contentious-terms)
 - [Fry's Electronics is closing all stores](https://twitter.com/bill0004/status/1364407906192424964)
-- [“But How Do I Start?” Making Games on Your Own as an Engineer](https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/)
+- [Making Games on Your Own as an Engineer](https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/)
 - [FAA Statement on Pratt and Whitney Engine Emergency Airworthiness Directive](https://www.faa.gov/news/updates/?newsId=96858)
-- [Building an E-Ink Laptop](https://alexsoto.dev/building-an-e-ink-laptop.html)
-- [Logarithmic Maps of the Universe](https://www.astro.princeton.edu/universe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
