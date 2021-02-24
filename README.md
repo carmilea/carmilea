@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Resolved: DNSSEC records still not passed to applications](https://github.com/systemd/systemd/issues/18714)
 - [On Writing More](https://ava.substack.com/p/on-writing-more)
 - [Avoid Contentious Terms](https://www.jefftk.com/p/avoid-contentious-terms)
 - [Fry's Electronics is closing all stores](https://twitter.com/bill0004/status/1364407906192424964)
-- [Making Games on Your Own as an Engineer](https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/)
-- [FAA Statement on Pratt and Whitney Engine Emergency Airworthiness Directive](https://www.faa.gov/news/updates/?newsId=96858)
+- [USPS Selects Oshkosh Defense for Next Generation Delivery Vehicle Fleet](https://oshkoshcorp.com/en/news/2-23-21-usps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
