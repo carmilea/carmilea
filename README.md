@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Milk Video (YC W21) – Edit online event recordings quickly](https://news.ycombinator.com/item?id=26251322)
-- [F-35 Has Failed](https://www.forbes.com/sites/davidaxe/2021/02/23/the-us-air-force-just-admitted-the-f-35-stealth-fighter-has-failed/)
-- [Fewer guns, less crime: Evidence from Brazil](https://academic.oup.com/economicpolicy/advance-article-abstract/doi/10.1093/epolic/eiab005/6128503)
-- [California can enforce net neutrality law, judge rules in loss for ISPs](https://arstechnica.com/tech-policy/2021/02/california-can-enforce-net-neutrality-law-judge-rules-in-loss-for-isps/)
-- [Hair today, gone tomorrow no more](https://www.japantimes.co.jp/news/2021/02/14/national/hair-loss-researchers/)
+- [GhostWriter is a distraction free Markdown editor](https://wereturtle.github.io/ghostwriter/)
+- [ContentFly (YC W21) Is Hiring a Head of Sales](https://contentfly.homerun.co/head-of-sales/en)
+- [Google Cloud vs. AWS Onboarding Comparison](https://www.kevinslin.com/notes/ebd7fd65-988f-422a-93f5-b1fe5c3f29ce.html)
+- [Berkeley ends 100-year-old, mandatory single-family zoning policy](https://www.ktvu.com/news/berkeley-ends-more-than-100-year-old-single-family-zoning-policy)
+- [Decades-Long Quest Reveals Details of the Proton’s Inner Antimatter](https://www.quantamagazine.org/protons-antimatter-revealed-by-decades-old-experiment-20210224/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
