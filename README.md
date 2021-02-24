@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [17 year old Firefox feature request fixed](https://bugzilla.mozilla.org/show_bug.cgi?id=259640)
+- [US central bank payment system down for 'hours'](https://www.bbc.com/news/business-56186658)
+- [GameStop shares soar more than 100% amid executive shuffle](https://www.cnbc.com/2021/02/24/gamestop-shares-soar-more-than-80percent-in-late-afternoon-trading.html)
 - [Relationship Hero (YC S17) Is Hiring Relationship Coaches – Full Time (Remote)](https://news.ycombinator.com/item?id=26255829)
-- [The Parachute Message](https://github.com/tanyafish/parachute)
-- [Firefox Release Includes Total Cookie Protection and Multiple Picture-in-Picture](https://blog.mozilla.org/blog/2021/02/23/latest-firefox-release-includes-multiple-picture-in-picture-and-total-cookie-protection/)
-- [Sponsored Top Sites](https://support.mozilla.org/en-US/kb/sponsor-privacy?as=u&utm_source=inproduct)
-- [GitHub with degraded performance for Git Operations](https://www.githubstatus.com/incidents/cbphcjkww9r2)
+- [DALL-E Paper and Code](https://github.com/openai/DALL-E)
 <!-- BLOG-POST-LIST:END -->
 
 ---
