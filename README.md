@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackers Tied to Russia's GRU Targeted the US Grid for Years, Researchers Warn](https://www.wired.com/story/russia-gru-hackers-us-grid/)
-- [AROS is a lightweight, efficient, and flexible desktop operating system](http://www.aros.org/)
-- [Why trademark Open Source software](https://lightmeter.io/why-trademark-open-source-software/)
-- [Is the Western way of raising kids weird?](https://www.bbc.com/future/article/20210222-the-unusual-ways-western-parents-raise-children)
-- [Streak (YC S11) hiring to build spreadsheets in email (remote/react/TypeScript)](https://www.streak.com/careers/product-engineer)
+- [Launch HN: Milk Video (YC W21) – Edit online event recordings quickly](https://news.ycombinator.com/item?id=26251322)
+- [F-35 Has Failed](https://www.forbes.com/sites/davidaxe/2021/02/23/the-us-air-force-just-admitted-the-f-35-stealth-fighter-has-failed/)
+- [Fewer guns, less crime: Evidence from Brazil](https://academic.oup.com/economicpolicy/advance-article-abstract/doi/10.1093/epolic/eiab005/6128503)
+- [California can enforce net neutrality law, judge rules in loss for ISPs](https://arstechnica.com/tech-policy/2021/02/california-can-enforce-net-neutrality-law-judge-rules-in-loss-for-isps/)
+- [Hair today, gone tomorrow no more](https://www.japantimes.co.jp/news/2021/02/14/national/hair-loss-researchers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
