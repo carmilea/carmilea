@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fry's Electronics is closing all stores](https://twitter.com/bill0004/status/1364407906192424964)
+- [“But How Do I Start?” Making Games on Your Own as an Engineer](https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/)
 - [FAA Statement on Pratt and Whitney Engine Emergency Airworthiness Directive](https://www.faa.gov/news/updates/?newsId=96858)
 - [Building an E-Ink Laptop](https://alexsoto.dev/building-an-e-ink-laptop.html)
 - [Logarithmic Maps of the Universe](https://www.astro.princeton.edu/universe/)
-- [American Airlines Confirms: UFO Contact over New Mexico on Sunday](https://viewfromthewing.com/american-airlines-pilot-reported-ufo-contact-over-new-mexico-on-sunday/)
-- [M1 Mac owners are experiencing high SSD writes over short periods of time](https://linustechtips.com/topic/1306757-m1-mac-owners-are-experiencing-extremely-high-ssd-writes-over-short-periods-of-time-likely-thanks-to-aggressive-swap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
