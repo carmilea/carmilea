@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Streak (YC S11) hiring to build spreadsheets in email (remote/react/TypeScript)](https://www.streak.com/careers/product-engineer)
+- [Cloud-Making Aerosol Could Devastate Polar Sea Ice](https://www.quantamagazine.org/cloud-making-aerosol-could-devastate-polar-sea-ice-20210223/)
+- [Enabling Rich Statistical Analyses with Differential Privacy](https://www.nist.gov/blogs/cybersecurity-insights/workloads-counting-queries-enabling-rich-statistical-analyses)
 - [State Partitioning](https://hacks.mozilla.org/2021/02/introducing-state-partitioning/)
-- [Show HN: I built a cute, little isometric block stacking editor in QML](https://www.kdab.com/3d-block-building-game/)
-- [Nim versions 1.4.4 and 1.2.10](https://nim-lang.org/blog/2021/02/23/versions-144-and-1210-released.html)
-- [Launch HN: Weweb.io (YC W21) – Create websites visually using JAMstack tools](https://news.ycombinator.com/item?id=26248123)
-- [Common asthma drug cuts Covid-19 hospitalization, recovery time – Oxford study](https://www.reuters.com/article/uk-health-coronavirus-asthma-treatment-idUKKBN2A92L0)
+- [The Trouble with Cassandra: Why It's a Poor Choice for Object Store Metadata DB](https://blog.min.io/the-trouble-with-cassandra-based-object-stores/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
