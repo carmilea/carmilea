@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California’s coronavirus strain looks increasingly dangerous](https://www.sandiegouniontribune.com/news/science/story/2021-02-23/california-homegrown-coronavirus-strain-looks-increasingly-transmissible-and-dangerous)
+- [Nim versions 1.4.4 and 1.2.10 released](https://nim-lang.org/blog/2021/02/23/versions-144-and-1210-released.html)
+- [Launch HN: Weweb.io (YC W21) – Create websites visually using JAMstack tools](https://news.ycombinator.com/item?id=26248123)
+- [Common asthma drug cuts Covid-19 hospitalization, recovery time – Oxford study](https://www.reuters.com/article/uk-health-coronavirus-asthma-treatment-idUKKBN2A92L0)
+- [BBC Micro at 40: How it inspired a generation of coders](https://www.bbc.co.uk/news/technology-56098808)
 - [The grisly trials that gave poison to prisoners](https://www.nature.com/articles/d41586-021-00077-0)
-- [LinkedIn is building a gig marketplace](https://aimgroup.com/2021/02/22/linkedin-building-gig-marketplace/)
-- [RaSCSI: A virtual SCSI device emulator that runs on a Raspberry Pi](https://github.com/akuker/RASCSI/wiki)
-- [Modules, Monoliths, and Microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
