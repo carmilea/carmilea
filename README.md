@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Relationship Hero (YC S17) Is Hiring Relationship Coaches – Full Time (Remote)](https://news.ycombinator.com/item?id=26255829)
 - [The Parachute Message](https://github.com/tanyafish/parachute)
 - [Firefox Release Includes Total Cookie Protection and Multiple Picture-in-Picture](https://blog.mozilla.org/blog/2021/02/23/latest-firefox-release-includes-multiple-picture-in-picture-and-total-cookie-protection/)
-- [When should my startup prioritize infosec?](https://blog.goldfiglabs.com/2021/02/23/when-should-my.html)
 - [Sponsored Top Sites](https://support.mozilla.org/en-US/kb/sponsor-privacy?as=u&utm_source=inproduct)
 - [GitHub with degraded performance for Git Operations](https://www.githubstatus.com/incidents/cbphcjkww9r2)
 <!-- BLOG-POST-LIST:END -->
