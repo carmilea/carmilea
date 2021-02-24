@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [GhostWriter is a distraction free Markdown editor](https://wereturtle.github.io/ghostwriter/)
+- [Stop Using Icon Fonts](https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts)
 - [ContentFly (YC W21) Is Hiring a Head of Sales](https://contentfly.homerun.co/head-of-sales/en)
 - [Google Cloud vs. AWS Onboarding Comparison](https://www.kevinslin.com/notes/ebd7fd65-988f-422a-93f5-b1fe5c3f29ce.html)
 - [Berkeley ends 100-year-old, mandatory single-family zoning policy](https://www.ktvu.com/news/berkeley-ends-more-than-100-year-old-single-family-zoning-policy)
-- [Decades-Long Quest Reveals Details of the Proton’s Inner Antimatter](https://www.quantamagazine.org/protons-antimatter-revealed-by-decades-old-experiment-20210224/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
