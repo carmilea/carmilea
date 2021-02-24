@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada's parliament votes to label China's persecution of Uighurs as genocide](https://www.cbc.ca/news/politics/uighur-genocide-motion-vote-1.5922711)
+- [Rust for web development: 2 years later](https://kerkour.com/blog/rust-for-web-development-2-years-later)
+- [Show HN: I wrote a book about using data science to solve “everyday” problems](https://andrewnc.github.io/blog/everyday_data_science.html)
 - [GhostWriter is a distraction free Markdown editor](https://wereturtle.github.io/ghostwriter/)
 - [Stop Using Icon Fonts](https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts)
-- [ContentFly (YC W21) Is Hiring a Head of Sales](https://contentfly.homerun.co/head-of-sales/en)
-- [Google Cloud vs. AWS Onboarding Comparison](https://www.kevinslin.com/notes/ebd7fd65-988f-422a-93f5-b1fe5c3f29ce.html)
-- [Berkeley ends 100-year-old, mandatory single-family zoning policy](https://www.ktvu.com/news/berkeley-ends-more-than-100-year-old-single-family-zoning-policy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
