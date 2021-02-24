@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canada's parliament votes to label China's persecution of Uighurs as genocide](https://www.cbc.ca/news/politics/uighur-genocide-motion-vote-1.5922711)
-- [Rust for web development: 2 years later](https://kerkour.com/blog/rust-for-web-development-2-years-later)
-- [Show HN: I wrote a book about using data science to solve “everyday” problems](https://andrewnc.github.io/blog/everyday_data_science.html)
-- [GhostWriter is a distraction free Markdown editor](https://wereturtle.github.io/ghostwriter/)
-- [Stop Using Icon Fonts](https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts)
+- [The Parachute Message](https://github.com/tanyafish/parachute)
+- [Firefox Release Includes Total Cookie Protection and Multiple Picture-in-Picture](https://blog.mozilla.org/blog/2021/02/23/latest-firefox-release-includes-multiple-picture-in-picture-and-total-cookie-protection/)
+- [When should my startup prioritize infosec?](https://blog.goldfiglabs.com/2021/02/23/when-should-my.html)
+- [Sponsored Top Sites](https://support.mozilla.org/en-US/kb/sponsor-privacy?as=u&utm_source=inproduct)
+- [GitHub with degraded performance for Git Operations](https://www.githubstatus.com/incidents/cbphcjkww9r2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
