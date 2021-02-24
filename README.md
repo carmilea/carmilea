@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chicago Faces 135% Incr in Carjackings So Legislator Seeks to Ban GTA](https://jonathanturley.org/2021/02/23/chicago-faces-135-increase-in-carjackings-so-legislator-seeks-to-ban-grand-theft-auto/)
+- [USPS Awards Contract to Modernize Postal Delivery Vehicle Fleet](https://about.usps.com/newsroom/national-releases/2021/0223-multi-billion-dollar-modernization-of-postal-delivery-vehicle-fleet.htm)
+- [Palantir: NHS faces legal action over data firm contract](https://www.bbc.com/news/technology-56183785)
+- [Show HN: Horcrux, a Playground for Shamir Secret Sharing](https://francoisbest.com/horcrux)
 - [17 year old Firefox feature request fixed](https://bugzilla.mozilla.org/show_bug.cgi?id=259640)
-- [US central bank payment system down for 'hours'](https://www.bbc.com/news/business-56186658)
-- [GameStop shares soar more than 100% amid executive shuffle](https://www.cnbc.com/2021/02/24/gamestop-shares-soar-more-than-80percent-in-late-afternoon-trading.html)
-- [Relationship Hero (YC S17) Is Hiring Relationship Coaches – Full Time (Remote)](https://news.ycombinator.com/item?id=26255829)
-- [DALL-E Paper and Code](https://github.com/openai/DALL-E)
 <!-- BLOG-POST-LIST:END -->
 
 ---
