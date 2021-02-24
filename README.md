@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA Statement on Pratt and Whitney Engine Emergency Airworthiness Directive](https://www.faa.gov/news/updates/?newsId=96858)
+- [Building an E-Ink Laptop](https://alexsoto.dev/building-an-e-ink-laptop.html)
 - [Logarithmic Maps of the Universe](https://www.astro.princeton.edu/universe/)
 - [American Airlines Confirms: UFO Contact over New Mexico on Sunday](https://viewfromthewing.com/american-airlines-pilot-reported-ufo-contact-over-new-mexico-on-sunday/)
 - [M1 Mac owners are experiencing high SSD writes over short periods of time](https://linustechtips.com/topic/1306757-m1-mac-owners-are-experiencing-extremely-high-ssd-writes-over-short-periods-of-time-likely-thanks-to-aggressive-swap/)
-- [Architecture of the Playstation 2](https://www.copetti.org/writings/consoles/playstation-2/)
-- [Show HN: Replace printf() with cool generic print, almost like Python/JS](https://github.com/exebook/generic-print)
 <!-- BLOG-POST-LIST:END -->
 
 ---
