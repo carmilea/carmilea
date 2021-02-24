@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [M1 Mac Users Reporting Extremely Poor Hard Drive Health Readings](https://www.iphoneincanada.ca/news/m1-mac-users-poor-ssd-health/)
+- [GameStop, Bitcoin and the Commoditization of Populist Rage](https://www.stephendiehl.com/blog/gamestop.html)
+- [M1 Mac owners are experiencing high SSD writes over short periods of time](https://linustechtips.com/topic/1306757-m1-mac-owners-are-experiencing-extremely-high-ssd-writes-over-short-periods-of-time-likely-thanks-to-aggressive-swap/)
 - [Architecture of the Playstation 2](https://www.copetti.org/writings/consoles/playstation-2/)
-- [I helped build ByteDance's censorship machine](https://www.protocol.com/china/i-built-bytedance-censorship-machine)
 - [Show HN: Replace printf() with cool generic print, almost like Python/JS](https://github.com/exebook/generic-print)
 - [Taking a Stand in the War on General-Purpose Computing](https://cheapskatesguide.org/articles/war-on-gp-computing.html)
 <!-- BLOG-POST-LIST:END -->
