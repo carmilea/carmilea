@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Texas Electric Bills Were $28B Higher Under Deregulation](https://www.wsj.com/articles/texas-electric-bills-were-28-billion-higher-under-deregulation-11614162780)
+- [We trademark Open Source software and you should too](https://lightmeter.io/why-trademark-open-source-software/)
+- [Is the Western way of raising kids weird?](https://www.bbc.com/future/article/20210222-the-unusual-ways-western-parents-raise-children)
 - [Streak (YC S11) hiring to build spreadsheets in email (remote/react/TypeScript)](https://www.streak.com/careers/product-engineer)
 - [Cloud-Making Aerosol Could Devastate Polar Sea Ice](https://www.quantamagazine.org/cloud-making-aerosol-could-devastate-polar-sea-ice-20210223/)
-- [Enabling Rich Statistical Analyses with Differential Privacy](https://www.nist.gov/blogs/cybersecurity-insights/workloads-counting-queries-enabling-rich-statistical-analyses)
-- [State Partitioning](https://hacks.mozilla.org/2021/02/introducing-state-partitioning/)
-- [The Trouble with Cassandra: Why It's a Poor Choice for Object Store Metadata DB](https://blog.min.io/the-trouble-with-cassandra-based-object-stores/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
