@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter removes accounts for posting “narratives that undermine faith in NATO”](https://www.reuters.com/article/idUSKBN2AN1WW)
+- [How to issue a central bank digital currency](https://www.snb.ch/en/mmr/papers/id/working_paper_2021_03)
+- [Show HN: QEMU front end for M1 and Intel Macs](https://mac.getutm.app/)
 - [Shopify says remove Stripe billing or get booted from their app store](https://news.ycombinator.com/item?id=26260174)
-- [When everyone's a genius (a few thoughts on speculation)](https://www.collaborativefund.com/blog/speculation/)
+- [When Everyone’s a Genius: A Few Thoughts on Speculation](https://www.collaborativefund.com/blog/speculation/)
 - [Erlang/OTP 24 Release Candidate 1](https://www.erlang.org/news/144)
-- [Indian Government's Volunteer Programme to Report 'Anti-National' Content](https://internetfreedom.in/cyber-volunteer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
