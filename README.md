@@ -55,7 +55,7 @@
 - [Linux Capabilities in a Nutshell](https://k3a.me/linux-capabilities-in-a-nutshell/)
 - [Static Executables with SBCL v2](https://www.timmons.dev/posts/static-executables-with-sbcl-v2.html)
 - [The Evolution of Developer Salaries: Looking Back 20 Years](https://codesubmit.io/blog/the-evolution-of-developer-salaries/#tracing-developer-salaries-in-america-from-2001-to-2019)
-- [How to issue a central bank digital currency](https://www.snb.ch/en/mmr/papers/id/working_paper_2021_03)
+- [Show HN: QEMU front end for M1 and Intel Macs](https://mac.getutm.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
