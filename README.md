@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Coinbase S-1](https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.htm)
-- [Potential Apple M1 Flaw Discovered by Hector Martin](https://twitter.com/marcan42/status/1364603530271625216)
-- [Pachyderm is hiring a Sr Python Dev to own our Jupyter Integration](https://boards.greenhouse.io/pachyderm/jobs/4281816003)
-- [SiPearl Lets Rhea Design Leak: 72x Zeus Cores, 4x HBM2E, 4-6 DDR5](https://www.anandtech.com/show/16072/sipearl-lets-rhea-design-leak-72x-zeus-cores-4x-hbm2e-46-ddr5)
-- [GNU Taler – Payment system for privacy-friendly, fast, easy online transactions](https://taler.net/en/)
+- [Will technology save us from climate change?](https://www.media.mit.edu/events/will-technology-save-us-from-climate-change/)
+- [If Aliens Exist, Here’s How We’ll Find Them](http://m.nautil.us/issue/97/wonder/if-aliens-exist-heres-how-well-find-them)
+- [Proofs Should Repair Themselves](https://galois.com/blog/2020/12/proofs-should-repair-themselves/)
+- [DigitalOcean IPO S-1](https://www.sec.gov/Archives/edgar/data/1582961/000119312521055798/d898181ds1.htm)
+- [Show HN: A command-line utility for deploying serverless applications to AWS](https://github.com/JakePartusch/serverlessui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
