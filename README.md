@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chicago Faces 135% Incr in Carjackings So Legislator Seeks to Ban GTA](https://jonathanturley.org/2021/02/23/chicago-faces-135-increase-in-carjackings-so-legislator-seeks-to-ban-grand-theft-auto/)
-- [USPS Awards Contract to Modernize Postal Delivery Vehicle Fleet](https://about.usps.com/newsroom/national-releases/2021/0223-multi-billion-dollar-modernization-of-postal-delivery-vehicle-fleet.htm)
-- [Palantir: NHS faces legal action over data firm contract](https://www.bbc.com/news/technology-56183785)
+- [Rare 'Half-male, half-female' cardinal photographed in Pennsylvania](https://www.bbc.com/news/world-us-canada-56189600)
+- [A list of open and open source 5G software projects](https://open5g.info)
+- [2D IsometricRenderer](https://github.com/Grille/2D-isometricRenderer)
 - [Show HN: Horcrux, a Playground for Shamir Secret Sharing](https://francoisbest.com/horcrux)
 - [17 year old Firefox feature request fixed](https://bugzilla.mozilla.org/show_bug.cgi?id=259640)
 <!-- BLOG-POST-LIST:END -->
