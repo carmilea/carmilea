@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why can't you get the data used to create the Consumer Price Index (CPI)?](https://news.ycombinator.com/item?id=26259279)
+- [A Guide to NFTs, and How They Are About to Revolutionize Pretty Much Everything](https://www.one37pm.com/grind/money/guide-to-nfts)
+- [Show HN: Alert yourself after a long-running task in terminal](https://gist.github.com/petethepig/2d29e8b7e2ebc808bfe760b632608966)
 - [USS Enterprise Owners' Workshop Manual](https://haynes.com/en-gb/uss-enterprise-manual)
 - [Show HN: Can’t afford Bloomberg Terminal? No prob, I built the next Best thing](https://github.com/DidierRLopes/GamestonkTerminal)
-- [Facebook says it will pay news industry $1B over 3 years](https://www.axios.com/facebook-pay-news-industry-1-billion-3-years-1155c23c-d4c6-4539-825c-25e1d6fe3536.html)
-- [Apple buys a company every three to four weeks](https://www.bbc.com/news/business-56178792)
-- [Grow the IndieWeb with Webmentions](https://amberwilson.co.uk/blog/grow-the-indieweb-with-webmentions/?mc_cid=a17a3fb8a8&mc_eid=05e6fe1e4b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
