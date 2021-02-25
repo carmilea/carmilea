@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Verbz: Voice-based messaging](https://www.verbz.ai/)
+- [First product role, directing dev of legal tech Legalist (YC S16)](https://boards.greenhouse.io/legalist/jobs/4000419004)
+- [Show HN: We’ve built a high performance electric trike from scratch](https://akotrike.com/chapter-3/)
 - [An Interview with Sci-Hub’s Alexandra Elbakyan on the Delhi HC Case](https://science.thewire.in/the-sciences/interview-alexandra-elbakyan-sci-hub-elsevier-academic-publishing-open-access/)
 - [Launch HN: Polytomic (YC W20) – Get internal data to your business teams](https://news.ycombinator.com/item?id=26264257)
-- [Scientists begin building highly accurate digital twin of our planet](https://ethz.ch/en/news-and-events/eth-news/news/2021/02/a-highly-accurate-digital-twin-of-our-planet.html)
-- [The Framework Laptop](https://frame.work/blog/introducing-the-framework-laptop)
-- [Amazon Sends ‘Vote No’ Instructions to Unionizing Employees](https://www.vice.com/en/article/3anw9k/amazon-sends-vote-no-instructions-to-unionizing-employees-tells-them-to-use-new-mailbox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
