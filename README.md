@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook says it will pay news industry $1B over 3 years](https://www.axios.com/facebook-pay-news-industry-1-billion-3-years-1155c23c-d4c6-4539-825c-25e1d6fe3536.html)
 - [Apple buys a company every three to four weeks](https://www.bbc.com/news/business-56178792)
 - [Grow the IndieWeb with Webmentions](https://amberwilson.co.uk/blog/grow-the-indieweb-with-webmentions/?mc_cid=a17a3fb8a8&mc_eid=05e6fe1e4b)
 - [rpi-open-firmware: open-source VPU side bootloader for Raspberry Pi](https://github.com/librerpi/rpi-open-firmware)
-- [“Product market fit” is a silly term for what it wants to describe](https://wor.do/blog/product-market-fit-meaning)
-- [Rare 'Half-male, half-female' cardinal photographed in Pennsylvania](https://www.bbc.com/news/world-us-canada-56189600)
+- [RFC6238 TOTP implementation in pure PostgreSQL](https://github.com/pyramation/totp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
