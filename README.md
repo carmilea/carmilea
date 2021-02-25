@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Enombic (YC S20) – Create your own stock indexes](https://news.ycombinator.com/item?id=26265872)
+- [GameStop Is Happening Again](https://www.bloomberg.com/opinion/articles/2021-02-25/gamestop-is-happening-again)
+- [New Glenn’s Progress Towards Maiden Flight](https://www.blueorigin.com/news/new-glenns-progress-towards-maiden-flight)
 - [Verbz: Voice-based messaging](https://www.verbz.ai/)
 - [First product role, directing dev of legal tech Legalist (YC S16)](https://boards.greenhouse.io/legalist/jobs/4000419004)
-- [Show HN: We’ve built a high performance electric trike from scratch](https://akotrike.com/chapter-3/)
-- [An Interview with Sci-Hub’s Alexandra Elbakyan on the Delhi HC Case](https://science.thewire.in/the-sciences/interview-alexandra-elbakyan-sci-hub-elsevier-academic-publishing-open-access/)
-- [Launch HN: Polytomic (YC W20) – Get internal data to your business teams](https://news.ycombinator.com/item?id=26264257)
 <!-- BLOG-POST-LIST:END -->
 
 ---
