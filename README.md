@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2020 Transparency Report](https://github.blog/2021-02-25-2020-transparency-report/)
-- [Our Thoughts on Bitcoin](https://www.bridgewater.com/research-and-insights/our-thoughts-on-bitcoin)
-- [The future of web software is HTML over WebSockets](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/)
-- [Launch HN: Enombic (YC S20) – Create your own stock indexes](https://news.ycombinator.com/item?id=26265872)
-- [GameStop Is Happening Again](https://www.bloomberg.com/opinion/articles/2021-02-25/gamestop-is-happening-again)
+- [Quitting Twitter](https://blog.nindalf.com/posts/quitting-twitter/)
+- [Fred Wilson: Coinbase (5/8/13)](https://www.usv.com/writing/2013/05/coinbase/)
+- [Local-First Software:You Own Your Data, in Spite of the Cloud (2019 PDF)](https://martin.kleppmann.com/papers/local-first.pdf)
+- [Spy pixels in emails have become endemic (BBC)](https://www.bbc.com/news/technology-56071437)
+- [Book Review: "This Is How They Tell Me the World Ends"](http://addxorrol.blogspot.com/2021/02/book-review-this-is-how-they-tell-me.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
