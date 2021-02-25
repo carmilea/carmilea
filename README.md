@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Italy demands €733M in fines from food delivery platforms](https://www.politico.eu/article/italy-demands-733-million-euros-in-fines-from-food-delivery-platforms/)
+- [IoTaWatt Open Source WiFi Electric Power Monitor](https://www.iotawatt.com/)
 - [The Muse (YC W12) Is Hiring a Senior Product Designer](https://jobs.lever.co/themuse/520f8e30-b219-482d-96dd-dd62ee5b8c2c?lever-origin=applied&lever-source%5B%5D=YC)
-- [Bitcoin Is Screwed](https://capocasa.net/bitcoin-is-screwed)
 - [CP/Mish is an open source sort-of-CP/M distribution for Z80](http://cowlark.com/cpmish/index.html)
 - [Quitting Twitter](https://blog.nindalf.com/posts/quitting-twitter/)
-- [Coinbase (2013)](https://www.usv.com/writing/2013/05/coinbase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
