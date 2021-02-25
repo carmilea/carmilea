@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple buys a company every three to four weeks](https://www.bbc.com/news/business-56178792)
+- [Grow the IndieWeb with Webmentions](https://amberwilson.co.uk/blog/grow-the-indieweb-with-webmentions/?mc_cid=a17a3fb8a8&mc_eid=05e6fe1e4b)
+- [rpi-open-firmware: open-source VPU side bootloader for Raspberry Pi](https://github.com/librerpi/rpi-open-firmware)
+- [“Product market fit” is a silly term for what it wants to describe](https://wor.do/blog/product-market-fit-meaning)
 - [Rare 'Half-male, half-female' cardinal photographed in Pennsylvania](https://www.bbc.com/news/world-us-canada-56189600)
-- [A list of open and open source 5G software projects](https://open5g.info)
-- [2D IsometricRenderer](https://github.com/Grille/2D-isometricRenderer)
-- [Show HN: Horcrux, a Playground for Shamir Secret Sharing](https://francoisbest.com/horcrux)
-- [17 year old Firefox feature request fixed](https://bugzilla.mozilla.org/show_bug.cgi?id=259640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
