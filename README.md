@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SiPearl Lets Rhea Design Leak: 72x Zeus Cores, 4x HBM2E, 4-6 DDR5](https://www.anandtech.com/show/16072/sipearl-lets-rhea-design-leak-72x-zeus-cores-4x-hbm2e-46-ddr5)
+- [Linux Capabilities in a Nutshell](https://k3a.me/linux-capabilities-in-a-nutshell/)
+- [Static Executables with SBCL v2](https://www.timmons.dev/posts/static-executables-with-sbcl-v2.html)
 - [The Evolution of Developer Salaries: Looking Back 20 Years](https://codesubmit.io/blog/the-evolution-of-developer-salaries/#tracing-developer-salaries-in-america-from-2001-to-2019)
 - [How to issue a central bank digital currency](https://www.snb.ch/en/mmr/papers/id/working_paper_2021_03)
-- [Show HN: QEMU front end for M1 and Intel Macs](https://mac.getutm.app/)
-- [Shopify says remove Stripe billing or get booted from their app store](https://news.ycombinator.com/item?id=26260174)
-- [When Everyone’s a Genius: A Few Thoughts on Speculation](https://www.collaborativefund.com/blog/speculation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
