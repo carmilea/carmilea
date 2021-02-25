@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Interview with Sci-Hub’s Alexandra Elbakyan on the Delhi HC Case](https://science.thewire.in/the-sciences/interview-alexandra-elbakyan-sci-hub-elsevier-academic-publishing-open-access/)
+- [Launch HN: Polytomic (YC W20) – Get internal data to your business teams](https://news.ycombinator.com/item?id=26264257)
+- [Scientists begin building highly accurate digital twin of our planet](https://ethz.ch/en/news-and-events/eth-news/news/2021/02/a-highly-accurate-digital-twin-of-our-planet.html)
+- [The Framework Laptop](https://frame.work/blog/introducing-the-framework-laptop)
 - [Amazon Sends ‘Vote No’ Instructions to Unionizing Employees](https://www.vice.com/en/article/3anw9k/amazon-sends-vote-no-instructions-to-unionizing-employees-tells-them-to-use-new-mailbox)
-- [Google Analytics: Stop feeding the beast](https://casparwre.de/blog/stop-using-google-analytics/)
-- [Getting Started with AWS Amplify Flutter](https://docs.amplify.aws/start/q/integration/flutter)
-- [Plain Text Protocols](https://blainsmith.com/articles/plain-text-protocols/)
-- [A solo journey to $100k](https://draculatheme.com/pro/journey)
 <!-- BLOG-POST-LIST:END -->
 
 ---
