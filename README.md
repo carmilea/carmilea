@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shopify says remove Stripe billing or booted from their app store](https://news.ycombinator.com/item?id=26260174)
+- [Erlang/OTP 24 Release Candidate 1](https://www.erlang.org/news/144)
 - [Amazon insiders sound alarm over security](https://www.politico.eu/article/data-at-risk-amazon-security-threat/)
-- [Why can't you get the data used to create the Consumer Price Index (CPI)?](https://news.ycombinator.com/item?id=26259279)
 - [Show HN: Alert yourself after a long-running task in terminal](https://gist.github.com/petethepig/2d29e8b7e2ebc808bfe760b632608966)
 - [Show HN: Can’t afford Bloomberg Terminal? No prob, I built the next best thing](https://github.com/DidierRLopes/GamestonkTerminal)
-- [Apple buys a company every three to four weeks](https://www.bbc.com/news/business-56178792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
