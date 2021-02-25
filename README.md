@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse (YC W12) Is Hiring a Senior Product Designer](https://jobs.lever.co/themuse/520f8e30-b219-482d-96dd-dd62ee5b8c2c?lever-origin=applied&lever-source%5B%5D=YC)
+- [Bitcoin Is Screwed](https://capocasa.net/bitcoin-is-screwed)
+- [CP/Mish is an open source sort-of-CP/M distribution for Z80](http://cowlark.com/cpmish/index.html)
 - [Quitting Twitter](https://blog.nindalf.com/posts/quitting-twitter/)
-- [Fred Wilson: Coinbase (5/8/13)](https://www.usv.com/writing/2013/05/coinbase/)
-- [Local-First Software:You Own Your Data, in Spite of the Cloud (2019 PDF)](https://martin.kleppmann.com/papers/local-first.pdf)
-- [Spy pixels in emails have become endemic (BBC)](https://www.bbc.com/news/technology-56071437)
-- [Book Review: "This Is How They Tell Me the World Ends"](http://addxorrol.blogspot.com/2021/02/book-review-this-is-how-they-tell-me.html)
+- [Coinbase (2013)](https://www.usv.com/writing/2013/05/coinbase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
