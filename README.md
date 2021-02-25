@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Evolution of Developer Salaries: Looking Back 20 Years](https://codesubmit.io/blog/the-evolution-of-developer-salaries/#tracing-developer-salaries-in-america-from-2001-to-2019)
 - [How to issue a central bank digital currency](https://www.snb.ch/en/mmr/papers/id/working_paper_2021_03)
 - [Show HN: QEMU front end for M1 and Intel Macs](https://mac.getutm.app/)
 - [Shopify says remove Stripe billing or get booted from their app store](https://news.ycombinator.com/item?id=26260174)
 - [When Everyone’s a Genius: A Few Thoughts on Speculation](https://www.collaborativefund.com/blog/speculation/)
-- [Erlang/OTP 24 Release Candidate 1](https://www.erlang.org/news/144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
