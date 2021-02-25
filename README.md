@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Will technology save us from climate change?](https://www.media.mit.edu/events/will-technology-save-us-from-climate-change/)
-- [If Aliens Exist, Here’s How We’ll Find Them](http://m.nautil.us/issue/97/wonder/if-aliens-exist-heres-how-well-find-them)
-- [Proofs Should Repair Themselves](https://galois.com/blog/2020/12/proofs-should-repair-themselves/)
-- [DigitalOcean IPO S-1](https://www.sec.gov/Archives/edgar/data/1582961/000119312521055798/d898181ds1.htm)
-- [Show HN: A command-line utility for deploying serverless applications to AWS](https://github.com/JakePartusch/serverlessui)
+- [Amazon Sends ‘Vote No’ Instructions to Unionizing Employees](https://www.vice.com/en/article/3anw9k/amazon-sends-vote-no-instructions-to-unionizing-employees-tells-them-to-use-new-mailbox)
+- [Google Analytics: Stop feeding the beast](https://casparwre.de/blog/stop-using-google-analytics/)
+- [Getting Started with AWS Amplify Flutter](https://docs.amplify.aws/start/q/integration/flutter)
+- [Plain Text Protocols](https://blainsmith.com/articles/plain-text-protocols/)
+- [A solo journey to $100k](https://draculatheme.com/pro/journey)
 <!-- BLOG-POST-LIST:END -->
 
 ---
