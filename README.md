@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon insiders sound alarm over security](https://www.politico.eu/article/data-at-risk-amazon-security-threat/)
 - [Why can't you get the data used to create the Consumer Price Index (CPI)?](https://news.ycombinator.com/item?id=26259279)
-- [A Guide to NFTs, and How They Are About to Revolutionize Pretty Much Everything](https://www.one37pm.com/grind/money/guide-to-nfts)
 - [Show HN: Alert yourself after a long-running task in terminal](https://gist.github.com/petethepig/2d29e8b7e2ebc808bfe760b632608966)
-- [USS Enterprise Owners' Workshop Manual](https://haynes.com/en-gb/uss-enterprise-manual)
-- [Show HN: Can’t afford Bloomberg Terminal? No prob, I built the next Best thing](https://github.com/DidierRLopes/GamestonkTerminal)
+- [Show HN: Can’t afford Bloomberg Terminal? No prob, I built the next best thing](https://github.com/DidierRLopes/GamestonkTerminal)
+- [Apple buys a company every three to four weeks](https://www.bbc.com/news/business-56178792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
