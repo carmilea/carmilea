@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [$100M in Jobless Claims Went to Inmates](https://krebsonsecurity.com/2021/02/how-100m-in-jobless-claims-went-to-inmates/)
 - [Italy demands €733M in fines from food delivery platforms](https://www.politico.eu/article/italy-demands-733-million-euros-in-fines-from-food-delivery-platforms/)
+- [Technology Without Industry](https://geohot.github.io/blog/jekyll/update/2021/01/18/technology-without-industry.html)
 - [IoTaWatt Open Source WiFi Electric Power Monitor](https://www.iotawatt.com/)
 - [The Muse (YC W12) Is Hiring a Senior Product Designer](https://jobs.lever.co/themuse/520f8e30-b219-482d-96dd-dd62ee5b8c2c?lever-origin=applied&lever-source%5B%5D=YC)
-- [CP/Mish is an open source sort-of-CP/M distribution for Z80](http://cowlark.com/cpmish/index.html)
-- [Quitting Twitter](https://blog.nindalf.com/posts/quitting-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
