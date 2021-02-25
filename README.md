@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase S-1](https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.htm)
+- [Potential Apple M1 Flaw Discovered by Hector Martin](https://twitter.com/marcan42/status/1364603530271625216)
 - [Pachyderm is hiring a Sr Python Dev to own our Jupyter Integration](https://boards.greenhouse.io/pachyderm/jobs/4281816003)
 - [SiPearl Lets Rhea Design Leak: 72x Zeus Cores, 4x HBM2E, 4-6 DDR5](https://www.anandtech.com/show/16072/sipearl-lets-rhea-design-leak-72x-zeus-cores-4x-hbm2e-46-ddr5)
 - [GNU Taler – Payment system for privacy-friendly, fast, easy online transactions](https://taler.net/en/)
-- [Linux Capabilities in a nutshell (2019)](https://k3a.me/linux-capabilities-in-a-nutshell/)
-- [Static Executables with SBCL v2](https://www.timmons.dev/posts/static-executables-with-sbcl-v2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
