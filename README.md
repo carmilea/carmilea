@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2020 Transparency Report](https://github.blog/2021-02-25-2020-transparency-report/)
+- [Our Thoughts on Bitcoin](https://www.bridgewater.com/research-and-insights/our-thoughts-on-bitcoin)
+- [The future of web software is HTML over WebSockets](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/)
 - [Launch HN: Enombic (YC S20) – Create your own stock indexes](https://news.ycombinator.com/item?id=26265872)
 - [GameStop Is Happening Again](https://www.bloomberg.com/opinion/articles/2021-02-25/gamestop-is-happening-again)
-- [New Glenn’s Progress Towards Maiden Flight](https://www.blueorigin.com/news/new-glenns-progress-towards-maiden-flight)
-- [Verbz: Voice-based messaging](https://www.verbz.ai/)
-- [First product role, directing dev of legal tech Legalist (YC S16)](https://boards.greenhouse.io/legalist/jobs/4000419004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
