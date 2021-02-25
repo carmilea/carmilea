@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shopify says remove Stripe billing or booted from their app store](https://news.ycombinator.com/item?id=26260174)
+- [Twitter removes accounts for posting “narratives that undermine faith in NATO”](https://www.reuters.com/article/idUSKBN2AN1WW)
+- [Shopify says remove Stripe billing or get booted from their app store](https://news.ycombinator.com/item?id=26260174)
+- [When everyone's a genius (a few thoughts on speculation)](https://www.collaborativefund.com/blog/speculation/)
 - [Erlang/OTP 24 Release Candidate 1](https://www.erlang.org/news/144)
-- [Amazon insiders sound alarm over security](https://www.politico.eu/article/data-at-risk-amazon-security-threat/)
-- [Show HN: Alert yourself after a long-running task in terminal](https://gist.github.com/petethepig/2d29e8b7e2ebc808bfe760b632608966)
-- [Show HN: Can’t afford Bloomberg Terminal? No prob, I built the next best thing](https://github.com/DidierRLopes/GamestonkTerminal)
+- [Indian Government's Volunteer Programme to Report 'Anti-National' Content](https://internetfreedom.in/cyber-volunteer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
