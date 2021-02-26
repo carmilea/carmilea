@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Texas Supreme Court Justice Probes Section 230 Immunity](https://www.xbiz.com/news/257627/texas-supreme-court-justice-probes-section-230-immunity-after-fosta-sesta)
 - [Sable (YC S19) Is Hiring a Head of Growth Marketing](https://www.workatastartup.com/jobs/42331)
 - [Zine machine: a compact 3D-printed block printing press](https://hibred.pmvabf.org/zine-machine)
 - [30k Hours (2019)](https://github.com/breck7/30000hours)
 - [1k True Fans (2008)](https://kk.org/thetechnium/1000-true-fans/)
-- [The battery invented 120 years before its time](https://www.bbc.com/future/article/20210223-the-battery-invented-120-years-too-soon#:~:text=Future%20Planet&text=At%20the%20turn%20of%20the,is%20coming%20into%20its%20own.&text=Edison%20claimed%20the%20nickel%2Diron,fast%20as%20lead%2Dacid%20batteries.)
 <!-- BLOG-POST-LIST:END -->
 
 ---
