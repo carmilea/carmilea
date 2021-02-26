@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Engineering Laws Everybody Loves to Ignore](https://www.netmeister.org/blog/software-engineering-laws.html)
-- [US says Saudi prince approved Khashoggi killing](https://www.bbc.com/news/world-us-canada-56213528)
 - [Tweak: An Efficient Hex Editor](https://www.chiark.greenend.org.uk/~sgtatham/tweak/)
 - [Show HN: Hummingbard – decentralized communities built on Matrix](https://hummingbard.com/hummingbard/introducing-hummingbard)
+- [Cosmopolitan Libc: your build-once run-anywhere C library](https://justine.lol/cosmopolitan/)
 - [How Uber Deals with Large iOS App Size](https://eng.uber.com/how-uber-deals-with-large-ios-app-size/)
+- [Houdini Engine for Unreal and Unity Now Free](https://www.sidefx.com/community/houdini-engine-for-unreal-and-unity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
