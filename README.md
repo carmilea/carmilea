@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla is shifting from lithium to iron cathode on standard range car's batteries](https://twitter.com/elonmusk/status/1365055830085763081)
-- [Is Google Locking Down Chrome to Resist the Rise of Chromium Based Browsers?](https://news.itsfoss.com/is-google-locking-down-chrome/)
-- [Ask HN: Are you on a technical specialist career path, what does it look like?](https://news.ycombinator.com/item?id=26274499)
-- [Ytmdl-web – download music from YouTube with metadata](https://github.com/deepjyoti30/ytmdl-web-v2)
-- [Actually Portable Executable](https://justine.lol/ape.html)
+- [Launch HN: Insight (YC W19) – an iOS browser with easy-to-make extensions](https://news.ycombinator.com/item?id=26276179)
+- [An early look at VLC 4.0 – Hello darkness, my old friend](https://www.dedoimedo.com/computers/vlc-4-preview.html)
+- [Catalog of resources related with Oberon programming language](https://oberon.org/en)
+- [Anime is booming, so why are animators living in poverty?](https://www.nytimes.com/2021/02/24/business/japan-anime.html)
+- [Facebook Is Launching an All-Out War on Apple's Upcoming iPhone Update](https://www.npr.org/2021/02/26/971367875/why-is-facebook-launching-an-all-out-war-on-apples-upcoming-iphone-update?t=1614351654558)
 <!-- BLOG-POST-LIST:END -->
 
 ---
