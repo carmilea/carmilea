@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mighty (YC S19) is hiring engineers to make Google Chrome faster](https://www.notion.so/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
+- [Const generics MVP hits beta](https://blog.rust-lang.org/2021/02/26/const-generics-mvp-beta.html)
+- [How Korea Became a Forgotten War](https://jacobinmag.com/2021/02/korea-forgotten-war-owen-miller-north-south/)
+- [Mars Is No Earth](https://www.theatlantic.com/ideas/archive/2021/02/mars-is-no-earth/618133/)
 - [Launch HN: Insight (YC W19) – an iOS browser with easy-to-make extensions](https://news.ycombinator.com/item?id=26276179)
-- [An early look at VLC 4.0 – Hello darkness, my old friend](https://www.dedoimedo.com/computers/vlc-4-preview.html)
-- [Catalog of resources related with Oberon programming language](https://oberon.org/en)
-- [Anime is booming, so why are animators living in poverty?](https://www.nytimes.com/2021/02/24/business/japan-anime.html)
-- [Facebook Is Launching an All-Out War on Apple's Upcoming iPhone Update](https://www.npr.org/2021/02/26/971367875/why-is-facebook-launching-an-all-out-war-on-apples-upcoming-iphone-update?t=1614351654558)
 <!-- BLOG-POST-LIST:END -->
 
 ---
