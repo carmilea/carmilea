@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [$100M in Jobless Claims Went to Inmates](https://krebsonsecurity.com/2021/02/how-100m-in-jobless-claims-went-to-inmates/)
-- [Italy demands €733M in fines from food delivery platforms](https://www.politico.eu/article/italy-demands-733-million-euros-in-fines-from-food-delivery-platforms/)
+- [Zine machine: a compact 3D-printed block printing press](https://hibred.pmvabf.org/zine-machine)
+- [1k True Fans (2008)](https://kk.org/thetechnium/1000-true-fans/)
+- [The battery invented 120 years before its time](https://www.bbc.com/future/article/20210223-the-battery-invented-120-years-too-soon#:~:text=Future%20Planet&text=At%20the%20turn%20of%20the,is%20coming%20into%20its%20own.&text=Edison%20claimed%20the%20nickel%2Diron,fast%20as%20lead%2Dacid%20batteries.)
+- [Map of my personal data infrastructure](https://beepb00p.xyz/myinfra.html)
 - [Technology Without Industry](https://geohot.github.io/blog/jekyll/update/2021/01/18/technology-without-industry.html)
-- [IoTaWatt Open Source WiFi Electric Power Monitor](https://www.iotawatt.com/)
-- [The Muse (YC W12) Is Hiring a Senior Product Designer](https://jobs.lever.co/themuse/520f8e30-b219-482d-96dd-dd62ee5b8c2c?lever-origin=applied&lever-source%5B%5D=YC)
 <!-- BLOG-POST-LIST:END -->
 
 ---
