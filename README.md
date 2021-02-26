@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google admits Kubernetes container tech is too complex](https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/)
+- [AAA survey finds 86% of drivers afraid to ride in automated vehicles](https://www.8newsnow.com/news/local-news/aaa-survey-finds-86-of-drivers-afraid-to-ride-in-automated-vehicles/)
+- [Show HN: Redbean: single-file distributable web server](https://justine.lol/redbean/index.html)
 - [Sable (YC S19) Is Hiring a Head of Growth Marketing](https://www.workatastartup.com/jobs/42331)
 - [Zine machine: a compact 3D-printed block printing press](https://hibred.pmvabf.org/zine-machine)
-- [30k Hours (2019)](https://github.com/breck7/30000hours)
-- [1,000 True Fans (2008)](https://kk.org/thetechnium/1000-true-fans/)
-- [Bitcoin not for me, says ex-Microsoft chief](https://www.bbc.com/news/technology-56195869)
 <!-- BLOG-POST-LIST:END -->
 
 ---
