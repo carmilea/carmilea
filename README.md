@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What's new in Firefox for iOS (version 32)](https://support.mozilla.org/en-US/kb/whats-new-firefox-ios-version-32)
+- [Firefox for iOS 32](https://support.mozilla.org/en-US/kb/whats-new-firefox-ios-version-32)
 - [Show HN: Interactive real-time chemistry and fluids: water electrolysis](https://cselab.github.io/aphros/wasm/electrochem.html)
-- [Why is the DOS path character “\”?](https://web.archive.org/web/20100612035120/http://blogs.msdn.com/b/larryosterman/archive/2005/06/24/432386.aspx)
+- [Why is the DOS path character "\"? (2005)](https://web.archive.org/web/20100612035120/http://blogs.msdn.com/b/larryosterman/archive/2005/06/24/432386.aspx)
 - [Being on Call](https://tyler.kim/being-on-call)
 - [ISO 8601: the better date format](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
 <!-- BLOG-POST-LIST:END -->
