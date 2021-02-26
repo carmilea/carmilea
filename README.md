@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ytmdl-web – download music from YouTube with metadata](https://github.com/deepjyoti30/ytmdl-web-v2)
+- [Actually Portable Executable](https://justine.lol/ape.html)
 - [The Covid Zoom Boom Is Reshaping Sign Language](https://www.scientificamerican.com/article/the-covid-zoom-boom-is-reshaping-sign-language/)
 - [Ophelia (YC W20) is hiring a Software Engineer to help combat the opioid crisis](https://coda.io/@ryan-greenberg/software-engineering-ophelia)
-- [WhatsApp and most alternatives share the same problem](https://stuker.com/2021/whatsapp-and-most-alternatives-share-the-same-problem/)
-- [What Is Specialized Hardware and Why Open Source Will Drive Adoption](https://metal.equinix.com/blog/specialized-hardware-and-open-source/)
-- [Malaysian Grandfather Is Facing Death for Weed](https://www.vice.com/en/article/g5bexx/dr-ganja-death-penalty-weed-medical-marijuana)
+- [The Art of Reading More Effectively and Efficiently](https://aliabdaal.com/read-more-effectively/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
