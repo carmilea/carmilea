@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bill Allowing Big Tech to Form “Techno-Governments” to Be Announced Today](https://thedebrief.org/bill-allowing-big-tech-to-form-techno-governments-to-be-announced-today/)
+- [Is Google Locking Down Chrome to Resist the Rise of Chromium Based Browsers?](https://news.itsfoss.com/is-google-locking-down-chrome/)
+- [Ask HN: Are you on a technical specialist career path, what does it look like?](https://news.ycombinator.com/item?id=26274499)
 - [Ytmdl-web – download music from YouTube with metadata](https://github.com/deepjyoti30/ytmdl-web-v2)
 - [Actually Portable Executable](https://justine.lol/ape.html)
-- [The Covid Zoom Boom Is Reshaping Sign Language](https://www.scientificamerican.com/article/the-covid-zoom-boom-is-reshaping-sign-language/)
-- [Ophelia (YC W20) is hiring a Software Engineer to help combat the opioid crisis](https://coda.io/@ryan-greenberg/software-engineering-ophelia)
-- [The Art of Reading More Effectively and Efficiently](https://aliabdaal.com/read-more-effectively/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
