@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Trailofbits/graphtage: A semantic diff utility for JSON, HTML, YAML, CSV, etc.](https://github.com/trailofbits/graphtage)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [Mac finder uses 1,000,000 bytes instead of 1,048,576 bytes for file sizes (2011)](https://discussions.apple.com/thread/3440708)
-- [Show HN: Unix tool that visualizes shell commands usage](https://github.com/irevenko/tsukae)
-- [‘Deep Nostalgia’ can turn old photos of your relatives into moving videos](https://gizmodo.com/deep-nostalgia-can-turn-old-photos-of-your-relatives-1846363190)
+- [Firefox replaces Google Analytics with fake no-op in strict tracking protection](https://twitter.com/__jakub_g/status/1365400306767581185)
+- [Medical chatbot using OpenAI’s GPT-3 told a fake patient to kill themselves](https://artificialintelligence-news.com/2020/10/28/medical-chatbot-openai-gpt3-patient-kill-themselves/)
+- [Remain Calm: The fox is still in the Firefox logo](https://blog.mozilla.org/firefox/the-fox-is-still-in-the-firefox-logo/)
+- [Graphtage: A semantic diff utility for JSON, HTML, YAML, CSV, etc](https://github.com/trailofbits/graphtage)
+- [SEC suspends trading in 15 securities due to questionable social media activity](https://www.reuters.com/article/us-retail-trading-sec/u-s-sec-suspends-trading-in-15-securities-due-to-questionable-social-media-activity-idUSKBN2AQ2VZ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
