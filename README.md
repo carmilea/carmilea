@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox for iOS 32](https://support.mozilla.org/en-US/kb/whats-new-firefox-ios-version-32)
-- [Show HN: Interactive real-time chemistry and fluids: water electrolysis](https://cselab.github.io/aphros/wasm/electrochem.html)
-- [Why is the DOS path character "\"? (2005)](https://web.archive.org/web/20100612035120/http://blogs.msdn.com/b/larryosterman/archive/2005/06/24/432386.aspx)
-- [Being on Call](https://tyler.kim/being-on-call)
-- [ISO 8601: the better date format](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
+- [The Covid Zoom Boom Is Reshaping Sign Language](https://www.scientificamerican.com/article/the-covid-zoom-boom-is-reshaping-sign-language/)
+- [Ophelia (YC W20) is hiring a Software Engineer to help combat the opioid crisis](https://coda.io/@ryan-greenberg/software-engineering-ophelia)
+- [WhatsApp and most alternatives share the same problem](https://stuker.com/2021/whatsapp-and-most-alternatives-share-the-same-problem/)
+- [What Is Specialized Hardware and Why Open Source Will Drive Adoption](https://metal.equinix.com/blog/specialized-hardware-and-open-source/)
+- [Malaysian Grandfather Is Facing Death for Weed](https://www.vice.com/en/article/g5bexx/dr-ganja-death-penalty-weed-medical-marijuana)
 <!-- BLOG-POST-LIST:END -->
 
 ---
