@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bill Allowing Big Tech to Form “Techno-Governments” to Be Announced Today](https://thedebrief.org/bill-allowing-big-tech-to-form-techno-governments-to-be-announced-today/)
+- [Tesla is shifting from lithium to iron cathode on standard range car's batteries](https://twitter.com/elonmusk/status/1365055830085763081)
 - [Is Google Locking Down Chrome to Resist the Rise of Chromium Based Browsers?](https://news.itsfoss.com/is-google-locking-down-chrome/)
 - [Ask HN: Are you on a technical specialist career path, what does it look like?](https://news.ycombinator.com/item?id=26274499)
 - [Ytmdl-web – download music from YouTube with metadata](https://github.com/deepjyoti30/ytmdl-web-v2)
