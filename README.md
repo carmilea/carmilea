@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [‘Deep Nostalgia’ Can Turn Old Photos of Your Relatives into Moving Videos](https://gizmodo.com/deep-nostalgia-can-turn-old-photos-of-your-relatives-1846363190)
 - [Tweak: An Efficient Hex Editor](https://www.chiark.greenend.org.uk/~sgtatham/tweak/)
 - [Show HN: Hummingbard – decentralized communities built on Matrix](https://hummingbard.com/hummingbard/introducing-hummingbard)
 - [Cosmopolitan Libc: your build-once run-anywhere C library](https://justine.lol/cosmopolitan/)
-- [How Uber Deals with Large iOS App Size](https://eng.uber.com/how-uber-deals-with-large-ios-app-size/)
-- [Houdini Engine for Unreal and Unity Now Free](https://www.sidefx.com/community/houdini-engine-for-unreal-and-unity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
