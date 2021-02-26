@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Uber Deals with Large iOS App Size](https://eng.uber.com/how-uber-deals-with-large-ios-app-size/)
+- [Judge in Google case disturbed that even 'Incognito' users are tracked](https://www.bnnbloomberg.ca/judge-in-google-case-disturbed-that-even-incognito-users-are-tracked-1.1569065)
 - [Mighty (YC S19) is hiring engineers to make Google Chrome faster](https://www.notion.so/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
+- [Grouparoo: Declarative Data Sync](https://www.grouparoo.com/blog/declarative-data-sync)
 - [Const generics MVP hits beta](https://blog.rust-lang.org/2021/02/26/const-generics-mvp-beta.html)
-- [How Korea Became a Forgotten War](https://jacobinmag.com/2021/02/korea-forgotten-war-owen-miller-north-south/)
-- [Mars Is No Earth](https://www.theatlantic.com/ideas/archive/2021/02/mars-is-no-earth/618133/)
-- [Launch HN: Insight (YC W19) – an iOS browser with easy-to-make extensions](https://news.ycombinator.com/item?id=26276179)
 <!-- BLOG-POST-LIST:END -->
 
 ---
