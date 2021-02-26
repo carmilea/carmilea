@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Being on Call](https://tyler.kim/being-on-call)
+- [ISO 8601: the better date format](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
+- [Protest note about user privacy changes by Reddit](https://www.reddit.com/r/europe/comments/ls7ft8/protest_note_about_user_privacy_changes_by_reddit/)
 - [Etleap (YC W13) Is Hiring a Customer Success Manager](https://news.ycombinator.com/item?id=26272048)
 - [The GameStop Mess Exposes the Naked Short Selling Scam – The American Prospect](https://prospect.org/power/gamestop-mess-exposes-the-naked-short-selling-scam/)
-- [Bill Gates: Nuclear power will ‘absolutely’ be politically acceptable again](https://www.cnbc.com/2021/02/25/bill-gates-nuclear-power-will-absolutely-be-politically-acceptable.html)
-- [Intercal, YAML, and Other Horrible Programming Languages](https://blog.earthly.dev/intercal-yaml-and-other-horrible-programming-languages/)
-- [Google admits Kubernetes container tech is too complex](https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
