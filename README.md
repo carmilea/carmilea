@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trailofbits/graphtage: A semantic diff utility for JSON, HTML, YAML, CSV, etc.](https://github.com/trailofbits/graphtage)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [‘Deep Nostalgia’ Can Turn Old Photos of Your Relatives into Moving Videos](https://gizmodo.com/deep-nostalgia-can-turn-old-photos-of-your-relatives-1846363190)
-- [Tweak: An Efficient Hex Editor](https://www.chiark.greenend.org.uk/~sgtatham/tweak/)
-- [Show HN: Hummingbard – decentralized communities built on Matrix](https://hummingbard.com/hummingbard/introducing-hummingbard)
-- [Cosmopolitan Libc: your build-once run-anywhere C library](https://justine.lol/cosmopolitan/)
+- [Mac finder uses 1,000,000 bytes instead of 1,048,576 bytes for file sizes (2011)](https://discussions.apple.com/thread/3440708)
+- [Show HN: Unix tool that visualizes shell commands usage](https://github.com/irevenko/tsukae)
+- [‘Deep Nostalgia’ can turn old photos of your relatives into moving videos](https://gizmodo.com/deep-nostalgia-can-turn-old-photos-of-your-relatives-1846363190)
 <!-- BLOG-POST-LIST:END -->
 
 ---
