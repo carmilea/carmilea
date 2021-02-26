@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is the DOS path character “\”?](https://web.archive.org/web/20100612035120/http://blogs.msdn.com/b/larryosterman/archive/2005/06/24/432386.aspx)
 - [Being on Call](https://tyler.kim/being-on-call)
 - [ISO 8601: the better date format](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
 - [Protest note about user privacy changes by Reddit](https://www.reddit.com/r/europe/comments/ls7ft8/protest_note_about_user_privacy_changes_by_reddit/)
 - [Etleap (YC W13) Is Hiring a Customer Success Manager](https://news.ycombinator.com/item?id=26272048)
-- [The GameStop Mess Exposes the Naked Short Selling Scam – The American Prospect](https://prospect.org/power/gamestop-mess-exposes-the-naked-short-selling-scam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
