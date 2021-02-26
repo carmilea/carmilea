@@ -55,7 +55,7 @@
 - [Zine machine: a compact 3D-printed block printing press](https://hibred.pmvabf.org/zine-machine)
 - [30k Hours (2019)](https://github.com/breck7/30000hours)
 - [1,000 True Fans (2008)](https://kk.org/thetechnium/1000-true-fans/)
-- [Map of my personal data infrastructure](https://beepb00p.xyz/myinfra.html)
+- [Bitcoin not for me, says ex-Microsoft chief](https://www.bbc.com/news/technology-56195869)
 <!-- BLOG-POST-LIST:END -->
 
 ---
