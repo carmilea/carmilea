@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software Engineering Laws Everybody Loves to Ignore](https://www.netmeister.org/blog/software-engineering-laws.html)
+- [US says Saudi prince approved Khashoggi killing](https://www.bbc.com/news/world-us-canada-56213528)
+- [Tweak: An Efficient Hex Editor](https://www.chiark.greenend.org.uk/~sgtatham/tweak/)
+- [Show HN: Hummingbard – decentralized communities built on Matrix](https://hummingbard.com/hummingbard/introducing-hummingbard)
 - [How Uber Deals with Large iOS App Size](https://eng.uber.com/how-uber-deals-with-large-ios-app-size/)
-- [Judge in Google case disturbed that even 'Incognito' users are tracked](https://www.bnnbloomberg.ca/judge-in-google-case-disturbed-that-even-incognito-users-are-tracked-1.1569065)
-- [Mighty (YC S19) is hiring engineers to make Google Chrome faster](https://www.notion.so/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
-- [Grouparoo: Declarative Data Sync](https://www.grouparoo.com/blog/declarative-data-sync)
-- [Const generics MVP hits beta](https://blog.rust-lang.org/2021/02/26/const-generics-mvp-beta.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
