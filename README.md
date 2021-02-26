@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Etleap (YC W13) Is Hiring a Customer Success Manager](https://news.ycombinator.com/item?id=26272048)
+- [The GameStop Mess Exposes the Naked Short Selling Scam – The American Prospect](https://prospect.org/power/gamestop-mess-exposes-the-naked-short-selling-scam/)
+- [Bill Gates: Nuclear power will ‘absolutely’ be politically acceptable again](https://www.cnbc.com/2021/02/25/bill-gates-nuclear-power-will-absolutely-be-politically-acceptable.html)
+- [Intercal, YAML, and Other Horrible Programming Languages](https://blog.earthly.dev/intercal-yaml-and-other-horrible-programming-languages/)
 - [Google admits Kubernetes container tech is too complex](https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/)
-- [AAA survey finds 86% of drivers afraid to ride in automated vehicles](https://www.8newsnow.com/news/local-news/aaa-survey-finds-86-of-drivers-afraid-to-ride-in-automated-vehicles/)
-- [Show HN: Redbean: single-file distributable web server](https://justine.lol/redbean/index.html)
-- [Sable (YC S19) Is Hiring a Head of Growth Marketing](https://www.workatastartup.com/jobs/42331)
-- [Zine machine: a compact 3D-printed block printing press](https://hibred.pmvabf.org/zine-machine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
