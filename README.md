@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Issues Quality Warning for Millions of Google Photos Users](https://www.forbes.com/sites/paulmonckton/2021/02/27/google-issues-quality-warning-for-millions-of-google-photos-users/)
-- [Private contact discovery for Signal (2017)](https://signal.org/blog/private-contact-discovery/)
-- [SolarWind, enough with the password already](https://gru.gq/2021/02/28/solarwind-enough-with-the-password-already/)
-- [Crypto-Anarchism](https://en.wikipedia.org/wiki/Crypto-anarchism)
-- [The Mac price crash of 2021](https://www.zdnet.com/article/the-mac-price-crash-of-2021/)
+- [Fly.io (YC W20) Is Hiring Elixir Developer Advocates (Remote)](https://news.ycombinator.com/item?id=26288121)
+- [Massively parallel ultrafast random bit generation with a chip-scale laser](https://science.sciencemag.org/content/371/6532/948)
+- [Noweb – A Simple, Extensible Tool for Literate Programming](https://www.cs.tufts.edu/~nr/noweb/)
+- [Apple works with China but not the FBI](https://www.latimes.com/business/technology/la-fi-apple-china-20160226-story.html)
+- [Megastructures Superweapons and Global Architectures in Sci-Fi Computer Games](https://www.academia.edu/36651707/Megastructures_Superweapons_and_Global_Architectures_in_Science_Fiction_Computer_Games)
 <!-- BLOG-POST-LIST:END -->
 
 ---
