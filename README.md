@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Issues Quality Warning for Millions of Google Photos Users](https://www.forbes.com/sites/paulmonckton/2021/02/27/google-issues-quality-warning-for-millions-of-google-photos-users/)
+- [Private contact discovery for Signal (2017)](https://signal.org/blog/private-contact-discovery/)
+- [SolarWind, enough with the password already](https://gru.gq/2021/02/28/solarwind-enough-with-the-password-already/)
 - [Crypto-Anarchism](https://en.wikipedia.org/wiki/Crypto-anarchism)
 - [The Mac price crash of 2021](https://www.zdnet.com/article/the-mac-price-crash-of-2021/)
-- [Create fake phone contacts, to do data-poisoning](https://github.com/BillDietrich/fake_contacts)
-- [Not Getting Royalty Free Illustrations and Components? These Site May Help You](https://www.dev-stuff.tech/2021/02/not-getting-royalty-free-illustrations.html)
-- [Scientists Discover Target for Stroke Therapy in Blood-Brain Barrier](https://www.tus.ac.jp/en/mediarelations/archive/20210222_0902.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
