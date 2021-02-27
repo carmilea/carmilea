@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are You Trading or Gambling?](https://investinglessons.substack.com/p/are-you-trading-or-gambling)
+- [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/postgres-to-mysql-migration/)
 - [Arithmetic dynamics combines insights from number theory and dynamical systems](https://www.quantamagazine.org/with-arithmetic-dynamics-mathematicians-unlock-new-insights-20210222/)
 - [The Bupstash Garbage Collector](https://acha.ninja/blog/the_bupstash_garbage_collector/)
 - [Arrow v1.0: After 8 years, even better dates and times for Python](https://github.com/arrow-py/arrow)
-- [Griddy Is Shutting Down](https://www.griddy.com/)
-- [Bit (1.0) – a modern Git CLI in Go](https://github.com/chriswalz/bit/blob/master/README.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
