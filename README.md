@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Translating My Z3 Tutorial to Coq](https://www.philipzucker.com/translating-z3-to-coq/)
+- [As important as the Beetle? Two days with Volkswagen’s electric ID.4](https://arstechnica.com/?p=1745730)
 - [Igalia will restart their (Chrome) MathML work in Q2 2021](https://mathml.igalia.com/news/2021/02/15/mathml-plans-for-2021/#new)
 - [Fly.io (YC W20) Is Hiring Elixir Developer Advocates (Remote)](https://news.ycombinator.com/item?id=26288121)
 - [DMR's Thesis: Unpacking an Enigma](https://dmrthesis.net)
-- [Show HN: Rich Text Math Editing on the Web with Markdown and AsciiMath](https://writer.math.dev/landing.html)
-- [Massively parallel ultrafast random bit generation with a chip-scale laser](https://science.sciencemag.org/content/371/6532/948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
