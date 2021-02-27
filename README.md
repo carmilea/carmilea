@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Arithmetic dynamics combines insights from number theory and dynamical systems](https://www.quantamagazine.org/with-arithmetic-dynamics-mathematicians-unlock-new-insights-20210222/)
 - [The Bupstash Garbage Collector](https://acha.ninja/blog/the_bupstash_garbage_collector/)
-- [Arrow v1.0: After 8 years, even better dates & times for Python!](https://github.com/arrow-py/arrow)
-- [Do farmers have the right to repair their own equipment?](https://www.albertafarmexpress.ca/news/do-farmers-have-the-right-to-repair-their-own-equipment/)
+- [Arrow v1.0: After 8 years, even better dates and times for Python](https://github.com/arrow-py/arrow)
 - [Bit (1.0) – a modern Git CLI in Go](https://github.com/chriswalz/bit/blob/master/README.md)
-- [Can You Identify This Mysterious Old Writing?](https://www.wnep.com/mobile/article/news/local/wayne-county/can-you-identify-this-mysterious-old-writing/523-c317eaf7-5810-4cce-ab5f-3c669ef0ab2b)
+- [Mining Ethereum on M1 Mac GPU](https://blog.yifangu.com/2021/02/26/mining-ethereum-on-a-m1-mac-gpu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
