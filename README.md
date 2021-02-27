@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Spruce (YC W21) – OSS for User Owned and Provably Authentic Data](https://news.ycombinator.com/item?id=26285687)
+- [Making hibernation work under Linux Lockdown](https://mjg59.dreamwidth.org/55845.html)
+- [Taxing Families Like Companies](https://americancompass.org/the-commons/taxing-families-like-companies/)
 - [2020 Berkshire Hathaway Annual Letter [pdf]](https://www.berkshirehathaway.com/letters/2020ltr.pdf)
-- [Phantom Types in Gleam](https://blog.pd-andy.dev/phantom-types-in-gleam)
-- [SolarWinds CEO blames intern for password leak](https://edition.cnn.com/2021/02/26/politics/solarwinds123-password-intern/index.html)
-- [Awesome CTO](https://github.com/kuchin/awesome-cto)
-- [Berkshire Hathaway 2020 Annual report [pdf]](https://www.berkshirehathaway.com/2020ar/2020ar.pdf)
+- [Account of Ethiopian Church Massacre](https://www.cnn.com/2021/02/26/africa/ethiopia-tigray-dengelat-massacre-intl/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
