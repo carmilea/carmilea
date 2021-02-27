@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Silicon Valley Runs on Saudi](https://vicki.substack.com/p/silicon-valley-runs-on-saudi)
 - [Alternative shell with native support for JSON, YAML, TOML, CSV, etc.](https://github.com/lmorg/murex)
 - [Odeko (YC S19) Is Hiring Senior Engineers, Designers and PMs](https://angel.co/company/odeko-inc/jobs)
-- [$38M USD moved for half a penny](https://nitter.42l.fr/WhaleAlertBch/status/1365427359264956416)
 - [Are You Trading or Gambling?](https://investinglessons.substack.com/p/are-you-trading-or-gambling)
 - [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/postgres-to-mysql-migration/)
 <!-- BLOG-POST-LIST:END -->
