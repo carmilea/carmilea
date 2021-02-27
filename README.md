@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto-Anarchism](https://en.wikipedia.org/wiki/Crypto-anarchism)
+- [The Mac price crash of 2021](https://www.zdnet.com/article/the-mac-price-crash-of-2021/)
 - [Create fake phone contacts, to do data-poisoning](https://github.com/BillDietrich/fake_contacts)
-- [Jerry, Inc. (YC S17) Is Hiring Product, Engineering, Data, Content (All Levels)](https://jerry.ai/careers)
-- [A single cell slime mold makes decisions without a central nervous system](https://www.tum.de/nc/en/about-tum/news/press-releases/details/36462/)
-- [Single-Shot and First Doses First](https://marginalrevolution.com/marginalrevolution/2021/02/single-shot-and-first-doses-first.html)
-- [Launch HN: Spruce (YC W21) – OSS for User Owned and Provably Authentic Data](https://news.ycombinator.com/item?id=26285687)
+- [Not Getting Royalty Free Illustrations and Components? These Site May Help You](https://www.dev-stuff.tech/2021/02/not-getting-royalty-free-illustrations.html)
+- [Scientists Discover Target for Stroke Therapy in Blood-Brain Barrier](https://www.tus.ac.jp/en/mediarelations/archive/20210222_0902.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
