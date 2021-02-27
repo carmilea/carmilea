@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Create fake phone contacts, to do data-poisoning](https://github.com/BillDietrich/fake_contacts)
+- [Jerry, Inc. (YC S17) Is Hiring Product, Engineering, Data, Content (All Levels)](https://jerry.ai/careers)
+- [A single cell slime mold makes decisions without a central nervous system](https://www.tum.de/nc/en/about-tum/news/press-releases/details/36462/)
+- [Single-Shot and First Doses First](https://marginalrevolution.com/marginalrevolution/2021/02/single-shot-and-first-doses-first.html)
 - [Launch HN: Spruce (YC W21) – OSS for User Owned and Provably Authentic Data](https://news.ycombinator.com/item?id=26285687)
-- [Making hibernation work under Linux Lockdown](https://mjg59.dreamwidth.org/55845.html)
-- [Taxing Families Like Companies](https://americancompass.org/the-commons/taxing-families-like-companies/)
-- [2020 Berkshire Hathaway Annual Letter [pdf]](https://www.berkshirehathaway.com/letters/2020ltr.pdf)
-- [Account of Ethiopian Church Massacre](https://www.cnn.com/2021/02/26/africa/ethiopia-tigray-dengelat-massacre-intl/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
