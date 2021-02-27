@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kapil Gupta: Conquering the Mind [video]](https://www.youtube.com/watch?v=sBtuqpNZwio)
-- [Silicon Valley Runs on Saudi](https://vicki.substack.com/p/silicon-valley-runs-on-saudi)
-- [Alternative shell with native support for JSON, YAML, TOML, CSV, etc.](https://github.com/lmorg/murex)
-- [Odeko (YC S19) Is Hiring Senior Engineers, Designers and PMs](https://angel.co/company/odeko-inc/jobs)
-- [Are You Trading or Gambling?](https://investinglessons.substack.com/p/are-you-trading-or-gambling)
+- [2020 Berkshire Hathaway Annual Letter [pdf]](https://www.berkshirehathaway.com/letters/2020ltr.pdf)
+- [Phantom Types in Gleam](https://blog.pd-andy.dev/phantom-types-in-gleam)
+- [SolarWinds CEO blames intern for password leak](https://edition.cnn.com/2021/02/26/politics/solarwinds123-password-intern/index.html)
+- [Awesome CTO](https://github.com/kuchin/awesome-cto)
+- [Berkshire Hathaway 2020 Annual report [pdf]](https://www.berkshirehathaway.com/2020ar/2020ar.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
