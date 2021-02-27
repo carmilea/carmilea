@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mining Ethereum on M1 Mac GPU](https://blog.yifangu.com/2021/02/26/mining-ethereum-on-a-m1-mac-gpu/)
+- [Shopify employees accessed customer databases without authorization](https://news.ycombinator.com/item?id=26281689)
 - [Astranis (YC W16) is hiring a full-cycle tech recruiter to help grow our team](https://jobs.lever.co/astranis/b99fb41e-325d-43ee-b82b-22218d32c07d)
 - [Some small USA towns giving away housing lots](https://offgridpermaculture.com/Finding_Land/Free_Land___Living_Off_Grid_With_No_Money.html)
 - [Firefox replaces Google Analytics with fake no-op in strict tracking protection](https://twitter.com/__jakub_g/status/1365400306767581185)
-- [Medical chatbot using OpenAI’s GPT-3 told a fake patient to kill themselves](https://artificialintelligence-news.com/2020/10/28/medical-chatbot-openai-gpt3-patient-kill-themselves/)
-- [Remain Calm: The fox is still in the Firefox logo](https://blog.mozilla.org/firefox/the-fox-is-still-in-the-firefox-logo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
