@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Igalia will restart their (Chrome) MathML work in Q2 2021](https://mathml.igalia.com/news/2021/02/15/mathml-plans-for-2021/#new)
 - [Fly.io (YC W20) Is Hiring Elixir Developer Advocates (Remote)](https://news.ycombinator.com/item?id=26288121)
+- [DMR's Thesis: Unpacking an Enigma](https://dmrthesis.net)
+- [Show HN: Rich Text Math Editing on the Web with Markdown and AsciiMath](https://writer.math.dev/landing.html)
 - [Massively parallel ultrafast random bit generation with a chip-scale laser](https://science.sciencemag.org/content/371/6532/948)
-- [Noweb – A Simple, Extensible Tool for Literate Programming](https://www.cs.tufts.edu/~nr/noweb/)
-- [Apple works with China but not the FBI](https://www.latimes.com/business/technology/la-fi-apple-china-20160226-story.html)
-- [Megastructures Superweapons and Global Architectures in Sci-Fi Computer Games](https://www.academia.edu/36651707/Megastructures_Superweapons_and_Global_Architectures_in_Science_Fiction_Computer_Games)
 <!-- BLOG-POST-LIST:END -->
 
 ---
