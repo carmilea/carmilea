@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook Just Admitted It Has Lost the Battle with Apple over Privacy](https://www.inc.com/jason-aten/facebook-just-admitted-it-has-lost-its-battle-with-apple-over-privacy.html)
-- [Notes on the Slate Star Codex Controversy](https://scholars-stage.blogspot.com/2021/02/the-framers-and-framed-notes-on-slate.html)
-- [Gradient-Free-Optimizers A collection of modern optimization methods in Python](https://github.com/SimonBlanke/Gradient-Free-Optimizers)
-- [Atlantic currents seem to have started fading last century](https://arstechnica.com/science/2021/02/atlantic-currents-seem-to-have-started-fading-last-century/)
-- [Ismail al-Jazari – the medieval 'Father of Robotics'](https://www.nationalgeographic.com/history/world-history-magazine/article/ismail-al-jazari-muslim-inventor-called-father-robotics)
+- [Boston public schools suspend advanced learning classes](https://www.wgbh.org/news/education/2021/02/26/citing-racial-inequities-boston-public-schools-suspend-advanced-learning-classes)
+- [Launch HN: Xix.ai (YC W17) – Securely authenticate in web apps by face](https://news.ycombinator.com/item?id=26294096)
+- [Police misconduct settlements](https://github.com/fivethirtyeight/police-settlements)
+- [Unix Implementation for MSX (2005)](http://uzix.sourceforge.net/)
+- [New Yorker's Investigation Inside Xinjiang’s Prison State](https://www.newyorker.com/news/a-reporter-at-large/china-xinjiang-prison-state-uighur-detention-camps-prisoner-testimony)
 <!-- BLOG-POST-LIST:END -->
 
 ---
