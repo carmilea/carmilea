@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Boston public schools suspend advanced learning classes](https://www.wgbh.org/news/education/2021/02/26/citing-racial-inequities-boston-public-schools-suspend-advanced-learning-classes)
-- [Launch HN: Xix.ai (YC W17) – Securely authenticate in web apps by face](https://news.ycombinator.com/item?id=26294096)
-- [Police misconduct settlements](https://github.com/fivethirtyeight/police-settlements)
-- [Unix Implementation for MSX (2005)](http://uzix.sourceforge.net/)
-- [New Yorker's Investigation Inside Xinjiang’s Prison State](https://www.newyorker.com/news/a-reporter-at-large/china-xinjiang-prison-state-uighur-detention-camps-prisoner-testimony)
+- [Dover (YC S19) is hiring engineers to modernize recruiting](https://www.dover.com/open-roles/senior-software-engineer)
+- [Reversible Computing](https://en.wikipedia.org/wiki/Reversible_computing)
+- [The Mars Helicopter Is Online and Getting Ready to Fly](https://www.universetoday.com/150224/the-mars-helicopter-is-online-and-getting-ready-to-fly/)
+- [Weird architectures weren't supported to begin with](https://blog.yossarian.net/2021/02/28/Weird-architectures-werent-supported-to-begin-with)
+- [Warren Buffett's bet against hedge funds at the Long Now Foundation (2017)](https://longbets.org/362/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
