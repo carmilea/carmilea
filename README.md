@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Not Lisp again (2009)](https://funcall.blogspot.com/2009/03/not-lisp-again.html)
 - [Bodyport (YC S15) Is Hiring Software and Algorithms Engineers](https://bodyport.com/careers)
+- [Little League wants all your information](https://honeypot.net/post/little-league-wants-all-your-information/)
 - [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 - [mrustc: In-progress alternative Rust compiler (to C)](https://github.com/thepowersgang/mrustc)
-- [Create animated GIF and WebP from videos using FFmpeg](https://mattj.io/posts/2021-02-27-create-animated-gif-and-webp-from-videos-using-ffmpeg/)
-- [World Beer Index 2021: The Cost and Consumption of Beer Around the World](https://www.expensivity.com/beer-around-the-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
