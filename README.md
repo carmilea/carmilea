@@ -55,7 +55,7 @@
 - [Notes on the Slate Star Codex Controversy](https://scholars-stage.blogspot.com/2021/02/the-framers-and-framed-notes-on-slate.html)
 - [Gradient-Free-Optimizers A collection of modern optimization methods in Python](https://github.com/SimonBlanke/Gradient-Free-Optimizers)
 - [Atlantic currents seem to have started fading last century](https://arstechnica.com/science/2021/02/atlantic-currents-seem-to-have-started-fading-last-century/)
-- [Hunting two PDP-1 photos (which are not what they seem)](https://www.masswerk.at/nowgobang/2021/train-spotting-1)
+- [Ismail al-Jazari – the medieval 'Father of Robotics'](https://www.nationalgeographic.com/history/world-history-magazine/article/ismail-al-jazari-muslim-inventor-called-father-robotics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
