@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Theo de Raadt 'Re: new: lang/zig'](https://marc.info/?l=openbsd-ports&m=161449568814043&w=2)
+- [Microsoft evading VAT tax with GitHub sponsors](https://twitter.com/rafaelcodes/status/1365795326418948097)
+- [Hunting two PDP-1 photos (which are not what they seem)](https://www.masswerk.at/nowgobang/2021/train-spotting-1)
 - [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - [Clubhouse’s security and privacy lag behind its explosive growth](https://arstechnica.com/gaming/2021/02/clubhouses-security-and-privacy-lag-behind-its-explosive-growth/)
 - [Ask HN: Always on low power home server](https://news.ycombinator.com/item?id=26292660)
-- [Facebook Execs Silenced an Enemy of Turkey to Prevent a Hit to the Company](https://www.propublica.org/article/sheryl-sandberg-and-top-facebook-execs-silenced-an-enemy-of-turkey-to-prevent-a-hit-to-their-business)
 <!-- BLOG-POST-LIST:END -->
 
 ---
