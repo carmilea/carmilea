@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Theo de Raadt 'Re: new: lang/zig'](https://marc.info/?l=openbsd-ports&m=161449568814043&w=2)
+- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [Clubhouse’s security and privacy lag behind its explosive growth](https://arstechnica.com/gaming/2021/02/clubhouses-security-and-privacy-lag-behind-its-explosive-growth/)
+- [Ask HN: Always on low power home server](https://news.ycombinator.com/item?id=26292660)
 - [Facebook Execs Silenced an Enemy of Turkey to Prevent a Hit to the Company](https://www.propublica.org/article/sheryl-sandberg-and-top-facebook-execs-silenced-an-enemy-of-turkey-to-prevent-a-hit-to-their-business)
-- [Signal Desktop is corrupting its database](https://github.com/signalapp/Signal-Desktop/issues/4513)
-- [Actually Portable Executables](https://ahgamut.github.io/c/2021/02/27/ape-cosmo/)
-- [Drivers locked out of their cars at Royston Tesco](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56221408)
-- [Spaceprob.es catalogues all the probes that still communicate with Earth](https://spaceprob.es/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
