@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft evading VAT tax with GitHub sponsors](https://twitter.com/rafaelcodes/status/1365795326418948097)
+- [Facebook Just Admitted It Has Lost the Battle with Apple over Privacy](https://www.inc.com/jason-aten/facebook-just-admitted-it-has-lost-its-battle-with-apple-over-privacy.html)
+- [Notes on the Slate Star Codex Controversy](https://scholars-stage.blogspot.com/2021/02/the-framers-and-framed-notes-on-slate.html)
+- [Gradient-Free-Optimizers A collection of modern optimization methods in Python](https://github.com/SimonBlanke/Gradient-Free-Optimizers)
+- [Atlantic currents seem to have started fading last century](https://arstechnica.com/science/2021/02/atlantic-currents-seem-to-have-started-fading-last-century/)
 - [Hunting two PDP-1 photos (which are not what they seem)](https://www.masswerk.at/nowgobang/2021/train-spotting-1)
-- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [Clubhouse’s security and privacy lag behind its explosive growth](https://arstechnica.com/gaming/2021/02/clubhouses-security-and-privacy-lag-behind-its-explosive-growth/)
-- [Ask HN: Always on low power home server](https://news.ycombinator.com/item?id=26292660)
 <!-- BLOG-POST-LIST:END -->
 
 ---
