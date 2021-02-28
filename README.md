@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Netcode: Explaining how fighting games use delay-based and rollback netcode](https://ki.infil.net/w02-netcode.html)
+- [A 'Lamborghini' of Chariots Is Discovered at Pompeii. Archaeologists Are Wowed](https://www.npr.org/2021/02/27/972118983/a-lamborghini-of-chariots-is-discovered-at-pompeii-archaeologists-are-wowed)
 - [New Bone Cell Type Identified](https://www.genengnews.com/news/new-bone-cell-type-identified-could-point-to-drug-targets-for-osteoporosis-and-other-skeletal-diseases/)
+- [Commodore Basic as a Scripting Language for Unix and Windows – Now Open Source](https://www.pagetable.com/?p=48)
 - [Cinder – a C++ library for programming with aesthetic intent](https://libcinder.org/)
-- [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
-- [A Saudi Prince's Attempt to Silence Critics on Twitter](https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/#/)
-- [Translating My Z3 Tutorial to Coq](https://www.philipzucker.com/translating-z3-to-coq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
