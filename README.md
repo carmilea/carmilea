@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Strange chip: Teardown of a vintage IBM token ring controller](https://www.righto.com/2021/02/strange-chip-teardown-of-vintage-ibm.html)
-- [Users are losing out against Big Sur’s sealed System](https://eclecticlight.co/2021/02/28/last-week-on-my-mac-users-are-losing-out-against-big-surs-sealed-system/)
-- [A Native Tiling Window Manager for Windows 10, Inspired by I3wm](https://github.com/McYoloSwagHam/win3wm)
-- [A Clean Energy Milestone: Renewables Pulled Ahead of Coal in 2020 in the US](https://insideclimatenews.org/news/26022021/clean-energy-renewable-coal-natural-gas/)
-- [RIP Flynn.io](https://github.com/flynn/flynn)
+- [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
+- [mrustc: In-progress alternative Rust compiler (to C)](https://github.com/thepowersgang/mrustc)
+- [Create animated GIF and WebP from videos using FFmpeg](https://mattj.io/posts/2021-02-27-create-animated-gif-and-webp-from-videos-using-ffmpeg/)
+- [World Beer Index 2021: The Cost and Consumption of Beer Around the World](https://www.expensivity.com/beer-around-the-world/)
+- [Get a Life](http://crypto.stanford.edu/~blynn/haskell/life.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
