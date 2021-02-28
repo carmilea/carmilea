@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Try the new try.haxe!](https://community.haxe.org/t/try-the-new-try-haxe/2921)
 - [Netcode: Explaining how fighting games use delay-based and rollback netcode](https://ki.infil.net/w02-netcode.html)
-- [A 'Lamborghini' of Chariots Is Discovered at Pompeii. Archaeologists Are Wowed](https://www.npr.org/2021/02/27/972118983/a-lamborghini-of-chariots-is-discovered-at-pompeii-archaeologists-are-wowed)
+- [A 'Lamborghini' of Chariots Is Discovered at Pompeii](https://www.npr.org/2021/02/27/972118983/a-lamborghini-of-chariots-is-discovered-at-pompeii-archaeologists-are-wowed)
 - [New Bone Cell Type Identified](https://www.genengnews.com/news/new-bone-cell-type-identified-could-point-to-drug-targets-for-osteoporosis-and-other-skeletal-diseases/)
 - [Commodore Basic as a Scripting Language for Unix and Windows – Now Open Source](https://www.pagetable.com/?p=48)
-- [Cinder – a C++ library for programming with aesthetic intent](https://libcinder.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
