@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Not Lisp again (2009)](https://funcall.blogspot.com/2009/03/not-lisp-again.html)
 - [Bodyport (YC S15) Is Hiring Software and Algorithms Engineers](https://bodyport.com/careers)
+- [Apple removes $1k featureless iPhone application (2008)](https://latimesblogs.latimes.com/technology/2008/08/iphone-i-am-ric.html)
 - [Little League wants all your information](https://honeypot.net/post/little-league-wants-all-your-information/)
 - [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
-- [mrustc: In-progress alternative Rust compiler (to C)](https://github.com/thepowersgang/mrustc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
