@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Strange chip: Teardown of a vintage IBM token ring controller](https://www.righto.com/2021/02/strange-chip-teardown-of-vintage-ibm.html)
 - [Users are losing out against Big Sur’s sealed System](https://eclecticlight.co/2021/02/28/last-week-on-my-mac-users-are-losing-out-against-big-surs-sealed-system/)
+- [A Native Tiling Window Manager for Windows 10, Inspired by I3wm](https://github.com/McYoloSwagHam/win3wm)
 - [A Clean Energy Milestone: Renewables Pulled Ahead of Coal in 2020 in the US](https://insideclimatenews.org/news/26022021/clean-energy-renewable-coal-natural-gas/)
 - [RIP Flynn.io](https://github.com/flynn/flynn)
-- [Snyk: Find and fix vulnerabilities in open-source dependencies](https://github.com/snyk/snyk)
-- [Dover (YC S19) is hiring engineers to modernize recruiting](https://www.dover.com/open-roles/senior-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
