@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hardware SAS Raid on the Raspberry Pi CM4](https://www.jeffgeerling.com/blog/2021/hardware-raid-on-raspberry-pi-cm4)
+- [Apollo in Real Time – A journey through the Apollo missions](https://apolloinrealtime.org/)
 - [Try the new try.haxe!](https://community.haxe.org/t/try-the-new-try-haxe/2921)
-- [Netcode: Explaining how fighting games use delay-based and rollback netcode](https://ki.infil.net/w02-netcode.html)
-- [A 'Lamborghini' of Chariots Is Discovered at Pompeii](https://www.npr.org/2021/02/27/972118983/a-lamborghini-of-chariots-is-discovered-at-pompeii-archaeologists-are-wowed)
-- [New Bone Cell Type Identified](https://www.genengnews.com/news/new-bone-cell-type-identified-could-point-to-drug-targets-for-osteoporosis-and-other-skeletal-diseases/)
-- [Commodore Basic as a Scripting Language for Unix and Windows – Now Open Source](https://www.pagetable.com/?p=48)
+- [Concrete Semantics with Isabelle/HOL](http://concrete-semantics.org/)
+- [How fighting games use delay-based and rollback netcode (2019)](https://ki.infil.net/w02-netcode.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
