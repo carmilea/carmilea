@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [L.A. restaurants struggle with a new “high tech” form of dine-and-dash](https://www.latimes.com/food/story/2021-02-23/restaurant-scam-credit-card-fraud)
-- [Void Linux Switching Back to OpenSSL](https://voidlinux.org/news/2021/02/OpenSSL.html)
-- [Horizonator: Terrain renderer based on SRTM DEMs](http://notes.secretsauce.net/notes/2021/02/27_horizonator-terrain-renderer-based-on-srtm-dems.html)
+- [L.A. restaurants struggle with a new form of dine-and-dash](https://www.latimes.com/food/story/2021-02-23/restaurant-scam-credit-card-fraud)
 - [Universal Radio Hacker: Investigate Wireless Protocols Like a Boss](https://github.com/jopohl/urh)
 - [Hardware SAS Raid on the Raspberry Pi CM4](https://www.jeffgeerling.com/blog/2021/hardware-raid-on-raspberry-pi-cm4)
+- [Apollo in Real Time – A journey through the Apollo missions](https://apolloinrealtime.org/)
+- [Try the new try.haxe](https://community.haxe.org/t/try-the-new-try-haxe/2921)
 <!-- BLOG-POST-LIST:END -->
 
 ---
