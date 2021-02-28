@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Horizonator: Terrain renderer based on SRTM DEMs](http://notes.secretsauce.net/notes/2021/02/27_horizonator-terrain-renderer-based-on-srtm-dems.html)
 - [Hardware SAS Raid on the Raspberry Pi CM4](https://www.jeffgeerling.com/blog/2021/hardware-raid-on-raspberry-pi-cm4)
 - [Apollo in Real Time – A journey through the Apollo missions](https://apolloinrealtime.org/)
-- [Try the new try.haxe!](https://community.haxe.org/t/try-the-new-try-haxe/2921)
-- [Concrete Semantics with Isabelle/HOL](http://concrete-semantics.org/)
-- [How fighting games use delay-based and rollback netcode (2019)](https://ki.infil.net/w02-netcode.html)
+- [Try the new try.haxe](https://community.haxe.org/t/try-the-new-try-haxe/2921)
+- [How to Efficiently Choose the Right Database for Your Applications](https://pingcap.com/blog/how-to-efficiently-choose-the-right-database-for-your-applications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
