@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Actually Portable Executable – Lua](https://ahgamut.github.io/c/2021/02/27/ape-cosmo/)
+- [Facebook Execs Silenced an Enemy of Turkey to Prevent a Hit to the Company](https://www.propublica.org/article/sheryl-sandberg-and-top-facebook-execs-silenced-an-enemy-of-turkey-to-prevent-a-hit-to-their-business)
+- [Signal Desktop is corrupting its database](https://github.com/signalapp/Signal-Desktop/issues/4513)
+- [Actually Portable Executables](https://ahgamut.github.io/c/2021/02/27/ape-cosmo/)
 - [Drivers locked out of their cars at Royston Tesco](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56221408)
 - [Spaceprob.es catalogues all the probes that still communicate with Earth](https://spaceprob.es/)
-- [Coinbase Mafia Shows How Tight a Circle Holds Sway over Bitcoin](https://www.bloomberg.com/news/articles/2021-02-27/coinbase-mafia-shows-how-tight-a-circle-holds-sway-over-bitcoin)
-- [Universal Radio Hacker: Investigate Wireless Protocols Like a Boss](https://github.com/jopohl/urh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
