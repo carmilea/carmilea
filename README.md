@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Users are losing out against Big Sur’s sealed System](https://eclecticlight.co/2021/02/28/last-week-on-my-mac-users-are-losing-out-against-big-surs-sealed-system/)
+- [A Clean Energy Milestone: Renewables Pulled Ahead of Coal in 2020 in the US](https://insideclimatenews.org/news/26022021/clean-energy-renewable-coal-natural-gas/)
+- [RIP Flynn.io](https://github.com/flynn/flynn)
+- [Snyk: Find and fix vulnerabilities in open-source dependencies](https://github.com/snyk/snyk)
 - [Dover (YC S19) is hiring engineers to modernize recruiting](https://www.dover.com/open-roles/senior-software-engineer)
-- [Reversible Computing](https://en.wikipedia.org/wiki/Reversible_computing)
-- [The Mars Helicopter Is Online and Getting Ready to Fly](https://www.universetoday.com/150224/the-mars-helicopter-is-online-and-getting-ready-to-fly/)
-- [Weird architectures weren't supported to begin with](https://blog.yossarian.net/2021/02/28/Weird-architectures-werent-supported-to-begin-with)
-- [Warren Buffett's bet against hedge funds at the Long Now Foundation (2017)](https://longbets.org/362/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
