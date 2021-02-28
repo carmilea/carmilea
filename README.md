@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Bone Cell Type Identified](https://www.genengnews.com/news/new-bone-cell-type-identified-could-point-to-drug-targets-for-osteoporosis-and-other-skeletal-diseases/)
+- [Cinder – a C++ library for programming with aesthetic intent](https://libcinder.org/)
+- [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
+- [A Saudi Prince's Attempt to Silence Critics on Twitter](https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/#/)
 - [Translating My Z3 Tutorial to Coq](https://www.philipzucker.com/translating-z3-to-coq/)
-- [As important as the Beetle? Two days with Volkswagen’s electric ID.4](https://arstechnica.com/?p=1745730)
-- [Igalia will restart their (Chrome) MathML work in Q2 2021](https://mathml.igalia.com/news/2021/02/15/mathml-plans-for-2021/#new)
-- [Fly.io (YC W20) Is Hiring Elixir Developer Advocates (Remote)](https://news.ycombinator.com/item?id=26288121)
-- [DMR's Thesis: Unpacking an Enigma](https://dmrthesis.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
