@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenGL Superbible](https://www.opengl.org/sdk/docs/books/SuperBible/)
+- [How do I make newer Unity games backwards-compatible with OS X 10.9 “Mavericks”?](https://apple.stackexchange.com/questions/414688/how-do-i-make-newer-unity-games-backwards-compatible-with-os-x-10-9-mavericks)
+- [Wikinews mourns loss of volunteer John Shutt](https://en.wikinews.org/wiki/Wikinews_mourns_loss_of_volunteer_John_Shutt)
 - [I built a 5K iMac Display on my own](https://twitter.com/phillipcaudell/status/1352692104707919872)
-- [Reddit CEO: Platform doesn't plan to ban pornography](https://www.axios.com/reddit-ceo-pornography-axios-hbo-a16f347b-0da5-4368-97ec-a8d3cdfab064.html)
 - [LayerCI (YC S20) is hiring to build the next generation of DevOps platforms](https://www.workatastartup.com/jobs/42204)
-- [Procfs: Processes as Files (1984) [pdf]](https://lucasvr.gobolinux.org/etc/Killian84-Procfs-USENIX.pdf)
-- [JSON parser written in 6502 assembly language](https://github.com/ppelleti/json65)
 <!-- BLOG-POST-LIST:END -->
 
 ---
