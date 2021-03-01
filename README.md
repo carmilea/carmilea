@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A 10-second video clip sold for $6.6M](https://www.reuters.com/article/retail-trading-nfts/insight-how-a-10-second-video-clip-sold-for-6-6-million-idUKL8N2KV6X9)
-- [Unified programming model for all devices – will it catch on?](https://www.oneapi.com)
-- [Launch HN: Stoke (YC W21) – Low cost, on-demand delivery to and from space](http://www.stoke-space.com)
-- [Parsing can become accidentally quadratic because of sscanf](https://github.com/biojppm/rapidyaml/issues/40)
-- [Fish Shell 3.2.0 Released](https://github.com/fish-shell/fish-shell/releases/tag/3.2.0)
+- [Ask HN: Who is hiring? (March 2021)](https://news.ycombinator.com/item?id=26304051)
+- [Ask HN: Freelancer? Seeking freelancer? (March 2021)](https://news.ycombinator.com/item?id=26304050)
+- [Ask HN: Who wants to be hired? (March 2021)](https://news.ycombinator.com/item?id=26304048)
+- [Generate Flowcharts from Text](https://flowchart.fun/)
+- [Tesla voids warranty if you try to power your home with your car](https://electrek.co/2021/02/23/tesla-voids-your-warranty-power-your-home-with-electric-car-battery-pack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
