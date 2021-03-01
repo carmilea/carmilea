@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are Xiaomi browsers spyware? Yes, they are (2020)](https://palant.info/2020/05/04/are-xiaomi-browsers-spyware-yes-they-are.../)
+- [On the Dangers of Stochastic Parrots [pdf]](http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf)
 - [Sir Kazuo Ishiguro warns of young authors self-censoring out of 'fear'](https://www.bbc.com/news/entertainment-arts-56208347)
 - [75 Years Ago, 'War of the Worlds' Started a Panic. Or Did It?](https://www.npr.org/sections/thetwo-way/2013/10/30/241797346/75-years-ago-war-of-the-worlds-started-a-panic-or-did-it)
-- [Passion Not Required: It's OK to Only Program for a Paycheck](https://exceptionnotfound.net/passion-not-required-its-ok-to-only-program-for-a-paycheck/)
 - [Caper (YC W16) Looking for a COO](https://recruiterflow.com/caper/jobs/73)
-- [GDPR – No reject option – what to do?](https://twitter.com/LetMeReject/status/1366429046754713603)
 <!-- BLOG-POST-LIST:END -->
 
 ---
