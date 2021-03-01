@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Use Touch ID for Sudo on Mac](https://davidwalsh.name/touch-sudo)
 - [Remora (YC W21) is hiring engineers to build carbon capture for semi trucks](https://www.workatastartup.com/jobs/42375)
 - [Ask HN: IT jobs fighting against climate catastrophe?](https://news.ycombinator.com/item?id=26301765)
 - [The Hijacking of Perl.com](https://www.perl.com/article/the-hijacking-of-perl-com/)
-- [Spectre Exploits in the “Wild”](https://dustri.org/b/spectre-exploits-in-the-wild.html)
-- [GitHub Actions is experiencing degraded performance](https://www.githubstatus.com/incidents/xn0sd2x4nd7f)
+- [Spectre exploits in the "wild"](https://dustri.org/b/spectre-exploits-in-the-wild.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
