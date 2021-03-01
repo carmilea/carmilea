@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Texas electric firm files for bankruptcy citing $1.8B in claims](http://reuters.com/article/idUSKCN2AT1FE)
+- [Why Nuclear Must Be Part Of The Energy Solution](https://e360.yale.edu/features/why-nuclear-power-must-be-part-of-the-energy-solution-environmentalists-climate)
+- [Etsy Prepared for Historic Volumes of Holiday Traffic in 2020](https://codeascraft.com/2021/02/25/how-etsy-prepared-for-historic-volumes-of-holiday-traffic-in-2020/)
 - [Impraise S14 is hiring (Interim) Director of Product to lead product](https://jobs.impraise.com/o/director-of-product)
-- [OpenGL Superbible](https://www.opengl.org/sdk/docs/books/SuperBible/)
-- [How do I make newer Unity games backwards-compatible with OS X 10.9 “Mavericks”?](https://apple.stackexchange.com/questions/414688/how-do-i-make-newer-unity-games-backwards-compatible-with-os-x-10-9-mavericks)
-- [Wikinews mourns loss of volunteer John Shutt](https://en.wikinews.org/wiki/Wikinews_mourns_loss_of_volunteer_John_Shutt)
-- [I built a 5K iMac Display on my own](https://twitter.com/phillipcaudell/status/1352692104707919872)
+- [The Last Message Sent on Aim](https://justanman.org/posts/the-last-message-sent-on-aim/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
