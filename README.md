@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If you miss an Apple Card payment, Apple disables all your Apple accounts](https://twitter.com/dcurtis/status/1366467736931606528)
+- [Introducing dbt + Materialize](https://materialize.com/introducing-dbt-materialize/)
 - [Are Xiaomi browsers spyware? Yes, they are (2020)](https://palant.info/2020/05/04/are-xiaomi-browsers-spyware-yes-they-are.../)
+- [Show HN: Ten seconds to ponder if a thread is worth it](https://gist.github.com/veggiedefender/64079c9b14b8e2866b99918ef54e047b)
 - [On the Dangers of Stochastic Parrots [pdf]](http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf)
-- [Sir Kazuo Ishiguro warns of young authors self-censoring out of 'fear'](https://www.bbc.com/news/entertainment-arts-56208347)
-- [75 Years Ago, 'War of the Worlds' Started a Panic. Or Did It?](https://www.npr.org/sections/thetwo-way/2013/10/30/241797346/75-years-ago-war-of-the-worlds-started-a-panic-or-did-it)
-- [Caper (YC W16) Looking for a COO](https://recruiterflow.com/caper/jobs/73)
 <!-- BLOG-POST-LIST:END -->
 
 ---
