@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LayerCI (YC S20) is hiring to build the next generation of DevOps platforms](https://www.workatastartup.com/jobs/42204)
+- [We should pay politicians more](https://normielisation.substack.com/p/why-we-should-pay-politicians-more)
+- [Procfs: Processes as Files (1984) [pdf]](https://lucasvr.gobolinux.org/etc/Killian84-Procfs-USENIX.pdf)
 - [JSON parser written in 6502 assembly language](https://github.com/ppelleti/json65)
 - [Squeak: A Free Smalltalk System – On RISC OS](http://www.rowledge.org/tim/squeak/)
-- [OMU – “One Man Unix”](http://www.pix.net/mirrored/discordia.org.uk/~steve/omu.html)
-- [Cname / DNS based third party tracking](https://arxiv.org/abs/2102.09301v2)
-- [Not Lisp again (2009)](https://funcall.blogspot.com/2009/03/not-lisp-again.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
