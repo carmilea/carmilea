@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Corrily (YC W21) – Price Optimization for SaaS](https://news.ycombinator.com/item?id=26302217)
 - [Use Touch ID for Sudo on Mac](https://davidwalsh.name/touch-sudo)
+- [Rocket Lab Unveils Plans for New 8-Ton Class Reusable Rocket](https://www.rocketlabusa.com/about-us/updates/rocket-lab-unveils-plans-for-new-8-ton-class-reusable-rocket-for-mega-constellation-deployment/)
 - [Remora (YC W21) is hiring engineers to build carbon capture for semi trucks](https://www.workatastartup.com/jobs/42375)
-- [Ask HN: IT jobs fighting against climate catastrophe?](https://news.ycombinator.com/item?id=26301765)
 - [The Hijacking of Perl.com](https://www.perl.com/article/the-hijacking-of-perl-com/)
-- [Spectre exploits in the "wild"](https://dustri.org/b/spectre-exploits-in-the-wild.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
