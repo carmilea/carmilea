@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Corrily (YC W21) – Price Optimization for SaaS](https://news.ycombinator.com/item?id=26302217)
-- [Use Touch ID for Sudo on Mac](https://davidwalsh.name/touch-sudo)
-- [Rocket Lab Unveils Plans for New 8-Ton Class Reusable Rocket](https://www.rocketlabusa.com/about-us/updates/rocket-lab-unveils-plans-for-new-8-ton-class-reusable-rocket-for-mega-constellation-deployment/)
-- [Remora (YC W21) is hiring engineers to build carbon capture for semi trucks](https://www.workatastartup.com/jobs/42375)
-- [The Hijacking of Perl.com](https://www.perl.com/article/the-hijacking-of-perl-com/)
+- [A 10-second video clip sold for $6.6M](https://www.reuters.com/article/retail-trading-nfts/insight-how-a-10-second-video-clip-sold-for-6-6-million-idUKL8N2KV6X9)
+- [Unified programming model for all devices – will it catch on?](https://www.oneapi.com)
+- [Launch HN: Stoke (YC W21) – Low cost, on-demand delivery to and from space](http://www.stoke-space.com)
+- [Parsing can become accidentally quadratic because of sscanf](https://github.com/biojppm/rapidyaml/issues/40)
+- [Fish Shell 3.2.0 Released](https://github.com/fish-shell/fish-shell/releases/tag/3.2.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
