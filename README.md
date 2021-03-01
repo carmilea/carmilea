@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Remora (YC W21) is hiring engineers to build carbon capture for semi trucks](https://www.workatastartup.com/jobs/42375)
+- [Ask HN: IT jobs fighting against climate catastrophe?](https://news.ycombinator.com/item?id=26301765)
 - [The Hijacking of Perl.com](https://www.perl.com/article/the-hijacking-of-perl-com/)
-- [GitHub Actions Are Down](https://www.githubstatus.com/incidents/xn0sd2x4nd7f)
-- [The Global Population Crisis That Never Was](https://rogerpielkejr.substack.com/p/the-global-population-crisis-that)
-- [Build a Business, Not an Audience](https://jakobgreenfeld.com/build_an_audience)
-- [Why Learn Haskell?](https://crypto.stanford.edu/~blynn/haskell/why.html)
+- [Spectre Exploits in the “Wild”](https://dustri.org/b/spectre-exploits-in-the-wild.html)
+- [GitHub Actions is experiencing degraded performance](https://www.githubstatus.com/incidents/xn0sd2x4nd7f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
