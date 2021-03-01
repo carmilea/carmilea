@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Should I pass on a new job because they want me to sign a non-compete?](https://news.ycombinator.com/item?id=26299188)
+- [Reddit CEO: Platform doesn't plan to ban pornography](https://www.axios.com/reddit-ceo-pornography-axios-hbo-a16f347b-0da5-4368-97ec-a8d3cdfab064.html)
+- [UK meteor: 'huge flash' as fireball lights up skies](https://www.theguardian.com/science/2021/mar/01/uk-meteor-huge-flash-as-fireball-lights-up-skies)
 - [LayerCI (YC S20) is hiring to build the next generation of DevOps platforms](https://www.workatastartup.com/jobs/42204)
 - [Procfs: Processes as Files (1984) [pdf]](https://lucasvr.gobolinux.org/etc/Killian84-Procfs-USENIX.pdf)
 - [JSON parser written in 6502 assembly language](https://github.com/ppelleti/json65)
-- [Squeak: A Free Smalltalk System – On RISC OS](http://www.rowledge.org/tim/squeak/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
