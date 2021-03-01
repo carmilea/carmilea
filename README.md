@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Caper (YC W16) Looking for a COO](https://recruiterflow.com/caper/jobs/73)
+- [GDPR – No reject option – what to do?](https://twitter.com/LetMeReject/status/1366429046754713603)
 - [Ask HN: Who is hiring? (March 2021)](https://news.ycombinator.com/item?id=26304051)
 - [Ask HN: Freelancer? Seeking freelancer? (March 2021)](https://news.ycombinator.com/item?id=26304050)
-- [Ask HN: Who wants to be hired? (March 2021)](https://news.ycombinator.com/item?id=26304048)
 - [Generate Flowcharts from Text](https://flowchart.fun/)
-- [Tesla voids warranty if you try to power your home with your car](https://electrek.co/2021/02/23/tesla-voids-your-warranty-power-your-home-with-electric-car-battery-pack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
