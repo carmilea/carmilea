@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JSON parser written in 6502 assembly language](https://github.com/ppelleti/json65)
+- [Squeak: A Free Smalltalk System – On RISC OS](http://www.rowledge.org/tim/squeak/)
+- [OMU – “One Man Unix”](http://www.pix.net/mirrored/discordia.org.uk/~steve/omu.html)
+- [Cname / DNS based third party tracking](https://arxiv.org/abs/2102.09301v2)
 - [Not Lisp again (2009)](https://funcall.blogspot.com/2009/03/not-lisp-again.html)
-- [Bodyport (YC S15) Is Hiring Software and Algorithms Engineers](https://bodyport.com/careers)
-- [Apple removes $1k featureless iPhone application (2008)](https://latimesblogs.latimes.com/technology/2008/08/iphone-i-am-ric.html)
-- [Little League wants all your information](https://honeypot.net/post/little-league-wants-all-your-information/)
-- [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
