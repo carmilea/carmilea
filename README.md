@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Show HN: Why does an A note sound different across instruments?](https://omarshehata.me/notebook/exploring_sound)
 - [If you miss an Apple Card payment, Apple disables all your Apple accounts](https://twitter.com/dcurtis/status/1366467736931606528)
 - [Introducing dbt + Materialize](https://materialize.com/introducing-dbt-materialize/)
 - [Are Xiaomi browsers spyware? Yes, they are (2020)](https://palant.info/2020/05/04/are-xiaomi-browsers-spyware-yes-they-are.../)
-- [Show HN: Ten seconds to ponder if a thread is worth it](https://gist.github.com/veggiedefender/64079c9b14b8e2866b99918ef54e047b)
-- [On the Dangers of Stochastic Parrots [pdf]](http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
