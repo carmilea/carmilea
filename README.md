@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Hijacking of Perl.com](https://www.perl.com/article/the-hijacking-of-perl-com/)
 - [GitHub Actions Are Down](https://www.githubstatus.com/incidents/xn0sd2x4nd7f)
+- [The Global Population Crisis That Never Was](https://rogerpielkejr.substack.com/p/the-global-population-crisis-that)
 - [Build a Business, Not an Audience](https://jakobgreenfeld.com/build_an_audience)
-- [Ask HN: Is average code getting worse?](https://news.ycombinator.com/item?id=26300797)
-- [Texas electric firm files for bankruptcy citing $1.8B in claims](http://reuters.com/article/idUSKCN2AT1FE)
-- [Why Nuclear Must Be Part Of The Energy Solution](https://e360.yale.edu/features/why-nuclear-power-must-be-part-of-the-energy-solution-environmentalists-climate)
+- [Why Learn Haskell?](https://crypto.stanford.edu/~blynn/haskell/why.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
