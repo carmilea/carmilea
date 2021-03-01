@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions Are Down](https://www.githubstatus.com/incidents/xn0sd2x4nd7f)
+- [Build a Business, Not an Audience](https://jakobgreenfeld.com/build_an_audience)
+- [Ask HN: Is average code getting worse?](https://news.ycombinator.com/item?id=26300797)
 - [Texas electric firm files for bankruptcy citing $1.8B in claims](http://reuters.com/article/idUSKCN2AT1FE)
 - [Why Nuclear Must Be Part Of The Energy Solution](https://e360.yale.edu/features/why-nuclear-power-must-be-part-of-the-energy-solution-environmentalists-climate)
-- [Etsy Prepared for Historic Volumes of Holiday Traffic in 2020](https://codeascraft.com/2021/02/25/how-etsy-prepared-for-historic-volumes-of-holiday-traffic-in-2020/)
-- [Impraise S14 is hiring (Interim) Director of Product to lead product](https://jobs.impraise.com/o/director-of-product)
-- [The Last Message Sent on Aim](https://justanman.org/posts/the-last-message-sent-on-aim/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
