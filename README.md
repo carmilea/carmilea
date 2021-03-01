@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Demoscene the Amiga Years Volume 1](https://www.editions64k.fr/)
+- [Amiga Video Slot RGB to HDMI](https://github.com/Bloodmosher/Amiga-VideoSlot-RGBtoHDMI)
 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [Show HN: Why does an A note sound different across instruments?](https://omarshehata.me/notebook/exploring_sound)
 - [Introducing dbt + Materialize](https://materialize.com/introducing-dbt-materialize/)
-- [Are Xiaomi browsers spyware? Yes, they are (2020)](https://palant.info/2020/05/04/are-xiaomi-browsers-spyware-yes-they-are.../)
 <!-- BLOG-POST-LIST:END -->
 
 ---
