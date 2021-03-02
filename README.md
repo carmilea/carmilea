@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [National Security Commission on Artificial Intelligence's Final Report](https://www.nscai.gov/2021-final-report/)
 - [Edit: A text-editor mixing vi and Acme](https://c9x.me/edit/)
-- [Wealthy alumni supporting “Eyes of Texas” threatened to pull donations](https://www.texastribune.org/2021/03/01/ut-eyes-of-texas-donors-emails/)
 - [Literate: A Flexible Literate Programming System](https://zyedidia.github.io/literate/index.html)
 - [Apple Card Disabled My iCloud, App Store, and Apple ID Accounts](https://dcurt.is/apple-card-can-disable-your-icloud-account)
 - [Show HN: Fast Rolling Quantiles for Python](https://github.com/marmarelis/rolling-quantiles)
