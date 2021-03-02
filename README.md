@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Demoscene the Amiga Years Volume 1](https://www.editions64k.fr/)
-- [Amiga Video Slot RGB to HDMI](https://github.com/Bloodmosher/Amiga-VideoSlot-RGBtoHDMI)
-- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Show HN: Why does an A note sound different across instruments?](https://omarshehata.me/notebook/exploring_sound)
-- [Introducing dbt + Materialize](https://materialize.com/introducing-dbt-materialize/)
+- [U.S. asks Google for detailed search data in antitrust case](https://www.bnnbloomberg.ca/u-s-asks-google-for-detailed-search-data-in-antitrust-case-1.1570497)
+- [Compass S-1](https://www.sec.gov/Archives/edgar/data/0001563190/000119312521063859/d36119ds1.htm)
+- [Peer-to-Peer Databases for the Decentralized Web](https://orbitdb.org/)
+- [Chrome does not respect autocomplete=off (2018)](https://bugs.chromium.org/p/chromium/issues/detail?id=914451)
+- [Splitting the Ping](https://blog.benjojo.co.uk/post/ping-with-loss-latency-split)
 <!-- BLOG-POST-LIST:END -->
 
 ---
