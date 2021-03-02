@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OCD Is Not a Joke](https://thewalrus.ca/ocd-is-not-a-joke/)
+- [The most sensational Western spy failures in the USSR](https://www.rbth.com/history/333469-most-sensational-western-spy-failures)
+- [Element Matrix Services Announces Element Home](https://element.io/blog/element-home/)
 - [How to Read Assembly Language](https://wolchok.org/posts/how-to-read-assembly-language/)
 - [National Security Commission on Artificial Intelligence's Final Report](https://www.nscai.gov/2021-final-report/)
-- [Publisher Nacon Cracked and Pirated Our Game: The Sinking City](https://frogwares.com/how-nacon-cracked-and-pirated-the-sinking-city/)
-- [Edit: A text-editor mixing vi and Acme](https://c9x.me/edit/)
-- [Literate: A Flexible Literate Programming System](https://zyedidia.github.io/literate/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
