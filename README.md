@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Edit: A text-editor mixing vi and Acme](https://c9x.me/edit/)
+- [Wealthy alumni supporting “Eyes of Texas” threatened to pull donations](https://www.texastribune.org/2021/03/01/ut-eyes-of-texas-donors-emails/)
+- [Literate: A Flexible Literate Programming System](https://zyedidia.github.io/literate/index.html)
 - [Apple Card Disabled My iCloud, App Store, and Apple ID Accounts](https://dcurt.is/apple-card-can-disable-your-icloud-account)
 - [Show HN: Fast Rolling Quantiles for Python](https://github.com/marmarelis/rolling-quantiles)
-- [Laylo Is Hiring a Senior Front End](https://news.ycombinator.com/item?id=26310633)
-- [WSL Hello Sudo: Face Recognition of Windows Hello on Windows Subsystem for Linux](https://github.com/nullpo-head/WSL-Hello-sudo)
-- [U.S. asks Google for detailed search data in antitrust case](https://www.bnnbloomberg.ca/u-s-asks-google-for-detailed-search-data-in-antitrust-case-1.1570497)
 <!-- BLOG-POST-LIST:END -->
 
 ---
