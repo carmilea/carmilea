@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LastPass Android app has got 7 trackers in it](https://reports.exodus-privacy.eu.org/en/reports/165465/)
 - [DDD Is Overrated](https://tilkov.com/post/2021/03/01/ddd-is-overrated/)
 - [Speed Is the Killer Feature](https://bdickason.com/posts/speed-is-the-killer-feature/)
 - [The Microwave Economy](https://perell.com/essay/the-microwave-economy/)
 - [Element Matrix Services Announces Element Home](https://element.io/blog/element-home/)
-- [How to Read Assembly Language](https://wolchok.org/posts/how-to-read-assembly-language/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
