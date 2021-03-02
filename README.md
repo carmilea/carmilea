@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Almost 40% of U.S. Consumers Trust Online Reviews Less Than They Did 5 Years Ago](https://www.reviews.com/home/security-systems/almost-40-percent-of-us-consumers-trust-online-reviews-less-than-they-did-five-years-ago/)
+- [Teams for Education](https://repl.it/teams-for-education)
 - [Ambition Hiring Product Manager and Designer – Nashville, Chattanooga, Atlanta](https://ambition.com/careers/)
-- [Amazon changes new app icon after design is compared to Hitler mustache](https://www.today.com/news/amazon-alters-app-logo-drew-hitler-comparison-t210417)
 - [Launch HN: Athens Research (YC W21) – Open-Source Roam Research](https://news.ycombinator.com/item?id=26316793)
 - [Lotus 1-2-3 arbitrary resolution](https://lock.cmpxchg8b.com/lotus123.html)
-- [ClickHouse as an alternative to Elasticsearch for log storage and analysis](https://pixeljets.com/blog/clickhouse-vs-elasticsearch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
