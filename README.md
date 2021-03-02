@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Volley (YC W18) is hiring engineers to build voice-controlled entertainment](https://jobs.lever.co/volleythat)
+- [Feedback Ladders: How We Encode Code Reviews at Netlify](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/)
+- [Beyond Meat signs global supply deals with McDonald’s, KFC and Pizza Hut](https://agfundernews.com/beyond-meat-signs-global-supply-deals-with-mcdonalds-yum-brands.html)
 - [Rookie coding mistake prior to Gab hack came from site’s CTO](https://arstechnica.com/gadgets/2021/03/rookie-coding-mistake-prior-to-gab-hack-came-from-sites-cto/)
 - [The Boxes of Hock Wah Yeo](https://obscuritory.com/essay/incredible-boxes-of-hock-wah-yeo/)
-- [jQuery 3.6.0](http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/)
-- [Google-free /e/ OS is now selling preloaded phones in the US, starting at $380](https://arstechnica.com/gadgets/2021/03/google-free-e-os-is-now-selling-pre-loaded-phones-in-the-us-starting-at-380/)
-- [SEMrush S-1](https://www.sec.gov/Archives/edgar/data/1831840/000162828021003658/semrushforms-1.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
