@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Proposal for an Internet Service: The Eternal Home Page (1996)](http://neilsloane.com/doc/eternal.html)
 - [LastPass Android app has got 7 trackers in it](https://reports.exodus-privacy.eu.org/en/reports/165465/)
-- [DDD Is Overrated](https://tilkov.com/post/2021/03/01/ddd-is-overrated/)
+- [Show HN: A network of weather stations to help prevent pesticide spray drift](https://cotl.com.au/launch.html)
+- [PDP-1 Spotting – The Amherst Mystery](https://www.masswerk.at/nowgobang/2021/pdp1-spotting)
 - [Speed Is the Killer Feature](https://bdickason.com/posts/speed-is-the-killer-feature/)
-- [The Microwave Economy](https://perell.com/essay/the-microwave-economy/)
-- [Element Matrix Services Announces Element Home](https://element.io/blog/element-home/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
