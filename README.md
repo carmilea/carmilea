@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DDD Is Overrated](https://tilkov.com/post/2021/03/01/ddd-is-overrated/)
+- [The Microwave Economy](https://perell.com/essay/the-microwave-economy/)
 - [OCD Is Not a Joke](https://thewalrus.ca/ocd-is-not-a-joke/)
 - [The most sensational Western spy failures in the USSR](https://www.rbth.com/history/333469-most-sensational-western-spy-failures)
 - [Element Matrix Services Announces Element Home](https://element.io/blog/element-home/)
-- [How to Read Assembly Language](https://wolchok.org/posts/how-to-read-assembly-language/)
-- [National Security Commission on Artificial Intelligence's Final Report](https://www.nscai.gov/2021-final-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
