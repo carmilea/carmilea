@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: PhpOverWebsocket](https://github.com/nemiah/phpOverWebsocket)
 - [Volley (YC W18) is hiring engineers to build voice-controlled entertainment](https://jobs.lever.co/volleythat)
+- [Cryptic terrestrial fungus-like fossils of the early Ediacaran Period](https://www.nature.com/articles/s41467-021-20975-1)
+- [Watchy: The Hackable $50 Smartwatch](https://spectrum.ieee.org/geek-life/hands-on/watchy-the-hackable-50-smartwatch)
 - [Feedback Ladders: How We Encode Code Reviews at Netlify](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/)
-- [Beyond Meat signs global supply deals with McDonald’s, KFC and Pizza Hut](https://agfundernews.com/beyond-meat-signs-global-supply-deals-with-mcdonalds-yum-brands.html)
-- [Rookie coding mistake prior to Gab hack came from site’s CTO](https://arstechnica.com/gadgets/2021/03/rookie-coding-mistake-prior-to-gab-hack-came-from-sites-cto/)
-- [The Boxes of Hock Wah Yeo](https://obscuritory.com/essay/incredible-boxes-of-hock-wah-yeo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
