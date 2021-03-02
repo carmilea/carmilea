@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ambition Hiring Product Manager and Designer – Nashville, Chattanooga, Atlanta](https://ambition.com/careers/)
+- [Amazon changes new app icon after design is compared to Hitler mustache](https://www.today.com/news/amazon-alters-app-logo-drew-hitler-comparison-t210417)
 - [Launch HN: Athens Research (YC W21) – Open-Source Roam Research](https://news.ycombinator.com/item?id=26316793)
+- [Lotus 1-2-3 arbitrary resolution](https://lock.cmpxchg8b.com/lotus123.html)
 - [ClickHouse as an alternative to Elasticsearch for log storage and analysis](https://pixeljets.com/blog/clickhouse-vs-elasticsearch/)
-- [NASA Mars Perseverance Rover Uses Same PowerPC Chipset Found in 1998 G3 iMac](https://www.macrumors.com/2021/03/02/nasa-mars-perseverance-rover-imac-powerpc/)
-- [The Web’s Missing Interoperability](https://stratechery.com/2021/the-webs-missing-interoperability/)
-- [SSH and User-Mode IP WireGuard](https://fly.io/blog/ssh-and-user-mode-ip-wireguard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
