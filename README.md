@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“someone uploaded ~3500 packages to PyPI that point to a malicious URL”](https://twitter.com/DataNerdery/status/1366263351685226499)
-- [Google-Free Android Smartphones Are Now Available in the U.S.](https://wccftech.com/google-free-android-smartphones-are-now-available-in-the-u-s/)
-- [Statistics Postdoc Tames Decades-Old Geometry Problem](https://www.quantamagazine.org/statistics-postdoc-tames-decades-old-geometry-problem-20210301/)
-- [Trust: The Need for Public Understanding of How Science Works](https://onlinelibrary.wiley.com/doi/full/10.1002/hast.1227)
-- [YouTube Shadow Banned Us WTF Happened?](https://www.youtube.com/watch?v=Nh_260Z1jzw)
+- [Bitcoin Is Time](https://dergigi.com/2021/01/14/bitcoin-is-time/)
+- [SSH and User-Mode IP WireGuard](https://fly.io/blog/ssh-and-user-mode-ip-wireguard/)
+- [Launch HN: SST (YC W21) – A live development environment for AWS Lambda](https://news.ycombinator.com/item?id=26315585)
+- [Using Ghidra to Reverse Engineer Super Monkey Ball for GameCube](https://www.smokingonabike.com/2021/02/28/hacking-super-monkey-ball-part-2-decompilation-with-ghidra/)
+- [Abandoned Side Project That Quietly Turned into a $700m/Year Revenue Business](https://entrepreneurshandbook.co/a-web-designer-turned-his-side-project-into-a-700m-year-revenue-business-without-vc-money-55cd13ee560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
