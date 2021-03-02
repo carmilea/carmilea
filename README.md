@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“someone uploaded ~3500 packages to PyPI that point to a malicious URL”](https://twitter.com/DataNerdery/status/1366263351685226499)
+- [Google-Free Android Smartphones Are Now Available in the U.S.](https://wccftech.com/google-free-android-smartphones-are-now-available-in-the-u-s/)
+- [Statistics Postdoc Tames Decades-Old Geometry Problem](https://www.quantamagazine.org/statistics-postdoc-tames-decades-old-geometry-problem-20210301/)
 - [Trust: The Need for Public Understanding of How Science Works](https://onlinelibrary.wiley.com/doi/full/10.1002/hast.1227)
 - [YouTube Shadow Banned Us WTF Happened?](https://www.youtube.com/watch?v=Nh_260Z1jzw)
-- [Should journals pay peer reviewes?](https://www.sciencemag.org/news/2021/03/450-question-should-journals-pay-peer-reviewers)
-- [KeyDB (YC S20) Is Hiring a Full Stack Developer](https://www.workatastartup.com/jobs/42391)
-- [Bash_unit – bash unit testing framework](https://github.com/pgrange/bash_unit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
