@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trust: The Need for Public Understanding of How Science Works](https://onlinelibrary.wiley.com/doi/full/10.1002/hast.1227)
+- [YouTube Shadow Banned Us WTF Happened?](https://www.youtube.com/watch?v=Nh_260Z1jzw)
+- [Should journals pay peer reviewes?](https://www.sciencemag.org/news/2021/03/450-question-should-journals-pay-peer-reviewers)
 - [KeyDB (YC S20) Is Hiring a Full Stack Developer](https://www.workatastartup.com/jobs/42391)
 - [Bash_unit – bash unit testing framework](https://github.com/pgrange/bash_unit)
-- [Proposal for an Internet Service: The Eternal Home Page (1996)](http://neilsloane.com/doc/eternal.html)
-- [LastPass Android app has got 7 trackers in it](https://reports.exodus-privacy.eu.org/en/reports/165465/)
-- [Show HN: A network of weather stations to help prevent pesticide spray drift](https://cotl.com.au/launch.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
