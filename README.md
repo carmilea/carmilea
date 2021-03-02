@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [jQuery 3.6.0 Released](http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/)
+- [Google-free /e/ OS is now selling preloaded phones in the US, starting at $380](https://arstechnica.com/gadgets/2021/03/google-free-e-os-is-now-selling-pre-loaded-phones-in-the-us-starting-at-380/)
+- [SEMrush S-1](https://www.sec.gov/Archives/edgar/data/1831840/000162828021003658/semrushforms-1.htm)
+- [Robot AI beats world-class curling competitors (2020)](https://www.scientificamerican.com/video/watch-a-robot-ai-beat-world-class-curling-competitors/)
 - [Almost 40% of U.S. Consumers Trust Online Reviews Less Than They Did 5 Years Ago](https://www.reviews.com/home/security-systems/almost-40-percent-of-us-consumers-trust-online-reviews-less-than-they-did-five-years-ago/)
-- [Teams for Education](https://repl.it/teams-for-education)
-- [Ambition Hiring Product Manager and Designer – Nashville, Chattanooga, Atlanta](https://ambition.com/careers/)
-- [Launch HN: Athens Research (YC W21) – Open-Source Roam Research](https://news.ycombinator.com/item?id=26316793)
-- [Lotus 1-2-3 arbitrary resolution](https://lock.cmpxchg8b.com/lotus123.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
