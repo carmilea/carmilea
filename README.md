@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [KeyDB (YC S20) Is Hiring a Full Stack Developer](https://www.workatastartup.com/jobs/42391)
+- [Bash_unit – bash unit testing framework](https://github.com/pgrange/bash_unit)
 - [Proposal for an Internet Service: The Eternal Home Page (1996)](http://neilsloane.com/doc/eternal.html)
 - [LastPass Android app has got 7 trackers in it](https://reports.exodus-privacy.eu.org/en/reports/165465/)
 - [Show HN: A network of weather stations to help prevent pesticide spray drift](https://cotl.com.au/launch.html)
-- [Speed Is the Killer Feature](https://bdickason.com/posts/speed-is-the-killer-feature/)
-- [The Microwave Economy](https://perell.com/essay/the-microwave-economy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
