@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Whole Web Pays for Google and Facebook to Be Free](https://www.bloomberg.com/opinion/articles/2021-03-03/pay-for-twitter-super-follows-you-can-thank-google-and-facebook)
 - [Why northern Europe is so indebted](https://theloop.ecpr.eu/why-northern-europe-is-so-indebted/)
 - [Memfault (YC W19) Is Hiring Front End Engineers in Germany](https://jobs.ashbyhq.com/memfault/1ab6fff8-f6ee-4c2d-a40d-1bfaffc39191?utm_source=Oo4aejgXnk)
 - [Graphene ‘Nano-Origami’ Could Take Us Past the End of Moore’s Law](https://singularityhub.com/2021/03/01/graphene-nano-origami-could-take-us-past-the-end-of-moores-law)
 - [Bats and the Origin of Outbreaks](https://graphics.reuters.com/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/index.html)
-- [Gigerenzer’s simple rules of thumb often outperform complex models](https://www.foundingfuel.com/article/gigerenzers-simple-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
