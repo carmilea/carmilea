@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Möbius Printing Helper](https://shreevatsa.net/mobius-print/)
+- [Help HN: Google just blocked my site as deceptive site](https://news.ycombinator.com/item?id=26326528)
+- [Apple is removing Rosetta from Macs during updates in certain countries](https://twitter.com/SteveMoser/status/1366904041243041794)
 - [The Whole Web Pays for Google and Facebook to Be Free](https://www.bloomberg.com/opinion/articles/2021-03-03/pay-for-twitter-super-follows-you-can-thank-google-and-facebook)
 - [Why northern Europe is so indebted](https://theloop.ecpr.eu/why-northern-europe-is-so-indebted/)
-- [Memfault (YC W19) Is Hiring Front End Engineers in Germany](https://jobs.ashbyhq.com/memfault/1ab6fff8-f6ee-4c2d-a40d-1bfaffc39191?utm_source=Oo4aejgXnk)
-- [Graphene ‘Nano-Origami’ Could Take Us Past the End of Moore’s Law](https://singularityhub.com/2021/03/01/graphene-nano-origami-could-take-us-past-the-end-of-moores-law)
-- [Bats and the Origin of Outbreaks](https://graphics.reuters.com/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
