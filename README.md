@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Air Force Is Having to Reverse Engineer Parts of Its Own Stealth Bomber](https://www.thedrive.com/the-war-zone/39537/the-air-force-needs-to-reverse-engineer-parts-of-its-own-stealth-bomber)
-- [Immigrant Families Are More Stable](https://ifstudies.org/blog/immigrant-families-are-more-stable)
-- [Flutter 2](https://developers.googleblog.com/2021/03/announcing-flutter-2.html)
-- [Launch HN: Biodock (YC W21) – Better microscopy image analysis](https://news.ycombinator.com/item?id=26332585)
-- [Using Apple Silicon (M1) as a cloud engineer, two months in](https://blog.earthly.dev/using-apple-silicon-m1-as-a-cloud-engineer-two-months-in/)
+- [Emily Riehl is rewriting the foundations of higher category theory](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/)
+- [Okta Signs Definitive Agreement to Acquire Auth0](https://www.okta.com/press-room/press-releases/okta-signs-agreement-to-acquire-auth0/)
+- [ZeroCater (YC W11) Is Hiring a Product Design Director (Remote Ok)](https://zerocater.com/about/careers/?gh_jid=2895577)
+- [Silicon Valley Stays on Top as Tech Salaries Climb Across U.S.](https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/silicon-valley-stays-on-top-as-tech-salaries-climb-across-us)
+- [Woolly Mammoth Revival](https://reviverestore.org/projects/woolly-mammoth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
