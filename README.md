@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists Talked to People in Their [Lucid] Dreams. They Answered](https://www.npr.org/2021/02/27/971958260/scientists-talked-to-people-in-their-dreams-they-answered)
 - [Show HN: NNext.net – A Firebase-like managed vector storage for ML applications](https://news.ycombinator.com/item?id=26324850)
+- [Dear Moon – Space crew applications open](https://dearmoon.earth/)
+- [Linux Desktop on Apple Silicon/M1 in Practice](https://gist.github.com/akihikodaki/87df4149e7ca87f18dc56807ec5a1bc5)
 - [Microsoft Power-Fx: a low-code general purpose programming language](https://github.com/microsoft/power-fx)
-- [Fibery – Yet Another Collaboration Tool](https://fibery.io/anxiety)
-- [Microdosing study shows the placebo effect of taking psychelics](https://www.ft.com/content/cd3c7752-3ee7-43c0-bb85-0a2ad2998503)
-- [Local PDF Tools – Powered by WebAssembly](https://localpdf.tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
