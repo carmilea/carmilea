@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon changes app logo that 'resembles Adolf Hitler'](https://www.bbc.com/news/technology-56266514)
+- [Replace the “among us” reference with “here”](https://github.com/rust-lang/rust-by-example/pull/1417)
+- [ThredUp S-1 IPO](https://www.sec.gov/Archives/edgar/data/1484778/000162828021003857/thredups-1.htm)
 - [Ethereum on Amazon Managed Blockchain](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-ethereum-on-amazon-managed-blockchain/)
 - [Emily Riehl is rewriting the foundations of higher category theory](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/)
-- [Okta Signs Definitive Agreement to Acquire Auth0](https://www.cnbc.com/2021/03/03/okta-is-buying-security-rival-auth0-for-6point5-billion-stock-falls.html)
-- [ZeroCater (YC W11) Is Hiring a Product Design Director (Remote Ok)](https://zerocater.com/about/careers/?gh_jid=2895577)
-- [Ask HN: How to write documentation for a medium size engineering org?](https://news.ycombinator.com/item?id=26334164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
