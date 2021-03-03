@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why northern Europe is so indebted](https://theloop.ecpr.eu/why-northern-europe-is-so-indebted/)
 - [Memfault (YC W19) Is Hiring Front End Engineers in Germany](https://jobs.ashbyhq.com/memfault/1ab6fff8-f6ee-4c2d-a40d-1bfaffc39191?utm_source=Oo4aejgXnk)
-- [On the Instability of Bitcoin Without the Block Reward [pdf]](https://www.cs.princeton.edu/~arvindn/publications/mining_CCS.pdf)
-- [Python 3.10.0a6 is available, now with 100% more pattern matching](https://mail.python.org/archives/list/python-committers@python.org/message/VGZDQ5TFMSWEQZS6HNDLDJQ7GAASGUUB/)
-- [Scientists talked to people in their lucid dreams](https://www.npr.org/2021/02/27/971958260/scientists-talked-to-people-in-their-dreams-they-answered)
-- [Show HN: NNext.net – A Firebase-like managed vector storage for ML applications](https://news.ycombinator.com/item?id=26324850)
+- [Graphene ‘Nano-Origami’ Could Take Us Past the End of Moore’s Law](https://singularityhub.com/2021/03/01/graphene-nano-origami-could-take-us-past-the-end-of-moores-law)
+- [Bats and the Origin of Outbreaks](https://graphics.reuters.com/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/index.html)
+- [Gigerenzer’s simple rules of thumb often outperform complex models](https://www.foundingfuel.com/article/gigerenzers-simple-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
