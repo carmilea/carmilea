@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Axiom (YC W21) – No-code browser automation a.k.a. RPA for everyone](https://news.ycombinator.com/item?id=26327717)
+- [Chinese study reveals Uighur 'assimilation' goal](https://www.bbc.com/news/world-asia-china-56250915)
+- [Meat consumption and risk of 25 conditions: outcome-wide analyses of 475K people](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-01922-9)
+- [What’s Wrong with “Multiplication Is Repeated Addition”? (2008)](https://denisegaskins.com/2008/07/28/whats-wrong-with-repeated-addition/)
 - [Zeus is hiring designers and marketers to build the future of flexible housing](https://zeusliving.com/careers)
-- [Amazon Workers’ Union Drive Reaches Far Beyond Alabama](https://www.nytimes.com/2021/03/02/business/amazon-union-bessemer-alabama.html)
-- [Coinbase Is a $100B Crypto Cult](https://www.bloomberg.com/opinion/articles/2021-03-02/coinbase-ipo-coin-the-crypto-exchange-is-a-100-billion-cult)
-- [Robinhood is facing nearly 50 lawsuits over GameStop frenzy](https://www.nytimes.com/2021/02/26/business/robinhood-gamestop.html)
-- [ICANN Refuses to Accredit Pirate Bay Founder Peter Sunde Due to His ‘Background’](https://torrentfreak.com/icann-refuses-to-accredit-pirate-bay-founder-peter-sunde-due-to-his-background-210303/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
