@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: NNext.net – A Firebase-like managed vector storage for ML applications](https://news.ycombinator.com/item?id=26324850)
 - [Microsoft Power-Fx: a low-code general purpose programming language](https://github.com/microsoft/power-fx)
-- [National Guard at Capitol hospitalized: metal shavings, feathers found in meals](https://www.wusa9.com/article/news/national/capitol-riots/national-guard-in-dc-hospitalized-substandard-food/65-f231f75f-2206-4403-9d19-645eef5f302e)
+- [Fibery – Yet Another Collaboration Tool](https://fibery.io/anxiety)
 - [Microdosing study shows the placebo effect of taking psychelics](https://www.ft.com/content/cd3c7752-3ee7-43c0-bb85-0a2ad2998503)
 - [Local PDF Tools – Powered by WebAssembly](https://localpdf.tech/)
-- [NASA's Perseverance rover sends stunning images](https://www.bbc.com/news/in-pictures-56238018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
