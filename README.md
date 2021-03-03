@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MIT Press has granted full access to all its journals](https://www.mitpressjournals.org/action/showPublications)
-- [“This destroys the RSA cryptosystem”](https://eprint.iacr.org/2021/232)
+- [Don Lancaster's Guru's Lair Home Page](https://tinaja.com/)
+- [The MIT Press launches Direct to Open](https://mitpress.mit.edu/blog/mit-press-launches-direct-open)
 - [Show HN: PhpOverWebsocket](https://github.com/nemiah/phpOverWebsocket)
 - [Volley (YC W18) is hiring engineers to build voice-controlled entertainment](https://jobs.lever.co/volleythat)
 - [Cryptic terrestrial fungus-like fossils of the early Ediacaran Period](https://www.nature.com/articles/s41467-021-20975-1)
