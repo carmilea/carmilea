@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deno v1.8 – support for WebGPU, private modules, Intl, and much more](https://deno.land/posts/v1.8#new-features-and-changes)
+- [These 10 companies control all foods you buy](https://www.businessinsider.nl/10-companies-control-the-food-industry-2016-9)
+- [Virtual Unfolding](https://github.com/UnlockingHistory/virtual-unfolding)
 - [Don Lancaster's Guru's Lair Home Page](https://tinaja.com/)
 - [The MIT Press launches Direct to Open](https://mitpress.mit.edu/blog/mit-press-launches-direct-open)
-- [Show HN: PhpOverWebsocket](https://github.com/nemiah/phpOverWebsocket)
-- [Volley (YC W18) is hiring engineers to build voice-controlled entertainment](https://jobs.lever.co/volleythat)
-- [Cryptic terrestrial fungus-like fossils of the early Ediacaran Period](https://www.nature.com/articles/s41467-021-20975-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
