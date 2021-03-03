@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Are Fewer Young Adults Having Casual Sex?](https://journals.sagepub.com/doi/full/10.1177/2378023121996854)
-- [Imaginary Numbers May Be Essential for Describing Reality](https://www.quantamagazine.org/imaginary-numbers-may-be-essential-for-describing-reality-20210303/)
-- [Brave is launching its own search engine with the help of ex-Cliqz devs and tech](https://techcrunch.com/2021/03/03/brave-is-launching-its-own-search-engine-with-the-help-of-ex-cliqz-devs-and-tech/)
-- [Google: Charting a course towards a more privacy-first web](https://blog.google/products/ads-commerce/a-more-privacy-first-web/)
-- [Google to Stop Selling Ads Based on Your Specific Web Browsing](https://www.wsj.com/articles/google-to-stop-selling-ads-based-on-your-specific-web-browsing-11614780021)
+- [End to End Encrypted, Private Search](https://private.sh)
+- [Schnorr confirms paper is his, claims it “destroys RSA cryptosystem”](https://twitter.com/FredericJacobs/status/1367115794363088897)
+- [PayPal Bids $500M to Acquire Crypto Startup Curv](https://www.financemagnates.com/cryptocurrency/news/paypal-bids-500-million-to-acquire-crypto-startup-curv-report/)
+- [Brave acquires search engine to offer the first private alternative to Google](https://brave.com/brave-search/)
+- [Piracy is not theft, Lost sales don't exist, says Minecraft creator (2011)](https://torrentfreak.com/piracy-is-theft-ridiculous-lost-sales-they-dont-exist-says-minecraft-creator-110303/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
