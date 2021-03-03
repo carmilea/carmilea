@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Axiom (YC W21) – No-code browser automation a.k.a. RPA for everyone](https://news.ycombinator.com/item?id=26327717)
-- [Chinese study reveals Uighur 'assimilation' goal](https://www.bbc.com/news/world-asia-china-56250915)
-- [Meat consumption and risk of 25 conditions: outcome-wide analyses of 475K people](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-01922-9)
-- [What’s Wrong with “Multiplication Is Repeated Addition”? (2008)](https://denisegaskins.com/2008/07/28/whats-wrong-with-repeated-addition/)
-- [Zeus is hiring designers and marketers to build the future of flexible housing](https://zeusliving.com/careers)
+- [Google to stop selling ads based on your specific web browsing](https://www.wsj.com/articles/google-to-stop-selling-ads-based-on-your-specific-web-browsing-11614780021)
+- [Fake News Gets More Engagement on Facebook–But Only If It's Right-Wing](https://www.wired.com/story/right-wing-fake-news-more-engagement-facebook/)
+- [‘Lolita’ Escaped Obscenity Laws and Cancel Culture](https://www.nytimes.com/2021/03/02/books/review/lolita-obscenity-cancel-culture-emily-mortimer.html)
+- [Google no longer wanted to sponsor the AI   ethics conference](https://www.heise.de/news/Google-als-Sponsor-fuer-KI-Ethik-Konferenz-nicht-mehr-erwuenscht-5070341.html)
+- [PipeWire: The Linux audio/video bus](https://lwn.net/SubscriberLink/847412/d7826b1353e33734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
