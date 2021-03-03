@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zeus is hiring designers and marketers to build the future of flexible housing](https://zeusliving.com/careers)
+- [Amazon Workers’ Union Drive Reaches Far Beyond Alabama](https://www.nytimes.com/2021/03/02/business/amazon-union-bessemer-alabama.html)
+- [Coinbase Is a $100B Crypto Cult](https://www.bloomberg.com/opinion/articles/2021-03-02/coinbase-ipo-coin-the-crypto-exchange-is-a-100-billion-cult)
+- [Robinhood is facing nearly 50 lawsuits over GameStop frenzy](https://www.nytimes.com/2021/02/26/business/robinhood-gamestop.html)
 - [ICANN Refuses to Accredit Pirate Bay Founder Peter Sunde Due to His ‘Background’](https://torrentfreak.com/icann-refuses-to-accredit-pirate-bay-founder-peter-sunde-due-to-his-background-210303/)
-- [Möbius Printing Helper](https://shreevatsa.net/mobius-print/)
-- [Google Fonts adds support for Icons](https://fonts.google.com/icons)
-- [Apple is removing Rosetta from Macs during updates in certain countries](https://twitter.com/SteveMoser/status/1366904041243041794)
-- [The Whole Web Pays for Google and Facebook to Be Free](https://www.bloomberg.com/opinion/articles/2021-03-03/pay-for-twitter-super-follows-you-can-thank-google-and-facebook)
 <!-- BLOG-POST-LIST:END -->
 
 ---
