@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alamo Drafthouse Files for Bankruptcy](https://www.kxan.com/news/local/austin/report-alamo-drafthouse-files-for-bankruptcy-will-close-some-theaters/)
+- [Enzyme (YC S17) Is Hiring Ruby and Elixir Engineers to Speed Up FDA Approval](https://angel.co/company/enzymecorp/jobs/287059-full-stack-developer-senior)
+- [How the AWS team will contribute to Rust’s success](https://aws.amazon.com/blogs/opensource/how-our-aws-rust-team-will-contribute-to-rusts-future-successes/)
+- [Killing TurboTax](https://kunle.app/feb-2021-how-to-dismantle-turbotax.html)
 - [End to End Encrypted, Private Search](https://private.sh)
-- [Schnorr confirms paper is his, claims it “destroys RSA cryptosystem”](https://twitter.com/FredericJacobs/status/1367115794363088897)
-- [PayPal Bids $500M to Acquire Crypto Startup Curv](https://www.financemagnates.com/cryptocurrency/news/paypal-bids-500-million-to-acquire-crypto-startup-curv-report/)
-- [Brave acquires search engine to offer the first private alternative to Google](https://brave.com/brave-search/)
-- [Piracy is not theft, Lost sales don't exist, says Minecraft creator (2011)](https://torrentfreak.com/piracy-is-theft-ridiculous-lost-sales-they-dont-exist-says-minecraft-creator-110303/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
