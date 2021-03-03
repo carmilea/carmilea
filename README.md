@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alamo Drafthouse Files for Bankruptcy](https://www.kxan.com/news/local/austin/report-alamo-drafthouse-files-for-bankruptcy-will-close-some-theaters/)
-- [OmniSci launches free edition of platform for interactive visual analytics](https://www.omnisci.com/blog/announcing-omnisci-free)
-- [Enzyme (YC S17) Is Hiring Ruby and Elixir Engineers to Speed Up FDA Approval](https://angel.co/company/enzymecorp/jobs/287059-full-stack-developer-senior)
-- [How the AWS team will contribute to Rust’s success](https://aws.amazon.com/blogs/opensource/how-our-aws-rust-team-will-contribute-to-rusts-future-successes/)
-- [Killing TurboTax](https://kunle.app/feb-2021-how-to-dismantle-turbotax.html)
+- [Launch HN: Biodock (YC W21) – Better microscopy image analysis](https://news.ycombinator.com/item?id=26332585)
+- [Using Apple Silicon (M1) as a cloud engineer, two months in](https://blog.earthly.dev/using-apple-silicon-m1-as-a-cloud-engineer-two-months-in/)
+- [Every Google Cloud service described in 4 words (2021 update)](https://cloud.google.com/blog/topics/developers-practitioners/back-popular-demand-google-cloud-products-4-words-or-less-2021-edition)
+- [Germanium transistors: logic circuits in the IBM 1401 computer](https://www.righto.com/2021/03/germanium-transistors-logic-circuits-in.html)
+- [AI Index 2021](https://hai.stanford.edu/research/ai-index-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
