@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Alamo Drafthouse Files for Bankruptcy](https://www.kxan.com/news/local/austin/report-alamo-drafthouse-files-for-bankruptcy-will-close-some-theaters/)
+- [OmniSci launches free edition of platform for interactive visual analytics](https://www.omnisci.com/blog/announcing-omnisci-free)
 - [Enzyme (YC S17) Is Hiring Ruby and Elixir Engineers to Speed Up FDA Approval](https://angel.co/company/enzymecorp/jobs/287059-full-stack-developer-senior)
 - [How the AWS team will contribute to Rust’s success](https://aws.amazon.com/blogs/opensource/how-our-aws-rust-team-will-contribute-to-rusts-future-successes/)
 - [Killing TurboTax](https://kunle.app/feb-2021-how-to-dismantle-turbotax.html)
-- [End to End Encrypted, Private Search](https://private.sh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
