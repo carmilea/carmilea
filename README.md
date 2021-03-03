@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google to stop selling ads based on your specific web browsing](https://www.wsj.com/articles/google-to-stop-selling-ads-based-on-your-specific-web-browsing-11614780021)
-- [Fake News Gets More Engagement on Facebook–But Only If It's Right-Wing](https://www.wired.com/story/right-wing-fake-news-more-engagement-facebook/)
-- [‘Lolita’ Escaped Obscenity Laws and Cancel Culture](https://www.nytimes.com/2021/03/02/books/review/lolita-obscenity-cancel-culture-emily-mortimer.html)
-- [Google no longer wanted to sponsor the AI   ethics conference](https://www.heise.de/news/Google-als-Sponsor-fuer-KI-Ethik-Konferenz-nicht-mehr-erwuenscht-5070341.html)
-- [PipeWire: The Linux audio/video bus](https://lwn.net/SubscriberLink/847412/d7826b1353e33734)
+- [Why Are Fewer Young Adults Having Casual Sex?](https://journals.sagepub.com/doi/full/10.1177/2378023121996854)
+- [Imaginary Numbers May Be Essential for Describing Reality](https://www.quantamagazine.org/imaginary-numbers-may-be-essential-for-describing-reality-20210303/)
+- [Brave is launching its own search engine with the help of ex-Cliqz devs and tech](https://techcrunch.com/2021/03/03/brave-is-launching-its-own-search-engine-with-the-help-of-ex-cliqz-devs-and-tech/)
+- [Google: Charting a course towards a more privacy-first web](https://blog.google/products/ads-commerce/a-more-privacy-first-web/)
+- [Google to Stop Selling Ads Based on Your Specific Web Browsing](https://www.wsj.com/articles/google-to-stop-selling-ads-based-on-your-specific-web-browsing-11614780021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
