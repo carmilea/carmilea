@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists Talked to People in Their [Lucid] Dreams. They Answered](https://www.npr.org/2021/02/27/971958260/scientists-talked-to-people-in-their-dreams-they-answered)
+- [Memfault (YC W19) Is Hiring Front End Engineers in Germany](https://jobs.ashbyhq.com/memfault/1ab6fff8-f6ee-4c2d-a40d-1bfaffc39191?utm_source=Oo4aejgXnk)
+- [On the Instability of Bitcoin Without the Block Reward [pdf]](https://www.cs.princeton.edu/~arvindn/publications/mining_CCS.pdf)
+- [Python 3.10.0a6 is available, now with 100% more pattern matching](https://mail.python.org/archives/list/python-committers@python.org/message/VGZDQ5TFMSWEQZS6HNDLDJQ7GAASGUUB/)
+- [Scientists talked to people in their lucid dreams](https://www.npr.org/2021/02/27/971958260/scientists-talked-to-people-in-their-dreams-they-answered)
 - [Show HN: NNext.net – A Firebase-like managed vector storage for ML applications](https://news.ycombinator.com/item?id=26324850)
-- [Dear Moon – Space crew applications open](https://dearmoon.earth/)
-- [Linux Desktop on Apple Silicon/M1 in Practice](https://gist.github.com/akihikodaki/87df4149e7ca87f18dc56807ec5a1bc5)
-- [Microsoft Power-Fx: a low-code general purpose programming language](https://github.com/microsoft/power-fx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
