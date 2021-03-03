@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Local PDF Tools – Powered by WebAssembly](https://localpdf.tech/)
 - [NASA's Perseverance rover sends stunning images](https://www.bbc.com/news/in-pictures-56238018)
-- [&quot;This destroyes the RSA cryptosystem&quot;](https://www.cryptologie.net/article/515/this-destroyes-the-rsa-cryptosystem/)
+- [A Man Who Abandoned Value](https://www.institutionalinvestor.com/article/b1qmbjmykxql3g/The-Man-Who-Abandoned-Value)
 - [Deno v1.8 – support for WebGPU, private modules, Intl, and much more](https://deno.land/posts/v1.8#new-features-and-changes)
-- [Don Lancaster's Guru's Lair Home Page](https://tinaja.com/)
-- [The MIT Press launches Direct to Open](https://mitpress.mit.edu/blog/mit-press-launches-direct-open)
+- [The Boston Camera](https://en.wikipedia.org/wiki/Boston_Camera)
 <!-- BLOG-POST-LIST:END -->
 
 ---
