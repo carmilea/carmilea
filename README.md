@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Power-Fx: a low-code general purpose programming language](https://github.com/microsoft/power-fx)
+- [National Guard at Capitol hospitalized: metal shavings, feathers found in meals](https://www.wusa9.com/article/news/national/capitol-riots/national-guard-in-dc-hospitalized-substandard-food/65-f231f75f-2206-4403-9d19-645eef5f302e)
+- [Microdosing study shows the placebo effect of taking psychelics](https://www.ft.com/content/cd3c7752-3ee7-43c0-bb85-0a2ad2998503)
 - [Local PDF Tools – Powered by WebAssembly](https://localpdf.tech/)
 - [NASA's Perseverance rover sends stunning images](https://www.bbc.com/news/in-pictures-56238018)
-- [A Man Who Abandoned Value](https://www.institutionalinvestor.com/article/b1qmbjmykxql3g/The-Man-Who-Abandoned-Value)
-- [Deno v1.8 – support for WebGPU, private modules, Intl, and much more](https://deno.land/posts/v1.8#new-features-and-changes)
-- [The Boston Camera](https://en.wikipedia.org/wiki/Boston_Camera)
 <!-- BLOG-POST-LIST:END -->
 
 ---
