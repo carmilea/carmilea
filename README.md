@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twin sisters worth millions thanks to female gamers](https://www.bbc.com/news/business-56261671)
 - [Etleap (YC W13) Is Hiring](https://www.workatastartup.com/jobs/42334)
 - [It Can Happen to You](https://www.mattkeeter.com/blog/2021-03-01-happen/)
 - [Goat Ops](http://www.goatops.com/)
 - [Cbonsai: Grow bonsai trees in your terminal](https://gitlab.com/jallbrit/cbonsai)
-- [Live feed of Starship SN10 flight test [video]](https://twitter.com/SpaceX/status/1367250900041953280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
