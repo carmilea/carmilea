@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gab Has Been Breached](https://www.troyhunt.com/gab-has-been-breached/)
+- [India’s new intermediary liability and digital media laws will harm the internet](https://blog.mozilla.org/netpolicy/2021/03/02/indias-new-intermediary-liability-and-digital-media-regulations-will-harm-the-open-internet/)
+- [Peak Design calls out Amazon for copying its camera bag, including the name](https://www.youtube.com/watch?v=HbxWGjQ2szQ)
 - [Why You Should Take Any Vaccine](https://zeynep.substack.com/p/why-you-should-take-any-vaccine)
 - [Bitsquatting Windows.com](https://remyhax.xyz/posts/bitsquatting-windows/)
-- [Norwegian Won’t Fly the Boeing 737 Max Again](https://simpleflying.com/norwegian-drops-737-max/)
-- [Accidentally quadratic: When Python is faster than C++](https://arxiv.org/abs/1911.12338)
-- [Twin sisters worth millions thanks to female gamers](https://www.bbc.com/news/business-56261671)
 <!-- BLOG-POST-LIST:END -->
 
 ---
