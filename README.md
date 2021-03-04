@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp Help Center – We’re Updating Our Terms of Service and Privacy Policy](https://faq.whatsapp.com/general/security-and-privacy/were-updating-our-terms-and-privacy-policy?lg=en&lc=US&eea=0)
 - [Show HN: Woice.me – async voice communication for teams: work, at your own pace](https://www.woice.me/)
+- [Europeans get ‘right to repair’ for some electrical goods](https://www.independent.co.uk/life-style/gadgets-and-tech/eu-right-repair-technology-decade-b1809408.html)
 - [Don’t blindly prefer emplace_back to push_back](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [TSMC at the head of history’s tide: two high walls and one sharp knife](https://docs.google.com/document/d/1RMr9lzlgrReruoosnoHLIZ0hHbqJT5Kq7hZmcG6_uqg/mobilebasic#heading=h.xehsiu9i1mw1)
-- [India’s new intermediary liability and digital media laws will harm the internet](https://blog.mozilla.org/netpolicy/2021/03/02/indias-new-intermediary-liability-and-digital-media-regulations-will-harm-the-open-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
