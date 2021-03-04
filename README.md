@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon changes app logo that 'resembles Adolf Hitler'](https://www.bbc.com/news/technology-56266514)
-- [Replace the “among us” reference with “here”](https://github.com/rust-lang/rust-by-example/pull/1417)
-- [ThredUp S-1 IPO](https://www.sec.gov/Archives/edgar/data/1484778/000162828021003857/thredups-1.htm)
-- [Ethereum on Amazon Managed Blockchain](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-ethereum-on-amazon-managed-blockchain/)
-- [Emily Riehl is rewriting the foundations of higher category theory](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/)
+- [Alsup Says Apple Owes Calif. Workers for Bag Check Time](https://www.law360.com/california/articles/1360988/alsup-says-apple-owes-calif-workers-for-bag-check-time)
+- [Cbonsai: Grow bonsai trees in your terminal](https://gitlab.com/jallbrit/cbonsai)
+- [Live feed of Starship SN10 flight test [video]](https://twitter.com/SpaceX/status/1367250900041953280)
+- [Godot maintainer removes controversial satirical piece from documentation](https://github.com/godotengine/godot-docs/commit/b872229427dddb9b749f46af597e85e25cf2955a)
+- [Plot twist: Schnorr now says that he uploaded the wrong version to ePrint](https://twitter.com/FredericJacobs/status/1367172799119446017)
 <!-- BLOG-POST-LIST:END -->
 
 ---
