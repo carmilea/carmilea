@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Every $1 of BTC value responsible for $0.49 in health and climate damages in US](https://www.sciencedirect.com/science/article/abs/pii/S2214629619302701)
+- [SoftBank-backed Greensill Capital is on the brink. 50k jobs could be at risk](https://edition.cnn.com/2021/03/03/investing/greensill-insolvency-apollo/index.html)
+- [Antarctica Is Running Out of Wilderness](https://www.theatlantic.com/science/archive/2021/03/antarctica-running-out-wilderness/618192/)
+- [Tidal Acquired by Square](https://twitter.com/jack/status/1367460907958243328)
+- [Starship goes up. Starship goes down. But is the program moving forward?](https://arstechnica.com/science/2021/03/starship-goes-up-starship-goes-down-but-is-the-program-moving-forward/)
 - [Find hundreds of open eng roles at YC startups on Y Combinator.com](https://www.ycombinator.com/jobs/l/software-engineer)
-- [We Expect 300k Fewer Births Than Usual This Year in the US](https://www.nytimes.com/2021/03/04/opinion/coronavirus-baby-bust.html)
-- [EVs Could Make Dealerships a Thing of the Past, Too](https://www.bloomberg.com/news/articles/2021-03-04/evs-could-make-dealerships-a-thing-of-the-past-too)
-- [That Is Not How Your Brain Works](https://nautil.us/issue/98/mind/that-is-not-how-your-brain-works)
 <!-- BLOG-POST-LIST:END -->
 
 ---
