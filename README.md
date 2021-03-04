@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to stay focused and motivated working from home?](https://news.ycombinator.com/item?id=26343950)
+- [Resquared (YC W21) Is Hiring Engineers](https://www.workatastartup.com/jobs/42392)
+- [Apple now lets you transfer your iCloud Photos to Google Photos](https://support.apple.com/en-us/HT208514)
+- [Google’s FLoC Is a Terrible Idea](https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea)
 - [HTTPWTF](https://httptoolkit.tech/blog/http-wtf/)
 - [Consciousness Is Just a Feeling](https://nautil.us/issue/98/mind/consciousness-is-just-a-feeling)
-- [US Senators call on FCC to raise broadband definition to 100Mbs down and up](https://www.theverge.com/2021/3/4/22312065/fcc-highspeed-broadband-service-ajit-pai-bennet-angus-king-rob-portman)
-- [Joan Fons hired to work on Godot's rendering](https://godotengine.org/article/joan-fons-hired-work-godot-rendering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
