@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Woice.me – async voice communication for teams: work, at your own pace](https://www.woice.me/)
+- [Don’t blindly prefer emplace_back to push_back](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [Fast Factoring Integers by SVP Algorithms: “This Destroys the RSA Cryptosystem.” [pdf]](https://eprint.iacr.org/2021/232.pdf)
+- [TSMC at the head of history’s tide: two high walls and one sharp knife](https://docs.google.com/document/d/1RMr9lzlgrReruoosnoHLIZ0hHbqJT5Kq7hZmcG6_uqg/mobilebasic#heading=h.xehsiu9i1mw1)
 - [India’s new intermediary liability and digital media laws will harm the internet](https://blog.mozilla.org/netpolicy/2021/03/02/indias-new-intermediary-liability-and-digital-media-regulations-will-harm-the-open-internet/)
-- [Write complicated anonymous functions other than lambdas in Python](https://github.com/hsfzxjy/lambdex)
-- [Peak Design calls out Amazon for copying its camera bag, including the name](https://www.youtube.com/watch?v=HbxWGjQ2szQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
