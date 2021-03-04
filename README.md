@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Every $1 of BTC value responsible for $0.49 in health and climate damages in US](https://www.sciencedirect.com/science/article/abs/pii/S2214629619302701)
 - [Find hundreds of open eng roles at YC startups on Y Combinator.com](https://www.ycombinator.com/jobs/l/software-engineer)
-- [Flutter's Janky Animations Problem](https://www.youtube.com/watch?v=L3iqmyoogfA)
-- [Lion: A formally verified, 5-stage pipeline RISC-V core](https://github.com/standardsemiconductor/lion)
-- [Tips for Shipping Data Products Fast](https://shopify.engineering/shipping-data-products-fast)
-- [How to Operate an Airport in Antarctica](https://www.flightradar24.com/blog/troll-research-station-how-to-operate-an-airport-in-antarctica/)
+- [We Expect 300k Fewer Births Than Usual This Year in the US](https://www.nytimes.com/2021/03/04/opinion/coronavirus-baby-bust.html)
+- [EVs Could Make Dealerships a Thing of the Past, Too](https://www.bloomberg.com/news/articles/2021-03-04/evs-could-make-dealerships-a-thing-of-the-past-too)
+- [That Is Not How Your Brain Works](https://nautil.us/issue/98/mind/that-is-not-how-your-brain-works)
 <!-- BLOG-POST-LIST:END -->
 
 ---
