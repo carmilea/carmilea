@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The lessons of Fukushima – Nuclear power must be well regulated, not ditched](https://www.economist.com/leaders/2021/03/06/nuclear-power-must-be-well-regulated-not-ditched)
-- [Reverse-engineering Rosetta 2 Part 1: Analyzing AoT files and the runtime](https://ffri.github.io/ProjectChampollion/part1/)
-- [Tintern 'secret' medieval tunnel system found by accident](https://www.bbc.co.uk/news/uk-wales-56281726)
-- [Show HN: Practical Python Projects book release](https://news.ycombinator.com/item?id=26346586)
-- [A reminder that you should double-check the licenses for software you use](https://github.com/katharostech/ldtk-rs/blob/master/LICENSE.md)
+- [Whatnot (YC W20) Is Hiring Engineers, Marketers and Partnerships People](https://jobs.lever.co/whatnot)
+- [Show HN: LinkWall – Your Landing Page Linked to Social Activity](https://linkwall.me)
+- [Launch HN: Lendflow (YC W21) – Infrastructure for embedded lending services](https://news.ycombinator.com/item?id=26347962)
+- [Git's list of banned C functions](https://github.com/git/git/blob/master/banned.h)
+- [Multimodal Neurons in Artificial Neural Networks](https://openai.com/blog/multimodal-neurons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
