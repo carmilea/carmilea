@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Signal Server repository has not been updated since April 2020](https://lemmy.ml/post/55595)
-- [Female Founder Secrets: Fertility](https://femfosec.com/fertility/)
-- [Resquared (YC W21) Is Hiring Engineers](https://www.workatastartup.com/jobs/42392)
-- [Apple now lets you transfer your iCloud Photos to Google Photos](https://support.apple.com/en-us/HT208514)
-- [EU blocks export of AstraZeneca Covid-19 vaccines to Australia](https://www.dw.com/en/eu-blocks-export-of-astrazeneca-covid-19-vaccines-to-australia/a-56774362)
+- [A reminder that you should double-check the licenses for software you use](https://github.com/katharostech/ldtk-rs/blob/master/LICENSE.md)
+- [KPIX Reporter Robbed at Gunpoint While Covering Car Break-Ins at SF’s Twin Peaks](https://sanfrancisco.cbslocal.com/2021/03/03/kpix-5-reporter-robbed-gunpoint-auto-thefts-san-francisco-twin-peaks/)
+- [Understanding Deep Learning (Still) Requires Rethinking Generalization](https://cacm.acm.org/magazines/2021/3/250713-understanding-deep-learning-still-requires-rethinking-generalization/fulltext)
+- [An Introduction to Lockless Algorithms](https://lwn.net/Articles/844224/)
+- [Speeding up Chrome's release cycle](https://blog.chromium.org/2021/03/speeding-up-release-cycle.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
