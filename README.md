@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Signal Server repository has not been updated since April 2020](https://lemmy.ml/post/55595)
+- [Female Founder Secrets: Fertility](https://femfosec.com/fertility/)
 - [Resquared (YC W21) Is Hiring Engineers](https://www.workatastartup.com/jobs/42392)
 - [Apple now lets you transfer your iCloud Photos to Google Photos](https://support.apple.com/en-us/HT208514)
-- [Google’s FLoC Is a Terrible Idea](https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea)
-- [HTTPWTF](https://httptoolkit.tech/blog/http-wtf/)
-- [Consciousness Is Just a Feeling](https://nautil.us/issue/98/mind/consciousness-is-just-a-feeling)
+- [EU blocks export of AstraZeneca Covid-19 vaccines to Australia](https://www.dw.com/en/eu-blocks-export-of-astrazeneca-covid-19-vaccines-to-australia/a-56774362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
