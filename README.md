@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Twin sisters worth millions thanks to female gamers](https://www.bbc.com/news/business-56261671)
+- [Iceberg simulator – draw an iceberg and see how it floats and melts](https://engaging-data.com/iceberger-remixed/?h=)
 - [Etleap (YC W13) Is Hiring](https://www.workatastartup.com/jobs/42334)
 - [It Can Happen to You](https://www.mattkeeter.com/blog/2021-03-01-happen/)
 - [Goat Ops](http://www.goatops.com/)
-- [Cbonsai: Grow bonsai trees in your terminal](https://gitlab.com/jallbrit/cbonsai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
