@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The lessons of Fukushima – Nuclear power must be well regulated, not ditched](https://www.economist.com/leaders/2021/03/06/nuclear-power-must-be-well-regulated-not-ditched)
+- [Reverse-engineering Rosetta 2 Part 1: Analyzing AoT files and the runtime](https://ffri.github.io/ProjectChampollion/part1/)
+- [Tintern 'secret' medieval tunnel system found by accident](https://www.bbc.co.uk/news/uk-wales-56281726)
+- [Show HN: Practical Python Projects book release](https://news.ycombinator.com/item?id=26346586)
 - [A reminder that you should double-check the licenses for software you use](https://github.com/katharostech/ldtk-rs/blob/master/LICENSE.md)
-- [KPIX Reporter Robbed at Gunpoint While Covering Car Break-Ins at SF’s Twin Peaks](https://sanfrancisco.cbslocal.com/2021/03/03/kpix-5-reporter-robbed-gunpoint-auto-thefts-san-francisco-twin-peaks/)
-- [Understanding Deep Learning (Still) Requires Rethinking Generalization](https://cacm.acm.org/magazines/2021/3/250713-understanding-deep-learning-still-requires-rethinking-generalization/fulltext)
-- [An Introduction to Lockless Algorithms](https://lwn.net/Articles/844224/)
-- [Speeding up Chrome's release cycle](https://blog.chromium.org/2021/03/speeding-up-release-cycle.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
