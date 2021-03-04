@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alsup Says Apple Owes Calif. Workers for Bag Check Time](https://www.law360.com/california/articles/1360988/alsup-says-apple-owes-calif-workers-for-bag-check-time)
+- [Etleap (YC W13) Is Hiring](https://www.workatastartup.com/jobs/42334)
+- [It Can Happen to You](https://www.mattkeeter.com/blog/2021-03-01-happen/)
+- [Goat Ops](http://www.goatops.com/)
 - [Cbonsai: Grow bonsai trees in your terminal](https://gitlab.com/jallbrit/cbonsai)
 - [Live feed of Starship SN10 flight test [video]](https://twitter.com/SpaceX/status/1367250900041953280)
-- [Godot maintainer removes controversial satirical piece from documentation](https://github.com/godotengine/godot-docs/commit/b872229427dddb9b749f46af597e85e25cf2955a)
-- [Plot twist: Schnorr now says that he uploaded the wrong version to ePrint](https://twitter.com/FredericJacobs/status/1367172799119446017)
 <!-- BLOG-POST-LIST:END -->
 
 ---
