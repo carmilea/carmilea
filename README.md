@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Borland DBase IV for DOS](https://psychocod3r.wordpress.com/2020/07/21/exploring-borland-dbase-iv-for-dos/)
-- [Repl.it doesn't have “cancel” button for subscriptions](https://news.ycombinator.com/item?id=26343268)
+- [Ask HN: How to stay focused and motivated working from home?](https://news.ycombinator.com/item?id=26343950)
+- [HTTPWTF](https://httptoolkit.tech/blog/http-wtf/)
+- [Consciousness Is Just a Feeling](https://nautil.us/issue/98/mind/consciousness-is-just-a-feeling)
+- [US Senators call on FCC to raise broadband definition to 100Mbs down and up](https://www.theverge.com/2021/3/4/22312065/fcc-highspeed-broadband-service-ajit-pai-bennet-angus-king-rob-portman)
 - [Joan Fons hired to work on Godot's rendering](https://godotengine.org/article/joan-fons-hired-work-godot-rendering)
-- [Launch HN: Alinea (YC W21) – Invest in stocks you believe in](https://news.ycombinator.com/item?id=26342977)
-- [SoftBank-backed Greensill Capital is on the brink. 50k jobs could be at risk](https://edition.cnn.com/2021/03/03/investing/greensill-insolvency-apollo/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
