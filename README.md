@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
+- [Fast Factoring Integers by SVP Algorithms: “This Destroys the RSA Cryptosystem.” [pdf]](https://eprint.iacr.org/2021/232.pdf)
 - [Gab Has Been Breached](https://www.troyhunt.com/gab-has-been-breached/)
 - [India’s new intermediary liability and digital media laws will harm the internet](https://blog.mozilla.org/netpolicy/2021/03/02/indias-new-intermediary-liability-and-digital-media-regulations-will-harm-the-open-internet/)
 - [Peak Design calls out Amazon for copying its camera bag, including the name](https://www.youtube.com/watch?v=HbxWGjQ2szQ)
-- [Why You Should Take Any Vaccine](https://zeynep.substack.com/p/why-you-should-take-any-vaccine)
-- [Bitsquatting Windows.com](https://remyhax.xyz/posts/bitsquatting-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
