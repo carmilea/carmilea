@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Operate an Airport in Antarctica](https://www.flightradar24.com/blog/troll-research-station-how-to-operate-an-airport-in-antarctica/)
 - [WhatsApp Help Center – We’re Updating Our Terms of Service and Privacy Policy](https://faq.whatsapp.com/general/security-and-privacy/were-updating-our-terms-and-privacy-policy?lg=en&lc=US&eea=0)
 - [Show HN: Woice.me – async voice communication for teams: work, at your own pace](https://www.woice.me/)
 - [Europeans get ‘right to repair’ for some electrical goods](https://www.independent.co.uk/life-style/gadgets-and-tech/eu-right-repair-technology-decade-b1809408.html)
 - [Don’t blindly prefer emplace_back to push_back](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
