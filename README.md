@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Take Any Vaccine](https://zeynep.substack.com/p/why-you-should-take-any-vaccine)
+- [Bitsquatting Windows.com](https://remyhax.xyz/posts/bitsquatting-windows/)
 - [Norwegian Won’t Fly the Boeing 737 Max Again](https://simpleflying.com/norwegian-drops-737-max/)
 - [Accidentally quadratic: When Python is faster than C++](https://arxiv.org/abs/1911.12338)
 - [Twin sisters worth millions thanks to female gamers](https://www.bbc.com/news/business-56261671)
-- [Iceberg simulator – draw an iceberg and see how it floats and melts](https://engaging-data.com/iceberger-remixed/?h=)
-- [Etleap (YC W13) Is Hiring](https://www.workatastartup.com/jobs/42334)
 <!-- BLOG-POST-LIST:END -->
 
 ---
