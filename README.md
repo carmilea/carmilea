@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Whatnot (YC W20) Is Hiring Engineers, Marketers and Partnerships People](https://jobs.lever.co/whatnot)
-- [Show HN: LinkWall – Your Landing Page Linked to Social Activity](https://linkwall.me)
 - [Launch HN: Lendflow (YC W21) – Infrastructure for embedded lending services](https://news.ycombinator.com/item?id=26347962)
 - [Git's list of banned C functions](https://github.com/git/git/blob/master/banned.h)
 - [Multimodal Neurons in Artificial Neural Networks](https://openai.com/blog/multimodal-neurons/)
+- [Turntable.fm is back from the dead – and now there are two](https://www.theverge.com/2021/3/4/22313793/turntable-fm-return-two-versions-original)
 <!-- BLOG-POST-LIST:END -->
 
 ---
