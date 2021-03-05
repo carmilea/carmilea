@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FizzBuzz in 65c816 Assembly for Super Mario World](https://computebeauty.com/posts/fbmw/index.html)
+- [Coursera S-1 IPO](https://www.sec.gov/Archives/edgar/data/1651562/000119312521071525/d65490ds1.htm)
+- [Isadore Singer Bridged Math and Physics](https://www.quantamagazine.org/isadore-singer-bridged-math-and-physics-20210304/)
+- [At Least 30k U.S. Organizations Newly Hacked via Holes in MS’s Email Software](https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/)
 - [Our World in Data (YC W19) Is Hiring a Full-Stack Dev and a Technical Team Lead](https://ourworldindata.org/jobs)
-- [Show HN: Svelte NodeGUI, a lightweight Electron alternative with native UI](https://github.com/nodegui/svelte-nodegui)
-- [An update on Android's audio latency](https://android-developers.googleblog.com/2021/03/an-update-on-androids-audio-latency.html)
-- [Show HN: Relocate.me – get your next tech job abroad](https://relocate.me)
-- [Ask HN: How do I learn drawing?](https://news.ycombinator.com/item?id=26360349)
 <!-- BLOG-POST-LIST:END -->
 
 ---
