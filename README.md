@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PyTorch 1.8 release with AMD ROCm support](https://github.com/pytorch/pytorch/releases/tag/v1.8.0)
+- [PyTorch 1.8, with AMD ROCm support](https://github.com/pytorch/pytorch/releases/tag/v1.8.0)
 - [Who Wrote Your Favorite Song? It’s Complicated](https://www.wsj.com/articles/who-really-wrote-your-favorite-song-its-complicated-11614176253)
 - [Stability of Fixed Points of High Dimensional Dynamical Systems](https://adipandas.github.io/posts/2021/03/fixed-point-high-dim/)
 - [Honda's now selling the first production car with level 3 self-driving](https://www.thedrive.com/news/39609/hondas-now-selling-the-worlds-first-production-car-with-level-3-self-driving-tech)
