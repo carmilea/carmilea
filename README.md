@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [PyTorch 1.8, with AMD ROCm support](https://github.com/pytorch/pytorch/releases/tag/v1.8.0)
-- [Who Wrote Your Favorite Song? It’s Complicated](https://www.wsj.com/articles/who-really-wrote-your-favorite-song-its-complicated-11614176253)
+- [Microsoft's list of banned C functions](https://github.com/x509cert/banned/blob/master/banned.h)
+- [India downgraded from ‘free’ to ‘partly free’ in democracy report](https://www.hindustantimes.com/india-news/india-downgraded-from-free-to-partly-free-in-democracy-report-101614810847391.html)
 - [Stability of Fixed Points of High Dimensional Dynamical Systems](https://adipandas.github.io/posts/2021/03/fixed-point-high-dim/)
 - [Honda's now selling the first production car with level 3 self-driving](https://www.thedrive.com/news/39609/hondas-now-selling-the-worlds-first-production-car-with-level-3-self-driving-tech)
-- [Book Review: Fussell on Class](https://astralcodexten.substack.com/p/book-review-fussell-on-class)
 <!-- BLOG-POST-LIST:END -->
 
 ---
