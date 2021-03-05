@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facial recognition can predict person’s political orientation with 72% accuracy](https://www.nature.com/articles/s41598-020-79310-1)
+- [Modern Text Features in R](https://www.tidyverse.org/blog/2021/02/modern-text-features/)
 - [Zola, A fast static site generator in a single binary](https://www.getzola.org/)
-- [Physicists found 4 new subatomic particles that may test the laws of nature](https://www.sciencealert.com/scientists-just-discovered-four-new-subatomic-particles-all-tetraquarks)
 - [Scientists announce a physical warp drive is possible](https://www.esquire.com/news-politics/a35728928/scientists-say-physical-warp-drive-is-possible/)
-- [Reddit hires its first chief financial officer as it prepares for an IPO](https://www.nytimes.com/2021/03/05/technology/reddit-chief-financial-officer-ipo.html)
-- [Framing 101](https://www.frameworksinstitute.org/tools-and-resources/framing-101/)
+- [Generating ePub from LaTeX](https://minireference.com/blog/generating-epub-from-latex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
