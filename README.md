@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You can't parse [X]HTML with regex](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
+- [Duffel (YC S18) is hiring back end engineers in London](https://jobs.lever.co/duffel/b84d43ae-d244-4a26-803c-d155b96ce0eb)
+- [Bring Your Own Client](https://www.geoffreylitt.com/2021/03/05/bring-your-own-client.html)
+- [How does your programming language handle “minus zero” (-0.0)?](https://lemire.me/blog/2021/03/04/how-does-your-programming-language-handle-minus-zero-0-0/)
 - ["World's highest-capacity" solid-state battery developed in Japan](https://asia.nikkei.com/Business/Energy/World-s-highest-capacity-solid-state-battery-developed-in-Japan)
-- [Fake news can direct your behavior without you realizing it](https://www.sciencedirect.com/science/article/pii/S0747563220303800)
 - [PyTorch 1.8, with AMD ROCm support](https://github.com/pytorch/pytorch/releases/tag/v1.8.0)
-- [Stability of Fixed Points of High Dimensional Dynamical Systems](https://adipandas.github.io/posts/2021/03/fixed-point-high-dim/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
