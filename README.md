@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [City student passes 3 classes in four years, ranks near top half of class](https://foxbaltimore.com/news/project-baltimore/city-student-passes-3-classes-in-four-years-ranks-near-top-half-of-class-with-013-gpa)
-- [Genius (YC S11) Is Hiring a Director of Engineering (U.S. Remote)](https://boards.greenhouse.io/genius/jobs/2686178)
-- [Tool lets you confuse Google’s ad network, and a test shows it works](https://www.technologyreview.com/2021/01/06/1015784/adsense-google-surveillance-adnauseam-obfuscation/)
-- [Mischa's Cursed Webring](https://cursed.lol)
-- [Ask HN: List of failed Smart Fridge startups?](https://news.ycombinator.com/item?id=26358794)
+- [U.S. says John McAfee indicted over fraudulent cryptocurrency schemes](https://www.reuters.com/article/usa-crime-mcafee/update-1-u-s-says-john-mcafee-indicted-over-fraudulent-cryptocurrency-schemes-idUSL2N2L31SF)
+- [Wing Commander III](https://www.filfre.net/2021/03/wing-commander-iii/)
+- [Oakland Bans the Use of Combustion Engine-Powered Leaf Blowers and Trimmers](https://www.oaklandca.gov/resources/oakland-bans-the-use-of-combustion-engine-powered-leaf-blowers-and-string-trimmers)
+- [Do What Makes the Best Story](https://amasad.me/story)
+- [Nvidia Deep Learning Accelerator (NVDLA): a free and open inference accelerator](http://nvdla.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
