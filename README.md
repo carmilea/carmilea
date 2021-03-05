@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AdGuard publishes a list of 6K+ trackers abusing the CNAME cloaking technique](https://github.com/AdguardTeam/cname-trackers)
+- [Open source projects should run office hours](https://simonwillison.net/2021/Feb/19/office-hours/)
+- [US health agency will invest $1B to investigate 'long Covid'](https://www.nature.com/articles/d41586-021-00586-y)
 - [Compensation as a Reflection of Values](https://oxide.computer/blog/compensation-as-a-reflection-of-values/)
 - [Whatnot (YC W20) Is Hiring Engineers, Marketers and Partnerships People](https://jobs.lever.co/whatnot)
 - [Show HN: LinkWall – Your Landing Page Linked to Social Activity](https://linkwall.me)
-- [Launch HN: Lendflow (YC W21) – Infrastructure for embedded lending services](https://news.ycombinator.com/item?id=26347962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
