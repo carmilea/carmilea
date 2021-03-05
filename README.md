@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You can't parse [X]HTML with regex](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
 - [Europe Does Well in Innovation](https://www.bloomberg.com/news/articles/2021-02-03/south-korea-leads-world-in-innovation-u-s-drops-out-of-top-10)
 - ["World's highest-capacity" solid-state battery developed in Japan](https://asia.nikkei.com/Business/Energy/World-s-highest-capacity-solid-state-battery-developed-in-Japan)
 - [PyTorch 1.8, with AMD ROCm support](https://github.com/pytorch/pytorch/releases/tag/v1.8.0)
-- [Microsoft's list of banned C functions](https://github.com/x509cert/banned/blob/master/banned.h)
-- [India downgraded from ‘free’ to ‘partly free’ in democracy report](https://www.hindustantimes.com/india-news/india-downgraded-from-free-to-partly-free-in-democracy-report-101614810847391.html)
+- [Stability of Fixed Points of High Dimensional Dynamical Systems](https://adipandas.github.io/posts/2021/03/fixed-point-high-dim/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
