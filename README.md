@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Framing 101](https://www.frameworksinstitute.org/tools-and-resources/framing-101/)
+- [Symbolics.jl: A Modern Computer Algebra System for a Modern Language](https://discourse.julialang.org/t/ann-symbolics-jl-a-modern-computer-algebra-system-for-a-modern-language/56251)
+- [Walker 'stunned' to see ship hovering high above sea off Cornwall](https://www.theguardian.com/science/2021/mar/05/ship-hovering-above-sea-cornwall-optical-illusion)
+- [Valve's Proton Has Enabled 7000 Windows Games on Linux](https://boilingsteam.com/7000-windows-games-working-on-linux-with-proton/)
 - [Binance Smart Chain DeFi Project Hacked for $31M](https://cryptobriefing.com/binance-smart-chain-defi-project-hacked-31-million/)
-- [Duffel (YC S18) is hiring back end engineers in London](https://jobs.lever.co/duffel/b84d43ae-d244-4a26-803c-d155b96ce0eb)
-- [Bring Your Own Client](https://www.geoffreylitt.com/2021/03/05/bring-your-own-client.html)
-- [Zshelf: Z-Library books downloader for reMarkable tablet](https://github.com/khanhas/zshelf)
-- ['Floating ship' photographed off Cornish coast by walker](https://www.bbc.co.uk/news/uk-england-cornwall-56286719)
 <!-- BLOG-POST-LIST:END -->
 
 ---
