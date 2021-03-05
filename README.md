@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Student passes 3 classes in 4 years, ranks near top half of class with 0.13 GPA](https://foxbaltimore.com/news/project-baltimore/city-student-passes-3-classes-in-four-years-ranks-near-top-half-of-class-with-013-gpa)
+- [Show HN: Relocate.me – get your next tech job abroad](https://relocate.me)
+- [Ask HN: How do I learn drawing?](https://news.ycombinator.com/item?id=26360349)
 - [CFTC Charges Two Individuals with Multi-Million Digital Asset Pump-and-Dump](https://www.cftc.gov/PressRoom/PressReleases/8366-21)
 - [Data Transfer Project by Apple, Facebook, Google, Microsoft, etc.](https://datatransferproject.dev/)
-- [Fusion startup plans reactor with small but powerful superconducting magnets](https://www.sciencemag.org/news/2021/03/fusion-startup-plans-reactor-small-powerful-superconducting-magnets)
-- [U.S. says John McAfee indicted over fraudulent cryptocurrency schemes](https://www.reuters.com/article/usa-crime-mcafee/update-1-u-s-says-john-mcafee-indicted-over-fraudulent-cryptocurrency-schemes-idUSL2N2L31SF)
-- [Wing Commander III](https://www.filfre.net/2021/03/wing-commander-iii/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
