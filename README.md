@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Binance Smart Chain DeFi Project Hacked for $31M](https://cryptobriefing.com/binance-smart-chain-defi-project-hacked-31-million/)
 - [Duffel (YC S18) is hiring back end engineers in London](https://jobs.lever.co/duffel/b84d43ae-d244-4a26-803c-d155b96ce0eb)
 - [Bring Your Own Client](https://www.geoffreylitt.com/2021/03/05/bring-your-own-client.html)
-- [How does your programming language handle “minus zero” (-0.0)?](https://lemire.me/blog/2021/03/04/how-does-your-programming-language-handle-minus-zero-0-0/)
-- ["World's highest-capacity" solid-state battery developed in Japan](https://asia.nikkei.com/Business/Energy/World-s-highest-capacity-solid-state-battery-developed-in-Japan)
-- [PyTorch 1.8, with AMD ROCm support](https://github.com/pytorch/pytorch/releases/tag/v1.8.0)
+- [Zshelf: Z-Library books downloader for reMarkable tablet](https://github.com/khanhas/zshelf)
+- ['Floating ship' photographed off Cornish coast by walker](https://www.bbc.co.uk/news/uk-england-cornwall-56286719)
 <!-- BLOG-POST-LIST:END -->
 
 ---
