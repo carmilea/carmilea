@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Book Review: Fussell on Class](https://astralcodexten.substack.com/p/book-review-fussell-on-class)
+- [State-of-the-Art Image Generation Models](https://arankomatsuzaki.wordpress.com/2021/03/04/state-of-the-art-image-generative-models/)
+- [Battle of Los Angeles](https://en.wikipedia.org/wiki/Battle_of_Los_Angeles)
 - [Open source projects should run office hours](https://simonwillison.net/2021/Feb/19/office-hours/)
 - [US health agency will invest $1B to investigate 'long Covid'](https://www.nature.com/articles/d41586-021-00586-y)
-- [Compensation as a Reflection of Values](https://oxide.computer/blog/compensation-as-a-reflection-of-values/)
-- [Whatnot (YC W20) Is Hiring Engineers, Marketers and Partnerships People](https://jobs.lever.co/whatnot)
-- [Show HN: LinkWall – Your Landing Page Linked to Social Activity](https://linkwall.me)
 <!-- BLOG-POST-LIST:END -->
 
 ---
