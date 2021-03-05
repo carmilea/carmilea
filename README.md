@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Honda's Now Selling the First Production Car with Level 3 Self-Driving](https://www.thedrive.com/news/39609/hondas-now-selling-the-worlds-first-production-car-with-level-3-self-driving-tech)
 - [Book Review: Fussell on Class](https://astralcodexten.substack.com/p/book-review-fussell-on-class)
 - [State-of-the-Art Image Generation Models](https://arankomatsuzaki.wordpress.com/2021/03/04/state-of-the-art-image-generative-models/)
-- [Battle of Los Angeles](https://en.wikipedia.org/wiki/Battle_of_Los_Angeles)
 - [Open source projects should run office hours](https://simonwillison.net/2021/Feb/19/office-hours/)
 - [US health agency will invest $1B to investigate 'long Covid'](https://www.nature.com/articles/d41586-021-00586-y)
 <!-- BLOG-POST-LIST:END -->
