@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CFTC Charges Two Individuals with Multi-Million Digital Asset Pump-and-Dump](https://www.cftc.gov/PressRoom/PressReleases/8366-21)
+- [Data Transfer Project by Apple, Facebook, Google, Microsoft, etc.](https://datatransferproject.dev/)
+- [Fusion startup plans reactor with small but powerful superconducting magnets](https://www.sciencemag.org/news/2021/03/fusion-startup-plans-reactor-small-powerful-superconducting-magnets)
 - [U.S. says John McAfee indicted over fraudulent cryptocurrency schemes](https://www.reuters.com/article/usa-crime-mcafee/update-1-u-s-says-john-mcafee-indicted-over-fraudulent-cryptocurrency-schemes-idUSL2N2L31SF)
 - [Wing Commander III](https://www.filfre.net/2021/03/wing-commander-iii/)
-- [Oakland Bans the Use of Combustion Engine-Powered Leaf Blowers and Trimmers](https://www.oaklandca.gov/resources/oakland-bans-the-use-of-combustion-engine-powered-leaf-blowers-and-string-trimmers)
-- [Do What Makes the Best Story](https://amasad.me/story)
-- [Nvidia Deep Learning Accelerator (NVDLA): a free and open inference accelerator](http://nvdla.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
