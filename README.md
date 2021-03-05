@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Student passes 3 classes in 4 years, ranks near top half of class with 0.13 GPA](https://foxbaltimore.com/news/project-baltimore/city-student-passes-3-classes-in-four-years-ranks-near-top-half-of-class-with-013-gpa)
+- [Our World in Data (YC W19) Is Hiring a Full-Stack Dev and a Technical Team Lead](https://ourworldindata.org/jobs)
+- [Show HN: Svelte NodeGUI, a lightweight Electron alternative with native UI](https://github.com/nodegui/svelte-nodegui)
+- [An update on Android's audio latency](https://android-developers.googleblog.com/2021/03/an-update-on-androids-audio-latency.html)
 - [Show HN: Relocate.me – get your next tech job abroad](https://relocate.me)
 - [Ask HN: How do I learn drawing?](https://news.ycombinator.com/item?id=26360349)
-- [CFTC Charges Two Individuals with Multi-Million Digital Asset Pump-and-Dump](https://www.cftc.gov/PressRoom/PressReleases/8366-21)
-- [Data Transfer Project by Apple, Facebook, Google, Microsoft, etc.](https://datatransferproject.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
