@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zola, A fast static site generator in a single binary](https://www.getzola.org/)
+- [Physicists found 4 new subatomic particles that may test the laws of nature](https://www.sciencealert.com/scientists-just-discovered-four-new-subatomic-particles-all-tetraquarks)
+- [Scientists announce a physical warp drive is possible](https://www.esquire.com/news-politics/a35728928/scientists-say-physical-warp-drive-is-possible/)
+- [Reddit hires its first chief financial officer as it prepares for an IPO](https://www.nytimes.com/2021/03/05/technology/reddit-chief-financial-officer-ipo.html)
 - [Framing 101](https://www.frameworksinstitute.org/tools-and-resources/framing-101/)
-- [Symbolics.jl: A Modern Computer Algebra System for a Modern Language](https://discourse.julialang.org/t/ann-symbolics-jl-a-modern-computer-algebra-system-for-a-modern-language/56251)
-- [Walker 'stunned' to see ship hovering high above sea off Cornwall](https://www.theguardian.com/science/2021/mar/05/ship-hovering-above-sea-cornwall-optical-illusion)
-- [Valve's Proton Has Enabled 7000 Windows Games on Linux](https://boilingsteam.com/7000-windows-games-working-on-linux-with-proton/)
-- [Binance Smart Chain DeFi Project Hacked for $31M](https://cryptobriefing.com/binance-smart-chain-defi-project-hacked-31-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
