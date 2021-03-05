@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel Core I7-11700K Review: Blasting Off with Rocket Lake](https://www.anandtech.com/show/16535/intel-core-i7-11700k-review-blasting-off-with-rocket-lake)
 - [FizzBuzz in 65c816 Assembly for Super Mario World](https://computebeauty.com/posts/fbmw/index.html)
 - [Coursera S-1 IPO](https://www.sec.gov/Archives/edgar/data/1651562/000119312521071525/d65490ds1.htm)
 - [Isadore Singer Bridged Math and Physics](https://www.quantamagazine.org/isadore-singer-bridged-math-and-physics-20210304/)
-- [At Least 30k U.S. Organizations Newly Hacked via Holes in MS’s Email Software](https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/)
-- [Our World in Data (YC W19) Is Hiring a Full-Stack Dev and a Technical Team Lead](https://ourworldindata.org/jobs)
+- [30k U.S. organizations newly hacked via holes in Microsoft Exchange Server](https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
