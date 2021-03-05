@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facial recognition can predict person’s political orientation with 72% accuracy](https://www.nature.com/articles/s41598-020-79310-1)
-- [Modern Text Features in R](https://www.tidyverse.org/blog/2021/02/modern-text-features/)
-- [Zola, A fast static site generator in a single binary](https://www.getzola.org/)
-- [Scientists announce a physical warp drive is possible](https://www.esquire.com/news-politics/a35728928/scientists-say-physical-warp-drive-is-possible/)
-- [Generating ePub from LaTeX](https://minireference.com/blog/generating-epub-from-latex/)
+- [City student passes 3 classes in four years, ranks near top half of class](https://foxbaltimore.com/news/project-baltimore/city-student-passes-3-classes-in-four-years-ranks-near-top-half-of-class-with-013-gpa)
+- [Genius (YC S11) Is Hiring a Director of Engineering (U.S. Remote)](https://boards.greenhouse.io/genius/jobs/2686178)
+- [Tool lets you confuse Google’s ad network, and a test shows it works](https://www.technologyreview.com/2021/01/06/1015784/adsense-google-surveillance-adnauseam-obfuscation/)
+- [Mischa's Cursed Webring](https://cursed.lol)
+- [Ask HN: List of failed Smart Fridge startups?](https://news.ycombinator.com/item?id=26358794)
 <!-- BLOG-POST-LIST:END -->
 
 ---
