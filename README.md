@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: NFTs Legit or Mania?](https://news.ycombinator.com/item?id=26370866)
+- [Ffmpeg from Zero to Hero [Book]](https://ffmpegfromzerotohero.com/)
+- [Dolt is Git for Data: a SQL database that you can fork, clone, branch, merge](https://github.com/dolthub/dolt#dolt)
 - [ContentFly (YC W21) Is Hiring Product Managers and Product Designers](https://contentfly.com/company)
-- [Seagate: 100TB HDDs Due in 2030, Multi-Actuator Drives to Become Common](https://www.tomshardware.com/news/seagate-technology-roadmap-2021)
 - [Download the Entire Wikimedia Database](https://dumps.wikimedia.org/)
-- [WordStar: A Writer's Word Processor (1996)](http://sfwriter.com/wordstar.htm)
-- [Show HN: PrograMaker – Visual Programming Platform](https://programaker.com/about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
