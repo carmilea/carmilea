@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I made a note-taking app for roleplaying games like D&D](https://www.critical-notes.com)
-- [Tesla has closed its forums to launch a social platform and fans are not happy](https://techcrunch.com/2021/03/05/tesla-has-closed-its-forums-to-launch-a-social-platform-and-fans-are-not-happy/)
-- [A Brief History of Cryptocurrency as Payment (2020)](https://www.bakkt.com/blog/consumer/a-brief-history-of-cryptocurrency-as-payment)
-- [What Is RPN? Why Did/Does HP Use RPN? Learning RPN](https://www.hpmuseum.org/rpn.htm)
-- [Citus 10 brings columnar compression to Postgres](https://www.citusdata.com/blog/2021/03/06/citus-10-columnar-compression-for-postgres/)
+- [ContentFly (YC W21) Is Hiring Product Managers and Product Designers](https://contentfly.com/company)
+- [Seagate: 100TB HDDs Due in 2030, Multi-Actuator Drives to Become Common](https://www.tomshardware.com/news/seagate-technology-roadmap-2021)
+- [Download the Entire Wikimedia Database](https://dumps.wikimedia.org/)
+- [WordStar: A Writer's Word Processor (1996)](http://sfwriter.com/wordstar.htm)
+- [Show HN: PrograMaker – Visual Programming Platform](https://programaker.com/about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
