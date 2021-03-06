@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What tangible benefits did you get from spending time on HN?](https://news.ycombinator.com/item?id=26366538)
-- [At the Bauhaus they got artists into tech, but they didn't know much about it](https://www.orgonomyproductions.info/notes/notes/2021/02/27/TechPosersBauhaus.html)
+- [Sirum (YC W15) Is Hiring Software and QA Engineers with Pharmacy Experience](https://news.ycombinator.com/item?id=26366846)
+- [Tech posers of the Bauhaus](https://www.orgonomyproductions.info/notes/notes/2021/02/27/TechPosersBauhaus.html)
 - [Multiple GRUB2 vulnerabilities – 2021/03/02 rou](https://lists.gnu.org/archive/html/grub-devel/2021-03/msg00007.html)
 - [Tell HN: I am doing online reading sessions on analytic number theory](https://spxy.github.io/bc/)
-- [Opvia (YC S20) Is Hiring Engineers in London to Enable Data Driven Biotechnology](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
+- [Zero Data App](https://0data.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
