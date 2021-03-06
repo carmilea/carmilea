@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can’t use iCloud with “true” as the last name](https://twitter.com/racheltrue/status/1368004197166108676)
 - [Burned House Horizon](https://en.wikipedia.org/wiki/Burned_house_horizon)
-- [Number Unemployed for 27 Weeks and Over](https://fred.stlouisfed.org/series/UEMP27OV)
 - [How to Build a Community: Starting with “Why?”](https://clrcrl.com/2021/03/03/how-to-build-a-community-why.html)
 - [Kalman Filter](https://en.wikipedia.org/wiki/Kalman_filter)
 - [Intel Core I7-11700K Review: Blasting Off with Rocket Lake](https://www.anandtech.com/show/16535/intel-core-i7-11700k-review-blasting-off-with-rocket-lake)
