@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Opvia (YC S20) Is Hiring Engineers in London to Enable Data Driven Biotechnology](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
-- [Twitter's Dorsey auctions first ever tweet as digital memorabilia](https://www.reuters.com/article/us-twitter-dorsey-idUSKBN2AY03A)
+- [Zero Data App](https://0data.app/)
 - [Do Language Models Know How Heavy an Elephant Is?](https://ai.stanford.edu/blog/scalar-probing/)
 - [TROS: How IBM mainframes stored microcode in transformers (2019)](http://www.righto.com/2019/11/tros-how-ibm-mainframes-stored.html)
-- [Can’t use iCloud with “true” as the last name](https://twitter.com/racheltrue/status/1368004197166108676)
+- [Burned House Horizon](https://en.wikipedia.org/wiki/Burned_house_horizon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
