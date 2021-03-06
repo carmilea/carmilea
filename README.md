@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperinflation Pushes Venezuela to Print 1M-Bolivar Bills](https://www.bloomberg.com/news/articles/2021-03-05/hyperinflation-pushes-venezuela-to-print-1-000-000-bolivar-bills)
-- [Delphi Method](https://en.wikipedia.org/wiki/Delphi_method)
-- [Apple Has Apparently Pulled the Plug on the iMac Pro](https://www.macstories.net/news/apple-has-apparently-pulled-the-plug-on-the-imac-pro/)
-- [Military Unit Conducting Drone Strikes Bought Location Data from Ordinary Apps](https://www.vice.com/en/article/y3g97x/location-data-apps-drone-strikes-iowa-national-guard)
-- [Reflections on IDEA vs VS Code](https://archive.vn/nNdT1)
+- [Animated Engines](http://animatedengines.com/)
+- [CareRev (YC S16) Is Hiring Technical Project Managers](https://news.ycombinator.com/item?id=26368731)
+- [Chaos Strikes Global Shipping](https://www.nytimes.com/2021/03/06/business/global-shipping.html)
+- [Virtual Particles: What are they?](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/virtual-particles-what-are-they/)
+- [Audio over Bluetooth: most detailed information about profiles and codecs (2019)](https://habr.com/en/post/456182/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
