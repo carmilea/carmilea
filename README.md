@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Yorker Found a Whole Apartment Behind Her Bathroom Mirror](https://www.curbed.com/2021/03/nyc-apartment-tiktok-bathroom-mirror-viral.html)
-- [Reflections on IDEA vs VS Code](https://gist.github.com/rambingthoughts/c28fc8caa07733443c77551fb096d830)
-- [Why must we hate the things teen girls love? (2018)](https://www.mnn.com/lifestyle/arts-culture/stories/why-do-we-hate-things-teen-girls-love)
-- [Ask HN: Is abuse from supervisors as common in industry as in academia?](https://news.ycombinator.com/item?id=26367099)
-- [Cleaning Up Your Postgres Database](http://blog.crunchydata.com/blog/cleaning-up-your-postgres-database)
+- [Hyperinflation Pushes Venezuela to Print 1M-Bolivar Bills](https://www.bloomberg.com/news/articles/2021-03-05/hyperinflation-pushes-venezuela-to-print-1-000-000-bolivar-bills)
+- [Delphi Method](https://en.wikipedia.org/wiki/Delphi_method)
+- [Apple Has Apparently Pulled the Plug on the iMac Pro](https://www.macstories.net/news/apple-has-apparently-pulled-the-plug-on-the-imac-pro/)
+- [Military Unit Conducting Drone Strikes Bought Location Data from Ordinary Apps](https://www.vice.com/en/article/y3g97x/location-data-apps-drone-strikes-iowa-national-guard)
+- [Reflections on IDEA vs VS Code](https://archive.vn/nNdT1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
