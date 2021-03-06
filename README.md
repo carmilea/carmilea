@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TROS: IBM mainframes stored microcode in transformers](http://www.righto.com/2019/11/tros-how-ibm-mainframes-stored.html)
+- [Stacker (YC S20) is hiring in Europe to build the no-code platform for business](https://stackerhq.com/jobs)
+- [TROS: How IBM mainframes stored microcode in transformers (2019)](http://www.righto.com/2019/11/tros-how-ibm-mainframes-stored.html)
+- [Rust Implementation of the Book Ray Tracing in One Weekend](https://github.com/perliedman/raytracing-in-one-weekend)
 - [Can’t use iCloud with “true” as the last name](https://twitter.com/racheltrue/status/1368004197166108676)
 - [Burned House Horizon](https://en.wikipedia.org/wiki/Burned_house_horizon)
-- [How to Build a Community: Starting with “Why?”](https://clrcrl.com/2021/03/03/how-to-build-a-community-why.html)
-- [Kalman Filter](https://en.wikipedia.org/wiki/Kalman_filter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
