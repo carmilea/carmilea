@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: NFTs Legit or Mania?](https://news.ycombinator.com/item?id=26370866)
-- [Ffmpeg from Zero to Hero [Book]](https://ffmpegfromzerotohero.com/)
+- [Problems with Eric Weinstein's “Geometric Unity”](http://backreaction.blogspot.com/2021/03/guest-post-problems-with-eric.html)
+- [Lying to the Ghost in the Machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
+- [FFMPEG from Zero to Hero](https://ffmpegfromzerotohero.com/)
 - [Dolt is Git for Data: a SQL database that you can fork, clone, branch, merge](https://github.com/dolthub/dolt#dolt)
 - [ContentFly (YC W21) Is Hiring Product Managers and Product Designers](https://contentfly.com/company)
-- [Download the Entire Wikimedia Database](https://dumps.wikimedia.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
