@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflections on Idea vs VSCode](https://gist.github.com/rambingthoughts/c28fc8caa07733443c77551fb096d830)
+- [Ask HN: Is abuse from supervisors as common in industry as in academia?](https://news.ycombinator.com/item?id=26367099)
+- [Cleaning Up Your Postgres Database](http://blog.crunchydata.com/blog/cleaning-up-your-postgres-database)
+- [Launch HN: Lunatic (YC W21) – An Erlang Inspired WebAssembly Platform](https://news.ycombinator.com/item?id=26367029)
 - [Sirum (YC W15) Is Hiring Software and QA Engineers with Pharmacy Experience](https://news.ycombinator.com/item?id=26366846)
-- [Tech posers of the Bauhaus](https://www.orgonomyproductions.info/notes/notes/2021/02/27/TechPosersBauhaus.html)
-- [Multiple GRUB2 vulnerabilities – 2021/03/02 rou](https://lists.gnu.org/archive/html/grub-devel/2021-03/msg00007.html)
-- [Tell HN: I am doing online reading sessions on analytic number theory](https://spxy.github.io/bc/)
-- [Zero Data App](https://0data.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
