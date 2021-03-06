@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflections on Idea vs VSCode](https://gist.github.com/rambingthoughts/c28fc8caa07733443c77551fb096d830)
+- [New Yorker Found a Whole Apartment Behind Her Bathroom Mirror](https://www.curbed.com/2021/03/nyc-apartment-tiktok-bathroom-mirror-viral.html)
+- [Reflections on IDEA vs VS Code](https://gist.github.com/rambingthoughts/c28fc8caa07733443c77551fb096d830)
+- [Why must we hate the things teen girls love? (2018)](https://www.mnn.com/lifestyle/arts-culture/stories/why-do-we-hate-things-teen-girls-love)
 - [Ask HN: Is abuse from supervisors as common in industry as in academia?](https://news.ycombinator.com/item?id=26367099)
 - [Cleaning Up Your Postgres Database](http://blog.crunchydata.com/blog/cleaning-up-your-postgres-database)
-- [Launch HN: Lunatic (YC W21) – An Erlang Inspired WebAssembly Platform](https://news.ycombinator.com/item?id=26367029)
-- [Sirum (YC W15) Is Hiring Software and QA Engineers with Pharmacy Experience](https://news.ycombinator.com/item?id=26366846)
 <!-- BLOG-POST-LIST:END -->
 
 ---
