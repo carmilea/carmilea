@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jack Dorsey Dorsey is attempting to sell his first tweet as an NFT](https://www.theverge.com/2021/3/5/22316320/jack-dorsey-original-tweet-nft-cent-valuables)
+- [Show HN: I made a note-taking app for roleplaying games like D&D](https://www.critical-notes.com)
+- [Tesla has closed its forums to launch a social platform and fans are not happy](https://techcrunch.com/2021/03/05/tesla-has-closed-its-forums-to-launch-a-social-platform-and-fans-are-not-happy/)
 - [A Brief History of Cryptocurrency as Payment (2020)](https://www.bakkt.com/blog/consumer/a-brief-history-of-cryptocurrency-as-payment)
 - [What Is RPN? Why Did/Does HP Use RPN? Learning RPN](https://www.hpmuseum.org/rpn.htm)
 - [Citus 10 brings columnar compression to Postgres](https://www.citusdata.com/blog/2021/03/06/citus-10-columnar-compression-for-postgres/)
-- [IBM Port-A-Punch: create punched card documents anywhere](https://tedium.co/2017/03/29/ibm-port-a-punch-card-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
