@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM Port-A-Punch: create punched card documents anywhere](https://tedium.co/2017/03/29/ibm-port-a-punch-card-device/)
+- [White House Warns After Microsoft Accuses China of Hacking Its Mail Server](https://www.thenexthint.com/white-house-warns-after-microsoft-accuses-china-of-hacking-its-mail-server-program/5811/)
+- [Diamond batteries promise to power space probes for 100 years](https://asia.nikkei.com/Business/Technology/Diamond-batteries-promise-to-power-space-probes-for-100-years)
+- [Why was the Amiga Kickstart 1.x “Insert floppy” graphic so bad?](https://retrocomputing.stackexchange.com/questions/13897/why-was-the-kickstart-1-x-insert-floppy-graphic-so-bad/13901)
 - [Animated Engines](http://animatedengines.com/)
-- [CareRev (YC S16) Is Hiring Technical Project Managers](https://news.ycombinator.com/item?id=26368731)
-- [Chaos Strikes Global Shipping](https://www.nytimes.com/2021/03/06/business/global-shipping.html)
-- [Virtual Particles: What are they?](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/virtual-particles-what-are-they/)
-- [Audio over Bluetooth: most detailed information about profiles and codecs (2019)](https://habr.com/en/post/456182/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
