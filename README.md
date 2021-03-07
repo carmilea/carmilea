@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Freemium Alternative to Plaid in Europe](http://nordigen.com/)
 - [Please support Web Monetization if you want less ads on the web](https://atodorov.me/2021/03/07/please-support-web-monetization-if-you-want-less-ads-on-the-web/)
+- [Show HN: Buy My Side Project](https://buymysideproject.com)
 - [China’s Bitcoin miners flee Inner Mongolia ahead of crypto mining ban](https://forkast.news/inner-mongolia-shut-down-crypto-mining-china-bitcoin-miners/)
 - [Ubuntu Makes Flutter ‘Default Choice’ for Future Desktop Apps](https://www.omgubuntu.co.uk/2021/03/ubuntu-building-apps-with-flutter-in-future)
-- [Publii – CMS with SSG](https://getpublii.com/)
-- [It Turns Out You Can Bullshit a Bullshitter After All](https://digest.bps.org.uk/2021/03/05/it-turns-out-you-can-bullshit-a-bullshitter-after-all/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
