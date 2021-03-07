@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Build advanced automation at Volta Labs, Inc. (YC W19) as a software engineer](https://www.workatastartup.com/jobs/41760)
 - [Simple and privacy-friendly alternative to Google Analytic](https://github.com/plausible/analytics)
 - [Falsehoods Programmers Believe About Names (2010)](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [Let's Encrypt's performance is currently degraded due to a DDoS attack](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/6044830be2838505358d3108)
 - [I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun](https://kevinlynagh.com/rust-zig/)
-- [The Digital Transformation of Cars Is Just Beginning](https://mule.substack.com/p/the-digital-transformation-of-cars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
