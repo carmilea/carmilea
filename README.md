@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ReadMe (YC W15) Is Hiring a UI Engineer](https://readme.com/careers#ui-engineer)
+- [How to Get Better at Recursion](https://notes.eatonphil.com/practicing-recursion.html)
+- [“Design Patterns” Aren't](http://perl.plover.com/yak/design/)
 - [FAA safety engineer goes public to slam agency’s oversight of Boeing’s 737 Max](https://www.seattletimes.com/business/boeing-aerospace/faa-safety-engineer-goes-public-to-slam-the-agencys-oversight-of-boeings-737-max/)
 - [US Pipeline Caused Biggest Spill in Decades, We’re Just Hearing About It](https://earther.gizmodo.com/one-of-the-nation-s-largest-pipelines-caused-the-bigges-1846406684)
-- [Donate Unrestricted](http://paulgraham.com/donate.html)
-- [Why winter exercise can be especially hard on the lungs](https://www.cbc.ca/news/canada/winter-exercise-lungs-1.5936703)
-- [Someone Is Hacking the Hackers](https://gizmodo.com/someone-is-hacking-the-hackers-1846406428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
