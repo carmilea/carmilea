@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UC’s termination of Elsevier contract has had limited negative impact](https://dailybruin.com/2020/02/27/ucs-termination-of-elsevier-contract-has-had-limited-negative-impact)
+- [The Kilobyte's Gambit: Can you beat 1024 bytes of JavaScript [at chess]?](https://vole.wtf/kilobytes-gambit/)
+- [UC’s termination of Elsevier contract has had limited negative impact (2020)](https://dailybruin.com/2020/02/27/ucs-termination-of-elsevier-contract-has-had-limited-negative-impact)
 - [Solugen (YC W17) is hiring a director of marketing](https://www.workatastartup.com/jobs/42586)
 - [Review: The Book of Why](https://tachy.org/posts/book-of-why/)
 - [Simple and Free Web Analytics](https://counter.dev/)
-- [Why popular YouTubers are building their own sites](https://www.bbc.com/news/technology-55349255)
 <!-- BLOG-POST-LIST:END -->
 
 ---
