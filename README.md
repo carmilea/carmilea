@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don't use 7-segment displays [pdf]](http://www.harold.thimbleby.net/cv/files/seven-segment.pdf)
+- [ISO Standard for Preparing Tea](https://en.wikipedia.org/wiki/ISO_3103)
+- [Transplant an organ? Why not an entire body?](https://www.washingtonpost.com/outlook/transplant-an-organ-why-not-an-entire-body/2021/03/04/ae55bf54-64b4-11eb-8c64-9595888caa15_story.html)
 - [NFTs Are a Dangerous Trap](https://seths.blog/2021/03/nfts-are-a-dangerous-trap/)
 - [Tim Wu Explains Why He Thinks Facebook Should Be Broken Up (2019)](https://www.wired.com/story/tim-wu-explains-why-facebook-broken-up/)
-- [The Math Behind Project Scheduling, Bug Tracking, and Triage (2017)](https://apenwarr.ca/log/?m=201712)
-- [Functioning iPhone returned to owner after 6 months at bottom of lake](https://www.cbc.ca/news/canada/british-columbia/cell-phone-recovered-from-harrison-lake-1.5937753?cmp=rss)
-- [Taxi Drivers Take Longer Routes Than Uber Drivers](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3721)
 <!-- BLOG-POST-LIST:END -->
 
 ---
