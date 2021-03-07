@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tim Wu Explains Why He Thinks Facebook Should Be Broken Up (2019)](https://www.wired.com/story/tim-wu-explains-why-facebook-broken-up/)
 - [Functioning iPhone returned to owner after 6 months at bottom of lake](https://www.cbc.ca/news/canada/british-columbia/cell-phone-recovered-from-harrison-lake-1.5937753?cmp=rss)
+- [Bay Area drug kingpins lured in low-level dealers with promises of cheap rent](https://www.eastbaytimes.com/2020/03/12/in-the-midst-of-housing-shortage-bay-area-drug-kingpins-lured-in-low-level-dealers-with-promises-of-cheap-rent-feds-say/)
 - [Californians aren’t leaving the state en masse but are leaving San Francisco](https://www.latimes.com/california/story/2021-03-04/california-exodus-san-francisco-migration)
 - [Nodes.io – a new way to create with code](https://nodes.io/)
-- [Cactus Comments: Federated web comments based on Matrix protocol](https://cactus.chat/)
-- [Build Your Machine Today](https://vention.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
