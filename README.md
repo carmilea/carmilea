@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Functioning iPhone returned to owner after 6 months at bottom of lake](https://www.cbc.ca/news/canada/british-columbia/cell-phone-recovered-from-harrison-lake-1.5937753?cmp=rss)
+- [Californians aren’t leaving the state en masse – but are leaving SF, study says](https://www.latimes.com/california/story/2021-03-04/california-exodus-san-francisco-migration)
+- [Starlogo TNG: The Next Generation (2009)](http://web.mit.edu/mitstep/projects/starlogo-tng.html)
 - [Nodes.io – a new way to create with code](https://nodes.io/)
 - [Cactus Comments: Federated web comments based on Matrix protocol](https://cactus.chat/)
-- [YouTuber Builds Working 3D-Printed Turbojet Engine and Tests It in His Attic](https://www.thedrive.com/news/39624/youtuber-builds-working-3d-printed-turbojet-engine-and-tests-it-in-his-attic)
-- [Lying to the Ghost in the Machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
-- [FFMPEG from Zero to Hero](https://ffmpegfromzerotohero.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
