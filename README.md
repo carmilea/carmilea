@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Digital Transformation of Cars Is Just Beginning](https://mule.substack.com/p/the-digital-transformation-of-cars)
+- [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+- [I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun](https://kevinlynagh.com/rust-zig/)
+- [Reconstant: Share constant definitions between programming languages](https://github.com/aantn/reconstant)
+- [Notes from a Year of Building Keyboards](https://kevinlynagh.com/keyboards/)
 - [The Ergodicity Problem in Economics](https://www.nature.com/articles/s41567-019-0732-0)
-- [Impraise (YC S14) Hiring Senior Product Designer](https://impraise.recruitee.com/o/senior-product-designer)
-- [Divorce rate cut in half for couples who discussed relationship movies (2014)](https://www.rochester.edu/news/divorce-rate-cut-in-half-for-couples-who-discussed-relationship-movies/)
-- [507 Mechanical Movements (1868)](http://507movements.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
