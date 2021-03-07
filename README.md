@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Switzerland votes against electronic ID system provided by private companies](https://www.swissinfo.ch/eng/digital-identity-scheme-faces-scepticism-around-data-privacy/46399636)
+- [The blissful political incorrectness of Soviet comedies](https://thecritic.co.uk/the-blissful-political-incorrectness-of-soviet-comedies/)
+- [Deliveroo to offer 50M pounds of stock to customers](https://www.fidelity.com/news/article/top-news/202103061917RTRSNEWSCOMBINED_KBN2AZ00P-OUSBS_1)
 - [Launch HN: PingPong (YC W21) – Video messaging for remote teams](https://news.ycombinator.com/item?id=26377761)
-- [ReadMe (YC W15) Is Hiring a UI Engineer](https://readme.com/careers#ui-engineer)
-- [America Is Not Made for Anatomically Correct People](https://www.nytimes.com/2021/03/06/opinion/sunday/public-toilets-united-states.html)
-- [How to Get Better at Recursion](https://notes.eatonphil.com/practicing-recursion.html)
+- [I Bought a Business for $0](https://every.to/superorganizers/how-i-bought-a-business-for-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
