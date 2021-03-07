@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Functioning iPhone returned to owner after 6 months at bottom of lake](https://www.cbc.ca/news/canada/british-columbia/cell-phone-recovered-from-harrison-lake-1.5937753?cmp=rss)
-- [Californians aren’t leaving the state en masse – but are leaving SF, study says](https://www.latimes.com/california/story/2021-03-04/california-exodus-san-francisco-migration)
-- [Starlogo TNG: The Next Generation (2009)](http://web.mit.edu/mitstep/projects/starlogo-tng.html)
+- [Californians aren’t leaving the state en masse but are leaving San Francisco](https://www.latimes.com/california/story/2021-03-04/california-exodus-san-francisco-migration)
 - [Nodes.io – a new way to create with code](https://nodes.io/)
 - [Cactus Comments: Federated web comments based on Matrix protocol](https://cactus.chat/)
+- [Build Your Machine Today](https://vention.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
