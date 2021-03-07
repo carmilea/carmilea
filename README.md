@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It Turns Out You Can Bullshit a Bullshitter After All](https://digest.bps.org.uk/2021/03/05/it-turns-out-you-can-bullshit-a-bullshitter-after-all/)
 - [Build advanced automation at Volta Labs, Inc. (YC W19) as a software engineer](https://www.workatastartup.com/jobs/41760)
+- [Deep Work on the Rise](https://beta.readng.co/blog/2021/deep-work-on-the-rise)
 - [Simple and privacy-friendly alternative to Google Analytic](https://github.com/plausible/analytics)
-- [Falsehoods Programmers Believe About Names (2010)](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [Let's Encrypt's performance is currently degraded due to a DDoS attack](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/6044830be2838505358d3108)
-- [I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun](https://kevinlynagh.com/rust-zig/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
