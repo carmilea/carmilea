@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Switzerland votes against electronic ID system provided by private companies](https://www.swissinfo.ch/eng/digital-identity-scheme-faces-scepticism-around-data-privacy/46399636)
+- [Launch HN: PingPong (YC W21) – Video messaging for remote teams](https://news.ycombinator.com/item?id=26377761)
 - [ReadMe (YC W15) Is Hiring a UI Engineer](https://readme.com/careers#ui-engineer)
+- [America Is Not Made for Anatomically Correct People](https://www.nytimes.com/2021/03/06/opinion/sunday/public-toilets-united-states.html)
 - [How to Get Better at Recursion](https://notes.eatonphil.com/practicing-recursion.html)
-- [“Design Patterns” Aren't](http://perl.plover.com/yak/design/)
-- [FAA safety engineer goes public to slam agency’s oversight of Boeing’s 737 Max](https://www.seattletimes.com/business/boeing-aerospace/faa-safety-engineer-goes-public-to-slam-the-agencys-oversight-of-boeings-737-max/)
-- [US Pipeline Caused Biggest Spill in Decades, We’re Just Hearing About It](https://earther.gizmodo.com/one-of-the-nation-s-largest-pipelines-caused-the-bigges-1846406684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
