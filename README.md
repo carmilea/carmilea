@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Problems with Eric Weinstein's “Geometric Unity”](http://backreaction.blogspot.com/2021/03/guest-post-problems-with-eric.html)
+- [Nodes.io – a new way to create with code](https://nodes.io/)
+- [Cactus Comments: Federated web comments based on Matrix protocol](https://cactus.chat/)
+- [YouTuber Builds Working 3D-Printed Turbojet Engine and Tests It in His Attic](https://www.thedrive.com/news/39624/youtuber-builds-working-3d-printed-turbojet-engine-and-tests-it-in-his-attic)
 - [Lying to the Ghost in the Machine](http://www.antipope.org/charlie/blog-static/2021/03/lying-to-the-ghost-in-the-mach.html)
 - [FFMPEG from Zero to Hero](https://ffmpegfromzerotohero.com/)
-- [Dolt is Git for Data: a SQL database that you can fork, clone, branch, merge](https://github.com/dolthub/dolt#dolt)
-- [ContentFly (YC W21) Is Hiring Product Managers and Product Designers](https://contentfly.com/company)
 <!-- BLOG-POST-LIST:END -->
 
 ---
