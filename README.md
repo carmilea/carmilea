@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NFTs Are a Dangerous Trap](https://seths.blog/2021/03/nfts-are-a-dangerous-trap/)
 - [Tim Wu Explains Why He Thinks Facebook Should Be Broken Up (2019)](https://www.wired.com/story/tim-wu-explains-why-facebook-broken-up/)
+- [The Math Behind Project Scheduling, Bug Tracking, and Triage (2017)](https://apenwarr.ca/log/?m=201712)
 - [Functioning iPhone returned to owner after 6 months at bottom of lake](https://www.cbc.ca/news/canada/british-columbia/cell-phone-recovered-from-harrison-lake-1.5937753?cmp=rss)
-- [Bay Area drug kingpins lured in low-level dealers with promises of cheap rent](https://www.eastbaytimes.com/2020/03/12/in-the-midst-of-housing-shortage-bay-area-drug-kingpins-lured-in-low-level-dealers-with-promises-of-cheap-rent-feds-say/)
-- [Californians aren’t leaving the state en masse but are leaving San Francisco](https://www.latimes.com/california/story/2021-03-04/california-exodus-san-francisco-migration)
-- [Nodes.io – a new way to create with code](https://nodes.io/)
+- [Taxi Drivers Take Longer Routes Than Uber Drivers](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3721)
 <!-- BLOG-POST-LIST:END -->
 
 ---
