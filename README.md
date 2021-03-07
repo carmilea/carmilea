@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Ergodicity Problem in Economics](https://www.nature.com/articles/s41567-019-0732-0)
 - [Impraise (YC S14) Hiring Senior Product Designer](https://impraise.recruitee.com/o/senior-product-designer)
+- [My Custom Emacs Setup](https://hristos.co/blog/my-custom-emacs-setup/)
 - [Divorce rate cut in half for couples who discussed relationship movies (2014)](https://www.rochester.edu/news/divorce-rate-cut-in-half-for-couples-who-discussed-relationship-movies/)
 - [507 Mechanical Movements (1868)](http://507movements.com)
-- [Don’t use 7-segment displays [pdf] (2011)](http://www.harold.thimbleby.net/cv/files/seven-segment.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
