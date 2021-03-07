@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UC’s termination of Elsevier contract has had limited negative impact](https://dailybruin.com/2020/02/27/ucs-termination-of-elsevier-contract-has-had-limited-negative-impact)
 - [Solugen (YC W17) is hiring a director of marketing](https://www.workatastartup.com/jobs/42586)
+- [Review: The Book of Why](https://tachy.org/posts/book-of-why/)
+- [Simple and Free Web Analytics](https://counter.dev/)
 - [Why popular YouTubers are building their own sites](https://www.bbc.com/news/technology-55349255)
-- [Qubes-Lite with KVM and Wayland](https://roscidus.com/blog/blog/2021/03/07/qubes-lite-with-kvm-and-wayland/)
-- [Neuroscience: Idle minds (2012)](https://www.nature.com/news/neuroscience-idle-minds-1.11440)
-- [Switzerland votes against electronic ID system provided by private companies](https://www.swissinfo.ch/eng/digital-identity-scheme-faces-scepticism-around-data-privacy/46399636)
 <!-- BLOG-POST-LIST:END -->
 
 ---
