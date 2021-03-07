@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Solugen (YC W17) is hiring a director of marketing](https://www.workatastartup.com/jobs/42586)
+- [Why popular YouTubers are building their own sites](https://www.bbc.com/news/technology-55349255)
+- [Qubes-Lite with KVM and Wayland](https://roscidus.com/blog/blog/2021/03/07/qubes-lite-with-kvm-and-wayland/)
 - [Neuroscience: Idle minds (2012)](https://www.nature.com/news/neuroscience-idle-minds-1.11440)
-- [Spirograph](https://en.wikipedia.org/wiki/Spirograph)
 - [Switzerland votes against electronic ID system provided by private companies](https://www.swissinfo.ch/eng/digital-identity-scheme-faces-scepticism-around-data-privacy/46399636)
-- [The blissful political incorrectness of Soviet comedies](https://thecritic.co.uk/the-blissful-political-incorrectness-of-soviet-comedies/)
-- [Deliveroo to offer 50M pounds of stock to customers](https://www.fidelity.com/news/article/top-news/202103061917RTRSNEWSCOMBINED_KBN2AZ00P-OUSBS_1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
