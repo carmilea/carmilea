@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Neuroscience: Idle minds (2012)](https://www.nature.com/news/neuroscience-idle-minds-1.11440)
+- [Spirograph](https://en.wikipedia.org/wiki/Spirograph)
 - [Switzerland votes against electronic ID system provided by private companies](https://www.swissinfo.ch/eng/digital-identity-scheme-faces-scepticism-around-data-privacy/46399636)
 - [The blissful political incorrectness of Soviet comedies](https://thecritic.co.uk/the-blissful-political-incorrectness-of-soviet-comedies/)
 - [Deliveroo to offer 50M pounds of stock to customers](https://www.fidelity.com/news/article/top-news/202103061917RTRSNEWSCOMBINED_KBN2AZ00P-OUSBS_1)
-- [Launch HN: PingPong (YC W21) – Video messaging for remote teams](https://news.ycombinator.com/item?id=26377761)
-- [I Bought a Business for $0](https://every.to/superorganizers/how-i-bought-a-business-for-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
