@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Freemium Alternative to Plaid in Europe](http://nordigen.com/)
-- [Please support Web Monetization if you want less ads on the web](https://atodorov.me/2021/03/07/please-support-web-monetization-if-you-want-less-ads-on-the-web/)
-- [Show HN: Buy My Side Project](https://buymysideproject.com)
-- [China’s Bitcoin miners flee Inner Mongolia ahead of crypto mining ban](https://forkast.news/inner-mongolia-shut-down-crypto-mining-china-bitcoin-miners/)
-- [Ubuntu Makes Flutter ‘Default Choice’ for Future Desktop Apps](https://www.omgubuntu.co.uk/2021/03/ubuntu-building-apps-with-flutter-in-future)
+- [FAA safety engineer goes public to slam agency’s oversight of Boeing’s 737 Max](https://www.seattletimes.com/business/boeing-aerospace/faa-safety-engineer-goes-public-to-slam-the-agencys-oversight-of-boeings-737-max/)
+- [US Pipeline Caused Biggest Spill in Decades, We’re Just Hearing About It](https://earther.gizmodo.com/one-of-the-nation-s-largest-pipelines-caused-the-bigges-1846406684)
+- [Donate Unrestricted](http://paulgraham.com/donate.html)
+- [Why winter exercise can be especially hard on the lungs](https://www.cbc.ca/news/canada/winter-exercise-lungs-1.5936703)
+- [Someone Is Hacking the Hackers](https://gizmodo.com/someone-is-hacking-the-hackers-1846406428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
