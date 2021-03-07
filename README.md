@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Please support Web Monetization if you want less ads on the web](https://atodorov.me/2021/03/07/please-support-web-monetization-if-you-want-less-ads-on-the-web/)
+- [China’s Bitcoin miners flee Inner Mongolia ahead of crypto mining ban](https://forkast.news/inner-mongolia-shut-down-crypto-mining-china-bitcoin-miners/)
+- [Ubuntu Makes Flutter ‘Default Choice’ for Future Desktop Apps](https://www.omgubuntu.co.uk/2021/03/ubuntu-building-apps-with-flutter-in-future)
+- [Publii – CMS with SSG](https://getpublii.com/)
 - [It Turns Out You Can Bullshit a Bullshitter After All](https://digest.bps.org.uk/2021/03/05/it-turns-out-you-can-bullshit-a-bullshitter-after-all/)
-- [Build advanced automation at Volta Labs, Inc. (YC W19) as a software engineer](https://www.workatastartup.com/jobs/41760)
-- [Deep Work on the Rise](https://beta.readng.co/blog/2021/deep-work-on-the-rise)
-- [Simple and privacy-friendly alternative to Google Analytic](https://github.com/plausible/analytics)
-- [Let's Encrypt's performance is currently degraded due to a DDoS attack](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/6044830be2838505358d3108)
 <!-- BLOG-POST-LIST:END -->
 
 ---
