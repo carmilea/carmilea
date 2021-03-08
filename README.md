@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Third-party food delivery remains an uncertain business](https://www.restaurantbusinessonline.com/financing/dominos-shows-why-third-party-delivery-remains-uncertain-business)
+- [Amazon Fresh Opens in London](http://www.fruitnet.com/eurofruit/article/184548/exclusive-amazon-fresh-opens-in-london)
+- [Crypto Governance Voting Tracker](https://cryptocracy.vercel.app/)
+- [Does Stress Impact Technical Interview Performance? [pdf]](http://www.chrisparnin.me/pdf/stress_FSE_20.pdf)
 - [Mux (YC W16) is hiring engineers to work with Elixir and modern (Type|Java)Script](https://mux.com/jobs?hnj=stack)
-- [Developing an underwater robot to save people from drowning](https://www.fraunhofer.de/en/press/research-news/2021/march-2021/an-autonomous-underwater-robot-saves-people-from-drowning.html)
-- [The Unstoppable Momentum of Outdated Science](https://rogerpielkejr.substack.com/p/the-unstoppable-momentum-of-outdated)
-- [Tesla Admits Current ‘Full Self-Driving Beta’ Will Always Be Level 2](https://www.thedrive.com/news/39647/tesla-admits-current-full-self-driving-beta-will-always-be-a-level-2-system-emails)
-- [Historic Maps of London](https://www.layersoflondon.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
