@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Is Europe Falling Further Behind the US?](https://johnhcochrane.blogspot.com/2021/03/the-puzzle-of-europe.html?spref=tw&m=1)
+- [Food Prices Soar Globally](https://www.bloomberg.com/news/articles/2021-03-01/inflation-2021-malnutrition-and-hunger-fears-rise-as-food-prices-soar-globally)
 - [Programming Paradigms, Turing Completeness and Computational Thinking](https://programming-journal.org/2020/4/4/)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/?cb=1&_ga=2.145693744.523477250.1614802183-1247573525.1613934766)
-- [The new Google Pay repeats all the same mistakes of Google Allo](https://arstechnica.com/?p=1747061)
-- [Conversations almost never end when both parties want them to: study](https://www.scientificamerican.com/article/people-literally-dont-know-when-to-shut-up-or-keep-talking-science-confirms/)
-- [Lord of the Ring(s): Side Channel Attacks on the CPU On-Chip Ring Interconnect](https://arxiv.org/abs/2103.03443)
+- [Show HN: I made a parser visualizer using manim](https://github.com/ashutoshbsathe/yacv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
