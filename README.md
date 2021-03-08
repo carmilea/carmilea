@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Historic Maps of London](https://www.layersoflondon.org/)
+- [Tesla is building a giant battery in Texas](https://arstechnica.com/science/2021/03/report-tesla-is-secretly-building-a-giant-100-mw-battery-in-texas/)
 - [Tim Sweeney: “ISO obstructs adoption of standards by paywalling them”](https://twitter.com/TimSweeneyEpic/status/1368637789248626699)
 - [Facebook tracking users with background sound (2012)](https://web.archive.org/web/20190327224041/https://plus.google.com/100163791375010553991/posts/ghcXadTegWX)
 - [Over 140k virus species in the human gut, half of which are new to science](https://www.sanger.ac.uk/news_item/scientists-identify-over-140000-virus-species-in-the-human-gut-half-of-which-are-new-to-science/)
-- [MIPS Technologies joins RISC-V, moves to open-source ISA standard](https://tuxphones.com/mips-joins-risc-v-open-hardware-standard/)
-- [Tripolar Nature of Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
