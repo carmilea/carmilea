@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is Europe Falling Further Behind the US?](https://johnhcochrane.blogspot.com/2021/03/the-puzzle-of-europe.html?spref=tw&m=1)
+- [Google advised mental health care when workers complained about racism, sexism](https://www.nbcnews.com/tech/tech-news/google-advised-mental-health-care-when-workers-complained-about-racism-n1259728)
+- [Conways Game of Life on Blockchain](https://github.com/nialloc/GameOfLife)
 - [Food Prices Soar Globally](https://www.bloomberg.com/news/articles/2021-03-01/inflation-2021-malnutrition-and-hunger-fears-rise-as-food-prices-soar-globally)
 - [Programming Paradigms, Turing Completeness and Computational Thinking](https://programming-journal.org/2020/4/4/)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/?cb=1&_ga=2.145693744.523477250.1614802183-1247573525.1613934766)
-- [Show HN: I made a parser visualizer using manim](https://github.com/ashutoshbsathe/yacv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
