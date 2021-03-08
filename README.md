@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Programming Paradigms, Turing Completeness and Computational Thinking](https://programming-journal.org/2020/4/4/)
+- [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/?cb=1&_ga=2.145693744.523477250.1614802183-1247573525.1613934766)
 - [The new Google Pay repeats all the same mistakes of Google Allo](https://arstechnica.com/?p=1747061)
-- [US-China War over Taiwan: All Measures Short of a Cross Straits Invasion](https://scholars-stage.blogspot.com/2021/03/all-measures-short-of-cross-straits.html)
 - [Conversations almost never end when both parties want them to: study](https://www.scientificamerican.com/article/people-literally-dont-know-when-to-shut-up-or-keep-talking-science-confirms/)
 - [Lord of the Ring(s): Side Channel Attacks on the CPU On-Chip Ring Interconnect](https://arxiv.org/abs/2103.03443)
-- [Game Theory – Open Yale Courses](https://oyc.yale.edu/economics/econ-159)
 <!-- BLOG-POST-LIST:END -->
 
 ---
