@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everyone Is Beautiful and No One Is Horny](https://bloodknife.com/everyone-beautiful-no-one-horny/)
 - [The Six-Lesson Schoolteacher, by John Taylor Gatto (1991)](https://www.cantrip.org/gatto.html)
 - [Remembering Allan McDonald: He Refused Challenger Launch, Exposed Cover-Up](https://text.npr.org/974534021)
 - [A Solution to the RWP for Exam 1 – Stealing Power (2006)](https://users.physics.unc.edu/~deardorf/phys25/rwp/exam1rwpsolution.html)
 - [What Happens Inside a 100-Hop IPv6 Wireless Mesh Network?](https://www.thingsquare.com/blog/articles/100-hops-ipv6-mesh/)
-- [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
