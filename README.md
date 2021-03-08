@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport is hiring engineers in Chicago](https://flexport.com/careers)
+- [Show HN: FAANG.io – Engineering jobs from FAANG in one spot](https://faang.io?ref=hacker-news)
+- [A Basic Timeline of the Exchange Mass-Hack](https://krebsonsecurity.com/2021/03/a-basic-timeline-of-the-exchange-mass-hack/)
+- [-2000 Lines of Code](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
 - [SpaceX reveals the grand extent of its starport plans in South Texas](https://arstechnica.com/science/2021/03/spacex-reveals-the-grand-extent-of-its-starport-plans-in-south-texas/)
-- [Bill Gates Says that Bitcoin is bad For the Planet](https://www.technologyelevation.com/2021/03/bill-gates-says-that-bitcoin-is-bad-for.html)
-- [Launch HN: Bristle (YC W21) – At-home microbiome test to improve oral health](https://news.ycombinator.com/item?id=26386664)
-- [European Super Grid](https://en.wikipedia.org/wiki/European_super_grid)
-- [Excel Never Dies](https://www.notboring.co/p/excel-never-dies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
