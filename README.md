@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TLA+](https://en.wikipedia.org/wiki/TLA%2B)
+- [A deep-dive into the future of subscription gaming](https://www.eurogamer.net/articles/2021-02-17-is-xbox-game-pass-too-good-to-be-true)
 - [OneSignal Is Hiring Engineers in California, New York, Texas, and the UK](https://onesignal.com/careers)
+- [Multinationals face pressure to relocate headquarters to Saudi Arabia](https://www.ft.com/content/3a93b6a6-dbec-4cc7-98e5-a37804fe3fa6)
 - [Finding Mona Lisa in the Game of Life](http://avinayak.github.io/algorithms/programming/2021/02/19/finding-mona-lisa-in-the-game-of-life.html)
-- [Medical researcher discovers integration, gets 75 citations (2007)](https://fliptomato.wordpress.com/2007/03/19/medical-researcher-discovers-integration-gets-75-citations/)
-- [Julia: A Post-Mortem](https://chrisvoncsefalvay.com/2021/03/07/julia-a-post-mortem/)
-- [Conways Game of Life on Blockchain](https://github.com/nialloc/GameOfLife)
 <!-- BLOG-POST-LIST:END -->
 
 ---
