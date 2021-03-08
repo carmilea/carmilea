@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Third-party food delivery remains an uncertain business](https://www.restaurantbusinessonline.com/financing/dominos-shows-why-third-party-delivery-remains-uncertain-business)
-- [Amazon Fresh Opens in London](http://www.fruitnet.com/eurofruit/article/184548/exclusive-amazon-fresh-opens-in-london)
+- [SpaceX plans Starlink broadband for cars, boats, and planes](https://arstechnica.com/information-technology/2021/03/spacex-plans-starlink-broadband-for-cars-boats-and-planes/)
 - [Crypto Governance Voting Tracker](https://cryptocracy.vercel.app/)
 - [Does Stress Impact Technical Interview Performance? [pdf]](http://www.chrisparnin.me/pdf/stress_FSE_20.pdf)
 - [Mux (YC W16) is hiring engineers to work with Elixir and modern (Type|Java)Script](https://mux.com/jobs?hnj=stack)
