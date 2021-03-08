@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [People Literally Don’t Know When to Shut Up – Or Keep Talking – Science Confirms](https://www.scientificamerican.com/article/people-literally-dont-know-when-to-shut-up-or-keep-talking-science-confirms/)
+- [Lord of the Ring(s): Side Channel Attacks on the CPU On-Chip Ring Interconnect](https://arxiv.org/abs/2103.03443)
 - [Onyx BOOX Nova3 Color, the first color ereader supports writing](https://www.boox.com/nova3color/)
 - [Game Theory – Open Yale Courses](https://oyc.yale.edu/economics/econ-159)
 - [Talking with your hands alters the perception of your words](https://bigthink.com/surprising-science/talking-with-your-hands)
-- [Everyone Is Beautiful and No One Is Horny](https://bloodknife.com/everyone-beautiful-no-one-horny/)
-- [The Six-Lesson Schoolteacher, by John Taylor Gatto (1991)](https://www.cantrip.org/gatto.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
