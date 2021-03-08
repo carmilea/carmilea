@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The new Google Pay repeats all the same mistakes of Google Allo](https://arstechnica.com/?p=1747061)
 - [US-China War over Taiwan: All Measures Short of a Cross Straits Invasion](https://scholars-stage.blogspot.com/2021/03/all-measures-short-of-cross-straits.html)
-- [Book Banning in an Age of Amazon](https://abigailshrier.substack.com/p/book-banning-in-an-age-of-amazon)
 - [Conversations almost never end when both parties want them to: study](https://www.scientificamerican.com/article/people-literally-dont-know-when-to-shut-up-or-keep-talking-science-confirms/)
 - [Lord of the Ring(s): Side Channel Attacks on the CPU On-Chip Ring Interconnect](https://arxiv.org/abs/2103.03443)
+- [Game Theory – Open Yale Courses](https://oyc.yale.edu/economics/econ-159)
 <!-- BLOG-POST-LIST:END -->
 
 ---
