@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mux (YC W16) is hiring engineers to work with Elixir and modern (Type|Java)Script](https://mux.com/jobs?hnj=stack)
+- [Developing an underwater robot to save people from drowning](https://www.fraunhofer.de/en/press/research-news/2021/march-2021/an-autonomous-underwater-robot-saves-people-from-drowning.html)
+- [The Unstoppable Momentum of Outdated Science](https://rogerpielkejr.substack.com/p/the-unstoppable-momentum-of-outdated)
+- [Tesla Admits Current ‘Full Self-Driving Beta’ Will Always Be Level 2](https://www.thedrive.com/news/39647/tesla-admits-current-full-self-driving-beta-will-always-be-a-level-2-system-emails)
 - [Historic Maps of London](https://www.layersoflondon.org/)
-- [Tesla is building a giant battery in Texas](https://arstechnica.com/science/2021/03/report-tesla-is-secretly-building-a-giant-100-mw-battery-in-texas/)
-- [Tim Sweeney: “ISO obstructs adoption of standards by paywalling them”](https://twitter.com/TimSweeneyEpic/status/1368637789248626699)
-- [Facebook tracking users with background sound (2012)](https://web.archive.org/web/20190327224041/https://plus.google.com/100163791375010553991/posts/ghcXadTegWX)
-- [Over 140k virus species in the human gut, half of which are new to science](https://www.sanger.ac.uk/news_item/scientists-identify-over-140000-virus-species-in-the-human-gut-half-of-which-are-new-to-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
