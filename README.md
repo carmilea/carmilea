@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MIPS Technologies joins RISC-V, moves to open-source ISA standard](https://tuxphones.com/mips-joins-risc-v-open-hardware-standard/)
+- [Remote Workstations for the Discerning Artists](https://netflixtechblog.com/remote-workstations-for-the-discerning-artists-8155a8fbd190)
 - [Flexport is hiring engineers in Chicago](https://flexport.com/careers)
 - [Show HN: FAANG.io – Engineering jobs from FAANG in one spot](https://faang.io?ref=hacker-news)
 - [A Basic Timeline of the Exchange Mass-Hack](https://krebsonsecurity.com/2021/03/a-basic-timeline-of-the-exchange-mass-hack/)
-- [-2000 Lines of Code](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
-- [SpaceX reveals the grand extent of its starport plans in South Texas](https://arstechnica.com/science/2021/03/spacex-reveals-the-grand-extent-of-its-starport-plans-in-south-texas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
