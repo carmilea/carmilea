@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Kilobyte's Gambit: Can you beat 1024 bytes of JavaScript [at chess]?](https://vole.wtf/kilobytes-gambit/)
-- [UC’s termination of Elsevier contract has had limited negative impact (2020)](https://dailybruin.com/2020/02/27/ucs-termination-of-elsevier-contract-has-had-limited-negative-impact)
-- [Solugen (YC W17) is hiring a director of marketing](https://www.workatastartup.com/jobs/42586)
-- [Review: The Book of Why](https://tachy.org/posts/book-of-why/)
-- [Simple and Free Web Analytics](https://counter.dev/)
+- [The Six-Lesson Schoolteacher, by John Taylor Gatto (1991)](https://www.cantrip.org/gatto.html)
+- [Remembering Allan McDonald: He Refused Challenger Launch, Exposed Cover-Up](https://text.npr.org/974534021)
+- [A Solution to the RWP for Exam 1 – Stealing Power (2006)](https://users.physics.unc.edu/~deardorf/phys25/rwp/exam1rwpsolution.html)
+- [What Happens Inside a 100-Hop IPv6 Wireless Mesh Network?](https://www.thingsquare.com/blog/articles/100-hops-ipv6-mesh/)
+- [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
