@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Runops (YC W21) – A better Cloud Shell for production apps](https://news.ycombinator.com/item?id=26385434)
+- [Course: The Mathematical Engineering of Deep Learning](https://deeplearningmath.org/)
+- [Israel, Cyprus and Greece agree to link power grids via subsea cable](https://www.reuters.com/article/idUSKBN2B015M)
+- [Google suffers from a digital petro curse](https://world.hey.com/dhh/google-suffers-from-a-digital-petro-curse-908e919a)
 - [TLA+](https://en.wikipedia.org/wiki/TLA%2B)
-- [A deep-dive into the future of subscription gaming](https://www.eurogamer.net/articles/2021-02-17-is-xbox-game-pass-too-good-to-be-true)
-- [OneSignal Is Hiring Engineers in California, New York, Texas, and the UK](https://onesignal.com/careers)
-- [Multinationals face pressure to relocate headquarters to Saudi Arabia](https://www.ft.com/content/3a93b6a6-dbec-4cc7-98e5-a37804fe3fa6)
-- [Finding Mona Lisa in the Game of Life](http://avinayak.github.io/algorithms/programming/2021/02/19/finding-mona-lisa-in-the-game-of-life.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
