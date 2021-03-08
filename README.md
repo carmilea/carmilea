@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal Is Hiring Engineers in California, New York, Texas, and the UK](https://onesignal.com/careers)
+- [Finding Mona Lisa in the Game of Life](http://avinayak.github.io/algorithms/programming/2021/02/19/finding-mona-lisa-in-the-game-of-life.html)
 - [Medical researcher discovers integration, gets 75 citations (2007)](https://fliptomato.wordpress.com/2007/03/19/medical-researcher-discovers-integration-gets-75-citations/)
-- [Google advised mental health care when workers complained about racism, sexism](https://www.nbcnews.com/tech/tech-news/google-advised-mental-health-care-when-workers-complained-about-racism-n1259728)
+- [Julia: A Post-Mortem](https://chrisvoncsefalvay.com/2021/03/07/julia-a-post-mortem/)
 - [Conways Game of Life on Blockchain](https://github.com/nialloc/GameOfLife)
-- [Food Prices Soar Globally](https://www.bloomberg.com/news/articles/2021-03-01/inflation-2021-malnutrition-and-hunger-fears-rise-as-food-prices-soar-globally)
-- [Ask HN: Can you switch to a programming career despite nearing 40?](https://news.ycombinator.com/item?id=26383366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
