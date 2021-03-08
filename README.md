@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [React Common Tools and Practices: State Management Overview](https://react-community-tools-practices-cheatsheet.netlify.app/state-management/overview/)
-- [Apple TV+ announces programming partnership with Nobel laureate Malala Yousafzai](https://www.apple.com/newsroom/2021/03/apple-tv-plus-announces-programming-partnership-with-nobel-laureate-malala-yousafzai/)
-- [Show HN: COMPOST – A DWeb-native magazine about the digital commons](https://one.compost.digital)
-- [The new Google Pay repeats all the same mistakes of Google Allo](https://arstechnica.com/gadgets/2021/03/the-new-google-pay-repeats-all-the-same-mistakes-of-google-allo/)
-- [Launch HN: Runops (YC W21) – A better Cloud Shell for production apps](https://news.ycombinator.com/item?id=26385434)
+- [SpaceX reveals the grand extent of its starport plans in South Texas](https://arstechnica.com/science/2021/03/spacex-reveals-the-grand-extent-of-its-starport-plans-in-south-texas/)
+- [Bill Gates Says that Bitcoin is bad For the Planet](https://www.technologyelevation.com/2021/03/bill-gates-says-that-bitcoin-is-bad-for.html)
+- [Launch HN: Bristle (YC W21) – At-home microbiome test to improve oral health](https://news.ycombinator.com/item?id=26386664)
+- [European Super Grid](https://en.wikipedia.org/wiki/European_super_grid)
+- [Excel Never Dies](https://www.notboring.co/p/excel-never-dies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
