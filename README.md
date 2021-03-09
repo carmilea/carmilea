@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Its the Sugar, Folks (2013)](http://opinionator.blogs.nytimes.com/2013/02/27/its-the-sugar-folks/)
+- [Debian Running on Rust Coreutils](https://sylvestre.ledru.info/blog/2021/03/09/debian-running-on-rust-coreutils)
+- [`three = 1` in the Linux sourcecode (2014)](https://github.com/torvalds/linux/blob/d158fc7f36a25e19791d25a55da5623399a2644f/fs/ext4/resize.c#L698)
+- [“An Introduction to Ray Tracing” is now free for download (2019)](http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/)
 - [Generalists vs. specialists – who has a greater chance of success?](https://www.abhijitbhaduri.com/2019/08/15/generalists-specialists/)
 - [A bug related to handling of authenticated sessions](https://github.blog/2021-03-08-github-security-update-a-bug-related-to-handling-of-authenticated-sessions/)
-- [Bubble Wrap Artist Creates Masterpieces by Injecting Paint into Each Bubble](https://www.goodnewsnetwork.org/bradley-hart-bubble-wrap-art/)
-- [I self-published a paperback and eBook using LaTeX and Pandoc](http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc/?1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
