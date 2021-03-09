@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Girls perform better academically in almost all countries (2015)](http://www.economist.com/news/international/21645759-boys-are-being-outclassed-girls-both-school-and-university-and-gap)
+- [Nuclear technology’s role in the world’s energy supply is shrinking](https://www.nature.com/articles/d41586-021-00615-w)
+- [The Uyghur Genocide: An examination of breaches of the 1948 Genocide Convention](https://newlinesinstitute.org/uyghurs/the-uyghur-genocide-an-examination-of-chinas-breaches-of-the-1948-genocide-convention/)
+- [Reverse-engineering the standard-cell logic inside a vintage IBM chip](https://www.righto.com/2021/03/reverse-engineering-standard-cell-logic.html)
 - [Lumi (YC W15) is democratizing access to the world's factories – work anywhere](https://www.lumi.com/jobs)
-- [Object Browser](https://wiki.c2.com/?ObjectBrowser)
-- [Researchers discover privacy-preserving tools leave private data unprotected](https://engineering.nyu.edu/news/researchers-discover-privacy-preserving-tools-leave-private-data-unprotected)
-- [The Roblox Microverse](https://stratechery.com/2021/the-roblox-microverse/)
-- [ISO-8601 date format reference not publicly available](https://twitter.com/isostandards/status/1367138676162105344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
