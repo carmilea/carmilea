@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why forex trading is exploding across Africa](https://restofworld.org/2021/inside-zimbabwes-underground-forex-trade/)
-- [Write libraries instead of services, where possible](http://catern.com/services.html)
-- [Inspired by Alabama’s union battle, Amazon workers elsewhere consider organizing](https://www.washingtonpost.com/technology/2021/03/09/amazon-union-bessemer-history/)
-- [Launch HN: Segments.ai (YC W21) – Build better datasets for image segmentation](https://news.ycombinator.com/item?id=26398518)
-- [Shops return to rural Sweden but are now staff-free](https://www.bbc.co.uk/news/business-56237988)
+- [Algorithms don't cause filter bubbles, people do](https://news.findka.com/p/algorithms-dont-cause-filter-bubbles)
+- [The Roblox Microverse](https://stratechery.com/2021/the-roblox-microverse/)
+- [ISO-8601 date format reference not publicly available](https://twitter.com/isostandards/status/1367138676162105344)
+- [Launch HN: Charge Running (YC W21) – Social running app with real-time coaching](https://news.ycombinator.com/item?id=26400053)
+- [Apple M1 latencies, throughput and iops](https://dougallj.github.io/applecpu/firestorm-int.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
