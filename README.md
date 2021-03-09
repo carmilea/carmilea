@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Children Playing Blockchain](https://jott.live/markdown/elementary_blockchain)
+- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
+- [What Happens When Investment Firms Acquire Trailer Parks](https://www.newyorker.com/magazine/2021/03/15/what-happens-when-investment-firms-acquire-trailer-parks)
+- [T-Mobile to share customers' data with advertisers unless they opt out](https://thehill.com/policy/technology/542303-t-mobile-to-share-customers-web-mobile-app-data-with-advertisers-unless)
+- [Show HN: I made a tool to convert images of tables to CSV](https://github.com/artperrin/image2csv)
 - [UK businesses caught buying five-star Google reviews](https://www.bbc.com/news/technology-56321576)
-- [Webmention.io](https://webmention.io/)
-- [Building Webhooks into Your Application: Guidelines and Best Practices](https://workos.com/blog/building-webhooks-into-your-application-guidelines-and-best-practices?src=hn)
-- [Girls perform better academically in almost all countries (2015)](http://www.economist.com/news/international/21645759-boys-are-being-outclassed-girls-both-school-and-university-and-gap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
