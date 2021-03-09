@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Segments.ai (YC W21) – Build better datasets for image segmentation](https://news.ycombinator.com/item?id=26398518)
 - [Shops return to rural Sweden but are now staff-free](https://www.bbc.co.uk/news/business-56237988)
 - [Reverie Labs (YC W18) Is Hiring a Software Engineering Lead to Help Cure Cancer](https://jobs.lever.co/reverielabs/3215ba2d-a3be-412b-954d-10e1e75eb078)
-- [Music Software and Bad Interface Design: Avid’s Sibelius](https://www.youtube.com/watch?v=dKx1wnXClcI)
+- [Music Software and Bad Interface Design: Avid’s Sibelius (2018) [video]](https://www.youtube.com/watch?v=dKx1wnXClcI)
 - [Less than 20% of the world's population now live in a “free” country](https://freedomhouse.org/report/freedom-world/2021/democracy-under-siege)
-- [Self-decapitating sea slugs regrow their bodies – hearts and all](https://www.theguardian.com/environment/2021/mar/08/keep-your-head-the-self-decapitating-sea-slugs-that-regrow-their-bodies-hearts-and-all)
 <!-- BLOG-POST-LIST:END -->
 
 ---
