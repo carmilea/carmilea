@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Algorithms don't cause filter bubbles, people do](https://news.findka.com/p/algorithms-dont-cause-filter-bubbles)
+- [Lumi (YC W15) is democratizing access to the world's factories – work anywhere](https://www.lumi.com/jobs)
+- [Object Browser](https://wiki.c2.com/?ObjectBrowser)
+- [Researchers discover privacy-preserving tools leave private data unprotected](https://engineering.nyu.edu/news/researchers-discover-privacy-preserving-tools-leave-private-data-unprotected)
 - [The Roblox Microverse](https://stratechery.com/2021/the-roblox-microverse/)
 - [ISO-8601 date format reference not publicly available](https://twitter.com/isostandards/status/1367138676162105344)
-- [Launch HN: Charge Running (YC W21) – Social running app with real-time coaching](https://news.ycombinator.com/item?id=26400053)
-- [Apple M1 latencies, throughput and iops](https://dougallj.github.io/applecpu/firestorm-int.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
