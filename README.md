@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why forex trading is exploding across Africa](https://restofworld.org/2021/inside-zimbabwes-underground-forex-trade/)
+- [Write libraries instead of services, where possible](http://catern.com/services.html)
+- [Inspired by Alabama’s union battle, Amazon workers elsewhere consider organizing](https://www.washingtonpost.com/technology/2021/03/09/amazon-union-bessemer-history/)
 - [Launch HN: Segments.ai (YC W21) – Build better datasets for image segmentation](https://news.ycombinator.com/item?id=26398518)
 - [Shops return to rural Sweden but are now staff-free](https://www.bbc.co.uk/news/business-56237988)
-- [Reverie Labs (YC W18) Is Hiring a Software Engineering Lead to Help Cure Cancer](https://jobs.lever.co/reverielabs/3215ba2d-a3be-412b-954d-10e1e75eb078)
-- [Music Software and Bad Interface Design: Avid’s Sibelius (2018) [video]](https://www.youtube.com/watch?v=dKx1wnXClcI)
-- [Less than 20% of the world's population now live in a “free” country](https://freedomhouse.org/report/freedom-world/2021/democracy-under-siege)
 <!-- BLOG-POST-LIST:END -->
 
 ---
