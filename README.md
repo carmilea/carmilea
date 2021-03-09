@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Third-party food delivery remains an uncertain business](https://www.restaurantbusinessonline.com/financing/dominos-shows-why-third-party-delivery-remains-uncertain-business)
+- [I want a Computer that I Own](http://misc-stuff.terraaeon.com/articles/computer-i-own.html)
+- [The Most-Used Mathematical Algorithm Idea in History (2016)](https://writings.stephenwolfram.com/2016/05/solomon-golomb-19322016/)
 - [SpaceX plans Starlink broadband for cars, boats, and planes](https://arstechnica.com/information-technology/2021/03/spacex-plans-starlink-broadband-for-cars-boats-and-planes/)
-- [Crypto Governance Voting Tracker](https://cryptocracy.vercel.app/)
-- [Does Stress Impact Technical Interview Performance? [pdf]](http://www.chrisparnin.me/pdf/stress_FSE_20.pdf)
+- [Does stress impact technical interview performance? (2020) [pdf]](http://www.chrisparnin.me/pdf/stress_FSE_20.pdf)
 - [Mux (YC W16) is hiring engineers to work with Elixir and modern (Type|Java)Script](https://mux.com/jobs?hnj=stack)
 <!-- BLOG-POST-LIST:END -->
 
