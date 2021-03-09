@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Address Sanitizer for MSVC Now Generally Available](https://devblogs.microsoft.com/cppblog/address-sanitizer-for-msvc-now-generally-available/)
+- [Google HR 'suggested medical leave' for racism victims](https://www.bbc.co.uk/news/technology-56321568)
+- [The Quirks of Gmail UI](https://hanami.run/blog/posts/the-quirks-of-gmail-ui/)
 - [Debian Running on Rust Coreutils](https://sylvestre.ledru.info/blog/2021/03/09/debian-running-on-rust-coreutils)
 - [`three = 1` in the Linux sourcecode (2014)](https://github.com/torvalds/linux/blob/d158fc7f36a25e19791d25a55da5623399a2644f/fs/ext4/resize.c#L698)
-- [“An Introduction to Ray Tracing” is now free for download (2019)](http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/)
-- [Generalists vs. specialists – who has a greater chance of success?](https://www.abhijitbhaduri.com/2019/08/15/generalists-specialists/)
-- [A bug related to handling of authenticated sessions](https://github.blog/2021-03-08-github-security-update-a-bug-related-to-handling-of-authenticated-sessions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
