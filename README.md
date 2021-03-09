@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverie Labs (YC W18) Is Hiring a Software Engineering Lead to Help Cure Cancer](https://jobs.lever.co/reverielabs/3215ba2d-a3be-412b-954d-10e1e75eb078)
+- [Music Software and Bad Interface Design: Avid’s Sibelius](https://www.youtube.com/watch?v=dKx1wnXClcI)
+- [Self-decapitating sea slugs regrow their bodies – hearts and all](https://www.theguardian.com/environment/2021/mar/08/keep-your-head-the-self-decapitating-sea-slugs-that-regrow-their-bodies-hearts-and-all)
 - [Address Sanitizer for MSVC Now Generally Available](https://devblogs.microsoft.com/cppblog/address-sanitizer-for-msvc-now-generally-available/)
-- [Google HR 'suggested medical leave' for racism victims](https://www.bbc.co.uk/news/technology-56321568)
 - [The Quirks of Gmail UI](https://hanami.run/blog/posts/the-quirks-of-gmail-ui/)
-- [Debian Running on Rust Coreutils](https://sylvestre.ledru.info/blog/2021/03/09/debian-running-on-rust-coreutils)
-- [`three = 1` in the Linux sourcecode (2014)](https://github.com/torvalds/linux/blob/d158fc7f36a25e19791d25a55da5623399a2644f/fs/ext4/resize.c#L698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
