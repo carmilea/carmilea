@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I want a Computer that I Own](http://misc-stuff.terraaeon.com/articles/computer-i-own.html)
+- [New Algorithm Breaks Speed Limit for Solving Linear Equations](https://www.quantamagazine.org/new-algorithm-breaks-speed-limit-for-solving-linear-equations-20210308/)
 - [The Most-Used Mathematical Algorithm Idea in History (2016)](https://writings.stephenwolfram.com/2016/05/solomon-golomb-19322016/)
-- [SpaceX plans Starlink broadband for cars, boats, and planes](https://arstechnica.com/information-technology/2021/03/spacex-plans-starlink-broadband-for-cars-boats-and-planes/)
-- [Does stress impact technical interview performance? (2020) [pdf]](http://www.chrisparnin.me/pdf/stress_FSE_20.pdf)
-- [Mux (YC W16) is hiring engineers to work with Elixir and modern (Type|Java)Script](https://mux.com/jobs?hnj=stack)
+- [Replaying real life: how the Waymo Driver avoids fatal human crashes](https://blog.waymo.com/2021/03/replaying-real-life.html?m=1)
+- [Pay toilets and NYT: a free market microcosm](https://johnhcochrane.blogspot.com/2021/03/pay-toilets-and-nyt-free-market.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
