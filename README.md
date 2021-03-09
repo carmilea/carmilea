@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generalists vs. specialists – who has a greater chance of success?](https://www.abhijitbhaduri.com/2019/08/15/generalists-specialists/)
 - [GitHub security update: A bug related to handling of authenticated sessions](https://github.blog/2021-03-08-github-security-update-a-bug-related-to-handling-of-authenticated-sessions/)
 - [Solzhenitsyn’s Rosary](https://nevalalee.wordpress.com/2016/07/11/solzhenitsyns-rosary/)
 - [Bubble Wrap Artist Creates Masterpieces by Injecting Paint into Each Bubble](https://www.goodnewsnetwork.org/bradley-hart-bubble-wrap-art/)
 - [I self-published a paperback and eBook using LaTeX and Pandoc](http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc/?1)
-- [I want a Computer that I Own](http://misc-stuff.terraaeon.com/articles/computer-i-own.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
