@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Git: Malicious repositories can execute remote code while cloning](https://www.openwall.com/lists/oss-security/2021/03/09/3)
+- [Women dominated beer brewing until they were accused of being witches](https://www.smithsonianmag.com/history/women-used-dominate-beer-industry-until-witch-accusations-started-pouring-180977171/)
 - [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
-- [What Happens When Investment Firms Acquire Trailer Parks](https://www.newyorker.com/magazine/2021/03/15/what-happens-when-investment-firms-acquire-trailer-parks)
-- [T-Mobile to share customers' data with advertisers unless they opt out](https://thehill.com/policy/technology/542303-t-mobile-to-share-customers-web-mobile-app-data-with-advertisers-unless)
-- [Show HN: I made a tool to convert images of tables to CSV](https://github.com/artperrin/image2csv)
-- [UK businesses caught buying five-star Google reviews](https://www.bbc.com/news/technology-56321576)
+- [Show HN: Singlelink – an open-source micro-site platform](https://singlelink.co)
+- [What happens when investment firms acquire trailer parks](https://www.newyorker.com/magazine/2021/03/15/what-happens-when-investment-firms-acquire-trailer-parks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
