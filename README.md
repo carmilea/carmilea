@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Webmention.io](https://webmention.io/)
+- [Building Webhooks into Your Application: Guidelines and Best Practices](https://workos.com/blog/building-webhooks-into-your-application-guidelines-and-best-practices?src=hn)
 - [Girls perform better academically in almost all countries (2015)](http://www.economist.com/news/international/21645759-boys-are-being-outclassed-girls-both-school-and-university-and-gap)
 - [Nuclear technology’s role in the world’s energy supply is shrinking](https://www.nature.com/articles/d41586-021-00615-w)
 - [The Uyghur Genocide: An examination of breaches of the 1948 Genocide Convention](https://newlinesinstitute.org/uyghurs/the-uyghur-genocide-an-examination-of-chinas-breaches-of-the-1948-genocide-convention/)
-- [Reverse-engineering the standard-cell logic inside a vintage IBM chip](https://www.righto.com/2021/03/reverse-engineering-standard-cell-logic.html)
-- [Lumi (YC W15) is democratizing access to the world's factories – work anywhere](https://www.lumi.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
