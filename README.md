@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jupiter (YC S19), hyperpersonalized grocery from 2050, hiring Software Engineers](https://jupiter.co/careers)
+- [Inventor of cassette tape Lou Ottens passed away](https://netherlandsnewslive.com/inventor-of-cassette-tape-lou-ottens-passed-away-financial/107722/)
+- [I don't want to learn your garbage query language](https://erikbern.com/2018/08/30/i-dont-want-to-learn-your-garbage-query-language.html)
+- [Authelia is an open-source authentication/authorization server with 2FA/SSO](https://github.com/authelia/authelia)
 - [Bats and the Origin of Outbreaks](https://graphics.reuters.com/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/)
-- [Fukushima radiation did not damage health of local people, UN says](https://www.theguardian.com/environment/2021/mar/10/fukushima-meltdown-did-not-damage-health-un-japan)
-- [Blockchain-based and open source Digital Euro usage in Café](https://www.delta.tudelft.nl/article/delft-cafe-premieres-eemcs-blockchain-euro)
-- [The Challenges of Integrating the Unix and Mac OS Environments (2000)](https://www.usenix.org/legacy/publications/library/proceedings/usenix2000/invitedtalks/sanchez_html/sanchez.html)
-- [Staying Out of TTL Hell](http://calpaterson.com/ttl-hell.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
