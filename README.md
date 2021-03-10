@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Drivers New to Automated Assists Often Missed a Giant Teddy Bear Speeding Past](https://www.thedrive.com/news/39688/drivers-new-to-automated-assists-more-often-missed-a-giant-teddy-bear-speeding-past-them-study)
+- [80486 CPU Board](http://www.s100computers.com/My%20System%20Pages/80486%20Board/80486%20CPU%20Board.htm)
 - [Fire declared in OVH SBG2 datacentre building](http://travaux.ovh.net/?do=details&id=49471&)
 - [Papers Without Code](http://www.paperswithoutcode.com/)
-- [Alaska will be first state in U.S. to offer Covid-19 vaccines to all adults](https://www.alaskapublic.org/2021/03/09/alaska-will-be-first-in-u-s-to-offer-covid-19-vaccines-to-all-adults/)
 - [Why asynchronous Rust doesn't work](https://theta.eu.org/2021/03/08/async-rust-2.html)
-- [Japan to stage Tokyo Olympics without overseas spectators](https://japantoday.com/category/tokyo-2020-olympics/update1-japan-to-stage-tokyo-olympics-without-overseas-spectators)
 <!-- BLOG-POST-LIST:END -->
 
 ---
