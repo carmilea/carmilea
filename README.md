@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is Your Spacebar Working on YouTube?](https://news.ycombinator.com/item?id=26415379)
+- [Minecraft vs. Roblox](https://www.codeadvantage.org/coding-for-kids-blog/minecraft-vs-roblox)
 - [Apple has gone to extraordinary lengths to make scroll bars invisible, I hate it](https://twitter.com/simonw/status/1369708900216270849)
-- [A tactical guide to kickstarting your community](https://orbit.love/blog/a-tactical-guide-to-kickstarting-your-community/)
-- [The tree-based approach to organizing documentation sucks](https://www.worldofbs.com/why-documentation-sucks/)
-- [Postmates added $70M in revenue and saved $3M in network fees with Stripe](https://stripe.com/newsroom/stories/postmates)
-- [How to build a billion dollar audio app in a weekend](https://www.daily.co/blog/how-to-build-a-billion-dollar-audio-app-in-a-weekend/)
+- [A tactical guide to kickstarting a community](https://orbit.love/blog/a-tactical-guide-to-kickstarting-your-community/)
+- [Fuzzing Java in OSS-Fuzz](https://security.googleblog.com/2021/03/fuzzing-java-in-oss-fuzz.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
