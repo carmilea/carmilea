@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel NUC as a back end for development](https://dimamoroz.com/2021/03/09/intel-nuc-for-development/)
+- [What Is Life? Its Vast Diversity Defies Easy Definition](https://www.quantamagazine.org/what-is-life-its-vast-diversity-defies-easy-definition-20210309/?mc_cid=c8ad7e0141&mc_eid=8663481594)
+- [YouTube tells foreign creators they will soon be charged American tax](https://www.rt.com/usa/517663-youtube-taxes-nonamerican-creators/)
+- [Why New England Almost Seceded over the War of 1812 (2012)](https://www.wbur.org/radioboston/2012/06/15/new-england-succession)
 - [Why is the deathbed perspective considered so valuable?](https://aeon.co/essays/why-is-the-deathbed-perspective-considered-so-valuable)
-- [Jupiter (YC S19), hyperpersonalized grocery from 2050, hiring Software Engineers](https://jupiter.co/careers)
-- [Lou Ottens, inventor of cassette tape, has died](https://netherlandsnewslive.com/inventor-of-cassette-tape-lou-ottens-passed-away-financial/107722/)
-- [I don't want to learn your query language (2018)](https://erikbern.com/2018/08/30/i-dont-want-to-learn-your-garbage-query-language.html)
-- [Authelia is an open-source authentication/authorization server with 2FA/SSO](https://github.com/authelia/authelia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
