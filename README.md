@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel NUC as a back end for development](https://dimamoroz.com/2021/03/09/intel-nuc-for-development/)
+- [Launch HN: Remora (YC W21) – Carbon capture for semi trucks](https://news.ycombinator.com/item?id=26412624)
+- [Facebook and Twitter algorithms incentivize 'people to get enraged'](https://www.yahoo.com/entertainment/facebook-and-twitter-algorithms-incentivize-people-to-get-enraged-walter-isaacson-145710378.html)
+- [Why Become a TypeScript Fan?](https://betterprogramming.pub/how-an-anti-typescript-javascript-developer-like-me-became-a-typescript-fan-a4e043151ad7)
 - [What Is Life? Its Vast Diversity Defies Easy Definition](https://www.quantamagazine.org/what-is-life-its-vast-diversity-defies-easy-definition-20210309/?mc_cid=c8ad7e0141&mc_eid=8663481594)
 - [YouTube tells foreign creators they will soon be charged American tax](https://www.rt.com/usa/517663-youtube-taxes-nonamerican-creators/)
-- [Why New England Almost Seceded over the War of 1812 (2012)](https://www.wbur.org/radioboston/2012/06/15/new-england-succession)
-- [Why is the deathbed perspective considered so valuable?](https://aeon.co/essays/why-is-the-deathbed-perspective-considered-so-valuable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
