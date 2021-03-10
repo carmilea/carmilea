@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackers Break into Thousands of Security Cameras, Exposing Tesla, Jail, Hospital](https://www.bnnbloomberg.ca/hackers-break-into-thousands-of-security-cameras-exposing-tesla-jails-hospitals-1.1574681)
-- [Git: Malicious repositories can execute remote code while cloning](https://www.openwall.com/lists/oss-security/2021/03/09/3)
-- [Hackers Break into Security Cameras, Exposing Tesla, Jails, Hospitals](https://www.bloomberg.com/news/articles/2021-03-09/hackers-expose-tesla-jails-in-breach-of-150-000-security-cams)
-- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
-- [Show HN: Singlelink – an open-source micro-site platform](https://singlelink.co)
+- [Achieving 250K concurrent connections on Cloud Run](https://ahmet.im/blog/cloud-run-chat-server/)
+- [EU seeks to supercharge computer chip production](https://www.bbc.com/news/technology-56334210)
+- ['Shoot till they are dead': Myanmar police fled to India after refusing orders](https://www.reuters.com/article/us-myanmar-politics-india-exclusive-idUSKBN2B12U2)
+- [Flipper Zero: Tamagochi for Hackers](https://flipperzero.one/)
+- [Report on an Unidentified Space Station – J.G. Ballard (1982)](http://geosci.uchicago.edu/~kite/doc/roauss.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
