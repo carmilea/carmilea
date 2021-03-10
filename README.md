@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain-based and open source Digital Euro usage in Café](https://www.delta.tudelft.nl/article/delft-cafe-premieres-eemcs-blockchain-euro)
+- [Staying Out of TTL Hell](http://calpaterson.com/ttl-hell.html)
 - [UK 'Right to repair' law to come in this summer](https://www.bbc.co.uk/news/business-56340077)
 - [Emacs org-mode examples and cookbook (2017)](http://ehneilsen.net/notebook/orgExamples/org-examples.html)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [Retracing a Donner Party path, nearly two centuries later](https://www.atlasobscura.com/articles/donner-route-2020)
-- [Of China and India: wandering thoughts from streets, boats and trains (2018)](https://yawningbread.wordpress.com/2018/01/16/of-china-and-india-wandering-thoughts-from-streets-boats-and-trains/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
