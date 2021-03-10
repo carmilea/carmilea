@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [SingleStore - Here to Build](https://www.youtube.com/watch?v=VRpB1o21hSg)
 - [#SingleStore #ManagedService Guides](https://www.youtube.com/watch?v=vS3ETTijtbw)
 - [Create a #cloud #database with #SingleStore #ManagedService](https://www.youtube.com/watch?v=0H9WBIUrP9U)
 - [Load #Avro files into #SingleStore with #Pipelines](https://www.youtube.com/watch?v=WQluigiKYxY)
 - [Load #Avro files into #SingleStore](https://www.youtube.com/watch?v=wPj_ctZkXxE)
-- [Creating #StoredProcedures in #SingleStore](https://www.youtube.com/watch?v=mPlsw1PYaOU)
 <!-- YOUTUBE:END -->
 
 
