@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is Your Spacebar Working on YouTube?](https://news.ycombinator.com/item?id=26415379)
+- [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
+- [About the March 8 and 9, 2021 Verkada camera hack](https://blog.cloudflare.com/about-the-march-8-9-2021-verkada-camera-hack/)
+- [U.S. senators reintroduce bill to make daylight saving time permanent](https://fox8.com/news/u-s-senators-reintroduce-bill-to-make-daylight-saving-time-permanent/)
+- [YouTube doesn't handle space anymore](https://www.reddit.com/r/firefox/comments/m2391d/space_bar_does_not_work_on_youtube_search_at_the/)
 - [Minecraft vs. Roblox](https://www.codeadvantage.org/coding-for-kids-blog/minecraft-vs-roblox)
-- [Apple has gone to extraordinary lengths to make scroll bars invisible, I hate it](https://twitter.com/simonw/status/1369708900216270849)
-- [A tactical guide to kickstarting a community](https://orbit.love/blog/a-tactical-guide-to-kickstarting-your-community/)
-- [Fuzzing Java in OSS-Fuzz](https://security.googleblog.com/2021/03/fuzzing-java-in-oss-fuzz.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
