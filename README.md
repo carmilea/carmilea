@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fire declared in OVH SBG2 datacentre building](http://travaux.ovh.net/?do=details&id=49471&)
+- [Papers Without Code](http://www.paperswithoutcode.com/)
+- [Alaska will be first state in U.S. to offer Covid-19 vaccines to all adults](https://www.alaskapublic.org/2021/03/09/alaska-will-be-first-in-u-s-to-offer-covid-19-vaccines-to-all-adults/)
 - [Why asynchronous Rust doesn't work](https://theta.eu.org/2021/03/08/async-rust-2.html)
 - [Japan to stage Tokyo Olympics without overseas spectators](https://japantoday.com/category/tokyo-2020-olympics/update1-japan-to-stage-tokyo-olympics-without-overseas-spectators)
-- [Cloudflare, OKTA Hacked](https://twitter.com/nyancrimew/status/1369437256193343496)
-- [Orange Health (YC S20) Is Hiring Product Manager in Bangalore, India](https://www.orangehealth.in/jobs/product-manager-%2F-sr.-product-manager)
-- [Achieving 250K concurrent connections on Cloud Run](https://ahmet.im/blog/cloud-run-chat-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
