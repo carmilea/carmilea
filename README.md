@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GiveCampus (YC S15) Is Hiring remote Sr engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
-- [Launch HN: Haystack (YC W21) – Engineering analytics that don’t suck](https://news.ycombinator.com/item?id=26413311)
-- [Interview with Vitalik Buterin on ETH2, Scaling Plans, NFTs, etc.](https://tim.blog/2021/03/09/vitalik-buterin-naval-ravikant-transcript/)
-- [Launch HN: Remora (YC W21) – Carbon capture for semi trucks](https://news.ycombinator.com/item?id=26412624)
-- [Facebook and Twitter algorithms incentivize 'people to get enraged'](https://www.yahoo.com/entertainment/facebook-and-twitter-algorithms-incentivize-people-to-get-enraged-walter-isaacson-145710378.html)
+- [Flutter is no longer a cross-platform framework](https://itnext.io/flutter-is-no-longer-a-cross-platform-framework-b53c87b14c39)
+- [GameStop drops by 40% in 25 minutes](https://www.cnbc.com/2021/03/10/gamestop-surges-40percent-then-wipes-out-gain-completely-and-is-halted-again.html)
+- [A tactical guide to kickstarting your community](https://orbit.love/blog/a-tactical-guide-to-kickstarting-your-community/)
+- [Why Your Company's Documentation Sucks](https://www.worldofbs.com/why-documentation-sucks/)
+- [Postmates added $70M in revenue and saved $3M in network fees with Stripe](https://stripe.com/newsroom/stories/postmates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
