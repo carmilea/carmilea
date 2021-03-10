@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GiveCampus (YC S15) Is Hiring remote Sr engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
+- [Launch HN: Haystack (YC W21) – Engineering analytics that don’t suck](https://news.ycombinator.com/item?id=26413311)
+- [Interview with Vitalik Buterin on ETH2, Scaling Plans, NFTs, etc.](https://tim.blog/2021/03/09/vitalik-buterin-naval-ravikant-transcript/)
 - [Launch HN: Remora (YC W21) – Carbon capture for semi trucks](https://news.ycombinator.com/item?id=26412624)
 - [Facebook and Twitter algorithms incentivize 'people to get enraged'](https://www.yahoo.com/entertainment/facebook-and-twitter-algorithms-incentivize-people-to-get-enraged-walter-isaacson-145710378.html)
-- [Why Become a TypeScript Fan?](https://betterprogramming.pub/how-an-anti-typescript-javascript-developer-like-me-became-a-typescript-fan-a4e043151ad7)
-- [What Is Life? Its Vast Diversity Defies Easy Definition](https://www.quantamagazine.org/what-is-life-its-vast-diversity-defies-easy-definition-20210309/?mc_cid=c8ad7e0141&mc_eid=8663481594)
-- [YouTube tells foreign creators they will soon be charged American tax](https://www.rt.com/usa/517663-youtube-taxes-nonamerican-creators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
