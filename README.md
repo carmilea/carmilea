@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why asynchronous Rust doesn't work](https://theta.eu.org/2021/03/08/async-rust-2.html)
+- [Japan to stage Tokyo Olympics without overseas spectators](https://japantoday.com/category/tokyo-2020-olympics/update1-japan-to-stage-tokyo-olympics-without-overseas-spectators)
 - [Orange Health (YC S20) Is Hiring Product Manager in Bangalore, India](https://www.orangehealth.in/jobs/product-manager-%2F-sr.-product-manager)
 - [Achieving 250K concurrent connections on Cloud Run](https://ahmet.im/blog/cloud-run-chat-server/)
 - [EU seeks to supercharge computer chip production](https://www.bbc.com/news/technology-56334210)
-- [Flipper Zero: Tamagochi for Hackers](https://flipperzero.one/)
-- [Report on an Unidentified Space Station (1982)](http://geosci.uchicago.edu/~kite/doc/roauss.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
