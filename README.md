@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK 'Right to repair' law to come in this summer](https://www.bbc.co.uk/news/business-56340077)
+- [Emacs org-mode examples and cookbook (2017)](http://ehneilsen.net/notebook/orgExamples/org-examples.html)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [Retracing a Donner Party path, nearly two centuries later](https://www.atlasobscura.com/articles/donner-route-2020)
-- [We created a fake language to root out resume liars](https://www.facebook.com/groups/CFprogrammers/)
-- [Drivers New to Automated Assists Often Missed a Giant Teddy Bear Speeding Past](https://www.thedrive.com/news/39688/drivers-new-to-automated-assists-more-often-missed-a-giant-teddy-bear-speeding-past-them-study)
-- [80486 CPU Board](http://www.s100computers.com/My%20System%20Pages/80486%20Board/80486%20CPU%20Board.htm)
+- [Of China and India: wandering thoughts from streets, boats and trains (2018)](https://yawningbread.wordpress.com/2018/01/16/of-china-and-india-wandering-thoughts-from-streets-boats-and-trains/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
