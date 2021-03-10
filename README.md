@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [French student admits her lie got teacher beheaded](https://www.foxnews.com/world/french-student-admits-her-lie-got-teacher-samuel-paty-beheaded)
+- [We created a fake language to root out resume liars](https://www.facebook.com/groups/CFprogrammers/)
 - [Drivers New to Automated Assists Often Missed a Giant Teddy Bear Speeding Past](https://www.thedrive.com/news/39688/drivers-new-to-automated-assists-more-often-missed-a-giant-teddy-bear-speeding-past-them-study)
 - [80486 CPU Board](http://www.s100computers.com/My%20System%20Pages/80486%20Board/80486%20CPU%20Board.htm)
-- [Fire declared in OVH SBG2 datacentre building](http://travaux.ovh.net/?do=details&id=49471&)
-- [Papers Without Code](http://www.paperswithoutcode.com/)
-- [Why asynchronous Rust doesn't work](https://theta.eu.org/2021/03/08/async-rust-2.html)
+- [Ask HN: Those who quit their jobs to travel the world, how did it go?](https://news.ycombinator.com/item?id=26407560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
