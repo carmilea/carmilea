@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [T-Mobile Is Taking All of Your Sweet, Sweet Data Unless You Tell It to Stop](https://gizmodo.com/t-mobile-is-taking-all-of-your-sweet-sweet-data-unles-1846441449)
 - [Jupiter (YC S19), hyperpersonalized grocery from 2050, hiring Software Engineers](https://jupiter.co/careers)
-- [Inventor of cassette tape Lou Ottens passed away](https://netherlandsnewslive.com/inventor-of-cassette-tape-lou-ottens-passed-away-financial/107722/)
-- [I don't want to learn your garbage query language](https://erikbern.com/2018/08/30/i-dont-want-to-learn-your-garbage-query-language.html)
+- [Lou Ottens, inventor of cassette tape, has died](https://netherlandsnewslive.com/inventor-of-cassette-tape-lou-ottens-passed-away-financial/107722/)
+- [I don't want to learn your query language (2018)](https://erikbern.com/2018/08/30/i-dont-want-to-learn-your-garbage-query-language.html)
 - [Authelia is an open-source authentication/authorization server with 2FA/SSO](https://github.com/authelia/authelia)
-- [Bats and the Origin of Outbreaks](https://graphics.reuters.com/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
