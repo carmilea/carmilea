@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Build the API That Ships Billions (YC S13)](https://www.easypost.com/careers)
-- [About the March 8 and 9, 2021 Verkada camera hack](https://blog.cloudflare.com/about-the-march-8-9-2021-verkada-camera-hack/)
-- [U.S. senators reintroduce bill to make daylight saving time permanent](https://fox8.com/news/u-s-senators-reintroduce-bill-to-make-daylight-saving-time-permanent/)
-- [YouTube doesn't handle space anymore](https://www.reddit.com/r/firefox/comments/m2391d/space_bar_does_not_work_on_youtube_search_at_the/)
-- [Minecraft vs. Roblox](https://www.codeadvantage.org/coding-for-kids-blog/minecraft-vs-roblox)
+- [The SQLite R*Tree Module](https://www.sqlite.org/rtree.html)
+- [Netaddr.ip: a new IP address type for Go](https://tailscale.com/blog/netaddr-new-ip-type-for-go/)
+- [Making an online multiplayer game with Godot and Nakama](https://heroiclabs.com/blog/announcements/godot-fishgame/)
+- [Zig, parser combinators, and why they're awesome](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome)
+- [All of Sex Is One Gene–Almost (2016)](https://nautil.us/issue/43/heroes/why-sex-is-binary-but-gender-is-a-spectrum)
 <!-- BLOG-POST-LIST:END -->
 
 ---
