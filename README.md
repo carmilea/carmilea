@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Orange Health (YC S20) Is Hiring Product Manager in Bangalore, India](https://www.orangehealth.in/jobs/product-manager-%2F-sr.-product-manager)
 - [Achieving 250K concurrent connections on Cloud Run](https://ahmet.im/blog/cloud-run-chat-server/)
 - [EU seeks to supercharge computer chip production](https://www.bbc.com/news/technology-56334210)
-- ['Shoot till they are dead': Myanmar police fled to India after refusing orders](https://www.reuters.com/article/us-myanmar-politics-india-exclusive-idUSKBN2B12U2)
 - [Flipper Zero: Tamagochi for Hackers](https://flipperzero.one/)
-- [Report on an Unidentified Space Station – J.G. Ballard (1982)](http://geosci.uchicago.edu/~kite/doc/roauss.htm)
+- [Report on an Unidentified Space Station (1982)](http://geosci.uchicago.edu/~kite/doc/roauss.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
