@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [T-Mobile Is Taking All of Your Sweet, Sweet Data Unless You Tell It to Stop](https://gizmodo.com/t-mobile-is-taking-all-of-your-sweet-sweet-data-unles-1846441449)
+- [Why is the deathbed perspective considered so valuable?](https://aeon.co/essays/why-is-the-deathbed-perspective-considered-so-valuable)
 - [Jupiter (YC S19), hyperpersonalized grocery from 2050, hiring Software Engineers](https://jupiter.co/careers)
 - [Lou Ottens, inventor of cassette tape, has died](https://netherlandsnewslive.com/inventor-of-cassette-tape-lou-ottens-passed-away-financial/107722/)
 - [I don't want to learn your query language (2018)](https://erikbern.com/2018/08/30/i-dont-want-to-learn-your-garbage-query-language.html)
