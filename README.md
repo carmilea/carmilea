@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter is no longer a cross-platform framework](https://itnext.io/flutter-is-no-longer-a-cross-platform-framework-b53c87b14c39)
-- [GameStop drops by 40% in 25 minutes](https://www.cnbc.com/2021/03/10/gamestop-surges-40percent-then-wipes-out-gain-completely-and-is-halted-again.html)
+- [Apple has gone to extraordinary lengths to make scroll bars invisible, I hate it](https://twitter.com/simonw/status/1369708900216270849)
 - [A tactical guide to kickstarting your community](https://orbit.love/blog/a-tactical-guide-to-kickstarting-your-community/)
-- [Why Your Company's Documentation Sucks](https://www.worldofbs.com/why-documentation-sucks/)
+- [The tree-based approach to organizing documentation sucks](https://www.worldofbs.com/why-documentation-sucks/)
 - [Postmates added $70M in revenue and saved $3M in network fees with Stripe](https://stripe.com/newsroom/stories/postmates)
+- [How to build a billion dollar audio app in a weekend](https://www.daily.co/blog/how-to-build-a-billion-dollar-audio-app-in-a-weekend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
