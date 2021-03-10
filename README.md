@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bats and the Origin of Outbreaks](https://graphics.reuters.com/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/)
+- [Fukushima radiation did not damage health of local people, UN says](https://www.theguardian.com/environment/2021/mar/10/fukushima-meltdown-did-not-damage-health-un-japan)
 - [Blockchain-based and open source Digital Euro usage in Café](https://www.delta.tudelft.nl/article/delft-cafe-premieres-eemcs-blockchain-euro)
+- [The Challenges of Integrating the Unix and Mac OS Environments (2000)](https://www.usenix.org/legacy/publications/library/proceedings/usenix2000/invitedtalks/sanchez_html/sanchez.html)
 - [Staying Out of TTL Hell](http://calpaterson.com/ttl-hell.html)
-- [UK 'Right to repair' law to come in this summer](https://www.bbc.co.uk/news/business-56340077)
-- [Emacs org-mode examples and cookbook (2017)](http://ehneilsen.net/notebook/orgExamples/org-examples.html)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
