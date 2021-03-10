@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [French student admits her lie got teacher beheaded](https://www.foxnews.com/world/french-student-admits-her-lie-got-teacher-samuel-paty-beheaded)
+- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
+- [Retracing a Donner Party path, nearly two centuries later](https://www.atlasobscura.com/articles/donner-route-2020)
 - [We created a fake language to root out resume liars](https://www.facebook.com/groups/CFprogrammers/)
 - [Drivers New to Automated Assists Often Missed a Giant Teddy Bear Speeding Past](https://www.thedrive.com/news/39688/drivers-new-to-automated-assists-more-often-missed-a-giant-teddy-bear-speeding-past-them-study)
 - [80486 CPU Board](http://www.s100computers.com/My%20System%20Pages/80486%20Board/80486%20CPU%20Board.htm)
-- [Ask HN: Those who quit their jobs to travel the world, how did it go?](https://news.ycombinator.com/item?id=26407560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
