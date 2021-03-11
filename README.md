@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Multis (YC S19) Is Hiring a Full Stack Engineer (Remote Friendly)](https://multis.slite.com/p/note/MPCwKHpU413kjkVFgSAKbh)
+- [FizzBuzz – SIMD Style](https://www.morling.dev/blog/fizzbuzz-simd-style/)
 - [Patten Matching in Nim](https://nim-lang.org/blog/2021/03/10/fusion-and-pattern-matching.html)
 - [Ultra-weak gravitational field detected](https://www.nature.com/articles/d41586-021-00591-1)
 - [Goodbye MongoDB, Hello PostgreSQL (2015)](http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/)
-- [Pipe – Instant access to your annual cash flow](https://www.pipe.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
