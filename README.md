@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EOS DeGoogled Privacy Smartphone in the US Review](https://ramblinggit.com/2021/03/09/eos-degoogled-privacy.html)
+- [The Muse (YC W12) Is Hiring a Senior Front-End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer)
 - [Julia Receives DARPA Award to Accelerate Electronics Simulation by 1,000x](https://juliacomputing.com/media/2021/03/darpa-ditto/)
-- [Some Schools Are Blocking Replit to Prevent Kids from Coding](https://twitter.com/paulg/status/1369938698494697476)
+- [How Facebook got addicted to spreading misinformation](https://www.technologyreview.com/2021/03/11/1020600/facebook-responsible-ai-misinformation/)
 - [A guide to Windows application development using w64devkit](https://nullprogram.com/blog/2021/03/11/)
-- [Launch HN: Superpowered (YC W21) – Calendar in your menu bar](https://news.ycombinator.com/item?id=26425318)
-- [A list of 70 open source clones of popular sites](https://gourav.io/clone-wars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
