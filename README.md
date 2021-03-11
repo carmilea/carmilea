@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OVH CEO Octave Klaba speaking about the incident](https://www.ovh.com/fr/images/sbg/index-en.html)
+- [Algorithmic injustice: a relational ethics approach](https://www.sciencedirect.com/science/article/pii/S2666389921000155)
 - [Duolingo's language notes all on one page](https://duome.eu/tips/en)
 - [IceCube detection of a high-energy particle proves 60-year-old theory](https://icecube.wisc.edu/news/press-releases/2021/03/icecube-detection-of-a-high-energy-particle-proves-60-year-old-theory/)
-- [The Joy of Fuck-You Money](https://thedeepdish.org/fuck-you-money/)
 - [7-Zip for Linux](https://sourceforge.net/p/sevenzip/discussion/45797/thread/cec5e63147/)
-- [DIY microscope lenses on BMD pocket 6K camera](https://www.schweinert.com/microscope-lenses-on-pocket-6k/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
