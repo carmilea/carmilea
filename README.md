@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Irish Teen Invents a Way to Remove Up to 90% of Microplastics from Water](https://preparednessmama.com/irish-teen-invents-magnetic-liquid-trap-able-to-remove-up-to-90-of-microplastics-from-water/)
-- [Cisco Webex Launches Real-Time Translation](https://business-review.eu/tech/cisco-webex-breaks-through-language-barriers-and-launches-real-time-translation-217869)
-- [Asahi Linux (Linux on Apple Silicon) Progress Report: January / February 2021](https://asahilinux.org/2021/03/progress-report-january-february-2021/)
-- [Why ‘star walking’ is the outdoor activity we need](https://www.nationalgeographic.com/travel/article/why-hiking-at-night-star-walking-is-the-outdoor-activity-we-need-right-now?cmpid=org=ngp::mc=social::src=youtube::cmp=editorial::add=yt20210310travel-hikingatnight::rid=)
-- [Rust's async isn't F# king colored](https://www.hobofan.com/blog/2021-03-10-rust-async-colored/)
+- [I Don't Like Tailwind CSS](https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css)
+- [Irish teen invents magnetic liquid trap to remove microplastics in water (2019)](https://preparednessmama.com/irish-teen-invents-magnetic-liquid-trap-able-to-remove-up-to-90-of-microplastics-from-water/)
+- [Fraidycat – Follow multiple social media sites in one place](https://fraidyc.at/index.html)
+- [Cisco Webex launches real-time translation](https://business-review.eu/tech/cisco-webex-breaks-through-language-barriers-and-launches-real-time-translation-217869)
+- [Asahi Linux Progress Report: January/February 2021](https://asahilinux.org/2021/03/progress-report-january-february-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
