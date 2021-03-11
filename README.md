@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Receiving SpaceX Falcon 9 Telemetry with a HackRF and 1.2m Satellite Dish](https://www.rtl-sdr.com/receiving-space-x-falcon-9-telemetry-with-a-hackrf-and-1-2m-satellite-dish/)
+- [1980: MUD](https://if50.substack.com/p/1980-mud)
+- [You Don’t Need All That Complex/Expensive/Distracting Infrastructure (2019)](https://blog.usejournal.com/you-dont-need-all-that-complex-expensive-distracting-infrastructure-a70dbe0dbccb)
 - [Modal (YC W16) Is Hiring a Lead Engineer](https://jobs.lever.co/modal/d6c3c81d-1526-4f08-9a4e-4767dde0df17)
 - [Launch HN: Webiny (YC W21) – Open-source serverless framework with a drop-in CMS](https://news.ycombinator.com/item?id=26423072)
-- [I earn a living selling my open source software](https://www.indiehackers.com/post/how-i-earn-a-living-selling-my-open-source-software-476f6bb07e)
-- [I bought 300 emoji domain names from Kazakhstan and built an email service](https://tinyprojects.dev/projects/mailoji)
-- [Irish teen invents magnetic liquid trap to remove microplastics in water (2019)](https://preparednessmama.com/irish-teen-invents-magnetic-liquid-trap-able-to-remove-up-to-90-of-microplastics-from-water/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
