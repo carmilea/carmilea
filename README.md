@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fuck Domainparkers](https://www.indiehackers.com/post/f-k-domainparkers-14f52b7724)
 - [Multis (YC S19) Is Hiring a Full Stack Engineer (Remote Friendly)](https://multis.slite.com/p/note/MPCwKHpU413kjkVFgSAKbh)
+- [Snobbery Helped Take the Spice Out of European Cooking (2015)](https://www.npr.org/sections/thesalt/2015/03/26/394339284/how-snobbery-helped-take-the-spice-out-of-european-cooking)
 - [FizzBuzz – SIMD Style](https://www.morling.dev/blog/fizzbuzz-simd-style/)
 - [Patten Matching in Nim](https://nim-lang.org/blog/2021/03/10/fusion-and-pattern-matching.html)
-- [Ultra-weak gravitational field detected](https://www.nature.com/articles/d41586-021-00591-1)
-- [Goodbye MongoDB, Hello PostgreSQL (2015)](http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
