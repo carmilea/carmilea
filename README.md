@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Joy of Fuck-You Money](https://thedeepdish.org/fuck-you-money/)
+- [DIY microscope lenses on BMD pocket 6K camera](https://www.schweinert.com/microscope-lenses-on-pocket-6k/)
+- [Red Flags I Saw While Doing 60 Technical Interviews in 30 Days](https://meekg33k.dev/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days-ckm53wt5f00avscs13xf9fhcs)
+- [Backblaze Is Now a Terraform Provider](https://www.backblaze.com/blog/easy-storage-easy-provisioning-backblaze-is-now-a-terraform-provider/)
 - [EOS DeGoogled Privacy Smartphone in the US Review](https://ramblinggit.com/2021/03/09/eos-degoogled-privacy.html)
-- [The Muse (YC W12) Is Hiring a Senior Front-End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer)
-- [Julia Receives DARPA Award to Accelerate Electronics Simulation by 1,000x](https://juliacomputing.com/media/2021/03/darpa-ditto/)
-- [How Facebook got addicted to spreading misinformation](https://www.technologyreview.com/2021/03/11/1020600/facebook-responsible-ai-misinformation/)
-- [A guide to Windows application development using w64devkit](https://nullprogram.com/blog/2021/03/11/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
