@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How The New York Times A/B tests their headlines](https://blog.tjcx.me/p/new-york-times-ab-testing)
+- [Semaphore – Modern UI for Ansible](https://github.com/ansible-semaphore/semaphore)
+- [PSA: macOS updates often modify your System Preferences to violate your Privacy](https://news.ycombinator.com/item?id=26418809)
+- [Oracle Cloud is unreachable](https://ocistatus.oraclecloud.com/incidents/qjxllgkywysj)
 - [Xilinx Opens Up Vitis HLS Tool for FPGAs](https://www.eetimes.com/xilinx-opens-up-vitis-hls-tool-for-fpgas/)
-- [Go Developer Survey 2020 Results](https://blog.golang.org/survey2020-results)
-- [I guess I have to watch ads everywhere on my $1,500 LG TV now](https://www.theverge.com/tldr/2021/3/10/22323790/lg-oled-tv-commercials-content-store)
-- [Show HN: No/Low code in-app onboarding guides for SaaS businesses](https://userflow.com)
-- [The SQLite R*Tree Module](https://www.sqlite.org/rtree.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
