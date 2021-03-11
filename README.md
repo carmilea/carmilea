@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [based.cooking](https://based.cooking/)
-- [Ancient woman may have been powerful leader, 4k-year-old treasure suggests](https://www.nationalgeographic.com/history/article/ancient-woman-powerful-european-leader-4000-year-old-treasure-suggests)
+- [Goodbye MongoDB, Hello PostgreSQL (2015)](http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/)
+- [Pipe – Instant access to your annual cash flow](https://www.pipe.com/)
+- [Internet Archive Scholar](https://scholar.archive.org/)
+- [Based Cooking](https://based.cooking/)
 - [Dennis Ritchie's first C compiler on GitHub](https://github.com/mortdeus/legacy-cc)
-- [The Product Strategy Stack](https://www.reforge.com/blog/the-product-strategy-stack)
-- [Psilocybin Community and Education Hub](https://www.tripsitters.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
