@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Multis (YC S19) Is Hiring a Full Stack Engineer (Remote Friendly)](https://multis.slite.com/p/note/MPCwKHpU413kjkVFgSAKbh)
+- [Patten Matching in Nim](https://nim-lang.org/blog/2021/03/10/fusion-and-pattern-matching.html)
+- [Ultra-weak gravitational field detected](https://www.nature.com/articles/d41586-021-00591-1)
 - [Goodbye MongoDB, Hello PostgreSQL (2015)](http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/)
 - [Pipe – Instant access to your annual cash flow](https://www.pipe.com/)
-- [Internet Archive Scholar](https://scholar.archive.org/)
-- [Based Cooking](https://based.cooking/)
-- [Dennis Ritchie's first C compiler on GitHub](https://github.com/mortdeus/legacy-cc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
