@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Duolingo's language notes all on one page](https://duome.eu/tips/en)
+- [IceCube detection of a high-energy particle proves 60-year-old theory](https://icecube.wisc.edu/news/press-releases/2021/03/icecube-detection-of-a-high-energy-particle-proves-60-year-old-theory/)
 - [The Joy of Fuck-You Money](https://thedeepdish.org/fuck-you-money/)
+- [7-Zip for Linux](https://sourceforge.net/p/sevenzip/discussion/45797/thread/cec5e63147/)
 - [DIY microscope lenses on BMD pocket 6K camera](https://www.schweinert.com/microscope-lenses-on-pocket-6k/)
-- [Red Flags I Saw While Doing 60 Technical Interviews in 30 Days](https://meekg33k.dev/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days-ckm53wt5f00avscs13xf9fhcs)
-- [Backblaze Is Now a Terraform Provider](https://www.backblaze.com/blog/easy-storage-easy-provisioning-backblaze-is-now-a-terraform-provider/)
-- [EOS DeGoogled Privacy Smartphone in the US Review](https://ramblinggit.com/2021/03/09/eos-degoogled-privacy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
