@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fuck Domainparkers](https://www.indiehackers.com/post/f-k-domainparkers-14f52b7724)
-- [Multis (YC S19) Is Hiring a Full Stack Engineer (Remote Friendly)](https://multis.slite.com/p/note/MPCwKHpU413kjkVFgSAKbh)
-- [Snobbery Helped Take the Spice Out of European Cooking (2015)](https://www.npr.org/sections/thesalt/2015/03/26/394339284/how-snobbery-helped-take-the-spice-out-of-european-cooking)
-- [FizzBuzz – SIMD Style](https://www.morling.dev/blog/fizzbuzz-simd-style/)
-- [Patten Matching in Nim](https://nim-lang.org/blog/2021/03/10/fusion-and-pattern-matching.html)
+- [Irish Teen Invents a Way to Remove Up to 90% of Microplastics from Water](https://preparednessmama.com/irish-teen-invents-magnetic-liquid-trap-able-to-remove-up-to-90-of-microplastics-from-water/)
+- [Cisco Webex Launches Real-Time Translation](https://business-review.eu/tech/cisco-webex-breaks-through-language-barriers-and-launches-real-time-translation-217869)
+- [Asahi Linux (Linux on Apple Silicon) Progress Report: January / February 2021](https://asahilinux.org/2021/03/progress-report-january-february-2021/)
+- [Why ‘star walking’ is the outdoor activity we need](https://www.nationalgeographic.com/travel/article/why-hiking-at-night-star-walking-is-the-outdoor-activity-we-need-right-now?cmpid=org=ngp::mc=social::src=youtube::cmp=editorial::add=yt20210310travel-hikingatnight::rid=)
+- [Rust's async isn't F# king colored](https://www.hobofan.com/blog/2021-03-10-rust-async-colored/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
