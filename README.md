@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xilinx Opens Up Vitis HLS Tool for FPGAs](https://www.eetimes.com/xilinx-opens-up-vitis-hls-tool-for-fpgas/)
+- [Go Developer Survey 2020 Results](https://blog.golang.org/survey2020-results)
 - [I guess I have to watch ads everywhere on my $1,500 LG TV now](https://www.theverge.com/tldr/2021/3/10/22323790/lg-oled-tv-commercials-content-store)
-- [Pets consume 30% of all meat products (2016)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181301)
-- [Millions of websites offline after fire at French cloud services firm](https://www.reuters.com/article/france-ovh-fire/update-4-millions-of-websites-offline-after-fire-at-french-cloud-services-firm-idUSL1N2L80FR)
+- [Show HN: No/Low code in-app onboarding guides for SaaS businesses](https://userflow.com)
 - [The SQLite R*Tree Module](https://www.sqlite.org/rtree.html)
-- [Netaddr.ip: a new IP address type for Go](https://tailscale.com/blog/netaddr-new-ip-type-for-go/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
