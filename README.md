@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CoinTracker is making financial management 10x better](https://www.cointracker.io/careers)
+- [Uber and Lyft to swap data on banned drivers](https://www.bbc.co.uk/news/business-56368058)
+- [CoinTracker (YC W18) is hiring to make financial management better](https://www.cointracker.io/careers)
 - [From buggies to buses, the first Black-owned US automaker did what few dared](https://arstechnica.com/cars/2021/03/the-life-and-times-of-c-r-patterson-sons-the-first-black-owned-us-automaker/)
-- [The HK19 manual – A crowdsourced protest guide](https://docs.google.com/document/d/1ZrIiXypVUvPIRs9JG8AsU55FkLsz81pqZstKQcbsAHc/preview)
 - [My bank sent me 64 copies of the same debit card](https://old.reddit.com/r/mildlyinteresting/comments/m2x83h/my_bank_sent_me_64_copies_of_the_same_debit_card/)
 - [A Decentralized Dead Man’s Switch](https://sarcophagus.io/)
 <!-- BLOG-POST-LIST:END -->
