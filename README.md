@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How The New York Times A/B tests their headlines](https://blog.tjcx.me/p/new-york-times-ab-testing)
+- [India has the most IPv6 Adoption in the world](https://www.akamai.com/uk/en/resources/our-thinking/state-of-the-internet-report/state-of-the-internet-ipv6-adoption-visualization.jsp)
 - [Semaphore – Modern UI for Ansible](https://github.com/ansible-semaphore/semaphore)
 - [PSA: macOS updates often modify your System Preferences to violate your Privacy](https://news.ycombinator.com/item?id=26418809)
 - [Oracle Cloud is unreachable](https://ocistatus.oraclecloud.com/incidents/qjxllgkywysj)
-- [Xilinx Opens Up Vitis HLS Tool for FPGAs](https://www.eetimes.com/xilinx-opens-up-vitis-hls-tool-for-fpgas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
