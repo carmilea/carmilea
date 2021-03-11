@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Sweden Solar System](http://www.swedensolarsystem.se/en/)
-- [The polyform project – creative commons for software](https://polyformproject.org/)
-- [Googling Strangers: One Professor's Lesson on Privacy in Public Spaces (2019)](https://www.npr.org/2019/03/10/702028545/googling-strangers-one-professors-lesson-on-privacy-in-public-spaces)
-- [Receiving SpaceX Falcon 9 Telemetry with a HackRF and 1.2m Satellite Dish](https://www.rtl-sdr.com/receiving-space-x-falcon-9-telemetry-with-a-hackrf-and-1-2m-satellite-dish/)
-- [1980: MUD](https://if50.substack.com/p/1980-mud)
+- [Julia Receives DARPA Award to Accelerate Electronics Simulation by 1,000x](https://juliacomputing.com/media/2021/03/darpa-ditto/)
+- [Some Schools Are Blocking Replit to Prevent Kids from Coding](https://twitter.com/paulg/status/1369938698494697476)
+- [A guide to Windows application development using w64devkit](https://nullprogram.com/blog/2021/03/11/)
+- [Launch HN: Superpowered (YC W21) – Calendar in your menu bar](https://news.ycombinator.com/item?id=26425318)
+- [A list of 70 open source clones of popular sites](https://gourav.io/clone-wars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
