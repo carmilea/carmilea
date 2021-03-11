@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How The New York Times A/B tests their headlines](https://blog.tjcx.me/p/new-york-times-ab-testing)
-- [India has the most IPv6 Adoption in the world](https://www.akamai.com/uk/en/resources/our-thinking/state-of-the-internet-report/state-of-the-internet-ipv6-adoption-visualization.jsp)
+- [Ancient woman may have been powerful leader, 4k-year-old treasure suggests](https://www.nationalgeographic.com/history/article/ancient-woman-powerful-european-leader-4000-year-old-treasure-suggests)
+- [Nuclear Power Looks to Regain Its Footing 10 Years After Fukushima](https://www.scientificamerican.com/article/nuclear-power-looks-to-regain-its-footing-10-years-after-fukushima/)
+- [How the New York Times A/B tests their headlines](https://blog.tjcx.me/p/new-york-times-ab-testing)
+- [IPv6 Adoption Visualization](https://www.akamai.com/uk/en/resources/our-thinking/state-of-the-internet-report/state-of-the-internet-ipv6-adoption-visualization.jsp)
 - [Semaphore – Modern UI for Ansible](https://github.com/ansible-semaphore/semaphore)
-- [PSA: macOS updates often modify your System Preferences to violate your Privacy](https://news.ycombinator.com/item?id=26418809)
-- [Oracle Cloud is unreachable](https://ocistatus.oraclecloud.com/incidents/qjxllgkywysj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
