@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OVH CEO Octave Klaba speaking about the incident](https://www.ovh.com/fr/images/sbg/index-en.html)
-- [Algorithmic injustice: a relational ethics approach](https://www.sciencedirect.com/science/article/pii/S2666389921000155)
-- [Duolingo's language notes all on one page](https://duome.eu/tips/en)
-- [IceCube detection of a high-energy particle proves 60-year-old theory](https://icecube.wisc.edu/news/press-releases/2021/03/icecube-detection-of-a-high-energy-particle-proves-60-year-old-theory/)
-- [7-Zip for Linux](https://sourceforge.net/p/sevenzip/discussion/45797/thread/cec5e63147/)
+- [CoinTracker is making financial management 10x better](https://www.cointracker.io/careers)
+- [From buggies to buses, the first Black-owned US automaker did what few dared](https://arstechnica.com/cars/2021/03/the-life-and-times-of-c-r-patterson-sons-the-first-black-owned-us-automaker/)
+- [The HK19 manual – A crowdsourced protest guide](https://docs.google.com/document/d/1ZrIiXypVUvPIRs9JG8AsU55FkLsz81pqZstKQcbsAHc/preview)
+- [My bank sent me 64 copies of the same debit card](https://old.reddit.com/r/mildlyinteresting/comments/m2x83h/my_bank_sent_me_64_copies_of_the_same_debit_card/)
+- [A Decentralized Dead Man’s Switch](https://sarcophagus.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
