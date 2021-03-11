@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Don't Like Tailwind CSS](https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css)
+- [Modal (YC W16) Is Hiring a Lead Engineer](https://jobs.lever.co/modal/d6c3c81d-1526-4f08-9a4e-4767dde0df17)
+- [Launch HN: Webiny (YC W21) – Open-source serverless framework with a drop-in CMS](https://news.ycombinator.com/item?id=26423072)
+- [I earn a living selling my open source software](https://www.indiehackers.com/post/how-i-earn-a-living-selling-my-open-source-software-476f6bb07e)
+- [I bought 300 emoji domain names from Kazakhstan and built an email service](https://tinyprojects.dev/projects/mailoji)
 - [Irish teen invents magnetic liquid trap to remove microplastics in water (2019)](https://preparednessmama.com/irish-teen-invents-magnetic-liquid-trap-able-to-remove-up-to-90-of-microplastics-from-water/)
-- [Fraidycat – Follow multiple social media sites in one place](https://fraidyc.at/index.html)
-- [Cisco Webex launches real-time translation](https://business-review.eu/tech/cisco-webex-breaks-through-language-barriers-and-launches-real-time-translation-217869)
-- [Asahi Linux Progress Report: January/February 2021](https://asahilinux.org/2021/03/progress-report-january-february-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
