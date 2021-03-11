@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sweden Solar System](http://www.swedensolarsystem.se/en/)
+- [The polyform project – creative commons for software](https://polyformproject.org/)
 - [Googling Strangers: One Professor's Lesson on Privacy in Public Spaces (2019)](https://www.npr.org/2019/03/10/702028545/googling-strangers-one-professors-lesson-on-privacy-in-public-spaces)
 - [Receiving SpaceX Falcon 9 Telemetry with a HackRF and 1.2m Satellite Dish](https://www.rtl-sdr.com/receiving-space-x-falcon-9-telemetry-with-a-hackrf-and-1-2m-satellite-dish/)
 - [1980: MUD](https://if50.substack.com/p/1980-mud)
-- [You Don’t Need All That Complex/Expensive/Distracting Infrastructure (2019)](https://blog.usejournal.com/you-dont-need-all-that-complex-expensive-distracting-infrastructure-a70dbe0dbccb)
-- [Modal (YC W16) Is Hiring a Lead Engineer](https://jobs.lever.co/modal/d6c3c81d-1526-4f08-9a4e-4767dde0df17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
