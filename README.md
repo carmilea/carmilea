@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Security incident compromised Washingtonians’ personal information](https://sao.wa.gov/third-party-service-providers-security-incident-compromised-washingtonians-personal-information/)
+- [Myanmar coup: The shadowy business empire funding the Tatmadaw](https://www.bbc.com/news/world-asia-56133766)
+- [Vintage technology and why some people still use it](https://www.bbc.co.uk/news/business-55808632)
 - [Gnome 40 Introducing Headless Native Back End, Virtual Monitors](https://www.phoronix.com/scan.php?page=news_item&px=GNOME-40-Headless-Virtual)
 - [RegEx Crossword](http://jimbly.github.io/regex-crossword/)
-- [Diode Drive - Privacy-focused (distributed) alternative to GoogleDrive & Dropbox](https://diode.io/resources/download/)
-- [GitHub has Degraded Availability](https://www.githubstatus.com/?t=81273987129387129837)
-- [Microsoft attack 3000 UK email servers not secured](https://www.bbc.co.uk/news/technology-56372188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
