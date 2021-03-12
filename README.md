@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Humble tokamak physicist owns generations of cosmological wankers](https://scottlocklin.wordpress.com/2021/03/12/humble-tokamak-physicist-owns-generations-of-cosmological-wankers/)
+- [Facebook Execs Told Employees It Isn’t a “Root Cause” of Polarization in the US](https://www.buzzfeednews.com/article/ryanmac/facebook-execs-polarization-playbook)
+- [New Genes for Eye Colour](https://www.kcl.ac.uk/news/50-new-genes-eye-colour)
+- [STOPEIP1559: “Support hard-working Ethereum Miners.”](https://stopeip1559.org/)
 - [The demise and potential revival of the American chestnut](https://www.sierraclub.org/sierra/2021-2-march-april/feature/demise-and-potential-revival-american-chestnut)
-- [The 0x community DAO. The next step towards decentralized](https://blog.0xproject.com/0x-governance-roadmap-0x-dao-ac9218135d3)
-- [CA Crews Handle Tricky Fire at Tesla Factory](https://www.firehouse.com/operations-training/news/21214084/ca-crews-handle-tricky-fire-at-tesla-factory)
-- [GPT-3 vs. 3M free-text trivia responses](https://www.watercoolertrivia.com/blog/gpt-3-vs-water-cooler-trivia-participants-a-human-vs-robot-showdown)
-- [Teleport (YC S15) is building the Matrix and hiring web developers](https://news.ycombinator.com/item?id=26440847)
 <!-- BLOG-POST-LIST:END -->
 
 ---
