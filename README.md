@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You Can't Censor Away Extremism (Or Any Other Problem)](https://freddiedeboer.substack.com/p/you-cant-censor-away-extremism-or)
 - [Graham Greene Against the World](https://newrepublic.com/article/161645/graham-greene-world-biography-book-review)
 - [The KK Computer: A Radical 6502 Redesign (2018)](http://laughtonelectronics.com/Arcana/KimKlone/Kimklone_short_summary.html)
 - [I Shipped, Therefore I Am](https://hardcoresoftware.learningbyshipping.com/p/012-i-shipped-therefore-i-am)
 - [CBD reduces plaque, improves cognition in model of familial Alzheimer’s](https://jagwire.augusta.edu/cbd-reduces-plaque-improves-cognition-in-model-of-familial-alzheimers/)
-- [San Francisco’s Secret DC Grid (2012)](https://spectrum.ieee.org/tech-history/dawn-of-electronics/san-franciscos-secret-dc-grid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
