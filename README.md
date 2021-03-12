@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On the death of my family's dairy farm (2019)](https://blog.abevoelker.com/2019-03-06/on-the-death-of-my-familys-dairy-farm/)
+- [Adobe Photoshop Ships on Macs Apple Silicon/M1 – 50% Faster](https://blog.adobe.com/en/publish/2021/03/10/adobe-photoshop-ships-on-macs-with-apple-silicon-gains-speedier-selections-filters-and-performance-boosts.html#gs.vxmvhg)
 - [UK to depart from GDPR](https://www.lawgazette.co.uk/news/uk-to-depart-from-gdpr/5107685.article)
 - [Bitcoin miners in Abkhazia are causing blackouts in remote villages [video]](https://www.youtube.com/watch?v=Rrgo-64ndnY)
 - [Bitwarden Send - A trusted way to securely share information with anyone](https://bitwarden.com/products/send/)
-- [Drop millions of allocations by using a linked list (2015)](https://github.com/rubygems/rubygems/pull/1188)
-- [Show HN: Futuure – hash-certified public prediction store](https://futuu.re)
 <!-- BLOG-POST-LIST:END -->
 
 ---
