@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [San Francisco’s Secret DC Grid (2012)](https://spectrum.ieee.org/tech-history/dawn-of-electronics/san-franciscos-secret-dc-grid)
 - [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
 - [Learn Go by writing tests – Hello, world (2018)](https://github.com/quii/learn-go-with-tests/tree/master/hello-world)
 - [Vim Clutch – A hardware pedal for improved text editing (2012)](https://github.com/alevchuk/vim-clutch)
 - [Biggest void in space is 1B light years across (2007)](https://www.newscientist.com/article/dn12546-biggest-void-in-space-is-1-billion-light-years-across/)
-- [Two UK Broadband ISPs Trial New Internet Snooping System](https://www.ispreview.co.uk/index.php/2021/03/two-uk-broadband-isps-trial-new-internet-snooping-system.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
