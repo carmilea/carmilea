@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Sovietization of the American Press](https://taibbi.substack.com/p/the-sovietization-of-the-american)
-- [M.2 on a Raspberry Pi – The Tofu CM4 Carrier Board](https://www.jeffgeerling.com/blog/2021/m2-on-raspberry-pi-tofu-compute-module-4-carrier-board)
-- [Launch HN: Atrato (YC W21) – Credit Card Alternative for Latin America](https://news.ycombinator.com/item?id=26436830)
-- [Binance under CFTC investigation over trading activities: report](https://www.theblockcrypto.com/linked/98138/binance-us-investigation-report)
-- [AFL++ Fuzzing Framework](https://github.com/AFLplusplus/AFLplusplus)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [An Evaluation of Location Encoding Systems (2018)](https://github.com/google/open-location-code/wiki/Evaluation-of-Location-Encoding-Systems)
+- [Fitbit is doomed: Here's why everything Google buys turns to garbage](https://www.zdnet.com/article/fitbit-is-doomed-why-everything-google-buys-turns-to-garbage/)
+- [GitHub's Web Component Collection](https://github.com/github/github-elements)
+- [German software company SUSE targets pre-summer IPO](https://www.reuters.com/article/idUSKBN2B12AD)
 <!-- BLOG-POST-LIST:END -->
 
 ---
