@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Graham Greene Against the World](https://newrepublic.com/article/161645/graham-greene-world-biography-book-review)
+- [The KK Computer: A Radical 6502 Redesign (2018)](http://laughtonelectronics.com/Arcana/KimKlone/Kimklone_short_summary.html)
+- [I Shipped, Therefore I Am](https://hardcoresoftware.learningbyshipping.com/p/012-i-shipped-therefore-i-am)
+- [CBD reduces plaque, improves cognition in model of familial Alzheimer’s](https://jagwire.augusta.edu/cbd-reduces-plaque-improves-cognition-in-model-of-familial-alzheimers/)
 - [San Francisco’s Secret DC Grid (2012)](https://spectrum.ieee.org/tech-history/dawn-of-electronics/san-franciscos-secret-dc-grid)
-- [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
-- [Learn Go by writing tests – Hello, world (2018)](https://github.com/quii/learn-go-with-tests/tree/master/hello-world)
-- [Vim Clutch – A hardware pedal for improved text editing (2012)](https://github.com/alevchuk/vim-clutch)
-- [Biggest void in space is 1B light years across (2007)](https://www.newscientist.com/article/dn12546-biggest-void-in-space-is-1-billion-light-years-across/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
