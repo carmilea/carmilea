@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gnome 40 Introducing Headless Native Back End, Virtual Monitors](https://www.phoronix.com/scan.php?page=news_item&px=GNOME-40-Headless-Virtual)
 - [RegEx Crossword](http://jimbly.github.io/regex-crossword/)
 - [Diode Drive - Privacy-focused (distributed) alternative to GoogleDrive & Dropbox](https://diode.io/resources/download/)
 - [GitHub has Degraded Availability](https://www.githubstatus.com/?t=81273987129387129837)
-- [Launch HN: Venu (YC W21) – True-to-Life 3D Virtual Trade Shows](https://news.ycombinator.com/item?id=26438927)
-- [Myanmar's satellite held by Japan on space station due to spying concern](https://www.reuters.com/article/us-myanmar-politics-satellite-japan-excl-idUSKBN2B41O1)
+- [Microsoft attack 3000 UK email servers not secured](https://www.bbc.co.uk/news/technology-56372188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
