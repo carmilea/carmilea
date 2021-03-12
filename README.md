@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The demise and potential revival of the American chestnut](https://www.sierraclub.org/sierra/2021-2-march-april/feature/demise-and-potential-revival-american-chestnut)
+- [The 0x community DAO. The next step towards decentralized](https://blog.0xproject.com/0x-governance-roadmap-0x-dao-ac9218135d3)
+- [CA Crews Handle Tricky Fire at Tesla Factory](https://www.firehouse.com/operations-training/news/21214084/ca-crews-handle-tricky-fire-at-tesla-factory)
+- [GPT-3 vs. 3M free-text trivia responses](https://www.watercoolertrivia.com/blog/gpt-3-vs-water-cooler-trivia-participants-a-human-vs-robot-showdown)
 - [Teleport (YC S15) is building the Matrix and hiring web developers](https://news.ycombinator.com/item?id=26440847)
-- [Experience with Apple Silicon M1 MacBook Pro as a Software Developer](https://subedi.co/blog/2021/03/12/experience-with-apple-silicon-m1-macbook-as-a-software-developer)
-- [What's New in SQLite 3.35](https://nalgeon.github.io/sqlite-3-35/)
-- [Goroutines Are Not Significantly Lighter Than Threads](https://matklad.github.io//2021/03/12/goroutines-are-not-significantly-lighter-than-threads.html)
-- [Security incident compromised Washingtonians’ personal information](https://sao.wa.gov/third-party-service-providers-security-incident-compromised-washingtonians-personal-information/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
