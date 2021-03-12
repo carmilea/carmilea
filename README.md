@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sovietization of the American Press](https://taibbi.substack.com/p/the-sovietization-of-the-american)
+- [M.2 on a Raspberry Pi – The Tofu CM4 Carrier Board](https://www.jeffgeerling.com/blog/2021/m2-on-raspberry-pi-tofu-compute-module-4-carrier-board)
+- [Launch HN: Atrato (YC W21) – Credit Card Alternative for Latin America](https://news.ycombinator.com/item?id=26436830)
 - [Binance under CFTC investigation over trading activities: report](https://www.theblockcrypto.com/linked/98138/binance-us-investigation-report)
-- [A Model of the Cosmos in the Ancient Greek Antikythera Mechanism](https://www.nature.com/articles/s41598-021-84310-w)
-- [How Big Tech Is Importing India’s Caste Legacy to Silicon Valley](https://www.bloomberg.com/news/features/2021-03-11/how-big-tech-is-importing-india-s-caste-legacy-to-silicon-valley)
-- [Has Y Combinator lost its way when the latest company is a Mac only widget?](https://www.reddit.com/r/Entrepreneur/comments/m2ypbx/has_y_combinator_lost_its_way_as_a_leading/)
-- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [AFL++ Fuzzing Framework](https://github.com/AFLplusplus/AFLplusplus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
