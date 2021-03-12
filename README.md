@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OVH CEO Octave Klaba apologizes and provides updates about SBG2](https://www.ovh.com/fr/images/sbg/index-en.html)
 - [The making of Dark Castle (2018)](https://www.gamasutra.com/view/news/315720/The_making_of_Dark_Castle_An_excerpt_from_The_Secret_History_of_Mac_Gaming.php)
 - [Graham Greene Against the World](https://newrepublic.com/article/161645/graham-greene-world-biography-book-review)
 - [The KK Computer: A Radical 6502 Redesign (2018)](http://laughtonelectronics.com/Arcana/KimKlone/Kimklone_short_summary.html)
 - [I Shipped, Therefore I Am](https://hardcoresoftware.learningbyshipping.com/p/012-i-shipped-therefore-i-am)
-- [The Weight of the Air](https://technicshistory.com/2021/03/11/the-weight-of-the-air/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
