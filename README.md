@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [An Evaluation of Location Encoding Systems (2018)](https://github.com/google/open-location-code/wiki/Evaluation-of-Location-Encoding-Systems)
-- [Fitbit is doomed: Here's why everything Google buys turns to garbage](https://www.zdnet.com/article/fitbit-is-doomed-why-everything-google-buys-turns-to-garbage/)
-- [GitHub's Web Component Collection](https://github.com/github/github-elements)
-- [German software company SUSE targets pre-summer IPO](https://www.reuters.com/article/idUSKBN2B12AD)
+- [RegEx Crossword](http://jimbly.github.io/regex-crossword/)
+- [Diode Drive - Privacy-focused (distributed) alternative to GoogleDrive & Dropbox](https://diode.io/resources/download/)
+- [GitHub has Degraded Availability](https://www.githubstatus.com/?t=81273987129387129837)
+- [Launch HN: Venu (YC W21) – True-to-Life 3D Virtual Trade Shows](https://news.ycombinator.com/item?id=26438927)
+- [Myanmar's satellite held by Japan on space station due to spying concern](https://www.reuters.com/article/us-myanmar-politics-satellite-japan-excl-idUSKBN2B41O1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
