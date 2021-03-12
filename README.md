@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OVH CEO Octave Klaba apologizes and provides updates about SBG2](https://www.ovh.com/fr/images/sbg/index-en.html)
-- [The making of Dark Castle (2018)](https://www.gamasutra.com/view/news/315720/The_making_of_Dark_Castle_An_excerpt_from_The_Secret_History_of_Mac_Gaming.php)
-- [Graham Greene Against the World](https://newrepublic.com/article/161645/graham-greene-world-biography-book-review)
-- [The KK Computer: A Radical 6502 Redesign (2018)](http://laughtonelectronics.com/Arcana/KimKlone/Kimklone_short_summary.html)
-- [I Shipped, Therefore I Am](https://hardcoresoftware.learningbyshipping.com/p/012-i-shipped-therefore-i-am)
+- [UK to depart from GDPR](https://www.lawgazette.co.uk/news/uk-to-depart-from-gdpr/5107685.article)
+- [Bitcoin miners in Abkhazia are causing blackouts in remote villages [video]](https://www.youtube.com/watch?v=Rrgo-64ndnY)
+- [Bitwarden Send - A trusted way to securely share information with anyone](https://bitwarden.com/products/send/)
+- [Drop millions of allocations by using a linked list (2015)](https://github.com/rubygems/rubygems/pull/1188)
+- [Show HN: Futuure – hash-certified public prediction store](https://futuu.re)
 <!-- BLOG-POST-LIST:END -->
 
 ---
