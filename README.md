@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Teleport (YC S15) is building the Matrix and hiring web developers](https://news.ycombinator.com/item?id=26440847)
+- [Experience with Apple Silicon M1 MacBook Pro as a Software Developer](https://subedi.co/blog/2021/03/12/experience-with-apple-silicon-m1-macbook-as-a-software-developer)
+- [What's New in SQLite 3.35](https://nalgeon.github.io/sqlite-3-35/)
+- [Goroutines Are Not Significantly Lighter Than Threads](https://matklad.github.io//2021/03/12/goroutines-are-not-significantly-lighter-than-threads.html)
 - [Security incident compromised Washingtonians’ personal information](https://sao.wa.gov/third-party-service-providers-security-incident-compromised-washingtonians-personal-information/)
-- [Myanmar coup: The shadowy business empire funding the Tatmadaw](https://www.bbc.com/news/world-asia-56133766)
-- [Vintage technology and why some people still use it](https://www.bbc.co.uk/news/business-55808632)
-- [Gnome 40 Introducing Headless Native Back End, Virtual Monitors](https://www.phoronix.com/scan.php?page=news_item&px=GNOME-40-Headless-Virtual)
-- [RegEx Crossword](http://jimbly.github.io/regex-crossword/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
