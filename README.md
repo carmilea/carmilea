@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A Model of the Cosmos in the Ancient Greek Antikythera Mechanism](https://www.nature.com/articles/s41598-021-84310-w)
+- [How Big Tech Is Importing India’s Caste Legacy to Silicon Valley](https://www.bloomberg.com/news/features/2021-03-11/how-big-tech-is-importing-india-s-caste-legacy-to-silicon-valley)
+- [Has Y Combinator lost its way when the latest company is a Mac only widget?](https://www.reddit.com/r/Entrepreneur/comments/m2ypbx/has_y_combinator_lost_its_way_as_a_leading/)
 - [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - [Computational Algebraic Topology, lecture notes [pdf]](http://people.maths.ox.ac.uk/nanda/cat/TDANotes.pdf)
-- [On the death of my family's dairy farm (2019)](https://blog.abevoelker.com/2019-03-06/on-the-death-of-my-familys-dairy-farm/)
-- [Adobe Photoshop Ships on Macs Apple Silicon/M1 – 50% Faster](https://blog.adobe.com/en/publish/2021/03/10/adobe-photoshop-ships-on-macs-with-apple-silicon-gains-speedier-selections-filters-and-performance-boosts.html#gs.vxmvhg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
