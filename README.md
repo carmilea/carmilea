@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: A Terminal Tetris Game](https://github.com/adder46/tetris.rs)
+- [Ask HN: Is startup PTSD real and possible?](https://news.ycombinator.com/item?id=26443379)
 - [How to Convert Your Old Laptop Screen into an External Monitor](https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/)
 - [Qutebrowser](https://qutebrowser.org/)
 - [BuildZoom is hiring remote engineers – we sponsor visas](https://news.ycombinator.com/item?id=26442901)
-- [A brief history of router architecture](https://blog.apnic.net/2021/03/12/a-brief-history-of-router-architecture/)
-- [Point Cloud Library](https://pointclouds.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
