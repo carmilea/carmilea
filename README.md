@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Google slams Microsoft for trying ‘to break the way the open web works’](https://www.theverge.com/2021/3/12/22327306/google-microsoft-attack-open-web-online-news-australia-laws)
 - [Ask HN: How to get a Logo/ Corporate Designs in 2021?](https://news.ycombinator.com/item?id=26445127)
+- [Amazon will not sell books that 'frame sexual identity as mental illness'](https://www.bbc.com/news/world-us-canada-56381862)
 - [Blueberry Medical (YC W18) Is Hiring](https://www.workatastartup.com/jobs/42677)
 - [Grand Theft Auto: Rockstar Leeds founder Gordon Hall dies aged 51](https://www.bbc.co.uk/news/uk-england-leeds-56374535)
-- [Speed of Rust vs. C](https://kornel.ski/rust-c-speed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
