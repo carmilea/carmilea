@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero-3 Offload: Scale DL models to trillion parameters without code changes](https://www.deepspeed.ai/news/2021/03/07/zero3-offload.html)
+- [Ask HN: Advice on Finding Manufacturers?](https://news.ycombinator.com/item?id=26446943)
 - [Launch HN: R2 Capital (YC W21) – Working Capital as a Service in Latin America](https://news.ycombinator.com/item?id=26446822)
 - [An Object-Oriented Language for the '20s](https://adam.nels.onl/blog/an-oo-languge-for-the-20s/)
 - [Show HN: Authenticator by 2Stable – The missing Authenticator app](https://authenticator.2stable.com)
-- [A directory of handmade webpages](https://gossipsweb.net/)
-- [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
