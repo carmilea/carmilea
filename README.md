@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flameshot, powerful screenshot tool, fully support Wayland (able to run on sway)](https://flameshot.org/changelog/)
+- [Gather (YC S19) Is Hiring to Build the Metaverse (Remote, in the Metaverse)](https://gather.town/jobs)
+- [Loom EGA/VGA Comparison](http://www.superrune.com/tutorials/loom_ega.php)
 - [SSL: Stupid Stack Language](https://esolangs.org/wiki/StupidStackLanguage)
-- [Google slams Microsoft for trying ‘to break the way the open web works’](https://www.theverge.com/2021/3/12/22327306/google-microsoft-attack-open-web-online-news-australia-laws)
-- [Blueberry Medical (YC W18) Is Hiring](https://www.workatastartup.com/jobs/42677)
 - [Gordon Hall has died](https://www.bbc.co.uk/news/uk-england-leeds-56374535)
-- [Speed of Rust vs. C](https://kornel.ski/rust-c-speed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
