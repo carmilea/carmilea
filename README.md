@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jaw-Dropping Fossil Find Contains a Dinosaur Sitting on an Entire Clutch of Eggs](https://www.sciencealert.com/fossilized-dinosaur-found-brooding-on-a-nest-of-preserved-eggs-with-actual-embryos-inside)
+- [Career levels, designation, momentum, etc. (2018)](https://lethain.com/career-levels-and-more/)
+- [Musk, Tesla Board Sued over Tweeting in Violation of SEC Deal (2)](https://news.bloomberglaw.com/securities-law/musk-tesla-board-sued-over-tweeting-in-violation-of-sec-deal)
 - [Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
 - [Replit (YC W18) Is Hiring to build better coding environments and communities](https://replit.com/careers)
-- [Bitcoin Is Dead – Tracking all notable Bitcoin skeptics since 2010](https://www.bitcoinisdead.org/)
-- [Your Attitude Determines Your Success](https://muratbuffalo.blogspot.com/2021/03/your-attitude-determines-your-success.html)
-- [Understanding Coinbase](https://diff.substack.com/p/understanding-coinbase)
 <!-- BLOG-POST-LIST:END -->
 
 ---
