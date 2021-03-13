@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Humble tokamak physicist owns generations of cosmological wankers](https://scottlocklin.wordpress.com/2021/03/12/humble-tokamak-physicist-owns-generations-of-cosmological-wankers/)
-- [Facebook Execs Told Employees It Isn’t a “Root Cause” of Polarization in the US](https://www.buzzfeednews.com/article/ryanmac/facebook-execs-polarization-playbook)
+- [Point Cloud Library](https://pointclouds.org/)
+- [Deutsche Märchen: German fairy tales [pdf]](https://www.cs.ubc.ca/~udls/slides/2019-tim-deutsche_marchen.pdf)
 - [New Genes for Eye Colour](https://www.kcl.ac.uk/news/50-new-genes-eye-colour)
-- [STOPEIP1559: “Support hard-working Ethereum Miners.”](https://stopeip1559.org/)
 - [The demise and potential revival of the American chestnut](https://www.sierraclub.org/sierra/2021-2-march-april/feature/demise-and-potential-revival-american-chestnut)
+- [CA crews handle tricky fire at Tesla factory](https://www.firehouse.com/operations-training/news/21214084/ca-crews-handle-tricky-fire-at-tesla-factory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
