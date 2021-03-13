@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Speed of Rust vs. C](https://kornel.ski/rust-c-speed)
 - [Show HN: A Terminal Tetris Game](https://github.com/adder46/tetris.rs)
+- [RethinkDB: We Failed](https://www.defmacro.org/2017/01/18/why-rethinkdb-failed.html?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo)
 - [Ask HN: Is startup PTSD real and possible?](https://news.ycombinator.com/item?id=26443379)
 - [How to Convert Your Old Laptop Screen into an External Monitor](https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/)
-- [Qutebrowser](https://qutebrowser.org/)
-- [BuildZoom is hiring remote engineers – we sponsor visas](https://news.ycombinator.com/item?id=26442901)
 <!-- BLOG-POST-LIST:END -->
 
 ---
