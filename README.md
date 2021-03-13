@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OnlyFans snipe domain from Notify, a small startup](https://twitter.com/jamiepine/status/1370590062962827264)
 - [Speed of Rust vs. C](https://kornel.ski/rust-c-speed)
 - [Show HN: A Terminal Tetris Game](https://github.com/adder46/tetris.rs)
 - [RethinkDB: why we failed (2017)](https://www.defmacro.org/2017/01/18/why-rethinkdb-failed.html?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo)
-- [Ask HN: Is startup PTSD real and possible?](https://news.ycombinator.com/item?id=26443379)
 - [How to convert your old laptop screen into an external monitor](https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/)
 <!-- BLOG-POST-LIST:END -->
 
