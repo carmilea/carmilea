@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-3 Offload: Scale DL models to trillion parameters without code changes](https://www.deepspeed.ai/news/2021/03/07/zero3-offload.html)
-- [Ask HN: Advice on Finding Manufacturers?](https://news.ycombinator.com/item?id=26446943)
-- [Launch HN: R2 Capital (YC W21) – Working Capital as a Service in Latin America](https://news.ycombinator.com/item?id=26446822)
-- [An Object-Oriented Language for the '20s](https://adam.nels.onl/blog/an-oo-languge-for-the-20s/)
-- [Show HN: Authenticator by 2Stable – The missing Authenticator app](https://authenticator.2stable.com)
+- [Modern Treasury (YC S18) is hiring a product manager to lead banks and payments](https://angel.co/company/moderntreasury/jobs/1243741-product-manager-banks-and-payments)
+- [Money corrupts; bitcoin corrupts absolutely.](https://www.cynicusrex.com/file/cryptocultscience.html)
+- [Out of the Top Fifty Games on Steam, 70% Work on Linux](https://boilingsteam.com/out-of-the-top-50-games-70-work-on-linux-now/)
+- [Federal investigators blast Tesla, call for stricter safety standards](https://arstechnica.com/cars/2021/03/federal-investigators-blast-tesla-call-for-stricter-safety-standads/)
+- [Best Practices for BI Dashboards](https://www.metabase.com/learn/building-analytics/dashboards/bi-dashboard-best-practices.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
