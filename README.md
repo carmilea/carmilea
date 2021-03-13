@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
 - [Replit (YC W18) Is Hiring to build better coding environments and communities](https://replit.com/careers)
+- [Bitcoin Is Dead – Tracking all notable Bitcoin skeptics since 2010](https://www.bitcoinisdead.org/)
 - [Your Attitude Determines Your Success](https://muratbuffalo.blogspot.com/2021/03/your-attitude-determines-your-success.html)
 - [Understanding Coinbase](https://diff.substack.com/p/understanding-coinbase)
-- [Vaccines should end the pandemic, despite the variants, say experts](https://news.harvard.edu/gazette/story/2021/02/vaccines-should-end-the-pandemic-despite-the-variants-say-experts/)
-- [There Should Be No Computer Art (1971) [pdf]](https://www.bbk.ac.uk/hosted/cache/archive/PAGE/PAGE18.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
