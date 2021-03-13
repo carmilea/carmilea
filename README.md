@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Blueberry Medical (YC W18) Is Hiring](https://www.workatastartup.com/jobs/42677)
-- [Ask HN: What happens when someone copies an NFT onto another blockhain?](https://news.ycombinator.com/item?id=26444625)
 - [Grand Theft Auto: Rockstar Leeds founder Gordon Hall dies aged 51](https://www.bbc.co.uk/news/uk-england-leeds-56374535)
 - [Speed of Rust vs. C](https://kornel.ski/rust-c-speed)
 - [Show HN: A Terminal Tetris Game](https://github.com/adder46/tetris.rs)
+- [RethinkDB: why we failed (2017)](https://www.defmacro.org/2017/01/18/why-rethinkdb-failed.html?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
