@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Templating for Lawyers](https://writing.kemitchell.com/2021/03/13/Templating-for-Lawyers.html)
-- [Is a Long-Dismissed Forgery the Oldest Known Biblical Manuscript?](https://www.nytimes.com/2021/03/10/arts/bible-deuteronomy-discovery.html)
-- [The productivity of working from home: Evidence from Japan](https://voxeu.org/article/productivity-working-home-evidence-japan)
-- [Trapped Priors as a Basic Problem of Rationality](https://astralcodexten.substack.com/p/trapped-priors-as-a-basic-problem)
-- [Modern Treasury (YC S18) is hiring a product manager to lead banks and payments](https://angel.co/company/moderntreasury/jobs/1243741-product-manager-banks-and-payments)
+- [Understanding Coinbase](https://diff.substack.com/p/understanding-coinbase)
+- [There Should Be No Computer Art (1971) [pdf]](https://www.bbk.ac.uk/hosted/cache/archive/PAGE/PAGE18.pdf)
+- [Quantum Mischief Rewrites the Laws of Cause and Effect](https://www.quantamagazine.org/quantum-mischief-rewrites-the-laws-of-cause-and-effect-20210311/)
+- [Adobe Photoshop's 'super resolution' made my jaw hit the floor](https://petapixel.com/2021/03/13/adobe-photoshops-super-resolution-made-my-jaw-hit-the-floor/)
+- [Baserow.io – Self-hosted Airtable alternative](https://baserow.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
