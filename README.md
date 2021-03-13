@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How Do You Write Documentation](https://news.ycombinator.com/item?id=26446692)
 - [Toronto swaps Google-backed, not-so-smart city plans for people-centred vision](https://www.theguardian.com/world/2021/mar/12/toronto-canada-quayside-urban-centre)
-- [Ask HN: Texts to share with my co-founder re time-management and teamwork?](https://news.ycombinator.com/item?id=26446104)
-- [Flameshot, powerful screenshot tool, fully support Wayland (able to run on sway)](https://flameshot.org/changelog/)
+- [Flameshot – Screenshot tool that supports Wayland](https://flameshot.org/changelog/)
 - [Gather (YC S19) Is Hiring to Build the Metaverse (Remote, in the Metaverse)](https://gather.town/jobs)
 - [Loom EGA/VGA Comparison](http://www.superrune.com/tutorials/loom_ega.php)
 <!-- BLOG-POST-LIST:END -->
