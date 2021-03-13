@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit (YC W18) Is Hiring to build better coding environments and communities](https://replit.com/careers)
+- [Your Attitude Determines Your Success](https://muratbuffalo.blogspot.com/2021/03/your-attitude-determines-your-success.html)
 - [Understanding Coinbase](https://diff.substack.com/p/understanding-coinbase)
+- [Vaccines should end the pandemic, despite the variants, say experts](https://news.harvard.edu/gazette/story/2021/02/vaccines-should-end-the-pandemic-despite-the-variants-say-experts/)
 - [There Should Be No Computer Art (1971) [pdf]](https://www.bbk.ac.uk/hosted/cache/archive/PAGE/PAGE18.pdf)
-- [Quantum Mischief Rewrites the Laws of Cause and Effect](https://www.quantamagazine.org/quantum-mischief-rewrites-the-laws-of-cause-and-effect-20210311/)
-- [Adobe Photoshop's 'super resolution' made my jaw hit the floor](https://petapixel.com/2021/03/13/adobe-photoshops-super-resolution-made-my-jaw-hit-the-floor/)
-- [Baserow.io – Self-hosted Airtable alternative](https://baserow.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
