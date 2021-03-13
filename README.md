@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google slams Microsoft for trying ‘to break the way the open web works’](https://www.theverge.com/2021/3/12/22327306/google-microsoft-attack-open-web-online-news-australia-laws)
+- [Ask HN: How to get a Logo/ Corporate Designs in 2021?](https://news.ycombinator.com/item?id=26445127)
 - [Blueberry Medical (YC W18) Is Hiring](https://www.workatastartup.com/jobs/42677)
 - [Grand Theft Auto: Rockstar Leeds founder Gordon Hall dies aged 51](https://www.bbc.co.uk/news/uk-england-leeds-56374535)
 - [Speed of Rust vs. C](https://kornel.ski/rust-c-speed)
-- [Show HN: A Terminal Tetris Game](https://github.com/adder46/tetris.rs)
-- [RethinkDB: why we failed (2017)](https://www.defmacro.org/2017/01/18/why-rethinkdb-failed.html?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
