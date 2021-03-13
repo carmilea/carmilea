@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How Do You Write Documentation](https://news.ycombinator.com/item?id=26446692)
-- [Toronto swaps Google-backed, not-so-smart city plans for people-centred vision](https://www.theguardian.com/world/2021/mar/12/toronto-canada-quayside-urban-centre)
-- [Flameshot – Screenshot tool that supports Wayland](https://flameshot.org/changelog/)
-- [Gather (YC S19) Is Hiring to Build the Metaverse (Remote, in the Metaverse)](https://gather.town/jobs)
-- [Loom EGA/VGA Comparison](http://www.superrune.com/tutorials/loom_ega.php)
+- [Launch HN: R2 Capital (YC W21) – Working Capital as a Service in Latin America](https://news.ycombinator.com/item?id=26446822)
+- [An Object-Oriented Language for the '20s](https://adam.nels.onl/blog/an-oo-languge-for-the-20s/)
+- [Show HN: Authenticator by 2Stable – The missing Authenticator app](https://authenticator.2stable.com)
+- [A directory of handmade webpages](https://gossipsweb.net/)
+- [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
