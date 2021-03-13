@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Convert Your Old Laptop Screen into an External Monitor](https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/)
+- [Qutebrowser](https://qutebrowser.org/)
 - [BuildZoom is hiring remote engineers – we sponsor visas](https://news.ycombinator.com/item?id=26442901)
 - [A brief history of router architecture](https://blog.apnic.net/2021/03/12/a-brief-history-of-router-architecture/)
 - [Point Cloud Library](https://pointclouds.org/)
-- [Online Hacker Simulator](https://hacker-simulator.com/)
-- [Deutsche Märchen: German fairy tales [pdf]](https://www.cs.ubc.ca/~udls/slides/2019-tim-deutsche_marchen.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
