@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Templating for Lawyers](https://writing.kemitchell.com/2021/03/13/Templating-for-Lawyers.html)
+- [Is a Long-Dismissed Forgery the Oldest Known Biblical Manuscript?](https://www.nytimes.com/2021/03/10/arts/bible-deuteronomy-discovery.html)
+- [The productivity of working from home: Evidence from Japan](https://voxeu.org/article/productivity-working-home-evidence-japan)
+- [Trapped Priors as a Basic Problem of Rationality](https://astralcodexten.substack.com/p/trapped-priors-as-a-basic-problem)
 - [Modern Treasury (YC S18) is hiring a product manager to lead banks and payments](https://angel.co/company/moderntreasury/jobs/1243741-product-manager-banks-and-payments)
-- [Out of the Top Fifty Games on Steam, 70% Work on Linux](https://boilingsteam.com/out-of-the-top-50-games-70-work-on-linux-now/)
-- [Best Practices for BI Dashboards](https://www.metabase.com/learn/building-analytics/dashboards/bi-dashboard-best-practices.html)
-- [Zero-3 Offload: Scale DL models to trillion parameters without code changes](https://www.deepspeed.ai/news/2021/03/07/zero3-offload.html)
-- [Launch HN: R2 Capital (YC W21) – Working Capital as a Service in Latin America](https://news.ycombinator.com/item?id=26446822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
