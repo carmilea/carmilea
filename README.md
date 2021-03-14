@@ -54,8 +54,8 @@
 - [Flexport is hiring engineers in Amsterdam](HTTPS://flexport.com/careers)
 - [Stargazers Map](https://stargazersmap.com/)
 - [Tuna’s Last Stand](https://www.hakaimagazine.com/features/tunas-last-stand/)
-- [Trader gets painted stones instead of $36m of copper](https://www.bbc.com/news/business-56330378)
 - [Reprojecting the Perseverance landing footage onto satellite imagery](https://matthewearl.github.io/2021/03/06/mars2020-reproject/)
+- [Immortal Technologies (2006)](https://kk.org/thetechnium/immortal-techno/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
