@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jaw-Dropping Fossil Find Contains a Dinosaur Sitting on an Entire Clutch of Eggs](https://www.sciencealert.com/fossilized-dinosaur-found-brooding-on-a-nest-of-preserved-eggs-with-actual-embryos-inside)
+- [Multigenerational LRU: more performant, versatile, straightforward than Linux's](https://lore.kernel.org/lkml/20210313075747.3781593-1-yuzhao@google.com/)
+- [Launch HN: Queenly (YC W21) – Marketplace and search engine for formalwear](https://news.ycombinator.com/item?id=26451202)
+- [Systemd 248 RC3: systemd-oomd is now considered fully supported](https://github.com/systemd/systemd/blob/main/NEWS)
+- [Fossil find contains a dinosaur sitting on an entire clutch of eggs](https://www.sciencealert.com/fossilized-dinosaur-found-brooding-on-a-nest-of-preserved-eggs-with-actual-embryos-inside)
 - [Career levels, designation, momentum, etc. (2018)](https://lethain.com/career-levels-and-more/)
-- [Musk, Tesla Board Sued over Tweeting in Violation of SEC Deal (2)](https://news.bloomberglaw.com/securities-law/musk-tesla-board-sued-over-tweeting-in-violation-of-sec-deal)
-- [Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
-- [Replit (YC W18) Is Hiring to build better coding environments and communities](https://replit.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
