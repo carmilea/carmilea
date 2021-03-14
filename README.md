@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I wrote one of the fastest DataFrame libraries](https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries/)
+- [Ask HN: Is Minix dead? No commits since 2018](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
 - [Multigenerational LRU: more performant, versatile, straightforward than Linux's](https://lore.kernel.org/lkml/20210313075747.3781593-1-yuzhao@google.com/)
 - [Launch HN: Queenly (YC W21) – Marketplace and search engine for formalwear](https://news.ycombinator.com/item?id=26451202)
 - [Systemd 248 RC3: systemd-oomd is now considered fully supported](https://github.com/systemd/systemd/blob/main/NEWS)
-- [Fossil find contains a dinosaur sitting on an entire clutch of eggs](https://www.sciencealert.com/fossilized-dinosaur-found-brooding-on-a-nest-of-preserved-eggs-with-actual-embryos-inside)
-- [Career levels, designation, momentum, etc. (2018)](https://lethain.com/career-levels-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
