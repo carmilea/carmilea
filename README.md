@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reprojecting the Perseverance landing footage onto satellite imagery](https://matthewearl.github.io/2021/03/06/mars2020-reproject/)
+- [Wayland in 2021](https://shibumi.dev/posts/wayland-in-2021/)
 - [I wrote one of the fastest DataFrame libraries](https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries/)
 - [Ask HN: Is Minix dead? No commits since 2018](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
 - [Multigenerational LRU: more performant, versatile, straightforward than Linux's](https://lore.kernel.org/lkml/20210313075747.3781593-1-yuzhao@google.com/)
-- [Launch HN: Queenly (YC W21) – Marketplace and search engine for formalwear](https://news.ycombinator.com/item?id=26451202)
-- [Systemd 248 RC3: systemd-oomd is now considered fully supported](https://github.com/systemd/systemd/blob/main/NEWS)
 <!-- BLOG-POST-LIST:END -->
 
 ---
