@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Israel's first new bank since 1978](https://www.reuters.com/article/us-israel-banking-firstdigital-idUSKBN2B60DO)
 - [security.txt](https://securitytxt.org/)
 - [EBPFSnitch: An eBPF based Linux Application Firewall](https://github.com/harporoeder/ebpfsnitch)
 - [Hit Japanese app Crabhouse forced to change name on iOS](https://japantoday.com/category/tech/hit-japanese-app-crabhouse-forced-to-change-name-on-ios)
 - [Why inflation is not a threat](https://www.taxresearch.org.uk/Blog/2021/03/14/why-inflation-is-not-a-threat/)
-- [Metakovan, the mystery Beeple art buyer, and his NFT/DeFi scheme](https://amycastor.com/2021/03/14/metakovan-the-mystery-beeple-art-buyer-and-his-nft-defi-scheme/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
