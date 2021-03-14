@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tweeting “Memphis” autolocks your Twitter account](https://twitter.com/SwiftOnSecurity/status/1371183849712009219)
-- [Spaceship Earth](https://en.wikipedia.org/wiki/Spaceship_Earth)
-- [Domain privacy is changing at Namecheap – Namecheap Blog](https://www.namecheap.com/blog/domain-privacy-is-changing-at-namecheap/)
-- [SpaceX delivers 3rd batch of Starlink satellites in two weeks](https://techcrunch.com/2021/03/14/spacex-flies-falcon-9-rocket-booster-for-a-record-9th-time-delivers-3rd-batch-of-starlink-satellites-in-two-weeks/)
-- [Israel's autonomous 'robo-snipers' and suicide drones raise ethical dilemma](https://www.trtworld.com/magazine/israel-s-autonomous-robo-snipers-and-suicide-drones-raise-ethical-dilemma-44557)
+- [Stripe valuation soars to $95bn after latest fundraising](https://www.ft.com/content/b9949a88-6c09-4de5-92e7-73994bb2b62f)
+- [Why are tar.xz files 15x smaller when using Python's tar compared to macOS tar?](https://superuser.com/q/1633073/529428)
+- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
+- [LeoCAD 21.03](https://github.com/leozide/leocad/releases/tag/v21.03)
+- [A Beginner's Guide to Mecha](https://www.nypl.org/blog/2019/04/04/beginners-guide-mecha-manga-anime)
 <!-- BLOG-POST-LIST:END -->
 
 ---
