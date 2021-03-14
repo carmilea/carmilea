@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Armored Stealth Boat: How to Smuggle Luxury Cars](http://www.hisutton.com/Armored%20Stealth%20Boat.html)
+- [Ask HN: Has Google search been worse at finding information lately?](https://news.ycombinator.com/item?id=26460092)
+- [Pa. woman created ‘deepfake’ videos to force rivals off cheerleading squad](https://www.pennlive.com/news/2021/03/pa-woman-created-deepfake-videos-to-force-rivals-off-daughters-cheerleading-squad-police.html)
+- [Armored Stealth Boat: How to Smuggle Luxury Cars (2016)](http://www.hisutton.com/Armored%20Stealth%20Boat.html)
+- [Narco-Submarine-Found-in-Spain](http://www.hisutton.com/Narco-Submarine-Found-In-Spain.html)
 - [CPLDs, and the importance of knowing when to quit. (2012)](http://www.bytecruft.com/2012/03/cplds-and-importance-of-knowing-when-to.html)
-- [Stripe valuation soars to $95B after latest fundraising](https://www.ft.com/content/b9949a88-6c09-4de5-92e7-73994bb2b62f)
-- [Male statutory rape victims legally-required to pay child support](https://www.businessinsider.com/male-statutory-rape-victim-nick-olivas-must-pay-child-support-2014-9)
-- [Why are tar.xz files 15x smaller when using Python's tar compared to macOS tar?](https://superuser.com/questions/1633073/why-are-tar-xz-files-15x-smaller-when-using-pythons-tar-library-compared-to-mac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
