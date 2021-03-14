@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tweeting “Memphis” autolocks your Twitter account](https://twitter.com/SwiftOnSecurity/status/1371183849712009219)
 - [Spaceship Earth](https://en.wikipedia.org/wiki/Spaceship_Earth)
+- [Domain privacy is changing at Namecheap – Namecheap Blog](https://www.namecheap.com/blog/domain-privacy-is-changing-at-namecheap/)
 - [SpaceX delivers 3rd batch of Starlink satellites in two weeks](https://techcrunch.com/2021/03/14/spacex-flies-falcon-9-rocket-booster-for-a-record-9th-time-delivers-3rd-batch-of-starlink-satellites-in-two-weeks/)
 - [Israel's autonomous 'robo-snipers' and suicide drones raise ethical dilemma](https://www.trtworld.com/magazine/israel-s-autonomous-robo-snipers-and-suicide-drones-raise-ethical-dilemma-44557)
-- [Best rainbows on Earth are in Hawaii, scientist says](https://thehill.com/changing-america/sustainability/environment/542928-best-rainbows-on-earth-are-in-hawaii-scientist)
-- [Ask HN: How to think about crypto lending?](https://news.ycombinator.com/item?id=26456847)
 <!-- BLOG-POST-LIST:END -->
 
 ---
