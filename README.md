@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Monitor your el-cheapo UPS via SNMP](https://github.com/tomszilagyi/upsc-snmp-agent)
+- [Show HN: Critter.Camera – Browser based motion detection and image capture](https://critter.camera/)
+- [Can a Vegan Diet Be Healthy? A Literature Review](https://www.erichgrunewald.com/posts/can-a-vegan-diet-be-healthy-a-literature-review/)
 - [Flexport is hiring engineers in Amsterdam](HTTPS://flexport.com/careers)
 - [Stargazers Map](https://stargazersmap.com/)
-- [Tuna’s Last Stand](https://www.hakaimagazine.com/features/tunas-last-stand/)
-- [Reprojecting the Perseverance landing footage onto satellite imagery](https://matthewearl.github.io/2021/03/06/mars2020-reproject/)
-- [Immortal Technologies (2006)](https://kk.org/thetechnium/immortal-techno/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
