@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hit Japanese app Crabhouse forced to change name on iOS](https://japantoday.com/category/tech/hit-japanese-app-crabhouse-forced-to-change-name-on-ios)
+- [Why inflation is not a threat](https://www.taxresearch.org.uk/Blog/2021/03/14/why-inflation-is-not-a-threat/)
 - [Metakovan, the mystery Beeple art buyer, and his NFT/DeFi scheme](https://amycastor.com/2021/03/14/metakovan-the-mystery-beeple-art-buyer-and-his-nft-defi-scheme/)
 - [Show HN: Critter.Camera – Browser based motion detection and image capture](https://critter.camera/)
 - [Flexport is hiring engineers in Amsterdam](HTTPS://flexport.com/careers)
-- [Stargazers Map](https://stargazersmap.com/)
-- [Tuna’s Last Stand](https://www.hakaimagazine.com/features/tunas-last-stand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
