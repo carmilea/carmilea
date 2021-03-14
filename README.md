@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Odeko (YC S19) Is Hiring Senior Engineers, Designers, and Marketers](https://angel.co/company/odeko-inc/jobs)
-- [Covid-19: Ireland suspends AstraZeneca vaccine over clotting concerns](https://news.sky.com/story/ireland-should-suspend-astrazeneca-vaccine-over-clotting-concerns-health-authority-says-12245626)
-- [Atari 800XL PCB Remake](https://ezcontents.org/atari-800xl-pcb-remake)
-- [Refund of pre-installed Windows: Lenovo must pay 20k euros in damages](https://fsfe.org/news/2021/news-20210302-01.html)
-- [Is Philosophy an Art?](https://www.nybooks.com/articles/2021/03/25/philosophy-an-art-jonathan-ree-witcraft/)
+- [Spaceship Earth](https://en.wikipedia.org/wiki/Spaceship_Earth)
+- [SpaceX delivers 3rd batch of Starlink satellites in two weeks](https://techcrunch.com/2021/03/14/spacex-flies-falcon-9-rocket-booster-for-a-record-9th-time-delivers-3rd-batch-of-starlink-satellites-in-two-weeks/)
+- [Israel's autonomous 'robo-snipers' and suicide drones raise ethical dilemma](https://www.trtworld.com/magazine/israel-s-autonomous-robo-snipers-and-suicide-drones-raise-ethical-dilemma-44557)
+- [Best rainbows on Earth are in Hawaii, scientist says](https://thehill.com/changing-america/sustainability/environment/542928-best-rainbows-on-earth-are-in-hawaii-scientist)
+- [Ask HN: How to think about crypto lending?](https://news.ycombinator.com/item?id=26456847)
 <!-- BLOG-POST-LIST:END -->
 
 ---
