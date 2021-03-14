@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Israel's first new bank since 1978](https://www.reuters.com/article/us-israel-banking-firstdigital-idUSKBN2B60DO)
-- [security.txt](https://securitytxt.org/)
-- [EBPFSnitch: An eBPF based Linux Application Firewall](https://github.com/harporoeder/ebpfsnitch)
-- [Hit Japanese app Crabhouse forced to change name on iOS](https://japantoday.com/category/tech/hit-japanese-app-crabhouse-forced-to-change-name-on-ios)
-- [Why inflation is not a threat](https://www.taxresearch.org.uk/Blog/2021/03/14/why-inflation-is-not-a-threat/)
+- [Odeko (YC S19) Is Hiring Senior Engineers, Designers, and Marketers](https://angel.co/company/odeko-inc/jobs)
+- [Covid-19: Ireland suspends AstraZeneca vaccine over clotting concerns](https://news.sky.com/story/ireland-should-suspend-astrazeneca-vaccine-over-clotting-concerns-health-authority-says-12245626)
+- [Atari 800XL PCB Remake](https://ezcontents.org/atari-800xl-pcb-remake)
+- [Refund of pre-installed Windows: Lenovo must pay 20k euros in damages](https://fsfe.org/news/2021/news-20210302-01.html)
+- [Is Philosophy an Art?](https://www.nybooks.com/articles/2021/03/25/philosophy-an-art-jonathan-ree-witcraft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
