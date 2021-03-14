@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is there a book that teaches you dark patterns of office politics?](https://news.ycombinator.com/item?id=26452996)
-- [The disinformation tactics used by China](https://www.bbc.com/news/56364952)
+- [Flexport is hiring engineers in Amsterdam](HTTPS://flexport.com/careers)
 - [Stargazers Map](https://stargazersmap.com/)
+- [Tuna’s Last Stand](https://www.hakaimagazine.com/features/tunas-last-stand/)
 - [Trader gets painted stones instead of $36m of copper](https://www.bbc.com/news/business-56330378)
 - [Reprojecting the Perseverance landing footage onto satellite imagery](https://matthewearl.github.io/2021/03/06/mars2020-reproject/)
 <!-- BLOG-POST-LIST:END -->
