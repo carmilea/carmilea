@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stripe valuation soars to $95bn after latest fundraising](https://www.ft.com/content/b9949a88-6c09-4de5-92e7-73994bb2b62f)
-- [Why are tar.xz files 15x smaller when using Python's tar compared to macOS tar?](https://superuser.com/q/1633073/529428)
-- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
-- [LeoCAD 21.03](https://github.com/leozide/leocad/releases/tag/v21.03)
-- [A Beginner's Guide to Mecha](https://www.nypl.org/blog/2019/04/04/beginners-guide-mecha-manga-anime)
+- [Armored Stealth Boat: How to Smuggle Luxury Cars](http://www.hisutton.com/Armored%20Stealth%20Boat.html)
+- [CPLDs, and the importance of knowing when to quit. (2012)](http://www.bytecruft.com/2012/03/cplds-and-importance-of-knowing-when-to.html)
+- [Stripe valuation soars to $95B after latest fundraising](https://www.ft.com/content/b9949a88-6c09-4de5-92e7-73994bb2b62f)
+- [Male statutory rape victims legally-required to pay child support](https://www.businessinsider.com/male-statutory-rape-victim-nick-olivas-must-pay-child-support-2014-9)
+- [Why are tar.xz files 15x smaller when using Python's tar compared to macOS tar?](https://superuser.com/questions/1633073/why-are-tar-xz-files-15x-smaller-when-using-pythons-tar-library-compared-to-mac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
