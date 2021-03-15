@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany suspends use of AstraZeneca vaccine, along with Italy, France, Spain](https://www.dw.com/en/germany-suspends-use-of-astrazeneca-vaccine-along-with-italy-france-spain/a-56878920)
-- [Azure Active Directory Down](https://twitter.com/AzureSupport/status/1371544292502564866)
-- [Bodyport (YC S15) Is Hiring a Senior Front End Engineer](https://bodyport.com/careers)
-- [HN Was Down](https://twitter.com/HNStatus/status/1371525940656803848)
-- [Launch HN: Enode (YC W21) – API for energy consumption](https://news.ycombinator.com/item?id=26468448)
+- [Pine64 March Update: Status Report](https://www.pine64.org/2021/03/15/march-update/)
+- [Rockstar thanks GTA Online player who fixed load times, official update coming](https://www.pcgamer.com/rockstar-thanks-gta-online-player-who-fixed-poor-load-times-official-update-coming/)
+- [GitHub Actions Degraded](https://www.githubstatus.com/incidents/s654n76c1bwr)
+- [Zoom Escaper: self-sabotage audio, making your presence unbearable to others](https://zoomescaper.com/)
+- [Reddit Degraded Performance](https://reddit.statuspage.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
