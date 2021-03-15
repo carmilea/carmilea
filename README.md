@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD 3rd Gen EPYC Milan Review: A Peak vs. per Core Performance Balance](https://www.anandtech.com/print/16529/amd-epyc-milan-review)
-- [REST vs GraphQL vs gRPC](https://www.danhacks.com/software/grpc-rest-graphql.html)
-- [Scrollycoding – A new way to write code walkthroughs [video]](https://www.youtube.com/watch?v=7O2b7vfk-mo)
-- [Amazon S3’s 15th Birthday: 5,475 Days and 100T Objects](https://aws.amazon.com/blogs/aws/amazon-s3s-15th-birthday-it-is-still-day-1-after-5475-days-100-trillion-objects/)
-- [Show HN: Create your own cellular automata](http://aperocky.com/cellular-automata/)
+- [Indian bill proposes cryptocurrency ban, penalizing miners and traders](https://www.cnbc.com/2021/03/15/india-plans-cryptocurrency-ban-will-penalize-miners-and-traders.html)
+- [Germany to Halt AstraZeneca Vaccinations](https://www.reuters.com/article/health-coronavirus-germany-astrazeneca/update-1-germany-to-halt-astrazeneca-vaccinations-health-ministry-idUSL8N2LD4T9)
+- [X0.at: upload files from cURL](https://x0.at/)
+- [AMD 3rd Gen EPYC Milan Review](https://www.anandtech.com/print/16529/amd-epyc-milan-review)
+- [Learnimprov – The oldest repository of improvisational comedy structures](https://www.learnimprov.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
