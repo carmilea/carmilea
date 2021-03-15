@@ -55,7 +55,7 @@
 - [Generate Complete Sets of Serial Numbers for OS X-KVM, Docker-OS X, OpenCore](https://github.com/sickcodes/osx-serial-generator)
 - [Spain to launch modest trial of four-day working week](https://www.theguardian.com/world/2021/mar/15/spain-to-launch-trial-of-four-day-working-week)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [Facebook has 10k engineers working on AR/VR](https://www.makeuseof.com/facebook-ar-vr-development/)
+- [Legislative Performance Futures – Incentivize Good Laws by Monetizing the Future](https://bpodgursky.com/2021/03/15/legislative-performance-futures-incentivize-good-laws-by-monetizing-the-verdict-of-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
