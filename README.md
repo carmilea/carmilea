@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Title of Elon Musk Has Changed to Technoking of Tesla](https://www.sec.gov/ix?doc=/Archives/edgar/data/0001318605/000156459021012981/tsla-8k_20210315.htm)
 - [Our app was banned because the button says “Report User” and not just “Report”](https://twitter.com/hermaritz/status/1371383715381805061)
+- [Performance comparison: counting words in Python, Go, C++, C, Awk, Forth, Rust](https://benhoyt.com/writings/count-words/)
 - [Im2Vec: Synthesizing Vector Graphics Without Vector Supervision](https://arxiv.org/abs/2102.02798)
 - [The FBI Should Stop Attacking Encryption](https://www.eff.org/deeplinks/2021/03/fbi-should-stop-attacking-encryption-and-tell-congress-about-all-encrypted-phones)
-- [Generate Complete Sets of Serial Numbers for OS X-KVM, Docker-OS X, OpenCore](https://github.com/sickcodes/osx-serial-generator)
-- [Spain to launch modest trial of four-day working week](https://www.theguardian.com/world/2021/mar/15/spain-to-launch-trial-of-four-day-working-week)
 <!-- BLOG-POST-LIST:END -->
 
 ---
