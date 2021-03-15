@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram App Is Booming, but Needs Advertisers–and $700M Soon](https://www.wsj.com/articles/telegram-app-is-booming-but-needs-advertisersand-700-million-soon-11615806001)
+- [HN Frontpage ranked using only votes from accounts created before Feb 13, 2008](https://news.ycombinator.com/classic)
 - [Smarking (YC W15) Is Hiring a Head Engineer to Scale and Lead the Eng Team](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - [The Ars Technica System Guide, Spring 2021: Gaming Edition](https://arstechnica.com/?p=1746706)
 - [Gitlab.com is experiencing elevated error rates for Git, Web, and API](https://status.gitlab.com/)
