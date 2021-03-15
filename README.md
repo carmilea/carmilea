@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrating Martin Luther King, Jr.’s Leadership and Values](https://www.singlestore.com/blog/celebrating-martin-luther-king-jr-s-leadership-and-values)
-- [Carbon, Cloud, and the Modern Data Estate](https://www.singlestore.com/blog/carbon-cloud-and-the-modern-data-estate)
-- [10 Data Predictions for Your Data Strategy in 2021](https://www.singlestore.com/blog/10-data-predictions-for-your-data-strategy-in-2021)
-- [Fast and Accurate Percentiles with APPROX_PERCENTILE in SingleStore](https://www.singlestore.com/blog/fast-and-accurate-percentiles-with-approx_percentile-in-singlestore)
-- [SingleStore DB 7.3 is Now Generally Available](https://www.singlestore.com/blog/singlestore-db-7-3-is-now-generally-available)
+- [Germany suspends use of AstraZeneca vaccine, along with Italy, France, Spain](https://www.dw.com/en/germany-suspends-use-of-astrazeneca-vaccine-along-with-italy-france-spain/a-56878920)
+- [Azure Active Directory Down](https://twitter.com/AzureSupport/status/1371544292502564866)
+- [Bodyport (YC S15) Is Hiring a Senior Front End Engineer](https://bodyport.com/careers)
+- [HN Was Down](https://twitter.com/HNStatus/status/1371525940656803848)
+- [Launch HN: Enode (YC W21) – API for energy consumption](https://news.ycombinator.com/item?id=26468448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
