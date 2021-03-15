@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jerry, Inc. (YC S17) Is Hiring Content, Engineers, Data, Product (All Levels)](https://jerry.ai/careers)
-- [Launch HN: Enode (YC W21) – API for energy consumption](https://news.ycombinator.com/item?id=26468448)
-- [Launch HN: Mezli (YC W21) – Robotic restaurants that serve healthy fast food](https://news.ycombinator.com/item?id=26468204)
-- [Germany to Halt AstraZeneca Vaccinations](https://www.reuters.com/article/health-coronavirus-germany-astrazeneca/update-1-germany-to-halt-astrazeneca-vaccinations-health-ministry-idUSL8N2LD4T9)
-- [X0.at: upload files from cURL](https://x0.at/)
+- [Celebrating Martin Luther King, Jr.’s Leadership and Values](https://www.singlestore.com/blog/celebrating-martin-luther-king-jr-s-leadership-and-values)
+- [Carbon, Cloud, and the Modern Data Estate](https://www.singlestore.com/blog/carbon-cloud-and-the-modern-data-estate)
+- [10 Data Predictions for Your Data Strategy in 2021](https://www.singlestore.com/blog/10-data-predictions-for-your-data-strategy-in-2021)
+- [Fast and Accurate Percentiles with APPROX_PERCENTILE in SingleStore](https://www.singlestore.com/blog/fast-and-accurate-percentiles-with-approx_percentile-in-singlestore)
+- [SingleStore DB 7.3 is Now Generally Available](https://www.singlestore.com/blog/singlestore-db-7-3-is-now-generally-available)
 <!-- BLOG-POST-LIST:END -->
 
 ---
