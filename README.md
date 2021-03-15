@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Title of Elon Musk Has Changed to Technoking of Tesla](https://www.sec.gov/ix?doc=/Archives/edgar/data/0001318605/000156459021012981/tsla-8k_20210315.htm)
-- [Our app was banned because the button says “Report User” and not just “Report”](https://twitter.com/hermaritz/status/1371383715381805061)
-- [Performance comparison: counting words in Python, Go, C++, C, Awk, Forth, Rust](https://benhoyt.com/writings/count-words/)
-- [Im2Vec: Synthesizing Vector Graphics Without Vector Supervision](https://arxiv.org/abs/2102.02798)
-- [The FBI Should Stop Attacking Encryption](https://www.eff.org/deeplinks/2021/03/fbi-should-stop-attacking-encryption-and-tell-congress-about-all-encrypted-phones)
+- [Telegram App Is Booming, but Needs Advertisers–and $700M Soon](https://www.wsj.com/articles/telegram-app-is-booming-but-needs-advertisersand-700-million-soon-11615806001)
+- [Smarking (YC W15) Is Hiring a Head Engineer to Scale and Lead the Eng Team](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [The Ars Technica System Guide, Spring 2021: Gaming Edition](https://arstechnica.com/?p=1746706)
+- [Gitlab.com is experiencing elevated error rates for Git, Web, and API](https://status.gitlab.com/)
+- [Facebook's GDPR consent bypass reaches Austrian Supreme Court](https://noyb.eu/en/facebooks-gdpr-bypass-reaches-austrian-supreme-court)
 <!-- BLOG-POST-LIST:END -->
 
 ---
