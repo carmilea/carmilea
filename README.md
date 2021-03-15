@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Our app was banned because the button says “Report User” and not just “Report”](https://twitter.com/hermaritz/status/1371383715381805061)
+- [Im2Vec: Synthesizing Vector Graphics Without Vector Supervision](https://arxiv.org/abs/2102.02798)
 - [The FBI Should Stop Attacking Encryption](https://www.eff.org/deeplinks/2021/03/fbi-should-stop-attacking-encryption-and-tell-congress-about-all-encrypted-phones)
 - [Generate Complete Sets of Serial Numbers for OS X-KVM, Docker-OS X, OpenCore](https://github.com/sickcodes/osx-serial-generator)
 - [Spain to launch modest trial of four-day working week](https://www.theguardian.com/world/2021/mar/15/spain-to-launch-trial-of-four-day-working-week)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [Legislative Performance Futures – Incentivize Good Laws by Monetizing the Future](https://bpodgursky.com/2021/03/15/legislative-performance-futures-incentivize-good-laws-by-monetizing-the-verdict-of-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
