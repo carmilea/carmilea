@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software engineers make the best CEOs, at least when measured by market cap](https://iism.org/article/so-why-are-software-engineers-better-ceos-60)
 - [2D Graphics on Modern GPU (2019)](https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html)
 - [Blender website under maintenance due to hacking attempt](https://twitter.com/Blender/status/1371273322399404038)
+- [Creating an Excel Add-In in D](https://blog.jonharrington.org/d_excel_addin/)
 - [New Bare Hash Map: 2X-3X Speedup over SOTA](https://github.com/wangyi-fudan/wyhash)
-- [The Part Time Creator Manifesto](https://www.swyx.io/part-time-creator-manifesto/)
-- [Al Jaffee turns 100, and Mad magazine salutes its legendary artist](https://www.washingtonpost.com/arts-entertainment/2021/03/13/al-jaffee-100-mad-magazine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
