@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HN Frontpage ranked using only votes from accounts created before Feb 13, 2008](https://news.ycombinator.com/classic)
+- [The OODA Loop: How Fighter Pilots Make Fast and Accurate Decisions](https://fs.blog/2021/03/ooda-loop/)
+- [European Commission English Style Guide [pdf]](https://ec.europa.eu/info/sites/info/files/styleguide_english_dgt_en.pdf)
+- [HN Frontpage ranked using only votes from early users](https://news.ycombinator.com/classic)
+- [Show HN: Create your own codecademy-style lessons](https://codeamigo.dev)
 - [Smarking (YC W15) Is Hiring a Head Engineer to Scale and Lead the Eng Team](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [The Ars Technica System Guide, Spring 2021: Gaming Edition](https://arstechnica.com/?p=1746706)
-- [Gitlab.com is experiencing elevated error rates for Git, Web, and API](https://status.gitlab.com/)
-- [Facebook's GDPR consent bypass reaches Austrian Supreme Court](https://noyb.eu/en/facebooks-gdpr-bypass-reaches-austrian-supreme-court)
 <!-- BLOG-POST-LIST:END -->
 
 ---
