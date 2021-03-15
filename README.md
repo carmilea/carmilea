@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pine64 March Update: Status Report](https://www.pine64.org/2021/03/15/march-update/)
-- [Rockstar thanks GTA Online player who fixed load times, official update coming](https://www.pcgamer.com/rockstar-thanks-gta-online-player-who-fixed-poor-load-times-official-update-coming/)
-- [GitHub Actions Degraded](https://www.githubstatus.com/incidents/s654n76c1bwr)
-- [Zoom Escaper: self-sabotage audio, making your presence unbearable to others](https://zoomescaper.com/)
-- [Reddit Degraded Performance](https://reddit.statuspage.io/)
+- [Why the new USPS mail trucks look so weird](https://www.thedrive.com/news/39427/heres-why-the-new-usps-mail-trucks-look-so-weird)
+- [Show HN: Apple no longer repairing older MacBook Pros](https://news.ycombinator.com/item?id=26470361)
+- [Vienna has a 100-year history of building public housing for all (2018)](https://thetyee.ca/Solutions/2018/06/06/Vienna-Housing-Affordability-Case-Cracked/)
+- [Highlights from Git 2.31](https://github.blog/2021-03-15-highlights-from-git-2-31/)
+- [March Update: Status Report](https://www.pine64.org/2021/03/15/march-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
