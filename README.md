@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The OODA Loop: How Fighter Pilots Make Fast and Accurate Decisions](https://fs.blog/2021/03/ooda-loop/)
-- [European Commission English Style Guide [pdf]](https://ec.europa.eu/info/sites/info/files/styleguide_english_dgt_en.pdf)
-- [HN Frontpage ranked using only votes from early users](https://news.ycombinator.com/classic)
-- [Show HN: Create your own codecademy-style lessons](https://codeamigo.dev)
-- [Smarking (YC W15) Is Hiring a Head Engineer to Scale and Lead the Eng Team](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [AMD 3rd Gen EPYC Milan Review: A Peak vs. per Core Performance Balance](https://www.anandtech.com/print/16529/amd-epyc-milan-review)
+- [REST vs GraphQL vs gRPC](https://www.danhacks.com/software/grpc-rest-graphql.html)
+- [Scrollycoding – A new way to write code walkthroughs [video]](https://www.youtube.com/watch?v=7O2b7vfk-mo)
+- [Amazon S3’s 15th Birthday: 5,475 Days and 100T Objects](https://aws.amazon.com/blogs/aws/amazon-s3s-15th-birthday-it-is-still-day-1-after-5475-days-100-trillion-objects/)
+- [Show HN: Create your own cellular automata](http://aperocky.com/cellular-automata/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
