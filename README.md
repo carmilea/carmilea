@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [India to propose cryptocurrency ban, penalising miners, traders -source](https://www.reuters.com/article/us-india-cryptocurrency-ban/india-to-propose-cryptocurrency-ban-penalising-miners-traders-source-idUSKBN2B60R0)
-- [Satellite Imagery Shows Northern California Kelp Forests Have Collapsed](https://www.smithsonianmag.com/smart-news/satellite-imagery-shows-northern-california-kelp-forests-have-collapsed-180977214/)
+- [Satellite imagery shows Northern California kelp forests have collapsed](https://www.smithsonianmag.com/smart-news/satellite-imagery-shows-northern-california-kelp-forests-have-collapsed-180977214/)
+- [Why we’re removing comments on most of Inquirer.com](https://www.inquirer.com/about/philadelphia-inquirer-comments-section-changes-20210201.html)
 - [Armored Stealth Boat: How to Smuggle Luxury Cars (2016)](http://www.hisutton.com/Armored%20Stealth%20Boat.html)
-- [Narco-Submarine-Found-in-Spain](http://www.hisutton.com/Narco-Submarine-Found-In-Spain.html)
-- [Stripe valuation soars to $95B after latest fundraising](https://www.ft.com/content/b9949a88-6c09-4de5-92e7-73994bb2b62f)
+- [Narco Submarine Found in Spain](http://www.hisutton.com/Narco-Submarine-Found-In-Spain.html)
+- [GitHub no longer supports this web browser](https://www.solipsys.co.uk/Chartodon/105858745802436261.svg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
