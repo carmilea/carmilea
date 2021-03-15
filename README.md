@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The FBI Should Stop Attacking Encryption](https://www.eff.org/deeplinks/2021/03/fbi-should-stop-attacking-encryption-and-tell-congress-about-all-encrypted-phones)
+- [Generate Complete Sets of Serial Numbers for OS X-KVM, Docker-OS X, OpenCore](https://github.com/sickcodes/osx-serial-generator)
+- [Spain to launch modest trial of four-day working week](https://www.theguardian.com/world/2021/mar/15/spain-to-launch-trial-of-four-day-working-week)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [Facebook has 10k engineers working on AR/VR](https://www.makeuseof.com/facebook-ar-vr-development/)
-- [Legislative Performance Futures – Incentivize Good Laws by Monetizing the Future](https://bpodgursky.com/2021/03/15/legislative-performance-futures-incentivize-good-laws-by-monetizing-the-verdict-of-history/)
-- [IPFS Local Offline Collaboration Sig](https://blog.fission.codes/ipfs-local-offline-collaboration-sig/)
-- [Software engineers make the best CEOs, at least when measured by market cap](https://iism.org/article/so-why-are-software-engineers-better-ceos-60)
 <!-- BLOG-POST-LIST:END -->
 
 ---
