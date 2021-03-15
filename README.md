@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2D Graphics on Modern GPU (2019)](https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html)
+- [Blender website under maintenance due to hacking attempt](https://twitter.com/Blender/status/1371273322399404038)
+- [New Bare Hash Map: 2X-3X Speedup over SOTA](https://github.com/wangyi-fudan/wyhash)
 - [The Part Time Creator Manifesto](https://www.swyx.io/part-time-creator-manifesto/)
 - [Al Jaffee turns 100, and Mad magazine salutes its legendary artist](https://www.washingtonpost.com/arts-entertainment/2021/03/13/al-jaffee-100-mad-magazine/)
-- [How to Read ARM64 Assembly Language](https://wolchok.org/posts/how-to-read-arm64-assembly-language/)
-- [Satellite imagery shows Northern California kelp forests have collapsed](https://www.smithsonianmag.com/smart-news/satellite-imagery-shows-northern-california-kelp-forests-have-collapsed-180977214/)
-- [Why we’re removing comments on most of Inquirer.com](https://www.inquirer.com/about/philadelphia-inquirer-comments-section-changes-20210201.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
