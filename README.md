@@ -55,7 +55,7 @@
 - [Why we’re removing comments on most of Inquirer.com](https://www.inquirer.com/about/philadelphia-inquirer-comments-section-changes-20210201.html)
 - [Armored Stealth Boat: How to Smuggle Luxury Cars (2016)](http://www.hisutton.com/Armored%20Stealth%20Boat.html)
 - [Narco Submarine Found in Spain](http://www.hisutton.com/Narco-Submarine-Found-In-Spain.html)
-- [GitHub no longer supports this web browser](https://www.solipsys.co.uk/Chartodon/105858745802436261.svg)
+- [Stripe valuation soars to $95B after latest fundraising](https://www.ft.com/content/b9949a88-6c09-4de5-92e7-73994bb2b62f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
