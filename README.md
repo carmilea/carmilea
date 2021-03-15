@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
+- [Facebook has 10k engineers working on AR/VR](https://www.makeuseof.com/facebook-ar-vr-development/)
 - [Legislative Performance Futures – Incentivize Good Laws by Monetizing the Future](https://bpodgursky.com/2021/03/15/legislative-performance-futures-incentivize-good-laws-by-monetizing-the-verdict-of-history/)
 - [IPFS Local Offline Collaboration Sig](https://blog.fission.codes/ipfs-local-offline-collaboration-sig/)
 - [Software engineers make the best CEOs, at least when measured by market cap](https://iism.org/article/so-why-are-software-engineers-better-ceos-60)
-- [2D Graphics on Modern GPU (2019)](https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html)
-- [Blender website under maintenance due to hacking attempt](https://twitter.com/Blender/status/1371273322399404038)
 <!-- BLOG-POST-LIST:END -->
 
 ---
