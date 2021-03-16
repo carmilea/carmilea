@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How C++ Resolves a Function Call](https://preshing.com/20210315/how-cpp-resolves-a-function-call/)
 - [Why the new USPS mail trucks look so weird](https://www.thedrive.com/news/39427/heres-why-the-new-usps-mail-trucks-look-so-weird)
 - [Vienna has a 100-year history of building public housing for all (2018)](https://thetyee.ca/Solutions/2018/06/06/Vienna-Housing-Affordability-Case-Cracked/)
 - [Magic Mushrooms Are Decriminalized in DC as of Today](https://www.washingtonian.com/2021/03/15/magic-mushrooms-are-decriminalized-in-dc-as-of-today/)
 - [March Update: Status Report](https://www.pine64.org/2021/03/15/march-update/)
-- [Tim Berners-Lee: We need social networks where bad things happen less](https://www.theguardian.com/lifeandstyle/2021/mar/15/tim-berners-lee-we-need-social-networks-where-bad-things-happen-less)
 <!-- BLOG-POST-LIST:END -->
 
 ---
