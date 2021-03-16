@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Without Burnout](https://junglecoder.com/blog/learning-without-burnout)
 - [Psychic Numbing and Genocide](https://www.apa.org/science/about/psa/2007/11/slovic)
-- [We Don’t Use Docker (We Don’t Need It)](https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1)
-- [In Landmark Privacy Law, California Passes Regulation Banning “Dark Patterns”](https://gizmodo.com/california-passes-new-regulation-banning-dark-patterns-1846482961)
-- [Brain’s ‘wiring insulation’ a major factors of age-related brain deterioration](https://www.port.ac.uk/news-events-and-blogs/news/brains-wiring-insulation-is-one-of-the-major-factors-of-age-related-brain-deterioration)
-- [Immutable Linux desktop with OpenSUSE and Snaps](https://ypsidanger.com/23800/running-snaps-on-opensuse-microos-desktop)
+- [We Don’t Use Docker](https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1)
+- [Show HN: Web app that blows water out of your phone's speakers (warning: loud)](https://fixmyspeakers.com)
+- [California Passes Regulation Banning "Dark Patterns" Under Landmark Privacy Law](https://gizmodo.com/california-passes-new-regulation-banning-dark-patterns-1846482961)
 <!-- BLOG-POST-LIST:END -->
 
 ---
