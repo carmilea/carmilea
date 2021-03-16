@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dover (YC S19) is hiring our first Growth Product Engineer](https://news.ycombinator.com/item?id=26482900)
+- [Why is American infrastructure so expensive?](https://www.niskanencenter.org/report-so-you-want-to-do-an-infrastructure-project/)
+- [Runj: Experimental, proof-of-concept OCI-compatible runtime for FreeBSD jails](https://github.com/samuelkarp/runj#runj)
 - [It's time to build: a New World's Fair](https://www.cameronwiese.com/blog/worlds-fair)
 - [Moore's Law for Everything](https://moores.samaltman.com/)
-- [Swift Evolution: Actors](https://github.com/apple/swift-evolution/blob/main/proposals/0306-actors.md)
-- [Reverse Wealth Transfer on Steroids](https://thereformedbroker.com/2021/03/16/reverse-wealth-transfer-on-steroids/)
-- [Hassle-Free Database Migrations with Prisma Migrate](https://www.prisma.io/blog/prisma-migrate-ga-b5eno5g08d0b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
