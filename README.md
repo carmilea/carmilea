@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the new USPS mail trucks look so weird](https://www.thedrive.com/news/39427/heres-why-the-new-usps-mail-trucks-look-so-weird)
-- [Show HN: Apple no longer repairing older MacBook Pros](https://news.ycombinator.com/item?id=26470361)
-- [Vienna has a 100-year history of building public housing for all (2018)](https://thetyee.ca/Solutions/2018/06/06/Vienna-Housing-Affordability-Case-Cracked/)
+- [Google Took Down My Chrome Extension for Using Lodash](https://roadtoramen.com/Day-435-Google-Took-Down-My-Extension-for-Using-Lodash-a3096c51321f42e0a04c77e1a25f484a)
 - [Highlights from Git 2.31](https://github.blog/2021-03-15-highlights-from-git-2-31/)
+- [Firefox plans to remove large URL bar](https://bugzilla.mozilla.org/show_bug.cgi?id=1678744)
 - [March Update: Status Report](https://www.pine64.org/2021/03/15/march-update/)
+- [Tim Berners-Lee: We need social networks where bad things happen less](https://www.theguardian.com/lifeandstyle/2021/mar/15/tim-berners-lee-we-need-social-networks-where-bad-things-happen-less)
 <!-- BLOG-POST-LIST:END -->
 
 ---
