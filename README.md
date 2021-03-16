@@ -54,8 +54,8 @@
 - [It's time to build: a New World's Fair](https://www.cameronwiese.com/blog/worlds-fair)
 - [Moore's Law for Everything](https://moores.samaltman.com/)
 - [Swift Evolution: Actors](https://github.com/apple/swift-evolution/blob/main/proposals/0306-actors.md)
+- [Reverse Wealth Transfer on Steroids](https://thereformedbroker.com/2021/03/16/reverse-wealth-transfer-on-steroids/)
 - [Hassle-Free Database Migrations with Prisma Migrate](https://www.prisma.io/blog/prisma-migrate-ga-b5eno5g08d0b)
-- [Rockstar pays $10k to modder who fixed GTA Online loading times](https://www.gamesindustry.biz/articles/2021-03-16-rockstar-pays-usd10-000-to-modder-who-fixed-grand-theft-auto-online-loading-times)
 <!-- BLOG-POST-LIST:END -->
 
 ---
