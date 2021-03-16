@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stacker (YC S20) is hiring engineers in Europe (remote)](http://www.stackerhq.com/jobs)
-- [One Year Alone in Forest of Sweden Building a Log Cabin](https://www.youtube.com/watch?v=BBX5qh09OIE)
-- [Electric car that charges itself](https://sonomotors.com/)
-- [Learning Without Burnout](https://junglecoder.com/blog/learning-without-burnout)
-- [We Don’t Use Docker](https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1)
+- [Fun with Timers and Cpuid](https://cpufun.substack.com/p/fun-with-timers-and-cpuid)
+- [The Y Combinator Experience – Remote Edition](https://magicbell.io/blog/the-ycombinator-experience-remote-edition)
+- [Adobe Goes After 27-Year Old ‘Pirated’ Copy of Acrobat Reader 1.0 for MS-DOS](https://torrentfreak.com/adobe-goes-after-27-year-old-pirated-copy-of-acrobat-reader-1-0-for-ms-dos-210315/)
+- [Stacker (YC S20) Is Hiring Engineers in Europe (Remote)](http://www.stackerhq.com/jobs)
+- [Buildroot – Making Embedded Linux Easy](https://buildroot.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
