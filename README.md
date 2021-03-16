@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GeForce RTX 3060 Ethereum Mining Restrictions Have Been Broken](https://videocardz.com/newz/pc-watch-geforce-rtx-3060-ethereum-mining-restrictions-have-been-broken)
+- [Right to Repair Gaining Momentum](https://www.vice.com/en/article/z3vavw/half-the-country-is-now-considering-right-to-repair-laws)
+- [Moderation in Infrastructure](https://stratechery.com/2021/moderation-in-infrastructure/)
+- [Justice at Spotify](https://www.unionofmusicians.org/justice-at-spotify)
+- [Scientists stunned to discover plants beneath mile-deep Greenland ice](https://phys.org/news/2021-03-scientists-stunned-beneath-mile-deep-greenland.html)
 - [MDacne (YC W17) Is Hiring](https://www.workatastartup.com/jobs/41333)
-- [The EMA Covid-19 data leak, and what it tells us about mRNA instability](https://www.bmj.com/content/372/bmj.n627)
-- [How Amazon Crushes Unions](https://www.nytimes.com/2021/03/16/technology/amazon-unions-virginia.html)
-- [Fun with Timers and Cpuid](https://cpufun.substack.com/p/fun-with-timers-and-cpuid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
