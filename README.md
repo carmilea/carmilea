@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GeForce RTX 3060 Ethereum Mining Restrictions Have Been Broken](https://videocardz.com/newz/pc-watch-geforce-rtx-3060-ethereum-mining-restrictions-have-been-broken)
 - [MDacne (YC W17) Is Hiring](https://www.workatastartup.com/jobs/41333)
 - [The EMA Covid-19 data leak, and what it tells us about mRNA instability](https://www.bmj.com/content/372/bmj.n627)
-- [AstraZeneca boss is in the “hot seat” over vaccine delays, France says](https://www.reuters.com/article/us-health-coronavirus-france-vaccine/astrazeneca-boss-is-in-the-hot-seat-over-vaccine-delays-france-says-idUSKBN2B812K)
+- [How Amazon Crushes Unions](https://www.nytimes.com/2021/03/16/technology/amazon-unions-virginia.html)
 - [Fun with Timers and Cpuid](https://cpufun.substack.com/p/fun-with-timers-and-cpuid)
-- [The Y Combinator Experience – Remote Edition](https://magicbell.io/blog/the-ycombinator-experience-remote-edition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
