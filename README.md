@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Stacker (YC S20) is hiring engineers in Europe (remote)](http://www.stackerhq.com/jobs)
-- [Conan – A package manager for C/C++](https://en.terminalroot.com.br/conan-a-package-manager-for-cc/)
+- [One Year Alone in Forest of Sweden Building a Log Cabin](https://www.youtube.com/watch?v=BBX5qh09OIE)
 - [Electric car that charges itself](https://sonomotors.com/)
 - [Learning Without Burnout](https://junglecoder.com/blog/learning-without-burnout)
-- [Psychic numbing and genocide (2007)](https://www.apa.org/science/about/psa/2007/11/slovic)
+- [We Don’t Use Docker](https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
