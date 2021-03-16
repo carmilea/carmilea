@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google finally revealed how much personal data they collect in Chrome](https://www.twitter.com/DuckDuckGo/status/1371509053613084679)
-- [Launch HN: Navattic (YC W21) – Shareable demos for selling your SaaS product](https://news.ycombinator.com/item?id=26478189)
-- [Docker Raises $23M](https://www.docker.com/press-release/Docker-Series-B)
-- [Pangolin – Mobile AMD laptop with Ryzen CPU and Radeon graphics](https://system76.com/laptops/pangolin?its-the-same-url-but-the-content-has-changed-thank-you)
-- [A Discriminatory Algorithm Wrongly Accused Thousands of Families of Fraud](https://www.vice.com/en/article/jgq35d/how-a-discriminatory-algorithm-wrongly-accused-thousands-of-families-of-fraud)
+- [Launch HN: Pry (YC W21) – Finance for Founders](https://news.ycombinator.com/item?id=26479595)
+- [Bottomless (YC W19) Is Hiring](https://www.workatastartup.com/jobs/42710)
+- [Why Librem Tunnel Is Leaving iOS](https://puri.sm/posts/why-librem-tunnel-is-leaving-ios/)
+- [Ultrasound has potential to damage coronaviruses](https://news.mit.edu/2021/ultrasound-coronaviruses-damage-0316)
+- [Improving large monorepo performance on GitHub](https://github.blog/2021-03-16-improving-large-monorepo-performance-on-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
