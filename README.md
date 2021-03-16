@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MDacne (YC W17) Is Hiring](https://www.workatastartup.com/jobs/41333)
+- [The EMA Covid-19 data leak, and what it tells us about mRNA instability](https://www.bmj.com/content/372/bmj.n627)
+- [AstraZeneca boss is in the “hot seat” over vaccine delays, France says](https://www.reuters.com/article/us-health-coronavirus-france-vaccine/astrazeneca-boss-is-in-the-hot-seat-over-vaccine-delays-france-says-idUSKBN2B812K)
 - [Fun with Timers and Cpuid](https://cpufun.substack.com/p/fun-with-timers-and-cpuid)
 - [The Y Combinator Experience – Remote Edition](https://magicbell.io/blog/the-ycombinator-experience-remote-edition)
-- [Adobe Goes After 27-Year Old ‘Pirated’ Copy of Acrobat Reader 1.0 for MS-DOS](https://torrentfreak.com/adobe-goes-after-27-year-old-pirated-copy-of-acrobat-reader-1-0-for-ms-dos-210315/)
-- [Stacker (YC S20) Is Hiring Engineers in Europe (Remote)](http://www.stackerhq.com/jobs)
-- [Buildroot – Making Embedded Linux Easy](https://buildroot.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
