@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Psychic Numbing and Genocide](https://www.apa.org/science/about/psa/2007/11/slovic)
+- [We Don’t Use Docker (We Don’t Need It)](https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1)
 - [In Landmark Privacy Law, California Passes Regulation Banning “Dark Patterns”](https://gizmodo.com/california-passes-new-regulation-banning-dark-patterns-1846482961)
 - [Brain’s ‘wiring insulation’ a major factors of age-related brain deterioration](https://www.port.ac.uk/news-events-and-blogs/news/brains-wiring-insulation-is-one-of-the-major-factors-of-age-related-brain-deterioration)
-- [How C++ Resolves a Function Call](https://preshing.com/20210315/how-cpp-resolves-a-function-call/)
-- [Why the new USPS mail trucks look so weird](https://www.thedrive.com/news/39427/heres-why-the-new-usps-mail-trucks-look-so-weird)
-- [Vienna has a 100-year history of building public housing for all (2018)](https://thetyee.ca/Solutions/2018/06/06/Vienna-Housing-Affordability-Case-Cracked/)
+- [Immutable Linux desktop with OpenSUSE and Snaps](https://ypsidanger.com/23800/running-snaps-on-opensuse-microos-desktop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
