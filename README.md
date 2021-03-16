@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stacker (YC S20) is hiring engineers in Europe (remote)](http://www.stackerhq.com/jobs)
+- [Conan – A package manager for C/C++](https://en.terminalroot.com.br/conan-a-package-manager-for-cc/)
+- [Electric car that charges itself](https://sonomotors.com/)
 - [Learning Without Burnout](https://junglecoder.com/blog/learning-without-burnout)
 - [Psychic numbing and genocide (2007)](https://www.apa.org/science/about/psa/2007/11/slovic)
-- [We Don’t Use Docker](https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1)
-- [Show HN: Web app that blows water out of your phone's speakers (warning: loud)](https://fixmyspeakers.com)
-- [California Passes Regulation Banning "Dark Patterns" Under Landmark Privacy Law](https://gizmodo.com/california-passes-new-regulation-banning-dark-patterns-1846482961)
 <!-- BLOG-POST-LIST:END -->
 
 ---
