@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It's time to build: a New World's Fair](https://www.cameronwiese.com/blog/worlds-fair)
+- [Moore's Law for Everything](https://moores.samaltman.com/)
+- [Swift Evolution: Actors](https://github.com/apple/swift-evolution/blob/main/proposals/0306-actors.md)
+- [Hassle-Free Database Migrations with Prisma Migrate](https://www.prisma.io/blog/prisma-migrate-ga-b5eno5g08d0b)
 - [Rockstar pays $10k to modder who fixed GTA Online loading times](https://www.gamesindustry.biz/articles/2021-03-16-rockstar-pays-usd10-000-to-modder-who-fixed-grand-theft-auto-online-loading-times)
-- [Launch HN: Pry (YC W21) – Finance for Founders](https://news.ycombinator.com/item?id=26479595)
-- [Bottomless (YC W19) Is Hiring](https://www.workatastartup.com/jobs/42710)
-- [Ultrasound has potential to damage coronaviruses](https://news.mit.edu/2021/ultrasound-coronaviruses-damage-0316)
-- [Improving large monorepo performance on GitHub](https://github.blog/2021-03-16-improving-large-monorepo-performance-on-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
