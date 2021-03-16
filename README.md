@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Learning Without Burnout](https://junglecoder.com/blog/learning-without-burnout)
-- [Psychic Numbing and Genocide](https://www.apa.org/science/about/psa/2007/11/slovic)
+- [Psychic numbing and genocide (2007)](https://www.apa.org/science/about/psa/2007/11/slovic)
 - [We Don’t Use Docker](https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1)
 - [Show HN: Web app that blows water out of your phone's speakers (warning: loud)](https://fixmyspeakers.com)
 - [California Passes Regulation Banning "Dark Patterns" Under Landmark Privacy Law](https://gizmodo.com/california-passes-new-regulation-banning-dark-patterns-1846482961)
