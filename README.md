@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Discriminatory Algorithm Wrongly Accused Thousands of Families of Fraud](https://www.vice.com/en/article/jgq35d/how-a-discriminatory-algorithm-wrongly-accused-thousands-of-families-of-fraud)
+- [Java 16 is now released](http://jdk.java.net/16/)
+- [TikTok wants to keep tracking iPhone users with state-backed workaround](https://arstechnica.com/gadgets/2021/03/chinas-tech-giants-test-way-around-apples-new-privacy-rules/)
 - [Right to Repair Gaining Momentum](https://www.vice.com/en/article/z3vavw/half-the-country-is-now-considering-right-to-repair-laws)
 - [Moderation in Infrastructure](https://stratechery.com/2021/moderation-in-infrastructure/)
-- [Justice at Spotify](https://www.unionofmusicians.org/justice-at-spotify)
-- [Scientists stunned to discover plants beneath mile-deep Greenland ice](https://phys.org/news/2021-03-scientists-stunned-beneath-mile-deep-greenland.html)
-- [MDacne (YC W17) Is Hiring](https://www.workatastartup.com/jobs/41333)
 <!-- BLOG-POST-LIST:END -->
 
 ---
