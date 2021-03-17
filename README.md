@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Video terminals at Slovenian Computer Museum: VT52/100/220/320/420/510 and more](https://www.racunalniski-muzej.si/?p=1198)
-- [AI Can Now Debate with Humans and Sometimes Convince Them, Too](https://www.scientificamerican.com/podcast/episode/ai-can-now-debate-with-humans-and-sometimes-convince-them-too/)
+- [Visa Plans to Enable Bitcoin Payments at 70M Merchants](https://www.btctimes.com/news/visa-plans-to-enable-bitcoin-purchases)
+- [Microsoft tried a 4-day workweek in Japan. Productivity jumped 40%](https://www.cnn.com/2019/11/04/tech/microsoft-japan-workweek-productivity/index.html)
+- [French watchdog rejects request to suspend Apple's App Tracking Transparency](https://www.thetelegram.com/business/reuters/french-watchdog-rejects-requests-to-suspend-apples-app-tracking-transparency-feature-564488/)
 - [The blast that shook the ionosphere](https://www.global.hokudai.ac.jp/blog/the-blast-that-shook-the-ionosphere/)
 - [Robust Soldier Crab Ball Gate [pdf]](http://wpmedia.wolfram.com/uploads/sites/13/2018/02/20-2-2.pdf)
-- [Charts.css](https://chartscss.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
