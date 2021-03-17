@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Cloud Networking reporting issues](https://status.cloud.google.com/)
+- [Launch HN: Chums (YC W21) – Shop online with friends](https://news.ycombinator.com/item?id=26493938)
+- [Top Texas regulator ousted as recording emerges of pledge to protect Wall Street](https://www.houstonchronicle.com/politics/texas/article/Ouster-of-top-Texas-utility-regulator-follows-16031381.php)
 - [Circle Medical (YC S15) Is Hiring Growth Engineers in Montreal](https://jobs.lever.co/circlemedical/78723d6b-49fc-4bb5-911d-61d1ca20b6ea?lever-origin=applied&lever-source%5B%5D=HACKERNEWS)
 - [Writing Small CLI Programs in Common Lisp](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
-- [Shifting attention to accuracy can reduce misinformation online](https://www.nature.com/articles/s41586-021-03344-2)
-- [Let there be more biographies of failures](https://commonreader.substack.com/p/let-there-be-more-biographies-of)
-- [Show HN: Cloud GPUs for Deep Learning – At 1/3 the Cost of AWS/GCP](https://gpu.land/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
