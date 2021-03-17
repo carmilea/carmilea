@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoid Consumer Routers](https://routersecurity.org/consumerrouters.php)
+- [I self-learned to code at 30](https://www.kaapi.team/blog/i-self-learned-to-code-at-30-this-is-how-you-can-too)
+- [Tusky suspended from Google Play Store](https://chaos.social/@ConnyDuck/105904002285019275)
 - [Multiple SARS-CoV-2 variants escape neutralization by vaccine-induced immunity](https://www.medrxiv.org/content/10.1101/2021.02.14.21251704v2)
-- [Wikipedia Is Finally Asking Big Tech to Pay Up](https://www.wired.com/story/wikipedia-finally-asking-big-tech-to-pay-up/)
-- [Apple’s $4.7B Green Bond spend is helping to create 1.2 gigawatts of clean power](https://www.apple.com/newsroom/2021/03/apples-four-point-seven-billion-green-bond-spend-is-helping-to-create-one-point-two-gigawatts-of-clean-power/)
-- [Impraise (YC S14) Is Hiring a Lead Ruby Engineer](https://impraise.recruitee.com/o/lead-software-engineer)
-- [AstraZeneca vaccine doesn't prevent B1351 Covid in early trial](https://www.cidrap.umn.edu/news-perspective/2021/03/astrazeneca-vaccine-doesnt-prevent-b1351-covid-early-trial)
+- [Grumpy Cat NFT sold for nearly $80K](https://foundation.app/grumpycat/grumpy-cat-5467)
 <!-- BLOG-POST-LIST:END -->
 
 ---
