@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Milky Way, 12 years, 1250 hours of exposures and 125 x 22 degrees of sky](https://astroanarchy.blogspot.com/2021/03/gigapixel-mosaic-of-milky-way-1250.html)
-- [Claude Shannon: The Mathematical Theory of Cryptography](https://evervault.com/papers/shannon)
-- [Self-Hosting Git](https://peppe.rs/posts/self-hosting_git/)
-- [International Space Station Traffic](https://www.supercluster.com/iss)
-- [What Are Operators in C?](https://usemynotes.com/what-are-operators-in-c/)
+- [Launch HN: Finley (YC W21) – Debt capital monitoring and reporting software](https://news.ycombinator.com/item?id=26492329)
+- [FreeBSD 13.0 – Full Desktop Experience](https://www.tubsta.com/2021/03/freebsd-13-0-full-desktop-experience/)
+- [Irish webapp to recreate pub atmosphere at home today](https://soundsofthepub.com/)
+- [Do not use redirection characters in your shell prompt](https://tanelpoder.com/posts/how-to-stay-safe-in-shell/)
+- [How to See S3 Bucket Storage Types and Storage Costs](https://www.vantage.sh/blog/how-to-see-s3-bucket-storage-types-and-storage-costs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
