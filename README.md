@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learnlatex.org: A place to learn LaTeX online](https://www.learnlatex.org/en/)
 - [Audacity 3.0](https://www.audacityteam.org/audacity-3-0-0-released/)
 - [Static website analytics with no JavaScript using GoAccess](https://blog.bitgate.cz/static-site-analytics-with-nginx-goaccess-no-js/)
 - [Zeus Living Is Hiring a Senior Product Designer to Build the Future of Rentals](https://jobs.lever.co/zeus/37f99a58-f1ea-413f-857b-7bd5efb285a8)
-- [Visa Plans to Enable Bitcoin Payments at 70M Merchants](https://www.btctimes.com/news/visa-plans-to-enable-bitcoin-purchases)
 - [Eclipse IDE 2021-03 is released](https://www.eclipse.org/eclipseide/)
 <!-- BLOG-POST-LIST:END -->
 
