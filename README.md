@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Puzzl (YC S19) Is Hiring an Early Full Stack Engineer](https://www.notion.so/Senior-Software-Engineer-Fullstack-8a43b6fffff949dfb338c0bd6385fb4d)
+- [Line app allowed Chinese firm to access personal user data](https://therecord.media/line-app-allowed-chinese-firm-to-access-personal-user-data-without-permission/)
+- [Indiana Jones and the Last Crusade EGA/VGA Comparison](http://www.superrune.com/tutorials/indy3_ega.php)
 - [Avoid Consumer Routers](https://routersecurity.org/consumerrouters.php)
 - [I self-learned to code at 30](https://www.kaapi.team/blog/i-self-learned-to-code-at-30-this-is-how-you-can-too)
-- [Tusky suspended from Google Play Store](https://chaos.social/@ConnyDuck/105904002285019275)
-- [Multiple SARS-CoV-2 variants escape neutralization by vaccine-induced immunity](https://www.medrxiv.org/content/10.1101/2021.02.14.21251704v2)
-- [Grumpy Cat NFT sold for nearly $80K](https://foundation.app/grumpycat/grumpy-cat-5467)
 <!-- BLOG-POST-LIST:END -->
 
 ---
