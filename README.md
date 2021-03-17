@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Shannon: The Mathematical Theory of Cryptography](https://evervault.com/papers/shannon)
+- [If Tesla Is the Apple of Electric Vehicles, Volkswagen Bets It Can Be Samsung](https://www.bloomberg.com/news/articles/2021-03-16/if-tesla-is-the-apple-of-electric-vehicles-volkswagen-is-betting-it-can-be-samsung)
+- [Self-Hosting Git](https://peppe.rs/posts/self-hosting_git/)
+- [International Space Station Traffic](https://www.supercluster.com/iss)
 - [Puzzl (YC S19) Is Hiring an Early Full Stack Engineer](https://www.notion.so/Senior-Software-Engineer-Fullstack-8a43b6fffff949dfb338c0bd6385fb4d)
-- [Line app allowed Chinese firm to access personal user data](https://therecord.media/line-app-allowed-chinese-firm-to-access-personal-user-data-without-permission/)
-- [Indiana Jones and the Last Crusade EGA/VGA Comparison](http://www.superrune.com/tutorials/indy3_ega.php)
-- [Avoid Consumer Routers](https://routersecurity.org/consumerrouters.php)
-- [I self-learned to code at 30](https://www.kaapi.team/blog/i-self-learned-to-code-at-30-this-is-how-you-can-too)
 <!-- BLOG-POST-LIST:END -->
 
 ---
