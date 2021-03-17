@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists Grow Mice Embryos in a Mechanical Womb](https://www.nytimes.com/2021/03/17/health/mice-artificial-uterus.html)
+- [Let there be more biographies of failures](https://commonreader.substack.com/p/let-there-be-more-biographies-of)
 - [Launch HN: Finley (YC W21) – Debt capital monitoring and reporting software](https://news.ycombinator.com/item?id=26492329)
-- [FreeBSD 13.0 – Full Desktop Experience](https://www.tubsta.com/2021/03/freebsd-13-0-full-desktop-experience/)
-- [Irish webapp to recreate pub atmosphere at home today](https://soundsofthepub.com/)
-- [Do not use redirection characters in your shell prompt](https://tanelpoder.com/posts/how-to-stay-safe-in-shell/)
-- [How to See S3 Bucket Storage Types and Storage Costs](https://www.vantage.sh/blog/how-to-see-s3-bucket-storage-types-and-storage-costs)
+- [Internet Archive ‘Legitimately Useful’ for Lending and Preservation](http://blog.archive.org/2021/03/17/author-and-open-source-advocate-vm-brasseur-internet-archive-legitimately-useful-for-lending-and-preservation-of-her-work/)
+- [Ask HN: What is the most complex concept you understand?](https://news.ycombinator.com/item?id=26492180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
