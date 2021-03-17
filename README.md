@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fight for Ethics in AI's Lossy Compression Problem](https://doxa.substack.com/p/googles-colosseum)
+- [Why in the World Would You Own Bonds?](https://www.bridgewater.com/research-and-insights/why-in-the-world-would-you-own-bonds-when)
+- [The Difficulties of SAML Single Logout](https://wiki.shibboleth.net/confluence/display/CONCEPT/SLOIssues)
 - [Lost in Thought: Psychological Risks of Meditation](https://harpers.org/archive/2021/04/lost-in-thought-psychological-risks-of-meditation/)
 - [GitHub Has a Permission Problem](https://games.greggman.com/game/github-permission-problem/)
-- [Show HN: O(log n) makes continuous profiling possible](https://github.com/pyroscope-io/pyroscope/blob/main/docs/storage-design.md)
-- [The auction that set off the race for AI supremacy](https://www.wired.com/story/secret-auction-race-ai-supremacy-google-microsoft-baidu/)
-- [Introducing the Wikimedia Enterprise API](https://diff.wikimedia.org/2021/03/16/introducing-the-wikimedia-enterprise-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
