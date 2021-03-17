@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Audacity 3.0](https://www.audacityteam.org/audacity-3-0-0-released/)
+- [Static website analytics with no JavaScript using GoAccess](https://blog.bitgate.cz/static-site-analytics-with-nginx-goaccess-no-js/)
 - [Zeus Living Is Hiring a Senior Product Designer to Build the Future of Rentals](https://jobs.lever.co/zeus/37f99a58-f1ea-413f-857b-7bd5efb285a8)
 - [Visa Plans to Enable Bitcoin Payments at 70M Merchants](https://www.btctimes.com/news/visa-plans-to-enable-bitcoin-purchases)
-- [Microsoft tried a 4-day workweek in Japan. Productivity jumped 40%](https://www.cnn.com/2019/11/04/tech/microsoft-japan-workweek-productivity/index.html)
-- [French watchdog rejects request to suspend Apple's App Tracking Transparency](https://www.thetelegram.com/business/reuters/french-watchdog-rejects-requests-to-suspend-apples-app-tracking-transparency-feature-564488/)
-- [The blast that shook the ionosphere](https://www.global.hokudai.ac.jp/blog/the-blast-that-shook-the-ionosphere/)
+- [Eclipse IDE 2021-03 is released](https://www.eclipse.org/eclipseide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
