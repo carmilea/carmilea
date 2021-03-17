@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The auction that set off the race for AI supremacy](https://www.wired.com/story/secret-auction-race-ai-supremacy-google-microsoft-baidu/)
 - [Introducing the Wikimedia Enterprise API](https://diff.wikimedia.org/2021/03/16/introducing-the-wikimedia-enterprise-api/)
-- [The Toxic Drama on YA Twitter (2017)](https://www.vulture.com/2017/08/the-toxic-drama-of-ya-twitter.html)
 - [Dover (YC S19) is hiring our first Growth Product Engineer](https://news.ycombinator.com/item?id=26482900)
 - [So You Want to Do an Infrastructure Package [pdf]](https://www.niskanencenter.org/wp-content/uploads/2021/03/levy-infastructure.pdf)
+- [Runj: Experimental, proof-of-concept OCI-compatible runtime for FreeBSD jails](https://github.com/samuelkarp/runj#runj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
