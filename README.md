@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Cloud Networking reporting issues](https://status.cloud.google.com/)
-- [Launch HN: Chums (YC W21) – Shop online with friends](https://news.ycombinator.com/item?id=26493938)
-- [Top Texas regulator ousted as recording emerges of pledge to protect Wall Street](https://www.houstonchronicle.com/politics/texas/article/Ouster-of-top-Texas-utility-regulator-follows-16031381.php)
-- [Circle Medical (YC S15) Is Hiring Growth Engineers in Montreal](https://jobs.lever.co/circlemedical/78723d6b-49fc-4bb5-911d-61d1ca20b6ea?lever-origin=applied&lever-source%5B%5D=HACKERNEWS)
-- [Writing Small CLI Programs in Common Lisp](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
+- [Video terminals at Slovenian Computer Museum: VT52/100/220/320/420/510 and more](https://www.racunalniski-muzej.si/?p=1198)
+- [AI Can Now Debate with Humans and Sometimes Convince Them, Too](https://www.scientificamerican.com/podcast/episode/ai-can-now-debate-with-humans-and-sometimes-convince-them-too/)
+- [The blast that shook the ionosphere](https://www.global.hokudai.ac.jp/blog/the-blast-that-shook-the-ionosphere/)
+- [Robust Soldier Crab Ball Gate [pdf]](http://wpmedia.wolfram.com/uploads/sites/13/2018/02/20-2-2.pdf)
+- [Charts.css](https://chartscss.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
