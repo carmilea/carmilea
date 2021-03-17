@@ -54,7 +54,7 @@
 - [Audi abandons combustion engine development](https://www.electrive.com/2021/03/16/audi-abandons-combustion-engine-development/)
 - [New SWAT drone smashes windows, opens doors, and negotiates with suspects](https://dronedj.com/2021/03/10/new-swat-drone-has-whirling-blade/)
 - [The Modern Java Platform](https://jamesward.com/2021/03/16/the-modern-java-platform-2021-edition/)
-- [Why in the World Would You Own Bonds?](https://www.bridgewater.com/research-and-insights/why-in-the-world-would-you-own-bonds-when)
+- [Why in the world would you own bonds?](https://www.bridgewater.com/research-and-insights/why-in-the-world-would-you-own-bonds-when)
 - [The Difficulties of SAML Single Logout](https://wiki.shibboleth.net/confluence/display/CONCEPT/SLOIssues)
 <!-- BLOG-POST-LIST:END -->
 
