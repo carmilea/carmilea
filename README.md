@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fight for Ethics in AI's Lossy Compression Problem](https://doxa.substack.com/p/googles-colosseum)
+- [Audi abandons combustion engine development](https://www.electrive.com/2021/03/16/audi-abandons-combustion-engine-development/)
+- [New SWAT drone smashes windows, opens doors, and negotiates with suspects](https://dronedj.com/2021/03/10/new-swat-drone-has-whirling-blade/)
+- [The Modern Java Platform](https://jamesward.com/2021/03/16/the-modern-java-platform-2021-edition/)
 - [Why in the World Would You Own Bonds?](https://www.bridgewater.com/research-and-insights/why-in-the-world-would-you-own-bonds-when)
 - [The Difficulties of SAML Single Logout](https://wiki.shibboleth.net/confluence/display/CONCEPT/SLOIssues)
-- [Lost in Thought: Psychological Risks of Meditation](https://harpers.org/archive/2021/04/lost-in-thought-psychological-risks-of-meditation/)
-- [GitHub Has a Permission Problem](https://games.greggman.com/game/github-permission-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
