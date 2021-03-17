@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lost in Thought: Psychological Risks of Meditation](https://harpers.org/archive/2021/04/lost-in-thought-psychological-risks-of-meditation/)
 - [GitHub Has a Permission Problem](https://games.greggman.com/game/github-permission-problem/)
 - [Show HN: O(log n) makes continuous profiling possible](https://github.com/pyroscope-io/pyroscope/blob/main/docs/storage-design.md)
 - [The auction that set off the race for AI supremacy](https://www.wired.com/story/secret-auction-race-ai-supremacy-google-microsoft-baidu/)
 - [Introducing the Wikimedia Enterprise API](https://diff.wikimedia.org/2021/03/16/introducing-the-wikimedia-enterprise-api/)
-- [Dover (YC S19) is hiring our first Growth Product Engineer](https://news.ycombinator.com/item?id=26482900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
