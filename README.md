@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s $4.7B Green Bond spend is helping to create 1.2 gigawatts of clean power](https://www.apple.com/newsroom/2021/03/apples-four-point-seven-billion-green-bond-spend-is-helping-to-create-one-point-two-gigawatts-of-clean-power/)
 - [Impraise (YC S14) Is Hiring a Lead Ruby Engineer](https://impraise.recruitee.com/o/lead-software-engineer)
 - [AstraZeneca vaccine doesn't prevent B1351 Covid in early trial](https://www.cidrap.umn.edu/news-perspective/2021/03/astrazeneca-vaccine-doesnt-prevent-b1351-covid-early-trial)
 - [Boosting developer success on Google Play](https://android-developers.googleblog.com/2021/03/boosting-dev-success.html)
-- [Audi abandons combustion engine development](https://www.electrive.com/2021/03/16/audi-abandons-combustion-engine-development/)
 - [The Modern Java Platform – 2021 Edition](https://jamesward.com/2021/03/16/the-modern-java-platform-2021-edition/)
 <!-- BLOG-POST-LIST:END -->
 
