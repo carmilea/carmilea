@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All 5000 Images in Beeple’s $69M Magnum Opus:What I Found Isn’t So Pretty](https://news.artnet.com/opinion/beeple-everydays-review-1951656)
 - [Focalboard – a self-hosted alternative to Trello, Notion, and Asana](https://www.focalboard.com/)
 - [Manim – an animation engine for explanatory math videos](https://3b1b.github.io/manim/index.html)
 - [Apple’s M1 processor and the full 128-bit integer product](https://lemire.me/blog/2021/03/17/apples-m1-processor-and-the-full-128-bit-integer-product/)
 - [Jello 3D Printer](https://spritesmods.com/?art=jello3dprinter)
-- [Learnlatex.org: A place to learn LaTeX online](https://www.learnlatex.org/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
