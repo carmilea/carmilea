@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube can now warn creators about copyright issues before videos are posted](https://www.theverge.com/2021/3/17/22335728/youtube-checks-monetization-copyright-claim-dispute-tool)
 - [Is Consciousness Everywhere?](https://thereader.mitpress.mit.edu/is-consciousness-everywhere/)
 - [JamRTC – WebRTC for Live Musicians](https://github.com/lminiero/jamrtc)
 - [Launch HN: Taloflow (YC W21) – Find the top cloud or dev tools for your use case](https://news.ycombinator.com/item?id=26504834)
 - [ReadMe (YC W15) Is Hiring a UI Engineer](https://readme.com/careers#ui-engineer)
-- [ShellCheck: A static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
