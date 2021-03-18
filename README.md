@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Project to recover XXDP, PDP-11's diagnostic OS](https://github.com/rust11/xxdp)
+- [Australia: Sex consent app proposal sparks backlash](https://www.bbc.co.uk/news/world-australia-56438560)
+- [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
 - [Reverse Engineering a Docker Image](https://theartofmachinery.com/2021/03/18/reverse_engineering_a_docker_image.html)
 - [Decentro (YC S20) Is Hiring Its Director of Engineering](https://www.workatastartup.com/jobs/41618)
-- [Reddit investors adopt 3,500 gorillas in six days](https://www.bbc.co.uk/news/business-56416954)
-- [We bootstrapped to $11M in ARR (Outside the Valley)](https://blog.thinkst.com/2021/03/we-bootstrapped-to-11-million-in-arr.html)
-- [Ghost Kernel](https://ghostkernel.org/news)
 <!-- BLOG-POST-LIST:END -->
 
 ---
