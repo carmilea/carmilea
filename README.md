@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blood Sisters: Menstrual Cups Help Keep Kenyan Girls in School](http://www.spiegel.de/international/tomorrow/blood-sisters-menstrual-cups-help-keep-kenyan-girls-in-school-a-1161016.html)
+- [Correct Git commits with git-autofixup](https://symflower.com/en/company/blog/2021/git-autofixup/)
 - [Project to recover XXDP, PDP-11's diagnostic OS](https://github.com/rust11/xxdp)
 - [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
 - [Reverse Engineering a Docker Image](https://theartofmachinery.com/2021/03/18/reverse_engineering_a_docker_image.html)
-- [Decentro (YC S20) Is Hiring Its Director of Engineering](https://www.workatastartup.com/jobs/41618)
-- [Reddit investors adopt 3,500 gorillas in six days](https://www.bbc.co.uk/news/business-56416954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
