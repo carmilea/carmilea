@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Norwegian experts say blood clots were caused by the AstraZeneca Covid vaccine](https://sciencenorway.no/covid19/norwegian-experts-say-deadly-blood-clots-were-caused-by-the-astrazeneca-covid-vaccine/1830510)
+- [What Happens When Our Faces Are Tracked Everywhere We Go?](https://www.nytimes.com/interactive/2021/03/18/magazine/facial-recognition-clearview-ai.html)
 - [Pachyderm (YC W15) is hiring a senior Python dev to own our Jupyter Integration](https://boards.greenhouse.io/pachyderm/jobs/4281816003)
 - [Launch HN: Chatwoot (YC W21) – Open-Source Alternative to Intercom, Zendesk](https://news.ycombinator.com/item?id=26501527)
-- [Unprivileged Chroot()](https://lwn.net/SubscriberLink/849125/c4422a7c318a5a17/)
-- [Bitwarden_rs: Unofficial Bitwarden compatible server written in Rust](https://github.com/dani-garcia/bitwarden_rs)
-- [Sad News: The End of Applets](https://www.infoq.com/news/2021/03/end-of-applets)
+- [Smart METL airless metal bike tires use a “shape memory alloy” for deformation](https://cyclingtips.com/2021/03/smart-metl-airless-metal-tires-are-designed-for-mars-and-your-bike/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
