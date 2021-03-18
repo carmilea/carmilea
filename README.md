@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Taloflow (YC W21) – Find the top cloud or dev tools for your use case](https://news.ycombinator.com/item?id=26504834)
+- [ReadMe (YC W15) Is Hiring a UI Engineer](https://readme.com/careers#ui-engineer)
+- [Interview with CEO of rsync.net: “no firewalls and no routers”](https://console.dev/qa/rsync-john-kozubik/)
 - [Outrun: Execute local command using processing power of another Linux machine](https://github.com/Overv/outrun#outrun)
-- [Show HN: LitiHolo – a desktop 3D hologram printer that makes true holograms](http://www.litiholo.com/3d-hologram-printer.html#3DHologramPrinterStory)
-- [Show HN: Sorted CSS Colors – Sort the named CSS colors in a nice way](https://enes.in/sorted-colors)
-- [Show HN: Obsidian - OTP Authenticator](https://obsidianapp.io/)
-- [Iberian Citadel of Calafell, Iron Age Village](https://www.atlasobscura.com/places/iberian-citadel-of-calafell)
+- [What’s up with these new not-open source licenses?](https://github.blog/2021-03-18-whats-up-with-these-new-not-open-source-licenses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
