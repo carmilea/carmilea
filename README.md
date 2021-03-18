@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Outrun: Execute local command using processing power of another Linux machine](https://github.com/Overv/outrun#outrun)
+- [Show HN: LitiHolo – a desktop 3D hologram printer that makes true holograms](http://www.litiholo.com/3d-hologram-printer.html#3DHologramPrinterStory)
+- [Show HN: Sorted CSS Colors – Sort the named CSS colors in a nice way](https://enes.in/sorted-colors)
+- [Show HN: Obsidian - OTP Authenticator](https://obsidianapp.io/)
 - [Iberian Citadel of Calafell, Iron Age Village](https://www.atlasobscura.com/places/iberian-citadel-of-calafell)
-- [Unironically Using Kubernetes for My Personal Blog](https://mbuffett.com/posts/kubernetes-setup/)
-- [Adventures in data-oriented design – Part 3b: Internal References](https://blog.molecular-matters.com/2013/05/17/adventures-in-data-oriented-design-part-3b-internal-references/)
-- [Sabine Schmitz, Queen of the Nürburgring, Has Died at 51](https://jalopnik.com/sabine-schmitz-queen-of-the-nurburgring-has-died-at-5-1846493434)
-- [Grabby Aliens](https://grabbyaliens.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
