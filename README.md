@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse Engineering a Docker Image](https://theartofmachinery.com/2021/03/18/reverse_engineering_a_docker_image.html)
 - [Decentro (YC S20) Is Hiring Its Director of Engineering](https://www.workatastartup.com/jobs/41618)
+- [Reddit investors adopt 3,500 gorillas in six days](https://www.bbc.co.uk/news/business-56416954)
 - [We bootstrapped to $11M in ARR (Outside the Valley)](https://blog.thinkst.com/2021/03/we-bootstrapped-to-11-million-in-arr.html)
 - [Ghost Kernel](https://ghostkernel.org/news)
-- [This. Isn’t. Sparta. (2019)](https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school/)
-- [All 5000 Images in Beeple’s $69M Magnum Opus:What I Found Isn’t So Pretty](https://news.artnet.com/opinion/beeple-everydays-review-1951656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
