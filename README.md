@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Consciousness Everywhere?](https://thereader.mitpress.mit.edu/is-consciousness-everywhere/)
+- [JamRTC – WebRTC for Live Musicians](https://github.com/lminiero/jamrtc)
 - [Launch HN: Taloflow (YC W21) – Find the top cloud or dev tools for your use case](https://news.ycombinator.com/item?id=26504834)
 - [ReadMe (YC W15) Is Hiring a UI Engineer](https://readme.com/careers#ui-engineer)
-- [Interview with CEO of rsync.net: “no firewalls and no routers”](https://console.dev/qa/rsync-john-kozubik/)
-- [Outrun: Execute local command using processing power of another Linux machine](https://github.com/Overv/outrun#outrun)
-- [What’s up with these new not-open source licenses?](https://github.blog/2021-03-18-whats-up-with-these-new-not-open-source-licenses/)
+- [ShellCheck: A static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
