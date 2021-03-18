@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Manim – an animation engine for explanatory math videos](https://3b1b.github.io/manim/index.html)
 - [Apple’s M1 processor and the full 128-bit integer product](https://lemire.me/blog/2021/03/17/apples-m1-processor-and-the-full-128-bit-integer-product/)
 - [Jello 3D Printer](https://spritesmods.com/?art=jello3dprinter)
 - [Learnlatex.org: A place to learn LaTeX online](https://www.learnlatex.org/en/)
 - [Audacity 3.0](https://www.audacityteam.org/audacity-3-0-0-released/)
-- [Static website analytics with no JavaScript using GoAccess](https://blog.bitgate.cz/static-site-analytics-with-nginx-goaccess-no-js/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
