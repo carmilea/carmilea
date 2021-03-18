@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iberian Citadel of Calafell, Iron Age Village](https://www.atlasobscura.com/places/iberian-citadel-of-calafell)
+- [Unironically Using Kubernetes for My Personal Blog](https://mbuffett.com/posts/kubernetes-setup/)
 - [Adventures in data-oriented design – Part 3b: Internal References](https://blog.molecular-matters.com/2013/05/17/adventures-in-data-oriented-design-part-3b-internal-references/)
 - [Sabine Schmitz, Queen of the Nürburgring, Has Died at 51](https://jalopnik.com/sabine-schmitz-queen-of-the-nurburgring-has-died-at-5-1846493434)
 - [Grabby Aliens](https://grabbyaliens.com/)
-- [Norwegian experts say blood clots were caused by the AstraZeneca Covid vaccine](https://sciencenorway.no/covid19/norwegian-experts-say-deadly-blood-clots-were-caused-by-the-astrazeneca-covid-vaccine/1830510)
-- [What Happens When Our Faces Are Tracked Everywhere We Go?](https://www.nytimes.com/interactive/2021/03/18/magazine/facial-recognition-clearview-ai.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
