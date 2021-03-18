@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blood Sisters: Menstrual Cups Help Keep Kenyan Girls in School](http://www.spiegel.de/international/tomorrow/blood-sisters-menstrual-cups-help-keep-kenyan-girls-in-school-a-1161016.html)
-- [Correct Git commits with git-autofixup](https://symflower.com/en/company/blog/2021/git-autofixup/)
-- [Project to recover XXDP, PDP-11's diagnostic OS](https://github.com/rust11/xxdp)
-- [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
-- [Reverse Engineering a Docker Image](https://theartofmachinery.com/2021/03/18/reverse_engineering_a_docker_image.html)
+- [Pachyderm (YC W15) is hiring a senior Python dev to own our Jupyter Integration](https://boards.greenhouse.io/pachyderm/jobs/4281816003)
+- [Launch HN: Chatwoot (YC W21) – Open-Source Alternative to Intercom, Zendesk](https://news.ycombinator.com/item?id=26501527)
+- [Unprivileged Chroot()](https://lwn.net/SubscriberLink/849125/c4422a7c318a5a17/)
+- [Bitwarden_rs: Unofficial Bitwarden compatible server written in Rust](https://github.com/dani-garcia/bitwarden_rs)
+- [Sad News: The End of Applets](https://www.infoq.com/news/2021/03/end-of-applets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
