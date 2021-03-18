@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [We bootstrapped to $11M in ARR (Outside the Valley)](https://blog.thinkst.com/2021/03/we-bootstrapped-to-11-million-in-arr.html)
 - [Ghost Kernel](https://ghostkernel.org/news)
-- [Why Substack's scam worked so well](https://thehypothesis.substack.com/p/heres-why-substacks-scam-worked-so)
 - [This. Isn’t. Sparta. (2019)](https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school/)
 - [All 5000 Images in Beeple’s $69M Magnum Opus:What I Found Isn’t So Pretty](https://news.artnet.com/opinion/beeple-everydays-review-1951656)
+- [Focalboard – a self-hosted alternative to Trello, Notion, and Asana](https://www.focalboard.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
