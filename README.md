@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Government Finally Gets Serious About IoT Security](https://spectrum.ieee.org/telecom/wireless/the-us-government-finally-gets-serious-about-iot-security)
-- [All Futurama Opening Quotes](https://theabbie.github.io/blog/All-Futurama-Opening-Quotes)
-- [Show HN: A Directory of Personal Blogs](https://blogsurf.io)
-- [Reality as a Vector in Hilbert Space](https://arxiv.org/abs/2103.09780)
-- [YouTube can now warn creators about copyright issues before videos are posted](https://www.theverge.com/2021/3/17/22335728/youtube-checks-monetization-copyright-claim-dispute-tool)
+- [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack developer](https://onesignal.com/careers/cb3e1383-d52c-43e8-8e7b-b49cbadafc85)
+- [WireGuard Removed from pfSense](https://www.netgate.com/blog/wireguard-removed-from-pfsense-ce-and-pfsense-plus-software.html)
+- [Morning Brew went from college newsletter to $75M in 5 years](https://www.businessofbusiness.com/videos/austin-rief-how-morning-brew-went-from-college-newsletter-to-75-million/)
+- [Show HN: Inventhub – Electronics product design collaboration platform](https://inventhub.io)
+- [Show HN: SpectaQL – auto-generate GraphQL API documentation](https://github.com/anvilco/spectaql#spectaql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
