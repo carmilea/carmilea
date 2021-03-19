@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tracing the Sprawling Roots of Flash Preservation](https://www.vice.com/en/article/wx8y5y/tracing-the-sprawling-roots-of-flash-preservation)
 - [The reason the local mall is failing (2018)](https://www.strongtowns.org/journal/2018/4/23/bon-ton-gone)
+- [America’s Covid Swab Supply Depends on Two Cousins Who Hate Each Other](https://www.bloomberg.com/news/features/2021-03-18/covid-test-swab-company-puritan-faces-family-feud)
 - [She Came to the US to Study with Only $300 – Now She’s a NASA Director](https://www.goodnewsnetwork.org/diana-trujillo-nasa-role-model-mars)
 - [Spain: Parliament passes law legalizing assisted suicide](https://www.dw.com/en/spain-parliament-passes-law-legalizing-assisted-suicide/a-56914713)
-- [6502 SpASM (6502 Spreadsheet Assembler and Linker)](https://github.com/tilleul/apple2/tree/master/tools/6502_assembler)
-- [MOnSter 6502](https://monster6502.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
