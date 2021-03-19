@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker for Mac M1 RC](https://docs.docker.com/docker-for-mac/apple-m1/)
+- [Incredible 256 Byte C64 Demo: “A Mind Is Born”](https://linusakesson.net/scene/a-mind-is-born/)
 - [The biggest threat to Rust's sustainability](https://kerkour.com/blog/the-biggest-threat-to-rust-sustainability/)
-- [“Expert” hackers used 11 zerodays to infect Windows, iOS, and Android users](https://arstechnica.com/information-technology/2021/03/expert-hackers-used-11-zerodays-to-infect-windows-ios-and-android-users/)
-- [Stuff Your Logs](https://pvk.ca/Blog/2021/01/11/stuff-your-logs/)
-- [Clothing, How Did They Make It? Part III: Spin Me Right Round](https://acoup.blog/2021/03/19/collections-clothing-how-did-they-make-it-part-iii-spin-me-right-round/)
-- [The true villain of Disney’s Frozen (2019)](https://pixelatedgeek.com/2019/12/the-secret-villains-of-the-original-frozen-movie/)
+- [Engineer Converts Used Van into Mobile Laundromat, Offers Free Loads to Homeless](https://www.nbcbayarea.com/news/local/apple-engineer-converts-used-van-into-mobile-laundromat-offers-free-loads-to-homeless/46829/)
+- [Hackers used zerodays to infect Windows, iOS, and Android users](https://arstechnica.com/information-technology/2021/03/expert-hackers-used-11-zerodays-to-infect-windows-ios-and-android-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
