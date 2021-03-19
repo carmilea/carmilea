@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp Down in Some Regions](https://xn--allestrungen-9ib.de/stoerung/whatsapp/)
+- [Hacker's Guide to Numerical Analysis](http://bollu.github.io/a-hackers-guide-to-numerical-analysis.html)
 - [Mux (YC W16) is hiring devs to empower other devs with mobile SDKs](https://mux.com/jobs?hnj=mobile)
 - [Justice Department Investigating Visa over Debit-Card Practices](https://www.wsj.com/articles/justice-department-investigating-visa-over-debit-card-practices-11616164525)
 - [Wrecking sandwich traders for fun and profit](https://github.com/Defi-Cartel/salmonella)
-- [What I wish I knew before building a Shopify App](https://ma.ttias.ch/what-i-wish-i-knew-before-building-a-shopify-app.html)
-- [In a Phase III trial, Proxalutamide reduced mortality of Covid patients](https://www.europeanpharmaceuticalreview.com/news/147167/proxalutamide-reduces-covid-19-mortality-risk-by-92-percent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
