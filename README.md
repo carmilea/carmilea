@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The biggest threat to Rust's sustainability](https://kerkour.com/blog/the-biggest-threat-to-rust-sustainability/)
+- [“Expert” hackers used 11 zerodays to infect Windows, iOS, and Android users](https://arstechnica.com/information-technology/2021/03/expert-hackers-used-11-zerodays-to-infect-windows-ios-and-android-users/)
 - [Stuff Your Logs](https://pvk.ca/Blog/2021/01/11/stuff-your-logs/)
+- [Clothing, How Did They Make It? Part III: Spin Me Right Round](https://acoup.blog/2021/03/19/collections-clothing-how-did-they-make-it-part-iii-spin-me-right-round/)
 - [The true villain of Disney’s Frozen (2019)](https://pixelatedgeek.com/2019/12/the-secret-villains-of-the-original-frozen-movie/)
-- [Tracing the Sprawling Roots of Flash Preservation](https://www.vice.com/en/article/wx8y5y/tracing-the-sprawling-roots-of-flash-preservation)
-- [Go Statement Considered Harmful (2018)](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
-- [6502 SpASM (6502 Spreadsheet Assembler and Linker)](https://github.com/tilleul/apple2/tree/master/tools/6502_assembler)
 <!-- BLOG-POST-LIST:END -->
 
 ---
