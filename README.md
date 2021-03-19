@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beware of Books A new moralism is gripping the literary world](https://www.persuasion.community/p/beware-of-books)
-- [Sensible macOS Defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
-- [Young female Japanese biker is 50-year-old man using FaceApp](https://mothership.sg/2021/03/japanese-biker-actually-man/)
-- [Launch HN: Stacksi (YC W21) – Doing Security Questionnaires, So Your Team Isn't](https://news.ycombinator.com/item?id=26513040)
-- [Twitter: Calling for public input on our approach to world leaders](https://blog.twitter.com/en_us/topics/company/2021/calling-for-public-input-on-our-approach-to-world-leaders.html)
+- [Wrecking sandwich traders for fun and profit](https://github.com/Defi-Cartel/salmonella)
+- [What I wish I knew before building a Shopify App](https://ma.ttias.ch/what-i-wish-i-knew-before-building-a-shopify-app.html)
+- [Great SaaS Demos Enabled by DevOps Tools](https://releasehub.com/blog/great-saas-sales-demos)
+- [Duke Nukem 3D Mirror Universe](https://twitter.com/Foone/status/1372766463556083715)
+- [Mathias Bynens' Sensible macOS Defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
