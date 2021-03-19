@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse (YC W12) Is Hiring a Senior Front-End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer)
+- [Egypt prepares to start move to new capital, away from the chaos of Cairo](https://www.reuters.com/article/us-egypt-new-capital/egypt-prepares-to-start-move-to-new-capital-away-from-the-chaos-of-cairo-idUSKBN2B91X3)
+- [Cookie Consent Speed Running Game](https://cookieconsentspeed.run)
 - [Spain passes law allowing euthanasia](https://www.bbc.co.uk/news/world-europe-56446631)
 - [Docker for Mac M1 RC](https://docs.docker.com/docker-for-mac/apple-m1/)
-- [Incredible 256 Byte C64 Demo: “A Mind Is Born” (2017)](https://linusakesson.net/scene/a-mind-is-born/)
-- [The biggest threat to Rust's sustainability](https://kerkour.com/blog/the-biggest-threat-to-rust-sustainability/)
-- [Engineer Converts Used Van into Mobile Laundromat, Offers Free Loads to Homeless](https://www.nbcbayarea.com/news/local/apple-engineer-converts-used-van-into-mobile-laundromat-offers-free-loads-to-homeless/46829/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
