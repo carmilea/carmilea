@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tracing the Sprawling Roots of Flash Preservation](https://www.vice.com/en/article/wx8y5y/tracing-the-sprawling-roots-of-flash-preservation)
+- [Go Statement Considered Harmful (2018)](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
 - [The reason the local mall is failing (2018)](https://www.strongtowns.org/journal/2018/4/23/bon-ton-gone)
-- [America’s Covid Swab Supply Depends on Two Cousins Who Hate Each Other](https://www.bloomberg.com/news/features/2021-03-18/covid-test-swab-company-puritan-faces-family-feud)
-- [She Came to the US to Study with Only $300 – Now She’s a NASA Director](https://www.goodnewsnetwork.org/diana-trujillo-nasa-role-model-mars)
+- [Covid test swap company Puritan faces family feud](https://www.bloomberg.com/news/features/2021-03-18/covid-test-swab-company-puritan-faces-family-feud)
 - [6502 SpASM (6502 Spreadsheet Assembler and Linker)](https://github.com/tilleul/apple2/tree/master/tools/6502_assembler)
 <!-- BLOG-POST-LIST:END -->
 
