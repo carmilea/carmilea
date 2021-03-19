@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter: Calling for public input on our approach to world leaders](https://blog.twitter.com/en_us/topics/company/2021/calling-for-public-input-on-our-approach-to-world-leaders.html)
+- [The kernel has 6 separate ASN.1 parsers](https://twitter.com/EdgeSecurity/status/905476292719542272)
 - [The Muse (YC W12) Is Hiring a Senior Front-End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer)
+- [Out of prison after 30 years and people telling him to find forms on the web](https://twitter.com/_MariaBurnett/status/1369330209036632068)
 - [Egypt prepares to start move to new capital, away from the chaos of Cairo](https://www.reuters.com/article/us-egypt-new-capital/egypt-prepares-to-start-move-to-new-capital-away-from-the-chaos-of-cairo-idUSKBN2B91X3)
-- [Cookie Consent Speed Running Game](https://cookieconsentspeed.run)
-- [Spain passes law allowing euthanasia](https://www.bbc.co.uk/news/world-europe-56446631)
-- [Docker for Mac M1 RC](https://docs.docker.com/docker-for-mac/apple-m1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
