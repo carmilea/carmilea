@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Greenwald: Yesterday Journalists Spread a Significant Lie All over Twitter](https://greenwald.substack.com/p/journalists-illustrating-how-they)
+- [The reason the local mall is failing (2018)](https://www.strongtowns.org/journal/2018/4/23/bon-ton-gone)
 - [She Came to the US to Study with Only $300 – Now She’s a NASA Director](https://www.goodnewsnetwork.org/diana-trujillo-nasa-role-model-mars)
 - [Spain: Parliament passes law legalizing assisted suicide](https://www.dw.com/en/spain-parliament-passes-law-legalizing-assisted-suicide/a-56914713)
 - [6502 SpASM (6502 Spreadsheet Assembler and Linker)](https://github.com/tilleul/apple2/tree/master/tools/6502_assembler)
