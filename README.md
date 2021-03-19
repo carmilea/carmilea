@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mux (YC W16) is hiring devs to empower other devs with mobile SDKs](https://mux.com/jobs?hnj=mobile)
+- [Justice Department Investigating Visa over Debit-Card Practices](https://www.wsj.com/articles/justice-department-investigating-visa-over-debit-card-practices-11616164525)
 - [Wrecking sandwich traders for fun and profit](https://github.com/Defi-Cartel/salmonella)
 - [What I wish I knew before building a Shopify App](https://ma.ttias.ch/what-i-wish-i-knew-before-building-a-shopify-app.html)
-- [Great SaaS Demos Enabled by DevOps Tools](https://releasehub.com/blog/great-saas-sales-demos)
-- [Duke Nukem 3D Mirror Universe](https://twitter.com/Foone/status/1372766463556083715)
-- [Mathias Bynens' Sensible macOS Defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
+- [In a Phase III trial, Proxalutamide reduced mortality of Covid patients](https://www.europeanpharmaceuticalreview.com/news/147167/proxalutamide-reduces-covid-19-mortality-risk-by-92-percent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
