@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK police warn students to avoid science website](https://www.bbc.co.uk/news/education-56462390)
+- [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
 - [Photovoltaic retinal prosthesis restores high-resolution responses](https://www.nature.com/articles/s43246-021-00133-2)
-- [Twitter: Imperfect by Design](https://blog.twitter.com/en_us/topics/company/2021/imperfect-by-design.html)
+- [System Shock](https://www.filfre.net/2021/03/system-shock/)
 - [Hacker's Guide to Numerical Analysis](http://bollu.github.io/a-hackers-guide-to-numerical-analysis.html)
-- [Mux (YC W16) is hiring devs to empower other devs with mobile SDKs](https://mux.com/jobs?hnj=mobile)
-- [Justice Department Investigating Visa over Debit-Card Practices](https://www.wsj.com/articles/justice-department-investigating-visa-over-debit-card-practices-11616164525)
 <!-- BLOG-POST-LIST:END -->
 
 ---
