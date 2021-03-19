@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Serial robot vs. Parallel robot (This is not CGI) [video]](https://www.youtube.com/watch?v=3fbmguBgVPA)
+- [Beware of Books A new moralism is gripping the literary world](https://www.persuasion.community/p/beware-of-books)
+- [Sensible macOS Defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
+- [Young female Japanese biker is 50-year-old man using FaceApp](https://mothership.sg/2021/03/japanese-biker-actually-man/)
 - [Launch HN: Stacksi (YC W21) – Doing Security Questionnaires, So Your Team Isn't](https://news.ycombinator.com/item?id=26513040)
 - [Twitter: Calling for public input on our approach to world leaders](https://blog.twitter.com/en_us/topics/company/2021/calling-for-public-input-on-our-approach-to-world-leaders.html)
-- [The Art of Warez Documents the Lost ANSI Art Scene](https://www.juxtapoz.com/news/film/the-art-of-warez-documents-the-lost-ansi-art-scene/)
-- [Xbar: The BitBar reboot. Put anything in your macOS menu bar](https://xbarapp.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
