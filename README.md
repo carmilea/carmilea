@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Students defrauded by for-profit schools to receive loan forgiveness](https://www.axios.com/defrauded-students-loan-forgiveness-for-profit-colleges-707774cd-8f7e-4c06-9a92-1902dd170b97.html)
 - [Click](https://clickclickclick.click/)
 - [Cranelift, Part 3: Correctness in Register Allocation](https://cfallin.org/blog/2021/03/15/cranelift-isel-3/)
 - [PinePhone Beta](https://www.pine64.org/2021/03/19/beta-edition-pre-orders/)
 - [Caper (YC W16) Is Looking for a COO](https://recruiterflow.com/caper/jobs/73)
+- [Comp.programming.threads FAQ (2001)](https://danluu.com/threads-faq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
