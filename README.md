@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Serial robot vs. Parallel robot (This is not CGI) [video]](https://www.youtube.com/watch?v=3fbmguBgVPA)
+- [Launch HN: Stacksi (YC W21) – Doing Security Questionnaires, So Your Team Isn't](https://news.ycombinator.com/item?id=26513040)
 - [Twitter: Calling for public input on our approach to world leaders](https://blog.twitter.com/en_us/topics/company/2021/calling-for-public-input-on-our-approach-to-world-leaders.html)
-- [The kernel has 6 separate ASN.1 parsers](https://twitter.com/EdgeSecurity/status/905476292719542272)
-- [The Muse (YC W12) Is Hiring a Senior Front-End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer)
-- [Out of prison after 30 years and people telling him to find forms on the web](https://twitter.com/_MariaBurnett/status/1369330209036632068)
-- [Egypt prepares to start move to new capital, away from the chaos of Cairo](https://www.reuters.com/article/us-egypt-new-capital/egypt-prepares-to-start-move-to-new-capital-away-from-the-chaos-of-cairo-idUSKBN2B91X3)
+- [The Art of Warez Documents the Lost ANSI Art Scene](https://www.juxtapoz.com/news/film/the-art-of-warez-documents-the-lost-ansi-art-scene/)
+- [Xbar: The BitBar reboot. Put anything in your macOS menu bar](https://xbarapp.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
