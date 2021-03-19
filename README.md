@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK police warn students to avoid science website](https://www.bbc.co.uk/news/education-56462390)
+- [Caper (YC W16) Is Looking for a COO](https://recruiterflow.com/caper/jobs/73)
+- [Comp.programming.threads FAQ (2001)](https://danluu.com/threads-faq/)
+- [Scientist behind Covid-19 mRNA vaccine says her team's next target is cancer](https://www.cbc.ca/news/health/covid-19-scientist-mrna-cancer-1.5956150)
 - [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
 - [Photovoltaic retinal prosthesis restores high-resolution responses](https://www.nature.com/articles/s43246-021-00133-2)
-- [System Shock](https://www.filfre.net/2021/03/system-shock/)
-- [Hacker's Guide to Numerical Analysis](http://bollu.github.io/a-hackers-guide-to-numerical-analysis.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
