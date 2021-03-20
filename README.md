@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [Identify a Remarkable Trait in Anyone. Then Either Copy or Avoid It](https://knowledgeartist.org/article/identify-remarkable-trait-learn)
+- [The Transformer Network for the Traveling Salesman Problem](https://arxiv.org/abs/2103.03012)
+- [My self-study plan for electrical engineering](https://i-kh.net/2021/03/20/electrical-engineering-study-plan/)
 - [SubX: A minimalist assembly language for a subset of the x86 ISA](https://www.mdeditor.tw/pl/2ZsX)
-- [Glacial – microcoded RISC-V core designed for low FPGA resource utilization](https://github.com/brouhaha/glacial)
-- [How to Study Mathematics (2017)](https://www.math.uh.edu/~dblecher/pf2.html)
-- [Speeding up SQL queries by orders of magnitude using UNION](https://www.foxhound.systems/blog/sql-performance-with-union/)
-- [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
