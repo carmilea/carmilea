@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cherokee Numerals](https://thereader.mitpress.mit.edu/sequoyah-and-the-almost-forgotten-history-of-cherokee-numerals/)
 - [Misunderstanding Malthus’ mistake](https://andrewbatson.com/2021/03/16/misunderstanding-malthus-mistake/)
 - [DeepSource (YC W20) Is Hiring a Technical Lead (Language Engineering)](https://deepsource.io/jobs/technical-lead-language-in/)
-- [New Intel “backdoor” – undocumented x86 instruction to alter microcode](https://twitter.com/_markel___/status/1373059797155778562)
+- [Undocumented x86 instructions in Intel CPUs that can modify microcode](https://twitter.com/_markel___/status/1373059797155778562)
 - [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/)
-- [Click](https://clickclickclick.click/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
