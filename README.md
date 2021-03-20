@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Demoscene accepted as UNESCO cultural heritage in Germany](http://demoscene-the-art-of-coding.net/2021/03/20/demoscene-accepted-as-unesco-cultural-heritage-in-germany/)
-- [Resquared (YC W21) Is Hiring a Lead Product Designer](https://www.ycombinator.com/companies/22996/jobs/aJghsns-lead-product-designer)
-- [Mouse plague grows to biblical proportions across eastern Australia](https://www.theguardian.com/australia-news/2021/mar/19/you-cant-escape-the-smell-mouse-plague-grows-to-biblical-proportions-across-eastern-australia)
-- [Nobody designs for small iPhone devices anymore](https://lwgmnz.me/2021/03/20/nobody-designs-for-small-iphone-devices-anymore/)
-- [“Click” creators: it’s getting harder for small studios to compete with big tech](https://www.itsnicethat.com/features/studio-moniker-digital-060520)
+- [Launch HN: Kanda (YC W21) – Let tradespeople offer finance to their customers](https://news.ycombinator.com/item?id=26523646)
+- [Cistercian Numerals](https://en.wikipedia.org/wiki/Cistercian_numerals#:~:text=The%20medieval%20Cistercian%20numerals,%20or,were%20introduced%20to%20northwestern%20Europe)
+- [Bitcoin Blackhole Effect](https://www.bitrawr.com/the-bitcoin-blackhole-effect)
+- [Learning Machine Learning for Game Development](http://ai.googleblog.com/2021/03/leveraging-machine-learning-for-game.html)
+- [ZPL: (Almost) C99 Powerkit](https://github.com/zpl-c/zpl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
