@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla orders its first 8k-ton Cybertruck Giga Casting machine](https://www.teslaoracle.com/2021/03/20/tesla-orders-its-first-8000-ton-cybertruck-giga-casting-machine/)
-- [CVE-2021-27135: xterm flaw may allow remote code execution, CVSS 9.6](https://nvd.nist.gov/vuln/detail/CVE-2021-27135)
+- [SubX: A minimalist assembly language for a subset of the x86 ISA](https://www.mdeditor.tw/pl/2ZsX)
+- [Glacial – microcoded RISC-V core designed for low FPGA resource utilization](https://github.com/brouhaha/glacial)
+- [How to Study Mathematics (2017)](https://www.math.uh.edu/~dblecher/pf2.html)
+- [Speeding up SQL queries by orders of magnitude using UNION](https://www.foxhound.systems/blog/sql-performance-with-union/)
 - [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [Ask HN: How to build empathy?](https://news.ycombinator.com/item?id=26523816)
-- [Launch HN: Kanda (YC W21) – Let tradespeople offer finance to their customers](https://news.ycombinator.com/item?id=26523646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
