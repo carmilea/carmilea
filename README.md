@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Police warn students to avoid science website](https://www.bbc.com/news/education-56462390)
+- [Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image](https://infinite-nature.github.io/)
+- [Nowruz](https://en.wikipedia.org/wiki/Nowruz)
 - [Dance Tonite](https://tonite.dance/)
 - [Skylab: The Myth of the Mutiny in Space](https://www.bbc.co.uk/news/stories-56346001)
-- [Georgian African American newspapers from 1886-1926 now available freely online](https://blog.dlg.galileo.usg.edu/?p=7751%0A)
-- [A Guide to Writing Mathematics [pdf]](https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf)
-- [Cherokee Numerals](https://thereader.mitpress.mit.edu/sequoyah-and-the-almost-forgotten-history-of-cherokee-numerals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
