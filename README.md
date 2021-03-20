@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Cherokee Numerals](https://thereader.mitpress.mit.edu/sequoyah-and-the-almost-forgotten-history-of-cherokee-numerals/)
 - [Misunderstanding Malthus’ mistake](https://andrewbatson.com/2021/03/16/misunderstanding-malthus-mistake/)
+- [CFTC Orders Coinbase Inc. To Pay $6.5M Penalty](https://www.cftc.gov/PressRoom/PressReleases/8369-21)
+- [Safari is now probably the influential wild card browser for user privacy](https://utcc.utoronto.ca/~cks/space/blog/web/SafariUserPrivacyWildcard)
 - [DeepSource (YC W20) Is Hiring a Technical Lead (Language Engineering)](https://deepsource.io/jobs/technical-lead-language-in/)
-- [Undocumented x86 instructions in Intel CPUs that can modify microcode](https://twitter.com/_markel___/status/1373059797155778562)
-- [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
