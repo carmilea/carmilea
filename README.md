@@ -54,8 +54,8 @@
 - [Tesla orders its first 8k-ton Cybertruck Giga Casting machine](https://www.teslaoracle.com/2021/03/20/tesla-orders-its-first-8000-ton-cybertruck-giga-casting-machine/)
 - [CVE-2021-27135: xterm flaw may allow remote code execution, CVSS 9.6](https://nvd.nist.gov/vuln/detail/CVE-2021-27135)
 - [Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [AMD refuses to limit cryptocurrency mining: We will not be blocking any workload](https://www.pcgamer.com/amd-cryptocurrency-mining-limiter-ethereum/)
 - [Ask HN: How to build empathy?](https://news.ycombinator.com/item?id=26523816)
+- [Launch HN: Kanda (YC W21) – Let tradespeople offer finance to their customers](https://news.ycombinator.com/item?id=26523646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
