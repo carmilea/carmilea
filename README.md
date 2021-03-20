@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Police warn students to avoid science website](https://www.bbc.com/news/education-56462390)
+- [Young Goldman Sachs bankers ask for 80-hour week cap](https://www.bbc.com/news/business-56452494)
 - [Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image](https://infinite-nature.github.io/)
+- [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://nvlabs.github.io/face-vid2vid/)
 - [Nowruz](https://en.wikipedia.org/wiki/Nowruz)
-- [Dance Tonite](https://tonite.dance/)
-- [Skylab: The Myth of the Mutiny in Space](https://www.bbc.co.uk/news/stories-56346001)
 <!-- BLOG-POST-LIST:END -->
 
 ---
