@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Demoscene accepted as UNESCO cultural heritage in Germany](http://demoscene-the-art-of-coding.net/2021/03/20/demoscene-accepted-as-unesco-cultural-heritage-in-germany/)
 - [Resquared (YC W21) Is Hiring a Lead Product Designer](https://www.ycombinator.com/companies/22996/jobs/aJghsns-lead-product-designer)
+- [Mouse plague grows to Biblical proportions across eastern Australia](https://www.theguardian.com/australia-news/2021/mar/19/you-cant-escape-the-smell-mouse-plague-grows-to-biblical-proportions-across-eastern-australia)
 - [Nobody designs for small iPhone devices anymore](https://lwgmnz.me/2021/03/20/nobody-designs-for-small-iphone-devices-anymore/)
 - [Here's How Bored Rich People Are Spending Their Extra Cash](https://www.nytimes.com/2021/03/20/style/spending-rich-people.html)
-- [The Secret of Nanda Devi](https://rockandice.com/snowball/the-secret-of-nanda-devi/)
-- [Young Goldman Sachs bankers ask for 80-hour week cap](https://www.bbc.com/news/business-56452494)
 <!-- BLOG-POST-LIST:END -->
 
 ---
