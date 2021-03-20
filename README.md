@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CFTC Orders Coinbase Inc. To Pay $6.5M Penalty](https://www.cftc.gov/PressRoom/PressReleases/8369-21)
+- [Safari is now probably the influential wild card browser for user privacy](https://utcc.utoronto.ca/~cks/space/blog/web/SafariUserPrivacyWildcard)
+- [DeepSource (YC W20) Is Hiring a Technical Lead (Language Engineering)](https://deepsource.io/jobs/technical-lead-language-in/)
+- [New Intel “backdoor” – undocumented x86 instruction to alter microcode](https://twitter.com/_markel___/status/1373059797155778562)
 - [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/)
-- [Tesla's “full self driving” beta is potentially dangerous](https://www.roadandtrack.com/news/a35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/)
-- [Click](https://clickclickclick.click/)
-- [Cranelift, Part 3: Correctness in Register Allocation](https://cfallin.org/blog/2021/03/15/cranelift-isel-3/)
-- [Caper (YC W16) Is Looking for a COO](https://recruiterflow.com/caper/jobs/73)
 <!-- BLOG-POST-LIST:END -->
 
 ---
