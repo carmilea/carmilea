@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Malfrats/xeuledoc: Fetch information about a public Google document](https://github.com/Malfrats/xeuledoc)
 - [VUW Accidentally Wipes Desktop Computers](https://www.critic.co.nz/news/article/9182/vuw-accidentally-wipes-desktop-computers)
-- [CEO Secrets: 'I employ 1,200 people and have no HR department'](https://www.bbc.com/news/av/business-56130189)
+- [Redux Alternative](https://taverne.surge.sh/)
+- [AARD Code, or how Bill Gates finished off the competition](https://www.zapread.com/Post/Detail/7735/aard-code-or-how-bill-gates-finished-off-the-competition/)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [Identify a remarkable trait in anyone, then either copy or avoid it](https://knowledgeartist.org/article/identify-remarkable-trait-learn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
