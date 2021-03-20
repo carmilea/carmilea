@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Cherokee Numerals](https://thereader.mitpress.mit.edu/sequoyah-and-the-almost-forgotten-history-of-cherokee-numerals/)
 - [My Dad Published Lolita](https://lithub.com/how-would-the-publishing-world-respond-to-lolita-today/)
+- [Fantasy and the Buffered Self (2014)](https://www.thenewatlantis.com/publications/fantasy-and-the-buffered-self)
 - [Misunderstanding Malthus’ mistake](https://andrewbatson.com/2021/03/16/misunderstanding-malthus-mistake/)
 - [CFTC Orders Coinbase Inc. To Pay $6.5M Penalty](https://www.cftc.gov/PressRoom/PressReleases/8369-21)
-- [Safari is now probably the influential wild card browser for user privacy](https://utcc.utoronto.ca/~cks/space/blog/web/SafariUserPrivacyWildcard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
