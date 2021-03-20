@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Demoscene accepted as UNESCO cultural heritage in Germany](http://demoscene-the-art-of-coding.net/2021/03/20/demoscene-accepted-as-unesco-cultural-heritage-in-germany/)
 - [Resquared (YC W21) Is Hiring a Lead Product Designer](https://www.ycombinator.com/companies/22996/jobs/aJghsns-lead-product-designer)
-- [Mouse plague grows to Biblical proportions across eastern Australia](https://www.theguardian.com/australia-news/2021/mar/19/you-cant-escape-the-smell-mouse-plague-grows-to-biblical-proportions-across-eastern-australia)
+- [Mouse plague grows to biblical proportions across eastern Australia](https://www.theguardian.com/australia-news/2021/mar/19/you-cant-escape-the-smell-mouse-plague-grows-to-biblical-proportions-across-eastern-australia)
 - [Nobody designs for small iPhone devices anymore](https://lwgmnz.me/2021/03/20/nobody-designs-for-small-iphone-devices-anymore/)
-- [Here's How Bored Rich People Are Spending Their Extra Cash](https://www.nytimes.com/2021/03/20/style/spending-rich-people.html)
+- [“Click” creators: it’s getting harder for small studios to compete with big tech](https://www.itsnicethat.com/features/studio-moniker-digital-060520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
