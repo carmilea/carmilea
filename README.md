@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dance Tonite](https://tonite.dance/)
 - [Skylab: The Myth of the Mutiny in Space](https://www.bbc.co.uk/news/stories-56346001)
+- [Georgian African American newspapers from 1886-1926 now available freely online](https://blog.dlg.galileo.usg.edu/?p=7751%0A)
 - [A Guide to Writing Mathematics [pdf]](https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf)
 - [Cherokee Numerals](https://thereader.mitpress.mit.edu/sequoyah-and-the-almost-forgotten-history-of-cherokee-numerals/)
-- [My Dad Published Lolita](https://lithub.com/how-would-the-publishing-world-respond-to-lolita-today/)
-- [Amazon S3 Object Lambda](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
