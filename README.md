@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Police warn students to avoid science website](https://www.bbc.com/news/education-56462390)
+- [Resquared (YC W21) Is Hiring a Lead Product Designer](https://www.ycombinator.com/companies/22996/jobs/aJghsns-lead-product-designer)
+- [Nobody designs for small iPhone devices anymore](https://lwgmnz.me/2021/03/20/nobody-designs-for-small-iphone-devices-anymore/)
+- [Here's How Bored Rich People Are Spending Their Extra Cash](https://www.nytimes.com/2021/03/20/style/spending-rich-people.html)
+- [The Secret of Nanda Devi](https://rockandice.com/snowball/the-secret-of-nanda-devi/)
 - [Young Goldman Sachs bankers ask for 80-hour week cap](https://www.bbc.com/news/business-56452494)
-- [Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image](https://infinite-nature.github.io/)
-- [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://nvlabs.github.io/face-vid2vid/)
-- [Nowruz](https://en.wikipedia.org/wiki/Nowruz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
