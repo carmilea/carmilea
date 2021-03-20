@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Malfrats/xeuledoc: Fetch information about a public Google document](https://github.com/Malfrats/xeuledoc)
+- [VUW Accidentally Wipes Desktop Computers](https://www.critic.co.nz/news/article/9182/vuw-accidentally-wipes-desktop-computers)
+- [CEO Secrets: 'I employ 1,200 people and have no HR department'](https://www.bbc.com/news/av/business-56130189)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [Identify a Remarkable Trait in Anyone. Then Either Copy or Avoid It](https://knowledgeartist.org/article/identify-remarkable-trait-learn)
-- [The Transformer Network for the Traveling Salesman Problem](https://arxiv.org/abs/2103.03012)
-- [My self-study plan for electrical engineering](https://i-kh.net/2021/03/20/electrical-engineering-study-plan/)
-- [SubX: A minimalist assembly language for a subset of the x86 ISA](https://www.mdeditor.tw/pl/2ZsX)
+- [Identify a remarkable trait in anyone, then either copy or avoid it](https://knowledgeartist.org/article/identify-remarkable-trait-learn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
