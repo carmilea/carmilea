@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/)
+- [Tesla's “full self driving” beta is potentially dangerous](https://www.roadandtrack.com/news/a35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/)
 - [Click](https://clickclickclick.click/)
 - [Cranelift, Part 3: Correctness in Register Allocation](https://cfallin.org/blog/2021/03/15/cranelift-isel-3/)
-- [PinePhone Beta](https://www.pine64.org/2021/03/19/beta-edition-pre-orders/)
 - [Caper (YC W16) Is Looking for a COO](https://recruiterflow.com/caper/jobs/73)
-- [Comp.programming.threads FAQ (2001)](https://danluu.com/threads-faq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
