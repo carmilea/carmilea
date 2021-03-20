@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skylab: The Myth of the Mutiny in Space](https://www.bbc.co.uk/news/stories-56346001)
+- [A Guide to Writing Mathematics [pdf]](https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf)
 - [Cherokee Numerals](https://thereader.mitpress.mit.edu/sequoyah-and-the-almost-forgotten-history-of-cherokee-numerals/)
 - [My Dad Published Lolita](https://lithub.com/how-would-the-publishing-world-respond-to-lolita-today/)
-- [Fantasy and the Buffered Self (2014)](https://www.thenewatlantis.com/publications/fantasy-and-the-buffered-self)
-- [Misunderstanding Malthus’ mistake](https://andrewbatson.com/2021/03/16/misunderstanding-malthus-mistake/)
-- [CFTC Orders Coinbase Inc. To Pay $6.5M Penalty](https://www.cftc.gov/PressRoom/PressReleases/8369-21)
+- [Amazon S3 Object Lambda](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
