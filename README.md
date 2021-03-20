@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How to Build Empathy?](https://news.ycombinator.com/item?id=26523816)
 - [Launch HN: Kanda (YC W21) – Let tradespeople offer finance to their customers](https://news.ycombinator.com/item?id=26523646)
 - [Cistercian Numerals](https://en.wikipedia.org/wiki/Cistercian_numerals#:~:text=The%20medieval%20Cistercian%20numerals,%20or,were%20introduced%20to%20northwestern%20Europe)
-- [Bitcoin Blackhole Effect](https://www.bitrawr.com/the-bitcoin-blackhole-effect)
 - [Learning Machine Learning for Game Development](http://ai.googleblog.com/2021/03/leveraging-machine-learning-for-game.html)
 - [ZPL: (Almost) C99 Powerkit](https://github.com/zpl-c/zpl)
 <!-- BLOG-POST-LIST:END -->
