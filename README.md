@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brazil agency fines Apple $2M for not including charger in iPhone 12 box](https://9to5mac.com/2021/03/20/brazil-agency-fines-apple-iphone-12-charger/)
 - [The failed heir: The Hyper Neo Geo 64](http://nicole.express/2021/ultra-mega-hyper-neo-geo-64.html)
 - [A New Lens on Understanding Generalization in Deep Learning](https://ai.googleblog.com/2021/03/a-new-lens-on-understanding.html)
+- [Spiders appear to offload cognitive tasks to their webs (2017)](https://www.quantamagazine.org/the-thoughts-of-a-spiderweb-20170523/)
 - [Show HN: Papercups – open-source alternative to Intercom](https://papercups.io/)
-- [Malfrats/xeuledoc: Fetch information about a public Google document](https://github.com/Malfrats/xeuledoc)
-- [VUW Accidentally Wipes Desktop Computers](https://www.critic.co.nz/news/article/9182/vuw-accidentally-wipes-desktop-computers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
