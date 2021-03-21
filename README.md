@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Blockchain Is a Dark Forest](https://www.somethinginteresting.news/p/blockchain-dark-forest?r=dv2f9&utm_campaign=post&utm_medium=email&utm_source=hackernews)
-- [Californian wildfire smoke over Europe: A first example of the aerosol observing](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020GL092194)
-- [The deep fake threat hardly anyone discusses](https://wiczipedia.substack.com/p/the-deep-fake-threat-hardly-anyone)
 - [BuildZoom (better way to build custom homes) is hiring engineers (remote)](https://jobs.lever.co/buildzoom)
 - [Running a Bakery on Emacs and PostgreSQL](https://bofh.org.uk/2019/02/25/baking-with-emacs/)
+- [Launch HN: StartPack (YC S20) - Helping Global SMBs Access US Banking & Payments](https://news.ycombinator.com/item?id=26531552)
+- [Dataflowr – Deep Learning DIY](https://dataflowr.github.io/website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
