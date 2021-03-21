@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NFTs Are a Pyramid Scheme and People Are Already Losing Money](https://fstoppers.com/opinion/nfts-are-pyramid-scheme-and-people-are-already-losing-money-554869)
+- [Adoption of Mypy for Python type checking: 45% already use it, 40% don't plan to](https://twitter.com/glyph/status/1372640855807250432)
+- [Show HN: Make continuous reforestation part of your daily workflow](https://github.com/protontypes/continuous-reforestation)
+- [Amazon Keeps Getting Sued for Paying Drivers Less Than Minimum Wage](https://www.vice.com/en/article/qjpyqm/amazon-keeps-getting-sued-for-paying-drivers-less-than-minimum-wage)
 - [Smarking (YC W15) Is Hiring Head of Eng, Head of Sales, Head of Acct Management](https://www.smarking.com/careers)
-- [The Generic Dilemma (2009)](https://research.swtch.com/generic)
-- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
-- [Godot Engine Web Editor](https://editor.godotengine.org/releases/latest/)
-- [George Bass has died](https://www.nytimes.com/2021/03/19/us/george-bass-dead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
