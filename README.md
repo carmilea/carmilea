@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A New Lens on Understanding Generalization in Deep Learning](https://ai.googleblog.com/2021/03/a-new-lens-on-understanding.html)
 - [How does my mind talk to my body? [audio]](https://www.bbc.co.uk/programmes/w3cszv75)
 - [Malfrats/xeuledoc: Fetch information about a public Google document](https://github.com/Malfrats/xeuledoc)
 - [Cryptography Behind the Top Cryptocurrencies](http://ethanfast.com/top-crypto.html)
 - [AARD Code, or how Bill Gates finished off the competition](https://www.zapread.com/Post/Detail/7735/aard-code-or-how-bill-gates-finished-off-the-competition/)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
