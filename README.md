@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Civilization VI Built on Webflow](https://civilization.webflow.io/)
+- [Smarking (YC W15) Is Hiring Head of Eng, Head of Sales, Head of Acct Management](https://www.smarking.com/careers)
+- [The Generic Dilemma (2009)](https://research.swtch.com/generic)
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
 - [Godot Engine Web Editor](https://editor.godotengine.org/releases/latest/)
 - [George Bass has died](https://www.nytimes.com/2021/03/19/us/george-bass-dead.html)
-- [Flatpak – a security nightmare – 2 years later (2020)](http://flatkill.org/2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
