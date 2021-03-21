@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [George Bass, Archaeologist of the Ocean Floor, Dies at 88](https://www.nytimes.com/2021/03/19/us/george-bass-dead.html)
+- [George Bass has died](https://www.nytimes.com/2021/03/19/us/george-bass-dead.html)
 - [Flatpak – a security nightmare – 2 years later](http://flatkill.org/2020/)
-- [Brazil agency fines Apple $2M for not including charger in iPhone 12 box](https://9to5mac.com/2021/03/20/brazil-agency-fines-apple-iphone-12-charger/)
 - [Ask HN: What was the biggest contributor to your happiness in the past year?](https://news.ycombinator.com/item?id=26528011)
 - [The failed heir: The Hyper Neo Geo 64](http://nicole.express/2021/ultra-mega-hyper-neo-geo-64.html)
+- [A New Lens on Understanding Generalization in Deep Learning](https://ai.googleblog.com/2021/03/a-new-lens-on-understanding.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
