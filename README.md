@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Civilization VI Built on Webflow](https://civilization.webflow.io/)
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
 - [Godot Engine Web Editor](https://editor.godotengine.org/releases/latest/)
 - [George Bass has died](https://www.nytimes.com/2021/03/19/us/george-bass-dead.html)
 - [Flatpak – a security nightmare – 2 years later (2020)](http://flatkill.org/2020/)
-- [Ask HN: What was the biggest contributor to your happiness in the past year?](https://news.ycombinator.com/item?id=26528011)
-- [The failed heir: The Hyper Neo Geo 64](http://nicole.express/2021/ultra-mega-hyper-neo-geo-64.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
