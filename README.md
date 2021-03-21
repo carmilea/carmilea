@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: StartPack (YC S20) – "Business-in-a-Box" for Online SMBs](https://news.ycombinator.com/item?id=26531552)
-- [Dataflowr – Deep Learning DIY](https://dataflowr.github.io/website/)
-- [Don't End the Week with Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
-- [Vaccines Are Effective Against Covid Variants](https://jamanetwork.com/journals/jama/fullarticle/2777898)
-- [Monty Python’s John Cleese Sells the Brooklyn Bridge as an NFT](https://decrypt.co/62217/monty-pythons-john-cleese-mints-brooklyn-bridge-nft)
+- [The Blockchain Is a Dark Forest](https://www.somethinginteresting.news/p/blockchain-dark-forest?r=dv2f9&utm_campaign=post&utm_medium=email&utm_source=hackernews)
+- [Californian wildfire smoke over Europe: A first example of the aerosol observing](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020GL092194)
+- [The deep fake threat hardly anyone discusses](https://wiczipedia.substack.com/p/the-deep-fake-threat-hardly-anyone)
+- [BuildZoom (better way to build custom homes) is hiring engineers (remote)](https://jobs.lever.co/buildzoom)
+- [Running a Bakery on Emacs and PostgreSQL](https://bofh.org.uk/2019/02/25/baking-with-emacs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
