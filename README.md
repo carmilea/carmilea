@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Switch Statement](https://matteoguadrini.github.io/posts/a-switch-story/)
 - [Academic “Ghost-Writing”: The Cheating Scandal No One Will Discuss](https://logosnews.tech/-MJYdKMeuTakOZj7iq4d)
 - [As U.S. schools shuttered, student mental health cratered, Reuters survey finds](https://www.reuters.com/investigates/special-report/health-coronavirus-students/)
 - [BuildZoom (better way to build custom homes) is hiring engineers (remote)](https://jobs.lever.co/buildzoom)
 - [Running a Bakery on Emacs and PostgreSQL](https://bofh.org.uk/2019/02/25/baking-with-emacs/)
-- [Launch HN: StartPack (YC S20) - Helping Global SMBs Access US Banking & Payments](https://news.ycombinator.com/item?id=26531552)
 <!-- BLOG-POST-LIST:END -->
 
 ---
