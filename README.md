@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What was the biggest contributor to your happiness in the past year?](https://news.ycombinator.com/item?id=26528011)
+- [The failed heir: The Hyper Neo Geo 64](http://nicole.express/2021/ultra-mega-hyper-neo-geo-64.html)
 - [A New Lens on Understanding Generalization in Deep Learning](https://ai.googleblog.com/2021/03/a-new-lens-on-understanding.html)
+- [Show HN: Papercups – open-source alternative to Intercom](https://papercups.io/)
 - [How does my mind talk to my body? [audio]](https://www.bbc.co.uk/programmes/w3cszv75)
-- [Malfrats/xeuledoc: Fetch information about a public Google document](https://github.com/Malfrats/xeuledoc)
-- [Cryptography Behind the Top Cryptocurrencies](http://ethanfast.com/top-crypto.html)
-- [AARD Code, or how Bill Gates finished off the competition](https://www.zapread.com/Post/Detail/7735/aard-code-or-how-bill-gates-finished-off-the-competition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
