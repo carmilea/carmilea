@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CutiePi – A Raspberry Pi 4 tablet](https://cutiepi.io/)
 - [NFTs Are a Pyramid Scheme and People Are Already Losing Money](https://fstoppers.com/opinion/nfts-are-pyramid-scheme-and-people-are-already-losing-money-554869)
 - [Adoption of Mypy for Python type checking: 45% already use it, 40% don't plan to](https://twitter.com/glyph/status/1372640855807250432)
 - [Show HN: Make continuous reforestation part of your daily workflow](https://github.com/protontypes/continuous-reforestation)
 - [Amazon Keeps Getting Sued for Paying Drivers Less Than Minimum Wage](https://www.vice.com/en/article/qjpyqm/amazon-keeps-getting-sued-for-paying-drivers-less-than-minimum-wage)
-- [Smarking (YC W15) Is Hiring Head of Eng, Head of Sales, Head of Acct Management](https://www.smarking.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
