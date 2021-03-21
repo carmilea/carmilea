@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Switch Statement](https://matteoguadrini.github.io/posts/a-switch-story/)
-- [Academic “Ghost-Writing”: The Cheating Scandal No One Will Discuss](https://logosnews.tech/-MJYdKMeuTakOZj7iq4d)
-- [As U.S. schools shuttered, student mental health cratered, Reuters survey finds](https://www.reuters.com/investigates/special-report/health-coronavirus-students/)
-- [BuildZoom (better way to build custom homes) is hiring engineers (remote)](https://jobs.lever.co/buildzoom)
-- [Running a Bakery on Emacs and PostgreSQL](https://bofh.org.uk/2019/02/25/baking-with-emacs/)
+- [GPT Neo: open-source GPT-3-like model with pretrained weights available](https://github.com/EleutherAI/gpt-neo/)
+- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
+- [Google: Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view)
+- [AMD Expected to Become TSMC's Second Largest Customer](https://www.tomshardware.com/news/amd-tsmc-second-largest-customer)
+- [OpenRA Release 20210321 (and new website)](https://www.openra.net/news/release-20210321/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
