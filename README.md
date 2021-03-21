@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse-Engineering NES Tetris to Add Hard Drop](https://www.gridbugs.org/reverse-engineering-nes-tetris-to-add-hard-drop/)
-- [CutiePi – A Raspberry Pi 4 tablet](https://cutiepi.io/)
-- [Adoption of Mypy for Python type checking: 45% already use it, 40% don't plan to](https://twitter.com/glyph/status/1372640855807250432)
-- [Show HN: Make continuous reforestation part of your daily workflow](https://github.com/protontypes/continuous-reforestation)
-- [Amazon Keeps Getting Sued for Paying Drivers Less Than Minimum Wage](https://www.vice.com/en/article/qjpyqm/amazon-keeps-getting-sued-for-paying-drivers-less-than-minimum-wage)
+- [Launch HN: StartPack (YC S20) – "Business-in-a-Box" for Online SMBs](https://news.ycombinator.com/item?id=26531552)
+- [Dataflowr – Deep Learning DIY](https://dataflowr.github.io/website/)
+- [Don't End the Week with Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
+- [Vaccines Are Effective Against Covid Variants](https://jamanetwork.com/journals/jama/fullarticle/2777898)
+- [Monty Python’s John Cleese Sells the Brooklyn Bridge as an NFT](https://decrypt.co/62217/monty-pythons-john-cleese-mints-brooklyn-bridge-nft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
