@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Malfrats/xeuledoc: Fetch information about a public Google document](https://github.com/Malfrats/xeuledoc)
 - [VUW Accidentally Wipes Desktop Computers](https://www.critic.co.nz/news/article/9182/vuw-accidentally-wipes-desktop-computers)
-- [Redux Alternative](https://taverne.surge.sh/)
+- [Cryptography Behind the Top Cryptocurrencies](http://ethanfast.com/top-crypto.html)
 - [AARD Code, or how Bill Gates finished off the competition](https://www.zapread.com/Post/Detail/7735/aard-code-or-how-bill-gates-finished-off-the-competition/)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 <!-- BLOG-POST-LIST:END -->
