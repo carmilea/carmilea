@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PyDisAss: A 6502 Disassembler in Python](https://www.awsm.de/blog/pydisass/)
+- [Richard M Stallman Is Back on the FSF Board He Founded 35 Years Ago](http://techrights.org/2021/03/21/richard-stallman-is-coming-back-to-the-board-of-the-free-software-foundation-founded-by-himself-35-years-ago/)
+- [Plan 9 from Bell Labs](https://github.com/0intro/plan9)
 - [GPT Neo: open-source GPT model, with pretrained 1.3B & 2.7B weight models](https://github.com/EleutherAI/gpt-neo/)
 - [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
 - [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view)
-- [AMD Expected to Become TSMC's Second Largest Customer](https://www.tomshardware.com/news/amd-tsmc-second-largest-customer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
