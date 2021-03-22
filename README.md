@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Two dies in one package: Teardown of a vintage ROM with double the storage](https://www.righto.com/2021/03/two-dies-in-one-package-teardown-of.html)
-- [2/3rds of Google Searches Now End Without a Click](https://sparktoro.com/blog/in-2020-two-thirds-of-google-searches-ended-without-a-click/)
-- [I Captured the Iceland Volcano Eruption from Up Close](https://petapixel.com/2021/03/22/i-captured-the-iceland-volcano-eruption-from-up-close/)
-- [6 years after FI and early retirement](https://livingafi.com/2021/03/17/the-2021-early-retirement-update/)
-- [The Worsening State of Ransomware](https://cacm.acm.org/news/251337-the-worsening-state-of-ransomware/fulltext)
+- [Crystal Lang 1.0 Release](https://crystal-lang.org/2021/03/22/crystal-1.0-what-to-expect.html)
+- [Why Do We Call These “DuPont” Connectors?](http://www.mattmillman.com/why-do-we-call-these-dupont-connectors/)
+- [Show HN: Distributed – Live social chat app to help remote teams stay in sync](https://joindistributed.com)
+- [All my career rejections](https://web.eecs.utk.edu/~azh/blog/allmyrejections.html)
+- [What Is Consciousness? Some New Perspectives from Our Physics Project](https://writings.stephenwolfram.com/2021/03/what-is-consciousness-some-new-perspectives-from-our-physics-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
