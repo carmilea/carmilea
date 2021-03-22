@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The ecosystem of the Go programming language](https://henvic.dev/posts/go/)
+- [VW brand joins Audi in ending combustion engine development](https://www.electrive.com/2021/03/22/vw-brand-joins-audi-in-ending-combustion-engine-development/)
 - [Firefox 87 trims HTTP Referrers by default to protect user privacy](https://blog.mozilla.org/security/2021/03/22/firefox-87-trims-http-referrers-by-default-to-protect-user-privacy/)
 - [The absolute worst scenario happened](https://www.reddit.com/r/sysadmin/comments/ma4mwl/the_absolute_worst_case_scenario_happened_what)
 - [“I’ve made a Cursed USB-C 2.0 device”](https://twitter.com/mifune/status/1373564866443759617)
-- [FediDB – Developer Tools for ActivityPub](https://fedidb.org/)
-- [Swarms of spiders flee into homes to escape NSW floods](https://www.theguardian.com/environment/2021/mar/22/horrific-swarms-of-spiders-flee-into-homes-and-up-legs-to-escape-nsw-floods)
 <!-- BLOG-POST-LIST:END -->
 
 ---
