@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenSSL will release a HIGH severity issue fix on 25th](https://mta.openssl.org/pipermail/openssl-announce/2021-March/000196.html)
 - [Rents for the rich are plummeting. Rents for the poor are rising. Why?](https://www.washingtonpost.com/opinions/2021/03/22/rents-rich-are-plummeting-rents-poor-are-rising-why/)
 - [Crystal 1.0 – What to expect](https://crystal-lang.org/2021/03/22/crystal-1.0-what-to-expect.html)
 - [Why Do We Call These “DuPont” Connectors?](http://www.mattmillman.com/why-do-we-call-these-dupont-connectors/)
 - [Show HN: Distributed – Live social chat app to help remote teams stay in sync](https://joindistributed.com)
-- [All my career rejections](https://web.eecs.utk.edu/~azh/blog/allmyrejections.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
