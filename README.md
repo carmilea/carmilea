@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Swarms of spiders flee into homes to escape NSW floods](https://www.theguardian.com/environment/2021/mar/22/horrific-swarms-of-spiders-flee-into-homes-and-up-legs-to-escape-nsw-floods)
 - [Opticsim.jl: Optical Simulation Software](https://github.com/microsoft/OpticSim.jl)
 - [Live feed from Iceland erupting volcano](https://www.ruv.is/frett/2021/03/20/live-feed-from-iceland-volcano)
-- [UK 'heading towards digital skills shortage disaster'](https://www.bbc.co.uk/news/business-56479304)
 - [AstraZeneca vaccine safe and effective in U.S., Chile, Peru trials](https://www.reuters.com/article/us-health-coronavirus-astrazeneca-usa/astrazeneca-vaccine-79-effective-in-u-s-trial-panel-finds-no-higher-risk-of-clots-idUSKBN2BE0NJ)
 - [Ask HN: How do I improve boring README page?](https://news.ycombinator.com/item?id=26537805)
 <!-- BLOG-POST-LIST:END -->
