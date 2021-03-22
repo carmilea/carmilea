@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox 87 trims HTTP Referrers by default to protect user privacy](https://blog.mozilla.org/security/2021/03/22/firefox-87-trims-http-referrers-by-default-to-protect-user-privacy/)
+- [The absolute worst scenario happened](https://www.reddit.com/r/sysadmin/comments/ma4mwl/the_absolute_worst_case_scenario_happened_what)
+- [“I’ve made a Cursed USB-C 2.0 device”](https://twitter.com/mifune/status/1373564866443759617)
+- [FediDB – Developer Tools for ActivityPub](https://fedidb.org/)
 - [Swarms of spiders flee into homes to escape NSW floods](https://www.theguardian.com/environment/2021/mar/22/horrific-swarms-of-spiders-flee-into-homes-and-up-legs-to-escape-nsw-floods)
-- [Opticsim.jl: Optical Simulation Software](https://github.com/microsoft/OpticSim.jl)
-- [Live feed from Iceland erupting volcano](https://www.ruv.is/frett/2021/03/20/live-feed-from-iceland-volcano)
-- [AstraZeneca vaccine safe and effective in U.S., Chile, Peru trials](https://www.reuters.com/article/us-health-coronavirus-astrazeneca-usa/astrazeneca-vaccine-79-effective-in-u-s-trial-panel-finds-no-higher-risk-of-clots-idUSKBN2BE0NJ)
-- [Ask HN: How do I improve boring README page?](https://news.ycombinator.com/item?id=26537805)
 <!-- BLOG-POST-LIST:END -->
 
 ---
