@@ -55,7 +55,7 @@
 - [AstraZeneca vaccine safe and effective in U.S., Chile, Peru trials](https://www.reuters.com/article/us-health-coronavirus-astrazeneca-usa/astrazeneca-vaccine-79-effective-in-u-s-trial-panel-finds-no-higher-risk-of-clots-idUSKBN2BE0NJ)
 - [Ask HN: How do I improve boring README page?](https://news.ycombinator.com/item?id=26537805)
 - [Attributes and Predictors of Long Covid](https://www.nature.com/articles/s41591-021-01292-y)
-- [Counterfeit Mitutoyo digital calipers (2019)](https://canadianhobbymetalworkers.com/threads/counterfeit-mitutoyo-digital-calipers.1182/)
+- [How Safe Is Zig?](https://scattered-thoughts.net/writing/how-safe-is-zig/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
