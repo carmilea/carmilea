@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Counterfeit Mitutoyo digital calipers are sold on Amazon](https://canadianhobbymetalworkers.com/threads/counterfeit-mitutoyo-digital-calipers.1182/)
-- [Work at YC and help YC startups hire great people](https://www.ycombinator.com/companies/64/jobs/fK75gxxbq-product-engineer-work-at-a-startup)
-- [How NetNewsWire Handles Threading](https://inessential.com/2021/03/20/how_netnewswire_handles_threading)
-- [Chip-starved automakers shudder at Renesas plant's 1-month halt](https://asia.nikkei.com/Business/Tech/Semiconductors/Chip-starved-automakers-shudder-at-Renesas-plant-s-1-month-halt)
-- [Backblaze submitting names and sizes of files in B2 buckets to Facebook](https://twitter.com/Benjojo12/status/1373707799054712836)
+- [Live feed from Iceland erupting volcano](https://www.ruv.is/frett/2021/03/20/live-feed-from-iceland-volcano)
+- [AstraZeneca vaccine safe and effective in U.S., Chile, Peru trials](https://www.reuters.com/article/us-health-coronavirus-astrazeneca-usa/astrazeneca-vaccine-79-effective-in-u-s-trial-panel-finds-no-higher-risk-of-clots-idUSKBN2BE0NJ)
+- [Ask HN: How do I improve boring README page?](https://news.ycombinator.com/item?id=26537805)
+- [Attributes and Predictors of Long Covid](https://www.nature.com/articles/s41591-021-01292-y)
+- [Counterfeit Mitutoyo digital calipers (2019)](https://canadianhobbymetalworkers.com/threads/counterfeit-mitutoyo-digital-calipers.1182/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
