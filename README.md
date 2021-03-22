@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MacBook Owners' Butterfly Keyboard Lawsuit Gets Class Action Certification](https://www.macrumors.com/2021/03/22/apple-butterfly-keyboard-lawsuit-class-action/)
 - [Build the API That Ships Billions – Join (Remote) EasyPost (YC S13)](https://www.easypost.com/careers)
 - [Nominet (.uk) EGM result: four directors have been removed from the board](https://www.nominet.uk/nominet-egm-result/)
 - [Please don't upgrade Docker without asking first](https://github.com/docker/roadmap/issues/183)
 - [The price students pay for a prized IIT seat](https://theprint.in/india/education/no-life-no-hobbies-burnout-lost-childhood-the-price-students-pay-for-a-prized-iit-seat/625040/)
-- [OpenSSL will release a high-severity issue fix on 25th](https://mta.openssl.org/pipermail/openssl-announce/2021-March/000196.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
