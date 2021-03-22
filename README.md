@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenSSL will release a HIGH severity issue fix on 25th](https://mta.openssl.org/pipermail/openssl-announce/2021-March/000196.html)
-- [Rents for the rich are plummeting. Rents for the poor are rising. Why?](https://www.washingtonpost.com/opinions/2021/03/22/rents-rich-are-plummeting-rents-poor-are-rising-why/)
-- [Crystal 1.0 – What to expect](https://crystal-lang.org/2021/03/22/crystal-1.0-what-to-expect.html)
-- [Why Do We Call These “DuPont” Connectors?](http://www.mattmillman.com/why-do-we-call-these-dupont-connectors/)
-- [Show HN: Distributed – Live social chat app to help remote teams stay in sync](https://joindistributed.com)
+- [Build the API That Ships Billions – Join (Remote) EasyPost (YC S13)](https://www.easypost.com/careers)
+- [Nominet (.uk) EGM result: four directors have been removed from the board](https://www.nominet.uk/nominet-egm-result/)
+- [Please don't upgrade Docker without asking first](https://github.com/docker/roadmap/issues/183)
+- [The price students pay for a prized IIT seat](https://theprint.in/india/education/no-life-no-hobbies-burnout-lost-childhood-the-price-students-pay-for-a-prized-iit-seat/625040/)
+- [OpenSSL will release a high-severity issue fix on 25th](https://mta.openssl.org/pipermail/openssl-announce/2021-March/000196.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
