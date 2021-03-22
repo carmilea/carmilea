@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is It Farewell to the Handshake?](https://www.spectator.co.uk/article/is-it-farewell-to-the-handshake-)
+- [Counterfeit Mitutoyo digital calipers are sold on Amazon](https://canadianhobbymetalworkers.com/threads/counterfeit-mitutoyo-digital-calipers.1182/)
 - [Work at YC and help YC startups hire great people](https://www.ycombinator.com/companies/64/jobs/fK75gxxbq-product-engineer-work-at-a-startup)
+- [How NetNewsWire Handles Threading](https://inessential.com/2021/03/20/how_netnewswire_handles_threading)
+- [Chip-starved automakers shudder at Renesas plant's 1-month halt](https://asia.nikkei.com/Business/Tech/Semiconductors/Chip-starved-automakers-shudder-at-Renesas-plant-s-1-month-halt)
 - [Backblaze submitting names and sizes of files in B2 buckets to Facebook](https://twitter.com/Benjojo12/status/1373707799054712836)
-- [Cancel We The Web? (2020)](https://www.wetheweb.org/post/cancel-we-the-web)
-- [Loopy Pipe Network Converts back-and-forth flow into one-way flow](https://physics.aps.org/articles/v14/42)
 <!-- BLOG-POST-LIST:END -->
 
 ---
