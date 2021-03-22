@@ -54,7 +54,7 @@
 - [Work at YC and help YC startups hire great people](https://www.ycombinator.com/companies/64/jobs/fK75gxxbq-product-engineer-work-at-a-startup)
 - [The Internet has been cut in Myanmar for the 36th consecutive night](https://twitter.com/netblocks/status/1373707854876663808)
 - [Backblaze submitting names and sizes of files in B2 buckets to Facebook](https://twitter.com/Benjojo12/status/1373707799054712836)
-- [Nadine Strossen, former ACLU president, on canceling RMS](https://www.wetheweb.org/post/cancel-we-the-web)
+- [Nadine Strossen, former ACLU president, on canceling RMS (2020)](https://www.wetheweb.org/post/cancel-we-the-web)
 - [Loopy Pipe Network Converts back-and-forth flow into one-way flow](https://physics.aps.org/articles/v14/42)
 <!-- BLOG-POST-LIST:END -->
 
