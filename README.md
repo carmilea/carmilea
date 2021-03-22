@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe is starting to freak out about the launch dominance of SpaceX](https://arstechnica.com/science/2021/03/european-leaders-say-an-immediate-response-needed-to-the-rise-of-spacex/)
+- [Two dies in one package: Teardown of a vintage ROM with double the storage](https://www.righto.com/2021/03/two-dies-in-one-package-teardown-of.html)
 - [2/3rds of Google Searches Now End Without a Click](https://sparktoro.com/blog/in-2020-two-thirds-of-google-searches-ended-without-a-click/)
-- [William Shatner is celebrating his 90th birthday](https://entertainment.slashdot.org/story/21/03/22/035243/how-william-shatner-is-celebrating-his-90th-birthday)
 - [I Captured the Iceland Volcano Eruption from Up Close](https://petapixel.com/2021/03/22/i-captured-the-iceland-volcano-eruption-from-up-close/)
 - [6 years after FI and early retirement](https://livingafi.com/2021/03/17/the-2021-early-retirement-update/)
+- [The Worsening State of Ransomware](https://cacm.acm.org/news/251337-the-worsening-state-of-ransomware/fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
