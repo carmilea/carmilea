@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Work at YC and help YC startups hire great people](https://www.ycombinator.com/companies/64/jobs/fK75gxxbq-product-engineer-work-at-a-startup)
 - [The Internet has been cut in Myanmar for the 36th consecutive night](https://twitter.com/netblocks/status/1373707854876663808)
 - [Backblaze submitting names and sizes of files in B2 buckets to Facebook](https://twitter.com/Benjojo12/status/1373707799054712836)
 - [Nadine Strossen, former ACLU president, on canceling RMS](https://www.wetheweb.org/post/cancel-we-the-web)
-- [NYC Spent Half a Million Dollars per Inmate in 2020, Report Says](https://www.bloomberg.com/news/articles/2021-03-10/nyc-spent-half-a-million-dollars-per-inmate-in-2020-report-says)
-- [GPT Neo: open-source GPT model, with pretrained 1.3B & 2.7B weight models](https://github.com/EleutherAI/gpt-neo/)
+- [Loopy Pipe Network Converts back-and-forth flow into one-way flow](https://physics.aps.org/articles/v14/42)
 <!-- BLOG-POST-LIST:END -->
 
 ---
