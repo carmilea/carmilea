@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FastDoubleParser: Java port of Daniel Lemires fast_double_parser](https://github.com/wrandelshofer/FastDoubleParser)
-- [Gitlab 13.10 Released](https://about.gitlab.com/releases/2021/03/22/gitlab-13-10-released/)
-- [Sirum (YC W15) join a fast-growing, mission-driven healthcare team](https://news.ycombinator.com/item?id=26541390)
-- [What Is the “Mffam” Policy?](https://faq.nearlyfreespeech.net/full/becausefucknazisthatswhy#becausefucknazisthatswhy)
-- [Red seaweed supplementation reduces enteric methane by over 80% in beef steers](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247820)
+- [Europe is starting to freak out about the launch dominance of SpaceX](https://arstechnica.com/science/2021/03/european-leaders-say-an-immediate-response-needed-to-the-rise-of-spacex/)
+- [2/3rds of Google Searches Now End Without a Click](https://sparktoro.com/blog/in-2020-two-thirds-of-google-searches-ended-without-a-click/)
+- [William Shatner is celebrating his 90th birthday](https://entertainment.slashdot.org/story/21/03/22/035243/how-william-shatner-is-celebrating-his-90th-birthday)
+- [I Captured the Iceland Volcano Eruption from Up Close](https://petapixel.com/2021/03/22/i-captured-the-iceland-volcano-eruption-from-up-close/)
+- [6 years after FI and early retirement](https://livingafi.com/2021/03/17/the-2021-early-retirement-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
