@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Feeding beef steers with algae reduces enteric methane by over 80%](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247820)
+- [Sovereign Writers and Substack](https://stratechery.com/2021/sovereign-writers-and-substack/)
+- [Sirum (YC W15) join a fast-growing, mission-driven healthcare team](https://news.ycombinator.com/item?id=26541390)
+- [What Is the “Mffam” Policy?](https://faq.nearlyfreespeech.net/full/becausefucknazisthatswhy#becausefucknazisthatswhy)
+- [Red seaweed supplementation reduces enteric methane by over 80% in beef steers](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247820)
 - [Launch HN: Kitemaker (YC W21) – Fast alternative to Jira, built for remote teams](https://news.ycombinator.com/item?id=26540692)
-- [Turkish Lira Plunges After Erdogan Fires Central Bank Chief](https://www.nytimes.com/2021/03/22/business/turkeys-lira-plunges.html)
-- [The ecosystem of the Go programming language](https://henvic.dev/posts/go/)
-- [VW brand joins Audi in ending combustion engine development](https://www.electrive.com/2021/03/22/vw-brand-joins-audi-in-ending-combustion-engine-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
