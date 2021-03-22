@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Richard M Stallman Is Back on the FSF Board He Founded 35 Years Ago](http://techrights.org/2021/03/21/richard-stallman-is-coming-back-to-the-board-of-the-free-software-foundation-founded-by-himself-35-years-ago/)
-- [Plan 9 from Bell Labs](https://github.com/0intro/plan9)
+- [The Internet has been cut in Myanmar for the 36th consecutive night](https://twitter.com/netblocks/status/1373707854876663808)
+- [Backblaze submitting names and sizes of files in B2 buckets to Facebook](https://twitter.com/Benjojo12/status/1373707799054712836)
+- [Nadine Strossen, former ACLU president, on canceling RMS](https://www.wetheweb.org/post/cancel-we-the-web)
+- [NYC Spent Half a Million Dollars per Inmate in 2020, Report Says](https://www.bloomberg.com/news/articles/2021-03-10/nyc-spent-half-a-million-dollars-per-inmate-in-2020-report-says)
 - [GPT Neo: open-source GPT model, with pretrained 1.3B & 2.7B weight models](https://github.com/EleutherAI/gpt-neo/)
-- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
-- [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view)
 <!-- BLOG-POST-LIST:END -->
 
 ---
