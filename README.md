@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sovereign Writers and Substack](https://stratechery.com/2021/sovereign-writers-and-substack/)
+- [FastDoubleParser: Java port of Daniel Lemires fast_double_parser](https://github.com/wrandelshofer/FastDoubleParser)
+- [Gitlab 13.10 Released](https://about.gitlab.com/releases/2021/03/22/gitlab-13-10-released/)
 - [Sirum (YC W15) join a fast-growing, mission-driven healthcare team](https://news.ycombinator.com/item?id=26541390)
 - [What Is the “Mffam” Policy?](https://faq.nearlyfreespeech.net/full/becausefucknazisthatswhy#becausefucknazisthatswhy)
 - [Red seaweed supplementation reduces enteric methane by over 80% in beef steers](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247820)
-- [Launch HN: Kitemaker (YC W21) – Fast alternative to Jira, built for remote teams](https://news.ycombinator.com/item?id=26540692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
