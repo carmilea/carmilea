@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack's UI just cost me $2,023](https://timmyomahony.com/blog/substacks-ui-just-cost-me-2-023)
+- [Setting Up Arch Linux with KDE Plasma in Windows Subsystem for Linux 2](https://rashil2000.me/blogs/kde-arch-wsl)
 - [MacBook Owners' Butterfly Keyboard Lawsuit Gets Class Action Certification](https://www.macrumors.com/2021/03/22/apple-butterfly-keyboard-lawsuit-class-action/)
 - [Build the API That Ships Billions – Join (Remote) EasyPost (YC S13)](https://www.easypost.com/careers)
-- [Nominet (.uk) EGM result: four directors have been removed from the board](https://www.nominet.uk/nominet-egm-result/)
-- [Please don't upgrade Docker without asking first](https://github.com/docker/roadmap/issues/183)
-- [The price students pay for a prized IIT seat](https://theprint.in/india/education/no-life-no-hobbies-burnout-lost-childhood-the-price-students-pay-for-a-prized-iit-seat/625040/)
+- [Nominet announces that four directors have been removed](https://www.nominet.uk/nominet-egm-result/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
