@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uniswap V3](https://uniswap.org/blog/uniswap-v3/)
-- [SvelteKit Is in Public Beta](https://svelte.dev/blog/sveltekit-beta)
-- [Heroic Labs (open source game server) Is Hiring a Head of Developer Relations](https://www.ycombinator.com/companies/884/jobs/1rMD7U0-head-of-developer-relations)
-- [When Myanmar needs ProtonVPN the most, Apple stands in the way of human rights](https://protonvpn.com/blog/apple-blocks-app-updates/)
-- [Top Saudi official issued death threat against UN's Khashoggi investigator](https://www.theguardian.com/world/2021/mar/23/top-saudi-official-issued-death-threat-against-uns-khashoggi-investigator)
+- [XQuartz 2.8.0](https://www.xquartz.org/releases/XQuartz-2.8.0.html)
+- [The Raspberry Pi can boot off NVMe SSDs now](https://www.jeffgeerling.com/blog/2021/raspberry-pi-can-boot-nvme-ssds-now)
+- [French data protection watchdog casts doubt on Apple’s privacy compliance](https://www.politico.eu/article/apple-france-french-data-protection-privacy-compliance-watchdog-cnil-doubt/)
+- [0 A.D A free, open-source game of ancient warfare](https://play0ad.com/game-info/project-overview/)
+- [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
