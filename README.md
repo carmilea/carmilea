@@ -54,8 +54,8 @@
 - [Uniswap V3](https://uniswap.org/blog/uniswap-v3/)
 - [SvelteKit Is in Public Beta](https://svelte.dev/blog/sveltekit-beta)
 - [Heroic Labs (open source game server) Is Hiring a Head of Developer Relations](https://www.ycombinator.com/companies/884/jobs/1rMD7U0-head-of-developer-relations)
+- [When Myanmar needs ProtonVPN the most, Apple stands in the way of human rights](https://protonvpn.com/blog/apple-blocks-app-updates/)
 - [Top Saudi official issued death threat against UN's Khashoggi investigator](https://www.theguardian.com/world/2021/mar/23/top-saudi-official-issued-death-threat-against-uns-khashoggi-investigator)
-- [Reddit is banning any Aimee Challenor mention. UK public figure and Reddit admin](https://old.reddit.com/r/ukpolitics/comments/mbbm2c/welcome_back_subreddit_statement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
