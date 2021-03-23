@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sidney Powell Says 'No Reasonable Person' Believed Election Fraud Claims](https://www.law.com/nationallawjournal/2021/03/22/facing-defamation-sidney-powell-says-no-reasonable-person-thought-her-election-fraud-claims-were-fact/)
+- [LHC machine finds tantalising hints of new physics](https://www.bbc.co.uk/news/science-environment-56491033)
 - [Synth (YC S20) Is Hiring Rust Software Engineers](https://www.ycombinator.com/companies/21794/jobs/4OIfqBW-rust-software-engineer)
-- [Before and after satellite imagery show early impact of NSW (Australia) floods](https://www.smh.com.au/national/nsw/before-and-after-satellite-imagery-show-early-impact-of-nsw-floods-20210323-p57d9b.html)
+- [Erlang Garbage Collection Details and Why It Matters (2015)](https://hamidreza-s.github.io/erlang%20garbage%20collection%20memory%20layout%20soft%20realtime/2015/08/24/erlang-garbage-collection-details-and-why-it-matters.html)
 - [FCC Reaches Out to Collect Consumer Broadband Availability Experiences](https://www.fcc.gov/document/fcc-reaches-out-collect-consumer-broadband-availability-experiences)
-- [This Music Video Does Not Exist [video]](https://www.thismusicvideodoesnotexist.com/)
-- [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
