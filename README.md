@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sidney Powell Says 'No Reasonable Person' Believed Election Fraud Claims](https://www.law.com/nationallawjournal/2021/03/22/facing-defamation-sidney-powell-says-no-reasonable-person-thought-her-election-fraud-claims-were-fact/)
-- [LHC machine finds tantalising hints of new physics](https://www.bbc.co.uk/news/science-environment-56491033)
+- [“When it comes to broadband, America is the original shithole country”](https://twitter.com/doctorow/status/1374199359944880128)
+- [Violation of lepton universality would imply physics beyond the Standard Model](https://www.bbc.co.uk/news/science-environment-56491033)
 - [Synth (YC S20) Is Hiring Rust Software Engineers](https://www.ycombinator.com/companies/21794/jobs/4OIfqBW-rust-software-engineer)
 - [Erlang Garbage Collection Details and Why It Matters (2015)](https://hamidreza-s.github.io/erlang%20garbage%20collection%20memory%20layout%20soft%20realtime/2015/08/24/erlang-garbage-collection-details-and-why-it-matters.html)
 - [FCC Reaches Out to Collect Consumer Broadband Availability Experiences](https://www.fcc.gov/document/fcc-reaches-out-collect-consumer-broadband-availability-experiences)
