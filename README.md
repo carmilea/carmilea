@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Images of Weapons Before They Obliterate Targets](https://www.thedrive.com/the-war-zone/39870/nothing-but-images-of-precision-guided-weapons-taken-just-before-they-obliterate-their-targets)
+- [Major employers scrap plans to cut back on offices – KPMG](https://www.reuters.com/article/us-economy-ceos/major-employers-scrap-plans-to-cut-back-on-offices-kpmg-idUSKBN2BF005)
 - [Substack's UI just cost me $2,023](https://timmyomahony.com/blog/substacks-ui-just-cost-me-2-023)
 - [Setting Up Arch Linux with KDE Plasma in Windows Subsystem for Linux 2](https://rashil2000.me/blogs/kde-arch-wsl)
 - [MacBook Owners' Butterfly Keyboard Lawsuit Gets Class Action Certification](https://www.macrumors.com/2021/03/22/apple-butterfly-keyboard-lawsuit-class-action/)
-- [Build the API That Ships Billions – Join (Remote) EasyPost (YC S13)](https://www.easypost.com/careers)
-- [Nominet announces that four directors have been removed](https://www.nominet.uk/nominet-egm-result/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
