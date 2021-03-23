@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [John Cleese has an NFT bridge to sell you for $69.3M](https://www.theverge.com/2021/3/22/22344556/john-cleese-monty-python-nft-brooklyn-bridge)
 - [Microsoft in Talks to Buy Discord for More Than $10B](https://www.bloomberg.com/news/articles/2021-03-23/microsoft-said-to-be-in-talks-to-buy-discord-for-more-than-10b)
 - [Z3 – ZFS to S3 Backup/Restore Tool](https://github.com/presslabs/z3)
 - [DARPA now has AI-controlled F-16s working as a team in virtual dogfights](https://www.thedrive.com/the-war-zone/39899/darpa-now-has-ai-controlled-f-16s-working-as-a-team-in-virtual-dogfights)
-- [Major employers scrap plans to cut back on offices – KPMG](https://www.reuters.com/article/us-economy-ceos/major-employers-scrap-plans-to-cut-back-on-offices-kpmg-idUSKBN2BF005)
-- [Substack's UI and 1Password temporarily cost me $2k](https://timmyomahony.com/blog/substacks-ui-just-cost-me-2-023)
+- [NSA Issues Guidance on Zero Trust Security Model](https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2515176/nsa-issues-guidance-on-zero-trust-security-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
