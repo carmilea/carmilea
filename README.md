@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A safer default for navigation: HTTPS](https://blog.chromium.org/2021/03/a-safer-default-for-navigation-https.html)
+- [Pasco County’s Sheriff Must End Its Targeted Child Harassment Program](https://www.eff.org/deeplinks/2021/03/pasco-countys-sheriff-must-end-its-targeted-child-harassment-program)
+- [Chrome’s address bar will use https:// by default](https://blog.chromium.org/2021/03/a-safer-default-for-navigation-https.html)
 - [Matrix Multiplication Inches Closer to Mythic Goal](http://quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/)
+- [ZGC – What's new in JDK 16](https://malloc.se/blog/zgc-jdk16)
 - [Letterlocking](https://en.wikipedia.org/wiki/Letterlocking)
-- [My survey article on P vs. NP](https://www.scottaaronson.com/blog/?p=3095)
-- [Scaling YC](https://blog.ycombinator.com/scaling-yc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
