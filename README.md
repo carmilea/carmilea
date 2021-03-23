@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Small, cheap spy satellites mean there’s no hiding place](https://www.economist.com/science-and-technology/2021/03/18/small-cheap-spy-satellites-mean-theres-no-hiding-place)
-- [Physics without determinism: Alternative interpretations of classical physics](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.062107)
-- [IKEA France on trial for snooping on staff and customers](https://www.bbc.com/news/world-europe-56482797)
-- [“When it comes to broadband, America is the original shithole country”](https://twitter.com/doctorow/status/1374199359944880128)
-- [Violation of lepton universality would imply physics beyond the Standard Model](https://www.bbc.co.uk/news/science-environment-56491033)
+- [Factoring 2048 RSA integers in 177 days with 13436 qubits and a multimode memory](https://arxiv.org/abs/2103.06159)
+- [Bonsai (YC W16) Is Hiring a Growth PM (Remote Only)](https://angel.co/company/bonsai/jobs/1264053-growth-product-manager)
+- [The next Nintendo Switch will deliver 4K on TVs via Nvidia’s DLSS](https://arstechnica.com/gaming/2021/03/report-the-next-nintendo-switch-will-deliver-4k-on-tvs-via-nvidias-dlss/)
+- [Google confirms an issue with WebView is crashing many Android apps (Fixed)](https://www.xda-developers.com/google-confirms-webview-issue-crashing-android-apps/)
+- [The coder's worst nightmare (2016)](https://www.quora.com/What-is-a-coders-worst-nightmare/answer/Mick-Stute?share=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
