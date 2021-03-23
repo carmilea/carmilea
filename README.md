@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uniswap V3](https://uniswap.org/blog/uniswap-v3/)
+- [SvelteKit Is in Public Beta](https://svelte.dev/blog/sveltekit-beta)
 - [Heroic Labs (open source game server) Is Hiring a Head of Developer Relations](https://www.ycombinator.com/companies/884/jobs/1rMD7U0-head-of-developer-relations)
+- [Top Saudi official issued death threat against UN's Khashoggi investigator](https://www.theguardian.com/world/2021/mar/23/top-saudi-official-issued-death-threat-against-uns-khashoggi-investigator)
 - [Reddit is banning any Aimee Challenor mention. UK public figure and Reddit admin](https://old.reddit.com/r/ukpolitics/comments/mbbm2c/welcome_back_subreddit_statement/)
-- [Living Like It's 99, No Social Media, No Smartphone](https://www.alvarez.io/posts/living-like-its99/)
-- [Linus Torvalds on where Rust will fit into Linux](https://www.zdnet.com/article/linus-torvalds-on-where-rust-will-fit-into-linux/)
-- [Pasco County’s Sheriff Must End Its Targeted Child Harassment Program](https://www.eff.org/deeplinks/2021/03/pasco-countys-sheriff-must-end-its-targeted-child-harassment-program)
 <!-- BLOG-POST-LIST:END -->
 
 ---
