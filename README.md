@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I was threated with legal action if I don't remove deep links to another site](https://news.ycombinator.com/item?id=26550846)
 - [John Cleese has an NFT bridge to sell you for $69.3M](https://www.theverge.com/2021/3/22/22344556/john-cleese-monty-python-nft-brooklyn-bridge)
-- [Microsoft in Talks to Buy Discord for More Than $10B](https://www.bloomberg.com/news/articles/2021-03-23/microsoft-said-to-be-in-talks-to-buy-discord-for-more-than-10b)
 - [Z3 – ZFS to S3 Backup/Restore Tool](https://github.com/presslabs/z3)
 - [DARPA now has AI-controlled F-16s working as a team in virtual dogfights](https://www.thedrive.com/the-war-zone/39899/darpa-now-has-ai-controlled-f-16s-working-as-a-team-in-virtual-dogfights)
 - [NSA Issues Guidance on Zero Trust Security Model](https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2515176/nsa-issues-guidance-on-zero-trust-security-model/)
