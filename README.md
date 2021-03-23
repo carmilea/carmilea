@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Export from #SingleStore to #AWS #S3](https://www.youtube.com/watch?v=K-BpqexSNDw)
 - [#Query Processing and #Caching in #SingleStore](https://www.youtube.com/watch?v=wLmEK0UK280)
 - [SingleStore delivers analytics in the moments that matter](https://www.youtube.com/watch?v=WQWIEkHr4cY)
 - [SingleStore - Here to Build](https://www.youtube.com/watch?v=VRpB1o21hSg)
 - [#SingleStore #ManagedService Guides](https://www.youtube.com/watch?v=vS3ETTijtbw)
-- [Create a #cloud #database with #SingleStore #ManagedService](https://www.youtube.com/watch?v=0H9WBIUrP9U)
 <!-- YOUTUBE:END -->
 
 
