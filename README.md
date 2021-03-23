@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Known Medicine (YC S20) Hiring Data Scientist](https://www.workatastartup.com/jobs/42862)
-- [TLS 1.0, 1.1 officially deprecated](https://datatracker.ietf.org/doc/rfc8996/)
-- [XQuartz 2.8.0](https://www.xquartz.org/releases/XQuartz-2.8.0.html)
-- [The Raspberry Pi can boot off NVMe SSDs now](https://www.jeffgeerling.com/blog/2021/raspberry-pi-can-boot-nvme-ssds-now)
-- [French data protection watchdog casts doubt on Apple’s privacy compliance](https://www.politico.eu/article/apple-france-french-data-protection-privacy-compliance-watchdog-cnil-doubt/)
+- [Hacktivism, Leaktivism and the Future](https://ddosecrets.substack.com/p/hacktivism-leaktivism-and-the-future)
+- [The fight against fake-paper factories that churn out sham science](https://www.nature.com/articles/d41586-021-00733-5)
+- [The Most Important Scarce Resource Is Legitimacy](https://vitalik.ca/general/2021/03/23/legitimacy.html)
+- [The End of AMP?](https://www.lafoo.com/the-end-of-amp/)
+- [Intel’s New IDM 2.0 Strategy](https://www.anandtech.com/show/16573/intels-new-strategy-20b-for-two-fabs-meteor-lake-7nm-tiles-new-foundry-services-ibm-collaboration-return-of-idf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
