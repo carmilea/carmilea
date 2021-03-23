@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Factoring 2048 RSA integers in 177 days with 13436 qubits and a multimode memory](https://arxiv.org/abs/2103.06159)
-- [Bonsai (YC W16) Is Hiring a Growth PM (Remote Only)](https://angel.co/company/bonsai/jobs/1264053-growth-product-manager)
-- [The next Nintendo Switch will deliver 4K on TVs via Nvidia’s DLSS](https://arstechnica.com/gaming/2021/03/report-the-next-nintendo-switch-will-deliver-4k-on-tvs-via-nvidias-dlss/)
-- [Google confirms an issue with WebView is crashing many Android apps (Fixed)](https://www.xda-developers.com/google-confirms-webview-issue-crashing-android-apps/)
-- [The coder's worst nightmare (2016)](https://www.quora.com/What-is-a-coders-worst-nightmare/answer/Mick-Stute?share=1)
+- [New details on military UFO sightings](https://www.theguardian.com/us-news/2021/mar/22/us-government-ufo-report-sightings)
+- [We are building a better Heroku](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
+- [Live previews with Rails and Stimulus 2](https://nts.strzibny.name/rails-stimulus-live-preview/)
+- [The virus that causes the common cold can effectively boot the Covid virus out](http://bbc.com/news/health-56483445)
+- [How Politics Tested Ravelry and the Crafting Community](https://www.newyorker.com/magazine/2021/03/29/how-politics-tested-ravelry-and-the-crafting-community)
 <!-- BLOG-POST-LIST:END -->
 
 ---
