@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Known Medicine (YC S20) Hiring Data Scientist](https://www.workatastartup.com/jobs/42862)
+- [TLS 1.0, 1.1 officially deprecated](https://datatracker.ietf.org/doc/rfc8996/)
 - [XQuartz 2.8.0](https://www.xquartz.org/releases/XQuartz-2.8.0.html)
 - [The Raspberry Pi can boot off NVMe SSDs now](https://www.jeffgeerling.com/blog/2021/raspberry-pi-can-boot-nvme-ssds-now)
 - [French data protection watchdog casts doubt on Apple’s privacy compliance](https://www.politico.eu/article/apple-france-french-data-protection-privacy-compliance-watchdog-cnil-doubt/)
-- [0 A.D A free, open-source game of ancient warfare](https://play0ad.com/game-info/project-overview/)
-- [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
