@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Synth (YC S20) Is Hiring Rust Software Engineers](https://www.ycombinator.com/companies/21794/jobs/4OIfqBW-rust-software-engineer)
 - [Before and after satellite imagery show early impact of NSW (Australia) floods](https://www.smh.com.au/national/nsw/before-and-after-satellite-imagery-show-early-impact-of-nsw-floods-20210323-p57d9b.html)
+- [FCC Reaches Out to Collect Consumer Broadband Availability Experiences](https://www.fcc.gov/document/fcc-reaches-out-collect-consumer-broadband-availability-experiences)
 - [This Music Video Does Not Exist [video]](https://www.thismusicvideodoesnotexist.com/)
 - [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
-- [Microsoft in talks to buy Discord for more than $10B](https://www.bloomberg.com/news/articles/2021-03-23/microsoft-said-to-be-in-talks-to-buy-discord-for-more-than-10b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
