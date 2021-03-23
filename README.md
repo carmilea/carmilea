@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Letterlocking (Wikipedia)](https://en.wikipedia.org/wiki/Letterlocking)
-- [Scott Aaronson's P vs. NP survey](https://www.scottaaronson.com/blog/?p=3095)
+- [A safer default for navigation: HTTPS](https://blog.chromium.org/2021/03/a-safer-default-for-navigation-https.html)
+- [Matrix Multiplication Inches Closer to Mythic Goal](http://quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/)
+- [Letterlocking](https://en.wikipedia.org/wiki/Letterlocking)
+- [My survey article on P vs. NP](https://www.scottaaronson.com/blog/?p=3095)
 - [Scaling YC](https://blog.ycombinator.com/scaling-yc/)
-- [New details on military UFO sightings](https://www.theguardian.com/us-news/2021/mar/22/us-government-ufo-report-sightings)
-- [Nokia releases complete historical Plan9 source under permissive licence](https://www.bell-labs.com/institute/blog/plan-9-bell-labs-cyberspace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
