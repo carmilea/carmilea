@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Letterlocking (Wikipedia)](https://en.wikipedia.org/wiki/Letterlocking)
+- [Scott Aaronson's P vs. NP survey](https://www.scottaaronson.com/blog/?p=3095)
+- [Scaling YC](https://blog.ycombinator.com/scaling-yc/)
 - [New details on military UFO sightings](https://www.theguardian.com/us-news/2021/mar/22/us-government-ufo-report-sightings)
-- [We are building a better Heroku](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
-- [Live previews with Rails and Stimulus 2](https://nts.strzibny.name/rails-stimulus-live-preview/)
-- [The virus that causes the common cold can effectively boot the Covid virus out](http://bbc.com/news/health-56483445)
-- [How Politics Tested Ravelry and the Crafting Community](https://www.newyorker.com/magazine/2021/03/29/how-politics-tested-ravelry-and-the-crafting-community)
+- [Nokia releases complete historical Plan9 source under permissive licence](https://www.bell-labs.com/institute/blog/plan-9-bell-labs-cyberspace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
