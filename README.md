@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Heroic Labs (open source game server) Is Hiring a Head of Developer Relations](https://www.ycombinator.com/companies/884/jobs/1rMD7U0-head-of-developer-relations)
+- [Reddit is banning any Aimee Challenor mention. UK public figure and Reddit admin](https://old.reddit.com/r/ukpolitics/comments/mbbm2c/welcome_back_subreddit_statement/)
+- [Living Like It's 99, No Social Media, No Smartphone](https://www.alvarez.io/posts/living-like-its99/)
+- [Linus Torvalds on where Rust will fit into Linux](https://www.zdnet.com/article/linus-torvalds-on-where-rust-will-fit-into-linux/)
 - [Pasco County’s Sheriff Must End Its Targeted Child Harassment Program](https://www.eff.org/deeplinks/2021/03/pasco-countys-sheriff-must-end-its-targeted-child-harassment-program)
-- [Chrome’s address bar will use https:// by default](https://blog.chromium.org/2021/03/a-safer-default-for-navigation-https.html)
-- [Matrix Multiplication Inches Closer to Mythic Goal](http://quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/)
-- [ZGC – What's new in JDK 16](https://malloc.se/blog/zgc-jdk16)
-- [Letterlocking](https://en.wikipedia.org/wiki/Letterlocking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
