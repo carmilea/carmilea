@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Svelte and React](https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript/)
-- [One-bit Computing at 60 Hertz](http://laughtonelectronics.com/Arcana/One-bit%20computer/One-bit%20computer.html)
-- [The World Is Facing a Coffee Deficit in Supply Chain ‘Nightmare’](https://www.bloombergquint.com/business/coffee-trade-reeling-from-virus-faces-nightmare-freight-snags)
-- [The Solution of the Zodiac Killer’s 340-Character Cipher](https://blog.wolfram.com/2021/03/24/the-solution-of-the-zodiac-killers-340-character-cipher/)
-- [Parkinson's gene may impair how new neurons are made throughout our lifetime](https://www.sheffield.ac.uk/neuroscience-institute/news/parkinsons-gene-may-impair-how-new-neurons-are-made-throughout-our-lifetime)
+- [Gather (YC S19) Is Hiring to Build the Metaverse (Remote, in the Metaverse)](https://www.notion.so/Gather-Job-Board-f78baa3a0b544670a09d9291f24f6eec)
+- [Syntax Highlighting in a Webpage Without JavaScript](https://fctorial.github.io/posts/syntax_highlighting_nojs.html)
+- [Why did Alibaba's Jack Ma disappear for three months?](https://www.bbc.com/news/technology-56448688)
+- [High IQs are associated with mental and physical disorders](https://www.scientificamerican.com/article/bad-news-for-the-highly-intelligent/)
+- [Phthalates Threaten Humanity’s Ability to Reproduce](https://theintercept.com/2021/01/24/toxic-chemicals-human-sexuality-shanna-swan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
