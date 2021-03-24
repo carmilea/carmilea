@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pollution from fossil fuel combustion deadlier than previously thought](https://www.hsph.harvard.edu/news/hsph-in-the-news/pollution-from-fossil-fuel-combustion-deadlier-than-previously-thought/)
+- [Intel chief Pat Gelsinger: Too many chips made in Asia](https://www.bbc.com/news/technology-56512430)
+- [Counting cycles and instructions on the Apple M1 processor](https://lemire.me/blog/2021/03/24/counting-cycles-and-instructions-on-the-apple-m1-processor/)
 - [Gather (YC S19) Is Hiring to Build the Metaverse (Remote, in the Metaverse)](https://www.notion.so/Gather-Job-Board-f78baa3a0b544670a09d9291f24f6eec)
-- [Syntax Highlighting in a Webpage Without JavaScript](https://fctorial.github.io/posts/syntax_highlighting_nojs.html)
-- [Why did Alibaba's Jack Ma disappear for three months?](https://www.bbc.com/news/technology-56448688)
-- [High IQs are associated with mental and physical disorders](https://www.scientificamerican.com/article/bad-news-for-the-highly-intelligent/)
-- [Phthalates Threaten Humanity’s Ability to Reproduce](https://theintercept.com/2021/01/24/toxic-chemicals-human-sexuality-shanna-swan/)
+- [WebRTC 1.0 telephony app using “hifi” Opus codec with up to 500kbs bitrate](https://timur.mobi/talk/timur)
 <!-- BLOG-POST-LIST:END -->
 
 ---
