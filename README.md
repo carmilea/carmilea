@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An update on the recent issues surrounding a Reddit employee](https://www.reddit.com/r/announcements/comments/mcisdf/an_update_on_the_recent_issues_surrounding_a/)
+- [Show HN: Arc, an Open Source Databricks Alternative](https://arc.tripl.ai/)
 - [Pollution from fossil fuel combustion deadlier than previously thought](https://www.hsph.harvard.edu/news/hsph-in-the-news/pollution-from-fossil-fuel-combustion-deadlier-than-previously-thought/)
 - [Intel chief Pat Gelsinger: Too many chips made in Asia](https://www.bbc.com/news/technology-56512430)
 - [Counting cycles and instructions on the Apple M1 processor](https://lemire.me/blog/2021/03/24/counting-cycles-and-instructions-on-the-apple-m1-processor/)
-- [Gather (YC S19) Is Hiring to Build the Metaverse (Remote, in the Metaverse)](https://www.notion.so/Gather-Job-Board-f78baa3a0b544670a09d9291f24f6eec)
-- [WebRTC 1.0 telephony app using “hifi” Opus codec with up to 500kbs bitrate](https://timur.mobi/talk/timur)
 <!-- BLOG-POST-LIST:END -->
 
 ---
