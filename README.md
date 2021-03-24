@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Digital Nomads: What's Your Setup?](https://news.ycombinator.com/item?id=26567980)
-- [Over twenty subreddits have gone private](https://www.reddit.com/r/SubredditDrama/comments/mbq12a/over_twenty_subreddits_including_cringetopia/)
-- [Serenity notes: E2E encrypted notes](https://www.serenity.re/en/notes)
-- [Removed gem breaks Rails ActiveStorage](https://github.com/rails/rails/issues/41750)
-- [PinePhone – Beta Edition Linux SmartPhone Preorder](https://pine64.com/product/pinephone-beta-edition-linux-smartphone/?v=0446c16e2e66)
+- [America’s Bald Eagle Population Continues to Soar](https://www.fws.gov/birds/news/210324eagle-population.php)
+- [Reddit’s most popular subreddits go private in protest against ‘censorship’](https://www.gamerevolution.com/news/677190-reddit-private-community-aimee-challenor-censorship)
+- [Intel Unleashed, Gelsinger on Intel, IDM 2.0](https://stratechery.com/2021/intel-unleashed-gelsinger-on-intel-idm-2-0/)
+- [D 2.096.0 Released and Other News](https://dlang.org/blog/2021/03/24/d-2-096-0-released-and-other-news/)
+- [When ICE asks Google for your user information](https://finance.yahoo.com/news/happens-ice-asks-google-user-120018014.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
