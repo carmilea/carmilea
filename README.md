@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AskHN: How much is Chrome and how much is Chromium?](https://news.ycombinator.com/item?id=26570511)
 - [Accountancy Is the Priesthood of Modern Life (2020)](https://blind-spots.org/2020/11/09/accountancy-is-the-priesthood-of-modern-life/)
 - [Parkinson's gene may impair how new neurons are made throughout our lifetime](https://www.sheffield.ac.uk/neuroscience-institute/news/parkinsons-gene-may-impair-how-new-neurons-are-made-throughout-our-lifetime)
 - [Bentocart (YC W19) Is Hiring a Director of Biz Ops – Employee #1](https://www.workatastartup.com/jobs/42883)
-- [America’s Bald Eagle Population Continues to Soar](https://www.fws.gov/birds/news/210324eagle-population.php)
-- [Reddit’s most popular subreddits go private in protest against ‘censorship’](https://www.gamerevolution.com/news/677190-reddit-private-community-aimee-challenor-censorship)
+- [America’s bald eagle population continues to soar](https://www.fws.gov/birds/news/210324eagle-population.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
