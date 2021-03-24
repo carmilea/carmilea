@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canberra startup unveils world-first diamond quantum computer technology](https://www.canberratimes.com.au/story/7179520/anu-start-up-unveils-world-first-diamond-quantum-tech/?cs=14225)
 - [PinePhone – Beta Edition Linux SmartPhone Preorder](https://pine64.com/product/pinephone-beta-edition-linux-smartphone/?v=0446c16e2e66)
+- [Silicon Valley firms in no hurry to open up offices despite easing of virus ban](https://www.reuters.com/article/us-health-coronavirus-tech-siliconvalley/silicon-valley-firms-in-no-hurry-to-open-up-offices-despite-easing-of-virus-ban-idUSKBN2BG09U)
 - [GiveCampus (YC S15) Is Hiring remote Rails engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
 - [The Python Package Index is now a GitHub secret scanning integrator](https://github.blog/changelog/2021-03-22-the-python-package-index-is-now-a-github-secret-scanning-integrator/)
-- [My Python testing style guide (2017)](https://blog.thea.codes/my-python-testing-style-guide/)
-- [Firefox 87 introduces SmartBlock for Private Browsing](https://blog.mozilla.org/security/2021/03/23/introducing-smartblock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
