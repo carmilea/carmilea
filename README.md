@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Multiple US Navy Destroyers Swarmed by Mysterious 'Drones' Off CA Coast](https://www.thedrive.com/the-war-zone/39913/multiple-destroyers-were-swarmed-by-mysterious-drones-off-california-over-numerous-nights?xid=twittershare)
+- [GPT-3 tries pickup lines](https://aiweirdness.com/post/646367635078103040/gpt-3-tries-pickup-lines)
 - [Donald Knuth’s Algorithm D, its implementation in Hacker’s Delight and elsewhere](https://skanthak.homepage.t-online.de/division.html)
-- [Slow Tuesday Night by R.A. Lafferty (1965) [pdf]](https://www.fcusd.org/cms/lib03/CA01001934/Centricity/Domain/3762/SLOW-TUESDAY-NIGHT.pdf)
+- [CourseMaker – Interactive Course Builder for Programming Courses](https://coursemaker.org/)
 - [Closing web browser windows doesn't close connections](https://lapcatsoftware.com/articles/closing.html)
-- [Etleap (YC W13) Is Hiring VP of Product Marketing](https://news.ycombinator.com/item?id=26562296)
-- [Show HN: Bangle.dev – Collection of tools for building rich text editors](https://github.com/bangle-io/bangle.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
