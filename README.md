@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Digital Nomads: What's Your Setup?](https://news.ycombinator.com/item?id=26567980)
+- [Over twenty subreddits have gone private](https://www.reddit.com/r/SubredditDrama/comments/mbq12a/over_twenty_subreddits_including_cringetopia/)
 - [Serenity notes: E2E encrypted notes](https://www.serenity.re/en/notes)
-- [Medium Tells Journalists to Feel Free to Quit After Busting Union Drive](https://www.vice.com/en/article/5dp7y3/medium-tells-journalists-to-feel-free-to-quit-after-busting-union-drive)
+- [Removed gem breaks Rails ActiveStorage](https://github.com/rails/rails/issues/41750)
 - [PinePhone – Beta Edition Linux SmartPhone Preorder](https://pine64.com/product/pinephone-beta-edition-linux-smartphone/?v=0446c16e2e66)
-- [Silicon Valley firms in no hurry to open up offices despite easing of virus ban](https://www.reuters.com/article/us-health-coronavirus-tech-siliconvalley/silicon-valley-firms-in-no-hurry-to-open-up-offices-despite-easing-of-virus-ban-idUSKBN2BG09U)
-- [GiveCampus (YC S15) Is Hiring remote Rails engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
