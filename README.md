@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crazy fast build times (Or when 10 seconds starts to make you nervous)](http://dan.bodar.com/2012/02/28/crazy-fast-build-times-or-when-10-seconds-starts-to-make-you-nervous/)
+- [Google Removed ClearURLs Extension from Chrome Web Store](https://github.com/ClearURLs/Addon/issues/102)
+- [How to create a 1M record table with a single query](https://antonz.org/random-table/)
+- [Crazy fast build times, or when 10 seconds starts to make you nervous (2012)](http://dan.bodar.com/2012/02/28/crazy-fast-build-times-or-when-10-seconds-starts-to-make-you-nervous/)
 - [Cargo Cult Science (1974)](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
-- [Multiple US Navy destroyers swarmed by mysterious 'drones' off California coast](https://www.thedrive.com/the-war-zone/39913/multiple-destroyers-were-swarmed-by-mysterious-drones-off-california-over-numerous-nights?xid=twittershare)
 - [GPT-3 tries pickup lines](https://aiweirdness.com/post/646367635078103040/gpt-3-tries-pickup-lines)
-- [Donald Knuth’s Algorithm D, its implementation in Hacker’s Delight and elsewhere](https://skanthak.homepage.t-online.de/division.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
