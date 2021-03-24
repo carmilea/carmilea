@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Robinhood Confidentially Files for IPO](https://www.bnnbloomberg.ca/robinhood-is-said-to-have-filed-confidentially-for-u-s-ipo-1.1581283)
-- [Hacktivism, Leaktivism and the Future](https://ddosecrets.substack.com/p/hacktivism-leaktivism-and-the-future)
+- [Does Media Coverage Inspire Copy Cat Mass Shootings?](https://www.center4research.org/copy-cats-kill/)
+- [Maps Show How Dramatically Fertilizer Is Choking the Great Lakes](https://returntonow.net/2020/12/11/maps-show-how-dramatically-fertilizer-is-choking-the-great-lakes/)
+- [Robinhood is said to have filed confidentially for U.S. IPO](https://www.bnnbloomberg.ca/robinhood-is-said-to-have-filed-confidentially-for-u-s-ipo-1.1581283)
+- [Hacktivism, leaktivism and the future](https://ddosecrets.substack.com/p/hacktivism-leaktivism-and-the-future)
 - [The fight against fake-paper factories that churn out sham science](https://www.nature.com/articles/d41586-021-00733-5)
-- [The Most Important Scarce Resource Is Legitimacy](https://vitalik.ca/general/2021/03/23/legitimacy.html)
-- [The End of AMP?](https://www.lafoo.com/the-end-of-amp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
