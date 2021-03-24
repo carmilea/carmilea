@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Does Media Coverage Inspire Copy Cat Mass Shootings?](https://www.center4research.org/copy-cats-kill/)
-- [Maps Show How Dramatically Fertilizer Is Choking the Great Lakes](https://returntonow.net/2020/12/11/maps-show-how-dramatically-fertilizer-is-choking-the-great-lakes/)
-- [Robinhood is said to have filed confidentially for U.S. IPO](https://www.bnnbloomberg.ca/robinhood-is-said-to-have-filed-confidentially-for-u-s-ipo-1.1581283)
-- [Hacktivism, leaktivism and the future](https://ddosecrets.substack.com/p/hacktivism-leaktivism-and-the-future)
-- [The fight against fake-paper factories that churn out sham science](https://www.nature.com/articles/d41586-021-00733-5)
+- [Donald Knuth’s Algorithm D, its implementation in Hacker’s Delight and elsewhere](https://skanthak.homepage.t-online.de/division.html)
+- [Slow Tuesday Night by R.A. Lafferty (1965) [pdf]](https://www.fcusd.org/cms/lib03/CA01001934/Centricity/Domain/3762/SLOW-TUESDAY-NIGHT.pdf)
+- [Closing web browser windows doesn't close connections](https://lapcatsoftware.com/articles/closing.html)
+- [Etleap (YC W13) Is Hiring VP of Product Marketing](https://news.ycombinator.com/item?id=26562296)
+- [Show HN: Bangle.dev – Collection of tools for building rich text editors](https://github.com/bangle-io/bangle.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
