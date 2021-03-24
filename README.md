@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The End of Tesla’s Dominance May Be Closer Than It Appears](https://www.bloomberg.com/news/articles/2021-03-24/tesla-tsla-and-elon-musk-s-dominance-is-threatened-by-volkswagen)
-- [The Future of Perl](https://perl.topicbox.com/groups/perl-core/T4bad780270b6eec5-Mda5ea1e37bdfe5d7b37f443c/the-future-of-perl)
-- [Google Removed ClearURLs Extension from Chrome Web Store](https://github.com/ClearURLs/Addon/issues/102)
-- [How to create a 1M record table with a single query](https://antonz.org/random-table/)
-- [Crazy fast build times, or when 10 seconds starts to make you nervous (2012)](http://dan.bodar.com/2012/02/28/crazy-fast-build-times-or-when-10-seconds-starts-to-make-you-nervous/)
+- [PinePhone – Beta Edition Linux SmartPhone Preorder](https://pine64.com/product/pinephone-beta-edition-linux-smartphone/?v=0446c16e2e66)
+- [GiveCampus (YC S15) Is Hiring remote Rails engineers passionate about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
+- [The Python Package Index is now a GitHub secret scanning integrator](https://github.blog/changelog/2021-03-22-the-python-package-index-is-now-a-github-secret-scanning-integrator/)
+- [My Python testing style guide (2017)](https://blog.thea.codes/my-python-testing-style-guide/)
+- [Firefox 87 introduces SmartBlock for Private Browsing](https://blog.mozilla.org/security/2021/03/23/introducing-smartblock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
