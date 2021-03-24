@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The End of Tesla’s Dominance May Be Closer Than It Appears](https://www.bloomberg.com/news/articles/2021-03-24/tesla-tsla-and-elon-musk-s-dominance-is-threatened-by-volkswagen)
 - [The Future of Perl](https://perl.topicbox.com/groups/perl-core/T4bad780270b6eec5-Mda5ea1e37bdfe5d7b37f443c/the-future-of-perl)
 - [Google Removed ClearURLs Extension from Chrome Web Store](https://github.com/ClearURLs/Addon/issues/102)
 - [How to create a 1M record table with a single query](https://antonz.org/random-table/)
 - [Crazy fast build times, or when 10 seconds starts to make you nervous (2012)](http://dan.bodar.com/2012/02/28/crazy-fast-build-times-or-when-10-seconds-starts-to-make-you-nervous/)
-- [Cargo Cult Science (1974)](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
