@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump in talks with upstart apps about new social network](https://www.axios.com/trump-social-media-platform-freespace-a77d7dfc-3288-48bf-bc7e-8942da24bdbd.html)
+- [RoadPony: Guaranteed income and crowd for bands. Guaranteed good times for fans](http://www.roadpony.com)
 - [Lawyers used sheepskin as anti-fraud device for hundreds of years](https://phys.org/news/2021-03-lawyers-sheepskin-anti-fraud-device-hundreds.html)
-- [H.265 makes video files 94% smaller (at the same quality)](https://janstechtalk.blogspot.com/2021/03/comparing-h265-hevc-and-h265-video-file.html)
-- [Reproductive Problems in Both Men and Women Are Rising at an Alarming Rate](https://www.scientificamerican.com/article/reproductive-problems-in-both-men-and-women-are-rising-at-an-alarming-rate/)
-- [Do you want Linux phones?](https://blog.brixit.nl/do-you-really-want-linux-phones/)
+- [Comparing H.265 (HEVC) and H265 video file size](https://janstechtalk.blogspot.com/2021/03/comparing-h265-hevc-and-h265-video-file.html)
+- [Do you really want Linux phones](https://blog.brixit.nl/do-you-really-want-linux-phones/)
+- [Where are all the containers? The global shortage explained](https://www.hillebrand.com/media/publication/where-are-all-the-containers-the-global-shortage-explained)
 <!-- BLOG-POST-LIST:END -->
 
 ---
