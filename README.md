@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nationwide tells 13,000 staff to 'work anywhere'](https://www.bbc.co.uk/news/business-56510574)
 - [Gödel's Loophole](https://en.wikipedia.org/wiki/Gödel%27s_Loophole)
 - [US Mortality Monitoring – Deaths, Excess, Z-Scores, State Map](https://www.usmortality.com/)
 - [DeaDBeeF Player: Multi-platform foobar200-like player](https://deadbeef.sourceforge.io/)
 - [OAuth Attack Vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)
-- [RoadPony is a new way to support musicians by crowdsourcing concerts](http://www.roadpony.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
