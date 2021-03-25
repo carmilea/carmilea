@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RoadPony: Guaranteed income and crowd for bands. Guaranteed good times for fans](http://www.roadpony.com)
+- [RoadPony is a new way to support musicians by crowdsourcing concerts](http://www.roadpony.com)
 - [Lawyers used sheepskin as anti-fraud device for hundreds of years](https://phys.org/news/2021-03-lawyers-sheepskin-anti-fraud-device-hundreds.html)
 - [Comparing H.265 (HEVC) and H265 video file size](https://janstechtalk.blogspot.com/2021/03/comparing-h265-hevc-and-h265-video-file.html)
 - [Do you really want Linux phones](https://blog.brixit.nl/do-you-really-want-linux-phones/)
