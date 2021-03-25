@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Mortality Monitoring – Deaths, Excess, Z-Scores, State Map](https://www.usmortality.com/)
+- [DeaDBeeF Player: Multi-platform foobar200-like player](https://deadbeef.sourceforge.io/)
 - [RoadPony is a new way to support musicians by crowdsourcing concerts](http://www.roadpony.com)
 - [Lawyers used sheepskin as anti-fraud device for hundreds of years](https://phys.org/news/2021-03-lawyers-sheepskin-anti-fraud-device-hundreds.html)
-- [Comparing H.265 (HEVC) and H265 video file size](https://janstechtalk.blogspot.com/2021/03/comparing-h265-hevc-and-h265-video-file.html)
 - [Do you really want Linux phones](https://blog.brixit.nl/do-you-really-want-linux-phones/)
-- [Where are all the containers? The global shortage explained](https://www.hillebrand.com/media/publication/where-are-all-the-containers-the-global-shortage-explained)
 <!-- BLOG-POST-LIST:END -->
 
 ---
