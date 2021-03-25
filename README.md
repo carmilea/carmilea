@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Angels of Supabase](https://supabase.io/new/blog/2021/03/25/angels-of-supabase)
+- [Real World Examples of GPT-3 Plain Language Root Cause Summaries](https://www.zebrium.com/blog/real-world-examples-of-gpt-3-plain-language-root-cause-summaries-zebrium)
+- [Neo-Geo Assembly Programming for the Absolute Beginner (2016)](https://www.ajworld.net/neogeodev/beginner/)
 - [Phones and apps reduce your ability to focus even when they don’t distract you](https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you)
 - [Show HN: Trove – Curate and publish a knowledge base on any topic](https://trove.to/)
-- [Kodable is hiring a Senior Software Engineer to help teach kids how to code](https://triplebyte.com/company/public/kodable/Ll0usuE/senior-software-engineer)
-- [CoScreen: Screen Sharing for Engineers](https://www.coscreen.co/)
-- [Combating Misinformation](https://about.fb.com/news/tag/misinformation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
