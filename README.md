@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Big investors shun Deliveroo over workers' rights](https://www.bbc.co.uk/news/business-56515498)
 - [Nationwide tells 13,000 staff to 'work anywhere'](https://www.bbc.co.uk/news/business-56510574)
+- [New Alan Turing £50 note design is revealed](https://www.bbc.co.uk/news/business-56503741)
+- [Polycloud: S3-compatible object storage, 20% cheaper than b2](https://crowdstorage.com/products/polycloud/)
 - [Gödel's Loophole](https://en.wikipedia.org/wiki/Gödel%27s_Loophole)
-- [US Mortality Monitoring – Deaths, Excess, Z-Scores, State Map](https://www.usmortality.com/)
-- [DeaDBeeF Player: Multi-platform foobar200-like player](https://deadbeef.sourceforge.io/)
-- [OAuth Attack Vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
