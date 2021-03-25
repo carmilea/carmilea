@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An update on the recent issues surrounding a Reddit employee](https://www.reddit.com/r/announcements/comments/mcisdf/an_update_on_the_recent_issues_surrounding_a/)
-- [Show HN: Arc, an Open Source Databricks Alternative](https://arc.tripl.ai/)
+- [H.265 makes video files 94% smaller (at the same quality)](https://janstechtalk.blogspot.com/2021/03/comparing-h265-hevc-and-h265-video-file.html)
+- [Do you want Linux phones?](https://blog.brixit.nl/do-you-really-want-linux-phones/)
+- [Where are all the containers? The global shortage explained](https://www.hillebrand.com/media/publication/where-are-all-the-containers-the-global-shortage-explained)
+- [Show HN: Arc, an open-source Databricks alternative](https://arc.tripl.ai/)
 - [Pollution from fossil fuel combustion deadlier than previously thought](https://www.hsph.harvard.edu/news/hsph-in-the-news/pollution-from-fossil-fuel-combustion-deadlier-than-previously-thought/)
-- [Intel chief Pat Gelsinger: Too many chips made in Asia](https://www.bbc.com/news/technology-56512430)
-- [Counting cycles and instructions on the Apple M1 processor](https://lemire.me/blog/2021/03/24/counting-cycles-and-instructions-on-the-apple-m1-processor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
