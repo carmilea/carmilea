@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [‘I don’t smell ’ Meet the people who have stopped washing (2019)](https://www.theguardian.com/lifeandstyle/2019/aug/05/i-dont-smell-meet-the-people-who-have-stopped-washing)
 - [Big investors shun Deliveroo over workers' rights](https://www.bbc.co.uk/news/business-56515498)
 - [Nationwide tells 13,000 staff to 'work anywhere'](https://www.bbc.co.uk/news/business-56510574)
 - [New Alan Turing £50 note design is revealed](https://www.bbc.co.uk/news/business-56503741)
 - [What happens when ICE asks Google for your user information](https://www.latimes.com/business/technology/story/2021-03-24/federal-agencies-subpoena-google-personal-information)
+- [Polycloud: S3-compatible object storage, 20% cheaper than b2](https://crowdstorage.com/products/polycloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
