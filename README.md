@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why All My Servers Have an 8GB Empty File on Disk](https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/)
+- [B.C. gov refuses to register bizz in indigenous language due to charset issues](https://www.cbc.ca/news/canada/british-columbia/bc-government-denies-woman-to-register-business-indigenous-language-1.5962694)
+- [All my servers have an 8 GB empty file on disk](https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/)
+- [Angels of Supabase](https://supabase.io/new/blog/2021/03/25/angels-of-supabase)
 - [Real World Examples of GPT-3 Plain Language Root Cause Summaries](https://www.zebrium.com/blog/real-world-examples-of-gpt-3-plain-language-root-cause-summaries-zebrium)
 - [Neo-Geo Assembly Programming for the Absolute Beginner (2016)](https://www.ajworld.net/neogeodev/beginner/)
-- [Phones and apps reduce your ability to focus even when they don’t distract you](https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you)
-- [Show HN: Trove – Curate and publish a knowledge base on any topic](https://trove.to/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
