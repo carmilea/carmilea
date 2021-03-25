@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Angels of Supabase](https://supabase.io/new/blog/2021/03/25/angels-of-supabase)
+- [Why All My Servers Have an 8GB Empty File on Disk](https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/)
 - [Real World Examples of GPT-3 Plain Language Root Cause Summaries](https://www.zebrium.com/blog/real-world-examples-of-gpt-3-plain-language-root-cause-summaries-zebrium)
 - [Neo-Geo Assembly Programming for the Absolute Beginner (2016)](https://www.ajworld.net/neogeodev/beginner/)
 - [Phones and apps reduce your ability to focus even when they don’t distract you](https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you)
