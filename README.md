@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [B.C. gov refuses to register bizz in indigenous language due to charset issues](https://www.cbc.ca/news/canada/british-columbia/bc-government-denies-woman-to-register-business-indigenous-language-1.5962694)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [Duck poop might explain fish in isolated bodies of water](https://www.smithsonianmag.com/smart-news/special-delivery-duck-poop-may-transport-fish-eggs-new-waters-180975230/)
+- [Speculating the Entire x86-64 Instruction Set in Seconds with One Weird Trick](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/)
 - [All my servers have an 8 GB empty file on disk](https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/)
 - [Angels of Supabase](https://supabase.io/new/blog/2021/03/25/angels-of-supabase)
-- [Real World Examples of GPT-3 Plain Language Root Cause Summaries](https://www.zebrium.com/blog/real-world-examples-of-gpt-3-plain-language-root-cause-summaries-zebrium)
-- [Neo-Geo Assembly Programming for the Absolute Beginner (2016)](https://www.ajworld.net/neogeodev/beginner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
