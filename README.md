@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Suez Canal: How are they trying to free the Ever Given?](https://www.bbc.com/news/56523659)
-- [In Defense of Richard Stallman (2019)](https://geoff.greer.fm/2019/09/30/in-defense-of-richard-stallman/)
+- [It 'Might Take Weeks' to Free Ship Stuck in Suez Canal](https://www.npr.org/2021/03/25/981128288/it-might-take-weeks-to-free-ship-stuck-in-suez-canal-salvage-company-says)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 - [Is that ship still stuck?](https://istheshipstillstuck.com/)
 - [Speculating the Entire x86-64 Instruction Set in Seconds with One Weird Trick](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/)
+- [All my servers have an 8 GB empty file on disk](https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
