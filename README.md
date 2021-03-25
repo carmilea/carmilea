@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yocto/GL: C++ Libraries for Data-Driven Physically-Based Graphics](https://github.com/xelatihy/yocto-gl)
-- [Endless Operating System](https://endlessos.com/home/)
-- [RIP Google Reader](https://www.ripgooglereader.com/)
-- [Netlify is having CDN issues](https://www.netlifystatus.com/incidents/r2nqshvznvyj)
-- [Julia 1.6 Highlights](https://julialang.org/blog/2021/03/julia-1.6-highlights/)
+- [Phones and apps reduce your ability to focus even when they don’t distract you](https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you)
+- [Show HN: Trove – Curate and publish a knowledge base on any topic](https://trove.to/)
+- [Kodable is hiring a Senior Software Engineer to help teach kids how to code](https://triplebyte.com/company/public/kodable/Ll0usuE/senior-software-engineer)
+- [CoScreen: Screen Sharing for Engineers](https://www.coscreen.co/)
+- [Combating Misinformation](https://about.fb.com/news/tag/misinformation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
