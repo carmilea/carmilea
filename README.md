@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Big investors shun Deliveroo over workers' rights](https://www.bbc.co.uk/news/business-56515498)
-- [Nationwide tells 13,000 staff to 'work anywhere'](https://www.bbc.co.uk/news/business-56510574)
-- [New Alan Turing £50 note design is revealed](https://www.bbc.co.uk/news/business-56503741)
-- [What happens when ICE asks Google for your user information](https://www.latimes.com/business/technology/story/2021-03-24/federal-agencies-subpoena-google-personal-information)
-- [Polycloud: S3-compatible object storage, 20% cheaper than b2](https://crowdstorage.com/products/polycloud/)
+- [Facebook sued for 'deceptive practices' over disinformation on platform](https://www.theguardian.com/technology/2021/mar/23/facebook-lawsuit-deceptive-practices-disinformation)
+- [OneSignal Is Hiring Engineers in California, New York, Texas, and the UK](https://onesignal.com/careers)
+- [Introducing: Funds for Open Source](https://blog.opencollective.com/funds-for-open-source/)
+- [Julia and the satellite Amazonia-1 (2020)](https://discourse.julialang.org/t/julia-and-the-satellite-amazonia-1/57541)
+- [Fossil Chat](https://www.fossil-scm.org/home/doc/trunk/www/chat.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
