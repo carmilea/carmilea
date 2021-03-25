@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Calc.exe is now open source; there’s surprising depth in its ancient code (2019)](https://arstechnica.com/gadgets/2019/03/calc-exe-is-now-open-source-theres-surprising-depth-in-its-ancient-code/)
-- [Evolutionary biologist slays the beast of Individualism](https://nautil.us/issue/98/mind/i-have-come-to-bury-ayn-rand)
-- [OneSignal Is Hiring Engineers in California, New York, Texas, and the UK](https://onesignal.com/careers)
-- [Introducing: Funds for Open Source](https://blog.opencollective.com/funds-for-open-source/)
-- [Julia and the satellite Amazonia-1 (2020)](https://discourse.julialang.org/t/julia-and-the-satellite-amazonia-1/57541)
+- [OpenSSL Security Advisory [25 March 2021]](https://www.openssl.org/news/secadv/20210325.txt)
+- [Show HN: WebAssembly and ffmpeg = Quick clip, overlay, resize and GIF-ize videos](https://vidds.co/free-video-converter/)
+- [KDE vs. Gnome Design Philosophies](http://www.ocsmag.com/2017/04/29/kde-vs-gnome-design-philosophies/)
+- [Show HN: I built a VS Code Theme Creator – easily make VS Code themes in browser](https://themes.vscode.one)
+- [Emacs 27.2](https://lists.gnu.org/archive/html/info-gnu/2021-03/msg00008.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
