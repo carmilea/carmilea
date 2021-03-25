@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenSSL Security Advisory [25 March 2021]](https://www.openssl.org/news/secadv/20210325.txt)
-- [Show HN: WebAssembly and ffmpeg = Quick clip, overlay, resize and GIF-ize videos](https://vidds.co/free-video-converter/)
-- [KDE vs. Gnome Design Philosophies](http://www.ocsmag.com/2017/04/29/kde-vs-gnome-design-philosophies/)
-- [Show HN: I built a VS Code Theme Creator – easily make VS Code themes in browser](https://themes.vscode.one)
-- [Emacs 27.2](https://lists.gnu.org/archive/html/info-gnu/2021-03/msg00008.html)
+- [Netlify is having CDN issues](https://www.netlifystatus.com/incidents/r2nqshvznvyj)
+- [Julia 1.6 Highlights](https://julialang.org/blog/2021/03/julia-1.6-highlights/)
+- [Programming quotes](https://www.ronaldsvilcins.com/2020/12/10/programming-quotes/)
+- [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/)
+- [Rust 1.51](https://blog.rust-lang.org/2021/03/25/Rust-1.51.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
