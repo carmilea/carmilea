@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook sued for 'deceptive practices' over disinformation on platform](https://www.theguardian.com/technology/2021/mar/23/facebook-lawsuit-deceptive-practices-disinformation)
+- [Calc.exe is now open source; there’s surprising depth in its ancient code (2019)](https://arstechnica.com/gadgets/2019/03/calc-exe-is-now-open-source-theres-surprising-depth-in-its-ancient-code/)
+- [Evolutionary biologist slays the beast of Individualism](https://nautil.us/issue/98/mind/i-have-come-to-bury-ayn-rand)
 - [OneSignal Is Hiring Engineers in California, New York, Texas, and the UK](https://onesignal.com/careers)
 - [Introducing: Funds for Open Source](https://blog.opencollective.com/funds-for-open-source/)
 - [Julia and the satellite Amazonia-1 (2020)](https://discourse.julialang.org/t/julia-and-the-satellite-amazonia-1/57541)
-- [Fossil Chat](https://www.fossil-scm.org/home/doc/trunk/www/chat.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
