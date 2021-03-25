@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gödel's Loophole](https://en.wikipedia.org/wiki/Gödel%27s_Loophole)
 - [US Mortality Monitoring – Deaths, Excess, Z-Scores, State Map](https://www.usmortality.com/)
 - [DeaDBeeF Player: Multi-platform foobar200-like player](https://deadbeef.sourceforge.io/)
+- [OAuth Attack Vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)
 - [RoadPony is a new way to support musicians by crowdsourcing concerts](http://www.roadpony.com)
-- [Lawyers used sheepskin as anti-fraud device for hundreds of years](https://phys.org/news/2021-03-lawyers-sheepskin-anti-fraud-device-hundreds.html)
-- [Do you really want Linux phones](https://blog.brixit.nl/do-you-really-want-linux-phones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
