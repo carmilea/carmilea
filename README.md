@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yocto/GL: C++ Libraries for Data-Driven Physically-Based Graphics](https://github.com/xelatihy/yocto-gl)
+- [Endless Operating System](https://endlessos.com/home/)
+- [RIP Google Reader](https://www.ripgooglereader.com/)
 - [Netlify is having CDN issues](https://www.netlifystatus.com/incidents/r2nqshvznvyj)
 - [Julia 1.6 Highlights](https://julialang.org/blog/2021/03/julia-1.6-highlights/)
-- [Programming quotes](https://www.ronaldsvilcins.com/2020/12/10/programming-quotes/)
-- [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/)
-- [Rust 1.51](https://blog.rust-lang.org/2021/03/25/Rust-1.51.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
