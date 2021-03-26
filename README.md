@@ -54,8 +54,8 @@
 - [AI names colors much as humans do](https://ai.facebook.com/blog/ai-names-colors-much-as-humans-do/)
 - [Egg: E-Graphs Good](https://egraphs-good.github.io/)
 - [Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
-- [Why OO Sucks by Joe Armstrong (2000)](http://harmful.cat-v.org/software/OO_programming/why_oo_sucks)
 - [Bad Apple on an Apple //e: playing video on a stock 1 MHz Apple II [video]](https://www.youtube.com/watch?v=X4faogRMOL4)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
