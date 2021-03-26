@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tony Hsieh Bankrolled His Followers. In Return, They Enabled His Risky Lifestyle](https://www.wsj.com/articles/tony-hsieh-zappos-death-entourage-11616761915)
+- [Smarking (YC W15) Is Hiring Multiple Key/Exec Position for Expansion](https://www.smarking.com/careers)
+- [Common Crawl: non profit public web crawl data](https://commoncrawl.org/)
 - [The Darkhad, the soul guards of Genghis Khan](https://supchina.com/2021/03/18/meeting-the-darkhad-the-soul-guards-of-genghis-khan/)
-- [How to Fully Uninstall Discord on Windows 10 and Mac – (2021)](https://www.discordtips.com/how-to-fully-uninstall-discord/)
 - [Ever Given Container Ship Fan Fiction](https://archiveofourown.org/tags/Ever%20Given%20Container%20Ship*s*Suez%20Canal%20(Anthropomorphic)/works)
-- [Whimsical Guide to Compensation](https://whimsical.com/blog/guide-to-compensation)
-- [Why Microsoft Wants Discord](https://www.theverge.com/2021/3/26/22352028/microsoft-discord-acquisition-analysis-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
