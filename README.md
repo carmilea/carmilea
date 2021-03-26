@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Video games 'good for well-being'](https://www.bbc.com/news/technology-54954622)
+- [Permission.site](https://permission.site/)
 - [Transiting the Suez Canal in a Private Sailboat](http://www.sailsafely.com/suez_canal.htm)
+- [Supreme Court expands meaning of 'seizure' under 4th Amendment](https://www.latimes.com/politics/story/2021-03-25/supreme-court-expands-meaning-of-seizure-under-4th-amendment)
 - [Open source Heroku Like Platform on premises](https://github.com/porter-dev/porter)
-- [AI names colors much as humans do](https://ai.facebook.com/blog/ai-names-colors-much-as-humans-do/)
-- [Egg: E-Graphs Good](https://egraphs-good.github.io/)
+- [Can My Water Cooled Raspberry Pi Cluster Beat My MacBook?](https://www.the-diy-life.com/can-my-water-cooled-raspberry-pi-cluster-beat-my-macbook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
