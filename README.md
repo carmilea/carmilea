@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Real throughput of six commercial routers in an octoScope STACK-MAX testbed](https://www.smallnetbuilder.com/wireless/wireless-features/33229-how-much-total-throughput-can-your-wi-fi-router-really-provide)
+- [U.S. rent has increased 175% faster than household income over past 20 years](https://phys.org/news/2021-03-rent-faster-household-income-years.html)
 - [Tony Hsieh Bankrolled His Followers. In Return, They Enabled His Risky Lifestyle](https://www.wsj.com/articles/tony-hsieh-zappos-death-entourage-11616761915)
 - [Smarking (YC W15) Is Hiring Multiple Key/Exec Position for Expansion](https://www.smarking.com/careers)
 - [Common Crawl: non profit public web crawl data](https://commoncrawl.org/)
-- [The Darkhad, the soul guards of Genghis Khan](https://supchina.com/2021/03/18/meeting-the-darkhad-the-soul-guards-of-genghis-khan/)
-- [Ever Given Container Ship Fan Fiction](https://archiveofourown.org/tags/Ever%20Given%20Container%20Ship*s*Suez%20Canal%20(Anthropomorphic)/works)
 <!-- BLOG-POST-LIST:END -->
 
 ---
