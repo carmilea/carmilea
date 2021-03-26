@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Joe Is Wrong (2009)](http://goran.krampe.se/2009/06/26/joe-is-wrong/)
+- [AviatorScript – A high performance scripting language hosted on the JVM](https://github.com/killme2008/aviatorscript/blob/master/README-EN.md)
 - [HMM Rotterdam appears to be diverting to avoid congestion at Suez](https://twitter.com/MarineTraffic/status/1375353647937290245/photo/1)
 - [GIMP PyDev](https://github.com/isman7/gimp-python-development)
 - [Sunsama (YC W19) Is Hiring a Growth Lead](https://www.ycombinator.com/companies/11959/jobs/DydOlPN-growth-lead)
-- [Ancient Egyptian manual reveals new details about mummification](https://humanities.ku.dk/news/2021/ancient-egyptian-manual-reveals-new-details-about-mummification/)
-- [The Drivers Cooperative](https://www.drivers.coop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
