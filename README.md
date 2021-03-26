@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GIMP PyDev](https://github.com/isman7/gimp-python-development)
 - [The Bank of England unveils design of new £50 banknote featuring Alan Turing](https://www.bankofengland.co.uk/news/2021/march/the-new-50-note-unveiled)
 - [Sunsama (YC W19) Is Hiring a Growth Lead](https://www.ycombinator.com/companies/11959/jobs/DydOlPN-growth-lead)
 - [Ancient Egyptian manual reveals new details about mummification](https://humanities.ku.dk/news/2021/ancient-egyptian-manual-reveals-new-details-about-mummification/)
 - [The Drivers Cooperative](https://www.drivers.coop/)
-- [Apple User Group Meeting Recording with Steve Wozniak (1978)](https://archive.org/details/camvchm_000069/camvchm_000069_t01_a_access.mp3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
