@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Remove RMS from the GCC Steering Committee](https://gcc.gnu.org/pipermail/gcc/2021-March/235091.html)
 - [An author's obsession with freeing a man from prison](https://www.themarshallproject.org/2021/03/24/a-bestselling-author-became-obsessed-with-freeing-a-man-from-prison-it-nearly-ruined-her-life)
 - [PlenOctrees for Real-Time Rendering of Neural Radiance Fields (NeRFs)](http://alexyu.net/plenoctrees/)
 - [Molar City](https://hazlitt.net/longreads/molar-city)
-- [Beverly Cleary has died](https://www.washingtonpost.com/local/obituaries/beverly-cleary-dead/2021/03/26/afee8588-0aed-11e6-a6b6-2e6de3695b0e_story.html)
-- [PiinPoint (YC W14) Is Hiring a Development Team Lead in Ontario, Canada](https://angel.co/company/piinpoint/jobs/1274159-development-team-lead)
+- [In Stockholm there's currently an IT battle underway](https://twitter.com/spongepaddy/status/1375206110412570638)
 <!-- BLOG-POST-LIST:END -->
 
 ---
