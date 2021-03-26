@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work (2016)](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work)
+- [Game of Life oscillator running on tweets](https://twitter.com/pomber/status/1267476947854073857)
+- [The F-35 may be unsalvageable](https://thehill.com/blogs/congress-blog/economy-budget/545040-the-f-35-may-be-unsalvageable)
+- [Factorio Is the Best Technical Interview We Have](https://erikmcclure.com/blog/factorio-is-best-interview-we-have/)
+- [Employees are happier when led by people with deep expertise (2016)](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work)
 - [Apt Encounters of the Third Kind](https://igor-blue.github.io/2021/03/24/apt1.html)
-- [Renewables met 97% of Scotland's electricity demand in 2020](https://www.bbc.com/news/uk-scotland-56530424)
-- [Why string lengths for single emoji characters evaluate to greater than 1](https://hsivonen.fi/string-length/)
-- [The scientists releasing cats in Australia](https://www.bbc.com/future/article/20210324-assisting-evolution-how-much-should-we-help-species-adapt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
