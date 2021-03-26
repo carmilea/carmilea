@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work (2016)](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work)
+- [Apt Encounters of the Third Kind](https://igor-blue.github.io/2021/03/24/apt1.html)
 - [Renewables met 97% of Scotland's electricity demand in 2020](https://www.bbc.com/news/uk-scotland-56530424)
 - [Why string lengths for single emoji characters evaluate to greater than 1](https://hsivonen.fi/string-length/)
-- [Ask HN: Why do companies ask employees to set goals?](https://news.ycombinator.com/item?id=26591035)
-- [Gustav (YC S17) Is Hiring – Senior Full Stack Engineer (Fully Remote)](https://gustav-technologies-inc.breezy.hr/p/63df0f7204c501)
-- [Google’s top security teams unilaterally shut down a counterterrorism operation](https://www.technologyreview.com/2021/03/26/1021318/google-security-shut-down-counter-terrorist-us-ally/)
+- [The scientists releasing cats in Australia](https://www.bbc.com/future/article/20210324-assisting-evolution-how-much-should-we-help-species-adapt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
