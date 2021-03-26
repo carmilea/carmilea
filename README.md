@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An author's obsession with freeing a man from prison](https://www.themarshallproject.org/2021/03/24/a-bestselling-author-became-obsessed-with-freeing-a-man-from-prison-it-nearly-ruined-her-life)
+- [PlenOctrees for Real-Time Rendering of Neural Radiance Fields (NeRFs)](http://alexyu.net/plenoctrees/)
+- [Molar City](https://hazlitt.net/longreads/molar-city)
+- [Beverly Cleary has died](https://www.washingtonpost.com/local/obituaries/beverly-cleary-dead/2021/03/26/afee8588-0aed-11e6-a6b6-2e6de3695b0e_story.html)
 - [PiinPoint (YC W14) Is Hiring a Development Team Lead in Ontario, Canada](https://angel.co/company/piinpoint/jobs/1274159-development-team-lead)
-- [Handwriting helps you remember things](https://productivegrowth.substack.com/p/why-im-a-sucker-for-pen-and-paper)
-- [Buildings made with fungi could live, grow – and then biodegrade](https://www.cbc.ca/news/technology/what-on-earth-mycelium-fungi-building-1.5963938)
-- [Annie of Annie's Mac and Cheese](https://www.sfgate.com/food/article/Annie-s-Mac-and-Cheese-is-based-in-Bay-Area-but-16049782.php)
-- [How much total throughput can your wi-fi router really provide?](https://www.smallnetbuilder.com/wireless/wireless-features/33229-how-much-total-throughput-can-your-wi-fi-router-really-provide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
