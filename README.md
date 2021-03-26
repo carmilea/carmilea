@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HMM Rotterdam appears to be diverting to avoid congestion at Suez](https://twitter.com/MarineTraffic/status/1375353647937290245/photo/1)
 - [GIMP PyDev](https://github.com/isman7/gimp-python-development)
-- [The Bank of England unveils design of new £50 banknote featuring Alan Turing](https://www.bankofengland.co.uk/news/2021/march/the-new-50-note-unveiled)
 - [Sunsama (YC W19) Is Hiring a Growth Lead](https://www.ycombinator.com/companies/11959/jobs/DydOlPN-growth-lead)
 - [Ancient Egyptian manual reveals new details about mummification](https://humanities.ku.dk/news/2021/ancient-egyptian-manual-reveals-new-details-about-mummification/)
 - [The Drivers Cooperative](https://www.drivers.coop/)
