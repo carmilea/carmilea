@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Leaked memo shows Amazon knows delivery drivers resort to urinating in bottles](https://www.theguardian.com/technology/2021/mar/25/amazon-delivery-workers-bathrooms-memo)
-- [Real throughput of six commercial routers in an octoScope STACK-MAX testbed](https://www.smallnetbuilder.com/wireless/wireless-features/33229-how-much-total-throughput-can-your-wi-fi-router-really-provide)
+- [Handwriting helps you remember things](https://productivegrowth.substack.com/p/why-im-a-sucker-for-pen-and-paper)
+- [Annie of Annie's Mac and Cheese](https://www.sfgate.com/food/article/Annie-s-Mac-and-Cheese-is-based-in-Bay-Area-but-16049782.php)
+- [How much total throughput can your wi-fi router really provide?](https://www.smallnetbuilder.com/wireless/wireless-features/33229-how-much-total-throughput-can-your-wi-fi-router-really-provide)
 - [U.S. rent has increased 175% faster than household income over past 20 years](https://phys.org/news/2021-03-rent-faster-household-income-years.html)
-- [Tony Hsieh Bankrolled His Followers. In Return, They Enabled His Risky Lifestyle](https://www.wsj.com/articles/tony-hsieh-zappos-death-entourage-11616761915)
-- [Smarking (YC W15) Is Hiring Multiple Key/Exec Position for Expansion](https://www.smarking.com/careers)
+- [Tony Hsieh bankrolled his followers, who enabled his risky lifestyle](https://www.wsj.com/articles/tony-hsieh-zappos-death-entourage-11616761915)
 <!-- BLOG-POST-LIST:END -->
 
 ---
