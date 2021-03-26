@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [T-Mobile, Verizon, AT&T Stop SMS Hijacks After Motherboard Investigation](https://www.vice.com/en/article/5dp7ad/tmobile-verizon-att-sms-hijack-change)
+- [The Alameda-Weehawken Burrito Tunnel](https://idlewords.com/2007/04/the_alameda_weehawken_burrito_tunnel.htm)
+- [What You Can Learn from Old Hard Drive Adverts](https://brooker.co.za/blog/2021/03/25/latency-bandwidth.html)
 - [A workers cooperative ride hailing service](https://www.drivers.coop/)
 - [Apple User Group Meeting Recording with Steve Wozniak (1978)](https://archive.org/details/camvchm_000069/camvchm_000069_t01_a_access.mp3)
 - [Permission.site](https://permission.site/)
-- [Transiting the Suez Canal in a Private Sailboat (2003)](http://www.sailsafely.com/suez_canal.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
