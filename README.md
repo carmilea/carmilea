@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gustav (YC S17) Is Hiring – Senior Full Stack Engineer (Fully Remote)](https://gustav-technologies-inc.breezy.hr/p/63df0f7204c501)
+- [Google’s top security teams unilaterally shut down a counterterrorism operation](https://www.technologyreview.com/2021/03/26/1021318/google-security-shut-down-counter-terrorist-us-ally/)
 - [Joe Is Wrong (2009)](http://goran.krampe.se/2009/06/26/joe-is-wrong/)
 - [AviatorScript – A high performance scripting language hosted on the JVM](https://github.com/killme2008/aviatorscript/blob/master/README-EN.md)
-- [HMM Rotterdam appears to be diverting to avoid congestion at Suez](https://twitter.com/MarineTraffic/status/1375353647937290245/photo/1)
-- [GIMP PyDev](https://github.com/isman7/gimp-python-development)
-- [Sunsama (YC W19) Is Hiring a Growth Lead](https://www.ycombinator.com/companies/11959/jobs/DydOlPN-growth-lead)
+- [How to implement a hash table (in C)](https://benhoyt.com/writings/hash-table-in-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
