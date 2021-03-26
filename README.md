@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Renewables met 97% of Scotland's electricity demand in 2020](https://www.bbc.com/news/uk-scotland-56530424)
+- [Why string lengths for single emoji characters evaluate to greater than 1](https://hsivonen.fi/string-length/)
+- [Ask HN: Why do companies ask employees to set goals?](https://news.ycombinator.com/item?id=26591035)
 - [Gustav (YC S17) Is Hiring – Senior Full Stack Engineer (Fully Remote)](https://gustav-technologies-inc.breezy.hr/p/63df0f7204c501)
 - [Google’s top security teams unilaterally shut down a counterterrorism operation](https://www.technologyreview.com/2021/03/26/1021318/google-security-shut-down-counter-terrorist-us-ally/)
-- [Joe Is Wrong (2009)](http://goran.krampe.se/2009/06/26/joe-is-wrong/)
-- [AviatorScript – A high performance scripting language hosted on the JVM](https://github.com/killme2008/aviatorscript/blob/master/README-EN.md)
-- [How to implement a hash table (in C)](https://benhoyt.com/writings/hash-table-in-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
