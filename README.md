@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaked memo shows Amazon knows delivery drivers resort to urinating in bottles](https://www.theguardian.com/technology/2021/mar/25/amazon-delivery-workers-bathrooms-memo)
 - [Real throughput of six commercial routers in an octoScope STACK-MAX testbed](https://www.smallnetbuilder.com/wireless/wireless-features/33229-how-much-total-throughput-can-your-wi-fi-router-really-provide)
 - [U.S. rent has increased 175% faster than household income over past 20 years](https://phys.org/news/2021-03-rent-faster-household-income-years.html)
 - [Tony Hsieh Bankrolled His Followers. In Return, They Enabled His Risky Lifestyle](https://www.wsj.com/articles/tony-hsieh-zappos-death-entourage-11616761915)
 - [Smarking (YC W15) Is Hiring Multiple Key/Exec Position for Expansion](https://www.smarking.com/careers)
-- [Common Crawl: non profit public web crawl data](https://commoncrawl.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
