@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Game of Life oscillator running on tweets](https://twitter.com/pomber/status/1267476947854073857)
-- [The F-35 may be unsalvageable](https://thehill.com/blogs/congress-blog/economy-budget/545040-the-f-35-may-be-unsalvageable)
-- [Factorio Is the Best Technical Interview We Have](https://erikmcclure.com/blog/factorio-is-best-interview-we-have/)
-- [Employees are happier when led by people with deep expertise (2016)](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work)
-- [Apt Encounters of the Third Kind](https://igor-blue.github.io/2021/03/24/apt1.html)
+- [The Darkhad, the soul guards of Genghis Khan](https://supchina.com/2021/03/18/meeting-the-darkhad-the-soul-guards-of-genghis-khan/)
+- [How to Fully Uninstall Discord on Windows 10 and Mac – (2021)](https://www.discordtips.com/how-to-fully-uninstall-discord/)
+- [Ever Given Container Ship Fan Fiction](https://archiveofourown.org/tags/Ever%20Given%20Container%20Ship*s*Suez%20Canal%20(Anthropomorphic)/works)
+- [Whimsical Guide to Compensation](https://whimsical.com/blog/guide-to-compensation)
+- [Why Microsoft Wants Discord](https://www.theverge.com/2021/3/26/22352028/microsoft-discord-acquisition-analysis-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
