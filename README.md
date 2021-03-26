@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Video games 'good for well-being'](https://www.bbc.com/news/technology-54954622)
+- [Transiting the Suez Canal in a Private Sailboat](http://www.sailsafely.com/suez_canal.htm)
+- [Open source Heroku Like Platform on premises](https://github.com/porter-dev/porter)
 - [AI names colors much as humans do](https://ai.facebook.com/blog/ai-names-colors-much-as-humans-do/)
 - [Egg: E-Graphs Good](https://egraphs-good.github.io/)
-- [Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
-- [Bad Apple on an Apple //e: playing video on a stock 1 MHz Apple II [video]](https://www.youtube.com/watch?v=X4faogRMOL4)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
