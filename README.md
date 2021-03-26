@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Alameda-Weehawken Burrito Tunnel](https://idlewords.com/2007/04/the_alameda_weehawken_burrito_tunnel.htm)
-- [What You Can Learn from Old Hard Drive Adverts](https://brooker.co.za/blog/2021/03/25/latency-bandwidth.html)
-- [A workers cooperative ride hailing service](https://www.drivers.coop/)
+- [The Bank of England unveils design of new £50 banknote featuring Alan Turing](https://www.bankofengland.co.uk/news/2021/march/the-new-50-note-unveiled)
+- [Sunsama (YC W19) Is Hiring a Growth Lead](https://www.ycombinator.com/companies/11959/jobs/DydOlPN-growth-lead)
+- [The Drivers Cooperative](https://www.drivers.coop/)
 - [Apple User Group Meeting Recording with Steve Wozniak (1978)](https://archive.org/details/camvchm_000069/camvchm_000069_t01_a_access.mp3)
 - [Permission.site](https://permission.site/)
 <!-- BLOG-POST-LIST:END -->
