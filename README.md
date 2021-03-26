@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It 'Might Take Weeks' to Free Ship Stuck in Suez Canal](https://www.npr.org/2021/03/25/981128288/it-might-take-weeks-to-free-ship-stuck-in-suez-canal-salvage-company-says)
+- [Amazon Just Cut Off Warehouse Workers from a Companywide Directory](https://www.thestranger.com/slog/2021/03/25/56109515/amazon-just-cut-off-companywide-communication-for-its-warehouse-workers)
+- [Why OO Sucks by Joe Armstrong (2000)](http://harmful.cat-v.org/software/OO_programming/why_oo_sucks)
+- [Bad Apple on an Apple //e: playing video on a stock 1 MHz Apple II [video]](https://www.youtube.com/watch?v=X4faogRMOL4)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 - [Is that ship still stuck?](https://istheshipstillstuck.com/)
-- [Speculating the Entire x86-64 Instruction Set in Seconds with One Weird Trick](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/)
-- [All my servers have an 8 GB empty file on disk](https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
