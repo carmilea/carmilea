@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brazil’s mismanagement of Covid-19 threatens the world](https://www.economist.com/the-americas/2021/03/27/brazils-mismanagement-of-covid-19-threatens-the-world)
+- [Brits head home to avoid being deported as illegals in Spain](https://global247news.com/2021/03/26/tears-flow-for-brits-as-they-head-home-to-avoid-being-deported-as-illegals-in-spain/)
+- [Foxconn hits the gas on vision for 'fabless' EV future](https://asia.nikkei.com/Business/Automobiles/Foxconn-hits-the-gas-on-vision-for-fabless-EV-future)
 - [UiPath Inc S-1 SEC Form](https://sec.report/Document/0001193125-21-094920/)
 - [I tracked down my impostor](https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor)
 - [Combinators: A Centennial View](https://arxiv.org/abs/2103.12811)
-- [Flexport is hiring commercially minded product managers](HTTPS://flexport.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
