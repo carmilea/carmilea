@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yes, Other Countries Do Housing Better, Case 1: Japan](https://www.sightline.org/2021/03/25/yes-other-countries-do-housing-better-case-1-japan/)
 - [The Revolution in Classic Tetris](https://www.newyorker.com/culture/cultural-comment/the-revolution-in-classic-tetris)
+- [The Mercury functional programming language](https://www.mercurylang.org/)
 - [Programmer's Competency Matrix for SDE hiring parameters](https://sijinjoseph.netlify.app/programmer-competency-matrix/)
 - [Morphle (YC W20) Is Hiring](https://www.workatastartup.com/jobs/42933)
-- [Extreme weather events of 535–536](https://en.wikipedia.org/wiki/Extreme_weather_events_of_535–536)
-- [Fussell on Muscle](http://www.drmichaeljoyner.com/sam-fussell-an-interview-with-the-author-of-muscle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
