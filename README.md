@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. fears China attack on Taiwan](https://www.axios.com/biden-taiwan-china-attack-xi-jinping-2f2c8d9a-a295-43dd-a753-6e396952422e.html)
 - [Experience: I tracked down my impostor](https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor)
+- [Combinators: A Centennial View](https://arxiv.org/abs/2103.12811)
 - [Flexport is hiring commercially minded product managers](HTTPS://flexport.com)
 - [Exporting image assets from ethereum smart contract with solidity](https://github.com/dezmou/cryptoghost.art)
-- [Ask HN: Who Are the Investors on HN?](https://news.ycombinator.com/item?id=26603592)
-- [EU experts to say nuclear power qualifies for green investment label: document](https://www.reuters.com/article/us-europe-regulations-finance/eu-experts-to-say-nuclear-power-qualifies-for-green-investment-label-document-idUSKBN2BJ0F0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
