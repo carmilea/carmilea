@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Revolution in Classic Tetris](https://www.newyorker.com/culture/cultural-comment/the-revolution-in-classic-tetris)
+- [Programmer's Competency Matrix for SDE hiring parameters](https://sijinjoseph.netlify.app/programmer-competency-matrix/)
 - [Morphle (YC W20) Is Hiring](https://www.workatastartup.com/jobs/42933)
 - [Extreme weather events of 535–536](https://en.wikipedia.org/wiki/Extreme_weather_events_of_535–536)
 - [Fussell on Muscle](http://www.drmichaeljoyner.com/sam-fussell-an-interview-with-the-author-of-muscle/)
-- [Did the black death rampage across the world a century earlier than we thought?](https://www.smithsonianmag.com/history/did-black-death-rampage-across-world-more-century-previously-thought-180977331/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
