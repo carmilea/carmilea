@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ice-cream toothache': Cold food and drinks pain explained](https://www.bbc.co.uk/news/health-56536300)
+- [PanVk: Open-source Vulkan driver for Arm Mali](https://www.collabora.com/news-and-blog/news-and-events/panvk-an-open-source-vulkan-driver-for-arm-mali-midgard-and-bifrost-gpus.html)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [First known gene transfer from plant to insect identified](https://www.nature.com/articles/d41586-021-00782-w)
-- [Call centre staff to be monitored via webcam for home-working ‘infractions’](https://www.theguardian.com/business/2021/mar/26/teleperformance-call-centre-staff-monitored-via-webcam-home-working-infractions)
 - [Louvre makes its entire collection available online](https://collections.louvre.fr/en/)
-- [The Revolution in Classic Tetris](https://www.newyorker.com/culture/cultural-comment/the-revolution-in-classic-tetris)
 <!-- BLOG-POST-LIST:END -->
 
 ---
