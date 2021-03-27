@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
+- [First known gene transfer from plant to insect identified](https://www.nature.com/articles/d41586-021-00782-w)
 - [Call centre staff to be monitored via webcam for home-working ‘infractions’](https://www.theguardian.com/business/2021/mar/26/teleperformance-call-centre-staff-monitored-via-webcam-home-working-infractions)
 - [Louvre makes its entire collection available online](https://collections.louvre.fr/en/)
-- [How to make Command Prompt launch from Start Menu directly into Windows Terminal](https://www.hanselman.com/blog/how-to-make-command-prompt-powershell-or-any-shell-launch-from-the-start-menu-directly-into-windows-terminal)
 - [The Revolution in Classic Tetris](https://www.newyorker.com/culture/cultural-comment/the-revolution-in-classic-tetris)
-- [The Mercury functional programming language](https://www.mercurylang.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
