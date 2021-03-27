@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. fears China attack on Taiwan](https://www.axios.com/biden-taiwan-china-attack-xi-jinping-2f2c8d9a-a295-43dd-a753-6e396952422e.html)
-- [Experience: I tracked down my impostor](https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor)
+- [I tracked down my impostor](https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor)
+- [Nike Statement on Xinjiang](https://purpose.nike.com/statement-on-xinjiang)
 - [Combinators: A Centennial View](https://arxiv.org/abs/2103.12811)
 - [Flexport is hiring commercially minded product managers](HTTPS://flexport.com)
 - [Exporting image assets from ethereum smart contract with solidity](https://github.com/dezmou/cryptoghost.art)
