@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BPF for storage: an exokernel-inspired approach [pdf]](https://arxiv.org/abs/2102.12922)
 - [Stacker (YC S20) Is Hiring to Built the Future of No-Code (Remote, UTC ± 3h)](https://www.stackerhq.com/jobs)
 - [FileZilla now contains adware if you download from the official homepage](https://www.twitter.com/nixcraft/status/1375389973742948355)
+- [Designing a Programming Language (2015)](http://ducklang.org/designing-a-programming-language-i)
 - [2020 World Press Freedom Index: A decisive decade for the future of journalism](https://www.data-show.com/blog/2020-world-press-freedom-index-a-decisive-decade-for-the-future-of-journalism/)
-- [Elite philanthropy mainly self-serving](https://academictimes.com/elite-philanthropy-mainly-self-serving-2/)
-- ['Ice-cream toothache': Cold food and drinks pain explained](https://www.bbc.co.uk/news/health-56536300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
