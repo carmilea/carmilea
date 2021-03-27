@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You can handle The Diamond with CMake](http://beza1e1.tuxen.de/cmake_diamond.html)
-- [Go+: Go designed for data science](https://goplus.org/)
-- [Open source is not a business model (2018)](https://anonymoushash.vmbrasseur.com/2018/08/24/open-source-is-not-a-business-model-and-your-business-will-fail-if-you-think-that-it-is/)
-- [AMA: Gaël Duval, founder of the de-Googled Android OS /e/](https://www.reddit.com/r/privacy/comments/mdk6xn/im_ga%C3%ABl_duval_founder_of_the_degoogled_android_os/)
-- [Facebook freezes Venezuela president Maduro's page](https://www.reuters.com/article/us-facebook-venezuela-exclusive/exclusive-facebook-freezes-venezuela-president-maduros-page-over-covid-19-misinformation-idUSKBN2BJ03Z)
+- [Ever Given Ships Erratic Route into Suez Canal](https://imgur.com/pjf6y7L)
+- [Flexport is hiring commercially minded product managers](HTTPS://flexport.com)
+- [Exporting image assets from ethereum smart contract with solidity](https://github.com/dezmou/cryptoghost.art)
+- [Ask HN: Who Are the Investors on HN?](https://news.ycombinator.com/item?id=26603592)
+- [PSA: Keep Time Machine disks out of your Finder sidebar](https://twitter.com/_saagarjha/status/1375641647325736961)
 <!-- BLOG-POST-LIST:END -->
 
 ---
