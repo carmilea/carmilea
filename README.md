@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Documents show Amazon is aware drivers pee in bottles and even defecate enroute](https://theintercept.com/2021/03/25/amazon-drivers-pee-bottles-union/)
-- [China accused of forcing 570k people to pick cotton in Xinjiang](https://www.reuters.com/article/china-cotton-forced-labour-trfn/china-accused-of-forcing-570000-people-to-pick-cotton-in-xinjiang-idUSKBN28P2CM)
+- [You can handle The Diamond with CMake](http://beza1e1.tuxen.de/cmake_diamond.html)
+- [Go+: Go designed for data science](https://goplus.org/)
+- [Open source is not a business model (2018)](https://anonymoushash.vmbrasseur.com/2018/08/24/open-source-is-not-a-business-model-and-your-business-will-fail-if-you-think-that-it-is/)
 - [AMA: Gaël Duval, founder of the de-Googled Android OS /e/](https://www.reddit.com/r/privacy/comments/mdk6xn/im_ga%C3%ABl_duval_founder_of_the_degoogled_android_os/)
 - [Facebook freezes Venezuela president Maduro's page](https://www.reuters.com/article/us-facebook-venezuela-exclusive/exclusive-facebook-freezes-venezuela-president-maduros-page-over-covid-19-misinformation-idUSKBN2BJ03Z)
-- [Baltimore prosecutor ends drug, sex prosecutions as violent crime plummets](https://www.washingtonpost.com/dc-md-va/2021/03/26/baltimore-reducing-prosecutions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
