@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Remove RMS from the GCC Steering Committee](https://gcc.gnu.org/pipermail/gcc/2021-March/235091.html)
-- [An author's obsession with freeing a man from prison](https://www.themarshallproject.org/2021/03/24/a-bestselling-author-became-obsessed-with-freeing-a-man-from-prison-it-nearly-ruined-her-life)
-- [PlenOctrees for Real-Time Rendering of Neural Radiance Fields (NeRFs)](http://alexyu.net/plenoctrees/)
-- [Molar City](https://hazlitt.net/longreads/molar-city)
-- [In Stockholm there's currently an IT battle underway](https://twitter.com/spongepaddy/status/1375206110412570638)
+- [Morphle (YC W20) Is Hiring](https://www.workatastartup.com/jobs/42933)
+- [Extreme weather events of 535–536](https://en.wikipedia.org/wiki/Extreme_weather_events_of_535–536)
+- [Did the Black Death Rampage Across the World a Century Earlier Than We Thought?](https://www.smithsonianmag.com/history/did-black-death-rampage-across-world-more-century-previously-thought-180977331/)
+- [Paul Erdős published more papers than any other mathematician except for Euler](https://mathshistory.st-andrews.ac.uk/Biographies/Erdos/)
+- [Tesla broke US labor law with anti-union efforts – watchdog](https://www.theregister.com/2021/03/26/tesla_labor_law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
