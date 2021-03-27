@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Command Prompt, PwrShell, Launch from the StartMenu into Win Trminal](https://www.hanselman.com/blog/how-to-make-command-prompt-powershell-or-any-shell-launch-from-the-start-menu-directly-into-windows-terminal)
-- [Lessons from ten nations about building affordable, low-carbon neighborhoods](https://www.sightline.org/2021/03/25/yes-other-countries-do-housing-better-case-1-japan/)
+- [Call centre staff to be monitored via webcam for home-working ‘infractions’](https://www.theguardian.com/business/2021/mar/26/teleperformance-call-centre-staff-monitored-via-webcam-home-working-infractions)
+- [Louvre makes its entire collection available online](https://collections.louvre.fr/en/)
+- [How to make Command Prompt launch from Start Menu directly into Windows Terminal](https://www.hanselman.com/blog/how-to-make-command-prompt-powershell-or-any-shell-launch-from-the-start-menu-directly-into-windows-terminal)
 - [The Revolution in Classic Tetris](https://www.newyorker.com/culture/cultural-comment/the-revolution-in-classic-tetris)
 - [The Mercury functional programming language](https://www.mercurylang.org/)
-- [Programmer's Competency Matrix for SDE hiring parameters](https://sijinjoseph.netlify.app/programmer-competency-matrix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
