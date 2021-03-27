@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ever Given Ships Erratic Route into Suez Canal](https://imgur.com/pjf6y7L)
+- [Experience: I tracked down my impostor](https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor)
 - [Flexport is hiring commercially minded product managers](HTTPS://flexport.com)
 - [Exporting image assets from ethereum smart contract with solidity](https://github.com/dezmou/cryptoghost.art)
 - [Ask HN: Who Are the Investors on HN?](https://news.ycombinator.com/item?id=26603592)
-- [PSA: Keep Time Machine disks out of your Finder sidebar](https://twitter.com/_saagarjha/status/1375641647325736961)
+- [EU experts to say nuclear power qualifies for green investment label: document](https://www.reuters.com/article/us-europe-regulations-finance/eu-experts-to-say-nuclear-power-qualifies-for-green-investment-label-document-idUSKBN2BJ0F0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
