@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xinjiang cotton: Western clothes brands vanish as backlash grows](https://www.bbc.com/news/world-asia-china-56533560)
 - [Congress demands tech CEOs to censor the Internet](https://greenwald.substack.com/p/congress-in-a-five-hour-hearing-demands-0cf)
 - [Ice-cream toothache': Cold food and drinks pain explained](https://www.bbc.co.uk/news/health-56536300)
 - [PanVk: Open-source Vulkan driver for Arm Mali](https://www.collabora.com/news-and-blog/news-and-events/panvk-an-open-source-vulkan-driver-for-arm-mali-midgard-and-bifrost-gpus.html)
 - [Recreating an Old “Dirty Gamedev Trick”](http://kylehalladay.com/blog/2019/12/04/Recreating-A-Dirty-Gamedev-Hack.html)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
