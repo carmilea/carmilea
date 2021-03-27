@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brazil’s mismanagement of Covid-19 threatens the world](https://www.economist.com/the-americas/2021/03/27/brazils-mismanagement-of-covid-19-threatens-the-world)
+- [UiPath Inc S-1 SEC Form](https://sec.report/Document/0001193125-21-094920/)
 - [I tracked down my impostor](https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor)
-- [Nike Statement on Xinjiang](https://purpose.nike.com/statement-on-xinjiang)
 - [Combinators: A Centennial View](https://arxiv.org/abs/2103.12811)
 - [Flexport is hiring commercially minded product managers](HTTPS://flexport.com)
-- [Exporting image assets from ethereum smart contract with solidity](https://github.com/dezmou/cryptoghost.art)
 <!-- BLOG-POST-LIST:END -->
 
 ---
