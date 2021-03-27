@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Revolution in Classic Tetris](https://www.newyorker.com/culture/cultural-comment/the-revolution-in-classic-tetris)
 - [Morphle (YC W20) Is Hiring](https://www.workatastartup.com/jobs/42933)
 - [Extreme weather events of 535–536](https://en.wikipedia.org/wiki/Extreme_weather_events_of_535–536)
-- [Did the Black Death Rampage Across the World a Century Earlier Than We Thought?](https://www.smithsonianmag.com/history/did-black-death-rampage-across-world-more-century-previously-thought-180977331/)
-- [Paul Erdős published more papers than any other mathematician except for Euler](https://mathshistory.st-andrews.ac.uk/Biographies/Erdos/)
-- [Tesla broke US labor law with anti-union efforts – watchdog](https://www.theregister.com/2021/03/26/tesla_labor_law/)
+- [Fussell on Muscle](http://www.drmichaeljoyner.com/sam-fussell-an-interview-with-the-author-of-muscle/)
+- [Did the black death rampage across the world a century earlier than we thought?](https://www.smithsonianmag.com/history/did-black-death-rampage-across-world-more-century-previously-thought-180977331/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
