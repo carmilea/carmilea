@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Xinjiang cotton: Western clothes brands vanish as backlash grows](https://www.bbc.com/news/world-asia-china-56533560)
-- [Congress demands tech CEOs to censor the Internet](https://greenwald.substack.com/p/congress-in-a-five-hour-hearing-demands-0cf)
-- [Ice-cream toothache': Cold food and drinks pain explained](https://www.bbc.co.uk/news/health-56536300)
-- [PanVk: Open-source Vulkan driver for Arm Mali](https://www.collabora.com/news-and-blog/news-and-events/panvk-an-open-source-vulkan-driver-for-arm-mali-midgard-and-bifrost-gpus.html)
-- [Recreating an Old “Dirty Gamedev Trick”](http://kylehalladay.com/blog/2019/12/04/Recreating-A-Dirty-Gamedev-Hack.html)
+- [Stacker (YC S20) Is Hiring to Built the Future of No-Code (Remote, UTC ± 3h)](https://www.stackerhq.com/jobs)
+- [FileZilla now contains adware if you download from the official homepage](https://www.twitter.com/nixcraft/status/1375389973742948355)
+- [2020 World Press Freedom Index: A decisive decade for the future of journalism](https://www.data-show.com/blog/2020-world-press-freedom-index-a-decisive-decade-for-the-future-of-journalism/)
+- [Elite philanthropy mainly self-serving](https://academictimes.com/elite-philanthropy-mainly-self-serving-2/)
+- ['Ice-cream toothache': Cold food and drinks pain explained](https://www.bbc.co.uk/news/health-56536300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
