@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shrinking Income Inequality](https://www.wsj.com/articles/incredible-shrinking-income-inequality-11616517284)
-- [No one can find the animal that gave people Covid-19](https://www.technologyreview.com/2021/03/26/1021263/bat-covid-coronavirus-cause-origin-wuhan/)
+- [Free as in Climbing: Open Data Project Threatened by Bogus Copyright Claims](https://www.eff.org/deeplinks/2021/03/free-climbing-rock-climbers-open-data-project-threatened-bogus-copyright-claims)
+- [Canadian property bubble nears systemic failure](https://betterdwelling.com/canadian-property-bubble-nears-systemic-failure-and-not-even-a-big-crash-can-fix-it/)
+- [Texas Federal Judge Tosses Qualified Immunity Defense](https://ij.org/press-release/texas-federal-judge-tosses-qualified-immunity-defense-in-first-amendment-retaliation-case/)
+- [Lots of progress on the piano practice software](https://jacquesmattheij.com/piano-practice-software-progress/)
 - [The Fortran I Compiler (2000) [pdf]](https://web.stanford.edu/class/archive/cs/cs339/cs339.2002/fortran.pdf)
-- [BitClout, the Dystopian Social Network with Big Backers and Vocal Critics](https://decrypt.co/62770/inside-bitclout-dystopian-social-network-big-investors-vocal-critics)
-- [Bitcoin as a Battery](https://www.nickgrossman.xyz/2021/bitcoin-as-battery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
