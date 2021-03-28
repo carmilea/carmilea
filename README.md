@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brits head home to avoid being deported as illegals in Spain](https://global247news.com/2021/03/26/tears-flow-for-brits-as-they-head-home-to-avoid-being-deported-as-illegals-in-spain/)
+- [How often does Rust change?](https://steveklabnik.com/writing/how-often-does-rust-change)
+- [Classified US military war game set to take place](https://www.msn.com/en-us/news/world/classified-us-military-war-game-set-to-take-place-as-concerns-about-threats-posed-by-china-and-russia-increase/ar-BB1f1xi6?ocid=BingNewsSearch)
+- [Epic corporate jargon alternatives](https://www.mattwatson.org/blog/20210327-epic-corporate-jargon-alternatives/)
 - [Foxconn hits the gas on vision for 'fabless' EV future](https://asia.nikkei.com/Business/Automobiles/Foxconn-hits-the-gas-on-vision-for-fabless-EV-future)
 - [UiPath Inc S-1 SEC Form](https://sec.report/Document/0001193125-21-094920/)
-- [I tracked down my impostor](https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor)
-- [Combinators: A Centennial View](https://arxiv.org/abs/2103.12811)
 <!-- BLOG-POST-LIST:END -->
 
 ---
