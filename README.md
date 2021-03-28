@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon started a Twitter war because Jeff Bezos was pissed](https://www.vox.com/recode/2021/3/28/22354604/amazon-twitter-bernie-sanders-jeff-bezos-union-alabama-elizabeth-warren)
+- [FicusJS](https://docs.ficusjs.org/index.html)
+- [Intriguing new result from the LHCb experiment at CERN](https://home.cern/news/news/physics/intriguing-new-result-lhcb-experiment-cern)
+- [Collabora Office: The enterprise-ready edition of LibreOffice](https://www.collaboraoffice.com/solutions/collabora-office/)
 - [A digital logic designer and circuit simulator](https://github.com/hneemann/Digital)
-- [I Hate Git Submodules](https://abildskov.io/2021/03/28/why-i-hate-submodules/)
-- [How U.S. media lost the trust of the public](https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622)
-- [Female Founder Secrets: Men Clamming Up](https://femfosec.com/men-clamming-up/)
-- [Developer tools can be magic but instead collect dust](http://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
