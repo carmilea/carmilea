@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA Mission to Venus in 1978 May Have Detected Phosphine, a Gas Related to Life](https://www.planetary.org/articles/pioneer-venus-multiprobe-phosphine-detection)
+- [Box86 vs native: OpenGL is almost native, CPU bound 50%, SSE3 is slower](https://stands.fosdem.org/stands/box86/performances/)
+- [Formal Methods of Software Design an Online Course by Eric Hehner](http://www.cs.utoronto.ca/~hehner/FMSD/)
 - [Free as in Climbing: Open Data Project Threatened by Bogus Copyright Claims](https://www.eff.org/deeplinks/2021/03/free-climbing-rock-climbers-open-data-project-threatened-bogus-copyright-claims)
 - [Canadian property bubble nears systemic failure](https://betterdwelling.com/canadian-property-bubble-nears-systemic-failure-and-not-even-a-big-crash-can-fix-it/)
-- [Texas Federal Judge Tosses Qualified Immunity Defense](https://ij.org/press-release/texas-federal-judge-tosses-qualified-immunity-defense-in-first-amendment-retaliation-case/)
-- [Lots of progress on the piano practice software](https://jacquesmattheij.com/piano-practice-software-progress/)
-- [The Fortran I Compiler (2000) [pdf]](https://web.stanford.edu/class/archive/cs/cs339/cs339.2002/fortran.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
