@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A digital logic designer and circuit simulator](https://github.com/hneemann/Digital)
+- [I Hate Git Submodules](https://abildskov.io/2021/03/28/why-i-hate-submodules/)
 - [How U.S. media lost the trust of the public](https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622)
 - [Female Founder Secrets: Men Clamming Up](https://femfosec.com/men-clamming-up/)
-- [Developer tools can be magic. Instead, they collect dust](http://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html)
-- [Ask HN: Best Source for Desktop Backgrounds](https://news.ycombinator.com/item?id=26612624)
+- [Developer tools can be magic but instead collect dust](http://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
