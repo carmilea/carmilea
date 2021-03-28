@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [China boycotts Western clothes brands over Xinjiang cotton](https://www.economist.com/business/2021/03/27/china-boycotts-western-clothes-brands-over-xinjiang-cotton)
 - [How often does Rust change?](https://steveklabnik.com/writing/how-often-does-rust-change)
-- [Classified US military war game set to take place](https://www.msn.com/en-us/news/world/classified-us-military-war-game-set-to-take-place-as-concerns-about-threats-posed-by-china-and-russia-increase/ar-BB1f1xi6?ocid=BingNewsSearch)
 - [Epic corporate jargon alternatives](https://www.mattwatson.org/blog/20210327-epic-corporate-jargon-alternatives/)
 - [Foxconn hits the gas on vision for 'fabless' EV future](https://asia.nikkei.com/Business/Automobiles/Foxconn-hits-the-gas-on-vision-for-fabless-EV-future)
 - [UiPath Inc S-1 SEC Form](https://sec.report/Document/0001193125-21-094920/)
