@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Curious Case of the Y Combinator Bookmarklet](https://dan.bulwinkle.net/blog/the-curious-case-of-the-ycombinator-bookmarklet/)
+- [No, I Did Not Hack Your MS Exchange Server](https://krebsonsecurity.com/2021/03/no-i-did-not-hack-your-ms-exchange-server/)
 - [Many models workflows in Python: Part I](https://www.alexpghayes.com/blog/many-models-workflows-in-python-part-i/)
 - [Drinking strong coffee before exercising increases fat-burning, new study finds](https://canal.ugr.es/uncategorized/drinking-a-strong-coffee-half-an-hour-before-exercising-increases-fat-burning-new-study-finds/)
 - [The Ambiguous Utopia of Iain M. Banks](https://www.thenewatlantis.com/publications/the-ambiguous-utopia-of-iain-m-banks)
-- [The forgotten medieval fruit with a vulgar name](https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot)
-- [Ultra-Accurate Clocks Lead Search for New Laws of Physics (2018)](https://www.quantamagazine.org/ultra-accurate-clocks-lead-search-for-new-laws-of-physics-20180416/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
