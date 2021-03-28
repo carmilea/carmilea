@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Remove RMS from the GCC Steering Committee](https://gcc.gnu.org/pipermail/gcc/2021-March/235124.html)
+- [Scientists Support an Idea Long Thought Outlandish: Reflecting the Sun’s Rays](https://www.nytimes.com/2021/03/25/climate/geoengineering-sunlight.html)
+- [New 5G protocol vulnerabilities allow location tracking](https://therecord.media/new-5g-protocol-vulnerabilities-allow-location-tracking/)
+- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
 - [NASA Mission to Venus in 1978 May Have Detected Phosphine, a Gas Related to Life](https://www.planetary.org/articles/pioneer-venus-multiprobe-phosphine-detection)
-- [Box86 vs native: OpenGL is almost native, CPU bound 50%, SSE3 is slower](https://stands.fosdem.org/stands/box86/performances/)
-- [Formal Methods of Software Design an Online Course by Eric Hehner](http://www.cs.utoronto.ca/~hehner/FMSD/)
-- [Free as in Climbing: Open Data Project Threatened by Bogus Copyright Claims](https://www.eff.org/deeplinks/2021/03/free-climbing-rock-climbers-open-data-project-threatened-bogus-copyright-claims)
-- [Canadian property bubble nears systemic failure](https://betterdwelling.com/canadian-property-bubble-nears-systemic-failure-and-not-even-a-big-crash-can-fix-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
