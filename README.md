@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vintage HP computer systems Discussion Group](https://groups.io/g/VintHPcom)
-- [The fingerprint inside your photos](https://www.bbc.com/future/article/20210324-the-hidden-fingerprint-inside-your-photos)
-- [Show HN: Learned to code during lockdown and built a Rotten Tomatoes for tech](https://recorank.com)
+- [Ada for the C++ and Java Developer [pdf]](https://learn.adacore.com/pdf_books/courses/Ada_For_The_CPP_Java_Developer.pdf)
+- [Vintage HP computer systems](https://groups.io/g/VintHPcom)
+- [The fingerprint inside photos](https://www.bbc.com/future/article/20210324-the-hidden-fingerprint-inside-your-photos)
 - [Yank: Yank Terminal Output to Clipboard](https://github.com/mptre/yank)
 - [Senators Offer to Let NSA Hunt Cyber Actors Inside the US](https://www.defenseone.com/technology/2021/03/senators-offer-let-nsa-hunt-cyber-actors-inside-us/172938/)
 <!-- BLOG-POST-LIST:END -->
