@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A digital logic designer and circuit simulator](https://github.com/hneemann/Digital)
 - [How U.S. media lost the trust of the public](https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622)
 - [Female Founder Secrets: Men Clamming Up](https://femfosec.com/men-clamming-up/)
-- [The Curious Case of the Y Combinator Bookmarklet](https://dan.bulwinkle.net/blog/the-curious-case-of-the-ycombinator-bookmarklet/)
-- [No, I Did Not Hack Your MS Exchange Server](https://krebsonsecurity.com/2021/03/no-i-did-not-hack-your-ms-exchange-server/)
-- [Many models workflows in Python: Part I](https://www.alexpghayes.com/blog/many-models-workflows-in-python-part-i/)
+- [Developer tools can be magic. Instead, they collect dust](http://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html)
+- [Ask HN: Best Source for Desktop Backgrounds](https://news.ycombinator.com/item?id=26612624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
