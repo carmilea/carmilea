@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My aunt was a human assembler at NASA (2015)](https://www.theregister.com/2015/02/26/my_aunt_was_a_human_assembler_at_nasa/)
-- [ICE’s Fake College Defrauded Students, Then Deported Them](https://reason.com/2021/03/26/ice-fake-college-farmington-university-defrauded-immigrants-then-deported-them-biden-admin-defending-scheme/)
-- [Ada for the C++ and Java Developer [pdf]](https://learn.adacore.com/pdf_books/courses/Ada_For_The_CPP_Java_Developer.pdf)
-- [Ada for the Embedded C Developer](https://www.youtube.com/watch?v=Myqo75Yb_lU)
-- [Amazon driver quits over AI-powered safety cameras in delivery vehicles](https://www.businessinsider.com/amazon-ai-camera-delivery-tracking-tech-bezos-2021-3)
+- [Shrinking Income Inequality](https://www.wsj.com/articles/incredible-shrinking-income-inequality-11616517284)
+- [No one can find the animal that gave people Covid-19](https://www.technologyreview.com/2021/03/26/1021263/bat-covid-coronavirus-cause-origin-wuhan/)
+- [The Fortran I Compiler (2000) [pdf]](https://web.stanford.edu/class/archive/cs/cs339/cs339.2002/fortran.pdf)
+- [BitClout, the Dystopian Social Network with Big Backers and Vocal Critics](https://decrypt.co/62770/inside-bitclout-dystopian-social-network-big-investors-vocal-critics)
+- [Bitcoin as a Battery](https://www.nickgrossman.xyz/2021/bitcoin-as-battery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
