@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My aunt was a human assembler at NASA (2015)](https://www.theregister.com/2015/02/26/my_aunt_was_a_human_assembler_at_nasa/)
+- [ICE’s Fake College Defrauded Students, Then Deported Them](https://reason.com/2021/03/26/ice-fake-college-farmington-university-defrauded-immigrants-then-deported-them-biden-admin-defending-scheme/)
 - [Ada for the C++ and Java Developer [pdf]](https://learn.adacore.com/pdf_books/courses/Ada_For_The_CPP_Java_Developer.pdf)
-- [Vintage HP computer systems](https://groups.io/g/VintHPcom)
-- [The fingerprint inside photos](https://www.bbc.com/future/article/20210324-the-hidden-fingerprint-inside-your-photos)
-- [Yank: Yank Terminal Output to Clipboard](https://github.com/mptre/yank)
-- [Senators Offer to Let NSA Hunt Cyber Actors Inside the US](https://www.defenseone.com/technology/2021/03/senators-offer-let-nsa-hunt-cyber-actors-inside-us/172938/)
+- [Ada for the Embedded C Developer](https://www.youtube.com/watch?v=Myqo75Yb_lU)
+- [Amazon driver quits over AI-powered safety cameras in delivery vehicles](https://www.businessinsider.com/amazon-ai-camera-delivery-tracking-tech-bezos-2021-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
