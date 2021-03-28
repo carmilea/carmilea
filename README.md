@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Remove RMS from the GCC Steering Committee](https://gcc.gnu.org/pipermail/gcc/2021-March/235124.html)
-- [Scientists Support an Idea Long Thought Outlandish: Reflecting the Sun’s Rays](https://www.nytimes.com/2021/03/25/climate/geoengineering-sunlight.html)
-- [New 5G protocol vulnerabilities allow location tracking](https://therecord.media/new-5g-protocol-vulnerabilities-allow-location-tracking/)
-- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
-- [NASA Mission to Venus in 1978 May Have Detected Phosphine, a Gas Related to Life](https://www.planetary.org/articles/pioneer-venus-multiprobe-phosphine-detection)
+- [Not the First Time We Tried (FSF, GNU, RMS, etc.)](https://www.harihareswara.net/sumana/2021/03/26/0)
+- [Ultra-Accurate Clocks Lead Search for New Laws of Physics (2018)](https://www.quantamagazine.org/ultra-accurate-clocks-lead-search-for-new-laws-of-physics-20180416/)
+- [I made a 32“ eInk newspaper](https://gregraiz.com/i-made-an-eink-newspaper/)
+- [Harvard closes evolution center after finding connections to Jeffrey Epstein](https://www.theguardian.com/education/2021/mar/27/harvard-closes-evolution-center-after-finding-connections-jeffrey-epstein)
+- [San Jose electric light tower](https://en.wikipedia.org/wiki/San_Jose_electric_light_tower)
 <!-- BLOG-POST-LIST:END -->
 
 ---
