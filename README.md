@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How U.S. media lost the trust of the public](https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622)
+- [Female Founder Secrets: Men Clamming Up](https://femfosec.com/men-clamming-up/)
 - [The Curious Case of the Y Combinator Bookmarklet](https://dan.bulwinkle.net/blog/the-curious-case-of-the-ycombinator-bookmarklet/)
 - [No, I Did Not Hack Your MS Exchange Server](https://krebsonsecurity.com/2021/03/no-i-did-not-hack-your-ms-exchange-server/)
 - [Many models workflows in Python: Part I](https://www.alexpghayes.com/blog/many-models-workflows-in-python-part-i/)
-- [Drinking strong coffee before exercising increases fat-burning, new study finds](https://canal.ugr.es/uncategorized/drinking-a-strong-coffee-half-an-hour-before-exercising-increases-fat-burning-new-study-finds/)
-- [The Ambiguous Utopia of Iain M. Banks](https://www.thenewatlantis.com/publications/the-ambiguous-utopia-of-iain-m-banks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
