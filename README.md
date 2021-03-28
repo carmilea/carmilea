@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Not the First Time We Tried (FSF, GNU, RMS, etc.)](https://www.harihareswara.net/sumana/2021/03/26/0)
+- [Many models workflows in Python: Part I](https://www.alexpghayes.com/blog/many-models-workflows-in-python-part-i/)
+- [Drinking strong coffee before exercising increases fat-burning, new study finds](https://canal.ugr.es/uncategorized/drinking-a-strong-coffee-half-an-hour-before-exercising-increases-fat-burning-new-study-finds/)
+- [The Ambiguous Utopia of Iain M. Banks](https://www.thenewatlantis.com/publications/the-ambiguous-utopia-of-iain-m-banks)
+- [The forgotten medieval fruit with a vulgar name](https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot)
 - [Ultra-Accurate Clocks Lead Search for New Laws of Physics (2018)](https://www.quantamagazine.org/ultra-accurate-clocks-lead-search-for-new-laws-of-physics-20180416/)
-- [I made a 32“ eInk newspaper](https://gregraiz.com/i-made-an-eink-newspaper/)
-- [Harvard closes evolution center after finding connections to Jeffrey Epstein](https://www.theguardian.com/education/2021/mar/27/harvard-closes-evolution-center-after-finding-connections-jeffrey-epstein)
-- [San Jose electric light tower](https://en.wikipedia.org/wiki/San_Jose_electric_light_tower)
 <!-- BLOG-POST-LIST:END -->
 
 ---
