@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Larry McMurtry, novelist who pierced myths of his native Texas, dies at 84](https://www.washingtonpost.com/local/obituaries/larry-mcmurtry-dead/2021/03/26/953c4660-ae09-11e7-a908-a3470754bbb9_story.html)
-- [Sam Altman: AI will generate enough wealth to pay each adult $13.5K a year](https://www.msn.com/en-us/news/other/openais-sam-altman-artificial-intelligence-will-generate-enough-wealth-to-pay-each-adult-2413500-a-year/ar-BB1eGOoY)
-- [„We were chased out of SF after trying to give free Internet to the poorest“](https://twitter.com/sacca/status/1375962440303661057)
+- [Senators Offer to Let NSA Hunt Cyber Actors Inside the US](https://www.defenseone.com/technology/2021/03/senators-offer-let-nsa-hunt-cyber-actors-inside-us/172938/)
+- [Larry McMurtry has died](https://www.washingtonpost.com/local/obituaries/larry-mcmurtry-dead/2021/03/26/953c4660-ae09-11e7-a908-a3470754bbb9_story.html)
 - [One Commander – a new Windows 10 file browser](http://www.onecommander.com/)
-- [You’ve Been Lied to About Lying](https://www.theatlantic.com/science/archive/2021/03/how-to-spot-a-liar/618425/)
+- [How can you tell if someone is lying?](https://www.theatlantic.com/science/archive/2021/03/how-to-spot-a-liar/618425/)
+- [Images from a ‘Day of Shame’ in Myanmar, with Scores Shot Dead Image](https://www.nytimes.com/2021/03/27/world/asia/myanmar-protests-military-pictures.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
