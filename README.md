@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman: AI will generate enough wealth to pay each adult $13.5K a year](https://www.msn.com/en-us/news/other/openais-sam-altman-artificial-intelligence-will-generate-enough-wealth-to-pay-each-adult-2413500-a-year/ar-BB1eGOoY)
+- [„We were chased out of SF after trying to give free Internet to the poorest“](https://twitter.com/sacca/status/1375962440303661057)
 - [You’ve Been Lied to About Lying](https://www.theatlantic.com/science/archive/2021/03/how-to-spot-a-liar/618425/)
 - [High Schooler Invented Color-Changing Sutures to Detect Infection](https://www.smithsonianmag.com/innovation/high-schooler-invented-color-changing-sutures-detect-infection-180977345/)
-- [China boycotts Western clothes brands over Xinjiang cotton](https://www.economist.com/business/2021/03/27/china-boycotts-western-clothes-brands-over-xinjiang-cotton)
-- [How often does Rust change?](https://steveklabnik.com/writing/how-often-does-rust-change)
-- [I tracked down my impostor](https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor)
+- [Epic corporate jargon alternatives](https://www.mattwatson.org/blog/20210327-epic-corporate-jargon-alternatives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
