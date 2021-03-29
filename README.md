@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gallup: U.S. church membership dips below 50% for first time](https://www.axios.com/church-membership-gallup-26cc020b-5405-417a-a786-e10c286a30db.html)
-- [Show HN: Nettu Scheduler – A self-hosted calendar and scheduler server](https://github.com/fmeringdal/nettu-scheduler)
-- [Universal “netmask” NPM package, used by 270k projects vulnerable](https://sick.codes/universal-netmask-npm-package-used-by-270000-projects-vulnerable-to-octal-input-data-server-side-request-forgery-remote-file-inclusion-local-file-inclusion-and-more-cve-2021-28918/)
-- [Show HN: Mosh Mallet: Single packet UDP port knocking for Mosh without SSH](https://gitlab.com/Zinnia_Zirconium/mosh-mallet)
-- [US Is One Step Closer to Having Program to Study Blocking Sun](https://earther.gizmodo.com/the-u-s-is-one-step-closer-to-establishing-a-research-1846552421)
+- [No one gives a shit what programming language you use](https://georgestocker.com/2021/03/28/no-one-gives-a-shit-what-programming-language-you-use/)
+- [Suez canal is free again](https://www.reuters.com/article/us-egypt-suezcanal-ship-floated/suez-canal-says-traffic-in-channel-resumes-after-stranded-ship-refloated-idUSKBN2BL1S9)
+- [Launch HN: Greywing (YC W21) – Automated ship operations focused on crew](https://news.ycombinator.com/item?id=26621266)
+- [U.S. Church Membership Falls Below Majority for First Time](https://news.gallup.com/poll/341963/church-membership-falls-below-majority-first-time.aspx)
+- [A new Cloudflare Web Application Firewall](https://blog.cloudflare.com/new-cloudflare-waf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
