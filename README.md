@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software freedom isn’t about licenses – it’s about power](https://rosenzweig.io/blog/software-freedom-isnt-about-licenses-its-about-power.html)
 - [Giant Vessel Is Now Afloat, Inchcape Says: Suez Update](https://www.bloomberg.com/news/articles/2021-03-28/progress-made-in-moving-ship-more-vessels-diverted-suez-update)
 - [Ever Given Everywhere](https://evergiven-everywhere.glitch.me/)
 - [Robots.txt for the NYT has a specific exclusion for an 1996 news article](https://twitter.com/oliviasolon/status/1171200746240372737)
 - [“Everyone wants to do the model work, not the data work” [pdf]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/0d556e45afc54afeb2eb6b51a9bc1827b9961ff4.pdf)
-- [Terminal escape sequences in Git commit email field](https://twitter.com/ryancdotorg/status/1375484757916672000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
