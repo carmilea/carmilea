@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ruby off the Rails: Code library yanked over license blunder](https://www.theregister.com/2021/03/25/ruby_rails_code/)
+- [Zoom will pay zero federal taxes due to tax credits from previous years](https://www.cbsnews.com/news/zoom-no-federal-taxes-2020/)
+- [Court Orders UK Man to Pay $571m for Operating Fraudulent Bitcoin Trading Scheme](https://www.cftc.gov/PressRoom/PressReleases/8371-21)
+- [PHP Git server compromised and attacker added backdoors to PHP source code](https://twitter.com/nixcraft/status/1376452079355453441)
+- [Stretch from Boston Dynamics](https://www.youtube.com/watch?v=yYUuWWnfRsk)
 - [Smart design: When the package is a functional part of the tool it’s carrying](https://www.core77.com/posts/107394/Smart-Design-When-the-Package-is-a-Functional-Part-of-the-Tool-Its-Carrying)
-- [Software freedom isn’t about licenses – it’s about power](https://rosenzweig.io/blog/software-freedom-isnt-about-licenses-its-about-power.html)
-- [First step toward reopening Suez Canal as ship refloated](https://www.bloomberg.com/news/articles/2021-03-28/progress-made-in-moving-ship-more-vessels-diverted-suez-update)
-- [Ever Given Everywhere](https://evergiven-everywhere.glitch.me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
