@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It turns out you can put terminal escape sequences in the Git commit emai (cont)](https://twitter.com/ryancdotorg/status/1375484757916672000)
+- [Ever Given Everywhere](https://evergiven-everywhere.glitch.me/)
+- [Robots.txt for the NYT has a specific exclusion for an 1996 news article](https://twitter.com/oliviasolon/status/1171200746240372737)
+- [“Everyone wants to do the model work, not the data work” [pdf]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/0d556e45afc54afeb2eb6b51a9bc1827b9961ff4.pdf)
+- [Terminal escape sequences in Git commit email field](https://twitter.com/ryancdotorg/status/1375484757916672000)
 - [Text to Image Generation](https://github.com/lucidrains/deep-daze)
-- [Live Stream from Icelandic Volcano](https://k100streymi.mbl.is/p2p/mbllive?v=1)
-- [Deriving Keys from Chords in Music](https://butternotes.com/on-programming/chords-to-scales)
-- [The lawyer who took on Chevron – and now marks his 600th day under house arrest](https://www.theguardian.com/us-news/2021/mar/28/chevron-lawyer-steven-donziger-ecuador-house-arrest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
