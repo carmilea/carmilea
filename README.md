@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FreeBSD Core Team Statement on FreeBSD Development Processes](https://lists.freebsd.org/pipermail/freebsd-hackers/2021-March/057127.html)
-- [US 1963 plan to create a canal through Israel using 520 nuclear bombs](https://news.yahoo.com/us-had-plan-1960s-blast-115941048.html)
-- [Git's commit workflow is backwards, and encourages bad habits](https://rory.bio/posts/git-plan/)
-- [Yes, experts will lie to you sometimes](https://noahpinion.substack.com/p/yes-experts-will-lie-to-you-sometimes)
-- [AI Can Generate Convincing Text–and Anyone Can Use It](https://www.wired.com/story/ai-generate-convincing-text-anyone-use-it/)
+- [Amazon Security Staff Reported Its Own Tweets as “Suspicious,” Fearing Hack](https://theintercept.com/2021/03/29/amazon-twitter-hack-union-jeff-bezos/)
+- [On the spectrum of openness](https://openeveryone.substack.com/p/on-the-spectrum-of-openness)
+- [Retrospective review of Gödel, Escher, Bach by Douglas Hofstadter (1996) [pdf]](https://cs.nyu.edu/davise/papers/hofstadter.pdf)
+- [Gen X emerging from pandemic with firmer grip on America's wallet](https://www.reuters.com/article/us-usa-economy-wealth/gen-x-emerging-from-pandemic-with-firmer-grip-on-americas-wallet-idUSKBN2BL1BL)
+- [Personal Data: Instagram Is a Real Tattletale](https://www.statista.com/chart/24495/apps-sharing-personal-information-with-third-parties/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
