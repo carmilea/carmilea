@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gallup: U.S. church membership dips below 50% for first time](https://www.axios.com/church-membership-gallup-26cc020b-5405-417a-a786-e10c286a30db.html)
+- [Show HN: Nettu Scheduler – A self-hosted calendar and scheduler server](https://github.com/fmeringdal/nettu-scheduler)
+- [Universal “netmask” NPM package, used by 270k projects vulnerable](https://sick.codes/universal-netmask-npm-package-used-by-270000-projects-vulnerable-to-octal-input-data-server-side-request-forgery-remote-file-inclusion-local-file-inclusion-and-more-cve-2021-28918/)
+- [Show HN: Mosh Mallet: Single packet UDP port knocking for Mosh without SSH](https://gitlab.com/Zinnia_Zirconium/mosh-mallet)
 - [US Is One Step Closer to Having Program to Study Blocking Sun](https://earther.gizmodo.com/the-u-s-is-one-step-closer-to-establishing-a-research-1846552421)
-- [How We’ll Know an AI Is Conscious](http://m.nautil.us/blog/-heres-how-well-know-an-ai-is-conscious)
-- [Europe’s Digital Decade: digital targets for 2030](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/europes-digital-decade-digital-targets-2030_en)
-- [The Deno Company](https://deno.com/blog/the-deno-company)
-- [Boston Dynamics unveils Stretch: a new robot designed to move boxes in warehouse](https://www.theverge.com/2021/3/29/22349978/boston-dynamics-stretch-robot-warehouse-logistics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
