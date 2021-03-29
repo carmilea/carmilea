@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ARK's New Space Exploration and Innovation ETF (ARKX) Launches Tomorrow](https://ark-funds.com/arkx)
-- [Vessel Finder](https://www.vesselfinder.com/)
-- [In the deepest despair, electroconvulsive therapy offers hope](https://psyche.co/ideas/in-the-deepest-despair-electroconvulsive-therapy-offers-hope)
-- [Visa moves to allow payment settlements using cryptocurrency](https://www.reuters.com/article/us-crypto-currency-visa-exclusive/exclusive-visa-moves-to-allow-payment-settlements-using-cryptocurrency-idUSKBN2BL0X9)
-- [Tips for Individual and Group Brainstorming](https://runpondr.com/blog/brainstorming)
+- [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/careers)
+- [Tesla’s CV Approach to Autonomous Driving Built an Unassailable Lead in FSD](https://softmax.substack.com/p/a49bb7f6-0e0d-4ca2-89fd-673fd52c5b8f)
+- [Amazon Union Vote Count Begins](https://www.npr.org/2021/03/29/981573228/historic-amazon-union-vote-count-begins-this-week-for-alabama-warehouse)
+- [Quickdraw with Google AI](https://quickdraw.withgoogle.com/)
+- [Apple’s Independent Repair Provider program expands globally](https://www.apple.com/newsroom/2021/03/apples-independent-repair-provider-program-expands-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
