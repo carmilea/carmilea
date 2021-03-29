@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [John Sullivan resign as executive director of the Free Software Foundation](https://social.librem.one/@johns/105971045184138347)
 - [Ruby off the Rails: Code library yanked over license blunder](https://www.theregister.com/2021/03/25/ruby_rails_code/)
-- [Ray Dalio says the government could ban bitcoin](https://www.businessinsider.com.au/ray-dalio-good-probability-us-ban-bitcoin-btc-cryptocurrencies-2021-3)
 - [Smart design: When the package is a functional part of the tool it’s carrying](https://www.core77.com/posts/107394/Smart-Design-When-the-Package-is-a-Functional-Part-of-the-Tool-Its-Carrying)
 - [Software freedom isn’t about licenses – it’s about power](https://rosenzweig.io/blog/software-freedom-isnt-about-licenses-its-about-power.html)
 - [Giant Vessel Is Now Afloat, Inchcape Says: Suez Update](https://www.bloomberg.com/news/articles/2021-03-28/progress-made-in-moving-ship-more-vessels-diverted-suez-update)
