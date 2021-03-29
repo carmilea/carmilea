@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoom will pay zero federal taxes due to tax credits from previous years](https://www.cbsnews.com/news/zoom-no-federal-taxes-2020/)
-- [Court Orders UK Man to Pay $571m for Operating Fraudulent Bitcoin Trading Scheme](https://www.cftc.gov/PressRoom/PressReleases/8371-21)
-- [PHP Git server compromised and attacker added backdoors to PHP source code](https://twitter.com/nixcraft/status/1376452079355453441)
-- [Stretch from Boston Dynamics](https://www.youtube.com/watch?v=yYUuWWnfRsk)
-- [Smart design: When the package is a functional part of the tool it’s carrying](https://www.core77.com/posts/107394/Smart-Design-When-the-Package-is-a-Functional-Part-of-the-Tool-Its-Carrying)
+- [US Is One Step Closer to Having Program to Study Blocking Sun](https://earther.gizmodo.com/the-u-s-is-one-step-closer-to-establishing-a-research-1846552421)
+- [How We’ll Know an AI Is Conscious](http://m.nautil.us/blog/-heres-how-well-know-an-ai-is-conscious)
+- [Europe’s Digital Decade: digital targets for 2030](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/europes-digital-decade-digital-targets-2030_en)
+- [The Deno Company](https://deno.com/blog/the-deno-company)
+- [Boston Dynamics unveils Stretch: a new robot designed to move boxes in warehouse](https://www.theverge.com/2021/3/29/22349978/boston-dynamics-stretch-robot-warehouse-logistics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
