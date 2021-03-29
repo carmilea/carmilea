@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla's EPA Driving Ranges Didn't Hold Up to Testing. Twice](https://www.thedrive.com/news/39959/teslas-epa-driving-ranges-didnt-hold-up-to-testing-it-tried-again-and-still-fell-short)
+- [The final official release of Classilla](https://oldvcr.blogspot.com/2021/03/the-final-official-release-of-classilla.html)
+- [QuestBook (YC W21) Is hiring a lead fullstack engineer](https://www.workatastartup.com/jobs/42968)
+- [A statx(2) Linux system Python wrapper](https://github.com/ckarageorgkaneen/pystatx)
 - [Amazon Security Staff Reported Its Own Tweets as “Suspicious,” Fearing Hack](https://theintercept.com/2021/03/29/amazon-twitter-hack-union-jeff-bezos/)
-- [On the spectrum of openness](https://openeveryone.substack.com/p/on-the-spectrum-of-openness)
-- [Retrospective review of Gödel, Escher, Bach by Douglas Hofstadter (1996) [pdf]](https://cs.nyu.edu/davise/papers/hofstadter.pdf)
-- [Gen X emerging from pandemic with firmer grip on America's wallet](https://www.reuters.com/article/us-usa-economy-wealth/gen-x-emerging-from-pandemic-with-firmer-grip-on-americas-wallet-idUSKBN2BL1BL)
-- [Personal Data: Instagram Is a Real Tattletale](https://www.statista.com/chart/24495/apps-sharing-personal-information-with-third-parties/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
