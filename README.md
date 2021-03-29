@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Professional Decline Is Coming (Much) Sooner Than You Think](https://www.theatlantic.com/magazine/archive/2019/07/work-peak-professional-decline/590650/)
+- [Google showing animated ships when searching “ever given”](https://www.google.com/search?q=ever+given)
 - [Work Force: Frederick W. Taylor offers some productivity hacks (1911)](https://www.laphamsquarterly.org/technology/work-force)
+- [React and D3.js](https://wattenberger.com/blog/react-and-d3)
 - [Laser Bear Honeycomb lidar](https://waymo.com/lidar/)
-- [Moderna mRNA sequence released to GitHub [pdf]](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf)
-- [FTC to close down mobile banking app Beam](https://finledger.com/2021/03/29/ftc-to-close-down-mobile-banking-app-beam-pending-district-court-judge-approval/)
-- [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
