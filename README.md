@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It turns out you can put terminal escape sequences in the Git commit emai (cont)](https://twitter.com/ryancdotorg/status/1375484757916672000)
+- [Text to Image Generation](https://github.com/lucidrains/deep-daze)
 - [Live Stream from Icelandic Volcano](https://k100streymi.mbl.is/p2p/mbllive?v=1)
 - [Deriving Keys from Chords in Music](https://butternotes.com/on-programming/chords-to-scales)
 - [The lawyer who took on Chevron – and now marks his 600th day under house arrest](https://www.theguardian.com/us-news/2021/mar/28/chevron-lawyer-steven-donziger-ecuador-house-arrest)
-- [FicusJS](https://docs.ficusjs.org/index.html)
-- [Intriguing new result from the LHCb experiment at CERN](https://home.cern/news/news/physics/intriguing-new-result-lhcb-experiment-cern)
 <!-- BLOG-POST-LIST:END -->
 
 ---
