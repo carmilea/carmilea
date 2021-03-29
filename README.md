@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No one gives a shit what programming language you use](https://georgestocker.com/2021/03/28/no-one-gives-a-shit-what-programming-language-you-use/)
-- [Suez canal is free again](https://www.reuters.com/article/us-egypt-suezcanal-ship-floated/suez-canal-says-traffic-in-channel-resumes-after-stranded-ship-refloated-idUSKBN2BL1S9)
-- [Launch HN: Greywing (YC W21) – Automated ship operations focused on crew](https://news.ycombinator.com/item?id=26621266)
-- [U.S. Church Membership Falls Below Majority for First Time](https://news.gallup.com/poll/341963/church-membership-falls-below-majority-first-time.aspx)
-- [A new Cloudflare Web Application Firewall](https://blog.cloudflare.com/new-cloudflare-waf/)
+- [FreeBSD Core Team Statement on FreeBSD Development Processes](https://lists.freebsd.org/pipermail/freebsd-hackers/2021-March/057127.html)
+- [US 1963 plan to create a canal through Israel using 520 nuclear bombs](https://news.yahoo.com/us-had-plan-1960s-blast-115941048.html)
+- [Git's commit workflow is backwards, and encourages bad habits](https://rory.bio/posts/git-plan/)
+- [Yes, experts will lie to you sometimes](https://noahpinion.substack.com/p/yes-experts-will-lie-to-you-sometimes)
+- [AI Can Generate Convincing Text–and Anyone Can Use It](https://www.wired.com/story/ai-generate-convincing-text-anyone-use-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
