@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla's EPA Driving Ranges Didn't Hold Up to Testing. Twice](https://www.thedrive.com/news/39959/teslas-epa-driving-ranges-didnt-hold-up-to-testing-it-tried-again-and-still-fell-short)
-- [The final official release of Classilla](https://oldvcr.blogspot.com/2021/03/the-final-official-release-of-classilla.html)
-- [QuestBook (YC W21) Is hiring a lead fullstack engineer](https://www.workatastartup.com/jobs/42968)
-- [A statx(2) Linux system Python wrapper](https://github.com/ckarageorgkaneen/pystatx)
-- [Amazon Security Staff Reported Its Own Tweets as “Suspicious,” Fearing Hack](https://theintercept.com/2021/03/29/amazon-twitter-hack-union-jeff-bezos/)
+- [Vessel Finder](https://www.vesselfinder.com/)
+- [The Startup Enemies of Wall Street Are Booming](https://www.nytimes.com/2021/03/29/technology/fintech-startups-wall-street.html)
+- [In the deepest despair, electroconvulsive therapy offers hope](https://psyche.co/ideas/in-the-deepest-despair-electroconvulsive-therapy-offers-hope)
+- [Visa moves to allow payment settlements using cryptocurrency](https://www.reuters.com/article/us-crypto-currency-visa-exclusive/exclusive-visa-moves-to-allow-payment-settlements-using-cryptocurrency-idUSKBN2BL0X9)
+- [Tips for Individual and Group Brainstorming](https://runpondr.com/blog/brainstorming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
