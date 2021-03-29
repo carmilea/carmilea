@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ARK's New Space Exploration and Innovation ETF (ARKX) Launches Tomorrow](https://ark-funds.com/arkx)
 - [Vessel Finder](https://www.vesselfinder.com/)
-- [The Startup Enemies of Wall Street Are Booming](https://www.nytimes.com/2021/03/29/technology/fintech-startups-wall-street.html)
 - [In the deepest despair, electroconvulsive therapy offers hope](https://psyche.co/ideas/in-the-deepest-despair-electroconvulsive-therapy-offers-hope)
 - [Visa moves to allow payment settlements using cryptocurrency](https://www.reuters.com/article/us-crypto-currency-visa-exclusive/exclusive-visa-moves-to-allow-payment-settlements-using-cryptocurrency-idUSKBN2BL0X9)
 - [Tips for Individual and Group Brainstorming](https://runpondr.com/blog/brainstorming)
