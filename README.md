@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Work Force: Frederick W. Taylor offers some productivity hacks (1911)](https://www.laphamsquarterly.org/technology/work-force)
+- [Laser Bear Honeycomb lidar](https://waymo.com/lidar/)
+- [Moderna mRNA sequence released to GitHub [pdf]](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf)
+- [FTC to close down mobile banking app Beam](https://finledger.com/2021/03/29/ftc-to-close-down-mobile-banking-app-beam-pending-district-court-judge-approval/)
 - [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/careers)
-- [Tesla’s CV Approach to Autonomous Driving Built an Unassailable Lead in FSD](https://softmax.substack.com/p/a49bb7f6-0e0d-4ca2-89fd-673fd52c5b8f)
-- [Amazon Union Vote Count Begins](https://www.npr.org/2021/03/29/981573228/historic-amazon-union-vote-count-begins-this-week-for-alabama-warehouse)
-- [Quickdraw with Google AI](https://quickdraw.withgoogle.com/)
-- [Apple’s Independent Repair Provider program expands globally](https://www.apple.com/newsroom/2021/03/apples-independent-repair-provider-program-expands-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
