@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [As Bad Information Spreads, Florida Schools Seek to Teach 'Digital Literacy'](https://www.npr.org/2021/03/30/980405254/as-bad-information-spreads-florida-schools-seek-to-teach-digital-literacy)
-- [Pickle (YC W21) Is Hiring](https://www.workatastartup.com/jobs/43000)
-- [A Man Who Tried to Redeem the World with Logic](https://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic)
-- [Japan's cherry blossom 'earliest peak since 812'](https://www.bbc.com/news/world-asia-56574142)
-- [Child tweets gibberish from US nuclear-agency account](https://www.bbc.com/news/technology-56578544)
+- [Whistleblower: Ubiquiti Breach “Catastrophic”](https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/)
+- [Arm Announces Armv9 Architecture: SVE2, Security, and the Next Decade](https://www.anandtech.com/show/16584/arm-announces-armv9-architecture)
+- ['We have your porn collection': The rise of extortionware](https://www.bbc.com/news/technology-56570862)
+- [Social media addiction linked to cyberbullying](https://news.uga.edu/social-media-addiction-linked-to-cyberbullying/)
+- [Why the Yuppie Elite Dismiss Bitcoin](https://www.citadel21.com/why-the-yuppie-elite-dismiss-bitcoin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
