@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Find eng jobs at over 800 fast-growing YC startups on ycombinator.com/jobs](https://ycombinator.com/jobs)
 - [Git email flow vs. GitHub flow](https://blog.brixit.nl/git-email-flow-versus-github-flow/)
-- [Your Professional Decline Is Coming (Much) Sooner Than You Think](https://www.theatlantic.com/magazine/archive/2019/07/work-peak-professional-decline/590650/)
 - [Google showing animated ships when searching “ever given”](https://www.google.com/search?q=ever+given)
-- [Work Force: Frederick W. Taylor offers some productivity hacks (1911)](https://www.laphamsquarterly.org/technology/work-force)
+- [Frederick W. Taylor offers some productivity hacks (1911)](https://www.laphamsquarterly.org/technology/work-force)
 - [React and D3.js](https://wattenberger.com/blog/react-and-d3)
 <!-- BLOG-POST-LIST:END -->
 
