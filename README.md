@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Weird Twitter army of Amazon drones cheerfully defending warehouse work (2018)](https://techcrunch.com/2018/08/23/what-is-this-weird-twitter-army-of-amazon-drones-cheerfully-defending-warehouse-work/)
-- ['Fake' Amazon workers defend company on Twitter](https://www.bbc.com/news/technology-56581266)
-- [Overnight Pizza and the Consistent Unreliability of Expert Guidelines](https://residentcontrarian.substack.com/p/overnight-pizza-and-the-consistent)
-- [Amazon loses effort to install camera to watch counting of ballots in union vote](https://www.cnbc.com/2021/03/30/amazon-loses-effort-to-install-camera-to-watch-ballot-box-in-union-vote.html)
-- [Golang: Know Your 'Nil'](http://jeremymikkola.com/posts/2017_03_29_know_your_nil.html)
+- [As Bad Information Spreads, Florida Schools Seek to Teach 'Digital Literacy'](https://www.npr.org/2021/03/30/980405254/as-bad-information-spreads-florida-schools-seek-to-teach-digital-literacy)
+- [Pickle (YC W21) Is Hiring](https://www.workatastartup.com/jobs/43000)
+- [A Man Who Tried to Redeem the World with Logic](https://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic)
+- [Japan's cherry blossom 'earliest peak since 812'](https://www.bbc.com/news/world-asia-56574142)
+- [Child tweets gibberish from US nuclear-agency account](https://www.bbc.com/news/technology-56578544)
 <!-- BLOG-POST-LIST:END -->
 
 ---
