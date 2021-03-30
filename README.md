@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Icecream: Never use print() to debug again in Python](https://github.com/gruns/icecream)
 - [Intel to Spend $20B on 2 New Chip Factories in Arizona](https://www.nytimes.com/2021/03/23/technology/intel-arizona-chip-factories.html)
 - [Down the Golang Nil Rabbit Hole](https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole/)
 - [Find eng jobs at over 800 fast-growing YC startups on ycombinator.com/jobs](https://ycombinator.com/jobs)
 - [Underproduction: An Approach for Measuring Risk in Open Source Software](https://arxiv.org/abs/2103.00352)
-- [Git email flow vs. GitHub flow](https://blog.brixit.nl/git-email-flow-versus-github-flow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
