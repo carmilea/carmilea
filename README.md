@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [EC2 Serial Console](https://aws.amazon.com/blogs/aws/troubleshoot-boot-and-networking-issues-with-new-ec2-serial-console/)
 - [Dover (YC S19) is hiring our first Growth Product Engineer](https://www.dover.com/open-roles/growth-product-engineer)
-- [Whatever you tweet may be used against you](https://www.economist.com/books-and-arts/2021/03/27/whatever-you-tweet-may-be-used-against-you)
 - [C# 9 top-level programs and target-typed expressions](https://developers.redhat.com/blog/2021/03/30/c-9-top-level-programs-and-target-typed-expressions/)
-- [ZooKeeper-free Kafka is out. First Demo](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)
+- [Kafka without ZooKeeper](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)
+- [Volkswagen will not change name of U.S. operations: sources](https://www.reuters.com/article/us-volkswagen-name/volkswagen-will-not-change-name-of-u-s-operations-sources-idUSKBN2BM2YJ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
