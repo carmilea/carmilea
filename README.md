@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Boston Dynamics Unveils New Robot for Warehouse Automation](https://www.bostondynamics.com/new-robot-for-warehouse-automation)
+- [Fungrim: The Mathematical Functions Grimoire](https://fungrim.org/)
+- [Storage is now available in Supabase (YC S20)](https://supabase.io/blog/2021/03/30/supabase-storage)
 - [Voltswagen of America](https://media.vw.com/en-us/releases/1499)
-- [Money and Investing (2015)](http://philip.greenspun.com/materialism/money)
-- [How the United States Lost to Hackers](https://www.nytimes.com/2021/02/06/technology/cyber-hackers-usa.html)
-- [Improving Shell Workflows with Fzf](https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf/)
-- [Starship SN11 Launch Attempt Ends in Rapid Unscheduled Disassembly](https://twitter.com/NASASpaceflight/status/1376884533841170432)
+- [Sega Lawyers Demand “Immediate Suspension” of Steam Database over Alleged Piracy](https://torrentfreak.com/sega-lawyers-demand-immediate-suspension-of-steam-database-over-alleged-piracy-210330/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
