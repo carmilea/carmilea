@@ -55,7 +55,7 @@
 - [Find eng jobs at over 800 fast-growing YC startups on ycombinator.com/jobs](https://ycombinator.com/jobs)
 - [Underproduction: An Approach for Measuring Risk in Open Source Software](https://arxiv.org/abs/2103.00352)
 - [Git email flow vs. GitHub flow](https://blog.brixit.nl/git-email-flow-versus-github-flow/)
-- [Google showing animated ships when searching “ever given”](https://www.google.com/search?q=ever+given)
+- [Frederick W. Taylor offers some productivity hacks (1911)](https://www.laphamsquarterly.org/technology/work-force)
 <!-- BLOG-POST-LIST:END -->
 
 ---
