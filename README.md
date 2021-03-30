@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unsplash is being acquired by Getty Images](https://unsplash.com/blog/unsplash-getty/)
-- [Apple’s Worldwide Developers Conference is back in its all-online format](https://www.apple.com/newsroom/2021/03/apples-worldwide-developers-conference-is-back-in-its-all-online-format/)
-- [HMAC and Macs – The Inner Workings of JWTs](https://qvault.io/cryptography/hmac-and-macs-in-jwts/)
-- [PayPal launches crypto checkout service](https://www.reuters.com/article/us-crypto-currency-paypal-exclusive-idUSKBN2BM10N)
-- [OpenUnit (YC W20) Is Hiring a Ruby on Rails Engineer](https://www.openunit.com/jobs/senior-software-engineer)
+- [Voltswagen of America](https://media.vw.com/en-us/releases/1499)
+- [Money and Investing (2015)](http://philip.greenspun.com/materialism/money)
+- [How the United States Lost to Hackers](https://www.nytimes.com/2021/02/06/technology/cyber-hackers-usa.html)
+- [Improving Shell Workflows with Fzf](https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf/)
+- [Starship SN11 Launch Attempt Ends in Rapid Unscheduled Disassembly](https://twitter.com/NASASpaceflight/status/1376884533841170432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
