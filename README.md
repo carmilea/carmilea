@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Strategic Command response to FOIA re: March 28 “;l;;gmlxzssaw” tweet](https://twitter.com/MikaelThalen/status/1376653334396903428)
 - [How to Backdoor Curl](https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/)
+- [Show HN: Poulette – A Color Palette GUI](https://github.com/grgrdvrt/poulette)
 - [Icecream: Never use print() to debug again in Python](https://github.com/gruns/icecream)
-- [Bebop: An Efficient, Schema-Based Binary Serialization Format](https://rainway.com/blog/2020/12/09/bebop-an-efficient-schema-based-binary-serialization-format/)
-- [Intel to spend $20B on two new chip factories in Arizona](https://www.nytimes.com/2021/03/23/technology/intel-arizona-chip-factories.html)
-- [Down the Golang Nil Rabbit Hole](https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole/)
+- [Compiling a Lisp to x86_64 (2020)](https://bernsteinbear.com/blog/lisp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
