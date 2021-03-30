@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Toxic people could become a reality, scientists researching snake venom say](https://www.irishexaminer.com/world/arid-40254002.html)
-- [Goolgle collects 20X more telemetry from Android devices than Apple from iOS](https://therecord.media/google-collects-20-times-more-telemetry-from-android-devices-than-apple-from-ios/)
-- [People's Expensive NFTs Keep Vanishing. This Is Why](https://www.vice.com/en/article/pkdj79/peoples-expensive-nfts-keep-vanishing-this-is-why)
-- [See a Satellite Tonight](https://james.darpinian.com/satellites/)
-- [Whistleblower: Ubiquiti Breach “Catastrophic”](https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/)
+- [EC2 Serial Console](https://aws.amazon.com/blogs/aws/troubleshoot-boot-and-networking-issues-with-new-ec2-serial-console/)
+- [Dover (YC S19) is hiring our first Growth Product Engineer](https://www.dover.com/open-roles/growth-product-engineer)
+- [Whatever you tweet may be used against you](https://www.economist.com/books-and-arts/2021/03/27/whatever-you-tweet-may-be-used-against-you)
+- [C# 9 top-level programs and target-typed expressions](https://developers.redhat.com/blog/2021/03/30/c-9-top-level-programs-and-target-typed-expressions/)
+- [ZooKeeper-free Kafka is out. First Demo](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
