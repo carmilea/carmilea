@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China passes Hong Kong “patriot” election law](https://www.axios.com/china-passes-hong-kong-patriot-election-law-37117377-8d34-44c6-b44d-20913c6afae0.html)
+- [How to Backdoor Curl](https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/)
 - [Icecream: Never use print() to debug again in Python](https://github.com/gruns/icecream)
 - [Bebop: An Efficient, Schema-Based Binary Serialization Format](https://rainway.com/blog/2020/12/09/bebop-an-efficient-schema-based-binary-serialization-format/)
 - [Intel to spend $20B on two new chip factories in Arizona](https://www.nytimes.com/2021/03/23/technology/intel-arizona-chip-factories.html)
