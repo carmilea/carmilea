@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unsplash is being acquired by Getty Images](https://unsplash.com/blog/unsplash-getty/)
+- [Apple’s Worldwide Developers Conference is back in its all-online format](https://www.apple.com/newsroom/2021/03/apples-worldwide-developers-conference-is-back-in-its-all-online-format/)
+- [HMAC and Macs – The Inner Workings of JWTs](https://qvault.io/cryptography/hmac-and-macs-in-jwts/)
+- [PayPal launches crypto checkout service](https://www.reuters.com/article/us-crypto-currency-paypal-exclusive-idUSKBN2BM10N)
 - [OpenUnit (YC W20) Is Hiring a Ruby on Rails Engineer](https://www.openunit.com/jobs/senior-software-engineer)
-- [Python turns 30: Interview with Guido van Rossum](https://www.techradar.com/news/python-turns-30-meet-the-man-tasked-with-keeping-the-programming-language-on-track)
-- [Breakthrough for ‘massless’ energy storage](https://www.chalmers.se/en/departments/ims/news/Pages/Big-breakthrough-for-’massless’-energy-storage.aspx)
-- [U.S. Strategic Command response to FOIA request regarding gibberish tweet](https://twitter.com/MikaelThalen/status/1376653334396903428)
-- [How to backdoor curl](https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
