@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toxic people could become a reality, scientists researching snake venom say](https://www.irishexaminer.com/world/arid-40254002.html)
+- [Goolgle collects 20X more telemetry from Android devices than Apple from iOS](https://therecord.media/google-collects-20-times-more-telemetry-from-android-devices-than-apple-from-ios/)
+- [People's Expensive NFTs Keep Vanishing. This Is Why](https://www.vice.com/en/article/pkdj79/peoples-expensive-nfts-keep-vanishing-this-is-why)
 - [See a Satellite Tonight](https://james.darpinian.com/satellites/)
 - [Whistleblower: Ubiquiti Breach “Catastrophic”](https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/)
-- [Arm Announces Armv9 Architecture: SVE2, Security, and the Next Decade](https://www.anandtech.com/show/16584/arm-announces-armv9-architecture)
-- [Leah Rowe Coups Libreboot](https://www.andrewrobbins.info/libreboot.html)
-- ['We have your porn collection': The rise of extortionware](https://www.bbc.com/news/technology-56570862)
 <!-- BLOG-POST-LIST:END -->
 
 ---
