@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [See a Satellite Tonight](https://james.darpinian.com/satellites/)
 - [Whistleblower: Ubiquiti Breach “Catastrophic”](https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/)
 - [Arm Announces Armv9 Architecture: SVE2, Security, and the Next Decade](https://www.anandtech.com/show/16584/arm-announces-armv9-architecture)
+- [Leah Rowe Coups Libreboot](https://www.andrewrobbins.info/libreboot.html)
 - ['We have your porn collection': The rise of extortionware](https://www.bbc.com/news/technology-56570862)
-- [Social media addiction linked to cyberbullying](https://news.uga.edu/social-media-addiction-linked-to-cyberbullying/)
-- [Why the Yuppie Elite Dismiss Bitcoin](https://www.citadel21.com/why-the-yuppie-elite-dismiss-bitcoin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
