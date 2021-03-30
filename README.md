@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Boston Dynamics Unveils New Robot for Warehouse Automation](https://www.bostondynamics.com/new-robot-for-warehouse-automation)
-- [Fungrim: The Mathematical Functions Grimoire](https://fungrim.org/)
-- [Storage is now available in Supabase (YC S20)](https://supabase.io/blog/2021/03/30/supabase-storage)
-- [Voltswagen of America](https://media.vw.com/en-us/releases/1499)
-- [Sega Lawyers Demand “Immediate Suspension” of Steam Database over Alleged Piracy](https://torrentfreak.com/sega-lawyers-demand-immediate-suspension-of-steam-database-over-alleged-piracy-210330/)
+- [Weird Twitter army of Amazon drones cheerfully defending warehouse work (2018)](https://techcrunch.com/2018/08/23/what-is-this-weird-twitter-army-of-amazon-drones-cheerfully-defending-warehouse-work/)
+- ['Fake' Amazon workers defend company on Twitter](https://www.bbc.com/news/technology-56581266)
+- [Overnight Pizza and the Consistent Unreliability of Expert Guidelines](https://residentcontrarian.substack.com/p/overnight-pizza-and-the-consistent)
+- [Amazon loses effort to install camera to watch counting of ballots in union vote](https://www.cnbc.com/2021/03/30/amazon-loses-effort-to-install-camera-to-watch-ballot-box-in-union-vote.html)
+- [Golang: Know Your 'Nil'](http://jeremymikkola.com/posts/2017_03_29_know_your_nil.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
