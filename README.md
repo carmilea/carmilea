@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Strategic Command response to FOIA re: March 28 “;l;;gmlxzssaw” tweet](https://twitter.com/MikaelThalen/status/1376653334396903428)
-- [How to Backdoor Curl](https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/)
-- [Show HN: Poulette – A Color Palette GUI](https://github.com/grgrdvrt/poulette)
-- [Icecream: Never use print() to debug again in Python](https://github.com/gruns/icecream)
-- [Compiling a Lisp to x86_64 (2020)](https://bernsteinbear.com/blog/lisp/)
+- [OpenUnit (YC W20) Is Hiring a Ruby on Rails Engineer](https://www.openunit.com/jobs/senior-software-engineer)
+- [Python turns 30: Interview with Guido van Rossum](https://www.techradar.com/news/python-turns-30-meet-the-man-tasked-with-keeping-the-programming-language-on-track)
+- [Breakthrough for ‘massless’ energy storage](https://www.chalmers.se/en/departments/ims/news/Pages/Big-breakthrough-for-’massless’-energy-storage.aspx)
+- [U.S. Strategic Command response to FOIA request regarding gibberish tweet](https://twitter.com/MikaelThalen/status/1376653334396903428)
+- [How to backdoor curl](https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
