@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Computers Won't Make Themselves Smarter](https://www.newyorker.com/culture/annals-of-inquiry/why-computers-wont-make-themselves-smarter)
+- [What I learnt after burning $10M as an entrepreneur](https://twitter.com/awilkinson/status/1376985854229504007)
+- [Google Is Testing Its Controversial New Ad Targeting Tech in Millions of Browsrs](https://www.eff.org/deeplinks/2021/03/google-testing-its-controversial-new-ad-targeting-tech-millions-browsers-heres)
 - [Boeing 737-8 MAX reported a pitch trim issue or failure and returned origin](http://avherald.com/h?article=4e52a7cb&opt=0)
 - [Systemd 248 Released: A concept of system extension images is introduced](https://raw.githubusercontent.com/systemd/systemd/main/NEWS)
-- [Cyble (YC W21) Is Hiring](https://www.workatastartup.com/jobs/42988)
-- [Suppressing a gene by using its antibody can lead to tooth growth: animal study](https://www.u-fukui.ac.jp/en-news/67075/)
-- [Hershey Fonts: Not Chocolate, the Origin of Vector Lettering](https://hackaday.com/2021/03/30/hershey-fonts-not-chocolate-the-origin-of-vector-lettering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
