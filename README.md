@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Political Case for a Blanket Cryptocurrency Ban](https://www.stephendiehl.com/blog/banbitcoin.html)
+- [Hitachi to buy U.S. software developer GlobalLogic for $9.6B](https://www.reuters.com/article/us-hitachi-globallogic/hitachi-to-buy-u-s-software-developer-globallogic-for-9-6-billion-idUSKBN2BN0ED)
+- [NFTs unbundle ownership from enjoyment](https://interjectedfuture.com/nfts-unbundle-ownership-from-enjoyment/)
+- [Ask HN: What are the best data science bootcamps?](https://news.ycombinator.com/item?id=26648469)
 - [Taking on Google](https://inthegood.co/taking-on-google/)
-- [Selection effects on dishonest behavior](http://journal.sjdm.org/20/200824b/jdm200824b.html)
-- [Android's new Bluetooth stack rewrite (Gabeldorsh) is written with Rust](https://android.googlesource.com/platform/system/bt/+/master/gd/rust/)
-- [Ask HN: I've realized I'm a bad software engineer and I'm over 30, what's next?](https://news.ycombinator.com/item?id=26647717)
-- [Here’s why we are going open source](https://www.citizenlab.co/blog/civic-engagement/heres-why-we-are-going-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
