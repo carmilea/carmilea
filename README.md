@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The FSF unionised because of RMS](https://twitter.com/paulnivin/status/1377079987950395393)
+- [Stop Calling Everything AI, Machine-Learning Pioneer Says](https://spectrum.ieee.org/the-institute/ieee-member-news/stop-calling-everything-ai-machinelearning-pioneer-says)
+- [Airbyte raised $5M with Accel in 13 days (deck included)](https://airbyte.io/articles/our-story/the-deck-we-used-to-raise-our-seed-with-accel-in-13-days/)
+- [Vladimir Arnold on Teaching Mathematics](https://www.uni-muenster.de/Physik.TP/~munsteg/arnold.html)
 - [PopSQL (YC S19) Is Hiring a Head of Engineering](https://popsql.com/jobs/head-of-engineering)
-- [Bitcoin Is Worse Is Better (2011)](https://www.gwern.net/Bitcoin-is-Worse-is-Better)
-- [TLA+ Action Properties](https://www.hillelwayne.com/post/action-properties/)
-- [Apple to build battery-based solar energy storage project in California](https://www.reuters.com/article/us-apple-environment-idUSKBN2BN206)
+- [Modern Code Review: A Case Study at Google [pdf]](https://sback.it/publications/icse2018seip.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
