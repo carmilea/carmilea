@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple doesn't care about Album Cover Art](https://guilhermesimoes.github.io/blog/apple-does-not-care-about-album-cover-art)
+- [Microsoft wins $21.9B contract with U.S. Army to supply AR headsets](https://www.reuters.com/article/us-microsoft-army/microsoft-wins-21-9-billion-contract-with-u-s-army-to-supply-augmented-reality-headsets-idUSKBN2BN36B)
 - [Stop Calling Everything AI, Machine-Learning Pioneer Says](https://spectrum.ieee.org/the-institute/ieee-member-news/stop-calling-everything-ai-machinelearning-pioneer-says)
-- [The deck we used to raise our seed](https://airbyte.io/articles/our-story/the-deck-we-used-to-raise-our-seed-with-accel-in-13-days/)
-- [Amazon plans to ‘return to an office-centric culture as our baseline’](https://www.geekwire.com/2021/amazon-updates-remote-work-guidance-plans-return-office-centric-culture-baseline/)
+- [The deck we used to raise our seed funding](https://airbyte.io/articles/our-story/the-deck-we-used-to-raise-our-seed-with-accel-in-13-days/)
 - [On teaching mathematics (1997)](https://www.uni-muenster.de/Physik.TP/~munsteg/arnold.html)
+- [PopSQL (YC S19) Is Hiring a Head of Engineering](https://popsql.com/jobs/head-of-engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
