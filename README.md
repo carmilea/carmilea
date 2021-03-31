@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [International Backup Awareness Day – Coding Horror](https://blog.codinghorror.com/international-backup-awareness-day/)
-- [Masks distributed in Canada with microscopic graphene potentially toxic](https://www.cbc.ca/news/canada/montreal/masks-early-pulmonary-toxicity-quebec-schools-daycares-1.5966387)
-- [Apple powers ahead in new renewable energy solutions with over 110 suppliers](https://www.apple.com/newsroom/2021/03/apple-powers-ahead-in-new-renewable-energy-solutions-with-over-110-suppliers/)
-- [Hope for Huawei as UK’s Arm Says Latest Chip Not Subject to US Export Controls](https://www.yicaiglobal.com/news/hope-beckons-for-huawei-as-uk-arm-says-latest-chip-not-subject-to-us-export-controls)
-- [Hit songwriters ask pop stars to stop taking credit for songs they didn't write](https://www.bbc.co.uk/news/entertainment-arts-56587621)
+- [Taking on Google](https://inthegood.co/taking-on-google/)
+- [Selection effects on dishonest behavior](http://journal.sjdm.org/20/200824b/jdm200824b.html)
+- [Android's new Bluetooth stack rewrite (Gabeldorsh) is written with Rust](https://android.googlesource.com/platform/system/bt/+/master/gd/rust/)
+- [Ask HN: I've realized I'm a bad software engineer and I'm over 30, what's next?](https://news.ycombinator.com/item?id=26647717)
+- [Here’s why we are going open source](https://www.citizenlab.co/blog/civic-engagement/heres-why-we-are-going-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
