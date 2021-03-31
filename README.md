@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook now lets users and pages turn off comments on their posts](https://www.theguardian.com/media/2021/mar/31/facebook-turn-off-comments-on-post-limit-restrict-disable-comment-posts-moderation-control-tool)
+- [Input: Customisable Fonts for Code](https://input.djr.com/preview/)
+- [OBS Studio Now Ready with Wayland Capture Support](https://www.phoronix.com/scan.php?page=news_item&px=OBS-Studio-Wayland-Ready)
 - [Deliveroo shares drop 30% on UK IPO listing](https://www.bbc.co.uk/news/business-56578445)
 - [Apple's Cooperation with Authoritarian Governments](https://www.jessesquires.com/blog/2021/03/30/apple-cooperation-with-authoritarian-governments/)
-- [UP: A tool for writing Linux pipes with instant live preview](https://github.com/akavel/up)
-- [Copyright infringement by German contact tracing app](https://github.com/thesimj/jBaseZ85/issues/1)
-- [Seats filled for first all-civilian spaceflight crew](https://www.reuters.com/article/us-space-exploration-inspiration4/seats-filled-for-first-all-civilian-spaceflight-crew-idUSKBN2BN097)
 <!-- BLOG-POST-LIST:END -->
 
 ---
