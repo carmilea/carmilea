@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Frameworkless Movement](https://www.frameworklessmovement.org/)
+- [Deliveroo shares drop 30% on UK IPO listing](https://www.bbc.co.uk/news/business-56578445)
+- [Apple's Cooperation with Authoritarian Governments](https://www.jessesquires.com/blog/2021/03/30/apple-cooperation-with-authoritarian-governments/)
 - [UP: A tool for writing Linux pipes with instant live preview](https://github.com/akavel/up)
 - [Copyright infringement by German contact tracing app](https://github.com/thesimj/jBaseZ85/issues/1)
 - [Seats filled for first all-civilian spaceflight crew](https://www.reuters.com/article/us-space-exploration-inspiration4/seats-filled-for-first-all-civilian-spaceflight-crew-idUSKBN2BN097)
-- [What I learnt after burning $10M as an entrepreneur](https://twitter.com/awilkinson/status/1376985854229504007)
 <!-- BLOG-POST-LIST:END -->
 
 ---
