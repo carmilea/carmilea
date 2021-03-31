@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EC2 Serial Console](https://aws.amazon.com/blogs/aws/troubleshoot-boot-and-networking-issues-with-new-ec2-serial-console/)
-- [Dover (YC S19) is hiring our first Growth Product Engineer](https://www.dover.com/open-roles/growth-product-engineer)
-- [C# 9 top-level programs and target-typed expressions](https://developers.redhat.com/blog/2021/03/30/c-9-top-level-programs-and-target-typed-expressions/)
-- [Kafka without ZooKeeper](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)
-- [Volkswagen will not change name of U.S. operations: sources](https://www.reuters.com/article/us-volkswagen-name/volkswagen-will-not-change-name-of-u-s-operations-sources-idUSKBN2BM2YJ)
+- [Cyble (YC W21) Is Hiring](https://www.workatastartup.com/jobs/42988)
+- [U.S. human rights report documents China's genocide in Xinjiang](https://www.axios.com/state-department-human-rights-report-china-genocide-760d4cb5-5b66-4533-9f64-a737ac5e2d02.html)
+- [Latest Research News: New drug to regenerate lost teeth](https://www.u-fukui.ac.jp/en-news/67075/)
+- [Hershey Fonts: Not Chocolate, the Origin of Vector Lettering](https://hackaday.com/2021/03/30/hershey-fonts-not-chocolate-the-origin-of-vector-lettering/)
+- [What does a PGP signature on a Git commit prove?](https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit-prove)
 <!-- BLOG-POST-LIST:END -->
 
 ---
