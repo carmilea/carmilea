@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook now lets users and pages turn off comments on their posts](https://www.theguardian.com/media/2021/mar/31/facebook-turn-off-comments-on-post-limit-restrict-disable-comment-posts-moderation-control-tool)
-- [Input: Customisable Fonts for Code](https://input.djr.com/preview/)
-- [OBS Studio Now Ready with Wayland Capture Support](https://www.phoronix.com/scan.php?page=news_item&px=OBS-Studio-Wayland-Ready)
-- [Deliveroo shares drop 30% on UK IPO listing](https://www.bbc.co.uk/news/business-56578445)
-- [Apple's Cooperation with Authoritarian Governments](https://www.jessesquires.com/blog/2021/03/30/apple-cooperation-with-authoritarian-governments/)
+- [Eqtble (YC W21) is hiring for our founding team](https://www.workatastartup.com/companies/23640)
+- [Libreboot – Defend Richard Stallman!](https://libreboot.org/news/rms.html)
+- [Security analysis of AMD predictive store forwarding [pdf]](https://www.amd.com/system/files/documents/security-analysis-predictive-store-forwarding.pdf)
+- [Latest Mozilla VPN features keep your data safe](https://blog.mozilla.org/blog/2021/03/30/latest-mozilla-vpn-features-keep-your-data-safe/)
+- [Inside A Viral Website](https://notfunatparties.substack.com/p/inside-a-viral-website)
 <!-- BLOG-POST-LIST:END -->
 
 ---
