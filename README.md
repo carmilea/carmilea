@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Eqtble (YC W21) is hiring for our founding team](https://www.workatastartup.com/companies/23640)
-- [Libreboot – Defend Richard Stallman!](https://libreboot.org/news/rms.html)
-- [Security analysis of AMD predictive store forwarding [pdf]](https://www.amd.com/system/files/documents/security-analysis-predictive-store-forwarding.pdf)
-- [Latest Mozilla VPN features keep your data safe](https://blog.mozilla.org/blog/2021/03/30/latest-mozilla-vpn-features-keep-your-data-safe/)
-- [Inside A Viral Website](https://notfunatparties.substack.com/p/inside-a-viral-website)
+- [Hope for Huawei as UK’s Arm Says Latest Chip Not Subject to US Export Controls](https://www.yicaiglobal.com/news/hope-beckons-for-huawei-as-uk-arm-says-latest-chip-not-subject-to-us-export-controls)
+- [Hit songwriters ask pop stars to stop taking credit for songs they didn't write](https://www.bbc.co.uk/news/entertainment-arts-56587621)
+- [What Data Can’t Do](https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do)
+- [Turing Award to Aho and Ullman for work on compilers](https://www.nytimes.com/2021/03/31/technology/turing-award-aho-ullman.html)
+- [The Overedge Catalog: Misfit Research and Tech Organizations](https://arbesman.net/overedge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
