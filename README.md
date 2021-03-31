@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TrueVault (YC W14) is hiring an Eng Lead for our brand new data privacy product](https://www.ycombinator.com/companies/628/jobs/oc7r6dIgO-engineering-lead)
+- [YouTube to Remove Dislikes](https://twitter.com/YouTube/status/1376942486594150405)
+- [TrueVault (YC W14) is hiring an engineering lead for a new data privacy product](https://www.ycombinator.com/companies/628/jobs/oc7r6dIgO-engineering-lead)
+- [Fighting cryptojacking and doing good things with content security policies](https://www.troyhunt.com/i-now-own-the-coinhive-domain-heres-how-im-fighting-cryptojacking-and-doing-good-things-with-content-security-policies/)
 - [Tracing Paper (2020)](https://logicmag.io/security/tracing-paper/)
 - [T cells recognize recent SARS-CoV-2 variants](https://www.nih.gov/news-events/news-releases/t-cells-recognize-recent-sars-cov-2-variants)
-- [Goals vs. Systems (2013)](https://www.scottadamssays.com/2013/11/18/goals-vs-systems/)
-- [Microsoft wins $21.9B contract with U.S. Army to supply AR headsets](https://www.reuters.com/article/us-microsoft-army/microsoft-wins-21-9-billion-contract-with-u-s-army-to-supply-augmented-reality-headsets-idUSKBN2BN36B)
 <!-- BLOG-POST-LIST:END -->
 
 ---
