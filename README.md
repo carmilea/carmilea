@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TrueVault (YC W14) is hiring an Eng Lead for our brand new data privacy product](https://www.ycombinator.com/companies/628/jobs/oc7r6dIgO-engineering-lead)
+- [Tracing Paper (2020)](https://logicmag.io/security/tracing-paper/)
+- [T cells recognize recent SARS-CoV-2 variants](https://www.nih.gov/news-events/news-releases/t-cells-recognize-recent-sars-cov-2-variants)
+- [Goals vs. Systems (2013)](https://www.scottadamssays.com/2013/11/18/goals-vs-systems/)
 - [Microsoft wins $21.9B contract with U.S. Army to supply AR headsets](https://www.reuters.com/article/us-microsoft-army/microsoft-wins-21-9-billion-contract-with-u-s-army-to-supply-augmented-reality-headsets-idUSKBN2BN36B)
-- [Stop Calling Everything AI, Machine-Learning Pioneer Says](https://spectrum.ieee.org/the-institute/ieee-member-news/stop-calling-everything-ai-machinelearning-pioneer-says)
-- [The deck we used to raise our seed funding](https://airbyte.io/articles/our-story/the-deck-we-used-to-raise-our-seed-with-accel-in-13-days/)
-- [On teaching mathematics (1997)](https://www.uni-muenster.de/Physik.TP/~munsteg/arnold.html)
-- [PopSQL (YC S19) Is Hiring a Head of Engineering](https://popsql.com/jobs/head-of-engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
