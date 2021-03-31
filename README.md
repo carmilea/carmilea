@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [International Backup Awareness Day – Coding Horror](https://blog.codinghorror.com/international-backup-awareness-day/)
+- [Masks distributed in Canada with microscopic graphene potentially toxic](https://www.cbc.ca/news/canada/montreal/masks-early-pulmonary-toxicity-quebec-schools-daycares-1.5966387)
+- [Apple powers ahead in new renewable energy solutions with over 110 suppliers](https://www.apple.com/newsroom/2021/03/apple-powers-ahead-in-new-renewable-energy-solutions-with-over-110-suppliers/)
 - [Hope for Huawei as UK’s Arm Says Latest Chip Not Subject to US Export Controls](https://www.yicaiglobal.com/news/hope-beckons-for-huawei-as-uk-arm-says-latest-chip-not-subject-to-us-export-controls)
 - [Hit songwriters ask pop stars to stop taking credit for songs they didn't write](https://www.bbc.co.uk/news/entertainment-arts-56587621)
-- [What Data Can’t Do](https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do)
-- [Turing Award to Aho and Ullman for work on compilers](https://www.nytimes.com/2021/03/31/technology/turing-award-aho-ullman.html)
-- [The Overedge Catalog: Misfit Research and Tech Organizations](https://arbesman.net/overedge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
