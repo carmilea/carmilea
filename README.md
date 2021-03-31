@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jump in cancer diagnoses at 65 implies patients wait for Medicare](http://med.stanford.edu/news/all-news/2021/03/Cancer-diagnoses-implies-patients-wait-for-Medicare.html)
+- [Google is accelerating reopening of offices and putting limits on remote work](https://www.cnbc.com/2021/03/31/google-speeds-partial-office-reopening-and-puts-limits-on-remote-work.html)
+- [Beach High School](http://www2.cruzio.com/~beachhi/graduation.html)
 - [YouTube to Remove Dislikes](https://twitter.com/YouTube/status/1376942486594150405)
 - [TrueVault (YC W14) is hiring an engineering lead for a new data privacy product](https://www.ycombinator.com/companies/628/jobs/oc7r6dIgO-engineering-lead)
-- [Fighting cryptojacking and doing good things with content security policies](https://www.troyhunt.com/i-now-own-the-coinhive-domain-heres-how-im-fighting-cryptojacking-and-doing-good-things-with-content-security-policies/)
-- [Tracing Paper (2020)](https://logicmag.io/security/tracing-paper/)
-- [T cells recognize recent SARS-CoV-2 variants](https://www.nih.gov/news-events/news-releases/t-cells-recognize-recent-sars-cov-2-variants)
 <!-- BLOG-POST-LIST:END -->
 
 ---
