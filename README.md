@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BBC: The cost of speaking up against China (Uyghurs)](https://www.bbc.com/news/world-asia-china-56563449)
 - [Cyble (YC W21) Is Hiring](https://www.workatastartup.com/jobs/42988)
-- [U.S. human rights report documents China's genocide in Xinjiang](https://www.axios.com/state-department-human-rights-report-china-genocide-760d4cb5-5b66-4533-9f64-a737ac5e2d02.html)
-- [Latest Research News: New drug to regenerate lost teeth](https://www.u-fukui.ac.jp/en-news/67075/)
-- [Hershey Fonts: Not Chocolate, the Origin of Vector Lettering](https://hackaday.com/2021/03/30/hershey-fonts-not-chocolate-the-origin-of-vector-lettering/)
+- [Suppressing a gene by using its antibody can lead to tooth growth: animal study](https://www.u-fukui.ac.jp/en-news/67075/)
 - [What does a PGP signature on a Git commit prove?](https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit-prove)
+- [Elizabeth Loftus Changed the Meaning of Memory](https://www.newyorker.com/magazine/2021/04/05/how-elizabeth-loftus-changed-the-meaning-of-memory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
