@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Political Case for a Blanket Cryptocurrency Ban](https://www.stephendiehl.com/blog/banbitcoin.html)
-- [Hitachi to buy U.S. software developer GlobalLogic for $9.6B](https://www.reuters.com/article/us-hitachi-globallogic/hitachi-to-buy-u-s-software-developer-globallogic-for-9-6-billion-idUSKBN2BN0ED)
-- [NFTs unbundle ownership from enjoyment](https://interjectedfuture.com/nfts-unbundle-ownership-from-enjoyment/)
-- [Ask HN: What are the best data science bootcamps?](https://news.ycombinator.com/item?id=26648469)
-- [Taking on Google](https://inthegood.co/taking-on-google/)
+- [The FSF unionised because of RMS](https://twitter.com/paulnivin/status/1377079987950395393)
+- [PopSQL (YC S19) Is Hiring a Head of Engineering](https://popsql.com/jobs/head-of-engineering)
+- [Bitcoin Is Worse Is Better (2011)](https://www.gwern.net/Bitcoin-is-Worse-is-Better)
+- [TLA+ Action Properties](https://www.hillelwayne.com/post/action-properties/)
+- [Apple to build battery-based solar energy storage project in California](https://www.reuters.com/article/us-apple-environment-idUSKBN2BN206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
