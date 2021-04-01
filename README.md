@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I built Creodocs, a document creation platform based on LaTeX](https://www.creodocs.com)
+- [Gut microbial taxa elevated by dietary sugar disrupt memory function](https://www.nature.com/articles/s41398-021-01309-7)
 - [MS Azure down: An emerging issue is being investigated](https://status2.azure.com/)
 - [RFC8962: Establishing the Protocol Police](https://www.rfc-editor.org/rfc/rfc8962.txt)
 - [Azure is having DNS issues](http://status.azure.com/)
-- [Navattic (YC W21) Is Hiring a Lead Engineer](https://www.navattic.com/join-us)
-- [Filecoin Foundation Grants 50k FIL to the Internet Archive](https://blog.archive.org/2021/04/01/filecoin-foundation-grants-50000-fil-to-the-internet-archive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
