@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New study detects lottery-like behavior in cryptocurrency markets](https://www.univaasa.fi/en/articles/new-study-detects-lottery-behavior-cryptocurrency-markets)
 - [Vectrix (YC S20) Is Hiring a Full Stack Software Engineer](https://www.workatastartup.com/jobs/33733)
+- [Bash-LSP: A language server for Bash](https://github.com/bash-lsp/bash-language-server)
 - [100m Posts Analyzed: What You Need to Write the Best Headlines](https://buzzsumo.com/resources/hundred-million-best-headlines-study/)
 - [A categorized list of all Java and JVM features since JDK 8 to 16](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/)
-- [Ask HN: Who is hiring? (April 2021)](https://news.ycombinator.com/item?id=26661443)
-- [Ask HN: Who wants to be hired? (April 2021)](https://news.ycombinator.com/item?id=26661279)
 <!-- BLOG-POST-LIST:END -->
 
 ---
