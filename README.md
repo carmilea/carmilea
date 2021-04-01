@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MS Azure down: An emerging issue is being investigated](https://status2.azure.com/)
+- [RFC8962: Establishing the Protocol Police](https://www.rfc-editor.org/rfc/rfc8962.txt)
+- [Azure is having DNS issues](http://status.azure.com/)
+- [Navattic (YC W21) Is Hiring a Lead Engineer](https://www.navattic.com/join-us)
 - [Filecoin Foundation Grants 50k FIL to the Internet Archive](https://blog.archive.org/2021/04/01/filecoin-foundation-grants-50000-fil-to-the-internet-archive/)
-- [Evaluating Search Algorithms](https://shopify.engineering/evaluating-search-algorithms)
-- [Multiple register file for Lisp-oriented VLSI chip (1988)](https://www.researchgate.net/publication/3497098_Organization_management_and_VLSI_implementation_of_a_multiple_register_window_file_for_LISP-oriented_architectures)
-- [Myanmar orders wireless internet shutdown until further notice: telecoms sources](https://www.reuters.com/article/us-myanmar-politics-internet/myanmar-orders-wireless-internet-shutdown-until-further-notice-telecoms-sources-idUSKBN2BO5H2)
-- [OpenBSD Adds Support for Coordinated Mars Time (MTC)](https://marc.info/?l=openbsd-cvs&m=161730046519995)
 <!-- BLOG-POST-LIST:END -->
 
 ---
