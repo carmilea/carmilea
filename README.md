@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple, Google Both Track Mobile Telemetry Data, Despite Users Opting Out](https://threatpost.com/google-apple-track-mobile-opting-out/165147/)
-- [Hacker Exploits Bugs in Original ‘Doom’ Code to Run ‘Snake’ Inside the Game](https://www.vice.com/en/article/v7m54j/hacker-exploits-bugs-in-original-doom-code-to-run-snake-inside-the-game)
-- [Show HN: Mail Studio – IDE for designing responsive emails](https://mailstudio.app/)
-- [By 10 (YC S17) Is Hiring Recruiting Account Manager](https://docs.google.com/document/d/1kksPsH76klEYp6A-0c-ilcV-pBN2ldbAYWaeuPOM9OM/edit?usp=sharing)
-- [Pro¹X: A Linux smartphone with slideout keyboard](https://www.fxtec.com/pro1x)
+- [Ask HN: Who is hiring? (April 2021)](https://news.ycombinator.com/item?id=26661443)
+- [Ask HN: Who wants to be hired? (April 2021)](https://news.ycombinator.com/item?id=26661279)
+- [GNU Kind Communications Guidelines](https://www.gnu.org/philosophy/kind-communication.html)
+- [Ubiquiti accused of covering up ‘catastrophic’ breach– and it’s not denying it](https://www.theverge.com/2021/3/31/22360409/ubiquiti-networking-data-breach-response-whistleblower-cybersecurity-incident)
+- [Denolib/awesome-deno: Curated list of things related to Deno](https://github.com/denolib/awesome-deno)
 <!-- BLOG-POST-LIST:END -->
 
 ---
