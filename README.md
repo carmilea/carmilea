@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A billion for every chip-maker who 'makes in India,' sources say](https://www.reuters.com/article/us-india-semiconductor-exclusive/exclusive-a-billion-dollars-for-every-chip-maker-who-makes-in-india-idUSKBN2BN12J)
+- [Expanded Testing of Video Conferencing Bandwidth Usage over 50/5 Mbps Broadband](https://www.cablelabs.com/expanded-testing-of-video-conferencing-bandwidth-usage-over-50-5-mbps-broadband-service)
+- [Latest EmDrive tests at Dresden University shows it does not develop any thrust](https://www.grenzwissenschaft-aktuell.de/latest-emdrive-tests-at-dresden-university-shows-impossible-engine-does-not-develop-any-thrust20210321/)
 - [Update on campaign targeting security researchers](https://blog.google/threat-analysis-group/update-campaign-targeting-security-researchers/)
 - [The Collapse of Puerto Rico’s Iconic Telescope](https://www.newyorker.com/magazine/2021/04/05/the-collapse-of-puerto-ricos-iconic-telescope)
 - [Baltimore plant ruins 15M Johnson and Johnson coronavirus vaccines](https://www.axios.com/emergent-biosolutions-johnson-and-johnson-vaccine-dfd781a8-d007-4354-910a-e30d5007839b.html)
-- [Jump in cancer diagnoses at 65 implies patients wait for Medicare: study](http://med.stanford.edu/news/all-news/2021/03/Cancer-diagnoses-implies-patients-wait-for-Medicare.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
