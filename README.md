@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Multiple register file for Lisp-oriented VLSI chip (1988)](https://www.researchgate.net/publication/3497098_Organization_management_and_VLSI_implementation_of_a_multiple_register_window_file_for_LISP-oriented_architectures)
+- [Myanmar orders wireless internet shutdown until further notice](https://www.reuters.com/article/us-myanmar-politics-internet/myanmar-orders-wireless-internet-shutdown-until-further-notice-telecoms-sources-idUSKBN2BO5H2)
+- [Google Play limiting Android 11 apps from seeing what’s installed on devices](https://9to5google.com/2021/03/31/installed-android-apps-limit/)
 - [New study detects lottery-like behavior in cryptocurrency markets](https://www.univaasa.fi/en/articles/new-study-detects-lottery-behavior-cryptocurrency-markets)
 - [Vectrix (YC S20) Is Hiring a Full Stack Software Engineer](https://www.workatastartup.com/jobs/33733)
-- [Bash-LSP: A language server for Bash](https://github.com/bash-lsp/bash-language-server)
-- [100m Posts Analyzed: What You Need to Write the Best Headlines](https://buzzsumo.com/resources/hundred-million-best-headlines-study/)
-- [A categorized list of all Java and JVM features since JDK 8 to 16](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
