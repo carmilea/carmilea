@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [#SingleStore #Storage Training](https://www.youtube.com/watch?v=-Ababrwwpk8)
 - [Data #Ingest using #SingleStore #Pipelines](https://www.youtube.com/watch?v=lwEL2dXd3pg)
 - [Export from #SingleStore to #GoogleCloud storage](https://www.youtube.com/watch?v=sehLdkzo0vw)
 - [Export from #SingleStore to #AWS #S3](https://www.youtube.com/watch?v=K-BpqexSNDw)
 - [#Query Processing and #Caching in #SingleStore](https://www.youtube.com/watch?v=wLmEK0UK280)
-- [SingleStore delivers analytics in the moments that matter](https://www.youtube.com/watch?v=WQWIEkHr4cY)
 <!-- YOUTUBE:END -->
 
 
