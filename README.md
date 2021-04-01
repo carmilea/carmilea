@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Filecoin Foundation Grants 50k FIL to the Internet Archive](https://blog.archive.org/2021/04/01/filecoin-foundation-grants-50000-fil-to-the-internet-archive/)
+- [Evaluating Search Algorithms](https://shopify.engineering/evaluating-search-algorithms)
 - [Multiple register file for Lisp-oriented VLSI chip (1988)](https://www.researchgate.net/publication/3497098_Organization_management_and_VLSI_implementation_of_a_multiple_register_window_file_for_LISP-oriented_architectures)
-- [Myanmar orders wireless internet shutdown until further notice](https://www.reuters.com/article/us-myanmar-politics-internet/myanmar-orders-wireless-internet-shutdown-until-further-notice-telecoms-sources-idUSKBN2BO5H2)
-- [Google Play limiting Android 11 apps from seeing what’s installed on devices](https://9to5google.com/2021/03/31/installed-android-apps-limit/)
-- [New study detects lottery-like behavior in cryptocurrency markets](https://www.univaasa.fi/en/articles/new-study-detects-lottery-behavior-cryptocurrency-markets)
-- [Vectrix (YC S20) Is Hiring a Full Stack Software Engineer](https://www.workatastartup.com/jobs/33733)
+- [Myanmar orders wireless internet shutdown until further notice: telecoms sources](https://www.reuters.com/article/us-myanmar-politics-internet/myanmar-orders-wireless-internet-shutdown-until-further-notice-telecoms-sources-idUSKBN2BO5H2)
+- [OpenBSD Adds Support for Coordinated Mars Time (MTC)](https://marc.info/?l=openbsd-cvs&m=161730046519995)
 <!-- BLOG-POST-LIST:END -->
 
 ---
