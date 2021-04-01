@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [17-volume Arabian Nights available in its entirety at Project Gutenberg](https://blog.pgdp.net/2021/04/01/arabian-nights/)
-- [Ask HN: Best (Low-/No-Code) Solution for Simple Web-Based Database Frontends](https://news.ycombinator.com/item?id=26657803)
-- [TSMC cancels chip price cuts and promises $100bn investment surge](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-cancels-chip-price-cuts-and-promises-100bn-investment-surge)
-- [Neuro (YC W21) Is Hiring Python Engineers – Bath, UK](https://www.ycombinator.com/companies/23430/jobs/PcKn0j4-python-engineer)
-- [Great Bitter Lake Association, the Sort-of-Micronation Formed in the Suez Canal](https://99percentinvisible.org/episode/great-bitter-lake-association/)
+- [On the Decline of Perl [external factors]](https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259484.html)
+- [Category Theory: Orders](https://boris-marinov.github.io/category-theory-illustrated/04_order/)
+- [Arabian Nights](https://blog.pgdp.net/2021/04/01/arabian-nights/)
+- [Ask HN: Best low-/no-code solution for simple web-based database frontends](https://news.ycombinator.com/item?id=26657803)
+- [TSMC cancels chip price cuts and promises $100B investment surge](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-cancels-chip-price-cuts-and-promises-100bn-investment-surge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
