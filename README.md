@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Update on campaign targeting security researchers](https://blog.google/threat-analysis-group/update-campaign-targeting-security-researchers/)
+- [The Collapse of Puerto Rico’s Iconic Telescope](https://www.newyorker.com/magazine/2021/04/05/the-collapse-of-puerto-ricos-iconic-telescope)
 - [Jump in cancer diagnoses at 65 implies patients wait for Medicare](http://med.stanford.edu/news/all-news/2021/03/Cancer-diagnoses-implies-patients-wait-for-Medicare.html)
-- [Google is accelerating reopening of offices and putting limits on remote work](https://www.cnbc.com/2021/03/31/google-speeds-partial-office-reopening-and-puts-limits-on-remote-work.html)
+- [Google Maps will soon default to the route with the lowest carbon footprint](https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai)
 - [Beach High School](http://www2.cruzio.com/~beachhi/graduation.html)
-- [YouTube to Remove Dislikes](https://twitter.com/YouTube/status/1376942486594150405)
-- [TrueVault (YC W14) is hiring an engineering lead for a new data privacy product](https://www.ycombinator.com/companies/628/jobs/oc7r6dIgO-engineering-lead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
