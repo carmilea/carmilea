@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Neuro (YC W21) Is Hiring Python Engineers – Bath, UK](https://www.ycombinator.com/companies/23430/jobs/PcKn0j4-python-engineer)
+- [Great Bitter Lake Association, the Sort-of-Micronation Formed in the Suez Canal](https://99percentinvisible.org/episode/great-bitter-lake-association/)
 - [By 2012, scientists will have announced a cure for breast cancer (2006)](https://longbets.org/240/)
 - [What Would You Do If the Internet Went Away?](https://lithub.com/what-would-you-do-if-the-internet-went-away/)
 - [Security Breach at US Universities](https://dorper.me/articles/unileak.aspx)
-- [Expanded Testing of Video Conferencing Bandwidth Usage over 50/5 Mbps Broadband](https://www.cablelabs.com/expanded-testing-of-video-conferencing-bandwidth-usage-over-50-5-mbps-broadband-service)
 <!-- BLOG-POST-LIST:END -->
 
 ---
