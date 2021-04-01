@@ -54,8 +54,8 @@
 - [On the Decline of Perl [external factors]](https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259484.html)
 - [Category Theory: Orders](https://boris-marinov.github.io/category-theory-illustrated/04_order/)
 - [Arabian Nights](https://blog.pgdp.net/2021/04/01/arabian-nights/)
+- [LineageOS 18.1 Released](https://lineageos.org/Changelog-25/)
 - [Ask HN: Best low-/no-code solution for simple web-based database frontends](https://news.ycombinator.com/item?id=26657803)
-- [TSMC cancels chip price cuts and promises $100B investment surge](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-cancels-chip-price-cuts-and-promises-100bn-investment-surge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
