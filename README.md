@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [French left tears itself apart over ‘non-white’ meetings](https://www.politico.eu/article/french-left-tears-itself-apart-non-white-meetings/)
+- [US, Europe 'unrealistic' in fab expansion drive, says TSMC chair](https://www.digitimes.com/news/a20210331PD206.html)
+- [A categorized list of all Java and JVM features since JDK 8 to 16](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/)
 - [Ask HN: Who is hiring? (April 2021)](https://news.ycombinator.com/item?id=26661443)
-- [Ask HN: Who wants to be hired? (April 2021)](https://news.ycombinator.com/item?id=26661279)
-- [GNU Kind Communications Guidelines](https://www.gnu.org/philosophy/kind-communication.html)
-- [Ubiquiti accused of covering up ‘catastrophic’ breach– and it’s not denying it](https://www.theverge.com/2021/3/31/22360409/ubiquiti-networking-data-breach-response-whistleblower-cybersecurity-incident)
-- [Denolib/awesome-deno: Curated list of things related to Deno](https://github.com/denolib/awesome-deno)
+- [Ask HN: Freelancer? Seeking freelancer? (April 2021)](https://news.ycombinator.com/item?id=26661442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
