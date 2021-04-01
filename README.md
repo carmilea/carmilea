@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Software engineers make excellent CEOs, but few of them think they could do it](https://www.tlt21.com/why-software-engineers-should-become-ceos/)
-- [Never use environment variables for configuration](https://nibblestew.blogspot.com/2021/03/never-use-environment-variables-for.html)
+- [Neuro (YC W21) Is Hiring Python Engineers – Bath, UK](https://www.ycombinator.com/companies/23430/jobs/PcKn0j4-python-engineer)
+- [By 2012, scientists will have announced a cure for breast cancer (2006)](https://longbets.org/240/)
+- [What Would You Do If the Internet Went Away?](https://lithub.com/what-would-you-do-if-the-internet-went-away/)
 - [Security Breach at US Universities](https://dorper.me/articles/unileak.aspx)
 - [Expanded Testing of Video Conferencing Bandwidth Usage over 50/5 Mbps Broadband](https://www.cablelabs.com/expanded-testing-of-video-conferencing-bandwidth-usage-over-50-5-mbps-broadband-service)
-- [Latest EmDrive tests at Dresden University shows it does not develop any thrust](https://www.grenzwissenschaft-aktuell.de/latest-emdrive-tests-at-dresden-university-shows-impossible-engine-does-not-develop-any-thrust20210321/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
