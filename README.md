@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [17-volume Arabian Nights available in its entirety at Project Gutenberg](https://blog.pgdp.net/2021/04/01/arabian-nights/)
+- [Ask HN: Best (Low-/No-Code) Solution for Simple Web-Based Database Frontends](https://news.ycombinator.com/item?id=26657803)
+- [TSMC cancels chip price cuts and promises $100bn investment surge](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-cancels-chip-price-cuts-and-promises-100bn-investment-surge)
 - [Neuro (YC W21) Is Hiring Python Engineers – Bath, UK](https://www.ycombinator.com/companies/23430/jobs/PcKn0j4-python-engineer)
 - [Great Bitter Lake Association, the Sort-of-Micronation Formed in the Suez Canal](https://99percentinvisible.org/episode/great-bitter-lake-association/)
-- [By 2012, scientists will have announced a cure for breast cancer (2006)](https://longbets.org/240/)
-- [What Would You Do If the Internet Went Away?](https://lithub.com/what-would-you-do-if-the-internet-went-away/)
-- [Security Breach at US Universities](https://dorper.me/articles/unileak.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
