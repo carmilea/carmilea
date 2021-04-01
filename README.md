@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software engineers make excellent CEOs, but few of them think they could do it](https://www.tlt21.com/why-software-engineers-should-become-ceos/)
+- [Never use environment variables for configuration](https://nibblestew.blogspot.com/2021/03/never-use-environment-variables-for.html)
+- [Security Breach at US Universities](https://dorper.me/articles/unileak.aspx)
 - [Expanded Testing of Video Conferencing Bandwidth Usage over 50/5 Mbps Broadband](https://www.cablelabs.com/expanded-testing-of-video-conferencing-bandwidth-usage-over-50-5-mbps-broadband-service)
 - [Latest EmDrive tests at Dresden University shows it does not develop any thrust](https://www.grenzwissenschaft-aktuell.de/latest-emdrive-tests-at-dresden-university-shows-impossible-engine-does-not-develop-any-thrust20210321/)
-- [Kepler's Goat Herd: An Exact Solution for Elliptical Orbit Evolution](https://arxiv.org/abs/2103.15829)
-- [Update on campaign targeting security researchers](https://blog.google/threat-analysis-group/update-campaign-targeting-security-researchers/)
-- [The Collapse of Puerto Rico’s Iconic Telescope](https://www.newyorker.com/magazine/2021/04/05/the-collapse-of-puerto-ricos-iconic-telescope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
