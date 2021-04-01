@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [French left tears itself apart over ‘non-white’ meetings](https://www.politico.eu/article/french-left-tears-itself-apart-non-white-meetings/)
-- [US, Europe 'unrealistic' in fab expansion drive, says TSMC chair](https://www.digitimes.com/news/a20210331PD206.html)
+- [Vectrix (YC S20) Is Hiring a Full Stack Software Engineer](https://www.workatastartup.com/jobs/33733)
+- [100m Posts Analyzed: What You Need to Write the Best Headlines](https://buzzsumo.com/resources/hundred-million-best-headlines-study/)
 - [A categorized list of all Java and JVM features since JDK 8 to 16](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/)
 - [Ask HN: Who is hiring? (April 2021)](https://news.ycombinator.com/item?id=26661443)
-- [Ask HN: Freelancer? Seeking freelancer? (April 2021)](https://news.ycombinator.com/item?id=26661442)
+- [Ask HN: Who wants to be hired? (April 2021)](https://news.ycombinator.com/item?id=26661279)
 <!-- BLOG-POST-LIST:END -->
 
 ---
