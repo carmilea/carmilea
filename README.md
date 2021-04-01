@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On the Decline of Perl [external factors]](https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259484.html)
-- [Category Theory: Orders](https://boris-marinov.github.io/category-theory-illustrated/04_order/)
-- [Arabian Nights](https://blog.pgdp.net/2021/04/01/arabian-nights/)
-- [LineageOS 18.1 Released](https://lineageos.org/Changelog-25/)
-- [Ask HN: Best low-/no-code solution for simple web-based database frontends](https://news.ycombinator.com/item?id=26657803)
+- [Show HN: Mail Studio – IDE for designing responsive emails](https://mailstudio.app/)
+- [By 10 (YC S17) Is Hiring Recruiting Account Manager](https://docs.google.com/document/d/1kksPsH76klEYp6A-0c-ilcV-pBN2ldbAYWaeuPOM9OM/edit?usp=sharing)
+- [Pro¹X: A Linux smartphone with slideout keyboard](https://www.fxtec.com/pro1x)
+- [Elementary OS rounds out its first decade](https://blog.elementary.io/ten-years/)
+- [How we got the [Java] generics we have](https://cr.openjdk.java.net/~briangoetz/erasure.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
