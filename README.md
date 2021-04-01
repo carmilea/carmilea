@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A billion for every chip-maker who 'makes in India,' sources say](https://www.reuters.com/article/us-india-semiconductor-exclusive/exclusive-a-billion-dollars-for-every-chip-maker-who-makes-in-india-idUSKBN2BN12J)
 - [Update on campaign targeting security researchers](https://blog.google/threat-analysis-group/update-campaign-targeting-security-researchers/)
 - [The Collapse of Puerto Rico’s Iconic Telescope](https://www.newyorker.com/magazine/2021/04/05/the-collapse-of-puerto-ricos-iconic-telescope)
-- [Jump in cancer diagnoses at 65 implies patients wait for Medicare](http://med.stanford.edu/news/all-news/2021/03/Cancer-diagnoses-implies-patients-wait-for-Medicare.html)
-- [Google Maps will soon default to the route with the lowest carbon footprint](https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai)
-- [Beach High School](http://www2.cruzio.com/~beachhi/graduation.html)
+- [Baltimore plant ruins 15M Johnson and Johnson coronavirus vaccines](https://www.axios.com/emergent-biosolutions-johnson-and-johnson-vaccine-dfd781a8-d007-4354-910a-e30d5007839b.html)
+- [Jump in cancer diagnoses at 65 implies patients wait for Medicare: study](http://med.stanford.edu/news/all-news/2021/03/Cancer-diagnoses-implies-patients-wait-for-Medicare.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
