@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How many lines of code is Candy Japan? (2016)](https://www.candyjapan.com/behind-the-scenes/how-many-lines-of-code-is-candy-japan)
-- [Rapid global heating is hurting farm productivity, study finds](https://www.theguardian.com/environment/2021/apr/01/climate-crisis-global-heating-food-farming-agriculture)
-- [Penny Stocks Are Booming, Which Is Good News for Swindlers](https://www.nytimes.com/2021/03/18/business/penny-stocks-trading.html)
-- [Microsoft Coffee](https://www.microsoftcoffee.org/)
-- [Analyst pleads guilty to leaking secrets about drone program](https://apnews.com/article/trials-nashville-virginia-espionage-tennessee-727a67a4b0d93651c93394d1f49f6dfb)
+- [Apple will finally fix issue that blocked searches for 'Asian' as adult content](https://sea.mashable.com/tech/15130/apple-will-finally-fix-the-ios-issue-that-blocked-searches-for-asian-as-adult-content)
+- [Frog skin cells turned themselves into living machines](https://www.sciencenews.org/article/frog-skin-cells-self-made-living-machines-xenobots?)
+- [LexisNexis to Provide Giant Database of Personal Information to ICE](https://theintercept.com/2021/04/02/ice-database-surveillance-lexisnexis/)
+- [I bought ISO 8601-1:2019 and 8601-2:2019. AMA](https://www.reddit.com/r/ISO8601/comments/mikuj1/i_bought_iso_860112019_and_860122019_ask_me/)
+- [NFT Canon - Andreessen Horowitz](https://a16z.com/2021/04/02/nfts-readings-resources/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
