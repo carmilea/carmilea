@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK reports 25 fresh cases of thrombosis associated with the AstraZeneca vaccine](https://eminetra.co.uk/the-uk-reports-25-fresh-cases-of-thrombosis-associated-with-the-astrazeneca-vaccine/388645/)
+- [Tmux lets you select and copy text with your keyboard](https://ianthehenry.com/posts/tmux-psa/)
 - [Uppestcase and Lowestcase Letters](http://tom7.org/lowercase/)
 - [Show HN: I built Creodocs, a document creation platform based on LaTeX](https://www.creodocs.com)
-- [Gut microbial taxa elevated by dietary sugar disrupt memory function](https://www.nature.com/articles/s41398-021-01309-7)
 - [MS Azure down: An emerging issue is being investigated](https://status2.azure.com/)
-- [RFC8962: Establishing the Protocol Police](https://www.rfc-editor.org/rfc/rfc8962.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
