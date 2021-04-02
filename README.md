@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Teams and Xbox Live were down for over two hours but have recovered](https://www.theverge.com/2021/4/1/22362975/microsoft-teams-xbox-live-down-outage-issue)
-- [Tesla Q1 2021 Vehicle Production and Deliveries](https://ir.tesla.com/press-release/tesla-q1-2021-vehicle-production-deliveries)
-- [We Killed Expertise (And why we need it back.) (2017)](http://www.politico.com/magazine/story/2017/09/05/how-we-killed-expertise-215531)
-- [Honestly, a lot of free software is free as in *piano](https://twitter.com/leahvelleman/status/1377829865504833536)
-- [State in Haskell (1995)[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/state-lasc.pdf?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fstate-lasc.pdf)
+- [How many lines of code is Candy Japan? (2016)](https://www.candyjapan.com/behind-the-scenes/how-many-lines-of-code-is-candy-japan)
+- [Rapid global heating is hurting farm productivity, study finds](https://www.theguardian.com/environment/2021/apr/01/climate-crisis-global-heating-food-farming-agriculture)
+- [Penny Stocks Are Booming, Which Is Good News for Swindlers](https://www.nytimes.com/2021/03/18/business/penny-stocks-trading.html)
+- [Microsoft Coffee](https://www.microsoftcoffee.org/)
+- [Analyst pleads guilty to leaking secrets about drone program](https://apnews.com/article/trials-nashville-virginia-espionage-tennessee-727a67a4b0d93651c93394d1f49f6dfb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
