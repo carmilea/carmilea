@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The zombie economy and digital arm-breakers](https://pluralistic.net/2021/04/02/innovation-unlocks-markets/#digital-arm-breakers)
+- [Nobel laureate Isamu Akasaki, inventor of first efficient blue LED, dies](https://www.japantimes.co.jp/news/2021/04/02/national/isamu-akasaki-dies/)
+- [Nuclear should be considered part of clean energy standard, White House says](https://arstechnica.com/tech-policy/2021/04/nuclear-should-be-considered-part-of-clean-energy-standard-white-house-says/)
+- [Crystal Language That Aims at C Performance with Ruby Syntax Releases 1.0](https://www.infoq.com/news/2021/04/crystal-ruby-c-release-1/)
+- [CEO of Waymo John Krafcik is leaving](https://blog.waymo.com/2021/04/capstone-of-my-career-email-from-john.html)
 - [Seer (YC W21) Is Hiring a Founding Team Engineer](https://www.ycombinator.com/companies/seer/jobs/Z6UqoWy-founding-team-engineer)
-- [Big Book of Amiga Hardware](https://bigbookofamigahardware.com/)
-- [Are Hackers the New Luddites?](https://novaramedia.com/2021/03/26/luddites-hackers-saboteurs/)
-- [Raspberry Pi 2.5 Gbps OMV NAS Performance](https://www.jeffgeerling.com/blog/2021/raspberry-pi-25-gbps-16-tb-omv-nas-setup-and-performance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
