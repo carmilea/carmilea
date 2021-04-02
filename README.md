@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SketchDeck (YC W14) is hiring engineers to launch a new product](https://apply.workable.com/sketchdeck/j/CE6707EC56/)
+- [The Matrix Calculus You Need for Deep Learning (2018)](https://arxiv.org/abs/1802.01528)
+- [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
+- [Cells Form into ‘Xenobots’ on Their Own](https://www.quantamagazine.org/cells-form-into-xenobots-on-their-own-20210331/)
 - [Exploring Tweets with SQLite and WASM](https://divu.in/experiments/wasm/twitter-sqlite)
-- [Zenysis (YC W16) is hiring engineers to improve healthcare across Africa and Asia](https://www.zenysis.com/#careers)
-- [An insider-trading indictment shows ties to Bloomberg News scoops](https://www.cjr.org/business_of_news/an-insider-trading-indictment-shows-ties-to-bloomberg-news-scoops.php)
-- [RepoKitteh: Github workflow automation using Starlark](https://repokitteh.io)
-- [Securing a Postgres Database](https://goteleport.com/blog/securing-postgres-postgresql/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
