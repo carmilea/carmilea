@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Exploring Tweets with SQLite and WASM](https://divu.in/experiments/wasm/twitter-sqlite)
 - [Zenysis (YC W16) is hiring engineers to improve healthcare across Africa and Asia](https://www.zenysis.com/#careers)
-- [Has humanity reached ‘peak intelligence’?](https://www.bbc.com/future/article/20190709-has-humanity-reached-peak-intelligence)
 - [An insider-trading indictment shows ties to Bloomberg News scoops](https://www.cjr.org/business_of_news/an-insider-trading-indictment-shows-ties-to-bloomberg-news-scoops.php)
 - [RepoKitteh: Github workflow automation using Starlark](https://repokitteh.io)
+- [Securing a Postgres Database](https://goteleport.com/blog/securing-postgres-postgresql/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
