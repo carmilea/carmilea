@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [This Blog is now hosted on a GPS/LTE modem](https://nns.ee/blog/2021/04/01/modem-blog.html)
 - [Algolia (YC W14) is hiring to enhance its search engine](https://www.algolia.com/careers/senior-software-engineer-distributed-systems-paris/)
-- [Facebook bans 'voice of Trump' from platform](https://www.bbc.com/news/world-us-canada-56598862)
+- [Fatal Error Inspired a Plan to Reduce Friendly Fire – Military Isn't Interested](https://www.texasmonthly.com/news-politics/fatal-error-inspired-plan-to-reduce-friendly-fire/)
 - [Show HN: Engauge – Self-hosted, Single-binary Analytics](https://github.com/EngaugeAI/engauge)
 - [Move Slow and Make Things](https://multithreaded.stitchfix.com/blog/2021/04/01/move-slow-make-things/)
-- [Every Noise at Once](https://everynoise.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
