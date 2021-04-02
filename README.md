@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Move Slow and Make Things](https://multithreaded.stitchfix.com/blog/2021/04/01/move-slow-make-things/)
 - [Every Noise at Once](https://everynoise.com/)
 - [Tmux lets you select and copy text with your keyboard](https://ianthehenry.com/posts/tmux-psa/)
 - [Uppestcase and Lowestcase Letters](http://tom7.org/lowercase/)
 - [Show HN: I built Creodocs, a document creation platform based on LaTeX](https://www.creodocs.com)
-- [MS Azure down: An emerging issue is being investigated](https://status2.azure.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
