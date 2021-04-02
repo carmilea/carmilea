@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deliveroo April Fools' joke backfires in France](https://www.bbc.co.uk/news/world-europe-56617049)
-- [UK government considers space-based solar power for 24/7 Solar Generation](https://energygain.co.uk/uk-government-considers-space-based-solar-power-for-24-7-solar-generation/)
+- [Exploring Tweets with SQLite and WASM](https://divu.in/experiments/wasm/twitter-sqlite)
+- [Zenysis (YC W16) is hiring engineers to improve healthcare across Africa and Asia](https://www.zenysis.com/#careers)
+- [Has humanity reached ‘peak intelligence’?](https://www.bbc.com/future/article/20190709-has-humanity-reached-peak-intelligence)
 - [An insider-trading indictment shows ties to Bloomberg News scoops](https://www.cjr.org/business_of_news/an-insider-trading-indictment-shows-ties-to-bloomberg-news-scoops.php)
-- [repokitteh.io - github workflow automation using starlark](https://repokitteh.io)
-- [Securing Your PostgreSQL Database](https://goteleport.com/blog/securing-postgres-postgresql/)
+- [RepoKitteh: Github workflow automation using Starlark](https://repokitteh.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
