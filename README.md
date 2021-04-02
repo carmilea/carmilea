@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [HPy: A better C API for Python?](https://lwn.net/SubscriberLink/851202/8981fa354a584aeb/)
 - [This Blog is now hosted on a GPS/LTE modem](https://nns.ee/blog/2021/04/01/modem-blog.html)
+- [Summary of C/C++ integer rules](https://www.nayuki.io/page/summary-of-c-cpp-integer-rules)
 - [Algolia (YC W14) is hiring to enhance its search engine](https://www.algolia.com/careers/senior-software-engineer-distributed-systems-paris/)
 - [Fatal Error Inspired a Plan to Reduce Friendly Fire – Military Isn't Interested](https://www.texasmonthly.com/news-politics/fatal-error-inspired-plan-to-reduce-friendly-fire/)
-- [Show HN: Engauge – Self-hosted, Single-binary Analytics](https://github.com/EngaugeAI/engauge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
