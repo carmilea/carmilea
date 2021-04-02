@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Does LEED Certification Save Energy? Evidence from Federal Buildings](https://www.nber.org/papers/w28612)
 - [MindsDB (YC W20) Is Hiring a Business Development Manager](https://career.mindsdb.com/o/business-development-manager)
 - [Atomic structure of a glass imaged at last](https://www.nature.com/articles/d41586-021-00794-6)
 - [Svalbard's Alcohol Quotas](https://www.sysselmannen.no/en/alcohol/)
 - [Gemini Space](https://en.wikipedia.org/wiki/Gemini_space)
-- [HPy: A better C API for Python?](https://lwn.net/SubscriberLink/851202/8981fa354a584aeb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
