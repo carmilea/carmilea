@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple will finally fix issue that blocked searches for 'Asian' as adult content](https://sea.mashable.com/tech/15130/apple-will-finally-fix-the-ios-issue-that-blocked-searches-for-asian-as-adult-content)
-- [Frog skin cells turned themselves into living machines](https://www.sciencenews.org/article/frog-skin-cells-self-made-living-machines-xenobots?)
-- [LexisNexis to Provide Giant Database of Personal Information to ICE](https://theintercept.com/2021/04/02/ice-database-surveillance-lexisnexis/)
-- [I bought ISO 8601-1:2019 and 8601-2:2019. AMA](https://www.reddit.com/r/ISO8601/comments/mikuj1/i_bought_iso_860112019_and_860122019_ask_me/)
-- [NFT Canon - Andreessen Horowitz](https://a16z.com/2021/04/02/nfts-readings-resources/)
+- [The zombie economy and digital arm-breakers](https://pluralistic.net/2021/04/02/innovation-unlocks-markets/#digital-arm-breakers)
+- [Seer (YC W21) Is Hiring a Founding Team Engineer](https://www.ycombinator.com/companies/seer/jobs/Z6UqoWy-founding-team-engineer)
+- [Big Book of Amiga Hardware](https://bigbookofamigahardware.com/)
+- [Are Hackers the New Luddites?](https://novaramedia.com/2021/03/26/luddites-hackers-saboteurs/)
+- [Raspberry Pi 2.5 Gbps OMV NAS Performance](https://www.jeffgeerling.com/blog/2021/raspberry-pi-25-gbps-16-tb-omv-nas-setup-and-performance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
