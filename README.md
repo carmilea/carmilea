@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK finds 30 blood clot cases after AstraZeneca jab](https://www.dw.com/en/coronavirus-digest-uk-finds-30-blood-clot-cases-after-astrazeneca-jab/a-57083963)
+- [Algolia (YC W14) is hiring to enhance its search engine](https://www.algolia.com/careers/senior-software-engineer-distributed-systems-paris/)
+- [Facebook bans 'voice of Trump' from platform](https://www.bbc.com/news/world-us-canada-56598862)
+- [Show HN: Engauge – Self-hosted, Single-binary Analytics](https://github.com/EngaugeAI/engauge)
 - [Move Slow and Make Things](https://multithreaded.stitchfix.com/blog/2021/04/01/move-slow-make-things/)
 - [Every Noise at Once](https://everynoise.com/)
-- [Tmux lets you select and copy text with your keyboard](https://ianthehenry.com/posts/tmux-psa/)
-- [Uppestcase and Lowestcase Letters](http://tom7.org/lowercase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
