@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobel laureate Isamu Akasaki, inventor of first efficient blue LED, dies](https://www.japantimes.co.jp/news/2021/04/02/national/isamu-akasaki-dies/)
-- [Nuclear should be considered part of clean energy standard, White House says](https://arstechnica.com/tech-policy/2021/04/nuclear-should-be-considered-part-of-clean-energy-standard-white-house-says/)
-- [Crystal Language That Aims at C Performance with Ruby Syntax Releases 1.0](https://www.infoq.com/news/2021/04/crystal-ruby-c-release-1/)
-- [CEO of Waymo John Krafcik is leaving](https://blog.waymo.com/2021/04/capstone-of-my-career-email-from-john.html)
-- [Seer (YC W21) Is Hiring a Founding Team Engineer](https://www.ycombinator.com/companies/seer/jobs/Z6UqoWy-founding-team-engineer)
+- [repokitteh.io - github workflow automation using starlark](https://repokitteh.io)
+- [Securing Your PostgreSQL Database](https://goteleport.com/blog/securing-postgres-postgresql/)
+- [US Weather Service Internet Systems Are Crumbling](https://www.washingtonpost.com/weather/2021/03/30/nws-internet-infrastructure-outages/)
+- [Show HN: Box2D fluid simulation in WebGL and WASM](https://birchlabs.co.uk/box2d-wasm-liquidfun/)
+- [Tell HN: Opening this page will flag you as abusing GitHub](https://news.ycombinator.com/item?id=26674282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
