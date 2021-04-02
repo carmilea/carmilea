@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deliveroo April Fools' joke backfires in France](https://www.bbc.co.uk/news/world-europe-56617049)
+- [UK government considers space-based solar power for 24/7 Solar Generation](https://energygain.co.uk/uk-government-considers-space-based-solar-power-for-24-7-solar-generation/)
+- [An insider-trading indictment shows ties to Bloomberg News scoops](https://www.cjr.org/business_of_news/an-insider-trading-indictment-shows-ties-to-bloomberg-news-scoops.php)
 - [repokitteh.io - github workflow automation using starlark](https://repokitteh.io)
 - [Securing Your PostgreSQL Database](https://goteleport.com/blog/securing-postgres-postgresql/)
-- [US Weather Service Internet Systems Are Crumbling](https://www.washingtonpost.com/weather/2021/03/30/nws-internet-infrastructure-outages/)
-- [Show HN: Box2D fluid simulation in WebGL and WASM](https://birchlabs.co.uk/box2d-wasm-liquidfun/)
-- [Tell HN: Opening this page will flag you as abusing GitHub](https://news.ycombinator.com/item?id=26674282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
