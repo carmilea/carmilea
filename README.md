@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Does LEED Certification Save Energy? Evidence from Federal Buildings](https://www.nber.org/papers/w28612)
-- [MindsDB (YC W20) Is Hiring a Business Development Manager](https://career.mindsdb.com/o/business-development-manager)
-- [Atomic structure of a glass imaged at last](https://www.nature.com/articles/d41586-021-00794-6)
-- [Svalbard's Alcohol Quotas](https://www.sysselmannen.no/en/alcohol/)
-- [Gemini Space](https://en.wikipedia.org/wiki/Gemini_space)
+- [Microsoft Teams and Xbox Live were down for over two hours but have recovered](https://www.theverge.com/2021/4/1/22362975/microsoft-teams-xbox-live-down-outage-issue)
+- [Tesla Q1 2021 Vehicle Production and Deliveries](https://ir.tesla.com/press-release/tesla-q1-2021-vehicle-production-deliveries)
+- [We Killed Expertise (And why we need it back.) (2017)](http://www.politico.com/magazine/story/2017/09/05/how-we-killed-expertise-215531)
+- [Honestly, a lot of free software is free as in *piano](https://twitter.com/leahvelleman/status/1377829865504833536)
+- [State in Haskell (1995)[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/state-lasc.pdf?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fstate-lasc.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
