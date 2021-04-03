@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon admits its drivers sometimes have to pee in bottles](https://arstechnica.com/tech-policy/2021/04/amazon-admits-its-drivers-sometimes-have-to-pee-in-bottles/)
-- [Zendar (YC S17) Is Hiring Senior Electrical Engineer](https://jobs.ashbyhq.com/zendar/e72f4909-557e-4402-abd5-e16791883040)
-- [Version 4.9 of the open-source based AmiSSL library for Amiga](http://aminet.net/package/util/libs/AmiSSL-4.9)
-- [“Why We Sleep” Is Riddled with Scientific and Factual Errors](https://guzey.com/books/why-we-sleep/)
-- [Revision demoparty banned on Twitch mid-stream](https://twitter.com/revision_party/status/1378427185518764034)
+- [SpatiaLite: A Spatial Extension to SQLite](https://www.gaia-gis.it/fossil/libspatialite/index)
+- [Barrier Reef doomed as up to 99% of coral at risk, report finds](https://www.smh.com.au/environment/climate-change/barrier-reef-doomed-as-up-to-99-percent-of-coral-at-risk-report-finds-20210331-p57fng.html)
+- [Setting up Streaming replication in PostgreSQL](https://www.migops.com/blog/2021/03/31/setting-up-streaming-replication-in-postgresql-13-and-streaming-replication-internals)
+- [Lunatic Python: Lua Inside Python, and Python Inside Lua](https://labix.org/lunatic-python)
+- [Show HN: Blogosphere – Discover independent technical blogs](https://bilbof.com/blogosphere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
