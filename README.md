@@ -55,7 +55,7 @@
 - [To prevent burnout, LinkedIn is giving its entire company the week off](https://edition.cnn.com/2021/04/02/success/linkedin-paid-week-off/index.html)
 - [ShipMap](https://www.shipmap.org/)
 - [Musicolet – Offline Music Player for Android](https://krosbits.in/musicolet/)
-- [China pressured Concordia University to cancel event with Uighur activist](https://www.cbc.ca/news/canada/montreal/chinese-officials-concordia-university-cancel-event-with-uighur-activist-1.5074423)
+- [China pressured Concordia University to cancel event with Uighur activist (2019)](https://www.cbc.ca/news/canada/montreal/chinese-officials-concordia-university-cancel-event-with-uighur-activist-1.5074423)
 <!-- BLOG-POST-LIST:END -->
 
 ---
