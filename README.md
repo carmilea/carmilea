@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AmberBox Gunshot Detection (YC W16) Is Hiring a Full-Stack Engineer in Nashville](https://www.workatastartup.com/jobs/43065)
 - [Why Animals Don’t Get Lost](https://www.newyorker.com/magazine/2021/04/05/why-animals-dont-get-lost)
-- [To prevent burnout, LinkedIn is giving its entire company the week off](https://edition.cnn.com/2021/04/02/success/linkedin-paid-week-off/index.html)
 - [ShipMap](https://www.shipmap.org/)
 - [Musicolet – Offline Music Player for Android](https://krosbits.in/musicolet/)
 - [China pressured Concordia University to cancel event with Uighur activist (2019)](https://www.cbc.ca/news/canada/montreal/chinese-officials-concordia-university-cancel-event-with-uighur-activist-1.5074423)
