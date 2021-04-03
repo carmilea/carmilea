@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Browser – WorldWideWeb Next Application (2019)](https://worldwideweb.cern.ch/worldwideweb/?)
+- [50 Years of Pascal and Delphi Is in Power](https://blog.marcocantu.com/blog/2021-march-50years-pascal.html)
+- [A Spreadsheet Way of Knowledge](https://www.wired.com/2014/10/a-spreadsheet-way-of-knowledge/)
 - [A joyless trudge? No, thanks: why I am utterly sick of ‘going for a walk’](https://www.theguardian.com/lifeandstyle/2021/feb/27/joyless-trudge-no-thanks-why-sick-of-going-for-a-walk)
 - [Signs of an Immature Software Developer](https://pragmaticsoftwareengineering.com/f/5-signs-of-an-immature-software-developer)
-- [AmberBox Gunshot Detection (YC W16) Is Hiring a Full-Stack Engineer in Nashville](https://www.workatastartup.com/jobs/43065)
-- [Loot boxes linked to problem gambling in new research](https://www.bbc.co.uk/news/technology-56614281)
-- [In praise of property-based testing (2019)](https://increment.com/testing/in-praise-of-property-based-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
