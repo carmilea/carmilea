@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My NAS exposes itself over the internet without permission](https://kn100.me/terramaster-nas-exposing-itself-over-upnp/)
-- [533M Facebook users' phone numbers and personal data have been leaked online](https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4)
-- [From Human Beings to Human Civilization, a Complexity Profile](https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile)
-- [If You Care About Privacy, It’s Time to Try a New Web Browser](https://www.nytimes.com/2021/03/31/technology/personaltech/online-privacy-private-browsers.html)
-- [Amazon acknowledges issue of drivers urinating in bottles in apology](https://www.reuters.com/article/idUSKBN2BQ0DC)
+- [Why Software Jewels Are Rare (1996) [pdf]](http://www.cse.msu.edu/~cse870/Input/SS2002/MiniProject/Sources/r2057.pdf)
+- [BillionToOne (YC S17) Is Hiring a Health Care Product Manager](https://www.ycombinator.com/companies/billiontoone/jobs/g5xCugs-senior-product-manager)
+- [Miss a Payment? Good Luck Moving That Car](https://dealbook.nytimes.com/2014/09/24/miss-a-payment-good-luck-moving-that-car/)
+- [Not Growing a Language](https://kevingal.com/blog/java-overloading.html)
+- [Ergodicity, What's It Mean](https://avoidboringpeople.substack.com/p/ergodicity-whats-it-mean)
 <!-- BLOG-POST-LIST:END -->
 
 ---
