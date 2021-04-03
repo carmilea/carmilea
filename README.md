@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A joyless trudge? No, thanks: why I am utterly sick of ‘going for a walk’](https://www.theguardian.com/lifeandstyle/2021/feb/27/joyless-trudge-no-thanks-why-sick-of-going-for-a-walk)
+- [Signs of an Immature Software Developer](https://pragmaticsoftwareengineering.com/f/5-signs-of-an-immature-software-developer)
 - [AmberBox Gunshot Detection (YC W16) Is Hiring a Full-Stack Engineer in Nashville](https://www.workatastartup.com/jobs/43065)
-- [Why Animals Don’t Get Lost](https://www.newyorker.com/magazine/2021/04/05/why-animals-dont-get-lost)
-- [ShipMap](https://www.shipmap.org/)
-- [Musicolet – Offline Music Player for Android](https://krosbits.in/musicolet/)
-- [China pressured Concordia University to cancel event with Uighur activist (2019)](https://www.cbc.ca/news/canada/montreal/chinese-officials-concordia-university-cancel-event-with-uighur-activist-1.5074423)
+- [Loot boxes linked to problem gambling in new research](https://www.bbc.co.uk/news/technology-56614281)
+- [In praise of property-based testing (2019)](https://increment.com/testing/in-praise-of-property-based-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
