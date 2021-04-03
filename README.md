@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Doctors Die (2013)](https://www.saturdayeveningpost.com/2013/03/how-doctors-die/)
 - [SpatiaLite: A Spatial Extension to SQLite](https://www.gaia-gis.it/fossil/libspatialite/index)
 - [Barrier Reef doomed as up to 99% of coral at risk, report finds](https://www.smh.com.au/environment/climate-change/barrier-reef-doomed-as-up-to-99-percent-of-coral-at-risk-report-finds-20210331-p57fng.html)
-- [Setting up Streaming replication in PostgreSQL](https://www.migops.com/blog/2021/03/31/setting-up-streaming-replication-in-postgresql-13-and-streaming-replication-internals)
+- [A Simplified E-graph Implementation](https://www.philipzucker.com/a-simplified-egraph/)
 - [Lunatic Python: Lua Inside Python, and Python Inside Lua](https://labix.org/lunatic-python)
-- [Show HN: Blogosphere – Discover independent technical blogs](https://bilbof.com/blogosphere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
