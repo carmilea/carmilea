@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Text Blaze (YC W21) Is Hiring a Growth Marketing Lead](https://www.ycombinator.com/companies/text-blaze/jobs/gNeM6CZ-growth-marketing-lead)
+- [Starting Forth: An Introduction to the Forth Programming Language](https://www.forth.com/starting-forth/)
 - [Man who thought opening a TXT file is fine thought wrong](https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html)
 - [The matrix calculus you need for deep learning (2018)](https://arxiv.org/abs/1802.01528)
 - [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
-- [Cells Form into ‘Xenobots’ on Their Own](https://www.quantamagazine.org/cells-form-into-xenobots-on-their-own-20210331/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
