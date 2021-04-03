@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Most loved programming language Rust sparks privacy concerns](https://www.bleepingcomputer.com/news/security/most-loved-programming-language-rust-sparks-privacy-concerns/)
+- [If You Care About Privacy, It’s Time to Try a New Web Browser](https://www.nytimes.com/2021/03/31/technology/personaltech/online-privacy-private-browsers.html)
+- [Amazon acknowledges issue of drivers urinating in bottles in apology](https://www.reuters.com/article/idUSKBN2BQ0DC)
 - [The Browser – WorldWideWeb Next Application (2019)](https://worldwideweb.cern.ch/worldwideweb/?)
 - [50 Years of Pascal and Delphi Is in Power](https://blog.marcocantu.com/blog/2021-march-50years-pascal.html)
-- [A Spreadsheet Way of Knowledge](https://www.wired.com/2014/10/a-spreadsheet-way-of-knowledge/)
-- [A joyless trudge? No, thanks: why I am utterly sick of ‘going for a walk’](https://www.theguardian.com/lifeandstyle/2021/feb/27/joyless-trudge-no-thanks-why-sick-of-going-for-a-walk)
-- [Signs of an Immature Software Developer](https://pragmaticsoftwareengineering.com/f/5-signs-of-an-immature-software-developer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
