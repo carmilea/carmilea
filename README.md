@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [Man who thought opening a TXT file is fine thought wrong](https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html)
-- [Fed up with the Mac, I spent six months with a Linux laptop](https://cfenollosa.com/blog/fed-up-with-the-mac-i-spent-six-months-with-a-linux-laptop-the-grass-is-not-greener-on-the-other-side.html)
-- [The matrix calculus you need for deep learning (2018)](https://arxiv.org/abs/1802.01528)
-- [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
+- [The US dollar’s hegemony is looking fragile](https://www.theguardian.com/business/2021/apr/02/the-us-dollars-hegemony-is-looking-fragile)
+- [Exercise May Help Slow Cognitive Decline in Some People with Parkinson’s Disease](https://www.aan.com/PressRoom/Home/PressRelease/4877)
+- [VPNCloud: Open-source peer-to-peer VPN written in rust](https://vpncloud.ddswd.de/)
+- [GitHub investigating crypto-mining campaign abusing its server infrastructure](https://therecord.media/github-investigating-crypto-mining-campaign-abusing-its-server-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
