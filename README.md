@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Most loved programming language Rust sparks privacy concerns](https://www.bleepingcomputer.com/news/security/most-loved-programming-language-rust-sparks-privacy-concerns/)
+- [My NAS exposes itself over the internet without permission](https://kn100.me/terramaster-nas-exposing-itself-over-upnp/)
+- [533M Facebook users' phone numbers and personal data have been leaked online](https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4)
+- [From Human Beings to Human Civilization, a Complexity Profile](https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile)
 - [If You Care About Privacy, It’s Time to Try a New Web Browser](https://www.nytimes.com/2021/03/31/technology/personaltech/online-privacy-private-browsers.html)
 - [Amazon acknowledges issue of drivers urinating in bottles in apology](https://www.reuters.com/article/idUSKBN2BQ0DC)
-- [The Browser – WorldWideWeb Next Application (2019)](https://worldwideweb.cern.ch/worldwideweb/?)
-- [50 Years of Pascal and Delphi Is in Power](https://blog.marcocantu.com/blog/2021-march-50years-pascal.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
