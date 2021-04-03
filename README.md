@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sick of these startup executives, painting a rosy picture for employees](https://news.ycombinator.com/item?id=26679364)
+- [Why Animals Don’t Get Lost](https://www.newyorker.com/magazine/2021/04/05/why-animals-dont-get-lost)
+- [To prevent burnout, LinkedIn is giving its entire company the week off](https://edition.cnn.com/2021/04/02/success/linkedin-paid-week-off/index.html)
+- [ShipMap](https://www.shipmap.org/)
 - [Musicolet – Offline Music Player for Android](https://krosbits.in/musicolet/)
 - [China pressured Concordia University to cancel event with Uighur activist](https://www.cbc.ca/news/canada/montreal/chinese-officials-concordia-university-cancel-event-with-uighur-activist-1.5074423)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [The US dollar’s hegemony is looking fragile](https://www.theguardian.com/business/2021/apr/02/the-us-dollars-hegemony-is-looking-fragile)
 <!-- BLOG-POST-LIST:END -->
 
 ---
