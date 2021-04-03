@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite Plus: all the missing SQLite functions](https://github.com/nalgeon/sqlite-plus/)
-- [Lawsuit against TSA and DEA over airport seizures achieves first victory](https://ij.org/press-release/major-class-action-lawsuit-against-tsa-and-dea-over-airport-seizures-achieves-first-round-victory/)
-- [Ask HN: OCR Libraries for Receipt Scanning/Parsing?](https://news.ycombinator.com/item?id=26683637)
-- [Corporations Like Nike Paid $0 Federal Tax in 2020 While CEO Pay Soared](https://observer.com/2021/04/nike-fedex-salesforce-2020-income-tax-negative-coronavirus-relief/)
-- [Compensation as a Reflection of Values](http://dtrace.org/blogs/bmc/2021/03/04/compensation-as-a-reflection-of-values/)
+- [Amazon admits its drivers sometimes have to pee in bottles](https://arstechnica.com/tech-policy/2021/04/amazon-admits-its-drivers-sometimes-have-to-pee-in-bottles/)
+- [Zendar (YC S17) Is Hiring Senior Electrical Engineer](https://jobs.ashbyhq.com/zendar/e72f4909-557e-4402-abd5-e16791883040)
+- [Version 4.9 of the open-source based AmiSSL library for Amiga](http://aminet.net/package/util/libs/AmiSSL-4.9)
+- [“Why We Sleep” Is Riddled with Scientific and Factual Errors](https://guzey.com/books/why-we-sleep/)
+- [Revision demoparty banned on Twitch mid-stream](https://twitter.com/revision_party/status/1378427185518764034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
