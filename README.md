@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Jam's 1996 website has finally been updated](https://news.ycombinator.com/item?id=26682980)
 - [Why Software Jewels Are Rare (1996) [pdf]](http://www.cse.msu.edu/~cse870/Input/SS2002/MiniProject/Sources/r2057.pdf)
 - [BillionToOne (YC S17) Is Hiring a Health Care Product Manager](https://www.ycombinator.com/companies/billiontoone/jobs/g5xCugs-senior-product-manager)
-- [Miss a Payment? Good Luck Moving That Car](https://dealbook.nytimes.com/2014/09/24/miss-a-payment-good-luck-moving-that-car/)
 - [Not Growing a Language](https://kevingal.com/blog/java-overloading.html)
 - [Ergodicity, What's It Mean](https://avoidboringpeople.substack.com/p/ergodicity-whats-it-mean)
 <!-- BLOG-POST-LIST:END -->
