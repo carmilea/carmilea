@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A man thought opening a TXT file is fine, he thought wrong. macOS CVE-2019-8761](https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html)
-- [Fed up with the Mac, I spent six months with a Linux laptop](https://cfenollosa.com/blog/fed-up-with-the-mac-i-spent-six-months-with-a-linux-laptop-the-grass-is-not-greener-on-the-other-side.html)
-- [SketchDeck (YC W14) is hiring engineers to launch a new product](https://apply.workable.com/sketchdeck/j/CE6707EC56/)
-- [The Matrix Calculus You Need for Deep Learning (2018)](https://arxiv.org/abs/1802.01528)
+- [Text Blaze (YC W21) Is Hiring a Growth Marketing Lead](https://www.ycombinator.com/companies/text-blaze/jobs/gNeM6CZ-growth-marketing-lead)
+- [Man who thought opening a TXT file is fine thought wrong](https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html)
+- [The matrix calculus you need for deep learning (2018)](https://arxiv.org/abs/1802.01528)
 - [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
+- [Cells Form into ‘Xenobots’ on Their Own](https://www.quantamagazine.org/cells-form-into-xenobots-on-their-own-20210331/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
