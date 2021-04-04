@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Julia Is Turning Heads in 2021](https://www.nextplatform.com/2021/03/22/why-julia-is-turning-heads-in-2021/)
+- [Side effect worry grows for AstraZeneca vaccine](https://science.sciencemag.org/content/372/6537/14.full)
+- [Show HN: Beautiful PDFs from HTML](HTTPS://pdf.math.dev)
+- [History of IRC (Internet Relay Chat)](https://daniel.haxx.se/irchistory.html)
+- [What a Tiny Masterpiece Reveals About Power and Beauty](https://www.nytimes.com/interactive/2021/04/02/arts/design/shah-jahan-chitarman.html)
 - [Bitmovin (YC S15) Is Hiring a Sales Development Manager in Denver and Vienna](https://bitmovin.com/careers/5135940002/?gh_jid=5135940002)
-- [Clothing, How Did They Make It? Part IVa: Dyed in the Wool](https://acoup.blog/2021/04/02/collections-clothing-how-did-they-make-it-part-iva-dyed-in-the-wool/)
-- [Human use of high-bandwidth wireless brain-computer interface](https://www.brown.edu/news/2021-03-31/braingate-wireless)
-- [Mark Zuckerberg's phone number appeared among the leaked data of Facebook users](https://www.businessinsider.com/mark-zuckerberg-phone-number-facebook-leak-data-reports-2021-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
