@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bertrand Russell Is the Pope](http://ceadserv1.nku.edu/longa//classes/mat385_resources/docs/russellpope.html)
-- [How Doctors Die (2013)](https://www.saturdayeveningpost.com/2013/03/how-doctors-die/)
-- [SpatiaLite: A Spatial Extension to SQLite](https://www.gaia-gis.it/fossil/libspatialite/index)
-- [Barrier Reef doomed as up to 99% of coral at risk, report finds](https://www.smh.com.au/environment/climate-change/barrier-reef-doomed-as-up-to-99-percent-of-coral-at-risk-report-finds-20210331-p57fng.html)
-- [A Simplified E-graph Implementation](https://www.philipzucker.com/a-simplified-egraph/)
+- [Deprecated Grandparents of America](https://newsletter.eternityhacks.com/issues/deprecated-grandparents-of-america-481456)
+- [enkiTS: A C and C++ Task Scheduler for creating parallel programs](https://github.com/dougbinks/enkiTS)
+- [The Simtel CD Collection (1994-2001)](http://cd.textfiles.com/simtel/)
+- [Staying awake: the surprisingly effective way to treat depression (2018)](https://mosaicscience.com/story/staying-awake-surprisingly-effective-way-treat-depression/)
+- [Tales from Prediction Markets](https://misinfounderload.substack.com/p/tales-from-prediction-markets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
