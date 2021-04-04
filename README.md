@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bertrand Russell Is the Pope](http://ceadserv1.nku.edu/longa//classes/mat385_resources/docs/russellpope.html)
 - [How Doctors Die (2013)](https://www.saturdayeveningpost.com/2013/03/how-doctors-die/)
 - [SpatiaLite: A Spatial Extension to SQLite](https://www.gaia-gis.it/fossil/libspatialite/index)
 - [Barrier Reef doomed as up to 99% of coral at risk, report finds](https://www.smh.com.au/environment/climate-change/barrier-reef-doomed-as-up-to-99-percent-of-coral-at-risk-report-finds-20210331-p57fng.html)
 - [A Simplified E-graph Implementation](https://www.philipzucker.com/a-simplified-egraph/)
-- [Lunatic Python: Lua Inside Python, and Python Inside Lua](https://labix.org/lunatic-python)
 <!-- BLOG-POST-LIST:END -->
 
 ---
