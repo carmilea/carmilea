@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [QuestDB (YC S20) Is Hiring a Cloud Engineer (Node.js, Kubernetes)](https://questdb.io/careers/senior-cloud-engineer/)
+- [Scop – a 3D model viewer written in C++20 and Vulkan](https://github.com/cledant/scop_vulkan)
+- [SCO Linux FUD returns from the dead](https://www.zdnet.com/article/sco-linux-fud-returns-from-the-dead/)
+- [NASA's Mars helicopter Ingenuity touches down on the Red Planet](https://www.space.com/mars-helicopter-ingenuity-touches-down-martian-surface)
 - [The Lost Apps of the 80s](http://scripting.com/2021/04/04/174604.html?title=theLostAppsOfThe80s)
-- [Show HN: Beautiful PDFs from HTML](HTTPS://pdf.math.dev)
-- [History of IRC (Internet Relay Chat)](https://daniel.haxx.se/irchistory.html)
-- [What a Tiny Masterpiece Reveals About Power and Beauty](https://www.nytimes.com/interactive/2021/04/02/arts/design/shah-jahan-chitarman.html)
-- [Bitmovin (YC S15) Is Hiring a Sales Development Manager in Denver and Vienna](https://bitmovin.com/careers/5135940002/?gh_jid=5135940002)
 <!-- BLOG-POST-LIST:END -->
 
 ---
