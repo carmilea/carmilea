@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The EU archived the “Euromyths” printed in UK media (2018)](https://www.thelondoneconomic.com/news/the-eu-have-archived-all-of-the-euromyths-printed-in-uk-media-and-it-makes-for-some-disturbing-reading-108942/)
-- [I thought I was dying: My apartment was built on toxic waste](https://sfbayview.com/2021/03/i-thought-i-was-dying-my-apartment-was-built-on-toxic-waste/)
-- [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://github.com/orpatashnik/StyleCLIP)
-- [Show HN: Clayoven – beautiful website generator aimed at math-heavy sites](https://github.com/artagnon/clayoven)
-- [Streak (YC S11) looking for a senior front end engineer (remote only)](https://www.streak.com/careers/product-engineer)
+- [France reports three new cases of thrombosis, more deaths after AstraZeneca jabs](https://www.rfi.fr/en/france/20210403-france-reports-three-new-cases-of-thrombosis-more-deaths-after-astrazeneca-jabs-coronavirus-health-vaccine)
+- [Egypt holds grand procession of ancient mummies in Cairo](https://www.axios.com/egypt-ancient-mummies-parade-cairo-photos-88c44bf7-becb-410c-9e7e-3ed09fdcbdaf.html)
+- [2I/Borisov, the First Interstellar Comet to Have Visited Our Solar System](https://www.newsclick.in/2I-borisov-first-interstellar-comet-visited-solar-system)
+- [Lower-Income Americans Get Cheated on Property Taxes](https://www.nytimes.com/2021/04/03/opinion/sunday/property-taxes-housing-assessment-inequality.html)
+- [I can only think that modern front end development has failed](https://twitter.com/antirez/status/1378272801522597888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
