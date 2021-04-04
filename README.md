@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [France reports three new cases of thrombosis, more deaths after AstraZeneca jabs](https://www.rfi.fr/en/france/20210403-france-reports-three-new-cases-of-thrombosis-more-deaths-after-astrazeneca-jabs-coronavirus-health-vaccine)
-- [Egypt holds grand procession of ancient mummies in Cairo](https://www.axios.com/egypt-ancient-mummies-parade-cairo-photos-88c44bf7-becb-410c-9e7e-3ed09fdcbdaf.html)
-- [2I/Borisov, the First Interstellar Comet to Have Visited Our Solar System](https://www.newsclick.in/2I-borisov-first-interstellar-comet-visited-solar-system)
-- [Lower-Income Americans Get Cheated on Property Taxes](https://www.nytimes.com/2021/04/03/opinion/sunday/property-taxes-housing-assessment-inequality.html)
-- [I can only think that modern front end development has failed](https://twitter.com/antirez/status/1378272801522597888)
+- [Clothing, How Did They Make It? Part IVa: Dyed in the Wool](https://acoup.blog/2021/04/02/collections-clothing-how-did-they-make-it-part-iva-dyed-in-the-wool/)
+- [Human use of high-bandwidth wireless brain-computer interface](https://www.brown.edu/news/2021-03-31/braingate-wireless)
+- [Mark Zuckerberg's phone number appeared among the leaked data of Facebook users](https://www.businessinsider.com/mark-zuckerberg-phone-number-facebook-leak-data-reports-2021-4)
+- [Waymo ordered “up to” 82,000 vehicles in 2018. Today, it has “well over 600.”](https://arstechnica.com/cars/2021/04/waymo-ceo-john-krafcik-steps-down/)
+- [The UK Is Trying to Stop Facebook's End-to-End Encryption](https://www.wired.com/story/uk-trying-to-stop-facebook-end-to-end-encryption/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
