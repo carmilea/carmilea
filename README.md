@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I got the GNU Modula-2 compiler working on OpenBSD](https://briancallahan.net/blog/20210403.html)
 - [Working as a Developer at Apple in 2001](https://corecursive.com/063-apple-2001/)
 - [Deprecated Grandparents of America](https://newsletter.eternityhacks.com/issues/deprecated-grandparents-of-america-481456)
 - [enkiTS: A C and C++ Task Scheduler for creating parallel programs](https://github.com/dougbinks/enkiTS)
 - [The Simtel CD Collection (1994-2001)](http://cd.textfiles.com/simtel/)
-- [Staying awake: the surprisingly effective way to treat depression (2018)](https://mosaicscience.com/story/staying-awake-surprisingly-effective-way-treat-depression/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
