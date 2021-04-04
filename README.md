@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Against Hickelism](https://noahpinion.substack.com/p/against-hickelism)
 - [QuestDB (YC S20) Is Hiring a Cloud Engineer (Node.js, Kubernetes)](https://questdb.io/careers/senior-cloud-engineer/)
 - [Scop – a 3D model viewer written in C++20 and Vulkan](https://github.com/cledant/scop_vulkan)
+- [Show HN: Map of active customers for landing page](https://github.com/ziolko/roombelt-activity-map)
 - [SCO Linux FUD returns from the dead](https://www.zdnet.com/article/sco-linux-fud-returns-from-the-dead/)
-- [NASA's Mars helicopter Ingenuity touches down on the Red Planet](https://www.space.com/mars-helicopter-ingenuity-touches-down-martian-surface)
-- [The Lost Apps of the 80s](http://scripting.com/2021/04/04/174604.html?title=theLostAppsOfThe80s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
