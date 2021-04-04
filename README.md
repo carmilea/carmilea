@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The EU archived the “Euromyths” printed in UK media (2018)](https://www.thelondoneconomic.com/news/the-eu-have-archived-all-of-the-euromyths-printed-in-uk-media-and-it-makes-for-some-disturbing-reading-108942/)
+- [I thought I was dying: My apartment was built on toxic waste](https://sfbayview.com/2021/03/i-thought-i-was-dying-my-apartment-was-built-on-toxic-waste/)
+- [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://github.com/orpatashnik/StyleCLIP)
 - [Show HN: Clayoven – beautiful website generator aimed at math-heavy sites](https://github.com/artagnon/clayoven)
 - [Streak (YC S11) looking for a senior front end engineer (remote only)](https://www.streak.com/careers/product-engineer)
-- [Laser: Learning a Latent Action Space for Efficient Reinforcement Learning](https://arxiv.org/abs/2103.15793)
-- [Marwa Elselehdar: 'I was blamed for blocking the Suez Canal'](https://www.bbc.com/news/world-middle-east-56615521)
-- [AMD's Zen 3 CPUs Are Susceptible to Spectre-Like Vulnerability](https://www.tomshardware.com/news/amd-zen-3-cpu-susceptible-spectre-like-vulnerability)
 <!-- BLOG-POST-LIST:END -->
 
 ---
