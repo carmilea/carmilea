@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Can build CRUD apps, what now?](https://news.ycombinator.com/item?id=26693494)
+- [Overly Attached Girlfriend NFT Sells for $411,000](https://decrypt.co/63891/overly-attached-girlfriend-nft-sells-for-411000)
+- [Tesla files a petition against U.S. labor board order](https://www.reuters.com/article/us-tesla-nrlb-musk/tesla-files-a-petition-against-u-s-labor-board-order-idUSKBN2BQ0JU)
 - [Against Hickelism](https://noahpinion.substack.com/p/against-hickelism)
 - [QuestDB (YC S20) Is Hiring a Cloud Engineer (Node.js, Kubernetes)](https://questdb.io/careers/senior-cloud-engineer/)
-- [Scop – a 3D model viewer written in C++20 and Vulkan](https://github.com/cledant/scop_vulkan)
-- [Show HN: Map of active customers for landing page](https://github.com/ziolko/roombelt-activity-map)
-- [SCO Linux FUD returns from the dead](https://www.zdnet.com/article/sco-linux-fud-returns-from-the-dead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
