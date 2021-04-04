@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It's Cold on Mars](https://mars.nasa.gov/technology/helicopter/status/288/its-cold-on-mars/)
-- [Egypt demands over $1B in damages after Suez Canal blockage](https://www.trtworld.com/business/egypt-demands-over-1b-in-damages-after-suez-canal-blockage-45537)
-- [Show HN: I made a site to explore the best UI/UX design tools out there](https://sleekui.com/)
-- [Florida state of emergency with millions of gallons of “radioactive wastewater”](https://www.cbsnews.com/news/florida-state-of-emergency-wastewater-phosphate-processing-plant-could-collapse/)
-- [Dflat: SQLite FlatBuffers](https://github.com/liuliu/dflat)
+- [Streak (YC S11) looking for a senior front end engineer (remote only)](https://www.streak.com/careers/product-engineer)
+- [Laser: Learning a Latent Action Space for Efficient Reinforcement Learning](https://arxiv.org/abs/2103.15793)
+- [Marwa Elselehdar: 'I was blamed for blocking the Suez Canal'](https://www.bbc.com/news/world-middle-east-56615521)
+- [AMD's Zen 3 CPUs Are Susceptible to Spectre-Like Vulnerability](https://www.tomshardware.com/news/amd-zen-3-cpu-susceptible-spectre-like-vulnerability)
+- [A Bayesian Approach to the Simulation Argument](https://www.mdpi.com/2218-1997/6/8/109)
 <!-- BLOG-POST-LIST:END -->
 
 ---
