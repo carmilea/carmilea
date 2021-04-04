@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It's Cold on Mars](https://mars.nasa.gov/technology/helicopter/status/288/its-cold-on-mars/)
+- [Egypt demands over $1B in damages after Suez Canal blockage](https://www.trtworld.com/business/egypt-demands-over-1b-in-damages-after-suez-canal-blockage-45537)
+- [Show HN: I made a site to explore the best UI/UX design tools out there](https://sleekui.com/)
+- [Florida state of emergency with millions of gallons of “radioactive wastewater”](https://www.cbsnews.com/news/florida-state-of-emergency-wastewater-phosphate-processing-plant-could-collapse/)
 - [Dflat: SQLite FlatBuffers](https://github.com/liuliu/dflat)
-- [Ultiboberon – Oberon on bare metal Raspberry Pi](https://github.com/MGreim/ultiboberon)
-- [A CO2 capture solvent with exceptionally low total costs of capture](https://pubs.rsc.org/en/content/articlelanding/2020/ee/d0ee02585b#!divAbstract)
-- [Mars helicopter “Ingenuity” has been dropped to the surface](https://twitter.com/NASAJPL/status/1378513754241961985)
-- [I got the GNU Modula-2 compiler working on OpenBSD](https://briancallahan.net/blog/20210403.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
