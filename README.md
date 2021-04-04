@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin (YC S15) Is Hiring a Sales Development Manager in Denver and Vienna](https://bitmovin.com/careers/5135940002/?gh_jid=5135940002)
 - [Clothing, How Did They Make It? Part IVa: Dyed in the Wool](https://acoup.blog/2021/04/02/collections-clothing-how-did-they-make-it-part-iva-dyed-in-the-wool/)
 - [Human use of high-bandwidth wireless brain-computer interface](https://www.brown.edu/news/2021-03-31/braingate-wireless)
 - [Mark Zuckerberg's phone number appeared among the leaked data of Facebook users](https://www.businessinsider.com/mark-zuckerberg-phone-number-facebook-leak-data-reports-2021-4)
 - [Waymo ordered “up to” 82,000 vehicles in 2018. Today, it has “well over 600.”](https://arstechnica.com/cars/2021/04/waymo-ceo-john-krafcik-steps-down/)
-- [The UK Is Trying to Stop Facebook's End-to-End Encryption](https://www.wired.com/story/uk-trying-to-stop-facebook-end-to-end-encryption/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
