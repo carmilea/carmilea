@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Side effect worry grows for AstraZeneca vaccine](https://science.sciencemag.org/content/372/6537/14.full)
+- [The Lost Apps of the 80s](http://scripting.com/2021/04/04/174604.html?title=theLostAppsOfThe80s)
 - [Show HN: Beautiful PDFs from HTML](HTTPS://pdf.math.dev)
 - [History of IRC (Internet Relay Chat)](https://daniel.haxx.se/irchistory.html)
 - [What a Tiny Masterpiece Reveals About Power and Beauty](https://www.nytimes.com/interactive/2021/04/02/arts/design/shah-jahan-chitarman.html)
