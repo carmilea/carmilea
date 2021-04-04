@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A CO2 capture solvent with exceptionally low total costs of capture](https://pubs.rsc.org/en/content/articlelanding/2020/ee/d0ee02585b#!divAbstract)
+- [Mars helicopter “Ingenuity” has been dropped to the surface](https://twitter.com/NASAJPL/status/1378513754241961985)
 - [I got the GNU Modula-2 compiler working on OpenBSD](https://briancallahan.net/blog/20210403.html)
 - [Apple 2001](https://corecursive.com/063-apple-2001/)
 - [enkiTS: A C and C++ Task Scheduler for creating parallel programs](https://github.com/dougbinks/enkiTS)
-- [The Simtel CD Collection (1994-2001)](http://cd.textfiles.com/simtel/)
-- [Staying awake to treat depression (2018)](https://mosaicscience.com/story/staying-awake-surprisingly-effective-way-treat-depression/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
