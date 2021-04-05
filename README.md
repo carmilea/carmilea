@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [As violence surges, some question Portland axing police unit](https://apnews.com/article/race-and-ethnicity-shootings-police-violence-coronavirus-pandemic-704eeab551b452658cf2fa91a123b483)
 - [Semiconductor Startups – Are they back?](https://semiwiki.com/general/297730-semiconductor-startups-are-they-back/)
 - [George R.R. Martin Writes Everything in WordStar 4.0 on a DOS Machine (2014)](http://techcrunch.com/2014/05/14/george-r-r-martin-writes-everything-in-wordstar-4-0-on-a-dos-machine)
 - [LG is getting out of the mobile phone business](https://www.axios.com/lg-is-getting-out-of-the-mobile-phone-business-a1398158-51e4-428b-a649-47e080884fee.html)
-- [Closer to finding what became of Moses Schönfinkel, inventor of combinators](https://writings.stephenwolfram.com/2021/03/a-little-closer-to-finding-what-became-of-moses-schonfinkel-inventor-of-combinators/)
-- [Ink Traps and Pals](https://tosche.net/blog/ink-traps-and-pals)
+- [Show HN: Test if your (US) phone number is in the leaked Facebook data](https://www.thenewseachday.com/facebook-phone-numbers-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
