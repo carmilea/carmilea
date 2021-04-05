@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Treasury (YC S18) Is Hiring a Senior Product Designer](https://angel.co/company/moderntreasury/jobs/1102956-senior-product-designer)
-- [Soviet TV version of Lord of the Rings rediscovered after 30 years](https://www.theguardian.com/world/2021/apr/05/soviet-tv-version-lord-of-the-rings-rediscovered-after-30-years)
-- [Netflix Made Record Profits in 2020, Paid a Tax Rate of Less Than 1 Percent](https://itep.org/pandemic-profits-netflix-made-record-profits-in-2020-paid-a-tax-rate-of-less-than-1-percent/)
-- [When Feynman Met Dirac](https://www.cantorsparadise.com/when-feynman-met-dirac-fe9cca0006df)
-- [Who's listening? Growing privacy concerns around transcription services](https://rrj.ca/whos-listening/)
+- [How do we know the history of extreme poverty?](https://ourworldindata.org/extreme-history-methods)
+- [Ask HN: What will be the future differentiator in electric vehicles?](https://news.ycombinator.com/item?id=26698371)
+- [Janet Yellen to call for global minimum corporate tax rate of 21%](https://www.axios.com/janet-yellen-global-minimum-tax-rate-51c7395b-e46a-4a5c-b18b-bdcf5d8bd352.html)
+- ['I will always be someone's porn': Pornhub](https://beta.ctvnews.ca/national/w5/2021/4/3/1_5371804.html)
+- [Petition to LG to open source their phones (as they are shutting down for good)](https://www.change.org/p/lg-electronics-lg-to-open-source-their-phones-as-they-are-shutting-down-production-for-good/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
