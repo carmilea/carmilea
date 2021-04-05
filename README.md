@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are Deep Neural Networks Dramatically Overfitted?](https://lilianweng.github.io/lil-log/2019/03/14/are-deep-neural-networks-dramatically-overfitted.html)
+- [Murder up 35.7% YTD relative to 2019](https://twitter.com/Crimealytics/status/1330991403695034368)
+- [Who keeps buying California's scarce water?](https://www.theguardian.com/us-news/2019/mar/25/california-water-drought-scarce-saudi-arabia)
 - [Cesium for Unreal Now Available](https://cesium.com/blog/2021/03/30/cesium-for-unreal-now-available/)
 - [Semiconductor Startups – Are they back?](https://semiwiki.com/general/297730-semiconductor-startups-are-they-back/)
-- [LG is getting out of the mobile phone business](https://www.axios.com/lg-is-getting-out-of-the-mobile-phone-business-a1398158-51e4-428b-a649-47e080884fee.html)
-- [Show HN: Test if your (US) phone number is in the leaked Facebook data](https://www.thenewseachday.com/facebook-phone-numbers-us)
-- [Closer to finding what became of Moses Schönfinkel, inventor of combinators](https://writings.stephenwolfram.com/2021/03/a-little-closer-to-finding-what-became-of-moses-schonfinkel-inventor-of-combinators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
