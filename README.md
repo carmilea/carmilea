@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: My personal website is a shell](https://aava.sh)
-- [This Startup is solving epilepsy with biosensors and AI](https://epilert.io/)
-- [Uber ordered to pay $1.1M to blind woman refused rides](https://www.bbc.com/news/technology-56583428)
-- [Writing tools I learned from The Economist](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the)
-- [Supreme Court sides with Google in Oracle’s API copyright case](https://www.theverge.com/2021/4/5/22367851/google-oracle-supreme-court-ruling-java-android-api)
+- [The Mythology of Red Bull](https://www.readthegeneralist.com/briefing/red-bull)
+- [Corrily (YC W21) Is Hiring](https://www.ycombinator.com/companies/corrily/jobs/EilP884-lead-engineer)
+- [Yellen calls for global minimum corporate tax rate](https://www.cnn.com/2021/04/05/politics/janet-yellen-global-cooperate-tax/index.html)
+- [Linux Myths Series: Linux Doesn't Need an Antivirus (2020)](https://itvision.altervista.org/linux-myths-series-linux-doesnt-need-an-antivirus.html)
+- [Behind GitHub’s new authentication token formats](https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
