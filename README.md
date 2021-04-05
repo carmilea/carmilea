@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [How People Learn to Become Resilient (2016)](https://www.newyorker.com/science/maria-konnikova/the-secret-formula-for-resilience)
 - [Yellen calls for a global minimum corporate tax rate](https://www.nytimes.com/2021/04/05/business/yellen-global-minimum-corporate-tax-rate.html)
-- [The Mythology of Red Bull](https://www.readthegeneralist.com/briefing/red-bull)
 - [Things I learned while developing a billing system](https://arnon.dk/5-things-i-learned-developing-billing-system/)
 - [Corrily (YC W21) Is Hiring](https://www.ycombinator.com/companies/corrily/jobs/EilP884-lead-engineer)
+- [Behind GitHub’s new authentication token formats](https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
