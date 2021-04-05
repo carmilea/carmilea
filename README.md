@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimal Stopping](https://en.wikipedia.org/wiki/Optimal_stopping)
+- [Why America's prisons are an unconstitutional moral horror (2019)](https://www.mcall.com/opinion/mc-opi-prison-reform-morality-unconstitutional-20190101-story.html)
 - [Clubhouse Payments](https://www.joinclubhouse.com/introducing-payments)
 - [Iron Ox is hiring Sr front end and back end engineers to build the future of farming](https://jobs.lever.co/ironox)
-- [NASA's helicopter survives first freezing night on Mars](https://edition.cnn.com/2021/04/05/world/mars-helicopter-ingenuity-nasa-rotorcraft-scn-trnd/index.html)
-- [Git as a NoSql Database (2016)](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/)
-- [8-bit Turing complete computer that I made in Factorio (2019)](https://imgur.com/a/tVB9xOx)
+- [The Economist's Style Guide [pdf]](https://cdn.static-economist.com/sites/default/files/store/Style_Guide_2015.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
