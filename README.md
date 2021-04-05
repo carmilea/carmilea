@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What Became of Moses Schönfinkel, Inventor of Combinators](https://writings.stephenwolfram.com/2021/03/a-little-closer-to-finding-what-became-of-moses-schonfinkel-inventor-of-combinators/)
-- [Tesla Owners Asking What Happens If 'Full Self Driving' Isn't Real](https://jalopnik.com/tesla-owners-take-to-reddit-asking-what-happens-if-full-1846553907)
+- [Ink Traps and Pals](https://tosche.net/blog/ink-traps-and-pals)
+- [Deep learning model compression methods](https://rachitsingh.com/deep-learning-model-compression/)
 - [When Did Life First Emerge in the Universe?](https://www.scientificamerican.com/article/when-did-life-first-emerge-in-the-universe/)
 - [Ask HN: What novel tools are you using to write web sites/apps?](https://news.ycombinator.com/item?id=26693959)
-- [Exploring Databases Visually](https://di.nmfay.com/exploring-databases-visually)
 <!-- BLOG-POST-LIST:END -->
 
 ---
