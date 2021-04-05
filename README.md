@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clubhouse Payments](https://www.joinclubhouse.com/introducing-payments)
 - [Iron Ox is hiring Sr front end and back end engineers to build the future of farming](https://jobs.lever.co/ironox)
 - [NASA's helicopter survives first freezing night on Mars](https://edition.cnn.com/2021/04/05/world/mars-helicopter-ingenuity-nasa-rotorcraft-scn-trnd/index.html)
-- [Brazil has become South America’s superspreader event](https://www.washingtonpost.com/world/2021/04/05/brazil-variant-coronavirus-south-america/)
 - [Git as a NoSql Database (2016)](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/)
-- [Archive Team: A Smattering of Tweets](https://archive.org/details/archiveteam_twitter?tab=about)
+- [8-bit Turing complete computer that I made in Factorio (2019)](https://imgur.com/a/tVB9xOx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
