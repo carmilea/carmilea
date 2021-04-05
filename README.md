@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How Netflix is creating a common European culture](https://www.economist.com/europe/2021/03/31/how-netflix-is-creating-a-common-european-culture)
-- [Evidence of Antarctic glacier's tipping point confirmed for first time](https://phys.org/news/2021-04-evidence-antarctic-glacier.html)
 - [Make It Your Own: Why I Laser Engraved My Camera](https://petapixel.com/2021/04/01/make-it-your-own-why-i-laser-engraved-my-camera/)
 - [Are Deep Neural Networks Dramatically Overfitted?](https://lilianweng.github.io/lil-log/2019/03/14/are-deep-neural-networks-dramatically-overfitted.html)
 - [Murder up 35.7% YTD relative to 2019](https://twitter.com/Crimealytics/status/1330991403695034368)
+- [The Economics of Falling Populations](https://www.economist.com/finance-and-economics/2021/03/27/the-economics-of-falling-populations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
