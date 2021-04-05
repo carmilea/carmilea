@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Became of Moses Schönfinkel, Inventor of Combinators](https://writings.stephenwolfram.com/2021/03/a-little-closer-to-finding-what-became-of-moses-schonfinkel-inventor-of-combinators/)
+- [Tesla Owners Asking What Happens If 'Full Self Driving' Isn't Real](https://jalopnik.com/tesla-owners-take-to-reddit-asking-what-happens-if-full-1846553907)
+- [When Did Life First Emerge in the Universe?](https://www.scientificamerican.com/article/when-did-life-first-emerge-in-the-universe/)
+- [Ask HN: What novel tools are you using to write web sites/apps?](https://news.ycombinator.com/item?id=26693959)
 - [Exploring Databases Visually](https://di.nmfay.com/exploring-databases-visually)
-- [WebOS OSE 2.10.0 Release](https://www.webosose.org/blog/2021/04/02/webos-ose-2-10-0-release/)
-- [Ask HN: Can build CRUD apps, what now?](https://news.ycombinator.com/item?id=26693494)
-- [Against Hickelism](https://noahpinion.substack.com/p/against-hickelism)
-- [QuestDB (YC S20) Is Hiring a Cloud Engineer (Node.js, Kubernetes)](https://questdb.io/careers/senior-cloud-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
