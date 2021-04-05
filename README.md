@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How People Learn to Become Resilient (2016)](https://www.newyorker.com/science/maria-konnikova/the-secret-formula-for-resilience)
-- [Yellen calls for a global minimum corporate tax rate](https://www.nytimes.com/2021/04/05/business/yellen-global-minimum-corporate-tax-rate.html)
-- [Things I learned while developing a billing system](https://arnon.dk/5-things-i-learned-developing-billing-system/)
-- [Corrily (YC W21) Is Hiring](https://www.ycombinator.com/companies/corrily/jobs/EilP884-lead-engineer)
-- [Behind GitHub’s new authentication token formats](https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/)
+- [NASA's helicopter survives first freezing night on Mars](https://edition.cnn.com/2021/04/05/world/mars-helicopter-ingenuity-nasa-rotorcraft-scn-trnd/index.html)
+- [Brazil has become South America’s superspreader event](https://www.washingtonpost.com/world/2021/04/05/brazil-variant-coronavirus-south-america/)
+- [For 2M years, humans ate meat and little else: study](https://www.timesofisrael.com/for-2-million-years-humans-ate-meat-and-little-else-study/)
+- [Git as a NoSql Database (2016)](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/)
+- [Archive Team: A Smattering of Tweets](https://archive.org/details/archiveteam_twitter?tab=about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
