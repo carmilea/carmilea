@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Top court sides with Google in copyright dispute with Oracle](https://www.seattletimes.com/business/top-court-sides-with-google-in-copyright-dispute-with-oracle/)
+- [We sampled tap water across the US – and found arsenic, lead and toxic chemicals](https://www.theguardian.com/us-news/2021/mar/31/americas-tap-water-samples-forever-chemicals)
+- [Coinbase Independent Directors Have Close Company Ties](https://www.wsj.com/articles/coinbase-independent-directors-have-close-company-ties-11617620400)
 - [Google’s copying of the Java SE API was fair use [pdf]](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)
 - [Prescriptive software is better than descriptive software](https://kilianvalkhof.com/2021/web/prescriptive-software-is-better-than-descriptive-software/)
-- [Why Some People Think They're Great Even When Their Work Is Terrible](https://www.forbes.com/sites/markmurphy/2017/01/24/the-dunning-kruger-effect-shows-why-some-people-think-theyre-great-even-when-their-work-is-terrible/)
-- [Diamonds Suck](http://diamondssuck.com/)
+- [Build Audio Search with Vggish](https://github.com/jina-ai/examples/tree/master/audio-search)
 <!-- BLOG-POST-LIST:END -->
 
 ---
