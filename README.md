@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Netflix is creating a common European culture](https://www.economist.com/europe/2021/03/31/how-netflix-is-creating-a-common-european-culture)
-- [Make It Your Own: Why I Laser Engraved My Camera](https://petapixel.com/2021/04/01/make-it-your-own-why-i-laser-engraved-my-camera/)
-- [Are Deep Neural Networks Dramatically Overfitted?](https://lilianweng.github.io/lil-log/2019/03/14/are-deep-neural-networks-dramatically-overfitted.html)
-- [Murder up 35.7% YTD relative to 2019](https://twitter.com/Crimealytics/status/1330991403695034368)
-- [The Economics of Falling Populations](https://www.economist.com/finance-and-economics/2021/03/27/the-economics-of-falling-populations)
+- [Soviet TV version of Lord of the Rings rediscovered after 30 years](https://www.theguardian.com/world/2021/apr/05/soviet-tv-version-lord-of-the-rings-rediscovered-after-30-years)
+- [Netflix Made Record Profits in 2020, Paid a Tax Rate of Less Than 1 Percent](https://itep.org/pandemic-profits-netflix-made-record-profits-in-2020-paid-a-tax-rate-of-less-than-1-percent/)
+- [When Feynman Met Dirac](https://www.cantorsparadise.com/when-feynman-met-dirac-fe9cca0006df)
+- [Who's listening? Growing privacy concerns around transcription services](https://rrj.ca/whos-listening/)
+- [Engineer – must not have experience in Node, Ruby, PHP, ASP, .NET](https://twitter.com/wabzqem/status/1378894021397909506/photo/1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
