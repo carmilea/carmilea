@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Treasury (YC S18) Is Hiring a Senior Product Designer](https://angel.co/company/moderntreasury/jobs/1102956-senior-product-designer)
 - [Soviet TV version of Lord of the Rings rediscovered after 30 years](https://www.theguardian.com/world/2021/apr/05/soviet-tv-version-lord-of-the-rings-rediscovered-after-30-years)
 - [Netflix Made Record Profits in 2020, Paid a Tax Rate of Less Than 1 Percent](https://itep.org/pandemic-profits-netflix-made-record-profits-in-2020-paid-a-tax-rate-of-less-than-1-percent/)
 - [When Feynman Met Dirac](https://www.cantorsparadise.com/when-feynman-met-dirac-fe9cca0006df)
 - [Who's listening? Growing privacy concerns around transcription services](https://rrj.ca/whos-listening/)
-- [Engineer – must not have experience in Node, Ruby, PHP, ASP, .NET](https://twitter.com/wabzqem/status/1378894021397909506/photo/1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
