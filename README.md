@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Databases Visually](https://di.nmfay.com/exploring-databases-visually)
+- [WebOS OSE 2.10.0 Release](https://www.webosose.org/blog/2021/04/02/webos-ose-2-10-0-release/)
 - [Ask HN: Can build CRUD apps, what now?](https://news.ycombinator.com/item?id=26693494)
-- [Overly Attached Girlfriend NFT Sells for $411,000](https://decrypt.co/63891/overly-attached-girlfriend-nft-sells-for-411000)
-- [Tesla files a petition against U.S. labor board order](https://www.reuters.com/article/us-tesla-nrlb-musk/tesla-files-a-petition-against-u-s-labor-board-order-idUSKBN2BQ0JU)
 - [Against Hickelism](https://noahpinion.substack.com/p/against-hickelism)
 - [QuestDB (YC S20) Is Hiring a Cloud Engineer (Node.js, Kubernetes)](https://questdb.io/careers/senior-cloud-engineer/)
 <!-- BLOG-POST-LIST:END -->
