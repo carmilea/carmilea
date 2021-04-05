@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How do we know the history of extreme poverty?](https://ourworldindata.org/extreme-history-methods)
-- [Ask HN: What will be the future differentiator in electric vehicles?](https://news.ycombinator.com/item?id=26698371)
-- [Janet Yellen to call for global minimum corporate tax rate of 21%](https://www.axios.com/janet-yellen-global-minimum-tax-rate-51c7395b-e46a-4a5c-b18b-bdcf5d8bd352.html)
-- ['I will always be someone's porn': Pornhub](https://beta.ctvnews.ca/national/w5/2021/4/3/1_5371804.html)
-- [Petition to LG to open source their phones (as they are shutting down for good)](https://www.change.org/p/lg-electronics-lg-to-open-source-their-phones-as-they-are-shutting-down-production-for-good/)
+- [Top court sides with Google in copyright dispute with Oracle](https://www.seattletimes.com/business/top-court-sides-with-google-in-copyright-dispute-with-oracle/)
+- [Google’s copying of the Java SE API was fair use [pdf]](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)
+- [Prescriptive software is better than descriptive software](https://kilianvalkhof.com/2021/web/prescriptive-software-is-better-than-descriptive-software/)
+- [Why Some People Think They're Great Even When Their Work Is Terrible](https://www.forbes.com/sites/markmurphy/2017/01/24/the-dunning-kruger-effect-shows-why-some-people-think-theyre-great-even-when-their-work-is-terrible/)
+- [Diamonds Suck](http://diamondssuck.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
