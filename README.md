@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We sampled tap water across the US – and found arsenic, lead and toxic chemicals](https://www.theguardian.com/us-news/2021/mar/31/americas-tap-water-samples-forever-chemicals)
-- [Coinbase Independent Directors Have Close Company Ties](https://www.wsj.com/articles/coinbase-independent-directors-have-close-company-ties-11617620400)
-- [Google’s copying of the Java SE API was fair use [pdf]](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)
-- [Prescriptive software is better than descriptive software](https://kilianvalkhof.com/2021/web/prescriptive-software-is-better-than-descriptive-software/)
-- [Build Audio Search with Vggish](https://github.com/jina-ai/examples/tree/master/audio-search)
+- [Show HN: My personal website is a shell](https://aava.sh)
+- [This Startup is solving epilepsy with biosensors and AI](https://epilert.io/)
+- [Uber ordered to pay $1.1M to blind woman refused rides](https://www.bbc.com/news/technology-56583428)
+- [Writing tools I learned from The Economist](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the)
+- [Supreme Court sides with Google in Oracle’s API copyright case](https://www.theverge.com/2021/4/5/22367851/google-oracle-supreme-court-ruling-java-android-api)
 <!-- BLOG-POST-LIST:END -->
 
 ---
