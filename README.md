@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Do Games Like Factorio or Eve Online Sap the Intellectual Potential of Humanity?](https://www.reddit.com/r/slatestarcodex/comments/ml00ac/how_much_are_games_like_factorio_and_eve_online/)
+- [Researchers estimate the richest 1% dodge taxes on over a fifth of their income](https://www.washingtonpost.com/business/2021/03/26/wealthy-tax-evasion/)
 - [Truebill is hiring an IT Engineer](https://news.ycombinator.com/item?id=26710782)
-- [The rich shouldn’t feel like the enemy’: Is New York turning on the wealthy?](https://www.ft.com/content/22c9b76b-ea36-4c8c-8cae-1bbb104098d2)
 - [Credit Suisse Loses 4.7B](https://www.wsj.com/articles/credit-suisse-takes-4-7-billion-hit-on-archegos-meltdown-11617687483)
-- [Django 3.2](https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/)
-- [The Facebook Phone Numbers Are Now Searchable in Have I Been Pwned](https://www.troyhunt.com/the-facebook-phone-numbers-are-now-searchable-in-have-i-been-pwned/)
+- [Chinese engineers cracked Apple's M1 chip and successfully upgrade RAM and SSD](https://inf.news/en/digital/b5599514f985bf2acd947d74d74a203d.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
