@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google AI scientist Bengio resigns after colleagues' firings – email](https://www.reuters.com/article/us-alphabet-google-research-bengio/google-ai-scientist-bengio-resigns-after-colleagues-firings-email-idUSKBN2BT2JT)
 - [The Muse (YC W12) Is Hiring a Senior Front-End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer)
-- [Apple Donated $100-$249 to FreeBSD in 2021](https://freebsdfoundation.org/our-donors/donors/?donationType=individual&donationYear=2021)
+- [Soil bacteria could improve crop yields, via fungi](https://news.cornell.edu/stories/2021/04/soil-bacteria-could-improve-crop-yields-fungi)
 - [I refused to become an FBI informant, the government put me on the no fly list](https://www.aclu.org/news/national-security/i-refused-to-become-an-fbi-informant-and-the-government-put-me-on-the-no-fly-list/)
-- [It looks like Signal isn't as open source as you thought it was anymore](https://www.androidpolice.com/2021/04/06/it-looks-like-signal-isnt-as-open-source-as-you-thought-it-was-anymore/)
 - [Rapidly Build SaaS apps on ASP.NET/ServiceStack based on zero-trust security](https://aspsecuritykit.net/?src=hnzt)
 <!-- BLOG-POST-LIST:END -->
 
