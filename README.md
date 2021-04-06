@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fastest, Safest PNG Decoder in the World](https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html)
+- [ContentFly (YC W21) Is Hiring for Roles in Operations, Success and Product](https://www.ycombinator.com/companies/contentfly)
+- [A Decade of Delusion at WeWork](https://www.newyorker.com/culture/culture-desk/the-wework-documentary-explores-a-decade-of-delusion)
 - [Intel Launches 10nm 'Ice Lake' Datacenter CPU with Up to 40 Cores](https://www.hpcwire.com/2021/04/06/intel-launches-10nm-ice-lake-datacenter-cpu-with-up-to-40-cores/)
-- [Lyra – enabling voice calls for the next billion users](https://opensource.googleblog.com/2021/04/lyra-enabling-voice-calls-for-next-billion-users.html)
-- [Django 3.2 – News on compressed fixtures and fixtures compression](https://www.paulox.net/2021/04/06/django-32-news-on-compressed-fixtures-and-fixtures-compression/)
-- [Branch Specialization](https://distill.pub/2020/circuits/branch-specialization/)
-- [ClojureScript 1.10.844](https://clojurescript.org/news/2021-04-06-release)
+- [How We Bootstrapped a $1M ARR Email Client](https://missiveapp.com/blog/how-we-built-1m-arr-email-client)
 <!-- BLOG-POST-LIST:END -->
 
 ---
