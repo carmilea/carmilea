@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BuildZoom (a better way to build custom homes) is hiring remote engineers](https://jobs.lever.co/buildzoom)
+- [BuildZoom (YC W13) is hiring remote engineers](https://jobs.lever.co/buildzoom)
+- [The myth of excess vacant housing distracts from solutions](https://www.sgvtribune.com/2021/03/25/the-myth-of-excess-vacant-housing-distracts-from-solutions/)
+- [Mathematicians Settle Erdős Coloring Conjecture](https://www.quantamagazine.org/mathematicians-settle-erdos-coloring-conjecture-20210405/)
 - [Google will stop using Oracle’s finance software and adopt SAP instead](https://www.cnbc.com/2021/04/05/google-will-stop-using-oracle-finance-software-switch-to-sap.html)
-- [FDA approves new ADHD drug for children](https://www.axios.com/fda-approves-new-adhd-drug-for-children-d7bb24d4-7bf2-4a5e-a505-833ed57dee7a.html)
 - [Optimal Stopping](https://en.wikipedia.org/wiki/Optimal_stopping)
-- [Why America's prisons are an unconstitutional moral horror (2019)](https://www.mcall.com/opinion/mc-opi-prison-reform-morality-unconstitutional-20190101-story.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
