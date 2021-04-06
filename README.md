@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Contaminated surface has under 1 in 10k chance of causing an infection](https://www.cdc.gov/coronavirus/2019-ncov/more/science-and-research/surface-transmission.html)
-- [AWS bill capping feature request thread still unanswered after 10 years](https://forums.aws.amazon.com/thread.jspa?threadID=58127&start=50&tstart=0)
-- [Show HN: A hackable, minimal, fast TUI file explorer (written in rust)](https://github.com/sayanarijit/xplr)
-- [Facebook Analytics will no longer be available](https://www.facebook.com/business/help/966883707418907)
-- [To upgrade the SSD in a Mac Pro, you need a second Mac computer](https://support.apple.com/en-us/HT210626)
+- [Find jobs at over 800 fast-growing YC startups on Y Combinator.com/jobs](https://ycombinator.com/jobs)
+- [Breaking GitHub Private Pages for $35k](https://robertchen.cc/blog/2021/04/03/github-pages-xss)
+- [Booking.com fined €475,000 for reporting data breach too late](https://therecord.media/booking-com-fined-e475000-for-reporting-data-breach-too-late/)
+- [New Zealand to open quarantine-free “travel bubble” with Australia](https://www.axios.com/australia-new-zealand-covid-travel-bubble-ffd332a7-4024-47a6-bc3f-c7af4eeb3270.html)
+- [Vitamin D: The truth about an alleged Covid ‘cover-up’](https://www.bbc.co.uk/news/health-56180921)
 <!-- BLOG-POST-LIST:END -->
 
 ---
