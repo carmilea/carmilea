@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom (a better way to build custom homes) is hiring remote engineers](https://jobs.lever.co/buildzoom)
+- [Google will stop using Oracle’s finance software and adopt SAP instead](https://www.cnbc.com/2021/04/05/google-will-stop-using-oracle-finance-software-switch-to-sap.html)
+- [FDA approves new ADHD drug for children](https://www.axios.com/fda-approves-new-adhd-drug-for-children-d7bb24d4-7bf2-4a5e-a505-833ed57dee7a.html)
 - [Optimal Stopping](https://en.wikipedia.org/wiki/Optimal_stopping)
 - [Why America's prisons are an unconstitutional moral horror (2019)](https://www.mcall.com/opinion/mc-opi-prison-reform-morality-unconstitutional-20190101-story.html)
-- [Clubhouse Payments](https://www.joinclubhouse.com/introducing-payments)
-- [Iron Ox is hiring Sr front end and back end engineers to build the future of farming](https://jobs.lever.co/ironox)
-- [The Economist's Style Guide [pdf]](https://cdn.static-economist.com/sites/default/files/store/Style_Guide_2015.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
