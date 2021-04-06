@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It looks like Signal isn't as open source as you thought it was anymore](https://www.androidpolice.com/2021/04/06/it-looks-like-signal-isnt-as-open-source-as-you-thought-it-was-anymore/)
 - [The Fastest, Safest PNG Decoder in the World](https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html)
+- [Show HN: Birthday.report – open-source birthday calendar](https://birthday.report)
 - [ContentFly (YC W21) Is Hiring for Roles in Operations, Success and Product](https://www.ycombinator.com/companies/contentfly)
-- [A Decade of Delusion at WeWork](https://www.newyorker.com/culture/culture-desk/the-wework-documentary-explores-a-decade-of-delusion)
 - [Intel Launches 10nm 'Ice Lake' Datacenter CPU with Up to 40 Cores](https://www.hpcwire.com/2021/04/06/intel-launches-10nm-ice-lake-datacenter-cpu-with-up-to-40-cores/)
-- [How We Bootstrapped a $1M ARR Email Client](https://missiveapp.com/blog/how-we-built-1m-arr-email-client)
 <!-- BLOG-POST-LIST:END -->
 
 ---
