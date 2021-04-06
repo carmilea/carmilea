@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Games Like Factorio or Eve Online Sap the Intellectual Potential of Humanity?](https://www.reddit.com/r/slatestarcodex/comments/ml00ac/how_much_are_games_like_factorio_and_eve_online/)
-- [Researchers estimate the richest 1% dodge taxes on over a fifth of their income](https://www.washingtonpost.com/business/2021/03/26/wealthy-tax-evasion/)
+- [Show HN: Social media where you get paid for being helpful](http://www.theniceplace.net)
+- [Programming is hard](https://dorinlazar.ro/2021-02-programming-is-hard/)
+- [Fortran is getting more popular](https://www.zdnet.com/article/this-old-programming-language-is-suddenly-getting-more-popular-again/)
+- [IPython as a System Shell](https://ipython.readthedocs.io/en/stable/interactive/shell.html)
 - [Truebill is hiring an IT Engineer](https://news.ycombinator.com/item?id=26710782)
-- [Credit Suisse Loses 4.7B](https://www.wsj.com/articles/credit-suisse-takes-4-7-billion-hit-on-archegos-meltdown-11617687483)
-- [Chinese engineers cracked Apple's M1 chip and successfully upgrade RAM and SSD](https://inf.news/en/digital/b5599514f985bf2acd947d74d74a203d.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
