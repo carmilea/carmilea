@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In Support of Richard Stallman](https://stallmansupport.org/#intro)
+- [Strong software tips from 2000 that are 100% valid today](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+- [Linear Algebra for Everyone](http://math.mit.edu/~gs/everyone/)
+- [How Browsers Lay Out Web Pages](https://browser.engineering/layout.html)
 - [BuildZoom (YC W13) is hiring remote engineers](https://jobs.lever.co/buildzoom)
 - [The myth of excess vacant housing distracts from solutions](https://www.sgvtribune.com/2021/03/25/the-myth-of-excess-vacant-housing-distracts-from-solutions/)
-- [Mathematicians Settle Erdős Coloring Conjecture](https://www.quantamagazine.org/mathematicians-settle-erdos-coloring-conjecture-20210405/)
-- [Google will stop using Oracle’s finance software and adopt SAP instead](https://www.cnbc.com/2021/04/05/google-will-stop-using-oracle-finance-software-switch-to-sap.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
