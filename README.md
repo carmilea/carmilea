@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chinese engineers cracked Apple's M1 chip and successfully upgrade RAM and SSD](https://inf.news/en/digital/b5599514f985bf2acd947d74d74a203d.html)
+- [Truebill is hiring an IT Engineer](https://news.ycombinator.com/item?id=26710782)
+- [The rich shouldn’t feel like the enemy’: Is New York turning on the wealthy?](https://www.ft.com/content/22c9b76b-ea36-4c8c-8cae-1bbb104098d2)
+- [Credit Suisse Loses 4.7B](https://www.wsj.com/articles/credit-suisse-takes-4-7-billion-hit-on-archegos-meltdown-11617687483)
 - [Django 3.2](https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/)
 - [The Facebook Phone Numbers Are Now Searchable in Have I Been Pwned](https://www.troyhunt.com/the-facebook-phone-numbers-are-now-searchable-in-have-i-been-pwned/)
-- [A detailed guide to SSO on Kubernetes](http://www.talkingquickly.co.uk/kubernetes-sso-a-detailed-guide)
-- [Find jobs at over 800 fast-growing YC startups on Y Combinator.com/jobs](https://ycombinator.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
