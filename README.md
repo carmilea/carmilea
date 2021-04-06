@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Contaminated surface has under 1 in 10k chance of causing an infection](https://www.cdc.gov/coronavirus/2019-ncov/more/science-and-research/surface-transmission.html)
 - [AWS bill capping feature request thread still unanswered after 10 years](https://forums.aws.amazon.com/thread.jspa?threadID=58127&start=50&tstart=0)
-- [Show HN: A hackable, minimal, fast TUI file explorer](https://github.com/sayanarijit/xplr)
+- [Show HN: A hackable, minimal, fast TUI file explorer (written in rust)](https://github.com/sayanarijit/xplr)
 - [Facebook Analytics will no longer be available](https://www.facebook.com/business/help/966883707418907)
-- [Bruce Perens: On Non-Judicical Punishment of Individuals](https://perens.com/2021/04/04/on-non-judicical-punishment-of-individuals/)
+- [To upgrade the SSD in a Mac Pro, you need a second Mac computer](https://support.apple.com/en-us/HT210626)
 <!-- BLOG-POST-LIST:END -->
 
 ---
