@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please don't make me go back: some reasons I hope to never return to the office](https://www.ryanmercer.com/ryansthoughts/2021/4/6/some-of-the-reasons-i-hope-work-from-home-continues-and-i-never-have-to-return-to-an-office)
-- [Parser Combinators in Elixir](https://serokell.io/blog/parser-combinators-in-elixir)
-- [Programming is hard](https://dorinlazar.ro/2021-02-programming-is-hard/)
-- [Sublime Text 4 – Build 4000 has native Apple Silicon Support](https://twitter.com/wbond/status/1379430132138541056)
-- [Fortran is back on the top 20 TIOBE index list](https://www.zdnet.com/article/this-old-programming-language-is-suddenly-getting-more-popular-again/)
+- [Intel Launches 10nm 'Ice Lake' Datacenter CPU with Up to 40 Cores](https://www.hpcwire.com/2021/04/06/intel-launches-10nm-ice-lake-datacenter-cpu-with-up-to-40-cores/)
+- [Lyra – enabling voice calls for the next billion users](https://opensource.googleblog.com/2021/04/lyra-enabling-voice-calls-for-next-billion-users.html)
+- [Django 3.2 – News on compressed fixtures and fixtures compression](https://www.paulox.net/2021/04/06/django-32-news-on-compressed-fixtures-and-fixtures-compression/)
+- [Branch Specialization](https://distill.pub/2020/circuits/branch-specialization/)
+- [ClojureScript 1.10.844](https://clojurescript.org/news/2021-04-06-release)
 <!-- BLOG-POST-LIST:END -->
 
 ---
