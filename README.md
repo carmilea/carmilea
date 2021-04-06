@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bevy 0.5: data oriented game engine built in Rust](https://bevyengine.org/news/bevy-0-5/)
-- [What Goodreads could have been](https://notfunatparties.substack.com/p/what-goodreads-could-have-been)
+- [The Muse (YC W12) Is Hiring a Senior Front-End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer)
+- [Apple Donated $100-$249 to FreeBSD in 2021](https://freebsdfoundation.org/our-donors/donors/?donationType=individual&donationYear=2021)
 - [I refused to become an FBI informant, the government put me on the no fly list](https://www.aclu.org/news/national-security/i-refused-to-become-an-fbi-informant-and-the-government-put-me-on-the-no-fly-list/)
 - [It looks like Signal isn't as open source as you thought it was anymore](https://www.androidpolice.com/2021/04/06/it-looks-like-signal-isnt-as-open-source-as-you-thought-it-was-anymore/)
 - [Rapidly Build SaaS apps on ASP.NET/ServiceStack based on zero-trust security](https://aspsecuritykit.net/?src=hnzt)
