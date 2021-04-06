@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Refused to Become an FBI Informant. The Government Put Me on the No Fly List](https://www.aclu.org/news/national-security/i-refused-to-become-an-fbi-informant-and-the-government-put-me-on-the-no-fly-list/)
+- [Bevy 0.5: data oriented game engine built in Rust](https://bevyengine.org/news/bevy-0-5/)
+- [What Goodreads could have been](https://notfunatparties.substack.com/p/what-goodreads-could-have-been)
+- [I refused to become an FBI informant, the government put me on the no fly list](https://www.aclu.org/news/national-security/i-refused-to-become-an-fbi-informant-and-the-government-put-me-on-the-no-fly-list/)
 - [It looks like Signal isn't as open source as you thought it was anymore](https://www.androidpolice.com/2021/04/06/it-looks-like-signal-isnt-as-open-source-as-you-thought-it-was-anymore/)
-- [Migration to PostgreSQL databases can also be done using FDW](https://www.migops.com/blog/2021/02/15/role-of-foreign-data-wrappers-in-migrations-to-postgresql)
-- [Iron Fish – Privacy for Everyone](https://ironfish.network/blog/2021/03/06/introducing-ironfish)
-- [Fast, Safe PNG Decoder](https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html)
+- [Rapidly Build SaaS apps on ASP.NET/ServiceStack based on zero-trust security](https://aspsecuritykit.net/?src=hnzt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
