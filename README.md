@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Find jobs at over 800 fast-growing YC startups on Y Combinator.com/jobs](https://ycombinator.com/jobs)
+- [How I built a €25K Machine Learning Rig](https://www.emilwallner.com/p/ml-rig)
+- [Kallithea – Self-hosted alternative to GitHub](https://kallithea-scm.org/)
 - [Breaking GitHub Private Pages for $35k](https://robertchen.cc/blog/2021/04/03/github-pages-xss)
-- [Booking.com fined €475,000 for reporting data breach too late](https://therecord.media/booking-com-fined-e475000-for-reporting-data-breach-too-late/)
-- [New Zealand to open quarantine-free “travel bubble” with Australia](https://www.axios.com/australia-new-zealand-covid-travel-bubble-ffd332a7-4024-47a6-bc3f-c7af4eeb3270.html)
-- [Vitamin D: The truth about an alleged Covid ‘cover-up’](https://www.bbc.co.uk/news/health-56180921)
+- [Neuroscientists discover a molecular mechanism that allows memories to form](https://news.mit.edu/2020/engram-memories-form-1005)
 <!-- BLOG-POST-LIST:END -->
 
 ---
