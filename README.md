@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Refused to Become an FBI Informant. The Government Put Me on the No Fly List](https://www.aclu.org/news/national-security/i-refused-to-become-an-fbi-informant-and-the-government-put-me-on-the-no-fly-list/)
 - [It looks like Signal isn't as open source as you thought it was anymore](https://www.androidpolice.com/2021/04/06/it-looks-like-signal-isnt-as-open-source-as-you-thought-it-was-anymore/)
-- [The Fastest, Safest PNG Decoder in the World](https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html)
-- [Show HN: Birthday.report – open-source birthday calendar](https://birthday.report)
-- [ContentFly (YC W21) Is Hiring for Roles in Operations, Success and Product](https://www.ycombinator.com/companies/contentfly)
-- [Intel Launches 10nm 'Ice Lake' Datacenter CPU with Up to 40 Cores](https://www.hpcwire.com/2021/04/06/intel-launches-10nm-ice-lake-datacenter-cpu-with-up-to-40-cores/)
+- [Migration to PostgreSQL databases can also be done using FDW](https://www.migops.com/blog/2021/02/15/role-of-foreign-data-wrappers-in-migrations-to-postgresql)
+- [Iron Fish – Privacy for Everyone](https://ironfish.network/blog/2021/03/06/introducing-ironfish)
+- [Fast, Safe PNG Decoder](https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
