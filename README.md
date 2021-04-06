@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Social media where you get paid for being helpful](http://www.theniceplace.net)
+- [Please don't make me go back: some reasons I hope to never return to the office](https://www.ryanmercer.com/ryansthoughts/2021/4/6/some-of-the-reasons-i-hope-work-from-home-continues-and-i-never-have-to-return-to-an-office)
+- [Parser Combinators in Elixir](https://serokell.io/blog/parser-combinators-in-elixir)
 - [Programming is hard](https://dorinlazar.ro/2021-02-programming-is-hard/)
-- [Fortran is getting more popular](https://www.zdnet.com/article/this-old-programming-language-is-suddenly-getting-more-popular-again/)
-- [IPython as a System Shell](https://ipython.readthedocs.io/en/stable/interactive/shell.html)
-- [Truebill is hiring an IT Engineer](https://news.ycombinator.com/item?id=26710782)
+- [Sublime Text 4 – Build 4000 has native Apple Silicon Support](https://twitter.com/wbond/status/1379430132138541056)
+- [Fortran is back on the top 20 TIOBE index list](https://www.zdnet.com/article/this-old-programming-language-is-suddenly-getting-more-popular-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
