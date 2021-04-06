@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Django 3.2 Released](https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/)
+- [The Facebook Phone Numbers Are Now Searchable in Have I Been Pwned](https://www.troyhunt.com/the-facebook-phone-numbers-are-now-searchable-in-have-i-been-pwned/)
 - [Find jobs at over 800 fast-growing YC startups on Y Combinator.com/jobs](https://ycombinator.com/jobs)
-- [How I built a €25K Machine Learning Rig](https://www.emilwallner.com/p/ml-rig)
 - [Kallithea – Self-hosted alternative to GitHub](https://kallithea-scm.org/)
 - [Breaking GitHub Private Pages for $35k](https://robertchen.cc/blog/2021/04/03/github-pages-xss)
-- [Neuroscientists discover a molecular mechanism that allows memories to form](https://news.mit.edu/2020/engram-memories-form-1005)
 <!-- BLOG-POST-LIST:END -->
 
 ---
