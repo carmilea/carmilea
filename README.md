@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Django 3.2 Released](https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/)
+- [Chinese engineers cracked Apple's M1 chip and successfully upgrade RAM and SSD](https://inf.news/en/digital/b5599514f985bf2acd947d74d74a203d.html)
+- [Django 3.2](https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/)
 - [The Facebook Phone Numbers Are Now Searchable in Have I Been Pwned](https://www.troyhunt.com/the-facebook-phone-numbers-are-now-searchable-in-have-i-been-pwned/)
+- [A detailed guide to SSO on Kubernetes](http://www.talkingquickly.co.uk/kubernetes-sso-a-detailed-guide)
 - [Find jobs at over 800 fast-growing YC startups on Y Combinator.com/jobs](https://ycombinator.com/jobs)
-- [Kallithea – Self-hosted alternative to GitHub](https://kallithea-scm.org/)
-- [Breaking GitHub Private Pages for $35k](https://robertchen.cc/blog/2021/04/03/github-pages-xss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
