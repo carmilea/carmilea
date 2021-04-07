@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Et Tu, Signal?](https://www.stephendiehl.com/blog/signal.html)
+- [What have we lost? [video]](https://media.ccc.de/v/rc3-525180-what_have_we_lost)
+- [All C++20 core language features with examples](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
 - [Tesorio (YC S15) Is Hiring a Principal Data Architect and Senior Engineers](https://www.tesorio.com/careers#job-openings)
 - [Time to regulate AI that interprets human emotions](https://www.nature.com/articles/d41586-021-00868-5)
-- [Writing HTML in HTML (2019)](http://john.ankarstrom.se/html/)
-- [WTF: Signal Adds Cryptocurrency Support](https://www.schneier.com/blog/archives/2021/04/wtf-signal-adds-cryptocurrency-support.html)
-- [You can now turn on Nvidia's excellent noise cancellation with any GeForce GPU](https://www.pcgamer.com/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
