@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio (YC S15) Is Hiring a Principal Data Architect and Senior Engineers](https://www.tesorio.com/careers#job-openings)
+- [Time to regulate AI that interprets human emotions](https://www.nature.com/articles/d41586-021-00868-5)
+- [Writing HTML in HTML (2019)](http://john.ankarstrom.se/html/)
+- [WTF: Signal Adds Cryptocurrency Support](https://www.schneier.com/blog/archives/2021/04/wtf-signal-adds-cryptocurrency-support.html)
 - [You can now turn on Nvidia's excellent noise cancellation with any GeForce GPU](https://www.pcgamer.com/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/)
-- [Show HN: Skruv – No-dependency, no-build, small JavaScript framework](https://skruv.io/)
-- [Ask HN: What tech job would let me get away with the least real work possible?](https://news.ycombinator.com/item?id=26721951)
-- [April 7: The Internet's symbolic birth date through RFC 1](https://tools.ietf.org/html/rfc1)
-- [The antidote to civilisational collapse – An interview with Adam Curtis (2018)](https://www.economist.com/open-future/2018/12/06/the-antidote-to-civilisational-collapse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
