@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Et Tu, Signal?](https://www.stephendiehl.com/blog/signal.html)
+- [Sweden's Pandemic Experiment](https://www.newyorker.com/news/dispatch/swedens-pandemic-experiment/)
+- [Signal Server code on GitHub is up to date again](https://github.com/signalapp/Signal-Server/commits/master)
+- [Dynamicland](https://dynamicland.org/)
+- [Screw it, I’ll host it myself](https://www.markozivanovic.com/screw-it-ill-host-it-myself/)
 - [What have we lost? [video]](https://media.ccc.de/v/rc3-525180-what_have_we_lost)
-- [All C++20 core language features with examples](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
-- [Tesorio (YC S15) Is Hiring a Principal Data Architect and Senior Engineers](https://www.tesorio.com/careers#job-openings)
-- [Time to regulate AI that interprets human emotions](https://www.nature.com/articles/d41586-021-00868-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
