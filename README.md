@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google is writing low-level Android code in Rust](https://arstechnica.com/gadgets/2021/04/google-is-now-writing-low-level-android-code-in-rust/)
-- [Modern CI Is Too Complex and Misdirected](https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/)
-- [A simple, bloat free cooking site. Submit recipes...](https://opensource.cooking)
-- [34% of remote workers would quit rather than return to full-time office work](https://www.psychnewsdaily.com/a-third-of-wfh-employees-say-theyd-rather-quit-than-return-to-full-time-office-work/)
-- [Build the API That Ships Billions – Join (Remote) EasyPost (YC S13)](https://www.easypost.com/careers)
+- [Show HN: Kaboom.js is a zero-dependency declarative JavaScript game library](https://kaboomjs.com/)
+- [GiveCampus (YC S15) Hiring senior engineers who care about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
+- [SPAs Are Dead?](https://leastprivilege.com/2020/03/31/spas-are-dead/)
+- [TailwindCSS JIT with Arbitrary Values](https://tailwindcss.com/docs/just-in-time-mode)
+- [Wix and Their Dirty Tricks](https://ma.tt/2021/04/wix-dirty-tricks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
