@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM COBOL for Linux on x86](https://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/9/872/ENUSAP21-0019/index.html&request_locale=en)
 - [What Is Fuzz Testing?](https://blog.fuzzbuzz.io/what-is-fuzz-testing)
 - [Flow Club (YC S21) Is Hiring](https://www.workatastartup.com/jobs/43166)
 - [Metis and Bodybuilders](https://astralcodexten.substack.com/p/metis-and-bodybuilders)
-- [Facebook does not plan to notify half-billion users affected by data leak](https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY)
-- [A After Working at Google, I’ll Never Let Myself Love a Job Again](https://www.nytimes.com/2021/04/07/opinion/google-job-harassment.html)
+- [YouTube Kids a “vapid wasteland” say US lawmakers](https://www.bbc.com/news/technology-56662103)
 <!-- BLOG-POST-LIST:END -->
 
 ---
