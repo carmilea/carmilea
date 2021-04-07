@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to relocate to Europe as a software developer](https://news.ycombinator.com/item?id=26722428)
+- [You can now turn on Nvidia's excellent noise cancellation with any GeForce GPU](https://www.pcgamer.com/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/)
 - [Show HN: Skruv – No-dependency, no-build, small JavaScript framework](https://skruv.io/)
+- [Ask HN: What tech job would let me get away with the least real work possible?](https://news.ycombinator.com/item?id=26721951)
 - [April 7: The Internet's symbolic birth date through RFC 1](https://tools.ietf.org/html/rfc1)
 - [The antidote to civilisational collapse – An interview with Adam Curtis (2018)](https://www.economist.com/open-future/2018/12/06/the-antidote-to-civilisational-collapse)
-- [Lisp as an alternative to Java (2000)](https://norvig.com/java-lisp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
