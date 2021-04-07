@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The antidote to civilisational collapse – An interview with Adam Curtis (2018)](https://www.economist.com/open-future/2018/12/06/the-antidote-to-civilisational-collapse)
 - [Lisp as an alternative to Java (2000)](https://norvig.com/java-lisp.html)
 - [Jeff Bezos comes out in support of increased corporate taxes](https://www.cnn.com/2021/04/06/economy/amazon-jeff-bezos-corporate-tax-increase/index.html)
 - [Update on Git.php.net Incident](https://externals.io/message/113981)
 - [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack engineer](https://onesignal.com/careers/cb3e1383-d52c-43e8-8e7b-b49cbadafc85)
-- [7% of Americans don’t use the internet. Who are they?](https://www.pewresearch.org/fact-tank/2021/04/02/7-of-americans-dont-use-the-internet-who-are-they/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
