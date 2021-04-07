@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Facts on News Reports About Facebook Data](https://about.fb.com/news/2021/04/facts-on-news-reports-about-facebook-data/)
+- [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack engineer](https://onesignal.com/careers/cb3e1383-d52c-43e8-8e7b-b49cbadafc85)
+- [7% of Americans don’t use the internet. Who are they?](https://www.pewresearch.org/fact-tank/2021/04/02/7-of-americans-dont-use-the-internet-who-are-they/)
 - [Show HN: DragonRuby Game Toolkit – Commercial 2D Game Engine](http://dragonruby.org/toolkit/game)
-- [Ask HN: What is the secret to getting a product owner job as an engineer?](https://news.ycombinator.com/item?id=26719010)
 - [Exodus: Easily migrate your JVM code from Maven to Bazel](https://github.com/wix/exodus)
-- [Bronze Age slab found in France is oldest 3D map in Europe](https://www.bbc.com/news/world-europe-56648055)
-- [The Muse (YC W12) Is Hiring a Senior Front-End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
