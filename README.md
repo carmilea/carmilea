@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Can we collaborate on a IP Address or Regex blacklist?](https://news.ycombinator.com/item?id=26719964)
 - [The Facts on News Reports About Facebook Data](https://about.fb.com/news/2021/04/facts-on-news-reports-about-facebook-data/)
 - [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack engineer](https://onesignal.com/careers/cb3e1383-d52c-43e8-8e7b-b49cbadafc85)
 - [7% of Americans don’t use the internet. Who are they?](https://www.pewresearch.org/fact-tank/2021/04/02/7-of-americans-dont-use-the-internet-who-are-they/)
 - [Show HN: DragonRuby Game Toolkit – Commercial 2D Game Engine](http://dragonruby.org/toolkit/game)
-- [Exodus: Easily migrate your JVM code from Maven to Bazel](https://github.com/wix/exodus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
