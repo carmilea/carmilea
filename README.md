@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Critique of the Open Letter Calling for the Removal of RMS](https://meribold.org/2021/04/07/critique-of-rms-open-letter/)
+- [April 7: The Internet's symbolic birth date through RFC 1](https://tools.ietf.org/html/rfc1)
 - [Is it true? Can Covid-19 vaccines connect me to the internet?](https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/is-it-true/is-it-true-can-covid-19-vaccines-connect-me-to-the-internet)
 - [The antidote to civilisational collapse – An interview with Adam Curtis (2018)](https://www.economist.com/open-future/2018/12/06/the-antidote-to-civilisational-collapse)
 - [Lisp as an alternative to Java (2000)](https://norvig.com/java-lisp.html)
-- [Jeff Bezos comes out in support of increased corporate taxes](https://www.cnn.com/2021/04/06/economy/amazon-jeff-bezos-corporate-tax-increase/index.html)
-- [Update on Git.php.net Incident](https://externals.io/message/113981)
 <!-- BLOG-POST-LIST:END -->
 
 ---
