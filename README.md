@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sweden's Pandemic Experiment](https://www.newyorker.com/news/dispatch/swedens-pandemic-experiment/)
-- [Signal Server code on GitHub is up to date again](https://github.com/signalapp/Signal-Server/commits/master)
-- [Dynamicland](https://dynamicland.org/)
-- [Screw it, I’ll host it myself](https://www.markozivanovic.com/screw-it-ill-host-it-myself/)
-- [What have we lost? [video]](https://media.ccc.de/v/rc3-525180-what_have_we_lost)
+- [Streamlit's $35M Series B](https://blog.streamlit.io/our-35-million-series-b/)
+- ['Strong' evidence found for a new force of nature](https://www.bbc.com/news/56643677)
+- [BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution](https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html)
+- [iOS 14 and Facebook Pixel causing increase in PSL inclusion requests](https://github.com/publicsuffix/list/issues/1245)
+- [Particle mystery: physicists confirm the muon is more magnetic than predicted](https://www.sciencemag.org/news/2021/04/particle-mystery-deepens-physicists-confirm-muon-more-magnetic-predicted)
 <!-- BLOG-POST-LIST:END -->
 
 ---
