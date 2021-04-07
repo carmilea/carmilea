@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook does not plan to notify half-billion users affected by data leak](https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY)
+- [TLA+ Graph Explorer](https://github.com/afonsonf/tlaplus-graph-explorer)
 - [Show HN: Kaboom.js is a zero-dependency declarative JavaScript game library](https://kaboomjs.com/)
 - [GiveCampus (YC S15) Hiring senior engineers who care about education](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
 - [SPAs Are Dead?](https://leastprivilege.com/2020/03/31/spas-are-dead/)
-- [TailwindCSS JIT with Arbitrary Values](https://tailwindcss.com/docs/just-in-time-mode)
-- [Wix and Their Dirty Tricks](https://ma.tt/2021/04/wix-dirty-tricks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
