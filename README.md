@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlit's $35M Series B](https://blog.streamlit.io/our-35-million-series-b/)
-- ['Strong' evidence found for a new force of nature](https://www.bbc.com/news/56643677)
-- [BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution](https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html)
-- [iOS 14 and Facebook Pixel causing increase in PSL inclusion requests](https://github.com/publicsuffix/list/issues/1245)
-- [Particle mystery: physicists confirm the muon is more magnetic than predicted](https://www.sciencemag.org/news/2021/04/particle-mystery-deepens-physicists-confirm-muon-more-magnetic-predicted)
+- [Google is writing low-level Android code in Rust](https://arstechnica.com/gadgets/2021/04/google-is-now-writing-low-level-android-code-in-rust/)
+- [Modern CI Is Too Complex and Misdirected](https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/)
+- [A simple, bloat free cooking site. Submit recipes...](https://opensource.cooking)
+- [34% of remote workers would quit rather than return to full-time office work](https://www.psychnewsdaily.com/a-third-of-wfh-employees-say-theyd-rather-quit-than-return-to-full-time-office-work/)
+- [Build the API That Ships Billions – Join (Remote) EasyPost (YC S13)](https://www.easypost.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
