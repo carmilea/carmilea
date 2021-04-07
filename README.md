@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is Fuzz Testing?](https://blog.fuzzbuzz.io/what-is-fuzz-testing)
 - [Flow Club (YC S21) Is Hiring](https://www.workatastartup.com/jobs/43166)
 - [Metis and Bodybuilders](https://astralcodexten.substack.com/p/metis-and-bodybuilders)
-- [A third of Covid survivors suffer neurological or mental disorders](https://www.reuters.com/article/us-health-coronavirus-brain/a-third-of-covid-survivors-suffer-neurological-or-mental-disorders-study-idUSKBN2BT2ZI)
 - [Facebook does not plan to notify half-billion users affected by data leak](https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY)
 - [A After Working at Google, I’ll Never Let Myself Love a Job Again](https://www.nytimes.com/2021/04/07/opinion/google-job-harassment.html)
 <!-- BLOG-POST-LIST:END -->
