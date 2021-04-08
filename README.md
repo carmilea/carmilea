@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Mexico Governor Signs Historic Legislation to End Qualified Immunity](https://innocenceproject.org/new-mexico-historic-legislation-to-end-qualified-immunity/)
+- [A simple C implementation to stream H.264 to browser using WebRTC](https://github.com/sepfy/pear)
+- [The Tourist: Philip Roth’s Czech KGB File](https://www.tabletmag.com/sections/arts-letters/articles/philip-roth-the-tourist)
+- [New Mexico is the second state to ban qualified immunity](https://innocenceproject.org/new-mexico-historic-legislation-to-end-qualified-immunity/)
 - [Reading in the Age of Constant Distraction (2019)](https://www.theparisreview.org/blog/2019/02/08/reading-in-the-age-of-constant-distraction/)
-- [SF board halts process to rename Washington, Lincoln and Feinstein schools](https://www.nbcnews.com/news/us-news/san-francisco-board-halts-process-rename-washington-lincoln-feinstein-schools-n1263337)
-- [GnuCOBOL – a free/libre COBOL compiler](https://gnucobol.sourceforge.io/)
-- [AMD and Xilinx Stockholders Overwhelmingly Approve AMD’s Acquisition of Xilinx](https://www.amd.com/en/press-releases/2021-04-07-amd-and-xilinx-stockholders-overwhelmingly-approve-amd-s-acquisition)
+- [Geometrical Thinking Offers a Window into Computation](https://www.simonsfoundation.org/2021/04/07/geometrical-thinking-offers-a-window-into-computation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
