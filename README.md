@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Perfect Motherf****** Website](https://perfectmotherfuckingwebsite.com/)
+- [Keeper Tax (YC W19) Is hiring full-stack engineers](https://www.notion.so/keepertax/Come-work-with-us-98a6be20e7e44922be6291f5513af40d?p=894daaeed38e4c7989e6d718d509ab91)
+- [Home-Built Scanning Tunneling Microscope](https://dberard.com/home-built-stm/)
+- [U.S. adds seven Chinese supercomputing entities to economic blacklist](https://www.reuters.com/article/us-usa-china-commerce/u-s-adds-chinese-supercomputing-entities-to-economic-blacklist-idUSKBN2BV1XU)
 - [Rates of Parkinson’s disease are exploding. A common chemical may be to blame](https://www.theguardian.com/commentisfree/2021/apr/07/rates-of-parkinsons-disease-are-exploding-a-common-chemical-may-be-to-blame)
 - [EFF's reply to cease-&-desist letter – “Virtual Coachella” parody video](https://www.eff.org/ar/document/eff-letter-re-virtual-coachella-video)
-- [Ask HN: Why is the Linux community struggling to implement hibernation?](https://news.ycombinator.com/item?id=26739220)
-- [Tell HN: Today I learned Epub is just HTML/CSS](https://en.wikipedia.org/wiki/EPUB#:~:text=EPUB%20is%20an%20e%2Dbook,smartphones%2C%20tablets%2C%20and%20computers.)
 <!-- BLOG-POST-LIST:END -->
 
 ---
