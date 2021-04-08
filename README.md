@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Signal Is a Government Op](https://yasha.substack.com/p/signal-is-a-government-op-85e)
+- [Help us test payments in Signal](https://www.signal.org/blog/help-us-test-payments-in-signal/)
 - [Texas Senate passes bill aiming to counter federal subsidies for wind and solar](https://www.houstonchronicle.com/politics/texas/article/Texas-Senate-passes-bill-aiming-to-counter-16062267.php)
+- [UTF-8 as told by Rob Pike](http://doc.cat-v.org/bell_labs/utf-8_history)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [An Interview with the Man Who Keeps Uploading My Feet to WikiFeet](https://www.thecut.com/2021/04/a-q-and-a-with-the-man-who-keeps-uploading-my-feet-to-wikifeet.html)
-- [A simple C implementation to stream H.264 to browser using WebRTC](https://github.com/sepfy/pear)
 <!-- BLOG-POST-LIST:END -->
 
 ---
