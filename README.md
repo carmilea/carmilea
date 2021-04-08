@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Boeing 737 Serious Incident. Root cause: adult females checked in as “Miss” [pdf]](https://assets.publishing.service.gov.uk/media/604f423be90e077fdf88493f/Boeing_737-8K5_G-TAWG_04-21.pdf)
-- [Show HN: Ory Keto, open source authorization server based on Google Zanzibar](https://github.com/ory/keto)
-- [Show HN: LadyLua, batteries-included static Lua 5.1 interpreter](https://github.com/tongson/LadyLua)
-- [Mozilla hides Compact Mode in Firefox for new users](https://www.ghacks.net/2021/04/07/mozilla-decides-to-hide-compact-mode-in-firefox-for-new-users-but-keep-it-for-existing-ones/)
-- [The Architecture of a One-Man SaaS](https://anthonynsimon.com/blog/one-man-saas-architecture/)
+- [Ask HN: Why is the Linux community struggling to implement hibernation?](https://news.ycombinator.com/item?id=26739220)
+- [Tell HN: Today I learned Epub is just HTML/CSS](https://en.wikipedia.org/wiki/EPUB#:~:text=EPUB%20is%20an%20e%2Dbook,smartphones%2C%20tablets%2C%20and%20computers.)
+- [Muon G-2 Experiment at Fermilab Finds Hint of New Particles](https://www.quantamagazine.org/muon-g-2-experiment-at-fermilab-finds-hint-of-new-particles-20210407)
+- [The Nixon Seminar with Peter Thiel (April 6, 2021)](https://nixonseminar.com/2021/04/the-nixon-seminar-april-6-2021-transcript)
+- [How to Learn Complex Things Quickly: A Guide](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
