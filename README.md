@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [#FullTextIndex and #FullTextSearch with #SingleStore](https://www.youtube.com/watch?v=2bzDDPLWL1k)
 - [#SingleStore #Sharding and #ShardKeys](https://www.youtube.com/watch?v=vl6uwVejYRE)
 - [#SingleStore #Storage Training](https://www.youtube.com/watch?v=-Ababrwwpk8)
 - [Data #Ingest using #SingleStore #Pipelines](https://www.youtube.com/watch?v=lwEL2dXd3pg)
 - [Export from #SingleStore to #GoogleCloud storage](https://www.youtube.com/watch?v=sehLdkzo0vw)
-- [Export from #SingleStore to #AWS #S3](https://www.youtube.com/watch?v=K-BpqexSNDw)
 <!-- YOUTUBE:END -->
 
 
