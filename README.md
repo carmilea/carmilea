@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chums (YC W21) Is Hiring a Lead Designer and Front End Engineer](https://www.workatastartup.com/companies/chums)
 - [The Book](https://99percentinvisible.org/episode/the-real-book/)
+- [Israel may have achieved herd immunity against Covid-19](https://www.israel21c.org/israel-may-have-achieved-herd-immunity-against-covid-19/)
+- [Show HN: Raspberry Pi 400 – CyberDeck Project](https://learn.adafruit.com/cyberdeck-plate?embeds=allow)
 - [Facebook does not plan to notify half-billion users affected by data leak](https://www.reuters.com/article/us-facebook-data-leak-idUSKBN2BU2ZY)
-- [Texas Senate passes bill aiming to counter federal subsidies for wind and solar](https://www.houstonchronicle.com/politics/texas/article/Texas-Senate-passes-bill-aiming-to-counter-16062267.php)
-- [UTF-8 as told by Rob Pike](http://doc.cat-v.org/bell_labs/utf-8_history)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
