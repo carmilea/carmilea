@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Down?](https://www.facebook.com/)
 - [Shelf Engine (YC S18) Is Hiring a Senior Product Manager](https://jobs.lever.co/shelfengine/163ee4db-95dd-4cbe-8e96-0454d2e22868)
+- [MacBook and iPad production delayed as supply crunch hits Apple](https://asia.nikkei.com/Business/Tech/Semiconductors/MacBook-and-iPad-production-delayed-as-supply-crunch-hits-Apple)
+- [MX-19.4 Now Available](https://mxlinux.org/blog/mx-19-4-now-available/)
 - [Why Keyboard Shortcuts don't work on non-US Layouts and how Devs could fix it](https://tkainrad.dev/posts/why-keyboard-shortcuts-dont-work-on-non-us-keyboard-layouts-and-how-to-fix-it/)
-- [Run Bhyve in FreeBSD jails – The view from inside the forest (2020)](https://neirac.byteswizards.com/posts/run-bhyve-in-freebsd-jails/)
-- [A “deepfake” is at the center of a harassment case, but what if it’s not faked?](https://www.dailydot.com/debug/deepfake-vaping-video-cheerleaders/)
-- [Commits are snapshots not diffs (2020)](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
