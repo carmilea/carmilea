@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Perfect Motherf****** Website](https://perfectmotherfuckingwebsite.com/)
+- [Rates of Parkinson’s disease are exploding. A common chemical may be to blame](https://www.theguardian.com/commentisfree/2021/apr/07/rates-of-parkinsons-disease-are-exploding-a-common-chemical-may-be-to-blame)
+- [EFF's reply to cease-&-desist letter – “Virtual Coachella” parody video](https://www.eff.org/ar/document/eff-letter-re-virtual-coachella-video)
 - [Ask HN: Why is the Linux community struggling to implement hibernation?](https://news.ycombinator.com/item?id=26739220)
 - [Tell HN: Today I learned Epub is just HTML/CSS](https://en.wikipedia.org/wiki/EPUB#:~:text=EPUB%20is%20an%20e%2Dbook,smartphones%2C%20tablets%2C%20and%20computers.)
-- [Muon G-2 Experiment at Fermilab Finds Hint of New Particles](https://www.quantamagazine.org/muon-g-2-experiment-at-fermilab-finds-hint-of-new-particles-20210407)
-- [The Nixon Seminar with Peter Thiel (April 6, 2021)](https://nixonseminar.com/2021/04/the-nixon-seminar-april-6-2021-transcript)
-- [How to Learn Complex Things Quickly: A Guide](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
