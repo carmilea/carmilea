@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Mexico Governor Signs Historic Legislation to End Qualified Immunity](https://innocenceproject.org/new-mexico-historic-legislation-to-end-qualified-immunity/)
 - [Reading in the Age of Constant Distraction (2019)](https://www.theparisreview.org/blog/2019/02/08/reading-in-the-age-of-constant-distraction/)
+- [SF board halts process to rename Washington, Lincoln and Feinstein schools](https://www.nbcnews.com/news/us-news/san-francisco-board-halts-process-rename-washington-lincoln-feinstein-schools-n1263337)
 - [GnuCOBOL – a free/libre COBOL compiler](https://gnucobol.sourceforge.io/)
 - [AMD and Xilinx Stockholders Overwhelmingly Approve AMD’s Acquisition of Xilinx](https://www.amd.com/en/press-releases/2021-04-07-amd-and-xilinx-stockholders-overwhelmingly-approve-amd-s-acquisition)
-- [lscpu + neofetch = cpufetch](https://github.com/Dr-Noob/cpufetch)
-- [Isp.netscape.com](https://isp.netscape.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
