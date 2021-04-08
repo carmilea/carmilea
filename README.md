@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes 1.21 Is Live](https://kubernetes.io/blog/2021/04/08/kubernetes-1-21-release-announcement/)
+- [People systematically overlook subtractive changes](https://www.nature.com/articles/s41586-021-03380-y)
+- [A “deepfake” is at the center of a harassment case–but what if it’s not faked?](https://www.dailydot.com/debug/deepfake-vaping-video-cheerleaders/)
 - [Commits are snapshots not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
 - [Which Type of Exercise Is Best for the Brain?](http://well.blogs.nytimes.com/2016/02/17/which-type-of-exercise-is-best-for-the-brain/)
-- [A Twitter crawler for app ideas](https://iwishtherewas.app/)
-- [Vector Laser Projector Student Project](http://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/s2019/eam348_rbr76/eam348_rbr76/eam348_rbr76/index.html)
-- [Contrast Rebellion – to hell with unreadable, low-contrast texts](https://contrastrebellion.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
