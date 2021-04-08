@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Ory Keto, open source authorization server based on Google Zanzibar](https://github.com/ory/keto)
+- [Show HN: LadyLua, batteries-included static Lua 5.1 interpreter](https://github.com/tongson/LadyLua)
+- [Mozilla hides Compact Mode in Firefox for new users](https://www.ghacks.net/2021/04/07/mozilla-decides-to-hide-compact-mode-in-firefox-for-new-users-but-keep-it-for-existing-ones/)
+- [The Architecture of a One-Man SaaS](https://anthonynsimon.com/blog/one-man-saas-architecture/)
 - [Chums (YC W21) Is Hiring a Lead Designer and Front End Engineer](https://www.workatastartup.com/companies/chums)
-- [The Book](https://99percentinvisible.org/episode/the-real-book/)
-- [Israel may have achieved herd immunity against Covid-19](https://www.israel21c.org/israel-may-have-achieved-herd-immunity-against-covid-19/)
-- [Show HN: Raspberry Pi 400 – CyberDeck Project](https://learn.adafruit.com/cyberdeck-plate?embeds=allow)
-- [Facebook does not plan to notify half-billion users affected by data leak](https://www.reuters.com/article/us-facebook-data-leak-idUSKBN2BU2ZY)
 <!-- BLOG-POST-LIST:END -->
 
 ---
