@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [lscpu + neofetch = cpufetch](https://github.com/Dr-Noob/cpufetch)
+- [Isp.netscape.com](https://isp.netscape.com)
 - [Proofs, Computability, Undecidability, Complexity, and the Lambda Calculus [pdf]](https://www.cis.upenn.edu/~cis511/notes/proofslambda.pdf)
+- [How to make a Python package in 2021](https://antonz.org/python-packaging/)
 - [FDA approves first test of CRISPR for genetic defect causing sickle cell disease](https://news.berkeley.edu/2021/03/30/fda-approves-first-test-of-crispr-to-correct-genetic-defect-causing-sickle-cell-disease/)
-- [The Edges of Our Universe](https://arxiv.org/abs/2104.01191)
-- [A woman who took on Google and won](https://www.bbc.com/news/technology-56659212)
 <!-- BLOG-POST-LIST:END -->
 
 ---
