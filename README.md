@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IBM COBOL for Linux on x86](https://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/9/872/ENUSAP21-0019/index.html&request_locale=en)
-- [What Is Fuzz Testing?](https://blog.fuzzbuzz.io/what-is-fuzz-testing)
-- [Flow Club (YC S21) Is Hiring](https://www.workatastartup.com/jobs/43166)
-- [Metis and Bodybuilders](https://astralcodexten.substack.com/p/metis-and-bodybuilders)
-- [YouTube Kids a “vapid wasteland” say US lawmakers](https://www.bbc.com/news/technology-56662103)
+- [lscpu + neofetch = cpufetch](https://github.com/Dr-Noob/cpufetch)
+- [Proofs, Computability, Undecidability, Complexity, and the Lambda Calculus [pdf]](https://www.cis.upenn.edu/~cis511/notes/proofslambda.pdf)
+- [FDA approves first test of CRISPR for genetic defect causing sickle cell disease](https://news.berkeley.edu/2021/03/30/fda-approves-first-test-of-crispr-to-correct-genetic-defect-causing-sickle-cell-disease/)
+- [The Edges of Our Universe](https://arxiv.org/abs/2104.01191)
+- [A woman who took on Google and won](https://www.bbc.com/news/technology-56659212)
 <!-- BLOG-POST-LIST:END -->
 
 ---
