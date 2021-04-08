@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing 737 Serious Incident. Root cause: adult females checked in as “Miss” [pdf]](https://assets.publishing.service.gov.uk/media/604f423be90e077fdf88493f/Boeing_737-8K5_G-TAWG_04-21.pdf)
 - [Show HN: Ory Keto, open source authorization server based on Google Zanzibar](https://github.com/ory/keto)
 - [Show HN: LadyLua, batteries-included static Lua 5.1 interpreter](https://github.com/tongson/LadyLua)
 - [Mozilla hides Compact Mode in Firefox for new users](https://www.ghacks.net/2021/04/07/mozilla-decides-to-hide-compact-mode-in-firefox-for-new-users-but-keep-it-for-existing-ones/)
 - [The Architecture of a One-Man SaaS](https://anthonynsimon.com/blog/one-man-saas-architecture/)
-- [Chums (YC W21) Is Hiring a Lead Designer and Front End Engineer](https://www.workatastartup.com/companies/chums)
 <!-- BLOG-POST-LIST:END -->
 
 ---
