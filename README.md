@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reading in the Age of Constant Distraction (2019)](https://www.theparisreview.org/blog/2019/02/08/reading-in-the-age-of-constant-distraction/)
+- [GnuCOBOL – a free/libre COBOL compiler](https://gnucobol.sourceforge.io/)
+- [AMD and Xilinx Stockholders Overwhelmingly Approve AMD’s Acquisition of Xilinx](https://www.amd.com/en/press-releases/2021-04-07-amd-and-xilinx-stockholders-overwhelmingly-approve-amd-s-acquisition)
 - [lscpu + neofetch = cpufetch](https://github.com/Dr-Noob/cpufetch)
 - [Isp.netscape.com](https://isp.netscape.com)
-- [Proofs, Computability, Undecidability, Complexity, and the Lambda Calculus [pdf]](https://www.cis.upenn.edu/~cis511/notes/proofslambda.pdf)
-- [How to make a Python package in 2021](https://antonz.org/python-packaging/)
-- [FDA approves first test of CRISPR for genetic defect causing sickle cell disease](https://news.berkeley.edu/2021/03/30/fda-approves-first-test-of-crispr-to-correct-genetic-defect-causing-sickle-cell-disease/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
