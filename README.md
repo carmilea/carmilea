@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Signal Is a Government Op](https://yasha.substack.com/p/signal-is-a-government-op-85e)
+- [Texas Senate passes bill aiming to counter federal subsidies for wind and solar](https://www.houstonchronicle.com/politics/texas/article/Texas-Senate-passes-bill-aiming-to-counter-16062267.php)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [An Interview with the Man Who Keeps Uploading My Feet to WikiFeet](https://www.thecut.com/2021/04/a-q-and-a-with-the-man-who-keeps-uploading-my-feet-to-wikifeet.html)
 - [A simple C implementation to stream H.264 to browser using WebRTC](https://github.com/sepfy/pear)
-- [The Tourist: Philip Roth’s Czech KGB File](https://www.tabletmag.com/sections/arts-letters/articles/philip-roth-the-tourist)
-- [New Mexico is the second state to ban qualified immunity](https://innocenceproject.org/new-mexico-historic-legislation-to-end-qualified-immunity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
