@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Book](https://99percentinvisible.org/episode/the-real-book/)
+- [Facebook does not plan to notify half-billion users affected by data leak](https://www.reuters.com/article/us-facebook-data-leak-idUSKBN2BU2ZY)
 - [Texas Senate passes bill aiming to counter federal subsidies for wind and solar](https://www.houstonchronicle.com/politics/texas/article/Texas-Senate-passes-bill-aiming-to-counter-16062267.php)
 - [UTF-8 as told by Rob Pike](http://doc.cat-v.org/bell_labs/utf-8_history)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [An Interview with the Man Who Keeps Uploading My Feet to WikiFeet](https://www.thecut.com/2021/04/a-q-and-a-with-the-man-who-keeps-uploading-my-feet-to-wikifeet.html)
-- [Cryptographically verifiable code review system for cargo Rust package manager](https://github.com/crev-dev/cargo-crev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
