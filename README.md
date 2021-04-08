@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Keeper Tax (YC W19) Is hiring full-stack engineers](https://www.notion.so/keepertax/Come-work-with-us-98a6be20e7e44922be6291f5513af40d?p=894daaeed38e4c7989e6d718d509ab91)
-- [Home-Built Scanning Tunneling Microscope](https://dberard.com/home-built-stm/)
-- [U.S. adds seven Chinese supercomputing entities to economic blacklist](https://www.reuters.com/article/us-usa-china-commerce/u-s-adds-chinese-supercomputing-entities-to-economic-blacklist-idUSKBN2BV1XU)
-- [Rates of Parkinson’s disease are exploding. A common chemical may be to blame](https://www.theguardian.com/commentisfree/2021/apr/07/rates-of-parkinsons-disease-are-exploding-a-common-chemical-may-be-to-blame)
-- [EFF's reply to cease-&-desist letter – “Virtual Coachella” parody video](https://www.eff.org/ar/document/eff-letter-re-virtual-coachella-video)
+- [Commits are snapshots not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
+- [Which Type of Exercise Is Best for the Brain?](http://well.blogs.nytimes.com/2016/02/17/which-type-of-exercise-is-best-for-the-brain/)
+- [A Twitter crawler for app ideas](https://iwishtherewas.app/)
+- [Vector Laser Projector Student Project](http://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/s2019/eam348_rbr76/eam348_rbr76/eam348_rbr76/index.html)
+- [Contrast Rebellion – to hell with unreadable, low-contrast texts](https://contrastrebellion.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
