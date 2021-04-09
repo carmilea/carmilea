@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU](https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html)
+- [Monkey MindPong Blog](https://neuralink.com/blog/)
 - [Why do long options start with two dashes? (2019)](https://blog.djmnet.org/2019/08/02/why-do-long-options-start-with/)
 - [You Don't Need a GUI](https://github.com/you-dont-need/You-Dont-Need-GUI)
 - [Shelf Engine (YC S18) Is Hiring a Senior Product Manager](https://jobs.lever.co/shelfengine/163ee4db-95dd-4cbe-8e96-0454d2e22868)
-- [MacBook and iPad production delayed as supply crunch hits Apple](https://asia.nikkei.com/Business/Tech/Semiconductors/MacBook-and-iPad-production-delayed-as-supply-crunch-hits-Apple)
-- [Why keyboard shortcuts don't work on non-US layouts and how devs could fix it](https://tkainrad.dev/posts/why-keyboard-shortcuts-dont-work-on-non-us-keyboard-layouts-and-how-to-fix-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
