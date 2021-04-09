@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon workers vote against Unionizing in Alabama](https://www.wsj.com/articles/amazon-is-ahead-in-union-vote-as-tallying-set-to-resume-11617960604)
-- [Oliver Heaviside (1850-1925) – Physical Mathematician](https://sci-hub.se/10.1093/teamat/2.2.55)
+- [The Human Eye Webcam](https://www.youtube.com/watch?v=JMxr8Nq-w_w)
+- [Eu_sst: 20% probability for large satellite collision at 2021-04-09T17:18:21 UTC](https://twitter.com/EU_SST/status/1380120766071635968)
+- [Oliver Heaviside (1850-1925) – Physical Mathematician (1983)](https://sci-hub.se/10.1093/teamat/2.2.55)
 - [A Year in the Life of a Compiler Fuzzing Campaign](https://blog.trailofbits.com/2021/03/23/a-year-in-the-life-of-a-compiler-fuzzing-campaign/)
-- [Scientists who say the lab-leak hypothesis for SARS-CoV-2 shouldn't be ruled out](https://www.technologyreview.com/2021/03/18/1021030/coronavirus-leak-wuhan-lab-scientists-conspiracy/)
-- [The Apache Attic](http://attic.apache.org/)
+- [HW accelerated Xwayland rendering for Nvidia merged](https://gitlab.freedesktop.org/xorg/xserver/-/merge_requests/587)
 <!-- BLOG-POST-LIST:END -->
 
 ---
