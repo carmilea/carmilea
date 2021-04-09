@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Without Docker](https://fly.io/blog/docker-without-docker/)
-- ['Satan Shoes' to be recalled as Nike agrees to settle lawsuit](https://www.bbc.com/news/business-56684773)
+- [Hawking Hawking](https://www.math.columbia.edu/~woit/wordpress/?p=12235)
+- [Tree.h in OpenBSD: dependency-free intrusive binary tree (2002)](https://github.com/openbsd/src/blob/c1d6f13173b788e34852a303bda0c5a53861979e/sys/sys/tree.h)
+- [FFmpeg 4.4](http://ffmpeg.org/index.html#pr4.4)
+- [Docker without Docker](https://fly.io/blog/docker-without-docker/)
 - [How a carnivorous mushroom poisons its prey](https://www.scientificamerican.com/article/how-a-carnivorous-mushroom-poisons-its-prey/)
-- [Visceral fat shows strongest association with ICU need in patients with Covid-19](https://www.metabolismjournal.com/article/S0026-0495(20)30183-9/fulltext)
-- [CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU](https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
