@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [53% of Canadians on the Brink of Insolvency](https://www.bnnbloomberg.ca/53-of-canadians-within-200-a-month-of-insolvency-mnp-1.1587379)
-- [We Discovered Google’s Social Justice Blocklist for YouTube Ad Placements](https://themarkup.org/google-the-giant/2021/04/09/how-we-discovered-googles-social-justice-blocklist-for-youtube-ad-placements)
-- [Why Hypercard Had to Die](http://www.loper-os.org/?p=568)
+- [The Apache Attic](http://attic.apache.org/)
+- [Why Hypercard had to die (2011)](http://www.loper-os.org/?p=568)
 - [Ditto (YC W20) Is Hiring Back End and Fullstack Engineers](https://www.dittowords.com/careers)
 - [Zoom zero-day discovery makes calls safer, hackers $200k richer](https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/)
+- [Rust – I used unsafe. It was unsafe](https://flak.tedunangst.com/post/comparative-unsafety)
 <!-- BLOG-POST-LIST:END -->
 
 ---
