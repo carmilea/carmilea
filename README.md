@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Was the NE2000 That Bad?](http://www.os2museum.com/wp/was-the-ne2000-really-that-bad/)
+- [Why uBlock Origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)
+- [The Expansion of the Universe](https://johncarlosbaez.wordpress.com/2021/04/09/the-expansion-of-the-universe/)
 - [Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs](https://github.com/DualCoder/vgpu_unlock)
-- [Jurigged – Hot code reloading for Python](https://github.com/breuleux/jurigged)
-- [Estonian Electronic Identity Card and Its Security Challenges [pdf]](https://dspace.ut.ee/bitstream/handle/10062/71481/parsovs_arnis.pdf?sequence=1&isAllowed=y)
-- [Bentocart (YC W19) Is Hiring Restaurant Partnership and Sales](https://www.workatastartup.com/jobs/42895)
-- [SEC Charges 1inMM Capital, LLC with Operating a $690M Ponzi Scheme](https://www.sec.gov/news/press-release/2021-58)
+- [Spotify Continues to Remove Joe Rogan Episodes – 42 Shows Now Deleted](https://www.digitalmusicnews.com/2021/04/06/joe-rogan-spotify-removing-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
