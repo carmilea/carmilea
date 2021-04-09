@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs](https://github.com/DualCoder/vgpu_unlock)
 - [Jurigged – Hot code reloading for Python](https://github.com/breuleux/jurigged)
 - [Estonian Electronic Identity Card and Its Security Challenges [pdf]](https://dspace.ut.ee/bitstream/handle/10062/71481/parsovs_arnis.pdf?sequence=1&isAllowed=y)
-- [Perseverance Takes a Selfie with Ingenuity. It’s Almost Time to Fly](https://www.universetoday.com/150819/perseverance-takes-a-selfie-with-ingenuity-its-almost-time-to-fly/#more-150819)
 - [Bentocart (YC W19) Is Hiring Restaurant Partnership and Sales](https://www.workatastartup.com/jobs/42895)
 - [SEC Charges 1inMM Capital, LLC with Operating a $690M Ponzi Scheme](https://www.sec.gov/news/press-release/2021-58)
 <!-- BLOG-POST-LIST:END -->
