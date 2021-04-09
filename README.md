@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bentocart (YC W19) Is Hiring Restaurant Partnership and Sales](https://www.workatastartup.com/jobs/42895)
+- [Generational changes pressure CEOs to take up political activism](https://www.axios.com/ceo-political-activism-03b148a0-d921-4ebb-9700-48998532870b.html)
+- [Clothing, How Did They Make It? Part IVb: Cloth Money](https://acoup.blog/2021/04/09/collections-clothing-how-did-they-make-it-part-ivb-cloth-money/)
+- [Ask HN: How do you solicit user feedback for your mobile app?](https://news.ycombinator.com/item?id=26752565)
 - [The Human Eye Webcam](https://www.youtube.com/watch?v=JMxr8Nq-w_w)
-- [Eu_sst: 20% probability for large satellite collision at 2021-04-09T17:18:21 UTC](https://twitter.com/EU_SST/status/1380120766071635968)
-- [Oliver Heaviside (1850-1925) – Physical Mathematician (1983)](https://sci-hub.se/10.1093/teamat/2.2.55)
-- [A Year in the Life of a Compiler Fuzzing Campaign](https://blog.trailofbits.com/2021/03/23/a-year-in-the-life-of-a-compiler-fuzzing-campaign/)
-- [HW accelerated Xwayland rendering for Nvidia merged](https://gitlab.freedesktop.org/xorg/xserver/-/merge_requests/587)
 <!-- BLOG-POST-LIST:END -->
 
 ---
