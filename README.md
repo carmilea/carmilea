@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon workers vote against Unionizing in Alabama](https://www.wsj.com/articles/amazon-is-ahead-in-union-vote-as-tallying-set-to-resume-11617960604)
+- [Oliver Heaviside (1850-1925) – Physical Mathematician](https://sci-hub.se/10.1093/teamat/2.2.55)
+- [A Year in the Life of a Compiler Fuzzing Campaign](https://blog.trailofbits.com/2021/03/23/a-year-in-the-life-of-a-compiler-fuzzing-campaign/)
+- [Scientists who say the lab-leak hypothesis for SARS-CoV-2 shouldn't be ruled out](https://www.technologyreview.com/2021/03/18/1021030/coronavirus-leak-wuhan-lab-scientists-conspiracy/)
 - [The Apache Attic](http://attic.apache.org/)
-- [Why Hypercard had to die (2011)](http://www.loper-os.org/?p=568)
-- [Ditto (YC W20) Is Hiring Back End and Fullstack Engineers](https://www.dittowords.com/careers)
-- [Zoom zero-day discovery makes calls safer, hackers $200k richer](https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/)
-- [Rust – I used unsafe. It was unsafe](https://flak.tedunangst.com/post/comparative-unsafety)
 <!-- BLOG-POST-LIST:END -->
 
 ---
