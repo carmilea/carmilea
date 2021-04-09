@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Prince Philip has died aged 99, Buckingham Palace announces](https://www.bbc.com/news/uk-11437314)
+- [Ditto (YC W20) Is Hiring Back End and Fullstack Engineers](https://www.dittowords.com/careers)
+- [Zoom zero-day discovery makes calls safer, hackers $200k richer](https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/)
+- [Prince Philip has died](https://www.bbc.com/news/uk-11437314)
 - [Food waste responsible for 10% of global emissions](https://www.bloomberg.com/news/articles/2021-03-04/in-one-year-a-billion-tons-of-food-got-wasted-mostly-at-home)
 - [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
-- [Is Netflix's Seaspiracy film right about fishing damaging oceans?](https://www.bbc.co.uk/news/56660823)
-- [The Web MiniDisc App: Bringing Back to Life the MiniDisc with WebUSB and WASM](https://stefano.brilli.me/blog/web-minidisc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
