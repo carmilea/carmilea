@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Visceral fat shows strongest association with ICU need in patients with Covid-19](https://www.metabolismjournal.com/article/S0026-0495(20)30183-9/fulltext)
 - [CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU](https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html)
-- [Monkey MindPong Blog](https://neuralink.com/blog/)
+- [Monkey MindPong](https://neuralink.com/blog/)
 - [Why do long options start with two dashes? (2019)](https://blog.djmnet.org/2019/08/02/why-do-long-options-start-with/)
 - [You Don't Need a GUI](https://github.com/you-dont-need/You-Dont-Need-GUI)
-- [Shelf Engine (YC S18) Is Hiring a Senior Product Manager](https://jobs.lever.co/shelfengine/163ee4db-95dd-4cbe-8e96-0454d2e22868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
