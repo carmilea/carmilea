@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [53% of Canadians on the Brink of Insolvency](https://www.bnnbloomberg.ca/53-of-canadians-within-200-a-month-of-insolvency-mnp-1.1587379)
+- [We Discovered Google’s Social Justice Blocklist for YouTube Ad Placements](https://themarkup.org/google-the-giant/2021/04/09/how-we-discovered-googles-social-justice-blocklist-for-youtube-ad-placements)
+- [Why Hypercard Had to Die](http://www.loper-os.org/?p=568)
 - [Ditto (YC W20) Is Hiring Back End and Fullstack Engineers](https://www.dittowords.com/careers)
 - [Zoom zero-day discovery makes calls safer, hackers $200k richer](https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/)
-- [Prince Philip has died](https://www.bbc.com/news/uk-11437314)
-- [Food waste responsible for 10% of global emissions](https://www.bloomberg.com/news/articles/2021-03-04/in-one-year-a-billion-tons-of-food-got-wasted-mostly-at-home)
-- [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
