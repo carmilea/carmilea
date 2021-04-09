@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bike Theft Map – Bikmo](https://bike-theft-map.bikmo.com/)
+- [Jupiter (YC S19), hyperpersonalized grocery from 2050, hiring product-minded SWE](https://www.notion.so/jupiterhome/Full-Stack-Software-Engineer-Product-9997a862394d48e4b8db702b859141e2)
+- [Coq searches for alternative name](https://github.com/coq/coq/wiki/Alternative-names)
 - [Initial M1 support merged into Linux SoC tree](https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf)
 - [Hawking Hawking](https://www.math.columbia.edu/~woit/wordpress/?p=12235)
-- [Tree.h in OpenBSD: dependency-free intrusive binary tree (2002)](https://github.com/openbsd/src/blob/c1d6f13173b788e34852a303bda0c5a53861979e/sys/sys/tree.h)
-- [FFmpeg 4.4](http://ffmpeg.org/index.html#pr4.4)
-- [Docker without Docker](https://fly.io/blog/docker-without-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
