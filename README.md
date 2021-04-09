@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [They Write the Right Stuff (2021)](https://david-haber.github.io/posts/the-right-stuff/)
-- [W3C slaps down Google's proposal to treat multiple domains as same origin](https://www.theregister.com/2021/04/08/w3c_google_multple_domains/)
-- [Jupiter (YC S19), hyperpersonalized grocery from 2050, hiring product-minded SWE](https://www.notion.so/jupiterhome/Full-Stack-Software-Engineer-Product-9997a862394d48e4b8db702b859141e2)
-- [Scalable, Resilient Brainfuck as a service](https://zserge.com/posts/bfaas/)
-- [Initial M1 support merged into Linux SoC tree](https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf)
+- [Prince Philip has died aged 99, Buckingham Palace announces](https://www.bbc.com/news/uk-11437314)
+- [Food waste responsible for 10% of global emissions](https://www.bloomberg.com/news/articles/2021-03-04/in-one-year-a-billion-tons-of-food-got-wasted-mostly-at-home)
+- [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+- [Is Netflix's Seaspiracy film right about fishing damaging oceans?](https://www.bbc.co.uk/news/56660823)
+- [The Web MiniDisc App: Bringing Back to Life the MiniDisc with WebUSB and WASM](https://stefano.brilli.me/blog/web-minidisc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
