@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Without Docker](https://fly.io/blog/docker-without-docker/)
 - ['Satan Shoes' to be recalled as Nike agrees to settle lawsuit](https://www.bbc.com/news/business-56684773)
-- [How a Carnivorous Mushroom Poisons Its Prey](https://www.scientificamerican.com/article/how-a-carnivorous-mushroom-poisons-its-prey/)
+- [How a carnivorous mushroom poisons its prey](https://www.scientificamerican.com/article/how-a-carnivorous-mushroom-poisons-its-prey/)
 - [Visceral fat shows strongest association with ICU need in patients with Covid-19](https://www.metabolismjournal.com/article/S0026-0495(20)30183-9/fulltext)
 - [CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU](https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html)
-- [Monkey MindPong](https://neuralink.com/blog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
