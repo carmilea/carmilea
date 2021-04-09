@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [A 900-Page Pre-Pantone Guide to Color from 1692: A Complete High-Resolution Scan](https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html)
-- [FreeBSD/arm64 becoming Tier 1 in FreeBSD 13](https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002029.html)
-- [Was the NE2000 That Bad?](http://www.os2museum.com/wp/was-the-ne2000-really-that-bad/)
+- [A Guide to Color from 1692](https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html)
+- [FreeBSD/arm64 becoming Tier 1 in FreeBSD 13](https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html)
+- [Was the NE2000 really that bad?](http://www.os2museum.com/wp/was-the-ne2000-really-that-bad/)
 - [Why uBlock Origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)
 <!-- BLOG-POST-LIST:END -->
 
