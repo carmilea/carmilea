@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [A 900-Page Pre-Pantone Guide to Color from 1692: A Complete High-Resolution Scan](https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html)
+- [FreeBSD/arm64 becoming Tier 1 in FreeBSD 13](https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002029.html)
 - [Was the NE2000 That Bad?](http://www.os2museum.com/wp/was-the-ne2000-really-that-bad/)
 - [Why uBlock Origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)
-- [The Expansion of the Universe](https://johncarlosbaez.wordpress.com/2021/04/09/the-expansion-of-the-universe/)
-- [Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs](https://github.com/DualCoder/vgpu_unlock)
-- [Spotify Continues to Remove Joe Rogan Episodes – 42 Shows Now Deleted](https://www.digitalmusicnews.com/2021/04/06/joe-rogan-spotify-removing-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
