@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bike Theft Map – Bikmo](https://bike-theft-map.bikmo.com/)
+- [W3C slaps down Google's proposal to treat multiple domains as same origin](https://www.theregister.com/2021/04/08/w3c_google_multple_domains/)
+- [Bike Theft Map](https://bike-theft-map.bikmo.com/)
 - [Jupiter (YC S19), hyperpersonalized grocery from 2050, hiring product-minded SWE](https://www.notion.so/jupiterhome/Full-Stack-Software-Engineer-Product-9997a862394d48e4b8db702b859141e2)
-- [Coq searches for alternative name](https://github.com/coq/coq/wiki/Alternative-names)
+- [Scalable, Resilient Brainf∗ck as a service](https://zserge.com/posts/bfaas/)
 - [Initial M1 support merged into Linux SoC tree](https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf)
-- [Hawking Hawking](https://www.math.columbia.edu/~woit/wordpress/?p=12235)
 <!-- BLOG-POST-LIST:END -->
 
 ---
