@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Buy and Hold” No More: The Resurgence of Active Trading](https://a16z.com/2021/03/29/active-trading/)
+- [The Kitten Programming Language](http://kittenlang.org/)
+- [Akon wants to run a Senegal city on cryptocurrency](https://qz.com/africa/1994122/akon-plans-to-run-a-senegal-city-on-akoin-cryptocurrency/)
 - [Mars Helicopter Flight Delayed to No Earlier Than April 14](https://mars.nasa.gov/technology/helicopter/status/291/mars-helicopter-flight-delayed-to-no-earlier-than-april-14/)
-- [[Follow Up] What happens after a bank closes all of your credit cards?](https://chadscira.com/post/6071ebdf008c1f872800483d/What-happens-after-a-bank-closes-all-of-your-credit-cards-#)
 - [Evaluating Modest SaaS Business Ideas](https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/)
-- [Flexport (YC W14) is hiring software engineers](https://www.flexport.com/careers/department/engineering)
-- [A reading list for new engineering managers](https://jacobian.org/2018/may/2/engmanager-reading-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
