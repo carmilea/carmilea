@@ -54,8 +54,8 @@
 - [Miso (YC W20) Is Hiring in Seoul, Korea](https://boards.greenhouse.io/miso)
 - [The patent troll that won a $308M jury trial against Apple](https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a)
 - [TheOldNet Browser Proxy](http://theoldnet.com/docs/httpproxy/index.html)
+- [Boeing Warns of Possible Electrical Issue on 737 Max Planes](https://www.npr.org/2021/04/09/985764608/boeing-warns-of-possible-electrical-issue-and-airlines-ground-some-737-max-plane?t=1618003981974)
 - [A Guide to Color from 1692](https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html)
-- [FreeBSD/arm64 becoming Tier 1 in FreeBSD 13](https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
