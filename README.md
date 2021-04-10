@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The rice of the sea: how a tiny grain could change the way humanity eats](https://www.theguardian.com/environment/2021/apr/09/sea-rice-eelgrass-marine-grain-chef-angel-leon-marsh-climate-crisis)
-- [Lifetime odds of death for selected causes](https://injuryfacts.nsc.org/all-injuries/preventable-death-overview/odds-of-dying/)
-- [Why did 11 days disappear in 1752?](https://www.augustachronicle.com/lifestyle/20190316/your-story-why-did-11-days-disappear-in-1752)
-- [Miso (YC W20) Is Hiring in Seoul, Korea](https://boards.greenhouse.io/miso)
-- [The patent troll that won a $308M jury trial against Apple](https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a)
+- [Odds of Dying](https://injuryfacts.nsc.org/all-injuries/preventable-death-overview/odds-of-dying/)
+- [Why 11 days disappeared in 1752](https://www.augustachronicle.com/lifestyle/20190316/your-story-why-did-11-days-disappear-in-1752)
+- [Dream – Tidy Web Framework for OCaml and ReasonML](https://aantron.github.io/dream/)
+- [Miso (YC S16) Is Hiring in Seoul, Korea](https://boards.greenhouse.io/miso)
 <!-- BLOG-POST-LIST:END -->
 
 ---
