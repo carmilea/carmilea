@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Everyone is still terrible at creating software at scale](https://margint.blog/2021/04/05/creating-software-at-scale/)
+- [SHOW HN:Python books.Free to read online or download](https://github.com/pamoroso/free-python-books)
 - [Etleap (YC W13) Is Hiring a Customer Success Manager](https://news.ycombinator.com/item?id=26759541)
 - [Why was cycling not included in the ancient Olympics? (2004) [pdf]](https://web.stanford.edu/~learnest/cyclops/olympics.pdf)
-- [A Ceph War Story](https://michael-prokop.at/blog/2021/04/09/a-ceph-war-story/)
-- [The rice of the sea: how a tiny grain could change the way humanity eats](https://www.theguardian.com/environment/2021/apr/09/sea-rice-eelgrass-marine-grain-chef-angel-leon-marsh-climate-crisis)
+- [The Product-Minded Software Engineer (2019)](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
