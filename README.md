@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Buy and Hold” No More: The Resurgence of Active Trading](https://a16z.com/2021/03/29/active-trading/)
+- [Brave disables Chromium FLoC features](https://github.com/brave/brave-core/pull/8468)
+- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
+- [One day, Larry Page decided to fire Google’s project managers. All of them](https://www.businessinsider.com/larry-page-the-untold-story-2014-4)
 - [The Kitten Programming Language](http://kittenlang.org/)
 - [Akon wants to run a Senegal city on cryptocurrency](https://qz.com/africa/1994122/akon-plans-to-run-a-senegal-city-on-akoin-cryptocurrency/)
-- [Mars Helicopter Flight Delayed to No Earlier Than April 14](https://mars.nasa.gov/technology/helicopter/status/291/mars-helicopter-flight-delayed-to-no-earlier-than-april-14/)
-- [Evaluating Modest SaaS Business Ideas](https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
