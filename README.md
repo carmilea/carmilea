@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Everyone is still terrible at creating software at scale](https://margint.blog/2021/04/05/creating-software-at-scale/)
-- [SHOW HN:Python books.Free to read online or download](https://github.com/pamoroso/free-python-books)
+- [Free Python Books](https://github.com/pamoroso/free-python-books)
 - [Etleap (YC W13) Is Hiring a Customer Success Manager](https://news.ycombinator.com/item?id=26759541)
 - [Why was cycling not included in the ancient Olympics? (2004) [pdf]](https://web.stanford.edu/~learnest/cyclops/olympics.pdf)
 - [The Product-Minded Software Engineer (2019)](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
