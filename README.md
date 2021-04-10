@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mining Bitcoin on the Game Boy](https://www.youtube.com/watch?v=4ckjr9x214c)
+- [Ahoyo – Build your personal brand or business online for free](https://ahoyo.to)
+- [Turkish police get their own attack helicopters](https://www.thedrive.com/the-war-zone/40122/turkish-cops-now-have-their-own-attack-helicopters)
+- [Ink 1.0 – Open-source scripting language for interactive narrative](https://www.inklestudios.com/2021/02/22/ink-version-1.html)
 - [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [NASA space copter ready for first Mars flight](https://phys.org/news/2021-04-nasa-space-copter-ready-mars.html)
-- [Facebook’s ad algorithms are still excluding women from seeing jobs](https://www.technologyreview.com/2021/04/09/1022217/facebook-ad-algorithm-sex-discrimination)
-- [Setting Up Starlink, SpaceX's Satellite Internet](https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet)
-- [Simhashing (Hopefully) Made Simple (2012)](https://ferd.ca/simhashing-hopefully-made-simple.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
