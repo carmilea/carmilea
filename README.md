@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google does not want you to tell your players about your donation page](https://agateau.com/2021/google-does-not-want-you-to-tell-your-players-about-your-donation-page/)
-- [Court rules grocery store’s inaccessible website isn’t an ADA violation](https://arstechnica.com/tech-policy/2021/04/appeals-court-rules-stores-dont-need-to-make-their-websites-accessible/)
-- [Mining Bitcoin on the Game Boy [video]](https://www.youtube.com/watch?v=4ckjr9x214c)
-- [Why cats won’t punish a stranger who harms you](https://www.bbc.com/future/article/20210318-why-cats-wont-punish-a-stranger-who-harms-you)
-- [Ahoyo – Build a single-page online presence](https://ahoyo.to)
+- [PSD is not my favourite file format](https://b3n.org/psd-is-not-my-favourite-file-format/)
+- [Are you a lazy programmer too?](https://www.lazyprogrammer.it/)
+- [Best practices for writing SQL queries](https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices)
+- [Valve accused of ignoring existing RCE vulnerability in Source games for 2 years](https://twitter.com/the_secret_club/status/1380868759129296900)
+- [Google is exploring a health record tool for patients](https://www.statnews.com/2021/04/09/google-health-records-app-care-studio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
