@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evaluating Modest SaaS Business Ideas](https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/)
+- [Against Alcohol](https://fergus-mccullough.com/index.php/2021/04/09/against-alcohol/)
+- [Things I was asked to do while job hunting](https://www.kylenazario.com/2021/04/10/job-hunting-fun/)
 - [Flexport is hiring software engineers to get global trade flowing smoothly again](https://www.flexport.com/careers/department/engineering)
-- [India protests US Navy ship’s transit through its waters without consent](https://www.scmp.com/news/asia/south-asia/article/3129050/india-protests-us-navy-ships-transit-through-its-waters)
-- [PSD is not my favourite file format](https://b3n.org/psd-is-not-my-favourite-file-format/)
-- [Are you a lazy programmer?](https://www.lazyprogrammer.it/)
-- [Best practices for writing SQL queries](https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices)
+- [A reading list for new engineering managers](https://jacobian.org/2018/may/2/engmanager-reading-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
