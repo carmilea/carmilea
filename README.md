@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars Helicopter Flight Delayed to No Earlier Than April 14](https://mars.nasa.gov/technology/helicopter/status/291/mars-helicopter-flight-delayed-to-no-earlier-than-april-14/)
+- [[Follow Up] What happens after a bank closes all of your credit cards?](https://chadscira.com/post/6071ebdf008c1f872800483d/What-happens-after-a-bank-closes-all-of-your-credit-cards-#)
 - [Evaluating Modest SaaS Business Ideas](https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/)
-- [Against Alcohol](https://fergus-mccullough.com/index.php/2021/04/09/against-alcohol/)
-- [Things I was asked to do while job hunting](https://www.kylenazario.com/2021/04/10/job-hunting-fun/)
-- [Flexport is hiring software engineers to get global trade flowing smoothly again](https://www.flexport.com/careers/department/engineering)
+- [Flexport (YC W14) is hiring software engineers](https://www.flexport.com/careers/department/engineering)
 - [A reading list for new engineering managers](https://jacobian.org/2018/may/2/engmanager-reading-list/)
 <!-- BLOG-POST-LIST:END -->
 
