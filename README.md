@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Far-Right Extremist Allegedly Plotted to Blow Up Amazon Data Centers](https://www.wired.com/story/far-right-extremist-allegedly-plotted-blow-up-amazon-data-centers/)
+- [Why did 11 days disappear in 1752?](https://www.augustachronicle.com/lifestyle/20190316/your-story-why-did-11-days-disappear-in-1752)
 - [Miso (YC W20) Is Hiring in Seoul, Korea](https://boards.greenhouse.io/miso)
 - [The patent troll that won a $308M jury trial against Apple](https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a)
 - [TheOldNet Browser Proxy](http://theoldnet.com/docs/httpproxy/index.html)
-- [Boeing Warns of Possible Electrical Issue on 737 Max Planes](https://www.npr.org/2021/04/09/985764608/boeing-warns-of-possible-electrical-issue-and-airlines-ground-some-737-max-plane?t=1618003981974)
-- [A Guide to Color from 1692](https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
