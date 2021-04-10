@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: For those who use Chrome, why do you?](https://news.ycombinator.com/item?id=26765493)
+- [Towards the Science of Essential Decentralised Infrastructures](https://dl.acm.org/doi/abs/10.1145/3428662.3429744)
+- [I Made a Mobile App for My Significant Other (and She Won't Use It)](https://jerseyfonseca.com/blogs/wewatch)
 - [Brave disables Chromium FLoC features](https://github.com/brave/brave-core/pull/8468)
 - [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
-- [One day, Larry Page decided to fire Google’s project managers. All of them](https://www.businessinsider.com/larry-page-the-untold-story-2014-4)
-- [The Kitten Programming Language](http://kittenlang.org/)
-- [Akon wants to run a Senegal city on cryptocurrency](https://qz.com/africa/1994122/akon-plans-to-run-a-senegal-city-on-akoin-cryptocurrency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
