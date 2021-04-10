@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport is hiring software engineers to get global trade flowing smoothly again](https://www.flexport.com/careers/department/engineering)
+- [India protests US Navy ship’s transit through its waters without consent](https://www.scmp.com/news/asia/south-asia/article/3129050/india-protests-us-navy-ships-transit-through-its-waters)
 - [PSD is not my favourite file format](https://b3n.org/psd-is-not-my-favourite-file-format/)
-- [Are you a lazy programmer too?](https://www.lazyprogrammer.it/)
+- [Are you a lazy programmer?](https://www.lazyprogrammer.it/)
 - [Best practices for writing SQL queries](https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices)
-- [Valve accused of ignoring existing RCE vulnerability in Source games for 2 years](https://twitter.com/the_secret_club/status/1380868759129296900)
-- [Google is exploring a health record tool for patients](https://www.statnews.com/2021/04/09/google-health-records-app-care-studio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
