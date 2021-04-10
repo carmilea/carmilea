@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: For those who use Chrome, why do you?](https://news.ycombinator.com/item?id=26765493)
+- [Ishango Bone](https://en.wikipedia.org/wiki/Ishango_bone)
 - [Towards the Science of Essential Decentralised Infrastructures](https://dl.acm.org/doi/abs/10.1145/3428662.3429744)
-- [I Made a Mobile App for My Significant Other (and She Won't Use It)](https://jerseyfonseca.com/blogs/wewatch)
+- [No password required: Mobile carrier exposes data for millions of accounts](https://arstechnica.com/information-technology/2021/04/no-password-required-mobile-carrier-exposes-data-for-millions-of-accounts/)
+- [I made a mobile app for my significant other and she won't use it](https://jerseyfonseca.com/blogs/wewatch)
 - [Brave disables Chromium FLoC features](https://github.com/brave/brave-core/pull/8468)
-- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
