@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mining Bitcoin on the Game Boy](https://www.youtube.com/watch?v=4ckjr9x214c)
-- [Ahoyo – Build your personal brand or business online for free](https://ahoyo.to)
-- [Turkish police get their own attack helicopters](https://www.thedrive.com/the-war-zone/40122/turkish-cops-now-have-their-own-attack-helicopters)
-- [Ink 1.0 – Open-source scripting language for interactive narrative](https://www.inklestudios.com/2021/02/22/ink-version-1.html)
-- [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Google does not want you to tell your players about your donation page](https://agateau.com/2021/google-does-not-want-you-to-tell-your-players-about-your-donation-page/)
+- [Court rules grocery store’s inaccessible website isn’t an ADA violation](https://arstechnica.com/tech-policy/2021/04/appeals-court-rules-stores-dont-need-to-make-their-websites-accessible/)
+- [Mining Bitcoin on the Game Boy [video]](https://www.youtube.com/watch?v=4ckjr9x214c)
+- [Why cats won’t punish a stranger who harms you](https://www.bbc.com/future/article/20210318-why-cats-wont-punish-a-stranger-who-harms-you)
+- [Ahoyo – Build a single-page online presence](https://ahoyo.to)
 <!-- BLOG-POST-LIST:END -->
 
 ---
