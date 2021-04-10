@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Etleap (YC W13) Is Hiring a Customer Success Manager](https://news.ycombinator.com/item?id=26759541)
+- [Why was cycling not included in the ancient Olympics? (2004) [pdf]](https://web.stanford.edu/~learnest/cyclops/olympics.pdf)
+- [A Ceph War Story](https://michael-prokop.at/blog/2021/04/09/a-ceph-war-story/)
 - [The rice of the sea: how a tiny grain could change the way humanity eats](https://www.theguardian.com/environment/2021/apr/09/sea-rice-eelgrass-marine-grain-chef-angel-leon-marsh-climate-crisis)
 - [Odds of Dying](https://injuryfacts.nsc.org/all-injuries/preventable-death-overview/odds-of-dying/)
-- [Why 11 days disappeared in 1752](https://www.augustachronicle.com/lifestyle/20190316/your-story-why-did-11-days-disappear-in-1752)
-- [Dream – Tidy Web Framework for OCaml and ReasonML](https://aantron.github.io/dream/)
-- [Miso (YC S16) Is Hiring in Seoul, Korea](https://boards.greenhouse.io/miso)
 <!-- BLOG-POST-LIST:END -->
 
 ---
