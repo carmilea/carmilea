@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Everyone is still terrible at creating software at scale](https://margint.blog/2021/04/05/creating-software-at-scale/)
-- [Free Python Books](https://github.com/pamoroso/free-python-books)
-- [Etleap (YC W13) Is Hiring a Customer Success Manager](https://news.ycombinator.com/item?id=26759541)
-- [Why was cycling not included in the ancient Olympics? (2004) [pdf]](https://web.stanford.edu/~learnest/cyclops/olympics.pdf)
-- [The Product-Minded Software Engineer (2019)](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
+- [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [NASA space copter ready for first Mars flight](https://phys.org/news/2021-04-nasa-space-copter-ready-mars.html)
+- [Facebook’s ad algorithms are still excluding women from seeing jobs](https://www.technologyreview.com/2021/04/09/1022217/facebook-ad-algorithm-sex-discrimination)
+- [Setting Up Starlink, SpaceX's Satellite Internet](https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet)
+- [Simhashing (Hopefully) Made Simple (2012)](https://ferd.ca/simhashing-hopefully-made-simple.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
