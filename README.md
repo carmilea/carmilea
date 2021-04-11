@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Photopea, the free alternative to Photoshop, generates $250k/year from ads](https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/g18ush0/)
-- [Clubhouse data leak: 1.3M user records leaked online for free](https://cybernews.com/security/clubhouse-data-leak-1-3-million-user-records-leaked-for-free-online/)
-- [Is It Pokemon or Big Data?](http://pixelastic.github.io/pokemonorbigdata/)
-- [The Economic Consequences of Increasing Sleep Among the Urban Poor](https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjab013/6217436?redirectedFrom=fulltext)
-- [Show HN: UML model and code examples of GoF patterns in Crystal](https://github.com/takaakit/design-pattern-examples-in-crystal)
+- [Chronology of the Liberation](https://www.buchenwald.de/en/399/)
+- [Pickle (YC W21) Is Hiring](https://www.workatastartup.com/jobs/43001)
+- [Ask HN: I feel my career is at a dead end. Any advice on what could I do?](https://news.ycombinator.com/item?id=26769638)
+- [Obsolete German Units of Measurement](https://en.wikipedia.org/wiki/Obsolete_German_units_of_measurement)
+- [The Shape of Rome](https://www.exurbe.com/the-shape-of-rome/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
