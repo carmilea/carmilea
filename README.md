@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Exercise elicits superior metabolic effects in the afternoon compared to morning [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7757369/pdf/PHY2-8-e14669.pdf)
+- [Min wage would be $44 / hour if it had grown at same rate as Wall Street bonuses](https://www.businessinsider.in/politics/world/news/the-minimum-wage-would-be-44-per-hour-if-it-had-grown-at-the-same-rate-as-wall-street-bonuses/articleshow/81751829.cms)
+- [The Economic Consequences of Increasing Sleep Among the Urban Poor](https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjab013/6217436?redirectedFrom=fulltext)
+- [South African variant can break through Pfizer vaccine, Israeli study says](https://www.reuters.com/article/us-health-coronavirus-israel-study/south-african-variant-can-break-through-pfizer-vaccine-israeli-study-says-idUSKBN2BX0JZ)
+- [Using PyTorch and NumPy? You're making a mistake](https://tanelp.github.io/posts/a-bug-that-plagues-thousands-of-open-source-ml-projects/)
 - [Google used past bid data to boost win rate in advertising auctions](https://www.wsj.com/articles/googles-secret-project-bernanke-revealed-in-texas-antitrust-case-11618097760)
-- [PrettyZoo: Pretty Nice Zookeeper GUI](https://github.com/vran-dev/PrettyZoo)
-- [The Gaslighting of Science](https://zeynep.substack.com/p/the-gaslighting-of-science)
-- [Facebook had ample warning about privacy problems with “contact import” feature](https://www.wired.com/story/facebook-data-leak-contact-import-flaws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
