@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin's vast energy use could burst its bubble](https://www.bbc.co.uk/news/science-environment-56215787)
+- [Silicon Valley Is Flooding into a Reluctant Austin](https://www.bloomberg.com/news/articles/2021-04-08/austin-texas-ready-or-not-becomes-hot-spot-for-silicon-valley-transplants)
+- [A startup offering payment implants](https://walletmor.com/)
+- [Japan decides to release water from Fukushima plant into sea](https://asia.nikkei.com/Politics/Japan-decides-to-release-water-from-Fukushima-plant-into-sea)
 - [Seer (YC W21) Is Hiring a Front End Software Engineer](https://www.ycombinator.com/companies/seer/jobs/9lM4st8-software-engineer-frontend)
-- [The Black-Scholes formula explained with TSLA example](https://www.cantorsparadise.com/the-black-scholes-formula-explained-9e05b7865d8a)
-- [0.1 and 0.2 Returns 0.30000000000000004 (2018)](https://qntm.org/notpointthree)
-- [Stop Using JPA/Hibernate](https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/)
-- [MiSTer, an open-source FPGA gaming project](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 <!-- BLOG-POST-LIST:END -->
 
 ---
