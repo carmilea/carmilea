@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ishango Bone](https://en.wikipedia.org/wiki/Ishango_bone)
+- [Alibaba slapped with record $2.7B antitrust fine](https://www.zdnet.com/article/alibaba-slapped-with-record-2-7b-antitrust-fine/)
 - [Towards the Science of Essential Decentralised Infrastructures](https://dl.acm.org/doi/abs/10.1145/3428662.3429744)
-- [No password required: Mobile carrier exposes data for millions of accounts](https://arstechnica.com/information-technology/2021/04/no-password-required-mobile-carrier-exposes-data-for-millions-of-accounts/)
-- [I made a mobile app for my significant other and she won't use it](https://jerseyfonseca.com/blogs/wewatch)
 - [Brave disables Chromium FLoC features](https://github.com/brave/brave-core/pull/8468)
+- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
+- [Show HN: Remove background from image using machine learning](https://removebackground.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
