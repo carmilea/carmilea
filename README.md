@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyber Attack on Iran's Nuclear Facility](https://www.bbc.com/news/world-middle-east-56708778)
-- [OneWeb, SpaceX satellites dodged a potential collision in orbit](https://www.theverge.com/2021/4/9/22374262/oneweb-spacex-satellites-dodged-potential-collision-orbit-space-force)
-- [The Ponzi Career](https://www.drorpoleg.com/the-ponzi-career/)
-- [Making Librem 5 Apps](https://puri.sm/posts/the-simplicity-of-making-librem-5-apps/)
-- [Why do so many companies incorporate in Delaware?](https://thehustle.co/why-delaware-is-the-sexiest-place-in-america-to-incorporate-a-company/)
+- [Replit (YC W18) Is Hiring Designers and Engineers to Make Better Devtools](http://Replit.com/careers)
+- [EU Parliament Wants Pirated Sports Streams Taken Down Within 30 Minutes](https://torrentfreak.com/eu-parliament-wants-pirated-sports-streams-taken-down-within-30-minutes-210409/)
+- [Cree#, a morphemic programming language with Cree keywords and concepts](https://esoteric.codes/blog/jon-corbett)
+- [Gradle 7.0 Released](https://docs.gradle.org/7.0/release-notes.html)
+- [The Net interprets privacy as damage and routes around it](https://news.ycombinator.com/item?id=26771288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
