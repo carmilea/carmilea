@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exercise elicits superior metabolic effects in the afternoon compared to morning [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7757369/pdf/PHY2-8-e14669.pdf)
 - [Google used past bid data to boost win rate in advertising auctions](https://www.wsj.com/articles/googles-secret-project-bernanke-revealed-in-texas-antitrust-case-11618097760)
 - [PrettyZoo: Pretty Nice Zookeeper GUI](https://github.com/vran-dev/PrettyZoo)
+- [The Gaslighting of Science](https://zeynep.substack.com/p/the-gaslighting-of-science)
 - [Facebook Had Years to Fix the Flaw That Leaked 500M Users’ Data](https://www.wired.com/story/facebook-data-leak-contact-import-flaws/)
-- [Show HN: Squirrelbyte – a SQLite-based JSON document server](https://squirrelbyte.com/)
-- [Alibaba slapped with record $2.7B antitrust fine](https://www.zdnet.com/article/alibaba-slapped-with-record-2-7b-antitrust-fine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
