@@ -55,7 +55,7 @@
 - [Google used past bid data to boost win rate in advertising auctions](https://www.wsj.com/articles/googles-secret-project-bernanke-revealed-in-texas-antitrust-case-11618097760)
 - [PrettyZoo: Pretty Nice Zookeeper GUI](https://github.com/vran-dev/PrettyZoo)
 - [The Gaslighting of Science](https://zeynep.substack.com/p/the-gaslighting-of-science)
-- [Facebook Had Years to Fix the Flaw That Leaked 500M Users’ Data](https://www.wired.com/story/facebook-data-leak-contact-import-flaws/)
+- [Facebook had ample warning about privacy problems with “contact import” feature](https://www.wired.com/story/facebook-data-leak-contact-import-flaws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
