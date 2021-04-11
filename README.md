@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [0.1 and 0.2 Returns 0.30000000000000004](https://qntm.org/notpointthree)
-- [MiSTer, an open source FPGA gaming project](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
-- [Bloom filters explained in a single image](https://exampl.io/bloom-filters/)
-- [The Nuclear Lightbulb – A Brief Introduction](https://beyondnerva.com/2020/03/21/the-nuclear-lightbulb-a-brief-introduction/)
-- [Replit (YC W18) Is Hiring Designers and Engineers to Make Better Devtools](http://Replit.com/careers)
+- [Seer (YC W21) Is Hiring a Front End Software Engineer](https://www.ycombinator.com/companies/seer/jobs/9lM4st8-software-engineer-frontend)
+- [The Black-Scholes formula explained with TSLA example](https://www.cantorsparadise.com/the-black-scholes-formula-explained-9e05b7865d8a)
+- [0.1 and 0.2 Returns 0.30000000000000004 (2018)](https://qntm.org/notpointthree)
+- [Stop Using JPA/Hibernate](https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/)
+- [MiSTer, an open-source FPGA gaming project](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 <!-- BLOG-POST-LIST:END -->
 
 ---
