@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Chronology of the Liberation](https://www.buchenwald.de/en/399/)
 - [Pickle (YC W21) Is Hiring](https://www.workatastartup.com/jobs/43001)
-- [Ask HN: I feel my career is at a dead end. Any advice on what could I do?](https://news.ycombinator.com/item?id=26769638)
 - [Obsolete German Units of Measurement](https://en.wikipedia.org/wiki/Obsolete_German_units_of_measurement)
-- [The Shape of Rome](https://www.exurbe.com/the-shape-of-rome/)
+- [The Shape of Rome (2013)](https://www.exurbe.com/the-shape-of-rome/)
+- [Surgeons Perform First Human Tracheal Transplant Surgery](https://www.mountsinai.org/about/newsroom/2021/mount-sinai-surgeons-perform-first-human-tracheal-transplant-surgery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
