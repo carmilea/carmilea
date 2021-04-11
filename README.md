@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Big money bought the forests. Small timber communities are paying the price](https://projects.oregonlive.com/timber/)
-- [When Google's Fancy Lawyers Screw Up and Jeopardize Sheryl Sandberg](https://mattstoller.substack.com/p/when-googles-fancy-lawyers-screw)
+- [The Ponzi Career](https://www.drorpoleg.com/the-ponzi-career/)
+- [Making Librem 5 Apps](https://puri.sm/posts/the-simplicity-of-making-librem-5-apps/)
+- [Why do so many companies incorporate in Delaware?](https://thehustle.co/why-delaware-is-the-sexiest-place-in-america-to-incorporate-a-company/)
+- [Google’s lawyer accidentally made a sensitive document public](https://mattstoller.substack.com/p/when-googles-fancy-lawyers-screw)
 - [Chronology of the Liberation](https://www.buchenwald.de/en/399/)
-- [Pickle (YC W21) Is Hiring](https://www.workatastartup.com/jobs/43001)
-- [The Shape of Rome (2013)](https://www.exurbe.com/the-shape-of-rome/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
