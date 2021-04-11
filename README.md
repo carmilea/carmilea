@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin's vast energy use could burst its bubble](https://www.bbc.co.uk/news/science-environment-56215787)
+- [Reflections on One Year as the CEO of Mozilla](https://blog.mozilla.org/blog/2021/04/08/reflections-on-one-year-as-the-ceo-of-mozilla/)
 - [Silicon Valley Is Flooding into a Reluctant Austin](https://www.bloomberg.com/news/articles/2021-04-08/austin-texas-ready-or-not-becomes-hot-spot-for-silicon-valley-transplants)
-- [A startup offering payment implants](https://walletmor.com/)
+- [Walletmor Payment Implant](https://walletmor.com/)
 - [Japan decides to release water from Fukushima plant into sea](https://asia.nikkei.com/Politics/Japan-decides-to-release-water-from-Fukushima-plant-into-sea)
 - [Seer (YC W21) Is Hiring a Front End Software Engineer](https://www.ycombinator.com/companies/seer/jobs/9lM4st8-software-engineer-frontend)
 <!-- BLOG-POST-LIST:END -->
