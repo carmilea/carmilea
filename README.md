@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google used past bid data to boost win rate in advertising auctions](https://www.wsj.com/articles/googles-secret-project-bernanke-revealed-in-texas-antitrust-case-11618097760)
+- [PrettyZoo: Pretty Nice Zookeeper GUI](https://github.com/vran-dev/PrettyZoo)
+- [Facebook Had Years to Fix the Flaw That Leaked 500M Users’ Data](https://www.wired.com/story/facebook-data-leak-contact-import-flaws/)
+- [Show HN: Squirrelbyte – a SQLite-based JSON document server](https://squirrelbyte.com/)
 - [Alibaba slapped with record $2.7B antitrust fine](https://www.zdnet.com/article/alibaba-slapped-with-record-2-7b-antitrust-fine/)
-- [Towards the Science of Essential Decentralised Infrastructures](https://dl.acm.org/doi/abs/10.1145/3428662.3429744)
-- [Brave disables Chromium FLoC features](https://github.com/brave/brave-core/pull/8468)
-- [AtoB (YC S20) – Stripe for transportation – is hiring founding team engineers](https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf)
-- [Show HN: Remove background from image using machine learning](https://removebackground.app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
