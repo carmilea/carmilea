@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [0.1 and 0.2 Returns 0.30000000000000004](https://qntm.org/notpointthree)
 - [MiSTer, an open source FPGA gaming project](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 - [Bloom filters explained in a single image](https://exampl.io/bloom-filters/)
 - [The Nuclear Lightbulb – A Brief Introduction](https://beyondnerva.com/2020/03/21/the-nuclear-lightbulb-a-brief-introduction/)
 - [Replit (YC W18) Is Hiring Designers and Engineers to Make Better Devtools](http://Replit.com/careers)
-- [Using brain interfaces to learn about learning](https://www.axios.com/brain-computer-interfaces-learning-b9fbc05b-5d51-4c8a-bfc5-6cfc1eb420eb.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
