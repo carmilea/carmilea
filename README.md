@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bonsai (YC W16) Hiring a Head of Product](https://angel.co/company/bonsai/jobs/1264053-product-manager-lead)
+- [Tesla hikes solar roof price on contracts signed over a year ago](https://electrek.co/2021/04/11/tesla-hikes-solar-roof-price-on-contracts-signed-over-a-year-ago/)
 - [Creating a minimalist blog with Jekyll Now](https://vdf.dev/blog/Creating-minimalist-blog-with-Jekyll-now/)
 - [An environmental disaster was uncovered off California after 70 years](https://www.cbsnews.com/news/california-ddt-environmental-disaster-sea-lions/)
 - [SUBLEQ and DawnOS (2017)](https://esoteric.codes/blog/a-programming-language-with-only-one-command-and)
-- [Does the Universe Have Higher Dimensions? Part 1](https://backreaction.blogspot.com/2021/04/does-universe-have-higher-dimensions.html)
-- [Greywing (YC W21) Is Hiring to build a new interface for shipping](https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
