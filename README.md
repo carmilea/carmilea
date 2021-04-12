@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lumi (YC W15) is reinventing manufacturing – work anywhere](https://www.lumi.com/jobs)
+- [The global campaign to make environmental destruction an international crime](https://www.politico.eu/article/ecocide-environmental-crime/)
+- [Yuri Gagarin: Sixty years since the first man went into space [video]](https://www.bbc.co.uk/news/av/science-environment-56690949)
 - [Mugo, a toy compiler for a subset of Go that can compile itself](https://benhoyt.com/writings/mugo/)
 - [Facebook loophole that lets world leaders deceive and harass their citizens](https://www.theguardian.com/technology/2021/apr/12/facebook-loophole-state-backed-manipulation)
-- [X-Seed 4000](https://en.wikipedia.org/wiki/X-Seed_4000)
-- [Retool – Fixing product debt without PMs](https://www.supercalifragilistic.co/p/retool)
-- [What was the point of [ “x$var” = “xval” ]?](https://www.vidarholen.net/contents/blog/?p=1035)
 <!-- BLOG-POST-LIST:END -->
 
 ---
