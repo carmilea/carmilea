@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google reportedly ran secret ‘Project Bernanke’ to boost its ad-buying system](https://www.theverge.com/2021/4/11/22378296/google-secret-project-bernanke-ad-buying-competitors-texas)
+- [Stuxnet sibling theory surges after Iran says nuke facility shut down](https://www.theregister.com/2021/04/12/iran_cyber_attack_theory/)
 - [Bonsai (YC W16) Hiring a Head of Product](https://angel.co/company/bonsai/jobs/1264053-product-manager-lead)
 - [Tesla hikes solar roof price on contracts signed over a year ago](https://electrek.co/2021/04/11/tesla-hikes-solar-roof-price-on-contracts-signed-over-a-year-ago/)
-- [Creating a minimalist blog with Jekyll Now](https://vdf.dev/blog/Creating-minimalist-blog-with-Jekyll-now/)
-- [An environmental disaster was uncovered off California after 70 years](https://www.cbsnews.com/news/california-ddt-environmental-disaster-sea-lions/)
-- [SUBLEQ and DawnOS (2017)](https://esoteric.codes/blog/a-programming-language-with-only-one-command-and)
+- [TorBox v.0.4.0](https://www.torbox.ch/?p=2027)
 <!-- BLOG-POST-LIST:END -->
 
 ---
