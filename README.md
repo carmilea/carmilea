@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantum computing’s reproducibility crisis: Majorana fermions](https://www.nature.com/articles/d41586-021-00954-8)
+- [OpenUnit (YC W20) Is Hiring a Senior Ruby on Rails Engineer](https://www.openunit.com/jobs/senior-software-engineer)
+- [CEO of a top Bitcoin exchange warns: crackdown on cryptocurrencies may be coming](https://www.cnbc.com/2021/04/12/bitcoin-kraken-ceo-jesse-powell-warns-of-cryptocurrency-crackdown.html)
 - [Nvidia Unveils Grace: A High-Performance Arm CPU for Use in Big AI Systems](https://www.anandtech.com/show/16610/nvidia-unveils-grace-a-highperformance-arm-server-cpu-for-use-in-ai-systems)
 - [NVIDIA announces GRACE CPU](https://videocardz.com/newz/nvidia-announces-grace-cpu-for-giant-scale-ai-and-hpc)
-- [How People Get Rich Now](http://paulgraham.com/richnow.html)
-- [Ask HN: What under-the-radar technology are you excited about?](https://news.ycombinator.com/item?id=26780866)
-- [AWS releases forked Elasticsearch code. Announces new name: OpenSearch](https://aws.amazon.com/blogs/opensource/introducing-opensearch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
