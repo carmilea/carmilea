@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflections on One Year as the CEO of Mozilla](https://blog.mozilla.org/blog/2021/04/08/reflections-on-one-year-as-the-ceo-of-mozilla/)
-- [Silicon Valley Is Flooding into a Reluctant Austin](https://www.bloomberg.com/news/articles/2021-04-08/austin-texas-ready-or-not-becomes-hot-spot-for-silicon-valley-transplants)
-- [Walletmor Payment Implant](https://walletmor.com/)
-- [Japan decides to release water from Fukushima plant into sea](https://asia.nikkei.com/Politics/Japan-decides-to-release-water-from-Fukushima-plant-into-sea)
+- [MLJ.jl: A Julia package for composable machine learning](https://alan-turing-institute.github.io/MLJ.jl/dev/#Key-features)
 - [Seer (YC W21) Is Hiring a Front End Software Engineer](https://www.ycombinator.com/companies/seer/jobs/9lM4st8-software-engineer-frontend)
+- [Linux, macOS, and Windows running simultaneously on a first gen Core i5](https://lukesempire.com/2021/04/11/vms)
+- [Show HN: An encoding of the UK's self-isolation rules in Prolog](https://github.com/jamespwilliams/prolog-isolation-checker)
+- [Problems with JPA/Hibernate](https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
