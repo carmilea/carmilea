@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An environmental disaster was uncovered off California after 70 years](https://www.cbsnews.com/news/california-ddt-environmental-disaster-sea-lions/)
 - [Spectrum upset about me using the upload they sold me](https://www.reddit.com/r/DataHoarder/comments/moqskr/spectrum_upset_about_me_using_the_upload_they/)
 - [SUBLEQ and DawnOS (2017)](https://esoteric.codes/blog/a-programming-language-with-only-one-command-and)
-- [Does the Universe Have Higher Dimensions? Part 1](https://backreaction.blogspot.com/2021/04/does-universe-have-higher-dimensions.html)
 - [Greywing (YC W21) Is Hiring to build a new interface for shipping](https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead)
 - [MLJ.jl: A Julia package for composable machine learning](https://alan-turing-institute.github.io/MLJ.jl/dev/#Key-features)
 <!-- BLOG-POST-LIST:END -->
