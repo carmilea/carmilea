@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel: Advances in silicon photonics can break the I/O “power wall”](https://venturebeat.com/2021/04/12/intel-advances-in-silicon-photonics-can-break-the-i-o-power-wall-with-less-energy-higher-throughput/)
+- [I am stepping down from Perl Steering Council and Core](https://perl.topicbox.com/groups/perl-core/T7a4f1bf9e069641f)
 - [Cloudflare Pages is now Generally Available](https://blog.cloudflare.com/cloudflare-pages-ga/)
+- [Why We’re Freaking Out About Substack](https://www.nytimes.com/2021/04/11/business/media/substack-newsletter-competition.html)
 - [Microsoft buys Nuance for nearly $20B](https://www.axios.com/microsoft-readies-deal-frenzy-bbc807a2-fd5b-48a7-99d1-cf06d0a41547.html)
-- [Microsoft Acquires Nuance Communications](https://news.microsoft.com/2021/04/12/microsoft-accelerates-industry-cloud-strategy-for-healthcare-with-the-acquisition-of-nuance/)
-- [Lumi (YC W15) is reinventing manufacturing – work anywhere](https://www.lumi.com/jobs)
-- [Confessions of an Overnight Millionaire](https://nymag.com/intelligencer/2021/04/confessions-overnight-tech-millionaire.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
