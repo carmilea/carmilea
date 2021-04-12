@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vegan diets are adding to malnutrition in wealthy countries](https://theconversation.com/vegan-diets-are-adding-to-malnutrition-in-wealthy-countries-107555)
+- [NHS Covid-19 app update blocked for breaking Apple and Google's rules](https://www.bbc.co.uk/news/technology-56713017)
+- [Facebook loophole that lets world leaders deceive and harass their citizens](https://www.theguardian.com/technology/2021/apr/12/facebook-loophole-state-backed-manipulation)
 - [X-Seed 4000](https://en.wikipedia.org/wiki/X-Seed_4000)
 - [Retool – Fixing product debt without PMs](https://www.supercalifragilistic.co/p/retool)
-- [Äike – First e-scooter developed and assembled in Europe](https://rideaike.com/)
-- [What was the point of [ “x$var” = “xval” ]?](https://www.vidarholen.net/contents/blog/?p=1035)
+- [Google reportedly ran secret ‘Project Bernanke’ to boost its ad-buying system](https://www.theverge.com/2021/4/11/22378296/google-secret-project-bernanke-ad-buying-competitors-texas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
