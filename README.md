@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Human Taste Buds Can Tell the Difference Between Normal and 'Heavy' Water](https://www.sciencealert.com/there-s-one-kind-of-water-that-doesn-t-taste-like-water-scientists-confirm)
-- [Windows 10 taskbar is now pushing Microsoft Edge web apps](https://www.windowslatest.com/2021/04/11/windows-10-taskbar-is-now-pushing-microsoft-edge-web-apps/)
-- [Amp: Vi-like terminal editor written in Rust](https://www.amp.rs/)
-- [Use Console.log() Like a Pro](https://markodenic.com/use-console-log-like-a-pro/)
-- [Non-Fungible Taylor Swift](https://stratechery.com/2021/non-fungible-taylor-swift/)
+- [Nvidia Unveils Grace: A High-Performance Arm CPU for Use in Big AI Systems](https://www.anandtech.com/show/16610/nvidia-unveils-grace-a-highperformance-arm-server-cpu-for-use-in-ai-systems)
+- [NVIDIA announces GRACE CPU](https://videocardz.com/newz/nvidia-announces-grace-cpu-for-giant-scale-ai-and-hpc)
+- [How People Get Rich Now](http://paulgraham.com/richnow.html)
+- [Ask HN: What under-the-radar technology are you excited about?](https://news.ycombinator.com/item?id=26780866)
+- [AWS releases forked Elasticsearch code. Announces new name: OpenSearch](https://aws.amazon.com/blogs/opensource/introducing-opensearch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
