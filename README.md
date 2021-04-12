@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google reportedly ran secret ‘Project Bernanke’ to boost its ad-buying system](https://www.theverge.com/2021/4/11/22378296/google-secret-project-bernanke-ad-buying-competitors-texas)
-- [Stuxnet sibling theory surges after Iran says nuke facility shut down](https://www.theregister.com/2021/04/12/iran_cyber_attack_theory/)
-- [Bonsai (YC W16) Hiring a Head of Product](https://angel.co/company/bonsai/jobs/1264053-product-manager-lead)
-- [Tesla hikes solar roof price on contracts signed over a year ago](https://electrek.co/2021/04/11/tesla-hikes-solar-roof-price-on-contracts-signed-over-a-year-ago/)
-- [TorBox v.0.4.0](https://www.torbox.ch/?p=2027)
+- [Vegan diets are adding to malnutrition in wealthy countries](https://theconversation.com/vegan-diets-are-adding-to-malnutrition-in-wealthy-countries-107555)
+- [X-Seed 4000](https://en.wikipedia.org/wiki/X-Seed_4000)
+- [Retool – Fixing product debt without PMs](https://www.supercalifragilistic.co/p/retool)
+- [Äike – First e-scooter developed and assembled in Europe](https://rideaike.com/)
+- [What was the point of [ “x$var” = “xval” ]?](https://www.vidarholen.net/contents/blog/?p=1035)
 <!-- BLOG-POST-LIST:END -->
 
 ---
