@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Pages is now Generally Available](https://blog.cloudflare.com/cloudflare-pages-ga/)
+- [Microsoft buys Nuance for nearly $20B](https://www.axios.com/microsoft-readies-deal-frenzy-bbc807a2-fd5b-48a7-99d1-cf06d0a41547.html)
+- [Microsoft Acquires Nuance Communications](https://news.microsoft.com/2021/04/12/microsoft-accelerates-industry-cloud-strategy-for-healthcare-with-the-acquisition-of-nuance/)
 - [Lumi (YC W15) is reinventing manufacturing – work anywhere](https://www.lumi.com/jobs)
-- [The global campaign to make environmental destruction an international crime](https://www.politico.eu/article/ecocide-environmental-crime/)
-- [Yuri Gagarin: Sixty years since the first man went into space [video]](https://www.bbc.co.uk/news/av/science-environment-56690949)
-- [Mugo, a toy compiler for a subset of Go that can compile itself](https://benhoyt.com/writings/mugo/)
-- [Facebook loophole that lets world leaders deceive and harass their citizens](https://www.theguardian.com/technology/2021/apr/12/facebook-loophole-state-backed-manipulation)
+- [Confessions of an Overnight Millionaire](https://nymag.com/intelligencer/2021/04/confessions-overnight-tech-millionaire.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
