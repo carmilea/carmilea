@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nadine Strossen and Hannah Wolfman-Jones Rebut Accusations Against Stallman](https://stallmansupport.org/nadine-strossen-hannah-wolfman-rebut-accusations-against-stallman.html)
 - [2017 CEO-to-worker compensation ratio of 312-to-1 compared to 58-to-1 in 1989](https://www.theguardian.com/business/2018/aug/16/ceo-versus-worker-wage-american-companies-pay-gap-study-2018)
+- [Every Mathematical Theory Is Held Inside a Physical Substrate](https://nav.al/substrate)
 - [Establishing Twitter's Presence in Africa](https://blog.twitter.com/en_us/topics/company/2021/establishing-twitter-s-presence-in-africa.html)
 - [Quantum computing’s reproducibility crisis: Majorana fermions](https://www.nature.com/articles/d41586-021-00954-8)
-- [Show HN: Personal Data Management Dashboard](https://volmarg.github.io/)
-- [Nvidia Unveils Grace: A High-Performance Arm CPU for Use in Big AI Systems](https://www.anandtech.com/show/16610/nvidia-unveils-grace-a-highperformance-arm-server-cpu-for-use-in-ai-systems)
 <!-- BLOG-POST-LIST:END -->
 
 ---
