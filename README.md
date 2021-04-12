@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise and Rise of Amanda Gorman](https://www.vogue.com/article/amanda-gorman-cover-may-2021)
-- [Every Mathematical Theory Is Held Inside a Physical Substrate](https://nav.al/substrate)
+- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Building React and Vue Support for Tailwind UI](https://blog.tailwindcss.com/building-react-and-vue-support-for-tailwind-ui)
 - [Establishing Twitter's Presence in Africa](https://blog.twitter.com/en_us/topics/company/2021/establishing-twitter-s-presence-in-africa.html)
 - [Quantum computing’s reproducibility crisis: Majorana fermions](https://www.nature.com/articles/d41586-021-00954-8)
-- [OpenUnit (YC W20) Is Hiring a Senior Ruby on Rails Engineer](https://www.openunit.com/jobs/senior-software-engineer)
+- [CEO of a top Bitcoin exchange warns: crackdown on cryptocurrencies may be coming](https://www.cnbc.com/2021/04/12/bitcoin-kraken-ceo-jesse-powell-warns-of-cryptocurrency-crackdown.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
