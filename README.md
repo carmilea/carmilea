@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming Language with Only One Command and the Operating System Built on It](https://esoteric.codes/blog/a-programming-language-with-only-one-command-and)
+- [SUBLEQ and DawnOS (2017)](https://esoteric.codes/blog/a-programming-language-with-only-one-command-and)
 - [Greywing (YC W21) Is Hiring to build a new interface for shipping](https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead)
 - [MLJ.jl: A Julia package for composable machine learning](https://alan-turing-institute.github.io/MLJ.jl/dev/#Key-features)
 - [std::unique_ptr implementation backed by Ethereum NFTs](https://github.com/zhuowei/nft_ptr)
