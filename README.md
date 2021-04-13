@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Great Question (YC W21) Is Hiring a Founding Engineer (Rails) (Remote, PST-Ish)](https://www.ycombinator.com/companies/great-question/jobs/rbDFLOP-founding-engineer-rails)
+- [Deep dive in CORS: History, how it works, and best practices](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)
+- [Estate agent's hi-tech house tour exposes personal data](https://www.bbc.com/news/technology-56718046)
 - [Olivier Poudade Assembly language page](http://olivier.poudade.free.fr/)
-- [System76 Developing “Cosmic” Desktop Environment](https://blog.system76.com/post/648371526931038208/cosmic-to-arrive-in-june-release-of-popos-2104)
-- [Writing Notes by Hand Might Not Be Better Than Typing (2019)](https://blog.library.tc.columbia.edu/b/19943-Writing-Notes-By-Hand-Might-Not-Be-Better-than-Typing)
-- [Deno 1.9 - native http2, blob URL, import completion and huge performance boost](https://deno.com/blog/v1.9)
-- [Room temperature superconductivity at 1 ATM for 7 days](https://arxiv.org/abs/2104.05662)
+- [NSA helps out Microsoft with critical Exchange Server vulnerability disclosures](https://www.theregister.com/2021/04/13/patch_tuesday_april/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
