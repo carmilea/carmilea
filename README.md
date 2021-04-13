@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The True Meaning of Technical Debt](https://refactoring.fm/p/the-true-meaning-of-technical-debt)
+- [How Government Wrecked the Gas Can](https://fee.org/articles/how-government-wrecked-the-gas-can/)
+- [Streak (YC S11) looking for a senior front end engineer (remote only)](https://www.streak.com/careers/product-engineer)
 - [The Dawn of a new Command Line Interface (2017)](https://arcan-fe.com/2017/07/12/the-dawn-of-a-new-command-line-interface/)
 - [Natto.dev – A Canvas for JavaScript](https://natto.dev)
-- [Learn C in Y Minutes](https://learnxinyminutes.com/docs/c/)
-- [Nominet chooses civil war over compromise by rejecting ex-BBC Trust chairman](https://www.theregister.com/2021/04/13/nominet_civil_war/)
-- [CVE Alerting Platform](https://github.com/opencve/opencve)
 <!-- BLOG-POST-LIST:END -->
 
 ---
