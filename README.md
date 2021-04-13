@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Discord to block all access to NSFW servers via iOS app](https://support.discord.com/hc/en-us/articles/1500005389362-NSFW-Server-Designation)
-- [Show HN: Deephn.org full-text search 30M Hacker News posts AND linked web pages](https://deephn.org)
-- [Create an anonymous link that will hide the HTTP Referer header](https://href.li/)
-- [The French armed forces are planning for high-intensity war](https://www.economist.com/europe/2021/03/31/the-french-armed-forces-are-planning-for-high-intensity-war)
-- [Tracking Users Across the Web via TLS Session Resumption (2018) [pdf]](https://svs.informatik.uni-hamburg.de/publications/2018/2018-12-06-Sy-ACSAC-Tracking_Users_across_the_Web_via_TLS_Session_Resumption.pdf)
+- [Dvorak vs. Colemak](http://xahlee.info/kbd/dvorak_vs_colemak.html)
+- [My startup failed, then I found out I was unemployable](https://davesullivan.is/my_startup_failed_then_i_found_out_i_was_unemployable.html)
+- [New York Times tech workers form a union](https://www.nytimes.com/live/2021/04/13/business/stock-market-today/new-york-times-tech-workers-form-a-union)
+- [How Iraq’s crystal meth epidemic is ravaging the nation](https://www.independent.co.uk/news/world/middle-east/iraq-crystal-meth-drugs-epidemic-b1828463.html)
+- [NSFW Server Designation](https://support.discord.com/hc/en-us/articles/1500005389362-NSFW-Server-Designation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
