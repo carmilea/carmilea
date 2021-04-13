@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Book Review: “A Thousand Brains” by Jeff Hawkins](https://www.lesswrong.com/posts/ixZLTmFfnKRbaStA5/book-review-a-thousand-brains-by-jeff-hawkins)
-- [Apple doesn’t seem to care about top-grossing scams on the App Store](https://twitter.com/keleftheriou/status/1381986746661892096)
-- [Marbles (2016)](http://www.erasmatazz.com/library/life-in-general/marbles.html)
-- [Dvorak vs Colemak (2010-2020)](http://xahlee.info/kbd/dvorak_vs_colemak.html)
-- [My startup failed, then I found out I was unemployable](https://davesullivan.is/my_startup_failed_then_i_found_out_i_was_unemployable.html)
+- [CoinTracker (YC W18) is hiring to make cryptocurrency easy to use (Remote)](https://www.cointracker.io/careers)
+- [Figma: Changes to free plan after April 21, 2021](https://help.figma.com/hc/en-us/articles/360061769534)
+- [Linus Torvalds says GPL v3 violates everything that GPLv2 stood for (2014)](https://www.youtube.com/watch?v=PaKIZ7gJlRU)
+- [Certifying Multimedia News Content for Fake News Defense](https://arxiv.org/abs/2104.04671)
+- [Apple's next online-only launch will be April 20, upgraded iPads on tap](https://www.cnet.com/news/apples-next-online-only-launch-will-be-april-20-upgraded-ipads-on-tap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
