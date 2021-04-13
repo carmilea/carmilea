@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Update on beta testing payments in Signal](https://signal.org/blog/update-on-beta-testing-payments/)
+- [Dear Matt Mullenweg: An Open Letter from Wix’s CEO](https://www.wix.com/blog/2021/04/letter-from-avishai-abrahami-to-matt-mullenweg/)
+- [Israel May Have Destroyed Iranian Centrifuges Simply by Cutting Power](https://theintercept.com/2021/04/13/iran-nuclear-natanz-israel/)
 - [Is content moderation a dead end?](https://www.ben-evans.com/benedictevans/2021/4/13/is-content-moderation-a-dead-end)
-- [Microsoft launches Surface Laptop 4](https://blogs.windows.com/devices/2021/04/13/introducing-surface-laptop-4-and-new-accessories-for-enhanced-meeting-experiences/)
-- [In Python, `[0xfor x in (1, 2, 3)]` returns `[15]`](https://twitter.com/nedbat/status/1382027078816653319)
-- [Google Is Poisoning Its Reputation with AI Researchers](https://www.theverge.com/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation)
-- [‘Counter Strike’ Bug Allows Hackers to Take over a PC with a Steam Invite](https://www.vice.com/en/article/dyvgej/counter-strike-bug-allows-hackers-to-take-over-a-pc-with-a-steam-invite)
+- [Surface Laptop 4](https://blogs.windows.com/devices/2021/04/13/introducing-surface-laptop-4-and-new-accessories-for-enhanced-meeting-experiences/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
