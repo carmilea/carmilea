@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nominet chooses civil war over compromise by rejecting ex-BBC Trust chairman](https://www.theregister.com/2021/04/13/nominet_civil_war/)
+- [Government OKs discharge of Fukushima nuclear plant water into sea](https://www.japantimes.co.jp/news/2021/04/13/national/fukushima-water-release/)
 - [CVE Alerting Platform](https://github.com/opencve/opencve)
 - [Kaboom – JavaScript game programming library and environment](https://replit.com/kaboom)
 - [Vincent Chan: Inside PayPal (2010)](http://paulgraham.com/paypal.html)
-- [Kitemaker (YC W21) is hiring fullstack engineers to build an alternative to Jira](https://www.workatastartup.com/jobs/43319)
-- [Does the Kremlin want Alexei Navalny to die in prison?](https://www.economist.com/europe/2021/04/10/does-the-kremlin-want-alexei-navalny-to-die-in-prison)
 <!-- BLOG-POST-LIST:END -->
 
 ---
