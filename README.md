@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CoinTracker (YC W18) is hiring to make cryptocurrency easy to use (Remote)](https://www.cointracker.io/careers)
-- [Figma: Changes to free plan after April 21, 2021](https://help.figma.com/hc/en-us/articles/360061769534)
-- [Linus Torvalds says GPL v3 violates everything that GPLv2 stood for (2014)](https://www.youtube.com/watch?v=PaKIZ7gJlRU)
-- [Certifying Multimedia News Content for Fake News Defense](https://arxiv.org/abs/2104.04671)
-- [Apple's next online-only launch will be April 20, upgraded iPads on tap](https://www.cnet.com/news/apples-next-online-only-launch-will-be-april-20-upgraded-ipads-on-tap/)
+- [Is content moderation a dead end?](https://www.ben-evans.com/benedictevans/2021/4/13/is-content-moderation-a-dead-end)
+- [Microsoft launches Surface Laptop 4](https://blogs.windows.com/devices/2021/04/13/introducing-surface-laptop-4-and-new-accessories-for-enhanced-meeting-experiences/)
+- [In Python, `[0xfor x in (1, 2, 3)]` returns `[15]`](https://twitter.com/nedbat/status/1382027078816653319)
+- [Google Is Poisoning Its Reputation with AI Researchers](https://www.theverge.com/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation)
+- [‘Counter Strike’ Bug Allows Hackers to Take over a PC with a Steam Invite](https://www.vice.com/en/article/dyvgej/counter-strike-bug-allows-hackers-to-take-over-a-pc-with-a-steam-invite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
