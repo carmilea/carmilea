@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On Liberthielism](https://terranullius.substack.com/p/liberthielism)
 - [Great Question (YC W21) Is Hiring a Founding Engineer (Rails) (Remote, PST-Ish)](https://www.ycombinator.com/companies/great-question/jobs/rbDFLOP-founding-engineer-rails)
-- [Deep dive in CORS: History, how it works, and best practices](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)
-- [Estate agent's hi-tech house tour exposes personal data](https://www.bbc.com/news/technology-56718046)
-- [Olivier Poudade Assembly language page](http://olivier.poudade.free.fr/)
-- [NSA helps out Microsoft with critical Exchange Server vulnerability disclosures](https://www.theregister.com/2021/04/13/patch_tuesday_april/)
+- [Latency Comparison: DynamoDB vs. FaunaDB vs. Redis](https://news-app-two-omega.vercel.app/)
+- [Pass: The standard Unix password manager](https://www.passwordstore.org/)
+- [Suicide trends in the early months of the Covid-19 pandemic](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(21)00091-2/fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
