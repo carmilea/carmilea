@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord to block all access to NSFW servers via iOS app](https://support.discord.com/hc/en-us/articles/1500005389362-NSFW-Server-Designation)
+- [Show HN: Deephn.org full-text search 30M Hacker News posts AND linked web pages](https://deephn.org)
+- [Create an anonymous link that will hide the HTTP Referer header](https://href.li/)
+- [The French armed forces are planning for high-intensity war](https://www.economist.com/europe/2021/03/31/the-french-armed-forces-are-planning-for-high-intensity-war)
 - [Tracking Users Across the Web via TLS Session Resumption (2018) [pdf]](https://svs.informatik.uni-hamburg.de/publications/2018/2018-12-06-Sy-ACSAC-Tracking_Users_across_the_Web_via_TLS_Session_Resumption.pdf)
-- [The True Meaning of Technical Debt](https://refactoring.fm/p/the-true-meaning-of-technical-debt)
-- [Streak (YC S11) looking for a senior front end engineer (remote only)](https://www.streak.com/careers/product-engineer)
-- [How many device can you connect to I2C Bus?](https://www.bluedot.space/tutorials/how-many-devices-can-you-connect-on-i2c-bus/)
-- [The Dawn of a new Command Line Interface (2017)](https://arcan-fe.com/2017/07/12/the-dawn-of-a-new-command-line-interface/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
