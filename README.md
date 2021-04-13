@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gitlet.js – Git implemented in 1k lines of JavaScript](http://gitlet.maryrosecook.com/docs/gitlet.html)
+- [Just Be Rich](https://keenen.xyz/just-be-rich/)
+- [Gitlet.js – Git implemented in 1k lines of JavaScript (2015)](http://gitlet.maryrosecook.com/docs/gitlet.html)
 - [HSBC bans customers from buying Bitcoin-backer MicroStrategy shares](https://www.reuters.com/article/us-hsbc-cryptocurrency/hsbc-bans-customers-from-buying-bitcoin-backer-microstrategy-shares-idUSKBN2BZ21W)
-- [Let Us Now Praise Tiny Ants](https://www.nytimes.com/2021/04/05/science/ants-wilson-photography-niga-rice.html)
+- [Let us now praise tiny ants](https://www.nytimes.com/2021/04/05/science/ants-wilson-photography-niga-rice.html)
 - [Skies went dark: Historians pinpoint the 'worst year' ever to be alive](https://www.accuweather.com/en/severe-weather/historians-pinpoint-the-very-worst-year-to-ever-be-alive/927803)
-- [Student's physics homework picked up by Amazon quantum researchers](https://www.sydney.edu.au/news-opinion/news/2021/04/13/student-physics-homework-picked-up-by-amazon-web-services-quantum.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
