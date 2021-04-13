@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Wikipedia editor's campaign to discredit anti-war campaigners (2018)](https://wikipedia.fivefilters.org/)
 - [Just Be Rich](https://keenen.xyz/just-be-rich/)
+- [Mathematician Disproves 80-Year-Old Algebra Conjecture](https://www.quantamagazine.org/mathematician-disproves-group-algebra-unit-conjecture-20210412/)
 - [Gitlet.js – Git implemented in 1k lines of JavaScript (2015)](http://gitlet.maryrosecook.com/docs/gitlet.html)
 - [HSBC bans customers from buying Bitcoin-backer MicroStrategy shares](https://www.reuters.com/article/us-hsbc-cryptocurrency/hsbc-bans-customers-from-buying-bitcoin-backer-microstrategy-shares-idUSKBN2BZ21W)
-- [Let us now praise tiny ants](https://www.nytimes.com/2021/04/05/science/ants-wilson-photography-niga-rice.html)
-- [Skies went dark: Historians pinpoint the 'worst year' ever to be alive](https://www.accuweather.com/en/severe-weather/historians-pinpoint-the-very-worst-year-to-ever-be-alive/927803)
 <!-- BLOG-POST-LIST:END -->
 
 ---
