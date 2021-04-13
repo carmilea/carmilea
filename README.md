@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kitemaker (YC W21) is hiring fullstack engineers to build an alternative to Jira](https://www.workatastartup.com/jobs/43319)
+- [Eric Weinstein Says He Solved the Universe’s Mysteries. Scientists Disagree](https://www.vice.com/en/article/z3xbz4/eric-weinstein-says-he-solved-the-universes-mysteries-scientists-disagree)
 - [A Wikipedia editor's campaign to discredit anti-war campaigners (2018)](https://wikipedia.fivefilters.org/)
 - [Just Be Rich](https://keenen.xyz/just-be-rich/)
 - [Mathematician Disproves 80-Year-Old Algebra Conjecture](https://www.quantamagazine.org/mathematician-disproves-group-algebra-unit-conjecture-20210412/)
-- [Gitlet.js – Git implemented in 1k lines of JavaScript (2015)](http://gitlet.maryrosecook.com/docs/gitlet.html)
-- [HSBC bans customers from buying Bitcoin-backer MicroStrategy shares](https://www.reuters.com/article/us-hsbc-cryptocurrency/hsbc-bans-customers-from-buying-bitcoin-backer-microstrategy-shares-idUSKBN2BZ21W)
 <!-- BLOG-POST-LIST:END -->
 
 ---
