@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tracking Users Across the Web via TLS Session Resumption (2018) [pdf]](https://svs.informatik.uni-hamburg.de/publications/2018/2018-12-06-Sy-ACSAC-Tracking_Users_across_the_Web_via_TLS_Session_Resumption.pdf)
 - [The True Meaning of Technical Debt](https://refactoring.fm/p/the-true-meaning-of-technical-debt)
-- [How Government Wrecked the Gas Can](https://fee.org/articles/how-government-wrecked-the-gas-can/)
 - [Streak (YC S11) looking for a senior front end engineer (remote only)](https://www.streak.com/careers/product-engineer)
+- [How many device can you connect to I2C Bus?](https://www.bluedot.space/tutorials/how-many-devices-can-you-connect-on-i2c-bus/)
 - [The Dawn of a new Command Line Interface (2017)](https://arcan-fe.com/2017/07/12/the-dawn-of-a-new-command-line-interface/)
-- [Natto.dev – A Canvas for JavaScript](https://natto.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
