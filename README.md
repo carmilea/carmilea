@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CVE Alerting Platform](https://github.com/opencve/opencve)
+- [Kaboom – JavaScript game programming library and environment](https://replit.com/kaboom)
+- [Vincent Chan: Inside PayPal (2010)](http://paulgraham.com/paypal.html)
 - [Kitemaker (YC W21) is hiring fullstack engineers to build an alternative to Jira](https://www.workatastartup.com/jobs/43319)
-- [Eric Weinstein Says He Solved the Universe’s Mysteries. Scientists Disagree](https://www.vice.com/en/article/z3xbz4/eric-weinstein-says-he-solved-the-universes-mysteries-scientists-disagree)
-- [A Wikipedia editor's campaign to discredit anti-war campaigners (2018)](https://wikipedia.fivefilters.org/)
-- [Just Be Rich](https://keenen.xyz/just-be-rich/)
-- [Mathematician Disproves 80-Year-Old Algebra Conjecture](https://www.quantamagazine.org/mathematician-disproves-group-algebra-unit-conjecture-20210412/)
+- [Does the Kremlin want Alexei Navalny to die in prison?](https://www.economist.com/europe/2021/04/10/does-the-kremlin-want-alexei-navalny-to-die-in-prison)
 <!-- BLOG-POST-LIST:END -->
 
 ---
