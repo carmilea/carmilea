@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Dawn of a new Command Line Interface (2017)](https://arcan-fe.com/2017/07/12/the-dawn-of-a-new-command-line-interface/)
+- [Natto.dev – A Canvas for JavaScript](https://natto.dev)
+- [Learn C in Y Minutes](https://learnxinyminutes.com/docs/c/)
 - [Nominet chooses civil war over compromise by rejecting ex-BBC Trust chairman](https://www.theregister.com/2021/04/13/nominet_civil_war/)
-- [Government OKs discharge of Fukushima nuclear plant water into sea](https://www.japantimes.co.jp/news/2021/04/13/national/fukushima-water-release/)
 - [CVE Alerting Platform](https://github.com/opencve/opencve)
-- [Kaboom – JavaScript game programming library and environment](https://replit.com/kaboom)
-- [Vincent Chan: Inside PayPal (2010)](http://paulgraham.com/paypal.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
