@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dvorak vs. Colemak](http://xahlee.info/kbd/dvorak_vs_colemak.html)
+- [Book Review: “A Thousand Brains” by Jeff Hawkins](https://www.lesswrong.com/posts/ixZLTmFfnKRbaStA5/book-review-a-thousand-brains-by-jeff-hawkins)
+- [Apple doesn’t seem to care about top-grossing scams on the App Store](https://twitter.com/keleftheriou/status/1381986746661892096)
+- [Marbles (2016)](http://www.erasmatazz.com/library/life-in-general/marbles.html)
+- [Dvorak vs Colemak (2010-2020)](http://xahlee.info/kbd/dvorak_vs_colemak.html)
 - [My startup failed, then I found out I was unemployable](https://davesullivan.is/my_startup_failed_then_i_found_out_i_was_unemployable.html)
-- [New York Times tech workers form a union](https://www.nytimes.com/live/2021/04/13/business/stock-market-today/new-york-times-tech-workers-form-a-union)
-- [How Iraq’s crystal meth epidemic is ravaging the nation](https://www.independent.co.uk/news/world/middle-east/iraq-crystal-meth-drugs-epidemic-b1828463.html)
-- [NSFW Server Designation](https://support.discord.com/hc/en-us/articles/1500005389362-NSFW-Server-Designation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
