@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Update on beta testing payments in Signal](https://signal.org/blog/update-on-beta-testing-payments/)
-- [Dear Matt Mullenweg: An Open Letter from Wix’s CEO](https://www.wix.com/blog/2021/04/letter-from-avishai-abrahami-to-matt-mullenweg/)
-- [Israel May Have Destroyed Iranian Centrifuges Simply by Cutting Power](https://theintercept.com/2021/04/13/iran-nuclear-natanz-israel/)
-- [Is content moderation a dead end?](https://www.ben-evans.com/benedictevans/2021/4/13/is-content-moderation-a-dead-end)
-- [Surface Laptop 4](https://blogs.windows.com/devices/2021/04/13/introducing-surface-laptop-4-and-new-accessories-for-enhanced-meeting-experiences/)
+- [Olivier Poudade Assembly language page](http://olivier.poudade.free.fr/)
+- [System76 Developing “Cosmic” Desktop Environment](https://blog.system76.com/post/648371526931038208/cosmic-to-arrive-in-june-release-of-popos-2104)
+- [Writing Notes by Hand Might Not Be Better Than Typing (2019)](https://blog.library.tc.columbia.edu/b/19943-Writing-Notes-By-Hand-Might-Not-Be-Better-than-Typing)
+- [Deno 1.9 - native http2, blob URL, import completion and huge performance boost](https://deno.com/blog/v1.9)
+- [Room temperature superconductivity at 1 ATM for 7 days](https://arxiv.org/abs/2104.05662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
