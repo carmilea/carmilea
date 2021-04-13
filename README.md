@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Liberthielism](https://terranullius.substack.com/p/liberthielism)
-- [Great Question (YC W21) Is Hiring a Founding Engineer (Rails) (Remote, PST-Ish)](https://www.ycombinator.com/companies/great-question/jobs/rbDFLOP-founding-engineer-rails)
-- [Latency Comparison: DynamoDB vs. FaunaDB vs. Redis](https://news-app-two-omega.vercel.app/)
-- [Pass: The standard Unix password manager](https://www.passwordstore.org/)
-- [Suicide trends in the early months of the Covid-19 pandemic](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(21)00091-2/fulltext)
+- [EMU2: A simple text-mode x86 and DOS emulator](https://github.com/dmsc/emu2)
+- [Kubernetes Is So Simple You Can Explore It with Curl](https://blog.tilt.dev/2021/03/18/kubernetes-is-so-simple.html)
+- [We Are Living in a Climate Emergency, and We’re Going to Say So](https://www.scientificamerican.com/article/we-are-living-in-a-climate-emergency-and-were-going-to-say-so/)
+- [Previous Covid-19 may cut risk of reinfection 84%](https://www.cidrap.umn.edu/news-perspective/2021/04/previous-covid-19-may-cut-risk-reinfection-84)
+- [The most important statistical ideas of the past 50 years](https://fermatslibrary.com/s/what-are-the-most-important-statistical-ideas-of-the-past-50-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
