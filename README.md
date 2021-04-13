@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe Charges Subscription Cancellation Fee](https://twitter.com/MRDADDGUY/status/1381628427246039045)
+- [Playing the Open Source Game](https://kristoff.it/blog/the-open-source-game/)
+- [Chrome zero-day released on GitHub (fixed on V8 but still works on latest)](https://github.com/r4j0x00/exploits/commit/7ba55e5ab034d05877498e83f144e187d3ddb160)
+- [CEO: Intel in talks to produce chips for automakers within six to nine months](https://www.reuters.com/article/us-usa-semiconductors-idUSKBN2BZ2C4)
 - [18yr old professional bowler converts 7-10 split on TV in first time in 30 years](https://twitter.com/BryanAGraham/status/1381386588438020100)
-- [BuildZoom (YC W13) is hiring a growth associate](https://jobs.lever.co/buildzoom)
-- [Building React and Vue Support for Tailwind UI](https://blog.tailwindcss.com/building-react-and-vue-support-for-tailwind-ui)
-- [The Decline of Heroku](https://www.infoworld.com/article/3614210/the-decline-of-heroku.html)
-- [Quantum computing’s reproducibility crisis: Majorana fermions](https://www.nature.com/articles/d41586-021-00954-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
