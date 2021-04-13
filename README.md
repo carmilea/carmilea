@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Working with #JSON in #SingleStore](https://www.youtube.com/watch?v=I9PkaEYzgoQ)
 - [#FullTextIndex and #FullTextSearch with #SingleStore](https://www.youtube.com/watch?v=2bzDDPLWL1k)
 - [#SingleStore #Sharding and #ShardKeys](https://www.youtube.com/watch?v=vl6uwVejYRE)
 - [#SingleStore #Storage Training](https://www.youtube.com/watch?v=-Ababrwwpk8)
 - [Data #Ingest using #SingleStore #Pipelines](https://www.youtube.com/watch?v=lwEL2dXd3pg)
-- [Export from #SingleStore to #GoogleCloud storage](https://www.youtube.com/watch?v=sehLdkzo0vw)
 <!-- YOUTUBE:END -->
 
 
