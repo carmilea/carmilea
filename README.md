@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Coinbase debuts on Nasdaq at 100B $ valuation](https://www.cnbc.com/2021/04/14/coinbase-to-debut-on-nasdaq-in-direct-listing.html)
-- [Coinbase opens at $380, up 60% seconds after opening](https://www.google.com/finance/quote/COIN:NASDAQ)
+- [A New Gene Editing Project Is Out to Crush Alzheimer’s](https://singularityhub.com/2021/04/13/a-massive-new-gene-editing-project-is-out-to-crush-alzheimers/)
+- [$7.5B In Stolen Bitcoin from 2016 Bitfinex Hack has just been moved](https://twitter.com/CryptoWhale/status/1382392286819057668)
+- [Why My Blog Is Closed-Source](https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/)
+- [Coqui, a startup providing open speech tech for everyone](https://github.com/coqui-ai)
 - [ReadMe (YC W15) Is Hiring a UI Engineer](https://readme.com/careers#ui-engineer)
-- [How a WhatsApp status loophole is aiding cyberstalkers](https://traced.app/2021/04/13/whatsapp-status-loophole-is-aiding-cyberstalkers/)
-- [Europe seeks to limit use of high-risk AI in society](https://www.bbc.com/news/technology-56745730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
