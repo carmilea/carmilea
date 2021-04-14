@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bitcoin Is a ‘Boon for Surveillance’, Says Former CIA Director](https://decrypt.co/66411/cia-bitcoin-surveillance)
+- [Kissinger Death Tontine](https://henrykissinger.rip/)
 - [Discord will block NSFW servers on iOS](https://www.theverge.com/2021/4/13/22381728/discord-nsfw-servers-blocked-ios-age-gate-restrictions)
 - [Rust, not Firefox, is Mozilla's greatest industry contribution](https://www.techrepublic.com/article/rust-not-firefox-is-mozillas-greatest-industry-contribution/)
-- [Announcing PfSense Plus](https://www.netgate.com/blog/announcing-pfsense-plus.html)
-- [FCC finally starts tackling America's robocall scourge](https://www.theregister.com/2021/04/13/fcc_robocalls_action/)
+- [How to Read Books When You Have ADHD](https://untappedbrilliance.com/how-to-read-books-when-you-have-adhd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
