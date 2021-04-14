@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase debuts on Nasdaq at 100B $ valuation](https://www.cnbc.com/2021/04/14/coinbase-to-debut-on-nasdaq-in-direct-listing.html)
+- [Coinbase opens at $380, up 60% seconds after opening](https://www.google.com/finance/quote/COIN:NASDAQ)
 - [ReadMe (YC W15) Is Hiring a UI Engineer](https://readme.com/careers#ui-engineer)
 - [How a WhatsApp status loophole is aiding cyberstalkers](https://traced.app/2021/04/13/whatsapp-status-loophole-is-aiding-cyberstalkers/)
 - [Europe seeks to limit use of high-risk AI in society](https://www.bbc.com/news/technology-56745730)
-- [Foundations of Databases](http://webdam.inria.fr/Alice/)
-- [Write tasks not user stories – Linear Method](https://linear.app/method/write-tasks-not-user-stories)
 <!-- BLOG-POST-LIST:END -->
 
 ---
