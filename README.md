@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My simple GitHub project went Viral](https://gourav.io/blog/my-simple-github-project-went-viral)
 - [Serbian freelancers protest new taxation law that threatens push into poverty](https://globalvoices.org/2021/04/09/serbian-freelancers-protest-new-taxation-law-that-threatens-to-push-thousands-into-poverty/)
 - [Yamauchi No.10 Family Office](https://y-n10.com/)
 - [Is WebAssembly magic performance pixie dust?](https://surma.dev/things/js-to-asc/)
 - [Download the FCC Speed Test App](https://www.fcc.gov/BroadbandData/consumers#speed-test)
-- [Bitcoin is a ‘boon for surveillance’, says former CIA director](https://decrypt.co/66411/cia-bitcoin-surveillance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
