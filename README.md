@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Effective Altruism Is Not Effective](http://www.philosophersbeard.org/2021/04/effective-altruism-is-not-effective.html)
+- [National Security Commission on AI Report [pdf]](https://www.nscai.gov/wp-content/uploads/2021/03/Full-Report-Digital-1.pdf)
 - [Ask HN: Would issue “bounties” make contributing to open source more appealing?](https://news.ycombinator.com/item?id=26813725)
 - [Butterchurn – A WebGL Implementation of the Milkdrop Visualizer](https://github.com/jberg/butterchurn)
-- [Relationship Hero (YC S17) is hiring coaches (full-time remote)](https://relationshiphero.com/careers?role=coach)
-- [Run unknown shell script with a line-by-line confirmation prompt](https://gist.github.com/wlib/093f8b8f670016813073a4c4f8b28e81)
-- [An RFC that adds support for Rust to the Linux kernel](https://lkml.org/lkml/2021/4/14/1023)
+- [Prospectus On Próspera](https://astralcodexten.substack.com/p/prospectus-on-prospera)
 <!-- BLOG-POST-LIST:END -->
 
 ---
