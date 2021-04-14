@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ReadMe (YC W15) Is Hiring a UI Engineer](https://readme.com/careers#ui-engineer)
+- [How a WhatsApp status loophole is aiding cyberstalkers](https://traced.app/2021/04/13/whatsapp-status-loophole-is-aiding-cyberstalkers/)
+- [Europe seeks to limit use of high-risk AI in society](https://www.bbc.com/news/technology-56745730)
+- [Foundations of Databases](http://webdam.inria.fr/Alice/)
 - [Write tasks not user stories – Linear Method](https://linear.app/method/write-tasks-not-user-stories)
-- [The first 18 months of a startup](https://twitter.com/Suhail/status/1382351985584721926)
-- [Coinbase from YC to IPO](https://blog.ycombinator.com/coinbase-from-yc-to-ipo/)
-- [Great Vowel Shift](https://en.wikipedia.org/wiki/Great_Vowel_Shift)
-- [One Letter Programming Languages](https://beza1e1.tuxen.de/one_letter_proglangs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
