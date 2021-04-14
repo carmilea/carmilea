@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bernie Madoff, Architect of Largest Ponzi Scheme in History, Is Dead at 82](https://www.nytimes.com/2021/04/14/business/bernie-madoff-dead.html)
+- [Bernie Madoff has died](https://www.bloomberg.com/news/articles/2021-04-14/ap-source-ponzi-schemer-bernie-madoff-dies-in-prison)
+- [Bernie Madoff, mastermind of the nation’s biggest investment fraud, dies at 82](https://www.cnbc.com/2021/04/14/bernie-madoff-dies-mastermind-of-the-nations-biggest-investment-fraud-was-82.html)
+- [Show HN: Encore – Go framework for building distributed systems](https://github.com/encoredev/encore)
 - [Little Australian firm helped FBI unlock the San Bernardino shooter’s iPhone](https://www.washingtonpost.com/technology/2021/04/14/azimuth-san-bernardino-apple-iphone-fbi/)
-- [Just say no: negativity is secret of political tweet success, study finds](https://www.theguardian.com/technology/2021/apr/13/just-say-no-negativity-is-secret-of-political-tweet-success-study-finds)
-- [EU Commission to end AstraZeneca and J&J vaccine contracts at expiry](https://www.reuters.com/article/reutersComService_2_MOLT/idUSKBN2C10MU)
-- [Once on the Brink of Eradication, Syphilis Is Raging Again](https://www.npr.org/sections/health-shots/2021/04/14/986997576/once-on-the-brink-of-eradication-syphilis-is-raging-again)
-- [The Muse (YC W12) Is Hiring a Designer Come Join Our Team](https://www.themuse.com/jobs/themuse/product-designer-employer-squad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
