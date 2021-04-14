@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Huawei blames US for global chip supply crunch](https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-blames-US-for-global-chip-supply-crunch)
 - [“It's Not Cancel Culture – It's a Platform Failure.”](https://warzel.substack.com/p/its-not-cancel-culture-its-a-platform)
+- [Announcing PfSense Plus](https://www.netgate.com/blog/announcing-pfsense-plus.html)
 - [FCC finally starts tackling America's robocall scourge](https://www.theregister.com/2021/04/13/fcc_robocalls_action/)
 - [Show HN: RentMyCPU – An open-source computational network](https://github.com/franklbt/RentMyCPU)
-- [Effort to disrupt exploitation of Microsoft Exchange Server vulnerabilities](https://www.justice.gov/usao-sdtx/pr/justice-department-announces-court-authorized-effort-disrupt-exploitation-microsoft)
-- [EMU2: A simple text-mode x86 and DOS emulator](https://github.com/dmsc/emu2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
