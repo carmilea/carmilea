@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“It's Not Cancel Culture – It's a Platform Failure.”](https://warzel.substack.com/p/its-not-cancel-culture-its-a-platform)
+- [FCC finally starts tackling America's robocall scourge](https://www.theregister.com/2021/04/13/fcc_robocalls_action/)
 - [Show HN: RentMyCPU – An open-source computational network](https://github.com/franklbt/RentMyCPU)
-- [Iran Says It Will Enrich Uranium to 60%](https://www.wsj.com/articles/iran-nuclear-negotiator-says-tehran-will-increase-purity-of-uranium-to-60-11618326331)
-- [Can continuation passing style code perform well?](http://funcall.blogspot.com/2021/04/can-continuation-passing-style-code.html)
 - [Effort to disrupt exploitation of Microsoft Exchange Server vulnerabilities](https://www.justice.gov/usao-sdtx/pr/justice-department-announces-court-authorized-effort-disrupt-exploitation-microsoft)
 - [EMU2: A simple text-mode x86 and DOS emulator](https://github.com/dmsc/emu2)
 <!-- BLOG-POST-LIST:END -->
