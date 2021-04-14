@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Once on the Brink of Eradication, Syphilis Is Raging Again](https://www.npr.org/sections/health-shots/2021/04/14/986997576/once-on-the-brink-of-eradication-syphilis-is-raging-again)
+- [The Muse (YC W12) Is Hiring a Designer Come Join Our Team](https://www.themuse.com/jobs/themuse/product-designer-employer-squad)
+- [Show HN: Lofi.cafe](https://lofi.cafe)
 - [Denmark to permanently cease using AstraZeneca vaccine](https://www.reuters.com/article/idUSKBN2C118T)
-- [How large is Rupert Murdoch's reach through News Corp in Australian media](https://www.abc.net.au/news/2021-04-14/fact-file-rupert-murdoch-media-reach-in-australia/100056660)
 - [Logica: Modern Logic Programming](https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html)
-- [YouTube suspends account for linking to a PhD research on WPA2 vulnerability](https://www.reddit.com/r/privacy/comments/mq00n9/cannot_post_to_youtube_for_a_week_got_a_strike/)
-- [My simple GitHub project went Viral](https://gourav.io/blog/my-simple-github-project-went-viral)
 <!-- BLOG-POST-LIST:END -->
 
 ---
