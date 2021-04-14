@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin Is a ‘Boon for Surveillance’, Says Former CIA Director](https://decrypt.co/66411/cia-bitcoin-surveillance)
-- [Kissinger Death Tontine](https://henrykissinger.rip/)
+- [The Craziest Website You Ever Did See](https://y-n10.com/)
+- [Is WebAssembly magic performance pixie dust?](https://surma.dev/things/js-to-asc/)
+- [Download the FCC Speed Test App](https://www.fcc.gov/BroadbandData/consumers#speed-test)
+- [Bitcoin is a ‘boon for surveillance’, says former CIA director](https://decrypt.co/66411/cia-bitcoin-surveillance)
 - [Discord will block NSFW servers on iOS](https://www.theverge.com/2021/4/13/22381728/discord-nsfw-servers-blocked-ios-age-gate-restrictions)
-- [Rust, not Firefox, is Mozilla's greatest industry contribution](https://www.techrepublic.com/article/rust-not-firefox-is-mozillas-greatest-industry-contribution/)
-- [How to Read Books When You Have ADHD](https://untappedbrilliance.com/how-to-read-books-when-you-have-adhd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
