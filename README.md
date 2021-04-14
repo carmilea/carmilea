@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Denmark to permanently cease using AstraZeneca vaccine](https://www.reuters.com/article/idUSKBN2C118T)
+- [How large is Rupert Murdoch's reach through News Corp in Australian media](https://www.abc.net.au/news/2021-04-14/fact-file-rupert-murdoch-media-reach-in-australia/100056660)
+- [Logica: Modern Logic Programming](https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html)
 - [YouTube suspends account for linking to a PhD research on WPA2 vulnerability](https://www.reddit.com/r/privacy/comments/mq00n9/cannot_post_to_youtube_for_a_week_got_a_strike/)
-- [Facebook let fake engagement distort global politics: a whistleblower's account](https://www.theguardian.com/technology/2021/apr/12/facebook-fake-engagement-whistleblower-sophie-zhang)
 - [My simple GitHub project went Viral](https://gourav.io/blog/my-simple-github-project-went-viral)
-- [Employee refuses to download app that monitors location, says it got her fired](https://www.cbc.ca/news/gopublic/tattleware-privacy-employment-1.5978337?__vfz=medium%3Dsharebar)
-- [Serbian freelancers protest new taxation law that threatens push into poverty](https://globalvoices.org/2021/04/09/serbian-freelancers-protest-new-taxation-law-that-threatens-to-push-thousands-into-poverty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
