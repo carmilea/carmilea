@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Would issue “bounties” make contributing to open source more appealing?](https://news.ycombinator.com/item?id=26813725)
+- [Butterchurn – A WebGL Implementation of the Milkdrop Visualizer](https://github.com/jberg/butterchurn)
 - [Relationship Hero (YC S17) is hiring coaches (full-time remote)](https://relationshiphero.com/careers?role=coach)
 - [Run unknown shell script with a line-by-line confirmation prompt](https://gist.github.com/wlib/093f8b8f670016813073a4c4f8b28e81)
-- [General Availability of Aqua for Amazon Redshift](https://press.aboutamazon.com/news-releases/news-release-details/aws-announces-general-availability-aqua-amazon-redshift)
-- [RFC that adds support for Rust to the Linux kernel](https://lkml.org/lkml/2021/4/14/1079)
 - [An RFC that adds support for Rust to the Linux kernel](https://lkml.org/lkml/2021/4/14/1023)
 <!-- BLOG-POST-LIST:END -->
 
