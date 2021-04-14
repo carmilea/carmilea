@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube suspends account for linking to a PhD research on WPA2 vulnerability](https://www.reddit.com/r/privacy/comments/mq00n9/cannot_post_to_youtube_for_a_week_got_a_strike/)
+- [Facebook let fake engagement distort global politics: a whistleblower's account](https://www.theguardian.com/technology/2021/apr/12/facebook-fake-engagement-whistleblower-sophie-zhang)
 - [My simple GitHub project went Viral](https://gourav.io/blog/my-simple-github-project-went-viral)
+- [Employee refuses to download app that monitors location, says it got her fired](https://www.cbc.ca/news/gopublic/tattleware-privacy-employment-1.5978337?__vfz=medium%3Dsharebar)
 - [Serbian freelancers protest new taxation law that threatens push into poverty](https://globalvoices.org/2021/04/09/serbian-freelancers-protest-new-taxation-law-that-threatens-to-push-thousands-into-poverty/)
-- [Yamauchi No.10 Family Office](https://y-n10.com/)
-- [Is WebAssembly magic performance pixie dust?](https://surma.dev/things/js-to-asc/)
-- [Download the FCC Speed Test App](https://www.fcc.gov/BroadbandData/consumers#speed-test)
 <!-- BLOG-POST-LIST:END -->
 
 ---
