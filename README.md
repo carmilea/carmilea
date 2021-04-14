@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Relationship Hero (YC S17) is hiring coaches (full-time remote)](https://relationshiphero.com/careers?role=coach)
+- [Run unknown shell script with a line-by-line confirmation prompt](https://gist.github.com/wlib/093f8b8f670016813073a4c4f8b28e81)
+- [General Availability of Aqua for Amazon Redshift](https://press.aboutamazon.com/news-releases/news-release-details/aws-announces-general-availability-aqua-amazon-redshift)
 - [RFC that adds support for Rust to the Linux kernel](https://lkml.org/lkml/2021/4/14/1079)
-- [Why Rust strings seem hard](https://www.brandons.me/blog/why-rust-strings-seem-hard)
-- [Webamp: Winamp 2 in the browser](https://webamp.org/)
-- [HashiCorp Terraform 0.15 General Availability](https://www.hashicorp.com/blog/announcing-hashicorp-terraform-0-15-general-availability)
-- [A new twist on using ‘personalized’ stem cells for studying dementia](https://singularityhub.com/2021/04/13/a-massive-new-gene-editing-project-is-out-to-crush-alzheimers/)
+- [An RFC that adds support for Rust to the Linux kernel](https://lkml.org/lkml/2021/4/14/1023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
