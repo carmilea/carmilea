@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Space Junk Removal Is Not Going Smoothly](https://www.scientificamerican.com/article/space-junk-removal-is-not-going-smoothly/)
-- [Our plans for PeerTube v4](https://joinpeertube.org/news#roadmap-v4)
-- [Ask HN: How to Speak Confidently?](https://news.ycombinator.com/item?id=26807085)
-- [Bernie Madoff has died](https://www.bloomberg.com/news/articles/2021-04-14/ap-source-ponzi-schemer-bernie-madoff-dies-in-prison)
-- [Show HN: Encore – Go framework for building distributed systems](https://github.com/encoredev/encore)
+- [Write tasks not user stories – Linear Method](https://linear.app/method/write-tasks-not-user-stories)
+- [The first 18 months of a startup](https://twitter.com/Suhail/status/1382351985584721926)
+- [Coinbase from YC to IPO](https://blog.ycombinator.com/coinbase-from-yc-to-ipo/)
+- [Great Vowel Shift](https://en.wikipedia.org/wiki/Great_Vowel_Shift)
+- [One Letter Programming Languages](https://beza1e1.tuxen.de/one_letter_proglangs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
