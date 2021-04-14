@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Gene Editing Project Is Out to Crush Alzheimer’s](https://singularityhub.com/2021/04/13/a-massive-new-gene-editing-project-is-out-to-crush-alzheimers/)
-- [$7.5B In Stolen Bitcoin from 2016 Bitfinex Hack has just been moved](https://twitter.com/CryptoWhale/status/1382392286819057668)
-- [Why My Blog Is Closed-Source](https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/)
-- [Coqui, a startup providing open speech tech for everyone](https://github.com/coqui-ai)
-- [ReadMe (YC W15) Is Hiring a UI Engineer](https://readme.com/careers#ui-engineer)
+- [RFC that adds support for Rust to the Linux kernel](https://lkml.org/lkml/2021/4/14/1079)
+- [Why Rust strings seem hard](https://www.brandons.me/blog/why-rust-strings-seem-hard)
+- [Webamp: Winamp 2 in the browser](https://webamp.org/)
+- [HashiCorp Terraform 0.15 General Availability](https://www.hashicorp.com/blog/announcing-hashicorp-terraform-0-15-general-availability)
+- [A new twist on using ‘personalized’ stem cells for studying dementia](https://singularityhub.com/2021/04/13/a-massive-new-gene-editing-project-is-out-to-crush-alzheimers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
