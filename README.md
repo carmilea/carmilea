@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Little Australian firm helped FBI unlock the San Bernardino shooter’s iPhone](https://www.washingtonpost.com/technology/2021/04/14/azimuth-san-bernardino-apple-iphone-fbi/)
+- [Just say no: negativity is secret of political tweet success, study finds](https://www.theguardian.com/technology/2021/apr/13/just-say-no-negativity-is-secret-of-political-tweet-success-study-finds)
+- [EU Commission to end AstraZeneca and J&J vaccine contracts at expiry](https://www.reuters.com/article/reutersComService_2_MOLT/idUSKBN2C10MU)
 - [Once on the Brink of Eradication, Syphilis Is Raging Again](https://www.npr.org/sections/health-shots/2021/04/14/986997576/once-on-the-brink-of-eradication-syphilis-is-raging-again)
 - [The Muse (YC W12) Is Hiring a Designer Come Join Our Team](https://www.themuse.com/jobs/themuse/product-designer-employer-squad)
-- [Show HN: Lofi.cafe](https://lofi.cafe)
-- [Denmark to permanently cease using AstraZeneca vaccine](https://www.reuters.com/article/idUSKBN2C118T)
-- [Logica: Modern Logic Programming](https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
