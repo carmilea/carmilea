@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: RentMyCPU – An open-source computational network](https://github.com/franklbt/RentMyCPU)
+- [Iran Says It Will Enrich Uranium to 60%](https://www.wsj.com/articles/iran-nuclear-negotiator-says-tehran-will-increase-purity-of-uranium-to-60-11618326331)
+- [Can continuation passing style code perform well?](http://funcall.blogspot.com/2021/04/can-continuation-passing-style-code.html)
+- [Effort to disrupt exploitation of Microsoft Exchange Server vulnerabilities](https://www.justice.gov/usao-sdtx/pr/justice-department-announces-court-authorized-effort-disrupt-exploitation-microsoft)
 - [EMU2: A simple text-mode x86 and DOS emulator](https://github.com/dmsc/emu2)
-- [Kubernetes Is So Simple You Can Explore It with Curl](https://blog.tilt.dev/2021/03/18/kubernetes-is-so-simple.html)
-- [We Are Living in a Climate Emergency, and We’re Going to Say So](https://www.scientificamerican.com/article/we-are-living-in-a-climate-emergency-and-were-going-to-say-so/)
-- [Previous Covid-19 may cut risk of reinfection 84%](https://www.cidrap.umn.edu/news-perspective/2021/04/previous-covid-19-may-cut-risk-reinfection-84)
-- [The most important statistical ideas of the past 50 years](https://fermatslibrary.com/s/what-are-the-most-important-statistical-ideas-of-the-past-50-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
