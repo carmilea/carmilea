@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bernie Madoff, Architect of Largest Ponzi Scheme in History, Is Dead at 82](https://www.nytimes.com/2021/04/14/business/bernie-madoff-dead.html)
+- [Space Junk Removal Is Not Going Smoothly](https://www.scientificamerican.com/article/space-junk-removal-is-not-going-smoothly/)
+- [Our plans for PeerTube v4](https://joinpeertube.org/news#roadmap-v4)
+- [Ask HN: How to Speak Confidently?](https://news.ycombinator.com/item?id=26807085)
 - [Bernie Madoff has died](https://www.bloomberg.com/news/articles/2021-04-14/ap-source-ponzi-schemer-bernie-madoff-dies-in-prison)
-- [Bernie Madoff, mastermind of the nation’s biggest investment fraud, dies at 82](https://www.cnbc.com/2021/04/14/bernie-madoff-dies-mastermind-of-the-nations-biggest-investment-fraud-was-82.html)
 - [Show HN: Encore – Go framework for building distributed systems](https://github.com/encoredev/encore)
-- [Little Australian firm helped FBI unlock the San Bernardino shooter’s iPhone](https://www.washingtonpost.com/technology/2021/04/14/azimuth-san-bernardino-apple-iphone-fbi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
