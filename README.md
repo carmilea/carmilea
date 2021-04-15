@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Acrobatic Grace of Cary Grant](https://www.criterion.com/current/posts/7268-the-acrobatic-grace-of-cary-grant)
-- [The Birthplace of AI: The 1956 Dartmouth Workshop](https://www.cantorsparadise.com/the-birthplace-of-ai-9ab7d4e5fb00)
-- [The Grand Unified Theory of Documentation](https://diataxis.fr/)
-- [The Nation's Corn Belt Has Lost a Third of Its Topsoil](https://www.smithsonianmag.com/science-nature/scientists-say-nations-corn-belt-has-lost-third-its-topsoil-180977485/)
-- [Policy and Disclosure: 2021 Edition](https://googleprojectzero.blogspot.com/2021/04/policy-and-disclosure-2021-edition.html)
+- [Mux (YC W16) is hiring people that want to build great mobile SDKs](https://mux.com/jobs?hnj=mobile)
+- [Mac Chimes of Death](https://512pixels.net/2021/04/mac-chimes-of-death/)
+- [DIY plastic recyclers: open-source machines for shredding plastic [audio]](https://www.bbc.co.uk/programmes/p09ddhz6)
+- [Show HN: The game where you test your offside decision-making skills against VAR](https://offsideornot.com/)
+- [IT companies warn in open letter: EU wants to ban encryption](https://mailbox.org/en/post/it-companies-warn-eu-plans-to-ban-encryption)
 <!-- BLOG-POST-LIST:END -->
 
 ---
