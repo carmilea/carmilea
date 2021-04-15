@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Berlin rent cap overturned by Germany's top court](https://www.dw.com/en/berlin-rent-cap-overturned-by-germanys-top-court/a-57209268)
+- [France cuts two nuclear-powered submarines in half to make one new one](https://abc17news.com/news/national-world/2021/04/14/france-cuts-two-nuclear-powered-submarines-in-half-to-make-one-new-one/)
 - [Find eng roles at over 800 fast-growing YC startups at Y Combinator.com/jobs](https://ycombinator.com/jobs)
 - [SQLite the only database you will ever need in most cases](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
 - [Psilocybin: Magic mushroom compound 'promising' for depression](https://www.bbc.co.uk/news/health-56745139)
-- [Europe eyes strict rules for artificial intelligence](https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/)
-- [wxWidgets 3.1.5 Released](http://wxwidgets.org/news/2021/04/wxwidgets-3.1.5-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
