@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canadian government proposes website-blocking system for piracy websites](https://www.canada.ca/en/canadian-heritage/news/2021/04/the-government-of-canada-launches-consultation-on-a-modern-copyright-framework-for-online-intermediaries.html)
-- [Apple Fitness+ introduces new workouts, trainers, and Time to Walk guest](https://www.apple.com/newsroom/2021/04/apple-fitness-plus-introduces-new-workouts-trainers-and-time-to-walk-guest/)
-- [A collection of open source, experimental, tiny tools](https://tinytools.directory/)
-- [Reasons to upgrade from Java 8](https://mikemybytes.com/2021/03/16/you-cant-afford-to-run-java-8/)
-- [Digital Audio 101: Playing Audio from a Microcontroller](https://blog.tarkalabs.com/digital-audio-101-playing-audio-from-a-microcontroller-5df1463616c)
+- [Golem democratizes society’s access to computing power](https://blog.golemproject.net/golem-primer/)
+- [Type Erasure in C++ Explained](https://blog.the-pans.com/type-erasure/)
+- [Work with GitHub Actions in Your Terminal with GitHub CLI](https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/)
+- [Floor, Ceiling, Bracket](https://www.johndcook.com/blog/2021/04/15/floor-ceiling-bracket/)
+- [European Union allowing the use of deepfakes](https://blog.lukaszolejnik.com/european-union-regulating-ai-allowing-the-use-of-deepfakes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
