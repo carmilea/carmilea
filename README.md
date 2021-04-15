@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Australian developers score the highest on coding tests](https://devskiller.com/it-skills-report/#Twelve)
+- [Find eng roles at over 800 fast-growing YC startups at Y Combinator.com/jobs](https://ycombinator.com/jobs)
+- [SQLite the only database you will ever need in most cases](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
+- [Psilocybin: Magic mushroom compound 'promising' for depression](https://www.bbc.co.uk/news/health-56745139)
 - [Europe eyes strict rules for artificial intelligence](https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/)
 - [wxWidgets 3.1.5 Released](http://wxwidgets.org/news/2021/04/wxwidgets-3.1.5-released/)
-- [New GitHub themes for VS Code](https://github.blog/changelog/2021-04-14-new-github-themes-for-vs-code/)
-- [SpaceX raises $1.16B in equity financing](https://mobile.reuters.com/article/idUSKBN2C11V9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
