@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The looming software kill-switch lurking in aging Playstation hardware](https://arstechnica.com/gaming/2021/04/the-looming-software-kill-switch-lurking-in-aging-playstation-hardware/)
+- [OneSignal (YC S11) Is Hiring in California, New York, Texas, and the UK](https://onesignal.com/careers)
 - [There’s Nothing to Do Except Gamble](https://nymag.com/intelligencer/2021/04/nft-future-of-money.html)
 - [High quality audio makes you sound smarter](https://tips.ariyh.com/p/good-sound-quality-smarter)
-- [Build on Redis Hackathon](https://hackathons.redislabs.com/hackathons/build-on-redis-hackathon)
 - [Calendso: An open source Calendly alternative](https://calendso.com)
-- [France cuts two nuclear-powered submarines in half to make one new one](https://abc17news.com/news/national-world/2021/04/14/france-cuts-two-nuclear-powered-submarines-in-half-to-make-one-new-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
