@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The looming software kill-switch lurking in aging Playstation hardware](https://arstechnica.com/gaming/2021/04/the-looming-software-kill-switch-lurking-in-aging-playstation-hardware/)
-- [OneSignal (YC S11) Is Hiring in California, New York, Texas, and the UK](https://onesignal.com/careers)
-- [There’s Nothing to Do Except Gamble](https://nymag.com/intelligencer/2021/04/nft-future-of-money.html)
-- [High quality audio makes you sound smarter](https://tips.ariyh.com/p/good-sound-quality-smarter)
-- [Calendso: An open source Calendly alternative](https://calendso.com)
+- [A New Standard for Mobile App Security](https://security.googleblog.com/2021/04/a-new-standard-for-mobile-app-security.html)
+- [Codecov bash uploader was compromised](https://about.codecov.io/security-update)
+- [The Pentagon will have to live with limits on F-35’s supersonic flights (2020)](https://www.defensenews.com/air/2020/04/24/the-pentagon-will-have-to-live-with-limits-on-f-35s-supersonic-flights/)
+- [Ghidra Analyzer for UEFI Firmware](https://github.com/DSecurity/efiSeek)
+- [Democrats to introduce legislation to expand Supreme Court](https://www.politico.com/news/2021/04/14/democrats-supreme-court-481640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
