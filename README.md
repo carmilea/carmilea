@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Acrobatic Grace of Cary Grant](https://www.criterion.com/current/posts/7268-the-acrobatic-grace-of-cary-grant)
+- [The Birthplace of AI: The 1956 Dartmouth Workshop](https://www.cantorsparadise.com/the-birthplace-of-ai-9ab7d4e5fb00)
+- [The Grand Unified Theory of Documentation](https://diataxis.fr/)
+- [The Nation's Corn Belt Has Lost a Third of Its Topsoil](https://www.smithsonianmag.com/science-nature/scientists-say-nations-corn-belt-has-lost-third-its-topsoil-180977485/)
 - [Policy and Disclosure: 2021 Edition](https://googleprojectzero.blogspot.com/2021/04/policy-and-disclosure-2021-edition.html)
-- [Rainforest QA (YC S12) hiring back end and front end folks internationally, remote](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source[]=HN)
-- [TSMC sees chip shortage lasting into 2022](https://www.reuters.com/article/us-tsmc-results-idUSKBN2C20IH)
-- [Golem democratizes society’s access to computing power](https://blog.golemproject.net/golem-primer/)
-- [Type Erasure in C++ Explained](https://blog.the-pans.com/type-erasure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
