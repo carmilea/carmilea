@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Effective Altruism Is Not Effective](http://www.philosophersbeard.org/2021/04/effective-altruism-is-not-effective.html)
-- [National Security Commission on AI Report [pdf]](https://www.nscai.gov/wp-content/uploads/2021/03/Full-Report-Digital-1.pdf)
+- [Sirum join a fast-growing, mission-driven healthcare team (ATL, Bay, Remote)](https://news.ycombinator.com/item?id=26815044)
+- [I am Sophie Zhang, Facebook whistleblower. Ask me anything](https://www.reddit.com/r/IAmA/comments/mqw86u/i_am_sophie_zhang_whistleblower_at_fb_i_worked_to/)
 - [Ask HN: Would issue “bounties” make contributing to open source more appealing?](https://news.ycombinator.com/item?id=26813725)
 - [Butterchurn – A WebGL Implementation of the Milkdrop Visualizer](https://github.com/jberg/butterchurn)
-- [Prospectus On Próspera](https://astralcodexten.substack.com/p/prospectus-on-prospera)
+- [Run unknown shell script with a line-by-line confirmation prompt](https://gist.github.com/wlib/093f8b8f670016813073a4c4f8b28e81)
 <!-- BLOG-POST-LIST:END -->
 
 ---
