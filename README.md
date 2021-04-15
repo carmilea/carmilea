@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CRTC allows small wireless carriers to use big networks](https://www.canada.ca/en/radio-television-telecommunications/news/2021/04/crtc-puts-measures-in-place-to-spur-more-mobile-wireless-competition-for-canadians.html)
-- [Fastmail to end support for operamail.com email addresses](https://www.fastmail.help/hc/en-us/articles/1500003586261-End-of-support-for-operamail-com-addresses)
+- [Element Matrix Services Launches Bridging for Microsoft Teams](https://element.io/blog/ems-launches-bridging-for-microsoft-teams/)
 - [PEP 563, PEP 649 and the future of pydantic and FastAPI](https://github.com/samuelcolvin/pydantic/issues/2678)
 - [Mux (YC W16) is hiring people that want to build great mobile SDKs](https://mux.com/jobs?hnj=mobile)
 - [Mac Chimes of Death](https://512pixels.net/2021/04/mac-chimes-of-death/)
