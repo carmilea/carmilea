@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bezos says Amazon needs to do better for employees in last letter as CEO](https://www.reuters.com/business/bezos-says-amazon-needs-do-better-employees-2021-04-15/)
+- [Rainforest QA (YC S12) hiring back end and front end folks internationally, remote](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source[]=HN)
+- [TSMC sees chip shortage lasting into 2022](https://www.reuters.com/article/us-tsmc-results-idUSKBN2C20IH)
 - [Golem democratizes society’s access to computing power](https://blog.golemproject.net/golem-primer/)
 - [Type Erasure in C++ Explained](https://blog.the-pans.com/type-erasure/)
-- [Work with GitHub Actions in Your Terminal with GitHub CLI](https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/)
-- [Floor, Ceiling, Bracket](https://www.johndcook.com/blog/2021/04/15/floor-ceiling-bracket/)
-- [European Union allowing the use of deepfakes](https://blog.lukaszolejnik.com/european-union-regulating-ai-allowing-the-use-of-deepfakes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
