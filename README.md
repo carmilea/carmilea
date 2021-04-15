@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canadian government proposes website-blocking system for piracy websites](https://www.canada.ca/en/canadian-heritage/news/2021/04/the-government-of-canada-launches-consultation-on-a-modern-copyright-framework-for-online-intermediaries.html)
+- [Apple Fitness+ introduces new workouts, trainers, and Time to Walk guest](https://www.apple.com/newsroom/2021/04/apple-fitness-plus-introduces-new-workouts-trainers-and-time-to-walk-guest/)
+- [A collection of open source, experimental, tiny tools](https://tinytools.directory/)
+- [Reasons to upgrade from Java 8](https://mikemybytes.com/2021/03/16/you-cant-afford-to-run-java-8/)
 - [Digital Audio 101: Playing Audio from a Microcontroller](https://blog.tarkalabs.com/digital-audio-101-playing-audio-from-a-microcontroller-5df1463616c)
-- [Ethereum Fork Fails on OpenEthereum](https://github.com/openethereum/openethereum/issues/353)
-- [Reuters website goes behind paywall in new strategy](https://www.reuters.com/article/us-thomson-reuters-professional-website/reuters-website-goes-behind-paywall-in-new-strategy-idUSKBN2C21QU)
-- [A New Standard for Mobile App Security](https://security.googleblog.com/2021/04/a-new-standard-for-mobile-app-security.html)
-- [Bash Uploader Security Update](https://about.codecov.io/security-update)
 <!-- BLOG-POST-LIST:END -->
 
 ---
