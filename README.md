@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Redis $100K Hackathon is LIVE (April 15 – May 15)](http://hackathons.redislabs.com/)
-- [Calendso: The open source Calendly alternative](https://calendso.com)
+- [There’s Nothing to Do Except Gamble](https://nymag.com/intelligencer/2021/04/nft-future-of-money.html)
+- [High quality audio makes you sound smarter](https://tips.ariyh.com/p/good-sound-quality-smarter)
+- [Build on Redis Hackathon](https://hackathons.redislabs.com/hackathons/build-on-redis-hackathon)
+- [Calendso: An open source Calendly alternative](https://calendso.com)
 - [France cuts two nuclear-powered submarines in half to make one new one](https://abc17news.com/news/national-world/2021/04/14/france-cuts-two-nuclear-powered-submarines-in-half-to-make-one-new-one/)
-- [Don't Use Google Chrome](https://spreadprivacy.com/block-floc-with-duckduckgo/)
-- [Find eng roles at over 800 fast-growing YC startups at Y Combinator.com/jobs](https://ycombinator.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
