@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Australian developers score the highest on coding tests](https://devskiller.com/it-skills-report/#Twelve)
+- [Europe eyes strict rules for artificial intelligence](https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/)
+- [wxWidgets 3.1.5 Released](http://wxwidgets.org/news/2021/04/wxwidgets-3.1.5-released/)
 - [New GitHub themes for VS Code](https://github.blog/changelog/2021-04-14-new-github-themes-for-vs-code/)
-- [Show HN: Puppeteer scripts in the Browser, DevTools on remote pages](https://pptrconsole.com?a)
-- [Sirum (YC W15) is hiring: join a fast-growing, mission-driven healthcare team](https://news.ycombinator.com/item?id=26815044)
-- [Don't Pick Up: Missed calls in India](https://restofworld.org/2021/the-rise-and-fall-of-missed-calls-in-india/)
+- [SpaceX raises $1.16B in equity financing](https://mobile.reuters.com/article/idUSKBN2C11V9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
