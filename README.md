@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pfizer Covid-19 vaccine linked to prion-based disease in vaccine recipients [pdf]](https://scivisionpub.com/pdfs/covid19-rna-based-vaccines-and-the-risk-of-prion-disease-1503.pdf)
-- [The American Jobs Plan Will Make Our Infrastructure Crisis Worse](https://www.strongtowns.org/journal/2021/4/12/the-american-jobs-plan-will-make-our-infrastructure-crisis-worse)
 - [Sirum (YC W15) is hiring: join a fast-growing, mission-driven healthcare team](https://news.ycombinator.com/item?id=26815044)
 - [Don't Pick Up: Missed calls in India](https://restofworld.org/2021/the-rise-and-fall-of-missed-calls-in-india/)
 - [Effective altruism is not effective](http://www.philosophersbeard.org/2021/04/effective-altruism-is-not-effective.html)
+- [Ask HN: Would issue “bounties” make contributing to open source more appealing?](https://news.ycombinator.com/item?id=26813725)
+- [Butterchurn – A WebGL Implementation of the Milkdrop Visualizer](https://github.com/jberg/butterchurn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
