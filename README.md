@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bezos says Amazon needs to do better for employees in last letter as CEO](https://www.reuters.com/business/bezos-says-amazon-needs-do-better-employees-2021-04-15/)
+- [Policy and Disclosure: 2021 Edition](https://googleprojectzero.blogspot.com/2021/04/policy-and-disclosure-2021-edition.html)
 - [Rainforest QA (YC S12) hiring back end and front end folks internationally, remote](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source[]=HN)
 - [TSMC sees chip shortage lasting into 2022](https://www.reuters.com/article/us-tsmc-results-idUSKBN2C20IH)
 - [Golem democratizes society’s access to computing power](https://blog.golemproject.net/golem-primer/)
