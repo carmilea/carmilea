@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Australian developers score the highest on coding tests](https://devskiller.com/it-skills-report/#Twelve)
+- [New GitHub themes for VS Code](https://github.blog/changelog/2021-04-14-new-github-themes-for-vs-code/)
+- [Show HN: Puppeteer scripts in the Browser, DevTools on remote pages](https://pptrconsole.com?a)
 - [Sirum (YC W15) is hiring: join a fast-growing, mission-driven healthcare team](https://news.ycombinator.com/item?id=26815044)
 - [Don't Pick Up: Missed calls in India](https://restofworld.org/2021/the-rise-and-fall-of-missed-calls-in-india/)
-- [Effective altruism is not effective](http://www.philosophersbeard.org/2021/04/effective-altruism-is-not-effective.html)
-- [Ask HN: Would issue “bounties” make contributing to open source more appealing?](https://news.ycombinator.com/item?id=26813725)
-- [Butterchurn – A WebGL Implementation of the Milkdrop Visualizer](https://github.com/jberg/butterchurn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
