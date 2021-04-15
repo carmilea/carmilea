@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Redis $100K Hackathon is LIVE (April 15 – May 15)](http://hackathons.redislabs.com/)
 - [Calendso: The open source Calendly alternative](https://calendso.com)
-- [Berlin rent cap overturned by Germany's top court](https://www.dw.com/en/berlin-rent-cap-overturned-by-germanys-top-court/a-57209268)
 - [France cuts two nuclear-powered submarines in half to make one new one](https://abc17news.com/news/national-world/2021/04/14/france-cuts-two-nuclear-powered-submarines-in-half-to-make-one-new-one/)
 - [Don't Use Google Chrome](https://spreadprivacy.com/block-floc-with-duckduckgo/)
 - [Find eng roles at over 800 fast-growing YC startups at Y Combinator.com/jobs](https://ycombinator.com/jobs)
