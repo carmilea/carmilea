@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital Audio 101: Playing Audio from a Microcontroller](https://blog.tarkalabs.com/digital-audio-101-playing-audio-from-a-microcontroller-5df1463616c)
+- [Ethereum Fork Fails on OpenEthereum](https://github.com/openethereum/openethereum/issues/353)
+- [Reuters website goes behind paywall in new strategy](https://www.reuters.com/article/us-thomson-reuters-professional-website/reuters-website-goes-behind-paywall-in-new-strategy-idUSKBN2C21QU)
 - [A New Standard for Mobile App Security](https://security.googleblog.com/2021/04/a-new-standard-for-mobile-app-security.html)
-- [Codecov bash uploader was compromised](https://about.codecov.io/security-update)
-- [The Pentagon will have to live with limits on F-35’s supersonic flights (2020)](https://www.defensenews.com/air/2020/04/24/the-pentagon-will-have-to-live-with-limits-on-f-35s-supersonic-flights/)
-- [Ghidra Analyzer for UEFI Firmware](https://github.com/DSecurity/efiSeek)
-- [Democrats to introduce legislation to expand Supreme Court](https://www.politico.com/news/2021/04/14/democrats-supreme-court-481640)
+- [Bash Uploader Security Update](https://about.codecov.io/security-update)
 <!-- BLOG-POST-LIST:END -->
 
 ---
