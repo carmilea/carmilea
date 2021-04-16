@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google misled consumers about the collection and use of location data](https://www.accc.gov.au/media-release/google-misled-consumers-about-the-collection-and-use-of-location-data)
-- [YouTube took down Lex Fridman episode 127 with Joe Rogan](https://twitter.com/lexfridman/status/1382864214222458880)
-- [Linus Torvalds on Rust support in kernel](https://lkml.org/lkml/2021/4/14/1099)
-- [U.S. House committee approves blueprint for Big Tech crackdown](https://www.reuters.com/business/us-house-committee-approves-blueprint-big-tech-crackdown-2021-04-15/)
-- [Turkey bans use of cryptocurrencies for payments](https://www.reuters.com/technology/turkey-bans-use-cryptocurrencies-payments-sends-bitcoin-down-2021-04-16/)
+- [Legalist (YC S16) is hiring a senior software engineer](https://angel.co/company/legalist/jobs/1311267-senior-software-product-engineer)
+- [A top audio engineer explains NPR’s signature sound (2015)](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/)
+- [LLVM 12 has been released](https://releases.llvm.org/12.0.0/docs/ReleaseNotes.html)
+- [Tech Tent: Bye-bye Silicon Valley, hello global workforce?](https://www.bbc.com/news/technology-56771539)
+- [My Go Executable Files Are Still Getting Larger (What's New in 2021 and Go 1.16)](https://www.cockroachlabs.com/blog/go-file-size-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
