@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin miners are buying power plants](https://www.nysfocus.com/2021/04/13/new-york-bitcoin-mining-threat/)
 - [Raycast (YC W20) Is Hiring](https://raycast.com/jobs)
 - [German constitutional court strikes down Berlin rent cap](https://www.politico.eu/article/court-strikes-down-berlin-rent-cap/)
-- [Java Is Criminally Underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
 - [CRTC allows small wireless carriers to use big networks](https://www.canada.ca/en/radio-television-telecommunications/news/2021/04/crtc-puts-measures-in-place-to-spur-more-mobile-wireless-competition-for-canadians.html)
-- [Element Matrix Services Launches Bridging for Microsoft Teams](https://element.io/blog/ems-launches-bridging-for-microsoft-teams/)
+- [Book Review: Ravenna](https://newhumanist.org.uk/articles/5786/book-review-ravenna)
 <!-- BLOG-POST-LIST:END -->
 
 ---
