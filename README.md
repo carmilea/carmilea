@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Legalist (YC S16) is hiring a senior software engineer](https://angel.co/company/legalist/jobs/1311267-senior-software-product-engineer)
 - [A top audio engineer explains NPR’s signature sound (2015)](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/)
-- [LLVM 12 has been released](https://releases.llvm.org/12.0.0/docs/ReleaseNotes.html)
+- ['Whitest ever' paint reflects 98% of sunlight](https://www.bbc.com/news/science-environment-56749105)
+- [LLVM 12](https://releases.llvm.org/12.0.0/docs/ReleaseNotes.html)
 - [Tech Tent: Bye-bye Silicon Valley, hello global workforce?](https://www.bbc.com/news/technology-56771539)
-- [My Go Executable Files Are Still Getting Larger (What's New in 2021 and Go 1.16)](https://www.cockroachlabs.com/blog/go-file-size-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
