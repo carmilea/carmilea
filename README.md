@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Foundations of Complexity Economics](https://www.nature.com/articles/s42254-020-00273-3)
+- [Content-aware image resizing in JavaScript](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
+- [Architecture of a desktop-like SPA](https://blog.uidrafter.com/engineering/architecture-of-a-desktop-alike-spa)
 - [Facebook prevents sharing New York Post story on BLM co-founder's real estate](https://www.newsweek.com/facebook-prevents-sharing-new-york-post-story-black-lives-matter-founder-patrisse-cullors-real-1584050)
 - [Tesorio Is Hiring a Data Architect, Senior DevOps, Senior Data Scientist](https://www.tesorio.com/careers#job-openings)
-- [Standard Notes is a safe place for your notes, thoughts, and life's work](https://standardnotes.org)
-- [Privacy group is preparing a case to the Irish courts over Facebook data leak](https://www.bbc.com/news/technology-56772772)
-- [QUIC and HTTP/3 Support Now in Firefox Nightly and Beta](https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
