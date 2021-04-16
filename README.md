@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [List of Emerging Technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
-- [BBC employee says ‘incredible’ amounts of complaints have racial bias](https://www.theguardian.com/media/2021/apr/16/bbc-employee-says-incredible-amounts-of-complaints-have-racial-bias)
-- [SpaceX wins contract to develop spacecraft to land astronauts on the moon](https://www.washingtonpost.com/technology/2021/04/16/nasa-lunar-lander-contract-spacex/)
-- [Twitter Suspends James O'Keefe After Project Veritas “Expose CNN” Series](https://www.projectveritas.com/news/james-okeefe-responds-to-twitter-account-suspension-following-bombshell-cnn/)
-- [Squarespace S1](https://www.sec.gov/Archives/edgar/data/1496963/000110465921051251/tm213918-6_s1.htm)
+- [Largest card grading service halts submissions](https://www.espn.com/mlb/story/_/id/31244566/hobby-searches-answers-psa-grading-services-halts-card-submissions)
+- [My company got pitched on anonymous sign in – curious to hear pros and cons](https://human-id.org/)
+- [Flashlight: Fast and flexible machine learning in C++](https://ai.facebook.com/blog/flashlight-fast-and-flexible-machine-learning-in-c-plus-plus/)
+- [Epic Games certificate expiration incident report](https://www.epicgames.com/site/en-US/expiration-date-4-6-2021)
+- [Why the United States has the best research universities](https://www.aeaweb.org/research/research-universities-incentives-resources-virtuous-circles-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
