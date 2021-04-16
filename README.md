@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to fight back against Google FLoC](https://plausible.io/blog/google-floc)
+- [Lisp and the Web: Creating Web Apps Through Lisp and GCE](https://medium.math.dev/lisp-the-web-4c00c88d11f9)
+- [Facebook removed fake accounts in India until it saw BJP politician was involved](https://www.theguardian.com/technology/2021/apr/15/facebook-india-bjp-fake-accounts)
 - [There Are No Good Arguments for Intellectual Property (2010)](http://c4sif.org/2010/12/there-are-no-good-arguments-for-intellectual-property/)
 - [Opting Your Website Out of Google's FLoC Network](https://paramdeo.com/blog/opting-your-website-out-of-googles-floc-network)
 - [Docker Desktop for Mac (Apple Silicon)](https://www.docker.com/blog/released-docker-desktop-for-mac-apple-silicon/)
-- [Raycast (YC W20) Is Hiring](https://raycast.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
