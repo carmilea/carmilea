@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reuters website goes behind paywall in new strategy](https://www.reuters.com/business/reuters-website-goes-behind-paywall-new-strategy-2021-04-15/)
+- [How to fight back against Google FLoC](https://plausible.io/blog/google-floc)
+- [There Are No Good Arguments for Intellectual Property (2010)](http://c4sif.org/2010/12/there-are-no-good-arguments-for-intellectual-property/)
 - [Opting Your Website Out of Google's FLoC Network](https://paramdeo.com/blog/opting-your-website-out-of-googles-floc-network)
 - [Docker Desktop for Mac (Apple Silicon)](https://www.docker.com/blog/released-docker-desktop-for-mac-apple-silicon/)
-- [Bitcoin miners are buying power plants](https://www.nysfocus.com/2021/04/13/new-york-bitcoin-mining-threat/)
 - [Raycast (YC W20) Is Hiring](https://raycast.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
