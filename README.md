@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reuters website goes behind paywall in new strategy](https://www.reuters.com/business/reuters-website-goes-behind-paywall-new-strategy-2021-04-15/)
+- [Opting Your Website Out of Google's FLoC Network](https://paramdeo.com/blog/opting-your-website-out-of-googles-floc-network)
+- [Docker Desktop for Mac (Apple Silicon)](https://www.docker.com/blog/released-docker-desktop-for-mac-apple-silicon/)
 - [Bitcoin miners are buying power plants](https://www.nysfocus.com/2021/04/13/new-york-bitcoin-mining-threat/)
 - [Raycast (YC W20) Is Hiring](https://raycast.com/jobs)
-- [German constitutional court strikes down Berlin rent cap](https://www.politico.eu/article/court-strikes-down-berlin-rent-cap/)
-- [CRTC allows small wireless carriers to use big networks](https://www.canada.ca/en/radio-television-telecommunications/news/2021/04/crtc-puts-measures-in-place-to-spur-more-mobile-wireless-competition-for-canadians.html)
-- [Book Review: Ravenna](https://newhumanist.org.uk/articles/5786/book-review-ravenna)
 <!-- BLOG-POST-LIST:END -->
 
 ---
