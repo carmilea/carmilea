@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: India's first self-driving electric car built by 20 years old student](https://anchor.fm/life-of-utkarsh/episodes/Indias-first-self-driving-electric-car-with-Gagandeep-Reehal-of-Minus-Zero-eup1e3)
+- [Squarespace S1](https://www.sec.gov/Archives/edgar/data/1496963/000110465921051251/tm213918-6_s1.htm)
+- [Dendron (YC W21) Is Hiring](https://wiki.dendron.so/notes/c378b702-7d49-4e91-be6e-b2078103c86e.html)
+- [U.S. Housing Market Is Nearly 4M Homes Short of Buyer Demand](https://www.wsj.com/articles/u-s-housing-market-is-nearly-4-million-homes-short-of-buyer-demand-11618484400)
 - [Why has no one made a better Goodreads](https://uxdesign.cc/why-has-no-one-made-a-better-goodreads-dfc9cb9e149a)
-- [Princeton admits record-low 3.98% of applicants in historic application cycle](https://www.dailyprincetonian.com/article/2021/04/princeton-college-admissions-class-of-2025-ivy-league)
 - [How Did a Self-Taught Linguist Come to Own an Indigenous Language?](https://www.newyorker.com/magazine/2021/04/19/how-did-a-self-taught-linguist-come-to-own-an-indigenous-language)
-- [How Should We Critique Research?](https://www.gwern.net/Research-criticism)
 <!-- BLOG-POST-LIST:END -->
 
 ---
