@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: India's first self-driving electric car built by 20 years old student](https://anchor.fm/life-of-utkarsh/episodes/Indias-first-self-driving-electric-car-with-Gagandeep-Reehal-of-Minus-Zero-eup1e3)
 - [Why has no one made a better Goodreads](https://uxdesign.cc/why-has-no-one-made-a-better-goodreads-dfc9cb9e149a)
 - [Princeton admits record-low 3.98% of applicants in historic application cycle](https://www.dailyprincetonian.com/article/2021/04/princeton-college-admissions-class-of-2025-ivy-league)
-- [How Sex Surrogates Are Helping Injured Israeli Soldiers](https://www.bbc.com/news/stories-56737828)
+- [How Did a Self-Taught Linguist Come to Own an Indigenous Language?](https://www.newyorker.com/magazine/2021/04/19/how-did-a-self-taught-linguist-come-to-own-an-indigenous-language)
 - [How Should We Critique Research?](https://www.gwern.net/Research-criticism)
-- [Unifying the CUDA Python Ecosystem](https://developer.nvidia.com/blog/unifying-the-cuda-python-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
