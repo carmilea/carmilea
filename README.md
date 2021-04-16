@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds](https://nvlabs.github.io/GANcraft/)
+- [First of its kind study pits psilocybin against a common antidepressant](https://www.statnews.com/2021/04/14/psilocybin-depression-psychedelics-escitalopram/)
 - [Legalist (YC S16) is hiring a senior software engineer](https://angel.co/company/legalist/jobs/1311267-senior-software-product-engineer)
 - [A top audio engineer explains NPR’s signature sound (2015)](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/)
-- ['Whitest ever' paint reflects 98% of sunlight](https://www.bbc.com/news/science-environment-56749105)
-- [LLVM 12](https://releases.llvm.org/12.0.0/docs/ReleaseNotes.html)
-- [Tech Tent: Bye-bye Silicon Valley, hello global workforce?](https://www.bbc.com/news/technology-56771539)
+- ['Whitest ever' paint reflects 98% of sunlight](https://www.bbc.co.uk/news/science-environment-56749105)
 <!-- BLOG-POST-LIST:END -->
 
 ---
