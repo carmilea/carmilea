@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linus Torvalds on Rust support in kernel](https://lkml.org/lkml/2021/4/14/1099)
+- [U.S. House committee approves blueprint for Big Tech crackdown](https://www.reuters.com/business/us-house-committee-approves-blueprint-big-tech-crackdown-2021-04-15/)
 - [Turkey bans use of cryptocurrencies for payments](https://www.reuters.com/technology/turkey-bans-use-cryptocurrencies-payments-sends-bitcoin-down-2021-04-16/)
 - [FLoC Away from Chrome](https://www.floc-away-from-chrome.com/)
 - [Lisp and the Web: Creating Web Apps Through Lisp and GCE](https://medium.math.dev/lisp-the-web-4c00c88d11f9)
-- [Facebook removed fake accounts in India until it saw BJP politician was involved](https://www.theguardian.com/technology/2021/apr/15/facebook-india-bjp-fake-accounts)
-- [Opting Your Website Out of Google's FLoC Network](https://paramdeo.com/blog/opting-your-website-out-of-googles-floc-network)
 <!-- BLOG-POST-LIST:END -->
 
 ---
