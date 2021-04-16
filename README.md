@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds](https://nvlabs.github.io/GANcraft/)
-- [First of its kind study pits psilocybin against a common antidepressant](https://www.statnews.com/2021/04/14/psilocybin-depression-psychedelics-escitalopram/)
-- [Legalist (YC S16) is hiring a senior software engineer](https://angel.co/company/legalist/jobs/1311267-senior-software-product-engineer)
-- [A top audio engineer explains NPR’s signature sound (2015)](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/)
-- ['Whitest ever' paint reflects 98% of sunlight](https://www.bbc.co.uk/news/science-environment-56749105)
+- [Why has no one made a better Goodreads](https://uxdesign.cc/why-has-no-one-made-a-better-goodreads-dfc9cb9e149a)
+- [Princeton admits record-low 3.98% of applicants in historic application cycle](https://www.dailyprincetonian.com/article/2021/04/princeton-college-admissions-class-of-2025-ivy-league)
+- [How Sex Surrogates Are Helping Injured Israeli Soldiers](https://www.bbc.com/news/stories-56737828)
+- [How Should We Critique Research?](https://www.gwern.net/Research-criticism)
+- [Unifying the CUDA Python Ecosystem](https://developer.nvidia.com/blog/unifying-the-cuda-python-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
