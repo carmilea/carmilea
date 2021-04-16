@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Arkansas House passes unconstitutional bill putting creationism in schools](https://arstechnica.com/science/2021/04/arkansas-representatives-passes-a-bill-to-allow-creationism-in-schools/)
+- [Neurons might contain something within them](https://join.substack.com/p/is-this-the-most-interesting-idea)
 - [Largest card grading service halts submissions](https://www.espn.com/mlb/story/_/id/31244566/hobby-searches-answers-psa-grading-services-halts-card-submissions)
 - [My company got pitched on anonymous sign in – curious to hear pros and cons](https://human-id.org/)
 - [Flashlight: Fast and flexible machine learning in C++](https://ai.facebook.com/blog/flashlight-fast-and-flexible-machine-learning-in-c-plus-plus/)
-- [Epic Games certificate expiration incident report](https://www.epicgames.com/site/en-US/expiration-date-4-6-2021)
-- [Why the United States has the best research universities](https://www.aeaweb.org/research/research-universities-incentives-resources-virtuous-circles-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
