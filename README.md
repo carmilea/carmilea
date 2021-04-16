@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WiFi Dabba is hiring network engineers for the cheapest and fastest ISP in India](https://www.ycombinator.com/companies/wifi-dabba-inc/jobs/v2FdCwZ-lead-network-engineer-for-an-internet-service-provider)
-- [Why did Facebook censor the New York Post's article on BLM founder?](https://www.inquiremore.com/p/why-did-facebook-censor-the-new-york)
+- [Raycast (YC W20) Is Hiring](https://raycast.com/jobs)
+- [German constitutional court strikes down Berlin rent cap](https://www.politico.eu/article/court-strikes-down-berlin-rent-cap/)
+- [Java Is Criminally Underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
 - [CRTC allows small wireless carriers to use big networks](https://www.canada.ca/en/radio-television-telecommunications/news/2021/04/crtc-puts-measures-in-place-to-spur-more-mobile-wireless-competition-for-canadians.html)
 - [Element Matrix Services Launches Bridging for Microsoft Teams](https://element.io/blog/ems-launches-bridging-for-microsoft-teams/)
-- [PEP 563, PEP 649 and the future of pydantic and FastAPI](https://github.com/samuelcolvin/pydantic/issues/2678)
 <!-- BLOG-POST-LIST:END -->
 
 ---
