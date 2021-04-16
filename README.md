@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turkey bans use of cryptocurrencies for payments](https://www.reuters.com/technology/turkey-bans-use-cryptocurrencies-payments-sends-bitcoin-down-2021-04-16/)
 - [FLoC Away from Chrome](https://www.floc-away-from-chrome.com/)
 - [Lisp and the Web: Creating Web Apps Through Lisp and GCE](https://medium.math.dev/lisp-the-web-4c00c88d11f9)
 - [Facebook removed fake accounts in India until it saw BJP politician was involved](https://www.theguardian.com/technology/2021/apr/15/facebook-india-bjp-fake-accounts)
 - [Opting Your Website Out of Google's FLoC Network](https://paramdeo.com/blog/opting-your-website-out-of-googles-floc-network)
-- [Docker Desktop for Mac (Apple Silicon)](https://www.docker.com/blog/released-docker-desktop-for-mac-apple-silicon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
