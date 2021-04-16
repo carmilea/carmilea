@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Arkansas House passes unconstitutional bill putting creationism in schools](https://arstechnica.com/science/2021/04/arkansas-representatives-passes-a-bill-to-allow-creationism-in-schools/)
-- [Neurons might contain something within them](https://join.substack.com/p/is-this-the-most-interesting-idea)
-- [Largest card grading service halts submissions](https://www.espn.com/mlb/story/_/id/31244566/hobby-searches-answers-psa-grading-services-halts-card-submissions)
-- [My company got pitched on anonymous sign in – curious to hear pros and cons](https://human-id.org/)
-- [Flashlight: Fast and flexible machine learning in C++](https://ai.facebook.com/blog/flashlight-fast-and-flexible-machine-learning-in-c-plus-plus/)
+- [Tesorio Is Hiring a Data Architect, Senior DevOps, Senior Data Scientist](https://www.tesorio.com/careers#job-openings)
+- [Facebook faces mass legal action over data leak](https://www.bbc.com/news/technology-56772772)
+- [QUIC and HTTP/3 Support Now in Firefox Nightly and Beta](https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/)
+- [Collection of Quotes on Notation Design](https://github.com/hypotext/notation)
+- [What I Wish I Knew About U2F and Other Hardware MFA Protocols](https://goteleport.com/blog/u2f-lessons-learned/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
