@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google misled consumers about the collection and use of location data](https://www.accc.gov.au/media-release/google-misled-consumers-about-the-collection-and-use-of-location-data)
+- [YouTube took down Lex Fridman episode 127 with Joe Rogan](https://twitter.com/lexfridman/status/1382864214222458880)
 - [Linus Torvalds on Rust support in kernel](https://lkml.org/lkml/2021/4/14/1099)
 - [U.S. House committee approves blueprint for Big Tech crackdown](https://www.reuters.com/business/us-house-committee-approves-blueprint-big-tech-crackdown-2021-04-15/)
 - [Turkey bans use of cryptocurrencies for payments](https://www.reuters.com/technology/turkey-bans-use-cryptocurrencies-payments-sends-bitcoin-down-2021-04-16/)
-- [FLoC Away from Chrome](https://www.floc-away-from-chrome.com/)
-- [Lisp and the Web: Creating Web Apps Through Lisp and GCE](https://medium.math.dev/lisp-the-web-4c00c88d11f9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
