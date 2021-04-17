@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Ship Got Stuck: What happens when 70M people visit your joke site?](https://warzel.substack.com/p/a-ship-got-stuck-so-he-built-a-website)
+- [I'd like to review your README](https://liw.fi/readme-review/)
 - [Why Spy Agencies Say the Future Is Bleak](https://www.nytimes.com/2021/04/15/opinion/global-trends-intelligence-report.html)
 - [Self-Supervised Video Object Segmentation by Motion Grouping](https://charigyang.github.io/motiongroup/)
-- [Humans Will Never Colonize Mars](https://gizmodo.com/humans-will-never-colonize-mars-1836316222)
 - [Librem 14 begins shipping](https://puri.sm/posts/librem-14-begins-shipping/)
-- [Zorin OS 16](https://blog.zorin.com/2021/04/15/introducing-zorin-os-16-test-the-beta-today/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
