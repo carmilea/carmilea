@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pangolin UI, a Desktop Shell, Written in Flutter, for Linux and Zircona](https://web.dahliaos.io/)
 - [Battle of the Python Dashboarding Giants: Streamlit vs. Dash vs. Voilà vs. Panel](https://medium.datadriveninvestor.com/streamlit-vs-dash-vs-voil%C3%A0-vs-panel-battle-of-the-python-dashboarding-giants-177c40b9ea57)
 - [A Ship Got Stuck: What happens when 70M people visit your joke site?](https://warzel.substack.com/p/a-ship-got-stuck-so-he-built-a-website)
 - [I'd like to review your README](https://liw.fi/readme-review/)
 - [Why Spy Agencies Say the Future Is Bleak](https://www.nytimes.com/2021/04/15/opinion/global-trends-intelligence-report.html)
-- [Self-Supervised Video Object Segmentation by Motion Grouping](https://charigyang.github.io/motiongroup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
