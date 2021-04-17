@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Spy Agencies Say the Future Is Bleak](https://www.nytimes.com/2021/04/15/opinion/global-trends-intelligence-report.html)
+- [Self-Supervised Video Object Segmentation by Motion Grouping](https://charigyang.github.io/motiongroup/)
+- [Humans Will Never Colonize Mars](https://gizmodo.com/humans-will-never-colonize-mars-1836316222)
 - [Librem 14 begins shipping](https://puri.sm/posts/librem-14-begins-shipping/)
 - [Zorin OS 16](https://blog.zorin.com/2021/04/15/introducing-zorin-os-16-test-the-beta-today/)
-- [Corrupt Signal DB issue crashing App and losing data](https://github.com/signalapp/Signal-Android/issues/11160)
-- [Nassim Taleb: Bitcoin failed as a currency and became a speculative ponzi scheme](https://digesttime.com/2021/04/16/nassim-taleb-bitcoin-failed-as-a-currency-and-became-a-speculative-ponzi-scheme/)
-- [The signs that make a city](https://tribunemag.co.uk/2021/04/the-signs-that-make-a-city)
 <!-- BLOG-POST-LIST:END -->
 
 ---
