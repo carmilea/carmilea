@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon’s ‘Lord of the Rings’ series will cost at least $465M for first season](https://www.cnbc.com/2021/04/16/amazons-lord-of-the-rings-will-cost-at-least-465-million.html)
-- [SolarWinds hacking campaign puts Microsoft in hot seat](https://apnews.com/article/politics-malware-national-security-email-software-f51e53523312b87121146de8fd7c0020)
-- [Seam carving in Julia (by 3Blue1Brown) [video]](https://www.youtube.com/watch?v=rpB6zQNsbQU)
-- [Twitter Experiences Widespread Outages](https://variety.com/2021/digital/news/twitter-down-outage-1234953749/)
-- [ShortDOI: Official DOI Shortener](https://shortdoi.org/)
+- [Show HN: Giving mother-in-law a super easy Internet radio with real icon buttons](http://bef.no/radio/)
+- [Retro nostalgia and why my new website looks like Window 9x (2019)](https://ash.ms/2019-10-02/retro-website-launch/)
+- [WebGL is mostly used for fingerprinting](https://jonatron.github.io/webgl-fingerprinting/)
+- [SPAC Wipeout Is Punishing Followers of Chamath Palihapitiya](https://www.bloomberg.com/news/articles/2021-04-17/spac-wipeout-is-punishing-followers-of-chamath-palihapitiya)
+- [Stamping the Joy Out of Collectors](https://notalwaysright.com/stamping-the-joy-out-of-collectors/224082/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
