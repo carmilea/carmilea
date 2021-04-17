@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon’s ‘Lord of the Rings’ series will cost at least $465M for first season](https://www.cnbc.com/2021/04/16/amazons-lord-of-the-rings-will-cost-at-least-465-million.html)
+- [SolarWinds hacking campaign puts Microsoft in hot seat](https://apnews.com/article/politics-malware-national-security-email-software-f51e53523312b87121146de8fd7c0020)
 - [Seam carving in Julia (by 3Blue1Brown) [video]](https://www.youtube.com/watch?v=rpB6zQNsbQU)
-- [New biotech company from Bristol uses linoleic acid as pan coronavirus antiviral](https://halo-therapeutics.com/)
-- [Twitter Down: Service Experiences Widespread Outage](https://variety.com/2021/digital/news/twitter-down-outage-1234953749/)
+- [Twitter Experiences Widespread Outages](https://variety.com/2021/digital/news/twitter-down-outage-1234953749/)
 - [ShortDOI: Official DOI Shortener](https://shortdoi.org/)
-- [Having fun with CP/M on a Z80 single-board computer](https://blog.steve.fi/having_fun_with_cp_m_on_a_z80_single_board_computer_.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
