@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New biotech company from Bristol uses linoleic acid as pan coronavirus antiviral](https://halo-therapeutics.com/)
+- [Twitter Down: Service Experiences Widespread Outage](https://variety.com/2021/digital/news/twitter-down-outage-1234953749/)
+- [Having fun with CP/M on a Z80 single-board computer](https://blog.steve.fi/having_fun_with_cp_m_on_a_z80_single_board_computer_.html)
 - [Pachyderm Is Hiring Senior Demand Gen, TMM, and Product Marketing Roles](https://www.pachyderm.com/careers/#positions)
-- [Show HN: 25 science and math flavored programming problems for beginners](https://projectlovelace.net/problems/)
-- [Policing the Police by scraping court data](https://www.reddit.com/r/privacy/comments/gr11aw/i_think_i_accidentally_started_a_movement/)
-- [Onboarding with an M1](https://authzed.com/blog/onboarding-with-an-m1/)
-- [5G: The Outsourced Elephant in the Room](https://berthub.eu/articles/posts/5g-elephant-in-the-room/)
+- [What’s the Origin of the Phrase “Big Data Doesn’t Fit in Excel”?](https://shkspr.mobi/blog/2021/04/whats-the-origin-of-the-phrase-big-data-doesnt-fit-in-excel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
