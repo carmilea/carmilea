@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google used ‘double-Irish’ to shift $75.4bn in profits out of Ireland](https://www.irishtimes.com/business/technology/google-used-double-irish-to-shift-75-4bn-in-profits-out-of-ireland-1.4540519)
+- [‘Freeze the keys’ key-locking mechanism aims to prevent suicide among veterans](https://academictimes.com/freeze-the-keys-key-locking-mechanism-aims-to-prevent-suicide-among-veterans/)
+- [GitHub Reinstated YouTube-DL but Restoring Forks Is Apparently a Problem](https://torrentfreak.com/github-reinstated-youtube-dl-but-restoring-forks-is-apparently-a-problem-210417/)
 - [Ask HN: What was the biggest leadership challenge of your career?](https://news.ycombinator.com/item?id=26847816)
-- [Daughter from California Syndrome](https://en.wikipedia.org/wiki/Daughter_from_California_syndrome)
-- [EasyPost (YC S13) Is Hiring (Remote)](https://www.easypost.com/careers)
-- [Buy it for life: Durable, Quality, Practical](https://www.buyforlife.com/)
-- [Bzg/woof: online monitor for mailing list based patch workflow](https://github.com/bzg/woof)
+- [Thanks for the Bonus, I Quit](https://madned.substack.com/p/thanks-for-the-bonus-i-quit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
