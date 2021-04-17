@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [5G: The Outsourced Elephant in the Room](https://berthub.eu/articles/posts/5g-elephant-in-the-room/)
+- [55% of all Tether, $25B, were created in 2021](https://www.tradingview.com/symbols/CRYPTOCAP-USDT/)
 - [Pangolin UI, a Desktop Shell, Written in Flutter, for Linux and Zircona](https://web.dahliaos.io/)
-- [Battle of the Python Dashboarding Giants: Streamlit vs. Dash vs. Voilà vs. Panel](https://medium.datadriveninvestor.com/streamlit-vs-dash-vs-voil%C3%A0-vs-panel-battle-of-the-python-dashboarding-giants-177c40b9ea57)
-- [A Ship Got Stuck: What happens when 70M people visit your joke site?](https://warzel.substack.com/p/a-ship-got-stuck-so-he-built-a-website)
-- [I'd like to review your README](https://liw.fi/readme-review/)
-- [Why Spy Agencies Say the Future Is Bleak](https://www.nytimes.com/2021/04/15/opinion/global-trends-intelligence-report.html)
+- [Show HN: Free Remote jobs search platform with verified handpicked jobs](https://www.beefrii.com)
+- [Chinese technology company Huawei eavesdropped on Dutch mobile network KPN](https://nltimes.nl/2021/04/17/chinese-technology-company-huawei-eavesdropped-dutch-mobile-network-kpn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
