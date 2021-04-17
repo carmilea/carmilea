@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook deliberately made people sad. This ought to be the final straw (2012)](https://www.theguardian.com/commentisfree/2014/jun/30/facebook-sad-manipulating-emotions-socially-responsible-company)
+- [Bzg/woof: online monitor for mailing list based patch workflow](https://github.com/bzg/woof)
 - [Regulators urge safety recall of $4,295 Peloton treadmill after child dies](https://www.businessinsider.com/regulators-urge-safety-recall-of-peloton-treadmill-after-child-dies-2021-4)
 - [Alienware Doesn’t Want You to Buy an AMD Ryzen PC](https://www.extremetech.com/gaming/321919-alienware-really-doesnt-want-you-to-buy-an-amd-ryzen-pc)
 - [Everything Easy is Hard Again (2018)](https://frankchimero.com/blog/2018/everything-easy/)
-- [PingLend (YC W21) is hiring a founding engineer](https://www.ycombinator.com/companies/pinglend/jobs/8Lktq5A-building-a-whole-new-type-of-credit-card-ideally-bay-area-flexible-fintech-full-stack-pinglend-yc-w21)
-- [Canada Proposes New Regime to Block and Deindex Pirate Sites](https://torrentfreak.com/canada-proposes-new-regime-to-block-and-deindex-pirate-sites-210415/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
