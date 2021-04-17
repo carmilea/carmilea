@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything Easy is Hard Again (2018)](https://frankchimero.com/blog/2018/everything-easy/)
+- [PingLend (YC W21) Is Hiring for a Founding Engineer](https://www.ycombinator.com/companies/pinglend/jobs/8Lktq5A-building-a-whole-new-type-of-credit-card-ideally-bay-area-flexible-fintech-full-stack-pinglend-yc-w21)
+- [Canada Proposes New Regime to Block and Deindex Pirate Sites](https://torrentfreak.com/canada-proposes-new-regime-to-block-and-deindex-pirate-sites-210415/)
+- [I Implemented /dev/printerfact in Rust](https://christine.website/blog/dev-printerfact-2021-04-17)
 - [Show HN: Giving mother-in-law a super easy Internet radio with real icon buttons](http://bef.no/radio/)
-- [Retro nostalgia and why my new website looks like Window 9x (2019)](https://ash.ms/2019-10-02/retro-website-launch/)
-- [WebGL is mostly used for fingerprinting](https://jonatron.github.io/webgl-fingerprinting/)
-- [SPAC Wipeout Is Punishing Followers of Chamath Palihapitiya](https://www.bloomberg.com/news/articles/2021-04-17/spac-wipeout-is-punishing-followers-of-chamath-palihapitiya)
-- [Stamping the Joy Out of Collectors](https://notalwaysright.com/stamping-the-joy-out-of-collectors/224082/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
