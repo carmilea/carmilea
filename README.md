@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pachyderm Is Hiring Senior Demand Gen, TMM, and Product Marketing Roles](https://www.pachyderm.com/careers/#positions)
+- [Show HN: 25 science and math flavored programming problems for beginners](https://projectlovelace.net/problems/)
+- [Policing the Police by scraping court data](https://www.reddit.com/r/privacy/comments/gr11aw/i_think_i_accidentally_started_a_movement/)
+- [Onboarding with an M1](https://authzed.com/blog/onboarding-with-an-m1/)
 - [5G: The Outsourced Elephant in the Room](https://berthub.eu/articles/posts/5g-elephant-in-the-room/)
-- [55% of all Tether, $25B, were created in 2021](https://www.tradingview.com/symbols/CRYPTOCAP-USDT/)
-- [Pangolin UI, a Desktop Shell, Written in Flutter, for Linux and Zircona](https://web.dahliaos.io/)
-- [Show HN: Free Remote jobs search platform with verified handpicked jobs](https://www.beefrii.com)
-- [Chinese technology company Huawei eavesdropped on Dutch mobile network KPN](https://nltimes.nl/2021/04/17/chinese-technology-company-huawei-eavesdropped-dutch-mobile-network-kpn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
