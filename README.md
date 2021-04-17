@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Seam carving in Julia (by 3Blue1Brown) [video]](https://www.youtube.com/watch?v=rpB6zQNsbQU)
 - [New biotech company from Bristol uses linoleic acid as pan coronavirus antiviral](https://halo-therapeutics.com/)
 - [Twitter Down: Service Experiences Widespread Outage](https://variety.com/2021/digital/news/twitter-down-outage-1234953749/)
+- [ShortDOI: Official DOI Shortener](https://shortdoi.org/)
 - [Having fun with CP/M on a Z80 single-board computer](https://blog.steve.fi/having_fun_with_cp_m_on_a_z80_single_board_computer_.html)
-- [Pachyderm Is Hiring Senior Demand Gen, TMM, and Product Marketing Roles](https://www.pachyderm.com/careers/#positions)
-- [What’s the Origin of the Phrase “Big Data Doesn’t Fit in Excel”?](https://shkspr.mobi/blog/2021/04/whats-the-origin-of-the-phrase-big-data-doesnt-fit-in-excel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
