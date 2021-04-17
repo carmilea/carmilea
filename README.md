@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Librem 14 Begins Shipping](https://puri.sm/posts/librem-14-begins-shipping/)
+- [Zorin OS 16](https://blog.zorin.com/2021/04/15/introducing-zorin-os-16-test-the-beta-today/)
+- [Corrupt Signal DB issue crashing App and losing data](https://github.com/signalapp/Signal-Android/issues/11160)
+- [Fools Are Going to Get Us All Killed](https://www.gnxp.com/WordPress/2021/04/13/verwoerds-revenge/)
 - [EasyDNS is now accepting Dogecoin for payments](https://easydns.com/blog/2021/04/16/easydns-now-accepting-doge-payments/)
-- [The signs that make a city](https://tribunemag.co.uk/2021/04/the-signs-that-make-a-city)
-- [Foundations of Complexity Economics](https://www.nature.com/articles/s42254-020-00273-3)
-- [Content-aware image resizing in JavaScript](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
-- [Architecture of a desktop-like SPA](https://blog.uidrafter.com/engineering/architecture-of-a-desktop-alike-spa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
