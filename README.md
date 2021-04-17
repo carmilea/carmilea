@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What was the biggest leadership challenge of your career?](https://news.ycombinator.com/item?id=26847816)
+- [Daughter from California Syndrome](https://en.wikipedia.org/wiki/Daughter_from_California_syndrome)
 - [EasyPost (YC S13) Is Hiring (Remote)](https://www.easypost.com/careers)
-- [Facebook deliberately made people sad. This ought to be the final straw (2012)](https://www.theguardian.com/commentisfree/2014/jun/30/facebook-sad-manipulating-emotions-socially-responsible-company)
+- [Buy it for life: Durable, Quality, Practical](https://www.buyforlife.com/)
 - [Bzg/woof: online monitor for mailing list based patch workflow](https://github.com/bzg/woof)
-- [Alienware Doesn’t Want You to Buy an AMD Ryzen PC](https://www.extremetech.com/gaming/321919-alienware-really-doesnt-want-you-to-buy-an-amd-ryzen-pc)
-- [Everything Easy is Hard Again (2018)](https://frankchimero.com/blog/2018/everything-easy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
