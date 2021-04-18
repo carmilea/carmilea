@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Edward Snowden NFT Sells for $5.4M in Ethereum](https://decrypt.co/66855/edward-snowden-nft-sells-million-ethereum)
 - [Show HN: hackernews.roundtable.audio turns HN posts into live audio discussions](https://hackernews.roundtable.audio/)
-- [Mice fed fast food get noticeably stupider, scientists warn](https://futurism.com/neoscope/americanized-diets-linked-neurocognitive-dysfunction-doctors)
+- [PostScript Language Reference (1999) [pdf]](https://www.adobe.com/content/dam/acom/en/devnet/actionscript/articles/PLRM.pdf)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [Huawei could have wiretapped KPN](https://nltimes.nl/2021/04/17/huawei-able-eavesdrop-dutch-mobile-network-kpn-report)
-- [Show HN: Side project passed $2.5k/mo revenue after 2 years (Phoenix and Vue)](https://news.ycombinator.com/item?id=26855726)
+- [Huawei was able to eavesdrop on Dutch mobile network KPN: Report](https://nltimes.nl/2021/04/17/huawei-able-eavesdrop-dutch-mobile-network-kpn-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
