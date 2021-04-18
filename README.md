@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wireless USB](https://en.wikipedia.org/wiki/Wireless_USB)
+- [Livebook: A collaborative and interactive code notebook for Elixir](https://dashbit.co/blog/announcing-livebook?new=1)
+- [Debian votes to make no statement regarding RMS readmission to the FSF board](https://vote.debian.org/~secretary/gr_rms/)
+- [Sex Workers Explain Why the Safe Tech Act Will Break the Internet](https://www.vice.com/en/article/qj8d9q/sex-workers-explain-why-the-safe-tech-act-will-break-the-internet)
 - [Drug Discovered to Regenerate Lost Teeth](https://scitechdaily.com/need-a-new-tooth-drug-discovered-to-regenerate-lost-teeth/)
-- [Men dead after fiery Tesla crash in Spring (north Houston), officials say](https://www.click2houston.com/news/local/2021/04/18/2-men-dead-after-fiery-tesla-crash-in-spring-officials-say/)
 - [Common Lisp Style Conditions for Clojure](https://github.com/IGJoshua/farolero)
-- [Wikimedia: wprov](https://wikitech.wikimedia.org/wiki/Provenance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
