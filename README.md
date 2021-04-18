@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: I bought Voltaren at the chemist, now Google shows me ads for it. Why?](https://news.ycombinator.com/item?id=26850913)
 - [How Fit Can You Get from Just Walking?](https://www.gq.com/story/get-fit-from-just-walking)
 - [Reducing Rust Incremental Compilation Times on macOS by 70%](https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-macos-by-70-percent/)
+- [How much faster is Redis at storing a blob of JSON compared to PostgreSQL?](https://www.peterbe.com/plog/redis-vs-postgres-blob-of-json)
 - [The “WAT” talk – a few programming languages quirks](https://www.destroyallsoftware.com/talks/wat)
-- [Soviet children’s books became collectors’ items in India](https://www.atlasobscura.com/articles/soviet-childrens-books-in-india)
-- [Bitcoin mining hash rate drops as blackouts instituted in China](https://www.nasdaq.com/articles/bitcoin-mining-hash-rate-drops-as-blackouts-instituted-in-china-2021-04-16)
 <!-- BLOG-POST-LIST:END -->
 
 ---
