@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: I bought Voltaren at the chemist, now Google shows me ads for it. Why?](https://news.ycombinator.com/item?id=26850913)
-- [How Fit Can You Get from Just Walking?](https://www.gq.com/story/get-fit-from-just-walking)
-- [Reducing Rust Incremental Compilation Times on macOS by 70%](https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-macos-by-70-percent/)
-- [How much faster is Redis at storing a blob of JSON compared to PostgreSQL?](https://www.peterbe.com/plog/redis-vs-postgres-blob-of-json)
-- [The “WAT” talk – a few programming languages quirks](https://www.destroyallsoftware.com/talks/wat)
+- [Reducing Rust Incremental Compilation Times on macOS](https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-macos-by-70-percent/)
+- [Is there an accounting platform for a crypto first company?](https://news.ycombinator.com/item?id=26850679)
+- [Wat (2012) [video]](https://www.destroyallsoftware.com/talks/wat)
+- [Soviet children’s books became collectors’ items in India](https://www.atlasobscura.com/articles/soviet-childrens-books-in-india)
+- [Chuck Geschke has died](https://apnews.com/article/business-john-warnock-san-francisco-b77f216f52d736a6b5a383a429208f51)
 <!-- BLOG-POST-LIST:END -->
 
 ---
