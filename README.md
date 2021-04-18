@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: hackernews.roundtable.audio turns HN posts into live audio discussions](https://hackernews.roundtable.audio/)
+- [Mice fed fast food get noticeably stupider, scientists warn](https://futurism.com/neoscope/americanized-diets-linked-neurocognitive-dysfunction-doctors)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 - [Huawei could have wiretapped KPN](https://nltimes.nl/2021/04/17/huawei-able-eavesdrop-dutch-mobile-network-kpn-report)
-- [Ask HN: Considering colocated hosting over cloud, what should I know?](https://news.ycombinator.com/item?id=26856053)
-- [Smartphones can detect solar storms](https://academictimes.com/smartphones-can-detect-huge-solar-storms/)
-- [Paternoster Lift](https://en.wikipedia.org/wiki/Paternoster_lift)
+- [Show HN: Side project passed $2.5k/mo revenue after 2 years (Phoenix and Vue)](https://news.ycombinator.com/item?id=26855726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
