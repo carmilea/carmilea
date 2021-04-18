@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SketchDeck (YC W14) is hiring engineers to launch a new product](https://apply.workable.com/sketchdeck/j/CE6707EC56/)
+- [WordPress Proposal to Treat Google's FLoC as a Security Concern](https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern/)
+- [Show HN: My friend helped vaccinate 16 with a Telegram bot](https://timdaub.github.io/2021/04/18/vaccination-bot-serenissimo/)
+- [Show HN: Aidmin – Web based database GUI for the whole organization](https://aidmin.io)
 - [Livebook: A collaborative and interactive code notebook for Elixir](https://dashbit.co/blog/announcing-livebook?new=1)
-- [Debian votes to make no statement regarding RMS readmission to the FSF board](https://vote.debian.org/~secretary/gr_rms/)
-- [Sex Workers Explain Why the Safe Tech Act Will Break the Internet](https://www.vice.com/en/article/qj8d9q/sex-workers-explain-why-the-safe-tech-act-will-break-the-internet)
-- [Drug Discovered to Regenerate Lost Teeth](https://scitechdaily.com/need-a-new-tooth-drug-discovered-to-regenerate-lost-teeth/)
-- [Common Lisp Style Conditions for Clojure](https://github.com/IGJoshua/farolero)
 <!-- BLOG-POST-LIST:END -->
 
 ---
