@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google used ‘double-Irish’ to shift $75.4bn in profits out of Ireland](https://www.irishtimes.com/business/technology/google-used-double-irish-to-shift-75-4bn-in-profits-out-of-ireland-1.4540519)
+- [Mark Zuckerberg, the modern Bond villain, is now coming for your children](https://www.theguardian.com/commentisfree/2021/apr/17/mark-zuckerg-the-modern-bond-villain-is-now-coming-for-your-children)
+- [A Potato Battery Can Light Up a Room for over a Month (2013)](https://www.smithsonianmag.com/innovation/a-potato-battery-can-light-up-a-room-for-over-a-month-180948260/)
+- [Replace Google Analytics with a shell script](https://www.go350.com/posts/replace-google-analytics-with-a-shell-script/)
+- [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/)
 - [GitHub reinstated youtube-dl but restoring forks is apparently a problem](https://torrentfreak.com/github-reinstated-youtube-dl-but-restoring-forks-is-apparently-a-problem-210417/)
-- [Thanks for the Bonus, I Quit](https://madned.substack.com/p/thanks-for-the-bonus-i-quit)
-- [EasyPost (YC S13) Is Hiring (Remote)](https://www.easypost.com/careers)
-- [Buy it for life: Durable, Quality, Practical](https://www.buyforlife.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
