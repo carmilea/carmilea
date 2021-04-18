@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bitcoin Mining Hash Rate Drops as Blackouts Instituted in China](https://www.nasdaq.com/articles/bitcoin-mining-hash-rate-drops-as-blackouts-instituted-in-china-2021-04-16)
+- [Founder of Adobe and developer of PDFs dies at age 81](https://apnews.com/article/business-john-warnock-san-francisco-b77f216f52d736a6b5a383a429208f51)
 - [A Potato Battery Can Light Up a Room for over a Month (2013)](https://www.smithsonianmag.com/innovation/a-potato-battery-can-light-up-a-room-for-over-a-month-180948260/)
 - [Replace Google Analytics with a shell script](https://www.go350.com/posts/replace-google-analytics-with-a-shell-script/)
 - [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/)
-- [Codecov breach impacts GoDaddy, Atlassian, P&G etc.](https://www.reuters.com/technology/us-investigators-probing-breach-san-francisco-code-testing-company-firm-2021-04-16/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
