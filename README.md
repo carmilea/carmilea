@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla with Autopilot now approaching 10x lower chance of accident than average](https://nitter.tedomum.net/elonmusk/status/1383548841438236674)
 - [Smarking (YC W15) Is Hiring a Head of Engineering for Post-Pandemic Expansion](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Spanish police raid factory making 3D-printed weapons](https://www.reuters.com/world/europe/spanish-police-raid-factory-making-3d-printed-weapons-2021-04-18/)
+- [Do Cryptocurrencies Provide ANY() Real-Economic Value at All?](https://news.ycombinator.com/item?id=26851664)
+- [Ask HN: Which Stack for Prototyping?](https://news.ycombinator.com/item?id=26851533)
 - [Product-Led Is Just as Bad as Sales-Driven](https://itamargilad.com/product-led/)
-- [First steps with Rust](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/)
-- [Reducing Rust Incremental Compilation Times on macOS](https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-macos-by-70-percent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
