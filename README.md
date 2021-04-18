@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two people killed in fiery Tesla crash with no one driving](https://www.theverge.com/2021/4/18/22390612/two-people-killed-fiery-tesla-crash-no-driver)
+- [Mathematicians Settle the Erdős Coloring Conjecture](https://www.wired.com/story/mathematicians-settle-the-erdos-coloring-conjecture/)
+- [Mac Plus made of legos at 1:1 scale](https://ideas.lego.com/projects/cf737f87-5e46-4433-aa4e-76891a1d2b99)
 - [Why Is All Covid-19 News Bad News?](https://www.nber.org/papers/w28110)
-- [EU cities contemplate life with less Airbnb](https://www.politico.eu/article/eu-european-capitals-cities-airbnb-short-term-rental-regulations-proposals/)
-- [Pictures Reveal the Isolated Lives of Japan’s Social Recluses](https://www.nationalgeographic.com/photography/article/japan-hikikomori-isolation-society)
-- [SketchDeck (YC W14) is hiring engineers to launch a new product](https://apply.workable.com/sketchdeck/j/CE6707EC56/)
-- [Proposal: Treat FLoC as a security concern](https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern/)
+- [Pictures reveal the isolated lives of Japan’s social recluses (2018)](https://www.nationalgeographic.com/photography/article/japan-hikikomori-isolation-society)
 <!-- BLOG-POST-LIST:END -->
 
 ---
