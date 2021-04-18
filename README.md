@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin Mining Hash Rate Drops as Blackouts Instituted in China](https://www.nasdaq.com/articles/bitcoin-mining-hash-rate-drops-as-blackouts-instituted-in-china-2021-04-16)
 - [A Potato Battery Can Light Up a Room for over a Month (2013)](https://www.smithsonianmag.com/innovation/a-potato-battery-can-light-up-a-room-for-over-a-month-180948260/)
 - [Replace Google Analytics with a shell script](https://www.go350.com/posts/replace-google-analytics-with-a-shell-script/)
 - [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/)
-- [GitHub reinstated youtube-dl but restoring forks is apparently a problem](https://torrentfreak.com/github-reinstated-youtube-dl-but-restoring-forks-is-apparently-a-problem-210417/)
-- [Ask HN: What was the biggest leadership challenge of your career?](https://news.ycombinator.com/item?id=26847816)
+- [Codecov breach impacts GoDaddy, Atlassian, P&G etc.](https://www.reuters.com/technology/us-investigators-probing-breach-san-francisco-code-testing-company-firm-2021-04-16/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
