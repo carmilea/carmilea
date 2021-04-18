@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Is All Covid-19 News Bad News?](https://www.nber.org/papers/w28110)
+- [EU cities contemplate life with less Airbnb](https://www.politico.eu/article/eu-european-capitals-cities-airbnb-short-term-rental-regulations-proposals/)
+- [Pictures Reveal the Isolated Lives of Japan’s Social Recluses](https://www.nationalgeographic.com/photography/article/japan-hikikomori-isolation-society)
 - [SketchDeck (YC W14) is hiring engineers to launch a new product](https://apply.workable.com/sketchdeck/j/CE6707EC56/)
-- [WordPress Proposal to Treat Google's FLoC as a Security Concern](https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern/)
-- [Show HN: My friend helped vaccinate 16 with a Telegram bot](https://timdaub.github.io/2021/04/18/vaccination-bot-serenissimo/)
-- [Show HN: Aidmin – Web based database GUI for the whole organization](https://aidmin.io)
-- [Livebook: A collaborative and interactive code notebook for Elixir](https://dashbit.co/blog/announcing-livebook?new=1)
+- [Proposal: Treat FLoC as a security concern](https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
