@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cuomo and Schmidt push to cap price of internet to $15 for low-income NewYorkers](https://www.vox.com/recode/2021/4/16/22388518/andrew-cuomo-eric-schmidt-new-york-internet-price)
+- [How Fit Can You Get from Just Walking?](https://www.gq.com/story/get-fit-from-just-walking)
+- [Reducing Rust Incremental Compilation Times on macOS by 70%](https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-macos-by-70-percent/)
+- [The “WAT” talk – a few programming languages quirks](https://www.destroyallsoftware.com/talks/wat)
 - [Soviet children’s books became collectors’ items in India](https://www.atlasobscura.com/articles/soviet-childrens-books-in-india)
 - [Bitcoin mining hash rate drops as blackouts instituted in China](https://www.nasdaq.com/articles/bitcoin-mining-hash-rate-drops-as-blackouts-instituted-in-china-2021-04-16)
-- [Chuck Geschke has died](https://apnews.com/article/business-john-warnock-san-francisco-b77f216f52d736a6b5a383a429208f51)
-- [Replace Google Analytics with a shell script](https://www.go350.com/posts/replace-google-analytics-with-a-shell-script/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
