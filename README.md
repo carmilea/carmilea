@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wireless USB](https://en.wikipedia.org/wiki/Wireless_USB)
+- [Drug Discovered to Regenerate Lost Teeth](https://scitechdaily.com/need-a-new-tooth-drug-discovered-to-regenerate-lost-teeth/)
+- [Men dead after fiery Tesla crash in Spring (north Houston), officials say](https://www.click2houston.com/news/local/2021/04/18/2-men-dead-after-fiery-tesla-crash-in-spring-officials-say/)
+- [Common Lisp Style Conditions for Clojure](https://github.com/IGJoshua/farolero)
 - [Wikimedia: wprov](https://wikitech.wikimedia.org/wiki/Provenance)
-- [China’s Dystopian “New IP” Plan for a New Internet](https://www.justsecurity.org/75741/chinas-dystopian-new-ip-plan-shows-need-for-renewed-us-commitment-to-internet-governance/)
-- [How Developers Choose Names](https://arxiv.org/abs/2103.07487)
-- [Smarking (YC W15) Is Hiring a Head of Engineering for Post-Pandemic Expansion](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [The Curious Case of Port 0 (2019) [pdf]](http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
