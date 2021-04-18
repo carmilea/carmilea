@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Two people killed in fiery Tesla crash with no one driving](https://www.theverge.com/2021/4/18/22390612/two-people-killed-fiery-tesla-crash-no-driver)
+- [Paternoster Lift](https://en.wikipedia.org/wiki/Paternoster_lift)
+- [Ask HN: Does anyone else find the AWS Lambda developer experience frustrating?](https://news.ycombinator.com/item?id=26855037)
+- [Statement by UEFA, FA, Premier League, RFEF, LaLiga, FIGC and Lega Serie A](https://www.uefa.com/insideuefa/mediaservices/mediareleases/news/0268-12121411400e-7897186e699a-1000--statement-by-uefa-english-fa-rfef-figc-premier-league-laliga-le/)
 - [Mathematicians Settle the Erdős Coloring Conjecture](https://www.wired.com/story/mathematicians-settle-the-erdos-coloring-conjecture/)
 - [Mac Plus made of legos at 1:1 scale](https://ideas.lego.com/projects/cf737f87-5e46-4433-aa4e-76891a1d2b99)
-- [Why Is All Covid-19 News Bad News?](https://www.nber.org/papers/w28110)
-- [Pictures reveal the isolated lives of Japan’s social recluses (2018)](https://www.nationalgeographic.com/photography/article/japan-hikikomori-isolation-society)
 <!-- BLOG-POST-LIST:END -->
 
 ---
