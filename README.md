@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla with Autopilot now approaching 10x lower chance of accident than average](https://nitter.tedomum.net/elonmusk/status/1383548841438236674)
+- [Wikimedia: wprov](https://wikitech.wikimedia.org/wiki/Provenance)
+- [China’s Dystopian “New IP” Plan for a New Internet](https://www.justsecurity.org/75741/chinas-dystopian-new-ip-plan-shows-need-for-renewed-us-commitment-to-internet-governance/)
+- [How Developers Choose Names](https://arxiv.org/abs/2103.07487)
 - [Smarking (YC W15) Is Hiring a Head of Engineering for Post-Pandemic Expansion](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Do Cryptocurrencies Provide ANY() Real-Economic Value at All?](https://news.ycombinator.com/item?id=26851664)
-- [Ask HN: Which Stack for Prototyping?](https://news.ycombinator.com/item?id=26851533)
-- [Product-Led Is Just as Bad as Sales-Driven](https://itamargilad.com/product-led/)
+- [The Curious Case of Port 0 (2019) [pdf]](http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
