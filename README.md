@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [Huawei could have wiretapped KPN](https://nltimes.nl/2021/04/17/huawei-able-eavesdrop-dutch-mobile-network-kpn-report)
+- [Ask HN: Considering colocated hosting over cloud, what should I know?](https://news.ycombinator.com/item?id=26856053)
+- [Smartphones can detect solar storms](https://academictimes.com/smartphones-can-detect-huge-solar-storms/)
 - [Paternoster Lift](https://en.wikipedia.org/wiki/Paternoster_lift)
-- [Ask HN: Does anyone else find the AWS Lambda developer experience frustrating?](https://news.ycombinator.com/item?id=26855037)
-- [Statement by UEFA, FA, Premier League, RFEF, LaLiga, FIGC and Lega Serie A](https://www.uefa.com/insideuefa/mediaservices/mediareleases/news/0268-12121411400e-7897186e699a-1000--statement-by-uefa-english-fa-rfef-figc-premier-league-laliga-le/)
-- [Mathematicians Settle the Erdős Coloring Conjecture](https://www.wired.com/story/mathematicians-settle-the-erdos-coloring-conjecture/)
-- [Mac Plus made of legos at 1:1 scale](https://ideas.lego.com/projects/cf737f87-5e46-4433-aa4e-76891a1d2b99)
 <!-- BLOG-POST-LIST:END -->
 
 ---
