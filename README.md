@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smarking (YC W15) Is Hiring a Head of Engineering for Post-Pandemic Expansion](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Spanish police raid factory making 3D-printed weapons](https://www.reuters.com/world/europe/spanish-police-raid-factory-making-3d-printed-weapons-2021-04-18/)
+- [Product-Led Is Just as Bad as Sales-Driven](https://itamargilad.com/product-led/)
+- [First steps with Rust](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/)
 - [Reducing Rust Incremental Compilation Times on macOS](https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-macos-by-70-percent/)
-- [Is there an accounting platform for a crypto first company?](https://news.ycombinator.com/item?id=26850679)
-- [Wat (2012) [video]](https://www.destroyallsoftware.com/talks/wat)
-- [Soviet children’s books became collectors’ items in India](https://www.atlasobscura.com/articles/soviet-childrens-books-in-india)
-- [Chuck Geschke has died](https://apnews.com/article/business-john-warnock-san-francisco-b77f216f52d736a6b5a383a429208f51)
 <!-- BLOG-POST-LIST:END -->
 
 ---
