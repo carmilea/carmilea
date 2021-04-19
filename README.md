@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US West prepares for possible first water shortage declaration](https://apnews.com/article/arizona-colorado-lakes-water-shortages-colorado-river-09302e61c5e0ef051f50459f3dcb771f)
 - [India may build new coal plants due to low cost despite climate change](https://www.reuters.com/world/india/exclusive-india-may-build-new-coal-plants-due-low-cost-despite-climate-change-2021-04-18/)
 - [Patent Loving Judge Keeps Pissing Off Patent Appeals Court, Doesn't Seem to Care](https://www.techdirt.com/articles/20210409/00165046581/patent-loving-judge-keeps-pissing-off-patent-appeals-court-doesnt-seem-to-care-very-much.shtml)
 - [Police in Minnesota round up journalists and take pictures of their faces](https://www.usatoday.com/story/news/nation/2021/04/17/brooklyn-center-protests-police-round-up-journalists/7268057002/)
 - [Linux Kernel: The multi-generational LRU](https://lwn.net/Articles/851184/)
-- [Open source “split-flap” mechanical display](https://github.com/scottbez1/splitflap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
