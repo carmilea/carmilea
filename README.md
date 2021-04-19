@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everyone Loves the $100M Deli](https://www.bloomberg.com/opinion/articles/2021-04-19/everyone-loves-the-100-million-new-jersey-deli-except-david-einhorn-knottrmb)
+- [Born secret – the heavy burden of bomb physics](https://www.nature.com/articles/d41586-021-01024-9)
+- [The “Granny Knot”](https://www.fieggen.com/shoelace/grannyknot.htm)
+- [No one was in driver’s seat in fatal Tesla crash](https://www.cnn.com/2021/04/19/business/tesla-fatal-crash-no-one-in-drivers-seat/index.html)
 - [A List of Hacker News's Undocumented Features and Behaviors (2020)](https://github.com/minimaxir/hacker-news-undocumented)
-- [J2 open processor: an open source processor using the SuperH ISA](https://j-core.org/)
-- [Zenreader: A 4.7 Inches E-Ink RSS Reader Powered by ESP32](https://www.tnhh.net/posts/zenreader-4.7-in-rss-eink-reader.html)
-- [Ask HN: Differences in Programming Style by Nationalities](https://news.ycombinator.com/item?id=26865628)
-- [GiveCampus (YC S15) Hiring remote senior engineers](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
