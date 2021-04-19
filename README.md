@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Police in Minnesota round up journalists and take pictures of their faces](https://www.usatoday.com/story/news/nation/2021/04/17/brooklyn-center-protests-police-round-up-journalists/7268057002/)
+- [Linux Kernel: The multi-generational LRU](https://lwn.net/Articles/851184/)
+- [Open source “split-flap” mechanical display](https://github.com/scottbez1/splitflap)
 - [Monster (fun fact about me is that when I was a kid id write capital E’s with..)](https://idlnmclean.tumblr.com/post/644363337362292736/fun-fact-about-me-is-that-when-i-was-a-kid-id)
 - [MirkoPC – a Raspberry Pi CM4-powered computer made in Poland](https://www.jeffgeerling.com/blog/2021/mirkopc-full-featured-raspberry-pi-desktop-computer)
-- [AMD's EPYC Milan Breaks Cinebench Record, Here's a 10nm Ice Lake Xeon Comparison](https://www.tomshardware.com/news/amds-epyc-milan-breaks-cinebench-record-heres-a-10nm-ice-lake-xeon-comparison)
-- [Dissecting the Apple M1 GPU, Part III](https://rosenzweig.io/blog/asahi-gpu-part-3.html)
-- [Show HN: Starboard Observable – An open source ObservableHQ notebook editor](https://starboard.gg/gz/open-source-observablehq-nfwK2VA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
