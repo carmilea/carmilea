@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit (YC W18) Is Hiring a Developer Experience (DX) Engineer](https://jobs.lever.co/replit/93229770-4290-4436-bc40-6c513ffb3f72)
 - [Everyone Loves the $100M Deli](https://www.bloomberg.com/opinion/articles/2021-04-19/everyone-loves-the-100-million-new-jersey-deli-except-david-einhorn-knottrmb)
 - [Born secret – the heavy burden of bomb physics](https://www.nature.com/articles/d41586-021-01024-9)
 - [The “Granny Knot”](https://www.fieggen.com/shoelace/grannyknot.htm)
-- [No one was in driver’s seat in fatal Tesla crash](https://www.cnn.com/2021/04/19/business/tesla-fatal-crash-no-one-in-drivers-seat/index.html)
-- [A List of Hacker News's Undocumented Features and Behaviors (2020)](https://github.com/minimaxir/hacker-news-undocumented)
+- [A List of Hacker News's Undocumented Features and Behaviors (2018-20)](https://github.com/minimaxir/hacker-news-undocumented)
 <!-- BLOG-POST-LIST:END -->
 
 ---
