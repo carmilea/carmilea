@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA Picks SpaceX to Land Next Americans on Moon](https://www.nasa.gov/press-release/as-artemis-moves-forward-nasa-picks-spacex-to-land-next-americans-on-moon)
+- [OnePlus Watch: The Worst Smartwatch I've Ever Used](https://gizmodo.com/this-is-the-worst-smartwatch-ive-ever-used-1846652533)
+- [Coalition of big investors pushes banks to defund carbon emitters](https://www.ft.com/content/cad45ac2-3778-4db6-a43c-96b83b195516)
 - [Rob Pike proposes expression to create pointer to simple types in Golang](https://github.com/golang/go/issues/45624)
 - [Gandi.net Major Outage](https://status.gandi.net/?a)
-- [U.K. to intervene in Nvidia's ARM acquisition](https://www.gov.uk/government/publications/proposed-acquisition-of-arm-limited-by-nvidia-corporation-public-interest-intervention)
-- [The Muse (YC W12) is building out our design team – come join](https://www.themuse.com/jobs/themuse/senior-product-designer)
-- [Start a Business from Plastic Waste](http://preciousplastic.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
