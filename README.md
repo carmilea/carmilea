@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [J2 open processor: an open source processor using the SuperH ISA](https://j-core.org/)
+- [Zenreader: A 4.7 Inches E-Ink RSS Reader Powered by ESP32](https://www.tnhh.net/posts/zenreader-4.7-in-rss-eink-reader.html)
+- [Ask HN: Differences in Programming Style by Nationalities](https://news.ycombinator.com/item?id=26865628)
+- [Content Writing for SaaS Companies – A Complete Step-by-Step Guide](https://yourcontentmart.co/saas-content-writing/)
 - [GiveCampus (YC S15) Hiring remote senior engineers](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
-- [How often do people copy and paste from Stack Overflow?](https://stackoverflow.blog/2021/04/19/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know/)
-- [PiDP-11 – Recreating PDP-11/70 with Raspberry Pi](https://retroviator.com/2020/03/01/pidp-11/)
-- [Firefox 88.0](https://www.mozilla.org/en-US/firefox/88.0/releasenotes/)
-- [Microsoft says mandatory password changing is “ancient and obsolete” (2019)](https://arstechnica.com/information-technology/2019/06/microsoft-says-mandatory-password-changing-is-ancient-and-obsolete/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
