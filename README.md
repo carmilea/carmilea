@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Large-Scale Abuse of Contact Discovery in Mobile Messengers [pdf]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-3_23159_paper.pdf)
-- [Basic Music Theory in ~200 Lines of Python](https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python)
-- [Bitcoin Blockchain Visualization](https://symphony.iohk.io/en/)
-- [Curl those funny IPv4 addresses](https://daniel.haxx.se/blog/2021/04/19/curl-those-funny-ipv4-addresses/)
-- [Brian Armstrong sold $291.8M in Coinbase shares on opening day](https://www.reuters.com/technology/coinbase-chief-executive-armstrong-sold-2918-million-shares-opening-day-2021-04-19/)
+- [MacBook Pro 2021 with M2 chip has leaked](https://www.tomsguide.com/news/macbook-pro-2021-with-m2-chip-could-launch-this-fall-heres-why)
+- [First Flight of the Ingenuity Mars Helicopter: Live from Mission Control [video]](https://www.youtube.com/watch?v=p1KolyCqICI)
+- [Annalena Baerbock: The Green Party's candidate to succeed Angela Merkel](https://www.dw.com/en/annalena-baerbock-the-green-partys-candidate-to-succeed-chancellor-angela-merkel/a-57092415)
+- [Bank of England Statement on Central Bank Digital Currency](https://www.bankofengland.co.uk/news/2021/april/bank-of-england-statement-on-central-bank-digital-currency)
+- [Deriving the piano keyboard from biological principles using clustering](https://fiftysevendegreesofrad.github.io/JupyterNotes/piano.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
