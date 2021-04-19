@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GiveCampus (YC S15) Hiring remote senior engineers](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
+- [How often do people copy and paste from Stack Overflow?](https://stackoverflow.blog/2021/04/19/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know/)
 - [PiDP-11 – Recreating PDP-11/70 with Raspberry Pi](https://retroviator.com/2020/03/01/pidp-11/)
 - [Firefox 88.0](https://www.mozilla.org/en-US/firefox/88.0/releasenotes/)
 - [Microsoft says mandatory password changing is “ancient and obsolete” (2019)](https://arstechnica.com/information-technology/2019/06/microsoft-says-mandatory-password-changing-is-ancient-and-obsolete/)
-- [Apple Approves Parler to Return to App Store](https://www.macrumors.com/2021/04/19/apple-parler-return-app-store/)
-- [The Terrifyingly Prescient ‘Serial Experiments Lain,’ 20 Years Later (2018)](https://www.theringer.com/tv/2018/7/9/17544220/serial-experiments-lain-anime-20-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
