@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rob Pike proposes expression to create pointer to simple types in Golang](https://github.com/golang/go/issues/45624)
+- [Gandi.net Major Outage](https://status.gandi.net/?a)
 - [U.K. to intervene in Nvidia's ARM acquisition](https://www.gov.uk/government/publications/proposed-acquisition-of-arm-limited-by-nvidia-corporation-public-interest-intervention)
 - [The Muse (YC W12) is building out our design team – come join](https://www.themuse.com/jobs/themuse/senior-product-designer)
-- [Boris Johnson cancels India trip amid rising cases](https://www.bbc.com/news/uk-politics-56800305)
 - [Start a Business from Plastic Waste](http://preciousplastic.com/)
-- [Julia is the better language for extending Python](https://github.com/00sapo/cython_list_test)
 <!-- BLOG-POST-LIST:END -->
 
 ---
