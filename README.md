@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A List of Hacker News's Undocumented Features and Behaviors (2020)](https://github.com/minimaxir/hacker-news-undocumented)
 - [J2 open processor: an open source processor using the SuperH ISA](https://j-core.org/)
 - [Zenreader: A 4.7 Inches E-Ink RSS Reader Powered by ESP32](https://www.tnhh.net/posts/zenreader-4.7-in-rss-eink-reader.html)
 - [Ask HN: Differences in Programming Style by Nationalities](https://news.ycombinator.com/item?id=26865628)
-- [Content Writing for SaaS Companies – A Complete Step-by-Step Guide](https://yourcontentmart.co/saas-content-writing/)
 - [GiveCampus (YC S15) Hiring remote senior engineers](https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7)
 <!-- BLOG-POST-LIST:END -->
 
