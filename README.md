@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is the Hardest Language in the World to Lipread? (2020)](https://www.atlasobscura.com/articles/lipreading-around-the-world)
 - [Replit (YC W18) Is Hiring a Developer Experience (DX) Engineer](https://jobs.lever.co/replit/93229770-4290-4436-bc40-6c513ffb3f72)
+- [Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/?p=232313)
 - [Everyone Loves the $100M Deli](https://www.bloomberg.com/opinion/articles/2021-04-19/everyone-loves-the-100-million-new-jersey-deli-except-david-einhorn-knottrmb)
 - [Born secret – the heavy burden of bomb physics](https://www.nature.com/articles/d41586-021-01024-9)
-- [The “Granny Knot”](https://www.fieggen.com/shoelace/grannyknot.htm)
-- [A List of Hacker News's Undocumented Features and Behaviors (2018-20)](https://github.com/minimaxir/hacker-news-undocumented)
 <!-- BLOG-POST-LIST:END -->
 
 ---
