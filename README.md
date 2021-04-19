@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google developer banned words list](https://developers.google.com/style/word-list)
 - [Large-Scale Abuse of Contact Discovery in Mobile Messengers [pdf]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-3_23159_paper.pdf)
+- [Basic Music Theory in ~200 Lines of Python](https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python)
 - [Bitcoin Blockchain Visualization](https://symphony.iohk.io/en/)
+- [Curl those funny IPv4 addresses](https://daniel.haxx.se/blog/2021/04/19/curl-those-funny-ipv4-addresses/)
 - [Brian Armstrong sold $291.8M in Coinbase shares on opening day](https://www.reuters.com/technology/coinbase-chief-executive-armstrong-sold-2918-million-shares-opening-day-2021-04-19/)
-- [Bits (YC S20) Is Hiring a Lead Designer](https://www.ycombinator.com/companies/bits/jobs/4letnQ3-lead-designer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
