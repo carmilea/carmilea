@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PiDP-11 – Recreating PDP-11/70 with Raspberry Pi](https://retroviator.com/2020/03/01/pidp-11/)
+- [Firefox 88.0](https://www.mozilla.org/en-US/firefox/88.0/releasenotes/)
+- [Microsoft says mandatory password changing is “ancient and obsolete” (2019)](https://arstechnica.com/information-technology/2019/06/microsoft-says-mandatory-password-changing-is-ancient-and-obsolete/)
+- [Apple Approves Parler to Return to App Store](https://www.macrumors.com/2021/04/19/apple-parler-return-app-store/)
 - [The Terrifyingly Prescient ‘Serial Experiments Lain,’ 20 Years Later (2018)](https://www.theringer.com/tv/2018/7/9/17544220/serial-experiments-lain-anime-20-years)
-- [Prions Are Going to End the World](https://www.countere.com/home/prions-are-going-to-end-the-world)
-- [Is Facebook Buying Off the New York Times?](https://washingtonmonthly.com/2021/04/19/is-facebook-buying-off-the-new-york-times/)
-- [Hire me and pay what you want, just give me interesting work](https://truzzi.me/hire-me-pay-what-you-want-interesting-work/)
-- [Coalition of big investors pushes banks to defund carbon emitters](https://www.ft.com/content/cad45ac2-3778-4db6-a43c-96b83b195516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
