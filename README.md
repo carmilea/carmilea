@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Picks SpaceX to Land Next Americans on Moon](https://www.nasa.gov/press-release/as-artemis-moves-forward-nasa-picks-spacex-to-land-next-americans-on-moon)
-- [OnePlus Watch: The Worst Smartwatch I've Ever Used](https://gizmodo.com/this-is-the-worst-smartwatch-ive-ever-used-1846652533)
+- [The Terrifyingly Prescient ‘Serial Experiments Lain,’ 20 Years Later (2018)](https://www.theringer.com/tv/2018/7/9/17544220/serial-experiments-lain-anime-20-years)
+- [Prions Are Going to End the World](https://www.countere.com/home/prions-are-going-to-end-the-world)
+- [Is Facebook Buying Off the New York Times?](https://washingtonmonthly.com/2021/04/19/is-facebook-buying-off-the-new-york-times/)
+- [Hire me and pay what you want, just give me interesting work](https://truzzi.me/hire-me-pay-what-you-want-interesting-work/)
 - [Coalition of big investors pushes banks to defund carbon emitters](https://www.ft.com/content/cad45ac2-3778-4db6-a43c-96b83b195516)
-- [Rob Pike proposes expression to create pointer to simple types in Golang](https://github.com/golang/go/issues/45624)
-- [Gandi.net Major Outage](https://status.gandi.net/?a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
