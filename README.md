@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD's EPYC Milan Breaks Cinebench Record, Here's a 10nm Ice Lake Xeon Comparison](https://www.tomshardware.com/news/amds-epyc-milan-breaks-cinebench-record-heres-a-10nm-ice-lake-xeon-comparison)
+- [Dissecting the Apple M1 GPU, Part III](https://rosenzweig.io/blog/asahi-gpu-part-3.html)
+- [Show HN: Starboard Observable – An open source ObservableHQ notebook editor](https://starboard.gg/gz/open-source-observablehq-nfwK2VA)
 - [Show HN: hackernews.roundtable.audio turns HN posts into live audio discussions](https://hackernews.roundtable.audio/)
 - [PostScript Language Reference (1999) [pdf]](https://www.adobe.com/content/dam/acom/en/devnet/actionscript/articles/PLRM.pdf)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [Huawei was able to eavesdrop on Dutch mobile network KPN: Report](https://nltimes.nl/2021/04/17/huawei-able-eavesdrop-dutch-mobile-network-kpn-report)
-- [Show HN: Side project passed $2.5k/mo revenue after 2 years (Phoenix and Vue)](https://news.ycombinator.com/item?id=26855726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
