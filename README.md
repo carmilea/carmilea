@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mars Helicopter Ingenuity test flight altitude graph](https://imgur.com/a/WnE9P70)
+- [U.K. to intervene in Nvidia's ARM acquisition](https://www.gov.uk/government/publications/proposed-acquisition-of-arm-limited-by-nvidia-corporation-public-interest-intervention)
+- [The Muse (YC W12) is building out our design team – come join](https://www.themuse.com/jobs/themuse/senior-product-designer)
+- [Boris Johnson cancels India trip amid rising cases](https://www.bbc.com/news/uk-politics-56800305)
 - [Start a Business from Plastic Waste](http://preciousplastic.com/)
 - [Julia is the better language for extending Python](https://github.com/00sapo/cython_list_test)
-- [We chose Elm for Humio’s web UI](https://www.humio.com/whats-new/blog/why-we-chose-elm-for-humio-s-web-ui)
-- [First Flight of the Ingenuity Mars Helicopter: Live from Mission Control [video]](https://www.youtube.com/watch?v=p1KolyCqICI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
