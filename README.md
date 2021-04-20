@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Keeper Tax w19 just raised $13m, hiring first PM](https://www.notion.so/Come-work-with-us-98a6be20e7e44922be6291f5513af40d?p=5b4d7459a1e748abbd9222d8106428ab)
-- [We need to know the origin of Covid-19](https://www.desmoinesregister.com/story/opinion/columnists/iowa-view/2021/04/15/covid-19-origin-study-ecohealth-important-prevent-pandemics-cdc-world-health-organization-china/7206841002/)
+- [Walter Mondale has died](https://www.nytimes.com/2021/04/19/us/politics/walter-mondale-dead.html)
+- [President of Chad Killed on the Battlefield](https://www.theguardian.com/world/2021/apr/20/chad-president-idriss-deby-dies-military-says)
+- [IBM to Kernel Maintainer: “You Are an IBM Employee 100% of the Time”](https://www.phoronix.com/scan.php?page=news_item&px=IBM-Employee-100p-Time)
+- [Keeper Tax (YC W19) just raised $13M, is hiring first PM](https://www.notion.so/Come-work-with-us-98a6be20e7e44922be6291f5513af40d?p=5b4d7459a1e748abbd9222d8106428ab)
 - [Munin Website Redesigned](https://munin-monitoring.org/)
-- [Ask HN: How do you keep track of releases/deployments of dozens micro-services?](https://news.ycombinator.com/item?id=26872904)
-- [Prolog for Beginners](https://www.coursera.org/projects/prolog-for-beginners-fhqrd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
