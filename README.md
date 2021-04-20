@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET for Beginners (2020)](https://dusted.codes/dotnet-for-beginners)
+- [Trust in blockchain-based systems](https://policyreview.info/glossary/trust-blockchain)
 - [Mastodon Renaming “Toots” to “Posts”](https://github.com/tootsuite/mastodon/pull/16080)
 - [.NET MAUI: .NET Multi-Platform App UI](https://github.com/dotnet/maui)
 - [S.1024 – The Bust Up Big Tech Act [pdf]](https://www.hawley.senate.gov/sites/default/files/2021-04/Bust%20Up%20Big%20Tech%20Act.pdf)
-- [Lisp in Forth](https://github.com/schani/forthlisp)
-- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://atob.co/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
