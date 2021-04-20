@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Shepherd.com – Discover books in a new way, like wandering a bookstore](https://shepherd.com/)
 - [PSPad: A freeware programmer's editor for Windows](https://www.pspad.com/en/)
-- [USV Dumps 100% of Coinbase Stock](https://www.sec.gov/Archives/edgar/data/0001679788/000120919121027149/xslF345X03/doc4.xml)
 - [Understanding Indirect Time-of-Flight Depth Sensing](https://devblogs.microsoft.com/azure-depth-platform/understanding-indirect-tof-depth-sensing/)
 - [Home ownership is the West’s biggest economic-policy mistake](https://www.economist.com/leaders/2020/01/16/home-ownership-is-the-wests-biggest-economic-policy-mistake)
+- [Cicoparser: Full game reverse engineering [video]](https://www.youtube.com/watch?v=4fAeUx8A-OE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
