@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Grafana, Loki, and Tempo will be relicensed to AGPLv3](https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/)
-- [Discord Ends Deal Talks with Microsoft, Will IPO](https://www.wsj.com/articles/discord-ends-deal-talks-with-microsoft-11618938806)
-- [Apple TV4K Gets A12 Bionic](https://www.apple.com/apple-tv-4k/)
-- [Apple Introduces AirTag](https://www.apple.com/newsroom/2021/04/apple-introduces-airtag/)
-- [Centaur Labs (YC W19) is hiring a back end engineer to work on the DiagnosUs app](https://www.ycombinator.com/companies/centaur-labs/jobs/CU9zFhH-backend-engineer)
+- [iMac 24-inch](https://www.apple.com/imac-24/)
+- [iPad Pro M1](https://www.apple.com/newsroom/2021/04/apple-unveils-new-ipad-pro-with-m1-chip-and-stunning-liquid-retina-xdr-display/)
+- [Show HN: I'm working on a open-source, self-hosted alternative to Disqus](https://cusdis.com)
+- [Hackers post 25,971 files stolen from Broward schools](https://www.sun-sentinel.com/news/education/fl-ne-broward-schools-hackers-post-files-20210419-mypt2qtlc5a7xela4x6bcg5hdy-story.html#nt=tertiarynavbar&nt=ticker)
+- [All-new iMac features the M1 chip](https://www.apple.com/newsroom/2021/04/imac-features-all-new-design-in-vibrant-colors-m1-chip-and-45k-retina-display/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
