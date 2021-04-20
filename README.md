@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Shepherd.com – Discover books in a new way, like wandering a bookstore](https://shepherd.com/)
+- [PSPad: A freeware programmer's editor for Windows](https://www.pspad.com/en/)
+- [USV Dumps 100% of Coinbase Stock](https://www.sec.gov/Archives/edgar/data/0001679788/000120919121027149/xslF345X03/doc4.xml)
 - [Understanding Indirect Time-of-Flight Depth Sensing](https://devblogs.microsoft.com/azure-depth-platform/understanding-indirect-tof-depth-sensing/)
 - [Home ownership is the West’s biggest economic-policy mistake](https://www.economist.com/leaders/2020/01/16/home-ownership-is-the-wests-biggest-economic-policy-mistake)
-- [Stamper](https://p5stamper.com/)
-- [FiiO M3K review – a pocketable-high quality audio player (2018)](https://accessibleaudio.co/2018/12/27/fiio-m3k-review-a-pocketable-high-quality-audio-player/)
-- [The Endless Acid Banger: algorithmic self-composing acid techno music](https://www.vitling.xyz/toys/acid-banger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
