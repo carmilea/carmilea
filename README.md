@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iMac 24-inch](https://www.apple.com/imac-24/)
+- [Facebook Wants to 'Normalize' the Mass Scraping of Personal Data](https://www.vice.com/en/article/7kvp7y/facebook-normalize-mass-scraping-personal-data)
+- [Ask HN: Show me the sexy, sexy home page of your favorite free CLI project](https://news.ycombinator.com/item?id=26878936)
 - [iPad Pro M1](https://www.apple.com/newsroom/2021/04/apple-unveils-new-ipad-pro-with-m1-chip-and-stunning-liquid-retina-xdr-display/)
 - [Show HN: I'm working on a open-source, self-hosted alternative to Disqus](https://cusdis.com)
 - [Hackers post 25,971 files stolen from Broward schools](https://www.sun-sentinel.com/news/education/fl-ne-broward-schools-hackers-post-files-20210419-mypt2qtlc5a7xela4x6bcg5hdy-story.html#nt=tertiarynavbar&nt=ticker)
-- [All-new iMac features the M1 chip](https://www.apple.com/newsroom/2021/04/imac-features-all-new-design-in-vibrant-colors-m1-chip-and-45k-retina-display/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
