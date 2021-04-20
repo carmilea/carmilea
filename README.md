@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You Are Not 'Behind'](https://zackkanter.com/2016/01/13/you-are-not-behind/)
-- [What is the hardest language in the world to lip-read? (2020)](https://www.atlasobscura.com/articles/lipreading-around-the-world)
-- [Replit (YC W18) Is Hiring a Developer Experience (DX) Engineer](https://jobs.lever.co/replit/93229770-4290-4436-bc40-6c513ffb3f72)
-- [Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/?p=232313)
-- [Everyone Loves the $100M Deli](https://www.bloomberg.com/opinion/articles/2021-04-19/everyone-loves-the-100-million-new-jersey-deli-except-david-einhorn-knottrmb)
+- [Shadow Simlulator – run real applications over a simulated Internet topology](https://shadow.github.io/)
+- [Software Infrastructure 2.0: A Wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
+- [Book review on the history of modern Singapore](https://www.lrb.co.uk/the-paper/v43/n06/thomas-meaney/the-bayswater-grocer)
+- [Open Source Goes to Mars](https://github.blog/2021-04-19-open-source-goes-to-mars/)
+- [You Are Not ‘Behind’ (2016)](https://zackkanter.com/2016/01/13/you-are-not-behind/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
