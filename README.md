@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Robinhood Trader May Face $800k Tax Bill](https://www.forbes.com/sites/shaharziv/2021/03/26/robinhood-trader-may-face-800000-tax-bill/)
+- [YouTube CEO receives freedom of expression award sponsored by YouTube itself](https://marketresearchtelecast.com/youtube-ceo-receives-freedom-of-expression-award-sponsored-by-the-video-platform-itself/34449/)
+- [Suicide Rates Are Rising Among U.S. Nurses](https://resetyoureveryday.com/suicide-rates-are-rising-among-u-s-nurses-finds-new-study/)
+- [Auth0 Has been down for almost 4 hours now](https://news.ycombinator.com/item?id=26880147)
 - [Facebook Wants to 'Normalize' the Mass Scraping of Personal Data](https://www.vice.com/en/article/7kvp7y/facebook-normalize-mass-scraping-personal-data)
-- [Ask HN: Show me the sexy, sexy home page of your favorite free CLI project](https://news.ycombinator.com/item?id=26878936)
-- [iPad Pro M1](https://www.apple.com/newsroom/2021/04/apple-unveils-new-ipad-pro-with-m1-chip-and-stunning-liquid-retina-xdr-display/)
-- [Show HN: I'm working on a open-source, self-hosted alternative to Disqus](https://cusdis.com)
-- [Hackers post 25,971 files stolen from Broward schools](https://www.sun-sentinel.com/news/education/fl-ne-broward-schools-hackers-post-files-20210419-mypt2qtlc5a7xela4x6bcg5hdy-story.html#nt=tertiarynavbar&nt=ticker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
