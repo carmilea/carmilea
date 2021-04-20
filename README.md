@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Geico data breach exposed customers’ driver’s license numbers](https://www.theverge.com/2021/4/19/22392566/geico-data-breach-exposed-customer-drivers-license-numbers-security)
-- [Bug in Notepad Involving Asterisk in Title Bar](https://suszter.com/reversingonwindows/bug-in-notepad-involving-asterisk-in-title-bar)
-- [Remote Code Execution Found in CococaPods](https://blog.cocoapods.org/CocoaPods-Trunk-RCE/)
-- [Drones Light Up Shanghai’s Sky with a QR Code (That You Can Scan)](https://www.vice.com/en/article/88n9vb/shanghai-drone-show-qr-code)
-- [Forced unemployment and second-class status: Google's data center contractors](https://www.protocol.com/google-contractors-forced-unemployment)
+- [Prank Windows XP simulator](https://geekprank.com/)
+- [mRNA vaccines – a new era in vaccinology (2018)](https://www.nature.com/articles/nrd.2017.243)
+- [2021 Free Expression Awards: Susan Wojcicki [video]](https://www.youtube.com/watch?v=xDcvPf78g1k)
+- [Preparing Rustls for Wider Adoption](https://www.abetterinternet.org/post/preparing-rustls-for-wider-adoption/)
+- [Robinhood Files S-1](https://blog.robinhood.com/news/2021/3/23/robinhood-markets-inc-confidentially-submits-draft-registration-statement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
