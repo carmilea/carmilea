@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cops “almost 99.9% sure” Tesla had no one at the wheel before deadly crash](https://arstechnica.com/cars/2021/04/cops-almost-99-9-sure-tesla-had-no-one-at-the-wheel-before-deadly-crash/)
+- [Understanding Indirect Time-of-Flight Depth Sensing](https://devblogs.microsoft.com/azure-depth-platform/understanding-indirect-tof-depth-sensing/)
+- [Home ownership is the West’s biggest economic-policy mistake](https://www.economist.com/leaders/2020/01/16/home-ownership-is-the-wests-biggest-economic-policy-mistake)
+- [Stamper](https://p5stamper.com/)
+- [FiiO M3K review – a pocketable-high quality audio player (2018)](https://accessibleaudio.co/2018/12/27/fiio-m3k-review-a-pocketable-high-quality-audio-player/)
 - [The Endless Acid Banger: algorithmic self-composing acid techno music](https://www.vitling.xyz/toys/acid-banger/)
-- [Buying an MP3 Player in 2018](https://www.techspot.com/article/1728-buying-an-mp3-player/)
-- [Neighbour manages to pollute the 2.4 ghz spectrum with his 120 IoT devices](https://devrant.com/rants/4186069/dev-my-neighbours-have-so-many-fucking-iot-devices-that-they-basically-fuck-over)
-- [IBM employee forced to stop kernel work for using personal email address](https://git.kernel.org/pub/scm/linux/kernel/git/netdev/net.git/commit/?id=4acd47644ef1e1c8f8f5bc40b7cf1c5b9bcbbc4e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
