@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastodon Renaming “Toots” to “Posts”](https://github.com/tootsuite/mastodon/pull/16080)
+- [.NET MAUI: .NET Multi-Platform App UI](https://github.com/dotnet/maui)
+- [S.1024 – The Bust Up Big Tech Act [pdf]](https://www.hawley.senate.gov/sites/default/files/2021-04/Bust%20Up%20Big%20Tech%20Act.pdf)
+- [Lisp in Forth](https://github.com/schani/forthlisp)
 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://atob.co/careers)
-- [Python Software Foundation Is Hiring a Python Packaging Project Manager](https://pyfound.blogspot.com/2021/04/the-psf-is-hiring-python-packaging.html)
-- [Pulumi 3.0](https://www.pulumi.com/blog/pulumi-3-0/)
-- [YouTube CEO Susan Wojcicki Gets 'Freedom Expression' Award Sponsored by YouTube](https://www.newsweek.com/youtube-ceo-susan-wojcicki-gets-freedom-expression-award-sponsored-youtube-1585147)
-- [Robinhood Trader May Face $800k Tax Bill](https://www.forbes.com/sites/shaharziv/2021/03/26/robinhood-trader-may-face-800000-tax-bill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
