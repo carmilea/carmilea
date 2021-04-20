@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Geico data breach exposed customers’ driver’s license numbers](https://www.theverge.com/2021/4/19/22392566/geico-data-breach-exposed-customer-drivers-license-numbers-security)
+- [Bug in Notepad Involving Asterisk in Title Bar](https://suszter.com/reversingonwindows/bug-in-notepad-involving-asterisk-in-title-bar)
+- [Remote Code Execution Found in CococaPods](https://blog.cocoapods.org/CocoaPods-Trunk-RCE/)
 - [Drones Light Up Shanghai’s Sky with a QR Code (That You Can Scan)](https://www.vice.com/en/article/88n9vb/shanghai-drone-show-qr-code)
 - [Forced unemployment and second-class status: Google's data center contractors](https://www.protocol.com/google-contractors-forced-unemployment)
-- [Walter Mondale has died](https://www.nytimes.com/2021/04/19/us/politics/walter-mondale-dead.html)
-- [Keeper Tax (YC W19) just raised $13M, is hiring first PM](https://www.notion.so/Come-work-with-us-98a6be20e7e44922be6291f5513af40d?p=5b4d7459a1e748abbd9222d8106428ab)
-- [Software designers, not engineers An interview from alternative universe](http://tomasp.net/blog/2021/software-designers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
