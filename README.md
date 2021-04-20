@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Prank Windows XP simulator](https://geekprank.com/)
-- [mRNA vaccines – a new era in vaccinology (2018)](https://www.nature.com/articles/nrd.2017.243)
-- [2021 Free Expression Awards: Susan Wojcicki [video]](https://www.youtube.com/watch?v=xDcvPf78g1k)
-- [Preparing Rustls for Wider Adoption](https://www.abetterinternet.org/post/preparing-rustls-for-wider-adoption/)
-- [Robinhood Files S-1](https://blog.robinhood.com/news/2021/3/23/robinhood-markets-inc-confidentially-submits-draft-registration-statement)
+- [Grafana, Loki, and Tempo will be relicensed to AGPLv3](https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/)
+- [Discord Ends Deal Talks with Microsoft, Will IPO](https://www.wsj.com/articles/discord-ends-deal-talks-with-microsoft-11618938806)
+- [Apple TV4K Gets A12 Bionic](https://www.apple.com/apple-tv-4k/)
+- [Apple Introduces AirTag](https://www.apple.com/newsroom/2021/04/apple-introduces-airtag/)
+- [Centaur Labs (YC W19) is hiring a back end engineer to work on the DiagnosUs app](https://www.ycombinator.com/companies/centaur-labs/jobs/CU9zFhH-backend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
