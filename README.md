@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Endless Acid Banger: algorithmic self-composing acid techno music](https://www.vitling.xyz/toys/acid-banger/)
+- [Buying an MP3 Player in 2018](https://www.techspot.com/article/1728-buying-an-mp3-player/)
 - [Neighbour manages to pollute the 2.4 ghz spectrum with his 120 IoT devices](https://devrant.com/rants/4186069/dev-my-neighbours-have-so-many-fucking-iot-devices-that-they-basically-fuck-over)
-- [Harvard Diploma for Sale](https://golliher.substack.com/p/renaissance-or-bust)
 - [IBM employee forced to stop kernel work for using personal email address](https://git.kernel.org/pub/scm/linux/kernel/git/netdev/net.git/commit/?id=4acd47644ef1e1c8f8f5bc40b7cf1c5b9bcbbc4e)
 - [The hotdog web browser and browser engine](https://github.com/danfragoso/thdwb)
-- [OpenSSH 8.6 Released](https://lwn.net/Articles/853445/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
