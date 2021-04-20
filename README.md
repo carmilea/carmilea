@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Prolog for Beginners](https://www.coursera.org/projects/prolog-for-beginners-fhqrd)
+- [JavaScript Tooling Not in JavaScript](https://github.com/RobinCsl/awesome-js-tooling-not-in-js)
+- [Show HN: The simplest React state manager now at stable release](https://simpler-state.js.org)
 - [Show HN: Shepherd.com – Discover books in a new way, like wandering a bookstore](https://shepherd.com/)
-- [PSPad: A freeware programmer's editor for Windows](https://www.pspad.com/en/)
 - [Understanding Indirect Time-of-Flight Depth Sensing](https://devblogs.microsoft.com/azure-depth-platform/understanding-indirect-tof-depth-sensing/)
-- [Home ownership is the West’s biggest economic-policy mistake](https://www.economist.com/leaders/2020/01/16/home-ownership-is-the-wests-biggest-economic-policy-mistake)
-- [Cicoparser: Full game reverse engineering [video]](https://www.youtube.com/watch?v=4fAeUx8A-OE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
