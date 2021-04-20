@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Neighbour manages to pollute the 2.4 ghz spectrum with his 120 IoT devices](https://devrant.com/rants/4186069/dev-my-neighbours-have-so-many-fucking-iot-devices-that-they-basically-fuck-over)
+- [Harvard Diploma for Sale](https://golliher.substack.com/p/renaissance-or-bust)
 - [IBM employee forced to stop kernel work for using personal email address](https://git.kernel.org/pub/scm/linux/kernel/git/netdev/net.git/commit/?id=4acd47644ef1e1c8f8f5bc40b7cf1c5b9bcbbc4e)
 - [The hotdog web browser and browser engine](https://github.com/danfragoso/thdwb)
 - [OpenSSH 8.6 Released](https://lwn.net/Articles/853445/)
-- [Shadow Simulator – run real applications over a simulated Internet topology](https://shadow.github.io/)
-- [Software Infrastructure 2.0: A Wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
