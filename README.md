@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shadow Simlulator – run real applications over a simulated Internet topology](https://shadow.github.io/)
+- [IBM employee forced to stop kernel work for using personal email address](https://git.kernel.org/pub/scm/linux/kernel/git/netdev/net.git/commit/?id=4acd47644ef1e1c8f8f5bc40b7cf1c5b9bcbbc4e)
+- [The hotdog web browser and browser engine](https://github.com/danfragoso/thdwb)
+- [OpenSSH 8.6 Released](https://lwn.net/Articles/853445/)
+- [Shadow Simulator – run real applications over a simulated Internet topology](https://shadow.github.io/)
 - [Software Infrastructure 2.0: A Wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
-- [Book review on the history of modern Singapore](https://www.lrb.co.uk/the-paper/v43/n06/thomas-meaney/the-bayswater-grocer)
-- [Open Source Goes to Mars](https://github.blog/2021-04-19-open-source-goes-to-mars/)
-- [You Are Not ‘Behind’ (2016)](https://zackkanter.com/2016/01/13/you-are-not-behind/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
