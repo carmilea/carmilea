@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Keeper Tax w19 just raised $13m, hiring first PM](https://www.notion.so/Come-work-with-us-98a6be20e7e44922be6291f5513af40d?p=5b4d7459a1e748abbd9222d8106428ab)
+- [We need to know the origin of Covid-19](https://www.desmoinesregister.com/story/opinion/columnists/iowa-view/2021/04/15/covid-19-origin-study-ecohealth-important-prevent-pandemics-cdc-world-health-organization-china/7206841002/)
+- [Munin Website Redesigned](https://munin-monitoring.org/)
+- [Ask HN: How do you keep track of releases/deployments of dozens micro-services?](https://news.ycombinator.com/item?id=26872904)
 - [Prolog for Beginners](https://www.coursera.org/projects/prolog-for-beginners-fhqrd)
-- [JavaScript Tooling Not in JavaScript](https://github.com/RobinCsl/awesome-js-tooling-not-in-js)
-- [Show HN: The simplest React state manager now at stable release](https://simpler-state.js.org)
-- [Show HN: Shepherd.com – Discover books in a new way, like wandering a bookstore](https://shepherd.com/)
-- [Understanding Indirect Time-of-Flight Depth Sensing](https://devblogs.microsoft.com/azure-depth-platform/understanding-indirect-tof-depth-sensing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
