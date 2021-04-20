@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://atob.co/careers)
+- [Python Software Foundation Is Hiring a Python Packaging Project Manager](https://pyfound.blogspot.com/2021/04/the-psf-is-hiring-python-packaging.html)
+- [Pulumi 3.0](https://www.pulumi.com/blog/pulumi-3-0/)
+- [YouTube CEO Susan Wojcicki Gets 'Freedom Expression' Award Sponsored by YouTube](https://www.newsweek.com/youtube-ceo-susan-wojcicki-gets-freedom-expression-award-sponsored-youtube-1585147)
 - [Robinhood Trader May Face $800k Tax Bill](https://www.forbes.com/sites/shaharziv/2021/03/26/robinhood-trader-may-face-800000-tax-bill/)
-- [YouTube CEO receives freedom of expression award sponsored by YouTube itself](https://marketresearchtelecast.com/youtube-ceo-receives-freedom-of-expression-award-sponsored-by-the-video-platform-itself/34449/)
-- [Suicide Rates Are Rising Among U.S. Nurses](https://resetyoureveryday.com/suicide-rates-are-rising-among-u-s-nurses-finds-new-study/)
-- [Auth0 Has been down for almost 4 hours now](https://news.ycombinator.com/item?id=26880147)
-- [Facebook Wants to 'Normalize' the Mass Scraping of Personal Data](https://www.vice.com/en/article/7kvp7y/facebook-normalize-mass-scraping-personal-data)
 <!-- BLOG-POST-LIST:END -->
 
 ---
