@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sleeping less than 6 hours a night in midlife raises risk of dementia 30%](https://www.cnn.com/2021/04/20/health/sleep-dementia-risk-study-wellness/index.html)
+- [Large collection of machine learning paper notes](https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c)
+- [Why blockchains won't revolutionize publishing](https://www.kevindangoor.com/posts/why-blockchains-wont-revolutionize-publishing/)
+- [New Bill to Ban US Government from Buying Location Data [pdf]](https://www.wyden.senate.gov/imo/media/doc/The%20Fourth%20Amendment%20Is%20Not%20For%20Sale%20Act%20of%202021%20Bill%20Text.pdf)
 - [Feasibility of stealthily introducing vulnerabilities in open source software [pdf]](https://github.com/QiushiWu/qiushiwu.github.io/blob/main/papers/OpenSourceInsecurity.pdf)
-- [Linux bans University of Minnesota for sending buggy patches in name of research](https://www.neowin.net/news/linux-bans-university-of-minnesota-for-sending-buggy-patches-in-the-name-of-research/)
-- [Apple AirDrop shares more than files](https://www.informatik.tu-darmstadt.de/fb20/ueber_uns_details_231616.en.jsp)
-- [Italian ‘king of absentees’ allegedly skipped work for 15 years](https://www.theguardian.com/world/2021/apr/21/italian-king-of-absentees-allegedly-skipped-work-for-15-years)
-- [NASA Found Another Way Into Nuclear Fusion (2020)](https://www.popularmechanics.com/science/energy/a34096117/nasa-nuclear-lattice-confiment-fusion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
