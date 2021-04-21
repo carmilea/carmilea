@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Truebill (YC W16) Is Hiring a Senior Machine Learning Engineers](https://www.truebill.com/careers/)
+- [Exploiting Vulnerabilities in Cellebrite UFED and Physical Analyzer](https://signal.org/blog/cellebrite-vulnerabilities/)
+- [Wearing two face masks can nearly double the filtering out SARS-CoV2 particles](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2778913)
 - [Sleeping less than 6 hours a night in midlife raises risk of dementia 30%](https://www.cnn.com/2021/04/20/health/sleep-dementia-risk-study-wellness/index.html)
 - [Large collection of machine learning paper notes](https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c)
-- [Why blockchains won't revolutionize publishing](https://www.kevindangoor.com/posts/why-blockchains-wont-revolutionize-publishing/)
-- [New Bill to Ban US Government from Buying Location Data [pdf]](https://www.wyden.senate.gov/imo/media/doc/The%20Fourth%20Amendment%20Is%20Not%20For%20Sale%20Act%20of%202021%20Bill%20Text.pdf)
-- [Feasibility of stealthily introducing vulnerabilities in open source software [pdf]](https://github.com/QiushiWu/qiushiwu.github.io/blob/main/papers/OpenSourceInsecurity.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
