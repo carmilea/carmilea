@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GUI app support is now available for the Windows Subsystem for Linux](https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/)
 - [Truebill (YC W16) Is Hiring a Senior Machine Learning Engineers](https://www.truebill.com/careers/)
 - [Exploiting Vulnerabilities in Cellebrite UFED and Physical Analyzer](https://signal.org/blog/cellebrite-vulnerabilities/)
-- [Wearing two face masks can nearly double the filtering out SARS-CoV2 particles](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2778913)
 - [Sleeping less than 6 hours a night in midlife raises risk of dementia 30%](https://www.cnn.com/2021/04/20/health/sleep-dementia-risk-study-wellness/index.html)
 - [Large collection of machine learning paper notes](https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c)
 <!-- BLOG-POST-LIST:END -->
