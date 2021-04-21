@@ -55,7 +55,7 @@
 - [Quantum Astronomy Could Create Telescopes Hundreds of Kilometers Wide](https://www.scientificamerican.com/article/quantum-astronomy-could-create-telescopes-hundreds-of-kilometers-wide/)
 - [Researcher says he can link Facebook accounts to 5M email addresses per day](https://arstechnica.com/gadgets/2021/04/tool-links-email-addresses-to-facebook-accounts-at-scale/)
 - [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
-- [Everybody Hates “FLoC”](https://arstechnica.com/gadgets/2021/04/everybody-hates-floc-googles-tracking-plan-for-chrome-ads/)
+- [Tetris-OS: An operating system that only plays Tetris](https://github.com/jdah/tetris-os)
 <!-- BLOG-POST-LIST:END -->
 
 ---
