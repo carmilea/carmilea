@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ethereum: A Store of Value with Cash Flow](https://ethereumcashflow.com/)
 - [UK government: no more smart motorways without stopped car detection](https://www.autocar.co.uk/car-news/industry-news-safety/uk-government-no-more-smart-motorways-without-stopped-car-detection)
 - [The Greshm System [pdf]](https://www.greshm.org/files/greshm.pdf)
-- [Quantum Astronomy Could Create Telescopes Hundreds of Kilometers Wide](https://www.scientificamerican.com/article/quantum-astronomy-could-create-telescopes-hundreds-of-kilometers-wide/)
-- [Researcher says he can link Facebook accounts to 5M email addresses per day](https://arstechnica.com/gadgets/2021/04/tool-links-email-addresses-to-facebook-accounts-at-scale/)
-- [Git from the Bottom Up (2008)](https://jwiegley.github.io/git-from-the-bottom-up/)
+- [Quantum astronomy could create telescopes hundreds of kilometers wide](https://www.scientificamerican.com/article/quantum-astronomy-could-create-telescopes-hundreds-of-kilometers-wide/)
+- [Show HN: I built a tool to remove unwanted elements from photos](https://www.cutout.pro/imageRetouch.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
