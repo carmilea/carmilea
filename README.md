@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UMN Statement on Linux Kernel Research](https://cse.umn.edu/cs/statement-cse-linux-kernel-research-april-21-2021)
+- [Librem 14 First Boot](https://puri.sm/posts/librem-14-first-boot/)
+- [UMN CS&E Statement on Linux Kernel Research](https://cse.umn.edu/cs/statement-cse-linux-kernel-research-april-21-2021)
 - [Riya Collective (YC W20) Is Hiring](https://www.workatastartup.com/jobs/43518)
 - [Show HN: My cofounder and I created a social platform for investment ideas](https://info.utradea.com/feed)
 - [Show HN: I made a tool to communicate data using the PC speaker](https://github.com/ggerganov/ggwave/tree/master/examples/r2t2)
-- [GUI app support is now available for the Windows Subsystem for Linux](https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
