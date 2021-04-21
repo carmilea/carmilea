@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [#SingleStore #TimeSeries #DataCapture and #Analysis](https://www.youtube.com/watch?v=EEjZPuXx_eM)
 - [Procedural #SQL with #SingleStore: #StoredProcedures, #Views, #UDFs, etc](https://www.youtube.com/watch?v=iVbuXHAmZp0)
 - [Working with #JSON in #SingleStore](https://www.youtube.com/watch?v=I9PkaEYzgoQ)
 - [#FullTextIndex and #FullTextSearch with #SingleStore](https://www.youtube.com/watch?v=2bzDDPLWL1k)
 - [#SingleStore #Sharding and #ShardKeys](https://www.youtube.com/watch?v=vl6uwVejYRE)
-- [#SingleStore #Storage Training](https://www.youtube.com/watch?v=-Ababrwwpk8)
 <!-- YOUTUBE:END -->
 
 
