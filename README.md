@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ethereum: A Store of Value with Cash Flow](https://ethereumcashflow.com/)
-- [UK government: no more smart motorways without stopped car detection](https://www.autocar.co.uk/car-news/industry-news-safety/uk-government-no-more-smart-motorways-without-stopped-car-detection)
 - [The Greshm System [pdf]](https://www.greshm.org/files/greshm.pdf)
 - [Quantum astronomy could create telescopes hundreds of kilometers wide](https://www.scientificamerican.com/article/quantum-astronomy-could-create-telescopes-hundreds-of-kilometers-wide/)
-- [Show HN: I built a tool to remove unwanted elements from photos](https://www.cutout.pro/imageRetouch.html)
+- [Git from the Bottom Up (2008)](https://jwiegley.github.io/git-from-the-bottom-up/)
+- [Tetris-OS: An operating system that only plays Tetris](https://github.com/jdah/tetris-os)
 <!-- BLOG-POST-LIST:END -->
 
 ---
