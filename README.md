@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Mail owner sues Google over search results](https://www.bbc.co.uk/news/business-56828173)
 - [Belarusian regime’s thugs shut down Imaguru, the country’s key startup hub](https://techcrunch.com/2021/04/20/belarusian-regimes-thugs-shut-down-imaguru-the-countrys-key-startup-hub/)
 - [‘It is much worse this time’: India’s devastating second wave](https://www.ft.com/content/683914a3-134f-40b6-989b-21e0ba1dc403)
+- [Netdata: Open-source real-time monitoring platform](https://github.com/netdata/netdata)
 - [Show HN:I personally created a web service in japan. Please review if you like.](https://note.com/url_wiki/n/n3d5c9b9cba68)
-- [Blocking Unwanted YouTube Video Segments](https://sponsor.ajay.app/)
-- [Ethereum: A Store of Value with Cash Flow](https://ethereumcashflow.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
