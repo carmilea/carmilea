@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tetris-OS: An operating system that only plays Tetris](https://github.com/jdah/tetris-os)
+- [New iMac with Vesa Mount](https://www.apple.com/shop/buy-mac/imac-vesa)
+- [Dr. Quinn official website from 1998, still online](https://www.drquinnmd.com/)
+- [Rise of the 10x Class](https://www.drorpoleg.com/rise-of-the-10x-class/)
 - [.NET for Beginners (2020)](https://dusted.codes/dotnet-for-beginners)
-- [Trust in blockchain-based systems](https://policyreview.info/glossary/trust-blockchain)
-- [Mastodon Renaming “Toots” to “Posts”](https://github.com/tootsuite/mastodon/pull/16080)
-- [.NET MAUI: .NET Multi-Platform App UI](https://github.com/dotnet/maui)
-- [S.1024 – The Bust Up Big Tech Act [pdf]](https://www.hawley.senate.gov/sites/default/files/2021-04/Bust%20Up%20Big%20Tech%20Act.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
