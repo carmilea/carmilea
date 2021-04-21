@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Librem 14 First Boot](https://puri.sm/posts/librem-14-first-boot/)
+- [OpenCV AI Competition 2021 Highlights and Team Profiles Part 1](https://opencv.org/opencv-ai-competition-2021-highlights-and-team-profiles-part-1/)
+- [Firefox 89.0 Beta brings a new look](https://www.mozilla.org/en-US/firefox/89.0beta/releasenotes/)
 - [UMN CS&E Statement on Linux Kernel Research](https://cse.umn.edu/cs/statement-cse-linux-kernel-research-april-21-2021)
 - [Riya Collective (YC W20) Is Hiring](https://www.workatastartup.com/jobs/43518)
 - [Show HN: My cofounder and I created a social platform for investment ideas](https://info.utradea.com/feed)
-- [Show HN: I made a tool to communicate data using the PC speaker](https://github.com/ggerganov/ggwave/tree/master/examples/r2t2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
