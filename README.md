@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In Support of Richard Stallman](https://stallmansupport.org/)
+- [Show HN: I made a tool to communicate data using the PC speaker](https://github.com/ggerganov/ggwave/tree/master/examples/r2t2)
 - [GUI app support is now available for the Windows Subsystem for Linux](https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/)
 - [Truebill (YC W16) Is Hiring a Senior Machine Learning Engineers](https://www.truebill.com/careers/)
-- [Exploiting Vulnerabilities in Cellebrite UFED and Physical Analyzer](https://signal.org/blog/cellebrite-vulnerabilities/)
-- [Sleeping less than 6 hours a night in midlife raises risk of dementia 30%](https://www.cnn.com/2021/04/20/health/sleep-dementia-risk-study-wellness/index.html)
-- [Large collection of machine learning paper notes](https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c)
+- [Statement on DNS Encryption [pdf]](https://root-servers.org/media/news/Statement_on_DNS_Encryption.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
