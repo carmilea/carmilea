@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Memberstack (YC S20) Is Hiring a Technical Recruiter (Contract Position)](https://www.ycombinator.com/companies/memberstack/jobs/h1Dwhw8-technical-recruiter-contract)
-- [Linux: Don't get me started on “executives”](https://lore.kernel.org/lkml/YH5tAqLr965MNZyW@kroah.com/)
-- [Show HN: Exactly-once delivery counter using Watermill messaging library](https://github.com/ThreeDotsLabs/watermill/tree/exactly-once-delivery-example/_examples/real-world-examples/exactly-once-delivery-counter)
-- [US owners find American-style greed doesn't play well in European soccer](https://eu.usatoday.com/story/sports/columnist/nancy-armour/2021/04/20/european-super-league-us-owners-find-greed-doesnt-work-europe/7310165002/)
-- [Prisma – The Complete ORM for Node.js and TypeScript](https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb)
+- [Italian ‘king of absentees’ allegedly skipped work for 15 years](https://www.theguardian.com/world/2021/apr/21/italian-king-of-absentees-allegedly-skipped-work-for-15-years)
+- [Tracking the WhatsApp habits of 5000 random Smartphones](https://jorislacance.fr/blog/2021/04/16/whatsapp-tracking-2)
+- [Beam VM Wisdoms](http://beam-wisdoms.clau.se/en/latest/)
+- [Unreleased MacBook Schematics Stolen in $50M Ransomware Attack on Apple Supplier](https://www.macrumors.com/2021/04/21/apple-supplier-ransomware-attack/)
+- [Airbus pioneers a superconducting powertrain cooled by liquid hydrogen](https://newatlas.com/aircraft/airbus-liquid-hydrogen-cryogenic-superconductivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
