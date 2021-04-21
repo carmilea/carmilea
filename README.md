@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Belarusian regime’s thugs shut down Imaguru, the country’s key startup hub](https://techcrunch.com/2021/04/20/belarusian-regimes-thugs-shut-down-imaguru-the-countrys-key-startup-hub/)
+- [‘It is much worse this time’: India’s devastating second wave](https://www.ft.com/content/683914a3-134f-40b6-989b-21e0ba1dc403)
+- [Show HN:I personally created a web service in japan. Please review if you like.](https://note.com/url_wiki/n/n3d5c9b9cba68)
+- [Blocking Unwanted YouTube Video Segments](https://sponsor.ajay.app/)
 - [Ethereum: A Store of Value with Cash Flow](https://ethereumcashflow.com/)
-- [The Greshm System [pdf]](https://www.greshm.org/files/greshm.pdf)
-- [Quantum astronomy could create telescopes hundreds of kilometers wide](https://www.scientificamerican.com/article/quantum-astronomy-could-create-telescopes-hundreds-of-kilometers-wide/)
-- [Git from the Bottom Up (2008)](https://jwiegley.github.io/git-from-the-bottom-up/)
-- [Tetris-OS: An operating system that only plays Tetris](https://github.com/jdah/tetris-os)
 <!-- BLOG-POST-LIST:END -->
 
 ---
