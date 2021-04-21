@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Memberstack (YC S20) Is Hiring a Technical Recruiter (Contract Position)](https://www.ycombinator.com/companies/memberstack/jobs/h1Dwhw8-technical-recruiter-contract)
+- [Linux: Don't get me started on “executives”](https://lore.kernel.org/lkml/YH5tAqLr965MNZyW@kroah.com/)
+- [Show HN: Exactly-once delivery counter using Watermill messaging library](https://github.com/ThreeDotsLabs/watermill/tree/exactly-once-delivery-example/_examples/real-world-examples/exactly-once-delivery-counter)
+- [US owners find American-style greed doesn't play well in European soccer](https://eu.usatoday.com/story/sports/columnist/nancy-armour/2021/04/20/european-super-league-us-owners-find-greed-doesnt-work-europe/7310165002/)
 - [Prisma – The Complete ORM for Node.js and TypeScript](https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb)
-- [“They introduce kernel bugs on purpose”](https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/)
-- [Hunting down the stuck BGP routes](https://blog.benjojo.co.uk/post/bgp-stuck-routes-tcp-zero-window)
-- [Daily Mail owner sues Google over search results](https://www.bbc.co.uk/news/business-56828173)
-- [Show HN: High-speed UTF-8 validation in Rust](https://github.com/rusticstuff/simdutf8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
