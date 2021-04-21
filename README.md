@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Greshm System [pdf]](https://www.greshm.org/files/greshm.pdf)
+- [Researcher says he can link Facebook accounts to 5M email addresses per day](https://arstechnica.com/gadgets/2021/04/tool-links-email-addresses-to-facebook-accounts-at-scale/)
+- [Everybody Hates “FLoC”](https://arstechnica.com/gadgets/2021/04/everybody-hates-floc-googles-tracking-plan-for-chrome-ads/)
+- [Augmented Reality Will Be Awful](https://www.danielsisson.com/articles/augmented-reality-will-be-awful)
 - [Tetris-OS: An operating system that only plays Tetris](https://github.com/jdah/tetris-os)
-- [New iMac with Vesa Mount](https://www.apple.com/shop/buy-mac/imac-vesa)
-- [Dr. Quinn official website from 1998, still online](https://www.drquinnmd.com/)
-- [Rise of the 10x Class](https://www.drorpoleg.com/rise-of-the-10x-class/)
-- [.NET for Beginners (2020)](https://dusted.codes/dotnet-for-beginners)
 <!-- BLOG-POST-LIST:END -->
 
 ---
