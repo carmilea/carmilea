@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux bans University of Minnesota for sending buggy patches](https://www.neowin.net/news/linux-bans-university-of-minnesota-for-sending-buggy-patches-in-the-name-of-research/)
+- [Feasibility of stealthily introducing vulnerabilities in open source software [pdf]](https://github.com/QiushiWu/qiushiwu.github.io/blob/main/papers/OpenSourceInsecurity.pdf)
+- [Linux bans University of Minnesota for sending buggy patches in name of research](https://www.neowin.net/news/linux-bans-university-of-minnesota-for-sending-buggy-patches-in-the-name-of-research/)
 - [Apple AirDrop shares more than files](https://www.informatik.tu-darmstadt.de/fb20/ueber_uns_details_231616.en.jsp)
 - [Italian ‘king of absentees’ allegedly skipped work for 15 years](https://www.theguardian.com/world/2021/apr/21/italian-king-of-absentees-allegedly-skipped-work-for-15-years)
-- [NASA Makes Nuclear Fusion Breakthrough: State of Nuclear Fusion (2020)](https://www.popularmechanics.com/science/energy/a34096117/nasa-nuclear-lattice-confiment-fusion/)
-- [Tracking the WhatsApp habits of 5000 random Smartphones](https://jorislacance.fr/blog/2021/04/16/whatsapp-tracking-2)
+- [NASA Found Another Way Into Nuclear Fusion (2020)](https://www.popularmechanics.com/science/energy/a34096117/nasa-nuclear-lattice-confiment-fusion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
