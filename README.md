@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In Support of Richard Stallman](https://stallmansupport.org/)
+- [Trying to open an S.F. ice cream shop, was no match for city bureaucracy](https://www.sfchronicle.com/local/heatherknight/article/S-F-ice-cream-shop-hopeful-sees-dreams-melted-by-16116082.php)
+- [Show HN: My cofounder and I created a social platform for investment ideas](https://info.utradea.com/feed)
 - [Show HN: I made a tool to communicate data using the PC speaker](https://github.com/ggerganov/ggwave/tree/master/examples/r2t2)
 - [GUI app support is now available for the Windows Subsystem for Linux](https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/)
 - [Truebill (YC W16) Is Hiring a Senior Machine Learning Engineers](https://www.truebill.com/careers/)
-- [Statement on DNS Encryption [pdf]](https://root-servers.org/media/news/Statement_on_DNS_Encryption.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
