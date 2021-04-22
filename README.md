@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Must Love Bogs](https://thebaffler.com/latest/must-love-bogs-emory)
-- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Avg. Transaction Fee of Bitcoin Surpassed the Peak from 2017](https://bitinfocharts.com/comparison/transactionfees-btc-xrp.html)
+- [BuildZoom (better way to build custom homes) is hiring a head of marketing](https://jobs.lever.co/buildzoom)
+- [The tragic tale of Monica Jones](https://www.theoldie.co.uk/blog/the-tragic-tale-of-monica-jones-philip-larkins-girlfriend)
 - [X11 Universal File Opener and XDG Mess](https://vermaden.wordpress.com/2021/04/22/freebsd-desktop-part-24-configuration-universal-file-opener/)
 - [Cerebras’ new monster AI chip adds 1.4T transistors](https://spectrum.ieee.org/tech-talk/semiconductors/processors/cerebras-giant-ai-chip-now-has-a-trillions-more-transistors)
-- [Stranded sailor allowed to leave abandoned ship after four years](https://www.bbc.com/news/world-middle-east-56842506)
 <!-- BLOG-POST-LIST:END -->
 
 ---
