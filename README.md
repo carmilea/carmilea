@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing the Rule 30 Prizes (2019)](https://blog.wolfram.com/2019/10/01/announcing-the-rule-30-prizes/)
+- [Bitcoin has few attributes of money but all the attributes of a collectible](https://jabberwocking.com/how-baseball-cards-explain-what-bitcoin-really-is/)
+- [Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?](https://retrocomputing.stackexchange.com/q/19655/7932)
+- [Converting Markdown to ePub or Mobi Using Pandoc](https://themythicalengineer.com/converting-markdown-to-epub-mobi.html)
 - [DreamWorld (YC W21) MMO raises all red flags](https://mmofallout.com/mmo-rant-dreamworld-raises-all-red-flags/)
 - [Show HN: Diffie-Hellman exchange for the layman](https://borisreitman.com/privacy.html)
-- [SolarBatteryBitcoin – Solar and Battery and Bitcoin Mining](https://github.com/ARKInvest/SolarBatteryBitcoin)
-- [Three Charged in Money Laundering Scheme Stealing $30MM from Safe Deposit Boxes](https://www.justice.gov/usao-edny/pr/three-brooklyn-residents-charged-money-laundering-scheme-stealing-over-30-million)
 <!-- BLOG-POST-LIST:END -->
 
 ---
