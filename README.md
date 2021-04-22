@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Filecoin, StorJ and the problem with decentralized storage](https://randomoracle.wordpress.com/2019/12/07/filecoin-storj-and-the-problem-with-decentralized-storage/)
-- [US to propose almost doubling capital gains tax rate for the wealthy to 39.6%](https://www.bloomberg.com/news/articles/2021-04-22/biden-to-propose-capital-gains-tax-as-high-as-43-4-for-wealthy)
+- [Stranded sailor allowed to leave abandoned ship after four years](https://www.bbc.com/news/world-middle-east-56842506)
+- [Designing sockfuzzer, a network syscall fuzzer for XNU](https://googleprojectzero.blogspot.com/2021/04/designing-sockfuzzer-network-syscall.html)
+- [Filecoin, StorJ and the problem with decentralized storage (2019)](https://randomoracle.wordpress.com/2019/12/07/filecoin-storj-and-the-problem-with-decentralized-storage/)
 - [Finding the UK’s dominant Covid-19 variant and the race to understand its impact](https://publichealthmatters.blog.gov.uk/2021/04/22/disease-detectives-finding-the-uks-dominant-covid-19-variant-and-the-race-to-understand-its-impact/)
-- [Vaccine Hesitancy for Covid-19: State, County, and Local Estimates](https://aspe.hhs.gov/pdf-report/vaccine-hesitancy)
-- [Wildtype: Sushi-grade salmon grown from Pacific Salmon cells](https://www.wildtypefoods.com/oursalmon)
+- [Help users log in across affiliated sites on Chrome](https://blog.chromium.org/2021/04/help-users-log-in-across-affiliated.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
