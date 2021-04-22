@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Engineering Body of Knowledge (Book)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
-- [Unicode Proposal – Textile Care Symbols](https://github.com/Crissov/unicode-proposals/issues/410)
-- [Show HN: Human Lambdas – Create Human in the Loop queues and outsource them](https://humanlambdas.com/)
-- [Show HN: Litmaps – Visual Research Discovery Tool](https://app.litmaps.co)
-- [Waking Up During Surgery (2019)](https://mosaicscience.com/story/anaesthesia-anesthesia-awake-awareness-surgery-operation-or-paralysed/)
+- [Challenges Building an Open-Source E Ink Laptop](https://alexsoto.dev/challenges-building-an-open-source-eink-laptop.html)
+- [Mino Games (YC W11) Is Hiring a Game Developer](https://jobs.lever.co/minogames/a6c827b6-0a0d-4e89-9b01-2168961575ff)
+- [In new deal, Wisconsin slashes controversial Foxconn subsidies 30-fold](https://arstechnica.com/tech-policy/2021/04/wisconsin-drastically-scales-back-politically-charged-deal-with-foxconn/)
+- [Ask HN: Moving from a product org to a consulting org: what should I know?](https://news.ycombinator.com/item?id=26901468)
+- [Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
