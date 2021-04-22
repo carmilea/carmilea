@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Challenges Building an Open-Source E Ink Laptop](https://alexsoto.dev/challenges-building-an-open-source-eink-laptop.html)
-- [Mino Games (YC W11) Is Hiring a Game Developer](https://jobs.lever.co/minogames/a6c827b6-0a0d-4e89-9b01-2168961575ff)
-- [In new deal, Wisconsin slashes controversial Foxconn subsidies 30-fold](https://arstechnica.com/tech-policy/2021/04/wisconsin-drastically-scales-back-politically-charged-deal-with-foxconn/)
-- [Ask HN: Moving from a product org to a consulting org: what should I know?](https://news.ycombinator.com/item?id=26901468)
-- [Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
+- [Green vs. Brown Programming Languages](https://earthly.dev/blog/brown-green-language/)
+- [Ubuntu 21.04 Released](https://ubuntu.com//blog/ubuntu-21-04-is-here)
+- [A Proposal to Admit New States (2020)](https://harvardlawreview.org/2020/01/pack-the-union-a-proposal-to-admit-new-states-for-the-purpose-of-amending-the-constitution-to-ensure-equal-representation/)
+- [Zellij – A Terminal Workspace and Multiplexer Written in Rust](http://zellij.dev/news/beta#)
+- [How to fuck up software releases (2019)](https://drewdevault.com/2019/10/12/how-to-fuck-up-releases.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
