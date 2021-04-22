@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [X11 Universal File Opener and XDG Mess](https://vermaden.wordpress.com/2021/04/22/freebsd-desktop-part-24-configuration-universal-file-opener/)
+- [Cerebras’ New Monster AI Chip Adds 1.4T Transistors](https://spectrum.ieee.org/tech-talk/semiconductors/processors/cerebras-giant-ai-chip-now-has-a-trillions-more-transistors)
+- [American Honey Is Radioactive from Decades of Nuclear Bomb Testing](https://www.vice.com/en/article/5dbzan/american-honey-is-radioactive-from-decades-of-nuclear-bomb-testing)
 - [Stranded sailor allowed to leave abandoned ship after four years](https://www.bbc.com/news/world-middle-east-56842506)
-- [Designing sockfuzzer, a network syscall fuzzer for XNU](https://googleprojectzero.blogspot.com/2021/04/designing-sockfuzzer-network-syscall.html)
-- [Filecoin, StorJ and the problem with decentralized storage (2019)](https://randomoracle.wordpress.com/2019/12/07/filecoin-storj-and-the-problem-with-decentralized-storage/)
-- [Finding the UK’s dominant Covid-19 variant and the race to understand its impact](https://publichealthmatters.blog.gov.uk/2021/04/22/disease-detectives-finding-the-uks-dominant-covid-19-variant-and-the-race-to-understand-its-impact/)
-- [Help users log in across affiliated sites on Chrome](https://blog.chromium.org/2021/04/help-users-log-in-across-affiliated.html)
+- [Optimizing RigelEngine’s OpenGL Rendering for the Raspberry Pi](https://lethalguitar.wordpress.com/2021/04/22/optimizing-rigelengines-opengl-rendering-for-the-raspberry-pi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
