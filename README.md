@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Americans overwhelmingly say marijuana should be legal](https://www.pewresearch.org/fact-tank/2021/04/16/americans-overwhelmingly-say-marijuana-should-be-legal-for-recreational-or-medical-use/)
+- [Manhattan to stop prosecuting prostitution, part of nationwide shift](https://www.bostonglobe.com/2021/04/21/nation/manhattan-stop-prosecuting-prostitution-part-nationwide-shift/)
+- [Why Google Cloud is less trustworthy than AWS or Azure](http://www.iasylum.net/writings/2021-04-21-why-I-distrust-google-cloud-more-than-AWS-or-Azure.html)
+- [Ask HN: How is a company like Comcast able to get away with spam?](https://news.ycombinator.com/item?id=26896611)
 - [OpenCV AI Competition 2021 Highlights and Team Profiles Part 1](https://opencv.org/opencv-ai-competition-2021-highlights-and-team-profiles-part-1/)
-- [Firefox 89.0 Beta brings a new look](https://www.mozilla.org/en-US/firefox/89.0beta/releasenotes/)
-- [UMN CS&E Statement on Linux Kernel Research](https://cse.umn.edu/cs/statement-cse-linux-kernel-research-april-21-2021)
-- [Riya Collective (YC W20) Is Hiring](https://www.workatastartup.com/jobs/43518)
-- [Show HN: My cofounder and I created a social platform for investment ideas](https://info.utradea.com/feed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
