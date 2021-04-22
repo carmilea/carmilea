@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pgvector – vector similarity search for Postgres](https://github.com/ankane/pgvector)
 - [Signal's CEO Just Hacked the Cops' Favorite Phone Cracking Tool](https://gizmodo.com/signals-ceo-just-hacked-the-cops-favorite-phone-crackin-1846733412)
 - [Green vs. Brown Programming Languages](https://earthly.dev/blog/brown-green-language/)
-- [Ubuntu 21.04 Released](https://ubuntu.com//blog/ubuntu-21-04-is-here)
-- [NASA 2nd Ingenuity drone flight completed successfully - MarsHelicopter](https://twitter.com/NASAJPL/status/1385228111323615239)
-- [How to find a job as Software Developer in Germany](https://germantechjobs.de/blog/how-to-find-job-as-software-developer-in-germany-complete-guide)
+- [Ubuntu 21.04](https://ubuntu.com//blog/ubuntu-21-04-is-here)
+- [Mars Helicopter successfully completed its second flight](https://twitter.com/NASAJPL/status/1385228111323615239)
 <!-- BLOG-POST-LIST:END -->
 
 ---
