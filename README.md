@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU preparing legal case against AstraZeneca over vaccine shortfalls](https://www.politico.eu/article/eu-preparing-legal-case-against-astrazeneca-over-vaccine-shortfalls/)
 - [How to navigate directories faster with Bash (2015)](https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html)
-- [In Response to the Markup’s Reporting, Some YouTubers Are Ditching the Platform](https://themarkup.org/google-the-giant/2021/04/20/in-response-to-the-markups-reporting-some-youtubers-are-ditching-the-platform)
-- [Employee accused of skipping work for 15 years](https://www.bbc.co.uk/news/world-europe-56822571)
 - [Tiny Container Challenge: Building a 6kB Containerized HTTP Server](https://devopsdirective.com/posts/2021/04/tiny-container-image/)
+- [Running code within another process's address space](https://lwn.net/SubscriberLink/852662/af59b68d9663b1a0/)
+- [MEPs call for European AI rules to ban biometric surveillance in public](https://www.yahoo.com/news/meps-call-european-ai-rules-201215526.html)
+- [Show HN: DbGate – open-source, cross-platform SQL+noSQL database client](https://dbgate.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
