@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the Rule 30 Prizes (2019)](https://blog.wolfram.com/2019/10/01/announcing-the-rule-30-prizes/)
+- [DreamWorld (YC W21) MMO raises all red flags](https://mmofallout.com/mmo-rant-dreamworld-raises-all-red-flags/)
+- [Show HN: Diffie-Hellman exchange for the layman](https://borisreitman.com/privacy.html)
 - [SolarBatteryBitcoin – Solar and Battery and Bitcoin Mining](https://github.com/ARKInvest/SolarBatteryBitcoin)
 - [Three Charged in Money Laundering Scheme Stealing $30MM from Safe Deposit Boxes](https://www.justice.gov/usao-edny/pr/three-brooklyn-residents-charged-money-laundering-scheme-stealing-over-30-million)
-- [Today, Jonathan Smith walks free after 21 years of wrongful imprisonment](https://innocenceproject.org/jonathan-smith-walks-free-after-21-years-of-wrongful-imprisonment-in-maryland/)
-- [Why I distrust Google Cloud more than than AWS or Azure](http://www.iasylum.net/writings/2021-04-21-why-I-distrust-google-cloud-more-than-AWS-or-Azure.html)
-- [ParkMobile Breach Exposes License Plate Data, Mobile Numbers of 21M Users](https://krebsonsecurity.com/2021/04/parkmobile-breach-exposes-license-plate-data-mobile-numbers-of-21m-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
