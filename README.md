@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SolarBatteryBitcoin – Solar and Battery and Bitcoin Mining](https://github.com/ARKInvest/SolarBatteryBitcoin)
+- [Three Charged in Money Laundering Scheme Stealing $30MM from Safe Deposit Boxes](https://www.justice.gov/usao-edny/pr/three-brooklyn-residents-charged-money-laundering-scheme-stealing-over-30-million)
 - [Today, Jonathan Smith walks free after 21 years of wrongful imprisonment](https://innocenceproject.org/jonathan-smith-walks-free-after-21-years-of-wrongful-imprisonment-in-maryland/)
-- [Manhattan DA says his office to stop prosecuting prostitution](https://www.npr.org/2021/04/21/989588072/a-relic-and-burden-manhattan-district-attorney-to-stop-prosecuting-prostitution)
 - [Why I distrust Google Cloud more than than AWS or Azure](http://www.iasylum.net/writings/2021-04-21-why-I-distrust-google-cloud-more-than-AWS-or-Azure.html)
 - [ParkMobile Breach Exposes License Plate Data, Mobile Numbers of 21M Users](https://krebsonsecurity.com/2021/04/parkmobile-breach-exposes-license-plate-data-mobile-numbers-of-21m-users/)
-- [Ask HN: How is a company like Comcast able to get away with spam?](https://news.ycombinator.com/item?id=26896611)
 <!-- BLOG-POST-LIST:END -->
 
 ---
