@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin has few attributes of money but all the attributes of a collectible](https://jabberwocking.com/how-baseball-cards-explain-what-bitcoin-really-is/)
+- [Running code within another process's address space](https://lwn.net/SubscriberLink/852662/af59b68d9663b1a0/)
+- [MEPs call for European AI rules to ban biometric surveillance in public](https://www.yahoo.com/news/meps-call-european-ai-rules-201215526.html)
+- [India's massive COVID surge puzzles scientists](https://www.nature.com/articles/d41586-021-01059-y)
+- [Non-profit legal entity for Mastodon being registered in Germany](https://mastodon.social/@Gargron/106104387021236353)
 - [Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?](https://retrocomputing.stackexchange.com/q/19655/7932)
-- [Converting Markdown to ePub or Mobi Using Pandoc](https://themythicalengineer.com/converting-markdown-to-epub-mobi.html)
-- [DreamWorld (YC W21) MMO raises all red flags](https://mmofallout.com/mmo-rant-dreamworld-raises-all-red-flags/)
-- [Show HN: Diffie-Hellman exchange for the layman](https://borisreitman.com/privacy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
