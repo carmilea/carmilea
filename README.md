@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Signal's CEO Just Hacked the Cops' Favorite Phone Cracking Tool](https://gizmodo.com/signals-ceo-just-hacked-the-cops-favorite-phone-crackin-1846733412)
 - [Green vs. Brown Programming Languages](https://earthly.dev/blog/brown-green-language/)
 - [Ubuntu 21.04 Released](https://ubuntu.com//blog/ubuntu-21-04-is-here)
-- [A Proposal to Admit New States (2020)](https://harvardlawreview.org/2020/01/pack-the-union-a-proposal-to-admit-new-states-for-the-purpose-of-amending-the-constitution-to-ensure-equal-representation/)
-- [Zellij – A Terminal Workspace and Multiplexer Written in Rust](http://zellij.dev/news/beta#)
-- [How to fuck up software releases (2019)](https://drewdevault.com/2019/10/12/how-to-fuck-up-releases.html)
+- [NASA 2nd Ingenuity drone flight completed successfully - MarsHelicopter](https://twitter.com/NASAJPL/status/1385228111323615239)
+- [How to find a job as Software Developer in Germany](https://germantechjobs.de/blog/how-to-find-job-as-software-developer-in-germany-complete-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
