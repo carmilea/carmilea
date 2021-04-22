@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Filecoin, StorJ and the problem with decentralized storage](https://randomoracle.wordpress.com/2019/12/07/filecoin-storj-and-the-problem-with-decentralized-storage/)
+- [US to propose almost doubling capital gains tax rate for the wealthy to 39.6%](https://www.bloomberg.com/news/articles/2021-04-22/biden-to-propose-capital-gains-tax-as-high-as-43-4-for-wealthy)
+- [Finding the UK’s dominant Covid-19 variant and the race to understand its impact](https://publichealthmatters.blog.gov.uk/2021/04/22/disease-detectives-finding-the-uks-dominant-covid-19-variant-and-the-race-to-understand-its-impact/)
 - [Vaccine Hesitancy for Covid-19: State, County, and Local Estimates](https://aspe.hhs.gov/pdf-report/vaccine-hesitancy)
-- [Wildtype sushi-grade salmon grown from Pacific Salmon cells](https://www.wildtypefoods.com/oursalmon)
-- [On Being an Outsider](https://lithub.com/on-being-an-outsider-words-by-charles-simic-photos-romeo-alaeff/)
-- [Ditto (YC W20) Is Hiring Back End and Full-Stack Engineers](https://www.dittowords.com/careers)
-- [Semgrep: Semantic grep for code](https://semgrep.dev)
+- [Wildtype: Sushi-grade salmon grown from Pacific Salmon cells](https://www.wildtypefoods.com/oursalmon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
