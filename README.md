@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unicode Proposal – Textile Care Symbols](https://github.com/Crissov/unicode-proposals/issues/410)
+- [Show HN: Human Lambdas – Create Human in the Loop queues and outsource them](https://humanlambdas.com/)
+- [Show HN: Litmaps – Visual Research Discovery Tool](https://app.litmaps.co)
+- [The use of disembodied female-sounding voices in service industries](https://failedarchitecture.com/she-wants-your-attention-shes-the-voice-of-the-city/)
 - [“Proctorio is expanding their lawsuit against me and I urgently need your help.”](https://twitter.com/Linkletter/status/1385004344903290883)
-- [Show HN: I made a sandbox game to help with financial planning](https://simulator.money/)
-- [How to navigate directories faster with Bash (2015)](https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html)
-- [Employee accused of skipping work for 15 years](https://www.bbc.co.uk/news/world-europe-56822571)
-- [Tiny Container Challenge: Building a 6kB Containerized HTTP Server](https://devopsdirective.com/posts/2021/04/tiny-container-image/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
