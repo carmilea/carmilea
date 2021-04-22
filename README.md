@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Must Love Bogs](https://thebaffler.com/latest/must-love-bogs-emory)
 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [X11 Universal File Opener and XDG Mess](https://vermaden.wordpress.com/2021/04/22/freebsd-desktop-part-24-configuration-universal-file-opener/)
-- [Cerebras’ New Monster AI Chip Adds 1.4T Transistors](https://spectrum.ieee.org/tech-talk/semiconductors/processors/cerebras-giant-ai-chip-now-has-a-trillions-more-transistors)
+- [Cerebras’ new monster AI chip adds 1.4T transistors](https://spectrum.ieee.org/tech-talk/semiconductors/processors/cerebras-giant-ai-chip-now-has-a-trillions-more-transistors)
 - [Stranded sailor allowed to leave abandoned ship after four years](https://www.bbc.com/news/world-middle-east-56842506)
-- [Optimizing RigelEngine’s OpenGL Rendering for the Raspberry Pi](https://lethalguitar.wordpress.com/2021/04/22/optimizing-rigelengines-opengl-rendering-for-the-raspberry-pi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
