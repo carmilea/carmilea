@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Americans overwhelmingly say marijuana should be legal](https://www.pewresearch.org/fact-tank/2021/04/16/americans-overwhelmingly-say-marijuana-should-be-legal-for-recreational-or-medical-use/)
-- [Manhattan to stop prosecuting prostitution, part of nationwide shift](https://www.bostonglobe.com/2021/04/21/nation/manhattan-stop-prosecuting-prostitution-part-nationwide-shift/)
-- [Why Google Cloud is less trustworthy than AWS or Azure](http://www.iasylum.net/writings/2021-04-21-why-I-distrust-google-cloud-more-than-AWS-or-Azure.html)
+- [Today, Jonathan Smith walks free after 21 years of wrongful imprisonment](https://innocenceproject.org/jonathan-smith-walks-free-after-21-years-of-wrongful-imprisonment-in-maryland/)
+- [Manhattan DA says his office to stop prosecuting prostitution](https://www.npr.org/2021/04/21/989588072/a-relic-and-burden-manhattan-district-attorney-to-stop-prosecuting-prostitution)
+- [Why I distrust Google Cloud more than than AWS or Azure](http://www.iasylum.net/writings/2021-04-21-why-I-distrust-google-cloud-more-than-AWS-or-Azure.html)
+- [ParkMobile Breach Exposes License Plate Data, Mobile Numbers of 21M Users](https://krebsonsecurity.com/2021/04/parkmobile-breach-exposes-license-plate-data-mobile-numbers-of-21m-users/)
 - [Ask HN: How is a company like Comcast able to get away with spam?](https://news.ycombinator.com/item?id=26896611)
-- [OpenCV AI Competition 2021 Highlights and Team Profiles Part 1](https://opencv.org/opencv-ai-competition-2021-highlights-and-team-profiles-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
