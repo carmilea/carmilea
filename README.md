@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Proctorio is expanding their lawsuit against me and I urgently need your help.”](https://twitter.com/Linkletter/status/1385004344903290883)
+- [Show HN: I made a sandbox game to help with financial planning](https://simulator.money/)
 - [How to navigate directories faster with Bash (2015)](https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html)
+- [Employee accused of skipping work for 15 years](https://www.bbc.co.uk/news/world-europe-56822571)
 - [Tiny Container Challenge: Building a 6kB Containerized HTTP Server](https://devopsdirective.com/posts/2021/04/tiny-container-image/)
-- [Running code within another process's address space](https://lwn.net/SubscriberLink/852662/af59b68d9663b1a0/)
-- [MEPs call for European AI rules to ban biometric surveillance in public](https://www.yahoo.com/news/meps-call-european-ai-rules-201215526.html)
-- [Show HN: DbGate – open-source, cross-platform SQL+noSQL database client](https://dbgate.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
