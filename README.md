@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software Engineering Body of Knowledge (Book)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 - [Unicode Proposal – Textile Care Symbols](https://github.com/Crissov/unicode-proposals/issues/410)
 - [Show HN: Human Lambdas – Create Human in the Loop queues and outsource them](https://humanlambdas.com/)
 - [Show HN: Litmaps – Visual Research Discovery Tool](https://app.litmaps.co)
-- [The use of disembodied female-sounding voices in service industries](https://failedarchitecture.com/she-wants-your-attention-shes-the-voice-of-the-city/)
-- [“Proctorio is expanding their lawsuit against me and I urgently need your help.”](https://twitter.com/Linkletter/status/1385004344903290883)
+- [Waking Up During Surgery (2019)](https://mosaicscience.com/story/anaesthesia-anesthesia-awake-awareness-surgery-operation-or-paralysed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
