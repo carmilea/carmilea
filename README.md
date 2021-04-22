@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pgvector – vector similarity search for Postgres](https://github.com/ankane/pgvector)
-- [Signal's CEO Just Hacked the Cops' Favorite Phone Cracking Tool](https://gizmodo.com/signals-ceo-just-hacked-the-cops-favorite-phone-crackin-1846733412)
-- [Green vs. Brown Programming Languages](https://earthly.dev/blog/brown-green-language/)
-- [Ubuntu 21.04](https://ubuntu.com//blog/ubuntu-21-04-is-here)
-- [Mars Helicopter successfully completed its second flight](https://twitter.com/NASAJPL/status/1385228111323615239)
+- [Vaccine Hesitancy for Covid-19: State, County, and Local Estimates](https://aspe.hhs.gov/pdf-report/vaccine-hesitancy)
+- [Wildtype sushi-grade salmon grown from Pacific Salmon cells](https://www.wildtypefoods.com/oursalmon)
+- [On Being an Outsider](https://lithub.com/on-being-an-outsider-words-by-charles-simic-photos-romeo-alaeff/)
+- [Ditto (YC W20) Is Hiring Back End and Full-Stack Engineers](https://www.dittowords.com/careers)
+- [Semgrep: Semantic grep for code](https://semgrep.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
