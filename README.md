@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Light Pollution Map](https://www.lightpollutionmap.info/)
-- [Wirecard employees removed millions in cash using shopping bags](https://www.ft.com/content/31a8ed93-f602-47f0-9120-4b4f152ec7bc)
-- [Digging for performance gold: finding hidden performance wins](https://blog.chromium.org/2021/04/digging-for-performance-gold.html)
-- [Suicide has become rarer during the pandemic](https://www.economist.com/graphic-detail/2021/04/24/surprisingly-suicide-has-become-rarer-during-the-pandemic)
-- [Lego Microscope](https://github.com/tobetz/LegoMicroscope)
+- [4chan founder Chris Poole leaves Google](https://arstechnica.com/gadgets/2021/04/4chan-founder-chris-poole-leaves-google/)
+- [Vizy, an AI Camera for the Pi](https://vizycam.com/)
+- [Great Malaria Vaccine News](https://blogs.sciencemag.org/pipeline/archives/2021/04/23/great-malaria-vaccine-news)
+- [Cycles X](https://code.blender.org/2021/04/cycles-x/)
+- [Bye Aerospace Unveils 8-Seat All-Electric EFlyer 800](https://byeaerospace.com/bye-aerospace-unveils-8-seat-all-electric-eflyer-800/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
