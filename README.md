@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft to Provide Most Powerful Weather, Climate Supercomputer for UK](https://www.hpcwire.com/2021/04/22/microsoft-to-provide-worlds-most-powerful-weather-climate-supercomputer-for-uks-met-office/)
+- [Consumer Reports tricks Tesla to drive with no one at wheel](https://apnews.com/article/technology-business-b1139dc8bd2ec3179f1075d6ef77c7fb)
+- [Lindows Click-N-Run (2002)](https://web.archive.org/web/20020802231821/http://www.lindows.com/products_clicknrun_whatis.php)
 - [Minio Changes License to AGPL](https://github.com/minio/minio/commit/069432566fcfac1f1053677cc925ddafd750730a)
 - [CDC panel recommends resuming use of Johnson and Johnson vaccine](https://www.axios.com/cdc-panel-johnson-johnson-vaccine-pause-lift-dfc002cf-716c-465b-86db-861cb0f1b4a1.html)
-- [Why do browsers not keep status 302 pages in back-button history?](https://stackoverflow.com/questions/61066474/why-do-browsers-not-keep-status-302-pages-in-back-button-history)
-- [Token Transit (YC W17) is hiring to modernize public transit payment](https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer)
-- [Does Andy Warhol get same copyright treatment as Google code?](https://www.hollywoodreporter.com/thr-esq/does-andy-warhol-get-same-copyright-treatment-as-google-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
