@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Police search cryptocurrency trading firm after Turks say they were scammed](https://www.reuters.com/world/middle-east/turkish-crypto-traders-file-complaints-after-access-accounts-frozen-lawyer-2021-04-22/)
 - [The Boyer-Moore Fast String Searching Algorithm](https://www.cs.utexas.edu/users/moore/best-ideas/string-searching/)
+- [Europe’s Super League scores an own goal](https://www.economist.com/business/2021/04/22/europes-super-league-scores-a-spectacular-own-goal)
 - [Some useful regular expressions for programmers](https://lemire.me/blog/2021/04/22/some-useful-regular-expressions-for-programmers/)
 - [Why Lichess will always be free](https://lichess.org/blog/YF-ZORQAACAA89PI/why-lichess-will-always-be-free.)
-- [OPNsense and HardenedBSD are parting ways](https://forum.opnsense.org/index.php?topic=22761.msg108313#msg108313)
 <!-- BLOG-POST-LIST:END -->
 
 ---
