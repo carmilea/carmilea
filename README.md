@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s M1 Positioning Mocks the Entire x86 Business Model](https://www.extremetech.com/computing/322120-apples-m1-positioning-mocks-every-x86-cpu-amd-and-intel-have-ever-launched)
 - [Show HN: Earth Day dashboard for the Reef ~ 11.8k mins / 3k contribs today](https://greatreefcensus.org/event/earthday)
 - [OPNsense and HardenedBSD are parting ways](https://forum.opnsense.org/index.php?topic=22761.msg108313#msg108313)
-- [The culture war is killing us [video]](https://www.youtube.com/watch?v=0DRHn_Dz_js)
 - [The Rise of North Korea's Hacking Army](https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)
 - [Smart Folk Often Full of Crap, Study Finds](https://themultidisciplinarian.com/2021/04/22/smart-folk-often-full-of-crap-study-finds/)
 <!-- BLOG-POST-LIST:END -->
