@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Avg. Transaction Fee of Bitcoin Surpassed the Peak from 2017](https://bitinfocharts.com/comparison/transactionfees-btc-xrp.html)
+- [OPNsense and HardenedBSD are parting ways](https://forum.opnsense.org/index.php?topic=22761.msg108313#msg108313)
+- [The Rise of North Korea's Hacking Army](https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)
 - [BuildZoom (better way to build custom homes) is hiring a head of marketing](https://jobs.lever.co/buildzoom)
 - [The tragic tale of Monica Jones](https://www.theoldie.co.uk/blog/the-tragic-tale-of-monica-jones-philip-larkins-girlfriend)
-- [X11 Universal File Opener and XDG Mess](https://vermaden.wordpress.com/2021/04/22/freebsd-desktop-part-24-configuration-universal-file-opener/)
-- [Cerebras’ new monster AI chip adds 1.4T transistors](https://spectrum.ieee.org/tech-talk/semiconductors/processors/cerebras-giant-ai-chip-now-has-a-trillions-more-transistors)
+- [GitHub Actions update: Helping maintainers combat bad actors](https://github.blog/2021-04-22-github-actions-update-helping-maintainers-combat-bad-actors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
