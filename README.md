@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Token Transit (YC W17) is hiring to modernize public transit payment](https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer)
+- [Does Andy Warhol get same copyright treatment as Google code?](https://www.hollywoodreporter.com/thr-esq/does-andy-warhol-get-same-copyright-treatment-as-google-code)
 - [A new way to make maps with OpenStreetMap](https://protomaps.com/blog/new-way-to-make-maps/)
 - [Volkswagen launches its first all-electric SUV, the ID.4](https://abc7.com/volkswagen-id4-electric-suv-vehicles-volkswagon/10539182/)
-- [Flexport is hiring software engineers to reinvent global trade](https://www.flexport.com/careers/department/engineering)
 - [Jaguar Land Rover to suspend output due to chip shortage](https://www.bbc.com/news/business-56841946)
-- [4chan founder Chris Poole has left Google](https://www.cnbc.com/2021/04/22/4chan-founder-chris-poole-moot-has-left-google.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
