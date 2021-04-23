@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Light Pollution Map](https://www.lightpollutionmap.info/)
+- [Wirecard employees removed millions in cash using shopping bags](https://www.ft.com/content/31a8ed93-f602-47f0-9120-4b4f152ec7bc)
+- [Digging for performance gold: finding hidden performance wins](https://blog.chromium.org/2021/04/digging-for-performance-gold.html)
+- [Suicide has become rarer during the pandemic](https://www.economist.com/graphic-detail/2021/04/24/surprisingly-suicide-has-become-rarer-during-the-pandemic)
 - [Lego Microscope](https://github.com/tobetz/LegoMicroscope)
-- [Ambition (YC W14) Is Hiring Software Engineers (Django/React)](https://ambition.com/career/opportunity/full-stack-engineer/)
-- [How to Interchange Ed25119 Keys](https://www.tbray.org/ongoing/When/202x/2021/04/19/PKI-Detective)
-- [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/)
-- [Convicted Post Office workers have names cleared after cover-up of flawed system](https://www.bbc.co.uk/news/business-56859357)
 <!-- BLOG-POST-LIST:END -->
 
 ---
