@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Court clears 39 Post Office staff convicted due to ‘corrupt data’](https://www.theguardian.com/uk-news/2021/apr/23/court-clears-39-post-office-staff-convicted-due-to-corrupt-data)
 - ['World’s most powerful' tidal turbine sets sail from Dundee](https://www.bbc.co.uk/news/uk-scotland-tayside-central-56818538)
 - [Apple Is Sued for Telling You That You're “Buying” Movies](https://nofilmschool.com/apple-movie-buys)
 - [Beej’s Guide to C Programming [pdf]](http://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf)
 - [Police search cryptocurrency trading firm after Turks say they were scammed](https://www.reuters.com/world/middle-east/turkish-crypto-traders-file-complaints-after-access-accounts-frozen-lawyer-2021-04-22/)
-- [The Boyer-Moore Fast String Searching Algorithm](https://www.cs.utexas.edu/users/moore/best-ideas/string-searching/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
