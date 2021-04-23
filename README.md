@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the New Macs Are So Short of Memory](https://www.forbes.com/sites/barrycollins/2020/11/11/why-the-new-macs-are-so-short-of-memory/)
+- [A new way to make maps with OpenStreetMap](https://protomaps.com/blog/new-way-to-make-maps/)
+- [Volkswagen launches its first all-electric SUV, the ID.4](https://abc7.com/volkswagen-id4-electric-suv-vehicles-volkswagon/10539182/)
 - [Flexport is hiring software engineers to reinvent global trade](https://www.flexport.com/careers/department/engineering)
 - [Jaguar Land Rover to suspend output due to chip shortage](https://www.bbc.com/news/business-56841946)
 - [4chan founder Chris Poole has left Google](https://www.cnbc.com/2021/04/22/4chan-founder-chris-poole-moot-has-left-google.html)
-- [Vizy, an AI Camera for the Pi](https://vizycam.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
