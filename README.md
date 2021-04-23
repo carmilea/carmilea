@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport is hiring software engineers to reinvent global trade](https://www.flexport.com/careers/department/engineering)
+- [Jaguar Land Rover to suspend output due to chip shortage](https://www.bbc.com/news/business-56841946)
 - [4chan founder Chris Poole leaves Google](https://arstechnica.com/gadgets/2021/04/4chan-founder-chris-poole-leaves-google/)
+- [How India Went from a Ray of Hope to World Record for Most Covid Cases in a Day](https://www.npr.org/sections/goatsandsoda/2021/04/22/989768074/how-india-went-from-a-ray-of-hope-to-a-world-record-for-most-covid-cases-in-a-da)
 - [Vizy, an AI Camera for the Pi](https://vizycam.com/)
-- [Great Malaria Vaccine News](https://blogs.sciencemag.org/pipeline/archives/2021/04/23/great-malaria-vaccine-news)
-- [Cycles X](https://code.blender.org/2021/04/cycles-x/)
-- [Bye Aerospace Unveils 8-Seat All-Electric EFlyer 800](https://byeaerospace.com/bye-aerospace-unveils-8-seat-all-electric-eflyer-800/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
