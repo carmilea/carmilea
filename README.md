@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: I am building a bugtracker. What would you like to see?](https://bugasura.io/)
+- ['World’s most powerful' tidal turbine sets sail from Dundee](https://www.bbc.co.uk/news/uk-scotland-tayside-central-56818538)
 - [Apple Is Sued for Telling You That You're “Buying” Movies](https://nofilmschool.com/apple-movie-buys)
-- [The Reason to End the Death Penalty](http://www.paulgraham.com/real.html)
 - [Beej’s Guide to C Programming [pdf]](http://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf)
 - [Police search cryptocurrency trading firm after Turks say they were scammed](https://www.reuters.com/world/middle-east/turkish-crypto-traders-file-complaints-after-access-accounts-frozen-lawyer-2021-04-22/)
+- [The Boyer-Moore Fast String Searching Algorithm](https://www.cs.utexas.edu/users/moore/best-ideas/string-searching/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
