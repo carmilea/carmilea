@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mars sucks](https://www.marssucks.com/)
+- [Apple Is Sued for Telling You That You're “Buying” Movies](https://nofilmschool.com/apple-movie-buys)
 - [Beej’s Guide to C Programming [pdf]](http://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf)
 - [Police search cryptocurrency trading firm after Turks say they were scammed](https://www.reuters.com/world/middle-east/turkish-crypto-traders-file-complaints-after-access-accounts-frozen-lawyer-2021-04-22/)
 - [The Boyer-Moore Fast String Searching Algorithm](https://www.cs.utexas.edu/users/moore/best-ideas/string-searching/)
