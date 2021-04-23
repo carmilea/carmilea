@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Minio Changes License to AGPL](https://github.com/minio/minio/commit/069432566fcfac1f1053677cc925ddafd750730a)
+- [CDC panel recommends resuming use of Johnson and Johnson vaccine](https://www.axios.com/cdc-panel-johnson-johnson-vaccine-pause-lift-dfc002cf-716c-465b-86db-861cb0f1b4a1.html)
+- [Why do browsers not keep status 302 pages in back-button history?](https://stackoverflow.com/questions/61066474/why-do-browsers-not-keep-status-302-pages-in-back-button-history)
 - [Token Transit (YC W17) is hiring to modernize public transit payment](https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer)
 - [Does Andy Warhol get same copyright treatment as Google code?](https://www.hollywoodreporter.com/thr-esq/does-andy-warhol-get-same-copyright-treatment-as-google-code)
-- [A new way to make maps with OpenStreetMap](https://protomaps.com/blog/new-way-to-make-maps/)
-- [Volkswagen launches its first all-electric SUV, the ID.4](https://abc7.com/volkswagen-id4-electric-suv-vehicles-volkswagon/10539182/)
-- [Jaguar Land Rover to suspend output due to chip shortage](https://www.bbc.com/news/business-56841946)
 <!-- BLOG-POST-LIST:END -->
 
 ---
