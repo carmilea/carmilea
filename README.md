@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ambition (YC W14) Is Hiring Software Engineers (Django/React)](https://ambition.com/career/opportunity/full-stack-engineer/)
+- [How to Interchange Ed25119 Keys](https://www.tbray.org/ongoing/When/202x/2021/04/19/PKI-Detective)
+- [Convicted Post Office workers have names cleared after cover-up of flawed system](https://www.bbc.co.uk/news/business-56859357)
 - [Court clears 39 Post Office staff convicted due to ‘corrupt data’](https://www.theguardian.com/uk-news/2021/apr/23/court-clears-39-post-office-staff-convicted-due-to-corrupt-data)
-- ['World’s most powerful' tidal turbine sets sail from Dundee](https://www.bbc.co.uk/news/uk-scotland-tayside-central-56818538)
-- [Apple Is Sued for Telling You That You're “Buying” Movies](https://nofilmschool.com/apple-movie-buys)
-- [Beej’s Guide to C Programming [pdf]](http://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf)
-- [Police search cryptocurrency trading firm after Turks say they were scammed](https://www.reuters.com/world/middle-east/turkish-crypto-traders-file-complaints-after-access-accounts-frozen-lawyer-2021-04-22/)
+- [Amnesty International global report death sentences and executions 2020 [pdf]](https://www.amnesty.org.uk/files/2021-04/DEATH%20SENTENCES%20AND%20EXECUTIONS%202020%20Web%20%281%29.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
