@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Earth Day dashboard for the Reef ~ 11.8k mins / 3k contribs today](https://greatreefcensus.org/event/earthday)
 - [OPNsense and HardenedBSD are parting ways](https://forum.opnsense.org/index.php?topic=22761.msg108313#msg108313)
+- [The culture war is killing us [video]](https://www.youtube.com/watch?v=0DRHn_Dz_js)
 - [The Rise of North Korea's Hacking Army](https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)
-- [BuildZoom (better way to build custom homes) is hiring a head of marketing](https://jobs.lever.co/buildzoom)
-- [The tragic tale of Monica Jones](https://www.theoldie.co.uk/blog/the-tragic-tale-of-monica-jones-philip-larkins-girlfriend)
-- [GitHub Actions update: Helping maintainers combat bad actors](https://github.blog/2021-04-22-github-actions-update-helping-maintainers-combat-bad-actors/)
+- [Smart Folk Often Full of Crap, Study Finds](https://themultidisciplinarian.com/2021/04/22/smart-folk-often-full-of-crap-study-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
