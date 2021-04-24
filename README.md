@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth Restored – 50 restored images of earth released](http://www.tobyord.com/earth)
+- [Several US utilities back out of deal to build novel nuclear power plant (2020)](https://www.sciencemag.org/news/2020/11/several-us-utilities-back-out-deal-build-novel-nuclear-power-plant)
 - [Bits (YC S20) Is Hiring a Back End Engineer](https://www.ycombinator.com/companies/bits/jobs/4hNZVTT-backend-developer)
 - [You might as well timestamp it](https://changelog.com/posts/you-might-as-well-timestamp-it)
-- [Gravity batteries try to beat chemical ones with winches, weights, mine shafts](https://www.sciencemag.org/news/2021/04/gravity-based-batteries-try-beat-their-chemical-cousins-winches-weights-and-mine-shafts)
-- [Deutsche Bank Whistleblower Vanishes](https://forensicnews.net/deutsche-bank-whistleblower-vanishes/)
-- [Remote code execution in Homebrew by compromising the official Cask repository](https://blog.ryotak.me/post/homebrew-security-incident-en/)
+- [Stacked Diffs versus Pull Requests (2018)](https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
