@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Armenian Genocide (1915-16): In Depth](https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth)
 - [Newark cops, with reform, didn't fire a single shot in 2020](https://www.nj.com/news/2021/01/newark-cops-with-reform-didnt-fire-a-single-shot-in-2020-moran.html)
 - [Mal – Make a Lisp](https://github.com/kanaka/mal)
 - [TrueVault (YC W14) Is Hiring an Engineering Lead](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead)
 - [Dirty Dollars](https://newsinteractive.post-gazette.com/ukraine-money-laundering/)
-- [Dark Ops Undercovered: Episode II](https://www.qurium.org/forensics/dark-ops-undercovered-episode-ii-eliminalia-analysis-of-fake-dmca-complaints/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
