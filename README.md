@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shop Class as Soulcraft](https://www.thenewatlantis.com/publications/shop-class-as-soulcraft)
-- [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/)
-- [Oklahoma woman charged with felony for not returning VHS tape 21 years ago](https://okcfox.com/news/local/oklahoma-woman-charged-with-felony-for-not-returning-vhs-tape-21-years-ago)
-- [Pine64.org It's Time: InfiniTime 1.0](https://www.pine64.org/2021/04/22/its-time-infinitime-1-0/)
-- [Dan Kaminsky Has Died](https://twitter.com/marcwrogers/status/1385961838735597572)
+- [Irdest: Decentralised ad-hoc wireless mesh communication](https://irde.st/)
+- [The unreasonable effectiveness of print debugging](https://buttondown.email/geoffreylitt/archive/starting-this-newsletter-print-debugging-byoc/)
+- [Building data products – Passive income for data experts](http://otodato.io)
+- [E-Scooters roll into New York](https://www.newyorker.com/magazine/2021/04/26/the-e-scooters-loved-by-silicon-valley-roll-into-new-york)
+- [Scalability, but at What Cost [pdf]](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
