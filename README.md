@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TrueVault (YC W14) Is Hiring an Engineering Lead](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead)
+- [Dirty Dollars](https://newsinteractive.post-gazette.com/ukraine-money-laundering/)
+- [Dark Ops Undercovered: Episode II](https://www.qurium.org/forensics/dark-ops-undercovered-episode-ii-eliminalia-analysis-of-fake-dmca-complaints/)
+- [The US Plans to Finally Standardize the Length of a Single Foot](https://99percentinvisible.org/article/goofy-feet-the-us-plans-to-finally-standardize-the-length-of-a-single-foot/)
 - [Sisters with Transistors](https://www.rogerebert.com/reviews/sisters-with-transistors-movie-review-2021)
-- [College as a Marriage Market](https://www.nber.org/papers/w28688)
-- [Dutch MPs had a call with deep fake imitation of Navalny's Chief of Staff](https://nltimes.nl/2021/04/24/dutch-mps-video-conference-deep-fake-imitation-navalnys-chief-staff)
-- [Earth Restored – 50 restored images of earth released](http://www.tobyord.com/earth)
-- [Several US utilities back out of deal to build novel nuclear power plant (2020)](https://www.sciencemag.org/news/2020/11/several-us-utilities-back-out-deal-build-novel-nuclear-power-plant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
