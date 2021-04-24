@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Want to Resist? Delete Your Facebook Account](https://www.chrbutler.com/want-to-resist-delete-your-facebook-account)
+- [Domain Shadowing: Leveraging CDNs for Robust Blocking-Resistant Communications](https://blog.torproject.org/anti-censorship-domain-shadowing)
+- [Mars has right ingredients for present-day microbial life beneath its surface](https://www.brown.edu/news/2021-04-22/subsurface)
+- [A Silly Anti-Disassembly Trick](https://alexomara.com/blog/a-silly-anti-disassembly-trick/)
 - [Viewpoints Research Institute concluded its operations at the beginning of 2018](http://www.vpri.org/)
-- [Lumi (YC W15) is hiring PMs to build the marketplace for manufacturing](https://www.lumi.com/jobs/product-management-lead)
-- [Data Organization in Spreadsheets (2017)](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
-- [Looks like you are typing while in full screen](https://imgur.com/a/QsOwh4k)
-- [Irdest: Decentralised ad-hoc wireless mesh communication](https://irde.st/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
