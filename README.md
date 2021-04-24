@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [‘Insanely cheap energy’: solar power continues to shock the world](https://www.theguardian.com/australia-news/2021/apr/25/insanely-cheap-energy-how-solar-power-continues-to-shock-the-world)
-- [Solar and wind can meet world energy demand 100 times over](https://carbontracker.org/solar-and-wind-can-meet-world-energy-demand-100-times-over-renewables/)
 - [The NCAA Erased My Career](https://www.theplayerstribune.com/posts/brittany-collens-tennis-ncaa-university-of-massachusetts)
 - [Streak (YC S11) is hiring to build spreadsheets in email (remote)](https://www.streak.com/careers/product-engineer)
+- [Lmgrep: Lucene-based grep-like utility](https://www.jocas.lt/blog/post/intro-to-lucene-grep/)
 - [Backdoored password manager stole data from as many as 29K enterprises](https://arstechnica.com/gadgets/2021/04/hackers-backdoor-corporate-password-manager-and-steal-customer-data/?comments=1)
 <!-- BLOG-POST-LIST:END -->
 
