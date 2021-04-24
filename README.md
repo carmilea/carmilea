@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New UK Law Mandates Organ Donation by Default Unless Explicit Opt-Out](https://www.organdonation.nhs.uk/get-involved/news/organ-donation-law-change-due-to-come-into-effect-in-england-on-20th-may/)
 - [A desktop Laravel admin panel app (similar to Invoker)](https://github.com/tmdh/laravel-kit)
 - [Lindows Click-N-Run (2002)](https://web.archive.org/web/20020802231821/http://www.lindows.com/products_clicknrun_whatis.php)
-- [CDC panel recommends resuming use of Johnson and Johnson vaccine](https://www.axios.com/cdc-panel-johnson-johnson-vaccine-pause-lift-dfc002cf-716c-465b-86db-861cb0f1b4a1.html)
 - [Boxedwine is an emulator that can run Windows applications in the browser](https://github.com/danoon2/Boxedwine)
 - [Mall department stores were struggling; the pandemic has pushed them to the edge](https://www.washingtonpost.com/business/2021/04/16/half-countrys-remaining-mall-based-department-stores-are-expected-shutter-by-2025/)
 <!-- BLOG-POST-LIST:END -->
