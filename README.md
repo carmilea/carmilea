@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Irdest: Decentralised ad-hoc wireless mesh communication](https://irde.st/)
-- [The unreasonable effectiveness of print debugging](https://buttondown.email/geoffreylitt/archive/starting-this-newsletter-print-debugging-byoc/)
-- [Building data products – Passive income for data experts](http://otodato.io)
-- [E-Scooters roll into New York](https://www.newyorker.com/magazine/2021/04/26/the-e-scooters-loved-by-silicon-valley-roll-into-new-york)
-- [Scalability, but at What Cost [pdf]](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf)
+- [Nassim Taleb says Bitcoin is an open Ponzi scheme and a failed currency](https://www.businessinsider.com/black-swan-nassim-taleb-bitcoin-open-ponzi-scheme-failed-currency-2021-4)
+- [Brexit’s top donor outed as Bitfinex, Tether parent shareholder](https://protos.com/bitfinex-tether-digfinex-shareholder-harborne-brexit-bankroller/)
+- [Lumi (YC W15) is hiring PMs to build the marketplace for manufacturing](https://www.lumi.com/jobs/product-management-lead)
+- [Data Organization in Spreadsheets (2017)](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
+- [Looks like you are typing while in full screen](https://imgur.com/a/QsOwh4k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
