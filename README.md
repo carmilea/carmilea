@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Insanely cheap energy’: solar power continues to shock the world](https://www.theguardian.com/australia-news/2021/apr/25/insanely-cheap-energy-how-solar-power-continues-to-shock-the-world)
+- [Solar and wind can meet world energy demand 100 times over](https://carbontracker.org/solar-and-wind-can-meet-world-energy-demand-100-times-over-renewables/)
+- [The NCAA Erased My Career](https://www.theplayerstribune.com/posts/brittany-collens-tennis-ncaa-university-of-massachusetts)
 - [Streak (YC S11) is hiring to build spreadsheets in email (remote)](https://www.streak.com/careers/product-engineer)
-- [William Gibson Predicts in 1997 How the Internet Will Change Our World (2019)](https://www.openculture.com/2019/02/pioneering-sci-fi-author-william-gibson-predicts-in-1997-how-the-internet-will-change-our-world.html)
-- [The Machines of the Isle of Nantes](https://www.lesmachines-nantes.fr/en/)
-- [Why not faster computation via evolution and diffracted light?](https://interconnected.org/home/2021/04/20/computers)
-- [Domain Shadowing: Leveraging CDNs for Robust Blocking-Resistant Communications](https://blog.torproject.org/anti-censorship-domain-shadowing)
+- [Backdoored password manager stole data from as many as 29K enterprises](https://arstechnica.com/gadgets/2021/04/hackers-backdoor-corporate-password-manager-and-steal-customer-data/?comments=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
