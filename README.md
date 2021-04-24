@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to Resist? Delete Your Facebook Account](https://www.chrbutler.com/want-to-resist-delete-your-facebook-account)
+- [The Machines of the Isle of Nantes](https://www.lesmachines-nantes.fr/en/)
+- [Why not faster computation via evolution and diffracted light?](https://interconnected.org/home/2021/04/20/computers)
 - [Domain Shadowing: Leveraging CDNs for Robust Blocking-Resistant Communications](https://blog.torproject.org/anti-censorship-domain-shadowing)
 - [Mars has right ingredients for present-day microbial life beneath its surface](https://www.brown.edu/news/2021-04-22/subsurface)
 - [A Silly Anti-Disassembly Trick](https://alexomara.com/blog/a-silly-anti-disassembly-trick/)
-- [Viewpoints Research Institute concluded its operations at the beginning of 2018](http://www.vpri.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
