@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft to Provide Most Powerful Weather, Climate Supercomputer for UK](https://www.hpcwire.com/2021/04/22/microsoft-to-provide-worlds-most-powerful-weather-climate-supercomputer-for-uks-met-office/)
-- [Consumer Reports tricks Tesla to drive with no one at wheel](https://apnews.com/article/technology-business-b1139dc8bd2ec3179f1075d6ef77c7fb)
+- [Senator Amy Klobuchar says that Apple's App Store is a “literal monopoly”](https://www.bbc.com/news/technology-56840379)
 - [Lindows Click-N-Run (2002)](https://web.archive.org/web/20020802231821/http://www.lindows.com/products_clicknrun_whatis.php)
 - [Minio Changes License to AGPL](https://github.com/minio/minio/commit/069432566fcfac1f1053677cc925ddafd750730a)
 - [CDC panel recommends resuming use of Johnson and Johnson vaccine](https://www.axios.com/cdc-panel-johnson-johnson-vaccine-pause-lift-dfc002cf-716c-465b-86db-861cb0f1b4a1.html)
+- [Boxedwine is an emulator that can run Windows applications in the browser](https://github.com/danoon2/Boxedwine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
