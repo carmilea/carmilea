@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toronto carpenter builds 'tiny shelters' for the homeless. The city isn't happy](https://www.americamagazine.org/politics-society/2021/04/23/toronto-carpenter-tiny-shelters-homeless-covid19-240482)
+- [Can you tell an assembly language when you see one?](https://wordsandbuttons.online/can_you_tell_an_assembly_language_when_you_see_one.html)
+- [TCP and IP Bake Off – RFC 1025](https://tools.ietf.org/html/rfc1025)
 - [New UK Law Mandates Organ Donation by Default Unless Explicit Opt-Out](https://www.organdonation.nhs.uk/get-involved/news/organ-donation-law-change-due-to-come-into-effect-in-england-on-20th-may/)
 - [A desktop Laravel admin panel app (similar to Invoker)](https://github.com/tmdh/laravel-kit)
-- [Lindows Click-N-Run (2002)](https://web.archive.org/web/20020802231821/http://www.lindows.com/products_clicknrun_whatis.php)
-- [Boxedwine is an emulator that can run Windows applications in the browser](https://github.com/danoon2/Boxedwine)
-- [Mall department stores were struggling; the pandemic has pushed them to the edge](https://www.washingtonpost.com/business/2021/04/16/half-countrys-remaining-mall-based-department-stores-are-expected-shutter-by-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
