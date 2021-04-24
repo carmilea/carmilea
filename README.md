@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Newark cops, with reform, didn't fire a single shot in 2020](https://www.nj.com/news/2021/01/newark-cops-with-reform-didnt-fire-a-single-shot-in-2020-moran.html)
+- [Mal – Make a Lisp](https://github.com/kanaka/mal)
 - [TrueVault (YC W14) Is Hiring an Engineering Lead](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead)
 - [Dirty Dollars](https://newsinteractive.post-gazette.com/ukraine-money-laundering/)
 - [Dark Ops Undercovered: Episode II](https://www.qurium.org/forensics/dark-ops-undercovered-episode-ii-eliminalia-analysis-of-fake-dmca-complaints/)
-- [The US Plans to Finally Standardize the Length of a Single Foot](https://99percentinvisible.org/article/goofy-feet-the-us-plans-to-finally-standardize-the-length-of-a-single-foot/)
-- [Sisters with Transistors](https://www.rogerebert.com/reviews/sisters-with-transistors-movie-review-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
