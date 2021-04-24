@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bits (YC S20) Is Hiring a Back End Engineer](https://www.ycombinator.com/companies/bits/jobs/4hNZVTT-backend-developer)
+- [You might as well timestamp it](https://changelog.com/posts/you-might-as-well-timestamp-it)
 - [Gravity batteries try to beat chemical ones with winches, weights, mine shafts](https://www.sciencemag.org/news/2021/04/gravity-based-batteries-try-beat-their-chemical-cousins-winches-weights-and-mine-shafts)
 - [Deutsche Bank Whistleblower Vanishes](https://forensicnews.net/deutsche-bank-whistleblower-vanishes/)
 - [Remote code execution in Homebrew by compromising the official Cask repository](https://blog.ryotak.me/post/homebrew-security-incident-en/)
-- [Clever Hack Finds Mystery CPU Instructions](https://www.eejournal.com/article/clever-hack-finds-mystery-cpu-instructions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
