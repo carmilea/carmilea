@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gravity-based batteries try to beat their chemical cousins](https://www.sciencemag.org/news/2021/04/gravity-based-batteries-try-beat-their-chemical-cousins-winches-weights-and-mine-shafts)
+- [Bits (YC S20) Is Hiring a Back End Engineer](https://www.ycombinator.com/companies/bits/jobs/4hNZVTT-backend-developer)
+- [Gravity batteries try to beat chemical ones with winches, weights, mine shafts](https://www.sciencemag.org/news/2021/04/gravity-based-batteries-try-beat-their-chemical-cousins-winches-weights-and-mine-shafts)
 - [Deutsche Bank Whistleblower Vanishes](https://forensicnews.net/deutsche-bank-whistleblower-vanishes/)
 - [Remote code execution in Homebrew by compromising the official Cask repository](https://blog.ryotak.me/post/homebrew-security-incident-en/)
-- [Toronto carpenter builds 'tiny shelters' for the homeless. The city isn't happy](https://www.americamagazine.org/politics-society/2021/04/23/toronto-carpenter-tiny-shelters-homeless-covid19-240482)
-- [Can you tell an assembly language when you see one?](https://wordsandbuttons.online/can_you_tell_an_assembly_language_when_you_see_one.html)
+- [Clever Hack Finds Mystery CPU Instructions](https://www.eejournal.com/article/clever-hack-finds-mystery-cpu-instructions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
