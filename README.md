@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Streak (YC S11) is hiring to build spreadsheets in email (remote)](https://www.streak.com/careers/product-engineer)
+- [William Gibson Predicts in 1997 How the Internet Will Change Our World (2019)](https://www.openculture.com/2019/02/pioneering-sci-fi-author-william-gibson-predicts-in-1997-how-the-internet-will-change-our-world.html)
 - [The Machines of the Isle of Nantes](https://www.lesmachines-nantes.fr/en/)
 - [Why not faster computation via evolution and diffracted light?](https://interconnected.org/home/2021/04/20/computers)
 - [Domain Shadowing: Leveraging CDNs for Robust Blocking-Resistant Communications](https://blog.torproject.org/anti-censorship-domain-shadowing)
-- [Mars has right ingredients for present-day microbial life beneath its surface](https://www.brown.edu/news/2021-04-22/subsurface)
-- [A Silly Anti-Disassembly Trick](https://alexomara.com/blog/a-silly-anti-disassembly-trick/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
