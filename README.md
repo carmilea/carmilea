@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Armenian Genocide (1915-16): In Depth](https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth)
-- [Newark cops, with reform, didn't fire a single shot in 2020](https://www.nj.com/news/2021/01/newark-cops-with-reform-didnt-fire-a-single-shot-in-2020-moran.html)
-- [Mal – Make a Lisp](https://github.com/kanaka/mal)
-- [TrueVault (YC W14) Is Hiring an Engineering Lead](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead)
-- [Dirty Dollars](https://newsinteractive.post-gazette.com/ukraine-money-laundering/)
+- [Shop Class as Soulcraft](https://www.thenewatlantis.com/publications/shop-class-as-soulcraft)
+- [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/)
+- [Oklahoma woman charged with felony for not returning VHS tape 21 years ago](https://okcfox.com/news/local/oklahoma-woman-charged-with-felony-for-not-returning-vhs-tape-21-years-ago)
+- [Pine64.org It's Time: InfiniTime 1.0](https://www.pine64.org/2021/04/22/its-time-infinitime-1-0/)
+- [Dan Kaminsky Has Died](https://twitter.com/marcwrogers/status/1385961838735597572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
