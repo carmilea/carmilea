@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [College as a Marriage Market](https://www.nber.org/papers/w28688)
+- [Dutch MPs had a call with deep fake imitation of Navalny's Chief of Staff](https://nltimes.nl/2021/04/24/dutch-mps-video-conference-deep-fake-imitation-navalnys-chief-staff)
 - [Earth Restored – 50 restored images of earth released](http://www.tobyord.com/earth)
 - [Several US utilities back out of deal to build novel nuclear power plant (2020)](https://www.sciencemag.org/news/2020/11/several-us-utilities-back-out-deal-build-novel-nuclear-power-plant)
 - [Bits (YC S20) Is Hiring a Back End Engineer](https://www.ycombinator.com/companies/bits/jobs/4hNZVTT-backend-developer)
-- [You might as well timestamp it](https://changelog.com/posts/you-might-as-well-timestamp-it)
-- [Stacked Diffs versus Pull Requests (2018)](https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
