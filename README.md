@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Swift on the Server in 2020](https://theswiftdev.com/swift-on-the-server-in-2020/)
+- [MMPX Style-Preserving Pixel Art Magnification [pdf]](https://casual-effects.com/research/McGuire2021PixelArt/McGuire2021PixelArt.pdf)
+- [Launch Your App: Why We Don’t Use Docker (We Don’t Need It)](https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html)
 - [Has UML died without anyone noticing?](https://garba.org/posts/2021/uml/)
 - [Casbin: An authorization library that supports authz models like ACL, RBAC, ABAC](https://github.com/casbin/casbin)
-- [Ask HN: Are there any standard monochrome low resolution resolutions?](https://news.ycombinator.com/item?id=26934352)
-- [Java for Everything (2014)](https://www.teamten.com/lawrence/writings/java-for-everything.html)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
