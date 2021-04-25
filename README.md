@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rich Hickey – Design, Compilation and Performance (2019)](https://m.youtube.com/watch?v=MCZ3YgeEUPg)
+- [Cisco says computer chip shortage to last six months](https://www.bbc.co.uk/news/technology-56847518)
 - [Show HN: MarkShow – Create Slideshows with Markdown](https://mark.show)
+- [The Laws Giving People the Right to Crash Cars into Demonstrators](https://newrepublic.com/article/162163/republicans-anti-riot-laws-cars)
 - [OpenAstroTracker: 3D printed, open source star tracker](https://openastrotech.com/)
-- [Ask HN: How to get back hacker's mentality and joy of coding](https://news.ycombinator.com/item?id=26930923)
-- [Rust Language Cheat Sheet](https://cheats.rs/)
-- [On Training the Medical Mind](https://scholars-stage.blogspot.com/2021/04/for-god-and-progress-notes-on-liberal.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
