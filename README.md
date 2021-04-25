@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Job descriptions should show a salary or salary range](https://sifted.eu/articles/job-advert-salary-range/)
-- [EU proposing to regulate the use of Bayesian estimation](https://statmodeling.stat.columbia.edu/2021/04/22/eu-proposing-to-regulate-the-use-of-bayesian-estimation/)
-- [Feynman, Harassment, and the Culture of Science](https://caltechletters.org/viewpoints/feynman-harassment-science)
-- [Simulation of Space Shuttle – STS 62 A Polar Express high altitude journey](https://forum.flightgear.org/viewtopic.php?f=87&t=38916)
-- [The joys of creating Xcode project files](https://nibblestew.blogspot.com/2021/04/the-joys-of-creating-xcode-project-files.html)
+- [Has UML died without anyone noticing?](https://garba.org/posts/2021/uml/)
+- [Ask HN: Are there any standard monochrome low resolution resolutions?](https://news.ycombinator.com/item?id=26934352)
+- [Java for Everything](https://www.teamten.com/lawrence/writings/java-for-everything.html)
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [Confirmed We Live in a Simulation](https://www.scientificamerican.com/article/confirmed-we-live-in-a-simulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
