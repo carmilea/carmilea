@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Let's Stop Building APIs Around a Network Hack](https://apisyouwonthate.com/blog/lets-stop-building-apis-around-a-network-hack)
-- [Is Programming hard? it depends](https://okossa.com/is-programming-hard-it-depends-ada7fe642025)
+- [Dynamic Programming vs. Divide-and-Conquer (2018)](https://trekhleb.dev/blog/2018/dynamic-programming-vs-divide-and-conquer/)
+- [Let's stop building APIs around a network hack (2017)](https://apisyouwonthate.com/blog/lets-stop-building-apis-around-a-network-hack)
+- [The difficulty of programming depends on the layer and quality of abstraction](https://okossa.com/is-programming-hard-it-depends-ada7fe642025)
 - [Why do drum sets have descending toms?](https://www.lowvolumedrumming.org/descending-toms/)
-- [Astronomical Algorithms](https://www.willbell.com/math/MC1.HTM)
 - [Alien Artifacts on Earth and in Our Solar System Is Possible, NASA Reports](https://thedebrief.org/alien-artifacts-on-earth-and-in-our-solar-system-is-possible-nasa-reports/)
 <!-- BLOG-POST-LIST:END -->
 
