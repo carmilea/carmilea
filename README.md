@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The joys of creating Xcode project files](https://nibblestew.blogspot.com/2021/04/the-joys-of-creating-xcode-project-files.html)
+- [Apple sued for terminating account with $25,000 worth of apps and videos](https://arstechnica.com/tech-policy/2021/04/apple-faces-class-action-lawsuit-over-its-definition-of-the-word-buy/)
 - [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Amtrak's 2035 Map Has People Talking About the Future of U.S. Train Travel](https://www.npr.org/2021/04/06/984464351/as-biden-pushes-major-rail-investments-rail-amtraks-2035-map-has-people-talking?t=1619351947832)
 - [AMD Ryzen Processor Software Optimization [video]](https://www.youtube.com/watch?v=2p-UpVc1qZQ)
-- [The Slander Industry](https://www.nytimes.com/interactive/2021/04/24/technology/online-slander-websites.html)
-- [3D Game Shaders for Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
-- [Feynman: I am burned out and I'll never accomplish anything (1985)](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html?repostindays=413)
 <!-- BLOG-POST-LIST:END -->
 
 ---
