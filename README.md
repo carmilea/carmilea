@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Replit (YC W18) Is Hiring a Developer Experience (DX) Engineer](https://jobs.lever.co/replit/93229770-4290-4436-bc40-6c513ffb3f72)
-- [Last Resort Font (Mac)](http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html)
-- [Ask HN: How do you organize your knowledge?](https://news.ycombinator.com/item?id=26935838)
-- [Zero-downtime Heroku-style deployments with Git and Docker](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
-- [Python Mobile App Development](https://generalistprogrammer.com/python/python-app-development-for-beginners-kivy-mobile-app-tutorial/)
+- [Replit (YC W18) is hiring a developer experience engineer](https://jobs.lever.co/replit/93229770-4290-4436-bc40-6c513ffb3f72)
+- [Ingenuity: NASA's Mars helicopter makes it three from three](https://www.bbc.co.uk/news/science-environment-56882257)
+- [Why is the 0 next to 9, not next to 1?](https://ux.stackexchange.com/questions/76446/why-is-the-0-next-to-9-not-next-to-1)
+- [Last Resort Font (Mac) (2002)](http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html)
+- [Heroku-style deployments with Docker and Git tags](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
