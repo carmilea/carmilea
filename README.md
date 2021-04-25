@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Not to Run a Vulnerability Disclosure Program](https://sneak.berlin/20210424/how-not-to-run-a-vulnerability-disclosure-program/)
+- [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [AMD Ryzen Processor Software Optimization [video]](https://www.youtube.com/watch?v=2p-UpVc1qZQ)
+- [The Slander Industry](https://www.nytimes.com/interactive/2021/04/24/technology/online-slander-websites.html)
 - [3D Game Shaders for Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 - [Feynman: I am burned out and I'll never accomplish anything (1985)](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html?repostindays=413)
-- [Rich Hickey – Design, Compilation and Performance (2019)](https://m.youtube.com/watch?v=MCZ3YgeEUPg)
-- [JavaScript for Data Science](http://js4ds.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
