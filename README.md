@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Has UML died without anyone noticing?](https://garba.org/posts/2021/uml/)
+- [Casbin: An authorization library that supports authz models like ACL, RBAC, ABAC](https://github.com/casbin/casbin)
 - [Ask HN: Are there any standard monochrome low resolution resolutions?](https://news.ycombinator.com/item?id=26934352)
-- [Java for Everything](https://www.teamten.com/lawrence/writings/java-for-everything.html)
+- [Java for Everything (2014)](https://www.teamten.com/lawrence/writings/java-for-everything.html)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [Confirmed We Live in a Simulation](https://www.scientificamerican.com/article/confirmed-we-live-in-a-simulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
