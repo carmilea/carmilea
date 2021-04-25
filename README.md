@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Foundations of Information (Free Book)](https://faculty.washington.edu/ajko/books/foundations-of-information/#/)
+- [MIT study finds indoor mask wearing much more effective than social distancing](https://www.pnas.org/content/118/17/e2018995118)
+- [Xdp eBPF Firewall in Rust](https://pub.gctl.io/xdp-ebpf-firewall-in-rust/)
 - [Replit (YC W18) is hiring a developer experience engineer](https://jobs.lever.co/replit/93229770-4290-4436-bc40-6c513ffb3f72)
 - [Ingenuity: NASA's Mars helicopter makes it three from three](https://www.bbc.co.uk/news/science-environment-56882257)
-- [Why is the 0 next to 9, not next to 1?](https://ux.stackexchange.com/questions/76446/why-is-the-0-next-to-9-not-next-to-1)
-- [Last Resort Font (Mac) (2002)](http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html)
-- [Heroku-style deployments with Docker and Git tags](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
