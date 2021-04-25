@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Not to Run a Vulnerability Disclosure Program](https://sneak.berlin/20210424/how-not-to-run-a-vulnerability-disclosure-program/)
 - [3D Game Shaders for Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 - [Feynman: I am burned out and I'll never accomplish anything (1985)](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html?repostindays=413)
 - [Rich Hickey – Design, Compilation and Performance (2019)](https://m.youtube.com/watch?v=MCZ3YgeEUPg)
-- [Cisco says computer chip shortage to last six months](https://www.bbc.co.uk/news/technology-56847518)
-- [Show HN: MarkShow – Create Slideshows with Markdown](https://mark.show)
+- [JavaScript for Data Science](http://js4ds.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
