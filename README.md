@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Programming vs. Divide-and-Conquer (2018)](https://trekhleb.dev/blog/2018/dynamic-programming-vs-divide-and-conquer/)
-- [Let's stop building APIs around a network hack (2017)](https://apisyouwonthate.com/blog/lets-stop-building-apis-around-a-network-hack)
-- [The difficulty of programming depends on the layer and quality of abstraction](https://okossa.com/is-programming-hard-it-depends-ada7fe642025)
-- [Why do drum sets have descending toms?](https://www.lowvolumedrumming.org/descending-toms/)
-- [Alien Artifacts on Earth and in Our Solar System Is Possible, NASA Reports](https://thedebrief.org/alien-artifacts-on-earth-and-in-our-solar-system-is-possible-nasa-reports/)
+- [Show HN: MarkShow – Create Slideshows with Markdown](https://mark.show)
+- [OpenAstroTracker: 3D printed, open source star tracker](https://openastrotech.com/)
+- [Ask HN: How to get back hacker's mentality and joy of coding](https://news.ycombinator.com/item?id=26930923)
+- [Rust Language Cheat Sheet](https://cheats.rs/)
+- [On Training the Medical Mind](https://scholars-stage.blogspot.com/2021/04/for-god-and-progress-notes-on-liberal.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
