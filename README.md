@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Let's Stop Building APIs Around a Network Hack](https://apisyouwonthate.com/blog/lets-stop-building-apis-around-a-network-hack)
+- [Is Programming hard? it depends](https://okossa.com/is-programming-hard-it-depends-ada7fe642025)
+- [Why do drum sets have descending toms?](https://www.lowvolumedrumming.org/descending-toms/)
 - [Astronomical Algorithms](https://www.willbell.com/math/MC1.HTM)
 - [Alien Artifacts on Earth and in Our Solar System Is Possible, NASA Reports](https://thedebrief.org/alien-artifacts-on-earth-and-in-our-solar-system-is-possible-nasa-reports/)
-- [Curated List of Lists](https://project-awesome.org/)
-- [Nuclear fusion plan at former Aberthaw Power Station](https://www.bbc.co.uk/news/uk-wales-56872376)
-- [Show HN: hackernews_tui – A Terminal UI to browse Hacker News discussions](https://github.com/aome510/hackernews-TUI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
