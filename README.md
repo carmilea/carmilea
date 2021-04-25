@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [3D Game Shaders for Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
+- [Feynman: I am burned out and I'll never accomplish anything (1985)](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html?repostindays=413)
 - [Rich Hickey – Design, Compilation and Performance (2019)](https://m.youtube.com/watch?v=MCZ3YgeEUPg)
 - [Cisco says computer chip shortage to last six months](https://www.bbc.co.uk/news/technology-56847518)
 - [Show HN: MarkShow – Create Slideshows with Markdown](https://mark.show)
-- [The Laws Giving People the Right to Crash Cars into Demonstrators](https://newrepublic.com/article/162163/republicans-anti-riot-laws-cars)
-- [OpenAstroTracker: 3D printed, open source star tracker](https://openastrotech.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
