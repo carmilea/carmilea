@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift on the Server in 2020](https://theswiftdev.com/swift-on-the-server-in-2020/)
-- [MMPX Style-Preserving Pixel Art Magnification [pdf]](https://casual-effects.com/research/McGuire2021PixelArt/McGuire2021PixelArt.pdf)
-- [Launch Your App: Why We Don’t Use Docker (We Don’t Need It)](https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html)
-- [Has UML died without anyone noticing?](https://garba.org/posts/2021/uml/)
-- [Casbin: An authorization library that supports authz models like ACL, RBAC, ABAC](https://github.com/casbin/casbin)
+- [Last Resort Font (Mac)](http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html)
+- [Ask HN: How do you organize your knowledge?](https://news.ycombinator.com/item?id=26935838)
+- [Zero-downtime Heroku-style deployments with Git and Docker](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
+- [Python Mobile App Development](https://generalistprogrammer.com/python/python-app-development-for-beginners-kivy-mobile-app-tutorial/)
+- [Internet down in Tumbler Ridge, B.C., after beaver chews through fibre cable](https://www.cbc.ca/news/canada/british-columbia/beaver-internet-down-tumbler-ridge-1.6001594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
