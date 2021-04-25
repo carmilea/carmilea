@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alien Artifacts on Earth and in Our Solar System Is Possible, NASA Reports](https://thedebrief.org/alien-artifacts-on-earth-and-in-our-solar-system-is-possible-nasa-reports/)
 - [Nuclear fusion plan at former Aberthaw Power Station](https://www.bbc.co.uk/news/uk-wales-56872376)
 - [Show HN: hackernews_tui – A Terminal UI to browse Hacker News discussions](https://github.com/aome510/hackernews-TUI)
-- [Ether as a Computation Unit](https://blog.merwanedrai.com/2021/04/24/ether-as-a-computation-unit.html)
 - [Open letter from researchers involved in the “hypocrite commit” debacle](https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u)
-- [Verilog2factorio](https://github.com/Redcrafter/verilog2factorio/)
+- [Show HN: Verilog2factorio](https://github.com/Redcrafter/verilog2factorio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
