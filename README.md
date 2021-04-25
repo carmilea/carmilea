@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pinephone Keyboard Update](https://forum.pine64.org/showthread.php?tid=13684)
-- [Common interface for Linux NIC statistics](https://people.kernel.org/kuba/common-interface-for-nic-statistics)
-- [The NCAA Erased My Career](https://www.theplayerstribune.com/posts/brittany-collens-tennis-ncaa-university-of-massachusetts)
-- [Streak (YC S11) is hiring to build spreadsheets in email (remote)](https://www.streak.com/careers/product-engineer)
-- [Lmgrep: Lucene-based grep-like utility](https://www.jocas.lt/blog/post/intro-to-lucene-grep/)
+- [Nuclear fusion plan at former Aberthaw Power Station](https://www.bbc.co.uk/news/uk-wales-56872376)
+- [Ether as a Computation Unit](https://blog.merwanedrai.com/2021/04/24/ether-as-a-computation-unit.html)
+- [Open letter from researchers involved in the “hypocrite commit” debacle](https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u)
+- [Verilog2factorio](https://github.com/Redcrafter/verilog2factorio/)
+- [GPL, LGPL, AGPL- which license to use? (2008)](https://www.openshot.org/blog/2008/07/10/gpl-lgpl-agpl-oh-my/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
