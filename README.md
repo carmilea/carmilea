@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit (YC W18) Is Hiring a Developer Experience (DX) Engineer](https://jobs.lever.co/replit/93229770-4290-4436-bc40-6c513ffb3f72)
 - [Last Resort Font (Mac)](http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html)
 - [Ask HN: How do you organize your knowledge?](https://news.ycombinator.com/item?id=26935838)
 - [Zero-downtime Heroku-style deployments with Git and Docker](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
 - [Python Mobile App Development](https://generalistprogrammer.com/python/python-app-development-for-beginners-kivy-mobile-app-tutorial/)
-- [Internet down in Tumbler Ridge, B.C., after beaver chews through fibre cable](https://www.cbc.ca/news/canada/british-columbia/beaver-internet-down-tumbler-ridge-1.6001594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
