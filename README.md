@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Global chip shortage spreads to toasters and washing machines](https://www.ft.com/content/9a497f21-e3e4-4c74-8737-07cd13209475)
+- [Job descriptions should show a salary or salary range](https://sifted.eu/articles/job-advert-salary-range/)
 - [EU proposing to regulate the use of Bayesian estimation](https://statmodeling.stat.columbia.edu/2021/04/22/eu-proposing-to-regulate-the-use-of-bayesian-estimation/)
+- [Feynman, Harassment, and the Culture of Science](https://caltechletters.org/viewpoints/feynman-harassment-science)
 - [Simulation of Space Shuttle – STS 62 A Polar Express high altitude journey](https://forum.flightgear.org/viewtopic.php?f=87&t=38916)
-- [Tesla admits its Full Self-Driving technology is a Level 2 system](https://www.autoblog.com/2021/03/09/tesla-full-self-driving-level-2-sae)
 - [The joys of creating Xcode project files](https://nibblestew.blogspot.com/2021/04/the-joys-of-creating-xcode-project-files.html)
 <!-- BLOG-POST-LIST:END -->
 
