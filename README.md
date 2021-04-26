@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Foundations of Information (Free Book)](https://faculty.washington.edu/ajko/books/foundations-of-information/#/)
-- [MIT study finds indoor mask wearing much more effective than social distancing](https://www.pnas.org/content/118/17/e2018995118)
-- [Xdp eBPF Firewall in Rust](https://pub.gctl.io/xdp-ebpf-firewall-in-rust/)
+- [Signald: Unofficial Daemon for Interacting with Signal](https://signald.org/)
+- [The Tamagotchi Cemetery](https://burialsandbeyond.com/2021/03/06/tamagotchi-cemetery/)
+- [Orbit Tessellation developer diary for Kerbal Space Program 2](https://www.kerbalspaceprogram.com/dev-diaries/6509/)
+- [Foundations of Information](https://faculty.washington.edu/ajko/books/foundations-of-information/#/)
 - [Replit (YC W18) is hiring a developer experience engineer](https://jobs.lever.co/replit/93229770-4290-4436-bc40-6c513ffb3f72)
-- [Ingenuity: NASA's Mars helicopter makes it three from three](https://www.bbc.co.uk/news/science-environment-56882257)
 <!-- BLOG-POST-LIST:END -->
 
 ---
