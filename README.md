@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Experian’s Credit Freeze Security Is Still a Joke](https://krebsonsecurity.com/2021/04/experians-credit-freeze-security-is-still-a-joke/)
+- [Pfizer is testing a pill that, if successful, could cure Covid-19](https://montrealgazette.com/news/world/pfizer-is-testing-a-pill-that-if-successful-could-become-first-ever-home-cure-for-covid-19)
+- [Strand Programming Language](http://www.call-with-current-continuation.org/strand/strand.html)
 - [Alinea (YC W21) Is Hiring](https://www.ycombinator.com/companies/alinea/jobs/rsjpfPt-founding-engineer)
 - [Pg_tmp – Run tests on an isolated, temporary PostgreSQL database](http://eradman.com/ephemeralpg/)
-- [Woven Planet, a subsidiary of Toyota, to acquire Lyft’s self-driving car divisi](https://investor.lyft.com/news-and-events/news/news-details/2021/Woven-Planet-a-subsidiary-of-Toyota-to-acquire-Lyfts-self-driving-car-division/default.aspx)
-- [Examples of RISC-V Assembly Programs](https://marz.utk.edu/my-courses/cosc230/book/example-risc-v-assembly-programs/)
-- [Lambda School Agrees to End Deceptive Educational Financing Practices](https://dfpi.ca.gov/2021/04/26/lambda-school-reaches-settlement-with-dfpi-agreeing-to-end-deceptive-educational-financing-practices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
