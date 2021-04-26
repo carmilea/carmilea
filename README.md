@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT: Study finds ride-sharing intensifies urban road congestion](https://news.mit.edu/2021/ride-sharing-intensifies-urban-road-congestion-0423)
+- [Greg Kroah-Hartman Rejects Apology from University of Minnesota Researchers](https://lore.kernel.org/lkml/YIV+pLR0nt94q0xQ@kroah.com/)
 - [Signald: Unofficial Daemon for Interacting with Signal](https://signald.org/)
 - [The Tamagotchi Cemetery](https://burialsandbeyond.com/2021/03/06/tamagotchi-cemetery/)
 - [Orbit Tessellation developer diary for Kerbal Space Program 2](https://www.kerbalspaceprogram.com/dev-diaries/6509/)
-- [Foundations of Information](https://faculty.washington.edu/ajko/books/foundations-of-information/#/)
-- [Replit (YC W18) is hiring a developer experience engineer](https://jobs.lever.co/replit/93229770-4290-4436-bc40-6c513ffb3f72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
