@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What diagrams do you use in software development?](https://news.ycombinator.com/item?id=26940593)
+- [Out of a heap of broken images, Chernobyl seeks World Heritage status](https://www.theguardian.com/environment/2021/apr/26/out-of-the-heap-of-broken-images-35-years-on-chernobyl-seeks-world-heritage-status)
+- [How to Learn Unix Tools](https://blog.nindalf.com/posts/how-to-learn-unix-tools/)
 - [The Two Cultures of Mathematics (2000) [pdf]](https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf)
 - [Chelsea Hotel: Where the Walls Still Talk (2013)](https://www.vanityfair.com/culture/2013/10/chelsea-hotel-oral-history)
-- [Gisgraphy – open-source geocoder based on open data](https://www.gisgraphy.com/index.php)
-- [Running Computational fluid dynamics on leaked 2021 Williams F1 CAD](https://maxtayloraero.wordpress.com/2021/04/21/2021-williams-f1-cfd/)
-- [Study finds ride-sharing intensifies urban road congestion](https://news.mit.edu/2021/ride-sharing-intensifies-urban-road-congestion-0423)
 <!-- BLOG-POST-LIST:END -->
 
 ---
