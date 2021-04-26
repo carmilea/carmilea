@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital Needle: Ripping vinyl records with a scanner](https://www.cs.huji.ac.il/~springer/DigitalNeedle/index.html)
+- [macOS gatekeeper and file quarantine bypass](https://objective-see.com/blog/blog_0x64.html)
+- [Never Pay for Online Dating (2010)](https://www.gwern.net/docs/psychology/okcupid/whyyoushouldneverpayforonlinedating.html)
+- [CSS tips and tricks you won’t see in most of the tutorials](https://markodenic.com/css-tips/)
 - [iOS 14.5 delivers Unlock iPhone with Apple Watch, new privacy controls, and more](https://www.apple.com/newsroom/2021/04/ios-14-5-offers-unlock-iphone-with-apple-watch-diverse-siri-voices-and-more/)
-- [Avo (YC W19) Is Hiring a Product Designer](https://app.beapplied.com/apply/alfadbt53g)
-- [Ethereum staking – More sustainable crypto](https://ethereum.org/en/eth2/staking)
-- [A Wrinkle in Nature Could Lead to Alien Life](https://nautil.us/issue/99/universality/a-wrinkle-in-nature-could-lead-to-alien-life)
-- [Best Practices for Remote Software Engineering](https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
