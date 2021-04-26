@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How the Internet Archive digitizes 78rpm records](https://twitter.com/internetarchive/status/1386423512810721284)
-- [Roku Warns YouTube TV Customers That Service Could Go Dark](https://deadline.com/2021/04/roku-youtube-tv-service-could-go-dark-google-predatory-monopoly-1234743821/)
-- [Project Jengo Redux: Cloudflare’s Prior Art Search Bounty Returns](https://blog.cloudflare.com/project-jengo-redux-cloudflares-prior-art-search-bounty-returns/)
-- [Farming robot kills 100k weeds per hour with lasers](https://www.freethink.com/articles/farming-robot)
-- [The Archimedeans](https://www.archim.org.uk/)
+- [Cryptocurrency Is an Abject Disaster](https://drewdevault.com/2021/04/26/Cryptocurrency-is-a-disaster.html)
+- [CEOs are hugely expensive – why not automate them?](https://www.newstatesman.com/business/companies/2021/04/ceos-are-hugely-expensive-why-not-automate-them)
+- [What Doomed a Sprawling City Near St. Louis 1k Years Ago?](https://www.nytimes.com/2021/04/24/science/cahokia-mounds-floods.html)
+- [A second Bitcoin exchange collapses in Turkey amid crackdown on cryptocurrencies](https://www.cnbc.com/2021/04/26/turkish-bitcoin-exchange-vebitcoin-collapses-amid-crypto-crackdown.html)
+- [A Hack to Update RAM Initialization Contents in Intel FPGA Bitstreams](https://tomverbeure.github.io/2021/04/25/Intel-FPGA-RAM-Bitstream-Patching.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
