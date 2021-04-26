@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cryptocurrency Is an Abject Disaster](https://drewdevault.com/2021/04/26/Cryptocurrency-is-a-disaster.html)
+- [New Proof Reveals That Graphs with No Pentagons Are Fundamentally Different](https://www.quantamagazine.org/new-proof-reveals-that-graphs-with-no-pentagons-are-fundamentally-different-20210426/)
+- [RPython-Based VMs: Fast Enough in Fast Enough Time](https://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time.html)
+- [Why Governments Fail](https://www.persuasion.community/p/-why-governments-fail)
+- [Cheerleader’s Snapchat rant leads to ‘momentous’ Supreme Court case on speech](https://www.washingtonpost.com/politics/courts_law/supreme-court-cheerleader-first-amendment/2021/04/25/9d2ac1e2-9eb7-11eb-b7a8-014b14aeb9e4_story.html)
 - [CEOs are hugely expensive – why not automate them?](https://www.newstatesman.com/business/companies/2021/04/ceos-are-hugely-expensive-why-not-automate-them)
-- [What Doomed a Sprawling City Near St. Louis 1k Years Ago?](https://www.nytimes.com/2021/04/24/science/cahokia-mounds-floods.html)
-- [A second Bitcoin exchange collapses in Turkey amid crackdown on cryptocurrencies](https://www.cnbc.com/2021/04/26/turkish-bitcoin-exchange-vebitcoin-collapses-amid-crypto-crackdown.html)
-- [A Hack to Update RAM Initialization Contents in Intel FPGA Bitstreams](https://tomverbeure.github.io/2021/04/25/Intel-FPGA-RAM-Bitstream-Patching.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
