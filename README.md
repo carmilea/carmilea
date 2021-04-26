@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2020 Census Apportionment Results](https://www.census.gov/newsroom/press-releases/2021/2020-census-apportionment-results.html)
-- [Tesla Q1 2021 Results](https://tesla-cdn.thron.com/static/R3GJMT_TSLA_Q1_2021_Update_5KJWZA.pdf?xseo=&response-content-disposition=inline%3Bfilename%3D%22TSLA-Q1-2021-Update.pdf%22)
+- [Alinea (YC W21) Is Hiring](https://www.ycombinator.com/companies/alinea/jobs/rsjpfPt-founding-engineer)
+- [Pg_tmp – Run tests on an isolated, temporary PostgreSQL database](http://eradman.com/ephemeralpg/)
 - [Woven Planet, a subsidiary of Toyota, to acquire Lyft’s self-driving car divisi](https://investor.lyft.com/news-and-events/news/news-details/2021/Woven-Planet-a-subsidiary-of-Toyota-to-acquire-Lyfts-self-driving-car-division/default.aspx)
 - [Examples of RISC-V Assembly Programs](https://marz.utk.edu/my-courses/cosc230/book/example-risc-v-assembly-programs/)
 - [Lambda School Agrees to End Deceptive Educational Financing Practices](https://dfpi.ca.gov/2021/04/26/lambda-school-reaches-settlement-with-dfpi-agreeing-to-end-deceptive-educational-financing-practices)
