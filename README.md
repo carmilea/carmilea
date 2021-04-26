@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Proof Reveals That Graphs with No Pentagons Are Fundamentally Different](https://www.quantamagazine.org/new-proof-reveals-that-graphs-with-no-pentagons-are-fundamentally-different-20210426/)
-- [RPython-Based VMs: Fast Enough in Fast Enough Time](https://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time.html)
-- [Why Governments Fail](https://www.persuasion.community/p/-why-governments-fail)
-- [Cheerleader’s Snapchat rant leads to ‘momentous’ Supreme Court case on speech](https://www.washingtonpost.com/politics/courts_law/supreme-court-cheerleader-first-amendment/2021/04/25/9d2ac1e2-9eb7-11eb-b7a8-014b14aeb9e4_story.html)
-- [CEOs are hugely expensive – why not automate them?](https://www.newstatesman.com/business/companies/2021/04/ceos-are-hugely-expensive-why-not-automate-them)
+- [iOS 14.5 delivers Unlock iPhone with Apple Watch, new privacy controls, and more](https://www.apple.com/newsroom/2021/04/ios-14-5-offers-unlock-iphone-with-apple-watch-diverse-siri-voices-and-more/)
+- [Avo (YC W19) Is Hiring a Product Designer](https://app.beapplied.com/apply/alfadbt53g)
+- [Ethereum staking – More sustainable crypto](https://ethereum.org/en/eth2/staking)
+- [A Wrinkle in Nature Could Lead to Alien Life](https://nautil.us/issue/99/universality/a-wrinkle-in-nature-could-lead-to-alien-life)
+- [Best Practices for Remote Software Engineering](https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
