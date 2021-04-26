@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Experian’s Credit Freeze Security Is Still a Joke](https://krebsonsecurity.com/2021/04/experians-credit-freeze-security-is-still-a-joke/)
+- [Experian’s credit freeze security is still a joke](https://krebsonsecurity.com/2021/04/experians-credit-freeze-security-is-still-a-joke/)
 - [Pfizer is testing a pill that, if successful, could cure Covid-19](https://montrealgazette.com/news/world/pfizer-is-testing-a-pill-that-if-successful-could-become-first-ever-home-cure-for-covid-19)
 - [Strand Programming Language](http://www.call-with-current-continuation.org/strand/strand.html)
 - [Alinea (YC W21) Is Hiring](https://www.ycombinator.com/companies/alinea/jobs/rsjpfPt-founding-engineer)
