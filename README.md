@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the Internet Archive digitizes 78rpm records](https://twitter.com/internetarchive/status/1386423512810721284)
 - [Roku Warns YouTube TV Customers That Service Could Go Dark](https://deadline.com/2021/04/roku-youtube-tv-service-could-go-dark-google-predatory-monopoly-1234743821/)
+- [Project Jengo Redux: Cloudflare’s Prior Art Search Bounty Returns](https://blog.cloudflare.com/project-jengo-redux-cloudflares-prior-art-search-bounty-returns/)
+- [Farming robot kills 100k weeds per hour with lasers](https://www.freethink.com/articles/farming-robot)
 - [The Archimedeans](https://www.archim.org.uk/)
-- [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack engineer](https://onesignal.com/careers/bbfc8a67-2d2a-4305-b1ba-939f7acdd9f9)
-- [Moderna waiving Intellectual Property rights for the remainder of the pandemic (2020)](https://investors.modernatx.com/news-releases/news-release-details/statement-moderna-intellectual-property-matters-during-covid-19/)
-- [Children of Chernobyl cleanup crew don’t have excess mutations](https://arstechnica.com/science/2021/04/children-of-chernobyl-cleanup-crew-dont-have-excess-mutations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
