@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Two Cultures of Mathematics (2000) [pdf]](https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf)
 - [Chelsea Hotel: Where the Walls Still Talk (2013)](https://www.vanityfair.com/culture/2013/10/chelsea-hotel-oral-history)
-- [The Last Page of the Web](http://users.csc.calpoly.edu/~jdalbey/TheLastWebPage.html)
 - [Twitter Is Blocking Tweets That Criticize the Indian Government](https://thewire.in/tech/as-covid-19-crisis-deepens-twitter-takes-down-tweets-criticising-modi-government)
 - [Gisgraphy – open-source geocoder based on open data](https://www.gisgraphy.com/index.php)
+- [Running Computational fluid dynamics on leaked 2021 Williams F1 CAD](https://maxtayloraero.wordpress.com/2021/04/21/2021-williams-f1-cfd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
