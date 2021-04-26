@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What diagrams do you use in software development?](https://news.ycombinator.com/item?id=26940593)
-- [Red and blue functions are a good thing](https://blainehansen.me/post/red-blue-functions-are-actually-good/)
-- [Out of a heap of broken images, Chernobyl seeks World Heritage status](https://www.theguardian.com/environment/2021/apr/26/out-of-the-heap-of-broken-images-35-years-on-chernobyl-seeks-world-heritage-status)
-- [How to Learn Unix Tools](https://blog.nindalf.com/posts/how-to-learn-unix-tools/)
-- [Interfaces and Protocols in Python](https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html)
+- [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack engineer](https://onesignal.com/careers/bbfc8a67-2d2a-4305-b1ba-939f7acdd9f9)
+- [Moderna’s Pledge Not to Enforce Patents on Their Covid-19 Vaccine Is Worthless](https://www.jacobinmag.com/2021/04/moderna-patents-covid-19-vaccine)
+- [Moderna waiving Intellectual Property rights for the remainder of the pandemic (2020)](https://investors.modernatx.com/news-releases/news-release-details/statement-moderna-intellectual-property-matters-during-covid-19/)
+- [Children of Chernobyl cleanup crew don’t have excess mutations](https://arstechnica.com/science/2021/04/children-of-chernobyl-cleanup-crew-dont-have-excess-mutations/)
+- [We were promised Strong AI, but instead we got metadata analysis](https://calpaterson.com/metadata.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
