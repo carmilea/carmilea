@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: What diagrams do you use in software development?](https://news.ycombinator.com/item?id=26940593)
+- [Red and blue functions are a good thing](https://blainehansen.me/post/red-blue-functions-are-actually-good/)
 - [Out of a heap of broken images, Chernobyl seeks World Heritage status](https://www.theguardian.com/environment/2021/apr/26/out-of-the-heap-of-broken-images-35-years-on-chernobyl-seeks-world-heritage-status)
 - [How to Learn Unix Tools](https://blog.nindalf.com/posts/how-to-learn-unix-tools/)
-- [The Two Cultures of Mathematics (2000) [pdf]](https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf)
-- [Chelsea Hotel: Where the Walls Still Talk (2013)](https://www.vanityfair.com/culture/2013/10/chelsea-hotel-oral-history)
+- [Interfaces and Protocols in Python](https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
