@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Text adventure for CP/M – Lighthouse of Doom](https://github.com/skx/lighthouse-of-doom)
+- [99 Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
 - [Digital Needle: Ripping vinyl records with a scanner](https://www.cs.huji.ac.il/~springer/DigitalNeedle/index.html)
 - [macOS gatekeeper and file quarantine bypass](https://objective-see.com/blog/blog_0x64.html)
-- [Never Pay for Online Dating (2010)](https://www.gwern.net/docs/psychology/okcupid/whyyoushouldneverpayforonlinedating.html)
 - [CSS tips and tricks you won’t see in most of the tutorials](https://markodenic.com/css-tips/)
-- [iOS 14.5 delivers Unlock iPhone with Apple Watch, new privacy controls, and more](https://www.apple.com/newsroom/2021/04/ios-14-5-offers-unlock-iphone-with-apple-watch-diverse-siri-voices-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
