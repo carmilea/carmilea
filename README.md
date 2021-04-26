@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Running Computational fluid dynamics on leaked 2021 Williams F1 CAD](https://maxtayloraero.wordpress.com/2021/04/21/2021-williams-f1-cfd/)
 - [MIT: Study finds ride-sharing intensifies urban road congestion](https://news.mit.edu/2021/ride-sharing-intensifies-urban-road-congestion-0423)
-- [Greg Kroah-Hartman Rejects Apology from University of Minnesota Researchers](https://lore.kernel.org/lkml/YIV+pLR0nt94q0xQ@kroah.com/)
 - [Signald: Unofficial Daemon for Interacting with Signal](https://signald.org/)
 - [The Tamagotchi Cemetery](https://burialsandbeyond.com/2021/03/06/tamagotchi-cemetery/)
-- [Orbit Tessellation developer diary for Kerbal Space Program 2](https://www.kerbalspaceprogram.com/dev-diaries/6509/)
+- [Starlink Ground Station Map](https://www.google.com/maps/d/u/0/viewer?mid=1H1x8jZs8vfjy60TvKgpbYs_grargieVw&ll=58.741351768956484%2C-124.56503581249999&z=4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
