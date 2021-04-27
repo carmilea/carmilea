@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I solved my eye strain with this free app](https://vanejung.com/pomy/)
-- [Sound Engineer Accidentally Dosed with LSD While Cleaning 1960s Radio Equipment](https://allthatsinteresting.com/engineer-accidentally-takes-lsd)
+- [Tesorio Is Hiring a Data Architect, Senior DevOps, Senior Data Scientist](https://www.tesorio.com/careers#job-openings)
+- [Unikraft – Fast, Specialized Unikernels](https://arxiv.org/abs/2104.12721)
+- [Snowden Dunks on 'The Get-Rich-Quick Real Estate Investing Conference](https://www.vice.com/en/article/epndnz/the-bizarre-case-of-snowden-and-a-get-rich-quick-real-estate-investing-conference)
+- [Pomy – Focus timer app for eye health](https://vanejung.com/pomy/)
 - [The Blue Hole in the Red Sea Is the Deadliest Dive Site in the World](https://www.spiegel.de/international/zeitgeist/the-blue-hole-in-the-red-sea-is-the-deadliest-dive-site-in-the-world-a-844099.html)
-- [The art of taking down patent trolls](https://www.techdirt.com/articles/20210426/09454946684/patent-troll-sable-networks-apparently-needs-to-learn-lesson-cloudflare-wants-to-destroy-another-troll)
-- [Nbterm: Jupyter Notebooks in the Terminal](https://blog.jupyter.org/nbterm-jupyter-notebooks-in-the-terminal-6a2b55d08b70)
 <!-- BLOG-POST-LIST:END -->
 
 ---
