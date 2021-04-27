@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Experian’s credit freeze security is still a joke](https://krebsonsecurity.com/2021/04/experians-credit-freeze-security-is-still-a-joke/)
-- [Pfizer is testing a pill that, if successful, could cure Covid-19](https://montrealgazette.com/news/world/pfizer-is-testing-a-pill-that-if-successful-could-become-first-ever-home-cure-for-covid-19)
-- [Strand Programming Language](http://www.call-with-current-continuation.org/strand/strand.html)
-- [Alinea (YC W21) Is Hiring](https://www.ycombinator.com/companies/alinea/jobs/rsjpfPt-founding-engineer)
-- [Pg_tmp – Run tests on an isolated, temporary PostgreSQL database](http://eradman.com/ephemeralpg/)
+- [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
+- [Nobody cares about your clean code](https://felipecsl.com/2021/04/26/nobody-cares-about-your-beautiful-code.html)
+- [Supreme Court to Decide First-Ever Gun-Carry Case](https://thereload.com/supreme-court-to-hear-gun-carry-case/)
+- [EV Charging Infrastructure in America Still Sucks](https://www.roadandtrack.com/news/a36175755/ev-charging-infrastructure-in-america-still-sucks)
+- [Back end developers can make good looking web apps too – FullyBearded](https://fullybearded.com/articles/backend-devs-can-make-good-looking-web-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
