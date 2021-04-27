@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hand Tools for Trail Work (2005) [pdf]](https://www.fs.fed.us/t-d/pubs/pdfpubs/pdf05232810/pdf05232810dpi300.pdf)
+- [The Muse (YC W12) Is Hiring Two Designers Come Join Us](https://www.themuse.com/jobs/themuse/senior-product-designer)
+- [Open-source land registry](https://www.ltonetwork.com/use-cases/un-land-registry/)
+- [Debug Programs by Modifying Them](https://merveilles.town/@akkartik/106138280776488247)
 - [SixtyFPS v0.0.6 (GUI Toolkit in Rust): Now with IDE Support](https://sixtyfps.io/blog/v0.0.6-now-with-ide-support)
-- [Neutron stars may be bigger than expected, measurement of lead nucleus suggests](https://www.sciencemag.org/news/2021/04/neutron-stars-may-be-bigger-expected-measurement-lead-nucleus-suggests)
-- [Mighty Makes Google Chrome Faster](https://www.mightyapp.com/)
-- [I forgot about print style sheets](https://www.matuzo.at/blog/i-totally-forgot-about-print-style-sheets/)
-- [KeyDB CEO Interview: Getting into YC with a Fork of Redis](https://console.dev/qa/keydb-john-sully/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
