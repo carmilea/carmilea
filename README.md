@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Current HTML Boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
+- [The Origins of the Wirecard Scandal](https://newrepublic.com/article/162084/weird-extremely-german-origins-wirecard-scandal)
+- [Daniel Kaminsky, Internet Security Savior, Dies at 42](https://www.nytimes.com/2021/04/27/technology/daniel-kaminsky-dead.html)
 - [What Will Happen to All the Dead Electric Car Batteries?](https://www.bbc.com/news/business-56574779)
 - [Karmada: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration](https://github.com/karmada-io/karmada)
-- [Using a GPU Boosts Analytics Performance by 10 to 150 Times](https://pingcap.com/blog/use-gpu-boosts-tidb-analytics-performance-by-10-to-150-times)
-- [A Pixel Is Not a Little Square (1995) [pdf]](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)
-- [DDT dump site off L.A. coast much bigger than scientists expected](https://www.latimes.com/environment/story/2021-04-26/ddt-waste-barrels-off-la-coast-shock-california-scientists)
 <!-- BLOG-POST-LIST:END -->
 
 ---
