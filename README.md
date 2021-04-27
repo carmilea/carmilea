@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The clockwork universe: is free will an illusion?](https://www.theguardian.com/news/2021/apr/27/the-clockwork-universe-is-free-will-an-illusion)
-- [YC founders of over 800 fast-growing startups are hiring at Y Combinator.com](https://www.ycombinator.com/work-at-a-startup)
-- [My Current HTML Boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
-- [Merge tag 'arm-Apple-M1-5.13' of Linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=0c855563182001c829065faa17f8e29e9ceffe13)
-- [Types of Legal Argument](https://philosophicaldisquisitions.blogspot.com/2021/03/understanding-legal-argument-1-five.html)
+- [Nobody ever commented on the Polkadot chain here on Hacker News](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=%22polkadot%22&sort=byPopularity&type=story)
+- [The Blue Hole in the Red Sea Is the Deadliest Dive Site in the World](https://www.spiegel.de/international/zeitgeist/the-blue-hole-in-the-red-sea-is-the-deadliest-dive-site-in-the-world-a-844099.html)
+- [The art of taking down patent trolls](https://www.techdirt.com/articles/20210426/09454946684/patent-troll-sable-networks-apparently-needs-to-learn-lesson-cloudflare-wants-to-destroy-another-troll)
+- [The Ease of Tracking Mobile Phones of U.S. Soldiers in Hot Spots](https://www.wsj.com/articles/the-ease-of-tracking-mobile-phones-of-u-s-soldiers-in-hot-spots-11619429402)
+- [Pitching your early stage startup](https://stripe.com/en-gb-be/atlas/guides/pitching)
 <!-- BLOG-POST-LIST:END -->
 
 ---
