@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesorio Is Hiring a Data Architect, Senior DevOps, Senior Data Scientist](https://www.tesorio.com/careers#job-openings)
-- [Unikraft – Fast, Specialized Unikernels](https://arxiv.org/abs/2104.12721)
-- [Snowden Dunks on 'The Get-Rich-Quick Real Estate Investing Conference](https://www.vice.com/en/article/epndnz/the-bizarre-case-of-snowden-and-a-get-rich-quick-real-estate-investing-conference)
-- [Pomy – Focus timer app for eye health](https://vanejung.com/pomy/)
-- [The Blue Hole in the Red Sea Is the Deadliest Dive Site in the World](https://www.spiegel.de/international/zeitgeist/the-blue-hole-in-the-red-sea-is-the-deadliest-dive-site-in-the-world-a-844099.html)
+- [Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh](https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh)
+- [Print Debugging Should Go Away](https://robert.ocallahan.org/2021/04/print-debugging-should-go-away.html)
+- [Ransomware gang threatens to expose police informants if ransom is not paid](https://therecord.media/ransomware-gang-threatens-to-expose-police-informants-if-ransom-is-not-paid/)
+- [Apple's follow-up to M1 chip goes into mass production for Mac](https://asia.nikkei.com/Business/Tech/Semiconductors/Apple-s-follow-up-to-M1-chip-goes-into-mass-production-for-Mac)
+- [Google Promised Its Contact Tracing App Was Completely Private–But It Wasn’t](https://themarkup.org/privacy/2021/04/27/google-promised-its-contact-tracing-app-was-completely-private-but-it-wasnt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
