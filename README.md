@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Hand Tools for Trail Work (2005) [pdf]](https://www.fs.fed.us/t-d/pubs/pdfpubs/pdf05232810/pdf05232810dpi300.pdf)
+- [Elixir GenServer Explained](https://papercups.io/blog/genserver)
 - [The Muse (YC W12) Is Hiring Two Designers Come Join Us](https://www.themuse.com/jobs/themuse/senior-product-designer)
-- [Open-source land registry](https://www.ltonetwork.com/use-cases/un-land-registry/)
 - [Debug Programs by Modifying Them](https://merveilles.town/@akkartik/106138280776488247)
-- [SixtyFPS v0.0.6 (GUI Toolkit in Rust): Now with IDE Support](https://sixtyfps.io/blog/v0.0.6-now-with-ide-support)
+- [Show HN: Jumprope – Terminal-like commands for the Chrome search bar](http://jumprope.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
