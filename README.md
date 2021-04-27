@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple store fake app stole man's life savings in Bitcoin](https://www.washingtonpost.com/technology/2021/03/30/trezor-scam-bitcoin-1-million/)
+- [Why UML “Really” Died](https://buttondown.email/hillelwayne/archive/why-uml-really-died/)
+- [OpenFlights – airport and airline data](https://openflights.org/data.html)
 - [Show HN: Paletter – create professional color palettes](https://www.paletter.app)
-- [Europe Is Trying to Reclaim Its Lost Chipmaking Glory](https://www.bloomberg.com/news/newsletters/2021-04-27/europe-is-trying-to-reclaim-its-lost-chipmaking-glory)
-- [GCC 11.1](https://lists.gnu.org/archive/html/info-gnu/2021-04/msg00011.html)
-- [Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh](https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh)
-- [Linux Foundation's Demands to the University of Minnesota](https://www.zdnet.com/article/the-linux-foundations-demands-to-the-university-of-minnesota-for-its-bad-linux-patches/)
+- [Google have declared Droidscript is malware](https://groups.google.com/g/androidscript/c/Mbh5TZ6YYnA/m/GflwflqaDAAJ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
