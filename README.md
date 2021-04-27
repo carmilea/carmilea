@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amulet – a short poem with a lucky SHA-256 hash](https://text.bargains/amulet/)
 - [Are we ready to see satellites built on an assembly line approach?](https://blog.satsearch.co/2021-04-22-agile-manufacturing-in-the-newspace-sector-with-nanoavionics)
-- [Hand Tools for Trail Work (2005) [pdf]](https://www.fs.fed.us/t-d/pubs/pdfpubs/pdf05232810/pdf05232810dpi300.pdf)
 - [Elixir GenServer Explained](https://papercups.io/blog/genserver)
 - [The Muse (YC W12) Is Hiring Two Designers Come Join Us](https://www.themuse.com/jobs/themuse/senior-product-designer)
 - [Debug Programs by Modifying Them](https://merveilles.town/@akkartik/106138280776488247)
