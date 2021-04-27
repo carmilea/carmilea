@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Pixel Is Not a Little Square [pdf]](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)
+- [Scripps researchers found 27,000 barrels of toxic waste near California coast](https://www.latimes.com/environment/story/2021-04-26/ddt-waste-barrels-off-la-coast-shock-california-scientists)
 - [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
 - [Nobody cares about your clean code](https://felipecsl.com/2021/04/26/nobody-cares-about-your-beautiful-code.html)
-- [Supreme Court to Decide First-Ever Gun-Carry Case](https://thereload.com/supreme-court-to-hear-gun-carry-case/)
 - [EV Charging Infrastructure in America Still Sucks](https://www.roadandtrack.com/news/a36175755/ev-charging-infrastructure-in-america-still-sucks)
-- [Back end developers can make good looking web apps too – FullyBearded](https://fullybearded.com/articles/backend-devs-can-make-good-looking-web-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
