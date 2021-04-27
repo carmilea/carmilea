@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Paletter – create professional color palettes](https://www.paletter.app)
+- [Europe Is Trying to Reclaim Its Lost Chipmaking Glory](https://www.bloomberg.com/news/newsletters/2021-04-27/europe-is-trying-to-reclaim-its-lost-chipmaking-glory)
+- [GCC 11.1](https://lists.gnu.org/archive/html/info-gnu/2021-04/msg00011.html)
 - [Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh](https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh)
-- [Print Debugging Should Go Away](https://robert.ocallahan.org/2021/04/print-debugging-should-go-away.html)
-- [Ransomware gang threatens to expose police informants if ransom is not paid](https://therecord.media/ransomware-gang-threatens-to-expose-police-informants-if-ransom-is-not-paid/)
-- [Apple's follow-up to M1 chip goes into mass production for Mac](https://asia.nikkei.com/Business/Tech/Semiconductors/Apple-s-follow-up-to-M1-chip-goes-into-mass-production-for-Mac)
-- [Google Promised Its Contact Tracing App Was Completely Private–But It Wasn’t](https://themarkup.org/privacy/2021/04/27/google-promised-its-contact-tracing-app-was-completely-private-but-it-wasnt)
+- [Linux Foundation's Demands to the University of Minnesota](https://www.zdnet.com/article/the-linux-foundations-demands-to-the-university-of-minnesota-for-its-bad-linux-patches/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
