@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amulet – a short poem with a lucky SHA-256 hash](https://text.bargains/amulet/)
-- [Are we ready to see satellites built on an assembly line approach?](https://blog.satsearch.co/2021-04-22-agile-manufacturing-in-the-newspace-sector-with-nanoavionics)
-- [Elixir GenServer Explained](https://papercups.io/blog/genserver)
-- [The Muse (YC W12) Is Hiring Two Designers Come Join Us](https://www.themuse.com/jobs/themuse/senior-product-designer)
-- [Debug Programs by Modifying Them](https://merveilles.town/@akkartik/106138280776488247)
+- [Signadot (YC W20) Is Hiring Back End Founding Engineers](https://www.workatastartup.com/jobs/42298)
+- [Trans-Pacific deteriorating, brace for shipping ‘tsunami’](https://www.freightwaves.com/news/flexport-trans-pacific-deteriorating-brace-for-shipping-tsunami)
+- [Alphabet First Quarter 2021 Results](https://abc.xyz/investor/static/pdf/2021Q1_alphabet_earnings_release.pdf?cache=0cd3d78)
+- [What’s wrong with Git? A conceptual design analysis (2016)](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
+- [Calibre – E-Book Management](https://calibre-ebook.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
