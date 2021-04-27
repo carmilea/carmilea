@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple store fake app stole man's life savings in Bitcoin](https://www.washingtonpost.com/technology/2021/03/30/trezor-scam-bitcoin-1-million/)
-- [Why UML “Really” Died](https://buttondown.email/hillelwayne/archive/why-uml-really-died/)
-- [OpenFlights – airport and airline data](https://openflights.org/data.html)
-- [Show HN: Paletter – create professional color palettes](https://www.paletter.app)
-- [Google have declared Droidscript is malware](https://groups.google.com/g/androidscript/c/Mbh5TZ6YYnA/m/GflwflqaDAAJ)
+- [SixtyFPS v0.0.6 (GUI Toolkit in Rust): Now with IDE Support](https://sixtyfps.io/blog/v0.0.6-now-with-ide-support)
+- [Neutron stars may be bigger than expected, measurement of lead nucleus suggests](https://www.sciencemag.org/news/2021/04/neutron-stars-may-be-bigger-expected-measurement-lead-nucleus-suggests)
+- [Mighty Makes Google Chrome Faster](https://www.mightyapp.com/)
+- [I forgot about print style sheets](https://www.matuzo.at/blog/i-totally-forgot-about-print-style-sheets/)
+- [KeyDB CEO Interview: Getting into YC with a Fork of Redis](https://console.dev/qa/keydb-john-sully/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
