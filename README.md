@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YC founders of over 800 fast-growing startups are hiring at Y Combinator.com](https://www.ycombinator.com/work-at-a-startup)
 - [My Current HTML Boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
+- [Merge tag 'arm-Apple-M1-5.13' of Linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=0c855563182001c829065faa17f8e29e9ceffe13)
+- [A man who stole a hotel](https://www.capitaldaily.ca/news/the-man-who-stole-a-hotel)
 - [The Origins of the Wirecard Scandal](https://newrepublic.com/article/162084/weird-extremely-german-origins-wirecard-scandal)
-- [Daniel Kaminsky, Internet Security Savior, Dies at 42](https://www.nytimes.com/2021/04/27/technology/daniel-kaminsky-dead.html)
-- [What Will Happen to All the Dead Electric Car Batteries?](https://www.bbc.com/news/business-56574779)
-- [Karmada: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration](https://github.com/karmada-io/karmada)
 <!-- BLOG-POST-LIST:END -->
 
 ---
