@@ -55,7 +55,7 @@
 - [Scripps researchers found 27,000 barrels of toxic waste near California coast](https://www.latimes.com/environment/story/2021-04-26/ddt-waste-barrels-off-la-coast-shock-california-scientists)
 - [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
 - [Nobody cares about your clean code](https://felipecsl.com/2021/04/26/nobody-cares-about-your-beautiful-code.html)
-- [EV Charging Infrastructure in America Still Sucks](https://www.roadandtrack.com/news/a36175755/ev-charging-infrastructure-in-america-still-sucks)
+- [Experian’s credit freeze security is still a joke](https://krebsonsecurity.com/2021/04/experians-credit-freeze-security-is-still-a-joke/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
