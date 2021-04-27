@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The clockwork universe: is free will an illusion?](https://www.theguardian.com/news/2021/apr/27/the-clockwork-universe-is-free-will-an-illusion)
 - [YC founders of over 800 fast-growing startups are hiring at Y Combinator.com](https://www.ycombinator.com/work-at-a-startup)
 - [My Current HTML Boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
 - [Merge tag 'arm-Apple-M1-5.13' of Linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=0c855563182001c829065faa17f8e29e9ceffe13)
-- [A man who stole a hotel](https://www.capitaldaily.ca/news/the-man-who-stole-a-hotel)
-- [The Origins of the Wirecard Scandal](https://newrepublic.com/article/162084/weird-extremely-german-origins-wirecard-scandal)
+- [Types of Legal Argument](https://philosophicaldisquisitions.blogspot.com/2021/03/understanding-legal-argument-1-five.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
