@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 10.2 – Improved Performance, Accessibility, Automatic Font Optimization](https://nextjs.org/10-2)
-- [Finding an Easter Egg in Microsoft Bob](https://benstoneonline.com/posts/microsoft-bob-easter-egg/)
-- [A Backdoor Lets the Immune System Monitor the Brain](https://www.quantamagazine.org/how-the-immune-system-protects-the-brain-20210428/)
-- [More sleep or more exercise: the best time trade-offs for children’s health](https://www.unisa.edu.au/Media-Centre/Releases/2021/more-sleep-or-more-exercise--the-best-time-trade-offs-for-childrens-health/)
-- [30 Years of Linux: An Interview with Linus Torvalds](https://www.tag1consulting.com/blog/interview-linus-torvalds-linux-and-git)
+- [Michael Collins, Apollo 11 astronaut, dies at 90](https://www.npr.org/2021/04/28/509599284/forgotten-astronaut-michael-collins-dies)
+- [Baked meteorites yield clues to planetary atmospheres](https://news.ucsc.edu/2021/04/meteorite-outgassing.html)
+- [The number of cities with municipal broadband has jumped over 4x in two years](https://gammawire.com/the-number-of-cities-with-municipal-broadband-has-jumped-over-450-in-two-years/)
+- [KDE Connect: Enabling communication between all your devices](https://kdeconnect.kde.org/)
+- [Kaspersky believes it found new CIA malware](https://therecord.media/security-firm-kaspersky-believes-it-found-new-cia-malware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
