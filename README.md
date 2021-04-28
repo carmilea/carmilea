@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [M1 Money Stock](https://fred.stlouisfed.org/series/M1SL)
-- [SEC Director of Enforcement resign after a few days on the job](https://www.sec.gov/news/press-release/2021-75)
+- [On UML](https://www.sicpers.info/2021/04/on-uml/)
+- [SEC Director of Enforcement resigns after a few days on the job](https://www.sec.gov/news/press-release/2021-75)
 - [Saving Lebanon’s streets: the engineer with a sustainable fix](https://www.thenationalnews.com/mena/lebanon/saving-lebanon-s-streets-the-engineer-with-a-sustainable-fix-1.1212567)
+- [GitHub Collection: Made in India](https://github.com/collections/made-in-india)
 - [Compound (YC S19) is hiring to help startup founders and employees](https://jobs.lever.co/compound)
-- [New AI tool calculates materials’ stress and strain based on photos](https://news.mit.edu/2021/ai-materials-stress-strain-0422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
