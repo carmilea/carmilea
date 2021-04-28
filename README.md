@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sugar-sweetened beverage intake and serum testosterone levels in adult males (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6015465/)
 - [Ideal divisors: when a division compiles down to just a multiplication](https://lemire.me/blog/2021/04/28/ideal-divisors-when-a-division-compiles-down-to-just-a-multiplication/)
+- [Money Stuff: Tesla Sold Some Bitcoins](https://www.bloomberg.com/opinion/articles/2021-04-28/elon-musk-made-tesla-some-money-on-bitcoin)
 - [Great Question (YC W21) is hiring a Founding Engineer to automate user research](https://www.ycombinator.com/companies/great-question/jobs/rbDFLOP-founding-engineer-rails)
-- [*.ycombinator.com Terms of Use](https://www.ycombinator.com/legal#tou)
 - [Where Does a Candle Go When It Burns?](https://www.nytimes.com/2021/04/26/science/randall-munroe-candle-xkcd.html)
-- [Michael Collins, Apollo 11 astronaut, dies at 90](https://www.npr.org/2021/04/28/509599284/forgotten-astronaut-michael-collins-dies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
