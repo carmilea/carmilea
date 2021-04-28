@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook advertisers target children interested in smoking, alcohol, weight loss](https://www.theguardian.com/technology/2021/apr/28/facebook-allows-advertisers-to-target-children-interested-in-smoking-alcohol-and-weight-loss)
 - [Rare chunks of Earth's mantle found exposed in Maryland](https://www.nationalgeographic.com/science/article/rare-chunks-of-earths-mantle-found-exposed-in-maryland)
 - [Better air is the easiest way not to die](https://dynomight.net/air/)
 - [Dominance of Apple and Google’s app stores impacting competition and consumers](https://www.accc.gov.au/media-release/dominance-of-apple-and-google%E2%80%99s-app-stores-impacting-competition-and-consumers)
 - [Signal's Cellebrite Hack Is Already Causing Grief for the Law](https://gizmodo.com/signals-cellebrite-hack-is-already-causing-grief-for-th-1846773797)
-- [AMD Reports Q1 2021 Earnings](https://www.anandtech.com/show/16645/amd-reports-q1-2021-earnings-firing-on-all-cylinders)
 <!-- BLOG-POST-LIST:END -->
 
 ---
