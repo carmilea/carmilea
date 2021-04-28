@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flower Summit 2021 (The Friendly Federated Learning Framework)](https://flower.dev/conf/flower-summit-2021)
+- [Facebook ‘looking into’ hiding of posts calling for PM’s resignation in India](https://techcrunch.com/2021/04/28/facebook-hides-posts-calling-for-pm-modis-resignation-in-india/)
+- [Bruce Schneier wants you to make software better](https://spectrum.ieee.org/at-work/tech-careers/bruce-schneier-wants-you-to-make-software-better)
+- [Cuomo Aides Spent Months Hiding Nursing Home Death Toll](https://www.nytimes.com/2021/04/28/nyregion/cuomo-aides-nursing-home-deaths.html)
 - [Why we switched from Webpack to Vite](https://blog.replit.com/vite)
-- [Sugar-sweetened beverage intake and serum testosterone levels in adult males (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6015465/)
-- [Ideal divisors: when a division compiles down to just a multiplication](https://lemire.me/blog/2021/04/28/ideal-divisors-when-a-division-compiles-down-to-just-a-multiplication/)
-- [Money Stuff: Tesla Sold Some Bitcoins](https://www.bloomberg.com/opinion/articles/2021-04-28/elon-musk-made-tesla-some-money-on-bitcoin)
-- [Great Question (YC W21) is hiring a Founding Engineer to automate user research](https://www.ycombinator.com/companies/great-question/jobs/rbDFLOP-founding-engineer-rails)
 <!-- BLOG-POST-LIST:END -->
 
 ---
