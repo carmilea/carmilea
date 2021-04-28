@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [M1 Money Stock](https://fred.stlouisfed.org/series/M1SL)
+- [SEC Director of Enforcement resign after a few days on the job](https://www.sec.gov/news/press-release/2021-75)
+- [Saving Lebanon’s streets: the engineer with a sustainable fix](https://www.thenationalnews.com/mena/lebanon/saving-lebanon-s-streets-the-engineer-with-a-sustainable-fix-1.1212567)
 - [Compound (YC S19) is hiring to help startup founders and employees](https://jobs.lever.co/compound)
-- [Facebook Reports First Quarter 2021 Results [pdf]](https://s21.q4cdn.com/399680738/files/doc_financials/2021/FB-03.31.2021-Exhibit-99.1_Final.pdf)
-- [Apple Reports Second Quarter Results](https://www.apple.com/newsroom/2021/04/apple-reports-second-quarter-results/)
-- [Flower Summit 2021 (The Friendly Federated Learning Framework)](https://flower.dev/conf/flower-summit-2021)
-- [Facebook ‘looking into’ hiding of posts calling for PM’s resignation in India](https://techcrunch.com/2021/04/28/facebook-hides-posts-calling-for-pm-modis-resignation-in-india/)
+- [New AI tool calculates materials’ stress and strain based on photos](https://news.mit.edu/2021/ai-materials-stress-strain-0422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
