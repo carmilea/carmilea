@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Compound (YC S19) is hiring to help startup founders and employees](https://jobs.lever.co/compound)
+- [Facebook Reports First Quarter 2021 Results [pdf]](https://s21.q4cdn.com/399680738/files/doc_financials/2021/FB-03.31.2021-Exhibit-99.1_Final.pdf)
+- [Apple Reports Second Quarter Results](https://www.apple.com/newsroom/2021/04/apple-reports-second-quarter-results/)
 - [Flower Summit 2021 (The Friendly Federated Learning Framework)](https://flower.dev/conf/flower-summit-2021)
 - [Facebook ‘looking into’ hiding of posts calling for PM’s resignation in India](https://techcrunch.com/2021/04/28/facebook-hides-posts-calling-for-pm-modis-resignation-in-india/)
-- [Bruce Schneier wants you to make software better](https://spectrum.ieee.org/at-work/tech-careers/bruce-schneier-wants-you-to-make-software-better)
-- [Cuomo Aides Spent Months Hiding Nursing Home Death Toll](https://www.nytimes.com/2021/04/28/nyregion/cuomo-aides-nursing-home-deaths.html)
-- [Why we switched from Webpack to Vite](https://blog.replit.com/vite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
