@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [So you want to tax the rich? OK, let's start with Harvard](https://www.washingtonpost.com/opinions/2021/04/27/so-you-want-tax-rich-okay-lets-start-with-harvard/)
 - [Grand jury subpoena for Signal user data, Central District of California](https://signal.org/bigbrother/central-california-grand-jury/)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [Show HN: Open-source high-res Mars map, in natural colors](https://mars26.com/)
-- [Facebook advertisers target children interested in smoking, alcohol, weight loss](https://www.theguardian.com/technology/2021/apr/28/facebook-allows-advertisers-to-target-children-interested-in-smoking-alcohol-and-weight-loss)
 - [Protocol – An ASCII Header Generator for Network Protocols](http://www.luismg.com/protocol/)
 <!-- BLOG-POST-LIST:END -->
 
