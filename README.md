@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [Show HN: Open-source high-res Mars map, in natural colors](https://mars26.com/)
 - [Facebook advertisers target children interested in smoking, alcohol, weight loss](https://www.theguardian.com/technology/2021/apr/28/facebook-allows-advertisers-to-target-children-interested-in-smoking-alcohol-and-weight-loss)
+- [Protocol – An ASCII Header Generator for Network Protocols](http://www.luismg.com/protocol/)
 - [Rare chunks of Earth's mantle found exposed in Maryland](https://www.nationalgeographic.com/science/article/rare-chunks-of-earths-mantle-found-exposed-in-maryland)
-- [Better air is the easiest way not to die](https://dynomight.net/air/)
-- [Dominance of Apple and Google’s app stores impacting competition and consumers](https://www.accc.gov.au/media-release/dominance-of-apple-and-google%E2%80%99s-app-stores-impacting-competition-and-consumers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
