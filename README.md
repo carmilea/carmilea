@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase (YC S20) Is Hiring Ex-Founders, SREs, Postgres and Full-Stack Engineers](https://supabase.io/docs/careers)
-- [TikToker makes ‘scamcoin’ as a joke and within an hour it’s worth –$70mln](https://twitter.com/TikTokInvestors/status/1385365742506364929)
-- [Ed Balls Day](https://johnager.co.uk/2021/04/28/ed-balls-day-2011/)
-- [98% of the books that publishers released in 2020 sold fewer than 5k copies](https://www.nytimes.com/2021/04/18/books/book-sales-publishing-pandemic-coronavirus.html)
-- [There's no such thing as “The Perl Community”](https://neilb.org/2021/04/27/perl-communities.html)
+- [FYI HN: Hnreplies.com Data Security Incident](https://news.ycombinator.com/item?id=26968908)
+- [Samsung's Lee family to pay over $10.8B inheritence tax](https://www.reuters.com/video/watch/samsungs-lee-family-to-pay-over-108bln-t-idOVEAFYR2J)
+- [Proposed futex2 allows Linux to mimic the NT kernel for better wine performance](https://lkml.org/lkml/2021/4/27/1208)
+- [Diving Deep on S3 Consistency](https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html)
+- [Vertical turbines far more efficient in large-scale wind farms](https://eandt.theiet.org/content/articles/2021/04/vertical-turbines-far-more-efficient-in-large-scale-wind-farms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
