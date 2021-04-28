@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Iran authorizes use of cryptocurrency for imports payment](https://bitcoinmagazine.com/culture/iran-using-cryptocurrency-for-imports)
-- [A virtual Apple Macintosh with System 8, running in Electron](https://github.com/felixrieseberg/macintosh.js.git)
-- [Film simulations from scratch using Python](https://kevinmartinjose.com/2021/04/27/film-simulations-from-scratch-using-python/)
-- [Grand jury subpoena for Signal user data, Central District of California](https://signal.org/bigbrother/central-california-grand-jury/)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
+- [Supabase (YC S20) Is Hiring Ex-Founders, SREs, Postgres and Full-Stack Engineers](https://supabase.io/docs/careers)
+- [TikToker makes ‘scamcoin’ as a joke and within an hour it’s worth –$70mln](https://twitter.com/TikTokInvestors/status/1385365742506364929)
+- [Ed Balls Day](https://johnager.co.uk/2021/04/28/ed-balls-day-2011/)
+- [98% of the books that publishers released in 2020 sold fewer than 5k copies](https://www.nytimes.com/2021/04/18/books/book-sales-publishing-pandemic-coronavirus.html)
+- [There's no such thing as “The Perl Community”](https://neilb.org/2021/04/27/perl-communities.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
