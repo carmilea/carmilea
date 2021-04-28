@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FYI HN: Hnreplies.com Data Security Incident](https://news.ycombinator.com/item?id=26968908)
-- [Samsung's Lee family to pay over $10.8B inheritence tax](https://www.reuters.com/video/watch/samsungs-lee-family-to-pay-over-108bln-t-idOVEAFYR2J)
+- [Same decline in children's BMI may be achieved by extra sleep or extra exercise](https://www.unisa.edu.au/Media-Centre/Releases/2021/more-sleep-or-more-exercise--the-best-time-trade-offs-for-childrens-health/)
+- [What’s Accenture? And why it’s worth $140B?](https://retool.com/blog/whats-accenture)
+- [Show HN: I made a simulator for personal finance to help figure out your life](https://projectifi.io/)
+- [Tell HN: HN Replies Data Security Incident](https://news.ycombinator.com/item?id=26968908)
 - [Proposed futex2 allows Linux to mimic the NT kernel for better wine performance](https://lkml.org/lkml/2021/4/27/1208)
-- [Diving Deep on S3 Consistency](https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html)
-- [Vertical turbines far more efficient in large-scale wind farms](https://eandt.theiet.org/content/articles/2021/04/vertical-turbines-far-more-efficient-in-large-scale-wind-farms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
