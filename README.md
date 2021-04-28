@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dominance of Apple and Google’s app stores impacting competition and consumers](https://www.accc.gov.au/media-release/dominance-of-apple-and-google%E2%80%99s-app-stores-impacting-competition-and-consumers)
 - [Signadot (YC W20) Is Hiring Back End Founding Engineers](https://www.workatastartup.com/jobs/42298)
 - [Trans-Pacific deteriorating, brace for shipping ‘tsunami’](https://www.freightwaves.com/news/flexport-trans-pacific-deteriorating-brace-for-shipping-tsunami)
-- [Alphabet First Quarter 2021 Results](https://abc.xyz/investor/static/pdf/2021Q1_alphabet_earnings_release.pdf?cache=0cd3d78)
 - [What’s wrong with Git? A conceptual design analysis (2016)](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
-- [Calibre – E-Book Management](https://calibre-ebook.com/)
+- [Alphabet reports Q1 earnings](https://www.cnbc.com/2021/04/27/alphabet-goog-earnings-q1-2021.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
