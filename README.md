@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook approves alcohol, vaping and gambling ads targeting 13-17 year olds](https://www.abc.net.au/news/2021-04-28/facebook-instagram-teenager-tageted-advertising-alcohol-vaping/100097590)
 - [Dominance of Apple and Google’s app stores impacting competition and consumers](https://www.accc.gov.au/media-release/dominance-of-apple-and-google%E2%80%99s-app-stores-impacting-competition-and-consumers)
+- [Signal's Cellebrite Hack Is Already Causing Grief for the Law](https://gizmodo.com/signals-cellebrite-hack-is-already-causing-grief-for-th-1846773797)
+- [AMD Reports Q1 2021 Earnings: Firing on All Cylinders and Setting Records](https://www.anandtech.com/show/16645/amd-reports-q1-2021-earnings-firing-on-all-cylinders)
 - [Signadot (YC W20) Is Hiring Back End Founding Engineers](https://www.workatastartup.com/jobs/42298)
-- [Trans-Pacific deteriorating, brace for shipping ‘tsunami’](https://www.freightwaves.com/news/flexport-trans-pacific-deteriorating-brace-for-shipping-tsunami)
-- [What’s wrong with Git? A conceptual design analysis (2016)](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
-- [Alphabet reports Q1 earnings](https://www.cnbc.com/2021/04/27/alphabet-goog-earnings-q1-2021.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
