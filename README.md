@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ideal divisors: when a division compiles down to just a multiplication](https://lemire.me/blog/2021/04/28/ideal-divisors-when-a-division-compiles-down-to-just-a-multiplication/)
+- [Great Question (YC W21) is hiring a Founding Engineer to automate user research](https://www.ycombinator.com/companies/great-question/jobs/rbDFLOP-founding-engineer-rails)
+- [*.ycombinator.com Terms of Use](https://www.ycombinator.com/legal#tou)
+- [Where Does a Candle Go When It Burns?](https://www.nytimes.com/2021/04/26/science/randall-munroe-candle-xkcd.html)
 - [Michael Collins, Apollo 11 astronaut, dies at 90](https://www.npr.org/2021/04/28/509599284/forgotten-astronaut-michael-collins-dies)
-- [Baked meteorites yield clues to planetary atmospheres](https://news.ucsc.edu/2021/04/meteorite-outgassing.html)
-- [The number of cities with municipal broadband has jumped over 4x in two years](https://gammawire.com/the-number-of-cities-with-municipal-broadband-has-jumped-over-450-in-two-years/)
-- [KDE Connect: Enabling communication between all your devices](https://kdeconnect.kde.org/)
-- [Kaspersky believes it found new CIA malware](https://therecord.media/security-firm-kaspersky-believes-it-found-new-cia-malware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
