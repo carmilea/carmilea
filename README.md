@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iran authorizes use of cryptocurrency for imports payment](https://bitcoinmagazine.com/culture/iran-using-cryptocurrency-for-imports)
+- [A virtual Apple Macintosh with System 8, running in Electron](https://github.com/felixrieseberg/macintosh.js.git)
 - [Film simulations from scratch using Python](https://kevinmartinjose.com/2021/04/27/film-simulations-from-scratch-using-python/)
 - [Grand jury subpoena for Signal user data, Central District of California](https://signal.org/bigbrother/central-california-grand-jury/)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [Annotated PyTorch implementations of various deep learning normalization layers](https://nn.labml.ai/normalization/index.html)
-- [Show HN: Open-source high-res Mars map, in natural colors](https://mars26.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
