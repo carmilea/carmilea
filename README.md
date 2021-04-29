@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover Stealthy Linux Malware That Went Undetected for 3 Years](https://blog.netlab.360.com/stealth_rotajakiro_backdoor_en/)
+- [Ask HN: Can Salesforce be a long term career?](https://news.ycombinator.com/item?id=26981586)
+- [Global electric vehicles sales grew 41% in 2020](https://www.axios.com/global-electric-vehicles-sales-grew-2020-b735a535-62d0-4bd0-99e7-b380c462ee4c.html)
+- [Astronaut Michael Collins on Space Exploration (Interview July 2019)](https://www.smithsonianmag.com/science-nature/michael-collins-past-and-future-space-exploration-180972699/)
 - [Tape Recovery Simulator 96K](https://www.bluesnews.com/s/221613/tape-recovery-simulator-96k-announced)
-- [Nano-5.7 Is Released](https://lists.gnu.org/archive/html/info-gnu/2021-04/msg00013.html)
-- [Show HN: Simple way to access various statistics in Git repository](https://github.com/arzzen/git-quick-stats)
-- [Excess Deaths in 2020](https://kieranhealy.org/blog/archives/2021/02/24/excess-deaths-february-update/)
-- [Zanzibar: Google’s Consistent, Global Authorization System](https://research.google/pubs/pub48190/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
