@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Senior Engineer Needed to Help Legalist (YC S16) Scale to $500M Aum](https://www.legalist.com/careers?gh_jid=4016478004)
+- [Common Expression Language (CEL); lightweight expression evaluation](https://github.com/google/cel-go)
+- [Hedonometer: Average Happiness of Twitter over Time](https://hedonometer.org/timeseries/en_all/?from=2019-10-29&to=2021-04-28)
 - [Chicago undergraduate mathematics bibliography (1999)](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
 - [Facebook Joins the Rust Foundation](https://developers.facebook.com/blog/post/2021/04/29/facebook-joins-rust-foundation/)
-- [Flu Has Disappeared Worldwide During the Covid Pandemic](https://www.scientificamerican.com/article/flu-has-disappeared-worldwide-during-the-covid-pandemic/)
-- [ReleaseHub Environments as a Service Gets 2.7M Seed from Sequoia](https://releasehub.com/)
-- [I booked my cheapest one-month trip ever](https://benbernardblog.com/how-i-booked-my-absolutely-cheapest-one-month-trip-ever/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
