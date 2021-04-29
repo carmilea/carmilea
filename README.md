@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We Built Our Own DNS Infrastructure](https://blog.replit.com/dns)
+- [Lambda School lays off 65 employees](https://lambdaschool.com/the-commons/update-lambda-school-team)
 - [Shipping Containers Are Falling Overboard at a Rapid Rate](https://www.supplychainbrain.com/articles/33002-shipping-containers-are-falling-overboard-at-a-rapid-rate)
 - [Wi-Fi packet capturing on M1 Macs is broken](https://www.intuitibits.com/2021/02/05/whats-going-on-apple-part-2/)
 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://atob.com/careers)
-- [Write Gitlab CI Pipelines in Python Code](https://gitlab.com/dbsystel/gitlab-ci-python-library)
-- [QNAP Ships NAS Backup Software with Hidden Credentials](https://forum.qnap.com/viewtopic.php?f=45&t=160849&start=450#p788325)
 <!-- BLOG-POST-LIST:END -->
 
 ---
