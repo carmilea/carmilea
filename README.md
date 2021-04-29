@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Robotic harvester plucks an Apple every 7 seconds](https://www.freshplaza.com/article/9316228/robotic-harvester-plucks-an-apple-every-7-seconds/)
+- [U.S. government probes VPN hack within federal agencies, races to find clues](https://www.reuters.com/technology/us-government-probes-vpn-hack-within-federal-agencies-races-find-clues-2021-04-29/)
 - [Opera Adds Native Support for Blockchain Domain Names](https://blogs.opera.com/tips-and-tricks/2021/04/say-hello-to-web3-as-opera-adds-native-support-to-unstoppable-domains/)
 - [Writing web-based interactive fiction with Ink](https://www.inklestudios.com/ink/web-tutorial/)
 - [Health of the KDE Community](https://carlschwan.eu/2021/04/29/kde-contributions-health/)
-- [Introduction to Pluto.jl](https://www.juliafordatascience.com/first-steps-5-pluto/)
+- [CSRF, CORS, and HTTP Security Headers Demystified](https://blog.vnaik.com/posts/web-attacks.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
