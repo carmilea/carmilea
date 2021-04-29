@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US investigating possible mysterious directed energy attack near White House](https://www.cnn.com/2021/04/29/politics/us-investigating-mysterious-directed-energy-attack-white-house/index.html)
+- [Why am I getting “sorry” message on trying to submit Show HN?](https://news.ycombinator.com/item?id=26979392)
 - [How JavaScript works: cryptography and how to deal with MitM attacks](https://blog.sessionstack.com/how-javascript-works-cryptography-how-to-deal-with-man-in-the-middle-mitm-attacks-bf8fc6be546c?source=collection_home---6------1-----------------------)
+- [EU court rules software transfer is a sale (2012)](https://bdkadvokati.com/eu-court-rules-software-transfer-is-a-sale/)
 - [MeetAnyway (YC W21) Is Hiring a Full Stack Engineer – React/Django, Remote EMEA](https://www.workatastartup.com/jobs/41325)
-- [DPA blocks facial recognition system in Italy and MP proposes moratorium](https://reclaimyourface.eu/italy-dpa-blocks-facial-recognition-system-mp-proposes-moratorium/)
-- [Union's evidence in Amazon vote 'could be grounds for overturning election'](https://www.reuters.com/technology/us-labor-board-says-evidence-presented-by-union-amazon-vote-could-be-grounds-2021-04-28/)
-- [History of Techno](https://www.beatportal.com/features/beatports-definitive-guide-to-techno/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
