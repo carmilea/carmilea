@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Artist faked being a billionaire to photograph New York City’s best views](https://www.architecturaldigest.com/story/artist-faked-billionaire-photograph-new-york-citys-best-views)
 - [Leak in AI Dungeon made all stories publicly accessible up until April 18th](https://github.com/AetherDevSecOps/aid_adventure_vulnerability_report)
-- [Plant UML – open-source UML Tool](https://plantuml.com/)
-- [New Evidence That British Workplaces Are Losing Viewpoint Diversity](https://www.ethicalsystems.org/new-evidence-that-british-workplaces-are-losing-viewpoint-diversity/)
+- [Plant UML – Open-source UML Tool](https://plantuml.com/)
+- [New evidence that British workplaces are losing viewpoint diversity](https://www.ethicalsystems.org/new-evidence-that-british-workplaces-are-losing-viewpoint-diversity/)
 - [Truly unified inbox – BlackBerry got it right and nobody has since](https://lolfi.com/wrong/2021/04/28/oneinbox.html)
-- [Brazil Rejects the Gamaleya (Sputnik-V) Vaccine](https://blogs.sciencemag.org/pipeline/archives/2021/04/28/brazil-rejects-the-gamaleya-vaccine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
