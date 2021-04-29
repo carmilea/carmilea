@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Simple way to access various statistics in Git repository](https://github.com/arzzen/git-quick-stats)
+- [Excess Deaths in 2020](https://kieranhealy.org/blog/archives/2021/02/24/excess-deaths-february-update/)
 - [Zanzibar: Google’s Consistent, Global Authorization System](https://research.google/pubs/pub48190/)
-- [Showing your product's costs boosts sales 15-25%](https://tips.ariyh.com/p/show-costs-to-boost-sales)
+- [Show your costs to boost sales](https://tips.ariyh.com/p/show-costs-to-boost-sales)
 - [The Fourier transform is a neural network](https://sidsite.com/posts/fourier-nets/)
-- [GiveCampus (YC S15) Hiring Senior Software Engineers Remotely](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [At Satoshi’s Tea Garden](https://www.lrb.co.uk/the-paper/v43/n09/ben-walker/at-satoshi-s-tea-garden)
 <!-- BLOG-POST-LIST:END -->
 
 ---
