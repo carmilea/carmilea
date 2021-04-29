@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tape Recovery Simulator 96K](https://www.bluesnews.com/s/221613/tape-recovery-simulator-96k-announced)
+- [Nano-5.7 Is Released](https://lists.gnu.org/archive/html/info-gnu/2021-04/msg00013.html)
 - [Show HN: Simple way to access various statistics in Git repository](https://github.com/arzzen/git-quick-stats)
 - [Excess Deaths in 2020](https://kieranhealy.org/blog/archives/2021/02/24/excess-deaths-february-update/)
 - [Zanzibar: Google’s Consistent, Global Authorization System](https://research.google/pubs/pub48190/)
-- [Show your costs to boost sales](https://tips.ariyh.com/p/show-costs-to-boost-sales)
-- [The Fourier transform is a neural network](https://sidsite.com/posts/fourier-nets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
