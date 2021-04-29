@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers Uncover Stealthy Linux Malware That Went Undetected for 3 Years](https://blog.netlab.360.com/stealth_rotajakiro_backdoor_en/)
-- [Ask HN: Can Salesforce be a long term career?](https://news.ycombinator.com/item?id=26981586)
-- [Global electric vehicles sales grew 41% in 2020](https://www.axios.com/global-electric-vehicles-sales-grew-2020-b735a535-62d0-4bd0-99e7-b380c462ee4c.html)
-- [Astronaut Michael Collins on Space Exploration (Interview July 2019)](https://www.smithsonianmag.com/science-nature/michael-collins-past-and-future-space-exploration-180972699/)
-- [Tape Recovery Simulator 96K](https://www.bluesnews.com/s/221613/tape-recovery-simulator-96k-announced)
+- [Chicago undergraduate mathematics bibliography (1999)](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
+- [Facebook Joins the Rust Foundation](https://developers.facebook.com/blog/post/2021/04/29/facebook-joins-rust-foundation/)
+- [Flu Has Disappeared Worldwide During the Covid Pandemic](https://www.scientificamerican.com/article/flu-has-disappeared-worldwide-during-the-covid-pandemic/)
+- [ReleaseHub Environments as a Service Gets 2.7M Seed from Sequoia](https://releasehub.com/)
+- [I booked my cheapest one-month trip ever](https://benbernardblog.com/how-i-booked-my-absolutely-cheapest-one-month-trip-ever/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
