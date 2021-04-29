@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [MeetAnyway (YC W21) Is Hiring a Full Stack Engineer – React/Django, Remote EMEA](https://www.workatastartup.com/jobs/41325)
+- [DPA blocks facial recognition system in Italy and MP proposes moratorium](https://reclaimyourface.eu/italy-dpa-blocks-facial-recognition-system-mp-proposes-moratorium/)
 - [History of Techno](https://www.beatportal.com/features/beatports-definitive-guide-to-techno/)
+- [The Challenges of Animal Translation](https://www.newyorker.com/science/elements/the-challenges-of-animal-translation)
 - [Fortran Package Manager (Fpm)](https://github.com/fortran-lang/fpm)
-- [China launches first module of new space station](https://www.bbc.co.uk/news/world-asia-china-56924370)
-- [Minty-Fresh: Using a Menthol-Like Compound to Activate Plant Immune Mechanisms](https://www.tus.ac.jp/en/mediarelations/archive/20210428_0904.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
