@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Senior Engineer Needed to Help Legalist (YC S16) Scale to $500M Aum](https://www.legalist.com/careers?gh_jid=4016478004)
-- [Common Expression Language (CEL); lightweight expression evaluation](https://github.com/google/cel-go)
+- [Vegan cheese has quietly but steadily infiltrated mainstream supermarket shelves](https://www.eater.com/22315684/vegan-cheese-history-ingredients-process-grocery-brands)
+- [U.S. Labor Secretary says most gig workers should be classified as employees](https://www.reuters.com/article/us-usa-labor-exclusive/exclusive-u-s-labor-secretary-says-most-gig-workers-should-be-classified-as-employees-idUSKBN2CG1ZS)
+- [Legalist (YC S16) is hiring a senior engineer](https://www.legalist.com/careers?gh_jid=4016478004)
 - [Hedonometer: Average Happiness of Twitter over Time](https://hedonometer.org/timeseries/en_all/?from=2019-10-29&to=2021-04-28)
-- [Chicago undergraduate mathematics bibliography (1999)](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
-- [Facebook Joins the Rust Foundation](https://developers.facebook.com/blog/post/2021/04/29/facebook-joins-rust-foundation/)
+- [Category theory is a universal modeling language](http://math.mit.edu/~dspivak/informatics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
