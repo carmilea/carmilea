@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://atob.com/careers)
+- [Write Gitlab CI Pipelines in Python Code](https://gitlab.com/dbsystel/gitlab-ci-python-library)
+- [FDA Moves to Ban All Menthol Cigarettes and Flavored Cigars](https://www.fda.gov/news-events/press-announcements/fda-commits-evidence-based-actions-aimed-saving-lives-and-preventing-future-generations-smokers)
+- [QNAP Ships NAS Backup Software with Hidden Credentials](https://forum.qnap.com/viewtopic.php?f=45&t=160849&start=450#p788325)
 - [U.S. government probes VPN hack within federal agencies, races to find clues](https://www.reuters.com/technology/us-government-probes-vpn-hack-within-federal-agencies-races-find-clues-2021-04-29/)
-- [Opera Adds Native Support for Blockchain Domain Names](https://blogs.opera.com/tips-and-tricks/2021/04/say-hello-to-web3-as-opera-adds-native-support-to-unstoppable-domains/)
-- [Writing web-based interactive fiction with Ink](https://www.inklestudios.com/ink/web-tutorial/)
-- [Health of the KDE Community](https://carlschwan.eu/2021/04/29/kde-contributions-health/)
-- [CSRF, CORS, and HTTP Security Headers Demystified](https://blog.vnaik.com/posts/web-attacks.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
