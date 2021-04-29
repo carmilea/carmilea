@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vegan cheese has quietly but steadily infiltrated mainstream supermarket shelves](https://www.eater.com/22315684/vegan-cheese-history-ingredients-process-grocery-brands)
-- [U.S. Labor Secretary says most gig workers should be classified as employees](https://www.reuters.com/article/us-usa-labor-exclusive/exclusive-u-s-labor-secretary-says-most-gig-workers-should-be-classified-as-employees-idUSKBN2CG1ZS)
-- [Legalist (YC S16) is hiring a senior engineer](https://www.legalist.com/careers?gh_jid=4016478004)
-- [Hedonometer: Average Happiness of Twitter over Time](https://hedonometer.org/timeseries/en_all/?from=2019-10-29&to=2021-04-28)
-- [Category theory is a universal modeling language](http://math.mit.edu/~dspivak/informatics/)
+- [Robotic harvester plucks an Apple every 7 seconds](https://www.freshplaza.com/article/9316228/robotic-harvester-plucks-an-apple-every-7-seconds/)
+- [Opera Adds Native Support for Blockchain Domain Names](https://blogs.opera.com/tips-and-tricks/2021/04/say-hello-to-web3-as-opera-adds-native-support-to-unstoppable-domains/)
+- [Writing web-based interactive fiction with Ink](https://www.inklestudios.com/ink/web-tutorial/)
+- [Health of the KDE Community](https://carlschwan.eu/2021/04/29/kde-contributions-health/)
+- [Introduction to Pluto.jl](https://www.juliafordatascience.com/first-steps-5-pluto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
