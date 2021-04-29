@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US investigating possible mysterious directed energy attack near White House](https://www.cnn.com/2021/04/29/politics/us-investigating-mysterious-directed-energy-attack-white-house/index.html)
-- [Why am I getting “sorry” message on trying to submit Show HN?](https://news.ycombinator.com/item?id=26979392)
-- [How JavaScript works: cryptography and how to deal with MitM attacks](https://blog.sessionstack.com/how-javascript-works-cryptography-how-to-deal-with-man-in-the-middle-mitm-attacks-bf8fc6be546c?source=collection_home---6------1-----------------------)
-- [EU court rules software transfer is a sale (2012)](https://bdkadvokati.com/eu-court-rules-software-transfer-is-a-sale/)
-- [MeetAnyway (YC W21) Is Hiring a Full Stack Engineer – React/Django, Remote EMEA](https://www.workatastartup.com/jobs/41325)
+- [Zanzibar: Google’s Consistent, Global Authorization System](https://research.google/pubs/pub48190/)
+- [Showing your product's costs boosts sales 15-25%](https://tips.ariyh.com/p/show-costs-to-boost-sales)
+- [The Fourier transform is a neural network](https://sidsite.com/posts/fourier-nets/)
+- [GiveCampus (YC S15) Hiring Senior Software Engineers Remotely](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [At Satoshi’s Tea Garden](https://www.lrb.co.uk/the-paper/v43/n09/ben-walker/at-satoshi-s-tea-garden)
 <!-- BLOG-POST-LIST:END -->
 
 ---
