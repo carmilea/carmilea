@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fortran Package Manager (Fpm)](https://github.com/fortran-lang/fpm)
+- [Minty-Fresh: Using a Menthol-Like Compound to Activate Plant Immune Mechanisms](https://www.tus.ac.jp/en/mediarelations/archive/20210428_0904.html)
 - [Artist faked being a billionaire to photograph New York City’s best views](https://www.architecturaldigest.com/story/artist-faked-billionaire-photograph-new-york-citys-best-views)
-- [Leak in AI Dungeon made all stories publicly accessible up until April 18th](https://github.com/AetherDevSecOps/aid_adventure_vulnerability_report)
+- [AI Dungeon public disclosure vulnerability report](https://github.com/AetherDevSecOps/aid_adventure_vulnerability_report)
 - [Plant UML – Open-source UML Tool](https://plantuml.com/)
-- [New evidence that British workplaces are losing viewpoint diversity](https://www.ethicalsystems.org/new-evidence-that-british-workplaces-are-losing-viewpoint-diversity/)
-- [Truly unified inbox – BlackBerry got it right and nobody has since](https://lolfi.com/wrong/2021/04/28/oneinbox.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
