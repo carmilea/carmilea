@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Truly unified inbox – BlackBerry got it right and nobody has since](https://lolfi.com/wrong/2021/04/28/oneinbox.html)
 - [Brazil Rejects the Gamaleya (Sputnik-V) Vaccine](https://blogs.sciencemag.org/pipeline/archives/2021/04/28/brazil-rejects-the-gamaleya-vaccine)
 - [Fortnite’s cash cow is Playstation, not iOS, court documents reveal](https://www.theverge.com/2021/4/28/22407939/fortnite-biggest-platform-revenue-playstation-not-ios-iphone)
 - [Google is saving $1B per year as a result of employees working from home](https://www.latimes.com/business/technology/story/2021-04-28/google-is-saving-1-billion-per-year-as-a-result-of-employees-working-from-home)
-- [The United States Needs to Learn How to Learn](https://pedestrianobservations.com/2021/04/28/the-united-states-needs-to-learn-how-to-learn/)
-- [A theory of how developers seek information](https://web.eecs.utk.edu/~azh/blog/informationforaging.html)
+- [The United States needs to learn how to learn](https://pedestrianobservations.com/2021/04/28/the-united-states-needs-to-learn-how-to-learn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
