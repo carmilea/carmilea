@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Soaring lumber prices add $36,000 to the cost of a new home](https://www.cnbc.com/2021/04/30/soaring-lumber-prices-add-36000-to-the-cost-of-a-new-home.html)
-- [Darktrace Jumps 40% on IPO](https://www.sharesmagazine.co.uk/news/shares/darktrace-jumps-40-on-debut-as-investors-not-put-off-tech-ipos-by-deliveroo)
+- [How to Write an Equality Method in Java (2009)](https://www.artima.com/lejava/articles/equality.html)
 - [Taiwan bans recruitment for jobs in China to combat brain drain](https://asia.nikkei.com/Business/Tech/Semiconductors/Taiwan-bans-recruitment-for-jobs-in-China-to-combat-brain-drain)
-- [I've tried to explain to non-tech friends how rich people in tech are getting](https://twitter.com/kevinroose/status/1388172453633953794)
 - [Compose.ai (YC W21) Is Hiring](https://www.workatastartup.com/companies/compose-ai)
+- [Ask HN: How did you transition from FTE to self-employed/sole proprietor?](https://news.ycombinator.com/item?id=26995874)
+- [I’m now in charge of Audacity [video]](https://www.youtube.com/watch?v=RMWNvwLiXIQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
