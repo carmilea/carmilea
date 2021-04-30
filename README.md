@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Implicit In-order Forests: Zooming a billion trace events at 60fps](https://thume.ca/2021/03/14/iforests/)
+- [October CMS as you know it is Dead](https://wintercms.com/blog/post/october-cms-you-know-it-dead)
+- [BuildZoom (better way to build custom homes) is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [Show HN: Second-Chance Pool](https://news.ycombinator.com/pool)
 - [“About one-third of Basecamp employees accepted buyouts today”](https://twitter.com/CaseyNewton/status/1388212468510380034)
-- [FB JavaScript SDK down](https://developers.facebook.com/status/issues/492652922187445/)
-- [Space Cloud: Open-Source Firebase and Heroku on Kubernetes](https://github.com/spaceuptech/space-cloud)
 <!-- BLOG-POST-LIST:END -->
 
 ---
