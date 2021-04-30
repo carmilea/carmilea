@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [Show HN: Second-Chance Pool](https://news.ycombinator.com/pool)
+- [“About one-third of Basecamp employees accepted buyouts today”](https://twitter.com/CaseyNewton/status/1388212468510380034)
 - [FB JavaScript SDK down](https://developers.facebook.com/status/issues/492652922187445/)
 - [Space Cloud: Open-Source Firebase and Heroku on Kubernetes](https://github.com/spaceuptech/space-cloud)
-- [Ask HN: What are the best maintained how-to sites for Linux?](https://news.ycombinator.com/item?id=26997498)
-- [How to Write an Equality Method in Java (2009)](https://www.artima.com/lejava/articles/equality.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
