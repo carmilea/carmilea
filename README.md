@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [QEMU Version 6.0.0 Released](https://www.qemu.org/2021/04/30/qemu-6-0-0/)
 - [Spending review: what are the 3 most expensive tools/services that you use?](https://news.ycombinator.com/item?id=26990815)
+- [The Slackware Way (2012)](https://docs.slackware.com/slackware:philosophy)
+- [Horses and Sparrows: The myth of 'trickle down' economics](http://www.newmainetimes.org/articles/2012/07/30/horses-and-sparrows-myth-trickle-down-economics/)
 - [Djamo (YC W21) is hiring an remote Engineering Manager (Remote, UTC ± 3h)](https://www.ycombinator.com/companies/djamo/jobs/8wALDnM-engineering-manager)
-- [Building a Distributed Turn-Based Game System in Elixir](https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/)
-- [Beginner’s guide to mechanical keyboards](https://coolgadget.substack.com/p/beginners-guide-to-mechanical-keyboards)
 <!-- BLOG-POST-LIST:END -->
 
 ---
