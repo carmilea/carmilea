@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [European Union says Apple’s App Store breaches competition rules](https://www.cnbc.com/2021/04/30/eu-says-apples-app-store-breaches-competition-rules.html)
-- [UK and Norway fail to reach fishing deal](https://www.bbc.com/news/uk-politics-56932551)
-- [It's Arrived Now Behold the Intelligent Timing Lock](https://twitter.com/Foone/status/1387999563382857729)
-- [QEMU Version 6.0.0 Released](https://www.qemu.org/2021/04/30/qemu-6-0-0/)
-- [The Slackware Way (2012)](https://docs.slackware.com/slackware:philosophy)
+- [YouTube TV removed from Roku channel store amid Google contract dispute](https://www.axios.com/roku-youtube-tv-removed-google-5580ffdf-b865-428c-91ca-8ad83802fedf.html)
+- [Navattic (YC W21) Is Hiring a Lead Engineer](https://www.navattic.com/join-us)
+- [Perfectly Ordinary Stones, Carried for 1,300 Years](https://ishimochi.com/)
+- [Stock Market Returns Are Anything but Average](https://awealthofcommonsense.com/2021/04/stock-market-returns-are-anything-but-average/)
+- [Adobe founder Chuck Geshke obituary](https://www.nytimes.com/2021/04/20/technology/chuck-geschke-dead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
