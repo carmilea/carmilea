@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inheritance was invented as a performance hack](http://catern.com/inheritance.html)
 - [We Built Our Own DNS Infrastructure](https://blog.replit.com/dns)
 - [Lambda School lays off 65 employees](https://lambdaschool.com/the-commons/update-lambda-school-team)
-- [Habitual coffee drinkers have a distinct pattern of brain functionalconnectivity](https://www.nature.com/articles/s41380-021-01075-4)
 - [Shipping containers are falling overboard at a rapid rate](https://www.supplychainbrain.com/articles/33002-shipping-containers-are-falling-overboard-at-a-rapid-rate)
-- [The story BCG offered me $16,000 not to tell](https://thetech.com/2010/04/09/dubai-v130-n18)
+- [The story BCG offered me $16,000 not to tell (2010)](https://thetech.com/2010/04/09/dubai-v130-n18)
 <!-- BLOG-POST-LIST:END -->
 
 ---
