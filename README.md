@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [European Union says Apple’s App Store breaches competition rules](https://www.cnbc.com/2021/04/30/eu-says-apples-app-store-breaches-competition-rules.html)
+- [UK and Norway fail to reach fishing deal](https://www.bbc.com/news/uk-politics-56932551)
 - [It's Arrived Now Behold the Intelligent Timing Lock](https://twitter.com/Foone/status/1387999563382857729)
 - [QEMU Version 6.0.0 Released](https://www.qemu.org/2021/04/30/qemu-6-0-0/)
-- [Spending review: what are the 3 most expensive tools/services that you use?](https://news.ycombinator.com/item?id=26990815)
 - [The Slackware Way (2012)](https://docs.slackware.com/slackware:philosophy)
-- [Horses and Sparrows: The myth of 'trickle down' economics](http://www.newmainetimes.org/articles/2012/07/30/horses-and-sparrows-myth-trickle-down-economics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
