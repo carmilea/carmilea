@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Washington approves capital gains tax for the first time in state history](https://www.geekwire.com/2021/washington-lawmakers-approve-capital-gains-tax-first-time-state-history/)
-- [Beware HN: The rise of weaponized "abuse" reports](https://news.ycombinator.com/item?id=26995211)
-- [Everything Old Is New Again: Binary Security of WebAssembly [pdf]](https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf)
-- [SpaceX has a green light from the FAA to fly Starship on Friday](https://arstechnica.com/science/2021/04/weather-permitting-spacex-will-attempt-to-fly-starship-prototype-today/)
-- [Labor Shortage or Terrible Jobs?](https://kottke.org/21/04/labor-shortage-or-terrible-jobs)
+- [Soaring lumber prices add $36,000 to the cost of a new home](https://www.cnbc.com/2021/04/30/soaring-lumber-prices-add-36000-to-the-cost-of-a-new-home.html)
+- [Darktrace Jumps 40% on IPO](https://www.sharesmagazine.co.uk/news/shares/darktrace-jumps-40-on-debut-as-investors-not-put-off-tech-ipos-by-deliveroo)
+- [Taiwan bans recruitment for jobs in China to combat brain drain](https://asia.nikkei.com/Business/Tech/Semiconductors/Taiwan-bans-recruitment-for-jobs-in-China-to-combat-brain-drain)
+- [I've tried to explain to non-tech friends how rich people in tech are getting](https://twitter.com/kevinroose/status/1388172453633953794)
+- [Compose.ai (YC W21) Is Hiring](https://www.workatastartup.com/companies/compose-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
