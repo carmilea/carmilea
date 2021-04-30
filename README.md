@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Porter (YC S20) – Open-source Heroku in your own cloud](https://news.ycombinator.com/item?id=26993421)
+- [Google-led paper pushes back against claims of AI inefficiency](https://venturebeat.com/2021/04/29/google-led-paper-pushes-back-against-claims-of-ai-inefficiency/)
 - [A serverless email server on AWS using S3 and SES](https://github.com/0x4447/0x4447_product_s3_email)
+- [Murex shell now supports mixing SQL and shell pipelines](https://murex.rocks/docs/blog/v2.1.html)
 - [YouTube TV removed from Roku channel store amid Google contract dispute](https://www.axios.com/roku-youtube-tv-removed-google-5580ffdf-b865-428c-91ca-8ad83802fedf.html)
-- [AWS on track to be bigger than IBM by Christmas](https://www.theregister.com/2021/04/30/amazon_q1_2021/)
-- [Navattic (YC W21) Is Hiring a Lead Engineer](https://www.navattic.com/join-us)
-- [Squoosh: Make images smaller using best-in-class codecs, right in the browser](https://squoosh.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
