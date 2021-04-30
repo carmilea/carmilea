@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The 'Great Wave' has mystified art lovers for generations (2019)](https://edition.cnn.com/style/article/hokusai-great-wave-ukiyo-e-woodblock/index.html)
-- [Google's push to bring employees back to offices, some say they'll rather quit](https://www.businessinsider.com/googles-resistance-to-going-fully-remote-is-frustrating-employees-2021-4)
-- [Apple’s Notarizing](https://www.cdfinder.de/guide/blog/apple_hell.html)
-- ['It's your device, you should be able to repair it'](https://www.bbc.com/news/business-56799069)
-- [Apple reveals more about AirTag stalking protections as domestic abuse concerns](https://9to5mac.com/2021/04/30/airtag-stalking-protections/)
+- [Washington approves capital gains tax for the first time in state history](https://www.geekwire.com/2021/washington-lawmakers-approve-capital-gains-tax-first-time-state-history/)
+- [Beware HN: The rise of weaponized "abuse" reports](https://news.ycombinator.com/item?id=26995211)
+- [Everything Old Is New Again: Binary Security of WebAssembly [pdf]](https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf)
+- [SpaceX has a green light from the FAA to fly Starship on Friday](https://arstechnica.com/science/2021/04/weather-permitting-spacex-will-attempt-to-fly-starship-prototype-today/)
+- [Labor Shortage or Terrible Jobs?](https://kottke.org/21/04/labor-shortage-or-terrible-jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
