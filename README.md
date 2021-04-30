@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A serverless email server on AWS using S3 and SES](https://github.com/0x4447/0x4447_product_s3_email)
 - [YouTube TV removed from Roku channel store amid Google contract dispute](https://www.axios.com/roku-youtube-tv-removed-google-5580ffdf-b865-428c-91ca-8ad83802fedf.html)
+- [AWS on track to be bigger than IBM by Christmas](https://www.theregister.com/2021/04/30/amazon_q1_2021/)
 - [Navattic (YC W21) Is Hiring a Lead Engineer](https://www.navattic.com/join-us)
-- [Perfectly Ordinary Stones, Carried for 1,300 Years](https://ishimochi.com/)
-- [Stock Market Returns Are Anything but Average](https://awealthofcommonsense.com/2021/04/stock-market-returns-are-anything-but-average/)
-- [Adobe founder Chuck Geshke obituary](https://www.nytimes.com/2021/04/20/technology/chuck-geschke-dead.html)
+- [Squoosh: Make images smaller using best-in-class codecs, right in the browser](https://squoosh.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
