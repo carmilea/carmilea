@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Djamo (YC W21) is hiring an remote Engineering Manager (Remote, UTC ± 3h)](https://www.ycombinator.com/companies/djamo/jobs/8wALDnM-engineering-manager)
 - [Building a Distributed Turn-Based Game System in Elixir](https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/)
 - [Beginner’s guide to mechanical keyboards](https://coolgadget.substack.com/p/beginners-guide-to-mechanical-keyboards)
 - [Safari 14.1 is completely unusable](https://discussions.apple.com/thread/252705424)
 - [Credit Card Ads Targeted by Age, Violating Facebook’s Anti-Discrimination Policy](https://themarkup.org/citizen-browser/2021/04/29/credit-card-ads-were-targeted-by-age-violating-facebooks-anti-discrimination-policy)
-- [What's going on here, with this human?](https://grahamduncan.blog/whats-going-on-here/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
