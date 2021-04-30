@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Years of Squash Merge (2019)](https://blog.dnsimple.com/2019/01/two-years-of-squash-merge/)
-- [The ransomware surge](https://www.bbc.com/news/technology-56933733)
-- [San Francisco’s tech fiefdom is dying](https://www.brookfieldbrief.com/posts/san-franciscos-tech-fiefdom-is-dying)
-- [An update to our YouTube TV members on Roku](https://blog.youtube/news-and-events/update-our-youtube-tv-members-roku/)
+- [Show HN: Second-Chance Pool](https://news.ycombinator.com/pool)
+- [FB JavaScript SDK down](https://developers.facebook.com/status/issues/492652922187445/)
+- [Space Cloud: Open-Source Firebase and Heroku on Kubernetes](https://github.com/spaceuptech/space-cloud)
+- [Ask HN: What are the best maintained how-to sites for Linux?](https://news.ycombinator.com/item?id=26997498)
 - [How to Write an Equality Method in Java (2009)](https://www.artima.com/lejava/articles/equality.html)
 <!-- BLOG-POST-LIST:END -->
 
