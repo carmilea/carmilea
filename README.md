@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sagging Pants and the Long History of 'Dangerous' Street Fashion (2014)](https://www.npr.org/sections/codeswitch/2014/09/11/347143588/sagging-pants-and-the-long-history-of-dangerous-street-fashion)
+- [What's going on here, with this human?](https://grahamduncan.blog/whats-going-on-here/)
 - [Inheritance was invented as a performance hack](http://catern.com/inheritance.html)
 - [We Built Our Own DNS Infrastructure](https://blog.replit.com/dns)
-- [Lambda School lays off 65 employees](https://lambdaschool.com/the-commons/update-lambda-school-team)
 - [Shipping containers are falling overboard at a rapid rate](https://www.supplychainbrain.com/articles/33002-shipping-containers-are-falling-overboard-at-a-rapid-rate)
-- [The story BCG offered me $16,000 not to tell (2010)](https://thetech.com/2010/04/09/dubai-v130-n18)
 <!-- BLOG-POST-LIST:END -->
 
 ---
