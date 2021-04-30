@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Porter (YC S20) – Open-source Heroku in your own cloud](https://news.ycombinator.com/item?id=26993421)
-- [Google-led paper pushes back against claims of AI inefficiency](https://venturebeat.com/2021/04/29/google-led-paper-pushes-back-against-claims-of-ai-inefficiency/)
-- [A serverless email server on AWS using S3 and SES](https://github.com/0x4447/0x4447_product_s3_email)
-- [Murex shell now supports mixing SQL and shell pipelines](https://murex.rocks/docs/blog/v2.1.html)
-- [YouTube TV removed from Roku channel store amid Google contract dispute](https://www.axios.com/roku-youtube-tv-removed-google-5580ffdf-b865-428c-91ca-8ad83802fedf.html)
+- [The 'Great Wave' has mystified art lovers for generations (2019)](https://edition.cnn.com/style/article/hokusai-great-wave-ukiyo-e-woodblock/index.html)
+- [Google's push to bring employees back to offices, some say they'll rather quit](https://www.businessinsider.com/googles-resistance-to-going-fully-remote-is-frustrating-employees-2021-4)
+- [Apple’s Notarizing](https://www.cdfinder.de/guide/blog/apple_hell.html)
+- ['It's your device, you should be able to repair it'](https://www.bbc.com/news/business-56799069)
+- [Apple reveals more about AirTag stalking protections as domestic abuse concerns](https://9to5mac.com/2021/04/30/airtag-stalking-protections/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
