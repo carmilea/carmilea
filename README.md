@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Chia cryptocurrency – and why is it bad news for hard drives?](https://www.tomsguide.com/news/what-is-chia-cryptocurrency-and-why-is-it-bad-news-for-hard-drives)
 - [Sirum (YC W15) is hiring: join a fast-growing, mission-driven healthcare team](https://www.sirum.org/about#careers)
-- [Your Car Is About To Be a Software Platform, Subscriptions and All](https://www.bloomberg.com/news/articles/2021-05-01/your-car-is-about-to-be-a-software-platform-subscriptions-and-all)
+- [The 7 Powers Known to Tesla, Pixar, Netflix, Apple, and Twilio](https://www.nfx.com/post/seven-powers)
+- [EmuTOS: A Free OS for computers based on M68K processors including the Atari ST](https://emutos.sourceforge.io/)
 - [Fediverse.Party – Explore Federated Networks](https://fediverse.party/en/miscellaneous)
-- [Torvalds: Shared libraries are not a good thing in general](https://lore.kernel.org/lkml/CAHk-=whs8QZf3YnifdLv57+FhBi5_WeNTG1B-suOES=RcUSmQg@mail.gmail.com/)
-- [Types of Robotics Papers](https://twitter.com/rosorg/status/1388280173036904449)
 <!-- BLOG-POST-LIST:END -->
 
 ---
