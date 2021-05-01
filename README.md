@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney gets special “theme park” exception to Florida’s anti-tech bill](https://arstechnica.com/tech-policy/2021/04/new-florida-law-banning-tech-from-deplatforming-politicians-is-a-mess/)
+- [P&G Flocculant/Disinfectant Powder](https://www.cdc.gov/safewater/flocculant-filtration.html)
 - [SSD Makers Start Warning That Mining Products Like Chia Coin Will Void Warranty](https://www.guru3d.com/news-story/ssd-makers-start-waring-that-mining-products-like-chia-coin-will-void-warranty.html)
 - [Legal documents from the Philippines government have been exposed online](https://restofworld.org/2021/philippines-data-exposure/)
+- [Florida plans to fine social media for banning politicians](https://www.bbc.co.uk/news/technology-56952435)
 - [OpenBSD Version 6.9](https://www.openbsd.org/69.html)
-- [New x86 micro-op vulnerability breaks all known Spectre defenses](https://www.sciencedaily.com/releases/2021/04/210430165903.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
