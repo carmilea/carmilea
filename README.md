@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts on a “HDD shortage” from an industry insider](https://www.reddit.com/r/chia/comments/n2lren/thoughts_on_a_hdd_shortage_from_an_industry/)
+- [Monotremes](https://en.wikipedia.org/wiki/Monotreme)
+- [Google’s Plan for the Future of Work: Privacy Robots and Balloon Walls](https://www.nytimes.com/2021/04/30/technology/google-back-to-office-workers.html)
 - [Puzzl (YC S19) Is Hiring for Technical Fintech Roles](https://www.notion.so/Work-at-Puzzl-5445fc3614eb43fbbb2087a7b713a697)
 - [Show HN: List of apps people pay for but have low rating](http://ideasfilter.com/)
-- [Why software engineers don't write documentation – it's bloody hard](https://kislayverma.com/programming/why-programmers-dont-write-documentation/)
-- [Edward Snowden ousts a scammer during live stream [video]](https://www.youtube.com/watch?v=Hv3UC4lz3oQ)
-- [I need to explain to you just how dire America's Pokémon card crisis is](https://www.vice.com/en/article/7kv9a9/pokemon-cards-psa-cgc-bgs-turnaround-times)
 <!-- BLOG-POST-LIST:END -->
 
 ---
