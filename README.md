@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why software engineers don't write documentation – it's bloody hard](https://kislayverma.com/programming/why-programmers-dont-write-documentation/)
+- [Why is India having a Covid-19 surge?](https://www.bmj.com/content/373/bmj.n1124)
+- [Edward Snowden ousts a scammer during live stream [video]](https://www.youtube.com/watch?v=Hv3UC4lz3oQ)
 - [I Need to Explain to You Just How Dire America's Pokémon Card Crisis Is](https://www.vice.com/en/article/7kv9a9/pokemon-cards-psa-cgc-bgs-turnaround-times)
-- [Ask HN: How Long Is Your CI Process?](https://news.ycombinator.com/item?id=27006465)
-- [Linux Hypervisor Setup (Libvirt/QEMU/KVM)](https://octetz.com/docs/2020/2020-05-06-linux-hypervisor-setup/)
-- [She built a toy empire while hiding a lifetime of existential depression](https://www.washingtonpost.com/lifestyle/style/melissa-and-doug-toys-founder-depression/2021/04/26/8d4af4be-7ba7-11eb-85cd-9b7fa90c8873_story.html)
-- [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Readme.so – Easiest Way to Create a Readme](https://readme.so/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
