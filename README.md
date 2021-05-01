@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Piano teacher gets copyright claim for playing Beethoven's Moonlight Sonata](https://www.youtube.com/watch?v=WcyOxtkafMs)
+- [Haters (2020)](http://paulgraham.com/fh.html)
+- [Audacity Aquired by Muse Group](https://www.scoringnotes.com/news/muse-group-formed-to-support-musescore-ultimate-guitar-acquires-audacity/)
+- [Piano teacher gets copyright claim for Beethoven’s Moonlight Sonata [video]](https://www.youtube.com/watch?v=WcyOxtkafMs)
 - [Louis Rossmann: A Conversation with Steve Lehto on Right to Repair](https://www.youtube.com/watch?v=9sHbaGuSuck)
-- [Cancel culture, Twitter trendings and radical transparency](https://blog.luap.info/cancel-culture-twitter-trendings-and-radical-transparency.html)
-- [India’s second wave of covid-19 feels nothing like its first](https://www.economist.com/diary/2021/04/30/indias-second-wave-of-covid-19-feels-nothing-like-its-first)
-- [So I finally sorted out what happened to my brain](https://twitter.com/TinkerSec/status/1388107620574171140)
+- [John Tiller Has Died](https://johntillersoftware.com/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
