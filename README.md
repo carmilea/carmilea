@@ -54,7 +54,7 @@
 - [India’s second wave of covid-19 feels nothing like its first](https://www.economist.com/diary/2021/04/30/indias-second-wave-of-covid-19-feels-nothing-like-its-first)
 - [So I finally sorted out what happened to my brain](https://twitter.com/TinkerSec/status/1388107620574171140)
 - [Flocculant/Disinfectant Powder](https://www.cdc.gov/safewater/flocculant-filtration.html)
-- [Redbean/0.4](http://redbean.justine.lol/)
+- [Redbean 0.4](http://redbean.justine.lol/)
 - [SSD Makers Start Warning That Mining Products Like Chia Coin Will Void Warranty](https://www.guru3d.com/news-story/ssd-makers-start-waring-that-mining-products-like-chia-coin-will-void-warranty.html)
 <!-- BLOG-POST-LIST:END -->
 
