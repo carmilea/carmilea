@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - [Don't wait for the government to fix surveillance capitalism](https://consult.sauvik.me/posts/surveillance-capitalism-grassroots/)
-- [Ask HN: Pros and Cons of Switching from Linux to M1 MacBook](https://news.ycombinator.com/item?id=27005357)
-- [DevUI Admin v1.0.0 Released, based on Angular 11, Welcome to join us if you like](https://devui.design/admin-page/home)
 - [Do we have a moral obligation to live for as long as possible?](https://theconversation.com/do-we-have-a-moral-obligation-to-live-for-as-long-as-possible-130324)
+- [Haters (2020)](http://paulgraham.com/fh.html)
+- [The Psychology of Design](https://growth.design/psychology/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
