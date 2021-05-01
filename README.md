@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Puzzl (YC S19) Is Hiring for Technical Fintech Roles](https://www.notion.so/Work-at-Puzzl-5445fc3614eb43fbbb2087a7b713a697)
+- [Show HN: List of apps people pay for but have low rating](http://ideasfilter.com/)
 - [Why software engineers don't write documentation – it's bloody hard](https://kislayverma.com/programming/why-programmers-dont-write-documentation/)
-- [Why is India having a Covid-19 surge?](https://www.bmj.com/content/373/bmj.n1124)
 - [Edward Snowden ousts a scammer during live stream [video]](https://www.youtube.com/watch?v=Hv3UC4lz3oQ)
-- [I Need to Explain to You Just How Dire America's Pokémon Card Crisis Is](https://www.vice.com/en/article/7kv9a9/pokemon-cards-psa-cgc-bgs-turnaround-times)
-- [Readme.so – Easiest Way to Create a Readme](https://readme.so/)
+- [I need to explain to you just how dire America's Pokémon card crisis is](https://www.vice.com/en/article/7kv9a9/pokemon-cards-psa-cgc-bgs-turnaround-times)
 <!-- BLOG-POST-LIST:END -->
 
 ---
