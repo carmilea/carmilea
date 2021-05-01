@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Types of Robotics Papers](https://twitter.com/rosorg/status/1388280173036904449)
+- [I See Dead µops: Leaking Secrets via Intel/AMD Micro-Op Caches [pdf]](https://www.cs.virginia.edu/venkat/papers/isca2021a.pdf)
 - [Thoughts on a “HDD shortage” from an industry insider](https://www.reddit.com/r/chia/comments/n2lren/thoughts_on_a_hdd_shortage_from_an_industry/)
-- [Monotremes](https://en.wikipedia.org/wiki/Monotreme)
 - [Google’s Plan for the Future of Work: Privacy Robots and Balloon Walls](https://www.nytimes.com/2021/04/30/technology/google-back-to-office-workers.html)
 - [Puzzl (YC S19) Is Hiring for Technical Fintech Roles](https://www.notion.so/Work-at-Puzzl-5445fc3614eb43fbbb2087a7b713a697)
-- [Show HN: List of apps people pay for but have low rating](http://ideasfilter.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
