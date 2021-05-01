@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Chia cryptocurrency – and why is it bad news for hard drives?](https://www.tomsguide.com/news/what-is-chia-cryptocurrency-and-why-is-it-bad-news-for-hard-drives)
-- [Sirum (YC W15) is hiring: join a fast-growing, mission-driven healthcare team](https://www.sirum.org/about#careers)
-- [The 7 Powers Known to Tesla, Pixar, Netflix, Apple, and Twilio](https://www.nfx.com/post/seven-powers)
-- [EmuTOS: A Free OS for computers based on M68K processors including the Atari ST](https://emutos.sourceforge.io/)
-- [Fediverse.Party – Explore Federated Networks](https://fediverse.party/en/miscellaneous)
+- [Will Linux Phones stay around this time?](https://linmob.net/will-linux-phones-stay-around-this-time/)
+- [Dutch couple move into Europe’s first fully 3D-printed house](https://www.theguardian.com/technology/2021/apr/30/dutch-couple-move-into-europe-first-fully-3d-printed-house-eindhoven)
+- [Turn GitHub into an RSS Reader](https://github.com/osmoscraft/osmosfeed)
+- [The Tragic Story of the Creator of Oswald and Pacifico Fonts](https://chrisgliddon.com/the-tragic-story-of-vernon-and-oswald-7540fa359509)
+- [Longest pedestrian suspension bridge opens in Portugal](https://www.reuters.com/lifestyle/oddly-enough/high-anxiety-worlds-longest-pedestrian-suspension-bridge-opens-portugal-2021-04-29/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
