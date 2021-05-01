@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s second wave of covid-19 feels nothing like its first](https://www.economist.com/diary/2021/04/30/indias-second-wave-of-covid-19-feels-nothing-like-its-first)
+- [So I finally sorted out what happened to my brain](https://twitter.com/TinkerSec/status/1388107620574171140)
 - [P&G Flocculant/Disinfectant Powder](https://www.cdc.gov/safewater/flocculant-filtration.html)
+- [Redbean/0.4](http://redbean.justine.lol/)
 - [SSD Makers Start Warning That Mining Products Like Chia Coin Will Void Warranty](https://www.guru3d.com/news-story/ssd-makers-start-waring-that-mining-products-like-chia-coin-will-void-warranty.html)
-- [Legal documents from the Philippines government have been exposed online](https://restofworld.org/2021/philippines-data-exposure/)
-- [Florida plans to fine social media for banning politicians](https://www.bbc.co.uk/news/technology-56952435)
-- [OpenBSD Version 6.9](https://www.openbsd.org/69.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
