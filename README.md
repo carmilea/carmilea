@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Piano teacher gets copyright claim for playing Beethoven's Moonlight Sonata](https://www.youtube.com/watch?v=WcyOxtkafMs)
 - [How the N-Word Became Unsayable](https://www.nytimes.com/2021/04/30/opinion/john-mcwhorter-n-word-unsayable.html)
+- [John Tiller Has Died](https://johntillersoftware.com/index.html)
 - [India’s second wave of covid-19 feels nothing like its first](https://www.economist.com/diary/2021/04/30/indias-second-wave-of-covid-19-feels-nothing-like-its-first)
 - [So I finally sorted out what happened to my brain](https://twitter.com/TinkerSec/status/1388107620574171140)
-- [Flocculant/Disinfectant Powder](https://www.cdc.gov/safewater/flocculant-filtration.html)
-- [Redbean 0.4](http://redbean.justine.lol/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
