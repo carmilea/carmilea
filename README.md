@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Piano teacher gets copyright claim for playing Beethoven's Moonlight Sonata](https://www.youtube.com/watch?v=WcyOxtkafMs)
-- [How the N-Word Became Unsayable](https://www.nytimes.com/2021/04/30/opinion/john-mcwhorter-n-word-unsayable.html)
-- [John Tiller Has Died](https://johntillersoftware.com/index.html)
+- [Louis Rossmann: A Conversation with Steve Lehto on Right to Repair](https://www.youtube.com/watch?v=9sHbaGuSuck)
+- [Cancel culture, Twitter trendings and radical transparency](https://blog.luap.info/cancel-culture-twitter-trendings-and-radical-transparency.html)
 - [India’s second wave of covid-19 feels nothing like its first](https://www.economist.com/diary/2021/04/30/indias-second-wave-of-covid-19-feels-nothing-like-its-first)
 - [So I finally sorted out what happened to my brain](https://twitter.com/TinkerSec/status/1388107620574171140)
 <!-- BLOG-POST-LIST:END -->
