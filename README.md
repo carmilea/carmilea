@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenBSD Version 6.9](https://www.openbsd.org/69.html)
 - [New x86 micro-op vulnerability breaks all known Spectre defenses](https://www.sciencedaily.com/releases/2021/04/210430165903.htm)
-- [Making Generative Art with Rust](https://blog.abor.dev/p/making-generative-art-with-rust?r=jx6d6&utm_campaign=post&utm_medium=web&utm_source=hackernews)
-- [Let's get Right to Repair passed](https://gofund.me/1cba2545)
+- [Making Generative Art with Rust](https://blog.abor.dev/p/making-generative-art-with-rust)
 - [Implicit In-order Forests: Zooming a billion trace events at 60fps](https://thume.ca/2021/03/14/iforests/)
 - [October CMS as you know it is dead](https://wintercms.com/blog/post/october-cms-you-know-it-dead)
 <!-- BLOG-POST-LIST:END -->
