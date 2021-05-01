@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux Hypervisor Setup (libvirt/QEMU/KVM)](https://octetz.com/docs/2020/2020-05-06-linux-hypervisor-setup/)
 - [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Don't wait for the government to fix surveillance capitalism](https://consult.sauvik.me/posts/surveillance-capitalism-grassroots/)
 - [Do we have a moral obligation to live for as long as possible?](https://theconversation.com/do-we-have-a-moral-obligation-to-live-for-as-long-as-possible-130324)
 - [Haters (2020)](http://paulgraham.com/fh.html)
 - [The Psychology of Design](https://growth.design/psychology/)
