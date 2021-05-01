@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sirum (YC W15) is hiring: join a fast-growing, mission-driven healthcare team](https://www.sirum.org/about#careers)
+- [Your Car Is About To Be a Software Platform, Subscriptions and All](https://www.bloomberg.com/news/articles/2021-05-01/your-car-is-about-to-be-a-software-platform-subscriptions-and-all)
+- [Fediverse.Party – Explore Federated Networks](https://fediverse.party/en/miscellaneous)
+- [Torvalds: Shared libraries are not a good thing in general](https://lore.kernel.org/lkml/CAHk-=whs8QZf3YnifdLv57+FhBi5_WeNTG1B-suOES=RcUSmQg@mail.gmail.com/)
 - [Types of Robotics Papers](https://twitter.com/rosorg/status/1388280173036904449)
-- [Show HN: Segmentel – Let AI segment videos for you](http://www.segmentel.com)
-- [The Story Of One Whale Who Tried to Mimic Human Speech (2014)](https://www.smithsonianmag.com/science-nature/story-one-whale-who-tried-bridge-linguistic-divide-between-animals-humans-180951437/)
-- [I See Dead µops: Leaking Secrets via Intel/AMD Micro-Op Caches [pdf]](https://www.cs.virginia.edu/venkat/papers/isca2021a.pdf)
-- [Thoughts on a “HDD shortage” from an industry insider](https://www.reddit.com/r/chia/comments/n2lren/thoughts_on_a_hdd_shortage_from_an_industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
