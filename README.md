@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Hypervisor Setup (libvirt/QEMU/KVM)](https://octetz.com/docs/2020/2020-05-06-linux-hypervisor-setup/)
+- [I Need to Explain to You Just How Dire America's Pokémon Card Crisis Is](https://www.vice.com/en/article/7kv9a9/pokemon-cards-psa-cgc-bgs-turnaround-times)
+- [Ask HN: How Long Is Your CI Process?](https://news.ycombinator.com/item?id=27006465)
+- [Linux Hypervisor Setup (Libvirt/QEMU/KVM)](https://octetz.com/docs/2020/2020-05-06-linux-hypervisor-setup/)
+- [She built a toy empire while hiding a lifetime of existential depression](https://www.washingtonpost.com/lifestyle/style/melissa-and-doug-toys-founder-depression/2021/04/26/8d4af4be-7ba7-11eb-85cd-9b7fa90c8873_story.html)
 - [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Do we have a moral obligation to live for as long as possible?](https://theconversation.com/do-we-have-a-moral-obligation-to-live-for-as-long-as-possible-130324)
-- [Haters (2020)](http://paulgraham.com/fh.html)
-- [The Psychology of Design](https://growth.design/psychology/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
