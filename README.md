@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SARS-CoV-2 Spike Protein Impairs Endothelial Function via Downregulation of ACE2](https://www.ahajournals.org/doi/full/10.1161/CIRCRESAHA.121.318902)
-- [The Honest Troubleshooting Code of Conduct](http://rachelbythebay.com/w/2021/05/01/code/)
-- [Amiga Emulator for ARM Boards](https://github.com/midwan/amiberry)
-- [iFixit: AirTag teardown](https://www.ifixit.com/News/50145/airtag-teardown-part-one-yeah-this-tracks)
-- [Predictive Coding Approximates Backprop Along Arbitrary Computation Graphs (2020)](https://arxiv.org/abs/2006.04182)
+- [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
+- [Hosting SQLite databases on GitHub Pages (or any static file hoster)](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
+- [MCL65 World’s Fastest Apple II+](https://microcorelabs.wordpress.com/2021/01/08/mcl65-worlds-fastest-apple-ii/)
+- [What Is Salesforce](https://retool.com/blog/salesforce-for-engineers/)
+- [Executives don’t decide if the company culture is good. Employees do](https://warzel.substack.com/p/executives-dont-decide-if-the-company)
 <!-- BLOG-POST-LIST:END -->
 
 ---
