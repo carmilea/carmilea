@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If you search for Emacs in Google, it responds with: Did you mean: vi](https://twitter.com/vimgeek/status/1388919593930952710)
-- [Designing a guitar with hot-swappable pickups](https://www.staycaffeinated.com/2021/05/02/designing-a-guitar-with-hot-swappable-pickups)
-- [We’re on track to set a new record for global meat consumption](https://www.technologyreview.com/2021/04/26/1023636/sustainable-meat-livestock-production-climate-change/)
-- [The FTC is seeking public comment on the subject of Dark Patterns in software](https://www.regulations.gov/document/FTC-2021-0019-0001/comment)
-- [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
+- [Tesla Continues to Walk Back Full Self-Driving Claims](https://mindmatters.ai/2021/04/tesla-continues-to-walk-back-full-self-driving-claims/)
+- [Principal Component Analysis Explained Visually](https://setosa.io/ev/principal-component-analysis/)
+- [The $4B App That Doesn’t Value Privacy, Security or Accessibility](https://www.cigionline.org/articles/4-billion-app-doesnt-value-privacy-security-or-accessibility)
+- [One Year of TILs](https://simonwillison.net/2021/May/2/one-year-of-tils/)
+- [Zuckerberg Gobbles Up Another Big Chunk of Hawaii Beachfront](https://news.yahoo.com/zuckerberg-gobbles-another-big-chunk-193106430.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
