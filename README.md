@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iFixit: AirTag teardown](https://www.ifixit.com/News/50145/airtag-teardown-part-one-yeah-this-tracks)
+- [Pimp My Microwave](https://github.com/dekuNukem/pimp_my_microwave)
+- [What3Words – The Algorithm](https://cybergibbons.com/security-2/what3words-the-algorithm/)
 - [I Used to Write for Sports Illustrated. Now I Deliver Packages for Amazon (2018)](https://www.theatlantic.com/ideas/archive/2018/12/what-its-like-to-deliver-packages-for-amazon/578986/)
 - [The Linux kernel has surpassed one million git commits](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/)
-- [OpenPhone (YC S18) Is Hiring Engineers and PMs](https://openphone.co/)
-- [Bob Cassette Rewinder: Hacking Detergent DRM](https://github.com/dekuNukem/bob_cassette_rewinder)
-- [Ignoring Docker updates is a paid feature now?](https://twitter.com/moyix/status/1388586550682861568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
