@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If you search for Emacs in Google, it responds with: Did you mean: vi](https://twitter.com/vimgeek/status/1388919593930952710)
+- [Designing a guitar with hot-swappable pickups](https://www.staycaffeinated.com/2021/05/02/designing-a-guitar-with-hot-swappable-pickups)
+- [We’re on track to set a new record for global meat consumption](https://www.technologyreview.com/2021/04/26/1023636/sustainable-meat-livestock-production-climate-change/)
+- [The FTC is seeking public comment on the subject of Dark Patterns in software](https://www.regulations.gov/document/FTC-2021-0019-0001/comment)
 - [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
-- [Hosting SQLite databases on GitHub Pages (or any static file hoster)](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
-- [MCL65 World’s Fastest Apple II+](https://microcorelabs.wordpress.com/2021/01/08/mcl65-worlds-fastest-apple-ii/)
-- [What Is Salesforce](https://retool.com/blog/salesforce-for-engineers/)
-- [Executives don’t decide if the company culture is good. Employees do](https://warzel.substack.com/p/executives-dont-decide-if-the-company)
 <!-- BLOG-POST-LIST:END -->
 
 ---
