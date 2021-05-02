@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [SciteQt: A Port of the SciTE Editor to Qt/Quick – Android App and WASM available](https://github.com/mneuroth/SciTEQt)
+- [Negative interest: Danske Bank changes threshold for personal customers](https://danskebank.com/news-and-insights/news-archive/press-releases/2021/pr26042021)
 - [SkyTransfer – Free, Open-Source, Decentralized and Encrypted File-Sharing](https://skytransfer.hns.siasky.net/#/)
 - [Principal Component Analysis Explained Visually](https://setosa.io/ev/principal-component-analysis/)
-- [The $4B App That Doesn’t Value Privacy, Security or Accessibility](https://www.cigionline.org/articles/4-billion-app-doesnt-value-privacy-security-or-accessibility)
-- [One Year of TILs](https://simonwillison.net/2021/May/2/one-year-of-tils/)
-- [Designing a guitar with hot-swappable pickups](https://www.staycaffeinated.com/2021/05/02/designing-a-guitar-with-hot-swappable-pickups)
 <!-- BLOG-POST-LIST:END -->
 
 ---
