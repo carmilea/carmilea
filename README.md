@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Avo (YC W19) Is Hiring an Account Executive](https://app.beapplied.com/apply/mortet0smh)
+- [Michigan asphalt company paves first US public roads containing recycled plastic](https://www.secondwavemedia.com/epicenter/features/local-asphalt-company-paves-recycled-plastic-roads.aspx)
 - [Steve Finberg, W1GSL, SK](https://wma.arrl.org/blog/2021/04/26/steve-finberg-w1gsl-sk/)
 - [The Ball and Supply Chain](https://puri.sm/posts/the-ball-and-supply-chain/)
 - [Bringing GNU Emacs to Native Code (2020)](https://arxiv.org/abs/2004.02504)
-- [California appeals court finds Amazon responsible for 3rd party sellers products](https://www.theverge.com/2021/5/1/22414185/california-appeals-court-amazon-marketplace-responsible-third-party-hoverboard)
-- [The compiler will optimize that away](https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
