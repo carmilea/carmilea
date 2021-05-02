@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Charlie Munger calls BTC disgusting and contrary to the interest of civilization](https://www.cnbc.com/2021/05/01/charlie-munger-calls-bitcoin-disgusting-and-contrary-to-the-interests-of-civilization.html)
-- [Bob Rewinder: Hacking Dishwasher Detergent DRM for 98.7% Cost Saving](https://github.com/dekuNukem/bob_cassette_rewinder)
+- [OpenPhone (YC S18) Is Hiring Engineers and PMs](https://openphone.co/)
+- [Bob Cassette Rewinder: Hacking Detergent DRM](https://github.com/dekuNukem/bob_cassette_rewinder)
+- [Ignoring Docker updates is a paid feature now?](https://twitter.com/moyix/status/1388586550682861568)
 - [Havana syndrome: NSA officer’s case hints at microwave attacks since 90s](https://www.theguardian.com/world/2021/may/02/havana-syndrome-nsa-officer-microwave-attacks-since-90s)
-- [Avo (YC W19) Is Hiring an Account Executive](https://app.beapplied.com/apply/mortet0smh)
 - [Michigan asphalt company paves first US public roads containing recycled plastic](https://www.secondwavemedia.com/epicenter/features/local-asphalt-company-paves-recycled-plastic-roads.aspx)
 <!-- BLOG-POST-LIST:END -->
 
