@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Will Linux Phones stay around this time?](https://linmob.net/will-linux-phones-stay-around-this-time/)
-- [Dutch couple move into Europe’s first fully 3D-printed house](https://www.theguardian.com/technology/2021/apr/30/dutch-couple-move-into-europe-first-fully-3d-printed-house-eindhoven)
-- [Turn GitHub into an RSS Reader](https://github.com/osmoscraft/osmosfeed)
-- [The Tragic Story of the Creator of Oswald and Pacifico Fonts](https://chrisgliddon.com/the-tragic-story-of-vernon-and-oswald-7540fa359509)
-- [Longest pedestrian suspension bridge opens in Portugal](https://www.reuters.com/lifestyle/oddly-enough/high-anxiety-worlds-longest-pedestrian-suspension-bridge-opens-portugal-2021-04-29/)
+- [California appeals court finds Amazon responsible for 3rd party sellers products](https://www.theverge.com/2021/5/1/22414185/california-appeals-court-amazon-marketplace-responsible-third-party-hoverboard)
+- [Comparative assessments of dietary sugars on cognitive performance (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0031938417304328)
+- [Elevator Sabbath service mode (SHO)](https://elevation.fandom.com/wiki/Sabbath_service_(SHO))
+- [Google I|O 2021 and Uncomfortable Questions](https://commonsware.com/blog/2021/05/01/google-io-2021-uncomfortable-questions.html)
+- [Mars Ingenuity helicopter mission extended by NASA](https://www.bbc.com/news/science-environment-56951752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
