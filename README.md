@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dissecting the Apple M1 GPU, Part IV](https://rosenzweig.io/blog/asahi-gpu-part-4.html)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 - [SciteQt: A Port of the SciTE Editor to Qt/Quick – Android App and WASM available](https://github.com/mneuroth/SciTEQt)
 - [The Alameda-Weehawken Burrito Tunnel (2007)](https://idlewords.com/2007/04/the_alameda_weehawken_burrito_tunnel.htm)
 - [SkyTransfer – Free, Open-Source, Decentralized and Encrypted File-Sharing](https://skytransfer.hns.siasky.net/#/)
-- [Principal Component Analysis Explained Visually](https://setosa.io/ev/principal-component-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
