@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
 - [SciteQt: A Port of the SciTE Editor to Qt/Quick – Android App and WASM available](https://github.com/mneuroth/SciTEQt)
-- [Negative interest: Danske Bank changes threshold for personal customers](https://danskebank.com/news-and-insights/news-archive/press-releases/2021/pr26042021)
+- [The Alameda-Weehawken Burrito Tunnel (2007)](https://idlewords.com/2007/04/the_alameda_weehawken_burrito_tunnel.htm)
 - [SkyTransfer – Free, Open-Source, Decentralized and Encrypted File-Sharing](https://skytransfer.hns.siasky.net/#/)
 - [Principal Component Analysis Explained Visually](https://setosa.io/ev/principal-component-analysis/)
 <!-- BLOG-POST-LIST:END -->
