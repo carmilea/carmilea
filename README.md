@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Used to Write for Sports Illustrated. Now I Deliver Packages for Amazon (2018)](https://www.theatlantic.com/ideas/archive/2018/12/what-its-like-to-deliver-packages-for-amazon/578986/)
+- [The Linux kernel has surpassed one million git commits](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/)
 - [OpenPhone (YC S18) Is Hiring Engineers and PMs](https://openphone.co/)
 - [Bob Cassette Rewinder: Hacking Detergent DRM](https://github.com/dekuNukem/bob_cassette_rewinder)
 - [Ignoring Docker updates is a paid feature now?](https://twitter.com/moyix/status/1388586550682861568)
-- [Havana syndrome: NSA officer’s case hints at microwave attacks since 90s](https://www.theguardian.com/world/2021/may/02/havana-syndrome-nsa-officer-microwave-attacks-since-90s)
-- [Michigan asphalt company paves first US public roads containing recycled plastic](https://www.secondwavemedia.com/epicenter/features/local-asphalt-company-paves-recycled-plastic-roads.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
