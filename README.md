@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When does the country get back to normal?](https://philip.greenspun.com/blog/2021/05/01/coronapanic-when-does-country-get-back-to-normal/)
 - [Indian scientists flag virus mutations that could ‘evade immune response’](https://www.reuters.com/world/india/indian-scientists-flag-virus-mutations-that-could-evade-immune-response-2021-05-01/)
 - [The Ball and Supply Chain](https://puri.sm/posts/the-ball-and-supply-chain/)
 - [Using libgccjit to make Emacs 2.3x to 42x faster [pdf] (2020)](https://arxiv.org/abs/2004.02504)
 - [California appeals court finds Amazon responsible for 3rd party sellers products](https://www.theverge.com/2021/5/1/22414185/california-appeals-court-amazon-marketplace-responsible-third-party-hoverboard)
+- [Comparative assessments of dietary sugars on cognitive performance (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0031938417304328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
