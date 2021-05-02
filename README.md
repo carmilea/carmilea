@@ -54,7 +54,7 @@
 - [Avo (YC W19) Is Hiring an Account Executive](https://app.beapplied.com/apply/mortet0smh)
 - [Michigan asphalt company paves first US public roads containing recycled plastic](https://www.secondwavemedia.com/epicenter/features/local-asphalt-company-paves-recycled-plastic-roads.aspx)
 - [Steve Finberg, W1GSL, SK](https://wma.arrl.org/blog/2021/04/26/steve-finberg-w1gsl-sk/)
-- [Python vs. Common Lisp](https://lisp-journey.gitlab.io/pythonvslisp/)
+- [Python vs Common Lisp, workflow and ecosystem (2019)](https://lisp-journey.gitlab.io/pythonvslisp/)
 - [The Ball and Supply Chain](https://puri.sm/posts/the-ball-and-supply-chain/)
 <!-- BLOG-POST-LIST:END -->
 
