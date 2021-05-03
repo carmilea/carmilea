@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stack on a Budget (Free Tier Driven Development FTDD)](https://github.com/255kb/stack-on-a-budget)
-- [The End of (Google) AMP](https://www.lafoo.com/the-end-of-amp/?twclid=11389086688677404673)
+- [Rust's Most Unrecognized Contributor](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor)
+- [Stack on a Budget – A collection of services with free tiers](https://github.com/255kb/stack-on-a-budget)
+- [The End of AMP](https://www.lafoo.com/the-end-of-amp/?twclid=11389086688677404673)
 - [Bootstrapping an Amiga without a bootable floppy](https://www.rvalles.net/bootstrapping-an-amiga-without-a-bootable-amiga-floppy.html)
 - [Co-founder of Neuralink leaves the company](https://www.engadget.com/co-founder-leaves-elon-musk-neuralink-164856798.html)
-- [What3Words sends legal threat to security researcher for sharing an alternative](https://techcrunch.com/2021/04/30/what3words-legal-threat-whatfreewords/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
