@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mux (YC W16) is hiring full-stack developers to focus on Elixir and TS/React apps](https://mux.com/jobs?hnj=full-stack)
-- [Liberalizing Land Use Regulations: The Case of Houston](https://www.mercatus.org/publications/urban-economics/liberalizing-land-use-regulations-case-houston)
-- [Canadian 'sign war' captivates the internet](https://www.bbc.com/news/world-us-canada-56972907)
-- [Michael Lewis' 'The Premonition' Is a Sweeping Indictment of the CDC](https://www.npr.org/2021/05/03/991570372/michael-lewis-the-premonition-is-a-sweeping-indictment-of-the-cdc)
-- [Highres Spectrograms with the DFT Shift Theorem](https://soundshader.github.io/hss/gallery/index.html)
+- [Andrew Ng says ML may work on test sets, but is a long way from real-world use](https://spectrum.ieee.org/view-from-the-valley/artificial-intelligence/machine-learning/andrew-ng-xrays-the-ai-hype)
+- [Back in 1993, I was taking a number theory class](https://twitter.com/EricLengyel/status/1389106103179378689)
+- [Show HN: ReplPad – Repl/Scratchpad](https://replpad.com/)
+- [Ask HN: Can GitHub be accessed through console-only for entire workflow?](https://news.ycombinator.com/item?id=27031173)
+- [Apple Watch Likely to Gain BP, Blood Glucose, and Blood Alcohol Monitoring](https://www.macrumors.com/2021/05/03/apple-watch-blood-pressure-glucose-alcohol/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
