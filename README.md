@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1 in 5 EV owners in California switched back to gas because charging is a hassle](https://www.businessinsider.com/electric-car-owners-switching-gas-charging-a-hassle-study-2021-4)
+- [Stars That Race Through Space at Nearly the Speed of Light](https://www.scientificamerican.com/article/stars-that-race-through-space-at-nearly-the-speed-of-light/)
+- [Shrinkflation: Costco Paper Towels, Now with 20 Fewer Sheets per Roll](https://forums.redflagdeals.com/costco-paper-towels-now-20-fewer-sheets-per-roll-2461125/)
 - [Dissecting the Apple M1 GPU, Part IV](https://rosenzweig.io/blog/asahi-gpu-part-4.html)
 - [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
-- [SciteQt: A Port of the SciTE Editor to Qt/Quick – Android App and WASM available](https://github.com/mneuroth/SciTEQt)
-- [The Alameda-Weehawken Burrito Tunnel (2007)](https://idlewords.com/2007/04/the_alameda_weehawken_burrito_tunnel.htm)
-- [SkyTransfer – Free, Open-Source, Decentralized and Encrypted File-Sharing](https://skytransfer.hns.siasky.net/#/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
