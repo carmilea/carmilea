@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [1 in 5 EV owners in California switched back to gas because charging is a hassle](https://www.businessinsider.com/electric-car-owners-switching-gas-charging-a-hassle-study-2021-4)
-- [Stars That Race Through Space at Nearly the Speed of Light](https://www.scientificamerican.com/article/stars-that-race-through-space-at-nearly-the-speed-of-light/)
-- [Shrinkflation: Costco Paper Towels, Now with 20 Fewer Sheets per Roll](https://forums.redflagdeals.com/costco-paper-towels-now-20-fewer-sheets-per-roll-2461125/)
-- [Dissecting the Apple M1 GPU, Part IV](https://rosenzweig.io/blog/asahi-gpu-part-4.html)
-- [Substack (YC W18) is hiring to build a better business model for writing](https://substack.com/jobs)
+- [Facebook and the Normalization of Deviance](https://www.newyorker.com/news/daily-comment/facebook-and-the-normalization-of-deviance)
+- [What3Words sends legal threat to security researcher for sharing an alternative](https://techcrunch.com/2021/04/30/what3words-legal-threat-whatfreewords/)
+- [Is Dogecoin Capped?](https://provscons.com/is-dogecoin-capped/)
+- [Data Science is Interesting: Why are there so many Canadians in India?](https://chuttenblog.wordpress.com/2021/04/26/data-science-is-interesting-why-are-there-so-many-canadians-in-india/)
+- [Bitcoin Core: Bitcoin Core 0.21.1 Released with Taproot Activation Code](https://bitcoincore.org/en/2021/05/01/release-0.21.1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
