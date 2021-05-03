@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Study: 40.2% of Consumers Would Consider Switching to Municipal Broadband](https://www.reviews.com/utilities/internet/40-percent-would-switch-to-municipal-internet-study/)
+- [A Lock Picking Game Changer](https://www.youtube.com/watch?v=v2K_WgL71Ro)
+- [North Carolina To Kickback $845.8M of Apple Employees' Taxes to Apple](https://www.newsobserver.com/news/business/article250945394.html)
+- [Ask HN: Who is hiring? (May 2021)](https://news.ycombinator.com/item?id=27025922)
 - [Practical SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis)
-- [Rural purge](https://en.wikipedia.org/wiki/Rural_purge)
-- [The Programming Language Zoo](https://plzoo.andrej.com/)
-- [Microsoft bids $44.6B to buy Yahoo (2008)](https://www.reuters.com/article/us-microsoft-idUSWNAS894220080201)
-- [Selling Yahoo and AOL, Verizon turns focus to its 5G network](https://www.nytimes.com/2021/05/03/business/verizon-aol-yahoo-sale.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
