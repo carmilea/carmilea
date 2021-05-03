@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse (YC W12) Is Hiring a Product Designer](https://www.themuse.com/jobs/themuse/product-designer-employer-squad)
+- [My Favorite One Liners](https://muhammadraza.me/2021/Oneliners/)
 - [Volta](https://volta.sh/)
 - [Amazon knew seller data was used to boost company sales](https://www.politico.eu/article/amazon-seller-data-company-sales/)
-- [New Spectre Vulnerability Beats Mitigations, Performance to Badly Drop After Fix](https://www.techpowerup.com/281718/new-spectre-vulnerability-version-beats-all-mitigations-performance-to-badly-degrade-after-the-fix)
-- [I was terrible at crosswords so I built an AI to do them](https://www.bbc.co.uk/news/technology-56934716)
-- [Office 365 leaking BCC domain name](https://www.reddit.com/r/Office365/comments/n3qky1/office_365_leaking_bcc_domain_name/)
+- [Lung cancer in never-smokers: a hidden disease (2019)](https://journals.sagepub.com/doi/full/10.1177/0141076819843654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
