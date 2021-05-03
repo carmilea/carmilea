@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Office 365 leaking BCC domain name](https://www.reddit.com/r/Office365/comments/n3qky1/office_365_leaking_bcc_domain_name/)
 - [Rust's Most Unrecognized Contributor](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor)
 - [Stack on a Budget – A collection of services with free tiers](https://github.com/255kb/stack-on-a-budget)
 - [The End of AMP](https://www.lafoo.com/the-end-of-amp/?twclid=11389086688677404673)
 - [Bootstrapping an Amiga without a bootable floppy](https://www.rvalles.net/bootstrapping-an-amiga-without-a-bootable-amiga-floppy.html)
-- [Co-founder of Neuralink leaves the company](https://www.engadget.com/co-founder-leaves-elon-musk-neuralink-164856798.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
