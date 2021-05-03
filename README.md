@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Facebook and the Normalization of Deviance](https://www.newyorker.com/news/daily-comment/facebook-and-the-normalization-of-deviance)
 - [What3Words sends legal threat to security researcher for sharing an alternative](https://techcrunch.com/2021/04/30/what3words-legal-threat-whatfreewords/)
+- [Turmoil shakes California National Guard with firing, suspension of top generals](https://www.latimes.com/california/story/2021-05-01/california-national-guard-protests-firing-general)
 - [Is Dogecoin Capped?](https://provscons.com/is-dogecoin-capped/)
 - [Data Science is Interesting: Why are there so many Canadians in India?](https://chuttenblog.wordpress.com/2021/04/26/data-science-is-interesting-why-are-there-so-many-canadians-in-india/)
-- [Bitcoin Core: Bitcoin Core 0.21.1 Released with Taproot Activation Code](https://bitcoincore.org/en/2021/05/01/release-0.21.1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
