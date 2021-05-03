@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I built grafar, a cool visualization library](https://thoughtspile.github.io/grafar?new)
-- [In Singapore, Covid vs. privacy is no contest](https://www.lowyinstitute.org/the-interpreter/singapore-covid-vs-privacy-no-contest)
-- [Building video chat into my personal website using WebRTC, WebSockets, and Go](https://mattbutterfield.com/blog/2021-05-02-adding-video-chat)
-- [Wormhole – Simple, private file sharing](https://wormhole.app/)
-- [The Unix Magic Poster](https://jpmens.net/2021/04/09/the-unix-magic-poster/)
+- [Mux (YC W16) is hiring full-stack developers to focus on Elixir and TS/React apps](https://mux.com/jobs?hnj=full-stack)
+- [Liberalizing Land Use Regulations: The Case of Houston](https://www.mercatus.org/publications/urban-economics/liberalizing-land-use-regulations-case-houston)
+- [Canadian 'sign war' captivates the internet](https://www.bbc.com/news/world-us-canada-56972907)
+- [Michael Lewis' 'The Premonition' Is a Sweeping Indictment of the CDC](https://www.npr.org/2021/05/03/991570372/michael-lewis-the-premonition-is-a-sweeping-indictment-of-the-cdc)
+- [Highres Spectrograms with the DFT Shift Theorem](https://soundshader.github.io/hss/gallery/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
