@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook and the Normalization of Deviance](https://www.newyorker.com/news/daily-comment/facebook-and-the-normalization-of-deviance)
+- [Bootstrapping an Amiga without a bootable floppy](https://www.rvalles.net/bootstrapping-an-amiga-without-a-bootable-amiga-floppy.html)
 - [Co-founder of Neuralink leaves the company](https://www.engadget.com/co-founder-leaves-elon-musk-neuralink-164856798.html)
 - [What3Words sends legal threat to security researcher for sharing an alternative](https://techcrunch.com/2021/04/30/what3words-legal-threat-whatfreewords/)
 - [Don't make customers hunt for the Sign In button on your website](https://blog.stunning.co/stop-making-your-paying-customers-hunt-for-the-sign-in-button-on-your-website/)
