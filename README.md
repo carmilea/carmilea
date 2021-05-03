@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We Mailed 100 Letters to Test the Postal Service. We Did Not Get Speedy Delivery](https://www.wgbh.org/news/local-news/2021/04/23/we-mailed-100-letters-to-test-the-postal-service-we-did-not-get-speedy-delivery)
+- [Microsoft bids $44.6B to buy Yahoo (2008)](https://www.reuters.com/article/us-microsoft-idUSWNAS894220080201)
+- [Verizon sells Yahoo and AOL to private equity firm for $5B](https://www.verizon.com/about/news/verizon-media-be-acquired-apollo-funds)
 - [The Muse (YC W12) Is Hiring a Product Designer](https://www.themuse.com/jobs/themuse/product-designer-employer-squad)
-- [My Favorite One Liners](https://muhammadraza.me/2021/Oneliners/)
-- [Volta](https://volta.sh/)
-- [Amazon knew seller data was used to boost company sales](https://www.politico.eu/article/amazon-seller-data-company-sales/)
-- [Lung cancer in never-smokers: a hidden disease (2019)](https://journals.sagepub.com/doi/full/10.1177/0141076819843654)
+- [Screening healthcare workers could serve early warning system for future viruses](https://www.rcsi.com/dublin/news-and-events/news/news-article/2021/05/screening-healthcare-workers-could-serve-as-early-warning-system-for-future-viruses)
 <!-- BLOG-POST-LIST:END -->
 
 ---
