@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I built grafar, a cool visualization library](https://thoughtspile.github.io/grafar?new)
+- [In Singapore, Covid vs. privacy is no contest](https://www.lowyinstitute.org/the-interpreter/singapore-covid-vs-privacy-no-contest)
+- [Building video chat into my personal website using WebRTC, WebSockets, and Go](https://mattbutterfield.com/blog/2021-05-02-adding-video-chat)
+- [Wormhole – Simple, private file sharing](https://wormhole.app/)
 - [The Unix Magic Poster](https://jpmens.net/2021/04/09/the-unix-magic-poster/)
-- [What nobody says about startup moms](https://www.femfosec.com/what-nobody-says-about-startup-moms/)
-- [Rainforest (YC S12) Is Hiring Senior Engineers, Globally and Remote](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source[]=HN)
-- [HashiCorp Nomad 1.1 Beta](https://www.hashicorp.com/blog/announcing-hashicorp-nomad-1-1-beta)
-- [A Lock Picking Game Changer [video]](https://www.youtube.com/watch?v=v2K_WgL71Ro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
