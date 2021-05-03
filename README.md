@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Two young math geeks solved the mystery of Mexico City’s Covid-19 dead](https://www.washingtonpost.com/world/2021/05/03/mexico-coronavirus-excess-death/)
+- [The Unix Magic Poster](https://jpmens.net/2021/04/09/the-unix-magic-poster/)
 - [What nobody says about startup moms](https://www.femfosec.com/what-nobody-says-about-startup-moms/)
 - [Rainforest (YC S12) Is Hiring Senior Engineers, Globally and Remote](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source[]=HN)
-- [Study: 40.2% of Consumers Would Consider Switching to Municipal Broadband](https://www.reviews.com/utilities/internet/40-percent-would-switch-to-municipal-internet-study/)
-- [Why Use a Novichok?](https://www.lrb.co.uk/the-paper/v43/n09/tom-stevenson/why-use-a-novichok)
+- [HashiCorp Nomad 1.1 Beta](https://www.hashicorp.com/blog/announcing-hashicorp-nomad-1-1-beta)
+- [A Lock Picking Game Changer [video]](https://www.youtube.com/watch?v=v2K_WgL71Ro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
