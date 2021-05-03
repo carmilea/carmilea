@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple to Launch 8-Inch Foldable iPhone in 2023](https://www.macrumors.com/2021/05/02/kuo-8-inch-foldable-iphone-2023/?scrolla=5eb6d68b7fedc32c19ef33b4)
-- [Verizon Selling AOL and Yahoo](https://www.nytimes.com/2021/05/03/business/verizon-aol-yahoo-sale.html)
-- [We Mailed 100 Letters to Test the Postal Service. We Did Not Get Speedy Delivery](https://www.wgbh.org/news/local-news/2021/04/23/we-mailed-100-letters-to-test-the-postal-service-we-did-not-get-speedy-delivery)
+- [Practical SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis)
+- [Rural purge](https://en.wikipedia.org/wiki/Rural_purge)
+- [The Programming Language Zoo](https://plzoo.andrej.com/)
 - [Microsoft bids $44.6B to buy Yahoo (2008)](https://www.reuters.com/article/us-microsoft-idUSWNAS894220080201)
-- [Verizon sells Yahoo and AOL to private equity firm for $5B](https://www.verizon.com/about/news/verizon-media-be-acquired-apollo-funds)
+- [Selling Yahoo and AOL, Verizon turns focus to its 5G network](https://www.nytimes.com/2021/05/03/business/verizon-aol-yahoo-sale.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
