@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Facebook and the Normalization of Deviance](https://www.newyorker.com/news/daily-comment/facebook-and-the-normalization-of-deviance)
+- [Co-founder of Neuralink leaves the company](https://www.engadget.com/co-founder-leaves-elon-musk-neuralink-164856798.html)
 - [What3Words sends legal threat to security researcher for sharing an alternative](https://techcrunch.com/2021/04/30/what3words-legal-threat-whatfreewords/)
+- [Don't make customers hunt for the Sign In button on your website](https://blog.stunning.co/stop-making-your-paying-customers-hunt-for-the-sign-in-button-on-your-website/)
 - [Turmoil shakes California National Guard with firing, suspension of top generals](https://www.latimes.com/california/story/2021-05-01/california-national-guard-protests-firing-general)
-- [Data Science is Interesting: Why are there so many Canadians in India?](https://chuttenblog.wordpress.com/2021/04/26/data-science-is-interesting-why-are-there-so-many-canadians-in-india/)
-- [Bitcoin Core: Bitcoin Core 0.21.1 Released with Taproot Activation Code](https://bitcoincore.org/en/2021/05/01/release-0.21.1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
