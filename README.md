@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stadia’s VP and head of product leaves Google](https://arstechnica.com/gadgets/2021/05/stadias-vp-and-head-of-product-leaves-google/)
-- [Seeing Like an SRE: Site Reliability Engineering as High Modernism](https://www.usenix.org/publications/loginonline/seeing-sre-site-reliability-engineering-high-modernism)
-- [Belgian farmer accidentally moves French border](https://www.bbc.co.uk/news/world-europe-56978344)
-- [Linux Terminal Tools [pdf]](https://ketancmaheshwari.github.io/pdfs/LPT_LISA.pdf)
-- [Is Your Son a Computer Hacker? (2001)](https://wh0rd.ca/humor/text/Adequacy_org%20%20Is%20Your%20Son%20a%20Computer%20Hacker.htm)
+- [Nose size indicates maximum penile length](https://bacandrology.biomedcentral.com/articles/10.1186/s12610-021-00121-z)
+- [Announcing Rome Tools Inc, an open source first company](https://rome.tools/blog/announcing-rome-tools-inc/)
+- [Why A.I. Moonshots Miss](https://slate.com/technology/2021/05/artificial-intelligence-moonshots-usually-fail.html)
+- [Dell patches 12-year-old driver vulnerability impacting millions of PCs](https://therecord.media/dell-patches-12-year-old-driver-vulnerability-impacting-millions-of-pcs/)
+- [An NFT That Saves Lives](http://paulgraham.com/nft.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
