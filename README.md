@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stadia’s VP and head of product leaves Google](https://arstechnica.com/gadgets/2021/05/stadias-vp-and-head-of-product-leaves-google/)
+- [Seeing Like an SRE: Site Reliability Engineering as High Modernism](https://www.usenix.org/publications/loginonline/seeing-sre-site-reliability-engineering-high-modernism)
 - [Belgian farmer accidentally moves French border](https://www.bbc.co.uk/news/world-europe-56978344)
+- [Linux Terminal Tools [pdf]](https://ketancmaheshwari.github.io/pdfs/LPT_LISA.pdf)
 - [Is Your Son a Computer Hacker? (2001)](https://wh0rd.ca/humor/text/Adequacy_org%20%20Is%20Your%20Son%20a%20Computer%20Hacker.htm)
-- [CGI with Awk on OpenBSD Httpd (2020)](https://box.matto.nl/cgi-with-awk-on-openbsd-httpd.html)
-- [No ID, no vaccines for Indonesia’s invisible people](https://restofworld.org/2021/indonesias-invisible-people-face-discrimination-and-sometimes-death-by-database/)
-- [MNT Reform 2 DIY Kit Review](https://mauromorales.com/2021/04/30/mnt-reform-2-diy-kit-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
