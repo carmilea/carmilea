@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A blood test may help the diagnosis and treatment of depression](https://www.economist.com/science-and-technology/2021/05/03/a-blood-test-may-help-the-diagnosis-and-treatment-of-depression)
 - [Show HN: IPster – Peer-to-peer simple job notifications](https://ipster.io/)
 - [Contrary to Previous Belief, Strike-Slip Faults Can Generate Large Tsunamis](https://www.caltech.edu/about/news/contrary-to-previous-belief-strike-slip-faults-can-generate-large-tsunamis)
 - [Why a small handful of counties generates the bulk of US death sentences](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240401)
 - [The Computers Are Getting Better at Writing](https://www.newyorker.com/culture/cultural-comment/the-computers-are-getting-better-at-writing)
-- [First genetically modified mosquitoes released in the United States](https://www.nature.com/articles/d41586-021-01186-6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
