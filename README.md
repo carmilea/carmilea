@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sail-pro – Simulation and modelling environment for virtual sailing](https://github.com/rururu/sail-pro)
+- [Android Studio 4.2](https://android-developers.googleblog.com/2021/05/android-studio-42.html)
+- [This Guy Flipped an Element in an Old Lens and Got 'Magic' Bokeh (2018)](https://petapixel.com/2018/08/02/this-guy-flipped-an-element-in-an-old-lens-and-got-magic-bokeh/)
+- [Personal Shadowsocks server in 5 minutes with Heroku](https://github.com/aditya-shri/VPN)
 - [D(?)A(?)O – Decentralization and Autonomy in “DAOs”](https://boardroom.mirror.xyz/N0kJ-y_5wvPR0H1MMNFb531MOKEE4LKWxepzQLj18sw)
-- [Linear Clock: Solar](https://jmw.name/projects/linear-clock/)
-- [Instagram ads Facebook won't show you](https://signal.org/blog/the-instagram-ads-you-will-never-see)
-- [Show HN: AWS Enhancement Suite](https://chrome.google.com/webstore/detail/deref-%E2%80%94-aws-enhancement-s/nankdihhphnhbfhhcpncdfofgfdbfpmo)
-- [Show HN: Easier, Free Webflow](https://aspect.app?source=yc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
