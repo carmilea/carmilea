@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nose size indicates maximum penile length](https://bacandrology.biomedcentral.com/articles/10.1186/s12610-021-00121-z)
-- [Announcing Rome Tools Inc, an open source first company](https://rome.tools/blog/announcing-rome-tools-inc/)
-- [Why A.I. Moonshots Miss](https://slate.com/technology/2021/05/artificial-intelligence-moonshots-usually-fail.html)
-- [Dell patches 12-year-old driver vulnerability impacting millions of PCs](https://therecord.media/dell-patches-12-year-old-driver-vulnerability-impacting-millions-of-pcs/)
-- [An NFT That Saves Lives](http://paulgraham.com/nft.html)
+- [ReleaseHub, (YC W20) Sequoia backed is hiring in engineering and marketing](https://releasehub.com/company)
+- [Your Car Is Spying on You, and a CBP Contract Shows the Risks](https://theintercept.com/2021/05/03/car-surveillance-berla-msab-cbp/)
+- [On Incels, Dead Bedrooms and the Hard Problems of Loneliness](https://residentcontrarian.substack.com/p/on-incels-dead-bedrooms-and-the-hard)
+- [Gitlab's 2021 Survey uncovers a new DevOps maturity model](https://about.gitlab.com/blog/2021/05/04/gitlabs-2021-survey-uncovers-a-new-devops-maturity-model/)
+- [Announcing Rome Tools, Inc.](https://rome.tools/blog/announcing-rome-tools-inc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
