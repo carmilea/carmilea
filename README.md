@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lugg (YC S15) Is Hiring Engineers (React, Rails, Remote)](https://www.ycombinator.com/companies/lugg/jobs/L9jwHg0HX-software-engineer)
+- [A giant piece of space junk is hurtling towards Earth](https://www.abc.net.au/news/2021-05-04/space-junk-hurtling-towards-earth-how-worried/100116046)
+- [uLisp](http://www.ulisp.com/)
 - [World's biggest jeweller, Pandora, to drop mined diamonds](https://www.bbc.co.uk/news/business-56972562)
 - [Teens, tech and mental health: Oxford study finds no link](https://www.bbc.com/news/technology-56970368)
-- [So you want to build a carbon capture company](https://caseyhandmer.wordpress.com/2021/05/04/so-you-want-to-build-a-carbon-capture-company/)
-- [Show HN: I reverse engineered the Bose iOS app and rebuilt it for Mac](https://boze.app)
-- [U.S. approves solar project in California desert](https://www.reuters.com/business/energy/us-approves-massive-solar-project-california-desert-2021-05-03/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
