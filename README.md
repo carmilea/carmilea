@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lugg (YC S15) Is Hiring Engineers (React, Rails, Remote)](https://www.ycombinator.com/companies/lugg/jobs/L9jwHg0HX-software-engineer)
-- [A giant piece of space junk is hurtling towards Earth](https://www.abc.net.au/news/2021-05-04/space-junk-hurtling-towards-earth-how-worried/100116046)
-- [uLisp](http://www.ulisp.com/)
-- [World's biggest jeweller, Pandora, to drop mined diamonds](https://www.bbc.co.uk/news/business-56972562)
-- [Teens, tech and mental health: Oxford study finds no link](https://www.bbc.com/news/technology-56970368)
+- [CGI with Awk on OpenBSD Httpd](https://box.matto.nl/cgi-with-awk-on-openbsd-httpd.html)
+- [No ID, no vaccines for Indonesia’s invisible people](https://restofworld.org/2021/indonesias-invisible-people-face-discrimination-and-sometimes-death-by-database/)
+- [MNT Reform 2 DIY Kit Review](https://mauromorales.com/2021/04/30/mnt-reform-2-diy-kit-review/)
+- [An opinionated map of incremental and streaming systems (2018)](https://scattered-thoughts.net/writing/an-opinionated-map-of-incremental-and-streaming-systems)
+- [Chiptunes on an ATtiny4 and the 3 Cent Micro](https://gir.st/chiptunes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
