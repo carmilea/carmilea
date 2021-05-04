@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TrueVault (YC W14) Is Hiring an Engineering Lead to lead new privacy product](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead)
+- [Just Say No to Paxos Overhead: Replacing Consensus with Network Ordering (2016)](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/li)
+- [Multitasking hurts performance and may even damage the brain (2018)](https://www.linkedin.com/pulse/why-successful-people-dont-multitask-dr-travis-bradberry/)
 - [Sail-pro – Simulation and modelling environment for virtual sailing](https://github.com/rururu/sail-pro)
 - [Android Studio 4.2](https://android-developers.googleblog.com/2021/05/android-studio-42.html)
-- [This Guy Flipped an Element in an Old Lens and Got 'Magic' Bokeh (2018)](https://petapixel.com/2018/08/02/this-guy-flipped-an-element-in-an-old-lens-and-got-magic-bokeh/)
-- [Personal Shadowsocks server in 5 minutes with Heroku](https://github.com/aditya-shri/VPN)
-- [D(?)A(?)O – Decentralization and Autonomy in “DAOs”](https://boardroom.mirror.xyz/N0kJ-y_5wvPR0H1MMNFb531MOKEE4LKWxepzQLj18sw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
