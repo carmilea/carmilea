@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I’ll never create modules for VCV Rack anymore–and what I’ll make instead](https://aria.dog/barks/why-i-will-never-create-modules-for-vcv-rack-anymore/)
-- [.org Doesn't Mean Credible](http://dotorgdoesntmeancredible.org/)
-- [Google AI leader has defected to Apple](https://arstechnica.com/gadgets/2021/05/apple-hires-yet-another-ex-google-ai-leader/)
-- [Andrew Ng says AI has a proof-of-concept-to-production gap](https://spectrum.ieee.org/view-from-the-valley/artificial-intelligence/machine-learning/andrew-ng-xrays-the-ai-hype)
-- [Back in 1993, I was taking a number theory class](https://twitter.com/EricLengyel/status/1389106103179378689)
+- [Why Working from Home Will Stick](https://www.nber.org/papers/w28731#fromrss)
+- [Show HN: IPster – Peer-to-peer simple job notifications](https://ipster.io/)
+- [Why a small handful of counties generates the bulk of US death sentences](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240401)
+- [The Computers Are Getting Better at Writing](https://www.newyorker.com/culture/cultural-comment/the-computers-are-getting-better-at-writing)
+- [First genetically modified mosquitoes released in the United States](https://www.nature.com/articles/d41586-021-01186-6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
