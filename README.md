@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
+- [YouTube is now building its own video-transcoding chips](https://arstechnica.com/gadgets/2021/04/youtube-is-now-building-its-own-video-transcoding-chips/)
+- [Instant replay: Debugging C and C++ programs with rr](https://developers.redhat.com/blog/2021/05/03/instant-replay-debugging-c-and-c-programs-with-rr/)
 - [A blood test may help the diagnosis and treatment of depression](https://www.economist.com/science-and-technology/2021/05/03/a-blood-test-may-help-the-diagnosis-and-treatment-of-depression)
 - [Polyglot Assembly – assembly code that runs on multiple architectures](https://vojtechkral.github.io/blag/polyglot-assembly/)
-- [Show HN: IPster – Peer-to-peer simple job notifications](https://ipster.io/)
-- [Contrary to Previous Belief, Strike-Slip Faults Can Generate Large Tsunamis](https://www.caltech.edu/about/news/contrary-to-previous-belief-strike-slip-faults-can-generate-large-tsunamis)
-- [The computers are getting better at writing](https://www.newyorker.com/culture/cultural-comment/the-computers-are-getting-better-at-writing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
