@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [So you want to build a carbon capture company](https://caseyhandmer.wordpress.com/2021/05/04/so-you-want-to-build-a-carbon-capture-company/)
+- [U.S. approves solar project in California desert](https://www.reuters.com/business/energy/us-approves-massive-solar-project-california-desert-2021-05-03/)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [YouTube is now building its own video-transcoding chips](https://arstechnica.com/gadgets/2021/04/youtube-is-now-building-its-own-video-transcoding-chips/)
-- [Instant replay: Debugging C and C++ programs with rr](https://developers.redhat.com/blog/2021/05/03/instant-replay-debugging-c-and-c-programs-with-rr/)
-- [A blood test may help the diagnosis and treatment of depression](https://www.economist.com/science-and-technology/2021/05/03/a-blood-test-may-help-the-diagnosis-and-treatment-of-depression)
-- [Polyglot Assembly – assembly code that runs on multiple architectures](https://vojtechkral.github.io/blag/polyglot-assembly/)
+- [Amazon had sales income of €44bn in Europe in 2020 but paid no corporation tax](https://www.theguardian.com/technology/2021/may/04/amazon-sales-income-europe-corporation-tax-luxembourg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
