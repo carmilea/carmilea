@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A blood test may help the diagnosis and treatment of depression](https://www.economist.com/science-and-technology/2021/05/03/a-blood-test-may-help-the-diagnosis-and-treatment-of-depression)
+- [Polyglot Assembly – assembly code that runs on multiple architectures](https://vojtechkral.github.io/blag/polyglot-assembly/)
 - [Show HN: IPster – Peer-to-peer simple job notifications](https://ipster.io/)
 - [Contrary to Previous Belief, Strike-Slip Faults Can Generate Large Tsunamis](https://www.caltech.edu/about/news/contrary-to-previous-belief-strike-slip-faults-can-generate-large-tsunamis)
-- [Why a small handful of counties generates the bulk of US death sentences](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240401)
-- [The Computers Are Getting Better at Writing](https://www.newyorker.com/culture/cultural-comment/the-computers-are-getting-better-at-writing)
+- [The computers are getting better at writing](https://www.newyorker.com/culture/cultural-comment/the-computers-are-getting-better-at-writing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
