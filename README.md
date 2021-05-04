@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS drops price for managed Prometheus service by 84%](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-announces-a-price-reduction-for-amazon-managed-service-for-prometheus-amp/)
+- [21Nails: Multiple Critical Vulnerabilities in Exim Mail Server](https://www.exim.org/static/doc/security/CVE-2020-qualys/21nails.txt)
+- [Declarative Validation in Python](https://blog.drewolson.org/declarative-validation)
 - [WiFiStation: A WiFi Interface for the Cidco MailStation](https://jcs.org/2021/04/23/wifistation)
-- [Cinder: Instagram's performance oriented fork of CPython](https://github.com/facebookincubator/cinder)
+- [Cinder: Instagram's performance-oriented fork of CPython](https://github.com/facebookincubator/cinder)
 - [Kolmogorov Complexity: Extensions and Applications](https://blog.neotree.uber.space/posts/kolmogorov-complexity)
-- [TrueVault (YC W14) Is Hiring an Engineering Lead to lead new privacy product](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
