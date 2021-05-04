@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [World's biggest jeweller, Pandora, to drop mined diamonds](https://www.bbc.co.uk/news/business-56972562)
+- [Teens, tech and mental health: Oxford study finds no link](https://www.bbc.com/news/technology-56970368)
 - [So you want to build a carbon capture company](https://caseyhandmer.wordpress.com/2021/05/04/so-you-want-to-build-a-carbon-capture-company/)
 - [Show HN: I reverse engineered the Bose iOS app and rebuilt it for Mac](https://boze.app)
 - [U.S. approves solar project in California desert](https://www.reuters.com/business/energy/us-approves-massive-solar-project-california-desert-2021-05-03/)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [YouTube is now building its own video-transcoding chips](https://arstechnica.com/gadgets/2021/04/youtube-is-now-building-its-own-video-transcoding-chips/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
