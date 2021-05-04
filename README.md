@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I’ll never create modules for VCV Rack anymore–and what I’ll make instead](https://aria.dog/barks/why-i-will-never-create-modules-for-vcv-rack-anymore/)
+- [.org Doesn't Mean Credible](http://dotorgdoesntmeancredible.org/)
+- [Google AI leader has defected to Apple](https://arstechnica.com/gadgets/2021/05/apple-hires-yet-another-ex-google-ai-leader/)
 - [Andrew Ng says AI has a proof-of-concept-to-production gap](https://spectrum.ieee.org/view-from-the-valley/artificial-intelligence/machine-learning/andrew-ng-xrays-the-ai-hype)
 - [Back in 1993, I was taking a number theory class](https://twitter.com/EricLengyel/status/1389106103179378689)
-- [Show HN: ReplPad – Repl/Scratchpad](https://replpad.com/)
-- [Mux (YC W16) is hiring full-stack developers to focus on Elixir and TS/React apps](https://mux.com/jobs?hnj=full-stack)
-- [ShellCheck: Finds bugs in your shell scripts](https://www.shellcheck.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
