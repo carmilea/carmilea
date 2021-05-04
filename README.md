@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit Outage](https://www.redditstatus.com/incidents/n65369gfkvk0)
+- [The Instagram ads Facebook won't show you](https://signal.org/blog/the-instagram-ads-you-will-never-see)
+- [Show HN: AWS Enhancement Suite](https://chrome.google.com/webstore/detail/deref-%E2%80%94-aws-enhancement-s/nankdihhphnhbfhhcpncdfofgfdbfpmo)
 - [ReleaseHub, (YC W20) Sequoia backed is hiring in engineering and marketing](https://releasehub.com/company)
 - [Your Car Is Spying on You, and a CBP Contract Shows the Risks](https://theintercept.com/2021/05/03/car-surveillance-berla-msab-cbp/)
-- [On Incels, Dead Bedrooms and the Hard Problems of Loneliness](https://residentcontrarian.substack.com/p/on-incels-dead-bedrooms-and-the-hard)
-- [Gitlab's 2021 Survey uncovers a new DevOps maturity model](https://about.gitlab.com/blog/2021/05/04/gitlabs-2021-survey-uncovers-a-new-devops-maturity-model/)
-- [Announcing Rome Tools, Inc.](https://rome.tools/blog/announcing-rome-tools-inc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
