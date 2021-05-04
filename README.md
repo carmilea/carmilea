@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS drops price for managed Prometheus service by 84%](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-announces-a-price-reduction-for-amazon-managed-service-for-prometheus-amp/)
+- [WiFiStation: A WiFi Interface for the Cidco MailStation](https://jcs.org/2021/04/23/wifistation)
+- [Cinder: Instagram's performance oriented fork of CPython](https://github.com/facebookincubator/cinder)
+- [Kolmogorov Complexity: Extensions and Applications](https://blog.neotree.uber.space/posts/kolmogorov-complexity)
 - [TrueVault (YC W14) Is Hiring an Engineering Lead to lead new privacy product](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead)
-- [Just Say No to Paxos Overhead: Replacing Consensus with Network Ordering (2016)](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/li)
-- [Multitasking hurts performance and may even damage the brain (2018)](https://www.linkedin.com/pulse/why-successful-people-dont-multitask-dr-travis-bradberry/)
-- [Sail-pro – Simulation and modelling environment for virtual sailing](https://github.com/rururu/sail-pro)
-- [Android Studio 4.2](https://android-developers.googleblog.com/2021/05/android-studio-42.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
