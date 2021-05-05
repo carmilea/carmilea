@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [21Nails: Multiple Critical Vulnerabilities in Exim Mail Server](https://www.exim.org/static/doc/security/CVE-2020-qualys/21nails.txt)
+- [60% of school apps are sending student data with third parties without consent](https://me2ba.org/me2ba-product-testing-spotlight-report-published-data-sharing-in-primary-secondary-school-mobile-apps-2/)
+- [Please fix the AWS free tier before somebody gets hurt](https://cloudirregular.substack.com/p/please-fix-the-aws-free-tier-before)
+- [Berkshire Hathaway’s stock price is too high for Nasdaq computers](https://www.wsj.com/articles/berkshire-hathaways-stock-price-is-too-much-for-computers-11620168548)
 - [Declarative Validation in Python](https://blog.drewolson.org/declarative-validation)
 - [WiFiStation: A WiFi Interface for the Cidco MailStation](https://jcs.org/2021/04/23/wifistation)
-- [Cinder: Instagram's performance-oriented fork of CPython](https://github.com/facebookincubator/cinder)
-- [Kolmogorov Complexity: Extensions and Applications](https://blog.neotree.uber.space/posts/kolmogorov-complexity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
