@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Signal Tries to Run the Most Honest Facebook Ad Campaign Ever, Gets Banned](https://gizmodo.com/signal-tried-to-run-the-most-honest-facebook-ad-campaig-1846823457)
 - [Z3 Tutorial](https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb)
 - [Talk cancelled due to slides critical of Google and Facebook](https://twitter.com/randfish/status/1389279726305353730)
-- [We Use Web Components at GitHub](https://github.blog/2021-05-04-how-we-use-web-components-at-github/)
+- [How we use web components](https://github.blog/2021-05-04-how-we-use-web-components-at-github/)
 - [Hy: A dialect of Lisp that's embedded in Python](https://github.com/hylang/hy)
-- [MH370 pilot made many turns and speed changes, new report reveals](https://www.airlineratings.com/news/mh370-pilot-made-many-turns-speed-changes-new-report-reveals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
