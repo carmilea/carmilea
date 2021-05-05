@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Doctors investigate mystery brain disease in Canada](https://www.bbc.com/news/world-us-canada-56910393)
 - [British Virgin Islands corruption scandal threatens its tax haven reputation](https://www.icij.org/investigations/paradise-papers/british-virgin-islands-corruption-scandal-threatens-its-dependable-tax-haven-reputation/)
 - [$1 Unistroke Recognizer](http://depts.washington.edu/acelab/proj/dollar/index.html)
 - [Using QEMU-user emulation to reverse engineer binaries](https://ariadne.space/2021/05/05/using-qemu-user-emulation-to-reverse-engineer-binaries/)
 - [Z3 Tutorial](https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb)
-- [How we use web components](https://github.blog/2021-05-04-how-we-use-web-components-at-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
