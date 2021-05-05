@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oversight Board upholds Trump’s suspension, finds FB failed to impose penalty](https://oversightboard.com/news/226612455899839-oversight-board-upholds-former-president-trump-s-suspension-finds-facebook-failed-to-impose-proper-penalty/)
+- [HN: The Good Parts (2017)](https://danluu.com/hn-comments/)
+- [Facebook's Trump ban upheld by Oversight Board, for now](https://www.bbc.com/news/technology-56985583)
+- [Snapchat Can Be Sued for Role in Fatal Car Crash, Court Rules](https://www.npr.org/2021/05/04/993579600/snapchat-can-be-sued-for-role-in-fatal-car-crash-court-rules)
 - [Pachyderm Is Hiring Senior Demand Gen, TMM, and Product Marketing Roles](https://www.pachyderm.com/careers/#positions)
 - [New book contends that Catch Me If You Can is mostly made up](https://whyy.org/segments/the-greatest-hoax-on-earth/)
-- [Go proposal: new package to provide generic slice functions](https://github.com/golang/go/issues/45955)
-- [Out-of-control Chinese rocket expected to fall to Earth in the coming days](https://www.cbc.ca/news/science/chinese-rocket-reentry-1.6013654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
