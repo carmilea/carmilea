@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [British Virgin Islands corruption scandal threatens its tax haven reputation](https://www.icij.org/investigations/paradise-papers/british-virgin-islands-corruption-scandal-threatens-its-dependable-tax-haven-reputation/)
+- [$1 Unistroke Recognizer](http://depts.washington.edu/acelab/proj/dollar/index.html)
 - [Using QEMU-user emulation to reverse engineer binaries](https://ariadne.space/2021/05/05/using-qemu-user-emulation-to-reverse-engineer-binaries/)
-- [Signal Tries to Run the Most Honest Facebook Ad Campaign Ever, Gets Banned](https://gizmodo.com/signal-tried-to-run-the-most-honest-facebook-ad-campaig-1846823457)
 - [Z3 Tutorial](https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb)
 - [How we use web components](https://github.blog/2021-05-04-how-we-use-web-components-at-github/)
-- [Hy: A dialect of Lisp that's embedded in Python](https://github.com/hylang/hy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
