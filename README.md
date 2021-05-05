@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canadians fly south for shot as US demand falls](https://www.reuters.com/business/healthcare-pharmaceuticals/vaccine-tourism-canadians-fly-south-shot-us-demand-falls-2021-05-05/)
+- [Live feed of Starship SN15 flight test](https://www.spacex.com/vehicles/starship/index.html)
+- [The California Exception](https://pxlnv.com/linklog/california-exception/)
 - [Zumo Labs (YC W20) Is Hiring a Product Manager](https://www.workatastartup.com/jobs/43771)
-- [Indonesia coral reef partially restored in extensive project](https://www.forbes.com/sites/johannaread/2021/05/05/the-sheba-hope-reef-brings-hope-to-coral-reefs-everywhere-you-can-help-too/)
-- [Open sourcing Pixie under Apache 2.0 license](https://blog.px.dev/open-source-release/)
-- [Blizzard has lost almost 29% of its overall active playerbase in three years](https://massivelyop.com/2021/05/04/activision-blizzard-q1-2021-financials-blizzard-maus-down-to-27m/)
-- [Motorcycle airbag vest will stop working if you miss a payment](https://www.vice.com/en/article/93yyyd/this-motorcycle-airbag-vest-will-stop-working-if-you-miss-a-payment)
+- [A Hybrid Approach to Work](https://blog.google/inside-google/life-at-google/hybrid-approach-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
