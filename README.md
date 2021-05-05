@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2021 Perception Sensor Industry Map](https://www.tangramvision.com/blog/the-2021-perception-sensor-industry-map)
+- [Linux and Glibc API Changes](https://man7.org/tlpi/api_changes/index.html)
+- [Netflix's “Love Is Blind” Wants Unpaid Photographer for Five Weddings](https://petapixel.com/2021/05/05/netflixs-love-is-blind-wants-unpaid-photographer-for-five-weddings/)
 - [Send: A Fork of Mozilla's Firefox Send](https://github.com/timvisee/send)
-- [BillionToOne (YC S17) is hiring software engineers to advance genetic testing](https://news.ycombinator.com/item?id=27052498)
-- [Pts.js: a modular librairy for visualization and creative coding](https://ptsjs.org/)
-- [Is this what Enterprise mean?](https://twitter.com/steffoz/status/1389946268764475394)
-- [ISDN: The Untravelled Path of Mobile Computing (2015)](https://blog.gatunka.com/2015/06/30/isdn-the-untraveled-path-of-mobile-computing/)
+- [CLUI: Building a Graphical Command Line](https://blog.replit.com/clui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
