@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Confirmed talk cancelled due to slides heavily critical of Google and Facebook](https://twitter.com/randfish/status/1389279726305353730)
 - [MH370 pilot made many turns and speed changes new report reveals](https://www.airlineratings.com/news/mh370-pilot-made-many-turns-speed-changes-new-report-reveals/)
 - [What's so special about vector embeddings](https://www.pinecone.io/learn/vector-embeddings/)
 - [60% of school apps are sending student data with third parties without consent](https://me2ba.org/me2ba-product-testing-spotlight-report-published-data-sharing-in-primary-secondary-school-mobile-apps-2/)
 - [Please fix the AWS free tier before somebody gets hurt](https://cloudirregular.substack.com/p/please-fix-the-aws-free-tier-before)
-- [Berkshire Hathaway’s stock price is too high for Nasdaq computers](https://www.wsj.com/articles/berkshire-hathaways-stock-price-is-too-much-for-computers-11620168548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
