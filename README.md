@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pachyderm Is Hiring Senior Demand Gen, TMM, and Product Marketing Roles](https://www.pachyderm.com/careers/#positions)
+- [Could [Frank Abagnale] be lying about his story? A new book suggests he is](https://whyy.org/segments/the-greatest-hoax-on-earth/)
+- [Go proposal: new package to provide generic slice functions](https://github.com/golang/go/issues/45955)
+- [Out-of-control Chinese rocket expected to fall to Earth in the coming days](https://www.cbc.ca/news/science/chinese-rocket-reentry-1.6013654)
 - [Tesla Car Hacked Remotely from Drone via Zero-Click Exploit](https://www.securityweek.com/tesla-car-hacked-remotely-drone-zero-click-exploit)
-- [SeL4 on RISC-V Verified to Binary Code](https://microkerneldude.wordpress.com/2021/05/05/sel4-on-risc-v-verified-to-binary-code/)
-- [Netflix IT exec forced employees to use products from vendors that bribed him](https://arstechnica.com/tech-policy/2021/05/netflix-it-exec-forced-employees-to-use-products-from-vendors-that-bribed-him/)
-- [ClearURLs – automatically remove tracking elements from URLs](https://github.com/ClearURLs/Addon/)
-- [Doctors investigate mystery brain disease in Canada](https://www.bbc.com/news/world-us-canada-56910393)
 <!-- BLOG-POST-LIST:END -->
 
 ---
