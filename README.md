@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oversight Board upholds Trump’s suspension, finds FB failed to impose penalty](https://oversightboard.com/news/226612455899839-oversight-board-upholds-former-president-trump-s-suspension-finds-facebook-failed-to-impose-proper-penalty/)
 - [Pachyderm Is Hiring Senior Demand Gen, TMM, and Product Marketing Roles](https://www.pachyderm.com/careers/#positions)
-- [Could [Frank Abagnale] be lying about his story? A new book suggests he is](https://whyy.org/segments/the-greatest-hoax-on-earth/)
+- [New book contends that Catch Me If You Can is mostly made up](https://whyy.org/segments/the-greatest-hoax-on-earth/)
 - [Go proposal: new package to provide generic slice functions](https://github.com/golang/go/issues/45955)
 - [Out-of-control Chinese rocket expected to fall to Earth in the coming days](https://www.cbc.ca/news/science/chinese-rocket-reentry-1.6013654)
-- [Tesla Car Hacked Remotely from Drone via Zero-Click Exploit](https://www.securityweek.com/tesla-car-hacked-remotely-drone-zero-click-exploit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
