@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bootstrap 5 Released](https://blog.getbootstrap.com/2021/05/05/bootstrap-5/)
+- [Zumo Labs (YC W20) Is Hiring a Product Manager](https://www.workatastartup.com/jobs/43771)
+- [Indonesia coral reef partially restored in extensive project](https://www.bbc.com/news/av/science-environment-56985594)
+- [Open sourcing Pixie under Apache 2.0 license](https://blog.px.dev/open-source-release/)
 - [Blizzard has lost almost 29% of its overall active playerbase in three years](https://massivelyop.com/2021/05/04/activision-blizzard-q1-2021-financials-blizzard-maus-down-to-27m/)
-- [Show HN: CS Weapons – Counter-Strike weapon data comparison app](https://www.csweapons.com)
-- [HTML Tips and Tricks](https://markodenic.com/posts/html-tips/)
-- [Taking Sex Differences in Personality Seriously (2019)](https://blogs.scientificamerican.com/beautiful-minds/taking-sex-differences-in-personality-seriously/)
+- [Motorcycle Airbag Vest Will Stop Working If You Miss a Payment](https://www.vice.com/en/article/93yyyd/this-motorcycle-airbag-vest-will-stop-working-if-you-miss-a-payment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
