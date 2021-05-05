@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PlayCanvas Launches Node-Based Animation Editor for WebGL](https://blog.playcanvas.com/introducing-the-anim-state-graph/)
+- [Show HN: A social platform where you get paid for being helpful](http://theniceplace.net)
+- [TimescaleDB raises $40M](https://blog.timescale.com/blog/40-million-to-help-developers-measure-everything-that-matters/)
+- [Peloton recalling all treadmills after reports of injuries, one death](https://www.cnbc.com/2021/05/05/peloton-recalling-all-treadmills-after-reports-of-injuries-one-death.html)
 - [HN: The Good Parts (2017)](https://danluu.com/hn-comments/)
-- [Facebook's Trump ban upheld by Oversight Board, for now](https://www.bbc.com/news/technology-56985583)
-- [Snapchat Can Be Sued for Role in Fatal Car Crash, Court Rules](https://www.npr.org/2021/05/04/993579600/snapchat-can-be-sued-for-role-in-fatal-car-crash-court-rules)
-- [Pachyderm Is Hiring Senior Demand Gen, TMM, and Product Marketing Roles](https://www.pachyderm.com/careers/#positions)
-- [New book contends that Catch Me If You Can is mostly made up](https://whyy.org/segments/the-greatest-hoax-on-earth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
