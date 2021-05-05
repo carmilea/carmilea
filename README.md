@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Zumo Labs (YC W20) Is Hiring a Product Manager](https://www.workatastartup.com/jobs/43771)
-- [Indonesia coral reef partially restored in extensive project](https://www.bbc.com/news/av/science-environment-56985594)
+- [Indonesia coral reef partially restored in extensive project](https://www.forbes.com/sites/johannaread/2021/05/05/the-sheba-hope-reef-brings-hope-to-coral-reefs-everywhere-you-can-help-too/)
 - [Open sourcing Pixie under Apache 2.0 license](https://blog.px.dev/open-source-release/)
 - [Blizzard has lost almost 29% of its overall active playerbase in three years](https://massivelyop.com/2021/05/04/activision-blizzard-q1-2021-financials-blizzard-maus-down-to-27m/)
-- [Motorcycle Airbag Vest Will Stop Working If You Miss a Payment](https://www.vice.com/en/article/93yyyd/this-motorcycle-airbag-vest-will-stop-working-if-you-miss-a-payment)
+- [Motorcycle airbag vest will stop working if you miss a payment](https://www.vice.com/en/article/93yyyd/this-motorcycle-airbag-vest-will-stop-working-if-you-miss-a-payment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
