@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2021 Perception Sensor Industry Map](https://www.tangramvision.com/blog/the-2021-perception-sensor-industry-map)
+- [Taking Sex Differences in Personality Seriously (2019)](https://blogs.scientificamerican.com/beautiful-minds/taking-sex-differences-in-personality-seriously/)
+- [MacFlim: Full-motion video on B&W Macs](http://www.macflim.com)
 - [Linux and Glibc API Changes](https://man7.org/tlpi/api_changes/index.html)
 - [Netflix's “Love Is Blind” Wants Unpaid Photographer for Five Weddings](https://petapixel.com/2021/05/05/netflixs-love-is-blind-wants-unpaid-photographer-for-five-weddings/)
 - [Send: A Fork of Mozilla's Firefox Send](https://github.com/timvisee/send)
-- [CLUI: Building a Graphical Command Line](https://blog.replit.com/clui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
