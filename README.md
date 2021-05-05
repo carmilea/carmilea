@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bootstrap 5 Released](https://blog.getbootstrap.com/2021/05/05/bootstrap-5/)
+- [Blizzard has lost almost 29% of its overall active playerbase in three years](https://massivelyop.com/2021/05/04/activision-blizzard-q1-2021-financials-blizzard-maus-down-to-27m/)
+- [Show HN: CS Weapons – Counter-Strike weapon data comparison app](https://www.csweapons.com)
+- [HTML Tips and Tricks](https://markodenic.com/posts/html-tips/)
 - [Taking Sex Differences in Personality Seriously (2019)](https://blogs.scientificamerican.com/beautiful-minds/taking-sex-differences-in-personality-seriously/)
-- [MacFlim: Full-motion video on B&W Macs](http://www.macflim.com)
-- [Linux and Glibc API Changes](https://man7.org/tlpi/api_changes/index.html)
-- [Netflix's “Love Is Blind” Wants Unpaid Photographer for Five Weddings](https://petapixel.com/2021/05/05/netflixs-love-is-blind-wants-unpaid-photographer-for-five-weddings/)
-- [Send: A Fork of Mozilla's Firefox Send](https://github.com/timvisee/send)
 <!-- BLOG-POST-LIST:END -->
 
 ---
