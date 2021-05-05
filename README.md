@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Send: A Fork of Mozilla's Firefox Send](https://github.com/timvisee/send)
+- [BillionToOne (YC S17) is hiring software engineers to advance genetic testing](https://news.ycombinator.com/item?id=27052498)
+- [Pts.js: a modular librairy for visualization and creative coding](https://ptsjs.org/)
+- [Is this what Enterprise mean?](https://twitter.com/steffoz/status/1389946268764475394)
 - [ISDN: The Untravelled Path of Mobile Computing (2015)](https://blog.gatunka.com/2015/06/30/isdn-the-untraveled-path-of-mobile-computing/)
-- [Orbit is now open source](https://github.com/andymatuschak/orbit)
-- [LSD, Cargo Shorts and the Fall of a High-Flying Tech CEO](https://www.bloomberg.com/news/articles/2021-05-03/lsd-cargo-shorts-and-the-fall-of-a-high-flying-tech-ceo)
-- [Show HN: I wrote the book Building Mobile Apps at Scale](http://mobileatscale.com/)
-- [PlayCanvas Launches Node-Based Animation Editor for WebGL](https://blog.playcanvas.com/introducing-the-anim-state-graph/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
