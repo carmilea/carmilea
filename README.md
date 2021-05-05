@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Car Hacked Remotely from Drone via Zero-Click Exploit](https://www.securityweek.com/tesla-car-hacked-remotely-drone-zero-click-exploit)
 - [SeL4 on RISC-V Verified to Binary Code](https://microkerneldude.wordpress.com/2021/05/05/sel4-on-risc-v-verified-to-binary-code/)
 - [Netflix IT exec forced employees to use products from vendors that bribed him](https://arstechnica.com/tech-policy/2021/05/netflix-it-exec-forced-employees-to-use-products-from-vendors-that-bribed-him/)
 - [ClearURLs – automatically remove tracking elements from URLs](https://github.com/ClearURLs/Addon/)
 - [Doctors investigate mystery brain disease in Canada](https://www.bbc.com/news/world-us-canada-56910393)
-- [$1 Unistroke Recognizer](http://depts.washington.edu/acelab/proj/dollar/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
