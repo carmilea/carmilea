@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Serverless USGS Historical Topographic map tiles](https://kylebarron.dev/usgs-topo-mosaic)
 - [Privacy Implications of Accelerometer Data [pdf]](https://dl.acm.org/doi/pdf/10.1145/3309074.3309076)
 - [Literably (YC IK12) Is Hiring a Senior Software Engineer (Remote)](https://www.workatastartup.com/jobs/43782)
 - [Nixing the Fix: An FTC Report to Congress on Repair Restrictions [pdf]](https://www.ftc.gov/system/files/documents/reports/nixing-fix-ftc-report-congress-repair-restrictions/nixing_the_fix_report_final_5521_630pm-508_002.pdf)
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
-- [8000x Faster DISTINCT on PostgreSQL with TimescaleDB](https://blog.timescale.com/blog/how-we-made-distinct-queries-up-to-8000x-faster-on-postgresql/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
