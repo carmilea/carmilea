@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM Creates First 2nm Chip](https://www.anandtech.com/show/16656/ibm-creates-first-2nm-chip)
+- [HTML Sanitizer API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Sanitizer_API)
 - [FreeBSD 2021 Q1 Status Report](https://www.freebsd.org/status/report-2021-01-2021-03/)
 - [From Rust to Spark: Formally Proven Bip-Buffers](https://blog.adacore.com/from-rust-to-spark-formally-proven-bip-buffers)
-- [Apple deletes Steve Jobs's “Thoughts on Flash”](https://www.apple.com/hotnews/thoughts-on-flash/)
 - [Covid: US backs waiver on vaccine intellectual property](https://www.bbc.co.uk/news/world-us-canada-57004302)
-- [Catala: A Programming Language for the Law](https://arxiv.org/abs/2103.03198)
 <!-- BLOG-POST-LIST:END -->
 
 ---
