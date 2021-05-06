@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brave Playlist Launches on iOS App](https://brave.com/playlist/)
-- [The double-arm barn door tracker](http://education.jlab.org/tracker/)
-- [OpenCV AI Competition 2021 Highlights and Team Profiles Part 2](https://opencv.org/opencv-ai-competition-2021-highlights-and-team-profiles-part-2/)
-- [April 2021 Librem 5 News Summary](https://puri.sm/posts/librem-5-news-summary-april-2021/)
-- [Hardening macOS](https://blog.bejarano.io/hardening-macos/)
+- [Privacy Implications of Accelerometer Data [pdf]](https://dl.acm.org/doi/pdf/10.1145/3309074.3309076)
+- [Literably (YC IK12) Is Hiring a Senior Software Engineer (Remote)](https://www.workatastartup.com/jobs/43782)
+- [Nixing the Fix: An FTC Report to Congress on Repair Restrictions [pdf]](https://www.ftc.gov/system/files/documents/reports/nixing-fix-ftc-report-congress-repair-restrictions/nixing_the_fix_report_final_5521_630pm-508_002.pdf)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [8000x Faster DISTINCT on PostgreSQL with TimescaleDB](https://blog.timescale.com/blog/how-we-made-distinct-queries-up-to-8000x-faster-on-postgresql/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
