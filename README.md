@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase is closing their SF office and going full remote](https://twitter.com/CoinbaseNews/status/1390065013071781889)
+- [Pyston v2.2: faster and open source](https://blog.pyston.org/2021/05/05/pyston-v2-2-faster-and-open-source/)
+- [Japan should cut losses and tell the IOC to take its Olympic pillage elsewhere](https://www.washingtonpost.com/sports/2021/05/05/japan-ioc-olympic-contract/)
 - [ProcMon for Linux (Preview)](https://github.com/Sysinternals/ProcMon-for-Linux/)
 - [LiveLeak shuts down after 15 years online](https://techstartups.com/2021/05/05/liveleak-shuts-15-years-online/)
-- [Major Depressive Disorders Have an Enormous Economic Impact](https://www.scientificamerican.com/article/major-depressive-disorders-have-an-enormous-economic-impact/)
-- [Ask HN: How do you generally build a product?](https://news.ycombinator.com/item?id=27057978)
-- [Live feed of Starship SN15 flight test [video]](https://www.spacex.com/vehicles/starship/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
