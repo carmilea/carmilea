@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fungi on Mars? Evidence of Growth and Behavior from Sequential Images [pdf]](https://www.researchgate.net/publication/351252619_Fungi_on_Mars_Evidence_of_Growth_and_Behavior_From_Sequential_Images)
+- [I Hacked Google App Engine: Anatomy of a Java Bytecode Exploit](https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html)
+- [Astronauts with disabilities can apply to Europe's space agency for first time](https://www.cbc.ca/news/science/astronauts-physical-disabilities-esa-1.6013038)
 - [Teens in '80s Czechoslovakia swapped tapes of text adventure protest games](https://if50.substack.com/p/1988-prestavba)
-- [A simpler and safer future – without passwords](https://blog.google/technology/safety-security/a-simpler-and-safer-future-without-passwords/)
-- [Stack Overflow switches to system fonts on May 10, 2021](https://meta.stackexchange.com/questions/364048/were-switching-to-system-fonts-on-may-10-2021)
-- [The AskHistorians subreddit banned Holocaust deniers (2018)](https://slate.com/technology/2018/07/the-askhistorians-subreddit-banned-holocaust-deniers-and-facebook-should-too.html)
-- [Show HN: Hatetris – Tetris which always gives you the worst piece](https://github.com/qntm/hatetris)
+- [Thunderbird, RNP, and the Importance of a Good API](https://sequoia-pgp.org/blog/2021/05/06/202105-thunderbird-rnp-and-the-importance-of-a-good-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
