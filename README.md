@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IBM Creates First 2nm Chip](https://www.anandtech.com/show/16656/ibm-creates-first-2nm-chip)
-- [HTML Sanitizer API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Sanitizer_API)
-- [FreeBSD 2021 Q1 Status Report](https://www.freebsd.org/status/report-2021-01-2021-03/)
-- [From Rust to Spark: Formally Proven Bip-Buffers](https://blog.adacore.com/from-rust-to-spark-formally-proven-bip-buffers)
-- [Covid: US backs waiver on vaccine intellectual property](https://www.bbc.co.uk/news/world-us-canada-57004302)
+- [Tesorio Is Hiring a Data Architect, Senior DevOps, Senior Data Scientist](https://www.tesorio.com/careers#job-openings)
+- [The Grim Secret of Nordic Happiness](https://slate.com/news-and-politics/2021/04/finland-happiness-lagom-hygge.html)
+- [Crazy New Ideas](http://paulgraham.com/newideas.html)
+- [Starting a Crypto Project](https://twitter.com/jonsyu/status/1389635626698297344)
+- [Linux Has Largely Abandoned Still-Useful Near-Vintage Computers](https://cheapskatesguide.org/articles/linux-on-vintage-computers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
