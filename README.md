@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brave Playlist Launches on iOS App](https://brave.com/playlist/)
+- [The double-arm barn door tracker](http://education.jlab.org/tracker/)
+- [OpenCV AI Competition 2021 Highlights and Team Profiles Part 2](https://opencv.org/opencv-ai-competition-2021-highlights-and-team-profiles-part-2/)
 - [April 2021 Librem 5 News Summary](https://puri.sm/posts/librem-5-news-summary-april-2021/)
-- [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
-- [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
-- [Interactive IPA Chart](https://www.ipachart.com/)
-- [Quantum Double-Slit Experiment Offers Hope for Earth-Size Telescope](https://www.quantamagazine.org/famous-quantum-experiment-offers-hope-for-earth-size-telescope-20210505/)
+- [Hardening macOS](https://blog.bejarano.io/hardening-macos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
