@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nuclear reactions are smoldering again at Chernobyl](https://www.sciencemag.org/news/2021/05/nuclear-reactions-reawaken-chernobyl-reactor)
-- [Clubhouse downloads are falling off a cliff](https://www.businessinsider.in/Clubhouse-downloads-are-falling-off-a-cliff-The-app-was-downloaded-only-about-900000-times-in-April-down-from-Februarys-peak-of-9-6-million/articleshow/82377695.cms)
-- [Branch predictor: How many “if”s are too many? Including x86 and M1 benchmarks](https://blog.cloudflare.com/branch-predictor/)
-- [DIY Boat Monitoring System](https://l-36.com/DIY-boat-monitoring-system.php)
-- [Tesorio Is Hiring a Data Architect, Senior DevOps, Senior Data Scientist](https://www.tesorio.com/careers#job-openings)
+- [Teens in '80s Czechoslovakia swapped tapes of text adventure protest games](https://if50.substack.com/p/1988-prestavba)
+- [A simpler and safer future – without passwords](https://blog.google/technology/safety-security/a-simpler-and-safer-future-without-passwords/)
+- [Stack Overflow switches to system fonts on May 10, 2021](https://meta.stackexchange.com/questions/364048/were-switching-to-system-fonts-on-may-10-2021)
+- [The AskHistorians subreddit banned Holocaust deniers (2018)](https://slate.com/technology/2018/07/the-askhistorians-subreddit-banned-holocaust-deniers-and-facebook-should-too.html)
+- [Show HN: Hatetris – Tetris which always gives you the worst piece](https://github.com/qntm/hatetris)
 <!-- BLOG-POST-LIST:END -->
 
 ---
