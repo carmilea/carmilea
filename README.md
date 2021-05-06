@@ -55,7 +55,7 @@
 - [The Grim Secret of Nordic Happiness](https://slate.com/news-and-politics/2021/04/finland-happiness-lagom-hygge.html)
 - [Crazy New Ideas](http://paulgraham.com/newideas.html)
 - [Starting a Crypto Project](https://twitter.com/jonsyu/status/1389635626698297344)
-- [Linux Has Largely Abandoned Still-Useful Near-Vintage Computers](https://cheapskatesguide.org/articles/linux-on-vintage-computers.html)
+- [Study: Using Apple’s Night Shift to improve your sleep? Don’t bother](https://arstechnica.com/gadgets/2021/05/iphones-night-shift-feature-doesnt-help-you-sleep-better-study-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
