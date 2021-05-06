@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dependency Managers Don’t Manage Your Dependencies](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
+- [LiveLeak shuts down after 15 years](https://techstartups.com/2021/05/05/liveleak-shuts-15-years-online/)
+- [Major Depressive Disorders Have an Enormous Economic Impact](https://www.scientificamerican.com/article/major-depressive-disorders-have-an-enormous-economic-impact/)
+- [Ask HN: How do you generally build a product?](https://news.ycombinator.com/item?id=27057978)
+- [How can an older worker going back to CS after a break find a position?](https://news.ycombinator.com/item?id=27057957)
 - [Live feed of Starship SN15 flight test [video]](https://www.spacex.com/vehicles/starship/index.html)
-- [The California Exception](https://pxlnv.com/linklog/california-exception/)
-- [Zumo Labs (YC W20) Is Hiring a Product Manager](https://www.workatastartup.com/jobs/43771)
-- [A Hybrid Approach to Work](https://blog.google/inside-google/life-at-google/hybrid-approach-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
