@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fungi on Mars? Evidence of Growth and Behavior from Sequential Images [pdf]](https://www.researchgate.net/publication/351252619_Fungi_on_Mars_Evidence_of_Growth_and_Behavior_From_Sequential_Images)
-- [I Hacked Google App Engine: Anatomy of a Java Bytecode Exploit](https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html)
-- [Astronauts with disabilities can apply to Europe's space agency for first time](https://www.cbc.ca/news/science/astronauts-physical-disabilities-esa-1.6013038)
-- [Teens in '80s Czechoslovakia swapped tapes of text adventure protest games](https://if50.substack.com/p/1988-prestavba)
-- [Thunderbird, RNP, and the Importance of a Good API](https://sequoia-pgp.org/blog/2021/05/06/202105-thunderbird-rnp-and-the-importance-of-a-good-api/)
+- [A centrifugal spin on a 500-year-old air compressor design](https://newatlas.com/good-thinking/carnot-centrifugal-air-compressor/)
+- [MedCrypt (YC W19) Is Hiring: AWS Cloud/DevOps Engineer – Remote](https://news.ycombinator.com/item?id=27066148)
+- [Researchers chart path to drastically lower administrative costs of health care](http://med.stanford.edu/news/all-news/2021/04/researchers-chart-path-to-lower-health-care-administrative-costs.html.html?mkt_tok=ODg0LUZTQi0zMDcAAAF84YXDwjcow7qSEyVjeiYYymJxwwegZeKlZ0lY80KpvyGXnFFbRZ5F3f95hhsB45PHpP51zf1pFjdkKSLmKtSenWlsRIWs1W9g06_HVvcnbA)
+- [Berkshire Hathaway’s Stock Price vs. 32-Bit Integers](https://daringfireball.net/linked/2021/05/05/berkshire-32-bit-ints)
+- [Opposition to Net Neutrality Was Faked, New York Says](https://www.nytimes.com/live/2021/05/06/business/stock-market-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
