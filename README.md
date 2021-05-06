@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nuclear reactions are smoldering again at Chernobyl](https://www.sciencemag.org/news/2021/05/nuclear-reactions-reawaken-chernobyl-reactor)
+- [Clubhouse downloads are falling off a cliff](https://www.businessinsider.in/Clubhouse-downloads-are-falling-off-a-cliff-The-app-was-downloaded-only-about-900000-times-in-April-down-from-Februarys-peak-of-9-6-million/articleshow/82377695.cms)
+- [Branch predictor: How many “if”s are too many? Including x86 and M1 benchmarks](https://blog.cloudflare.com/branch-predictor/)
+- [DIY Boat Monitoring System](https://l-36.com/DIY-boat-monitoring-system.php)
 - [Tesorio Is Hiring a Data Architect, Senior DevOps, Senior Data Scientist](https://www.tesorio.com/careers#job-openings)
-- [The Grim Secret of Nordic Happiness](https://slate.com/news-and-politics/2021/04/finland-happiness-lagom-hygge.html)
-- [Crazy New Ideas](http://paulgraham.com/newideas.html)
-- [Starting a Crypto Project](https://twitter.com/jonsyu/status/1389635626698297344)
-- [Study: Using Apple’s Night Shift to improve your sleep? Don’t bother](https://arstechnica.com/gadgets/2021/05/iphones-night-shift-feature-doesnt-help-you-sleep-better-study-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
