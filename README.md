@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [April 2021 Librem 5 News Summary](https://puri.sm/posts/librem-5-news-summary-april-2021/)
+- [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
 - [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 - [Interactive IPA Chart](https://www.ipachart.com/)
 - [Quantum Double-Slit Experiment Offers Hope for Earth-Size Telescope](https://www.quantamagazine.org/famous-quantum-experiment-offers-hope-for-earth-size-telescope-20210505/)
-- [A centrifugal spin on a 500-year-old air compressor design](https://newatlas.com/good-thinking/carnot-centrifugal-air-compressor/)
-- [MedCrypt (YC W19) Is Hiring: AWS Cloud/DevOps Engineer – Remote](https://news.ycombinator.com/item?id=27066148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
