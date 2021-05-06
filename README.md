@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
+- [Interactive IPA Chart](https://www.ipachart.com/)
+- [Quantum Double-Slit Experiment Offers Hope for Earth-Size Telescope](https://www.quantamagazine.org/famous-quantum-experiment-offers-hope-for-earth-size-telescope-20210505/)
 - [A centrifugal spin on a 500-year-old air compressor design](https://newatlas.com/good-thinking/carnot-centrifugal-air-compressor/)
 - [MedCrypt (YC W19) Is Hiring: AWS Cloud/DevOps Engineer – Remote](https://news.ycombinator.com/item?id=27066148)
-- [Researchers chart path to drastically lower administrative costs of health care](http://med.stanford.edu/news/all-news/2021/04/researchers-chart-path-to-lower-health-care-administrative-costs.html.html?mkt_tok=ODg0LUZTQi0zMDcAAAF84YXDwjcow7qSEyVjeiYYymJxwwegZeKlZ0lY80KpvyGXnFFbRZ5F3f95hhsB45PHpP51zf1pFjdkKSLmKtSenWlsRIWs1W9g06_HVvcnbA)
-- [Berkshire Hathaway’s Stock Price vs. 32-Bit Integers](https://daringfireball.net/linked/2021/05/05/berkshire-32-bit-ints)
-- [Opposition to Net Neutrality Was Faked, New York Says](https://www.nytimes.com/live/2021/05/06/business/stock-market-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
