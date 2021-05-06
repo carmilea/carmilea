@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Coinbase is closing their SF office](https://twitter.com/CoinbaseNews/status/1390065013071781889)
+- [Apple Deletes Steve Jobs's “Thoughts on Flash”](https://www.apple.com/hotnews/thoughts-on-flash/)
+- [Deep Diving into the Strengths of FreeBSD](https://klarasystems.com/articles/deep-diving-into-the-strengths-of-freebsd/)
 - [Pyston v2.2: faster and open source](https://blog.pyston.org/2021/05/05/pyston-v2-2-faster-and-open-source/)
 - [ProcMon for Linux (Preview)](https://github.com/Sysinternals/ProcMon-for-Linux/)
-- [LiveLeak shuts down after 15 years online](https://techstartups.com/2021/05/05/liveleak-shuts-15-years-online/)
-- [Major Depressive Disorders Have an Enormous Economic Impact](https://www.scientificamerican.com/article/major-depressive-disorders-have-an-enormous-economic-impact/)
+- [Why What3Words is not suitable for safety critical applications](https://cybergibbons.com/security-2/why-what3words-is-not-suitable-for-safety-critical-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
