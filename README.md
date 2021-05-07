@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Where the top of the stack is on x86 (2011)](https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/)
+- [Why Java's Records Are Better* Than Lombok's Data and Kotlin's Data Classes](https://nipafx.dev/java-record-semantics/)
+- [Android Devices Are at Risk of Data Theft (2020)](https://www.wired.com/story/over-a-billion-android-devices-are-at-risk-of-data-theft/)
 - [Towards an HD44780-Based Video Mode](https://github.com/MisterHW/44780HD)
-- [Only 4% of iOS users in US are opting in to ad tracking, report says](https://appleinsider.com/articles/21/05/07/only-4-of-ios-users-in-us-are-opting-in-to-ad-tracking-report-says)
-- [WebAIM Screen Reader User Survey #9](https://webaim.org/projects/screenreadersurvey9/)
-- [Termite Is Obsoleted by Alacritty](https://github.com/thestinger/termite)
-- [Amazon Fake Reviews Scam Exposed in Data Breach](https://www.safetydetectives.com/blog/amazon-reviews-leak-report/)
+- [Comparing Tesla, Ford and VW’s Electrical Architectures [video]](https://www.youtube.com/watch?v=ZRkm6-bBk4U)
 <!-- BLOG-POST-LIST:END -->
 
 ---
