@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why are there so many people in prison in America? (2017)](http://braino.org/essays/why_so_many_people_in_prison/)
 - [WebAIM: Screen Reader User Survey #9](https://webaim.org/projects/screenreadersurvey9/)
 - [Termite Is Obsoleted by Alacritty](https://github.com/thestinger/termite)
 - [Amazon Fake Reviews Scam Exposed in Data Breach](https://www.safetydetectives.com/blog/amazon-reviews-leak-report/)
 - [Analytics Suggest 96% of Users Leave App Tracking Disabled in iOS 14.5](https://www.macrumors.com/2021/05/07/most-iphone-users-app-tracking-opt-out/)
-- [Decentralized trust graph for online value exchange without a blockchain (2017)](https://web.archive.org/web/20170722064044/https://settle.network/posts/intro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
