@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Burger: 90% less greenhouse emissions, 99% less water, and 93% less land](http://css.umich.edu/publication/beyond-meats-beyond-burger-life-cycle-assessment-detailed-comparison-between-plant-based)
+- [Grain: WebAssembly-First Programming Language](https://www.infoq.com/news/2021/05/grain-web-assembly-first/)
+- [Anime2Sketch: A sketch extractor for illustration, anime art, manga](https://github.com/Mukosame/Anime2Sketch)
 - [Laylo (YC S20) Is Hiring](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-growth-marketing-lead)
 - [College Became a Ruthless Competition Divorced from Learning](https://www.theatlantic.com/ideas/archive/2021/05/marriage-college-status-meritocracy/618795/)
-- [Show HN: Serverless USGS Historical Topographic map tiles](https://kylebarron.dev/usgs-topo-mosaic)
-- [Privacy Implications of Accelerometer Data [pdf]](https://dl.acm.org/doi/pdf/10.1145/3309074.3309076)
-- [California is not in drought](https://www.latimes.com/opinion/story/2021-05-06/editorial-there-is-no-drought)
 <!-- BLOG-POST-LIST:END -->
 
 ---
