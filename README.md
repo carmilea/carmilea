@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rufus: The Reliable USB Formatting Utility](https://github.com/pbatard/rufus)
+- [Show HN: WinBox – just like Windows, but for the web](https://github.com/nextapps-de/winbox)
+- [Land with Erupting Volcanos Can Be Purchased for the Right Price](https://www.visir.is/g/20212106234d/jord-med-gjosandi-eldfjalli-faest-keypt-fyrir-rett-verd)
+- [How to survive a toxic workplace and how to avoid creating one](https://newsletter.timber.fm/p/how-to-survive-a-toxic-workplace)
 - [Beyond Burger: 90% less greenhouse emissions, 99% less water, and 93% less land (2018)](http://css.umich.edu/publication/beyond-meats-beyond-burger-life-cycle-assessment-detailed-comparison-between-plant-based)
-- [Grain: WebAssembly-First Programming Language](https://www.infoq.com/news/2021/05/grain-web-assembly-first/)
-- [Anime2Sketch: A sketch extractor for illustration, anime art, manga](https://github.com/Mukosame/Anime2Sketch)
-- [Laylo (YC S20) Is Hiring](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-growth-marketing-lead)
-- [College Became a Ruthless Competition Divorced from Learning](https://www.theatlantic.com/ideas/archive/2021/05/marriage-college-status-meritocracy/618795/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
