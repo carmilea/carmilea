@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PatchELF: Simple utility for modifying existing ELF executables and libraries](https://github.com/NixOS/patchelf)
-- [Care about your users, don't minify your JavaScript](https://framatube.org/videos/watch/2e4c7cf0-8797-4712-8eda-1d5912937b51)
-- [The Complete Hypercard Handbook](https://archive.org/details/The_Complete_HyperCard_Handbook/)
-- [Crossbar.io – an open source platform for distributed and microservice apps](https://crossbar.io/)
-- [Apple Silicon Hardware Secrets: SPRR and Guarded Exception Levels (GXF)](https://blog.svenpeter.dev/posts/m1_sprr_gxf/)
+- [Kraftful (YC S19) hiring founding engineers to build the standard IoT platform](https://www.ycombinator.com/companies/kraftful/)
+- [Be in a field where tech is the limit](https://mathiaskirkbonde.substack.com/p/be-in-a-field-where-tech-is-the-limit)
+- [Little Free Library](http://littlefreelibrary.org/)
+- [Starlink Satellites Tracker](https://findstarlink.com)
+- [Goodwill Doesn't Want Your Broken Toaster](https://text.npr.org/993821945)
 <!-- BLOG-POST-LIST:END -->
 
 ---
