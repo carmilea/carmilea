@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smithy: A language for defining services and SDKs](https://awslabs.github.io/smithy/)
+- [PsiQuantum to Build the World’s First Full-Scale Quantum Computer](https://www.globalfoundries.com/press-release/psiquantum-and-globalfoundries-build-worlds-first-full-scale-quantum-computer)
+- [A New AWS SDK for Rust](https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/)
 - [Kraftful (YC S19) hiring founding engineers to build the standard IoT platform](https://www.ycombinator.com/companies/kraftful/)
 - [Be in a field where tech is the limit](https://mathiaskirkbonde.substack.com/p/be-in-a-field-where-tech-is-the-limit)
-- [Little Free Library](http://littlefreelibrary.org/)
-- [Starlink Satellites Tracker](https://findstarlink.com)
-- [Goodwill Doesn't Want Your Broken Toaster](https://text.npr.org/993821945)
 <!-- BLOG-POST-LIST:END -->
 
 ---
