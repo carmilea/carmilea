@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [PatchELF: Simple utility for modifying existing ELF executables and libraries](https://github.com/NixOS/patchelf)
+- [Care about your users, don't minify your JavaScript](https://framatube.org/videos/watch/2e4c7cf0-8797-4712-8eda-1d5912937b51)
 - [The Complete Hypercard Handbook](https://archive.org/details/The_Complete_HyperCard_Handbook/)
 - [Crossbar.io – an open source platform for distributed and microservice apps](https://crossbar.io/)
 - [Apple Silicon Hardware Secrets: SPRR and Guarded Exception Levels (GXF)](https://blog.svenpeter.dev/posts/m1_sprr_gxf/)
-- [Honeywell exported technical drawings of B1 Bombers, F-35 and F22 to China](https://www.defensenews.com/industry/2021/05/04/honeywell-fined-13-million-for-defense-export-violations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
