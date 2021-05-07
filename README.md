@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Global rich must cut their carbon footprint 97% to stave off climate change](https://www.cbsnews.com/news/carbon-footprint-wealthy-people-97-percent-cut-un/)
+- [PatchELF: Simple utility for modifying existing ELF executables and libraries](https://github.com/NixOS/patchelf)
+- [The Complete Hypercard Handbook](https://archive.org/details/The_Complete_HyperCard_Handbook/)
+- [Crossbar.io – an open source platform for distributed and microservice apps](https://crossbar.io/)
 - [Apple Silicon Hardware Secrets: SPRR and Guarded Exception Levels (GXF)](https://blog.svenpeter.dev/posts/m1_sprr_gxf/)
 - [Honeywell exported technical drawings of B1 Bombers, F-35 and F22 to China](https://www.defensenews.com/industry/2021/05/04/honeywell-fined-13-million-for-defense-export-violations/)
-- [True U.S. Death Toll from Covid Is More Than 900k, Study Finds](http://www.healthdata.org/special-analysis/estimation-excess-mortality-due-covid-19-and-scalars-reported-covid-19-deaths)
-- [Blender Foundation Annual Report 2020 [pdf]](https://download.blender.org/institute/blender-annual-report-2020-v1.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
