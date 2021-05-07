@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript for Shell Scripting](https://github.com/google/zx)
 - [Shifting the impossible to the inevitable: A Private ARPA user manual](https://benjaminreinhardt.com/parpa)
 - [Movie Tycoon Sues YouTube over Piracy and Exposes Content-ID ‘Caveat’](https://torrentfreak.com/movie-tycoon-sues-youtube-over-piracy-and-exposes-content-id-caveat-210506/)
 - [HumAIn Podcast: How to Power Enterprises with Intelligent Applications with Jordan Tigani of SingleStore](https://www.singlestore.com/blog/how-to-power-enterprises-with-intelligent-applications-with-jordan-tigani-of-singlestore)
 - [Rufus: The Reliable USB Formatting Utility](https://github.com/pbatard/rufus)
-- [Show HN: WinBox – just like Windows, but for the web](https://github.com/nextapps-de/winbox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
