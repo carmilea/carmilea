@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What we got wrong: the Guardian’s worst errors of judgment over 200 years](https://www.theguardian.com/media/2021/may/07/guardian-200-what-we-got-wrong-the-guardians-worst-errors-of-judgment-over-200-years)
+- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](http://atob.com/careers)
+- [Part 2 of Interview with Linus Torvalds](https://www.tag1consulting.com/blog/interview-linus-torvalds-open-source-and-beyond-part-2)
+- [Search 1B pages on AWS S3 for 1000$ / month, made in Rust and tantivy](https://quickwit.io/blog/commoncrawl/)
 - [Bird song sonographs show distinct drawing patterns](https://soundshader.github.io/hss/gallery/)
 - [Racket 8.1](https://blog.racket-lang.org/2021/05/racket-v8-1.html)
-- [Directory of Open Access Journals](http://www.doaj.org/)
-- [Worg (Emacs Org documentation) maintainer needed](https://orgmode.org/list/87y2ctuqcj.fsf@gnu.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
