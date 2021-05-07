@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](http://atob.com/careers)
-- [Part 2 of Interview with Linus Torvalds](https://www.tag1consulting.com/blog/interview-linus-torvalds-open-source-and-beyond-part-2)
-- [Search 1B pages on AWS S3 for 1000$ / month, made in Rust and tantivy](https://quickwit.io/blog/commoncrawl/)
-- [Bird song sonographs show distinct drawing patterns](https://soundshader.github.io/hss/gallery/)
-- [Racket 8.1](https://blog.racket-lang.org/2021/05/racket-v8-1.html)
+- [WebAIM: Screen Reader User Survey #9](https://webaim.org/projects/screenreadersurvey9/)
+- [Termite Is Obsoleted by Alacritty](https://github.com/thestinger/termite)
+- [Amazon Fake Reviews Scam Exposed in Data Breach](https://www.safetydetectives.com/blog/amazon-reviews-leak-report/)
+- [Analytics Suggest 96% of Users Leave App Tracking Disabled in iOS 14.5](https://www.macrumors.com/2021/05/07/most-iphone-users-app-tracking-opt-out/)
+- [Decentralized trust graph for online value exchange without a blockchain (2017)](https://web.archive.org/web/20170722064044/https://settle.network/posts/intro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
