@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are there so many people in prison in America? (2017)](http://braino.org/essays/why_so_many_people_in_prison/)
-- [WebAIM: Screen Reader User Survey #9](https://webaim.org/projects/screenreadersurvey9/)
+- [Towards an HD44780-Based Video Mode](https://github.com/MisterHW/44780HD)
+- [Only 4% of iOS users in US are opting in to ad tracking, report says](https://appleinsider.com/articles/21/05/07/only-4-of-ios-users-in-us-are-opting-in-to-ad-tracking-report-says)
+- [WebAIM Screen Reader User Survey #9](https://webaim.org/projects/screenreadersurvey9/)
 - [Termite Is Obsoleted by Alacritty](https://github.com/thestinger/termite)
 - [Amazon Fake Reviews Scam Exposed in Data Breach](https://www.safetydetectives.com/blog/amazon-reviews-leak-report/)
-- [Analytics Suggest 96% of Users Leave App Tracking Disabled in iOS 14.5](https://www.macrumors.com/2021/05/07/most-iphone-users-app-tracking-opt-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
