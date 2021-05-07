@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shifting the impossible to the inevitable: A Private ARPA user manual](https://benjaminreinhardt.com/parpa)
+- [Movie Tycoon Sues YouTube over Piracy and Exposes Content-ID ‘Caveat’](https://torrentfreak.com/movie-tycoon-sues-youtube-over-piracy-and-exposes-content-id-caveat-210506/)
+- [HumAIn Podcast: How to Power Enterprises with Intelligent Applications with Jordan Tigani of SingleStore](https://www.singlestore.com/blog/how-to-power-enterprises-with-intelligent-applications-with-jordan-tigani-of-singlestore)
 - [Rufus: The Reliable USB Formatting Utility](https://github.com/pbatard/rufus)
 - [Show HN: WinBox – just like Windows, but for the web](https://github.com/nextapps-de/winbox)
-- [Land with Erupting Volcanos Can Be Purchased for the Right Price](https://www.visir.is/g/20212106234d/jord-med-gjosandi-eldfjalli-faest-keypt-fyrir-rett-verd)
-- [How to survive a toxic workplace and how to avoid creating one](https://newsletter.timber.fm/p/how-to-survive-a-toxic-workplace)
-- [Beyond Burger: 90% less greenhouse emissions, 99% less water, and 93% less land (2018)](http://css.umich.edu/publication/beyond-meats-beyond-burger-life-cycle-assessment-detailed-comparison-between-plant-based)
 <!-- BLOG-POST-LIST:END -->
 
 ---
