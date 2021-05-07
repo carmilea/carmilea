@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenUnit (YC W20) Is Hiring Ruby on Rails Developers](https://www.openunit.com/jobs/software-engineer)
+- [Facebook threatens to make iOS users pay. Please do it, Mr. Zuckerberg](https://www.zdnet.com/article/facebook-threatens-to-make-ios-users-pay-please-do-it-mr-zuckerberg/)
+- [The Pinecone Overlay Network](https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network)
 - [Where the top of the stack is on x86 (2011)](https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/)
 - [Why Java's Records Are Better* Than Lombok's Data and Kotlin's Data Classes](https://nipafx.dev/java-record-semantics/)
-- [Android Devices Are at Risk of Data Theft (2020)](https://www.wired.com/story/over-a-billion-android-devices-are-at-risk-of-data-theft/)
-- [Towards an HD44780-Based Video Mode](https://github.com/MisterHW/44780HD)
-- [Comparing Tesla, Ford and VW’s Electrical Architectures [video]](https://www.youtube.com/watch?v=ZRkm6-bBk4U)
 <!-- BLOG-POST-LIST:END -->
 
 ---
