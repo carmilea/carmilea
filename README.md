@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bird song sonographs show distinct drawing patterns](https://soundshader.github.io/hss/gallery/)
+- [Directory of Open Access Journals](http://www.doaj.org/)
+- [If Tech companies had tobacco warning labels](https://www.hattusia.com/post/through-the-smoke-the-harms-of-big-tech)
 - [Worg (Emacs Org documentation) maintainer needed](https://orgmode.org/list/87y2ctuqcj.fsf@gnu.org/)
 - [How Big Pharma Finds Sick Users on Facebook](https://themarkup.org/citizen-browser/2021/05/06/how-big-pharma-finds-sick-users-on-facebook)
-- [JavaScript for Shell Scripting](https://github.com/google/zx)
-- [Shifting the impossible to the inevitable: A Private ARPA user manual](https://benjaminreinhardt.com/parpa)
-- [Movie Tycoon Sues YouTube over Piracy and Exposes Content-ID ‘Caveat’](https://torrentfreak.com/movie-tycoon-sues-youtube-over-piracy-and-exposes-content-id-caveat-210506/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
