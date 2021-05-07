@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What we got wrong: the Guardian’s worst errors of judgment over 200 years](https://www.theguardian.com/media/2021/may/07/guardian-200-what-we-got-wrong-the-guardians-worst-errors-of-judgment-over-200-years)
 - [Bird song sonographs show distinct drawing patterns](https://soundshader.github.io/hss/gallery/)
+- [Racket 8.1](https://blog.racket-lang.org/2021/05/racket-v8-1.html)
 - [Directory of Open Access Journals](http://www.doaj.org/)
-- [If Tech companies had tobacco warning labels](https://www.hattusia.com/post/through-the-smoke-the-harms-of-big-tech)
 - [Worg (Emacs Org documentation) maintainer needed](https://orgmode.org/list/87y2ctuqcj.fsf@gnu.org/)
-- [How Big Pharma Finds Sick Users on Facebook](https://themarkup.org/citizen-browser/2021/05/06/how-big-pharma-finds-sick-users-on-facebook)
 <!-- BLOG-POST-LIST:END -->
 
 ---
