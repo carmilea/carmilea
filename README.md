@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Foundation starts landmark open source agtech project AgStack](https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/)
-- [Chrome extension recommends local businesses while shopping on Amazon or eBay](https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj)
-- [Cyberattack Forces a Shutdown of a Top U.S. Pipeline Operator](https://www.nytimes.com/2021/05/08/us/cyberattack-colonial-pipeline.html)
-- [U.S.'s Biggest Gasoline Pipeline Halted After Cyberattack](https://www.bloomberg.com/news/articles/2021-05-08/u-s-s-biggest-gasoline-and-pipeline-halted-after-cyberattack)
-- [Lowkey (YC S18) is hiring senior engineers (full-stack and iOS) who like games](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
+- [96% of US users opt out of app tracking in iOS 14.5, analytics find](https://arstechnica.com/gadgets/2021/05/96-of-us-users-opt-out-of-app-tracking-in-ios-14-5-analytics-find/)
+- [I make $200k/year by writing order notes](https://bychgroup.com/i-make-200000-year-by-writing-order-notes/)
+- [Ursula Le Guin Books](https://fivebooks.com/best-books/best-ursula-le-guin-books-sherryl-vint/)
+- [Apple tries to get Epic to admit there's porn on its store](https://kotaku.com/apple-tries-really-hard-to-get-epic-to-admit-theres-por-1846849388)
+- [Linux Foundation starts AgStack, an open-source agtech initiative](https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
