@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California Population Declines for First Time in More Than a Century](https://www.wsj.com/articles/california-population-declines-for-first-time-in-more-than-a-century-11620416887)
-- [WhatsApp will progressively kill features until users accept new privacy policy](https://www.androidpolice.com/2021/05/07/whatsapp-chickens-out-on-its-privacy-policy-deadline/)
+- [California population declines for first time in more than a century](https://www.wsj.com/articles/california-population-declines-for-first-time-in-more-than-a-century-11620416887)
+- [Back-ups for GPS: Satellite-navigation systems at risk of jamming](https://www.economist.com/science-and-technology/2021/05/06/satellite-navigation-systems-such-as-gps-are-at-risk-of-jamming)
 - [The Distribution Vector That Changed Linux Forever](https://tedium.co/2021/05/07/linux-live-cd-history/)
 - [Smithy: A language for defining services and SDKs](https://awslabs.github.io/smithy/)
-- [A New AWS SDK for Rust](https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/)
+- [Kraftful (YC S19) hiring founding engineers to build the standard IoT platform](https://www.ycombinator.com/companies/kraftful/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
