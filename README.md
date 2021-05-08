@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [96% of US users opt out of app tracking in iOS 14.5, analytics find](https://arstechnica.com/gadgets/2021/05/96-of-us-users-opt-out-of-app-tracking-in-ios-14-5-analytics-find/)
-- [I make $200k/year by writing order notes](https://bychgroup.com/i-make-200000-year-by-writing-order-notes/)
+- [AWS Node.js SDK v3 Summons ZA̡͊͠͝LGΌ](https://github.com/aws/aws-sdk-js-v3/issues/2362)
+- [Google wants people to use 2FA, so it’s just going to turn it on for them](https://arstechnica.com/gadgets/2021/05/google-will-soon-start-automatically-enrolling-users-in-2fa/)
+- [Linus Torvalds on why desktop Linux sucks](https://www.youtube.com/watch?v=Pzl1B7nB9Kc)
+- [Kibbutz](https://en.wikipedia.org/wiki/Kibbutz)
 - [Ursula Le Guin Books](https://fivebooks.com/best-books/best-ursula-le-guin-books-sherryl-vint/)
-- [Apple tries to get Epic to admit there's porn on its store](https://kotaku.com/apple-tries-really-hard-to-get-epic-to-admit-theres-por-1846849388)
-- [Linux Foundation starts AgStack, an open-source agtech initiative](https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
