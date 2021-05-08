@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two men arrested with 7 kg radioactive uranium in Mumbai](https://www.indiatoday.in/cities/mumbai/story/two-men-arrested-with-7-kg-radioactive-uranium-in-mumbai-1799552-2021-05-06)
 - [The Amazon Rainforest Now Emits More Greenhouse Gases Than It Absorbs](https://www.smithsonianmag.com/smart-news/amazon-rainforest-now-emits-more-greenhouse-gases-it-absorbs-180977347/)
-- [South Carolina moves closer to allowing death by firing squad](https://www.bbc.com/news/world-us-canada-57027628)
-- [I’ve had the same supper for 10 years](https://www.theguardian.com/lifeandstyle/2021/apr/16/experience-ive-had-the-same-supper-for-10-years)
 - [Back-ups for GPS: Satellite-navigation systems at risk of jamming](https://www.economist.com/science-and-technology/2021/05/06/satellite-navigation-systems-such-as-gps-are-at-risk-of-jamming)
 - [The Distribution Vector That Changed Linux Forever](https://tedium.co/2021/05/07/linux-live-cd-history/)
+- [Smithy: A language for defining services and SDKs](https://awslabs.github.io/smithy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
