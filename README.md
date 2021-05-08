@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [82% of Americans want paid maternity leave – making it as popular as chocolate](https://news.osu.edu/82-of-americans-want-paid-maternity-leave--making-it-as-popular-as-chocolate/)
-- [How to Solve Equations That Are Stubborn as a Goat](https://www.quantamagazine.org/solve-math-equations-that-are-stubborn-as-a-goat-20210506/)
+- [OneSignal (Messaging and Push Notification APIs) is hiring a back end engineer](https://onesignal.com/careers/9e1d251c-c1f9-49c7-98e9-c883e519f902)
+- [Grazing Goat Problems](https://www.quantamagazine.org/solve-math-equations-that-are-stubborn-as-a-goat-20210506/)
 - [iPad Camera Multitasking](https://blog.thinktapwork.com/post/649630720084639744/ipad-camera-multitasking)
 - [Sonova Acquires Sennheiser Consumer Business](https://en-de.sennheiser.com/newsroom/sonova-acquires-sennheiser-consumer-business-vzxws7#)
 - [Why Generation X will save the web](https://webdevlaw.uk/2021/01/30/why-generation-x-will-save-the-web/)
