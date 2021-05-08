@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Getting back to C++ and looking for ideas](https://news.ycombinator.com/item?id=27091044)
 - [Token Transit (YC W17) is hiring to improve public transit payment](https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer)
-- [Tani Adewumi is now a chess master](https://www.nytimes.com/2021/05/08/opinion/sunday/homeless-chess-champion-tani-adewumi.html)
-- [Why Californians Have Sky-High Electricity Bills](https://oilprice.com/Alternative-Energy/Renewable-Energy/Why-Californians-Have-Sky-High-Electricity-Bills.html)
+- [Why Californians have sky-high electricity bills](https://oilprice.com/Alternative-Energy/Renewable-Energy/Why-Californians-Have-Sky-High-Electricity-Bills.html)
 - [HIDmacros](http://www.hidmacros.eu/whatisit.php)
 - [Evidence from leaked account data on how elites use offshore banking [pdf]](https://www.brookings.edu/wp-content/uploads/2021/05/What-lies-beneath_Collin.pdf)
 <!-- BLOG-POST-LIST:END -->
