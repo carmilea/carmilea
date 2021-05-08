@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Lovetris – Tetris which always gives you the best piece](https://unrealwill.github.io/lovetris/)
-- [I’ve had the same supper for 10 years](https://www.theguardian.com/lifeandstyle/2021/apr/16/experience-ive-had-the-same-supper-for-10-years)
-- [The digital currencies that matter](https://www.economist.com/leaders/2021/05/08/the-digital-currencies-that-matter)
-- [California population declines for first time in more than a century](https://www.wsj.com/articles/california-population-declines-for-first-time-in-more-than-a-century-11620416887)
-- [WhatsApp will progressively kill features until users accept new privacy policy](https://www.androidpolice.com/2021/05/07/whatsapp-chickens-out-on-its-privacy-policy-deadline/)
+- [82% of Americans want paid maternity leave – making it as popular as chocolate](https://news.osu.edu/82-of-americans-want-paid-maternity-leave--making-it-as-popular-as-chocolate/)
+- [How to Solve Equations That Are Stubborn as a Goat](https://www.quantamagazine.org/solve-math-equations-that-are-stubborn-as-a-goat-20210506/)
+- [iPad Camera Multitasking](https://blog.thinktapwork.com/post/649630720084639744/ipad-camera-multitasking)
+- [Sonova Acquires Sennheiser Consumer Business](https://en-de.sennheiser.com/newsroom/sonova-acquires-sennheiser-consumer-business-vzxws7#)
+- [Why Generation X will save the web](https://webdevlaw.uk/2021/01/30/why-generation-x-will-save-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
