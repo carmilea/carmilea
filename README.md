@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Afraid to Google a thing because I don't want the algorithm to think I like it](https://twitter.com/jjcollinsworth/status/1390328342533054472)
+- [We can 3D print wood now](https://3dprintingindustry.com/news/desktop-metal-redefines-woodworking-with-new-wood-3d-printing-technology-189752/)
 - [Java beats out C++, Rust, C#, and Golang in gRPC throughput performance](https://github.com/LesnyRumcajs/grpc_bench/wiki/2021-04-13-bench-results)
 - [Rust for Windows 0.9](https://blogs.windows.com/windowsdeveloper/2021/05/06/announcing-rust-for-windows-v0-9/)
 - [Show HN: A portfolio website simulating macOS's GUI using React](https://portfolio.zxh.io)
-- [OneSignal (Messaging and Push Notification APIs) is hiring a back end engineer](https://onesignal.com/careers/9e1d251c-c1f9-49c7-98e9-c883e519f902)
-- [Grazing Goat Problems](https://www.quantamagazine.org/solve-math-equations-that-are-stubborn-as-a-goat-20210506/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
