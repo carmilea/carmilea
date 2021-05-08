@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Afraid to Google a thing because I don't want the algorithm to think I like it](https://twitter.com/jjcollinsworth/status/1390328342533054472)
-- [We can 3D print wood now](https://3dprintingindustry.com/news/desktop-metal-redefines-woodworking-with-new-wood-3d-printing-technology-189752/)
-- [Java beats out C++, Rust, C#, and Golang in gRPC throughput performance](https://github.com/LesnyRumcajs/grpc_bench/wiki/2021-04-13-bench-results)
-- [Rust for Windows 0.9](https://blogs.windows.com/windowsdeveloper/2021/05/06/announcing-rust-for-windows-v0-9/)
-- [Show HN: A portfolio website simulating macOS's GUI using React](https://portfolio.zxh.io)
+- [Cyberattack Forces a Shutdown of a Top U.S. Pipeline Operator](https://www.nytimes.com/2021/05/08/us/cyberattack-colonial-pipeline.html)
+- [U.S.'s Biggest Gasoline Pipeline Halted After Cyberattack](https://www.bloomberg.com/news/articles/2021-05-08/u-s-s-biggest-gasoline-and-pipeline-halted-after-cyberattack)
+- [Lowkey (YC S18) is hiring senior engineers (full-stack and iOS) who like games](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
+- [Dark Matter: The Situation Has Changed](http://backreaction.blogspot.com/2021/05/dark-matter-situation-has-changed.html?m=1)
+- [The Byte Order Fiasco](https://justine.lol/endian.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
