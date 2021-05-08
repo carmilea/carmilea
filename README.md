@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Over 96% of Apple Users Have Blocked Facebook from Tracking Them](https://techdator.net/over-96-of-apple-users-have-blocked-facebook-from-tracking-them/)
 - [Cyberattack Forces a Shutdown of a Top U.S. Pipeline Operator](https://www.nytimes.com/2021/05/08/us/cyberattack-colonial-pipeline.html)
 - [U.S.'s Biggest Gasoline Pipeline Halted After Cyberattack](https://www.bloomberg.com/news/articles/2021-05-08/u-s-s-biggest-gasoline-and-pipeline-halted-after-cyberattack)
 - [Lowkey (YC S18) is hiring senior engineers (full-stack and iOS) who like games](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
-- [Dark Matter: The Situation Has Changed](http://backreaction.blogspot.com/2021/05/dark-matter-situation-has-changed.html?m=1)
-- [The Byte Order Fiasco](https://justine.lol/endian.html)
+- [FBI subpoenaed Apple for data of Sci-Hub founder](https://twitter.com/ringo_ring/status/1390782451140767749)
 <!-- BLOG-POST-LIST:END -->
 
 ---
