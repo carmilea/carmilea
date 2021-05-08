@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Node.js SDK v3 Summons ZA̡͊͠͝LGΌ](https://github.com/aws/aws-sdk-js-v3/issues/2362)
-- [Google wants people to use 2FA, so it’s just going to turn it on for them](https://arstechnica.com/gadgets/2021/05/google-will-soon-start-automatically-enrolling-users-in-2fa/)
-- [Linus Torvalds on why desktop Linux sucks](https://www.youtube.com/watch?v=Pzl1B7nB9Kc)
-- [Kibbutz](https://en.wikipedia.org/wiki/Kibbutz)
-- [Ursula Le Guin Books](https://fivebooks.com/best-books/best-ursula-le-guin-books-sherryl-vint/)
+- [Apple brass discussed disclosing 128M iPhone hack, then decided not to](https://arstechnica.com/gadgets/2021/05/apple-brass-discussed-disclosing-128-million-iphone-hack-then-decided-not-to/)
+- [Flexport is hiring software engineers to uncork global logistics](https://www.flexport.com/careers)
+- [The secret tricks hidden inside restaurant menus (2020)](https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus)
+- [ZA̡͊͠͝LGΌ causes "Invalid MD5 checksum on messages"](https://github.com/aws/aws-sdk-js-v3/issues/2362)
+- [Linus Torvalds on why desktop Linux sucks (2014)](https://www.youtube.com/watch?v=Pzl1B7nB9Kc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
