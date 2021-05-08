@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Java beats out C++, Rust, C#, and Golang in gRPC throughput performance](https://github.com/LesnyRumcajs/grpc_bench/wiki/2021-04-13-bench-results)
+- [Rust for Windows 0.9](https://blogs.windows.com/windowsdeveloper/2021/05/06/announcing-rust-for-windows-v0-9/)
+- [Show HN: A portfolio website simulating macOS's GUI using React](https://portfolio.zxh.io)
 - [OneSignal (Messaging and Push Notification APIs) is hiring a back end engineer](https://onesignal.com/careers/9e1d251c-c1f9-49c7-98e9-c883e519f902)
 - [Grazing Goat Problems](https://www.quantamagazine.org/solve-math-equations-that-are-stubborn-as-a-goat-20210506/)
-- [iPad Camera Multitasking](https://blog.thinktapwork.com/post/649630720084639744/ipad-camera-multitasking)
-- [Sonova Acquires Sennheiser Consumer Business](https://en-de.sennheiser.com/newsroom/sonova-acquires-sennheiser-consumer-business-vzxws7#)
-- [Why Generation X will save the web](https://webdevlaw.uk/2021/01/30/why-generation-x-will-save-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
