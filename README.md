@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Audacity Telemetry and Why Free Software Means Better Privacy](https://puri.sm/posts/audacity-telemetry-and-why-free-software-means-better-privacy/)
+- [Show HN: Lovetris – Tetris which always gives you the best piece](https://unrealwill.github.io/lovetris/)
 - [I’ve had the same supper for 10 years](https://www.theguardian.com/lifeandstyle/2021/apr/16/experience-ive-had-the-same-supper-for-10-years)
 - [The digital currencies that matter](https://www.economist.com/leaders/2021/05/08/the-digital-currencies-that-matter)
 - [California population declines for first time in more than a century](https://www.wsj.com/articles/california-population-declines-for-first-time-in-more-than-a-century-11620416887)
