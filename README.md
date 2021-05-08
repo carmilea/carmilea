@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HIDmacros](http://www.hidmacros.eu/whatisit.php)
+- [Evidence from leaked account data on how elites use offshore banking [pdf]](https://www.brookings.edu/wp-content/uploads/2021/05/What-lies-beneath_Collin.pdf)
+- [People who live past 105 years old have genes that stop DNA damage](https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/)
 - [Mediterranean diet may prevent memory loss and dementia, study finds](https://www.cnn.com/2021/05/05/health/mediterranean-diet-memory-loss-dementia-wellness/index.html)
 - [Your ABI Is Probably Wrong](https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html)
-- [Apple brass discussed disclosing 128M iPhone hack, then decided not to](https://arstechnica.com/gadgets/2021/05/apple-brass-discussed-disclosing-128-million-iphone-hack-then-decided-not-to/)
-- [Flexport is hiring software engineers to uncork global logistics](https://www.flexport.com/careers)
-- [The secret tricks hidden inside restaurant menus (2020)](https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
