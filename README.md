@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The History of RPGs](https://www.pcgamer.com/the-complete-history-of-rpgs/)
+- [EFF Questions Methodology Behind Dartmouth Cheating Allegations [pdf]](https://www.eff.org/files/2021/04/14/fire_and_eff_letter_to_dartmouth_college_march_30_2021.pdf)
 - [PfSense – WireGuard Returns as Experimental Package](https://www.netgate.com/blog/pfsense-wireguard-returns-as-an-experimental-package.html)
 - [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [US Customs Export Control Says: I’m Screwed](https://www.bigmessowires.com/2021/05/07/us-customs-export-control/)
 - [Thousands of Tor exit nodes attacked cryptocurrency users over the past year](https://therecord.media/thousands-of-tor-exit-nodes-attacked-cryptocurrency-users-over-the-past-year/)
-- [Gnuplot is not GNU](http://www.gnuplot.info/faq/faq.html#x1-70001.2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
