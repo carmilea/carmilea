@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ontario teachers' unions slam province for considering permanent online learning](https://beta.ctvnews.ca/local/toronto/2021/5/5/1_5415237.html)
+- [Show HN: I made a tool to track the upvote/ranking history of HN submissions](https://upvotetracker.com/)
 - [Archivists Are Trying to Make Sure a ‘Pirate Bay of Science’ Never Goes Down](https://www.vice.com/en/article/pa7jxb/archivists-are-trying-to-make-sure-a-pirate-bay-of-science-never-goes-down)
 - [The Time Everyone “Corrected” the World’s Smartest Woman](https://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/)
 - [Dungeon Crawl Stone Soup](https://crawl.develz.org/)
-- [Show HN: Euporie, a Tui for Jupyter Notebooks](https://github.com/joouha/euporie)
-- [How I built the world's first 3D ultrasonic scanner](https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
