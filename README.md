@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Time Everyone “Corrected” the World’s Smartest Woman](https://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/)
+- [Top U.S. fuel pipeline operator's entire network down due to cyber attack](https://www.reuters.com/technology/colonial-pipeline-halts-all-pipeline-operations-after-cybersecurity-attack-2021-05-08/)
 - [Dungeon Crawl Stone Soup – An open-source roguelike adventure](https://crawl.develz.org/)
 - [Show HN: Euporie, a Tui for Jupyter Notebooks](https://github.com/joouha/euporie)
 - [How I built the world's first 3D ultrasonic scanner](https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html)
-- [Token Transit (YC W17) is hiring to improve public transit payment](https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer)
-- [Suicide by Culture (2017)](https://250bpm.com/blog:113/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
