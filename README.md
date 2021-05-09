@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gnuplot Is Not GNU](http://www.gnuplot.info/faq/faq.html#x1-70001.2)
+- [There’s no such thing as a tree (phylogenetically)](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
+- [Eating sardines regularly helps prevent type 2 diabetes](https://www.uoc.edu/portal/en/news/actualitat/2021/115-health-nutrition-diabetes-sardines.html)
 - [How gravity is a double copy of other forces](https://www.quantamagazine.org/how-gravity-is-a-double-copy-of-other-forces-20210504/)
 - [When people ate people, a strange disease emerged (2016)](https://www.npr.org/sections/thesalt/2016/09/06/482952588/when-people-ate-people-a-strange-disease-emerged)
-- [No, pi is wrong: The Tau Manifesto](https://tauday.com/tau-manifesto)
-- [Philips LEDs from Dubai: The Royal Lights You Can’t Buy](https://hackaday.com/2021/01/17/leds-from-dubai-the-royal-lights-you-cant-buy/)
-- [Amazon Fake Reviews Scam Exposed in Data Breach](https://www.safetydetectives.com/blog/amazon-reviews-leak-report/?__cf_chl_jschl_tk__=68d94aa744d175209f58f23d7a8d1abe537a992b-1620518228-0-AWKYMKnGGipF08ctlTZysfv1gJ-4yzWNRWiePdEd6U7ViOaOx_LvUy2xTpYuQErklma2AP-B6lSO6IKhKTgdGycTuK37qz0QvaMMhlBGVgLs8ozveTJ5-BGNgBO4akiWlFYxLo3GernZBW6NpFbvWIWb7yargGHoi1KtAQYTo5PQuL-sOZk_r5LezxO1EqmoxJTzrF_9uvOeltNAlvKIyxtwfe-CQsuMPzZ9kuArNoZxK0W9zySjtceJ3z0nU7vP1hOkcGvKo9detAnqItSuRq4MuJRP88qDnCnhmv9qYn7MaFK6Sn0a1EZ0g37_znY3i2dUncalNvxyagkbtW2SXyLNIOXYCKnOBU6NAjrSsi-TtjyuRJCeoCYWOCvHf-2EYDn59rMUr319deKBCmumHbu5L4t1GV2DEEHXYGj6iGmzex9lacF3lPbcrX5vDnvNNjIbb2v9Kg0D8r9wbcyFEVD4MbED7QCu6Z-sw9OWHUHizQHeWlQ5W8T0fqjrYuRbww)
 <!-- BLOG-POST-LIST:END -->
 
 ---
