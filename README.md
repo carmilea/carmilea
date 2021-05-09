@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why do people think that the US won WW2 in Europe?](https://www.quora.com/Why-do-people-think-that-the-US-won-WW2-in-Europe-when-75-of-all-German-soldiers-were-killed-by-the-USSR?share=1)
+- [SpaceX launches Starlink sats in record 10th liftoff, landing of reused rocket](https://www.space.com/spacex-starlink-27-10th-falcon-9-rocket-launch-landing-success)
 - [History of RSpec](https://www.stevenrbaker.com/tech/history-of-rspec.html)
 - [AMD server CPUs capture highest market share gains from Intel in 15 years](https://hothardware.com/news/amd-epyc-server-cpu-gains-highest-share-intel-15-years)
 - [Legalist is hiring a Director of Sales/Investments](https://www.legalist.com/careers?gh_jid=4016511004)
