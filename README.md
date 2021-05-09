@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX launches Starlink sats in record 10th liftoff, landing of reused rocket](https://www.space.com/spacex-starlink-27-10th-falcon-9-rocket-launch-landing-success)
-- [History of RSpec](https://www.stevenrbaker.com/tech/history-of-rspec.html)
-- [AMD server CPUs capture highest market share gains from Intel in 15 years](https://hothardware.com/news/amd-epyc-server-cpu-gains-highest-share-intel-15-years)
-- [Legalist is hiring a Director of Sales/Investments](https://www.legalist.com/careers?gh_jid=4016511004)
-- [A review of correlations between big five personality types and life outcomes](https://dynomight.net/better-personalities/)
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/)
+- [Beautiful Italian towns will pay you to work remotely](https://edition.cnn.com/travel/article/italy-towns-pay-remote-working-cmd/index.html)
+- [Why psychology isn’t science (2012)](https://www.latimes.com/opinion/la-xpm-2012-jul-13-la-ol-blowback-pscyhology-science-20120713-story.html)
+- [Introduction to Security Good Practices](https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
