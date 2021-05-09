@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New technology has enabled cyber-crime on an industrial scale](https://www.economist.com/international/2021/05/06/new-technology-has-enabled-cyber-crime-on-an-industrial-scale)
+- [There’s no place for expensive laptops with 8GB of RAM anymore](https://www.techradar.com/uk/news/theres-no-place-for-expensive-laptops-with-8gb-of-ram-anymore)
 - [EFF Questions Methodology Behind Dartmouth Cheating Allegations [pdf]](https://www.eff.org/files/2021/04/14/fire_and_eff_letter_to_dartmouth_college_march_30_2021.pdf)
-- [PfSense – WireGuard Returns as Experimental Package](https://www.netgate.com/blog/pfsense-wireguard-returns-as-an-experimental-package.html)
-- [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [US Customs Export Control Says: I’m Screwed](https://www.bigmessowires.com/2021/05/07/us-customs-export-control/)
-- [Thousands of Tor exit nodes attacked cryptocurrency users over the past year](https://therecord.media/thousands-of-tor-exit-nodes-attacked-cryptocurrency-users-over-the-past-year/)
+- [Steve Jobs Never Wanted Us to Use Our iPhones Like This (2019)](https://www.nytimes.com/2019/01/25/opinion/sunday/steve-jobs-never-wanted-us-to-use-our-iphones-like-this.html)
+- [When the Tab Comes Due: Challenges in the Cost Structure of Browser Tab Usage](https://joe.cat/CHI-browser-tabs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
