@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Happens to Stocks and Cryptocurrencies When the Fed Stops Raining Money?](https://www.wsj.com/articles/what-happens-to-stocks-and-cryptocurrencies-when-the-fed-stops-raining-money-11620446420)
 - [Ontario teachers' unions slam province for considering permanent online learning](https://beta.ctvnews.ca/local/toronto/2021/5/5/1_5415237.html)
+- [What did Einstein mean by “spooky action at a distance”?](http://backreaction.blogspot.com/2021/05/what-did-einstein-mean-by-spooky-action.html)
 - [Show HN: I made a tool to track the upvote/ranking history of HN submissions](https://upvotetracker.com/)
 - [Archivists Are Trying to Make Sure a ‘Pirate Bay of Science’ Never Goes Down](https://www.vice.com/en/article/pa7jxb/archivists-are-trying-to-make-sure-a-pirate-bay-of-science-never-goes-down)
-- [The Time Everyone “Corrected” the World’s Smartest Woman](https://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/)
-- [Dungeon Crawl Stone Soup](https://crawl.develz.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
