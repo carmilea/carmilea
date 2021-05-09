@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gnuplot Is Not GNU](http://www.gnuplot.info/faq/faq.html#x1-70001.2)
-- [There’s no such thing as a tree (phylogenetically)](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
+- [Gnuplot is not GNU](http://www.gnuplot.info/faq/faq.html#x1-70001.2)
+- [There’s no such thing as a tree, phylogenetically](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
 - [Eating sardines regularly helps prevent type 2 diabetes](https://www.uoc.edu/portal/en/news/actualitat/2021/115-health-nutrition-diabetes-sardines.html)
-- [How gravity is a double copy of other forces](https://www.quantamagazine.org/how-gravity-is-a-double-copy-of-other-forces-20210504/)
+- [Gravity is a double copy of other forces](https://www.quantamagazine.org/how-gravity-is-a-double-copy-of-other-forces-20210504/)
 - [When people ate people, a strange disease emerged (2016)](https://www.npr.org/sections/thesalt/2016/09/06/482952588/when-people-ate-people-a-strange-disease-emerged)
 <!-- BLOG-POST-LIST:END -->
 
