@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: euporie, a Tui for Jupyter Notebooks](https://github.com/joouha/euporie)
+- [Dungeon Crawl Stone Soup – An open-source roguelike adventure](https://crawl.develz.org/)
+- [Show HN: Euporie, a Tui for Jupyter Notebooks](https://github.com/joouha/euporie)
+- [How I built the world's first 3D ultrasonic scanner](https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html)
 - [Token Transit (YC W17) is hiring to improve public transit payment](https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer)
-- [HIDmacros](http://www.hidmacros.eu/whatisit.php)
-- [Higher mushroom consumption is associated with a lower risk of cancer](https://www.sciencedaily.com/releases/2021/04/210421200133.htm)
-- [People who live past 105 years old have genes that stop DNA damage](https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/)
+- [Suicide by Culture (2017)](https://250bpm.com/blog:113/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
