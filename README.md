@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD EPYC Server CPUs Capture Highest Market Share Gains from Intel in 15 Years](https://hothardware.com/news/amd-epyc-server-cpu-gains-highest-share-intel-15-years)
+- [Legalist is hiring a Director of Sales/Investments](https://www.legalist.com/careers?gh_jid=4016511004)
+- [A review of correlations between big five personality types and life outcomes](https://dynomight.net/better-personalities/)
 - [Wikipedia is up!](https://web.archive.org/web/20010506042824/www.nupedia.com/pipermail/nupedia-l/2001-January/000684.html)
 - [Does NMN improve metabolic health in humans?](https://peterattiamd.com/does-nmn-improve-metabolic-health-in-humans/)
-- [New technology has enabled cyber-crime on an industrial scale](https://www.economist.com/international/2021/05/06/new-technology-has-enabled-cyber-crime-on-an-industrial-scale)
-- [Service-Oriented vs. Monolith: Organizational Perspective](https://p99th.substack.com/p/microservices-vs-monolith)
-- [There’s no place for expensive laptops with 8GB of RAM anymore](https://www.techradar.com/uk/news/theres-no-place-for-expensive-laptops-with-8gb-of-ram-anymore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
