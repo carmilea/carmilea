@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The History of RPGs](https://www.pcgamer.com/the-complete-history-of-rpgs/)
+- [PfSense – WireGuard Returns as Experimental Package](https://www.netgate.com/blog/pfsense-wireguard-returns-as-an-experimental-package.html)
 - [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Thousands of Tor exit nodes attacked cryptocurrency users over the past year](https://therecord.media/thousands-of-tor-exit-nodes-attacked-cryptocurrency-users-over-the-past-year/)
 - [Gnuplot is not GNU](http://www.gnuplot.info/faq/faq.html#x1-70001.2)
-- [There’s no such thing as a tree, phylogenetically](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
-- [Eating sardines regularly helps prevent type 2 diabetes](https://www.uoc.edu/portal/en/news/actualitat/2021/115-health-nutrition-diabetes-sardines.html)
-- [Gravity is a double copy of other forces](https://www.quantamagazine.org/how-gravity-is-a-double-copy-of-other-forces-20210504/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
