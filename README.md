@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikipedia is up!](https://web.archive.org/web/20010506042824/www.nupedia.com/pipermail/nupedia-l/2001-January/000684.html)
+- [Does NMN improve metabolic health in humans?](https://peterattiamd.com/does-nmn-improve-metabolic-health-in-humans/)
 - [New technology has enabled cyber-crime on an industrial scale](https://www.economist.com/international/2021/05/06/new-technology-has-enabled-cyber-crime-on-an-industrial-scale)
+- [Service-Oriented vs. Monolith: Organizational Perspective](https://p99th.substack.com/p/microservices-vs-monolith)
 - [There’s no place for expensive laptops with 8GB of RAM anymore](https://www.techradar.com/uk/news/theres-no-place-for-expensive-laptops-with-8gb-of-ram-anymore)
-- [EFF Questions Methodology Behind Dartmouth Cheating Allegations [pdf]](https://www.eff.org/files/2021/04/14/fire_and_eff_letter_to_dartmouth_college_march_30_2021.pdf)
-- [Steve Jobs Never Wanted Us to Use Our iPhones Like This (2019)](https://www.nytimes.com/2019/01/25/opinion/sunday/steve-jobs-never-wanted-us-to-use-our-iphones-like-this.html)
-- [When the Tab Comes Due: Challenges in the Cost Structure of Browser Tab Usage](https://joe.cat/CHI-browser-tabs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
