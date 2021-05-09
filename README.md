@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google faces $5B lawsuit in U.S. for tracking 'private' internet use](https://www.reuters.com/article/us-alphabet-google-privacy-lawsuit-idUSKBN23933H)
 - [AMD EPYC Server CPUs Capture Highest Market Share Gains from Intel in 15 Years](https://hothardware.com/news/amd-epyc-server-cpu-gains-highest-share-intel-15-years)
 - [Legalist is hiring a Director of Sales/Investments](https://www.legalist.com/careers?gh_jid=4016511004)
 - [A review of correlations between big five personality types and life outcomes](https://dynomight.net/better-personalities/)
-- [Wikipedia is up!](https://web.archive.org/web/20010506042824/www.nupedia.com/pipermail/nupedia-l/2001-January/000684.html)
-- [Does NMN improve metabolic health in humans?](https://peterattiamd.com/does-nmn-improve-metabolic-health-in-humans/)
+- [Remote-first companies that actively hire](https://www.remotecompany.com/blog/remote-first-companies-list)
 <!-- BLOG-POST-LIST:END -->
 
 ---
