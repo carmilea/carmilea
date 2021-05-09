@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Animal Is Tired](http://www.robinhobb.com/blog/posts/38429)
+- [Objective-S: architecture-oriented language based on Smalltalk and Objective-C](http://objective.st/)
 - [Wealthy use debt to buy future cash flow everyone else uses debt to buy stuff](https://themdpreneur.com/purchase-future-cash-stop-buying-more-stuff/)
 - [Why do we buy into the 'cult' of overwork?](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork)
 - [New York Attorney General declares top ISPs committed net neutrality fraud](https://www.zdnet.com/article/new-york-attorney-general-declares-top-isps-committed-net-neutrality-fraud/)
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
