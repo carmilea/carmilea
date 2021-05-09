@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Philips LEDs from Dubai: The Royal Lights You Can’t Buy](https://hackaday.com/2021/01/17/leds-from-dubai-the-royal-lights-you-cant-buy/)
 - [What Happens to Stocks and Cryptocurrencies When the Fed Stops Raining Money?](https://www.wsj.com/articles/what-happens-to-stocks-and-cryptocurrencies-when-the-fed-stops-raining-money-11620446420)
 - [Ontario teachers' unions slam province for considering permanent online learning](https://beta.ctvnews.ca/local/toronto/2021/5/5/1_5415237.html)
+- [Founding vs. Inheriting](https://1729.com/founding-vs-inheriting/)
 - [What did Einstein mean by “spooky action at a distance”?](http://backreaction.blogspot.com/2021/05/what-did-einstein-mean-by-spooky-action.html)
-- [Show HN: I made a tool to track the upvote/ranking history of HN submissions](https://upvotetracker.com/)
-- [Archivists Are Trying to Make Sure a ‘Pirate Bay of Science’ Never Goes Down](https://www.vice.com/en/article/pa7jxb/archivists-are-trying-to-make-sure-a-pirate-bay-of-science-never-goes-down)
 <!-- BLOG-POST-LIST:END -->
 
 ---
