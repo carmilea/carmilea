@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Animal Is Tired](http://www.robinhobb.com/blog/posts/38429)
+- [Wealthy use debt to buy future cash flow everyone else uses debt to buy stuff](https://themdpreneur.com/purchase-future-cash-stop-buying-more-stuff/)
+- [Why do we buy into the 'cult' of overwork?](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork)
+- [New York Attorney General declares top ISPs committed net neutrality fraud](https://www.zdnet.com/article/new-york-attorney-general-declares-top-isps-committed-net-neutrality-fraud/)
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/)
-- [Beautiful Italian towns will pay you to work remotely](https://edition.cnn.com/travel/article/italy-towns-pay-remote-working-cmd/index.html)
-- [Why psychology isn’t science (2012)](https://www.latimes.com/opinion/la-xpm-2012-jul-13-la-ol-blowback-pscyhology-science-20120713-story.html)
-- [Introduction to Security Good Practices](https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
