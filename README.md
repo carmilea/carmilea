@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Video Compression Basics](https://rastergrid.com/blog/multimedia/2021/05/video-compression-basics/)
+- [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
+- [Payments down 20% in my SaaS after EU introduced PSD2](https://www.globalbankingandfinance.com/the-real-impact-of-psd2/)
+- [Beware of Applications Misusing Root Stores](https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/)
+- [Samsung to jump into laptop processor market with Exynos chip in H2](https://www.kedglobal.com/newsView/ked202105090002)
 - [Using PostgreSQL as a Data Warehouse](https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/)
-- [Accelerating Eye Movement Research for Wellness and Accessibility](https://ai.googleblog.com/2021/05/accelerating-eye-movement-research-for.html)
-- [Game developers sharing their salaries on Twitter](https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html)
-- [Story of a Tshirt with a Shellcode](https://github.com/marcin-chwedczuk/shellcode-tshirt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
