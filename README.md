@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenPOWER Foundation announces LibreBMC, a POWER-based, fully open-source BMC](https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/)
-- [AirTag hacked for the first time by security researcher](https://9to5mac.com/2021/05/09/airtag-hacked-for-the-first-time-by-security-researcher-video/)
-- [Signadot (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/42298)
-- [Hacker News Classics (2018)](https://jsomers.net/hn/)
-- [Firefox Public Data Report](https://data.firefox.com/)
+- [The FBI Seized Safe Deposit Boxes Knowing ‘Some’ Belonged to ‘Honest Citizens’](https://reason.com/2021/05/10/the-fbi-seized-heirlooms-coins-and-cash-from-hundreds-of-safe-deposit-boxes-in-beverly-hills-despite-knowing-some-belonged-to-honest-citizens/)
+- [Facebook Should Halt Instagram Kids Plan, Attorneys General Say](https://www.bloomberg.com/news/articles/2021-05-10/facebook-should-halt-instagram-kids-plan-attorneys-general-say)
+- [Rust 1.52.1](https://blog.rust-lang.org/2021/05/10/Rust-1.52.1.html)
+- [Show HN: DataProfiler – What's in your data? Extract schema, stats and entities](https://github.com/capitalone/DataProfiler)
+- [Engineer Who Won the Nobel Prize Twice in Physics](https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
