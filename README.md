@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The origin of the word “decide” comes from the Latin word “decidere”, to cut off](https://www.etymologynerd.com/blog/choices)
-- [Larry Page asking how to change User Agent in Java](https://twitter.com/pm/status/1391462220861566977)
+- [The Libcurl Transfer State Machine](https://daniel.haxx.se/blog/2021/05/10/the-libcurl-transfer-state-machine/)
+- [The word “decide” has deadly origins](https://www.etymologynerd.com/blog/choices)
 - [Windyquery: A non-blocking Python PostgreSQL query builder](https://pypi.org/project/windyquery/)
 - [Teeing, a hidden gem in the Java API](https://blog.frankel.ch/teeing-java-api/)
-- [Adding ANSI C11 C compiler to D so it can import and compile C files directly](https://github.com/dlang/dmd/pull/12507)
+- [Ask HN: How can I improve my intelligence?](https://news.ycombinator.com/item?id=27102764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
