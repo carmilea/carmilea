@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GDPR – A Success Story](https://mazzo.li/posts/gdpr-success-story.html)
-- [The Syslog Hell](https://techblog.bozho.net/the-syslog-hell/)
-- [Poor Disk Performance](http://www.brendangregg.com/blog/2021-05-09/poor-disk-performance.html)
-- [Why Aren’t SMS Interventions Designed to Boost College Success Working at Scale?](https://behavioralscientist.org/why-arent-text-message-interventions-designed-to-boost-college-success-working-at-scale/)
-- [Automatically transcribe an interview, meeting or video](https://voicedocs.com/en)
+- [Signadot (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/42298)
+- [Hacker News Classics (2018)](http://jsomers.net/hn/)
+- [Firefox Public Data Report](https://data.firefox.com/)
+- [Berkshire: Bitcoin is ‘contrary to the interest of civilization.’](https://blog.evergreengavekal.com/four-berkshire-bombshells-plus-the-spac-market-implosion/)
+- [I tracked my kid with Apple's Airtags to test its privacy features](https://www.cnn.com/2021/05/05/tech/airtags-apple-privacy-concerns/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
