@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Astrobiologists have released the preliminary results of a SETI survey](https://gizmodo.com/60-million-stars-and-not-one-alien-detected-1846813945)
 - [Tell HN: Don't put your status page on the same domain as your app](https://news.ycombinator.com/item?id=27102020)
+- [I Love Coding](https://henrikwarne.com/2012/06/02/why-i-love-coding/)
 - [US declares state of emergency in infrastructure cyberattack](https://www.bbc.com/news/business-57050690)
 - [Show HN: Run your ghost blog on Raspberry Pi for free](https://viggy28.dev/article/setting-up-ghost-in-raspberry-pi-for-free/)
-- [Simple bank shutdown goes awry, leaving customers without account access](https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown)
-- [The Animal Is Tired](http://www.robinhobb.com/blog/posts/38429)
 <!-- BLOG-POST-LIST:END -->
 
 ---
