@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nothing Has Made Me Feel More American Than Going to Jail](https://www.themarshallproject.org/2021/04/29/nothing-has-made-me-feel-more-american-than-going-to-jail)
+- [eBPF on Windows](https://github.com/microsoft/ebpf-for-windows)
 - [DragonflyBSD 6.0 Released](https://www.dragonflybsd.org/release60/)
 - [GiveCampus (YC S15) Hiring remote (US) Sr engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 - [ServiceNow to Acquire Lightstep](https://www.servicenow.com/company/media/press-room/servicenow-to-acquire-lightstep.html)
-- [Pyre: A performant type-checker for Python 3](https://pyre-check.org)
-- [Advanced Situational Awareness [pdf]](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32030-TC_3-22.69-000-WEB-1.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
