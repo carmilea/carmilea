@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Army Training for Advanced Situational Awareness (April, 2021) [pdf]](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32030-TC_3-22.69-000-WEB-1.pdf)
-- [Show HN: Django SQL Dashboard](https://django-sql-dashboard.datasette.io/en/latest/)
-- [The FBI Seized Safe Deposit Boxes Knowing ‘Some’ Belonged to ‘Honest Citizens’](https://reason.com/2021/05/10/the-fbi-seized-heirlooms-coins-and-cash-from-hundreds-of-safe-deposit-boxes-in-beverly-hills-despite-knowing-some-belonged-to-honest-citizens/)
-- [Facebook Should Halt Instagram Kids Plan, Attorneys General Say](https://www.bloomberg.com/news/articles/2021-05-10/facebook-should-halt-instagram-kids-plan-attorneys-general-say)
-- [Epidemiologist R Handbook](https://epirhandbook.com/)
+- [DragonflyBSD 6.0 Released](https://www.dragonflybsd.org/release60/)
+- [GiveCampus (YC S15) Hiring remote (US) Sr engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [ServiceNow to Acquire Lightstep](https://www.servicenow.com/company/media/press-room/servicenow-to-acquire-lightstep.html)
+- [Pyre: A performant type-checker for Python 3](https://pyre-check.org)
+- [Advanced Situational Awareness [pdf]](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32030-TC_3-22.69-000-WEB-1.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
