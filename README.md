@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nothing Has Made Me Feel More American Than Going to Jail](https://www.themarshallproject.org/2021/04/29/nothing-has-made-me-feel-more-american-than-going-to-jail)
+- [Game developers break silence around salaries](https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html)
+- [Story of a Tshirt with a Shellcode](https://github.com/marcin-chwedczuk/shellcode-tshirt)
 - [eBPF on Windows](https://github.com/microsoft/ebpf-for-windows)
-- [DragonflyBSD 6.0 Released](https://www.dragonflybsd.org/release60/)
+- [DragonflyBSD 6.0](https://www.dragonflybsd.org/release60/)
 - [GiveCampus (YC S15) Hiring remote (US) Sr engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [ServiceNow to Acquire Lightstep](https://www.servicenow.com/company/media/press-room/servicenow-to-acquire-lightstep.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
