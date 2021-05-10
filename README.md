@@ -53,8 +53,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Astrobiologists have released the preliminary results of a SETI survey](https://gizmodo.com/60-million-stars-and-not-one-alien-detected-1846813945)
 - [Tell HN: Don't put your status page on the same domain as your app](https://news.ycombinator.com/item?id=27102020)
-- [I Love Coding](https://henrikwarne.com/2012/06/02/why-i-love-coding/)
-- [US declares state of emergency in infrastructure cyberattack](https://www.bbc.com/news/business-57050690)
+- [Why I Love Coding (2012)](https://henrikwarne.com/2012/06/02/why-i-love-coding/)
+- [US passes emergency waiver over fuel pipeline cyber-attack](https://www.bbc.com/news/business-57050690)
 - [Show HN: Run your ghost blog on Raspberry Pi for free](https://viggy28.dev/article/setting-up-ghost-in-raspberry-pi-for-free/)
 <!-- BLOG-POST-LIST:END -->
 
