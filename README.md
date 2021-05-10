@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AirTag hacked for the first time by security researcher](https://9to5mac.com/2021/05/09/airtag-hacked-for-the-first-time-by-security-researcher-video/)
 - [Signadot (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/42298)
-- [Hacker News Classics (2018)](http://jsomers.net/hn/)
+- [Hacker News Classics (2018)](https://jsomers.net/hn/)
 - [Firefox Public Data Report](https://data.firefox.com/)
-- [Berkshire: Bitcoin is ‘contrary to the interest of civilization.’](https://blog.evergreengavekal.com/four-berkshire-bombshells-plus-the-spac-market-implosion/)
-- [I tracked my kid with Apple's Airtags to test its privacy features](https://www.cnn.com/2021/05/05/tech/airtags-apple-privacy-concerns/index.html)
+- [Praise for Alpine Linux](https://portal.drewdevault.com/2021/05/06/Praise-for-Alpine-Linux.gmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
