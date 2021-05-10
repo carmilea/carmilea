@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Aren’t SMS Interventions Designed to Boost College Success Working at Scale?](https://behavioralscientist.org/why-arent-text-message-interventions-designed-to-boost-college-success-working-at-scale/)
+- [Automatically transcribe an interview, meeting or video](https://voicedocs.com/en)
+- [Ask HN: How can I read faster?](https://news.ycombinator.com/item?id=27103792)
 - [The Libcurl Transfer State Machine](https://daniel.haxx.se/blog/2021/05/10/the-libcurl-transfer-state-machine/)
 - [The word “decide” has deadly origins](https://www.etymologynerd.com/blog/choices)
-- [Windyquery: A non-blocking Python PostgreSQL query builder](https://pypi.org/project/windyquery/)
-- [Teeing, a hidden gem in the Java API](https://blog.frankel.ch/teeing-java-api/)
-- [Ask HN: How can I improve my intelligence?](https://news.ycombinator.com/item?id=27102764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
