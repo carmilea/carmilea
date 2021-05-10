@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Game developers break silence around salaries](https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html)
+- [Video Compression Basics](https://rastergrid.com/blog/multimedia/2021/05/video-compression-basics/)
+- [Using PostgreSQL as a Data Warehouse](https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/)
+- [Accelerating Eye Movement Research for Wellness and Accessibility](https://ai.googleblog.com/2021/05/accelerating-eye-movement-research-for.html)
+- [Game developers sharing their salaries on Twitter](https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html)
 - [Story of a Tshirt with a Shellcode](https://github.com/marcin-chwedczuk/shellcode-tshirt)
-- [eBPF on Windows](https://github.com/microsoft/ebpf-for-windows)
-- [DragonflyBSD 6.0](https://www.dragonflybsd.org/release60/)
-- [GiveCampus (YC S15) Hiring remote (US) Sr engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 <!-- BLOG-POST-LIST:END -->
 
 ---
