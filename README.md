@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenPOWER Foundation announces LibreBMC, a POWER-based, fully open-source BMC](https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/)
 - [AirTag hacked for the first time by security researcher](https://9to5mac.com/2021/05/09/airtag-hacked-for-the-first-time-by-security-researcher-video/)
 - [Signadot (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/42298)
 - [Hacker News Classics (2018)](https://jsomers.net/hn/)
 - [Firefox Public Data Report](https://data.firefox.com/)
-- [Praise for Alpine Linux](https://portal.drewdevault.com/2021/05/06/Praise-for-Alpine-Linux.gmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
