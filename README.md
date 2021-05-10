@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A “Perfect Coronal Mass Ejection” Could Be a Nightmare](http://www.arrl.org/news/a-perfect-coronal-mass-ejection-could-be-a-nightmare)
 - [One million people saw my dumbest tweet](https://mccormick.cx/news/entries/one-million-people-saw-my-dumbest-tweet)
-- [FDA authorizes Pfizer vaccine for kids age 12 to 15](https://www.nytimes.com/2021/05/10/health/pfizer-covid-vaccine-teens.html)
 - [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
-- [Payments down 20% in my SaaS after EU introduced PSD2](https://www.globalbankingandfinance.com/the-real-impact-of-psd2/)
 - [Beware of Applications Misusing Root Stores](https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/)
+- [Samsung to jump into laptop processor market with Exynos chip in H2](https://www.kedglobal.com/newsView/ked202105090002)
 <!-- BLOG-POST-LIST:END -->
 
 ---
