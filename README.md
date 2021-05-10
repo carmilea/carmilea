@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US declares state of emergency in infrastructure cyberattack](https://www.bbc.com/news/business-57050690)
+- [Show HN: Run your ghost blog on Raspberry Pi for free](https://viggy28.dev/article/setting-up-ghost-in-raspberry-pi-for-free/)
+- [Simple bank shutdown goes awry, leaving customers without account access](https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown)
 - [The Animal Is Tired](http://www.robinhobb.com/blog/posts/38429)
 - [Objective-S: architecture-oriented language based on Smalltalk and Objective-C](http://objective.st/)
-- [Wealthy use debt to buy future cash flow everyone else uses debt to buy stuff](https://themdpreneur.com/purchase-future-cash-stop-buying-more-stuff/)
-- [Why do we buy into the 'cult' of overwork?](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork)
-- [New York Attorney General declares top ISPs committed net neutrality fraud](https://www.zdnet.com/article/new-york-attorney-general-declares-top-isps-committed-net-neutrality-fraud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
