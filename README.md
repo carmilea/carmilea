@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Algolia (YC W14) Is Hiring a Developer Relations Ambassador](https://www.algolia.com/careers/developer-relations-technical-ambassador-new-york-london-atlanta-east-coast-remote)
-- [●●|●●●●●|●●|●](http://scp-wiki.wikidot.com/scp-2521)
-- [Quantum Leaps, Long Assumed to Be Instantaneous, Take Time (2019)](https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/)
-- [Good Data Scientist, Bad Data Scientist](https://ianwhitestone.work/good-ds-bad-ds/)
-- [When one city gave people cash, they got jobs](https://reasonstobecheerful.world/when-a-city-gave-people-cash-they-went-out-and-got-jobs/)
+- [Tech giants join call for funding U.S. chip production](https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK)
+- [I Mailed an AirTag and Tracked Its Progress; Here’s What Happened](https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/)
+- [Integrating Rust into the Android Open Source Project](https://security.googleblog.com/2021/05/integrating-rust-into-android-open.html)
+- [Man Used Coinbase to Pay Hitman in Bitcoin for Wife's Murder, FBI Says](https://decrypt.co/70420/man-used-coinbase-hitman-bitcoin-fbi)
+- [Cloudflare on the Edge](https://stratechery.com/2021/cloudflare-on-the-edge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
