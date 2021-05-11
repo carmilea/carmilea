@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to negotiate continuing to work remotely?](https://news.ycombinator.com/item?id=27123553)
+- [AirGradient: DIY Air Quality Monitoring with Open-Source Hardware & Firmware](https://www.airgradient.com/diy/)
 - [KaiPod Learning (YC S21) Is Hiring](https://www.workatastartup.com/jobs/43915)
 - [The Arduino IDE 2.0 beta](https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/)
 - [Just Use Email – How to Use Email for Everything](https://www.justuseemail.com/)
