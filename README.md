@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Newly discovered implementation flaws in Wi-Fi, all Wi-Fi devices are affected](https://www.fragattacks.com/)
-- [Why Billionaires Don't Pay Property Taxes in New York](https://www.bloomberg.com/news/articles/2015-05-11/why-billionaires-don-t-pay-property-taxes-in-new-york)
+- [FragAttacks: new security vulnerabilities that affect wi-fi devices](https://www.fragattacks.com/)
+- [Why Billionaires Don't Pay Property Taxes in New York (2015)](https://www.bloomberg.com/news/articles/2015-05-11/why-billionaires-don-t-pay-property-taxes-in-new-york)
 - [Tech giants join call for funding U.S. chip production](https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK)
+- [Facebook Ordered to Stop Collecting German WhatsApp Data](https://www.bloomberg.com/news/articles/2021-05-11/facebook-ordered-to-stop-collecting-german-whatsapp-users-data)
 - [The Oncoming Ransomware Storm](https://www.stephendiehl.com/blog/ransomware.html)
-- [I Mailed an AirTag and Tracked Its Progress; Here’s What Happened](https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
