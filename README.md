@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [#DeepDive into #SingleStore's #DistributedArchitecture](https://www.youtube.com/watch?v=FgNWb9Wkxf8)
 - [Get started with #SingleStore #StoredProcedures in #Java and #JDBC](https://www.youtube.com/watch?v=6coWxZFMJCQ)
 - [Get started with #SingleStore in #Java](https://www.youtube.com/watch?v=5lrChcV7-Ac)
 - [#SingleStore #Query #Optimization and #Tuning](https://www.youtube.com/watch?v=MDT_3uI3KBg)
 - [#SingleStore #TimeSeries #DataCapture and #Analysis](https://www.youtube.com/watch?v=EEjZPuXx_eM)
-- [Procedural #SQL with #SingleStore: #StoredProcedures, #Views, #UDFs, etc](https://www.youtube.com/watch?v=iVbuXHAmZp0)
 <!-- YOUTUBE:END -->
 
 
