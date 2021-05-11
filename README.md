@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NTSB: Tesla Model S in Crash Couldn't Have Been Using Autopilot](https://www.caranddriver.com/news/a36387950/ntsb-investigation-tesla-model-s-autopilot/)
-- [A “Perfect Coronal Mass Ejection” Could Be a Nightmare](http://www.arrl.org/news/a-perfect-coronal-mass-ejection-could-be-a-nightmare)
-- [One million people saw my dumbest tweet](https://mccormick.cx/news/entries/one-million-people-saw-my-dumbest-tweet)
-- [How Atari 2600 Game Pitfall Builds Its World](https://evoniuk.github.io/posts/pitfall.html)
-- [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
+- [You Can’t Buy a Thermapen on Amazon](https://blog.thermoworks.com/thermometer/new-warning-thermoworks-website-2/)
+- [Can I Email?](https://www.caniemail.com/)
+- [Pfizer Covid vaccine protects against worrying coronavirus variants](https://www.nature.com/articles/d41586-021-01222-5)
+- [How to write a resume that converts](https://www.productlessons.xyz/article/product-manager-resume-with-examples-keywords)
+- [Atlas, a (hopefully) better engineering IDE](http://atlasengineering.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
