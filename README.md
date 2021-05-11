@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Newly discovered implementation flaws in Wi-Fi, all Wi-Fi devices are affected](https://www.fragattacks.com/)
+- [Why Billionaires Don't Pay Property Taxes in New York](https://www.bloomberg.com/news/articles/2015-05-11/why-billionaires-don-t-pay-property-taxes-in-new-york)
 - [Tech giants join call for funding U.S. chip production](https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK)
+- [The Oncoming Ransomware Storm](https://www.stephendiehl.com/blog/ransomware.html)
 - [I Mailed an AirTag and Tracked Its Progress; Here’s What Happened](https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/)
-- [Integrating Rust into the Android Open Source Project](https://security.googleblog.com/2021/05/integrating-rust-into-android-open.html)
-- [Man Used Coinbase to Pay Hitman in Bitcoin for Wife's Murder, FBI Says](https://decrypt.co/70420/man-used-coinbase-hitman-bitcoin-fbi)
-- [Cloudflare on the Edge](https://stratechery.com/2021/cloudflare-on-the-edge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
