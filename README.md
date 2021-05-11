@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [KaiPod Learning (YC S21) Is Hiring](https://www.workatastartup.com/jobs/43915)
+- [The Arduino IDE 2.0 (beta)](https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/)
 - [FragAttacks: new security vulnerabilities that affect wi-fi devices](https://www.fragattacks.com/)
 - [Why Billionaires Don't Pay Property Taxes in New York (2015)](https://www.bloomberg.com/news/articles/2015-05-11/why-billionaires-don-t-pay-property-taxes-in-new-york)
 - [Tech giants join call for funding U.S. chip production](https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK)
-- [Facebook Ordered to Stop Collecting German WhatsApp Data](https://www.bloomberg.com/news/articles/2021-05-11/facebook-ordered-to-stop-collecting-german-whatsapp-users-data)
-- [The Oncoming Ransomware Storm](https://www.stephendiehl.com/blog/ransomware.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
