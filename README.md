@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I’m Trying to Understand Hedonic Adjustments](https://www.epsilontheory.com/im-trying-to-understand-hedonic-adjustments/)
 - [Gas shortage: Gov. Cooper declares state of emergency for NC](https://wlos.com/news/local/gas-shortage-gov-cooper-declares-state-of-emergency-for-nc-halts-vehicle-regulations)
+- [Voyager 1 hears the hush of interstellar plasma](https://astronomycommunity.nature.com/posts/voyager-1-hears-the-hush-of-interstellar-plasma)
 - [An incomparable intellectual who fell through the cracks of history](https://www.nature.com/articles/d41586-021-01248-9)
 - [Experts suggest French insurer AXA's plan to not pay ransomw will set precedent](https://www.cyberscoop.com/axa-ransomware-cyber-insurance-policies/)
-- [You Can’t Buy a Thermapen on Amazon (2016)](https://blog.thermoworks.com/thermometer/new-warning-thermoworks-website-2/)
-- [Can I Email?](https://www.caniemail.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
