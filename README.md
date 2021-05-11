@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AAA warns on gas prices, North Carolina invokes emergency as hackers apologize](http://68k.news/article.php?loc=US&a=https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9hYWEtd2FybnMtZ2FzLXByaWNlcy1ub3J0aC1jYXJvbGluYS1pbnZva2VzLWVtZXJnZW5jeS1jb2xvbmlhbC1oYWNrZXJzLWFwb2xvZ2l6ZS0xNTkwMjgx0gF3aHR0cHM6Ly93d3cubmV3c3dlZWsuY29tL2FhYS13YXJucy1nYXMtcHJpY2VzLW5vcnRoLWNhcm9saW5hLWludm9rZXMtZW1lcmdlbmN5LWNvbG9uaWFsLWhhY2tlcnMtYXBvbG9naXplLTE1OTAyODE_YW1wPTE?oc=5)
 - [The Muse (YC W12) Is Hiring a Senior Data Engineer](https://jobs.lever.co/themuse/43458248-0813-4d77-aedc-ce7d1f92a77e?lever-origin=applied&lever-source%5B%5D=YC)
+- [Discord's new UX design is harmful to the visually impaired and colorblind](https://support.discord.com/hc/en-us/community/posts/1500001018522-The-New-UX-Design-is-Harmful-to-the-Visually-Impaired-and-Colorblind)
+- [Show HN: Improve your front end skills by practicing on real design templates](https://www.codewell.cc/?ref=hn)
 - [Workplace Wellbeing Is a Scam](https://tribunemag.co.uk/2021/05/workplace-wellbeing-is-a-scam)
-- [Amazon Echo will start sharing your Internet with neighbors in June](https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011)
-- [Exploring the software that flies SpaceX rockets and starships](https://stackoverflow.blog/2021/05/10/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/)
-- [Hydrofoiling](https://www.tbray.org/ongoing/When/202x/2021/05/10/Hydrofoiling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
