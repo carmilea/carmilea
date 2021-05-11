@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A SpaceX booster now trails only 4 space shuttles in flight experience](https://arstechnica.com/science/2021/05/spacex-hits-major-reuse-milestone-with-rockets-10th-flight/)
-- [Amygdala hijack](https://en.wikipedia.org/wiki/Amygdala_hijack)
-- [Boeing 787s must be turned off and on every 51 days (2020)](https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data)
-- [Aqueduct of Constantinople: Managing longest water channel of the ancient world](https://phys.org/news/2021-05-aqueduct-constantinople-longest-channel-ancient.html)
-- [The Muse (YC W12) Is Hiring a Senior Data Engineer](https://jobs.lever.co/themuse/43458248-0813-4d77-aedc-ce7d1f92a77e?lever-origin=applied&lever-source%5B%5D=YC)
+- [The great resignation is coming](https://dailymirror.co.za/2021/05/11/the-great-resignation-is-coming/)
+- [Launch HN: UPchieve (YC W21 Nonprofit) – Live tutoring for low-income students](https://news.ycombinator.com/item?id=27118794)
+- [Pprof++: A Go Profiler with Hardware Performance Monitoring](https://eng.uber.com/pprof-go-profiler/)
+- [A Misleading CDC Number](https://www.nytimes.com/2021/05/11/briefing/outdoor-covid-transmission-cdc-number.html)
+- [Starting the World's First V8 Powered Tesla [video]](https://www.youtube.com/watch?v=4MOs4W-WYlM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
