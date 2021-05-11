@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An incomparable intellectual who fell through the cracks of history](https://www.nature.com/articles/d41586-021-01248-9)
 - [You Can’t Buy a Thermapen on Amazon](https://blog.thermoworks.com/thermometer/new-warning-thermoworks-website-2/)
 - [Can I Email?](https://www.caniemail.com/)
 - [Pfizer Covid vaccine protects against worrying coronavirus variants](https://www.nature.com/articles/d41586-021-01222-5)
 - [How to write a resume that converts](https://www.productlessons.xyz/article/product-manager-resume-with-examples-keywords)
-- [Atlas, a (hopefully) better engineering IDE](http://atlasengineering.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
