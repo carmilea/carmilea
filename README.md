@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CircleCI Acquires Vamp](https://blog.vamp.io/vamp-is-joining-circleci/)
-- [Why “Idea” People Are Risky and What to Do About It](https://www.betteroutcomes.xyz/how-to-know-if-that-idea-person-will-succeed-in-your-small-business/)
-- [The Plan for the Rust 2021 Edition](https://blog.rust-lang.org/2021/05/11/edition-2021.html)
-- [Launch HN: UPchieve (YC W21 Nonprofit) – Live tutoring for low-income students](https://news.ycombinator.com/item?id=27118794)
-- [A new book, Amazon Unbound, reveals Jeff Bezos’ envy of SpaceX](https://arstechnica.com/science/2021/05/a-new-book-amazon-unbound-reveals-jeff-bezos-envy-of-spacex/)
+- [Algolia (YC W14) Is Hiring a Developer Relations Ambassador](https://www.algolia.com/careers/developer-relations-technical-ambassador-new-york-london-atlanta-east-coast-remote)
+- [●●|●●●●●|●●|●](http://scp-wiki.wikidot.com/scp-2521)
+- [Quantum Leaps, Long Assumed to Be Instantaneous, Take Time (2019)](https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/)
+- [Good Data Scientist, Bad Data Scientist](https://ianwhitestone.work/good-ds-bad-ds/)
+- [When one city gave people cash, they got jobs](https://reasonstobecheerful.world/when-a-city-gave-people-cash-they-went-out-and-got-jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
