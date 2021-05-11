@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We’ll stop selling our Code Editor app for iOS soon](https://panic.com/blog/the-future-of-code-editor/)
+- [The Muse (YC W12) Is Hiring a Senior Data Engineer](https://jobs.lever.co/themuse/43458248-0813-4d77-aedc-ce7d1f92a77e?lever-origin=applied&lever-source%5B%5D=YC)
 - [Workplace Wellbeing Is a Scam](https://tribunemag.co.uk/2021/05/workplace-wellbeing-is-a-scam)
 - [Amazon Echo will start sharing your Internet with neighbors in June](https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011)
 - [Exploring the software that flies SpaceX rockets and starships](https://stackoverflow.blog/2021/05/10/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/)
