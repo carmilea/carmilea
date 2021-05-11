@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Babel is used by millions, so why are we running out of money? · Babel](https://babeljs.io/blog/2021/05/10/funding-update.html)
-- [Telegram provides time-based сurrency](https://habr.com/post/556474/)
+- [Babel is used by millions, so why are we running out of money?](https://babeljs.io/blog/2021/05/10/funding-update.html)
 - [I’m Trying to Understand Hedonic Adjustments](https://www.epsilontheory.com/im-trying-to-understand-hedonic-adjustments/)
 - [Voyager 1 hears the hush of interstellar plasma](https://astronomycommunity.nature.com/posts/voyager-1-hears-the-hush-of-interstellar-plasma)
 - [An incomparable intellectual who fell through the cracks of history](https://www.nature.com/articles/d41586-021-01248-9)
+- [Experts suggest French insurer AXA's plan to not pay ransomw will set precedent](https://www.cyberscoop.com/axa-ransomware-cyber-insurance-policies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
