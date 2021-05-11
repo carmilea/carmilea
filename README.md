@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Echo will start sharing your Internet with neighbors in June](https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011)
 - [Exploring the software that flies SpaceX rockets and starships](https://stackoverflow.blog/2021/05/10/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/)
 - [Hydrofoiling](https://www.tbray.org/ongoing/When/202x/2021/05/10/Hydrofoiling)
 - [Babel is used by millions, so why are we running out of money?](https://babeljs.io/blog/2021/05/10/funding-update.html)
 - [Voyager 1 hears the hush of interstellar plasma](https://astronomycommunity.nature.com/posts/voyager-1-hears-the-hush-of-interstellar-plasma)
-- [An incomparable intellectual who fell through the cracks of history](https://www.nature.com/articles/d41586-021-01248-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
