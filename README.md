@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The great resignation is coming](https://dailymirror.co.za/2021/05/11/the-great-resignation-is-coming/)
+- [CircleCI Acquires Vamp](https://blog.vamp.io/vamp-is-joining-circleci/)
+- [Why “Idea” People Are Risky and What to Do About It](https://www.betteroutcomes.xyz/how-to-know-if-that-idea-person-will-succeed-in-your-small-business/)
+- [The Plan for the Rust 2021 Edition](https://blog.rust-lang.org/2021/05/11/edition-2021.html)
 - [Launch HN: UPchieve (YC W21 Nonprofit) – Live tutoring for low-income students](https://news.ycombinator.com/item?id=27118794)
-- [Pprof++: A Go Profiler with Hardware Performance Monitoring](https://eng.uber.com/pprof-go-profiler/)
-- [A Misleading CDC Number](https://www.nytimes.com/2021/05/11/briefing/outdoor-covid-transmission-cdc-number.html)
-- [Starting the World's First V8 Powered Tesla [video]](https://www.youtube.com/watch?v=4MOs4W-WYlM)
+- [A new book, Amazon Unbound, reveals Jeff Bezos’ envy of SpaceX](https://arstechnica.com/science/2021/05/a-new-book-amazon-unbound-reveals-jeff-bezos-envy-of-spacex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
