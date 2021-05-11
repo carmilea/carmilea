@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How to negotiate continuing to work remotely?](https://news.ycombinator.com/item?id=27123553)
 - [KaiPod Learning (YC S21) Is Hiring](https://www.workatastartup.com/jobs/43915)
-- [The Arduino IDE 2.0 (beta)](https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/)
-- [FragAttacks: new security vulnerabilities that affect wi-fi devices](https://www.fragattacks.com/)
-- [Why Billionaires Don't Pay Property Taxes in New York (2015)](https://www.bloomberg.com/news/articles/2015-05-11/why-billionaires-don-t-pay-property-taxes-in-new-york)
-- [Tech giants join call for funding U.S. chip production](https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK)
+- [The Arduino IDE 2.0 beta](https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/)
+- [Just Use Email – How to Use Email for Everything](https://www.justuseemail.com/)
+- [Facebook will ignore data collection ban issued in Germany over WhatApp rules](https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
