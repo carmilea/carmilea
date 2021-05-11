@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gas shortage: Gov. Cooper declares state of emergency for NC](https://wlos.com/news/local/gas-shortage-gov-cooper-declares-state-of-emergency-for-nc-halts-vehicle-regulations)
 - [An incomparable intellectual who fell through the cracks of history](https://www.nature.com/articles/d41586-021-01248-9)
-- [You Can’t Buy a Thermapen on Amazon](https://blog.thermoworks.com/thermometer/new-warning-thermoworks-website-2/)
+- [Experts suggest French insurer AXA's plan to not pay ransomw will set precedent](https://www.cyberscoop.com/axa-ransomware-cyber-insurance-policies/)
+- [You Can’t Buy a Thermapen on Amazon (2016)](https://blog.thermoworks.com/thermometer/new-warning-thermoworks-website-2/)
 - [Can I Email?](https://www.caniemail.com/)
-- [Pfizer Covid vaccine protects against worrying coronavirus variants](https://www.nature.com/articles/d41586-021-01222-5)
-- [How to write a resume that converts](https://www.productlessons.xyz/article/product-manager-resume-with-examples-keywords)
 <!-- BLOG-POST-LIST:END -->
 
 ---
