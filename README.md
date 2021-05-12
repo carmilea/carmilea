@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lure of H Mart, Where the Shelves Can Seem as Wide as Asia](https://www.nytimes.com/2021/05/11/dining/h-mart.html)
+- [One of the World’s Longest-Running Experiments Sends Up Sprouts](https://www.nytimes.com/2021/05/11/science/seeds-germinated-michigan-state.html)
 - [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)
 - [Lasting immunity found after recovery from Covid-19](https://www.nih.gov/news-events/nih-research-matters/lasting-immunity-found-after-recovery-covid-19)
-- [Flask 2.0.0 has been merged into master](https://github.com/pallets/flask/pull/4007)
-- [AirGradient: DIY Air Quality Monitoring with Open-Source Hardware & Firmware](https://www.airgradient.com/diy/)
-- [Asynchronous Tasks with FastAPI and Celery](https://testdriven.io/blog/fastapi-and-celery/)
+- [The Obsessive Scholar Who Rescued Iceland’s Ancient Literary Legacy](https://lithub.com/the-obsessive-scholar-who-rescued-icelands-ancient-literary-legacy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
