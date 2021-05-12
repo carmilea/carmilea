@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Join YC's software team and help build the OS that runs YC itself](https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer-y-combinator)
-- [Goldman Sachs executive quits after making millions from Dogecoin](https://www.theguardian.com/technology/2021/may/11/goldman-sachs-executive-quits-after-making-millions-from-dogecoin)
+- [How image search works at Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox)
+- [Deno v1.10 Released](https://deno.com/blog/v1.10)
 - [The Importance of Humility in Software Development](http://humbletoolsmith.com/2020/08/10/the-importance-of-humility-in-software-development/)
 - [How Fake Money Saved Brazil (2010)](https://www.npr.org/sections/money/2010/10/04/130329523/how-fake-money-saved-brazil)
-- [Plaid paid people $500 for their employer payroll logins](https://www.vice.com/en/article/bvzzqa/plaid-paid-500-dollars-workplace-logins)
 <!-- BLOG-POST-LIST:END -->
 
 ---
