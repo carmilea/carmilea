@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Way to Manage Dotfiles](https://github.com/kalkayan/dotfiles)
+- [Neural implant lets paralyzed person type by imagining writing [90wpm]](https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/?comments=1)
 - [Benchmarking division and libdivide on Apple M1 and Intel AVX512](https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html)
-- [The Macaroni in ‘Yankee Doodle’ Is Not What You Think](https://www.atlasobscura.com/articles/the-macaroni-in-yankee-doodle-is-not-what-you-think)
-- [GitHub Graduation 2021](https://github.com/education/GitHubGraduation-2021)
+- [The Macaroni in ‘Yankee Doodle’](https://www.atlasobscura.com/articles/the-macaroni-in-yankee-doodle-is-not-what-you-think)
 - [What Is a Nuclear Microreactor?](https://www.energy.gov/ne/articles/what-nuclear-microreactor)
-- [Flask 2.0.0 has been released](https://flask.palletsprojects.com/en/2.0.x/changes/#version-2-0-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
