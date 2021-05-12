@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Community Phone Company (YC W19) Is Hiring](https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-fullstack-engineer)
+- [Docusaurus 2 Beta](https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta)
+- [Show HN: I wrote my own RTS game engine in 70k SLOC of C](https://github.com/eduard-permyakov/permafrost-engine)
 - [Bill Hwang of Archegos Capital lost $20B in two days](https://www.bloomberg.com/news/features/2021-04-08/how-bill-hwang-of-archegos-capital-lost-20-billion-in-two-days)
 - [Houdini – CSS is now extendable with JavaScript](https://developer.mozilla.org/en-US/docs/Web/Houdini)
-- [Vesuvius ancient eruption rescuer identified at Herculaneum, says expert](https://www.bbc.com/news/world-europe-57055163)
-- [Emulating AirTags to upload arbitrary data via Apple's FindMy network](https://positive.security/blog/send-my)
-- [Australia Joins the Race for Supersonic Flight](https://simpleflying.com/australia-supersonic-flight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
