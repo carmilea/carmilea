@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Newly Declassified NSA Document on Cryptography in the 1970s](https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html)
 - [Join YC's software team and help build the OS that runs YC itself](https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer-y-combinator)
 - [How image search works at Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox)
 - [Deno v1.10 Released](https://deno.com/blog/v1.10)
-- [The Importance of Humility in Software Development](http://humbletoolsmith.com/2020/08/10/the-importance-of-humility-in-software-development/)
-- [How Fake Money Saved Brazil (2010)](https://www.npr.org/sections/money/2010/10/04/130329523/how-fake-money-saved-brazil)
+- [The Importance of Humility in Software Development (2020)](http://humbletoolsmith.com/2020/08/10/the-importance-of-humility-in-software-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
