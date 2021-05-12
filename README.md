@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pipeline outage causes U.S. gasoline supply crunch, panic buying](https://www.reuters.com/business/energy/us-fuel-supplies-tighten-energy-pipeline-outage-enters-fifth-day-2021-05-11/)
 - [Emulating AirTags to upload arbitrary data via Apple's FindMy network](https://positive.security/blog/send-my)
 - [Apple Robbed the Mob’s Bank](https://mobiledevmemo.com/apple-robbed-the-mobs-bank/)
 - [Australia Joins the Race for Supersonic Flight](https://simpleflying.com/australia-supersonic-flight/)
-- [Google Docs will move to canvas based rendering instead of DOM](https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html)
-- [Writing a Programming Book in 2021](https://jmtirado.net/writing-a-programming-book-in-2021/)
+- [Google Docs will now use canvas based rendering](https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
