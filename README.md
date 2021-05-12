@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lure of H Mart, Where the Shelves Can Seem as Wide as Asia](https://www.nytimes.com/2021/05/11/dining/h-mart.html)
+- [How to Solve the Homeless Problem, Once and for All](https://michaelshellenberger.substack.com/p/why-california-governor-gavin-newsom)
+- [How Fake Money Saved Brazil (2010)](https://www.npr.org/sections/money/2010/10/04/130329523/how-fake-money-saved-brazil)
+- [Finance Giant Plaid Paid People $500 for Their Employer Payroll Logins](https://www.vice.com/en/article/bvzzqa/plaid-paid-500-dollars-workplace-logins)
+- [PhotorealismEnhancement: Enhancing the Realism of Synthetic Images](https://intel-isl.github.io/PhotorealismEnhancement/)
 - [One of the World’s Longest-Running Experiments Sends Up Sprouts](https://www.nytimes.com/2021/05/11/science/seeds-germinated-michigan-state.html)
-- [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)
-- [Lasting immunity found after recovery from Covid-19](https://www.nih.gov/news-events/nih-research-matters/lasting-immunity-found-after-recovery-covid-19)
-- [The Obsessive Scholar Who Rescued Iceland’s Ancient Literary Legacy](https://lithub.com/the-obsessive-scholar-who-rescued-icelands-ancient-literary-legacy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
