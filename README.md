@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)
+- [Lasting immunity found after recovery from Covid-19](https://www.nih.gov/news-events/nih-research-matters/lasting-immunity-found-after-recovery-covid-19)
 - [Flask 2.0.0 has been merged into master](https://github.com/pallets/flask/pull/4007)
 - [AirGradient: DIY Air Quality Monitoring with Open-Source Hardware & Firmware](https://www.airgradient.com/diy/)
-- [Ask HN: How to negotiate continuing to work remotely?](https://news.ycombinator.com/item?id=27123553)
-- [KaiPod Learning (YC S21) Is Hiring](https://www.workatastartup.com/jobs/43915)
-- [The Arduino IDE 2.0 beta](https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/)
+- [Asynchronous Tasks with FastAPI and Celery](https://testdriven.io/blog/fastapi-and-celery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
