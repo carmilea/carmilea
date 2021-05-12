@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pipeline outage causes U.S. gasoline supply crunch, panic buying](https://www.reuters.com/business/energy/us-fuel-supplies-tighten-energy-pipeline-outage-enters-fifth-day-2021-05-11/)
+- [Bill Hwang of Archegos Capital lost $20B in two days](https://www.bloomberg.com/news/features/2021-04-08/how-bill-hwang-of-archegos-capital-lost-20-billion-in-two-days)
+- [Houdini – CSS is now extendable with JavaScript](https://developer.mozilla.org/en-US/docs/Web/Houdini)
+- [Vesuvius ancient eruption rescuer identified at Herculaneum, says expert](https://www.bbc.com/news/world-europe-57055163)
 - [Emulating AirTags to upload arbitrary data via Apple's FindMy network](https://positive.security/blog/send-my)
-- [Apple Robbed the Mob’s Bank](https://mobiledevmemo.com/apple-robbed-the-mobs-bank/)
 - [Australia Joins the Race for Supersonic Flight](https://simpleflying.com/australia-supersonic-flight/)
-- [Google Docs will now use canvas based rendering](https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
