@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cover (YC W16) Is Hiring](https://jobs.lever.co/cover-2/efb72344-405e-40db-8abf-e2a758b2e7c7)
-- [If ( gender == “female” && married == True and& age =30) { hasChildren = True; }](https://shkspr.mobi/blog/2021/05/if-gender-female/)
-- [Erlang/OTP 24 Highlights](http://blog.erlang.org/My-OTP-24-Highlights/)
-- [My perilous foray into small-town politics in search of Municipal Broadband](https://madned.substack.com/p/thin-pipe-part-ii)
-- [Volvo and Daimler bet on hydrogen truck boom this decade](https://arstechnica.com/cars/2021/05/volvo-and-daimler-bet-on-hydrogen-truck-boom-this-decade/)
+- [Emulating AirTags to upload arbitrary data via Apple's FindMy network](https://positive.security/blog/send-my)
+- [Apple Robbed the Mob’s Bank](https://mobiledevmemo.com/apple-robbed-the-mobs-bank/)
+- [Australia Joins the Race for Supersonic Flight](https://simpleflying.com/australia-supersonic-flight/)
+- [Google Docs will move to canvas based rendering instead of DOM](https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html)
+- [Writing a Programming Book in 2021](https://jmtirado.net/writing-a-programming-book-in-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
