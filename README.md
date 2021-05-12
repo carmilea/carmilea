@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Benchmarking division and libdivide on Apple M1 and Intel AVX512](https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html)
+- [The Macaroni in ‘Yankee Doodle’ Is Not What You Think](https://www.atlasobscura.com/articles/the-macaroni-in-yankee-doodle-is-not-what-you-think)
 - [GitHub Graduation 2021](https://github.com/education/GitHubGraduation-2021)
 - [What Is a Nuclear Microreactor?](https://www.energy.gov/ne/articles/what-nuclear-microreactor)
-- [Community Phone Company (YC W19) Is Hiring](https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-fullstack-engineer)
-- [Docusaurus 2 Beta](https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta)
-- [Show HN: I wrote my own RTS game engine in 70k SLOC of C](https://github.com/eduard-permyakov/permafrost-engine)
+- [Flask 2.0.0 has been released](https://flask.palletsprojects.com/en/2.0.x/changes/#version-2-0-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
