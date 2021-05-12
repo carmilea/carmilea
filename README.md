@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Relationship Hero is hiring coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
+- [The digital natives are not who you think it is](https://blog.torh.net/2021/05/12/the-digital-natives-are-not-who-you-think-it-is/)
+- [Instagram, Twitter blame glitches for deleting Palestinian posts](https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624)
 - [A Way to Manage Dotfiles](https://github.com/kalkayan/dotfiles)
 - [Neural implant lets paralyzed person type by imagining writing [90wpm]](https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/?comments=1)
-- [Benchmarking division and libdivide on Apple M1 and Intel AVX512](https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html)
-- [The Macaroni in ‘Yankee Doodle’](https://www.atlasobscura.com/articles/the-macaroni-in-yankee-doodle-is-not-what-you-think)
-- [What Is a Nuclear Microreactor?](https://www.energy.gov/ne/articles/what-nuclear-microreactor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
