@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GNU Guix 1.3.0 Released](https://guix.gnu.org/en/blog/2021/gnu-guix-1.3.0-released/)
+- [Reverse Engineering an Unknown Microcontroller](http://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller)
+- [Show HN: I built mmm.page → dead simple, drag and drop personal website creator](https://build.mmm.page)
+- [Guix 1.3](https://guix.gnu.org/en/blog/2021/gnu-guix-1.3.0-released/)
 - [Newly Declassified NSA Document on Cryptography in the 1970s](https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html)
 - [I could send any text message from Indian government IDs](https://kmskrishna.me/how-i-could-send-any-text-message-from-indian-government-ids-b61c5b8726c9)
-- [Open source computer vision API](https://openvisionapi.com)
-- [Join YC's software team and help build the OS that runs YC itself](https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer-y-combinator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
