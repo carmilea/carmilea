@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Solve the Homeless Problem, Once and for All](https://michaelshellenberger.substack.com/p/why-california-governor-gavin-newsom)
 - [How Fake Money Saved Brazil (2010)](https://www.npr.org/sections/money/2010/10/04/130329523/how-fake-money-saved-brazil)
 - [Finance Giant Plaid Paid People $500 for Their Employer Payroll Logins](https://www.vice.com/en/article/bvzzqa/plaid-paid-500-dollars-workplace-logins)
 - [PhotorealismEnhancement: Enhancing the Realism of Synthetic Images](https://intel-isl.github.io/PhotorealismEnhancement/)
+- [Ransomware gang threatens release of Washington D.C. police records](https://apnews.com/article/police-technology-government-and-politics-53e54780aa080decbb78d5b88d4ff44b)
 - [One of the World’s Longest-Running Experiments Sends Up Sprouts](https://www.nytimes.com/2021/05/11/science/seeds-germinated-michigan-state.html)
 <!-- BLOG-POST-LIST:END -->
 
