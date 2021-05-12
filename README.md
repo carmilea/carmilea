@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla has suspended vehicle purchases using Bitcoin](https://twitter.com/elonmusk/status/1392602041025843203)
+- [55,000 lines of Rust code later: A debugger is born](https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md)
+- [Kobra – visual programming language for machine learning](https://kobra.dev/)
+- [CP/M for OS X](https://github.com/TomHarte/CP-M-for-OS-X)
 - [Relationship Hero is hiring coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
-- [The digital natives are not who you think it is](https://blog.torh.net/2021/05/12/the-digital-natives-are-not-who-you-think-it-is/)
-- [Instagram, Twitter blame glitches for deleting Palestinian posts](https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624)
-- [A Way to Manage Dotfiles](https://github.com/kalkayan/dotfiles)
-- [Neural implant lets paralyzed person type by imagining writing [90wpm]](https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/?comments=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
