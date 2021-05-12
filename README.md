@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Engineering an Unknown Microcontroller](http://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller)
-- [Show HN: I built mmm.page → dead simple, drag and drop personal website creator](https://build.mmm.page)
-- [Guix 1.3](https://guix.gnu.org/en/blog/2021/gnu-guix-1.3.0-released/)
-- [Newly Declassified NSA Document on Cryptography in the 1970s](https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html)
-- [I could send any text message from Indian government IDs](https://kmskrishna.me/how-i-could-send-any-text-message-from-indian-government-ids-b61c5b8726c9)
+- [Cover (YC W16) Is Hiring](https://jobs.lever.co/cover-2/efb72344-405e-40db-8abf-e2a758b2e7c7)
+- [If ( gender == “female” && married == True and& age =30) { hasChildren = True; }](https://shkspr.mobi/blog/2021/05/if-gender-female/)
+- [Erlang/OTP 24 Highlights](http://blog.erlang.org/My-OTP-24-Highlights/)
+- [My perilous foray into small-town politics in search of Municipal Broadband](https://madned.substack.com/p/thin-pipe-part-ii)
+- [Volvo and Daimler bet on hydrogen truck boom this decade](https://arstechnica.com/cars/2021/05/volvo-and-daimler-bet-on-hydrogen-truck-boom-this-decade/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
