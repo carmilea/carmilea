@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Story (YC S15) Is Hiring Head of People and Culture](https://newstorycharity.org/careers/head-of-people-and-culture)
+- [Show HN: We wrote a book about building business applications in Go](https://threedots.tech/go-with-the-domain/)
+- [20 movies every physics lover should watch in their lifetime](https://www.wondersofphysics.com/2020/04/best-physics-movies.html)
 - [Multicore OCaml: April 2021](https://discuss.ocaml.org/t/multicore-ocaml-april-2021/7849)
 - [Scientists Catch Jumping Genes Rewiring Genomes](https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/)
-- [What I learnt roasting 200 landing pages in 12 months](https://blog.roastmylandingpage.com/landing-page-roasts/)
-- [Faster CPython Ideas – Issue Tracker for Faster CPython Project](https://github.com/faster-cpython/ideas)
-- [.C as a file extension for C++ is not portable](https://nibblestew.blogspot.com/2021/05/c-as-file-extension-for-c-is-not.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
