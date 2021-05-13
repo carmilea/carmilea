@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Study: Vitamin D won’t limit risk, severity of Covid-19](https://news.cornell.edu/stories/2021/05/study-vitamin-d-wont-limit-risk-severity-covid-19)
-- [Show HN: Learn Python the Right Way – Free Introduction to Python Book](https://learnpythontherightway.com)
-- [Spearmint – JavaScript Test-Code Generator – New In-App Testing](https://www.spearmintjs.com/)
-- [Nikon is slowly discontinuing more Nikkor reflex F-mount lenses](https://nikonrumors.com/2021/05/12/nikon-is-slowly-discontinuing-more-nikkor-f-mount-lenses.aspx/)
-- [New Story (YC S15) Is Hiring Head of People and Culture](https://newstorycharity.org/careers/head-of-people-and-culture)
+- [Black homeowner has white friend stand in for third appraisal. Value doubles.](https://www.indystar.com/story/money/2021/05/13/indianapolis-black-homeowner-home-appraisal-discrimination-fair-housing-center-central-indiana/4936571001/)
+- [Launch HN: Ditto (YC W20) – Keep product text in sync from design to production](https://news.ycombinator.com/item?id=27142930)
+- [Framework’s repairable laptop is up for preorder, starting at $999](https://techcrunch.com/2021/05/13/frameworks-repairable-laptop-is-up-for-pre-order-starting-at-999/)
+- [WeWork CEO Says Least Engaged Employees Enjoy Working from Home](https://www.wsj.com/articles/wework-ceo-says-workers-who-want-back-into-the-office-are-the-most-engaged-11620837018)
+- [Tesla owner arrested after riding in the back seat while it was on autopilot](https://news.sky.com/story/tesla-owner-arrested-after-repeatedly-riding-in-the-back-seat-while-it-was-on-autopilot-12304968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
