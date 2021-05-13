@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Misogynistic’ Apple hire is out hours after employees call for investigation](https://www.theverge.com/2021/5/12/22433437/apple-hire-antonio-garcia-martinez-out-petition-investigation)
+- [Fuck the Bread. The Bread Is Over](https://www.theparisreview.org/blog/2020/05/07/fuck-the-bread-the-bread-is-over/)
+- [A pair of memory-allocation improvements in Linux 5.13](https://lwn.net/SubscriberLink/855226/72737207b5650d33/)
 - [Managing Dotfiles with GNU Stow](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/)
 - [WHO List of Essential Medicines](https://list.essentialmeds.org/)
-- [Executive Order on Improving the Nation’s Cybersecurity](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
-- [JWT should not be your default for sessions](https://evertpot.com/jwt-is-a-bad-default/)
-- [Uber used 50 Dutch shell companies to dodge taxes on $6B in revenue](https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
