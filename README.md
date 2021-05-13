@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BackBlaze: Privacy Update: Third-Party Tracking](https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13)
+- [Bill C-10 would require YouTube, other platforms to recommend Canadian content](https://www.theglobeandmail.com/politics/article-amendments-to-bill-c-10-would-require-youtube-other-platforms-to/)
 - [Fly’s Prometheus Metrics](https://fly.io/blog/measuring-fly/)
 - [Substack is hiring engineers to build a better business model for writing](https://substack.com/jobs)
 - [A new era of personalised medicine: or how I got myself sequenced for free](https://souradip.mookerj.ee/blog/free-sequencing)
-- [Vulnerability allows cross-browser tracking in Chrome, Firefox, Safari, and Tor](https://fingerprintjs.com/blog/external-protocol-flooding/)
-- [Dataflow, a self-hosted Observable notebook editor](https://observablehq.com/@asg017/introducing-dataflow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
