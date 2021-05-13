@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. has entered unprecedented climate territory](https://www.washingtonpost.com/climate-environment/2021/05/12/us-has-entered-unprecedented-climate-territory-epa-warns/)
+- [Study: Vitamin D won’t limit risk, severity of Covid-19](https://news.cornell.edu/stories/2021/05/study-vitamin-d-wont-limit-risk-severity-covid-19)
+- [Show HN: Learn Python the Right Way – Free Introduction to Python Book](https://learnpythontherightway.com)
+- [Spearmint – JavaScript Test-Code Generator – New In-App Testing](https://www.spearmintjs.com/)
 - [Nikon is slowly discontinuing more Nikkor reflex F-mount lenses](https://nikonrumors.com/2021/05/12/nikon-is-slowly-discontinuing-more-nikkor-f-mount-lenses.aspx/)
 - [New Story (YC S15) Is Hiring Head of People and Culture](https://newstorycharity.org/careers/head-of-people-and-culture)
-- [Vue 3 drops IE11 support plan](https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md)
-- [Show HN: We wrote a book about building business applications in Go](https://threedots.tech/go-with-the-domain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
