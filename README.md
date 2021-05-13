@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Managing Dotfiles with GNU Stow](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/)
+- [WHO List of Essential Medicines](https://list.essentialmeds.org/)
 - [Executive Order on Improving the Nation’s Cybersecurity](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
 - [JWT should not be your default for sessions](https://evertpot.com/jwt-is-a-bad-default/)
 - [Uber used 50 Dutch shell companies to dodge taxes on $6B in revenue](https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5)
-- [Kobra – visual programming language for machine learning](https://kobra.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
