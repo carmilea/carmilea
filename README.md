@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Enigma: GPT-2 trained on 10K Nature Papers: Can you spot the difference?](https://stefanzukin.com/enigma/)
-- [Notion launches its API in public beta](https://developers.notion.so)
-- [QuestDB Is Hiring a Developer Relations Engineer](https://questdb.io/careers/)
-- [Framework Laptop pre-orders are open, starting at $999](https://frame.work/blog/framework-laptop-starting-at-999-pre-orders-are)
-- [Launch HN: Ditto (YC W20) – Keep product text in sync from design to production](https://news.ycombinator.com/item?id=27142930)
+- [Dataflow, a self-hosted Observable Notebook Editor](https://observablehq.com/@asg017/introducing-dataflow)
+- [Pentagon Surveilling Americans Without a Warrant, Senator Reveals](https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing)
+- [Find the Error, if any, in this “proof” of the Riemann Hypothesis](https://arxiv.org/abs/1602.03553)
+- [$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin](https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html)
+- [Three Things to Never Build Yourself: Auth, Notifications, & Payments](https://www.courier.com/blog/the-three-things-to-never-build-in-your-app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
