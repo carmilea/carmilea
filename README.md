@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fly’s Prometheus Metrics](https://fly.io/blog/measuring-fly/)
+- [Substack is hiring engineers to build a better business model for writing](https://substack.com/jobs)
 - [Vulnerability allows cross-browser tracking in Chrome, Firefox, Safari, and Tor](https://fingerprintjs.com/blog/external-protocol-flooding/)
 - [Dataflow, a self-hosted Observable notebook editor](https://observablehq.com/@asg017/introducing-dataflow)
 - [A Recap of the Mars Terraforming Debate](https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap)
-- [Pentagon surveilling Americans without a warrant, Senator Wyden reveals](https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing)
-- [$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin](https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
