@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rainforest (YC S12) Is Hiring for React and Ruby Engineers](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN)
-- [Big list of HTTP static server one-liners](https://gist.github.com/willurd/5720255)
-- [Midair Collision over Denver](https://avherald.com/h?article=4e74b6e5)
-- [Giant sea lizard fossil shows diversity of life before asteroid hit](https://www.bath.ac.uk/announcements/giant-sea-lizard-fossil-shows-diversity-of-life-before-asteroid-hit/)
-- [Fuck the Bread. The Bread Is Over (2020)](https://www.theparisreview.org/blog/2020/05/07/fuck-the-bread-the-bread-is-over/)
+- [Facebook moderator: ‘Every day was a nightmare’](https://www.bbc.com/news/technology-57088382)
+- [Swiss spy chief exits after reports of row over CIA-linked firm](https://www.reuters.com/world/europe/swiss-spy-chief-exits-after-reports-row-over-cia-linked-firm-2021-05-12/)
+- [Study finds alarming levels of ‘forever chemicals’ in US mothers’ breast milk](https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study)
+- [Google fined 100M by Italian antitrust over Google Play abuse of dominance](https://www.repubblica.it/economia/2021/05/13/news/antitrust_sanzione_google-300745107)
+- [Tesla no longer accepts Bitcoin due to climate impact](https://m.dw.com/en/tesla-changes-stance-on-bitcoin-amid-climate-concerns/a-57515879)
 <!-- BLOG-POST-LIST:END -->
 
 ---
