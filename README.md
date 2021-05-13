@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Fly’s Prometheus Metrics](https://fly.io/blog/measuring-fly/)
 - [Substack is hiring engineers to build a better business model for writing](https://substack.com/jobs)
+- [A new era of personalised medicine: or how I got myself sequenced for free](https://souradip.mookerj.ee/blog/free-sequencing)
 - [Vulnerability allows cross-browser tracking in Chrome, Firefox, Safari, and Tor](https://fingerprintjs.com/blog/external-protocol-flooding/)
 - [Dataflow, a self-hosted Observable notebook editor](https://observablehq.com/@asg017/introducing-dataflow)
-- [A Recap of the Mars Terraforming Debate](https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
