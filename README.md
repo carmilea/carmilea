@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Managing Dotfiles with GNU Stow](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/)
+- [Executive Order on Improving the Nation’s Cybersecurity](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
+- [JWT should not be your default for sessions](https://evertpot.com/jwt-is-a-bad-default/)
 - [Uber used 50 Dutch shell companies to dodge taxes on $6B in revenue](https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5)
-- [Tesla has suspended vehicle purchases using Bitcoin](https://twitter.com/elonmusk/status/1392602041025843203)
-- [55,000 lines of Rust code later: A debugger is born](https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md)
 - [Kobra – visual programming language for machine learning](https://kobra.dev/)
-- [CP/M for OS X](https://github.com/TomHarte/CP-M-for-OS-X)
 <!-- BLOG-POST-LIST:END -->
 
 ---
