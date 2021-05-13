@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Pentagon Inches Toward Letting AI Control Weapons](https://www.wired.com/story/pentagon-inches-toward-letting-ai-control-weapons/)
-- [Dataflow, a self-hosted Observable Notebook Editor](https://observablehq.com/@asg017/introducing-dataflow)
+- [Vulnerability allows cross-browser tracking in Chrome, Firefox, Safari, and Tor](https://fingerprintjs.com/blog/external-protocol-flooding/)
+- [Dataflow, a self-hosted Observable notebook editor](https://observablehq.com/@asg017/introducing-dataflow)
 - [A Recap of the Mars Terraforming Debate](https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap)
-- [Pentagon Surveilling Americans Without a Warrant, Senator Reveals](https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing)
-- [Ohio Lottery to Give 5 People $1M Each to Encourage Vaccination](https://www.nytimes.com/2021/05/12/us/ohio-lottery-coronavirus-vaccine.html)
+- [Pentagon surveilling Americans without a warrant, Senator Wyden reveals](https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing)
+- [$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin](https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
