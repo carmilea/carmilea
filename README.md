@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Covid-19 Was 'A Preventable Disaster,' WHO-Ordered Report Says](https://www.wbur.org/npr/996284927/covid-19-was-a-preventable-disaster-who-ordered-report-states)
-- [Fuck the Bread. The Bread Is Over](https://www.theparisreview.org/blog/2020/05/07/fuck-the-bread-the-bread-is-over/)
+- [Giant sea lizard fossil shows diversity of life before asteroid hit](https://www.bath.ac.uk/announcements/giant-sea-lizard-fossil-shows-diversity-of-life-before-asteroid-hit/)
+- [Fuck the Bread. The Bread Is Over (2020)](https://www.theparisreview.org/blog/2020/05/07/fuck-the-bread-the-bread-is-over/)
 - [A pair of memory-allocation improvements in Linux 5.13](https://lwn.net/SubscriberLink/855226/72737207b5650d33/)
 - [Managing Dotfiles with GNU Stow](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/)
 - [WHO List of Essential Medicines](https://list.essentialmeds.org/)
