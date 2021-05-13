@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft is shutting down its Azure Blockchain Service](https://www.zdnet.com/article/microsoft-is-shutting-down-its-azure-blockchain-service/)
-- [Swiss spy chief exits after reports of row over CIA-linked firm](https://www.reuters.com/world/europe/swiss-spy-chief-exits-after-reports-row-over-cia-linked-firm-2021-05-12/)
-- [Study finds alarming levels of ‘forever chemicals’ in US mothers’ breast milk](https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study)
-- [Google fined 100M by Italian antitrust over Google Play abuse of dominance](https://www.repubblica.it/economia/2021/05/13/news/antitrust_sanzione_google-300745107)
-- [Rainforest (YC S12) Is Hiring for React and Ruby Engineers](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN)
+- [Multicore OCaml: April 2021](https://discuss.ocaml.org/t/multicore-ocaml-april-2021/7849)
+- [Scientists Catch Jumping Genes Rewiring Genomes](https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/)
+- [What I learnt roasting 200 landing pages in 12 months](https://blog.roastmylandingpage.com/landing-page-roasts/)
+- [Faster CPython Ideas – Issue Tracker for Faster CPython Project](https://github.com/faster-cpython/ideas)
+- [.C as a file extension for C++ is not portable](https://nibblestew.blogspot.com/2021/05/c-as-file-extension-for-c-is-not.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
