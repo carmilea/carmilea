@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook moderator: ‘Every day was a nightmare’](https://www.bbc.com/news/technology-57088382)
+- [Microsoft is shutting down its Azure Blockchain Service](https://www.zdnet.com/article/microsoft-is-shutting-down-its-azure-blockchain-service/)
 - [Swiss spy chief exits after reports of row over CIA-linked firm](https://www.reuters.com/world/europe/swiss-spy-chief-exits-after-reports-row-over-cia-linked-firm-2021-05-12/)
 - [Study finds alarming levels of ‘forever chemicals’ in US mothers’ breast milk](https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study)
 - [Google fined 100M by Italian antitrust over Google Play abuse of dominance](https://www.repubblica.it/economia/2021/05/13/news/antitrust_sanzione_google-300745107)
-- [Tesla no longer accepts Bitcoin due to climate impact](https://m.dw.com/en/tesla-changes-stance-on-bitcoin-amid-climate-concerns/a-57515879)
+- [Rainforest (YC S12) Is Hiring for React and Ruby Engineers](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN)
 <!-- BLOG-POST-LIST:END -->
 
 ---
