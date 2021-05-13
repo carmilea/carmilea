@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Enigma: GPT-2 trained on 10K Nature Papers: Can you spot the difference?](https://stefanzukin.com/enigma/)
+- [Notion launches its API in public beta](https://developers.notion.so)
+- [QuestDB Is Hiring a Developer Relations Engineer](https://questdb.io/careers/)
+- [Framework Laptop pre-orders are open, starting at $999](https://frame.work/blog/framework-laptop-starting-at-999-pre-orders-are)
 - [Launch HN: Ditto (YC W20) – Keep product text in sync from design to production](https://news.ycombinator.com/item?id=27142930)
-- [Framework’s repairable laptop is up for preorder, starting at $999](https://techcrunch.com/2021/05/13/frameworks-repairable-laptop-is-up-for-pre-order-starting-at-999/)
-- [Colonial Pipeline Paid Hackers Nearly $5M in Ransom](https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom)
-- [Target stops selling Pokémon cards in store, citing safety concerns](https://www.polygon.com/22433872/pokemon-cards-target-restock-shining-fates-in-store-availability)
-- [Show HN: I made a platform to publish my Google Docs files as blogs](https://hexo.press)
 <!-- BLOG-POST-LIST:END -->
 
 ---
