@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rainforest (YC S12) Is Hiring for React and Ruby Engineers](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN)
+- [Big list of HTTP static server one-liners](https://gist.github.com/willurd/5720255)
+- [Midair Collision over Denver](https://avherald.com/h?article=4e74b6e5)
 - [Giant sea lizard fossil shows diversity of life before asteroid hit](https://www.bath.ac.uk/announcements/giant-sea-lizard-fossil-shows-diversity-of-life-before-asteroid-hit/)
 - [Fuck the Bread. The Bread Is Over (2020)](https://www.theparisreview.org/blog/2020/05/07/fuck-the-bread-the-bread-is-over/)
-- [A pair of memory-allocation improvements in Linux 5.13](https://lwn.net/SubscriberLink/855226/72737207b5650d33/)
-- [Managing Dotfiles with GNU Stow](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/)
-- [WHO List of Essential Medicines](https://list.essentialmeds.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
