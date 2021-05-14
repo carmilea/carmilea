@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zulip 4.0: Threaded open source team chat](https://blog.zulip.com/2021/05/13/zulip-4-0-released/)
+- [Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
 - [BackBlaze: Privacy Update: Third-Party Tracking](https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13)
-- [Bill C-10 would require YouTube, other platforms to recommend Canadian content](https://www.theglobeandmail.com/politics/article-amendments-to-bill-c-10-would-require-youtube-other-platforms-to/)
-- [Fly’s Prometheus Metrics](https://fly.io/blog/measuring-fly/)
-- [Substack is hiring engineers to build a better business model for writing](https://substack.com/jobs)
-- [A new era of personalised medicine: or how I got myself sequenced for free](https://souradip.mookerj.ee/blog/free-sequencing)
+- [The Brain Maps Out Ideas and Memories Like Spaces](https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/)
+- [Microfarms come to South L.A. frontyards, bringing fresh produce to food deserts](https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
