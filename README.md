@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildStream (YC S19) Is Hiring](https://www.ycombinator.com/companies/buildstream/jobs/QV84ghp-full-stack-engineer-laravel-bootstrap-js-remote-ok)
+- [A paradigm shift to combat indoor respiratory infection](https://drive.google.com/file/d/1_aMgbcDdvbUv5ehmhMeZ4NlVHzKxIMUC/view)
+- [Tether reserves backed by 2.9% cash](https://www.ft.com/content/529eb4e6-796a-4e81-8064-5967bbe3b4d9)
 - [Ads Are Impersonating Government Websites in Google Results, Despite Ban](https://themarkup.org/google-the-giant/2021/05/13/ads-are-impersonating-government-websites-in-google-results-despite-ban)
 - [Tried Nvidia's GTX 1080 – still no external GPU on a Pi](https://www.jeffgeerling.com/blog/2021/tried-nvidias-gtx-1080-still-no-external-gpu-on-pi)
-- [Freshly made plutonium from outer space found on ocean floor](https://www.npr.org/2021/05/13/996499035/freshly-made-plutonium-from-outer-space-found-on-ocean-floor)
-- [Zulip 4.0: Threaded open source team chat](https://blog.zulip.com/2021/05/13/zulip-4-0-released/)
-- [Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
