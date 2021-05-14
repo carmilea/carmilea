@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moving to London as a Software Engineer](https://relocate.me/blog/expat-stories/moving-to-the-uk-for-a-tech-job/)
-- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-- [Lightning-Fast, Open Source Search](https://typesense.org/)
-- [Ask HN: What are the best typography talks?](https://news.ycombinator.com/item?id=27154412)
-- [Spencer Silver, inventor behind the Post-it Note, has died](https://www.washingtonpost.com/local/obituaries/spencer-silver-dead/2021/05/13/5ad35534-b406-11eb-ab43-bebddc5a0f65_story.html)
+- [Tauri: Rust-based Electron alternative releases beta](https://tauri.studio/?hn)
+- [Rust on the Frontend and Backend](https://blog.abor.dev/p/moonzoon)
+- [Starlink Review: Broadband Dreams Fall to Earth](https://www.theverge.com/22435030/starlink-satellite-internet-spacex-review)
+- [DarkSide ransomware gang quits after servers, Bitcoin stash seized](https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/)
+- [The Missing Semester of CS Education](https://missing.csail.mit.edu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
