@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU citizens arriving in UK being locked up and expelled](https://www.theguardian.com/politics/2021/may/13/eu-citizens-arriving-in-uk-being-locked-up-and-expelled)
+- [Ask HN: What happened to the guy whose boss was ignoring him?](https://news.ycombinator.com/item?id=27152140)
 - [Scala 3.0.0](https://github.com/lampepfl/dotty/releases/tag/3.0.0)
 - [BuildStream (YC S19) Is Hiring](https://www.ycombinator.com/companies/buildstream/jobs/QV84ghp-full-stack-engineer-laravel-bootstrap-js-remote-ok)
 - [A paradigm shift to combat indoor respiratory infection](https://drive.google.com/file/d/1_aMgbcDdvbUv5ehmhMeZ4NlVHzKxIMUC/view)
