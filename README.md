@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Freshly made plutonium from outer space found on ocean floor](https://www.npr.org/2021/05/13/996499035/freshly-made-plutonium-from-outer-space-found-on-ocean-floor)
-- [Machine Learning Is a Marvelously Executed Scam](https://www.lastweekinaws.com/blog/machine-learning-is-a-marvelously-executed-scam/)
 - [Zulip 4.0: Threaded open source team chat](https://blog.zulip.com/2021/05/13/zulip-4-0-released/)
 - [Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
 - [Privacy Update: Third-party Tracking](https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13)
+- [The brain maps out ideas and memories like spaces](https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
