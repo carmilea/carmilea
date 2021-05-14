@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rectal Breathing with Perfluorocarbons](https://www.cell.com/med/fulltext/S2666-6340(21)00153-7)
+- [MagicBus (YC W16) Is Hiring Front End/Back End/DevOps](https://news.ycombinator.com/item?id=27159629)
+- [Counter-Strike Global Offsets: reliable remote code execution](https://secret.club/2021/05/13/source-engine-rce-join.html)
 - [Ford Wants Billboards to Beam Distracting Ads to Screens Inside Your Car](https://www.vice.com/en/article/n7bnz7/ford-wants-billboards-to-beam-distracting-ads-to-screens-inside-your-car)
+- [Discord Rebranding](https://blog.discord.com/happy-blurpthday-to-discord-a-place-for-everything-you-can-imagine-fc99ee0a77c0)
 - [Cancer has ripple effect on distant tissues](https://source.wustl.edu/2021/05/cancer-has-ripple-effect-on-distant-tissues/)
-- [AmigaOS 3.2](https://www.hyperion-entertainment.com/)
-- [Don't Talk to Corp Dev (2015)](http://www.paulgraham.com/corpdev.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
