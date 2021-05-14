@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rectal Breathing with Perfluorocarbons](https://www.cell.com/med/fulltext/S2666-6340(21)00153-7)
+- [Ford Wants Billboards to Beam Distracting Ads to Screens Inside Your Car](https://www.vice.com/en/article/n7bnz7/ford-wants-billboards-to-beam-distracting-ads-to-screens-inside-your-car)
+- [Cancer has ripple effect on distant tissues](https://source.wustl.edu/2021/05/cancer-has-ripple-effect-on-distant-tissues/)
+- [AmigaOS 3.2](https://www.hyperion-entertainment.com/)
 - [Don't Talk to Corp Dev (2015)](http://www.paulgraham.com/corpdev.html)
-- [An Elegant Sufficiency, or the Curious Case of a Victorian Meme (2018)](https://blogs.bl.uk/sound-and-vision/2018/04/an-elegant-sufficiency-or-the-curious-case-of-a-victorian-meme.html)
-- [Brain-Computer Interface User Types 90 Characters per Minute with Mind](https://www.the-scientist.com/news-opinion/brain-computer-interface-user-types-90-characters-per-minute-with-mind-68762)
-- [Overcoming Tab Overload](https://www.scs.cmu.edu/news/overcoming-tab-overload)
-- [Forth: Stack-Manipulation Operators](https://www.forth.com/starting-forth/2-stack-manipulation-operators-arithmetic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
