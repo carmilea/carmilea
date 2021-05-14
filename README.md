@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don't Talk to Corp Dev (2015)](http://www.paulgraham.com/corpdev.html)
 - [An Elegant Sufficiency, or the Curious Case of a Victorian Meme (2018)](https://blogs.bl.uk/sound-and-vision/2018/04/an-elegant-sufficiency-or-the-curious-case-of-a-victorian-meme.html)
 - [Brain-Computer Interface User Types 90 Characters per Minute with Mind](https://www.the-scientist.com/news-opinion/brain-computer-interface-user-types-90-characters-per-minute-with-mind-68762)
 - [Overcoming Tab Overload](https://www.scs.cmu.edu/news/overcoming-tab-overload)
 - [Forth: Stack-Manipulation Operators](https://www.forth.com/starting-forth/2-stack-manipulation-operators-arithmetic/)
-- [Delaying a Covid vaccine’s second dose boosts immune response](https://www.nature.com/articles/d41586-021-01299-y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
