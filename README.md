@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Elder.js: An Opinionated, SEO Focused, Svelte Framework](https://elderguide.com/tech/elderjs/)
+- [Azar, the Korean Chatroulette-style dating app quietly taking over the world](https://restofworld.org/2021/azar-match-dating-apps/)
 - [Irish health service hit by cyber attack](https://www.bbc.co.uk/news/world-europe-57111615)
 - [Scala 3.0](https://github.com/lampepfl/dotty/releases/tag/3.0.0)
 - [BuildStream (YC S19) Is Hiring](https://www.ycombinator.com/companies/buildstream/jobs/QV84ghp-full-stack-engineer-laravel-bootstrap-js-remote-ok)
-- [A paradigm shift to combat indoor respiratory infection](https://drive.google.com/file/d/1_aMgbcDdvbUv5ehmhMeZ4NlVHzKxIMUC/view)
-- [Tether reserves backed by 2.9% cash](https://www.ft.com/content/529eb4e6-796a-4e81-8064-5967bbe3b4d9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
