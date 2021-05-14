@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AGM: ~"I’ve kept silent on the Apple situation; they broke silence, so will I"](https://twitter.com/antoniogm/status/1393335063480131585)
+- [I Got 22,000 App Downloads in One Weekend with a $0 Budget](https://jerseyfonseca.com/blogs/wewatchgrowth)
 - [Show HN: A Windows 7 web desktop recreation](https://desk.glitchy.website)
 - [Quake3e, a modern Quake III Arena engine](https://github.com/ec-/Quake3e)
 - [MagicBus (YC W16) Is Hiring Front End/Back End/DevOps](https://news.ycombinator.com/item?id=27159629)
-- [Counter-Strike Global Offsets: reliable remote code execution](https://secret.club/2021/05/13/source-engine-rce-join.html)
-- [Ford Wants Billboards to Beam Distracting Ads to Screens Inside Your Car](https://www.vice.com/en/article/n7bnz7/ford-wants-billboards-to-beam-distracting-ads-to-screens-inside-your-car)
 <!-- BLOG-POST-LIST:END -->
 
 ---
