@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elder.js: An Opinionated, SEO Focused, Svelte Framework](https://elderguide.com/tech/elderjs/)
-- [Azar, the Korean Chatroulette-style dating app quietly taking over the world](https://restofworld.org/2021/azar-match-dating-apps/)
-- [Irish health service hit by cyber attack](https://www.bbc.co.uk/news/world-europe-57111615)
-- [Scala 3.0](https://github.com/lampepfl/dotty/releases/tag/3.0.0)
-- [BuildStream (YC S19) Is Hiring](https://www.ycombinator.com/companies/buildstream/jobs/QV84ghp-full-stack-engineer-laravel-bootstrap-js-remote-ok)
+- [I am resigning along with most other Freenode staff](https://p.haavard.me/407)
+- [EV Range Breakthrough as New Aluminum-Ion Battery Charges 60 Times Faster to Lit](https://www.forbes.com/sites/michaeltaylor/2021/05/13/ev-range-breakthrough-as-new-aluminum-ion-battery-charges-60-times-faster-than-lithium-ion/)
+- [Centaur Labs (YC W19) is hiring an ML engineer who will also be Brigham postdoc](https://www.centaurlabs.com/careers/postdoctoral-machine-learning-engineer)
+- [FBI Has Gained Access to Sci-Hub Founder's Apple Account, Email Claims](https://torrentfreak.com/fbi-has-gained-access-to-sci-hub-founders-apple-account-email-claims-210513/)
+- [Rust Weird Expressions](https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
