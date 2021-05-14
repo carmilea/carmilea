@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving to London as a Software Engineer](https://relocate.me/blog/expat-stories/moving-to-the-uk-for-a-tech-job/)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [Lightning-Fast, Open Source Search](https://typesense.org/)
-- [Ask HN: What equipment's/setup do I need to mine Bitcoin at home?](https://news.ycombinator.com/item?id=27154416)
-- [Spencer Silver, inventor who made the Post-it Note stick, dies at 80](https://www.washingtonpost.com/local/obituaries/spencer-silver-dead/2021/05/13/5ad35534-b406-11eb-ab43-bebddc5a0f65_story.html)
-- [Launch HN: Moonshot Brands (YC W21) – We buy and grow e-commerce companies](https://news.ycombinator.com/item?id=27154309)
-- [Sci-Hub Archive](https://www.reddit.com/r/scihub/comments/awlc4s/full_archive/)
+- [Ask HN: What are the best typography talks?](https://news.ycombinator.com/item?id=27154412)
+- [Spencer Silver, inventor behind the Post-it Note, has died](https://www.washingtonpost.com/local/obituaries/spencer-silver-dead/2021/05/13/5ad35534-b406-11eb-ab43-bebddc5a0f65_story.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
