@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The IRS Is Coming for Crypto Investors Who Haven’t Paid Their Taxes](https://www.wsj.com/articles/bitcoin-irs-comes-for-crypto-investors-who-havent-paid-their-taxes-11620937095)
 - [I am resigning along with most other Freenode staff](https://p.haavard.me/407)
 - [EV Range Breakthrough as New Aluminum-Ion Battery Charges 60 Times Faster to Lit](https://www.forbes.com/sites/michaeltaylor/2021/05/13/ev-range-breakthrough-as-new-aluminum-ion-battery-charges-60-times-faster-than-lithium-ion/)
 - [Centaur Labs (YC W19) is hiring an ML engineer who will also be Brigham postdoc](https://www.centaurlabs.com/careers/postdoctoral-machine-learning-engineer)
 - [FBI Has Gained Access to Sci-Hub Founder's Apple Account, Email Claims](https://torrentfreak.com/fbi-has-gained-access-to-sci-hub-founders-apple-account-email-claims-210513/)
-- [Rust Weird Expressions](https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
