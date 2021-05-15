@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Texas Wants to Charge Tesla and Other EV Owners –$400 in Annual Fees](https://cleantechnica.com/2021/05/14/texas-wants-to-charge-tesla-other-ev-owners-400-in-annual-fees-for-owning-an-ev)
+- [No Meaningful Differences in Male and Female Brains, Study Finds](https://www.bloomberg.com/news/newsletters/2021-05-13/no-meaningful-differences-in-male-and-female-brains-study-finds)
+- [Bibliogram: Open-source front-end for Instagram](https://bibliogram.art)
 - [Jitx (YC S18) is hiring to automate circuit board design](https://jobs.lever.co/jitxinc)
 - [Cryptoqueen: A woman scammed the world, then vanished (2019)](https://www.bbc.com/news/stories-50435014)
-- [Six Years of Rust](https://blog.rust-lang.org/2021/05/15/six-years-of-rust.html)
-- [Parsix: Parse Don't Validate](https://github.com/parsix/parsix)
-- [Cox Hotspots with Panoramic Wifi](https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
