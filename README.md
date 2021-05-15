@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chiropractors Are Bullshit](https://theoutline.com/post/1617/chiropractors-are-bullshit)
-- [Design structured diagrams, built to increase your team's trust in your docs](http://u.icepanel.io/74a256c8)
+- [Chiropractors are bullshit](https://theoutline.com/post/1617/chiropractors-are-bullshit)
+- [Design structured diagrams, built to increase your team's trust in your docs](https://icepanel.io/)
+- [Tech audit of Colonial Pipeline found ‘glaring’ problems](https://apnews.com/article/va-state-wire-technology-business-1f06c091c492c1630471d29a9cf6529d)
 - [Tesorio Is Hiring a Principal Data Architect to Join Our Leadership](https://www.tesorio.com/careers#job-openings)
 - [Universal basic income to be tested in Wales](https://www.bbc.co.uk/news/uk-wales-politics-57120354)
-- [Was cancer less likely in a pre-industrial world?](https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
