@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas Wants to Charge Tesla and Other EV Owners –$400 in Annual Fees](https://cleantechnica.com/2021/05/14/texas-wants-to-charge-tesla-other-ev-owners-400-in-annual-fees-for-owning-an-ev)
-- [No Meaningful Differences in Male and Female Brains, Study Finds](https://www.bloomberg.com/news/newsletters/2021-05-13/no-meaningful-differences-in-male-and-female-brains-study-finds)
-- [Bibliogram: Open-source front-end for Instagram](https://bibliogram.art)
-- [Jitx (YC S18) is hiring to automate circuit board design](https://jobs.lever.co/jitxinc)
-- [Cryptoqueen: A woman scammed the world, then vanished (2019)](https://www.bbc.com/news/stories-50435014)
+- [Twitter's subscription service might cost $3 per month](https://www.engadget.com/twitter-blue-subscription-leak-191613918.html)
+- [Commodore’s Assemblers: Part 1: MOS Cross-Assembler](https://www.pagetable.com/?p=1520)
+- [Fasting and the Dangers of Silicon Valley’s Trendy Diets](https://www.theatlantic.com/article/581566/)
+- [Google Says Everything at Stadia Is Fine, as the Water Reaches Their Noses](https://www.kotaku.com.au/2021/05/google-says-everything-at-stadia-is-fine-as-the-water-reaches-their-noses/)
+- [TIL: Tcl-inspired command language on top of D](https://til-lang.github.io/til/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
