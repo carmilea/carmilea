@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What lessons did you learn from your best and worst colleagues?](https://news.ycombinator.com/item?id=27161901)
 - [China Lands Rover on Mars](https://www.bbc.com/news/science-environment-57122914)
 - [In the Search to Stall Aging, Biotech Startups Are Out for Blood](https://www.smithsonianmag.com/innovation/in-search-to-stall-aging-biotech-startups-are-out-for-blood-180977728/)
-- [Tesla Autopilot system was on during fatal California crash, more safety concern](https://www.washingtonpost.com/technology/2021/05/14/tesla-california-autopilot-crash/)
 - [TSMC looks to double down on U.S. chip factories as talks in Europe falter](https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/)
-- [TikTok Remix Culture](https://twitter.com/Iameaschris/status/1391207396979007488)
+- [BlueHydra – Bluetooth device discovery service](https://github.com/pwnieexpress/blue_hydra)
 <!-- BLOG-POST-LIST:END -->
 
 ---
