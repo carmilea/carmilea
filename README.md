@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chiropractors are bullshit](https://theoutline.com/post/1617/chiropractors-are-bullshit)
-- [Design structured diagrams, built to increase your team's trust in your docs](https://icepanel.io/)
-- [Tech audit of Colonial Pipeline found ‘glaring’ problems](https://apnews.com/article/va-state-wire-technology-business-1f06c091c492c1630471d29a9cf6529d)
-- [Tesorio Is Hiring a Principal Data Architect to Join Our Leadership](https://www.tesorio.com/careers#job-openings)
-- [Universal basic income to be tested in Wales](https://www.bbc.co.uk/news/uk-wales-politics-57120354)
+- [Most and Least Affordable Places to Buy a Home](https://priceonomics.com/most-and-least-affordable-places-to-buy-a-home/)
+- [Nim 2.0](https://forum.nim-lang.org/t/7983)
+- [May Update: Connection Established](https://www.pine64.org/2021/05/15/may-update-connection-established/)
+- [Offline-First PWA for Plotly Visualization of CSV via SQLite](https://github.com/lana-k/sqliteviz)
+- [Joe Ligon: America's 'longest juvenile lifer' on 68 years in prison](https://www.bbc.com/news/world-us-canada-57022924)
 <!-- BLOG-POST-LIST:END -->
 
 ---
