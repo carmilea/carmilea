@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio Is Hiring a Principal Data Architect to Join Our Leadership](https://www.tesorio.com/careers#job-openings)
+- [Universal basic income to be tested in Wales](https://www.bbc.co.uk/news/uk-wales-politics-57120354)
 - [Things you can’t do in Rust (and what to do instead)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/)
 - [Java JDK 1.0](https://github.com/ufuu/JDK10)
 - [Getting Started with Org Mode (2016)](https://www.youtube.com/watch?v=SzA2YODtgK4)
-- [Anal oxygen administration may save lives](https://www.economist.com/science-and-technology/2021/05/14/anal-oxygen-administration-may-save-lives)
-- [The Bourne shell lets you set variables in if expressions](https://utcc.utoronto.ca/~cks/space/blog/programming/BourneIfCanSetVars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
