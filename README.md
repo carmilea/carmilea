@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Statement: AP 'horrified' by Israeli attack on its office](https://apnews.com/article/israel-middle-east-business-israel-palestinian-conflict-f595d0ea0a7e21a4e4974ae55e00024d)
+- [Jitx (YC S18) is hiring to automate circuit board design](https://jobs.lever.co/jitxinc)
+- [Facebook’s Secret Rules on Word “Zionist” Impede Criticism of Israel](https://theintercept.com/2021/05/14/facebook-israel-zionist-moderation/)
+- [I was an astrologer – here's how it really works](https://www.theguardian.com/lifeandstyle/2019/nov/06/i-was-an-astrologer-how-it-works-psychics)
+- [Cryptoqueen: A woman scammed the world, then vanished (2019)](https://www.bbc.com/news/stories-50435014)
 - [Six Years of Rust](https://blog.rust-lang.org/2021/05/15/six-years-of-rust.html)
-- [Parsix: Parse Don't Validate](https://github.com/parsix/parsix)
-- [Cox Hotspots with Panoramic Wifi](https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html)
-- [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
