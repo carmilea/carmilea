@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chiropractors Are Bullshit](https://theoutline.com/post/1617/chiropractors-are-bullshit)
+- [Design structured diagrams, built to increase your team's trust in your docs](http://u.icepanel.io/74a256c8)
 - [Tesorio Is Hiring a Principal Data Architect to Join Our Leadership](https://www.tesorio.com/careers#job-openings)
 - [Universal basic income to be tested in Wales](https://www.bbc.co.uk/news/uk-wales-politics-57120354)
-- [Things you can’t do in Rust (and what to do instead)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/)
-- [Java JDK 1.0](https://github.com/ufuu/JDK10)
-- [Getting Started with Org Mode (2016)](https://www.youtube.com/watch?v=SzA2YODtgK4)
+- [Was cancer less likely in a pre-industrial world?](https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
