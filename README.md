@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anal oxygen administration may save lives](https://www.economist.com/science-and-technology/2021/05/14/anal-oxygen-administration-may-save-lives)
 - [Old electric cars are a raw material of the future](https://www.economist.com/science-and-technology/2021/05/13/old-electric-cars-are-a-raw-material-of-the-future)
 - [Our World in Data (YC W19) Is Hiring an Ops Officer in UK](https://www.ycombinator.com/companies/our-world-in-data/jobs/3ksDjfJ-operations-officer)
 - [Create New Stripe Invoice with Invoice.new](http://Invoice.new)
 - [“Bush Hid the Facts”](https://en.wikipedia.org/wiki/Bush_hid_the_facts)
-- [Ask HN: What lessons did you learn from your best or worst colleagues?](https://news.ycombinator.com/item?id=27161901)
 <!-- BLOG-POST-LIST:END -->
 
 ---
