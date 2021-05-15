@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AGM: ~"I’ve kept silent on the Apple situation; they broke silence, so will I"](https://twitter.com/antoniogm/status/1393335063480131585)
-- [I Got 22,000 App Downloads in One Weekend with a $0 Budget](https://jerseyfonseca.com/blogs/wewatchgrowth)
+- [TSMC looks to double down on U.S. chip factories as talks in Europe falter](https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/)
+- [TikTok Remix Culture](https://twitter.com/Iameaschris/status/1391207396979007488)
+- [The Return of Fancy Tools](https://macwright.com/2021/03/16/return-of-fancy-tools.html)
+- [Roden Crater](https://rodencrater.com/)
 - [Show HN: A Windows 7 web desktop recreation](https://desk.glitchy.website)
-- [Quake3e, a modern Quake III Arena engine](https://github.com/ec-/Quake3e)
-- [MagicBus (YC W16) Is Hiring Front End/Back End/DevOps](https://news.ycombinator.com/item?id=27159629)
 <!-- BLOG-POST-LIST:END -->
 
 ---
