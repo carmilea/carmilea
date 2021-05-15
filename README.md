@@ -54,8 +54,8 @@
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [Afghan Pres. Secured His Brother Lucrative Mining Deals w/ US Defense Contractor](https://www.occrp.org/en/investigations/how-afghanistans-president-helped-his-brother-secure-lucrative-mining-deals-with-a-us-contractor)
 - [As a longtime BSD user, I have my doubts about our future](https://www.reddit.com/r/BSD/comments/n1m4he/as_a_longtime_bsd_user_i_have_my_doubts_about_our/)
-- [Twitter's subscription service might cost $3 per month](https://www.engadget.com/twitter-blue-subscription-leak-191613918.html)
 - [Commodore’s Assemblers: Part 1: MOS Cross-Assembler](https://www.pagetable.com/?p=1520)
+- [TIL: Tcl-inspired command language on top of D](https://til-lang.github.io/til/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
