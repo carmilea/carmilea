@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Bush Hid the Facts”](https://en.wikipedia.org/wiki/Bush_hid_the_facts)
 - [Ask HN: What lessons did you learn from your best and worst colleagues?](https://news.ycombinator.com/item?id=27161901)
-- [China Lands Rover on Mars](https://www.bbc.com/news/science-environment-57122914)
+- [China lands rover on Mars](https://www.bbc.com/news/science-environment-57122914)
 - [Coinbase’s successful transition to React Native](https://blog.coinbase.com/announcing-coinbases-successful-transition-to-react-native-af4c591df971)
 - [In the Search to Stall Aging, Biotech Startups Are Out for Blood](https://www.smithsonianmag.com/innovation/in-search-to-stall-aging-biotech-startups-are-out-for-blood-180977728/)
-- [TSMC looks to double down on U.S. chip factories as talks in Europe falter](https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
