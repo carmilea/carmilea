@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Most and Least Affordable Places to Buy a Home](https://priceonomics.com/most-and-least-affordable-places-to-buy-a-home/)
-- [Nim 2.0](https://forum.nim-lang.org/t/7983)
-- [May Update: Connection Established](https://www.pine64.org/2021/05/15/may-update-connection-established/)
-- [Offline-First PWA for Plotly Visualization of CSV via SQLite](https://github.com/lana-k/sqliteviz)
-- [Joe Ligon: America's 'longest juvenile lifer' on 68 years in prison](https://www.bbc.com/news/world-us-canada-57022924)
+- [Statement: AP 'horrified' by Israeli attack on its office](https://apnews.com/article/israel-middle-east-business-israel-palestinian-conflict-f595d0ea0a7e21a4e4974ae55e00024d)
+- [Six Years of Rust](https://blog.rust-lang.org/2021/05/15/six-years-of-rust.html)
+- [Parsix: Parse Don't Validate](https://github.com/parsix/parsix)
+- [Cox Hotspots with Panoramic Wifi](https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html)
+- [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
