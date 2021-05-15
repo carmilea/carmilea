@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Things you can’t do in Rust (and what to do instead)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/)
+- [Java JDK 1.0](https://github.com/ufuu/JDK10)
 - [Getting Started with Org Mode (2016)](https://www.youtube.com/watch?v=SzA2YODtgK4)
 - [Anal oxygen administration may save lives](https://www.economist.com/science-and-technology/2021/05/14/anal-oxygen-administration-may-save-lives)
-- [Old electric cars are a raw material of the future](https://www.economist.com/science-and-technology/2021/05/13/old-electric-cars-are-a-raw-material-of-the-future)
-- [Our World in Data (YC W19) Is Hiring an Ops Officer in UK](https://www.ycombinator.com/companies/our-world-in-data/jobs/3ksDjfJ-operations-officer)
-- [“Bush Hid the Facts”](https://en.wikipedia.org/wiki/Bush_hid_the_facts)
+- [The Bourne shell lets you set variables in if expressions](https://utcc.utoronto.ca/~cks/space/blog/programming/BourneIfCanSetVars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
