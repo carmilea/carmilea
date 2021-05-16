@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Braess's Paradox](https://en.wikipedia.org/wiki/Braess%27s_paradox)
+- [SeaGlass: City-Wide IMSI-Catcher Detection](https://seaglass.cs.washington.edu/)
+- [Ward: Modern Test Framework for Python](https://github.com/darrenburns/ward)
+- [Afternoons are the new rush hour in the suburbs](https://www.wsj.com/articles/afternoons-are-the-new-rush-hour-in-the-suburbs-11621157403)
 - [The Muse (YC W12) Is Hiring a Senior Data Engineer](https://jobs.lever.co/themuse/43458248-0813-4d77-aedc-ce7d1f92a77e?lever-origin=applied&lever-source%5B%5D=YC)
-- [CSS Container Queries in Web Components](https://mxb.dev/blog/container-queries-web-components/)
-- [Suez Canal will be widened by 131 feet to avoid a repeat of the Ever Given chaos](https://www.businessinsider.com/suez-canal-will-be-widened-avoid-repeat-ever-given-blockage-2021-5)
-- [Why introverts make great leaders (2018)](https://thehustle.co/why-introverts-make-great-leaders/)
-- [Audacity: Actions we propose to take on PR 835](https://github.com/audacity/audacity/discussions/889)
 <!-- BLOG-POST-LIST:END -->
 
 ---
