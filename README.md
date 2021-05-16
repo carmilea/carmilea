@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [There have been 7m-13m excess deaths worldwide during the pandemic](https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic)
+- [Apple-Epic Judge Asks Why Offering iOS Users a Choice Is Bad?](https://www.pcmag.com/news/apple-epic-judge-asks-why-offering-consumers-a-choice-is-bad?)
 - [Starting in August, Google will require that they sign apps, not you](https://twitter.com/dbrgn/status/1393331991957880838)
-- [Naked Short Sellers have set our cancer research back decades](https://www.reddit.com/r/Superstonk/comments/ndrjl8/naked_short_sellers_have_set_our_cancer_research/)
+- [PSA on social engineering discord server takeover attacks](https://gist.github.com/linuswillner/d3f3187a5b412ef3785b3a8c2d143f83)
 - [Systemd: The Good Parts](https://christine.website/talks/systemd-the-good-parts-2021-05-16)
-- [An iOS app update that annoys me](https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/)
-- [Coin Carbon Cap – PoW cryptocurrencies ranked by energy efficiency](https://coincarboncap.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
