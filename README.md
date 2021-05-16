@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Audacity (#889): Actions we propose to take on PR #835](https://github.com/audacity/audacity/discussions/889)
 - [GitHub Actions Down](https://news.ycombinator.com/item?id=27172240)
 - [Herdwicks: The sheep that shaped the Lake District](https://www.bbc.co.uk/news/uk-england-cumbria-57015478)
 - [Python Language Summit: PEP 654 – Exception Groups and Except](https://pyfound.blogspot.com/2021/05/the-2021-python-language-summit-pep-654.html)
 - [Verifying Vectorized Rust Revisited](https://project-oak.github.io/rust-verification-tools/2021/05/15/verifying-vectorized-code2.html)
-- [Observing my cellphone switch towers](https://fabiensanglard.net/lte/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
