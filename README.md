@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FDA finds wood pulp in major American parmesan cheese brands](https://time.com/4226321/parmesan-wood-pulp/)
+- [HTML Notepad – HTML WYSIWYG editor for the rest of us](https://html-notepad.com/)
+- [Bitcoin Is as Legitimate as Ice Cream](https://qasimk.io/2021/bitcoin-and-ice-cream/)
+- [The man who didn't invent Flamin' Hot Cheetos](https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1)
 - [Braess's Paradox](https://en.wikipedia.org/wiki/Braess%27s_paradox)
-- [Building a Personal Website in 2021](https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021)
-- [SeaGlass: City-Wide IMSI-Catcher Detection](https://seaglass.cs.washington.edu/)
-- [Ward: Modern Test Framework for Python](https://github.com/darrenburns/ward)
-- [Afternoons are the new rush hour in the suburbs](https://www.wsj.com/articles/afternoons-are-the-new-rush-hour-in-the-suburbs-11621157403)
 <!-- BLOG-POST-LIST:END -->
 
 ---
