@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse (YC W12) Is Hiring a Senior Data Engineer](https://jobs.lever.co/themuse/43458248-0813-4d77-aedc-ce7d1f92a77e?lever-origin=applied&lever-source%5B%5D=YC)
+- [Suez Canal will be widened by 131 feet to avoid a repeat of the Ever Given chaos](https://www.businessinsider.com/suez-canal-will-be-widened-avoid-repeat-ever-given-blockage-2021-5)
+- [Why introverts can be better leaders than extroverts](https://thehustle.co/why-introverts-make-great-leaders/)
 - [Audacity (#889): Actions we propose to take on PR #835](https://github.com/audacity/audacity/discussions/889)
 - [GitHub Actions Down](https://news.ycombinator.com/item?id=27172240)
-- [Herdwicks: The sheep that shaped the Lake District](https://www.bbc.co.uk/news/uk-england-cumbria-57015478)
-- [Python Language Summit: PEP 654 – Exception Groups and Except](https://pyfound.blogspot.com/2021/05/the-2021-python-language-summit-pep-654.html)
-- [Verifying Vectorized Rust Revisited](https://project-oak.github.io/rust-verification-tools/2021/05/15/verifying-vectorized-code2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
