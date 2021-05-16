@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Muse (YC W12) Is Hiring a Senior Data Engineer](https://jobs.lever.co/themuse/43458248-0813-4d77-aedc-ce7d1f92a77e?lever-origin=applied&lever-source%5B%5D=YC)
+- [CSS Container Queries in Web Components](https://mxb.dev/blog/container-queries-web-components/)
 - [Suez Canal will be widened by 131 feet to avoid a repeat of the Ever Given chaos](https://www.businessinsider.com/suez-canal-will-be-widened-avoid-repeat-ever-given-blockage-2021-5)
-- [Why introverts can be better leaders than extroverts](https://thehustle.co/why-introverts-make-great-leaders/)
-- [Audacity (#889): Actions we propose to take on PR #835](https://github.com/audacity/audacity/discussions/889)
-- [GitHub Actions Down](https://news.ycombinator.com/item?id=27172240)
+- [Why introverts make great leaders (2018)](https://thehustle.co/why-introverts-make-great-leaders/)
+- [Audacity: Actions we propose to take on PR 835](https://github.com/audacity/audacity/discussions/889)
 <!-- BLOG-POST-LIST:END -->
 
 ---
