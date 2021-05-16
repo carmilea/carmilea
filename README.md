@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Starting in August, Google will require that they sign apps, not you](https://twitter.com/dbrgn/status/1393331991957880838)
+- [Naked Short Sellers have set our cancer research back decades](https://www.reddit.com/r/Superstonk/comments/ndrjl8/naked_short_sellers_have_set_our_cancer_research/)
 - [Systemd: The Good Parts](https://christine.website/talks/systemd-the-good-parts-2021-05-16)
 - [An iOS app update that annoys me](https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/)
 - [Coin Carbon Cap – PoW cryptocurrencies ranked by energy efficiency](https://coincarboncap.com/)
-- [Missing line in a smart contract leads to $10M hack](https://www.rekt.news/value-rekt2/)
-- [A Field Guide to the Long History of Skyjackings](https://crimereads.com/skyjackings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
