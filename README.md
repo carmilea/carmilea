@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Observing my cellphone switch towers](https://fabiensanglard.net/lte/index.html)
 - [Samsung boosts chip investment to $151 bln as S.Korea offers bigger tax breaks](https://www.reuters.com/technology/samsung-raises-non-memory-chip-investment-target-skorea-announces-bigger-tax-2021-05-13/)
 - [What does the future hold for Windows if it isn't Windows 10x?](https://www.windowscentral.com/whats-does-future-hold-windows-if-it-isnt-windows-10x)
-- [The chip shortage could lead to an era of hardware innovation](https://staceyoniot.com/the-chip-shortage-could-lead-to-an-era-of-hardware-innovation/)
-- [Absolute wealth, relative wealth, taxes, and staying rich](https://summation.net/2021/05/07/absolute-wealth-relative-wealth-taxes-and-staying-rich/)
-- [Extracting Data from Tracking Devices](https://jeffhuang.com/extracting_data_from_tracking_devices/)
+- [Brain size drives differences in yawn duration across mammals and birds](https://www.nature.com/articles/s42003-021-02019-y)
+- [Disguised “AMD PCI Driver” enables executable-specific hacks](https://twitter.com/aionescu/status/1393728057005920263)
 <!-- BLOG-POST-LIST:END -->
 
 ---
