@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Have a Lot to Say About Signal’s Cellebrite Hack](https://cyberlaw.stanford.edu/blog/2021/05/i-have-lot-say-about-signal%E2%80%99s-cellebrite-hack)
+- [eBay Is Banning Hentai and Other Adult Content](https://www.vice.com/en/article/7kvb7z/ebay-is-banning-hentai-and-other-adult-content)
+- [Peak non-creepy dating pool](https://flowingdata.com/projects/2018/dating-pool/)
+- [I have a lot to say about Signal’s Cellebrite hack](https://cyberlaw.stanford.edu/blog/2021/05/i-have-lot-say-about-signal%E2%80%99s-cellebrite-hack)
 - [Waymo AV Freaked Out by Traffic Cones, Blocks Traffic, Evades Support Vehicles](https://jalopnik.com/watch-a-waymo-av-get-freaked-out-by-traffic-cones-bloc-1846897182)
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Commodore’s Assemblers: Part 1: MOS Cross-Assembler](https://www.pagetable.com/?p=1520)
-- [TIL: Tcl-inspired command language on top of D](https://til-lang.github.io/til/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
