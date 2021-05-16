@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Systemd: The Good Parts](https://christine.website/talks/systemd-the-good-parts-2021-05-16)
 - [Bette Graham, inventor and founder of Liquid Paper](https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/)
-- [Hyperscript is an experimental scripting language designed for the web](https://hyperscript.org)
 - [CoinTracker (YC W18) is hiring people passionate about cryptocurrency](https://www.cointracker.io/careers)
-- [Washington State Removes All Barriers to Municipal Broadband](https://ilsr.org/washington-state-removes-all-barriers-to-municipal-broadband/)
+- [Washington state removes all barriers to municipal broadband](https://ilsr.org/washington-state-removes-all-barriers-to-municipal-broadband/)
 - [How to setup a Handshake site with Caddy](https://blog.webb.page/2021-05-15-secure-handshake-and-caddy.txt)
 <!-- BLOG-POST-LIST:END -->
 
