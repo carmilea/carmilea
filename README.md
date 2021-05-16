@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The New 3D Apple Arriving at WWDC](https://scobleizer.blog/2021/05/15/the-new-3d-apple-arriving-at-wwdc/)
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [Commodore’s Assemblers: Part 1: MOS Cross-Assembler](https://www.pagetable.com/?p=1520)
 - [TIL: Tcl-inspired command language on top of D](https://til-lang.github.io/til/)
 - [Show HN: Bibliogram – Open-source front-end for Instagram](https://bibliogram.art)
+- [The True Size of Africa (2015)](http://kai.sub.blue/en/africa.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
