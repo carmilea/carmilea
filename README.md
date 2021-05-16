@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [eBay Is Banning Hentai and Other Adult Content](https://www.vice.com/en/article/7kvb7z/ebay-is-banning-hentai-and-other-adult-content)
+- [SF schools ‘re-open’ for just 1 day so the district can get $12M in funding](https://californianewstimes.com/san-francisco-schools-re-open-for-just-one-day-so-the-district-can-get-12million-in-funding/329894/)
+- [Absolute wealth, relative wealth, taxes, and staying rich](https://summation.net/2021/05/07/absolute-wealth-relative-wealth-taxes-and-staying-rich/)
+- [Show HN: ThingsTwin – 3D House Plan Based UI for Smart Home](http://thingstwin.com/)
 - [Peak non-creepy dating pool](https://flowingdata.com/projects/2018/dating-pool/)
 - [I have a lot to say about Signal’s Cellebrite hack](https://cyberlaw.stanford.edu/blog/2021/05/i-have-lot-say-about-signal%E2%80%99s-cellebrite-hack)
-- [Waymo AV Freaked Out by Traffic Cones, Blocks Traffic, Evades Support Vehicles](https://jalopnik.com/watch-a-waymo-av-get-freaked-out-by-traffic-cones-bloc-1846897182)
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
