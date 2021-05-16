@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Systemd: The Good Parts](https://christine.website/talks/systemd-the-good-parts-2021-05-16)
-- [Bette Graham, inventor and founder of Liquid Paper](https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/)
-- [CoinTracker (YC W18) is hiring people passionate about cryptocurrency](https://www.cointracker.io/careers)
-- [Washington state removes all barriers to municipal broadband](https://ilsr.org/washington-state-removes-all-barriers-to-municipal-broadband/)
-- [How to setup a Handshake site with Caddy](https://blog.webb.page/2021-05-15-secure-handshake-and-caddy.txt)
+- [An iOS app update that annoys me](https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/)
+- [Coin Carbon Cap – PoW cryptocurrencies ranked by energy efficiency](https://coincarboncap.com/)
+- [Missing line in a smart contract leads to $10M hack](https://www.rekt.news/value-rekt2/)
+- [A Field Guide to the Long History of Skyjackings](https://crimereads.com/skyjackings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
