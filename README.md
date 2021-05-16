@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SF schools ‘re-open’ for just 1 day so the district can get $12M in funding](https://californianewstimes.com/san-francisco-schools-re-open-for-just-one-day-so-the-district-can-get-12million-in-funding/329894/)
+- [The chip shortage could lead to an era of hardware innovation](https://staceyoniot.com/the-chip-shortage-could-lead-to-an-era-of-hardware-innovation/)
 - [Absolute wealth, relative wealth, taxes, and staying rich](https://summation.net/2021/05/07/absolute-wealth-relative-wealth-taxes-and-staying-rich/)
+- [Extracting Data from Tracking Devices](https://jeffhuang.com/extracting_data_from_tracking_devices/)
 - [Show HN: ThingsTwin – 3D House Plan Based UI for Smart Home](http://thingstwin.com/)
 - [Peak non-creepy dating pool](https://flowingdata.com/projects/2018/dating-pool/)
-- [I have a lot to say about Signal’s Cellebrite hack](https://cyberlaw.stanford.edu/blog/2021/05/i-have-lot-say-about-signal%E2%80%99s-cellebrite-hack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
