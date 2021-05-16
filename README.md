@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Have a Lot to Say About Signal’s Cellebrite Hack](https://cyberlaw.stanford.edu/blog/2021/05/i-have-lot-say-about-signal%E2%80%99s-cellebrite-hack)
+- [Waymo AV Freaked Out by Traffic Cones, Blocks Traffic, Evades Support Vehicles](https://jalopnik.com/watch-a-waymo-av-get-freaked-out-by-traffic-cones-bloc-1846897182)
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [Commodore’s Assemblers: Part 1: MOS Cross-Assembler](https://www.pagetable.com/?p=1520)
 - [TIL: Tcl-inspired command language on top of D](https://til-lang.github.io/til/)
-- [Show HN: Bibliogram – Open-source front-end for Instagram](https://bibliogram.art)
-- [The True Size of Africa (2015)](http://kai.sub.blue/en/africa.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
