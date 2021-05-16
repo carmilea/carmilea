@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FDA finds wood pulp in major American parmesan cheese brands](https://time.com/4226321/parmesan-wood-pulp/)
+- [Hyperscript is an experimental scripting language designed for the web](https://hyperscript.org)
+- [CoinTracker (YC W18) is hiring people passionate about cryptocurrency](https://www.cointracker.io/careers)
+- [Washington State Removes All Barriers to Municipal Broadband](https://ilsr.org/washington-state-removes-all-barriers-to-municipal-broadband/)
+- [How to setup a Handshake site with Caddy](https://blog.webb.page/2021-05-15-secure-handshake-and-caddy.txt)
 - [HTML Notepad – HTML WYSIWYG editor for the rest of us](https://html-notepad.com/)
-- [Bitcoin Is as Legitimate as Ice Cream](https://qasimk.io/2021/bitcoin-and-ice-cream/)
-- [The man who didn't invent Flamin' Hot Cheetos](https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1)
-- [Braess's Paradox](https://en.wikipedia.org/wiki/Braess%27s_paradox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
