@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can I get some reasons to use Java instead of Kotlin?](https://www.reddit.com/r/java/comments/ndwz92/can_i_get_some_reasons_to_use_java_instead_of/gyd5yi5/)
 - [Our vendor executed a system reboot that caused a shut down of the turnstiles](https://twitter.com/nyctsubway/status/1394258614475497475)
 - [Apple Music Announces Spatial Audio and Lossless Audio](https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/)
 - [Amazon's Sidewalk Network Is Turned on by Default. Here's How to Turn It Off](https://www.inc.com/jason-aten/amazons-sidewalk-network-is-turned-on-by-default-heres-how-to-turn-it-off.html)
 - [Company Lets Celebrities Digitally Clone Their Voice So They Can Loan It Out](https://www.pcmag.com/news/company-lets-celebrities-digitally-clone-their-voice-so-they-can-loan-it)
-- [Launch HN: Mozart Data (YC S20) – One-stop shop for a modern data pipeline](https://news.ycombinator.com/item?id=27182720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
