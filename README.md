@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Investigated Bill Gates Before He Left the Board (Report)](https://www.hollywoodreporter.com/business/digital/bill-gates-affair-microsoft-nvestigation-1234954148/)
+- [Algolia (YC W14) Is Hiring a Developer Relations Engineer](https://www.algolia.com/careers/developer-relations-engineer-atlanta-new-york-san-francisco-remote)
+- [How M1 Macs feel faster than Intel models: it’s about QoS](https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/)
+- [Dark Side of Posix APIs](https://vorner.github.io/2021/01/03/dark-side-of-posix-apis.html)
 - [The PGP Problem: A Critique (2020)](https://articles.59.ca/doku.php?id=pgpfan:tpp)
-- [Show HN: TinyStore - A minimal store for your Shopify Lite plan](https://tinystore.app)
-- [Feeling like a pariah (even when you’re not)](https://statmodeling.stat.columbia.edu/2021/05/16/feeling-like-a-pariah-even-when-youre-not/)
-- [AI Mid 2021: Self Driving Car Meets Reality](https://blog.piekniewski.info/2021/05/12/ai-mid-2021/)
+- [Let's Encrypt – DST Root CA X3 Expiration (September 2021)](https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
