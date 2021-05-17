@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Algolia (YC W14) Is Hiring a Developer Relations Engineer](https://www.algolia.com/careers/developer-relations-engineer-atlanta-new-york-san-francisco-remote)
-- [How M1 Macs feel faster than Intel models: it’s about QoS](https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/)
-- [Dark Side of Posix APIs](https://vorner.github.io/2021/01/03/dark-side-of-posix-apis.html)
-- [The PGP Problem: A Critique (2020)](https://articles.59.ca/doku.php?id=pgpfan:tpp)
-- [Let's Encrypt – DST Root CA X3 Expiration (September 2021)](https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/)
+- [Our vendor executed a system reboot that caused a shut down of the turnstiles](https://twitter.com/nyctsubway/status/1394258614475497475)
+- [Apple Music Announces Spatial Audio and Lossless Audio](https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/)
+- [Amazon's Sidewalk Network Is Turned on by Default. Here's How to Turn It Off](https://www.inc.com/jason-aten/amazons-sidewalk-network-is-turned-on-by-default-heres-how-to-turn-it-off.html)
+- [Company Lets Celebrities Digitally Clone Their Voice So They Can Loan It Out](https://www.pcmag.com/news/company-lets-celebrities-digitally-clone-their-voice-so-they-can-loan-it)
+- [Launch HN: Mozart Data (YC S20) – One-stop shop for a modern data pipeline](https://news.ycombinator.com/item?id=27182720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
