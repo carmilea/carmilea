@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China has landed its first rover on Mars – here’s what happens next](https://www.nature.com/articles/d41586-021-01301-7)
+- [China increases spending 500% to influence America](https://www.axios.com/china-foreign-influence-spending-317a9be4-8ead-4abf-8ac4-3f27974d7a9d.html)
+- [ReadMe (YC W15) Is Hiring a Head of Product Management with API Experience](https://readme.com/careers#head-of-product-management)
+- [The World Economy Is Suddenly Running Low on Everything](https://www.bloomberg.com/news/articles/2021-05-17/inflation-rate-2021-and-shortages-companies-panic-buying-as-supplies-run-short)
+- [Way to Deal with a Micromanaging Boss](http://misc-stuff.terraaeon.com/articles/micromanaging-bosses.html)
 - [Drone Racing League Creates End-to-End Cloud Production](https://www.sportsvideo.org/2021/01/29/pivoting-to-virtual-races-drone-racing-league-creates-end-to-end-cloud-production/)
-- [Ghosts of Unix past, part 3: Unfixable designs (2010)](https://lwn.net/Articles/414618/)
-- [Try This One Weird Trick Russian Hackers Hate](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
-- [US investigates second suspected case of mystery 'syndrome' near White House](https://www.cnn.com/2021/05/17/politics/us-investigates-second-case-mystery-syndrome-white-house/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
