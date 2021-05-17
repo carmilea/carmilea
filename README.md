@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Geocode-sqlite: Geocode rows in an SQLite database table](https://github.com/eyeseast/geocode-sqlite)
+- [Amazon had keys to USPS mailbox used for union ballots](https://www.aljazeera.com/economy/2021/5/14/amazon-had-keys-to-usps-mailbox-used-for-union-ballots-report)
+- [UFOs regularly spotted in US airspace, report on the phenomena due next month](https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/)
 - [You Can’t Sacrifice Partition Tolerance (2010)](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
-- [CEO Behind 5,500% Stock Gain Says His Secret Is Raising Salaries](https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries)
-- [Federal Gov. left ‘completely blind’ on cyberattacks looks to force reporting](https://www.politico.com/news/2021/05/15/congress-colonial-pipeline-disclosure-488406)
-- [A Former CIA Chief of Disguise Shows Off a Five-Second Mask](https://www.atlasobscura.com/videos/cia-chief-of-disguise-hollywood-mask)
-- [The Achilles Heel of the Coronavirus](https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html)
+- [CEO behind Japan’s best-performing stock says his secret is raising salaries](https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries)
 <!-- BLOG-POST-LIST:END -->
 
 ---
