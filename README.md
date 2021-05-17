@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The “Marketing Is Evil” Problem](https://sparktoro.com/blog/the-marketing-is-evil-problem/)
-- [Developers Who Use Spaces Make More Money Than Those Who Use Tabs (2017)](https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/)
+- [Show HN: TinyStore - A minimal store for your Shopify Lite plan](https://tinystore.app)
+- [Feeling like a pariah (even when you’re not)](https://statmodeling.stat.columbia.edu/2021/05/16/feeling-like-a-pariah-even-when-youre-not/)
+- [AI Mid 2021: Self Driving Car Meets Reality](https://blog.piekniewski.info/2021/05/12/ai-mid-2021/)
+- [The app that lets you pay to control another person's life](https://www.bbc.com/news/business-57085557)
 - [Jolie, the service-oriented programming language](https://www.jolie-lang.org/)
-- [Working over 55 hours a week associated with higher risk of stroke, heart attack](https://www.bbc.co.uk/news/business-57139434)
-- [A Pixel Purse LED Cube Controlled by a Cisco 3G Modem](https://tomverbeure.github.io/2021/05/16/Pixel-Purse-LED-Cube.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
