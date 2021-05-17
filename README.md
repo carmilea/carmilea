@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bonkers Tri-Wing Jumbo Jet Concept Reduces Fuel Consumption by 70%](https://robbreport.com/motors/aviation/se-aeronautic-se200-tri-wing-jumbo-jet-concept-1234613101/)
+- [SEC Charges S&P Dow Jones for “feature” turned bug](https://www.sec.gov/news/press-release/2021-84)
+- [Why Is the Gaza Strip Blurry on Google Maps?](https://www.bbc.com/news/57102499)
 - [Michael Burry of ‘The Big Short’ reveals a $530M bet against Tesla](https://www.cnbc.com/2021/05/17/michael-burry-of-the-big-short-reveals-a-530-million-bet-against-tesla.html)
 - [The Police Dog Who Cried Drugs at Every Traffic Stop](https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/)
-- [Why do database columns have a character length of 191?](https://www.grouparoo.com/blog/varchar-191)
-- [Can Machines Control Our Brains?](https://www.quantamagazine.org/how-brain-computer-interface-technology-is-different-from-mind-control-20210517/)
-- [uxn: a portable 8-bit virtual computer](https://100r.co/site/uxn.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
