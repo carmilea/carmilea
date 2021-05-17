@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal (YC S11) Is Hiring Engineers in California, New York, Texas, & the UK](https://onesignal.com/careers)
+- [Legalese – Computational Law](https://legalese.com/)
+- [A long-lasting, stable solid-state lithium battery](https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery)
 - [Caltech Professor Helps Solve Hindenburg Disaster](https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster)
 - [Recovering “lost” treasure-filled floppy discs with an oscilloscope](https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html)
-- [Evolving beyond 100B recommendations a day at Reddit](https://www.reddit.com/r/RedditEng/comments/neknjg/evolving_beyond_100_billion_recommendations_a_day/)
-- [Bonkers Tri-Wing Jumbo Jet Concept Reduces Fuel Consumption by 70%](https://robbreport.com/motors/aviation/se-aeronautic-se200-tri-wing-jumbo-jet-concept-1234613101/)
-- [SEC Charges S&P Dow Jones for “feature” turned bug](https://www.sec.gov/news/press-release/2021-84)
 <!-- BLOG-POST-LIST:END -->
 
 ---
