@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Positions chess engines don't understand](https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand)
+- [First nuclear detonation created ‘impossible’ quasicrystals](https://www.nature.com/articles/d41586-021-01332-0)
+- [JupyterLab LaTeX – live-editing of LaTeX documents in JupyterLab](https://github.com/jupyterlab/jupyterlab-latex)
 - [OneSignal (YC S11) Is Hiring Engineers in California, New York, Texas, & the UK](https://onesignal.com/careers)
-- [Legalese – Computational Law](https://legalese.com/)
-- [A long-lasting, stable solid-state lithium battery](https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery)
-- [Caltech Professor Helps Solve Hindenburg Disaster](https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster)
-- [Recovering “lost” treasure-filled floppy discs with an oscilloscope](https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html)
+- [Horseshoe crab blood: miracle vaccine ingredient that's saved millions of lives](https://www.nhm.ac.uk/discover/horseshoe-crab-blood-miracle-vaccine-ingredient.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
