@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Long Before Divorce, Bill Gates Had Reputation for Questionable Behavior](https://www.nytimes.com/2021/05/16/business/bill-melinda-gates-divorce-epstein.html)
+- [You Can’t Sacrifice Partition Tolerance (2010)](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
 - [CEO Behind 5,500% Stock Gain Says His Secret Is Raising Salaries](https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries)
-- [Microsoft Decided Bill Gates Needed to Leave Board Due to Staff Relationship](https://www.wsj.com/articles/microsoft-directors-decided-bill-gates-needed-to-leave-board-due-to-prior-relationship-with-staffer-11621205803)
+- [Federal Gov. left ‘completely blind’ on cyberattacks looks to force reporting](https://www.politico.com/news/2021/05/15/congress-colonial-pipeline-disclosure-488406)
+- [A Former CIA Chief of Disguise Shows Off a Five-Second Mask](https://www.atlasobscura.com/videos/cia-chief-of-disguise-hollywood-mask)
 - [The Achilles Heel of the Coronavirus](https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html)
-- [Busy Being Born (2004)](https://www.folklore.org/StoryView.py?project=Macintosh&story=Busy_Being_Born.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
