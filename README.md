@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Investigated Bill Gates Before He Left the Board (Report)](https://www.hollywoodreporter.com/business/digital/bill-gates-affair-microsoft-nvestigation-1234954148/)
+- [The PGP Problem: A Critique (2020)](https://articles.59.ca/doku.php?id=pgpfan:tpp)
 - [Show HN: TinyStore - A minimal store for your Shopify Lite plan](https://tinystore.app)
 - [Feeling like a pariah (even when you’re not)](https://statmodeling.stat.columbia.edu/2021/05/16/feeling-like-a-pariah-even-when-youre-not/)
 - [AI Mid 2021: Self Driving Car Meets Reality](https://blog.piekniewski.info/2021/05/12/ai-mid-2021/)
-- [The app that lets you pay to control another person's life](https://www.bbc.com/news/business-57085557)
-- [Jolie, the service-oriented programming language](https://www.jolie-lang.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
