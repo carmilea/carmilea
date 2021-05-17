@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brood X cicadas, which come out ever 17 years, come out in the Eastern U.S.](https://www.nps.gov/articles/000/cicadas-brood-x.htm)
+- [Can't Unsee](https://cantunsee.space/)
 - [Positions chess engines don't understand](https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand)
 - [First nuclear detonation created ‘impossible’ quasicrystals](https://www.nature.com/articles/d41586-021-01332-0)
-- [JupyterLab LaTeX – live-editing of LaTeX documents in JupyterLab](https://github.com/jupyterlab/jupyterlab-latex)
-- [OneSignal (YC S11) Is Hiring Engineers in California, New York, Texas, & the UK](https://onesignal.com/careers)
-- [Horseshoe crab blood: miracle vaccine ingredient that's saved millions of lives](https://www.nhm.ac.uk/discover/horseshoe-crab-blood-miracle-vaccine-ingredient.html)
+- [Hot Chips 33: Alder Lake, Sapphire Rapids, Zen 3, Next-Gen Z, Neoverse N2](https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
