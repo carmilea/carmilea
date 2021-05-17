@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The “Marketing Is Evil” Problem](https://sparktoro.com/blog/the-marketing-is-evil-problem/)
 - [Developers Who Use Spaces Make More Money Than Those Who Use Tabs (2017)](https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/)
+- [Jolie, the service-oriented programming language](https://www.jolie-lang.org/)
 - [Working over 55 hours a week associated with higher risk of stroke, heart attack](https://www.bbc.co.uk/news/business-57139434)
 - [A Pixel Purse LED Cube Controlled by a Cisco 3G Modem](https://tomverbeure.github.io/2021/05/16/Pixel-Purse-LED-Cube.html)
-- [The ClickHouse Community](https://clickhouse.tech/blog/en/2020/the-clickhouse-community/)
-- [Plotting the source code “TODO” history of the most popular open source projects](https://schleiss.io/plotting-source-code-todos-for-open-source-projects)
 <!-- BLOG-POST-LIST:END -->
 
 ---
