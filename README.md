@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Caltech Professor Helps Solve Hindenburg Disaster](https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster)
+- [Recovering “lost” treasure-filled floppy discs with an oscilloscope](https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html)
+- [Evolving beyond 100B recommendations a day at Reddit](https://www.reddit.com/r/RedditEng/comments/neknjg/evolving_beyond_100_billion_recommendations_a_day/)
 - [Bonkers Tri-Wing Jumbo Jet Concept Reduces Fuel Consumption by 70%](https://robbreport.com/motors/aviation/se-aeronautic-se200-tri-wing-jumbo-jet-concept-1234613101/)
 - [SEC Charges S&P Dow Jones for “feature” turned bug](https://www.sec.gov/news/press-release/2021-84)
-- [Why Is the Gaza Strip Blurry on Google Maps?](https://www.bbc.com/news/57102499)
-- [Michael Burry of ‘The Big Short’ reveals a $530M bet against Tesla](https://www.cnbc.com/2021/05/17/michael-burry-of-the-big-short-reveals-a-530-million-bet-against-tesla.html)
-- [The Police Dog Who Cried Drugs at Every Traffic Stop](https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
