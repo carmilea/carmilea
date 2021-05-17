@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Pixel Purse LED Cube Controlled by a Cisco 3G Modem](https://tomverbeure.github.io/2021/05/16/Pixel-Purse-LED-Cube.html)
+- [The ClickHouse Community](https://clickhouse.tech/blog/en/2020/the-clickhouse-community/)
+- [Tetris for Game Boy Gets Online Multiplayer](https://hackaday.com/2021/05/10/tetris-for-game-boy-gets-online-multiplayer/)
+- [Working from Home for Some Threatens Mass Transit for All](https://www.bloomberg.com/news/features/2021-05-12/working-from-home-has-fewer-commuters-on-buses-and-trains)
 - [Cosmopolitan Libc v1.0 Released](https://github.com/jart/cosmopolitan/releases/tag/1.0)
-- [Geocode-sqlite: Geocode rows in an SQLite database table](https://github.com/eyeseast/geocode-sqlite)
-- [Show HN: Free open-source isolated browser for security](https://github.com/i5ik/ViewFinderJS)
-- [Which hypercube unfoldings tile space?](https://whuts.org/)
-- [You Can’t Sacrifice Partition Tolerance (2010)](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
