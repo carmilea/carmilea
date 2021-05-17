@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Is curing patients a sustainable business model?” asks Goldman Sachs (2018)](https://arstechnica.com/tech-policy/2018/04/curing-disease-not-a-sustainable-business-model-goldman-sachs-analysts-say/)
+- [China has landed its first rover on Mars – here’s what happens next](https://www.nature.com/articles/d41586-021-01301-7)
 - [Drone Racing League Creates End-to-End Cloud Production](https://www.sportsvideo.org/2021/01/29/pivoting-to-virtual-races-drone-racing-league-creates-end-to-end-cloud-production/)
-- [Ghosts of Unix past, part 3: Unfixable designs](https://lwn.net/Articles/414618/)
+- [Ghosts of Unix past, part 3: Unfixable designs (2010)](https://lwn.net/Articles/414618/)
 - [Try This One Weird Trick Russian Hackers Hate](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
 - [US investigates second suspected case of mystery 'syndrome' near White House](https://www.cnn.com/2021/05/17/politics/us-investigates-second-case-mystery-syndrome-white-house/index.html)
 <!-- BLOG-POST-LIST:END -->
