@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can I get some reasons to use Java instead of Kotlin?](https://www.reddit.com/r/java/comments/ndwz92/can_i_get_some_reasons_to_use_java_instead_of/gyd5yi5/)
-- [Our vendor executed a system reboot that caused a shut down of the turnstiles](https://twitter.com/nyctsubway/status/1394258614475497475)
-- [Apple Music Announces Spatial Audio and Lossless Audio](https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/)
-- [Amazon's Sidewalk Network Is Turned on by Default. Here's How to Turn It Off](https://www.inc.com/jason-aten/amazons-sidewalk-network-is-turned-on-by-default-heres-how-to-turn-it-off.html)
-- [Company Lets Celebrities Digitally Clone Their Voice So They Can Loan It Out](https://www.pcmag.com/news/company-lets-celebrities-digitally-clone-their-voice-so-they-can-loan-it)
+- [“Is curing patients a sustainable business model?” asks Goldman Sachs (2018)](https://arstechnica.com/tech-policy/2018/04/curing-disease-not-a-sustainable-business-model-goldman-sachs-analysts-say/)
+- [Drone Racing League Creates End-to-End Cloud Production](https://www.sportsvideo.org/2021/01/29/pivoting-to-virtual-races-drone-racing-league-creates-end-to-end-cloud-production/)
+- [Ghosts of Unix past, part 3: Unfixable designs](https://lwn.net/Articles/414618/)
+- [Try This One Weird Trick Russian Hackers Hate](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
+- [US investigates second suspected case of mystery 'syndrome' near White House](https://www.cnn.com/2021/05/17/politics/us-investigates-second-case-mystery-syndrome-white-house/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
