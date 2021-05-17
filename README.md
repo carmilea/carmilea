@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmopolitan Libc v1.0 Released](https://github.com/jart/cosmopolitan/releases/tag/1.0)
 - [Geocode-sqlite: Geocode rows in an SQLite database table](https://github.com/eyeseast/geocode-sqlite)
-- [Amazon had keys to USPS mailbox used for union ballots](https://www.aljazeera.com/economy/2021/5/14/amazon-had-keys-to-usps-mailbox-used-for-union-ballots-report)
-- [UFOs regularly spotted in US airspace, report on the phenomena due next month](https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/)
+- [Show HN: Free open-source isolated browser for security](https://github.com/i5ik/ViewFinderJS)
+- [Which hypercube unfoldings tile space?](https://whuts.org/)
 - [You Can’t Sacrifice Partition Tolerance (2010)](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
-- [CEO behind Japan’s best-performing stock says his secret is raising salaries](https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries)
 <!-- BLOG-POST-LIST:END -->
 
 ---
