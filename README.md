@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There have been 7m-13m excess deaths worldwide during the pandemic](https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic)
-- [Show HN: Stream-unzip – stream unZIP files in Python](https://github.com/uktrade/stream-unzip)
-- [Apple-Epic Judge Asks Why Offering iOS Users a Choice Is Bad?](https://www.pcmag.com/news/apple-epic-judge-asks-why-offering-consumers-a-choice-is-bad?)
-- [City to pay $350K to settle blog lawsuit, take back criminal hacking accusations](https://ktla.com/news/local-news/fullerton-to-pay-350k-to-settle-lawsuit-against-bloggers-take-back-criminal-hacking-accusations/)
-- [Starting in August, Google will require that they sign apps, not you](https://twitter.com/dbrgn/status/1393331991957880838)
+- [Long Before Divorce, Bill Gates Had Reputation for Questionable Behavior](https://www.nytimes.com/2021/05/16/business/bill-melinda-gates-divorce-epstein.html)
+- [CEO Behind 5,500% Stock Gain Says His Secret Is Raising Salaries](https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries)
+- [Microsoft Decided Bill Gates Needed to Leave Board Due to Staff Relationship](https://www.wsj.com/articles/microsoft-directors-decided-bill-gates-needed-to-leave-board-due-to-prior-relationship-with-staffer-11621205803)
+- [The Achilles Heel of the Coronavirus](https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html)
+- [Busy Being Born (2004)](https://www.folklore.org/StoryView.py?project=Macintosh&story=Busy_Being_Born.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
