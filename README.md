@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Get started with #SingleStore in #Python](https://www.youtube.com/watch?v=-fyNanOP3Lw)
 - [#DataWarehouse #Augmentation](https://www.youtube.com/watch?v=LGKzt6tvNU0)
 - [#DeepDive into #SingleStore's #DistributedArchitecture](https://www.youtube.com/watch?v=FgNWb9Wkxf8)
 - [Get started with #SingleStore #StoredProcedures in #Java and #JDBC](https://www.youtube.com/watch?v=6coWxZFMJCQ)
 - [Get started with #SingleStore in #Java](https://www.youtube.com/watch?v=5lrChcV7-Ac)
-- [#SingleStore #Query #Optimization and #Tuning](https://www.youtube.com/watch?v=MDT_3uI3KBg)
 <!-- YOUTUBE:END -->
 
 
