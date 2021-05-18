@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Man Against Marketing](https://johnhellion.substack.com/p/man-against-marketing)
+- [Open source retro ISA video card](https://github.com/schlae/graphics-gremlin)
 - [Uber used 50 Dutch shell companies to dodge taxes](https://www.businessinsider.com/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5)
 - [Nearly 200K Medical Records of US Military Veterans Leaked](https://securethoughts.com/us-military-veterans-medical-data-leakage/)
 - [Rock formation Darwin's Arch on the Galapagos Islands has collapsed](https://www.bbc.com/news/world-latin-america-57153267)
-- [Zeus Is Hiring a Growth Marketing Manager to Build the Future of FlexLiving](https://news.ycombinator.com/item?id=27191940)
-- [Chart: Renewable Energy Boomed in 2020](https://www.statista.com/chart/24856/net-global-renewable-capacity-additions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
