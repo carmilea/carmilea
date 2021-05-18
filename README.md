@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California Tries to “Cancel Math Class”](https://www.wsj.com/articles/california-leftists-try-to-cancel-math-class-11621355858)
+- [Nvidia cripples cryptocurrency mining on RTX 3080 and 3070 cards](https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/)
+- [The tools and tech I use to run a one-woman hardware company – Thea Flowers](https://blog.thea.codes/winterblooms-tech-stack/)
 - [The overfitted brain: Dreams evolved to assist generalization](https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7)
 - [Unveiling our new Quantum AI campus](https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/)
-- [Launch HN: Thryft (YC W21) – Shopify for Instagram Sellers](https://news.ycombinator.com/item?id=27198319)
-- [Google I/O 2021](https://events.google.com/io/?lng=en)
-- [Boosting Dropbox upload speed and improving Windows' TCP stack](https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
