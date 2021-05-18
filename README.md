@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The overfitted brain: Dreams evolved to assist generalization](https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7)
+- [Unveiling our new Quantum AI campus](https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/)
 - [Launch HN: Thryft (YC W21) – Shopify for Instagram Sellers](https://news.ycombinator.com/item?id=27198319)
-- [LaMDA: Google's New Conversation Technology](https://blog.google/technology/ai/lamda/)
+- [Google I/O 2021](https://events.google.com/io/?lng=en)
 - [Boosting Dropbox upload speed and improving Windows' TCP stack](https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed)
-- [Flat Data](https://octo.github.com/projects/flat-data)
-- [60 years later, is it time to update the Drake equation?](https://phys.org/news/2021-05-years-drake-equation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
