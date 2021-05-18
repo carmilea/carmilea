@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Sirum is hiring engineers for the micro-fulfillment of medicine](https://news.ycombinator.com/item?id=27201040)
-- [100 Largest Landowners in America](https://landreport.com/americas-100-largest-landowners/)
+- [Chad Strings – The Chad way to handle strings in C](https://github.com/skullchap/chadstr)
+- [The Matrix Space Beta](https://matrix.org/blog/2021/05/17/the-matrix-space-beta)
 - [The data model behind Notion's flexibility](https://www.notion.so/blog/data-model-behind-notion)
 - [Nvidia cripples cryptocurrency mining on RTX 3080 and 3070 cards](https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/)
-- [Project Starline: Feel like you're there, together](https://blog.google/technology/research/project-starline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
