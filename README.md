@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber used 50 Dutch shell companies to dodge taxes](https://www.businessinsider.com/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5)
+- [Nearly 200K Medical Records of US Military Veterans Leaked](https://securethoughts.com/us-military-veterans-medical-data-leakage/)
+- [Rock formation Darwin's Arch on the Galapagos Islands has collapsed](https://www.bbc.com/news/world-latin-america-57153267)
 - [Zeus Is Hiring a Growth Marketing Manager to Build the Future of FlexLiving](https://news.ycombinator.com/item?id=27191940)
 - [Chart: Renewable Energy Boomed in 2020](https://www.statista.com/chart/24856/net-global-renewable-capacity-additions/)
-- [Terms and Conditions Game](https://termsandconditions.game/)
-- [The Colonial Pipeline Was Fine, Shutdown to Make Sure Its Owner Would Get Paid](https://jalopnik.com/the-colonial-pipeline-was-fine-but-it-was-shutdown-to-1846911689)
-- [Breakthrough in deciphering Minoan Linear A script](https://greekreporter.com/2021/05/13/minoan-language-linear-a-linked-to-linear-b-in-groundbreaking-new-research/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
