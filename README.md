@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Calls Links to Depression Inconclusive. These Researchers Disagree](https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree)
+- [Should encryption be curbed to combat child abuse?](https://www.bbc.com/news/business-57050689)
 - [Sirum is hiring engineers for the micro-fulfillment of medicine](https://news.ycombinator.com/item?id=27201040)
 - [Chad Strings – The Chad way to handle strings in C](https://github.com/skullchap/chadstr)
 - [The Matrix Space Beta](https://matrix.org/blog/2021/05/17/the-matrix-space-beta)
-- [The data model behind Notion's flexibility](https://www.notion.so/blog/data-model-behind-notion)
-- [Nvidia cripples cryptocurrency mining on RTX 3080 and 3070 cards](https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
