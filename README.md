@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fierce Nerds](http://paulgraham.com/fn.html)
+- [Amazon is reportedly negotiating to acquire MGM for about $9B](https://www.businessinsider.com/amazon-reportedly-negotiating-to-acquire-mgm-for-9-billion-2021-5)
+- [Apple Readies MacBook Pro, MacBook Air Revamps with Faster Chips](https://www.bloomberg.com/news/articles/2021-05-18/apple-readies-macbook-pro-macbook-air-revamps-with-faster-chips)
+- [Hyundai Nexo sets new world record 887.5 km travelled on single tank of hydrogen](https://www.h2-view.com/story/hyundai-nexo-breaks-world-record-for-longest-distance-travelled-in-a-fcev/)
 - [Plivo (YC S12) Is Hiring a Senior Recruiter](https://jobs.lever.co/plivo/f52a7ac6-4047-4ac7-95c0-9672fabb2d64)
-- [EU extends sanctions against Chinese, Russian, N.Korean hackers for another year](https://therecord.media/eu-extends-sanctions-against-chinese-russian-and-n-korean-hackers-for-another-year/)
-- [BPF for Storage: An Exokernel-Inspired Approach [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s07-zhong.pdf)
-- [Microsoft Authenticator Chrome Extention is not from MS and is phishing](https://chrome.google.com/webstore/detail/microsoft-authenticator/mabdjppmcjpjploliggpbonahnjjlgkf/related?hl=en-US)
-- [Ask HN: Are you satisfied with Elixir or do you regret choosing Elixir?](https://news.ycombinator.com/item?id=27192873)
 <!-- BLOG-POST-LIST:END -->
 
 ---
