@@ -54,7 +54,7 @@
 - [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27190219)
 - [Saying the Difficult Things](https://ethan.katzenberg.co.uk/posts/saying-difficult-things/)
 - [Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com](http://jobs.hackclub.com/)
-- [Brood X cicadas, which come out ever 17 years, come out in the Eastern U.S.](https://www.nps.gov/articles/000/cicadas-brood-x.htm)
+- [Brood X Periodical Cicadas FAQ](https://www.nps.gov/articles/000/cicadas-brood-x.htm)
 - [Can't Unsee](https://cantunsee.space/)
 <!-- BLOG-POST-LIST:END -->
 
