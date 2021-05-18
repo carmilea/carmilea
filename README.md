@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Authenticator Chrome Extention is not from MS and is phishing](https://chrome.google.com/webstore/detail/microsoft-authenticator/mabdjppmcjpjploliggpbonahnjjlgkf/related?hl=en-US)
+- [Ask HN: Are you satisfied with Elixir or do you regret choosing Elixir?](https://news.ycombinator.com/item?id=27192873)
 - [Converting stroked primitives to filled primitives (2020)](http://w3.impa.br/~diego/projects/Neh20/)
 - [Man Against Marketing](https://johnhellion.substack.com/p/man-against-marketing)
 - [Open source retro ISA video card](https://github.com/schlae/graphics-gremlin)
-- [Uber used 50 Dutch shell companies to dodge taxes](https://www.businessinsider.com/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5)
-- [Nearly 200K Medical Records of US Military Veterans Leaked](https://securethoughts.com/us-military-veterans-medical-data-leakage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
