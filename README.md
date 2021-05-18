@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tax Evasion at the Top of the Income Distribution: Theory and Evidence](https://www.nber.org/papers/w28542)
+- [Building Products at Stripe](https://newsletter.bringthedonuts.com/p/building-products-at-stripe)
+- [First Public Working Drafts: WebGPU and WebGPU Shading Language](https://www.w3.org/blog/news/archives/9059)
+- [Subsidies Awarded to Amazon: at least $4.04B and Counting](https://www.goodjobsfirst.org/amazon-tracker)
 - [Forced Entrepreneurs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2801637)
-- [A country's worth of power, no more!](https://blog.ethereum.org/2021/05/18/country-power-no-more/)
-- [40-core Mac Pro reportedly in development by Apple](https://9to5mac.com/2021/05/18/40-core-mac-pro-high-end-mac-mini-in-development/)
-- [Circuit Synthesis for Analog Computing](https://blog.sigplan.org/2021/05/18/circuit-synthesis-for-analog-computing/)
-- [Fierce Nerds](http://paulgraham.com/fn.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
