@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Breakthrough in deciphering Minoan Linear A script](https://greekreporter.com/2021/05/13/minoan-language-linear-a-linked-to-linear-b-in-groundbreaking-new-research/)
 - [Infinitic (Apache Pulsar framework for building distributed applications)](https://github.com/infiniticio/infinitic)
 - [Map-like use of Earth’s magnetic field in sharks](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00476-0)
 - [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27190219)
 - [Saying the Difficult Things](https://ethan.katzenberg.co.uk/posts/saying-difficult-things/)
-- [Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com](http://jobs.hackclub.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
