@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Halide for iPad](https://lux.camera/halide-pro-camera-for-ipad/)
-- [Site Isolation in Firefox](https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/)
-- [Companies may be punished for paying ransoms to sanctioned hackers](https://www.reuters.com/article/us-treasury-cyber/companies-may-be-punished-for-paying-ransoms-to-sanctioned-hackers-u-s-treasury-idUSKBN26M77U)
-- [AirPods Max and AirPods Pro Don't Support Apple Music Lossless, Apple Confirms](https://www.t3.com/news/airpods-max-and-airpods-pro-dont-support-apple-music-lossless-apple-confirms)
-- [Sleep Evolved Before Brains. Hydras Are Living Proof](https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/)
+- [Launch HN: Thryft (YC W21) – Shopify for Instagram Sellers](https://news.ycombinator.com/item?id=27198319)
+- [LaMDA: Google's New Conversation Technology](https://blog.google/technology/ai/lamda/)
+- [Boosting Dropbox upload speed and improving Windows' TCP stack](https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed)
+- [Flat Data](https://octo.github.com/projects/flat-data)
+- [60 years later, is it time to update the Drake equation?](https://phys.org/news/2021-05-years-drake-equation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
