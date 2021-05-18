@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plivo (YC S12) Is Hiring a Senior Recruiter](https://jobs.lever.co/plivo/f52a7ac6-4047-4ac7-95c0-9672fabb2d64)
+- [EU extends sanctions against Chinese, Russian, N.Korean hackers for another year](https://therecord.media/eu-extends-sanctions-against-chinese-russian-and-n-korean-hackers-for-another-year/)
+- [BPF for Storage: An Exokernel-Inspired Approach [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s07-zhong.pdf)
 - [Microsoft Authenticator Chrome Extention is not from MS and is phishing](https://chrome.google.com/webstore/detail/microsoft-authenticator/mabdjppmcjpjploliggpbonahnjjlgkf/related?hl=en-US)
 - [Ask HN: Are you satisfied with Elixir or do you regret choosing Elixir?](https://news.ycombinator.com/item?id=27192873)
-- [Converting stroked primitives to filled primitives (2020)](http://w3.impa.br/~diego/projects/Neh20/)
-- [Man Against Marketing](https://johnhellion.substack.com/p/man-against-marketing)
-- [Open source retro ISA video card](https://github.com/schlae/graphics-gremlin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
