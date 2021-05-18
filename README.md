@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sirum is hiring engineers for the micro-fulfillment of medicine](https://news.ycombinator.com/item?id=27201040)
+- [100 Largest Landowners in America](https://landreport.com/americas-100-largest-landowners/)
 - [The data model behind Notion's flexibility](https://www.notion.so/blog/data-model-behind-notion)
 - [Nvidia cripples cryptocurrency mining on RTX 3080 and 3070 cards](https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/)
 - [Project Starline: Feel like you're there, together](https://blog.google/technology/research/project-starline/)
-- [The tools and tech I use to run a one-woman hardware company](https://blog.thea.codes/winterblooms-tech-stack/)
-- [The overfitted brain: Dreams evolved to assist generalization](https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
