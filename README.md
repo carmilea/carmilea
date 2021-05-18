@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tax Evasion at the Top of the Income Distribution: Theory and Evidence](https://www.nber.org/papers/w28542)
-- [Building Products at Stripe](https://newsletter.bringthedonuts.com/p/building-products-at-stripe)
-- [First Public Working Drafts: WebGPU and WebGPU Shading Language](https://www.w3.org/blog/news/archives/9059)
-- [Subsidies Awarded to Amazon: at least $4.04B and Counting](https://www.goodjobsfirst.org/amazon-tracker)
-- [Forced Entrepreneurs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2801637)
+- [Halide for iPad](https://lux.camera/halide-pro-camera-for-ipad/)
+- [Site Isolation in Firefox](https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/)
+- [Companies may be punished for paying ransoms to sanctioned hackers](https://www.reuters.com/article/us-treasury-cyber/companies-may-be-punished-for-paying-ransoms-to-sanctioned-hackers-u-s-treasury-idUSKBN26M77U)
+- [AirPods Max and AirPods Pro Don't Support Apple Music Lossless, Apple Confirms](https://www.t3.com/news/airpods-max-and-airpods-pro-dont-support-apple-music-lossless-apple-confirms)
+- [Sleep Evolved Before Brains. Hydras Are Living Proof](https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
