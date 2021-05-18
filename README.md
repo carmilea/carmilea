@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27190219)
+- [Saying the Difficult Things](https://ethan.katzenberg.co.uk/posts/saying-difficult-things/)
+- [Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com](http://jobs.hackclub.com/)
 - [Brood X cicadas, which come out ever 17 years, come out in the Eastern U.S.](https://www.nps.gov/articles/000/cicadas-brood-x.htm)
 - [Can't Unsee](https://cantunsee.space/)
-- [Positions chess engines don't understand](https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand)
-- [First nuclear detonation created ‘impossible’ quasicrystals](https://www.nature.com/articles/d41586-021-01332-0)
-- [Hot Chips 33: Alder Lake, Sapphire Rapids, Zen 3, Next-Gen Z, Neoverse N2](https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
