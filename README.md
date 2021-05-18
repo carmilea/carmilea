@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Forced Entrepreneurs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2801637)
+- [A country's worth of power, no more!](https://blog.ethereum.org/2021/05/18/country-power-no-more/)
+- [40-core Mac Pro reportedly in development by Apple](https://9to5mac.com/2021/05/18/40-core-mac-pro-high-end-mac-mini-in-development/)
+- [Circuit Synthesis for Analog Computing](https://blog.sigplan.org/2021/05/18/circuit-synthesis-for-analog-computing/)
 - [Fierce Nerds](http://paulgraham.com/fn.html)
-- [Amazon is reportedly negotiating to acquire MGM for about $9B](https://www.businessinsider.com/amazon-reportedly-negotiating-to-acquire-mgm-for-9-billion-2021-5)
-- [Apple Readies MacBook Pro, MacBook Air Revamps with Faster Chips](https://www.bloomberg.com/news/articles/2021-05-18/apple-readies-macbook-pro-macbook-air-revamps-with-faster-chips)
-- [Hyundai Nexo sets new world record 887.5 km travelled on single tank of hydrogen](https://www.h2-view.com/story/hyundai-nexo-breaks-world-record-for-longest-distance-travelled-in-a-fcev/)
-- [Plivo (YC S12) Is Hiring a Senior Recruiter](https://jobs.lever.co/plivo/f52a7ac6-4047-4ac7-95c0-9672fabb2d64)
 <!-- BLOG-POST-LIST:END -->
 
 ---
