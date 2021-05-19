@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dissolving the Fermi Paradox](https://arxiv.org/abs/1806.02404)
+- [How corporations buy – and sell – food made with prison labor](https://thecounter.org/how-corporations-buy-and-sell-food-made-with-prison-labor/)
 - [Advice for Young Scientists–and Curious People in General](https://fs.blog/2021/05/advice-for-young-scientists/)
 - [Orchestrate VMs with Kubernetes](https://kubevirt.io/)
-- [Google employees demand Palestine support in letter to CEO](https://mashable.com/article/google-employee-letter-palestine/)
-- [Last year, more people in San Francisco died of overdoses than of Covid-19](https://www.economist.com/united-states/2021/05/15/last-year-more-people-in-san-francisco-died-of-overdoses-than-of-covid-19)
 - [Security keys are now supported for SSH Git operations](https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/)
 <!-- BLOG-POST-LIST:END -->
 
