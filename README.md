@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Junk – Mark Bittman’s History of Why We Eat Bad Food](https://www.thenation.com/article/society/mark-bittman-animal-vegetable-junk/)
-- [Crypto crash deepens, stocks slip](https://www.reuters.com/business/global-markets-wrapup-4-2021-05-19/)
-- [Coinbase Is Down](https://coinbase.com/)
-- [Welcome to Libera Chat](https://libera.chat/news/welcome-to-libera-chat)
-- [China’s first Mars rover, Zhurong, sent back first images](https://www.bbc.com/news/science-environment-57172346)
+- [Cryptography experts trash NFTs on first day of RSA Conference](https://mashable.com/article/rsa-conference-cryptographers-panel-nfts.html)
+- [Real world ownership is not a use case for blockchain](https://schlockchain.substack.com/p/no-real-world-ownership-is-not-a)
+- [Next-generation Deploy Previews, plus Netlify acquires FeaturePeek (YC S19)](https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/)
+- [Robinhood’s big gamble](https://www.newyorker.com/magazine/2021/05/17/robinhoods-big-gamble)
+- [A Gentle Introduction to Ted Nelson's ZigZag Structure (2002)](https://www.nongnu.org/gzz/gi/gi.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
