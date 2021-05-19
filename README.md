@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: How does the French health pass work?](https://sanipasse.fr/french-health-pass)
+- [Poor in Tech](http://megelison.com/poor-in-tech)
+- [Elixir v1.12 Released](https://elixir-lang.org/blog/2021/05/19/elixir-v1-12-0-released/)
+- [In 1982, a one-bit hack let me dodge a summer of filling in potholes](https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual)
 - [One Hundred Ideas for Computing](https://github.com/samsquire/ideas)
-- [Bitcoin Plummets Below 40K](https://www.coindesk.com/bitcoin-plummets-below-40k)
-- [Dissolving the Fermi Paradox](https://arxiv.org/abs/1806.02404)
 - [How corporations buy – and sell – food made with prison labor](https://thecounter.org/how-corporations-buy-and-sell-food-made-with-prison-labor/)
 <!-- BLOG-POST-LIST:END -->
 
