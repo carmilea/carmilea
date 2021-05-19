@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Freenode now belongs to Andrew Lee, and I'm leaving for a new network](https://www.kline.sh)
+- [PostureHealth, Inc. (YC S21) Is Hiring](https://www.ycombinator.com/companies/posturehealth-inc/jobs/1Gc6jTI-account-development-represenative)
+- [Australia introduces AML mobile phone tracking technology to locate 000 callers](https://www.abc.net.au/news/2021-05-19/australia-introduces-aml-mobile-phone-tracking-technology/100146912)
+- [The Unparalleled Genius of John von Neumann](https://cantorsparadise.substack.com/p/the-unparalleled-genius-of-john-von-beb)
 - [Poor in Tech](http://megelison.com/poor-in-tech)
-- [Elixir v1.12 Released](https://elixir-lang.org/blog/2021/05/19/elixir-v1-12-0-released/)
-- [In 1982, a one-bit hack let me dodge a summer of filling in potholes](https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual)
-- [One Hundred Ideas for Computing](https://github.com/samsquire/ideas)
-- [How corporations buy – and sell – food made with prison labor](https://thecounter.org/how-corporations-buy-and-sell-food-made-with-prison-labor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
