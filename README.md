@@ -55,7 +55,7 @@
 - [Movfuscator: Compile C into only mov instructions](https://github.com/Battelle/movfuscator)
 - [Facebook Calls Links to Depression Inconclusive. These Researchers Disagree](https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree)
 - [Sirum is hiring engineers for the micro-fulfillment of medicine](https://news.ycombinator.com/item?id=27201040)
-- [Chad Strings – The Chad way to handle strings in C](https://github.com/skullchap/chadstr)
+- [The Matrix Space Beta](https://matrix.org/blog/2021/05/17/the-matrix-space-beta)
 <!-- BLOG-POST-LIST:END -->
 
 ---
