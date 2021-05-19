@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple previews powerful software updates designed for people with disabilities](https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/)
+- [U.S. sues Frontier Communications regarding internet speeds](https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4)
+- [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://www.workatastartup.com/jobs/43782)
+- [The new corporate owner of Freenode is Imperial Family Companies](https://imperialfamily.com/)
 - [Cryptography experts trash NFTs on first day of RSA Conference](https://mashable.com/article/rsa-conference-cryptographers-panel-nfts.html)
-- [Real world ownership is not a use case for blockchain](https://schlockchain.substack.com/p/no-real-world-ownership-is-not-a)
-- [Next-generation Deploy Previews, plus Netlify acquires FeaturePeek (YC S19)](https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/)
-- [Robinhood’s big gamble](https://www.newyorker.com/magazine/2021/05/17/robinhoods-big-gamble)
-- [A Gentle Introduction to Ted Nelson's ZigZag Structure (2002)](https://www.nongnu.org/gzz/gi/gi.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
