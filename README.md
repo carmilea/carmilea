@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Resignation from Freenode](https://blog.bofh.it/debian/id_461)
-- [Crypto Crash Deepens](https://www.reuters.com/business/global-markets-wrapup-4-2021-05-19/)
+- [Junk – Mark Bittman’s History of Why We Eat Bad Food](https://www.thenation.com/article/society/mark-bittman-animal-vegetable-junk/)
+- [Crypto crash deepens, stocks slip](https://www.reuters.com/business/global-markets-wrapup-4-2021-05-19/)
 - [Coinbase Is Down](https://coinbase.com/)
 - [Welcome to Libera Chat](https://libera.chat/news/welcome-to-libera-chat)
 - [China’s first Mars rover, Zhurong, sent back first images](https://www.bbc.com/news/science-environment-57172346)
