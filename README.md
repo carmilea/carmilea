@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Last year, more people in San Francisco died of overdoses than of Covid-19](https://www.economist.com/united-states/2021/05/15/last-year-more-people-in-san-francisco-died-of-overdoses-than-of-covid-19)
 - [Unveiling Material You – Google's new design language](https://material.io/blog/announcing-material-you)
 - [Security keys are now supported for SSH Git operations](https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/)
 - [Reliance Jio Impersonation Issue](https://susam.in/blog/reliance-jio-impersonation-issue/)
 - [The Mental Benefits of Being Terrible at Something](https://www.outsideonline.com/2423015/80-20-rule-beginner-mastery-benefits)
-- [The Textbook That Unleashed Ramanujan's Genius](https://books.google.com/books/download/A_Synopsis_of_Elementary_Results_in_Pure.pdf?id=JLmCAAAAIAAJ&output=pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
