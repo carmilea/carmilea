@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I am sick and tired of hearing tech companies complain about developer shortages](https://blog.usejournal.com/i-am-sick-and-tired-of-hearing-tech-companies-complain-about-a-developer-shortage-fd1f5aa536cc)
+- [Commander X16](https://www.commanderx16.com/forum/index.php?/home/)
 - [YouTube Experiencing Issues](https://downdetector.com/status/youtube?1)
 - [Fiscal-Driven Inflation](https://www.lynalden.com/may-2021-newsletter/)
 - [Movfuscator: Compile C into only mov instructions](https://github.com/Battelle/movfuscator)
-- [Researchers, lawmakers want Facebook's mental health research](https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree)
-- [Sirum is hiring engineers for the micro-fulfillment of medicine](https://news.ycombinator.com/item?id=27201040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
