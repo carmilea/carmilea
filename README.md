@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ansible 4.0.0 final has been released](https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8)
+- [“Energy in the Future”: a time capsule of energy concerns from 1953](https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/)
 - [Miss Shilling's orifice helped win the war (2020)](https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/)
 - [Cover (YC W16) Is Hiring](https://jobs.lever.co/cover-2/49bab031-bd9e-4ca6-a558-b80e206f10ca)
 - [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
-- [On Establishing a Cloud Security Program](https://www.marcolancini.it/2021/blog-cloud-security-roadmap/)
-- [YouTube ads in Safari: you see them now, will you see them in the future?](https://adguard.com/en/blog/youtube-ads-in-safari-explained.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
