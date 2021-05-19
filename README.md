@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Miss Shilling's orifice helped win the war (2020)](https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/)
 - [Cover (YC W16) Is Hiring](https://jobs.lever.co/cover-2/49bab031-bd9e-4ca6-a558-b80e206f10ca)
-- [The Tether Ponzi Scheme](https://www.singlelunch.com/2021/05/19/the-tether-ponzi-scheme/)
-- [Google ‘Experiments’ with Bringing RSS Capabilities Back to Chrome](https://pxlnv.com/linklog/rss-chrome-experiment/)
+- [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
 - [On Establishing a Cloud Security Program](https://www.marcolancini.it/2021/blog-cloud-security-roadmap/)
 - [YouTube ads in Safari: you see them now, will you see them in the future?](https://adguard.com/en/blog/youtube-ads-in-safari-explained.html)
 <!-- BLOG-POST-LIST:END -->
