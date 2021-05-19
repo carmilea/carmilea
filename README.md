@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I am sick and tired of hearing tech companies complain about developer shortages](https://blog.usejournal.com/i-am-sick-and-tired-of-hearing-tech-companies-complain-about-a-developer-shortage-fd1f5aa536cc)
-- [Commander X16](https://www.commanderx16.com/forum/index.php?/home/)
-- [YouTube Experiencing Issues](https://downdetector.com/status/youtube?1)
-- [Fiscal-Driven Inflation](https://www.lynalden.com/may-2021-newsletter/)
-- [Movfuscator: Compile C into only mov instructions](https://github.com/Battelle/movfuscator)
+- [Unveiling Material You – Google's new design language](https://material.io/blog/announcing-material-you)
+- [Security keys are now supported for SSH Git operations](https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/)
+- [Reliance Jio Impersonation Issue](https://susam.in/blog/reliance-jio-impersonation-issue/)
+- [The Mental Benefits of Being Terrible at Something](https://www.outsideonline.com/2423015/80-20-rule-beginner-mastery-benefits)
+- [The Textbook That Unleashed Ramanujan's Genius](https://books.google.com/books/download/A_Synopsis_of_Elementary_Results_in_Pure.pdf?id=JLmCAAAAIAAJ&output=pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
