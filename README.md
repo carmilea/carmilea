@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: How does the French health pass work?](https://sanipasse.fr/french-health-pass)
+- [One Hundred Ideas for Computing](https://github.com/samsquire/ideas)
+- [Bitcoin Plummets Below 40K](https://www.coindesk.com/bitcoin-plummets-below-40k)
 - [Dissolving the Fermi Paradox](https://arxiv.org/abs/1806.02404)
 - [How corporations buy – and sell – food made with prison labor](https://thecounter.org/how-corporations-buy-and-sell-food-made-with-prison-labor/)
-- [Advice for Young Scientists–and Curious People in General](https://fs.blog/2021/05/advice-for-young-scientists/)
-- [Orchestrate VMs with Kubernetes](https://kubevirt.io/)
-- [Security keys are now supported for SSH Git operations](https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
