@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cover (YC W16) Is Hiring](https://jobs.lever.co/cover-2/49bab031-bd9e-4ca6-a558-b80e206f10ca)
+- [The Tether Ponzi Scheme](https://www.singlelunch.com/2021/05/19/the-tether-ponzi-scheme/)
+- [Google ‘Experiments’ with Bringing RSS Capabilities Back to Chrome](https://pxlnv.com/linklog/rss-chrome-experiment/)
 - [On Establishing a Cloud Security Program](https://www.marcolancini.it/2021/blog-cloud-security-roadmap/)
-- [Defmt: Debugging Embedded Rust Without GDB (2020)](https://ferrous-systems.com/blog/21st-century-embedded-tooling/)
-- [Chrome Autofill doesn't respect autocomplete=off](https://bugs.chromium.org/p/chromium/issues/detail?id=914451#c139)
-- [Tracking the San Francisco Tech Exodus](https://sfciti.org/sf-tech-exodus/)
-- [Nicholas Taleb's Amazon Reviews](https://www.amazon.com/gp/profile/amzn1.account.AHMHNR4MRTDLMBOOT6Q7LX2WP5YA/ref=cm_cr_dp_mb_gw_tr?ie=UTF8)
+- [YouTube ads in Safari: you see them now, will you see them in the future?](https://adguard.com/en/blog/youtube-ads-in-safari-explained.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
