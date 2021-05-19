@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Embedded Rust Without GDB](https://ferrous-systems.com/blog/21st-century-embedded-tooling/)
-- [YouTube ads in Safari: you see them now, will you see them in the future?](https://adguard.com/en/blog/youtube-ads-in-safari-explained.html)
+- [On Establishing a Cloud Security Program](https://www.marcolancini.it/2021/blog-cloud-security-roadmap/)
+- [Defmt: Debugging Embedded Rust Without GDB (2020)](https://ferrous-systems.com/blog/21st-century-embedded-tooling/)
+- [Chrome Autofill doesn't respect autocomplete=off](https://bugs.chromium.org/p/chromium/issues/detail?id=914451#c139)
+- [Tracking the San Francisco Tech Exodus](https://sfciti.org/sf-tech-exodus/)
 - [Nicholas Taleb's Amazon Reviews](https://www.amazon.com/gp/profile/amzn1.account.AHMHNR4MRTDLMBOOT6Q7LX2WP5YA/ref=cm_cr_dp_mb_gw_tr?ie=UTF8)
-- [All Hail King Pokémon](https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile)
-- [Sharing learnings about our image cropping algorithm](https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
