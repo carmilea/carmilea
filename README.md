@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase Is Down](https://coinbase.com/)
+- [Welcome to Libera Chat](https://libera.chat/news/welcome-to-libera-chat)
+- [China’s first Mars rover, Zhurong, sent back first images](https://www.bbc.com/news/science-environment-57172346)
 - [Freenode now belongs to Andrew Lee, and I'm leaving for a new network](https://www.kline.sh)
 - [PostureHealth, Inc. (YC S21) Is Hiring](https://www.ycombinator.com/companies/posturehealth-inc/jobs/1Gc6jTI-account-development-represenative)
-- [Australia introduces AML mobile phone tracking technology to locate 000 callers](https://www.abc.net.au/news/2021-05-19/australia-introduces-aml-mobile-phone-tracking-technology/100146912)
-- [The Unparalleled Genius of John von Neumann](https://cantorsparadise.substack.com/p/the-unparalleled-genius-of-john-von-beb)
-- [Poor in Tech](http://megelison.com/poor-in-tech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
