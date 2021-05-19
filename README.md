@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hetzner has banned crypto mining and Chia farming](https://twitter.com/Hetzner_Online/status/1394957824749457409)
+- [How to build a custom data connector in 2 hours](https://airbyte.io/connector-development-kit)
 - [Apple previews powerful software updates designed for people with disabilities](https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/)
-- [U.S. sues Frontier Communications regarding internet speeds](https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4)
+- [FTC and several states sue Frontier Communications regarding internet speeds](https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4)
 - [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://www.workatastartup.com/jobs/43782)
-- [The new corporate owner of Freenode is Imperial Family Companies](https://imperialfamily.com/)
-- [Cryptography experts trash NFTs on first day of RSA Conference](https://mashable.com/article/rsa-conference-cryptographers-panel-nfts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
