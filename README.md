@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hetzner has banned crypto mining and Chia farming](https://twitter.com/Hetzner_Online/status/1394957824749457409)
-- [How to build a custom data connector in 2 hours](https://airbyte.io/connector-development-kit)
-- [Apple previews powerful software updates designed for people with disabilities](https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/)
-- [FTC and several states sue Frontier Communications regarding internet speeds](https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4)
-- [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://www.workatastartup.com/jobs/43782)
+- [Debugging Embedded Rust Without GDB](https://ferrous-systems.com/blog/21st-century-embedded-tooling/)
+- [YouTube ads in Safari: you see them now, will you see them in the future?](https://adguard.com/en/blog/youtube-ads-in-safari-explained.html)
+- [Nicholas Taleb's Amazon Reviews](https://www.amazon.com/gp/profile/amzn1.account.AHMHNR4MRTDLMBOOT6Q7LX2WP5YA/ref=cm_cr_dp_mb_gw_tr?ie=UTF8)
+- [All Hail King Pokémon](https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile)
+- [Sharing learnings about our image cropping algorithm](https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
