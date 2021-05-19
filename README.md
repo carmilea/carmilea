@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Resignation from Freenode](https://blog.bofh.it/debian/id_461)
+- [Crypto Crash Deepens](https://www.reuters.com/business/global-markets-wrapup-4-2021-05-19/)
 - [Coinbase Is Down](https://coinbase.com/)
 - [Welcome to Libera Chat](https://libera.chat/news/welcome-to-libera-chat)
 - [China’s first Mars rover, Zhurong, sent back first images](https://www.bbc.com/news/science-environment-57172346)
-- [Freenode now belongs to Andrew Lee, and I'm leaving for a new network](https://www.kline.sh)
-- [PostureHealth, Inc. (YC S21) Is Hiring](https://www.ycombinator.com/companies/posturehealth-inc/jobs/1Gc6jTI-account-development-represenative)
 <!-- BLOG-POST-LIST:END -->
 
 ---
