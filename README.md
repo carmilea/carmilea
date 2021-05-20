@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft releases SimuLand, a lab environment to simulate attacker tradecraft](https://therecord.media/microsoft-releases-simuland-a-lab-environment-to-simulate-attacker-tradecraft/)
+- [Thunderbird stored OpenPGP secret keys without master password protection](https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956)
+- [Red Cross honors Igiugig woman for helping light runway during nighttime medevac](https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/)
 - [Rainforest (YC S12) Is Hiring Remote Engineers, Designers and CSM](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN)
 - [Face masks effectively limit the probability of SARS-CoV-2 transmission](https://science.sciencemag.org/content/early/2021/05/19/science.abg6296)
-- [Three Common MySQL Errors](https://www.singlestore.com/blog/three-common-mysql-errors)
-- [Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 VCPU EC2 Instance](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/)
-- [Five Oregon counties vote to leave state, create 'Greater Idaho'](https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
