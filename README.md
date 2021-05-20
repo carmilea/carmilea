@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. has almost 500k job openings in cybersecurity](https://www.cbsnews.com/news/cybersecurity-job-openings-500k/)
-- [TSMC Claims Breakthrough on 1nm Chip Production](https://www.techpowerup.com/282422/tsmc-claims-breakthrough-on-1nm-chip-production)
-- [Exclusive: Inside the Military's Secret Undercover Army](https://www.newsweek.com/exclusive-inside-militarys-secret-undercover-army-1591881)
-- [Largest Iceberg Spotted in Antarctica](https://www.dw.com/en/worlds-largest-iceberg-spotted-in-antarctica/a-57590031)
-- [Saying Good Bye to Hey.com](https://vishnugopal.com/2021/05/20/saying-goodbye-to-hey-com/)
+- [“I Could Rewrite Curl”](https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/)
+- [Porter (YC S20) Is Hiring a FullStack Engineer](https://www.ycombinator.com/companies/porter/jobs/6QhplSz-full-stack-engineer-employee-1)
+- [Show HN: Nyxt Browser 2.0.0](https://nyxt.atlas.engineer/article/release-2.0.0.org)
+- [Unexpected 'Black Swan' defect discovered in soft matter for first time](https://phys.org/news/2021-05-unexpected-black-swan-defect-soft.html)
+- [The Whole Freenode Kerfluffle](https://ariadne.space/2021/05/20/the-whole-freenode-kerfluffle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
