@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How the UK's Online Safety Bill Threatens Matrix](https://matrix.org/blog/2021/05/19/how-the-u-ks-online-safety-bill-threatens-matrix)
-- [Launch HN: YSplit (YC W19) – Automatically split and pay any bill](https://news.ycombinator.com/item?id=27222985)
-- [Divisible by 7 (2016)](https://wiki.tcl-lang.org/page/Divisible+by+7)
-- [Parcel 2 Beta 3: 10x faster JavaScript compiler written in Rust](https://v2.parceljs.org/blog/beta3/)
-- [Spintronics: Build Mechanical Circuits](https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits)
+- [Slack is experiencing an outage](https://status.slack.com/2021-05/33aed870657e30a0)
+- [Show HN: Tool that turns your images into plotter-like line drawings](https://javier.xyz/pintr/)
+- [Bitcoin Is Failing at Becoming the Future of Money](https://www.bloomberg.com/opinion/articles/2021-05-19/bitcoin-crash-rebound-on-elon-musk-tweets-shows-its-failings)
+- [A Fungus Is Pushing Cicada Sex into Hyperdrive and Leaving Them Dismembered](https://www.npr.org/2021/05/18/997998920/the-fungus-thats-making-cicadas-sex-crazy)
+- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
