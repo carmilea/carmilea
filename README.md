@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wormhole Tunnels in Spacetime May Be Possible, New Research Suggests](https://www.scientificamerican.com/article/wormhole-tunnels-in-spacetime-may-be-possible-new-research-suggests/)
-- [New Snap Spectacles Feature Augmented Reality Display](https://www.spectacles.com/new-spectacles)
-- [Scaleway announces measures against abusive Chia plotting and farming](https://blog.scaleway.com/scaleway-and-chia/)
-- [Show HN: Tool that turns your images into plotter-like line drawings](https://javier.xyz/pintr/)
-- [A fungus that infects cicadas and pushes their mating into hyperdrive](https://www.npr.org/2021/05/18/997998920/the-fungus-thats-making-cicadas-sex-crazy)
+- [Rainforest (YC S12) Is Hiring Remote Engineers, Designers and CSM](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN)
+- [Face masks effectively limit the probability of SARS-CoV-2 transmission](https://science.sciencemag.org/content/early/2021/05/19/science.abg6296)
+- [Three Common MySQL Errors](https://www.singlestore.com/blog/three-common-mysql-errors)
+- [Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 VCPU EC2 Instance](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/)
+- [Five Oregon counties vote to leave state, create 'Greater Idaho'](https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
