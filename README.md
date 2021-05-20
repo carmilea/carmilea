@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nonnative English Speakers Share Their Gripes About Speaking English](https://www.npr.org/sections/goatsandsoda/2021/05/16/995963311/prepone-that-your-accent-is-funny-readers-share-their-esl-stories)
+- [The level of Mac malware is not acceptable, says Craig Federighi at Epic trial](https://www.theverge.com/2021/5/19/22444353/mac-malware-not-acceptable-craig-federighi-apple-epic)
+- [Native English speakers are the world’s worst communicators](https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators)
 - [IBM Common User Access](https://en.wikipedia.org/wiki/IBM_Common_User_Access)
 - [“I Could Rewrite Curl”](https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/)
 - [Porter (YC S20) Is Hiring a FullStack Engineer](https://www.ycombinator.com/companies/porter/jobs/6QhplSz-full-stack-engineer-employee-1)
-- [Show HN: Nyxt Browser 2.0.0](https://nyxt.atlas.engineer/article/release-2.0.0.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
