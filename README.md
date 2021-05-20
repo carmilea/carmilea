@@ -55,7 +55,7 @@
 - [Ampere announces their next CPU will use custom microarchitecture instead of ARM](https://www.anandtech.com/show/16684/ampere-roadmap-full-custom-cores)
 - [UK Rail services to come under unified state control](https://www.bbc.com/news/business-57176858.html)
 - [ByteDance: TikTok's co-founder to step down as chief executive](https://www.bbc.com/news/business-57181225)
-- [std::latch](https://en.cppreference.com/w/cpp/thread/latch)
+- [Experiment, powered by RSS, to allow following of creators in Chrome](https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
