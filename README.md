@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Breeze Ergonomic Keyboard by Afternoon Labs](https://afternoonlabs.com/breeze/)
-- [Google Revives RSS](https://techcrunch.com/2021/05/19/undead-again-google-brings-back-rss/)
-- [Marriott Files Lawsuit Against Unknown Robocalls Perpetrators](https://www.nasdaq.com/articles/marriott-files-lawsuit-against-unknown-perpetrators-responsible-for-fraudulent-robocalls)
-- [Louis Rossmann videos “reported as abusive” and banned from Facebook](https://www.youtube.com/watch?v=HfXK0Y9xHBI)
-- [As Texas Went Dark, the State Paid Natural-Gas Companies to Go Offline](https://www.wsj.com/articles/as-texas-went-dark-the-state-paid-natural-gas-companies-to-go-offline-11620385201)
+- [Experiment, powered by RSS, to allow following of creators in Chrome](https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html)
+- [Facebook says I'm abusive content [video]](https://www.youtube.com/watch?v=HfXK0Y9xHBI)
+- [OpenFlexure Microscope, an open-source optical microscope](https://openflexure.org/projects/microscope/)
+- [Nikola Tesla invention from 100 years ago suddenly makes more sense today](https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
