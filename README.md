@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hundreds of PPP Loans Went to Fake Farms in Absurd Places](https://www.propublica.org/article/ppp-farms)
-- [Undefined behavior in C is a reading error](https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/)
-- [The level of Mac malware is not acceptable, says Apple exec at Epic trial](https://www.theverge.com/2021/5/19/22444353/mac-malware-not-acceptable-craig-federighi-apple-epic)
-- [Comparing trips between cellphone towers and Google timeline (GPS)](https://leoferres.info/blog/2021/05/16/bts-base-transceiver-stations-vs-gps/)
-- [The Full Story of the Stunning RSA Hack Can Finally Be Told](https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/)
+- [How the UK's Online Safety Bill Threatens Matrix](https://matrix.org/blog/2021/05/19/how-the-u-ks-online-safety-bill-threatens-matrix)
+- [Launch HN: YSplit (YC W19) – Automatically split and pay any bill](https://news.ycombinator.com/item?id=27222985)
+- [Divisible by 7 (2016)](https://wiki.tcl-lang.org/page/Divisible+by+7)
+- [Parcel 2 Beta 3: 10x faster JavaScript compiler written in Rust](https://v2.parceljs.org/blog/beta3/)
+- [Spintronics: Build Mechanical Circuits](https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits)
 <!-- BLOG-POST-LIST:END -->
 
 ---
