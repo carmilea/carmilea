@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Out of control San Francisco shoplifting forcing Walgreens to close 17 stores](https://www.sfchronicle.com/local-politics/article/Out-of-control-Organized-crime-drives-S-F-16175755.php)
 - [Nikola Tesla invention from 100 years ago suddenly makes more sense today](https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/)
+- [Why Ethereum Will Win Store of Value](https://michaelmcguiness.com/essays/why-eth-will-win-store-of-value)
 - [File Descriptor Limits](http://0pointer.net/blog/file-descriptor-limits.html)
 - [Google MUM: A new AI milestone for understanding information](https://blog.google/products/search/introducing-mum/)
-- [Landlock merged in mainline for Linux 5.13](https://landlock.io/)
-- [Ansible 4.0](https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
