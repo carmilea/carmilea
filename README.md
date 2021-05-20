@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Five Oregon counties vote to leave state, create 'Greater Idaho'](https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/)
+- [Wormhole Tunnels in Spacetime May Be Possible, New Research Suggests](https://www.scientificamerican.com/article/wormhole-tunnels-in-spacetime-may-be-possible-new-research-suggests/)
+- [Behavioral study finds 0.8% gray matter loss from alcohol consumption [pdf]](https://www.medrxiv.org/content/10.1101/2021.05.10.21256931v1.full.pdf)
+- [Offensive Tweet Quiz – Twitter is terrible at identifying offensive tweets](https://inteoryx.com/htmls/TwitterOffensive.html)
 - [New Snap Spectacles Feature Augmented Reality Display](https://www.spectacles.com/new-spectacles)
-- [Slack is experiencing an outage](https://status.slack.com/2021-05/33aed870657e30a0)
-- [Show HN: Tool that turns your images into plotter-like line drawings](https://javier.xyz/pintr/)
-- [A fungus that infects cicadas and pushes their mating into hyperdrive](https://www.npr.org/2021/05/18/997998920/the-fungus-thats-making-cicadas-sex-crazy)
-- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
