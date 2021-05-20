@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. has almost 500k job openings in cybersecurity](https://www.cbsnews.com/news/cybersecurity-job-openings-500k/)
+- [Crash a Ryzen system in single line of tweetable PowerShell](https://twitter.com/aionescu/status/1393798004151181312)
+- [Exclusive: Inside the Military's Secret Undercover Army](https://www.newsweek.com/exclusive-inside-militarys-secret-undercover-army-1591881)
 - [Saying Good Bye to Hey.com](https://vishnugopal.com/2021/05/20/saying-goodbye-to-hey-com/)
 - [Ampere announces their next CPU will use custom microarchitecture instead of ARM](https://www.anandtech.com/show/16684/ampere-roadmap-full-custom-cores)
-- [UK Rail services to come under unified state control](https://www.bbc.com/news/business-57176858.html)
-- [ByteDance: TikTok's co-founder to step down as chief executive](https://www.bbc.com/news/business-57181225)
-- [Experiment, powered by RSS, to allow following of creators in Chrome](https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
