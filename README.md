@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nonnative English Speakers Share Their Gripes About Speaking English](https://www.npr.org/sections/goatsandsoda/2021/05/16/995963311/prepone-that-your-accent-is-funny-readers-share-their-esl-stories)
+- [IBM Common User Access](https://en.wikipedia.org/wiki/IBM_Common_User_Access)
 - [“I Could Rewrite Curl”](https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/)
 - [Porter (YC S20) Is Hiring a FullStack Engineer](https://www.ycombinator.com/companies/porter/jobs/6QhplSz-full-stack-engineer-employee-1)
 - [Show HN: Nyxt Browser 2.0.0](https://nyxt.atlas.engineer/article/release-2.0.0.org)
-- [Unexpected 'Black Swan' defect discovered in soft matter for first time](https://phys.org/news/2021-05-unexpected-black-swan-defect-soft.html)
-- [The Whole Freenode Kerfluffle](https://ariadne.space/2021/05/20/the-whole-freenode-kerfluffle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
