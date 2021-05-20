@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [India's holiest river Ganges is swollen with Covid victims](https://www.bbc.com/news/world-asia-india-57154564)
+- [Marriott Files Lawsuit Against Unknown Robocalls Perpetrators](https://www.nasdaq.com/articles/marriott-files-lawsuit-against-unknown-perpetrators-responsible-for-fraudulent-robocalls)
 - [Louis Rossmann videos “reported as abusive” and banned from Facebook](https://www.youtube.com/watch?v=HfXK0Y9xHBI)
 - [As Texas Went Dark, the State Paid Natural-Gas Companies to Go Offline](https://www.wsj.com/articles/as-texas-went-dark-the-state-paid-natural-gas-companies-to-go-offline-11620385201)
 - [OpenFlexure Microscope, an open-source optical microscope](https://openflexure.org/projects/microscope/)
-- [Nikola Tesla invention from 100 years ago suddenly makes more sense today](https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/)
-- [Why Ethereum Will Win Store of Value](https://michaelmcguiness.com/essays/why-eth-will-win-store-of-value)
 <!-- BLOG-POST-LIST:END -->
 
 ---
