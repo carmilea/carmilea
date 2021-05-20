@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The level of Mac malware is not acceptable, says Craig Federighi at Epic trial](https://www.theverge.com/2021/5/19/22444353/mac-malware-not-acceptable-craig-federighi-apple-epic)
-- [Native English speakers are the world’s worst communicators](https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators)
-- [IBM Common User Access](https://en.wikipedia.org/wiki/IBM_Common_User_Access)
-- [“I Could Rewrite Curl”](https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/)
-- [Porter (YC S20) Is Hiring a FullStack Engineer](https://www.ycombinator.com/companies/porter/jobs/6QhplSz-full-stack-engineer-employee-1)
+- [Hundreds of PPP Loans Went to Fake Farms in Absurd Places](https://www.propublica.org/article/ppp-farms)
+- [Undefined behavior in C is a reading error](https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/)
+- [The level of Mac malware is not acceptable, says Apple exec at Epic trial](https://www.theverge.com/2021/5/19/22444353/mac-malware-not-acceptable-craig-federighi-apple-epic)
+- [Comparing trips between cellphone towers and Google timeline (GPS)](https://leoferres.info/blog/2021/05/16/bts-base-transceiver-stations-vs-gps/)
+- [The Full Story of the Stunning RSA Hack Can Finally Be Told](https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
