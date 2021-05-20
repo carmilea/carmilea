@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [India's holiest river Ganges is swollen with Covid victims](https://www.bbc.com/news/world-asia-india-57154564)
+- [Breeze Ergonomic Keyboard by Afternoon Labs](https://afternoonlabs.com/breeze/)
+- [Google Revives RSS](https://techcrunch.com/2021/05/19/undead-again-google-brings-back-rss/)
 - [Marriott Files Lawsuit Against Unknown Robocalls Perpetrators](https://www.nasdaq.com/articles/marriott-files-lawsuit-against-unknown-perpetrators-responsible-for-fraudulent-robocalls)
 - [Louis Rossmann videos “reported as abusive” and banned from Facebook](https://www.youtube.com/watch?v=HfXK0Y9xHBI)
 - [As Texas Went Dark, the State Paid Natural-Gas Companies to Go Offline](https://www.wsj.com/articles/as-texas-went-dark-the-state-paid-natural-gas-companies-to-go-offline-11620385201)
-- [OpenFlexure Microscope, an open-source optical microscope](https://openflexure.org/projects/microscope/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
