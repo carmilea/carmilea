@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [U.S. has almost 500k job openings in cybersecurity](https://www.cbsnews.com/news/cybersecurity-job-openings-500k/)
-- [Crash a Ryzen system in single line of tweetable PowerShell](https://twitter.com/aionescu/status/1393798004151181312)
+- [TSMC Claims Breakthrough on 1nm Chip Production](https://www.techpowerup.com/282422/tsmc-claims-breakthrough-on-1nm-chip-production)
 - [Exclusive: Inside the Military's Secret Undercover Army](https://www.newsweek.com/exclusive-inside-militarys-secret-undercover-army-1591881)
+- [Largest Iceberg Spotted in Antarctica](https://www.dw.com/en/worlds-largest-iceberg-spotted-in-antarctica/a-57590031)
 - [Saying Good Bye to Hey.com](https://vishnugopal.com/2021/05/20/saying-goodbye-to-hey-com/)
-- [Ampere announces their next CPU will use custom microarchitecture instead of ARM](https://www.anandtech.com/show/16684/ampere-roadmap-full-custom-cores)
 <!-- BLOG-POST-LIST:END -->
 
 ---
