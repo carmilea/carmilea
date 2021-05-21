@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CSIRO's Data61 Dismantles SeL4 Team](https://twitter.com/GernotHeiser/status/1395517697689931780)
+- [On Ransomware and Cryptocurrency](https://twitter.com/smdiehl/status/1395683698859814912)
 - [Now your car is a cybersecurity risk, too](https://www.eetimes.com/now-your-car-is-a-cybersecurity-risk-too/)
 - [Are Angels More Likely Than VCs to Drive Entrepreneurial Experimentation? [pdf]](https://static1.squarespace.com/static/5835e608414fb5a615f828bb/t/5ff3cac7dc8f8e0b7122ff58/1609812690849/AmirSariri_JMP.pdf)
 - [Animated GIF that uses 360MB of memory on x86, on Apple Silicon it takes 35.51GB](https://twitter.com/ccgus/status/1395145361136644098)
-- [DOS SMB Client Performance](http://www.os2museum.com/wp/dos-smb-client-performance/)
-- [Sublime Text 4](https://www.sublimetext.com/blog/articles/sublime-text-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
