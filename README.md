@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [San Francisco’s Shoplifting Surge](https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html)
+- [Canada declares plastics toxic, paving the way for restrictions](https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/)
+- [Woke at Work](https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing)
+- [Human Antibodies Target Many Parts of Coronavirus Spike Protein](https://directorsblog.nih.gov/2021/05/18/human-antibodies-target-many-parts-of-coronavirus-spike-protein/)
 - [PHP 3.0 Final is out (1998)](http://web.archive.org/web/19980701120538/http://www.php.net/)
-- [Microsoft and Apple wage war on gadget right-to-repair laws](https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws)
-- [Substack (YC W18) is hiring technical recruiters to build the future of writing](https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd)
-- [Judge in Fortnite case holds Tim Cook's feet to the fire](https://www.protocol.com/apple-epic-trial/tim-cook-apple-epic-grilled)
-- [“Put that in your pipe and smoke it”](https://wordhistories.net/2020/01/06/put-pipe-and-smoke/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
