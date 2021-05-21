@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sublime Text 4](https://www.sublimetext.com/blog/articles/sublime-text-4)
+- [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 - [U.S. Treasury seeks reporting of cryptocurrency transfers](https://www.reuters.com/business/finance/us-treasury-says-can-shrink-7-trillion-tax-gap-by-10-over-next-decade-2021-05-20/)
+- [Show HN: Ninjabot – A fast cryptocurrency bot implemented in Go](https://github.com/rodrigo-brito/ninjabot)
 - [Holes in the WiFi](https://lwn.net/Articles/856044/)
-- [The anus is an evolutionary marvel](https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/)
-- [SimuLand, a lab environment to simulate attacker tradecraft](https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/)
-- [SimpleVisor – Intel VT-x hypervisor in 500 lines of C code](https://ionescu007.github.io/SimpleVisor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
