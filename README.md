@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ditto (YC W20) Is Hiring Full-Stack Engineers](https://www.dittowords.com/careers)
-- [Citizen CEO offered to personally fund LA arson manhunt for the wrong person](https://www.theverge.com/2021/5/21/22447446/citizen-app-internal-slack-palisades-fire-arson-bounty-manhunt-los-angeles)
-- [Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1)](https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/)
-- [Voice2json: Offline speech and intent recognition on Linux](https://voice2json.org/)
-- [Download free public domain paintings, posters and illustrations](https://www.artvee.com/?)
+- [Pentagon UFO Videos Not Aliens](https://www.nationalreview.com/2021/05/calm-down-everyone-the-ufos-arent-aliens/)
+- [Leaked Emails Show Crime App Citizen Is Testing On-Demand Security Force](https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails)
+- [Deadly Fungi Are the Newest Emerging Microbe Threat All over the World](https://www.scientificamerican.com/article/deadly-fungi-are-the-newest-emerging-microbe-threat-all-over-the-world/)
+- [Accessibility is hard. It's also your job](https://gomakethings.com/accessibility-is-hard.-its-also-your-job./)
+- [Ask HN: Those who have taken extended time off, any advice?](https://news.ycombinator.com/item?id=27236920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
