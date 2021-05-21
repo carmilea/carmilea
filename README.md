@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Texas gov knew of natural gas shortages days before blackout, blamed wind anyway](https://arstechnica.com/tech-policy/2021/05/texas-gov-knew-of-natural-gas-shortages-days-before-blackout-blamed-wind-anyway/)
+- [Bitcoin is 'a giant pyramid scheme,' says Pinboard founder](https://www.youtube.com/watch?v=igOmWeHMunw)
+- [KELM: Integrating Knowledge Graphs with Language Model Pre-Training Corpora](https://ai.googleblog.com/2021/05/kelm-integrating-knowledge-graphs-with.html)
 - [Linux 5.13 Reverts and Fixes the Problematic University of Minnesota Patches](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.13-UMN-Fixes)
 - [Companies excluding Coloradans from remote jobs to avoid sharing salary ranges](https://www.reddit.com/r/Denver/comments/nh7s8f/but_not_in_colorado/)
-- [Google has launched this free course on CSS](https://web.dev/learn/css/)
-- [Circle Medical (YC S15) Is Hiring FullStack Engineers to Build Tools for Doctors](https://www.ycombinator.com/companies/circle-medical/jobs/DcHMahZUa-fullstack-engineer)
-- [CSIRO's Data61 Dismantles SeL4 Team](https://twitter.com/GernotHeiser/status/1395517697689931780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
