@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pentagon UFO Videos Not Aliens](https://www.nationalreview.com/2021/05/calm-down-everyone-the-ufos-arent-aliens/)
-- [Leaked Emails Show Crime App Citizen Is Testing On-Demand Security Force](https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails)
-- [Deadly Fungi Are the Newest Emerging Microbe Threat All over the World](https://www.scientificamerican.com/article/deadly-fungi-are-the-newest-emerging-microbe-threat-all-over-the-world/)
-- [Accessibility is hard. It's also your job](https://gomakethings.com/accessibility-is-hard.-its-also-your-job./)
-- [Ask HN: Those who have taken extended time off, any advice?](https://news.ycombinator.com/item?id=27236920)
+- [US to ramp up tracking of domestic extremism on social media](https://apnews.com/article/media-social-media-race-and-ethnicity-racial-injustice-government-and-politics-d4c8d4cc7bc7789ffa77071458ade3fa)
+- [FlutterFlow: Low Code Flutter Apps](https://flutterflow.io/launch)
+- [Nassim Taleb Is Possibly Wrong about Wealth and IQ](https://greyenlightenment.com/2019/08/31/wealth-and-iq-part-3-continued/)
+- [SQLite in Production with WAL](https://victoria.dev/blog/sqlite-in-production-with-wal/)
+- [The Female Supercomputer Designer Who Inspired Steve Jobs](https://www.fastcompany.com/90151279/the-woman-supercomputer-designer-who-inspired-steve-jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
