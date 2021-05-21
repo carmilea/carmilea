@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Substack is hiring technical recruiters to build the future of writing](https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd)
+- [PHP 3.0 Final is out (1998)](http://web.archive.org/web/19980701120538/http://www.php.net/)
+- [Microsoft and Apple wage war on gadget right-to-repair laws](https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws)
+- [Substack (YC W18) is hiring technical recruiters to build the future of writing](https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd)
 - [Judge in Fortnite case holds Tim Cook's feet to the fire](https://www.protocol.com/apple-epic-trial/tim-cook-apple-epic-grilled)
 - [“Put that in your pipe and smoke it”](https://wordhistories.net/2020/01/06/put-pipe-and-smoke/)
-- [FlutterFlow: Low-code Flutter apps](https://flutterflow.io/launch)
-- [The Cicada's Love Affair with Prime Numbers (2013)](https://www.newyorker.com/tech/annals-of-technology/the-cicadas-love-affair-with-prime-numbers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
