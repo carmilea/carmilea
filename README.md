@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DOS SMB Client Performance](http://www.os2museum.com/wp/dos-smb-client-performance/)
 - [Sublime Text 4](https://www.sublimetext.com/blog/articles/sublime-text-4)
 - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
-- [U.S. Treasury seeks reporting of cryptocurrency transfers](https://www.reuters.com/business/finance/us-treasury-says-can-shrink-7-trillion-tax-gap-by-10-over-next-decade-2021-05-20/)
 - [Show HN: Ninjabot – A fast cryptocurrency bot implemented in Go](https://github.com/rodrigo-brito/ninjabot)
 - [Holes in the WiFi](https://lwn.net/Articles/856044/)
 <!-- BLOG-POST-LIST:END -->
