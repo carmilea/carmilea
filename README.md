@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [France's 18-year-olds given €300 culture pass](https://www.bbc.com/news/world-europe-57198737)
+- [Twitter previews Ticketed Spaces, Apple/Google + Twitter take 44% cut](https://www.theverge.com/2021/5/21/22447328/twitter-ticketed-spaces-monetization-stripe-approval)
+- [Ask HN: How much do you contemplate per week?](https://news.ycombinator.com/item?id=27235288)
+- [Dancing robots you can fling](https://robotics.ovh/)
 - [Counting the number of matching characters in two ASCII strings](https://lemire.me/blog/2021/05/21/counting-the-number-of-matching-characters-in-two-ascii-strings/)
-- [Setting the record straight on Freenode [pdf]](https://github.com/freenode/web-7.0/raw/main/static/files/on-freenode.pdf)
-- [2022 Ford F-150 Lightning](https://www.ford.com/trucks/f150/f150-lightning/2022/)
-- [High-Speed Internet at a Crossroads](https://news.harvard.edu/gazette/story/2021/05/computer-science-expert-reviews-a-pandemic-stressed-internet/)
-- [Launch HN: Journey (YC W21) – a better tool to buy and sell software](https://news.ycombinator.com/item?id=27233718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
