@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US to ramp up tracking of domestic extremism on social media](https://apnews.com/article/media-social-media-race-and-ethnicity-racial-injustice-government-and-politics-d4c8d4cc7bc7789ffa77071458ade3fa)
-- [FlutterFlow: Low Code Flutter Apps](https://flutterflow.io/launch)
-- [Guys to Avoid on Wall Street](https://www.cnbc.com/id/41759013/)
-- [Let’s Talk About Hot Tub Streams](https://blog.twitch.tv/en/2021/05/21/lets-talk-about-hot-tub-streams/)
-- [The Female Supercomputer Designer Who Inspired Steve Jobs](https://www.fastcompany.com/90151279/the-woman-supercomputer-designer-who-inspired-steve-jobs)
+- [Substack is hiring technical recruiters to build the future of writing](https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd)
+- [Judge in Fortnite case holds Tim Cook's feet to the fire](https://www.protocol.com/apple-epic-trial/tim-cook-apple-epic-grilled)
+- [“Put that in your pipe and smoke it”](https://wordhistories.net/2020/01/06/put-pipe-and-smoke/)
+- [FlutterFlow: Low-code Flutter apps](https://flutterflow.io/launch)
+- [The Cicada's Love Affair with Prime Numbers (2013)](https://www.newyorker.com/tech/annals-of-technology/the-cicadas-love-affair-with-prime-numbers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
