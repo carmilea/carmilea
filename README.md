@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [France's 18-year-olds given €300 culture pass](https://www.bbc.com/news/world-europe-57198737)
-- [Twitter previews Ticketed Spaces, Apple/Google + Twitter take 44% cut](https://www.theverge.com/2021/5/21/22447328/twitter-ticketed-spaces-monetization-stripe-approval)
-- [Ask HN: How much do you contemplate per week?](https://news.ycombinator.com/item?id=27235288)
-- [Dancing robots you can fling](https://robotics.ovh/)
-- [Counting the number of matching characters in two ASCII strings](https://lemire.me/blog/2021/05/21/counting-the-number-of-matching-characters-in-two-ascii-strings/)
+- [Ditto (YC W20) Is Hiring Full-Stack Engineers](https://www.dittowords.com/careers)
+- [Citizen CEO offered to personally fund LA arson manhunt for the wrong person](https://www.theverge.com/2021/5/21/22447446/citizen-app-internal-slack-palisades-fire-arson-bounty-manhunt-los-angeles)
+- [Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1)](https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/)
+- [Voice2json: Offline speech and intent recognition on Linux](https://voice2json.org/)
+- [Download free public domain paintings, posters and illustrations](https://www.artvee.com/?)
 <!-- BLOG-POST-LIST:END -->
 
 ---
