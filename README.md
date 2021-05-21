@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas gov knew of natural gas shortages days before blackout, blamed wind anyway](https://arstechnica.com/tech-policy/2021/05/texas-gov-knew-of-natural-gas-shortages-days-before-blackout-blamed-wind-anyway/)
-- [Bitcoin is 'a giant pyramid scheme,' says Pinboard founder](https://www.youtube.com/watch?v=igOmWeHMunw)
-- [KELM: Integrating Knowledge Graphs with Language Model Pre-Training Corpora](https://ai.googleblog.com/2021/05/kelm-integrating-knowledge-graphs-with.html)
-- [Linux 5.13 Reverts and Fixes the Problematic University of Minnesota Patches](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.13-UMN-Fixes)
-- [Companies excluding Coloradans from remote jobs to avoid sharing salary ranges](https://www.reddit.com/r/Denver/comments/nh7s8f/but_not_in_colorado/)
+- [Counting the number of matching characters in two ASCII strings](https://lemire.me/blog/2021/05/21/counting-the-number-of-matching-characters-in-two-ascii-strings/)
+- [Setting the record straight on Freenode [pdf]](https://github.com/freenode/web-7.0/raw/main/static/files/on-freenode.pdf)
+- [2022 Ford F-150 Lightning](https://www.ford.com/trucks/f150/f150-lightning/2022/)
+- [High-Speed Internet at a Crossroads](https://news.harvard.edu/gazette/story/2021/05/computer-science-expert-reviews-a-pandemic-stressed-internet/)
+- [Launch HN: Journey (YC W21) – a better tool to buy and sell software](https://news.ycombinator.com/item?id=27233718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
