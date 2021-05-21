@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft releases SimuLand, a lab environment to simulate attacker tradecraft](https://therecord.media/microsoft-releases-simuland-a-lab-environment-to-simulate-attacker-tradecraft/)
+- [The Anus Is an Evolutionary Marvel](https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/)
+- [SimuLand, a lab environment to simulate attacker tradecraft](https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/)
 - [SimpleVisor – Intel VT-x hypervisor in 500 lines of C code](https://ionescu007.github.io/SimpleVisor/)
 - [Thunderbird stored OpenPGP secret keys without master password protection](https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956)
 - [Red Cross honors Igiugig woman for helping light runway during nighttime medevac](https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/)
-- [Rainforest (YC S12) Is Hiring Remote Engineers, Designers and CSM](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN)
 <!-- BLOG-POST-LIST:END -->
 
 ---
