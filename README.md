@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux 5.13 Reverts and Fixes the Problematic University of Minnesota Patches](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.13-UMN-Fixes)
 - [Companies excluding Coloradans from remote jobs to avoid sharing salary ranges](https://www.reddit.com/r/Denver/comments/nh7s8f/but_not_in_colorado/)
 - [Google has launched this free course on CSS](https://web.dev/learn/css/)
 - [Circle Medical (YC S15) Is Hiring FullStack Engineers to Build Tools for Doctors](https://www.ycombinator.com/companies/circle-medical/jobs/DcHMahZUa-fullstack-engineer)
 - [CSIRO's Data61 Dismantles SeL4 Team](https://twitter.com/GernotHeiser/status/1395517697689931780)
-- [Millions of electric cars are coming. What happens to all the dead batteries?](https://www.sciencemag.org/news/2021/05/millions-electric-cars-are-coming-what-happens-all-dead-batteries)
 <!-- BLOG-POST-LIST:END -->
 
 ---
