@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Animated GIF that uses 360MB of memory on x86, on Apple Silicon it takes 35.51GB](https://twitter.com/ccgus/status/1395145361136644098)
 - [DOS SMB Client Performance](http://www.os2museum.com/wp/dos-smb-client-performance/)
 - [Sublime Text 4](https://www.sublimetext.com/blog/articles/sublime-text-4)
 - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 - [Show HN: Ninjabot – A fast cryptocurrency bot implemented in Go](https://github.com/rodrigo-brito/ninjabot)
-- [Holes in the WiFi](https://lwn.net/Articles/856044/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
