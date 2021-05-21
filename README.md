@@ -53,8 +53,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [US to ramp up tracking of domestic extremism on social media](https://apnews.com/article/media-social-media-race-and-ethnicity-racial-injustice-government-and-politics-d4c8d4cc7bc7789ffa77071458ade3fa)
 - [FlutterFlow: Low Code Flutter Apps](https://flutterflow.io/launch)
-- [Nassim Taleb Is Possibly Wrong about Wealth and IQ](https://greyenlightenment.com/2019/08/31/wealth-and-iq-part-3-continued/)
-- [SQLite in Production with WAL](https://victoria.dev/blog/sqlite-in-production-with-wal/)
+- [Guys to Avoid on Wall Street](https://www.cnbc.com/id/41759013/)
+- [Let’s Talk About Hot Tub Streams](https://blog.twitch.tv/en/2021/05/21/lets-talk-about-hot-tub-streams/)
 - [The Female Supercomputer Designer Who Inspired Steve Jobs](https://www.fastcompany.com/90151279/the-woman-supercomputer-designer-who-inspired-steve-jobs)
 <!-- BLOG-POST-LIST:END -->
 
