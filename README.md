@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Antibody levels highly predictive of immune protection from symptomatic Covid](https://www.nature.com/articles/s41591-021-01377-8)
+- [GiveCampus (YC S15) is hiring remote senior engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Common data model mistakes made by startups](https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html)
+- [Rust heads into the kernel?](https://lwn.net/Articles/853423/)
 - [An early look at Postgres 14 performance and monitoring improvements](https://pganalyze.com/blog/postgres-14-performance-monitoring)
-- [Floppinux – An Embedded Linux on a Single Floppy](https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/)
-- [Paper linking frequency of search terms to violence against women retracted](https://retractionwatch.com/2021/05/21/paper-linking-frequency-of-google-search-terms-to-violence-against-women-retracted)
-- [Can fake news detection be accountable? [pdf]](https://perso.uclouvain.be/fstandae/PUBLIS/265.pdf)
-- [How to Get Rich without Being Lucky (2019)](https://nav.al/rich)
 <!-- BLOG-POST-LIST:END -->
 
 ---
