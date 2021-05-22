@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [He was executed in 2017. Someone else's DNA has been found on the murder weapon](https://www.cnn.com/2021/05/21/us/ledell-lee-dna-investigation/index.html)
-- [No, Science Clearly Shows That Covid-19 Wasn’t Leaked from a Wuhan Lab](https://www.forbes.com/sites/startswithabang/2021/05/20/no-science-clearly-shows-that-covid-19-wasnt-leaked-from-a-wuhan-lab/)
-- [U.S. seizes $90k from man who sold footage of U.S. Capitol riot](https://www.reuters.com/world/us/us-seizes-90000-man-who-sold-footage-us-capitol-riot-2021-05-21/)
 - [Can fake news detection be accountable? [pdf]](https://perso.uclouvain.be/fstandae/PUBLIS/265.pdf)
-- [How to Get Rich](https://nav.al/rich)
+- [Pachyderm (YC W15) Is Hiring](https://www.pachyderm.com/careers/#positions)
+- [Compositor: A database of eighteenth-century printers’ ornaments](https://compositor.bham.ac.uk/)
+- [The problem with ‘follow your dream’](https://science.sciencemag.org/content/372/6544/874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
