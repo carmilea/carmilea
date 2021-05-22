@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inflation Adjusted Hacker News](https://instruments.digital/inflation-adjusted-hn/)
+- [KolibriOS](http://www.kolibrios.org/en/)
 - [Show HN: Query C++ codebases using SQLite](https://github.com/frabert/ClangQL)
 - [Nvidia DatasetGAN, Efficient Labeled Data for AI Training](https://nv-tlabs.github.io/datasetGAN/)
 - [Bitcoin Miners Are Giving New Life to Old Fossil-Fuel Power Plants](https://www.wsj.com/articles/bitcoin-miners-are-giving-new-life-to-old-fossil-fuel-power-plants-11621594803)
-- [Antibody levels highly predictive of immune protection from symptomatic Covid](https://www.nature.com/articles/s41591-021-01377-8)
-- [Generate RSS feeds with grep(1), sed(1), and Awk(1)](https://www.romanzolotarev.com/rssg.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
