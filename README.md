@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Should Google just become a VC fund?](https://carter.sprigings.com/google-vc-fund)
+- [My Road to Erlang (2008)](https://prog21.dadgum.com/22.html)
+- [Are there software companies with a good life/work balance?](https://news.ycombinator.com/item?id=27250546)
+- [6th Grader Expelled After Zoom Provided Possibly Inaccurate IP Address](https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/)
 - [Changing your SSH server's listen address every 30 seconds based on TOTP](https://github.com/mikroskeem/tosh)
 - [Show HN: I hate adding updating to my apps, so I created Pakkly](https://pakkly.com)
-- [Show HN: Inflation-adjusted Hacker News](https://instruments.digital/inflation-adjusted-hn/)
-- [KolibriOS](http://www.kolibrios.org/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
