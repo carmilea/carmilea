@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Being Poor (2005)](https://whatever.scalzi.com/2005/09/03/being-poor/)
+- [Building Outer Wonders for Linux](https://utopixel.games/en/blog/building-outer-wonders-for-linux/)
+- [Fabrice Bellard – NNCP: Lossless Data Compression with Neural Networks](https://bellard.org/nncp/)
+- [How to Tell a Job Offer from an ID Theft Trap](https://krebsonsecurity.com/2021/05/how-to-tell-a-job-offer-from-an-id-theft-trap/)
 - [The intestinal microbiome of latrine sediments from two medieval cities (2020)](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0576)
-- [A century ago Ludwig Wittgenstein changed philosophy for ever](https://www.economist.com/books-and-arts/2021/05/22/a-century-ago-ludwig-wittgenstein-changed-philosophy-for-ever)
-- [Portable Python 3.9.5 for Windows (USB key, ext. drive) for schools/companies](https://www.portabledevapps.net/)
-- [Show HN: I wrote a free Mac app to OCR any text on screen](https://github.com/schappim/macOCR)
-- [A new replication crisis: Research that is less likely to be true is cited more](https://ucsdnews.ucsd.edu/pressrelease/a-new-replication-crisis-research-that-is-less-likely-be-true-is-cited-more)
 <!-- BLOG-POST-LIST:END -->
 
 ---
