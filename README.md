@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Clinical Laboratorians Should Embrace the R Programming Language](https://www.aacc.org/cln/articles/2020/april/why-clinical-laboratorians-should-embrace-the-r-programming-language)
 - [Robot paramedic carries out CPR in ambulance in UK first](https://eandt.theiet.org/content/articles/2021/05/robot-paramedic-carries-out-cpr-in-ambulance-in-uk-first/)
 - [Being Poor (2005)](https://whatever.scalzi.com/2005/09/03/being-poor/)
 - [How Iran Uses Bitcoin Mining to Evade Sanctions and “Export” Oil](https://www.elliptic.co/blog/how-iran-uses-bitcoin-mining-to-evade-sanctions)
 - [Building Outer Wonders for Linux](https://utopixel.games/en/blog/building-outer-wonders-for-linux/)
-- [Fabrice Bellard – NNCP: Lossless Data Compression with Neural Networks](https://bellard.org/nncp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
