@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Inflation Adjusted Hacker News](https://instruments.digital/inflation-adjusted-hn/)
+- [Changing your SSH server's listen address every 30 seconds based on TOTP](https://github.com/mikroskeem/tosh)
+- [Show HN: I hate adding updating to my apps, so I created Pakkly](https://pakkly.com)
+- [Show HN: Inflation-adjusted Hacker News](https://instruments.digital/inflation-adjusted-hn/)
 - [KolibriOS](http://www.kolibrios.org/en/)
 - [Show HN: Query C++ codebases using SQLite](https://github.com/frabert/ClangQL)
-- [Nvidia DatasetGAN, Efficient Labeled Data for AI Training](https://nv-tlabs.github.io/datasetGAN/)
-- [Bitcoin Miners Are Giving New Life to Old Fossil-Fuel Power Plants](https://www.wsj.com/articles/bitcoin-miners-are-giving-new-life-to-old-fossil-fuel-power-plants-11621594803)
 <!-- BLOG-POST-LIST:END -->
 
 ---
