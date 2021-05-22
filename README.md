@@ -55,7 +55,7 @@
 - [Can fake news detection be accountable? [pdf]](https://perso.uclouvain.be/fstandae/PUBLIS/265.pdf)
 - [Pachyderm (YC W15) Is Hiring](https://www.pachyderm.com/careers/#positions)
 - [Compositor: A database of eighteenth-century printers’ ornaments](https://compositor.bham.ac.uk/)
-- [The problem with ‘follow your dream’](https://science.sciencemag.org/content/372/6544/874)
+- [Rich people do have trouble understanding what it's like to be poor](https://www.salon.com/2021/05/18/rich-people-actually-do-have-trouble-understanding-what-its-like-to-be-poor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
