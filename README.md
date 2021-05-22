@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pachyderm (YC W15) Is Hiring](https://www.pachyderm.com/careers/#positions)
-- [The problem with ‘follow your dream’](https://science.sciencemag.org/content/372/6544/874)
-- [Rich people do have trouble understanding what it's like to be poor](https://www.salon.com/2021/05/18/rich-people-actually-do-have-trouble-understanding-what-its-like-to-be-poor/)
-- [Plotinus: A searchable command palette in every modern GTK+ application](https://github.com/p-e-w/plotinus)
-- [Why Clinical Laboratorians Should Embrace the R Programming Language](https://www.aacc.org/cln/articles/2020/april/why-clinical-laboratorians-should-embrace-the-r-programming-language)
+- [He was executed in 2017. Someone else's DNA has been found on the murder weapon](https://www.cnn.com/2021/05/21/us/ledell-lee-dna-investigation/index.html)
+- [No, Science Clearly Shows That Covid-19 Wasn’t Leaked from a Wuhan Lab](https://www.forbes.com/sites/startswithabang/2021/05/20/no-science-clearly-shows-that-covid-19-wasnt-leaked-from-a-wuhan-lab/)
+- [U.S. seizes $90k from man who sold footage of U.S. Capitol riot](https://www.reuters.com/world/us/us-seizes-90000-man-who-sold-footage-us-capitol-riot-2021-05-21/)
+- [Can fake news detection be accountable? [pdf]](https://perso.uclouvain.be/fstandae/PUBLIS/265.pdf)
+- [How to Get Rich](https://nav.al/rich)
 <!-- BLOG-POST-LIST:END -->
 
 ---
