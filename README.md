@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [He was executed in 2017. Someone else's DNA has been found on the murder weapon](https://www.cnn.com/2021/05/21/us/ledell-lee-dna-investigation/index.html)
+- [An early look at Postgres 14 performance and monitoring improvements](https://pganalyze.com/blog/postgres-14-performance-monitoring)
+- [Floppinux – An Embedded Linux on a Single Floppy](https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/)
+- [Paper linking frequency of search terms to violence against women retracted](https://retractionwatch.com/2021/05/21/paper-linking-frequency-of-google-search-terms-to-violence-against-women-retracted)
 - [Can fake news detection be accountable? [pdf]](https://perso.uclouvain.be/fstandae/PUBLIS/265.pdf)
-- [Pachyderm (YC W15) Is Hiring](https://www.pachyderm.com/careers/#positions)
-- [Compositor: A database of eighteenth-century printers’ ornaments](https://compositor.bham.ac.uk/)
-- [Rich people do have trouble understanding what it's like to be poor](https://www.salon.com/2021/05/18/rich-people-actually-do-have-trouble-understanding-what-its-like-to-be-poor/)
+- [How to Get Rich without Being Lucky (2019)](https://nav.al/rich)
 <!-- BLOG-POST-LIST:END -->
 
 ---
