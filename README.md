@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Should Google just become a VC fund?](https://carter.sprigings.com/google-vc-fund)
 - [Changing your SSH server's listen address every 30 seconds based on TOTP](https://github.com/mikroskeem/tosh)
 - [Show HN: I hate adding updating to my apps, so I created Pakkly](https://pakkly.com)
 - [Show HN: Inflation-adjusted Hacker News](https://instruments.digital/inflation-adjusted-hn/)
 - [KolibriOS](http://www.kolibrios.org/en/)
-- [Show HN: Query C++ codebases using SQLite](https://github.com/frabert/ClangQL)
 <!-- BLOG-POST-LIST:END -->
 
 ---
