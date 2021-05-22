@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Query C++ codebases using SQLite](https://github.com/frabert/ClangQL)
+- [Nvidia DatasetGAN, Efficient Labeled Data for AI Training](https://nv-tlabs.github.io/datasetGAN/)
+- [Bitcoin Miners Are Giving New Life to Old Fossil-Fuel Power Plants](https://www.wsj.com/articles/bitcoin-miners-are-giving-new-life-to-old-fossil-fuel-power-plants-11621594803)
 - [Antibody levels highly predictive of immune protection from symptomatic Covid](https://www.nature.com/articles/s41591-021-01377-8)
-- [GiveCampus (YC S15) is hiring remote senior engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [Common data model mistakes made by startups](https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html)
-- [Rust heads into the kernel?](https://lwn.net/Articles/853423/)
-- [An early look at Postgres 14 performance and monitoring improvements](https://pganalyze.com/blog/postgres-14-performance-monitoring)
+- [Generate RSS feeds with grep(1), sed(1), and Awk(1)](https://www.romanzolotarev.com/rssg.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
