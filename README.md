@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wayland: “Move fast and break things” as a moral imperative](https://rentry.co/pa2a3)
+- [Trabant: The East German car remains iconic](https://www.dw.com/en/trabant-the-east-german-car-remains-iconic/a-41251024)
 - [1B$+ seller pulled from Amazon for fake reviews](https://www.amazon.com/stores/Aukey/Aukey/page/B4F70606-6B67-46A0-BD18-938B37E59982)
+- [Did a weak WiFi password lead police to our door?](https://www.bbc.co.uk/news/technology-57156799)
 - [Zeus (YC S11) Is Hiring a Senior Product Designer to Build the Future of FlexLiving](https://news.ycombinator.com/item?id=27252965)
-- [Facebook still ‘secretly’ tracks your iPhone](https://www.forbes.com/sites/zakdoffman/2021/05/22/apple-user-warning-how-to-stop-facebook-secretly-tracking-your-iphone-ipad/)
-- [In 2013 Rockchip engineers found that the Gregorian calendar contained flaws](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716)
-- [SpaceX ISS Docking Simulator Autopilot in Elixir](https://github.com/obivan/autopilot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
