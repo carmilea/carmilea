@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Monetizing Open-source is problematic](https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic)
+- [HAProxy 2.4](https://www.haproxy.com/blog/announcing-haproxy-2-4/)
+- [Japanese Technology Shaped Dance Music – Attack Magazine](https://www.attackmagazine.com/features/long-read/how-japanese-technology-shaped-dance-music/)
 - [My Road to Erlang (2008)](https://prog21.dadgum.com/22.html)
 - [Sixth grader expelled after Zoom provided possibly inaccurate IP address](https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/)
-- [Tosh: Changing your SSH server's listen address every 30 seconds based on TOTP](https://github.com/mikroskeem/tosh)
-- [Show HN: I hate adding updating to my apps, so I created Pakkly](https://pakkly.com)
-- [Show HN: Inflation-adjusted Hacker News](https://instruments.digital/inflation-adjusted-hn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
