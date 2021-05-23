@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dorodango: The Japanese Art of Making Shiny Mud Balls (2019)](https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/)
-- [Triplebyte now showing profiles by default without consent](https://news.ycombinator.com/item?id=27255742)
-- [Saying Goodbye to Typo CI](https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci)
-- [Belarus 'diverts Ryanair flight to arrest journalist'](https://www.bbc.co.uk/news/world-europe-57219860)
-- [ESA advances its plan for satellites around the Moon](https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html)
+- [C++ Workflow: C++ Parallel Computing and Asynchronous Networking Engine](https://github.com/sogou/workflow)
+- [The Muse (YC W12) Is Hiring a Senior Platform Engineer](https://jobs.lever.co/themuse/f7bfe873-0ff0-487b-8544-1c57c898c996?lever-origin=applied&lever-source%5B%5D=YC)
+- [Teardown of a PC Power Supply](https://www.righto.com/2021/05/teardown-of-pc-power-supply.html)
+- [Belarus diverts Ryanair flight to arrest journalist](https://www.bbc.com/news/world-europe-57219860)
+- [Show HN: CandyGraph, a flexible, fast-by-default WebGL plotting library](https://github.com/wwwtyro/candygraph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
