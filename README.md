@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I prefer making useless stuff](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
+- [Show HN: Direct manipulation flowchart editor without the mouse](https://www.knotend.com)
 - [C++ Workflow: C++ Parallel Computing and Asynchronous Networking Engine](https://github.com/sogou/workflow)
 - [The Muse (YC W12) Is Hiring a Senior Platform Engineer](https://jobs.lever.co/themuse/f7bfe873-0ff0-487b-8544-1c57c898c996?lever-origin=applied&lever-source%5B%5D=YC)
 - [Teardown of a PC Power Supply](https://www.righto.com/2021/05/teardown-of-pc-power-supply.html)
-- [Belarus diverts Ryanair flight to arrest journalist](https://www.bbc.com/news/world-europe-57219860)
-- [Show HN: CandyGraph, a flexible, fast-by-default WebGL plotting library](https://github.com/wwwtyro/candygraph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
