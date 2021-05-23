@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Authorities are looking to close the gap on crypto unhosted wallets](https://cointelegraph.com/news/authorities-are-looking-to-close-the-gap-on-unhosted-wallets)
-- [Teach Yourself Demoscene in 14 Days](https://github.com/psenough/teach_yourself_demoscene_in_14_days)
-- [U.S. has almost 500k job openings in cybersecurity](https://www.cbsnews.com/news/cybersecurity-job-openings-united-states/)
-- [One Man’s Fight for the Right to Repair Broken MacBooks](https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/)
-- [Show HN: A simple blogging platform I built out of frustration with other tools](https://www.dynablogger.com/)
+- [Dorodango: The Japanese Art of Making Shiny Mud Balls (2019)](https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/)
+- [Triplebyte now showing profiles by default without consent](https://news.ycombinator.com/item?id=27255742)
+- [Saying Goodbye to Typo CI](https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci)
+- [Belarus 'diverts Ryanair flight to arrest journalist'](https://www.bbc.co.uk/news/world-europe-57219860)
+- [ESA advances its plan for satellites around the Moon](https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
