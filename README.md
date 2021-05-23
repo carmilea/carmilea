@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Preparing your game for deterministic netcode](https://yal.cc/preparing-your-game-for-deterministic-netcode/)
 - [Fujitsu (né Siemens-Nixdorf) BS2000 Operating System Manuals](https://bs2manuals.ts.fujitsu.com/index_en)
+- [Tim Cook’s Fortnite trial testimony was unexpectedly revealing](https://www.theverge.com/2021/5/22/22448139/tim-cook-epic-fortnite-trial-testimony-privacy-iap-antitrust)
 - [Vector Tiles to GeoJSON](https://github.com/LilithWittmann/VectorTileExporter)
 - [Trabant: The East German car remains iconic](https://www.dw.com/en/trabant-the-east-german-car-remains-iconic/a-41251024)
-- [1B$+ seller pulled from Amazon for fake reviews](https://www.amazon.com/stores/Aukey/Aukey/page/B4F70606-6B67-46A0-BD18-938B37E59982)
-- [Did a weak WiFi password lead police to our door?](https://www.bbc.co.uk/news/technology-57156799)
 <!-- BLOG-POST-LIST:END -->
 
 ---
