@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Trouble with Capitalism](https://edwardfeser.blogspot.com/2021/05/the-trouble-with-capitalism.html)
 - [My Road to Erlang (2008)](https://prog21.dadgum.com/22.html)
-- [Ask HN: Are there software companies with a good life/work balance?](https://news.ycombinator.com/item?id=27250546)
 - [Sixth grader expelled after Zoom provided possibly inaccurate IP address](https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/)
 - [Tosh: Changing your SSH server's listen address every 30 seconds based on TOTP](https://github.com/mikroskeem/tosh)
 - [Show HN: I hate adding updating to my apps, so I created Pakkly](https://pakkly.com)
