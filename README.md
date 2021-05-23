@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Teach Yourself Demoscene in 14 Days](https://github.com/psenough/teach_yourself_demoscene_in_14_days)
+- [One Man’s Fight for the Right to Repair Broken MacBooks](https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/)
+- [Show HN: A simple blogging platform I built out of frustration with other tools](https://www.dynablogger.com/)
+- [Scion – A Novel Internet Architecture](https://labs.ripe.net/author/hausheer/scion-a-novel-internet-architecture/)
 - [Bitmovin (YC S15) Is Hiring a CMO](https://bitmovin.com/careers/5062830002/?gh_jid=5062830002)
-- [I open sourced a game I just released on Steam, written in Lua](https://github.com/a327ex/SNKRX)
-- [For soccer players, the less brain they use, the better for penalty kicks](https://www.cbc.ca/radio/quirks/may-15-california-condor-genetics-a-strange-star-goes-supernova-don-t-think-just-kick-and-more-1.6025290/for-soccer-players-the-less-brain-they-use-the-better-for-penalty-kicks-1.6025297)
-- [Preparing your game for deterministic netcode](https://yal.cc/preparing-your-game-for-deterministic-netcode/)
-- [Fujitsu BS2000 Operating System Manuals](https://bs2manuals.ts.fujitsu.com/index_en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
