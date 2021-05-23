@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin (YC S15) Is Hiring a CMO](https://bitmovin.com/careers/5062830002/?gh_jid=5062830002)
+- [I open sourced a game I just released on Steam, written in Lua](https://github.com/a327ex/SNKRX)
+- [For soccer players, the less brain they use, the better for penalty kicks](https://www.cbc.ca/radio/quirks/may-15-california-condor-genetics-a-strange-star-goes-supernova-don-t-think-just-kick-and-more-1.6025290/for-soccer-players-the-less-brain-they-use-the-better-for-penalty-kicks-1.6025297)
 - [Preparing your game for deterministic netcode](https://yal.cc/preparing-your-game-for-deterministic-netcode/)
-- [Fujitsu (né Siemens-Nixdorf) BS2000 Operating System Manuals](https://bs2manuals.ts.fujitsu.com/index_en)
-- [Tim Cook’s Fortnite trial testimony was unexpectedly revealing](https://www.theverge.com/2021/5/22/22448139/tim-cook-epic-fortnite-trial-testimony-privacy-iap-antitrust)
-- [Vector Tiles to GeoJSON](https://github.com/LilithWittmann/VectorTileExporter)
-- [Trabant: The East German car remains iconic](https://www.dw.com/en/trabant-the-east-german-car-remains-iconic/a-41251024)
+- [Fujitsu BS2000 Operating System Manuals](https://bs2manuals.ts.fujitsu.com/index_en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
