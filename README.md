@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zeus (YC S11) Is Hiring a Senior Product Designer to Build the Future of FlexLiving](https://news.ycombinator.com/item?id=27252965)
+- [Facebook Still ‘Secretly’ Tracks Your iPhone–This Is How to Stop It](https://www.forbes.com/sites/zakdoffman/2021/05/22/apple-user-warning-how-to-stop-facebook-secretly-tracking-your-iphone-ipad/)
+- [In 2013 Rockchip engineers found that the Gregorian calendar contained flaws](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716)
 - [Software Carpentry: Teaching basic lab skills for research computing](https://software-carpentry.org/)
-- [Video uploads now available across GitHub](https://github.blog/2021-05-13-video-uploads-available-github/)
-- [HAProxy 2.4](https://www.haproxy.com/blog/announcing-haproxy-2-4/)
-- [Non-native speakers navigate the world of 'good' and 'bad' English](https://www.npr.org/sections/goatsandsoda/2021/04/25/989765565/tower-of-babble-non-native-speakers-navigate-the-world-of-good-and-bad-english)
-- [My Road to Erlang (2008)](https://prog21.dadgum.com/22.html)
+- [SpaceX ISS Docking Simulator Autopilot in Elixir](https://github.com/obivan/autopilot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
