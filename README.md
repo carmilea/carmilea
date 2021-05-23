@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tether: The Story So Far (2019)](https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/)
-- [Monetizing Open-source is problematic](https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic)
+- [Software Carpentry: Teaching basic lab skills for research computing](https://software-carpentry.org/)
+- [Video uploads now available across GitHub](https://github.blog/2021-05-13-video-uploads-available-github/)
 - [HAProxy 2.4](https://www.haproxy.com/blog/announcing-haproxy-2-4/)
-- [Japanese Technology Shaped Dance Music – Attack Magazine](https://www.attackmagazine.com/features/long-read/how-japanese-technology-shaped-dance-music/)
+- [Non-native speakers navigate the world of 'good' and 'bad' English](https://www.npr.org/sections/goatsandsoda/2021/04/25/989765565/tower-of-babble-non-native-speakers-navigate-the-world-of-good-and-bad-english)
 - [My Road to Erlang (2008)](https://prog21.dadgum.com/22.html)
 <!-- BLOG-POST-LIST:END -->
 
