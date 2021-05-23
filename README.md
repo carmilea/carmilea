@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rustc_codegen_GCC can now run libcore’s tests and pass most of them](https://blog.antoyo.xyz/rustc_codegen_gcc-run-core-tests)
+- [Save 500€/Year Switching from Mailchimp to Open Source Mailtrain and AWS SES](https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/)
 - [Cray-2 Memories [pdf]](http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf)
-- [A Ryanair Flight Carrying an Opposition Journalist Is Forced to Land in Belarus](https://www.npr.org/2021/05/23/999603575/ryanair-flight-carrying-opposition-journalist-forced-to-land-in-belarus)
 - [Neural Network Enabled Filmmaking](https://www.flawlessai.com/)
 - [The Limits to Blockchain Scalability](https://vitalik.ca/general/2021/05/23/scaling.html)
-- [Why I prefer making useless stuff](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
