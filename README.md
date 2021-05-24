@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WWDC21](https://developer.apple.com/wwdc21/)
-- [U.S. Backs 15% Global Minimum Tax to Curb Profit Shifting Overseas](https://www.nytimes.com/2021/05/20/business/economy/global-minimum-tax-corporations.html)
-- [Launch HN: Curvenote (YC W21) – Collaborative writing tools for science](https://news.ycombinator.com/item?id=27265380)
-- [What lies beneath: Evidence from leaked account data on offshore banking use](https://www.brookings.edu/research/what-lies-beneath-evidence-from-leaked-account-data-on-how-elites-use-offshore-banking/)
-- [Microsoft has turned the Surface Duo into a handheld Xbox](https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen)
+- [Uber's Crazy YOLO App Rewrite, from the Front Seat](https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/)
+- [Writing Pythonic Rust](http://www.cmyr.net/blog/rust-python-learnings.html)
+- [A journey to io_uring, AIO and modern storage devices](https://clickhouse.tech/blog/en/2021/reading-from-external-memory/)
+- [EasyPost (YC S13) Is Hiring (Remote)](https://www.easypost.com/careers)
+- [Evidence-Based Software Engineering based on publicly available data](http://www.knosof.co.uk/ESEUR/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
