@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Engineering managers; what are the problems you face?](https://news.ycombinator.com/item?id=27264560)
+- [Show HN: Flashcards to learn AWS skills](https://cloudbite.attejuvonen.fi/)
 - [‘I’m way older, but I’m still doing it’: Tony Hawk on his skateboarding legacy](https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview)
-- [Tesla is found guilty of throttling charging speed](https://electrek.co/2021/05/24/tesla-found-guilty-throttling-charging-speed-asked-pay-16000-thousands-owners/)
-- [Methods for Array Initialization in Rust](https://www.joshmcguigan.com/blog/array-initialization-rust/)
-- [Signadot (YC W20) Is Hiring Founding Back End Engineers](https://www.workatastartup.com/jobs/42298)
-- [Eternally five years away? No, batteries are improving under your nose](https://arstechnica.com/science/2021/05/eternally-five-years-away-no-batteries-are-improving-under-your-nose/)
+- [How Intuitive Are Macs Really?](https://jeremyaboyd.com/post/how-intuitive-are-macs-really-)
+- [Methods for Array Initialization in Rust (2018)](https://www.joshmcguigan.com/blog/array-initialization-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
