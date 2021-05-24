@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HashCow, BTC.TOP have halted China operations after Beijing crackdown on Bitcoin](https://www.reuters.com/world/china/crypto-miners-halt-china-business-after-beijings-crackdown-bitcoin-dives-2021-05-24/)
 - [A Japanese company cut 80% of the time needed to manually count pearls](https://countthings.com/case-studies/0001)
 - [Fedora has significantly fumbled DKMS handling for Linux kernel modules](https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraWeakUpdatesFailure)
 - [Claude Shannon: Tinkerer, Prankster, and Father of Information Theory (2016)](https://spectrum.ieee.org/tech-history/cyberspace/claude-shannon-tinkerer-prankster-and-father-of-information-theory)
 - [A new way to approach Wayback Machine](https://github.com/wabarc/wayback)
+- [Nacker Hews](http://www.nackerhews.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
