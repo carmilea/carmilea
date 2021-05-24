@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [If Apple is the only organisation defending our privacy, it is time to worry](https://www.theguardian.com/commentisfree/2021/may/22/if-apple-is-the-only-organisation-capable-of-defending-our-privacy-it-really-is-time-to-worry)
-- [Nacker Hews](http://www.nackerhews.com/)
 - [Useful iOS Things GitHub Repository](https://github.com/jphong1111/Useful_Swift)
 - [The Unwritten Contract of Solid State Drives (2017)](https://dl.acm.org/doi/10.1145/3064176.3064187)
 - [Plivo (YC S12) Is Hiring a VP of Engineering Based in India](https://jobs.lever.co/plivo/35b5dd7e-8f4c-4a1f-bdee-9d4002645c24)
+- [Instanced Line Rendering Using WebGL](https://wwwtyro.net/2019/11/18/instanced-lines.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
