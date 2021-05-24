@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Signadot (YC W20) Is Hiring Founding Back End Engineers](https://www.workatastartup.com/jobs/42298)
+- [Email Validation Logic Is Wrong](https://www.netmeister.org/blog/email.html)
+- [Status Anxiety as a Service](https://noahpinion.substack.com/p/status-anxiety-as-a-service)
 - [Temptation of the Apple: Dolphin on macOS M1](https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/)
 - [Why is the Moscow Metro so grandiose compared to other Soviet architecture](https://www.reddit.com/r/AskHistorians/comments/lz3rj1/why_did_the_ussr_build_such_grandiose_designs_and/gq09pvf/)
-- [Cheese photo leads to Liverpool drug dealer's downfall](https://www.bbc.co.uk/news/uk-england-merseyside-57226165)
-- [Tardigrades survive impacts of up to 825 meters per second](https://phys.org/news/2021-05-tardigrades-survive-impacts-meters.html)
-- [O'Leary: Forced landing in Belarus was 'state-sponsored hijacking'](https://www.newstalk.com/news/oleary-forced-landing-in-belarus-was-state-sponsored-hijacking-1199561)
 <!-- BLOG-POST-LIST:END -->
 
 ---
