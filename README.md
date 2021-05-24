@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists use optogenetics for the first time to help a blind patient see again](https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/)
 - [Urbit: The good, the bad, and the insane](https://wejn.org/2021/02/urbit-good-bad-insane/)
-- [Physics](http://physics.com)
-- [Wuhan lab staff sought hospital care in November 2019](https://www.reuters.com/business/healthcare-pharmaceuticals/wuhan-lab-staff-sought-hospital-care-before-covid-19-outbreak-disclosed-wsj-2021-05-23/)
-- [SARS-CoV-2 infection induces long-lived bone marrow plasma cells in humans](https://www.nature.com/articles/s41586-021-03647-4.epdf?sharing_token=2bD5mZYd0Lb4kRjPJEClptRgN0jAjWel9jnR3ZoTv0NZhpDgSZLI7_fsIhPOWeIJ1diSQO20_EoDjgJbiSiQ2_fyxVwlNfADlUAbRn9GThkDeP-tAn0H0axaMYdDUDJNS__xetM-TOktuE94sVDjefdlAcl-Vos5feOTSgLXCYc%3D)
 - [Uber's crazy YOLO app rewrite, from the front seat](https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/)
+- [Writing Pythonic Rust](http://www.cmyr.net/blog/rust-python-learnings.html)
+- [A journey to io_uring, AIO and modern storage devices](https://clickhouse.tech/blog/en/2021/reading-from-external-memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
