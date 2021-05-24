@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to Inkscape 1.1](https://inkscape.org/news/2021/05/24/welcome-inkscape-11/)
+- [Having a successful career with depression, anxiety and imposter syndrome](https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/)
+- [Florida Governor Signs Bill to fine tech companies that block politicians](https://www.flgov.com/2021/05/24/governor-ron-desantis-signs-bill-to-stop-the-censorship-of-floridians-by-big-tech/)
+- [Russia gives Google 24 hours to delete banned content](https://www.reuters.com/technology/russia-gives-google-one-day-delete-banned-content-threatens-slowdown-2021-05-24/)
+- [Inkscape 1.1](https://inkscape.org/news/2021/05/24/welcome-inkscape-11/)
 - [Tesorio Is Hiring a Principal Data Architect to Join Our Leadership](https://www.tesorio.com/careers#job-openings)
-- [Elk OS – The Audio Operating System](https://elk.audio/audio-os/)
-- [Replit now supports every programming language](https://blog.replit.com/nix)
-- [Scientists use optogenetics for the first time to help a blind patient see again](https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
