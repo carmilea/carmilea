@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ford, Not Tesla, Is Making the Electric Truck That Will Change the EV Industry](https://in.mashable.com/tech/22422/ford-not-tesla-is-making-the-electric-truck-that-will-change-the-ev-industry)
-- [A Japanese Company Cut 80% of the Time Needed to Manually Count Pearls](https://countthings.com/case-studies/0001)
+- [HashCow, BTC.TOP have halted China operations after Beijing crackdown on Bitcoin](https://www.reuters.com/world/china/crypto-miners-halt-china-business-after-beijings-crackdown-bitcoin-dives-2021-05-24/)
+- [A Japanese company cut 80% of the time needed to manually count pearls](https://countthings.com/case-studies/0001)
+- [Fedora has significantly fumbled DKMS handling for Linux kernel modules](https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraWeakUpdatesFailure)
 - [Claude Shannon: Tinkerer, Prankster, and Father of Information Theory (2016)](https://spectrum.ieee.org/tech-history/cyberspace/claude-shannon-tinkerer-prankster-and-father-of-information-theory)
-- [Nacker Hews](http://www.nackerhews.com/)
-- [Useful iOS Things GitHub Repository](https://github.com/jphong1111/Useful_Swift)
+- [A new way to approach Wayback Machine](https://github.com/wabarc/wayback)
 <!-- BLOG-POST-LIST:END -->
 
 ---
