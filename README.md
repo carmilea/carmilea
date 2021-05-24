@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Plivo (YC S12) Is Hiring a VP of Engineering Based in India](https://jobs.lever.co/plivo/35b5dd7e-8f4c-4a1f-bdee-9d4002645c24)
 - [Dave Ramsey sues former employees for making blog posts about leaving company](https://twitter.com/amyfritz/status/1395558966768377860)
-- [Fast & Open source metrics demo dashboard](https://dashboard.speculare.cloud)
+- [Instanced Line Rendering Using WebGL](https://wwwtyro.net/2019/11/18/instanced-lines.html)
 - [Why Decentralised Applications Don’t Work](https://ingrids.space/posts/why-distributed-systems-dont-work/)
 - [Switching from Mailchimp to open-source Mailtrain and AWS SES](https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/)
 <!-- BLOG-POST-LIST:END -->
