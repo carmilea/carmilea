@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Engineering managers; what are the problems you face?](https://news.ycombinator.com/item?id=27264560)
-- [Show HN: Flashcards to learn AWS skills](https://cloudbite.attejuvonen.fi/)
-- [‘I’m way older, but I’m still doing it’: Tony Hawk on his skateboarding legacy](https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview)
-- [How Intuitive Are Macs Really?](https://jeremyaboyd.com/post/how-intuitive-are-macs-really-)
-- [Methods for Array Initialization in Rust (2018)](https://www.joshmcguigan.com/blog/array-initialization-rust/)
+- [WWDC21](https://developer.apple.com/wwdc21/)
+- [U.S. Backs 15% Global Minimum Tax to Curb Profit Shifting Overseas](https://www.nytimes.com/2021/05/20/business/economy/global-minimum-tax-corporations.html)
+- [Launch HN: Curvenote (YC W21) – Collaborative writing tools for science](https://news.ycombinator.com/item?id=27265380)
+- [What lies beneath: Evidence from leaked account data on offshore banking use](https://www.brookings.edu/research/what-lies-beneath-evidence-from-leaked-account-data-on-how-elites-use-offshore-banking/)
+- [Microsoft has turned the Surface Duo into a handheld Xbox](https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
