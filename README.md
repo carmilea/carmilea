@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rustc_codegen_GCC can now run libcore’s tests and pass most of them](https://blog.antoyo.xyz/rustc_codegen_gcc-run-core-tests)
+- [Plivo (YC S12) Is Hiring a VP of Engineering Based in India](https://jobs.lever.co/plivo/35b5dd7e-8f4c-4a1f-bdee-9d4002645c24)
+- [Dave Ramsey sues former employees for making blog posts about leaving company](https://twitter.com/amyfritz/status/1395558966768377860)
+- [Fast & Open source metrics demo dashboard](https://dashboard.speculare.cloud)
+- [Why Decentralised Applications Don’t Work](https://ingrids.space/posts/why-distributed-systems-dont-work/)
 - [Switching from Mailchimp to open-source Mailtrain and AWS SES](https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/)
-- [Cray-2 Memories [pdf]](http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf)
-- [Neural Network Enabled Filmmaking](https://www.flawlessai.com/)
-- [The Limits to Blockchain Scalability](https://vitalik.ca/general/2021/05/23/scaling.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
