@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Baltic airlines reroute flights to avoid Belarus airspace](https://www.lrt.lt/en/news-in-english/19/1416084/baltic-airlines-reroute-flights-to-avoid-belarus-airspace)
+- [Why Some Old Computers Are Interesting](http://hccc.org.uk/retro/retro.html)
+- [Lake Peignur: The Swirling Vortex of Doom](https://www.damninteresting.com/lake-peigneur-the-swirling-vortex-of-doom/)
+- [Raspberry Pi Releases new PoE+ Hat](https://www.raspberrypi.org/blog/announcing-the-raspberry-pi-poe-hat)
 - [A Japanese company cut 80% of the time needed to manually count pearls](https://countthings.com/case-studies/0001)
-- [Fedora has significantly fumbled DKMS handling for Linux kernel modules](https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraWeakUpdatesFailure)
-- [Claude Shannon: Tinkerer, Prankster, and Father of Information Theory (2016)](https://spectrum.ieee.org/tech-history/cyberspace/claude-shannon-tinkerer-prankster-and-father-of-information-theory)
-- [A new way to approach Wayback Machine](https://github.com/wabarc/wayback)
-- [Nacker Hews](http://www.nackerhews.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
