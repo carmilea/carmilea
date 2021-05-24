@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wuhan Lab Staff Sought Hospital Care Before Covid-19 Outbreak Disclosed](https://www.usnews.com/news/world/articles/2021-05-23/wuhan-lab-staff-sought-hospital-care-before-covid-19-outbreak-disclosed-wsj)
+- [How Intuitive Are Macs Really?](https://jeremyaboyd.com/post/how-intuitive-are-macs-really-)
+- [Tesla is found guilty of throttling charging speed](https://electrek.co/2021/05/24/tesla-found-guilty-throttling-charging-speed-asked-pay-16000-thousands-owners/)
+- [Methods for Array Initialization in Rust](https://www.joshmcguigan.com/blog/array-initialization-rust/)
 - [Signadot (YC W20) Is Hiring Founding Back End Engineers](https://www.workatastartup.com/jobs/42298)
-- [Email Validation Logic Is Wrong](https://www.netmeister.org/blog/email.html)
-- [Status Anxiety as a Service](https://noahpinion.substack.com/p/status-anxiety-as-a-service)
-- [Temptation of the Apple: Dolphin on macOS M1](https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/)
-- [Why is the Moscow Metro so grandiose compared to other Soviet architecture](https://www.reddit.com/r/AskHistorians/comments/lz3rj1/why_did_the_ussr_build_such_grandiose_designs_and/gq09pvf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
