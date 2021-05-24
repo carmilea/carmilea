@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio Is Hiring a Principal Data Architect to Join Our Leadership](https://www.tesorio.com/careers#job-openings)
+- [3 years of GDPR: The biggest fines so far](https://www.bbc.co.uk/news/technology-57011639)
 - [Scientists use optogenetics for the first time to help a blind patient see again](https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/)
 - [Urbit: The good, the bad, and the insane](https://wejn.org/2021/02/urbit-good-bad-insane/)
-- [Uber's crazy YOLO app rewrite, from the front seat](https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/)
-- [Writing Pythonic Rust](http://www.cmyr.net/blog/rust-python-learnings.html)
-- [A journey to io_uring, AIO and modern storage devices](https://clickhouse.tech/blog/en/2021/reading-from-external-memory/)
+- [Amazon Nears Deal to Buy Hollywood Studio MGM](https://www.wsj.com/articles/amazon-nears-deal-to-buy-hollywood-studio-mgm-11621880759)
 <!-- BLOG-POST-LIST:END -->
 
 ---
