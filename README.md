@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Was Robbed in San Francisco While the Cameras Rolled](https://petapixel.com/2021/05/24/i-was-robbed-in-san-francisco-while-the-cameras-rolled/)
+- [Activists Mobilize to Fight Censorship and Save Open Science](https://www.eff.org/deeplinks/2021/05/activists-mobilize-fight-censorship-and-save-open-science)
+- [Do countries get the list of every passenger that's transiting their airspace?](https://travel.stackexchange.com/q/163892/101)
 - [Court Orders WhatsApp to Suspend Users Sharing Pirated Movie](https://torrentfreak.com/court-orders-whatsapp-to-suspend-users-sharing-pirated-movie-210524/)
 - [Jerry, Inc. (YC S17) Is Hiring Senior Software Engineers](https://apply.workable.com/jerry/j/07E1D2B302/)
-- [Researchhub: GitHub for Science](https://www.researchhub.com/about)
-- [Than Average](https://thanaverage.xyz/)
-- [Having a successful career with depression, anxiety and imposter syndrome](https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
