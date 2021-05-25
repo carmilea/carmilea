@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook, Twitter & Instagram can be banned in India tomorrow for non-compliance](https://www.businesstoday.in/technology/news/why-facebook-twitter-instagram-could-be-banned-in-india-from-tomorrow/story/439972.html)
 - [Google launches its third major operating system, Fuchsia](https://arstechnica.com/gadgets/2021/05/google-launches-its-third-major-operating-system-fuchsia/)
-- [YouTube Will Monetize Videos Without Paying Content Creators](https://www.youtube.com/static?template=terms)
 - [Julia 1.6 addresses latency issues](https://lwn.net/SubscriberLink/856819/c865652ad4dc06d0/)
-- [Stripe Payment Links: Create a link. Sell anywhere in under 5 minutes](https://stripe.com/payments/payment-links)
+- [Stripe Payment Links](https://stripe.com/payments/payment-links)
 - [How Inevitable Is the Concept of Numbers?](https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/)
 <!-- BLOG-POST-LIST:END -->
 
