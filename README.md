@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fractional (YC W21) is hiring a product engineer](https://www.ycombinator.com/companies/fractional/jobs/YftyxZJ-product-engineer)
+- [Research reveals why some find the sound of others eating so irritating](https://www.theguardian.com/science/2021/may/24/research-reveals-why-some-find-the-sound-of-others-eating-so-irritating)
+- [Google now lets you password-protect the page that shows all your searches](https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history)
+- [German regulator probes Google's market position, data use](https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520)
 - [GCHQ’s mass data-sharing violated right to privacy, court rules](https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules)
-- [Show HN: Send email via Amazon ses and Sendgrid from your Google Sheets](https://www.sendsimple.app)
-- [EU bans Belarusian airlines from European skies](https://www.bbc.com/news/world-europe-57236489)
-- [Flexport is hiring engineers in Amsterdam](https://www.flexport.com/careers)
-- [Use native context menus on Mac OS](https://bugzilla.mozilla.org/show_bug.cgi?id=34572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
