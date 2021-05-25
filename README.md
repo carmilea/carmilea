@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The problem with reinforced concrete (2016)](https://theconversation.com/the-problem-with-reinforced-concrete-56078)
+- [Show HN: Cascade Timeline Maker](https://cascade.page)
 - [Community Phone (YC W19) Is Hiring. Help us make phone numbers programmable](https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-fullstack-engineer)
-- [Apple employees are going public about workplace issues](https://www.theverge.com/2021/5/25/22453302/apple-culture-secrecy-leak-antonio-garcia-martinez-letter)
 - [YouTube approves ad by Belarusian gov with journalist from hijackd Ryanair plane](https://twitter.com/TadeuszGiczan/status/1397200848145559552)
-- [Facebook, Twitter & Instagram can be banned in India tomorrow for non-compliance](https://www.businesstoday.in/technology/news/why-facebook-twitter-instagram-could-be-banned-in-india-from-tomorrow/story/439972.html)
-- [Google launches its third major operating system, Fuchsia](https://arstechnica.com/gadgets/2021/05/google-launches-its-third-major-operating-system-fuchsia/)
+- [The Google Nest Hub is first commercial Fuchsia device](https://arstechnica.com/gadgets/2021/05/google-launches-its-third-major-operating-system-fuchsia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
