@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Behind the design of the fresh new Firefox coming June 1](https://blog.mozilla.org/firefox/new-firefox-coming-june-1/)
+- [Drunk as a Lord: the Regency Bottle Men](https://about1816.wordpress.com/2021/05/23/drunk-as-a-lord-the-regency-bottle-men/)
 - [I Was Robbed in San Francisco While the Cameras Rolled](https://petapixel.com/2021/05/24/i-was-robbed-in-san-francisco-while-the-cameras-rolled/)
 - [Activists Mobilize to Fight Censorship and Save Open Science](https://www.eff.org/deeplinks/2021/05/activists-mobilize-fight-censorship-and-save-open-science)
 - [Do countries get the list of every passenger that's transiting their airspace?](https://travel.stackexchange.com/q/163892/101)
-- [Court Orders WhatsApp to Suspend Users Sharing Pirated Movie](https://torrentfreak.com/court-orders-whatsapp-to-suspend-users-sharing-pirated-movie-210524/)
-- [Jerry, Inc. (YC S17) Is Hiring Senior Software Engineers](https://apply.workable.com/jerry/j/07E1D2B302/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
