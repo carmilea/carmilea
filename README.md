@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Italian seaside residents hit with bygone feudal tax](https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html)
-- [Google is officially releasing its Fuchsia OS, starting with first-gen Nest Hub](https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/)
+- [EU bans Belarusian airlines from European skies](https://www.bbc.com/news/world-europe-57236489)
 - [Flexport is hiring engineers in Amsterdam](https://www.flexport.com/careers)
 - [Firefox fixes 21 year old bug, will use native context menus on macOS](https://bugzilla.mozilla.org/show_bug.cgi?id=34572)
 - [Ask HN: How to get started with audio programming?](https://news.ycombinator.com/item?id=27273706)
