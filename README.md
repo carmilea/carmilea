@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Economist's excess deaths model](https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model)
+- [Data portability, the forgotten right of GDPR](https://www.alias.dev/report)
+- [The 31 Laws Of Fun](https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun)
 - [Fractional (YC W21) is hiring a product engineer](https://www.ycombinator.com/companies/fractional/jobs/YftyxZJ-product-engineer)
-- [Research reveals why some find the sound of others eating so irritating](https://www.theguardian.com/science/2021/may/24/research-reveals-why-some-find-the-sound-of-others-eating-so-irritating)
-- [Google now lets you password-protect the page that shows all your searches](https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history)
-- [German regulator probes Google's market position, data use](https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520)
-- [GCHQ’s mass data-sharing violated right to privacy, court rules](https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules)
+- [Accelerating QEMU on Windows with HAXM (2017)](https://www.qemu.org/2017/11/22/haxm-usage-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
