@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Court Orders WhatsApp to Suspend Users Sharing Pirated Movie](https://torrentfreak.com/court-orders-whatsapp-to-suspend-users-sharing-pirated-movie-210524/)
 - [Jerry, Inc. (YC S17) Is Hiring Senior Software Engineers](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [Researchhub: GitHub for Science](https://www.researchhub.com/about)
 - [Than Average](https://thanaverage.xyz/)
 - [Having a successful career with depression, anxiety and imposter syndrome](https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/)
-- [Inkscape 1.1](https://inkscape.org/news/2021/05/24/welcome-inkscape-11/)
-- [Elk OS – Audio Operating System](https://elk.audio/audio-os/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
