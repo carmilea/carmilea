@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Fig (YC S20) – Autocomplete for the Terminal](https://fig.io?ref=hn)
+- [Show HN: Build internal apps and dashboards using Google Sheets](https://chartmat.com)
 - [It's probably time to stop recommending Clean Code (2020)](https://qntm.org/clean?tw=)
 - [Arm Announces New Mobile Armv9 CPU Microarchitectures](https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510)
-- [The Economist's excess deaths model](https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model)
-- [WASM SYNTH, or, how music taught me the beauty of math](https://timdaub.github.io/2020/02/19/wasm-synth/#f1)
-- [Jerikan: A configuration management system for network teams](https://vincent.bernat.ch/en/blog/2021-network-jerikan-ansible)
+- [The Button Cheat Sheet](https://www.buttoncheatsheet.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
