@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jerry, Inc. (YC S17) Is Hiring Senior Software Engineers](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [Than Average](https://thanaverage.xyz/)
 - [Having a successful career with depression, anxiety and imposter syndrome](https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/)
-- [Florida Governor Signs Bill to fine tech companies that block politicians](https://www.flgov.com/2021/05/24/governor-ron-desantis-signs-bill-to-stop-the-censorship-of-floridians-by-big-tech/)
-- [Russia gives Google 24 hours to delete banned content](https://www.reuters.com/technology/russia-gives-google-one-day-delete-banned-content-threatens-slowdown-2021-05-24/)
 - [Inkscape 1.1](https://inkscape.org/news/2021/05/24/welcome-inkscape-11/)
-- [Tesorio Is Hiring a Principal Data Architect to Join Our Leadership](https://www.tesorio.com/careers#job-openings)
+- [Elk OS – Audio Operating System](https://elk.audio/audio-os/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
