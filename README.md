@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It's probably time to stop recommending Clean Code (2020)](https://qntm.org/clean?tw=)
+- [Arm Announces New Mobile Armv9 CPU Microarchitectures](https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510)
 - [The Economist's excess deaths model](https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model)
-- [Data portability, the forgotten right of GDPR](https://www.alias.dev/report)
-- [The 31 Laws Of Fun](https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun)
-- [Fractional (YC W21) is hiring a product engineer](https://www.ycombinator.com/companies/fractional/jobs/YftyxZJ-product-engineer)
-- [Accelerating QEMU on Windows with HAXM (2017)](https://www.qemu.org/2017/11/22/haxm-usage-windows/)
+- [WASM SYNTH, or, how music taught me the beauty of math](https://timdaub.github.io/2020/02/19/wasm-synth/#f1)
+- [Jerikan: A configuration management system for network teams](https://vincent.bernat.ch/en/blog/2021-network-jerikan-ansible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
