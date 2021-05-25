@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Transcript of controller telling plane to land in Minsk](https://www.reuters.com/business/aerospace-defense/they-say-code-is-red-transcript-controller-telling-plane-land-minsk-2021-05-25/)
+- [Ask HN: Which tools/services have your favorite UI/UX?](https://news.ycombinator.com/item?id=27278367)
 - [Launch HN: Fig (YC S20) – Autocomplete for the Terminal](https://fig.io?ref=hn)
-- [Show HN: Build internal apps and dashboards using Google Sheets](https://chartmat.com)
-- [It's probably time to stop recommending Clean Code (2020)](https://qntm.org/clean?tw=)
-- [Arm Announces New Mobile Armv9 CPU Microarchitectures](https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510)
-- [The Button Cheat Sheet](https://www.buttoncheatsheet.com/)
+- [Second Climacs – Emacs Implementation in Common Lisp](https://github.com/robert-strandh/Second-Climacs)
+- [How Well Can You Hear Audio Quality?: The Record](https://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality)
 <!-- BLOG-POST-LIST:END -->
 
 ---
