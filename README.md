@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Send email via Amazon ses and Sendgrid from your Google Sheets](https://www.sendsimple.app)
 - [Italian seaside residents hit with bygone feudal tax](https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html)
 - [EU bans Belarusian airlines from European skies](https://www.bbc.com/news/world-europe-57236489)
 - [Flexport is hiring engineers in Amsterdam](https://www.flexport.com/careers)
 - [Firefox fixes 21 year old bug, will use native context menus on macOS](https://bugzilla.mozilla.org/show_bug.cgi?id=34572)
-- [Ask HN: How to get started with audio programming?](https://news.ycombinator.com/item?id=27273706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
