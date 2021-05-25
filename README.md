@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Advances of the Hare programming language compared to C](https://harelang.org/blog/2021-02-09-hare-advances-on-c/)
+- [Mux (YC W16) is hiring to help build the Stripe for video](https://mux.com/jobs?hnj=stripe)
 - [Transcript of controller telling plane to land in Minsk](https://www.reuters.com/business/aerospace-defense/they-say-code-is-red-transcript-controller-telling-plane-land-minsk-2021-05-25/)
-- [Ask HN: Which tools/services have your favorite UI/UX?](https://news.ycombinator.com/item?id=27278367)
-- [Launch HN: Fig (YC S20) – Autocomplete for the Terminal](https://fig.io?ref=hn)
-- [Second Climacs – Emacs Implementation in Common Lisp](https://github.com/robert-strandh/Second-Climacs)
-- [How Well Can You Hear Audio Quality?: The Record](https://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality)
+- [Siemens acquires Supplyframe (owners of Hackaday and Tindie)](https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/)
+- [App Store Arguments](https://stratechery.com/2021/app-store-arguments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
