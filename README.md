@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Advances of the Hare programming language compared to C](https://harelang.org/blog/2021-02-09-hare-advances-on-c/)
-- [Mux (YC W16) is hiring to help build the Stripe for video](https://mux.com/jobs?hnj=stripe)
-- [Transcript of controller telling plane to land in Minsk](https://www.reuters.com/business/aerospace-defense/they-say-code-is-red-transcript-controller-telling-plane-land-minsk-2021-05-25/)
-- [Siemens acquires Supplyframe (owners of Hackaday and Tindie)](https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/)
-- [App Store Arguments](https://stratechery.com/2021/app-store-arguments/)
+- [Google launches its third major operating system, Fuchsia](https://arstechnica.com/gadgets/2021/05/google-launches-its-third-major-operating-system-fuchsia/)
+- [YouTube Will Monetize Videos Without Paying Content Creators](https://www.youtube.com/static?template=terms)
+- [Julia 1.6 addresses latency issues](https://lwn.net/SubscriberLink/856819/c865652ad4dc06d0/)
+- [Stripe Payment Links: Create a link. Sell anywhere in under 5 minutes](https://stripe.com/payments/payment-links)
+- [How Inevitable Is the Concept of Numbers?](https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
