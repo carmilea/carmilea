@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Rescinds Job Offer](https://www.linkedin.com/posts/itscharlieliu_i-would-like-to-announce-that-i-signed-an-activity-6802627834339844096-iCg1)
+- [Rare Vietnam War images from the winning side, 1965-1975](https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/)
 - [The problem with reinforced concrete (2016)](https://theconversation.com/the-problem-with-reinforced-concrete-56078)
 - [Show HN: Cascade Timeline Maker](https://cascade.page)
 - [Community Phone (YC W19) Is Hiring. Help us make phone numbers programmable](https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-fullstack-engineer)
-- [YouTube approves ad by Belarusian gov with journalist from hijackd Ryanair plane](https://twitter.com/TadeuszGiczan/status/1397200848145559552)
-- [The Google Nest Hub is first commercial Fuchsia device](https://arstechnica.com/gadgets/2021/05/google-launches-its-third-major-operating-system-fuchsia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
