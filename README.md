@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google is officially releasing its Fuchsia OS, starting with first-gen Nest Hub](https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/)
+- [Flexport is hiring engineers in Amsterdam](https://www.flexport.com/careers)
+- [Firefox fixes 21 year old bug, will use native context menus on macOS](https://bugzilla.mozilla.org/show_bug.cgi?id=34572)
+- [Ask HN: How to get started with audio programming?](https://news.ycombinator.com/item?id=27273706)
 - [France is testing free public transport](http://www.bbc.com/worklife/article/20210519-how-france-is-testing-free-public-transport)
-- [Behind the design of the fresh new Firefox coming June 1](https://blog.mozilla.org/firefox/new-firefox-coming-june-1/)
-- [Drunk as a Lord: the Regency Bottle Men](https://about1816.wordpress.com/2021/05/23/drunk-as-a-lord-the-regency-bottle-men/)
-- [Moderna to take mRNA flu and HIV vaccines into Phase 1 trials this year](https://www.biopharma-reporter.com/Article/2021/04/15/Moderna-to-take-mRNA-flu-and-HIV-vaccines-into-Phase-1-trials-this-year)
-- [Activists Mobilize to Fight Censorship and Save Open Science](https://www.eff.org/deeplinks/2021/05/activists-mobilize-fight-censorship-and-save-open-science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
