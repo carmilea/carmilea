@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Neovim 0.5 Is Overpowering](https://crispgm.com/page/neovim-is-overpowering.html)
-- [Product placements may soon be added to classic films](https://www.bbc.com/news/business-56758376)
+- [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Benzene Detected in 78 Sunscreen Products](https://www.valisure.com/blog/valisure-news/valisure-detects-benzene-in-sunscreen/)
+- [An In-Depth Look at What/How/Why Books Sell (2016)](https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/)
+- [Neovim 0.5 is overpowering](https://crispgm.com/page/neovim-is-overpowering.html)
 - [Unreal Engine 5 enters Early Access](https://www.unrealengine.com/en-US/unreal-engine-5)
-- [Shell ordered to cut CO2 emissions by 45% in landmark climate case](https://www.euronews.com/green/2021/05/26/shell-ordered-to-cut-co2-emissions-by-45-in-landmark-climate-case)
-- [An open letter from Atheme's developers and community](https://atheme.github.io/atheme-open-letter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
