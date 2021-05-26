@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Benzene Detected in 78 Sunscreen Products](https://www.valisure.com/blog/valisure-news/valisure-detects-benzene-in-sunscreen/)
-- [An In-Depth Look at What/How/Why Books Sell (2016)](https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/)
-- [Neovim 0.5 is overpowering](https://crispgm.com/page/neovim-is-overpowering.html)
-- [Unreal Engine 5 enters Early Access](https://www.unrealengine.com/en-US/unreal-engine-5)
+- [Oxide Computer Company announces their first server rack product](https://oxide.computer)
+- [A New Algorithm for Graph Crossings, Hiding in Plain Sight](https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly)
+- [Show HN: Find Subreddits for Your Niche](https://www.findareddit.com/)
+- [Greenland’s ice sheet is releasing huge amounts of mercury into rivers](https://www.newscientist.com/article/2278370-greenlands-ice-sheet-is-releasing-huge-amounts-of-mercury-into-rivers/)
+- [OpenAI Announces Funding for Startups](https://openai.com/fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
