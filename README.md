@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Faux Generosity of the Super-Wealthy: Why Bill Gates Is a Menace to Society](https://www.mintpressnews.com/faux-generosity-how-bill-gates-bought-his-power-and-influence/263208/#.YK3ZDO40WWU.twitter)
+- [Online video platform Vimeo plunges on Nasdaq debut following spin-off](https://www.channelnewsasia.com/news/business/online-video-platform-vimeo-plunges-on-nasdaq-debut-following-spin-off-14884224)
+- [Freenode Ops Take Control of 700 Channels](https://mastodon.sdf.org/@kline/106299403921451814)
+- [Mild Covid-19 induces lasting antibody protection](https://medicine.wustl.edu/news/good-news-mild-covid-19-induces-lasting-antibody-protection/)
 - [M1racles: An Apple M1 covert channel vulnerability](https://m1racles.com/)
-- [Renewable Energy Is Suddenly Startlingly Cheap](https://www.newyorker.com/news/annals-of-a-warming-planet/renewable-energy-is-suddenly-startlingly-cheap)
 - [Our memory is better than experts thought](https://www.scientificamerican.com/article/our-memory-is-even-better-than-experts-thought/)
-- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
