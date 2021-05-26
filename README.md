@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Government fell disastrously short in dealing with Covid – Cummings](https://www.bbc.co.uk/news/uk-politics-57253578)
+- [Amazon acquires MGM for $8.45B](https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/)
 - [Join 30 YC Founders at YC's Summer Jobs Expo on June 10th](https://www.workatastartup.com/events/startup-tech-expo-summer-2021)
-- [Freenode are now routinely hijacking channels that indicate they moved to Libera](https://lwn.net/Articles/857252/)
+- [Upheaval at freenode](https://lwn.net/Articles/857252/)
 - [Analysis of blood markers predicts human lifespan limit](https://www.nature.com/articles/s41467-021-23014-1)
-- [Official Elixir IRC channel moves to Libera](https://twitter.com/AmNicd/status/1397448111291879424)
+- [Freenode attempted to takeover Allegro official channel, that hadn't moved yet](https://twitter.com/CriadorDeJogos/status/1397504457114636292)
 <!-- BLOG-POST-LIST:END -->
 
 ---
