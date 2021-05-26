@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When Do Programmers Retire? Is 35 the End?](https://betterprogramming.pub/when-do-programmers-retire-is-35-the-end-72d173760ee2)
 - [M1RACLES: An Apple M1 covert channel vulnerability](https://m1racles.com/)
 - [Renewable Energy Is Suddenly Startlingly Cheap](https://www.newyorker.com/news/annals-of-a-warming-planet/renewable-energy-is-suddenly-startlingly-cheap)
+- [Our Memory Is Even Better Than Experts Thought](https://www.scientificamerican.com/article/our-memory-is-even-better-than-experts-thought/)
 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
-- [Streetmix – A fun little urban design playground](https://streetmix.net/)
-- [Introduction to Robotics](https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
