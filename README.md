@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Government fell disastrously short in dealing with Covid – Cummings](https://www.bbc.co.uk/news/uk-politics-57253578)
+- [Join 30 YC Founders at YC's Summer Jobs Expo on June 10th](https://www.workatastartup.com/events/startup-tech-expo-summer-2021)
+- [Freenode are now routinely hijacking channels that indicate they moved to Libera](https://lwn.net/Articles/857252/)
 - [Analysis of blood markers predicts human lifespan limit](https://www.nature.com/articles/s41467-021-23014-1)
-- [Elixir moves to Libera after channel being tookover by freenode staff](https://twitter.com/AmNicd/status/1397448111291879424)
-- [One Week of Libera Chat](https://libera.chat/news/one-week-of-libera-chat)
-- [Europe's Only Buddist “Country”](https://www.dw.com/en/the-only-buddhist-region-in-europe/a-57572543)
-- [RPG-CLI – your filesystem as a dungeon](https://github.com/facundoolano/rpg-cli)
+- [Official Elixir IRC channel moves to Libera](https://twitter.com/AmNicd/status/1397448111291879424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
