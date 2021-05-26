@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Life After an Internet Mob Attack](https://pasquale.cool/internet-mob)
+- [Strong Towns Has Filed a Lawsuit Against the Minnesota Board of Engineering](https://www.strongtowns.org/journal/2021/5/23/lawsuit)
+- [Why (and how) GitHub is adopting OpenTelemetry](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/)
+- [Comcast Subscriber Receives DMCA Notice for Downloading Ubuntu](https://torrentfreak.com/comcast-subscriber-receives-dmca-notice-for-downloading-ubuntu-210526/)
 - [Oxide Computer Company announces their first server rack product](https://oxide.computer)
-- [A New Algorithm for Graph Crossings, Hiding in Plain Sight](https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly)
-- [Show HN: Find Subreddits for Your Niche](https://www.findareddit.com/)
-- [Greenland’s ice sheet is releasing huge amounts of mercury into rivers](https://www.newscientist.com/article/2278370-greenlands-ice-sheet-is-releasing-huge-amounts-of-mercury-into-rivers/)
-- [OpenAI Announces Funding for Startups](https://openai.com/fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
