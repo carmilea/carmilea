@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finally Understanding PNG](https://compress-or-die.com/Understanding-PNG)
+- [The Expanse UI Design](https://www.hudsandguis.com/home/2021/theexpanse)
+- [Gentoo Freenode channels have been hijacked](https://www.gentoo.org/news/2021/05/26/gentoo-freenode-channels-hijacked.html)
 - [Online Antipiracy firm sending copyright notices for downloading Ubuntu ISO](https://www.reddit.com/r/linux/comments/nkztyv)
 - [Master List of Logical Fallacies (2018)](http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm)
-- [Bonsai (YC W16) Is Hiring a Product and Data Analyst (Remote)](https://www.ycombinator.com/companies/bonsai/jobs/emuGR5Z-data-analyst-remote)
-- [Gio – write immediate-mode GUI programs in Go](https://gioui.org/)
-- [Understanding Multiple Neighbourhood Cellular Automata](https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
