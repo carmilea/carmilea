@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Netherlands court orders oil giant Shell to cut emissions](https://www.bbc.com/news/world-europe-57257982)
+- [You can't have too many angel investors](https://waseem.substack.com/p/you-cant-have-too-many-angels)
 - [Rescale (YC W12) Is Hiring Software Engineers and Product Managers](https://jobs.lever.co/rescale)
-- [Collusion Rings Threaten the Integrity of Computer Science Research](https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext)
+- [Collusion rings threaten the integrity of computer science research](https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext)
 - [Show HN: I made an open-source publishing platform (with minimal JavaScript)](https://zentrum.alles.cx/this-is-zentrum-mv9wfrw)
-- [Life After an Internet Mob Attack](https://pasquale.cool/internet-mob)
-- [Strong Towns Has Filed a Lawsuit Against the Minnesota Board of Engineering](https://www.strongtowns.org/journal/2021/5/23/lawsuit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
