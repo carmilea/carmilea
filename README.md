@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Neovim 0.5 Is Overpowering](https://crispgm.com/page/neovim-is-overpowering.html)
+- [Product placements may soon be added to classic films](https://www.bbc.com/news/business-56758376)
+- [Unreal Engine 5 enters Early Access](https://www.unrealengine.com/en-US/unreal-engine-5)
 - [Shell ordered to cut CO2 emissions by 45% in landmark climate case](https://www.euronews.com/green/2021/05/26/shell-ordered-to-cut-co2-emissions-by-45-in-landmark-climate-case)
 - [An open letter from Atheme's developers and community](https://atheme.github.io/atheme-open-letter/)
-- [Amazon acquires MGM for $8.45B](https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/)
-- [Join 30 YC Founders at YC's Summer Jobs Expo on June 10th](https://www.workatastartup.com/events/startup-tech-expo-summer-2021)
-- [Upheaval at freenode](https://lwn.net/Articles/857252/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
