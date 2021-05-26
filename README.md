@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [M1RACLES: An Apple M1 covert channel vulnerability](https://m1racles.com/)
+- [Renewable Energy Is Suddenly Startlingly Cheap](https://www.newyorker.com/news/annals-of-a-warming-planet/renewable-energy-is-suddenly-startlingly-cheap)
 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
+- [Streetmix – A fun little urban design playground](https://streetmix.net/)
 - [Introduction to Robotics](https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206)
-- [Thousands of Chrome extensions are tampering with security headers](https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/)
-- [Rare Vietnam War images from the winning side, 1965-1975](https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/)
-- [The problem with reinforced concrete (2016)](https://theconversation.com/the-problem-with-reinforced-concrete-56078)
 <!-- BLOG-POST-LIST:END -->
 
 ---
