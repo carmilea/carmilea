@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rescale (YC W12) Is Hiring Software Engineers and Product Managers](https://jobs.lever.co/rescale)
+- [Collusion Rings Threaten the Integrity of Computer Science Research](https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext)
+- [Show HN: I made an open-source publishing platform (with minimal JavaScript)](https://zentrum.alles.cx/this-is-zentrum-mv9wfrw)
 - [Life After an Internet Mob Attack](https://pasquale.cool/internet-mob)
 - [Strong Towns Has Filed a Lawsuit Against the Minnesota Board of Engineering](https://www.strongtowns.org/journal/2021/5/23/lawsuit)
-- [Why (and how) GitHub is adopting OpenTelemetry](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/)
-- [Comcast Subscriber Receives DMCA Notice for Downloading Ubuntu](https://torrentfreak.com/comcast-subscriber-receives-dmca-notice-for-downloading-ubuntu-210526/)
-- [Oxide Computer Company announces their first server rack product](https://oxide.computer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
