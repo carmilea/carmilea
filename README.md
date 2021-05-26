@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Online Antipiracy firm sending copyright notices for downloading Ubuntu ISO](https://www.reddit.com/r/linux/comments/nkztyv)
 - [Master List of Logical Fallacies (2018)](http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm)
 - [Bonsai (YC W16) Is Hiring a Product and Data Analyst (Remote)](https://www.ycombinator.com/companies/bonsai/jobs/emuGR5Z-data-analyst-remote)
 - [Gio – write immediate-mode GUI programs in Go](https://gioui.org/)
 - [Understanding Multiple Neighbourhood Cellular Automata](https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/)
-- [Ulysses](http://www.mit.edu/~kcr/poetry/tennyson_ulysses.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
