@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Finally Understanding PNG](https://compress-or-die.com/Understanding-PNG)
-- [The Expanse UI Design](https://www.hudsandguis.com/home/2021/theexpanse)
-- [Gentoo Freenode channels have been hijacked](https://www.gentoo.org/news/2021/05/26/gentoo-freenode-channels-hijacked.html)
-- [Online Antipiracy firm sending copyright notices for downloading Ubuntu ISO](https://www.reddit.com/r/linux/comments/nkztyv)
-- [Master List of Logical Fallacies (2018)](http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm)
+- [Analysis of blood markers predicts human lifespan limit](https://www.nature.com/articles/s41467-021-23014-1)
+- [Elixir moves to Libera after channel being tookover by freenode staff](https://twitter.com/AmNicd/status/1397448111291879424)
+- [One Week of Libera Chat](https://libera.chat/news/one-week-of-libera-chat)
+- [Europe's Only Buddist “Country”](https://www.dw.com/en/the-only-buddhist-region-in-europe/a-57572543)
+- [RPG-CLI – your filesystem as a dungeon](https://github.com/facundoolano/rpg-cli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
