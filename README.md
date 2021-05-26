@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New version of Kinesis Advantage coming late 2021](https://www.facebook.com/KinesisErgo/photos/a.1045922878754808/6200052946675083/)
+- [When Scientific Orthodoxy Resembles Religious Dogma](https://www.scientificamerican.com/article/when-scientific-orthodoxy-resembles-religious-dogma/)
 - [Netherlands court orders oil giant Shell to cut emissions](https://www.bbc.com/news/world-europe-57257982)
+- [SKreen: Human Centric Smartphones for Everyone](https://skreen.site/)
 - [You can't have too many angel investors](https://waseem.substack.com/p/you-cant-have-too-many-angels)
-- [Rescale (YC W12) Is Hiring Software Engineers and Product Managers](https://jobs.lever.co/rescale)
-- [Collusion rings threaten the integrity of computer science research](https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext)
-- [Show HN: I made an open-source publishing platform (with minimal JavaScript)](https://zentrum.alles.cx/this-is-zentrum-mv9wfrw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
