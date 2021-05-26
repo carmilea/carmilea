@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When Do Programmers Retire? Is 35 the End?](https://betterprogramming.pub/when-do-programmers-retire-is-35-the-end-72d173760ee2)
-- [M1RACLES: An Apple M1 covert channel vulnerability](https://m1racles.com/)
+- [The Faux Generosity of the Super-Wealthy: Why Bill Gates Is a Menace to Society](https://www.mintpressnews.com/faux-generosity-how-bill-gates-bought-his-power-and-influence/263208/#.YK3ZDO40WWU.twitter)
+- [M1racles: An Apple M1 covert channel vulnerability](https://m1racles.com/)
 - [Renewable Energy Is Suddenly Startlingly Cheap](https://www.newyorker.com/news/annals-of-a-warming-planet/renewable-energy-is-suddenly-startlingly-cheap)
-- [Our Memory Is Even Better Than Experts Thought](https://www.scientificamerican.com/article/our-memory-is-even-better-than-experts-thought/)
+- [Our memory is better than experts thought](https://www.scientificamerican.com/article/our-memory-is-even-better-than-experts-thought/)
 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
 <!-- BLOG-POST-LIST:END -->
 
