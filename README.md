@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Rescinds Job Offer](https://www.linkedin.com/posts/itscharlieliu_i-would-like-to-announce-that-i-signed-an-activity-6802627834339844096-iCg1)
+- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
+- [Introduction to Robotics](https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206)
+- [Thousands of Chrome extensions are tampering with security headers](https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/)
 - [Rare Vietnam War images from the winning side, 1965-1975](https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/)
 - [The problem with reinforced concrete (2016)](https://theconversation.com/the-problem-with-reinforced-concrete-56078)
-- [Show HN: Cascade Timeline Maker](https://cascade.page)
-- [Community Phone (YC W19) Is Hiring. Help us make phone numbers programmable](https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-fullstack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
