@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Online video platform Vimeo plunges on Nasdaq debut following spin-off](https://www.channelnewsasia.com/news/business/online-video-platform-vimeo-plunges-on-nasdaq-debut-following-spin-off-14884224)
-- [Freenode Ops Take Control of 700 Channels](https://mastodon.sdf.org/@kline/106299403921451814)
-- [Mild Covid-19 induces lasting antibody protection](https://medicine.wustl.edu/news/good-news-mild-covid-19-induces-lasting-antibody-protection/)
-- [M1racles: An Apple M1 covert channel vulnerability](https://m1racles.com/)
-- [Our memory is better than experts thought](https://www.scientificamerican.com/article/our-memory-is-even-better-than-experts-thought/)
+- [Master List of Logical Fallacies (2018)](http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm)
+- [Bonsai (YC W16) Is Hiring a Product and Data Analyst (Remote)](https://www.ycombinator.com/companies/bonsai/jobs/emuGR5Z-data-analyst-remote)
+- [Gio – write immediate-mode GUI programs in Go](https://gioui.org/)
+- [Understanding Multiple Neighbourhood Cellular Automata](https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/)
+- [Ulysses](http://www.mit.edu/~kcr/poetry/tennyson_ulysses.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
