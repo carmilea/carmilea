@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Israel's operation against Hamas was the first AI war](https://www.jpost.com/arab-israeli-conflict/gaza-news/guardian-of-the-walls-the-first-ai-war-669371)
-- [Jeff Bezos will step down as Amazon CEO on July 5](https://www.cnn.com/2021/05/26/tech/jeff-bezos-andy-jassy-amazon-ceo/index.html)
+- [Google to use patient data to develop healthcare algorithms for hospital chain](https://www.theverge.com/2021/5/26/22454817/google-hca-patient-data-healthcare-algorithms)
+- [Court rules encrypted email provider Tutanota must monitor messages](https://www.cyberscoop.com/court-rules-encrypted-email-tutanota-monitor-messages/)
+- [Marvell Announces First PCIe 5.0 NVMe SSD Controllers: Up to 14 GB/S](https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers)
 - [MDN Plus](https://developer.mozilla.org/en/plus)
 - [Ask HN: Favorite Blogs by Individuals?](https://news.ycombinator.com/item?id=27302195)
-- [How I, as someone who is visually impaired, use my iPhone](https://twitter.com/Kristy_Viers/status/1287189581926981634)
 <!-- BLOG-POST-LIST:END -->
 
 ---
