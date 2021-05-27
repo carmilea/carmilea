@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google to use patient data to develop healthcare algorithms for hospital chain](https://www.theverge.com/2021/5/26/22454817/google-hca-patient-data-healthcare-algorithms)
-- [Court rules encrypted email provider Tutanota must monitor messages](https://www.cyberscoop.com/court-rules-encrypted-email-tutanota-monitor-messages/)
-- [Marvell Announces First PCIe 5.0 NVMe SSD Controllers: Up to 14 GB/S](https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers)
-- [MDN Plus](https://developer.mozilla.org/en/plus)
-- [Ask HN: Favorite Blogs by Individuals?](https://news.ycombinator.com/item?id=27302195)
+- [Flowdash (YC W20) Is Hiring Software Engineers, Product Designer](https://flowdash.com/careers)
+- [A Better Fog-Trap](https://www.economist.com/science-and-technology/2021/05/26/a-better-fog-trap)
+- [World Now Likely to Hit Watershed 1.5 °C Rise in Next 5 Years](https://news.un.org/en/story/2021/05/1092842)
+- ['Irresponsible' London Underground Bitcoin Advert Banned](https://www.bbc.co.uk/news/business-57254318)
+- [V8 Sparkplug – A non-optimizing JavaScript compiler](https://v8.dev/blog/sparkplug)
 <!-- BLOG-POST-LIST:END -->
 
 ---
