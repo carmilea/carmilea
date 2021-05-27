@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla loses U.S. designation for some advanced safety features](https://www.reuters.com/technology/us-agency-briefed-tesla-radar-sensor-removal-2021-05-26/)
+- [JsonLogic](https://jsonlogic.com/)
+- [New dark matter map reveals cosmic mystery](https://www.bbc.com/news/science-environment-57244708)
+- [Stacked Git – manage commits as a stack of patches](https://stacked-git.github.io/)
 - [Flowdash (YC W20) Is Hiring Software Engineers, Product Designer](https://flowdash.com/careers)
-- [A Better Fog-Trap](https://www.economist.com/science-and-technology/2021/05/26/a-better-fog-trap)
-- [World Now Likely to Hit Watershed 1.5 °C Rise in Next 5 Years](https://news.un.org/en/story/2021/05/1092842)
-- ['Irresponsible' London Underground Bitcoin Advert Banned](https://www.bbc.co.uk/news/business-57254318)
-- [V8 Sparkplug – A non-optimizing JavaScript compiler](https://v8.dev/blog/sparkplug)
 <!-- BLOG-POST-LIST:END -->
 
 ---
