@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Whole Earth ‘Lectronic Link](https://www.well.com/)
+- [Functional Programming in Go with Generics](https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/)
+- [Microsoft president: Orwell’s 1984 could happen in 2024](https://www.bbc.co.uk/news/technology-57122120)
+- [OpenHD - HD video, UAV telemetry, audio, and RC control](https://github.com/OpenHD/Open.HD)
 - [Rainforest (YC S12) Is Hiring Remote Engineers, Product Designers and CSM](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN)
-- [LA pays $2600 per homeless tent, per month](https://www.npr.org/2021/05/25/999969718/high-cost-of-los-angeles-homeless-camp-raises-eyebrows-and-questions)
-- [When scientific orthodoxy resembles religious dogma](https://www.scientificamerican.com/article/when-scientific-orthodoxy-resembles-religious-dogma/)
-- [SKreen: Human Centric Smartphones for Everyone](https://skreen.site/)
-- [You can't have too many angels](https://waseem.substack.com/p/you-cant-have-too-many-angels)
 <!-- BLOG-POST-LIST:END -->
 
 ---
