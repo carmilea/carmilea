@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Promoted.ai (YC W21) Is Hiring SRE/DevOps](https://www.workatastartup.com/jobs/43955)
+- [An utterly crushing day for Big Oil](https://twitter.com/billmckibben/status/1397635499611889664)
+- [IRC: Run it or use it, but try to avoid doing both](https://rachelbythebay.com/w/2021/05/26/irc/)
 - [Whole Earth ‘Lectronic Link](https://www.well.com/)
 - [Functional Programming in Go with Generics](https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/)
-- [OpenHD - HD video, UAV telemetry, audio, and RC control](https://github.com/OpenHD/Open.HD)
-- [Rainforest (YC S12) Is Hiring Remote Engineers, Product Designers and CSM](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN)
-- [River Runner: drop a raindrop anywhere in the USA, watch where it ends up](https://river-runner.samlearner.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
