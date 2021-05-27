@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jeff Bezos will step down as Amazon CEO on July 5](https://www.cnn.com/2021/05/26/tech/jeff-bezos-andy-jassy-amazon-ceo/index.html)
+- [MDN Plus](https://developer.mozilla.org/en/plus)
 - [Ask HN: Favorite Blogs by Individuals?](https://news.ycombinator.com/item?id=27302195)
+- [How I, as someone who is visually impaired, use my iPhone](https://twitter.com/Kristy_Viers/status/1287189581926981634)
 - [Hive (YC S14) Is Hiring](https://www.workatastartup.com/jobs/44230)
-- [Russia reports 'unprecedented' hacking campaign aimed at government agencies](https://www.reuters.com/technology/russias-fsb-reports-unprecedented-hacking-campaign-aimed-government-agencies-2021-05-26/)
-- [Vaccine-Induced Covid-19 Mimicry Syndrome](https://www.researchsquare.com/article/rs-558954/v1)
-- [Klarna users are being signed in to random accounts](https://twitter.com/esraefe/status/1397842160607711232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
