@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia reports 'unprecedented' hacking campaign aimed at government agencies](https://www.reuters.com/technology/russias-fsb-reports-unprecedented-hacking-campaign-aimed-government-agencies-2021-05-26/)
+- [American ISP Sent Customer DMCA for Downloading Ubuntu](https://www.omgubuntu.co.uk/2021/05/ubuntu-iso-dmca-copyright-infringement)
+- [“Vaccine-Induced Covid-19 Mimicry” Syndrome](https://www.researchsquare.com/article/rs-558954/v1)
 - [Klarna users are being signed in to random accounts](https://twitter.com/esraefe/status/1397842160607711232)
 - [Instagram lets users hide likes to reduce social media pressure](https://www.bbc.com/news/technology-57254488)
-- [Uber recognises union for first time in landmark deal](https://www.bbc.com/news/business-57254962)
-- [Protasevich Street? Bucharest mulls changing address of Belarusian embassy](https://www.reuters.com/world/europe/protasevich-street-bucharest-mulls-changing-address-belarusian-embassy-2021-05-27/)
-- [Ask HN: Anybody Started a Research Institute?](https://news.ycombinator.com/item?id=27300594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
