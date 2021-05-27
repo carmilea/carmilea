@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin rival Chia 'destroyed' hard disc supply chains, says its boss](https://www.newscientist.com/article/2278696-bitcoin-rival-chia-destroyed-hard-disc-supply-chains-says-its-boss/)
 - [Finley (YC W21) is hiring remote software engineers](https://jobs.lever.co/FinleyTechnologies/2bca72b7-ff5e-4277-bbaf-184138254589)
-- ['Find This F***:' Inside Citizen’s Dangerous Effort to Cash in on Vigilantism](https://www.vice.com/en/article/y3dpyw/inside-crime-app-citizen-vigilante)
-- [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/2021/05/27/cost-of-cloud-paradox-market-cap-cloud-lifecycle-scale-growth-repatriation-optimization/)
-- [JsonLogic](https://jsonlogic.com/)
-- [New dark matter map reveals cosmic mystery](https://www.bbc.com/news/science-environment-57244708)
+- [The media's lab leak fiasco](https://www.slowboring.com/p/the-medias-lab-leak-fiasco)
+- [Citizen’s dangerous effort to cash in on vigilantism](https://www.vice.com/en/article/y3dpyw/inside-crime-app-citizen-vigilante)
+- [The cost of cloud, a trillion dollar paradox](https://a16z.com/2021/05/27/cost-of-cloud-paradox-market-cap-cloud-lifecycle-scale-growth-repatriation-optimization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
