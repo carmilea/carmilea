@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla loses U.S. designation for some advanced safety features](https://www.reuters.com/technology/us-agency-briefed-tesla-radar-sensor-removal-2021-05-26/)
-- [JsonLogic](https://jsonlogic.com/)
-- [New dark matter map reveals cosmic mystery](https://www.bbc.com/news/science-environment-57244708)
-- [Stacked Git – manage commits as a stack of patches](https://stacked-git.github.io/)
-- [Flowdash (YC W20) Is Hiring Software Engineers, Product Designer](https://flowdash.com/careers)
+- [The media's lab leak fiasco](https://www.slowboring.com/p/the-medias-lab-leak-fiasco)
+- [Colorado Becomes First State to Ban Legacy College Admissions](https://text.npr.org/1000868262)
+- [June 2021 Eclipse Festival of Frequency Measurement – HamSCI](https://hamsci.org/june-2021-eclipse-festival-frequency-measurement)
+- [U.S. moves to double Canadian lumber tariffs](https://www.woodworkingnetwork.com/news/woodworking-industry-news/lumber-firms-applaud-home-builders-angry-us-moves-double-canadian)
+- ['Find This F***:' Inside Citizen’s Dangerous Effort to Cash in on Vigilantism](https://www.vice.com/en/article/y3dpyw/inside-crime-app-citizen-vigilante)
 <!-- BLOG-POST-LIST:END -->
 
 ---
