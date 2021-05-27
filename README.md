@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New version of Kinesis Advantage coming late 2021](https://www.facebook.com/KinesisErgo/photos/a.1045922878754808/6200052946675083/)
-- [When Scientific Orthodoxy Resembles Religious Dogma](https://www.scientificamerican.com/article/when-scientific-orthodoxy-resembles-religious-dogma/)
-- [Netherlands court orders oil giant Shell to cut emissions](https://www.bbc.com/news/world-europe-57257982)
+- [Rainforest (YC S12) Is Hiring Remote Engineers, Product Designers and CSM](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN)
+- [LA pays $2600 per homeless tent, per month](https://www.npr.org/2021/05/25/999969718/high-cost-of-los-angeles-homeless-camp-raises-eyebrows-and-questions)
+- [When scientific orthodoxy resembles religious dogma](https://www.scientificamerican.com/article/when-scientific-orthodoxy-resembles-religious-dogma/)
 - [SKreen: Human Centric Smartphones for Everyone](https://skreen.site/)
-- [You can't have too many angel investors](https://waseem.substack.com/p/you-cant-have-too-many-angels)
+- [You can't have too many angels](https://waseem.substack.com/p/you-cant-have-too-many-angels)
 <!-- BLOG-POST-LIST:END -->
 
 ---
