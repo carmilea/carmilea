@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The media's lab leak fiasco](https://www.slowboring.com/p/the-medias-lab-leak-fiasco)
-- [Colorado Becomes First State to Ban Legacy College Admissions](https://text.npr.org/1000868262)
-- [June 2021 Eclipse Festival of Frequency Measurement – HamSCI](https://hamsci.org/june-2021-eclipse-festival-frequency-measurement)
-- [U.S. moves to double Canadian lumber tariffs](https://www.woodworkingnetwork.com/news/woodworking-industry-news/lumber-firms-applaud-home-builders-angry-us-moves-double-canadian)
+- [Finley (YC W21) is hiring remote software engineers](https://jobs.lever.co/FinleyTechnologies/2bca72b7-ff5e-4277-bbaf-184138254589)
 - ['Find This F***:' Inside Citizen’s Dangerous Effort to Cash in on Vigilantism](https://www.vice.com/en/article/y3dpyw/inside-crime-app-citizen-vigilante)
+- [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/2021/05/27/cost-of-cloud-paradox-market-cap-cloud-lifecycle-scale-growth-repatriation-optimization/)
+- [JsonLogic](https://jsonlogic.com/)
+- [New dark matter map reveals cosmic mystery](https://www.bbc.com/news/science-environment-57244708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
