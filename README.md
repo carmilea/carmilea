@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Favorite Blogs by Individuals?](https://news.ycombinator.com/item?id=27302195)
+- [Hive (YC S14) Is Hiring](https://www.workatastartup.com/jobs/44230)
 - [Russia reports 'unprecedented' hacking campaign aimed at government agencies](https://www.reuters.com/technology/russias-fsb-reports-unprecedented-hacking-campaign-aimed-government-agencies-2021-05-26/)
-- [American ISP Sent Customer DMCA for Downloading Ubuntu](https://www.omgubuntu.co.uk/2021/05/ubuntu-iso-dmca-copyright-infringement)
-- [“Vaccine-Induced Covid-19 Mimicry” Syndrome](https://www.researchsquare.com/article/rs-558954/v1)
+- [Vaccine-Induced Covid-19 Mimicry Syndrome](https://www.researchsquare.com/article/rs-558954/v1)
 - [Klarna users are being signed in to random accounts](https://twitter.com/esraefe/status/1397842160607711232)
-- [Instagram lets users hide likes to reduce social media pressure](https://www.bbc.com/news/technology-57254488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
