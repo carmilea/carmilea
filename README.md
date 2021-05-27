@@ -55,7 +55,7 @@
 - [An utterly crushing day for Big Oil](https://twitter.com/billmckibben/status/1397635499611889664)
 - [IRC: Run it or use it, but try to avoid doing both](https://rachelbythebay.com/w/2021/05/26/irc/)
 - [Whole Earth ‘Lectronic Link](https://www.well.com/)
-- [Functional Programming in Go with Generics](https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/)
+- [OpenHD - HD video, UAV telemetry, audio, and RC control](https://github.com/OpenHD/Open.HD)
 <!-- BLOG-POST-LIST:END -->
 
 ---
