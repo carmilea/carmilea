@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bucharest mayor changes Belarus embassy's street name to Protasevich Street](https://www.reuters.com/world/europe/protasevich-street-bucharest-mulls-changing-address-belarusian-embassy-2021-05-27/)
+- [Ask HN: Anybody Started a Research Institute?](https://news.ycombinator.com/item?id=27300594)
 - [Promoted.ai (YC W21) Is Hiring SRE/DevOps](https://www.workatastartup.com/jobs/43955)
-- [An utterly crushing day for Big Oil](https://twitter.com/billmckibben/status/1397635499611889664)
 - [IRC: Run it or use it, but try to avoid doing both](https://rachelbythebay.com/w/2021/05/26/irc/)
 - [Whole Earth ‘Lectronic Link](https://www.well.com/)
-- [OpenHD - HD video, UAV telemetry, audio, and RC control](https://github.com/OpenHD/Open.HD)
 <!-- BLOG-POST-LIST:END -->
 
 ---
