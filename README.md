@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Whole Earth ‘Lectronic Link](https://www.well.com/)
 - [Functional Programming in Go with Generics](https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/)
-- [Microsoft president: Orwell’s 1984 could happen in 2024](https://www.bbc.co.uk/news/technology-57122120)
 - [OpenHD - HD video, UAV telemetry, audio, and RC control](https://github.com/OpenHD/Open.HD)
 - [Rainforest (YC S12) Is Hiring Remote Engineers, Product Designers and CSM](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN)
+- [River Runner: drop a raindrop anywhere in the USA, watch where it ends up](https://river-runner.samlearner.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
