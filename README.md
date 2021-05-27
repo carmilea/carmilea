@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bucharest mayor changes Belarus embassy's street name to Protasevich Street](https://www.reuters.com/world/europe/protasevich-street-bucharest-mulls-changing-address-belarusian-embassy-2021-05-27/)
+- [Klarna users are being signed in to random accounts](https://twitter.com/esraefe/status/1397842160607711232)
+- [Instagram lets users hide likes to reduce social media pressure](https://www.bbc.com/news/technology-57254488)
+- [Uber recognises union for first time in landmark deal](https://www.bbc.com/news/business-57254962)
+- [Protasevich Street? Bucharest mulls changing address of Belarusian embassy](https://www.reuters.com/world/europe/protasevich-street-bucharest-mulls-changing-address-belarusian-embassy-2021-05-27/)
 - [Ask HN: Anybody Started a Research Institute?](https://news.ycombinator.com/item?id=27300594)
-- [Promoted.ai (YC W21) Is Hiring SRE/DevOps](https://www.workatastartup.com/jobs/43955)
-- [IRC: Run it or use it, but try to avoid doing both](https://rachelbythebay.com/w/2021/05/26/irc/)
-- [Whole Earth ‘Lectronic Link](https://www.well.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
