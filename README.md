@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany says ‘JA ’ to fully autonomous vehicles hitting public roads in 2022](https://thenextweb.com/news/germany-fully-autonomous-vehicles-hitting-public-roads-2022)
+- [Girls need higher entrance exam scores than boys at 80% of Tokyo high schools](https://mainichi.jp/english/articles/20210526/p2a/00m/0na/017000c)
+- [The phrase “welcome back” on a page causes Safari to autofill a password](https://github.com/livewire-ui/spotlight/issues/25)
 - [Replacements for existing software written in Rust](https://github.com/TaKO8Ki/awesome-rewrite-it-in-rust)
 - [Taktile (YC S20) Is Hiring Junior Front End Developer (F/M/D)](https://www.workatastartup.com/jobs/44231)
-- [Ask HN: Did preparing for LeetCode type of interviews improve your skills?](https://news.ycombinator.com/item?id=27312265)
 - [Mars Helicopter Lands Safely After Serious In-Flight Anomaly](https://spectrum.ieee.org/automaton/robotics/space-robots/mars-helicopter-lands-safely-after-serious-inflight-anomaly)
 <!-- BLOG-POST-LIST:END -->
 
