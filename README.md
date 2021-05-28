@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Second-Guessing the Modern Web](https://macwright.com/2020/05/10/spa-fatigue.html)
-- [Finley (YC W21) is hiring remote software engineers](https://jobs.lever.co/FinleyTechnologies/2bca72b7-ff5e-4277-bbaf-184138254589)
-- [I raised a $5M seed as first-time, female, solo founder for biotech moonshot](https://www.celinehh.com/seed-raise-how-to)
-- [An Intuition for Lisp Syntax](https://stopa.io/post/265?repost=true)
-- [The media's lab leak fiasco](https://www.slowboring.com/p/the-medias-lab-leak-fiasco)
+- [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27310586)
+- [QUIC is now RFC 9000](https://www.fastly.com/blog/quic-is-now-rfc-9000)
+- [ClickHouse: An open-source column-oriented database management system](https://github.com/ClickHouse/ClickHouse)
+- [Stuffed Dormouse and Fish Gut Sauce: The Flavors of Pompeii (2019)](https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html)
+- [Second-guessing the modern web (2020)](https://macwright.com/2020/05/10/spa-fatigue.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
