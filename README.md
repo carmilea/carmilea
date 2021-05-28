@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress is 18](https://ma.tt/2021/05/wordpress-18/)
-- [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27310586)
-- [QUIC is now RFC 9000](https://www.fastly.com/blog/quic-is-now-rfc-9000)
-- [ClickHouse: An open-source column-oriented database management system](https://github.com/ClickHouse/ClickHouse)
-- [Stuffed Dormouse and Fish Gut Sauce: The Flavors of Pompeii (2019)](https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html)
+- [Boring Avatars – react library to generate custom avatars](https://boringavatars.com/)
+- [Idiosyncrasies of the HTML Parser](https://htmlparser.info/)
+- [Oldest recovered TV images (2013)](http://www.tvdawn.com/earliest-tv/phonovision-experiments-1927-28/the-recovered-images/)
+- [WordPress 18](https://ma.tt/2021/05/wordpress-18/)
+- [Virtuozzo’s Mature Linux Distribution VzLinux Now Available to Public](https://www.virtuozzo.com/connect/details/blog/view/virtuozzos-mature-linux-distribution-vzlinux-now-available-to-public.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
