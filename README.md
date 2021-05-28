@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Boring Avatars – react library to generate custom avatars](https://boringavatars.com/)
-- [Idiosyncrasies of the HTML Parser](https://htmlparser.info/)
-- [Oldest recovered TV images (2013)](http://www.tvdawn.com/earliest-tv/phonovision-experiments-1927-28/the-recovered-images/)
-- [WordPress 18](https://ma.tt/2021/05/wordpress-18/)
-- [Virtuozzo’s Mature Linux Distribution VzLinux Now Available to Public](https://www.virtuozzo.com/connect/details/blog/view/virtuozzos-mature-linux-distribution-vzlinux-now-available-to-public.html)
+- [Germany says ‘JA ’ to fully autonomous vehicles hitting public roads in 2022](https://thenextweb.com/news/germany-fully-autonomous-vehicles-hitting-public-roads-2022)
+- [Replacements for existing software written in Rust](https://github.com/TaKO8Ki/awesome-rewrite-it-in-rust)
+- [Taktile (YC S20) Is Hiring Junior Front End Developer (F/M/D)](https://www.workatastartup.com/jobs/44231)
+- [Ask HN: Did preparing for LeetCode type of interviews improve your skills?](https://news.ycombinator.com/item?id=27312265)
+- [Mars Helicopter Lands Safely After Serious In-Flight Anomaly](https://spectrum.ieee.org/automaton/robotics/space-robots/mars-helicopter-lands-safely-after-serious-inflight-anomaly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
