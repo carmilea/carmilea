@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Girls need higher entrance exam scores than boys at 80% of Tokyo high schools](https://mainichi.jp/english/articles/20210526/p2a/00m/0na/017000c)
+- [Extracting Data from an Old iOS App Broken by iOS 14.5](https://tidbits.com/2021/05/20/extracting-data-from-an-old-ios-app-broken-by-ios-14-5/)
+- [Gnat 2021 GPL Community Edition Ada 202x compiler released](https://www.adacore.com/download)
 - [The phrase “welcome back” on a page causes Safari to autofill a password](https://github.com/livewire-ui/spotlight/issues/25)
 - [Replacements for existing software written in Rust](https://github.com/TaKO8Ki/awesome-rewrite-it-in-rust)
 - [Taktile (YC S20) Is Hiring Junior Front End Developer (F/M/D)](https://www.workatastartup.com/jobs/44231)
-- [Mars Helicopter Lands Safely After Serious In-Flight Anomaly](https://spectrum.ieee.org/automaton/robotics/space-robots/mars-helicopter-lands-safely-after-serious-inflight-anomaly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
