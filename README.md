@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
+- [Agricultural Pest That Relies on Bacteria to Overcome Plant Defenses](https://www.tus.ac.jp/en/mediarelations/archive/20210527_1035.html)
+- [Getting Schooled: The Role of Universities in Attracting Immigrant Entrepreneurs](https://www.nber.org/papers/w28773)
 - [The rise of crypto laundries: how criminals cash out of Bitcoin](https://www.ft.com/content/4169ea4b-d6d7-4a2e-bc91-480550c2f539)
 - [Sandwell Bitcoin mine found stealing electricity](https://www.bbc.co.uk/news/uk-england-birmingham-57280115)
-- [Extracting Data from an Old iOS App Broken by iOS 14.5](https://tidbits.com/2021/05/20/extracting-data-from-an-old-ios-app-broken-by-ios-14-5/)
-- [Gnat 2021 GPL Community Edition Ada 202x compiler released](https://www.adacore.com/download)
-- [The phrase “welcome back” on a page causes Safari to autofill a password](https://github.com/livewire-ui/spotlight/issues/25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
