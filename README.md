@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Together Software (YC S19) is hiring software engineers](https://jobs.lever.co/together/86c724e1-9337-487b-a79f-541e82a35d51)
-- [I quit my job to focus on SerenityOS full time](https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/)
-- [Launch HN: NextUX (YC S19) – Web UX editor and feedback tool for product teams](https://news.ycombinator.com/item?id=27317635)
-- [PostgreSQL EXPLAIN Output Explained](https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/)
-- [Show HN: An experimental, people-powered search engine](https://ninfex.com/hello)
+- [Big Mail: Your inbox, upgraded](https://getbigmail.com/)
+- [Court rules climate change “duty of care” to future generations exists](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560)
+- [Anthropic AI](https://www.anthropic.com/)
+- [US Soldiers Expose Nuclear Weapons Secrets via Flashcard Apps](https://www.bellingcat.com/news/2021/05/28/us-soldiers-expose-nuclear-weapons-secrets-via-flashcard-apps/)
+- [Why Russians do not smile (2002)](https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
