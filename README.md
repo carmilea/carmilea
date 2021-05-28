@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Mail: Your inbox, upgraded](https://getbigmail.com/)
-- [Court rules climate change “duty of care” to future generations exists](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560)
-- [Anthropic AI](https://www.anthropic.com/)
-- [US Soldiers Expose Nuclear Weapons Secrets via Flashcard Apps](https://www.bellingcat.com/news/2021/05/28/us-soldiers-expose-nuclear-weapons-secrets-via-flashcard-apps/)
-- [Why Russians do not smile (2002)](https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/)
+- [Over 10k women are suing Google over gender pay disparity](https://www.engadget.com/women-suing-google-gender-pay-disparity-095033360.html)
+- [Never mind the 1 percent: Let's talk about the 0.01 percent](https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent)
+- [The Unix Game](https://unixgame.io/unix50)
+- [Booking.com gives €28m in bonuses to three top execs; Took €65m in State aid](https://nltimes.nl/2021/05/28/bookingcom-gives-eu28m-bonuses-three-top-execs-took-eu65m-state-aid)
+- [It's virtually impossible to read old iMessages and they take up tons of storage](https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
