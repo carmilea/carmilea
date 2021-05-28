@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Charter charges more money for slower Internet on streets with no competition](https://arstechnica.com/tech-policy/2021/05/charter-charges-more-money-for-slower-internet-on-streets-with-no-competition/)
-- [Twitter confirms “Twitter Blue”, which costs $2.99 per month](https://twitter.com/wongmjane/status/1398022730553860102)
-- [Show HN: Browse Every Awesome List on GitHub](https://app.polymersearch.com/discover/github-awesome)
-- [Why interruptions are frustrating to developers](https://tellspin.app/blog/why-interruptions-are-frustrating-to-developers/)
-- [Humans Could Live up to 150 Years, New Research Suggests](https://www.scientificamerican.com/article/humans-could-live-up-to-150-years-new-research-suggests/)
+- [Together Software (YC S19) is hiring software engineers](https://jobs.lever.co/together/86c724e1-9337-487b-a79f-541e82a35d51)
+- [I quit my job to focus on SerenityOS full time](https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/)
+- [Launch HN: NextUX (YC S19) – Web UX editor and feedback tool for product teams](https://news.ycombinator.com/item?id=27317635)
+- [PostgreSQL EXPLAIN Output Explained](https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/)
+- [Show HN: An experimental, people-powered search engine](https://ninfex.com/hello)
 <!-- BLOG-POST-LIST:END -->
 
 ---
