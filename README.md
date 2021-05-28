@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Over 10k women are suing Google over gender pay disparity](https://www.engadget.com/women-suing-google-gender-pay-disparity-095033360.html)
+- [Alloy Automation (YC W20) Is Hiring a Customer Success Manager](https://www.ycombinator.com/companies/alloy-automation/jobs/v3wXAAb-customer-success-manager)
 - [Never mind the 1 percent: Let's talk about the 0.01 percent](https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent)
 - [The Unix Game](https://unixgame.io/unix50)
 - [Booking.com gives €28m in bonuses to three top execs; Took €65m in State aid](https://nltimes.nl/2021/05/28/bookingcom-gives-eu28m-bonuses-three-top-execs-took-eu65m-state-aid)
-- [It's virtually impossible to read old iMessages and they take up tons of storage](https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/)
+- [Y Combinator backed MMO metaverse game is a blatant scam](https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
