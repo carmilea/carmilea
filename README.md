@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Had Covid? You’ll probably make antibodies for a lifetime](https://www.nature.com/articles/d41586-021-01442-9)
-- [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
-- [Agricultural Pest that Relies on Bacteria to Overcome Plant Defenses](https://www.tus.ac.jp/en/mediarelations/archive/20210527_1035.html)
-- [Getting Schooled: The Role of Universities in Attracting Immigrant Entrepreneurs](https://www.nber.org/papers/w28773)
-- [The rise of crypto laundries: how criminals cash out of Bitcoin](https://www.ft.com/content/4169ea4b-d6d7-4a2e-bc91-480550c2f539)
+- [Charter charges more money for slower Internet on streets with no competition](https://arstechnica.com/tech-policy/2021/05/charter-charges-more-money-for-slower-internet-on-streets-with-no-competition/)
+- [Twitter confirms “Twitter Blue”, which costs $2.99 per month](https://twitter.com/wongmjane/status/1398022730553860102)
+- [Show HN: Browse Every Awesome List on GitHub](https://app.polymersearch.com/discover/github-awesome)
+- [Why interruptions are frustrating to developers](https://tellspin.app/blog/why-interruptions-are-frustrating-to-developers/)
+- [Humans Could Live up to 150 Years, New Research Suggests](https://www.scientificamerican.com/article/humans-could-live-up-to-150-years-new-research-suggests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
