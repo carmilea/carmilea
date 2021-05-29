@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Biologists Taboo Artificial Life](https://www.overcomingbias.com/2021/05/the-artificial-life-taboo-in-biology.html)
+- [Hypervisor for multi-tenant computing, like it should be](https://kwarantine.xyz)
+- [My Personal Creed of Employment](https://devjac.dev/posts/2021-05-29-my-personal-creed-of-employment.html)
 - [Trials begin on lozenge that rebuilds tooth enamel](https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/)
-- [The Historic Russian Recipe That Turns Apples into Marshmallows](https://www.atlasobscura.com/articles/how-to-make-pastila)
-- [Phacility Is Winding Down, Phabricator No Longer Actively Maintained](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)
-- [Create AI videos by simply typing in text](https://www.synthesia.io/)
-- [Substack (YC W18) is hiring technical recruiters to build the future of writing](https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd)
+- [Phacility is winding down, Phabricator no longer actively maintained](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
