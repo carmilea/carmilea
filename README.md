@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What a Wuhan lab leak would mean](https://unherd.com/2021/05/what-if-there-was-a-lab-leak/)
+- [The 2021 iMac is a great family computer, thanks to Jony Ive, again](https://www.wired.co.uk/article/imac-2021-review)
 - [Google made it nearly impossible for users to keep their location private](https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5)
+- [Show HN: Monty, Mongo tinified. MongoDB implemented in Python](https://github.com/davidlatwe/montydb)
 - [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://www.workatastartup.com/jobs/43782)
-- [Camera-Only Autopilot Requires Automatic High Beams Enabled](https://www.reddit.com/r/teslamotors/comments/nnf5ta/autopilot_requires_auto_high_beam_with_tesla/)
-- [Ghost Stations of the Paris Metro](https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/)
-- [Finding CSV files that start with a BOM using ripgrep](https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
