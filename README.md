@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Remains of 215 children found at former residential school in British Columbia](https://www.aptnnews.ca/national-news/remains-of-215-children-found-at-former-residential-school-in-british-columbia/)
 - [Tab (YC W15) Is Hiring Junior Developers (London, UK)](https://jobs.tab.travel/o/junior-developer-1)
+- [WASM powered Jupyter (notebook) running in the browser](https://github.com/jtpio/jupyterlite)
+- [Yamaha MOTOROiD](https://global.yamaha-motor.com/design_technology/design/concept/motoroid/)
 - [Alphabet moonshot Loon is jolted by layoffs](https://www.mercurynews.com/2021/05/28/alphabet-moonshot-loon-jolted-layoff-employee-job-tech-google-edd/)
-- [Making the hard problem of consciousness easier](https://science.sciencemag.org/content/372/6545/911)
-- [The Feynman Lectures on Physics Audio Collection](https://www.feynmanlectures.caltech.edu/flptapes.html)
-- [Why Is JRuby Slow?](https://earthly.dev/blog/jruby/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
