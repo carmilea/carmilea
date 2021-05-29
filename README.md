@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Has a Decade-Long Lead in Wearables](https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables)
-- [Alloy Automation (YC W20) Is Hiring a Customer Success Manager](https://www.ycombinator.com/companies/alloy-automation/jobs/v3wXAAb-customer-success-manager)
+- [Greywing (YC W21) Is Hiring (Remote) Front End Lead Engineers](https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead)
+- [Berkeley Lab Debuts Perlmutter, World’s Fastest AI Supercomputer](https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/)
+- [Pwned passwords, open source in the .NET foundation and working with the FBI](https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/)
+- [Never mind the 1 percent: Let's talk about the 0.01 percent](https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent)
 - [The Unix Game](https://unixgame.io/unix50)
-- [Booking.com gives €28m in bonuses to three top execs; Took €65m in State aid](https://nltimes.nl/2021/05/28/bookingcom-gives-eu28m-bonuses-three-top-execs-took-eu65m-state-aid)
-- [Y Combinator backed MMO metaverse game is a blatant scam](https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
