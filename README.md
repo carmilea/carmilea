@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What a Wuhan lab leak would mean](https://unherd.com/2021/05/what-if-there-was-a-lab-leak/)
-- [The 2021 iMac is a great family computer, thanks to Jony Ive, again](https://www.wired.co.uk/article/imac-2021-review)
-- [Google made it nearly impossible for users to keep their location private](https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5)
-- [Show HN: Monty, Mongo tinified. MongoDB implemented in Python](https://github.com/davidlatwe/montydb)
-- [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://www.workatastartup.com/jobs/43782)
+- [Ask HN: How to Disconnect from Work](https://news.ycombinator.com/item?id=27326607)
+- [Dover (YC S19) is hiring across all roles](https://www.dover.com/careers#roles)
+- [US soldiers accidentally leak nuclear secrets via study apps – report](https://www.dw.com/en/us-soldiers-accidentally-leak-nuclear-secrets-via-study-apps-report/a-57710899)
+- [American convenience store chain Sheetz will accept Bitcoin payments](https://blockcrunch.co/2021/05/29/american-convenience-store-chain-sheetz-will-accept-bitcoin-payments/)
+- [Using Fake Reviews to Find Dangerous Extensions](https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
