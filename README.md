@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trials begin on lozenge that rebuilds tooth enamel](https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/)
+- [The Historic Russian Recipe That Turns Apples into Marshmallows](https://www.atlasobscura.com/articles/how-to-make-pastila)
+- [Phacility Is Winding Down, Phabricator No Longer Actively Maintained](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)
+- [Create AI videos by simply typing in text](https://www.synthesia.io/)
 - [Substack (YC W18) is hiring technical recruiters to build the future of writing](https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd)
-- [Difficult Questions About Freemasonry](http://web.mit.edu/dryfoo/www/Masonry/Questions/difficult.html)
-- [Slicer: Auto-Sharding for Datacenter Applications (2016)](https://research.google/pubs/pub46921/)
-- [Abolish High School (2015)](https://harpers.org/archive/2015/04/abolish-high-school/)
-- [Many temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
