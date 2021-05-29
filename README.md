@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Endangered Iberian lynx population jumps 10-fold](https://phys.org/news/2021-05-endangered-iberian-lynx-population.html)
-- [Vonnegut Reviews Heinlein's “Stranger in a Strange Land”](https://archive.nytimes.com/www.nytimes.com/books/97/09/28/lifetimes/vonnegut-stranger_heinlein.html)
-- [Writing a game from first principles in 65c02  – Part One](http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html)
-- [Just designed the most evil UI component: x box – the inverse of the check box](https://twitter.com/neilsardesai/status/1398091976445202433)
-- [Dover (YC S19) is hiring across all roles](https://www.dover.com/careers#roles)
+- [Substack (YC W18) is hiring technical recruiters to build the future of writing](https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd)
+- [Difficult Questions About Freemasonry](http://web.mit.edu/dryfoo/www/Masonry/Questions/difficult.html)
+- [Slicer: Auto-Sharding for Datacenter Applications (2016)](https://research.google/pubs/pub46921/)
+- [Abolish High School (2015)](https://harpers.org/archive/2015/04/abolish-high-school/)
+- [Many temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
