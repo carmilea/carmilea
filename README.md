@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding CSV files that start with a BOM using ripgrep](https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep)
+- [Franz Kafka: Manuscripts, drawings and personal letters go online](https://www.bbc.com/news/in-pictures-57267874)
 - [Remains of 215 children found at former residential school in British Columbia](https://www.aptnnews.ca/national-news/remains-of-215-children-found-at-former-residential-school-in-british-columbia/)
+- [Security Issues with LastPass on Android](https://abhyudaya.dev/blog/2021/security-issues-lastpass-android)
 - [Tab (YC W15) Is Hiring Junior Developers (London, UK)](https://jobs.tab.travel/o/junior-developer-1)
-- [WASM powered Jupyter (notebook) running in the browser](https://github.com/jtpio/jupyterlite)
-- [Yamaha MOTOROiD](https://global.yamaha-motor.com/design_technology/design/concept/motoroid/)
-- [Alphabet moonshot Loon is jolted by layoffs](https://www.mercurynews.com/2021/05/28/alphabet-moonshot-loon-jolted-layoff-employee-job-tech-google-edd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
