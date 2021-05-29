@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Feynman Lectures on Physics Audio Collection](https://www.feynmanlectures.caltech.edu/flptapes.html)
+- [Why Is JRuby Slow?](https://earthly.dev/blog/jruby/)
 - [Greywing (YC W21) Is Hiring (Remote) Front End Lead Engineers](https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead)
 - [Berkeley Lab Debuts Perlmutter, World’s Fastest AI Supercomputer](https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/)
 - [Pwned passwords, open source in the .NET foundation and working with the FBI](https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/)
-- [Never mind the 1 percent: Let's talk about the 0.01 percent](https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent)
-- [The Unix Game](https://unixgame.io/unix50)
 <!-- BLOG-POST-LIST:END -->
 
 ---
