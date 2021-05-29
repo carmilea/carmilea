@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tab (YC W15) Is Hiring Junior Developers (London, UK)](https://jobs.tab.travel/o/junior-developer-1)
+- [Alphabet moonshot Loon is jolted by layoffs](https://www.mercurynews.com/2021/05/28/alphabet-moonshot-loon-jolted-layoff-employee-job-tech-google-edd/)
+- [Making the hard problem of consciousness easier](https://science.sciencemag.org/content/372/6545/911)
 - [The Feynman Lectures on Physics Audio Collection](https://www.feynmanlectures.caltech.edu/flptapes.html)
 - [Why Is JRuby Slow?](https://earthly.dev/blog/jruby/)
-- [Greywing (YC W21) Is Hiring (Remote) Front End Lead Engineers](https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead)
-- [Berkeley Lab Debuts Perlmutter, World’s Fastest AI Supercomputer](https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/)
-- [Pwned passwords, open source in the .NET foundation and working with the FBI](https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
