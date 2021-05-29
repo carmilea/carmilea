@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to Disconnect from Work](https://news.ycombinator.com/item?id=27326607)
+- [Tech groups sue Florida over content moderation law](https://www.axios.com/florida-social-media-law-tech-groups-sue-2edd1c52-5351-4706-a1f8-6e94d650a677.html)
+- [Writing a game from first principles in 65c02  – Part One](http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html)
+- [Just designed the most evil UI component: x box – the inverse of the check box](https://twitter.com/neilsardesai/status/1398091976445202433)
 - [Dover (YC S19) is hiring across all roles](https://www.dover.com/careers#roles)
-- [US soldiers accidentally leak nuclear secrets via study apps – report](https://www.dw.com/en/us-soldiers-accidentally-leak-nuclear-secrets-via-study-apps-report/a-57710899)
-- [American convenience store chain Sheetz will accept Bitcoin payments](https://blockcrunch.co/2021/05/29/american-convenience-store-chain-sheetz-will-accept-bitcoin-payments/)
 - [Using Fake Reviews to Find Dangerous Extensions](https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/)
 <!-- BLOG-POST-LIST:END -->
 
