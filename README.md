@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Drunk Post: Things I've Learned as a Sr Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
 - [The Muse (YC W12) Is Hiring a Senior Platform Engineer](https://jobs.lever.co/themuse/f7bfe873-0ff0-487b-8544-1c57c898c996?lever-origin=applied&lever-source%5B%5D=YC)
+- [Privacy tech worker gets targeted mom's toothpaste brands ads after visiting mom](https://twitter.com/RobertGReeve/status/1397032784703655938)
+- [Show HN: Tubenotes.xyz – Annotate and Loop Videos](https://tubenotes.xyz/)
 - [Don't take on China alone, says ex-Australia PM Kevin Rudd](https://www.bbc.com/news/world-australia-57264249)
-- [Ask HN: Negotiating Salary](https://news.ycombinator.com/item?id=27332305)
-- [The First Sunlight Readable Netbook PC](https://cloversystems.designscience.info/products/legacy-products/sunbook/)
-- [Please Commit More Blatant Academic Fraud](https://jacobbuckman.com/2021-05-29-please-commit-more-blatant-academic-fraud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
