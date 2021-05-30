@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Shortest Possible Game of Monopoly: 21 Seconds](https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/)
+- [The Shortest Possible Game of Monopoly (2010)](https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/)
 - [An Escalator Made of Cardboard](https://www.youtube.com/watch?v=By1GWUpCXtw)
 - [Wall Street struggles to sell Washington on Bitcoin for the masses](https://www.politico.com/news/2021/05/30/bitcoin-investment-wall-street-lobbying-491399)
 - [If you frame it like that (2020)](https://theamericanscholar.org/if-you-frame-it-like-that/)
