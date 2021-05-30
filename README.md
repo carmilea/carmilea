@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Blade Runner Phenomenon (ARTE Documentary)](https://www.youtube.com/watch?v=uUz_vA06ffA)
+- [Was a flying killer robot used in Libya? Quite possibly](https://thebulletin.org/2021/05/was-a-flying-killer-robot-used-in-libya-quite-possibly/)
 - [It's time for us in the tech world to speak out about cryptocurrency](https://twitter.com/Pinboard/status/1399058952336277505)
+- [The Madman as Painter (2016)](https://www.city-journal.org/html/madman-painter-14347.html)
 - [How counting neutrons explains nuclear waste](https://rootsofprogress.org/nuclear-physics)
-- [James Bond Unmasked (1968)](https://www.commentarymagazine.com/articles/mordecai-richler/james-bond-unmasked/)
-- [ReadMe (YC W15) Is Hiring a Head of Product Management with API Experience](https://readme.com/careers#head-of-product-management)
-- [A minimalistic Python wrapper to AWS DynamoDB](https://github.com/dineshsonachalam/Lucid-Dynamodb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
