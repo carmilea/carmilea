@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Biologists Taboo Artificial Life](https://www.overcomingbias.com/2021/05/the-artificial-life-taboo-in-biology.html)
-- [Hypervisor for multi-tenant computing, like it should be](https://kwarantine.xyz)
-- [My Personal Creed of Employment](https://devjac.dev/posts/2021-05-29-my-personal-creed-of-employment.html)
-- [Trials begin on lozenge that rebuilds tooth enamel](https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/)
-- [Phacility is winding down, Phabricator no longer actively maintained](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)
+- [Vulnerabilities in billions of Wi-Fi devices let hackers bypass firewalls](https://arstechnica.com/gadgets/2021/05/farewell-to-firewalls-wi-fi-bugs-open-network-devices-to-remote-hacks/)
+- [GPG-Tui, a Terminal User Interface for GnuPG](https://orhun.dev/blog/introducing-gpg-tui/)
+- [What is the Fourth Dimension? (1884)](https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F)
+- [Scottish Café](https://en.wikipedia.org/wiki/Scottish_Café)
+- [Dark Patterns Hall of Shame](https://www.darkpatterns.org/hall-of-shame)
 <!-- BLOG-POST-LIST:END -->
 
 ---
