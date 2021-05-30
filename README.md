@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Airlines Will Postpone Serving Alcohol Amid Surge of In-Flight Violence](https://www.nytimes.com/2021/05/29/business/american-southwest-passengers-alcohol.html)
-- [PolarDB, yet another open source database system based on PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL)
-- [Data isn’t oil, whatever tech commentators tell you: it’s people’s lives](https://www.theguardian.com/commentisfree/2021/may/29/data-oil-metaphor-tech-companies-surveillance-capitalism)
-- [Show HN: DarkHN – Dark Mode Mirror for Hacker News](https://darkhn.herokuapp.com/)
-- [GPG-Tui, a Terminal User Interface for GnuPG](https://orhun.dev/blog/introducing-gpg-tui/)
+- [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
+- [Amazon Refused to Refund $7k After Shipping an Empty Box Instead of a Sony A1](https://fstoppers.com/news/amazon-refused-refund-7000-after-shipping-empty-box-instead-sony-a1-564979)
+- [Offload Mental Simulation](https://shalabh.com/programmable-systems/offload-mental-simulation.html)
+- [The Remarkable Life of Eugène-François Vidocq, Inventor of Modern Detective Work](https://allthatsinteresting.com/eugene-francois-vidocq)
+- [“Computer science is not about computers”](https://quoteinvestigator.com/2021/04/02/computer-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
