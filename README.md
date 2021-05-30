@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vulnerabilities in billions of Wi-Fi devices let hackers bypass firewalls](https://arstechnica.com/gadgets/2021/05/farewell-to-firewalls-wi-fi-bugs-open-network-devices-to-remote-hacks/)
+- [Airlines Will Postpone Serving Alcohol Amid Surge of In-Flight Violence](https://www.nytimes.com/2021/05/29/business/american-southwest-passengers-alcohol.html)
+- [PolarDB, yet another open source database system based on PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL)
+- [Data isn’t oil, whatever tech commentators tell you: it’s people’s lives](https://www.theguardian.com/commentisfree/2021/may/29/data-oil-metaphor-tech-companies-surveillance-capitalism)
+- [Show HN: DarkHN – Dark Mode Mirror for Hacker News](https://darkhn.herokuapp.com/)
 - [GPG-Tui, a Terminal User Interface for GnuPG](https://orhun.dev/blog/introducing-gpg-tui/)
-- [What is the Fourth Dimension? (1884)](https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F)
-- [Scottish Café](https://en.wikipedia.org/wiki/Scottish_Café)
-- [Dark Patterns Hall of Shame](https://www.darkpatterns.org/hall-of-shame)
 <!-- BLOG-POST-LIST:END -->
 
 ---
