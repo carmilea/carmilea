@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Blade Runner Phenomenon (ARTE Documentary)](https://www.youtube.com/watch?v=uUz_vA06ffA)
-- [Was a flying killer robot used in Libya? Quite possibly](https://thebulletin.org/2021/05/was-a-flying-killer-robot-used-in-libya-quite-possibly/)
-- [It's time for us in the tech world to speak out about cryptocurrency](https://twitter.com/Pinboard/status/1399058952336277505)
-- [The Madman as Painter (2016)](https://www.city-journal.org/html/madman-painter-14347.html)
-- [How counting neutrons explains nuclear waste](https://rootsofprogress.org/nuclear-physics)
+- [The Shortest Possible Game of Monopoly: 21 Seconds](https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/)
+- [An Escalator Made of Cardboard](https://www.youtube.com/watch?v=By1GWUpCXtw)
+- [Wall Street struggles to sell Washington on Bitcoin for the masses](https://www.politico.com/news/2021/05/30/bitcoin-investment-wall-street-lobbying-491399)
+- [If you frame it like that (2020)](https://theamericanscholar.org/if-you-frame-it-like-that/)
+- [Improving ventilation will help curb SARS-CoV-2](https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
