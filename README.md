@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Drunk Post: Things I've Learned as a Sr Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
-- [The Muse (YC W12) Is Hiring a Senior Platform Engineer](https://jobs.lever.co/themuse/f7bfe873-0ff0-487b-8544-1c57c898c996?lever-origin=applied&lever-source%5B%5D=YC)
-- [After a week at my mom’s house I'm getting ads for her toothpaste brand](https://twitter.com/RobertGReeve/status/1397032784703655938)
-- [Show HN: Tubenotes.xyz – Annotate and Loop Videos](https://tubenotes.xyz/)
-- [SunBook – Sunlight Readable Netbook (2014)](https://cloversystems.designscience.info/products/legacy-products/sunbook/)
+- [ReadMe (YC W15) Is Hiring a Head of Product Management with API Experience](https://readme.com/careers#head-of-product-management)
+- [A minimalistic Python wrapper to AWS DynamoDB](https://github.com/dineshsonachalam/Lucid-Dynamodb)
+- [Overkill objects for everyday life](https://neil.computer/notes/overkill-objects-for-everyday-life/)
+- [Amazon Prime inflates prices, using the false promise of ‘free shipping’](https://mattstoller.substack.com/p/amazon-primes-free-shipping-promise)
+- [Show HN: Kalk, A calculator with math syntax, complex numbers, etc. (Rust, WASM)](https://kalk.strct.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
