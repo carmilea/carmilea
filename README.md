@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse (YC W12) Is Hiring a Senior Platform Engineer](https://jobs.lever.co/themuse/f7bfe873-0ff0-487b-8544-1c57c898c996?lever-origin=applied&lever-source%5B%5D=YC)
+- [Don't take on China alone, says ex-Australia PM Kevin Rudd](https://www.bbc.com/news/world-australia-57264249)
+- [Ask HN: Negotiating Salary](https://news.ycombinator.com/item?id=27332305)
 - [The First Sunlight Readable Netbook PC](https://cloversystems.designscience.info/products/legacy-products/sunbook/)
 - [Please Commit More Blatant Academic Fraud](https://jacobbuckman.com/2021-05-29-please-commit-more-blatant-academic-fraud/)
-- [Show HN: paperd.ink – open-source e-paper development board](https://paperd.ink)
-- [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
-- [Amazon Refused to Refund $7k After Shipping an Empty Box Instead of a Sony A1](https://fstoppers.com/news/amazon-refused-refund-7000-after-shipping-empty-box-instead-sony-a1-564979)
 <!-- BLOG-POST-LIST:END -->
 
 ---
