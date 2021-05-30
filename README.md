@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Drunk Post: Things I've Learned as a Sr Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
 - [The Muse (YC W12) Is Hiring a Senior Platform Engineer](https://jobs.lever.co/themuse/f7bfe873-0ff0-487b-8544-1c57c898c996?lever-origin=applied&lever-source%5B%5D=YC)
-- [Privacy tech worker gets targeted mom's toothpaste brands ads after visiting mom](https://twitter.com/RobertGReeve/status/1397032784703655938)
+- [After a week at my mom’s house I'm getting ads for her toothpaste brand](https://twitter.com/RobertGReeve/status/1397032784703655938)
 - [Show HN: Tubenotes.xyz – Annotate and Loop Videos](https://tubenotes.xyz/)
-- [Don't take on China alone, says ex-Australia PM Kevin Rudd](https://www.bbc.com/news/world-australia-57264249)
+- [SunBook – Sunlight Readable Netbook (2014)](https://cloversystems.designscience.info/products/legacy-products/sunbook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
