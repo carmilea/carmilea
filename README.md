@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SARS-CoV-2 as a Gain-of-Function Laboratory Manipulation of Bat CoV RaTG13](https://pubs.acs.org/doi/10.1021/acsmedchemlett.1c00274)
+- [It's time for us in the tech world to speak out about cryptocurrency](https://twitter.com/Pinboard/status/1399058952336277505)
+- [How counting neutrons explains nuclear waste](https://rootsofprogress.org/nuclear-physics)
 - [James Bond Unmasked (1968)](https://www.commentarymagazine.com/articles/mordecai-richler/james-bond-unmasked/)
-- [Humans Used to Sleep in Two Shifts, and Maybe We Should Do It Again](https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again)
 - [ReadMe (YC W15) Is Hiring a Head of Product Management with API Experience](https://readme.com/careers#head-of-product-management)
-- [Show HN: Strange Binary – a cellular automata game](https://strangebinary.com)
+- [A minimalistic Python wrapper to AWS DynamoDB](https://github.com/dineshsonachalam/Lucid-Dynamodb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
