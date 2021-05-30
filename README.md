@@ -54,8 +54,8 @@
 - [Show HN: paperd.ink – open-source e-paper development board](https://paperd.ink)
 - [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
 - [Amazon Refused to Refund $7k After Shipping an Empty Box Instead of a Sony A1](https://fstoppers.com/news/amazon-refused-refund-7000-after-shipping-empty-box-instead-sony-a1-564979)
-- [NFT’s aren’t a harmless digital fad – they’re a disaster for our planet](https://www.theguardian.com/commentisfree/2021/may/29/non-fungible-tokens-digital-fad-planet-nfts-artists-fossil-fuels)
 - [Offload Mental Simulation](https://shalabh.com/programmable-systems/offload-mental-simulation.html)
+- [The Remarkable Life of Eugène-François Vidocq, Inventor of Modern Detective Work](https://allthatsinteresting.com/eugene-francois-vidocq)
 <!-- BLOG-POST-LIST:END -->
 
 ---
