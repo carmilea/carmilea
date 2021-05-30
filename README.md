@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Please Commit More Blatant Academic Fraud](https://jacobbuckman.com/2021-05-29-please-commit-more-blatant-academic-fraud/)
 - [Show HN: paperd.ink – open-source e-paper development board](https://paperd.ink)
 - [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
 - [Amazon Refused to Refund $7k After Shipping an Empty Box Instead of a Sony A1](https://fstoppers.com/news/amazon-refused-refund-7000-after-shipping-empty-box-instead-sony-a1-564979)
 - [Offload Mental Simulation](https://shalabh.com/programmable-systems/offload-mental-simulation.html)
-- [The Remarkable Life of Eugène-François Vidocq, Inventor of Modern Detective Work](https://allthatsinteresting.com/eugene-francois-vidocq)
 <!-- BLOG-POST-LIST:END -->
 
 ---
