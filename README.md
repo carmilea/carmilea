@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS 14 tracking changes sees big ad spending drop, tumbling prices](https://www.imore.com/ios-14-tracking-changes-sees-big-ad-spending-drop-tumbling-prices)
-- [PostGIS at 20, the Beginning](http://blog.cleverelephant.ca/2021/05/postgis-20-years.html)
-- [Google’s new popup will further weaken Facebook’s advertisement business](https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken)
-- [Why Your Programming Language Is Terrible for Enterprise Systems](https://www.juliustech.co/blog/why-your-programming-language-is-terrible-for-enterprise-systems)
-- [WordTsar, a WordStar Clone](http://wordtsar.ca/)
+- [FireOS: Does Amazon's software compete with Android?](https://www.techradar.com/news/fireos-does-amazons-software-compete-with-android)
+- [Keeper Tax (YC W19) is hiring engineers in SF](https://www.workatastartup.com/jobs/43038)
+- [Science Fiction Writer Robert J. Sawyer: WordStar: A Writer's Word Processor](https://www.sfwriter.com/wordstar.htm)
+- [Who Killed Thomas Beckett?](https://blog.britishmuseum.org/who-killed-thomas-becket/)
+- [Unreal Engine 5 Early Access Release Notes](https://docs.unrealengine.com/5.0/en-US/ReleaseNotes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
