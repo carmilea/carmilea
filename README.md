@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Noyb aims to end “cookie banner terror” and issues more than 500 GDPR complaints](https://noyb.eu/en/noyb-aims-end-cookie-banner-terror-and-issues-more-500-gdpr-complaints)
+- [Europe’s cookie consent reckoning is coming](https://techcrunch.com/2021/05/30/europes-cookie-consent-reckoning-is-coming/)
 - [Steve Jobs on his “glide slope” theory of tech (1988)](https://soundcloud.com/user-626311220/steve-jobs-on-his-glide-slope-theory-of-tech-1988)
 - [The Gerrymandering game that puts the fun in undermining democracy (2019)](https://arstechnica.com/gaming/2019/08/mapmaker-the-gerrymandering-game-that-puts-the-fun-in-undermining-democracy/)
 - [Space Debris Has Hit and Damaged the International Space Station](https://www.sciencealert.com/space-debris-has-damaged-the-international-space-station)
-- [Danish whistleblower details NSA collaboration, cable and data center spying](https://www.datacenterdynamics.com/en/news/danish-whistleblower-details-nsa-collaboration-submarine-cable-spying-surveillance-data-center/)
+- [Wikipedia is swimming in money–why is it begging people to donate?](https://www.dailydot.com/debug/wikipedia-endownemnt-fundraising/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
