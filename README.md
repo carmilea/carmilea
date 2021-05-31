@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe’s cookie consent reckoning is coming](https://techcrunch.com/2021/05/30/europes-cookie-consent-reckoning-is-coming/)
-- [Steve Jobs on his “glide slope” theory of tech (1988)](https://soundcloud.com/user-626311220/steve-jobs-on-his-glide-slope-theory-of-tech-1988)
-- [The Gerrymandering game that puts the fun in undermining democracy (2019)](https://arstechnica.com/gaming/2019/08/mapmaker-the-gerrymandering-game-that-puts-the-fun-in-undermining-democracy/)
-- [Space Debris Has Hit and Damaged the International Space Station](https://www.sciencealert.com/space-debris-has-damaged-the-international-space-station)
-- [Wikipedia is swimming in money–why is it begging people to donate?](https://www.dailydot.com/debug/wikipedia-endownemnt-fundraising/)
+- [Neural Networks Emulate Any Guitar Pedal for $120](https://hackaday.com/2021/05/30/neural-networks-emulate-any-guitar-pedal-for-120/)
+- [China allows couples to have three children](https://www.bbc.com/news/world-asia-china-57303592)
+- [What Oxford Taught Me About Posh People](https://unherd.com/2021/05/what-oxford-taught-me-about-posh-people/)
+- [Sri Lanka faces 'worst-ever beach pollution' from burning ship](https://www.dw.com/en/sri-lanka-faces-worst-ever-beach-pollution-from-burning-ship/a-57712086)
+- [Show HN: Notion API Go SDK](https://github.com/jomei/notionapi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
