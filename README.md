@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Neural Networks Emulate Any Guitar Pedal for $120](https://hackaday.com/2021/05/30/neural-networks-emulate-any-guitar-pedal-for-120/)
-- [China allows couples to have three children](https://www.bbc.com/news/world-asia-china-57303592)
-- [What Oxford Taught Me About Posh People](https://unherd.com/2021/05/what-oxford-taught-me-about-posh-people/)
-- [Sri Lanka faces 'worst-ever beach pollution' from burning ship](https://www.dw.com/en/sri-lanka-faces-worst-ever-beach-pollution-from-burning-ship/a-57712086)
-- [Show HN: Notion API Go SDK](https://github.com/jomei/notionapi)
+- [GraphQL Conf. is back in 2021 and has gone completely online and free](https://graphqlconf.org/)
+- [How the Commodore Amiga Powered Your Cable System in the '90s – Atlas Obscura](https://www.atlasobscura.com/articles/how-the-commodore-amiga-powered-your-cable-system-in-the-90s)
+- [Agapé (YC S21) Is Hiring a Founding Lead Engineer](https://www.notion.so/Lead-Engineer-Agap-abbd2edbcff94dfc8f9d3d1dcf56799a?v=e42eecd8e93040f8aef5830bd7769f22)
+- [You Are Not “Addicted” to Technology](https://www.jasonfeifer.com/episode/you-are-not-addicted-to-technology/)
+- [Cities with the Best Work-Life Balance 2021](https://www.getkisi.com/work-life-balance-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
