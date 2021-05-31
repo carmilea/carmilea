@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Corporations Won’t Hire Remote Workers in Colorado](https://www.vice.com/en/article/m7egp8/why-corporations-wont-hire-any-remote-workers-in-colorado)
+- [Wikipedia is swimming in money–why is it begging people to donate?](https://www.dailydot.com/debug/wikipedia-endownemnt-fundraising/)
+- [After years of conflict and instability, Iraq is opening up to tourism](https://monocle.com/magazine/issues/144/open-invitation/)
+- [In Mexico, cartels are hunting down police at their homes](https://apnews.com/article/caribbean-mexico-police-f6ea7798ca3cc171ac13b3a5a6a6c266)
+- [Scamp – a homebrew 16-bit CPU](https://incoherency.co.uk/blog/stories/scamp-lives.html)
 - [I Was Paralyzed by Severe Depression. Then Came Ketamine](https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html)
-- [NSA spying row: Denmark helped US gather data on European officials, says report](https://www.bbc.com/news/world-europe-57302806)
-- [TermPair: Terminal sharing with AES-GCM 128 bit end-to-end encryption](https://github.com/cs01/termpair)
-- [The New York Times uses the dark patterns it derides](https://www.nirandfar.com/cancel-new-york-times/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
