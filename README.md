@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FireOS: Does Amazon's software compete with Android?](https://www.techradar.com/news/fireos-does-amazons-software-compete-with-android)
-- [Keeper Tax (YC W19) is hiring engineers in SF](https://www.workatastartup.com/jobs/43038)
-- [Science Fiction Writer Robert J. Sawyer: WordStar: A Writer's Word Processor](https://www.sfwriter.com/wordstar.htm)
-- [Who Killed Thomas Beckett?](https://blog.britishmuseum.org/who-killed-thomas-becket/)
-- [Unreal Engine 5 Early Access Release Notes](https://docs.unrealengine.com/5.0/en-US/ReleaseNotes/)
+- [Projects and channels that have decided to leave Freenode](https://github.com/siraben/freenode-exodus)
+- [The May 18 Gwangju Uprising](https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1)
+- [On Smoking](https://annagat.substack.com/p/on-smoking)
+- [Small B Blogging (2018)](https://tomcritchlow.com/2018/02/23/small-b-blogging/)
+- [The faulty digital clock problem](https://andersource.dev/2021/04/29/faulty_digital_clock.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
