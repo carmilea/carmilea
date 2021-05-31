@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoid buying in HOA neighborhoods (2014)](https://outofyourrut.com/avoid-buying-hoa-neighborhoods/)
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [The Brazilianization of the World](https://americanaffairsjournal.org/2021/05/the-brazilianization-of-the-world/)
+- [Sodium rutin extends lifespan and health span in mice by 10%](https://pubmed.ncbi.nlm.nih.gov/33555034/)
 - [The Eidophor Television System](https://www.earlytelevision.org/yanczer_eidophor.html)
 - [The Digital Wallet of the Future (1996)](https://buffalonews.com/news/the-digital-wallet-of-the-future/article_321a88e4-5141-5640-bab6-a616afeb7872.html)
-- [The May 18 Gwangju Uprising](https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
