@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Projects and channels that have decided to leave Freenode](https://github.com/siraben/freenode-exodus)
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [The Brazilianization of the World](https://americanaffairsjournal.org/2021/05/the-brazilianization-of-the-world/)
+- [The Eidophor Television System](https://www.earlytelevision.org/yanczer_eidophor.html)
+- [The Digital Wallet of the Future (1996)](https://buffalonews.com/news/the-digital-wallet-of-the-future/article_321a88e4-5141-5640-bab6-a616afeb7872.html)
 - [The May 18 Gwangju Uprising](https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1)
-- [On Smoking](https://annagat.substack.com/p/on-smoking)
-- [Small B Blogging (2018)](https://tomcritchlow.com/2018/02/23/small-b-blogging/)
-- [The faulty digital clock problem](https://andersource.dev/2021/04/29/faulty_digital_clock.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
