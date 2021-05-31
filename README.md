@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Shortest Possible Game of Monopoly (2010)](https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/)
-- [An Escalator Made of Cardboard](https://www.youtube.com/watch?v=By1GWUpCXtw)
-- [Wall Street struggles to sell Washington on Bitcoin for the masses](https://www.politico.com/news/2021/05/30/bitcoin-investment-wall-street-lobbying-491399)
-- [If you frame it like that (2020)](https://theamericanscholar.org/if-you-frame-it-like-that/)
-- [Improving ventilation will help curb SARS-CoV-2](https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2)
+- [Why Corporations Won’t Hire Remote Workers in Colorado](https://www.vice.com/en/article/m7egp8/why-corporations-wont-hire-any-remote-workers-in-colorado)
+- [I Was Paralyzed by Severe Depression. Then Came Ketamine](https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html)
+- [NSA spying row: Denmark helped US gather data on European officials, says report](https://www.bbc.com/news/world-europe-57302806)
+- [TermPair: Terminal sharing with AES-GCM 128 bit end-to-end encryption](https://github.com/cs01/termpair)
+- [The New York Times uses the dark patterns it derides](https://www.nirandfar.com/cancel-new-york-times/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
