@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Air France cancels flights as Russia withholds clearance](https://www.reuters.com/world/europe/air-france-delays-two-moscow-bound-flights-over-lack-russian-permits-ria-2021-05-31/)
-- [Movie written by algorithm turns out to be hilarious and intense](https://arstechnica.com/gaming/2021/05/an-ai-wrote-this-movie-and-its-strangely-moving/)
-- [Show HN: Open-source soft-core RISC-V SoC with gdb support](https://github.com/stnolting/neorv32)
-- [GCC Rust Monthly Report #6 May 2021](https://thephilbert.io/2021/05/31/gcc-rust-monthly-report-6-may-2021/)
-- [They Were Labeled Witches. They Just Had Dementia](https://narratively.com/they-were-labeled-witches-they-just-had-dementia/)
+- [iOS 14 tracking changes sees big ad spending drop, tumbling prices](https://www.imore.com/ios-14-tracking-changes-sees-big-ad-spending-drop-tumbling-prices)
+- [PostGIS at 20, the Beginning](http://blog.cleverelephant.ca/2021/05/postgis-20-years.html)
+- [Google’s new popup will further weaken Facebook’s advertisement business](https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken)
+- [Why Your Programming Language Is Terrible for Enterprise Systems](https://www.juliustech.co/blog/why-your-programming-language-is-terrible-for-enterprise-systems)
+- [WordTsar, a WordStar Clone](http://wordtsar.ca/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
