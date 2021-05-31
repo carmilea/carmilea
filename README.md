@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL Conf. is back in 2021 and has gone completely online and free](https://graphqlconf.org/)
-- [How the Commodore Amiga Powered Your Cable System in the '90s – Atlas Obscura](https://www.atlasobscura.com/articles/how-the-commodore-amiga-powered-your-cable-system-in-the-90s)
-- [Agapé (YC S21) Is Hiring a Founding Lead Engineer](https://www.notion.so/Lead-Engineer-Agap-abbd2edbcff94dfc8f9d3d1dcf56799a?v=e42eecd8e93040f8aef5830bd7769f22)
-- [You Are Not “Addicted” to Technology](https://www.jasonfeifer.com/episode/you-are-not-addicted-to-technology/)
-- [Cities with the Best Work-Life Balance 2021](https://www.getkisi.com/work-life-balance-2021)
+- [Air France cancels flights as Russia withholds clearance](https://www.reuters.com/world/europe/air-france-delays-two-moscow-bound-flights-over-lack-russian-permits-ria-2021-05-31/)
+- [Movie written by algorithm turns out to be hilarious and intense](https://arstechnica.com/gaming/2021/05/an-ai-wrote-this-movie-and-its-strangely-moving/)
+- [Show HN: Open-source soft-core RISC-V SoC with gdb support](https://github.com/stnolting/neorv32)
+- [GCC Rust Monthly Report #6 May 2021](https://thephilbert.io/2021/05/31/gcc-rust-monthly-report-6-may-2021/)
+- [They Were Labeled Witches. They Just Had Dementia](https://narratively.com/they-were-labeled-witches-they-just-had-dementia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
