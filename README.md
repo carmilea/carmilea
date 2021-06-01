@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Share It, Anomymously with Self Destruct Messages](https://www.pastenow.me/create)
-- [Which Macs will be officially supported by macOS 12?](https://eclecticlight.co/2021/06/01/which-macs-will-be-officially-supported-by-macos-12/)
+- [Copy/Paste of diagrams in Google docs/presentation stopped working by a few days](https://news.ycombinator.com/item?id=27351855)
+- [EU set to unveil plans for bloc-wide digital wallet for various services](https://www.reuters.com/business/finance/eu-set-unveil-plans-bloc-wide-digital-wallet-ft-2021-06-01/)
+- [Raspberry Silicon update: RP2040 on sale now at $1](https://www.raspberrypi.org/blog/raspberry-pi-rp2040-on-sale/)
 - [Deepnote (YC S19) Is Hiring (SF, Prague)](https://deepnote.com/join-us)
-- [AMD Demonstrates Stacked 3D V-Cache Technology: 192 MB at 2 TB/SEC](https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming)
-- [Making Wi-Fi serial console adapters with old portable routers](https://sagacioussuricata.com/posts/openwrt-serial-bridge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
