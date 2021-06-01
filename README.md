@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Digging into Quebec's electronic proof of vaccination](https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/)
-- [Driving with D](https://dlang.org/blog/2021/06/01/driving-with-d/)
-- [Millions of Americans could face eviction as housing protection expires in June](https://www.cnbc.com/2021/05/31/millions-of-americans-could-face-eviction-as-housing-protection-expires-in-june.html)
-- [I’m Not Scared to Reenter Society. I’m Just Not Sure I Want To](https://www.theatlantic.com/ideas/archive/2021/05/post-pandemic-dont-want-to-reenter-society/619045/)
-- [Why WhatsApp opposes traceability of messages](https://faq.whatsapp.com/general/security-and-privacy/what-is-traceability-and-why-does-whatsapp-oppose-it/?_fb_noscript=1#)
+- [The US military is starting to get interested in Starship](https://arstechnica.com/science/2021/06/the-us-military-is-starting-to-get-really-interested-in-starship/)
+- [Virtual deck of cards using just a browser](https://playingcards.io/)
+- [The website obesity crisis (2015)](https://idlewords.com/talks/website_obesity.htm)
+- [Ask HN: Who is hiring? (June 2021)](https://news.ycombinator.com/item?id=27355392)
+- [VT220 Built-in Glyphs (2006)](https://www.vt100.net/dec/vt220/glyphs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
