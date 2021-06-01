@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox Release 89.0](https://www.mozilla.org/en-US/firefox/89.0/releasenotes/)
-- [Employees Are Quitting Instead of Giving Up Working from Home](https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home)
-- [Europe to US: Pass new laws if you want a data-transfer deal](https://www.politico.eu/article/europe-to-us-pass-new-laws-if-you-want-data-transfer-deal-privacy-regulation/)
-- [Rotations with quaternions](https://imadr.github.io/rotations-with-quaternions/)
-- [Why doesn’t V8 fit on my microcontroller?](https://blog.toit.io/why-doesnt-v8-fit-on-my-microcontroller-71dc6e2d8f5c)
+- [Digging into Quebec's electronic proof of vaccination](https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/)
+- [Driving with D](https://dlang.org/blog/2021/06/01/driving-with-d/)
+- [Millions of Americans could face eviction as housing protection expires in June](https://www.cnbc.com/2021/05/31/millions-of-americans-could-face-eviction-as-housing-protection-expires-in-june.html)
+- [I’m Not Scared to Reenter Society. I’m Just Not Sure I Want To](https://www.theatlantic.com/ideas/archive/2021/05/post-pandemic-dont-want-to-reenter-society/619045/)
+- [Why WhatsApp opposes traceability of messages](https://faq.whatsapp.com/general/security-and-privacy/what-is-traceability-and-why-does-whatsapp-oppose-it/?_fb_noscript=1#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
