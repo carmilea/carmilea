@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mars: NASA's Perseverance rover's first 100 days in pictures](https://www.bbc.co.uk/news/in-pictures-57233756)
-- [Why electric cars will take over sooner than you think](https://www.bbc.co.uk/news/business-57253947)
-- [Google Groups has banned comp.lang.tcl](https://groups.google.com/g/comp.lang.tcl)
-- [For Sleep Apnea, a Mouth Guard May Be a Good Alternative to CPAP](https://www.nytimes.com/2021/05/31/well/mind/sleep-apnea-treatment-mouth-guard.html)
-- [Swiss Covid Certificate – Technical documentation of the swiss Covid certificate](https://github.com/admin-ch/CovidCertificate-Documents)
+- [Firefox Release 89.0](https://www.mozilla.org/en-US/firefox/89.0/releasenotes/)
+- [Employees Are Quitting Instead of Giving Up Working from Home](https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home)
+- [Europe to US: Pass new laws if you want a data-transfer deal](https://www.politico.eu/article/europe-to-us-pass-new-laws-if-you-want-data-transfer-deal-privacy-regulation/)
+- [Rotations with quaternions](https://imadr.github.io/rotations-with-quaternions/)
+- [Why doesn’t V8 fit on my microcontroller?](https://blog.toit.io/why-doesnt-v8-fit-on-my-microcontroller-71dc6e2d8f5c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
