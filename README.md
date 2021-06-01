@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The US military is starting to get interested in Starship](https://arstechnica.com/science/2021/06/the-us-military-is-starting-to-get-really-interested-in-starship/)
-- [Virtual deck of cards using just a browser](https://playingcards.io/)
-- [The website obesity crisis (2015)](https://idlewords.com/talks/website_obesity.htm)
-- [Ask HN: Who is hiring? (June 2021)](https://news.ycombinator.com/item?id=27355392)
-- [VT220 Built-in Glyphs (2006)](https://www.vt100.net/dec/vt220/glyphs)
+- [Light-shrinking material lets ordinary microscope see in super resolution](https://phys.org/news/2021-06-light-shrinking-material-ordinary-microscope-super.html)
+- [Apple, FedEx and the Cookie Apocalypse](https://www.ben-evans.com/benedictevans/2021/5/25/apple-fedex-and-the-cookie-apocalypse)
+- [Helix: a post-modern modal text editor](https://helix-editor.com/)
+- [Belarus bans most citizens from going abroad](https://www.bbc.com/news/world-europe-57316838)
+- [Porting the Oberon system to the RISC-V [video]](https://www.youtube.com/watch?v=gpGgeXHZr0M&t=21420s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
