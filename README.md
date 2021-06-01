@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Light-shrinking material lets ordinary microscope see in super resolution](https://phys.org/news/2021-06-light-shrinking-material-ordinary-microscope-super.html)
-- [Apple, FedEx and the Cookie Apocalypse](https://www.ben-evans.com/benedictevans/2021/5/25/apple-fedex-and-the-cookie-apocalypse)
-- [Helix: a post-modern modal text editor](https://helix-editor.com/)
-- [Belarus bans most citizens from going abroad](https://www.bbc.com/news/world-europe-57316838)
-- [Porting the Oberon system to the RISC-V [video]](https://www.youtube.com/watch?v=gpGgeXHZr0M&t=21420s)
+- [Signadot (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/42298)
+- [US ‘Gets Its Ass Handed to It’ in Wargames: Here’s a $24B Fix](https://breakingdefense.com/2019/03/us-gets-its-ass-handed-to-it-in-wargames-heres-a-24-billion-fix/)
+- [A Secure and Formally Verified Linux KVM Hypervisor [pdf]](http://nieh.net/pubs/ieeesp2021_kvm.pdf)
+- [OBS Studio 27.0](https://github.com/obsproject/obs-studio/releases/tag/27.0.0)
+- [William Byrd on logic and relational programming, miniKanren (2014)](https://www.infoq.com/interviews/byrd-relational-programming-minikanren/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
