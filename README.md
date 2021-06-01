@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Anxiety of Influencers](https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/)
-- [Chinese ‘Artificial Sun’ experimental fusion reactor sets world record](https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time)
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Sodium rutin extends lifespan and health span in mice by 10%](https://pubmed.ncbi.nlm.nih.gov/33555034/)
-- [The Digital Wallet of the Future (1996)](https://buffalonews.com/news/the-digital-wallet-of-the-future/article_321a88e4-5141-5640-bab6-a616afeb7872.html)
+- [Rescuers question what3words' use in emergencies](https://www.bbc.co.uk/news/technology-57156797)
+- [AMD Demonstrates Stacked 3D V-Cache Technology: 192 MB at 2 TB/SEC](https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming)
+- [Making Wi-Fi serial console adapters with old portable routers](https://sagacioussuricata.com/posts/openwrt-serial-bridge/)
+- [Pynguin – Allow developers to generate Python unit tests automatically](https://github.com/se2p/pynguin)
+- [NVMe over Fabrics (NVMe-oF) Explained](https://blog.westerndigital.com/nvme-of-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
