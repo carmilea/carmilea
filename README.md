@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoid buying in HOA neighborhoods (2014)](https://outofyourrut.com/avoid-buying-hoa-neighborhoods/)
+- [The Anxiety of Influencers](https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/)
+- [Chinese ‘Artificial Sun’ experimental fusion reactor sets world record](https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time)
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [Sodium rutin extends lifespan and health span in mice by 10%](https://pubmed.ncbi.nlm.nih.gov/33555034/)
-- [The Eidophor Television System](https://www.earlytelevision.org/yanczer_eidophor.html)
 - [The Digital Wallet of the Future (1996)](https://buffalonews.com/news/the-digital-wallet-of-the-future/article_321a88e4-5141-5640-bab6-a616afeb7872.html)
 <!-- BLOG-POST-LIST:END -->
 
