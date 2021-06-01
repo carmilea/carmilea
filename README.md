@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rescuers question what3words' use in emergencies](https://www.bbc.co.uk/news/technology-57156797)
+- [Share It, Anomymously with Self Destruct Messages](https://www.pastenow.me/create)
+- [Which Macs will be officially supported by macOS 12?](https://eclecticlight.co/2021/06/01/which-macs-will-be-officially-supported-by-macos-12/)
+- [Deepnote (YC S19) Is Hiring (SF, Prague)](https://deepnote.com/join-us)
 - [AMD Demonstrates Stacked 3D V-Cache Technology: 192 MB at 2 TB/SEC](https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming)
 - [Making Wi-Fi serial console adapters with old portable routers](https://sagacioussuricata.com/posts/openwrt-serial-bridge/)
-- [Pynguin – Allow developers to generate Python unit tests automatically](https://github.com/se2p/pynguin)
-- [NVMe over Fabrics (NVMe-oF) Explained](https://blog.westerndigital.com/nvme-of-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
