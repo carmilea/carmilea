@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Share It, Anomymously with Self Destruct Messages](https://www.pastenow.me/create)
-- [Copy/Paste of diagrams in Google docs/presentation stopped working by a few days](https://news.ycombinator.com/item?id=27351855)
-- [EU set to unveil plans for bloc-wide digital wallet for various services](https://www.reuters.com/business/finance/eu-set-unveil-plans-bloc-wide-digital-wallet-ft-2021-06-01/)
-- [Raspberry Silicon update: RP2040 on sale now at $1](https://www.raspberrypi.org/blog/raspberry-pi-rp2040-on-sale/)
-- [Deepnote (YC S19) Is Hiring (SF, Prague)](https://deepnote.com/join-us)
+- [Mars: NASA's Perseverance rover's first 100 days in pictures](https://www.bbc.co.uk/news/in-pictures-57233756)
+- [Why electric cars will take over sooner than you think](https://www.bbc.co.uk/news/business-57253947)
+- [Google Groups has banned comp.lang.tcl](https://groups.google.com/g/comp.lang.tcl)
+- [For Sleep Apnea, a Mouth Guard May Be a Good Alternative to CPAP](https://www.nytimes.com/2021/05/31/well/mind/sleep-apnea-treatment-mouth-guard.html)
+- [Swiss Covid Certificate – Technical documentation of the swiss Covid certificate](https://github.com/admin-ch/CovidCertificate-Documents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
