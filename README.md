@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The $15B jet dilemma facing Boeing’s CEO](https://www.reuters.com/business/aerospace-defense/15-billion-jet-dilemma-facing-boeings-ceo-2021-06-02/)
-- [New Details Emerge on the “Highly Modified Drone” That Outran Police Helicopters](https://www.thedrive.com/the-war-zone/40756/new-details-emerge-on-the-highly-modified-drone-that-outran-police-helicopters-over-tucson)
-- [NixOS 21.05](https://nixos.org/manual/nixos/stable/release-notes.html#sec-release-21.05)
-- [Mass scale manipulation of Twitter Trends discovered](https://techxplore.com/news/2021-06-mass-scale-twitter-trends.html)
-- [Huawei HarmonyOS and New Products Launch](https://www.youtube.com/watch?v=y2101ics8jc)
+- [Amazon warehouse injuries '80% higher' than competitors, report claims](https://www.bbc.com/news/technology-57332390)
+- [EasyPost (YC S13) Is Hiring (Remote)](https://www.easypost.com/careers)
+- [California Bill to Decriminalize Psychedelics Is Approved by Senate](https://openstates.org/ca/bills/20212022/SB519/)
+- [Kinda a Big Announcement](https://www.joelonsoftware.com/2021/06/02/kinda-a-big-announcement/)
+- [Do Wide and Deep Networks Learn the Same Things?](https://ai.googleblog.com/2021/05/do-wide-and-deep-networks-learn-same.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
