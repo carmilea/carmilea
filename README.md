@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NortonLifeLock Unveils Norton Crypto](https://investor.nortonlifelock.com/About/Investors/press-releases/press-release-details/2021/NortonLifeLock-Unveils-Norton-Crypto/default.aspx)
-- [King County, WA is first in the country to ban facial recognition software](https://komonews.com/news/local/king-county-is-first-in-the-country-to-ban-facial-recognition-software)
-- [Tesorio (YC S15) Is Hiring a Principal Data Architect and Senior DevOps](https://www.tesorio.com/careers#job-openings)
-- [[New York] MTA Is Breached by Hackers as Cyberattacks Surge](https://www.nytimes.com/2021/06/02/nyregion/mta-cyber-attack.html)
-- [Fujifilm shuts down network after suspected ransomware attack](https://www.bleepingcomputer.com/news/security/fujifilm-shuts-down-network-after-suspected-ransomware-attack/)
+- [Apple: Employees Asked to Return to Offices 3 Days a Week Starting in September](https://www.macrumors.com/2021/06/02/apple-employees-returning-to-work/)
+- [When six boys were shipwrecked for 15 months (2020)](https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months)
+- [Malloc broke Serenity's JPGLoader, or: how to win the lottery](https://sin-ack.github.io/posts/jpg-loader-bork/)
+- [Car Design History](https://www.cardesignhistory.com/)
+- [Wyoming site of new nuclear power plant from Bill Gates' TerraPower](https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
