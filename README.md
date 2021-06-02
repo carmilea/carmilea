@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [W3.org Cert Expired](https://www.w3.org/)
+- [DoD Budget Appears to Cut Cyber Offense, Beef Up Defenses](https://breakingdefense.com/2021/06/dod-budget-appears-to-cut-cyber-offense-beef-up-defenses/)
 - [DIY Book Scanner](https://www.diybookscanner.org/)
-- [Show HN: Level up your poker game with Floptimal. Preflop ranges reimagined](https://floptimal.com)
+- [Show HN: Floptimal – Preflop ranges reimagined](https://floptimal.com)
 - [Signadot (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/42298)
-- [A Secure and Formally Verified Linux KVM Hypervisor [pdf]](http://nieh.net/pubs/ieeesp2021_kvm.pdf)
-- [OBS Studio 27.0](https://github.com/obsproject/obs-studio/releases/tag/27.0.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
