@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [W3.org Cert Expired](https://www.w3.org/)
-- [DoD Budget Appears to Cut Cyber Offense, Beef Up Defenses](https://breakingdefense.com/2021/06/dod-budget-appears-to-cut-cyber-offense-beef-up-defenses/)
-- [DIY Book Scanner](https://www.diybookscanner.org/)
-- [Show HN: Floptimal – Preflop ranges reimagined](https://floptimal.com)
-- [Signadot (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/42298)
+- [B&W Nautilus loudspeaker from the beginning](https://www.bowerswilkins.com/blog/products/history-of-nautilus)
+- [Producing a trustworthy x86-based Linux appliance](https://mjg59.dreamwidth.org/57199.html)
+- [Flame: A PureScript front-end framework inspired by the Elm architecture](https://github.com/easafe/purescript-flame)
+- [Event-Based Backpropagation for Exact Gradients in Spiking Neural Networks](https://arxiv.org/abs/2009.08378)
+- [Pesticides Are Killing the World's Soils](https://www.scientificamerican.com/article/pesticides-are-killing-the-worlds-soils/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
