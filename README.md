@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are house prices rising so fast in a pandemic?](https://www.bbc.co.uk/news/business-57260261)
-- [Etsy to buy fashion reseller Depop for $1.63B in push for younger consumers](https://www.reuters.com/business/etsy-buy-gen-z-focused-fashion-marketplace-depop-163-billion-2021-06-02/)
-- [Penthouses and poor doors: how Europe's 'biggest regeneration project' fell flat](https://www.theguardian.com/artanddesign/2021/feb/02/penthouses-poor-doors-nine-elms-battersea-london-luxury-housing-development)
-- [SpaceX launching an Ethereum node to the ISS](https://www.sciencetimes.com/articles/31489/20210601/spacex-to-deploy-first-ethereum-node-to-iss-in-collaboration-with-spacechain.htm)
-- [GitHub was having issues](https://www.githubstatus.com/incidents/76nv9h8pmkv4)
+- [Mass scale manipulation of Twitter Trends discovered](https://techxplore.com/news/2021-06-mass-scale-twitter-trends.html)
+- [Huawei HarmonyOS and New Products Launch](https://www.youtube.com/watch?v=y2101ics8jc)
+- [Show HN: Render Jupyter notebooks as interactive articles with Deepnote](https://deepnote.com/viewer)
+- [China's Newest Computer Science Student Is a Computer](https://www.sixthtone.com/news/1007654/chinas-newest-computer-science-student-is-a-computer)
+- [Qventus (YC W15) Is Hiring Data Scientists](https://www.ycombinator.com/companies/qventus/jobs/nHDNaun-data-scientist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
