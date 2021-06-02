@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon warehouse injuries '80% higher' than competitors, report claims](https://www.bbc.com/news/technology-57332390)
-- [EasyPost (YC S13) Is Hiring (Remote)](https://www.easypost.com/careers)
-- [California Bill to Decriminalize Psychedelics Is Approved by Senate](https://openstates.org/ca/bills/20212022/SB519/)
-- [Kinda a Big Announcement](https://www.joelonsoftware.com/2021/06/02/kinda-a-big-announcement/)
-- [Do Wide and Deep Networks Learn the Same Things?](https://ai.googleblog.com/2021/05/do-wide-and-deep-networks-learn-same.html)
+- [Ask HN: Where can I find list of companies that went fully remote](https://news.ycombinator.com/item?id=27373567)
+- [Fujifilm shuts down network after suspected ransomware attack](https://www.bleepingcomputer.com/news/security/fujifilm-shuts-down-network-after-suspected-ransomware-attack/)
+- [Raspberry Pi 4 OpenBSD based home computer/gaming console](https://news.ycombinator.com/item?id=27373088)
+- [Super Mario Bros: The Human Limit](https://www.youtube.com/watch?v=7rIJNT7dCmE)
+- [Massachusetts Steamship Authority hit by ransomware attack; ferries delayed](https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
