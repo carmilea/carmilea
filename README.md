@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Where can I find list of companies that went fully remote](https://news.ycombinator.com/item?id=27373567)
+- [NortonLifeLock Unveils Norton Crypto](https://investor.nortonlifelock.com/About/Investors/press-releases/press-release-details/2021/NortonLifeLock-Unveils-Norton-Crypto/default.aspx)
+- [King County, WA is first in the country to ban facial recognition software](https://komonews.com/news/local/king-county-is-first-in-the-country-to-ban-facial-recognition-software)
+- [Tesorio (YC S15) Is Hiring a Principal Data Architect and Senior DevOps](https://www.tesorio.com/careers#job-openings)
+- [[New York] MTA Is Breached by Hackers as Cyberattacks Surge](https://www.nytimes.com/2021/06/02/nyregion/mta-cyber-attack.html)
 - [Fujifilm shuts down network after suspected ransomware attack](https://www.bleepingcomputer.com/news/security/fujifilm-shuts-down-network-after-suspected-ransomware-attack/)
-- [Raspberry Pi 4 OpenBSD based home computer/gaming console](https://news.ycombinator.com/item?id=27373088)
-- [Super Mario Bros: The Human Limit](https://www.youtube.com/watch?v=7rIJNT7dCmE)
-- [Massachusetts Steamship Authority hit by ransomware attack; ferries delayed](https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
