@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [B&W Nautilus loudspeaker from the beginning](https://www.bowerswilkins.com/blog/products/history-of-nautilus)
-- [Producing a trustworthy x86-based Linux appliance](https://mjg59.dreamwidth.org/57199.html)
-- [Flame: A PureScript front-end framework inspired by the Elm architecture](https://github.com/easafe/purescript-flame)
-- [Event-Based Backpropagation for Exact Gradients in Spiking Neural Networks](https://arxiv.org/abs/2009.08378)
-- [Pesticides Are Killing the World's Soils](https://www.scientificamerican.com/article/pesticides-are-killing-the-worlds-soils/)
+- [GitHub Is Having Issues](https://www.githubstatus.com/incidents/76nv9h8pmkv4)
+- [25 Years of CSS](https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/)
+- [G7 nations committing billions more to fossil fuel than green energy](https://www.theguardian.com/world/2021/jun/02/g7-nations-committing-billions-more-to-fossil-fuel-than-green-energy)
+- [Show HN: Yare.io – game where you control units with JavaScript](https://yare.io)
+- [Bitmovin (YC S15) Is Hiring a Marketing Operations Manager](https://bitmovin.com/careers/5260518002/?gh_jid=5260518002)
 <!-- BLOG-POST-LIST:END -->
 
 ---
