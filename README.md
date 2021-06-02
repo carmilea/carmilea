@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Is Having Issues](https://www.githubstatus.com/incidents/76nv9h8pmkv4)
-- [25 Years of CSS](https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/)
-- [G7 nations committing billions more to fossil fuel than green energy](https://www.theguardian.com/world/2021/jun/02/g7-nations-committing-billions-more-to-fossil-fuel-than-green-energy)
-- [Show HN: Yare.io – game where you control units with JavaScript](https://yare.io)
-- [Bitmovin (YC S15) Is Hiring a Marketing Operations Manager](https://bitmovin.com/careers/5260518002/?gh_jid=5260518002)
+- [Why are house prices rising so fast in a pandemic?](https://www.bbc.co.uk/news/business-57260261)
+- [Etsy to buy fashion reseller Depop for $1.63B in push for younger consumers](https://www.reuters.com/business/etsy-buy-gen-z-focused-fashion-marketplace-depop-163-billion-2021-06-02/)
+- [Penthouses and poor doors: how Europe's 'biggest regeneration project' fell flat](https://www.theguardian.com/artanddesign/2021/feb/02/penthouses-poor-doors-nine-elms-battersea-london-luxury-housing-development)
+- [SpaceX launching an Ethereum node to the ISS](https://www.sciencetimes.com/articles/31489/20210601/spacex-to-deploy-first-ethereum-node-to-iss-in-collaboration-with-spacechain.htm)
+- [GitHub was having issues](https://www.githubstatus.com/incidents/76nv9h8pmkv4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
