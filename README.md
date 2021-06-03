@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Lighthouse V8 – Improved CLS metrics](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.0.0)
 - [Jiga (YC W21) Is Hiring a Full Stack Developer (Remote)](https://www.workatastartup.com/jobs/44310)
+- [The NFT market bubble has popped and we’ve got the charts to prove it](https://protos.com/nft-market-bubble-popped-crypto-collectibles-are-over/)
 - [Next Steps for the GNOME Foundation](https://ramcq.net/2021/06/01/next-steps-for-the-gnome-foundation/)
-- [HarmonyOS 2.0 released – Huawei's new smart global operating system](https://consumer.huawei.com/en/harmonyos/)
-- [The empty office: what we lose when we work from home](https://www.theguardian.com/science/2021/jun/03/the-empty-office-what-we-lose-when-we-work-from-home)
-- [Xbox co-pilot mode changed disabled sister’s life](https://www.reddit.com/r/XboxSeriesX/comments/nqk3nb/copilot_mode_changed_my_disabled_sisters_life/)
+- [Huawei replaces Android with HarmonyOS, which is also Android](https://arstechnica.com/gadgets/2021/06/huaweis-harmonyos-will-rollout-to-100-android-models-over-the-next-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
