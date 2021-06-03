@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Lab-Leak Mess](https://www.cjr.org/the_media_today/lab_leak_theory_credibility.php)
+- [Jiga (YC W21) Is Hiring a Full Stack Developer (Remote)](https://www.workatastartup.com/jobs/44310)
+- [Next Steps for the GNOME Foundation](https://ramcq.net/2021/06/01/next-steps-for-the-gnome-foundation/)
+- [HarmonyOS 2.0 released – Huawei's new smart global operating system](https://consumer.huawei.com/en/harmonyos/)
+- [The empty office: what we lose when we work from home](https://www.theguardian.com/science/2021/jun/03/the-empty-office-what-we-lose-when-we-work-from-home)
 - [Xbox co-pilot mode changed disabled sister’s life](https://www.reddit.com/r/XboxSeriesX/comments/nqk3nb/copilot_mode_changed_my_disabled_sisters_life/)
-- [Amazon's Controversial 'Hire to Fire' Practice Reveals a Truth About Management](https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html)
-- [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27375951)
-- [Complete protection by single dose skin patch delivered SARS-CoV-2 spike vaccine](https://www.biorxiv.org/content/10.1101/2021.05.30.446357v1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
