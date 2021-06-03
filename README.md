@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [They rage-quit the school system and they're not going back](https://www.wired.com/story/pandemic-homeschoolers-who-are-not-going-back/)
+- [Stanford law student who made fun of the federalist able to graduate after all](https://slate.com/news-and-politics/2021/06/federalist-society-stanford.html)
+- [Google Joins Apple to Opt-out of Mobile Advertising IDs](https://thebigtech.substack.com/p/google-limits-mobile-advertising-id-android-12)
+- [United Airlines will buy 15 planes from Boom Supersonic](https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html)
+- [Pandemic homeschoolers who are not going back](https://www.wired.com/story/pandemic-homeschoolers-who-are-not-going-back/)
 - [Jerry (YC S17) Is Hiring Remote Senior Engineers](https://apply.workable.com/jerry/j/07E1D2B302/)
-- [Algorithmic Botany](http://algorithmicbotany.org/)
-- [Ask HN: What is the most bloated website you use](https://news.ycombinator.com/item?id=27379599)
-- [Amazon Ring’s neighborhood watch app is making police requests public](https://www.reuters.com/technology/amazon-rings-neighborhood-watch-app-is-making-police-requests-public-2021-06-03/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
