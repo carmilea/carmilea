@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stanford law student who made fun of the federalist able to graduate after all](https://slate.com/news-and-politics/2021/06/federalist-society-stanford.html)
+- [Why the ransomware crisis suddenly feels so relentless](https://www.technologyreview.com/2021/06/03/1025679/explainer-is-ransomware-getting-worse/)
+- [Google removes its head of diversity after 2007 blog post](https://www.businessinsider.com/kamau-bobb-google-diversity-head-antisemitic-blog-post-2021-6)
 - [Google Joins Apple to Opt-out of Mobile Advertising IDs](https://thebigtech.substack.com/p/google-limits-mobile-advertising-id-android-12)
 - [United Airlines will buy 15 planes from Boom Supersonic](https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html)
 - [Pandemic homeschoolers who are not going back](https://www.wired.com/story/pandemic-homeschoolers-who-are-not-going-back/)
-- [Jerry (YC S17) Is Hiring Remote Senior Engineers](https://apply.workable.com/jerry/j/07E1D2B302/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
