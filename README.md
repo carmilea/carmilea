@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the ransomware crisis suddenly feels so relentless](https://www.technologyreview.com/2021/06/03/1025679/explainer-is-ransomware-getting-worse/)
-- [Google removes its head of diversity after 2007 blog post](https://www.businessinsider.com/kamau-bobb-google-diversity-head-antisemitic-blog-post-2021-6)
-- [Google Joins Apple to Opt-out of Mobile Advertising IDs](https://thebigtech.substack.com/p/google-limits-mobile-advertising-id-android-12)
-- [United Airlines will buy 15 planes from Boom Supersonic](https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html)
-- [Pandemic homeschoolers who are not going back](https://www.wired.com/story/pandemic-homeschoolers-who-are-not-going-back/)
+- [Slack Engineering: How a Jenkins Job Broke Our Jenkins UI](https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/)
+- [Open Source Insights](https://deps.dev/)
+- [Camera Calibration from Scratch Using Rust (Computer Vision Tutorial)](https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3)
+- [Make School (YC W12) is hiring a President to lead our non-profit college](https://www.make.sc/president)
+- [Australian aluminium-ion battery breakthrough](https://www.motoring.com.au/australian-aluminium-ion-battery-breakthrough-129973/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
