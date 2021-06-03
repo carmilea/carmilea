@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Slack Engineering: How a Jenkins Job Broke Our Jenkins UI](https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/)
-- [Open Source Insights](https://deps.dev/)
-- [Camera Calibration from Scratch Using Rust (Computer Vision Tutorial)](https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3)
-- [Make School (YC W12) is hiring a President to lead our non-profit college](https://www.make.sc/president)
-- [Australian aluminium-ion battery breakthrough](https://www.motoring.com.au/australian-aluminium-ion-battery-breakthrough-129973/)
+- [Why workers are calling BS on leaders about returning to the office](https://www.fastcompany.com/90639348/why-workers-are-calling-bs-on-leaders-about-returning-to-the-office)
+- [Distributed Cloud Builds for Everyone](https://blog.nelhage.com/post/distributed-builds-for-everyone/)
+- [Toyota launches groundbreaking 10-year warranty](https://www.autoexpress.co.uk/toyota/355133/toyota-launches-groundbreaking-10-year-warranty)
+- [Apple-Developer Relations](https://marco.org/2021/06/03/developer-relations)
+- [Tour of our 250k line Clojure codebase](https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
