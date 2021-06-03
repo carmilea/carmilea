@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Python 4.0 might never arrive, according to its creator](https://www.techrepublic.com/article/programming-languages-why-python-4-0-will-probably-never-arrive-according-to-its-creator/)
-- [Microsoft Teams Calls will soon include end-to-end encryption](https://techplanet.today/post/microsoft-teams-calls-will-soon-include-end-to-end-encryption)
-- [Cores that don’t count [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf)
-- [Google Lighthouse V8 – Improved CLS metrics](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.0.0)
-- [Jiga (YC W21) Is Hiring a Full Stack Developer (Remote)](https://www.workatastartup.com/jobs/44310)
+- [They rage-quit the school system and they're not going back](https://www.wired.com/story/pandemic-homeschoolers-who-are-not-going-back/)
+- [Jerry (YC S17) Is Hiring Remote Senior Engineers](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [Algorithmic Botany](http://algorithmicbotany.org/)
+- [Ask HN: What is the most bloated website you use](https://news.ycombinator.com/item?id=27379599)
+- [Amazon Ring’s neighborhood watch app is making police requests public](https://www.reuters.com/technology/amazon-rings-neighborhood-watch-app-is-making-police-requests-public-2021-06-03/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
