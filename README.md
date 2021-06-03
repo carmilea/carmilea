@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Python 4.0 might never arrive, according to its creator](https://www.techrepublic.com/article/programming-languages-why-python-4-0-will-probably-never-arrive-according-to-its-creator/)
+- [Microsoft Teams Calls will soon include end-to-end encryption](https://techplanet.today/post/microsoft-teams-calls-will-soon-include-end-to-end-encryption)
+- [Cores that don’t count [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf)
 - [Google Lighthouse V8 – Improved CLS metrics](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.0.0)
 - [Jiga (YC W21) Is Hiring a Full Stack Developer (Remote)](https://www.workatastartup.com/jobs/44310)
-- [The NFT market bubble has popped and we’ve got the charts to prove it](https://protos.com/nft-market-bubble-popped-crypto-collectibles-are-over/)
-- [Next Steps for the GNOME Foundation](https://ramcq.net/2021/06/01/next-steps-for-the-gnome-foundation/)
-- [Huawei replaces Android with HarmonyOS, which is also Android](https://arstechnica.com/gadgets/2021/06/huaweis-harmonyos-will-rollout-to-100-android-models-over-the-next-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
