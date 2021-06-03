@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Lab-Leak Mess](https://www.cjr.org/the_media_today/lab_leak_theory_credibility.php)
+- [Xbox co-pilot mode changed disabled sister’s life](https://www.reddit.com/r/XboxSeriesX/comments/nqk3nb/copilot_mode_changed_my_disabled_sisters_life/)
 - [Amazon's Controversial 'Hire to Fire' Practice Reveals a Truth About Management](https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html)
 - [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27375951)
 - [Complete protection by single dose skin patch delivered SARS-CoV-2 spike vaccine](https://www.biorxiv.org/content/10.1101/2021.05.30.446357v1)
-- [Ransomware – Unauthorized access to Fujifilm servers](https://www.fujifilm.com/jp/en/news/hq/6642#)
-- [When six boys were shipwrecked for 15 months (2020)](https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months)
 <!-- BLOG-POST-LIST:END -->
 
 ---
