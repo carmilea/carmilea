@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google diversity head removed over anti-Semitic blog post](https://www.bbc.com/news/world-us-canada-57342967)
+- [TinyPilot: Month 11](https://mtlynch.io/retrospectives/2021/06/)
 - [Telnet Mapscii.me](http://mapscii.me)
-- [7-11 is opening 500 EV charging stations by the end of 2022 – Roadshow](https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/)
-- [Daily Mail Published Nude Photos of Katie Hill. Now She Has to Pay Them $100k](https://www.lamag.com/citythinkblog/katie-hill-daily-mail-2/)
+- [7-11 is opening 500 EV charging stations by the end of 2022](https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/)
 - [Compound (YC S19) is hiring to build financial products for startup employees](https://jobs.lever.co/compound)
-- [Predictive Coding Can Do Exact Backpropagation on Any Neural Network](https://arxiv.org/abs/2103.04689)
 <!-- BLOG-POST-LIST:END -->
 
 ---
