@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why workers are calling BS on leaders about returning to the office](https://www.fastcompany.com/90639348/why-workers-are-calling-bs-on-leaders-about-returning-to-the-office)
-- [Distributed Cloud Builds for Everyone](https://blog.nelhage.com/post/distributed-builds-for-everyone/)
-- [Toyota launches groundbreaking 10-year warranty](https://www.autoexpress.co.uk/toyota/355133/toyota-launches-groundbreaking-10-year-warranty)
-- [Apple-Developer Relations](https://marco.org/2021/06/03/developer-relations)
-- [Tour of our 250k line Clojure codebase](https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/)
+- [Telnet Mapscii.me](http://mapscii.me)
+- [7-11 is opening 500 EV charging stations by the end of 2022 – Roadshow](https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/)
+- [Daily Mail Published Nude Photos of Katie Hill. Now She Has to Pay Them $100k](https://www.lamag.com/citythinkblog/katie-hill-daily-mail-2/)
+- [Compound (YC S19) is hiring to build financial products for startup employees](https://jobs.lever.co/compound)
+- [Predictive Coding Can Do Exact Backpropagation on Any Neural Network](https://arxiv.org/abs/2103.04689)
 <!-- BLOG-POST-LIST:END -->
 
 ---
