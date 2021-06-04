@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NitrOS-9, Unix-like operating system for the 6809](https://nitros9.sourceforge.io/wiki/index.php/Main_Page)
+- [Robot Sticks to Ceilings by Vibrating a Flexible Disc](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings)
+- [Facebook deals with PCIe faults to keep our data centers running reliably](https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/)
 - [HTML and CSS techniques to reduce your JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
 - [Ebullism at 1M Feet: Surviving Rapid/Explosive Decompression (2000)](http://www.geoffreylandis.com/ebullism.html)
-- [The lab-leak theory: inside the fight to uncover Covid-19’s origins](https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins)
-- [‘I Had Never Faced the Reality of Death’: A Surgeon Becomes a Patient](https://www.nytimes.com/2021/06/03/health/covid-19-diagnosis-surgeon.html)
-- [Stanford CS Curriculum 2021](https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
