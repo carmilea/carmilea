@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google diversity head removed over anti-Semitic blog post](https://www.bbc.com/news/world-us-canada-57342967)
-- [TinyPilot: Month 11](https://mtlynch.io/retrospectives/2021/06/)
-- [Telnet Mapscii.me](http://mapscii.me)
-- [7-11 is opening 500 EV charging stations by the end of 2022](https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/)
-- [Compound (YC S19) is hiring to build financial products for startup employees](https://jobs.lever.co/compound)
+- [HTML and CSS techniques to reduce your JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
+- [Ebullism at 1M Feet: Surviving Rapid/Explosive Decompression (2000)](http://www.geoffreylandis.com/ebullism.html)
+- [The lab-leak theory: inside the fight to uncover Covid-19’s origins](https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins)
+- [‘I Had Never Faced the Reality of Death’: A Surgeon Becomes a Patient](https://www.nytimes.com/2021/06/03/health/covid-19-diagnosis-surgeon.html)
+- [Stanford CS Curriculum 2021](https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
