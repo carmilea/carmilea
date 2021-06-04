@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Do you run apps bare metal?](https://news.ycombinator.com/item?id=27394058)
+- [A virtual machine and Pascal compiler in Berkeley LOGO](https://people.eecs.berkeley.edu/~bh/v3ch5/v3ch5.html)
+- [Computing the number of digits of an integer even faster](https://lemire.me/blog/2021/06/03/computing-the-number-of-digits-of-an-integer-even-faster/)
 - [The rise of remote work may reshape college towns](https://www.chronicle.com/article/the-rise-of-remote-work-may-reshape-college-towns-heres-how-these-campuses-are-wooing-transplants)
 - [Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control](http://gvv.mpi-inf.mpg.de/projects/NeuralActor/)
 - [Mozart Data (YC S20) Is Hiring a Growth Marketer](https://news.ycombinator.com/item?id=27392728)
-- [UK and EU launch antitrust probes into Facebook](https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667)
 <!-- BLOG-POST-LIST:END -->
 
 ---
