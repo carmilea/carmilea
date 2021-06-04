@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Go: Fuzzing Is Beta Ready](https://blog.golang.org/fuzz-beta)
 - [An Unbelievable Demo](https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html)
 - [PM and EM Rules of Engagement](https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/)
 - [NitrOS-9, Unix-like operating system for the 6809](https://nitros9.sourceforge.io/wiki/index.php/Main_Page)
 - [Robot Sticks to Ceilings by Vibrating a Flexible Disc](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings)
-- [Facebook deals with PCIe faults to keep our data centers running reliably](https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
