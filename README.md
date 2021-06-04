@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bonzi Buddy](https://bonzi.link/)
+- [8088ify: Intel 8080 CP/M 2.2 to Intel 8086/8088 IBM PC DOS assembly translator](https://github.com/ibara/8088ify)
+- [Clerky (YC S11) Is Hiring Senior Software Engineers (Remote)](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN)
+- [PyCon US 2021 Recordings are Available](https://pycon.blogspot.com/2021/06/pycon-us-2021-recordings-are-complete.html?m=1)
 - [Elijah Miller’s NEC v30 on a Pi hat](https://virtuallyfun.com/wordpress/2021/06/04/elijah-millers-nec-v30-on-a-pi-hat/)
-- [Pokegb: A gameboy emulator that only plays Pokémon Blue, in 68 lines of C++](https://binji.github.io/posts/pokegb/)
-- [Ultra-processed food targets bone quality via endochondral ossification](https://www.nature.com/articles/s41413-020-00127-9)
-- [Intel and AMD Contemplate Different Replacements for x86 Interrupt Handling](https://www.eejournal.com/article/we-interrupt-this-program/)
-- [Heroic Rat Retiring from Detecting Land Mines](https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
