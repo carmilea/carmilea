@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Breached Colonial Pipeline Using Compromised Password](https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password)
+- [Zig 0.8.0 Release Notes](https://ziglang.org/download/0.8.0/release-notes.html)
+- [Bitcoin’s Reliance on Stablecoins Harks Back to the Wild West of Finance](https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246)
+- [HOWTO: Be more productive (2005)](http://www.aaronsw.com/weblog/productivity)
 - [Y Combinator kicks out Paul Biggar over a tweet](https://twitter.com/paulbiggar/status/1400904600421535744)
-- [John Carmack on JPEG](https://twitter.com/ID_AA_Carmack/status/1400930510671601666)
-- [8088ify: Intel 8080 CP/M 2.2 to Intel 8086/8088 IBM PC DOS assembly translator](https://github.com/ibara/8088ify)
-- [Clerky (YC S11) Is Hiring Senior Software Engineers (Remote)](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN)
-- [PyCon US 2021 Recordings are Available](https://pycon.blogspot.com/2021/06/pycon-us-2021-recordings-are-complete.html?m=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
