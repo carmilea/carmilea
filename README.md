@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pokegb: A gameboy emulator that only plays Pokémon blue, in 68 lines of C++](https://binji.github.io/posts/pokegb/)
+- [Elijah Miller’s NEC v30 on a Pi hat](https://virtuallyfun.com/wordpress/2021/06/04/elijah-millers-nec-v30-on-a-pi-hat/)
+- [Pokegb: A gameboy emulator that only plays Pokémon Blue, in 68 lines of C++](https://binji.github.io/posts/pokegb/)
 - [Ultra-processed food targets bone quality via endochondral ossification](https://www.nature.com/articles/s41413-020-00127-9)
 - [Intel and AMD Contemplate Different Replacements for x86 Interrupt Handling](https://www.eejournal.com/article/we-interrupt-this-program/)
 - [Heroic Rat Retiring from Detecting Land Mines](https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer)
-- [The story of the Tank Man photo by its photographer, Jeff Widener](http://www.jeffwidener.com/stories/2016/09/tankman/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
