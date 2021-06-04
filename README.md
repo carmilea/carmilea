@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A virtual machine and Pascal compiler in Berkeley LOGO](https://people.eecs.berkeley.edu/~bh/v3ch5/v3ch5.html)
-- [Computing the number of digits of an integer even faster](https://lemire.me/blog/2021/06/03/computing-the-number-of-digits-of-an-integer-even-faster/)
-- [The rise of remote work may reshape college towns](https://www.chronicle.com/article/the-rise-of-remote-work-may-reshape-college-towns-heres-how-these-campuses-are-wooing-transplants)
-- [Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control](http://gvv.mpi-inf.mpg.de/projects/NeuralActor/)
-- [Mozart Data (YC S20) Is Hiring a Growth Marketer](https://news.ycombinator.com/item?id=27392728)
+- [Pokegb: A gameboy emulator that only plays Pokémon blue, in 68 lines of C++](https://binji.github.io/posts/pokegb/)
+- [Ultra-processed food targets bone quality via endochondral ossification](https://www.nature.com/articles/s41413-020-00127-9)
+- [Intel and AMD Contemplate Different Replacements for x86 Interrupt Handling](https://www.eejournal.com/article/we-interrupt-this-program/)
+- [Heroic Rat Retiring from Detecting Land Mines](https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer)
+- [The story of the Tank Man photo by its photographer, Jeff Widener](http://www.jeffwidener.com/stories/2016/09/tankman/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
