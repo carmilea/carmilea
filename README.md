@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You can not advertise on Google if you use Google Analytics Competitors](https://twitter.com/Adam_Hosker/status/1400748390355456002)
-- [Amazon’s newest euphemism for overworked employees is ‘industrial athlete’](https://www.theverge.com/2021/6/2/22465357/amazon-industrial-athlete-warehouse-worker-wellness-pamphlet)
-- [Go: Fuzzing Is Beta Ready](https://blog.golang.org/fuzz-beta)
-- [An Unbelievable Demo](https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html)
-- [PM and EM Rules of Engagement](https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/)
+- [Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control](http://gvv.mpi-inf.mpg.de/projects/NeuralActor/)
+- [Microsoft edge Ads blocker block Google ads but not Microsoft](https://twitter.com/Ak_Mittal/status/1400756454689153028)
+- [Mozart Data (YC S20) Is Hiring a Growth Marketer](https://news.ycombinator.com/item?id=27392728)
+- [UK and EU launch antitrust probes into Facebook](https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667)
+- [Currently, 43% of youth in South Africa are unemployed, and not in education](https://www.iafrikan.com/2021/06/04/iafrikan-daily-brief-166-time-bomb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
