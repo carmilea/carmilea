@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You can not advertise on Google if you use Google Analytics Competitors](https://twitter.com/Adam_Hosker/status/1400748390355456002)
 - [Amazon’s newest euphemism for overworked employees is ‘industrial athlete’](https://www.theverge.com/2021/6/2/22465357/amazon-industrial-athlete-warehouse-worker-wellness-pamphlet)
 - [Go: Fuzzing Is Beta Ready](https://blog.golang.org/fuzz-beta)
 - [An Unbelievable Demo](https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html)
 - [PM and EM Rules of Engagement](https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/)
-- [NitrOS-9, Unix-like operating system for the 6809](https://nitros9.sourceforge.io/wiki/index.php/Main_Page)
 <!-- BLOG-POST-LIST:END -->
 
 ---
