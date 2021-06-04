@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Do you run apps bare metal?](https://news.ycombinator.com/item?id=27394058)
+- [The rise of remote work may reshape college towns](https://www.chronicle.com/article/the-rise-of-remote-work-may-reshape-college-towns-heres-how-these-campuses-are-wooing-transplants)
 - [Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control](http://gvv.mpi-inf.mpg.de/projects/NeuralActor/)
-- [Microsoft edge Ads blocker block Google ads but not Microsoft](https://twitter.com/Ak_Mittal/status/1400756454689153028)
 - [Mozart Data (YC S20) Is Hiring a Growth Marketer](https://news.ycombinator.com/item?id=27392728)
 - [UK and EU launch antitrust probes into Facebook](https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667)
-- [Currently, 43% of youth in South Africa are unemployed, and not in education](https://www.iafrikan.com/2021/06/04/iafrikan-daily-brief-166-time-bomb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
