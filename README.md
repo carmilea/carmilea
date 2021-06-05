@@ -54,8 +54,8 @@
 - [Stacker (YC S20) Is Hiring a VP of Engineering](https://news.ycombinator.com/item?id=27402859)
 - [HTTP/3 needs us (and other people) to make firewall changes](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls)
 - [USA Today resists FBI subpoena seeking IP addresses of readers of a story](https://www.washingtonpost.com/national-security/usa-today-fbi-subpoena/2021/06/04/4741213a-c550-11eb-8c18-fd53a628b992_story.html)
-- [The European Union officially bans its airspace to Belarusian companies](https://www.aviation24.be/airlines/belavia/the-european-union-officially-bans-its-airspace-to-belarusian-companies/)
 - [Hackers breached Colonial Pipeline using compromised password](https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password)
+- [Bitcoin’s reliance on stablecoins harks back to the Wild West of finance](https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
