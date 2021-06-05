@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ftxui: C++ Functional Terminal User Interface](https://github.com/ArthurSonzogni/FTXUI)
 - [FBI sought info on who read USA Today news article for case](https://www.bbc.co.uk/news/world-us-canada-57367093)
 - [Google can't pass its own page speed test](https://www.reddit.com/r/dataisbeautiful/comments/ns4t1z/oc_google_cant_pass_its_own_page_speed_test/)
 - [Stacker (YC S20) Is Hiring a VP of Engineering](https://news.ycombinator.com/item?id=27402859)
 - [HTTP/3 needs us (and other people) to make firewall changes](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls)
-- [USA Today resists FBI subpoena seeking IP addresses of readers of a story](https://www.washingtonpost.com/national-security/usa-today-fbi-subpoena/2021/06/04/4741213a-c550-11eb-8c18-fd53a628b992_story.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
