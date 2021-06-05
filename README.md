@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for Emacs org-mode tutorial videos by women](https://news.ycombinator.com/item?id=27405799)
-- [Catalog of viruses from human metagenomes reveals chronic disease associations](https://www.pnas.org/content/118/23/e2023202118)
-- [The Mandelbrot Monk](https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html)
-- [Zero to Production in Rust](https://www.zero2prod.com/)
-- [Coastal Arctic Sea Ice Is Thinning Faster Than Previously Thought](https://www.scientificamerican.com/article/coastal-arctic-sea-ice-is-thinning-faster-than-previously-thought1/)
+- [Smarking (YC W15) Is Hiring a Head of Engineering to Digitize Parking](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [All controversial trades by Senators in the 2020 Congressional insider trading](https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/)
+- [The modern web on a slow connection (2017)](https://danluu.com/web-bloat/)
+- [Tips for Interviewing over Zoom](https://dev.jimgrey.net/2021/06/03/nine-tips-for-interviewing-over-zoom/)
+- [Ancient Indigenous forest gardens still yield bounty 150 years later](https://nationalpost.com/news/canada/ancient-indigenous-forest-gardens-still-yield-bounty-150-years-later-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
