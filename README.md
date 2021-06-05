@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ET-Jekyll: Edward Tufte Inspired Jekyll Theme](https://et-jekyll.netlify.app/)
+- [Using Clang LibFuzzer coverage-guided fuzzing engine with Nim](https://github.com/planetis-m/libfuzzer)
+- [How I Learned Symmetric-Key Cryptanalysis](https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html)
 - [Smarking (YC W15) Is Hiring a Head of Engineering to Digitize Parking](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [All controversial trades by Senators in the 2020 Congressional insider trading](https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/)
-- [The modern web on a slow connection (2017)](https://danluu.com/web-bloat/)
-- [Tips for Interviewing over Zoom](https://dev.jimgrey.net/2021/06/03/nine-tips-for-interviewing-over-zoom/)
-- [Ancient Indigenous forest gardens still yield bounty 150 years later](https://nationalpost.com/news/canada/ancient-indigenous-forest-gardens-still-yield-bounty-150-years-later-study)
+- [Logical replication and decoding for Cloud SQL for PostgreSQL](https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
