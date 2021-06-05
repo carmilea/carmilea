@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing strict three-point perspective](https://pomax.github.io/three-point-perspective/)
 - [ET-Jekyll: Edward Tufte Inspired Jekyll Theme](https://et-jekyll.netlify.app/)
 - [Using Clang LibFuzzer coverage-guided fuzzing engine with Nim](https://github.com/planetis-m/libfuzzer)
 - [How I Learned Symmetric-Key Cryptanalysis](https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html)
 - [Smarking (YC W15) Is Hiring a Head of Engineering to Digitize Parking](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Logical replication and decoding for Cloud SQL for PostgreSQL](https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
