@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [R.A. Lafferty: “The Greatest Catholic Novelist You Never Heard Of”](https://www.benedictinstitute.org/2018/02/r-lafferty-greatest-catholic-novelist-never-heard/)
 - [Remote Controlling a Nintendo Switch for Fun and Profit](https://aricodes.net/posts/remote-controlling-a-nintendo-switch/)
-- [Hackers Breached Colonial Pipeline Using Compromised Password](https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password)
+- [Hackers breached Colonial Pipeline using compromised password](https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password)
 - [Zig 0.8.0 Release Notes](https://ziglang.org/download/0.8.0/release-notes.html)
 - [Bitcoin’s reliance on stablecoins harks back to the Wild West of finance](https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246)
-- [HOWTO: Be more productive (2005)](http://www.aaronsw.com/weblog/productivity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
