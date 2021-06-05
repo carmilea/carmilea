@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [El Salvador to adopt Bitcoin as legal tender](https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html)
-- [FBI withdraws USA TODAY subpoena seeking reader identity](https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/)
+- [Trans-Pacific Cable Chaos, Shifting Asian Hubs](https://blog.telegeography.com/trans-pacific-cables-asian-hubs-plcn-status)
+- [Justice Department withdraws FBI subpoena for USA Today records ID'ing readers](https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/)
 - [Substack (YC W18) is hiring engineers to build the future of writing](https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81)
 - [Computer chips are mercurial: Rare miscalculations frequent at cloud hyperscale](https://www.theregister.com/2021/06/04/google_chip_flaws/)
-- [Show HN: Rustpad, a self-hosted online collaborative text editor](https://github.com/ekzhang/rustpad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
