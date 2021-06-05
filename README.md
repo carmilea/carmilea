@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Soul of Black Conservatism](https://www.wsj.com/articles/the-soul-of-black-conservatism-11622226565)
+- [Substack (YC W18) is hiring engineers to build the future of writing](https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81)
+- [Computer chips are mercurial: Rare miscalculations frequent at cloud hyperscale](https://www.theregister.com/2021/06/04/google_chip_flaws/)
+- [Show HN: Rustpad, a self-hosted online collaborative text editor in Rust](https://github.com/ekzhang/rustpad)
 - [Implementing strict three-point perspective](https://pomax.github.io/three-point-perspective/)
-- [ET-Jekyll: Edward Tufte Inspired Jekyll Theme](https://et-jekyll.netlify.app/)
-- [Using Clang LibFuzzer coverage-guided fuzzing engine with Nim](https://github.com/planetis-m/libfuzzer)
-- [How I Learned Symmetric-Key Cryptanalysis](https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html)
-- [Smarking (YC W15) Is Hiring a Head of Engineering to Digitize Parking](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 <!-- BLOG-POST-LIST:END -->
 
 ---
