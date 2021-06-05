@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ftxui: C++ Functional Terminal User Interface](https://github.com/ArthurSonzogni/FTXUI)
-- [FBI sought info on who read USA Today news article for case](https://www.bbc.co.uk/news/world-us-canada-57367093)
-- [Google can't pass its own page speed test](https://www.reddit.com/r/dataisbeautiful/comments/ns4t1z/oc_google_cant_pass_its_own_page_speed_test/)
-- [Stacker (YC S20) Is Hiring a VP of Engineering](https://news.ycombinator.com/item?id=27402859)
-- [HTTP/3 needs us (and other people) to make firewall changes](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls)
+- [What Chocolatiering Taught Me About Software Engineering](https://twitter.com/hillelogram/status/1400167722705723400)
+- [MagicBell (YC W21) Is Hiring a Founding Back End Engineer (Ruby)](https://www.notion.so/magicbell/Founding-Backend-Engineer-dd5a43ab95a540bd9d29c7bc32ad9034)
+- [Twitter Ban in Nigeria](https://www.bbc.com/news/world-africa-57363779)
+- [Learn R Through Examples](https://gexijin.github.io/learnR/index.html)
+- [Rich nations back deal to tax multinationals](https://www.bbc.co.uk/news/world-57368247)
 <!-- BLOG-POST-LIST:END -->
 
 ---
