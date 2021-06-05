@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Remote Controlling a Nintendo Switch for Fun and Profit](https://aricodes.net/posts/remote-controlling-a-nintendo-switch/)
 - [Hackers Breached Colonial Pipeline Using Compromised Password](https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password)
 - [Zig 0.8.0 Release Notes](https://ziglang.org/download/0.8.0/release-notes.html)
-- [Bitcoin’s Reliance on Stablecoins Harks Back to the Wild West of Finance](https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246)
+- [Bitcoin’s reliance on stablecoins harks back to the Wild West of finance](https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246)
 - [HOWTO: Be more productive (2005)](http://www.aaronsw.com/weblog/productivity)
-- [Y Combinator kicks out Paul Biggar over a tweet](https://twitter.com/paulbiggar/status/1400904600421535744)
 <!-- BLOG-POST-LIST:END -->
 
 ---
