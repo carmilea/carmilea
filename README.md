@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [‘We Eat Roti and Salt’: Delhi’s Most Vulnerable Still Wait for Food](https://www.thequint.com/news/india/delhi-non-ration-card-holders-still-wait-for-food-arvind-kejriwal-manish-sisodia)
+- [Looking for Emacs org-mode tutorial videos by women](https://news.ycombinator.com/item?id=27405799)
+- [Catalog of viruses from human metagenomes reveals chronic disease associations](https://www.pnas.org/content/118/23/e2023202118)
+- [The Mandelbrot Monk](https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html)
+- [Zero to Production in Rust](https://www.zero2prod.com/)
 - [Coastal Arctic Sea Ice Is Thinning Faster Than Previously Thought](https://www.scientificamerican.com/article/coastal-arctic-sea-ice-is-thinning-faster-than-previously-thought1/)
-- [50% reduction in krill in past 6 decades](https://www.nature.com/articles/s42003-021-02159-1)
-- [If Not Overturned, Bad Copyright Decision Will Lead Many to Lose Internet Access](https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet)
-- [Explainer: What is a global minimum tax and what will it mean?](https://www.reuters.com/business/finance/what-is-global-minimum-tax-what-will-it-mean-2021-06-05/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
