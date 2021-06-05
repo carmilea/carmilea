@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Chocolatiering Taught Me About Software Engineering](https://twitter.com/hillelogram/status/1400167722705723400)
-- [MagicBell (YC W21) Is Hiring a Founding Back End Engineer (Ruby)](https://www.notion.so/magicbell/Founding-Backend-Engineer-dd5a43ab95a540bd9d29c7bc32ad9034)
-- [Twitter Ban in Nigeria](https://www.bbc.com/news/world-africa-57363779)
-- [Learn R Through Examples](https://gexijin.github.io/learnR/index.html)
-- [Rich nations back deal to tax multinationals](https://www.bbc.co.uk/news/world-57368247)
+- [‘We Eat Roti and Salt’: Delhi’s Most Vulnerable Still Wait for Food](https://www.thequint.com/news/india/delhi-non-ration-card-holders-still-wait-for-food-arvind-kejriwal-manish-sisodia)
+- [Coastal Arctic Sea Ice Is Thinning Faster Than Previously Thought](https://www.scientificamerican.com/article/coastal-arctic-sea-ice-is-thinning-faster-than-previously-thought1/)
+- [50% reduction in krill in past 6 decades](https://www.nature.com/articles/s42003-021-02159-1)
+- [If Not Overturned, Bad Copyright Decision Will Lead Many to Lose Internet Access](https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet)
+- [Explainer: What is a global minimum tax and what will it mean?](https://www.reuters.com/business/finance/what-is-global-minimum-tax-what-will-it-mean-2021-06-05/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
