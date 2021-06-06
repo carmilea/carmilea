@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin: El Salvador plans to make cryptocurrency legal tender](https://www.bbc.co.uk/news/world-latin-america-57373058)
-- [Sequence Notation in Tcl](https://wiki.tcl-lang.org/page/Sequence+Notation)
-- [Photographer captures 'odd but exciting' crow behaviour known as anting](https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823)
-- [HN “Why Not Simply”](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment)
-- [A New Future for Icanhazip](https://major.io/2021/06/06/a-new-future-for-icanhazip/)
+- [The Globalization of Venture Capital Investing](https://avc.com/2021/06/the-globalization-of-venture-capital-investing/)
+- [Laser pulse travels 300 times faster than light (2002)](https://optics.org/article/8562)
+- [The SaaS CTO Security Checklist Redux](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
+- [Gene sequencer malware injection via encoded DNA](https://www.wired.com/story/malware-dna-hack/)
+- [A growing number of governments hope to clone America's DARPA](https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
