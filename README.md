@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern cities modelled as “super-cells” rather than multicellular organisms](https://onlinelibrary.wiley.com/doi/10.1002/bies.202100041)
+- [Ask HN: Post Burnout Ideas](https://news.ycombinator.com/item?id=27410951)
+- [Show HN: I made a webapp to help people create flag designs for fun](https://flag.rachel.systems/)
+- [DitherPaint – Modern MacPaint for the Browser](https://beyondloom.com/tools/ditherpaint.html)
 - [OS X/Hydromac: New Mac adware, leaked from a flashcards app](https://objective-see.com/blog/blog_0x65.html)
-- ['An Empty Bliss ' Turns 10: How the Haunted Ballroom Defined a Generation](https://softsounds.substack.com/p/the-caretakers-an-empty-bliss-beyond)
-- [Submarine Cable Map 2021](https://submarine-cable-map-2021.telegeography.com/)
-- [Freddie Figgers: The millionaire tech inventor who was 'thrown away' as a baby](https://www.bbc.co.uk/news/stories-57081087)
-- [Mathematicians Identify Threshold at Which Shapes Give Way](https://www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
