@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Drowning Machine: The Dangers of Low Head Dams](https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams)
 - [The Globalization of Venture Capital Investing](https://avc.com/2021/06/the-globalization-of-venture-capital-investing/)
 - [Laser pulse travels 300 times faster than light (2002)](https://optics.org/article/8562)
 - [The SaaS CTO Security Checklist Redux](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
 - [Gene sequencer malware injection via encoded DNA](https://www.wired.com/story/malware-dna-hack/)
-- [A growing number of governments hope to clone America's DARPA](https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
