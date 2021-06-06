@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Publish and Perish](https://erikhoel.substack.com/p/publish-and-perish)
 - [A first lesson in meta-rationality](https://metarationality.com/bongard-meta-rationality)
 - [English medical records are about to be given away. As GPs, we’re fighting back](https://www.theguardian.com/commentisfree/2021/jun/03/gp-nhs-digital-data-patients-records-england)
+- [Dolphin Emulator - Dolphin MEGA Progress Report: April and May 2021](https://dolphin-emu.org/blog/2021/06/06/dolphin-progress-report-april-and-may-2021/)
 - [The Telecom Archive](http://www.telecomarchive.com/)
-- [Scientists develop ‘cheap and easy’ method to extract lithium from seawater](https://www.mining.com/scientists-develop-cheap-and-easy-method-to-extract-lithium-from-seawater/)
-- [Why is uncoupled documentation bad?](https://www.virtuallifestyle.nl/2021/04/the-case-for-continuous-documentation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
