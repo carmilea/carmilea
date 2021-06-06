@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stateright: A model checker for implementing distributed systems](https://github.com/stateright/stateright)
+- [Oceana Finds Hundreds of Vessels Vanishing Along Argentina’s Waters](https://usa.oceana.org/publications/reports/oceana-finds-hundreds-vessels-vanishing-along-argentinas-waters#)
 - [Sick of dangerous city traffic? Remove left turns](https://theconversation.com/sick-of-dangerous-city-traffic-remove-left-turns-161397)
 - [The Muse (YC W12) Is Hiring a Senior Site Reliability Engineer](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer)
-- [Publish and Perish](https://erikhoel.substack.com/p/publish-and-perish)
-- [A first lesson in meta-rationality](https://metarationality.com/bongard-meta-rationality)
-- [English medical records are about to be given away. As GPs, we’re fighting back](https://www.theguardian.com/commentisfree/2021/jun/03/gp-nhs-digital-data-patients-records-england)
+- [Show HN: Prestige, a text based HTTP client, for working with HTTP APIs](https://prestigemad.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
