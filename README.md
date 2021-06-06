@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No Country for Old Men – Guevaran Pedagogy and the New Man](https://yeel.es/posts/No_Country_for_Old_Men_-_Guevaran_pedagogy_and_the_New_Man.html)
+- [HN “Why Not Simply”](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment)
+- [A New Future for Icanhazip](https://major.io/2021/06/06/a-new-future-for-icanhazip/)
 - [Mastershot – Web based video editor](https://mastershot.app)
-- [FreeBSD from a NetBSD User’s Perspective](https://washbear.neocities.org/freebsd-netbsd-user.html)
-- [Once a Bastion of Free Speech, the A.C.L.U. Faces an Identity Crisis](https://www.nytimes.com/2021/06/06/us/aclu-free-speech.html)
-- [Rain Backscatter on 10 GHz](https://destevez.net/2021/06/rain-backscatter-on-10-ghz/)
+- [FreeBSD from a NetBSD developer’s perspective](https://washbear.neocities.org/freebsd-netbsd-user.html)
+- [Once a bastion of free speech, the ACLU faces an identity crisis](https://www.nytimes.com/2021/06/06/us/aclu-free-speech.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
