@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Publications – LaTeX Style – HTML View](https://goessner.github.io/mdmath/publication.html)
-- [Judge Rules Star Wars The Last Jedi, Rise of Skywalker Are Mediocre and Schlocky](https://movieweb.com/star-wars-judge-ruling-mediocre-schlocky/)
-- [Stateright: A model checker for implementing distributed systems](https://github.com/stateright/stateright)
-- [Airtable Instagram, Facebook and Twitter posting](https://blog.fammesportswear.com/development/2020/06/06/airtable-to-social-media-platform-posting.html)
-- [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree)
+- [PocketSuite Is hiring Lead Engineers, Product Designers to enrich small business](https://www.ycombinator.com/companies/pocketsuite)
+- [Creating a serverless function to scrape web pages metadata](https://mmazzarolo.com/blog/2021-06-06-metascraper-serverless-function/)
+- [Logic, Explainability and the Future of Understanding (2018)](https://writings.stephenwolfram.com/2018/11/logic-explainability-and-the-future-of-understanding/)
+- [The Modern Trap of Turning Hobbies into Hustles (2019)](https://repeller.com/trap-of-turning-hobbies-into-hustles/)
+- [In Praise of Open Source Textbooks](https://news.ycombinator.com/item?id=27414145)
 <!-- BLOG-POST-LIST:END -->
 
 ---
