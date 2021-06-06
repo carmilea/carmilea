@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [El Salvador to adopt Bitcoin as legal tender](https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html)
-- [Trans-Pacific Cable Chaos, Shifting Asian Hubs](https://blog.telegeography.com/trans-pacific-cables-asian-hubs-plcn-status)
-- [Justice Department withdraws FBI subpoena for USA Today records ID'ing readers](https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/)
-- [Substack (YC W18) is hiring engineers to build the future of writing](https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81)
-- [Computer chips are mercurial: Rare miscalculations frequent at cloud hyperscale](https://www.theregister.com/2021/06/04/google_chip_flaws/)
+- [Freddie Figgers: The millionaire tech inventor who was 'thrown away' as a baby](https://www.bbc.co.uk/news/stories-57081087)
+- [Mathematicians Identify Threshold at Which Shapes Give Way](https://www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/)
+- [The Woman Who Gave the Macintosh a Smile (2018)](https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile)
+- [Daily Driver: Channelling RGB into 1-bit](https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/)
+- [“That Won't Work”](https://meetryanflowers.com/that-wont-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
