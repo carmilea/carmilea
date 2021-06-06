@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Publications – LaTeX Style – HTML View](https://goessner.github.io/mdmath/publication.html)
+- [Judge Rules Star Wars The Last Jedi, Rise of Skywalker Are Mediocre and Schlocky](https://movieweb.com/star-wars-judge-ruling-mediocre-schlocky/)
 - [Stateright: A model checker for implementing distributed systems](https://github.com/stateright/stateright)
-- [Oceana Finds Hundreds of Vessels Vanishing Along Argentina’s Waters](https://usa.oceana.org/publications/reports/oceana-finds-hundreds-vessels-vanishing-along-argentinas-waters#)
-- [Sick of dangerous city traffic? Remove left turns](https://theconversation.com/sick-of-dangerous-city-traffic-remove-left-turns-161397)
-- [The Muse (YC W12) Is Hiring a Senior Site Reliability Engineer](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer)
-- [Show HN: Prestige, a text based HTTP client, for working with HTTP APIs](https://prestigemad.com)
+- [Airtable Instagram, Facebook and Twitter posting](https://blog.fammesportswear.com/development/2020/06/06/airtable-to-social-media-platform-posting.html)
+- [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree)
 <!-- BLOG-POST-LIST:END -->
 
 ---
