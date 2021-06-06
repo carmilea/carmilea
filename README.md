@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin: El Salvador plans to make cryptocurrency legal tender](https://www.bbc.co.uk/news/world-latin-america-57373058)
+- [Sequence Notation in Tcl](https://wiki.tcl-lang.org/page/Sequence+Notation)
+- [Photographer captures 'odd but exciting' crow behaviour known as anting](https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823)
 - [HN “Why Not Simply”](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment)
 - [A New Future for Icanhazip](https://major.io/2021/06/06/a-new-future-for-icanhazip/)
-- [Mastershot – Web based video editor](https://mastershot.app)
-- [FreeBSD from a NetBSD developer’s perspective](https://washbear.neocities.org/freebsd-netbsd-user.html)
-- [Once a bastion of free speech, the ACLU faces an identity crisis](https://www.nytimes.com/2021/06/06/us/aclu-free-speech.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
