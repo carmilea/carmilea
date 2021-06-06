@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists develop ‘cheap and easy’ method to extract lithium from seawater](https://www.mining.com/scientists-develop-cheap-and-easy-method-to-extract-lithium-from-seawater/)
+- [Why is uncoupled documentation bad?](https://www.virtuallifestyle.nl/2021/04/the-case-for-continuous-documentation/)
+- [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
 - [Modern cities modelled as “super-cells” rather than multicellular organisms](https://onlinelibrary.wiley.com/doi/10.1002/bies.202100041)
-- [Ask HN: Post Burnout Ideas](https://news.ycombinator.com/item?id=27410951)
-- [Show HN: I made a webapp to help people create flag designs for fun](https://flag.rachel.systems/)
 - [DitherPaint – Modern MacPaint for the Browser](https://beyondloom.com/tools/ditherpaint.html)
-- [OS X/Hydromac: New Mac adware, leaked from a flashcards app](https://objective-see.com/blog/blog_0x65.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
