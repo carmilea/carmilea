@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Submarine Cable Map 2021](https://submarine-cable-map-2021.telegeography.com/)
+- [Apple employee group rejects planned return to the office: want full-time remote](https://www.engadget.com/apple-employees-reject-return-to-office-plans-153302337.html)
 - [Freddie Figgers: The millionaire tech inventor who was 'thrown away' as a baby](https://www.bbc.co.uk/news/stories-57081087)
 - [Mathematicians Identify Threshold at Which Shapes Give Way](https://www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/)
 - [The Woman Who Gave the Macintosh a Smile (2018)](https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile)
-- [Daily Driver: Channelling RGB into 1-bit](https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/)
-- [“That Won't Work”](https://meetryanflowers.com/that-wont-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
