@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A first lesson in meta-rationality](https://metarationality.com/bongard-meta-rationality)
+- [English medical records are about to be given away. As GPs, we’re fighting back](https://www.theguardian.com/commentisfree/2021/jun/03/gp-nhs-digital-data-patients-records-england)
+- [The Telecom Archive](http://www.telecomarchive.com/)
 - [Scientists develop ‘cheap and easy’ method to extract lithium from seawater](https://www.mining.com/scientists-develop-cheap-and-easy-method-to-extract-lithium-from-seawater/)
 - [Why is uncoupled documentation bad?](https://www.virtuallifestyle.nl/2021/04/the-case-for-continuous-documentation/)
-- [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
-- [Modern cities modelled as “super-cells” rather than multicellular organisms](https://onlinelibrary.wiley.com/doi/10.1002/bies.202100041)
-- [DitherPaint – Modern MacPaint for the Browser](https://beyondloom.com/tools/ditherpaint.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
