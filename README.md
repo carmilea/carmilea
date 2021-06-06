@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PocketSuite Is hiring Lead Engineers, Product Designers to enrich small business](https://www.ycombinator.com/companies/pocketsuite)
-- [Creating a serverless function to scrape web pages metadata](https://mmazzarolo.com/blog/2021-06-06-metascraper-serverless-function/)
-- [Logic, Explainability and the Future of Understanding (2018)](https://writings.stephenwolfram.com/2018/11/logic-explainability-and-the-future-of-understanding/)
-- [The Modern Trap of Turning Hobbies into Hustles (2019)](https://repeller.com/trap-of-turning-hobbies-into-hustles/)
-- [In Praise of Open Source Textbooks](https://news.ycombinator.com/item?id=27414145)
+- [No Country for Old Men – Guevaran Pedagogy and the New Man](https://yeel.es/posts/No_Country_for_Old_Men_-_Guevaran_pedagogy_and_the_New_Man.html)
+- [Mastershot – Web based video editor](https://mastershot.app)
+- [FreeBSD from a NetBSD User’s Perspective](https://washbear.neocities.org/freebsd-netbsd-user.html)
+- [Once a Bastion of Free Speech, the A.C.L.U. Faces an Identity Crisis](https://www.nytimes.com/2021/06/06/us/aclu-free-speech.html)
+- [Rain Backscatter on 10 GHz](https://destevez.net/2021/06/rain-backscatter-on-10-ghz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
