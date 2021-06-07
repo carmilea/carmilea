@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A martian’s review of The Martian (2015)](https://ryanbanderson.com/a-martians-review-of-the-martian-book)
-- [David Dushman, last surviving Auschwitz liberator, dies aged 98](https://www.bbc.com/news/world-europe-57379704)
-- [Qventus (YC W15) Is Hiring Data Platform Engineers](https://jobs.lever.co/qventus/c0d604cf-ec1c-48ea-847d-5ffc7a67698d)
-- [Show HN: Open-source alternative to Retool, Internal.io, etc.](https://github.com/ToolJet/ToolJet/)
-- [Software maker Altium rejects $3.9B takeover bid from Autodesk](https://www.reuters.com/technology/asx-listed-altium-rejects-39-bln-buyout-offer-us-peer-autodesk-2021-06-07/)
+- [“AI promised to revolutionize radiology but so far its failing”](https://statmodeling.stat.columbia.edu/2021/06/07/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/)
+- [Apple pays out millions to student after repair techs shared her personal images](https://9to5mac.com/2021/06/07/apple-pays-out-millions-in-compensation-to-student-after-iphone-repair-facility-shared-her-explicit-personal-images-online/)
+- [Brain-Computer Interface Smashes Previous Record for Typing Speed](https://spectrum.ieee.org/the-human-os/biomedical/devices/braincomputer-interface-smashes-previous-record-for-typing-speed)
+- [A Random Walk Through Git](https://bakkenbaeck.github.io/a-random-walk-through-git/)
+- [Chrome is faster in M91](https://blog.chromium.org/2021/05/chrome-is-faster-in-m91.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
