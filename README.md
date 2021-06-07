@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Cuban-backed banking app Dave to go public in $4 bln SPAC merger](https://www.reuters.com/technology/mark-cuban-backed-banking-app-dave-go-public-4-bln-spac-merger-2021-06-07/)
-- [WWDC21: Apple Keynote [Live]](https://www.apple.com/apple-events/event-stream/#21)
-- [Flexport is hiring engineers to help us uncork global supply chains](HTTPS://flexport.com/careers)
-- [Found at Goodwill: WebPad 1001 Prototype](https://huebnerob.com/2021/06/06/found-at-goodwill-webpad-1001-prototype/)
-- [FoundationDB: A Distributed, Unbundled, Transactional Key Value Store [pdf]](https://www.foundationdb.org/files/fdb-paper.pdf)
+- [macOS Monterey Preview](https://www.apple.com/macos/monterey-preview/)
+- [iPadOS 15](https://www.apple.com/ipados/ipados-preview/)
+- [Notepad++ drops Bing after “tank man” censorship](https://github.com/notepad-plus-plus/notepad-plus-plus/commit/06657c82b3b9a1871c483982282f046b1ac7b3be)
+- [Yatima: A programming language for the decentralized web](https://github.com/yatima-inc/yatima)
+- [Cryptocurrency Bear?](https://iamunknowing.com/crypto-bear/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
