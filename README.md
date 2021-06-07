@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop saying how simple things are in docs](https://justsimply.dev)
+- [Clever vs. Insightful Code](https://www.hillelwayne.com/post/cleverness/)
+- [Show HN: Mlatu, a Concatenative Programming Language](https://github.com/brightly-salty/mlatu)
+- [Capsule Challenges Vacuum Tube (1948)](https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117)
 - [Keep Your Identity Small (2009)](http://www.paulgraham.com/identity.html)
-- [E-paper History: An Interview with Nick Sheridon, Father of E-paper (2007)](https://thefutureofthings.com/3081-the-future-of-electronic-paper/)
-- [Daniel Ellsberg: The 90-year-old whistleblower tempting prosecution](https://www.bbc.co.uk/news/world-us-canada-57341592)
-- [Making better decisions with the Brier score](https://datarecipes.io/posts/brier_score/)
-- [The Dangers of Low Head Dams (2019)](https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
