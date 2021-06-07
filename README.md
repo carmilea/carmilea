@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Notepad++ V8 Release](https://notepad-plus-plus.org/downloads/v8/)
+- [HTTP Status Dogs](https://httpstatusdogs.com/)
+- [Sorry everybody, I failed with you](https://github.com/pedronauck/docz/issues/1634)
 - [10 Years of Open Source](https://solnic.codes/2021/06/04/10-years-of-open-source/)
 - [Bust-Out Fraud [pdf]](https://www.experian.com/assets/decision-analytics/white-papers/bust-out-fraud-white-paper.pdf)
-- [Farmers Deserve the Right to Repair Their Tractors](https://www.farms.com/news/farmers-deserve-the-right-to-repair-their-tractors-168298.aspx)
-- [Our Engineering Team Used Python's AST to Patch 100,000s of Lines of Code](https://engineering.soroco.com/abstract-syntax-tree-for-patching-code-and-assessing-code-quality/)
-- [ST3000DM001](https://en.wikipedia.org/wiki/ST3000DM001)
 <!-- BLOG-POST-LIST:END -->
 
 ---
