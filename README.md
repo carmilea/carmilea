@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Drowning Machine: The Dangers of Low Head Dams](https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams)
-- [The Globalization of Venture Capital Investing](https://avc.com/2021/06/the-globalization-of-venture-capital-investing/)
-- [Laser pulse travels 300 times faster than light (2002)](https://optics.org/article/8562)
-- [The SaaS CTO Security Checklist Redux](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
-- [Gene sequencer malware injection via encoded DNA](https://www.wired.com/story/malware-dna-hack/)
+- [Keep Your Identity Small (2009)](http://www.paulgraham.com/identity.html)
+- [E-paper History: An Interview with Nick Sheridon, Father of E-paper (2007)](https://thefutureofthings.com/3081-the-future-of-electronic-paper/)
+- [Daniel Ellsberg: The 90-year-old whistleblower tempting prosecution](https://www.bbc.co.uk/news/world-us-canada-57341592)
+- [Making better decisions with the Brier score](https://datarecipes.io/posts/brier_score/)
+- [The Dangers of Low Head Dams (2019)](https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
