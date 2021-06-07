@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Notepad++ V8 Release](https://notepad-plus-plus.org/downloads/v8/)
-- [HTTP Status Dogs](https://httpstatusdogs.com/)
-- [Sorry everybody, I failed with you](https://github.com/pedronauck/docz/issues/1634)
-- [10 Years of Open Source](https://solnic.codes/2021/06/04/10-years-of-open-source/)
-- [Bust-Out Fraud [pdf]](https://www.experian.com/assets/decision-analytics/white-papers/bust-out-fraud-white-paper.pdf)
+- [A martian’s review of The Martian (2015)](https://ryanbanderson.com/a-martians-review-of-the-martian-book)
+- [David Dushman, last surviving Auschwitz liberator, dies aged 98](https://www.bbc.com/news/world-europe-57379704)
+- [Qventus (YC W15) Is Hiring Data Platform Engineers](https://jobs.lever.co/qventus/c0d604cf-ec1c-48ea-847d-5ffc7a67698d)
+- [Show HN: Open-source alternative to Retool, Internal.io, etc.](https://github.com/ToolJet/ToolJet/)
+- [Software maker Altium rejects $3.9B takeover bid from Autodesk](https://www.reuters.com/technology/asx-listed-altium-rejects-39-bln-buyout-offer-us-peer-autodesk-2021-06-07/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
