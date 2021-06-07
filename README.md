@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop saying how simple things are in docs](https://justsimply.dev)
+- [Our Engineering Team Used Python's AST to Patch 100,000s of Lines of Code](https://engineering.soroco.com/abstract-syntax-tree-for-patching-code-and-assessing-code-quality/)
+- [On 'Biweekly' and 'Bimonthly'](https://www.merriam-webster.com/words-at-play/on-biweekly-and-bimonthly)
+- [ST3000DM001](https://en.wikipedia.org/wiki/ST3000DM001)
+- [If someone’s having to read your docs, it’s not “simple”](https://justsimply.dev)
 - [Clever vs. Insightful Code](https://www.hillelwayne.com/post/cleverness/)
-- [Show HN: Mlatu, a Concatenative Programming Language](https://github.com/brightly-salty/mlatu)
-- [Capsule Challenges Vacuum Tube (1948)](https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117)
-- [Keep Your Identity Small (2009)](http://www.paulgraham.com/identity.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
