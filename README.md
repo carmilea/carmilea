@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“AI promised to revolutionize radiology but so far its failing”](https://statmodeling.stat.columbia.edu/2021/06/07/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/)
-- [Apple pays out millions to student after repair techs shared her personal images](https://9to5mac.com/2021/06/07/apple-pays-out-millions-in-compensation-to-student-after-iphone-repair-facility-shared-her-explicit-personal-images-online/)
-- [Brain-Computer Interface Smashes Previous Record for Typing Speed](https://spectrum.ieee.org/the-human-os/biomedical/devices/braincomputer-interface-smashes-previous-record-for-typing-speed)
-- [A Random Walk Through Git](https://bakkenbaeck.github.io/a-random-walk-through-git/)
-- [Chrome is faster in M91](https://blog.chromium.org/2021/05/chrome-is-faster-in-m91.html)
+- [Launch HN: Quadrant Eye (YC W21) – Online eye exams and at-home eyecare](https://news.ycombinator.com/item?id=27423738)
+- [UK's Labour Party calls for delay to NHS Digital's GP data slurp](https://www.theregister.com/2021/06/07/gpdpr_labour/)
+- [Q – Run SQL Directly on CSV or TSV Files](http://harelba.github.io/q/)
+- [Campaign launches to try to force Palantir out of Britain’s NHS](https://www.cnbc.com/2021/06/04/campaign-launched-to-get-palantir-out-of-nhs.html)
+- [How to sequence your genome at home](http://blog.booleanbiotech.com/human-genome-at-home.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
