@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An interactive look at how a video signal is made](https://blog.pizzabox.computer/random/videolines/)
+- [Static site generators to watch in 2021](https://www.netlify.com/blog/2021/06/02/10-static-site-generators-to-watch-in-2021/)
+- [Lab Cultures: An Interview with an Anonymous Biologist (2019)](https://logicmag.io/nature/lab-cultures-an-interview-with-an-anonymous-biologist/)
 - [DOJ Seizes $2.3M in Crypto Paid to the Ransomware Extortionists Darkside](https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside)
 - [The top-ranking HTML editor on Google is an SEO scam](https://casparwre.de/blog/seo-scam/)
-- [Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification](https://www.infoq.com/news/2021/04/intel-hidden-instructions/)
-- [CodePerfect 95 – A fast IDE for Go](https://codeperfect95.com)
-- [The price of batteries has declined by 97% in the last three decades](https://ourworldindata.org/battery-price-decline)
 <!-- BLOG-POST-LIST:END -->
 
 ---
