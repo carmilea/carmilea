@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DOJ Seizes $2.3M in Crypto Paid to the Ransomware Extortionists Darkside](https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside)
+- [The top-ranking HTML editor on Google is an SEO scam](https://casparwre.de/blog/seo-scam/)
+- [Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification](https://www.infoq.com/news/2021/04/intel-hidden-instructions/)
+- [CodePerfect 95 – A fast IDE for Go](https://codeperfect95.com)
 - [The price of batteries has declined by 97% in the last three decades](https://ourworldindata.org/battery-price-decline)
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Server is smoking, trying to figure out why](https://twitter.com/HNStatus/status/1401980524428627970)
-- [macOS Monterey Preview](https://www.apple.com/macos/monterey-preview/)
-- [Notepad++ drops Bing after “tank man” censorship](https://github.com/notepad-plus-plus/notepad-plus-plus/commit/06657c82b3b9a1871c483982282f046b1ac7b3be)
 <!-- BLOG-POST-LIST:END -->
 
 ---
