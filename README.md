@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Quadrant Eye (YC W21) – Online eye exams and at-home eyecare](https://news.ycombinator.com/item?id=27423738)
-- [UK's Labour Party calls for delay to NHS Digital's GP data slurp](https://www.theregister.com/2021/06/07/gpdpr_labour/)
-- [Q – Run SQL Directly on CSV or TSV Files](http://harelba.github.io/q/)
-- [Campaign launches to try to force Palantir out of Britain’s NHS](https://www.cnbc.com/2021/06/04/campaign-launched-to-get-palantir-out-of-nhs.html)
-- [How to sequence your genome at home](http://blog.booleanbiotech.com/human-genome-at-home.html)
+- [Mark Cuban-backed banking app Dave to go public in $4 bln SPAC merger](https://www.reuters.com/technology/mark-cuban-backed-banking-app-dave-go-public-4-bln-spac-merger-2021-06-07/)
+- [WWDC21: Apple Keynote [Live]](https://www.apple.com/apple-events/event-stream/#21)
+- [Flexport is hiring engineers to help us uncork global supply chains](HTTPS://flexport.com/careers)
+- [Found at Goodwill: WebPad 1001 Prototype](https://huebnerob.com/2021/06/06/found-at-goodwill-webpad-1001-prototype/)
+- [FoundationDB: A Distributed, Unbundled, Transactional Key Value Store [pdf]](https://www.foundationdb.org/files/fdb-paper.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
