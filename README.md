@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Madman and the Dwarf](https://www.thelondonmagazine.org/essay-the-madman-and-the-dwarf-van-gogh-and-lautrec-by-jeffrey-meyer/)
 - [Machine learning is booming in medicine, but also facing a credibility crisis](https://www.statnews.com/2021/06/02/machine-learning-ai-methodology-research-flaws/)
 - [Australian police arrest over 200 after cracking underworld messaging app](https://www.reuters.com/article/australia-crime/australian-police-arrest-over-200-after-cracking-underworld-messaging-app-idUSL3N2NQ0BR)
 - [PGP Marks 30th Anniversary](https://philzimmermann.com/EN/essays/PGP_30th/)
 - [Astronomers Find Secret Planet-Making Ingredient: Magnetic Fields](https://www.quantamagazine.org/simulation-reveals-how-magnetism-helps-form-planets-20210607/)
-- [FaceTime on the web requires Chrome or Edge, no mention of Firefox](https://www.apple.com/macos/monterey-preview/features/#footnote-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
