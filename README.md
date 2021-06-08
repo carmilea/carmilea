@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers Find Secret Planet-Making Ingredient: Magnetic Fields](https://www.quantamagazine.org/simulation-reveals-how-magnetism-helps-form-planets-20210607/)
+- [The Quickest Antenna Design of the Year](https://shielddigitaldesign.com/posts/2021/fast-antenna/)
 - [An interactive look at how a video signal is made](https://blog.pizzabox.computer/random/videolines/)
 - [Static site generators to watch in 2021](https://www.netlify.com/blog/2021/06/02/10-static-site-generators-to-watch-in-2021/)
-- [Lab Cultures: An Interview with an Anonymous Biologist (2019)](https://logicmag.io/nature/lab-cultures-an-interview-with-an-anonymous-biologist/)
 - [DOJ Seizes $2.3M in Crypto Paid to the Ransomware Extortionists Darkside](https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside)
-- [The top-ranking HTML editor on Google is an SEO scam](https://casparwre.de/blog/seo-scam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
