@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple to discontinue iTunes U after 2021](https://techcrunch.com/2020/06/10/apple-to-discontinue-itunes-u-after-2021/)
+- [To Protect Against Weaponized Drones, We Must Understand Their Key Strengths](https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths)
+- [Keeping Up with Docker Official Images](https://blog.atomist.com/keeping-up-with-docker-official-images/)
 - [A walk in nature is better than microdosing](https://victorrotariu.com/2021/06/better-than-microdosing-walks-in-nature/)
 - [Launch HN: Runway (YC W21) – Easier iOS and Android app releases for teams](https://news.ycombinator.com/item?id=27435377)
-- [New ProtonMail](https://protonmail.com/blog/new-protonmail-announcement/)
-- [How Netflix uses eBPF flow logs at scale for network insight](https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96)
-- [The Aducanumab Approval](https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval)
 <!-- BLOG-POST-LIST:END -->
 
 ---
