@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Australian police arrest over 200 after cracking underworld messaging app](https://www.reuters.com/article/australia-crime/australian-police-arrest-over-200-after-cracking-underworld-messaging-app-idUSL3N2NQ0BR)
 - [PGP Marks 30th Anniversary](https://philzimmermann.com/EN/essays/PGP_30th/)
 - [Astronomers Find Secret Planet-Making Ingredient: Magnetic Fields](https://www.quantamagazine.org/simulation-reveals-how-magnetism-helps-form-planets-20210607/)
 - [An interactive look at how a video signal is made](https://blog.pizzabox.computer/random/videolines/)
-- [DOJ Seizes $2.3M in Crypto Paid to the Ransomware Extortionists Darkside](https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside)
-- [The top-ranking HTML editor on Google is an SEO scam](https://casparwre.de/blog/seo-scam/)
+- [DOJ seizes $2.3M in cryptocurrency paid to the ransomware extortionists Darkside](https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside)
 <!-- BLOG-POST-LIST:END -->
 
 ---
