@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Project of One’s Own](http://paulgraham.com/own.html)
-- [The Future Of Business, Brought To Us By Data](https://www.singlestore.com/blog/the-future-of-business-brought-to-us-by-data)
-- [Anom Encrypted App Analysis](https://webcache.googleusercontent.com/search?q=cache:bP-g6VgD1JcJ:https://anomexposed.wordpress.com/2021/03/29/anom-encrpted-scam-exposed/+&cd=1&hl=en&ct=clnk&gl=au)
-- [Sequoia PGP 1.3 is released](https://sequoia-pgp.org/blog/2021/06/08/202106-sequoia-1.3/)
-- [Fastly CDN is down (affecting Reddit, GitHub, SO, ...)](http://www.fastly.com)
+- [SeKVM verified hypervisor based on KVM](https://spectrum.ieee.org/riskfactor/computing/software/safe-hypervisor)
+- [Changes to Docker Hub Autobuilds](https://www.docker.com/blog/changes-to-docker-hub-autobuilds/)
+- [Pachyderm Is Hiring for Product Marketing and Developer Productivity Engineers](https://www.pachyderm.com/careers/#positions)
+- [Terraform v1.0 Is Out](https://www.terraform.io/docs/language/v1-compatibility-promises.html)
+- [Terraform 1.0.0 Release](https://github.com/hashicorp/terraform/releases/tag/v1.0.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
