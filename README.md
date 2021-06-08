@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientific Computing with Perl](http://pdl.perl.org/)
+- [Ohio sues Google, seeks to declare the internet company a public utility](https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/)
 - [Real-world CSS vs. CSS-in-JS performance comparison](https://pustelto.com/blog/css-vs-css-in-js-perf/)
 - [Exploring Deno Land with Ryan Dahl [audio]](http://changelog.com/podcast/443)
-- [The Plan for React 18](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html)
-- [Synthetic Messenger: A botnet scheme for climate news](https://syntheticmessenger.labr.io/#about)
-- [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
+- [The Bafflement Fires](http://www.dpoetry.com/fires/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
