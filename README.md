@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bosch opens German chip plant, its biggest-ever (1B Eur) investment](https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/)
+- [Introducing chrome.scripting](https://developer.chrome.com/en/blog/crx-scripting-api/)
+- [Bosch opens German chip plant](https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/)
 - [Study shows how taking short breaks may help our brains learn new skills](https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains)
-- [Most Expensive Drugs in the U.S.](https://www.goodrx.com/blog/most-expensive-drugs-period/)
 - [Gordian Software (YC W19, Airline API Platform) Is Hiring Back End Engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
 - [Microsoft Patches Six Zero-Day Security Holes](https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/)
 <!-- BLOG-POST-LIST:END -->
