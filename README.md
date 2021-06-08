@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A trailblazing archeologist who faked his own death](https://www.theguardian.com/books/2021/may/27/alexandria-by-edmund-richardson-review-the-quest-for-the-lost-city)
 - [The Madman and the Dwarf](https://www.thelondonmagazine.org/essay-the-madman-and-the-dwarf-van-gogh-and-lautrec-by-jeffrey-meyer/)
 - [Machine learning is booming in medicine, but also facing a credibility crisis](https://www.statnews.com/2021/06/02/machine-learning-ai-methodology-research-flaws/)
-- [Australian police arrest over 200 after cracking underworld messaging app](https://www.reuters.com/article/australia-crime/australian-police-arrest-over-200-after-cracking-underworld-messaging-app-idUSL3N2NQ0BR)
+- [Australian Federal Police and FBI nab underworld figures using encrypted app](https://www.abc.net.au/news/2021-06-08/fbi-afp-underworld-crime-bust-an0m-cash-drugs-murder/100197246)
 - [PGP Marks 30th Anniversary](https://philzimmermann.com/EN/essays/PGP_30th/)
-- [Astronomers Find Secret Planet-Making Ingredient: Magnetic Fields](https://www.quantamagazine.org/simulation-reveals-how-magnetism-helps-form-planets-20210607/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
