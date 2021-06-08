@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Althttpd: Simple webserver in a single C-code file by the author of SQLite](https://sqlite.org/althttpd/doc/trunk/althttpd.md)
-- [A trailblazing archeologist who faked his own death](https://www.theguardian.com/books/2021/may/27/alexandria-by-edmund-richardson-review-the-quest-for-the-lost-city)
-- [Machine learning is booming in medicine, but also facing a credibility crisis](https://www.statnews.com/2021/06/02/machine-learning-ai-methodology-research-flaws/)
-- [Kalyn: A self hosting Lisp compiler for x86-64](https://intuitiveexplanations.com/tech/kalyn)
-- [Australian Federal Police and FBI nab underworld figures using encrypted app](https://www.abc.net.au/news/2021-06-08/fbi-afp-underworld-crime-bust-an0m-cash-drugs-murder/100197246)
+- [Sequoia PGP 1.3 is released](https://sequoia-pgp.org/blog/2021/06/08/202106-sequoia-1.3/)
+- [Fastly CDN is down (affecting Reddit, GitHub, SO, ...)](http://www.fastly.com)
+- [Fastly Outage](https://fastly.com/)
+- [Don't Let Social Media Think for You](https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you)
+- [Reddit.com Service Unavailable](https://www.reddit.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
