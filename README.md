@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple to discontinue iTunes U after 2021](https://techcrunch.com/2020/06/10/apple-to-discontinue-itunes-u-after-2021/)
-- [To Protect Against Weaponized Drones, We Must Understand Their Key Strengths](https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths)
-- [Keeping Up with Docker Official Images](https://blog.atomist.com/keeping-up-with-docker-official-images/)
-- [A walk in nature is better than microdosing](https://victorrotariu.com/2021/06/better-than-microdosing-walks-in-nature/)
-- [Launch HN: Runway (YC W21) – Easier iOS and Android app releases for teams](https://news.ycombinator.com/item?id=27435377)
+- [The Plan for React 18](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html)
+- [Synthetic Messenger: A botnet scheme for climate news](https://syntheticmessenger.labr.io/#about)
+- [Synthetic Minds (YC S18) Is Hiring a compilers engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
+- [Seasteading Creates RPG](https://www.seasteading.org/rpg/)
+- [MoviePass changed some users' passwords so they couldn't use the service](https://www.ftc.gov/news-events/press-releases/2021/06/operators-moviepass-subscription-service-agree-settle-ftc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
