@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Runway (YC W21) – Easier iOS and Android app releases for teams](https://news.ycombinator.com/item?id=27435377)
+- [How Netflix uses eBPF flow logs at scale for network insight](https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96)
+- [The Aducanumab Approval](https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval)
 - [Show HN: Zoom / Teams Open Source alternative for online learning](https://github.com/fmeringdal/nettu-meet)
 - [How the Government Set Up a Fake Bank to Launder Drug Money (2012)](https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money)
-- [Pluridisciplinary evidence for burial for the La Ferrassie 8 Neandertal child](https://www.nature.com/articles/s41598-020-77611-z)
-- [PlayPhrase: Site for Searching Cinema Phrases](https://www.playphrase.me)
-- [Tiny particles power chemical reactions – Massachusetts Institute of Technology](https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607)
 <!-- BLOG-POST-LIST:END -->
 
 ---
