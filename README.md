@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientific Computing with Perl](http://pdl.perl.org/)
-- [Ohio sues Google, seeks to declare the internet company a public utility](https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/)
-- [Real-world CSS vs. CSS-in-JS performance comparison](https://pustelto.com/blog/css-vs-css-in-js-perf/)
-- [Exploring Deno Land with Ryan Dahl [audio]](http://changelog.com/podcast/443)
-- [The Bafflement Fires](http://www.dpoetry.com/fires/)
+- [Gordian Software (YC W19, Airline API Platform) Is Hiring Back End Engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
+- [Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro)
+- [Ppl: The command line address book](https://github.com/hendotcat/ppl)
+- [Carbon dioxide peaks near 420 parts per million at Mauna Loa observatory](https://research.noaa.gov/article/ArtMID/587/ArticleID/2764/Coronavirus-response-barely-slows-rising-carbon-dioxide)
+- [The insane developement history of the Israeli AD system](https://milc.xyz/iron-dome/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
