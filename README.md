@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A walk in nature is better than microdosing](https://victorrotariu.com/2021/06/better-than-microdosing-walks-in-nature/)
 - [Launch HN: Runway (YC W21) – Easier iOS and Android app releases for teams](https://news.ycombinator.com/item?id=27435377)
+- [New ProtonMail](https://protonmail.com/blog/new-protonmail-announcement/)
 - [How Netflix uses eBPF flow logs at scale for network insight](https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96)
 - [The Aducanumab Approval](https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval)
-- [Show HN: Zoom / Teams Open Source alternative for online learning](https://github.com/fmeringdal/nettu-meet)
-- [How the Government Set Up a Fake Bank to Launder Drug Money (2012)](https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money)
 <!-- BLOG-POST-LIST:END -->
 
 ---
