@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine learning is booming in medicine, but also facing a credibility crisis](https://www.statnews.com/2021/06/02/machine-learning-ai-methodology-research-flaws/)
 - [Australian police arrest over 200 after cracking underworld messaging app](https://www.reuters.com/article/australia-crime/australian-police-arrest-over-200-after-cracking-underworld-messaging-app-idUSL3N2NQ0BR)
 - [PGP Marks 30th Anniversary](https://philzimmermann.com/EN/essays/PGP_30th/)
 - [Astronomers Find Secret Planet-Making Ingredient: Magnetic Fields](https://www.quantamagazine.org/simulation-reveals-how-magnetism-helps-form-planets-20210607/)
-- [An interactive look at how a video signal is made](https://blog.pizzabox.computer/random/videolines/)
-- [DOJ seizes $2.3M in cryptocurrency paid to the ransomware extortionists Darkside](https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside)
+- [FaceTime on the web requires Chrome or Edge, no mention of Firefox](https://www.apple.com/macos/monterey-preview/features/#footnote-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
