@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Real-world CSS vs. CSS-in-JS performance comparison](https://pustelto.com/blog/css-vs-css-in-js-perf/)
+- [Exploring Deno Land with Ryan Dahl [audio]](http://changelog.com/podcast/443)
 - [The Plan for React 18](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html)
 - [Synthetic Messenger: A botnet scheme for climate news](https://syntheticmessenger.labr.io/#about)
-- [Synthetic Minds (YC S18) Is Hiring a compilers engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
-- [Seasteading Creates RPG](https://www.seasteading.org/rpg/)
-- [MoviePass changed some users' passwords so they couldn't use the service](https://www.ftc.gov/news-events/press-releases/2021/06/operators-moviepass-subscription-service-agree-settle-ftc)
+- [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
 <!-- BLOG-POST-LIST:END -->
 
 ---
