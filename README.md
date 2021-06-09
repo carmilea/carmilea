@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SMS-based Two-Factor Authentication is not Secure](https://news.ycombinator.com/item?id=27447206)
-- [Launch HN: Explo (YC W20) – Customer-facing dashboards and reports](https://www.explo.co/)
-- [Seven Years of Factorio Friday Facts (2020)](https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts)
-- [Zentail (YC S12) Is Hiring a Director of Growth Marketing in Columbia, MD](https://www.ycombinator.com/companies/zentail/jobs/oHaVmJq-director-of-growth-marketing)
-- [One Fastly customer triggered internet meltdown](https://www.bbc.co.uk/news/technology-57413224)
+- [Resistor Noise Can Be Deafening, and Hard to Reduce](https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html)
+- [El Salvador makes Bitcoin legal tender](https://www.bbc.com/news/world-latin-america-57398274)
+- [The BitcoinLaw has been approved by a supermajority in the Salvadoran Congress](https://twitter.com/nayibbukele/status/1402507224916836352)
+- [The drought in the western U.S. is getting bad](https://www.npr.org/2021/06/09/1003424717/the-drought-in-the-western-u-s-is-getting-bad-climate-change-is-making-it-worse)
+- [Alpaca Attack](https://alpaca-attack.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
