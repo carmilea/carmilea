@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Repo with the Most Commits](https://github.com/IThinkImOKAY/IThinkImOKAY)
+- [How to Start Disrupting Cryptocurrencies: “Mining” Is Money Transmission](https://www.lawfareblog.com/how-start-disrupting-cryptocurrencies-mining-money-transmission)
+- [I saw millions compromise their Facebook accounts to fuel fake engagement](https://restofworld.org/2021/sophie-zhang-facebook-autolikers/)
+- [Blackrock is buying family houses, paying 20-50% above asking price [Thread]](https://twitter.com/APhilosophae/status/1402434266970140676)
 - [Resistor Noise Can Be Deafening, and Hard to Reduce](https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html)
-- [El Salvador makes Bitcoin legal tender](https://www.bbc.com/news/world-latin-america-57398274)
-- [The BitcoinLaw has been approved by a supermajority in the Salvadoran Congress](https://twitter.com/nayibbukele/status/1402507224916836352)
-- [The drought in the western U.S. is getting bad](https://www.npr.org/2021/06/09/1003424717/the-drought-in-the-western-u-s-is-getting-bad-climate-change-is-making-it-worse)
-- [Alpaca Attack](https://alpaca-attack.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
