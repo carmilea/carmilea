@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Explo (YC W20) – Customer-facing dashboards and reports](https://www.explo.co/)
+- [Zentail (YC S12) Is Hiring a Director of Growth Marketing in Columbia, MD](https://www.ycombinator.com/companies/zentail/jobs/oHaVmJq-director-of-growth-marketing)
+- [One Fastly customer triggered internet meltdown](https://www.bbc.co.uk/news/technology-57413224)
 - [Lua-RTOS: a real-time operating system for ESP32](https://github.com/whitecatboard/Lua-RTOS-ESP32)
 - [There’s a new ocean now: The Southern Ocean](https://www.nationalgeographic.com/environment/article/theres-a-new-ocean-now-can-you-name-all-five-southern-ocean)
-- [The myth of the driverless tube train](https://www.londonreconnections.com/2021/the-political-myth-of-the-driverless-tube-train/)
-- [Show HN: Open-source conversational platform and unified messaging APIs](https://airy.co/hn)
-- [Fastmail loses data law appeal and to be blocked in Russia](https://fastmail.blog/legal-policy/russia-blocking-fastmail-to-customers-living-in-russia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
