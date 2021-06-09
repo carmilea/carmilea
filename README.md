@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin becomes Legal Tender in El Salvador](https://www.coindesk.com/its-official-el-salvadors-legislature-votes-to-adopt-bitcoin-as-legal-tender)
+- [Vivaldi 4.0: Vivaldi Translate, Vivaldi Mail, Calendar and Feed Reader](https://vivaldi.com/blog/vivaldi-4-0/)
 - [Find software roles 30 startups (including YC) at YC's Job Expo this Thursday](https://www.workatastartup.com/events/startup-tech-expo-summer-2021)
 - [I wrote a linker everyone can understand](https://briancallahan.net/blog/20210609.html)
 - [Lockdown.exe: Block unknown apps via Windows software restriction policy](https://www.d7xtech.com/lockdown/)
