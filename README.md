@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TC Energy terminates Keystone XL pipeline project](https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/)
-- [LayerCI (YC S20) Is Hiring Interns in Canada](https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021)
+- [Facebook extends its work-at-home policy to most employees](https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html)
+- [Evaluating necessity of Covid-19 vaccination in previously infected individuals](https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2)
+- [TC Energy scraps Keystone XL pipeline project after Biden revokes key permit](https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/)
+- [LayerCI (YC S20) Is hiring interns to build devtools for webapps in Canada](https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021)
 - [Original Hacker News Source Code (2009)](https://github.com/wting/hackernews)
-- [Rechanneling Beliefs: How information flows hinder or help democracy [pdf]](https://snfagora.jhu.edu/wp-content/uploads/2021/05/Rechanneling-Beliefs.pdf)
-- [You use more open source software than you think](https://github.com/readme/unseen-oss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
