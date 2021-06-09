@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vivaldi 4.0](https://vivaldi.com/blog/vivaldi-4-0/)
-- [Find software roles 30 startups (including YC) at YC's Job Expo this Thursday](https://www.workatastartup.com/events/startup-tech-expo-summer-2021)
-- [I wrote a linker everyone can understand](https://briancallahan.net/blog/20210609.html)
-- [Lockdown.exe: Block unknown apps via Windows software restriction policy](https://www.d7xtech.com/lockdown/)
-- [Show HN: A simple JavaScript notebook in one file](https://github.com/timcwinkler/javascript-notebook)
+- [Lua-RTOS: a real-time operating system for ESP32](https://github.com/whitecatboard/Lua-RTOS-ESP32)
+- [There’s a new ocean now: The Southern Ocean](https://www.nationalgeographic.com/environment/article/theres-a-new-ocean-now-can-you-name-all-five-southern-ocean)
+- [The myth of the driverless tube train](https://www.londonreconnections.com/2021/the-political-myth-of-the-driverless-tube-train/)
+- [Show HN: Open-source conversational platform and unified messaging APIs](https://airy.co/hn)
+- [Fastmail loses data law appeal and to be blocked in Russia](https://fastmail.blog/legal-policy/russia-blocking-fastmail-to-customers-living-in-russia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
