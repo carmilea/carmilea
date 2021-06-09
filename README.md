@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Data-Intensive Applications Need Modern Data Infrastructure](https://www.singlestore.com/blog/data-intensive-applications-need-modern-data-infrastructure)
-- [Human Memory](https://github.com/ContextLab/human-memory)
-- [How to Start Disrupting Cryptocurrencies: “Mining” Is Money Transmission](https://www.lawfareblog.com/how-start-disrupting-cryptocurrencies-mining-money-transmission)
-- [I saw millions compromise their Facebook accounts to fuel fake engagement](https://restofworld.org/2021/sophie-zhang-facebook-autolikers/)
-- [Blackrock is buying family houses, paying 20-50% above asking price](https://twitter.com/APhilosophae/status/1402434266970140676)
+- [How the 1 percent’s savings buried the middle class in debt](https://review.chicagobooth.edu/economics/2021/article/how-1-percent-s-savings-buried-middle-class-debt)
+- [2021.06.08 Certificate Lifetime Incident](https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426)
+- [SwiftSku (YC W21) Is Hiring a Founding Back End Python Engineer (Remote)](https://www.workatastartup.com/jobs/41421)
+- [Sweden’s Northvolt raises $2.8B to supercharge EV battery output](https://www.reuters.com/business/energy/battery-maker-northvolt-raises-275-bln-expand-factory-2021-06-09/)
+- [Midair plane refuels done by a drone for the first time](https://www.cbsnews.com/news/drone-refuels-us-navy-fighter-jet-midair/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
