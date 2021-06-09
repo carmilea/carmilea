@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple M1 support for TensorFlow 2.5 pluggable device API](https://developer.apple.com/metal/tensorflow-plugin/)
 - [Introducing chrome.scripting](https://developer.chrome.com/en/blog/crx-scripting-api/)
 - [Bosch opens German chip plant](https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/)
+- [ProPublica's Tax Story is Misleading](https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax)
 - [Study shows how taking short breaks may help our brains learn new skills](https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains)
-- [Gordian Software (YC W19, Airline API Platform) Is Hiring Back End Engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
-- [Microsoft Patches Six Zero-Day Security Holes](https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
