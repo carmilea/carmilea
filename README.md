@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AppStore: Apps supporting account creation must also offer account deletion](https://developer.apple.com/app-store/review/guidelines/#data-collection-and-storage)
+- [Lockdown.exe: Block unknown apps via Windows software restriction policy](https://www.d7xtech.com/lockdown/)
+- [Show HN: A simple JavaScript notebook in one file](https://github.com/timcwinkler/javascript-notebook)
 - [Ask HN: Are We in a Mega Bubble?](https://news.ycombinator.com/item?id=27443944)
 - [You Don’t Need Permission](https://steveblank.com/2021/06/04/you-dont-need-permission/)
-- [GPT-J-6B, a 6B Parameter Text Generation Model](https://github.com/kingoflolz/mesh-transformer-jax)
-- [What the Fastly outage can teach us about writing error messages](https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages)
-- [Senate approves $250B bill to boost tech research](https://www.wsj.com/articles/senate-approves-250-billion-bill-to-boost-tech-research-11623192584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
