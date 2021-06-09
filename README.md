@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AppStore: Apps supporting account creation must also offer account deletion](https://developer.apple.com/app-store/review/guidelines/#data-collection-and-storage)
+- [Bitcoin becomes Legal Tender in El Salvador](https://www.coindesk.com/its-official-el-salvadors-legislature-votes-to-adopt-bitcoin-as-legal-tender)
+- [Find software roles 30 startups (including YC) at YC's Job Expo this Thursday](https://www.workatastartup.com/events/startup-tech-expo-summer-2021)
+- [Apps supporting account creation must also offer account deletion](https://developer.apple.com/app-store/review/guidelines/#data-collection-and-storage)
 - [Lockdown.exe: Block unknown apps via Windows software restriction policy](https://www.d7xtech.com/lockdown/)
-- [Show HN: A simple JavaScript notebook in one file](https://github.com/timcwinkler/javascript-notebook)
-- [Ask HN: Are We in a Mega Bubble?](https://news.ycombinator.com/item?id=27443944)
-- [You Don’t Need Permission](https://steveblank.com/2021/06/04/you-dont-need-permission/)
+- [I wrote a linker everyone can understand](https://briancallahan.net/blog/20210609.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
