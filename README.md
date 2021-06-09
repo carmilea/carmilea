@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Universal Control on macOS Monterey Works](https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad)
-- [Circadian rhythm gene in mice discovered](https://vtx.vt.edu/articles/2021/06/science-circadian_rhythm_body_clock_kojima.html)
-- [Research suggests that when the rich bank, the rest borrow](https://review.chicagobooth.edu/economics/2021/article/how-1-percent-s-savings-buried-middle-class-debt)
-- [Angband 4.2.2: A free, single-player roguelike dungeon exploration game (Mar-21)](https://github.com/angband/angband/releases/tag/4.2.2)
-- [2021.06.08 Certificate Lifetime Incident](https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426)
+- [Original Hacker News Source Code (2008)](https://github.com/wting/hackernews)
+- [You use more open source software than you think](https://github.com/readme/unseen-oss)
+- [Drug Users Use a Lot of Drugs](https://astralcodexten.substack.com/p/drug-users-use-a-lot-of-drugs)
+- [How to circumvent Sci-Hub ISP block](https://fragile-credences.github.io/scihub-proxy/)
+- [Apple is threatening to remove Fanhouse unless they give 30% of creator earning](https://twitter.com/jasminericegirl/status/1402691047940100100)
 <!-- BLOG-POST-LIST:END -->
 
 ---
