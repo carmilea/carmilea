@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [San Francisco may be first major US city to hit herd immunity, experts say](https://www.theguardian.com/us-news/2021/jun/08/san-francisco-covid-herd-immunity)
+- [What the Fastly outage can teach us about writing error messages](https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages)
+- [Senate Approves $250B Bill to Boost Tech Research](https://www.wsj.com/articles/senate-approves-250-billion-bill-to-boost-tech-research-11623192584)
 - [Apple M1 support for TensorFlow 2.5 pluggable device API](https://developer.apple.com/metal/tensorflow-plugin/)
 - [Introducing chrome.scripting](https://developer.chrome.com/en/blog/crx-scripting-api/)
-- [Bosch opens German chip plant](https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/)
-- [ProPublica's Tax Story is Misleading](https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax)
-- [Study shows how taking short breaks may help our brains learn new skills](https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains)
 <!-- BLOG-POST-LIST:END -->
 
 ---
