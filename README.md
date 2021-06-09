@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [French set to replace English as EU’s ‘working language’](https://www.independent.co.uk/news/world/europe/brexit-france-eu-french-english-b1861087.html)
 - [How the 1 percent’s savings buried the middle class in debt](https://review.chicagobooth.edu/economics/2021/article/how-1-percent-s-savings-buried-middle-class-debt)
+- [Angband 4.2.2: A free, single-player roguelike dungeon exploration game (Mar-21)](https://github.com/angband/angband/releases/tag/4.2.2)
 - [2021.06.08 Certificate Lifetime Incident](https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426)
 - [SwiftSku (YC W21) Is Hiring a Founding Back End Python Engineer (Remote)](https://www.workatastartup.com/jobs/41421)
-- [Sweden’s Northvolt raises $2.8B to supercharge EV battery output](https://www.reuters.com/business/energy/battery-maker-northvolt-raises-275-bln-expand-factory-2021-06-09/)
-- [Midair plane refuels done by a drone for the first time](https://www.cbsnews.com/news/drone-refuels-us-navy-fighter-jet-midair/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
