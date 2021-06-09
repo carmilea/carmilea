@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SMS-based Two-Factor Authentication is not Secure](https://news.ycombinator.com/item?id=27447206)
 - [Launch HN: Explo (YC W20) – Customer-facing dashboards and reports](https://www.explo.co/)
+- [Seven Years of Factorio Friday Facts (2020)](https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts)
 - [Zentail (YC S12) Is Hiring a Director of Growth Marketing in Columbia, MD](https://www.ycombinator.com/companies/zentail/jobs/oHaVmJq-director-of-growth-marketing)
 - [One Fastly customer triggered internet meltdown](https://www.bbc.co.uk/news/technology-57413224)
-- [Lua-RTOS: a real-time operating system for ESP32](https://github.com/whitecatboard/Lua-RTOS-ESP32)
-- [There’s a new ocean now: The Southern Ocean](https://www.nationalgeographic.com/environment/article/theres-a-new-ocean-now-can-you-name-all-five-southern-ocean)
 <!-- BLOG-POST-LIST:END -->
 
 ---
