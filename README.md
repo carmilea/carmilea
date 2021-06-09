@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [San Francisco may be first major US city to hit herd immunity, experts say](https://www.theguardian.com/us-news/2021/jun/08/san-francisco-covid-herd-immunity)
+- [You Don’t Need Permission](https://steveblank.com/2021/06/04/you-dont-need-permission/)
+- [GPT-J-6B, a 6B Parameter Text Generation Model](https://github.com/kingoflolz/mesh-transformer-jax)
 - [What the Fastly outage can teach us about writing error messages](https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages)
-- [Senate Approves $250B Bill to Boost Tech Research](https://www.wsj.com/articles/senate-approves-250-billion-bill-to-boost-tech-research-11623192584)
+- [Senate approves $250B bill to boost tech research](https://www.wsj.com/articles/senate-approves-250-billion-bill-to-boost-tech-research-11623192584)
 - [Apple M1 support for TensorFlow 2.5 pluggable device API](https://developer.apple.com/metal/tensorflow-plugin/)
-- [Introducing chrome.scripting](https://developer.chrome.com/en/blog/crx-scripting-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
