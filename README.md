@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fastly Summary of June 8 outage](https://www.fastly.com/blog/summary-of-june-8-outage)
 - [You Don’t Need Permission](https://steveblank.com/2021/06/04/you-dont-need-permission/)
 - [GPT-J-6B, a 6B Parameter Text Generation Model](https://github.com/kingoflolz/mesh-transformer-jax)
 - [What the Fastly outage can teach us about writing error messages](https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages)
 - [Senate approves $250B bill to boost tech research](https://www.wsj.com/articles/senate-approves-250-billion-bill-to-boost-tech-research-11623192584)
-- [Apple M1 support for TensorFlow 2.5 pluggable device API](https://developer.apple.com/metal/tensorflow-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
