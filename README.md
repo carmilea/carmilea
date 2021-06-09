@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Original Hacker News Source Code (2008)](https://github.com/wting/hackernews)
+- [TC Energy terminates Keystone XL pipeline project](https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/)
+- [LayerCI (YC S20) Is Hiring Interns in Canada](https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021)
+- [Original Hacker News Source Code (2009)](https://github.com/wting/hackernews)
+- [Rechanneling Beliefs: How information flows hinder or help democracy [pdf]](https://snfagora.jhu.edu/wp-content/uploads/2021/05/Rechanneling-Beliefs.pdf)
 - [You use more open source software than you think](https://github.com/readme/unseen-oss)
-- [Drug Users Use a Lot of Drugs](https://astralcodexten.substack.com/p/drug-users-use-a-lot-of-drugs)
-- [How to circumvent Sci-Hub ISP block](https://fragile-credences.github.io/scihub-proxy/)
-- [Apple is threatening to remove Fanhouse unless they give 30% of creator earning](https://twitter.com/jasminericegirl/status/1402691047940100100)
 <!-- BLOG-POST-LIST:END -->
 
 ---
