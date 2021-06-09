@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fastly Summary of June 8 outage](https://www.fastly.com/blog/summary-of-june-8-outage)
+- [Ask HN: Are We in a Mega Bubble?](https://news.ycombinator.com/item?id=27443944)
 - [You Don’t Need Permission](https://steveblank.com/2021/06/04/you-dont-need-permission/)
 - [GPT-J-6B, a 6B Parameter Text Generation Model](https://github.com/kingoflolz/mesh-transformer-jax)
 - [What the Fastly outage can teach us about writing error messages](https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages)
