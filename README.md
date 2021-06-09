@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Repo with the Most Commits](https://github.com/IThinkImOKAY/IThinkImOKAY)
+- [Data-Intensive Applications Need Modern Data Infrastructure](https://www.singlestore.com/blog/data-intensive-applications-need-modern-data-infrastructure)
+- [Human Memory](https://github.com/ContextLab/human-memory)
 - [How to Start Disrupting Cryptocurrencies: “Mining” Is Money Transmission](https://www.lawfareblog.com/how-start-disrupting-cryptocurrencies-mining-money-transmission)
 - [I saw millions compromise their Facebook accounts to fuel fake engagement](https://restofworld.org/2021/sophie-zhang-facebook-autolikers/)
-- [Blackrock is buying family houses, paying 20-50% above asking price [Thread]](https://twitter.com/APhilosophae/status/1402434266970140676)
-- [Resistor Noise Can Be Deafening, and Hard to Reduce](https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html)
+- [Blackrock is buying family houses, paying 20-50% above asking price](https://twitter.com/APhilosophae/status/1402434266970140676)
 <!-- BLOG-POST-LIST:END -->
 
 ---
