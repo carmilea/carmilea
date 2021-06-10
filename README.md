@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Someone has to foot the bill for empty offices](https://www.economist.com/leaders/2021/06/05/someone-has-to-foot-the-bill-for-empty-offices)
+- [Raspberry Pi WiFi to ethernet bridge](https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/)
+- [FundOSS Democratic Funding to sustain open source](https://fundoss.org/)
+- [Using Argo to Train Predictive Models at FlightAware](https://flightaware.engineering/using-argo-to-train-predictive-models/)
 - [Privacy Analysis of FLoC](https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/)
 - [Heart inflammation cases in young men higher than expected after mRNA vaccines](https://www.reuters.com/world/us/cdc-heart-inflammation-cases-ages-16-24-higher-than-expected-after-mrna-covid-19-2021-06-10/)
-- [Good and Bad Elixir](https://keathley.io/blog/good-and-bad-elixir.html)
-- [Go GiveCampus (YC S15) is hiring US remote senior engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 <!-- BLOG-POST-LIST:END -->
 
 ---
