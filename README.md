@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MethOps, Marrying Methodology and IT-Operations. – Qualicen](https://www.qualicen.de/methops-marrying-methodology-and-it-operations#)
+- [Some funny engineering/programmer jokes](https://www.powerstream.com/powerhumor.htm)
+- [Always Be Quitting](https://jmmv.dev/2021/04/always-be-quitting.html)
 - [The memory models that underlie programming languages (2016)](http://canonical.org/~kragen/memory-models/)
 - ['Miraculous' mosquito hack cuts dengue by 77%](https://www.bbc.co.uk/news/health-57417219)
 - [iOS4 Built in SwiftUI](https://github.com/zzanehip/The-OldOS-Project)
-- [The Risk of Cargo Liquefication](https://www.maritime-executive.com/editorials/the-risk-of-cargo-liquefaction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
