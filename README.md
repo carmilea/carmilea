@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Some funny engineering/programmer jokes](https://www.powerstream.com/powerhumor.htm)
-- [Always Be Quitting](https://jmmv.dev/2021/04/always-be-quitting.html)
-- [The memory models that underlie programming languages (2016)](http://canonical.org/~kragen/memory-models/)
-- ['Miraculous' mosquito hack cuts dengue by 77%](https://www.bbc.co.uk/news/health-57417219)
-- [iOS4 Built in SwiftUI](https://github.com/zzanehip/The-OldOS-Project)
+- [A mystery cube, a secret identity, and a puzzle solved after 15 years](https://www.wired.co.uk/article/perplex-city-satoshi)
+- [Neuroscientists Have Discovered a Phenomenon That They Can’t Explain](https://www.theatlantic.com/science/archive/2021/06/the-brain-isnt-supposed-to-change-this-much/619145/)
+- [Heavier Passengers on Planes Mean New Safety Limits for Airlines](https://www.wsj.com/articles/heavier-passengers-on-planes-mean-new-safety-limits-for-airlines-11623243606)
+- [What would you pay for autonomous driving? Volkswagen hopes $8.50 per hour](https://arstechnica.com/cars/2021/06/volkswagen-plans-to-offer-subscriptions-for-autonomous-driving-extra-ev-range/)
+- [Bitcoin as an Investment (2018) [pdf]](https://www.sec.gov/comments/sr-cboebzx-2018-040/srcboebzx2018040-4064523-169183.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
