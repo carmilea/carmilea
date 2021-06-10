@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kraftful (YC S19) hiring a founding engineer to build an IoT platform](https://www.kraftful.com/blog/engineering-roles)
+- [Using aligned word vectors for instant translations with Python and Rust](https://instantdomainsearch.com/engineering/how-to-use-fasttext-for-instant-translations)
 - [Raspberry Pi WiFi to ethernet bridge](https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/)
-- [FundOSS Democratic Funding to sustain open source](https://fundoss.org/)
 - [Using Argo to Train Predictive Models at FlightAware](https://flightaware.engineering/using-argo-to-train-predictive-models/)
 - [Privacy Analysis of FLoC](https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/)
-- [Heart inflammation cases in young men higher than expected after mRNA vaccines](https://www.reuters.com/world/us/cdc-heart-inflammation-cases-ages-16-24-higher-than-expected-after-mrna-covid-19-2021-06-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
