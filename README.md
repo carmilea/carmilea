@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Full cycle developers – Operate what you build (2018)](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249)
 - [A mystery cube, a secret identity, and a puzzle solved after 15 years](https://www.wired.co.uk/article/perplex-city-satoshi)
-- [Neuroscientists Have Discovered a Phenomenon That They Can’t Explain](https://www.theatlantic.com/science/archive/2021/06/the-brain-isnt-supposed-to-change-this-much/619145/)
-- [Heavier Passengers on Planes Mean New Safety Limits for Airlines](https://www.wsj.com/articles/heavier-passengers-on-planes-mean-new-safety-limits-for-airlines-11623243606)
+- [Neuroscientists have discovered a phenomenon that they can’t explain](https://www.theatlantic.com/science/archive/2021/06/the-brain-isnt-supposed-to-change-this-much/619145/)
 - [What would you pay for autonomous driving? Volkswagen hopes $8.50 per hour](https://arstechnica.com/cars/2021/06/volkswagen-plans-to-offer-subscriptions-for-autonomous-driving-extra-ev-range/)
 - [Bitcoin as an Investment (2018) [pdf]](https://www.sec.gov/comments/sr-cboebzx-2018-040/srcboebzx2018040-4064523-169183.pdf)
 <!-- BLOG-POST-LIST:END -->
