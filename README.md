@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linus Torvalds on mRNA Vaccines](https://lore.kernel.org/ksummit/CAHk-=wiB6FJknDC5PMfpkg4gZrbSuC3d391VyReM4Wb0+JYXXA@mail.gmail.com/)
+- [Is Canada’s Mysterious Lab Security Scandal Connected to Covid-19?](https://topsecretumbra.substack.com/p/is-canadas-mysterious-lab-security)
 - [Physicists Measure the Gravitational Force Between the Smallest Masses Yet](https://www.scientificamerican.com/article/physicists-measure-the-gravitational-force-between-the-smallest-masses-yet/)
 - [BitClout collapses everything into money](https://www.newyorker.com/tech/annals-of-technology/the-dark-democratizing-power-of-the-social-media-stock-market)
 - [The Fermi-Pasta-Ulam-Tsingou problem: A foray into the beautifully simple](https://3quarksdaily.com/3quarksdaily/2020/01/the-fermi-pasta-ulam-tsingou-problem-a-foray-into-the-beautifully-simple-and-the-simply-beautiful.html)
