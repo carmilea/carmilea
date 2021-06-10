@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stripe Tax](https://stripe.com/tax)
-- [Introduce DAMON-based Proactive Reclamation](https://lore.kernel.org/lkml/20210608115254.11930-1-sj38.park@gmail.com/)
-- [Notabene (YC S20) Is Hiring Sales, Engineers](https://news.ycombinator.com/item?id=27459640)
-- ['Vegan spider silk' provides sustainable alternative to single-use plastics](https://phys.org/news/2021-06-vegan-spider-silk-sustainable-alternative.html)
-- [Ad tech firms test ways to connect Google’s FLoC to other data](https://digiday.com/marketing/as-ad-tech-firms-test-ways-to-connect-googles-floc-to-other-data-privacy-watchers-see-fears-coming-true/)
+- [Hoover Dam reservoir hits record low, in sign of extreme western U.S. drought](https://www.reuters.com/world/us/hoover-dam-reservoir-hits-record-low-sign-extreme-western-us-drought-2021-06-10/)
+- [Consumer Prices Rose 5% in May](https://www.wsj.com/articles/us-inflation-consumer-price-index-may-2021-11623288303)
+- [rqlite 6.0: the evolution of a distributed database design](https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/)
+- [Blender-OSM Add-on: Current state and ongoing development](https://community.osarch.org/discussion/609/monthly-meetup-15-12th-of-june-20-00-utc)
+- [Automate taxes on your Stripe transactions](https://stripe.com/in/tax)
 <!-- BLOG-POST-LIST:END -->
 
 ---
