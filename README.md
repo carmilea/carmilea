@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Okay (YC W20) – Analytics for engineering teams](https://news.ycombinator.com/item?id=27461564)
+- [Purchasing power of one US dollar (USD) in every year from 1635 to 2020](https://www.statista.com/statistics/1032048/value-us-dollar-since-1640/)
 - [Try APL](https://tryapl.org)
+- [The Wiretrustee SATA Pi Board Is a True SATA NAS](https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas)
 - [Solar assets are underperforming and modules degrading faster than expected](https://www.pv-tech.org/built-solar-assets-are-chronically-underperforming-and-modules-degrading-faster-than-expected-research-finds/)
-- [U.S. Consumer Prices Rose Strongly Again in May](https://www.wsj.com/articles/us-inflation-consumer-price-index-may-2021-11623288303)
-- [Rqlite 6.0](https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/)
-- [Blender-OSM Add-on: Current state and ongoing development](https://community.osarch.org/discussion/609/monthly-meetup-15-12th-of-june-20-00-utc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
