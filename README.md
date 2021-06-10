@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Someone has to foot the bill for empty offices](https://www.economist.com/leaders/2021/06/05/someone-has-to-foot-the-bill-for-empty-offices)
+- [Privacy Analysis of FLoC](https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/)
 - [Heart inflammation cases in young men higher than expected after mRNA vaccines](https://www.reuters.com/world/us/cdc-heart-inflammation-cases-ages-16-24-higher-than-expected-after-mrna-covid-19-2021-06-10/)
 - [Good and Bad Elixir](https://keathley.io/blog/good-and-bad-elixir.html)
-- [EA hacked and source code stolen](https://www.bbc.co.uk/news/technology-57431987)
 - [Go GiveCampus (YC S15) is hiring US remote senior engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [Moving my home media library from iTunes to Jellyfin and Infuse](https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jellyfin-and-infuse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
