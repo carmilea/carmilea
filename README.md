@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Software Is Eating the Car](https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/software-eating-car.html)
-- [Link shorteners: why you shouldn't use them](https://gcs.civilservice.gov.uk/blog/link-shorteners-the-long-and-short-of-why-you-shouldnt-use-them/)
-- [Launch HN: Okay (YC W20) – Analytics for engineering teams](https://news.ycombinator.com/item?id=27461564)
-- [Purchasing power of one US dollar (USD) in every year from 1635 to 2020](https://www.statista.com/statistics/1032048/value-us-dollar-since-1640/)
-- [Try APL](https://tryapl.org)
+- [Go GiveCampus (YC S15) is hiring US remote senior engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Moving my home media library from iTunes to Jellyfin and Infuse](https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jellyfin-and-infuse)
+- [Virtua Hamster (Sega 32X/Saturn)](https://www.gamesthatwerent.com/2020/10/virtua-hamster/)
+- [Dog ejected from car during Sunday crash found on sheep farm, herding sheep](https://www.khq.com/news/dog-ejected-from-car-during-sunday-crash-found-on-sheep-farm-herding-sheep/article_fc15bfe6-c805-11eb-ae68-7fb69c0af0d6.html)
+- [Software Is Eating the Car](https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/software-eating-car)
 <!-- BLOG-POST-LIST:END -->
 
 ---
