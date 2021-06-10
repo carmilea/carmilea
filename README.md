@@ -55,7 +55,7 @@
 - [A mystery cube, a secret identity, and a puzzle solved after 15 years](https://www.wired.co.uk/article/perplex-city-satoshi)
 - [Neuroscientists have discovered a phenomenon that they can’t explain](https://www.theatlantic.com/science/archive/2021/06/the-brain-isnt-supposed-to-change-this-much/619145/)
 - [What would you pay for autonomous driving? Volkswagen hopes $8.50 per hour](https://arstechnica.com/cars/2021/06/volkswagen-plans-to-offer-subscriptions-for-autonomous-driving-extra-ev-range/)
-- [Bitcoin as an Investment (2018) [pdf]](https://www.sec.gov/comments/sr-cboebzx-2018-040/srcboebzx2018040-4064523-169183.pdf)
+- [iOS 15 Humane](https://potential.app/ios-15-humane)
 <!-- BLOG-POST-LIST:END -->
 
 ---
