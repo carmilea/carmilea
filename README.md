@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hoover Dam reservoir hits record low, in sign of extreme western U.S. drought](https://www.reuters.com/world/us/hoover-dam-reservoir-hits-record-low-sign-extreme-western-us-drought-2021-06-10/)
-- [Consumer Prices Rose 5% in May](https://www.wsj.com/articles/us-inflation-consumer-price-index-may-2021-11623288303)
-- [rqlite 6.0: the evolution of a distributed database design](https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/)
+- [Try APL](https://tryapl.org)
+- [Solar assets are underperforming and modules degrading faster than expected](https://www.pv-tech.org/built-solar-assets-are-chronically-underperforming-and-modules-degrading-faster-than-expected-research-finds/)
+- [U.S. Consumer Prices Rose Strongly Again in May](https://www.wsj.com/articles/us-inflation-consumer-price-index-may-2021-11623288303)
+- [Rqlite 6.0](https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/)
 - [Blender-OSM Add-on: Current state and ongoing development](https://community.osarch.org/discussion/609/monthly-meetup-15-12th-of-june-20-00-utc)
-- [Automate taxes on your Stripe transactions](https://stripe.com/in/tax)
 <!-- BLOG-POST-LIST:END -->
 
 ---
