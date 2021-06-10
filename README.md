@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The memory models that underlie programming languages](http://canonical.org/~kragen/memory-models/)
+- [The Risk of Cargo Liquefication](https://www.maritime-executive.com/editorials/the-risk-of-cargo-liquefaction)
+- [Reddit Sunsets Secret Santa and Reddit Gifts](https://www.reddit.com/r/announcements/comments/nw2hs6/sunsetting_secret_santa_and_reddit_gifts/)
 - [Facebook extends its work-at-home policy to most employees](https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html)
 - [Evaluating necessity of Covid-19 vaccination in previously infected individuals](https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2)
-- [TC Energy scraps Keystone XL pipeline project after Biden revokes key permit](https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/)
-- [LayerCI (YC S20) Is hiring interns to build devtools for webapps in Canada](https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021)
-- [Original Hacker News Source Code (2009)](https://github.com/wting/hackernews)
 <!-- BLOG-POST-LIST:END -->
 
 ---
