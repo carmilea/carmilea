@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany′s Namibian genocide apology could miss the mark](https://www.dw.com/en/opinion-germanys-namibian-genocide-apology-could-miss-the-mark/a-57829103)
+- [Playwright (Test Automation Library) For .NET Is Now Stable](https://github.com/microsoft/playwright-dotnet/releases/tag/v1.12.1)
+- [A Pattern Language [pdf]](https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf)
+- [Peer-to-peer serverless infrastructure, powered by blockchain technology](https://edge.network/en/)
 - [Full cycle developers – Operate what you build (2018)](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249)
-- [A mystery cube, a secret identity, and a puzzle solved after 15 years](https://www.wired.co.uk/article/perplex-city-satoshi)
-- [Neuroscientists have discovered a phenomenon that they can’t explain](https://www.theatlantic.com/science/archive/2021/06/the-brain-isnt-supposed-to-change-this-much/619145/)
-- [What would you pay for autonomous driving? Volkswagen hopes $8.50 per hour](https://arstechnica.com/cars/2021/06/volkswagen-plans-to-offer-subscriptions-for-autonomous-driving-extra-ev-range/)
-- [iOS 15 Humane](https://potential.app/ios-15-humane)
 <!-- BLOG-POST-LIST:END -->
 
 ---
