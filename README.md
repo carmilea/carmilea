@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The memory models that underlie programming languages](http://canonical.org/~kragen/memory-models/)
+- [The memory models that underlie programming languages (2016)](http://canonical.org/~kragen/memory-models/)
+- ['Miraculous' mosquito hack cuts dengue by 77%](https://www.bbc.co.uk/news/health-57417219)
+- [iOS4 Built in SwiftUI](https://github.com/zzanehip/The-OldOS-Project)
 - [The Risk of Cargo Liquefication](https://www.maritime-executive.com/editorials/the-risk-of-cargo-liquefaction)
-- [Reddit Sunsets Secret Santa and Reddit Gifts](https://www.reddit.com/r/announcements/comments/nw2hs6/sunsetting_secret_santa_and_reddit_gifts/)
 - [Facebook extends its work-at-home policy to most employees](https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html)
-- [Evaluating necessity of Covid-19 vaccination in previously infected individuals](https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
