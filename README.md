@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Heart inflammation cases in young men higher than expected after mRNA vaccines](https://www.reuters.com/world/us/cdc-heart-inflammation-cases-ages-16-24-higher-than-expected-after-mrna-covid-19-2021-06-10/)
+- [Good and Bad Elixir](https://keathley.io/blog/good-and-bad-elixir.html)
+- [EA hacked and source code stolen](https://www.bbc.co.uk/news/technology-57431987)
 - [Go GiveCampus (YC S15) is hiring US remote senior engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 - [Moving my home media library from iTunes to Jellyfin and Infuse](https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jellyfin-and-infuse)
-- [Virtua Hamster (Sega 32X/Saturn)](https://www.gamesthatwerent.com/2020/10/virtua-hamster/)
-- [Dog ejected from car during Sunday crash found on sheep farm, herding sheep](https://www.khq.com/news/dog-ejected-from-car-during-sunday-crash-found-on-sheep-farm-herding-sheep/article_fc15bfe6-c805-11eb-ae68-7fb69c0af0d6.html)
-- [Software Is Eating the Car](https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/software-eating-car)
 <!-- BLOG-POST-LIST:END -->
 
 ---
