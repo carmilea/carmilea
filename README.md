@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Software Is Eating the Car](https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/software-eating-car.html)
+- [Link shorteners: why you shouldn't use them](https://gcs.civilservice.gov.uk/blog/link-shorteners-the-long-and-short-of-why-you-shouldnt-use-them/)
 - [Launch HN: Okay (YC W20) – Analytics for engineering teams](https://news.ycombinator.com/item?id=27461564)
 - [Purchasing power of one US dollar (USD) in every year from 1635 to 2020](https://www.statista.com/statistics/1032048/value-us-dollar-since-1640/)
 - [Try APL](https://tryapl.org)
-- [The Wiretrustee SATA Pi Board Is a True SATA NAS](https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas)
-- [Solar assets are underperforming and modules degrading faster than expected](https://www.pv-tech.org/built-solar-assets-are-chronically-underperforming-and-modules-degrading-faster-than-expected-research-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
