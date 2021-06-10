@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Advertisers are already combining Google's FLoC IDs with personal data](https://digiday.com/marketing/as-ad-tech-firms-test-ways-to-connect-googles-floc-to-other-data-privacy-watchers-see-fears-coming-true/)
-- [Load Testing with Koi Pond](https://slack.engineering/load-testing-with-koi-pond/)
-- [Playwright (Test Automation Library) For .NET Is Now Stable](https://github.com/microsoft/playwright-dotnet/releases/tag/v1.12.1)
-- [A Pattern Language [pdf]](https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf)
-- [Peer-to-peer serverless infrastructure, powered by blockchain technology](https://edge.network/en/)
+- [Stripe Tax](https://stripe.com/tax)
+- [Introduce DAMON-based Proactive Reclamation](https://lore.kernel.org/lkml/20210608115254.11930-1-sj38.park@gmail.com/)
+- [Notabene (YC S20) Is Hiring Sales, Engineers](https://news.ycombinator.com/item?id=27459640)
+- ['Vegan spider silk' provides sustainable alternative to single-use plastics](https://phys.org/news/2021-06-vegan-spider-silk-sustainable-alternative.html)
+- [Ad tech firms test ways to connect Google’s FLoC to other data](https://digiday.com/marketing/as-ad-tech-firms-test-ways-to-connect-googles-floc-to-other-data-privacy-watchers-see-fears-coming-true/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
