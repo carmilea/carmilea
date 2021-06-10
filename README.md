@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany′s Namibian genocide apology could miss the mark](https://www.dw.com/en/opinion-germanys-namibian-genocide-apology-could-miss-the-mark/a-57829103)
+- [Advertisers are already combining Google's FLoC IDs with personal data](https://digiday.com/marketing/as-ad-tech-firms-test-ways-to-connect-googles-floc-to-other-data-privacy-watchers-see-fears-coming-true/)
+- [Load Testing with Koi Pond](https://slack.engineering/load-testing-with-koi-pond/)
 - [Playwright (Test Automation Library) For .NET Is Now Stable](https://github.com/microsoft/playwright-dotnet/releases/tag/v1.12.1)
 - [A Pattern Language [pdf]](https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf)
 - [Peer-to-peer serverless infrastructure, powered by blockchain technology](https://edge.network/en/)
-- [Full cycle developers – Operate what you build (2018)](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249)
 <!-- BLOG-POST-LIST:END -->
 
 ---
