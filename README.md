@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google abandons experiment to show simplified domain URLs in Chrome](https://therecord.media/google-abandons-experiment-to-show-simplified-domain-urls-in-chrome/)
-- [Amazon reverses course in expanding work-from-home options](https://mynorthwest.com/2960761/amazon-offering-flexible-work-from-home-options-seattle-tech-companies/)
+- [Bandcamp's app is no longer listed on Google Play](https://play.google.com/store/apps/details?id=com.bandcamp.android&hl=en_US&gl=US)
+- [Third member of FDA panel resigns over approval of Biogen Alzheimer's drug](https://www.cnbc.com/2021/06/10/third-member-of-prestigious-fda-panel-resigns-over-approval-of-biogens-alzheimers-drug.html)
+- [Mathematics Cheat Sheet [pdf]](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf)
 - [Husband of Amazon employee sentenced to prison for insider trading Amazon stock](https://www.justice.gov/usao-wdwa/pr/husband-amazon-employee-sentenced-prison-insider-trading-amazon-stock)
-- [Three FDA Advisers Resign over Agency’s Approval of Alzheimer’s Drug](https://www.nytimes.com/2021/06/10/health/aduhelm-fda-resign-alzheimers.html)
-- [soggi's BIOS & Firmware Page (2020)](https://soggi.org/)
+- [Soggi's BIOS and Firmware Page (2020)](https://soggi.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
