@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Third member of FDA panel resigns over approval of Biogen Alzheimer's drug](https://www.cnbc.com/2021/06/10/third-member-of-prestigious-fda-panel-resigns-over-approval-of-biogens-alzheimers-drug.html)
 - [Husband of Amazon employee sentenced to prison for insider trading Amazon stock](https://www.justice.gov/usao-wdwa/pr/husband-amazon-employee-sentenced-prison-insider-trading-amazon-stock)
+- [Three FDA Advisers Resign over Agency’s Approval of Alzheimer’s Drug](https://www.nytimes.com/2021/06/10/health/aduhelm-fda-resign-alzheimers.html)
+- [soggi's BIOS & Firmware Page (2020)](https://soggi.org/)
 - [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27468081)
-- [Don't Feed the Thought Leaders](https://earthly.dev/blog/thought-leaders/)
-- [Google to build new undersea cable to connect Latin America and the U.S.](https://www.reuters.com/business/google-build-new-undersea-cable-connect-latin-america-us-2021-06-09/)
-- [“Crunch” Open Source Texture Compression Library vs. U.S. Patent (2012)](https://richg42.blogspot.com/2012/07/the-saga-of-crunch.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
