@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Post Mortem: Incorrect Cache Configuration Exposes Personal Information](https://www.klarna.com/us/blog/detailed-incident-report-incorrect-cache-configuration-leading-to-klarna-app-exposing-personal-information/)
+- [Wapp – A Web-Application Framework for Tcl](https://wapp.tcl.tk/home/doc/trunk/README.md)
+- [The U.S. Military Emits More CO2 Than Many Industrialized Nations (2019)](https://www.forbes.com/sites/niallmccarthy/2019/06/13/report-the-u-s-military-emits-more-co2-than-many-industrialized-nations-infographic/)
+- [Alien](https://github.com/chrxh/alien)
 - [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://www.workatastartup.com/jobs/43782)
-- [Global banking regulators call for toughest rules for cryptocurrencies](https://www.theguardian.com/technology/2021/jun/10/global-banking-regulators-cryptocurrencies-bitcoin)
-- [Dutch official calls for complete ban on Bitcoin](https://cointelegraph.com/news/dutch-official-calls-for-complete-ban-on-bitcoin)
-- [German environmental groups file objection against Tesla gigafactory permit](https://www.reuters.com/business/environment/german-environmental-groups-file-objection-against-tesla-gigafactory-permit-2021-06-11/)
-- [Linux-Kernel: Printk() Indexing](https://lwn.net/Articles/857148/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
