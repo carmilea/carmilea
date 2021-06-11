@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Would Rather Die Than Let Facebook Monitor My Heart Rate](https://gizmodo.com/i-would-rather-die-than-let-facebook-monitor-my-heart-r-1847065620)
+- [Wildland – open data management protocol](https://wildland.io/)
+- [Incentives In Economics Are Wrong, But How?](https://wyclif.substack.com/p/incentives-in-economics-are-wrong)
+- [A Half Dose of Moderna Is More Effective Than a Full Dose of AstraZeneca](https://marginalrevolution.com/marginalrevolution/2021/06/a-half-dose-of-moderna-is-more-effective-than-a-full-dose-of-astrazeneca.html)
 - [Post Mortem: Incorrect Cache Configuration Exposes Personal Information](https://www.klarna.com/us/blog/detailed-incident-report-incorrect-cache-configuration-leading-to-klarna-app-exposing-personal-information/)
-- [Wapp – A Web-Application Framework for Tcl](https://wapp.tcl.tk/home/doc/trunk/README.md)
-- [The U.S. Military Emits More CO2 Than Many Industrialized Nations (2019)](https://www.forbes.com/sites/niallmccarthy/2019/06/13/report-the-u-s-military-emits-more-co2-than-many-industrialized-nations-infographic/)
-- [Alien](https://github.com/chrxh/alien)
-- [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://www.workatastartup.com/jobs/43782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
