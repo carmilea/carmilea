@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s Time to Break Up the Ivy League Cartel](https://www.chronicle.com/article/how-meritocracy-became-trickle-down-education)
+- [Artificial Time](https://fortelabs.co/blog/artificial-time/)
+- [J. Kenji López-Alt is Seattle’s reluctant powerful food influencer](https://www.seattletimes.com/life/food-drink/j-kenji-lopez-alt-is-seattles-most-powerful-food-influencer-and-its-most-reluctant-one/)
 - [Rescale (YC W12) Is Hiring Software Engineers and Product Managers](https://jobs.lever.co/rescale)
 - [Few people know that Google voluntarily removes some search results](https://twitter.com/kashhill/status/1402986015107653647)
-- [Fitting a Forth in 512 Bytes](https://niedzejkob.p4.team/bootstrap/miniforth/)
-- [Legislation would unmask third-party sellers, but Amazon is fighting it](https://arstechnica.com/tech-policy/2021/06/amazon-ebay-fight-legislation-that-would-unmask-third-party-sellers/)
-- [Surprising Shared Word Etymologies](https://www.danielde.dev/blog/surprising-shared-word-etymologies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
