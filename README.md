@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Slingshow (YC W20) – Easily build custom virtual events and webinars](https://news.ycombinator.com/item?id=27474808)
-- [NVMe is not a hard disk](https://blog.koehntopp.info/2021/05/25/nvme-is-not-a-hard-disk.html)
-- [Congress Is Going to Throw the Kitchen Sink at Big Tech](https://bigtechnology.substack.com/p/congress-is-going-to-throw-the-kitchen)
-- [Zero downtime Postgres migration, done right](https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/)
-- [London and Switzerland seeking to dodge G7 global minimum tax](https://www.businessinsider.com/london-switzerland-plans-dodge-g7-global-minimum-tax-reports-2021-6)
+- [Microsoft will end Windows 10 support in 2025](https://winaero.com/microsoft-will-end-windows-10-support-in-2025/)
+- [ReadMe (YC W15) is hiring a Product Marketer who loves developers](https://readme.com/careers#product-marketing-manager)
+- [Legislation would unmask third-party sellers, but Amazon is fighting it](https://arstechnica.com/tech-policy/2021/06/amazon-ebay-fight-legislation-that-would-unmask-third-party-sellers/)
+- [Surprising Shared Word Etymologies](https://www.danielde.dev/blog/surprising-shared-word-etymologies/)
+- [Ask HN: What's an interesting DIY genetic engineering project?](https://news.ycombinator.com/item?id=27475080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
