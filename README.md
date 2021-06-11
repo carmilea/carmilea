@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two notes on notation (Donald E. Knuth, 1992)](https://arxiv.org/abs/9205211)
+- [Desertification in Romania](https://www.geographyrealm.com/desertification-in-romania/)
 - [It’s Time to Break Up the Ivy League Cartel](https://www.chronicle.com/article/how-meritocracy-became-trickle-down-education)
 - [Artificial Time](https://fortelabs.co/blog/artificial-time/)
 - [J. Kenji López-Alt is Seattle’s reluctant powerful food influencer](https://www.seattletimes.com/life/food-drink/j-kenji-lopez-alt-is-seattles-most-powerful-food-influencer-and-its-most-reluctant-one/)
-- [Rescale (YC W12) Is Hiring Software Engineers and Product Managers](https://jobs.lever.co/rescale)
-- [Few people know that Google voluntarily removes some search results](https://twitter.com/kashhill/status/1402986015107653647)
 <!-- BLOG-POST-LIST:END -->
 
 ---
