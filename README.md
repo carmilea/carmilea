@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Double Exploitation of Deepfake Porn](https://thewalrus.ca/the-double-exploitation-of-deepfake-porn/)
 - [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27468081)
-- [“Crunch” Open Source Texture Compression Library vs. US Patent #20110115806](https://richg42.blogspot.com/2012/07/the-saga-of-crunch.html)
+- [Don't Feed the Thought Leaders](https://earthly.dev/blog/thought-leaders/)
+- [“Crunch” Open Source Texture Compression Library vs. U.S. Patent (2012)](https://richg42.blogspot.com/2012/07/the-saga-of-crunch.html)
 - [Chrome abandons 'simplified domain experiment' in omnibar](https://bugs.chromium.org/p/chromium/issues/detail?id=1090393#c75)
-- [Chime has detected 535 fast radio bursts, quadrupling the known tally](https://www.nature.com/articles/d41586-021-01560-4)
-- [FDA approves drug to treat smallpox](https://www.fda.gov/drugs/drug-safety-and-availability/fda-approves-drug-treat-smallpox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
