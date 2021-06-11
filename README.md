@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [El Salvador Plans to Use Electricity Generated from Volcanoes to Mine Bitcoin](https://www.npr.org/2021/06/11/1005231250/el-salvador-plans-to-use-electricity-generated-from-volcanoes-to-mine-bitcoin)
+- [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://www.workatastartup.com/jobs/43782)
+- [Global banking regulators call for toughest rules for cryptocurrencies](https://www.theguardian.com/technology/2021/jun/10/global-banking-regulators-cryptocurrencies-bitcoin)
+- [Dutch official calls for complete ban on Bitcoin](https://cointelegraph.com/news/dutch-official-calls-for-complete-ban-on-bitcoin)
+- [German environmental groups file objection against Tesla gigafactory permit](https://www.reuters.com/business/environment/german-environmental-groups-file-objection-against-tesla-gigafactory-permit-2021-06-11/)
 - [Linux-Kernel: Printk() Indexing](https://lwn.net/Articles/857148/)
-- [Queqiao: The bridge between Earth and the far side of the moon](https://www.moondaily.com/reports/Queqiao_The_bridge_between_Earth_and_the_far_side_of_the_moon_999.html)
-- [Robinhood and Didi to Kick Off a Hot IPO Summer](https://www.wsj.com/articles/robinhood-and-didi-to-kick-off-a-hot-ipo-summer-11623317400)
-- [The NSA Instruction (2019)](https://vaibhavsagar.com/blog/2019/09/08/popcount/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
