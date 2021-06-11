@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft will end Windows 10 support in 2025](https://winaero.com/microsoft-will-end-windows-10-support-in-2025/)
+- [NASA hacked because of unauthorized Raspberry Pi connected to its network (2019)](https://www.zdnet.com/article/nasa-hacked-because-of-unauthorized-raspberry-pi-connected-to-its-network/)
 - [ReadMe (YC W15) is hiring a Product Marketer who loves developers](https://readme.com/careers#product-marketing-manager)
 - [Legislation would unmask third-party sellers, but Amazon is fighting it](https://arstechnica.com/tech-policy/2021/06/amazon-ebay-fight-legislation-that-would-unmask-third-party-sellers/)
 - [Surprising Shared Word Etymologies](https://www.danielde.dev/blog/surprising-shared-word-etymologies/)
