@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Double Exploitation of Deepfake Porn](https://thewalrus.ca/the-double-exploitation-of-deepfake-porn/)
+- [Husband of Amazon employee sentenced to prison for insider trading Amazon stock](https://www.justice.gov/usao-wdwa/pr/husband-amazon-employee-sentenced-prison-insider-trading-amazon-stock)
 - [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27468081)
 - [Don't Feed the Thought Leaders](https://earthly.dev/blog/thought-leaders/)
+- [Google to build new undersea cable to connect Latin America and the U.S.](https://www.reuters.com/business/google-build-new-undersea-cable-connect-latin-america-us-2021-06-09/)
 - [“Crunch” Open Source Texture Compression Library vs. U.S. Patent (2012)](https://richg42.blogspot.com/2012/07/the-saga-of-crunch.html)
-- [Chrome abandons 'simplified domain experiment' in omnibar](https://bugs.chromium.org/p/chromium/issues/detail?id=1090393#c75)
 <!-- BLOG-POST-LIST:END -->
 
 ---
