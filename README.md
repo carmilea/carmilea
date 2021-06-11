@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email](https://onesignal.com/careers)
-- [Plan2Scene: Converting Floorplans to 3D Scenes](https://3dlg-hcvc.github.io/plan2scene/)
-- [The Netherlands must ban Bitcoin and other cryptocurrencies](https://netherlandsnewslive.com/cpb-director-the-netherlands-must-ban-bitcoin-and-other-cryptocurrencies/173901/)
-- [The Queen’s Latin or Who Were the Romans? Part I: Beginnings and Legends](https://acoup.blog/2021/06/11/collections-the-queens-latin-or-who-were-the-romans-part-i-beginnings-and-legends/)
-- [OpenHistoricalMap](https://www.openhistoricalmap.org/)
+- [Queqiao: The bridge between Earth and the far side of the moon](https://www.moondaily.com/reports/Queqiao_The_bridge_between_Earth_and_the_far_side_of_the_moon_999.html)
+- [Robinhood and Didi to Kick Off a Hot IPO Summer](https://www.wsj.com/articles/robinhood-and-didi-to-kick-off-a-hot-ipo-summer-11623317400)
+- [Hackers breach Electronic Arts, stealing game source code and tools](https://lite.cnn.com/en/article/h_50eb22586414571ed4fecc991feee20a)
+- [The NSA Instruction](https://vaibhavsagar.com/blog/2019/09/08/popcount/)
+- [How to average floating point numbers (2015)](https://www.nu42.com/2015/03/how-you-average-numbers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
