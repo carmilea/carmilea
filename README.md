@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parking Destroys Cities](https://www.theatlantic.com/ideas/archive/2021/05/parking-drives-housing-prices/618910/)
 - [Queqiao: The bridge between Earth and the far side of the moon](https://www.moondaily.com/reports/Queqiao_The_bridge_between_Earth_and_the_far_side_of_the_moon_999.html)
 - [Robinhood and Didi to Kick Off a Hot IPO Summer](https://www.wsj.com/articles/robinhood-and-didi-to-kick-off-a-hot-ipo-summer-11623317400)
 - [Hackers breach Electronic Arts, stealing game source code and tools](https://lite.cnn.com/en/article/h_50eb22586414571ed4fecc991feee20a)
-- [The NSA Instruction](https://vaibhavsagar.com/blog/2019/09/08/popcount/)
-- [How to average floating point numbers (2015)](https://www.nu42.com/2015/03/how-you-average-numbers.html)
+- [The NSA Instruction (2019)](https://vaibhavsagar.com/blog/2019/09/08/popcount/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
