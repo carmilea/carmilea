@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email](https://onesignal.com/careers)
-- [Why it's the end of the road for petrol stations](https://www.bbc.co.uk/news/business-57416829)
+- [Plan2Scene: Converting Floorplans to 3D Scenes](https://3dlg-hcvc.github.io/plan2scene/)
+- [The Netherlands must ban Bitcoin and other cryptocurrencies](https://netherlandsnewslive.com/cpb-director-the-netherlands-must-ban-bitcoin-and-other-cryptocurrencies/173901/)
 - [The Queen’s Latin or Who Were the Romans? Part I: Beginnings and Legends](https://acoup.blog/2021/06/11/collections-the-queens-latin-or-who-were-the-romans-part-i-beginnings-and-legends/)
 - [OpenHistoricalMap](https://www.openhistoricalmap.org/)
-- [Bandcamp's app is no longer listed on Google Play](https://play.google.com/store/apps/details?id=com.bandcamp.android&hl=en_US&gl=US)
 <!-- BLOG-POST-LIST:END -->
 
 ---
