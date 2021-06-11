@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Slingshow (YC W20) – Easily build custom virtual events and webinars](https://news.ycombinator.com/item?id=27474808)
+- [NVMe is not a hard disk](https://blog.koehntopp.info/2021/05/25/nvme-is-not-a-hard-disk.html)
+- [Congress Is Going to Throw the Kitchen Sink at Big Tech](https://bigtechnology.substack.com/p/congress-is-going-to-throw-the-kitchen)
+- [Zero downtime Postgres migration, done right](https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/)
 - [London and Switzerland seeking to dodge G7 global minimum tax](https://www.businessinsider.com/london-switzerland-plans-dodge-g7-global-minimum-tax-reports-2021-6)
-- [Wildland – open data management protocol](https://wildland.io/)
-- [Incentives in economics are wrong, but how?](https://wyclif.substack.com/p/incentives-in-economics-are-wrong)
-- [Post Mortem: Incorrect Cache Configuration Exposes Personal Information](https://www.klarna.com/us/blog/detailed-incident-report-incorrect-cache-configuration-leading-to-klarna-app-exposing-personal-information/)
-- [The U.S. Government’s Failed Attempt to Forge Unity Through Currency](https://www.smithsonianmag.com/history/free-silver-movements-failed-attempt-forge-unity-through-currency-180977966/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
