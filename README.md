@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Would Rather Die Than Let Facebook Monitor My Heart Rate](https://gizmodo.com/i-would-rather-die-than-let-facebook-monitor-my-heart-r-1847065620)
+- [London and Switzerland seeking to dodge G7 global minimum tax](https://www.businessinsider.com/london-switzerland-plans-dodge-g7-global-minimum-tax-reports-2021-6)
 - [Wildland – open data management protocol](https://wildland.io/)
-- [Incentives In Economics Are Wrong, But How?](https://wyclif.substack.com/p/incentives-in-economics-are-wrong)
-- [A Half Dose of Moderna Is More Effective Than a Full Dose of AstraZeneca](https://marginalrevolution.com/marginalrevolution/2021/06/a-half-dose-of-moderna-is-more-effective-than-a-full-dose-of-astrazeneca.html)
+- [Incentives in economics are wrong, but how?](https://wyclif.substack.com/p/incentives-in-economics-are-wrong)
 - [Post Mortem: Incorrect Cache Configuration Exposes Personal Information](https://www.klarna.com/us/blog/detailed-incident-report-incorrect-cache-configuration-leading-to-klarna-app-exposing-personal-information/)
+- [The U.S. Government’s Failed Attempt to Forge Unity Through Currency](https://www.smithsonianmag.com/history/free-silver-movements-failed-attempt-forge-unity-through-currency-180977966/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
