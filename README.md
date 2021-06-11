@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Canada’s Mysterious Lab Security Scandal Connected to Covid-19?](https://topsecretumbra.substack.com/p/is-canadas-mysterious-lab-security)
-- [Physicists Measure the Gravitational Force Between the Smallest Masses Yet](https://www.scientificamerican.com/article/physicists-measure-the-gravitational-force-between-the-smallest-masses-yet/)
-- [BitClout collapses everything into money](https://www.newyorker.com/tech/annals-of-technology/the-dark-democratizing-power-of-the-social-media-stock-market)
-- [The Fermi-Pasta-Ulam-Tsingou problem: A foray into the beautifully simple](https://3quarksdaily.com/3quarksdaily/2020/01/the-fermi-pasta-ulam-tsingou-problem-a-foray-into-the-beautifully-simple-and-the-simply-beautiful.html)
-- [Kraftful (YC S19) hiring a founding engineer to build an IoT platform](https://www.kraftful.com/blog/engineering-roles)
+- [Etleap (YC W13) Is Hiring a Technical End User Documentation Writer](https://news.ycombinator.com/item?id=27468081)
+- [“Crunch” Open Source Texture Compression Library vs. US Patent #20110115806](https://richg42.blogspot.com/2012/07/the-saga-of-crunch.html)
+- [Chrome abandons 'simplified domain experiment' in omnibar](https://bugs.chromium.org/p/chromium/issues/detail?id=1090393#c75)
+- [Chime has detected 535 fast radio bursts, quadrupling the known tally](https://www.nature.com/articles/d41586-021-01560-4)
+- [FDA approves drug to treat smallpox](https://www.fda.gov/drugs/drug-safety-and-availability/fda-approves-drug-treat-smallpox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
