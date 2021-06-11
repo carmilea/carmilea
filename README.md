@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toward Vagrant 3.0](https://www.hashicorp.com/blog/toward-vagrant-3-0)
 - [NASA hacked because of unauthorized Raspberry Pi connected to its network (2019)](https://www.zdnet.com/article/nasa-hacked-because-of-unauthorized-raspberry-pi-connected-to-its-network/)
 - [ReadMe (YC W15) is hiring a Product Marketer who loves developers](https://readme.com/careers#product-marketing-manager)
 - [Legislation would unmask third-party sellers, but Amazon is fighting it](https://arstechnica.com/tech-policy/2021/06/amazon-ebay-fight-legislation-that-would-unmask-third-party-sellers/)
 - [Surprising Shared Word Etymologies](https://www.danielde.dev/blog/surprising-shared-word-etymologies/)
-- [Ask HN: What's an interesting DIY genetic engineering project?](https://news.ycombinator.com/item?id=27475080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
