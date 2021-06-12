@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Burnout from an Organizational Perspective](https://ssir.org/articles/entry/burnout_from_an_organizational_perspective)
-- [Electron vs. Qt for a new open-source project? Looking for Advice.](https://www.zynath.com/articles/bin-finder-2/)
-- [D3 v7 Released](https://github.com/d3/d3/releases/tag/v7.0.0)
-- [LinearMouse – A minimal app to get rid of scrolling acceleration on macOS](https://linearmouse.lujjjh.com/)
-- [Silent Data Corruptions at Scale](http://muratbuffalo.blogspot.com/2021/06/silent-data-corruptions-at-scale.html)
+- [Universe (YC W18) Is Hiring a DevOps, React, and CSS Engineer](https://news.ycombinator.com/item?id=27485767)
+- [May 2021 Coordinated Inauthentic Behavior Report](https://about.fb.com/news/2021/06/may-2021-coordinated-inauthentic-behavior-report/)
+- [The Modern Mathematics of Deep Learning](https://arxiv.org/abs/2105.04026)
+- [Detectives Just Used DNA to Solve a 1956 Double Homicide](https://www.npr.org/2021/06/12/1005690930/detectives-just-used-dna-to-solve-a-1956-double-homicide-they-may-have-made-hist)
+- [Scientists Find Second ‘Short Sleep’ Gene (2019)](https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene)
 <!-- BLOG-POST-LIST:END -->
 
 ---
