@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Do you need Redis? how to get away with just Postgres](https://spin.atomicobject.com/2021/02/04/redis-postgresql/)
+- [Early detection of skin cancer at home at the price of a smart watch](https://notamole.com/199)
 - [A Mycological Foray: A new look at John Cage and his mushroom obsession (2020)](https://glasstire.com/2020/07/11/a-mycological-foray-a-new-look-at-john-cage-and-his-mushroom-obsession/)
+- [The PsychDOS Desktop Environment](https://psychoslinux.gitlab.io/DOS/INDEX.HTM)
 - [Show HN: LANDrop – A cross-platform AirDrop-like file transfer tool](https://landrop.app/)
-- [Lesser Known Terminal Editors](https://codeberg.org/CoopCoding/Lesser-Known-Terminal-Editors)
-- [Reverse Engineering Bumble’s API (2020)](https://blog.securityevaluators.com/reverse-engineering-bumbles-api-a2a0d39b3a87)
-- [BuzzFeed News Has Won Its First Pulitzer Prize](https://www.buzzfeednews.com/article/davidmack/pulitzer-prize-buzzfeed-news-won-china-detention-camps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
