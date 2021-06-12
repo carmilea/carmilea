@@ -54,8 +54,8 @@
 - [NymphCast – open-source Chromecast Alternative](https://github.com/MayaPosch/NymphCast/)
 - [Do You Really Need Redis? How to Get Away with Just PostgreSQL](https://spin.atomicobject.com/2021/02/04/redis-postgresql/)
 - [Beware of Tight Feedback Loops (2020)](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/)
+- [Dinomania (1993)](https://www.nybooks.com/articles/1993/08/12/dinomania/)
 - [A Mycological Foray: A new look at John Cage and his mushroom obsession (2020)](https://glasstire.com/2020/07/11/a-mycological-foray-a-new-look-at-john-cage-and-his-mushroom-obsession/)
-- [The PsychDOS Desktop Environment](https://psychoslinux.gitlab.io/DOS/INDEX.HTM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
