@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Diabetes Drug Metformin Reduces All-Cause Mortality and Diseases of Aging (2017)](https://pubmed.ncbi.nlm.nih.gov/28802803/)
+- [The Fixed Point: Laziness, Recursion and Fixed Points in Haskell](https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html)
+- [Making invisible glue code first-class](https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html?m=1)
+- [Unifying Structured Recursion Schemes [pdf] (2013)](https://www.cs.ox.ac.uk/people/nicolas.wu/papers/URS.pdf)
 - [Subatomic particle seen changing to antiparticle and back for the first time](https://www.ox.ac.uk/news/2021-06-08-subatomic-particle-seen-changing-antiparticle-and-back-first-time)
-- [Translating Quake 3 into Rust (2020)](https://immunant.com/blog/2020/01/quake3/)
-- [Hague Invasion Act](https://en.wikipedia.org/wiki/American_Service-Members%27_Protection_Act)
-- [Universe (YC W18) Is Hiring a DevOps, React, and CSS Engineer](https://news.ycombinator.com/item?id=27485767)
-- [May 2021 Coordinated Inauthentic Behavior Report](https://about.fb.com/news/2021/06/may-2021-coordinated-inauthentic-behavior-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
