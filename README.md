@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Subatomic particle seen changing to antiparticle and back for the first time](https://www.ox.ac.uk/news/2021-06-08-subatomic-particle-seen-changing-antiparticle-and-back-first-time)
 - [Translating Quake 3 into Rust (2020)](https://immunant.com/blog/2020/01/quake3/)
 - [Hague Invasion Act](https://en.wikipedia.org/wiki/American_Service-Members%27_Protection_Act)
 - [Universe (YC W18) Is Hiring a DevOps, React, and CSS Engineer](https://news.ycombinator.com/item?id=27485767)
 - [May 2021 Coordinated Inauthentic Behavior Report](https://about.fb.com/news/2021/06/may-2021-coordinated-inauthentic-behavior-report/)
-- [The Modern Mathematics of Deep Learning](https://arxiv.org/abs/2105.04026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
