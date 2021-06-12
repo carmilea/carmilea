@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Two notes on notation (Donald E. Knuth, 1992)](https://arxiv.org/abs/9205211)
-- [Desertification in Romania](https://www.geographyrealm.com/desertification-in-romania/)
-- [It’s Time to Break Up the Ivy League Cartel](https://www.chronicle.com/article/how-meritocracy-became-trickle-down-education)
-- [Artificial Time](https://fortelabs.co/blog/artificial-time/)
-- [J. Kenji López-Alt is Seattle’s reluctant powerful food influencer](https://www.seattletimes.com/life/food-drink/j-kenji-lopez-alt-is-seattles-most-powerful-food-influencer-and-its-most-reluctant-one/)
+- [We're More Christian Than We Know](https://eriktorenberg.substack.com/p/were-more-christian-than-we-know)
+- [Echo Dot, Apple Watch, JBL Speakers Listings Hijacked at Amazon.com](https://sellercentral.amazon.com/forums/t/review-manipulation-amazon-echo-dot-listing-hijacked-seriosly/856604)
+- [Britain’s destruction and concealment of colonial records (2017)](https://www.tandfonline.com/doi/full/10.1080/03086534.2017.1294256)
+- [The World’s Northernmost Town](https://www.scientificamerican.com/article/the-worlds-northernmost-town-is-changing-dramatically/)
+- [Death by Pokémon Go: The Economic and Human Cost of Using Apps While Driving](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3073723)
 <!-- BLOG-POST-LIST:END -->
 
 ---
