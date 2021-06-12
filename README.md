@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lisbon has shared dissident info with repressive regimes for years](https://www.politico.eu/article/lisbon-portugal-dissidents-personal-data-repressive-regimes/)
+- [Jiga (YC W21) Is Hiring a Sales Rep (Remote, US/Canada)](https://www.ycombinator.com/companies/jiga/jobs/ePJKU7F-sales-development-representative)
 - [A popular household fern may be the first known eusocial plant](http://blog.pnas.org/2021/06/a-popular-household-fern-may-be-the-first-known-eusocial-plant/)
 - [How Fighter Jets Lock on (and How the Targets Know)](https://gizmodo.com/how-fighter-jets-lock-on-and-how-the-targets-know-1644871272)
 - [Refinement Culture](https://paulskallas.substack.com/p/refinement-culture)
-- [Telautograph](https://en.wikipedia.org/wiki/Telautograph)
-- [SSH quoting](https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
