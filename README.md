@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Mycological Foray: A new look at John Cage and his mushroom obsession (2020)](https://glasstire.com/2020/07/11/a-mycological-foray-a-new-look-at-john-cage-and-his-mushroom-obsession/)
+- [Show HN: LANDrop – A cross-platform AirDrop-like file transfer tool](https://landrop.app/)
 - [Lesser Known Terminal Editors](https://codeberg.org/CoopCoding/Lesser-Known-Terminal-Editors)
 - [Reverse Engineering Bumble’s API (2020)](https://blog.securityevaluators.com/reverse-engineering-bumbles-api-a2a0d39b3a87)
-- [Multicore OCaml: May 2021](https://discuss.ocaml.org/t/multicore-ocaml-may-2021/7990)
 - [BuzzFeed News Has Won Its First Pulitzer Prize](https://www.buzzfeednews.com/article/davidmack/pulitzer-prize-buzzfeed-news-won-china-detention-camps)
-- [Containers Are Tents](https://increment.com/containers/containers-vs-vms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
