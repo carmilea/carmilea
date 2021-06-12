@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Evolution of code deployment tools at Mixpanel](https://engineering.mixpanel.com/evolution-of-code-deployment-tools-at-mixpanel-210b99926cd4)
-- [How to Win at Risk Every Time by Using Systems Thinking](https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by)
-- [New material shows zero heat expansion from 4 to 1400 K](https://newatlas.com/materials/thermally-stable-zte-advanced-material/)
-- [Everyone Has JavaScript, Right?](https://kryogenix.org/code/browser/everyonehasjs.html)
-- [Lisbon has shared dissident info with repressive regimes for years](https://www.politico.eu/article/lisbon-portugal-dissidents-personal-data-repressive-regimes/)
+- [Burnout from an Organizational Perspective](https://ssir.org/articles/entry/burnout_from_an_organizational_perspective)
+- [Electron vs. Qt for a new open-source project? Looking for Advice.](https://www.zynath.com/articles/bin-finder-2/)
+- [D3 v7 Released](https://github.com/d3/d3/releases/tag/v7.0.0)
+- [LinearMouse – A minimal app to get rid of scrolling acceleration on macOS](https://linearmouse.lujjjh.com/)
+- [Silent Data Corruptions at Scale](http://muratbuffalo.blogspot.com/2021/06/silent-data-corruptions-at-scale.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
