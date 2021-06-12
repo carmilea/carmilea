@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse Engineering Bumble’s API (2020)](https://blog.securityevaluators.com/reverse-engineering-bumbles-api-a2a0d39b3a87)
 - [Multicore OCaml: May 2021](https://discuss.ocaml.org/t/multicore-ocaml-may-2021/7990)
 - [BuzzFeed News Has Won Its First Pulitzer Prize](https://www.buzzfeednews.com/article/davidmack/pulitzer-prize-buzzfeed-news-won-china-detention-camps)
 - [Containers Are Tents](https://increment.com/containers/containers-vs-vms/)
 - [Finding a CPU Design Bug in the Xbox 360 (2018)](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
-- [The strange case of Charles Kellogg, nature singer](https://tedgioia.substack.com/p/the-man-who-put-out-fires-with-music)
 <!-- BLOG-POST-LIST:END -->
 
 ---
