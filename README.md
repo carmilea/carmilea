@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Translating Quake 3 into Rust (2020)](https://immunant.com/blog/2020/01/quake3/)
+- [Hague Invasion Act](https://en.wikipedia.org/wiki/American_Service-Members%27_Protection_Act)
 - [Universe (YC W18) Is Hiring a DevOps, React, and CSS Engineer](https://news.ycombinator.com/item?id=27485767)
 - [May 2021 Coordinated Inauthentic Behavior Report](https://about.fb.com/news/2021/06/may-2021-coordinated-inauthentic-behavior-report/)
 - [The Modern Mathematics of Deep Learning](https://arxiv.org/abs/2105.04026)
-- [Detectives Just Used DNA to Solve a 1956 Double Homicide](https://www.npr.org/2021/06/12/1005690930/detectives-just-used-dna-to-solve-a-1956-double-homicide-they-may-have-made-hist)
-- [Scientists Find Second ‘Short Sleep’ Gene (2019)](https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene)
 <!-- BLOG-POST-LIST:END -->
 
 ---
