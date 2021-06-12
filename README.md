@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We're More Christian Than We Know](https://eriktorenberg.substack.com/p/were-more-christian-than-we-know)
-- [Echo Dot, Apple Watch, JBL Speakers Listings Hijacked at Amazon.com](https://sellercentral.amazon.com/forums/t/review-manipulation-amazon-echo-dot-listing-hijacked-seriosly/856604)
-- [Britain’s destruction and concealment of colonial records (2017)](https://www.tandfonline.com/doi/full/10.1080/03086534.2017.1294256)
-- [The World’s Northernmost Town](https://www.scientificamerican.com/article/the-worlds-northernmost-town-is-changing-dramatically/)
-- [Death by Pokémon Go: The Economic and Human Cost of Using Apps While Driving](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3073723)
+- [Multicore OCaml: May 2021](https://discuss.ocaml.org/t/multicore-ocaml-may-2021/7990)
+- [BuzzFeed News Has Won Its First Pulitzer Prize](https://www.buzzfeednews.com/article/davidmack/pulitzer-prize-buzzfeed-news-won-china-detention-camps)
+- [Containers Are Tents](https://increment.com/containers/containers-vs-vms/)
+- [Finding a CPU Design Bug in the Xbox 360 (2018)](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
+- [The strange case of Charles Kellogg, nature singer](https://tedgioia.substack.com/p/the-man-who-put-out-fires-with-music)
 <!-- BLOG-POST-LIST:END -->
 
 ---
