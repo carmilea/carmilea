@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Substack (YC W18) is hiring engineers to build the future of writing](https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81)
-- [Elevator Saga – The elevator programming game](https://play.elevatorsaga.com/)
-- [Equity 101 for Software Engineers](https://blog.pragmaticengineer.com/equity-for-software-engineers/)
-- [Diabetes Drug Metformin Reduces All-Cause Mortality and Diseases of Aging (2017)](https://pubmed.ncbi.nlm.nih.gov/28802803/)
+- [Elevator Saga – An elevator programming game](https://play.elevatorsaga.com/)
+- [Python is 1.3x faster by just adjusting some compiling options for libpython](https://www.facebook.com/dan.colascione/posts/10107358290728348)
 - [The Fixed Point: Laziness, Recursion and Fixed Points in Haskell](https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html)
+- [Making invisible glue code first-class](https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html?m=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
