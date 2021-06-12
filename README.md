@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evolution of code deployment tools at Mixpanel](https://engineering.mixpanel.com/evolution-of-code-deployment-tools-at-mixpanel-210b99926cd4)
 - [How to Win at Risk Every Time by Using Systems Thinking](https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by)
+- [New material shows zero heat expansion from 4 to 1400 K](https://newatlas.com/materials/thermally-stable-zte-advanced-material/)
 - [Everyone Has JavaScript, Right?](https://kryogenix.org/code/browser/everyonehasjs.html)
 - [Lisbon has shared dissident info with repressive regimes for years](https://www.politico.eu/article/lisbon-portugal-dissidents-personal-data-repressive-regimes/)
-- [Jiga (YC W21) Is Hiring a Sales Rep (Remote, US/Canada)](https://www.ycombinator.com/companies/jiga/jobs/ePJKU7F-sales-development-representative)
-- [A popular household fern may be the first known eusocial plant](http://blog.pnas.org/2021/06/a-popular-household-fern-may-be-the-first-known-eusocial-plant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
