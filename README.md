@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Enterprise Eats Software](https://jessitron.com/2021/06/12/the-enterprise-eats-software/)
 - [The Schindler of Japan, Chihune Sugihara](https://www.tokyoweekender.com/2021/06/chiune-sugihara-japanese-schindler/)
 - [Babylon and the Square Root of 2](https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/)
 - [Social media are turbocharging the export of America’s political culture](https://www.economist.com/international/2021/06/12/social-media-are-turbocharging-the-export-of-americas-political-culture)
 - [Comic Mono – a legible monospace font](https://github.com/dtinth/comic-mono-font)
-- [Programmer's Resignation from 1985](https://pastes.glitchwrks.com/L88HFhJs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
