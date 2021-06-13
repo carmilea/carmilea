@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Sony's 140MB MiniDisc Drive the Next Betamax? (1996)](https://web.archive.org/web/19990117022714/https://www.pcworld.com/hardware/storage_backup/articles/jan96/jan9621.html)
 - [How to Handle Secrets on the Command Line](https://smallstep.com/blog/command-line-secrets/)
 - [Gemini is Useless – and that is its killer feature](https://alex.flounder.online/gemlog/2021-01-08-useless.gmi)
 - [Signadot (YC W20) Is Hiring Founding Back End Engineers](https://www.workatastartup.com/jobs/42298)
 - [How the price of a Toyota truck helps explain surging inflation](https://www.npr.org/2021/06/10/1004806688/inflation-is-surging-the-price-of-a-toyota-pickup-truck-helps-explain-why)
-- [Silicon Valley thought India was its future, now things have changed](https://slate.com/technology/2021/06/india-silicon-valley-twitter-google-censorship.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
