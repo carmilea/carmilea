@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Elephant at WWDC](https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/)
+- [Show HN: I made a generator of art – Suprematism](https://tool.graphics/suprematism)
+- [Goodbye Freenode](https://nedbatchelder.com/blog/202106/goodbye_freenode.html)
 - [Clerky (YC S11) Is Hiring Senior Software Engineers](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN)
 - [I Miss the Old Internet (2019)](https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/)
-- [Rust 1.x seems to not always be backward compatible in practice](https://utcc.utoronto.ca/~cks/space/blog/programming/Rust1BackwardIncompatibility)
-- [Animal Testing Is Exploitative and Largely Ineffective](https://www.erichgrunewald.com/posts/animal-testing-is-exploitative-and-largely-ineffective/)
-- [Git for Computer Scientists](https://eagain.net/articles/git-for-computer-scientists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
