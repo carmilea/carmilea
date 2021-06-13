@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Roger Waters rejects endorsing Instagram after direct ask from Zuckerberg](https://www.bitchute.com/video/9ksRVJsvWc3B/)
+- [The Schindler of Japan, Chihune Sugihara](https://www.tokyoweekender.com/2021/06/chiune-sugihara-japanese-schindler/)
+- [Social media are turbocharging the export of America’s political culture](https://www.economist.com/international/2021/06/12/social-media-are-turbocharging-the-export-of-americas-political-culture)
 - [Comic Mono – a legible monospace font](https://github.com/dtinth/comic-mono-font)
-- [Idiomatic Rust? Implementing binary search (part 2)](https://shane-o.dev/blog/binary-search-rust-part-2)
+- [Programmer's Resignation from 1985](https://pastes.glitchwrks.com/L88HFhJs)
 - [The code on the laptop in the stock photo at developer.bbc.com is user-editable](https://twitter.com/Andrew_Taylor/status/1403709080737390592)
-- [A few thoughts on Fuchsia security](https://blog.cr0.org/2021/06/a-few-thoughts-on-fuchsia-security.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
