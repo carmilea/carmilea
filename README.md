@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Git for Computer Scientists](https://eagain.net/articles/git-for-computer-scientists/)
 - [Is Sony's 140MB MiniDisc Drive the Next Betamax? (1996)](https://web.archive.org/web/19990117022714/https://www.pcworld.com/hardware/storage_backup/articles/jan96/jan9621.html)
+- [So You Want to Write a Book?](https://press.ed2592.xyz/author/chapter-1/)
+- [I want to learn D3. I don’t want to learn Observable. Is that ok? (2019-2021)](https://talk.observablehq.com/t/i-want-to-learn-d3-i-don-t-want-to-learn-observable-is-that-ok/1957/2)
 - [How to Handle Secrets on the Command Line](https://smallstep.com/blog/command-line-secrets/)
-- [Gemini is Useless – and that is its killer feature](https://alex.flounder.online/gemlog/2021-01-08-useless.gmi)
-- [Signadot (YC W20) Is Hiring Founding Back End Engineers](https://www.workatastartup.com/jobs/42298)
-- [How the price of a Toyota truck helps explain surging inflation](https://www.npr.org/2021/06/10/1004806688/inflation-is-surging-the-price-of-a-toyota-pickup-truck-helps-explain-why)
 <!-- BLOG-POST-LIST:END -->
 
 ---
