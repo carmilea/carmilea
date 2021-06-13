@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Substack (YC W18) is hiring engineers to build the future of writing](https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81)
-- [Elevator Saga – An elevator programming game](https://play.elevatorsaga.com/)
-- [Python is 1.3x faster by just adjusting some compiling options for libpython](https://www.facebook.com/dan.colascione/posts/10107358290728348)
-- [The Fixed Point: Laziness, Recursion and Fixed Points in Haskell](https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html)
-- [Making invisible glue code first-class](https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html?m=1)
+- [Roger Waters rejects endorsing Instagram after direct ask from Zuckerberg](https://www.bitchute.com/video/9ksRVJsvWc3B/)
+- [Comic Mono – a legible monospace font](https://github.com/dtinth/comic-mono-font)
+- [Idiomatic Rust? Implementing binary search (part 2)](https://shane-o.dev/blog/binary-search-rust-part-2)
+- [The code on the laptop in the stock photo at developer.bbc.com is user-editable](https://twitter.com/Andrew_Taylor/status/1403709080737390592)
+- [A few thoughts on Fuchsia security](https://blog.cr0.org/2021/06/a-few-thoughts-on-fuchsia-security.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
