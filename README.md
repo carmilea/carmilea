@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Swiss reject key climate change measures](https://www.bbc.com/news/world-europe-57457384)
+- [Solana Labs Completes a $314.15M Private Token Sale Led by Andreessen Horowitz](https://solana.com/news/solana-labs-completes-a-314-15m-private-token-sale-led-by-andreessen-horowitz-and-polychain-capital)
+- [Cuda.jl v3.3: union types, debug info, graph APIs](https://juliagpu.org/post/2021-06-10-cuda_3.3/)
 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [What can a technologist do about climate change? (2015)](http://worrydream.com/ClimateChange/)
 - [Isfreenodedeadyet – Tracking Freenode to Libera.Chat Migration](https://isfreenodedeadyet.com/)
-- [Internet of Shit](https://twitter.com/internetofshit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
