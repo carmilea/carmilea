@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Freenode has blocked all IRCCloud users](https://twitter.com/IRCCloud/status/1404153550159159298)
-- [Also leaving Freenode: FSF, GNU, plus Linux and Python support channels](https://tech.slashdot.org/story/21/06/13/184251/also-leaving-freenode-fsf-gnu-plus-linux-and-python-support-channels)
-- [The Mounting Cost of Stale Ad Blocking Rules (2018)](https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/)
-- [McDonald's AI drive-thru bot accused of breaking biometrics privacy law](https://www.theregister.com/2021/06/10/mcdonalds_ai_lawsuit/)
-- [The Muse (YC W12) Is Hiring a Senior Site Reliability Engineer](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer)
+- [The Swiss reject key climate change measures](https://www.bbc.com/news/world-europe-57457384)
+- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [What can a technologist do about climate change? (2015)](http://worrydream.com/ClimateChange/)
+- [Isfreenodedeadyet – Tracking Freenode to Libera.Chat Migration](https://isfreenodedeadyet.com/)
+- [Internet of Shit](https://twitter.com/internetofshit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
