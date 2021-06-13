@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Solana Labs Completes a $314.15M Private Token Sale Led by Andreessen Horowitz](https://solana.com/news/solana-labs-completes-a-314-15m-private-token-sale-led-by-andreessen-horowitz-and-polychain-capital)
+- [Solana Labs completes a $314M private token sale led by Andreessen Horowitz](https://solana.com/news/solana-labs-completes-a-314-15m-private-token-sale-led-by-andreessen-horowitz-and-polychain-capital)
 - [Cuda.jl v3.3: union types, debug info, graph APIs](https://juliagpu.org/post/2021-06-10-cuda_3.3/)
+- [Linux on Chromebooks just might get me through a masters in computer science](https://www.aboutchromebooks.com/news/linux-on-chromebooks-just-might-get-me-through-a-masters-in-computer-science/)
 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 - [What can a technologist do about climate change? (2015)](http://worrydream.com/ClimateChange/)
-- [Isfreenodedeadyet – Tracking Freenode to Libera.Chat Migration](https://isfreenodedeadyet.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
