@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What things that tech recruiters do, annoy you the most as an engineer?](https://news.ycombinator.com/item?id=27490018)
+- [How Your Phone Can Predict Depression and Lead to Personalized Treatment](https://ucsdnews.ucsd.edu/pressrelease/how-your-phone-can-predict-depression-and-lead-to-personalized-treatment)
+- [Pakistan: A man trying to improve women's underwear](https://www.bbc.com/news/world-asia-57268691)
 - [The Enterprise Eats Software](https://jessitron.com/2021/06/12/the-enterprise-eats-software/)
 - [The Schindler of Japan, Chihune Sugihara](https://www.tokyoweekender.com/2021/06/chiune-sugihara-japanese-schindler/)
-- [Babylon and the Square Root of 2](https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/)
-- [Social media are turbocharging the export of America’s political culture](https://www.economist.com/international/2021/06/12/social-media-are-turbocharging-the-export-of-americas-political-culture)
-- [Comic Mono – a legible monospace font](https://github.com/dtinth/comic-mono-font)
 <!-- BLOG-POST-LIST:END -->
 
 ---
