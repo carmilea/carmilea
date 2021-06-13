@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Have Zero Faith in Crypto Venture Capitalists](https://bennettftomlin.com/2021/06/12/why-i-have-zero-faith-in-crypto-venture-capitalists/)
+- [Why I have zero faith in crypto venture capitalists](https://bennettftomlin.com/2021/06/12/why-i-have-zero-faith-in-crypto-venture-capitalists/)
+- [Disasters I've seen in a microservices world](https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9137a51)
+- [Doing something is better than doing nothing for most people – study (2014)](https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows)
 - [The Elephant at WWDC](https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/)
 - [Remote workers work longer, not more efficiently](https://www.economist.com/business/2021/06/10/remote-workers-work-longer-not-more-efficiently)
-- [Ask HN: I curate HN stories which didn't reach the front page. Feedback please](https://news.ycombinator.com/item?id=27492255)
-- [Show HN: I made a generator of art – Suprematism](https://tool.graphics/suprematism)
 <!-- BLOG-POST-LIST:END -->
 
 ---
