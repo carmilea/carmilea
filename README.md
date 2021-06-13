@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Schindler of Japan, Chihune Sugihara](https://www.tokyoweekender.com/2021/06/chiune-sugihara-japanese-schindler/)
+- [Babylon and the Square Root of 2](https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/)
 - [Social media are turbocharging the export of America’s political culture](https://www.economist.com/international/2021/06/12/social-media-are-turbocharging-the-export-of-americas-political-culture)
 - [Comic Mono – a legible monospace font](https://github.com/dtinth/comic-mono-font)
 - [Programmer's Resignation from 1985](https://pastes.glitchwrks.com/L88HFhJs)
-- [The code on the laptop in the stock photo at developer.bbc.com is user-editable](https://twitter.com/Andrew_Taylor/status/1403709080737390592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
