@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clerky (YC S11) Is Hiring Senior Software Engineers](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN)
+- [I Miss the Old Internet (2019)](https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/)
+- [Rust 1.x seems to not always be backward compatible in practice](https://utcc.utoronto.ca/~cks/space/blog/programming/Rust1BackwardIncompatibility)
+- [Animal Testing Is Exploitative and Largely Ineffective](https://www.erichgrunewald.com/posts/animal-testing-is-exploitative-and-largely-ineffective/)
 - [Git for Computer Scientists](https://eagain.net/articles/git-for-computer-scientists/)
-- [Is Sony's 140MB MiniDisc Drive the Next Betamax? (1996)](https://web.archive.org/web/19990117022714/https://www.pcworld.com/hardware/storage_backup/articles/jan96/jan9621.html)
-- [So You Want to Write a Book?](https://press.ed2592.xyz/author/chapter-1/)
-- [I want to learn D3. I don’t want to learn Observable. Is that ok? (2019-2021)](https://talk.observablehq.com/t/i-want-to-learn-d3-i-don-t-want-to-learn-observable-is-that-ok/1957/2)
-- [How to Handle Secrets on the Command Line](https://smallstep.com/blog/command-line-secrets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
