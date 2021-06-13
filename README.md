@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Signadot (YC W20) Is Hiring Founding Back End Engineers](https://www.workatastartup.com/jobs/42298)
-- [Ask HN: What is the SQLite of nosql databases?](https://news.ycombinator.com/item?id=27490361)
-- [Silicon Valley Thought India Was Its Future. Now Everything Has Changed](https://slate.com/technology/2021/06/india-silicon-valley-twitter-google-censorship.html)
-- [How Your Phone Can Predict Depression and Lead to Personalized Treatment](https://ucsdnews.ucsd.edu/pressrelease/how-your-phone-can-predict-depression-and-lead-to-personalized-treatment)
-- [Pakistan: A man trying to improve women's underwear](https://www.bbc.com/news/world-asia-57268691)
+- [How the price of a Toyota truck helps explain surging inflation](https://www.npr.org/2021/06/10/1004806688/inflation-is-surging-the-price-of-a-toyota-pickup-truck-helps-explain-why)
+- [Silicon Valley thought India was its future, now things have changed](https://slate.com/technology/2021/06/india-silicon-valley-twitter-google-censorship.html)
+- [Ask HN: What things that tech recruiters do, annoy you the most as an engineer?](https://news.ycombinator.com/item?id=27490018)
+- [A study used data from phones to predict depression and personalized treatment](https://ucsdnews.ucsd.edu/pressrelease/how-your-phone-can-predict-depression-and-lead-to-personalized-treatment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
