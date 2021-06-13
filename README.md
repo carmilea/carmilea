@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Have Zero Faith in Crypto Venture Capitalists](https://bennettftomlin.com/2021/06/12/why-i-have-zero-faith-in-crypto-venture-capitalists/)
 - [The Elephant at WWDC](https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/)
+- [Remote workers work longer, not more efficiently](https://www.economist.com/business/2021/06/10/remote-workers-work-longer-not-more-efficiently)
+- [Ask HN: I curate HN stories which didn't reach the front page. Feedback please](https://news.ycombinator.com/item?id=27492255)
 - [Show HN: I made a generator of art – Suprematism](https://tool.graphics/suprematism)
-- [Goodbye Freenode](https://nedbatchelder.com/blog/202106/goodbye_freenode.html)
-- [Clerky (YC S11) Is Hiring Senior Software Engineers](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN)
-- [I Miss the Old Internet (2019)](https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
