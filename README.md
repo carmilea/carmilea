@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Are Certifications Useful in Infosec?](https://news.ycombinator.com/item?id=27494450)
+- [McDonald's AI drive-thru bot accused of breaking biometrics privacy law](https://www.theregister.com/2021/06/10/mcdonalds_ai_lawsuit/)
 - [The Muse (YC W12) Is Hiring a Senior Site Reliability Engineer](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer)
 - [The $149 Smartphone That Could Bring the Linux Mobile Ecosystem to Life](https://www.vice.com/en/article/v7e77y/the-dollar149-smartphone-that-could-bring-the-linux-mobile-ecosystem-to-life)
-- [Forget Going Back to the Office–People Are Just Quitting Instead](https://www.wsj.com/articles/forget-going-back-to-the-officepeople-are-just-quitting-instead-11623576602)
 - [House Lawmakers Release Anti-Monopoly Agenda for “A Stronger Online Economy”](https://cicilline.house.gov/press-release/house-lawmakers-release-anti-monopoly-agenda-stronger-online-economy-opportunity)
-- [Future of Cinnamon in Debian](https://www.preining.info/blog/2021/06/future-of-cinnamon-in-debian/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
