@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [List of commercial video games with available source code](https://en.wikipedia.org/wiki/List_of_commercial_video_games_with_available_source_code)
 - [Solana Labs completes a $314M private token sale led by Andreessen Horowitz](https://solana.com/news/solana-labs-completes-a-314-15m-private-token-sale-led-by-andreessen-horowitz-and-polychain-capital)
+- [An Omega-3 that’s poison for cancer tumors](https://scitechdaily.com/an-omega-3-thats-poison-for-cancer-tumors/)
 - [Cuda.jl v3.3: union types, debug info, graph APIs](https://juliagpu.org/post/2021-06-10-cuda_3.3/)
 - [Linux on Chromebooks just might get me through a masters in computer science](https://www.aboutchromebooks.com/news/linux-on-chromebooks-just-might-get-me-through-a-masters-in-computer-science/)
-- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [What can a technologist do about climate change? (2015)](http://worrydream.com/ClimateChange/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
