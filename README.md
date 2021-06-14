@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Love Lucy Maud](https://www.berfrois.com/2021/06/love-maud/)
+- [US bans dog imports from more than 100 countries](https://www.bbc.com/news/world-us-canada-57478076)
 - [Mux (YC W16) is hiring to help build the Stripe for video](https://mux.com/jobs?hnj=stripe)
-- [FTDI FT232RL: Real vs. Fake](https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal)
+- [FTDI FT232RL: Real vs. Fake (2014)](https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal)
 - [Show HN: macOS HNReader Application](https://github.com/mattrighetti/HNReaderApp)
-- [Supporting Let’s Encrypt, the nonprofit making HTTPS free for all](https://blog.1password.com/supporting-lets-encrypt/)
-- [An old tent design made with new materials](https://azartiz.com/?2021-06-13T20:25:16.558Z)
 <!-- BLOG-POST-LIST:END -->
 
 ---
