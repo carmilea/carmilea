@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport is hiring to build the technology platform for global trade](https://www.flexport.com/careers/department/engineering)
+- [Google issue tracker does not allow viewing issues unless signed-in](https://news.ycombinator.com/item?id=27501417)
+- [RISC-V Evolving to Address Supercomputers and AI](https://www.tomshardware.com/news/risc-v-set-to-address-ai-and-supercomputer-workloads)
+- [“Great resignation” wave coming for companies](https://www.axios.com/resignations-companies-e279fcfc-c8e7-4955-8a9b-47562490ee55.html)
 - [Why IBM Is Suing GlobalFoundries over Chip Roadmap Failures](https://www.nextplatform.com/2021/06/10/why-ibm-is-suing-globalfoundries-over-chip-roadmap-failures/)
-- [Swiss narrowly reject tax hike to fight climate change](https://apnews.com/article/government-and-politics-europe-climate-climate-change-environment-and-nature-057e14f0b5fd91eca8c5ba85aca31014)
-- [Be aware of Chrome's new table layout engine](https://tablesng.com/)
-- [The global chip shortage is creating a new problem: More fake components](https://www.zdnet.com/article/the-global-chip-shortage-is-creating-a-new-problem-more-fake-components-as-fraudsters-cash-in/)
-- [Bentley Railbike](http://rrbike.freeservers.com/main.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
