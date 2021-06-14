@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Mux (YC W16) is hiring to help build the Stripe for video](https://mux.com/jobs?hnj=stripe)
-- [80% of tech could be built outside IT by 2024, thanks to low-code tools](https://venturebeat.com/2021/06/14/80-of-tech-could-be-built-outside-it-by-2024-thanks-to-low-code-tools/)
+- [FTDI FT232RL: Real vs. Fake](https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal)
 - [Show HN: macOS HNReader Application](https://github.com/mattrighetti/HNReaderApp)
 - [Supporting Let’s Encrypt, the nonprofit making HTTPS free for all](https://blog.1password.com/supporting-lets-encrypt/)
 - [An old tent design made with new materials](https://azartiz.com/?2021-06-13T20:25:16.558Z)
