@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are self-driving cars safer than human drivers?](https://thegradient.pub/are-self-driving-cars-really-safer-than-human-drivers/)
+- [The End of Freenode](https://ariadne.space/2021/06/14/the-end-of-freenode/)
 - [Ancient Greek accents in ten rules](https://antigonejournal.com/2021/06/greek-accents-ten-rules/)
 - [The Halfword Heap Emulator (2011) [pdf]](http://www.erlang-factory.com/upload/presentations/467/Halfword_EUC_2011.pdf)
 - [Tricks of Trench Warfare (2020)](https://gru.gq/2020/02/12/forgotten-tricks-of-trench-warfare/)
