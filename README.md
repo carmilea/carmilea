@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Please don't add any of my stuff to this project”](https://github.com/NixOS/nixpkgs/pull/126326)
+- [Kim Stanley Robinson: a declining world population could be a good thing](https://www.washingtonpost.com/opinions/2021/06/07/please-hold-panic-about-world-population-decline-its-non-problem/)
+- [Adventures in Fuzzing Matrix’s Encryption](https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm)
 - [Thailand bans meme coin and NFT: “no clear objective or substance or underlying”](https://www.engadget.com/thailand-bans-meme-coins-nft-113518980.html)
 - [CoinTracker (YC W18) is hiring engineers to take cryptocurrency mainstream](https://www.cointracker.io/careers)
 - [Main is usually a function, so when is it not? (2015)](https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
-- [Launch HN: Revery.AI (YC S21) Scalable deep learning-based virtual dressing room](https://news.ycombinator.com/item?id=27504190)
 <!-- BLOG-POST-LIST:END -->
 
 ---
