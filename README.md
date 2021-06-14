@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You cannot setup DKIM on Microsoft 365 without PowerShell](https://github.com/MicrosoftDocs/microsoft-365-docs/issues/1521)
+- ['Positive deviants': Why rebellious workers spark great ideas](https://www.bbc.com/worklife/article/20210528-positive-deviants-why-rebellious-workers-spark-gr-ideas)
+- [Doom Running on an IKEA Lamp [video]](https://www.youtube.com/watch?v=7ybybf4tJWw)
 - [Scientists remotely controlled the social behavior of mice with light](https://www.sciencenews.org/article/optogenetics-social-behavior-brains-mice-light)
 - [Up for Grabs](https://up-for-grabs.net/)
-- [Opinion: The secret gag orders must stop](https://www.washingtonpost.com/opinions/2021/06/13/microsoft-brad-smith-trump-justice-department-gag-orders/)
-- [Hacking Bitcoin wallets with quantum computers could happen](https://www.cnbc.com/2021/06/10/long-term-crypto-threat-quantum-computers-hacking-bitcoin-wallets.html)
+- [Analysing bird songs with Wigner transform (WDF)](https://soundshader.github.io/hss/gallery/wigner)
 <!-- BLOG-POST-LIST:END -->
 
 ---
