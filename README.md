@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ancient Greek accents in ten rules](https://antigonejournal.com/2021/06/greek-accents-ten-rules/)
+- [The Halfword Heap Emulator (2011) [pdf]](http://www.erlang-factory.com/upload/presentations/467/Halfword_EUC_2011.pdf)
+- [Tricks of Trench Warfare (2020)](https://gru.gq/2020/02/12/forgotten-tricks-of-trench-warfare/)
+- [Open Source OpenGL ES 3.1 on Mali GPUs with Panfrost](https://www.collabora.com/news-and-blog/blog/2021/06/11/open-source-opengl-es-3.1-on-mali-gpus-with-panfrost/)
 - ['Positive deviants': Why rebellious workers spark great ideas](https://www.bbc.com/worklife/article/20210528-positive-deviants-why-rebellious-workers-spark-gr-ideas)
-- [Doom Running on an IKEA Lamp [video]](https://www.youtube.com/watch?v=7ybybf4tJWw)
-- [Scientists remotely controlled the social behavior of mice with light](https://www.sciencenews.org/article/optogenetics-social-behavior-brains-mice-light)
-- [Up for Grabs](https://up-for-grabs.net/)
-- [Analysing bird songs with Wigner transform (WDF)](https://soundshader.github.io/hss/gallery/wigner)
 <!-- BLOG-POST-LIST:END -->
 
 ---
