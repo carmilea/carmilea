@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DuckDuckGo Preview Feature Soon?](https://duckduckgo.com/duckduckpreview)
-- [Departures of Police Officers Accelerated During a Year of Protests](https://www.nytimes.com/2021/06/11/us/police-retirements-resignations-recruits.html)
+- [Why Nuclear Power, Not Renewables, Is the Path to Low-Carbon Energy](https://freopp.org/why-nuclear-power-not-renewables-is-the-path-to-low-carbon-energy-part-1-c0b66d4b9570)
+- [National High Magnetic Field Laboratory](https://nationalmaglab.org/)
+- [Seizing the Middle: Chess Strategy in Business](https://fs.blog/2021/06/seizing-the-middle-chess-strategy-in-business/)
 - [Let web applications be file handlers](https://web.dev/file-handling/)
 - [Google Workspace for Everyone](https://blog.google/products/workspace/google-workspace-everyone/)
-- [Flexport is hiring to build the technology platform for global trade](https://www.flexport.com/careers/department/engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
