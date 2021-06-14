@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The End of Freenode](https://ariadne.space/2021/06/14/the-end-of-freenode/)
+- [Alternative: A community software search engine](https://alternative-a.com/en/blog/v3release)
+- [How to Make Tetris in ClojureScript](https://shaunlebron.github.io/t3tr0s-slides)
 - [Ancient Greek accents in ten rules](https://antigonejournal.com/2021/06/greek-accents-ten-rules/)
 - [The Halfword Heap Emulator (2011) [pdf]](http://www.erlang-factory.com/upload/presentations/467/Halfword_EUC_2011.pdf)
 - [Tricks of Trench Warfare (2020)](https://gru.gq/2020/02/12/forgotten-tricks-of-trench-warfare/)
-- [Open Source OpenGL ES 3.1 on Mali GPUs with Panfrost](https://www.collabora.com/news-and-blog/blog/2021/06/11/open-source-opengl-es-3.1-on-mali-gpus-with-panfrost/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
