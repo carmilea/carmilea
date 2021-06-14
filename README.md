@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CoinTracker (YC W18) is hiring engineers to take cryptocurrency mainstream](https://www.cointracker.io/careers)
 - [Main is usually a function. So then when is it not? (2015)](https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 - [Launch HN: Revery.AI (YC S21) Scalable deep learning-based virtual dressing room](https://news.ycombinator.com/item?id=27504190)
 - [Show HN: I made a community sourced fitness routine database](https://routinedb.com/routines)
-- [Stripe Identity](https://stripe.com/identity)
-- [Some Americans Are Breaking Out of Political Echo Chambers](https://www.wired.com/story/how-americans-breaking-political-echo-chambers/)
+- [Monitoring the Health of Precursor’s TRNGs](https://www.bunniestudios.com/blog/?p=6097)
 <!-- BLOG-POST-LIST:END -->
 
 ---
