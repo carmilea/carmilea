@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DuckDuckGo Preview Feature Soon?](https://duckduckgo.com/duckduckpreview)
+- [Departures of Police Officers Accelerated During a Year of Protests](https://www.nytimes.com/2021/06/11/us/police-retirements-resignations-recruits.html)
+- [Let web applications be file handlers](https://web.dev/file-handling/)
+- [Google Workspace for Everyone](https://blog.google/products/workspace/google-workspace-everyone/)
 - [Flexport is hiring to build the technology platform for global trade](https://www.flexport.com/careers/department/engineering)
-- [Google issue tracker does not allow viewing issues unless signed-in](https://news.ycombinator.com/item?id=27501417)
-- [RISC-V Evolving to Address Supercomputers and AI](https://www.tomshardware.com/news/risc-v-set-to-address-ai-and-supercomputer-workloads)
-- [“Great resignation” wave coming for companies](https://www.axios.com/resignations-companies-e279fcfc-c8e7-4955-8a9b-47562490ee55.html)
-- [Why IBM Is Suing GlobalFoundries over Chip Roadmap Failures](https://www.nextplatform.com/2021/06/10/why-ibm-is-suing-globalfoundries-over-chip-roadmap-failures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
