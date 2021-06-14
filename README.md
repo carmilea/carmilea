@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Nuclear Power, Not Renewables, Is the Path to Low-Carbon Energy](https://freopp.org/why-nuclear-power-not-renewables-is-the-path-to-low-carbon-energy-part-1-c0b66d4b9570)
+- [I made a community sourced fitness routine database](https://routinedb.com/routines)
+- [Stripe Identity](https://stripe.com/identity)
+- [Some Americans Are Breaking Out of Political Echo Chambers](https://www.wired.com/story/how-americans-breaking-political-echo-chambers/)
 - [National High Magnetic Field Laboratory](https://nationalmaglab.org/)
-- [Seizing the Middle: Chess Strategy in Business](https://fs.blog/2021/06/seizing-the-middle-chess-strategy-in-business/)
-- [Let web applications be file handlers](https://web.dev/file-handling/)
-- [Google Workspace for Everyone](https://blog.google/products/workspace/google-workspace-everyone/)
+- [Uranium Magnet](https://nationalmaglab.org/about/around-the-lab/what-goes-in-the-magnet/uranium-magnet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
