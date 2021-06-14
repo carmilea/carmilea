@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You cannot setup DKIM on Microsoft 365 without PowerShell](https://github.com/MicrosoftDocs/microsoft-365-docs/issues/1521)
+- [Scientists remotely controlled the social behavior of mice with light](https://www.sciencenews.org/article/optogenetics-social-behavior-brains-mice-light)
+- [Up for Grabs](https://up-for-grabs.net/)
 - [Opinion: The secret gag orders must stop](https://www.washingtonpost.com/opinions/2021/06/13/microsoft-brad-smith-trump-justice-department-gag-orders/)
 - [Hacking Bitcoin wallets with quantum computers could happen](https://www.cnbc.com/2021/06/10/long-term-crypto-threat-quantum-computers-hacking-bitcoin-wallets.html)
-- [Jerry (YC S17) Is Hiring Remote Senior Engineers](https://apply.workable.com/jerry/j/07E1D2B302/)
-- [Solana Labs completes a $314M private token sale led by Andreessen Horowitz](https://solana.com/news/solana-labs-completes-a-314-15m-private-token-sale-led-by-andreessen-horowitz-and-polychain-capital)
-- [An Omega-3 that’s poison for cancer tumors](https://scitechdaily.com/an-omega-3-thats-poison-for-cancer-tumors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
