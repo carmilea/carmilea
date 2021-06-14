@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kim Stanley Robinson: a declining world population could be a good thing](https://www.washingtonpost.com/opinions/2021/06/07/please-hold-panic-about-world-population-decline-its-non-problem/)
+- [Supporting Let’s Encrypt, the nonprofit making HTTPS free for all](https://blog.1password.com/supporting-lets-encrypt/)
+- [An old tent design made with new materials](https://azartiz.com/?2021-06-13T20:25:16.558Z)
+- [Reality Winner, NSA contractor in leak case, out of prison](https://apnews.com/article/government-and-politics-europe-80600704e46e10ec53e85590d1d3fefb)
+- [Myths in cycling: wider tires are slower](https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/)
 - [Adventures in Fuzzing Matrix’s Encryption](https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm)
-- [Thailand bans meme coin and NFT: “no clear objective or substance or underlying”](https://www.engadget.com/thailand-bans-meme-coins-nft-113518980.html)
-- [CoinTracker (YC W18) is hiring engineers to take cryptocurrency mainstream](https://www.cointracker.io/careers)
-- [Main is usually a function, so when is it not? (2015)](https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
