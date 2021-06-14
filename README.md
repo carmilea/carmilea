@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why IBM Is Suing GlobalFoundries over Chip Roadmap Failures](https://www.nextplatform.com/2021/06/10/why-ibm-is-suing-globalfoundries-over-chip-roadmap-failures/)
+- [Swiss narrowly reject tax hike to fight climate change](https://apnews.com/article/government-and-politics-europe-climate-climate-change-environment-and-nature-057e14f0b5fd91eca8c5ba85aca31014)
+- [Be aware of Chrome's new table layout engine](https://tablesng.com/)
 - [The global chip shortage is creating a new problem: More fake components](https://www.zdnet.com/article/the-global-chip-shortage-is-creating-a-new-problem-more-fake-components-as-fraudsters-cash-in/)
-- [Filtering out newsletter signup forms embedded in web articles](https://www.fivefilters.org/2021/newsletter-signup-forms/)
-- [All Programming Is Web Programming (2009)](https://blog.codinghorror.com/all-programming-is-web-programming/)
-- [Alternative: A community software search engine](https://alternative-a.com/en/blog/v3release)
-- [How to Make Tetris in ClojureScript](https://shaunlebron.github.io/t3tr0s-slides)
+- [Bentley Railbike](http://rrbike.freeservers.com/main.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
