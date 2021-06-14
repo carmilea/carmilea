@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Filtering out newsletter signup forms embedded in web articles](https://www.fivefilters.org/2021/newsletter-signup-forms/)
+- [All Programming Is Web Programming (2009)](https://blog.codinghorror.com/all-programming-is-web-programming/)
 - [Alternative: A community software search engine](https://alternative-a.com/en/blog/v3release)
 - [How to Make Tetris in ClojureScript](https://shaunlebron.github.io/t3tr0s-slides)
-- [Ancient Greek accents in ten rules](https://antigonejournal.com/2021/06/greek-accents-ten-rules/)
-- [The Halfword Heap Emulator (2011) [pdf]](http://www.erlang-factory.com/upload/presentations/467/Halfword_EUC_2011.pdf)
-- [Tricks of Trench Warfare (2020)](https://gru.gq/2020/02/12/forgotten-tricks-of-trench-warfare/)
+- [Show HN: The simplest geohash implementation under the sun](https://mro.name/g/u154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
