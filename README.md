@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The global chip shortage is creating a new problem: More fake components](https://www.zdnet.com/article/the-global-chip-shortage-is-creating-a-new-problem-more-fake-components-as-fraudsters-cash-in/)
 - [Filtering out newsletter signup forms embedded in web articles](https://www.fivefilters.org/2021/newsletter-signup-forms/)
 - [All Programming Is Web Programming (2009)](https://blog.codinghorror.com/all-programming-is-web-programming/)
 - [Alternative: A community software search engine](https://alternative-a.com/en/blog/v3release)
 - [How to Make Tetris in ClojureScript](https://shaunlebron.github.io/t3tr0s-slides)
-- [Show HN: The simplest geohash implementation under the sun](https://mro.name/g/u154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
