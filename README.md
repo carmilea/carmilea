@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Modelplace, the AI Model Marketplace by OpenCV](https://modelplace.ai)
-- [Twitter adds 'Arabic (feminine)' language option in diversity drive](https://www.reuters.com/lifestyle/twitter-adds-arabic-feminine-language-option-diversity-drive-2021-06-15/)
-- [Survey shows people no longer believe working hard will lead to a better life](https://insidermag.net/survey-shows-people-no-longer-believe-working-hard-will-lead-to-a-better-life/)
-- [Tesorio (YC S15) Is Hiring Join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [Ask HN: How did an adult ADHD diagnosis help you?](https://news.ycombinator.com/item?id=27514005)
+- [Finish Your Stuff (2015)](https://250bpm.com/blog:50/)
+- [Critical entities targeted in suspected Chinese cyber spying](https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9)
+- [Launch HN: Axolo (YC W21) – Faster pull requests and code reviews](https://news.ycombinator.com/item?id=27515468)
+- [Amazon is blocking Google’s FLoC](https://digiday.com/media/amazon-is-blocking-googles-floc-and-that-could-seriously-weaken-the-fledgling-tracking-system/)
+- [Why People Fall for Conspiracy Theories](https://fivethirtyeight.com/features/why-people-fall-for-conspiracy-theories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
