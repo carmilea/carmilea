@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Freenode commits suicide, is no longer a serious IRC network](https://www.devever.net/~hl/freenode_suicide)
+- [Fully Homomorphic Encryption (FHE)](https://github.com/google/fully-homomorphic-encryption)
+- [Universities have formed a company that looks a lot like a patent troll](https://www.eff.org/deeplinks/2021/06/15-universities-have-formed-company-looks-lot-patent-troll)
+- [A strong commitment to backwards compatibility means keeping your mistakes](https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility)
 - [NOAA Weather Radio Outages](https://www.weather.gov/nwr/outages)
 - [Avoid News, Part 2: What the Stock Market Taught Me about News](http://www.bayesianinvestor.com/blog/index.php/2021/06/13/avoid-news-part-2-what-the-stock-market-taught-me-about-news/)
-- [U.S. Supreme Court revives LinkedIn bid to shield personal data](https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/)
-- [Linux with “memory folios”: got a 7% performance boost when compiling the kernel](https://lore.kernel.org/lkml/20210614201435.1379188-1-willy@infradead.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
