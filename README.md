@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoid News, Part 2: What the Stock Market Taught Me about News](http://www.bayesianinvestor.com/blog/index.php/2021/06/13/avoid-news-part-2-what-the-stock-market-taught-me-about-news/)
 - [U.S. Supreme Court revives LinkedIn bid to shield personal data](https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/)
+- [Linux with “memory folios”: got a 7% performance boost when compiling the kernel](https://lore.kernel.org/lkml/20210614201435.1379188-1-willy@infradead.org/)
 - [You can legally get and run WordPerfect for free](https://liam-on-linux.livejournal.com/80768.html)
 - [Why I Love Lucy Maud](https://www.berfrois.com/2021/06/love-maud/)
-- [Baseball's dirty little secret is out – we decided to experiment](https://www.thescore.com/mlb/news/2180019)
-- [Mux (YC W16) is hiring to help build the Stripe for video](https://mux.com/jobs?hnj=stripe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
