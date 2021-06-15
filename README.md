@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stereoptypes Sometimes Work](https://openpsych.net/paper/60/)
+- [On Comments in Code](https://henrikwarne.com/2021/06/15/on-comments-in-code/)
+- [J Concepts in SC (SuperCollider)](https://doc.sccode.org/Guides/J-concepts-in-SC.html)
 - [U.S. workers are among the most stressed in the world, new Gallup report finds](https://www.cnbc.com/2021/06/15/gallup-us-workers-are-among-the-most-stressed-in-the-world.html)
 - [A Timeline of CIA Atrocities (1993)](http://www.huppi.com/kangaroo/CIAtimeline.html)
 - [Tensil (YC S19) Is Hiring FPGA Engineers](https://www.ycombinator.com/companies/tensil/jobs/PulzAJpgj-lead-fpga-engineer)
-- [Richard Feynman’s Integral Trick](https://www.cantorsparadise.com/richard-feynmans-integral-trick-e7afae85e25c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
