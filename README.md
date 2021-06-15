@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cue, an open-source data validation language](https://cuelang.org/docs/about/)
 - [Fully Homomorphic Encryption (FHE)](https://github.com/google/fully-homomorphic-encryption)
 - [Universities have formed a company that looks a lot like a patent troll](https://www.eff.org/deeplinks/2021/06/15-universities-have-formed-company-looks-lot-patent-troll)
 - [A strong commitment to backwards compatibility means keeping your mistakes](https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility)
 - [NOAA Weather Radio Outages](https://www.weather.gov/nwr/outages)
-- [Avoid News, Part 2: What the Stock Market Taught Me about News](http://www.bayesianinvestor.com/blog/index.php/2021/06/13/avoid-news-part-2-what-the-stock-market-taught-me-about-news/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
