@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stereoptypes Sometimes Work](https://openpsych.net/paper/60/)
+- [U.S. workers are among the most stressed in the world, new Gallup report finds](https://www.cnbc.com/2021/06/15/gallup-us-workers-are-among-the-most-stressed-in-the-world.html)
 - [A Timeline of CIA Atrocities (1993)](http://www.huppi.com/kangaroo/CIAtimeline.html)
 - [Tensil (YC S19) Is Hiring FPGA Engineers](https://www.ycombinator.com/companies/tensil/jobs/PulzAJpgj-lead-fpga-engineer)
-- [It's surprisingly easy to get a sunburn](https://deepnote.com/@daniel-zvara-036a/Time-to-sunburn-73Bmeo76QwO33IxA3GYGcQ)
 - [Richard Feynman’s Integral Trick](https://www.cantorsparadise.com/richard-feynmans-integral-trick-e7afae85e25c)
-- [How do I opt my access point out of Google Location services?](https://support.google.com/maps/answer/1725632#how_opt_out&zippy=)
 <!-- BLOG-POST-LIST:END -->
 
 ---
