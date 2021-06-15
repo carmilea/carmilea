@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Timeline of CIA Atrocities (1993)](http://www.huppi.com/kangaroo/CIAtimeline.html)
+- [Tensil (YC S19) Is Hiring FPGA Engineers](https://www.ycombinator.com/companies/tensil/jobs/PulzAJpgj-lead-fpga-engineer)
+- [It's surprisingly easy to get a sunburn](https://deepnote.com/@daniel-zvara-036a/Time-to-sunburn-73Bmeo76QwO33IxA3GYGcQ)
 - [Richard Feynman’s Integral Trick](https://www.cantorsparadise.com/richard-feynmans-integral-trick-e7afae85e25c)
-- [A New Era for Mechanical CAD](https://queue.acm.org/detail.cfm?id=3469844)
-- [Next.js 11](https://nextjs.org/blog/next-11)
-- [Next.js Live: Code in the Browser with ESM, ServiceWorkers, Replicache, and WASM](http://nextjs.org/live)
-- [NIH Study Offers New Evidence of Early SARS-CoV-2 Infections in U.S.](https://www.nih.gov/news-events/news-releases/nih-study-offers-new-evidence-early-sars-cov-2-infections-us)
+- [How do I opt my access point out of Google Location services?](https://support.google.com/maps/answer/1725632#how_opt_out&zippy=)
 <!-- BLOG-POST-LIST:END -->
 
 ---
