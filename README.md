@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Senate Unanimously Approves a Bill to Make Juneteenth a Public Holiday](https://www.npr.org/2021/06/15/1006934154/senate-unanimously-approves-a-bill-to-make-juneteenth-a-public-holiday)
+- [RFC for 700 HTTP Status Codes](https://github.com/joho/7XX-rfc)
+- [Lina Khan, Big Tech Critic, Will Lead the FTC](https://www.npr.org/2021/06/15/1006807299/lina-khan-prominent-big-tech-critic-will-lead-the-ftc)
 - [Reverie Labs (YC W18) Is Hiring an ML Lead in Cambridge, MA](https://jobs.lever.co/reverielabs/d4599250-a05d-4d31-9810-12330b3c73e5)
-- [Forzak: A website that curates high-quality educational content](https://www.forzak.com)
-- [Southwest Airlines grounds its entire fleet amid giant computer outage](https://nypost.com/2021/06/15/southwest-airlines-grounds-all-flights-amid-computer-outage/)
 - [Joplin – an open source note taking and to-do application with synchronization](https://joplinapp.org/)
-- [Show HN: Influence, a Go-inspired 1-minute board game](http://cintrest.com/influence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
