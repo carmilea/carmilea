@@ -55,7 +55,7 @@
 - [Cue, an open-source data validation language](https://cuelang.org/docs/about/)
 - [Fully Homomorphic Encryption (FHE)](https://github.com/google/fully-homomorphic-encryption)
 - [Universities have formed a company that looks a lot like a patent troll](https://www.eff.org/deeplinks/2021/06/15-universities-have-formed-company-looks-lot-patent-troll)
-- [A strong commitment to backwards compatibility means keeping your mistakes](https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility)
+- [Fed balance sheet tops $8T for first time -data](https://www.reuters.com/business/fed-balance-sheet-tops-8-trillion-first-time-data-2021-06-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
