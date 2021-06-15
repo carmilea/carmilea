@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Supreme Court revives LinkedIn bid to shield personal data](https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/)
+- [You can legally get and run WordPerfect for free](https://liam-on-linux.livejournal.com/80768.html)
 - [Why I Love Lucy Maud](https://www.berfrois.com/2021/06/love-maud/)
-- [US bans dog imports from more than 100 countries](https://www.bbc.com/news/world-us-canada-57478076)
+- [Baseball's dirty little secret is out – we decided to experiment](https://www.thescore.com/mlb/news/2180019)
 - [Mux (YC W16) is hiring to help build the Stripe for video](https://mux.com/jobs?hnj=stripe)
-- [FTDI FT232RL: Real vs. Fake (2014)](https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal)
-- [Show HN: macOS HNReader Application](https://github.com/mattrighetti/HNReaderApp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
