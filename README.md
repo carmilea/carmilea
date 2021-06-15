@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modelplace, the AI Model Marketplace by OpenCV](https://modelplace.ai)
+- [Twitter adds 'Arabic (feminine)' language option in diversity drive](https://www.reuters.com/lifestyle/twitter-adds-arabic-feminine-language-option-diversity-drive-2021-06-15/)
+- [Survey shows people no longer believe working hard will lead to a better life](https://insidermag.net/survey-shows-people-no-longer-believe-working-hard-will-lead-to-a-better-life/)
 - [Tesorio (YC S15) Is Hiring Join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - [Ask HN: How did an adult ADHD diagnosis help you?](https://news.ycombinator.com/item?id=27514005)
-- [Europe's Software Problem](https://berthub.eu/articles/posts/europes-software-problem/)
-- [Poll: Only 18 Percent of Germans Feel Free to Voice Views in Public (2019)](https://jonathanturley.org/2019/05/28/poll-on-18-percent-of-german-feel-free-to-voice-views-in-public/)
-- [The Quiet Rise of E Ink Tablets – ReMarkable 2 vs. Onyx Boox Note Air](https://www.hanselman.com/blog/the-quiet-rise-of-e-ink-tablets-and-infinite-paper-note-takers-remarkable-2-vs-onyx-boox-note-air)
 <!-- BLOG-POST-LIST:END -->
 
 ---
