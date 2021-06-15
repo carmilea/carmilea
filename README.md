@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Psychiatry Needs to Get Right with God](https://www.scientificamerican.com/article/psychiatry-needs-to-get-right-with-god/)
-- [J Concepts in SC (SuperCollider)](https://doc.sccode.org/Guides/J-concepts-in-SC.html)
-- [A Timeline of CIA Atrocities (1993)](http://www.huppi.com/kangaroo/CIAtimeline.html)
-- [Tensil (YC S19) Is Hiring FPGA Engineers](https://www.ycombinator.com/companies/tensil/jobs/PulzAJpgj-lead-fpga-engineer)
-- [Time to sunburn](https://deepnote.com/@daniel-zvara-036a/Time-to-sunburn-73Bmeo76QwO33IxA3GYGcQ)
+- [Reverie Labs (YC W18) Is Hiring an ML Lead in Cambridge, MA](https://jobs.lever.co/reverielabs/d4599250-a05d-4d31-9810-12330b3c73e5)
+- [Forzak: A website that curates high-quality educational content on the Internet](https://www.forzak.com)
+- [An open source note taking and to-do with synchronisation capabilities](https://joplinapp.org/)
+- [Show HN: Influence, a Go-inspired 1min board game](http://cintrest.com/influence/)
+- [Johnny Knoxville’s Last Rodeo](https://www.gq.com/story/johnny-knoxvilles-last-rodeo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
