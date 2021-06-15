@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Coq mulls new name for programming language](https://www.theregister.com/2021/06/15/coq_programming_language_change/)
-- [Neural.love: An AI-powered HD portrait generator](https://neural.love/portraits)
 - [Usenix LISA2021 BPF Internals (eBPF)](http://www.brendangregg.com/blog/2021-06-15/bpf-internals.html)
 - [The Structure of Scientific Revolutions](https://www.uky.edu/~eushe2/Pajares/Kuhn.html)
 - [Cue, an open-source data validation language](https://cuelang.org/docs/about/)
+- [Fully Homomorphic Encryption (FHE)](https://github.com/google/fully-homomorphic-encryption)
 <!-- BLOG-POST-LIST:END -->
 
 ---
