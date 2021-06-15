@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gravitational Lensing by Spinning Black Holes in Astrophysics, and Interstellar](https://arxiv.org/abs/1502.03808)
-- [Why bugs might feel “impossible”](https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/)
-- [Andreessen Horowitz goes into publishing with Future](https://future.a16z.com/)
-- [Finish Your Stuff (2015)](https://250bpm.com/blog:50/)
-- [Critical entities targeted in suspected Chinese cyber spying](https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9)
+- [Richard Feynman’s Integral Trick](https://www.cantorsparadise.com/richard-feynmans-integral-trick-e7afae85e25c)
+- [A New Era for Mechanical CAD](https://queue.acm.org/detail.cfm?id=3469844)
+- [Next.js 11](https://nextjs.org/blog/next-11)
+- [Next.js Live: Code in the Browser with ESM, ServiceWorkers, Replicache, and WASM](http://nextjs.org/live)
+- [NIH Study Offers New Evidence of Early SARS-CoV-2 Infections in U.S.](https://www.nih.gov/news-events/news-releases/nih-study-offers-new-evidence-early-sars-cov-2-infections-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
