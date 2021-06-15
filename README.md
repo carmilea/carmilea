@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Reverie Labs (YC W18) Is Hiring an ML Lead in Cambridge, MA](https://jobs.lever.co/reverielabs/d4599250-a05d-4d31-9810-12330b3c73e5)
-- [Forzak: A website that curates high-quality educational content on the Internet](https://www.forzak.com)
-- [An open source note taking and to-do with synchronisation capabilities](https://joplinapp.org/)
-- [Show HN: Influence, a Go-inspired 1min board game](http://cintrest.com/influence/)
-- [Johnny Knoxville’s Last Rodeo](https://www.gq.com/story/johnny-knoxvilles-last-rodeo/)
+- [Forzak: A website that curates high-quality educational content](https://www.forzak.com)
+- [Southwest Airlines grounds its entire fleet amid giant computer outage](https://nypost.com/2021/06/15/southwest-airlines-grounds-all-flights-amid-computer-outage/)
+- [Joplin – an open source note taking and to-do application with synchronization](https://joplinapp.org/)
+- [Show HN: Influence, a Go-inspired 1-minute board game](http://cintrest.com/influence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
