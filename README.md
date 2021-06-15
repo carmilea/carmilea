@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Coq mulls new name for programming language](https://www.theregister.com/2021/06/15/coq_programming_language_change/)
-- [Usenix LISA2021 BPF Internals (eBPF)](http://www.brendangregg.com/blog/2021-06-15/bpf-internals.html)
-- [The Structure of Scientific Revolutions](https://www.uky.edu/~eushe2/Pajares/Kuhn.html)
-- [Cue, an open-source data validation language](https://cuelang.org/docs/about/)
-- [Fully Homomorphic Encryption (FHE)](https://github.com/google/fully-homomorphic-encryption)
+- [The Quiet Rise of E Ink Tablets – ReMarkable 2 vs. Onyx Boox Note Air](https://www.hanselman.com/blog/the-quiet-rise-of-e-ink-tablets-and-infinite-paper-note-takers-remarkable-2-vs-onyx-boox-note-air)
+- [The state of the Linux kernel security (2020)](https://github.com/ossf/wg-securing-critical-projects/blob/main/presentations/The_state_of_the_Linux_kernel_security.pdf)
+- [Science expressed in terms of what happens is getting in the way of progress](https://nautil.us/issue/102/hidden-truths/our-little-life-is-rounded-with-possibility)
+- [EU court backs national data watchdog powers in blow to Facebook, big tech](https://www.reuters.com/world/europe/top-eu-court-says-national-watchdogs-may-act-against-violations-blow-facebook-2021-06-15/)
+- [Show HN: Survey of 10k freelancers, their salaries, locations and tools](https://contra.com/freelance-industry-report-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
