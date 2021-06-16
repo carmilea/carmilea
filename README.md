@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Happens If an Astronaut Floats Off in Space?](https://www.popsci.com/technology/article/2013-09/what-happens-if-astronaut-floats-space/)
+- [Andreessen: Technology Saves the World](https://future.a16z.com/technology-saves-the-world/)
+- [Lethal Autonomous Weapons Exist; They Must Be Banned](https://spectrum.ieee.org/automaton/robotics/military-robots/lethal-autonomous-weapons-exist-they-must-be-banned)
+- [Launch HN: Svix (YC W21) – Webhooks as a Service](https://news.ycombinator.com/item?id=27528202)
 - [Thinking Like Transformers](https://arxiv.org/abs/2106.06981)
-- [Apple's iCloud+ “VPN”](https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html)
-- [Remora (YC W21) Is Hiring – help build carbon capture for semi trucks](https://www.ycombinator.com/companies/remora/jobs/REoUFte-strategy-operations)
-- [DuckDuckGo’s Quest to Prove Online Privacy Is Possible](https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/)
-- [A Visualization of Galactic Settlement](https://www.centauri-dreams.org/2021/06/14/a-visualization-of-galactic-settlement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
