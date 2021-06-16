@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Monetizing Stupid](https://www.contemporaryidiot.com/p/monetizing-stupid)
+- [4-Day Workweek Boosted Workers' Productivity by 40%, Microsoft Japan Says](https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40)
+- [The most copied StackOverflow snippet of all time is flawed (2019)](https://programming.guide/worlds-most-copied-so-snippet.html)
 - [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
 - [How to track users for analytics in a privacy-first, cookie-less future](https://www.narrator.ai/blog/how-to-track-users-for-analytics-in-a-privacy-first-cookie-less-future/)
-- [Today We’re Eating the Winners of the 1948 Chicken of Tomorrow Contest](https://modernfarmer.com/2014/05/today-eating-winners-1948-chicken-tomorrow-contest/)
-- [Why you should not use (f)lex, yacc and bison](https://tomassetti.me/why-you-should-not-use-flex-yacc-and-bison/)
-- [Facebook will start putting ads in Oculus Quest apps](https://www.theverge.com/2021/6/16/22535511/facebook-ads-oculus-quest-vr-apps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
