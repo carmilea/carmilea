@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are advertisers coming for your dreams?](https://www.sciencemag.org/news/2021/06/are-advertisers-coming-your-dreams)
 - [GitHub – nushell/nushell: A new type of shell](https://github.com/nushell/nushell)
 - [How to Be a Stoic (2016)](https://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic)
 - [Modulinos in Bash](https://blog.dnmfarrell.com/post/modulinos-in-bash/)
 - [Unreliability at Scale](https://blog.dshr.org/2021/06/unreliability-at-scale.html?m=1)
-- [EFF Browser Tracker Simulator](https://firstpartysimulator.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
