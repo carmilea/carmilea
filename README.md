@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Buy America Is Bad Law](https://www.niskanencenter.org/why-buy-america-is-bad-law/)
+- [Execute Docker Containers as QEMU MicroVMs](https://mergeboard.com/blog/2-qemu-microvm-docker/)
+- [Experts Weigh in on Pentagon UFO Report](https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/)
+- [Cryptanalysis of GPRS Encryption Algorithms GEA-1 suggest intentional weakness](https://eprint.iacr.org/2021/819)
+- [Tips to prevent adoption of your API](https://chrislukic.com/2021/06/16/techniques-to-prevent-adoption-of-your-api/)
 - [If you think Psychological Science is bad, imagine how bad it was in 1999](https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/)
-- [Julian Assange: The Man Who Knew Too Much](https://www.laprogressive.com/the-man-who-knew-too-much/)
-- [What Happens If an Astronaut Floats Off in Space? (2013)](https://www.popsci.com/technology/article/2013-09/what-happens-if-astronaut-floats-space/)
-- [Legal expert says Tether and Binance Coin (BNB) are likely picks for SEC lawsuit](https://cryptoslate.com/legal-expert-says-tether-and-binance-coin-bnb-are-likely-picks-for-sec-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
