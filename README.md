@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
+- [How to track users for analytics in a privacy-first, cookie-less future](https://www.narrator.ai/blog/how-to-track-users-for-analytics-in-a-privacy-first-cookie-less-future/)
+- [Today We’re Eating the Winners of the 1948 Chicken of Tomorrow Contest](https://modernfarmer.com/2014/05/today-eating-winners-1948-chicken-tomorrow-contest/)
+- [Why you should not use (f)lex, yacc and bison](https://tomassetti.me/why-you-should-not-use-flex-yacc-and-bison/)
 - [Facebook will start putting ads in Oculus Quest apps](https://www.theverge.com/2021/6/16/22535511/facebook-ads-oculus-quest-vr-apps)
-- [Wayfinder – a relaxing 'art game' in the browser](https://wayfinder.nfb.ca/)
-- [Zero-downtime schema migrations in Postgres using views](https://fabianlindfors.se/blog/schema-migrations-in-postgres/)
-- [Sponsored-By Proposal](https://blog.liw.fi/posts/2021/05/26/sponsored-by/)
-- [Mu's Neighborhood](http://akkartik.name/post/neighborhood)
 <!-- BLOG-POST-LIST:END -->
 
 ---
