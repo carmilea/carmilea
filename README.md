@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Want AI to Be Conscious?](https://nautil.us/issue/102/hidden-truths/do-you-want-ai-to-be-conscious)
-- [Code in ARM Assembly: Registers Explained](https://eclecticlight.co/2021/06/16/code-in-arm-assembly-registers-explained/)
-- [New browser signal could make cookie banners obsolete](https://www.dataprotectioncontrol.org/spec/)
-- [The mice that roared: how eight tiny countries took on foreign fishing fleets](https://www.theguardian.com/world/2021/jun/16/the-mice-that-roared-how-eight-tiny-countries-took-on-foreign-fishing-fleets)
-- [IBM unveils first quantum computer in Germany](https://www.dw.com/en/ibm-unveils-first-quantum-computer-in-germany/a-57909494)
+- [Apple's iCloud+ “VPN”](https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html)
+- [Remora (YC W21) Is Hiring – help build carbon capture for semi trucks](https://www.ycombinator.com/companies/remora/jobs/REoUFte-strategy-operations)
+- [A Visualization of Galactic Settlement](https://www.centauri-dreams.org/2021/06/14/a-visualization-of-galactic-settlement/)
+- [Illegal number – Represents information which is illegal to possess](https://en.wikipedia.org/wiki/Illegal_number)
+- [Lego Ideas Typewriter](https://www.lego.com/en-us/product/typewriter-21327?icmp=HP-SHH-Standard-ID_Hero_21327_Typewriter_Lifestyle_w_Product_HP-EX-ID-WDU6IDEUUU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
