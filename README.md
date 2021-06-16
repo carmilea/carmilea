@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens If an Astronaut Floats Off in Space?](https://www.popsci.com/technology/article/2013-09/what-happens-if-astronaut-floats-space/)
-- [Andreessen: Technology Saves the World](https://future.a16z.com/technology-saves-the-world/)
-- [Lethal Autonomous Weapons Exist; They Must Be Banned](https://spectrum.ieee.org/automaton/robotics/military-robots/lethal-autonomous-weapons-exist-they-must-be-banned)
-- [Launch HN: Svix (YC W21) – Webhooks as a Service](https://news.ycombinator.com/item?id=27528202)
-- [Thinking Like Transformers](https://arxiv.org/abs/2106.06981)
+- [Why Buy America Is Bad Law](https://www.niskanencenter.org/why-buy-america-is-bad-law/)
+- [If you think Psychological Science is bad, imagine how bad it was in 1999](https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/)
+- [Julian Assange: The Man Who Knew Too Much](https://www.laprogressive.com/the-man-who-knew-too-much/)
+- [What Happens If an Astronaut Floats Off in Space? (2013)](https://www.popsci.com/technology/article/2013-09/what-happens-if-astronaut-floats-space/)
+- [Legal expert says Tether and Binance Coin (BNB) are likely picks for SEC lawsuit](https://cryptoslate.com/legal-expert-says-tether-and-binance-coin-bnb-are-likely-picks-for-sec-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
