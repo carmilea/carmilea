@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Six Charged in Silicon Valley Insider Trading Ring](https://www.sec.gov/news/press-release/2021-103)
+- [Lina Khan: The 32-year-old taking on Big Tech](https://www.bbc.com/news/technology-57501579)
+- [A transistorized shift register box, built in 1965 for Apollo testing](https://www.righto.com/2021/06/inside-transistorized-shift-register.html)
+- [Six charged in Silicon Valley insider trading ring](https://www.sec.gov/news/press-release/2021-103)
 - [Flowdash (YC W20) is hiring engineers to help teams build internal tools faster](https://flowdash.com/careers/software-engineer)
-- [Cristiano Ronaldo snub wipes billions off Coca-Cola’s market value](https://www.theguardian.com/football/2021/jun/16/cristiano-ronaldo-snubs-coca-cola-billions-wiped-off-drink-giants-market-value)
-- [Execute Docker Containers as QEMU MicroVMs](https://mergeboard.com/blog/2-qemu-microvm-docker/)
-- [Cryptanalysis of GPRS Encryption Algorithms GEA-1 suggest intentional weakness](https://eprint.iacr.org/2021/819)
+- [Kids Need Freedom, Too](https://www.persuasion.community/p/kids-need-freedom-too)
 <!-- BLOG-POST-LIST:END -->
 
 ---
