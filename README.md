@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Be a Stoic](https://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic)
+- [GitHub – nushell/nushell: A new type of shell](https://github.com/nushell/nushell)
+- [How to Be a Stoic (2016)](https://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic)
 - [Modulinos in Bash](https://blog.dnmfarrell.com/post/modulinos-in-bash/)
 - [Unreliability at Scale](https://blog.dshr.org/2021/06/unreliability-at-scale.html?m=1)
-- [Amazon S3 quietly deprecates BitTorrent support](https://github.com/awsdocs/amazon-s3-userguide/commit/0d1759880ccb1818ab0f14129ba1321c519d2ac1)
 - [EFF Browser Tracker Simulator](https://firstpartysimulator.org/)
 <!-- BLOG-POST-LIST:END -->
 
