@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Shortage of air conditioner parts expected this summer](https://www.kswo.com/2021/05/28/shortage-of-air-conditioner-parts-expected-this-summer/)
+- [EFF Browser Tracker Simulator](https://firstpartysimulator.org/)
 - [Fsspec: Filesystem Interfaces for Python](https://filesystem-spec.readthedocs.io/en/latest/index.html)
 - [Lina Khan, Big Tech Critic, Will Lead the FTC](https://www.npr.org/2021/06/15/1006807299/lina-khan-prominent-big-tech-critic-will-lead-the-ftc)
 - [Reverie Labs (YC W18) Is Hiring an ML Lead in Cambridge, MA](https://jobs.lever.co/reverielabs/d4599250-a05d-4d31-9810-12330b3c73e5)
-- [Southwest Airlines grounds its entire fleet amid giant computer outage](https://nypost.com/2021/06/15/southwest-airlines-grounds-all-flights-amid-computer-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
