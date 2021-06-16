@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thinking Like Transformers](https://arxiv.org/abs/2106.06981)
 - [Apple's iCloud+ “VPN”](https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html)
 - [Remora (YC W21) Is Hiring – help build carbon capture for semi trucks](https://www.ycombinator.com/companies/remora/jobs/REoUFte-strategy-operations)
+- [DuckDuckGo’s Quest to Prove Online Privacy Is Possible](https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/)
 - [A Visualization of Galactic Settlement](https://www.centauri-dreams.org/2021/06/14/a-visualization-of-galactic-settlement/)
-- [Illegal number – Represents information which is illegal to possess](https://en.wikipedia.org/wiki/Illegal_number)
-- [Lego Ideas Typewriter](https://www.lego.com/en-us/product/typewriter-21327?icmp=HP-SHH-Standard-ID_Hero_21327_Typewriter_Lifestyle_w_Product_HP-EX-ID-WDU6IDEUUU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
