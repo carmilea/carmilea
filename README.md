@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Six Charged in Silicon Valley Insider Trading Ring](https://www.sec.gov/news/press-release/2021-103)
+- [Flowdash (YC W20) is hiring engineers to help teams build internal tools faster](https://flowdash.com/careers/software-engineer)
+- [Cristiano Ronaldo snub wipes billions off Coca-Cola’s market value](https://www.theguardian.com/football/2021/jun/16/cristiano-ronaldo-snubs-coca-cola-billions-wiped-off-drink-giants-market-value)
 - [Execute Docker Containers as QEMU MicroVMs](https://mergeboard.com/blog/2-qemu-microvm-docker/)
-- [Experts Weigh in on Pentagon UFO Report](https://www.scientificamerican.com/article/experts-weigh-in-on-pentagon-ufo-report/)
 - [Cryptanalysis of GPRS Encryption Algorithms GEA-1 suggest intentional weakness](https://eprint.iacr.org/2021/819)
-- [Tips to prevent adoption of your API](https://chrislukic.com/2021/06/16/techniques-to-prevent-adoption-of-your-api/)
-- [If you think Psychological Science is bad, imagine how bad it was in 1999](https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
