@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Do You Want AI to Be Conscious?](https://nautil.us/issue/102/hidden-truths/do-you-want-ai-to-be-conscious)
 - [Code in ARM Assembly: Registers Explained](https://eclecticlight.co/2021/06/16/code-in-arm-assembly-registers-explained/)
 - [New browser signal could make cookie banners obsolete](https://www.dataprotectioncontrol.org/spec/)
 - [The mice that roared: how eight tiny countries took on foreign fishing fleets](https://www.theguardian.com/world/2021/jun/16/the-mice-that-roared-how-eight-tiny-countries-took-on-foreign-fishing-fleets)
 - [IBM unveils first quantum computer in Germany](https://www.dw.com/en/ibm-unveils-first-quantum-computer-in-germany/a-57909494)
-- [Researchers fear a scenario in which smart speakers feed sleepers subliminal ads](https://www.sciencemag.org/news/2021/06/are-advertisers-coming-your-dreams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
