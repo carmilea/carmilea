@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lina Khan: The 32-year-old taking on Big Tech](https://www.bbc.com/news/technology-57501579)
-- [A transistorized shift register box, built in 1965 for Apollo testing](https://www.righto.com/2021/06/inside-transistorized-shift-register.html)
-- [Six charged in Silicon Valley insider trading ring](https://www.sec.gov/news/press-release/2021-103)
-- [Flowdash (YC W20) is hiring engineers to help teams build internal tools faster](https://flowdash.com/careers/software-engineer)
-- [Kids Need Freedom, Too](https://www.persuasion.community/p/kids-need-freedom-too)
+- [Wayfinder – a relaxing 'art game' in the browser](https://wayfinder.nfb.ca/)
+- [Zero-downtime schema migrations in Postgres using views](https://fabianlindfors.se/blog/schema-migrations-in-postgres/)
+- [Sponsored-By Proposal](https://blog.liw.fi/posts/2021/05/26/sponsored-by/)
+- [Mu's Neighborhood](http://akkartik.name/post/neighborhood)
+- [Matthew Butterick: Why I no longer contribute to Racket](https://beautifulracket.com/appendix/why-i-no-longer-contribute-to-racket.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
