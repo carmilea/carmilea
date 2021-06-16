@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are advertisers coming for your dreams?](https://www.sciencemag.org/news/2021/06/are-advertisers-coming-your-dreams)
+- [Google Messages end-to-end encryption is now out of beta](https://9to5google.com/2021/06/15/google-messages-encryption/)
+- [Researchers fear a scenario in which smart speakers feed sleepers subliminal ads](https://www.sciencemag.org/news/2021/06/are-advertisers-coming-your-dreams)
 - [GitHub – nushell/nushell: A new type of shell](https://github.com/nushell/nushell)
 - [How to Be a Stoic (2016)](https://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic)
 - [Modulinos in Bash](https://blog.dnmfarrell.com/post/modulinos-in-bash/)
-- [Unreliability at Scale](https://blog.dshr.org/2021/06/unreliability-at-scale.html?m=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
