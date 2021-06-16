@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook will start putting ads in Oculus Quest apps](https://www.theverge.com/2021/6/16/22535511/facebook-ads-oculus-quest-vr-apps)
 - [Wayfinder – a relaxing 'art game' in the browser](https://wayfinder.nfb.ca/)
 - [Zero-downtime schema migrations in Postgres using views](https://fabianlindfors.se/blog/schema-migrations-in-postgres/)
 - [Sponsored-By Proposal](https://blog.liw.fi/posts/2021/05/26/sponsored-by/)
 - [Mu's Neighborhood](http://akkartik.name/post/neighborhood)
-- [Matthew Butterick: Why I no longer contribute to Racket](https://beautifulracket.com/appendix/why-i-no-longer-contribute-to-racket.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
