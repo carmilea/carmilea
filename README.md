@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [China Launches First Crew to Live on New Space Station](https://www.npr.org/2021/06/17/1007471106/china-launches-first-crew-to-live-on-new-space-station)
 - [The evolution of Smalltalk: from Smalltalk-72 through Squeak](https://dl.acm.org/doi/10.1145/3386335)
-- [Cool URIs don't change. (1998)](https://www.w3.org/Provider/Style/URI.html)
+- [Cool URIs don't change (1998)](https://www.w3.org/Provider/Style/URI.html)
 - [Python compiler written in Python to make standalone executables](https://github.com/Nuitka/Nuitka)
 - [How I Automated My Dotfiles Screenshots](https://blog.albingroen.com/posts/how-i-automated-my-dotfiles-screenshots)
-- [Microsoft Ubuntu repositories are broken because of space issues](https://github.com/dotnet/core/issues/6381)
 <!-- BLOG-POST-LIST:END -->
 
 ---
