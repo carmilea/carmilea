@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Typed Pipes in Every Shell](http://joeyh.name/blog/entry/typed_pipes_in_every_shell/)
-- [Stripe Terminal](https://stripe.com/terminal)
 - [A bare metal physical implementation of WASM. That's right, a WebAssembly CPU](https://github.com/lastmjs/wasm-metal)
 - [Improv Wi-Fi: Open Standard for Setting Up Wi-Fi via Bluetooth LE](https://www.improv-wifi.com/)
 - [Representing SHA-256 Hashes as Avatars](https://francoisbest.com/posts/2021/hashvatars)
+- [Stripe Reader](https://stripe.com/terminal/stripe-reader)
 <!-- BLOG-POST-LIST:END -->
 
 ---
