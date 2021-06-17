@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Audio API Is a W3C Recommendation](https://www.w3.org/blog/news/archives/9093)
+- [Exploring performance differences between Amazon Aurora and vanilla MySQL](https://plaid.com/blog/exploring-performance-differences-between-amazon-aurora-and-vanilla-mysql)
 - [Notion pulled itself back from the brink of failure (2019)](https://www.figma.com/blog/design-on-a-deadline-how-notion-pulled-itself-back-from-the-brink-of-failure/)
 - [Io_uring is not an event system](https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/)
 - [Rust 1.53](https://blog.rust-lang.org/2021/06/17/Rust-1.53.0.html)
-- [Nuclear energy: Fusion plant backed by Jeff Bezos to be built in UK](https://www.bbc.co.uk/news/science-environment-57512229)
-- [Cariboulabs/cariboulite – turn any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR](https://github.com/cariboulabs/cariboulite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
