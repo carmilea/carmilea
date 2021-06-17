@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [World Bank rejects El Salvador request for Bitcoin help](https://www.bbc.com/news/business-57507386)
+- [Show HN: GraphCDN, the GraphQL CDN with edge caching and analytics](https://graphcdn.io/blog/announcing-graphcdn)
+- [CureVac fails in pivotal Covid-19 vaccine trial with 47% efficacy](https://www.reuters.com/business/healthcare-pharmaceuticals/curevacs-covid-19-vaccine-misses-efficacy-goal-mass-trial-2021-06-16/)
 - [A Hole in the Head: A History of Trepanation](https://thereader.mitpress.mit.edu/hole-in-the-head-trepanation/)
+- [Saudi Arabia executes Mustafa al-Darwish for teenage protests](https://reprieve.org/uk/2021/06/15/saudi-arabia-executes-mustafa-al-darwish-for-teenage-protests/)
 - [A bare metal physical implementation of WASM. That's right, a WebAssembly CPU](https://github.com/lastmjs/wasm-metal)
-- [Improv Wi-Fi: Open Standard for Setting Up Wi-Fi via Bluetooth LE](https://www.improv-wifi.com/)
-- [Representing SHA-256 Hashes as Avatars](https://francoisbest.com/posts/2021/hashvatars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
