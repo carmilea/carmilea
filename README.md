@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Biochemical Pathway Maps](http://biochemical-pathways.com)
+- [Apology](https://felleisen.org/matthias/Thoughts/Apology.html)
 - [Draftbit (YC W18) Is Hiring Senior Engineers (Reason, React Native, GraphQL)](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
 - [On Depression and Founders](https://startupstrats.substack.com/p/dont-kill-yourself)
 - [Organicmaps: Android and iOS offline maps app for travelers, tourists, hikers](https://github.com/organicmaps/organicmaps)
-- [U.S. Fed accepts $756B in daily reverse repo operation](https://www.reuters.com/article/usa-fed-reverse-repo/u-s-fed-accepts-755-8-bln-in-daily-reverse-repo-operation-ny-fed-idUSAQN04ASM9)
-- [Six ways to make async Rust easier](https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
