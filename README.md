@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Seattle man died by suicide as a result of cop’s lie, mom says in new lawsuit](https://www.idahostatesman.com/news/nation-world/national/article252166193.html)
-- [Amaya](https://www.w3.org/Amaya/)
-- [How to Become a Bad Developer](https://rafaelquintanilha.com/how-to-become-a-bad-developer/)
-- [In Argentina, cheap government-issued netbooks sparked a musical Renaissance](https://restofworld.org/2021/argentina-netbooks-music/)
-- [V0.16 – Gleam Compiles to JavaScript](https://gleam.run/news/v0.16-gleam-compiles-to-javascript/)
+- [Notion pulled itself back from the brink of failure (2019)](https://www.figma.com/blog/design-on-a-deadline-how-notion-pulled-itself-back-from-the-brink-of-failure/)
+- [Io_uring is not an event system](https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/)
+- [Rust 1.53](https://blog.rust-lang.org/2021/06/17/Rust-1.53.0.html)
+- [Nuclear energy: Fusion plant backed by Jeff Bezos to be built in UK](https://www.bbc.co.uk/news/science-environment-57512229)
+- [Cariboulabs/cariboulite – turn any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR](https://github.com/cariboulabs/cariboulite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
