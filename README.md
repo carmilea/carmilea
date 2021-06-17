@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Fed accepts $755.8 bln in daily reverse repo operation](https://www.reuters.com/article/usa-fed-reverse-repo/u-s-fed-accepts-755-8-bln-in-daily-reverse-repo-operation-ny-fed-idUSAQN04ASM9)
+- [I will never not talk about my depression](https://annaschueth.com/?p=428)
 - [After 50 Years of the War on Drugs, 'What Good Is It Doing for Us?'](https://text.npr.org/1006495476)
+- [50 Years of Text Games – CMU's Oz Project (1994)](https://if50.substack.com/p/1994-the-playground)
 - [The Hair Dryer Incident (2014)](http://quotulatiousness.ca/blog/2016/02/02/qotd-the-hair-dryer-incident/)
-- [ProPhone (YC W21) Is Hiring](https://www.ycombinator.com/companies/prophone/jobs/oYuOf4R-senior-backend-software-engineer)
-- [Rethinking Triplebyte](https://triplebyte.com/blog/rethinking-triplebyte)
-- [Amazon will reduce dev. revenue cut from 30% to 20% and give 10% in AWS Credit](https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
