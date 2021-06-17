@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After 50 Years of the War on Drugs, 'What Good Is It Doing for Us?'](https://text.npr.org/1006495476)
+- [The Hair Dryer Incident (2014)](http://quotulatiousness.ca/blog/2016/02/02/qotd-the-hair-dryer-incident/)
 - [ProPhone (YC W21) Is Hiring](https://www.ycombinator.com/companies/prophone/jobs/oYuOf4R-senior-backend-software-engineer)
 - [Rethinking Triplebyte](https://triplebyte.com/blog/rethinking-triplebyte)
-- [Stay Away from Cloudflare (2017)](https://unixsheikh.com/articles/stay-away-from-cloudflare.html)
 - [Amazon will reduce dev. revenue cut from 30% to 20% and give 10% in AWS Credit](https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/)
-- [Neo4j raises $325M series F](https://neo4j.com/press-releases/neo4j-announces-seriesf-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
