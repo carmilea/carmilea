@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sutra Fitness (YC S20) Is Hiring React Native and Full-Stack Engineers](https://www.ycombinator.com/companies/sutra/jobs/Y3rBCiZ-react-native-engineer)
+- [Criminals are mailing hacked Ledger devices to steal cryptocurrency](https://www.bleepingcomputer.com/news/cryptocurrency/criminals-are-mailing-hacked-ledger-devices-to-steal-cryptocurrency/)
+- [Another morning without Internet in Syria because of exams](https://twitter.com/jgrahamc/status/1405487207377522696)
+- [Don’t Worry about CO2, Worry about the Earth’s ‘Energy Balance’](https://www.scientificamerican.com/article/dont-worry-about-co2-worry-about-the-earths-energy-balance/)
 - [China Launches First Crew to Live on New Space Station](https://www.npr.org/2021/06/17/1007471106/china-launches-first-crew-to-live-on-new-space-station)
-- [The evolution of Smalltalk: from Smalltalk-72 through Squeak](https://dl.acm.org/doi/10.1145/3386335)
-- [Cool URIs don't change (1998)](https://www.w3.org/Provider/Style/URI.html)
-- [Python compiler written in Python to make standalone executables](https://github.com/Nuitka/Nuitka)
-- [How I Automated My Dotfiles Screenshots](https://blog.albingroen.com/posts/how-i-automated-my-dotfiles-screenshots)
 <!-- BLOG-POST-LIST:END -->
 
 ---
