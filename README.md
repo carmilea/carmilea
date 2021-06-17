@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Biochemical Pathway Maps](http://biochemical-pathways.com)
-- [Apology](https://felleisen.org/matthias/Thoughts/Apology.html)
+- [25 Micro-Habits of Effective Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers)
 - [Draftbit (YC W18) Is Hiring Senior Engineers (Reason, React Native, GraphQL)](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
 - [On Depression and Founders](https://startupstrats.substack.com/p/dont-kill-yourself)
 - [Organicmaps: Android and iOS offline maps app for travelers, tourists, hikers](https://github.com/organicmaps/organicmaps)
