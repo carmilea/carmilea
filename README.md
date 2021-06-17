@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Audio API Is a W3C Recommendation](https://www.w3.org/blog/news/archives/9093)
-- [Exploring performance differences between Amazon Aurora and vanilla MySQL](https://plaid.com/blog/exploring-performance-differences-between-amazon-aurora-and-vanilla-mysql)
-- [Notion pulled itself back from the brink of failure (2019)](https://www.figma.com/blog/design-on-a-deadline-how-notion-pulled-itself-back-from-the-brink-of-failure/)
-- [Io_uring is not an event system](https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/)
-- [Rust 1.53](https://blog.rust-lang.org/2021/06/17/Rust-1.53.0.html)
+- [ProPhone (YC W21) Is Hiring](https://www.ycombinator.com/companies/prophone/jobs/oYuOf4R-senior-backend-software-engineer)
+- [Rethinking Triplebyte](https://triplebyte.com/blog/rethinking-triplebyte)
+- [Stay Away from Cloudflare (2017)](https://unixsheikh.com/articles/stay-away-from-cloudflare.html)
+- [Amazon will reduce dev. revenue cut from 30% to 20% and give 10% in AWS Credit](https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/)
+- [Neo4j raises $325M series F](https://neo4j.com/press-releases/neo4j-announces-seriesf-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
