@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe Terminal](https://stripe.com/terminal)
 - [Representing SHA-256 Hashes as Avatars](https://francoisbest.com/posts/2021/hashvatars)
+- [How to Boost Self Esteem and Stop Procrastinating](https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination)
 - [4-day workweek boosted workers' productivity by 40%, Microsoft Japan says](https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40)
 - [The most copied StackOverflow snippet of all time is flawed (2019)](https://programming.guide/worlds-most-copied-so-snippet.html)
-- [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
-- [Open source HIPAA compliance benchmark for AWS](https://github.com/turbot/steampipe-mod-aws-compliance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
