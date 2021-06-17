@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ohio Republicans close to imposing near-total ban on municipal broadband](https://arstechnica.com/tech-policy/2021/06/ohio-republicans-close-to-imposing-near-total-ban-on-municipal-broadband/)
-- [Sutra Fitness (YC S20) Is Hiring React Native and Full-Stack Engineers](https://www.ycombinator.com/companies/sutra/jobs/Y3rBCiZ-react-native-engineer)
-- [Is the Universe Open-Ended? An intriguing proposal about what makes reality tick](https://nautil.us/issue/102/hidden-truths/is-the-universe-open_ended)
-- [Criminals are mailing hacked Ledger devices to steal cryptocurrency](https://www.bleepingcomputer.com/news/cryptocurrency/criminals-are-mailing-hacked-ledger-devices-to-steal-cryptocurrency/)
-- [Another morning without Internet in Syria because of exams](https://twitter.com/jgrahamc/status/1405487207377522696)
+- [Seattle man died by suicide as a result of cop’s lie, mom says in new lawsuit](https://www.idahostatesman.com/news/nation-world/national/article252166193.html)
+- [Amaya](https://www.w3.org/Amaya/)
+- [How to Become a Bad Developer](https://rafaelquintanilha.com/how-to-become-a-bad-developer/)
+- [In Argentina, cheap government-issued netbooks sparked a musical Renaissance](https://restofworld.org/2021/argentina-netbooks-music/)
+- [V0.16 – Gleam Compiles to JavaScript](https://gleam.run/news/v0.16-gleam-compiles-to-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
