@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The evolution of Smalltalk: from Smalltalk-72 through Squeak](https://dl.acm.org/doi/10.1145/3386335)
+- [Cool URIs don't change. (1998)](https://www.w3.org/Provider/Style/URI.html)
+- [Python compiler written in Python to make standalone executables](https://github.com/Nuitka/Nuitka)
+- [How I Automated My Dotfiles Screenshots](https://blog.albingroen.com/posts/how-i-automated-my-dotfiles-screenshots)
 - [Microsoft Ubuntu repositories are broken because of space issues](https://github.com/dotnet/core/issues/6381)
-- [PHP has been removed in macOS Monterey](https://developer.apple.com/forums/thread/681907)
-- [1931: Kurt Gödel shows limits of math, logic, computing, AI](https://people.idsia.ch/~juergen/goedel-1931-founder-theoretical-computer-science-AI.html)
-- [Show HN: GraphCDN, the GraphQL CDN with edge caching and analytics](https://graphcdn.io/blog/announcing-graphcdn)
-- [CureVac fails in pivotal Covid-19 vaccine trial with 47% efficacy](https://www.reuters.com/business/healthcare-pharmaceuticals/curevacs-covid-19-vaccine-misses-efficacy-goal-mass-trial-2021-06-16/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
