@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BBC Programme Index: 9M listings and 221k playable programmes](https://genome.ch.bbc.co.uk/)
+- [Fly Straight, Dammit (2019)](http://www.petecorey.com/blog/2019/08/12/fly-straight-dammit/)
+- [Ask HN: What does an ML Engineer do?](https://news.ycombinator.com/item?id=27555013)
 - [EasyPost is building the logistics platform for ecommerce](https://www.easypost.com/careers)
 - [Vespucci – OpenStreetMap Editor for Android](http://vespucci.io/)
-- [SNES – Super Mario World Widescreen](https://github.com/VitorVilela7/wide-snes)
-- [I Know the Secret to the Quiet Mind. I Wish I’d Never Learned It](https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/)
-- [Can programming be liberated from the von Neumann style? (1978)](https://dl.acm.org/doi/10.1145/359576.359579)
 <!-- BLOG-POST-LIST:END -->
 
 ---
