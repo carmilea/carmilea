@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Antikernel: A Decentralized Secure Operating System Architecture (2016) [pdf]](https://eprint.iacr.org/2016/550.pdf)
-- [Jackal 0.54.1 – Go XMPP Server](https://github.com/ortuman/jackal/releases/tag/v0.54.1)
-- [.NET 6 Preview 5](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-5/)
-- [Launch HN: Hedgehog (YC S21) – Cryptocurrency Portfolio Manager](https://news.ycombinator.com/item?id=27550255)
-- [TikTok owner ByteDance sees its earnings double in 2020](https://www.bbc.com/news/business-57522368)
+- [There are at least 10 different Microsoft design conventions in Windows 11](https://www.reddit.com/r/Windows11/comments/o2a0kp/there_are_at_least_10_different_microsoft_design/)
+- [Can *YOU* blow a PC speaker using only a Linux kernel driver?](https://nakedsecurity.sophos.com/2021/06/18/can-you-blow-a-pc-speaker-using-only-a-linux-kernel-driver/)
+- [80% of orgs that paid the ransom were hit again](https://venturebeat.com/2021/06/16/cybereason-80-of-orgs-that-paid-the-ransom-were-hit-again/)
+- [SoloSuit (YC W21) Is Hiring](https://www.ycombinator.com/companies/solosuit/jobs/N3UOV8i-experienced-software-engineer)
+- [Binary Golf Grand Prix 2021](https://n0.lol/bggp/2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
