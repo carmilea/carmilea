@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Etleap (YC W13) Is Hiring a VP of Product Marketing](https://news.ycombinator.com/item?id=27546244)
-- [HBO Max accidentally sent a Integration Test email to all subscribers](https://twitter.com/internetofshit/status/1405682888545349635)
+- [HK's Apple Daily raided by 500 officers over national security law](https://www.reuters.com/world/asia-pacific/hong-kongs-apple-daily-newspaper-says-police-arrest-five-directors-2021-06-16)
+- [HBO Max accidentally sent a Integration Test email to many people](https://twitter.com/internetofshit/status/1405682888545349635)
 - [Ring provided 100 LAPD officers with free devices to influence adoption](https://www.latimes.com/business/technology/story/2021-06-17/ring-influencer-marketing-los-angeles-police-department)
 - [The Document Culture of Amazon](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
-- [Biochemical Pathway Maps](http://biochemical-pathways.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
