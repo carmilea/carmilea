@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Antikernel: A Decentralized Secure Operating System Architecture (2016) [pdf]](https://eprint.iacr.org/2016/550.pdf)
+- [Jackal 0.54.1 – Go XMPP Server](https://github.com/ortuman/jackal/releases/tag/v0.54.1)
+- [.NET 6 Preview 5](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-5/)
 - [Launch HN: Hedgehog (YC S21) – Cryptocurrency Portfolio Manager](https://news.ycombinator.com/item?id=27550255)
 - [TikTok owner ByteDance sees its earnings double in 2020](https://www.bbc.com/news/business-57522368)
-- [Multiple local news stations say the same thing verbatim [video]](https://www.youtube.com/watch?v=ksb3KD6DfSI)
-- [Amazon’s Staggering HR Failures](https://amazonchronicles.substack.com/p/amazons-staggering-hr-failures)
-- [Coreutils Gotchas (2015)](https://www.pixelbeat.org/docs/coreutils-gotchas.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
