@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Exposing Tether](https://www.youtube.com/watch?v=-whuXHSL1Pg)
-- [Nuclear Power at McMurdo Station, Antarctica](http://large.stanford.edu/courses/2014/ph241/reid2/)
-- [Webiny (YC W21) Is Hiring: 4x JavaScript Engineers and 1x DevRel [Remote] [Full-Time]](https://news.ycombinator.com/item?id=27549459)
-- [Stride Game Engine](https://stride3d.net/download/)
-- [StreetComplete: Easy to use editor of OpenStreetMap data](https://github.com/streetcomplete/StreetComplete)
+- [Coreutils Gotchas (2015)](https://www.pixelbeat.org/docs/coreutils-gotchas.html)
+- [Oregon Has Legalized Human Composting](https://www.vice.com/en/article/z3xz3j/oregon-has-legalized-human-composting)
+- [Brave, the false sensation of privacy](http://ebin.city/%7Ewerwolf/posts/brave-is-shit/)
+- [Removed by Reddit](https://old.reddit.com/r/pics/comments/o2d4fc/removed_by_reddit/)
+- [Exposing Tether [video]](https://www.youtube.com/watch?v=-whuXHSL1Pg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
