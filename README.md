@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Instant realtime GraphQL with built-in authorization for SQL Server](https://github.com/hasura/graphql-engine/blob/master/architecture/sql-server.md)
-- [TDD from the Factorio Team](https://factorio.com/blog/post/fff-366)
-- [Commodore 64 and Raspberry Pi 4 = Synth6581](https://www.raspberrypi.org/blog/commodore-64-raspberry-pi-4-synth6581/)
-- [Orange Health (YC S20) Is Hiring Sr Product Managers in Bangalore](https://www.orangehealth.in/jobs/sr.-product-manager-%2F-product-owner)
-- [There is no “us” in team](https://www.sicpers.info/2021/06/there-is-no-us-in-team/)
+- [Exposing Tether](https://www.youtube.com/watch?v=-whuXHSL1Pg)
+- [Nuclear Power at McMurdo Station, Antarctica](http://large.stanford.edu/courses/2014/ph241/reid2/)
+- [Webiny (YC W21) Is Hiring: 4x JavaScript Engineers and 1x DevRel [Remote] [Full-Time]](https://news.ycombinator.com/item?id=27549459)
+- [Stride Game Engine](https://stride3d.net/download/)
+- [StreetComplete: Easy to use editor of OpenStreetMap data](https://github.com/streetcomplete/StreetComplete)
 <!-- BLOG-POST-LIST:END -->
 
 ---
