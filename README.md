@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What's Happened to the National Trust](https://andrewhowells.substack.com/p/whats-happened-to-the-national-trust)
 - [Orange Health (YC S20) Is Hiring Sr Product Managers in Bangalore](https://www.orangehealth.in/jobs/sr.-product-manager-%2F-product-owner)
 - [Thirty Tesla crashes linked to assisted driving system under investigation in US](https://www.theguardian.com/technology/2021/jun/18/thirty-tesla-crashes-linked-to-assisted-driving-system-under-investigation-in-us)
 - [There is no “us” in team](https://www.sicpers.info/2021/06/there-is-no-us-in-team/)
 - [Designing a URL-based query syntax for GraphQL](https://blog.logrocket.com/designing-url-based-query-syntax-graphql/)
-- [DenoDB](https://github.com/eveningkid/denodb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
