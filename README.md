@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit forces me to use their app to view posted content and comments](https://twitter.com/stevenhubertron/status/1405956220976910339)
-- [Mars Helicopter Employs Advanced Control Techniques to Survive In-Flight Anomaly](https://control.com/news/mars-helicopter-employs-advanced-control-techniques-to-survive-an-in-flight-anomaly/)
-- [Scientists Are Teaching Drones to Hunt Down Human Screams](https://www.washingtonpost.com/technology/2021/06/17/drone-human-screams/)
-- [AMD vs. Intel CPU Market Share](https://www.cpubenchmark.net/market_share.html)
-- [“Thermal Shutdown” – Heat Wave Knocks Beta Starlink Users Offline](https://www.zerohedge.com/technology/thermal-shutdown-heat-wave-knocks-beta-starlink-users-offline)
+- [EasyPost is building the logistics platform for ecommerce](https://www.easypost.com/careers)
+- [Vespucci – OpenStreetMap Editor for Android](http://vespucci.io/)
+- [SNES – Super Mario World Widescreen](https://github.com/VitorVilela7/wide-snes)
+- [I Know the Secret to the Quiet Mind. I Wish I’d Never Learned It](https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/)
+- [Can programming be liberated from the von Neumann style? (1978)](https://dl.acm.org/doi/10.1145/359576.359579)
 <!-- BLOG-POST-LIST:END -->
 
 ---
