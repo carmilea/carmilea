@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Hedgehog (YC S21) – Cryptocurrency Portfolio Manager](https://news.ycombinator.com/item?id=27550255)
+- [TikTok owner ByteDance sees its earnings double in 2020](https://www.bbc.com/news/business-57522368)
+- [Multiple local news stations say the same thing verbatim [video]](https://www.youtube.com/watch?v=ksb3KD6DfSI)
+- [Amazon’s Staggering HR Failures](https://amazonchronicles.substack.com/p/amazons-staggering-hr-failures)
 - [Coreutils Gotchas (2015)](https://www.pixelbeat.org/docs/coreutils-gotchas.html)
-- [Oregon Has Legalized Human Composting](https://www.vice.com/en/article/z3xz3j/oregon-has-legalized-human-composting)
-- [Brave, the false sensation of privacy](http://ebin.city/%7Ewerwolf/posts/brave-is-shit/)
-- [Removed by Reddit](https://old.reddit.com/r/pics/comments/o2d4fc/removed_by_reddit/)
-- [Exposing Tether [video]](https://www.youtube.com/watch?v=-whuXHSL1Pg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
