@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Etleap (YC W13) Is Hiring a VP of Product Marketing](https://news.ycombinator.com/item?id=27546244)
+- [HBO Max accidentally sent a Integration Test email to all subscribers](https://twitter.com/internetofshit/status/1405682888545349635)
+- [Ring provided 100 LAPD officers with free devices to influence adoption](https://www.latimes.com/business/technology/story/2021-06-17/ring-influencer-marketing-los-angeles-police-department)
+- [The Document Culture of Amazon](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
 - [Biochemical Pathway Maps](http://biochemical-pathways.com)
-- [25 Micro-Habits of Effective Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers)
-- [Draftbit (YC W18) Is Hiring Senior Engineers (Reason, React Native, GraphQL)](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
-- [On Depression and Founders](https://startupstrats.substack.com/p/dont-kill-yourself)
-- [Organicmaps: Android and iOS offline maps app for travelers, tourists, hikers](https://github.com/organicmaps/organicmaps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
