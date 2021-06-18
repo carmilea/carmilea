@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello, World! Welcome to the Offbeat Computation Club!](https://offbeat.cc/blog/hello-world.html)
 - [DenoDB](https://deno.land/x/denodb@v1.0.38)
 - [Etleap (YC W13) Is Hiring a VP of Product Marketing](https://news.ycombinator.com/item?id=27546244)
 - [HK's Apple Daily raided by 500 officers over national security law](https://www.reuters.com/world/asia-pacific/hong-kongs-apple-daily-newspaper-says-police-arrest-five-directors-2021-06-16)
 - [HBO Max accidentally sent a Integration Test email to many people](https://twitter.com/internetofshit/status/1405682888545349635)
-- [The Document Culture of Amazon](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
