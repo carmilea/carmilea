@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello, World! Welcome to the Offbeat Computation Club!](https://offbeat.cc/blog/hello-world.html)
+- [Thirty Tesla crashes linked to assisted driving system under investigation in US](https://www.theguardian.com/technology/2021/jun/18/thirty-tesla-crashes-linked-to-assisted-driving-system-under-investigation-in-us)
+- [There is no “us” in team](https://www.sicpers.info/2021/06/there-is-no-us-in-team/)
 - [DenoDB](https://github.com/eveningkid/denodb)
 - [Etleap (YC W13) Is Hiring a VP of Product Marketing](https://news.ycombinator.com/item?id=27546244)
 - [HK's Apple Daily raided by 500 officers over national security law](https://www.reuters.com/world/asia-pacific/hong-kongs-apple-daily-newspaper-says-police-arrest-five-directors-2021-06-16)
-- [HBO Max accidentally sent a Integration Test email to many people](https://twitter.com/internetofshit/status/1405682888545349635)
 <!-- BLOG-POST-LIST:END -->
 
 ---
