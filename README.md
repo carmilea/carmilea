@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Thermal Shutdown” – Heat Wave Knocks Beta Starlink Users Offline](https://www.zerohedge.com/technology/thermal-shutdown-heat-wave-knocks-beta-starlink-users-offline)
 - [There are at least 10 different Microsoft design conventions in Windows 11](https://www.reddit.com/r/Windows11/comments/o2a0kp/there_are_at_least_10_different_microsoft_design/)
 - [Can *YOU* blow a PC speaker using only a Linux kernel driver?](https://nakedsecurity.sophos.com/2021/06/18/can-you-blow-a-pc-speaker-using-only-a-linux-kernel-driver/)
 - [80% of orgs that paid the ransom were hit again](https://venturebeat.com/2021/06/16/cybereason-80-of-orgs-that-paid-the-ransom-were-hit-again/)
 - [SoloSuit (YC W21) Is Hiring](https://www.ycombinator.com/companies/solosuit/jobs/N3UOV8i-experienced-software-engineer)
-- [Binary Golf Grand Prix 2021](https://n0.lol/bggp/2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
