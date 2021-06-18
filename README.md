@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What's Happened to the National Trust](https://andrewhowells.substack.com/p/whats-happened-to-the-national-trust)
+- [Commodore 64 and Raspberry Pi 4 = Synth6581](https://www.raspberrypi.org/blog/commodore-64-raspberry-pi-4-synth6581/)
 - [Orange Health (YC S20) Is Hiring Sr Product Managers in Bangalore](https://www.orangehealth.in/jobs/sr.-product-manager-%2F-product-owner)
 - [Thirty Tesla crashes linked to assisted driving system under investigation in US](https://www.theguardian.com/technology/2021/jun/18/thirty-tesla-crashes-linked-to-assisted-driving-system-under-investigation-in-us)
 - [There is no “us” in team](https://www.sicpers.info/2021/06/there-is-no-us-in-team/)
