@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uxn – Virtual AV Computer](https://llllllll.co/t/uxn-virtual-av-computer/46103)
+- [Apple Silicon Chips: What to Expect This Fall](https://themorningnews.com/news/2021/06/19/apple-silicon-chips-what-to-expect-this-fall/)
+- [John Carpenter’s ‘They Live’ Was Supposed to Be a Warning. We Didn’t Heed It](https://www.theringer.com/movies/2018/10/4/17933020/they-live-john-carpenter-america-donald-trump)
+- [U.S. senators propose 25% tax credit for semiconductor manufacturing](https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC)
 - [I'm Peter Roberts, immigration attorney who does work for YC and startups](https://news.ycombinator.com/item?id=27560781)
-- [An unwanted update to your Google Account](https://roboleary.net/2021/05/01/unwated-change-to-your-google-account.html)
-- [Upcoming Changes for Some US Businesses](https://newsroom.paypal-corp.com/2021-06-18-Upcoming-Changes-for-Some-US-Businesses)
-- [EventBus 3.1 with plain Java support](https://greenrobot.org/release/eventbus-3-1-plain-java-support/)
-- [Coober Pedy, the Australian mining town where residents live underground](https://www.businessinsider.com/inside-coober-pedy-australias-underground-town-2016-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
