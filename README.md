@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Advancing AI theory with first-principles understanding of deep neural networks](https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/)
-- [Google and Massachusetts have installed an app without consent or notification](https://play.google.com/store/apps/details?id=gov.ma.covid19.exposurenotifications.v3&showAllReviews=true)
-- [“mediocre” men fail up](https://www.axios.com/mediocre-men-fail-up-women-workplace-0a69a80e-19a0-43af-980e-62b0e914ced3.html)
-- [Maddy: Composable all-in-one mail server](https://maddy.email/)
-- [Troubled teens left traumatised by tough love camps](https://www.bbc.com/news/world-us-canada-57442175)
+- [Safari 15 on Mac OS, a user interface mess](https://morrick.me/archives/9368)
+- [Spectre Mitigations Murder Userspace Performance](https://robert.ocallahan.org/2021/06/spectre-mitigations-murder-userspace.html)
+- [Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React)](https://www.ycombinator.com/companies/avenue/jobs/G2sPjRf-software-engineer)
+- [Ask HN: Why Poetry did not become a mainstream package manager for Python?](https://news.ycombinator.com/item?id=27559655)
+- [AMD Is Working on Its Own Hybrid x86 CPU](https://www.extremetech.com/computing/323713-amd-is-working-on-its-own-hybrid-x86-cpu-patent-filing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
