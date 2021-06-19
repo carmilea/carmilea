@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Community Phone Company (YC W19) Is Hiring](https://www.ycombinator.com/companies/community-phone-company/jobs/6psvnZD-digital-marketing-specialist)
-- [Engineering Management](https://github.com/ixaxaar/awesome-engineering-management)
 - [Croatian Wikipedia Disinformation Assessment](https://meta.wikimedia.org/wiki/Croatian_Wikipedia_Disinformation_Assessment-2021)
+- [Taxes Are for the Little People](https://pluralistic.net/2021/06/15/guillotines-and-taxes/#carried-interest)
 - [Ivermectin for Prevention and Treatment of Covid-19 Infection](https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx)
-- [‘Potentially the worst drought in 1,200 years’: scientists on the US heatwave](https://www.theguardian.com/us-news/2021/jun/18/us-heatwave-west-climate-crisis-drought)
+- [“Roughly one-third of students are in favor of banning controversial books”](https://twitter.com/paulg/status/1406255522475556869)
 <!-- BLOG-POST-LIST:END -->
 
 ---
