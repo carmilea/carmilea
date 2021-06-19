@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SafetyWing (YC W18) is hiring a fullstack developer](https://www.notion.so/safetywing/Full-stack-developer-8543e05ac894438c9b6a49f4bcc7aa5b)
+- [‘Potentially the worst drought in 1,200 years’: scientists on the US heatwave](https://www.theguardian.com/us-news/2021/jun/18/us-heatwave-west-climate-crisis-drought)
 - [Uxn – Virtual AV Computer](https://llllllll.co/t/uxn-virtual-av-computer/46103)
-- [Apple Silicon Chips: What to Expect This Fall](https://themorningnews.com/news/2021/06/19/apple-silicon-chips-what-to-expect-this-fall/)
 - [John Carpenter’s ‘They Live’ Was Supposed to Be a Warning. We Didn’t Heed It](https://www.theringer.com/movies/2018/10/4/17933020/they-live-john-carpenter-america-donald-trump)
 - [U.S. senators propose 25% tax credit for semiconductor manufacturing](https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC)
-- [I'm Peter Roberts, immigration attorney who does work for YC and startups](https://news.ycombinator.com/item?id=27560781)
 <!-- BLOG-POST-LIST:END -->
 
 ---
