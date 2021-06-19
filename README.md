@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Google and Massachusetts have installed an app without consent or notification](https://play.google.com/store/apps/details?id=gov.ma.covid19.exposurenotifications.v3&showAllReviews=true)
-- [AllRGB](https://allrgb.com/)
 - [Maddy: Composable all-in-one mail server](https://maddy.email/)
 - [Troubled teens left traumatised by tough love camps](https://www.bbc.com/news/world-us-canada-57442175)
 - [The inventor of the black box was told to drop the idea](https://spectrum.ieee.org/tech-history/space-age/the-inventor-of-the-black-box-was-told-to-drop-the-idea-and-get-on-with-blowing-up-fuel-tanks)
+- [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
