@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Community Phone Company (YC W19) Is Hiring](https://www.ycombinator.com/companies/community-phone-company/jobs/6psvnZD-digital-marketing-specialist)
 - [Engineering Management](https://github.com/ixaxaar/awesome-engineering-management)
 - [Croatian Wikipedia Disinformation Assessment](https://meta.wikimedia.org/wiki/Croatian_Wikipedia_Disinformation_Assessment-2021)
 - [Ivermectin for Prevention and Treatment of Covid-19 Infection](https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx)
-- [SafetyWing (YC W18) is hiring a fullstack developer](https://www.notion.so/safetywing/Full-stack-developer-8543e05ac894438c9b6a49f4bcc7aa5b)
 - [‘Potentially the worst drought in 1,200 years’: scientists on the US heatwave](https://www.theguardian.com/us-news/2021/jun/18/us-heatwave-west-climate-crisis-drought)
 <!-- BLOG-POST-LIST:END -->
 
