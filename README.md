@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I'm Peter Roberts, immigration attorney who does work for YC and startups](https://news.ycombinator.com/item?id=27560781)
+- [An unwanted update to your Google Account](https://roboleary.net/2021/05/01/unwated-change-to-your-google-account.html)
+- [Upcoming Changes for Some US Businesses](https://newsroom.paypal-corp.com/2021-06-18-Upcoming-Changes-for-Some-US-Businesses)
+- [EventBus 3.1 with plain Java support](https://greenrobot.org/release/eventbus-3-1-plain-java-support/)
 - [Coober Pedy, the Australian mining town where residents live underground](https://www.businessinsider.com/inside-coober-pedy-australias-underground-town-2016-1)
-- [Jose Valim introduces LiveBook v0.2: inputs, graphs, and more](https://www.youtube.com/watch?v=MOTEgF-wIEI)
-- [Tapeout class: taking students from schematic to silicon in one semester [pdf]](https://people.eecs.berkeley.edu/~pister/publications/2018/BurnettTapeoutClassISCAS2018.pdf)
-- [Casu Martzu](https://en.wikipedia.org/wiki/Casu_martzu)
-- [Safari 15 on Mac OS, a user interface mess](https://morrick.me/archives/9368)
 <!-- BLOG-POST-LIST:END -->
 
 ---
