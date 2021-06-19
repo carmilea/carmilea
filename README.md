@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google and Massachusetts have installed an app without consent or notification](https://play.google.com/store/apps/details?id=gov.ma.covid19.exposurenotifications.v3&showAllReviews=true)
+- [What Ever Happened to Flirting?](https://www.persuasion.community/p/what-ever-happened-to-flirting)
 - [Maddy: Composable all-in-one mail server](https://maddy.email/)
 - [Troubled teens left traumatised by tough love camps](https://www.bbc.com/news/world-us-canada-57442175)
-- [Shocked to find smart thermostats raised remotely by “Smart Savers Texas” progrm](https://www.ksdk.com/article/news/remote-thermostat-adjustment-texas-energy-shortage/285-5acf2bc5-54b7-4160-bffe-1f9a5ef4362a)
 - [The inventor of the black box was told to drop the idea](https://spectrum.ieee.org/tech-history/space-age/the-inventor-of-the-black-box-was-told-to-drop-the-idea-and-get-on-with-blowing-up-fuel-tanks)
-- [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
