@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [When Graphs Are a Matter of Life and Death](https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death)
+- [State of the Windows: How many layers of UI inconsistencies are in Windows 10?](https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/)
+- [The Global Chessboard](https://unchartedterritories.tomaspueyo.com/p/world-chessboard)
 - [Human Rapamycin Longevity Clinical Trials Begin](https://www.lifespan.io/news/pearl-is-funded-rapamycin-longevity-clinical-trials-begin/)
-- [Adafruit interviews Siemens SupplyFrame, the future of Hackaday, Tindie and more](https://blog.adafruit.com/2021/06/18/adafruit-interviews-siemens-supplyframe-the-future-of-hackaday-tindie-and-more/)
-- [CatMeows: A Publicly-Available Dataset of Cat Vocalizations](https://zenodo.org/record/4008297)
-- [Confessions of a bitter cripple (2015)](https://politicalphilosopher.net/2015/05/15/featured-philosop-her-elizabeth-barnes/)
-- [Minimum Viable Self](https://kneelingbus.substack.com/p/162-minimum-viable-self)
 <!-- BLOG-POST-LIST:END -->
 
 ---
