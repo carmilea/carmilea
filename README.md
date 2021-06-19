@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ivermectin for Prevention and Treatment of Covid-19 Infection](https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx)
 - [SafetyWing (YC W18) is hiring a fullstack developer](https://www.notion.so/safetywing/Full-stack-developer-8543e05ac894438c9b6a49f4bcc7aa5b)
 - [‘Potentially the worst drought in 1,200 years’: scientists on the US heatwave](https://www.theguardian.com/us-news/2021/jun/18/us-heatwave-west-climate-crisis-drought)
-- [Uxn – Virtual AV Computer](https://llllllll.co/t/uxn-virtual-av-computer/46103)
-- [John Carpenter’s ‘They Live’ Was Supposed to Be a Warning. We Didn’t Heed It](https://www.theringer.com/movies/2018/10/4/17933020/they-live-john-carpenter-america-donald-trump)
-- [U.S. senators propose 25% tax credit for semiconductor manufacturing](https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC)
+- [Audi will halt new gas and diesel cars by 2026 – Drive Tesla Canada](https://driveteslacanada.ca/news/audi-stop-gas-and-diesel-cars-2026/)
+- [“Roughly one-third of students are in favor of banning controversial books ”](https://twitter.com/paulg/status/1406255522475556869)
 <!-- BLOG-POST-LIST:END -->
 
 ---
