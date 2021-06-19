@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BBC Programme Index: 9M listings and 221k playable programmes](https://genome.ch.bbc.co.uk/)
-- [Fly Straight, Dammit (2019)](http://www.petecorey.com/blog/2019/08/12/fly-straight-dammit/)
-- [Ask HN: What does an ML Engineer do?](https://news.ycombinator.com/item?id=27555013)
-- [EasyPost is building the logistics platform for ecommerce](https://www.easypost.com/careers)
-- [Vespucci – OpenStreetMap Editor for Android](http://vespucci.io/)
+- [Human Rapamycin Longevity Clinical Trials Begin](https://www.lifespan.io/news/pearl-is-funded-rapamycin-longevity-clinical-trials-begin/)
+- [Adafruit interviews Siemens SupplyFrame, the future of Hackaday, Tindie and more](https://blog.adafruit.com/2021/06/18/adafruit-interviews-siemens-supplyframe-the-future-of-hackaday-tindie-and-more/)
+- [CatMeows: A Publicly-Available Dataset of Cat Vocalizations](https://zenodo.org/record/4008297)
+- [Confessions of a bitter cripple (2015)](https://politicalphilosopher.net/2015/05/15/featured-philosop-her-elizabeth-barnes/)
+- [Minimum Viable Self](https://kneelingbus.substack.com/p/162-minimum-viable-self)
 <!-- BLOG-POST-LIST:END -->
 
 ---
