@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Inventor of the Black Box (Flight Data Recorder) Was Told to Drop the Idea](https://spectrum.ieee.org/tech-history/space-age/the-inventor-of-the-black-box-was-told-to-drop-the-idea-and-get-on-with-blowing-up-fuel-tanks)
 - [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
 - [When Graphs Are a Matter of Life and Death](https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death)
 - [State of the Windows: How many layers of UI inconsistencies are in Windows 10?](https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/)
 - [The Global Chessboard](https://unchartedterritories.tomaspueyo.com/p/world-chessboard)
-- [Human Rapamycin Longevity Clinical Trials Begin](https://www.lifespan.io/news/pearl-is-funded-rapamycin-longevity-clinical-trials-begin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
