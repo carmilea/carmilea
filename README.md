@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Safari 15 on Mac OS, a user interface mess](https://morrick.me/archives/9368)
+- [North Carolina tells retired engineer he can't talk about engineering](https://ij.org/press-release/north-carolina-board-tells-retired-engineer-he-cant-talk-about-engineering/)
 - [Spectre Mitigations Murder Userspace Performance](https://robert.ocallahan.org/2021/06/spectre-mitigations-murder-userspace.html)
 - [Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React)](https://www.ycombinator.com/companies/avenue/jobs/G2sPjRf-software-engineer)
 - [Ask HN: Why Poetry did not become a mainstream package manager for Python?](https://news.ycombinator.com/item?id=27559655)
-- [AMD Is Working on Its Own Hybrid x86 CPU](https://www.extremetech.com/computing/323713-amd-is-working-on-its-own-hybrid-x86-cpu-patent-filing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
