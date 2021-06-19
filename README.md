@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Maddy: Composable all-in-one mail server](https://maddy.email/)
-- [Troubled US teens left traumatised by tough love camps](https://www.bbc.com/news/world-us-canada-57442175)
+- [Troubled teens left traumatised by tough love camps](https://www.bbc.com/news/world-us-canada-57442175)
 - [Shocked to find smart thermostats raised remotely by “Smart Savers Texas” progrm](https://www.ksdk.com/article/news/remote-thermostat-adjustment-texas-energy-shortage/285-5acf2bc5-54b7-4160-bffe-1f9a5ef4362a)
-- [The Inventor of the Black Box (Flight Data Recorder) Was Told to Drop the Idea](https://spectrum.ieee.org/tech-history/space-age/the-inventor-of-the-black-box-was-told-to-drop-the-idea-and-get-on-with-blowing-up-fuel-tanks)
+- [The inventor of the black box was told to drop the idea](https://spectrum.ieee.org/tech-history/space-age/the-inventor-of-the-black-box-was-told-to-drop-the-idea-and-get-on-with-blowing-up-fuel-tanks)
 - [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
 <!-- BLOG-POST-LIST:END -->
 
