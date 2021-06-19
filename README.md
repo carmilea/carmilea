@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Maddy: Composable all-in-one mail server](https://maddy.email/)
+- [Troubled US teens left traumatised by tough love camps](https://www.bbc.com/news/world-us-canada-57442175)
+- [Shocked to find smart thermostats raised remotely by “Smart Savers Texas” progrm](https://www.ksdk.com/article/news/remote-thermostat-adjustment-texas-energy-shortage/285-5acf2bc5-54b7-4160-bffe-1f9a5ef4362a)
 - [The Inventor of the Black Box (Flight Data Recorder) Was Told to Drop the Idea](https://spectrum.ieee.org/tech-history/space-age/the-inventor-of-the-black-box-was-told-to-drop-the-idea-and-get-on-with-blowing-up-fuel-tanks)
 - [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
-- [When Graphs Are a Matter of Life and Death](https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death)
-- [State of the Windows: How many layers of UI inconsistencies are in Windows 10?](https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/)
-- [The Global Chessboard](https://unchartedterritories.tomaspueyo.com/p/world-chessboard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
