@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crucial Caves: Says Chia Cryptomining Voids SSD Warranty, Then Retracts Post](https://www.tomshardware.com/news/crucial-says-chia-cryptomining-voids-ssd-warranty-then-backs-down)
+- [A specific network name can completely disable Wi-Fi on your iPhone](https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/)
 - [Community Phone Company (YC W19) Is Hiring](https://www.ycombinator.com/companies/community-phone-company/jobs/6psvnZD-digital-marketing-specialist)
-- [Croatian Wikipedia Disinformation Assessment](https://meta.wikimedia.org/wiki/Croatian_Wikipedia_Disinformation_Assessment-2021)
-- [Taxes Are for the Little People](https://pluralistic.net/2021/06/15/guillotines-and-taxes/#carried-interest)
 - [Ivermectin for Prevention and Treatment of Covid-19 Infection](https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx)
-- [“Roughly one-third of students are in favor of banning controversial books”](https://twitter.com/paulg/status/1406255522475556869)
+- [U.S. senators propose 25% tax credit for semiconductor manufacturing](https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC)
 <!-- BLOG-POST-LIST:END -->
 
 ---
