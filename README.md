@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kill the 5-day Work Week](https://www.theatlantic.com/family/archive/2021/06/four-day-workweek/619222/)
-- [Brain imaging before and after Covid-19 in UK Biobank](https://www.medrxiv.org/content/10.1101/2021.06.11.21258690v1)
-- [Gjf – A tool to fix invalid GeoJSON objects](https://github.com/yazeed44/gjf)
-- [Lethal for Career – Think 100 Times Before Joining Amazon](https://leetcode.com/discuss/compensation/1281540/amazon-lethal-for-career-think-100-times-before-you-join-amazon)
-- [Do software engineers have leverage?](https://news.ycombinator.com/item?id=27569539)
+- [Americans Are Keeping Their Cars Longer, as Vehicle Age Hits 12 Years](https://www.wsj.com/articles/average-u-s-vehicle-age-hits-record-12-years-11623680640)
+- [LDtk: A modern and open-source 2D level editor](https://deepnight.itch.io/ldtk)
+- [Show HN: AES67 Stream Monitor – An app to monitor audio over IP streams](https://aes67.app/)
+- [My performance benchmarking workflow](http://blog.vmsplice.net/2021/06/my-performance-benchmarking-workflow.html)
+- [Common Lisp Books](https://lisp-lang.org/books/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
