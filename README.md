@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Fly.io (YC W20) Is Hiring Site Reliability Engineers](https://news.ycombinator.com/item?id=27571850)
 - [Could Mitochondria Be the Key to a Healthy Brain?](https://www.scientificamerican.com/article/could-mitochondria-be-the-key-to-a-healthy-brain/)
+- [Vinix, a new OS written in V, now runs mlibc and bash](https://twitter.com/v_language/status/1406345730722340876)
 - [Watchy: Open-source E-Paper Watch with ESP32](https://watchy.sqfmi.com/)
 - [GAN Prior Embedded Network for Blind Face Restoration in the Wild](https://github.com/yangxy/GPEN)
-- [Julia: Faster than Fortran, cleaner than Numpy](https://www.matecdev.com/posts/numpy-julia-fortran.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
