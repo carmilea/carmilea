@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A dwarf planet coming within 11 au of the sun over the next 10 years](https://groups.io/g/mpml/topic/83645454#36493)
+- [You won’t live to see a 128bit CPU (2019)](https://blog.cloudware.bg/en/you-wont-live-to-see-a-128bit-cpu/)
 - [Father's Day (2008)](https://www.davidgodman.org/fathers-day/)
 - [Bee-friendly urban wildflower meadows prove a hit with German city dwellers](https://www.theguardian.com/environment/2021/jun/20/bee-friendly-urban-wildflower-meadows-prove-a-hit-with-german-city-dwellers)
 - [What every programmer should know about SSDs](https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html)
-- [Fly.io (YC W20) Is Hiring Site Reliability Engineers](https://news.ycombinator.com/item?id=27571850)
 <!-- BLOG-POST-LIST:END -->
 
 ---
