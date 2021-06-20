@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HireArt (YC W12) Is Hiring a VP,Finance](https://www.hireart.com/jobs/1d4ae4fc/apply)
+- [Stonks Are What You Can Get Away With: NFTs and Financial Nihilism](https://blog.evjang.com/2021/06/nft.html)
 - [Show HN: Find Your Hacker News Doppelgänger](https://share.streamlit.io/pinecone-io/playground/hacker_news/src/server.py)
 - [Microsoft have signed multiple rootkits](https://twitter.com/GossiTheDog/status/1405805536403243009)
 - [Cubli – A cube that can jump up, balance, and walk across your desk](https://robohub.org/swiss-robots-cubli-a-cube-that-can-jump-up-balance-and-walk-across-your-desk/)
-- [A home for apps that push the boundaries of iOS. No jailbreak required](https://altstore.io/)
-- [Internet in a Box](http://internet-in-a-box.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
