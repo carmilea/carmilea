@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How hard did Steve Jobs work?](https://www.quora.com/How-hard-did-Steve-Jobs-work-Did-this-change-over-time?share=1)
+- [Ransomware attack payments might be tax deductible, says US government](https://www.fox2detroit.com/news/ransomware-attack-payments-might-be-tax-deductible-says-us-government)
+- [Rocky Linux 8.4 RC1 Available Now](https://rockylinux.org/news/rocky-linux-8-4-rc1-release/)
 - [Polygon: L2 or Not L2?](https://adlrocha.substack.com/p/adlrocha-polygon-l2-or-not-l2)
 - [Insurance is like gambling, don't overdo it](https://blog.viktomas.com/posts/insurance/)
 - [As Money Launderers Buy Dalís, U.S. Looks at Lifting the Veil on Art Sales](https://www.nytimes.com/2021/06/19/arts/design/money-laundering-art-market.html)
-- [Joining CSV and JSON data with an in-memory SQLite database](https://simonwillison.net/2021/Jun/19/sqlite-utils-memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
