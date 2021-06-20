@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fly.io (YC W20) Is Hiring Site Reliability Engineers](https://news.ycombinator.com/item?id=27571850)
+- [Could Mitochondria Be the Key to a Healthy Brain?](https://www.scientificamerican.com/article/could-mitochondria-be-the-key-to-a-healthy-brain/)
 - [Watchy: Open-source E-Paper Watch with ESP32](https://watchy.sqfmi.com/)
-- [LDtk: A modern and open-source 2D level editor](https://deepnight.itch.io/ldtk)
-- [Show HN: AES67 Stream Monitor – An app to monitor audio over IP streams](https://aes67.app/)
-- [My performance benchmarking workflow](http://blog.vmsplice.net/2021/06/my-performance-benchmarking-workflow.html)
-- [Postgres to TypeScript Interfaces and Enums](https://github.com/vramework/schemats)
+- [GAN Prior Embedded Network for Blind Face Restoration in the Wild](https://github.com/yangxy/GPEN)
+- [Julia: Faster than Fortran, cleaner than Numpy](https://www.matecdev.com/posts/numpy-julia-fortran.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
