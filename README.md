@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kill the 5-day Work Week](https://www.theatlantic.com/family/archive/2021/06/four-day-workweek/619222/)
+- [Brain imaging before and after Covid-19 in UK Biobank](https://www.medrxiv.org/content/10.1101/2021.06.11.21258690v1)
 - [Gjf – A tool to fix invalid GeoJSON objects](https://github.com/yazeed44/gjf)
 - [Lethal for Career – Think 100 Times Before Joining Amazon](https://leetcode.com/discuss/compensation/1281540/amazon-lethal-for-career-think-100-times-before-you-join-amazon)
-- [There Are Aliens, but Probably Not Here](https://fakenous.net/?p=2365)
-- [Ayn Rand’s ‘Atlas Shrugged’ has been completely unraveled by the pandemic](https://civicskunk.works/ayn-rands-atlas-shrugged-has-been-completely-unraveled-by-the-pandemic-5e852467dddb)
-- [Major companies ask Colorado residents not to apply for remote positions](https://www.axios.com/remote-jobs-colorado-salary-discloser-law-33ce8a79-1465-44c4-a311-dd1aebfe8921.html)
+- [Do software engineers have leverage?](https://news.ycombinator.com/item?id=27569539)
 <!-- BLOG-POST-LIST:END -->
 
 ---
