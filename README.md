@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crucial Caves: Says Chia Cryptomining Voids SSD Warranty, Then Retracts Post](https://www.tomshardware.com/news/crucial-says-chia-cryptomining-voids-ssd-warranty-then-backs-down)
+- [The EU: Made in America](https://www.economist.com/europe/2021/06/19/the-eu-made-in-america)
+- [Renoise – a DAW with a tracker-like interface](https://www.renoise.com/)
+- [Korea revokes approvals for 1,700 communication equipment, devices](http://www.koreaherald.com/view.php?ud=20210617000953)
 - [A specific network name can completely disable Wi-Fi on your iPhone](https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/)
 - [Community Phone Company (YC W19) Is Hiring](https://www.ycombinator.com/companies/community-phone-company/jobs/6psvnZD-digital-marketing-specialist)
-- [Ivermectin for Prevention and Treatment of Covid-19 Infection](https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx)
-- [U.S. senators propose 25% tax credit for semiconductor manufacturing](https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC)
 <!-- BLOG-POST-LIST:END -->
 
 ---
