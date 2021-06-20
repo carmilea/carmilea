@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HireArt (YC W12) Is Hiring a VP,Finance](https://www.hireart.com/jobs/1d4ae4fc/apply)
-- [Stonks Are What You Can Get Away With: NFTs and Financial Nihilism](https://blog.evjang.com/2021/06/nft.html)
-- [Show HN: Find Your Hacker News Doppelgänger](https://share.streamlit.io/pinecone-io/playground/hacker_news/src/server.py)
-- [Microsoft have signed multiple rootkits](https://twitter.com/GossiTheDog/status/1405805536403243009)
-- [Cubli – A cube that can jump up, balance, and walk across your desk](https://robohub.org/swiss-robots-cubli-a-cube-that-can-jump-up-balance-and-walk-across-your-desk/)
+- [Gjf – A tool to fix invalid GeoJSON objects](https://github.com/yazeed44/gjf)
+- [Lethal for Career – Think 100 Times Before Joining Amazon](https://leetcode.com/discuss/compensation/1281540/amazon-lethal-for-career-think-100-times-before-you-join-amazon)
+- [There Are Aliens, but Probably Not Here](https://fakenous.net/?p=2365)
+- [Ayn Rand’s ‘Atlas Shrugged’ has been completely unraveled by the pandemic](https://civicskunk.works/ayn-rands-atlas-shrugged-has-been-completely-unraveled-by-the-pandemic-5e852467dddb)
+- [Major companies ask Colorado residents not to apply for remote positions](https://www.axios.com/remote-jobs-colorado-salary-discloser-law-33ce8a79-1465-44c4-a311-dd1aebfe8921.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
