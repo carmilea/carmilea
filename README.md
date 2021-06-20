@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Americans Are Keeping Their Cars Longer, as Vehicle Age Hits 12 Years](https://www.wsj.com/articles/average-u-s-vehicle-age-hits-record-12-years-11623680640)
+- [Watchy: Open-source E-Paper Watch with ESP32](https://watchy.sqfmi.com/)
 - [LDtk: A modern and open-source 2D level editor](https://deepnight.itch.io/ldtk)
 - [Show HN: AES67 Stream Monitor – An app to monitor audio over IP streams](https://aes67.app/)
 - [My performance benchmarking workflow](http://blog.vmsplice.net/2021/06/my-performance-benchmarking-workflow.html)
-- [Common Lisp Books](https://lisp-lang.org/books/)
+- [Postgres to TypeScript Interfaces and Enums](https://github.com/vramework/schemats)
 <!-- BLOG-POST-LIST:END -->
 
 ---
