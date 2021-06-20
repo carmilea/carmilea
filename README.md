@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A dwarf planet coming within 11 au of the sun over the next 10 years](https://groups.io/g/mpml/topic/83645454#36493)
+- [Father's Day (2008)](https://www.davidgodman.org/fathers-day/)
+- [Bee-friendly urban wildflower meadows prove a hit with German city dwellers](https://www.theguardian.com/environment/2021/jun/20/bee-friendly-urban-wildflower-meadows-prove-a-hit-with-german-city-dwellers)
+- [What every programmer should know about SSDs](https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html)
 - [Fly.io (YC W20) Is Hiring Site Reliability Engineers](https://news.ycombinator.com/item?id=27571850)
-- [Could Mitochondria Be the Key to a Healthy Brain?](https://www.scientificamerican.com/article/could-mitochondria-be-the-key-to-a-healthy-brain/)
-- [Vinix, a new OS written in V, now runs mlibc and bash](https://twitter.com/v_language/status/1406345730722340876)
-- [Watchy: Open-source E-Paper Watch with ESP32](https://watchy.sqfmi.com/)
-- [GAN Prior Embedded Network for Blind Face Restoration in the Wild](https://github.com/yangxy/GPEN)
 <!-- BLOG-POST-LIST:END -->
 
 ---
