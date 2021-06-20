@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Going on at Yale Law School?](https://www.newyorker.com/news/annals-of-education/what-is-going-on-at-yale-law-school)
+- [Covid Vaccine Websites Violate Disability Laws, Create Inequity for the Blind](https://khn.org/news/article/covid-vaccine-websites-violate-disability-laws-create-inequity-for-the-blind/)
+- [Gramps – Free Genealogy Software](https://gramps-project.org)
 - [Zero-Knowledge Proofs](https://zkp.science/)
 - [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - [Constraints (1981) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6312/AIM-502a.pdf)
-- [Nixos-unstable’s ISO_minimal.x86_64-Linux is 100% reproducible](https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723)
 <!-- BLOG-POST-LIST:END -->
 
 ---
