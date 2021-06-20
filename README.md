@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moonshot to establish software development centre in Irish capital](https://www.bignewsnetwork.com/news/269958729/moonshot-to-establish-software-development-centre-in-irish-capital)
+- [As Money Launderers Buy Dalís, U.S. Looks at Lifting the Veil on Art Sales](https://www.nytimes.com/2021/06/19/arts/design/money-laundering-art-market.html)
+- [XUAN-Bike: Self-riding, riderless bike](https://github.com/peng-zhihui/XUAN-Bike)
+- [Joining CSV and JSON data with an in-memory SQLite database](https://simonwillison.net/2021/Jun/19/sqlite-utils-memory/)
+- [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/)
 - [Renoise – a DAW with a tracker-like interface](https://www.renoise.com/)
-- [Korea revokes approvals for 1,700 communication equipment, devices](http://www.koreaherald.com/view.php?ud=20210617000953)
-- [A specific network name can completely disable Wi-Fi on your iPhone](https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/)
-- [Community Phone Company (YC W19) Is Hiring](https://www.ycombinator.com/companies/community-phone-company/jobs/6psvnZD-digital-marketing-specialist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
