@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Find Your Hacker News Doppelgänger](https://share.streamlit.io/pinecone-io/playground/hacker_news/src/server.py)
+- [Microsoft have signed multiple rootkits](https://twitter.com/GossiTheDog/status/1405805536403243009)
 - [Cubli – A cube that can jump up, balance, and walk across your desk](https://robohub.org/swiss-robots-cubli-a-cube-that-can-jump-up-balance-and-walk-across-your-desk/)
+- [A home for apps that push the boundaries of iOS. No jailbreak required](https://altstore.io/)
 - [Internet in a Box](http://internet-in-a-box.org/)
-- [Ransomware attack payments might be tax deductible, says US government](https://www.fox2detroit.com/news/ransomware-attack-payments-might-be-tax-deductible-says-us-government)
-- [Rocky Linux 8.4 RC1 Available Now](https://rockylinux.org/news/rocky-linux-8-4-rc1-release/)
-- [Polygon: L2 or Not L2?](https://adlrocha.substack.com/p/adlrocha-polygon-l2-or-not-l2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
