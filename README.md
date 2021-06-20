@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How hard did Steve Jobs work?](https://www.quora.com/How-hard-did-Steve-Jobs-work-Did-this-change-over-time?share=1)
+- [Polygon: L2 or Not L2?](https://adlrocha.substack.com/p/adlrocha-polygon-l2-or-not-l2)
+- [Insurance is like gambling, don't overdo it](https://blog.viktomas.com/posts/insurance/)
 - [As Money Launderers Buy Dalís, U.S. Looks at Lifting the Veil on Art Sales](https://www.nytimes.com/2021/06/19/arts/design/money-laundering-art-market.html)
-- [Obvious and possible software innovations nobody does](https://scottlocklin.wordpress.com/2021/04/01/obvious-and-possible-software-innovations-nobody-does/)
-- [XUAN-Bike: Self-riding, riderless bike](https://github.com/peng-zhihui/XUAN-Bike)
 - [Joining CSV and JSON data with an in-memory SQLite database](https://simonwillison.net/2021/Jun/19/sqlite-utils-memory/)
-- [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
