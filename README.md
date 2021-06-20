@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cubli – A cube that can jump up, balance, and walk across your desk](https://robohub.org/swiss-robots-cubli-a-cube-that-can-jump-up-balance-and-walk-across-your-desk/)
+- [Internet in a Box](http://internet-in-a-box.org/)
 - [Ransomware attack payments might be tax deductible, says US government](https://www.fox2detroit.com/news/ransomware-attack-payments-might-be-tax-deductible-says-us-government)
 - [Rocky Linux 8.4 RC1 Available Now](https://rockylinux.org/news/rocky-linux-8-4-rc1-release/)
 - [Polygon: L2 or Not L2?](https://adlrocha.substack.com/p/adlrocha-polygon-l2-or-not-l2)
-- [Insurance is like gambling, don't overdo it](https://blog.viktomas.com/posts/insurance/)
-- [As Money Launderers Buy Dalís, U.S. Looks at Lifting the Veil on Art Sales](https://www.nytimes.com/2021/06/19/arts/design/money-laundering-art-market.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
