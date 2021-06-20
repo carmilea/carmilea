@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A dwarf planet coming within 11 au of the sun over the next 10 years](https://groups.io/g/mpml/topic/83645454#36493)
-- [You won’t live to see a 128bit CPU (2019)](https://blog.cloudware.bg/en/you-wont-live-to-see-a-128bit-cpu/)
-- [Father's Day (2008)](https://www.davidgodman.org/fathers-day/)
-- [Bee-friendly urban wildflower meadows prove a hit with German city dwellers](https://www.theguardian.com/environment/2021/jun/20/bee-friendly-urban-wildflower-meadows-prove-a-hit-with-german-city-dwellers)
-- [What every programmer should know about SSDs](https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html)
+- [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Constraints (1981) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6312/AIM-502a.pdf)
+- [Nixos-unstable’s ISO_minimal.x86_64-Linux is 100% reproducible](https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723)
+- [If the Moon Were Only 1 Pixel (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+- [A dwarf planet coming within 11 AU of the sun over the next 10 years](https://groups.io/g/mpml/topic/83645454#36493)
 <!-- BLOG-POST-LIST:END -->
 
 ---
