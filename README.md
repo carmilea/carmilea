@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LibreCellular](https://librecellular.org/)
+- [Ask HN: How to learn proper Systems Programming?](https://news.ycombinator.com/item?id=27577514)
+- [Fluid Paint](https://david.li/paint/)
 - [JPEG XL](https://jpegxl.info)
 - [Yggdrasil – an open source fully end-to-end encrypted IPv6 network](https://github.com/yggdrasil-network/yggdrasil-go)
-- [OrganicMaps is Android and iOS offline maps for travel without trackers or ads](https://organicmaps.app/)
-- [Upgrading Precursor’s TRNG](https://www.bunniestudios.com/blog/?p=6094)
-- [Enthusiastic amateurs advance science as they hunt for exotic mushrooms](https://www.npr.org/2021/06/20/1006352654/enthusiastic-amateurs-advance-science-as-they-hunt-for-exotic-mushrooms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
