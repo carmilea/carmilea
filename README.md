@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/XvqoCpD-impact-driven-software-backend-engineer)
+- [Hey, There's a Second Brain in Your Gut And now scientists know how it works](https://www.popularmechanics.com/science/health/a34934637/gut-brain-science/)
 - [Leica Is Launching a Smartphone, with a Lens and Magnetic Lens Cap](https://www.core77.com/posts/109217/Leica-is-Launching-a-Smartphone-With-a-Massive-Lens-and-Magnetic-Lens-Cap)
-- [Accidentally Exponential Behavior in Spark](https://heap.io/blog/accidentally-exponential-behavior-in-spark)
-- [Apple is building the metaverse substrate in plain sight](https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html)
-- [Internal Amazon documents shed light on how company pressures out office workers](https://www.seattletimes.com/business/amazon/internal-amazon-documents-shed-light-on-how-company-pressures-out-6-of-office-workers/)
-- [State of the Windows, part 2: Did Windows 10 slow down with each feature update?](https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/)
+- [Accidentally exponential behavior in Spark](https://heap.io/blog/accidentally-exponential-behavior-in-spark)
+- [Apple is building the metaverse substrate](https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
