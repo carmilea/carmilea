@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MagicBell (YC W21) Is Hiring a Founding Front End Engineer](https://www.notion.so/magicbell/Founding-Frontend-Engineer-7b2f9bc9335347f5ba3ae1135077b0f6)
+- [We Can't Let People Work from Home, for Stupid Reasons](https://blog.davidtate.org/we-cant-let-people-work-from-home-for-stupid-reasons/)
+- [Google Executives See Cracks in Their Company’s Success](https://www.nytimes.com/2021/06/21/technology/sundar-pichai-google.html)
 - [Why You Should Not Get a History PhD](https://www.reddit.com/r/AskHistorians/comments/96yf9h/monday_methods_why_you_should_not_get_a_history/)
-- [Facebook Launches Podcast and Live Audio Room Services](https://www.theouterhaven.net/2021/06/facebook-launches-podcast-and-live-audio-room-services/)
-- [Fine-Tuning Transformers for NLP](https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp)
-- [Git undo: We can do better](https://blog.waleedkhan.name/git-undo/)
-- [I was hit with a patent troll lawsuit, how do I deal with it? One man company](https://news.ycombinator.com/item?id=27579693)
+- [National Collegiate Athletic Association vs. Alston [pdf]](https://www.supremecourt.gov/opinions/20pdf/20-512_gfbh.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
