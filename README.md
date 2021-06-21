@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: A good Linux laptop below 1000€](https://news.ycombinator.com/item?id=27584974)
 - [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/XvqoCpD-impact-driven-software-backend-engineer)
+- [All music used by government services must feature Quebec artists](https://www.cbc.ca/news/canada/montreal/only-quebec-music-culture-ministry-1.6073135)
+- [Name and Shame: LoanStreet (NY) cheated me out of equity](https://old.reddit.com/r/cscareerquestions/comments/o3jpfc/name_and_shame_loanstreet_ny_cheated_me_out_of/)
 - [Hey, There's a Second Brain in Your Gut And now scientists know how it works](https://www.popularmechanics.com/science/health/a34934637/gut-brain-science/)
-- [Leica Is Launching a Smartphone, with a Lens and Magnetic Lens Cap](https://www.core77.com/posts/109217/Leica-is-Launching-a-Smartphone-With-a-Massive-Lens-and-Magnetic-Lens-Cap)
-- [Accidentally exponential behavior in Spark](https://heap.io/blog/accidentally-exponential-behavior-in-spark)
-- [Apple is building the metaverse substrate](https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
