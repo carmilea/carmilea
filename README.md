@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Centaur Labs (YC W19) Is Hiring a Senior Back End Engineer in Boston](https://www.ycombinator.com/companies/centaur-labs/jobs/4wh4Av2-senior-backend-engineer)
+- [Wealthiest U.S. executives paid little to nothing in federal income taxes](https://www.thestar.com/news/world/us/2021/06/08/wealthiest-us-executives-paid-little-to-nothing-in-federal-income-taxes-report-says.html)
 - [LibreCellular](https://librecellular.org/)
 - [Ask HN: How to learn proper Systems Programming?](https://news.ycombinator.com/item?id=27577514)
 - [Fluid Paint](https://david.li/paint/)
-- [A good livestreaming setup is a well-tailored suit](https://spandex.substack.com/p/why-your-livestreaming-setup-is-a)
-- [JPEG XL](https://jpegxl.info)
 <!-- BLOG-POST-LIST:END -->
 
 ---
