@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MagicBell (YC W21) Is Hiring a Founding Front End Engineer](https://www.notion.so/magicbell/Founding-Frontend-Engineer-7b2f9bc9335347f5ba3ae1135077b0f6)
-- [We Can't Let People Work from Home, for Stupid Reasons](https://blog.davidtate.org/we-cant-let-people-work-from-home-for-stupid-reasons/)
-- [Google Executives See Cracks in Their Company’s Success](https://www.nytimes.com/2021/06/21/technology/sundar-pichai-google.html)
-- [Why You Should Not Get a History PhD](https://www.reddit.com/r/AskHistorians/comments/96yf9h/monday_methods_why_you_should_not_get_a_history/)
-- [National Collegiate Athletic Association vs. Alston [pdf]](https://www.supremecourt.gov/opinions/20pdf/20-512_gfbh.pdf)
+- [Internal Amazon documents shed light on how company pressures out 6% of workers](https://www.seattletimes.com/business/amazon/internal-amazon-documents-shed-light-on-how-company-pressures-out-6-of-office-workers/)
+- [State of the Windows, part 2: Did Windows 10 slow down with each feature update?](https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/)
+- [What It's Like to Be Cancelled](https://noahbradley.com/cancelled/)
+- [Rhode Island Makes Financial Literacy Classes Required for High School Students](https://themorningnews.com/news/2021/06/17/this-public-high-school-is-brainwashing-its-students-to-set-a-monthly-budget/)
+- [Against Meme Activism](https://www.persuasion.community/p/against-meme-activism)
 <!-- BLOG-POST-LIST:END -->
 
 ---
