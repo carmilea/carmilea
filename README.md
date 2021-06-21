@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Enthusiastic Amateurs Advance Science as They Hunt for Exotic Mushrooms](https://www.npr.org/2021/06/20/1006352654/enthusiastic-amateurs-advance-science-as-they-hunt-for-exotic-mushrooms)
+- [What it was like to be peer reviewed in the 1860s](https://physicstoday.scitation.org/do/10.1063/PT.5.9098/full/)
 - [New York congressman puts forward federal right-to-repair bill](https://www.theregister.com/2021/06/18/first_federal_right_to_repair_bill/)
 - [Policies that make the poor less poor](https://www.eclogiselle.com/p/policies-that-make-poor-less-poor.html)
 - [Finding the Bottom Turtle](https://blog.dave.tf/post/finding-bottom-turtle/)
-- [USC professor’s DIY online teaching hack to engage students goes viral](https://news.usc.edu/174170/emily-nix-usc-professors-diy-online-teaching-hack/)
-- [Free Stuff for Developer](https://freestuff.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
