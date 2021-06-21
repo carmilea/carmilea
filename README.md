@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple is building the metaverse substrate in plain sight](https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html)
 - [Internal Amazon documents shed light on how company pressures out 6% of workers](https://www.seattletimes.com/business/amazon/internal-amazon-documents-shed-light-on-how-company-pressures-out-6-of-office-workers/)
 - [State of the Windows, part 2: Did Windows 10 slow down with each feature update?](https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/)
 - [What It's Like to Be Cancelled](https://noahbradley.com/cancelled/)
 - [Rhode Island Makes Financial Literacy Classes Required for High School Students](https://themorningnews.com/news/2021/06/17/this-public-high-school-is-brainwashing-its-students-to-set-a-monthly-budget/)
-- [Against Meme Activism](https://www.persuasion.community/p/against-meme-activism)
 <!-- BLOG-POST-LIST:END -->
 
 ---
