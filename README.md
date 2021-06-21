@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Not Get a History PhD](https://www.reddit.com/r/AskHistorians/comments/96yf9h/monday_methods_why_you_should_not_get_a_history/)
+- [Facebook Launches Podcast and Live Audio Room Services](https://www.theouterhaven.net/2021/06/facebook-launches-podcast-and-live-audio-room-services/)
 - [Fine-Tuning Transformers for NLP](https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp)
 - [Git undo: We can do better](https://blog.waleedkhan.name/git-undo/)
 - [I was hit with a patent troll lawsuit, how do I deal with it? One man company](https://news.ycombinator.com/item?id=27579693)
-- [Ask HN: Most Useful Cloud Certifications ( Azure, AWS, GCE, ... )](https://news.ycombinator.com/item?id=27579431)
-- [Centaur Labs (YC W19) Is Hiring a Senior Back End Engineer in Boston](https://www.ycombinator.com/companies/centaur-labs/jobs/4wh4Av2-senior-backend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
