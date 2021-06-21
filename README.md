@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Japan government backs 4-day workweek](https://mainichi.jp/english/articles/20210619/p2g/00m/0na/014000c)
+- [HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping](https://johann.wang/HifiFace/)
 - [Mindat.org, the largest open database of minerals, rocks, and meteorites](https://www.mindat.org/)
 - [The Ice-V: a simple, compact RISC-V RV32I implementation in Silice](https://github.com/sylefeb/Silice/tree/draft/projects/ice-v)
 - [Gramps – Free Genealogy Software](https://gramps-project.org)
-- [Imp: A full-stack relational language built around incremental maintenance](https://github.com/jamii/imp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
