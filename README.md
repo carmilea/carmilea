@@ -54,8 +54,8 @@
 - [LibreCellular](https://librecellular.org/)
 - [Ask HN: How to learn proper Systems Programming?](https://news.ycombinator.com/item?id=27577514)
 - [Fluid Paint](https://david.li/paint/)
+- [A good livestreaming setup is a well-tailored suit](https://spandex.substack.com/p/why-your-livestreaming-setup-is-a)
 - [JPEG XL](https://jpegxl.info)
-- [Yggdrasil – an open source fully end-to-end encrypted IPv6 network](https://github.com/yggdrasil-network/yggdrasil-go)
 <!-- BLOG-POST-LIST:END -->
 
 ---
