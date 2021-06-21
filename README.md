@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JPEG XL](https://jpegxl.info)
 - [Yggdrasil – an open source fully end-to-end encrypted IPv6 network](https://github.com/yggdrasil-network/yggdrasil-go)
-- [Modernizing the DOM Tree in Microsoft Edge (2017)](https://blogs.windows.com/msedgedev/2017/04/19/modernizing-dom-tree-microsoft-edge/)
+- [OrganicMaps is Android and iOS offline maps for travel without trackers or ads](https://organicmaps.app/)
 - [Upgrading Precursor’s TRNG](https://www.bunniestudios.com/blog/?p=6094)
 - [Enthusiastic amateurs advance science as they hunt for exotic mushrooms](https://www.npr.org/2021/06/20/1006352654/enthusiastic-amateurs-advance-science-as-they-hunt-for-exotic-mushrooms)
-- [Turn your old, cracked Android phone into a backup server](https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup-server-urbackup-linux-deploy-tutorial-part-i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
