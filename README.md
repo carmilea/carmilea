@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Enthusiastic Amateurs Advance Science as They Hunt for Exotic Mushrooms](https://www.npr.org/2021/06/20/1006352654/enthusiastic-amateurs-advance-science-as-they-hunt-for-exotic-mushrooms)
-- [Turn Your Old, Cracked Android Phone into a Backup Server](https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup-server-urbackup-linux-deploy-tutorial-part-i)
-- [What it was like to be peer reviewed in the 1860s](https://physicstoday.scitation.org/do/10.1063/PT.5.9098/full/)
-- [New York congressman puts forward federal right-to-repair bill](https://www.theregister.com/2021/06/18/first_federal_right_to_repair_bill/)
-- [The Lazarus heist: How North Korea almost pulled off a billion-dollar hack](https://www.bbc.com/news/stories-57520169)
+- [Modernizing the DOM Tree in Microsoft Edge (2017)](https://blogs.windows.com/msedgedev/2017/04/19/modernizing-dom-tree-microsoft-edge/)
+- [Upgrading Precursor’s TRNG](https://www.bunniestudios.com/blog/?p=6094)
+- [Enthusiastic amateurs advance science as they hunt for exotic mushrooms](https://www.npr.org/2021/06/20/1006352654/enthusiastic-amateurs-advance-science-as-they-hunt-for-exotic-mushrooms)
+- [Turn your old, cracked Android phone into a backup server](https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup-server-urbackup-linux-deploy-tutorial-part-i)
+- [What it was like to be peer reviewed in the 1860s (2017)](https://physicstoday.scitation.org/do/10.1063/PT.5.9098/full/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
