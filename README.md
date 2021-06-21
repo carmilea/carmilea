@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Puppy Pregnancy in Humans: A Culture-Bound Disorder (2003)](https://journals.sagepub.com/doi/10.1177/0020764003049001536)
 - [Centaur Labs (YC W19) Is Hiring a Senior Back End Engineer in Boston](https://www.ycombinator.com/companies/centaur-labs/jobs/4wh4Av2-senior-backend-engineer)
 - [Wealthiest U.S. executives paid little to nothing in federal income taxes](https://www.thestar.com/news/world/us/2021/06/08/wealthiest-us-executives-paid-little-to-nothing-in-federal-income-taxes-report-says.html)
 - [LibreCellular](https://librecellular.org/)
 - [Ask HN: How to learn proper Systems Programming?](https://news.ycombinator.com/item?id=27577514)
-- [Fluid Paint](https://david.li/paint/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
