@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When tipping and smiling are both expected at work, so is sexual harassment](https://www.eurekalert.org/pub_releases/2021-06/ps-wta061821.php)
-- [Pee bottles, constant monitoring and ignoring stop signs: Driving for Amazon](https://www.cnbc.com/2021/06/21/drivers-speak-out-about-pressures-of-delivering-for-an-amazon-dsp.html)
-- [Towing a Tesla at 70 MPH Replenishes Battery at Fast Charger Rates](https://insideevs.com/news/514727/tesla-towing-70mph-fast-charging/)
+- [Fine-Tuning Transformers for NLP](https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp)
+- [Git undo: We can do better](https://blog.waleedkhan.name/git-undo/)
+- [I was hit with a patent troll lawsuit, how do I deal with it? One man company](https://news.ycombinator.com/item?id=27579693)
+- [Ask HN: Most Useful Cloud Certifications ( Azure, AWS, GCE, ... )](https://news.ycombinator.com/item?id=27579431)
 - [Centaur Labs (YC W19) Is Hiring a Senior Back End Engineer in Boston](https://www.ycombinator.com/companies/centaur-labs/jobs/4wh4Av2-senior-backend-engineer)
-- [LibreCellular](https://librecellular.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
