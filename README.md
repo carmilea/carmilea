@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Japan government backs 4-day workweek](https://mainichi.jp/english/articles/20210619/p2g/00m/0na/014000c)
-- [HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping](https://johann.wang/HifiFace/)
-- [Mindat.org, the largest open database of minerals, rocks, and meteorites](https://www.mindat.org/)
-- [The Ice-V: a simple, compact RISC-V RV32I implementation in Silice](https://github.com/sylefeb/Silice/tree/draft/projects/ice-v)
-- [Gramps – Free Genealogy Software](https://gramps-project.org)
+- [New York congressman puts forward federal right-to-repair bill](https://www.theregister.com/2021/06/18/first_federal_right_to_repair_bill/)
+- [Policies that make the poor less poor](https://www.eclogiselle.com/p/policies-that-make-poor-less-poor.html)
+- [Finding the Bottom Turtle](https://blog.dave.tf/post/finding-bottom-turtle/)
+- [USC professor’s DIY online teaching hack to engage students goes viral](https://news.usc.edu/174170/emily-nix-usc-professors-diy-online-teaching-hack/)
+- [Free Stuff for Developer](https://freestuff.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
