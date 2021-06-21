@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Puppy Pregnancy in Humans: A Culture-Bound Disorder (2003)](https://journals.sagepub.com/doi/10.1177/0020764003049001536)
+- [When tipping and smiling are both expected at work, so is sexual harassment](https://www.eurekalert.org/pub_releases/2021-06/ps-wta061821.php)
+- [Pee bottles, constant monitoring and ignoring stop signs: Driving for Amazon](https://www.cnbc.com/2021/06/21/drivers-speak-out-about-pressures-of-delivering-for-an-amazon-dsp.html)
+- [Towing a Tesla at 70 MPH Replenishes Battery at Fast Charger Rates](https://insideevs.com/news/514727/tesla-towing-70mph-fast-charging/)
 - [Centaur Labs (YC W19) Is Hiring a Senior Back End Engineer in Boston](https://www.ycombinator.com/companies/centaur-labs/jobs/4wh4Av2-senior-backend-engineer)
-- [Wealthiest U.S. executives paid little to nothing in federal income taxes](https://www.thestar.com/news/world/us/2021/06/08/wealthiest-us-executives-paid-little-to-nothing-in-federal-income-taxes-report-says.html)
 - [LibreCellular](https://librecellular.org/)
-- [Ask HN: How to learn proper Systems Programming?](https://news.ycombinator.com/item?id=27577514)
 <!-- BLOG-POST-LIST:END -->
 
 ---
