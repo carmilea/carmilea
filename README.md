@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Covid Vaccine Websites Violate Disability Laws, Create Inequity for the Blind](https://khn.org/news/article/covid-vaccine-websites-violate-disability-laws-create-inequity-for-the-blind/)
+- [Hundreds of vaccinated Indonesian health workers get Covid-19,dozens in hospital](https://www.reuters.com/world/asia-pacific/hundreds-indonesian-doctors-contract-covid-19-despite-vaccination-dozens-2021-06-17/)
+- [Curcumin: A bioavailable blocker of TNF and other pro-inflammatory biomarkers (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753829/)
 - [Gramps – Free Genealogy Software](https://gramps-project.org)
+- [Imp: A full-stack relational language built around incremental maintenance](https://github.com/jamii/imp)
 - [Zero-Knowledge Proofs](https://zkp.science/)
-- [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Constraints (1981) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6312/AIM-502a.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
