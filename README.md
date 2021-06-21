@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hundreds of vaccinated Indonesian health workers get Covid-19,dozens in hospital](https://www.reuters.com/world/asia-pacific/hundreds-indonesian-doctors-contract-covid-19-despite-vaccination-dozens-2021-06-17/)
-- [Curcumin: A bioavailable blocker of TNF and other pro-inflammatory biomarkers (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753829/)
+- [Japan government backs 4-day workweek](https://mainichi.jp/english/articles/20210619/p2g/00m/0na/014000c)
+- [Mindat.org, the largest open database of minerals, rocks, and meteorites](https://www.mindat.org/)
+- [The Ice-V: a simple, compact RISC-V RV32I implementation in Silice](https://github.com/sylefeb/Silice/tree/draft/projects/ice-v)
 - [Gramps – Free Genealogy Software](https://gramps-project.org)
 - [Imp: A full-stack relational language built around incremental maintenance](https://github.com/jamii/imp)
-- [Zero-Knowledge Proofs](https://zkp.science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
