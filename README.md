@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Navy set off a 40k-pound explosive to test its new supercarrier](https://www.businessinsider.com/navy-detonated-40000-pound-explosive-to-test-new-supercarrier-2021-6)
+- [Commissary Club (Formerly 70M Jobs) (YC S17) Is Hiring](https://www.ycombinator.com/companies/commissary-club/jobs/XVwtSri-senior-mobile-app-developer-react-native-ios-android)
+- [Why is Git so popular and frequently used?](https://news.ycombinator.com/item?id=27586432)
 - [Deloitte tells staff they can work from home forever](https://www.cityam.com/deloitte-tells-staff-they-can-work-from-home-forever/)
 - [Ditching OpenPGP, a new approach to signing APT repositories](https://wiki.debian.org/Teams/Apt/Spec/AptSign)
-- ['game of life' with rules to enable evolution](https://github.com/ShprAlex/SproutLife)
-- [Apple Daily to shut in days unless government agrees to plea to unfreeze assets](https://en.appledaily.com/apple-daily-to-shut-in-days-unless-government-agrees-to-last-ditch-plea-to-unfreeze-assets/JKXIS3OPZNFIFAJWU3PMO2R6R4)
-- [Turning a Classic CRT into a Smart TV](https://nickmchardy.com/2021/06/turning-a-classic-crt-into-a-smart-tv.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
