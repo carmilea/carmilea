@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is Ranked-Choice Voting and Why Is New York Using It?](https://www.npr.org/2021/06/22/1008807504/ranked-choice-voting-new-york-city-mayors-race)
+- [Intel restructures and creates new business units and leadership roles](https://www.intel.com/content/www/us/en/newsroom/news/intel-makes-changes-strengthen-execution-innovation-critical-business-areas.html)
 - [SafeButler (YC S17) Is Hiring a Marketing Associate](https://www.safebutler.com/careers)
-- [Software Developer Shortage Is Coming](https://cacm.acm.org/magazines/2021/7/253461-the-2021-software-developer-shortage-is-coming/fulltext)
-- [Saffron as an Antidepressant](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6266642/#sec1-1title)
+- [How Online Dating in the United States displaces other ways of meeting[pdf]](https://web.stanford.edu/~mrosenfe/Rosenfeld_et_al_Disintermediating_Friends.pdf)
 - [The Most Dangerous Censorship](https://edwardsnowden.substack.com/p/on-censorship-pt-1)
-- [Why is AI hard and Physics simple?](https://arxiv.org/abs/2104.00008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
