@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I made a new kind of Bible app](https://sparkbible.com)
-- [When an Eel Climbs a Ramp to Eat Squid from a Clamp, That’s a Moray](https://www.nytimes.com/2021/06/22/science/moray-eels-eat-land.html)
-- [What the Crypto Crowd Doesn’t Understand About Economics](https://www.bloomberg.com/opinion/articles/2021-06-21/what-the-crypto-crowd-doesn-t-understand-about-economics)
-- [Firecode: A collection traversal library for Firestore](https://github.com/kafkas/firecode)
-- [Do we Believe in U.F.O.s? That's the wrong question](https://www.nytimes.com/2020/07/28/insider/UFO-reporting.html)
+- [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+- [Ask HN: Feeling guilty for doing the bare minium at work](https://news.ycombinator.com/item?id=27593462)
+- [Introducing Brave Search beta](https://search.brave.com/)
+- [SimCities and SimCrises (2017)](http://molleindustria.org/GamesForCities/)
+- [Ask HN: Anyone built a biz with no-code tools? SaaS, productized service etc.?](https://news.ycombinator.com/item?id=27593073)
 <!-- BLOG-POST-LIST:END -->
 
 ---
