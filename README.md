@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firecode: A collection traversal library for Firestore](https://github.com/kafkas/firecode)
+- [Amazon warehouse destroys 130k items per week, some are unused, a report says](https://www.businessinsider.com/amazon-warehouse-destroys-destroy-items-returned-week-brand-new-itv-2021-6)
 - [Onboarding to Elixir](https://underjord.io/onboarding-to-elixir.html)
 - [A CCTV Company Is Paying Remote Workers in India to Yell at Armed Robbers](https://www.vice.com/en/article/4avnnn/a-cctv-company-is-paying-remote-workers-in-india-to-yell-at-armed-robbers)
 - [Bumble closes to give 'burnt-out' staff a week's break](https://www.bbc.co.uk/news/business-57562230)
-- [Instamenu (YC W21) Is Hiring](https://www.ycombinator.com/companies/instamenu/jobs/KqO4MW1-founding-full-stack-engineer)
-- [Fasm, a F# to Jitted ASM/IL disassembler as a dotnet tool](https://github.com/d-edge/fasm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
