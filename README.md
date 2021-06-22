@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Your CPU May Have Slowed Down on Wednesday](https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html)
+- [Hyundai acquires stake in U.S. robotics firm Boston Dynamics for $880M](https://finbold.com/hyundai-acquires-controlling-stake-in-u-s-robotics-firm-boston-dynamics-for-880-million/)
 - [Google’s Messaging Mess: A Timeline](https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messaging-mess-timeline)
+- [Real-time Machine Learning in SingleStore with MindsDB](https://www.singlestore.com/blog/real-time-machine-learning-with-mindsdb)
 - [Alpha-Gal Syndrome](https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608)
-- [A popular algorithm to predict sepsis misses most cases and sends false alarms](https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool/)
-- [Over 200 Patent Judges Were Improperly Appointed, Supreme Court Says](https://www.nytimes.com/2021/06/21/us/politics/supreme-court-patent-judges.html)
-- [Once Dataset: One Million Scenes for Autonomous Driving](https://once-for-auto-driving.github.io/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
