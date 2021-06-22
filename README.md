@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Instamenu (YC W21) Is Hiring](https://www.ycombinator.com/companies/instamenu/jobs/KqO4MW1-founding-full-stack-engineer)
+- [Fasm, a F# to Jitted ASM/IL disassembler as a dotnet tool](https://github.com/d-edge/fasm)
+- [Elfcat: Visualize ELF Binaries](https://github.com/ruslashev/elfcat)
+- [Attack Surface Analyzer helps you analyze your OS's security configuration](https://github.com/Microsoft/AttackSurfaceAnalyzer)
 - [What's Inside the EU Green Pass QR Code?](https://gir.st/blog/greenpass.html)
-- [UK Testing Emergency Alerts](https://www.gov.uk/alerts)
-- [Positions of Two NATO Ships Were Falsified Near Russian Black Sea Naval Base](https://news.usni.org/2021/06/21/positions-of-two-nato-ships-were-falsified-near-russian-black-sea-naval-base)
-- [U.S. Commerce Department rescinds TikTok, WeChat prohibited transactions list](https://www.reuters.com/technology/us-commerce-department-rescinds-tiktok-wechat-prohibited-transactions-list-2021-06-21/)
-- [Australia opposes Great Barrier Reef ′in danger′ listing](https://www.dw.com/en/australia-opposes-great-barrier-reef-in-danger-listing/a-57987254)
 <!-- BLOG-POST-LIST:END -->
 
 ---
