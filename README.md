@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who owns the German DAX? [pdf]](https://www.dirk.org/wp-content/uploads/2021/06/DAX-Study-2020-Investoren-der-Deutschland-AG-8_0.pdf)
+- [CMV: Tech monopolies should be banned as a class](https://old.reddit.com/r/changemyview/comments/o5g0wq/cmv_tech_monopolies_should_be_banned_as_a_class/)
 - [Pocketlang](https://github.com/ThakeeNathees/pocketlang)
 - [Visit Y Combinator.com for jobs at 800 high-growth YC startups](https://www.ycombinator.com/work-at-a-startup)
 - [Tour of the server room in the Airbus 350](https://www.youtube.com/watch?v=241-5DZyons)
-- [The Fine Art of Combining Harmonics](https://whatmusicreallyis.com/research/harmonicomb/)
-- [Redis server side if-modified-since caching pattern using lua](https://blog.r4um.net/2021/redis-mtime-getset/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
