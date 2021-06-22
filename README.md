@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What's Inside the EU Green Pass QR Code?](https://gir.st/blog/greenpass.html)
+- [UK Testing Emergency Alerts](https://www.gov.uk/alerts)
 - [Positions of Two NATO Ships Were Falsified Near Russian Black Sea Naval Base](https://news.usni.org/2021/06/21/positions-of-two-nato-ships-were-falsified-near-russian-black-sea-naval-base)
+- [U.S. Commerce Department rescinds TikTok, WeChat prohibited transactions list](https://www.reuters.com/technology/us-commerce-department-rescinds-tiktok-wechat-prohibited-transactions-list-2021-06-21/)
 - [Australia opposes Great Barrier Reef ′in danger′ listing](https://www.dw.com/en/australia-opposes-great-barrier-reef-in-danger-listing/a-57987254)
-- [Silice: A language for hardcoding Algorithms into FPGA hardware](https://github.com/sylefeb/Silice)
-- [Who owns the German DAX? [pdf]](https://www.dirk.org/wp-content/uploads/2021/06/DAX-Study-2020-Investoren-der-Deutschland-AG-8_0.pdf)
-- [Pocketlang](https://github.com/ThakeeNathees/pocketlang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
