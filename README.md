@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SafeButler (YC S17) Is Hiring a Marketing Associate](https://www.safebutler.com/careers)
+- [Software Developer Shortage Is Coming](https://cacm.acm.org/magazines/2021/7/253461-the-2021-software-developer-shortage-is-coming/fulltext)
 - [Saffron as an Antidepressant](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6266642/#sec1-1title)
 - [The Most Dangerous Censorship](https://edwardsnowden.substack.com/p/on-censorship-pt-1)
 - [Why is AI hard and Physics simple?](https://arxiv.org/abs/2104.00008)
-- [Reply of the Zaporozhian Cossacks to Sultan Mehmed IV](https://en.wikipedia.org/wiki/Reply_of_the_Zaporozhian_Cossacks)
-- [Regularization Is All You Need: Simple Neural Nets Can Excel on Tabular Data](https://arxiv.org/abs/2106.11189)
 <!-- BLOG-POST-LIST:END -->
 
 ---
