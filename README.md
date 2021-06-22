@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pocketlang](https://github.com/ThakeeNathees/pocketlang)
+- [Visit Y Combinator.com for jobs at 800 high-growth YC startups](https://www.ycombinator.com/work-at-a-startup)
+- [The Fine Art of Combining Harmonics](https://whatmusicreallyis.com/research/harmonicomb/)
 - [Your CPU May Have Slowed Down on Wednesday](https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html)
 - [Hyundai acquires stake in U.S. robotics firm Boston Dynamics for $880M](https://finbold.com/hyundai-acquires-controlling-stake-in-u-s-robotics-firm-boston-dynamics-for-880-million/)
-- [Google’s Messaging Mess: A Timeline](https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messaging-mess-timeline)
-- [Real-time Machine Learning in SingleStore with MindsDB](https://www.singlestore.com/blog/real-time-machine-learning-with-mindsdb)
-- [Alpha-Gal Syndrome](https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
