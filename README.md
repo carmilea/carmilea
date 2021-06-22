@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Conservative Activist Invented the Conflict over Critical Race Theory](https://www.newyorker.com/news/annals-of-inquiry/how-a-conservative-activist-invented-the-conflict-over-critical-race-theory)
+- [Saffron as an Antidepressant](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6266642/#sec1-1title)
+- [The Most Dangerous Censorship](https://edwardsnowden.substack.com/p/on-censorship-pt-1)
+- [Why is AI hard and Physics simple?](https://arxiv.org/abs/2104.00008)
+- [Reply of the Zaporozhian Cossacks to Sultan Mehmed IV](https://en.wikipedia.org/wiki/Reply_of_the_Zaporozhian_Cossacks)
 - [Regularization Is All You Need: Simple Neural Nets Can Excel on Tabular Data](https://arxiv.org/abs/2106.11189)
-- [Types of Propaganda, Propaganda Techniques, and Propaganda Strategies](http://factmyth.com/types-of-propaganda-propaganda-techniques-and-propaganda-stratigies/)
-- [Americans Are Pretty Skeptical That Hard Work Will Pay Off](https://www.theatlantic.com/business/archive/2017/04/hard-work-mobility/522207/)
-- [Poll Everywhere (YC S08) Is Hiring](https://www.polleverywhere.com/jobs#full-stack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
