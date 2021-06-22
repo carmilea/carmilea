@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ever-increasing home values are a Ponzi scheme](https://theweek.com/business/1001518/homes-should-not-be-a-store-of-wealth)
+- [Deloitte tells staff they can work from home forever](https://www.cityam.com/deloitte-tells-staff-they-can-work-from-home-forever/)
+- [Ditching OpenPGP, a new approach to signing APT repositories](https://wiki.debian.org/Teams/Apt/Spec/AptSign)
+- ['game of life' with rules to enable evolution](https://github.com/ShprAlex/SproutLife)
+- [Apple Daily to shut in days unless government agrees to plea to unfreeze assets](https://en.appledaily.com/apple-daily-to-shut-in-days-unless-government-agrees-to-last-ditch-plea-to-unfreeze-assets/JKXIS3OPZNFIFAJWU3PMO2R6R4)
 - [Turning a Classic CRT into a Smart TV](https://nickmchardy.com/2021/06/turning-a-classic-crt-into-a-smart-tv.html)
-- [Bright (YC W15) Is Hiring](https://www.ycombinator.com/companies/bright/jobs/XvqoCpD-impact-driven-software-backend-engineer)
-- [Accidentally exponential behavior in Spark](https://heap.io/blog/accidentally-exponential-behavior-in-spark)
-- [Apple is building the metaverse substrate](https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
