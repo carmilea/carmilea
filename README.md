@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Poll Everywhere (YC S08) Is Hiring](https://www.polleverywhere.com/jobs#full-stack-engineer)
 - [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+- [Ask HN: Feeling guilty for doing the bare minimum at work](https://news.ycombinator.com/item?id=27593462)
 - [The Backblaze Rebrand Reveal](https://www.backblaze.com/blog/the-rebrand-reveal/)
 - [Decentralized Identifiers (DIDs) v1.0 (W3C draft)](https://www.w3.org/TR/did-core/)
-- [Introducing Brave Search beta](https://search.brave.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
