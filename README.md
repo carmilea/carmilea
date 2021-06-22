@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Political trolling twice as popular as positivity, study suggests](https://www.bbc.com/news/technology-57558028)
+- [Tellme – text-to-speech command execution notifier](https://github.com/whot/tellme)
 - [US Navy set off a 40k-pound explosive to test its new supercarrier](https://www.businessinsider.com/navy-detonated-40000-pound-explosive-to-test-new-supercarrier-2021-6)
 - [Commissary Club (Formerly 70M Jobs) (YC S17) Is Hiring](https://www.ycombinator.com/companies/commissary-club/jobs/XVwtSri-senior-mobile-app-developer-react-native-ios-android)
 - [Why is Git so popular and frequently used?](https://news.ycombinator.com/item?id=27586432)
-- [Deloitte tells staff they can work from home forever](https://www.cityam.com/deloitte-tells-staff-they-can-work-from-home-forever/)
-- [Ditching OpenPGP, a new approach to signing APT repositories](https://wiki.debian.org/Teams/Apt/Spec/AptSign)
 <!-- BLOG-POST-LIST:END -->
 
 ---
