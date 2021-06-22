@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s Messaging Mess: A Timeline](https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messaging-mess-timeline)
+- [Alpha-Gal Syndrome](https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608)
+- [A popular algorithm to predict sepsis misses most cases and sends false alarms](https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool/)
+- [Over 200 Patent Judges Were Improperly Appointed, Supreme Court Says](https://www.nytimes.com/2021/06/21/us/politics/supreme-court-patent-judges.html)
 - [Political trolling twice as popular as positivity, study suggests](https://www.bbc.com/news/technology-57558028)
-- [Tellme – text-to-speech command execution notifier](https://github.com/whot/tellme)
-- [US Navy set off a 40k-pound explosive to test its new supercarrier](https://www.businessinsider.com/navy-detonated-40000-pound-explosive-to-test-new-supercarrier-2021-6)
-- [Commissary Club (Formerly 70M Jobs) (YC S17) Is Hiring](https://www.ycombinator.com/companies/commissary-club/jobs/XVwtSri-senior-mobile-app-developer-react-native-ios-android)
-- [Why is Git so popular and frequently used?](https://news.ycombinator.com/item?id=27586432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
