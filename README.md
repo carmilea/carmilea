@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Conservative Activist Invented the Conflict over Critical Race Theory](https://www.newyorker.com/news/annals-of-inquiry/how-a-conservative-activist-invented-the-conflict-over-critical-race-theory)
+- [Regularization Is All You Need: Simple Neural Nets Can Excel on Tabular Data](https://arxiv.org/abs/2106.11189)
+- [Types of Propaganda, Propaganda Techniques, and Propaganda Strategies](http://factmyth.com/types-of-propaganda-propaganda-techniques-and-propaganda-stratigies/)
+- [Americans Are Pretty Skeptical That Hard Work Will Pay Off](https://www.theatlantic.com/business/archive/2017/04/hard-work-mobility/522207/)
 - [Poll Everywhere (YC S08) Is Hiring](https://www.polleverywhere.com/jobs#full-stack-engineer)
-- [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
-- [Ask HN: Feeling guilty for doing the bare minimum at work](https://news.ycombinator.com/item?id=27593462)
-- [The Backblaze Rebrand Reveal](https://www.backblaze.com/blog/the-rebrand-reveal/)
-- [Decentralized Identifiers (DIDs) v1.0 (W3C draft)](https://www.w3.org/TR/did-core/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
