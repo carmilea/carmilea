@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Ranked-Choice Voting and Why Is New York Using It?](https://www.npr.org/2021/06/22/1008807504/ranked-choice-voting-new-york-city-mayors-race)
-- [Intel restructures and creates new business units and leadership roles](https://www.intel.com/content/www/us/en/newsroom/news/intel-makes-changes-strengthen-execution-innovation-critical-business-areas.html)
+- [The “self-made” myth: Why hard work isn’t enough to reach the top](https://thehustle.co/self-made-myth-luck-versus-hard-work/)
+- [Racing Game in ClojureScript](https://github.com/ertugrulcetin/racing-game-cljs)
+- [What is ranked-choice voting and why is New York using it?](https://www.npr.org/2021/06/22/1008807504/ranked-choice-voting-new-york-city-mayors-race)
 - [SafeButler (YC S17) Is Hiring a Marketing Associate](https://www.safebutler.com/careers)
-- [How Online Dating in the United States displaces other ways of meeting[pdf]](https://web.stanford.edu/~mrosenfe/Rosenfeld_et_al_Disintermediating_Friends.pdf)
-- [The Most Dangerous Censorship](https://edwardsnowden.substack.com/p/on-censorship-pt-1)
+- [Saffron as an Antidepressant](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6266642/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
