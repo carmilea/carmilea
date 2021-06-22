@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Pocketlang](https://github.com/ThakeeNathees/pocketlang)
 - [Visit Y Combinator.com for jobs at 800 high-growth YC startups](https://www.ycombinator.com/work-at-a-startup)
+- [Tour of the server room in the Airbus 350](https://www.youtube.com/watch?v=241-5DZyons)
 - [The Fine Art of Combining Harmonics](https://whatmusicreallyis.com/research/harmonicomb/)
-- [Your CPU May Have Slowed Down on Wednesday](https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html)
-- [Hyundai acquires stake in U.S. robotics firm Boston Dynamics for $880M](https://finbold.com/hyundai-acquires-controlling-stake-in-u-s-robotics-firm-boston-dynamics-for-880-million/)
+- [Redis server side if-modified-since caching pattern using lua](https://blog.r4um.net/2021/redis-mtime-getset/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
