@@ -55,7 +55,7 @@
 - [Alpha-Gal Syndrome](https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608)
 - [A popular algorithm to predict sepsis misses most cases and sends false alarms](https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool/)
 - [Over 200 Patent Judges Were Improperly Appointed, Supreme Court Says](https://www.nytimes.com/2021/06/21/us/politics/supreme-court-patent-judges.html)
-- [Political trolling twice as popular as positivity, study suggests](https://www.bbc.com/news/technology-57558028)
+- [Once Dataset: One Million Scenes for Autonomous Driving](https://once-for-auto-driving.github.io/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
