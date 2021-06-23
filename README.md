@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikidata](https://www.wikidata.org/wiki/Wikidata:Introduction)
+- [Hosted Monitoring: Evaluating InfluxDB Cloud and Grafana Cloud](https://pqvst.com/2021/06/22/hosted-monitoring-evaluating-influx-and-grafana/)
 - [Details of Yesterday's Bunny CDN Outage](https://bunny.net/blog/the-stack-overflow-of-death-dns-collapse/)
 - [Plover (rhymes with “hover”) is a free, open-source stenography engine](https://www.openstenoproject.org/plover/)
 - [Taktile (YC S20) Is Hiring a Forward Deployed Machine Learning Engineer (F/M/D)](https://www.ycombinator.com/companies/taktile/jobs/HgBywT9-machine-learning-engineer-product-f-m-d)
-- [IBM 5110 Emulator in JavaScript](https://norbertkehrer.github.io/ibm_5110/emu5110.html)
-- [The Rise of the $10M Disc Golf Celebrity](https://www.theringer.com/features/2021/6/21/22542839/disc-golf-niche-sports-million-dollar-endorsement-deals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
