@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tim Cook called Nancy Pelosi to warn her against antitrust disrupting the iPhone](https://www.theverge.com/2021/6/22/22546286/apple-tim-cook-nancy-pelosi-google-amazon-facebook-antitrust-lobbying)
+- [What Is Voter Satisfaction Efficiency?](http://electionscience.github.io/vse-sim/VSE/)
 - [The Teamsters Announce Coordinated Nationwide Project to Unionize Amazon](https://www.vice.com/en/article/akg7pp/the-teamsters-announce-coordinated-nationwide-project-to-unionize-amazon)
 - [The string type is broken (2013)](https://mortoray.com/2013/11/27/the-string-type-is-broken/)
 - [Toxoplasmosis – A Global Threat](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3963851/)
