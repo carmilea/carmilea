@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: iPod.js – An online iPod that connects to Spotify and Apple Music](https://tannerv.com/ipod)
+- [Librem 5 Evergreen vs. PinePhone (Part 2)](https://thatgeoguy.ca/blog/2021/06/22/Librem-5-Evergreen-vs-Pinephone/)
+- [Maplibre.org Open Maps SDKs for web and mobile: community driven Mapbox GL fork](https://maplibre.org/)
 - [New Elixir 1.12 – The developer’s point of view](https://bartoszgorka.com/elixir-1-12-released)
 - [Russian jets and ships target British warship](https://www.bbc.com/news/world-europe-57583363)
-- [Costa Rica Has Run on 100% Renewable Electricity for 299 Days](https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days)
-- [NimConf 2021](https://conf.nim-lang.org/)
-- [A list of privacy-friendly Google Analytics alternatives](https://creativerly.com/google-analytics-alternatives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
