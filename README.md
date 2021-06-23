@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Swedish Model: Make Being a Sexworker Hell on Earth](https://www.reddit.com/r/SexWorkers/comments/n11oqk/the_ongoing_witchhunt_for_fssw_in_sweden_the/)
-- [Warren Buffett donates another $4.1B, resigns as Gates trustee](https://www.cnbc.com/2021/06/23/warren-buffett-gives-away-another-4point1-billion-resigns-as-trustee-at-gates-foundation.html)
-- [Instructions Show How Cops Use GrayKey to Brute Force iPhones](https://www.vice.com/en/article/k7835w/how-to-brute-force-iphones-graykey)
-- [Hasura GraphQL Engine 2.0](https://github.com/hasura/graphql-engine/releases/tag/v2.0.0)
-- [GiveCampus (YC S15) is hiring a Product Lead to drive our next wave of growth](https://jobs.lever.co/givecampus/06fcede7-0282-4b15-9319-7ede911336cf)
+- [New Elixir 1.12 – The developer’s point of view](https://bartoszgorka.com/elixir-1-12-released)
+- [Russian jets and ships target British warship](https://www.bbc.com/news/world-europe-57583363)
+- [Costa Rica Has Run on 100% Renewable Electricity for 299 Days](https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days)
+- [NimConf 2021](https://conf.nim-lang.org/)
+- [A list of privacy-friendly Google Analytics alternatives](https://creativerly.com/google-analytics-alternatives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
