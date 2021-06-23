@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Taktile (YC S20) Is Hiring a Forward Deployed Machine Learning Engineer (F/M/D)](https://www.ycombinator.com/companies/taktile/jobs/HgBywT9-machine-learning-engineer-product-f-m-d)
 - [IBM 5110 Emulator in JavaScript](https://norbertkehrer.github.io/ibm_5110/emu5110.html)
 - [I can't stand developing for Safari anymore](https://old.reddit.com/r/webdev/comments/o5k8gb/rant_i_cant_stand_developing_for_safari_anymore/)
 - [The Rise of the $10M Disc Golf Celebrity](https://www.theringer.com/features/2021/6/21/22542839/disc-golf-niche-sports-million-dollar-endorsement-deals)
 - [What Is Voter Satisfaction Efficiency?](http://electionscience.github.io/vse-sim/VSE/)
-- [Saudi Operatives Who Killed Khashoggi Received Paramilitary Training in U.S.](https://www.nytimes.com/2021/06/22/us/politics/khashoggi-saudi-kill-team-us-training.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
