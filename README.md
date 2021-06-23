@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: iPod.js – An online iPod that connects to Spotify and Apple Music](https://tannerv.com/ipod)
-- [Librem 5 Evergreen vs. PinePhone (Part 2)](https://thatgeoguy.ca/blog/2021/06/22/Librem-5-Evergreen-vs-Pinephone/)
-- [Maplibre.org Open Maps SDKs for web and mobile: community driven Mapbox GL fork](https://maplibre.org/)
-- [New Elixir 1.12 – The developer’s point of view](https://bartoszgorka.com/elixir-1-12-released)
-- [Russian jets and ships target British warship](https://www.bbc.com/news/world-europe-57583363)
+- [Launch HN: Alpas (YC W21) – Software to find suppliers for industrial parts](https://news.ycombinator.com/item?id=27606860)
+- [Qventus (YC W15) Is Hiring a Senior Data Scientist](https://jobs.lever.co/qventus/2f0ee88c-89aa-4374-b724-87bffd5a2086)
+- [New GitHub Issues Beta](https://github.com/features/issues)
+- [Show HN: Fuzzynote – terminal-based, CRDT-backed, collaborative note-taking](https://github.com/Sambigeara/fuzzynote)
+- [Supreme Court sides with high school cheerleader who cursed online](https://www.cnn.com/2021/06/23/politics/supreme-court-first-amendment-cheerleader/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
