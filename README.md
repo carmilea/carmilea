@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube: “Older Unlisted videos will be made Private unless you opt out”](https://support.google.com/youtube/answer/9230970)
 - [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
-- [The Go Collective on Stack Overflow](https://blog.golang.org/stackoverflow)
-- [Scientist Finds Early Virus Sequences That Had Been Mysteriously Deleted](https://www.nytimes.com/2021/06/23/science/coronavirus-sequences.html)
-- [Newsom Misled Public About Wildfire Prevention Effort Ahead of Worst Fire Season](https://www.capradio.org/articles/2021/06/23/newsom-misled-the-public-about-wildfire-prevention-efforts-ahead-of-worst-fire-season-on-record/)
-- [John McAfee found dead in Spanish jail after court approves extradition to US](https://www.nbc4i.com/news/u-s-world/john-mcafee-found-dead-in-spanish-jail-after-court-approves-extradition-to-us)
+- [Unravelling the Enigma of Bird Magnetoreception](https://www.nature.com/articles/d41586-021-01596-6)
+- [Scientist finds early virus sequences that had been mysteriously deleted](https://www.nytimes.com/2021/06/23/science/coronavirus-sequences.html)
+- [John McAfee found dead in Spanish jail after court approves extradition to US](https://www.bbc.com/news/world-europe-57589822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
