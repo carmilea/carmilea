@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft hits $2T market value](https://www.seattletimes.com/business/microsoft-rises-to-join-apple-in-exclusive-2-trillion-club/)
-- [Disney will send you a copyright strike if your face looks like Loki's](https://twitter.com/LordAmalthean/status/1407015308796309506)
+- [Flatpak – A Security Nightmare](http://flatkill.org/#)
 - [The Rise of the $10M Disc Golf Celebrity](https://www.theringer.com/features/2021/6/21/22542839/disc-golf-niche-sports-million-dollar-endorsement-deals)
 - [What Is Voter Satisfaction Efficiency?](http://electionscience.github.io/vse-sim/VSE/)
 - [Saudi Operatives Who Killed Khashoggi Received Paramilitary Training in U.S.](https://www.nytimes.com/2021/06/22/us/politics/khashoggi-saudi-kill-team-us-training.html)
+- [The Teamsters announce coordinated nationwide project to unionize Amazon](https://www.vice.com/en/article/akg7pp/the-teamsters-announce-coordinated-nationwide-project-to-unionize-amazon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
