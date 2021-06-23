@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wikidata](https://www.wikidata.org/wiki/Wikidata:Introduction)
-- [Hosted Monitoring: Evaluating InfluxDB Cloud and Grafana Cloud](https://pqvst.com/2021/06/22/hosted-monitoring-evaluating-influx-and-grafana/)
-- [Details of Yesterday's Bunny CDN Outage](https://bunny.net/blog/the-stack-overflow-of-death-dns-collapse/)
-- [Plover (rhymes with “hover”) is a free, open-source stenography engine](https://www.openstenoproject.org/plover/)
-- [Taktile (YC S20) Is Hiring a Forward Deployed Machine Learning Engineer (F/M/D)](https://www.ycombinator.com/companies/taktile/jobs/HgBywT9-machine-learning-engineer-product-f-m-d)
+- [GiveCampus (YC S15) is hiring a Product Lead to drive our next wave of growth](https://jobs.lever.co/givecampus/06fcede7-0282-4b15-9319-7ede911336cf)
+- [Ask HN: I don't feel like working at all, what to do?](https://news.ycombinator.com/item?id=27603235)
+- [TeXmacs 2.1](https://www.texmacs.org/tmweb/home/videos.en.html)
+- [Is Education No Longer the ‘Great Equalizer’?](https://www.nytimes.com/2021/06/23/opinion/education-poverty-intervention.html)
+- [The HTML Data List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
