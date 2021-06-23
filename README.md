@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flatpak – A Security Nightmare](http://flatkill.org/#)
+- [IBM 5110 Emulator in JavaScript](https://norbertkehrer.github.io/ibm_5110/emu5110.html)
+- [I can't stand developing for Safari anymore](https://old.reddit.com/r/webdev/comments/o5k8gb/rant_i_cant_stand_developing_for_safari_anymore/)
 - [The Rise of the $10M Disc Golf Celebrity](https://www.theringer.com/features/2021/6/21/22542839/disc-golf-niche-sports-million-dollar-endorsement-deals)
 - [What Is Voter Satisfaction Efficiency?](http://electionscience.github.io/vse-sim/VSE/)
 - [Saudi Operatives Who Killed Khashoggi Received Paramilitary Training in U.S.](https://www.nytimes.com/2021/06/22/us/politics/khashoggi-saudi-kill-team-us-training.html)
-- [The Teamsters announce coordinated nationwide project to unionize Amazon](https://www.vice.com/en/article/akg7pp/the-teamsters-announce-coordinated-nationwide-project-to-unionize-amazon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
