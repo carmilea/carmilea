@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rival weightlifter speaks out on transgender Hubbard's Olympic place](https://www.insidethegames.biz/articles/1108399/anna-vanbellinghen-hubbard)
-- [Effects of cat ownership on the gut microbiota of owners](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253133)
-- [Racing Game in ClojureScript](https://github.com/ertugrulcetin/racing-game-cljs)
-- [What is ranked-choice voting and why is New York using it?](https://www.npr.org/2021/06/22/1008807504/ranked-choice-voting-new-york-city-mayors-race)
-- [SafeButler (YC S17) Is Hiring a Marketing Associate](https://www.safebutler.com/careers)
+- [Tim Cook called Nancy Pelosi to warn her against antitrust disrupting the iPhone](https://www.theverge.com/2021/6/22/22546286/apple-tim-cook-nancy-pelosi-google-amazon-facebook-antitrust-lobbying)
+- [The Teamsters Announce Coordinated Nationwide Project to Unionize Amazon](https://www.vice.com/en/article/akg7pp/the-teamsters-announce-coordinated-nationwide-project-to-unionize-amazon)
+- [The string type is broken (2013)](https://mortoray.com/2013/11/27/the-string-type-is-broken/)
+- [Toxoplasmosis – A Global Threat](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3963851/)
+- [Learn C and build your own Lisp (2014)](http://buildyourownlisp.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
