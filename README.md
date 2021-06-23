@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Swedish Model: Make Being a Sexworker Hell on Earth](https://www.reddit.com/r/SexWorkers/comments/n11oqk/the_ongoing_witchhunt_for_fssw_in_sweden_the/)
+- [Warren Buffett donates another $4.1B, resigns as Gates trustee](https://www.cnbc.com/2021/06/23/warren-buffett-gives-away-another-4point1-billion-resigns-as-trustee-at-gates-foundation.html)
 - [Instructions Show How Cops Use GrayKey to Brute Force iPhones](https://www.vice.com/en/article/k7835w/how-to-brute-force-iphones-graykey)
 - [Hasura GraphQL Engine 2.0](https://github.com/hasura/graphql-engine/releases/tag/v2.0.0)
 - [GiveCampus (YC S15) is hiring a Product Lead to drive our next wave of growth](https://jobs.lever.co/givecampus/06fcede7-0282-4b15-9319-7ede911336cf)
-- [TeXmacs 2.1](https://www.texmacs.org/tmweb/home/videos.en.html)
-- [The HTML Data List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
