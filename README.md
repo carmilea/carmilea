@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US tycoon McAfee found dead in Spanish prison](https://www.bbc.com/news/world-europe-57589822)
+- [McAffee commits suicide in a Spanish jail [ES]](https://www.nbc4i.com/news/u-s-world/john-mcafee-found-dead-in-spanish-jail-after-court-approves-extradition-to-us)
 - [NEORV32: A customizable RISC-V SoC](https://blog.adafruit.com/2021/06/23/neorv32-a-customizable-risc-v-soc-riscv-fpga/)
 - [Launch HN: Alpas (YC W21) – Software to find suppliers for industrial parts](https://news.ycombinator.com/item?id=27606860)
 - [Qventus (YC W15) Is Hiring a Senior Data Scientist](https://jobs.lever.co/qventus/2f0ee88c-89aa-4374-b724-87bffd5a2086)
-- [New GitHub Issues Beta](https://github.com/features/issues)
-- [Show HN: Fuzzynote – terminal-based, CRDT-backed, collaborative note-taking](https://github.com/Sambigeara/fuzzynote)
 <!-- BLOG-POST-LIST:END -->
 
 ---
