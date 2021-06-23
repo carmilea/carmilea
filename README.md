@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney will send you a copyright strike if your face looks like Loki's](https://twitter.com/LordAmalthean/status/1407015308796309506)
+- [The Rise of the $10M Disc Golf Celebrity](https://www.theringer.com/features/2021/6/21/22542839/disc-golf-niche-sports-million-dollar-endorsement-deals)
 - [What Is Voter Satisfaction Efficiency?](http://electionscience.github.io/vse-sim/VSE/)
 - [The Teamsters Announce Coordinated Nationwide Project to Unionize Amazon](https://www.vice.com/en/article/akg7pp/the-teamsters-announce-coordinated-nationwide-project-to-unionize-amazon)
-- [The string type is broken (2013)](https://mortoray.com/2013/11/27/the-string-type-is-broken/)
 - [Toxoplasmosis – A Global Threat](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3963851/)
-- [Learn C and build your own Lisp (2014)](http://buildyourownlisp.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
