@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US tycoon McAfee found dead in Spanish prison](https://www.bbc.com/news/world-europe-57589822)
-- [McAffee commits suicide in a Spanish jail [ES]](https://www.nbc4i.com/news/u-s-world/john-mcafee-found-dead-in-spanish-jail-after-court-approves-extradition-to-us)
-- [NEORV32: A customizable RISC-V SoC](https://blog.adafruit.com/2021/06/23/neorv32-a-customizable-risc-v-soc-riscv-fpga/)
-- [Launch HN: Alpas (YC W21) – Software to find suppliers for industrial parts](https://news.ycombinator.com/item?id=27606860)
-- [Qventus (YC W15) Is Hiring a Senior Data Scientist](https://jobs.lever.co/qventus/2f0ee88c-89aa-4374-b724-87bffd5a2086)
+- [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
+- [The Go Collective on Stack Overflow](https://blog.golang.org/stackoverflow)
+- [Scientist Finds Early Virus Sequences That Had Been Mysteriously Deleted](https://www.nytimes.com/2021/06/23/science/coronavirus-sequences.html)
+- [Newsom Misled Public About Wildfire Prevention Effort Ahead of Worst Fire Season](https://www.capradio.org/articles/2021/06/23/newsom-misled-the-public-about-wildfire-prevention-efforts-ahead-of-worst-fire-season-on-record/)
+- [John McAfee found dead in Spanish jail after court approves extradition to US](https://www.nbc4i.com/news/u-s-world/john-mcafee-found-dead-in-spanish-jail-after-court-approves-extradition-to-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
