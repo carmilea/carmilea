@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The “self-made” myth: Why hard work isn’t enough to reach the top](https://thehustle.co/self-made-myth-luck-versus-hard-work/)
+- [Rival weightlifter speaks out on transgender Hubbard's Olympic place](https://www.insidethegames.biz/articles/1108399/anna-vanbellinghen-hubbard)
+- [Effects of cat ownership on the gut microbiota of owners](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253133)
 - [Racing Game in ClojureScript](https://github.com/ertugrulcetin/racing-game-cljs)
 - [What is ranked-choice voting and why is New York using it?](https://www.npr.org/2021/06/22/1008807504/ranked-choice-voting-new-york-city-mayors-race)
 - [SafeButler (YC S17) Is Hiring a Marketing Associate](https://www.safebutler.com/careers)
-- [Saffron as an Antidepressant](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6266642/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
