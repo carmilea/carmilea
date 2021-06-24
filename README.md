@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toxoplasmosis: The Cat Poop Parasite That's Probably in Your Brain](https://interestingengineering.com/toxoplasmosis-the-cat-poop-parasite-probably-in-your-brain)
+- [How YouTube’s rules are used to silence human rights activists](https://www.technologyreview.com/2021/06/24/1027048/youtube-xinjiang-censorship-human-rights-atajurt/)
+- [Hospitals are selling treasure troves of medical data – what could go wrong?](https://www.theverge.com/2021/6/23/22547397/medical-records-health-data-hospitals-research)
+- [It’s True: Stress Does Turn Hair Gray (and It’s Reversible)](https://www.cuimc.columbia.edu/news/its-true-stress-does-turn-hair-gray-and-its-reversible)
 - [You Are Doing Too Much: Focus on One Thing](https://www.perspective-collective.com/perspectivepodcast/you-are-doing-too-much-focus-on-one-thing)
-- [Ask HN: What software do you use to gather requirements?](https://news.ycombinator.com/item?id=27615562)
-- [Treesheets: cross-platform, free-form data organizer app](http://strlen.com/treesheets/)
-- [Show HN: 3dasd – open-source DIY room-scale 3D scanner](https://3dasd.com/)
-- [Google will consider lowering Play Store cut to 15% for certain apps](https://android-developers.googleblog.com/2021/06/continuing-to-boost-developer-success.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
