@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Things 10x People Do](https://staysaasy.com/management/2021/06/21/10x.html)
-- [Visa to buy Swedish fintech startup Tink](https://www.cnbc.com/2021/06/24/visa-to-buy-swedish-fintech-start-up-tink.html)
+- [You Are Doing Too Much: Focus on One Thing](https://www.perspective-collective.com/perspectivepodcast/you-are-doing-too-much-focus-on-one-thing)
+- [Ask HN: What software do you use to gather requirements?](https://news.ycombinator.com/item?id=27615562)
 - [Treesheets: cross-platform, free-form data organizer app](http://strlen.com/treesheets/)
 - [Show HN: 3dasd – open-source DIY room-scale 3D scanner](https://3dasd.com/)
 - [Google will consider lowering Play Store cut to 15% for certain apps](https://android-developers.googleblog.com/2021/06/continuing-to-boost-developer-success.html)
