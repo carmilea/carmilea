@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiny Acquisitions: Buy and sell tiny projects that are worth less than $5k](https://tinyacquisitions.com)
+- [Mobile NixOS for Phones and Tablets](https://mobile.nixos.org/)
 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
-- [Microsoft Game Development Kit (GDK)](https://github.com/microsoft/gdk)
+- [Twilio, Asana to List on Long Term Stock Exchange](https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701)
 - [Stop using your work laptop or phone for personal stuff, because I know you are](https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/)
-- [Crazy Clock](https://www.tindie.com/products/nsayer/crazy-clock/)
-- [Introduction to Search by Analogy, with Videogames (2019)](http://barrettrees.com/search_by_analogy_interactive/IntroductionToSearchByAnalogy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
