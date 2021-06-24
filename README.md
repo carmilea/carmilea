@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
+- [Show HN: Freeciv-Web](https://www.freecivweb.org/?2021)
+- [A Brief History of Just-in-Time (2003) [pdf]](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf)
 - [Introduction to Locality-Sensitive Hashing](http://tylerneylon.com/a/lsh1/)
 - [The world relies on one Chip Maker in Taiwan, Leaving Everyone Vulnerable](https://www.wsj.com/articles/the-world-relies-on-one-chip-maker-in-taiwan-leaving-everyone-vulnerable-11624075400)
-- [Why it took us thousands of years to see the colour violet](https://psyche.co/ideas/why-it-took-us-thousands-of-years-to-see-the-colour-violet)
-- [How ancient people fell in love with bread, beer and other carbs](https://www.nature.com/articles/d41586-021-01681-w)
-- [Hacker deleted all of NewsBlur’s Mongo data and is now holding the data hostage](https://newsblur.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
