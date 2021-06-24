@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI tears innocent New Yorker’s life into shreds after Jan. 6](https://nypost.com/2021/06/23/fbi-tears-new-yorkers-life-into-shreds-devine/)
+- [“Full English” tops UK hangover-cure survey](https://www.theregister.com/2021/06/24/hangover_survey/)
+- [Climate watchdog says Britain lacks a strategy to meet its goals](https://www.nytimes.com/2021/06/24/business/energy-environment/britain-climate-goals.html)
 - [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://www.workatastartup.com/jobs/43782)
-- [EE to reintroduce data roaming charges in Europe, following Brexit](https://www.bbc.co.uk/news/technology-57595913)
+- [No evidence that chance meetings in office boosts innovation](https://www.nytimes.com/2021/06/23/upshot/remote-work-innovation-office.html)
 - [Writing ARM64 Code for Apple Platforms](https://developer.apple.com/documentation/xcode/writing-arm64-code-for-apple-platforms)
-- [Toxoplasmosis: The Cat Poop Parasite That's Probably in Your Brain](https://interestingengineering.com/toxoplasmosis-the-cat-poop-parasite-probably-in-your-brain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
