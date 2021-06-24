@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube: “Older Unlisted videos will be made Private unless you opt out”](https://support.google.com/youtube/answer/9230970)
-- [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
-- [Unravelling the Enigma of Bird Magnetoreception](https://www.nature.com/articles/d41586-021-01596-6)
-- [Scientist finds early virus sequences that had been mysteriously deleted](https://www.nytimes.com/2021/06/23/science/coronavirus-sequences.html)
-- [John McAfee found dead in Spanish jail after court approves extradition to US](https://www.bbc.com/news/world-europe-57589822)
+- [Rainforest (YC S12) Is Hiring Senior Engineers, Globally and Remote](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=hn)
+- [Will Work for Air-Conditioning](https://www.nytimes.com/2021/06/21/style/air-conditioning-office.html)
+- [Pulling GitHub into the Linux kernel process](https://lwn.net/SubscriberLink/860607/ef7cdf174ccbe54d/)
+- [Lego Island Rebuilder](https://www.legoisland.org/wiki/index.php/LEGO_Island_Rebuilder)
+- [“Older unlisted videos will be made private unless you opt out”](https://support.google.com/youtube/answer/9230970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
