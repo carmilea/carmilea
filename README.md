@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paperspace (YC W15) is hiring engineers to build a modern MLOps platform](https://www.paperspace.com/careers)
+- [Quad9 is forced by Sony to block DNS resolution of pirate domains](https://quad9.net/news/blog/quad9-and-sony-music-german-injunction-status/)
+- [The Banning of Joyce's Ulysses](https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/)
+- [Developing Games on Linux: An Interview with Little Red Dog Games](https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with)
 - [The Next Backblaze Storage Pod](https://www.backblaze.com/blog/next-backblaze-storage-pod/)
-- [Introducing Windows 11](https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/)
-- [Microsoft is bringing Android apps to Windows 11](https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store)
-- [International coalition calls for action against surveillance-based advertising](https://www.forbrukerradet.no/side/new-report-details-threats-to-consumers-from-surveillance-based-advertising/)
-- [Micro APIs for Everyday Use](https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
