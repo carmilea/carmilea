@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop using your work laptop or phone for personal stuff, because I know you are](https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/)
+- [Crazy Clock](https://www.tindie.com/products/nsayer/crazy-clock/)
+- [Introduction to Search by Analogy, with Videogames (2019)](http://barrettrees.com/search_by_analogy_interactive/IntroductionToSearchByAnalogy.html)
 - [Google turned me into a serial killer](https://hristo-georgiev.com/google-turned-me-into-a-serial-killer)
-- [Microsoft second company to crack $2T valuation, after Apple](https://finance.yahoo.com/quote/MSFT/)
-- [Cl-bodge: a cross-platform Common Lisp game and application framework](https://borodust.org/projects/cl-bodge/)
-- [Paperspace (YC W15) is hiring engineers to build a modern MLOps platform](https://www.paperspace.com/careers)
-- [Quad9 is forced by Sony to block DNS resolution of pirate domains](https://quad9.net/news/blog/quad9-and-sony-music-german-injunction-status/)
+- [The Ever Given is still stuck in the Suez Canal](https://www.wired.co.uk/article/ever-given-global-supply-chain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
