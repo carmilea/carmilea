@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Notion is withholding my company data, what can I do?](https://news.ycombinator.com/item?id=27612894)
+- [Tucson copter cop says mysterious, ‘sophisticated’ super-drone ‘like no other’](https://dronedj.com/2021/06/23/update-tucson-copter-cop-says-mysterious-sophisticated-super-drone-like-no-other/)
+- [Meritocracy and Its Defects](https://goldhaber.org/meritocracy-and-its-defects/)
+- [P4: Open-Source Programming Language for Protocol-Independent Packet Processing](https://p4.org/)
 - [Rainforest (YC S12) Is Hiring Senior Engineers, Globally and Remote](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=hn)
-- [Will Work for Air-Conditioning](https://www.nytimes.com/2021/06/21/style/air-conditioning-office.html)
-- [Pulling GitHub into the Linux kernel process](https://lwn.net/SubscriberLink/860607/ef7cdf174ccbe54d/)
-- [Lego Island Rebuilder](https://www.legoisland.org/wiki/index.php/LEGO_Island_Rebuilder)
-- [“Older unlisted videos will be made private unless you opt out”](https://support.google.com/youtube/answer/9230970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
