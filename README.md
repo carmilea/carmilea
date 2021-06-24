@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
+- [Microsoft Game Development Kit (GDK)](https://github.com/microsoft/gdk)
 - [Stop using your work laptop or phone for personal stuff, because I know you are](https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/)
 - [Crazy Clock](https://www.tindie.com/products/nsayer/crazy-clock/)
 - [Introduction to Search by Analogy, with Videogames (2019)](http://barrettrees.com/search_by_analogy_interactive/IntroductionToSearchByAnalogy.html)
-- [Google turned me into a serial killer](https://hristo-georgiev.com/google-turned-me-into-a-serial-killer)
-- [The Ever Given is still stuck in the Suez Canal](https://www.wired.co.uk/article/ever-given-global-supply-chain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
