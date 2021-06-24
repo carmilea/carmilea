@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canada: Hundreds of unmarked graves found at residential school](https://www.bbc.com/news/world-us-canada-57592243)
-- [Row level security available in BigQuery](https://cloud.google.com/bigquery/docs/row-level-security-intro)
-- [NASA Can't Figure Out What's Causing Computer Issues on the Hubble Telescope](https://www.npr.org/2021/06/23/1009567351/hubble-trouble-nasa-cant-figure-out-whats-causing-computer-issues-on-the-telesco)
-- [Laravel Transporter](https://www.juststeveking.uk/introducing-laravel-transporter/)
-- [Crypto Fund III](https://a16z.com/2021/06/24/crypto-fund-iii/)
+- [Microsoft announces Windows 11, with a new design, Start menu, and more](https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates)
+- [Angus Barbieri's fast](https://en.wikipedia.org/wiki/Angus_Barbieri%27s_fast)
+- [After Repeatedly Promising Not To, Facebook Keeps Recommending Political Groups](https://themarkup.org/citizen-browser/2021/06/24/after-repeatedly-promising-not-to-facebook-keeps-recommending-political-groups-to-its-users)
+- [Canonical Offering Blender Support](https://www.blender.org/press/canonical-offering-blender-support/)
+- [Google extends third party cookie deadline until late 2023](https://digiday.com/marketing/cheat-sheet-google-extends-cookie-execution-deadline-until-late-2023-will-pause-floc-testing-in-july/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
