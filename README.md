@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WD My Book users wake up to find their data deleted](https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/)
 - [Tiny Acquisitions: Buy and sell tiny projects that are worth less than $5k](https://tinyacquisitions.com)
 - [Mobile NixOS for Phones and Tablets](https://mobile.nixos.org/)
 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
 - [Twilio, Asana to List on Long Term Stock Exchange](https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701)
-- [Stop using your work laptop or phone for personal stuff, because I know you are](https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
