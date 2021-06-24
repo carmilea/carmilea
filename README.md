@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cl-bodge: a cross-platform Common Lisp game and application framework](https://borodust.org/projects/cl-bodge/)
 - [Paperspace (YC W15) is hiring engineers to build a modern MLOps platform](https://www.paperspace.com/careers)
 - [Quad9 is forced by Sony to block DNS resolution of pirate domains](https://quad9.net/news/blog/quad9-and-sony-music-german-injunction-status/)
 - [The Banning of Joyce's Ulysses](https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/)
 - [Developing Games on Linux: An Interview with Little Red Dog Games](https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with)
-- [The Next Backblaze Storage Pod](https://www.backblaze.com/blog/next-backblaze-storage-pod/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
