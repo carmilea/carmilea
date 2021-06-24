@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft announces Windows 11, with a new design, Start menu, and more](https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates)
-- [Angus Barbieri's fast](https://en.wikipedia.org/wiki/Angus_Barbieri%27s_fast)
-- [After Repeatedly Promising Not To, Facebook Keeps Recommending Political Groups](https://themarkup.org/citizen-browser/2021/06/24/after-repeatedly-promising-not-to-facebook-keeps-recommending-political-groups-to-its-users)
-- [Canonical Offering Blender Support](https://www.blender.org/press/canonical-offering-blender-support/)
-- [Google extends third party cookie deadline until late 2023](https://digiday.com/marketing/cheat-sheet-google-extends-cookie-execution-deadline-until-late-2023-will-pause-floc-testing-in-july/)
+- [The Next Backblaze Storage Pod](https://www.backblaze.com/blog/next-backblaze-storage-pod/)
+- [Introducing Windows 11](https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/)
+- [Microsoft is bringing Android apps to Windows 11](https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store)
+- [International coalition calls for action against surveillance-based advertising](https://www.forbrukerradet.no/side/new-report-details-threats-to-consumers-from-surveillance-based-advertising/)
+- [Micro APIs for Everyday Use](https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
