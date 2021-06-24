@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Treesheets: cross-platform, free-form data organizer app](http://strlen.com/treesheets/)
+- [Show HN: 3dasd – open-source DIY room-scale 3D scanner](https://3dasd.com/)
 - [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
 - [Show HN: Freeciv-Web](https://www.freecivweb.org/?2021)
 - [A Brief History of Just-in-Time (2003) [pdf]](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf)
-- [Introduction to Locality-Sensitive Hashing](http://tylerneylon.com/a/lsh1/)
-- [The world relies on one Chip Maker in Taiwan, Leaving Everyone Vulnerable](https://www.wsj.com/articles/the-world-relies-on-one-chip-maker-in-taiwan-leaving-everyone-vulnerable-11624075400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
