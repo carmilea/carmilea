@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Full English” tops UK hangover-cure survey](https://www.theregister.com/2021/06/24/hangover_survey/)
-- [Climate watchdog says Britain lacks a strategy to meet its goals](https://www.nytimes.com/2021/06/24/business/energy-environment/britain-climate-goals.html)
-- [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://www.workatastartup.com/jobs/43782)
-- [No evidence that chance meetings in office boosts innovation](https://www.nytimes.com/2021/06/23/upshot/remote-work-innovation-office.html)
-- [Writing ARM64 Code for Apple Platforms](https://developer.apple.com/documentation/xcode/writing-arm64-code-for-apple-platforms)
+- [Canada: Hundreds of unmarked graves found at residential school](https://www.bbc.com/news/world-us-canada-57592243)
+- [Row level security available in BigQuery](https://cloud.google.com/bigquery/docs/row-level-security-intro)
+- [NASA Can't Figure Out What's Causing Computer Issues on the Hubble Telescope](https://www.npr.org/2021/06/23/1009567351/hubble-trouble-nasa-cant-figure-out-whats-causing-computer-issues-on-the-telesco)
+- [Laravel Transporter](https://www.juststeveking.uk/introducing-laravel-transporter/)
+- [Crypto Fund III](https://a16z.com/2021/06/24/crypto-fund-iii/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
