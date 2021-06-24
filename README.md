@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI tears innocent New Yorker’s life into shreds after Jan. 6](https://nypost.com/2021/06/23/fbi-tears-new-yorkers-life-into-shreds-devine/)
+- [Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)](https://www.workatastartup.com/jobs/43782)
+- [EE to reintroduce data roaming charges in Europe, following Brexit](https://www.bbc.co.uk/news/technology-57595913)
+- [Writing ARM64 Code for Apple Platforms](https://developer.apple.com/documentation/xcode/writing-arm64-code-for-apple-platforms)
 - [Toxoplasmosis: The Cat Poop Parasite That's Probably in Your Brain](https://interestingengineering.com/toxoplasmosis-the-cat-poop-parasite-probably-in-your-brain)
-- [How YouTube’s rules are used to silence human rights activists](https://www.technologyreview.com/2021/06/24/1027048/youtube-xinjiang-censorship-human-rights-atajurt/)
-- [Hospitals are selling treasure troves of medical data – what could go wrong?](https://www.theverge.com/2021/6/23/22547397/medical-records-health-data-hospitals-research)
-- [It’s True: Stress Does Turn Hair Gray (and It’s Reversible)](https://www.cuimc.columbia.edu/news/its-true-stress-does-turn-hair-gray-and-its-reversible)
-- [You Are Doing Too Much: Focus on One Thing](https://www.perspective-collective.com/perspectivepodcast/you-are-doing-too-much-focus-on-one-thing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
