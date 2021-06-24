@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ancient people fell in love with bread, beer and other carbs](https://www.nature.com/articles/d41586-021-01681-w)
+- [Hacker deleted all of NewsBlur’s mongo data and is now holding the data hostage](https://newsblur.com/)
 - [Ask HN: Notion is withholding my company data, what can I do?](https://news.ycombinator.com/item?id=27612894)
 - [Tucson copter cop says mysterious, ‘sophisticated’ super-drone ‘like no other’](https://dronedj.com/2021/06/23/update-tucson-copter-cop-says-mysterious-sophisticated-super-drone-like-no-other/)
-- [Meritocracy and Its Defects](https://goldhaber.org/meritocracy-and-its-defects/)
 - [P4: Open-Source Programming Language for Protocol-Independent Packet Processing](https://p4.org/)
-- [Rainforest (YC S12) Is Hiring Senior Engineers, Globally and Remote](https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
