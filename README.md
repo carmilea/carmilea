@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [El Salvador to airdrop $30 in Bitcoin to up to 6M citizens](https://finance.yahoo.com/news/el-salvador-reveals-official-bitcoin-064414265.html)
+- [Blood test that finds 50 types of cancer is accurate enough to be rolled out](https://www.theguardian.com/society/2021/jun/25/blood-test-that-finds-50-types-of-cancer-is-accurate-enough-to-be-rolled-out)
 - [Ask HN: Technical Summer Reading List](https://news.ycombinator.com/item?id=27628296)
 - [Open Source Farming Robot](https://farm.bot/)
 - [Lewis Carroll’s Illustrations for “Alice’s Adventures Under Ground” (1864)](https://publicdomainreview.org/collection/carroll-illustrations-for-alice-undergound)
