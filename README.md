@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacker reveals smart meters are spilling secrets about the Texas snowstorm](https://www.dailydot.com/debug/hacker-smart-meter-texas-snowstorm/)
+- [Go 1.17 is deprecating the traditional use of 'go get'](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet)
+- [Burnout Is Real](https://twitter.com/denvercoder/status/1407540584223440897)
+- [Private Gmail and Docs alternatives: Proton, Skiff, and more](https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternatives)
 - [Together Software (YC S19) is improving learning at work](https://jobs.lever.co/together/86c724e1-9337-487b-a79f-541e82a35d51)
-- [How I was let go for refusing to deploy a dark pattern](https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv)
-- [Onyx Boox Mira Pro is a 25 inch E INK Monitor](https://goodereader.com/blog/electronic-readers/onyx-boox-mira-pro-is-a-25-inch-e-ink-monitor)
-- [Linux Kernel maintainer to Huawei: Don't waste maintainers time](https://lkml.org/lkml/2021/6/18/153)
-- [The Future of Games is an Instant Flash to the past](https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
