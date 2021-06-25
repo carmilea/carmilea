@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blood test that finds 50 types of cancer is accurate enough to be rolled out](https://www.theguardian.com/society/2021/jun/25/blood-test-that-finds-50-types-of-cancer-is-accurate-enough-to-be-rolled-out)
-- [Ask HN: Technical Summer Reading List](https://news.ycombinator.com/item?id=27628296)
-- [Open Source Farming Robot](https://farm.bot/)
-- [Lewis Carroll’s Illustrations for “Alice’s Adventures Under Ground” (1864)](https://publicdomainreview.org/collection/carroll-illustrations-for-alice-undergound)
-- [New type of ancient human discovered in Israel](https://www.bbc.com/news/science-environment-57586315)
+- [Rally, a novel privacy-first data sharing platform](https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/)
+- [As the Pandemic Recedes, Millions of Workers Are Saying 'I Quit'](https://www.npr.org/2021/06/24/1007914455/as-the-pandemic-recedes-millions-of-workers-are-saying-i-quit)
+- [“81 per cent of developers admit to knowingly releasing vulnerable apps”](https://www.theregister.com/2021/06/25/application_vulnerability_epidemic/)
+- [How Phoenix LiveView Works](https://www.poeticoding.com/how-phoenix-liveview-works/)
+- [Star Citizen Progress Tracker v1.0](https://robertsspaceindustries.com/roadmap/progress-tracker/teams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
