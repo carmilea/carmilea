@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JWT Tokens are NOT safe](https://redislabs.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/)
+- [Gray Hair Can Return to Its Original Color–and Stress Is Involved, of Course](https://www.scientificamerican.com/article/gray-hair-can-return-to-its-original-color-mdash-and-stress-is-involved-of-course/)
+- [Help All data in WD mybook live gone and owner password unknown](https://community.wd.com/t/help-all-data-in-mybook-live-gone-and-owner-password-unknown/268111)
 - [EvalAI: An Open-Source Alternative to Kaggle](https://eval.ai/)
 - [Password with Argon2 Algorithm, the Winner of the Password Hashing Competition](https://argon2.online/)
 - [WD My Book users wake up to find their data deleted](https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/)
-- [Tiny Acquisitions](https://tinyacquisitions.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
