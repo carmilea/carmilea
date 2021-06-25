@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JWT Tokens are NOT safe](https://redislabs.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/)
+- [EvalAI: An Open-Source Alternative to Kaggle](https://eval.ai/)
+- [Password with Argon2 Algorithm, the Winner of the Password Hashing Competition](https://argon2.online/)
 - [WD My Book users wake up to find their data deleted](https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/)
-- [Tiny Acquisitions: Buy and sell tiny projects that are worth less than $5k](https://tinyacquisitions.com)
-- [Mobile NixOS for Phones and Tablets](https://mobile.nixos.org/)
-- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
-- [Twilio, Asana to List on Long Term Stock Exchange](https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701)
+- [Tiny Acquisitions](https://tinyacquisitions.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
