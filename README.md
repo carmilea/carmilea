@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [XMPP vs. Matrix](https://wiki.404.city/en/XMPP_vs_Matrix)
+- [OneSignal (Messaging and Push Notification APIs) is hiring a full stack engineer](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
+- [Official US Government UFO (UAP) Report Released](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena)
 - [User Inyerface – A worst-practice UI experiment](https://userinyerface.com/)
 - [Group Video Calls](https://telegram.org/blog/group-video-calls)
-- [Querying Parquet with Precision Using DuckDB](https://duckdb.org/2021/06/25/querying-parquet.html)
-- [Chemical Space Is Big. Really Big. (2014)](https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article)
+- [The Miami condo collapse is a devastating reminder of America's landfill problem](https://theweek.com/feature/opinion/1001964/the-miami-condo-collapse-is-a-devastating-reminder-of-americas-landfill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
