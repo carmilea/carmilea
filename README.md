@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS has acquired Wickr](https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/)
+- [Moving from Hey to Fastmail](https://blog.francocorrea.com/posts/moving-from-hey-to-fastmail)
+- [AWS BugBust](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/)
+- [Ask HN: In Emacs, is there an alternative to GPG encryption in Org Mode?](https://news.ycombinator.com/item?id=27630755)
 - [Hacker reveals smart meters are spilling secrets about the Texas snowstorm](https://www.dailydot.com/debug/hacker-smart-meter-texas-snowstorm/)
-- [Go 1.17 is deprecating the traditional use of 'go get'](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet)
-- [Burnout Is Real](https://twitter.com/denvercoder/status/1407540584223440897)
-- [Private Gmail and Docs alternatives: Proton, Skiff, and more](https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternatives)
-- [Together Software (YC S19) is improving learning at work](https://jobs.lever.co/together/86c724e1-9337-487b-a79f-541e82a35d51)
 <!-- BLOG-POST-LIST:END -->
 
 ---
