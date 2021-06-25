@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What's your experience working for a YC backed startup?](https://news.ycombinator.com/item?id=27636593)
+- [U.S. unable to explain more than 140 unidentified flying objects, but no aliens](https://www.washingtonpost.com/national-security/ufo-report/2021/06/25/ba323b20-d52c-11eb-ae54-515e2f63d37d_story.html)
+- [Preliminary Assessment: Unidentified Aerial Phenomena [pdf]](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)
 - [OneSignal (Messaging and Push Notification APIs) is hiring a full stack engineer](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
-- [Official US Government UFO (UAP) Report Released](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena)
-- [User Inyerface – A worst-practice UI experiment](https://userinyerface.com/)
-- [Group Video Calls](https://telegram.org/blog/group-video-calls)
-- [The Miami condo collapse is a devastating reminder of America's landfill problem](https://theweek.com/feature/opinion/1001964/the-miami-condo-collapse-is-a-devastating-reminder-of-americas-landfill)
+- [Final Fantasy Remasters Reignite Controversies over Pixel Art](https://www.vice.com/en/article/qj83yp/final-fantasy-remasters-reignite-controversies-over-pixel-art)
 <!-- BLOG-POST-LIST:END -->
 
 ---
