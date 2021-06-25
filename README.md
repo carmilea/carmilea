@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [C# as you know it but with Go-like tooling (small, selfcontained, native exes)](https://github.com/MichalStrehovsky/bflat)
+- [MS Teams Switches from AngularJS to React, Ditches Electron.](https://twitter.com/rishmsft/status/1408085784016539653)
 - [Jitx (YC S18) is hiring to automate circuit board design](https://www.jitx.com/careers)
 - [YoreComputer: Pages selected at random from old British computer mags](https://twitter.com/yorecomputer)
-- [Can the Māori Connection to Antarctica Help Safeguard the Continent’s Future?](https://www.atlasobscura.com/articles/maori-polynesian-antarctica-history-conservation)
 - [Microsoft's Introduction to Rust Video Course](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#)
-- [Slamming political rivals may be the most effective way to go viral](https://www.cam.ac.uk/stories/viralpolitics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
