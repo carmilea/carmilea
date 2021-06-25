@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Together Software (YC S19) is improving learning at work](https://jobs.lever.co/together/86c724e1-9337-487b-a79f-541e82a35d51)
+- [How I was let go for refusing to deploy a dark pattern](https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv)
+- [The Future of Games Is Instant](https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/)
 - [Rally, a novel privacy-first data sharing platform](https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/)
 - [As the Pandemic Recedes, Millions of Workers Are Saying 'I Quit'](https://www.npr.org/2021/06/24/1007914455/as-the-pandemic-recedes-millions-of-workers-are-saying-i-quit)
-- [“81 per cent of developers admit to knowingly releasing vulnerable apps”](https://www.theregister.com/2021/06/25/application_vulnerability_epidemic/)
-- [How Phoenix LiveView Works](https://www.poeticoding.com/how-phoenix-liveview-works/)
-- [Star Citizen Progress Tracker v1.0](https://robertsspaceindustries.com/roadmap/progress-tracker/teams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
