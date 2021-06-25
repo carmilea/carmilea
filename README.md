@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [El Salvador to airdrop $30 in Bitcoin to up to 6M citizens](https://finance.yahoo.com/news/el-salvador-reveals-official-bitcoin-064414265.html)
+- [Ask HN: Technical Summer Reading List](https://news.ycombinator.com/item?id=27628296)
+- [Open Source Farming Robot](https://farm.bot/)
 - [Lewis Carroll’s Illustrations for “Alice’s Adventures Under Ground” (1864)](https://publicdomainreview.org/collection/carroll-illustrations-for-alice-undergound)
 - [New type of ancient human discovered in Israel](https://www.bbc.com/news/science-environment-57586315)
-- [Nvidia Canvas](https://www.nvidia.com/en-gb/studio/canvas/)
-- [OpenTrees: A data visualisation of publicly maintained trees around the world](https://github.com/stevage/opentrees)
-- [QUIC at Snapchat](https://eng.snap.com/quic-at-snap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
