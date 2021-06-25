@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Panasonic dumps its entire $3.6B Tesla stake](https://finbold.com/panasonic-dumps-its-entire-3-6-billion-tesla-stake/)
+- [Jitx (YC S18) is hiring to automate circuit board design](https://www.jitx.com/careers)
+- [YoreComputer: Pages selected at random from old British computer mags](https://twitter.com/yorecomputer)
+- [Can the Māori Connection to Antarctica Help Safeguard the Continent’s Future?](https://www.atlasobscura.com/articles/maori-polynesian-antarctica-history-conservation)
 - [Microsoft's Introduction to Rust Video Course](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#)
 - [Slamming political rivals may be the most effective way to go viral](https://www.cam.ac.uk/stories/viralpolitics)
-- [Hierarchical Structures in PostgreSQL](https://hoverbear.org/blog/postgresql-hierarchical-structures/)
-- [Moving from Hey to Fastmail](https://blog.francocorrea.com/posts/moving-from-hey-to-fastmail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
