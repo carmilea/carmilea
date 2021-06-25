@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS has acquired Wickr](https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/)
+- [Panasonic dumps its entire $3.6B Tesla stake](https://finbold.com/panasonic-dumps-its-entire-3-6-billion-tesla-stake/)
+- [Microsoft's Introduction to Rust Video Course](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#)
+- [Slamming political rivals may be the most effective way to go viral](https://www.cam.ac.uk/stories/viralpolitics)
+- [Hierarchical Structures in PostgreSQL](https://hoverbear.org/blog/postgresql-hierarchical-structures/)
 - [Moving from Hey to Fastmail](https://blog.francocorrea.com/posts/moving-from-hey-to-fastmail)
-- [AWS BugBust](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/)
-- [Ask HN: In Emacs, is there an alternative to GPG encryption in Org Mode?](https://news.ycombinator.com/item?id=27630755)
-- [Hacker reveals smart meters are spilling secrets about the Texas snowstorm](https://www.dailydot.com/debug/hacker-smart-meter-texas-snowstorm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
