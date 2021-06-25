@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sorry, we replaced that old technology, “see-through glass”](https://twitter.com/RunDaltonRun/status/1408507323031592964)
+- [Ask HN: Which book or course gave you an unfair advantage?](https://news.ycombinator.com/item?id=27636743)
 - [Ask HN: What's your experience working for a YC backed startup?](https://news.ycombinator.com/item?id=27636593)
 - [U.S. unable to explain more than 140 unidentified flying objects, but no aliens](https://www.washingtonpost.com/national-security/ufo-report/2021/06/25/ba323b20-d52c-11eb-ae54-515e2f63d37d_story.html)
-- [Preliminary Assessment: Unidentified Aerial Phenomena [pdf]](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)
 - [OneSignal (Messaging and Push Notification APIs) is hiring a full stack engineer](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
-- [Final Fantasy Remasters Reignite Controversies over Pixel Art](https://www.vice.com/en/article/qj83yp/final-fantasy-remasters-reignite-controversies-over-pixel-art)
 <!-- BLOG-POST-LIST:END -->
 
 ---
