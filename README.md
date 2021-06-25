@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We can’t beat the climate crisis without rethinking land use](https://www.brookings.edu/research/we-cant-beat-the-climate-crisis-without-rethinking-land-use/)
 - [Lewis Carroll’s Illustrations for “Alice’s Adventures Under Ground” (1864)](https://publicdomainreview.org/collection/carroll-illustrations-for-alice-undergound)
-- [Ask HN: What Are You Learning?](https://news.ycombinator.com/item?id=27627381)
+- [What Is Logic?](https://philonotes.com/index.php/2018/09/22/what-is-logic/https://philonotes.com/index.php/2018/09/22/what-is-logic/)
+- [New type of ancient human discovered in Israel](https://www.bbc.com/news/science-environment-57586315)
 - [Nvidia Canvas](https://www.nvidia.com/en-gb/studio/canvas/)
-- [OpenTrees: A data visualisation of publicly maintained trees around the world](https://github.com/stevage/opentrees)
-- [QUIC at Snapchat](https://eng.snap.com/quic-at-snap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
