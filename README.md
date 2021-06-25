@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Nvidia Canvas](https://www.nvidia.com/en-gb/studio/canvas/)
-- [OpenTrees: A data vis of millions of publicly maintained trees around the world](https://github.com/stevage/opentrees)
-- [A bit of background on compilers exploiting signed overflow (2016)](https://gist.github.com/rygorous/e0f055bfb74e3d5f0af20690759de5a7)
-- [Help All data in WD mybook live gone and owner password unknown](https://community.wd.com/t/help-all-data-in-mybook-live-gone-and-owner-password-unknown/268111)
+- [OpenTrees: A data visualisation of publicly maintained trees around the world](https://github.com/stevage/opentrees)
+- [QUIC at Snapchat](https://eng.snap.com/quic-at-snap)
 - [EvalAI: An Open-Source Alternative to Kaggle](https://eval.ai/)
+- [Password with Argon2 Algorithm, the Winner of the Password Hashing Competition](https://argon2.online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
