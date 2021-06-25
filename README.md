@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: LinkedIn suggesting I connect with my infertility doctor](https://news.ycombinator.com/item?id=27634920)
-- [C# as you know it but with Go-like tooling (small, selfcontained, native exes)](https://github.com/MichalStrehovsky/bflat)
-- [Jitx (YC S18) is hiring to automate circuit board design](https://www.jitx.com/careers)
-- [YoreComputer: Pages selected at random from old British computer mags](https://twitter.com/yorecomputer)
-- [Microsoft's Introduction to Rust Video Course](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#)
+- [XMPP vs. Matrix](https://wiki.404.city/en/XMPP_vs_Matrix)
+- [User Inyerface – A worst-practice UI experiment](https://userinyerface.com/)
+- [Group Video Calls](https://telegram.org/blog/group-video-calls)
+- [Querying Parquet with Precision Using DuckDB](https://duckdb.org/2021/06/25/querying-parquet.html)
+- [Chemical Space Is Big. Really Big. (2014)](https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article)
 <!-- BLOG-POST-LIST:END -->
 
 ---
