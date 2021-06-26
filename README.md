@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft admits to signing rootkit malware in supply-chain fiasco](https://www.bleepingcomputer.com/news/security/microsoft-admits-to-signing-rootkit-malware-in-supply-chain-fiasco/)
 - [Immutability Changes Everything](https://queue.acm.org/detail.cfm?id=2884038)
+- [Cloudproxy – hide your scrapers IP behind the cloud](https://github.com/claffin/cloudproxy)
 - [How to Use Ada to Insulate Software from Hardware Updates](https://www.electronicdesign.com/technologies/embedded-revolution/article/21167036/adacore-how-to-use-ada-to-insulate-software-from-hardware-updates)
 - [Patching until the COWs come home](https://lwn.net/Articles/849638/)
-- [Federal Reserve official: Tether is a risk to financial stability](https://www.nasdaq.com/articles/us-fed-official-calls-tether-a-challenge-to-financial-stability-2021-06-25)
-- [Tiny crystal films could make night vision an everyday reality](https://theconversation.com/seeing-the-invisible-tiny-crystal-films-could-make-night-vision-an-everyday-reality-162615)
 <!-- BLOG-POST-LIST:END -->
 
 ---
