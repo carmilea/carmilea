@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Immutability is not enough (2016)](https://codewords.recurse.com/issues/six/immutability-is-not-enough)
-- [Desert plants are struggling in higher heat](https://www.scientificamerican.com/article/unexpected-desert-plants-are-struggling-in-higher-heat/)
-- [Reddit’s disrespectful design](https://ognjen.io/reddits-disrespectful-design/)
-- [Signadot (YC W20) Is Hiring Back End Engineers](https://www.workatastartup.com/jobs/42298)
-- [Understanding thread stack sizes and how alpine is different](https://ariadne.space/2021/06/25/understanding-thread-stack-sizes-and-how-alpine-is-different/)
+- [When it comes to Git history, less is more](https://brennan.io/2021/06/15/git-less-is-more/)
+- [Show HN: I’m an introvert – made an app to help maintain connections with people](http://cq.mtc.dev)
+- [Information Theory: A Tutorial Introduction](https://arxiv.org/abs/1802.05968)
+- [Blockchain Is Puny](https://docs.google.com/document/d/175MCR26lZLDFZ3kpmA0nO89EYjmeksPRW_jB_rjlR8c/edit#heading=h.i22fatpumyvt)
+- [Key witness in Assange case admits to lies in indictment](https://stundin.is/grein/13627/key-witness-in-assange-case-admits-to-lies-in-indictment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
