@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A bear case for social audio](https://elevis.io)
-- [Buy, Borrow, Die](https://www.peoplestaxpage.org/buy-borrow-die)
-- [SARS-CoV-2 reactive T-cells likely present due to prior exposure to flu viruses](https://www.nature.com/articles/s41598-021-92521-4)
-- [‘Dragon Man’ skull may be new species, shaking up human family tree](https://www.nationalgeographic.com/science/article/dragon-man-fossil-skull-may-represent-new-human-species-in-china)
-- [DUR: The Debian User Repository](https://dur.hunterwittenborn.com/)
+- [Patching until the COWs come home](https://lwn.net/Articles/849638/)
+- [Federal Reserve official: Tether is a risk to financial stability](https://www.nasdaq.com/articles/us-fed-official-calls-tether-a-challenge-to-financial-stability-2021-06-25)
+- [Parse, Don't Validate (2019)](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+- [Using Paper for Everyday Tasks](https://christine.website/blog/gtd-on-paper-2021-06-13)
+- [Why we don’t understand heavier-than-air flight](https://www.ribbonfarm.com/2021/04/08/heres-why-we-dont-understand-heavier-than-air-flight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
