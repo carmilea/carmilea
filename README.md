@@ -54,8 +54,8 @@
 - [Signadot (YC W20) Is Hiring Back End Engineers](https://www.workatastartup.com/jobs/42298)
 - [Understanding thread stack sizes and how alpine is different](https://ariadne.space/2021/06/25/understanding-thread-stack-sizes-and-how-alpine-is-different/)
 - [The Making of the Kosher Phone (2014)](http://blog.assafnativ.com/2014/03/the-making-of-kosher-phone.html)
-- [Quantum microscope can examine cells in unprecedented detail](https://www.newscientist.com/article/2280216-quantum-microscope-can-examine-cells-in-unprecedented-detail/)
-- [Microsoft admits to signing rootkit malware in supply-chain fiasco](https://www.bleepingcomputer.com/news/security/microsoft-admits-to-signing-rootkit-malware-in-supply-chain-fiasco/)
+- [Whatever Happened to UI Affordances?](https://shkspr.mobi/blog/2021/06/whatever-happened-to-ui-affordances/)
+- [Linux Commands Cheat Sheet](https://www.codesnail.com/linux-commands-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
