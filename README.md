@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Rescale (YC W12) Is Hiring Product Managers](https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [Guerrilla guide to CNC machining, mold making, and resin casting (2015)](https://lcamtuf.coredump.cx/gcnc/)
 - [The blackout Palestinians are facing on social media](https://restofworld.org/2021/palestine-social-media-silence/2)
-- [Ask HN: Best “I brought down production” story?](https://news.ycombinator.com/item?id=27644387)
 - [So you want to build a house more efficiently](https://austinvernon.eth.link/blog/construction.html)
 - [CRISPR gene-editing breakthrough opens door to treating broad array of diseases](https://www.npr.org/sections/health-shots/2021/06/26/1009817539/he-inherited-a-devastating-disease-a-crispr-gene-editing-breakthrough-stopped-it)
 <!-- BLOG-POST-LIST:END -->
