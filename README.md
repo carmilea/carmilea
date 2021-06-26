@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When it comes to Git history, less is more](https://brennan.io/2021/06/15/git-less-is-more/)
-- [Show HN: I’m an introvert – made an app to help maintain connections with people](http://cq.mtc.dev)
-- [Information Theory: A Tutorial Introduction](https://arxiv.org/abs/1802.05968)
-- [Blockchain Is Puny](https://docs.google.com/document/d/175MCR26lZLDFZ3kpmA0nO89EYjmeksPRW_jB_rjlR8c/edit#heading=h.i22fatpumyvt)
-- [Key witness in Assange case admits to lies in indictment](https://stundin.is/grein/13627/key-witness-in-assange-case-admits-to-lies-in-indictment/)
+- [RocketLit (YC S16) Is Hiring a Full Stack Senior PHP Developer](https://bookface.ycombinator.com/company/1213/jobs/44552)
+- [He Inherited a Devastating Disease a CRISPR Gene-Editing Breakthrough Stopped It](https://www.npr.org/sections/health-shots/2021/06/26/1009817539/he-inherited-a-devastating-disease-a-crispr-gene-editing-breakthrough-stopped-it)
+- [Turn any chessboard into a chess computer.(Python/Computer Vision)](https://github.com/karayaman/Play-online-chess-with-real-chess-board)
+- [Some biologists and ecologists think social media is a risk to humanity](https://www.vox.com/recode/2021/6/26/22550981/carl-bergstrom-joe-bak-coleman-biologists-ecologists-social-media-risk-humanity-research-academics)
+- [Reviews of Android TV launcher after Google added ads to the homescreen](https://play.google.com/store/apps/details?id=com.google.android.tvlauncher&showAllReviews=true)
 <!-- BLOG-POST-LIST:END -->
 
 ---
