@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Just 2% at Silicon Valley's VMware showed up for the first day of in-person work](https://www.sfgate.com/tech/article/VMWare-2-percent-worker-Silicon-Valley-remote-work-16274581.php)
 - [‘Dragon Man’ skull may be new species, shaking up human family tree](https://www.nationalgeographic.com/science/article/dragon-man-fossil-skull-may-represent-new-human-species-in-china)
 - [DUR: The Debian User Repository](https://dur.hunterwittenborn.com/)
 - [Harmful social behaviors are the toughest to shift](http://blog.pnas.org/2021/06/harmful-social-behaviors-are-the-toughest-to-shift/)
 - [Makedeb – Create Debian Archives from PKGBUILDs](https://github.com/hwittenborn/makedeb)
-- [Berkeley Document Summarizer – learning-based, single-document summarization](https://github.com/gregdurrett/berkeley-doc-summarizer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
