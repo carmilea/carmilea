@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit's Disrespectful Design](https://ognjen.io/reddits-disrespectful-design/)
 - [Signadot (YC W20) Is Hiring Back End Engineers](https://www.workatastartup.com/jobs/42298)
 - [Understanding thread stack sizes and how alpine is different](https://ariadne.space/2021/06/25/understanding-thread-stack-sizes-and-how-alpine-is-different/)
 - [The Making of the Kosher Phone (2014)](http://blog.assafnativ.com/2014/03/the-making-of-kosher-phone.html)
-- [Whatever Happened to UI Affordances?](https://shkspr.mobi/blog/2021/06/whatever-happened-to-ui-affordances/)
-- [Linux Commands Cheat Sheet](https://www.codesnail.com/linux-commands-cheat-sheet/)
+- [Microsoft Teams 2 will use half the memory, dropping Electron for Edge Webview2](https://tomtalks.blog/2021/06/microsoft-teams-2-0-will-use-half-the-memory-dropping-electron-for-edge-webview2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
