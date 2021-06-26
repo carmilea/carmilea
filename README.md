@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SARS-CoV-2 reactive T-cells likely present due to prior exposure to flu viruses](https://www.nature.com/articles/s41598-021-92521-4)
 - [ES2021 Features](https://h3manth.com/ES2021/)
 - [‘Dragon Man’ skull may be new species, shaking up human family tree](https://www.nationalgeographic.com/science/article/dragon-man-fossil-skull-may-represent-new-human-species-in-china)
 - [DUR: The Debian User Repository](https://dur.hunterwittenborn.com/)
 - [Harmful social behaviors are the toughest to shift](http://blog.pnas.org/2021/06/harmful-social-behaviors-are-the-toughest-to-shift/)
-- [Makedeb – Create Debian Archives from PKGBUILDs](https://github.com/hwittenborn/makedeb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
