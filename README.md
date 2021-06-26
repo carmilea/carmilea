@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [So, You Want to Build a House More Efficiently?](https://austinvernon.eth.link/blog/construction.html)
-- [RocketLit (YC S16) Is Hiring a Full Stack Senior PHP Developer](https://www.ycombinator.com/companies/rocketlit/jobs/RhLhiRU-full-stack-senior-php-developer-for-ed-tech-remote-full-time-or-contract)
-- [He Inherited a Devastating Disease a CRISPR Gene-Editing Breakthrough Stopped It](https://www.npr.org/sections/health-shots/2021/06/26/1009817539/he-inherited-a-devastating-disease-a-crispr-gene-editing-breakthrough-stopped-it)
-- [Turn any chessboard into a chess computer.(Python/Computer Vision)](https://github.com/karayaman/Play-online-chess-with-real-chess-board)
-- [Some biologists and ecologists think social media is a risk to humanity](https://www.vox.com/recode/2021/6/26/22550981/carl-bergstrom-joe-bak-coleman-biologists-ecologists-social-media-risk-humanity-research-academics)
+- [Rescale (YC W12) Is Hiring Product Managers](https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [The blackout Palestinians are facing on social media](https://restofworld.org/2021/palestine-social-media-silence/2)
+- [Ask HN: Best “I brought down production” story?](https://news.ycombinator.com/item?id=27644387)
+- [So you want to build a house more efficiently](https://austinvernon.eth.link/blog/construction.html)
+- [CRISPR gene-editing breakthrough opens door to treating broad array of diseases](https://www.npr.org/sections/health-shots/2021/06/26/1009817539/he-inherited-a-devastating-disease-a-crispr-gene-editing-breakthrough-stopped-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
