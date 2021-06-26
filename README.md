@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gloss3D – an open source 3D Modeler for Linux and Windows](http://www.gloss3d.net/)
-- [Functors and Monads for People Who Have Read Too Many “Tutorials”](http://www.jerf.org/iri/post/2958)
-- [Correctly implementing a spinlock in Modern C++](https://rigtorp.se/spinlock/)
-- [Sorry, we replaced that old technology, “see-through glass”](https://twitter.com/RunDaltonRun/status/1408507323031592964)
-- [OneSignal (Messaging and Push Notification APIs) is hiring a full stack engineer](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
+- [‘Dragon Man’ skull may be new species, shaking up human family tree](https://www.nationalgeographic.com/science/article/dragon-man-fossil-skull-may-represent-new-human-species-in-china)
+- [DUR: The Debian User Repository](https://dur.hunterwittenborn.com/)
+- [Harmful social behaviors are the toughest to shift](http://blog.pnas.org/2021/06/harmful-social-behaviors-are-the-toughest-to-shift/)
+- [Makedeb – Create Debian Archives from PKGBUILDs](https://github.com/hwittenborn/makedeb)
+- [Berkeley Document Summarizer – learning-based, single-document summarization](https://github.com/gregdurrett/berkeley-doc-summarizer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
