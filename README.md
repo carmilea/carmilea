@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Any US companies who offer less than 40 hour weeks](https://news.ycombinator.com/item?id=27644473)
 - [So, You Want to Build a House More Efficiently?](https://austinvernon.eth.link/blog/construction.html)
 - [RocketLit (YC S16) Is Hiring a Full Stack Senior PHP Developer](https://www.ycombinator.com/companies/rocketlit/jobs/RhLhiRU-full-stack-senior-php-developer-for-ed-tech-remote-full-time-or-contract)
 - [He Inherited a Devastating Disease a CRISPR Gene-Editing Breakthrough Stopped It](https://www.npr.org/sections/health-shots/2021/06/26/1009817539/he-inherited-a-devastating-disease-a-crispr-gene-editing-breakthrough-stopped-it)
 - [Turn any chessboard into a chess computer.(Python/Computer Vision)](https://github.com/karayaman/Play-online-chess-with-real-chess-board)
+- [Some biologists and ecologists think social media is a risk to humanity](https://www.vox.com/recode/2021/6/26/22550981/carl-bergstrom-joe-bak-coleman-biologists-ecologists-social-media-risk-humanity-research-academics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
