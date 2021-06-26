@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube takes down Xinjiang videos, forcing rights group to seek alternative](https://www.reuters.com/technology/exclusive-youtube-takes-down-xinjiang-videos-forces-rights-group-seek-2021-06-25/)
+- [The School for Sysadmins Who Can’t Timesync Good](https://libertysys.com.au/2016/09/the-school-for-sysadmins-who-cant-timesync-good-and-wanna-learn-to-do-other-stuff-good-too-part-1-the-problem-with-ntp/)
+- [AMD Quietly Launches Recycled Xbox Series X APU as 4700S Desktop Kit](https://www.tomshardware.com/news/amd-launches-recycled-xbox-series-x-apu-4700s-desktop-kit)
+- [Detection Script to help identify why your PC isn't Windows 11 ready](https://github.com/rcmaehl/WhyNotWin11)
 - [Rescale (YC W12) Is Hiring Product Managers](https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Guerrilla guide to CNC machining, mold making, and resin casting (2015)](https://lcamtuf.coredump.cx/gcnc/)
-- [The blackout Palestinians are facing on social media](https://restofworld.org/2021/palestine-social-media-silence/2)
-- [So you want to build a house more efficiently](https://austinvernon.eth.link/blog/construction.html)
-- [CRISPR gene-editing breakthrough opens door to treating broad array of diseases](https://www.npr.org/sections/health-shots/2021/06/26/1009817539/he-inherited-a-devastating-disease-a-crispr-gene-editing-breakthrough-stopped-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
