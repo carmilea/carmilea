@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Signadot (YC W20) Is Hiring Back End Engineers](https://www.workatastartup.com/jobs/42298)
+- [Understanding thread stack sizes and how alpine is different](https://ariadne.space/2021/06/25/understanding-thread-stack-sizes-and-how-alpine-is-different/)
+- [The Making of the Kosher Phone (2014)](http://blog.assafnativ.com/2014/03/the-making-of-kosher-phone.html)
 - [Quantum microscope can examine cells in unprecedented detail](https://www.newscientist.com/article/2280216-quantum-microscope-can-examine-cells-in-unprecedented-detail/)
 - [Microsoft admits to signing rootkit malware in supply-chain fiasco](https://www.bleepingcomputer.com/news/security/microsoft-admits-to-signing-rootkit-malware-in-supply-chain-fiasco/)
-- [Immutability Changes Everything (2016)](https://queue.acm.org/detail.cfm?id=2884038)
-- [Cloudproxy – hide your scrapers IP behind the cloud](https://github.com/claffin/cloudproxy)
-- [How to Use Ada to Insulate Software from Hardware Updates](https://www.electronicdesign.com/technologies/embedded-revolution/article/21167036/adacore-how-to-use-ada-to-insulate-software-from-hardware-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
