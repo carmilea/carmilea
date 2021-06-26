@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gloss3D – an open source 3D Modeler for Linux and Windows](http://www.gloss3d.net/)
+- [Functors and Monads for People Who Have Read Too Many “Tutorials”](http://www.jerf.org/iri/post/2958)
+- [Correctly implementing a spinlock in Modern C++](https://rigtorp.se/spinlock/)
 - [Sorry, we replaced that old technology, “see-through glass”](https://twitter.com/RunDaltonRun/status/1408507323031592964)
-- [Ask HN: Which book or course gave you an unfair advantage?](https://news.ycombinator.com/item?id=27636743)
-- [Ask HN: What's your experience working for a YC backed startup?](https://news.ycombinator.com/item?id=27636593)
-- [U.S. unable to explain more than 140 unidentified flying objects, but no aliens](https://www.washingtonpost.com/national-security/ufo-report/2021/06/25/ba323b20-d52c-11eb-ae54-515e2f63d37d_story.html)
 - [OneSignal (Messaging and Push Notification APIs) is hiring a full stack engineer](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
 <!-- BLOG-POST-LIST:END -->
 
