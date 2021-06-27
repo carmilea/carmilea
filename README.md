@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One Year in Hell (2013)](http://personalliberty.com/one-year-in-hell/)
 - [Substack (YC W18) is hiring engineers to build the future of writing](https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81)
 - [Windows 11 will create heaps of needless trash](https://nbailey.ca/post/win11-will-create-trash/)
+- [Reverse-engineering the Final Fantasy: Theatrhythm track format](https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md)
 - [Typed Programs Don't Leak Data](https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html)
-- [Vegetables have become far less nutritious](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/)
-- [x86 Bare Metal Examples: Minimal operating systems, learn x86 system programming](https://github.com/cirosantilli/x86-bare-metal-examples)
 <!-- BLOG-POST-LIST:END -->
 
 ---
