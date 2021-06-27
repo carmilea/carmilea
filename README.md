@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Move over Bloomberg Terminal, Here Comes Gamestonk Terminal](https://github.com/GamestonkTerminal/GamestonkTerminal)
+- [Startup leaders need to learn how to build companies ready for crisis](https://techcrunch.com/2021/06/26/startup-leaders-need-to-learn-how-to-build-companies-ready-for-crisis/)
 - [Roblox on Linux with recent Wine 6.11](https://roblox.fandom.com/wiki/Roblox_on_Linux)
 - [Clerky (YC S11) is hiring software engineers to modernize legal paperwork](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN)
 - [A Pure HTTP/3 Alternative to MQTT-over-QUIC in Resource-Constrained IoT](https://arxiv.org/abs/2106.12684)
-- [Andreessen on Crypto](https://marginalrevolution.com/marginalrevolution/2021/06/andreessen-on-crypto.html)
-- [State of Software Security: open-source Edition](https://www.veracode.com/blog/research/announcing-state-software-security-v11-open-source-edition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
