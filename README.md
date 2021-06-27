@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I spent 5 years writing my own operating system](https://github.com/halfer53/winix)
-- [Why Did We Ever Think the First Programming Language Didn't Matter?](https://m-cacm.acm.org/blogs/blog-cacm/253393-why-did-we-ever-think-the-first-programming-language-didnt-matter/fulltext)
+- [Why did we ever think a student's first programming language didn't matter?](https://m-cacm.acm.org/blogs/blog-cacm/253393-why-did-we-ever-think-the-first-programming-language-didnt-matter/fulltext)
 - [YouTube takes down Xinjiang videos, forcing rights group to seek alternative](https://www.reuters.com/technology/exclusive-youtube-takes-down-xinjiang-videos-forces-rights-group-seek-2021-06-25/)
-- [The School for Sysadmins Who Can’t Timesync Good](https://libertysys.com.au/2016/09/the-school-for-sysadmins-who-cant-timesync-good-and-wanna-learn-to-do-other-stuff-good-too-part-1-the-problem-with-ntp/)
+- [The school for sysadmins who can’t timesync good](https://libertysys.com.au/2016/09/the-school-for-sysadmins-who-cant-timesync-good-and-wanna-learn-to-do-other-stuff-good-too-part-1-the-problem-with-ntp/)
 - [AMD Quietly Launches Recycled Xbox Series X APU as 4700S Desktop Kit](https://www.tomshardware.com/news/amd-launches-recycled-xbox-series-x-apu-4700s-desktop-kit)
 <!-- BLOG-POST-LIST:END -->
 
