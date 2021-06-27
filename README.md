@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Challenging the Myth That Programming Careers End at 40](https://thenewstack.io/challenging-the-myth-that-programming-careers-end-at-40/)
+- [Is one vaccine dose enough if you’ve had Covid? What the science says](https://www.nature.com/articles/d41586-021-01609-4)
+- [Ask HN: How to Learn How to Sell?](https://news.ycombinator.com/item?id=27653357)
 - [Navattic (YC W21) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/navattic/jobs/3re77Gz5G-founding-engineer)
 - [Unison Programming Language](https://www.unisonweb.org/)
-- [Citing a serious flight test incident, FAA slows Boeing 777X certification](https://www.seattletimes.com/business/boeing-aerospace/citing-a-serious-flight-test-incident-and-lack-of-design-maturity-faa-slows-boeing-777x-certification/)
-- [Asia’s richest man Mukesh Ambani unveils $10bn green energy push](https://www.aljazeera.com/economy/2021/6/24/asias-richest-man-mukesh-ambani-unveils-10bn-green-energy-pus)
-- [Why wood has gotten so dang expensive](https://constructionphysics.substack.com/p/lumber-price-faq)
 <!-- BLOG-POST-LIST:END -->
 
 ---
