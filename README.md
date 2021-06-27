@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mumble: Open-Source, Low Latency, High Quality Voice Chat](https://www.mumble.info/)
-- [World’s smallest, best acoustic amplifier emerges from 50-year-old hypothesis](https://www.sandia.gov/news/publications/labnews/articles/2021/06-18/acoustic.html)
-- [A Proven Correct C Compiler (Used by Airbus)](https://github.com/AbsInt/CompCert)
-- [OpenSmalltalk – cross-platform virtual machine for Squeak, Pharo, Cuis, Newspeak](https://opensmalltalk.org/)
-- [Crazy Conclusions in Early Childhood](https://raisingfutureadults.blogspot.com/2021/06/crazeh-conclusions-in-early-childhood.html)
+- [Sir, Please Step Away from the Terminal: Moving Away from the Tyranny of ASCII](https://queue.acm.org/detail.cfm?id=1871406)
+- [Avoiding Complexity with Systemd](https://mgdm.net/weblog/systemd/)
+- [No Space Left to Run: China's Transnational Repression of Uyghurs](https://uhrp.org/report/no-space-left-to-run-chinas-transnational-repression-of-uyghurs/)
+- [Secure Messaging, Anywhere](https://briarproject.org/)
+- [Puppy Linux on Wayland, Sort Of](https://forum.puppylinux.com/viewtopic.php?f=40&t=2967)
 <!-- BLOG-POST-LIST:END -->
 
 ---
