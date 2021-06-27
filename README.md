@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clerky (YC S11) is hiring software engineers to modernize legal paperwork](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN)
+- [A Pure HTTP/3 Alternative to MQTT-over-QUIC in Resource-Constrained IoT](https://arxiv.org/abs/2106.12684)
+- [Andreessen on Crypto](https://marginalrevolution.com/marginalrevolution/2021/06/andreessen-on-crypto.html)
+- [State of Software Security: open-source Edition](https://www.veracode.com/blog/research/announcing-state-software-security-v11-open-source-edition)
 - [The Economics of Dollar Stores](https://thehustle.co/the-economics-of-dollar-stores)
-- [The EU’s disputed system of geographical indications is taking over the planet (2017)](https://www.politico.eu/article/europe-eats-trumps-lunch/)
-- [Tiddlywiki with Roam Research like functionality](https://rr-tw5.github.io/)
-- [Telehack – Simulation of a Stylized Arpanet/Usenet Circa 1985-1990](https://telehack.com/)
-- [Sir, Please Step Away from the Terminal: Moving Away from the Tyranny of ASCII (2010)](https://queue.acm.org/detail.cfm?id=1871406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
