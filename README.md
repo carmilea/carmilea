@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cuba′s Covid vaccine rivals Pfizer, Moderna](https://www.dw.com/en/cubas-covid-vaccine-rivals-biontech-pfizer-moderna/a-58052365)
+- [The Libera.Chat split 1 month later, summed up in one graph](https://netsplit.de/networks/top10.php)
 - [Challenging the Myth That Programming Careers End at 40](https://thenewstack.io/challenging-the-myth-that-programming-careers-end-at-40/)
-- [Is one vaccine dose enough if you’ve had Covid? What the science says](https://www.nature.com/articles/d41586-021-01609-4)
 - [Ask HN: How to Learn How to Sell?](https://news.ycombinator.com/item?id=27653357)
 - [Navattic (YC W21) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/navattic/jobs/3re77Gz5G-founding-engineer)
-- [Unison Programming Language](https://www.unisonweb.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
