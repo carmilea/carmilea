@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Economics of Dollar Stores](https://thehustle.co/the-economics-of-dollar-stores)
+- [The EU’s disputed system of geographical indications is taking over the planet (2017)](https://www.politico.eu/article/europe-eats-trumps-lunch/)
 - [Tiddlywiki with Roam Research like functionality](https://rr-tw5.github.io/)
 - [Telehack – Simulation of a Stylized Arpanet/Usenet Circa 1985-1990](https://telehack.com/)
 - [Sir, Please Step Away from the Terminal: Moving Away from the Tyranny of ASCII (2010)](https://queue.acm.org/detail.cfm?id=1871406)
-- [Avoiding Complexity with Systemd](https://mgdm.net/weblog/systemd/)
-- [Mathematicians Explore Mirror Link Between Two Geometric Worlds](https://www.quantamagazine.org/mathematicians-explore-mirror-link-between-two-geometric-worlds-20180409/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
