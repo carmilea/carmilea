@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tiddlywiki with Roam Research like functionality](https://rr-tw5.github.io/)
+- [Telehack – Simulation of a Stylized Arpanet/Usenet Circa 1985-1990](https://telehack.com/)
 - [Sir, Please Step Away from the Terminal: Moving Away from the Tyranny of ASCII (2010)](https://queue.acm.org/detail.cfm?id=1871406)
 - [Avoiding Complexity with Systemd](https://mgdm.net/weblog/systemd/)
-- [Secure Messaging, Anywhere](https://briarproject.org/)
-- [Michelin Puts Puffy Sails on Cargo Ships – Boosts Fuel Efficiency 20%](https://spectrum.ieee.org/energywise/green-tech/wind/michelin-puffy-sails-cargo-ships-improve-fuel-economy#.YNezQMYEw4I.twitter)
+- [Mathematicians Explore Mirror Link Between Two Geometric Worlds](https://www.quantamagazine.org/mathematicians-explore-mirror-link-between-two-geometric-worlds-20180409/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
