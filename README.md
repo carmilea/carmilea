@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Navattic (YC W21) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/navattic/jobs/3re77Gz5G-founding-engineer)
+- [Unison Programming Language](https://www.unisonweb.org/)
+- [Citing a serious flight test incident, FAA slows Boeing 777X certification](https://www.seattletimes.com/business/boeing-aerospace/citing-a-serious-flight-test-incident-and-lack-of-design-maturity-faa-slows-boeing-777x-certification/)
 - [Asia’s richest man Mukesh Ambani unveils $10bn green energy push](https://www.aljazeera.com/economy/2021/6/24/asias-richest-man-mukesh-ambani-unveils-10bn-green-energy-pus)
 - [Why wood has gotten so dang expensive](https://constructionphysics.substack.com/p/lumber-price-faq)
-- [Windows 11, Amazon, and Uncomfortable Questions](https://commonsware.com/blog/2021/06/26/windows-11-amazon-uncomfortable-questions.html)
-- [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
-- [Binance Crypto Exchange Banned from Doing Business in U.K](https://www.bloomberg.com/news/articles/2021-06-27/u-k-financial-regulator-bars-crypto-exchange-binance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
