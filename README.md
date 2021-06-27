@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Asia’s richest man Mukesh Ambani unveils $10bn green energy push](https://www.aljazeera.com/economy/2021/6/24/asias-richest-man-mukesh-ambani-unveils-10bn-green-energy-pus)
+- [Why wood has gotten so dang expensive](https://constructionphysics.substack.com/p/lumber-price-faq)
 - [Windows 11, Amazon, and Uncomfortable Questions](https://commonsware.com/blog/2021/06/26/windows-11-amazon-uncomfortable-questions.html)
 - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
 - [Binance Crypto Exchange Banned from Doing Business in U.K](https://www.bloomberg.com/news/articles/2021-06-27/u-k-financial-regulator-bars-crypto-exchange-binance)
-- [Climate Change Could Fuel the Spread of Leishmania Parasites](https://undark.org/2021/06/21/climate-change-could-fuel-spread-flesh-eating-parasite/)
-- [Revisiting webcam covers](https://rubenerd.com/revisiting-webcam-covers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
