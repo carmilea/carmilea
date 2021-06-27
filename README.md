@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rapid displacement of SARS-CoV-2 variant B.1.1.7 by B.1.617.2 and P.1 in the US](https://www.medrxiv.org/content/10.1101/2021.06.20.21259195v1)
+- [Austin Cyclists Split on Sharing Bike Lanes with Pizza Delivery Robots](https://www.houstonpublicmedia.org/articles/news/transportation/2021/06/24/401460/austin-cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots/)
+- [Nathan Seiberg on How Math Might Reveal Quantum Gravity](https://www.quantamagazine.org/nathan-seiberg-on-how-math-might-reveal-quantum-gravity-20210624/)
 - [I spent 5 years writing my own operating system](https://github.com/halfer53/winix)
 - [Why did we ever think a student's first programming language didn't matter?](https://m-cacm.acm.org/blogs/blog-cacm/253393-why-did-we-ever-think-the-first-programming-language-didnt-matter/fulltext)
-- [YouTube takes down Xinjiang videos, forcing rights group to seek alternative](https://www.reuters.com/technology/exclusive-youtube-takes-down-xinjiang-videos-forces-rights-group-seek-2021-06-25/)
-- [The school for sysadmins who can’t timesync good](https://libertysys.com.au/2016/09/the-school-for-sysadmins-who-cant-timesync-good-and-wanna-learn-to-do-other-stuff-good-too-part-1-the-problem-with-ntp/)
-- [AMD Quietly Launches Recycled Xbox Series X APU as 4700S Desktop Kit](https://www.tomshardware.com/news/amd-launches-recycled-xbox-series-x-apu-4700s-desktop-kit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
