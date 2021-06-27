@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Move over Bloomberg Terminal, Here Comes Gamestonk Terminal](https://github.com/GamestonkTerminal/GamestonkTerminal)
-- [Startup leaders need to learn how to build companies ready for crisis](https://techcrunch.com/2021/06/26/startup-leaders-need-to-learn-how-to-build-companies-ready-for-crisis/)
-- [Roblox on Linux with recent Wine 6.11](https://roblox.fandom.com/wiki/Roblox_on_Linux)
-- [Clerky (YC S11) is hiring software engineers to modernize legal paperwork](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN)
-- [A Pure HTTP/3 Alternative to MQTT-over-QUIC in Resource-Constrained IoT](https://arxiv.org/abs/2106.12684)
+- [Windows 11, Amazon, and Uncomfortable Questions](https://commonsware.com/blog/2021/06/26/windows-11-amazon-uncomfortable-questions.html)
+- [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
+- [Binance Crypto Exchange Banned from Doing Business in U.K](https://www.bloomberg.com/news/articles/2021-06-27/u-k-financial-regulator-bars-crypto-exchange-binance)
+- [Climate Change Could Fuel the Spread of Leishmania Parasites](https://undark.org/2021/06/21/climate-change-could-fuel-spread-flesh-eating-parasite/)
+- [Revisiting webcam covers](https://rubenerd.com/revisiting-webcam-covers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
