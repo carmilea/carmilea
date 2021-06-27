@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mumble: Open-Source, Low Latency, High Quality Voice Chat](https://www.mumble.info/)
+- [A Proven Correct C Compiler (Used by Airbus)](https://github.com/AbsInt/CompCert)
+- [OpenSmalltalk – cross-platform virtual machine for Squeak, Pharo, Cuis, Newspeak](https://opensmalltalk.org/)
 - [Crazy Conclusions in Early Childhood](https://raisingfutureadults.blogspot.com/2021/06/crazeh-conclusions-in-early-childhood.html)
 - [Cellular: A command line elementary cellular automaton visualizer](https://github.com/W-A-James/cellular)
-- [Austin Cyclists Split on Sharing Bike Lanes with Pizza Delivery Robots](https://www.houstonpublicmedia.org/articles/news/transportation/2021/06/24/401460/austin-cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots/)
-- [Nathan Seiberg on How Math Might Reveal Quantum Gravity](https://www.quantamagazine.org/nathan-seiberg-on-how-math-might-reveal-quantum-gravity-20210624/)
-- [I spent 5 years writing my own operating system](https://github.com/halfer53/winix)
 <!-- BLOG-POST-LIST:END -->
 
 ---
