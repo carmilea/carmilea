@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I spent 5 years writing my own operating system](https://github.com/halfer53/winix)
+- [Why Did We Ever Think the First Programming Language Didn't Matter?](https://m-cacm.acm.org/blogs/blog-cacm/253393-why-did-we-ever-think-the-first-programming-language-didnt-matter/fulltext)
 - [YouTube takes down Xinjiang videos, forcing rights group to seek alternative](https://www.reuters.com/technology/exclusive-youtube-takes-down-xinjiang-videos-forces-rights-group-seek-2021-06-25/)
 - [The School for Sysadmins Who Can’t Timesync Good](https://libertysys.com.au/2016/09/the-school-for-sysadmins-who-cant-timesync-good-and-wanna-learn-to-do-other-stuff-good-too-part-1-the-problem-with-ntp/)
 - [AMD Quietly Launches Recycled Xbox Series X APU as 4700S Desktop Kit](https://www.tomshardware.com/news/amd-launches-recycled-xbox-series-x-apu-4700s-desktop-kit)
-- [Detection Script to help identify why your PC isn't Windows 11 ready](https://github.com/rcmaehl/WhyNotWin11)
-- [Rescale (YC W12) Is Hiring Product Managers](https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 <!-- BLOG-POST-LIST:END -->
 
 ---
