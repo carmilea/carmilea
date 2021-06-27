@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [One Year in Hell (2013)](http://personalliberty.com/one-year-in-hell/)
+- [Metformin trial reduces seizures and brain tumours in Tuberous Sclerosis](https://www.gosh.nhs.uk/news/gosh-led-metformin-trial-dramatically-reduces-seizures-people-tuberous-sclerosis/)
+- [Near](https://docs.google.com/document/d/12pOhaaFh998B0kyc5Sm4IhlhIp1c9t5gDNTVVPaiJgI/preview?pru=AAABenOWZRw*12os1nsp8s--b2cIT-LqCA#)
 - [Substack (YC W18) is hiring engineers to build the future of writing](https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81)
 - [Windows 11 will create heaps of needless trash](https://nbailey.ca/post/win11-will-create-trash/)
 - [Reverse-engineering the Final Fantasy: Theatrhythm track format](https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md)
-- [Typed Programs Don't Leak Data](https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
