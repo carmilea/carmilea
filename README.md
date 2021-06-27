@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Mumble: Open-Source, Low Latency, High Quality Voice Chat](https://www.mumble.info/)
+- [World’s smallest, best acoustic amplifier emerges from 50-year-old hypothesis](https://www.sandia.gov/news/publications/labnews/articles/2021/06-18/acoustic.html)
 - [A Proven Correct C Compiler (Used by Airbus)](https://github.com/AbsInt/CompCert)
 - [OpenSmalltalk – cross-platform virtual machine for Squeak, Pharo, Cuis, Newspeak](https://opensmalltalk.org/)
 - [Crazy Conclusions in Early Childhood](https://raisingfutureadults.blogspot.com/2021/06/crazeh-conclusions-in-early-childhood.html)
-- [Cellular: A command line elementary cellular automaton visualizer](https://github.com/W-A-James/cellular)
 <!-- BLOG-POST-LIST:END -->
 
 ---
