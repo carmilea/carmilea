@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cuba′s Covid vaccine rivals Pfizer, Moderna](https://www.dw.com/en/cubas-covid-vaccine-rivals-biontech-pfizer-moderna/a-58052365)
-- [The Libera.Chat split 1 month later, summed up in one graph](https://netsplit.de/networks/top10.php)
-- [Challenging the Myth That Programming Careers End at 40](https://thenewstack.io/challenging-the-myth-that-programming-careers-end-at-40/)
-- [Ask HN: How to Learn How to Sell?](https://news.ycombinator.com/item?id=27653357)
-- [Navattic (YC W21) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/navattic/jobs/3re77Gz5G-founding-engineer)
+- [Vegetables have become far less nutritious](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/)
+- [x86 Bare Metal Examples: Minimal operating systems, learn x86 system programming](https://github.com/cirosantilli/x86-bare-metal-examples)
+- [Let's code a TCP/IP stack](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+- [Schools Are Spying on Students – But Students Can Fight Back](https://www.eff.org/press/releases/schools-are-spying-students-students-can-fight-back)
+- [The Broken Promise of Retirement](https://www.nybooks.com/articles/2021/07/01/broken-promise-of-retirement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
