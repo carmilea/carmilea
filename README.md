@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sir, Please Step Away from the Terminal: Moving Away from the Tyranny of ASCII](https://queue.acm.org/detail.cfm?id=1871406)
+- [Tiddlywiki with Roam Research like functionality](https://rr-tw5.github.io/)
+- [Sir, Please Step Away from the Terminal: Moving Away from the Tyranny of ASCII (2010)](https://queue.acm.org/detail.cfm?id=1871406)
 - [Avoiding Complexity with Systemd](https://mgdm.net/weblog/systemd/)
-- [No Space Left to Run: China's Transnational Repression of Uyghurs](https://uhrp.org/report/no-space-left-to-run-chinas-transnational-repression-of-uyghurs/)
 - [Secure Messaging, Anywhere](https://briarproject.org/)
-- [Puppy Linux on Wayland, Sort Of](https://forum.puppylinux.com/viewtopic.php?f=40&t=2967)
+- [Michelin Puts Puffy Sails on Cargo Ships – Boosts Fuel Efficiency 20%](https://spectrum.ieee.org/energywise/green-tech/wind/michelin-puffy-sails-cargo-ships-improve-fuel-economy#.YNezQMYEw4I.twitter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
