@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intro to Debugging in Go on VSCode](https://viggy28.github.io/til/2021-06-27T20-52-11-go-debugging-vscode.html)
-- [Earth is trapping twice as much heat as it did in 2005](https://www.livescience.com/earth-trapping-more-heat-energy-imbalance-doubled.html)
-- [Thousands without power during record-breaking heat](https://www.koin.com/news/thousands-without-power-during-record-breaking-heat/)
+- [FCA bans largest crypto-currency exchange Binance](https://www.bbc.com/news/business-57632831)
 - [Microsoft Build 2021: My Tiny Little Summary](https://patrickwu.space/2021/06/03/build-2021/)
 - [Unicode sorting is hard and why browsers added special emoji matching to regexp](https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching)
+- [A Declaration of the Independence of Cyberspace (1996)](https://www.eff.org/cyberspace-independence)
+- [Cardiac: CARDboard Illustrative Aid to Computation (1969)](https://www.cs.drexel.edu/~bls96/museum/cardiac.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
