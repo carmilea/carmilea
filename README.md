@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A New Push to Make Ecocide an International Crime](https://www.npr.org/2021/06/27/1010402568/ecocide-environment-destruction-international-crime-criminal-court)
 - [SIRUM (YC W15) is hiring to make access to medicine more equitable](https://news.ycombinator.com/item?id=27668040)
-- [Renewed questions about the virus, and their hard-to-face answers](https://www.tabletmag.com/sections/news/articles/the-war-on-reality-gutentag)
-- [Apple making some employees wear body cams in response to leaks](https://www.frontpagetech.com/2021/06/28/exclusive-apple-making-employees-wear-police-grade-body-cams-in-response-to-leaks/)
 - [Nvidia Vid2vid-Cameo Demo](http://nvidia-research-mingyuliu.com/vid2vid-cameo/)
 - [The 'Fuck You' Pattern](https://cedwards.xyz/the-fuck-you-pattern/)
+- [Judge dismisses FTC antitrust complaint against Facebook](https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
