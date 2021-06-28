@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [San Francisco residents are fed up with city inaction on open-air drug use](https://www.city-journal.org/san-francisco-residents-fed-up-with-open-air-drug-use)
+- [Good news: Google no longer requires AMP. Bad news: Replacement might be worse](https://www.theregister.com/2021/06/28/google_amp_core_web_vitals/)
+- [The Lightness of Windows](https://stratechery.com/2021/the-lightness-of-windows/)
 - [Temporal: Getting started with JavaScript's new date time API](https://2ality.com/2021/06/temporal-api.html)
 - [A Plea for Lean Software (1995) [pdf]](https://blog.frantovo.cz/s/1576/Niklaus%20Wirth%20-%20A%20Plea%20for%20Lean%20Software%20-%20OCR.pdf)
 - [Foster (YC W21) Is Hiring a Senior Product Designer](https://www.ycombinator.com/companies/compound-writing/jobs/f46lw1d-senior-product-designer)
-- [What if an AI wins the Nobel Prize for medicine?](https://www.economist.com/what-if/2021/07/03/what-if-an-ai-wins-the-nobel-prize-for-medicine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
