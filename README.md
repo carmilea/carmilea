@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SIRUM (YC W15) is hiring to make access to medicine more equitable](https://news.ycombinator.com/item?id=27668040)
+- [Renewed questions about the virus, and their hard-to-face answers](https://www.tabletmag.com/sections/news/articles/the-war-on-reality-gutentag)
 - [Apple making some employees wear body cams in response to leaks](https://www.frontpagetech.com/2021/06/28/exclusive-apple-making-employees-wear-police-grade-body-cams-in-response-to-leaks/)
+- [Nvidia Vid2vid-Cameo Demo](http://nvidia-research-mingyuliu.com/vid2vid-cameo/)
 - [The 'Fuck You' Pattern](https://cedwards.xyz/the-fuck-you-pattern/)
-- [Judge dismisses FTC antitrust complaint against Facebook](https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html)
-- [An announcement about the comment section](https://blogs.sciencemag.org/pipeline/archives/2021/06/28/an-announcement-about-the-comment-section)
-- [EU startup fund overwhelmed by high demand](https://www.politico.eu/article/eu-startup-fund-overwhelmed-by-huge-demand-digital-economy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
