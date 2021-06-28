@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Announcement About the Comment Section](https://blogs.sciencemag.org/pipeline/archives/2021/06/28/an-announcement-about-the-comment-section)
-- [YouTube Permanently Bans a Media Watchdog that Exposes Right-Wing Conspiracies](https://www.thedailybeast.com/youtube-permanently-bans-right-wing-watch-a-media-watchdog-devoted-to-exposing-right-wing-conspiracies)
+- [Apple making some employees wear body cams in response to leaks](https://www.frontpagetech.com/2021/06/28/exclusive-apple-making-employees-wear-police-grade-body-cams-in-response-to-leaks/)
+- [The 'Fuck You' Pattern](https://cedwards.xyz/the-fuck-you-pattern/)
+- [Judge dismisses FTC antitrust complaint against Facebook](https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html)
+- [An announcement about the comment section](https://blogs.sciencemag.org/pipeline/archives/2021/06/28/an-announcement-about-the-comment-section)
 - [EU startup fund overwhelmed by high demand](https://www.politico.eu/article/eu-startup-fund-overwhelmed-by-huge-demand-digital-economy/)
-- [Unemployment declining faster in states that are cutting off $300 benefits](https://www.businessinsider.com/unemployment-declining-faster-states-ending-300-weekly-federal-benefits-2021-6)
-- [SafeDollar ‘stablecoin’ drops to $0 following DeFi exploit on Polygon](https://cryptoslate.com/safedollar-stablecoin-drops-to-0-following-248000-defi-exploit-on-polygon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
