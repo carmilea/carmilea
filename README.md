@@ -55,7 +55,7 @@
 - [Canada weather: Heatwave hits record 46.6C as US north-west also frazzles](https://www.bbc.com/news/world-us-canada-57634700)
 - [World’s first lab-grown meat facility pumps out 5k burgers per day](https://www.slashgear.com/worlds-first-lab-grown-meat-facility-pumps-out-5000-burgers-per-day-25680053/)
 - [Subdomains for IPFS](https://ipds.io/)
-- [Loneliness a 'bigger health risk than smoking or obesity'](https://www.bbc.co.uk/news/uk-wales-57622710)
+- [China releases videos of its Zhurong Mars rover](https://www.bbc.com/news/science-environment-57628653)
 <!-- BLOG-POST-LIST:END -->
 
 ---
