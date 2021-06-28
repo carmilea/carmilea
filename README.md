@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intro to Debugging in Go on VSCode](https://viggy28.github.io/til/2021-06-27T20-52-11-go-debugging-vscode.html)
+- [Earth is trapping twice as much heat as it did in 2005](https://www.livescience.com/earth-trapping-more-heat-energy-imbalance-doubled.html)
+- [Thousands without power during record-breaking heat](https://www.koin.com/news/thousands-without-power-during-record-breaking-heat/)
+- [Microsoft Build 2021: My Tiny Little Summary](https://patrickwu.space/2021/06/03/build-2021/)
 - [Unicode sorting is hard and why browsers added special emoji matching to regexp](https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching)
-- [El Carro: Run Oracle Databases on Kubernetes](https://github.com/googlecloudplatform/elcarro-oracle-operator)
-- [The parallel universe of FireWire hubs](https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html)
-- [Problems with math rendering on the web (2020)](https://danilafe.com/blog/math_rendering_is_wrong/)
-- [Canada to make online hate speech a crime punishable by fine](https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213)
 <!-- BLOG-POST-LIST:END -->
 
 ---
