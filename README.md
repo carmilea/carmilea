@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Google: Public domain compositions exist](https://blog.dbmiller.org/2021-06-28-dear-google-public-domain-compositions-exist)
-- [JavaScript Is Weird](https://jsisweird.com/)
-- [Why Computing Students Should Contribute to Open Source Software Projects](https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext)
-- [Data-oriented design or why you might be shooting yourself in the foot with OOP](https://gamesfromwithin.com/data-oriented-design)
-- [Dr. Software – Refactoring from OOP to FP [pdf]](https://bitgloss.ro/dr-software.pdf)
+- [Foster (YC W21) Is Hiring a Senior Product Designer](https://www.ycombinator.com/companies/compound-writing/jobs/f46lw1d-senior-product-designer)
+- [Canada weather: Heatwave hits record 46.6C as US north-west also frazzles](https://www.bbc.com/news/world-us-canada-57634700)
+- [World’s first lab-grown meat facility pumps out 5k burgers per day](https://www.slashgear.com/worlds-first-lab-grown-meat-facility-pumps-out-5000-burgers-per-day-25680053/)
+- [Subdomains for IPFS](https://ipds.io/)
+- [Loneliness a 'bigger health risk than smoking or obesity'](https://www.bbc.co.uk/news/uk-wales-57622710)
 <!-- BLOG-POST-LIST:END -->
 
 ---
