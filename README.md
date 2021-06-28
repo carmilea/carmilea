@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The parallel universe of FireWire hubs](https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html)
-- [Math Rendering Is Wrong](https://danilafe.com/blog/math_rendering_is_wrong/)
-- [Metformin trial reduces seizures and brain tumours in Tuberous Sclerosis](https://www.gosh.nhs.uk/news/gosh-led-metformin-trial-dramatically-reduces-seizures-people-tuberous-sclerosis/)
+- [Problems with math rendering on the web (2020)](https://danilafe.com/blog/math_rendering_is_wrong/)
+- [Canada to make online hate speech a crime punishable by fine](https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213)
 - [Substack (YC W18) is hiring engineers to build the future of writing](https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81)
 - [Reverse-engineering the Final Fantasy: Theatrhythm track format](https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md)
 <!-- BLOG-POST-LIST:END -->
