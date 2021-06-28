@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tips and tricks I learned from my Kickstarter campaign](https://anchor.fm/wannabentrepreneur/episodes/49---Tips-and-tricks-for-a-successful-Kickstarter-campaign-e12o20i)
 - [Why Computing Students Should Contribute to Open Source Software Projects](https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext)
+- [Data-oriented design or why you might be shooting yourself in the foot with OOP](https://gamesfromwithin.com/data-oriented-design)
+- [Dr. Software – Refactoring from OOP to FP [pdf]](https://bitgloss.ro/dr-software.pdf)
 - [Mexican billionaire Salinas says his banking business may embrace Bitcoin](https://www.reuters.com/business/finance/mexican-billionaire-salinas-says-his-banking-business-may-embrace-bitcoin-2021-06-28/)
-- [Sriracha sauce hits $150M+/Y with no sales team, no trademark and $0 in ad spend](https://twitter.com/TrungTPhan/status/1409185044501987340)
-- [FCA bans largest crypto-currency exchange Binance](https://www.bbc.com/news/business-57632831)
-- [Microsoft Build 2021: My Tiny Little Summary](https://patrickwu.space/2021/06/03/build-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
