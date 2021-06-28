@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineers can disrupt climate change](https://spectrum.ieee.org/energy/renewables/engineers-you-can-disrupt-climate-change)
+- [Amazon is using algorithms with little human intervention to fire Flex workers](https://arstechnica.com/tech-policy/2021/06/amazon-is-firing-flex-workers-using-algorithms-with-little-human-intervention/)
+- [AmberBox Gunshot Detection (YC W16) Is Hiring](https://www.ycombinator.com/companies/amberbox-gunshot-detection/jobs/bDS8KHf-fully-remote-sales-business-development-representative)
+- [This Chemical Does Not Exist](https://www.thischemicaldoesnotexist.com/)
 - [Google no longer requires AMP, but the replacement might be worse](https://www.theregister.com/2021/06/28/google_amp_core_web_vitals/)
 - [The Lightness of Windows](https://stratechery.com/2021/the-lightness-of-windows/)
-- [Show HN: Anki alternative with integrated notes and import/export](https://get21stnight.com/)
-- [Temporal: Getting started with JavaScript's new date time API](https://2ality.com/2021/06/temporal-api.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
