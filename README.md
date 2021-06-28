@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tips and tricks I learned from my Kickstarter campaign](https://anchor.fm/wannabentrepreneur/episodes/49---Tips-and-tricks-for-a-successful-Kickstarter-campaign-e12o20i)
+- [Dear Google: Public domain compositions exist](https://blog.dbmiller.org/2021-06-28-dear-google-public-domain-compositions-exist)
+- [JavaScript Is Weird](https://jsisweird.com/)
 - [Why Computing Students Should Contribute to Open Source Software Projects](https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext)
 - [Data-oriented design or why you might be shooting yourself in the foot with OOP](https://gamesfromwithin.com/data-oriented-design)
 - [Dr. Software – Refactoring from OOP to FP [pdf]](https://bitgloss.ro/dr-software.pdf)
-- [Mexican billionaire Salinas says his banking business may embrace Bitcoin](https://www.reuters.com/business/finance/mexican-billionaire-salinas-says-his-banking-business-may-embrace-bitcoin-2021-06-28/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
