@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Push to Make Ecocide an International Crime](https://www.npr.org/2021/06/27/1010402568/ecocide-environment-destruction-international-crime-criminal-court)
+- [YouTube reinstates Right Wing Watch](https://www.nbcnews.com/tech/tech-news/youtube-reinstates-channel-devoted-exposing-conservative-extremism-rcna1286)
 - [SIRUM (YC W15) is hiring to make access to medicine more equitable](https://news.ycombinator.com/item?id=27668040)
 - [Nvidia Vid2vid-Cameo Demo](http://nvidia-research-mingyuliu.com/vid2vid-cameo/)
 - [The 'Fuck You' Pattern](https://cedwards.xyz/the-fuck-you-pattern/)
