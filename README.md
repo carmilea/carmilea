@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon is using algorithms with little human intervention to fire Flex workers](https://arstechnica.com/tech-policy/2021/06/amazon-is-firing-flex-workers-using-algorithms-with-little-human-intervention/)
+- [SafeDollar ‘stablecoin’ drops to $0 following $248,000 DeFi exploit on Polygon](https://cryptoslate.com/safedollar-stablecoin-drops-to-0-following-248000-defi-exploit-on-polygon/)
+- [Intel to Disable TSX by Default on More CPUs with New Microcode](https://www.phoronix.com/scan.php?page=news_item&px=Intel-TSX-Off-New-Microcode)
 - [AmberBox Gunshot Detection (YC W16) Is Hiring](https://www.ycombinator.com/companies/amberbox-gunshot-detection/jobs/bDS8KHf-fully-remote-sales-business-development-representative)
+- [Show HN: The Sample – newsletters curated for you with machine learning](https://sample.findka.com/?ref=showhn)
 - [This Chemical Does Not Exist](https://www.thischemicaldoesnotexist.com/)
-- [Google no longer requires AMP, but the replacement might be worse](https://www.theregister.com/2021/06/28/google_amp_core_web_vitals/)
-- [The Lightness of Windows](https://stratechery.com/2021/the-lightness-of-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
