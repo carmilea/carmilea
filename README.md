@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Computing Students Should Contribute to Open Source Software Projects](https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext)
+- [Mexican billionaire Salinas says his banking business may embrace Bitcoin](https://www.reuters.com/business/finance/mexican-billionaire-salinas-says-his-banking-business-may-embrace-bitcoin-2021-06-28/)
+- [Sriracha sauce hits $150M+/Y with no sales team, no trademark and $0 in ad spend](https://twitter.com/TrungTPhan/status/1409185044501987340)
 - [FCA bans largest crypto-currency exchange Binance](https://www.bbc.com/news/business-57632831)
 - [Microsoft Build 2021: My Tiny Little Summary](https://patrickwu.space/2021/06/03/build-2021/)
-- [Unicode sorting is hard and why browsers added special emoji matching to regexp](https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching)
-- [A Declaration of the Independence of Cyberspace (1996)](https://www.eff.org/cyberspace-independence)
-- [Cardiac: CARDboard Illustrative Aid to Computation (1969)](https://www.cs.drexel.edu/~bls96/museum/cardiac.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
