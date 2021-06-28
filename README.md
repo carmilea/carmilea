@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bsnes author Byuu bullied to suicide by KiwiFarms](https://docs.google.com/document/d/12pOhaaFh998B0kyc5Sm4IhlhIp1c9t5gDNTVVPaiJgI/preview?pru=AAABenKPaAg*LtDE7WkbMAAXo9vMVHv4qg)
-- [The Dev Behind One of the Best SNES Emulators Has Died](https://www.nintendolife.com/news/2021/06/the_dev_behind_one_of_the_worlds_best_snes_emulators_has_taken_their_own_life)
-- [Surfside Official Told Residents Building Was Safe, Despite Engineer's Warning](https://www.npr.org/sections/live-updates-miami-area-condo-collapse/2021/06/27/1010710735/surfside-official-told-residents-their-building-was-safe-despite-engineers-warni)
-- [Big tech campus at old Fry’s north San Jose store site pushes ahead](https://www.mercurynews.com/2021/06/18/big-tech-campus-frys-store-north-san-jose-real-estate-office-develop)
+- [Unicode sorting is hard and why browsers added special emoji matching to regexp](https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching)
 - [El Carro: Run Oracle Databases on Kubernetes](https://github.com/googlecloudplatform/elcarro-oracle-operator)
+- [The parallel universe of FireWire hubs](https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html)
+- [Problems with math rendering on the web (2020)](https://danilafe.com/blog/math_rendering_is_wrong/)
+- [Canada to make online hate speech a crime punishable by fine](https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213)
 <!-- BLOG-POST-LIST:END -->
 
 ---
