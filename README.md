@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SafeDollar ‘stablecoin’ drops to $0 following $248,000 DeFi exploit on Polygon](https://cryptoslate.com/safedollar-stablecoin-drops-to-0-following-248000-defi-exploit-on-polygon/)
-- [Intel to Disable TSX by Default on More CPUs with New Microcode](https://www.phoronix.com/scan.php?page=news_item&px=Intel-TSX-Off-New-Microcode)
-- [AmberBox Gunshot Detection (YC W16) Is Hiring](https://www.ycombinator.com/companies/amberbox-gunshot-detection/jobs/bDS8KHf-fully-remote-sales-business-development-representative)
-- [Show HN: The Sample – newsletters curated for you with machine learning](https://sample.findka.com/?ref=showhn)
-- [This Chemical Does Not Exist](https://www.thischemicaldoesnotexist.com/)
+- [An Announcement About the Comment Section](https://blogs.sciencemag.org/pipeline/archives/2021/06/28/an-announcement-about-the-comment-section)
+- [YouTube Permanently Bans a Media Watchdog that Exposes Right-Wing Conspiracies](https://www.thedailybeast.com/youtube-permanently-bans-right-wing-watch-a-media-watchdog-devoted-to-exposing-right-wing-conspiracies)
+- [EU startup fund overwhelmed by high demand](https://www.politico.eu/article/eu-startup-fund-overwhelmed-by-huge-demand-digital-economy/)
+- [Unemployment declining faster in states that are cutting off $300 benefits](https://www.businessinsider.com/unemployment-declining-faster-states-ending-300-weekly-federal-benefits-2021-6)
+- [SafeDollar ‘stablecoin’ drops to $0 following DeFi exploit on Polygon](https://cryptoslate.com/safedollar-stablecoin-drops-to-0-following-248000-defi-exploit-on-polygon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
