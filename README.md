@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Good news: Google no longer requires AMP. Bad news: Replacement might be worse](https://www.theregister.com/2021/06/28/google_amp_core_web_vitals/)
+- [Engineers can disrupt climate change](https://spectrum.ieee.org/energy/renewables/engineers-you-can-disrupt-climate-change)
+- [Google no longer requires AMP, but the replacement might be worse](https://www.theregister.com/2021/06/28/google_amp_core_web_vitals/)
 - [The Lightness of Windows](https://stratechery.com/2021/the-lightness-of-windows/)
+- [Show HN: Anki alternative with integrated notes and import/export](https://get21stnight.com/)
 - [Temporal: Getting started with JavaScript's new date time API](https://2ality.com/2021/06/temporal-api.html)
-- [A Plea for Lean Software (1995) [pdf]](https://blog.frantovo.cz/s/1576/Niklaus%20Wirth%20-%20A%20Plea%20for%20Lean%20Software%20-%20OCR.pdf)
-- [Foster (YC W21) Is Hiring a Senior Product Designer](https://www.ycombinator.com/companies/compound-writing/jobs/f46lw1d-senior-product-designer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
