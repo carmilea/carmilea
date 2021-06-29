@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Still Use Plain Text for Everything.](https://lifehacker.com/i-still-use-plain-text-for-everything-and-i-love-it-1758380840)
+- [U.S. inflation likely to remain elevated for up to four years – BofA](https://www.reuters.com/business/global-markets-bofa-urgent-2021-06-25/)
+- [Why Furries Make Excellent Hackers](https://soatok.blog/2021/06/02/why-furries-make-excellent-hackers/)
+- [Electronic lottery tickets as micropayments (1997)](https://fermatslibrary.com/s/electronic-lottery-tickets-as-micropayments)
+- [The Left’s War on Gifted Kids](https://www.theatlantic.com/politics/archive/2021/06/left-targets-testing-gifted-programs/619315/)
 - [ReadMe (YC W15) is hiring a Product Marketer who loves developers](https://readme.com/careers#product-marketing-manager)
-- [An EPYC escape: Case-study of a KVM breakout](https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html)
-- [Kubernetes a black hole of unpredictable spend, according to new report](https://www.theregister.com/2021/06/29/kubernetes_spend_report/)
-- [A driver containing rootkit malware was certified by Microsoft – PC Gamer](https://www.pcgamer.com/a-driver-containing-rootkit-malware-was-certified-by-microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
