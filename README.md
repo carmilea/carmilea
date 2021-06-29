@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube reinstates Right Wing Watch](https://www.nbcnews.com/tech/tech-news/youtube-reinstates-channel-devoted-exposing-conservative-extremism-rcna1286)
-- [SIRUM (YC W15) is hiring to make access to medicine more equitable](https://news.ycombinator.com/item?id=27668040)
-- [Nvidia Vid2vid-Cameo Demo](http://nvidia-research-mingyuliu.com/vid2vid-cameo/)
-- [The 'Fuck You' Pattern](https://cedwards.xyz/the-fuck-you-pattern/)
-- [Judge dismisses FTC antitrust complaint against Facebook](https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html)
+- [A Docker footgun led to a vandal deleting NewsBlur's MongoDB database](https://blog.newsblur.com/2021/06/28/story-of-a-hacking/)
+- [Peloton Axes Free 'Just Run' Feature from Treadmill](https://www.pcmag.com/news/peloton-axes-free-just-run-feature-from-treadmill-bricking-it-for-non-subscribers)
+- [Many people don’t want to work unless it’s from home](https://www.vox.com/recode/22543409/remote-work-from-home-jobs-supply-demand-hiring-platforms)
+- [Make Your Cluster Swim](https://bartoszsypytkowski.com/make-your-cluster-swim/)
+- [Simple Test Reveals If Your Mental Images Are More Vivid Than Other People's](https://www.sciencealert.com/this-simple-test-reveals-if-your-mental-images-are-more-vivid-than-other-people-s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
