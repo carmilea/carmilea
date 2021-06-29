@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Limits of Optimization](https://theconvivialsociety.substack.com/p/the-limits-of-optimization)
+- [The Parity Bitcoin client, written in Rust](https://github.com/paritytech/parity-bitcoin)
 - [Bring back menus QR codes are terrible](https://slate.com/human-interest/2021/06/bring-back-menus-end-qr-codes.html?via=rss)
 - [Ask HN: Do you Self-host your database?](https://news.ycombinator.com/item?id=27671376)
 - [The Intelligent Forest](https://www.noemamag.com/the-intelligent-forest)
-- [Tiny Treeshaker: JavaScript tree shaking in 200 lines of code](https://github.com/magicmark/tiny-treeshaker)
-- [Two days before condo collapse, a pool contractor photographed damage in garage](https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article252421658.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
