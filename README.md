@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Command Line Interface for Signal](https://github.com/AsamK/signal-cli)
+- [An Elixir adoption success story](https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/)
 - [Zero Knowledge](https://www.notboring.co/p/zero-knowledge)
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [What mRNA is good for, and what it maybe isn’t](https://blogs.sciencemag.org/pipeline/archives/2021/06/29/what-mrna-is-good-for-and-what-it-maybe-isnt)
-- [Show HN: A fun way to check Bitcoin’s price.](https://bitcointemp.com)
-- [Ohio GOP ends attempt to ban municipal broadband after protest from residents](https://arstechnica.com/tech-policy/2021/06/ohio-gop-ends-attempt-to-ban-municipal-broadband-after-protest-from-residents/)
+- [Storytelling – Mamet’s Conflict Airing Theory](https://www.ribbonfarm.com/2021/06/17/storytelling-mamets-conflict-airing-theory/)
+- [Researchers translate a bird's brain activity into song](https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
