@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ReadMe (YC W15) is hiring a Product Marketer who loves developers](https://readme.com/careers#product-marketing-manager)
+- [Kubernetes a black hole of unpredictable spend, according to new report](https://www.theregister.com/2021/06/29/kubernetes_spend_report/)
+- [Pfizer and Moderna vaccines may produce lasting immunity](https://www.nature.com/articles/s41586-021-03738-2)
 - [Parsing C Types in Tcl (2016)](https://wiki.tcl-lang.org/page/Parsing+C+Types)
 - [Stepping Back from Speaking](https://martinfowler.com/articles/202106-reducing-speaking.html)
-- [Walmart unveils low-price analog insulin amid rising diabetes drug costs](https://www.cnbc.com/2021/06/29/walmart-unveils-low-price-analog-insulin-amid-rising-diabetes-drug-costs.html)
-- [Cliqz Search Engine is no longer in operation (2020)](https://cliqz.com/announcement.html)
-- [I loved jQuery, and still do (2019)](https://withblue.ink/2019/04/12/i-loved-jquery-and-still-do.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
