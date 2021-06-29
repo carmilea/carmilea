@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Compute Engine (GCE) VM Takeover via DHCP Flood](https://github.com/irsl/gcp-dhcp-takeover-code-exec)
+- [What America's seizure of websites says about the 'rules-based' order](https://responsiblestatecraft.org/2021/06/29/what-americas-seizure-of-websites-says-about-the-rules-based-order/)
+- [Maps Of Matter](https://futureofmatter.com/maps_of_matter.html)
+- [Code in ARM Assembly: Conditional Loops](https://eclecticlight.co/2021/06/29/code-in-arm-assembly-conditional-loops/)
 - [Building Permanent and Censorship-Resistant Blog with Ethereum ENS and IPFS](https://pawelurbanek.com/ipfs-ethereum-blog)
-- [Why Specs Matter (2004)](https://web.archive.org/web/20051016203842/http://diveintomark.org/archives/2004/08/16/specs)
-- [Spline (YC W21) – Senior Engineer (3D/Computer Graphics)](https://www.ycombinator.com/companies/spline/jobs/vS70rg1DB-senior-engineer-3d-computer-graphics)
-- [Wiretrustee: WireGuard-Based Mesh Network](https://github.com/wiretrustee/wiretrustee)
-- [ARM64EC: Building Native and Interoperable Apps for Windows 11 on ARM](https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
