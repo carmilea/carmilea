@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Intelligent Forest](https://www.noemamag.com/the-intelligent-forest)
+- [Tiny Treeshaker: JavaScript tree shaking in 200 lines of code](https://github.com/magicmark/tiny-treeshaker)
 - [See the Highest-Resolution Atomic Image Ever Captured](https://www.scientificamerican.com/article/see-the-highest-resolution-atomic-image-ever-captured/)
+- [Unprecedented Heat Wave in Pacific Northwest Driven by Climate Change](https://www.scientificamerican.com/article/unprecedented-heat-wave-in-pacific-northwest-driven-by-climate-change/)
 - [Two days before condo collapse, a pool contractor photographed damage in garage](https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article252421658.html)
-- [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
-- [Mexico marijuana: Top court decriminalises recreational use of cannabis](https://www.bbc.co.uk/news/world-latin-america-57645016)
-- [A Docker footgun led to a vandal deleting NewsBlur's MongoDB database](https://blog.newsblur.com/2021/06/28/story-of-a-hacking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
