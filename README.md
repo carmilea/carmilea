@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [Ohio GOP ends attempt to ban municipal broadband after protest from residents](https://arstechnica.com/tech-policy/2021/06/ohio-gop-ends-attempt-to-ban-municipal-broadband-after-protest-from-residents/)
 - [Electronic lottery tickets as micropayments (1997)](https://fermatslibrary.com/s/electronic-lottery-tickets-as-micropayments)
 - [I still use plain text for everything.](https://lifehacker.com/i-still-use-plain-text-for-everything-and-i-love-it-1758380840)
-- [ReadMe (YC W15) is hiring a Product Marketer who loves developers](https://readme.com/careers#product-marketing-manager)
 - [An EPYC escape: Case-study of a KVM breakout](https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html)
 <!-- BLOG-POST-LIST:END -->
 
