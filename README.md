@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bring back menus QR codes are terrible](https://slate.com/human-interest/2021/06/bring-back-menus-end-qr-codes.html?via=rss)
 - [The Intelligent Forest](https://www.noemamag.com/the-intelligent-forest)
 - [Tiny Treeshaker: JavaScript tree shaking in 200 lines of code](https://github.com/magicmark/tiny-treeshaker)
-- [See the Highest-Resolution Atomic Image Ever Captured](https://www.scientificamerican.com/article/see-the-highest-resolution-atomic-image-ever-captured/)
-- [Unprecedented Heat Wave in Pacific Northwest Driven by Climate Change](https://www.scientificamerican.com/article/unprecedented-heat-wave-in-pacific-northwest-driven-by-climate-change/)
 - [Two days before condo collapse, a pool contractor photographed damage in garage](https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article252421658.html)
+- [Why the African genome project is so useful](https://www.economist.com/leaders/2021/06/26/why-the-african-genome-project-is-so-useful)
 <!-- BLOG-POST-LIST:END -->
 
 ---
