@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spline (YC W21) – Senior Engineer (3D/Computer Graphics)](https://www.ycombinator.com/companies/spline/jobs/vS70rg1DB-senior-engineer-3d-computer-graphics)
+- [ARM64EC: Building Native and Interoperable Apps for Windows 11 on ARM](https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/)
+- [Our plans to improve navigation on GOV.UK](https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/)
 - [The Limits of Optimization](https://theconvivialsociety.substack.com/p/the-limits-of-optimization)
-- [The Parity Bitcoin client, written in Rust](https://github.com/paritytech/parity-bitcoin)
-- [Bring back menus QR codes are terrible](https://slate.com/human-interest/2021/06/bring-back-menus-end-qr-codes.html?via=rss)
-- [Ask HN: Do you Self-host your database?](https://news.ycombinator.com/item?id=27671376)
 - [The Intelligent Forest](https://www.noemamag.com/the-intelligent-forest)
 <!-- BLOG-POST-LIST:END -->
 
