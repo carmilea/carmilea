@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Thiel Has Accumulated $5B in a Roth IRA](https://www.forbes.com/sites/sarahhansen/2021/06/24/peter-thiel-has-accumulated-5-billion-in-a-tax-free-roth-ira-designed-to-help-the-middle-class-save-for-retirement-according-to-new-report/)
-- [LinkedIn breach reportedly exposes data of 92% of users, inferred salaries](https://9to5mac.com/2021/06/29/linkedin-breach/)
-- [How to Work Hard](http://paulgraham.com/hwh.html)
-- [Virtual DOM is pure overhead (2018)](https://svelte.dev/blog/virtual-dom-is-pure-overhead)
-- [The Connection Machines CM-1 and CM-2](https://tamikothiel.com/cm/)
+- [Cliqz Search Engine is no longer in operation (2020)](https://cliqz.com/announcement.html)
+- [I loved jQuery, and still do (2019)](https://withblue.ink/2019/04/12/i-loved-jquery-and-still-do.html)
+- [GitHub Copilot: your AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/)
+- [GitHub Copilot: Your AI Pair Programmer](https://copilot.github.com)
+- [Physicists confirm two cases of “elusive” black hole/neutron star mergers](https://arstechnica.com/science/2021/06/physicists-confirm-two-cases-of-elusive-black-hole-neutron-star-mergers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
