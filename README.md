@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Still Use Plain Text for Everything.](https://lifehacker.com/i-still-use-plain-text-for-everything-and-i-love-it-1758380840)
 - [ReadMe (YC W15) is hiring a Product Marketer who loves developers](https://readme.com/careers#product-marketing-manager)
+- [An EPYC escape: Case-study of a KVM breakout](https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html)
 - [Kubernetes a black hole of unpredictable spend, according to new report](https://www.theregister.com/2021/06/29/kubernetes_spend_report/)
-- [Pfizer and Moderna vaccines may produce lasting immunity](https://www.nature.com/articles/s41586-021-03738-2)
-- [Parsing C Types in Tcl (2016)](https://wiki.tcl-lang.org/page/Parsing+C+Types)
-- [Stepping Back from Speaking](https://martinfowler.com/articles/202106-reducing-speaking.html)
+- [A driver containing rootkit malware was certified by Microsoft – PC Gamer](https://www.pcgamer.com/a-driver-containing-rootkit-malware-was-certified-by-microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
