@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [View: Warren Buffett and the Myth of the ‘Good Billionaire’](https://economictimes.indiatimes.com/news/international/business/view-warren-buffett-and-the-myth-of-the-good-billionaire/articleshow/83502579.cms)
+- [Peter Thiel Has Accumulated $5B in a Roth IRA](https://www.forbes.com/sites/sarahhansen/2021/06/24/peter-thiel-has-accumulated-5-billion-in-a-tax-free-roth-ira-designed-to-help-the-middle-class-save-for-retirement-according-to-new-report/)
+- [LinkedIn breach reportedly exposes data of 92% of users, inferred salaries](https://9to5mac.com/2021/06/29/linkedin-breach/)
+- [How to Work Hard](http://paulgraham.com/hwh.html)
+- [Virtual DOM is pure overhead (2018)](https://svelte.dev/blog/virtual-dom-is-pure-overhead)
 - [The Connection Machines CM-1 and CM-2](https://tamikothiel.com/cm/)
-- [Hackers exploited 0-day, not 2018 bug, to mass-wipe My Book Live devices](https://arstechnica.com/gadgets/2021/06/hackers-exploited-0-day-not-2018-bug-to-mass-wipe-my-book-live-devices)
-- [Eternal.gg (YC W20) Is Hiring a Creative Interactive Developer](https://news.ycombinator.com/item?id=27674629)
-- [MIT and Harvard agree to transfer edX to ed-tech firm 2U](https://news.mit.edu/2021/mit-harvard-transfer-edx-2u-0629)
 <!-- BLOG-POST-LIST:END -->
 
 ---
