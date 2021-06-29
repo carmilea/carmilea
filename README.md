@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Google Compute Engine (GCE) VM Takeover via DHCP Flood](https://github.com/irsl/gcp-dhcp-takeover-code-exec)
-- [What America's seizure of websites says about the 'rules-based' order](https://responsiblestatecraft.org/2021/06/29/what-americas-seizure-of-websites-says-about-the-rules-based-order/)
 - [Maps Of Matter](https://futureofmatter.com/maps_of_matter.html)
+- [Linux Foundation Introduces Open Voice Network](https://www.linuxfoundation.org/press-release/linux-foundation-introduces-open-voice-network-to-prioritize-trust-and-interoperability-in-a-voice-based-digital-future/)
 - [Code in ARM Assembly: Conditional Loops](https://eclecticlight.co/2021/06/29/code-in-arm-assembly-conditional-loops/)
 - [Building Permanent and Censorship-Resistant Blog with Ethereum ENS and IPFS](https://pawelurbanek.com/ipfs-ethereum-blog)
 <!-- BLOG-POST-LIST:END -->
