@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero Knowledge](https://www.notboring.co/p/zero-knowledge)
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [What mRNA is good for, and what it maybe isn’t](https://blogs.sciencemag.org/pipeline/archives/2021/06/29/what-mrna-is-good-for-and-what-it-maybe-isnt)
+- [Show HN: A fun way to check Bitcoin’s price.](https://bitcointemp.com)
 - [Ohio GOP ends attempt to ban municipal broadband after protest from residents](https://arstechnica.com/tech-policy/2021/06/ohio-gop-ends-attempt-to-ban-municipal-broadband-after-protest-from-residents/)
-- [Electronic lottery tickets as micropayments (1997)](https://fermatslibrary.com/s/electronic-lottery-tickets-as-micropayments)
-- [I still use plain text for everything.](https://lifehacker.com/i-still-use-plain-text-for-everything-and-i-love-it-1758380840)
-- [An EPYC escape: Case-study of a KVM breakout](https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
