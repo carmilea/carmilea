@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Permanent and Censorship-Resistant Blog with Ethereum ENS and IPFS](https://pawelurbanek.com/ipfs-ethereum-blog)
+- [Why Specs Matter (2004)](https://web.archive.org/web/20051016203842/http://diveintomark.org/archives/2004/08/16/specs)
 - [Spline (YC W21) – Senior Engineer (3D/Computer Graphics)](https://www.ycombinator.com/companies/spline/jobs/vS70rg1DB-senior-engineer-3d-computer-graphics)
 - [Wiretrustee: WireGuard-Based Mesh Network](https://github.com/wiretrustee/wiretrustee)
 - [ARM64EC: Building Native and Interoperable Apps for Windows 11 on ARM](https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/)
-- [Our plans to improve navigation on GOV.UK](https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/)
-- [London Taxi Company LEVC unveils e-Camper range-extender electric camper](https://www.drivingelectric.com/levc/40669/levc-unveils-e-camper-range-extender-electric-camper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
