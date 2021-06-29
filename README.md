@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [View: Warren Buffett and the Myth of the ‘Good Billionaire’](https://economictimes.indiatimes.com/news/international/business/view-warren-buffett-and-the-myth-of-the-good-billionaire/articleshow/83502579.cms)
+- [The Connection Machines CM-1 and CM-2](https://tamikothiel.com/cm/)
+- [Hackers exploited 0-day, not 2018 bug, to mass-wipe My Book Live devices](https://arstechnica.com/gadgets/2021/06/hackers-exploited-0-day-not-2018-bug-to-mass-wipe-my-book-live-devices)
 - [Eternal.gg (YC W20) Is Hiring a Creative Interactive Developer](https://news.ycombinator.com/item?id=27674629)
 - [MIT and Harvard agree to transfer edX to ed-tech firm 2U](https://news.mit.edu/2021/mit-harvard-transfer-edx-2u-0629)
-- [New LinkedIn Data Leak Leaves 700M Users Exposed](https://restoreprivacy.com/linkedin-data-leak-700-million-users/)
-- [Google Compute Engine (GCE) VM Takeover via DHCP Flood](https://github.com/irsl/gcp-dhcp-takeover-code-exec)
-- [Maps Of Matter](https://futureofmatter.com/maps_of_matter.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
