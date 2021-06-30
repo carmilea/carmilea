@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Turing College (YC W21) – Online data science school](https://www.turingcollege.com/)
+- [Apple's DocC is excellent, but unusable for open source projects](https://www.jessesquires.com/blog/2021/06/29/apple-docc-great-but-useless-for-oss/)
 - [OpenStreetMap looks to relocate to EU due to Brexit limitations](https://www.theguardian.com/politics/2021/jun/30/openstreetmap-looks-to-relocate-to-eu-due-to-brexit-limitations)
-- [Pixar RenderMan 24 with XPU Hybrid Rendering](https://renderman.pixar.com/news/pixar-animation-studios-releases-renderman-24)
 - [A foreign seller has hijacked Cliff Stoll's Amazon Klein bottle listing](https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING)
 - [Hardware Memory Models](https://research.swtch.com/hwmm)
-- [Io_uring is not (only) a generic asynchronous syscall facility](https://fancl20.github.io/contents/00-posts/2021-06-30-io_uring-is-not-only-a-generic-asynchronous-syscall-facility.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
