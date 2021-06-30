@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The New York Times: Opinion – Why Do We Work So Damn Much?](https://news.ycombinator.com/item?id=27684916)
+- [A foreign seller has hijacked Cliff Stoll's Amazon Klein bottle listing](https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING)
+- [Leopold Aschenbrenner: existential risk and German culture](https://www.thendobetter.com/arts/2021/6/22/leopold-aschenbrenner-on-existential-risk-german-culture-valedictorian-efficiency-podcast)
 - [The U.S. Navy Tried to Turn Whale Songs into Secret Code (2017)](https://www.thedrive.com/the-war-zone/8778/the-u-s-navy-tried-to-turn-whale-songs-into-secret-code)
-- [Modular Homes for Under $50k](https://www.boxabl.com/)
 - [A curated list of books on Software Architecture](https://github.com/mhadidg/software-architecture-books)
-- [Pop!_OS 21.04](https://blog.system76.com/post/655369428109869056/popos-2104-a-release-of-cosmic-proportions)
-- [MicroMac Technology (2000)](https://www.micromac.com/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
