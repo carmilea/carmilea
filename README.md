@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: An Interactive Visual History of Git Development](https://git-history.jpalmer.dev/)
+- [Apple Still Planning Return to In-Person Work Despite Complaints](https://www.macrumors.com/2021/06/30/apple-still-plans-return-to-in-person-work/)
 - [DCF77](https://en.wikipedia.org/wiki/DCF77)
-- [Arctic Circle Siberia land temperature reaches 48C during ‘persistent heatwave’](https://www.independent.co.uk/climate-change/news/arctic-circle-summer-global-warming-b1875285.html)
 - [Yale Drama Goes Tuition-Free with $150M Gift from David Geffen](https://www.nytimes.com/2021/06/30/theater/yale-drama-david-geffen-tuition.html)
 - [Software Engineering principles to make teams better](https://principles.dev/)
-- [Goldman seems to be running networking software from 2008](http://gs.com./)
 <!-- BLOG-POST-LIST:END -->
 
 ---
