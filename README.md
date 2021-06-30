@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Command Line Interface for Signal](https://github.com/AsamK/signal-cli)
-- [An Elixir adoption success story](https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/)
-- [Zero Knowledge](https://www.notboring.co/p/zero-knowledge)
-- [Storytelling – Mamet’s Conflict Airing Theory](https://www.ribbonfarm.com/2021/06/17/storytelling-mamets-conflict-airing-theory/)
-- [Researchers translate a bird's brain activity into song](https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php)
+- [MicroMac Technology (2000)](https://www.micromac.com/index.html)
+- [Ignoring bulk change commits with Git blame](https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame)
+- [Reviving extinct species may soon be possible](https://www.economist.com/technology-quarterly/2021/06/15/reviving-extinct-species-may-soon-be-possible)
+- [Conspiracy: In Theory and Practice](https://edwardsnowden.substack.com/p/conspiracy-pt1)
+- [NATO Classified Cloud Platform Compromised](https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
