@@ -55,7 +55,7 @@
 - [Canada Records All-Time High Temperature of 49.5 Degrees: Weather Service](https://www.ndtv.com/world-news/canada-records-all-time-high-temperature-of-49-5-degrees-celsius-weather-service-2475617)
 - [A foreign seller has hijacked Cliff Stoll's Amazon Klein bottle listing](https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING)
 - [Leopold Aschenbrenner: existential risk and German culture](https://www.thendobetter.com/arts/2021/6/22/leopold-aschenbrenner-on-existential-risk-german-culture-valedictorian-efficiency-podcast)
-- [The U.S. Navy Tried to Turn Whale Songs into Secret Code (2017)](https://www.thedrive.com/the-war-zone/8778/the-u-s-navy-tried-to-turn-whale-songs-into-secret-code)
+- [Hardware Memory Models](https://research.swtch.com/hwmm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
