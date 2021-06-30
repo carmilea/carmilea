@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Book Review: A Philosophy of Software Design](https://johz.bearblog.dev/book-review-philosophy-software-design/)
-- [Miami building collapse: Letter in April warned of worsening damage](https://www.bbc.co.uk/news/world-us-canada-57659311)
-- [Launch HN: Turing College (YC W21) – Online data science school](https://www.turingcollege.com/)
-- [Apple's DocC is excellent, but unusable for open source projects](https://www.jessesquires.com/blog/2021/06/29/apple-docc-great-but-useless-for-oss/)
-- [OpenStreetMap looks to relocate to EU due to Brexit limitations](https://www.theguardian.com/politics/2021/jun/30/openstreetmap-looks-to-relocate-to-eu-due-to-brexit-limitations)
+- [NASA Space Tourism Posters](https://solarsystem.nasa.gov/resources/682/space-tourism-posters/)
+- [AMD EPYC Milan Review Part 2: Testing 8 to 64 Cores in a Production Platform](https://www.anandtech.com/show/16778/amd-epyc-milan-review-part-2)
+- [GitHub co-pilot as open source code laundering?](https://twitter.com/eevee/status/1410037309848752128)
+- [CellChorus (YC S21) Is Hiring](https://news.ycombinator.com/item?id=27687446)
+- [How Amazon, Google and Other Companies Exploit NDAs](https://www.nytimes.com/2021/06/29/opinion/nda-amazon-google-facebook.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
