@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: An Interactive Visual History of Git Development](https://git-history.jpalmer.dev/)
-- [Apple Still Planning Return to In-Person Work Despite Complaints](https://www.macrumors.com/2021/06/30/apple-still-plans-return-to-in-person-work/)
-- [DCF77](https://en.wikipedia.org/wiki/DCF77)
-- [Yale Drama Goes Tuition-Free with $150M Gift from David Geffen](https://www.nytimes.com/2021/06/30/theater/yale-drama-david-geffen-tuition.html)
-- [Software Engineering principles to make teams better](https://principles.dev/)
+- [QuestDB Is Hiring a Front End Engineer (React)](https://questdb.io/careers/front-end-engineer/)
+- [Meltano raises $4.2M seed round](https://meltano.com/blog/2021/06/30/meltano-spins-out-of-gitlab-raises-seed-round/)
+- [Windows 11 on Raspberry Pi 4](https://twitter.com/shichinomiya_s/status/1409891589707636741)
+- [Intuit sabotages the Child Tax Credit](https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc)
+- [Robinhood to pay $70M for 'systemic supervisory failures'](https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
