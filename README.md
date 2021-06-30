@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A curated list of books on Software Architecture](https://github.com/mhadidg/software-architecture-books)
+- [System76 Releases Pop _OS 21.04 with New Cosmic Desktop](https://blog.system76.com/post/655369428109869056/popos-2104-a-release-of-cosmic-proportions)
 - [MicroMac Technology (2000)](https://www.micromac.com/index.html)
 - [Ignoring bulk change commits with Git blame](https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame)
-- [Reviving extinct species may soon be possible](https://www.economist.com/technology-quarterly/2021/06/15/reviving-extinct-species-may-soon-be-possible)
 - [Conspiracy: In Theory and Practice](https://edwardsnowden.substack.com/p/conspiracy-pt1)
-- [NATO Classified Cloud Platform Compromised](https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
