@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We're Levels.fyi, the most accurate resource for tech salaries, ask us anything](https://tldr.tech/ama/levels-fyi)
+- [Globally Distributed Postgres](https://fly.io/blog/globally-distributed-postgres/)
 - [QuestDB Is Hiring a Front End Engineer (React)](https://questdb.io/careers/front-end-engineer/)
 - [Meltano raises $4.2M seed round](https://meltano.com/blog/2021/06/30/meltano-spins-out-of-gitlab-raises-seed-round/)
 - [Windows 11 on Raspberry Pi 4](https://twitter.com/shichinomiya_s/status/1409891589707636741)
-- [Intuit sabotages the Child Tax Credit](https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc)
-- [Robinhood to pay $70M for 'systemic supervisory failures'](https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
