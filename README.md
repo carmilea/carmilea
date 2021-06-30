@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenStreetMap looks to relocate to EU due to Brexit limitations](https://www.theguardian.com/politics/2021/jun/30/openstreetmap-looks-to-relocate-to-eu-due-to-brexit-limitations)
 - [Pixar RenderMan 24 with XPU Hybrid Rendering](https://renderman.pixar.com/news/pixar-animation-studios-releases-renderman-24)
-- [Canada Records All-Time High Temperature of 49.5 Degrees: Weather Service](https://www.ndtv.com/world-news/canada-records-all-time-high-temperature-of-49-5-degrees-celsius-weather-service-2475617)
 - [A foreign seller has hijacked Cliff Stoll's Amazon Klein bottle listing](https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING)
-- [Leopold Aschenbrenner: existential risk and German culture](https://www.thendobetter.com/arts/2021/6/22/leopold-aschenbrenner-on-existential-risk-german-culture-valedictorian-efficiency-podcast)
 - [Hardware Memory Models](https://research.swtch.com/hwmm)
+- [Io_uring is not (only) a generic asynchronous syscall facility](https://fancl20.github.io/contents/00-posts/2021-06-30-io_uring-is-not-only-a-generic-asynchronous-syscall-facility.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
