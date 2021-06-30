@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mux (YC W16) is hiring full-stack developers to focus on Elixir and TypeScript](https://mux.com/jobs?hnj=full-stack)
+- [Apple Makes Mac OS X Lion and Mountain Lion Free to Download](https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/)
+- [IBM's 18-month company-wide email migration has been a disaster, sources say](https://www.theregister.com/2021/06/30/ibm_email_outage/)
 - [Move fast, but understand the problem first](https://jacobobryant.com/blog/understand/)
 - [Globally Distributed Postgres](https://fly.io/blog/globally-distributed-postgres/)
-- [QuestDB (YC S20) Is Hiring a Front End Engineer (React)](https://questdb.io/careers/front-end-engineer/)
-- [Meltano raises $4.2M seed round](https://meltano.com/blog/2021/06/30/meltano-spins-out-of-gitlab-raises-seed-round/)
-- [Windows 11 on Raspberry Pi 4](https://twitter.com/shichinomiya_s/status/1409891589707636741)
 <!-- BLOG-POST-LIST:END -->
 
 ---
