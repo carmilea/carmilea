@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Bailey Hayes demonstrates #WebAssembly with #SingleStore](https://www.youtube.com/watch?v=AUz_3xNz2P0)
 - [Get started with #SingleStore #StoredProcedures in #Python](https://www.youtube.com/watch?v=2wD4yjNwlbk)
 - [Get started with #SingleStore in #Python](https://www.youtube.com/watch?v=-fyNanOP3Lw)
 - [#DataWarehouse #Augmentation](https://www.youtube.com/watch?v=LGKzt6tvNU0)
 - [#DeepDive into #SingleStore's #DistributedArchitecture](https://www.youtube.com/watch?v=FgNWb9Wkxf8)
-- [Get started with #SingleStore #StoredProcedures in #Java and #JDBC](https://www.youtube.com/watch?v=6coWxZFMJCQ)
 <!-- YOUTUBE:END -->
 
 
