@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Report finds phone network encryption was deliberately weakened](https://www.vice.com/en/article/4avnan/bombshell-report-finds-phone-network-encryption-was-deliberately-weakened)
+- [Book Review: A Philosophy of Software Design](https://johz.bearblog.dev/book-review-philosophy-software-design/)
+- [Miami building collapse: Letter in April warned of worsening damage](https://www.bbc.co.uk/news/world-us-canada-57659311)
 - [Launch HN: Turing College (YC W21) – Online data science school](https://www.turingcollege.com/)
 - [Apple's DocC is excellent, but unusable for open source projects](https://www.jessesquires.com/blog/2021/06/29/apple-docc-great-but-useless-for-oss/)
 - [OpenStreetMap looks to relocate to EU due to Brexit limitations](https://www.theguardian.com/politics/2021/jun/30/openstreetmap-looks-to-relocate-to-eu-due-to-brexit-limitations)
-- [A foreign seller has hijacked Cliff Stoll's Amazon Klein bottle listing](https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING)
 <!-- BLOG-POST-LIST:END -->
 
 ---
