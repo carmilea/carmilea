@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DCF77](https://en.wikipedia.org/wiki/DCF77)
+- [Arctic Circle Siberia land temperature reaches 48C during ‘persistent heatwave’](https://www.independent.co.uk/climate-change/news/arctic-circle-summer-global-warming-b1875285.html)
+- [Yale Drama Goes Tuition-Free with $150M Gift from David Geffen](https://www.nytimes.com/2021/06/30/theater/yale-drama-david-geffen-tuition.html)
+- [Software Engineering principles to make teams better](https://principles.dev/)
 - [Goldman seems to be running networking software from 2008](http://gs.com./)
-- [The Internet Is Rotting](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
-- [Lessons from Building a Static Site Generator](https://nicholasreese.com/lessons-from-building-a-static-site-generator/)
-- [‘Great Resignation’ gains steam as return-to-work plans take effect](https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html)
-- [NASA Space Tourism Posters](https://solarsystem.nasa.gov/resources/682/space-tourism-posters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
