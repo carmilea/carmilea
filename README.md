@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Goldman seems to be running networking software from 2008](http://gs.com./)
+- [The Internet Is Rotting](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
+- [Lessons from Building a Static Site Generator](https://nicholasreese.com/lessons-from-building-a-static-site-generator/)
 - [‘Great Resignation’ gains steam as return-to-work plans take effect](https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html)
 - [NASA Space Tourism Posters](https://solarsystem.nasa.gov/resources/682/space-tourism-posters/)
-- [AMD EPYC Milan Review Part 2: Testing 8 to 64 Cores in a Production Platform](https://www.anandtech.com/show/16778/amd-epyc-milan-review-part-2)
-- [GitHub co-pilot as open source code laundering?](https://twitter.com/eevee/status/1410037309848752128)
-- [CellChorus (YC S21) Is Hiring](https://news.ycombinator.com/item?id=27687446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
