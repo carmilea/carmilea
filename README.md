@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mux (YC W16) is hiring full-stack developers to focus on Elixir and TypeScript](https://mux.com/jobs?hnj=full-stack)
-- [Apple Makes Mac OS X Lion and Mountain Lion Free to Download](https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/)
-- [IBM's 18-month company-wide email migration has been a disaster, sources say](https://www.theregister.com/2021/06/30/ibm_email_outage/)
-- [Move fast, but understand the problem first](https://jacobobryant.com/blog/understand/)
-- [Globally Distributed Postgres](https://fly.io/blog/globally-distributed-postgres/)
+- [Microsoft exec: Targeting of Americans’ records ‘routine’](https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/)
+- [Tesorio (YC S15) Is Hiring – Join Our 100% Distributed Fintech Team](https://www.tesorio.com/careers#job-openings)
+- [Asking Developers to Do QA Is Broken. Here’s Why Anyone Should Own QA](https://www.rainforestqa.com/blog/accessible-quality)
+- [Heat dome causing record breaking heat wave](https://www.severe-weather.eu/global-weather/heat-dome-record-breaking-heatwave-pacific-northwest-canada-united-states-mk/)
+- [Breakthrough in 3D scanning means results are 4500% more accurate](https://www.lboro.ac.uk/media-centre/press-releases/2021/june/3d-scanning-results-are-4500-percent-more-precise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
