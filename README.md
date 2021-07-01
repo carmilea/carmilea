@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Facebook's “Prophet” the Time-Series Messiah, or Just a Naughty Boy?](https://www.microprediction.com/blog/prophet)
+- [Google sunsets the APK format for new Android apps](https://www.androidauthority.com/android-apks-sunset-1636829/)
 - [The Most Precious Resource Is Agency](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency)
 - [Are Beliefs Like Clothes?](http://mason.gmu.edu/~rhanson/belieflikeclothes.html)
 - [SparkFun Hooks a Patent Troll](https://www.sparkfun.com/news/3917)
-- [Success in Reversing Dementia in Mice Sets the Stage for Human Clinical Trials](https://www.tohoku.ac.jp/en/press/eversing_dementia_stage_set_for_human_clinical_trials.html)
-- [Microsoft exec: Targeting of Americans’ records ‘routine’](https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
