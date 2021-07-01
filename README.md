@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Don't root for WFH, it might destroy well-paying jobs](https://news.ycombinator.com/item?id=27696235)
+- [Download Speeds: What Do 2G, 3G, 4G and 5G Mean](https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning)
 - [Alcohol, health, and the ruthless logic of the Asian flush](https://dynomight.net/alcohol/)
 - [Village of Lytton, B.C., evacuated as mayor says 'the whole town is on fire'](https://www.cbc.ca/news/canada/british-columbia/bc-wildfires-june-30-2021-1.6085919)
 - [Hacking a PC sound card to read temperature and liquid level sensors](https://nagimov.me/post/measure-with-music-how-to-read-analog-sensors-using-a-pc-sound-card/)
