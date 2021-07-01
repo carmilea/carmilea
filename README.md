@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Full text of Xi Jinping's speech on the CCP's 100th anniversary](https://asia.nikkei.com/Politics/Full-text-of-Xi-Jinping-s-speech-on-the-CCP-s-100th-anniversary)
+- [90% of Lytton, BC Destroyed by Fire](https://www.cbc.ca/news/canada/british-columbia/bc-wildfires-lytton-july-1-2021-1.6087311)
+- [Preparing the ground for source code manipulation](https://dorgan.netlify.app/posts/2021/07/preparing-the-ground-for-source-code-manipulation/)
+- [U.K. Will Stop Using Coal Power in Just Three Years](https://www.scientificamerican.com/article/u-k-will-stop-using-coal-power-in-just-three-years/)
 - [Intuit to Share Payroll Data from 1.4M Small Businesses with Equifax](https://krebsonsecurity.com/2021/07/intuit-to-share-payroll-data-from-1-4m-small-businesses-with-equifax/)
-- [Global minimum corporate tax: 130 nations to support U.S. proposal](https://www.cnbc.com/2021/07/01/nations-agree-to-support-us-proposal-for-global-minimum-tax-on-corporations.html)
-- [Police officer plays Taylor Swift song to keep a video off YouTube](https://www.theverge.com/2021/7/1/22558292/police-officer-video-taylor-swift-youtube-copyright)
-- [Fortran adds conditional expressions](https://j3-fortran.org/doc/year/21/21-157r2.txt)
-- [Monitoring Elixir Apps on Fly.io with Prometheus and PromEx](https://fly.io/blog/monitoring-your-fly-io-apps-with-prometheus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
