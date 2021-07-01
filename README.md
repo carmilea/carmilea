@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Opening Keynote with SingleStore CEO, Raj Verma](https://www.youtube.com/watch?v=765Fvr1f-9E)
 - [Bailey Hayes demonstrates #WebAssembly with #SingleStore](https://www.youtube.com/watch?v=AUz_3xNz2P0)
 - [Get started with #SingleStore #StoredProcedures in #Python](https://www.youtube.com/watch?v=2wD4yjNwlbk)
 - [Get started with #SingleStore in #Python](https://www.youtube.com/watch?v=-fyNanOP3Lw)
 - [#DataWarehouse #Augmentation](https://www.youtube.com/watch?v=LGKzt6tvNU0)
-- [#DeepDive into #SingleStore's #DistributedArchitecture](https://www.youtube.com/watch?v=FgNWb9Wkxf8)
 <!-- YOUTUBE:END -->
 
 
