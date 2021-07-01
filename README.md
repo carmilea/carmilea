@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Full text of Xi Jinping's speech on the CCP's 100th anniversary](https://asia.nikkei.com/Politics/Full-text-of-Xi-Jinping-s-speech-on-the-CCP-s-100th-anniversary)
-- [90% of Lytton, BC Destroyed by Fire](https://www.cbc.ca/news/canada/british-columbia/bc-wildfires-lytton-july-1-2021-1.6087311)
+- [Zendar (YC S17) is hiring a R&D electronics technician (part time)](https://jobs.ashbyhq.com/zendar/56ea9fff-f961-404e-b094-5584a36c0f8c)
+- [Highways speed limit in Germany would reduce CO2 emissions by 2M tonnes](https://twitter.com/giulio_mattioli/status/1410171897065660417)
+- [There's a Simple Way to Feel Happier, According to the New Science of Emotion](https://www.npr.org/sections/health-shots/2021/06/29/1010319240/stuck-in-a-rut-sometimes-joy-takes-a-little-practice)
 - [Preparing the ground for source code manipulation](https://dorgan.netlify.app/posts/2021/07/preparing-the-ground-for-source-code-manipulation/)
-- [U.K. Will Stop Using Coal Power in Just Three Years](https://www.scientificamerican.com/article/u-k-will-stop-using-coal-power-in-just-three-years/)
-- [Intuit to Share Payroll Data from 1.4M Small Businesses with Equifax](https://krebsonsecurity.com/2021/07/intuit-to-share-payroll-data-from-1-4m-small-businesses-with-equifax/)
+- [Intuit to share payroll data from 1.4M small businesses with Equifax](https://krebsonsecurity.com/2021/07/intuit-to-share-payroll-data-from-1-4m-small-businesses-with-equifax/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
