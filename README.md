@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [At least 486 dead in British Columbia amid historic heat wave](https://www.axios.com/british-columbia-230-deaths-heat-wave-aec1c900-4926-44c0-b316-de60a1703b80.html)
+- [Village of Lytton, B.C., evacuated as mayor says 'the whole town is on fire'](https://www.cbc.ca/news/canada/british-columbia/bc-wildfires-june-30-2021-1.6085919)
 - [Hacking a PC sound card to read temperature and liquid level sensors](https://nagimov.me/post/measure-with-music-how-to-read-analog-sensors-using-a-pc-sound-card/)
-- [Boring news cycle deals blow to partisan media](https://www.axios.com/partisan-media-biden-trump-26f54a8b-d4e2-4319-a185-bd5f55ac661f.html)
-- [Is Facebook's “Prophet” the Time-Series Messiah, or Just a Naughty Boy?](https://www.microprediction.com/blog/prophet)
+- [Is Facebook's “Prophet” the time-series Messiah or just a naughty boy?](https://www.microprediction.com/blog/prophet)
 - [Google sunsets the APK format for new Android apps](https://www.androidauthority.com/android-apks-sunset-1636829/)
+- [Otter Browser](https://otter-browser.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
