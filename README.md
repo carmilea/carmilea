@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rally (YC S20) Is Hiring a Full Stack Engineer/Future CTO](https://www.ycombinator.com/companies/rally/jobs/iPC0tbPuA-senior-engineer-future-cto-for-realtime-video-streaming-platform)
+- [Duolingo S-1](https://sec.report/Document/0001628280-21-013065/)
+- [Don't encode POST bodies like GitHub Copilot, use URLSearchParams](https://jakearchibald.com/2021/encoding-data-for-post-requests/)
 - [Show HN: Less Addictive YouTube – a cross-browser plugin](https://github.com/JesseDrain/Less-Addictive-YouTube)
 - [PathQuery, Google's Graph Query Language](https://arxiv.org/abs/2106.09799)
-- [The short tale of an online scam](https://duarteocarmo.com/blog/tale-online-scammer-python)
-- [Taktile (YC S20) Is Hiring a Full Stack Developer](https://www.ycombinator.com/companies/taktile/jobs/TVWnrv9-fullstack-developer-f-m-d)
-- [Lucky Lotto, chaos engineering but for teams](https://danlebrero.com/2021/06/30/cto-dairy-lucky-lotto-chaos-engineering-for-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
