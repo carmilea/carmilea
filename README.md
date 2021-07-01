@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Carrier injecting ads into SMS '2FA' texts](https://9to5google.com/2021/06/29/google-verification-code-sms-ad/)
 - [Rally (YC S20) Is Hiring a Full Stack Engineer/Future CTO](https://www.ycombinator.com/companies/rally/jobs/iPC0tbPuA-senior-engineer-future-cto-for-realtime-video-streaming-platform)
-- [Duolingo S-1](https://sec.report/Document/0001628280-21-013065/)
+- [Hash maps that don't hate you](https://blog.toit.io/hash-maps-that-dont-hate-you-1a96150b492a)
+- [The YouTube revolution in knowledge transfer (2019)](https://samoburja.com/the-youtube-revolution-in-knowledge-transfer/)
 - [Don't encode POST bodies like GitHub Copilot, use URLSearchParams](https://jakearchibald.com/2021/encoding-data-for-post-requests/)
-- [Show HN: Less Addictive YouTube – a cross-browser plugin](https://github.com/JesseDrain/Less-Addictive-YouTube)
-- [PathQuery, Google's Graph Query Language](https://arxiv.org/abs/2106.09799)
 <!-- BLOG-POST-LIST:END -->
 
 ---
