@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pinterest bans all weight loss ads](https://www.reuters.com/technology/pinterest-bans-all-weight-loss-ads-2021-07-01/)
+- [Intuit to Share Payroll Data from 1.4M Small Businesses with Equifax](https://krebsonsecurity.com/2021/07/intuit-to-share-payroll-data-from-1-4m-small-businesses-with-equifax/)
+- [Global minimum corporate tax: 130 nations to support U.S. proposal](https://www.cnbc.com/2021/07/01/nations-agree-to-support-us-proposal-for-global-minimum-tax-on-corporations.html)
+- [Police officer plays Taylor Swift song to keep a video off YouTube](https://www.theverge.com/2021/7/1/22558292/police-officer-video-taylor-swift-youtube-copyright)
 - [Fortran adds conditional expressions](https://j3-fortran.org/doc/year/21/21-157r2.txt)
 - [Monitoring Elixir Apps on Fly.io with Prometheus and PromEx](https://fly.io/blog/monitoring-your-fly-io-apps-with-prometheus/)
-- [Robinhood S-1 IPO](https://www.sec.gov/Archives/edgar/data/1783879/000162828021013318/robinhoods-1.htm)
-- [The Muse (YC W12) Is Hiring a Senior Site Reliability Engineer](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
