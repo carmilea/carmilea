@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Taktile (YC S20) Is Hiring a Full Stack Developer](https://www.ycombinator.com/companies/taktile/jobs/TVWnrv9-fullstack-developer-f-m-d)
+- [Lucky Lotto, chaos engineering but for teams](https://danlebrero.com/2021/06/30/cto-dairy-lucky-lotto-chaos-engineering-for-teams/)
+- [Official Playstation 1 Development Kit (Hardware) (2020)](https://www.retroreversing.com/official-playStation-devkit)
 - [Download Speeds: What Do 2G, 3G, 4G and 5G Mean](https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning)
 - [Alcohol, health, and the ruthless logic of the Asian flush](https://dynomight.net/alcohol/)
-- [Village of Lytton, B.C., evacuated as mayor says 'the whole town is on fire'](https://www.cbc.ca/news/canada/british-columbia/bc-wildfires-june-30-2021-1.6085919)
-- [Hacking a PC sound card to read temperature and liquid level sensors](https://nagimov.me/post/measure-with-music-how-to-read-analog-sensors-using-a-pc-sound-card/)
-- [Is Facebook's “Prophet” the time-series Messiah or just a naughty boy?](https://www.microprediction.com/blog/prophet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
