@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pinterest bans all weight loss ads](https://www.reuters.com/technology/pinterest-bans-all-weight-loss-ads-2021-07-01/)
+- [Fortran adds conditional expressions](https://j3-fortran.org/doc/year/21/21-157r2.txt)
+- [Monitoring Elixir Apps on Fly.io with Prometheus and PromEx](https://fly.io/blog/monitoring-your-fly-io-apps-with-prometheus/)
+- [Robinhood S-1 IPO](https://www.sec.gov/Archives/edgar/data/1783879/000162828021013318/robinhoods-1.htm)
 - [The Muse (YC W12) Is Hiring a Senior Site Reliability Engineer](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer)
-- [IT Without Software](http://ndt.instedd.org/2010/05/it-without-software.html?m=1)
-- [Servo Engine Contributions this year – Don't let it die](https://github.com/servo/servo/graphs/contributors)
-- [Stripe Atlas: the first five years and 20k startups](https://stripe.com/blog/atlas-first-five-years)
-- [Launch HN: Flowly (YC S21) – Manage pain using VR and biofeedback](https://news.ycombinator.com/item?id=27700688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
