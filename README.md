@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Most Precious Resource Is Agency](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency)
+- [Are Beliefs Like Clothes?](http://mason.gmu.edu/~rhanson/belieflikeclothes.html)
 - [SparkFun Hooks a Patent Troll](https://www.sparkfun.com/news/3917)
+- [Success in Reversing Dementia in Mice Sets the Stage for Human Clinical Trials](https://www.tohoku.ac.jp/en/press/eversing_dementia_stage_set_for_human_clinical_trials.html)
 - [Microsoft exec: Targeting of Americans’ records ‘routine’](https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/)
-- [Tesorio (YC S15) Is Hiring – Join Our 100% Distributed Fintech Team](https://www.tesorio.com/careers#job-openings)
-- [Heat dome causing record breaking heat wave](https://www.severe-weather.eu/global-weather/heat-dome-record-breaking-heatwave-pacific-northwest-canada-united-states-mk/)
-- [Apple Makes Mac OS X Lion and Mountain Lion Free to Download](https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
