@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Check If Email Exist](https://github.com/reacherhq/check-if-email-exists)
+- [Hacker News folk wisdom on visual programming](https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/)
+- [Installing Linux into a 286 laptop from the year 1989](https://befinitiv.wordpress.com/2021/06/30/installing-linux-into-a-286-laptop-from-the-year-1989/)
+- [Flipper Zero: How it’s made and tested](https://blog.flipperzero.one/electronics-testing/)
 - [Zendar (YC S17) is hiring a R&D electronics technician (part time)](https://jobs.ashbyhq.com/zendar/56ea9fff-f961-404e-b094-5584a36c0f8c)
-- [FCC Reaffirms $3M Fine for Marketing Unauthorized Drone Transmitters](http://www.arrl.org/news/view/fcc-reaffirms-nearly-3-million-fine-for-marketing-unauthorized-drone-transmitters)
-- [Why does my installer get flagged by Windows?](https://blog.pakkly.com/why-does-my-installer-get-flagged-by-windows/)
-- [A simple way to feel happier, according to the new science of emotion](https://www.npr.org/sections/health-shots/2021/06/29/1010319240/stuck-in-a-rut-sometimes-joy-takes-a-little-practice)
-- [Preparing the ground for source code manipulation](https://dorgan.netlify.app/posts/2021/07/preparing-the-ground-for-source-code-manipulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
