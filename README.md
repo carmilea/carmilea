@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clojure REPL vs. CLI: IDE Wars](https://vlaaad.github.io/clj-vs-cli)
+- [Secret Recordings Reveal How Exxon Lobbyists Manipulate Politicians and Public](https://gizmodo.com/exxon-lobbyists-reveal-in-secret-recordings-how-they-ma-1847205392)
 - [Carrier injecting ads into SMS '2FA' texts](https://9to5google.com/2021/06/29/google-verification-code-sms-ad/)
+- [Show HN: VisaWhen – Data on US visa issuance backlogs](https://news.ycombinator.com/item?id=27698322)
 - [Rally (YC S20) Is Hiring a Full Stack Engineer/Future CTO](https://www.ycombinator.com/companies/rally/jobs/iPC0tbPuA-senior-engineer-future-cto-for-realtime-video-streaming-platform)
-- [Hash maps that don't hate you](https://blog.toit.io/hash-maps-that-dont-hate-you-1a96150b492a)
-- [The YouTube revolution in knowledge transfer (2019)](https://samoburja.com/the-youtube-revolution-in-knowledge-transfer/)
-- [Don't encode POST bodies like GitHub Copilot, use URLSearchParams](https://jakearchibald.com/2021/encoding-data-for-post-requests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
