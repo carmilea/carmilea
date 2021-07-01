@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PathQuery, Google's Graph Query Language](https://arxiv.org/abs/2106.09799)
 - [Taktile (YC S20) Is Hiring a Full Stack Developer](https://www.ycombinator.com/companies/taktile/jobs/TVWnrv9-fullstack-developer-f-m-d)
 - [Lucky Lotto, chaos engineering but for teams](https://danlebrero.com/2021/06/30/cto-dairy-lucky-lotto-chaos-engineering-for-teams/)
-- [Official Playstation 1 Development Kit (Hardware) (2020)](https://www.retroreversing.com/official-playStation-devkit)
-- [Download Speeds: What Do 2G, 3G, 4G and 5G Mean](https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning)
-- [Alcohol, health, and the ruthless logic of the Asian flush](https://dynomight.net/alcohol/)
+- [We Infiltrated a Counterfeit Check Ring Now What?](https://krebsonsecurity.com/2021/06/we-infiltrated-a-counterfeit-check-ring-now-what/)
+- [Physicists observationally confirm Hawking’s black hole theorem for first time](https://news.mit.edu/2021/hawkings-black-hole-theorem-confirm-0701)
 <!-- BLOG-POST-LIST:END -->
 
 ---
