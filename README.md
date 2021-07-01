@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Less Addictive YouTube – a cross-browser plugin](https://github.com/JesseDrain/Less-Addictive-YouTube)
 - [PathQuery, Google's Graph Query Language](https://arxiv.org/abs/2106.09799)
 - [The short tale of an online scam](https://duarteocarmo.com/blog/tale-online-scammer-python)
 - [Taktile (YC S20) Is Hiring a Full Stack Developer](https://www.ycombinator.com/companies/taktile/jobs/TVWnrv9-fullstack-developer-f-m-d)
 - [Lucky Lotto, chaos engineering but for teams](https://danlebrero.com/2021/06/30/cto-dairy-lucky-lotto-chaos-engineering-for-teams/)
-- [We Infiltrated a Counterfeit Check Ring Now What?](https://krebsonsecurity.com/2021/06/we-infiltrated-a-counterfeit-check-ring-now-what/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
