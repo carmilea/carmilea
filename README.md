@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A distributed spam attack across the public Matrix network](https://matrix.org/blog/2021/06/30/security-update-synapse-1-37-1-released/)
-- [Ask HN: Android developers, are you OK giving your signing keys to Google?](https://news.ycombinator.com/item?id=27699476)
-- [Coldest inhabited place on Earth is baking in record heat](https://www.accuweather.com/en/weather-news/oymyakon-russia-coldest-inhabited-place-on-earth-record-heat/971813/)
-- [Whistleblower Thought He Would Get a Big Payout. He Got Nothing and Went Broke](https://www.wsj.com/articles/whistleblower-thought-he-would-get-a-big-payout-instead-he-got-nothing-and-went-broke-11624791602)
-- [Edward Bernays](https://en.wikipedia.org/wiki/Edward_Bernays)
+- [Launch HN: Flowly (YC S21) – Manage pain using VR and biofeedback](https://news.ycombinator.com/item?id=27700688)
+- [Twitter 'troll' to pay six-figure sum in damages](https://www.bbc.co.uk/news/uk-northern-ireland-57684497)
+- [Change.org Workers Form a Union, Giving Labor Activists Another Win in Tech](https://text.npr.org/1011387838)
+- [Vaccine made of live malaria parasites shows early success](https://www.nature.com/articles/d41586-021-01806-1)
+- [A sci-fi writer got meta about gender. In response, the internet ruined her life](https://www.vox.com/the-highlight/22543858/isabel-fall-attack-helicopter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
