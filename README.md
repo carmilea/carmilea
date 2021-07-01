@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Don't root for WFH, it might destroy well-paying jobs](https://news.ycombinator.com/item?id=27696235)
+- [Alcohol, health, and the ruthless logic of the Asian flush](https://dynomight.net/alcohol/)
 - [Village of Lytton, B.C., evacuated as mayor says 'the whole town is on fire'](https://www.cbc.ca/news/canada/british-columbia/bc-wildfires-june-30-2021-1.6085919)
 - [Hacking a PC sound card to read temperature and liquid level sensors](https://nagimov.me/post/measure-with-music-how-to-read-analog-sensors-using-a-pc-sound-card/)
 - [Is Facebook's “Prophet” the time-series Messiah or just a naughty boy?](https://www.microprediction.com/blog/prophet)
-- [Google sunsets the APK format for new Android apps](https://www.androidauthority.com/android-apks-sunset-1636829/)
-- [Otter Browser](https://otter-browser.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
