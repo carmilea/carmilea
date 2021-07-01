@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Clojure REPL vs. CLI: IDE Wars](https://vlaaad.github.io/clj-vs-cli)
-- [Secret Recordings Reveal How Exxon Lobbyists Manipulate Politicians and Public](https://gizmodo.com/exxon-lobbyists-reveal-in-secret-recordings-how-they-ma-1847205392)
-- [Carrier injecting ads into SMS '2FA' texts](https://9to5google.com/2021/06/29/google-verification-code-sms-ad/)
-- [Show HN: VisaWhen – Data on US visa issuance backlogs](https://news.ycombinator.com/item?id=27698322)
-- [Rally (YC S20) Is Hiring a Full Stack Engineer/Future CTO](https://www.ycombinator.com/companies/rally/jobs/iPC0tbPuA-senior-engineer-future-cto-for-realtime-video-streaming-platform)
+- [A distributed spam attack across the public Matrix network](https://matrix.org/blog/2021/06/30/security-update-synapse-1-37-1-released/)
+- [Ask HN: Android developers, are you OK giving your signing keys to Google?](https://news.ycombinator.com/item?id=27699476)
+- [Coldest inhabited place on Earth is baking in record heat](https://www.accuweather.com/en/weather-news/oymyakon-russia-coldest-inhabited-place-on-earth-record-heat/971813/)
+- [Whistleblower Thought He Would Get a Big Payout. He Got Nothing and Went Broke](https://www.wsj.com/articles/whistleblower-thought-he-would-get-a-big-payout-instead-he-got-nothing-and-went-broke-11624791602)
+- [Edward Bernays](https://en.wikipedia.org/wiki/Edward_Bernays)
 <!-- BLOG-POST-LIST:END -->
 
 ---
