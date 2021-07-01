@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Zendar (YC S17) is hiring a R&D electronics technician (part time)](https://jobs.ashbyhq.com/zendar/56ea9fff-f961-404e-b094-5584a36c0f8c)
-- [Highways speed limit in Germany would reduce CO2 emissions by 2M tonnes](https://twitter.com/giulio_mattioli/status/1410171897065660417)
-- [There's a Simple Way to Feel Happier, According to the New Science of Emotion](https://www.npr.org/sections/health-shots/2021/06/29/1010319240/stuck-in-a-rut-sometimes-joy-takes-a-little-practice)
+- [FCC Reaffirms $3M Fine for Marketing Unauthorized Drone Transmitters](http://www.arrl.org/news/view/fcc-reaffirms-nearly-3-million-fine-for-marketing-unauthorized-drone-transmitters)
+- [Why does my installer get flagged by Windows?](https://blog.pakkly.com/why-does-my-installer-get-flagged-by-windows/)
+- [A simple way to feel happier, according to the new science of emotion](https://www.npr.org/sections/health-shots/2021/06/29/1010319240/stuck-in-a-rut-sometimes-joy-takes-a-little-practice)
 - [Preparing the ground for source code manipulation](https://dorgan.netlify.app/posts/2021/07/preparing-the-ground-for-source-code-manipulation/)
-- [Intuit to share payroll data from 1.4M small businesses with Equifax](https://krebsonsecurity.com/2021/07/intuit-to-share-payroll-data-from-1-4m-small-businesses-with-equifax/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
