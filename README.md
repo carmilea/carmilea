@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse (YC W12) Is Hiring a Senior Site Reliability Engineer](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer)
+- [IT Without Software](http://ndt.instedd.org/2010/05/it-without-software.html?m=1)
+- [Servo Engine Contributions this year – Don't let it die](https://github.com/servo/servo/graphs/contributors)
+- [Stripe Atlas: the first five years and 20k startups](https://stripe.com/blog/atlas-first-five-years)
 - [Launch HN: Flowly (YC S21) – Manage pain using VR and biofeedback](https://news.ycombinator.com/item?id=27700688)
-- [Twitter 'troll' to pay six-figure sum in damages](https://www.bbc.co.uk/news/uk-northern-ireland-57684497)
-- [Change.org Workers Form a Union, Giving Labor Activists Another Win in Tech](https://text.npr.org/1011387838)
-- [Vaccine made of live malaria parasites shows early success](https://www.nature.com/articles/d41586-021-01806-1)
-- [A sci-fi writer got meta about gender. In response, the internet ruined her life](https://www.vox.com/the-highlight/22543858/isabel-fall-attack-helicopter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
