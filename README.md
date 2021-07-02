@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The scientists hired by big oil who predicted the climate crisis long ago](https://www.theguardian.com/environment/2021/jul/02/scientists-climate-crisis-big-oil-climate-crimes)
+- [Radioactive hybrid pigs have made themselves home in Fukushima's exclusion zone](https://www.theregister.com/2021/07/01/radioactive_hybrid_terror_pigs_fukushima)
+- [Student Loans. Medical Debt. Criminal Justice Fees. Cancel It All.](https://www.nytimes.com/2021/07/02/opinion/student-loan-medical-debt-forgiveness.html)
+- [Amazon Delivery Companies Revolt Against Amazon, Shut Down](https://www.vice.com/en/article/v7ez5x/amazon-delivery-companies-revolt-against-amazon-shut-down)
 - [Show HN: Napkin – Build Backend Functions in the Browser](https://backendinthebrowser.com)
-- [“What to the Slave Is the Fourth of July?”](https://teachingamericanhistory.org/library/document/what-to-the-slave-is-the-fourth-of-july/)
-- [Ambition (YC W14) Is Hiring Django Engineers (Tennessee HQ, Remote OK)](https://ambition.com/career/opportunity/full-stack-engineer/)
-- [Copilot regurgitating Quake code, including sweary comments](https://twitter.com/mitsuhiko/status/1410886329924194309)
-- [Is it just me, or do you believe your inbox is the worst place for newsletters?](https://news.ycombinator.com/item?id=27710270)
 <!-- BLOG-POST-LIST:END -->
 
 ---
