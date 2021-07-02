@@ -54,8 +54,8 @@
 - [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
 - [REvil ransomware executes supply chain attack via malicious Kaseya update](https://therecord.media/revil-ransomware-executes-supply-chain-attack-via-malicious-kaseya-update/)
 - [‘Dragon Man’ may be an elusive Denisovan](https://science.sciencemag.org/content/373/6550/11)
-- [Libertarian Party of Colorado First to Officially Support Ending IP](https://lpedia.org/wiki/Document:Colorado_State_Party_Platform_2021#Intellectual_Monopolies)
 - [The risky bat-virus engineering that links America to Wuhan](https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering-links-america-to-wuhan/)
+- [RateOurCops – Like Yelp, but for Cops](https://rateourcops.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
