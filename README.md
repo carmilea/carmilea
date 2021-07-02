@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Migadu – No-nonsense multi-domain email at a flat price](https://www.migadu.com/)
+- [German Federal Election Forecast 2021 – INWT](https://www.wer-gewinnt-die-wahl.de/en)
 - [When Orcs Were Real](https://treeofwoe.substack.com/p/when-orcs-were-real)
 - [Simple, solar-powered water desalination with efficiency of 385%](https://news.mit.edu/2020/passive-solar-powered-water-desalination-0207)
 - [My Country Isn’t a Nation](https://acoup.blog/2021/07/02/collections-my-country-isnt-a-nation/)
-- [The Crisis Era in Ancient Egypt Led to a Change in the Sources of Copper](https://archaeologynewsnetwork.blogspot.com/2021/06/the-crisis-era-in-ancient-egypt-led-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
