@@ -55,7 +55,7 @@
 - [Migadu – No-nonsense multi-domain email at a flat price](https://www.migadu.com/)
 - [When Orcs Were Real](https://treeofwoe.substack.com/p/when-orcs-were-real)
 - [Simple, solar-powered water desalination with efficiency of 385%](https://news.mit.edu/2020/passive-solar-powered-water-desalination-0207)
-- [My Country Isn’t a Nation](https://acoup.blog/2021/07/02/collections-my-country-isnt-a-nation/)
+- [Renewing our respect for invisible essential workers of the seas](https://www.marinetraffic.com/blog/renewing-our-respect-for-invisible-essential-workers-of-the-seas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
