@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JuliaCon 2021, Everywhere on Earth](https://juliacon.org/2021/)
+- [Simple, solar-powered water desalination with efficiency of 385%](https://news.mit.edu/2020/passive-solar-powered-water-desalination-0207)
+- [Parents of children called Alexa challenge Amazon](https://www.bbc.com/news/technology-57680173)
 - [Purelymail – cheap, no-nonsense email](https://purelymail.com)
 - [First Look: macOS Monterey Public Beta](https://sixcolors.com/post/2021/07/first-look-macos-monterey-public-beta/)
 - [Leaky pipes can be better for moving water](https://www.nature.com/articles/d41586-021-01822-1)
-- [Pinterest bans weight loss ads in first for major social networks](https://www.theguardian.com/technology/2021/jul/02/bye-bye-bmi-pinterest-bans-weight-loss-ads-in-first-for-major-social-networks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
