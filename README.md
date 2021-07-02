@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Model S Plaid caught fire while driver was at the wheel, says fire chief](https://www.cnbc.com/2021/07/01/tesla-model-s-plaid-caught-fire-while-being-driven-fire-chief.html)
 - [A Group Is Its Own Worst Enemy (2003)](https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html)
 - [IBM email fiasco complicates sales deals, is worse than biz is letting on](https://www.theregister.com/2021/07/01/ibm_email_disruption_sales)
 - [Radian: A 21 century R console](https://github.com/randy3k/radian)
 - [Check If Email Exists](https://github.com/reacherhq/check-if-email-exists)
-- [Folk wisdom on visual programming](https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
