@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Normies just don't care about privacy”](https://gist.github.com/joepie91/6a5f50b27965c711436f5b566f97960d)
+- [An Oral History of the L0pht](https://duo.com/decipher/an-oral-history-of-the-l0pht)
+- [Kolyma highway in Yakutia, also known as the Road of Bones, is on fire](https://siberiantimes.com/other/others/news/kolyma-highway-in-yakutia-also-known-as-the-road-of-bones-is-on-fire-and-temporarily-shut/)
 - [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
-- [REvil ransomware executes supply chain attack via malicious Kaseya update](https://therecord.media/revil-ransomware-executes-supply-chain-attack-via-malicious-kaseya-update/)
-- [‘Dragon Man’ may be an elusive Denisovan](https://science.sciencemag.org/content/373/6550/11)
-- [The risky bat-virus engineering that links America to Wuhan](https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering-links-america-to-wuhan/)
-- [RateOurCops – Like Yelp, but for Cops](https://rateourcops.org/)
+- [ML-For-Beginners: 12 weeks, 24 lessons, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)
 <!-- BLOG-POST-LIST:END -->
 
 ---
