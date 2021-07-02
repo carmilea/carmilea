@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Napkin – Build Backend Functions in the Browser](https://backendinthebrowser.com)
+- [“What to the Slave Is the Fourth of July?”](https://teachingamericanhistory.org/library/document/what-to-the-slave-is-the-fourth-of-july/)
 - [Ambition (YC W14) Is Hiring Django Engineers (Tennessee HQ, Remote OK)](https://ambition.com/career/opportunity/full-stack-engineer/)
 - [Copilot regurgitating Quake code, including sweary comments](https://twitter.com/mitsuhiko/status/1410886329924194309)
 - [Is it just me, or do you believe your inbox is the worst place for newsletters?](https://news.ycombinator.com/item?id=27710270)
-- [Google Play Dumps APKs for the More Google-Controlled “Android App Bundle”](https://arstechnica.com/gadgets/2021/07/google-play-dumps-apks-for-the-more-google-controlled-android-app-bundle/)
-- [Google reports soaring attrition among Black women](https://www.reuters.com/business/sustainable-business/google-reports-soaring-attrition-among-black-women-2021-07-01/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
