@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists quit journal board, protesting ‘grossly irresponsible’ Covid study](https://www.sciencemag.org/news/2021/07/scientists-quit-journal-board-protesting-grossly-irresponsible-study-claiming-covid-19)
-- [Migadu – No-nonsense multi-domain email at a flat price](https://www.migadu.com/)
-- [When Orcs Were Real](https://treeofwoe.substack.com/p/when-orcs-were-real)
-- [Simple, solar-powered water desalination with efficiency of 385%](https://news.mit.edu/2020/passive-solar-powered-water-desalination-0207)
-- [Renewing our respect for invisible essential workers of the seas](https://www.marinetraffic.com/blog/renewing-our-respect-for-invisible-essential-workers-of-the-seas/)
+- [Ambition (YC W14) Is Hiring Django Engineers (Tennessee HQ, Remote OK)](https://ambition.com/career/opportunity/full-stack-engineer/)
+- [Copilot regurgitating Quake code, including sweary comments](https://twitter.com/mitsuhiko/status/1410886329924194309)
+- [Is it just me, or do you believe your inbox is the worst place for newsletters?](https://news.ycombinator.com/item?id=27710270)
+- [Google Play Dumps APKs for the More Google-Controlled “Android App Bundle”](https://arstechnica.com/gadgets/2021/07/google-play-dumps-apks-for-the-more-google-controlled-android-app-bundle/)
+- [Google reports soaring attrition among Black women](https://www.reuters.com/business/sustainable-business/google-reports-soaring-attrition-among-black-women-2021-07-01/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
