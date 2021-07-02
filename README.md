@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jim Whitehurst (Former Red Hat CEO) Stepping Down as IBM President](https://newsroom.ibm.com/IBM-Leadership-Changes)
+- [M1 Mac SSD Wear Issue Tested and Explored [video]](https://www.youtube.com/watch?v=e8aCgnb_RQs&ab_channel=BarTechTV)
+- [We Ran the Treasury Department. This Is How to Fix Tax Evasion](https://www.nytimes.com/2021/06/09/opinion/politics/irs-tax-evasion-geithner-lew-paulson-summers-rubin.html)
 - [The scientists hired by big oil who predicted the climate crisis long ago](https://www.theguardian.com/environment/2021/jul/02/scientists-climate-crisis-big-oil-climate-crimes)
-- [Radioactive hybrid pigs have made themselves home in Fukushima's exclusion zone](https://www.theregister.com/2021/07/01/radioactive_hybrid_terror_pigs_fukushima)
-- [Student Loans. Medical Debt. Criminal Justice Fees. Cancel It All.](https://www.nytimes.com/2021/07/02/opinion/student-loan-medical-debt-forgiveness.html)
-- [Amazon Delivery Companies Revolt Against Amazon, Shut Down](https://www.vice.com/en/article/v7ez5x/amazon-delivery-companies-revolt-against-amazon-shut-down)
-- [Show HN: Napkin – Build Backend Functions in the Browser](https://backendinthebrowser.com)
+- [Multi-Horizon Forecasting for Limit Order Books](https://arxiv.org/abs/2105.10430)
 <!-- BLOG-POST-LIST:END -->
 
 ---
