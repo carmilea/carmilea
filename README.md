@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jim Whitehurst (Former Red Hat CEO) Stepping Down as IBM President](https://newsroom.ibm.com/IBM-Leadership-Changes)
-- [M1 Mac SSD Wear Issue Tested and Explored [video]](https://www.youtube.com/watch?v=e8aCgnb_RQs&ab_channel=BarTechTV)
-- [We Ran the Treasury Department. This Is How to Fix Tax Evasion](https://www.nytimes.com/2021/06/09/opinion/politics/irs-tax-evasion-geithner-lew-paulson-summers-rubin.html)
-- [The scientists hired by big oil who predicted the climate crisis long ago](https://www.theguardian.com/environment/2021/jul/02/scientists-climate-crisis-big-oil-climate-crimes)
-- [Multi-Horizon Forecasting for Limit Order Books](https://arxiv.org/abs/2105.10430)
+- [Image unshredding using a TSP solver](https://github.com/robinhouston/image-unshredding)
+- [Protecting reserved roles with PostgreSQL Hooks](https://supabase.io/blog/2021/07/01/roles-postgres-hooks)
+- [How to Love Animals in a Human-Shaped World](https://literaryreview.co.uk/meattoo)
+- [Aspirin could cut risk of death in cancer patients by 20%](https://ecancer.org/en/journal/article/1258-aspirin-and-cancer-survival-a-systematic-review-and-meta-analyses-of-118-observational-studies-of-aspirin-and-18-cancers)
+- [Jim Whitehurst to step down as IBM President](https://newsroom.ibm.com/IBM-Leadership-Changes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
