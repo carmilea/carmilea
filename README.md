@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Migadu – No-nonsense multi-domain email at a flat price](https://www.migadu.com/)
+- [When Orcs Were Real](https://treeofwoe.substack.com/p/when-orcs-were-real)
 - [Simple, solar-powered water desalination with efficiency of 385%](https://news.mit.edu/2020/passive-solar-powered-water-desalination-0207)
-- [Parents of children called Alexa challenge Amazon](https://www.bbc.com/news/technology-57680173)
-- [Purelymail – cheap, no-nonsense email](https://purelymail.com)
-- [First Look: macOS Monterey Public Beta](https://sixcolors.com/post/2021/07/first-look-macos-monterey-public-beta/)
-- [Leaky pipes can be better for moving water](https://www.nature.com/articles/d41586-021-01822-1)
+- [My Country Isn’t a Nation](https://acoup.blog/2021/07/02/collections-my-country-isnt-a-nation/)
+- [The Crisis Era in Ancient Egypt Led to a Change in the Sources of Copper](https://archaeologynewsnetwork.blogspot.com/2021/06/the-crisis-era-in-ancient-egypt-led-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
