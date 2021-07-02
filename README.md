@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canadian inferno: northern heat exceeds worst-case climate models](https://www.theguardian.com/environment/2021/jul/02/canadian-inferno-northern-heat-exceeds-worst-case-climate-models)
+- [Gitlab 14](https://about.gitlab.com/blog/2021/06/22/gitlab-14-modern-devops/)
+- [HHS Announces Rule to Protect Consumers from Surprise Medical Bills](https://www.hhs.gov/about/news/2021/07/01/hhs-announces-rule-to-protect-consumers-from-surprise-medical-bills.html)
+- [Condo boards everywhere are unprepared for serious repairs](https://slate.com/business/2021/07/miami-building-collapse-condo-boards.html?via=rss)
 - [Path (YC S19) is hiring Engineers to automate paying for college](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
-- [PokeBeach Hacked, Next Steps for the Site](https://www.pokebeach.com/2021/07/pokebeach-hacked-next-steps-for-the-site)
-- [Yamaha PSR-60 Portasound](https://archive.org/details/synth_psr60)
-- [Image unshredding using a TSP solver](https://github.com/robinhouston/image-unshredding)
-- [Another 0-Day Looms for Many Western Digital Users](https://krebsonsecurity.com/2021/07/another-0-day-looms-for-many-western-digital-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
