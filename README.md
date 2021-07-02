@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Path (YC S19) is hiring Engineers to automate paying for college](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
+- [PokeBeach Hacked, Next Steps for the Site](https://www.pokebeach.com/2021/07/pokebeach-hacked-next-steps-for-the-site)
+- [Yamaha PSR-60 Portasound](https://archive.org/details/synth_psr60)
 - [Image unshredding using a TSP solver](https://github.com/robinhouston/image-unshredding)
-- [Protecting reserved roles with PostgreSQL Hooks](https://supabase.io/blog/2021/07/01/roles-postgres-hooks)
-- [How to Love Animals in a Human-Shaped World](https://literaryreview.co.uk/meattoo)
-- [Aspirin could cut risk of death in cancer patients by 20%](https://ecancer.org/en/journal/article/1258-aspirin-and-cancer-survival-a-systematic-review-and-meta-analyses-of-118-observational-studies-of-aspirin-and-18-cancers)
-- [Jim Whitehurst to step down as IBM President](https://newsroom.ibm.com/IBM-Leadership-Changes)
+- [Another 0-Day Looms for Many Western Digital Users](https://krebsonsecurity.com/2021/07/another-0-day-looms-for-many-western-digital-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
