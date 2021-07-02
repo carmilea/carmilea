@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
+- [REvil ransomware executes supply chain attack via malicious Kaseya update](https://therecord.media/revil-ransomware-executes-supply-chain-attack-via-malicious-kaseya-update/)
 - [‘Dragon Man’ may be an elusive Denisovan](https://science.sciencemag.org/content/373/6550/11)
-- [“Space age electronics”: Inside a GE thin-film paperweight from the 1960s](https://www.righto.com/2021/07/space-age-electronics-inside-ge-thin.html)
-- [Centuries of Sound: 1936](https://centuriesofsound.com/2021/06/14/1936/)
-- [Architecture of Lisp Machines (2008) [pdf]](http://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/lispm.pdf)
-- [Gitlab 14](https://about.gitlab.com/blog/2021/06/22/gitlab-14-modern-devops/)
+- [Libertarian Party of Colorado First to Officially Support Ending IP](https://lpedia.org/wiki/Document:Colorado_State_Party_Platform_2021#Intellectual_Monopolies)
+- [The risky bat-virus engineering that links America to Wuhan](https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering-links-america-to-wuhan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
