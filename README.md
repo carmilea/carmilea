@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Denied space travel for being female, Wally Funk, 82, is getting her chance](https://www.reuters.com/lifestyle/science/trailblazing-female-pilot-will-go-space-age-82-with-jeff-bezos-2021-07-01/)
+- [‘Dragon Man’ may be an elusive Denisovan](https://science.sciencemag.org/content/373/6550/11)
+- [“Space age electronics”: Inside a GE thin-film paperweight from the 1960s](https://www.righto.com/2021/07/space-age-electronics-inside-ge-thin.html)
+- [Centuries of Sound: 1936](https://centuriesofsound.com/2021/06/14/1936/)
 - [Architecture of Lisp Machines (2008) [pdf]](http://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/lispm.pdf)
-- [Cops play music during filmed encounters to game YouTube's copyright striking](https://mashable.com/article/police-playing-music-copyright-youtube-recording)
-- [Canadian inferno: northern heat exceeds worst-case climate models](https://www.theguardian.com/environment/2021/jul/02/canadian-inferno-northern-heat-exceeds-worst-case-climate-models)
 - [Gitlab 14](https://about.gitlab.com/blog/2021/06/22/gitlab-14-modern-devops/)
 <!-- BLOG-POST-LIST:END -->
 
