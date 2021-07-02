@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists quit journal board, protesting ‘grossly irresponsible’ Covid study](https://www.sciencemag.org/news/2021/07/scientists-quit-journal-board-protesting-grossly-irresponsible-study-claiming-covid-19)
 - [Migadu – No-nonsense multi-domain email at a flat price](https://www.migadu.com/)
-- [German Federal Election Forecast 2021 – INWT](https://www.wer-gewinnt-die-wahl.de/en)
 - [When Orcs Were Real](https://treeofwoe.substack.com/p/when-orcs-were-real)
 - [Simple, solar-powered water desalination with efficiency of 385%](https://news.mit.edu/2020/passive-solar-powered-water-desalination-0207)
 - [My Country Isn’t a Nation](https://acoup.blog/2021/07/02/collections-my-country-isnt-a-nation/)
