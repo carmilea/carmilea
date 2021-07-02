@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Denied space travel for being female, Wally Funk, 82, is getting her chance](https://www.reuters.com/lifestyle/science/trailblazing-female-pilot-will-go-space-age-82-with-jeff-bezos-2021-07-01/)
+- [Architecture of Lisp Machines (2008) [pdf]](http://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/lispm.pdf)
+- [Cops play music during filmed encounters to game YouTube's copyright striking](https://mashable.com/article/police-playing-music-copyright-youtube-recording)
 - [Canadian inferno: northern heat exceeds worst-case climate models](https://www.theguardian.com/environment/2021/jul/02/canadian-inferno-northern-heat-exceeds-worst-case-climate-models)
 - [Gitlab 14](https://about.gitlab.com/blog/2021/06/22/gitlab-14-modern-devops/)
-- [HHS Announces Rule to Protect Consumers from Surprise Medical Bills](https://www.hhs.gov/about/news/2021/07/01/hhs-announces-rule-to-protect-consumers-from-surprise-medical-bills.html)
-- [Condo boards everywhere are unprepared for serious repairs](https://slate.com/business/2021/07/miami-building-collapse-condo-boards.html?via=rss)
-- [Path (YC S19) is hiring Engineers to automate paying for college](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
