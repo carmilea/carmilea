@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Purelymail – cheap, no-nonsense email](https://purelymail.com)
+- [First Look: macOS Monterey Public Beta](https://sixcolors.com/post/2021/07/first-look-macos-monterey-public-beta/)
+- [Leaky pipes can be better for moving water](https://www.nature.com/articles/d41586-021-01822-1)
+- [Pinterest bans weight loss ads in first for major social networks](https://www.theguardian.com/technology/2021/jul/02/bye-bye-bmi-pinterest-bans-weight-loss-ads-in-first-for-major-social-networks)
 - [Alzheimer’s enigma: Why is incidence falling 16% a decade in richest countries?](https://english.elpais.com/usa/2021-07-01/the-alzheimers-enigma-why-is-the-incidence-falling-at-16-a-decade-in-the-worlds-richest-countries.html)
-- [A Group Is Its Own Worst Enemy (2003)](https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html)
-- [IBM email fiasco complicates sales deals, is worse than biz is letting on](https://www.theregister.com/2021/07/01/ibm_email_disruption_sales)
-- [Radian: A 21 century R console](https://github.com/randy3k/radian)
-- [Check If Email Exists](https://github.com/reacherhq/check-if-email-exists)
 <!-- BLOG-POST-LIST:END -->
 
 ---
