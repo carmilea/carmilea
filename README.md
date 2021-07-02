@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Check If Email Exist](https://github.com/reacherhq/check-if-email-exists)
-- [Hacker News folk wisdom on visual programming](https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/)
-- [Installing Linux into a 286 laptop from the year 1989](https://befinitiv.wordpress.com/2021/06/30/installing-linux-into-a-286-laptop-from-the-year-1989/)
-- [Flipper Zero: How it’s made and tested](https://blog.flipperzero.one/electronics-testing/)
-- [Zendar (YC S17) is hiring a R&D electronics technician (part time)](https://jobs.ashbyhq.com/zendar/56ea9fff-f961-404e-b094-5584a36c0f8c)
+- [A Group Is Its Own Worst Enemy (2003)](https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html)
+- [IBM email fiasco complicates sales deals, is worse than biz is letting on](https://www.theregister.com/2021/07/01/ibm_email_disruption_sales)
+- [Radian: A 21 century R console](https://github.com/randy3k/radian)
+- [Check If Email Exists](https://github.com/reacherhq/check-if-email-exists)
+- [Folk wisdom on visual programming](https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
