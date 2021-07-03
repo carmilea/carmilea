@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Petite-Vue – 5kb subset of Vue optimized for progressive enhancement](https://github.com/vuejs/petite-vue)
+- [BitTorrent Turns 20: The File-Sharing Revolution Revisited](https://torrentfreak.com/bittorrent-turns-20-the-file-sharing-revolution-revisited-210702/)
+- [Compute Engine Predictive Autoscaling](https://cloud.google.com/blog/products/compute/introducing-compute-engine-predictive-autoscaling)
 - [The Untold Story of SQLite with Richard Hipp](https://corecursive.com/066-sqlite-with-richard-hipp/)
 - [US companies hit by 'colossal' cyber-attack](https://www.bbc.com/news/world-us-canada-57703836)
-- [Soldiers watch the US withdrawal from Bagram through the lens of Pokemon Go](https://www.stripes.com/theaters/middle_east/2021-07-02/pokemon-go-bagram-troop-withdrawal-2027917.html)
-- [Distill Hiatus](https://distill.pub/2021/distill-hiatus/)
-- [An Oral History of the L0pht (2018)](https://duo.com/decipher/an-oral-history-of-the-l0pht)
 <!-- BLOG-POST-LIST:END -->
 
 ---
