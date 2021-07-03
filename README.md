@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finley (YC W21 Fintech) Is Hiring Senior Engineers (Remote)](https://www.ycombinator.com/companies/finley/jobs/BcIjalj-software-engineer)
+- [How to add eBPF observability to your product](https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html)
+- [Tiny FORTH from scratch in 1 week (bootloader-based Arduino UNO, 2K of RAM)](https://www.thanassis.space/miniforth.html)
 - [San Francisco recorded a 753 percent rise in car burglaries compared to May 2020](https://www.sfchronicle.com/crime/article/San-Francisco-car-break-ins-tourism-16275241.php)
 - [Wav2vec Overview: Semi and Unsupervised Speech Recognition](https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition)
-- [How to stop download.cnet.com from hosting my app?](https://news.ycombinator.com/item?id=27722254)
-- [America’s government comes clean on UFOs](https://www.economist.com/united-states/2021/07/03/americas-government-comes-clean-on-ufos)
-- [Mouse Lungs After Long-Term Exposure to Atmosphere Predicted by Climate Change](https://ehp.niehs.nih.gov/doi/10.1289/EHP7305)
 <!-- BLOG-POST-LIST:END -->
 
 ---
