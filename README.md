@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Only Windows 11 Pro will let you install Windows 11 with a local account](https://www.pcworld.com/article/3623830/only-windows-11-pro-will-let-you-install-windows-11-with-a-local-account.html)
-- [Apple and Intel first to use TSMC 3nm](https://www.electronicsweekly.com/uncategorised/apple-intel-first-use-tsmc-3nm-2021-07/)
-- [Make Patterns Pop Out of Heatmaps with Seriation (2018)](http://nicolas.kruchten.com/content/2018/02/seriation/)
-- [Plotext – Python Plotting on the Terminal](https://github.com/piccolomo/plotext)
-- [Petite-Vue – 5kb subset of Vue optimized for progressive enhancement](https://github.com/vuejs/petite-vue)
+- [Draftbit (YC W18) Is Hiring Senior Engineers (Remote)](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
+- [Suppose I Wanted to Kill a Lot of Pilots](https://historyofyesterday.com/suppose-i-wanted-to-kill-a-lot-of-pilots-f126bbc756fa)
+- [Darktable 3.6.0 Released](https://github.com/darktable-org/darktable/releases/tag/release-3.6.0)
+- [What Made Early Humans Smart](https://nautil.us/issue/102/hidden-truths/what-made-early-humans-smart)
+- [Steam on Linux Still Tap Dancing Around 0.9% Marketshare](https://www.phoronix.com/scan.php?page=news_item&px=Steam-On-Linux-Tap-Dance-0.9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
