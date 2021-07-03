@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Only Windows 11 Pro will let you install Windows 11 with a local account](https://www.pcworld.com/article/3623830/only-windows-11-pro-will-let-you-install-windows-11-with-a-local-account.html)
 - [Apple and Intel first to use TSMC 3nm](https://www.electronicsweekly.com/uncategorised/apple-intel-first-use-tsmc-3nm-2021-07/)
-- [Myocarditis After Immunization with mRNA Covid-19 Vaccines in US Military](https://jamanetwork.com/journals/jamacardiology/fullarticle/2781601?appId=scweb)
-- [Make Patterns Pop Out of Heatmaps with Seriation](http://nicolas.kruchten.com/content/2018/02/seriation/)
-- [Computer Vision Enhanced Lego Building](https://apps.apple.com/app/brickit-rebuild-your-lego/id1477221636)
+- [Make Patterns Pop Out of Heatmaps with Seriation (2018)](http://nicolas.kruchten.com/content/2018/02/seriation/)
 - [Plotext – Python Plotting on the Terminal](https://github.com/piccolomo/plotext)
+- [Petite-Vue – 5kb subset of Vue optimized for progressive enhancement](https://github.com/vuejs/petite-vue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
