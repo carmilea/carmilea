@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [One woman's battle to prove she isn't dead](https://www.theguardian.com/lifeandstyle/2021/jul/03/they-said-i-dont-exist-but-i-am-here-one-womans-battle-to-prove-she-isnt-dead)
-- [Learning Squeak in 2020](https://wiki.squeak.org/squeak/6622)
-- [Chimera Linux: a Linux distribution based on FreeBSD userland and LLVM](https://chimera-linux.org/)
-- [Draftbit (YC W18) Is Hiring Senior Engineers (Remote)](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
-- [Suppose I Wanted to Kill a Lot of Pilots](https://historyofyesterday.com/suppose-i-wanted-to-kill-a-lot-of-pilots-f126bbc756fa)
+- [New Qualcomm CEO sees former Apple execs as key to beating M1](https://www.theverge.com/2021/7/2/22560967/qualcomm-apple-cristiano-amon-nuvia-laptop-processors)
+- [Custom domain names are coming to iCloud mail with iCloud+](https://9to5mac.com/2021/06/07/custom-domain-names-are-coming-to-icloud-mail-with-icloud/)
+- [Bay Area cities want to end single-family home zoning](https://www.sfchronicle.com/bayarea/article/Bay-Area-cities-want-to-end-single-family-home-15983648.php)
+- [A woman's battle to prove she isn't dead](https://www.theguardian.com/lifeandstyle/2021/jul/03/they-said-i-dont-exist-but-i-am-here-one-womans-battle-to-prove-she-isnt-dead)
+- [In JS functions, the ‘last’ return wins](https://jakearchibald.com/2021/last-return-wins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
