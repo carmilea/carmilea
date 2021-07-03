@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We’re Going Big for Flight 9](https://mars.nasa.gov/technology/helicopter/status/313/were-going-big-for-flight-9/)
 - [Petite-Vue – 5kb subset of Vue optimized for progressive enhancement](https://github.com/vuejs/petite-vue)
 - [BitTorrent Turns 20: The File-Sharing Revolution Revisited](https://torrentfreak.com/bittorrent-turns-20-the-file-sharing-revolution-revisited-210702/)
 - [Compute Engine Predictive Autoscaling](https://cloud.google.com/blog/products/compute/introducing-compute-engine-predictive-autoscaling)
 - [The Untold Story of SQLite with Richard Hipp](https://corecursive.com/066-sqlite-with-richard-hipp/)
-- [US companies hit by 'colossal' cyber-attack](https://www.bbc.com/news/world-us-canada-57703836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
