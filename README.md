@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Using government guidelines to police content: state censorship?](https://taibbi.substack.com/p/a-case-of-intellectual-capture-on)
-- [Finley (YC W21) Is Hiring Senior Engineers (Remote)](https://www.ycombinator.com/companies/finley/jobs/BcIjalj-software-engineer)
-- [Lab-grown food will soon destroy farming – and save the planet (2019)](https://www.theguardian.com/commentisfree/2020/jan/08/lab-grown-food-destroy-farming-save-planet)
-- [Orange County Prosecutors Operate “Vast, Secretive” Genetic Surveillance Program](https://theintercept.com/2021/07/03/orange-county-prosecutors-dna-surveillance/)
-- [We don’t have unprofitable customers, just unhappy accidents (2019)](https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/)
+- [How Databases handle 10M devices in high-cardinality benchmarks](https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/)
+- [Show HN: atto – The new BASIC computer that runs in the browser](https://jamesl.me/atto/)
+- [How not to break a search engine](https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/)
+- [Abandoning GitHub](https://thelig.ht/abandoning-github/)
+- [GitHub scraped your code. And they plan to charge you](https://twitter.com/bphogan/status/1411097686854488067)
 <!-- BLOG-POST-LIST:END -->
 
 ---
