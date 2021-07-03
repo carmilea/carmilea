@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Untold Story of SQLite with Richard Hipp](https://corecursive.com/066-sqlite-with-richard-hipp/)
 - [US companies hit by 'colossal' cyber-attack](https://www.bbc.com/news/world-us-canada-57703836)
 - [Soldiers watch the US withdrawal from Bagram through the lens of Pokemon Go](https://www.stripes.com/theaters/middle_east/2021-07-02/pokemon-go-bagram-troop-withdrawal-2027917.html)
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus/)
 - [An Oral History of the L0pht (2018)](https://duo.com/decipher/an-oral-history-of-the-l0pht)
-- [Miami orders evacuation of 156-unit as structurally and electrically unsafe](https://apnews.com/article/fl-state-wire-florida-evacuations-c2f6b6efe50d3c5a87c4a97363fa8772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
