@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What should the CPU usage be of a fully-loaded CPU that has been throttled?](https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378)
+- [Ask HN: Can I charge GitHub for using my code in Copilot?](https://news.ycombinator.com/item?id=27725274)
 - [EasyPost is building the logistics platform for ecommerce](https://www.easypost.com/careers)
 - [How Databases handle 10M devices in high-cardinality benchmarks](https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/)
-- [New [July 2, 2021] Audacity Data Collection Policy](https://www.audacityteam.org/about/desktop-privacy-notice/)
 - [Where are we going from here? Software engineering needs formal methods](https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/)
 <!-- BLOG-POST-LIST:END -->
 
