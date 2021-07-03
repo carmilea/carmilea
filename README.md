@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Normies just don't care about privacy”](https://gist.github.com/joepie91/6a5f50b27965c711436f5b566f97960d)
-- [An Oral History of the L0pht](https://duo.com/decipher/an-oral-history-of-the-l0pht)
+- [Soldiers watch the US withdrawal from Bagram through the lens of Pokemon Go](https://www.stripes.com/theaters/middle_east/2021-07-02/pokemon-go-bagram-troop-withdrawal-2027917.html)
+- [An Oral History of the L0pht (2018)](https://duo.com/decipher/an-oral-history-of-the-l0pht)
+- [Miami orders evacuation of 156-unit as structurally and electrically unsafe](https://apnews.com/article/fl-state-wire-florida-evacuations-c2f6b6efe50d3c5a87c4a97363fa8772)
 - [Kolyma highway in Yakutia, also known as the Road of Bones, is on fire](https://siberiantimes.com/other/others/news/kolyma-highway-in-yakutia-also-known-as-the-road-of-bones-is-on-fire-and-temporarily-shut/)
 - [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
-- [ML-For-Beginners: 12 weeks, 24 lessons, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)
 <!-- BLOG-POST-LIST:END -->
 
 ---
