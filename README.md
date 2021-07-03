@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Squeak in 2020](https://wiki.squeak.org/squeak/6622)
 - [Draftbit (YC W18) Is Hiring Senior Engineers (Remote)](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
 - [Suppose I Wanted to Kill a Lot of Pilots](https://historyofyesterday.com/suppose-i-wanted-to-kill-a-lot-of-pilots-f126bbc756fa)
 - [Darktable 3.6.0 Released](https://github.com/darktable-org/darktable/releases/tag/release-3.6.0)
 - [What Made Early Humans Smart](https://nautil.us/issue/102/hidden-truths/what-made-early-humans-smart)
-- [Steam on Linux Still Tap Dancing Around 0.9% Marketshare](https://www.phoronix.com/scan.php?page=news_item&px=Steam-On-Linux-Tap-Dance-0.9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
