@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Qualcomm CEO sees former Apple execs as key to beating M1](https://www.theverge.com/2021/7/2/22560967/qualcomm-apple-cristiano-amon-nuvia-laptop-processors)
-- [Custom domain names are coming to iCloud mail with iCloud+](https://9to5mac.com/2021/06/07/custom-domain-names-are-coming-to-icloud-mail-with-icloud/)
-- [Bay Area cities want to end single-family home zoning](https://www.sfchronicle.com/bayarea/article/Bay-Area-cities-want-to-end-single-family-home-15983648.php)
-- [A woman's battle to prove she isn't dead](https://www.theguardian.com/lifeandstyle/2021/jul/03/they-said-i-dont-exist-but-i-am-here-one-womans-battle-to-prove-she-isnt-dead)
-- [In JS functions, the ‘last’ return wins](https://jakearchibald.com/2021/last-return-wins/)
+- [San Francisco recorded a 753 percent rise in car burglaries compared to May 2020](https://www.sfchronicle.com/crime/article/San-Francisco-car-break-ins-tourism-16275241.php)
+- [Wav2vec Overview: Semi and Unsupervised Speech Recognition](https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition)
+- [How to stop download.cnet.com from hosting my app?](https://news.ycombinator.com/item?id=27722254)
+- [America’s government comes clean on UFOs](https://www.economist.com/united-states/2021/07/03/americas-government-comes-clean-on-ufos)
+- [Mouse Lungs After Long-Term Exposure to Atmosphere Predicted by Climate Change](https://ehp.niehs.nih.gov/doi/10.1289/EHP7305)
 <!-- BLOG-POST-LIST:END -->
 
 ---
