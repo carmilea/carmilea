@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple and Intel first to use TSMC 3nm](https://www.electronicsweekly.com/uncategorised/apple-intel-first-use-tsmc-3nm-2021-07/)
+- [Myocarditis After Immunization with mRNA Covid-19 Vaccines in US Military](https://jamanetwork.com/journals/jamacardiology/fullarticle/2781601?appId=scweb)
 - [Make Patterns Pop Out of Heatmaps with Seriation](http://nicolas.kruchten.com/content/2018/02/seriation/)
 - [Computer Vision Enhanced Lego Building](https://apps.apple.com/app/brickit-rebuild-your-lego/id1477221636)
-- [We’re Going Big for Flight 9](https://mars.nasa.gov/technology/helicopter/status/313/were-going-big-for-flight-9/)
-- [Petite-Vue – 5kb subset of Vue optimized for progressive enhancement](https://github.com/vuejs/petite-vue)
-- [BitTorrent Turns 20: The File-Sharing Revolution Revisited](https://torrentfreak.com/bittorrent-turns-20-the-file-sharing-revolution-revisited-210702/)
+- [Plotext – Python Plotting on the Terminal](https://github.com/piccolomo/plotext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
