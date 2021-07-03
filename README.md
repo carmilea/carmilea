@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Make Patterns Pop Out of Heatmaps with Seriation](http://nicolas.kruchten.com/content/2018/02/seriation/)
+- [Computer Vision Enhanced Lego Building](https://apps.apple.com/app/brickit-rebuild-your-lego/id1477221636)
 - [We’re Going Big for Flight 9](https://mars.nasa.gov/technology/helicopter/status/313/were-going-big-for-flight-9/)
 - [Petite-Vue – 5kb subset of Vue optimized for progressive enhancement](https://github.com/vuejs/petite-vue)
 - [BitTorrent Turns 20: The File-Sharing Revolution Revisited](https://torrentfreak.com/bittorrent-turns-20-the-file-sharing-revolution-revisited-210702/)
-- [Compute Engine Predictive Autoscaling](https://cloud.google.com/blog/products/compute/introducing-compute-engine-predictive-autoscaling)
-- [The Untold Story of SQLite with Richard Hipp](https://corecursive.com/066-sqlite-with-richard-hipp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
