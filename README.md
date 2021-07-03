@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If Platforms Use Gov't Guidelines to Police Content, Is That State Censorship?](https://taibbi.substack.com/p/a-case-of-intellectual-capture-on)
-- [Video shows fire in Gulf of Mexico after gas pipeline rupture](https://www.youtube.com/watch?v=U3yBnodXI7E)
+- [Using government guidelines to police content: state censorship?](https://taibbi.substack.com/p/a-case-of-intellectual-capture-on)
 - [Finley (YC W21) Is Hiring Senior Engineers (Remote)](https://www.ycombinator.com/companies/finley/jobs/BcIjalj-software-engineer)
-- [We Don’t Have Unprofitable Customers, Just Unhappy Accidents](https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/)
-- [How to add eBPF observability to your product](https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html)
+- [Lab-grown food will soon destroy farming – and save the planet (2019)](https://www.theguardian.com/commentisfree/2020/jan/08/lab-grown-food-destroy-farming-save-planet)
+- [Orange County Prosecutors Operate “Vast, Secretive” Genetic Surveillance Program](https://theintercept.com/2021/07/03/orange-county-prosecutors-dna-surveillance/)
+- [We don’t have unprofitable customers, just unhappy accidents (2019)](https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
