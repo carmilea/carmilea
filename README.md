@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost is building the logistics platform for ecommerce](https://www.easypost.com/careers)
 - [How Databases handle 10M devices in high-cardinality benchmarks](https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/)
+- [Where are we going from here? Software engineering needs formal methods](https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/)
 - [Show HN: atto – The new BASIC computer that runs in the browser](https://jamesl.me/atto/)
 - [How not to break a search engine](https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/)
-- [Abandoning GitHub](https://thelig.ht/abandoning-github/)
-- [GitHub scraped your code. And they plan to charge you](https://twitter.com/bphogan/status/1411097686854488067)
 <!-- BLOG-POST-LIST:END -->
 
 ---
