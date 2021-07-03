@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Finley (YC W21 Fintech) Is Hiring Senior Engineers (Remote)](https://www.ycombinator.com/companies/finley/jobs/BcIjalj-software-engineer)
+- [If Platforms Use Gov't Guidelines to Police Content, Is That State Censorship?](https://taibbi.substack.com/p/a-case-of-intellectual-capture-on)
+- [Video shows fire in Gulf of Mexico after gas pipeline rupture](https://www.youtube.com/watch?v=U3yBnodXI7E)
+- [Finley (YC W21) Is Hiring Senior Engineers (Remote)](https://www.ycombinator.com/companies/finley/jobs/BcIjalj-software-engineer)
+- [We Don’t Have Unprofitable Customers, Just Unhappy Accidents](https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/)
 - [How to add eBPF observability to your product](https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html)
-- [Tiny FORTH from scratch in 1 week (bootloader-based Arduino UNO, 2K of RAM)](https://www.thanassis.space/miniforth.html)
-- [San Francisco recorded a 753 percent rise in car burglaries compared to May 2020](https://www.sfchronicle.com/crime/article/San-Francisco-car-break-ins-tourism-16275241.php)
-- [Wav2vec Overview: Semi and Unsupervised Speech Recognition](https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
