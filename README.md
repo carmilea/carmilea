@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [John Lewis slams UK education system and offers staff literacy lessons](https://www.retailgazette.co.uk/blog/2021/06/john-lewis-slams-uk-education-system-and-offers-staff-literacy-lessons/)
+- [Return of the Mac (2005)](http://paulgraham.com/mac.html)
+- [Cosmic rays broke a Certificate Transparency log](https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/)
 - [Heat Domes Are a Red-Hot Warning on Climate Costs](https://www.bloomberg.com/opinion/articles/2021-07-03/heat-domes-are-a-red-hot-warning-on-climate-costs)
 - [Digital Violence: How the NSO Group Enables State Terror](https://www.digitalviolence.org/)
 - [Soviet Venus Images](http://mentallandscape.com/C_CatalogVenus.htm)
-- [Dear Mom and Dad, please stick with me](https://grownandflown.com/letter-from-teen-to-parents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
