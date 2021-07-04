@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On working too hard: finding balance, and lessons learned from others](https://blog.lawrencejones.dev/working-too-hard/)
+- [Social media is broken. A new report offers 25 ways to fix it](https://mitsloan.mit.edu/ideas-made-to-matter/social-media-broken-a-new-report-offers-25-ways-to-fix-it)
 - [The Idempotency-Key HTTP Header Field](https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00)
 - [In Twitter’s early days, only one celebrity could tweet at a time (2018)](https://theoutline.com/post/4147/in-twitters-early-days-only-one-celebrity-could-tweet-at-a-time)
 - [Dynamic Linking Best Practices](https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2)
-- [Underground fiber optics spy on humans moving above](https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/)
-- [Blender and the Rabbids](https://www.blender.org/user-stories/blender-and-the-rabbids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
