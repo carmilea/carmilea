@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is GitHub a derivative work of GPL'd software?](https://drewdevault.com/2021/07/04/Is-GitHub-a-derivative-work.html)
+- [Ask HN: How do SMBs afford such expensive software engineers in the US?](https://news.ycombinator.com/item?id=27729059)
 - [Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React)](https://www.ycombinator.com/companies/avenue/jobs/G2sPjRf-software-engineer)
+- [Show HN: 200+Bootstrap ReadyUI Blocks and Tailwind CSS version is coming soon](https://readyui.co/)
 - [The unexpected complications of minor features (2020)](https://www.construct.net/en/blogs/ashleys-blog-2/unexpected-complications-1535)
-- [Health insurers are threatening not to cover some patients’ ER bills](https://www.vox.com/2021/7/1/22557401/united-healthcare-emergency-room-visits-medical-bills)
-- [Return of the Mac (2005)](http://paulgraham.com/mac.html)
-- [An electron tube computer for the 21st century](https://ena.computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
