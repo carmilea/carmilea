@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Audacity may collect “Data necessary for law enforcement, litigation” and more](https://old.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/)
+- [The Growth Ponzi Scheme](https://www.strongtowns.org/the-growth-ponzi-scheme)
+- [GPT-J “the open source cousin of GPT-3 everyone can use”](https://github.com/kingoflolz/mesh-transformer-jax)
 - [Oilsands among the most carbon intensive crudes in North America (2017)](https://www.pembina.org/blog/real-ghg-trend-oilsands)
 - [U.S. Navy Laser Creates Plasma ‘UFOs’](https://www.forbes.com/sites/davidhambling/2020/05/11/us-navy-laser-creates-plasma-ufos/)
-- [Jerry (YC S17) is hiring a remote senior software engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
-- [What should the CPU usage be of a fully-loaded CPU that has been throttled?](https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378)
-- [Microbes in cow stomachs can break down plastic](https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full)
 <!-- BLOG-POST-LIST:END -->
 
 ---
