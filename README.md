@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU antitrust: Apple shouldn't use privacy and security to stave off competition](https://appleinsider.com/articles/21/07/02/eu-antitrust-head-warns-against-apple-using-privacy-security-to-stave-off-competition)
 - [GPT-J: GPT-3 Democratized](https://www.p3r.one/gpt-j/)
-- [Secret Management in Kubernetes](https://www.redhat.com/sysadmin/managing-secrets-kubernetes-pods)
 - [Flexport Is Hiring](https://techcrunch.com/2016/06/07/flexport/)
 - [Pico-8 API Cheatsheet](https://iiviigames.github.io/pico8-api/)
 - [Write a time-series database engine from scratch](https://nakabonne.dev/posts/write-tsdb-from-scratch/)
