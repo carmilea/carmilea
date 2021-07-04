@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CompilerJobs – A listing of compiler, language and runtime teams](https://mgaudet.github.io/CompilerJobs/)
+- [Flexport Is Hiring](https://techcrunch.com/2016/06/07/flexport/)
+- [Pico-8 API Cheatsheet](https://iiviigames.github.io/pico8-api/)
+- [Ray: A Distributed Framework for Emerging AI Applications](https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html)
 - [Microbes in Cow Stomachs May Help Our Plastic Problem](https://interestingengineering.com/microbes-in-cow-stomachs-may-help-our-plastic-problem)
 - [On working too hard: finding balance, and lessons learned from others](https://blog.lawrencejones.dev/working-too-hard/)
-- [The Idempotency-Key HTTP Header Field](https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00)
-- [Dynamic Linking Best Practices](https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
