@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CompilerJobs – A listing of compiler, language and runtime teams](https://mgaudet.github.io/CompilerJobs/)
+- [Microbes in Cow Stomachs May Help Our Plastic Problem](https://interestingengineering.com/microbes-in-cow-stomachs-may-help-our-plastic-problem)
 - [On working too hard: finding balance, and lessons learned from others](https://blog.lawrencejones.dev/working-too-hard/)
-- [Social media is broken. A new report offers 25 ways to fix it](https://mitsloan.mit.edu/ideas-made-to-matter/social-media-broken-a-new-report-offers-25-ways-to-fix-it)
 - [The Idempotency-Key HTTP Header Field](https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00)
-- [In Twitter’s early days, only one celebrity could tweet at a time (2018)](https://theoutline.com/post/4147/in-twitters-early-days-only-one-celebrity-could-tweet-at-a-time)
 - [Dynamic Linking Best Practices](https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2)
 <!-- BLOG-POST-LIST:END -->
 
