@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Audacity is now a Possible Spyware, Remove it ASAP](https://fosspost.org/audacity-is-now-a-spyware/)
+- [Condo Wreckage Hints at Less Steel in Columns Than Design Drawings](https://www.nytimes.com/2021/07/03/us/florida-condo-collapse-steel-rebar.html)
+- [Indian Mathematician Claims to Have Proved Riemann Hypothesis](https://www.thequint.com/news/hyderabad-physicist-claims-to-have-proved-riemann-hypothesis)
 - [Fly.io (YC W20) Is Hiring Site Reliability Engineers](https://news.ycombinator.com/item?id=27732580)
-- [San Francisco Organized Shoplifting Surge Prompts Target to Cut Operating Hours](https://www.newsweek.com/san-franciscos-organized-shoplifting-surge-prompts-target-cut-operating-hours-1606674)
-- [PID Controller for controlling the number of servers in a data-center](https://gist.github.com/pushpendre/359706010c20bc1d18123510749f5da5)
-- [Speeding Up the Webcola Graph Viz Library with Rust and WebAssembly](https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/)
-- [Writing a SQLite clone from scratch in C (2017)](https://cstack.github.io/db_tutorial/)
+- [Show HN: The Hitchhiker’s Guide to Online Anonymity (Updated to v0.9.8)](https://anonymousplanet.org/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
