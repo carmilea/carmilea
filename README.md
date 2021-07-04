@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-J: GPT-3 Democratized](https://www.p3r.one/gpt-j/)
+- [Secret Management in Kubernetes](https://www.redhat.com/sysadmin/managing-secrets-kubernetes-pods)
 - [Flexport Is Hiring](https://techcrunch.com/2016/06/07/flexport/)
 - [Pico-8 API Cheatsheet](https://iiviigames.github.io/pico8-api/)
-- [Ray: A Distributed Framework for Emerging AI Applications](https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html)
-- [Microbes in Cow Stomachs May Help Our Plastic Problem](https://interestingengineering.com/microbes-in-cow-stomachs-may-help-our-plastic-problem)
-- [On working too hard: finding balance, and lessons learned from others](https://blog.lawrencejones.dev/working-too-hard/)
+- [Write a time-series database engine from scratch](https://nakabonne.dev/posts/write-tsdb-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
