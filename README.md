@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Audacity may collect “Data necessary for law enforcement, litigation” and more](https://old.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/)
 - [The Growth Ponzi Scheme](https://www.strongtowns.org/the-growth-ponzi-scheme)
+- [PowerTOP – diagnose issues with power consumption and power management on Linux](https://01.org/powertop/)
 - [GPT-J “the open source cousin of GPT-3 everyone can use”](https://github.com/kingoflolz/mesh-transformer-jax)
 - [Oilsands among the most carbon intensive crudes in North America (2017)](https://www.pembina.org/blog/real-ghg-trend-oilsands)
-- [U.S. Navy Laser Creates Plasma ‘UFOs’](https://www.forbes.com/sites/davidhambling/2020/05/11/us-navy-laser-creates-plasma-ufos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
