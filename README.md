@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jerry (YC S17) is hiring a remote senior software engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [Israeli camouflage tech makes soldiers ‘invisible’](https://www.jpost.com/jpost-tech/israeli-camouflage-tech-makes-soldiers-invisible-671096)
 - [What should the CPU usage be of a fully-loaded CPU that has been throttled?](https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378)
-- [Ask HN: Can I charge GitHub for using my code in Copilot?](https://news.ycombinator.com/item?id=27725274)
-- [EasyPost is building the logistics platform for ecommerce](https://www.easypost.com/careers)
+- [Microbes in cow stomachs can break down plastic](https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full)
 - [How Databases handle 10M devices in high-cardinality benchmarks](https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/)
-- [Where are we going from here? Software engineering needs formal methods](https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
