@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is GitHub a derivative work of GPL'd software?](https://drewdevault.com/2021/07/04/Is-GitHub-a-derivative-work.html)
-- [Ask HN: How do SMBs afford such expensive software engineers in the US?](https://news.ycombinator.com/item?id=27729059)
-- [Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React)](https://www.ycombinator.com/companies/avenue/jobs/G2sPjRf-software-engineer)
-- [Show HN: 200+Bootstrap ReadyUI Blocks and Tailwind CSS version is coming soon](https://readyui.co/)
-- [The unexpected complications of minor features (2020)](https://www.construct.net/en/blogs/ashleys-blog-2/unexpected-complications-1535)
+- [The Idempotency-Key HTTP Header Field](https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00)
+- [In Twitter’s early days, only one celebrity could tweet at a time (2018)](https://theoutline.com/post/4147/in-twitters-early-days-only-one-celebrity-could-tweet-at-a-time)
+- [Dynamic Linking Best Practices](https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2)
+- [Underground fiber optics spy on humans moving above](https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/)
+- [Blender and the Rabbids](https://www.blender.org/user-stories/blender-and-the-rabbids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
