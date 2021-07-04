@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oilsands among the most carbon intensive crudes in North America (2017)](https://www.pembina.org/blog/real-ghg-trend-oilsands)
 - [U.S. Navy Laser Creates Plasma ‘UFOs’](https://www.forbes.com/sites/davidhambling/2020/05/11/us-navy-laser-creates-plasma-ufos/)
 - [Jerry (YC S17) is hiring a remote senior software engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
-- [Israeli camouflage tech makes soldiers ‘invisible’](https://www.jpost.com/jpost-tech/israeli-camouflage-tech-makes-soldiers-invisible-671096)
 - [What should the CPU usage be of a fully-loaded CPU that has been throttled?](https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378)
 - [Microbes in cow stomachs can break down plastic](https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full)
 <!-- BLOG-POST-LIST:END -->
