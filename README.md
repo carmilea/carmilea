@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [John Lewis slams UK education system and offers staff literacy lessons](https://www.retailgazette.co.uk/blog/2021/06/john-lewis-slams-uk-education-system-and-offers-staff-literacy-lessons/)
 - [Digital Violence: How the NSO Group Enables State Terror](https://www.digitalviolence.org/)
 - [Soviet Venus Images](http://mentallandscape.com/C_CatalogVenus.htm)
+- [Dear Mom and Dad, please stick with me](https://grownandflown.com/letter-from-teen-to-parents/)
 - [Commit Often, Perfect Later, Publish Once: Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
-- [Audacity may collect “Data necessary for law enforcement, litigation” and more](https://old.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/)
-- [The Growth Ponzi Scheme](https://www.strongtowns.org/the-growth-ponzi-scheme)
 <!-- BLOG-POST-LIST:END -->
 
 ---
