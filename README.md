@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Study That Impregnated Male Rats Stirs Controversy](https://www.the-scientist.com/news-opinion/study-that-impregnated-male-rats-stirs-controversy-68928)
+- [Smart tech is not making us stupid, instead is cognitively beneficial](https://www.uc.edu/news/articles/2021/07/nature-article-by-uc-expert-explains-how-smart-tech-wont-lower-your-iq.html)
 - [Audacity may collect “Data necessary for law enforcement, litigation” and more](https://old.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/)
 - [The Growth Ponzi Scheme](https://www.strongtowns.org/the-growth-ponzi-scheme)
-- [PowerTOP – diagnose issues with power consumption and power management on Linux](https://01.org/powertop/)
-- [GPT-J “the open source cousin of GPT-3 everyone can use”](https://github.com/kingoflolz/mesh-transformer-jax)
-- [Oilsands among the most carbon intensive crudes in North America (2017)](https://www.pembina.org/blog/real-ghg-trend-oilsands)
+- [You Don’t Want to Know Your Limit](https://www.overcomingbias.com/2021/07/you-dont-want-to-know-your-limit.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
