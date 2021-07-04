@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [John Lewis slams UK education system and offers staff literacy lessons](https://www.retailgazette.co.uk/blog/2021/06/john-lewis-slams-uk-education-system-and-offers-staff-literacy-lessons/)
+- [Heat Domes Are a Red-Hot Warning on Climate Costs](https://www.bloomberg.com/opinion/articles/2021-07-03/heat-domes-are-a-red-hot-warning-on-climate-costs)
 - [Digital Violence: How the NSO Group Enables State Terror](https://www.digitalviolence.org/)
 - [Soviet Venus Images](http://mentallandscape.com/C_CatalogVenus.htm)
 - [Dear Mom and Dad, please stick with me](https://grownandflown.com/letter-from-teen-to-parents/)
-- [Commit Often, Perfect Later, Publish Once: Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
