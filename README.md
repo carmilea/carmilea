@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU antitrust: Apple shouldn't use privacy and security to stave off competition](https://appleinsider.com/articles/21/07/02/eu-antitrust-head-warns-against-apple-using-privacy-security-to-stave-off-competition)
-- [GPT-J: GPT-3 Democratized](https://www.p3r.one/gpt-j/)
-- [Flexport Is Hiring](https://techcrunch.com/2016/06/07/flexport/)
-- [Pico-8 API Cheatsheet](https://iiviigames.github.io/pico8-api/)
-- [Write a time-series database engine from scratch](https://nakabonne.dev/posts/write-tsdb-from-scratch/)
+- [Writing a SQLite clone from scratch in C (2017)](https://cstack.github.io/db_tutorial/)
+- [Earth Structural Layer Cake (2013)](https://cakecrumbs.me/2013/05/24/commission-earth-structural-layer-cake/)
+- [Archive and genealogy of all Quake 1 bots](https://github.com/Jason2Brownlee/QuakeBotArchive)
+- [Show HN: Open-Source Chrome Extension for auto-grouping tabs by URL patterns](https://github.com/jdhayford/acid-tabs-extension)
+- [Devlog – converting this WordPress site to Bedrock itself](https://bedrockapp.org/2021/07/04/devlog-converting-this-wordpress-site-to-bedrock-itself/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
