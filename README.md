@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fly.io (YC W20) Is Hiring Site Reliability Engineers](https://news.ycombinator.com/item?id=27732580)
+- [San Francisco Organized Shoplifting Surge Prompts Target to Cut Operating Hours](https://www.newsweek.com/san-franciscos-organized-shoplifting-surge-prompts-target-cut-operating-hours-1606674)
+- [PID Controller for controlling the number of servers in a data-center](https://gist.github.com/pushpendre/359706010c20bc1d18123510749f5da5)
+- [Speeding Up the Webcola Graph Viz Library with Rust and WebAssembly](https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/)
 - [Writing a SQLite clone from scratch in C (2017)](https://cstack.github.io/db_tutorial/)
-- [Earth Structural Layer Cake (2013)](https://cakecrumbs.me/2013/05/24/commission-earth-structural-layer-cake/)
-- [Archive and genealogy of all Quake 1 bots](https://github.com/Jason2Brownlee/QuakeBotArchive)
-- [Show HN: Open-Source Chrome Extension for auto-grouping tabs by URL patterns](https://github.com/jdhayford/acid-tabs-extension)
-- [Devlog – converting this WordPress site to Bedrock itself](https://bedrockapp.org/2021/07/04/devlog-converting-this-wordpress-site-to-bedrock-itself/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
