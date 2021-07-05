@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76](https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/)
-- [Everything useful I know about kubectl](https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/)
-- [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Git vs. Fossil: What you should have done vs. What you did](https://www.fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki#history)
-- [New mystery AWS product ‘Infinidash’ goes viral despite being entirely fictional](https://www.theregister.com/2021/07/05/infinidash/)
+- [The perils of PR](https://www.economist.com/business/2021/07/03/the-perils-of-pr)
+- [Computing Performance on the Horizon](https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html)
+- [Show HN: Lego Brick Scanner – open-source Boilerplate](https://github.com/GistNoesis/BrickRegistration)
+- [The Future of Deep Learning Is Photonic](https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic)
+- [Music for Programming](https://www.musicforprogramming.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
