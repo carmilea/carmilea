@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are the Odds We Are Living in a Computer Simulation?](https://www.newyorker.com/books/joshua-rothman/what-are-the-odds-we-are-living-in-a-computer-simulation)
+- [XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76](https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/)
+- [Everything useful I know about kubectl](https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/)
 - [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Git vs. Fossil: What you should have done vs. What you did](https://www.fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki#history)
 - [New mystery AWS product ‘Infinidash’ goes viral despite being entirely fictional](https://www.theregister.com/2021/07/05/infinidash/)
-- [Canada Battles More Than 180 Wildfires with Hundreds Dead in Heat Wave](https://www.npr.org/2021/07/04/1013026434/canada-battles-more-than-180-wildfires-with-hundreds-dead-in-heat-wave)
-- [Python Best Practices for a New Project in 2021](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
