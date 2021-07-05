@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse engineering SARS-CoV-2](https://github.com/geohot/corona)
+- [Stockfish 14 Released](https://stockfishchess.org/blog/2021/stockfish-14/)
 - [Condo Wreckage Hints at Less Steel in Columns Than Design Drawings](https://www.nytimes.com/2021/07/03/us/florida-condo-collapse-steel-rebar.html)
-- [Fly.io (YC W20) Is Hiring Site Reliability Engineers](https://news.ycombinator.com/item?id=27732580)
-- [Show HN: The Hitchhiker’s Guide to Online Anonymity (Updated to v0.9.8)](https://anonymousplanet.org/index.html)
 - [PID Controller for controlling the number of servers in a data-center](https://gist.github.com/pushpendre/359706010c20bc1d18123510749f5da5)
+- [Speeding Up the Webcola Graph Viz Library with Rust and WebAssembly](https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/)
+- [Writing a SQLite clone from scratch in C (2017)](https://cstack.github.io/db_tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
