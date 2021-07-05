@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [New mystery AWS product ‘Infinidash’ goes viral despite being entirely fictional](https://www.theregister.com/2021/07/05/infinidash/)
+- [GitHub Copilot is not infringing your copyright](https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/)
+- [Canada Battles More Than 180 Wildfires with Hundreds Dead in Heat Wave](https://www.npr.org/2021/07/04/1013026434/canada-battles-more-than-180-wildfires-with-hundreds-dead-in-heat-wave)
 - [Python Best Practices for a New Project in 2021](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/)
-- [GitHub Copilot generates valid secrets](https://twitter.com/alexjc/status/1411966249437995010)
-- [Indiscriminate messaging and chatcontrol: Last chance to protest](https://www.patrick-breyer.de/en/indiscriminate-messaging-and-chatcontrol-last-chance-to-protest/)
-- [Probably Approximately Correct – A Formal Theory of Learning (2014)](https://jeremykun.com/2014/01/02/probably-approximately-correct-a-formal-theory-of-learning/)
-- [Hydrogen fuel cell cars: everything you need to know](https://www.bmw.com/en/innovation/how-hydrogen-fuel-cell-cars-work.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
