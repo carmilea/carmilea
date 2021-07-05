@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hydrogen fuel cell cars: everything you need to know](https://www.bmw.com/en/innovation/how-hydrogen-fuel-cell-cars-work.html)
+- [Audacity 3.0 called spyware over data collection changes by new owner](https://appleinsider.com/articles/21/07/04/open-source-audacity-deemed-spyware-over-data-collection-changes)
+- [Iron Finance’s DeFi bank run – and how Mark Cuban got ‘rekted’](https://forkast.news/iron-finances-defi-bank-run-why-mark-cuban-got-rekted/)
 - [Lemon Law](https://en.wikipedia.org/wiki/Lemon_law)
-- [I Tricked Myself into Liking Running](https://www.nytimes.com/2021/04/16/well/move/starting-running-jogging.html)
-- [Java Agents](http://diego-pacheco.blogspot.com/2021/07/java-agents.html)
 - [Finra Orders Record Financial Penalties Against Robinhood Financial LLC](https://www.finra.org/media-center/newsreleases/2021/finra-orders-record-financial-penalties-against-robinhood-financial)
-- [Dabrowski’s Theory and Existential Depression in Gifted Children and Adults](https://www.davidsongifted.org/gifted-blog/dabrowskis-theory-and-existential-depression-in-gifted-children-and-adults/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
