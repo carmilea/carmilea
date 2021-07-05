@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Visual Python – open source visual Python code generator](https://github.com/visualpython/visualpython)
+- [Finra Orders Record Financial Penalties Against Robinhood Financial LLC](https://www.finra.org/media-center/newsreleases/2021/finra-orders-record-financial-penalties-against-robinhood-financial)
 - [Mental Poker [pdf]](https://people.csail.mit.edu/rivest/pubs/SRA81.pdf)
 - [YouTube channel “TechLead” creator has created a crypto and pulled the rug](https://old.reddit.com/r/CryptoCurrency/comments/odusa6/techlead_youtuber_with_11_million_subscribers_is/)
 - [Purdue CS590: Cloud-Native Database Systems (Spring 2021)](https://www.cs.purdue.edu/homes/csjgwang/cloudb/)
-- [GitHub Copilot giving outdated code](https://blog.hrithwik.me/the-good-and-the-limitations-of-github-copilot)
-- [BrainFlow](https://github.com/brainflow-dev/brainflow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
