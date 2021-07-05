@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lemon Law](https://en.wikipedia.org/wiki/Lemon_law)
+- [I Tricked Myself into Liking Running](https://www.nytimes.com/2021/04/16/well/move/starting-running-jogging.html)
 - [Java Agents](http://diego-pacheco.blogspot.com/2021/07/java-agents.html)
-- [Show HN: Visual Python – open source visual Python code generator](https://github.com/visualpython/visualpython)
 - [Finra Orders Record Financial Penalties Against Robinhood Financial LLC](https://www.finra.org/media-center/newsreleases/2021/finra-orders-record-financial-penalties-against-robinhood-financial)
 - [Dabrowski’s Theory and Existential Depression in Gifted Children and Adults](https://www.davidsongifted.org/gifted-blog/dabrowskis-theory-and-existential-depression-in-gifted-children-and-adults/)
-- [Mental Poker [pdf]](https://people.csail.mit.edu/rivest/pubs/SRA81.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
