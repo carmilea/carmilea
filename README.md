@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are the Odds We Are Living in a Computer Simulation?](https://www.newyorker.com/books/joshua-rothman/what-are-the-odds-we-are-living-in-a-computer-simulation)
 - [Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - [New mystery AWS product ‘Infinidash’ goes viral despite being entirely fictional](https://www.theregister.com/2021/07/05/infinidash/)
-- [GitHub Copilot is not infringing your copyright](https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/)
 - [Canada Battles More Than 180 Wildfires with Hundreds Dead in Heat Wave](https://www.npr.org/2021/07/04/1013026434/canada-battles-more-than-180-wildfires-with-hundreds-dead-in-heat-wave)
 - [Python Best Practices for a New Project in 2021](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/)
 <!-- BLOG-POST-LIST:END -->
