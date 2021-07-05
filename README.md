@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You Need to Quit Twitter](https://www.theatlantic.com/ideas/archive/2021/07/twitter-addict-realizes-she-needs-rehab/619343/)
+- [In praise of the novelization, pop fiction’s least reputable genre](https://quillette.com/2021/06/28/in-praise-of-the-novelization-pop-fictions-least-reputable-genre/)
 - [Writing a Firmware-Only Keylogger](https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html)
 - [Transfer.sh – Easy file sharing from the command line](https://transfer.sh)
 - [Ever Given: Egypt agrees deal to release ship that blocked Suez Canal](https://www.bbc.com/news/world-middle-east-57719551)
