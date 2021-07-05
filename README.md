@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mental Poker [pdf]](https://people.csail.mit.edu/rivest/pubs/SRA81.pdf)
 - [YouTube channel “TechLead” creator has created a crypto and pulled the rug](https://old.reddit.com/r/CryptoCurrency/comments/odusa6/techlead_youtuber_with_11_million_subscribers_is/)
-- [The Brave Sage of Timbuktu: Abdel Kader Haidara (2014)](https://www.nationalgeographic.com/culture/article/140421-haidara-timbuktu-manuscripts-mali-library-conservation)
+- [Purdue CS590: Cloud-Native Database Systems (Spring 2021)](https://www.cs.purdue.edu/homes/csjgwang/cloudb/)
 - [GitHub Copilot giving outdated code](https://blog.hrithwik.me/the-good-and-the-limitations-of-github-copilot)
-- [Biogen used an FDA back channel to win approval of its Alzheimer’s drug](https://www.statnews.com/2021/06/29/biogen-fda-alzheimers-drug-approval-aduhelm-project-onyx/)
-- [Students flee field as computer 'fad fades' (1987)](https://pessimistsarchive.substack.com/p/1d7a427e-5028-470d-906d-6c3f9980d1de)
+- [BrainFlow](https://github.com/brainflow-dev/brainflow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
