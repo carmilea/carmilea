@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Target, Walgreens make drastic changes due to increase in San Francisco thefts](https://abc7news.com/target-walgreens-make-changes-due-to-increase-in-bay-area-thefts/10854900/)
-- [Biogen used an FDA back channel to win Alzheimer's drug approval](https://www.statnews.com/2021/06/29/biogen-fda-alzheimers-drug-approval-aduhelm-project-onyx/)
-- [Students Flee Field as Computer 'Fad Fades' (1987)](https://pessimistsarchive.substack.com/p/1d7a427e-5028-470d-906d-6c3f9980d1de)
-- [World’s largest ever four day week trial in Iceland ‘overwhelming success’](https://www.independent.co.uk/news/uk/politics/four-day-week-pilot-iceland-b1877171.html)
-- [Stockfish 14](https://stockfishchess.org/blog/2021/stockfish-14/)
+- [YouTube channel “TechLead” creator has created a crypto and pulled the rug](https://old.reddit.com/r/CryptoCurrency/comments/odusa6/techlead_youtuber_with_11_million_subscribers_is/)
+- [The Brave Sage of Timbuktu: Abdel Kader Haidara (2014)](https://www.nationalgeographic.com/culture/article/140421-haidara-timbuktu-manuscripts-mali-library-conservation)
+- [GitHub Copilot giving outdated code](https://blog.hrithwik.me/the-good-and-the-limitations-of-github-copilot)
+- [Biogen used an FDA back channel to win approval of its Alzheimer’s drug](https://www.statnews.com/2021/06/29/biogen-fda-alzheimers-drug-approval-aduhelm-project-onyx/)
+- [Students flee field as computer 'fad fades' (1987)](https://pessimistsarchive.substack.com/p/1d7a427e-5028-470d-906d-6c3f9980d1de)
 <!-- BLOG-POST-LIST:END -->
 
 ---
