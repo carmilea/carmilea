@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YC is hiring our first Data Engineer](https://www.ycombinator.com/companies/y-combinator/jobs/5ZIoy9J-first-data-engineer)
-- [European Citizen's Initiative for UBI](https://eci-ubi.eu/)
-- [Audacity: Clarification of Privacy Policy](https://github.com/audacity/audacity/discussions/1225)
-- [Show HN: RSS feeds for arbitrary websites using CSS selectors](https://feed-me-up-scotty.vincenttunru.com/)
-- [European plan for gigantic new gravitational wave detector passes milestone](https://www.sciencemag.org/news/2021/07/european-plan-gigantic-new-gravitational-wave-detector-passes-milestone)
+- [Writing a Firmware-Only Keylogger](https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html)
+- [Transfer.sh – Easy file sharing from the command line](https://transfer.sh)
+- [YC is hiring our first data engineer](https://www.ycombinator.com/companies/y-combinator/jobs/5ZIoy9J-first-data-engineer)
+- [Design Engineering Handbook [pdf]](https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf)
+- [AI Explorables: big ideas in machine learning, simply explained](https://pair.withgoogle.com/explorables/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
