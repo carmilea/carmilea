@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Target, Walgreens make drastic changes due to increase in San Francisco thefts](https://abc7news.com/target-walgreens-make-changes-due-to-increase-in-bay-area-thefts/10854900/)
+- [Biogen used an FDA back channel to win Alzheimer's drug approval](https://www.statnews.com/2021/06/29/biogen-fda-alzheimers-drug-approval-aduhelm-project-onyx/)
+- [Students Flee Field as Computer 'Fad Fades' (1987)](https://pessimistsarchive.substack.com/p/1d7a427e-5028-470d-906d-6c3f9980d1de)
 - [World’s largest ever four day week trial in Iceland ‘overwhelming success’](https://www.independent.co.uk/news/uk/politics/four-day-week-pilot-iceland-b1877171.html)
 - [Stockfish 14](https://stockfishchess.org/blog/2021/stockfish-14/)
-- [PID Controller for controlling the number of servers in a data-center](https://gist.github.com/pushpendre/359706010c20bc1d18123510749f5da5)
-- [Speeding Up the Webcola Graph Viz Library with Rust and WebAssembly](https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/)
-- [Writing a SQLite clone from scratch in C (2017)](https://cstack.github.io/db_tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
