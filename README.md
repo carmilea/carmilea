@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism](https://github.com/rustviz/rustviz)
+- [Audacity Fork Without Any Sentry Telemetry or Crash Reporting](https://github.com/cookiengineer/audacity)
 - [Rescale (YC W12) Is Hiring Product Managers](https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [Quantum Computing just got desktop sized](https://www.redsharknews.com/quantum-computing-just-got-desktop-sized)
 - [Ardour -Audacity Alternative to Record, Edit, and Mix on Linux, OS X and Windows](https://ardour.org/)
-- [Writing a Firmware-Only Keylogger](https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html)
-- [Transfer.sh – Easy file sharing from the command line](https://transfer.sh)
-- [Ever Given: Egypt agrees deal to release ship that blocked Suez Canal](https://www.bbc.com/news/world-middle-east-57719551)
 <!-- BLOG-POST-LIST:END -->
 
 ---
