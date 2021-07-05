@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The perils of PR](https://www.economist.com/business/2021/07/03/the-perils-of-pr)
-- [Computing Performance on the Horizon](https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html)
-- [Show HN: Lego Brick Scanner – open-source Boilerplate](https://github.com/GistNoesis/BrickRegistration)
-- [The Future of Deep Learning Is Photonic](https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic)
-- [Music for Programming](https://www.musicforprogramming.net/)
+- [Show HN: RSS feeds for arbitrary websites using CSS selectors](https://feed-me-up-scotty.vincenttunru.com/)
+- [Seeking advice in startups – a framework built on mastery and method](https://nuances.substack.com/p/seeking-advice-in-startups)
+- [Barclays stops UK clients from sending funds to Binance](https://www.ft.com/content/abc04cc0-ea53-4ecb-8c1e-49c85014fa3f)
+- [Long Covid: How It Keeps Us Sick](https://www.quantamagazine.org/long-covid-how-it-keeps-us-sick-20210701/)
+- [Echo Dots store a wealth of data, even after you reset them](https://www.wired.com/story/amazon-echo-dots-store-user-data-even-after-reset/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
