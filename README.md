@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In praise of the novelization, pop fiction’s least reputable genre](https://quillette.com/2021/06/28/in-praise-of-the-novelization-pop-fictions-least-reputable-genre/)
+- [Rescale (YC W12) Is Hiring Product Managers](https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [Ardour -Audacity Alternative to Record, Edit, and Mix on Linux, OS X and Windows](https://ardour.org/)
 - [Writing a Firmware-Only Keylogger](https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html)
 - [Transfer.sh – Easy file sharing from the command line](https://transfer.sh)
 - [Ever Given: Egypt agrees deal to release ship that blocked Suez Canal](https://www.bbc.com/news/world-middle-east-57719551)
-- [YC is hiring our first data engineer](https://www.ycombinator.com/companies/y-combinator/jobs/5ZIoy9J-first-data-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
