@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Best Practices for a New Project in 2021](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/)
+- [GitHub Copilot generates valid secrets](https://twitter.com/alexjc/status/1411966249437995010)
+- [Indiscriminate messaging and chatcontrol: Last chance to protest](https://www.patrick-breyer.de/en/indiscriminate-messaging-and-chatcontrol-last-chance-to-protest/)
+- [Probably Approximately Correct – A Formal Theory of Learning (2014)](https://jeremykun.com/2014/01/02/probably-approximately-correct-a-formal-theory-of-learning/)
 - [Hydrogen fuel cell cars: everything you need to know](https://www.bmw.com/en/innovation/how-hydrogen-fuel-cell-cars-work.html)
-- [Audacity 3.0 called spyware over data collection changes by new owner](https://appleinsider.com/articles/21/07/04/open-source-audacity-deemed-spyware-over-data-collection-changes)
-- [Iron Finance’s DeFi bank run – and how Mark Cuban got ‘rekted’](https://forkast.news/iron-finances-defi-bank-run-why-mark-cuban-got-rekted/)
-- [Lemon Law](https://en.wikipedia.org/wiki/Lemon_law)
-- [Finra Orders Record Financial Penalties Against Robinhood Financial LLC](https://www.finra.org/media-center/newsreleases/2021/finra-orders-record-financial-penalties-against-robinhood-financial)
 <!-- BLOG-POST-LIST:END -->
 
 ---
