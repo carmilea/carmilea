@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YC is hiring our first Data Engineer](https://www.ycombinator.com/companies/y-combinator/jobs/5ZIoy9J-first-data-engineer)
+- [European Citizen's Initiative for UBI](https://eci-ubi.eu/)
+- [Audacity: Clarification of Privacy Policy](https://github.com/audacity/audacity/discussions/1225)
 - [Show HN: RSS feeds for arbitrary websites using CSS selectors](https://feed-me-up-scotty.vincenttunru.com/)
-- [Seeking advice in startups – a framework built on mastery and method](https://nuances.substack.com/p/seeking-advice-in-startups)
-- [Barclays stops UK clients from sending funds to Binance](https://www.ft.com/content/abc04cc0-ea53-4ecb-8c1e-49c85014fa3f)
-- [Long Covid: How It Keeps Us Sick](https://www.quantamagazine.org/long-covid-how-it-keeps-us-sick-20210701/)
-- [Echo Dots store a wealth of data, even after you reset them](https://www.wired.com/story/amazon-echo-dots-store-user-data-even-after-reset/)
+- [European plan for gigantic new gravitational wave detector passes milestone](https://www.sciencemag.org/news/2021/07/european-plan-gigantic-new-gravitational-wave-detector-passes-milestone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
