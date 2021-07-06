@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spenmo (YC S20) Is Hiring](https://www.ycombinator.com/companies/spenmo/jobs/PC8vpRY-vp-engineering-core)
+- [Student gets Windows 11 running on a Windows Phone](https://www.theverge.com/2021/7/1/22558999/microsoft-windows-11-windows-phone-port-developer-engineer)
+- [Leaving Google](http://neugierig.org/software/blog/2021/07/leaving-google.html)
 - [Mind-controlling parasite makes hyena cubs more reckless around lions](https://www.nationalgeographic.com/animals/article/mind-controlling-parasite-makes-hyena-cubs-more-reckless-around-lions)
 - [Coreutils, written in the V language](https://github.com/vlang/coreutils)
-- [Compare AsciiDoc and Markdown](https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/)
-- [“I wish I could have licensed the Id source code releases as BSD”](https://twitter.com/ID_AA_Carmack/status/1412271091393994754)
-- [OSSU: Path to a free, self-taught education in computer science](https://github.com/ossu/computer-science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
