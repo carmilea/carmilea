@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The cost of cyber insurance increased 32 per cent last year](https://www.theregister.com/2021/07/05/cyber_insurance_report/)
-- [Bitcoin mining heating NY lake and emitting greenhouse gases](https://markets.businessinsider.com/news/stocks/bitcoin-mining-seneca-lake-finger-lakes-new-york-hot-tub-2021-7)
-- [Poisson's Equation is the most powerful tool not yet in your toolbox](https://mattferraro.dev/posts/poissons-equation)
-- [Launch HN: Enso (YC S21) – Visual programming and workflow tool for data science](https://news.ycombinator.com/item?id=27748738)
-- [Ask HN: Who is looking for a co-founder? (July 2021)](https://news.ycombinator.com/item?id=27748680)
+- [Windows 11 laptops will REQUIRE front facing camera in 2023](https://www.tweaktown.com/news/80258/uh-so-windows-11-laptops-will-require-front-facing-camera-in-2023/index.html)
+- [Ask HN: How aware are you about building decentralised software on blockchain?](https://news.ycombinator.com/item?id=27750117)
+- [Up to 1,500 businesses affected by ransomware attack, U.S. firm's CEO says](https://www.reuters.com/technology/hackers-demand-70-million-liberate-data-held-by-companies-hit-mass-cyberattack-2021-07-05/)
+- [We Increased Our Lighthouse Score by 17 Points by Making Our Images Larger](https://blog.rentpathcode.com/we-increased-our-lighthouse-score-by-17-points-by-making-our-images-larger-83f60b33a942)
+- [Posix Hardlink Heartache](http://michael.orlitzky.com/articles/posix_hardlink_heartache.xhtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
