@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Like a Hot Tub” Bitcoin Mining Effect on Seneca Lake](https://arstechnica.com/tech-policy/2021/07/bitcoin-power-plant-is-turning-a-12000-year-old-glacial-lake-into-a-hot-tub/)
-- [How to Build a Small Town in Texas](https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas)
+- [On Leaving UNC](https://scatter.wordpress.com/2021/07/03/on-leaving-unc/#more-17755)
+- [Dumping and Extracting the SpaceX Starlink User Terminal Firmware](https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/)
+- [How to build a small town in Texas](https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas)
 - [As climate warms, a rearrangement of world’s plant life looms](https://e360.yale.edu/features/as-climate-warms-a-rearrangement-of-worlds-plant-life-looms)
-- [OneSignal (YC S11) is hiring engineers in California, New York, Texas, UK](https://onesignal.com/careers)
-- [Kepler telescope reveals population of free-floating planets in deep space](https://phys.org/news/2021-07-kepler-telescope-glimpses-population-free-floating.html)
+- [Open 3D Engine](https://o3de.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
