@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OneSignal (YC S11) Is Hiring Engineers in California, New York, Texas, & the UK](https://onesignal.com/careers)
-- [Pentagon Scraps $10B Cloud Deal Award to Microsoft](https://www.bloomberg.com/news/articles/2021-07-06/pentagon-scraps-10-billion-cloud-contract-award-to-microsoft)
-- [Workspace Trust in VS Code](https://code.visualstudio.com/blogs/2021/07/06/workspace-trust)
-- [Pentagon cancels $10B Jedi cloud contract](https://www.cnbc.com/2021/07/06/pentagon-cancels-10-billion-jedi-cloud-contract.html)
-- [Tell HN: YC will help you find a co-founder](https://news.ycombinator.com/item?id=27750298)
+- [“Like a Hot Tub” Bitcoin Mining Effect on Seneca Lake](https://arstechnica.com/tech-policy/2021/07/bitcoin-power-plant-is-turning-a-12000-year-old-glacial-lake-into-a-hot-tub/)
+- [How to Build a Small Town in Texas](https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas)
+- [As climate warms, a rearrangement of world’s plant life looms](https://e360.yale.edu/features/as-climate-warms-a-rearrangement-of-worlds-plant-life-looms)
+- [OneSignal (YC S11) is hiring engineers in California, New York, Texas, UK](https://onesignal.com/careers)
+- [Kepler telescope reveals population of free-floating planets in deep space](https://phys.org/news/2021-07-kepler-telescope-glimpses-population-free-floating.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
