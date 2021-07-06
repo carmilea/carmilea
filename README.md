@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Roll Your Own Minilanguages with Mini-Interpreters (1989)](http://www.textfiles.com/computers/abrash.lst)
+- [Roll your own minilanguages with mini-interpreters (1989)](http://www.textfiles.com/computers/abrash.lst)
 - [Apple Reportedly Storing over 8M Terabytes of iCloud Data on Google Servers](https://www.macrumors.com/2021/06/29/icloud-data-stored-on-google-cloud-increasing/)
-- [The long history of 'Bombay time' and resistance to colonial rule](https://www.atlasobscura.com/articles/bombay-time)
+- [No More Movies](https://jayriverlong.github.io/2021/07/05/movies.html)
 - [A primer on carbon pricing and carbon border adjustments](https://economics.td.com/esg-carbon-report)
 - [RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism](https://github.com/rustviz/rustviz)
 <!-- BLOG-POST-LIST:END -->
