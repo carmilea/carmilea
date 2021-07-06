@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DoD cancels $10B Jedi contract](https://www.fedscoop.com/dod-cancels-10b-jedi-contract/)
+- [End Scrum Now](https://endscrumnow.com)
+- [Instant water cleaning method ‘millions of times’ better: study](https://www.cardiff.ac.uk/news/view/2530949-instant-water-cleaning-method-millions-of-times-better-than-commercial-approach)
 - [Substack (YC W18) is hiring engineers to build the future of writing](https://substack.com/jobs?utm_source=hn&utm_content=eng)
 - [European Parliament approves mass surveillance of private communication](https://www.patrick-breyer.de/en/chatcontrol-european-parliament-approves-mass-surveillance-of-private-communications/)
-- [Chime has been suddenly closing accounts, not returning customers’ money](https://www.propublica.org/article/chime)
-- [Fake Tesla, Apple stocks have started trading on blockchains](https://www.bloomberg.com/news/articles/2021-07-06/fake-tesla-apple-stocks-have-started-trading-on-blockchains)
+- [A new brain implant automatically detects and kills pain in real time](https://singularityhub.com/2021/06/29/a-new-brain-implant-automatically-detects-and-kills-pain-in-real-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
