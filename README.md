@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 laptops will REQUIRE front facing camera in 2023](https://www.tweaktown.com/news/80258/uh-so-windows-11-laptops-will-require-front-facing-camera-in-2023/index.html)
-- [Ask HN: How aware are you about building decentralised software on blockchain?](https://news.ycombinator.com/item?id=27750117)
-- [Up to 1,500 businesses affected by ransomware attack, U.S. firm's CEO says](https://www.reuters.com/technology/hackers-demand-70-million-liberate-data-held-by-companies-hit-mass-cyberattack-2021-07-05/)
-- [We Increased Our Lighthouse Score by 17 Points by Making Our Images Larger](https://blog.rentpathcode.com/we-increased-our-lighthouse-score-by-17-points-by-making-our-images-larger-83f60b33a942)
-- [Posix Hardlink Heartache](http://michael.orlitzky.com/articles/posix_hardlink_heartache.xhtml)
+- [OneSignal (YC S11) Is Hiring Engineers in California, New York, Texas, & the UK](https://onesignal.com/careers)
+- [Pentagon Scraps $10B Cloud Deal Award to Microsoft](https://www.bloomberg.com/news/articles/2021-07-06/pentagon-scraps-10-billion-cloud-contract-award-to-microsoft)
+- [Workspace Trust in VS Code](https://code.visualstudio.com/blogs/2021/07/06/workspace-trust)
+- [Pentagon cancels $10B Jedi cloud contract](https://www.cnbc.com/2021/07/06/pentagon-cancels-10-billion-jedi-cloud-contract.html)
+- [Tell HN: YC will help you find a co-founder](https://news.ycombinator.com/item?id=27750298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
