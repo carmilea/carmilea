@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Peter Thiel’s $5B Roth IRA Tax Haven Is the Hottest New Investing Tip](https://www.vice.com/en/article/jg8vx4/peter-thiel-5-billion-roth-ira-tax-investing-strategy)
+- [30 years old with no career](https://news.ycombinator.com/item?id=27743303)
 - [The Long History of 'Bombay Time' and Resistance to Colonial Rule](https://www.atlasobscura.com/articles/bombay-time)
 - [Tough Turban: an open-source design for turban-wearing motorcyclists](https://toughturban.com/)
 - [A primer on carbon pricing and carbon border adjustments](https://economics.td.com/esg-carbon-report)
-- [RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism](https://github.com/rustviz/rustviz)
-- [Audacity fork without any sentry telemetry or crash reporting](https://github.com/cookiengineer/audacity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
