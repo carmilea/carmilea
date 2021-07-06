@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How many robots does it take to run a grocery store?](https://www.youtube.com/watch?v=ssZ_8cqfBlE)
-- [Arachnophilia](https://arachnoid.com/arachnophilia/)
-- [150 people fatally shot in more than 400 shootings over the 4th of July weekend](https://www.cnn.com/2021/07/05/us/us-shootings-july-fourth-weekend/index.html)
-- [The Case Against the Covid-19 Lab Leak Theory](https://newrepublic.com/article/162689/bats-covid-19-lab-leak-theory)
-- [Twitter has lost liability protection in India, government says](https://techcrunch.com/2021/07/06/twitter-has-lost-liability-protection-in-india-government-says/)
+- [Author of popular Audacity fork harassed by 4chan](https://github.com/temporary-audacity/audacity/issues/48)
+- [Console Do Not Track](https://consoledonottrack.com)
+- [Kaspersky Password Manager: All your passwords are belong to us](https://donjon.ledger.com/kaspersky-password-manager/)
+- [Killer Flying Robots Are Here. What Do We Do Now?](https://foreignpolicy.com/2021/07/05/killer-flying-robots-drones-autonomous-ai-artificial-intelligence-facial-recognition-targets-turkey-libya/)
+- [In Karachi, hot weather is normal but 44C feels like you’re going to die](https://www.theguardian.com/environment/commentisfree/2021/jul/04/in-karachi-hot-weather-is-normal-but-44c-feels-like-youre-going-to-die)
 <!-- BLOG-POST-LIST:END -->
 
 ---
