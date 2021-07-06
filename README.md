@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Primer on Carbon Pricing and Carbon Border Adjustments](https://economics.td.com/esg-carbon-report)
+- [The Long History of 'Bombay Time' and Resistance to Colonial Rule](https://www.atlasobscura.com/articles/bombay-time)
+- [Tough Turban: an open-source design for turban-wearing motorcyclists](https://toughturban.com/)
+- [A primer on carbon pricing and carbon border adjustments](https://economics.td.com/esg-carbon-report)
 - [RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism](https://github.com/rustviz/rustviz)
 - [Audacity fork without any sentry telemetry or crash reporting](https://github.com/cookiengineer/audacity)
-- [Rescale (YC W12) Is Hiring Product Managers](https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Student designs device that stops blood loss from stab wounds](https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
