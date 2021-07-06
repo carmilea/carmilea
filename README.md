@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Israel data reportedly shows efficacy drop of Pfizer-BioNTech for delta variant](https://fortune.com/2021/07/05/israel-data-plunge-efficacy-pfizer-biontech-vaccine-delta-variant/)
+- [Audio editor Audacity denies spyware accusation](https://www.bbc.com/news/technology-57721967)
+- [Evidence found on a second Indian activist’s computer was planted, report says](https://www.washingtonpost.com/world/2021/07/06/bhima-koregaon-case-india/)
+- [Nintendo announces Switch OLED Model](https://www.nintendo.com/switch/oled-model/)
 - [Welcome to dystopia: getting fired from your job as an Amazon worker by an app](https://www.theguardian.com/commentisfree/2021/jul/05/amazon-worker-fired-app-dystopia)
-- [Fuzzbuzz (YC W19) is hiring C/C++ Systems Engineer to work on our fuzzing engine](https://angel.co/company/fuzzbuzz/jobs/1481052-software-engineer-fuzzing-engine)
-- [How to Migrate a Git Repository from GitHub to Bitbucket](https://www.bluelabellabs.com/blog/how-to-migrate-git-repository-from-github-to-bitbucket/)
-- [Libgccjit AOT Codegen for Rustc](https://github.com/antoyo/rustc_codegen_gcc)
+- [Thomas Aquinas' works with English and original Latin presented in parallel](https://aquinas.cc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
