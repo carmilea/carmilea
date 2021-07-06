@@ -55,7 +55,7 @@
 - [Student gets Windows 11 running on a Windows Phone](https://www.theverge.com/2021/7/1/22558999/microsoft-windows-11-windows-phone-port-developer-engineer)
 - [Leaving Google](http://neugierig.org/software/blog/2021/07/leaving-google.html)
 - [Mind-controlling parasite makes hyena cubs more reckless around lions](https://www.nationalgeographic.com/animals/article/mind-controlling-parasite-makes-hyena-cubs-more-reckless-around-lions)
-- [Coreutils, written in the V language](https://github.com/vlang/coreutils)
+- [Compare AsciiDoc and Markdown](https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
