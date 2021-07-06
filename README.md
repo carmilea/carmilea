@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Roll your own minilanguages with mini-interpreters (1989)](http://www.textfiles.com/computers/abrash.lst)
-- [Apple Reportedly Storing over 8M Terabytes of iCloud Data on Google Servers](https://www.macrumors.com/2021/06/29/icloud-data-stored-on-google-cloud-increasing/)
-- [No More Movies](https://jayriverlong.github.io/2021/07/05/movies.html)
-- [A primer on carbon pricing and carbon border adjustments](https://economics.td.com/esg-carbon-report)
-- [RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism](https://github.com/rustviz/rustviz)
+- [Mind-controlling parasite makes hyena cubs more reckless around lions](https://www.nationalgeographic.com/animals/article/mind-controlling-parasite-makes-hyena-cubs-more-reckless-around-lions)
+- [Coreutils, written in the V language](https://github.com/vlang/coreutils)
+- [Compare AsciiDoc and Markdown](https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/)
+- [“I wish I could have licensed the Id source code releases as BSD”](https://twitter.com/ID_AA_Carmack/status/1412271091393994754)
+- [OSSU: Path to a free, self-taught education in computer science](https://github.com/ossu/computer-science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
