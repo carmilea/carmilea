@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Leaving UNC](https://scatter.wordpress.com/2021/07/03/on-leaving-unc/#more-17755)
-- [Dumping and Extracting the SpaceX Starlink User Terminal Firmware](https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/)
+- [A new brain implant automatically detects and kills pain in real time](https://singularityhub.com/2021/06/29/a-new-brain-implant-automatically-detects-and-kills-pain-in-real-time/)
+- [Dumping and extracting the SpaceX Starlink user terminal firmware](https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/)
 - [How to build a small town in Texas](https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas)
 - [As climate warms, a rearrangement of world’s plant life looms](https://e360.yale.edu/features/as-climate-warms-a-rearrangement-of-worlds-plant-life-looms)
 - [Open 3D Engine](https://o3de.org/)
