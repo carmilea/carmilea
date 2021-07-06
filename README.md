@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Audio editor Audacity denies spyware accusation](https://www.bbc.com/news/technology-57721967)
-- [Evidence found on a second Indian activist’s computer was planted, report says](https://www.washingtonpost.com/world/2021/07/06/bhima-koregaon-case-india/)
-- [Nintendo announces Switch OLED Model](https://www.nintendo.com/switch/oled-model/)
-- [Welcome to dystopia: getting fired from your job as an Amazon worker by an app](https://www.theguardian.com/commentisfree/2021/jul/05/amazon-worker-fired-app-dystopia)
-- [Thomas Aquinas' works with English and original Latin presented in parallel](https://aquinas.cc)
+- [The cost of cyber insurance increased 32 per cent last year](https://www.theregister.com/2021/07/05/cyber_insurance_report/)
+- [Bitcoin mining heating NY lake and emitting greenhouse gases](https://markets.businessinsider.com/news/stocks/bitcoin-mining-seneca-lake-finger-lakes-new-york-hot-tub-2021-7)
+- [Poisson's Equation is the most powerful tool not yet in your toolbox](https://mattferraro.dev/posts/poissons-equation)
+- [Launch HN: Enso (YC S21) – Visual programming and workflow tool for data science](https://news.ycombinator.com/item?id=27748738)
+- [Ask HN: Who is looking for a co-founder? (July 2021)](https://news.ycombinator.com/item?id=27748680)
 <!-- BLOG-POST-LIST:END -->
 
 ---
