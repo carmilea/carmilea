@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Case Against the Covid-19 Lab Leak Theory](https://newrepublic.com/article/162689/bats-covid-19-lab-leak-theory)
+- [Twitter has lost liability protection in India, government says](https://techcrunch.com/2021/07/06/twitter-has-lost-liability-protection-in-india-government-says/)
 - [Spenmo (YC S20) Is Hiring](https://www.ycombinator.com/companies/spenmo/jobs/PC8vpRY-vp-engineering-core)
 - [Student gets Windows 11 running on a Windows Phone](https://www.theverge.com/2021/7/1/22558999/microsoft-windows-11-windows-phone-port-developer-engineer)
 - [Leaving Google](http://neugierig.org/software/blog/2021/07/leaving-google.html)
-- [Mind-controlling parasite makes hyena cubs more reckless around lions](https://www.nationalgeographic.com/animals/article/mind-controlling-parasite-makes-hyena-cubs-more-reckless-around-lions)
-- [Compare AsciiDoc and Markdown](https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
