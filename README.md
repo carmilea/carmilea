@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Israel data reportedly shows efficacy drop of Pfizer-BioNTech for delta variant](https://fortune.com/2021/07/05/israel-data-plunge-efficacy-pfizer-biontech-vaccine-delta-variant/)
+- [Fuzzbuzz (YC W19) is hiring C/C++ Systems Engineer to work on our fuzzing engine](https://angel.co/company/fuzzbuzz/jobs/1481052-software-engineer-fuzzing-engine)
+- [Libgccjit AOT Codegen for Rustc](https://github.com/antoyo/rustc_codegen_gcc)
 - [Author of popular Audacity fork harassed by 4chan](https://github.com/temporary-audacity/audacity/issues/48)
 - [Console Do Not Track](https://consoledonottrack.com)
-- [Kaspersky Password Manager: All your passwords are belong to us](https://donjon.ledger.com/kaspersky-password-manager/)
-- [Killer Flying Robots Are Here. What Do We Do Now?](https://foreignpolicy.com/2021/07/05/killer-flying-robots-drones-autonomous-ai-artificial-intelligence-facial-recognition-targets-turkey-libya/)
-- [In Karachi, hot weather is normal but 44C feels like you’re going to die](https://www.theguardian.com/environment/commentisfree/2021/jul/04/in-karachi-hot-weather-is-normal-but-44c-feels-like-youre-going-to-die)
 <!-- BLOG-POST-LIST:END -->
 
 ---
