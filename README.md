@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WarpURL – URL Shorteners Latency Monitoring](https://link.warpurl.com/XbLJKQ)
-- [Show HN: Open-source real-time transcription playground (React, Python, GCP)](https://github.com/saharmor/realtime-transcription-playground)
-- [Show HN: SQLite query inside a Bash function](https://news.ycombinator.com/item?id=27762201)
-- [Social Media Platforms as Common Carriers [pdf]](https://www2.law.ucla.edu/volokh/carrier.pdf)
-- [JanusGraph – Distributed, open source, scalable graph database](https://janusgraph.org/)
+- [Pachyderm (YC W15) Is Hiring Senior Engineers, DevOps, PM's, and SDR's](https://www.pachyderm.com/careers/#positions)
+- [Reverse Engineer the BL602 WiFi Driver](https://lupyuen.github.io/articles/wifi)
+- [The Old Computer Challenge](https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html)
+- [SVG favicons have some cool benefits](https://austingil.com/svg-favicons/)
+- [The Cost of the “New Way to Message on Instagram”](https://www.eff.org/deeplinks/2020/10/cost-new-way-message-instagram)
 <!-- BLOG-POST-LIST:END -->
 
 ---
