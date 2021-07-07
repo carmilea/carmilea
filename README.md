@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform](https://www.paperspace.com/careers)
+- [Can Bitcoin Grow Faster Than the Internet?](https://www.nasdaq.com/articles/can-bitcoin-grow-faster-than-the-internet-2021-05-07)
+- [DoorDash removing 1-year cliff for equity grants](https://blog.doordash.com/aligning-reward-with-impact-an-update-to-our-equity-vesting-approach-96bf61d21eda)
 - [Undocumented x86 instructions to control the CPU at the microarchitecture level [pdf]](https://raw.githubusercontent.com/chip-red-pill/udbgInstr/main/paper/undocumented_x86_insts_for_uarch_control.pdf)
 - [Gibraltar, World’s Only Airport Runway Intersecting a Road – Amusing Planet](https://www.amusingplanet.com/2011/11/gibraltar-airport-worlds-only-airport.html?m=1)
-- [An Intern’s Guide to Trading](https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01)
-- [Corona Game: A simulation of how Covid-19 spreads](https://koronahra.cz/game)
-- [A Call to Minimize Distraction and Respect Users’ Attention (2013)](http://www.minimizedistraction.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
