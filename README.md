@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Algolia (YC W14) is hiring to scale its search engine](https://www.algolia.com/careers/senior-software-engineer-distributed-systems-search-core-london-paris-remote-dublin-bucharest)
+- [Libimobiledevice – open-source library to communicate with iOS devices natively](https://libimobiledevice.org/)
+- [RTL: WTF: Read the web like Right-to-Left readers do](https://rtl.wtf/)
+- [Strong quantum computational advantage using a superconducting quantum processor](https://arxiv.org/abs/2106.14734)
 - [Kaseya Hack: Incident Overview and Technical Details](https://helpdesk.kaseya.com/hc/en-gb/articles/4403584098961)
-- [Grafica Obscura – Collected Computer Graphics Hacks (1977-1996)](http://graficaobscura.com/)
-- [Psilocybin repairs 'brains cells damaged by depression' in mice: study](https://www.leafie.co.uk/news/psilocybin-repairs-brains-cells-depression-yale-study-shows/)
-- [Throw It in the Pile](https://tedium.co/2020/01/23/employment-resume-history/)
-- [How useful was the Netflix Prize challenge for Netflix?](https://www.quora.com/How-useful-was-the-Netflix-Prize-challenge-for-Netflix/answer/Xavier-Amatriain?share=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
