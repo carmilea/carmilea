@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Runway – Create Impossible Video](https://runwayml.com/)
+- [What if biohackers injected themselves with mRNA?](https://www.economist.com/what-if/2021/07/03/what-if-biohackers-injected-themselves-with-mrna)
 - [Arduino Pro hardware is not open-source hardware](https://blog.adafruit.com/2021/07/07/arduino-pro-hardware-is-not-open-source-hardware/)
-- [We need a Butlerian Jihad against AI](https://erikhoel.substack.com/p/we-need-a-butlerian-jihad-against)
-- [How to Live Under Capitalism, According to Stardew Valley](https://catapult.co/stories/chris-karnadi-capitalism-community-stardew-valley-video-games)
-- [Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform](https://www.paperspace.com/careers)
-- [Undocumented x86 instructions to control the CPU at the microarchitecture level [pdf]](https://raw.githubusercontent.com/chip-red-pill/udbgInstr/main/paper/undocumented_x86_insts_for_uarch_control.pdf)
+- [Paperspace (YC W15) is hiring engineers to build a modern MLOps platform](https://www.paperspace.com/careers)
+- [DoorDash removing 1-year cliff for equity grants](https://blog.doordash.com/aligning-reward-with-impact-an-update-to-our-equity-vesting-approach-96bf61d21eda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
