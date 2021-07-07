@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Evidently AI (YC S21) – Track and Debug ML Models in Production](https://news.ycombinator.com/item?id=27760627)
+- [Project Oberon Emulator in JavaScript and Java](https://schierlm.github.io/OberonEmulator/)
 - [SQL Join Types Explained in Visuals](https://dataschool.com/how-to-teach-people-sql/sql-join-types-explained-visually/)
+- [Debit Card Apps for Kids Are Collecting a Shocking Amount of Personal Data](https://www.vice.com/en/article/4avqx3/debit-card-apps-for-kids-are-collecting-a-shocking-amount-of-personal-data)
 - [Bonsai (YC W16) Is Hiring a Head of Product (Remote)](https://www.ycombinator.com/companies/bonsai/jobs/Yth0lWc-head-of-product-remote)
-- [It costs $0.17 to visit reddit.com on mobile in Canada](https://whatdoesmysitecost.com/test/210707_AiDc36_6f01cdff93b8299725303f88e60febbc)
-- [First new vax in 30 years?:-)](http://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html)
-- [YouTube’s recommender AI still a horrorshow, finds major crowdsourced study](https://techcrunch.com/2021/07/07/youtubes-recommender-ai-still-a-horrorshow-finds-major-crowdsourced-study/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
