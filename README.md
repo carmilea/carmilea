@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript at Google (2018)](http://neugierig.org/software/blog/2018/09/typescript-at-google.html)
+- [Grafica Obscura – Collected Computer Graphics Hacks (1977-1996-Ish)](http://graficaobscura.com/)
+- [Psilocybin repairs 'brains cells damaged by depression' Yale study shows](https://www.leafie.co.uk/news/psilocybin-repairs-brains-cells-depression-yale-study-shows/)
 - [How useful was the Netflix Prize challenge for Netflix?](https://www.quora.com/How-useful-was-the-Netflix-Prize-challenge-for-Netflix/answer/Xavier-Amatriain?share=1)
 - [Tencent Deploys Facial Recognition to Detect Minors Gaming at Night](https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-)
 - [The humble water heater could be the savior of our energy infrastructure woes](https://www.salon.com/2021/07/04/the-humble-water-heater-could-be-the-savior-of-our-energy-infrastructure-woes/)
-- [Instant water cleaning method ‘millions of times’ better: study](https://www.cardiff.ac.uk/news/view/2530949-instant-water-cleaning-method-millions-of-times-better-than-commercial-approach)
 <!-- BLOG-POST-LIST:END -->
 
 ---
