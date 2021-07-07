@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [End Scrum Now](https://endscrumnow.com)
+- [How useful was the Netflix Prize challenge for Netflix?](https://www.quora.com/How-useful-was-the-Netflix-Prize-challenge-for-Netflix/answer/Xavier-Amatriain?share=1)
+- [The humble water heater could be the savior of our energy infrastructure woes](https://www.salon.com/2021/07/04/the-humble-water-heater-could-be-the-savior-of-our-energy-infrastructure-woes/)
 - [Instant water cleaning method ‘millions of times’ better: study](https://www.cardiff.ac.uk/news/view/2530949-instant-water-cleaning-method-millions-of-times-better-than-commercial-approach)
 - [Substack (YC W18) is hiring engineers to build the future of writing](https://substack.com/jobs?utm_source=hn&utm_content=eng)
 - [European Parliament approves mass surveillance of private communication](https://www.patrick-breyer.de/en/chatcontrol-european-parliament-approves-mass-surveillance-of-private-communications/)
-- [A new brain implant automatically detects and kills pain in real time](https://singularityhub.com/2021/06/29/a-new-brain-implant-automatically-detects-and-kills-pain-in-real-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
