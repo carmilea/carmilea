@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Kaseya Hack: Incident Overview and Technical Details](https://helpdesk.kaseya.com/hc/en-gb/articles/4403584098961)
-- [Grafica Obscura – Collected Computer Graphics Hacks (1977-1996-Ish)](http://graficaobscura.com/)
-- [Psilocybin repairs 'brains cells damaged by depression' Yale study shows](https://www.leafie.co.uk/news/psilocybin-repairs-brains-cells-depression-yale-study-shows/)
-- [Delta Is Now the Dominant Coronavirus Variant in the U.S.: Coronavirus Updates](https://www.npr.org/sections/coronavirus-live-updates/2021/07/06/1013582342/delta-is-now-the-dominant-coronavirus-variant-in-the-u-s)
+- [Grafica Obscura – Collected Computer Graphics Hacks (1977-1996)](http://graficaobscura.com/)
+- [Psilocybin repairs 'brains cells damaged by depression' in mice: study](https://www.leafie.co.uk/news/psilocybin-repairs-brains-cells-depression-yale-study-shows/)
 - [How useful was the Netflix Prize challenge for Netflix?](https://www.quora.com/How-useful-was-the-Netflix-Prize-challenge-for-Netflix/answer/Xavier-Amatriain?share=1)
+- [Tencent deploys facial recognition to detect minors gaming at night](https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-)
 <!-- BLOG-POST-LIST:END -->
 
 ---
