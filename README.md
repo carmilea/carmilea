@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Ideas in Statistics That Have Powered the AI Revolution](https://news.columbia.edu/news/top-10-ideas-statistics-ai)
+- [Complex game worlds, simple text interfaces (2015)](https://egamebook.com/blog/complex-systems-simple-interface/)
 - [Launch HN: Evidently AI (YC S21) – Track and Debug ML Models in Production](https://news.ycombinator.com/item?id=27760627)
+- [Haiti’s President Is Assassinated](https://www.nytimes.com/live/2021/07/07/world/jovenel-moise-assassinated-killed)
 - [Project Oberon Emulator in JavaScript and Java](https://schierlm.github.io/OberonEmulator/)
-- [SQL Join Types Explained in Visuals](https://dataschool.com/how-to-teach-people-sql/sql-join-types-explained-visually/)
-- [Debit Card Apps for Kids Are Collecting a Shocking Amount of Personal Data](https://www.vice.com/en/article/4avqx3/debit-card-apps-for-kids-are-collecting-a-shocking-amount-of-personal-data)
-- [Bonsai (YC W16) Is Hiring a Head of Product (Remote)](https://www.ycombinator.com/companies/bonsai/jobs/Yth0lWc-head-of-product-remote)
 <!-- BLOG-POST-LIST:END -->
 
 ---
