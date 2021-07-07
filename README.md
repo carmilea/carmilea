@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Ideas in Statistics That Have Powered the AI Revolution](https://news.columbia.edu/news/top-10-ideas-statistics-ai)
-- [Complex game worlds, simple text interfaces (2015)](https://egamebook.com/blog/complex-systems-simple-interface/)
-- [Launch HN: Evidently AI (YC S21) – Track and Debug ML Models in Production](https://news.ycombinator.com/item?id=27760627)
-- [Haiti’s President Is Assassinated](https://www.nytimes.com/live/2021/07/07/world/jovenel-moise-assassinated-killed)
-- [Project Oberon Emulator in JavaScript and Java](https://schierlm.github.io/OberonEmulator/)
+- [Right to repair movement gains power in US and Europe](https://www.bbc.com/news/technology-57744091)
+- [Neurons Unexpectedly Encode Information in the Timing of Their Firing](https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/)
+- [Ketchum, Idaho, Has Plenty of Available Jobs, but Workers Can’t Afford Housing](https://www.wsj.com/articles/ketchum-idaho-has-plenty-of-available-jobs-but-workers-cant-afford-housing-11625659200)
+- [Microsoft Issues Emergency Patch for Windows Flaw](https://krebsonsecurity.com/2021/07/microsoft-issues-emergency-patch-for-windows-flaw/)
+- [Open 3D Engine Open Sourced by Amazon](https://aws.amazon.com/blogs/gametech/open-3d-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
