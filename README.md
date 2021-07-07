@@ -55,7 +55,7 @@
 - [A Call to Minimize Distraction and Respect Users’ Attention](http://www.minimizedistraction.com/)
 - [The first on-orbit fuel depot has been deployed](https://orbitalindex.com/archive/2021-07-07-Issue-124/#a-first-on-orbit-fuel-depot-has-been-deployed)
 - [The James Webb Space Telescope has passed the final mission analysis review](https://www.asc-csa.gc.ca/eng/satellites/jwst/news.asp)
-- [Pachyderm (YC W15) Is Hiring Senior Engineers, DevOps, PM's, and SDR's](https://www.pachyderm.com/careers/#positions)
+- [Pachyderm (YC W15) Is Hiring Senior Engineers, DevOps, PMs, and SDRs](https://www.pachyderm.com/careers/#positions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
