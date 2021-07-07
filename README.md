@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Right to repair movement gains power in US and Europe](https://www.bbc.com/news/technology-57744091)
-- [Neurons Unexpectedly Encode Information in the Timing of Their Firing](https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/)
-- [Ketchum, Idaho, Has Plenty of Available Jobs, but Workers Can’t Afford Housing](https://www.wsj.com/articles/ketchum-idaho-has-plenty-of-available-jobs-but-workers-cant-afford-housing-11625659200)
-- [Microsoft Issues Emergency Patch for Windows Flaw](https://krebsonsecurity.com/2021/07/microsoft-issues-emergency-patch-for-windows-flaw/)
-- [Open 3D Engine Open Sourced by Amazon](https://aws.amazon.com/blogs/gametech/open-3d-engine/)
+- [WarpURL – URL Shorteners Latency Monitoring](https://link.warpurl.com/XbLJKQ)
+- [Show HN: Open-source real-time transcription playground (React, Python, GCP)](https://github.com/saharmor/realtime-transcription-playground)
+- [Show HN: SQLite query inside a Bash function](https://news.ycombinator.com/item?id=27762201)
+- [Social Media Platforms as Common Carriers [pdf]](https://www2.law.ucla.edu/volokh/carrier.pdf)
+- [JanusGraph – Distributed, open source, scalable graph database](https://janusgraph.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
