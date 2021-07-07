@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Arduino Pro hardware is not open-source hardware](https://blog.adafruit.com/2021/07/07/arduino-pro-hardware-is-not-open-source-hardware/)
+- [We need a Butlerian Jihad against AI](https://erikhoel.substack.com/p/we-need-a-butlerian-jihad-against)
+- [How to Live Under Capitalism, According to Stardew Valley](https://catapult.co/stories/chris-karnadi-capitalism-community-stardew-valley-video-games)
 - [Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform](https://www.paperspace.com/careers)
-- [Can Bitcoin Grow Faster Than the Internet?](https://www.nasdaq.com/articles/can-bitcoin-grow-faster-than-the-internet-2021-05-07)
-- [DoorDash removing 1-year cliff for equity grants](https://blog.doordash.com/aligning-reward-with-impact-an-update-to-our-equity-vesting-approach-96bf61d21eda)
 - [Undocumented x86 instructions to control the CPU at the microarchitecture level [pdf]](https://raw.githubusercontent.com/chip-red-pill/udbgInstr/main/paper/undocumented_x86_insts_for_uarch_control.pdf)
-- [Gibraltar, World’s Only Airport Runway Intersecting a Road – Amusing Planet](https://www.amusingplanet.com/2011/11/gibraltar-airport-worlds-only-airport.html?m=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
