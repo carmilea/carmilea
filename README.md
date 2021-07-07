@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube’s recommender AI still a horrorshow, finds major crowdsourced study](https://techcrunch.com/2021/07/07/youtubes-recommender-ai-still-a-horrorshow-finds-major-crowdsourced-study/)
 - [Apollo 11 implementation of Trigonometric functions (1969)](https://fermatslibrary.com/s/apollo-11-implementation-of-trigonometric-functions)
 - [Show HN: One-on-one calls with your followers on Twitter](https://twixy.live/)
 - [Algolia (YC W14) is hiring to scale its search engine](https://www.algolia.com/careers/senior-software-engineer-distributed-systems-search-core-london-paris-remote-dublin-bucharest)
 - [macOS extensions are moving away from the kernel](https://eclecticlight.co/2021/07/07/extensions-are-moving-away-from-the-kernel/)
-- [Libimobiledevice – open-source library to communicate with iOS devices natively](https://libimobiledevice.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
