@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Undocumented x86 instructions to control the CPU at the microarchitecture level [pdf]](https://raw.githubusercontent.com/chip-red-pill/udbgInstr/main/paper/undocumented_x86_insts_for_uarch_control.pdf)
+- [Gibraltar, World’s Only Airport Runway Intersecting a Road – Amusing Planet](https://www.amusingplanet.com/2011/11/gibraltar-airport-worlds-only-airport.html?m=1)
 - [An Intern’s Guide to Trading](https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01)
-- [A Call to Minimize Distraction and Respect Users’ Attention](http://www.minimizedistraction.com/)
-- [The first on-orbit fuel depot has been deployed](https://orbitalindex.com/archive/2021-07-07-Issue-124/#a-first-on-orbit-fuel-depot-has-been-deployed)
-- [The James Webb Space Telescope has passed the final mission analysis review](https://www.asc-csa.gc.ca/eng/satellites/jwst/news.asp)
-- [Pachyderm (YC W15) Is Hiring Senior Engineers, DevOps, PMs, and SDRs](https://www.pachyderm.com/careers/#positions)
+- [Corona Game: A simulation of how Covid-19 spreads](https://koronahra.cz/game)
+- [A Call to Minimize Distraction and Respect Users’ Attention (2013)](http://www.minimizedistraction.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
