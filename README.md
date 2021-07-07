@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Data-intensive Applications with MindsDB and NEAR](https://www.youtube.com/watch?v=nplOJpzCDMk)
 - [Modern Data Architecture for AI and Analytics with SAS and SingleStore](https://www.youtube.com/watch?v=owNNBS4eXKU)
 - [Deep Dive into New Capabilities of SingleStore](https://www.youtube.com/watch?v=uMM4zfnM2Bg)
 - [Opening Keynote with SingleStore CEO, Raj Verma](https://www.youtube.com/watch?v=765Fvr1f-9E)
 - [Bailey Hayes demonstrates #WebAssembly with #SingleStore](https://www.youtube.com/watch?v=AUz_3xNz2P0)
-- [Get started with #SingleStore #StoredProcedures in #Python](https://www.youtube.com/watch?v=2wD4yjNwlbk)
 <!-- YOUTUBE:END -->
 
 
