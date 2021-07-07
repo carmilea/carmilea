@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Intern’s Guide to Trading](https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01)
+- [A Call to Minimize Distraction and Respect Users’ Attention](http://www.minimizedistraction.com/)
+- [The first on-orbit fuel depot has been deployed](https://orbitalindex.com/archive/2021-07-07-Issue-124/#a-first-on-orbit-fuel-depot-has-been-deployed)
+- [The James Webb Space Telescope has passed the final mission analysis review](https://www.asc-csa.gc.ca/eng/satellites/jwst/news.asp)
 - [Pachyderm (YC W15) Is Hiring Senior Engineers, DevOps, PM's, and SDR's](https://www.pachyderm.com/careers/#positions)
-- [Reverse Engineer the BL602 WiFi Driver](https://lupyuen.github.io/articles/wifi)
-- [The Old Computer Challenge](https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html)
-- [SVG favicons have some cool benefits](https://austingil.com/svg-favicons/)
-- [The Cost of the “New Way to Message on Instagram”](https://www.eff.org/deeplinks/2020/10/cost-new-way-message-instagram)
 <!-- BLOG-POST-LIST:END -->
 
 ---
