@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It costs $0.17 to visit reddit.com on mobile in Canada](https://whatdoesmysitecost.com/test/210707_AiDc36_6f01cdff93b8299725303f88e60febbc)
 - [First new vax in 30 years?:-)](http://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html)
 - [YouTube’s recommender AI still a horrorshow, finds major crowdsourced study](https://techcrunch.com/2021/07/07/youtubes-recommender-ai-still-a-horrorshow-finds-major-crowdsourced-study/)
+- [SF's crime debate turns nasty](https://cwnevius.substack.com/p/sfs-crime-debate-turns-nasty)
 - [Apollo 11 implementation of Trigonometric functions (1969)](https://fermatslibrary.com/s/apollo-11-implementation-of-trigonometric-functions)
-- [Show HN: One-on-one calls with your followers on Twitter](https://twixy.live/)
-- [Algolia (YC W14) is hiring to scale its search engine](https://www.algolia.com/careers/senior-software-engineer-distributed-systems-search-core-london-paris-remote-dublin-bucharest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
