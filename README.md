@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dendron (YC W21) Is Hiring](https://wiki.dendron.so/notes/c378b702-7d49-4e91-be6e-b2078103c86e.html)
+- [A Roadmap to Interstellar Flight (2016)](https://arxiv.org/abs/1604.01356)
 - [A community-maintained fork of Phabricator](https://we.phorge.it/source/phorge/)
 - [We Got the Phone the FBI Secretly Sold to Criminals](https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor)
-- [Some Britons crave permanent pandemic lockdown](https://www.economist.com/britain/2021/07/10/some-britons-crave-permanent-pandemic-lockdown)
-- [We replaced rental brokers with software and filled 200 vacant apartments](https://caretaker.com/blog/we-replaced-rental-brokers-with-software-and-filled-200-vacant-apartments)
-- [When the Shoeshine Boys Talked Stocks It Was a Great Sell Signal in 1929 (1996)](https://archive.fortune.com/magazines/fortune/fortune_archive/1996/04/15/211503/index.htm)
+- [Hoard-of-bitfonts: bitmap fonts from disused operating systems](https://github.com/robhagemans/hoard-of-bitfonts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
