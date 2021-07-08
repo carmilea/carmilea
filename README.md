@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Out of Africa's midlife crisis: bottlenecks, crashes, and diversity](https://razib.substack.com/p/out-of-africas-midlife-crisis)
-- [Sports Owners Use Their Teams to Avoid Millions in Taxes](https://www.propublica.org/article/the-billionaire-playbook-how-sports-owners-use-their-teams-to-avoid-millions-in-taxes)
-- [You need Software Developers to believe in your project (2020)](https://iism.org/article/you-need-software-developers-to-believe-in-your-project-45)
-- [Launch HN: Hera (YC S21) – macOS app to prepare, join and take notes in meetings](https://news.ycombinator.com/item?id=27771091)
-- [Modern Treasury (YC S18) Is Hiring Software Engineers](https://jobs.ashbyhq.com/moderntreasury/dc9bcfe8-64ef-4377-ad74-0cdbca3be694)
+- [Why North America's killer heat scares me](https://www.bbc.co.uk/news/world-us-canada-57729502)
+- [Mozilla rolls out DoH to Canadian users of Firefox](https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/)
+- [Twitter begins hiring to comply with India's new rules](https://www.reuters.com/world/india/twitter-appoints-india-interim-compliance-exec-fill-other-jobs-soon-2021-07-08/)
+- [Removed video tutorials from YouTube because I increasingly lost sovereignty](https://solvespace.com/forum.pl?action=viewthread&parent=3756&tt=1625649760)
+- [15 States Reach a $4.5B Settlement with Oxycontin Maker Purdue Pharma](https://www.nytimes.com/2021/07/08/health/purdue-pharma-opioids-settlement.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
