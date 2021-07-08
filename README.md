@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is this the most quoted quote on HN?](https://news.ycombinator.com/item?id=27771186)
+- [Launch HN: Hera (YC S21) – macOS app to prepare, join and take notes in meetings](https://news.ycombinator.com/item?id=27771091)
 - [Modern Treasury (YC S18) Is Hiring Software Engineers](https://jobs.ashbyhq.com/moderntreasury/dc9bcfe8-64ef-4377-ad74-0cdbca3be694)
+- [Show HN: A New Python Linter](https://github.com/guilatrova/tryceratops)
 - [US-Canada heatwave 'virtually impossible' without warming](https://www.bbc.com/news/science-environment-57751918)
-- [Steve Wozniak Speaks on Right to Repair](https://www.youtube.com/watch?v=CN1djPMooVY&t=0s)
-- [Carbon removal hype is becoming a dangerous distraction](https://www.technologyreview.com/2021/07/08/1027908/carbon-removal-hype-is-a-dangerous-distraction-climate-change/)
-- [Juul, The e-cigarette company, bought an entire issue of a scholarly journal](https://prospect.org/health/juul-taking-academic-corruption-to-new-level/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
