@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EU to exempt private jets from carbon tax on jet fuel](https://order-order.com/2021/07/07/eu-to-exempt-private-jets-from-jet-fuel-tax/)
+- [Why geothermal isn't ubiquitous and how it might get that way](https://austinvernon.eth.link/blog/geothermal.html)
+- [EU draft exempts private jets, cargo from jet fuel tax](https://www.argusmedia.com/en/news/2231434-eu-draft-exempts-private-jets-cargo-from-jet-fuel-tax)
 - [Inside a 20-Watt Traveling Wave Tube Amplifier from Apollo](http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html)
 - [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform)
 - [Dendron (YC W21) Is Hiring](https://wiki.dendron.so/notes/c378b702-7d49-4e91-be6e-b2078103c86e.html)
-- [The Greatest Regex Trick Ever](http://rexegg.com/regex-best-trick.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
