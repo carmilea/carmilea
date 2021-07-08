@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Business Should Be Booming – If Only There Were Enough Workers for the Job](https://www.npr.org/2021/07/01/1012187548/business-should-be-booming-if-only-there-were-enough-workers-for-the-job)
+- [Birds are dying in the United States and no one knows why](https://www.dw.com/en/birds-are-dying-in-the-united-states-and-no-one-knows-why/a-58163063)
+- [Video podcasting (RSS) as an alternative to YouTubes walled garden](https://streambus.com/)
 - [California exodus is just a myth, UC research project finds](https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php?IPID=SFGate-HP-Editors-Picks)
 - [Senior Google exec opposes remote work, moves to New Zealand to work remotely](https://www.businessinsider.com/google-exec-reportedly-working-remote-after-opposing-it-for-staff-2021-7)
 - [Building a data team at a mid-stage startup](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
-- [Mezli (YC W21) is hiring a mechanical engineer to design autonomous restaurants](https://mezli.breezy.hr/p/ccb889373361-mechanical-design-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
