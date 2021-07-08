@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why North America's killer heat scares me](https://www.bbc.co.uk/news/world-us-canada-57729502)
-- [Mozilla rolls out DoH to Canadian users of Firefox](https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/)
-- [Twitter begins hiring to comply with India's new rules](https://www.reuters.com/world/india/twitter-appoints-india-interim-compliance-exec-fill-other-jobs-soon-2021-07-08/)
-- [Removed video tutorials from YouTube because I increasingly lost sovereignty](https://solvespace.com/forum.pl?action=viewthread&parent=3756&tt=1625649760)
-- [15 States Reach a $4.5B Settlement with Oxycontin Maker Purdue Pharma](https://www.nytimes.com/2021/07/08/health/purdue-pharma-opioids-settlement.html)
+- [A community-maintained fork of Phabricator](https://we.phorge.it/source/phorge/)
+- [We Got the Phone the FBI Secretly Sold to Criminals](https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor)
+- [Some Britons crave permanent pandemic lockdown](https://www.economist.com/britain/2021/07/10/some-britons-crave-permanent-pandemic-lockdown)
+- [We replaced rental brokers with software and filled 200 vacant apartments](https://caretaker.com/blog/we-replaced-rental-brokers-with-software-and-filled-200-vacant-apartments)
+- [When the Shoeshine Boys Talked Stocks It Was a Great Sell Signal in 1929 (1996)](https://archive.fortune.com/magazines/fortune/fortune_archive/1996/04/15/211503/index.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
