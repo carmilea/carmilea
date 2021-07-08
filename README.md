@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mezli (YC W21) is hiring a mechanical engineer to design autonomous restaurants](https://mezli.breezy.hr/p/ccb889373361-mechanical-design-engineer)
+- [GOP’s Big Tech plan ignores consumers, targets censorship of Republicans instead](https://arstechnica.com/tech-policy/2021/07/gops-big-tech-plan-ignores-consumers-targets-censorship-of-republicans-instead/)
+- [City of Bloomington's Raspberry Pi Based Employee Timeclocks](https://city-of-bloomington.github.io/timetrack/)
 - [List of Special Elevator Modes](https://elevation.fandom.com/wiki/List_of_elevator_special_modes)
-- [Yes, drinking more water may help you lose weight](https://hub.jhu.edu/at-work/2020/01/15/focus-on-wellness-drinking-more-water/)
-- [EleutherAI One Year Retrospective](https://blog.eleuther.ai/year-one/)
-- [Death rates are declining for many common cancers in U.S.](https://www.statnews.com/2021/07/08/cancer-death-rates-2021/)
-- [The Delusional Scam of the Self-Help Book Industry](https://ez.substack.com/p/the-delusional-scam-of-the-self-help)
+- [How I Made a Giant Mistake with Terraform (and How Azure Made It Worse)](https://www.craigstuntz.com/posts/2021-07-08-how-i-made-a-giant-mistake-with-terraform.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
