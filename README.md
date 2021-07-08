@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Business Should Be Booming – If Only There Were Enough Workers for the Job](https://www.npr.org/2021/07/01/1012187548/business-should-be-booming-if-only-there-were-enough-workers-for-the-job)
+- [California exodus is just a myth, UC research project finds](https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php?IPID=SFGate-HP-Editors-Picks)
+- [Senior Google exec opposes remote work, moves to New Zealand to work remotely](https://www.businessinsider.com/google-exec-reportedly-working-remote-after-opposing-it-for-staff-2021-7)
+- [Building a data team at a mid-stage startup](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
 - [Mezli (YC W21) is hiring a mechanical engineer to design autonomous restaurants](https://mezli.breezy.hr/p/ccb889373361-mechanical-design-engineer)
-- [GOP’s Big Tech plan ignores consumers, targets censorship of Republicans instead](https://arstechnica.com/tech-policy/2021/07/gops-big-tech-plan-ignores-consumers-targets-censorship-of-republicans-instead/)
-- [City of Bloomington's Raspberry Pi Based Employee Timeclocks](https://city-of-bloomington.github.io/timetrack/)
-- [List of Special Elevator Modes](https://elevation.fandom.com/wiki/List_of_elevator_special_modes)
-- [How I Made a Giant Mistake with Terraform (and How Azure Made It Worse)](https://www.craigstuntz.com/posts/2021-07-08-how-i-made-a-giant-mistake-with-terraform.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
