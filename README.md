@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why geothermal isn't ubiquitous and how it might get that way](https://austinvernon.eth.link/blog/geothermal.html)
-- [EU draft exempts private jets, cargo from jet fuel tax](https://www.argusmedia.com/en/news/2231434-eu-draft-exempts-private-jets-cargo-from-jet-fuel-tax)
-- [Inside a 20-Watt Traveling Wave Tube Amplifier from Apollo](http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html)
-- [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform)
-- [Dendron (YC W21) Is Hiring](https://wiki.dendron.so/notes/c378b702-7d49-4e91-be6e-b2078103c86e.html)
+- [List of Special Elevator Modes](https://elevation.fandom.com/wiki/List_of_elevator_special_modes)
+- [Yes, drinking more water may help you lose weight](https://hub.jhu.edu/at-work/2020/01/15/focus-on-wellness-drinking-more-water/)
+- [EleutherAI One Year Retrospective](https://blog.eleuther.ai/year-one/)
+- [Death rates are declining for many common cancers in U.S.](https://www.statnews.com/2021/07/08/cancer-death-rates-2021/)
+- [The Delusional Scam of the Self-Help Book Industry](https://ez.substack.com/p/the-delusional-scam-of-the-self-help)
 <!-- BLOG-POST-LIST:END -->
 
 ---
