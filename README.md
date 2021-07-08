@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is this the most quoted quote on HN?](https://news.ycombinator.com/item?id=27771186)
+- [Out of Africa's midlife crisis: bottlenecks, crashes, and diversity](https://razib.substack.com/p/out-of-africas-midlife-crisis)
+- [Sports Owners Use Their Teams to Avoid Millions in Taxes](https://www.propublica.org/article/the-billionaire-playbook-how-sports-owners-use-their-teams-to-avoid-millions-in-taxes)
+- [You need Software Developers to believe in your project (2020)](https://iism.org/article/you-need-software-developers-to-believe-in-your-project-45)
 - [Launch HN: Hera (YC S21) – macOS app to prepare, join and take notes in meetings](https://news.ycombinator.com/item?id=27771091)
 - [Modern Treasury (YC S18) Is Hiring Software Engineers](https://jobs.ashbyhq.com/moderntreasury/dc9bcfe8-64ef-4377-ad74-0cdbca3be694)
-- [Show HN: A New Python Linter](https://github.com/guilatrova/tryceratops)
-- [US-Canada heatwave 'virtually impossible' without warming](https://www.bbc.com/news/science-environment-57751918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
