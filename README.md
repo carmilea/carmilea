@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Juul, The e-cigarette company, bought an entire issue of a scholarly journal](https://prospect.org/health/juul-taking-academic-corruption-to-new-level/)
+- [Compiling rust is NP-hard](https://niedzejkob.p4.team/rust-np/)
+- [China urges its people to struggle. Some say no](https://www.economist.com/china/2021/07/03/china-urges-its-people-to-struggle-some-say-no)
 - [Why have there been so many own goals at the Euros?](https://inews.co.uk/sport/football/own-goals-euros-why-so-many-euro-2020-trend-explained-football-experts-1083944)
-- [All public GitHub code was used for Codex/Copilot, regardless of license](https://twitter.com/NoraDotCodes/status/1412741339771461635)
-- [I learned that stadiums can have different ads depending on channel and country](https://www.linkedin.com/posts/ryanjthorpe_today-i-learned-that-stadiums-can-have-different-activity-6817766173917110272-oDMy)
-- [China’s gene giant harvests data from millions of women worldwide](https://www.reuters.com/investigates/special-report/health-china-bgi-dna/)
-- [Understanding REvil: The Ransomware Gang Behind the Kaseya Attack](https://unit42.paloaltonetworks.com/revil-threat-actors/)
+- [New type of Supernova explains ancient mystery](https://bigthink.com/surprising-science/new-type-supernova-discovered-ancient-mystery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
