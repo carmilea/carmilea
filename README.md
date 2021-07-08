@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Armed Afghan women take to streets in show of defiance against Taliban](https://www.theguardian.com/world/2021/jul/07/armed-afghan-women-take-to-streets-in-show-of-defiance-against-taliban)
+- [Sub-zero water splitting marks a new dawn for solar hydrogen production](https://www.chemistryworld.com/news/sub-zero-water-splitting-marks-a-new-dawn-for-solar-hydrogen-production/4013887.article)
+- [Sri Lanka’s Ancient, Almost Lost Martial Art](https://www.atlasobscura.com/articles/angampora-sri-lanka-martial-art)
 - [Runway – Create Impossible Video](https://runwayml.com/)
-- [What if biohackers injected themselves with mRNA?](https://www.economist.com/what-if/2021/07/03/what-if-biohackers-injected-themselves-with-mrna)
-- [Arduino Pro hardware is not open-source hardware](https://blog.adafruit.com/2021/07/07/arduino-pro-hardware-is-not-open-source-hardware/)
 - [Paperspace (YC W15) is hiring engineers to build a modern MLOps platform](https://www.paperspace.com/careers)
-- [DoorDash removing 1-year cliff for equity grants](https://blog.doordash.com/aligning-reward-with-impact-an-update-to-our-equity-vesting-approach-96bf61d21eda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
