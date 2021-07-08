@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Infracost (YC W21) is hiring – Love Your Cloud Bill (full stack, remote)](https://www.ycombinator.com/companies/infracost/jobs/mOkwnEY-senior-full-stack-engineer)
+- [The Non-Innovation of the Token Schemes](https://www.stephendiehl.com/blog/non-innovation.html)
 - [PfSense CE 2.5.2 Released](https://www.servethehome.com/pfsense-ce-2-5-2-released-with-updates/)
 - [Difftastic: Syntax-aware structured diff tool](https://github.com/wilfred/difftastic)
 - [Show HN: A simple lazy Python Calculation Engine (with spreadsheet demo)](https://github.com/bsdz/calcengine)
-- [Apple camera design from iPhone 6S Plus to the 12 Pro Max (SAMPLE) [pdf]](https://www.systemplus.fr/wp-content/uploads/2021/06/SPR21553_Camera-Module-Comparison-Vol.-2-iPhone-Evolution_Sample.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
