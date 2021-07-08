@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Infracost (YC W21) is hiring – Love Your Cloud Bill (full stack, remote)](https://www.ycombinator.com/companies/infracost/jobs/mOkwnEY-senior-full-stack-engineer)
-- [The Non-Innovation of the Token Schemes](https://www.stephendiehl.com/blog/non-innovation.html)
-- [PfSense CE 2.5.2 Released](https://www.servethehome.com/pfsense-ce-2-5-2-released-with-updates/)
-- [Difftastic: Syntax-aware structured diff tool](https://github.com/wilfred/difftastic)
-- [Show HN: A simple lazy Python Calculation Engine (with spreadsheet demo)](https://github.com/bsdz/calcengine)
+- [Why have there been so many own goals at the Euros?](https://inews.co.uk/sport/football/own-goals-euros-why-so-many-euro-2020-trend-explained-football-experts-1083944)
+- [All public GitHub code was used for Codex/Copilot, regardless of license](https://twitter.com/NoraDotCodes/status/1412741339771461635)
+- [I learned that stadiums can have different ads depending on channel and country](https://www.linkedin.com/posts/ryanjthorpe_today-i-learned-that-stadiums-can-have-different-activity-6817766173917110272-oDMy)
+- [China’s gene giant harvests data from millions of women worldwide](https://www.reuters.com/investigates/special-report/health-china-bgi-dna/)
+- [Understanding REvil: The Ransomware Gang Behind the Kaseya Attack](https://unit42.paloaltonetworks.com/revil-threat-actors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
