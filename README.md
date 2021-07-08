@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Infracost (YC W21) is hiring – Love Your Cloud Bill (full stack, remote)](https://www.ycombinator.com/companies/infracost/jobs/mOkwnEY-senior-full-stack-engineer)
+- [PfSense CE 2.5.2 Released](https://www.servethehome.com/pfsense-ce-2-5-2-released-with-updates/)
+- [Difftastic: Syntax-aware structured diff tool](https://github.com/wilfred/difftastic)
 - [Show HN: A simple lazy Python Calculation Engine (with spreadsheet demo)](https://github.com/bsdz/calcengine)
 - [Apple camera design from iPhone 6S Plus to the 12 Pro Max (SAMPLE) [pdf]](https://www.systemplus.fr/wp-content/uploads/2021/06/SPR21553_Camera-Module-Comparison-Vol.-2-iPhone-Evolution_Sample.pdf)
-- [BGP in a Nutshell](https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/)
-- [The Cookbook and Home Economics Collection](https://archive.org/details/cbk?&sort=-downloads&page=1)
-- [Sub-zero water splitting marks a new dawn for solar hydrogen production](https://www.chemistryworld.com/news/sub-zero-water-splitting-marks-a-new-dawn-for-solar-hydrogen-production/4013887.article)
 <!-- BLOG-POST-LIST:END -->
 
 ---
