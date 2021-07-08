@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [More Than 30 States Sue Google over 'Extravagant' Fees in Google Play Store](https://www.npr.org/2021/07/07/1013934643/more-than-30-states-sue-google-over-extravagant-fees-in-google-play-store)
-- [11,500 cookbooks from the 1700’s to today, UCLA. Searchable, scans of original](https://archive.org/details/cbk?&sort=-downloads&page=1)
-- [Armed Afghan women take to streets in show of defiance against Taliban](https://www.theguardian.com/world/2021/jul/07/armed-afghan-women-take-to-streets-in-show-of-defiance-against-taliban)
+- [More than 30 states sue Google over 'extravagant' fees in Play store](https://www.npr.org/2021/07/07/1013934643/more-than-30-states-sue-google-over-extravagant-fees-in-google-play-store)
+- [The Cookbook and Home Economics Collection](https://archive.org/details/cbk?&sort=-downloads&page=1)
 - [Sub-zero water splitting marks a new dawn for solar hydrogen production](https://www.chemistryworld.com/news/sub-zero-water-splitting-marks-a-new-dawn-for-solar-hydrogen-production/4013887.article)
-- [Sri Lanka’s Ancient, Almost Lost Martial Art](https://www.atlasobscura.com/articles/angampora-sri-lanka-martial-art)
+- [Sri Lanka’s ancient, almost lost martial art](https://www.atlasobscura.com/articles/angampora-sri-lanka-martial-art)
+- [Manual for a popular facial recognition tool shows how much the software tracks](https://themarkup.org/privacy/2021/07/06/this-manual-for-a-popular-facial-recognition-tool-shows-just-how-much-the-software-tracks-people)
 <!-- BLOG-POST-LIST:END -->
 
 ---
