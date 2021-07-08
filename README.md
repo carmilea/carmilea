@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Treasury (YC S18) Is Hiring Software Engineers](https://jobs.ashbyhq.com/moderntreasury/dc9bcfe8-64ef-4377-ad74-0cdbca3be694)
+- [US-Canada heatwave 'virtually impossible' without warming](https://www.bbc.com/news/science-environment-57751918)
+- [Steve Wozniak Speaks on Right to Repair](https://www.youtube.com/watch?v=CN1djPMooVY&t=0s)
+- [Carbon removal hype is becoming a dangerous distraction](https://www.technologyreview.com/2021/07/08/1027908/carbon-removal-hype-is-a-dangerous-distraction-climate-change/)
 - [Juul, The e-cigarette company, bought an entire issue of a scholarly journal](https://prospect.org/health/juul-taking-academic-corruption-to-new-level/)
-- [Compiling rust is NP-hard](https://niedzejkob.p4.team/rust-np/)
-- [China urges its people to struggle. Some say no](https://www.economist.com/china/2021/07/03/china-urges-its-people-to-struggle-some-say-no)
-- [Why have there been so many own goals at the Euros?](https://inews.co.uk/sport/football/own-goals-euros-why-so-many-euro-2020-trend-explained-football-experts-1083944)
-- [New type of Supernova explains ancient mystery](https://bigthink.com/surprising-science/new-type-supernova-discovered-ancient-mystery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
