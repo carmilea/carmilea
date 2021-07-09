@@ -55,7 +55,7 @@
 - [NDA Expired – let's spill the beans on a weird startup](https://shkspr.mobi/blog/2021/07/nda-expired-lets-spill-the-beans-on-a-weird-startup/)
 - [Letterpress Commons](https://letterpresscommons.com/)
 - [Factors That Govern the Technology Errors and Omissions Insurance Policy](https://www.solespire.com/articles/4-factors-that-govern-technology-errors-and-omissions-insurance-policy/)
-- [This Week in Rust 398](https://this-week-in-rust.org/blog/2021/07/07/this-week-in-rust-398/)
+- [Adaptive social networks promote the wisdom of crowds](https://www.pnas.org/content/117/21/11379)
 <!-- BLOG-POST-LIST:END -->
 
 ---
