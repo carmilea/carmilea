@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Recreating the fractal spirals of the Romanesco cauliflower](https://www.nytimes.com/2021/07/08/science/cauliflower-fractals.html)
+- [Could a four-day working week become the norm?](https://www.economist.com/the-economist-explains/2021/07/08/could-a-four-day-working-week-become-the-norm)
 - [Home Assistant iOS app adds local push notification support](https://github.com/home-assistant/iOS/releases/tag/release%2F2021.7%2F2021.202)
 - [Google Internal Comics](https://goomics.net/)
 - [A better business model for video folks](https://streambus.com/)
-- [California exodus is a myth, UC research project finds](https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php)
-- [Building a data team at a mid-stage startup](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
