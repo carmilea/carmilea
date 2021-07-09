@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Recreating the fractal spirals of the Romanesco cauliflower](https://www.nytimes.com/2021/07/08/science/cauliflower-fractals.html)
 - [Could a four-day working week become the norm?](https://www.economist.com/the-economist-explains/2021/07/08/could-a-four-day-working-week-become-the-norm)
+- [Trust in Software, an All Time Low](https://underjord.io/trust-in-software-an-all-time-low.html)
+- [Apple founder Steve Wozniak backs right-to-repair movement](https://www.bbc.com/news/technology-57763037)
 - [Home Assistant iOS app adds local push notification support](https://github.com/home-assistant/iOS/releases/tag/release%2F2021.7%2F2021.202)
 - [Google Internal Comics](https://goomics.net/)
-- [A better business model for video folks](https://streambus.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
