@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SafeButler (YC S17) is hiring remote digital marketing associate](https://www.safebutler.com/careers)
+- [SafeButler (YC S17) is hiring a remote digital marketing associate](https://www.safebutler.com/careers)
+- [Surveilling the Gamers: Privacy Impacts of the Video Game Industry](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881279)
+- [A Git repository with 2^28 commits—one for every 7-character shorthash](https://github.com/not-an-aardvark/every-git-commit-shorthash)
 - [Uber and Lyft surge pricing drives SF customers back to taxis](https://www.sfexaminer.com/news/rideshare-surge-pricing-drives-angry-sf-customers-back-to-taxis/)
 - [Programmers, teach non-geeks the true cost of interruptions (2014)](https://daedtech.com/programmers-teach-non-geeks-the-true-cost-of-interruptions/)
-- [It may just be a game to you, but it means the world to us](http://www.redcross.ca/about-us/about-the-canadian-red-cross/red-cross-emblem/it-may-just-be-a-game-to-you-but--it-means-the-world-to-us)
-- [Amazon tells bosses to conceal when employees are on performance management plan](https://www.seattletimes.com/business/amazon/amazon-tells-bosses-to-conceal-when-employees-are-on-a-performance-management-plan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
