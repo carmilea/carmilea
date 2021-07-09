@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT OpenCourseWare](https://ocw.mit.edu/)
+- [Airbus unveils Beluga XL transport aircraft with whale theme (2018)](https://edition.cnn.com/travel/article/airbus-beluga-xl-new-design/index.html)
+- [Google “bought off Samsung” to limit app store competition, 36 states allege](https://arstechnica.com/tech-policy/2021/07/google-bought-off-samsung-to-limit-app-store-competition-36-states-allege/)
 - [How The Chronicle is trying to malign Sci-Hub](https://engineuring.wordpress.com/2021/07/09/how-the-chronicle-is-trying-to-malign-sci-hub/)
 - [New ‘mirror’ fabric can cool wearers by nearly 5°C](https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearly-5-c)
-- [Protect student privacy: Ban Eproctoring](https://www.baneproctoring.com/#letter)
-- [Explaining Blockchains to Developers](https://erickhun.com/posts/explaining-blockchains-to-developers/)
-- [Trust in Software, an All Time Low](https://underjord.io/trust-in-software-an-all-time-low.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
