@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pfizer to seek U.S. authorization for Covid booster shot](https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-ask-fda-authorize-booster-dose-covid-vaccine-delta-variant-spreads-2021-07-08/)
 - [Git-power: emPOWer your commits with bespoke hashes](https://github.com/CouleeApps/git-power)
 - [Home Assistant iOS app adds local push notification support](https://github.com/home-assistant/iOS/releases/tag/release%2F2021.7%2F2021.202)
 - [Google Internal Comics](https://goomics.net/)
-- [Video podcasting (RSS) as an alternative to YouTube's walled garden](https://streambus.com/)
-- [California exodus is a myth, UC research project finds](https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php)
+- [A better business model for video folks](https://streambus.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
