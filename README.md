@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Taplytics (YC W14) Is Hiring Android SDK Engineers and Many More](https://jobs.lever.co/taplytics/)
-- [NDA Expired – let's spill the beans on a weird startup](https://shkspr.mobi/blog/2021/07/nda-expired-lets-spill-the-beans-on-a-weird-startup/)
-- [Letterpress Commons](https://letterpresscommons.com/)
-- [Factors That Govern the Technology Errors and Omissions Insurance Policy](https://www.solespire.com/articles/4-factors-that-govern-technology-errors-and-omissions-insurance-policy/)
-- [Adaptive social networks promote the wisdom of crowds](https://www.pnas.org/content/117/21/11379)
+- [Tinder date drugs man in attempt to drain his crypto accounts](https://blog.keys.casa/casa-client-case-study-the-tinder-trap/)
+- [SpriteStack Voxel Editor](https://spritestack.io/)
+- [German region to fine Tesla for illegal construction](https://www.reuters.com/business/retail-consumer/german-region-fine-tesla-illegal-construction-2021-07-08/)
+- [Intel Financialized and Lost Leadership in Semiconductor Fabrication](https://www.nakedcapitalism.com/2021/07/how-intel-financialized-and-lost-leadership-in-semiconductor-fabrication.html)
+- [Barry Diller Now Says the Movie Business Is Dead](https://www.npr.org/2021/07/08/1014095135/barry-diller-headed-2-hollywood-studios-he-now-says-the-movie-business-is-dead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
