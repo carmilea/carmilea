@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Assessing the U.S. Climate: Warmest June on Record for Contiguous U.S](https://www.ncei.noaa.gov/news/national-climate-202106)
+- [It may just be a game to you but, it means the world to us](http://www.redcross.ca/about-us/about-the-canadian-red-cross/red-cross-emblem/it-may-just-be-a-game-to-you-but--it-means-the-world-to-us)
 - [AMZN tells bosses to conceal when employees are on a performance management plan](https://www.seattletimes.com/business/amazon/amazon-tells-bosses-to-conceal-when-employees-are-on-a-performance-management-plan/)
 - [Compose.ai (YC W21) Is Hiring a Senior Front End Engineer](https://jobs.lever.co/ComposeAI/8c6550b1-8b67-40f8-9a70-bf07cbfaf22f)
 - [Show HN: Earthly – Better Builds](https://earthly.dev/)
-- [Do patents kill innovation? The US patent office is asking](https://www.eenewseurope.com/news/do-patents-kill-innovation-us-patent-office-asking)
-- [Battle of B-R5RB](https://en.wikipedia.org/wiki/Battle_of_B-R5RB)
 <!-- BLOG-POST-LIST:END -->
 
 ---
