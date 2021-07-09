@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Internal Comics](https://goomics.net/)
+- [Surface air temperature for June 2021](https://climate.copernicus.eu/surface-air-temperature-june-2021)
 - [Birds are dying in the United States and no one knows why](https://www.dw.com/en/birds-are-dying-in-the-united-states-and-no-one-knows-why/a-58163063)
-- [Video podcasting (RSS) as an alternative to YouTubes walled garden](https://streambus.com/)
-- [California exodus is just a myth, UC research project finds](https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php?IPID=SFGate-HP-Editors-Picks)
-- [Senior Google exec opposes remote work, moves to New Zealand to work remotely](https://www.businessinsider.com/google-exec-reportedly-working-remote-after-opposing-it-for-staff-2021-7)
-- [Building a data team at a mid-stage startup](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
+- [Video podcasting (RSS) as an alternative to YouTube's walled garden](https://streambus.com/)
+- [California exodus is a myth, UC research project finds](https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
