@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Compose.ai (YC W21) Is Hiring a Senior Front End Engineer](https://jobs.lever.co/ComposeAI/8c6550b1-8b67-40f8-9a70-bf07cbfaf22f)
+- [Show HN: Earthly – Better Builds](https://earthly.dev/)
 - [Do patents kill innovation? The US patent office is asking](https://www.eenewseurope.com/news/do-patents-kill-innovation-us-patent-office-asking)
-- [M1 MacBook battery life so good Apple thought indicator was broken](https://9to5mac.com/2021/07/09/m1-macbook-battery-life/)
 - [Battle of B-R5RB](https://en.wikipedia.org/wiki/Battle_of_B-R5RB)
 - [Automating programming: AI is transforming the coding of computer programs](https://www.economist.com/science-and-technology/2021/07/07/ai-is-transforming-the-coding-of-computer-programs)
-- [The Amazon Personal Games Policy Is Ridiculous](https://techraptor.net/gaming/news/amazon-games-personal-game-policy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
