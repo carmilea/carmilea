@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Home Assistant iOS app adds local push notification support](https://github.com/home-assistant/iOS/releases/tag/release%2F2021.7%2F2021.202)
 - [Google Internal Comics](https://goomics.net/)
-- [Surface air temperature for June 2021](https://climate.copernicus.eu/surface-air-temperature-june-2021)
+- [Ivermectin: ‘wonder’ drug continues to surprise and exceed expectations (2017)](https://www.nature.com/articles/ja201711)
 - [Birds are dying in the United States and no one knows why](https://www.dw.com/en/birds-are-dying-in-the-united-states-and-no-one-knows-why/a-58163063)
 - [Video podcasting (RSS) as an alternative to YouTube's walled garden](https://streambus.com/)
-- [California exodus is a myth, UC research project finds](https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
