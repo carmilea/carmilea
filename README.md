@@ -38,7 +38,7 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Customer Showcase with IEX Cloud](https://www.youtube.com/watch?v=4KM5xYmhRcc)
+- [Customer Showcase: IEX Cloud & SingleStore for Real-time Market Data](https://www.youtube.com/watch?v=4KM5xYmhRcc)
 - [Product Launch of SingleStore Summer Release](https://www.youtube.com/watch?v=XU6gJoXl188)
 - [Data-intensive Applications with MindsDB and NEAR](https://www.youtube.com/watch?v=nplOJpzCDMk)
 - [Modern Data Architecture for AI and Analytics with SAS and SingleStore](https://www.youtube.com/watch?v=owNNBS4eXKU)
