@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Do patents kill innovation? The US patent office is asking](https://www.eenewseurope.com/news/do-patents-kill-innovation-us-patent-office-asking)
+- [M1 MacBook battery life so good Apple thought indicator was broken](https://9to5mac.com/2021/07/09/m1-macbook-battery-life/)
 - [Battle of B-R5RB](https://en.wikipedia.org/wiki/Battle_of_B-R5RB)
 - [Automating programming: AI is transforming the coding of computer programs](https://www.economist.com/science-and-technology/2021/07/07/ai-is-transforming-the-coding-of-computer-programs)
 - [The Amazon Personal Games Policy Is Ridiculous](https://techraptor.net/gaming/news/amazon-games-personal-game-policy)
-- [Concise and beautiful algorithms written in Julia](https://github.com/mossr/BeautifulAlgorithms.jl)
-- [Launch HN: Pabio (YC S21) – Interior design and furniture rental as a service](https://news.ycombinator.com/item?id=27783939)
 <!-- BLOG-POST-LIST:END -->
 
 ---
