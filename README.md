@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tinder date drugs man in attempt to drain his crypto accounts](https://blog.keys.casa/casa-client-case-study-the-tinder-trap/)
-- [SpriteStack Voxel Editor](https://spritestack.io/)
-- [German region to fine Tesla for illegal construction](https://www.reuters.com/business/retail-consumer/german-region-fine-tesla-illegal-construction-2021-07-08/)
-- [Intel Financialized and Lost Leadership in Semiconductor Fabrication](https://www.nakedcapitalism.com/2021/07/how-intel-financialized-and-lost-leadership-in-semiconductor-fabrication.html)
-- [Barry Diller Now Says the Movie Business Is Dead](https://www.npr.org/2021/07/08/1014095135/barry-diller-headed-2-hollywood-studios-he-now-says-the-movie-business-is-dead)
+- [Battle of B-R5RB](https://en.wikipedia.org/wiki/Battle_of_B-R5RB)
+- [Automating programming: AI is transforming the coding of computer programs](https://www.economist.com/science-and-technology/2021/07/07/ai-is-transforming-the-coding-of-computer-programs)
+- [The Amazon Personal Games Policy Is Ridiculous](https://techraptor.net/gaming/news/amazon-games-personal-game-policy)
+- [Concise and beautiful algorithms written in Julia](https://github.com/mossr/BeautifulAlgorithms.jl)
+- [Launch HN: Pabio (YC S21) – Interior design and furniture rental as a service](https://news.ycombinator.com/item?id=27783939)
 <!-- BLOG-POST-LIST:END -->
 
 ---
