@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MIT OpenCourseWare](https://ocw.mit.edu/)
-- [Airbus unveils Beluga XL transport aircraft with whale theme (2018)](https://edition.cnn.com/travel/article/airbus-beluga-xl-new-design/index.html)
-- [Google “bought off Samsung” to limit app store competition, 36 states allege](https://arstechnica.com/tech-policy/2021/07/google-bought-off-samsung-to-limit-app-store-competition-36-states-allege/)
-- [How The Chronicle is trying to malign Sci-Hub](https://engineuring.wordpress.com/2021/07/09/how-the-chronicle-is-trying-to-malign-sci-hub/)
-- [New ‘mirror’ fabric can cool wearers by nearly 5°C](https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearly-5-c)
+- [Taplytics (YC W14) Is Hiring Android SDK Engineers and Many More](https://jobs.lever.co/taplytics/)
+- [NDA Expired – let's spill the beans on a weird startup](https://shkspr.mobi/blog/2021/07/nda-expired-lets-spill-the-beans-on-a-weird-startup/)
+- [Letterpress Commons](https://letterpresscommons.com/)
+- [Factors That Govern the Technology Errors and Omissions Insurance Policy](https://www.solespire.com/articles/4-factors-that-govern-technology-errors-and-omissions-insurance-policy/)
+- [This Week in Rust 398](https://this-week-in-rust.org/blog/2021/07/07/this-week-in-rust-398/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
