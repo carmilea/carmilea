@@ -54,7 +54,7 @@
 - [How The Chronicle is trying to malign Sci-Hub](https://engineuring.wordpress.com/2021/07/09/how-the-chronicle-is-trying-to-malign-sci-hub/)
 - [New ‘mirror’ fabric can cool wearers by nearly 5°C](https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearly-5-c)
 - [Protect student privacy: Ban Eproctoring](https://www.baneproctoring.com/#letter)
-- [Could a four-day working week become the norm?](https://www.economist.com/the-economist-explains/2021/07/08/could-a-four-day-working-week-become-the-norm)
+- [Explaining Blockchains to Developers](https://erickhun.com/posts/explaining-blockchains-to-developers/)
 - [Trust in Software, an All Time Low](https://underjord.io/trust-in-software-an-all-time-low.html)
 <!-- BLOG-POST-LIST:END -->
 
