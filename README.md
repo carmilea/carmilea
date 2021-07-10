@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Right to repair movement growing in Australia](https://www.abc.net.au/news/2021-07-10/act-right-to-repair-movement-growing-in-australia/100283348)
-- [Why sometimes unsubscribe from an email list can ‘take a few days’](https://twitter.com/Joe8Bit/status/1156312965265707013)
-- [Nuclear Energy Will Not Be the Solution to Climate Change](https://www.foreignaffairs.com/articles/2021-07-08/nuclear-energy-will-not-be-solution-climate-change)
-- [Show HN: Markdown docs automation (like README.md) from external or remote files](https://github.com/dineshsonachalam/markdown-autodocs)
-- [AWS Lambda Behind the Scenes](https://www.bschaatsbergen.com/behind-the-scenes-lambda)
+- [A bitter pill for Microsoft Copilot](http://joeyh.name/blog/entry/a_bitter_pill_for_Microsoft_Copilot/)
+- [Why introverts didn't 'win' lockdown](https://www.bbc.com/worklife/article/20210705-why-introverts-didnt-actually-win-lockdown)
+- [Covid: Children's extremely low risk confirmed by study](https://www.bbc.com/news/health-57766717)
+- [EdgeDB: EdgeQL](https://website-atgsmhega-edgedb.vercel.app/docs/tutorial/queries)
+- [Why it can ‘take a few days’ to be unsubscribed from an email list (2019)](https://twitter.com/Joe8Bit/status/1156312965265707013)
 <!-- BLOG-POST-LIST:END -->
 
 ---
