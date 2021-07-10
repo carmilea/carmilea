@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Subreddit /R/Collapse Has Become the Doomscrolling Capital of the Internet](https://time.com/5905324/reddit-collapse/)
 - [Cheating in FPS by using a second computer to move mouse](https://arstechnica.com/?p=1779166)
 - [Unlimited, free intraday stock data API](https://www.styvio.com/home)
 - [It's Official. We Can Now Harvest Usable Lithium from Seawater](https://interestingengineering.com/lithium-from-seawater)
-- [Non Session Manager vs New Session Manager](https://non.tuxfamily.org/wiki/2021-02-07%20Linux%20Audio%20is%20Dead)
+- [HTTrack Website Copier – Free Software Offline Browser (GNU GPL)](https://www.httrack.com/)
+- [How to achieve sustainable remote work](https://www.newyorker.com/culture/cultural-comment/how-to-achieve-sustainable-remote-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
