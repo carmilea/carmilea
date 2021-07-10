@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crushing heat wave in Pacific Northwest cooked shellfish alive by the millions](https://washingtonpost.com/world/2021/07/08/canada-sea-creatures-boiling-to-death)
+- [Climate transitions from breakup of stratocumulus decks under greenhouse warming](https://www.nature.com/articles/s41561-019-0310-1.epdf)
 - [Using IceWM and a Raspberry Pi as my main PC, sharing my theme, config and some](https://raymii.org/s/blog/Using_IceWM_and_sharing_my_config_and_tips_tricks.html)
 - [Signadot (YC W20) Is Hiring Engineers to Simplify Microservices Development](https://www.workatastartup.com/jobs/42298)
 - [No bids for over 70% of Indian coal mines up for auction](https://www.reuters.com/world/india/no-bids-over-70-indian-coal-mines-up-auction-2021-07-09/)
-- [Tool to convert copyrighted music into fair use](https://fairuseify.ml)
-- [Preschool children rarely seek data when observation and testimony conflict](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
