@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A bitter pill for Microsoft Copilot](http://joeyh.name/blog/entry/a_bitter_pill_for_Microsoft_Copilot/)
-- [Why introverts didn't 'win' lockdown](https://www.bbc.com/worklife/article/20210705-why-introverts-didnt-actually-win-lockdown)
-- [Covid: Children's extremely low risk confirmed by study](https://www.bbc.com/news/health-57766717)
-- [EdgeDB: EdgeQL](https://website-atgsmhega-edgedb.vercel.app/docs/tutorial/queries)
-- [Why it can ‘take a few days’ to be unsubscribed from an email list (2019)](https://twitter.com/Joe8Bit/status/1156312965265707013)
+- [Model sued for posting photo of herself on Instagram](https://www.bbc.co.uk/news/entertainment-arts-57775670)
+- [Deep Reinforcement Learning is a waste of time (2019)](http://www.jtoy.net/blog/deep-reinforcement-learning-is-a-waste-of-time.html)
+- [PostgreSQL, Memory and the Cloud](https://sosna.de/posts/pgaas-memory-overcommit/)
+- [The head of the FDA is calling for an investigation into her agency's decision](https://www.businessinsider.com/fda-head-asks-for-investigation-into-aduhelm-drug-approval-2021-7)
+- [Show HN: Hck – a fast and flexible cut-like tool](https://github.com/sstadick/hck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
