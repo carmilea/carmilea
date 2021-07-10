@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How would I make 3 millions euros in two weeks](https://news.ycombinator.com/item?id=27791957)
+- [The coupon code is a slap in the face (2011)](https://justinjackson.ca/the-coupon-code-is-a-slap-in-the-face)
+- [Zygalski Sheets](https://en.wikipedia.org/wiki/Zygalski_sheets)
 - [Advice on the privacy and personal data protection aspects of a digital euro [pdf]](https://edpb.europa.eu/system/files/2021-07/edpb_letter_out_2021_0105-digitaleuro-toec_en_0.pdf)
 - [Flexport Is Hiring Software Engineers](https://flexoprt.com/careers)
 - [Against SQL](https://scattered-thoughts.net/writing/against-sql/)
-- [80% of my traffic is excluded from Google Analytics](https://twitter.com/eric_khun/status/1413724571765809152)
 <!-- BLOG-POST-LIST:END -->
 
 ---
