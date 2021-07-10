@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The coupon code is a slap in the face (2011)](https://justinjackson.ca/the-coupon-code-is-a-slap-in-the-face)
-- [Zygalski Sheets](https://en.wikipedia.org/wiki/Zygalski_sheets)
-- [Advice on the privacy and personal data protection aspects of a digital euro [pdf]](https://edpb.europa.eu/system/files/2021-07/edpb_letter_out_2021_0105-digitaleuro-toec_en_0.pdf)
-- [Flexport Is Hiring Software Engineers](https://flexoprt.com/careers)
-- [Against SQL](https://scattered-thoughts.net/writing/against-sql/)
+- [MagicBell (YC W21) Is Hiring a Founding Front End Engineer (Remote)](https://www.notion.so/magicbell/Founding-Frontend-Engineer-Fully-Remote-5d6c0eceed334d6e95f71dec6167453c)
+- [AI Text-to-Speech models have accents too](https://blog.waleson.com/2021/07/text-to-speech-models-have-accents-too.html)
+- [25 Gigabit Linux internet router PC build](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/)
+- [How safe is Colin Furze's tunnel?](https://www.reddit.com/r/AskEngineers/comments/oh0vt0/how_safe_is_the_colin_furzes_tunnel/)
+- [Cisco BPA, WSA Bugs Allow Remote Cyberattacks](https://threatpost.com/cisco-bpa-wsa-bugs-cyberattacks/167654/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
