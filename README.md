@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MagicBell (YC W21) Is Hiring a Founding Front End Engineer (Remote)](https://www.notion.so/magicbell/Founding-Frontend-Engineer-Fully-Remote-5d6c0eceed334d6e95f71dec6167453c)
-- [AI Text-to-Speech models have accents too](https://blog.waleson.com/2021/07/text-to-speech-models-have-accents-too.html)
-- [25 Gigabit Linux internet router PC build](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/)
-- [AIeyes: Walking simulator where the world is seen through a realtime neural net](https://tmdev.itch.io/aieyes)
-- [How safe is Colin Furze's tunnel?](https://www.reddit.com/r/AskEngineers/comments/oh0vt0/how_safe_is_the_colin_furzes_tunnel/)
+- [Right to repair movement growing in Australia](https://www.abc.net.au/news/2021-07-10/act-right-to-repair-movement-growing-in-australia/100283348)
+- [Why sometimes unsubscribe from an email list can ‘take a few days’](https://twitter.com/Joe8Bit/status/1156312965265707013)
+- [Nuclear Energy Will Not Be the Solution to Climate Change](https://www.foreignaffairs.com/articles/2021-07-08/nuclear-energy-will-not-be-solution-climate-change)
+- [Show HN: Markdown docs automation (like README.md) from external or remote files](https://github.com/dineshsonachalam/markdown-autodocs)
+- [AWS Lambda Behind the Scenes](https://www.bschaatsbergen.com/behind-the-scenes-lambda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
