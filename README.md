@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Model sued for posting photo of herself on Instagram](https://www.bbc.co.uk/news/entertainment-arts-57775670)
+- [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
+- [Why Japan Celebrates Christmas with KFC](https://www.bbc.com/worklife/article/20161216-why-japan-celebrates-christmas-with-kfc)
 - [Deep Reinforcement Learning is a waste of time (2019)](http://www.jtoy.net/blog/deep-reinforcement-learning-is-a-waste-of-time.html)
 - [PostgreSQL, Memory and the Cloud](https://sosna.de/posts/pgaas-memory-overcommit/)
-- [The head of the FDA is calling for an investigation into her agency's decision](https://www.businessinsider.com/fda-head-asks-for-investigation-into-aduhelm-drug-approval-2021-7)
-- [Show HN: Hck – a fast and flexible cut-like tool](https://github.com/sstadick/hck)
+- [Death Valley hits 130 degrees, near world record](https://www.washingtonpost.com/weather/2021/07/09/death-valley-record-high-temperature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
