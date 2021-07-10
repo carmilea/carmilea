@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rethinking Software Testing: Perspectives from the World of Hardware (2019)](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/)
 - [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
-- [Why Japan Celebrates Christmas with KFC](https://www.bbc.com/worklife/article/20161216-why-japan-celebrates-christmas-with-kfc)
+- [Why Japan Celebrates Christmas with KFC (2016)](https://www.bbc.com/worklife/article/20161216-why-japan-celebrates-christmas-with-kfc)
 - [Deep Reinforcement Learning is a waste of time (2019)](http://www.jtoy.net/blog/deep-reinforcement-learning-is-a-waste-of-time.html)
 - [PostgreSQL, Memory and the Cloud](https://sosna.de/posts/pgaas-memory-overcommit/)
-- [Death Valley hits 130 degrees, near world record](https://www.washingtonpost.com/weather/2021/07/09/death-valley-record-high-temperature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
