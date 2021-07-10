@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How would I make 3 millions euros in two weeks](https://news.ycombinator.com/item?id=27791957)
 - [Advice on the privacy and personal data protection aspects of a digital euro [pdf]](https://edpb.europa.eu/system/files/2021-07/edpb_letter_out_2021_0105-digitaleuro-toec_en_0.pdf)
-- [LLVM 12.0.1 Released](https://releases.llvm.org/download.html#12.0.1)
 - [Flexport Is Hiring Software Engineers](https://flexoprt.com/careers)
 - [Against SQL](https://scattered-thoughts.net/writing/against-sql/)
-- [Hottest Temperature Ever – A Crazy Year of Weather](https://peratonweather.com/blog/2021/7/9/715-am-hottest-temperature-ever-recorded-on-earth-took-place-on-july-10th-1913-in-death-valley-california-a-crazy-year-of-weather)
+- [80% of my traffic is excluded from Google Analytics](https://twitter.com/eric_khun/status/1413724571765809152)
 <!-- BLOG-POST-LIST:END -->
 
 ---
