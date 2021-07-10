@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Advice on the privacy and personal data protection aspects of a digital euro [pdf]](https://edpb.europa.eu/system/files/2021-07/edpb_letter_out_2021_0105-digitaleuro-toec_en_0.pdf)
+- [LLVM 12.0.1 Released](https://releases.llvm.org/download.html#12.0.1)
 - [Flexport Is Hiring Software Engineers](https://flexoprt.com/careers)
 - [Against SQL](https://scattered-thoughts.net/writing/against-sql/)
-- [80% of my traffic is excluded from Google Analytics](https://twitter.com/eric_khun/status/1413724571765809152)
-- [Cheating in FPS by using a second computer to move mouse](https://arstechnica.com/?p=1779166)
-- [Show HN: Unlimited, free intraday stock data API](https://www.styvio.com/home)
+- [Hottest Temperature Ever – A Crazy Year of Weather](https://peratonweather.com/blog/2021/7/9/715-am-hottest-temperature-ever-recorded-on-earth-took-place-on-july-10th-1913-in-death-valley-california-a-crazy-year-of-weather)
 <!-- BLOG-POST-LIST:END -->
 
 ---
