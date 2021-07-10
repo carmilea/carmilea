@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using IceWM and a Raspberry Pi as my main PC, sharing my theme, config and some](https://raymii.org/s/blog/Using_IceWM_and_sharing_my_config_and_tips_tricks.html)
 - [Signadot (YC W20) Is Hiring Engineers to Simplify Microservices Development](https://www.workatastartup.com/jobs/42298)
+- [No bids for over 70% of Indian coal mines up for auction](https://www.reuters.com/world/india/no-bids-over-70-indian-coal-mines-up-auction-2021-07-09/)
 - [Tool to convert copyrighted music into fair use](https://fairuseify.ml)
 - [Preschool children rarely seek data when observation and testimony conflict](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13612)
-- [Quarter-dose of Moderna Covid vaccine still rouses a big immune response](https://www.nature.com/articles/d41586-021-01893-0)
-- [Efficiency eludes the construction industry (2017)](https://www.economist.com/business/2017/08/17/efficiency-eludes-the-construction-industry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
