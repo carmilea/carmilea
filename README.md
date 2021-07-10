@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [It's Official. We Can Now Harvest Usable Lithium from Seawater](https://interestingengineering.com/lithium-from-seawater)
 - [Linux Audio Is Dead](https://non.tuxfamily.org/wiki/2021-02-07%20Linux%20Audio%20is%20Dead)
+- [HTTrack Website Copier – Free Software Offline Browser (GNU GPL)](https://www.httrack.com/)
 - [How to achieve sustainable remote work](https://www.newyorker.com/culture/cultural-comment/how-to-achieve-sustainable-remote-work)
 - [Creep – a pretty sweet 4px wide pixel font](https://github.com/romeovs/creep)
-- [Are animals more conscious than we are?](https://erikhoel.substack.com/p/on-rabbits)
 <!-- BLOG-POST-LIST:END -->
 
 ---
