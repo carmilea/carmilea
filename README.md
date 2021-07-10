@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VPN – A Very Precarious Narrative](https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html)
-- [SafeButler (YC S17) is hiring a remote digital marketing associate](https://www.safebutler.com/careers)
-- [Surveilling the Gamers: Privacy Impacts of the Video Game Industry](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881279)
-- [A Git repository with 2^28 commits—one for every 7-character shorthash](https://github.com/not-an-aardvark/every-git-commit-shorthash)
-- [Uber and Lyft surge pricing drives SF customers back to taxis](https://www.sfexaminer.com/news/rideshare-surge-pricing-drives-angry-sf-customers-back-to-taxis/)
+- [It's Official. We Can Now Harvest Usable Lithium from Seawater](https://interestingengineering.com/lithium-from-seawater)
+- [Linux Audio Is Dead](https://non.tuxfamily.org/wiki/2021-02-07%20Linux%20Audio%20is%20Dead)
+- [How to achieve sustainable remote work](https://www.newyorker.com/culture/cultural-comment/how-to-achieve-sustainable-remote-work)
+- [Creep – a pretty sweet 4px wide pixel font](https://github.com/romeovs/creep)
+- [Are animals more conscious than we are?](https://erikhoel.substack.com/p/on-rabbits)
 <!-- BLOG-POST-LIST:END -->
 
 ---
