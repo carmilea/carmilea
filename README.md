@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport Is Hiring Software Engineers](https://flexoprt.com/careers)
+- [Against SQL](https://scattered-thoughts.net/writing/against-sql/)
 - [80% of my traffic is excluded from Google Analytics](https://twitter.com/eric_khun/status/1413724571765809152)
 - [Cheating in FPS by using a second computer to move mouse](https://arstechnica.com/?p=1779166)
 - [Show HN: Unlimited, free intraday stock data API](https://www.styvio.com/home)
-- [Show HN: AirClick – Note taking/sharing designed for developers](https://airclick.io)
-- [HTTrack Website Copier – Free Software Offline Browser (GNU GPL)](https://www.httrack.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
