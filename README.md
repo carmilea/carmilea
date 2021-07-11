@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Print a WiFi Login Card](https://wificard.io/)
+- [Doctors Might Have Been Focusing on the Wrong Asthma Triggers](https://www.theatlantic.com/health/archive/2021/07/the-pandemic-drove-asthma-attacks-down-why/619396/)
 - [ReadMe (YC W15) is hiring a Product Marketer who loves developers](https://readme.com/careers#product-marketing-manager)
-- [Interpreting 9/11 Commemorative Afghan Carpets](https://rugsofwar.wordpress.com/2011/09/10/the-september-11-commemorative-carpet/)
+- [Interpreting 9/11 Commemorative Afghan Carpets (2011)](https://rugsofwar.wordpress.com/2011/09/10/the-september-11-commemorative-carpet/)
 - [Project-Nested: An NES Emulator Running on the SNES](https://github.com/Myself086/Project-Nested)
-- [Older job seekers get fewer offers on LinkedIn but a younger profile photo helps](https://www.psychnewsdaily.com/older-job-seekers-on-linkedin-get-fewer-job-offers-but-younger-profile-photo-helps/)
-- [Ask HN: Hacker News like forums for other niches?](https://news.ycombinator.com/item?id=27802233)
 <!-- BLOG-POST-LIST:END -->
 
 ---
