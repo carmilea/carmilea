@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I'm a programmer – how can I help SciHub?](https://www.reddit.com/r/scihub/comments/ohykfm/im_a_programmer_how_can_i_help_scihub/)
+- [Gaussian Processes from Scratch (2019)](https://peterroelants.github.io/posts/gaussian-process-tutorial/)
+- [Biden Launches Action on "Big Tech, Big Pharma, and Big Ag" – Can It Be Real?](https://mattstoller.substack.com/p/biden-launches-sweeping-action-on)
 - [Show HN: Print a WiFi Login Card](https://wificard.io/)
 - [Doctors Might Have Been Focusing on the Wrong Asthma Triggers](https://www.theatlantic.com/health/archive/2021/07/the-pandemic-drove-asthma-attacks-down-why/619396/)
-- [ReadMe (YC W15) is hiring a Product Marketer who loves developers](https://readme.com/careers#product-marketing-manager)
-- [Interpreting 9/11 Commemorative Afghan Carpets (2011)](https://rugsofwar.wordpress.com/2011/09/10/the-september-11-commemorative-carpet/)
-- [Project-Nested: An NES Emulator Running on the SNES](https://github.com/Myself086/Project-Nested)
 <!-- BLOG-POST-LIST:END -->
 
 ---
