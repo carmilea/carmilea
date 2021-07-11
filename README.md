@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clerky (YC S11) is hiring software engineers to help modernize legal paperwork](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN)
+- [Virgin Galactic Unity 22 Spaceflight Livestream, Launch – 14:30 UTC](https://www.youtube.com/watch?v=RTpWYWIfP7Y)
+- [If you’re going to put your preschooler in front of a screen, choose a TV](https://www.theguardian.com/commentisfree/2021/jul/09/if-youre-going-to-put-your-preschooler-in-front-of-a-screen-choose-a-tv-heres-why)
+- [Kerberos: Open-Source Video Surveillance](https://kerberos.io/product/open-source/)
 - [Eigengrau](https://en.wikipedia.org/wiki/Eigengrau)
-- [EU withheld a study that shows piracy doesn't hurt sales (2017)](https://www.engadget.com/2017-09-22-eu-suppressed-study-piracy-no-sales-impact.html)
-- [AI voice actors sound more human than ever–and are ready to hire](https://www.technologyreview.com/2021/07/09/1028140/ai-voice-actors-sound-human/)
-- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
-- ['Superager' brains resist the march of time to have memories like 25-year-olds](https://www.sciencealert.com/superagers-with-incredible-memories-have-brains-like-25-year-olds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
