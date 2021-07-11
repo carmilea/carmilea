@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [List price for stitches at American hospital: $93306](https://twitter.com/grahamwalker/status/1413964824770342912)
-- [Cybersecurity and the Curse of Binary Thinking](https://www.philvenables.com/post/cybersecurity-and-the-curse-of-binary-thinking)
-- [Is planting trees as good for the Earth as everyone says?](https://news.mongabay.com/2021/05/is-planting-trees-as-good-for-the-earth-as-everyone-says/)
-- [Why do we use R rather than Excel?](https://shkspr.mobi/blog/2021/07/why-do-we-use-r-rather-than-excel/)
-- [WriteFreely: ActivityPub Writing Space](https://writefreely.org/)
+- [USA Today is getting a paywall. Who’s the audience for it?](https://www.niemanlab.org/2021/07/usa-today-is-getting-a-paywall-whos-the-audience-for-it/)
+- [The Average Cost of Food in the US](https://www.move.org/the-average-cost-of-food-in-the-us)
+- [Bitcoin as a Hyperobject](https://erikhoel.substack.com/p/bitcoin-as-a-hyperobject)
+- [A Journey Through the Troubled Former Yugoslavia](https://www.spiegel.de/international/europe/a-journey-through-the-troubled-former-yugoslavia-a-6bbb99f4-31ef-4932-8b77-fecc117de8b9)
+- [Findings by law prof suggest UCLA Admissions may be violating Prop 209 (2012)](https://dailybruin.com/2012/10/23/findings-by-law-professor-suggest-that-ucla-admissions-may-be-violating-prop-209)
 <!-- BLOG-POST-LIST:END -->
 
 ---
