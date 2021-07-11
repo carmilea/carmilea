@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Richard Branson ready for today's 'extraordinary' space flight](https://www.bbc.co.uk/news/science-environment-57790040)
 - [EU withheld a study that shows piracy doesn't hurt sales (2017)](https://www.engadget.com/2017-09-22-eu-suppressed-study-piracy-no-sales-impact.html)
 - [AI voice actors sound more human than ever–and are ready to hire](https://www.technologyreview.com/2021/07/09/1028140/ai-voice-actors-sound-human/)
 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
 - ['Superager' brains resist the march of time to have memories like 25-year-olds](https://www.sciencealert.com/superagers-with-incredible-memories-have-brains-like-25-year-olds)
+- [Automated Hydroponic System Build (2020)](https://kylegabriel.com/projects/2020/06/automated-hydroponic-system-build.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
