@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Automated Hydroponic System Build](https://kylegabriel.com/projects/2020/06/automated-hydroponic-system-build.html)
 - [Golden eggs and better telescopes (2018)](https://elevanth.org/blog/2018/09/02/golden_eggs/)
-- [Analysis of Covid-19 vaccine death reports from VAERS](http://doi.org/10.13140/RG.2.2.26987.26402)
 - [The strange, sketchy emails a browser extension developer receives](https://micahcantor.xyz/blog/extension-developer-emails/)
 - [Solar is dirt-cheap and about to get even more powerful](https://www.bloomberg.com/news/articles/2021-07-05/solar-power-is-dirt-cheap-and-about-to-get-even-more-powerful)
 - [Using IceWM and a Raspberry Pi as my main PC, sharing my theme, config and some](https://raymii.org/s/blog/Using_IceWM_and_sharing_my_config_and_tips_tricks.html)
