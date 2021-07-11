@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CNN: Insider trading charges filed over Long Island Iced Tea's blockchain pivot](https://www.cnn.com/2021/07/10/investing/blockchain-long-island-insider-trading/index.html)
+- [AI voice actors sound more human than ever–and are ready to hire](https://www.technologyreview.com/2021/07/09/1028140/ai-voice-actors-sound-human/)
 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
-- [The foreigners in China’s disinformation drive](https://www.bbc.com/news/world-asia-china-57780023)
+- ['Superager' brains resist the march of time to have memories like 25-year-olds](https://www.sciencealert.com/superagers-with-incredible-memories-have-brains-like-25-year-olds)
 - [Automated Hydroponic System Build (2020)](https://kylegabriel.com/projects/2020/06/automated-hydroponic-system-build.html)
 - [Random Variable Algebra](https://www.notion.so/Random-Variable-Algebra-69c10f9dae7a4713ab8abcd9892e2540)
 <!-- BLOG-POST-LIST:END -->
