@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CNN: Insider trading charges filed over Long Island Iced Tea's blockchain pivot](https://www.cnn.com/2021/07/10/investing/blockchain-long-island-insider-trading/index.html)
 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [The foreigners in China’s disinformation drive](https://www.bbc.com/news/world-asia-china-57780023)
 - [Automated Hydroponic System Build (2020)](https://kylegabriel.com/projects/2020/06/automated-hydroponic-system-build.html)
 - [Random Variable Algebra](https://www.notion.so/Random-Variable-Algebra-69c10f9dae7a4713ab8abcd9892e2540)
-- [Golden eggs and better telescopes (2018)](https://elevanth.org/blog/2018/09/02/golden_eggs/)
-- [Solar is dirt-cheap and about to get even more powerful](https://www.bloomberg.com/news/articles/2021-07-05/solar-power-is-dirt-cheap-and-about-to-get-even-more-powerful)
 <!-- BLOG-POST-LIST:END -->
 
 ---
