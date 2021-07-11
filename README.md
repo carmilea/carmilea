@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Heat wave kills estimated 1B sea creatures off Canada's west coast](https://www.npr.org/2021/07/09/1014564664/billion-sea-creatures-mussels-dead-canada-british-columbia-vancouver)
-- [Branson and crew reach space, return in runway landing](https://www.cnbc.com/2021/07/11/virgin-galactic-launch-live-updates-video-stream-richard-branson.html)
-- [It feels lonelier at the top with everyone working from home](https://www.ft.com/content/c6ba4621-d2c1-4140-96e1-e6cfc29806e2)
-- [Programmers fired, including me, due to a single app crash](https://betterprogramming.pub/3-programmers-got-fired-including-me-due-to-a-single-app-crash-35d4c94555da)
-- [USA Today is getting a paywall. Who’s the audience for it?](https://www.niemanlab.org/2021/07/usa-today-is-getting-a-paywall-whos-the-audience-for-it/)
+- [ReadMe (YC W15) is hiring a Product Marketer who loves developers](https://readme.com/careers#product-marketing-manager)
+- [Interpreting 9/11 Commemorative Afghan Carpets](https://rugsofwar.wordpress.com/2011/09/10/the-september-11-commemorative-carpet/)
+- [Project-Nested: An NES Emulator Running on the SNES](https://github.com/Myself086/Project-Nested)
+- [Older job seekers get fewer offers on LinkedIn but a younger profile photo helps](https://www.psychnewsdaily.com/older-job-seekers-on-linkedin-get-fewer-job-offers-but-younger-profile-photo-helps/)
+- [Ask HN: Hacker News like forums for other niches?](https://news.ycombinator.com/item?id=27802233)
 <!-- BLOG-POST-LIST:END -->
 
 ---
