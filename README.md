@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Clerky (YC S11) is hiring software engineers to help modernize legal paperwork](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN)
-- [Virgin Galactic Unity 22 Spaceflight Livestream, Launch – 14:30 UTC](https://www.youtube.com/watch?v=RTpWYWIfP7Y)
-- [If you’re going to put your preschooler in front of a screen, choose a TV](https://www.theguardian.com/commentisfree/2021/jul/09/if-youre-going-to-put-your-preschooler-in-front-of-a-screen-choose-a-tv-heres-why)
-- [Kerberos: Open-Source Video Surveillance](https://kerberos.io/product/open-source/)
-- [Eigengrau](https://en.wikipedia.org/wiki/Eigengrau)
+- [Is planting trees as good for the Earth as everyone says?](https://news.mongabay.com/2021/05/is-planting-trees-as-good-for-the-earth-as-everyone-says/)
+- [“Why do we use R rather than Excel?”](https://shkspr.mobi/blog/2021/07/why-do-we-use-r-rather-than-excel/)
+- [Roger Waters to Mark Zuckerberg: Fuck You](https://m.youtube.com/watch?v=yuv3aMwHf6Q)
+- [WriteFreely: ActivityPub Writing Space](https://writefreely.org/)
+- [Cyberpunk Derivatives](https://en.wikipedia.org/wiki/Cyberpunk_derivatives)
 <!-- BLOG-POST-LIST:END -->
 
 ---
