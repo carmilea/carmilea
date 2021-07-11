@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Nuclear Option: A Personal Story of Treating Social Anxiety with 5-MeO-DMT](https://psychedelictimes.com/nuclear-option-personal-story-of-treating-social-anxiety-with-5-meo-dmt/)
+- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [No Sane Compiler Would Optimize Atomics](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4455.html)
 - [I'm a programmer – how can I help SciHub?](https://www.reddit.com/r/scihub/comments/ohykfm/im_a_programmer_how_can_i_help_scihub/)
 - [Gaussian Processes from Scratch (2019)](https://peterroelants.github.io/posts/gaussian-process-tutorial/)
-- [Biden Launches Action on "Big Tech, Big Pharma, and Big Ag" – Can It Be Real?](https://mattstoller.substack.com/p/biden-launches-sweeping-action-on)
-- [Show HN: Print a WiFi Login Card](https://wificard.io/)
-- [Doctors Might Have Been Focusing on the Wrong Asthma Triggers](https://www.theatlantic.com/health/archive/2021/07/the-pandemic-drove-asthma-attacks-down-why/619396/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
