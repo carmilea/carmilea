@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [List price for stitches at American hospital: $93306](https://twitter.com/grahamwalker/status/1413964824770342912)
+- [Cybersecurity and the Curse of Binary Thinking](https://www.philvenables.com/post/cybersecurity-and-the-curse-of-binary-thinking)
 - [Is planting trees as good for the Earth as everyone says?](https://news.mongabay.com/2021/05/is-planting-trees-as-good-for-the-earth-as-everyone-says/)
-- [“Why do we use R rather than Excel?”](https://shkspr.mobi/blog/2021/07/why-do-we-use-r-rather-than-excel/)
-- [Roger Waters to Mark Zuckerberg: Fuck You](https://m.youtube.com/watch?v=yuv3aMwHf6Q)
+- [Why do we use R rather than Excel?](https://shkspr.mobi/blog/2021/07/why-do-we-use-r-rather-than-excel/)
 - [WriteFreely: ActivityPub Writing Space](https://writefreely.org/)
-- [Cyberpunk Derivatives](https://en.wikipedia.org/wiki/Cyberpunk_derivatives)
 <!-- BLOG-POST-LIST:END -->
 
 ---
