@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Hydroponic System Build](https://kylegabriel.com/projects/2020/06/automated-hydroponic-system-build.html)
-- [Freenode is pointing irc.libera.net to chat.freenode.net](https://fedi.absturztau.be/notice/A99J6EIbR2QWmhpe1A)
+- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [Automated Hydroponic System Build (2020)](https://kylegabriel.com/projects/2020/06/automated-hydroponic-system-build.html)
 - [Random Variable Algebra](https://www.notion.so/Random-Variable-Algebra-69c10f9dae7a4713ab8abcd9892e2540)
 - [Golden eggs and better telescopes (2018)](https://elevanth.org/blog/2018/09/02/golden_eggs/)
-- [NMN supplementation enhances aerobic capacity: a randomized, double-blind study](https://jissn.biomedcentral.com/articles/10.1186/s12970-021-00442-4)
+- [Solar is dirt-cheap and about to get even more powerful](https://www.bloomberg.com/news/articles/2021-07-05/solar-power-is-dirt-cheap-and-about-to-get-even-more-powerful)
 <!-- BLOG-POST-LIST:END -->
 
 ---
