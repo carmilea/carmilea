@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My business might have 32 days before it's shut down by NYC – Louis Rossmann](https://www.youtube.com/watch?v=5oDjSoic9Zk)
-- [NodeMCU ESP32-C3 WiFi and BLE IoT boards show up for about $4](https://www.cnx-software.com/2021/07/12/nodemcu-esp32-c3-wifi-ble-iot-boards/)
-- [Alternative 3](https://en.wikipedia.org/wiki/Alternative_3)
-- [Must-read psychology books](https://durmonski.com/reading-lists/must-read-psychology-books/)
-- [MedMe Health (YC W21) Is Hiring Designers and Engineers](https://www.ycombinator.com/companies/medme-health)
+- [U.S. Pacific Northwest heat wave bakes wheat, fruit crops](https://www.reuters.com/world/us/wither-away-die-us-pacific-northwest-heat-wave-bakes-wheat-fruit-crops-2021-07-12/)
+- [Heirloom](https://silashouseblog.blogspot.com/2021/06/heirloom.html)
+- [Handwriting Is Better Than Typing When Learning a New Language, Study Finds](https://www.sciencealert.com/handwriting-is-better-than-typing-when-learning-to-read-study-finds)
+- [Windows 11 still doesn't understand our complex lives – and it hurts](https://www.theregister.com/2021/07/12/windows_11_still_doesnt_understand/)
+- [The argument for a permanent Olympic City](https://www.popsci.com/science/permanent-olympic-stadium/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
