@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alternative 3](https://en.wikipedia.org/wiki/Alternative_3)
+- [Must-read psychology books](https://durmonski.com/reading-lists/must-read-psychology-books/)
 - [MedMe Health (YC W21) Is Hiring Designers and Engineers](https://www.ycombinator.com/companies/medme-health)
 - [Organic and regenerative agriculture are revitalizing rural Montana economies](https://montanafreepress.org/2021/07/06/regenerative-agriculture-evitalizing-rural-montana-economies/)
 - [Risk Assessment of GitHub Copilot](https://gist.github.com/0xabad1dea/be18e11beb2e12433d93475d72016902)
-- [Firefox 90 supports Fetch Metadata Request Headers](https://blog.mozilla.org/security/2021/07/12/firefox-90-supports-fetch-metadata-request-headers/)
-- [What Are Diffusion Models?](https://lilianweng.github.io/lil-log/2021/07/11/diffusion-models.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
