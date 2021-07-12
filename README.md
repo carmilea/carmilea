@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Web Is Eating the Desktop (2017)](http://adamierymenko.com/web_eating_desktop.html)
+- [Teaching other teachers how to teach CS better](https://cacm.acm.org/magazines/2021/5/252164-teaching-other-teachers-how-to-teach-cs-better/fulltext)
+- [Wall Street Takes Workers’ Retirement Money and Uses It Against Them](https://jacobinmag.com/2021/07/public-pension-private-equity-investment)
+- [Anime Video Encoding Guide for X265 (HEVC) & AAC/Opus (2019)](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/)
+- [The Potential Orwellian Horror of Central Bank Digital Currencies](https://www.adamseconomics.com/post/the-potential-orwellian-horror-of-central-bank-digital-currencies)
 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Gizmo’s Freeware Says Farewell](https://www.techsupportalert.com/content/time-say-farewell.htmEpilogueItiswithgreatsadnessandheavyheartsweannouncetheclosingofGizmo’sFreeware.Afterdueconsideration,we%27vedecidedtoshutdownthissitetentativelyby15July2021afterwhichitwillnotbeaccessibleanymore.ManyyearsagoGizmosetouttobeanindependent,unbiasedresourceforanyonewhowantedthebestfreeware.Alongtheway,wecreatedanamazingcommunityofreadersandeditors.Weareproudofthesitewecreated,andareevenmoregratefulforyou,thecommunityofreadersthatmadeitgrow.OnbehalfofeveryonewhowaspartofGizmo’sFreeware,aheartfeltthankyouformakinguspartofyourlives.Formanyyears,Gizmopaidthecostofrunningthesiteoutofpocket.Whenthatbecametoomuch,weaskedyouaboutrunningadsandyousaidyes,andwerequestedfordonationsandyouwholeheartedlyresponded.Theadsanddonationshavekeptthelightson,andoureditorshavebeenunpaidvolunteers.Astheworldhasshiftedawayfromdesktopstomobilesinsearchofflexibilityovertheyears,ourtrafficandadvertisingrevenuedeclined,andtheproceedscannolongercoverthecostsofrunningthesite.Thiswasaverydifficultdecision,asyou,ourreadersandeditors,havebeentheheartofGizmo’sFreewareforsomanyyears.It’sbeenafantasticjourneywithallofyouandwe’reheartbrokenithascometoanend.Wewillmissyou.TheGizmo%27sFreewareCrew)
-- [No sane compiler would optimize atomics (2015)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4455.html)
-- [Resident Evil Village crack completely fixes its stuttering issues](https://www.dsogaming.com/news/resident-evil-village-crack-completely-fixes-its-stuttering-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
