@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qventus (YC W15) Is Hiring Senior Data Scientist to Help Solve Healthcare](https://jobs.lever.co/qventus/2f0ee88c-89aa-4374-b724-87bffd5a2086)
+- [Tesla’s $16k Quote for a $700 Fix Is Why Right to Repair Matters](https://www.thedrive.com/news/41493/teslas-16000-quote-for-a-700-fix-is-why-right-to-repair-matters)
+- [Show HN: TinyPICO – tiny fully-featured ESP32 board](https://www.tinypico.com/)
+- [Compiling Defender(1981) by Eugene Jarvis](https://github.com/mwenge/defender)
 - [This Website is hosted on an Casio fx-9750GII Calculator](http://fxip.as203478.net/)
-- [Alan Turing in America](https://www.privatdozent.co/p/alan-turing-in-america-221)
-- [Why Google's bookmark manager and Docs have purposefully bad UI](https://bookmarkos.com/why-google%27s-bookmark-manager-and-docs-are-purposely-bad/)
-- [Contrastive Representation Learning](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html)
-- [Temozolomide Is Explosive](https://blogs.sciencemag.org/pipeline/archives/2021/07/12/temozolimide-is-explosive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
