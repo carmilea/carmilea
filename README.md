@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My business might have 32 days before it's shut down by NYC – Louis Rossmann](https://www.youtube.com/watch?v=5oDjSoic9Zk)
+- [NodeMCU ESP32-C3 WiFi and BLE IoT boards show up for about $4](https://www.cnx-software.com/2021/07/12/nodemcu-esp32-c3-wifi-ble-iot-boards/)
 - [Alternative 3](https://en.wikipedia.org/wiki/Alternative_3)
 - [Must-read psychology books](https://durmonski.com/reading-lists/must-read-psychology-books/)
 - [MedMe Health (YC W21) Is Hiring Designers and Engineers](https://www.ycombinator.com/companies/medme-health)
-- [Organic and regenerative agriculture are revitalizing rural Montana economies](https://montanafreepress.org/2021/07/06/regenerative-agriculture-evitalizing-rural-montana-economies/)
-- [Risk Assessment of GitHub Copilot](https://gist.github.com/0xabad1dea/be18e11beb2e12433d93475d72016902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
