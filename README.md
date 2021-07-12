@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [; DROP TABLE "COMPANIES";-- LTD](https://find-and-update.company-information.service.gov.uk/company/10542519)
 - [Qventus (YC W15) Is Hiring Senior Data Scientist to Help Solve Healthcare](https://jobs.lever.co/qventus/2f0ee88c-89aa-4374-b724-87bffd5a2086)
+- [Łukasz Langa Is the New CPython Developer in Residence](https://lukasz.langa.pl/a072a74b-19d7-41ff-a294-e6b1319fdb6e/)
 - [Tesla’s $16k Quote for a $700 Fix Is Why Right to Repair Matters](https://www.thedrive.com/news/41493/teslas-16000-quote-for-a-700-fix-is-why-right-to-repair-matters)
 - [Show HN: TinyPICO – tiny fully-featured ESP32 board](https://www.tinypico.com/)
-- [Compiling Defender(1981) by Eugene Jarvis](https://github.com/mwenge/defender)
-- [This Website is hosted on an Casio fx-9750GII Calculator](http://fxip.as203478.net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
