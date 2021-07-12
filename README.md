@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Obsidian for Mobile – Plain-text knowledge base on the go](https://obsidian.md/mobile)
+- [Tact Filters (1996)](https://www.mit.edu/~jcb/tact.html)
 - [I wrote a 231-byte Brainfuck compiler by abusing everything](https://briancallahan.net/blog/20210710.html)
 - [Wayback Machine Downloader](https://github.com/hartator/wayback-machine-downloader/)
-- [Teaching other teachers how to teach CS better](https://cacm.acm.org/magazines/2021/5/252164-teaching-other-teachers-how-to-teach-cs-better/fulltext)
-- [Sundar Pichai warns of threats to internet freedom](https://www.bbc.com/news/technology-57763382)
-- [Two Wishes for Dev Tooling](https://macwright.com/2021/07/05/two-wishes-for-dev-tooling.html)
+- [Amazon.com product pages are down](https://www.amazon.com/gp/product/1784978515)
 <!-- BLOG-POST-LIST:END -->
 
 ---
