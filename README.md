@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon.com product pages are down](https://www.amazon.com/gp/product/1784978515)
-- [Stop submitting to social conformity and use your brain instead](https://unixsheikh.com/articles/stop-submitting-to-social-conformity-and-use-your-brain-instead.html)
+- [I wrote a 231-byte Brainfuck compiler by abusing everything](https://briancallahan.net/blog/20210710.html)
+- [Wayback Machine Downloader](https://github.com/hartator/wayback-machine-downloader/)
 - [Teaching other teachers how to teach CS better](https://cacm.acm.org/magazines/2021/5/252164-teaching-other-teachers-how-to-teach-cs-better/fulltext)
-- [Google boss: The free and open internet is under attack](https://www.bbc.com/news/technology-57763382)
+- [Sundar Pichai warns of threats to internet freedom](https://www.bbc.com/news/technology-57763382)
 - [Two Wishes for Dev Tooling](https://macwright.com/2021/07/05/two-wishes-for-dev-tooling.html)
 <!-- BLOG-POST-LIST:END -->
 
