@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lee Ross and the “Fundamental Attribution Error”](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b)
 - [; DROP TABLE "COMPANIES";-- LTD](https://find-and-update.company-information.service.gov.uk/company/10542519)
-- [Qventus (YC W15) Is Hiring Senior Data Scientist to Help Solve Healthcare](https://jobs.lever.co/qventus/2f0ee88c-89aa-4374-b724-87bffd5a2086)
-- [Łukasz Langa Is the New CPython Developer in Residence](https://lukasz.langa.pl/a072a74b-19d7-41ff-a294-e6b1319fdb6e/)
+- [Qventus (YC W15) is hiring a senior data scientist to help solve healthcare](https://jobs.lever.co/qventus/2f0ee88c-89aa-4374-b724-87bffd5a2086)
 - [Tesla’s $16k Quote for a $700 Fix Is Why Right to Repair Matters](https://www.thedrive.com/news/41493/teslas-16000-quote-for-a-700-fix-is-why-right-to-repair-matters)
-- [Show HN: TinyPICO – tiny fully-featured ESP32 board](https://www.tinypico.com/)
+- [TinyPICO – tiny fully-featured ESP32 board](https://www.tinypico.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
