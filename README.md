@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Suplias (YC S21) – B2B inventory for mom and pop stores in Africa](https://news.ycombinator.com/item?id=27812565)
+- [Axiom.ai (YC W21) Is Hiring an Automation Developer (Remote)](https://www.ycombinator.com/companies/axiom-ai/jobs/HOz4Azt-customer-success-automation-developer)
+- [Why Build Toys](https://blog.aaronkharris.com/why-build-toys)
+- [The Air Force weather team that keeps canceling your rocket launches (2020)](https://www.theverge.com/21275436/spacex-launch-rocket-weather-45th-space-wing-squadron-lightning)
 - [Dead Startup Toys](https://deadstartuptoys.com/)
-- [U.S. Pacific Northwest heat wave bakes wheat, fruit crops](https://www.reuters.com/world/us/wither-away-die-us-pacific-northwest-heat-wave-bakes-wheat-fruit-crops-2021-07-12/)
-- [Heirloom](https://silashouseblog.blogspot.com/2021/06/heirloom.html)
-- [Handwriting Is Better Than Typing When Learning a New Language, Study Finds](https://www.sciencealert.com/handwriting-is-better-than-typing-when-learning-to-read-study-finds)
-- [Windows 11 still doesn't understand our complex lives – and it hurts](https://www.theregister.com/2021/07/12/windows_11_still_doesnt_understand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
