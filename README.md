@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Atlassian Compass: Mission control for your distributed architecture](https://www.atlassian.com/software/compass)
+- [Alan Turing in America](https://www.privatdozent.co/p/alan-turing-in-america-221)
+- [Contrastive Representation Learning](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html)
 - [Temozolomide Is Explosive](https://blogs.sciencemag.org/pipeline/archives/2021/07/12/temozolimide-is-explosive)
 - [Internet outages in Cuba following widespread anti-government protests](https://twitter.com/dougmadory/status/1414356912410353665)
-- [Launch HN: Suplias (YC S21) – B2B inventory for mom and pop stores in Africa](https://news.ycombinator.com/item?id=27812565)
-- [Axiom.ai (YC W21) Is Hiring an Automation Developer (Remote)](https://www.ycombinator.com/companies/axiom-ai/jobs/HOz4Azt-customer-success-automation-developer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
