@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Atlassian Compass: Mission control for your distributed architecture](https://www.atlassian.com/software/compass)
+- [Temozolomide Is Explosive](https://blogs.sciencemag.org/pipeline/archives/2021/07/12/temozolimide-is-explosive)
+- [Internet outages in Cuba following widespread anti-government protests](https://twitter.com/dougmadory/status/1414356912410353665)
 - [Launch HN: Suplias (YC S21) – B2B inventory for mom and pop stores in Africa](https://news.ycombinator.com/item?id=27812565)
 - [Axiom.ai (YC W21) Is Hiring an Automation Developer (Remote)](https://www.ycombinator.com/companies/axiom-ai/jobs/HOz4Azt-customer-success-automation-developer)
-- [Why Build Toys](https://blog.aaronkharris.com/why-build-toys)
-- [The Air Force weather team that keeps canceling your rocket launches (2020)](https://www.theverge.com/21275436/spacex-launch-rocket-weather-45th-space-wing-squadron-lightning)
-- [Dead Startup Toys](https://deadstartuptoys.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
