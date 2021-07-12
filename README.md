@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple threatens UK market exit if court orders 'unacceptable' patent fees](https://appleinsider.com/articles/21/07/11/apple-attorneys-threaten-uk-market-exit-if-court-orders-unacceptable-patent-fees)
 - [NeoApple2: A Port of the Apple2fpga Apple II Emulator to Xilinx FPGAs](https://github.com/zf3/neoapple2)
 - [Show HN: Obsidian for Mobile – Plain-text knowledge base on the go](https://obsidian.md/mobile)
 - [Tact Filters (1996)](https://www.mit.edu/~jcb/tact.html)
 - [Haskell for Beginners](https://blog.kalvad.com/haskell-series-part-1/)
-- [I wrote a 231-byte Brainfuck compiler by abusing everything](https://briancallahan.net/blog/20210710.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
