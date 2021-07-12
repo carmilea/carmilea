@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon.com product pages are down](https://www.amazon.com/gp/product/1784978515)
+- [Amazon.com and its app are currently broken](https://twitter.com/DRLynam/status/1414417662533271552)
 - [Stop submitting to social conformity and use your brain instead](https://unixsheikh.com/articles/stop-submitting-to-social-conformity-and-use-your-brain-instead.html)
 - [Teaching other teachers how to teach CS better](https://cacm.acm.org/magazines/2021/5/252164-teaching-other-teachers-how-to-teach-cs-better/fulltext)
 - [Google boss: The free and open internet is under attack](https://www.bbc.com/news/technology-57763382)
-- [Two Wishes for Dev Tooling](https://macwright.com/2021/07/05/two-wishes-for-dev-tooling.html)
-- [Wall Street Takes Workers’ Retirement Money and Uses It Against Them](https://jacobinmag.com/2021/07/public-pension-private-equity-investment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
