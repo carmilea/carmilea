@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dead Startup Toys](https://deadstartuptoys.com/)
 - [U.S. Pacific Northwest heat wave bakes wheat, fruit crops](https://www.reuters.com/world/us/wither-away-die-us-pacific-northwest-heat-wave-bakes-wheat-fruit-crops-2021-07-12/)
 - [Heirloom](https://silashouseblog.blogspot.com/2021/06/heirloom.html)
 - [Handwriting Is Better Than Typing When Learning a New Language, Study Finds](https://www.sciencealert.com/handwriting-is-better-than-typing-when-learning-to-read-study-finds)
 - [Windows 11 still doesn't understand our complex lives – and it hurts](https://www.theregister.com/2021/07/12/windows_11_still_doesnt_understand/)
-- [The argument for a permanent Olympic City](https://www.popsci.com/science/permanent-olympic-stadium/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
