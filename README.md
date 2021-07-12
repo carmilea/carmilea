@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Atlassian Compass: Mission control for your distributed architecture](https://www.atlassian.com/software/compass)
+- [This Website is hosted on an Casio fx-9750GII Calculator](http://fxip.as203478.net/)
 - [Alan Turing in America](https://www.privatdozent.co/p/alan-turing-in-america-221)
+- [Why Google's bookmark manager and Docs have purposefully bad UI](https://bookmarkos.com/why-google%27s-bookmark-manager-and-docs-are-purposely-bad/)
 - [Contrastive Representation Learning](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html)
 - [Temozolomide Is Explosive](https://blogs.sciencemag.org/pipeline/archives/2021/07/12/temozolimide-is-explosive)
-- [Internet outages in Cuba following widespread anti-government protests](https://twitter.com/dougmadory/status/1414356912410353665)
 <!-- BLOG-POST-LIST:END -->
 
 ---
