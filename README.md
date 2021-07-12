@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple threatens UK market exit if court orders 'unacceptable' patent fees](https://appleinsider.com/articles/21/07/11/apple-attorneys-threaten-uk-market-exit-if-court-orders-unacceptable-patent-fees)
-- [NeoApple2: A Port of the Apple2fpga Apple II Emulator to Xilinx FPGAs](https://github.com/zf3/neoapple2)
-- [Show HN: Obsidian for Mobile – Plain-text knowledge base on the go](https://obsidian.md/mobile)
-- [Tact Filters (1996)](https://www.mit.edu/~jcb/tact.html)
-- [Haskell for Beginners](https://blog.kalvad.com/haskell-series-part-1/)
+- [MedMe Health (YC W21) Is Hiring Designers and Engineers](https://www.ycombinator.com/companies/medme-health)
+- [Organic and regenerative agriculture are revitalizing rural Montana economies](https://montanafreepress.org/2021/07/06/regenerative-agriculture-evitalizing-rural-montana-economies/)
+- [Risk Assessment of GitHub Copilot](https://gist.github.com/0xabad1dea/be18e11beb2e12433d93475d72016902)
+- [Firefox 90 supports Fetch Metadata Request Headers](https://blog.mozilla.org/security/2021/07/12/firefox-90-supports-fetch-metadata-request-headers/)
+- [What Are Diffusion Models?](https://lilianweng.github.io/lil-log/2021/07/11/diffusion-models.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
