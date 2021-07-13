@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canada’s Mobile Data Prices vs. the World in One Chart](https://twitter.com/tefficient/status/1414573673500000259)
+- [Ask HN: Introduction to Analog Synthesizers (Simulation OK)](https://news.ycombinator.com/item?id=27822489)
+- [Subscription Changes for Computer Backup](https://www.backblaze.com/blog/subscription-changes-for-computer-backup/)
+- [Muse Group Continues Tone Deaf Handling of Audacity](https://hackaday.com/2021/07/13/muse-group-continues-tone-deaf-handling-of-audacity/)
 - [Study finds 83% of software developers feel burnout](https://www.usehaystack.io/blog/83-of-developers-suffer-from-burnout-haystack-analytics-study-finds)
 - [Plenty of exercise can be enough to offset the negative impacts of poor sleep](https://www.sciencealert.com/plenty-of-exercise-can-be-enough-to-offset-the-negative-impact-of-poor-sleep)
-- [Bellingcat Crowdsources Spycraft, Scales Up Sleuthing](https://spectrum.ieee.org/tech-talk/telecom/security/qa-the-founder-of-bellingcat-on-how-social-media-enables-new-forms-of-investigation)
-- [Building a vision of life without work (2015)](https://livingafi.com/2015/03/09/building-a-vision-of-life-without-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
