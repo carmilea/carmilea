@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RMA: Rapid Motor Adaptation for Legged Robots](https://ashish-kmr.github.io/rma-legged-robots/)
 - [Schrödinger's Code](https://queue.acm.org/detail.cfm?id=3468263)
 - [Positive Energy Warp Drive from Hidden Geometric Structures](https://arxiv.org/abs/2104.06488)
 - [Approved fracking compounds can form PFAS a.k.a. “forever chemicals”](https://www.nytimes.com/2021/07/12/climate/epa-pfas-fracking-forever-chemicals.html)
 - [Borgs are giant extrachromosomal elements](https://www.biorxiv.org/content/10.1101/2021.07.10.451761v1?rss=1)
-- [Lee Ross and the “Fundamental Attribution Error”](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
