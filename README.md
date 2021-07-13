@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Does free software benefit from ML models being derived works of training data?](https://mjg59.dreamwidth.org/57615.html)
 - [Paternity leave: The hidden barriers keeping men at work](https://www.bbc.com/worklife/article/20210712-paternity-leave-the-hidden-barriers-keeping-men-at-work)
-- [Sharing our engineering career framework with the world](https://dropbox.tech/infrastructure/sharing-our-engineering-career-framework-with-the-world)
+- [SDF Fractal Noise](http://iquilezles.org/www/articles/fbmsdf/fbmsdf.htm)
+- [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
 - [Show HN: GPU-Accelerated Inference Hosting](https://inferrd.com/?gpu)
-- [RMA: Rapid Motor Adaptation for Legged Robots](https://ashish-kmr.github.io/rma-legged-robots/)
-- [Schrödinger's Code](https://queue.acm.org/detail.cfm?id=3468263)
 <!-- BLOG-POST-LIST:END -->
 
 ---
