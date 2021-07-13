@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Inventor harvests methane gas from ditches and ponds to power his moped](https://www.notechmagazine.com/2021/07/inventor-harvests-methane-gas-from-ditches-and-ponds-to-power-his-moped.html)
-- [France fines Google €500M over copyright row](https://www.reuters.com/technology/france-fines-google-500-mln-over-copyright-row-2021-07-13/)
-- [Show HN: Face Maker AI. Sketch to create photorealistic faces](https://massless.io/tool/face-maker-ai/)
-- [Reddit is forcing the SaveVideo bot offline or face legal action](https://np.reddit.com/user/SaveVideo/comments/oimo6y/the_end_is_nigh/)
-- [Kanda (YC W21) Is Hiring Mid-Senior Full Stack](https://www.ycombinator.com/companies/kanda/jobs/CsUJY4L-full-stack-engineer-with-bias-towards-front-end-work)
+- [Litnerd (YC S21) Is Hiring](https://www.ycombinator.com/companies/litnerd/jobs/MKhXv09-vp-of-engineering)
+- [Show HN: Maildog – Hosting your own email forwarding service with GitHub Actions](https://github.com/edmundhung/maildog)
+- [Show HN: Fakeflix – Netflix open source clone](https://github.com/Th3Wall/Fakeflix)
+- [MacKichan Software, maker of Scientific Word, has gone out of business](https://www.mackichan.com/index.html?techtalk/407.htm~mainFrame)
+- [Apache Heron: A realtime, distributed, fault-tolerant stream processing engine](https://heron.incubator.apache.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
