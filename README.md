@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sharing our engineering career framework with our world](https://dropbox.tech/infrastructure/sharing-our-engineering-career-framework-with-the-world)
+- [Paternity leave: The hidden barriers keeping men at work](https://www.bbc.com/worklife/article/20210712-paternity-leave-the-hidden-barriers-keeping-men-at-work)
+- [Sharing our engineering career framework with the world](https://dropbox.tech/infrastructure/sharing-our-engineering-career-framework-with-the-world)
 - [Show HN: GPU-Accelerated Inference Hosting](https://inferrd.com/?gpu)
 - [RMA: Rapid Motor Adaptation for Legged Robots](https://ashish-kmr.github.io/rma-legged-robots/)
 - [Schrödinger's Code](https://queue.acm.org/detail.cfm?id=3468263)
-- [Positive Energy Warp Drive from Hidden Geometric Structures](https://arxiv.org/abs/2104.06488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
