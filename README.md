@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inventor harvests methane gas from ditches and ponds to power his moped](https://www.notechmagazine.com/2021/07/inventor-harvests-methane-gas-from-ditches-and-ponds-to-power-his-moped.html)
+- [France fines Google €500M over copyright row](https://www.reuters.com/technology/france-fines-google-500-mln-over-copyright-row-2021-07-13/)
 - [Show HN: Face Maker AI. Sketch to create photorealistic faces](https://massless.io/tool/face-maker-ai/)
 - [Reddit is forcing the SaveVideo bot offline or face legal action](https://np.reddit.com/user/SaveVideo/comments/oimo6y/the_end_is_nigh/)
 - [Kanda (YC W21) Is Hiring Mid-Senior Full Stack](https://www.ycombinator.com/companies/kanda/jobs/CsUJY4L-full-stack-engineer-with-bias-towards-front-end-work)
-- [OpenSearch 1.0](https://opensearch.org/blog/updates/2021/07/opensearch-general-availability-announcement/)
-- [Paternity leave: The hidden barriers keeping men at work](https://www.bbc.com/worklife/article/20210712-paternity-leave-the-hidden-barriers-keeping-men-at-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
