@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a vision of life without work](https://livingafi.com/2015/03/09/building-a-vision-of-life-without-work/)
-- [The military secret to falling asleep in two minutes](https://www.independent.co.uk/life-style/fall-asleep-fast-sleep-trick-b1796959.html)
-- [Inflation climbs higher than expected in June as price index rises 5.4%](https://www.cnbc.com/2021/07/13/consumer-price-index-increases-5point4percent-in-june-vs-5percent-estimate.html)
-- [Litnerd (YC S21) Is Hiring](https://www.ycombinator.com/companies/litnerd/jobs/MKhXv09-vp-of-engineering)
-- [Show HN: maildog - Hosting email forwarding service on AWS with GitHub Actions](https://github.com/edmundhung/maildog)
+- [Canada’s Mobile Data Prices vs. the World in One Chart](https://twitter.com/tefficient/status/1414573673500000259)
+- [Study finds 83% of software developers feel burnout](https://www.usehaystack.io/blog/83-of-developers-suffer-from-burnout-haystack-analytics-study-finds)
+- [Plenty of exercise can be enough to offset the negative impacts of poor sleep](https://www.sciencealert.com/plenty-of-exercise-can-be-enough-to-offset-the-negative-impact-of-poor-sleep)
+- [Bellingcat Crowdsources Spycraft, Scales Up Sleuthing](https://spectrum.ieee.org/tech-talk/telecom/security/qa-the-founder-of-bellingcat-on-how-social-media-enables-new-forms-of-investigation)
+- [Building a vision of life without work (2015)](https://livingafi.com/2015/03/09/building-a-vision-of-life-without-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
