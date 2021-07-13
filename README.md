@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple MagSafe Battery Pack](https://www.apple.com/shop/product/MJWY3AM/A/magsafe-battery-pack)
+- [Perth man jailed for 7 months after breaching self-quarantine instructions](https://www.skynews.com.au/australia-news/coronavirus/covid19-perth-man-jailed-for-seven-months-after-having-tradies-over/news-story/0ae395b3a971e3734bc93711b610dd26)
 - [Rabbet (YC S17) Is Hiring Elixir/React Software Engineers (US Remote/Austin)](https://apply.workable.com/rabbet/)
-- [China's Ban on Bitcoin Follows a Pattern Frequently Used by Beijing](https://crypto.writer.io/p/chinas-ban-on-bitcoin-follows-a-pattern?r=ooa4e&utm_campaign=post&utm_medium=web&utm_source=hackernews)
 - [Beating TimSort at Merging](https://earthly.dev/blog/python-timsort-merge/)
 - [Give me /events, not webhooks](https://blog.syncinc.so/events-not-webhooks)
-- [Launch HN: Café (YC S21) – Find the best days to go to the office?](https://news.ycombinator.com/item?id=27823005)
 <!-- BLOG-POST-LIST:END -->
 
 ---
