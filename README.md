@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kanda (YC W21) Is Hiring Mid-Senior Full Stack](https://www.ycombinator.com/companies/kanda/jobs/CsUJY4L-full-stack-engineer-with-bias-towards-front-end-work)
+- [OpenSearch 1.0](https://opensearch.org/blog/updates/2021/07/opensearch-general-availability-announcement/)
 - [Does free software benefit from ML models being derived works of training data?](https://mjg59.dreamwidth.org/57615.html)
 - [Paternity leave: The hidden barriers keeping men at work](https://www.bbc.com/worklife/article/20210712-paternity-leave-the-hidden-barriers-keeping-men-at-work)
 - [SDF Fractal Noise](http://iquilezles.org/www/articles/fbmsdf/fbmsdf.htm)
-- [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
-- [Show HN: GPU-Accelerated Inference Hosting](https://inferrd.com/?gpu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
