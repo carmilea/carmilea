@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a vision of life without work](https://livingafi.com/2015/03/09/building-a-vision-of-life-without-work/)
+- [The military secret to falling asleep in two minutes](https://www.independent.co.uk/life-style/fall-asleep-fast-sleep-trick-b1796959.html)
 - [Inflation climbs higher than expected in June as price index rises 5.4%](https://www.cnbc.com/2021/07/13/consumer-price-index-increases-5point4percent-in-june-vs-5percent-estimate.html)
 - [Litnerd (YC S21) Is Hiring](https://www.ycombinator.com/companies/litnerd/jobs/MKhXv09-vp-of-engineering)
-- [Show HN: Maildog – Hosting your own email forwarding service with GitHub Actions](https://github.com/edmundhung/maildog)
-- [Show HN: Fakeflix – Netflix open source clone](https://github.com/Th3Wall/Fakeflix)
-- [MacKichan Software, maker of Scientific Word, has gone out of business](https://www.mackichan.com/index.html?techtalk/407.htm~mainFrame)
+- [Show HN: maildog - Hosting email forwarding service on AWS with GitHub Actions](https://github.com/edmundhung/maildog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
