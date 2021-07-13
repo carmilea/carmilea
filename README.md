@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Face Maker AI. Sketch to create photorealistic faces](https://massless.io/tool/face-maker-ai/)
+- [Reddit is forcing the SaveVideo bot offline or face legal action](https://np.reddit.com/user/SaveVideo/comments/oimo6y/the_end_is_nigh/)
 - [Kanda (YC W21) Is Hiring Mid-Senior Full Stack](https://www.ycombinator.com/companies/kanda/jobs/CsUJY4L-full-stack-engineer-with-bias-towards-front-end-work)
-- [Some states push to ban “discrimination” against unvaccinated people](https://www.axios.com/republicans-coronavirus-vaccines-discrimination-law-states-533503fb-fa83-43d0-bd51-2d614483d241.html)
 - [OpenSearch 1.0](https://opensearch.org/blog/updates/2021/07/opensearch-general-availability-announcement/)
-- [Does free software benefit from ML models being derived works of training data?](https://mjg59.dreamwidth.org/57615.html)
 - [Paternity leave: The hidden barriers keeping men at work](https://www.bbc.com/worklife/article/20210712-paternity-leave-the-hidden-barriers-keeping-men-at-work)
 <!-- BLOG-POST-LIST:END -->
 
