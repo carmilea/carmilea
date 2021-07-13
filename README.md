@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sharing our engineering career framework with our world](https://dropbox.tech/infrastructure/sharing-our-engineering-career-framework-with-the-world)
+- [Show HN: GPU-Accelerated Inference Hosting](https://inferrd.com/?gpu)
 - [RMA: Rapid Motor Adaptation for Legged Robots](https://ashish-kmr.github.io/rma-legged-robots/)
 - [Schrödinger's Code](https://queue.acm.org/detail.cfm?id=3468263)
 - [Positive Energy Warp Drive from Hidden Geometric Structures](https://arxiv.org/abs/2104.06488)
-- [Approved fracking compounds can form PFAS a.k.a. “forever chemicals”](https://www.nytimes.com/2021/07/12/climate/epa-pfas-fracking-forever-chemicals.html)
-- [Borgs are giant extrachromosomal elements](https://www.biorxiv.org/content/10.1101/2021.07.10.451761v1?rss=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
