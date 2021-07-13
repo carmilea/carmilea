@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cornel West Releases Resignation Letter from Harvard](https://www.npr.org/2021/07/13/1015632217/cornel-west-has-announced-hes-leaving-harvard-and-says-the-school-has-lost-its-w)
-- [Apple scores 35 Emmy nominations, including 20 for hit series “Ted Lasso”](https://www.apple.com/newsroom/2021/07/apple-scores-35-emmy-nominations-including-20-for-hit-series-ted-lasso/)
+- [Mozart Data (YC S20) Is Hiring a UI/UX Designer](https://www.mozartdata.com/uiux-designer)
+- [Go 1.17 Release Candidate 1](https://groups.google.com/g/golang-announce/c/gJE7OtHlRbM/m/21x8zAR-AAAJ)
+- [RabbitMQ Streams Overview](https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/)
+- [A privacy war is raging inside the W3C](https://www.protocol.com/policy/w3c-privacy-war)
 - [macOS Nix Setup (an alternative to Homebrew) (2020)](https://wickedchicken.github.io/post/macos-nix-setup/)
-- [A review and how-to guide for Microsoft Form Recognizer](https://www.crosstab.io/articles/microsoft-form-recognizer-review)
-- [Why is standing more tiring than walking? [audio]](https://www.bbc.co.uk/programmes/w3ct1pqm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
