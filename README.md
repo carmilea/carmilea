@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Schrödinger's Code](https://queue.acm.org/detail.cfm?id=3468263)
+- [Positive Energy Warp Drive from Hidden Geometric Structures](https://arxiv.org/abs/2104.06488)
+- [Approved fracking compounds can form PFAS a.k.a. “forever chemicals”](https://www.nytimes.com/2021/07/12/climate/epa-pfas-fracking-forever-chemicals.html)
+- [Borgs are giant extrachromosomal elements](https://www.biorxiv.org/content/10.1101/2021.07.10.451761v1?rss=1)
 - [Lee Ross and the “Fundamental Attribution Error”](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b)
-- [; DROP TABLE "COMPANIES";-- LTD](https://find-and-update.company-information.service.gov.uk/company/10542519)
-- [Qventus (YC W15) is hiring a senior data scientist to help solve healthcare](https://jobs.lever.co/qventus/2f0ee88c-89aa-4374-b724-87bffd5a2086)
-- [Tesla’s $16k Quote for a $700 Fix Is Why Right to Repair Matters](https://www.thedrive.com/news/41493/teslas-16000-quote-for-a-700-fix-is-why-right-to-repair-matters)
-- [TinyPICO – tiny fully-featured ESP32 board](https://www.tinypico.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
