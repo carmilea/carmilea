@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lightning-strike selfie lands siblings in hospital](https://www.bbc.co.uk/news/uk-england-london-57825759)
+- [“Long Covid”: More Than a 1/4 of Covid-19 Patients Symptomatic After 6 Months](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254523)
+- [Reducing the Computational Cost of Deep Reinforcement Learning Research](https://ai.googleblog.com/2021/07/reducing-computational-cost-of-deep.html)
 - [Apple MagSafe Battery Pack](https://www.apple.com/shop/product/MJWY3AM/A/magsafe-battery-pack)
-- [Perth man jailed for 7 months after breaching self-quarantine instructions](https://www.skynews.com.au/australia-news/coronavirus/covid19-perth-man-jailed-for-seven-months-after-having-tradies-over/news-story/0ae395b3a971e3734bc93711b610dd26)
-- [Rabbet (YC S17) Is Hiring Elixir/React Software Engineers (US Remote/Austin)](https://apply.workable.com/rabbet/)
-- [Beating TimSort at Merging](https://earthly.dev/blog/python-timsort-merge/)
-- [Give me /events, not webhooks](https://blog.syncinc.so/events-not-webhooks)
+- [Vantage Launches AWS Cost Saving Recommendations](https://www.vantage.sh/blog/vantage-launches-aws-cost-saving-recommendations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
