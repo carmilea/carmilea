@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Carlos Ghosn: How I escaped Japan in a box](https://www.bbc.co.uk/news/business-57760993)
 - [Mozart Data (YC S20) Is Hiring a UI/UX Designer](https://www.mozartdata.com/uiux-designer)
 - [Go 1.17 Release Candidate 1](https://groups.google.com/g/golang-announce/c/gJE7OtHlRbM/m/21x8zAR-AAAJ)
 - [RabbitMQ Streams Overview](https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/)
 - [A privacy war is raging inside the W3C](https://www.protocol.com/policy/w3c-privacy-war)
-- [macOS Nix Setup (an alternative to Homebrew) (2020)](https://wickedchicken.github.io/post/macos-nix-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
