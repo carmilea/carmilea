@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lightning-strike selfie lands siblings in hospital](https://www.bbc.co.uk/news/uk-england-london-57825759)
-- [“Long Covid”: More Than a 1/4 of Covid-19 Patients Symptomatic After 6 Months](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254523)
-- [Reducing the Computational Cost of Deep Reinforcement Learning Research](https://ai.googleblog.com/2021/07/reducing-computational-cost-of-deep.html)
-- [Apple MagSafe Battery Pack](https://www.apple.com/shop/product/MJWY3AM/A/magsafe-battery-pack)
-- [Vantage Launches AWS Cost Saving Recommendations](https://www.vantage.sh/blog/vantage-launches-aws-cost-saving-recommendations)
+- [Cornel West Releases Resignation Letter from Harvard](https://www.npr.org/2021/07/13/1015632217/cornel-west-has-announced-hes-leaving-harvard-and-says-the-school-has-lost-its-w)
+- [Apple scores 35 Emmy nominations, including 20 for hit series “Ted Lasso”](https://www.apple.com/newsroom/2021/07/apple-scores-35-emmy-nominations-including-20-for-hit-series-ted-lasso/)
+- [macOS Nix Setup (an alternative to Homebrew) (2020)](https://wickedchicken.github.io/post/macos-nix-setup/)
+- [A review and how-to guide for Microsoft Form Recognizer](https://www.crosstab.io/articles/microsoft-form-recognizer-review)
+- [Why is standing more tiring than walking? [audio]](https://www.bbc.co.uk/programmes/w3ct1pqm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
