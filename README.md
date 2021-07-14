@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Win a Hackathon Without Coming in First Place](https://strdr4605.github.io/how-to-win-a-hackathon)
-- [Google is capping Meet’s formerly unlimited group video calls to hour for free](https://www.theverge.com/2021/7/13/22576137/google-meet-group-meeting-cap-one-hour)
-- [Jeff Bezos’ Dystopian Legacy Goes Far Beyond Amazon](https://thewire.in/tech/jeff-bezos-dystopian-legacy-goes-far-beyond-amazon)
-- [Launch HN: Onfolk (YC S21) – Modern HR and Payroll in One Place (For the UK)](https://news.ycombinator.com/item?id=27830978)
-- [Nanostructure design enables new possibilities for e-paper in color](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c00904#)
+- [Tara AI (YC W15) Is Hiring Senior Front End Engineers](https://www.ycombinator.com/companies/tara-ai/jobs/C4NDUTD-senior-front-end-engineer)
+- [WebAssembly from Scratch: From FizzBuzz to Doom (2021)](https://github.com/diekmann/wasm-fizzbuzz)
+- [One by One, My Friends Were Sent to the Camps](https://www.theatlantic.com/the-uyghur-chronicles/)
+- [Svgbob – Create a graphical representation of your text diagrams](https://github.com/ivanceras/svgbob)
+- [How to win a hackathon without coming in first place](https://strdr4605.github.io/how-to-win-a-hackathon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
