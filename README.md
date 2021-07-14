@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [mRNA Vaccines May Pack More Persistent Punch Against Covid-19 Than Thought](https://directorsblog.nih.gov/2021/07/13/mrna-vaccines-could-pack-more-persistent-punch-against-covid-19-than-thought/)
+- [Where Is the Apple M2](https://www.tbray.org/ongoing/When/202x/2021/07/12/Slow-M1)
 - [Of 55 students in my class at Columbia’s Film program, 4 made a career out of it](https://twitter.com/JStoteraux/status/1413326562821246978)
 - [ZSA Planck EZ: A Powerful, Backlit, Open-Source, 40% Mechanical Keyboard](https://www.zsa.io/planck/)
 - [Dividend Cripples Saudi Aramco](https://oilprice.com/Energy/Energy-General/Huge-Dividend-Cripples-Worlds-Largest-Oil-Company.html)
-- [EXIF-based intrinsic image sizing explainer](https://github.com/eeeps/exif-intrinsic-sizing-explainer)
-- [Carlos Ghosn: How I escaped Japan in a box](https://www.bbc.co.uk/news/business-57760993)
 <!-- BLOG-POST-LIST:END -->
 
 ---
