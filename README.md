@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Eric Weinstein a Crackpot?](https://nonzero.substack.com/p/is-eric-weinstein-a-crackpot)
-- [Greenwald: The secret services are spying on politicians with oversight roles](https://www.youtube.com/watch?v=qzcOtzZRizc&t=260s)
+- [How to Win a Hackathon Without Coming in First Place](https://strdr4605.github.io/how-to-win-a-hackathon)
 - [Google is capping Meet’s formerly unlimited group video calls to hour for free](https://www.theverge.com/2021/7/13/22576137/google-meet-group-meeting-cap-one-hour)
 - [Jeff Bezos’ Dystopian Legacy Goes Far Beyond Amazon](https://thewire.in/tech/jeff-bezos-dystopian-legacy-goes-far-beyond-amazon)
 - [Launch HN: Onfolk (YC S21) – Modern HR and Payroll in One Place (For the UK)](https://news.ycombinator.com/item?id=27830978)
+- [Nanostructure design enables new possibilities for e-paper in color](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c00904#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
