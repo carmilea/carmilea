@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 365 Cloud PC](https://www.microsoft.com/en-us/microsoft-365/blog/2021/07/14/introducing-a-new-era-of-hybrid-personal-computing-the-windows-365-cloud-pc/)
+- [Flockjay (YC W19) is hiring product-minded fullstack and back end engineers](https://jobs.lever.co/flockjay?team=Engineering)
+- [Facebook plans to pay creators $1B to use its products](https://www.nytimes.com/2021/07/14/technology/facebook-payments-creators.html)
+- [Warp: Fast, Rust-based terminal](https://www.warp.dev)
 - [The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games](https://bair.berkeley.edu/blog/2021/07/14/mappo/)
 - [The most successful global tech bets are efficient and practical startups](https://restofworld.org/2021/forget-everything-silicon-valley-taught-about-tech-investing/)
-- [Twitter sees jump in govt demands to remove content of journalists](https://www.reuters.com/technology/exclusive-twitter-sees-jump-govt-demands-remove-content-journalists-news-outlets-2021-07-14/)
-- [Amazon has acquired Facebook's satellite internet team](https://www.engadget.com/amazon-has-acquired-facebooks-satellite-internet-group-115312282.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
