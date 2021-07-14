@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Shift in American Family Values Is Fueling Estrangement](https://www.theatlantic.com/family/archive/2021/01/why-parents-and-kids-get-estranged/617612/)
+- [Twitter sees jump in govt demands to remove content of journalists](https://www.reuters.com/technology/exclusive-twitter-sees-jump-govt-demands-remove-content-journalists-news-outlets-2021-07-14/)
+- [Amazon has acquired Facebook's satellite internet team](https://www.engadget.com/amazon-has-acquired-facebooks-satellite-internet-group-115312282.html)
+- [GM reveals more technical details of its Ultium battery packs](https://chargedevs.com/newswire/gm-reveals-more-technical-details-of-its-ultium-battery-packs/)
+- [The unreasonable effectiveness of just showing up everyday](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)
 - [A Facebook engineer abused access to user data to track down woman](https://www.businessinsider.com.au/facebook-fired-dozens-abusing-access-user-data-an-ugly-truth-2021-7)
-- [Monodraw: Powerful ASCII art editor designed for the Mac](https://monodraw.helftone.com/)
-- [India bans MasterCard from adding new customers](https://techcrunch.com/2021/07/14/india-bans-mastercard-from-adding-new-customers/)
-- [Norman Doors Are Everywhere](https://www.youtube.com/watch?v=yY96hTb8WgI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
