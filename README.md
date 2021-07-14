@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jeff Bezos’ Dystopian Legacy Goes Far Beyond Amazon](https://thewire.in/tech/jeff-bezos-dystopian-legacy-goes-far-beyond-amazon)
+- [Nanostructure design enables new possibilities for e-paper in color](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c00904#)
+- [Boeing discloses a new problem with the 787 Dreamliner](https://edition.cnn.com/2021/07/13/business/boeing-787-dreamliner-faa/index.html)
 - [Open engineering roles at over 500 YC-funded startups](https://www.ycombinator.com/jobs)
 - [Bank of England to crack down on 'secretive' cloud computing services](https://www.itnews.com.au/news/bank-of-england-to-crack-down-on-secretive-cloud-computing-services-567310)
-- [Man Wrongfully Arrested by Facial Recognition Tells Congress His Story](https://www.vice.com/en/article/xgx5gd/man-wrongfully-arrested-by-facial-recognition-tells-congress-his-story)
-- [TypeScript's Type System Is Turing Complete (2017)](https://github.com/microsoft/TypeScript/issues/14833)
-- [Moon wobble to bring surge in coastal flooding in 2030s, NASA study predicts](https://edition.cnn.com/2021/07/13/us/moon-wobble-coastal-flooding-scn-trnd/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
