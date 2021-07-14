@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Flockjay (YC W19) is hiring product-minded fullstack and back end engineers](https://jobs.lever.co/flockjay?team=Engineering)
-- [Facebook plans to pay creators $1B to use its products](https://www.nytimes.com/2021/07/14/technology/facebook-payments-creators.html)
-- [Warp: Fast, Rust-based terminal](https://www.warp.dev)
-- [The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games](https://bair.berkeley.edu/blog/2021/07/14/mappo/)
-- [The most successful global tech bets are efficient and practical startups](https://restofworld.org/2021/forget-everything-silicon-valley-taught-about-tech-investing/)
+- [The world’s highest-resolution holographic interface](https://lookingglassfactory.com/8k)
+- [Goodbye, Fleets](https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets)
+- [MIT Predicted Society Will Collapse in 2040. Research Shows We're on Schedule](https://flip.it/3.eP7F)
+- [Increasing HTTPS Adoption](https://blog.chromium.org/2021/07/increasing-https-adoption.html)
+- [The Blender Studio Pipeline](https://cloud.blender.org/blog/the-blender-studio-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
