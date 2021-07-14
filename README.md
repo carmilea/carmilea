@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Attack of the 50 foot Blockchain (2017)](http://blog.koehntopp.info/2017/08/01/fertig-gelesen-attack-of-the-50-foot-blockchain.html)
 - [Tara AI (YC W15) Is Hiring Senior Front End Engineers](https://www.ycombinator.com/companies/tara-ai/jobs/C4NDUTD-senior-front-end-engineer)
 - [WebAssembly from Scratch: From FizzBuzz to Doom (2021)](https://github.com/diekmann/wasm-fizzbuzz)
 - [One by One, My Friends Were Sent to the Camps](https://www.theatlantic.com/the-uyghur-chronicles/)
 - [Svgbob – Create a graphical representation of your text diagrams](https://github.com/ivanceras/svgbob)
-- [How to win a hackathon without coming in first place](https://strdr4605.github.io/how-to-win-a-hackathon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
