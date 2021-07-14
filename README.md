@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [mRNA Vaccines May Pack More Persistent Punch Against Covid-19 Than Thought](https://directorsblog.nih.gov/2021/07/13/mrna-vaccines-could-pack-more-persistent-punch-against-covid-19-than-thought/)
+- [Tennessee DoH halts all vaccine outreach to kids – not just for Covid-19](https://www.tennessean.com/story/news/health/2021/07/13/tennessee-halts-all-vaccine-outreach-minors-not-just-covid-19/7928701002/)
+- [Google employees angered by search giant's 'hypocritical' remote work policies](https://www.cnet.com/news/google-employees-angered-by-search-giants-hypocritical-remote-work-policies/)
 - [Where Is the Apple M2](https://www.tbray.org/ongoing/When/202x/2021/07/12/Slow-M1)
+- [Iranian Operatives Planned to Kidnap a Brooklyn Author, Prosecutors Say](https://www.nytimes.com/2021/07/13/nyregion/iran-masih-alinejad-kidnapping.html)
 - [Of 55 students in my class at Columbia’s Film program, 4 made a career out of it](https://twitter.com/JStoteraux/status/1413326562821246978)
-- [ZSA Planck EZ: A Powerful, Backlit, Open-Source, 40% Mechanical Keyboard](https://www.zsa.io/planck/)
-- [Dividend Cripples Saudi Aramco](https://oilprice.com/Energy/Energy-General/Huge-Dividend-Cripples-Worlds-Largest-Oil-Company.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
