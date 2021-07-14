@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Attack of the 50 foot Blockchain (2017)](http://blog.koehntopp.info/2017/08/01/fertig-gelesen-attack-of-the-50-foot-blockchain.html)
-- [Tara AI (YC W15) Is Hiring Senior Front End Engineers](https://www.ycombinator.com/companies/tara-ai/jobs/C4NDUTD-senior-front-end-engineer)
-- [WebAssembly from Scratch: From FizzBuzz to Doom (2021)](https://github.com/diekmann/wasm-fizzbuzz)
-- [One by One, My Friends Were Sent to the Camps](https://www.theatlantic.com/the-uyghur-chronicles/)
-- [Svgbob – Create a graphical representation of your text diagrams](https://github.com/ivanceras/svgbob)
+- [A Shift in American Family Values Is Fueling Estrangement](https://www.theatlantic.com/family/archive/2021/01/why-parents-and-kids-get-estranged/617612/)
+- [A Facebook engineer abused access to user data to track down woman](https://www.businessinsider.com.au/facebook-fired-dozens-abusing-access-user-data-an-ugly-truth-2021-7)
+- [Monodraw: Powerful ASCII art editor designed for the Mac](https://monodraw.helftone.com/)
+- [India bans MasterCard from adding new customers](https://techcrunch.com/2021/07/14/india-bans-mastercard-from-adding-new-customers/)
+- [Norman Doors Are Everywhere](https://www.youtube.com/watch?v=yY96hTb8WgI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
