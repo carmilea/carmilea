@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Of 55 students in my class at Columbia’s Film program, 4 made a career out of it](https://twitter.com/JStoteraux/status/1413326562821246978)
+- [ZSA Planck EZ: A Powerful, Backlit, Open-Source, 40% Mechanical Keyboard](https://www.zsa.io/planck/)
 - [Dividend Cripples Saudi Aramco](https://oilprice.com/Energy/Energy-General/Huge-Dividend-Cripples-Worlds-Largest-Oil-Company.html)
 - [EXIF-based intrinsic image sizing explainer](https://github.com/eeeps/exif-intrinsic-sizing-explainer)
 - [Carlos Ghosn: How I escaped Japan in a box](https://www.bbc.co.uk/news/business-57760993)
-- [Mozart Data (YC S20) Is Hiring a UI/UX Designer](https://www.mozartdata.com/uiux-designer)
-- [Go 1.17 Release Candidate 1](https://groups.google.com/g/golang-announce/c/gJE7OtHlRbM/m/21x8zAR-AAAJ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
