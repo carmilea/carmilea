@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The world’s highest-resolution holographic interface](https://lookingglassfactory.com/8k)
+- [macOS Monterey Beta 3: Apple Redesigns Safari Tab Interface Following Complaints](https://www.macrumors.com/2021/07/14/macos-monterey-safari-redesign/)
+- [Germany fines YouTube for removing video of anti-lockdown protest](https://www.mediaite.com/news/germany-fines-youtube-six-figures-for-removing-video-of-anti-lockdown-protest/)
+- [High-resolution holographic interface [video]](https://lookingglassfactory.com/8k)
 - [Goodbye, Fleets](https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets)
-- [MIT Predicted Society Will Collapse in 2040. Research Shows We're on Schedule](https://flip.it/3.eP7F)
 - [Increasing HTTPS Adoption](https://blog.chromium.org/2021/07/increasing-https-adoption.html)
-- [The Blender Studio Pipeline](https://cloud.blender.org/blog/the-blender-studio-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
