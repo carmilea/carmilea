@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tennessee DoH halts all vaccine outreach to kids – not just for Covid-19](https://www.tennessean.com/story/news/health/2021/07/13/tennessee-halts-all-vaccine-outreach-minors-not-just-covid-19/7928701002/)
-- [Google employees angered by search giant's 'hypocritical' remote work policies](https://www.cnet.com/news/google-employees-angered-by-search-giants-hypocritical-remote-work-policies/)
 - [Where Is the Apple M2](https://www.tbray.org/ongoing/When/202x/2021/07/12/Slow-M1)
 - [Iranian Operatives Planned to Kidnap a Brooklyn Author, Prosecutors Say](https://www.nytimes.com/2021/07/13/nyregion/iran-masih-alinejad-kidnapping.html)
-- [Of 55 students in my class at Columbia’s Film program, 4 made a career out of it](https://twitter.com/JStoteraux/status/1413326562821246978)
+- [EXIF-based intrinsic image sizing explainer](https://github.com/eeeps/exif-intrinsic-sizing-explainer)
+- [It’s official. Your private communications can (and will) be spied on](https://edri.org/our-work/its-official-your-private-communications-can-and-will-be-spied-on/)
+- [Carlos Ghosn: How I escaped Japan in a box](https://www.bbc.co.uk/news/business-57760993)
 <!-- BLOG-POST-LIST:END -->
 
 ---
