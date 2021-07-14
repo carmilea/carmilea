@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Eric Weinstein a Crackpot?](https://nonzero.substack.com/p/is-eric-weinstein-a-crackpot)
+- [Greenwald: The secret services are spying on politicians with oversight roles](https://www.youtube.com/watch?v=qzcOtzZRizc&t=260s)
+- [Google is capping Meet’s formerly unlimited group video calls to hour for free](https://www.theverge.com/2021/7/13/22576137/google-meet-group-meeting-cap-one-hour)
 - [Jeff Bezos’ Dystopian Legacy Goes Far Beyond Amazon](https://thewire.in/tech/jeff-bezos-dystopian-legacy-goes-far-beyond-amazon)
-- [Nanostructure design enables new possibilities for e-paper in color](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c00904#)
-- [Boeing discloses a new problem with the 787 Dreamliner](https://edition.cnn.com/2021/07/13/business/boeing-787-dreamliner-faa/index.html)
-- [Open engineering roles at over 500 YC-funded startups](https://www.ycombinator.com/jobs)
-- [Bank of England to crack down on 'secretive' cloud computing services](https://www.itnews.com.au/news/bank-of-england-to-crack-down-on-secretive-cloud-computing-services-567310)
+- [Launch HN: Onfolk (YC S21) – Modern HR and Payroll in One Place (For the UK)](https://news.ycombinator.com/item?id=27830978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
