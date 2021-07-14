@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YC founders for open eng roles at over 500 YC-funded startups](https://www.ycombinator.com/jobs)
+- [Open engineering roles at over 500 YC-funded startups](https://www.ycombinator.com/jobs)
+- [Bank of England to crack down on 'secretive' cloud computing services](https://www.itnews.com.au/news/bank-of-england-to-crack-down-on-secretive-cloud-computing-services-567310)
+- [Man Wrongfully Arrested by Facial Recognition Tells Congress His Story](https://www.vice.com/en/article/xgx5gd/man-wrongfully-arrested-by-facial-recognition-tells-congress-his-story)
 - [TypeScript's Type System Is Turing Complete (2017)](https://github.com/microsoft/TypeScript/issues/14833)
-- [Iranian Operatives Planned to Kidnap a Brooklyn Author, Prosecutors Say](https://www.nytimes.com/2021/07/13/nyregion/iran-masih-alinejad-kidnapping.html)
-- [Update: SaveVideo is Back](https://www.reddit.com/user/SaveVideo/comments/ojohbq/update_savevideo_is_back/)
-- [Of 55 students in my class at Columbia’s Film program, 4 made a career out of it](https://twitter.com/JStoteraux/status/1413326562821246978)
+- [Moon wobble to bring surge in coastal flooding in 2030s, NASA study predicts](https://edition.cnn.com/2021/07/13/us/moon-wobble-coastal-flooding-scn-trnd/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
