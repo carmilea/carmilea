@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch and share “Fight to Repair” about the dangers of proprietary software](https://u.fsf.org/fight-to-repair)
+- [Over 10k species risk extinction in Amazon, says landmark report](https://www.reuters.com/business/environment/over-10000-species-risk-extinction-amazon-says-landmark-report-2021-07-14/)
 - [macOS Monterey Beta 3: Apple Redesigns Safari Tab Interface Following Complaints](https://www.macrumors.com/2021/07/14/macos-monterey-safari-redesign/)
 - [Germany fines YouTube for removing video of anti-lockdown protest](https://www.mediaite.com/news/germany-fines-youtube-six-figures-for-removing-video-of-anti-lockdown-protest/)
 - [High-resolution holographic interface [video]](https://lookingglassfactory.com/8k)
-- [Goodbye, Fleets](https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets)
-- [Increasing HTTPS Adoption](https://blog.chromium.org/2021/07/increasing-https-adoption.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
