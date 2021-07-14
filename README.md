@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript's Type System Is Turing Complete](https://github.com/microsoft/TypeScript/issues/14833)
 - [Iranian Operatives Planned to Kidnap a Brooklyn Author, Prosecutors Say](https://www.nytimes.com/2021/07/13/nyregion/iran-masih-alinejad-kidnapping.html)
 - [Update: SaveVideo is Back](https://www.reddit.com/user/SaveVideo/comments/ojohbq/update_savevideo_is_back/)
 - [Of 55 students in my class at Columbia’s Film program, 4 made a career out of it](https://twitter.com/JStoteraux/status/1413326562821246978)
 - [EXIF-based intrinsic image sizing explainer](https://github.com/eeeps/exif-intrinsic-sizing-explainer)
-- [It’s official. Your private communications can (and will) be spied on](https://edri.org/our-work/its-official-your-private-communications-can-and-will-be-spied-on/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
