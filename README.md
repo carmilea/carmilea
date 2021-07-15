@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The U.S. Wheat Crop Is in Trouble](https://gizmodo.com/the-u-s-wheat-crop-is-in-trouble-1847281693)
+- [Google: Well Tempered Traveler](https://www.google.com/welltemperedtraveler/)
+- [Ask HN: Why haven't we heard of data centers being affected by Ransomware?](https://news.ycombinator.com/item?id=27841137)
 - [GOP Rep. on cyber committee dumped MSFT shortly before $10B contract scrapped](https://www.salon.com/2021/07/14/gop-rep-on-cyber-committee-dumped-msft-stock-shortly-before-10b-pentagon-contract-was-scrapped/)
 - [Microsoft exec: “Summary of meeting with Steve Jobs"](https://twitter.com/TechEmails/status/1412448981574209537)
-- [FAA warns Musk that he is building Super Heavy launch tower without permission](https://www.reuters.com/business/aerospace-defense/faa-warns-spacex-it-has-not-approved-new-texas-launch-site-tower-2021-07-14/)
-- [Microsoft/IoT-for-Beginners: 12 Weeks, 24 Lessons, IoT for All](https://github.com/microsoft/IoT-For-Beginners)
-- [How to build a plugin system on the web and also sleep well at night](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
