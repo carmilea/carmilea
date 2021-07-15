@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Streak (YC S11) is hiring a TypeScript/React expert who likes shipping (remote)](https://www.streak.com/careers/product-engineer)
-- [30 Years in Hong Kong](https://webb-site.com/articles/30years.asp)
-- [25-Year-Old Lived for More Than a Year Without a Heart](https://www.sciencealert.com/2016-man-lived-12-months-no-heart-syncardia-pump)
-- [Ask HN: Recruiters want people who do side projects, yet contracts forbid them?](https://news.ycombinator.com/item?id=27843198)
-- [Humanity Has Flipped the Amazon Forest from Carbon Sink to Source](https://www.commondreams.org/news/2021/07/14/biggest-story-world-right-now-humanity-has-flipped-amazon-carbon-sink-source)
+- [Delta pilot sues airline for $1 Billion for allegedly stealing app he designed](https://www.engadget.com/delta-pilot-sues-airline-app-063637349.html)
+- [Amazon rainforest now emitting more CO2 than it absorbs](https://www.theguardian.com/environment/2021/jul/14/amazon-rainforest-now-emitting-more-co2-than-it-absorbs)
+- [End of an Era: NTSC Finally Goes Dark in America](https://hackaday.com/2021/07/14/end-of-an-era-ntsc-finally-goes-dark-in-america/)
+- [Without its rainforest, the Amazon will turn to desert (2015)](https://theecologist.org/2015/mar/02/without-its-rainforest-amazon-will-turn-desert)
+- [Europe’s aggressive new emissions rules put gas engines on notice](https://www.slashgear.com/europes-aggressive-new-emissions-rules-put-gas-engines-on-notice-14682429/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
