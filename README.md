@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX will soon fire up its Super Heavy booster for the first time](https://arstechnica.com/science/2021/07/spacex-will-soon-fire-up-its-massive-super-heavy-booster-for-the-first-time/)
+- [Building a Curve25519 Hardware Accelerator](https://www.bunniestudios.com/blog/?p=6140)
+- [Storm Chaser Spots Rare Quadruple Microburst in Texas](https://mymodernmet.com/quadruple-microburst-mike-oblinski/)
+- [Status, Wealth, & Power: Network Effects Demand a New Social Contract](https://www.nfx.com/post/network-economy/)
 - [Launch HN: Weekday (YC W21) – Hire engineers vouched for by other engineers](https://news.ycombinator.com/item?id=27844728)
-- [Unlocking Efficient Light-Energy Conversion with Stable Coordination Nanosheets](https://www.tus.ac.jp/en/mediarelations/archive/20210715_9271.html)
-- [Facebook and its advertisers are ‘panicking’ as iPhone users opt out of tracking](https://9to5mac.com/2021/07/14/facebook-tracking-app-tracking-data/)
-- [Porting QEMU to RedoxOS](https://redox-os.org/news/rsoc-2021-qemu-1/)
-- [josh: Get the advantages of a monorepo with multirepo setups](https://github.com/esrlabs/josh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
