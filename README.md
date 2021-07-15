@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GOP Rep. on cyber committee dumped MSFT shortly before $10B contract scrapped](https://www.salon.com/2021/07/14/gop-rep-on-cyber-committee-dumped-msft-stock-shortly-before-10b-pentagon-contract-was-scrapped/)
+- [Microsoft exec: “Summary of meeting with Steve Jobs"](https://twitter.com/TechEmails/status/1412448981574209537)
 - [FAA warns Musk that he is building Super Heavy launch tower without permission](https://www.reuters.com/business/aerospace-defense/faa-warns-spacex-it-has-not-approved-new-texas-launch-site-tower-2021-07-14/)
 - [Microsoft/IoT-for-Beginners: 12 Weeks, 24 Lessons, IoT for All](https://github.com/microsoft/IoT-For-Beginners)
-- [The Art of the Romanian Haystack](https://www.kuriositas.com/2013/09/the-art-of-romanian-haystack.html)
-- [Lowkey (YC S18) is hiring a senior front-end engineer who likes games](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
-- [iOS zero-day let SolarWinds hackers compromise fully updated iPhones](https://arstechnica.com/gadgets/2021/07/solarwinds-hackers-used-an-ios-0-day-to-steal-google-and-microsoft-credentials/)
+- [How to build a plugin system on the web and also sleep well at night](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
