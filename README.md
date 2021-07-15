@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Installed electron / react, it has 1861 dependencies. This is a problem](https://twitter.com/ColinEberhardt/status/1415569734540701698)
 - [Bonsai (YC W16) Is Hiring a Head of Growth Marketing](https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing)
 - [SQLBolt – Interactive lessons and exercises to learn SQL](https://sqlbolt.com/)
 - [CVE-2021-22555: Turning \x00\x00 into 10000$](https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html)
 - [Google engineer who criticized company in viral comics on why he finally quit](https://mashable.com/article/google-engineer-manu-cornet-comics-critique)
-- [I am often asked if I will “return to cryptocurrency”](https://twitter.com/ummjackson/status/1415353984617914370)
 <!-- BLOG-POST-LIST:END -->
 
 ---
