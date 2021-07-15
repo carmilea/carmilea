@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Art of the Romanian Haystack](https://www.kuriositas.com/2013/09/the-art-of-romanian-haystack.html)
 - [GM warns some Bolt EV owners: Don’t park them inside or charge them unattended](https://www.cnbc.com/2021/07/14/gm-warns-some-bolt-ev-owners-dont-park-them-inside-or-charge-them-unattended-overnight.html)
 - [Lowkey (YC S18) is hiring a senior front-end engineer who likes games](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
 - [iOS zero-day let SolarWinds hackers compromise fully updated iPhones](https://arstechnica.com/gadgets/2021/07/solarwinds-hackers-used-an-ios-0-day-to-steal-google-and-microsoft-credentials/)
-- [Your Phone Already Has Bottomless](https://www.singlestore.com/blog/your-phone-already-has-bottomless)
-- [macOS Monterey Beta 3: Apple Redesigns Safari Tab Interface Following Complaints](https://www.macrumors.com/2021/07/14/macos-monterey-safari-redesign/)
+- [A Storage Crisis](http://blogs.harvard.edu/doc/2021/06/24/a-storage-crisis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
