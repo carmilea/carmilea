@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bonsai (YC W16) Is Hiring a Head of Growth Marketing](https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing)
+- [SQLBolt – Interactive lessons and exercises to learn SQL](https://sqlbolt.com/)
+- [Google engineer who criticized company in viral comics on why he finally quit](https://mashable.com/article/google-engineer-manu-cornet-comics-critique)
+- [Netflix will start publishing video games, has hired former EA exec](https://arstechnica.com/gaming/2021/07/netflix-will-start-publishing-video-games-has-hired-former-ea-exec/)
 - [The Well-Tempered Traveler](https://www.google.com/welltemperedtraveler/)
-- [Poetry as a Surveillance Survival Guide](https://pursuit.unimelb.edu.au/articles/poetry-as-a-surveillance-survival-guide)
-- [The biological basis for sex differences in autoimmune diseases](https://www.nature.com/articles/d41586-021-01836-9)
-- [Microsoft exec: “Summary of meeting with Steve Jobs"](https://twitter.com/TechEmails/status/1412448981574209537)
-- [An industry that unmasks people at scale](https://www.vice.com/en/article/epnmvz/industry-unmasks-at-scale-maid-to-pii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
