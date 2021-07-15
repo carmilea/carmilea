@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Full-time minimum wage workers can't afford rent anywhere in the US](https://www.cnbc.com/2021/07/14/full-time-minimum-wage-workers-cant-afford-rent-anywhere-in-the-us.html)
-- [The U.S. Wheat Crop Is in Trouble](https://gizmodo.com/the-u-s-wheat-crop-is-in-trouble-1847281693)
-- ['Want to be careful with this word' – On the perils of writing about the empire](https://katz.substack.com/p/on-the-perils-of-writing-about-the)
-- [Google: Well Tempered Traveler](https://www.google.com/welltemperedtraveler/)
-- [Ask HN: Why haven't we heard of data centers being affected by Ransomware?](https://news.ycombinator.com/item?id=27841137)
+- [The Well-Tempered Traveler](https://www.google.com/welltemperedtraveler/)
+- [Poetry as a Surveillance Survival Guide](https://pursuit.unimelb.edu.au/articles/poetry-as-a-surveillance-survival-guide)
+- [The biological basis for sex differences in autoimmune diseases](https://www.nature.com/articles/d41586-021-01836-9)
+- [Microsoft exec: “Summary of meeting with Steve Jobs"](https://twitter.com/TechEmails/status/1412448981574209537)
+- [An industry that unmasks people at scale](https://www.vice.com/en/article/epnmvz/industry-unmasks-at-scale-maid-to-pii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
