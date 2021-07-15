@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Valve shows Steam Desk - portable 4/8 CPU, 16GB RAM, 1.6TFlop GPU, starting $399](https://www.steamdeck.com)
+- [Demystify video codecs by writing one in ~100 lines of Rust](https://blog.tempus-ex.com/hello-video-codec/)
+- [A Modest Proposal About Ransomware](https://blog.dshr.org/2021/07/a-modest-proposal-about-ransomware.html)
+- [Soldiers Speak Out about Being Blocked from Repairing Equipment by Contractors](https://mattstoller.substack.com/p/a-real-s-show-soldiers-angrily-speak)
+- [Valve shows Steam Deck - portable 4/8 CPU, 16GB RAM, 1.6TFlop GPU, starting $399](https://www.steamdeck.com)
 - [Valve Steam Deck](https://www.steamdeck.com/en/)
-- [Ophelia (YC W20) Is Hiring a Product Designer](https://jobs.lever.co/ophelia/524e520a-2340-4be9-901a-a071d9fed4fd)
-- [Steam Deck](https://store.steampowered.com/steamdeck)
-- [IP Attorney Discusses GitHub Copilot](https://fossa.com/blog/analyzing-legal-implications-github-copilot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
