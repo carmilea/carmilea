@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Tech trying to disarm the FTC by going after its biggest weapon: Lina Khan](https://www.cnbc.com/2021/07/15/amazon-facebook-trying-to-disarm-the-ftc-by-going-after-its-biggest-weapon-lina-khan.html)
-- [Show HN: New way to test APIs with OpenAPI and Postman](https://github.com/apideck-libraries/portman)
-- [How Many Numbers Exist? Infinity Proof Moves Math Closer to an Answer](https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/)
-- [SpaceX will soon fire up its Super Heavy booster for the first time](https://arstechnica.com/science/2021/07/spacex-will-soon-fire-up-its-massive-super-heavy-booster-for-the-first-time/)
-- [Building a Curve25519 Hardware Accelerator](https://www.bunniestudios.com/blog/?p=6140)
+- [Valve shows Steam Desk - portable 4/8 CPU, 16GB RAM, 1.6TFlop GPU, starting $399](https://www.steamdeck.com)
+- [Valve Steam Deck](https://www.steamdeck.com/en/)
+- [Ophelia (YC W20) Is Hiring a Product Designer](https://jobs.lever.co/ophelia/524e520a-2340-4be9-901a-a071d9fed4fd)
+- [Steam Deck](https://store.steampowered.com/steamdeck)
+- [IP Attorney Discusses GitHub Copilot](https://fossa.com/blog/analyzing-legal-implications-github-copilot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
