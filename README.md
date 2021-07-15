@@ -55,7 +55,7 @@
 - [Show HN: Pay It Forward – P2P Crowdfunding for African Entrepreneurs](https://www.zidisha.org/)
 - [Alphafold](https://github.com/deepmind/alphafold)
 - [Cut Out the Middle Tier: Generating JSON Directly from Postgres](https://blog.crunchydata.com/blog/generating-json-directly-from-postgres)
-- [Hello, Video Codec](https://blog.tempus-ex.com/hello-video-codec/)
+- [When will programmers grow up? (2014)](http://web.archive.org/web/20170226055627/http://articles.javatalks.ru/articles/35)
 <!-- BLOG-POST-LIST:END -->
 
 ---
