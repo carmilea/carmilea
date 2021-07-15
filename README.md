@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Big Tech trying to disarm the FTC by going after its biggest weapon: Lina Khan](https://www.cnbc.com/2021/07/15/amazon-facebook-trying-to-disarm-the-ftc-by-going-after-its-biggest-weapon-lina-khan.html)
+- [Show HN: New way to test APIs with OpenAPI and Postman](https://github.com/apideck-libraries/portman)
+- [How Many Numbers Exist? Infinity Proof Moves Math Closer to an Answer](https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/)
 - [SpaceX will soon fire up its Super Heavy booster for the first time](https://arstechnica.com/science/2021/07/spacex-will-soon-fire-up-its-massive-super-heavy-booster-for-the-first-time/)
 - [Building a Curve25519 Hardware Accelerator](https://www.bunniestudios.com/blog/?p=6140)
-- [Storm Chaser Spots Rare Quadruple Microburst in Texas](https://mymodernmet.com/quadruple-microburst-mike-oblinski/)
-- [Status, Wealth, & Power: Network Effects Demand a New Social Contract](https://www.nfx.com/post/network-economy/)
-- [Launch HN: Weekday (YC W21) – Hire engineers vouched for by other engineers](https://news.ycombinator.com/item?id=27844728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
