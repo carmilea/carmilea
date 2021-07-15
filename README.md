@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Delta pilot sues airline for $1 Billion for allegedly stealing app he designed](https://www.engadget.com/delta-pilot-sues-airline-app-063637349.html)
-- [Amazon rainforest now emitting more CO2 than it absorbs](https://www.theguardian.com/environment/2021/jul/14/amazon-rainforest-now-emitting-more-co2-than-it-absorbs)
-- [End of an Era: NTSC Finally Goes Dark in America](https://hackaday.com/2021/07/14/end-of-an-era-ntsc-finally-goes-dark-in-america/)
-- [Without its rainforest, the Amazon will turn to desert (2015)](https://theecologist.org/2015/mar/02/without-its-rainforest-amazon-will-turn-desert)
-- [Europe’s aggressive new emissions rules put gas engines on notice](https://www.slashgear.com/europes-aggressive-new-emissions-rules-put-gas-engines-on-notice-14682429/)
+- [Launch HN: Weekday (YC W21) – Hire engineers vouched for by other engineers](https://news.ycombinator.com/item?id=27844728)
+- [Unlocking Efficient Light-Energy Conversion with Stable Coordination Nanosheets](https://www.tus.ac.jp/en/mediarelations/archive/20210715_9271.html)
+- [Facebook and its advertisers are ‘panicking’ as iPhone users opt out of tracking](https://9to5mac.com/2021/07/14/facebook-tracking-app-tracking-data/)
+- [Porting QEMU to RedoxOS](https://redox-os.org/news/rsoc-2021-qemu-1/)
+- [josh: Get the advantages of a monorepo with multirepo setups](https://github.com/esrlabs/josh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
