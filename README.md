@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystify video codecs by writing one in ~100 lines of Rust](https://blog.tempus-ex.com/hello-video-codec/)
-- [A Modest Proposal About Ransomware](https://blog.dshr.org/2021/07/a-modest-proposal-about-ransomware.html)
-- [Soldiers Speak Out about Being Blocked from Repairing Equipment by Contractors](https://mattstoller.substack.com/p/a-real-s-show-soldiers-angrily-speak)
-- [Valve shows Steam Deck - portable 4/8 CPU, 16GB RAM, 1.6TFlop GPU, starting $399](https://www.steamdeck.com)
-- [Valve Steam Deck](https://www.steamdeck.com/en/)
+- [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
+- [Show HN: Pay It Forward – P2P Crowdfunding for African Entrepreneurs](https://www.zidisha.org/)
+- [Alphafold](https://github.com/deepmind/alphafold)
+- [Cut Out the Middle Tier: Generating JSON Directly from Postgres](https://blog.crunchydata.com/blog/generating-json-directly-from-postgres)
+- [Hello, Video Codec](https://blog.tempus-ex.com/hello-video-codec/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
