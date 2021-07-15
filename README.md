@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Humanity Has Flipped the Amazon Forest from Carbon Sink to Source](https://www.commondreams.org/news/2021/07/14/biggest-story-world-right-now-humanity-has-flipped-amazon-carbon-sink-source)
 - [Pharo 9 Released](https://pharo.org/news/pharo9-released.html)
 - [Undocumented x86 instructions to control the CPU at the microarchitecture level [pdf]](https://github.com/chip-red-pill/udbgInstr/raw/main/paper/undocumented_x86_insts_for_uarch_control.pdf)
 - [Facebook Users Said No to Tracking Now Advertisers Are Panicking](https://www.bloomberg.com/news/articles/2021-07-14/facebook-fb-advertisers-impacted-by-apple-aapl-privacy-ios-14-changes)
 - [Bonsai (YC W16) Is Hiring a Head of Growth Marketing](https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing)
-- [SQLBolt – Interactive lessons and exercises to learn SQL](https://sqlbolt.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
