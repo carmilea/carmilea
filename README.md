@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On the Evilness of Feature Branching](https://thinkinglabs.io/articles/2021/07/14/on-the-evilness-of-feature-branching-a-tale-of-two-teams.html)
+- [How to Unlearn a Disease](https://nautil.us/issue/103/healthy-communication/how-to-unlearn-a-disease-rp)
 - [Motion (YC W20) is hiring a lead fullstack engineer to change how we manage time](https://www.workatastartup.com/jobs/45050)
-- [California approves $35M plan for nation's first state-funded UBI](https://abc7.com/california-guaranteed-income-legislature-governor-gavin-newsom/10889155/)
 - [Online ID / age verification: the death of online search](https://decoded.legal/blog/2021/07/online-id-age-verification-the-death-of-online-search-and-non-browser-web-access)
-- [Show HN: Pay It Forward – P2P Crowdfunding for African Entrepreneurs](https://www.zidisha.org/)
-- [Is This Prime?](https://isthisprime.com/game/)
+- [Algorithms for Cartographic Visualization (2012) [pdf]](https://www.win.tue.nl/~kverbeek/PhDThesis.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
