@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
+- [Motion (YC W20) is hiring a lead fullstack engineer to change how we manage time](https://www.workatastartup.com/jobs/45050)
+- [California approves $35M plan for nation's first state-funded UBI](https://abc7.com/california-guaranteed-income-legislature-governor-gavin-newsom/10889155/)
+- [Online ID / age verification: the death of online search](https://decoded.legal/blog/2021/07/online-id-age-verification-the-death-of-online-search-and-non-browser-web-access)
 - [Show HN: Pay It Forward – P2P Crowdfunding for African Entrepreneurs](https://www.zidisha.org/)
-- [Alphafold](https://github.com/deepmind/alphafold)
-- [Cut Out the Middle Tier: Generating JSON Directly from Postgres](https://blog.crunchydata.com/blog/generating-json-directly-from-postgres)
-- [When will programmers grow up? (2014)](http://web.archive.org/web/20170226055627/http://articles.javatalks.ru/articles/35)
+- [Is This Prime?](https://isthisprime.com/game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
