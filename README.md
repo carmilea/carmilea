@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tesla’s Table Salt Patent Could Be a Game Changer](https://www.motorbiscuit.com/teslas-table-salt-patent-could-be-a-game-changer/)
+- [Public API Lists](https://github.com/public-api-lists/public-api-lists)
 - [Show HN: I made an interactive anti-procrastination video course](https://www.deprocrastination.co/course)
 - [Open Source Insulin](https://openinsulin.org/)
 - [CoinTracker (YC W18) is hiring its first Technical Recruiter (remote)](https://www.cointracker.io/about)
-- [Remote code execution in cdnjs of Cloudflare](https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
