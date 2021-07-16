@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The case for banning non-competes](https://www.slowboring.com/p/the-case-for-banning-non-competes)
+- [Google parts with Cloud VP over his manifesto renouncing his antisemitism](https://www.cnbc.com/2021/07/16/google-separates-with-cloud-vp-after-employees-complain-about-manifesto.html)
+- [The Print Shop Club: Create Apple II Print Shop Printouts in the Browser](https://theprintshop.club)
 - [Israeli Firm’s Spyware Used Against Dissidents, Microsoft Says](https://www.bloomberg.com/news/articles/2021-07-15/israeli-firm-s-spyware-used-against-dissidents-microsoft-says)
-- [US democracy: The threat in 2024 is 'completely uncharted territory'](https://www.csmonitor.com/USA/Politics/2021/0712/Completely-uncharted-territory-The-threat-to-US-democracy-in-2024)
 - [Hubble telescope has new lease on life after computer swap appears to fix glitch](https://www.sciencemag.org/news/2021/07/hubble-back-famed-space-telescope-has-new-lease-life-after-computer-swap-appears-fix)
-- [Component Graph System (2017)](https://github.com/kvark/froggy/wiki/Component-Graph-System)
-- [Mitmproxy 7.0](https://mitmproxy.org/posts/releases/mitmproxy7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
