@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- ['Hubble is back ' Computer swap appears to fix glitch](https://www.sciencemag.org/news/2021/07/hubble-back-famed-space-telescope-has-new-lease-life-after-computer-swap-appears-fix)
-- [Component Graph System](https://github.com/kvark/froggy/wiki/Component-Graph-System)
+- [Israeli Firm’s Spyware Used Against Dissidents, Microsoft Says](https://www.bloomberg.com/news/articles/2021-07-15/israeli-firm-s-spyware-used-against-dissidents-microsoft-says)
+- [US democracy: The threat in 2024 is 'completely uncharted territory'](https://www.csmonitor.com/USA/Politics/2021/0712/Completely-uncharted-territory-The-threat-to-US-democracy-in-2024)
+- [Hubble telescope has new lease on life after computer swap appears to fix glitch](https://www.sciencemag.org/news/2021/07/hubble-back-famed-space-telescope-has-new-lease-life-after-computer-swap-appears-fix)
+- [Component Graph System (2017)](https://github.com/kvark/froggy/wiki/Component-Graph-System)
 - [Mitmproxy 7.0](https://mitmproxy.org/posts/releases/mitmproxy7/)
-- [UPchieve (YC W21) Is Hiring a Mobile Engineer (Remote)](https://upchieve.welcomekit.co/jobs/mobile-engineer_brooklyn)
-- [Illinois First State to Tell Police They Can't Lie to Minors in Interrogations](https://www.npr.org/2021/07/16/1016710927/illinois-is-the-first-state-to-tell-police-they-cant-lie-to-minors-in-interrogat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
