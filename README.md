@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why we're blind to the color blue](https://calebkruse.com/10-projects/seeing-blue/)
+- [Europe floods: At least 120 dead and hundreds unaccounted for](https://www.bbc.com/news/world-europe-57858829)
+- [Great Question (YC W21) Is Hiring Head of Product Marketing](https://news.ycombinator.com/item?id=27858363)
 - [Launch HN: MergeQueue (YC S21) – Automate rebasing and merging for your codebase](https://news.ycombinator.com/item?id=27858013)
 - [Classified Challenger tank specs leaked online for videogame](https://ukdefencejournal.org.uk/classified-challenger-tank-specs-leaked-online-for-videogame/)
-- [Walmart releases more affordable analog insulin](https://corporate.walmart.com/newsroom/2021/06/29/walmart-revolutionizes-insulin-access-affordability-for-patients-with-diabetes-with-the-launch-of-the-first-and-only-private-brand-analog-insulin)
-- [State Dept. To Pay Up to $10M for Information on Foreign Cyberattacks](https://www.darkreading.com/attacks-breaches/state-dept-to-pay-up-to-$10m-for-information-on-foreign-cyberattacks/d/d-id/1341540)
-- [Cuba jamming ham radio frequencies](https://www.youtube.com/watch?v=1s9TpQSkN9w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
