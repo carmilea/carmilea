@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Generation Artificial Heart Implanted in Patient at Duke – First in U.S.](https://corporate.dukehealth.org/news/new-generation-artificial-heart-implanted-patient-duke-first-us)
 - [Minimum wage workers can't afford rent anywhere in America](https://www.cnn.com/2021/07/15/homes/rent-affordability-minimum-wage/index.html)
 - [The Alexander: Why did you build such a long piano?](https://www.alexanderpiano.nz/page/the-alexander-piano)
 - [Too Smart](https://www.collaborativefund.com/blog/too-smart/)
 - [Intel in talks to buy GlobalFoundries for about $30B](https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15/)
-- [Dozens killed after record rain in Germany and Belgium](https://www.bbc.com/news/world-europe-57846200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
