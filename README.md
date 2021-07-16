@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It's been three years. Stop saying your European visitors are important to you](https://news.ycombinator.com/item?id=27854663)
 - [Tesla’s Table Salt Patent Could Be a Game Changer](https://www.motorbiscuit.com/teslas-table-salt-patent-could-be-a-game-changer/)
 - [Public API Lists](https://github.com/public-api-lists/public-api-lists)
 - [Show HN: I made an interactive anti-procrastination video course](https://www.deprocrastination.co/course)
 - [Open Source Insulin](https://openinsulin.org/)
-- [CoinTracker (YC W18) is hiring its first Technical Recruiter (remote)](https://www.cointracker.io/about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
