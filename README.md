@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CoinTracker (YC W18) is hiring its first Technical Recruiter (remote)](https://www.cointracker.io/about)
+- [Remote code execution in cdnjs of Cloudflare](https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/)
 - [Restoring your privacy costs money, which makes it a marker of class](https://www.theregister.com/2021/07/15/privacy_costs_money/)
 - [(All) DNS Resource Records](https://www.netmeister.org/blog/dns-rrs.html)
 - [New generation artificial heart implanted in patient](https://corporate.dukehealth.org/news/new-generation-artificial-heart-implanted-patient-duke-first-us)
-- [A haunting new documentary about Anthony Bourdain](https://www.newyorker.com/culture/annals-of-gastronomy/the-haunting-afterlife-of-anthony-bourdain)
-- [The Alexander: Why did you build such a long piano?](https://www.alexanderpiano.nz/page/the-alexander-piano)
 <!-- BLOG-POST-LIST:END -->
 
 ---
