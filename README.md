@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Four lessons from a year building tools for machine learning](https://humanloop.com/blog/4-lessons-from-a-year-building-tools-for-machine-learning/)
 - [Why we're blind to the color blue](https://calebkruse.com/10-projects/seeing-blue/)
-- [Europe floods: At least 120 dead and hundreds unaccounted for](https://www.bbc.com/news/world-europe-57858829)
-- [Great Question (YC W21) Is Hiring Head of Product Marketing](https://news.ycombinator.com/item?id=27858363)
-- [Launch HN: MergeQueue (YC S21) – Automate rebasing and merging for your codebase](https://news.ycombinator.com/item?id=27858013)
-- [Classified Challenger tank specs leaked online for videogame](https://ukdefencejournal.org.uk/classified-challenger-tank-specs-leaked-online-for-videogame/)
+- [Only Train Once: A One-Shot Neural Network Training and Pruning Framework](https://arxiv.org/abs/2107.07467)
+- [Great Question (YC W21) Is Hiring a Head of Product Marketing](https://news.ycombinator.com/item?id=27858363)
+- [Google Drive bans distribution of “misleading content”](https://support.google.com/docs/answer/148505#zippy=%2Cmisleading-content)
 <!-- BLOG-POST-LIST:END -->
 
 ---
