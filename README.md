@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On the Evilness of Feature Branching](https://thinkinglabs.io/articles/2021/07/14/on-the-evilness-of-feature-branching-a-tale-of-two-teams.html)
-- [How to Unlearn a Disease](https://nautil.us/issue/103/healthy-communication/how-to-unlearn-a-disease-rp)
+- [Too Smart](https://www.collaborativefund.com/blog/too-smart/)
+- [Intel in talks to buy GlobalFoundries for about $30B](https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15/)
+- [Canada to donate 17.7M AstraZeneca doses](https://www.cbc.ca/news/politics/covax-donations-astrazeneca-surplus-1.6099072)
+- [How to unlearn a disease](https://nautil.us/issue/103/healthy-communication/how-to-unlearn-a-disease-rp)
 - [Motion (YC W20) is hiring a lead fullstack engineer to change how we manage time](https://www.workatastartup.com/jobs/45050)
-- [Online ID / age verification: the death of online search](https://decoded.legal/blog/2021/07/online-id-age-verification-the-death-of-online-search-and-non-browser-web-access)
-- [Algorithms for Cartographic Visualization (2012) [pdf]](https://www.win.tue.nl/~kverbeek/PhDThesis.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
