@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It's been three years. Stop saying your European visitors are important to you](https://news.ycombinator.com/item?id=27854663)
-- [Tesla’s Table Salt Patent Could Be a Game Changer](https://www.motorbiscuit.com/teslas-table-salt-patent-could-be-a-game-changer/)
+- [UPchieve (YC W21) Is Hiring a Mobile Engineer (Remote)](https://upchieve.welcomekit.co/jobs/mobile-engineer_brooklyn)
 - [Public API Lists](https://github.com/public-api-lists/public-api-lists)
 - [Show HN: I made an interactive anti-procrastination video course](https://www.deprocrastination.co/course)
 - [Open Source Insulin](https://openinsulin.org/)
+- [Remote code execution in cdnjs of Cloudflare](https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
