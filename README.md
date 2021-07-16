@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Minimum wage workers can't afford rent anywhere in America](https://www.cnn.com/2021/07/15/homes/rent-affordability-minimum-wage/)
 - [Restoring your privacy costs money, which makes it a marker of class](https://www.theregister.com/2021/07/15/privacy_costs_money/)
 - [(All) DNS Resource Records](https://www.netmeister.org/blog/dns-rrs.html)
-- [New Generation Artificial Heart Implanted in Patient at Duke – First in U.S.](https://corporate.dukehealth.org/news/new-generation-artificial-heart-implanted-patient-duke-first-us)
-- [A Haunting New Documentary About Anthony Bourdain](https://www.newyorker.com/culture/annals-of-gastronomy/the-haunting-afterlife-of-anthony-bourdain)
+- [New generation artificial heart implanted in patient](https://corporate.dukehealth.org/news/new-generation-artificial-heart-implanted-patient-duke-first-us)
+- [A haunting new documentary about Anthony Bourdain](https://www.newyorker.com/culture/annals-of-gastronomy/the-haunting-afterlife-of-anthony-bourdain)
+- [The Alexander: Why did you build such a long piano?](https://www.alexanderpiano.nz/page/the-alexander-piano)
 <!-- BLOG-POST-LIST:END -->
 
 ---
