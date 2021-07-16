@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- ['Hubble is back ' Computer swap appears to fix glitch](https://www.sciencemag.org/news/2021/07/hubble-back-famed-space-telescope-has-new-lease-life-after-computer-swap-appears-fix)
+- [Component Graph System](https://github.com/kvark/froggy/wiki/Component-Graph-System)
+- [Mitmproxy 7.0](https://mitmproxy.org/posts/releases/mitmproxy7/)
 - [UPchieve (YC W21) Is Hiring a Mobile Engineer (Remote)](https://upchieve.welcomekit.co/jobs/mobile-engineer_brooklyn)
-- [Public API Lists](https://github.com/public-api-lists/public-api-lists)
-- [Show HN: I made an interactive anti-procrastination video course](https://www.deprocrastination.co/course)
-- [Open Source Insulin](https://openinsulin.org/)
-- [Remote code execution in cdnjs of Cloudflare](https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/)
+- [Illinois First State to Tell Police They Can't Lie to Minors in Interrogations](https://www.npr.org/2021/07/16/1016710927/illinois-is-the-first-state-to-tell-police-they-cant-lie-to-minors-in-interrogat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
