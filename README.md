@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The case for banning non-competes](https://www.slowboring.com/p/the-case-for-banning-non-competes)
-- [Google parts with Cloud VP over his manifesto renouncing his antisemitism](https://www.cnbc.com/2021/07/16/google-separates-with-cloud-vp-after-employees-complain-about-manifesto.html)
-- [The Print Shop Club: Create Apple II Print Shop Printouts in the Browser](https://theprintshop.club)
-- [Israeli Firm’s Spyware Used Against Dissidents, Microsoft Says](https://www.bloomberg.com/news/articles/2021-07-15/israeli-firm-s-spyware-used-against-dissidents-microsoft-says)
-- [Hubble telescope has new lease on life after computer swap appears to fix glitch](https://www.sciencemag.org/news/2021/07/hubble-back-famed-space-telescope-has-new-lease-life-after-computer-swap-appears-fix)
+- [Launch HN: MergeQueue (YC S21) – Automate rebasing and merging for your codebase](https://news.ycombinator.com/item?id=27858013)
+- [Classified Challenger tank specs leaked online for videogame](https://ukdefencejournal.org.uk/classified-challenger-tank-specs-leaked-online-for-videogame/)
+- [Walmart releases more affordable analog insulin](https://corporate.walmart.com/newsroom/2021/06/29/walmart-revolutionizes-insulin-access-affordability-for-patients-with-diabetes-with-the-launch-of-the-first-and-only-private-brand-analog-insulin)
+- [State Dept. To Pay Up to $10M for Information on Foreign Cyberattacks](https://www.darkreading.com/attacks-breaches/state-dept-to-pay-up-to-$10m-for-information-on-foreign-cyberattacks/d/d-id/1341540)
+- [Cuba jamming ham radio frequencies](https://www.youtube.com/watch?v=1s9TpQSkN9w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
