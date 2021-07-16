@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Greenland suspends oil exploration because of climate change](https://apnews.com/article/europe-business-climate-environment-and-nature-climate-change-6ac3a74848b2cf7c89d18c348b19e3a7)
+- [We will win the war for general-purpose computing](https://cheapskatesguide.org/articles/war-on-gp-computing-farnell.html)
+- [Voice clone of Anthony Bourdain prompts synthetic media ethics questions](https://techpolicy.press/voice-clone-of-anthony-bourdain-prompts-synthetic-media-ethics-questions/?mc_cid=f76836fe27&mc_eid=4336df8131)
+- [Airbnb and Neighborhood Crime](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0253315#sec012)
 - [Four lessons from a year building tools for machine learning](https://humanloop.com/blog/4-lessons-from-a-year-building-tools-for-machine-learning/)
-- [Why we're blind to the color blue](https://calebkruse.com/10-projects/seeing-blue/)
-- [Only Train Once: A One-Shot Neural Network Training and Pruning Framework](https://arxiv.org/abs/2107.07467)
-- [Great Question (YC W21) Is Hiring a Head of Product Marketing](https://news.ycombinator.com/item?id=27858363)
-- [Google Drive bans distribution of “misleading content”](https://support.google.com/docs/answer/148505#zippy=%2Cmisleading-content)
 <!-- BLOG-POST-LIST:END -->
 
 ---
