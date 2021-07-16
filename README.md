@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Trexo Robotics (YC W19) Is Hiring Mobile and Robotics Interns](https://angel.co/company/trexo-robotics)
+- [How Dangerous Are Solar Storms?](http://backreaction.blogspot.com/2021/07/blog-post.html)
 - [Is Rust Used Safely by Software Developers?](https://arxiv.org/abs/2007.00752)
 - [Linear Circuit Design Handbook (2008)](https://www.analog.com/en/education/education-library/linear-circuit-design-handbook.html)
 - [Greenland suspends oil exploration because of climate change](https://apnews.com/article/europe-business-climate-environment-and-nature-climate-change-6ac3a74848b2cf7c89d18c348b19e3a7)
-- [We will win the war for general-purpose computing](https://cheapskatesguide.org/articles/war-on-gp-computing-farnell.html)
-- [Voice clone of Anthony Bourdain prompts synthetic media ethics questions](https://techpolicy.press/voice-clone-of-anthony-bourdain-prompts-synthetic-media-ethics-questions/?mc_cid=f76836fe27&mc_eid=4336df8131)
 <!-- BLOG-POST-LIST:END -->
 
 ---
