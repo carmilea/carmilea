@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Minimum wage workers can't afford rent anywhere in America](https://www.cnn.com/2021/07/15/homes/rent-affordability-minimum-wage/index.html)
+- [The Alexander: Why did you build such a long piano?](https://www.alexanderpiano.nz/page/the-alexander-piano)
 - [Too Smart](https://www.collaborativefund.com/blog/too-smart/)
 - [Intel in talks to buy GlobalFoundries for about $30B](https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15/)
-- [Canada to donate 17.7M AstraZeneca doses](https://www.cbc.ca/news/politics/covax-donations-astrazeneca-surplus-1.6099072)
-- [How to unlearn a disease](https://nautil.us/issue/103/healthy-communication/how-to-unlearn-a-disease-rp)
-- [Motion (YC W20) is hiring a lead fullstack engineer to change how we manage time](https://www.workatastartup.com/jobs/45050)
+- [Dozens killed after record rain in Germany and Belgium](https://www.bbc.com/news/world-europe-57846200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
