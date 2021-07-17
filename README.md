@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mass Infection Is Not an Option: We Must Do More to Protect Our Young](https://www.johnsnowmemo.com/)
+- [This week in KDE: KDE-powered SteamDeck revealed](https://pointieststick.com/2021/07/16/this-week-in-kde-kde-powered-steamdeck-revealed/)
 - [Taktile (YC S20) Is Hiring a Forward Deployed Machine Learning Engineer (F/M/D)](https://www.ycombinator.com/companies/taktile/jobs/RG8XpIX-forward-deployed-machine-learning-engineer-f-m-d)
 - [Cancer risks increase with alcohol use, leading to over 740k cases last year](https://www.npr.org/sections/goatsandsoda/2021/07/16/1016586837/new-study-says-nearly-3-4-million-cancers-a-year-linked-to-alcohol-use)
 - [Linux: Using Goto in Kernel Code – KernelTrap](https://web.archive.org/web/20130305022050/http://kerneltrap.org/node/553/2131)
