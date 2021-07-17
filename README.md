@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Taktile (YC S20) Is Hiring a Forward Deployed Machine Learning Engineer (F/M/D)](https://www.ycombinator.com/companies/taktile/jobs/RG8XpIX-forward-deployed-machine-learning-engineer-f-m-d)
 - [Cancer risks increase with alcohol use, leading to over 740k cases last year](https://www.npr.org/sections/goatsandsoda/2021/07/16/1016586837/new-study-says-nearly-3-4-million-cancers-a-year-linked-to-alcohol-use)
 - [Show HN: Fastest way to make spaced-repetition flashcards](https://zorbi.cards)
 - [BlenderBot 2.0: A chatbot that builds long-term memory and searches the internet](https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet)
 - [Show HN: A low power 1U Raspberry Pi cluster server for inexpensive colocation](https://github.com/pawl/raspberry-pi-1u-server)
-- [The Computer Scientist Training AI to Think with Analogies](https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
