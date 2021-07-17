@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Master’s Degrees Are the Second Biggest Scam in Higher Education](https://slate.com/business/2021/07/masters-degrees-debt-loans-worth-it.html)
-- [Is Apollo 11's Lunar Module Still in Orbit Around the Moon 52 Years Later?](https://www.youtube.com/watch?v=dBHbLV7xEhc)
-- [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [Sean M. Carroll, Consciousness and the Laws of Physics](https://philpapers.org/rec/CARCAT-31)
-- [Elixir Protocols vs. Clojure Multimethods](https://mattmower.com/2021/07/17/elixir-protocols-vs-clojure-multimethods/)
+- [Intuit will no longer be a part of IRS Free File program](https://www.cnbc.com/2021/07/16/intuit-will-no-longer-participate-in-an-irs-free-tax-filing-program-.html)
+- [Simulating the Apollo 11 LM Ascent Stage Orbit [pdf]](https://github.com/RogerTwank/Eagle/blob/master/Eagle%20ReadMe.pdf)
+- [ML Benchmark Lottery [pdf]](https://arxiv.org/abs/2107.07002)
+- [Master’s degrees are the second biggest scam in higher education?](https://slate.com/business/2021/07/masters-degrees-debt-loans-worth-it.html)
+- [Is Apollo 11’s lunar module still in orbit around the moon? [video]](https://www.youtube.com/watch?v=dBHbLV7xEhc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
