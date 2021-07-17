@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Cancer risks increase with alcohol use, leading to over 740k cases last year](https://www.npr.org/sections/goatsandsoda/2021/07/16/1016586837/new-study-says-nearly-3-4-million-cancers-a-year-linked-to-alcohol-use)
-- [Of Course We Can Make a CSS-Only Clock That Tells the Current Time](https://css-tricks.com/of-course-we-can-make-a-css-only-clock-that-tells-the-current-time/)
-- [The Long Road to Linux-Only](https://ludditus.com/2021/03/31/the-solution/)
+- [Show HN: Fastest way to make spaced-repetition flashcards](https://zorbi.cards)
+- [BlenderBot 2.0: A chatbot that builds long-term memory and searches the internet](https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet)
 - [Show HN: A low power 1U Raspberry Pi cluster server for inexpensive colocation](https://github.com/pawl/raspberry-pi-1u-server)
 - [The Computer Scientist Training AI to Think with Analogies](https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/)
 <!-- BLOG-POST-LIST:END -->
