@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Short Guide to Iraq (1943)](https://www.hsdl.org/?view&did=477739)
 - [Intuit will no longer be a part of IRS Free File program](https://www.cnbc.com/2021/07/16/intuit-will-no-longer-participate-in-an-irs-free-tax-filing-program-.html)
 - [Simulating the Apollo 11 LM Ascent Stage Orbit [pdf]](https://github.com/RogerTwank/Eagle/blob/master/Eagle%20ReadMe.pdf)
 - [ML Benchmark Lottery [pdf]](https://arxiv.org/abs/2107.07002)
 - [Master’s degrees are the second biggest scam in higher education?](https://slate.com/business/2021/07/masters-degrees-debt-loans-worth-it.html)
-- [Is Apollo 11’s lunar module still in orbit around the moon? [video]](https://www.youtube.com/watch?v=dBHbLV7xEhc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
