@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Computer Scientist Training AI to Think with Analogies](https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/)
-- [The original source for the 1981 masterpiece “Defender” is now on GitHub](https://blog.adafruit.com/2021/07/15/the-original-source-for-the-1981-masterpiece-defender-is-now-on-github-gaming-arcade4/)
 - [Apple removes ‘Fakespot’ app from iOS App Store following Amazon request](https://9to5mac.com/2021/07/16/apple-removes-fakespot-app-from-ios-app-store-following-amazon-request/)
 - [Last Mile Redis](https://fly.io/blog/last-mile-redis/)
 - [Trexo Robotics (YC W19) Is Hiring Mobile and Robotics Interns](https://angel.co/company/trexo-robotics)
+- [How Dangerous Are Solar Storms?](http://backreaction.blogspot.com/2021/07/blog-post.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
