@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First complementary vertical organic transistors reach GHz speeds](https://www.eenewseurope.com/news/first-complementary-vertical-organic-transistors-reach-ghz-speeds)
+- [Pay secrecy: Why some workers can't discuss salaries](https://www.bbc.com/worklife/article/20210708-pay-secrecy-why-some-workers-cant-discuss-salaries)
+- [Show HN: Gorse – An Out-of-the-box open-source Recommender System](https://gorse.io/)
 - [A Short Guide to Iraq (1943)](https://www.hsdl.org/?view&did=477739)
-- [Intuit will no longer be a part of IRS Free File program](https://www.cnbc.com/2021/07/16/intuit-will-no-longer-participate-in-an-irs-free-tax-filing-program-.html)
 - [Simulating the Apollo 11 LM Ascent Stage Orbit [pdf]](https://github.com/RogerTwank/Eagle/blob/master/Eagle%20ReadMe.pdf)
-- [ML Benchmark Lottery [pdf]](https://arxiv.org/abs/2107.07002)
-- [Master’s degrees are the second biggest scam in higher education?](https://slate.com/business/2021/07/masters-degrees-debt-loans-worth-it.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
