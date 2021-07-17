@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Two-thirds of Southern Republicans want to secede](https://thewhyaxis.substack.com/p/two-thirds-of-southern-republicans)
-- [Layer (YC S20) Is hiring interns to build full-stack preview environments](https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021)
-- [Why People Are So Awful Online](https://www.nytimes.com/2021/07/17/opinion/culture/social-media-cancel-culture-roxane-gay.html)
-- [AI that finds disease targets and predicts a drug’s chances of FDA approval](https://medlifestyle.news/2021/07/13/artificial-intelligence-developed-that-finds-disease-targets-and-predicts-a-drugs-chances-of-fda-approval/)
-- [GM Will Suck Lithium from the Salton Sea to Make Batteries](https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries/)
+- [OpenAI disbands its robotics research team](https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/)
+- [Every Super Nintendo Port on the Game Boy Advance Compared](https://captrobau.blogspot.com/2020/05/as-i-mentioned-in-my-previous-post-im.html)
+- [Layer (YC S20) is hiring interns to build full-stack preview environments](https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021)
+- [Fasting lowers blood pressure by reshaping the gut microbiota](https://www.sciencedaily.com/releases/2021/04/210429123340.htm)
+- [Why we crave internet justice](https://www.nytimes.com/2021/07/17/opinion/culture/social-media-cancel-culture-roxane-gay.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
