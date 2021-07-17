@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Every Super Nintendo Port on the Game Boy Advance Compared (2020)](https://captrobau.blogspot.com/2020/05/as-i-mentioned-in-my-previous-post-im.html)
-- [Layer (YC S20) is hiring interns to build full-stack preview environments](https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021)
-- [Fasting lowers blood pressure by reshaping the gut microbiota](https://www.sciencedaily.com/releases/2021/04/210429123340.htm)
-- [GM has signed an agreement to extract lithium from beneath the Salton Sea](https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries/)
-- [TFTC (TIE Fighter Total Conversion) v1.0](https://www.moddb.com/mods/tie-fighter-total-conversion-tftc/news/tftc-v10-is-out-now)
+- [I'm a Frito-Lay Factory Worker. I Work 12-Hour Days, 7 Days a Week](https://www.vice.com/en/article/pkbmwy/im-a-frito-lay-factory-worker-i-work-12-hour-days-7-days-a-week)
+- [Shapecatcher: Draw the Unicode character you want](http://shapecatcher.com/)
+- [Imperial delusions: How the British justified their empire](https://www.nybooks.com/articles/2021/07/01/imperial-delusions/)
+- [Google Maps updates 'dangerous' Ben Nevis route](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330)
+- [HaikuOS running on real RISC-V hardware (HiFive Unmatched)](https://discuss.haiku-os.org/t/my-progress-on-real-risc-v-hardware/10963/31)
 <!-- BLOG-POST-LIST:END -->
 
 ---
