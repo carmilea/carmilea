@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First complementary vertical organic transistors reach GHz speeds](https://www.eenewseurope.com/news/first-complementary-vertical-organic-transistors-reach-ghz-speeds)
-- [Pay secrecy: Why some workers can't discuss salaries](https://www.bbc.com/worklife/article/20210708-pay-secrecy-why-some-workers-cant-discuss-salaries)
-- [Show HN: Gorse – An Out-of-the-box open-source Recommender System](https://gorse.io/)
-- [A Short Guide to Iraq (1943)](https://www.hsdl.org/?view&did=477739)
-- [Simulating the Apollo 11 LM Ascent Stage Orbit [pdf]](https://github.com/RogerTwank/Eagle/blob/master/Eagle%20ReadMe.pdf)
+- [Two-thirds of Southern Republicans want to secede](https://thewhyaxis.substack.com/p/two-thirds-of-southern-republicans)
+- [Layer (YC S20) Is hiring interns to build full-stack preview environments](https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021)
+- [Why People Are So Awful Online](https://www.nytimes.com/2021/07/17/opinion/culture/social-media-cancel-culture-roxane-gay.html)
+- [AI that finds disease targets and predicts a drug’s chances of FDA approval](https://medlifestyle.news/2021/07/13/artificial-intelligence-developed-that-finds-disease-targets-and-predicts-a-drugs-chances-of-fda-approval/)
+- [GM Will Suck Lithium from the Salton Sea to Make Batteries](https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
