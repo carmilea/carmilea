@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [This week in KDE: KDE-powered SteamDeck revealed](https://pointieststick.com/2021/07/16/this-week-in-kde-kde-powered-steamdeck-revealed/)
-- [Taktile (YC S20) Is Hiring a Forward Deployed Machine Learning Engineer (F/M/D)](https://www.ycombinator.com/companies/taktile/jobs/RG8XpIX-forward-deployed-machine-learning-engineer-f-m-d)
+- [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [Israel’s Candiru sold states spyware to hack journalists and dissidents](https://www.ft.com/content/187718a1-9b24-46d8-92a7-0fc5be99b061)
+- [Magnetism Simulations: Three Months in Monte Carlo](http://bit-player.org/2021/three-months-in-monte-carlo)
 - [Cancer risks increase with alcohol use, leading to over 740k cases last year](https://www.npr.org/sections/goatsandsoda/2021/07/16/1016586837/new-study-says-nearly-3-4-million-cancers-a-year-linked-to-alcohol-use)
 - [Linux: Using Goto in Kernel Code – KernelTrap](https://web.archive.org/web/20130305022050/http://kerneltrap.org/node/553/2131)
-- [Show HN: Fastest way to make spaced-repetition flashcards](https://zorbi.cards)
 <!-- BLOG-POST-LIST:END -->
 
 ---
