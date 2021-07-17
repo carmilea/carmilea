@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Everyone is dying’: Myanmar on the brink of decimation](https://asiatimes.com/2021/07/everyone-is-dying-myanmar-on-the-brink-of-decimation/)
+- [Piped: An privacy-friendly YouTube front end which is efficient by design](https://github.com/TeamPiped/Piped)
 - [A man in Egypt keeping a 200-year-old tradition of tile-making [video]](https://m.youtube.com/watch?v=n5x7GLl-mMo)
 - [Mysterious DNA sequences, known as ‘Borgs,’ recovered from California mud](https://www.sciencemag.org/news/2021/07/mysterious-dna-sequences-known-borgs-recovered-california-mud)
 - [A Solarpunk Manifesto](http://www.re-des.org/a-solarpunk-manifesto/)
-- [Mux (YC W16) is hiring devs to contribute to open source players](https://mux.com/jobs?hnj=oss-players)
-- [dhcpleased(8) and resolvd(8) enabled in base, replacing dhclient(8)](https://undeadly.org/cgi?action=article;sid=20210717141912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
