@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A man in Egypt keeping a 200-year-old tradition of tile-making [video]](https://m.youtube.com/watch?v=n5x7GLl-mMo)
+- [Mysterious DNA sequences, known as ‘Borgs,’ recovered from California mud](https://www.sciencemag.org/news/2021/07/mysterious-dna-sequences-known-borgs-recovered-california-mud)
+- [A Solarpunk Manifesto](http://www.re-des.org/a-solarpunk-manifesto/)
 - [Mux (YC W16) is hiring devs to contribute to open source players](https://mux.com/jobs?hnj=oss-players)
 - [dhcpleased(8) and resolvd(8) enabled in base, replacing dhclient(8)](https://undeadly.org/cgi?action=article;sid=20210717141912)
-- [Fedora 34 and RHEL 8/clones Developer Workstation Setup Script](https://github.com/David-Else/developer-workstation-setup-script)
-- [WiFiDemon – iOS WiFi RCE 0-Day Vuln, and a Zero-Click Vuln That Was Patched](https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/)
-- [I'm a Frito-Lay Factory Worker. I Work 12-Hour Days, 7 Days a Week](https://www.vice.com/en/article/pkbmwy/im-a-frito-lay-factory-worker-i-work-12-hour-days-7-days-a-week)
 <!-- BLOG-POST-LIST:END -->
 
 ---
