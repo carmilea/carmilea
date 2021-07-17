@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI disbands its robotics research team](https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/)
-- [Every Super Nintendo Port on the Game Boy Advance Compared](https://captrobau.blogspot.com/2020/05/as-i-mentioned-in-my-previous-post-im.html)
+- [Every Super Nintendo Port on the Game Boy Advance Compared (2020)](https://captrobau.blogspot.com/2020/05/as-i-mentioned-in-my-previous-post-im.html)
 - [Layer (YC S20) is hiring interns to build full-stack preview environments](https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021)
 - [Fasting lowers blood pressure by reshaping the gut microbiota](https://www.sciencedaily.com/releases/2021/04/210429123340.htm)
-- [Why we crave internet justice](https://www.nytimes.com/2021/07/17/opinion/culture/social-media-cancel-culture-roxane-gay.html)
+- [GM has signed an agreement to extract lithium from beneath the Salton Sea](https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries/)
+- [TFTC (TIE Fighter Total Conversion) v1.0](https://www.moddb.com/mods/tie-fighter-total-conversion-tftc/news/tftc-v10-is-out-now)
 <!-- BLOG-POST-LIST:END -->
 
 ---
