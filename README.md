@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mux (YC W16) is hiring devs to contribute to open source players](https://mux.com/jobs?hnj=oss-players)
+- [dhcpleased(8) and resolvd(8) enabled in base, replacing dhclient(8)](https://undeadly.org/cgi?action=article;sid=20210717141912)
+- [Fedora 34 and RHEL 8/clones Developer Workstation Setup Script](https://github.com/David-Else/developer-workstation-setup-script)
+- [WiFiDemon – iOS WiFi RCE 0-Day Vuln, and a Zero-Click Vuln That Was Patched](https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/)
 - [I'm a Frito-Lay Factory Worker. I Work 12-Hour Days, 7 Days a Week](https://www.vice.com/en/article/pkbmwy/im-a-frito-lay-factory-worker-i-work-12-hour-days-7-days-a-week)
-- [Shapecatcher: Draw the Unicode character you want](http://shapecatcher.com/)
-- [Imperial delusions: How the British justified their empire](https://www.nybooks.com/articles/2021/07/01/imperial-delusions/)
-- [Google Maps updates 'dangerous' Ben Nevis route](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330)
-- [HaikuOS running on real RISC-V hardware (HiFive Unmatched)](https://discuss.haiku-os.org/t/my-progress-on-real-risc-v-hardware/10963/31)
 <!-- BLOG-POST-LIST:END -->
 
 ---
