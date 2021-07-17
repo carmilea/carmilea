@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Master’s Degrees Are the Second Biggest Scam in Higher Education](https://slate.com/business/2021/07/masters-degrees-debt-loans-worth-it.html)
+- [Is Apollo 11's Lunar Module Still in Orbit Around the Moon 52 Years Later?](https://www.youtube.com/watch?v=dBHbLV7xEhc)
 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [Israel’s Candiru sold states spyware to hack journalists and dissidents](https://www.ft.com/content/187718a1-9b24-46d8-92a7-0fc5be99b061)
-- [Magnetism Simulations: Three Months in Monte Carlo](http://bit-player.org/2021/three-months-in-monte-carlo)
-- [Cancer risks increase with alcohol use, leading to over 740k cases last year](https://www.npr.org/sections/goatsandsoda/2021/07/16/1016586837/new-study-says-nearly-3-4-million-cancers-a-year-linked-to-alcohol-use)
-- [Linux: Using Goto in Kernel Code – KernelTrap](https://web.archive.org/web/20130305022050/http://kerneltrap.org/node/553/2131)
+- [Sean M. Carroll, Consciousness and the Laws of Physics](https://philpapers.org/rec/CARCAT-31)
+- [Elixir Protocols vs. Clojure Multimethods](https://mattmower.com/2021/07/17/elixir-protocols-vs-clojure-multimethods/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
