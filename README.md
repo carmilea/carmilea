@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Coming soon – “Meet the Batch” threads for parallel Launch HNs](https://news.ycombinator.com/item?id=27877280)
+- [Racket v8.2](https://blog.racket-lang.org/2021/07/racket-v8-2.html)
 - [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
-- [Word gap“ When money's tight, parents talk less to their kids](https://news.berkeley.edu/2021/07/16/word-gap-when-moneys-tight-parents-talk-less-to-kids/)
-- [A plan to rescue the Web from the Internet (2017)](https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html)
-- [MVT – forensic tool to look for infections on smartphones](https://github.com/mvt-project/mvt)
-- [iOS 14.6 device hacked with a zero-click iMessage exploit to install Pegasus](https://twitter.com/billmarczak/status/1416801514685796352)
+- [Word gap: When money’s tight, parents talk less to kids](https://news.berkeley.edu/2021/07/16/word-gap-when-moneys-tight-parents-talk-less-to-kids/)
+- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 <!-- BLOG-POST-LIST:END -->
 
 ---
