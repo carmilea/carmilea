@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS 14.6 device hacked with a zero-click iMessage exploit to install Pegasus](https://twitter.com/billmarczak/status/1416801514685796352)
+- [The online data that's being deleted](https://www.bbc.com/future/article/20210715-the-online-data-thats-being-deleted)
+- [GNU Binutlis 2.37 has been released](https://sourceware.org/pipermail/binutils/2021-July/117384.html)
 - [“We're Shutting Down Our 3G Network”](https://benergize.com/2021/07/16/were-shutting-down-our-3g-network/)
 - [Diffsitter: A tree-sitter based AST difftool to get meaningful semantic diffs](https://github.com/afnanenayet/diffsitter)
-- [Feedgnuplot – plotting standard input in the shell](https://github.com/dkogan/feedgnuplot/)
-- [An app for M1 Macs that plays the sound of a fan as CPU usage goes up](https://fanfan.rambo.codes/)
-- [ToyDB: Distributed SQL Database in Rust](https://github.com/erikgrinaker/toydb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
