@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Leak uncovers global abuse of cyber-surveillance weapon](https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus)
-- [Ask HN: Did anybody apply for UK Global Talent VISA? How did it go?](https://news.ycombinator.com/item?id=27873783)
-- [Pacific Northwest Heat Wave Killed More Than One Billion Sea Creatures](https://www.scientificamerican.com/article/pacific-northwest-heat-wave-killed-more-than-1-billion-sea-creatures/)
-- [Canonical turned a profit, back above 500 employees](https://www.phoronix.com/scan.php?page=news_item&px=Canonical-2020-Filing)
-- [Ask HN: As a solo founder, what are the reasons not to use Docker?](https://news.ycombinator.com/item?id=27872642)
+- [Volley (YC W18) Is Hiring for 12 Roles](https://jobs.lever.co/volleythat)
+- [A Reporter’s Fight to Expose Epstein’s Crimes – and Earn a Living](https://www.nytimes.com/2021/07/17/opinion/julie-brown-epstein-book.html)
+- [Different Cultures Define Happiness Differently](https://www.theatlantic.com/family/archive/2021/07/happiest-country-definition/619441/)
+- [How NSO's Pegasus Is Used to Spy on Journalists](https://www.haaretz.com/israel-news/tech-news/.premium-how-nso-s-pegasus-is-used-to-spy-on-journalists-1.10010560)
+- [Private Israeli spyware used to hack cellphones of journalists, activists](https://www.washingtonpost.com/investigations/interactive/2021/nso-spyware-pegasus-cellphones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
