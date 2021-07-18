@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cannabis first domesticated 12,000 years ago](https://phys.org/news/2021-07-cannabis-domesticated-years.html)
 - [Xiaomi becomes number two smartphone vendor for first time ever in Q2 2021](https://www.canalys.com/newsroom/global-smartphone-market-q2-2021)
 - ['No One Is Safe': How the Heatwave Has Battered the Wealthy World](https://www.nytimes.com/2021/07/17/climate/heatwave-weather-hot.html)
 - [Flexport Is Hiring Engineers to Make Global Logistics Programmable](https://www.flexport.com/careers)
-- [How You Wound Up Playing ‘The Oregon Trail’ in Computer Class](https://www.smithsonianmag.com/innovation/how-you-wound-playing-em-oregon-trailem-computer-class-180959851/)
-- [“The following actual sample of BANCStar code was from a production system”](http://web.archive.org/web/20050313023432/http://www.geocities.com/ResearchTriangle/Station/2266/tarpit/bancstar.html)
+- [How You Wound Up Playing ‘The Oregon Trail’ in Computer Class (2016)](https://www.smithsonianmag.com/innovation/how-you-wound-playing-em-oregon-trailem-computer-class-180959851/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
