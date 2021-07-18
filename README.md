@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Texans can carry handguns without a license or training starting Sept. 1](https://www.texastribune.org/2021/06/16/texas-constitutional-carry-greg-abbott/)
-- [`Zig Cc`: A Powerful Drop-In Replacement for GCC/Clang](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html)
+- [Pacific Northwest Heat Wave Killed More Than One Billion Sea Creatures](https://www.scientificamerican.com/article/pacific-northwest-heat-wave-killed-more-than-1-billion-sea-creatures/)
+- [Assembly Language and Computer Architecture (2018)](https://www.youtube.com/watch?v=L1ung0wil9Y)
+- [Canonical turned a profit, back above 500 employees](https://www.phoronix.com/scan.php?page=news_item&px=Canonical-2020-Filing)
+- [Zig cc: A drop-in replacement for GCC/Clang (2020)](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html)
 - [Inserting One Billion Rows in SQLite Under a Minute](https://avi.im/blag/2021/fast-sqlite-inserts/)
-- [Tesla is charging owners $1,500 for hardware they already paid for](https://electrek.co/2021/07/18/tesla-is-charging-owners-1500-for-hardware-they-already-paid-for/)
-- [NYC Mesh Community Internet](https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
