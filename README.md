@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ridiculous Reviews of Some of the Best National Parks](https://www.smithsonianmag.com/travel/ridiculous-reviews-some-best-national-parks-180978119/)
 - [Flexport Is Hiring Engineers to Make Global Logistics Programmable](https://www.flexport.com/careers)
+- [How You Wound Up Playing ‘The Oregon Trail’ in Computer Class](https://www.smithsonianmag.com/innovation/how-you-wound-playing-em-oregon-trailem-computer-class-180959851/)
 - [“The following actual sample of BANCStar code was from a production system”](http://web.archive.org/web/20050313023432/http://www.geocities.com/ResearchTriangle/Station/2266/tarpit/bancstar.html)
-- [React's UI State Model vs. Vanilla JavaScript](https://arihantverma.com/posts/2021/07/17/react-ui-state-model-vs-vanilla-js/)
 - [Looking Glass: Run a Windows VM on Linux in a Window with Native Performance](https://looking-glass.io/)
-- [Nim on the Attack: Process Injection Using Nim and the Windows API](https://huskyhacks.dev/2021/07/17/nim-exploit-dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
