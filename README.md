@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Texans can carry handguns without a license or training starting Sept. 1](https://www.texastribune.org/2021/06/16/texas-constitutional-carry-greg-abbott/)
+- [`Zig Cc`: A Powerful Drop-In Replacement for GCC/Clang](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html)
+- [Inserting One Billion Rows in SQLite Under a Minute](https://avi.im/blag/2021/fast-sqlite-inserts/)
 - [Tesla is charging owners $1,500 for hardware they already paid for](https://electrek.co/2021/07/18/tesla-is-charging-owners-1500-for-hardware-they-already-paid-for/)
 - [NYC Mesh Community Internet](https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html)
-- [Rally (YC S20) is hiring a product designer](https://www.ycombinator.com/companies/rally/jobs/4ijjeMbu7-product-designer-or-ui-ux-developer)
-- [GitHub Copilot: First Impressions](https://vladiliescu.net/github-copilot-first-impressions/)
-- [Cannabis first domesticated 12,000 years ago](https://phys.org/news/2021-07-cannabis-domesticated-years.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
