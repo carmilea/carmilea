@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Volley (YC W18) Is Hiring for 12 Roles](https://jobs.lever.co/volleythat)
-- [A Reporter’s Fight to Expose Epstein’s Crimes – and Earn a Living](https://www.nytimes.com/2021/07/17/opinion/julie-brown-epstein-book.html)
-- [Different Cultures Define Happiness Differently](https://www.theatlantic.com/family/archive/2021/07/happiest-country-definition/619441/)
-- [How NSO's Pegasus Is Used to Spy on Journalists](https://www.haaretz.com/israel-news/tech-news/.premium-how-nso-s-pegasus-is-used-to-spy-on-journalists-1.10010560)
-- [Private Israeli spyware used to hack cellphones of journalists, activists](https://www.washingtonpost.com/investigations/interactive/2021/nso-spyware-pegasus-cellphones/)
+- [ToyDB: Distributed SQL Database in Rust](https://github.com/erikgrinaker/toydb)
+- [Police Destroy 1,069 Bitcoin Miners with Big Ass Steamroller in Malaysia](https://www.vice.com/en/article/7kv739/police-destroy-1069-bitcoin-miners-with-big-ass-steamroller-in-malaysia)
+- [The Perils of M1 Ownership](https://eclecticlight.co/2021/07/18/last-week-on-my-mac-the-perils-of-m1-ownership/)
+- [Right or Left, You Should Be Worried About Big Tech Censorship [Cory Doctorow]](https://www.eff.org/deeplinks/2021/07/right-or-left-you-should-be-worried-about-big-tech-censorship)
+- [Don’t Let Police Arm Autonomous or Remote-Controlled Robots and Drones](https://www.eff.org/deeplinks/2021/07/dont-let-police-arm-autonomous-or-remote-controlled-robots-and-drones)
 <!-- BLOG-POST-LIST:END -->
 
 ---
