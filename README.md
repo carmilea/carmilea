@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Leak uncovers global abuse of cyber-surveillance weapon](https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus)
+- [Ask HN: Did anybody apply for UK Global Talent VISA? How did it go?](https://news.ycombinator.com/item?id=27873783)
 - [Pacific Northwest Heat Wave Killed More Than One Billion Sea Creatures](https://www.scientificamerican.com/article/pacific-northwest-heat-wave-killed-more-than-1-billion-sea-creatures/)
-- [Assembly Language and Computer Architecture (2018)](https://www.youtube.com/watch?v=L1ung0wil9Y)
 - [Canonical turned a profit, back above 500 employees](https://www.phoronix.com/scan.php?page=news_item&px=Canonical-2020-Filing)
-- [Zig cc: A drop-in replacement for GCC/Clang (2020)](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html)
-- [Inserting One Billion Rows in SQLite Under a Minute](https://avi.im/blag/2021/fast-sqlite-inserts/)
+- [Ask HN: As a solo founder, what are the reasons not to use Docker?](https://news.ycombinator.com/item?id=27872642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
