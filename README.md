@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ridiculous Reviews of Some of the Best National Parks](https://www.smithsonianmag.com/travel/ridiculous-reviews-some-best-national-parks-180978119/)
+- ['No One Is Safe': How the Heatwave Has Battered the Wealthy World](https://www.nytimes.com/2021/07/17/climate/heatwave-weather-hot.html)
 - [Flexport Is Hiring Engineers to Make Global Logistics Programmable](https://www.flexport.com/careers)
 - [How You Wound Up Playing ‘The Oregon Trail’ in Computer Class](https://www.smithsonianmag.com/innovation/how-you-wound-playing-em-oregon-trailem-computer-class-180959851/)
 - [“The following actual sample of BANCStar code was from a production system”](http://web.archive.org/web/20050313023432/http://www.geocities.com/ResearchTriangle/Station/2266/tarpit/bancstar.html)
