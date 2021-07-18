@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
-- [A plan to rescue the Web from the Internet](https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html)
+- [Word gap“ When money's tight, parents talk less to their kids](https://news.berkeley.edu/2021/07/16/word-gap-when-moneys-tight-parents-talk-less-to-kids/)
+- [A plan to rescue the Web from the Internet (2017)](https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html)
+- [MVT – forensic tool to look for infections on smartphones](https://github.com/mvt-project/mvt)
 - [iOS 14.6 device hacked with a zero-click iMessage exploit to install Pegasus](https://twitter.com/billmarczak/status/1416801514685796352)
-- [The online data that's being deleted](https://www.bbc.com/future/article/20210715-the-online-data-thats-being-deleted)
-- [GNU Binutlis 2.37 has been released](https://sourceware.org/pipermail/binutils/2021-July/117384.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
