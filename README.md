@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [React's UI State Model vs. Vanilla JavaScript](https://arihantverma.com/posts/2021/07/17/react-ui-state-model-vs-vanilla-js/)
 - [Looking Glass: Run a Windows VM on Linux in a Window with Native Performance](https://looking-glass.io/)
 - [Toxoplasmosis: An important risk factor for acquiring SARS-CoV-2 infection](https://www.medrxiv.org/content/10.1101/2021.05.15.21257257v1.full)
 - [Piped: A privacy-friendly YouTube front end which is efficient by design](https://github.com/TeamPiped/Piped)
-- [Nim on the Attack: Process Injection Using Nim and the Windows API](https://huskyhacks.dev/2021/07/17/nim-exploit-dev/)
-- [A man in Egypt keeping a 200-year-old tradition of tile-making [video]](https://m.youtube.com/watch?v=n5x7GLl-mMo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
