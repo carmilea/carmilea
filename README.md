@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NYC Mesh Community Internet](https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html)
+- [Rally (YC S20) is hiring a product designer](https://www.ycombinator.com/companies/rally/jobs/4ijjeMbu7-product-designer-or-ui-ux-developer)
+- [GitHub Copilot: First Impressions](https://vladiliescu.net/github-copilot-first-impressions/)
+- [Apple boots app that called BS on fake Amazon reviews from App Store](https://mashable.com/article/apple-app-store-removed-fakespot-fake-amazon-reviews)
 - [Cannabis first domesticated 12,000 years ago](https://phys.org/news/2021-07-cannabis-domesticated-years.html)
-- [Xiaomi becomes number two smartphone vendor for first time ever in Q2 2021](https://www.canalys.com/newsroom/global-smartphone-market-q2-2021)
-- ['No One Is Safe': How the Heatwave Has Battered the Wealthy World](https://www.nytimes.com/2021/07/17/climate/heatwave-weather-hot.html)
-- [Flexport Is Hiring Engineers to Make Global Logistics Programmable](https://www.flexport.com/careers)
-- [How You Wound Up Playing ‘The Oregon Trail’ in Computer Class (2016)](https://www.smithsonianmag.com/innovation/how-you-wound-playing-em-oregon-trailem-computer-class-180959851/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
