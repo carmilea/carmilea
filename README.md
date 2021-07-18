@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Everyone is dying’: Myanmar on the brink of decimation](https://asiatimes.com/2021/07/everyone-is-dying-myanmar-on-the-brink-of-decimation/)
-- [Piped: An privacy-friendly YouTube front end which is efficient by design](https://github.com/TeamPiped/Piped)
+- [Piped: A privacy-friendly YouTube front end which is efficient by design](https://github.com/TeamPiped/Piped)
+- [Nim on the Attack: Process Injection Using Nim and the Windows API](https://huskyhacks.dev/2021/07/17/nim-exploit-dev/)
 - [A man in Egypt keeping a 200-year-old tradition of tile-making [video]](https://m.youtube.com/watch?v=n5x7GLl-mMo)
 - [Mysterious DNA sequences, known as ‘Borgs,’ recovered from California mud](https://www.sciencemag.org/news/2021/07/mysterious-dna-sequences-known-borgs-recovered-california-mud)
 - [A Solarpunk Manifesto](http://www.re-des.org/a-solarpunk-manifesto/)
