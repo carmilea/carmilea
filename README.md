@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zoom to Acquire Five9 for $14.7 billion](https://www.globenewswire.com/news-release/2021/07/19/2264531/0/en/Zoom-to-Acquire-Five9.html)
+- [Apple sued by teen wrongly accused of shoplifting by unreliable facial-rec tech](https://www.theregister.com/2021/05/29/apple_sis_lawsuit/)
+- [From Macy’s to Ace Hardware, facial recognition is already everywhere](https://www.vox.com/2021/7/15/22577876/macys-ace-hardware-fight-for-the-future-facial-recognition-artificial-intelligence-stores)
+- [Show HN: Angle Grinder – A terminal app to slice, dice, and aggregate your logs](https://github.com/rcoh/angle-grinder)
 - [Brain Signals Translated to 18 Words per Minute](https://www.ucsf.edu/news/2021/07/420946/neuroprosthesis-restores-words-man-paralysis)
-- [Tell HN: Coming soon – “Meet the Batch” threads for parallel Launch HNs](https://news.ycombinator.com/item?id=27877280)
-- [Racket v8.2](https://blog.racket-lang.org/2021/07/racket-v8-2.html)
-- [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
-- [Word gap: When money’s tight, parents talk less to kids](https://news.berkeley.edu/2021/07/16/word-gap-when-moneys-tight-parents-talk-less-to-kids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
