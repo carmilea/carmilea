@@ -55,7 +55,7 @@
 - [Apple sued by teen wrongly accused of shoplifting by unreliable facial-rec tech](https://www.theregister.com/2021/05/29/apple_sis_lawsuit/)
 - [From Macy’s to Ace Hardware, facial recognition is already everywhere](https://www.vox.com/2021/7/15/22577876/macys-ace-hardware-fight-for-the-future-facial-recognition-artificial-intelligence-stores)
 - [Show HN: Angle Grinder – A terminal app to slice, dice, and aggregate your logs](https://github.com/rcoh/angle-grinder)
-- [Brain Signals Translated to 18 Words per Minute](https://www.ucsf.edu/news/2021/07/420946/neuroprosthesis-restores-words-man-paralysis)
+- [“Neuroprosthesis” restores words to man with paralysis](https://www.ucsf.edu/news/2021/07/420946/neuroprosthesis-restores-words-man-paralysis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
