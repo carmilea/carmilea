@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vatican Best Films List](https://en.wikipedia.org/wiki/Vatican%27s_list_of_films)
 - [Signadot (YC W20) Is Hiring Back End Developers](https://www.workatastartup.com/jobs/42298)
-- [We see Project Pegasus, we must have Open Source Smartphones: let’s discuss](https://www.theguardian.com/world/commentisfree/2021/jul/19/spyware-can-make-your-phone-your-enemy-journalism-is-your-defence)
 - [Julian Assange Case: Keystone Witness Admits He Lied, US Media Ignores](https://thewire.in/rights/julian-assange-case-key-witness-lied)
 - [Visualizing all the vacant office space in San Francisco](https://socketsite.com/archives/2021/07/visualizing-all-the-vacant-office-space-in-san-francisco-2.html)
 - [Data leak shatters the lie that the innocent need not fear surveillance](https://www.theguardian.com/news/2021/jul/18/huge-data-leak-shatters-lie-innocent-need-not-fear-surveillance)
