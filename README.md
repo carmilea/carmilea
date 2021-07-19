@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We are drowning in churn and noise. I am fighting by switching this site to PDF](https://lab6.com/0)
 - [Show HN: Magic Mushroom Map](https://www.magicmushroommap.com/)
 - [Torvalds wants new NTFS driver in kernel](https://lore.kernel.org/lkml/CAHk-=whfeq9gyPWK3yao6cCj7LKeU3vQEDGJ3rKDdcaPNVMQzQ@mail.gmail.com/)
 - [Vatican Best Films List](https://en.wikipedia.org/wiki/Vatican%27s_list_of_films)
-- [Signadot (YC W20) Is Hiring Back End Developers](https://www.workatastartup.com/jobs/42298)
-- [Julian Assange Case: Keystone Witness Admits He Lied, US Media Ignores](https://thewire.in/rights/julian-assange-case-key-witness-lied)
+- [Are there flaws in some ARM64 instructions?](https://eclecticlight.co/2021/07/19/are-there-flaws-in-some-arm64-instructions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
