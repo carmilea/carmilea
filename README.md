@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bird of the Day: Using Azure Computer Vision to count birds in my yard](http://www.deadcast.blog/posts/bird-of-the-day.html)
-- [Edward Snowden calls for spyware trade ban amid Pegasus revelations](https://www.theguardian.com/news/2021/jul/19/edward-snowden-calls-spyware-trade-ban-pegasus-revelations)
-- [Linux 5.0 shown to boot on ESP32 processor](https://www.cnx-software.com/2021/07/18/linux-5-0-esp32-processor/)
-- [RAWGraphs: The missing link between spreadsheets and data visualization](https://rawgraphs.io/)
-- [Bouba/Kiki Effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
+- [Draftbit (YC W18) Is Hiring Senior Engineers (Reason, React Native, GraphQL)](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
+- [A proof P = NP was accidentally published in TOCT](https://twitter.com/danluu/status/1417215848633159689)
+- [Using Prolog for Sudoku Variants](http://dstrohmaier.com/sudoku-prolog/)
+- [C++ Dev Ecosystem 2021](https://www.jetbrains.com/lp/devecosystem-2021/cpp/)
+- [A GPIO Driver in Rust](https://lwn.net/Articles/863459/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
