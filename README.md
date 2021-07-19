@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Julian Assange Case: Keystone Witness Admits He Lied, US Media Ignores](https://thewire.in/rights/julian-assange-case-key-witness-lied)
 - [Visualizing all the vacant office space in San Francisco](https://socketsite.com/archives/2021/07/visualizing-all-the-vacant-office-space-in-san-francisco-2.html)
 - [Data leak shatters the lie that the innocent need not fear surveillance](https://www.theguardian.com/news/2021/jul/18/huge-data-leak-shatters-lie-innocent-need-not-fear-surveillance)
-- [Zoom to Acquire Five9](https://www.globenewswire.com/news-release/2021/07/19/2264531/0/en/Zoom-to-Acquire-Five9.html)
 - [Apple sued by teen wrongly accused of shoplifting by unreliable facial-rec tech](https://www.theregister.com/2021/05/29/apple_sis_lawsuit/)
 - [Show HN: Angle Grinder – A terminal app to slice, dice, and aggregate your logs](https://github.com/rcoh/angle-grinder)
 <!-- BLOG-POST-LIST:END -->
