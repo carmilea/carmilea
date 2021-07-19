@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse (YC W12) Is Hiring a Senior Site Reliability Contractor](https://news.ycombinator.com/item?id=27881623)
+- [U.S. and key allies accuse China of Microsoft Exchange cyberattacks](https://www.axios.com/china-cyberattacks-nato-181e71d2-7414-45f3-9463-c8b1d46392c1.html)
 - [We are drowning in churn and noise. I am fighting by switching this site to PDF](https://lab6.com/0)
 - [Show HN: Magic Mushroom Map](https://www.magicmushroommap.com/)
-- [Torvalds wants new NTFS driver in kernel](https://lore.kernel.org/lkml/CAHk-=whfeq9gyPWK3yao6cCj7LKeU3vQEDGJ3rKDdcaPNVMQzQ@mail.gmail.com/)
-- [Vatican Best Films List](https://en.wikipedia.org/wiki/Vatican%27s_list_of_films)
-- [Are there flaws in some ARM64 instructions?](https://eclecticlight.co/2021/07/19/are-there-flaws-in-some-arm64-instructions/)
+- [Children are spoofing Covid-19 tests with soft drinks](https://www.bbc.com/future/article/20210705-how-children-are-spoofing-covid-19-tests-with-soft-drinks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
