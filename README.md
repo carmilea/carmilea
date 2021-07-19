@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brain Signals Translated to 18 Words per Minute](https://www.ucsf.edu/news/2021/07/420946/neuroprosthesis-restores-words-man-paralysis)
 - [Tell HN: Coming soon – “Meet the Batch” threads for parallel Launch HNs](https://news.ycombinator.com/item?id=27877280)
 - [Racket v8.2](https://blog.racket-lang.org/2021/07/racket-v8-2.html)
 - [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
 - [Word gap: When money’s tight, parents talk less to kids](https://news.berkeley.edu/2021/07/16/word-gap-when-moneys-tight-parents-talk-less-to-kids/)
-- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 <!-- BLOG-POST-LIST:END -->
 
 ---
