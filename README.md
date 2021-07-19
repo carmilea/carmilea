@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoom to Acquire Five9 for $14.7 billion](https://www.globenewswire.com/news-release/2021/07/19/2264531/0/en/Zoom-to-Acquire-Five9.html)
+- [99% of Those Who Died from Virus Had Other Illness, Italy Says](https://www.bloombergquint.com/onweb/99-of-those-who-died-from-virus-had-other-illness-italy-says)
+- [Visualizing all the vacant office space in San Francisco](https://socketsite.com/archives/2021/07/visualizing-all-the-vacant-office-space-in-san-francisco-2.html)
+- [Zoom to Acquire Five9](https://www.globenewswire.com/news-release/2021/07/19/2264531/0/en/Zoom-to-Acquire-Five9.html)
 - [Apple sued by teen wrongly accused of shoplifting by unreliable facial-rec tech](https://www.theregister.com/2021/05/29/apple_sis_lawsuit/)
 - [From Macy’s to Ace Hardware, facial recognition is already everywhere](https://www.vox.com/2021/7/15/22577876/macys-ace-hardware-fight-for-the-future-facial-recognition-artificial-intelligence-stores)
-- [Show HN: Angle Grinder – A terminal app to slice, dice, and aggregate your logs](https://github.com/rcoh/angle-grinder)
-- [“Neuroprosthesis” restores words to man with paralysis](https://www.ucsf.edu/news/2021/07/420946/neuroprosthesis-restores-words-man-paralysis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
