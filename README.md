@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Muse (YC W12) Is Hiring a Senior Site Reliability Contractor](https://news.ycombinator.com/item?id=27881623)
+- [I had to give a wrong answer to get the job (2017)](https://dewitters.com/i-had-to-give-a-wrong-answer-to-get-the-job/)
 - [U.S. and key allies accuse China of Microsoft Exchange cyberattacks](https://www.axios.com/china-cyberattacks-nato-181e71d2-7414-45f3-9463-c8b1d46392c1.html)
 - [We are drowning in churn and noise. I am fighting by switching this site to PDF](https://lab6.com/0)
 - [Show HN: Magic Mushroom Map](https://www.magicmushroommap.com/)
-- [Children are spoofing Covid-19 tests with soft drinks](https://www.bbc.com/future/article/20210705-how-children-are-spoofing-covid-19-tests-with-soft-drinks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
