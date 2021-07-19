@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bird of the Day: Using Azure Computer Vision to count birds in my yard](http://www.deadcast.blog/posts/bird-of-the-day.html)
+- [Edward Snowden calls for spyware trade ban amid Pegasus revelations](https://www.theguardian.com/news/2021/jul/19/edward-snowden-calls-spyware-trade-ban-pegasus-revelations)
+- [Linux 5.0 shown to boot on ESP32 processor](https://www.cnx-software.com/2021/07/18/linux-5-0-esp32-processor/)
+- [RAWGraphs: The missing link between spreadsheets and data visualization](https://rawgraphs.io/)
 - [Bouba/Kiki Effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
-- [Giant tsunami from dino-killing asteroid impact revealed in fossilized ripples](https://www.sciencemag.org/news/2021/07/giant-tsunami-dino-killing-asteroid-impact-revealed-fossilized-megaripples)
-- [Letsencrypt Service Disruption](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/60f5b56d1c82f805369a7d98)
-- [Galaxy Upcycling: How Samsung Ruined Their Best Idea in Years](https://www.ifixit.com/News/50450/samsung-galaxy-upcycling-unlocked-smartphone-smarthome-project)
-- [Math Problems for children from 5 to 15 (2004) [pdf]](https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
