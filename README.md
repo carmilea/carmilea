@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sirum (YC W15) Is Hiring a Staff Software Engineer](https://news.ycombinator.com/item?id=27884866)
+- [Time to assume that health research is fraudulent until proven otherwise?](https://blogs.bmj.com/bmj/2021/07/05/time-to-assume-that-health-research-is-fraudulent-until-proved-otherwise/)
 - [NASA Returns Hubble Space Telescope to Science Operations](https://www.nasa.gov/feature/goddard/2021/operations-underway-to-restore-payload-computer-on-nasas-hubble-space-telescope)
 - [Show HN: Brython is an implementation of Python 3 running in the browser](https://github.com/brython-dev/brython)
 - [New Shape Opens ‘Wormhole’ Between Numbers and Geometry](https://www.quantamagazine.org/with-a-new-shape-mathematicians-link-geometry-and-numbers-20210719/)
-- [Thread Pools on the JVM](https://gist.github.com/djspiewak/46b543800958cf61af6efa8e072bfd5c)
-- [Nvidia Shield TV Owners Are Pissed About the Banner Ads in Android TV](https://gizmodo.com/nvidia-shield-tv-owners-are-pissed-about-the-banner-ads-1847185249)
 <!-- BLOG-POST-LIST:END -->
 
 ---
