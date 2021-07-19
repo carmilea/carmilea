@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Shuts Down NSO Group Infrastructure](https://www.vice.com/en/article/xgx5bw/amazon-aws-shuts-down-nso-group-infrastructure)
+- [Launch HN: Hypercontext (YC S21) – Meeting notes+actions+feedback+okrs, one app](https://news.ycombinator.com/item?id=27882350)
+- [Senet](https://en.wikipedia.org/wiki/Senet)
+- [Show HN: Gort is a chatbot framework designed for chatops (MVP)](https://github.com/getgort/gort)
 - [The Muse (YC W12) Is Hiring a Senior Site Reliability Contractor](https://news.ycombinator.com/item?id=27881623)
-- [I had to give a wrong answer to get the job (2017)](https://dewitters.com/i-had-to-give-a-wrong-answer-to-get-the-job/)
-- [U.S. and key allies accuse China of Microsoft Exchange cyberattacks](https://www.axios.com/china-cyberattacks-nato-181e71d2-7414-45f3-9463-c8b1d46392c1.html)
-- [We are drowning in churn and noise. I am fighting by switching this site to PDF](https://lab6.com/0)
-- [Show HN: Magic Mushroom Map](https://www.magicmushroommap.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
