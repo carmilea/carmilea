@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don’t Wanna Pay Ransom Gangs? Test Your Backups](https://krebsonsecurity.com/2021/07/dont-wanna-pay-ransom-gangs-test-your-backups/)
 - [Draftbit (YC W18) Is Hiring Senior Engineers (Reason, React Native, GraphQL)](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
-- [A proof P = NP was accidentally published in TOCT](https://twitter.com/danluu/status/1417215848633159689)
 - [Using Prolog for Sudoku Variants](http://dstrohmaier.com/sudoku-prolog/)
 - [C++ Dev Ecosystem 2021](https://www.jetbrains.com/lp/devecosystem-2021/cpp/)
 - [A GPIO Driver in Rust](https://lwn.net/Articles/863459/)
