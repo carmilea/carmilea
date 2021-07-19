@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Julia Computing Raises $24M Series A](https://www.hpcwire.com/off-the-wire/julia-computing-raises-24m-series-a-former-snowflake-ceo-bob-muglia-joins-board/)
+- [iMessage, Apple Music used by NSO Pegasus to attack journalist iPhones](https://appleinsider.com/articles/21/07/19/imessage-apple-music-used-by-pegasus-to-attack-journalist-iphones)
+- [Key Modi rival Rahul Gandhi among potential Indian targets of NSO](https://www.theguardian.com/news/2021/jul/19/key-modi-rival-rahul-gandhi-among-indian-targets-of-nso-client)
 - [Amazon Shuts Down NSO Group Infrastructure](https://www.vice.com/en/article/xgx5bw/amazon-aws-shuts-down-nso-group-infrastructure)
-- [Launch HN: Hypercontext (YC S21) – Meeting notes+actions+feedback+okrs, one app](https://news.ycombinator.com/item?id=27882350)
-- [Senet](https://en.wikipedia.org/wiki/Senet)
-- [Show HN: Gort is a chatbot framework designed for chatops (MVP)](https://github.com/getgort/gort)
-- [The Muse (YC W12) Is Hiring a Senior Site Reliability Contractor](https://news.ycombinator.com/item?id=27881623)
+- [Black 3.0 – The blackest black acrylic paint](https://culturehustle.com/products/black-3-0-the-worlds-blackest-black-acrylic-paint-150ml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
