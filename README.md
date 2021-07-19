@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Julia Computing Raises $24M Series A](https://www.hpcwire.com/off-the-wire/julia-computing-raises-24m-series-a-former-snowflake-ceo-bob-muglia-joins-board/)
-- [iMessage, Apple Music used by NSO Pegasus to attack journalist iPhones](https://appleinsider.com/articles/21/07/19/imessage-apple-music-used-by-pegasus-to-attack-journalist-iphones)
-- [Key Modi rival Rahul Gandhi among potential Indian targets of NSO](https://www.theguardian.com/news/2021/jul/19/key-modi-rival-rahul-gandhi-among-indian-targets-of-nso-client)
-- [Amazon Shuts Down NSO Group Infrastructure](https://www.vice.com/en/article/xgx5bw/amazon-aws-shuts-down-nso-group-infrastructure)
-- [Black 3.0 – The blackest black acrylic paint](https://culturehustle.com/products/black-3-0-the-worlds-blackest-black-acrylic-paint-150ml)
+- [NASA Returns Hubble Space Telescope to Science Operations](https://www.nasa.gov/feature/goddard/2021/operations-underway-to-restore-payload-computer-on-nasas-hubble-space-telescope)
+- [Show HN: Brython is an implementation of Python 3 running in the browser](https://github.com/brython-dev/brython)
+- [New Shape Opens ‘Wormhole’ Between Numbers and Geometry](https://www.quantamagazine.org/with-a-new-shape-mathematicians-link-geometry-and-numbers-20210719/)
+- [Thread Pools on the JVM](https://gist.github.com/djspiewak/46b543800958cf61af6efa8e072bfd5c)
+- [Nvidia Shield TV Owners Are Pissed About the Banner Ads in Android TV](https://gizmodo.com/nvidia-shield-tv-owners-are-pissed-about-the-banner-ads-1847185249)
 <!-- BLOG-POST-LIST:END -->
 
 ---
