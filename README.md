@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Letsencrypt Service Disruption](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/60f5b56d1c82f805369a7d98)
+- [Galaxy Upcycling: How Samsung Ruined Their Best Idea in Years](https://www.ifixit.com/News/50450/samsung-galaxy-upcycling-unlocked-smartphone-smarthome-project)
+- [Math Problems for children from 5 to 15 (2004) [pdf]](https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf)
 - [Sirum (YC W15) Is Hiring a Staff Software Engineer](https://news.ycombinator.com/item?id=27884866)
 - [Time to assume that health research is fraudulent until proven otherwise?](https://blogs.bmj.com/bmj/2021/07/05/time-to-assume-that-health-research-is-fraudulent-until-proved-otherwise/)
-- [NASA Returns Hubble Space Telescope to Science Operations](https://www.nasa.gov/feature/goddard/2021/operations-underway-to-restore-payload-computer-on-nasas-hubble-space-telescope)
-- [Show HN: Brython is an implementation of Python 3 running in the browser](https://github.com/brython-dev/brython)
-- [New Shape Opens ‘Wormhole’ Between Numbers and Geometry](https://www.quantamagazine.org/with-a-new-shape-mathematicians-link-geometry-and-numbers-20210719/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
