@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [T-10 to Blue Origin flight](https://www.blueorigin.com/)
+- [Launch HN: Bedrock AI (YC S21) – Using ML to identify red flags in SEC filings](https://news.ycombinator.com/item?id=27893182)
+- [GlobalFoundries to Spend Billions: Doubling Fab 8, Creating New Fab in NY](https://www.anandtech.com/show/16833/globalfoundries-to-spend-billions-doubling-fab-8-creating-new-fab-in-ny)
+- [China unveils 600 kph maglev train](https://www.reuters.com/world/china/china-unveils-600-kph-maglev-train-state-media-2021-07-20/)
 - [Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React)](https://www.notion.so/useavenue/Software-Engineer-Avenue-d68ff1ec6b064380b3afa85d5d1b3276)
-- [Ten Papers Every Developer Should Read At Least Twice](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
-- [EvilModel: Hiding Malware Inside of Neural Network Models [pdf]](https://arxiv.org/abs/2107.08590)
-- [KDE Plasma Mobile 21.07](https://www.plasma-mobile.org/2021/07/20/plasma-mobile-gear-21-07/)
-- [Ask HN: Webdev with poor/deteriorating vision. What can I pivot into?](https://news.ycombinator.com/item?id=27891903)
 <!-- BLOG-POST-LIST:END -->
 
 ---
