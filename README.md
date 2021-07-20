@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [T-10 to Blue Origin flight](https://www.blueorigin.com/)
-- [Launch HN: Bedrock AI (YC S21) – Using ML to identify red flags in SEC filings](https://news.ycombinator.com/item?id=27893182)
-- [GlobalFoundries to Spend Billions: Doubling Fab 8, Creating New Fab in NY](https://www.anandtech.com/show/16833/globalfoundries-to-spend-billions-doubling-fab-8-creating-new-fab-in-ny)
-- [China unveils 600 kph maglev train](https://www.reuters.com/world/china/china-unveils-600-kph-maglev-train-state-media-2021-07-20/)
-- [Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React)](https://www.notion.so/useavenue/Software-Engineer-Avenue-d68ff1ec6b064380b3afa85d5d1b3276)
+- [No, we don’t use Kubernetes](https://ably.com/blog/no-we-dont-use-kubernetes)
+- [Show HN: Sioyek – PDF viewer for reading research papers and technical documents](https://sioyek.info/)
+- [Baltimore Museum of Art will host an exhibition curated by the museum's guards](https://artbma.org/about/press/release/bma-security-officers-take-center-stage-as-guest-curators-of-a-new-exhibition-opening-in-march-2022)
+- [Square Banking](https://squareup.com/us/en/banking)
+- [NYT gives 'water witches' the both-sides treatment](https://thewhyaxis.substack.com/p/nyt-gives-water-witches-the-both)
 <!-- BLOG-POST-LIST:END -->
 
 ---
