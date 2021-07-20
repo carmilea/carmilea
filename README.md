@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Publicly Available Standards](https://standards.iso.org/ittf/PubliclyAvailableStandards/)
 - [SafeButler (YC S17) Is Hiring a Digital Marketing Associate](https://www.safebutler.com/careers)
-- [Austrian OGH asks CJEU if Facebook “undermines” GDPR since 2018](https://noyb.eu/en/breaking-austrian-ogh-asks-cjeu-if-facebook-undermines-gdpr-2018)
-- [Megaverse: Simulating Embodied Agents at One Million Experiences per Second](https://www.megaverse.info/)
-- [Toyota to Launch All-New Aqua (Prius C) with new bipolar nickel-hydrogen battery](https://global.toyota/en/newsroom/toyota/35584064.html)
-- [Is GitHub Copilot a blessing, or a curse?](https://www.fast.ai/2021/07/19/copilot/)
+- [My Mindfulness Practice Led Me to Meltdown](https://danlawton.substack.com/p/when-buddhism-goes-bad)
+- [Hungarian journalists and critics of Orbán were targeted with Pegasus](https://telex.hu/direkt36/2021/07/19/pegasus-nso-hungary-viktor-orban-cyberweapon)
+- [The little tech firm gunning for an airspeed record](https://www.bbc.co.uk/news/business-57747128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
