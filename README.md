@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite is 35% Faster Than The Filesystem](https://www.sqlite.org/fasterthanfs.html)
+- [A case against security nihilism](https://blog.cryptographyengineering.com/2021/07/20/a-case-against-security-nihilism/)
+- [EU plans to make Bitcoin transfers more traceable](https://www.bbc.com/news/technology-57901113)
 - [Show HN: Headless Recorder v1.0, get Playwright/Puppeteer scripts without coding](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda)
-- [Ask HN: How do you track comment threads in HN?](https://news.ycombinator.com/item?id=27897211)
 - [The Untamed Rise of Hospital Monopolies](https://www.npr.org/sections/money/2021/07/20/1017631111/the-untamed-rise-of-hospital-monopolies)
-- [Stopping FTP support in Firefox 90](https://blog.mozilla.org/security/2021/07/20/stopping-ftp-support-in-firefox-90/)
+- [Our lawsuit against ChessBase](https://stockfishchess.org/blog/2021/our-lawsuit-against-chessbase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
