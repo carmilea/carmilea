@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The German Experiment That Placed Foster Children with Pedophiles](https://www.newyorker.com/magazine/2021/07/26/the-german-experiment-that-placed-foster-children-with-pedophiles)
+- [CBL-Mariner – Linux OS for Azure 1P services and edge appliances](https://github.com/microsoft/CBL-Mariner)
 - [Amazon.com's Conditions of Use – Disputes now resolved by the courts](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM)
 - [Excuse Me… Some Digital Preservation Fallacies? (2006)](http://www.ariadne.ac.uk/issue/46/rusbridge/)
 - [What’s it like hauling nuclear weapons across the country?](https://www.freightwaves.com/news/whats-it-like-hauling-nuclear-weapons-across-the-country)
-- [The antimicrobial potential of cannabidiol](https://www.nature.com/articles/s42003-020-01530-y)
-- [Don’t Wanna Pay Ransom Gangs? Test Your Backups](https://krebsonsecurity.com/2021/07/dont-wanna-pay-ransom-gangs-test-your-backups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
