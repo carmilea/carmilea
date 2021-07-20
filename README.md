@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia: A deep root in Linux's filesystem layer (CVE-2021-33909)](https://www.qualys.com/2021/07/20/cve-2021-33909/sequoia-local-privilege-escalation-linux.txt)
+- [Astronomers push for global debate on giant satellite swarms](https://www.nature.com/articles/d41586-021-01954-4)
+- [GPU Architecture Types Explained](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
 - [No, we don’t use Kubernetes](https://ably.com/blog/no-we-dont-use-kubernetes)
 - [Show HN: Sioyek – PDF viewer for reading research papers and technical documents](https://sioyek.info/)
-- [Baltimore Museum of Art will host an exhibition curated by the museum's guards](https://artbma.org/about/press/release/bma-security-officers-take-center-stage-as-guest-curators-of-a-new-exhibition-opening-in-march-2022)
-- [Square Banking](https://squareup.com/us/en/banking)
-- [NYT gives 'water witches' the both-sides treatment](https://thewhyaxis.substack.com/p/nyt-gives-water-witches-the-both)
 <!-- BLOG-POST-LIST:END -->
 
 ---
