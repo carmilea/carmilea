@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe Joins Blender Development Fund](https://www.blender.org/press/adobe-joins-blender-development-fund/)
+- [GiveCampus (YC S15) Is Hiring US remote Sr engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Clojure builds as an amalgamation of orthogonal parts](http://blog.fogus.me/2021/07/20/clojure-builds-as-an-amalgamation-of-orthogonal-parts/)
 - [Sequoia: A deep root in Linux's filesystem layer (CVE-2021-33909)](https://www.qualys.com/2021/07/20/cve-2021-33909/sequoia-local-privilege-escalation-linux.txt)
 - [How Bell’s Theorem Proved ‘Spooky Action at a Distance’ Is Real](https://www.quantamagazine.org/how-bells-theorem-proved-spooky-action-at-a-distance-is-real-20210720/)
 - [Astronomers push for global debate on giant satellite swarms](https://www.nature.com/articles/d41586-021-01954-4)
-- [GPU Architecture Types Explained](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
