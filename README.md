@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Megaverse: Simulating Embodied Agents at One Million Experiences per Second](https://www.megaverse.info/)
+- [Toyota to Launch All-New Aqua (Prius C) with new bipolar nickel-hydrogen battery](https://global.toyota/en/newsroom/toyota/35584064.html)
 - [Is GitHub Copilot a blessing, or a curse?](https://www.fast.ai/2021/07/19/copilot/)
-- [CBL-Mariner – Linux OS for Azure 1P services and edge appliances](https://github.com/microsoft/CBL-Mariner)
-- [Amazon.com's Conditions of Use – Disputes now resolved by the courts](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM)
-- [Excuse Me… Some Digital Preservation Fallacies? (2006)](http://www.ariadne.ac.uk/issue/46/rusbridge/)
-- [What’s it like hauling nuclear weapons across the country?](https://www.freightwaves.com/news/whats-it-like-hauling-nuclear-weapons-across-the-country)
+- [DIY Raspberry Pi 4 mini server includes UPS and OLED information display](https://www.cnx-software.com/2021/07/13/diy-raspberry-pi-4-mini-server-includes-ups-and-oled-information-display/)
+- [Under the skin of OnlyFans](https://www.bbc.com/news/uk-57269939)
 <!-- BLOG-POST-LIST:END -->
 
 ---
