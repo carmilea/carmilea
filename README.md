@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AgileMD (YC S11) Is Hiring an Engineering Manager](https://www.ycombinator.com/companies/agilemd/jobs/iF08Jgy-software-engineering-manager-platform-and-applications)
+- [Forem Self-Host](https://forem.dev/foremteam/introducing-forem-self-host-246k)
+- [MAPS Celebrates California Senate Passage of Psychedelic Reform Bill](https://maps.org/news/media/9270-maps-celebrates-california-senate-passage-of-groundbreaking-psychedelic-reform-bill)
+- [Reverse-Engineering the Mali G78](https://www.collabora.com/news-and-blog/news-and-events/reverse-engineering-the-mali-g78.html)
 - [A case against security nihilism](https://blog.cryptographyengineering.com/2021/07/20/a-case-against-security-nihilism/)
-- [EU plans to make Bitcoin transfers more traceable](https://www.bbc.com/news/technology-57901113)
-- [Show HN: Headless Recorder v1.0, get Playwright/Puppeteer scripts without coding](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda)
-- [The Untamed Rise of Hospital Monopolies](https://www.npr.org/sections/money/2021/07/20/1017631111/the-untamed-rise-of-hospital-monopolies)
-- [Our lawsuit against ChessBase](https://stockfishchess.org/blog/2021/our-lawsuit-against-chessbase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
