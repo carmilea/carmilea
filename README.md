@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AgileMD (YC S11) Is Hiring an Engineering Manager](https://www.ycombinator.com/companies/agilemd/jobs/iF08Jgy-software-engineering-manager-platform-and-applications)
+- [Emmanuel Macron identified in leaked Pegasus project data](https://www.theguardian.com/world/2021/jul/20/emmanuel-macron-identified-in-leaked-pegasus-project-data)
 - [Forem Self-Host](https://forem.dev/foremteam/introducing-forem-self-host-246k)
+- [Improving our UI testing at SingleStore](https://www.singlestore.com/blog/improving-our-ui-testing-at-singlestore)
 - [MAPS Celebrates California Senate Passage of Psychedelic Reform Bill](https://maps.org/news/media/9270-maps-celebrates-california-senate-passage-of-groundbreaking-psychedelic-reform-bill)
-- [Reverse-Engineering the Mali G78](https://www.collabora.com/news-and-blog/news-and-events/reverse-engineering-the-mali-g78.html)
-- [A case against security nihilism](https://blog.cryptographyengineering.com/2021/07/20/a-case-against-security-nihilism/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
