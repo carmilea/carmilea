@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Publicly Available Standards](https://standards.iso.org/ittf/PubliclyAvailableStandards/)
 - [SafeButler (YC S17) Is Hiring a Digital Marketing Associate](https://www.safebutler.com/careers)
-- [My Mindfulness Practice Led Me to Meltdown](https://danlawton.substack.com/p/when-buddhism-goes-bad)
 - [Hungarian journalists and critics of Orbán were targeted with Pegasus](https://telex.hu/direkt36/2021/07/19/pegasus-nso-hungary-viktor-orban-cyberweapon)
 - [The little tech firm gunning for an airspeed record](https://www.bbc.co.uk/news/business-57747128)
+- [Tesla’s ‘Full Self-Driving’ Beta Software Used on Public Roads Lacks Safeguards](https://www.consumerreports.org/car-safety/tesla-full-self-driving-beta-software-lacks-safeguards-a6698414036/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
