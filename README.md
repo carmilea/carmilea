@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gitlab: Support for team members who are mistreated in their country](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/84922/diffs)
 - [AgileMD (YC S11) Is Hiring an Engineering Manager](https://www.ycombinator.com/companies/agilemd/jobs/iF08Jgy-software-engineering-manager-platform-and-applications)
 - [Emmanuel Macron identified in leaked Pegasus project data](https://www.theguardian.com/world/2021/jul/20/emmanuel-macron-identified-in-leaked-pegasus-project-data)
+- [We’re All Teenage Girls Now](https://www.eetimes.com/were-all-teenage-girls-now/)
 - [Forem Self-Host](https://forem.dev/foremteam/introducing-forem-self-host-246k)
-- [Improving our UI testing at SingleStore](https://www.singlestore.com/blog/improving-our-ui-testing-at-singlestore)
-- [MAPS Celebrates California Senate Passage of Psychedelic Reform Bill](https://maps.org/news/media/9270-maps-celebrates-california-senate-passage-of-groundbreaking-psychedelic-reform-bill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
