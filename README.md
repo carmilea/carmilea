@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ten Papers Every Developer Should Read At Least Twice](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
+- [KDE Plasma Mobile 21.07](https://www.plasma-mobile.org/2021/07/20/plasma-mobile-gear-21-07/)
+- [Ask HN: Webdev with poor/deteriorating vision. What can I pivot into?](https://news.ycombinator.com/item?id=27891903)
 - [AlphaFold 2 is here: what’s behind the structure prediction miracle](https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/)
 - [Why the Internet Needs IPFS Before It's Too Late (2015)](https://techcrunch.com/2015/10/04/why-the-internet-needs-ipfs-before-its-too-late/)
-- [Billionaires-in-space critics are 'largely right', Bezos concedes](https://edition.cnn.com/2021/07/19/media/jeff-bezos-space-reliable-sources/index.html)
-- [I ****Ing Hate Science](https://buttondown.email/hillelwayne/archive/i-ing-hate-science/)
-- [“Head of Strategy” of Muse Group (Muse Score, Audacity)Threaten Developer](https://web.archive.org/web/20210719115639if_/https://github.com/Xmader/musescore-downloader/issues/5#issuecomment-882450335)
 <!-- BLOG-POST-LIST:END -->
 
 ---
