@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s it like hauling nuclear weapons across the country?](https://www.freightwaves.com/news/whats-it-like-hauling-nuclear-weapons-across-the-country)
+- [Excuse Me… Some Digital Preservation Fallacies? (2006)](http://www.ariadne.ac.uk/issue/46/rusbridge/)
+- [Optimal Stopping Methodology for the Secretary Problem with Random Queries](https://arxiv.org/abs/2107.07513)
+- [On Leaving California and the Silicon Valley](https://bartwronski.com/2021/06/28/on-leaving-california-and-the-silicon-valley/)
+- [The Antimicrobial Potential of Cannabidiol](https://www.nature.com/articles/s42003-020-01530-y)
 - [Don’t Wanna Pay Ransom Gangs? Test Your Backups](https://krebsonsecurity.com/2021/07/dont-wanna-pay-ransom-gangs-test-your-backups/)
-- [Draftbit (YC W18) Is Hiring Senior Engineers (Reason, React Native, GraphQL)](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
-- [Using Prolog for Sudoku Variants](http://dstrohmaier.com/sudoku-prolog/)
-- [C++ Dev Ecosystem 2021](https://www.jetbrains.com/lp/devecosystem-2021/cpp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
