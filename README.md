@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SafeButler (YC S17) Is Hiring a Digital Marketing Associate](https://www.safebutler.com/careers)
+- [Austrian OGH asks CJEU if Facebook “undermines” GDPR since 2018](https://noyb.eu/en/breaking-austrian-ogh-asks-cjeu-if-facebook-undermines-gdpr-2018)
 - [Megaverse: Simulating Embodied Agents at One Million Experiences per Second](https://www.megaverse.info/)
 - [Toyota to Launch All-New Aqua (Prius C) with new bipolar nickel-hydrogen battery](https://global.toyota/en/newsroom/toyota/35584064.html)
 - [Is GitHub Copilot a blessing, or a curse?](https://www.fast.ai/2021/07/19/copilot/)
-- [DIY Raspberry Pi 4 mini server includes UPS and OLED information display](https://www.cnx-software.com/2021/07/13/diy-raspberry-pi-4-mini-server-includes-ups-and-oled-information-display/)
-- [Under the skin of OnlyFans](https://www.bbc.com/news/uk-57269939)
 <!-- BLOG-POST-LIST:END -->
 
 ---
