@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon.com's Conditions of Use – Disputes now resolved by the courts](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM)
 - [Excuse Me… Some Digital Preservation Fallacies? (2006)](http://www.ariadne.ac.uk/issue/46/rusbridge/)
-- [Optimal Stopping Methodology for the Secretary Problem with Random Queries](https://arxiv.org/abs/2107.07513)
-- [On Leaving California and the Silicon Valley](https://bartwronski.com/2021/06/28/on-leaving-california-and-the-silicon-valley/)
-- [The Antimicrobial Potential of Cannabidiol](https://www.nature.com/articles/s42003-020-01530-y)
+- [What’s it like hauling nuclear weapons across the country?](https://www.freightwaves.com/news/whats-it-like-hauling-nuclear-weapons-across-the-country)
+- [The antimicrobial potential of cannabidiol](https://www.nature.com/articles/s42003-020-01530-y)
 - [Don’t Wanna Pay Ransom Gangs? Test Your Backups](https://krebsonsecurity.com/2021/07/dont-wanna-pay-ransom-gangs-test-your-backups/)
 <!-- BLOG-POST-LIST:END -->
 
