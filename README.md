@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React)](https://www.notion.so/useavenue/Software-Engineer-Avenue-d68ff1ec6b064380b3afa85d5d1b3276)
 - [Ten Papers Every Developer Should Read At Least Twice](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
+- [EvilModel: Hiding Malware Inside of Neural Network Models [pdf]](https://arxiv.org/abs/2107.08590)
 - [KDE Plasma Mobile 21.07](https://www.plasma-mobile.org/2021/07/20/plasma-mobile-gear-21-07/)
 - [Ask HN: Webdev with poor/deteriorating vision. What can I pivot into?](https://news.ycombinator.com/item?id=27891903)
-- [AlphaFold 2 is here: what’s behind the structure prediction miracle](https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/)
-- [Why the Internet Needs IPFS Before It's Too Late (2015)](https://techcrunch.com/2015/10/04/why-the-internet-needs-ipfs-before-its-too-late/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
