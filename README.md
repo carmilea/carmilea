@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Publicly Available Standards](https://standards.iso.org/ittf/PubliclyAvailableStandards/)
-- [SafeButler (YC S17) Is Hiring a Digital Marketing Associate](https://www.safebutler.com/careers)
-- [Hungarian journalists and critics of Orbán were targeted with Pegasus](https://telex.hu/direkt36/2021/07/19/pegasus-nso-hungary-viktor-orban-cyberweapon)
-- [The little tech firm gunning for an airspeed record](https://www.bbc.co.uk/news/business-57747128)
-- [Tesla’s ‘Full Self-Driving’ Beta Software Used on Public Roads Lacks Safeguards](https://www.consumerreports.org/car-safety/tesla-full-self-driving-beta-software-lacks-safeguards-a6698414036/)
+- [AlphaFold 2 is here: what’s behind the structure prediction miracle](https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/)
+- [Why the Internet Needs IPFS Before It's Too Late (2015)](https://techcrunch.com/2015/10/04/why-the-internet-needs-ipfs-before-its-too-late/)
+- [Billionaires-in-space critics are 'largely right', Bezos concedes](https://edition.cnn.com/2021/07/19/media/jeff-bezos-space-reliable-sources/index.html)
+- [I ****Ing Hate Science](https://buttondown.email/hillelwayne/archive/i-ing-hate-science/)
+- [“Head of Strategy” of Muse Group (Muse Score, Audacity)Threaten Developer](https://web.archive.org/web/20210719115639if_/https://github.com/Xmader/musescore-downloader/issues/5#issuecomment-882450335)
 <!-- BLOG-POST-LIST:END -->
 
 ---
