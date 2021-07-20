@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLite is 35% Faster Than The Filesystem](https://www.sqlite.org/fasterthanfs.html)
+- [Show HN: Headless Recorder v1.0, get Playwright/Puppeteer scripts without coding](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda)
+- [Ask HN: How do you track comment threads in HN?](https://news.ycombinator.com/item?id=27897211)
+- [The Untamed Rise of Hospital Monopolies](https://www.npr.org/sections/money/2021/07/20/1017631111/the-untamed-rise-of-hospital-monopolies)
 - [Stopping FTP support in Firefox 90](https://blog.mozilla.org/security/2021/07/20/stopping-ftp-support-in-firefox-90/)
-- [Our lawsuit against ChessBase – Stockfish – open-source Chess Engine](https://stockfishchess.org/blog/2021/our-lawsuit-against-chessbase/)
-- [GiveCampus (YC S15) Is Hiring US remote Sr engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [Solid Objects: 16th-Century Geometric and Perspective Drawings](https://publicdomainreview.org/collection/solid-objects)
-- [DNA ‘Borg’ structures perplex scientists](https://www.nature.com/articles/d41586-021-01947-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
