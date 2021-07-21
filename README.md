@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany's national healthcare system adopts Matrix for communication](https://matrix.org/blog/2021/07/21/germanys-national-healthcare-system-adopts-matrix)
-- [Show HN: Digger.dev – A PaaS that generates Terraform, in your AWS account](https://diggerdev.com)
-- [Salesforce Completes Acquisition of Slack](https://slack.com/intl/en-es/blog/news/salesforce-completes-acquisition-of-slack)
-- [Caffeine and theanine have opposed effect on attention when aroused (2017)](https://pubmed.ncbi.nlm.nih.gov/28044450/)
-- [Tesla plans to open its charging network to other EVs later this year](https://www.reuters.com/business/autos-transportation/tesla-plans-open-up-its-charging-network-other-evs-later-this-year-2021-07-20/)
+- [Cargo cult programming (2020)](https://blog.bitgloss.ro/2020/08/cargo-cult-programming/)
+- [Planning and estimating large-scale software projects](https://tomrussell.co.uk/writing/2021/07/19/estimating-large-scale-software-projects.html)
+- [Launch HN: Epsilon3 (YC S21) – Software for spacecraft and complex operations](https://news.ycombinator.com/item?id=27906787)
+- [Namedtuple in a Post-Dataclasses World](https://death.andgravity.com/namedtuples)
+- [I built my first serverless robot and won $1000](https://towardsdev.com/how-i-built-my-first-serverless-robot-and-won-200-87127a0b108c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
