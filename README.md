@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pegasus Project found numbers of Ten PMs, three presidents and a king](https://www.washingtonpost.com/world/2021/07/20/heads-of-state-pegasus-spyware/)
-- [Covid-19: India excess deaths cross four million, says study](https://www.bbc.co.uk/news/world-asia-india-57888460)
-- [Vulkan Memory Allocator](https://gpuopen.com/vulkan-memory-allocator/)
-- [Fat Fritz is not the Only Ripoff and now ChessBase is Getting Sued](https://lichess.org/blog/YPc7GREAACgAevs5/fat-fritz-is-not-the-only-ripoff-and-now-chessbase-is-getting-sued)
-- [Nepalese dev learned front end without access to a PC](https://twitter.com/_JonathanClarke/status/1417450383773888517)
+- [Liverpool stripped of UNESCO World Heritage status](https://www.bbc.co.uk/news/uk-england-merseyside-57879475)
+- [Pine64's $30 Linux Smartwatch Launches](https://www.pcmag.com/news/pine64s-30-linux-smartwatch-launches)
+- [Silicon Valley’s Cynical Treatment of Asian Engineers](https://quillette.com/2021/07/21/silicon-valleys-cynical-treatment-of-asian-engineers/)
+- [Spanish police seize large drone used to carry drugs from Morocco](https://english.elpais.com/spain/2021-07-15/spanish-police-seize-large-drone-used-to-carry-drugs-from-morocco.html)
+- [Show HN: Neverinstall – The fastest way to run your desktop apps](https://neverinstall.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
