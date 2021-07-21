@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NSO Group Hacked](https://www.schneier.com/blog/archives/2021/07/nso-group-hacked.html)
+- [Good Riddance, TurboTax. Americans Need a Real ‘Free File’ Program](https://www.nytimes.com/2021/07/19/opinion/intuit-turbotax-free-filing.html)
 - [A surprisingly common error users make when installing Brew](https://github.com/withfig/fig/discussions/300)
 - [Julia's multiple dispatch explained with Pokemons](https://www.moll.dev/projects/effective-multi-dispatch/)
 - [Man dies of a heart attack after minors swatted him over his rare Twitter handle](https://www.techspot.com/news/90483-grandfather-died-heart-attack-after-minors-swatted-over.html)
-- [Support for team members who are mistreated in their country](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/84922/diffs)
-- [AgileMD (YC S11) Is Hiring an Engineering Manager](https://www.ycombinator.com/companies/agilemd/jobs/iF08Jgy-software-engineering-manager-platform-and-applications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
