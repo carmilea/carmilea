@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brave Browser adds its own referral codes to some cryptocurrency trading sites](https://www.androidpolice.com/2020/06/07/brave-browser-caught-adding-its-own-referral-codes-to-some-cryptcurrency-trading-sites/)
+- [Vulkan Memory Allocator](https://gpuopen.com/vulkan-memory-allocator/)
+- [Fat Fritz is not the Only Ripoff and now ChessBase is Getting Sued](https://lichess.org/blog/YPc7GREAACgAevs5/fat-fritz-is-not-the-only-ripoff-and-now-chessbase-is-getting-sued)
+- [Nepalese dev learned front end without access to a PC](https://twitter.com/_JonathanClarke/status/1417450383773888517)
 - [Crystal 1.1.0](https://crystal-lang.org/2021/07/16/1.1.0-released.html)
 - [A monorepo misconception – atomic cross-project commits](https://www.snellman.net/blog/archive/2021-07-21-monorepo-atomic/)
-- [Penny hoarders hope for the day the penny dies (2014)](https://www.npr.org/2014/05/21/314607045/penny-hoarders-hope-for-the-day-the-penny-dies?t=1626851547618)
-- [Twike](https://en.wikipedia.org/wiki/Twike)
 <!-- BLOG-POST-LIST:END -->
 
 ---
