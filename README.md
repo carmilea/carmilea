@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twike](https://en.wikipedia.org/wiki/Twike)
+- [New Aspects Related to Plant Processing Revealed at Çatalhöyük](https://archaeologynewsnetwork.blogspot.com/2021/07/new-aspects-related-to-plant-processing.html)
 - [NSO Group Hacked](https://www.schneier.com/blog/archives/2021/07/nso-group-hacked.html)
 - [Good Riddance, TurboTax. Americans Need a Real ‘Free File’ Program](https://www.nytimes.com/2021/07/19/opinion/intuit-turbotax-free-filing.html)
 - [A surprisingly common error users make when installing Brew](https://github.com/withfig/fig/discussions/300)
-- [Julia's multiple dispatch explained with Pokemons](https://www.moll.dev/projects/effective-multi-dispatch/)
-- [Man dies of a heart attack after minors swatted him over his rare Twitter handle](https://www.techspot.com/news/90483-grandfather-died-heart-attack-after-minors-swatted-over.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
