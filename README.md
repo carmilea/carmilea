@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brave Browser adds its own referral codes to some cryptocurrency trading sites](https://www.androidpolice.com/2020/06/07/brave-browser-caught-adding-its-own-referral-codes-to-some-cryptcurrency-trading-sites/)
+- [Crystal 1.1.0](https://crystal-lang.org/2021/07/16/1.1.0-released.html)
+- [A monorepo misconception – atomic cross-project commits](https://www.snellman.net/blog/archive/2021-07-21-monorepo-atomic/)
+- [Penny hoarders hope for the day the penny dies (2014)](https://www.npr.org/2014/05/21/314607045/penny-hoarders-hope-for-the-day-the-penny-dies?t=1626851547618)
 - [Twike](https://en.wikipedia.org/wiki/Twike)
-- [New Aspects Related to Plant Processing Revealed at Çatalhöyük](https://archaeologynewsnetwork.blogspot.com/2021/07/new-aspects-related-to-plant-processing.html)
-- [NSO Group Hacked](https://www.schneier.com/blog/archives/2021/07/nso-group-hacked.html)
-- [Good Riddance, TurboTax. Americans Need a Real ‘Free File’ Program](https://www.nytimes.com/2021/07/19/opinion/intuit-turbotax-free-filing.html)
-- [A surprisingly common error users make when installing Brew](https://github.com/withfig/fig/discussions/300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
