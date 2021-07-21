@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the IBM PC Won, Then Lost, the Personal Computer Market](https://spectrum.ieee.org/tech-history/silicon-revolution/how-the-ibm-pc-won-then-lost-the-personal-computer-market)
+- [Dover (YC S19) just raised $20m and is hiring our first Engineering Manager](https://www.dover.com/open-roles/engineering-manager)
+- [Why aren't there more programming-language startups?](https://www.akitasoftware.com/blog-posts/why-arent-there-more-programming-languages-startups)
 - [Lost world revealed by human, Neanderthal relics washed up on North Sea beaches](https://www.sciencemag.org/news/2020/01/relics-washed-beaches-reveal-lost-world-beneath-north-sea)
-- [Reddit (YC S05) Is Hiring a Head of Developer Platform](https://boards.greenhouse.io/reddit/jobs/3319091)
 - [Habits, UI changes, and OS stagnation](https://morrick.me/archives/9407)
-- [A Twitter thread sparked a lawsuit against Nieman Lab’s founder](https://www.cjr.org/opinion/nieman-lab-lawsuit-joshua-benton-francesca-viola.php)
-- [Bezos donates $100M each to CNN contributor Van Jones and chef Jose Andres](https://www.cnn.com/2021/07/20/media/van-jones-bezos-100-million/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
