@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Aren't There More Programming Languages Startups?](https://www.akitasoftware.com/blog-posts/why-arent-there-more-programming-languages-startups)
+- [Lost world revealed by human, Neanderthal relics washed up on North Sea beaches](https://www.sciencemag.org/news/2020/01/relics-washed-beaches-reveal-lost-world-beneath-north-sea)
+- [Uber and Lyft drivers are on strike today. What riders need to know](https://www.latimes.com/business/story/2021-07-21/uber-lyft-drivers-strike-wednesday-july-21-rider-information)
+- [NSO group say enough is enough](https://www.nsogroup.com/Newses/enough-is-enough/)
 - [Reddit (YC S05) Is Hiring a Head of Developer Platform](https://boards.greenhouse.io/reddit/jobs/3319091)
-- [The Colorado River is shrinking. Hard choices lie ahead, this scientist warns](https://www.sciencemag.org/news/2021/07/colorado-river-shrinking-hard-choices-lie-ahead-scientist-warns)
-- [Yet another background music for developer, if you missed working at cafe](https://sudo.fm)
-- [Nancy Pelosi’s stock options made incredible returns](https://unusualwhales.com/i_am_the_senate/pelosi)
-- [MongoDB Wire Protocol Specification License](https://github.com/mongodb/docs/commit/50e48200cde7e2eaffdc6b726a9cdf2659f0e073)
 <!-- BLOG-POST-LIST:END -->
 
 ---
