@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pegasus Project found numbers of Ten PMs, three presidents and a king](https://www.washingtonpost.com/world/2021/07/20/heads-of-state-pegasus-spyware/)
+- [Covid-19: India excess deaths cross four million, says study](https://www.bbc.co.uk/news/world-asia-india-57888460)
 - [Vulkan Memory Allocator](https://gpuopen.com/vulkan-memory-allocator/)
 - [Fat Fritz is not the Only Ripoff and now ChessBase is Getting Sued](https://lichess.org/blog/YPc7GREAACgAevs5/fat-fritz-is-not-the-only-ripoff-and-now-chessbase-is-getting-sued)
 - [Nepalese dev learned front end without access to a PC](https://twitter.com/_JonathanClarke/status/1417450383773888517)
-- [Crystal 1.1.0](https://crystal-lang.org/2021/07/16/1.1.0-released.html)
-- [A monorepo misconception – atomic cross-project commits](https://www.snellman.net/blog/archive/2021-07-21-monorepo-atomic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
