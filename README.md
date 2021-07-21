@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How are salaries for senior devs in Berlin at the moment?](https://news.ycombinator.com/item?id=27912487)
+- [Airbnb raises violent crime rates in cities as residents are pushed out](https://www.euronews.com/next/2021/07/15/airbnb-raises-violent-crime-rates-in-cities-as-long-term-residents-are-pushed-out-says-us-)
 - [How the IBM PC Won, Then Lost, the Personal Computer Market](https://spectrum.ieee.org/tech-history/silicon-revolution/how-the-ibm-pc-won-then-lost-the-personal-computer-market)
 - [Dover (YC S19) just raised $20m and is hiring our first Engineering Manager](https://www.dover.com/open-roles/engineering-manager)
-- [Why aren't there more programming-language startups?](https://www.akitasoftware.com/blog-posts/why-arent-there-more-programming-languages-startups)
-- [Lost world revealed by human, Neanderthal relics washed up on North Sea beaches](https://www.sciencemag.org/news/2020/01/relics-washed-beaches-reveal-lost-world-beneath-north-sea)
-- [Habits, UI changes, and OS stagnation](https://morrick.me/archives/9407)
+- [Phone Numbers Must Die (2019)](https://www.devever.net/~hl/e164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
