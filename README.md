@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany's national healthcare system adopts Matrix for communication](https://matrix.org/blog/2021/07/21/germanys-national-healthcare-system-adopts-matrix)
+- [Show HN: Digger.dev – A PaaS that generates Terraform, in your AWS account](https://diggerdev.com)
+- [Salesforce Completes Acquisition of Slack](https://slack.com/intl/en-es/blog/news/salesforce-completes-acquisition-of-slack)
+- [Caffeine and theanine have opposed effect on attention when aroused (2017)](https://pubmed.ncbi.nlm.nih.gov/28044450/)
 - [Tesla plans to open its charging network to other EVs later this year](https://www.reuters.com/business/autos-transportation/tesla-plans-open-up-its-charging-network-other-evs-later-this-year-2021-07-20/)
-- [Ask HN: For senior positions is it advisable to list side projects on your cv?](https://news.ycombinator.com/item?id=27905277)
-- [Smarking (YC W15) Is Hiring a Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [A key product of ubiquitous surveillance is people who are comfortable with it](https://reallifemag.com/personal-panopticons/)
-- [Dubai is making its own fake rain to beat 122°F heat](https://www.independent.co.uk/climate-change/news/dubai-fake-rain-heat-b1887596.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
