@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla plans to open its charging network to other EVs later this year](https://www.reuters.com/business/autos-transportation/tesla-plans-open-up-its-charging-network-other-evs-later-this-year-2021-07-20/)
+- [Ask HN: For senior positions is it advisable to list side projects on your cv?](https://news.ycombinator.com/item?id=27905277)
 - [Smarking (YC W15) Is Hiring a Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - [A key product of ubiquitous surveillance is people who are comfortable with it](https://reallifemag.com/personal-panopticons/)
-- [AI and Robots Are a Minefield of Cognitive Biases](https://spectrum.ieee.org/automaton/robotics/robotics-software/humans-cognitive-biases-facing-ai)
-- [Liverpool stripped of UNESCO World Heritage status](https://www.bbc.co.uk/news/uk-england-merseyside-57879475)
-- [AWS Now Allows Customers to Pay for Their Usage in Advance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-allows-customers-pay-their-usage-in-advance/)
+- [Dubai is making its own fake rain to beat 122°F heat](https://www.independent.co.uk/climate-change/news/dubai-fake-rain-heat-b1887596.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
