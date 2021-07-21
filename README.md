@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nancy Pelosi’s stock options made incredible returns](https://unusualwhales.com/i_am_the_senate/pelosi)
+- [A Twitter thread sparked a lawsuit against Nieman Lab’s founder](https://www.cjr.org/opinion/nieman-lab-lawsuit-joshua-benton-francesca-viola.php)
+- [Bezos donates $100M each to CNN contributor Van Jones, chef Jose Andres](https://www.cnn.com/2021/07/20/media/van-jones-bezos-100-million/index.html)
 - [Cargo cult programming (2020)](https://blog.bitgloss.ro/2020/08/cargo-cult-programming/)
 - [Planning and estimating large-scale software projects](https://tomrussell.co.uk/writing/2021/07/19/estimating-large-scale-software-projects.html)
-- [Launch HN: Epsilon3 (YC S21) – Software for spacecraft and complex operations](https://news.ycombinator.com/item?id=27906787)
-- [Namedtuple in a Post-Dataclasses World](https://death.andgravity.com/namedtuples)
-- [I built my first serverless robot and won $1000](https://towardsdev.com/how-i-built-my-first-serverless-robot-and-won-200-87127a0b108c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
