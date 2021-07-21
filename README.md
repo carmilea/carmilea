@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smarking (YC W15) Is Hiring a Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [A key product of ubiquitous surveillance is people who are comfortable with it](https://reallifemag.com/personal-panopticons/)
+- [AI and Robots Are a Minefield of Cognitive Biases](https://spectrum.ieee.org/automaton/robotics/robotics-software/humans-cognitive-biases-facing-ai)
 - [Liverpool stripped of UNESCO World Heritage status](https://www.bbc.co.uk/news/uk-england-merseyside-57879475)
-- [Pine64's $30 Linux Smartwatch Launches](https://www.pcmag.com/news/pine64s-30-linux-smartwatch-launches)
-- [Silicon Valley’s Cynical Treatment of Asian Engineers](https://quillette.com/2021/07/21/silicon-valleys-cynical-treatment-of-asian-engineers/)
-- [Spanish police seize large drone used to carry drugs from Morocco](https://english.elpais.com/spain/2021-07-15/spanish-police-seize-large-drone-used-to-carry-drugs-from-morocco.html)
-- [Show HN: Neverinstall – The fastest way to run your desktop apps](https://neverinstall.com)
+- [AWS Now Allows Customers to Pay for Their Usage in Advance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-allows-customers-pay-their-usage-in-advance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
