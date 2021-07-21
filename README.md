@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Man dies of a heart attack after minors swatted him over his rare Twitter handle](https://www.techspot.com/news/90483-grandfather-died-heart-attack-after-minors-swatted-over.html)
+- [A surprisingly common error users make when installing brew](https://github.com/withfig/fig/discussions/300)
+- [Why Julia's multiple dispatch is so greated explained with Pokemons](https://www.moll.dev/projects/effective-multi-dispatch/)
 - [Gitlab: Support for team members who are mistreated in their country](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/84922/diffs)
 - [AgileMD (YC S11) Is Hiring an Engineering Manager](https://www.ycombinator.com/companies/agilemd/jobs/iF08Jgy-software-engineering-manager-platform-and-applications)
 - [Emmanuel Macron identified in leaked Pegasus project data](https://www.theguardian.com/world/2021/jul/20/emmanuel-macron-identified-in-leaked-pegasus-project-data)
-- [Forem Self-Host](https://forem.dev/foremteam/introducing-forem-self-host-246k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
