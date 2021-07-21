@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit (YC S05) Is Hiring a Head of Developer Platform](https://boards.greenhouse.io/reddit/jobs/3319091)
+- [The Colorado River is shrinking. Hard choices lie ahead, this scientist warns](https://www.sciencemag.org/news/2021/07/colorado-river-shrinking-hard-choices-lie-ahead-scientist-warns)
+- [Yet another background music for developer, if you missed working at cafe](https://sudo.fm)
 - [Nancy Pelosi’s stock options made incredible returns](https://unusualwhales.com/i_am_the_senate/pelosi)
-- [A Twitter thread sparked a lawsuit against Nieman Lab’s founder](https://www.cjr.org/opinion/nieman-lab-lawsuit-joshua-benton-francesca-viola.php)
-- [Bezos donates $100M each to CNN contributor Van Jones, chef Jose Andres](https://www.cnn.com/2021/07/20/media/van-jones-bezos-100-million/index.html)
-- [Cargo cult programming (2020)](https://blog.bitgloss.ro/2020/08/cargo-cult-programming/)
-- [Planning and estimating large-scale software projects](https://tomrussell.co.uk/writing/2021/07/19/estimating-large-scale-software-projects.html)
+- [MongoDB Wire Protocol Specification License](https://github.com/mongodb/docs/commit/50e48200cde7e2eaffdc6b726a9cdf2659f0e073)
 <!-- BLOG-POST-LIST:END -->
 
 ---
