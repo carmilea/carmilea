@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
+- [Even if you’re paying, you’re still the product](https://odysee.com/@CyberLounge:a/even-if-youre-paying-youre-still-the-product:7)
+- [Pegasus spyware seller: Blame our customers not us for hacking](https://www.bbc.com/news/technology-57922664)
+- [Technical Introduction to the Use of Trusted Platform Module 2.0 with Linux [pdf]](https://lenovopress.com/lp0599.pdf)
 - [Raptor Maps (YC S16) Is Hiring Its First Engineering Manager](https://www.ycombinator.com/companies/raptor-maps/jobs/PbVlnB0-engineering-manager)
-- ['Bugs are 100x more expensive to fix in production' study might not even exist](https://www.theregister.com/2021/07/22/bugs_expense_bs/)
-- [Wiser – minimal hypervisor boots Linux VM. Written in C](https://github.com/flouthoc/wiser)
-- [The LaTeX Font Catalogue](https://tug.org/FontCatalogue/)
-- [The Origin of Consciousness in the Breakdown of the Bicameral Mind (1976)](https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind)
 <!-- BLOG-POST-LIST:END -->
 
 ---
