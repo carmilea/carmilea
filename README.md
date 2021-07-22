@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Origin of Consciousness in the Breakdown of the Bicameral Mind](https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind)
-- [FreeBSD Implements Unprivileged Chroot](https://cgit.freebsd.org/src/commit/?id=a40cf4175c90142442d0c6515f6c83956336699b)
-- [Launch HN: Payflow (YC S21) – Allow workers to access their wages instantly](https://news.ycombinator.com/item?id=27916764)
-- [Haiti vs. the Dominican Republic](https://noahpinion.substack.com/p/haiti-vs-the-dominican-republic)
-- [A Chemical Hunger – Part V: Livestock Antibiotics](https://slimemoldtimemold.com/2021/07/20/a-chemical-hunger-part-v-livestock-antibiotics/)
+- [Raptor Maps (YC S16) Is Hiring Its First Engineering Manager](https://www.ycombinator.com/companies/raptor-maps/jobs/PbVlnB0-engineering-manager)
+- ['Bugs are 100x more expensive to fix in production' study might not even exist](https://www.theregister.com/2021/07/22/bugs_expense_bs/)
+- [Wiser – minimal hypervisor boots Linux VM. Written in C](https://github.com/flouthoc/wiser)
+- [The LaTeX Font Catalogue](https://tug.org/FontCatalogue/)
+- [The Origin of Consciousness in the Breakdown of the Bicameral Mind (1976)](https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind)
 <!-- BLOG-POST-LIST:END -->
 
 ---
