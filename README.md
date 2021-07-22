@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Chemical Hunger – Part V: Livestock Antibiotics](https://slimemoldtimemold.com/2021/07/20/a-chemical-hunger-part-v-livestock-antibiotics/)
 - [MicroK8s – Low-ops, minimal Kubernetes, for cloud, clusters, Edge and IoT](https://microk8s.io/)
-- [YouTube says it pulled Bolsonaro videos for Covid-19 misinformation](https://www.reuters.com/technology/youtube-says-it-pulled-bolsonaro-videos-covid-19-misinformation-2021-07-22/)
-- [Troll jailed for 5 years after swatting of Twitter handle owner ends in death](https://www.theregister.com/2021/07/22/qwk_swatting_death/)
 - [A natively flexible 32-bit Arm microprocessor](https://www.nature.com/articles/s41586-021-03625-w)
-- [PG&E Will Bury 10k Miles of Power Lines So They Don't Spark Wildfires](https://www.npr.org/2021/07/21/1019058925/utility-bury-power-lines-wildfires-california)
+- [PG&E will bury 10k miles of power lines so they don't spark wildfires](https://www.npr.org/2021/07/21/1019058925/utility-bury-power-lines-wildfires-california)
+- [Open Source Alternatives to Popular B2B Tools](https://www.btw.so/open-source-alternatives)
 <!-- BLOG-POST-LIST:END -->
 
 ---
