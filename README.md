@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything you need to know about Covid-19 vaccines](https://pharmaceutical-journal.com/article/feature/everything-you-need-to-know-about-covid-19-vaccines)
-- [Floydhub Is Shutting Down](https://www.floydhub.com/shutdown)
+- [A natively flexible 32-bit Arm microprocessor](https://www.nature.com/articles/s41586-021-03625-w)
+- [PG&E Will Bury 10k Miles of Power Lines So They Don't Spark Wildfires](https://www.npr.org/2021/07/21/1019058925/utility-bury-power-lines-wildfires-california)
+- [Open Source Alternatives to Popular B2B Tools](https://www.btw.so/open-source-alternatives)
 - [This World of Ours (2014) [pdf]](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
 - [Reflections as the Internet Archive turns 25](https://blog.archive.org/2021/07/21/reflections-as-the-internet-archive-turns-25/)
-- [MS Windows Defender and DeCSS](https://www.arch13.com/ms-windows-defender-decss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
