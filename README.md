@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/)
-- [Artists, Shrug Off That Imposter Syndrome! The Tech World Needs You](https://magicbell.com/blog/artist-to-ui-designer-career-transition)
-- [Macros on Steroids, Or: How Can Pure C Benefit from Metaprogramming](https://hirrolot.github.io/posts/macros-on-steroids-or-how-can-pure-c-benefit-from-metaprogramming.html)
-- [UK wants to reform Official Secrets law by pretending journalism doesn't exist](https://davidallengreen.com/2021/07/the-home-office-wants-to-reform-official-secrets-law-by-pretending-journalism-does-not-exist/)
-- [Modeling Libraries Don’t Matter](https://www.shreya-shankar.com/modeling-libraries/)
+- [Akamai Edge DNS Down](https://edgedns.status.akamai.com/)
+- [Ask HN: DNS Outage?](https://news.ycombinator.com/item?id=27920560)
+- [Syria has become a narco-state](https://www.economist.com/middle-east-and-africa/2021/07/19/syria-has-become-a-narco-state)
+- [Travel websites are down? Airbnb.com, Expedia.com](https://news.ycombinator.com/item?id=27920382)
+- [AI breakthrough will 'transform' biology](https://www.bbc.com/news/science-environment-57929095)
 <!-- BLOG-POST-LIST:END -->
 
 ---
