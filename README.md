@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Migrating Facebook to MySQL 8.0](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/)
-- [Gaming graphics card to control plasma formation in prototype fusion reactor](https://www.washington.edu/news/2021/07/22/gaming-graphics-card-allows-faster-more-precise-control-of-fusion-energy-experiments/)
-- [How We Reverse Engineered the Cuban “Sonic Weapon” Attack](https://spectrum.ieee.org/semiconductors/devices/how-we-reverse-engineered-the-cuban-sonic-weapon-attack)
+- [4.6B-year-old meteorite found](https://www.lboro.ac.uk/media-centre/press-releases/2021/july/meteorite-reveal-origins-life-on-earth/)
+- [Show HN: Google Alerts for your favorite people](http://alias.co?ref=hn)
 - [The economic value of targeting aging](https://www.nature.com/articles/s43587-021-00080-0)
 - [SuperTokens (YC S20) is hiring fullstack and front end engineers (Remote)](https://angel.co/company/supertokens/jobs/958552-fullstack-engineer)
 <!-- BLOG-POST-LIST:END -->
