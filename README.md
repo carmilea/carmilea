@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Origin of Consciousness in the Breakdown of the Bicameral Mind](https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind)
+- [FreeBSD Implements Unprivileged Chroot](https://cgit.freebsd.org/src/commit/?id=a40cf4175c90142442d0c6515f6c83956336699b)
 - [Launch HN: Payflow (YC S21) – Allow workers to access their wages instantly](https://news.ycombinator.com/item?id=27916764)
 - [Haiti vs. the Dominican Republic](https://noahpinion.substack.com/p/haiti-vs-the-dominican-republic)
 - [A Chemical Hunger – Part V: Livestock Antibiotics](https://slimemoldtimemold.com/2021/07/20/a-chemical-hunger-part-v-livestock-antibiotics/)
-- [MicroK8s – Low-ops, minimal Kubernetes, for cloud, clusters, Edge and IoT](https://microk8s.io/)
-- [Helion Energy Achieves Key Fusion Milestone](https://www.eetimes.com/helion-energy-achieves-key-fusion-milestone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
