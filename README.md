@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mitchell Hashimoto takes on a new individual contributor role at HashiCorp](https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp)
 - [EasyPost (YC S13) is hiring to build the logistics platform for ecommerce](https://www.easypost.com/careers)
+- [iDOS 2 will be gone soon](https://litchie.com/2021/07/idos2-will-be-gone)
 - [Translating Jabberwocky into Japanese](https://j-entranslations.com/two-japanese-jabberwocky-poems/)
 - [The Tyranny of Spreadsheets](https://timharford.com/2021/07/the-tyranny-of-spreadsheets/)
-- [California sues Activision Blizzard over unequal pay, sexual harassment](https://www.npr.org/2021/07/22/1019293032/activision-blizzard-lawsuit-unequal-pay-sexual-harassment-video-games)
-- [Google broke a conditional statement that verifies passwords on Chrome OS](https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
