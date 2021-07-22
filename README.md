@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The FPGA Designer Who Didn't Get the Job](https://zipcpu.com/blog/2021/01/29/hiring.html)
 - [Twitter tests Reddit-style upvote and downvote buttons](https://techcrunch.com/2021/07/21/twitter-tests-reddit-style-upvote-and-downvote-buttons/)
 - [A YouTube Chat About Chess Got Flagged for Hate Speech](https://www.wired.com/story/why-youtube-chat-chess-flagged-hate-speech/)
 - [First lethal attacks by chimpanzees on gorillas observed](https://www.mpg.de/17223684/0719-evan-lethal-attacks-by-chimpanzees-on-gorillas-observed-150495-x)
 - [The FTC Votes Unanimously to Enforce Right to Repair](https://www.wired.com/story/ftc-votes-to-enforce-right-to-repair/)
-- [Airbnb raises violent crime rates in cities as residents are pushed out](https://www.euronews.com/next/2021/07/15/airbnb-raises-violent-crime-rates-in-cities-as-long-term-residents-are-pushed-out-says-us-)
 <!-- BLOG-POST-LIST:END -->
 
 ---
