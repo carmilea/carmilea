@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The FTC Votes Unanimously to Enforce Right to Repair](https://www.wired.com/story/ftc-votes-to-enforce-right-to-repair/)
 - [I just learned I only have months to live. This is what I want to say](https://www.bostonglobe.com/2021/07/21/magazine/i-just-learned-i-only-have-months-live-this-is-what-i-want-say/)
 - [How are salaries for senior devs in Berlin at the moment?](https://news.ycombinator.com/item?id=27912487)
 - [Airbnb raises violent crime rates in cities as residents are pushed out](https://www.euronews.com/next/2021/07/15/airbnb-raises-violent-crime-rates-in-cities-as-long-term-residents-are-pushed-out-says-us-)
 - [How the IBM PC Won, Then Lost, the Personal Computer Market](https://spectrum.ieee.org/tech-history/silicon-revolution/how-the-ibm-pc-won-then-lost-the-personal-computer-market)
-- [Dover (YC S19) just raised $20m and is hiring our first Engineering Manager](https://www.dover.com/open-roles/engineering-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
