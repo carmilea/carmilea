@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating Facebook to MySQL 8.0](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/)
+- [Gaming graphics card to control plasma formation in prototype fusion reactor](https://www.washington.edu/news/2021/07/22/gaming-graphics-card-allows-faster-more-precise-control-of-fusion-energy-experiments/)
+- [How We Reverse Engineered the Cuban “Sonic Weapon” Attack](https://spectrum.ieee.org/semiconductors/devices/how-we-reverse-engineered-the-cuban-sonic-weapon-attack)
+- [The economic value of targeting aging](https://www.nature.com/articles/s43587-021-00080-0)
 - [SuperTokens (YC S20) is hiring fullstack and front end engineers (Remote)](https://angel.co/company/supertokens/jobs/958552-fullstack-engineer)
-- [UK tech giant founder Mike Lynch can be extradited to US](https://www.bbc.com/news/business-57933718)
-- [Akamai Edge DNS Down](https://edgedns.status.akamai.com/)
-- [AI breakthrough will 'transform' biology](https://www.bbc.com/news/science-environment-57929095)
-- [My app failed: Lessons learned](https://rithm.app/8-lessons-from-a-failed-version-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
