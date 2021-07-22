@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
-- [Even if you’re paying, you’re still the product](https://odysee.com/@CyberLounge:a/even-if-youre-paying-youre-still-the-product:7)
-- [Pegasus spyware seller: Blame our customers not us for hacking](https://www.bbc.com/news/technology-57922664)
-- [Technical Introduction to the Use of Trusted Platform Module 2.0 with Linux [pdf]](https://lenovopress.com/lp0599.pdf)
-- [Raptor Maps (YC S16) Is Hiring Its First Engineering Manager](https://www.ycombinator.com/companies/raptor-maps/jobs/PbVlnB0-engineering-manager)
+- [SpaceX's Starlink Review – Four Months In](https://www.jeffgeerling.com/blog/2021/spacexs-starlink-review-four-months)
+- [Launch HN: Hotglue (YC S21) – Easy user-facing SaaS integrations](https://news.ycombinator.com/item?id=27918900)
+- [RVVM – The RISC-V Virtual Machine](https://github.com/lekkit/rvvm)
+- [How to Exfiltrate Code from Bitbucket](https://etodd.io/2021/07/21/how-to-exfiltrate-code-from-bitbucket/)
+- [10 years since the Utoya massacre in Norway](https://www.vg.no/spesial/2021/22-juli/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
