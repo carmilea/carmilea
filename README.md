@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California sues Activision Blizzard over unequal pay, sexual harassment](https://www.npr.org/2021/07/22/1019293032/activision-blizzard-lawsuit-unequal-pay-sexual-harassment-video-games)
+- [Google broke a conditional statement that verifies passwords on Chrome OS](https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/)
 - [Migrating Facebook to MySQL 8.0](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/)
 - [4.6B-year-old meteorite found](https://www.lboro.ac.uk/media-centre/press-releases/2021/july/meteorite-reveal-origins-life-on-earth/)
 - [Show HN: Google Alerts for your favorite people](http://alias.co?ref=hn)
-- [The economic value of targeting aging](https://www.nature.com/articles/s43587-021-00080-0)
-- [SuperTokens (YC S20) is hiring fullstack and front end engineers (Remote)](https://angel.co/company/supertokens/jobs/958552-fullstack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
