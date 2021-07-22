@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost (YC S13) is hiring to build the logistics platform for ecommerce](https://www.easypost.com/careers)
+- [Translating Jabberwocky into Japanese](https://j-entranslations.com/two-japanese-jabberwocky-poems/)
+- [The Tyranny of Spreadsheets](https://timharford.com/2021/07/the-tyranny-of-spreadsheets/)
 - [California sues Activision Blizzard over unequal pay, sexual harassment](https://www.npr.org/2021/07/22/1019293032/activision-blizzard-lawsuit-unequal-pay-sexual-harassment-video-games)
 - [Google broke a conditional statement that verifies passwords on Chrome OS](https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/)
-- [Migrating Facebook to MySQL 8.0](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/)
-- [4.6B-year-old meteorite found](https://www.lboro.ac.uk/media-centre/press-releases/2021/july/meteorite-reveal-origins-life-on-earth/)
-- [Show HN: Google Alerts for your favorite people](http://alias.co?ref=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
