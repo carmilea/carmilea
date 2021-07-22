@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SuperTokens (YC S20) is hiring fullstack and front end engineers (Remote)](https://angel.co/company/supertokens/jobs/958552-fullstack-engineer)
+- [UK tech giant founder Mike Lynch can be extradited to US](https://www.bbc.com/news/business-57933718)
 - [Akamai Edge DNS Down](https://edgedns.status.akamai.com/)
-- [Ask HN: DNS Outage?](https://news.ycombinator.com/item?id=27920560)
-- [Syria has become a narco-state](https://www.economist.com/middle-east-and-africa/2021/07/19/syria-has-become-a-narco-state)
-- [Travel websites are down? Airbnb.com, Expedia.com](https://news.ycombinator.com/item?id=27920382)
 - [AI breakthrough will 'transform' biology](https://www.bbc.com/news/science-environment-57929095)
+- [My app failed: Lessons learned](https://rithm.app/8-lessons-from-a-failed-version-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
