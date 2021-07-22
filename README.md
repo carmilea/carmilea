@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX's Starlink Review – Four Months In](https://www.jeffgeerling.com/blog/2021/spacexs-starlink-review-four-months)
-- [Launch HN: Hotglue (YC S21) – Easy user-facing SaaS integrations](https://news.ycombinator.com/item?id=27918900)
-- [RVVM – The RISC-V Virtual Machine](https://github.com/lekkit/rvvm)
-- [How to Exfiltrate Code from Bitbucket](https://etodd.io/2021/07/21/how-to-exfiltrate-code-from-bitbucket/)
-- [10 years since the Utoya massacre in Norway](https://www.vg.no/spesial/2021/22-juli/)
+- [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/)
+- [Artists, Shrug Off That Imposter Syndrome! The Tech World Needs You](https://magicbell.com/blog/artist-to-ui-designer-career-transition)
+- [Macros on Steroids, Or: How Can Pure C Benefit from Metaprogramming](https://hirrolot.github.io/posts/macros-on-steroids-or-how-can-pure-c-benefit-from-metaprogramming.html)
+- [UK wants to reform Official Secrets law by pretending journalism doesn't exist](https://davidallengreen.com/2021/07/the-home-office-wants-to-reform-official-secrets-law-by-pretending-journalism-does-not-exist/)
+- [Modeling Libraries Don’t Matter](https://www.shreya-shankar.com/modeling-libraries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
