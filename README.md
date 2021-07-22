@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything you need to know about Covid-19 vaccines](https://pharmaceutical-journal.com/article/feature/everything-you-need-to-know-about-covid-19-vaccines)
+- [James Mickens: This World of Ours [pdf]](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
+- [Reflections as the Internet Archive turns 25](https://blog.archive.org/2021/07/21/reflections-as-the-internet-archive-turns-25/)
+- [Windows Defender July Update – Deletes file from famous copyright case (DeCSS)](https://www.arch13.com/ms-windows-defender-decss/)
 - [The FPGA Designer Who Didn't Get the Job](https://zipcpu.com/blog/2021/01/29/hiring.html)
-- [Twitter tests Reddit-style upvote and downvote buttons](https://techcrunch.com/2021/07/21/twitter-tests-reddit-style-upvote-and-downvote-buttons/)
-- [A YouTube Chat About Chess Got Flagged for Hate Speech](https://www.wired.com/story/why-youtube-chat-chess-flagged-hate-speech/)
-- [First lethal attacks by chimpanzees on gorillas observed](https://www.mpg.de/17223684/0719-evan-lethal-attacks-by-chimpanzees-on-gorillas-observed-150495-x)
-- [The FTC Votes Unanimously to Enforce Right to Repair](https://www.wired.com/story/ftc-votes-to-enforce-right-to-repair/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
