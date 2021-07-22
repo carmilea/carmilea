@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Payflow (YC S21) – Allow workers to access their wages instantly](https://news.ycombinator.com/item?id=27916764)
+- [Haiti vs. the Dominican Republic](https://noahpinion.substack.com/p/haiti-vs-the-dominican-republic)
 - [A Chemical Hunger – Part V: Livestock Antibiotics](https://slimemoldtimemold.com/2021/07/20/a-chemical-hunger-part-v-livestock-antibiotics/)
 - [MicroK8s – Low-ops, minimal Kubernetes, for cloud, clusters, Edge and IoT](https://microk8s.io/)
-- [A natively flexible 32-bit Arm microprocessor](https://www.nature.com/articles/s41586-021-03625-w)
-- [PG&E will bury 10k miles of power lines so they don't spark wildfires](https://www.npr.org/2021/07/21/1019058925/utility-bury-power-lines-wildfires-california)
-- [Open Source Alternatives to Popular B2B Tools](https://www.btw.so/open-source-alternatives)
+- [Helion Energy Achieves Key Fusion Milestone](https://www.eetimes.com/helion-energy-achieves-key-fusion-milestone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
