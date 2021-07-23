@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ghana’s anti-LGBT+ bill seeks 10-year jail term for activists](https://africafeeds.com/2021/07/23/ghanas-anti-lgbt-bill-seeks-10-year-jail-term-for-activists/)
+- [Feynman vs. the Abacus](http://www.ee.ryerson.ca/~elf/abacus/feynman.html)
+- [Tesla Autopilot thinks the moon is a yellow traffic light](https://twitter.com/JordanTeslaTech/status/1418413307862585344)
+- [Released from a gag order regarding a federal investigation into a silly comment](https://www.techdirt.com/articles/20210715/17183547176/techdirt-has-been-released-gag-order-regarding-federal-investigation-into-silly-comment.shtml)
 - [Researchers are pulling movements out of microfilm with digital history](https://vtx.vt.edu/articles/2021/07/eng-historians-and-computer-scientists-harness-virtual-reality-and-ai.html)
 - [Plasmid, Virus or Other? DNA ‘Borgs’ Blur Boundaries](https://www.quantamagazine.org/plasmid-virus-or-other-dna-borgs-blur-boundaries-20210721/)
-- [Vidme forgets to renew domain, embeds turned into porn](https://www.theverge.com/2021/7/22/22589403/porn-site-bought-expired-video-hosting-site-old-embeds)
-- [Full Interview: Edward Snowden on Privacy & Threats to Democracy – MSNBC (2019)](https://www.youtube.com/watch?v=e9yK1QndJSM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
