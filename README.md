@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepnote (YC S19) is hiring a lead engineer to build a better notebook (Europe)](https://deepnote.com/join-us)
+- [Why Australia’s Trash Bin–Raiding Cockatoos Are the ‘Punks of the Bird World’](https://www.smithsonianmag.com/science-nature/cockatoos-learn-open-garbage-bins-observing-their-peers-180978248/)
 - [Update to Our Privacy Policy and Apology](https://github.com/audacity/audacity/discussions/1353)
 - [Remains of impact that created the Moon may lie deep within Earth](https://www.sciencemag.org/news/2021/03/remains-impact-created-moon-may-lie-deep-within-earth)
 - [Another misstep for Audacity](https://lwn.net/Articles/862073/)
-- [The Framework Laptop is now shipping](https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews)
-- [Hacker News in the Style of Teletext](https://glynnbird.github.io/teletext/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
