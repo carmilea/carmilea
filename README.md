@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The University of California Is Lying to Us](https://www.theatlantic.com/ideas/archive/2021/07/why-university-california-dropping-sat/619522/)
 - [The Nightmare of Our Snooping Phones](https://www.nytimes.com/2021/07/21/technology/phones-location-data.html)
-- [Learn Python by doing fun interactive exercises](https://epicpython.com/)
-- [Jeff Bezos is running out of time to save blue origin](https://arstechnica.com/science/2021/07/despite-tuesdays-fight-jeff-bezos-is-running-out-of-time-to-save-blue-origin/)
-- [NASA investigates renaming James Webb telescope after anti-LGBT+ claims](https://www.nature.com/articles/d41586-021-02010-x)
-- [Mark Zuckerberg says Facebook will turn into a ‘metaverse’](https://www.independent.co.uk/life-style/gadgets-and-tech/facebook-mark-zuckerberg-metaverse-augmented-vitual-mixed-reality-b1889284.html)
+- [If Richard Feynman applied for a job at Microsoft (2002)](https://sellsbrothers.com/12395)
+- [Intrinsic](https://blog.x.company/introducing-intrinsic-1cf35b87651)
+- [Judges reject Viasat’s plea to stop SpaceX Starlink satellite launches](https://arstechnica.com/tech-policy/2021/07/spacex-wins-court-ruling-that-lets-it-continue-launching-starlink-satellites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
