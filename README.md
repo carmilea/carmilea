@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Another Misstep for Audacity](https://lwn.net/Articles/862073/)
-- [After Slashing 33% of Workers in 6 Years, Railroads Complain of Labor Shortages](https://wolfstreet.com/2021/07/22/after-slashing-33-of-their-workers-in-six-years-railroads-complain-about-labor-shortages-amid-uproar-from-shippers-over-slow-shipments/)
 - [The Framework Laptop is now shipping](https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews)
 - [Hacker News in the Style of Teletext](https://glynnbird.github.io/teletext/)
 - [SARS-CoV-2 Gamma variant infected 16 fully Pfizer vaccinated Guiana gold miners](https://wwwnc.cdc.gov/eid/article/27/10/21-1427_article)
+- [Zip – How not to design a file format](https://games.greggman.com/game/zip-rant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
