@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bill suspends social networks' Section 230 protections for anti-vax conspiracies](https://techcrunch.com/2021/07/22/section-230-health-misinformation-act/)
-- [Launch HN: Exams, tasks, K8, eCommerce, cell sites, health, travel, data quality](https://news.ycombinator.com/item?id=27930562)
-- [Central Bank Digital Currency – US Senate Testimony of Dr. Neha Narula [pdf]](https://www.banking.senate.gov/imo/media/doc/Narula%20Testimony%206-9-21.pdf)
-- [We’d Rather Have the Iceberg Than the Ship](https://www.granolashotgun.com/granolashotguncom/wed-rather-have-the-iceberg-than-the-ship)
-- [Floating wind turbines could rise to great heights](https://www.economist.com/science-and-technology/2021/07/21/floating-wind-turbines-could-rise-to-great-heights)
+- [The Nightmare of Our Snooping Phones](https://www.nytimes.com/2021/07/21/technology/phones-location-data.html)
+- [Learn Python by doing fun interactive exercises](https://epicpython.com/)
+- [Jeff Bezos is running out of time to save blue origin](https://arstechnica.com/science/2021/07/despite-tuesdays-fight-jeff-bezos-is-running-out-of-time-to-save-blue-origin/)
+- [NASA investigates renaming James Webb telescope after anti-LGBT+ claims](https://www.nature.com/articles/d41586-021-02010-x)
+- [Mark Zuckerberg says Facebook will turn into a ‘metaverse’](https://www.independent.co.uk/life-style/gadgets-and-tech/facebook-mark-zuckerberg-metaverse-augmented-vitual-mixed-reality-b1889284.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
