@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CIA Director Says He Is Escalating Efforts to Solve 'Havana Syndrome' Mystery](https://www.npr.org/2021/07/22/1013402176/cia-director-says-he-is-escalating-efforts-to-solve-havana-syndrome-mystery)
+- [Hacker News in the Style of Teletext](https://glynnbird.github.io/teletext/)
+- [Zip – How not to design a file format](https://games.greggman.com/game/zip-rant/)
 - [The engineer preserving the last analog motion graphics machine (2017) [video]](https://www.youtube.com/watch?v=0wxc3mKqKTk)
 - [Mitchell Hashimoto takes on a new individual contributor role at HashiCorp](https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp)
 - [EasyPost (YC S13) is hiring to build the logistics platform for ecommerce](https://www.easypost.com/careers)
-- [iDOS 2 will be gone soon](https://litchie.com/2021/07/idos2-will-be-gone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
