@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rainfall flooding is becoming an issue](https://slate.com/business/2021/07/rainfall-flooding-zhengzhou-new-york-chicago-climate-change.html)
 - [The Incoming Currency War](https://promarket.org/2021/07/14/currency-war-payment-systems-zingales-europe-china/)
 - [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [Website changes design each time you blink](https://realless.glitch.me/)
-- [BirdNet – The Easiest Way to Identify Birds by Sound](https://birdnet.cornell.edu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
