@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Hacker News in the Style of Teletext](https://glynnbird.github.io/teletext/)
+- [SARS-CoV-2 Gamma variant infected 16 fully Pfizer vaccinated Guiana gold miners](https://wwwnc.cdc.gov/eid/article/27/10/21-1427_article)
 - [Zip – How not to design a file format](https://games.greggman.com/game/zip-rant/)
 - [The engineer preserving the last analog motion graphics machine (2017) [video]](https://www.youtube.com/watch?v=0wxc3mKqKTk)
 - [Mitchell Hashimoto takes on a new individual contributor role at HashiCorp](https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp)
-- [EasyPost (YC S13) is hiring to build the logistics platform for ecommerce](https://www.easypost.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
