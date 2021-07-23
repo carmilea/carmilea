@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ghana’s anti-LGBT+ bill seeks 10-year jail term for activists](https://africafeeds.com/2021/07/23/ghanas-anti-lgbt-bill-seeks-10-year-jail-term-for-activists/)
+- [Researchers are pulling movements out of microfilm with digital history](https://vtx.vt.edu/articles/2021/07/eng-historians-and-computer-scientists-harness-virtual-reality-and-ai.html)
 - [Plasmid, Virus or Other? DNA ‘Borgs’ Blur Boundaries](https://www.quantamagazine.org/plasmid-virus-or-other-dna-borgs-blur-boundaries-20210721/)
-- [Bitcoin: On anyone-can-spend Pay-to-Taproot outputs before activation](https://b10c.me/blog/007-spending-p2tr-pre-activation/)
 - [Vidme forgets to renew domain, embeds turned into porn](https://www.theverge.com/2021/7/22/22589403/porn-site-bought-expired-video-hosting-site-old-embeds)
 - [Full Interview: Edward Snowden on Privacy & Threats to Democracy – MSNBC (2019)](https://www.youtube.com/watch?v=e9yK1QndJSM)
-- [Path is hiring Engineers to automate Gen Z finance](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
