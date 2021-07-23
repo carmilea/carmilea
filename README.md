@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can we survive technology? John von Neumann 1955 [pdf]](https://drive.google.com/file/d/10_IKsz0GdgyLlO9-MAtpTPQ7vnfpN8Ng/view?usp=drivesdk)
 - [Google now shows why it ranked a specific search result](https://searchengineland.com/google-now-shows-why-it-ranked-a-specific-search-result-350659)
+- [Ethereum dev Virgil Griffith back in jail after checking $1M Coinbase account](https://protos.com/griffith-virgil-coinbase-account-ethereum-jail-north-korea-arrest/)
 - [Deepnote (YC S19) is hiring a lead engineer to build a better notebook (Europe)](https://deepnote.com/join-us)
 - [Australia’s trash bin-raiding cockatoos](https://www.smithsonianmag.com/science-nature/cockatoos-learn-open-garbage-bins-observing-their-peers-180978248/)
-- [Digital Vegan](https://www.thegreatbritishbookshop.co.uk/products/digital-vegan)
-- [Remains of impact that created the Moon may lie deep within Earth](https://www.sciencemag.org/news/2021/03/remains-impact-created-moon-may-lie-deep-within-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
