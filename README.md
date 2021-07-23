@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Gordian Software (YC W19) is hiring back end engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
-- [Surely We Can Do Better Than Elon Musk](https://www.currentaffairs.org/2021/04/surely-we-can-do-better-than-elon-musk/)
+- [The Chernobyl Tragedy – From the Memoirs of Nikolai Ryzhkov](https://itsmydutytotell.wordpress.com/2021/06/07/the-chernobyl-tragedy-from-the-memoirs-of-nikolai-ryzhkov/)
 - [The Grayness of the Origin of Life](https://www.mdpi.com/2075-1729/11/6/498/htm)
-- [Feynman vs. the Abacus](http://www.ee.ryerson.ca/~elf/abacus/feynman.html)
-- [Released from a gag order regarding a federal investigation into a silly comment](https://www.techdirt.com/articles/20210715/17183547176/techdirt-has-been-released-gag-order-regarding-federal-investigation-into-silly-comment.shtml)
+- [Feynman vs. the Abacus (1985)](http://www.ee.ryerson.ca/~elf/abacus/feynman.html)
+- [My Steam Game Revenue Stats](https://donislawdev.com/my-first-indie-steam-game-revenue-first-month-in-early-access-yerba-mate-tycoon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
