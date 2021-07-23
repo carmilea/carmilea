@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plasmid, Virus or Other? DNA ‘Borgs’ Blur Boundaries](https://www.quantamagazine.org/plasmid-virus-or-other-dna-borgs-blur-boundaries-20210721/)
+- [Bitcoin: On anyone-can-spend Pay-to-Taproot outputs before activation](https://b10c.me/blog/007-spending-p2tr-pre-activation/)
+- [Vidme forgets to renew domain, embeds turned into porn](https://www.theverge.com/2021/7/22/22589403/porn-site-bought-expired-video-hosting-site-old-embeds)
+- [Full Interview: Edward Snowden on Privacy & Threats to Democracy – MSNBC (2019)](https://www.youtube.com/watch?v=e9yK1QndJSM)
 - [Path is hiring Engineers to automate Gen Z finance](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
-- [Apple testing new external display with A13 chip](https://9to5mac.com/2021/07/23/exclusive-apple-testing-new-external-display-with-a-dedicated-a13-chip-and-neural-engine/)
-- [The Nightmare of Our Snooping Phones](https://www.nytimes.com/2021/07/21/technology/phones-location-data.html)
-- [If Richard Feynman applied for a job at Microsoft (2002)](https://sellsbrothers.com/12395)
-- [Intrinsic](https://blog.x.company/introducing-intrinsic-1cf35b87651)
 <!-- BLOG-POST-LIST:END -->
 
 ---
