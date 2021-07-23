@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rainfall flooding is becoming an issue](https://slate.com/business/2021/07/rainfall-flooding-zhengzhou-new-york-chicago-climate-change.html)
-- [The Incoming Currency War](https://promarket.org/2021/07/14/currency-war-payment-systems-zingales-europe-china/)
-- [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
-- [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Website changes design each time you blink](https://realless.glitch.me/)
+- [Bill suspends social networks' Section 230 protections for anti-vax conspiracies](https://techcrunch.com/2021/07/22/section-230-health-misinformation-act/)
+- [Launch HN: Exams, tasks, K8, eCommerce, cell sites, health, travel, data quality](https://news.ycombinator.com/item?id=27930562)
+- [Central Bank Digital Currency – US Senate Testimony of Dr. Neha Narula [pdf]](https://www.banking.senate.gov/imo/media/doc/Narula%20Testimony%206-9-21.pdf)
+- [We’d Rather Have the Iceberg Than the Ship](https://www.granolashotgun.com/granolashotguncom/wed-rather-have-the-iceberg-than-the-ship)
+- [Floating wind turbines could rise to great heights](https://www.economist.com/science-and-technology/2021/07/21/floating-wind-turbines-could-rise-to-great-heights)
 <!-- BLOG-POST-LIST:END -->
 
 ---
