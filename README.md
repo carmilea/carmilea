@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gordian Software (YC W19) is hiring back end engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
+- [Surely We Can Do Better Than Elon Musk](https://www.currentaffairs.org/2021/04/surely-we-can-do-better-than-elon-musk/)
+- [The Grayness of the Origin of Life](https://www.mdpi.com/2075-1729/11/6/498/htm)
 - [Feynman vs. the Abacus](http://www.ee.ryerson.ca/~elf/abacus/feynman.html)
-- [Tesla Autopilot thinks the moon is a yellow traffic light](https://twitter.com/JordanTeslaTech/status/1418413307862585344)
 - [Released from a gag order regarding a federal investigation into a silly comment](https://www.techdirt.com/articles/20210715/17183547176/techdirt-has-been-released-gag-order-regarding-federal-investigation-into-silly-comment.shtml)
-- [Researchers are pulling movements out of microfilm with digital history](https://vtx.vt.edu/articles/2021/07/eng-historians-and-computer-scientists-harness-virtual-reality-and-ai.html)
-- [Plasmid, Virus or Other? DNA ‘Borgs’ Blur Boundaries](https://www.quantamagazine.org/plasmid-virus-or-other-dna-borgs-blur-boundaries-20210721/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
