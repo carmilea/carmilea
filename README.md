@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BirdNet – The Easiest Way to Identify Birds by Sound](https://birdnet.cornell.edu)
+- [Apple to Pull 'iDOS 2' DOS Emulator from App Store](https://www.macrumors.com/2021/07/22/apple-to-pill-idos-2-emulator-from-app-store/)
+- [Investigation: TikTok's Algorithm Figures Out Your Deepest Desires](https://www.wsj.com/video/series/inside-tiktoks-highly-secretive-algorithm/investigation-how-tiktok-algorithm-figures-out-your-deepest-desires/6C0C2040-FF25-4827-8528-2BD6612E3796)
 - [“I would buy a Mac today if I was not working at Microsoft” (2004)](https://twitter.com/TechEmails/status/1418248256937775105)
-- [Can we survive technology? John von Neumann 1955 [pdf]](https://drive.google.com/file/d/10_IKsz0GdgyLlO9-MAtpTPQ7vnfpN8Ng/view?usp=drivesdk)
-- [Google now shows why it ranked a specific search result](https://searchengineland.com/google-now-shows-why-it-ranked-a-specific-search-result-350659)
-- [Deepnote (YC S19) is hiring a lead engineer to build a better notebook (Europe)](https://deepnote.com/join-us)
-- [Australia’s trash bin-raiding cockatoos](https://www.smithsonianmag.com/science-nature/cockatoos-learn-open-garbage-bins-observing-their-peers-180978248/)
+- [GitHub brings supply chain security features to the Go community](https://github.blog/2021-07-22-github-supply-chain-security-features-go-community/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
