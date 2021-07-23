@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Another Misstep for Audacity](https://lwn.net/Articles/862073/)
+- [After Slashing 33% of Workers in 6 Years, Railroads Complain of Labor Shortages](https://wolfstreet.com/2021/07/22/after-slashing-33-of-their-workers-in-six-years-railroads-complain-about-labor-shortages-amid-uproar-from-shippers-over-slow-shipments/)
+- [The Framework Laptop is now shipping](https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews)
 - [Hacker News in the Style of Teletext](https://glynnbird.github.io/teletext/)
 - [SARS-CoV-2 Gamma variant infected 16 fully Pfizer vaccinated Guiana gold miners](https://wwwnc.cdc.gov/eid/article/27/10/21-1427_article)
-- [Zip – How not to design a file format](https://games.greggman.com/game/zip-rant/)
-- [The engineer preserving the last analog motion graphics machine (2017) [video]](https://www.youtube.com/watch?v=0wxc3mKqKTk)
-- [Mitchell Hashimoto takes on a new individual contributor role at HashiCorp](https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
