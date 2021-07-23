@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The University of California Is Lying to Us](https://www.theatlantic.com/ideas/archive/2021/07/why-university-california-dropping-sat/619522/)
+- [Path is hiring Engineers to automate Gen Z finance](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
+- [Apple testing new external display with A13 chip](https://9to5mac.com/2021/07/23/exclusive-apple-testing-new-external-display-with-a-dedicated-a13-chip-and-neural-engine/)
 - [The Nightmare of Our Snooping Phones](https://www.nytimes.com/2021/07/21/technology/phones-location-data.html)
 - [If Richard Feynman applied for a job at Microsoft (2002)](https://sellsbrothers.com/12395)
 - [Intrinsic](https://blog.x.company/introducing-intrinsic-1cf35b87651)
-- [Judges reject Viasat’s plea to stop SpaceX Starlink satellite launches](https://arstechnica.com/tech-policy/2021/07/spacex-wins-court-ruling-that-lets-it-continue-launching-starlink-satellites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
