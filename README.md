@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Another Misstep for Audacity](https://lwn.net/Articles/862073/)
+- [Update to Our Privacy Policy and Apology](https://github.com/audacity/audacity/discussions/1353)
+- [Remains of impact that created the Moon may lie deep within Earth](https://www.sciencemag.org/news/2021/03/remains-impact-created-moon-may-lie-deep-within-earth)
+- [Another misstep for Audacity](https://lwn.net/Articles/862073/)
 - [The Framework Laptop is now shipping](https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews)
 - [Hacker News in the Style of Teletext](https://glynnbird.github.io/teletext/)
-- [SARS-CoV-2 Gamma variant infected 16 fully Pfizer vaccinated Guiana gold miners](https://wwwnc.cdc.gov/eid/article/27/10/21-1427_article)
-- [Zip – How not to design a file format](https://games.greggman.com/game/zip-rant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
