@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cheapest Energy Storage Could Be New Iron-Air Battery](https://www.rechargenews.com/energy-transition/worlds-cheapest-energy-storage-will-be-an-iron-air-battery-says-jeff-bezos-backed-start-up/2-1-1044174)
-- [Fuzzbuzz (YC W19) is hiring: C/C++ Systems Engineer to work on our fuzzing engine](https://angel.co/company/fuzzbuzz/jobs/1481052-software-engineer-fuzzing-engine)
-- [LeVar Burton: 'Jeopardy ' host gig began 'scary,' ended fun](https://abcnews.go.com/Entertainment/wireStory/levar-burton-jeopardy-host-gig-began-scary-ended-79018577)
-- [28 Books recommended by open source technologists](https://opensource.com/article/21/7/open-source-books)
-- [Inserting 130M SQLite Rows per Minute from a Scripting Language](https://blog.metaobject.com/2021/07/inserting-130m-sqlite-rows-per.html)
+- [CO₂ Coin: Decentralized Carbon Capture Blockchains (2021)](https://www.gwern.net/CO2-Coin)
+- [What vaccinated people should know about their risk from the delta varian](https://slate.com/technology/2021/07/covid-delta-variant-risk-vaccinated-breakthrough-cases.html)
+- [GPS will broadcast a 0 second leap second in 128 days. This will cause no issues](https://twitter.com/rdwrt/status/1419043840888086532)
+- [Registry Explorer: Replacement for the Windows Built-In Regedit.exe Tool](https://github.com/zodiacon/RegExp)
+- [Yellen urges Congress to raise or suspend the debt limit by Aug. 2](https://www.cnbc.com/2021/07/23/yellen-urges-congress-to-raise-debt-limit-by-aug-2-or-treasury-will-take-extraordinary-measures-to-prevent-default.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
