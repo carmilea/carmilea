@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TrueVault (YC W14) is hiring a VP of Eng for a new product](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering)
+- [Marvin Heemeyer (The Killdozer Man)](https://en.wikipedia.org/wiki/Marvin_Heemeyer)
+- [Are locally produced solar modules the future?](https://www.dw.com/en/high-tech-photovoltaics-solar-panels-produced-at-home/a-58239791)
+- [How JavaScript works: an overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 - [Schools opened, suicide attempts in girls skyrocketed](https://insidemedicine.bulletin.com/2977384169199489/)
-- [Neofetch: Command-line system information tool written in bash](https://github.com/dylanaraps/neofetch)
-- [Colombia boosts budding cannabis industry by removing ban on dry flower exports](https://www.reuters.com/world/americas/colombia-boosts-budding-cannabis-industry-by-removing-ban-dry-flower-exports-2021-07-23/)
-- [A crucial idea for silicon PV cells was excluded by a patent for 20 years](https://theconversation.com/the-sunlight-that-powers-solar-panels-also-damages-them-gallium-doping-is-providing-a-solution-164935)
-- [How the Python import system works](https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
