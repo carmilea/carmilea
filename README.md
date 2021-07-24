@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can consciousness be explained by quantum physics?](https://theconversation.com/can-consciousness-be-explained-by-quantum-physics-my-research-takes-us-a-step-closer-to-finding-out-164582)
+- [How the Python import system works](https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/)
+- [SpaceX Falcon Heavy rocket will launch NASA's Europa Clipper to icy Jupiter moon](https://www.space.com/nasa-picks-spacex-falcon-heavy-for-europa-clipper-launch)
+- [Fun with Unix domain sockets](https://simonwillison.net/2021/Jul/13/unix-domain-sockets/)
 - [Faster than fast: Watch an algorithm beat human drone racing pilots](https://dronedj.com/2021/07/22/ai-beats-human-drone-racing-pilot/)
-- [Heat dome brings yet another heat wave this time covering most of the US](https://www.cnn.com/2021/07/23/weather/heat-wave-central-plains-weekend-forecast/index.html)
-- [OpenBSD Virtualization: Host and Guests on the Same Network](http://doc.huc.fr.eu.org/en/sys/openbsd/vmd-host-guest-on-same-network/)
-- [SushiSwap: When VCs have to pitch to an entire online community](https://www.axios.com/when-vcs-have-to-pitch-to-an-entire-online-community-501a7c08-a3d1-49ac-ad77-734724570ea4.html)
-- [Is Norway the New East India Company?](https://branko2f7.substack.com/p/is-norway-the-new-east-india-company)
 <!-- BLOG-POST-LIST:END -->
 
 ---
