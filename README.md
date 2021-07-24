@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sci-Hub Twitter account suspended](https://twitter.com/Sci_Hub)
-- [Launch HN: Spark Studio (YC S21) – Live online extracurricular courses for kids](https://news.ycombinator.com/item?id=27938576)
-- [Cloud Naming Convention](https://stepan.wtf/cloud-naming-convention/)
-- [Without Enough Water to Go Around, Farmers in California Are Exhausting Aquifers](https://www.npr.org/2021/07/22/1019483661/without-enough-water-to-go-around-farmers-in-california-are-exhausting-aquifers)
-- [EV startup Rivian announces $2.5B funding round led by Amazon, Ford](https://www.reuters.com/business/autos-transportation/ev-startup-rivian-announces-25-bln-funding-round-led-by-amazon-ford-2021-07-23/)
+- [Mixed Reality with Passthrough](https://developer.oculus.com/blog/mixed-reality-with-passthrough/)
+- [Obtain High-Resolution, Multi-Detector UFO Images](https://projects.iq.harvard.edu/galileo/activities)
+- [Coronavirus Skeptics Use Orthodox Data Practices to Promote Unorthodox Science](https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445211)
+- [Google Setting: Turn Off Personalized Results](https://www.google.com/setting/search/privateresults/)
+- [Steven Weinberg Has Died](https://twitter.com/johncarlosbaez/status/1418804320611364867)
 <!-- BLOG-POST-LIST:END -->
 
 ---
