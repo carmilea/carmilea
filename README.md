@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California moves to cut off water to thousands of farmers](https://www.sacbee.com/news/california/water-and-drought/article252986953.html)
+- [Oregon Trail Generation](https://en.wikipedia.org/wiki/Xennials)
 - [Electromagnetism is a property of the spacetime itself](https://sciencex.com/news/2021-07-electromagnetism-property-spacetime.html)
-- [What’s the Matter with Airports?](https://askthepilot.com/essaysandstories/whats-the-matter-with-airports/)
 - [TrueVault (YC W14) is hiring a VP of Eng for a new product](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering)
 - [Are locally produced solar modules the future?](https://www.dw.com/en/high-tech-photovoltaics-solar-panels-produced-at-home/a-58239791)
-- [How JavaScript works: an overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
