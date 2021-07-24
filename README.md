@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amiga 2000 EATX PCB](https://github.com/jasonsbeer/Amiga-2000-ATX)
-- [Rust for Linux Redux](https://lwn.net/Articles/862018/)
-- [Cognitive deficits in people who have recovered from Covid-19](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00324-2/fulltext)
-- [Mixed Reality with Passthrough](https://developer.oculus.com/blog/mixed-reality-with-passthrough/)
-- [Obtain High-Resolution, Multi-Detector UFO Images](https://projects.iq.harvard.edu/galileo/activities)
+- [The beauty of cheap products](https://elazzabi.com/2021/07/24/the-beauty-of-cheap-products/)
+- [OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email](https://onesignal.com/careers)
+- [Empty storefronts are killing neighbourhoods](https://thewalrus.ca/how-empty-storefronts-are-killing-our-neighbourhoods/)
+- [A database with 3.8B phone numbers from Clubhouse is up for sales](https://twitter.com/mruef/status/1418693478574346242)
+- [HiveNightmare a.k.a. SeriousSAM – anybody can read the registry in Windows 10](https://doublepulsar.com/hivenightmare-aka-serioussam-anybody-can-read-the-registry-in-windows-10-7a871c465fa5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
