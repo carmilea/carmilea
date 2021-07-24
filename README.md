@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cheapest Energy Storage Could Be New Iron-Air Battery](https://www.rechargenews.com/energy-transition/worlds-cheapest-energy-storage-will-be-an-iron-air-battery-says-jeff-bezos-backed-start-up/2-1-1044174)
 - [Fuzzbuzz (YC W19) is hiring: C/C++ Systems Engineer to work on our fuzzing engine](https://angel.co/company/fuzzbuzz/jobs/1481052-software-engineer-fuzzing-engine)
+- [LeVar Burton: 'Jeopardy ' host gig began 'scary,' ended fun](https://abcnews.go.com/Entertainment/wireStory/levar-burton-jeopardy-host-gig-began-scary-ended-79018577)
+- [28 Books recommended by open source technologists](https://opensource.com/article/21/7/open-source-books)
 - [Inserting 130M SQLite Rows per Minute from a Scripting Language](https://blog.metaobject.com/2021/07/inserting-130m-sqlite-rows-per.html)
-- [California moves to cut off water to thousands of farmers](https://www.sacbee.com/news/california/water-and-drought/article252986953.html)
-- [Oregon Trail Generation](https://en.wikipedia.org/wiki/Xennials)
-- [Electromagnetism is a property of spacetime itself, study finds](https://sciencex.com/news/2021-07-electromagnetism-property-spacetime.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
