@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amiga 2000 EATX PCB](https://github.com/jasonsbeer/Amiga-2000-ATX)
 - [Rust for Linux Redux](https://lwn.net/Articles/862018/)
 - [Cognitive deficits in people who have recovered from Covid-19](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00324-2/fulltext)
 - [Mixed Reality with Passthrough](https://developer.oculus.com/blog/mixed-reality-with-passthrough/)
 - [Obtain High-Resolution, Multi-Detector UFO Images](https://projects.iq.harvard.edu/galileo/activities)
-- [Choose whether Search can personalize results from info in your Google Account](https://www.google.com/setting/search/privateresults/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
