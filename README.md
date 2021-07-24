@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can consciousness be explained by quantum physics?](https://theconversation.com/can-consciousness-be-explained-by-quantum-physics-my-research-takes-us-a-step-closer-to-finding-out-164582)
+- [Schools opened, suicide attempts in girls skyrocketed](https://insidemedicine.bulletin.com/2977384169199489/)
+- [Neofetch: Command-line system information tool written in bash](https://github.com/dylanaraps/neofetch)
+- [Colombia boosts budding cannabis industry by removing ban on dry flower exports](https://www.reuters.com/world/americas/colombia-boosts-budding-cannabis-industry-by-removing-ban-dry-flower-exports-2021-07-23/)
+- [A crucial idea for silicon PV cells was excluded by a patent for 20 years](https://theconversation.com/the-sunlight-that-powers-solar-panels-also-damages-them-gallium-doping-is-providing-a-solution-164935)
 - [How the Python import system works](https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/)
-- [SpaceX Falcon Heavy rocket will launch NASA's Europa Clipper to icy Jupiter moon](https://www.space.com/nasa-picks-spacex-falcon-heavy-for-europa-clipper-launch)
-- [Fun with Unix domain sockets](https://simonwillison.net/2021/Jul/13/unix-domain-sockets/)
-- [Faster than fast: Watch an algorithm beat human drone racing pilots](https://dronedj.com/2021/07/22/ai-beats-human-drone-racing-pilot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
