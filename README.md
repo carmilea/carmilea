@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Striking to End Suicide Shifts, Frito-Lay Workers Ask People to Drop the Doritos](https://www.npr.org/2021/07/21/1018634768/frito-lay-workers-are-in-the-third-week-of-a-strike-over-wages-and-working-condi)
-- [Bezos and Branson not yet astronauts, US says](https://www.bbc.com/news/world-us-canada-57950149)
 - [Modern C++ for C Programmers (2018)](https://berthub.eu/articles/posts/c++-1/)
 - [Gordian Software (YC W19) is hiring back end engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
 - [The Chernobyl Tragedy – From the Memoirs of Nikolai Ryzhkov](https://itsmydutytotell.wordpress.com/2021/06/07/the-chernobyl-tragedy-from-the-memoirs-of-nikolai-ryzhkov/)
+- [The Grayness of the Origin of Life](https://www.mdpi.com/2075-1729/11/6/498/htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
