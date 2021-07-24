@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Spark Studio (YC S21) – Live online extracurricular courses for kids](https://news.ycombinator.com/item?id=27938576)
+- ['Unbearable': Restaurant customers are being nightmares lately](https://www.sfgate.com/food/article/SF-Bay-Area-restaurants-customers-rude-Yelp-review-16333535.php)
 - [Without Enough Water to Go Around, Farmers in California Are Exhausting Aquifers](https://www.npr.org/2021/07/22/1019483661/without-enough-water-to-go-around-farmers-in-california-are-exhausting-aquifers)
 - [Emulator dev who was bullied online dies by suicide. 'This stuff really hurts.'](https://news.yahoo.com/respected-developer-died-suicide-experts-165758039.html)
 - [EV startup Rivian announces $2.5 bln funding round led by Amazon, Ford](https://www.reuters.com/business/autos-transportation/ev-startup-rivian-announces-25-bln-funding-round-led-by-amazon-ford-2021-07-23/)
-- [“Tivoization” and Your Right to Install Under Copyleft](https://sfconservancy.org/blog/2021/jul/23/tivoization-and-the-gpl-right-to-install/)
-- [Open Decision-Making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
