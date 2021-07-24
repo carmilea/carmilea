@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [The beauty of cheap products](https://elazzabi.com/2021/07/24/the-beauty-of-cheap-products/)
 - [OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email](https://onesignal.com/careers)
-- [Empty storefronts are killing neighbourhoods](https://thewalrus.ca/how-empty-storefronts-are-killing-our-neighbourhoods/)
+- [KartaView: Yet another street-level imagery platform](https://www.trekview.org/blog/2021/getting-started-with-kartaview/)
 - [A database with 3.8B phone numbers from Clubhouse is up for sales](https://twitter.com/mruef/status/1418693478574346242)
 - [HiveNightmare a.k.a. SeriousSAM – anybody can read the registry in Windows 10](https://doublepulsar.com/hivenightmare-aka-serioussam-anybody-can-read-the-registry-in-windows-10-7a871c465fa5)
 <!-- BLOG-POST-LIST:END -->
