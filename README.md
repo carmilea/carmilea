@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NSO Group CEO says law-abiding citizens have 'nothing to be afraid of'](https://appleinsider.com/articles/21/07/23/nso-group-ceo-says-law-abiding-citizens-have-nothing-to-be-afraid-of)
 - [California moves to cut off water to thousands of farmers](https://www.sacbee.com/news/california/water-and-drought/article252986953.html)
 - [Oregon Trail Generation](https://en.wikipedia.org/wiki/Xennials)
 - [Electromagnetism is a property of the spacetime itself](https://sciencex.com/news/2021-07-electromagnetism-property-spacetime.html)
 - [TrueVault (YC W14) is hiring a VP of Eng for a new product](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering)
-- [Are locally produced solar modules the future?](https://www.dw.com/en/high-tech-photovoltaics-solar-panels-produced-at-home/a-58239791)
 <!-- BLOG-POST-LIST:END -->
 
 ---
