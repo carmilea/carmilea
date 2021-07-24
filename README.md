@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Without Enough Water to Go Around, Farmers in California Are Exhausting Aquifers](https://www.npr.org/2021/07/22/1019483661/without-enough-water-to-go-around-farmers-in-california-are-exhausting-aquifers)
+- [Emulator dev who was bullied online dies by suicide. 'This stuff really hurts.'](https://news.yahoo.com/respected-developer-died-suicide-experts-165758039.html)
+- [EV startup Rivian announces $2.5 bln funding round led by Amazon, Ford](https://www.reuters.com/business/autos-transportation/ev-startup-rivian-announces-25-bln-funding-round-led-by-amazon-ford-2021-07-23/)
 - [“Tivoization” and Your Right to Install Under Copyleft](https://sfconservancy.org/blog/2021/jul/23/tivoization-and-the-gpl-right-to-install/)
 - [Open Decision-Making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
-- [Windows 98: Should you upgrade now or never? (1998)](http://www.cnn.com/TECH/computing/9806/24/win98.idg/index.html)
-- [Archaeologists find ancient Egyptian warship sunk near Alexandria](https://arstechnica.com/science/2021/07/archaeologists-find-ancient-egyptian-warship-sunk-near-alexandria/)
-- [How did you validate your webapp product/market fit?](https://news.ycombinator.com/item?id=27937646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
