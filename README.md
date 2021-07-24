@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Striking to End Suicide Shifts, Frito-Lay Workers Ask People to Drop the Doritos](https://www.npr.org/2021/07/21/1018634768/frito-lay-workers-are-in-the-third-week-of-a-strike-over-wages-and-working-condi)
-- [Modern C++ for C Programmers (2018)](https://berthub.eu/articles/posts/c++-1/)
-- [Gordian Software (YC W19) is hiring back end engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
-- [The Chernobyl Tragedy – From the Memoirs of Nikolai Ryzhkov](https://itsmydutytotell.wordpress.com/2021/06/07/the-chernobyl-tragedy-from-the-memoirs-of-nikolai-ryzhkov/)
-- [The Grayness of the Origin of Life](https://www.mdpi.com/2075-1729/11/6/498/htm)
+- [“Tivoization” and Your Right to Install Under Copyleft](https://sfconservancy.org/blog/2021/jul/23/tivoization-and-the-gpl-right-to-install/)
+- [Open Decision-Making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
+- [Windows 98: Should you upgrade now or never? (1998)](http://www.cnn.com/TECH/computing/9806/24/win98.idg/index.html)
+- [Archaeologists find ancient Egyptian warship sunk near Alexandria](https://arstechnica.com/science/2021/07/archaeologists-find-ancient-egyptian-warship-sunk-near-alexandria/)
+- [How did you validate your webapp product/market fit?](https://news.ycombinator.com/item?id=27937646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
