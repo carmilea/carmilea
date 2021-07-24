@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The beauty of cheap products](https://elazzabi.com/2021/07/24/the-beauty-of-cheap-products/)
-- [OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email](https://onesignal.com/careers)
-- [KartaView: Yet another street-level imagery platform](https://www.trekview.org/blog/2021/getting-started-with-kartaview/)
-- [A database with 3.8B phone numbers from Clubhouse is up for sales](https://twitter.com/mruef/status/1418693478574346242)
-- [HiveNightmare a.k.a. SeriousSAM – anybody can read the registry in Windows 10](https://doublepulsar.com/hivenightmare-aka-serioussam-anybody-can-read-the-registry-in-windows-10-7a871c465fa5)
+- [Faster than fast: Watch an algorithm beat human drone racing pilots](https://dronedj.com/2021/07/22/ai-beats-human-drone-racing-pilot/)
+- [Heat dome brings yet another heat wave this time covering most of the US](https://www.cnn.com/2021/07/23/weather/heat-wave-central-plains-weekend-forecast/index.html)
+- [OpenBSD Virtualization: Host and Guests on the Same Network](http://doc.huc.fr.eu.org/en/sys/openbsd/vmd-host-guest-on-same-network/)
+- [SushiSwap: When VCs have to pitch to an entire online community](https://www.axios.com/when-vcs-have-to-pitch-to-an-entire-online-community-501a7c08-a3d1-49ac-ad77-734724570ea4.html)
+- [Is Norway the New East India Company?](https://branko2f7.substack.com/p/is-norway-the-new-east-india-company)
 <!-- BLOG-POST-LIST:END -->
 
 ---
