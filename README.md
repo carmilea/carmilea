@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust for Linux Redux](https://lwn.net/Articles/862018/)
+- [Cognitive deficits in people who have recovered from Covid-19](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00324-2/fulltext)
 - [Mixed Reality with Passthrough](https://developer.oculus.com/blog/mixed-reality-with-passthrough/)
 - [Obtain High-Resolution, Multi-Detector UFO Images](https://projects.iq.harvard.edu/galileo/activities)
-- [Coronavirus Skeptics Use Orthodox Data Practices to Promote Unorthodox Science](https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445211)
-- [Google Setting: Turn Off Personalized Results](https://www.google.com/setting/search/privateresults/)
-- [Steven Weinberg Has Died](https://twitter.com/johncarlosbaez/status/1418804320611364867)
+- [Choose whether Search can personalize results from info in your Google Account](https://www.google.com/setting/search/privateresults/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
