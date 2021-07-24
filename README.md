@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Electromagnetism is a property of the spacetime itself](https://sciencex.com/news/2021-07-electromagnetism-property-spacetime.html)
+- [What’s the Matter with Airports?](https://askthepilot.com/essaysandstories/whats-the-matter-with-airports/)
 - [TrueVault (YC W14) is hiring a VP of Eng for a new product](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering)
-- [Marvin Heemeyer (The Killdozer Man)](https://en.wikipedia.org/wiki/Marvin_Heemeyer)
 - [Are locally produced solar modules the future?](https://www.dw.com/en/high-tech-photovoltaics-solar-panels-produced-at-home/a-58239791)
 - [How JavaScript works: an overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
-- [Schools opened, suicide attempts in girls skyrocketed](https://insidemedicine.bulletin.com/2977384169199489/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
