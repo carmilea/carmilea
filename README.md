@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Large Ivermectin Study Retracted](https://www.medpagetoday.com/special-reports/exclusives/93658)
+- [A Linux distro with a focus on simplicity and the concept of less is more](https://kisslinux.org/)
 - [To H-E-Double-Hockey-Sticks with Facebook](https://www.damninteresting.com/to-h-e-double-hockey-sticks-with-facebook/)
 - [Why Elite Romans Decorated Their Floors with Garbage](https://www.atlasobscura.com/articles/what-is-in-profane-museum-vatican)
 - [Gas Engines, and the People Behind Them, Are Cast Aside for Electric Vehicles](https://www.wsj.com/articles/gas-engines-cast-aside-electric-vehicles-job-losses-detroit-11627046285)
-- [Half of US states now using facial recognition to vet unemployment claims](https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html)
-- [China bans for-profit school tutoring in sweeping overhaul](https://www.bloombergquint.com/markets/china-bans-school-curriculum-tutoring-firms-from-going-public)
 <!-- BLOG-POST-LIST:END -->
 
 ---
