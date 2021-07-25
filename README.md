@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
-- [An Urgent Notice from AssemblyScript](https://assemblyscript.org)
-- [Large Ivermectin Study Retracted](https://www.medpagetoday.com/special-reports/exclusives/93658)
-- [Tweezers of sound can pick objects up without physical contact](https://www.eurekalert.org/pub_releases/2021-07/tmu-o072121.php)
-- [A Linux distro with a focus on simplicity and the concept of less is more](https://kisslinux.org/)
+- [Improving our UI testing at SingleStore](https://www.singlestore.com/blog/improving-our-ui-testing-at-singlestore)
+- [Your Phone Already Has Bottomless](https://www.singlestore.com/blog/your-phone-already-has-bottomless)
+- [SingleStore Makes Analytics 20-100x Faster](https://www.singlestore.com/blog/singlestore-makes-analytics-20-100x-faster)
+- [GoGuardian’s Education Technology Platform, powered by SingleStore DB, scales to serve over 18,000,000 students](https://www.singlestore.com/blog/goguardian-education-technology-platform-powered-by-singlestore-scales-to-serve-over-18000000-students)
+- [IEX Cloud Processes Over 2.5B API Requests Daily with an 8ms Average Response Time Using SingleStore](https://www.singlestore.com/blog/iex-cloud-processes-over-2-5b-api-requests-daily-with-an-8ms-average-response-time-using-singlestore)
 <!-- BLOG-POST-LIST:END -->
 
 ---
