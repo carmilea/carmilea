@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The YouTubers who blew the whistle on an anti-vax plot](https://www.bbc.com/news/blogs-trending-57928647)
+- [Rumbling meteor lights up Norway; part of it may have landed near Oslo](https://www.reuters.com/world/europe/rumbling-meteor-lights-up-norway-bit-possibly-landing-near-oslo-2021-07-25/)
 - [Substack Is Hiring Engineers to Build a Better Business Model for Writing](https://substack.com/jobs?utm_source=hn&utm_content=eng)
 - [Signal on Android: Images sent to wrong contacts](https://github.com/signalapp/Signal-Android/issues/10247)
 - [Simulating worlds on the GPU: Four billion years in four minutes](https://davidar.io/post/sim-glsl)
-- [The SaaS Org Chart](https://sacks.substack.com/p/the-saas-org-chart)
-- [I was sick, tired and had lost myself – until I began lifting weights at 71](https://www.theguardian.com/lifeandstyle/2021/jul/23/a-new-start-after-60-i-was-sick-tired-and-had-lost-myself-until-i-took-up-bodybuilding-at-71)
 <!-- BLOG-POST-LIST:END -->
 
 ---
