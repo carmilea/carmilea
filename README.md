@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Generational Divide in Software Developers](https://hackernoon.com/the-generational-divide-in-software-developers-bco354a)
+- [Windows Sysinternals: advanced system utilities and technical information](https://docs.microsoft.com/en-us/sysinternals/)
 - [PinePhone - A Phone That Out Of The Box Runs Other Operating Systems](https://www.pine64.org/pinephone/)
-- [Favouring tools is bad engineering (2018)](https://www.samjarman.co.nz/blog/bad-engineering)
+- [Show HN: A graveyard for my side projects](https://hackyexperiments.vercel.app/)
 - [When will we get secure desktop OSes? (2018)](https://games.greggman.com/game/secure-desktop-oses-when/)
-- [How Do You Keep a Subway from Flooding in the Age of Rising Seas? (2019)](https://www.atlasobscura.com/articles/subways-flood-without-rain)
+- [Rethinking the Toilet, Converting Human Waste into Methane Power](https://www.atlasobscura.com/articles/korea-toilet-biogas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
