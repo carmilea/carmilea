@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CO₂ Coin: Decentralized Carbon Capture Blockchains (2021)](https://www.gwern.net/CO2-Coin)
-- [What vaccinated people should know about their risk from the delta varian](https://slate.com/technology/2021/07/covid-delta-variant-risk-vaccinated-breakthrough-cases.html)
+- [Half of US states now using facial recognition to vet unemployment claims](https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html)
+- [China bans for-profit school tutoring in sweeping overhaul](https://www.bloombergquint.com/markets/china-bans-school-curriculum-tutoring-firms-from-going-public)
+- [A Tour of the Fuchsia Operating System](https://www.youtube.com/watch?v=gIT1ISCioDY)
+- [Apple, Facebook, Google Broke the Mobile Browser Market Undermining User Choice](https://infrequently.org/2021/07/hobsons-browser/)
 - [GPS will broadcast a 0 second leap second in 128 days. This will cause no issues](https://twitter.com/rdwrt/status/1419043840888086532)
-- [Registry Explorer: Replacement for the Windows Built-In Regedit.exe Tool](https://github.com/zodiacon/RegExp)
-- [Yellen urges Congress to raise or suspend the debt limit by Aug. 2](https://www.cnbc.com/2021/07/23/yellen-urges-congress-to-raise-debt-limit-by-aug-2-or-treasury-will-take-extraordinary-measures-to-prevent-default.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
