@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Americans' Life Ratings Reach Record High](https://news.gallup.com/poll/351932/americans-life-ratings-reach-record-high.aspx)
-- [Jello: Print “jello ” in every programming language](https://github.com/IThinkImOKAY/jello)
-- [Ncdu 2: Less hungry and more Ziggy](https://dev.yorhel.nl/doc/ncdu2)
-- [Tomato fruits send electrical warnings to the rest of the plant when attacked](https://blog.frontiersin.org/2021/07/20/tomato-fruits-send-electrical-warnings-to-the-rest-of-the-plant-when-attacked-by-insects/)
-- [Finland ends homelessness and provides shelter for all in need](https://scoop.me/housing-first-finland-homelessness/)
+- [Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Containers](https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html)
+- [Tesla will not offer a regular steering wheel on new Model S/X](https://electrek.co/2021/07/23/elon-musk-confirms-tesla-not-offer-regular-steering-wheel-model-s-x/)
+- [Anna Kiesenhofer: Mathematician, amateur cyclist, Olympic champion](https://www.cyclingnews.com/features/anna-kiesenhofer-mathematician-amateur-cyclist-olympic-champion/)
+- [Free money for all? Garcetti hopes guaranteed income test brings big change](https://www.ocregister.com/2021/07/23/free-money-for-all-mayors-hope-local-tests-bring-big-change/)
+- [Purism is seeking investment from individuals](https://puri.sm/ir/convertible-note/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
