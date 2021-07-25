@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Freedom Phone: Why you should avoid it and what else to know](https://www.cnet.com/tech/mobile/freedom-phone-why-you-should-avoid-it-what-else-know/)
+- [Ncdu 2: Less hungry and more Ziggy](https://dev.yorhel.nl/doc/ncdu2)
+- [Tomato fruits send electrical warnings to the rest of the plant when attacked](https://blog.frontiersin.org/2021/07/20/tomato-fruits-send-electrical-warnings-to-the-rest-of-the-plant-when-attacked-by-insects/)
+- [Prince Charles’ experimental city is proving critics wrong](https://www.smh.com.au/world/europe/fit-for-a-king-prince-charles-experimental-city-is-proving-critics-wrong-20210722-p58bz9.html)
 - [Fluxsort: A stable adaptive partitioning comparison sort](https://github.com/scandum/fluxsort)
-- [Pachyderm (YC W15) Is Hiring a React/TypeScript Engineer and DevOps](https://www.pachyderm.com/careers/#positions)
-- [Amazon Is Creating Company Towns Across the United States](https://jacobinmag.com/2021/07/amazon-warehouse-communities-towns-geography-warehouse-fulfillment-jfk8-cajon-inland-empire)
-- [Clubhouse Is the Big Stinker That Nobody Wants to Talk About](https://ez.substack.com/p/clubhouse-is-the-big-stinker-that)
-- [Amazon Web Services In Plain English (2019)](https://www.web3us.com/how-guides/amazon-web-services-plain-english)
 <!-- BLOG-POST-LIST:END -->
 
 ---
