@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Language records reveal a surge of cognitive distortions in recent decades](https://www.pnas.org/content/118/30/e2102061118.full)
-- [16/30 Google results for PHP tutorials contain SQL injection vulnerabilities](https://waritschlager.de/sqlinjections-in-google-results.html)
-- [Polytetrafluoroethylene (Teflon) as a Way to Increase Food Volume and Satiety](https://journals.sagepub.com/doi/full/10.1177/1932296815626726)
-- [Freenom, the free domains website, is a scam](https://daniel.is-a.dev/blog/freenom-the-free-domains-website-is-a-scam-3)
-- [Rumbling meteor lights up Norway; part of it may have landed near Oslo](https://www.reuters.com/world/europe/rumbling-meteor-lights-up-norway-bit-possibly-landing-near-oslo-2021-07-25/)
+- [Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform](https://www.paperspace.com/careers)
+- [Pre-crime: Sheriff’s letter targets residents for ‘increased accountability’](https://www.tampabay.com/investigations/2021/07/24/pasco-sheriffs-office-letter-targets-residents-for-increased-accountability/)
+- [The Assange Case Is Collapsing – But It Remains a Travesty of Justice](https://tribunemag.co.uk/2021/07/the-assange-case-is-collapsing-but-it-remains-a-travesty-of-justice)
+- [Ad men sacked to improve gender pay gap win sex discrimination claim](https://www.theguardian.com/media/2021/jul/23/top-ad-men-who-feared-obliteration-win-sex-discrimination-claim)
+- [UK Weather: Flooding in London after heavy rain](https://www.bbc.co.uk/news/uk-england-london-57963856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
