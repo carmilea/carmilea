@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Favouring Tools Is Bad Engineering](https://www.samjarman.co.nz/blog/bad-engineering)
+- [The Generational Divide in Software Developers](https://hackernoon.com/the-generational-divide-in-software-developers-bco354a)
+- [PinePhone - A Phone That Out Of The Box Runs Other Operating Systems](https://www.pine64.org/pinephone/)
+- [Favouring tools is bad engineering (2018)](https://www.samjarman.co.nz/blog/bad-engineering)
 - [When will we get secure desktop OSes? (2018)](https://games.greggman.com/game/secure-desktop-oses-when/)
 - [How Do You Keep a Subway from Flooding in the Age of Rising Seas? (2019)](https://www.atlasobscura.com/articles/subways-flood-without-rain)
-- [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
-- [Agile at 20: The Failed Rebellion](https://www.simplethread.com/agile-at-20-the-failed-rebellion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
