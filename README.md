@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Language records reveal a surge of cognitive distortions in recent decades](https://www.pnas.org/content/118/30/e2102061118.full)
+- [16/30 Google results for PHP tutorials contain SQL injection vulnerabilities](https://waritschlager.de/sqlinjections-in-google-results.html)
+- [Polytetrafluoroethylene (Teflon) as a Way to Increase Food Volume and Satiety](https://journals.sagepub.com/doi/full/10.1177/1932296815626726)
 - [Freenom, the free domains website, is a scam](https://daniel.is-a.dev/blog/freenom-the-free-domains-website-is-a-scam-3)
 - [Rumbling meteor lights up Norway; part of it may have landed near Oslo](https://www.reuters.com/world/europe/rumbling-meteor-lights-up-norway-bit-possibly-landing-near-oslo-2021-07-25/)
-- [Substack Is Hiring Engineers to Build a Better Business Model for Writing](https://substack.com/jobs?utm_source=hn&utm_content=eng)
-- [Signal on Android: Images sent to wrong contacts](https://github.com/signalapp/Signal-Android/issues/10247)
-- [Simulating worlds on the GPU: Four billion years in four minutes](https://davidar.io/post/sim-glsl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
