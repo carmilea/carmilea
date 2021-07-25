@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows Sysinternals: advanced system utilities and technical information](https://docs.microsoft.com/en-us/sysinternals/)
-- [PinePhone - A Phone That Out Of The Box Runs Other Operating Systems](https://www.pine64.org/pinephone/)
-- [Show HN: A graveyard for my side projects](https://hackyexperiments.vercel.app/)
-- [When will we get secure desktop OSes? (2018)](https://games.greggman.com/game/secure-desktop-oses-when/)
-- [Rethinking the Toilet, Converting Human Waste into Methane Power](https://www.atlasobscura.com/articles/korea-toilet-biogas)
+- [AWS Config: Know before you take a plunge](https://blog.cloudyali.io/aws-config-know-before-you-take-a-plunge)
+- [“Using Benford’s Law to Detect Bitcoin Manipulation”](https://statmodeling.stat.columbia.edu/2021/07/15/using-benfords-law-to-detect-bitcoin-manipulation/)
+- [My Fanless OpenBSD Desktop – joshua stein](https://jcs.org/2021/07/19/desktop)
+- [An Empirical Study of Vulnerabilities in Cryptographic Libraries](https://arxiv.org/abs/2107.04940)
+- [Types versus sets in math and programming languages](https://byorgey.wordpress.com/2021/06/24/types-versus-sets-in-math-and-programming-languages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
