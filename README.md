@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Containers](https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html)
-- [Tesla will not offer a regular steering wheel on new Model S/X](https://electrek.co/2021/07/23/elon-musk-confirms-tesla-not-offer-regular-steering-wheel-model-s-x/)
-- [Anna Kiesenhofer: Mathematician, amateur cyclist, Olympic champion](https://www.cyclingnews.com/features/anna-kiesenhofer-mathematician-amateur-cyclist-olympic-champion/)
-- [Free money for all? Garcetti hopes guaranteed income test brings big change](https://www.ocregister.com/2021/07/23/free-money-for-all-mayors-hope-local-tests-bring-big-change/)
-- [Purism is seeking investment from individuals](https://puri.sm/ir/convertible-note/)
+- [Substack Is Hiring Engineers to Build a Better Business Model for Writing](https://substack.com/jobs?utm_source=hn&utm_content=eng)
+- [Signal on Android: Images sent to wrong contacts](https://github.com/signalapp/Signal-Android/issues/10247)
+- [Simulating worlds on the GPU: Four billion years in four minutes](https://davidar.io/post/sim-glsl)
+- [The SaaS Org Chart](https://sacks.substack.com/p/the-saas-org-chart)
+- [I was sick, tired and had lost myself – until I began lifting weights at 71](https://www.theguardian.com/lifeandstyle/2021/jul/23/a-new-start-after-60-i-was-sick-tired-and-had-lost-myself-until-i-took-up-bodybuilding-at-71)
 <!-- BLOG-POST-LIST:END -->
 
 ---
