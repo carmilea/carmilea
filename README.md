@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Freedom Phone: Why you should avoid it and what else to know](https://www.cnet.com/tech/mobile/freedom-phone-why-you-should-avoid-it-what-else-know/)
+- [Americans' Life Ratings Reach Record High](https://news.gallup.com/poll/351932/americans-life-ratings-reach-record-high.aspx)
+- [Jello: Print “jello ” in every programming language](https://github.com/IThinkImOKAY/jello)
 - [Ncdu 2: Less hungry and more Ziggy](https://dev.yorhel.nl/doc/ncdu2)
 - [Tomato fruits send electrical warnings to the rest of the plant when attacked](https://blog.frontiersin.org/2021/07/20/tomato-fruits-send-electrical-warnings-to-the-rest-of-the-plant-when-attacked-by-insects/)
-- [Prince Charles’ experimental city is proving critics wrong](https://www.smh.com.au/world/europe/fit-for-a-king-prince-charles-experimental-city-is-proving-critics-wrong-20210722-p58bz9.html)
-- [Fluxsort: A stable adaptive partitioning comparison sort](https://github.com/scandum/fluxsort)
+- [Finland ends homelessness and provides shelter for all in need](https://scoop.me/housing-first-finland-homelessness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
