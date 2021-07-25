@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform](https://www.paperspace.com/careers)
-- [Why are used cars so expensive right now?](https://thehustle.co/why-are-used-cars-so-expensive-right-now/)
+- [Ampache: An open source web based audio/video streaming app and file manager](https://ampache.org/)
 - [Pre-crime: Sheriff’s letter targets residents for ‘increased accountability’](https://www.tampabay.com/investigations/2021/07/24/pasco-sheriffs-office-letter-targets-residents-for-increased-accountability/)
 - [The Assange Case Is Collapsing – But It Remains a Travesty of Justice](https://tribunemag.co.uk/2021/07/the-assange-case-is-collapsing-but-it-remains-a-travesty-of-justice)
-- [Ad men sacked to improve gender pay gap win sex discrimination claim](https://www.theguardian.com/media/2021/jul/23/top-ad-men-who-feared-obliteration-win-sex-discrimination-claim)
+- [UK Weather: Flooding in London after heavy rain](https://www.bbc.co.uk/news/uk-england-london-57963856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
