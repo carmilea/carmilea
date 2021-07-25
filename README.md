@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The YouTubers who blew the whistle on an anti-vax plot](https://www.bbc.com/news/blogs-trending-57928647)
+- [Freenom, the free domains website, is a scam](https://daniel.is-a.dev/blog/freenom-the-free-domains-website-is-a-scam-3)
 - [Rumbling meteor lights up Norway; part of it may have landed near Oslo](https://www.reuters.com/world/europe/rumbling-meteor-lights-up-norway-bit-possibly-landing-near-oslo-2021-07-25/)
 - [Substack Is Hiring Engineers to Build a Better Business Model for Writing](https://substack.com/jobs?utm_source=hn&utm_content=eng)
 - [Signal on Android: Images sent to wrong contacts](https://github.com/signalapp/Signal-Android/issues/10247)
