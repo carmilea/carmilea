@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving our UI testing at SingleStore](https://www.singlestore.com/blog/improving-our-ui-testing-at-singlestore)
-- [Your Phone Already Has Bottomless](https://www.singlestore.com/blog/your-phone-already-has-bottomless)
-- [SingleStore Makes Analytics 20-100x Faster](https://www.singlestore.com/blog/singlestore-makes-analytics-20-100x-faster)
-- [GoGuardian’s Education Technology Platform, powered by SingleStore DB, scales to serve over 18,000,000 students](https://www.singlestore.com/blog/goguardian-education-technology-platform-powered-by-singlestore-scales-to-serve-over-18000000-students)
-- [IEX Cloud Processes Over 2.5B API Requests Daily with an 8ms Average Response Time Using SingleStore](https://www.singlestore.com/blog/iex-cloud-processes-over-2-5b-api-requests-daily-with-an-8ms-average-response-time-using-singlestore)
+- [Favouring Tools Is Bad Engineering](https://www.samjarman.co.nz/blog/bad-engineering)
+- [When will we get secure desktop OSes? (2018)](https://games.greggman.com/game/secure-desktop-oses-when/)
+- [How Do You Keep a Subway from Flooding in the Age of Rising Seas? (2019)](https://www.atlasobscura.com/articles/subways-flood-without-rain)
+- [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [Agile at 20: The Failed Rebellion](https://www.simplethread.com/agile-at-20-the-failed-rebellion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
