@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://apply.workable.com/jerry/j/07E1D2B302/)
+- [An Urgent Notice from AssemblyScript](https://assemblyscript.org)
 - [Large Ivermectin Study Retracted](https://www.medpagetoday.com/special-reports/exclusives/93658)
+- [Tweezers of sound can pick objects up without physical contact](https://www.eurekalert.org/pub_releases/2021-07/tmu-o072121.php)
 - [A Linux distro with a focus on simplicity and the concept of less is more](https://kisslinux.org/)
-- [To H-E-Double-Hockey-Sticks with Facebook](https://www.damninteresting.com/to-h-e-double-hockey-sticks-with-facebook/)
-- [Why Elite Romans Decorated Their Floors with Garbage](https://www.atlasobscura.com/articles/what-is-in-profane-museum-vatican)
-- [Gas Engines, and the People Behind Them, Are Cast Aside for Electric Vehicles](https://www.wsj.com/articles/gas-engines-cast-aside-electric-vehicles-job-losses-detroit-11627046285)
 <!-- BLOG-POST-LIST:END -->
 
 ---
