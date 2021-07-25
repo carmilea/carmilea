@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fluxsort: A stable adaptive partitioning comparison sort](https://github.com/scandum/fluxsort)
 - [Pachyderm (YC W15) Is Hiring a React/TypeScript Engineer and DevOps](https://www.pachyderm.com/careers/#positions)
 - [Amazon Is Creating Company Towns Across the United States](https://jacobinmag.com/2021/07/amazon-warehouse-communities-towns-geography-warehouse-fulfillment-jfk8-cajon-inland-empire)
 - [Clubhouse Is the Big Stinker That Nobody Wants to Talk About](https://ez.substack.com/p/clubhouse-is-the-big-stinker-that)
 - [Amazon Web Services In Plain English (2019)](https://www.web3us.com/how-guides/amazon-web-services-plain-english)
-- [Please, enough with the dead butterflies (2017)](https://www.emilydamstra.com/please-enough-dead-butterflies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
