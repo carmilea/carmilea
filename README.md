@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: InstaKin (YC S21) - Help immigrants to manage tasks in home countries](https://news.ycombinator.com/item?id=27958605)
-- [Windows Defender blocks qBittorrent](https://github.com/qbittorrent/qBittorrent/issues/14489)
-- [Steven Weinberg: What Is Quantum Field Theory, and What Did We Think It Is? (1997)](https://arxiv.org/abs/9702027)
-- [Infracost (YC W21) is hiring a fullstack eng to help devs love their cloud bill](https://www.ycombinator.com/companies/infracost/jobs/mOkwnEY-senior-full-stack-engineer)
-- [Disinformation for Hire, a Shadow Industry, Is Quietly Booming](https://www.nytimes.com/2021/07/25/world/europe/disinformation-social-media.html)
+- [S.F. is considering downtown 'congestion pricing.' for those making $46K](https://www.sfchronicle.com/sf/article/S-F-is-considering-downtown-congestion-16336449.php)
+- [Bank of America using three intelligence firms to attack WikiLeaks (2011)](https://www.computerworld.com/article/2470522/bank-of-america-using-three-intelligence-firms-to-attack-wikileaks.html)
+- [Tether Executives Said to Face Criminal Probe into Bank Fraud](https://www.bloomberg.com/news/articles/2021-07-26/tether-executives-said-to-face-criminal-probe-into-bank-fraud)
+- [BLAKE3 1.0.0](https://github.com/BLAKE3-team/BLAKE3/releases/tag/1.0.0)
+- [Why does NBC make it so difficult to watch the Olympics?](https://mleverything.substack.com/p/why-does-nbc-make-it-so-difficult)
 <!-- BLOG-POST-LIST:END -->
 
 ---
