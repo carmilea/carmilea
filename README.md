@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Haiku R1/beta3 is released](https://www.haiku-os.org/news/2021-07-26_media_release_the_haiku_project_celebrates_the_release_of_beta_3/)
-- [What I Wish I Knew About CSS When Starting Out as a Front Ender](https://engineering.kablamo.com.au/posts/2021/my-first-css)
+- [US set for punishing temperatures as ‘heat dome’ to settle over country](https://www.theguardian.com/us-news/2021/jul/24/america-heatwave-climate-crisis-heat-dome)
+- [Heuristics for Effective Software Development: A continuously evolving list](https://holub.com/heuristics-for-effective-software-development-a-continuously-evolving-list/)
+- [Haiku Beta 3](https://www.haiku-os.org/news/2021-07-26_media_release_the_haiku_project_celebrates_the_release_of_beta_3/)
+- [My First CSS](https://engineering.kablamo.com.au/posts/2021/my-first-css)
 - [Some stuff I found interesting about number theory research](https://twitter.com/benskuhn/status/1419281153983500290)
-- [Why Japan Didn’t Create the iPod (2008)](https://blog.gatunka.com/2008/05/05/why-japan-didnt-create-the-ipod/)
-- [Is Aging Inevitable?](https://joshmitteldorf.scienceblog.com/2021/06/17/is-aging-inevitable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
