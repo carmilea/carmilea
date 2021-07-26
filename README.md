@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Economic Consequences of Major Tax Cuts for the Rich [pdf]](http://eprints.lse.ac.uk/107919/1/Hope_economic_consequences_of_major_tax_cuts_published.pdf)
+- [Finley (YC W21) is hiring to build modern fintech infrastructure](https://jobs.lever.co/FinleyTechnologies)
+- [Toyota is quietly pushing Congress to slow the shift to electric vehicles](https://www.theverge.com/2021/7/26/22594235/toyota-lobbying-dc-ev-congress-biden-donation)
 - [A Unix-style personal search engine and web crawler for your digital footprint](https://github.com/amirgamil/apollo)
 - [What's bad about Julia?](https://viralinstruction.com/posts/badjulia/)
-- [Japan pitches 'Society 5.0' to keep its edge in tech and science](https://asia.nikkei.com/Business/Science/Japan-pitches-Society-5.0-to-keep-its-edge-in-tech-and-science)
-- [Reducing CO2 emissions by targeting the world's hyper-polluting power plants](https://iopscience.iop.org/article/10.1088/1748-9326/ac13f1)
-- [Tether executives said to face criminal probe into bank fraud](https://www.bloomberg.com/news/articles/2021-07-26/tether-executives-said-to-face-criminal-probe-into-bank-fraud)
 <!-- BLOG-POST-LIST:END -->
 
 ---
