@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla 2Q 2021 Quarterly Result](https://tesla-cdn.thron.com/static/ZBOUYO_TSLA_Q2_2021_Update_DJCVNJ.pdf?xseo=&response-content-disposition=inline%3Bfilename%3D%22q2_2021.pdf%22)
+- [Hastening Linux process cleanup with process_mrelease](https://lwn.net/SubscriberLink/864184/06caefb9c8f2bbd5/)
+- [Git-blame-someone-else: Blame someone else for your bad code](https://github.com/jayphelps/git-blame-someone-else)
 - [Why can't software engineers work from home most of the time? (2016)](https://workplace.stackexchange.com/questions/80668/why-cant-software-engineers-work-from-home-most-of-the-time)
 - [NREL Open-Source Modeling Approach Simulates Low-Inertia Power Systems](https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks-the-code-of-simulating-low-inertia-power-systems.html)
-- [Apple fixes an in-the-wild exploited 0-day (iOS 14.7.1)](https://support.apple.com/en-us/HT212623)
-- [Strengthening our workplace with neurodiverse talent](https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-launches-a-career-program-for-people-with-autism)
-- [Open offices have driven Panasonic to make horse blinders for humans (2018)](https://techcrunch.com/2018/10/17/open-offices-have-driven-panasonic-to-make-horse-blinders-for-humans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
