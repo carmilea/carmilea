@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Steven Weinberg: What Is Quantum Field Theory, and What Did We Think It Is?](https://arxiv.org/abs/9702027)
+- [Launch HN: InstaKin (YC S21) - Help immigrants to manage tasks in home countries](https://news.ycombinator.com/item?id=27958605)
+- [Windows Defender blocks qBittorrent](https://github.com/qbittorrent/qBittorrent/issues/14489)
+- [Steven Weinberg: What Is Quantum Field Theory, and What Did We Think It Is? (1997)](https://arxiv.org/abs/9702027)
 - [Infracost (YC W21) is hiring a fullstack eng to help devs love their cloud bill](https://www.ycombinator.com/companies/infracost/jobs/mOkwnEY-senior-full-stack-engineer)
 - [Disinformation for Hire, a Shadow Industry, Is Quietly Booming](https://www.nytimes.com/2021/07/25/world/europe/disinformation-social-media.html)
-- [QR Codes Are Here to Stay. So Is the Tracking They Allow](https://www.nytimes.com/2021/07/26/technology/qr-codes-tracking.html)
-- [Cyber Insurance Incident Response: Market tends towards commoditization](https://www.cyber-economics.com/2021/07/26/cyber-insurance-incident-response-market-tends-towards-commoditization-with-competitive-prices-increasing-vc-and-m-cyber-insurance-has-built-an-overall-effective-system-to-help-especial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
