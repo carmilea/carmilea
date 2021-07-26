@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikipedia co-founder: I no longer trust the website I created](https://www.youtube.com/watch?v=l0P4Cf0UCwU)
+- [Differences in Semiconductor Soft Errors Caused by Cosmic-Ray Muons and Neutrons](http://www.socionextus.com/pressreleases/socionext-and-partners-clarify-differences-between-semiconductor-soft-errors-caused-by-cosmic-ray-muons-and-neutrons/)
+- [TSMC eyes Germany as possible location for first Europe chip plant](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-eyes-Germany-as-possible-location-for-first-Europe-chip-plant)
 - [Leetcode Compensation report (India) Jan 2019 – Jul 2021](https://www.reddit.com/r/developersIndia/comments/ors1zd/leetcode_compensation_report_india_jan_2019_jul/)
-- [Understanding Rust futures by going way too deep](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
-- [Japanese Typewriters](https://blog.gatunka.com/2009/09/30/japanese-typewriters/)
-- [US set for punishing temperatures as ‘heat dome’ to settle over country](https://www.theguardian.com/us-news/2021/jul/24/america-heatwave-climate-crisis-heat-dome)
-- [Terracotta: Serverless GeoTiff Tile Server](https://github.com/DHI-GRAS/terracotta)
+- [Nerdy Reading](https://www.masswerk.at/nowgobang/2021/nerdy-reading)
 <!-- BLOG-POST-LIST:END -->
 
 ---
