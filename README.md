@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PC can't be shipped to CA, CO, HI, OR, VT or WA due to power consumption](https://www.dell.com/en-us/shop/gaming-and-games/cp/game?~ck=mn)
 - [No, a supercomputer won’t make your code run faster (2017)](https://lemire.me/blog/2017/12/11/no-a-supercomputer-wont-make-your-code-run-faster/)
 - [Pronouncing Non-English Names for English Speakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers)
-- [Tesla AutoPilot – I give up, it's downright lethal](https://teslamotorsclub.com/tmc/threads/auto-pilot-i-give-up-its-downright-lethal.234498/)
 - [Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform](https://www.paperspace.com/careers)
 - [Ampache: An open source web based audio/video streaming app and file manager](https://ampache.org/)
 <!-- BLOG-POST-LIST:END -->
