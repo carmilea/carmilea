@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pronouncing Non-English Names for English Speakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers)
+- [Tesla AutoPilot – I give up, it's downright lethal](https://teslamotorsclub.com/tmc/threads/auto-pilot-i-give-up-its-downright-lethal.234498/)
 - [Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform](https://www.paperspace.com/careers)
 - [Ampache: An open source web based audio/video streaming app and file manager](https://ampache.org/)
 - [Pre-crime: Sheriff’s letter targets residents for ‘increased accountability’](https://www.tampabay.com/investigations/2021/07/24/pasco-sheriffs-office-letter-targets-residents-for-increased-accountability/)
-- [The Assange Case Is Collapsing – But It Remains a Travesty of Justice](https://tribunemag.co.uk/2021/07/the-assange-case-is-collapsing-but-it-remains-a-travesty-of-justice)
-- [UK Weather: Flooding in London after heavy rain](https://www.bbc.co.uk/news/uk-england-london-57963856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
