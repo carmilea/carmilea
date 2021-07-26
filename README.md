@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Rust futures by going way too deep](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
+- [Japanese Typewriters](https://blog.gatunka.com/2009/09/30/japanese-typewriters/)
+- [Local BBC radio not available online outside UK during Tokyo Olympics](https://www.bbc.co.uk/sounds/help/issues/bbc-sounds/local-radio-olympics-2020)
 - [US set for punishing temperatures as ‘heat dome’ to settle over country](https://www.theguardian.com/us-news/2021/jul/24/america-heatwave-climate-crisis-heat-dome)
-- [Heuristics for Effective Software Development: A continuously evolving list](https://holub.com/heuristics-for-effective-software-development-a-continuously-evolving-list/)
-- [Haiku Beta 3](https://www.haiku-os.org/news/2021-07-26_media_release_the_haiku_project_celebrates_the_release_of_beta_3/)
-- [My First CSS](https://engineering.kablamo.com.au/posts/2021/my-first-css)
-- [Some stuff I found interesting about number theory research](https://twitter.com/benskuhn/status/1419281153983500290)
+- [Terracotta: Serverless GeoTiff Tile Server](https://github.com/DHI-GRAS/terracotta)
 <!-- BLOG-POST-LIST:END -->
 
 ---
