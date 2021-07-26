@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Economic Consequences of Major Tax Cuts for the Rich [pdf]](http://eprints.lse.ac.uk/107919/1/Hope_economic_consequences_of_major_tax_cuts_published.pdf)
-- [Finley (YC W21) is hiring to build modern fintech infrastructure](https://jobs.lever.co/FinleyTechnologies)
-- [Toyota is quietly pushing Congress to slow the shift to electric vehicles](https://www.theverge.com/2021/7/26/22594235/toyota-lobbying-dc-ev-congress-biden-donation)
-- [A Unix-style personal search engine and web crawler for your digital footprint](https://github.com/amirgamil/apollo)
-- [What's bad about Julia?](https://viralinstruction.com/posts/badjulia/)
+- [Citizen pays New Yorkers $25 an hour to livestream crime scenes](https://nypost.com/2021/07/25/citizen-pays-new-yorkers-25-an-hour-to-livestream-crime-scenes/)
+- [Bye-bye, Bitcoin: It's time to ban cryptocurrencies](https://thehill.com/opinion/cybersecurity/564696-bye-bye-bitcoin-time-to-ban-crypto-currencies)
+- [Potential role of manufactured citric acid eliciting inflammatory reactions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6097542/#abs0010title)
+- [Amid massive hospital sell-off, corporate giant continues suing patients](https://www.npr.org/sections/health-shots/2021/07/26/1019916638/amid-massive-hospital-sell-off-corporate-giant-continues-suing-patients)
+- [More Protein Folding Progress – What’s It Mean?](https://blogs.sciencemag.org/pipeline/archives/2021/07/23/more-protein-folding-progress-whats-it-mean)
 <!-- BLOG-POST-LIST:END -->
 
 ---
