@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla 2Q 2021 Quarterly Result](https://tesla-cdn.thron.com/static/ZBOUYO_TSLA_Q2_2021_Update_DJCVNJ.pdf?xseo=&response-content-disposition=inline%3Bfilename%3D%22q2_2021.pdf%22)
+- [Making The World's Most Detailed (Print) Maps](https://ramblemaps.com/worlds-most-detailed-maps)
+- [Jupiter (YC S19) |Front End Engineer (SF/Remote)| Build Grocery Content Shopping](https://jupiter.co/careers)
 - [Hastening Linux process cleanup with process_mrelease](https://lwn.net/SubscriberLink/864184/06caefb9c8f2bbd5/)
 - [Git-blame-someone-else: Blame someone else for your bad code](https://github.com/jayphelps/git-blame-someone-else)
 - [Why can't software engineers work from home most of the time? (2016)](https://workplace.stackexchange.com/questions/80668/why-cant-software-engineers-work-from-home-most-of-the-time)
-- [NREL Open-Source Modeling Approach Simulates Low-Inertia Power Systems](https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks-the-code-of-simulating-low-inertia-power-systems.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
