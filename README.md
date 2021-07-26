@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Unix-style personal search engine and web crawler for your digital footprint](https://github.com/amirgamil/apollo)
+- [What's bad about Julia?](https://viralinstruction.com/posts/badjulia/)
 - [Japan pitches 'Society 5.0' to keep its edge in tech and science](https://asia.nikkei.com/Business/Science/Japan-pitches-Society-5.0-to-keep-its-edge-in-tech-and-science)
 - [Reducing CO2 emissions by targeting the world's hyper-polluting power plants](https://iopscience.iop.org/article/10.1088/1748-9326/ac13f1)
-- [Best Freelancer – Find the Best Fiverr Sellers in 2021](https://best-freelancer.com/)
 - [Tether executives said to face criminal probe into bank fraud](https://www.bloomberg.com/news/articles/2021-07-26/tether-executives-said-to-face-criminal-probe-into-bank-fraud)
-- [BLAKE3 1.0](https://github.com/BLAKE3-team/BLAKE3/releases/tag/1.0.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
