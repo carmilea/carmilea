@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wikipedia co-founder: I no longer trust the website I created](https://www.youtube.com/watch?v=l0P4Cf0UCwU)
+- [Debian GNU/Linux running bare metal on the Apple M1 with a mainline kernel](https://twitter.com/alyssarzg/status/1419469011734073347)
 - [Differences in Semiconductor Soft Errors Caused by Cosmic-Ray Muons and Neutrons](http://www.socionextus.com/pressreleases/socionext-and-partners-clarify-differences-between-semiconductor-soft-errors-caused-by-cosmic-ray-muons-and-neutrons/)
 - [TSMC eyes Germany as possible location for first Europe chip plant](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-eyes-Germany-as-possible-location-for-first-Europe-chip-plant)
 - [Leetcode Compensation report (India) Jan 2019 – Jul 2021](https://www.reddit.com/r/developersIndia/comments/ors1zd/leetcode_compensation_report_india_jan_2019_jul/)
