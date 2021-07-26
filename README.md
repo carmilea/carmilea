@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Haiku R1/beta3 is released](https://www.haiku-os.org/news/2021-07-26_media_release_the_haiku_project_celebrates_the_release_of_beta_3/)
+- [What I Wish I Knew About CSS When Starting Out as a Front Ender](https://engineering.kablamo.com.au/posts/2021/my-first-css)
 - [Some stuff I found interesting about number theory research](https://twitter.com/benskuhn/status/1419281153983500290)
-- [Why Japan Didn’t Create the iPod](https://blog.gatunka.com/2008/05/05/why-japan-didnt-create-the-ipod/)
-- [PC can't be shipped to CA, CO, HI, OR, VT or WA due to power consumption](https://www.dell.com/en-us/shop/gaming-and-games/cp/game?~ck=mn)
+- [Why Japan Didn’t Create the iPod (2008)](https://blog.gatunka.com/2008/05/05/why-japan-didnt-create-the-ipod/)
 - [Is Aging Inevitable?](https://joshmitteldorf.scienceblog.com/2021/06/17/is-aging-inevitable/)
-- [Case of a Man 3 Doctors Declared Dead Who Woke Up Just Before His Autopsy](https://www.sciencealert.com/the-weird-case-of-a-man-3-doctors-declared-dead-who-woke-up-just-before-his-autopsy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
