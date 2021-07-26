@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Citizen pays New Yorkers $25 an hour to livestream crime scenes](https://nypost.com/2021/07/25/citizen-pays-new-yorkers-25-an-hour-to-livestream-crime-scenes/)
-- [Bye-bye, Bitcoin: It's time to ban cryptocurrencies](https://thehill.com/opinion/cybersecurity/564696-bye-bye-bitcoin-time-to-ban-crypto-currencies)
-- [Potential role of manufactured citric acid eliciting inflammatory reactions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6097542/#abs0010title)
-- [Amid massive hospital sell-off, corporate giant continues suing patients](https://www.npr.org/sections/health-shots/2021/07/26/1019916638/amid-massive-hospital-sell-off-corporate-giant-continues-suing-patients)
-- [More Protein Folding Progress – What’s It Mean?](https://blogs.sciencemag.org/pipeline/archives/2021/07/23/more-protein-folding-progress-whats-it-mean)
+- [Why can't software engineers work from home most of the time? (2016)](https://workplace.stackexchange.com/questions/80668/why-cant-software-engineers-work-from-home-most-of-the-time)
+- [NREL Open-Source Modeling Approach Simulates Low-Inertia Power Systems](https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks-the-code-of-simulating-low-inertia-power-systems.html)
+- [Apple fixes an in-the-wild exploited 0-day (iOS 14.7.1)](https://support.apple.com/en-us/HT212623)
+- [Strengthening our workplace with neurodiverse talent](https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-launches-a-career-program-for-people-with-autism)
+- [Open offices have driven Panasonic to make horse blinders for humans (2018)](https://techcrunch.com/2018/10/17/open-offices-have-driven-panasonic-to-make-horse-blinders-for-humans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
