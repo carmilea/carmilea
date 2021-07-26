@@ -55,7 +55,7 @@
 - [APSE – A Personal Search Engine](https://apse.io/)
 - [Intel to build Qualcomm chips, aims to catch foundry rivals by 2025](https://www.reuters.com/technology/intel-build-qualcomm-chips-aims-catch-foundry-rivals-by-2025-2021-07-26/)
 - [The Insecurity Industry](https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal)
-- [Why DeFi is not a Ponzi Scheme](https://parthchopra.substack.com/p/part-2-why-defi-is-not-a-ponzi-scheme)
+- [Intel's Process Roadmap to 2025: with 4nm, 3nm, 20A and 18A?](https://www.anandtech.com/show/16823/intel-accelerated-offensive-process-roadmap-updates-to-10nm-7nm-4nm-3nm-20a-18a-packaging-foundry-emib-foveros)
 <!-- BLOG-POST-LIST:END -->
 
 ---
