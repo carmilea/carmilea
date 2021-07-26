@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Making The World's Most Detailed (Print) Maps](https://ramblemaps.com/worlds-most-detailed-maps)
-- [Jupiter (YC S19) |Front End Engineer (SF/Remote)| Build Grocery Content Shopping](https://jupiter.co/careers)
-- [Hastening Linux process cleanup with process_mrelease](https://lwn.net/SubscriberLink/864184/06caefb9c8f2bbd5/)
-- [Git-blame-someone-else: Blame someone else for your bad code](https://github.com/jayphelps/git-blame-someone-else)
-- [Why can't software engineers work from home most of the time? (2016)](https://workplace.stackexchange.com/questions/80668/why-cant-software-engineers-work-from-home-most-of-the-time)
+- [Amazon denies report of accepting Bitcoin as payment](https://www.reuters.com/business/retail-consumer/amazon-denies-report-accepting-bitcoin-payment-2021-07-26/)
+- [APSE – A Personal Search Engine](https://apse.io/)
+- [Intel to build Qualcomm chips, aims to catch foundry rivals by 2025](https://www.reuters.com/technology/intel-build-qualcomm-chips-aims-catch-foundry-rivals-by-2025-2021-07-26/)
+- [The Insecurity Industry](https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal)
+- [Why DeFi is not a Ponzi Scheme](https://parthchopra.substack.com/p/part-2-why-defi-is-not-a-ponzi-scheme)
 <!-- BLOG-POST-LIST:END -->
 
 ---
