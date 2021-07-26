@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode Compensation report (India) Jan 2019 – Jul 2021](https://www.reddit.com/r/developersIndia/comments/ors1zd/leetcode_compensation_report_india_jan_2019_jul/)
 - [Understanding Rust futures by going way too deep](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
 - [Japanese Typewriters](https://blog.gatunka.com/2009/09/30/japanese-typewriters/)
-- [Local BBC radio not available online outside UK during Tokyo Olympics](https://www.bbc.co.uk/sounds/help/issues/bbc-sounds/local-radio-olympics-2020)
 - [US set for punishing temperatures as ‘heat dome’ to settle over country](https://www.theguardian.com/us-news/2021/jul/24/america-heatwave-climate-crisis-heat-dome)
 - [Terracotta: Serverless GeoTiff Tile Server](https://github.com/DHI-GRAS/terracotta)
 <!-- BLOG-POST-LIST:END -->
