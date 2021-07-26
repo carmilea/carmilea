@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Debian GNU/Linux running bare metal on the Apple M1 with a mainline kernel](https://twitter.com/alyssarzg/status/1419469011734073347)
-- [Differences in Semiconductor Soft Errors Caused by Cosmic-Ray Muons and Neutrons](http://www.socionextus.com/pressreleases/socionext-and-partners-clarify-differences-between-semiconductor-soft-errors-caused-by-cosmic-ray-muons-and-neutrons/)
-- [TSMC eyes Germany as possible location for first Europe chip plant](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-eyes-Germany-as-possible-location-for-first-Europe-chip-plant)
-- [Leetcode Compensation report (India) Jan 2019 – Jul 2021](https://www.reddit.com/r/developersIndia/comments/ors1zd/leetcode_compensation_report_india_jan_2019_jul/)
-- [Nerdy Reading](https://www.masswerk.at/nowgobang/2021/nerdy-reading)
+- [Steven Weinberg: What Is Quantum Field Theory, and What Did We Think It Is?](https://arxiv.org/abs/9702027)
+- [Infracost (YC W21) is hiring a fullstack eng to help devs love their cloud bill](https://www.ycombinator.com/companies/infracost/jobs/mOkwnEY-senior-full-stack-engineer)
+- [Disinformation for Hire, a Shadow Industry, Is Quietly Booming](https://www.nytimes.com/2021/07/25/world/europe/disinformation-social-media.html)
+- [QR Codes Are Here to Stay. So Is the Tracking They Allow](https://www.nytimes.com/2021/07/26/technology/qr-codes-tracking.html)
+- [Cyber Insurance Incident Response: Market tends towards commoditization](https://www.cyber-economics.com/2021/07/26/cyber-insurance-incident-response-market-tends-towards-commoditization-with-competitive-prices-increasing-vc-and-m-cyber-insurance-has-built-an-overall-effective-system-to-help-especial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
