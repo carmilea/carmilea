@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intergenerational mobility over six centuries (2016)](https://voxeu.org/article/what-s-your-surname-intergenerational-mobility-over-six-centuries)
-- [The Linux Desktop Is Studded with Grifters](https://thelinuxdesktop.blog/2021/07/25/the-linux-desktop-is-studded-with-grifters/)
-- [Show HN: AI Background Remover](https://www.photoroom.com/background-remover/)
-- [Composable Data Validation with Haskell](https://www.foxhound.systems/blog/composable-data-validation/)
-- [Netcat – All you need to know](https://blog.ikuamike.io/posts/2021/netcat/)
+- [Launch HN: Abbot (YC S21) – ChatOps as a Service, inspired by GitHub's Hubot](https://news.ycombinator.com/item?id=27974077)
+- [Father builds exoskeleton to help wheelchair-bound son walk](https://www.reuters.com/lifestyle/father-builds-exoskeleton-help-wheelchair-bound-son-walk-2021-07-26/)
+- [The Muon G–2 Anomaly Explained (Comic)](https://physics.aps.org/articles/v14/47)
+- [Lets rise personal blogs again: curated list of personal blogs](https://refined.blog/)
+- [All Possible Views About Humanity's Future Are Wild](https://www.cold-takes.com/all-possible-views-about-humanitys-future-are-wild/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
