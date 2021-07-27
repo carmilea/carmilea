@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin (YC S15) Is Hiring a Chief of Staff](https://bitmovin.com/careers/5341080002?gh_jid=5341080002)
+- [U.S. Population Growth, an Economic Driver, Grinds to a Halt](https://archive.ph/GsNcf)
 - [For developers, Apple’s Safari is crap and outdated](https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/)
 - [Collision Detection Is Hard: The Story of Alf](https://nicole.express/2021/remember-alf.html)
 - [Why the Substack hype is much ado about very little](https://dankennedy.net/2020/12/09/blogging-is-dead-long-live-blogging-or-why-the-substack-hype-is-much-ado-about-very-little/)
-- [Israeli Defense unit recovered 80% of Miami collapse remains](https://www.palmbeachpost.com/story/news/2021/07/26/surfside-condo-collapse-how-israeli-team-found-majority-victims/8021350002/)
-- [Sirum (YC W15) Is Hiring a Lead Engineer to Improve Medicine Access](https://news.ycombinator.com/item?id=27967437)
 <!-- BLOG-POST-LIST:END -->
 
 ---
