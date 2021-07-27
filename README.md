@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sirum (YC W15) Is Hiring a Lead Engineer to Improve Medicine Access](https://news.ycombinator.com/item?id=27967437)
+- [Mammals dream about the world they are about to experience before they are born](https://news.yale.edu/2021/07/22/eyes-wide-shut-how-newborn-mammals-dream-world-theyre-entering)
 - [Amazon denies report of accepting Bitcoin as payment](https://www.reuters.com/business/retail-consumer/amazon-denies-report-accepting-bitcoin-payment-2021-07-26/)
 - [APSE – A Personal Search Engine](https://apse.io/)
 - [Intel to build Qualcomm chips, aims to catch foundry rivals by 2025](https://www.reuters.com/technology/intel-build-qualcomm-chips-aims-catch-foundry-rivals-by-2025-2021-07-26/)
-- [The Insecurity Industry](https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal)
-- [Intel's Process Roadmap to 2025: with 4nm, 3nm, 20A and 18A?](https://www.anandtech.com/show/16823/intel-accelerated-offensive-process-roadmap-updates-to-10nm-7nm-4nm-3nm-20a-18a-packaging-foundry-emib-foveros)
 <!-- BLOG-POST-LIST:END -->
 
 ---
