@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Modern Treasury (YC S18) is hiring our first analytics engineer](https://jobs.ashbyhq.com/moderntreasury/640c2aca-5a23-4762-b022-27039bd049cf)
 - [Wildfires in Canada are creating their own weather systems, experts say](https://www.cbc.ca/news/canada/british-columbia/western-canada-wildfires-creating-own-weather-experts-firestorm-1.6118889)
-- [Apple Reports Third Quarter Results](https://www.apple.com/newsroom/2021/07/apple-reports-third-quarter-results/)
-- [Alphabet Announces Second Quarter 2021 Results](https://abc.xyz/investor/static/pdf/2021Q2_alphabet_earnings_release.pdf?cache=4db52a1)
+- [Capitol Hill's mystery soda machine](https://en.wikipedia.org/wiki/Capitol_Hill%27s_mystery_soda_machine)
 - [Taming the Wild West: SingleStore Fast Analytics for Streaming Media](https://www.singlestore.com/blog/taming-the-wild-west-singlestore-fast-analytics-for-streaming-media)
+- [Former eBay employee gets 18 months in prison for cyberstalking campaign](https://www.reuters.com/world/us/former-ebay-employee-gets-18-months-prison-abominable-cyberstalking-campaign-2021-07-27/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
