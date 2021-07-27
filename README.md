@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Created a $350M Software Company Knowing Nothing About Software](https://techcrunch.com/2015/12/26/how-i-created-a-350m-software-company-knowing-nothing-about-software/)
+- [Israeli Defense unit recovered 80% of Miami collapse remains](https://www.palmbeachpost.com/story/news/2021/07/26/surfside-condo-collapse-how-israeli-team-found-majority-victims/8021350002/)
 - [Tesla second-quarter profits top $1bn even as it struggles to handle demand](https://www.theguardian.com/technology/2021/jul/26/tesla-profits-second-quarter-demand-chip-shortage)
 - [Sirum (YC W15) Is Hiring a Lead Engineer to Improve Medicine Access](https://news.ycombinator.com/item?id=27967437)
 - [Index machine: an open source pick and place machine](https://github.com/index-machines/index)
-- [Mammals dream about the world they are about to experience before they are born](https://news.yale.edu/2021/07/22/eyes-wide-shut-how-newborn-mammals-dream-world-theyre-entering)
-- [Amazon denies report of accepting Bitcoin as payment](https://www.reuters.com/business/retail-consumer/amazon-denies-report-accepting-bitcoin-payment-2021-07-26/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
