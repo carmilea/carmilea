@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Gave Uber Access to a Secret Feature That Can Record iPhone Screens (2017)](https://wccftech.com/apple-uber-secret-record-iphone-screen/)
-- [Launch HN: Atmana (YC S21) app to help cut down on compulsive porn usage](https://news.ycombinator.com/item?id=27971757)
-- [IBM Z/OS v2.5, Next-Gen Operating System Designed for Hybrid Cloud and AI](https://newsroom.ibm.com/2021-07-27-Announcing-IBM-z-OS-V2-5,-Next-Gen-Operating-System-Designed-for-Hybrid-Cloud-and-AI)
-- [2021 Recovery Of Great Barrier Reef Coral Cover](https://www.aims.gov.au/reef-monitoring/gbr-condition-summary-2020-2021)
-- [Lucasfilm hires the YouTube deepfaker who put its Luke cameo to shame](https://www.theverge.com/2021/7/26/22595227/star-wars-lucasfilm-mandalorian-rogue-one-hire-deepfake-shamook)
+- [Over half of Covid hospitalisations tested positive after admission](https://www.telegraph.co.uk/news/2021/07/26/exclusive-half-covid-hospitalisations-tested-positive-admission/)
+- [Threema OnPrem: Maximum Security Thanks to Self-Hosting](https://threema.ch/en/blog/posts/onprem)
+- [Getting sweet patron money on the modern internet (2020)](https://jeff-vogel.blogspot.com/2020/02/getting-sweet-patron-money-on-modern.html)
+- [Google launches new vulnerability reward platform](https://security.googleblog.com/2021/07/a-new-chapter-for-googles-vulnerability.html)
+- [Apple gave Uber access to a secret feature that can record iPhone screens (2017)](https://wccftech.com/apple-uber-secret-record-iphone-screen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
