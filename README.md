@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Element raises $30M to boost Matrix](https://matrix.org/blog/2021/07/27/element-raises-30-m-to-boost-matrix)
 - [Bitmovin (YC S15) Is Hiring a Chief of Staff](https://bitmovin.com/careers/5341080002?gh_jid=5341080002)
 - [U.S. Population Growth, an Economic Driver, Grinds to a Halt](https://archive.ph/GsNcf)
 - [For developers, Apple’s Safari is crap and outdated](https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/)
 - [Collision Detection Is Hard: The Story of Alf](https://nicole.express/2021/remember-alf.html)
-- [Why the Substack hype is much ado about very little](https://dankennedy.net/2020/12/09/blogging-is-dead-long-live-blogging-or-why-the-substack-hype-is-much-ado-about-very-little/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
