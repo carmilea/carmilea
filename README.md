@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Advertisement has a negative return on investment for more than 80% of brands](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA17674)
+- [Video game developers at Activision Blizzard say they'll walk out Wednesday](https://www.axios.com/activision-blizzard-walkout-harassment-lawsuit-fefa807b-107e-41e2-a6e2-78a086119e04.html)
+- [In Defense of Hard Counters in Real Time Strategy Games](https://waywardstrategy.com/2021/07/27/hard-counters/)
 - [Compound (YC S19) is hiring to build financial products for startup employees](https://jobs.lever.co/compound/303d6057-520a-4b63-98cd-fa764ca2d2bd)
-- [Large cars kill US pedestrians, don't make drivers safer](https://twitter.com/justin_tyndall/status/1419790491076288516)
-- [Launch HN: Abbot (YC S21) – ChatOps as a Service, inspired by GitHub's Hubot](https://news.ycombinator.com/item?id=27974077)
-- [Father builds exoskeleton to help wheelchair-bound son walk](https://www.reuters.com/lifestyle/father-builds-exoskeleton-help-wheelchair-bound-son-walk-2021-07-26/)
-- [The Muon G–2 Anomaly Explained (Comic)](https://physics.aps.org/articles/v14/47)
+- [Little ones grow up fast](https://jenniferbrogdon.substack.com/p/room-c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
