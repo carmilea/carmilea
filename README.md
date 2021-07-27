@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Euthanasia Coaster](https://en.wikipedia.org/wiki/Euthanasia_Coaster)
+- [Lucasfilm hires the YouTube deepfaker who put its Luke cameo to shame](https://www.theverge.com/2021/7/26/22595227/star-wars-lucasfilm-mandalorian-rogue-one-hire-deepfake-shamook)
+- [Beacons (YC S19) is hiring fullstack and front end React engineers (SF/remote)](https://boards.greenhouse.io/beacons/jobs/4056358004)
+- [Mercedes-Benz teases super-efficient EV with over 1k km (620 miles) of range](https://electrek.co/2021/07/22/mercedes-benz-teases-super-efficient-electric-car/)
 - [All Xero services facing major outage](https://status.xero.com/)
 - [Candide – Identify Plants with a Photo](https://candidegardening.com/GB/identify-plants)
-- [It’s Not a Self-Driving Car Unless You Can Sleep in It](https://groundtruthautonomy.com/its-not-self-driving-car-unless-you-can-sleep-in-it/)
-- [Columbo: An Origin Story](https://columbophile.com/2018/02/17/columbo-an-origin-story/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
