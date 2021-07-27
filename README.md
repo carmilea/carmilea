@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TV Advertising Effectiveness: Generalizable Results From 288 Brands](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA17674)
-- [Video game developers at Activision Blizzard say they'll walk out Wednesday](https://www.axios.com/activision-blizzard-walkout-harassment-lawsuit-fefa807b-107e-41e2-a6e2-78a086119e04.html)
-- [In Defense of Hard Counters in Real Time Strategy Games](https://waywardstrategy.com/2021/07/27/hard-counters/)
-- [Compound (YC S19) is hiring to build financial products for startup employees](https://jobs.lever.co/compound/303d6057-520a-4b63-98cd-fa764ca2d2bd)
-- [Little ones grow up fast](https://jenniferbrogdon.substack.com/p/room-c)
+- [Hack NFL data using Postgres (and maybe win your fantasy draft)](https://blog.timescale.com/blog/hacking-nfl-data-with-postgresql-timescaledb-and-sql/)
+- [Former eBay employee gets 18 months in prison for cyberstalking campaign](https://www.reuters.com/world/us/former-ebay-employee-gets-18-months-prison-abominable-cyberstalking-campaign-2021-07-27/)
+- [United States sells Wu-Tang album forfeited by Martin Shkreli](https://www.justice.gov/usao-edny/pr/united-states-sells-unique-wu-tang-clan-album-forfeited-convicted-hedge-fund-manager)
+- [Handling 100 Requests per Second with Python and Django](https://www.ethicalads.io/blog/2021/07/handling-100-requests-per-second-with-python-django/)
+- [TV Advertising Effectiveness and Profitability](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA17674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
