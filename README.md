@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Over half of Covid hospitalisations tested positive after admission](https://www.telegraph.co.uk/news/2021/07/26/exclusive-half-covid-hospitalisations-tested-positive-admission/)
-- [Threema OnPrem: Maximum Security Thanks to Self-Hosting](https://threema.ch/en/blog/posts/onprem)
-- [Getting sweet patron money on the modern internet (2020)](https://jeff-vogel.blogspot.com/2020/02/getting-sweet-patron-money-on-modern.html)
-- [Google launches new vulnerability reward platform](https://security.googleblog.com/2021/07/a-new-chapter-for-googles-vulnerability.html)
-- [Apple gave Uber access to a secret feature that can record iPhone screens (2017)](https://wccftech.com/apple-uber-secret-record-iphone-screen/)
+- [Intergenerational mobility over six centuries (2016)](https://voxeu.org/article/what-s-your-surname-intergenerational-mobility-over-six-centuries)
+- [The Linux Desktop Is Studded with Grifters](https://thelinuxdesktop.blog/2021/07/25/the-linux-desktop-is-studded-with-grifters/)
+- [Show HN: AI Background Remover](https://www.photoroom.com/background-remover/)
+- [Composable Data Validation with Haskell](https://www.foxhound.systems/blog/composable-data-validation/)
+- [Netcat – All you need to know](https://blog.ikuamike.io/posts/2021/netcat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
