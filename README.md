@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Euthanasia Coaster](https://en.wikipedia.org/wiki/Euthanasia_Coaster)
+- [All Xero services facing major outage](https://status.xero.com/)
 - [Candide – Identify Plants with a Photo](https://candidegardening.com/GB/identify-plants)
+- [It’s Not a Self-Driving Car Unless You Can Sleep in It](https://groundtruthautonomy.com/its-not-self-driving-car-unless-you-can-sleep-in-it/)
 - [Columbo: An Origin Story](https://columbophile.com/2018/02/17/columbo-an-origin-story/)
-- [Element raises $30M to boost Matrix](https://matrix.org/blog/2021/07/27/element-raises-30-m-to-boost-matrix)
-- [Bitmovin (YC S15) Is Hiring a Chief of Staff](https://bitmovin.com/careers/5341080002?gh_jid=5341080002)
-- [For developers, Apple’s Safari is crap and outdated](https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
