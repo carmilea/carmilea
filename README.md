@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Gave Uber Access to a Secret Feature That Can Record iPhone Screens (2017)](https://wccftech.com/apple-uber-secret-record-iphone-screen/)
+- [Launch HN: Atmana (YC S21) app to help cut down on compulsive porn usage](https://news.ycombinator.com/item?id=27971757)
+- [IBM Z/OS v2.5, Next-Gen Operating System Designed for Hybrid Cloud and AI](https://newsroom.ibm.com/2021-07-27-Announcing-IBM-z-OS-V2-5,-Next-Gen-Operating-System-Designed-for-Hybrid-Cloud-and-AI)
+- [2021 Recovery Of Great Barrier Reef Coral Cover](https://www.aims.gov.au/reef-monitoring/gbr-condition-summary-2020-2021)
 - [Lucasfilm hires the YouTube deepfaker who put its Luke cameo to shame](https://www.theverge.com/2021/7/26/22595227/star-wars-lucasfilm-mandalorian-rogue-one-hire-deepfake-shamook)
-- [Beacons (YC S19) is hiring fullstack and front end React engineers (SF/remote)](https://boards.greenhouse.io/beacons/jobs/4056358004)
-- [Mercedes-Benz teases super-efficient EV with over 1k km (620 miles) of range](https://electrek.co/2021/07/22/mercedes-benz-teases-super-efficient-electric-car/)
-- [All Xero services facing major outage](https://status.xero.com/)
-- [Candide – Identify Plants with a Photo](https://candidegardening.com/GB/identify-plants)
 <!-- BLOG-POST-LIST:END -->
 
 ---
