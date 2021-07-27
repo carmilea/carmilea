@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Advertisement has a negative return on investment for more than 80% of brands](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA17674)
+- [TV Advertising Effectiveness: Generalizable Results From 288 Brands](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA17674)
 - [Video game developers at Activision Blizzard say they'll walk out Wednesday](https://www.axios.com/activision-blizzard-walkout-harassment-lawsuit-fefa807b-107e-41e2-a6e2-78a086119e04.html)
 - [In Defense of Hard Counters in Real Time Strategy Games](https://waywardstrategy.com/2021/07/27/hard-counters/)
 - [Compound (YC S19) is hiring to build financial products for startup employees](https://jobs.lever.co/compound/303d6057-520a-4b63-98cd-fa764ca2d2bd)
