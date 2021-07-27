@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Columbo: An Origin Story – The Columbophile](https://columbophile.com/2018/02/17/columbo-an-origin-story/)
 - [Element raises $30M to boost Matrix](https://matrix.org/blog/2021/07/27/element-raises-30-m-to-boost-matrix)
 - [Bitmovin (YC S15) Is Hiring a Chief of Staff](https://bitmovin.com/careers/5341080002?gh_jid=5341080002)
-- [U.S. Population Growth, an Economic Driver, Grinds to a Halt](https://archive.ph/GsNcf)
 - [For developers, Apple’s Safari is crap and outdated](https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/)
 - [Collision Detection Is Hard: The Story of Alf](https://nicole.express/2021/remember-alf.html)
 <!-- BLOG-POST-LIST:END -->
