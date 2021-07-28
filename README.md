@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NSA Mobile Device Best Practices](https://www.documentcloud.org/documents/21018353-nsa-mobile-device-best-practices)
-- [5 Habits of Highly Ineffective Remote Workers](https://betterprogramming.pub/5-habits-of-highly-ineffective-remote-workers-a9f5f87f3118)
-- [Launch HN: Legion Health (YC S21) – Smarter Staffing for Mental Health](https://news.ycombinator.com/item?id=27983197)
-- [France issues moratorium on prion research after fatal brain disease strikes](https://www.sciencemag.org/news/2021/07/france-issues-moratorium-prion-research-after-fatal-brain-disease-strikes-two-lab)
-- [IPv4 pricing](https://docs.hetzner.com/general/others/ipv4-pricing/)
+- [Drowning Doesn’t Look Like Drowning](https://slate.com/technology/2013/06/rescuing-drowning-children-how-to-know-when-someone-is-in-trouble-in-the-water.html)
+- [Techdirt Is Now Without Any Google Ads or Tracking Code](https://www.techdirt.com/articles/20210726/09441047251/techdirt-is-now-entirely-without-any-google-ads-tracking-code.shtml)
+- [Toyota bet wrong on EVs, so now it’s lobbying to slow the transition](https://arstechnica.com/cars/2021/07/toyota-bet-wrong-on-evs-so-now-its-lobbying-to-slow-the-transition/)
+- [No, Facebook and Google Are Not Public Utilities](https://www.wired.com/story/no-facebook-google-not-public-utilities/)
+- [Ajit Pai apparently mismanaged $9B fund–new FCC boss starts “cleanup”](https://arstechnica.com/tech-policy/2021/07/ajit-pai-apparently-mismanaged-9-billion-fund-new-fcc-boss-starts-cleanup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
