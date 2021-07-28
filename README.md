@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Silently Dropping Emails – A Sad but True Story](https://www.nerd-quickies.net/2020/10/20/microsoft-silently-dropping-emails-a-sad-but-true-story/)
+- [Pfizerleak: Exposing the Pfizer Manufacturing and Supply Agreement](https://mythreadreader.com/eh_den/1419653002818990085)
+- [Microsoft Silently Dropping Emails – a Sad but True Story (2020)](https://www.nerd-quickies.net/2020/10/20/microsoft-silently-dropping-emails-a-sad-but-true-story/)
+- [I went to the office for the first time. I fucking hated it](https://www.reddit.com/r/cscareerquestions/comments/oosru6/i_went_to_the_office_for_the_first_time_i_fucking/)
 - [Coding with Character – Monospaced fonts can be playful and fun](https://realdougwilson.com/writing/coding-with-character)
 - [Ask a Bartender a Question](https://www.datasecretslox.com/index.php/topic,4086.msg135692.html)
-- [Striking new Beeping Busy Beaver champion](https://www.scottaaronson.com/blog/?p=5661)
-- [Windows 96](https://windows96.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
