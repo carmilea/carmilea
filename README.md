@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I went to the office for the first time. I f-g hated it](https://www.reddit.com/r/cscareerquestions/comments/oosru6/i_went_to_the_office_for_the_first_time_i_fucking/)
+- [Microsoft Silently Dropping Emails – A Sad but True Story](https://www.nerd-quickies.net/2020/10/20/microsoft-silently-dropping-emails-a-sad-but-true-story/)
 - [Coding with Character – Monospaced fonts can be playful and fun](https://realdougwilson.com/writing/coding-with-character)
-- [Facebook creates new unit to build a “metaverse”](https://www.axios.com/facebook-metaverse-product-unit-88523382-7c54-4a2c-8bcd-061ac2266887.html)
+- [Ask a Bartender a Question](https://www.datasecretslox.com/index.php/topic,4086.msg135692.html)
 - [Striking new Beeping Busy Beaver champion](https://www.scottaaronson.com/blog/?p=5661)
-- ['No-code' startup Bubble raises $100 mln in round led by Insight Partners](https://www.reuters.com/technology/no-code-startup-bubble-raises-100-mln-in-round-led-by-insight-partners-2021-07-27/)
+- [Windows 96](https://windows96.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
