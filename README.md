@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Offices to Mandate Vaccines](https://www.axios.com/google-office-mandate-vaccines-covid-b29a4993-9bdd-4c15-8b8a-e94fe4240878.html)
+- [Vaccines and our return to office plans](https://blog.google/inside-google/company-announcements/vaccines-and-our-return-to-office-plans/)
+- [Dendron (YC W21) is hiring a Head of Growth to help devs organize their notes](https://wiki.dendron.so/notes/7K1nizLK9AJkOwjQ.html)
+- [IPv6 Watch](https://ipv6.watch/)
 - [Triton: Open-Source GPU Programming for Neural Networks](https://www.openai.com/blog/triton/)
-- [DigitalOcean Outage](https://status.digitalocean.com)
-- [DigitalOcean Down?](https://cloud.digitalocean.com/)
-- [Brave New LA: Aldous Huxley in Los Angeles (2013)](https://lareviewofbooks.org/article/aldous-huxley-in-los-angeles/)
-- [We should build for wildlife as well as people](https://www.bbc.com/future/article/20210727-how-to-boost-biodiversity-and-attract-wildlife-to-your-home)
 <!-- BLOG-POST-LIST:END -->
 
 ---
