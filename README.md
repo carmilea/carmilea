@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pfizer says 2021 Covid-19 vaccine sales to top $33.5 bln, sees need for boosters](https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-raises-estimates-2021-sales-covid-19-vaccine-335-bln-2021-07-28/)
+- [Tesla auto-pilot keeps confusing moon with traffic light then slowing down](https://www.reddit.com/r/SelfDrivingCars/comments/orz21z/tesla_autopilot_keeps_confusing_moon_with_traffic/)
+- [Evil programmer's tip: avoid “easy” things](http://yosefk.com/blog/evil-tip-avoid-easy-things.html)
+- [Drum Synthesis in JavaScript](https://www.nickwritesablog.com/drum-synthesis-in-javascript/)
 - [Invasive Ad Targeting Is Bad for Journalism and Other High-Quality Publishers](https://www.ethicalads.io/blog/2021/05/how-invasive-ad-targeting-is-bad-for-journalism-and-other-high-quality-publishers/)
-- [Rio Tinto blew up 46,000-year-old Aboriginal caves in Western Australia (2020)](https://www.bbc.com/news/world-australia-52869502)
-- [Do you want to be making this much money when you're 50? (2012)](http://yosefk.com/blog/do-you-really-want-to-be-making-this-much-money-when-youre-50.html)
-- [Perceptual distortions in late-teens predict psychotic symptoms in mid-life](https://www.binghamton.edu/news/story/3179/early-signs-perceptual-distortions-in-late-teens-predict-psychotic-symptoms-in-mid-life)
+- [SingleStore Industry Recognition - From Analysts and Customers](https://www.singlestore.com/blog/singlestore-industry-recognition-from-analysts-and-customers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
