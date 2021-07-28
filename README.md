@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Legion Health (YC S21) – Smarter Staffing for Mental Health](https://news.ycombinator.com/item?id=27983197)
+- [France issues moratorium on prion research after fatal brain disease strikes](https://www.sciencemag.org/news/2021/07/france-issues-moratorium-prion-research-after-fatal-brain-disease-strikes-two-lab)
+- [IPv4 pricing](https://docs.hetzner.com/general/others/ipv4-pricing/)
+- [The Flakka Drug Epidemic: Inside the Outbreak of the 'Zombie' Stimulant](https://allthatsinteresting.com/flakka-drug)
 - [Software Dark Ages](https://threedots.tech/post/software-dark-ages/)
-- [InnaMed (YC W17) Is Hiring a React Native Engineer](https://www.ycombinator.com/companies/innamed/jobs/xsAj0UY-react-native-android-developer)
-- [SSD belonging to Euro-cloud Scaleway was stolen,then turned up on YouTube](https://www.theregister.com/2021/07/27/stolen_scaleway_ssd_recovered/)
-- [Orbiter Space Flight Simulator is now open source](https://www.orbiter-forum.com/threads/orbiter-is-now-open-source.40023/)
-- [External IPv6 addresses for VM instances is now in General Availability](https://cloud.google.com/vpc/docs/release-notes#July_20_2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
