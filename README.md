@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding a kernel regression in half an hour with Git bisect run](https://ldpreload.com/blog/git-bisect-run)
-- [The Twopenny Hangover](https://mikedashhistory.com/2021/05/19/the-twopenny-hangover/)
-- ['Arthur,' the Longest-Running Kids Animated Series in History, Is Ending](https://text.npr.org/1021687616)
-- [Journey (YC W21) is hiring a front-end centric founding engineer](https://jny.journey.io/p/3acc112064fc4edcbb222800198827c2?email=hnjob@yc.com)
-- [US home prices surge 17% in May, fastest in 17 years](https://abcnews.go.com/US/wireStory/us-home-prices-surge-17-fastest-17-years-79087343)
+- [Israeli government raids NSO Group offices](https://therecord.media/israeli-government-raids-nso-group-offices/)
+- [Amiga at NASA (1999)](http://obligement.free.fr/articles_traduction/amiganasa_en.php)
+- [Dusty Hill of ZZ Top Dead](https://en.wikipedia.org/wiki/Dusty_Hill)
+- [Finding a kernel regression in half an hour with git bisect run](https://ldpreload.com/blog/git-bisect-run)
+- [First detection of light from behind a black hole](https://news.stanford.edu/2021/07/28/first-detection-light-behind-black-hole/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
