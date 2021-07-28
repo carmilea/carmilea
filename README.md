@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding a kernel regression in half an hour with Git bisect run](https://ldpreload.com/blog/git-bisect-run)
+- [The Twopenny Hangover](https://mikedashhistory.com/2021/05/19/the-twopenny-hangover/)
+- ['Arthur,' the Longest-Running Kids Animated Series in History, Is Ending](https://text.npr.org/1021687616)
 - [Journey (YC W21) is hiring a front-end centric founding engineer](https://jny.journey.io/p/3acc112064fc4edcbb222800198827c2?email=hnjob@yc.com)
 - [US home prices surge 17% in May, fastest in 17 years](https://abcnews.go.com/US/wireStory/us-home-prices-surge-17-fastest-17-years-79087343)
-- [Thanks to interbreeding, just 7% of our DNA is unique to modern humans](https://www.latimes.com/science/story/2021-07-16/thanks-to-interbreeding-just-7-of-our-dna-is-unique-to-modern-humans-study-shows)
-- [What I Know About Cleaning and Seasoning Cast-Iron Skillets](https://www.americastestkitchen.com/articles/3615-how-to-clean-and-season-cast-iron-skillets?extcode=NSAKG28TW&utm_source=twitter&utm_medium=photo&utm_content=castiron&utm_campaign=akoarticles)
-- [Fast Piratebay Proxy – Thepiratebay.host](https://thepiratebay.host)
 <!-- BLOG-POST-LIST:END -->
 
 ---
