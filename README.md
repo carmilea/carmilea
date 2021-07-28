@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Striking new Beeping Busy Beaver champion](https://www.scottaaronson.com/blog/?p=5661)
+- [KeyCastr, an open-source keystroke visualizer](https://github.com/keycastr/keycastr)
 - [Windows 96](https://windows96.net)
 - [Modern Treasury (YC S18) is hiring our first analytics engineer](https://jobs.ashbyhq.com/moderntreasury/640c2aca-5a23-4762-b022-27039bd049cf)
 - [Wildfires in Canada are creating their own weather systems, experts say](https://www.cbc.ca/news/canada/british-columbia/western-canada-wildfires-creating-own-weather-experts-firestorm-1.6118889)
-- [Apple Reports Third Quarter Results](https://www.apple.com/newsroom/2021/07/apple-reports-third-quarter-results/)
-- [Capitol Hill's mystery soda machine](https://en.wikipedia.org/wiki/Capitol_Hill%27s_mystery_soda_machine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
