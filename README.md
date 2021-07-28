@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla auto-pilot keeps confusing moon with traffic light then slowing down](https://www.reddit.com/r/SelfDrivingCars/comments/orz21z/tesla_autopilot_keeps_confusing_moon_with_traffic/)
-- [Evil programmer's tip: avoid “easy” things](http://yosefk.com/blog/evil-tip-avoid-easy-things.html)
-- [Drum Synthesis in JavaScript](https://www.nickwritesablog.com/drum-synthesis-in-javascript/)
-- [Invasive Ad Targeting Is Bad for Journalism and Other High-Quality Publishers](https://www.ethicalads.io/blog/2021/05/how-invasive-ad-targeting-is-bad-for-journalism-and-other-high-quality-publishers/)
-- [SingleStore Industry Recognition - From Analysts and Customers](https://www.singlestore.com/blog/singlestore-industry-recognition-from-analysts-and-customers)
+- [Journey (YC W21) is hiring a front-end centric founding engineer](https://jny.journey.io/p/3acc112064fc4edcbb222800198827c2?email=hnjob@yc.com)
+- [US home prices surge 17% in May, fastest in 17 years](https://abcnews.go.com/US/wireStory/us-home-prices-surge-17-fastest-17-years-79087343)
+- [Thanks to interbreeding, just 7% of our DNA is unique to modern humans](https://www.latimes.com/science/story/2021-07-16/thanks-to-interbreeding-just-7-of-our-dna-is-unique-to-modern-humans-study-shows)
+- [What I Know About Cleaning and Seasoning Cast-Iron Skillets](https://www.americastestkitchen.com/articles/3615-how-to-clean-and-season-cast-iron-skillets?extcode=NSAKG28TW&utm_source=twitter&utm_medium=photo&utm_content=castiron&utm_campaign=akoarticles)
+- [Fast Piratebay Proxy – Thepiratebay.host](https://thepiratebay.host)
 <!-- BLOG-POST-LIST:END -->
 
 ---
