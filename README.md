@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I've got a broken combine harvester – manufacturer won't give me software key](https://www.theregister.com/2021/07/27/right_to_repair_activists_welcome_policy_wins/)
-- [Launch HN: Swipe (YC S21) – Simple Billing and Accounting for India](https://news.ycombinator.com/item?id=27981659)
-- [Funding GIMP developers for sustainable development](https://www.gimp.org/news/2021/07/27/support-gimp-developers-sustainable-development/)
-- [The House That Vanished](https://www.bbc.co.uk/programmes/articles/1zlpQCXsH01jKYjzCzTYF33/how-can-a-house-just-disappear)
-- [Raycast (YC W20) Is Hiring React / macOS Engineers to Make Devs More Productive](https://raycast.com/jobs)
+- [Software Dark Ages](https://threedots.tech/post/software-dark-ages/)
+- [InnaMed (YC W17) Is Hiring a React Native Engineer](https://www.ycombinator.com/companies/innamed/jobs/xsAj0UY-react-native-android-developer)
+- [SSD belonging to Euro-cloud Scaleway was stolen,then turned up on YouTube](https://www.theregister.com/2021/07/27/stolen_scaleway_ssd_recovered/)
+- [Orbiter Space Flight Simulator is now open source](https://www.orbiter-forum.com/threads/orbiter-is-now-open-source.40023/)
+- [External IPv6 addresses for VM instances is now in General Availability](https://cloud.google.com/vpc/docs/release-notes#July_20_2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
