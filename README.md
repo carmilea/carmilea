@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Drowning Doesn’t Look Like Drowning](https://slate.com/technology/2013/06/rescuing-drowning-children-how-to-know-when-someone-is-in-trouble-in-the-water.html)
-- [Techdirt Is Now Without Any Google Ads or Tracking Code](https://www.techdirt.com/articles/20210726/09441047251/techdirt-is-now-entirely-without-any-google-ads-tracking-code.shtml)
-- [Toyota bet wrong on EVs, so now it’s lobbying to slow the transition](https://arstechnica.com/cars/2021/07/toyota-bet-wrong-on-evs-so-now-its-lobbying-to-slow-the-transition/)
-- [No, Facebook and Google Are Not Public Utilities](https://www.wired.com/story/no-facebook-google-not-public-utilities/)
-- [Ajit Pai apparently mismanaged $9B fund–new FCC boss starts “cleanup”](https://arstechnica.com/tech-policy/2021/07/ajit-pai-apparently-mismanaged-9-billion-fund-new-fcc-boss-starts-cleanup/)
+- [Triton: Open-Source GPU Programming for Neural Networks](https://www.openai.com/blog/triton/)
+- [DigitalOcean Outage](https://status.digitalocean.com)
+- [DigitalOcean Down?](https://cloud.digitalocean.com/)
+- [Brave New LA: Aldous Huxley in Los Angeles (2013)](https://lareviewofbooks.org/article/aldous-huxley-in-los-angeles/)
+- [We should build for wildlife as well as people](https://www.bbc.com/future/article/20210727-how-to-boost-biodiversity-and-attract-wildlife-to-your-home)
 <!-- BLOG-POST-LIST:END -->
 
 ---
