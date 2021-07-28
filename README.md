@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook creates new unit to build a “metaverse”](https://www.axios.com/facebook-metaverse-product-unit-88523382-7c54-4a2c-8bcd-061ac2266887.html)
 - [Striking new Beeping Busy Beaver champion](https://www.scottaaronson.com/blog/?p=5661)
+- ['No-code' startup Bubble raises $100 mln in round led by Insight Partners](https://www.reuters.com/technology/no-code-startup-bubble-raises-100-mln-in-round-led-by-insight-partners-2021-07-27/)
 - [KeyCastr, an open-source keystroke visualizer](https://github.com/keycastr/keycastr)
 - [Windows 96](https://windows96.net)
-- [Modern Treasury (YC S18) is hiring our first analytics engineer](https://jobs.ashbyhq.com/moderntreasury/640c2aca-5a23-4762-b022-27039bd049cf)
-- [Wildfires in Canada are creating their own weather systems, experts say](https://www.cbc.ca/news/canada/british-columbia/western-canada-wildfires-creating-own-weather-experts-firestorm-1.6118889)
 <!-- BLOG-POST-LIST:END -->
 
 ---
