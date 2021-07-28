@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I've got a broken combine harvester – manufacturer won't give me software key](https://www.theregister.com/2021/07/27/right_to_repair_activists_welcome_policy_wins/)
 - [Launch HN: Swipe (YC S21) – Simple Billing and Accounting for India](https://news.ycombinator.com/item?id=27981659)
 - [Funding GIMP developers for sustainable development](https://www.gimp.org/news/2021/07/27/support-gimp-developers-sustainable-development/)
 - [The House That Vanished](https://www.bbc.co.uk/programmes/articles/1zlpQCXsH01jKYjzCzTYF33/how-can-a-house-just-disappear)
 - [Raycast (YC W20) Is Hiring React / macOS Engineers to Make Devs More Productive](https://raycast.com/jobs)
-- [Microsoft Silently Dropping Emails – a Sad but True Story (2020)](https://www.nerd-quickies.net/2020/10/20/microsoft-silently-dropping-emails-a-sad-but-true-story/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
