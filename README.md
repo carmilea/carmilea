@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NSA Mobile Device Best Practices](https://www.documentcloud.org/documents/21018353-nsa-mobile-device-best-practices)
+- [5 Habits of Highly Ineffective Remote Workers](https://betterprogramming.pub/5-habits-of-highly-ineffective-remote-workers-a9f5f87f3118)
 - [Launch HN: Legion Health (YC S21) – Smarter Staffing for Mental Health](https://news.ycombinator.com/item?id=27983197)
 - [France issues moratorium on prion research after fatal brain disease strikes](https://www.sciencemag.org/news/2021/07/france-issues-moratorium-prion-research-after-fatal-brain-disease-strikes-two-lab)
 - [IPv4 pricing](https://docs.hetzner.com/general/others/ipv4-pricing/)
-- [The Flakka Drug Epidemic: Inside the Outbreak of the 'Zombie' Stimulant](https://allthatsinteresting.com/flakka-drug)
-- [Software Dark Ages](https://threedots.tech/post/software-dark-ages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
