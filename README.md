@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pfizer says 2021 Covid-19 vaccine sales to top $33.5 bln, sees need for boosters](https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-raises-estimates-2021-sales-covid-19-vaccine-335-bln-2021-07-28/)
+- [Invasive Ad Targeting Is Bad for Journalism and Other High-Quality Publishers](https://www.ethicalads.io/blog/2021/05/how-invasive-ad-targeting-is-bad-for-journalism-and-other-high-quality-publishers/)
 - [Rio Tinto blew up 46,000-year-old Aboriginal caves in Western Australia (2020)](https://www.bbc.com/news/world-australia-52869502)
+- [Do you want to be making this much money when you're 50? (2012)](http://yosefk.com/blog/do-you-really-want-to-be-making-this-much-money-when-youre-50.html)
 - [Perceptual distortions in late-teens predict psychotic symptoms in mid-life](https://www.binghamton.edu/news/story/3179/early-signs-perceptual-distortions-in-late-teens-predict-psychotic-symptoms-in-mid-life)
-- [Maker's Schedule, Manager's Schedule (2009)](http://www.paulgraham.com/makersschedule.html)
-- [Climate tipping points are now imminent, scientists warn](https://www.dw.com/en/climate-tipping-points-are-now-imminent-scientists-warn/a-58665256)
-- [Court orders US Capitol rioter to unlock his laptop ‘with his face’](https://techcrunch.com/2021/07/26/court-orders-us-capitol-rioter-to-unlock-his-laptop-with-his-face/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
