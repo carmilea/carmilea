@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pfizerleak: Exposing the Pfizer Manufacturing and Supply Agreement](https://mythreadreader.com/eh_den/1419653002818990085)
+- [Raycast (YC W20) Is Hiring React / macOS Engineers to Make Devs More Productive](https://raycast.com/jobs)
 - [Microsoft Silently Dropping Emails – a Sad but True Story (2020)](https://www.nerd-quickies.net/2020/10/20/microsoft-silently-dropping-emails-a-sad-but-true-story/)
 - [I went to the office for the first time. I fucking hated it](https://www.reddit.com/r/cscareerquestions/comments/oosru6/i_went_to_the_office_for_the_first_time_i_fucking/)
 - [Coding with Character – Monospaced fonts can be playful and fun](https://realdougwilson.com/writing/coding-with-character)
-- [Ask a Bartender a Question](https://www.datasecretslox.com/index.php/topic,4086.msg135692.html)
+- [Ask a bartender a question](https://www.datasecretslox.com/index.php/topic,4086.msg135692.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
