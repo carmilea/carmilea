@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Offices to Mandate Vaccines](https://www.axios.com/google-office-mandate-vaccines-covid-b29a4993-9bdd-4c15-8b8a-e94fe4240878.html)
-- [Vaccines and our return to office plans](https://blog.google/inside-google/company-announcements/vaccines-and-our-return-to-office-plans/)
-- [Dendron (YC W21) is hiring a Head of Growth to help devs organize their notes](https://wiki.dendron.so/notes/7K1nizLK9AJkOwjQ.html)
-- [IPv6 Watch](https://ipv6.watch/)
-- [Triton: Open-Source GPU Programming for Neural Networks](https://www.openai.com/blog/triton/)
+- [Rio Tinto blew up 46,000-year-old Aboriginal caves in Western Australia (2020)](https://www.bbc.com/news/world-australia-52869502)
+- [Perceptual distortions in late-teens predict psychotic symptoms in mid-life](https://www.binghamton.edu/news/story/3179/early-signs-perceptual-distortions-in-late-teens-predict-psychotic-symptoms-in-mid-life)
+- [Maker's Schedule, Manager's Schedule (2009)](http://www.paulgraham.com/makersschedule.html)
+- [Climate tipping points are now imminent, scientists warn](https://www.dw.com/en/climate-tipping-points-are-now-imminent-scientists-warn/a-58665256)
+- [Court orders US Capitol rioter to unlock his laptop ‘with his face’](https://techcrunch.com/2021/07/26/court-orders-us-capitol-rioter-to-unlock-his-laptop-with-his-face/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
