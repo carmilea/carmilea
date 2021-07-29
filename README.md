@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One Tenth of a Second](https://studio.ribbonfarm.com/p/one-tenth-of-a-second)
 - [Top Routinely Exploited Vulnerabilities](https://us-cert.cisa.gov/ncas/alerts/aa21-209a)
+- [AWS Support for Internet Explorer 11 Is Ending](https://aws.amazon.com/blogs/aws/heads-up-aws-support-for-internet-explorer-11-is-ending/)
 - [Hunting a bug in the i40e Intel driver](https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/)
-- [UpCodes is hiring our first PM to automate compliance for architects](https://up.codes/careers#product_manager)
-- [“We do not plan to publish the AWS CLI project to PyPI at this time”](https://github.com/aws/aws-cli/issues/4947)
-- [Facebook Wanted NSO Spyware to Monitor Users, NSO CEO Claims (2020)](https://www.vice.com/en/article/pke9k9/facebook-wanted-nso-spyware-to-monitor-users)
+- [Pedestrian Deaths and Large Vehicles](https://www.sciencedirect.com/science/article/abs/pii/S2212012221000241?dgcid=author)
 <!-- BLOG-POST-LIST:END -->
 
 ---
