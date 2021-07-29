@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CATL Unveils First Generation of Sodium-Ion Batteries](https://www.catl.com/en/news/665.html)
-- [“The Stasi Had a Giant Smell Register of Dissidents”](https://m.dw.com/en/the-stasi-had-a-giant-smell-register-of-dissidents/a-2555053)
-- [FSF-calls for white papers on philosophical and legal questions around Copilot](https://www.fsf.org/blogs/licensing/fsf-funded-call-for-white-papers-on-philosophical-and-legal-questions-around-copilot)
-- [Clubhouse opens its doors to everyone, is anyone rushing to get in?](https://www.wired.com/story/clubhouse-opens-its-doors-is-anyone-rushing-to-get-in/)
-- [Undetectable quantum computation and communication for alien civilizations](https://arxiv.org/abs/2107.13023)
+- [Show HN: Procfile runner with interactive log viewer GUI](https://exo.deref.io/)
+- [Bristle (YC W21) is hiring engineers to improve oral health care](https://bristle.notion.site/Careers-Bristle-YC-W21-f7a66759282a4a1195cbafdce00a8722)
+- [Announcing Vitess 11](https://vitess.io/blog/2021-07-27-announcing-vitess-11/)
+- [Bootstrapping a multiplayer server with Elixir at X-Plane](https://elixir-lang.org/blog/2021/07/29/bootstraping-a-multiplayer-server-with-elixir-at-x-plane/)
+- [US states brace for ‘avalanche’ of evictions as federal moratorium ends](https://www.theguardian.com/us-news/2021/jul/29/eviction-moratorium-expiration-renters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
