@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bloom is hiring a Software Engineer to build the future of human connection](https://news.ycombinator.com/item?id=27991593)
+- [Water transformed into shiny, golden metal](https://www.nature.com/articles/d41586-021-02065-w)
 - [Automated Configuration and Selection of SAT Solvers [pdf]](https://www.cs.ubc.ca/~kevinlb/papers/2021-SAT-handbook-chapter.pdf)
 - [The mermaid is taking over Google search in Norway](https://alexskra.com/blog/the-mermaid-is-taking-over-google-search-in-norway/)
 - [Activision Blizzard employees walk out over harassment and ‘frat boy’ culture](https://www.theguardian.com/us-news/2021/jul/28/activision-blizzard-walkout-allegations-harassment-frat-boy-culture)
-- [Calculus Made Easy](https://calculusmadeeasy.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
