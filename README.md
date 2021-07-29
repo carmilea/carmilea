@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pfizer backs down over ‘unreasonable’ terms in South Africa vaccine deal](https://mg.co.za/news/2021-04-19-pfizer-backs-down-over-unreasonable-terms-in-south-africa-vaccine-deal/)
+- [Clever carpentry helps bees fix wild honeycombs](https://www.sciencemag.org/news/2021/07/clever-carpentry-helps-bees-fix-wild-honeycombs)
 - [Renewables became the second-most prevalent U.S. electricity source in 2020](https://www.eia.gov/todayinenergy/detail.php?id=48896)
 - [Duolingo reaches $6.5B valuation on day of IPO](https://www.reuters.com/technology/duolingo-valued-65-bln-shares-soar-debut-2021-07-28/)
-- [BMOW 1 Computer (2008)](https://www.bigmessowires.com/bmow1/)
 - [Command line tools for productive programmers](https://earthly.dev/blog/command-line-tools/)
-- [Bloom is hiring a Software Engineer to build the future of human connection](https://news.ycombinator.com/item?id=27991593)
 <!-- BLOG-POST-LIST:END -->
 
 ---
