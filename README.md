@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Routinely Exploited Vulnerabilities](https://us-cert.cisa.gov/ncas/alerts/aa21-209a)
+- [Hunting a bug in the i40e Intel driver](https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/)
 - [UpCodes is hiring our first PM to automate compliance for architects](https://up.codes/careers#product_manager)
-- [Where Is the World’s Best Weather? (2020)](https://leisurepurpose.wordpress.com/2020/03/24/weather/)
-- [Event Horizon Telescope captures ‘beautiful’ images of second black hole’s jet](https://www.sciencemag.org/news/2021/07/event-horizon-telescope-captures-beautiful-images-second-black-hole-s-jet)
-- [Facebook has sold 4M Quest 2 headsets in the US, recall docs reveal](https://www.protocol.com/bulletins/quest-2-4-million-units)
-- [Slate – A completely customizable framework for building rich text editors](https://github.com/ianstormtaylor/slate)
+- [“We do not plan to publish the AWS CLI project to PyPI at this time”](https://github.com/aws/aws-cli/issues/4947)
+- [Facebook Wanted NSO Spyware to Monitor Users, NSO CEO Claims (2020)](https://www.vice.com/en/article/pke9k9/facebook-wanted-nso-spyware-to-monitor-users)
 <!-- BLOG-POST-LIST:END -->
 
 ---
