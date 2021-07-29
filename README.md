@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UpCodes is hiring our first PM to automate compliance for architects](https://up.codes/careers#product_manager)
+- [Where Is the World’s Best Weather? (2020)](https://leisurepurpose.wordpress.com/2020/03/24/weather/)
+- [Event Horizon Telescope captures ‘beautiful’ images of second black hole’s jet](https://www.sciencemag.org/news/2021/07/event-horizon-telescope-captures-beautiful-images-second-black-hole-s-jet)
 - [Facebook has sold 4M Quest 2 headsets in the US, recall docs reveal](https://www.protocol.com/bulletins/quest-2-4-million-units)
 - [Slate – A completely customizable framework for building rich text editors](https://github.com/ianstormtaylor/slate)
-- [“I just got a copyright claim for *TYPING ON MY KEYBOARD*”](https://twitter.com/marcan42/status/1420807961518088194)
-- [Facebook is now claiming official CDC.gov links are “False Information”](https://i.postimg.cc/CLBCNx0Q/D4Hg99zw.jpg)
-- [You Can Be Shy and Still Be a CEO](https://www.thecut.com/2021/07/how-thrilling-ceo-shilla-kim-parker-gets-it-done.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
