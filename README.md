@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Array Cast: A podcast about the array programming languages](https://www.arraycast.com/episodes/)
+- [Show HN: Notes.cx – A simple, anonymous online notepad \w Markdown support](https://notes.cx/)
+- [Liveblocks: Add real‑time collaboration to your product in minutes](https://liveblocks.io/blog/introducing-liveblocks)
+- [The Baked Data architectural pattern](https://simonwillison.net/2021/Jul/28/baked-data/)
 - [Let’s Talk OpenZFS Snapshots](https://klarasystems.com/articles/lets-talk-openzfs-snapshots/)
-- [It’s not funny anymore. Far-right extremists’ use of humour](https://ec.europa.eu/home-affairs/sites/default/files/what-we-do/networks/radicalisation_awareness_network/ran-papers/docs/ran_ad-hoc_pap_fre_humor_20210215_en.pdf)
-- [Why does man print “gimme gimme gimme” at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
-- [m4 macro processor (2020)](https://chrisman.github.io/9.html)
-- [The Script Boring Company Drivers Have to Recite About Musk](https://www.thedrive.com/news/41741/hes-awesome-heres-the-script-boring-company-drivers-have-to-recite-about-musk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
