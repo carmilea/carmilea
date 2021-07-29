@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What even is data mesh](https://cnr.sh/essays/what-the-heck-data-mesh)
-- [ISS loses attitude control after Nauka module docking](https://twitter.com/SciGuySpace/status/1420795248205312000)
-- [Activision Blizzard Hires Notorious Union-Busting Firm WilmerHale](https://www.promethean.news/news/activision-hires-notorious-union-busting-firm-wilmerhale)
-- [Robinhood will fail again: stock trading is broken](https://fattailedthoughts.substack.com/p/fat-tailed-thoughts-stock-trading)
-- [So you want to self-publish books and courses on programming](https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/)
+- [Facebook has sold 4M Quest 2 headsets in the US, recall docs reveal](https://www.protocol.com/bulletins/quest-2-4-million-units)
+- [Slate – A completely customizable framework for building rich text editors](https://github.com/ianstormtaylor/slate)
+- [“I just got a copyright claim for *TYPING ON MY KEYBOARD*”](https://twitter.com/marcan42/status/1420807961518088194)
+- [Facebook is now claiming official CDC.gov links are “False Information”](https://i.postimg.cc/CLBCNx0Q/D4Hg99zw.jpg)
+- [You Can Be Shy and Still Be a CEO](https://www.thecut.com/2021/07/how-thrilling-ceo-shilla-kim-parker-gets-it-done.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
