@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Sane IT, mobile mechanics, chat teams, Zoom events, spas and beauty](https://news.ycombinator.com/item?id=27996057)
+- [The Amazon Rainforest Is Fast Approaching a Point of No Return in Brazil](https://www.bloomberg.com/news/features/2021-07-29/amazon-rainforest-deforestation-land-grabs-surge-under-bolsonaro-in-brazil)
 - [Taloflow (YC W21) Is Hiring a Growth Marketer with Developer Focus](https://www.ycombinator.com/companies/taloflow/jobs/m9QRNXx-growth-marketer-with-developer-focus)
 - [The cost of two weeks in an pediatric/infant ICU](https://kingsley.sh/posts/2021/two-weeks-in-the-icu-as-a-baby-with-heart-disease)
 - [South Africa issues world’s first patent listing AI as inventor](https://www.globallegalpost.com/news/south-africa-issues-worlds-first-patent-listing-ai-as-inventor-161068982)
-- [Killing Robots and Just War Theory](https://oleg.nu/bkGqcAmKdfS3e2)
-- [Morloc: Foreign languages unified under common functional type system](https://github.com/morloc-project/morloc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
