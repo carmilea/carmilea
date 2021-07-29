@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools/)
 - [Bloom is hiring a Software Engineer to build the future of human connection](https://news.ycombinator.com/item?id=27991593)
 - [Water transformed into shiny, golden metal](https://www.nature.com/articles/d41586-021-02065-w)
+- [Remote Culture War Has Begun, Executives Pumping Out "Back to Work" Propaganda](https://ez.substack.com/p/the-remote-culture-war-has-begun)
 - [Automated Configuration and Selection of SAT Solvers [pdf]](https://www.cs.ubc.ca/~kevinlb/papers/2021-SAT-handbook-chapter.pdf)
-- [The mermaid is taking over Google search in Norway](https://alexskra.com/blog/the-mermaid-is-taking-over-google-search-in-norway/)
-- [Activision Blizzard employees walk out over harassment and ‘frat boy’ culture](https://www.theguardian.com/us-news/2021/jul/28/activision-blizzard-walkout-allegations-harassment-frat-boy-culture)
 <!-- BLOG-POST-LIST:END -->
 
 ---
