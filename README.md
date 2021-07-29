@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [M4 – the one true templating language](https://chrisman.github.io/9.html)
+- [Why does man print “gimme gimme gimme” at 00:30?](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
+- [M4 templating language](https://chrisman.github.io/9.html)
 - [Thousands of scientists warn climate tipping points ‘imminent’](https://www.aljazeera.com/news/2021/7/28/thousands-of-scientists-declare-worldwide-climate-emergency)
 - [The Script Boring Company Drivers Have to Recite About Musk](https://www.thedrive.com/news/41741/hes-awesome-heres-the-script-boring-company-drivers-have-to-recite-about-musk)
 - [Jiga (YC W21) Is Hiring a Founding Full Stack Engineer](https://www.workatastartup.com/jobs/44310)
-- [Pfizer backs down over ‘unreasonable’ terms in South Africa vaccine deal](https://mg.co.za/news/2021-04-19-pfizer-backs-down-over-unreasonable-terms-in-south-africa-vaccine-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
