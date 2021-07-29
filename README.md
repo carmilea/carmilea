@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. prosecutors charge Trevor Milton, with three counts of fraud](https://www.cnbc.com/2021/07/29/us-prosecutors-charge-trevor-milton-founder-of-electric-carmaker-nikola-with-three-counts-of-fraud.html)
-- [On Geofoam](https://theprepared.org/features-feed/on-geofoam)
-- [Launch HN: Sane IT, mobile mechanics, chat teams, Zoom events, spas and beauty](https://news.ycombinator.com/item?id=27996057)
-- [Low level is easy (2008)](http://yosefk.com/blog/low-level-is-easy.html)
-- [Taloflow (YC W21) Is Hiring a Growth Marketer with Developer Focus](https://www.ycombinator.com/companies/taloflow/jobs/m9QRNXx-growth-marketer-with-developer-focus)
+- [Crafting Interpreters Available in Print or PDF](http://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/)
+- [Crafting Interpreters is available in print](http://craftinginterpreters.com/)
+- [Three Americans create enough carbon emissions to kill one person, study finds](https://www.theguardian.com/environment/2021/jul/29/carbon-emissions-americans-social-cost)
+- [Show HN: An app that helps engineers fight back against pointless meetings](https://github.com/syncfast/clockwise)
+- [Grand jury indicts Trevor Milton, Nikola founder, on three counts of fraud](https://www.cnbc.com/2021/07/29/us-prosecutors-charge-trevor-milton-founder-of-electric-carmaker-nikola-with-three-counts-of-fraud.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
