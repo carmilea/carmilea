@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Israeli government raids NSO Group offices](https://therecord.media/israeli-government-raids-nso-group-offices/)
-- [Amiga at NASA (1999)](http://obligement.free.fr/articles_traduction/amiganasa_en.php)
-- [Dusty Hill of ZZ Top Dead](https://en.wikipedia.org/wiki/Dusty_Hill)
-- [Finding a kernel regression in half an hour with git bisect run](https://ldpreload.com/blog/git-bisect-run)
-- [First detection of light from behind a black hole](https://news.stanford.edu/2021/07/28/first-detection-light-behind-black-hole/)
+- [Bloom is hiring a Software Engineer to build the future of human connection](https://news.ycombinator.com/item?id=27991593)
+- [Automated Configuration and Selection of SAT Solvers [pdf]](https://www.cs.ubc.ca/~kevinlb/papers/2021-SAT-handbook-chapter.pdf)
+- [The mermaid is taking over Google search in Norway](https://alexskra.com/blog/the-mermaid-is-taking-over-google-search-in-norway/)
+- [Activision Blizzard employees walk out over harassment and ‘frat boy’ culture](https://www.theguardian.com/us-news/2021/jul/28/activision-blizzard-walkout-allegations-harassment-frat-boy-culture)
+- [Calculus Made Easy](https://calculusmadeeasy.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
