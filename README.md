@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting Interpreters Available in Print or PDF](http://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/)
-- [Crafting Interpreters is available in print](http://craftinginterpreters.com/)
-- [Three Americans create enough carbon emissions to kill one person, study finds](https://www.theguardian.com/environment/2021/jul/29/carbon-emissions-americans-social-cost)
-- [Show HN: An app that helps engineers fight back against pointless meetings](https://github.com/syncfast/clockwise)
-- [Grand jury indicts Trevor Milton, Nikola founder, on three counts of fraud](https://www.cnbc.com/2021/07/29/us-prosecutors-charge-trevor-milton-founder-of-electric-carmaker-nikola-with-three-counts-of-fraud.html)
+- [CATL Unveils First Generation of Sodium-Ion Batteries](https://www.catl.com/en/news/665.html)
+- [“The Stasi Had a Giant Smell Register of Dissidents”](https://m.dw.com/en/the-stasi-had-a-giant-smell-register-of-dissidents/a-2555053)
+- [FSF-calls for white papers on philosophical and legal questions around Copilot](https://www.fsf.org/blogs/licensing/fsf-funded-call-for-white-papers-on-philosophical-and-legal-questions-around-copilot)
+- [Clubhouse opens its doors to everyone, is anyone rushing to get in?](https://www.wired.com/story/clubhouse-opens-its-doors-is-anyone-rushing-to-get-in/)
+- [Undetectable quantum computation and communication for alien civilizations](https://arxiv.org/abs/2107.13023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
