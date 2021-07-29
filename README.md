@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [M4 – the one true templating language](https://chrisman.github.io/9.html)
+- [Thousands of scientists warn climate tipping points ‘imminent’](https://www.aljazeera.com/news/2021/7/28/thousands-of-scientists-declare-worldwide-climate-emergency)
+- [The Script Boring Company Drivers Have to Recite About Musk](https://www.thedrive.com/news/41741/hes-awesome-heres-the-script-boring-company-drivers-have-to-recite-about-musk)
 - [Jiga (YC W21) Is Hiring a Founding Full Stack Engineer](https://www.workatastartup.com/jobs/44310)
 - [Pfizer backs down over ‘unreasonable’ terms in South Africa vaccine deal](https://mg.co.za/news/2021-04-19-pfizer-backs-down-over-unreasonable-terms-in-south-africa-vaccine-deal/)
-- [Clever carpentry helps bees fix wild honeycombs](https://www.sciencemag.org/news/2021/07/clever-carpentry-helps-bees-fix-wild-honeycombs)
-- [Renewables became the second-most prevalent U.S. electricity source in 2020](https://www.eia.gov/todayinenergy/detail.php?id=48896)
-- [Welcome to Whittier, Alaska, a Community Under One Roof](https://www.npr.org/2015/01/18/378162264/welcome-to-whittier-alaska-a-community-under-one-roof)
 <!-- BLOG-POST-LIST:END -->
 
 ---
