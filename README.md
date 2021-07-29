@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Array Cast: A podcast about the array programming languages](https://www.arraycast.com/episodes/)
-- [Show HN: Notes.cx – A simple, anonymous online notepad \w Markdown support](https://notes.cx/)
-- [Liveblocks: Add real‑time collaboration to your product in minutes](https://liveblocks.io/blog/introducing-liveblocks)
-- [The Baked Data architectural pattern](https://simonwillison.net/2021/Jul/28/baked-data/)
-- [Let’s Talk OpenZFS Snapshots](https://klarasystems.com/articles/lets-talk-openzfs-snapshots/)
+- [Taloflow (YC W21) Is Hiring a Growth Marketer with Developer Focus](https://www.ycombinator.com/companies/taloflow/jobs/m9QRNXx-growth-marketer-with-developer-focus)
+- [The cost of two weeks in an pediatric/infant ICU](https://kingsley.sh/posts/2021/two-weeks-in-the-icu-as-a-baby-with-heart-disease)
+- [South Africa issues world’s first patent listing AI as inventor](https://www.globallegalpost.com/news/south-africa-issues-worlds-first-patent-listing-ai-as-inventor-161068982)
+- [Killing Robots and Just War Theory](https://oleg.nu/bkGqcAmKdfS3e2)
+- [Morloc: Foreign languages unified under common functional type system](https://github.com/morloc-project/morloc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
