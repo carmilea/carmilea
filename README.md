@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What even is data mesh](https://cnr.sh/essays/what-the-heck-data-mesh)
-- [Myopia: A Modern yet Reversible Disease](https://gettingstronger.org/2014/08/myopia-a-modern-yet-reversible-disease/)
 - [ISS loses attitude control after Nauka module docking](https://twitter.com/SciGuySpace/status/1420795248205312000)
 - [Activision Blizzard Hires Notorious Union-Busting Firm WilmerHale](https://www.promethean.news/news/activision-hires-notorious-union-busting-firm-wilmerhale)
-- [Show HN: Procfile runner with interactive log viewer GUI](https://exo.deref.io/)
+- [Robinhood will fail again: stock trading is broken](https://fattailedthoughts.substack.com/p/fat-tailed-thoughts-stock-trading)
+- [So you want to self-publish books and courses on programming](https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
