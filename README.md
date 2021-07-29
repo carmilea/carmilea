@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools/)
+- [Renewables became the second-most prevalent U.S. electricity source in 2020](https://www.eia.gov/todayinenergy/detail.php?id=48896)
+- [Duolingo reaches $6.5B valuation on day of IPO](https://www.reuters.com/technology/duolingo-valued-65-bln-shares-soar-debut-2021-07-28/)
+- [BMOW 1 Computer (2008)](https://www.bigmessowires.com/bmow1/)
+- [Command line tools for productive programmers](https://earthly.dev/blog/command-line-tools/)
 - [Bloom is hiring a Software Engineer to build the future of human connection](https://news.ycombinator.com/item?id=27991593)
-- [Water transformed into shiny, golden metal](https://www.nature.com/articles/d41586-021-02065-w)
-- [Remote Culture War Has Begun, Executives Pumping Out "Back to Work" Propaganda](https://ez.substack.com/p/the-remote-culture-war-has-begun)
-- [Automated Configuration and Selection of SAT Solvers [pdf]](https://www.cs.ubc.ca/~kevinlb/papers/2021-SAT-handbook-chapter.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
