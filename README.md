@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blizzard Recruiters Asked Hacker If She ‘Liked Being Penetrated’ at Job Fair](https://www.vice.com/en/article/3aq4vv/blizzard-recruiters-asked-hacker-if-she-liked-being-penetrated-at-job-fair)
-- [Yarn 3.0.0](https://github.com/yarnpkg/berry/blob/master/CHANGELOG.md)
-- [Twitter’s first algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge.html)
-- [CareRev (YC S16) Is Hiring Staff Back End Engineers (Ruby/Rails and Remote USA)](https://grnh.se/5fa785303us)
-- [Launch HN: Matrubials (YC S21) Milk-derived therapeutics for infectious diesases](https://news.ycombinator.com/item?id=28009972)
+- [SoloSuit (YC W21) is hiring a remote, Senior Engineer](https://www.solosuit.com/careers#se)
+- [Apple closing down internal Slack channels where employees debate remote work](https://www.cultofmac.com/748775/apple-closing-down-internal-slack-channels-where-employees-debate-remote-work/)
+- [The journey to controlling external monitors on M1 Macs](https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/)
+- [strcpy: A niche function you don't need](https://nullprogram.com/blog/2021/07/30/)
+- [The daunting task of writing longhand and why you should do it](https://jenniferbrogdon.substack.com/p/the-daunting-task-of-writing-longhand)
 <!-- BLOG-POST-LIST:END -->
 
 ---
