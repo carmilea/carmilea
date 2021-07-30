@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Top German court strikes down Facebook rules on hate speech](https://www.euractiv.com/section/digital/news/top-german-court-strikes-down-facebook-rules-on-hate-speech/)
+- [DRM says no water for you](https://twitter.com/AnemoneAndMe/status/1420540789734612992)
 - [Terra (YC W21) Is Hiring in London (Full Stack)](https://www.workatastartup.com/jobs/45386)
 - [England's Upper Classes – A Dangerous Cult](https://bylinetimes.com/2021/07/27/englands-upper-classes-a-dangerous-cult/)
 - [Fire breaks out at Tesla Big Battery](https://www.theage.com.au/business/the-economy/fire-breaks-out-during-testing-of-victorian-big-battery-near-geelong-20210730-p58eh4.html)
-- [DaisyUI – Tailwind CSS Components](https://daisyui.com/)
-- [Billions in 'unknown' funds flowing into Canada's housing market [video]](https://www.bnnbloomberg.ca/real-estate/video/billions-in-unknown-funds-flowing-into-canada-s-housing-market-transparency-international~1644554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
