@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [static.wiki, read-only Wikipedia using a 43GB SQLite file](http://static.wiki/)
+- [Crowdfunding Backer Patented My Project (2018)](https://patentpandas.org/stories/crowdfunding-backer-patented-my-project)
+- [Raspberry Pi OS now has SATA support built-in](https://www.jeffgeerling.com/blog/2021/raspberry-pi-os-now-has-sata-support-built)
 - [SoloSuit (YC W21) is hiring a remote, Senior Engineer](https://www.solosuit.com/careers#se)
-- [Apple closing down internal Slack channels where employees debate remote work](https://www.cultofmac.com/748775/apple-closing-down-internal-slack-channels-where-employees-debate-remote-work/)
-- [The journey to controlling external monitors on M1 Macs](https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/)
-- [strcpy: A niche function you don't need](https://nullprogram.com/blog/2021/07/30/)
-- [The daunting task of writing longhand and why you should do it](https://jenniferbrogdon.substack.com/p/the-daunting-task-of-writing-longhand)
+- [Information Geometry](https://math.ucr.edu/home/baez/information/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
