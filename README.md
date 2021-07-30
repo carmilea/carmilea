@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CDC Internal Delta Variant Presentation](https://context-cdn.washingtonpost.com/notes/prod/default/documents/54f57708-a529-4a33-9a44-b66d719070d9/note/753667d6-8c61-495f-b669-5308f2827155.)
+- [DaisyUI – Tailwind CSS Components](https://daisyui.com/)
 - [Billions in 'unknown' funds flowing into Canada's housing market [video]](https://www.bnnbloomberg.ca/real-estate/video/billions-in-unknown-funds-flowing-into-canada-s-housing-market-transparency-international~1644554)
 - [Google Translate pronounces 'rooster' in Spanish](https://www.google.com/search?q=rooster+in+spanish)
 - [Descriptorless Files for Io_uring](https://lwn.net/Articles/863071/)
-- [Against Overuse of the Gini Coefficient](https://vitalik.ca/general/2021/07/29/gini.html)
-- [38% of remote workers work from bed](https://www.axios.com/38-percent-remote-workers-work-bed-f8708125-a068-47ff-9519-bb7870011cd5.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
