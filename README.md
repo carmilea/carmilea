@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Billions in 'unknown' funds flowing into Canada's housing market [video]](https://www.bnnbloomberg.ca/real-estate/video/billions-in-unknown-funds-flowing-into-canada-s-housing-market-transparency-international~1644554)
 - [Google Translate pronounces 'rooster' in Spanish](https://www.google.com/search?q=rooster+in+spanish)
-- [Fairtax](https://fairtax.org/)
 - [Descriptorless Files for Io_uring](https://lwn.net/Articles/863071/)
 - [Against Overuse of the Gini Coefficient](https://vitalik.ca/general/2021/07/29/gini.html)
+- [38% of remote workers work from bed](https://www.axios.com/38-percent-remote-workers-work-bed-f8708125-a068-47ff-9519-bb7870011cd5.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
