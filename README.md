@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flux Capacitor at O'Reilly Auto Parts](https://www.oreillyauto.com/flux-500.html)
 - [One Tenth of a Second](https://studio.ribbonfarm.com/p/one-tenth-of-a-second)
 - [Top Routinely Exploited Vulnerabilities](https://us-cert.cisa.gov/ncas/alerts/aa21-209a)
 - [AWS Support for Internet Explorer 11 Is Ending](https://aws.amazon.com/blogs/aws/heads-up-aws-support-for-internet-explorer-11-is-ending/)
 - [Hunting a bug in the i40e Intel driver](https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/)
-- [Pedestrian Deaths and Large Vehicles](https://www.sciencedirect.com/science/article/abs/pii/S2212012221000241?dgcid=author)
 <!-- BLOG-POST-LIST:END -->
 
 ---
