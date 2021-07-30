@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Billions in 'unknown' funds flowing into Canada's housing market [video]](https://www.bnnbloomberg.ca/real-estate/video/billions-in-unknown-funds-flowing-into-canada-s-housing-market-transparency-international~1644554)
+- [Google Translate pronounces 'rooster' in Spanish](https://www.google.com/search?q=rooster+in+spanish)
+- [Fairtax](https://fairtax.org/)
+- [Descriptorless Files for Io_uring](https://lwn.net/Articles/863071/)
 - [Against Overuse of the Gini Coefficient](https://vitalik.ca/general/2021/07/29/gini.html)
-- [One Tenth of a Second](https://studio.ribbonfarm.com/p/one-tenth-of-a-second)
-- [Top Routinely Exploited Vulnerabilities](https://us-cert.cisa.gov/ncas/alerts/aa21-209a)
-- [AWS Support for Internet Explorer 11 Is Ending](https://aws.amazon.com/blogs/aws/heads-up-aws-support-for-internet-explorer-11-is-ending/)
-- [Hunting a bug in the i40e Intel driver](https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
