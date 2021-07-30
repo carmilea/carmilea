@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CareRev (YC S16) Is Hiring Staff Back End Engineers (Ruby/Rails and Remote USA)](https://grnh.se/5fa785303us)
+- [Launch HN: Matrubials (YC S21) Milk-derived therapeutics for infectious diesases](https://news.ycombinator.com/item?id=28009972)
+- [Investors overseeing $14T call for vote on company climate plans](https://www.reuters.com/business/sustainable-business/investors-overseeing-14-trln-call-vote-company-climate-plans-2021-07-30/)
+- [Do we need a Scrum Master forever?](https://www.tryscrum.com/blogs/do-we-need-a-scrum-master-forever/)
 - [Swift Protocol Oriented Programming and Testing](https://arturgruchala.com/protocol-oriented-programming-unit-testing/)
-- [Inter – a beautiful font-family for Interface Designs](https://rsms.me/inter/)
-- [B-tree Path Hints](https://github.com/tidwall/btree/blob/master/PATH_HINT.md)
-- [Goodbye Xamarin Forms](https://itnext.io/goodbye-xamarin-forms-f41723fb9fe1)
-- [Launch HN: HomeBreeze (YC W21) – Easy booking of home repairs](https://news.ycombinator.com/item?id=28008172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
