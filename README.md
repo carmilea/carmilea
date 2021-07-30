@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Against Overuse of the Gini Coefficient](https://vitalik.ca/general/2021/07/29/gini.html)
-- [Stat of the day: 38% of remote workers work from bed](https://www.axios.com/38-percent-remote-workers-work-bed-f8708125-a068-47ff-9519-bb7870011cd5.html)
 - [One Tenth of a Second](https://studio.ribbonfarm.com/p/one-tenth-of-a-second)
 - [Top Routinely Exploited Vulnerabilities](https://us-cert.cisa.gov/ncas/alerts/aa21-209a)
 - [AWS Support for Internet Explorer 11 Is Ending](https://aws.amazon.com/blogs/aws/heads-up-aws-support-for-internet-explorer-11-is-ending/)
+- [Hunting a bug in the i40e Intel driver](https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
