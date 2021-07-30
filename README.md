@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A blood marker predicts who gets ‘breakthrough’ Covid](https://www.nature.com/articles/d41586-021-02096-3)
-- [Google Cloud offers a model for fixing Google’s product-killing reputation](https://arstechnica.com/gadgets/2021/07/google-cloud-offers-a-model-for-fixing-googles-product-killing-reputation/)
-- [Remora (YC W21) is hiring a mechanic – carbon capture for semi trucks](https://www.ycombinator.com/companies/remora/jobs/kXjLaJ8-mechanic)
-- [Amazon Gets Record $888M EU Fine over Data Violations](https://www.bloomberg.com/news/articles/2021-07-30/amazon-given-record-888-million-eu-fine-for-data-privacy-breach)
-- [We migrated to containers. Not a smooth ride yet](https://www.artifakt.com/blog/cloud/documenting-our-migration-to-docker/)
+- [Launch HN: HomeBreeze (YC W21) – Easy booking of home repairs](https://news.ycombinator.com/item?id=28008172)
+- [M1 MacBook Users Say Their Screens Are Cracking for “No Apparent Reason”](https://www.frontpagetech.com/2021/07/30/m1-macbook-users-say-their-screens-are-cracking-for-no-apparent-reason-lol/)
+- [Research found bronze medalists appeared happier than silver medalists](https://twin-cities.umn.edu/news-events/facial-expression-software-knows-which-olympic-medal-makes-you-happier-and-why)
+- [Oracle loses bid to upend HP's $3B win](https://www.reuters.com/legal/transactional/oracle-loses-bid-upend-hps-3-billion-win-2021-06-14/)
+- [The Future of PrivacyTools](https://blog.privacytools.io/the-future-of-privacytools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
