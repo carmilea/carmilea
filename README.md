@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A blood marker predicts who gets ‘breakthrough’ Covid](https://www.nature.com/articles/d41586-021-02096-3)
+- [Google Cloud offers a model for fixing Google’s product-killing reputation](https://arstechnica.com/gadgets/2021/07/google-cloud-offers-a-model-for-fixing-googles-product-killing-reputation/)
 - [Remora (YC W21) is hiring a mechanic – carbon capture for semi trucks](https://www.ycombinator.com/companies/remora/jobs/kXjLaJ8-mechanic)
 - [Amazon Gets Record $888M EU Fine over Data Violations](https://www.bloomberg.com/news/articles/2021-07-30/amazon-given-record-888-million-eu-fine-for-data-privacy-breach)
-- [Common UI/UX mistakes devs make](https://twitter.com/vponamariov/status/1421014957110579203)
-- [Classic Berkeley Systems “After Dark” screensavers recreated in CSS](https://www.bryanbraun.com/after-dark-css/)
-- [Open Terms Archive – Follow changes to terms of service](https://www.opentermsarchive.org/)
+- [We migrated to containers. Not a smooth ride yet](https://www.artifakt.com/blog/cloud/documenting-our-migration-to-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
