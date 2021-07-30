@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Terra (YC W21) Is Hiring in London (Full Stack)](https://www.workatastartup.com/jobs/45386)
-- [CDC Internal Delta Variant Presentation](https://context-cdn.washingtonpost.com/notes/prod/default/documents/54f57708-a529-4a33-9a44-b66d719070d9/note/753667d6-8c61-495f-b669-5308f2827155.)
+- [England's Upper Classes – A Dangerous Cult](https://bylinetimes.com/2021/07/27/englands-upper-classes-a-dangerous-cult/)
+- [Fire breaks out at Tesla Big Battery](https://www.theage.com.au/business/the-economy/fire-breaks-out-during-testing-of-victorian-big-battery-near-geelong-20210730-p58eh4.html)
 - [DaisyUI – Tailwind CSS Components](https://daisyui.com/)
 - [Billions in 'unknown' funds flowing into Canada's housing market [video]](https://www.bnnbloomberg.ca/real-estate/video/billions-in-unknown-funds-flowing-into-canada-s-housing-market-transparency-international~1644554)
-- [Google Translate pronounces 'rooster' in Spanish](https://www.google.com/search?q=rooster+in+spanish)
 <!-- BLOG-POST-LIST:END -->
 
 ---
