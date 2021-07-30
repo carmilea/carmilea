@@ -54,8 +54,8 @@
 - [Open Terms Archive – Follow the changes to the terms of service](https://www.opentermsarchive.org/)
 - [Why does “Turn! Turn! Turn!” equal 241217.524881?](https://math.stackexchange.com/questions/4207222/why-does-turn-turn-turn-equal-241217-524881)
 - [Multics MR12.7 released](https://multics-wiki.swenson.org/index.php/Main_Page)
-- [Canonicalization Attacks Against Macs and Signatures](https://soatok.blog/2021/07/30/canonicalization-attacks-against-macs-and-signatures/)
-- [Top German court strikes down Facebook rules on hate speech](https://www.euractiv.com/section/digital/news/top-german-court-strikes-down-facebook-rules-on-hate-speech/)
+- [Why is YouTube adding “&pp=sAQA” to video URLs?](https://news.ycombinator.com/item?id=28005638)
+- [Terra (YC W21) Is Hiring in London (Full Stack)](https://www.workatastartup.com/jobs/45386)
 <!-- BLOG-POST-LIST:END -->
 
 ---
