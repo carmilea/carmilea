@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Terms Archive – Follow the changes to the terms of service](https://www.opentermsarchive.org/)
+- [Why does “Turn! Turn! Turn!” equal 241217.524881?](https://math.stackexchange.com/questions/4207222/why-does-turn-turn-turn-equal-241217-524881)
+- [Multics MR12.7 released](https://multics-wiki.swenson.org/index.php/Main_Page)
+- [Canonicalization Attacks Against Macs and Signatures](https://soatok.blog/2021/07/30/canonicalization-attacks-against-macs-and-signatures/)
 - [Top German court strikes down Facebook rules on hate speech](https://www.euractiv.com/section/digital/news/top-german-court-strikes-down-facebook-rules-on-hate-speech/)
-- [DRM says no water for you](https://twitter.com/AnemoneAndMe/status/1420540789734612992)
-- [Terra (YC W21) Is Hiring in London (Full Stack)](https://www.workatastartup.com/jobs/45386)
-- [England's Upper Classes – A Dangerous Cult](https://bylinetimes.com/2021/07/27/englands-upper-classes-a-dangerous-cult/)
-- [Fire breaks out at Tesla Big Battery](https://www.theage.com.au/business/the-economy/fire-breaks-out-during-testing-of-victorian-big-battery-near-geelong-20210730-p58eh4.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
