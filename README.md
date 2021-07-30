@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Terms Archive – Follow the changes to the terms of service](https://www.opentermsarchive.org/)
-- [Why does “Turn! Turn! Turn!” equal 241217.524881?](https://math.stackexchange.com/questions/4207222/why-does-turn-turn-turn-equal-241217-524881)
-- [Multics MR12.7 released](https://multics-wiki.swenson.org/index.php/Main_Page)
-- [Why is YouTube adding “&pp=sAQA” to video URLs?](https://news.ycombinator.com/item?id=28005638)
-- [Terra (YC W21) Is Hiring in London (Full Stack)](https://www.workatastartup.com/jobs/45386)
+- [Remora (YC W21) is hiring a mechanic – carbon capture for semi trucks](https://www.ycombinator.com/companies/remora/jobs/kXjLaJ8-mechanic)
+- [Amazon Gets Record $888M EU Fine over Data Violations](https://www.bloomberg.com/news/articles/2021-07-30/amazon-given-record-888-million-eu-fine-for-data-privacy-breach)
+- [Common UI/UX mistakes devs make](https://twitter.com/vponamariov/status/1421014957110579203)
+- [Classic Berkeley Systems “After Dark” screensavers recreated in CSS](https://www.bryanbraun.com/after-dark-css/)
+- [Open Terms Archive – Follow changes to terms of service](https://www.opentermsarchive.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
