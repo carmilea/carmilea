@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech CEO Says Workers Get Too Much Pay and Benefits](https://www.vice.com/en/article/bvz59w/tech-ceo-says-engineers-get-too-much-pay-and-benefits)
+- [Blizzard Recruiters Asked Hacker If She ‘Liked Being Penetrated’ at Job Fair](https://www.vice.com/en/article/3aq4vv/blizzard-recruiters-asked-hacker-if-she-liked-being-penetrated-at-job-fair)
 - [Yarn 3.0.0](https://github.com/yarnpkg/berry/blob/master/CHANGELOG.md)
 - [Twitter’s first algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge.html)
 - [CareRev (YC S16) Is Hiring Staff Back End Engineers (Ruby/Rails and Remote USA)](https://grnh.se/5fa785303us)
