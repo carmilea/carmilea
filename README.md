@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Path hints for B-trees can bring a performance increase of 150% – 300%](https://github.com/tidwall/btree/blob/master/PATH_HINT.md)
+- [Swift Protocol Oriented Programming and Testing](https://arturgruchala.com/protocol-oriented-programming-unit-testing/)
+- [Inter – a beautiful font-family for Interface Designs](https://rsms.me/inter/)
+- [B-tree Path Hints](https://github.com/tidwall/btree/blob/master/PATH_HINT.md)
 - [Goodbye Xamarin Forms](https://itnext.io/goodbye-xamarin-forms-f41723fb9fe1)
 - [Launch HN: HomeBreeze (YC W21) – Easy booking of home repairs](https://news.ycombinator.com/item?id=28008172)
-- [Representations of Uncomputable and Uncountable Sets (2008)](http://math.andrej.com/2008/02/06/representations-of-uncomputable-and-uncountable-sets/)
-- [Research found bronze medalists appeared happier than silver medalists](https://twin-cities.umn.edu/news-events/facial-expression-software-knows-which-olympic-medal-makes-you-happier-and-why)
 <!-- BLOG-POST-LIST:END -->
 
 ---
