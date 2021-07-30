@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yarn 3.0.0](https://github.com/yarnpkg/berry/blob/master/CHANGELOG.md)
 - [CareRev (YC S16) Is Hiring Staff Back End Engineers (Ruby/Rails and Remote USA)](https://grnh.se/5fa785303us)
 - [Launch HN: Matrubials (YC S21) Milk-derived therapeutics for infectious diesases](https://news.ycombinator.com/item?id=28009972)
+- [1 out of every 153 American workers is an Amazon employee](https://www.businessinsider.com/amazon-employees-number-1-of-153-us-workers-head-count-2021-7)
 - [Investors overseeing $14T call for vote on company climate plans](https://www.reuters.com/business/sustainable-business/investors-overseeing-14-trln-call-vote-company-climate-plans-2021-07-30/)
-- [Do we need a Scrum Master forever?](https://www.tryscrum.com/blogs/do-we-need-a-scrum-master-forever/)
-- [Swift Protocol Oriented Programming and Testing](https://arturgruchala.com/protocol-oriented-programming-unit-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
