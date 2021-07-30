@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [static.wiki, read-only Wikipedia using a 43GB SQLite file](http://static.wiki/)
+- [“Safari's buggy” is valid criticism. “Safari's behind Chrome in features” is not](https://twitter.com/lapcatsoftware/status/1421078387376918529)
+- [Tell HN: Consider listing your contact details](https://news.ycombinator.com/item?id=28012969)
+- [Static.wiki – read-only Wikipedia using a 43GB SQLite file](http://static.wiki/)
 - [Crowdfunding Backer Patented My Project (2018)](https://patentpandas.org/stories/crowdfunding-backer-patented-my-project)
 - [Raspberry Pi OS now has SATA support built-in](https://www.jeffgeerling.com/blog/2021/raspberry-pi-os-now-has-sata-support-built)
-- [SoloSuit (YC W21) is hiring a remote, Senior Engineer](https://www.solosuit.com/careers#se)
-- [Information Geometry](https://math.ucr.edu/home/baez/information/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
