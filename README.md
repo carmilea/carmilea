@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Path hints for B-trees can bring a performance increase of 150% – 300%](https://github.com/tidwall/btree/blob/master/PATH_HINT.md)
+- [Goodbye Xamarin Forms](https://itnext.io/goodbye-xamarin-forms-f41723fb9fe1)
 - [Launch HN: HomeBreeze (YC W21) – Easy booking of home repairs](https://news.ycombinator.com/item?id=28008172)
-- [M1 MacBook Users Say Their Screens Are Cracking for “No Apparent Reason”](https://www.frontpagetech.com/2021/07/30/m1-macbook-users-say-their-screens-are-cracking-for-no-apparent-reason-lol/)
+- [Representations of Uncomputable and Uncountable Sets (2008)](http://math.andrej.com/2008/02/06/representations-of-uncomputable-and-uncountable-sets/)
 - [Research found bronze medalists appeared happier than silver medalists](https://twin-cities.umn.edu/news-events/facial-expression-software-knows-which-olympic-medal-makes-you-happier-and-why)
-- [Oracle loses bid to upend HP's $3B win](https://www.reuters.com/legal/transactional/oracle-loses-bid-upend-hps-3-billion-win-2021-06-14/)
-- [The Future of PrivacyTools](https://blog.privacytools.io/the-future-of-privacytools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
