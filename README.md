@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Compose.ai (YC W21) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/compose-ai/jobs/syPzbAB-senior-frontend-engineer)
+- [Cy384/ssheven: A modern SSH client for Mac OS 7/8/9](https://github.com/cy384/ssheven)
+- [Lang Jam: create a programming language in a weekend](https://github.com/langjam/langjam)
+- [The Bitcoin mine with its own power plant](https://www.bbc.com/news/av/technology-58020010)
 - [Txiki.js: Tiny JavaScript runtime built with QuickJS and libuv](https://github.com/saghul/txiki.js)
-- [Jeff Bezos loses attempt to block the Moon-landing contract NASA gave to SpaceX](https://arstechnica.com/tech-policy/2021/07/jeff-bezos-loses-attempt-to-block-the-moon-landing-contract-nasa-gave-to-spacex/)
-- [Download a CSV of your Amazon purchases](https://www.amazon.com/gp/b2b/reports)
-- [One-Thousand Year-Old Plants](https://www.nytimes.com/2021/07/31/science/plant-leaves-welwitschia.html)
-- [Zendar (YC S17) is hiring a platform software engineer](https://jobs.ashbyhq.com/zendar/ca3dde1b-ad32-43e2-bcde-7bb3c404017c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
