@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox lost 50M users since 2019](https://data.firefox.com/dashboard/user-activity)
 - [Strict memcpy() bounds checking for the Linux kernel](https://lwn.net/SubscriberLink/864521/d704bdcced0c5c60/)
-- [Neal Stephenson: Unix – The Hole Hawg of Operating Systems](http://www.team.net/mjb/hawg.html)
+- [Neal Stephenson: Unix – The Hole Hawg of Operating Systems (1999)](http://www.team.net/mjb/hawg.html)
+- [Italian Pronunciation: A Primer for Singers](https://web.stanford.edu/~jrb/reference/italian.html)
 - [Yi – The Haskell-Scriptable Editor](https://github.com/yi-editor/yi)
-- [PM Orders Internet Blocked For Anyone Spreading Info That Might Frighten People](https://chiangmaione.com/featured/pm-orders-internet-blocked-for-anyone-spreading-info-that-might-frighten-people)
+- [PM orders internet blocked for anyone spreading info that might frighten people](https://chiangmaione.com/featured/pm-orders-internet-blocked-for-anyone-spreading-info-that-might-frighten-people)
 <!-- BLOG-POST-LIST:END -->
 
 ---
