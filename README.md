@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: PaperDelivery – fetch articles from your Twitter feed](https://paperdelivery.co/)
 - [Taplytics (YC W14) Is Hiring Senior Software Engineers and CSM](https://jobs.lever.co/taplytics/5d42fae8-d300-43eb-914c-60b11ee8d2ed)
+- [The Metaverse Has Always Been a Dystopian Idea](https://www.vice.com/en/article/v7eqbb/the-metaverse-has-always-been-a-dystopia)
 - [Ask HN: Do you have a process or a framework to learn specific skills quickly?](https://news.ycombinator.com/item?id=28017289)
 - [5000x Faster CRDTs: An Adventure in Optimization](https://josephg.com/blog/crdts-go-brrr/)
-- [How to become a bad theoretical physicist](https://webspace.science.uu.nl/~hooft101/theoristbad.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
