@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox lost 50M users since 2019](https://data.firefox.com/dashboard/user-activity)
+- [Strict memcpy() bounds checking for the Linux kernel](https://lwn.net/SubscriberLink/864521/d704bdcced0c5c60/)
+- [Neal Stephenson: Unix – The Hole Hawg of Operating Systems](http://www.team.net/mjb/hawg.html)
 - [Yi – The Haskell-Scriptable Editor](https://github.com/yi-editor/yi)
 - [PM Orders Internet Blocked For Anyone Spreading Info That Might Frighten People](https://chiangmaione.com/featured/pm-orders-internet-blocked-for-anyone-spreading-info-that-might-frighten-people)
-- [Daniel Hale Receives 45-Month Sentence for Releasing Drone Documents](https://thedissenter.org/daniel-hale-receives-harshest-sentence-ever-for-a-leak/)
-- [Fencers Refused to Fight. Then Came the Rule That Changed the Sport](https://www.wsj.com/articles/fencers-refused-to-fight-rule-change-epee-11627457900)
-- [Safari extension rejected because developer not “reputable”](https://mjtsai.com/blog/2021/07/30/safari-extension-rejected-because-developer-not-reputable/#comment-3497166)
 <!-- BLOG-POST-LIST:END -->
 
 ---
