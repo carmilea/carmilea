@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Has the Lead-Crime Hypothesis Been Debunked?](https://jabberwocking.com/has-the-lead-crime-hypothesis-been-debunked/)
+- [Employee shortages: Where have all the workers gone?](https://www.bbc.co.uk/news/business-58014256)
 - [London’s Crossrail Is a $21B Test of Virtual Modeling](https://spectrum.ieee.org/londons-crossrail-is-a-21-billion-test-of-virtual-modeling)
 - [Build Your Own Metal Working Shop from Scrap](https://www.gingerybookstore.com/)
 - [Hosting SQLite Databases on GitHub Pages](https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/)
-- [Medals at Tokyo olympics are recycled from discarded electronic equipment](https://cosmosmagazine.com/science/chemistry/olympic-medal-composition)
-- [Lumen: Alternative BEAM implementation, designed for WebAssembly](https://github.com/lumen/lumen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
