@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Human Brain in Numbers: A Linearly Scaled-Up Primate Brain (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2776484/)
+- [Typos, tricks and misprints](https://aeon.co/essays/why-is-the-english-spelling-system-so-weird-and-inconsistent)
 - [Ask HN: Jobs in Software/Technology Activism?](https://news.ycombinator.com/item?id=28018203)
 - [The recycling myth: A plastic waste solution littered with failure](https://www.reuters.com/investigates/special-report/environment-plastic-oil-recycling/)
-- [Show HN: PaperDelivery – fetch articles from your Twitter feed](https://paperdelivery.co/)
-- [Taplytics (YC W14) Is Hiring Senior Software Engineers and CSM](https://jobs.lever.co/taplytics/5d42fae8-d300-43eb-914c-60b11ee8d2ed)
-- [The Metaverse Has Always Been a Dystopian Idea](https://www.vice.com/en/article/v7eqbb/the-metaverse-has-always-been-a-dystopia)
+- [Murray's jailing is latest move in a battle to snuff out independent journalism](https://www.jonathan-cook.net/blog/2021-07-30/craig-murrays-jailing-is-the-latest-move-in-the-battle-to-snuff-out-independent-journalism/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
