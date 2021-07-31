@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Daniel Hale Receives 45-Month Sentence for Releasing Drone Documents](https://thedissenter.org/daniel-hale-receives-harshest-sentence-ever-for-a-leak/)
+- [Fencers Refused to Fight. Then Came the Rule That Changed the Sport](https://www.wsj.com/articles/fencers-refused-to-fight-rule-change-epee-11627457900)
 - [Safari Extension Rejected Because Developer Not “Reputable”](https://mjtsai.com/blog/2021/07/30/safari-extension-rejected-because-developer-not-reputable/#comment-3497166)
 - [Sorbet Compiler: An experimental, ahead-of-time compiler for Ruby](https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler)
-- [Tell HN: Consider listing your contact details](https://news.ycombinator.com/item?id=28012969)
-- [Static.wiki – read-only Wikipedia using a 43GB SQLite file](http://static.wiki/)
-- [Raspberry Pi OS now has SATA support built-in](https://www.jeffgeerling.com/blog/2021/raspberry-pi-os-now-has-sata-support-built)
+- [300 Megawatt Tesla battery catches fire](https://www.drive.com.au/news/geelongs-300-megawatt-tesla-battery-catches-fire-authorities-working-to-contain-blaze/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
