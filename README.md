@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Longest Possible Domain Name](http://a.b.c.d.e.f.g.h.i.j.k.l.m.n.oo.pp.qqq.rrrr.ssssss.tttttttt.uuuuuuuuuuu.vvvvvvvvvvvvvvv.wwwwwwwwwwwwwwwwwwwwww.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy.zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.me)
-- [A Brief History of Freud's Love Affair with Cocaine](https://www.vice.com/en/article/payngv/a-brief-history-of-freuds-love-affair-with-cocaine)
+- [Txiki.js: Tiny JavaScript runtime built with QuickJS and libuv](https://github.com/saghul/txiki.js)
+- [Jeff Bezos loses attempt to block the Moon-landing contract NASA gave to SpaceX](https://arstechnica.com/tech-policy/2021/07/jeff-bezos-loses-attempt-to-block-the-moon-landing-contract-nasa-gave-to-spacex/)
+- [Download a CSV of your Amazon purchases](https://www.amazon.com/gp/b2b/reports)
+- [One-Thousand Year-Old Plants](https://www.nytimes.com/2021/07/31/science/plant-leaves-welwitschia.html)
 - [Zendar (YC S17) is hiring a platform software engineer](https://jobs.ashbyhq.com/zendar/ca3dde1b-ad32-43e2-bcde-7bb3c404017c)
-- [FBI probe shows nitrate amount in Beirut blast was a fraction of shipment](https://www.reuters.com/world/middle-east/fbi-probe-shows-amount-chemicals-beirut-blast-was-fraction-original-shipment-2021-07-30/)
-- [The Retrocomputing Archive](http://www.retroarchive.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
