@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Brief History of Freud's Love Affair with Cocaine](https://www.vice.com/en/article/payngv/a-brief-history-of-freuds-love-affair-with-cocaine)
 - [Zendar (YC S17) is hiring a platform software engineer](https://jobs.ashbyhq.com/zendar/ca3dde1b-ad32-43e2-bcde-7bb3c404017c)
 - [FBI probe shows nitrate amount in Beirut blast was a fraction of shipment](https://www.reuters.com/world/middle-east/fbi-probe-shows-amount-chemicals-beirut-blast-was-fraction-original-shipment-2021-07-30/)
 - [The Retrocomputing Archive](http://www.retroarchive.org/)
-- [As lockdowns lift, media firms brace for an “attention recession”](https://www.economist.com/international/2021/07/01/as-lockdowns-lift-media-firms-brace-for-an-attention-recession)
-- [Cory Doctorow: Past Performance is Not Indicative of Future Results (2020)](https://locusmag.com/2020/11/cory-doctorow-past-performance-is-not-indicative-of-future-results/)
+- [Who Will Pay to Protect Tech Giants from Rising Seas?](https://apps.npr.org/sea-level-rise-silicon-valley/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
