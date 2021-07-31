@@ -53,8 +53,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Compose.ai (YC W21) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/compose-ai/jobs/syPzbAB-senior-frontend-engineer)
 - [Cy384/ssheven: A modern SSH client for Mac OS 7/8/9](https://github.com/cy384/ssheven)
+- [Comma Three Devkit](https://comma.ai/shop/products/three)
 - [Lang Jam: create a programming language in a weekend](https://github.com/langjam/langjam)
-- [The Bitcoin mine with its own power plant](https://www.bbc.com/news/av/technology-58020010)
 - [Txiki.js: Tiny JavaScript runtime built with QuickJS and libuv](https://github.com/saghul/txiki.js)
 <!-- BLOG-POST-LIST:END -->
 
