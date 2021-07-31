@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Safari's buggy” is valid criticism. “Safari's behind Chrome in features” is not](https://twitter.com/lapcatsoftware/status/1421078387376918529)
+- [Safari Extension Rejected Because Developer Not “Reputable”](https://mjtsai.com/blog/2021/07/30/safari-extension-rejected-because-developer-not-reputable/#comment-3497166)
+- [Sorbet Compiler: An experimental, ahead-of-time compiler for Ruby](https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler)
 - [Tell HN: Consider listing your contact details](https://news.ycombinator.com/item?id=28012969)
 - [Static.wiki – read-only Wikipedia using a 43GB SQLite file](http://static.wiki/)
-- [Crowdfunding Backer Patented My Project (2018)](https://patentpandas.org/stories/crowdfunding-backer-patented-my-project)
 - [Raspberry Pi OS now has SATA support built-in](https://www.jeffgeerling.com/blog/2021/raspberry-pi-os-now-has-sata-support-built)
 <!-- BLOG-POST-LIST:END -->
 
