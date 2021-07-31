@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Yi – The Haskell-Scriptable Editor](https://github.com/yi-editor/yi)
-- [Thai PM Orders Internet Block for Anyone Spreading Info That May Frighten People](https://chiangmaione.com/featured/pm-orders-internet-blocked-for-anyone-spreading-info-that-might-frighten-people)
+- [PM Orders Internet Blocked For Anyone Spreading Info That Might Frighten People](https://chiangmaione.com/featured/pm-orders-internet-blocked-for-anyone-spreading-info-that-might-frighten-people)
 - [Daniel Hale Receives 45-Month Sentence for Releasing Drone Documents](https://thedissenter.org/daniel-hale-receives-harshest-sentence-ever-for-a-leak/)
 - [Fencers Refused to Fight. Then Came the Rule That Changed the Sport](https://www.wsj.com/articles/fencers-refused-to-fight-rule-change-epee-11627457900)
-- [Safari Extension Rejected Because Developer Not “Reputable”](https://mjtsai.com/blog/2021/07/30/safari-extension-rejected-because-developer-not-reputable/#comment-3497166)
+- [Safari extension rejected because developer not “reputable”](https://mjtsai.com/blog/2021/07/30/safari-extension-rejected-because-developer-not-reputable/#comment-3497166)
 <!-- BLOG-POST-LIST:END -->
 
 ---
