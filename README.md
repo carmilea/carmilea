@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zendar (YC S17) is hiring a platform software engineer](https://jobs.ashbyhq.com/zendar/ca3dde1b-ad32-43e2-bcde-7bb3c404017c)
+- [FBI probe shows nitrate amount in Beirut blast was a fraction of shipment](https://www.reuters.com/world/middle-east/fbi-probe-shows-amount-chemicals-beirut-blast-was-fraction-original-shipment-2021-07-30/)
+- [The Retrocomputing Archive](http://www.retroarchive.org/)
 - [As lockdowns lift, media firms brace for an “attention recession”](https://www.economist.com/international/2021/07/01/as-lockdowns-lift-media-firms-brace-for-an-attention-recession)
 - [Cory Doctorow: Past Performance is Not Indicative of Future Results (2020)](https://locusmag.com/2020/11/cory-doctorow-past-performance-is-not-indicative-of-future-results/)
-- [Observation of Time-Crystalline Eigenstate Order on a Quantum Processor](https://arxiv.org/abs/2107.13571)
-- [The Human Brain in Numbers: A Linearly Scaled-Up Primate Brain (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2776484/)
-- [Typos, tricks and misprints](https://aeon.co/essays/why-is-the-english-spelling-system-so-weird-and-inconsistent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
