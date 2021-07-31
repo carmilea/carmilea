@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Strict memcpy() bounds checking for the Linux kernel](https://lwn.net/SubscriberLink/864521/d704bdcced0c5c60/)
-- [Neal Stephenson: Unix – The Hole Hawg of Operating Systems (1999)](http://www.team.net/mjb/hawg.html)
-- [Italian Pronunciation: A Primer for Singers](https://web.stanford.edu/~jrb/reference/italian.html)
-- [Yi – The Haskell-Scriptable Editor](https://github.com/yi-editor/yi)
-- [PM orders internet blocked for anyone spreading info that might frighten people](https://chiangmaione.com/featured/pm-orders-internet-blocked-for-anyone-spreading-info-that-might-frighten-people)
+- [London’s Crossrail Is a $21B Test of Virtual Modeling](https://spectrum.ieee.org/londons-crossrail-is-a-21-billion-test-of-virtual-modeling)
+- [Build Your Own Metal Working Shop from Scrap](https://www.gingerybookstore.com/)
+- [Hosting SQLite Databases on GitHub Pages](https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/)
+- [Medals at Tokyo olympics are recycled from discarded electronic equipment](https://cosmosmagazine.com/science/chemistry/olympic-medal-composition)
+- [Lumen: Alternative BEAM implementation, designed for WebAssembly](https://github.com/lumen/lumen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
