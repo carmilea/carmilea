@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [As lockdowns lift, media firms brace for an “attention recession”](https://www.economist.com/international/2021/07/01/as-lockdowns-lift-media-firms-brace-for-an-attention-recession)
+- [Cory Doctorow: Past Performance is Not Indicative of Future Results (2020)](https://locusmag.com/2020/11/cory-doctorow-past-performance-is-not-indicative-of-future-results/)
+- [Observation of Time-Crystalline Eigenstate Order on a Quantum Processor](https://arxiv.org/abs/2107.13571)
 - [The Human Brain in Numbers: A Linearly Scaled-Up Primate Brain (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2776484/)
 - [Typos, tricks and misprints](https://aeon.co/essays/why-is-the-english-spelling-system-so-weird-and-inconsistent)
-- [Ask HN: Jobs in Software/Technology Activism?](https://news.ycombinator.com/item?id=28018203)
-- [The recycling myth: A plastic waste solution littered with failure](https://www.reuters.com/investigates/special-report/environment-plastic-oil-recycling/)
-- [Murray's jailing is latest move in a battle to snuff out independent journalism](https://www.jonathan-cook.net/blog/2021-07-30/craig-murrays-jailing-is-the-latest-move-in-the-battle-to-snuff-out-independent-journalism/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
