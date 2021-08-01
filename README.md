@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sky News Australia barred for week by YouTube over Covid misinformation](https://www.bbc.co.uk/news/world-australia-58045787)
+- [Tree Shaking](https://en.wikipedia.org/wiki/Tree_shaking)
+- [Microsoft Office 2010: Can’t be activated anymore?](https://borncity.com/win/2021/07/29/microsoft-office-2010-keine-aktivierung-mehr/)
 - [My tiny side project has had more impact than my decade in the software industry](https://mike.zwobble.org/2021/08/side-projects-vs-industry/)
 - [Rabbet (YC S17) Is Hiring Elixir/React Software Engineers (US Remote/Austin)](https://apply.workable.com/rabbet/)
-- [My Homebuilt 200W Laser (2016) [video]](https://www.youtube.com/watch?v=IzUoe-9bKa0&t=81s)
-- [CO2 battery will make wind and solar dispatchable at an unprecedented low price](https://www.rechargenews.com/energy-transition/new-co2-battery-will-make-wind-and-solar-dispatchable-at-an-unprecedented-low-price/2-1-1044755)
-- [Impersonating the brave.com website to deliver malware](https://arstechnica.com/gadgets/2021/07/with-help-from-google-impersonated-brave-com-website-pushes-malware/#p3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
