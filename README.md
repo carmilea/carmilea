@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is Linus Torvalds a Great Man of History?](https://news.ycombinator.com/item?id=28022990)
+- [Creating a DOOM-inspired aesthetic with PlayCanvas – an interactive article](https://omarshehata.me/html/playcanvas-horror-aesthetic/)
+- [FBI Seized $900K from Safe Deposit Box on 'Pure Conjecture,' Federal Judge Says](https://reason.com/2021/07/29/fbi-seized-900000-from-safe-deposit-box-on-pure-conjecture-federal-judge-says/)
 - [What if JavaScript had a synchronous async flavor?](https://guido.io/posts/nasync-javascript/)
 - [Blizzard's reputation collapsed in just three years](https://www.pcgamer.com/how-blizzards-reputation-collapsed-in-just-3-years/)
 - [Six corporations control 90% of America media](https://techstartups.com/2020/09/18/6-corporations-control-90-media-america-illusion-choice-objectivity-2020/)
-- [Compose.ai (YC W21) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/compose-ai/jobs/syPzbAB-senior-frontend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
