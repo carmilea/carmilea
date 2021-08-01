@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Navy Quietly Decommissions Littoral Combat Ship Independence](https://news.usni.org/2021/07/31/navy-quietly-decommissions-littoral-combat-ship-independence-after-11-years)
+- [Jeffrey Epstein Got Away with It](https://www.nytimes.com/2021/07/13/books/review/perversion-of-justice-julie-k-brown.html)
+- [Blizzard's reputation collapsed in just three years](https://www.pcgamer.com/how-blizzards-reputation-collapsed-in-just-3-years/)
 - [Six corporations control 90% of America media](https://techstartups.com/2020/09/18/6-corporations-control-90-media-america-illusion-choice-objectivity-2020/)
 - [Compose.ai (YC W21) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/compose-ai/jobs/syPzbAB-senior-frontend-engineer)
 - [Cy384/ssheven: A modern SSH client for Mac OS 7/8/9](https://github.com/cy384/ssheven)
-- [Comma Three Devkit](https://comma.ai/shop/products/three)
 <!-- BLOG-POST-LIST:END -->
 
 ---
