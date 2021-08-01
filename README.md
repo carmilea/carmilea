@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Streak (YC S11) hiring a senior front end engineer (remote only)](https://www.streak.com/careers/product-engineer)
+- [Google Cloud reported an operating loss of $5.6bn in 2020](https://www.theregister.com/2021/05/18/google_cloud_confirm_departure_of/)
 - [Employers bow to tech workers in hottest job market since the dot-com era](https://www.latimes.com/business/story/2021-07-31/employers-bow-down-to-tech-workers-in-hottest-job-market)
 - [What makes agile software development agile?](https://ieeexplore.ieee.org/abstract/document/9496156)
-- [U.S. generates more plastic trash than any other nation, report finds](https://www.nationalgeographic.com/environment/article/us-plastic-pollution)
-- [MacType: Better Font Rendering for Windows](https://github.com/snowie2000/mactype)
-- [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
+- [Why Year of the Linux Desktop Is Bullshit (2020)](https://gregfmartin.com/2020/01/26/why-year-of-the-linux-desktop-is-bullshit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
