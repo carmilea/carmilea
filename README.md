@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to summon and sell your soul to Satan and other devils](https://hastyreader.com/how-to-summon-and-sell-your-soul-to-satan-and-other-devils/)
 - [Big tech companies are at war with employees over remote work](https://arstechnica.com/gadgets/2021/08/vaccines-reopenings-and-worker-revolts-big-techs-contentious-return-to-the-office/)
-- [Plandemic Revisited: A Planned Disinformation Campaign](https://www.frontiersin.org/articles/10.3389/fpubh.2021.649930/full)
-- [Why Young Developers Don’t Get Knowledge Graphs](https://www.datanami.com/2021/07/30/why-young-developers-dont-get-knowledge-graphs/)
 - [Dysregulated oxalate metabolism is a therapeutic target in atherosclerosis](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00833-0)
 - [Think Sustainability Is Simple? This Sheep Farmer Would Like a Word](https://www.nytimes.com/2021/08/01/books/review/pastoral-song-james-rebanks.html)
+- [Why All Printers Suck, Even the Best Ones (2016)](https://www.nytimes.com/wirecutter/blog/why-all-printers-suck-even-the-best-ones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
