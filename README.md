@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeffrey Epstein Got Away with It](https://www.nytimes.com/2021/07/13/books/review/perversion-of-justice-julie-k-brown.html)
+- [Ask HN: Is Linus Torvalds a Great Man of History?](https://news.ycombinator.com/item?id=28022990)
+- [What if JavaScript had a synchronous async flavor?](https://guido.io/posts/nasync-javascript/)
 - [Blizzard's reputation collapsed in just three years](https://www.pcgamer.com/how-blizzards-reputation-collapsed-in-just-3-years/)
 - [Six corporations control 90% of America media](https://techstartups.com/2020/09/18/6-corporations-control-90-media-america-illusion-choice-objectivity-2020/)
 - [Compose.ai (YC W21) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/compose-ai/jobs/syPzbAB-senior-frontend-engineer)
-- [Cy384/ssheven: A modern SSH client for Mac OS 7/8/9](https://github.com/cy384/ssheven)
 <!-- BLOG-POST-LIST:END -->
 
 ---
