@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Employers bow to tech workers in hottest job market since the dot-com era](https://www.latimes.com/business/story/2021-07-31/employers-bow-down-to-tech-workers-in-hottest-job-market)
+- [What makes agile software development agile?](https://ieeexplore.ieee.org/abstract/document/9496156)
+- [U.S. generates more plastic trash than any other nation, report finds](https://www.nationalgeographic.com/environment/article/us-plastic-pollution)
 - [MacType: Better Font Rendering for Windows](https://github.com/snowie2000/mactype)
-- [Intel Executive Posts Thunderbolt 5 Photo Then Deletes It: 80 Gbps and Pam-3](https://www.anandtech.com/show/16858/intel-executive-posts-thunderbolt-5-photo-80-gbps-and-pam3-then-deletes-it)
-- [Earth's energy imbalance removes almost all doubt from human-made climate change](https://news.yahoo.com/earths-energy-imbalance-removes-almost-083014356.html)
-- [Monks Wood Wilderness: 60 years ago, scientists let a farm field rewild](https://theconversation.com/monks-wood-wilderness-60-years-ago-scientists-let-a-farm-field-rewild-heres-what-happened-163406)
 - [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
 <!-- BLOG-POST-LIST:END -->
 
