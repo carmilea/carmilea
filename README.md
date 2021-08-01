@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turkey unveiled a drone program to kill the F-35 dominance](https://eurasiantimes.com/killer-of-f-35-jets-us-dominance-of-5th-gen-fighter-aircraft-to-end-with-supersonic-stealthy-drones/)
+- [Clusterboard A64 Insidious Reset Problem: Solved](https://ericdraken.com/a64-reset-problem/)
 - [Jerry (YC S17) Is Hiring](https://apply.workable.com/jerry/j/07E1D2B302/)
 - [Why printers add secret tracking dots (2020)](https://www.bbc.com/future/article/20170607-why-printers-add-secret-tracking-dots)
 - [Creating a DOOM-inspired aesthetic with PlayCanvas](https://omarshehata.me/html/playcanvas-horror-aesthetic/)
-- [I was a teacher for 17 years, but couldn't read or write](https://www.bbc.co.uk/news/stories-43700153)
-- [Blizzard's reputation collapsed in just three years](https://www.pcgamer.com/how-blizzards-reputation-collapsed-in-just-3-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
