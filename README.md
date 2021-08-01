@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Streak (YC S11) hiring a senior front end engineer (remote only)](https://www.streak.com/careers/product-engineer)
+- [The Lost Cat Art of Ithaca, NY](https://www.lostcatithaca.com/map/)
+- [L0phtcrack 7 will be released as open source](https://twitter.com/dildog/status/1421830165911556099)
 - [Google Cloud reported an operating loss of $5.6bn in 2020](https://www.theregister.com/2021/05/18/google_cloud_confirm_departure_of/)
 - [Employers bow to tech workers in hottest job market since the dot-com era](https://www.latimes.com/business/story/2021-07-31/employers-bow-down-to-tech-workers-in-hottest-job-market)
-- [What makes agile software development agile?](https://ieeexplore.ieee.org/abstract/document/9496156)
-- [Why Year of the Linux Desktop Is Bullshit (2020)](https://gregfmartin.com/2020/01/26/why-year-of-the-linux-desktop-is-bullshit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
