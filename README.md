@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sky News Australia barred for week by YouTube over Covid misinformation](https://www.bbc.co.uk/news/world-australia-58045787)
-- [Tree Shaking](https://en.wikipedia.org/wiki/Tree_shaking)
-- [Microsoft Office 2010: Can’t be activated anymore?](https://borncity.com/win/2021/07/29/microsoft-office-2010-keine-aktivierung-mehr/)
-- [My tiny side project has had more impact than my decade in the software industry](https://mike.zwobble.org/2021/08/side-projects-vs-industry/)
-- [Rabbet (YC S17) Is Hiring Elixir/React Software Engineers (US Remote/Austin)](https://apply.workable.com/rabbet/)
+- [Big tech companies are at war with employees over remote work](https://arstechnica.com/gadgets/2021/08/vaccines-reopenings-and-worker-revolts-big-techs-contentious-return-to-the-office/)
+- [Plandemic Revisited: A Planned Disinformation Campaign](https://www.frontiersin.org/articles/10.3389/fpubh.2021.649930/full)
+- [Why Young Developers Don’t Get Knowledge Graphs](https://www.datanami.com/2021/07/30/why-young-developers-dont-get-knowledge-graphs/)
+- [Dysregulated oxalate metabolism is a therapeutic target in atherosclerosis](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00833-0)
+- [Think Sustainability Is Simple? This Sheep Farmer Would Like a Word](https://www.nytimes.com/2021/08/01/books/review/pastoral-song-james-rebanks.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
