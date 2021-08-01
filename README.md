@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [American Medical Association: Remove Sex from Public Birth Certificates](https://www.webmd.com/a-to-z-guides/news/20210616/remove-sex-from-public-birth-certificates-ama-says?ecd=soc_tw_210731_cons_news_genderbirthcertificate&linkId=100000057443909)
 - [Jerry (YC S17) Is Hiring](https://apply.workable.com/jerry/j/07E1D2B302/)
 - [Why printers add secret tracking dots (2020)](https://www.bbc.com/future/article/20170607-why-printers-add-secret-tracking-dots)
 - [Creating a DOOM-inspired aesthetic with PlayCanvas](https://omarshehata.me/html/playcanvas-horror-aesthetic/)
-- [What if JavaScript had a synchronous async flavor?](https://guido.io/posts/nasync-javascript/)
-- [Blizzard's reputation collapsed in just three years](https://www.pcgamer.com/how-blizzards-reputation-collapsed-in-just-3-years/)
+- [I was a teacher for 17 years, but couldn't read or write](https://www.bbc.co.uk/news/stories-43700153)
 <!-- BLOG-POST-LIST:END -->
 
 ---
