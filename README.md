@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A ‘safe space for racists’: antisemitism report criticises social media giants](https://www.theguardian.com/media/2021/aug/01/a-safe-space-for-racists-antisemitism-report-criticises-social-media-giants)
+- [Monks Wood Wilderness: 60 years ago, scientists let a farm field rewild](https://theconversation.com/monks-wood-wilderness-60-years-ago-scientists-let-a-farm-field-rewild-heres-what-happened-163406)
 - [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
 - [How Google quietly funds Europe’s leading tech policy institutes](https://www.newstatesman.com/business/sectors/2021/07/how-google-quietly-funds-europe-s-leading-tech-policy-institutes)
-- [Bacon may disappear in California as pig rules take effect](https://fox5sandiego.com/news/california-news/bacon-may-disappear-in-california-as-pig-rules-take-effect/)
 - [Police can get your data – even if you aren’t suspected of a crime](https://www.vox.com/recode/22565926/police-law-enforcement-data-warrant)
-- [I built a business that lets me live on the beach full time](https://www.expatsoftware.com/Articles/guy-on-the-beach-with-a-laptop.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
