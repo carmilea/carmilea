@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Jerry (YC S17) Is Hiring](https://apply.workable.com/jerry/j/07E1D2B302/)
 - [Why printers add secret tracking dots (2020)](https://www.bbc.com/future/article/20170607-why-printers-add-secret-tracking-dots)
-- [Creating a DOOM-inspired aesthetic with PlayCanvas – an interactive article](https://omarshehata.me/html/playcanvas-horror-aesthetic/)
-- [FBI Seized $900K from Safe Deposit Box on 'Pure Conjecture,' Federal Judge Says](https://reason.com/2021/07/29/fbi-seized-900000-from-safe-deposit-box-on-pure-conjecture-federal-judge-says/)
+- [Creating a DOOM-inspired aesthetic with PlayCanvas](https://omarshehata.me/html/playcanvas-horror-aesthetic/)
 - [What if JavaScript had a synchronous async flavor?](https://guido.io/posts/nasync-javascript/)
+- [Blizzard's reputation collapsed in just three years](https://www.pcgamer.com/how-blizzards-reputation-collapsed-in-just-3-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
