@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My tiny side project has had more impact than my decade in the software industry](https://mike.zwobble.org/2021/08/side-projects-vs-industry/)
+- [Rabbet (YC S17) Is Hiring Elixir/React Software Engineers (US Remote/Austin)](https://apply.workable.com/rabbet/)
+- [My Homebuilt 200W Laser (2016) [video]](https://www.youtube.com/watch?v=IzUoe-9bKa0&t=81s)
 - [CO2 battery will make wind and solar dispatchable at an unprecedented low price](https://www.rechargenews.com/energy-transition/new-co2-battery-will-make-wind-and-solar-dispatchable-at-an-unprecedented-low-price/2-1-1044755)
 - [Impersonating the brave.com website to deliver malware](https://arstechnica.com/gadgets/2021/07/with-help-from-google-impersonated-brave-com-website-pushes-malware/#p3)
-- [New in Git: switch and restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/)
-- [Turkey has unveiled a stealth carrier-based unmanned aircraft program](https://eurasiantimes.com/killer-of-f-35-jets-us-dominance-of-5th-gen-fighter-aircraft-to-end-with-supersonic-stealthy-drones/)
-- [Clusterboard A64 Insidious Reset Problem: Solved](https://ericdraken.com/a64-reset-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
