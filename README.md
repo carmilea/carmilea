@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Turkey unveiled a drone program to kill the F-35 dominance](https://eurasiantimes.com/killer-of-f-35-jets-us-dominance-of-5th-gen-fighter-aircraft-to-end-with-supersonic-stealthy-drones/)
+- [Impersonating the brave.com website to deliver malware](https://arstechnica.com/gadgets/2021/07/with-help-from-google-impersonated-brave-com-website-pushes-malware/#p3)
+- [New in Git: Switch and Restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/)
+- [Turkey has unveiled a stealth carrier-based unmanned aircraft program](https://eurasiantimes.com/killer-of-f-35-jets-us-dominance-of-5th-gen-fighter-aircraft-to-end-with-supersonic-stealthy-drones/)
 - [Clusterboard A64 Insidious Reset Problem: Solved](https://ericdraken.com/a64-reset-problem/)
-- [Jerry (YC S17) Is Hiring](https://apply.workable.com/jerry/j/07E1D2B302/)
-- [Why printers add secret tracking dots (2020)](https://www.bbc.com/future/article/20170607-why-printers-add-secret-tracking-dots)
-- [Creating a DOOM-inspired aesthetic with PlayCanvas](https://omarshehata.me/html/playcanvas-horror-aesthetic/)
+- [Water management innovation is central to the future of ICs](https://www.eetimes.com/water-management-innovation-is-central-to-the-future-of-ics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
