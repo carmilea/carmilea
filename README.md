@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A ‘safe space for racists’: antisemitism report criticises social media giants](https://www.theguardian.com/media/2021/aug/01/a-safe-space-for-racists-antisemitism-report-criticises-social-media-giants)
+- [MacType: Better Font Rendering for Windows](https://github.com/snowie2000/mactype)
+- [Intel Executive Posts Thunderbolt 5 Photo Then Deletes It: 80 Gbps and Pam-3](https://www.anandtech.com/show/16858/intel-executive-posts-thunderbolt-5-photo-80-gbps-and-pam3-then-deletes-it)
+- [Earth's energy imbalance removes almost all doubt from human-made climate change](https://news.yahoo.com/earths-energy-imbalance-removes-almost-083014356.html)
 - [Monks Wood Wilderness: 60 years ago, scientists let a farm field rewild](https://theconversation.com/monks-wood-wilderness-60-years-ago-scientists-let-a-farm-field-rewild-heres-what-happened-163406)
 - [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
-- [How Google quietly funds Europe’s leading tech policy institutes](https://www.newstatesman.com/business/sectors/2021/07/how-google-quietly-funds-europe-s-leading-tech-policy-institutes)
-- [Police can get your data – even if you aren’t suspected of a crime](https://www.vox.com/recode/22565926/police-law-enforcement-data-warrant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
