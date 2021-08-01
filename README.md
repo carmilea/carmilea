@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
 - [How Google quietly funds Europe’s leading tech policy institutes](https://www.newstatesman.com/business/sectors/2021/07/how-google-quietly-funds-europe-s-leading-tech-policy-institutes)
 - [Bacon may disappear in California as pig rules take effect](https://fox5sandiego.com/news/california-news/bacon-may-disappear-in-california-as-pig-rules-take-effect/)
 - [Police can get your data – even if you aren’t suspected of a crime](https://www.vox.com/recode/22565926/police-law-enforcement-data-warrant)
-- [U.S. Sees Ongoing Spike in Gun, Ammo Sales: 'I've Never Seen Anything Like It'](https://www.newsweek.com/us-sees-ongoing-spike-gun-ammo-sales-ive-never-seen-anything-like-it-1614952)
-- [Why women gymnasts compete to music in their floor routines but men don't](https://edition.cnn.com/2021/07/31/us/gymnastics-music-male-female-olympics/index.html)
+- [I built a business that lets me live on the beach full time](https://www.expatsoftware.com/Articles/guy-on-the-beach-with-a-laptop.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
