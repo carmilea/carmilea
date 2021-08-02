@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google bookmarks won't be supported past September 31, 2021](https://news.ycombinator.com/item?id=28038560)
-- [Old Android versions will no longer be able to log into Google account](https://support.google.com/android/thread/118703101/sign-in-on-android-devices-running-android-2-3-7-or-lower-will-not-be-allowed-starting-september-27?hl=en)
-- [Why extraterrestrial life may not seem alien](https://www.quantamagazine.org/arik-kershenbaum-on-why-alien-life-may-be-like-life-on-earth-20210318/)
-- [The Push for a “PBS for the Internet”](https://www.axios.com/pbs-internet-online-information-nonprofit-e9a78344-ae58-4214-9cb6-974ab9576cb1.html)
-- [Ask HN: Who is hiring? (August 2021)](https://news.ycombinator.com/item?id=28037366)
+- [Stacker (YC S20) Is Hiring Customer Success Specialists](https://www.stackerhq.com/jobs)
+- [Multicore OCaml: July 2021](https://discuss.ocaml.org/t/multicore-ocaml-july-2021/8232)
+- [Astronomy Photographer of the Year 2021 shortlist images](https://www.rmg.co.uk/national-maritime-museum/astronomy-photographer-year-2021-shortlist-images)
+- [Dollar stores make up nearly half of all new store openings](https://nextcity.org/daily/entry/dollar-stores-make-up-nearly-half-of-all-new-store-openings-this-year)
+- [Google Tensor debuts on the new Pixel 6 this fall](https://blog.google/products/pixel/google-tensor-debuts-new-pixel-6-fall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
