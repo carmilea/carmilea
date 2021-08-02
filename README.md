@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Working Around a Case Where the Postgres Planner Is “Not Very Smart”](https://heap.io/blog/when-the-postgres-planner-is-not-very-smart)
 - [WireGuardNT, a high-performance WireGuard implementation for the Windows kernel](https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html)
-- [How to boost your popularity on okcupid using CSRF and a JSON type confusion](https://blog.azuki.vip/csrf/)
+- [How to boost your popularity on OkCupid using CSRF and a JSON type confusion](https://blog.azuki.vip/csrf/)
+- [Show HN: Volcano | Co-watch YouTube videos just by adding –-- to the URL](https://news.ycombinator.com/item?id=28039474)
 - [Stacker (YC S20) Is Hiring Customer Success Specialists](https://www.stackerhq.com/jobs)
-- [Astronomy Photographer of the Year 2021 shortlist images](https://www.rmg.co.uk/national-maritime-museum/astronomy-photographer-year-2021-shortlist-images)
-- [Life before smartphones](https://mattruby.substack.com/p/the-most-unbelievable-things-about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
