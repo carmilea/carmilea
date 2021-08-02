@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Red Delicious Apples Weren’t Always Horrible](https://newengland.com/today/food/red-delicious-apple/)
+- [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.com/news/business-58050391)
+- [Thinking about “traceability” (Matthew Green)](https://blog.cryptographyengineering.com/2021/08/01/thinking-about-traceability/)
+- [The rise of never-ending job interviews](https://www.bbc.com/worklife/article/20210727-the-rise-of-never-ending-job-interviews)
 - [An alternative to hiring and paying employees – the Qbix Compensation Model](https://qbix.com/blog/2016/11/17/properly-valuing-contributions/)
 - [Square to acquire Afterpay for $29B](https://squareup.com/us/en/press/square-announces-plans-to-acquire-afterpay)
-- [A wiper attack paralyzed the Iranian train system](https://labs.sentinelone.com/meteorexpress-mysterious-wiper-paralyzes-iranian-trains-with-epic-troll/)
-- [Streak (YC S11) hiring a senior front end engineer (remote only)](https://www.streak.com/careers/product-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
