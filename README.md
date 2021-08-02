@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google bookmarks won't be supported past September 31, 2021](https://news.ycombinator.com/item?id=28038560)
+- [Old Android versions will no longer be able to log into Google account](https://support.google.com/android/thread/118703101/sign-in-on-android-devices-running-android-2-3-7-or-lower-will-not-be-allowed-starting-september-27?hl=en)
+- [Why extraterrestrial life may not seem alien](https://www.quantamagazine.org/arik-kershenbaum-on-why-alien-life-may-be-like-life-on-earth-20210318/)
+- [The Push for a “PBS for the Internet”](https://www.axios.com/pbs-internet-online-information-nonprofit-e9a78344-ae58-4214-9cb6-974ab9576cb1.html)
 - [Ask HN: Who is hiring? (August 2021)](https://news.ycombinator.com/item?id=28037366)
-- [Ask HN: Who wants to be hired? (August 2021)](https://news.ycombinator.com/item?id=28037364)
-- [Launch HN: Tavus (YC S21) – AI-generated personalized videos for sales outreach](https://news.ycombinator.com/item?id=28037322)
-- [Pegasus spyware found on journalists’ phones, French intelligence confirms](https://www.theguardian.com/news/2021/aug/02/pegasus-spyware-found-on-journalists-phones-french-intelligence-confirms)
-- [Rep. Takano Introduces Legislation to Reduce the Standard Workweek to 32 Hours](https://takano.house.gov/newsroom/press-releases/rep-takano-introduces-legislation-to-reduce-the-standard-workweek-to-32-hours)
 <!-- BLOG-POST-LIST:END -->
 
 ---
