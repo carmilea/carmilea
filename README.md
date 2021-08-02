@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xi Jinping’s Capitalist Smackdown Sparks a $1T Reckoning](https://www.bloomberg.com/news/features/2021-08-01/china-tech-crackdown-communist-party-policy-changes-behind-1-trillion-selloff)
 - [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.com/news/business-58050391)
 - [Thinking about “traceability” (Matthew Green)](https://blog.cryptographyengineering.com/2021/08/01/thinking-about-traceability/)
 - [The rise of never-ending job interviews](https://www.bbc.com/worklife/article/20210727-the-rise-of-never-ending-job-interviews)
 - [An alternative to hiring and paying employees – the Qbix Compensation Model](https://qbix.com/blog/2016/11/17/properly-valuing-contributions/)
-- [Square to acquire Afterpay for $29B](https://squareup.com/us/en/press/square-announces-plans-to-acquire-afterpay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
