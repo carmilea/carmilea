@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Windows 96 Story](https://blog.racket.com/the-windows-96-story/)
+- [Show HN: Nordigen Free banking data API (EU)](https://nordigen.com/en/products/account-information/)
 - [An Animal’s Place (2002)](https://michaelpollan.com/articles-archive/an-animals-place/)
 - [Steam survey shows Linux marketshare hitting 1.0%](https://www.phoronix.com/scan.php?page=news_item&px=Steam-Linux-July-2021)
 - [Israel tries to limit fallout from the Pegasus spyware scandal](http://www.homelandsecuritynewswire.com/dr20210729-israel-tries-to-limit-fallout-from-the-pegasus-spyware-scandal)
-- [Winnebiko](https://microship.com/winnebiko/)
-- [OneSignal (YC S11) is hiring a full stack engineer to work on email, push, & SMS](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
 <!-- BLOG-POST-LIST:END -->
 
 ---
