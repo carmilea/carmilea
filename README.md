@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WireGuardNT, a high-performance WireGuard implementation for the Windows kernel](https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html)
+- [How to boost your popularity on okcupid using CSRF and a JSON type confusion](https://blog.azuki.vip/csrf/)
 - [Stacker (YC S20) Is Hiring Customer Success Specialists](https://www.stackerhq.com/jobs)
-- [Multicore OCaml: July 2021](https://discuss.ocaml.org/t/multicore-ocaml-july-2021/8232)
 - [Astronomy Photographer of the Year 2021 shortlist images](https://www.rmg.co.uk/national-maritime-museum/astronomy-photographer-year-2021-shortlist-images)
-- [Dollar stores make up nearly half of all new store openings](https://nextcity.org/daily/entry/dollar-stores-make-up-nearly-half-of-all-new-store-openings-this-year)
-- [Google Tensor debuts on the new Pixel 6 this fall](https://blog.google/products/pixel/google-tensor-debuts-new-pixel-6-fall/)
+- [Life before smartphones](https://mattruby.substack.com/p/the-most-unbelievable-things-about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
