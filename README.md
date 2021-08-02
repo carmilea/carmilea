@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal (YC S11) is hiring a full stack engineer to work on email, push, & SMS](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
+- [Culture and Conduct Risk: The Normalization of Deviance](https://www.regulationasia.com/culture-conduct-risk-the-normalization-of-deviance/)
 - [Xi Jinping’s Capitalist Smackdown Sparks a $1T Reckoning](https://www.bloomberg.com/news/features/2021-08-01/china-tech-crackdown-communist-party-policy-changes-behind-1-trillion-selloff)
+- [The State of Python in 2021](https://deprogrammaticaipsum.com/the-state-of-python-in-2021/)
 - [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.com/news/business-58050391)
-- [Thinking about “traceability” (Matthew Green)](https://blog.cryptographyengineering.com/2021/08/01/thinking-about-traceability/)
-- [The rise of never-ending job interviews](https://www.bbc.com/worklife/article/20210727-the-rise-of-never-ending-job-interviews)
-- [An alternative to hiring and paying employees – the Qbix Compensation Model](https://qbix.com/blog/2016/11/17/properly-valuing-contributions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
