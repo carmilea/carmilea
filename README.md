@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Generation Lost in the Bazaar (2012)](https://queue.acm.org/detail.cfm?id=2349257)
 - [Visit Y Combinator.com for jobs at 800 high-growth YC startups](https://www.ycombinator.com/jobs)
-- [Home Depot Is Selling Power Tools That Require Activation In-Store](https://hackaday.com/2021/08/02/home-depot-is-selling-power-tools-that-require-activation-in-store/)
+- [6 Years of Professional Clojure](https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983)
 - [Show HN: Connecting Arduino and Android](https://github.com/targist/ardui)
 - [The Windows 96 Story](https://blog.racket.com/the-windows-96-story/)
-- [Tesla big battery fire under control after burning more than three days](https://www.theguardian.com/australia-news/2021/aug/02/tesla-big-battery-fire-in-victoria-burns-into-day-three)
 <!-- BLOG-POST-LIST:END -->
 
 ---
