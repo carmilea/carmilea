@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to Do Accent Reduction?](https://news.ycombinator.com/item?id=28032071)
-- [The rise of never-ending job interviews](https://www.bbc.com/worklife/article/20210727-the-rise-of-never-ending-job-interviews)
+- [Red Delicious Apples Weren’t Always Horrible](https://newengland.com/today/food/red-delicious-apple/)
+- [An alternative to hiring and paying employees – the Qbix Compensation Model](https://qbix.com/blog/2016/11/17/properly-valuing-contributions/)
+- [Square to acquire Afterpay for $29B](https://squareup.com/us/en/press/square-announces-plans-to-acquire-afterpay)
 - [A wiper attack paralyzed the Iranian train system](https://labs.sentinelone.com/meteorexpress-mysterious-wiper-paralyzes-iranian-trains-with-epic-troll/)
 - [Streak (YC S11) hiring a senior front end engineer (remote only)](https://www.streak.com/careers/product-engineer)
-- [The Lost Cat Art of Ithaca, NY](https://www.lostcatithaca.com/map/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
