@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Israel Tries to Limit Fallout from the Pegasus Spyware Scandal](http://www.homelandsecuritynewswire.com/dr20210729-israel-tries-to-limit-fallout-from-the-pegasus-spyware-scandal)
+- [Israel tries to limit fallout from the Pegasus spyware scandal](http://www.homelandsecuritynewswire.com/dr20210729-israel-tries-to-limit-fallout-from-the-pegasus-spyware-scandal)
+- [Winnebiko](https://microship.com/winnebiko/)
 - [OneSignal (YC S11) is hiring a full stack engineer to work on email, push, & SMS](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
 - [Technological Prudence: What the Amish Can Teach Us (2011) [pdf]](https://www.baylor.edu/content/services/document.php/130953.pdf)
 - [Culture and Conduct Risk: The Normalization of Deviance](https://www.regulationasia.com/culture-conduct-risk-the-normalization-of-deviance/)
-- [The State of Python in 2021](https://deprogrammaticaipsum.com/the-state-of-python-in-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
