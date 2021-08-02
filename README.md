@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Merge-sort with Transylvanian-saxon folk dance (2011) [video]](https://www.youtube.com/watch?v=XaqR3G_NVoo)
 - [A Generation Lost in the Bazaar (2012)](https://queue.acm.org/detail.cfm?id=2349257)
+- [My rant about React](https://www.silvestar.codes/articles/you-don-t-need-react-for-building-websites/)
 - [Visit Y Combinator.com for jobs at 800 high-growth YC startups](https://www.ycombinator.com/jobs)
-- [6 Years of Professional Clojure](https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983)
-- [Show HN: Connecting Arduino and Android](https://github.com/targist/ardui)
-- [The Windows 96 Story](https://blog.racket.com/the-windows-96-story/)
+- [Home Depot is introducing power tools that won’t work if they’re stolen](https://www.businessinsider.com/home-depot-fights-shoplifters-special-power-tools-2021-7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
