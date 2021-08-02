@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AssemblyAI (YC S17) Is Hiring Python Developers and Account Execs](https://apply.workable.com/assemblyai/)
+- [On Blankfaces](https://www.scottaaronson.com/blog/?p=5675)
+- [SpaceX installed 29 Raptor engines on a Super Heavy rocket last night](https://arstechnica.com/science/2021/08/spacex-installed-29-raptor-engines-on-a-super-heavy-rocket-last-night/)
+- [Gpsd bug may create a 1024 week time warp on October 23](https://gitlab.com/gpsd/gpsd/-/issues/144)
 - [Working Around a Case Where the Postgres Planner Is “Not Very Smart”](https://heap.io/blog/when-the-postgres-planner-is-not-very-smart)
-- [AMD and Valve Working on New Linux CPU Performance Scaling Design](https://www.phoronix.com/scan.php?page=news_item&px=AMD-Valve-New-CPU-Freq)
-- [WireGuardNT, a high-performance WireGuard implementation for the Windows kernel](https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html)
-- [How to boost your popularity on OkCupid using CSRF and a JSON type confusion](https://blog.azuki.vip/csrf/)
-- [Stacker (YC S20) Is Hiring Customer Success Specialists](https://www.stackerhq.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
