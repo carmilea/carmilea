@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Visit Y Combinator.com for jobs at 800 high-growth YC startups](https://www.ycombinator.com/jobs)
+- [Home Depot Is Selling Power Tools That Require Activation In-Store](https://hackaday.com/2021/08/02/home-depot-is-selling-power-tools-that-require-activation-in-store/)
+- [Show HN: Connecting Arduino and Android](https://github.com/targist/ardui)
 - [The Windows 96 Story](https://blog.racket.com/the-windows-96-story/)
-- [Show HN: Nordigen Free banking data API (EU)](https://nordigen.com/en/products/account-information/)
-- [An Animal’s Place (2002)](https://michaelpollan.com/articles-archive/an-animals-place/)
-- [Steam survey shows Linux marketshare hitting 1.0%](https://www.phoronix.com/scan.php?page=news_item&px=Steam-Linux-July-2021)
-- [Israel tries to limit fallout from the Pegasus spyware scandal](http://www.homelandsecuritynewswire.com/dr20210729-israel-tries-to-limit-fallout-from-the-pegasus-spyware-scandal)
+- [Tesla big battery fire under control after burning more than three days](https://www.theguardian.com/australia-news/2021/aug/02/tesla-big-battery-fire-in-victoria-burns-into-day-three)
 <!-- BLOG-POST-LIST:END -->
 
 ---
