@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Working Around a Case Where the Postgres Planner Is “Not Very Smart”](https://heap.io/blog/when-the-postgres-planner-is-not-very-smart)
+- [AMD and Valve Working on New Linux CPU Performance Scaling Design](https://www.phoronix.com/scan.php?page=news_item&px=AMD-Valve-New-CPU-Freq)
 - [WireGuardNT, a high-performance WireGuard implementation for the Windows kernel](https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html)
 - [How to boost your popularity on OkCupid using CSRF and a JSON type confusion](https://blog.azuki.vip/csrf/)
-- [Show HN: Volcano | Co-watch YouTube videos just by adding –-- to the URL](https://news.ycombinator.com/item?id=28039474)
 - [Stacker (YC S20) Is Hiring Customer Success Specialists](https://www.stackerhq.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
