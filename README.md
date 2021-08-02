@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue.js is Wikimedia Foundation's future JavaScript framework](https://lists.wikimedia.org/hyperkitty/list/wikitech-l@lists.wikimedia.org/thread/SOZREBYR36PUNFZXMIUBVAIOQI4N7PDU/)
 - [AssemblyAI (YC S17) Is Hiring Python Developers and Account Execs](https://apply.workable.com/assemblyai/)
-- [On Blankfaces](https://www.scottaaronson.com/blog/?p=5675)
 - [SpaceX installed 29 Raptor engines on a Super Heavy rocket last night](https://arstechnica.com/science/2021/08/spacex-installed-29-raptor-engines-on-a-super-heavy-rocket-last-night/)
 - [Gpsd bug may create a 1024 week time warp on October 23](https://gitlab.com/gpsd/gpsd/-/issues/144)
-- [Working Around a Case Where the Postgres Planner Is “Not Very Smart”](https://heap.io/blog/when-the-postgres-planner-is-not-very-smart)
+- [Working around a case where the Postgres planner is “not very smart”](https://heap.io/blog/when-the-postgres-planner-is-not-very-smart)
 <!-- BLOG-POST-LIST:END -->
 
 ---
