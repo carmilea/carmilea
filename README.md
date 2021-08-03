@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Axiom.ai (YC W21) Is Hiring – UX Designer and Developer](https://www.workatastartup.com/jobs/45008)
 - [Fourth police officer who responded to Jan 6 attack dies by suicide](https://thehill.com/homenews/house/566040-fourth-police-officer-who-responded-to-jan-6-attack-dies-by-suicide-report)
 - [Computational algebraic geometry for high school students](https://www.solidangl.es/post/varieties-the-spice-of-life)
 - [Infrastructure Bill Cryptocurrency Surveillance Provision Is a Privacy Disaster](https://www.eff.org/deeplinks/2021/08/cryptocurrency-surveillance-provision-buried-infrastructure-bill-disaster-digital)
 - [Image synthesis and editing with stochastic differential equations](https://arxiv.org/abs/2108.01073)
-- [We Switched to Mattermost](https://netfoundry.io/why-we-switched-to-mattermost/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
