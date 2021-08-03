@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Backblaze Drive Stats for Q2 2021](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2021/)
-- [Bombs vs. Bugs (By Edward Snowden)](https://edwardsnowden.substack.com/p/qa02)
+- [Bombs vs. Bugs](https://edwardsnowden.substack.com/p/qa02)
 - [Launching Rust Cloud Native](https://nickgerace.dev/post/launching-rust-cloud-native)
 - [Launch YC: 3D Web; Training; Child Privacy; Pregnancy; Life Science; Desk Rental](https://news.ycombinator.com/item?id=28049500)
 - [Trusted platform module security defeated in 30 minutes, no soldering required](https://arstechnica.com/gadgets/2021/08/how-to-go-from-stolen-pc-to-network-intrusion-in-30-minutes/)
