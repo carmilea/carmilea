@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘It has to be known what was done to us’: couple harassed by eBay tells story](https://www.bostonglobe.com/2021/07/31/business/it-has-be-known-what-was-done-us-natick-couple-harassed-by-ebay-tell-their-story-first-time/?p1=Article_Feed_ContentQuery)
 - [Axiom.ai (YC W21) Is Hiring – UX Designer and Developer](https://www.workatastartup.com/jobs/45008)
+- [Cracking into the Sun Ray General Dynamics-Tadpole M1400](https://oldvcr.blogspot.com/2021/08/cracking-into-sun-ray-general-dynamics.html)
 - [Fourth police officer who responded to Jan 6 attack dies by suicide](https://thehill.com/homenews/house/566040-fourth-police-officer-who-responded-to-jan-6-attack-dies-by-suicide-report)
 - [Computational algebraic geometry for high school students](https://www.solidangl.es/post/varieties-the-spice-of-life)
-- [Infrastructure Bill Cryptocurrency Surveillance Provision Is a Privacy Disaster](https://www.eff.org/deeplinks/2021/08/cryptocurrency-surveillance-provision-buried-infrastructure-bill-disaster-digital)
-- [Image synthesis and editing with stochastic differential equations](https://arxiv.org/abs/2108.01073)
 <!-- BLOG-POST-LIST:END -->
 
 ---
