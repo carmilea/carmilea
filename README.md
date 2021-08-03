@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber Requires Nondisclosure Agreement Before Helping Carjacked Driver](https://themarkup.org/working-for-an-algorithm/2021/08/03/uber-requires-nondisclosure-agreement-before-helping-carjacked-driver)
-- [South Korea the Only Middle Power of Its Kind](https://nationalinterest.org/blog/korea-watch/south-korea-only-middle-power-its-kind-190911)
-- [Show HN: A work in progress C compiler from scratch](https://github.com/riicchhaarrd/ocean)
-- [Bitten by the 90 day exercise window](https://www.abar.tech/articles/10yr-excercise-window/)
-- [Update 2-Entire German bond yield curve back in sub-zero territory](https://www.reuters.com/article/eurozone-bonds/update-2-entire-german-bond-yield-curve-back-in-sub-zero-territory-idUSL1N2P90H5)
+- [Alien Dreams: The Long History of Speculation About Extraterrestrials](https://thereader.mitpress.mit.edu/history-speculation-about-aliens/)
+- [New Leadership at Blizzard](https://news.blizzard.com/en-us/blizzard/23706475/new-leadership-at-blizzard)
+- [Uber requires nondisclosure agreement before compensating carjacked driver](https://themarkup.org/working-for-an-algorithm/2021/08/03/uber-requires-nondisclosure-agreement-before-helping-carjacked-driver)
+- [China quietly sets new 'buy Chinese' targets for state companies](https://www.reuters.com/business/aerospace-defense/china-quietly-sets-new-buy-chinese-targets-state-companies-us-sources-2021-08-02/)
+- [Companies claim there’s a labor shortage. Their solution? Prisoners](https://www.theguardian.com/us-news/2021/jul/20/companies-claim-theres-a-labor-shortage-their-solution-prisoners)
 <!-- BLOG-POST-LIST:END -->
 
 ---
