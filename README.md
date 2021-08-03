@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla battery burned for 4 days](https://news.cfa.vic.gov.au/firefighters-bring-large-battery-fire-near-geelong-under-control)
-- [JFrog Detects Malicious PyPI Packages Stealing Credit Cards and Injecting Code](https://jfrog.com/blog/malicious-pypi-packages-stealing-credit-cards-injecting-code/)
-- [Scrimba (YC S20) is hiring a full-stack dev to make CS education more accessible](https://jobs.scrimba.com)
-- [Interview with BlackMatter- a ransomware group targeting firms exceeding $100m](https://therecord.media/an-interview-with-blackmatter-a-new-ransomware-group-thats-learning-from-the-mistakes-of-darkside-and-revil/)
-- [Deckhouse: NoOps Kubernetes platform](https://github.com/deckhouse/deckhouse)
+- [Uber Requires Nondisclosure Agreement Before Helping Carjacked Driver](https://themarkup.org/working-for-an-algorithm/2021/08/03/uber-requires-nondisclosure-agreement-before-helping-carjacked-driver)
+- [South Korea the Only Middle Power of Its Kind](https://nationalinterest.org/blog/korea-watch/south-korea-only-middle-power-its-kind-190911)
+- [Show HN: A work in progress C compiler from scratch](https://github.com/riicchhaarrd/ocean)
+- [Bitten by the 90 day exercise window](https://www.abar.tech/articles/10yr-excercise-window/)
+- [Update 2-Entire German bond yield curve back in sub-zero territory](https://www.reuters.com/article/eurozone-bonds/update-2-entire-german-bond-yield-curve-back-in-sub-zero-territory-idUSL1N2P90H5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
