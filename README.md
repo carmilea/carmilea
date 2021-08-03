@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blizzard employee takes her own life after nude photos were distributed](https://us.forums.blizzard.com/en/wow/t/employee-takes-her-own-life/1043722)
+- [Apple Makes Magic Keyboard with Touch ID Available for Purchase](https://www.apple.com/shop/product/MK293LL/A/magic-keyboard-with-touch-id-for-mac-models-with-apple-silicon-us-english)
+- [Satan should chair your meetings – a literature lover’s guide to office politics](https://www.economist.com/1843/2021/08/03/why-satan-should-chair-your-meetings)
 - [Show HN: Tomatotree.tv – Find your next series to watch using Rotten Tomatoes](https://tomatotree.tv/)
 - [How MDN's Autocomplete Search Works](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
 - [Treble.ai (YC S19) Is Hiring Engineers in Latam](https://www.notion.so/treble-ai-is-Hiring-fd735f309ce24a4085bc52daabd3f335)
-- [Show HN: OnionShare with Just Tor and Redbean](https://github.com/ndren/redbean-onionshare)
 <!-- BLOG-POST-LIST:END -->
 
 ---
