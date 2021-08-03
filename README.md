@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/abs/2108.01073)
 - [We Switched to Mattermost](https://netfoundry.io/why-we-switched-to-mattermost/)
-- [Catalytic converter thefts in California: Why they are everywhere](https://www.latimes.com/california/newsletter/2021-08-02/catalytic-converter-theft-essential-california)
 - [Amazon should redo union election over improprieties, NLRB officer recommends](https://www.bloomberg.com/news/articles/2021-08-02/amazon-union-election-should-be-re-run-labor-official-says)
 - [Yellowcake Shaped the West](https://www.hcn.org/articles/books-mining-how-yellowcake-shaped-the-west)
 - [FB users buying Oculus VR headsets to get customer service prioritization](https://www.npr.org/2021/08/02/1023801277/your-facebook-account-was-hacked-getting-help-may-take-weeks-or-299)
