@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Backblaze Drive Stats for Q2 2021](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2021/)
+- [How MDN's Autocomplete Search Works](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
+- [Treble.ai (YC S19) Is Hiring Engineers in Latam](https://www.notion.so/treble-ai-is-Hiring-fd735f309ce24a4085bc52daabd3f335)
+- [Ray Ozzie's latest venture is a cheap IoT board with flat rate connectivity](https://blues.io/)
+- [NSA Kubernetes Hardening Guidance [pdf]](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
 - [Bombs vs. Bugs](https://edwardsnowden.substack.com/p/qa02)
-- [Launching Rust Cloud Native](https://nickgerace.dev/post/launching-rust-cloud-native)
-- [Launch YC: 3D Web; Training; Child Privacy; Pregnancy; Life Science; Desk Rental](https://news.ycombinator.com/item?id=28049500)
-- [Trusted platform module security defeated in 30 minutes, no soldering required](https://arstechnica.com/gadgets/2021/08/how-to-go-from-stolen-pc-to-network-intrusion-in-30-minutes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
