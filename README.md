@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bye CUPS: Printing with Netcat](https://retrohacker.substack.com/p/bye-cups-printing-with-netcat)
+- [Where Are the Robotic Bricklayers?](https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers)
 - [VergeSense (YC S17) Is Hiring Multiple Roles (Full-Stack, Firmware, Product)](https://www.workatastartup.com/companies/vergesense)
 - [Sparse Array Beamforming with a Phase Coherent 21-Channel RTL-SDR Array](https://www.rtl-sdr.com/sparse-array-beamforming-with-a-phase-coherent-21-channel-rtl-sdr-array/)
-- [Distributed consensus (blockchain) simulation and visualization](https://web3scout.github.io/forcecons-sim/)
-- [Postmortem in finance: How Credit Suisse lost $6B [pdf]](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/investor-relations/financial-disclosures/results/csg-special-committee-bod-report-archegos.pdf)
-- [Apple iPhone charger teardown: quality in a tiny expensive package](http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html)
+- [AlphaFold2: Are attention and symmetries all you need? [pdf]](https://journals.iucr.org/d/issues/2021/08/00/rr5212/rr5212.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
