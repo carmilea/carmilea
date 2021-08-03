@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alien Dreams: The Long History of Speculation About Extraterrestrials](https://thereader.mitpress.mit.edu/history-speculation-about-aliens/)
-- [New Leadership at Blizzard](https://news.blizzard.com/en-us/blizzard/23706475/new-leadership-at-blizzard)
-- [Uber requires nondisclosure agreement before compensating carjacked driver](https://themarkup.org/working-for-an-algorithm/2021/08/03/uber-requires-nondisclosure-agreement-before-helping-carjacked-driver)
-- [China quietly sets new 'buy Chinese' targets for state companies](https://www.reuters.com/business/aerospace-defense/china-quietly-sets-new-buy-chinese-targets-state-companies-us-sources-2021-08-02/)
-- [Companies claim there’s a labor shortage. Their solution? Prisoners](https://www.theguardian.com/us-news/2021/jul/20/companies-claim-theres-a-labor-shortage-their-solution-prisoners)
+- [Backblaze Drive Stats for Q2 2021](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2021/)
+- [Bombs vs. Bugs (By Edward Snowden)](https://edwardsnowden.substack.com/p/qa02)
+- [Launching Rust Cloud Native](https://nickgerace.dev/post/launching-rust-cloud-native)
+- [Launch YC: 3D Web; Training; Child Privacy; Pregnancy; Life Science; Desk Rental](https://news.ycombinator.com/item?id=28049500)
+- [Trusted platform module security defeated in 30 minutes, no soldering required](https://arstechnica.com/gadgets/2021/08/how-to-go-from-stolen-pc-to-network-intrusion-in-30-minutes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
