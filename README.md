@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fourth police officer who responded to Jan 6 attack dies by suicide](https://thehill.com/homenews/house/566040-fourth-police-officer-who-responded-to-jan-6-attack-dies-by-suicide-report)
 - [Computational algebraic geometry for high school students](https://www.solidangl.es/post/varieties-the-spice-of-life)
+- [Infrastructure Bill Cryptocurrency Surveillance Provision Is a Privacy Disaster](https://www.eff.org/deeplinks/2021/08/cryptocurrency-surveillance-provision-buried-infrastructure-bill-disaster-digital)
 - [Image synthesis and editing with stochastic differential equations](https://arxiv.org/abs/2108.01073)
 - [We Switched to Mattermost](https://netfoundry.io/why-we-switched-to-mattermost/)
-- [Amazon should redo union election over improprieties, NLRB officer recommends](https://www.bloomberg.com/news/articles/2021-08-02/amazon-union-election-should-be-re-run-labor-official-says)
-- [FB users buying Oculus VR headsets to get customer service prioritization](https://www.npr.org/2021/08/02/1023801277/your-facebook-account-was-hacked-getting-help-may-take-weeks-or-299)
 <!-- BLOG-POST-LIST:END -->
 
 ---
