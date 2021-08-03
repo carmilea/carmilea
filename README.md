@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We Switched to Mattermost](https://netfoundry.io/why-we-switched-to-mattermost/)
+- [Catalytic converter thefts in California: Why they are everywhere](https://www.latimes.com/california/newsletter/2021-08-02/catalytic-converter-theft-essential-california)
+- [Amazon should redo union election over improprieties, NLRB officer recommends](https://www.bloomberg.com/news/articles/2021-08-02/amazon-union-election-should-be-re-run-labor-official-says)
+- [Yellowcake Shaped the West](https://www.hcn.org/articles/books-mining-how-yellowcake-shaped-the-west)
 - [FB users buying Oculus VR headsets to get customer service prioritization](https://www.npr.org/2021/08/02/1023801277/your-facebook-account-was-hacked-getting-help-may-take-weeks-or-299)
-- [Vue.js is Wikimedia Foundation's future JavaScript framework](https://lists.wikimedia.org/hyperkitty/list/wikitech-l@lists.wikimedia.org/thread/SOZREBYR36PUNFZXMIUBVAIOQI4N7PDU/)
-- [AssemblyAI (YC S17) Is Hiring Python Developers and Account Execs](https://apply.workable.com/assemblyai/)
-- [SpaceX installed 29 Raptor engines on a Super Heavy rocket last night](https://arstechnica.com/science/2021/08/spacex-installed-29-raptor-engines-on-a-super-heavy-rocket-last-night/)
-- [Gpsd bug may create a 1024 week time warp on October 23](https://gitlab.com/gpsd/gpsd/-/issues/144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
