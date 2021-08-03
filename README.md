@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VergeSense (YC S17) Is Hiring Multiple Roles (Full-Stack, Firmware, Product)](https://www.workatastartup.com/companies/vergesense)
+- [Sparse Array Beamforming with a Phase Coherent 21-Channel RTL-SDR Array](https://www.rtl-sdr.com/sparse-array-beamforming-with-a-phase-coherent-21-channel-rtl-sdr-array/)
+- [Distributed consensus (blockchain) simulation and visualization](https://web3scout.github.io/forcecons-sim/)
+- [Postmortem in finance: How Credit Suisse lost $6B [pdf]](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/investor-relations/financial-disclosures/results/csg-special-committee-bod-report-archegos.pdf)
 - [Apple iPhone charger teardown: quality in a tiny expensive package](http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html)
-- [Tesla CEO berated employees, investors and tried to get rid of safety measures](https://www.gq.com/story/powerplay-tesla-musk-excerpt/)
-- [The 5-Hour CDN](https://fly.io/blog/the-5-hour-content-delivery-network/)
-- [Amazon Unlawfully Confiscated Union Literature, NLRB Finds](https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds)
-- [LTTng 2.13 facilitates quick reaction to kernel/user-space instrumentation hit](https://lists.lttng.org/pipermail/lttng-dev/2021-August/030046.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
