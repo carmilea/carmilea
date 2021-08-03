@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blizzard employee takes her own life after nude photos were distributed](https://us.forums.blizzard.com/en/wow/t/employee-takes-her-own-life/1043722)
+- [Show HN: Tomatotree.tv – Find your next series to watch using Rotten Tomatoes](https://tomatotree.tv/)
 - [How MDN's Autocomplete Search Works](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
 - [Treble.ai (YC S19) Is Hiring Engineers in Latam](https://www.notion.so/treble-ai-is-Hiring-fd735f309ce24a4085bc52daabd3f335)
-- [Ray Ozzie's latest venture is a cheap IoT board with flat rate connectivity](https://blues.io/)
-- [NSA Kubernetes Hardening Guidance [pdf]](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
-- [Bombs vs. Bugs](https://edwardsnowden.substack.com/p/qa02)
+- [Show HN: OnionShare with Just Tor and Redbean](https://github.com/ndren/redbean-onionshare)
 <!-- BLOG-POST-LIST:END -->
 
 ---
