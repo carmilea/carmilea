@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eight Sleep (YC S15) Is Hiring a Data Scientist](https://www.ycombinator.com/companies/eight-sleep/jobs/slZD7gD-full-stack-engineer-web-focus)
+- [AdObserver Blocked by Facebook](https://twitter.com/LauraEdelson2/status/1422736706554433538)
+- [MP Maria Miller wants AI 'nudifying' tool banned](https://www.bbc.com/news/technology-57996910)
 - [Are our immune systems out of practice?](https://www.dw.com/en/covid-isolation-are-our-immune-systems-out-of-practice/a-58733783)
-- [Democrats Seek $500B in Climate Damages from Big Polluting Companies](https://www.nytimes.com/2021/08/04/climate/tax-polluting-companies-climate.html)
-- [Difference between DevOps, SecOps and DevSecOps](https://five9sclub.substack.com/p/how-to-explain-devops-to-non-tech)
-- [‘Master faces’ that can bypass over 40% of facial ID authentication systems](https://www.unite.ai/master-faces-that-can-bypass-over-40-of-facial-id-authentication-systems/)
-- [Simple Systems Have Less Downtime (2020)](https://www.gkogan.co/blog/simple-systems/)
+- [Show HN: Till – Unblock and scale your web scrapers, with minimal code changes](https://github.com/DataHenHQ/till)
 <!-- BLOG-POST-LIST:END -->
 
 ---
