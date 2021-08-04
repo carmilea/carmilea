@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why medieval city-builder video games are historically inaccurate](https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate)
-- [Julian Assange: peering through the murk](https://www.lawgazette.co.uk/commentary-and-opinion/julian-assange-peering-through-the-murk/5109400.article)
-- [Australian mathematician discovers applied geometry on 3,700-year-old tablet](https://www.theguardian.com/science/2021/aug/05/australian-mathematician-discovers-applied-geometry-engraved-on-3700-year-old-tablet)
-- [Gitly: A light and fast GitHub/GitLab alternative written in V lang (pre-alpha)](http://gitly.org/)
-- [Launch HN: Turion Space (YC S21) – Space debris removal and satellite servicing](https://news.ycombinator.com/item?id=28061725)
+- [Facebook bans researchers who were investigating Facebook ads](https://www.dailydot.com/debug/facebook-bans-researchers-providing-transparency-on-sites-ads/)
+- [Finary (YC W21) Is Hiring Full Stack Engineers and a Product Designer](https://about.finary.io/careers)
+- [Launch HN: Keyri (YC S21) – Secure smartphone-based passwordless authentication](https://news.ycombinator.com/item?id=28063339)
+- [Netflix announces Space X documentary on civilian mission into orbit](https://news.sky.com/story/netflix-announces-space-x-documentary-on-civilian-mission-into-orbit-12372247)
+- [Windows 365 paused due to high demand](https://www.theverge.com/2021/8/4/22609090/microsoft-365-free-trials-cloud-pcs-demand-trials)
 <!-- BLOG-POST-LIST:END -->
 
 ---
