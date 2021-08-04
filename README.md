@@ -55,7 +55,7 @@
 - [Microsoft deletes all comments under heavily criticized Windows 11 upgrade video](https://www.notebookcheck.net/Damage-control-Microsoft-deletes-all-comments-under-heavily-criticized-Windows-11-upgrade-video.553279.0.html)
 - [Elm-Pages 2.0](https://elm-pages.com/blog/introducing-v2)
 - [Are dynamic languages going to replace static languages? (2003)](https://www.artima.com/weblogs/viewpost.jsp?thread=4639)
-- [Where Do Models Go Wrong? Parameter-Space Saliency Maps for Explainability](https://arxiv.org/abs/2108.01335)
+- [Philosophers Should Care about Computational Complexity [pdf]](https://www.scottaaronson.com/papers/philos.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
