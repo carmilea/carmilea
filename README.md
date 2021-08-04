@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are our immune systems out of practice?](https://www.dw.com/en/covid-isolation-are-our-immune-systems-out-of-practice/a-58733783)
+- [Democrats Seek $500B in Climate Damages from Big Polluting Companies](https://www.nytimes.com/2021/08/04/climate/tax-polluting-companies-climate.html)
+- [Difference between DevOps, SecOps and DevSecOps](https://five9sclub.substack.com/p/how-to-explain-devops-to-non-tech)
 - [‘Master faces’ that can bypass over 40% of facial ID authentication systems](https://www.unite.ai/master-faces-that-can-bypass-over-40-of-facial-id-authentication-systems/)
 - [Simple Systems Have Less Downtime (2020)](https://www.gkogan.co/blog/simple-systems/)
-- [The surreal experience of my first developer job](https://bennuttall.com/the-surreal-experience-of-my-first-developer-job/)
-- [My small revenge on Apple](https://javierantonsblog.blogspot.com/2021/08/my-small-revenge-on-apple.html)
-- [Pitfalls of Data Anonymization](https://palant.info/2020/02/18/insights-from-avast/jumpshot-data-pitfalls-of-data-anonymization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
