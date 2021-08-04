@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [$28.50 Beer at LaGuardia Sparks Audit of New York Airport Concession Prices](https://eyeoftheflyer.com/2021/08/03/tweet-of-28-50-beer-at-la-guardia-sparks-audit-of-new-york-airport-concession-prices/)
+- [Where Do Models Go Wrong? Parameter-Space Saliency Maps for Explainability](https://arxiv.org/abs/2108.01335)
+- [Almost-Billionaires](http://lackingambition.com/?p=1464)
+- [Report on Archegos Capital Management (How Credit Suisse Lost $6B)](https://www.sec.gov/Archives/edgar/data/0001159510/000137036821000064/a210729-ex992.htm)
 - [SuperTokens (YC S20) Is hiring a senior Java developer](https://angel.co/l/2vDCh2)
-- [Test quantum mechanics in space – invest US$1B](https://www.nature.com/articles/d41586-021-02091-8)
-- [Implement window.{alert, prompt, confirm} removal from cross-origin iframes](https://bugs.chromium.org/p/chromium/issues/detail?id=1065085)
-- [Bye CUPS: Printing with Netcat](https://retrohacker.substack.com/p/bye-cups-printing-with-netcat)
-- [Where are the robotic bricklayers?](https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
