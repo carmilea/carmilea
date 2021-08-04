@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Steam Is Down](https://steamstat.us/)
 - [Facebook bans researchers who were investigating Facebook ads](https://www.dailydot.com/debug/facebook-bans-researchers-providing-transparency-on-sites-ads/)
+- [Good Design is Imperfect Design, Part 1: Honest Names](https://www.domainlanguage.com/articles/good-design-is-imperfect-design-part-1-honest-names/)
+- [Show HN: Hookdeck – an infrastructure to consume webhooks](https://hookdeck.com?ref=hn)
 - [Finary (YC W21) Is Hiring Full Stack Engineers and a Product Designer](https://about.finary.io/careers)
-- [Launch HN: Keyri (YC S21) – Secure smartphone-based passwordless authentication](https://news.ycombinator.com/item?id=28063339)
-- [Netflix announces Space X documentary on civilian mission into orbit](https://news.sky.com/story/netflix-announces-space-x-documentary-on-civilian-mission-into-orbit-12372247)
-- [Windows 365 paused due to high demand](https://www.theverge.com/2021/8/4/22609090/microsoft-365-free-trials-cloud-pcs-demand-trials)
 <!-- BLOG-POST-LIST:END -->
 
 ---
