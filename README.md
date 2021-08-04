@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Barbie launches six new dolls celebrating female scientists](https://www.abc.net.au/news/2021-08-04/barbie-doll-covid-19-vaccine-developer/100349932)
+- [The CDC Needs to Stop Confusing the Public](https://www.nytimes.com/2021/08/04/opinion/cdc-covid-guidelines.html)
+- [Leaked Document Says Google Fired Dozens of Employees for Data Misuse](https://www.vice.com/en/article/g5gk73/google-fired-dozens-for-data-misuse)
 - [PhD student in Switzerland expelled after criticizing the CCP in Twitter](https://www.reddit.com/r/europe/comments/oxmgg2/phd_student_in_switzerland_expelled_from_his/)
 - [How to Build Resilient JavaScript UIs](https://www.smashingmagazine.com/2021/08/build-resilient-javascript-ui/)
-- [Eight Sleep (YC S15) Is Hiring a Data Scientist](https://www.ycombinator.com/companies/eight-sleep/jobs/slZD7gD-full-stack-engineer-web-focus)
-- [AdObserver Blocked by Facebook](https://twitter.com/LauraEdelson2/status/1422736706554433538)
-- [Show HN: Till – Unblock and scale your web scrapers, with minimal code changes](https://github.com/DataHenHQ/till)
 <!-- BLOG-POST-LIST:END -->
 
 ---
