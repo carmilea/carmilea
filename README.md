@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why medieval city-builder video games are historically inaccurate](https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate)
+- [Julian Assange: peering through the murk](https://www.lawgazette.co.uk/commentary-and-opinion/julian-assange-peering-through-the-murk/5109400.article)
+- [Australian mathematician discovers applied geometry on 3,700-year-old tablet](https://www.theguardian.com/science/2021/aug/05/australian-mathematician-discovers-applied-geometry-engraved-on-3700-year-old-tablet)
+- [Gitly: A light and fast GitHub/GitLab alternative written in V lang (pre-alpha)](http://gitly.org/)
 - [Launch HN: Turion Space (YC S21) – Space debris removal and satellite servicing](https://news.ycombinator.com/item?id=28061725)
-- [Facebook reportedly researching ways to use encrypted WhatsApp messages for ads](https://www.macrumors.com/2021/08/03/facebook-researching-analyzing-encrypted-data/)
-- [Mobile phones on aircraft](https://en.wikipedia.org/wiki/Mobile_phones_on_aircraft)
-- [Is there any place for monoliths in 2021?](https://fjrevoredo.me/is-there-any-place-for-monoliths-in-2021/)
-- [Use Phoenix Channels](https://info.codecast.io/blog/how-to-use-phoenix-channels)
 <!-- BLOG-POST-LIST:END -->
 
 ---
