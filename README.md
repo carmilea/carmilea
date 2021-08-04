@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Small Revenge on Apple](https://javierantonsblog.blogspot.com/2021/08/my-small-revenge-on-apple.html)
-- [Nissan's Leaf S is now the cheapest EV in the US at $27,400](https://www.engadget.com/nissans-entry-level-leaf-is-now-the-cheapest-ev-in-the-us-at-27400-053932185.html)
-- [Jupiter (YC S19) Is Hiring Senior Software Engineers, Mobile, QA (Remote/SF)](https://jupiter.co/careers)
-- [Blush, illustrations for your product page](https://blush.design/)
-- [Elm-Pages 2.0](https://elm-pages.com/blog/introducing-v2)
+- [‘Master faces’ that can bypass over 40% of facial ID authentication systems](https://www.unite.ai/master-faces-that-can-bypass-over-40-of-facial-id-authentication-systems/)
+- [Simple Systems Have Less Downtime (2020)](https://www.gkogan.co/blog/simple-systems/)
+- [The surreal experience of my first developer job](https://bennuttall.com/the-surreal-experience-of-my-first-developer-job/)
+- [My small revenge on Apple](https://javierantonsblog.blogspot.com/2021/08/my-small-revenge-on-apple.html)
+- [Pitfalls of Data Anonymization](https://palant.info/2020/02/18/insights-from-avast/jumpshot-data-pitfalls-of-data-anonymization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
