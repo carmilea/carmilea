@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Parsing Excel XLSX Using Tcl Parser Tools (2011)](https://wiki.tcl-lang.org/page/Parsing+Excel+XLSX)
+- [Tesla Model S garage fire follows pattern prompting warnings](https://www.washingtonpost.com/technology/2021/08/04/tesla-fire/)
 - [Ray Tracing Gems II Available as Free Download](https://developer.nvidia.com/blog/ray-tracing-gems-ii-available-today-as-free-digital-download/)
-- [Interesting – Starbucks Paper Cups Not Recyclable](https://sealawards.com/upthecup/)
 - [The humble egg is an example of what’s wrong with nutrition studies (2019)](https://undark.org/2019/07/18/science-of-eggs/)
 - [Facebook bans researchers who were investigating Facebook ads](https://www.dailydot.com/debug/facebook-bans-researchers-providing-transparency-on-sites-ads/)
-- [Good Design is Imperfect Design, Part 1: Honest Names](https://www.domainlanguage.com/articles/good-design-is-imperfect-design-part-1-honest-names/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
