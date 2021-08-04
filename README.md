@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Steam Is Down](https://steamstat.us/)
+- [Ray Tracing Gems II Available as Free Download](https://developer.nvidia.com/blog/ray-tracing-gems-ii-available-today-as-free-digital-download/)
+- [Interesting – Starbucks Paper Cups Not Recyclable](https://sealawards.com/upthecup/)
+- [The humble egg is an example of what’s wrong with nutrition studies (2019)](https://undark.org/2019/07/18/science-of-eggs/)
 - [Facebook bans researchers who were investigating Facebook ads](https://www.dailydot.com/debug/facebook-bans-researchers-providing-transparency-on-sites-ads/)
 - [Good Design is Imperfect Design, Part 1: Honest Names](https://www.domainlanguage.com/articles/good-design-is-imperfect-design-part-1-honest-names/)
-- [Show HN: Hookdeck – an infrastructure to consume webhooks](https://hookdeck.com?ref=hn)
-- [Finary (YC W21) Is Hiring Full Stack Engineers and a Product Designer](https://about.finary.io/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
