@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Barbie launches six new dolls celebrating female scientists](https://www.abc.net.au/news/2021-08-04/barbie-doll-covid-19-vaccine-developer/100349932)
-- [The CDC Needs to Stop Confusing the Public](https://www.nytimes.com/2021/08/04/opinion/cdc-covid-guidelines.html)
-- [Leaked Document Says Google Fired Dozens of Employees for Data Misuse](https://www.vice.com/en/article/g5gk73/google-fired-dozens-for-data-misuse)
-- [PhD student in Switzerland expelled after criticizing the CCP in Twitter](https://www.reddit.com/r/europe/comments/oxmgg2/phd_student_in_switzerland_expelled_from_his/)
-- [How to Build Resilient JavaScript UIs](https://www.smashingmagazine.com/2021/08/build-resilient-javascript-ui/)
+- [Launch HN: Turion Space (YC S21) – Space debris removal and satellite servicing](https://news.ycombinator.com/item?id=28061725)
+- [Facebook reportedly researching ways to use encrypted WhatsApp messages for ads](https://www.macrumors.com/2021/08/03/facebook-researching-analyzing-encrypted-data/)
+- [Mobile phones on aircraft](https://en.wikipedia.org/wiki/Mobile_phones_on_aircraft)
+- [Is there any place for monoliths in 2021?](https://fjrevoredo.me/is-there-any-place-for-monoliths-in-2021/)
+- [Use Phoenix Channels](https://info.codecast.io/blog/how-to-use-phoenix-channels)
 <!-- BLOG-POST-LIST:END -->
 
 ---
