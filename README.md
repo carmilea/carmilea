@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Small Revenge on Apple](https://javierantonsblog.blogspot.com/2021/08/my-small-revenge-on-apple.html)
+- [Nissan's Leaf S is now the cheapest EV in the US at $27,400](https://www.engadget.com/nissans-entry-level-leaf-is-now-the-cheapest-ev-in-the-us-at-27400-053932185.html)
 - [Jupiter (YC S19) Is Hiring Senior Software Engineers, Mobile, QA (Remote/SF)](https://jupiter.co/careers)
-- [Microsoft deletes all comments under heavily criticized Windows 11 upgrade video](https://www.notebookcheck.net/Damage-control-Microsoft-deletes-all-comments-under-heavily-criticized-Windows-11-upgrade-video.553279.0.html)
+- [Blush, illustrations for your product page](https://blush.design/)
 - [Elm-Pages 2.0](https://elm-pages.com/blog/introducing-v2)
-- [Are dynamic languages going to replace static languages? (2003)](https://www.artima.com/weblogs/viewpost.jsp?thread=4639)
-- [Philosophers Should Care about Computational Complexity [pdf]](https://www.scottaaronson.com/papers/philos.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
