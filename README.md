@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PhD student in Switzerland expelled after criticizing the CCP in Twitter](https://www.reddit.com/r/europe/comments/oxmgg2/phd_student_in_switzerland_expelled_from_his/)
+- [How to Build Resilient JavaScript UIs](https://www.smashingmagazine.com/2021/08/build-resilient-javascript-ui/)
 - [Eight Sleep (YC S15) Is Hiring a Data Scientist](https://www.ycombinator.com/companies/eight-sleep/jobs/slZD7gD-full-stack-engineer-web-focus)
 - [AdObserver Blocked by Facebook](https://twitter.com/LauraEdelson2/status/1422736706554433538)
-- [MP Maria Miller wants AI 'nudifying' tool banned](https://www.bbc.com/news/technology-57996910)
-- [Are our immune systems out of practice?](https://www.dw.com/en/covid-isolation-are-our-immune-systems-out-of-practice/a-58733783)
 - [Show HN: Till – Unblock and scale your web scrapers, with minimal code changes](https://github.com/DataHenHQ/till)
 <!-- BLOG-POST-LIST:END -->
 
