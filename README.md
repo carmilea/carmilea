@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [SuperTokens (YC S20) Is hiring a senior Java developer](https://angel.co/l/2vDCh2)
 - [Test quantum mechanics in space – invest US$1B](https://www.nature.com/articles/d41586-021-02091-8)
-- [Sexual racism on New Zealand's dating scene – and how apps are making it worse](https://www.newshub.co.nz/home/lifestyle/2021/07/no-blacks-no-asians-no-indians-sexual-racism-on-new-zealand-s-dating-scene-and-how-apps-are-making-it-worse.html)
-- [Chrome removing alert, prompt from cross-origin iframes, panic ensues](https://bugs.chromium.org/p/chromium/issues/detail?id=1065085)
+- [Implement window.{alert, prompt, confirm} removal from cross-origin iframes](https://bugs.chromium.org/p/chromium/issues/detail?id=1065085)
 - [Bye CUPS: Printing with Netcat](https://retrohacker.substack.com/p/bye-cups-printing-with-netcat)
+- [Where are the robotic bricklayers?](https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
