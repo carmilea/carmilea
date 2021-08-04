@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AtoB (YC S20) is hiring to build Stripe for Transportation](https://careers.atob.com/)
+- [Facebook Disables Accounts Tied to NYU Research Project Studying Misinformation](https://www.bloomberg.com/news/articles/2021-08-03/facebook-disables-accounts-tied-to-nyu-research-project)
+- [Woman sues L.A. after being struck by car on a street where tents block sidewalk](https://www.latimes.com/california/story/2021-08-04/woman-sues-after-being-hit-by-a-car-on-street-where-homeless-encampment-blocks-the-sidewalk)
 - [Parsing Excel XLSX Using Tcl Parser Tools (2011)](https://wiki.tcl-lang.org/page/Parsing+Excel+XLSX)
 - [Tesla Model S garage fire follows pattern prompting warnings](https://www.washingtonpost.com/technology/2021/08/04/tesla-fire/)
-- [Ray Tracing Gems II Available as Free Download](https://developer.nvidia.com/blog/ray-tracing-gems-ii-available-today-as-free-digital-download/)
-- [The humble egg is an example of what’s wrong with nutrition studies (2019)](https://undark.org/2019/07/18/science-of-eggs/)
-- [Facebook bans researchers who were investigating Facebook ads](https://www.dailydot.com/debug/facebook-bans-researchers-providing-transparency-on-sites-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
