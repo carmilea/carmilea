@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AtoB (YC S20) is hiring to build Stripe for Transportation](https://careers.atob.com/)
-- [Facebook Disables Accounts Tied to NYU Research Project Studying Misinformation](https://www.bloomberg.com/news/articles/2021-08-03/facebook-disables-accounts-tied-to-nyu-research-project)
-- [Woman sues L.A. after being struck by car on a street where tents block sidewalk](https://www.latimes.com/california/story/2021-08-04/woman-sues-after-being-hit-by-a-car-on-street-where-homeless-encampment-blocks-the-sidewalk)
+- [China Says It's Closing in on Thorium Nuclear Reactor](https://spectrum.ieee.org/china-closing-in-on-thorium-nuclear-reactor)
 - [Parsing Excel XLSX Using Tcl Parser Tools (2011)](https://wiki.tcl-lang.org/page/Parsing+Excel+XLSX)
-- [Tesla Model S garage fire follows pattern prompting warnings](https://www.washingtonpost.com/technology/2021/08/04/tesla-fire/)
+- [Ray Tracing Gems II available as free download](https://developer.nvidia.com/blog/ray-tracing-gems-ii-available-today-as-free-digital-download/)
+- [Verilog2Factorio: Web Demo](https://redcrafter.github.io/verilog2factorio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
