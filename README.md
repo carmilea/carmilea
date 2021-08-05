@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kraftful (YC S19) is hiring to build the software layer for the physical world](https://www.kraftful.com/team)
 - [How PostgreSQL aggregation works and how it inspired our hyperfunctions’ design](https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-inspired-our-hyperfunctions-design-2/)
+- [Alcohol linked to more cancers than thought, study finds](https://www.theguardian.com/society/2021/aug/04/alcohol-linked-more-cancers-previously-thought-study-coffee-liver)
 - [EmacsConf 2021 Call for Proposals](https://emacsconf.org/2021/cfp/)
 - [In Praise of PostgreSQL](https://drewdevault.com/2021/08/05/In-praise-of-Postgres.html)
-- [Apple plans to scan US iPhones for child abuse imagery](https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f)
-- [Mathematicians Solve Decades-Old Classification Problem](https://www.quantamagazine.org/mathematicians-solve-decades-old-classification-problem-20210805/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
