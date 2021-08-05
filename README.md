@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [94% of English adults have Covid antibodies, ONS data shows](https://www.thetimes.co.uk/article/658b3bc4-f518-11eb-8f01-2c678acbb979)
+- [What better to incorporate a Deleware C-Corp. Clerky or Stripe Atlas and why?](https://news.ycombinator.com/item?id=28076871)
+- [Yann LeCun on his start in AI and recent self-supervised learning research](https://thegradientpub.substack.com/p/yann-lecun-on-his-start-in-research)
 - [Kraftful (YC S19) is hiring to build the software layer for the physical world](https://www.kraftful.com/team)
 - [How PostgreSQL aggregation works and how it inspired our hyperfunctions’ design](https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-inspired-our-hyperfunctions-design-2/)
-- [Alcohol linked to more cancers than thought, study finds](https://www.theguardian.com/society/2021/aug/04/alcohol-linked-more-cancers-previously-thought-study-coffee-liver)
-- [EmacsConf 2021 Call for Proposals](https://emacsconf.org/2021/cfp/)
-- [In Praise of PostgreSQL](https://drewdevault.com/2021/08/05/In-praise-of-Postgres.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
