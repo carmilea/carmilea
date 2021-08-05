@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Whatnot (YC W20) Is Hiring Engineers (Generalist, iOS, Android, DevOps)](https://www.whatnot.com/careers)
+- [A Bit Overcomplicated](https://thedailywtf.com/articles/a-bit-overcomplicated)
+- [Facebook executive helped Cuomo smear sex-harassment accuser: AG report](https://nypost.com/2021/08/04/facebook-exec-helped-cuomo-smear-sex-harassment-accuser-ag/)
+- [Radio was the original overhyped technology](https://blog.racket.com/radio-and-the-technology-cycle/)
 - [Show HN: Made an internal communication app with just SWIFTUI](https://apps.apple.com/us/app/kwayet/id1545093715)
-- [Falsehoods Programmers Believe About Phone Numbers (2016)](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md)
-- [Tesla Owner Billed over $14,000 for Accidental Full Self-Driving Purchase](https://www.thedrive.com/tech/41826/tesla-owner-billed-over-14000-for-accidental-full-self-driving-purchase)
-- [Contemporary COBOL: Developers' Perspectives on Defects and Defect Location](https://arxiv.org/abs/2105.01830)
-- [Google hits undo on Chrome browser alert change that broke websites, web apps](https://www.theregister.com/2021/08/05/google_chrome_iframe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
