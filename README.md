@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [94% of English adults have Covid antibodies, ONS data shows](https://www.thetimes.co.uk/article/658b3bc4-f518-11eb-8f01-2c678acbb979)
-- [What better to incorporate a Deleware C-Corp. Clerky or Stripe Atlas and why?](https://news.ycombinator.com/item?id=28076871)
+- [Firefox Cannot Be Trusted at the Hands of Today’s Mozilla Management](http://techrights.org/2021/08/05/lousy-mozilla-management/)
+- [Amazon postpones return to office until January 2022](https://www.cnbc.com/2021/08/05/amazon-postpones-return-to-office-until-january-2022-.html)
+- [Electric vehicle sales outpace diesel again](https://www.bbc.com/news/business-58100474)
 - [Yann LeCun on his start in AI and recent self-supervised learning research](https://thegradientpub.substack.com/p/yann-lecun-on-his-start-in-research)
 - [Kraftful (YC S19) is hiring to build the software layer for the physical world](https://www.kraftful.com/team)
-- [How PostgreSQL aggregation works and how it inspired our hyperfunctions’ design](https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-inspired-our-hyperfunctions-design-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
