@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Engineering the M1 [pdf]](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf)
-- [Observation-based early-warning signals for a collapse of the Gulf Stream](https://doi.org/10.1038/s41558-021-01097-4)
-- [Expanded Protections for Children](https://www.apple.com/child-safety/)
-- [Build your own SPARC workstation](https://learn.adafruit.com/build-your-own-sparc-with-qemu-and-solaris)
-- [Practical? Common Lisp on the JVM: A quick intro to ABCL for modern web apps](https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html)
+- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Operating Systems: Timeline and Family Tree (includes over 830 OSs so far)](https://eylenburg.github.io/os_familytree.htm)
+- [Parametric Programming – an equational approach to OO and beyond](https://billwadge.wordpress.com/2021/08/01/parametric-programming-an-equational-approach-to-oo-and-beyond/)
+- [TUG (TeX Users Group) 2021 online conference – Program](https://tug.org/tug2021/sched.html)
+- [Who Is Your Audience?](https://leejo.github.io/2021/08/01/who-is-your-audience/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
