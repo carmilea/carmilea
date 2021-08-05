@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [George Hotz Announcing Comma Three](https://www.youtube.com/watch?v=hbLiehrC2DQ)
-- [Slitter: A slab allocator that trusts, but verifies](https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/)
-- [1.2M Tesla Cybertruck Pre-Orders](https://insideevs.com/news/524156/tesla-cybertruck-preorders-exceed-1250000/)
-- [Elizabeth Holmes fails to keep customer complaints, test results out of trial](https://www.yahoo.com/finance/news/elizabeth-holmes-fails-to-keep-customer-complaints-out-of-criminal-fraud-trial-210015777.html)
-- [The Bad Grade That Changed the U.S. Constitution](https://www.npr.org/2017/05/05/526900818/the-bad-grade-that-changed-the-u-s-constitution)
+- [Xsolla fires 150 employees using analysis of chat and email activity](https://gameworldobserver.com/2021/08/04/xsolla-fires-150-employees-using-big-data-and-ai-analysis-ceos-letter-causes-controversy)
+- [Apple enabling client-side CSAM scanning on iPhone tomorrow](https://twitter.com/matthew_d_green/status/1423071186616000513)
+- [The Six Dumbest Ideas in Computer Security (2005)](http://www.ranum.com/security/computer_security/editorials/dumb/)
+- [A list of tech companies with 4 day work weeks](https://4dayweek.io/blog/10-tech-companies-with-4-day-work-weeks-2021)
+- [2019 Global Health Security Index: Countries Ranked by Preparedness for Pandemic](https://www.ghsindex.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
