@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lowkey (YC S18) is hiring a Senior Software Engineer who likes games](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
+- [Facebook let fossil-fuel industry push climate misinformation, report finds](https://www.theguardian.com/environment/2021/aug/05/facebook-fossil-fuel-industry-environment-climate-change)
+- [Google Chrome to remove alert() inside cross-origin iframes in a future version](https://twitter.com/estark37/status/1422694845076762629)
 - [Golang Security Checker](https://github.com/securego/gosec)
 - [Apple enabling client-side CSAM scanning on iPhone tomorrow](https://twitter.com/matthew_d_green/status/1423071186616000513)
-- [Airyx OS](http://airyx.org/)
-- [Facebook’s claims about the Ad Observer are wrong](https://blog.mozilla.org/en/mozilla/news/why-facebooks-claims-about-the-ad-observer-are-wrong/)
-- [Comma Three [video]](https://www.youtube.com/watch?v=hbLiehrC2DQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
