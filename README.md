@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Print a Twitter feed as a simple HTML blog](https://news.ycombinator.com/item?id=28071491)
+- [Show HN: Made an internal communication app with just SWIFTUI](https://apps.apple.com/us/app/kwayet/id1545093715)
+- [Falsehoods Programmers Believe About Phone Numbers (2016)](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md)
 - [Tesla Owner Billed over $14,000 for Accidental Full Self-Driving Purchase](https://www.thedrive.com/tech/41826/tesla-owner-billed-over-14000-for-accidental-full-self-driving-purchase)
 - [Contemporary COBOL: Developers' Perspectives on Defects and Defect Location](https://arxiv.org/abs/2105.01830)
 - [Google hits undo on Chrome browser alert change that broke websites, web apps](https://www.theregister.com/2021/08/05/google_chrome_iframe/)
-- [The world of cats: what our feline friends do when we’re not looking](https://www.theguardian.com/lifeandstyle/2021/jul/22/hidden-world-cats-what-feline-friends-doing-when-were-not-looking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
