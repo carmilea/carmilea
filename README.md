@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Declined invitations go over more graciously when lack of money is cited](https://theconversation.com/declined-invitations-go-over-more-graciously-when-lack-of-money-is-cited-instead-of-lack-of-time-new-research-164473)
-- [Wealthy people are renouncing American citizenship](https://www.axios.com/wealthy-people-are-renouncing-american-citizenship-67fbada4-e2e4-4699-b106-c986839f209d.html)
-- [Whatnot (YC W20) Is Hiring Engineers (Generalist, iOS, Android, DevOps)](https://www.whatnot.com/careers)
-- [A Bit Overcomplicated](https://thedailywtf.com/articles/a-bit-overcomplicated)
-- [Facebook executive helped Cuomo smear sex-harassment accuser: AG report](https://nypost.com/2021/08/04/facebook-exec-helped-cuomo-smear-sex-harassment-accuser-ag/)
+- ['They couldn't take it anymore': Hospital exec says employees are walking off](https://www.cnn.com/videos/health/2021/08/05/arkansas-covid-burnout-savidge-dnt-ebof-vpx.cnn/video/playlists/coronavirus/)
+- [Google Co-Founder Larry Page Allowed into New Zealand Despite Closed Border](https://www.ndtv.com/world-news/google-co-founder-larry-page-allowed-into-new-zealand-despite-closed-border-2503055)
+- [Launch YC S21: Meet the Batch, Thread #4](https://news.ycombinator.com/item?id=28073548)
+- [Kid Pix as a JavaScript App](https://kidpix.app/)
+- [The insides of pro bowling balls will make your head spin](https://www.popsci.com/story/technology/bowling-ball-insides-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
