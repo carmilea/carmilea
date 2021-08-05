@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox Cannot Be Trusted at the Hands of Today’s Mozilla Management](http://techrights.org/2021/08/05/lousy-mozilla-management/)
-- [Amazon postpones return to office until January 2022](https://www.cnbc.com/2021/08/05/amazon-postpones-return-to-office-until-january-2022-.html)
-- [Electric vehicle sales outpace diesel again](https://www.bbc.com/news/business-58100474)
-- [Yann LeCun on his start in AI and recent self-supervised learning research](https://thegradientpub.substack.com/p/yann-lecun-on-his-start-in-research)
-- [Kraftful (YC S19) is hiring to build the software layer for the physical world](https://www.kraftful.com/team)
+- [Reverse Engineering the M1 [pdf]](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf)
+- [Observation-based early-warning signals for a collapse of the Gulf Stream](https://doi.org/10.1038/s41558-021-01097-4)
+- [Expanded Protections for Children](https://www.apple.com/child-safety/)
+- [Build your own SPARC workstation](https://learn.adafruit.com/build-your-own-sparc-with-qemu-and-solaris)
+- [Practical? Common Lisp on the JVM: A quick intro to ABCL for modern web apps](https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
