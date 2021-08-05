@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- ['They couldn't take it anymore': Hospital exec says employees are walking off](https://www.cnn.com/videos/health/2021/08/05/arkansas-covid-burnout-savidge-dnt-ebof-vpx.cnn/video/playlists/coronavirus/)
-- [Google Co-Founder Larry Page Allowed into New Zealand Despite Closed Border](https://www.ndtv.com/world-news/google-co-founder-larry-page-allowed-into-new-zealand-despite-closed-border-2503055)
-- [Launch YC S21: Meet the Batch, Thread #4](https://news.ycombinator.com/item?id=28073548)
-- [Kid Pix as a JavaScript App](https://kidpix.app/)
-- [The insides of pro bowling balls will make your head spin](https://www.popsci.com/story/technology/bowling-ball-insides-photos/)
+- [Senators move to exempt Bitcoin, crypto miners from proposed U.S. tax rules](https://www.marketwatch.com/story/senators-move-to-exempt-bitcoin-crypto-miners-from-proposed-u-s-tax-rules-11628102530)
+- [Affinity 1.10: Performance update](https://affinity.serif.com/en-us/latest-update/)
+- [Ignoring WHO call, major nations stick to vaccine booster plans](https://www.reuters.com/world/europe/french-president-macron-third-covid-vaccine-doses-likely-elderly-vulnerable-2021-08-05/)
+- [Years of fighting every wildfire helped fuel the Western megafires of today](https://theconversation.com/how-years-of-fighting-every-wildfire-helped-fuel-the-western-megafires-of-today-163165)
+- [Developers Complain as App Store Feature Promotes Rip-Off Apps](https://forums.macrumors.com/threads/developers-complain-as-app-store-feature-promotes-rip-off-apps.2306605/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
