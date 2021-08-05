@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google hits undo on Chrome browser alert change that broke websites, web apps](https://www.theregister.com/2021/08/05/google_chrome_iframe/)
+- [The world of cats: what our feline friends do when we’re not looking](https://www.theguardian.com/lifeandstyle/2021/jul/22/hidden-world-cats-what-feline-friends-doing-when-were-not-looking)
+- [Global Sourcebook for International Data Management](http://www.grcdi.nl/gsb/global%20sourcebook.html)
 - [Lowkey (YC S18) is hiring a Senior Software Engineer who likes games](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
-- [Facebook let fossil-fuel industry push climate misinformation, report finds](https://www.theguardian.com/environment/2021/aug/05/facebook-fossil-fuel-industry-environment-climate-change)
-- [Google Chrome to remove alert() inside cross-origin iframes in a future version](https://twitter.com/estark37/status/1422694845076762629)
-- [Golang Security Checker](https://github.com/securego/gosec)
-- [Apple enabling client-side CSAM scanning on iPhone tomorrow](https://twitter.com/matthew_d_green/status/1423071186616000513)
+- [System on SO-DIMM](https://twitter.com/Foone/status/1423078973064441858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
