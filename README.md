@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Senators move to exempt Bitcoin, crypto miners from proposed U.S. tax rules](https://www.marketwatch.com/story/senators-move-to-exempt-bitcoin-crypto-miners-from-proposed-u-s-tax-rules-11628102530)
-- [Affinity 1.10: Performance update](https://affinity.serif.com/en-us/latest-update/)
-- [Ignoring WHO call, major nations stick to vaccine booster plans](https://www.reuters.com/world/europe/french-president-macron-third-covid-vaccine-doses-likely-elderly-vulnerable-2021-08-05/)
-- [Years of fighting every wildfire helped fuel the Western megafires of today](https://theconversation.com/how-years-of-fighting-every-wildfire-helped-fuel-the-western-megafires-of-today-163165)
-- [Developers Complain as App Store Feature Promotes Rip-Off Apps](https://forums.macrumors.com/threads/developers-complain-as-app-store-feature-promotes-rip-off-apps.2306605/)
+- [How PostgreSQL aggregation works and how it inspired our hyperfunctions’ design](https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-inspired-our-hyperfunctions-design-2/)
+- [EmacsConf 2021 Call for Proposals](https://emacsconf.org/2021/cfp/)
+- [In Praise of PostgreSQL](https://drewdevault.com/2021/08/05/In-praise-of-Postgres.html)
+- [Apple plans to scan US iPhones for child abuse imagery](https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f)
+- [Mathematicians Solve Decades-Old Classification Problem](https://www.quantamagazine.org/mathematicians-solve-decades-old-classification-problem-20210805/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
