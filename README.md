@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [A $100k Prize for a Decentralized Inflation Dashboard](https://1729.com/inflation/)
+- [Oatly loses trademark battle against British farm over oat milk](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58102252)
+- [BuildZoom (better way to build custom homes) is hiring engineers](https://jobs.lever.co/buildzoom)
 - [Operating Systems: Timeline and Family Tree (includes over 830 OSs so far)](https://eylenburg.github.io/os_familytree.htm)
 - [Parametric Programming – an equational approach to OO and beyond](https://billwadge.wordpress.com/2021/08/01/parametric-programming-an-equational-approach-to-oo-and-beyond/)
-- [TUG (TeX Users Group) 2021 online conference – Program](https://tug.org/tug2021/sched.html)
-- [Who Is Your Audience?](https://leejo.github.io/2021/08/01/who-is-your-audience/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
