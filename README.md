@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Declined invitations go over more graciously when lack of money is cited](https://theconversation.com/declined-invitations-go-over-more-graciously-when-lack-of-money-is-cited-instead-of-lack-of-time-new-research-164473)
+- [Wealthy people are renouncing American citizenship](https://www.axios.com/wealthy-people-are-renouncing-american-citizenship-67fbada4-e2e4-4699-b106-c986839f209d.html)
 - [Whatnot (YC W20) Is Hiring Engineers (Generalist, iOS, Android, DevOps)](https://www.whatnot.com/careers)
 - [A Bit Overcomplicated](https://thedailywtf.com/articles/a-bit-overcomplicated)
 - [Facebook executive helped Cuomo smear sex-harassment accuser: AG report](https://nypost.com/2021/08/04/facebook-exec-helped-cuomo-smear-sex-harassment-accuser-ag/)
-- [Radio was the original overhyped technology](https://blog.racket.com/radio-and-the-technology-cycle/)
-- [Show HN: Made an internal communication app with just SWIFTUI](https://apps.apple.com/us/app/kwayet/id1545093715)
 <!-- BLOG-POST-LIST:END -->
 
 ---
