@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qventus (YC W15) Is Hiring a Data Platform Manager](https://jobs.lever.co/qventus/a808df16-798f-4eb3-ba4a-c4e04be1901f)
+- [An Open Letter Against Apple's Privacy-Invasive Content Scanning Technology](https://appleprivacyletter.com/)
 - [Show HN: Reddit clone built in no-code in 2 weeks](http://reggit.bubbleapps.io/)
+- [Fooling Neural Networks, a presentation [pdf]](https://slazebni.cs.illinois.edu/fall18/lec12_adversarial.pdf)
 - [Warning Signals for Collapse of The Atlantic Meridional Overturning Circulation](https://www.nature.com/articles/s41558-021-01097-4.epdf)
-- [Give to Thunderbird](https://give.thunderbird.net)
-- [The Design of the NetBSD I/O Subsystems (2002)](https://arxiv.org/abs/1605.05810)
-- [Driving engineers to an arbitrary date is a value destroying mistake (2020)](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
 <!-- BLOG-POST-LIST:END -->
 
 ---
