@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Robot police dog that scans homeless people sparks debate](https://www.euronews.com/next/2021/08/06/a-useful-tool-or-dehumanising-robot-police-dog-that-scans-homeless-people-sparks-debate)
-- [Starlink is better than satellite and DSL but not as fast as fiber or cable](https://www.zdnet.com/article/starlink-is-better-than-its-satellite-competition-but-not-as-fast-as-landline-internet/)
-- [Starship has been fully stacked](https://twitter.com/elonmusk/status/1423659261452709893)
-- [New UUID Formats – IETF Draft](https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format)
-- [Using Open Source Tools at Your Company](https://devinterrupted.com/podcast/using-open-source-tools-at-your-company/)
+- [CalyxOS – De-Googled Android Alternative](https://calyxos.org/)
+- [ReadMe (YC W15) is hiring a Product Marketer who loves developers](https://readme.com/careers#product-marketing-manager)
+- [Semver doesn't mean MAJOR.MINOR.PATCH, it means FAILS.FEATURES.BUGS](https://twitter.com/willmcgugan/status/1423678688802058244)
+- [Show HN: Open-source A/B Testing framework](https://github.com/growthbook/growthbook)
+- [Driving 1725km in an electric car in 2 days](https://www.tbray.org/ongoing/When/202x/2021/08/05/Western-Electric)
 <!-- BLOG-POST-LIST:END -->
 
 ---
