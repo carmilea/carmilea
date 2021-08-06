@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Emacs Lock-In Effect or the Emacs Sunk Cost Fallacy](https://karl-voit.at/2021/07/23/emacs-lock-in/)
+- [Price increase on .com domain names starting September 1, 2021](https://news.gandi.net/en/2021/07/price-increase-on-com-domain-name-prices-starting-september-1-2021)
+- [Atlantic Ocean currents weaken, signalling big weather changes: study](https://www.reuters.com/business/environment/atlantic-ocean-currents-weaken-signalling-big-weather-changes-study-2021-08-05/)
 - [Clubhouse Is a Cargo Cult](https://ianvanagas.com/2021/08/06/clubhouse-is-a-cargo-cult/)
 - [The Other Invisible Hand](https://www.noemamag.com/the-other-invisible-hand/)
-- [Elon Musk and His Companies Are Changing the Future of Mankind](https://www.thefuturist.co/how-elon-musk-and-his-companies-are-changing-the-future-of-mankind/)
-- [Dating in Delhi when you're poor](https://www.reuters.com/article/delhi-dating-idUSKBN1DU0NE)
-- [CalyxOS – De-Googled Android Alternative](https://calyxos.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
