@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pfizer Moderna Vaccine Studies Hurt by Placebo Recipients Getting Immunized](https://www.npr.org/sections/health-shots/2021/02/19/969143015/long-term-studies-of-covid-19-vaccines-hurt-by-placebo-recipients-getting-immuni)
+- [Homelessness Is about Housing](https://www.slowboring.com/p/homelessness-housing)
+- [Why Disney World doesn't have mosquitoes](https://www.greenmatters.com/p/why-no-mosquitoes-disney-world)
+- [Surveys show Americans want more walkable cities](https://www.governing.com/community/vehicles-still-firmly-in-control-of-city-streets)
 - [Humans could recolonize Earth after mass extinctions with ectogenesis](https://sciencex.com/news/2021-08-humans-recolonize-earth-mass-extinctions.html)
-- [Hyenas Hoarded Thousands of Human, Animal Bones in Saudi Arabian Lava Tube](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-extensive-pile-animal-and-human-bones-saudi-arabia-cave-180978375/)
-- [Head of Growth Marketing at Bonsai (YC W16) – Remote Only](https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing)
-- [Whistleblowers Expose Corruption in EPA Chemical Safety Office](https://theintercept.com/2021/07/02/epa-chemical-safety-corruption-whistleblowers/)
+- [Bones hoarded by hyenas over thousands of years](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-extensive-pile-animal-and-human-bones-saudi-arabia-cave-180978375/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
