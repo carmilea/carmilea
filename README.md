@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Head of Growth Marketing at Bonsai (YC W16) – Remote Only](https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing)
+- [Whistleblowers Expose Corruption in EPA Chemical Safety Office](https://theintercept.com/2021/07/02/epa-chemical-safety-corruption-whistleblowers/)
 - [Learning APL](https://xpqz.github.io/learnapl/intro.html)
+- [“People have asked if we'll adopt this system for WhatsApp. The answer is no.”](https://twitter.com/wcathcart/status/1423701473624395784)
 - [The Problem with Perceptual Hashes](https://rentafounder.com/the-problem-with-perceptual-hashes/)
-- [The Emacs Lock-In Effect or the Emacs Sunk Cost Fallacy](https://karl-voit.at/2021/07/23/emacs-lock-in/)
-- [Defunctionalization: Everybody Does It, Nobody Talks About It (2019)](https://blog.sigplan.org/2019/12/30/defunctionalization-everybody-does-it-nobody-talks-about-it/)
-- [Atlantic Ocean currents weaken, signalling big weather changes: study](https://www.reuters.com/business/environment/atlantic-ocean-currents-weaken-signalling-big-weather-changes-study-2021-08-05/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
