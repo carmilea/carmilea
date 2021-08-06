@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Qventus (YC W15) Is Hiring a Data Platform Manager](https://jobs.lever.co/qventus/a808df16-798f-4eb3-ba4a-c4e04be1901f)
+- [The smart home is flailing as a concept–because it sucks](https://www.fastcompany.com/90660570/the-smart-home-is-flailing-as-a-concept-because-it-sucks)
 - [An Open Letter Against Apple's Privacy-Invasive Content Scanning Technology](https://appleprivacyletter.com/)
 - [Show HN: Reddit clone built in no-code in 2 weeks](http://reggit.bubbleapps.io/)
-- [Fooling Neural Networks, a presentation [pdf]](https://slazebni.cs.illinois.edu/fall18/lec12_adversarial.pdf)
-- [Warning Signals for Collapse of The Atlantic Meridional Overturning Circulation](https://www.nature.com/articles/s41558-021-01097-4.epdf)
+- [Fooling Neural Networks [pdf]](https://slazebni.cs.illinois.edu/fall18/lec12_adversarial.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
