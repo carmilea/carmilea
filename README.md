@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. FTC says Facebook misused privacy decree to shut down ad research](https://www.reuters.com/article/us-tech-facebook-ftc/u-s-ftc-says-facebook-misused-privacy-decree-to-shut-down-ad-research-idUSKBN2F702X)
+- [Scientist says cleaning indoor air could make us healthier–and smarter](https://www.sciencemag.org/news/2021/08/scientist-says-cleaning-indoor-air-could-make-us-healthier-and-smarter)
+- [NYU Researchers Studying Disinformation on Facebook Cut Off](https://www.npr.org/2021/08/04/1024791053/facebook-boots-nyu-disinformation-researchers-off-its-platform-and-critics-cry-f)
 - [Haskell for the Elm Enthusiast](https://blog.noredink.com/post/658510851000713216/haskell-for-the-elm-enthusiast)
 - [LÖVR – An open source framework for rapidly building immersive 3D experiences](https://lovr.org)
-- [Ivermectin Systematic Study: Inconclusive](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015017.pub2/full)
-- [Stanford AIMI Releases Its Free Open-Source Repository of Medical Datasets](https://hai.stanford.edu/news/open-source-movement-comes-medical-datasets)
-- [NIST’s Quantum Crystal Could Be a New Dark Matter Sensor](https://www.nist.gov/news-events/news/2021/08/nists-quantum-crystal-could-be-new-dark-matter-sensor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
