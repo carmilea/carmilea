@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [G20 states subsidised fossil fuels by $3tn since 2015, says report](https://www.theguardian.com/environment/2021/jul/20/g20-states-subsidised-fossil-fuels-2015-coal-oil-gas-cliamte-crisis)
-- [Launch HN: BlackOakTV (YC S21) – Netflix for black people](https://news.ycombinator.com/item?id=28087309)
-- [Show HN: Physically-Based GPU Pathtracer with Mitsuba XML Support](https://github.com/jan-van-bergen/GPU-Pathtracer)
-- [The Moral Character of Cryptographic Work (2015) [pdf]](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
-- [Reflections on 10k Hours of Programming](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/)
+- [Robot police dog that scans homeless people sparks debate](https://www.euronews.com/next/2021/08/06/a-useful-tool-or-dehumanising-robot-police-dog-that-scans-homeless-people-sparks-debate)
+- [Starlink is better than satellite and DSL but not as fast as fiber or cable](https://www.zdnet.com/article/starlink-is-better-than-its-satellite-competition-but-not-as-fast-as-landline-internet/)
+- [Starship has been fully stacked](https://twitter.com/elonmusk/status/1423659261452709893)
+- [New UUID Formats – IETF Draft](https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format)
+- [Using Open Source Tools at Your Company](https://devinterrupted.com/podcast/using-open-source-tools-at-your-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
