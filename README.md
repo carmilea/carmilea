@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A $100k Prize for a Decentralized Inflation Dashboard](https://1729.com/inflation/)
-- [BuildZoom (better way to build custom homes) is hiring engineers](https://jobs.lever.co/buildzoom)
-- [Operating Systems: Timeline and Family Tree (includes over 830 OSs so far)](https://eylenburg.github.io/os_familytree.htm)
-- [Parametric Programming – an equational approach to OO and beyond](https://billwadge.wordpress.com/2021/08/01/parametric-programming-an-equational-approach-to-oo-and-beyond/)
-- [TUG (TeX Users Group) 2021 online conference – Program](https://tug.org/tug2021/sched.html)
+- [Haskell for the Elm Enthusiast](https://blog.noredink.com/post/658510851000713216/haskell-for-the-elm-enthusiast)
+- [LÖVR – An open source framework for rapidly building immersive 3D experiences](https://lovr.org)
+- [Ivermectin Systematic Study: Inconclusive](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015017.pub2/full)
+- [Stanford AIMI Releases Its Free Open-Source Repository of Medical Datasets](https://hai.stanford.edu/news/open-source-movement-comes-medical-datasets)
+- [NIST’s Quantum Crystal Could Be a New Dark Matter Sensor](https://www.nist.gov/news-events/news/2021/08/nists-quantum-crystal-could-be-new-dark-matter-sensor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
