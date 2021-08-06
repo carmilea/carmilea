@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast (YC W20) Is Hiring React / macOS Engineers to Make Devs More Productive](https://raycast.com/jobs)
 - [Letter from Acting Director of the Bureau of Consumer Protection to Facebook](https://www.ftc.gov/news-events/blogs/consumer-blog/2021/08/letter-acting-director-bureau-consumer-protection-samuel)
 - [Beware of 'shrinkflation,' inflation's devious cousin](https://www.npr.org/sections/money/2021/07/06/1012409112/beware-of-shrinkflation-inflations-devious-cousin)
 - [Object Wake-Up: 3-D Object Reconstruction, Animation from a Single Image](https://arxiv.org/abs/2108.02708)
 - [U.S. FTC says Facebook misused privacy decree to shut down ad research](https://www.reuters.com/article/us-tech-facebook-ftc/u-s-ftc-says-facebook-misused-privacy-decree-to-shut-down-ad-research-idUSKBN2F702X)
-- [Scientist says cleaning indoor air could make us healthier and smarter](https://www.sciencemag.org/news/2021/08/scientist-says-cleaning-indoor-air-could-make-us-healthier-and-smarter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
