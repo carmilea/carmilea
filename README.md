@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What do many terrorists have in common? They abuse women](https://www.theguardian.com/commentisfree/2021/aug/05/many-terrorists-abuse-women-research-extremist-attackers-violent-misogyny)
+- [Give to Thunderbird](https://give.thunderbird.net)
+- [The Design of the NetBSD I/O Subsystems (2002)](https://arxiv.org/abs/1605.05810)
 - [The Surprising Benefits of Talking to Strangers](https://www.theatlantic.com/family/archive/2021/08/why-we-should-talk-strangers-more/619642/)
 - [Driving engineers to an arbitrary date is a value destroying mistake (2020)](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
-- [Postgres.app](https://postgresapp.com/)
-- [On Apple's “Expanded Protections for Children” - A Personal Story](https://areoform.wordpress.com/2021/08/06/on-apples-expanded-protections-for-children/)
-- [Show HN: Visualizer for High Level System Design](https://honzaap.github.io/Systemizer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
