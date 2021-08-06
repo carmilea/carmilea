@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Qventus (YC W15) Is Hiring a Data Platform Manager](https://jobs.lever.co/qventus/a808df16-798f-4eb3-ba4a-c4e04be1901f)
-- [The smart home is flailing as a concept–because it sucks](https://www.fastcompany.com/90660570/the-smart-home-is-flailing-as-a-concept-because-it-sucks)
-- [An Open Letter Against Apple's Privacy-Invasive Content Scanning Technology](https://appleprivacyletter.com/)
-- [Show HN: Reddit clone built in no-code in 2 weeks](http://reggit.bubbleapps.io/)
-- [Fooling Neural Networks [pdf]](https://slazebni.cs.illinois.edu/fall18/lec12_adversarial.pdf)
+- [Launch HN: BlackOakTV (YC S21) – Netflix for black people](https://news.ycombinator.com/item?id=28087309)
+- [SEC Charges Decentralized Finance Lender for Raising $30M](https://www.sec.gov/news/press-release/2021-145)
+- [The Moral Character of Cryptographic Work [pdf]](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
+- [Reflections on 10k Hours of Programming](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/)
+- [Launch HN: Arengu (YC S21) – Frictionless Signup Flows](https://news.ycombinator.com/item?id=28086676)
 <!-- BLOG-POST-LIST:END -->
 
 ---
