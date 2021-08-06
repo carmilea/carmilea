@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clubhouse Is a Cargo Cult](https://ianvanagas.com/2021/08/06/clubhouse-is-a-cargo-cult/)
+- [The Other Invisible Hand](https://www.noemamag.com/the-other-invisible-hand/)
+- [Elon Musk and His Companies Are Changing the Future of Mankind](https://www.thefuturist.co/how-elon-musk-and-his-companies-are-changing-the-future-of-mankind/)
+- [Dating in Delhi when you're poor](https://www.reuters.com/article/delhi-dating-idUSKBN1DU0NE)
 - [CalyxOS – De-Googled Android Alternative](https://calyxos.org/)
-- [ReadMe (YC W15) is hiring a Product Marketer who loves developers](https://readme.com/careers#product-marketing-manager)
-- [Semver doesn't mean MAJOR.MINOR.PATCH, it means FAILS.FEATURES.BUGS](https://twitter.com/willmcgugan/status/1423678688802058244)
-- [Show HN: Open-source A/B Testing framework](https://github.com/growthbook/growthbook)
-- [Driving 1725km in an electric car in 2 days](https://www.tbray.org/ongoing/When/202x/2021/08/05/Western-Electric)
 <!-- BLOG-POST-LIST:END -->
 
 ---
