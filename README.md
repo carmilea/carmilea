@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pfizer Moderna Vaccine Studies Hurt by Placebo Recipients Getting Immunized](https://www.npr.org/sections/health-shots/2021/02/19/969143015/long-term-studies-of-covid-19-vaccines-hurt-by-placebo-recipients-getting-immuni)
+- [Humans could recolonize Earth after mass extinctions with ectogenesis](https://sciencex.com/news/2021-08-humans-recolonize-earth-mass-extinctions.html)
+- [Hyenas Hoarded Thousands of Human, Animal Bones in Saudi Arabian Lava Tube](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-extensive-pile-animal-and-human-bones-saudi-arabia-cave-180978375/)
 - [Head of Growth Marketing at Bonsai (YC W16) – Remote Only](https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing)
 - [Whistleblowers Expose Corruption in EPA Chemical Safety Office](https://theintercept.com/2021/07/02/epa-chemical-safety-corruption-whistleblowers/)
-- [Learning APL](https://xpqz.github.io/learnapl/intro.html)
-- [“People have asked if we'll adopt this system for WhatsApp. The answer is no.”](https://twitter.com/wcathcart/status/1423701473624395784)
-- [The Problem with Perceptual Hashes](https://rentafounder.com/the-problem-with-perceptual-hashes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
