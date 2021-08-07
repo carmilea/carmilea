@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I have trained StyleGAN2 from scratch with a dataset of female portraits](https://github.com/l4rz/practical-aspects-of-stylegan2-training)
+- [This Captcha Patent Is an All-American Nightmare](https://www.eff.org/deeplinks/2021/08/captcha-patent-all-american-nightmare)
+- [Ultra Wide Monitors – A pain in the neck? (2020)](https://www.learnergo.com/lifestyle-ergo/2020/7/5/ultra-wide-monitors-a-pain-in-the-neck)
 - [World to hit temperature tipping point 10 years faster than forecast](https://www.afr.com/policy/energy-and-climate/world-to-hit-temperature-tipping-point-10-years-faster-than-forecast-20210805-p58g7u)
 - [Open-source intelligence challenges state monopolies on information](https://www.economist.com/briefing/2021/08/07/open-source-intelligence-challenges-state-monopolies-on-information)
 - [Terra (YC W21) Is Hiring in London (Full Stack)](https://www.workatastartup.com/jobs/45386)
-- [An open letter against Apple's new privacy-invasive client-side content scanning](https://github.com/nadimkobeissi/appleprivacyletter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
