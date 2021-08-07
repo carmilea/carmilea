@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Great Question (YC W21) Is Hiring Founding Engineers (Rails, React, Remote)](https://news.ycombinator.com/item?id=28101776)
-- [Tesla driver presses the wrong button and it cost his son $19,000](https://www.drive.com.au/news/tesla-driver-presses-the-wrong-button-and-it-cost-him-19000/)
-- [Imperfect Vaccination Can Enhance the Transmission of Highly Virulent Pathogens (2015)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002198)
+- [NPM silently suspends package adoption](https://twitter.com/Andrewmd5/status/1423915743410745346)
 - [Website to observe how space is curved the closer you get to the speed of light](http://makc.github.io/misc/relativity-1.html)
+- [Python, OCaml, and Machine Learning (2020)](https://signalsandthreads.com/python-ocaml-and-machine-learning/)
 - [After DeepMind’s cofounder was placed on leave for bullying, Google promoted him](https://www.morningbrew.com/emerging-tech/stories/2021/08/04/deepminds-cofounder-placed-leave-bullying-google-promoted)
 <!-- BLOG-POST-LIST:END -->
 
