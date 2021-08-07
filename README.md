@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Framework Patterns](https://blog.startifact.com/posts/framework-patterns.html#)
+- [World’s Oldest Coin Mint Discovered in 2,800-Year-Old Chinese Foundry](https://www.artnews.com/art-news/news/oldest-mint-spade-coins-chinese-foundry-1234601047/)
 - [UPchieve (YC W21) is hiring a mobile engineer to democratize free tutoring](https://upchieve.welcomekit.co/jobs/mobile-engineer_brooklyn)
-- [Crypto community slams ‘disastrous’ new amendment to big infrastructure bill](https://techcrunch.com/2021/08/06/crypto-biden-amendment-infrastructure-bill-proof-of-work/)
-- [This Captcha Patent Is an All-American Nightmare](https://www.eff.org/deeplinks/2021/08/captcha-patent-all-american-nightmare)
-- [Open-source intelligence challenges state monopolies on information](https://www.economist.com/briefing/2021/08/07/open-source-intelligence-challenges-state-monopolies-on-information)
-- [An open letter against Apple's new privacy-invasive client-side content scanning](https://github.com/nadimkobeissi/appleprivacyletter)
+- [Capturing the Disappearing Sounds of the Workplace](https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056235)
+- [Mixed views on new DNS top level domains (TLDs)](https://utcc.utoronto.ca/~cks/space/blog/tech/NewTLDsMyMixedViews)
 <!-- BLOG-POST-LIST:END -->
 
 ---
