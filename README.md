@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I have trained StyleGAN2 from scratch with a dataset of female portraits](https://github.com/l4rz/practical-aspects-of-stylegan2-training)
+- [World to hit temperature tipping point 10 years faster than forecast](https://www.afr.com/policy/energy-and-climate/world-to-hit-temperature-tipping-point-10-years-faster-than-forecast-20210805-p58g7u)
 - [Open-source intelligence challenges state monopolies on information](https://www.economist.com/briefing/2021/08/07/open-source-intelligence-challenges-state-monopolies-on-information)
 - [Terra (YC W21) Is Hiring in London (Full Stack)](https://www.workatastartup.com/jobs/45386)
 - [An open letter against Apple's new privacy-invasive client-side content scanning](https://github.com/nadimkobeissi/appleprivacyletter)
-- [The World’s Largest Astronomy Museum Opens Its Doors](https://www.architecturaldigest.com/story/worlds-largest-astronomy-museum-opens-doors)
-- [Swiss Ph.D student’s dismissal spotlights China’s influence](https://www.nzz.ch/english/swiss-phd-students-dismissal-spotlights-chinas-influence-ld.1638771)
 <!-- BLOG-POST-LIST:END -->
 
 ---
