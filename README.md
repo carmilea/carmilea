@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Website to observe how space is curved the closer you get to the speed of light](http://makc.github.io/misc/relativity-1.html)
+- [After DeepMind’s cofounder was placed on leave for bullying, Google promoted him](https://www.morningbrew.com/emerging-tech/stories/2021/08/04/deepminds-cofounder-placed-leave-bullying-google-promoted)
+- [What comes after open source? (2019)](https://denisnazarov.com/what-comes-after-open-source)
 - [What it was like developing for NES back in 1990](https://twitter.com/KevEdwardsRetro/status/1423653418439254026)
 - [Show HN: Object Detection in an Hour](https://www.strayrobots.io/blog/object-detection-in-an-hour)
-- [WeWork Book: The $10T Mirage](https://www.axios.com/10-trillion-mirage-wework-book-0ee98f74-5370-419e-81ea-e0914bdc0f00.html)
-- [Community Phone (YC W19) Is hiring engineers to build modern landlines](https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-full-stack-engineer)
-- [Introduction To Program Synthesis (2018)](https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
