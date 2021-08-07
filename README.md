@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Homelessness Is about Housing](https://www.slowboring.com/p/homelessness-housing)
-- [Why Disney World doesn't have mosquitoes](https://www.greenmatters.com/p/why-no-mosquitoes-disney-world)
-- [Surveys show Americans want more walkable cities](https://www.governing.com/community/vehicles-still-firmly-in-control-of-city-streets)
-- [Humans could recolonize Earth after mass extinctions with ectogenesis](https://sciencex.com/news/2021-08-humans-recolonize-earth-mass-extinctions.html)
-- [Bones hoarded by hyenas over thousands of years](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-extensive-pile-animal-and-human-bones-saudi-arabia-cave-180978375/)
+- [In internal memo, Apple addresses concerns around new Photo scanning features](https://9to5mac.com/2021/08/06/apple-internal-memo-icloud-photo-scanning-concerns/)
+- [Ulam Spiral](https://en.wikipedia.org/wiki/Ulam_spiral)
+- [Homelessness is about housing](https://www.slowboring.com/p/homelessness-housing)
+- [Apply conversion functions to data in SQLite columns with the SQLite-utils tool](https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/)
+- [Richard Stallman and the History of Free Software and Open Source](https://www.cmpod.net/all-transcripts/history-open-source-free-software-text/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
