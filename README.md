@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A tweet cost his doctorate: Extent of China’s influence on Swiss universities](https://www.nzz.ch/english/swiss-phd-students-dismissal-spotlights-chinas-influence-ld.1638771?mktcid=smsh&mktcval=Twitter)
-- [Apple’s New ‘Child Safety’ Initiatives, and the Slippery Slope](https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope)
+- [Swiss Ph.D student’s dismissal spotlights China’s influence](https://www.nzz.ch/english/swiss-phd-students-dismissal-spotlights-chinas-influence-ld.1638771)
 - [A USB adapter for a classic Depraz mouse](https://jfloren.net/b/2021/8/6/1)
 - [NOAA Smoke Forecast Model Visualization](https://hwp-viz.gsd.esrl.noaa.gov/smoke/index.html)
-- [Increased error rates for DynamoDB in the US-EAST-1 Region](https://status.aws.amazon.com/?test=1)
+- [In internal memo, Apple addresses concerns around new Photo scanning features](https://9to5mac.com/2021/08/06/apple-internal-memo-icloud-photo-scanning-concerns/)
+- [My debloating experience with Poco F3](https://mete.dev/2021/08/07/my-debloating-experience-with-poco-f3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
