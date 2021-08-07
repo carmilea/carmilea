@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Apocalyptic’ scenes hit Greece as Athens besieged by fire](https://www.theguardian.com/world/2021/aug/07/apocalyptic-scenes-hit-greece-as-athens-besieged-by-fire)
+- [When Encryption Was a Crime: The 1990s Battle for Free Speech in Software](https://reason.com/video/2020/10/21/cryptowars-gilmore-zimmermann-cryptography/)
 - [Great Question (YC W21) Is Hiring Founding Engineers (Rails, React, Remote)](https://news.ycombinator.com/item?id=28101776)
 - [NPM silently suspends package adoption](https://twitter.com/Andrewmd5/status/1423915743410745346)
-- [Website to observe how space is curved the closer you get to the speed of light](http://makc.github.io/misc/relativity-1.html)
-- [Python, OCaml, and Machine Learning (2020)](https://signalsandthreads.com/python-ocaml-and-machine-learning/)
-- [After DeepMind’s cofounder was placed on leave for bullying, Google promoted him](https://www.morningbrew.com/emerging-tech/stories/2021/08/04/deepminds-cofounder-placed-leave-bullying-google-promoted)
+- [Very fast rocket](http://makc.github.io/misc/relativity-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
