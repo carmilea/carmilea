@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Framework Patterns](https://blog.startifact.com/posts/framework-patterns.html#)
-- [World’s Oldest Coin Mint Discovered in 2,800-Year-Old Chinese Foundry](https://www.artnews.com/art-news/news/oldest-mint-spade-coins-chinese-foundry-1234601047/)
-- [UPchieve (YC W21) is hiring a mobile engineer to democratize free tutoring](https://upchieve.welcomekit.co/jobs/mobile-engineer_brooklyn)
-- [Capturing the Disappearing Sounds of the Workplace](https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056235)
-- [Mixed views on new DNS top level domains (TLDs)](https://utcc.utoronto.ca/~cks/space/blog/tech/NewTLDsMyMixedViews)
+- [Qatar Airways grounds 13 Airbus A350s as fuselage degrading](https://www.msn.com/en-us/money/news/qatar-airways-grounds-13-airbus-a350s-as-fuselage-degrading/ar-AAMYDOB)
+- [Powering the Lunar Base](https://caseyhandmer.wordpress.com/2021/04/25/powering-the-lunar-base/)
+- [Lies, Damned Lies, and Vaccine Statistics](https://drrollergator.substack.com/p/damned-lies-and-vaccine-statistics)
+- [The Era of Cheap Natural Gas Ends as Prices Surge by 1000%](https://www.bloomberg.com/news/articles/2021-08-06/the-era-of-cheap-natural-gas-ends-as-prices-surge-by-1-000)
+- [NASA is looking for people who want to spend a year simulating a mission on Mars](https://www.theblaze.com/news/nasa-is-looking-for-people-who-want-to-spend-a-year-simulating-a-mission-on-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
