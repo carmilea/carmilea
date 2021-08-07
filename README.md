@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Terra (YC W21) Is Hiring in London (Full Stack)](https://www.workatastartup.com/jobs/45386)
+- [Show HN: Hook, supplying the missing links to macOS](https://news.ycombinator.com/item?id=28096378)
+- [An open letter against Apple's new privacy-invasive client-side content scanning](https://github.com/nadimkobeissi/appleprivacyletter)
+- [The World’s Largest Astronomy Museum Opens Its Doors](https://www.architecturaldigest.com/story/worlds-largest-astronomy-museum-opens-doors)
 - [Swiss Ph.D student’s dismissal spotlights China’s influence](https://www.nzz.ch/english/swiss-phd-students-dismissal-spotlights-chinas-influence-ld.1638771)
-- [A USB adapter for a classic Depraz mouse](https://jfloren.net/b/2021/8/6/1)
-- [NOAA Smoke Forecast Model Visualization](https://hwp-viz.gsd.esrl.noaa.gov/smoke/index.html)
-- [In internal memo, Apple addresses concerns around new Photo scanning features](https://9to5mac.com/2021/08/06/apple-internal-memo-icloud-photo-scanning-concerns/)
-- [My debloating experience with Poco F3](https://mete.dev/2021/08/07/my-debloating-experience-with-poco-f3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
