@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Great Question (YC W21) Is Hiring Founding Engineers (Rails, React, Remote)](https://news.ycombinator.com/item?id=28101776)
+- [Tesla driver presses the wrong button and it cost his son $19,000](https://www.drive.com.au/news/tesla-driver-presses-the-wrong-button-and-it-cost-him-19000/)
+- [Imperfect Vaccination Can Enhance the Transmission of Highly Virulent Pathogens (2015)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002198)
 - [Website to observe how space is curved the closer you get to the speed of light](http://makc.github.io/misc/relativity-1.html)
 - [After DeepMind’s cofounder was placed on leave for bullying, Google promoted him](https://www.morningbrew.com/emerging-tech/stories/2021/08/04/deepminds-cofounder-placed-leave-bullying-google-promoted)
-- [What comes after open source? (2019)](https://denisnazarov.com/what-comes-after-open-source)
-- [What it was like developing for NES back in 1990](https://twitter.com/KevEdwardsRetro/status/1423653418439254026)
-- [Show HN: Object Detection in an Hour](https://www.strayrobots.io/blog/object-detection-in-an-hour)
 <!-- BLOG-POST-LIST:END -->
 
 ---
