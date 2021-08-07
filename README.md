@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UPchieve (YC W21) is hiring a mobile engineer to democratize free tutoring](https://upchieve.welcomekit.co/jobs/mobile-engineer_brooklyn)
+- [Crypto community slams ‘disastrous’ new amendment to big infrastructure bill](https://techcrunch.com/2021/08/06/crypto-biden-amendment-infrastructure-bill-proof-of-work/)
 - [This Captcha Patent Is an All-American Nightmare](https://www.eff.org/deeplinks/2021/08/captcha-patent-all-american-nightmare)
 - [Ultra Wide Monitors – A pain in the neck? (2020)](https://www.learnergo.com/lifestyle-ergo/2020/7/5/ultra-wide-monitors-a-pain-in-the-neck)
 - [World to hit temperature tipping point 10 years faster than forecast](https://www.afr.com/policy/energy-and-climate/world-to-hit-temperature-tipping-point-10-years-faster-than-forecast-20210805-p58g7u)
-- [Open-source intelligence challenges state monopolies on information](https://www.economist.com/briefing/2021/08/07/open-source-intelligence-challenges-state-monopolies-on-information)
-- [Terra (YC W21) Is Hiring in London (Full Stack)](https://www.workatastartup.com/jobs/45386)
 <!-- BLOG-POST-LIST:END -->
 
 ---
