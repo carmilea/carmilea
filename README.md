@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In internal memo, Apple addresses concerns around new Photo scanning features](https://9to5mac.com/2021/08/06/apple-internal-memo-icloud-photo-scanning-concerns/)
+- [A USB adapter for a classic Depraz mouse](https://jfloren.net/b/2021/8/6/1)
 - [My debloating experience with Poco F3](https://mete.dev/2021/08/07/my-debloating-experience-with-poco-f3/)
 - [Ulam Spiral](https://en.wikipedia.org/wiki/Ulam_spiral)
 - [Apply conversion functions to data in SQLite columns with the SQLite-utils tool](https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/)
-- [Richard Stallman and the History of Free Software and Open Source](https://www.cmpod.net/all-transcripts/history-open-source-free-software-text/)
+- [Richard Stallman and the History of Free Software and Open Source (2016)](https://www.cmpod.net/all-transcripts/history-open-source-free-software-text/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
