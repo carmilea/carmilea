@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What it was like developing for NES back in 1990](https://twitter.com/KevEdwardsRetro/status/1423653418439254026)
-- [A Gay Community Helped the CDC Spot Covid Outbreak – and Learn More About Delta](https://www.npr.org/sections/health-shots/2021/08/06/1025553638/how-a-gay-community-helped-the-cdc-spot-a-covid-outbreak-and-learn-more-about-de)
+- [Show HN: Object Detection in an Hour](https://www.strayrobots.io/blog/object-detection-in-an-hour)
 - [WeWork Book: The $10T Mirage](https://www.axios.com/10-trillion-mirage-wework-book-0ee98f74-5370-419e-81ea-e0914bdc0f00.html)
 - [Community Phone (YC W19) Is hiring engineers to build modern landlines](https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-full-stack-engineer)
-- [Introduction To Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm)
+- [Introduction To Program Synthesis (2018)](https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
