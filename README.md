@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Wrote PGP](https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)
+- [Space Station Incident Demands Independent Investigation](https://spectrum.ieee.org/space-station-accident-needs-independant-investigation)
 - [The U.S. government's long and shameful history of intercepting people's letters](https://reason.com/2021/07/15/postal-censorship-and-surveillance-a-timeline/)
 - [The Mysterious Street Snack That Has Baffled Botanists for Decades](https://www.atlasobscura.com/articles/indian-street-snack-root)
-- [The Elasticsearch Saga Continues](https://thenewstack.io/this-week-in-programming-the-elasticsearch-saga-continues/)
-- [Trevor Moore, co-founder of Whitest Kids U Know, dies at 41](https://en.wikipedia.org/wiki/Trevor_Moore_(comedian))
-- [Live the Dream, Make the Change, Move to Pitcairn Island (2018)](http://www.immigration.gov.pn/immigrate/index.html)
+- [Performance Deficits in Apache Cassandra](http://literatejava.com/database/performance-deficits-in-apache-cassandra/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
