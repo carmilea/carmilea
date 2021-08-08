@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Put this in your pipe – Backticks in Julia](https://julialang.org/blog/2013/04/put-this-in-your-pipe/)
+- [BioNTech Plans to Address Infectious Diseases on the African Continent](https://investors.biontech.de/news-releases/news-release-details/biontech-provides-update-plans-develop-sustainable-solutions)
+- [Imaging Cygnus a at 8.45 GHz with ATA](https://destevez.net/2021/08/imaging-cygnus-a-at-8-45-ghz-with-ata/)
 - [What Irony Is Not (2020)](https://thereader.mitpress.mit.edu/what-irony-is-not/)
 - [Revisiting Prechelt’s paper comparing Java, Lisp, C/C++ and scripting languages](https://renato.athaydes.com/posts/revisiting-prechelt-paper-comparing-languages.html)
-- [Clock Synchronization (2020)](https://signalsandthreads.com/clock-synchronization/)
-- [Glenfiddich will use its own whisky waste to fuel its trucks](https://eandt.theiet.org/content/articles/2021/07/glenfiddich-uses-own-whisky-waste-to-fuel-trucks/)
-- [Ophelia (YC W20) Is Hiring Engineers to Help Combat Opioid Addiction](https://jobs.lever.co/ophelia/ea3e680d-659a-4478-a863-c2bf35177227)
 <!-- BLOG-POST-LIST:END -->
 
 ---
