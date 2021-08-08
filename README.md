@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ophelia (YC W20) Is Hiring Engineers to Help Combat Opioid Addiction](https://jobs.lever.co/ophelia/ea3e680d-659a-4478-a863-c2bf35177227)
+- [‘Tortured phrases’ give away fabricated research papers](https://www.nature.com/articles/d41586-021-02134-0)
+- [The Non-Radiating Antenna](https://physicsworld.com/a/introducing-the-non-radiating-antenna/)
+- [Launch HN: HyperLinq (YC S21) – Desktop trading terminal](https://news.ycombinator.com/item?id=28107989)
 - [Today is the World Wide Web's 30th birthday](https://www.w3.org/blog/2021/08/30-years-on-from-introducing-the-web-to-the-world/)
-- [0 A.D. Alpha 25: Yaunā](https://play0ad.com/new-release-0-a-d-alpha-25-yauna/)
-- [The Principles of Newspeak (1949)](https://www.berfrois.com/2021/07/1984-by-george-orwell/)
-- [Understanding Heidegger on Technology (2014)](https://www.thenewatlantis.com/publications/understanding-heidegger-on-technology)
-- [I'm reading the FT and WSJ from 100 years ago each week leading to 1929](https://roaring20s.substack.com/p/august-8-1921)
 <!-- BLOG-POST-LIST:END -->
 
 ---
