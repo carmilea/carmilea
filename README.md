@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Drunk-driver detectors for cars mandated in infrastructure bill](https://www.autoblog.com/2021/08/03/infrastructure-bill-cars-drunk-driving-detection-kids-in-back-seat/)
+- [Anti-Piracy Firm Asks Google to Block 127.0.0.1](https://torrentfreak.com/anti-piracy-firm-asks-google-to-block-127-0-0-1-210808/)
+- [MusicXML and Percussion Notation](https://v5.chriskrycho.com/journal/musicxml-and-percussion-redux/)
+- [Freshly disclosed vulnerability CVE-2021-20090 exploited in the wild](https://blogs.juniper.net/en-us/security/freshly-disclosed-vulnerability-cve-2021-20090-exploited-in-the-wild)
 - [Ask HN: Is domain squatting still profitable? Is there a solution?](https://news.ycombinator.com/item?id=28106113)
-- [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [The PDP-11 Basic Analysis Project](https://www.learningpdp11.com/pdp-11-basic-analysis)
-- [Tesseract.js – Pure JavaScript OCR for 100 Languages](https://tesseract.projectnaptha.com/)
-- [Google “contemplated buying some or all of Epic” to stop “contagion”](https://www.rockpapershotgun.com/google-contemplated-buying-some-or-all-of-epic-to-stop-contagion-court-documents-say)
 <!-- BLOG-POST-LIST:END -->
 
 ---
