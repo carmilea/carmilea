@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [The PDP-11 Basic Analysis Project](https://www.learningpdp11.com/pdp-11-basic-analysis)
+- [Apple CASM – Find Your Attorney General and Notify Them](https://www.naag.org/find-my-ag/)
+- [Where’s the Accelerator?](https://eclecticlight.co/2021/08/08/last-week-on-my-mac-wheres-the-accelerator/)
 - [Google “contemplated buying some or all of Epic” to stop “contagion”](https://www.rockpapershotgun.com/google-contemplated-buying-some-or-all-of-epic-to-stop-contagion-court-documents-say)
-- [Once an Addict, Always an Addict?](https://www.deprocrastination.co/blog/once-an-addict-always-an-addict)
-- [; Echo “Shell Injection”](https://matklad.github.io//2021/07/30/shell-injection.html)
-- [When in Tokyo, forget everything you know about 7-Elevens and convenience stores](https://www.latimes.com/sports/olympics/story/2021-08-07/7-elevens-convenience-stores-tokyo-japan-olympics)
-- [Does Oil Come from Dinosaurs?](https://www.powells.com/post/original-essays/does-oil-come-from-dinosaurs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
