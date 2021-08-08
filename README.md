@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is domain squatting still profitable? Is there a solution?](https://news.ycombinator.com/item?id=28106113)
 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - [The PDP-11 Basic Analysis Project](https://www.learningpdp11.com/pdp-11-basic-analysis)
-- [Apple CASM – Find Your Attorney General and Notify Them](https://www.naag.org/find-my-ag/)
-- [Where’s the Accelerator?](https://eclecticlight.co/2021/08/08/last-week-on-my-mac-wheres-the-accelerator/)
+- [Tesseract.js – Pure JavaScript OCR for 100 Languages](https://tesseract.projectnaptha.com/)
 - [Google “contemplated buying some or all of Epic” to stop “contagion”](https://www.rockpapershotgun.com/google-contemplated-buying-some-or-all-of-epic-to-stop-contagion-court-documents-say)
 <!-- BLOG-POST-LIST:END -->
 
