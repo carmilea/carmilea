@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Alex Stamos on Apple's new child safety protections](https://twitter.com/alexstamos/status/1424054542879006728)
+- [The U.S. government's long and shameful history of intercepting people's letters](https://reason.com/2021/07/15/postal-censorship-and-surveillance-a-timeline/)
+- [The Mysterious Street Snack That Has Baffled Botanists for Decades](https://www.atlasobscura.com/articles/indian-street-snack-root)
+- [The Elasticsearch Saga Continues](https://thenewstack.io/this-week-in-programming-the-elasticsearch-saga-continues/)
+- [Trevor Moore, co-founder of Whitest Kids U Know, dies at 41](https://en.wikipedia.org/wiki/Trevor_Moore_(comedian))
 - [Live the Dream, Make the Change, Move to Pitcairn Island (2018)](http://www.immigration.gov.pn/immigrate/index.html)
-- [Young adult (20-49) mortality in Israel during time of Covid-19 crisis](https://poseidon01.ssrn.com/delivery.php?ID=749025071066118029029096087028078107054019017054089075023070113097070001028084096093009030098119110060047103106076118115103013016085069007012082007001122124017124023036065062089084096119126101028011071024099003017098070102071065088127097080117082001024&EXT=pdf&INDEX=TRUE)
-- [Unopened copy of Super Mario Bros. sells for a record $2M](https://www.theverge.com/2021/8/7/22614450/unopened-copy-super-mario-bros-sells-2-million-record)
-- [A plain text note-taking system for problem solving](https://calculist.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
