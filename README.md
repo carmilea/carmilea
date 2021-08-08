@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Jerry (YC S17) Is Hiring Remote Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - [Apple's New CSAM Protections May Make iCloud Photos Bruteforceable](https://crypto.stackexchange.com/questions/93423/how-unique-is-a-neuralhash)
-- [V-Shaped Ride-in-the-Wings Jetliner Successfully Took Off – IE](https://interestingengineering.com/the-energy-efficient-v-shaped-ride-in-the-wings-jetliner-successfully-took-off)
+- [SpaceX is buying communications smallsat operator Swarm Technologies](https://fcc.report/IBFS/SAT-T-C-20210806-00096)
 - [What can you learn from an IP address? (2019)](https://blog.apnic.net/2019/08/23/what-can-you-learn-from-an-ip-address/)
 - [Why I Wrote PGP (1999)](https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 <!-- BLOG-POST-LIST:END -->
