@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RunAsDate – Run a program with the specified date/time (2019)](https://www.nirsoft.net/utils/run_as_date.html)
-- [FEC Asks Congress to Ban Prechecked Recurring Donation Boxes](https://www.nytimes.com/2021/05/06/us/politics/fec-trump-donations.html)
-- [MusicXML and Percussion Notation](https://v5.chriskrycho.com/journal/musicxml-and-percussion-redux/)
-- [Freshly disclosed vulnerability CVE-2021-20090 exploited in the wild](https://blogs.juniper.net/en-us/security/freshly-disclosed-vulnerability-cve-2021-20090-exploited-in-the-wild)
-- [Evolution of Search Engines Architecture – Algolia Search Architecture Part 1](http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architecture-algolia-new-search.html)
+- [Today is the World Wide Web's 30th birthday](https://www.w3.org/blog/2021/08/30-years-on-from-introducing-the-web-to-the-world/)
+- [0 A.D. Alpha 25: Yaunā](https://play0ad.com/new-release-0-a-d-alpha-25-yauna/)
+- [The Principles of Newspeak (1949)](https://www.berfrois.com/2021/07/1984-by-george-orwell/)
+- [Understanding Heidegger on Technology (2014)](https://www.thenewatlantis.com/publications/understanding-heidegger-on-technology)
+- [I'm reading the FT and WSJ from 100 years ago each week leading to 1929](https://roaring20s.substack.com/p/august-8-1921)
 <!-- BLOG-POST-LIST:END -->
 
 ---
