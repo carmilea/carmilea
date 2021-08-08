@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Put this in your pipe – Backticks in Julia](https://julialang.org/blog/2013/04/put-this-in-your-pipe/)
+- [Mux (YC W16) is hiring full-stack developers to focus on Elixir and TypeScript](https://mux.com/jobs?hnj=full-stack)
+- [Apps Getting Worse](https://www.tbray.org/ongoing/When/202x/2021/08/07/Apps-Get-Worse)
+- [Put This In Your Pipe (2013)](https://julialang.org/blog/2013/04/put-this-in-your-pipe/)
+- [Fairer Chess: A Reversal of Two Opening Moves in Chess Creates Balance](https://arxiv.org/abs/2108.02547)
 - [BioNTech Plans to Address Infectious Diseases on the African Continent](https://investors.biontech.de/news-releases/news-release-details/biontech-provides-update-plans-develop-sustainable-solutions)
-- [Imaging Cygnus a at 8.45 GHz with ATA](https://destevez.net/2021/08/imaging-cygnus-a-at-8-45-ghz-with-ata/)
-- [What Irony Is Not (2020)](https://thereader.mitpress.mit.edu/what-irony-is-not/)
-- [Revisiting Prechelt’s paper comparing Java, Lisp, C/C++ and scripting languages](https://renato.athaydes.com/posts/revisiting-prechelt-paper-comparing-languages.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
