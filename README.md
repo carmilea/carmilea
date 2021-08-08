@@ -55,7 +55,7 @@
 - [Once an Addict, Always an Addict?](https://www.deprocrastination.co/blog/once-an-addict-always-an-addict)
 - [; Echo “Shell Injection”](https://matklad.github.io//2021/07/30/shell-injection.html)
 - [When in Tokyo, forget everything you know about 7-Elevens and convenience stores](https://www.latimes.com/sports/olympics/story/2021-08-07/7-elevens-convenience-stores-tokyo-japan-olympics)
-- [Ex-Tesla Employee Called Racial Slur Wins Rare $1M Award](https://www.bloomberg.com/news/articles/2021-08-05/ex-tesla-employee-called-racial-slur-wins-rare-1-million-award)
+- [Does Oil Come from Dinosaurs?](https://www.powells.com/post/original-essays/does-oil-come-from-dinosaurs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
