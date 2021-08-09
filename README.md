@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.com/news/science-environment-58130705)
+- [WhatsApp lead and other tech experts fire back at Apple’s Child Safety plan](https://www.theverge.com/2021/8/6/22613365/apple-icloud-csam-scanning-whatsapp-surveillance-reactions)
 - [IPCC: Sixth Assessment Report](https://www.ipcc.ch/assessment-report/ar6/)
-- [IPCC Press Conference (climate change related)](https://www.youtube.com/watch?v=z149vLKn9d8)
-- [World's 1.5C climate goal on brink of slipping beyond reach, warns IPCC report](https://www.independent.co.uk/climate-change/news/ipcc-report-2021-climate-un-b1899193.html)
 - [Supercritical CO2 Tech Team](https://www.energy.gov/supercritical-co2-tech-team)
 - [Throwing 99 bottles (of OOP) in the trash](https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash)
 <!-- BLOG-POST-LIST:END -->
