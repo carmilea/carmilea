@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Most Beautiful Program Ever Written – Lisp Interpreter Written in Lisp](https://www.lvguowei.me/post/the-most-beautiful-program-ever-written/)
+- [Emu68: M68K Emulation for ARM](https://github.com/michalsc/Emu68)
 - [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.com/news/science-environment-58130705)
 - [WhatsApp lead and other tech experts fire back at Apple’s Child Safety plan](https://www.theverge.com/2021/8/6/22613365/apple-icloud-csam-scanning-whatsapp-surveillance-reactions)
 - [IPCC: Sixth Assessment Report](https://www.ipcc.ch/assessment-report/ar6/)
-- [Supercritical CO2 Tech Team](https://www.energy.gov/supercritical-co2-tech-team)
-- [Throwing 99 bottles (of OOP) in the trash](https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash)
 <!-- BLOG-POST-LIST:END -->
 
 ---
