@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What is sustainable web design?](https://sustainablewebdesign.org/)
-- [Why is the US Green Party's site blocked?](https://github.com/blocklistproject/Lists/issues/453)
-- [The Most Beautiful Program Ever Written – Lisp Interpreter Written in Lisp](https://www.lvguowei.me/post/the-most-beautiful-program-ever-written/)
-- [Emu68: M68K Emulation for ARM](https://github.com/michalsc/Emu68)
-- [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.com/news/science-environment-58130705)
+- [Build Your Own Next](https://learn.adafruit.com/build-your-own-next-with-a-virtual-machine?view=all)
+- [Open source database QuestDB is hiring front end/back end engineers](https://questdb.io/careers/)
+- [YouTuber wins $10000 bet, wind-powered vehicle travels twice as fast as the wind](https://www.businessinsider.com/youtuber-won-10000-bet-with-physicist-over-wind-powered-vehicle-2021-7)
+- [Why I Wrote PGP (1999)](http://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
+- [Chatcontrol 2.0: The End of the Privacy of Digital Correspondence in the EU](https://www.patrick-breyer.de/en/posts/message-screening/?lang=en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
