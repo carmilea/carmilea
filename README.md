@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What is sustainable web design?](https://sustainablewebdesign.org/)
+- [Why is the US Green Party's site blocked?](https://github.com/blocklistproject/Lists/issues/453)
 - [The Most Beautiful Program Ever Written – Lisp Interpreter Written in Lisp](https://www.lvguowei.me/post/the-most-beautiful-program-ever-written/)
 - [Emu68: M68K Emulation for ARM](https://github.com/michalsc/Emu68)
 - [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.com/news/science-environment-58130705)
-- [WhatsApp lead and other tech experts fire back at Apple’s Child Safety plan](https://www.theverge.com/2021/8/6/22613365/apple-icloud-csam-scanning-whatsapp-surveillance-reactions)
-- [IPCC: Sixth Assessment Report](https://www.ipcc.ch/assessment-report/ar6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
