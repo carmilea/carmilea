@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Next](https://learn.adafruit.com/build-your-own-next-with-a-virtual-machine?view=all)
-- [Open source database QuestDB is hiring front end/back end engineers](https://questdb.io/careers/)
-- [YouTuber wins $10000 bet, wind-powered vehicle travels twice as fast as the wind](https://www.businessinsider.com/youtuber-won-10000-bet-with-physicist-over-wind-powered-vehicle-2021-7)
-- [Why I Wrote PGP (1999)](http://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
-- [Chatcontrol 2.0: The End of the Privacy of Digital Correspondence in the EU](https://www.patrick-breyer.de/en/posts/message-screening/?lang=en)
+- [Launch HN: Lightly (YC S21): Label only the data which improves your ML model](https://news.ycombinator.com/item?id=28116371)
+- [Launch HN: Financial Choice (YC S21) – Checking accounts with market returns](https://news.ycombinator.com/item?id=28116288)
+- [AI has the worst superpower medical racism](https://lukeoakdenrayner.wordpress.com/2021/08/02/ai-has-the-worst-superpower-medical-racism/)
+- [Addons.thunderbird.net SSL certificate has expired](https://thunderbird.topicbox.com/groups/addons/T446f961afe6c556f/addons-thunderbird-net-ssl-certificate-is-expired)
+- [U.S. Senate Vote in Favor of Amendment That Threatens Crypto Industry](https://decrypt.co/78038/senate-votes-for-amendment-that-threatens-crypto-industry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
