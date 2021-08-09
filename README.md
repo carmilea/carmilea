@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supine Computing (2019)](https://mgsloan.com/posts/supine-computing/)
+- [Apple’s Mistake](https://stratechery.com/2021/apples-mistake/)
+- [Phishing Sites Targeting Scammers and Thieves](https://krebsonsecurity.com/2021/08/phishing-sites-targeting-scammers-and-thieves/)
+- [Happy Birthday, OpenStreetMap](https://www.tomtom.com/blog/maps/tomtom-openstreetmaps-mapmetrics-map-editing/)
 - [Why the McFlurry Machine Company Just Got Hit with a Restraining Order](https://www.vice.com/en/article/93ymbp/why-the-mcflurry-machine-company-just-got-hit-with-a-restraining-order)
-- [The World of CSS Transforms](https://www.joshwcomeau.com/css/transforms/)
-- [The Rocks and Minerals of Minecraft](https://www.mindat.org/a/minecraft)
-- [Show HN: Ots – share a secret via one-time URL (a simple Go CLI)](https://github.com/sniptt-official/ots)
-- [Launch HN: Lightly (YC S21): Label only the data which improves your ML model](https://news.ycombinator.com/item?id=28116371)
 <!-- BLOG-POST-LIST:END -->
 
 ---
