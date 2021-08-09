@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bring back hydrogen lifting gas](https://www.thecgo.org/news/bring-back-hydrogen-lifting-gas/)
+- [Ask HN: What tiny purchases have disproportionately improved your life?](https://news.ycombinator.com/item?id=28119393)
 - [Flexport is hiring engineers to build the future of global trade](https://www.flexport.com/careers/department/engineering)
 - [Why Valve Is Switching from Debian to Arch for Steam Deck's Linux OS](https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/)
 - [Handful of cities driving urban greenhouse gas emissions](https://www.reuters.com/business/sustainable-business/handful-cities-driving-urban-greenhouse-gas-emissions-study-2021-07-12/)
-- [Show HN: This Idea Does Not Exist](https://thisideadoesnotexist.com)
-- [Generate art from any text with deep learning](https://www.comet.ml/site/clipdraw-gallery-ai-art-powered-by-comet-and-gradio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
