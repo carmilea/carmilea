@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond coupling and cohesion: strategies for un-fucking yourself](https://jesseduffield.com/Beyond-Coupling-And-Cohesion/)
+- [Wildfire restored a Yosemite watershed](https://news.berkeley.edu/2021/08/09/how-wildfire-restored-a-yosemite-watershed/)
+- [Show HN: Free, Accessible AI Art Generator](https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK)
+- [VCs are financing an economy of servants](https://sifted.eu/articles/servant-economy/)
 - [Bring back hydrogen lifting gas](https://www.thecgo.org/news/bring-back-hydrogen-lifting-gas/)
-- [Ask HN: What tiny purchases have disproportionately improved your life?](https://news.ycombinator.com/item?id=28119393)
-- [Flexport is hiring engineers to build the future of global trade](https://www.flexport.com/careers/department/engineering)
-- [Why Valve Is Switching from Debian to Arch for Steam Deck's Linux OS](https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/)
-- [Handful of cities driving urban greenhouse gas emissions](https://www.reuters.com/business/sustainable-business/handful-cities-driving-urban-greenhouse-gas-emissions-study-2021-07-12/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
