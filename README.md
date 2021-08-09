@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sigstore – A new standard for signing, verifying and protecting software](https://sigstore.dev)
 - [Beyond coupling and cohesion: strategies for un-fucking yourself](https://jesseduffield.com/Beyond-Coupling-And-Cohesion/)
 - [Wildfire restored a Yosemite watershed](https://news.berkeley.edu/2021/08/09/how-wildfire-restored-a-yosemite-watershed/)
 - [Show HN: Free, Accessible AI Art Generator](https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK)
-- [VCs are financing an economy of servants](https://sifted.eu/articles/servant-economy/)
-- [Bring back hydrogen lifting gas](https://www.thecgo.org/news/bring-back-hydrogen-lifting-gas/)
+- [Why does it take so long to get to Mercury?](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Why_does_it_take_so_long_to_get_to_Mercury)
 <!-- BLOG-POST-LIST:END -->
 
 ---
