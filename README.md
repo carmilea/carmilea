@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Volley (YC W18) is hiring engineers to build voice games](https://jobs.lever.co/volleythat/5200aeb9-5c55-4490-a92f-1a663d0d8c49)
+- [Difficult math is about recognizing patterns](https://get21stnight.com/2021/08/09/difficult-math-is-about-recognizing-patterns-lessons-from-jeff-bezos/)
+- [New Carnivorous Plant Discovered in Pacific Northwest](https://www.npr.org/2021/08/09/1026091196/this-sweet-white-flower-is-actually-a-sneaky-carnivore-scientists-discovered)
+- [2,500-Year-Old Ancient Olive Tree Burned Down in Evia Fires in Greece](https://greekreporter.com/2021/08/08/evia-fire-greece-ancient-olive-tree-burned/)
 - [Sigstore – A new standard for signing, verifying and protecting software](https://sigstore.dev)
-- [Beyond coupling and cohesion: strategies for un-fucking yourself](https://jesseduffield.com/Beyond-Coupling-And-Cohesion/)
-- [Wildfire restored a Yosemite watershed](https://news.berkeley.edu/2021/08/09/how-wildfire-restored-a-yosemite-watershed/)
-- [Show HN: Free, Accessible AI Art Generator](https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK)
-- [Why does it take so long to get to Mercury?](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Why_does_it_take_so_long_to_get_to_Mercury)
 <!-- BLOG-POST-LIST:END -->
 
 ---
