@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rocks and Minerals of Minecraft](https://www.mindat.org/a/minecraft)
+- [Show HN: Ots – share a secret via one-time URL (a simple Go CLI)](https://github.com/sniptt-official/ots)
 - [Launch HN: Lightly (YC S21): Label only the data which improves your ML model](https://news.ycombinator.com/item?id=28116371)
 - [Launch HN: Financial Choice (YC S21) – Checking accounts with market returns](https://news.ycombinator.com/item?id=28116288)
-- [AI has the worst superpower medical racism](https://lukeoakdenrayner.wordpress.com/2021/08/02/ai-has-the-worst-superpower-medical-racism/)
-- [Addons.thunderbird.net SSL certificate has expired](https://thunderbird.topicbox.com/groups/addons/T446f961afe6c556f/addons-thunderbird-net-ssl-certificate-is-expired)
-- [U.S. Senate Vote in Favor of Amendment That Threatens Crypto Industry](https://decrypt.co/78038/senate-votes-for-amendment-that-threatens-crypto-industry)
+- [addons.thunderbird.net SSL certificate has expired](https://thunderbird.topicbox.com/groups/addons/T446f961afe6c556f/addons-thunderbird-net-ssl-certificate-is-expired)
 <!-- BLOG-POST-LIST:END -->
 
 ---
