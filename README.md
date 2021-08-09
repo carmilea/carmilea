@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Climate change: UN to reveal landmark IPCC report findings](https://www.bbc.com/news/science-environment-58141129)
 - [About 90% of Animators Quit Their Jobs Within 3 Years](https://www.animenewsnetwork.com/interest/2021-08-06/animator-dorm-project-about-90-percent-of-animators-quit-their-jobs-within-3-years/.175908)
-- [California's Dixie Fire Is Now the 2nd Largest in State History](https://www.npr.org/2021/08/08/1025928690/californias-dixie-fire-is-now-the-2nd-largest-in-state-history)
+- [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
+- [ST Sees AR Glasses Replacing Smartphones](https://www.eetimes.eu/st-sees-ar-glasses-replacing-smartphones/)
 - [Localhost](https://transparencyreport.google.com/copyright/domains/localhost)
-- [Official Elasticsearch Python library no longer works with open-source forks](https://github.com/elastic/elasticsearch-py/pull/1623)
-- [One Bad Apple](https://www.hackerfactor.com/blog/index.php?/archives/929-One-Bad-Apple.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
