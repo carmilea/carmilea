@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Supine Computing (2019)](https://mgsloan.com/posts/supine-computing/)
-- [Apple’s Mistake](https://stratechery.com/2021/apples-mistake/)
-- [Phishing Sites Targeting Scammers and Thieves](https://krebsonsecurity.com/2021/08/phishing-sites-targeting-scammers-and-thieves/)
-- [Happy Birthday, OpenStreetMap](https://www.tomtom.com/blog/maps/tomtom-openstreetmaps-mapmetrics-map-editing/)
-- [Why the McFlurry Machine Company Just Got Hit with a Restraining Order](https://www.vice.com/en/article/93ymbp/why-the-mcflurry-machine-company-just-got-hit-with-a-restraining-order)
+- [Flexport is hiring engineers to build the future of global trade](https://www.flexport.com/careers/department/engineering)
+- [Why Valve Is Switching from Debian to Arch for Steam Deck's Linux OS](https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/)
+- [Handful of cities driving urban greenhouse gas emissions](https://www.reuters.com/business/sustainable-business/handful-cities-driving-urban-greenhouse-gas-emissions-study-2021-07-12/)
+- [Show HN: This Idea Does Not Exist](https://thisideadoesnotexist.com)
+- [Generate art from any text with deep learning](https://www.comet.ml/site/clipdraw-gallery-ai-art-powered-by-comet-and-gradio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
