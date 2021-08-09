@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SafeButler (YC S17) Is hiring remote marketing associate](https://www.safebutler.com/careers)
+- [Ask HN: Is learning math useful to be a good computer scientist?](https://news.ycombinator.com/item?id=28113166)
 - [2,400-year-old baskets still filled with fruit found in submerged Egyptian city](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-2400-year-old-fruit-baskets-underwater-egyptian-city-180978350/)
 - [Facebook shuts out NYU academics’ research on political ads](https://apnews.com/article/technology-business-5d3021ed9f193bf249c3af158b128d18)
 - [Stupidity is a specific cognitive failing](https://psyche.co/ideas/why-some-of-the-smartest-people-can-be-so-very-stupid)
-- [Summer 2021 has changed our understanding of extreme weather](https://theconversation.com/how-summer-2021-has-changed-our-understanding-of-extreme-weather-165268)
-- [AU gov asks big tech to introduce detection capabilities in encrypted comm](https://www.zdnet.com/article/canberra-asks-big-tech-to-introduce-detection-capabilities-in-encrypted-communication/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
