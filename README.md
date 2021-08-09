@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future Is a Landscape](https://www.ecosophia.net/the-future-is-a-landscape/)
+- [Stages of Denial](https://beyondloom.com/blog/denial.html)
+- [The Top-Shelf Principle](https://listed.to/@mo/4733/the-top-shelf-principle)
+- [Anti-Lukashenka hackers seize senior Belarusian officials' personal data](https://en.currenttime.tv/a/seeking-change-anti-lukashenka-hackers-seize-senior-belarusian-officials-personal-data-/31392092.html)
 - [Machine learning won't solve natural language understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/)
-- [Volley (YC W18) is hiring engineers to build voice games](https://jobs.lever.co/volleythat/5200aeb9-5c55-4490-a92f-1a663d0d8c49)
-- [Difficult math is about recognizing patterns](https://get21stnight.com/2021/08/09/difficult-math-is-about-recognizing-patterns-lessons-from-jeff-bezos/)
-- [Show HN: Torrentinim – low memory-footprint, API-only torrent search engine](https://github.com/sergiotapia/torrentinim)
-- [New carnivorous plant discovered in Pacific Northwest](https://www.npr.org/2021/08/09/1026091196/this-sweet-white-flower-is-actually-a-sneaky-carnivore-scientists-discovered)
 <!-- BLOG-POST-LIST:END -->
 
 ---
