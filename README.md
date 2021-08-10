@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pop Meals (YC S17) Is Hiring a Chief Marketing and Growth Officer (CMO)](https://www.ycombinator.com/companies/pop-meals/jobs/aLbeAmT-chief-marketing-growth-officer-cmo)
+- [Unsong, a fantasy novel where the universe is programmable with Hebrew](https://unsongbook.com/)
 - [Turn your Android phone into SMS API gateway](https://github.com/traccar/traccar-sms-gateway)
-- [“My scooter was stolen. Unknown to the thief, I hid two AirTags inside it.”](https://twitter.com/dguido/status/1424921645483966466)
 - [Vue 3.2 Released](https://blog.vuejs.org/posts/vue-3.2.html)
 - [Apple dropped plan for encrypting backups after FBI complained (2020)](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive-idUSKBN1ZK1CT)
-- [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
