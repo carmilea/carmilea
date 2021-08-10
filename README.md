@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What to Expect After the Eviction Moratorium](https://www.strongtowns.org/journal/2021/8/6/what-to-expect-after-the-eviction-moratorium)
+- [JPL's Plan for the Next Mars Helicopter](https://spectrum.ieee.org/the-next-mars-helicopter)
+- [Bevy's First Birthday: a year of open source Rust game engine development](https://bevyengine.org/news/bevys-first-birthday/)
 - [Ask HN: How do I reliably prevent autoplay in Firefox 91?](https://news.ycombinator.com/item?id=28131896)
 - [OpenAI Codex](https://openai.com/blog/openai-codex/)
-- [$600MM Taken in Largest DeFi Hack to Date](https://blockworks.co/hackers-steal-over-600m-biggest-in-defi-history/)
-- [Deno 1.13 Release](https://deno.com/blog/v1.13)
-- [Signadot (YC W20) Is Hiring Founding Back End Engineers](https://www.workatastartup.com/jobs/42298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
