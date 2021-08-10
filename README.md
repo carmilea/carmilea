@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Signadot (YC W20) Is Hiring Founding Back End Engineers](https://www.workatastartup.com/jobs/42298)
 - [Elementary OS 6 Odin Available Now](https://blog.elementary.io/elementary-os-6-odin-released/)
-- [The 'Great Resignation' Is Really the 'Great Discontent'](https://www.gallup.com/workplace/351545/great-resignation-really-great-discontent.aspx)
+- [2020 U.S. Migration Map](https://www.northamerican.com/migration-map)
 - [Incident with GitHub Actions, API Requests, Git Operations, Issues and more](https://www.githubstatus.com/incidents/rmfrw9dfbtbp)
 - [Animals Can Count and Use Zero. How Far Does Their Number Sense Go?](https://www.quantamagazine.org/animals-can-count-and-use-zero-how-far-does-their-number-sense-go-20210809/)
-- [4th person in US mysteriously stricken with deadly bacteria from South Asia](https://arstechnica.com/science/2021/08/4th-person-in-us-mysteriously-stricken-with-deadly-bacteria-from-south-asia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
