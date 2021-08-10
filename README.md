@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Police to begin regular, warrant-free searches of homes for child abuse material](https://drewdevault.com/2021/08/10/Apple-CSAM-scanning.html)
+- [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
+- [German pensioner given hefty fine for WW2 tank in house](https://www.bbc.com/news/world-europe-58077039)
 - [How to Hack APIs in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
-- [The mystery of the lost Roman herb](https://www.bbc.com/future/article/20170907-the-mystery-of-the-lost-roman-herb)
-- [Apple says photos in iCloud will be checked by child abuse detection system](https://www.reuters.com/technology/apple-says-photos-icloud-will-be-checked-by-child-abuse-detection-system-2021-08-09/)
-- [OpenAI Codex](https://openai.com/)
-- [Pop Meals (YC S17) Is Hiring a Chief Marketing and Growth Officer (CMO)](https://www.ycombinator.com/companies/pop-meals/jobs/aLbeAmT-chief-marketing-growth-officer-cmo)
+- [The mystery of the lost Roman herb (2017)](https://www.bbc.com/future/article/20170907-the-mystery-of-the-lost-roman-herb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
