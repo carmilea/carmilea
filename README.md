@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
+- [Drug-resistant bacteria found in the guts of lemurs who live around humans](https://today.duke.edu/2021/08/drug-resistant-bacteria-found-guts-lemurs-who-live-around-humans)
 - [The Future Is a Landscape](https://www.ecosophia.net/the-future-is-a-landscape/)
 - [Stages of Denial](https://beyondloom.com/blog/denial.html)
-- [The Top-Shelf Principle](https://listed.to/@mo/4733/the-top-shelf-principle)
 - [Anti-Lukashenka hackers seize senior Belarusian officials' personal data](https://en.currenttime.tv/a/seeking-change-anti-lukashenka-hackers-seize-senior-belarusian-officials-personal-data-/31392092.html)
-- [Machine learning won't solve natural language understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
