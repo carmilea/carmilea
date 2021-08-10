@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do I reliably prevent autoplay in Firefox 91?](https://news.ycombinator.com/item?id=28131896)
+- [OpenAI Codex](https://openai.com/blog/openai-codex/)
+- [$600MM Taken in Largest DeFi Hack to Date](https://blockworks.co/hackers-steal-over-600m-biggest-in-defi-history/)
+- [Deno 1.13 Release](https://deno.com/blog/v1.13)
 - [Signadot (YC W20) Is Hiring Founding Back End Engineers](https://www.workatastartup.com/jobs/42298)
-- [Elementary OS 6 Odin Available Now](https://blog.elementary.io/elementary-os-6-odin-released/)
-- [2020 U.S. Migration Map](https://www.northamerican.com/migration-map)
-- [Incident with GitHub Actions, API Requests, Git Operations, Issues and more](https://www.githubstatus.com/incidents/rmfrw9dfbtbp)
-- [Animals Can Count and Use Zero. How Far Does Their Number Sense Go?](https://www.quantamagazine.org/animals-can-count-and-use-zero-how-far-does-their-number-sense-go-20210809/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
