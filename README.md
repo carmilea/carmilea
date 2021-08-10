@@ -54,8 +54,8 @@
 - [“My scooter was stolen. Unknown to the thief, I hid two AirTags inside it.”](https://twitter.com/dguido/status/1424921645483966466)
 - [Vue 3.2 Released](https://blog.vuejs.org/posts/vue-3.2.html)
 - [Apple dropped plan for encrypting backups after FBI complained (2020)](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive-idUSKBN1ZK1CT)
+- [4G LTE Coverage as of May 15, 2021 (AT&T, T-Mobile, UScellular, Verizon)](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b)
 - [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
-- [Mexico is phasing out imports of glyphosate and GMO corn](https://thecounter.org/mexico-phaseout-glyphosate-genetically-engineered-corn-united-states/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
