@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What to Expect After the Eviction Moratorium](https://www.strongtowns.org/journal/2021/8/6/what-to-expect-after-the-eviction-moratorium)
-- [JPL's Plan for the Next Mars Helicopter](https://spectrum.ieee.org/the-next-mars-helicopter)
-- [Bevy's First Birthday: a year of open source Rust game engine development](https://bevyengine.org/news/bevys-first-birthday/)
-- [Ask HN: How do I reliably prevent autoplay in Firefox 91?](https://news.ycombinator.com/item?id=28131896)
-- [OpenAI Codex](https://openai.com/blog/openai-codex/)
+- [Federal Court Orders BitMEX to Pay $100M over Illegal Crypto Trading](https://www.cftc.gov/PressRoom/PressReleases/8412-21)
+- [Unity to acquire Parsec for $320m](https://investors.unity.com/news/news-details/2021/Unity-Enters-Into-Agreement-to-Acquire-Parsec/default.aspx)
+- [Giuseppe 'Bepi' Colombo: Grandfather of the orbital fly-by](https://www.esa.int/About_Us/ESA_history/Giuseppe_Bepi_Colombo_Grandfather_of_the_fly-by)
+- [Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React)](https://useavenue.notion.site/Software-Engineer-Avenue-d68ff1ec6b064380b3afa85d5d1b3276)
+- [Please Log in with Router's Password](https://www.google.com/search?q=%22Please+log+in+with+router%27s+password%22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
