@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“The software comes for free, but my time is not”](https://github.com/mishushakov/dialogflow-web-v2)
+- [MapReduce is making a comeback](https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback)
+- [Firefox 91](https://www.mozilla.org/en-US/firefox/91.0/releasenotes/)
 - [How we built the Evervault Encryption Engine (E3)](https://evervault.com/blog/e3)
 - [Cortex (YC W20) Is Hiring Founding Engineers](https://www.workatastartup.com/jobs/29595)
-- [Pay cut: Google employees who work from home could lose money](https://www.reuters.com/world/the-great-reboot/pay-cut-google-employees-who-work-home-could-lose-money-2021-08-10/)
-- [How to Hack APIs in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
+- [Google employees who work from home could lose money](https://www.reuters.com/world/the-great-reboot/pay-cut-google-employees-who-work-home-could-lose-money-2021-08-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
