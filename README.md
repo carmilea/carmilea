@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
+- [Mexico is phasing out imports of glyphosate and GMO corn](https://thecounter.org/mexico-phaseout-glyphosate-genetically-engineered-corn-united-states/)
+- [Top 5% Polluting Power Plants Account for 73% of Global Emissions](https://oilprice.com/Latest-Energy-News/World-News/Top-5-Polluting-Power-Plants-Account-For-73-Of-Global-Emissions.html)
 - [Drug-resistant bacteria found in the guts of lemurs who live around humans](https://today.duke.edu/2021/08/drug-resistant-bacteria-found-guts-lemurs-who-live-around-humans)
 - [The Future Is a Landscape](https://www.ecosophia.net/the-future-is-a-landscape/)
-- [Stages of Denial](https://beyondloom.com/blog/denial.html)
-- [Anti-Lukashenka hackers seize senior Belarusian officials' personal data](https://en.currenttime.tv/a/seeking-change-anti-lukashenka-hackers-seize-senior-belarusian-officials-personal-data-/31392092.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
