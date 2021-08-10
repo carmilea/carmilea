@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [OpenAI Codex](https://openai.com/)
-- [Fish with 'human' teeth caught in North Carolina](https://www.bbc.com/news/world-us-canada-58105044)
 - [Pop Meals (YC S17) Is Hiring a Chief Marketing and Growth Officer (CMO)](https://www.ycombinator.com/companies/pop-meals/jobs/aLbeAmT-chief-marketing-growth-officer-cmo)
 - [How far could a spaceship go if we never ran out of thrust? (2020)](https://www.forbes.com/sites/startswithabang/2021/12/30/how-far-could-a-spaceship-go-if-we-never-ran-out-of-thrust/)
 - [Unsong, a fantasy novel where the universe is programmable with Hebrew (2015)](https://unsongbook.com/)
+- [Turn your Android phone into SMS API gateway](https://github.com/traccar/traccar-sms-gateway)
 <!-- BLOG-POST-LIST:END -->
 
 ---
