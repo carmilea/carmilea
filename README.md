@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Hack APIs in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
+- [The mystery of the lost Roman herb](https://www.bbc.com/future/article/20170907-the-mystery-of-the-lost-roman-herb)
+- [Apple says photos in iCloud will be checked by child abuse detection system](https://www.reuters.com/technology/apple-says-photos-icloud-will-be-checked-by-child-abuse-detection-system-2021-08-09/)
 - [OpenAI Codex](https://openai.com/)
 - [Pop Meals (YC S17) Is Hiring a Chief Marketing and Growth Officer (CMO)](https://www.ycombinator.com/companies/pop-meals/jobs/aLbeAmT-chief-marketing-growth-officer-cmo)
-- [How far could a spaceship go if we never ran out of thrust? (2020)](https://www.forbes.com/sites/startswithabang/2021/12/30/how-far-could-a-spaceship-go-if-we-never-ran-out-of-thrust/)
-- [Unsong, a fantasy novel where the universe is programmable with Hebrew (2015)](https://unsongbook.com/)
-- [Turn your Android phone into SMS API gateway](https://github.com/traccar/traccar-sms-gateway)
 <!-- BLOG-POST-LIST:END -->
 
 ---
