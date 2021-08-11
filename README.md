@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DoD Awards $1B Contract to Peraton to Counter Misinformation](https://www.fedscoop.com/dod-awards-1b-contract-to-peraton-to-counter-misinformation/)
 - [Launch HN: Senpai.gg (YC S21) – Personal gaming coach for PC gamers](https://news.ycombinator.com/item?id=28145998)
-- [I sent over 10k personal thank you videos to my customers](https://www.marshallhaas.com/post/how-i-sent-over-10-000-personal-thank-you-videos-to-my-customers-in-2-months)
+- [Because I Am Bored](https://www.antipope.org/charlie/blog-static/2021/05/because-i-am-bored.html)
 - [1Password 8 will be subscription only and won’t support local vaults](https://1password.community/discussion/comment/601917/#Comment_601917)
 - [ANSI Escape Codes](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)
-- [Poll Everywhere (YC S08) Is Hiring Full Stack Engineers](https://www.workatastartup.com/jobs/45671)
 <!-- BLOG-POST-LIST:END -->
 
 ---
