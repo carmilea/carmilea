@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1Password 8 will be subscription only and won’t support local vaults](https://1password.community/discussion/comment/601917/#Comment_601917)
+- [ANSI Escape Codes](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)
 - [Poll Everywhere (YC S08) Is Hiring Full Stack Engineers](https://www.workatastartup.com/jobs/45671)
 - [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)
 - [Facebook Announces Privacy-Enhancing Technologies](https://www.facebook.com/business/news/building-for-the-future)
-- [GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
-- [Show HN: KmCaster – display keyboard and mouse events on-screen](https://github.com/DaveJarvis/kmcaster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
