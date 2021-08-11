@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Metaverse Is a Dystopian Nightmare. Let’s Build a Better Reality](https://nianticlabs.com/blog/real-world-metaverse/)
+- [The metaverse is a dystopian nightmare – let’s build a better reality](https://nianticlabs.com/blog/real-world-metaverse/)
 - [Former college professor accused of serial arson is denied bail in California](https://www.npr.org/2021/08/11/1026700103/former-college-professor-arson-charges-california-dixie-fire)
 - [Smarking (YC W15) Is Hiring a Head of Engineering](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [DoD Awards $1B Contract to Peraton to Counter Misinformation](https://www.fedscoop.com/dod-awards-1b-contract-to-peraton-to-counter-misinformation/)
 - [Launch HN: Senpai.gg (YC S21) – Personal gaming coach for PC gamers](https://news.ycombinator.com/item?id=28145998)
+- [Because I Am Bored](https://www.antipope.org/charlie/blog-static/2021/05/because-i-am-bored.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
