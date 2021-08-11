@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scrimba (YC S20) is hiring a full-stack dev to make CS education more accessible](https://jobs.scrimba.com/)
+- [Apple drops Lawsuit against Corellium](https://9to5mac.com/2021/08/10/apple-drops-copyright-lawsuit-against-corellium-for-selling-virtual-ios-devices/)
 - [Demand for air conditioning is set to surge by 2050](https://www.economist.com/graphic-detail/2021/08/10/demand-for-air-conditioning-is-set-to-surge-by-2050)
 - [Signal – Embrace ephemerality with default disappearing messages](https://signal.org/blog/disappearing-by-default/)
 - [Console Desktop Guide (2018)](https://pspodcasting.net/dan/blog/2018/console_desktop.html)
-- [A dubious writing style emerging in science](https://arxiv.org/abs/2107.06751)
-- [DevOps, SRE, and Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
