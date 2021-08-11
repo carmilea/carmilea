@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany to Stop Free Covid-19 Tests in October](https://www.reuters.com/business/healthcare-pharmaceuticals/germany-stop-free-covid-19-tests-report-2021-08-09/)
+- [Plants, Heavy Metals, and the Lingering Scars of World War I](https://www.atlasobscura.com/articles/zone-rouge-plant-growth)
 - [State of netbooting Raspberry Pi in 2021](https://blog.alexellis.io/state-of-netbooting-raspberry-pi-in-2021/)
 - [Australia is becoming a surveillance state](https://ia.acs.org.au/article/2021/australia-is-becoming-a-surveillance-state.html)
 - [Scrimba (YC S20) is hiring a full-stack dev to make CS education more accessible](https://jobs.scrimba.com/)
