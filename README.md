@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [#TSLAQ](https://en.wikipedia.org/wiki/TSLAQ)
+- [Individual Choices, Not Lockdowns](https://www.city-journal.org/individual-choices-not-lockdowns?wallit_nosession=1)
+- [MagicBell (YC W21) Is Hiring a Founding Front End Engineer (Remote)](https://magicbell.notion.site/Founding-Frontend-Engineer-Fully-Remote-5d6c0eceed334d6e95f71dec6167453c)
+- [Open-sourcing a more precise time appliance](https://engineering.fb.com/2021/08/11/open-source/time-appliance/)
+- [Scale of Russian mercenary mission in Libya exposed](https://www.bbc.com/news/world-africa-58009514)
 - [Plants, Heavy Metals, and the Lingering Scars of World War I](https://www.atlasobscura.com/articles/zone-rouge-plant-growth)
-- [How Sweden became the Silicon Valley of Europe](https://www.reuters.com/business/finance/how-sweden-became-silicon-valley-europe-2021-08-11/)
-- [State of netbooting Raspberry Pi in 2021](https://blog.alexellis.io/state-of-netbooting-raspberry-pi-in-2021/)
-- [Australia is becoming a surveillance state](https://ia.acs.org.au/article/2021/australia-is-becoming-a-surveillance-state.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
