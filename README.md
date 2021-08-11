@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Poll Everywhere (YC S08) Is Hiring Full Stack Engineers](https://www.workatastartup.com/jobs/45671)
+- [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)
+- [Facebook Announces Privacy-Enhancing Technologies](https://www.facebook.com/business/news/building-for-the-future)
 - [GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
 - [Show HN: KmCaster – display keyboard and mouse events on-screen](https://github.com/DaveJarvis/kmcaster)
-- [I've decided not to work with Aubrey de Grey or SENS](https://ldeming.posthaven.com/aubrey)
-- [Netflix Intensifies ‘VPN’ Ban and Targets Residential IP-Addresses Too](https://torrentfreak.com/netflix-intensifies-vpn-ban-and-targets-residential-ip-addresses-too-210811/)
-- [Regulators should treat stablecoins like banks](https://www.economist.com/leaders/2021/08/07/why-regulators-should-treat-stablecoins-like-banks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
