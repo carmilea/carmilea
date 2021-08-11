@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Senpai.gg (YC S21) – Personal gaming coach for PC gamers](https://news.ycombinator.com/item?id=28145998)
+- [I sent over 10k personal thank you videos to my customers](https://www.marshallhaas.com/post/how-i-sent-over-10-000-personal-thank-you-videos-to-my-customers-in-2-months)
 - [1Password 8 will be subscription only and won’t support local vaults](https://1password.community/discussion/comment/601917/#Comment_601917)
 - [ANSI Escape Codes](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)
 - [Poll Everywhere (YC S08) Is Hiring Full Stack Engineers](https://www.workatastartup.com/jobs/45671)
-- [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)
-- [Facebook Announces Privacy-Enhancing Technologies](https://www.facebook.com/business/news/building-for-the-future)
 <!-- BLOG-POST-LIST:END -->
 
 ---
