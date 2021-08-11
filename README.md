@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Individual Choices, Not Lockdowns](https://www.city-journal.org/individual-choices-not-lockdowns?wallit_nosession=1)
+- [Launch HN: Slip (YC S21) – Build and sell interactive programming courses](https://news.ycombinator.com/item?id=28141462)
+- [What if we could transpile COBOL into Elixir](https://dockyard.com/blog/2021/08/10/what-if-coboltoelixir)
+- [An Old Hacker's Tips on Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
+- [Copy-Protection for Vinyl in the 1970s](https://www.currybet.net/cbet_blog/2008/01/copy-protection-for-vinyl-in-t.php)
 - [MagicBell (YC W21) Is Hiring a Founding Front End Engineer (Remote)](https://magicbell.notion.site/Founding-Frontend-Engineer-Fully-Remote-5d6c0eceed334d6e95f71dec6167453c)
-- [Open-sourcing a more precise time appliance](https://engineering.fb.com/2021/08/11/open-source/time-appliance/)
-- [Scale of Russian mercenary mission in Libya exposed](https://www.bbc.com/news/world-africa-58009514)
-- [Plants, Heavy Metals, and the Lingering Scars of World War I](https://www.atlasobscura.com/articles/zone-rouge-plant-growth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
