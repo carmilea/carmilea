@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What the HN of Cryptocurrency?](https://news.ycombinator.com/item?id=28141799)
-- [Coinbase removes ‘backed by US dollars’ claim for USDC stablecoin](https://nexteven.com/coinbase-removes-backed-by-us-dollars-claim-for-usdc-stablecoin/)
-- [Instagram launches hate-speech 'limits' to hide abuse](https://www.bbc.co.uk/news/technology-58173921)
-- [Launch HN: Slip (YC S21) – Build and sell interactive programming courses](https://news.ycombinator.com/item?id=28141462)
-- [Kind: A Modern Proof Language](https://github.com/uwu-tech/kind)
+- [YouTube suspends Sen. Rand Paul for 1 week for claiming masks are ineffective](https://www.mercurynews.com/2021/08/11/youtube-suspends-gop-sen-rand-paul-for-seven-days-for-claiming-masks-are-ineffective/)
+- [Unstablecoins: Regulators should treat stablecoins like banks](https://www.economist.com/leaders/2021/08/07/why-regulators-should-treat-stablecoins-like-banks)
+- [The Raspberry Pi as a Stratum-1 NTP Server](https://www.satsignal.eu/ntp/Raspberry-Pi-NTP.html)
+- [Google may cut pay of staff who work from home](https://www.bbc.com/news/business-58171716)
+- [PG&E power line suspected in Dixie fire was set to be buried underground](https://www.latimes.com/california/story/2021-08-10/pge-power-line-dixie-fire-scheduled-to-be-buried-underground)
 <!-- BLOG-POST-LIST:END -->
 
 ---
