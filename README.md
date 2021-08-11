@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New EU Law Removes Digital Privacy](https://www.patrick-breyer.de/en/posts/message-screening/)
+- [#TSLAQ](https://en.wikipedia.org/wiki/TSLAQ)
 - [Plants, Heavy Metals, and the Lingering Scars of World War I](https://www.atlasobscura.com/articles/zone-rouge-plant-growth)
 - [How Sweden became the Silicon Valley of Europe](https://www.reuters.com/business/finance/how-sweden-became-silicon-valley-europe-2021-08-11/)
 - [State of netbooting Raspberry Pi in 2021](https://blog.alexellis.io/state-of-netbooting-raspberry-pi-in-2021/)
