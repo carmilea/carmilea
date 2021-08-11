@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube suspends Sen. Rand Paul for 1 week for claiming masks are ineffective](https://www.mercurynews.com/2021/08/11/youtube-suspends-gop-sen-rand-paul-for-seven-days-for-claiming-masks-are-ineffective/)
-- [Unstablecoins: Regulators should treat stablecoins like banks](https://www.economist.com/leaders/2021/08/07/why-regulators-should-treat-stablecoins-like-banks)
-- [The Raspberry Pi as a Stratum-1 NTP Server](https://www.satsignal.eu/ntp/Raspberry-Pi-NTP.html)
-- [Google may cut pay of staff who work from home](https://www.bbc.com/news/business-58171716)
-- [PG&E power line suspected in Dixie fire was set to be buried underground](https://www.latimes.com/california/story/2021-08-10/pge-power-line-dixie-fire-scheduled-to-be-buried-underground)
+- [GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
+- [Show HN: KmCaster – display keyboard and mouse events on-screen](https://github.com/DaveJarvis/kmcaster)
+- [I've decided not to work with Aubrey de Grey or SENS](https://ldeming.posthaven.com/aubrey)
+- [Netflix Intensifies ‘VPN’ Ban and Targets Residential IP-Addresses Too](https://torrentfreak.com/netflix-intensifies-vpn-ban-and-targets-residential-ip-addresses-too-210811/)
+- [Regulators should treat stablecoins like banks](https://www.economist.com/leaders/2021/08/07/why-regulators-should-treat-stablecoins-like-banks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
