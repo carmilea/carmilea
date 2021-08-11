@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany to Stop Free Covid-19 Tests in October](https://www.reuters.com/business/healthcare-pharmaceuticals/germany-stop-free-covid-19-tests-report-2021-08-09/)
+- [State of netbooting Raspberry Pi in 2021](https://blog.alexellis.io/state-of-netbooting-raspberry-pi-in-2021/)
+- [Australia is becoming a surveillance state](https://ia.acs.org.au/article/2021/australia-is-becoming-a-surveillance-state.html)
 - [Scrimba (YC S20) is hiring a full-stack dev to make CS education more accessible](https://jobs.scrimba.com/)
-- [Apple drops Lawsuit against Corellium](https://9to5mac.com/2021/08/10/apple-drops-copyright-lawsuit-against-corellium-for-selling-virtual-ios-devices/)
-- [Demand for air conditioning is set to surge by 2050](https://www.economist.com/graphic-detail/2021/08/10/demand-for-air-conditioning-is-set-to-surge-by-2050)
-- [Signal – Embrace ephemerality with default disappearing messages](https://signal.org/blog/disappearing-by-default/)
-- [Console Desktop Guide (2018)](https://pspodcasting.net/dan/blog/2018/console_desktop.html)
+- [The Ancient Persian way to keep cool](https://www.bbc.com/future/article/20210810-the-ancient-persian-way-to-keep-cool)
 <!-- BLOG-POST-LIST:END -->
 
 ---
