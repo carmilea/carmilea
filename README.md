@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Smarking (YC W15) Is Hiring a Head of Engineering to Digital $100B+ Parking](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Europe's all-time heat record set in Sicily at nearly 120 degrees](https://www.axios.com/europe-all-time-heat-record-set-sicily-065cef11-fdb7-4aaf-abd5-82b5b8d7a475.html)
+- [The Metaverse Is a Dystopian Nightmare. Let’s Build a Better Reality](https://nianticlabs.com/blog/real-world-metaverse/)
+- [Former college professor accused of serial arson is denied bail in California](https://www.npr.org/2021/08/11/1026700103/former-college-professor-arson-charges-california-dixie-fire)
+- [Smarking (YC W15) Is Hiring a Head of Engineering](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - [DoD Awards $1B Contract to Peraton to Counter Misinformation](https://www.fedscoop.com/dod-awards-1b-contract-to-peraton-to-counter-misinformation/)
-- [US to introduce bill to force app stores to allow alternate payment systems](https://financialpost.com/technology/u-s-lawmakers-introduce-bill-to-rein-in-apple-google-app-stores)
 - [Launch HN: Senpai.gg (YC S21) – Personal gaming coach for PC gamers](https://news.ycombinator.com/item?id=28145998)
 <!-- BLOG-POST-LIST:END -->
 
