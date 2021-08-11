@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Demand for air conditioning is set to surge by 2050](https://www.economist.com/graphic-detail/2021/08/10/demand-for-air-conditioning-is-set-to-surge-by-2050)
+- [Signal – Embrace ephemerality with default disappearing messages](https://signal.org/blog/disappearing-by-default/)
 - [Console Desktop Guide (2018)](https://pspodcasting.net/dan/blog/2018/console_desktop.html)
+- [A dubious writing style emerging in science](https://arxiv.org/abs/2107.06751)
 - [DevOps, SRE, and Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/)
-- [Sony's new curved image sensors could shake up the whole camera industry](https://www.digitalcameraworld.com/news/sonys-new-curved-image-sensors-could-shake-up-the-whole-camera-industry)
-- [U.S. prisons mull AI to analyze inmate phone calls](https://www.reuters.com/article/us-usa-tech-prison-idUSKBN2FA0OO)
-- [FairyTailor: A Multimodal Generative Framework for Storytelling](https://github.com/EdenBD/MultiModalStory-demo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
