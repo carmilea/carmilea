@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Homeless encampment grows on Apple property in Silicon Valley](https://www.mercurynews.com/2021/08/10/homeless-encampment-grows-on-apple-property-in-silicon-valley)
+- [U.S. prisons mull AI to analyze inmate phone calls](https://www.reuters.com/article/us-usa-tech-prison-idUSKBN2FA0OO)
+- [FairyTailor: A Multimodal Generative Framework for Storytelling](https://github.com/EdenBD/MultiModalStory-demo)
+- [The emergence of heat and humidity too severe for human tolerance](https://advances.sciencemag.org/content/6/19/eaaw1838)
 - [Jewish Problems (2011)](https://arxiv.org/abs/1110.1556)
-- [Apple call center workers fear AI-powered surveillance cameras in their homes](https://9to5mac.com/2021/08/09/apple-call-center-workers-surveillance/)
-- [Siberia’s wildfires are bigger than all the world’s other blazes combined](https://www.washingtonpost.com/world/2021/08/11/siberia-fires-russia-climate/)
-- [Show HN: YouTube Musical Spectrum – visualizer for YouTube with musical notes](https://github.com/mfcc64/youtube-musical-spectrum)
-- [Federal Court Orders BitMEX to Pay $100M over Illegal Crypto Trading](https://www.cftc.gov/PressRoom/PressReleases/8412-21)
 <!-- BLOG-POST-LIST:END -->
 
 ---
