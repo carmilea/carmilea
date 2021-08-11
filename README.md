@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Henry Kissinger and Eric Schmidt’s Big Treatise on AI Panned in Book Review](https://www.showbiz411.com/2021/08/10/henry-kissinger-eric-schmidts-big-treatise-on-artificial-intelligence-panned-in-early-important-book-review)
-- [Newline Guide to Creating React Libraries from Scratch](https://www.newline.co/courses/creating-react-libraries-from-scratch)
 - [Siberia’s wildfires are bigger than all the world’s other blazes combined](https://www.washingtonpost.com/world/2021/08/11/siberia-fires-russia-climate/)
 - [Show HN: YouTube Musical Spectrum – visualizer for YouTube with musical notes](https://github.com/mfcc64/youtube-musical-spectrum)
 - [Federal Court Orders BitMEX to Pay $100M over Illegal Crypto Trading](https://www.cftc.gov/PressRoom/PressReleases/8412-21)
+- [Unity to acquire Parsec for $320M](https://investors.unity.com/news/news-details/2021/Unity-Enters-Into-Agreement-to-Acquire-Parsec/default.aspx)
+- [Giuseppe 'Bepi' Colombo: Grandfather of the orbital fly-by](https://www.esa.int/About_Us/ESA_history/Giuseppe_Bepi_Colombo_Grandfather_of_the_fly-by)
 <!-- BLOG-POST-LIST:END -->
 
 ---
