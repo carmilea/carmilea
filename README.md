@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New EU Law Removes Digital Privacy](https://www.patrick-breyer.de/en/posts/message-screening/)
 - [Plants, Heavy Metals, and the Lingering Scars of World War I](https://www.atlasobscura.com/articles/zone-rouge-plant-growth)
+- [How Sweden became the Silicon Valley of Europe](https://www.reuters.com/business/finance/how-sweden-became-silicon-valley-europe-2021-08-11/)
 - [State of netbooting Raspberry Pi in 2021](https://blog.alexellis.io/state-of-netbooting-raspberry-pi-in-2021/)
 - [Australia is becoming a surveillance state](https://ia.acs.org.au/article/2021/australia-is-becoming-a-surveillance-state.html)
-- [Scrimba (YC S20) is hiring a full-stack dev to make CS education more accessible](https://jobs.scrimba.com/)
-- [The Ancient Persian way to keep cool](https://www.bbc.com/future/article/20210810-the-ancient-persian-way-to-keep-cool)
 <!-- BLOG-POST-LIST:END -->
 
 ---
