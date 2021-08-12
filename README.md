@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Major Outage on Reddit](https://www.redditstatus.com/)
+- [I'm the guy who bought 259684 BTC for under $3000 yesterday (2011)](https://web.archive.org/web/20110716064544/https://forum.bitcoin.org/index.php?topic=20207.0)
 - [Monday was my 46th birthday and likely my last (2013)](https://web.archive.org/web/20160304012020/http://aaronwinborn.com/blogs/aaron/monday-was-my-46th-birthday-and-likely-my-last-anything-awesome-i-should-try-after-i-die)
-- [Mosh: The Mobile Shell](https://mosh.org)
-- [Quality and Effort (2018)](https://seths.blog/2018/11/quality-and-effort/)
-- [Open-source Dropbox client, with multi-account, no-device-limit and M1 support](https://github.com/SamSchott/maestral)
-- [The metaverse is a dystopian nightmare – let’s build a better reality](https://nianticlabs.com/blog/real-world-metaverse/)
+- [Leaked voting machine BIOS passwords may implicate Q-friendly county clerk](https://arstechnica.com/information-technology/2021/08/8chans-ron-watkins-scores-a-major-own-goal-with-leaked-bios-passwords/)
+- [‘A Form of Brainwashing’: China Remakes Hong Kong](https://www.nytimes.com/2021/06/29/world/asia/hong-kong-security-law-anniversary.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
