@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Major Outage on Reddit](https://www.redditstatus.com/)
+- [Poly Network hacker returns $258M after stealing $600M](https://www.forbes.com/sites/jonathanponciano/2021/08/11/crypto-hacker-returns-258-million-after-stealing-600-million-solicits-donations-for-hacking-for-good/)
+- [Strange domain names that developers bought](https://stackoverflow.blog/2021/08/11/the-strange-domain-names-that-developers-bought/)
+- [Transmission of SARS-CoV-2 Delta Among Vaccinated Healthcare Workers, Vietnam](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3897733)
 - [I'm the guy who bought 259684 BTC for under $3000 yesterday (2011)](https://web.archive.org/web/20110716064544/https://forum.bitcoin.org/index.php?topic=20207.0)
 - [Monday was my 46th birthday and likely my last (2013)](https://web.archive.org/web/20160304012020/http://aaronwinborn.com/blogs/aaron/monday-was-my-46th-birthday-and-likely-my-last-anything-awesome-i-should-try-after-i-die)
-- [Leaked voting machine BIOS passwords may implicate Q-friendly county clerk](https://arstechnica.com/information-technology/2021/08/8chans-ron-watkins-scores-a-major-own-goal-with-leaked-bios-passwords/)
-- [‘A Form of Brainwashing’: China Remakes Hong Kong](https://www.nytimes.com/2021/06/29/world/asia/hong-kong-security-law-anniversary.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
