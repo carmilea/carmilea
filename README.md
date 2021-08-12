@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia’s “Kitchen” Keynote was faked (rendered) and nobody noticed](https://blogs.nvidia.com/blog/2021/08/11/omniverse-making-of-gtc/)
+- [C++ Exceptions: Under the Hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html)
 - [Coursedog (YC W19) Is Hiring a VP of Engineering](https://news.ycombinator.com/item?id=28161397)
 - [Touted as clean, ‘blue’ hydrogen may be worse than gas, coal](https://onlinelibrary.wiley.com/doi/10.1002/ese3.956)
 - [The pain and aguish of using IndexedDB: problems, bugs and oddities](https://gist.github.com/pesterhazy/4de96193af89a6dd5ce682ce2adff49a)
-- [GitHub: Git password authentication is shutting down](https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/)
-- [The future of long-haul trucking in Europe is electric](https://www.transportenvironment.org/newsroom/blog/why-future-long-haul-trucking-electric)
 <!-- BLOG-POST-LIST:END -->
 
 ---
