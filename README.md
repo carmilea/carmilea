@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Climate Change as a Biological Accelerator](https://statmodeling.stat.columbia.edu/2021/08/12/climate-change-as-a-biological-accelerator/)
+- [Commodore 64 BASIC and KERNAL on Atari 8-bit hardware](https://github.com/unbibium/atari64)
 - [Internet of Snitches](https://puri.sm/posts/internet-of-snitches/)
 - [Contract by Email](https://writing.kemitchell.com/2021/08/12/Contract-by-E-Mail.html)
 - [CoinTracker (YC W18) is hiring to make cryptocurrency accessible](https://www.cointracker.io/about)
