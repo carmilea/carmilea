@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The bug which lost more than $600m in various crypto currencies a few hours ago](https://twitter.com/simonw/status/1425333588610801667)
-- [Single cortical neurons as  deep as (5-8 layer) artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0896627321005018?dgcid=coauthor)
-- [Fault Injection Attacks Against AMD's Secure Encrypted Virtualization](https://arxiv.org/abs/2108.04575)
-- [Assembler CSS, a modern utility-first framework](https://asmcss.com/)
-- [Enso (YC S21) is hiring a senior Rust/WebGL developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
+- [Typography in Alien (2014)](https://typesetinthefuture.com/2014/12/01/alien/)
+- [Xsolla lays off 150 after an algorithm ruled staff 'unengaged and unproductive'](https://www.gamasutra.com/view/news/386534/Xsolla_lays_off_150_after_an_algorithm_ruled_staff_unengaged_and_unproductive.php)
+- [MathML Progress](https://www.igalia.com/2021/08/09/MathML-Progress.html)
+- [ZeroVer: 0-Based Versioning](https://0ver.org/)
+- [Mailchimp Is Exploring a Sale at $10B-Plus Valuation](https://www.bloomberg.com/news/articles/2021-08-11/mailchimp-is-said-to-explore-sale-at-10-billion-plus-valuation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
