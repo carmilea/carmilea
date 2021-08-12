@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Quality and Effort – Seth's Blog](https://seths.blog/2018/11/quality-and-effort/)
-- [We’re All Investors Now](http://lackingambition.com/?p=1451)
-- [Germany arrests British diplomat suspected of spying for Russia](https://www.bbc.co.uk/news/world-europe-58170872)
+- [Monday was my 46th birthday and likely my last (2013)](https://web.archive.org/web/20160304012020/http://aaronwinborn.com/blogs/aaron/monday-was-my-46th-birthday-and-likely-my-last-anything-awesome-i-should-try-after-i-die)
+- [Mosh: The Mobile Shell](https://mosh.org)
+- [Quality and Effort (2018)](https://seths.blog/2018/11/quality-and-effort/)
 - [Open-source Dropbox client, with multi-account, no-device-limit and M1 support](https://github.com/SamSchott/maestral)
 - [The metaverse is a dystopian nightmare – let’s build a better reality](https://nianticlabs.com/blog/real-world-metaverse/)
 <!-- BLOG-POST-LIST:END -->
