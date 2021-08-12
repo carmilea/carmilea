@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The bug which lost more than $600m in various crypto currencies a few hours ago](https://twitter.com/simonw/status/1425333588610801667)
+- [Fault Injection Attacks Against AMD's Secure Encrypted Virtualization](https://arxiv.org/abs/2108.04575)
 - [Enso (YC S21) is hiring a senior Rust/WebGL developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
-- [Climate change: Curbing methane emissions will 'buy us time'](https://www.bbc.co.uk/news/science-environment-58174111)
 - [NodeJS security cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
 - [For programmers, remote working is becoming the norm](https://www.economist.com/graphic-detail/2021/08/11/for-programmers-remote-working-is-becoming-the-norm)
-- [Thunderbird 91.0](https://www.thunderbird.net/en-US/thunderbird/91.0/releasenotes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
