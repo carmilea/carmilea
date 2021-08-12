@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js Security – OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
+- [For programmers, remote working is becoming the norm](https://www.economist.com/graphic-detail/2021/08/11/for-programmers-remote-working-is-becoming-the-norm)
 - [Thunderbird 91.0](https://www.thunderbird.net/en-US/thunderbird/91.0/releasenotes/)
 - [Poly Network hacker returns $258M after stealing $600M](https://www.forbes.com/sites/jonathanponciano/2021/08/11/crypto-hacker-returns-258-million-after-stealing-600-million-solicits-donations-for-hacking-for-good/)
-- [Strange domain names that developers bought](https://stackoverflow.blog/2021/08/11/the-strange-domain-names-that-developers-bought/)
-- [Transmission of SARS-CoV-2 Delta Among Vaccinated Healthcare Workers, Vietnam](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3897733)
-- [Ask HN: What are you using to replace shared iCloud Photos albums?](https://news.ycombinator.com/item?id=28150772)
+- [Autistic kids can now be electrocuted by teachers in USA if they are disobedient](https://theshot.net.au/unbelievable/autistic-kids-can-now-be-electrocuted-by-teachers-in-america-if-they-are-disobedient-what-the-fuck-is-going-on/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
