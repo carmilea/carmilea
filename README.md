@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch YC S21: Meet the Batch, Thread #6](https://news.ycombinator.com/item?id=28156460)
-- [Twitter's new font, Chirp, is apparently giving some users headaches](https://www.cnet.com/news/twitters-new-font-chirp-is-apparently-giving-some-users-headaches/)
-- [Who Is Being Monitored?](https://tutanota.com/blog/posts/wer-wird-belauscht/)
-- [Darts: Non-Facebook alternative for timeseries forecasting](https://github.com/unit8co/darts)
-- [The Muse (YC W12) Is Hiring a Lead Site Reliability Engineer](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer)
+- [Reddit Is Valued at More Than $10B in Latest Funding Round](https://www.nytimes.com/2021/08/12/technology/reddit-new-funding.html)
+- [Mike Lindell's “packet captures” are garbage data provided by serial con-man](https://www.washingtontimes.com/news/2021/aug/11/mike-lindells-lead-cyber-expert-says-they-cant-pro/)
+- [A Future for SQL on the Web](https://jlongster.com/future-sql-web)
+- [“Your 4th annual reminder of Uber missing this goal.” – Emil Michael](https://twitter.com/emilmichael/status/1425122075161899011)
+- [Ask HN: It's 2021 and QuickTime still doesn't export MP4. What is going on?](https://news.ycombinator.com/item?id=28156678)
 <!-- BLOG-POST-LIST:END -->
 
 ---
