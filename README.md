@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit Is Valued at More Than $10B in Latest Funding Round](https://www.nytimes.com/2021/08/12/technology/reddit-new-funding.html)
-- [Mike Lindell's “packet captures” are garbage data provided by serial con-man](https://www.washingtontimes.com/news/2021/aug/11/mike-lindells-lead-cyber-expert-says-they-cant-pro/)
-- [A Future for SQL on the Web](https://jlongster.com/future-sql-web)
-- [“Your 4th annual reminder of Uber missing this goal.” – Emil Michael](https://twitter.com/emilmichael/status/1425122075161899011)
-- [Ask HN: It's 2021 and QuickTime still doesn't export MP4. What is going on?](https://news.ycombinator.com/item?id=28156678)
+- [Balena Etcher Pro – Fast write to multiple cards or USB disks at once](https://www.balena.io/etcher/pro/)
+- [China releases a five-year regulation blueprint for broader crackdown](https://www.bloombergquint.com/global-economics/china-signals-regulatory-crackdown-will-deepen-in-long-push)
+- [Fishdraw: Procedurally Generated Fish Drawings](https://fishdraw.glitch.me/)
+- [Tether minted most USDT to just 2 firms – Alameda and Cumberland](https://protos.com/tether-minted-usdt-stablecoin-crypto-two-alameda-cumberland/)
+- [A future for SQL on the web](https://jlongster.com/future-sql-web)
 <!-- BLOG-POST-LIST:END -->
 
 ---
