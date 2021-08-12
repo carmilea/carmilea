@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia’s “Kitchen” Keynote was faked (rendered) and nobody noticed](https://blogs.nvidia.com/blog/2021/08/11/omniverse-making-of-gtc/)
+- [2020 Census Statistics Highlight Local Population Changes](https://www.census.gov/newsroom/press-releases/2021/population-changes-nations-diversity.html)
+- [Nearly half of American workers don’t earn enough to afford a one-bedroom (cont)](https://www.theguardian.com/society/2021/aug/12/housing-renter-affordable-data-map)
+- [Apple's child protection features spark concern within its own ranks -sources](https://www.reuters.com/technology/exclusive-apples-child-protection-features-spark-concern-within-its-own-ranks-2021-08-12/)
+- [EU looking into new possible side-effects of mRNA Covid-19 shots](https://www.reuters.com/business/healthcare-pharmaceuticals/eu-drugs-regulator-looking-new-possible-side-effects-mrna-vaccines-2021-08-11/)
 - [C++ Exceptions: Under the Hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html)
-- [Coursedog (YC W19) Is Hiring a VP of Engineering](https://news.ycombinator.com/item?id=28161397)
-- [Touted as clean, ‘blue’ hydrogen may be worse than gas, coal](https://onlinelibrary.wiley.com/doi/10.1002/ese3.956)
-- [The pain and aguish of using IndexedDB: problems, bugs and oddities](https://gist.github.com/pesterhazy/4de96193af89a6dd5ce682ce2adff49a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
