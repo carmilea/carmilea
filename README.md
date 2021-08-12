@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Commodore 64 BASIC and KERNAL on Atari 8-bit hardware](https://github.com/unbibium/atari64)
-- [Internet of Snitches](https://puri.sm/posts/internet-of-snitches/)
-- [Contract by Email](https://writing.kemitchell.com/2021/08/12/Contract-by-E-Mail.html)
-- [CoinTracker (YC W18) is hiring to make cryptocurrency accessible](https://www.cointracker.io/about)
-- [Activist raided by London police after downloading docs from Google](https://www.theregister.com/2021/08/10/police_raid_man_for_downloading_google_search_docs/)
+- [Why the future of long-haul trucking is electric](https://www.transportenvironment.org/newsroom/blog/why-future-long-haul-trucking-electric)
+- [‘A Kleptocrat’s dream’: US real estate a safe haven for billions in dirty money](https://www.icij.org/investigations/fincen-files/a-kleptocrats-dream-us-real-estate-a-safe-haven-for-billions-in-dirty-money-report-says)
+- [A Limitlessly Scalable Transaction System](https://arxiv.org/abs/2108.05236)
+- [Original source code of various Commodore computers and peripherals](https://github.com/mist64/cbmsrc)
+- [Police Misuse of Facial Recognition – Three Wrongful Arrests and Counting](https://www.skynettoday.com/briefs/wrongful-arrests)
 <!-- BLOG-POST-LIST:END -->
 
 ---
