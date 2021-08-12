@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Enso (YC S21) is hiring a senior Rust/WebGL developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
+- [Climate change: Curbing methane emissions will 'buy us time'](https://www.bbc.co.uk/news/science-environment-58174111)
 - [NodeJS security cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
 - [For programmers, remote working is becoming the norm](https://www.economist.com/graphic-detail/2021/08/11/for-programmers-remote-working-is-becoming-the-norm)
 - [Thunderbird 91.0](https://www.thunderbird.net/en-US/thunderbird/91.0/releasenotes/)
-- [Poly Network hacker returns $258M after stealing $600M](https://www.forbes.com/sites/jonathanponciano/2021/08/11/crypto-hacker-returns-258-million-after-stealing-600-million-solicits-donations-for-hacking-for-good/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
