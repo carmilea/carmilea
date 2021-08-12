@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thunderbird 91.0](https://www.thunderbird.net/en-US/thunderbird/91.0/releasenotes/)
 - [Poly Network hacker returns $258M after stealing $600M](https://www.forbes.com/sites/jonathanponciano/2021/08/11/crypto-hacker-returns-258-million-after-stealing-600-million-solicits-donations-for-hacking-for-good/)
 - [Strange domain names that developers bought](https://stackoverflow.blog/2021/08/11/the-strange-domain-names-that-developers-bought/)
 - [Transmission of SARS-CoV-2 Delta Among Vaccinated Healthcare Workers, Vietnam](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3897733)
-- [I'm the guy who bought 259684 BTC for under $3000 yesterday (2011)](https://web.archive.org/web/20110716064544/https://forum.bitcoin.org/index.php?topic=20207.0)
-- [Monday was my 46th birthday and likely my last (2013)](https://web.archive.org/web/20160304012020/http://aaronwinborn.com/blogs/aaron/monday-was-my-46th-birthday-and-likely-my-last-anything-awesome-i-should-try-after-i-die)
+- [Ask HN: What are you using to replace shared iCloud Photos albums?](https://news.ycombinator.com/item?id=28150772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
