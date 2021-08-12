@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter locks account of India’s largest opposition party](https://techcrunch.com/2021/08/11/twitter-locks-account-of-india-congress-largest-opposition-party/)
+- [Launch YC S21: Meet the Batch, Thread #6](https://news.ycombinator.com/item?id=28156460)
+- [Twitter's new font, Chirp, is apparently giving some users headaches](https://www.cnet.com/news/twitters-new-font-chirp-is-apparently-giving-some-users-headaches/)
 - [Who Is Being Monitored?](https://tutanota.com/blog/posts/wer-wird-belauscht/)
 - [Darts: Non-Facebook alternative for timeseries forecasting](https://github.com/unit8co/darts)
-- [Ask HN: Is the Hacker News source code public?](https://news.ycombinator.com/item?id=28155134)
 - [The Muse (YC W12) Is Hiring a Lead Site Reliability Engineer](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer)
 <!-- BLOG-POST-LIST:END -->
 
