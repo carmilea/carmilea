@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CoinTracker (YC W18) is hiring to make cryptocurrency accessible](https://www.cointracker.io/about)
+- [Pigiron, a MIDI Routing Utility with OSC](https://github.com/plewto/Pigiron)
+- [Overthinking](https://kerkour.com/blog/overthinking/)
+- [There’s a crack in the iPhone foundation and it could get a lot worse](https://www.macworld.com/article/353003/apples-new-csam-feature-is-a-crack-in-the-wall.html/)
 - [Balena Etcher Pro – Fast write to multiple cards or USB disks at once](https://www.balena.io/etcher/pro/)
-- [China releases a five-year regulation blueprint for broader crackdown](https://www.bloombergquint.com/global-economics/china-signals-regulatory-crackdown-will-deepen-in-long-push)
-- [Fishdraw: Procedurally Generated Fish Drawings](https://fishdraw.glitch.me/)
-- [Tether minted most USDT to just 2 firms – Alameda and Cumberland](https://protos.com/tether-minted-usdt-stablecoin-crypto-two-alameda-cumberland/)
-- [A future for SQL on the web](https://jlongster.com/future-sql-web)
 <!-- BLOG-POST-LIST:END -->
 
 ---
