@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Climate Change as a Biological Accelerator](https://statmodeling.stat.columbia.edu/2021/08/12/climate-change-as-a-biological-accelerator/)
+- [Internet of Snitches](https://puri.sm/posts/internet-of-snitches/)
+- [Contract by Email](https://writing.kemitchell.com/2021/08/12/Contract-by-E-Mail.html)
 - [CoinTracker (YC W18) is hiring to make cryptocurrency accessible](https://www.cointracker.io/about)
-- [Pigiron, a MIDI Routing Utility with OSC](https://github.com/plewto/Pigiron)
-- [Overthinking](https://kerkour.com/blog/overthinking/)
-- [There’s a crack in the iPhone foundation and it could get a lot worse](https://www.macworld.com/article/353003/apples-new-csam-feature-is-a-crack-in-the-wall.html/)
-- [Balena Etcher Pro – Fast write to multiple cards or USB disks at once](https://www.balena.io/etcher/pro/)
+- [Activist raided by London police after downloading docs from Google](https://www.theregister.com/2021/08/10/police_raid_man_for_downloading_google_search_docs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
