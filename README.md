@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Typography in Alien (2014)](https://typesetinthefuture.com/2014/12/01/alien/)
-- [Xsolla lays off 150 after an algorithm ruled staff 'unengaged and unproductive'](https://www.gamasutra.com/view/news/386534/Xsolla_lays_off_150_after_an_algorithm_ruled_staff_unengaged_and_unproductive.php)
-- [MathML Progress](https://www.igalia.com/2021/08/09/MathML-Progress.html)
-- [ZeroVer: 0-Based Versioning](https://0ver.org/)
-- [Mailchimp Is Exploring a Sale at $10B-Plus Valuation](https://www.bloomberg.com/news/articles/2021-08-11/mailchimp-is-said-to-explore-sale-at-10-billion-plus-valuation)
+- [Who Is Being Monitored?](https://tutanota.com/blog/posts/wer-wird-belauscht/)
+- [Darts: Non-Facebook alternative for timeseries forecasting](https://github.com/unit8co/darts)
+- [Ask HN: Is the Hacker News source code public?](https://news.ycombinator.com/item?id=28155134)
+- [The Muse (YC W12) Is Hiring a Lead Site Reliability Engineer](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer)
+- [Life Improvements Since the 1990s](https://www.gwern.net/Improvements)
 <!-- BLOG-POST-LIST:END -->
 
 ---
