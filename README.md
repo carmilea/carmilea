@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quality and Effort – Seth's Blog](https://seths.blog/2018/11/quality-and-effort/)
+- [We’re All Investors Now](http://lackingambition.com/?p=1451)
+- [Germany arrests British diplomat suspected of spying for Russia](https://www.bbc.co.uk/news/world-europe-58170872)
+- [Open-source Dropbox client, with multi-account, no-device-limit and M1 support](https://github.com/SamSchott/maestral)
 - [The metaverse is a dystopian nightmare – let’s build a better reality](https://nianticlabs.com/blog/real-world-metaverse/)
-- [Former college professor accused of serial arson is denied bail in California](https://www.npr.org/2021/08/11/1026700103/former-college-professor-arson-charges-california-dixie-fire)
-- [Smarking (YC W15) Is Hiring a Head of Engineering](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Launch HN: Senpai.gg (YC S21) – Personal gaming coach for PC gamers](https://news.ycombinator.com/item?id=28145998)
-- [Because I Am Bored](https://www.antipope.org/charlie/blog-static/2021/05/because-i-am-bored.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
