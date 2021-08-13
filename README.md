@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why SteamOS Switched from Debian to Arch Linux](https://www.rockpapershotgun.com/heres-why-steamos-switched-from-debian-to-arch-linux)
 - [Tests Show All Driver Assist Systems Can Be Fooled, Not Just Tesla](https://jalopnik.com/tests-show-all-driver-assist-systems-can-be-fooled-not-1847474485)
 - [Little kids burn so much energy, they’re like a different species, study finds](https://www.sciencemag.org/news/2021/08/little-kids-burn-so-much-energy-they-re-different-species-study-finds)
-- [AstraZeneca Scientist Says Delta Variant Makes Herd Immunity Impossible](https://www.businessinsider.com/delta-variant-made-herd-immunity-not-possible-astrazeneca-developer-2021-8)
 - [PlayCover: Run iOS apps and games on the M1 Mac](https://github.com/Letscoder/PlayCover)
 - [Unfuck: A utility for deobfuscating Python 2.7 bytecode](https://github.com/landaire/unfuck)
 <!-- BLOG-POST-LIST:END -->
