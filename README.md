@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPost is building the logistics platform for ecommerce](https://www.easypost.com/careers)
-- [Mozilla tests if 'Firefox/100.0' user agent breaks websites](https://www.bleepingcomputer.com/news/software/mozilla-tests-if-firefox-1000-user-agent-breaks-websites/)
-- [FOSS app removed from the Play Store for linking to the project's website](https://github.com/language-transfer/lt-app/pull/44)
-- [Apple Regrets Confusion over 'iPhone Scanning'](https://www.bbc.com/news/technology-58206543)
-- [Archaeologists discover 4k-year-old ancient city in Iraqi desert](https://www.theartnewspaper.com/news/archaeologists-discover-4-000-year-old-ancient-city-in-iraqi-desert)
+- [After criticism, Apple to only seek abuse images flagged in multiple nations](https://mobile.reuters.com/article/idUSKBN2FE21K)
+- [U.S. Embassy in Kabul Tells Staff to Destroy Sensitive Material and Evacuate](https://text.npr.org/1027390545)
+- [Yale study finds social media ‘likes’ train users to act outraged](https://www.slashgear.com/yale-study-finds-social-media-likes-train-users-to-act-outraged-13686659/)
+- [GNU nano is my editor of choice](https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/)
+- [‘Likes’ and ‘shares’ teach people to express more outrage online](https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online)
 <!-- BLOG-POST-LIST:END -->
 
 ---
