@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Co-Founder of Snopes Was Writing Plagiarized Articles Under a Fake Name](https://www.buzzfeednews.com/article/deansterlingjones/snopes-cofounder-plagiarism-mikkelson)
-- [Millionaires call for an emergency tax on billionaires](https://www.fastcompany.com/90665399/millionaires-are-calling-for-an-emergency-tax-on-billionaires)
-- [SARS-CoV-2 Lambda variant exhibits higher infectivity and immune resistance](https://www.biorxiv.org/content/10.1101/2021.07.28.454085v1)
-- [‘It’s outrageous’: Trinidadian fishers film ‘half-hearted’ oil spill clean-up](https://www.theguardian.com/environment/2021/aug/13/its-outrageous-trinidadian-fishers-film-half-hearted-oil-spill-clean-up)
+- [Afghan women forced from banking jobs as Taliban take control](https://www.reuters.com/world/asia-pacific/afghan-women-bankers-forced-roles-taliban-takes-control-2021-08-13/)
+- [WinCompose – A Compose Key for Windows](https://github.com/samhocevar/wincompose)
+- [Co-founder of Snopes was writing plagiarized articles under a fake name](https://www.buzzfeednews.com/article/deansterlingjones/snopes-cofounder-plagiarism-mikkelson)
+- [Trinidadian fishers film ‘half-hearted’ oil spill clean-up](https://www.theguardian.com/environment/2021/aug/13/its-outrageous-trinidadian-fishers-film-half-hearted-oil-spill-clean-up)
 - [Adda as a Way of Life](https://www.bbc.com/travel/article/20210812-adda-the-secret-to-bengali-conviviality)
 <!-- BLOG-POST-LIST:END -->
 
