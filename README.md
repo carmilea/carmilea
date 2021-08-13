@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cuba’s Bitcoin Revolution](https://bitcoinmagazine.com/culture/cubas-bitcoin-revolution)
 - [Scientists urged Wisconsin to limit its wolf kill. It didn’t go well](https://www.sciencemag.org/news/2021/08/scientists-urged-wisconsin-limit-its-wolf-kill-it-didn-t-go-well)
-- [Why SteamOS Switched from Debian to Arch Linux](https://www.rockpapershotgun.com/heres-why-steamos-switched-from-debian-to-arch-linux)
 - [The Myths of the Digital Native (2015)](https://www.geeklawblog.com/2015/10/the-myths-of-digital-native-part-1.html)
 - [PonderNet: Annotated PyTorch Implementation](https://nn.labml.ai/adaptive_computation/ponder_net/index.html)
 - [Huawei stole our tech and created a 'backdoor' to spy on Pakistan, claims IT biz](https://www.theregister.com/2021/08/13/huawei_accused_of_trade_secret/)
