@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Afghan women forced from banking jobs as Taliban take control](https://www.reuters.com/world/asia-pacific/afghan-women-bankers-forced-roles-taliban-takes-control-2021-08-13/)
+- [Dover (YC S19) just raised $20m and is hiring for all roles](https://dover.com/careers)
+- [July 2021 was the warmest July on record for the globe](https://www.ncei.noaa.gov/news/global-climate-202107)
+- [Masking Emotions: Face Masks Impair How We Read Emotions](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.669432/full)
+- [Hackers detail vulnerabilities at agtech giants John Deere, Case New Holland](https://www.vice.com/en/article/z3xkdy/hackers-uncover-weaknesses-in-agriculture-giants-systems)
 - [WinCompose – A Compose Key for Windows](https://github.com/samhocevar/wincompose)
-- [Co-founder of Snopes was writing plagiarized articles under a fake name](https://www.buzzfeednews.com/article/deansterlingjones/snopes-cofounder-plagiarism-mikkelson)
-- [Trinidadian fishers film ‘half-hearted’ oil spill clean-up](https://www.theguardian.com/environment/2021/aug/13/its-outrageous-trinidadian-fishers-film-half-hearted-oil-spill-clean-up)
-- [Adda as a Way of Life](https://www.bbc.com/travel/article/20210812-adda-the-secret-to-bengali-conviviality)
 <!-- BLOG-POST-LIST:END -->
 
 ---
