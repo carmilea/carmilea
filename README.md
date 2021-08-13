@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [After criticism, Apple to only seek abuse images flagged in multiple nations](https://mobile.reuters.com/article/idUSKBN2FE21K)
-- [U.S. Embassy in Kabul Tells Staff to Destroy Sensitive Material and Evacuate](https://text.npr.org/1027390545)
-- [Yale study finds social media ‘likes’ train users to act outraged](https://www.slashgear.com/yale-study-finds-social-media-likes-train-users-to-act-outraged-13686659/)
 - [GNU nano is my editor of choice](https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/)
-- [‘Likes’ and ‘shares’ teach people to express more outrage online](https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online)
+- [‘Likes’ and ‘shares’ teach people to express more outrage online: study](https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online)
+- [EasyPost is building the logistics platform for ecommerce](https://www.easypost.com/careers)
+- [Is the atmosphere an upside down ocean? [pdf]](https://empslocal.ex.ac.uk/people/staff/gv219/talks/trop-therm13.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
