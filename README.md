@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FOSS app removed from the Play Store for linking to the project's website](https://github.com/language-transfer/lt-app/pull/44)
 - [It’s official: July was Earth’s hottest month on record](https://www.noaa.gov/news/its-official-july-2021-was-earths-hottest-month-on-record)
 - [Dover (YC S19) just raised $20m and is hiring for all roles](https://dover.com/careers)
 - [WHO inquiry chief 'had concerns' about lab close to first Covid cases](https://apnews.com/article/entertainment-joe-biden-business-health-coronavirus-pandemic-986f0ff0f97af020de3b4eb3d76b23cd)
-- [July 2021 was the warmest July on record for the globe](https://www.ncei.noaa.gov/news/global-climate-202107)
 - [Abandoned Motorola Headquarters (2020)](https://www.abandonedspaces.com/industry/motorola.html)
 <!-- BLOG-POST-LIST:END -->
 
