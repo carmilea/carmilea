@@ -54,8 +54,8 @@
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [Nvidia Reveals Its CEO Was Computer Generated in Keynote Speech](https://www.vice.com/en/article/88nbpa/nvidia-reveals-its-ceo-was-computer-generated-in-keynote-speech)
 - [Show HN: C programming language extension: Cedro pre-processor](https://sentido-labs.com/en/library/cedro/202106171400/)
-- [Cuba’s Bitcoin Revolution](https://bitcoinmagazine.com/culture/cubas-bitcoin-revolution)
-- [The Myths of the Digital Native (2015)](https://www.geeklawblog.com/2015/10/the-myths-of-digital-native-part-1.html)
+- [The difference between a=a+b and a+=b in Python](https://pub.towardsai.net/the-difference-between-a-a-b-and-a-b-in-python-a7338d96e408)
+- [How private is my VPN?](https://themarkup.org/ask-the-markup/2021/08/12/how-private-is-my-vpn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
