@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [Cuba’s Bitcoin Revolution](https://bitcoinmagazine.com/culture/cubas-bitcoin-revolution)
-- [Scientists urged Wisconsin to limit its wolf kill. It didn’t go well](https://www.sciencemag.org/news/2021/08/scientists-urged-wisconsin-limit-its-wolf-kill-it-didn-t-go-well)
+- [How Private is my VPN?](https://themarkup.org/ask-the-markup/2021/08/12/how-private-is-my-vpn)
 - [The Myths of the Digital Native (2015)](https://www.geeklawblog.com/2015/10/the-myths-of-digital-native-part-1.html)
 - [PonderNet: Annotated PyTorch Implementation](https://nn.labml.ai/adaptive_computation/ponder_net/index.html)
-- [Huawei stole our tech and created a 'backdoor' to spy on Pakistan, claims IT biz](https://www.theregister.com/2021/08/13/huawei_accused_of_trade_secret/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
