@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost is building the logistics platform for ecommerce](https://www.easypost.com/careers)
+- [Mozilla tests if 'Firefox/100.0' user agent breaks websites](https://www.bleepingcomputer.com/news/software/mozilla-tests-if-firefox-1000-user-agent-breaks-websites/)
 - [FOSS app removed from the Play Store for linking to the project's website](https://github.com/language-transfer/lt-app/pull/44)
 - [Apple Regrets Confusion over 'iPhone Scanning'](https://www.bbc.com/news/technology-58206543)
 - [Archaeologists discover 4k-year-old ancient city in Iraqi desert](https://www.theartnewspaper.com/news/archaeologists-discover-4-000-year-old-ancient-city-in-iraqi-desert)
-- [First step in making programming easier is to be concious of what makes it hard](http://lighttable.com/2014/05/16/pain-we-forgot/)
-- [New Anti Anti-Money Laundering Services for Crooks](https://krebsonsecurity.com/2021/08/new-anti-anti-money-laundering-services-for-crooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
