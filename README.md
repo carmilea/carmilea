@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Illinois Is the First State to Have High Schools Teach News Literacy](https://www.npr.org/2021/08/12/1026993142/illinois-is-the-first-state-to-have-high-schools-teach-news-literacy)
-- [GiveCampus (YC S15) hiring senior engineers (US) who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [A handy guide to cognitive biases](https://en.shortcogs.com/)
-- [Do not do in code what can be done in infrastructure (2017)](https://rogerjohansson.blog/2017/05/19/do-not-do-in-code-what-can-be-done-in-infrastructure/)
-- [Show HN: Judo - Build Native App Experiences with No Code](https://www.judo.app/)
+- [U.S. Asks Taliban to Spare Its Embassy in Coming Fight for Kabul](https://www.nytimes.com/2021/08/12/us/politics/taliban-afghanistan-us-embassy.html)
+- [Launch HN: Iona Mind (YC S21) – App-based cognitive behavioural therapy](https://news.ycombinator.com/item?id=28168336)
+- [Twitch Finally Gets Around to Letting Banned Streamers Know Why They Were Banned](https://www.techdirt.com/articles/20210811/11382447343/twitch-finally-gets-around-to-letting-banned-streamers-know-why-they-were-banned.shtml)
+- [The Perl Foundation faces more departures](https://www.theregister.com/2021/08/13/perl_resignations/)
+- [Big Tech Is Coming to Small-Town America, but at What Cost?](https://time.com/6085525/big-tech-data-centers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
