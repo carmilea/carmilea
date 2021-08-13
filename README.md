@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Co-Founder of Snopes Was Writing Plagiarized Articles Under a Fake Name](https://www.buzzfeednews.com/article/deansterlingjones/snopes-cofounder-plagiarism-mikkelson)
+- [Millionaires call for an emergency tax on billionaires](https://www.fastcompany.com/90665399/millionaires-are-calling-for-an-emergency-tax-on-billionaires)
+- [SARS-CoV-2 Lambda variant exhibits higher infectivity and immune resistance](https://www.biorxiv.org/content/10.1101/2021.07.28.454085v1)
+- [‘It’s outrageous’: Trinidadian fishers film ‘half-hearted’ oil spill clean-up](https://www.theguardian.com/environment/2021/aug/13/its-outrageous-trinidadian-fishers-film-half-hearted-oil-spill-clean-up)
 - [Adda as a Way of Life](https://www.bbc.com/travel/article/20210812-adda-the-secret-to-bengali-conviviality)
-- [Launch HN: FirstIgnite (YC S21) – Matching scientists with relevant businesses](https://news.ycombinator.com/item?id=28168813)
-- [Infection-enhancing SARS-CoV-2 antibodies recognize original strain and Delta](https://pubmed.ncbi.nlm.nih.gov/34384810/)
-- [Facebook bullies AlgorithmWatch – Instagram monitoring project](https://algorithmwatch.org/en/instagram-research-shut-down-by-facebook/)
-- [Innovative hand cranked washing machine ships](https://www.bbc.co.uk/news/uk-england-somerset-58083385)
 <!-- BLOG-POST-LIST:END -->
 
 ---
