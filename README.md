@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Does Kill People](https://publicseminar.org/2021/08/actually-facebook-does-kill-people/)
 - [Why SteamOS Switched from Debian to Arch Linux](https://www.rockpapershotgun.com/heres-why-steamos-switched-from-debian-to-arch-linux)
-- [Tests Show All Driver Assist Systems Can Be Fooled, Not Just Tesla](https://jalopnik.com/tests-show-all-driver-assist-systems-can-be-fooled-not-1847474485)
-- [Little kids burn so much energy, they’re like a different species, study finds](https://www.sciencemag.org/news/2021/08/little-kids-burn-so-much-energy-they-re-different-species-study-finds)
-- [PlayCover: Run iOS apps and games on the M1 Mac](https://github.com/Letscoder/PlayCover)
-- [Unfuck: A utility for deobfuscating Python 2.7 bytecode](https://github.com/landaire/unfuck)
+- [The Myths of the Digital Native (2015)](https://www.geeklawblog.com/2015/10/the-myths-of-digital-native-part-1.html)
+- [PonderNet: Annotated PyTorch Implementation](https://nn.labml.ai/adaptive_computation/ponder_net/index.html)
+- [Huawei stole our tech and created a 'backdoor' to spy on Pakistan, claims IT biz](https://www.theregister.com/2021/08/13/huawei_accused_of_trade_secret/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
