@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s official: July was Earth’s hottest month on record](https://www.noaa.gov/news/its-official-july-2021-was-earths-hottest-month-on-record)
 - [Dover (YC S19) just raised $20m and is hiring for all roles](https://dover.com/careers)
+- [WHO inquiry chief 'had concerns' about lab close to first Covid cases](https://apnews.com/article/entertainment-joe-biden-business-health-coronavirus-pandemic-986f0ff0f97af020de3b4eb3d76b23cd)
 - [July 2021 was the warmest July on record for the globe](https://www.ncei.noaa.gov/news/global-climate-202107)
-- [Masking Emotions: Face Masks Impair How We Read Emotions](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.669432/full)
-- [Hackers detail vulnerabilities at agtech giants John Deere, Case New Holland](https://www.vice.com/en/article/z3xkdy/hackers-uncover-weaknesses-in-agriculture-giants-systems)
-- [WinCompose – A Compose Key for Windows](https://github.com/samhocevar/wincompose)
+- [Abandoned Motorola Headquarters (2020)](https://www.abandonedspaces.com/industry/motorola.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
