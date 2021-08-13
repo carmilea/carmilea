@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AIX Running on Apple's M1](https://twitter.com/astr0baby/status/1425970552552964101)
-- [Labour market reallocation in the wake of Covid-19](https://voxeu.org/article/labour-market-reallocation-wake-covid-19)
-- [Dad makes teddies with health conditions to help children with medical disorders](https://inews.co.uk/news/real-life/this-leeds-dad-makes-teddies-with-health-conditions-to-help-children-living-with-medical-disorders-1148392)
-- [The Secretive, Semi-Illicit World of WhatsApp Mango Importing](https://www.eater.com/22618349/pakistani-mangoes-chaunsa-anwar-ratol-buy-usa-whatsapp-shipping-supply-chain)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
+- [Illinois Is the First State to Have High Schools Teach News Literacy](https://www.npr.org/2021/08/12/1026993142/illinois-is-the-first-state-to-have-high-schools-teach-news-literacy)
+- [GiveCampus (YC S15) hiring senior engineers (US) who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [A handy guide to cognitive biases](https://en.shortcogs.com/)
+- [Do not do in code what can be done in infrastructure (2017)](https://rogerjohansson.blog/2017/05/19/do-not-do-in-code-what-can-be-done-in-infrastructure/)
+- [Show HN: Judo - Build Native App Experiences with No Code](https://www.judo.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
