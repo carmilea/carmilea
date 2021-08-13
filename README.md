@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2020 Census Statistics Highlight Local Population Changes](https://www.census.gov/newsroom/press-releases/2021/population-changes-nations-diversity.html)
-- [Apple's child protection features spark concern within its own ranks: sources](https://www.reuters.com/technology/exclusive-apples-child-protection-features-spark-concern-within-its-own-ranks-2021-08-12/)
-- [YouTube deletes “lawsuit against vaccine passport” press conference video](https://twitter.com/NMalliotakis/status/1425919714476363778)
-- [C++ Exceptions: Under the Hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html)
-- [Coursedog (YC W19) Is Hiring a VP of Engineering](https://news.ycombinator.com/item?id=28161397)
+- [Tests Show All Driver Assist Systems Can Be Fooled, Not Just Tesla](https://jalopnik.com/tests-show-all-driver-assist-systems-can-be-fooled-not-1847474485)
+- [Little kids burn so much energy, they’re like a different species, study finds](https://www.sciencemag.org/news/2021/08/little-kids-burn-so-much-energy-they-re-different-species-study-finds)
+- [AstraZeneca Scientist Says Delta Variant Makes Herd Immunity Impossible](https://www.businessinsider.com/delta-variant-made-herd-immunity-not-possible-astrazeneca-developer-2021-8)
+- [PlayCover: Run iOS apps and games on the M1 Mac](https://github.com/Letscoder/PlayCover)
+- [Unfuck: A utility for deobfuscating Python 2.7 bytecode](https://github.com/landaire/unfuck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
