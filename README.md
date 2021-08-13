@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Asks Taliban to Spare Its Embassy in Coming Fight for Kabul](https://www.nytimes.com/2021/08/12/us/politics/taliban-afghanistan-us-embassy.html)
-- [Launch HN: Iona Mind (YC S21) – App-based cognitive behavioural therapy](https://news.ycombinator.com/item?id=28168336)
-- [Twitch Finally Gets Around to Letting Banned Streamers Know Why They Were Banned](https://www.techdirt.com/articles/20210811/11382447343/twitch-finally-gets-around-to-letting-banned-streamers-know-why-they-were-banned.shtml)
-- [The Perl Foundation faces more departures](https://www.theregister.com/2021/08/13/perl_resignations/)
-- [Big Tech Is Coming to Small-Town America, but at What Cost?](https://time.com/6085525/big-tech-data-centers/)
+- [Adda as a Way of Life](https://www.bbc.com/travel/article/20210812-adda-the-secret-to-bengali-conviviality)
+- [Launch HN: FirstIgnite (YC S21) – Matching scientists with relevant businesses](https://news.ycombinator.com/item?id=28168813)
+- [Infection-enhancing SARS-CoV-2 antibodies recognize original strain and Delta](https://pubmed.ncbi.nlm.nih.gov/34384810/)
+- [Facebook bullies AlgorithmWatch – Instagram monitoring project](https://algorithmwatch.org/en/instagram-research-shut-down-by-facebook/)
+- [Innovative hand cranked washing machine ships](https://www.bbc.co.uk/news/uk-england-somerset-58083385)
 <!-- BLOG-POST-LIST:END -->
 
 ---
