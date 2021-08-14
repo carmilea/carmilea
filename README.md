@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Let's write a compiler, part 1: Introduction, selecting a language, and planning](https://briancallahan.net/blog/20210814.html)
 - [25 years ago Microsoft released Internet Explorer 3.0, developer talks about it](https://twitter.com/hadip/status/1426587396343099397)
 - [Aleph (YC S21) Is Hiring a Founding Front End Engineer](https://www.ycombinator.com/companies/aleph/jobs/HshWFAE-founding-frontend-engineer)
 - [Philippine ethnic group has most Denisovan DNA](https://www.uu.se/en/news/article/?id=17306&typ=artikel&lang=en)
 - [Nail Your Startup Pitch: Use Pixar's Story Formula to Win over Investors](https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars)
-- [Closing 45% of the open Emacs bugs](https://lars.ingebrigtsen.no/2021/08/14/10x10/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
