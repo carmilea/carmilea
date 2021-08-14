@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unauthorized Publications (New Jersey Department of Corrections) [pdf]](https://www.state.nj.us/corrections/pdf/OffenderPublications/NJDOC%20BANNED%20PUBLICATIONS%20JUNE%202021.pdf)
+- [Amazon will monitor workers' keystrokes to 'combat data theft'](https://www.inputmag.com/tech/amazon-will-monitor-workers-keystrokes-to-combat-data-theft-privacy-spying-surveillance)
 - [Black Hat USA 2021 Review](https://l3ouu4n9.github.io/post/learningnotes/2021-08-13-black-hat-usa-2021-english/)
 - [Large-Scale Automated Source Code Refactoring with OpenRewrite](https://docs.openrewrite.org/)
-- [Show HN: C++ virtual_vec vector implementation](https://github.com/keur/virtual_vec)
-- [Make figures and presentations that are friendly to Colorblind people (2002)](https://jfly.uni-koeln.de/color/)
-- [Sam Zeloof's Upgraded Homemade Silicon IC Fab Process](http://sam.zeloof.xyz/second-ic/)
+- [Jury awards Optis $300M in second patent trial against Apple](https://www.reuters.com/technology/jury-awards-optis-300-million-second-patent-trial-against-apple-2021-08-13/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
