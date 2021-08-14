@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: My friend made it big. How to handle?](https://news.ycombinator.com/item?id=28179542)
+- [Thoughts on Lisp and Racket](https://www.macadie.net/2019/08/11/thoughts-on-lisp-and-racket/)
+- [BPF Isn't Just About Speed (2020)](https://pchaigno.github.io/ebpf/2020/09/29/bpf-isnt-just-about-speed.html)
 - [Making 100 transistors silicon integrated circuit chips in your garage](https://www.youtube.com/watch?v=IS5ycm7VfXg)
 - [I didn’t know how to write about my sister’s death–so I had AI do it for me](https://believermag.com/ghosts/)
-- [Costa Rica signs law to attract digital nomads](https://ticotimes.net/2021/08/11/costa-rica-signs-law-to-attract-digital-nomads)
-- [Scientists find an effective solution for the three-body problem](http://phys.technion.ac.il/en/about/research-bits/on-chaos-drunks-and-a-solution-to-the-chaotic-three-body-problem-the-research-of-yonadav-barry-ginat-and-hagai-perets)
-- [Software Engineering's Greatest Hits [video]](https://www.youtube.com/watch?v=HrVtA-ue-x0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
