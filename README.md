@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Zeloof's Upgraded Homemade Silicon IC Fab Process](http://sam.zeloof.xyz/second-ic/)
+- [Show HN: Script to compare Postgres data between two points in time](https://news.ycombinator.com/item?id=28175845)
+- [How Actors Work Internally in Swift](https://swiftrocks.com/how-actors-work-internally-in-swift)
 - [After criticism, Apple to only seek abuse images flagged in multiple nations](https://mobile.reuters.com/article/idUSKBN2FE21K)
 - [GNU nano is my editor of choice](https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/)
-- [‘Likes’ and ‘shares’ teach people to express more outrage online: study](https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online)
-- [EasyPost is building the logistics platform for ecommerce](https://www.easypost.com/careers)
-- [Is the atmosphere an upside down ocean? [pdf]](https://empslocal.ex.ac.uk/people/staff/gv219/talks/trop-therm13.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
