@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Hat USA 2021 Review](https://l3ouu4n9.github.io/post/learningnotes/2021-08-13-black-hat-usa-2021-english/)
+- [Large-Scale Automated Source Code Refactoring with OpenRewrite](https://docs.openrewrite.org/)
+- [Show HN: C++ virtual_vec vector implementation](https://github.com/keur/virtual_vec)
+- [Make figures and presentations that are friendly to Colorblind people (2002)](https://jfly.uni-koeln.de/color/)
 - [Sam Zeloof's Upgraded Homemade Silicon IC Fab Process](http://sam.zeloof.xyz/second-ic/)
-- [Show HN: Script to compare Postgres data between two points in time](https://news.ycombinator.com/item?id=28175845)
-- [How Actors Work Internally in Swift](https://swiftrocks.com/how-actors-work-internally-in-swift)
-- [After criticism, Apple to only seek abuse images flagged in multiple nations](https://mobile.reuters.com/article/idUSKBN2FE21K)
-- [GNU nano is my editor of choice](https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
