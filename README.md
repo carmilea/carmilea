@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Costa Rica signs law to attract digital nomads](https://ticotimes.net/2021/08/11/costa-rica-signs-law-to-attract-digital-nomads)
+- [Not important enough: 1Password abandons its native Mac app](https://sixcolors.com/post/2021/08/not-important-enough-1password-abandons-its-native-mac-app/)
 - [Scientists find an effective solution for the three-body problem](http://phys.technion.ac.il/en/about/research-bits/on-chaos-drunks-and-a-solution-to-the-chaotic-three-body-problem-the-research-of-yonadav-barry-ginat-and-hagai-perets)
 - [Software Engineering's Greatest Hits [video]](https://www.youtube.com/watch?v=HrVtA-ue-x0)
 - [macOS in Svelte](https://macos.vercel.app/)
-- [AWS adds an extra 5.5M IPv4 addresses](https://github.com/seligman/aws-ip-ranges)
-- [Facebook shut down German research on Instagram algorithm](https://www.theverge.com/2021/8/13/22623354/facebook-instagram-algorithm-watch-research-legal-threat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
