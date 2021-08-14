@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The EU Wants a Universal Mobile Charger, but Apple Doesn’t](https://www.howtogeek.com/748444/the-eu-wants-a-universal-mobile-charger-but-apple-doesnt/)
+- [Scientists find an effective solution for the three-body problem](http://phys.technion.ac.il/en/about/research-bits/on-chaos-drunks-and-a-solution-to-the-chaotic-three-body-problem-the-research-of-yonadav-barry-ginat-and-hagai-perets)
+- [Software Engineering's Greatest Hits [video]](https://www.youtube.com/watch?v=HrVtA-ue-x0)
+- [macOS in Svelte](https://macos.vercel.app/)
 - [AWS adds an extra 5.5M IPv4 addresses](https://github.com/seligman/aws-ip-ranges)
 - [Facebook shut down German research on Instagram algorithm](https://www.theverge.com/2021/8/13/22623354/facebook-instagram-algorithm-watch-research-legal-threat)
-- [Amazon will monitor workers' keystrokes to 'combat data theft'](https://www.inputmag.com/tech/amazon-will-monitor-workers-keystrokes-to-combat-data-theft-privacy-spying-surveillance)
-- [Black Hat USA 2021 Review](https://l3ouu4n9.github.io/post/learningnotes/2021-08-13-black-hat-usa-2021-english/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
