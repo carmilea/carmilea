@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [M 7.2 Earthquake 12 km NE of Saint-Louis du Sud, Haiti](https://earthquake.usgs.gov/earthquakes/eventpage/us6000f65h/executive)
+- [Asahi Linux for Apple M1 progress report, August 2021](https://asahilinux.org/2021/08/progress-report-august-2021/)
+- [Release Notes for Debian 11](https://www.debian.org/releases/bullseye/amd64/release-notes/)
+- [Unifying iPadOS and macOS](https://www.screamingatmyscreen.com/unifying-ipados-and-macos/)
 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Thoughts on Lisp and Racket](https://www.macadie.net/2019/08/11/thoughts-on-lisp-and-racket/)
-- [BPF Isn't Just About Speed (2020)](https://pchaigno.github.io/ebpf/2020/09/29/bpf-isnt-just-about-speed.html)
-- [Making 100 transistors silicon integrated circuit chips in your garage](https://www.youtube.com/watch?v=IS5ycm7VfXg)
-- [I didn’t know how to write about my sister’s death–so I had AI do it for me](https://believermag.com/ghosts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
