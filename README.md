@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [High heat: Spain clocks prelim record of 47.2 C (116.96 F)](https://abcnews.go.com/Health/wireStory/europe-heat-wave-brings-concern-older-adults-homeless-79455026)
 - [Amiga Music Preservation – biggest, most comprehensive Amiga music database](http://www.dascene.net/home.php)
-- [Is water always the best choice on a hot day?](https://www.bbc.com/future/article/20210802-is-water-always-the-best-choice-on-a-hot-day)
+- [The Light Phone: Minimal Smartphone](https://www.thelightphone.com/)
 - [Path (YC S19) is hiring Engineers to automate Gen Z finance](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
 - [Ask HN: Is it worth learning Elixir, from a jobs perspective?](https://news.ycombinator.com/item?id=28183901)
-- [D2X-XL – an OpenGL modification of the classic video game Descent 2](https://www.descent2.de/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
