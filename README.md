@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Path (YC S19) is hiring Engineers to automate Gen Z finance](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
+- [Ask HN: Is it worth learning Elixir, from a jobs perspective?](https://news.ycombinator.com/item?id=28183901)
+- [Ocean Plastic Emissions by Country](https://ourworldindata.org/ocean-plastics)
 - [Let's write a compiler, part 1: Introduction, selecting a language, and planning](https://briancallahan.net/blog/20210814.html)
 - [25 years ago Microsoft released Internet Explorer 3.0, developer talks about it](https://twitter.com/hadip/status/1426587396343099397)
-- [Aleph (YC S21) Is Hiring a Founding Front End Engineer](https://www.ycombinator.com/companies/aleph/jobs/HshWFAE-founding-frontend-engineer)
-- [Philippine ethnic group has most Denisovan DNA](https://www.uu.se/en/news/article/?id=17306&typ=artikel&lang=en)
-- [Nail Your Startup Pitch: Use Pixar's Story Formula to Win over Investors](https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
