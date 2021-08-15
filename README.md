@@ -55,7 +55,7 @@
 - [What’s it like living with a phenomenal memory and can it be learned?](https://www.theguardian.com/science/2021/aug/15/whats-it-like-living-with-a-phenomenal-memory-and-can-it-be-learned)
 - [MIT Researchers Make Hydrogen Fuel from Aluminum and Water](https://interestingengineering.com/mit-researchers-make-hydrogen-fuel-from-aluminum-and-water?_source=newsletter&_campaign=2e7LL8NyzpLK4&_uid=LDdwmgxga1&_h=ea90de89f1bceca46d02cad80716fb4006725c29&utm_source=newsletter&utm_medium=mailing&utm_campaign=Newsletter-14-08-2021)
 - [Fermat's Library: software to help illuminate academic papers](https://fermatslibrary.com/)
-- [High heat: Spain clocks prelim record of 47.2 C (116.96 F)](https://abcnews.go.com/Health/wireStory/europe-heat-wave-brings-concern-older-adults-homeless-79455026)
+- [Avoiding Founder Burnout](https://waseem.substack.com/p/avoiding-founder-burnout)
 <!-- BLOG-POST-LIST:END -->
 
 ---
