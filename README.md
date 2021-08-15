@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the PineNote](https://www.pine64.org/2021/08/15/introducing-the-pinenote/)
-- [Official says Taliban to declare Islamic Emirate](https://apnews.com/article/afghanistan-kabul-taliban-1794266cda1492f4128363572bc2cff6)
-- [How the Taliban Overran the Afghan Army, Built by the U.S. over 20 Years](https://www.wsj.com/articles/afghanistan-army-collapse-taliban-11628958253)
-- [Afghan President Ghani relinquishes power, Taliban form interim gov't](https://www.dailysabah.com/world/asia-pacific/afghan-president-ghani-relinquishes-power-taliban-form-interim-govt)
-- [Bottled water is 3,500 times worse for the environment than tap water](https://www.euronews.com/green/2021/08/05/bottled-water-is-3-500-times-worse-for-the-environment-than-tap-water-say-scientists)
+- [Programming Idioms](https://programming-idioms.org/)
+- [Why query planning for streaming systems is hard](https://scattered-thoughts.net/writing/why-query-planning-for-streaming-systems-is-hard)
+- [Google infringed on five Sonos patents, according to preliminary ruling](https://techcrunch.com/2021/08/13/google-infringed-on-five-sonos-patents-according-to-preliminary-ruling/)
+- [LinuxPhoneApps](https://alpha.linuxphoneapps.org/)
+- [Firefox 91 – Revert back to old tab style](https://superuser.com/a/1669549/9067)
 <!-- BLOG-POST-LIST:END -->
 
 ---
