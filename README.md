@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Taliban entering Kabul 'from all sides'](https://www.bbc.com/news/live/world-asia-58219963)
+- [‘Ten years ago this was science fiction’: the rise of weedkilling robots](https://www.theguardian.com/environment/2021/aug/14/weedkilling-robots-farming-pesticide-use-sustainable)
+- [Why Everything We Thought About Drugs Was Wrong](https://michaelshellenberger.substack.com/p/why-everything-we-thought-about-drugs)
 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - [Lenovo Selling Linux Laptops Directly in the US](https://www.lenovo.com/us/en/d/linux-laptops-desktops?sort=sortBy&currentResultsLayoutType=grid)
-- [SoundStream: An End-to-End Neural Audio Codec](http://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html)
-- [Cap'n Proto 0.9](https://capnproto.org/news/2021-08-14-capnproto-0.9.html)
-- [Boeing to ground Starliner indefinitely until valve issue solved](https://arstechnica.com/science/2021/08/boeing-to-ground-starliner-indefinitely-until-valve-issue-solved/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
