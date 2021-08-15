@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [React Renderer for Three.js](https://github.com/pmndrs/react-three-fiber)
+- [The Case for Optimism](https://www.warpnews.org/premium-content/kevin-kelly-the-case-for-optimism/)
+- [Welcome to Nestflix](https://nestflix.fun/)
 - [Asteroid Bennu now has a greater chance of hitting Earth through 2300](https://edition.cnn.com/2021/08/11/world/nasa-osiris-rex-impact-study-scn/index.html)
-- [Why Economists Don’t Write More Papers on Political Finance](https://www.nakedcapitalism.com/2021/08/why-economists-dont-write-more-papers-on-political-finance.html)
-- [Getting Started with QEMU (2018)](https://drewdevault.com/2018/09/10/Getting-started-with-qemu.html)
-- [South Park creators say they’ve reached agreement to buy Casa Bonita](https://krdo.com/news/2021/08/13/south-park-creators-say-theyve-reached-agreement-to-buy-casa-bonita/)
-- [India is leading IPv6 migration with 61.67% adoption](https://www.aelius.com/njh/google-ipv6/)
+- [The time Pepsi got sued for a $33m fighter jet](https://thehustle.co/leonard-v-pepsi-harrier-jet-lawsuit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
