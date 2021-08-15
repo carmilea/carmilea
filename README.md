@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Infrastructure bill program will test the feasibility of road usage fees](https://www.fierceelectronics.com/electronics/goodbye-gas-tax-hello-road-user-fees)
+- [MIT Researchers Make Hydrogen Fuel from Aluminum and Water](https://interestingengineering.com/mit-researchers-make-hydrogen-fuel-from-aluminum-and-water?_source=newsletter&_campaign=2e7LL8NyzpLK4&_uid=LDdwmgxga1&_h=ea90de89f1bceca46d02cad80716fb4006725c29&utm_source=newsletter&utm_medium=mailing&utm_campaign=Newsletter-14-08-2021)
+- [Fermat's Library: software to help illuminate academic papers](https://fermatslibrary.com/)
 - [High heat: Spain clocks prelim record of 47.2 C (116.96 F)](https://abcnews.go.com/Health/wireStory/europe-heat-wave-brings-concern-older-adults-homeless-79455026)
-- [Amiga Music Preservation – biggest, most comprehensive Amiga music database](http://www.dascene.net/home.php)
-- [The Light Phone: Minimal Smartphone](https://www.thelightphone.com/)
-- [Path (YC S19) is hiring Engineers to automate Gen Z finance](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
-- [Ask HN: Is it worth learning Elixir, from a jobs perspective?](https://news.ycombinator.com/item?id=28183901)
+- [Avoiding Founder Burnout](https://waseem.substack.com/p/avoiding-founder-burnout)
 <!-- BLOG-POST-LIST:END -->
 
 ---
