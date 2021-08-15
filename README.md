@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon's Palm Print Recognition System Raises Concern Among US Senators](https://gadgets.ndtv.com/others/news/amazon-one-palm-print-recognition-biometric-system-whole-foods-seattle-us-senators-2510485)
+- [Substack Is Hiring Eng Managers to Build a Better Business Model for Writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7?utm_source=hn&utm_content=eng)
 - [React Renderer for Three.js](https://github.com/pmndrs/react-three-fiber)
 - [The Case for Optimism](https://www.warpnews.org/premium-content/kevin-kelly-the-case-for-optimism/)
-- [Welcome to Nestflix](https://nestflix.fun/)
-- [Asteroid Bennu now has a greater chance of hitting Earth through 2300](https://edition.cnn.com/2021/08/11/world/nasa-osiris-rex-impact-study-scn/index.html)
-- [The time Pepsi got sued for a $33m fighter jet](https://thehustle.co/leonard-v-pepsi-harrier-jet-lawsuit)
+- [Facebook shouldn't be allowed to buy Giphy, says UK regulator](https://www.theverge.com/2021/8/12/22621957/facebook-giphy-deal-blocked-uk-regulator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
