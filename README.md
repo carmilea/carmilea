@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What can be learned from studying long gone development practices?](https://shape-of-code.coding-guidelines.com/2021/08/01/what-can-be-learned-from-studying-long-gone-development-practices/)
-- [Tracing the Ephemeral (2018)](https://artpil.com/news/tracing-the-ephemeral-dennis-hlynsky/)
-- [The Bullshit](https://walterkirn.substack.com/p/the-bullshit)
-- [The best books on assassinations](https://fivebooks.com/best-books/assassination-michael-burleigh/)
-- [Sri Lankan teenager builds solar-powered tuk-tuk from scraps [video]](https://www.bbc.co.uk/news/av/world-asia-58192468)
+- [Paperspace (YC W15) is hiring developers to build the future of MLOps](https://www.paperspace.com/careers)
+- [I figured out how DMARC works, and it almost broke me](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc)
+- [What domain name to use for your home network](https://www.ctrl.blog/entry/homenet-domain-name.html)
+- [An anonymous hacker reverse engineered my E2EE](https://www.groupsapp.online/post/improved-e2e-encryption)
+- [The Futurist Cookbook was the first lifestyle blog](https://lithub.com/why-the-futurist-cookbook-was-the-first-lifestyle-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
