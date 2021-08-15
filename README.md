@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [“San Jose Fire had an impossibly complex incident scene..” (2019)](https://www.facebook.com/groups/firebuffing/posts/715890382181744/)
-- [Cornell University – Important updates for faculty and instructional staff](https://covid.cornell.edu/updates/20210811-start-of-semester.cfm)
 - [Veterans push for medical marijuana in conservative South](https://www.stripes.com/veterans/2021-08-15/veterans-push-medical-marijuana-us-south-2563514.html)
 - [Paperspace (YC W15) is hiring developers to build the future of MLOps](https://www.paperspace.com/careers)
 - [T-Mobile investigating claims of 100M customer data breach](https://www.reuters.com/article/t-mobile-us-data/update-1-t-mobile-investigating-claims-of-customer-data-breach-idUSL1N2PM0K7)
+- [How to prevent email spoofing, using an unholy combination of silly standards](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
