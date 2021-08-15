@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming Idioms](https://programming-idioms.org/)
-- [Why query planning for streaming systems is hard](https://scattered-thoughts.net/writing/why-query-planning-for-streaming-systems-is-hard)
-- [Google infringed on five Sonos patents, according to preliminary ruling](https://techcrunch.com/2021/08/13/google-infringed-on-five-sonos-patents-according-to-preliminary-ruling/)
-- [LinuxPhoneApps](https://alpha.linuxphoneapps.org/)
-- [Firefox 91 – Revert back to old tab style](https://superuser.com/a/1669549/9067)
+- [What can be learned from studying long gone development practices?](https://shape-of-code.coding-guidelines.com/2021/08/01/what-can-be-learned-from-studying-long-gone-development-practices/)
+- [Tracing the Ephemeral (2018)](https://artpil.com/news/tracing-the-ephemeral-dennis-hlynsky/)
+- [The Bullshit](https://walterkirn.substack.com/p/the-bullshit)
+- [The best books on assassinations](https://fivebooks.com/best-books/assassination-michael-burleigh/)
+- [Sri Lankan teenager builds solar-powered tuk-tuk from scraps [video]](https://www.bbc.co.uk/news/av/world-asia-58192468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
