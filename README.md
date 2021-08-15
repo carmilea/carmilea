@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Asteroid Bennu now has a greater chance of hitting Earth through 2300](https://edition.cnn.com/2021/08/11/world/nasa-osiris-rex-impact-study-scn/index.html)
+- [Why Economists Don’t Write More Papers on Political Finance](https://www.nakedcapitalism.com/2021/08/why-economists-dont-write-more-papers-on-political-finance.html)
 - [Getting Started with QEMU (2018)](https://drewdevault.com/2018/09/10/Getting-started-with-qemu.html)
-- [India Is Leading IPv6 Migration with 61.67% Adoption](https://www.aelius.com/njh/google-ipv6/)
-- [The success of Aubrey de Grey baffles me](https://freethoughtblogs.com/pharyngula/2021/08/14/the-success-of-aubrey-de-grey-baffles-me/)
-- [California's dry season is turning into a permanent state of being](https://phys.org/news/2021-08-california-season-permanent-state.html)
-- [How can I get this 8 year old VBA 64-bit compiler bug fixed?](https://stackoverflow.com/questions/68034271/how-can-i-get-this-8-year-old-vba-64-bit-compiler-bug-fixed)
+- [South Park creators say they’ve reached agreement to buy Casa Bonita](https://krdo.com/news/2021/08/13/south-park-creators-say-theyve-reached-agreement-to-buy-casa-bonita/)
+- [India is leading IPv6 migration with 61.67% adoption](https://www.aelius.com/njh/google-ipv6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
