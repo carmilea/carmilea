@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“San Jose Fire had an impossibly complex incident scene..” (2019)](https://www.facebook.com/groups/firebuffing/posts/715890382181744/)
+- [Cornell University – Important updates for faculty and instructional staff](https://covid.cornell.edu/updates/20210811-start-of-semester.cfm)
+- [Veterans push for medical marijuana in conservative South](https://www.stripes.com/veterans/2021-08-15/veterans-push-medical-marijuana-us-south-2563514.html)
 - [Paperspace (YC W15) is hiring developers to build the future of MLOps](https://www.paperspace.com/careers)
-- [I figured out how DMARC works, and it almost broke me](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc)
-- [What domain name to use for your home network](https://www.ctrl.blog/entry/homenet-domain-name.html)
-- [An anonymous hacker reverse engineered my E2EE](https://www.groupsapp.online/post/improved-e2e-encryption)
-- [The Futurist Cookbook was the first lifestyle blog](https://lithub.com/why-the-futurist-cookbook-was-the-first-lifestyle-blog/)
+- [T-Mobile investigating claims of 100M customer data breach](https://www.reuters.com/article/t-mobile-us-data/update-1-t-mobile-investigating-claims-of-customer-data-breach-idUSL1N2PM0K7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
