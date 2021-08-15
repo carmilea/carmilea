@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Debian 11 “Bullseye” Released](https://www.debian.org/News/2021/20210814)
-- [The rise of the one-person unicorn](https://www.nothingventured.com/the-rise-of-the-one-person-unicorn/)
-- [Sri Lankan teenager builds solar-powered tuk-tuk from scraps [video]](https://www.bbc.com/news/av/world-asia-58192468)
-- [A man growing lettuce for space station salads](https://www.bbc.com/future/article/20210810-the-man-growing-lettuce-for-space-station-salads)
-- [Exploring JVS, the video standard used by most arcade games since the late 90s](http://www.mistys-internet.website/blog/blog/2021/08/14/exploring-jvs/)
+- [Pachyderm (YC W15) Is Hiring a Senior Front End Engineer and DevOps](https://www.pachyderm.com/careers/)
+- [Porn Spam on Google Maps](https://shkspr.mobi/blog/2021/08/porn-spam-on-google-maps/)
+- [NASA boosts impact risk from 'potentially hazardous' asteroid Bennui](https://news.yahoo.com/nasa-boosts-impact-risk-potentially-220546594.html)
+- [Today I made one of the most important discoveries of my PhD](https://twitter.com/astro_katross/status/1425794227988877322)
+- [As cargo shipments boom, ship strikes imperil whales worldwide](https://www.latimes.com/environment/story/2021-08-05/how-cargo-cruise-ships-contribute-to-whale-deaths)
 <!-- BLOG-POST-LIST:END -->
 
 ---
