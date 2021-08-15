@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California's dry season is turning into a permanent state of being](https://phys.org/news/2021-08-california-season-permanent-state.html)
+- [How can I get this 8 year old VBA 64-bit compiler bug fixed?](https://stackoverflow.com/questions/68034271/how-can-i-get-this-8-year-old-vba-64-bit-compiler-bug-fixed)
 - [Pachyderm (YC W15) Is Hiring a Senior Front End Engineer and DevOps](https://www.pachyderm.com/careers/)
+- [Plasma Kinetics May Revolutionize Hydrogen Storage for EVs](https://www.autoevolution.com/news/plasma-kinetics-may-revolutionize-hydrogen-storage-for-evs-167256.html)
 - [Porn Spam on Google Maps](https://shkspr.mobi/blog/2021/08/porn-spam-on-google-maps/)
-- [NASA boosts impact risk from 'potentially hazardous' asteroid Bennui](https://news.yahoo.com/nasa-boosts-impact-risk-potentially-220546594.html)
-- [Today I made one of the most important discoveries of my PhD](https://twitter.com/astro_katross/status/1425794227988877322)
-- [As cargo shipments boom, ship strikes imperil whales worldwide](https://www.latimes.com/environment/story/2021-08-05/how-cargo-cruise-ships-contribute-to-whale-deaths)
 <!-- BLOG-POST-LIST:END -->
 
 ---
