@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS is worse than Android](https://www.porchlab.com/ios-is-worse-than-android/)
-- [The Origins of Covid-19: An Investigation of the Wuhan Institute of Virology [pdf]](https://gop-foreignaffairs.house.gov/wp-content/uploads/2021/08/ORIGINS-OF-COVID-19-REPORT.pdf)
-- [Sirum (YC W15) Is Hiring a Lead Engineer to Improve Medicine Access](https://news.ycombinator.com/item?id=28197083)
-- [Taxing the Rich Is Failing to Ease the Global Housing Crunch](https://www.bloomberg.com/news/features/2021-08-16/taxing-the-rich-do-housing-prices-fall-when-empty-second-homes-are-taxed)
-- [Why Doesn't Software Show Up in Productivity?](https://austinvernon.eth.link/blog/softwareisprocess.html)
+- [Launch HN: SigmaOS (YC S21) – A web browser designed for faster work](https://news.ycombinator.com/item?id=28197537)
+- [Many Americans not aware of being tracked with facial recognition while shopping](https://www.techradar.com/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping)
+- [Rustdoc résumé](https://yozhgoor.github.io/yohan_boogaert_1995/)
+- [U.S. opens formal safety probe into some 765,000 Tesla vehicles](https://www.reuters.com/business/autos-transportation/us-opens-formal-safety-probe-into-tesla-autopilot-crashes-2021-08-16/)
+- [A Programmer’s Introduction to Mathematics](https://www.bit-101.com/blog/2021/08/a-programmers-introduction-to-mathematics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
