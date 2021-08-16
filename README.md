@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rally (YC S20) Is Hiring a Product Designer Who Can Code](https://www.ycombinator.com/companies/rally/jobs/4ijjeMbu7-ui-ux-developer)
+- [T-Mobile Confirms It Was Hacked](https://www.vice.com/en/article/y3d4dw/t-mobile-confirms-it-was-hacked)
 - [Spring is a free RTS game engine](https://springrts.com/)
-- [MasterCard to start phasing out magnetic stripes in 2024](https://www.mastercard.com/news/perspectives/2021/magnetic-stripe/)
-- [Improved C syntax highlighting for Vim](https://github.com/pulkomandy/c.vim)
-- [Farmers help create ‘Virtual safe space’ to save bumblebees](https://www.exeter.ac.uk/news/research/title_872443_en.html)
+- [Farmers help create ‘virtual safe space’ to save bumblebees](https://www.exeter.ac.uk/news/research/title_872443_en.html)
 - [Beyond All Reason: Open-source RTS reimagining Total Annihilation](https://www.beyondallreason.info/)
 <!-- BLOG-POST-LIST:END -->
 
