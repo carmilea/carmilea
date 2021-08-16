@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: dotmatrix – A dot matrix rendered using Braille characters.](https://github.com/timfi/dotmatrix)
+- [Ask HN: I feel trapped in my job and city](https://news.ycombinator.com/item?id=28200727)
+- [AXPbox 1.1.0 Released · (Dec Alpha Emulator for OpenVMS/NetBSD)](https://github.com/lenticularis39/axpbox/releases/tag/v1.1.0)
+- [Video Game Pricing [video]](https://www.youtube.com/watch?v=zvPkAYT6B1Q)
 - [Inspectify (YC S20) Is Hiring Full Stack Engineer (Rails/React) in Seattle](https://www.ycombinator.com/companies/inspectify/jobs/fBs1vfc-full-stack-engineer)
-- [Plaid settled $58M lawsuit over alleged consumer data sharing](https://finledger.com/2021/08/09/plaid-settled-58-million-lawsuit-over-alleged-consumer-data-sharing/)
-- [TikTok requests access to devices on local network](https://twitter.com/crobertsbmw/status/1427102606753550337)
-- [Launch HN: Awesomic (YC S21) – Get design tasks done with 24h turnaround](https://news.ycombinator.com/item?id=28199089)
-- [Intel’s Arc GPUs will compete with GeForce and Radeon in early 2022](https://arstechnica.com/gadgets/2021/08/intels-arc-gpus-will-compete-with-geforce-and-radeon-in-early-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
