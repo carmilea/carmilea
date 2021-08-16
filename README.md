@@ -54,8 +54,8 @@
 - [How to avoid being hit by a laser in a room of mirrors [video]](https://www.youtube.com/watch?v=kDZzyi-EaLQ)
 - [Carolyn Shoemaker has died](https://en.wikipedia.org/wiki/Carolyn_S._Shoemaker)
 - [Indian inventor dies in homemade helicopter accident](https://www.thenationalnews.com/world/asia/2021/08/12/indian-inventor-dies-in-homemade-helicopter-accident/)
+- [Email Authenticity 101: DKIM, Dmarc, and SPF](https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/)
 - [“San Jose Fire had an impossibly complex incident scene..” (2019)](https://www.facebook.com/groups/firebuffing/posts/715890382181744/)
-- [Paperspace (YC W15) is hiring developers to build the future of MLOps](https://www.paperspace.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
