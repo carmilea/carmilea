@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don't Throw Out Your Algorithms Book Just Yet](https://dawn.cs.stanford.edu//2018/01/11/index-baselines/)
-- [Real milk, no cows needed: Lab-made dairy products are now a reality](https://www.newscientist.com/article/mg25133470-900-real-milk-no-cows-needed-lab-made-dairy-products-are-now-a-reality/)
+- [Pay Attention to TSMC’s Speciality Technologies](https://techtaiwan.com/20210816/tsmc-speciality-technology/)
+- [The US should be held accountable: Gitmo survivor on the war on terror’s failure](https://www.theguardian.com/us-news/2021/aug/16/guantanamo-detainee-mansoor-adayfi)
+- [Released Google/zx – tons of DX improvements and more](https://github.com/google/zx/releases/tag/3.0.0)
+- [Classical Data Structures That Can Outperform Learned Indexes (2018)](https://dawn.cs.stanford.edu//2018/01/11/index-baselines/)
 - [How to avoid being hit by a laser in a room of mirrors [video]](https://www.youtube.com/watch?v=kDZzyi-EaLQ)
-- [Carolyn Shoemaker has died](https://en.wikipedia.org/wiki/Carolyn_S._Shoemaker)
-- [Indian inventor dies in homemade helicopter accident](https://www.thenationalnews.com/world/asia/2021/08/12/indian-inventor-dies-in-homemade-helicopter-accident/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
