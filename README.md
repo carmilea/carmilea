@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Some Ways that PyPy uses Graphviz](https://www.pypy.org/posts/2021/04/ways-pypy-graphviz.html)
+- [South Atlantic Anomaly](https://en.wikipedia.org/wiki/South_Atlantic_Anomaly)
 - [Nokia's smartphone: 25 years since it changed the world](https://www.dw.com/en/nokias-smartphone-25-years-since-it-changed-the-world/a-58841329)
 - [Widelands is a free, open-source real-time strategy game](https://www.widelands.org/)
 - [TSMC’s Speciality Technologies](https://techtaiwan.com/20210816/tsmc-speciality-technology/)
-- [The US should be held accountable: Gitmo survivor on the war on terror’s failure](https://www.theguardian.com/us-news/2021/aug/16/guantanamo-detainee-mansoor-adayfi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
