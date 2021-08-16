@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: SigmaOS (YC S21) – A web browser designed for faster work](https://news.ycombinator.com/item?id=28197537)
-- [Many Americans not aware of being tracked with facial recognition while shopping](https://www.techradar.com/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping)
-- [Rustdoc résumé](https://yozhgoor.github.io/yohan_boogaert_1995/)
-- [U.S. opens formal safety probe into some 765,000 Tesla vehicles](https://www.reuters.com/business/autos-transportation/us-opens-formal-safety-probe-into-tesla-autopilot-crashes-2021-08-16/)
-- [A Programmer’s Introduction to Mathematics](https://www.bit-101.com/blog/2021/08/a-programmers-introduction-to-mathematics/)
+- [South Georgia and the South Sandwich Islands](https://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands)
+- [Let's write a compiler, part 3: A parser](https://briancallahan.net/blog/20210816.html)
+- [Launch HN: SigmaOS (YC S21) – A MacOS web browser designed for faster work](https://news.ycombinator.com/item?id=28197537)
+- [Antigravity.py](https://github.com/python/cpython/blob/main/Lib/antigravity.py)
+- [Why Is It So Hard to Be Rational?](https://www.newyorker.com/magazine/2021/08/23/why-is-it-so-hard-to-be-rational)
 <!-- BLOG-POST-LIST:END -->
 
 ---
