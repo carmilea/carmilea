@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [South Georgia and the South Sandwich Islands](https://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands)
-- [Let's write a compiler, part 3: A parser](https://briancallahan.net/blog/20210816.html)
-- [Launch HN: SigmaOS (YC S21) – A MacOS web browser designed for faster work](https://news.ycombinator.com/item?id=28197537)
-- [Antigravity.py](https://github.com/python/cpython/blob/main/Lib/antigravity.py)
-- [Why Is It So Hard to Be Rational?](https://www.newyorker.com/magazine/2021/08/23/why-is-it-so-hard-to-be-rational)
+- [Launch HN: Awesomic (YC S21) – Get design tasks done with 24h turnaround](https://news.ycombinator.com/item?id=28199089)
+- [Object-Oriented Entity-Component-System Design](https://voxely.net/blog/object-oriented-entity-component-system-design/)
+- [Alda – Text-Based Programming Language for Music Composition](https://alda.io/tutorial/)
+- [Fall of Saigon](https://en.wikipedia.org/wiki/Fall_of_Saigon)
+- [I reported this site to PayPal and they still accept payments to this day](https://www.personablee.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
