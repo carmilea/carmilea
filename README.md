@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LeafletJS: a JavaScript library for interactive maps](https://leafletjs.com/)
+- [Go 1.17 Is Released](https://blog.golang.org/go1.17)
 - [Rally (YC S20) Is Hiring a Product Designer Who Can Code](https://www.ycombinator.com/companies/rally/jobs/4ijjeMbu7-ui-ux-developer)
 - [T-Mobile Confirms It Was Hacked](https://www.vice.com/en/article/y3d4dw/t-mobile-confirms-it-was-hacked)
-- [Spring is a free RTS game engine](https://springrts.com/)
-- [Farmers help create ‘virtual safe space’ to save bumblebees](https://www.exeter.ac.uk/news/research/title_872443_en.html)
-- [Beyond All Reason: Open-source RTS reimagining Total Annihilation](https://www.beyondallreason.info/)
+- [Computer simulation helps test land management techniques to help bumblebees](https://www.exeter.ac.uk/news/research/title_872443_en.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
