@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Farmers help create ‘Virtual safe space’ to save bumblebees](https://www.exeter.ac.uk/news/research/title_872443_en.html)
+- [Beyond All Reason: Open-source RTS reimagining Total Annihilation](https://www.beyondallreason.info/)
 - [Show HN: dotmatrix – A dot matrix rendered using Braille characters.](https://github.com/timfi/dotmatrix)
 - [Ask HN: I feel trapped in my job and city](https://news.ycombinator.com/item?id=28200727)
-- [AXPbox 1.1.0 Released · (Dec Alpha Emulator for OpenVMS/NetBSD)](https://github.com/lenticularis39/axpbox/releases/tag/v1.1.0)
-- [Video Game Pricing [video]](https://www.youtube.com/watch?v=zvPkAYT6B1Q)
-- [Inspectify (YC S20) Is Hiring Full Stack Engineer (Rails/React) in Seattle](https://www.ycombinator.com/companies/inspectify/jobs/fBs1vfc-full-stack-engineer)
+- [Transcranial Ultrasound to the Right PfC Improves Mood, Alters FC in Humans](https://www.frontiersin.org/articles/10.3389/fnhum.2020.00052/full)
 <!-- BLOG-POST-LIST:END -->
 
 ---
