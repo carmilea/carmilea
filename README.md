@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Inflation wiped out America's pay raises](https://edition.cnn.com/2021/08/10/business/raises-inflation-wages/index.html)
+- [How to avoid being hit by a laser in a room of mirrors [video]](https://www.youtube.com/watch?v=kDZzyi-EaLQ)
+- [Carolyn Shoemaker has died](https://en.wikipedia.org/wiki/Carolyn_S._Shoemaker)
+- [Indian inventor dies in homemade helicopter accident](https://www.thenationalnews.com/world/asia/2021/08/12/indian-inventor-dies-in-homemade-helicopter-accident/)
 - [“San Jose Fire had an impossibly complex incident scene..” (2019)](https://www.facebook.com/groups/firebuffing/posts/715890382181744/)
-- [Veterans push for medical marijuana in conservative South](https://www.stripes.com/veterans/2021-08-15/veterans-push-medical-marijuana-us-south-2563514.html)
 - [Paperspace (YC W15) is hiring developers to build the future of MLOps](https://www.paperspace.com/careers)
-- [T-Mobile investigating claims of 100M customer data breach](https://www.reuters.com/article/t-mobile-us-data/update-1-t-mobile-investigating-claims-of-customer-data-breach-idUSL1N2PM0K7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
