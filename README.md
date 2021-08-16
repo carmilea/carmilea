@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Real milk, no cows needed: Lab-made dairy products are now a reality](https://www.newscientist.com/article/mg25133470-900-real-milk-no-cows-needed-lab-made-dairy-products-are-now-a-reality/)
 - [How to avoid being hit by a laser in a room of mirrors [video]](https://www.youtube.com/watch?v=kDZzyi-EaLQ)
 - [Carolyn Shoemaker has died](https://en.wikipedia.org/wiki/Carolyn_S._Shoemaker)
 - [Indian inventor dies in homemade helicopter accident](https://www.thenationalnews.com/world/asia/2021/08/12/indian-inventor-dies-in-homemade-helicopter-accident/)
 - [Email Authenticity 101: DKIM, Dmarc, and SPF](https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/)
-- [“San Jose Fire had an impossibly complex incident scene..” (2019)](https://www.facebook.com/groups/firebuffing/posts/715890382181744/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
