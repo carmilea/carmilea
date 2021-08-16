@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inspectify (YC S20) Is Hiring Full Stack Engineer (Rails/React) in Seattle](https://www.ycombinator.com/companies/inspectify/jobs/fBs1vfc-full-stack-engineer)
+- [Plaid settled $58M lawsuit over alleged consumer data sharing](https://finledger.com/2021/08/09/plaid-settled-58-million-lawsuit-over-alleged-consumer-data-sharing/)
 - [TikTok requests access to devices on local network](https://twitter.com/crobertsbmw/status/1427102606753550337)
-- [Oversight Board overturns Facebook decision: Case 2020-005-FB-UA](https://oversightboard.com/news/141077647749726-oversight-board-overturns-facebook-decision-case-2020-005-fb-ua/)
 - [Launch HN: Awesomic (YC S21) – Get design tasks done with 24h turnaround](https://news.ycombinator.com/item?id=28199089)
-- [Object-Oriented Entity-Component-System Design](https://voxely.net/blog/object-oriented-entity-component-system-design/)
-- [Pico-1K Jam: Make Something Cool in Pico-8 in 1024 Characters](https://itch.io/jam/pico-1k)
+- [Intel’s Arc GPUs will compete with GeForce and Radeon in early 2022](https://arstechnica.com/gadgets/2021/08/intels-arc-gpus-will-compete-with-geforce-and-radeon-in-early-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
