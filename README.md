@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pay Attention to TSMC’s Speciality Technologies](https://techtaiwan.com/20210816/tsmc-speciality-technology/)
+- [Some Ways that PyPy uses Graphviz](https://www.pypy.org/posts/2021/04/ways-pypy-graphviz.html)
+- [Nokia's smartphone: 25 years since it changed the world](https://www.dw.com/en/nokias-smartphone-25-years-since-it-changed-the-world/a-58841329)
+- [Widelands is a free, open-source real-time strategy game](https://www.widelands.org/)
+- [TSMC’s Speciality Technologies](https://techtaiwan.com/20210816/tsmc-speciality-technology/)
 - [The US should be held accountable: Gitmo survivor on the war on terror’s failure](https://www.theguardian.com/us-news/2021/aug/16/guantanamo-detainee-mansoor-adayfi)
-- [Released Google/zx – tons of DX improvements and more](https://github.com/google/zx/releases/tag/3.0.0)
-- [Classical Data Structures That Can Outperform Learned Indexes (2018)](https://dawn.cs.stanford.edu//2018/01/11/index-baselines/)
-- [How to avoid being hit by a laser in a room of mirrors [video]](https://www.youtube.com/watch?v=kDZzyi-EaLQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
