@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The US federal government has spent $6.4T dollars on the post-9/11 wars](https://watson.brown.edu/costsofwar/costs/economic)
+- [Warzone 2100: A Free and Open Source Real-Time Strategy Game](https://wz2100.net/)
 - [LeafletJS: a JavaScript library for interactive maps](https://leafletjs.com/)
-- [Go 1.17 Is Released](https://blog.golang.org/go1.17)
 - [Rally (YC S20) Is Hiring a Product Designer Who Can Code](https://www.ycombinator.com/companies/rally/jobs/4ijjeMbu7-ui-ux-developer)
 - [T-Mobile Confirms It Was Hacked](https://www.vice.com/en/article/y3d4dw/t-mobile-confirms-it-was-hacked)
-- [Computer simulation helps test land management techniques to help bumblebees](https://www.exeter.ac.uk/news/research/title_872443_en.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
