@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok requests access to devices on local network](https://twitter.com/crobertsbmw/status/1427102606753550337)
+- [Oversight Board overturns Facebook decision: Case 2020-005-FB-UA](https://oversightboard.com/news/141077647749726-oversight-board-overturns-facebook-decision-case-2020-005-fb-ua/)
 - [Launch HN: Awesomic (YC S21) – Get design tasks done with 24h turnaround](https://news.ycombinator.com/item?id=28199089)
 - [Object-Oriented Entity-Component-System Design](https://voxely.net/blog/object-oriented-entity-component-system-design/)
-- [Alda – Text-Based Programming Language for Music Composition](https://alda.io/tutorial/)
-- [Fall of Saigon](https://en.wikipedia.org/wiki/Fall_of_Saigon)
-- [I reported this site to PayPal and they still accept payments to this day](https://www.personablee.com/)
+- [Pico-1K Jam: Make Something Cool in Pico-8 in 1024 Characters](https://itch.io/jam/pico-1k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
