@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A grim warning from Israel: Vaccination blunts, but does not defeat Delta](https://www.sciencemag.org/news/2021/08/grim-warning-israel-vaccination-blunts-does-not-defeat-delta)
+- [How did so many Dungeon Crawl: Stone Soup players miss such an obvious bug?](https://desystemize.substack.com/p/desystemize-7)
+- [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
 - [Pompeii’s fast food joint unearthed in 2019 opens to public](https://www.theguardian.com/science/2021/aug/09/pompeis-fast-food-joint-unearthed-in-2019-opens-to-public)
-- [Lumen – self-hosted Lisp for Lua and JavaScript](https://github.com/sctb/lumen)
-- [Optical Adversarial Attack Can Change the Meaning of Road Signs](https://www.unite.ai/optical-adversarial-attack-can-change-the-meaning-of-road-signs/)
-- [You are quite right, and my original response was wrong. I withdraw my claim](https://golem.ph.utexas.edu/category/2011/09/the_inconsistency_of_arithmeti.html)
-- [Something is killing gray whales](https://www.latimes.com/projects/gray-whale-deaths-how-humans-climate-change-hurt-oceans/)
+- [Moving Avoids California Tax? Not So Fast](https://www.forbes.com/sites/robertwood/2021/07/12/moving-avoids-california-tax-not-so-fast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
