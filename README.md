@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dead white man’s clothes: charity clothes fuel environmental disaster in Ghana](https://www.abc.net.au/news/2021-08-12/fast-fashion-turning-parts-ghana-into-toxic-landfill/100358702)
-- [How Elephants Avoid Cancer ?](https://www.nature.com/articles/nature.2015.18534)
-- [“Fixed Timeslices” by Fabien Sanglard (2012)](https://www.fabiensanglard.net/timer_and_framerate/index.php)
-- [A few useful Xcode debugging tricks](https://cornerbit.tech/a-few-useful-xcode-debugging-tricks/)
-- [Show HN: Imba – I have spent 7 years creating a programming language for the web](https://news.ycombinator.com/item?id=28207662)
+- [Monaru (YC S19) Is Hiring Mobile Engineers](https://www.ycombinator.com/companies/monaru/jobs/xY3DJ1O-mobile-engineer)
+- [Many of the clothes we donate to charity end up dumped in landfill](https://www.abc.net.au/news/2021-08-12/fast-fashion-turning-parts-ghana-into-toxic-landfill/100358702)
+- [How elephants avoid cancer (2015)](https://www.nature.com/articles/nature.2015.18534)
+- [Dallas police lose 8TB of data, impacting criminal cases](https://www.theregister.com/2021/08/16/dallas_data_migration_8tb_deletion/)
+- [Game Timers: Issues and Solutions (2012)](https://www.fabiensanglard.net/timer_and_framerate/index.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
