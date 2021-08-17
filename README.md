@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Imba – I have spent 7 years creating a programming language for the web](https://news.ycombinator.com/item?id=28207662)
+- [A shot to prevent Lyme disease  could be on its way](https://www.outsideonline.com/health/wellness/lyme-disease-prevention-antibody-shot/)
 - [Mastodon now a non-profit organisation](https://blog.joinmastodon.org/2021/08/mastodon-now-a-non-profit-organisation/)
 - [Behind the scenes at South Kensington station's escalator replacement project](https://www.ianvisits.co.uk/blog/2021/08/17/behind-the-scenes-at-south-kensington-tube-stations-escalator-replacement-project/)
-- [Formality Considered Harmful: The Use of Formal Representations in Interfaces [pdf]](https://andymatuschak.org/files/papers/Shipman%20and%20Marshall%20-%201999%20-%20Formality%20Considered%20Harmful%20Experiences,%20Emergin.pdf)
-- [How mindfulness could make you selfish](https://www.bbc.com/worklife/article/20210813-how-mindfulness-could-make-you-selfish)
-- [Git 2.33](https://github.blog/2021-08-16-highlights-from-git-2-33/)
+- [The Use of Formal Representations in Interfaces (1999) [pdf]](https://andymatuschak.org/files/papers/Shipman%20and%20Marshall%20-%201999%20-%20Formality%20Considered%20Harmful%20Experiences,%20Emergin.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
