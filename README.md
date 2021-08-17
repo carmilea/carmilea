@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UserGems (YC S14) Is Hiring a Full-Stack Engineer in Europe (Remote)](https://www.usergems.com/careers/full-stack-engineer)
-- [SerenityOS: Graphical Unix-like operating system with classic 90s UI](http://serenityos.org/)
-- [The math that says egalitarianism is possible](https://nautil.us/issue/104/harmony/the-math-that-says-egalitarianism-is-possible)
-- [Occlusion-Aware Video Object Inpainting](http://www.kelei.site/voin/)
-- [How did so many Dungeon Crawl: Stone Soup players miss such an obvious bug?](https://desystemize.substack.com/p/desystemize-7)
+- [Mastodon now a non-profit organisation](https://blog.joinmastodon.org/2021/08/mastodon-now-a-non-profit-organisation/)
+- [Behind the scenes at South Kensington station's escalator replacement project](https://www.ianvisits.co.uk/blog/2021/08/17/behind-the-scenes-at-south-kensington-tube-stations-escalator-replacement-project/)
+- [Formality Considered Harmful: The Use of Formal Representations in Interfaces [pdf]](https://andymatuschak.org/files/papers/Shipman%20and%20Marshall%20-%201999%20-%20Formality%20Considered%20Harmful%20Experiences,%20Emergin.pdf)
+- [How mindfulness could make you selfish](https://www.bbc.com/worklife/article/20210813-how-mindfulness-could-make-you-selfish)
+- [Git 2.33](https://github.blog/2021-08-16-highlights-from-git-2-33/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
