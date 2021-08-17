@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Zorin OS 16 is Released](https://blog.zorin.com/2021/08/17/2021-08-17-zorin-os-16-is-released/)
 - [Colorado River drops to record low levels, slashing Arizona’s water supply](https://arstechnica.com/science/2021/08/colorado-river-drops-to-record-low-levels-slashing-arizonas-water-supply/)
-- [After Apple rejections, FlickType gives up on popular iPhone keyboard for blind](https://www.theverge.com/2021/8/16/22627515/flicktype-ios-keyboard-discontinued-blind-visually-impaired)
 - [Grain (YC W20) Is Hiring](https://bookface.ycombinator.com/company/13174/jobs/45783)
 - [How Drawpile (free collaborative drawing program) works](https://github.com/drawpile/Drawpile/wiki/How-Drawpile-works)
+- [Big Oil methane emissions: ‘significant gap’ between reality and reporting](https://www.reuters.com/article/emissions-methane-idUSMTZSPDEH8EU9J79K)
 <!-- BLOG-POST-LIST:END -->
 
 ---
