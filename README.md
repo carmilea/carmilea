@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [End of the Line for Uber](https://mostlysignssomeportents.tumblr.com/post/659150190242054144/end-of-the-line-for-uber)
-- [Speeding Up `Atan2f` by 50x](https://mazzo.li/posts/vectorized-atan2.html)
-- [Tinder will introduce voluntary ID verification to reduce catfishing incidents](https://www.neowin.net/news/tinder-will-introduce-voluntary-id-verification-to-reduce-catfishing-incidents/)
-- [Monaru (YC S19) Is Hiring Mobile Engineers](https://www.ycombinator.com/companies/monaru/jobs/xY3DJ1O-mobile-engineer)
-- [New York City adds 629,000 people, defying predictions of its decline](https://www.nytimes.com/2021/08/12/us/new-york-city-population-growth.html)
+- [Launch YC S21: Meet the Batch, Thread #7](https://news.ycombinator.com/item?id=28209928)
+- [A Simple Way to Build Collaborative Web Apps](https://zjy.cloud/posts/collaborative-web-apps)
+- [Global deforestation peaked in the 1980s. Can we bring it to an end?](https://ourworldindata.org/global-deforestation-peak)
+- [Let's write a compiler, part 4: Testing](https://briancallahan.net/blog/20210817.html)
+- [Bad News](https://harpers.org/archive/2021/09/bad-news-selling-the-story-of-disinformation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
