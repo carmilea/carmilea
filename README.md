@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google considers switching FLoC to a topic-based approach](https://digiday.com/marketing/google-switch-floc-cookie-replacement-fingerprinting-potential/)
-- [What was the last breakthrough in computer programming? (2019)](https://www.quora.com/What-was-the-last-breakthrough-in-computer-programming/answer/Alan-Kay-11?share=1)
-- [Stop using Zoom, Hamburg’s data protection agency warns state government](https://techcrunch.com/2021/08/17/stop-using-zoom-hamburgs-dpa-warns-state-government/)
-- [Launch YC S21: Meet the Batch, Thread #7](https://news.ycombinator.com/item?id=28209928)
-- [A Simple Way to Build Collaborative Web Apps](https://zjy.cloud/posts/collaborative-web-apps)
+- [Autocorrect errors in Excel still creating genomics headache](https://www.nature.com/articles/d41586-021-02211-4)
+- [Helvetica Now Variable](https://www.monotype.com/fonts/helvetica-now-variable)
+- [Atlas robot does parkour](http://blog.bostondynamics.com/atlas-leaps-bounds-and-backflips)
+- [Mailable Live Animals](https://pe.usps.com/text/pub52/pub52c5_008.htm)
+- [Evidence of Fraud in an Influential Field Experiment About Dishonesty](https://datacolada.org/98)
 <!-- BLOG-POST-LIST:END -->
 
 ---
