@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Human algorithms are contagious but not genetic](https://www.adamjuliangoldstein.com/blog/algorithms-are-the-matter/)
+- [A Gentle Introduction to Tensors (2014) [pdf]](https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf)
 - [Upsolve (YC W19) is hiring a senior software engineer (React, Node, TypeScript)](https://upsolve.org/careers/software-engineer/)
 - [The ATS Programming Language](http://www.ats-lang.org/)
-- [Difference Between Dialogue, Discussion, & Debate](https://utlc.uncg.edu/teaching/diversity-equity-and-inclusion__trashed/dialoguediscussiondebate/)
-- [Ultraprocessed Foods Now Comprise 2/3 of Calories in Children and Teen Diets](https://now.tufts.edu/news-releases/ultraprocessed-foods-now-comprise-23-calories-children-and-teen-diets?__s=mh97lz5rmmrv9zzlf0zp&utm_source=drip&utm_medium=email&utm_campaign=15+Podcasts+We+Love)
-- [Burning Buried Sunshine (2003)](https://plus.maths.org/content/burning-buried-sunshine)
+- [Difference between dialogue, discussion, and debate](https://utlc.uncg.edu/teaching/diversity-equity-and-inclusion__trashed/dialoguediscussiondebate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
