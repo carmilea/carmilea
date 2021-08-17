@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The US federal government has spent $6.4T dollars on the post-9/11 wars](https://watson.brown.edu/costsofwar/costs/economic)
-- [Warzone 2100: A Free and Open Source Real-Time Strategy Game](https://wz2100.net/)
-- [LeafletJS: a JavaScript library for interactive maps](https://leafletjs.com/)
-- [Rally (YC S20) Is Hiring a Product Designer Who Can Code](https://www.ycombinator.com/companies/rally/jobs/4ijjeMbu7-ui-ux-developer)
-- [T-Mobile Confirms It Was Hacked](https://www.vice.com/en/article/y3d4dw/t-mobile-confirms-it-was-hacked)
+- [Pompeii’s fast food joint unearthed in 2019 opens to public](https://www.theguardian.com/science/2021/aug/09/pompeis-fast-food-joint-unearthed-in-2019-opens-to-public)
+- [Lumen – self-hosted Lisp for Lua and JavaScript](https://github.com/sctb/lumen)
+- [Optical Adversarial Attack Can Change the Meaning of Road Signs](https://www.unite.ai/optical-adversarial-attack-can-change-the-meaning-of-road-signs/)
+- [You are quite right, and my original response was wrong. I withdraw my claim](https://golem.ph.utexas.edu/category/2011/09/the_inconsistency_of_arithmeti.html)
+- [Something is killing gray whales](https://www.latimes.com/projects/gray-whale-deaths-how-humans-climate-change-hurt-oceans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
