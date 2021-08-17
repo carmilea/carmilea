@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Interact with the Nintendo DS PictoChat Protocol](https://github.com/Thesola10/PictoChat)
+- [Grain (YC W20) Is Hiring](https://bookface.ycombinator.com/company/13174/jobs/45783)
+- [Big Oil methane emissions: ‘significant gap’ between reality and reporting](https://www.reuters.com/article/emissions-methane-idUSMTZSPDEH8EU9J79K)
 - [Autocorrect errors in Excel still creating genomics headache](https://www.nature.com/articles/d41586-021-02211-4)
-- [Helvetica Now Variable](https://www.monotype.com/fonts/helvetica-now-variable)
-- [Atlas robot does parkour](http://blog.bostondynamics.com/atlas-leaps-bounds-and-backflips)
-- [Mailable Live Animals](https://pe.usps.com/text/pub52/pub52c5_008.htm)
-- [Evidence of Fraud in an Influential Field Experiment About Dishonesty](https://datacolada.org/98)
+- [People Now Spend More at Amazon Than at Walmart](https://www.nytimes.com/2021/08/17/technology/amazon-walmart.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
