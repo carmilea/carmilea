@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zorin OS 16 is Released](https://blog.zorin.com/2021/08/17/2021-08-17-zorin-os-16-is-released/)
-- [Colorado River drops to record low levels, slashing Arizona’s water supply](https://arstechnica.com/science/2021/08/colorado-river-drops-to-record-low-levels-slashing-arizonas-water-supply/)
-- [Grain (YC W20) Is Hiring](https://bookface.ycombinator.com/company/13174/jobs/45783)
-- [How Drawpile (free collaborative drawing program) works](https://github.com/drawpile/Drawpile/wiki/How-Drawpile-works)
-- [Big Oil methane emissions: ‘significant gap’ between reality and reporting](https://www.reuters.com/article/emissions-methane-idUSMTZSPDEH8EU9J79K)
+- [Upsolve (YC W19) is hiring a senior software engineer (React, Node, TypeScript)](https://upsolve.org/careers/software-engineer/)
+- [The ATS Programming Language](http://www.ats-lang.org/)
+- [Difference Between Dialogue, Discussion, & Debate](https://utlc.uncg.edu/teaching/diversity-equity-and-inclusion__trashed/dialoguediscussiondebate/)
+- [Ultraprocessed Foods Now Comprise 2/3 of Calories in Children and Teen Diets](https://now.tufts.edu/news-releases/ultraprocessed-foods-now-comprise-23-calories-children-and-teen-diets?__s=mh97lz5rmmrv9zzlf0zp&utm_source=drip&utm_medium=email&utm_campaign=15+Podcasts+We+Love)
+- [Burning Buried Sunshine (2003)](https://plus.maths.org/content/burning-buried-sunshine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
