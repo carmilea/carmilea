@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Complexity theory puts limits on performance of gradient descent](https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/)
+- [The rich world’s worker deficit](https://www.economist.com/finance-and-economics/will-the-rich-worlds-worker-deficit-last/21803401)
+- [German government wants Tim Cook to reconsider CSAM plans](https://appleinsider.com/articles/21/08/17/germany-writes-to-tim-cook-to-reconsider-csam-plans)
+- [How do I manage an employee who doesn’t need the job?](https://www.askamanager.org/2021/08/how-do-i-manage-an-employee-who-doesnt-need-the-job.html)
 - [Human algorithms are contagious but not genetic](https://www.adamjuliangoldstein.com/blog/algorithms-are-the-matter/)
-- [A Gentle Introduction to Tensors (2014) [pdf]](https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf)
-- [Upsolve (YC W19) is hiring a senior software engineer (React, Node, TypeScript)](https://upsolve.org/careers/software-engineer/)
-- [The ATS Programming Language](http://www.ats-lang.org/)
-- [Difference between dialogue, discussion, and debate](https://utlc.uncg.edu/teaching/diversity-equity-and-inclusion__trashed/dialoguediscussiondebate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
