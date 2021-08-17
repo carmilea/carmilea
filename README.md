@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [UserGems (YC S14) Is Hiring a Full-Stack Engineer in Europe (Remote)](https://www.usergems.com/careers/full-stack-engineer)
 - [SerenityOS: Graphical Unix-like operating system with classic 90s UI](http://serenityos.org/)
-- [Afghans are racing to erase their online lives](https://www.wired.co.uk/article/afghanistan-social-media-delete)
-- [The Math That Says Egalitarianism Is Possible](https://nautil.us/issue/104/harmony/the-math-that-says-egalitarianism-is-possible)
-- [Why are so many knowledge workers quitting?](https://www.newyorker.com/culture/office-space/why-are-so-many-knowledge-workers-quitting)
+- [The math that says egalitarianism is possible](https://nautil.us/issue/104/harmony/the-math-that-says-egalitarianism-is-possible)
+- [Occlusion-Aware Video Object Inpainting](http://www.kelei.site/voin/)
+- [How did so many Dungeon Crawl: Stone Soup players miss such an obvious bug?](https://desystemize.substack.com/p/desystemize-7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
