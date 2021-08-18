@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Live electricity production/consumption CO2 map](https://www.electricitymap.org/map)
-- [Launch HN: Flow Club (YC S21) – Virtual co-working space for focused work](https://news.ycombinator.com/item?id=28222242)
-- [Elm at Rakuten](https://engineering.rakuten.today/post/elm-at-rakuten/)
-- [Show HN: I built an AI art installation at home generating new pieces on the fly](https://github.com/maxvfischer/DIY-ai-art)
-- [Time to Retire the CSV?](https://www.bitsondisk.com/writing/2021/retire-the-csv/)
+- [One Month (YC S13) Is Hiring a Copyeditor](https://news.ycombinator.com/item?id=28224060)
+- [FBI No-Fly Terrorist Watchlist Leaks, 1.9M Records Exposed](https://gizmodo.com/secret-fbi-watchlist-leaks-online-and-boy-do-the-feds-1847500747)
+- [Guerrilla Artist Fakes Downtown LA Freeway Sign](https://www.motorbiscuit.com/guerrilla-artist-fakes-downtown-la-freeway-sign-stays-up-for-years/)
+- [T-Mobile: Breach Exposed SSN/DOB of 40M+ People](https://krebsonsecurity.com/2021/08/t-mobile-breach-exposed-ssn-dob-of-40m-people/)
+- [Rust API Guidelines Checklist](https://rust-lang.github.io/api-guidelines/checklist.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
