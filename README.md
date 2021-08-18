@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [One Month (YC S13) Is Hiring a Copyeditor](https://news.ycombinator.com/item?id=28224060)
-- [FBI No-Fly Terrorist Watchlist Leaks, 1.9M Records Exposed](https://gizmodo.com/secret-fbi-watchlist-leaks-online-and-boy-do-the-feds-1847500747)
-- [Guerrilla Artist Fakes Downtown LA Freeway Sign](https://www.motorbiscuit.com/guerrilla-artist-fakes-downtown-la-freeway-sign-stays-up-for-years/)
-- [T-Mobile: Breach Exposed SSN/DOB of 40M+ People](https://krebsonsecurity.com/2021/08/t-mobile-breach-exposed-ssn-dob-of-40m-people/)
-- [Rust API Guidelines Checklist](https://rust-lang.github.io/api-guidelines/checklist.html)
+- [Launch HN: Govly (YC S21) – Making it easier to sell to the U.S. government](https://news.ycombinator.com/item?id=28224792)
+- [When did Neil Armstrong set foot on Mars?](https://www.google.com/search?q=when+did+neil+armstrong+set+foot+on+mars)
+- [Reverse-engineering a vintage power supply chip from die photos](https://www.righto.com/2021/08/reverse-engineering-vintage-power.html)
+- [Widely Viewed Content: What People See on Facebook](https://transparency.fb.com/data/widely-viewed-content-report/)
+- [GitHub Discussions is out of beta](https://github.blog/2021-08-17-github-discussions-out-of-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
