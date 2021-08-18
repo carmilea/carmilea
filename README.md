@@ -54,8 +54,8 @@
 - [Designing better batteries for electric vehicles](https://news.mit.edu/2021/designing-better-batteries-electric-vehicles-0816)
 - [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732)
 - [Slow Electricity: The Return of DC Power? (2016)](http://www.lowtechmagazine.com/2016/04/slow-electricity-the-return-of-low-voltage-dc-power.html)
+- [Blue Origin Sues NASA over Lunar Lander Contract Given to Rival SpaceX](https://text.npr.org/1028480777)
 - [Modern LZ Compression (2019)](https://glinscott.github.io/lz/index.html)
-- [Complexity theory puts limits on performance of gradient descent](https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
