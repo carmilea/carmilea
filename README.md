@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Live electricity production/consumption CO2 map](https://www.electricitymap.org/map)
+- [Launch HN: Flow Club (YC S21) – Virtual co-working space for focused work](https://news.ycombinator.com/item?id=28222242)
 - [Elm at Rakuten](https://engineering.rakuten.today/post/elm-at-rakuten/)
 - [Show HN: I built an AI art installation at home generating new pieces on the fly](https://github.com/maxvfischer/DIY-ai-art)
-- [Afghanistan: Taliban to reap $1T mineral wealth](https://www.dw.com/en/afghanistan-taliban-to-reap-1-trillion-mineral-wealth/a-58888765)
-- [Ask HN: I joined a FAANG an it is awful. WDID?](https://news.ycombinator.com/item?id=28221821)
-- [How is efficacy vs. severe disease strong if 60% of hospitalized are vaccinated?](https://www.covid-datascience.com/post/israeli-data-how-can-efficacy-vs-severe-disease-be-strong-when-60-of-hospitalized-are-vaccinated)
+- [Time to Retire the CSV?](https://www.bitsondisk.com/writing/2021/retire-the-csv/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
