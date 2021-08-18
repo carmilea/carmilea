@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada calls screen scraping ‘unsecure,’ sets Open Banking target for 2023](https://finledger.com/2021/08/09/canada-sets-open-banking-target-for-2023/)
+- [GoKart: A static analysis tool for securing Go code](https://github.com/praetorian-inc/gokart)
+- [Wgpu-0.10 released: WebGPU implementation now in pure Rust](https://gfx-rs.github.io/2021/08/18/release-0.10.html)
+- [SEC charges Netflix insider trading ring](https://www.sec.gov/news/press-release/2021-158)
 - [Modern Treasury (YC S18) is hiring engineers to build the future of money movement](https://jobs.ashbyhq.com/moderntreasury?departmentId=ee54bd63-1eab-4173-ae81-46e2b817fe57)
-- [First Beta for Krita 5.0 released](https://krita.org/en/item/first-beta-for-krita-5-0-released/)
-- [Richard Bartle releases his classic “Designing Virtual Worlds” book for free](https://nwn.blogs.com/nwn/2021/08/richard-bartle-designing-virtual-worlds-free-book.html)
-- [Apple defends anti-child abuse imagery tech after claims of ‘hash collisions’](https://www.vice.com/en/article/wx5yzq/apple-defends-its-anti-child-abuse-imagery-tech-after-claims-of-hash-collisions)
-- [Scientific progress despite irreproducibility: A seeming paradox](https://www.pnas.org/content/115/11/2632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
