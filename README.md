@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [HireArt (YC W12) Is Hiring a Senior Full-Stack Software Engineer](https://www.ycombinator.com/companies/hireart/jobs/Nib7vcu-senior-full-stack-software-engineer)
-- [Not-a-Linux distro review: SerenityOS is a Unix-y love letter to the ‘90s](https://arstechnica.com/gadgets/2021/08/not-a-linux-distro-review-serenityos-is-a-unix-y-love-letter-to-the-90s/)
-- [Show HN: Simple Image encrypt/decrypt using Python](https://github.com/s3nh/img-cryptor)
-- [Major nuclear fusion milestone reached as 'ignition' triggered in a lab](https://phys.org/news/2021-08-major-nuclear-fusion-milestone-ignition.html)
-- [Apple says researchers can vet its CSAM tools, but is suing a startup that can.](https://www.technologyreview.com/2021/08/17/1032113/apple-says-researchers-can-vet-its-child-safety-features-its-suing-a-startup-that-does-just-that/)
+- [What Apple alternatives are you switching to?](https://news.ycombinator.com/item?id=28220968)
+- [Who will win the self-driving race? Here are eight possibilities](https://arstechnica.com/cars/2021/04/who-will-win-the-self-driving-race-here-are-8-possibilities/)
+- [Software Engineering Salaries in Europe vs. the United States](https://4dayweek.io/blog/software-engineering-salaries-in-europe-vs-the-united-states-2021)
+- [Programmable Trap Can Kill All Viruses](https://cacm.acm.org/news/254865-programmable-trap-can-kill-viruses/fulltext)
+- [Efficiently Donating Excess Covid Vaccine Supplies](https://www.kinetica.com/blog/covid-vaccines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
