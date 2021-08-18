@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NYC Emergency Executive Order 225](https://www1.nyc.gov/office-of-the-mayor/news/225-001/emergency-executive-order-225)
+- [Apple censors engraving service, report claims](https://www.bbc.co.uk/news/technology-58258385)
+- [ASK HN: Best RealSense Replacements?](https://github.com/IntelRealSense/librealsense/issues/9653)
+- [Switching from Microsoft Edge gets more annoying in Windows 11](https://arstechnica.com/gadgets/2021/08/switching-from-microsoft-edge-gets-more-annoying-in-windows-11/)
 - [Launch HN: Govly (YC S21) – Making it easier to sell to the U.S. government](https://news.ycombinator.com/item?id=28224792)
-- [When did Neil Armstrong set foot on Mars?](https://www.google.com/search?q=when+did+neil+armstrong+set+foot+on+mars)
-- [Reverse-engineering a vintage power supply chip from die photos](https://www.righto.com/2021/08/reverse-engineering-vintage-power.html)
-- [Widely Viewed Content: What People See on Facebook](https://transparency.fb.com/data/widely-viewed-content-report/)
-- [GitHub Discussions is out of beta](https://github.blog/2021-08-17-github-discussions-out-of-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
