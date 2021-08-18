@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HireArt (YC W12) Is Hiring a Senior Full-Stack Software Engineer](https://www.ycombinator.com/companies/hireart/jobs/Nib7vcu-senior-full-stack-software-engineer)
+- [Why Teslas Keep Striking Parked Firetrucks and Police Cars](https://slate.com/technology/2021/08/teslas-allegedly-hitting-emergency-vehicles-why-it-could-be-happening.html)
+- [Not-a-Linux distro review: SerenityOS is a Unix-y love letter to the ‘90s](https://arstechnica.com/gadgets/2021/08/not-a-linux-distro-review-serenityos-is-a-unix-y-love-letter-to-the-90s/)
+- [Show HN: Simple Image encrypt/decrypt using Python](https://github.com/s3nh/img-cryptor)
 - [Major nuclear fusion milestone reached as 'ignition' triggered in a lab](https://phys.org/news/2021-08-major-nuclear-fusion-milestone-ignition.html)
-- [Apple says researchers can vet its CSAM tools, but is suing a startup that can.](https://www.technologyreview.com/2021/08/17/1032113/apple-says-researchers-can-vet-its-child-safety-features-its-suing-a-startup-that-does-just-that/)
-- [Hash collision in Apple NeuralHash model](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX/issues/1)
-- [Environmental awareness: Tackling waste management at CERN](https://home.cern/news/news/cern/environmental-awareness-tackling-waste-management-cern)
-- [German parliament pens letter to Apple with concerns over CSAM detection system](https://9to5mac.com/2021/08/17/german-parliament-pens-letter-to-tim-cook-with-concerns-over-csam-detection-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
