@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732)
 - [Slow Electricity: The Return of DC Power? (2016)](http://www.lowtechmagazine.com/2016/04/slow-electricity-the-return-of-low-voltage-dc-power.html)
-- [Google Voice's terrible UI permanently deletes messages without prompting](https://support.google.com/voice/thread/121731933/deleting-no-longer-prompts-on-android-delete-icon-next-to-archive)
+- [Deleting no longer prompts on Android – Google Voice Community](https://support.google.com/voice/thread/121731933/deleting-no-longer-prompts-on-android-delete-icon-next-to-archive)
 - [CA drought: Past dry periods have lasted more than 200 years, scientists say](https://www.mercurynews.com/2014/01/25/california-drought-past-dry-periods-have-lasted-more-than-200-years-scientists-say/)
-- [As cities grow in size, the poor 'get nothing at all': study](https://santafe.edu/news-center/news/new-study-prosperity-cities-benefits-few)
+- [Modern LZ Compression (2019)](https://glinscott.github.io/lz/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
