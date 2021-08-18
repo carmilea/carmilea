@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Apple alternatives are you switching to?](https://news.ycombinator.com/item?id=28220968)
-- [Who will win the self-driving race? Here are eight possibilities](https://arstechnica.com/cars/2021/04/who-will-win-the-self-driving-race-here-are-8-possibilities/)
-- [Software Engineering Salaries in Europe vs. the United States](https://4dayweek.io/blog/software-engineering-salaries-in-europe-vs-the-united-states-2021)
-- [Programmable Trap Can Kill All Viruses](https://cacm.acm.org/news/254865-programmable-trap-can-kill-viruses/fulltext)
-- [Efficiently Donating Excess Covid Vaccine Supplies](https://www.kinetica.com/blog/covid-vaccines/)
+- [Elm at Rakuten](https://engineering.rakuten.today/post/elm-at-rakuten/)
+- [Show HN: I built an AI art installation at home generating new pieces on the fly](https://github.com/maxvfischer/DIY-ai-art)
+- [Afghanistan: Taliban to reap $1T mineral wealth](https://www.dw.com/en/afghanistan-taliban-to-reap-1-trillion-mineral-wealth/a-58888765)
+- [Ask HN: I joined a FAANG an it is awful. WDID?](https://news.ycombinator.com/item?id=28221821)
+- [How is efficacy vs. severe disease strong if 60% of hospitalized are vaccinated?](https://www.covid-datascience.com/post/israeli-data-how-can-efficacy-vs-severe-disease-be-strong-when-60-of-hospitalized-are-vaccinated)
 <!-- BLOG-POST-LIST:END -->
 
 ---
