@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [As cities grow in size, the poor 'get nothing at all': study](https://santafe.edu/news-center/news/new-study-prosperity-cities-benefits-few)
+- [Modern LZ Compression (2019)](https://glinscott.github.io/lz/index.html)
 - [Complexity theory puts limits on performance of gradient descent](https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/)
-- [The rich world’s worker deficit](https://www.economist.com/finance-and-economics/will-the-rich-worlds-worker-deficit-last/21803401)
-- [German government wants Tim Cook to reconsider CSAM plans](https://appleinsider.com/articles/21/08/17/germany-writes-to-tim-cook-to-reconsider-csam-plans)
-- [How do I manage an employee who doesn’t need the job?](https://www.askamanager.org/2021/08/how-do-i-manage-an-employee-who-doesnt-need-the-job.html)
+- [Will the rich world’s worker deficit last?](https://www.economist.com/finance-and-economics/will-the-rich-worlds-worker-deficit-last/21803401)
 - [Human algorithms are contagious but not genetic](https://www.adamjuliangoldstein.com/blog/algorithms-are-the-matter/)
 <!-- BLOG-POST-LIST:END -->
 
