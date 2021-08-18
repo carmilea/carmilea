@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NYC Emergency Executive Order 225](https://www1.nyc.gov/office-of-the-mayor/news/225-001/emergency-executive-order-225)
-- [Apple censors engraving service, report claims](https://www.bbc.co.uk/news/technology-58258385)
-- [ASK HN: Best RealSense Replacements?](https://github.com/IntelRealSense/librealsense/issues/9653)
-- [Switching from Microsoft Edge gets more annoying in Windows 11](https://arstechnica.com/gadgets/2021/08/switching-from-microsoft-edge-gets-more-annoying-in-windows-11/)
+- [Gaming can officially improve mental health: 5 essential relaxing titles to play](https://www.bbc.co.uk/programmes/articles/3dG7LzqrnPDG9MtdyK0W3Pm/gaming-can-officially-improve-your-mental-health-here-are-five-essential-relaxing-titles-to-play)
+- [Apple defends anti-child abuse imagery tech after claims of ‘hash collisions’](https://www.vice.com/en/article/wx5yzq/apple-defends-its-anti-child-abuse-imagery-tech-after-claims-of-hash-collisions)
+- [Scientific progress despite irreproducibility: A seeming paradox](https://www.pnas.org/content/115/11/2632)
+- [Best RealSense replacements?](https://github.com/IntelRealSense/librealsense/issues/9653)
 - [Launch HN: Govly (YC S21) – Making it easier to sell to the U.S. government](https://news.ycombinator.com/item?id=28224792)
 <!-- BLOG-POST-LIST:END -->
 
