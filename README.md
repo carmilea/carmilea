@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Major nuclear fusion milestone reached as 'ignition' triggered in a lab](https://phys.org/news/2021-08-major-nuclear-fusion-milestone-ignition.html)
 - [Apple says researchers can vet its CSAM tools, but is suing a startup that can.](https://www.technologyreview.com/2021/08/17/1032113/apple-says-researchers-can-vet-its-child-safety-features-its-suing-a-startup-that-does-just-that/)
 - [Hash collision in Apple NeuralHash model](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX/issues/1)
+- [Environmental awareness: Tackling waste management at CERN](https://home.cern/news/news/cern/environmental-awareness-tackling-waste-management-cern)
 - [German parliament pens letter to Apple with concerns over CSAM detection system](https://9to5mac.com/2021/08/17/german-parliament-pens-letter-to-tim-cook-with-concerns-over-csam-detection-system/)
-- [1800s Astronomical Drawings vs. NASA Images (2016)](https://www.nypl.org/blog/2016/08/19/1800s-astronomical-drawings)
-- [AppleNeuralHash2ONNX: Convert Apple NeuralHash Model for CSAM Detection to ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX)
 <!-- BLOG-POST-LIST:END -->
 
 ---
