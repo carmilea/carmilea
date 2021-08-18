@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1800s Astronomical Drawings vs. NASA Images (2016)](https://www.nypl.org/blog/2016/08/19/1800s-astronomical-drawings)
+- [AppleNeuralHash2ONNX: Convert Apple NeuralHash Model for CSAM Detection to ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX)
 - [Pilot (YC W17) Is Hiring for multiple engineering roles](https://news.ycombinator.com/item?id=28218374)
 - [Designing better batteries for electric vehicles](https://news.mit.edu/2021/designing-better-batteries-electric-vehicles-0816)
 - [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732)
-- [Slow Electricity: The Return of DC Power? (2016)](http://www.lowtechmagazine.com/2016/04/slow-electricity-the-return-of-low-voltage-dc-power.html)
-- [Modern LZ Compression (2019)](https://glinscott.github.io/lz/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
