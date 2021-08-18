@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pilot (YC W17) Is Hiring for multiple engineering roles](https://news.ycombinator.com/item?id=28218374)
 - [Designing better batteries for electric vehicles](https://news.mit.edu/2021/designing-better-batteries-electric-vehicles-0816)
 - [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732)
 - [Slow Electricity: The Return of DC Power? (2016)](http://www.lowtechmagazine.com/2016/04/slow-electricity-the-return-of-low-voltage-dc-power.html)
-- [Blue Origin Sues NASA over Lunar Lander Contract Given to Rival SpaceX](https://text.npr.org/1028480777)
 - [Modern LZ Compression (2019)](https://glinscott.github.io/lz/index.html)
 <!-- BLOG-POST-LIST:END -->
 
