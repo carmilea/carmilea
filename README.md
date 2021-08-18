@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gaming can officially improve mental health: 5 essential relaxing titles to play](https://www.bbc.co.uk/programmes/articles/3dG7LzqrnPDG9MtdyK0W3Pm/gaming-can-officially-improve-your-mental-health-here-are-five-essential-relaxing-titles-to-play)
+- [Modern Treasury (YC S18) is hiring engineers to build the future of money movement](https://jobs.ashbyhq.com/moderntreasury?departmentId=ee54bd63-1eab-4173-ae81-46e2b817fe57)
+- [First Beta for Krita 5.0 released](https://krita.org/en/item/first-beta-for-krita-5-0-released/)
+- [Richard Bartle releases his classic “Designing Virtual Worlds” book for free](https://nwn.blogs.com/nwn/2021/08/richard-bartle-designing-virtual-worlds-free-book.html)
 - [Apple defends anti-child abuse imagery tech after claims of ‘hash collisions’](https://www.vice.com/en/article/wx5yzq/apple-defends-its-anti-child-abuse-imagery-tech-after-claims-of-hash-collisions)
 - [Scientific progress despite irreproducibility: A seeming paradox](https://www.pnas.org/content/115/11/2632)
-- [Best RealSense replacements?](https://github.com/IntelRealSense/librealsense/issues/9653)
-- [Launch HN: Govly (YC S21) – Making it easier to sell to the U.S. government](https://news.ycombinator.com/item?id=28224792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
