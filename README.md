@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The world must cooperate to avoid a catastrophic space collision](https://www.nature.com/articles/d41586-021-02167-5)
+- [Why Indigenous Wisdom Is an Antidote to the Climate Crisis](https://www.earthrise.studio/reads/why-indigenous-wisdom-is-an-antidote-to-the-climate-crisis)
+- [Let's write a compiler, part 5: A code generator](https://briancallahan.net/blog/20210818.html)
 - [The Polar Bear – Open-Source, Multipurpose CNC Machine with a Rotary Axis](https://www.kadirilkimen.com/thepolarbear/)
 - [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
-- [National Center for Integrated Behavioral Health](https://www.mayo.edu/research/centers-programs/national-center-for-integrated-behavioral-health/overview)
-- [Google Voice has stopped forwarding SMS](https://support.google.com/voice/answer/9182115?authuser=1)
-- [Why wild foxes led you to treasure in Skyrim](https://twitter.com/joelburgess/status/1428008043556622336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
