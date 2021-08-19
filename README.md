@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ritalin and similar medications cause brain to focus on benefits of work (2020)](https://www.sciencedaily.com/releases/2020/03/200319141044.htm)
+- [The Best Science Fiction and Fantasy Books of the Past Decade](https://www.npr.org/2021/08/18/1027159166/best-books-science-fiction-fantasy-past-decade)
+- [Data-Mining Wikipedia for Fun and Profit](https://billpg.com/data-mining-wikipedia/)
+- [Automating a Software Company with GitHub Actions](https://posthog.com/blog/automating-a-software-company-with-github-actions/)
 - [Launch YC S21: Meet the Batch, Thread #8](https://news.ycombinator.com/item?id=28233916)
-- [Tensions rise as Iranian dams cut off Iraqi water supplies](https://www.dw.com/en/tensions-rise-as-iranian-dams-cut-off-iraqi-water-supplies/a-58764729)
-- [LLVM Internals: The Bitcode Format](https://blog.yossarian.net/2021/07/19/LLVM-internals-part-1-bitcode-format)
-- [286 vs. 386SX](https://dfarq.homeip.net/286-vs-386sx/)
-- [“Pack it in, mathematicians, someone owes LLVM a million bucks”](https://twitter.com/jckarter/status/1428093469755527168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
