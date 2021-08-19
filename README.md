@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Circumplanetary Disk Around PDS70 C [pdf]](https://www.eso.org/public/archives/releases/sciencepapers/eso2111/eso2111a.pdf)
-- [CareRev (YC S16) Is Searching for Principle Ruby/Rails Product Eng (Remote USA)](https://grnh.se/33e93f4d3us)
-- [‘Horizon Workrooms’: remote collaboration reimagined](https://www.oculus.com/blog/workrooms/)
-- [Chip shortage: Toyota to cut global production by 40%](https://www.bbc.com/news/business-58266794)
-- [The Quest to Recreate a Lost and ‘Terrifying’ Medieval Mead](https://www.atlasobscura.com/articles/how-to-make-medieval-mead-bochet)
+- [Launch YC S21: Meet the Batch, Thread #8](https://news.ycombinator.com/item?id=28233916)
+- [Tensions rise as Iranian dams cut off Iraqi water supplies](https://www.dw.com/en/tensions-rise-as-iranian-dams-cut-off-iraqi-water-supplies/a-58764729)
+- [LLVM Internals: The Bitcode Format](https://blog.yossarian.net/2021/07/19/LLVM-internals-part-1-bitcode-format)
+- [286 vs. 386SX](https://dfarq.homeip.net/286-vs-386sx/)
+- [“Pack it in, mathematicians, someone owes LLVM a million bucks”](https://twitter.com/jckarter/status/1428093469755527168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
