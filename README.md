@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Policy Groups Urge Apple to Abandon Building Surveillance Capabilities](https://cdt.org/insights/international-coalition-calls-on-apple-to-abandon-plan-to-build-surveillance-capabilities-into-iphones-ipads-and-other-products/)
+- [Harbormaster: The anti-Kubernetes for your personal server](https://gitlab.com/stavros/harbormaster)
 - [The world must cooperate to avoid a catastrophic space collision](https://www.nature.com/articles/d41586-021-02167-5)
 - [Let's write a compiler, part 5: A code generator](https://briancallahan.net/blog/20210818.html)
 - [The Polar Bear – Open-Source, Multipurpose CNC Machine with a Rotary Axis](https://www.kadirilkimen.com/thepolarbear/)
-- [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
