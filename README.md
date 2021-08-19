@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SafetyWing (YC W18) Is Hiring Remote Executive Director at Plumia](https://remoteOK.io/remote-jobs/105532-remote-executive-director-plumia)
+- [ImageNet contains naturally occurring Apple NeuralHash collisions](https://blog.roboflow.com/nerualhash-collision/)
+- [Wanted: Disgruntled Employees to Deploy Ransomware](https://krebsonsecurity.com/2021/08/wanted-disgruntled-employees-to-deploy-ransomware/)
 - [FTC files new antitrust complaint against Facebook](https://www.ftc.gov/news-events/press-releases/2021/08/ftc-alleges-facebook-resorted-illegal-buy-or-bury-scheme-crush)
 - [A Straightforward Way to Extend CSV with Metadata](https://gist.github.com/seece/97d02d6518db8b9e4c5b81fc686553e2)
-- [Nobel scientist's deletion from Wikipedia points to wider bias](https://www.cbc.ca/news/science/wikipedia-bias-1.6129073)
-- [Water Conflict Chronology](http://www.worldwater.org/conflict/list/)
-- [Reading Hayek in Holland](https://marketurbanism.com/2021/08/19/reading-hayek-in-holland/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
