@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ritalin and similar medications cause brain to focus on benefits of work (2020)](https://www.sciencedaily.com/releases/2020/03/200319141044.htm)
-- [The Best Science Fiction and Fantasy Books of the Past Decade](https://www.npr.org/2021/08/18/1027159166/best-books-science-fiction-fantasy-past-decade)
-- [Data-Mining Wikipedia for Fun and Profit](https://billpg.com/data-mining-wikipedia/)
-- [Automating a Software Company with GitHub Actions](https://posthog.com/blog/automating-a-software-company-with-github-actions/)
-- [Launch YC S21: Meet the Batch, Thread #8](https://news.ycombinator.com/item?id=28233916)
+- [FTC files new antitrust complaint against Facebook](https://www.ftc.gov/news-events/press-releases/2021/08/ftc-alleges-facebook-resorted-illegal-buy-or-bury-scheme-crush)
+- [A Straightforward Way to Extend CSV with Metadata](https://gist.github.com/seece/97d02d6518db8b9e4c5b81fc686553e2)
+- [Nobel scientist's deletion from Wikipedia points to wider bias](https://www.cbc.ca/news/science/wikipedia-bias-1.6129073)
+- [Water Conflict Chronology](http://www.worldwater.org/conflict/list/)
+- [Reading Hayek in Holland](https://marketurbanism.com/2021/08/19/reading-hayek-in-holland/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
