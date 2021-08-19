@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Top of My Todo List](http://www.paulgraham.com/todo.html)
+- [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
+- [Second largest US mortgage lender will accept crypto payments this year](https://www.fxstreet.com/cryptocurrencies/news/second-largest-us-mortgage-lender-will-accept-crypto-payments-this-year-202108190251)
+- [Rick and Morty’s Thanksploitation Deciduous Decision Tree](https://swagitda.com/blog/posts/rick-morty-thanksploitation-decision-tree/)
 - [A 5x reduction in RAM usage with Zoekt memory optimizations](https://about.sourcegraph.com/blog/zoekt-memory-optimizations-for-sourcegraph-cloud)
 - [OnlyFans to block sexually explicit videos starting in October](https://www.bloomberg.com/news/articles/2021-08-19/onlyfans-to-block-sexually-explicit-videos-starting-in-october)
-- [Sourcegraph: Why we're indexing the OSS universe](https://about.sourcegraph.com/blog/why-index-the-oss-universe/)
-- [SafetyWing (YC W18) is hiring a remote executive director at Plumia](https://remoteOK.io/remote-jobs/105532-remote-executive-director-plumia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
