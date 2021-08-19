@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Policy Groups Urge Apple to Abandon Building Surveillance Capabilities](https://cdt.org/insights/international-coalition-calls-on-apple-to-abandon-plan-to-build-surveillance-capabilities-into-iphones-ipads-and-other-products/)
-- [Harbormaster: The anti-Kubernetes for your personal server](https://gitlab.com/stavros/harbormaster)
-- [The world must cooperate to avoid a catastrophic space collision](https://www.nature.com/articles/d41586-021-02167-5)
-- [Let's write a compiler, part 5: A code generator](https://briancallahan.net/blog/20210818.html)
-- [The Polar Bear – Open-Source, Multipurpose CNC Machine with a Rotary Axis](https://www.kadirilkimen.com/thepolarbear/)
+- [CareRev (YC S16) Is Searching for Principle Ruby/Rails Product Eng (Remote USA)](https://grnh.se/33e93f4d3us)
+- [‘Horizon Workrooms’: remote collaboration reimagined](https://www.oculus.com/blog/workrooms/)
+- [Chip shortage: Toyota to cut global production by 40%](https://www.bbc.com/news/business-58266794)
+- [The Quest to Recreate a Lost and ‘Terrifying’ Medieval Mead](https://www.atlasobscura.com/articles/how-to-make-medieval-mead-bochet)
+- [Ask HN: What's the most life-changing blog post you've ever read?](https://news.ycombinator.com/item?id=28232165)
 <!-- BLOG-POST-LIST:END -->
 
 ---
