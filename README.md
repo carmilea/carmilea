@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Policy Groups Urge Apple to Abandon Building Surveillance Capabilities](https://cdt.org/insights/international-coalition-calls-on-apple-to-abandon-plan-to-build-surveillance-capabilities-into-iphones-ipads-and-other-products/)
 - [The world must cooperate to avoid a catastrophic space collision](https://www.nature.com/articles/d41586-021-02167-5)
-- [Why Indigenous Wisdom Is an Antidote to the Climate Crisis](https://www.earthrise.studio/reads/why-indigenous-wisdom-is-an-antidote-to-the-climate-crisis)
 - [Let's write a compiler, part 5: A code generator](https://briancallahan.net/blog/20210818.html)
 - [The Polar Bear – Open-Source, Multipurpose CNC Machine with a Rotary Axis](https://www.kadirilkimen.com/thepolarbear/)
 - [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
