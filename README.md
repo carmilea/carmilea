@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Voice has stopped forwarding SMS](https://support.google.com/voice/answer/9182115?authuser=1)
+- [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
+- [National Center for Integrated Behavioral Health](https://www.mayo.edu/research/centers-programs/national-center-for-integrated-behavioral-health/overview)
 - [Why wild foxes led you to treasure in Skyrim](https://twitter.com/joelburgess/status/1428008043556622336)
 - [Policy groups ask Apple to drop plans to inspect messages, scan for abuse images](https://www.reuters.com/article/uk-apple-privacy/exclusive-policy-groups-ask-apple-to-drop-plans-to-inspect-imessages-scan-for-abuse-images-idUSKBN2FK09P)
 - [A Dyson sphere around a black hole](https://academic.oup.com/mnras/article-abstract/506/2/1723/6312510)
-- [Show HN: Neural-hash-collider – make your own NeuralHash collisions](https://github.com/anishathalye/neural-hash-collider)
 <!-- BLOG-POST-LIST:END -->
 
 ---
