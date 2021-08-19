@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Neural-hash-collider – make your own NeuralHash collisions](https://github.com/anishathalye/neural-hash-collider)
+- [VisiCalc: Information from Its Creators, Dan Bricklin and Bob Frankston](http://danbricklin.com/visicalc.htm)
+- [Finley (YC W21) is hiring fintech experts to transform debt capital management](https://www.finleycms.com/careers/)
+- [Facebooks 'Widely Viewed Content' report is strange](https://ethanzuckerman.com/2021/08/18/i-read-facebooks-widely-viewed-content-report-its-really-strange/)
 - [Understanding Foreign Data Wrappers in Postgres and Postgres_fdw](https://blog.crunchydata.com/blog/understanding-postgres_fdw)
-- [Canada calls screen scraping ‘unsecure,’ sets Open Banking target for 2023](https://finledger.com/2021/08/09/canada-sets-open-banking-target-for-2023/)
-- [GoKart: A static analysis tool for securing Go code](https://github.com/praetorian-inc/gokart)
-- [Wgpu-0.10 released: WebGPU implementation now in pure Rust](https://gfx-rs.github.io/2021/08/18/release-0.10.html)
-- [SEC charges Netflix insider trading ring](https://www.sec.gov/news/press-release/2021-158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
