@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OnlyFans to Block Sexually Explicit Videos Starting in October](https://www.bloomberg.com/news/articles/2021-08-19/onlyfans-to-block-sexually-explicit-videos-starting-in-october)
-- [SafetyWing (YC W18) Is Hiring Remote Executive Director at Plumia](https://remoteOK.io/remote-jobs/105532-remote-executive-director-plumia)
+- [Sourcegraph: Why we're indexing the OSS universe](https://about.sourcegraph.com/blog/why-index-the-oss-universe/)
+- [SafetyWing (YC W18) is hiring a remote executive director at Plumia](https://remoteOK.io/remote-jobs/105532-remote-executive-director-plumia)
 - [History of PaaS: How Canon almost became a major cloud provider](https://blog.porter.run/history-of-paas-how-canon-almost-became-a-major-cloud-provider/)
 - [ImageNet contains naturally occurring Apple NeuralHash collisions](https://blog.roboflow.com/nerualhash-collision/)
 - [Wanted: Disgruntled Employees to Deploy Ransomware](https://krebsonsecurity.com/2021/08/wanted-disgruntled-employees-to-deploy-ransomware/)
