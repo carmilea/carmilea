@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Circumplanetary Disk Around PDS70 C [pdf]](https://www.eso.org/public/archives/releases/sciencepapers/eso2111/eso2111a.pdf)
 - [CareRev (YC S16) Is Searching for Principle Ruby/Rails Product Eng (Remote USA)](https://grnh.se/33e93f4d3us)
 - [‘Horizon Workrooms’: remote collaboration reimagined](https://www.oculus.com/blog/workrooms/)
 - [Chip shortage: Toyota to cut global production by 40%](https://www.bbc.com/news/business-58266794)
 - [The Quest to Recreate a Lost and ‘Terrifying’ Medieval Mead](https://www.atlasobscura.com/articles/how-to-make-medieval-mead-bochet)
-- [Ask HN: What's the most life-changing blog post you've ever read?](https://news.ycombinator.com/item?id=28232165)
 <!-- BLOG-POST-LIST:END -->
 
 ---
