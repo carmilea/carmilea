@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Visual Guide to React Rendering](https://alexsidorenko.com/blog/react-render-always-rerenders/)
+- [Nftables 1.0.0 Released](https://marc.info/?l=netfilter&m=162939459210790&w=2)
 - [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
 - [Second largest US mortgage lender will accept crypto payments this year](https://www.fxstreet.com/cryptocurrencies/news/second-largest-us-mortgage-lender-will-accept-crypto-payments-this-year-202108190251)
 - [Rick and Morty’s Thanksploitation Deciduous Decision Tree](https://swagitda.com/blog/posts/rick-morty-thanksploitation-decision-tree/)
-- [A 5x reduction in RAM usage with Zoekt memory optimizations](https://about.sourcegraph.com/blog/zoekt-memory-optimizations-for-sourcegraph-cloud)
-- [OnlyFans to block sexually explicit videos starting in October](https://www.bloomberg.com/news/articles/2021-08-19/onlyfans-to-block-sexually-explicit-videos-starting-in-october)
 <!-- BLOG-POST-LIST:END -->
 
 ---
