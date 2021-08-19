@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why wild foxes led you to treasure in Skyrim](https://twitter.com/joelburgess/status/1428008043556622336)
+- [Policy groups ask Apple to drop plans to inspect messages, scan for abuse images](https://www.reuters.com/article/uk-apple-privacy/exclusive-policy-groups-ask-apple-to-drop-plans-to-inspect-imessages-scan-for-abuse-images-idUSKBN2FK09P)
+- [A Dyson sphere around a black hole](https://academic.oup.com/mnras/article-abstract/506/2/1723/6312510)
 - [Show HN: Neural-hash-collider – make your own NeuralHash collisions](https://github.com/anishathalye/neural-hash-collider)
 - [VisiCalc: Information from Its Creators, Dan Bricklin and Bob Frankston](http://danbricklin.com/visicalc.htm)
-- [Finley (YC W21) is hiring fintech experts to transform debt capital management](https://www.finleycms.com/careers/)
-- [Facebooks 'Widely Viewed Content' report is strange](https://ethanzuckerman.com/2021/08/18/i-read-facebooks-widely-viewed-content-report-its-really-strange/)
-- [Understanding Foreign Data Wrappers in Postgres and Postgres_fdw](https://blog.crunchydata.com/blog/understanding-postgres_fdw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
