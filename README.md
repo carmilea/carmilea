@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber allegedly more than doubles prices when battery is low](https://twitter.com/NerdyAndNatural/status/1427614996738068485)
-- [Rain falls on peak of Greenland ice cap for first time on record](https://www.theguardian.com/world/2021/aug/20/rain-falls-peak-greenland-ice-cap-first-time-on-record-climate-crisis)
-- [Rain falls at the summit of Greenland Ice Sheet for first time on record](https://www.washingtonpost.com/weather/2021/08/19/greenland-melt-august-summit-rain/)
-- [Tesla AI Day Live Stream](https://www.youtube.com/watch?v=j0z4FweCy4M&)
-- [Apple's bright idea for CSAM scanning could start persecution on a global basis](https://www.theregister.com/2021/08/19/apple_csam_condemned/)
+- [Thought-Terminating Cliché](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9)
+- [Claimed AT&T hack of 70M customer records including SSN, name, address](https://9to5mac.com/2021/08/20/claimed-att-hack/)
+- [Ask HN: Should it be legal to switch privacy policies after purchase?](https://news.ycombinator.com/item?id=28246603)
+- [Sometimes it is just a bad battery](https://rachelbythebay.com/w/2021/08/19/batt/)
+- [Animals changed by proximity to humans](https://www.bbc.com/future/article/20210805-the-animals-changed-by-proximity-to-humans)
 <!-- BLOG-POST-LIST:END -->
 
 ---
