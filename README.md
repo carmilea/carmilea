@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Peru is reviving a pre-Incan technology for water](https://www.bbc.com/future/article/20210510-perus-urgent-search-for-slow-water)
-- [Streak (YC S11) hiring TypeScript/React expert to ship to 1M users (remote)](https://www.streak.com/careers/product-engineer)
-- [Google is shutting down its Android Auto mobile app in favor of Google Assistant](https://www.theverge.com/2021/8/20/22633755/google-android-auto-for-phone-screens-shutting-down-android-12-google-assistant-driving-mode)
-- [Bats Love to Babble – Just Like Humans](https://www.npr.org/2021/08/19/1029343443/bats-love-to-babble-just-like-humans)
-- [Archaeologists Discover 'Lost Golden City of Luxor'](https://www.dw.com/en/archaeologists-discover-lost-golden-city-of-luxor/g-57141238)
+- [Rain falls on peak of Greenland ice cap for first time on record](https://www.theguardian.com/world/2021/aug/20/rain-falls-peak-greenland-ice-cap-first-time-on-record-climate-crisis)
+- [Rain falls at the summit of Greenland Ice Sheet for first time on record](https://www.washingtonpost.com/weather/2021/08/19/greenland-melt-august-summit-rain/)
+- [Tesla AI Day Live Stream](https://www.youtube.com/watch?v=j0z4FweCy4M&)
+- [Apple's bright idea for CSAM scanning could start persecution on a global basis](https://www.theregister.com/2021/08/19/apple_csam_condemned/)
+- [Manim: An animation engine for explanatory math videos](https://github.com/ManimCommunity/manim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
