@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX’s Starlink near-misses with other spacecraft are getting ‘out of control’](https://www.independent.co.uk/space/elon-musk-spacex-starlink-satellite-near-misses-b1905969.html)
 - [Devices and Your Employer](https://rachelbythebay.com/w/2021/08/20/phones/)
 - [The mutation that helps Delta spread like wildfire](https://www.nature.com/articles/d41586-021-02275-2)
 - [Chronically lonely flies overeat and lose sleep](https://www.nature.com/articles/d41586-021-02194-2)
 - [CS/A65. A 6502 computer with USB, Ethernet and co-processors](http://www.6502.org/users/andre/csa/index.html)
-- [Dendron (YC W21) Is Hiring Founding Engineer to Build a Better Tool for Thought](https://wiki.dendron.so/notes/MMrQN7haAkDZIJJs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
