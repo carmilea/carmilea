@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The lost tablet and secret documents: Clues pointing to a shadowy Russian army](https://www.bbc.co.uk/news/extra/8iaz6xit26/the-lost-tablet-and-the-secret-documents)
 - [Memfd_secret() in 5.14](https://lwn.net/Articles/865256/)
 - [Tesla AI Day Live Stream [video]](https://livestream.tesla.com)
 - [Building Container Images with Nix](https://thewagner.net/blog/2021/02/25/building-container-images-with-nix/)
 - [What Is ‘Elite Overproduction’?](https://www.overcomingbias.com/2021/08/what-is-elite-overproduction.html)
-- [Palantir CEO Alex Karp gives $180k to ousted hermit River Dave](https://www.concordmonitor.com/Billionaire-Palantir-CEO-donates-180k-River-Dave-42046438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
