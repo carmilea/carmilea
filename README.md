@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The lost tablet and secret documents: Clues pointing to a shadowy Russian army](https://www.bbc.co.uk/news/extra/8iaz6xit26/the-lost-tablet-and-the-secret-documents)
-- [Memfd_secret() in 5.14](https://lwn.net/Articles/865256/)
-- [Tesla AI Day Live Stream [video]](https://livestream.tesla.com)
-- [Building Container Images with Nix](https://thewagner.net/blog/2021/02/25/building-container-images-with-nix/)
-- [What Is ‘Elite Overproduction’?](https://www.overcomingbias.com/2021/08/what-is-elite-overproduction.html)
+- [Apple forced an employee to handover “pics of my boobs”](https://twitter.com/ashleygjovik/status/1428495420917837826)
+- [Tesla Announces a Humanoid Robot “Tesla Bot”](https://electrek.co/2021/08/19/tesla-bot-humanoid-robot/)
+- [Tesla: Artificial Intelligence and Autopilot](https://www.tesla.com/AI)
+- [New SARS-CoV-2 variants have changed the pandemic. What will the virus do next?](https://www.sciencemag.org/news/2021/08/new-sars-cov-2-variants-have-changed-pandemic-what-will-virus-do-next)
+- [Quantum Mechanics of Gravitational Waves](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.081602)
 <!-- BLOG-POST-LIST:END -->
 
 ---
