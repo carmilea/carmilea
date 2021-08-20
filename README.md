@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Peru is reviving a pre-Incan technology for water](https://www.bbc.com/future/article/20210510-perus-urgent-search-for-slow-water)
+- [Streak (YC S11) hiring TypeScript/React expert to ship to 1M users (remote)](https://www.streak.com/careers/product-engineer)
+- [Google is shutting down its Android Auto mobile app in favor of Google Assistant](https://www.theverge.com/2021/8/20/22633755/google-android-auto-for-phone-screens-shutting-down-android-12-google-assistant-driving-mode)
+- [Bats Love to Babble – Just Like Humans](https://www.npr.org/2021/08/19/1029343443/bats-love-to-babble-just-like-humans)
 - [Archaeologists Discover 'Lost Golden City of Luxor'](https://www.dw.com/en/archaeologists-discover-lost-golden-city-of-luxor/g-57141238)
-- [Another free CA as an alternative to Let's Encrypt](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/)
-- [The plant that cannot die](https://www.independent.co.uk/news/science/welwitschia-plant-namib-desert-namibia-angola-b1895173.html)
-- [Ask HN: What LinkedIn alternatives don't suck?](https://news.ycombinator.com/item?id=28244064)
-- [CFC ban bought us time to fight climate change, say scientists](https://www.bbc.co.uk/news/science-environment-58248725)
 <!-- BLOG-POST-LIST:END -->
 
 ---
