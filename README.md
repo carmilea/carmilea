@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Ancana (YC S21) – Fractional ownership of vacation homes](https://news.ycombinator.com/item?id=28247379)
-- [What happens when all of your co-workers quit?](https://www.thecut.com/2021/08/workers-left-behind-by-the-great-resignation.html)
-- [Open source Pocket code](https://bugzilla.mozilla.org/show_bug.cgi?id=1343006#c10)
-- [Thought-Terminating Cliché](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9)
-- [Claimed AT&T hack of 70M customer records including SSN, name, address](https://9to5mac.com/2021/08/20/claimed-att-hack/)
+- [Dendron (YC W21) Is Hiring Founding Engineer to Build a Better Tool for Thought](https://wiki.dendron.so/notes/MMrQN7haAkDZIJJs.html)
+- [Home Prices Are Now Higher Than the Peak of the 2000s Housing Bubble](https://www.npr.org/sections/money/2021/08/17/1028083046/home-prices-are-now-higher-than-the-peak-of-the-2000s-housing-bubble-what-gives)
+- [I won over $55M in the lottery, but didn’t tell my friends or family](https://www.marketwatch.com/story/i-won-over-55-million-in-the-california-lottery-but-didnt-tell-my-friends-or-family-did-i-do-the-right-thing-11625001363)
+- [The Ruin of War](https://acoup.blog/2021/08/20/collections-teaching-paradox-victoria-ii-part-ii-the-ruin-of-war/)
+- [Apple's Past Sideloading Plans](https://www.macrumors.com/2021/08/20/apple-sideloading-plans-ecosystem-lock-in-revealed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
