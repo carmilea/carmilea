@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Infracost (YC W21) is hiring a software engineer: love your cloud bills](https://www.ycombinator.com/companies/infracost/jobs/Epvol5L-principal-software-engineer)
+- [Sad, lonely people more likely to be ‘natural’ social psychologists](https://news.yale.edu/2018/03/15/study-sad-lonely-people-more-likely-be-natural-social-psychologists)
 - [Horton Hears a Whostyle](https://jacobhall.net/2021/08/horton-hears-a-whostyle/)
 - [Cproc C Compiler](https://github.com/michaelforney/cproc)
 - [Tesla Announces a Humanoid Robot “Tesla Bot”](https://electrek.co/2021/08/19/tesla-bot-humanoid-robot/)
-- [Quantum Mechanics of Gravitational Waves](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.081602)
-- [Apple explicitly asks employees to merge their personal and work accounts](https://twitter.com/oilyraincloud/status/1428497203253833731)
 <!-- BLOG-POST-LIST:END -->
 
 ---
