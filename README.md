@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Archaeologists Discover 'Lost Golden City of Luxor'](https://www.dw.com/en/archaeologists-discover-lost-golden-city-of-luxor/g-57141238)
+- [Another free CA as an alternative to Let's Encrypt](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/)
 - [The plant that cannot die](https://www.independent.co.uk/news/science/welwitschia-plant-namib-desert-namibia-angola-b1895173.html)
-- [Have problems with PostgreSQL? Try using Hive (2015)](http://peter.eisentraut.org/blog/2015/08/14/have-problems-with-postgresql-try-using-hive/)
-- [The gas 300 times more potent than CO2](https://www.bbc.com/future/article/20210603-nitrous-oxide-the-worlds-forgotten-greenhouse-gas)
-- [Feeding cows seaweed cuts 99% of greenhouse gas emissions from their burps](https://www.independent.co.uk/environment/cows-seaweed-methane-burps-cut-greenhouse-gas-emissions-climate-change-research-a8368911.html)
-- [Infracost (YC W21) is hiring a software engineer: love your cloud bills](https://www.ycombinator.com/companies/infracost/jobs/Epvol5L-principal-software-engineer)
+- [CFC ban bought us time to fight climate change, say scientists](https://www.bbc.co.uk/news/science-environment-58248725)
+- [Fun with regular expressions: part I](https://yurichev.com/news/20210819_RE1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
