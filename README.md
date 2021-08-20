@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gmail is opening and caching URLs within emails without user intervention](https://support.google.com/mail/thread/16878288/gmail-is-opening-and-caching-urls-within-emails-without-user-intervention-how-and-why?hl=en)
+- [Memfd_secret() in 5.14](https://lwn.net/Articles/865256/)
+- [Tesla AI Day Live Stream [video]](https://livestream.tesla.com)
+- [Building Container Images with Nix](https://thewagner.net/blog/2021/02/25/building-container-images-with-nix/)
+- [What Is ‘Elite Overproduction’?](https://www.overcomingbias.com/2021/08/what-is-elite-overproduction.html)
 - [Palantir CEO Alex Karp gives $180k to ousted hermit River Dave](https://www.concordmonitor.com/Billionaire-Palantir-CEO-donates-180k-River-Dave-42046438)
-- [A Visual Guide to React Rendering](https://alexsidorenko.com/blog/react-render-always-rerenders/)
-- [Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis](https://www.workatastartup.com/jobs/44386)
-- [A 5x reduction in RAM usage with Zoekt memory optimizations](https://about.sourcegraph.com/blog/zoekt-memory-optimizations-for-sourcegraph-cloud)
 <!-- BLOG-POST-LIST:END -->
 
 ---
