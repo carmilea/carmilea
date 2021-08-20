@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Who gets to define what’s ‘racist?’ (2020)](https://contexts.org/blog/who-gets-to-define-whats-racist/)
+- [OneSignal (YC S11) Is Hiring a Head of Product Engineering](https://onesignal.com/careers/5accd5c2-4a81-45ca-9813-701cae3cbec4)
+- [DevTools Leverage](https://explog.in/notes/devtools/leverage.html)
 - [macOS 11’s hidden security improvements](https://blog.malwarebytes.com/mac/2021/08/macos-11s-hidden-security-improvements/)
 - [Point-to-point Wi-Fi bridging between buildings–the cheap and easy way](https://arstechnica.com/gadgets/2021/08/point-to-point-wi-fi-bridging-between-buildings-the-cheap-and-easy-way/)
 - [Facebook hacker beat my 2FA, bricked my Oculus, and hit the company credit card](https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/)
-- [Google is dismantling its health division](https://www.businessinsider.com/google-health-shutting-down-david-feinberg-leaves-2021-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
