@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber allegedly more than doubles prices when battery is low](https://twitter.com/NerdyAndNatural/status/1427614996738068485)
 - [Rain falls on peak of Greenland ice cap for first time on record](https://www.theguardian.com/world/2021/aug/20/rain-falls-peak-greenland-ice-cap-first-time-on-record-climate-crisis)
 - [Rain falls at the summit of Greenland Ice Sheet for first time on record](https://www.washingtonpost.com/weather/2021/08/19/greenland-melt-august-summit-rain/)
 - [Tesla AI Day Live Stream](https://www.youtube.com/watch?v=j0z4FweCy4M&)
 - [Apple's bright idea for CSAM scanning could start persecution on a global basis](https://www.theregister.com/2021/08/19/apple_csam_condemned/)
-- [Manim: An animation engine for explanatory math videos](https://github.com/ManimCommunity/manim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
