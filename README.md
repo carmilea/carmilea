@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Infracost (YC W21) is hiring a software engineer: love your cloud bills](https://www.ycombinator.com/companies/infracost/jobs/Epvol5L-principal-software-engineer)
-- [Sad, lonely people more likely to be ‘natural’ social psychologists](https://news.yale.edu/2018/03/15/study-sad-lonely-people-more-likely-be-natural-social-psychologists)
+- [Experience: I spent 29 years in solitary confinement (2010)](http://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print)
+- [Sad, lonely people more likely to be ‘natural’ social psychologists (2018)](https://news.yale.edu/2018/03/15/study-sad-lonely-people-more-likely-be-natural-social-psychologists)
 - [Horton Hears a Whostyle](https://jacobhall.net/2021/08/horton-hears-a-whostyle/)
 - [Cproc C Compiler](https://github.com/michaelforney/cproc)
-- [Tesla Announces a Humanoid Robot “Tesla Bot”](https://electrek.co/2021/08/19/tesla-bot-humanoid-robot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
