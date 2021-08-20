@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The looming disaster of immunity passports and digital identity (2020)](https://privacyinternational.org/long-read/4074/looming-disaster-immunity-passports-and-digital-identity)
+- [Google's payments team is seeing an exodus of executives and employees](https://www.businessinsider.com/google-pay-payments-team-seeing-executive-exodus-turnover-caesar-sengupta-2021-8)
+- [Human in Robot Costume Good Metaphor for How Close Tesla Is to A.I](https://www.thedrive.com/tech/42078/person-in-robot-costume-actually-good-metaphor-for-how-close-tesla-is-to-a-i)
 - [OneSignal (YC S11) Is Hiring a Head of Product Engineering](https://onesignal.com/careers/5accd5c2-4a81-45ca-9813-701cae3cbec4)
 - [DevTools Leverage](https://explog.in/notes/devtools/leverage.html)
-- [macOS 11’s hidden security improvements](https://blog.malwarebytes.com/mac/2021/08/macos-11s-hidden-security-improvements/)
-- [Point-to-point Wi-Fi bridging between buildings–the cheap and easy way](https://arstechnica.com/gadgets/2021/08/point-to-point-wi-fi-bridging-between-buildings-the-cheap-and-easy-way/)
-- [Facebook hacker beat my 2FA, bricked my Oculus, and hit the company credit card](https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
