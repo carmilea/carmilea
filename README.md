@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The looming disaster of immunity passports and digital identity (2020)](https://privacyinternational.org/long-read/4074/looming-disaster-immunity-passports-and-digital-identity)
+- [Chatroullete – Collaborative filtering doesn't work for us](https://about.chatroulette.com/posts/better-match-making-part-1/)
+- [FFmpeg for browser and node, powered by WebAssembly](https://ffmpegwasm.netlify.app/)
+- [We Will Do Anything to Get You to Work for Us Except Pay You Enough [McSweeneys]](https://www.mcsweeneys.net/articles/we-will-do-anything-to-get-you-to-work-for-us-except-pay-you-enough)
+- [View your browser's TLS fingerprint](https://tlsfingerprint.io/)
 - [Google's payments team is seeing an exodus of executives and employees](https://www.businessinsider.com/google-pay-payments-team-seeing-executive-exodus-turnover-caesar-sengupta-2021-8)
-- [Human in Robot Costume Good Metaphor for How Close Tesla Is to A.I](https://www.thedrive.com/tech/42078/person-in-robot-costume-actually-good-metaphor-for-how-close-tesla-is-to-a-i)
-- [OneSignal (YC S11) Is Hiring a Head of Product Engineering](https://onesignal.com/careers/5accd5c2-4a81-45ca-9813-701cae3cbec4)
-- [DevTools Leverage](https://explog.in/notes/devtools/leverage.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
