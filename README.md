@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX’s Starlink near-misses with other spacecraft are getting ‘out of control’](https://www.independent.co.uk/space/elon-musk-spacex-starlink-satellite-near-misses-b1905969.html)
-- [Devices and Your Employer](https://rachelbythebay.com/w/2021/08/20/phones/)
-- [The mutation that helps Delta spread like wildfire](https://www.nature.com/articles/d41586-021-02275-2)
-- [Chronically lonely flies overeat and lose sleep](https://www.nature.com/articles/d41586-021-02194-2)
-- [CS/A65. A 6502 computer with USB, Ethernet and co-processors](http://www.6502.org/users/andre/csa/index.html)
+- [Who gets to define what’s ‘racist?’ (2020)](https://contexts.org/blog/who-gets-to-define-whats-racist/)
+- [macOS 11’s hidden security improvements](https://blog.malwarebytes.com/mac/2021/08/macos-11s-hidden-security-improvements/)
+- [Point-to-point Wi-Fi bridging between buildings–the cheap and easy way](https://arstechnica.com/gadgets/2021/08/point-to-point-wi-fi-bridging-between-buildings-the-cheap-and-easy-way/)
+- [Facebook hacker beat my 2FA, bricked my Oculus, and hit the company credit card](https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/)
+- [Google is dismantling its health division](https://www.businessinsider.com/google-health-shutting-down-david-feinberg-leaves-2021-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
