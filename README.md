@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google's Secret Initiative – “Project Hug”](https://twitter.com/jowens510/status/1428415192480698371)
+- [Germany’s hidden hunger: On the breadline in Europe’s richest country (2017)](http://edition.cnn.com/interactive/2017/09/world/germany-food-bank-cnnphotos/)
+- [‘I Don’t Want to Be Like a Family with My Co-Workers’](https://www.thecut.com/article/i-dont-want-to-be-like-a-family-with-my-co-workers.html)
+- [The World’s Largest Computer Chip](https://www.newyorker.com/tech/annals-of-technology/the-worlds-largest-computer-chip)
 - [Orlando urges residents to conserve water because of surge in hospitalizations](https://www.washingtonpost.com/health/2021/08/20/covid-surge-orlando-water-conservation/)
-- [Elon Musk Has No Idea What He’s Doing with Tesla Bot](https://spectrum.ieee.org/elon-musk-robot)
-- [India approves first DNA Covid vaccine](https://www.bbc.co.uk/news/world-asia-india-57774294)
-- [Engineers put Leonardo da Vinci's bridge design to the test (2019)](https://techxplore.com/news/2019-10-leonardo-da-vinci-bridge.html)
-- [Janet Programming Language](https://janet-lang.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
