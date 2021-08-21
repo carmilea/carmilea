@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [14M ton of carbon offset forest is burning in California](https://twitter.com/BodieCabiyo/status/1427683107788845056)
-- [GM expands recall to ALL 2017-2022 Chevy Bolt EVs including EUV, blames LG](https://electrek.co/2021/08/20/gm-expands-bolt-recall-to-all-chevy-bolts-blames-supplier-lg/)
-- [Collaborative filtering doesn't work for us](https://about.chatroulette.com/posts/better-match-making-part-1/)
-- [Full-body tracking in VR using AprilTag markers](https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker)
-- [FFmpeg for browser and Node, powered by WebAssembly](https://ffmpegwasm.netlify.app/)
+- [Enhanced Support for Citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/)
+- [Golang.org will be merged into go.dev](https://go.dev/blog/tidy-web)
+- [CA Superior Court judge finds Prop 22 Unconstitutional](https://www.sacbee.com/news/politics-government/capitol-alert/article253647838.html)
+- [Prop 22 found unconstitutional by California Superior Court](https://twitter.com/veenadubal/status/1428873686212173826)
+- [The Secret Lives of Mosquitoes, the World’s Most Hated Insects](https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2021/08/19/secret-life-worlds-most-hated-insect/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
