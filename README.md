@@ -55,7 +55,7 @@
 - [Google's Secret Initiative – “Project Hug”](https://twitter.com/jowens510/status/1428415192480698371)
 - [‘I Don’t Want to Be Like a Family with My Co-Workers’](https://www.thecut.com/article/i-dont-want-to-be-like-a-family-with-my-co-workers.html)
 - [The World’s Largest Computer Chip](https://www.newyorker.com/tech/annals-of-technology/the-worlds-largest-computer-chip)
-- [Is catching Covid now better than more vaccine?](https://www.bbc.co.uk/news/health-58270098)
+- [Orlando urges residents to conserve water because of surge in hospitalizations](https://www.washingtonpost.com/health/2021/08/20/covid-surge-orlando-water-conservation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
