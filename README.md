@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chatroullete – Collaborative filtering doesn't work for us](https://about.chatroulette.com/posts/better-match-making-part-1/)
-- [FFmpeg for browser and node, powered by WebAssembly](https://ffmpegwasm.netlify.app/)
-- [We Will Do Anything to Get You to Work for Us Except Pay You Enough [McSweeneys]](https://www.mcsweeneys.net/articles/we-will-do-anything-to-get-you-to-work-for-us-except-pay-you-enough)
-- [View your browser's TLS fingerprint](https://tlsfingerprint.io/)
-- [Google's payments team is seeing an exodus of executives and employees](https://www.businessinsider.com/google-pay-payments-team-seeing-executive-exodus-turnover-caesar-sengupta-2021-8)
+- [14M ton of carbon offset forest is burning in California](https://twitter.com/BodieCabiyo/status/1427683107788845056)
+- [GM expands recall to ALL 2017-2022 Chevy Bolt EVs including EUV, blames LG](https://electrek.co/2021/08/20/gm-expands-bolt-recall-to-all-chevy-bolts-blames-supplier-lg/)
+- [Collaborative filtering doesn't work for us](https://about.chatroulette.com/posts/better-match-making-part-1/)
+- [Full-body tracking in VR using AprilTag markers](https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker)
+- [FFmpeg for browser and Node, powered by WebAssembly](https://ffmpegwasm.netlify.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
