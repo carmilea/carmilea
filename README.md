@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Fella (YC W20) – Tackling men's obesity using medication and coaching](https://news.ycombinator.com/item?id=28257352)
+- [IceFireDB: Distributed disk storage database based on Raft and Redis protocol](https://github.com/gitsrc/IceFireDB)
+- [Thoughts of work invaded my life–until I learned how to unplug](https://www.sciencemag.org/careers/2021/08/thoughts-work-invaded-my-life-until-i-learned-how-unplug)
 - [Benefits of Not Using an IDE](https://alexander-hansen.dev/blog/benefits-of-not-using-an-ide)
-- [The Taliban Have Seized U.S. Military Biometrics Devices](https://theintercept.com/2021/08/17/afghanistan-taliban-military-biometrics/)
-- [The Apollo Affair](https://en.wikipedia.org/wiki/The_Apollo_Affair)
-- [The reason you’re not more productive at work? It’s not boredom–it’s bad UX](https://www.fastcompany.com/90667790/the-real-reason-youre-not-more-productive-at-work-its-not-boredom-its-bad-ux)
-- [The Extraordinary Power of Japan's Sixth-Gen F-X Fighter Jet](https://interestingengineering.com/the-extraordinary-power-of-japans-sixth-gen-f-x-fighter-jet?_source=newsletter&_campaign=1E1pdYlXkkx04&_uid=LDdwmgxga1&_h=ea90de89f1bceca46d02cad80716fb4006725c29&utm_source=newsletter&utm_medium=mailing&utm_campaign=Newsletter-20-08-2021)
+- [Snap: A microkernel approach to host networking](https://research.google/pubs/pub48630/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
