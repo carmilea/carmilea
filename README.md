@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Fella (YC W20) – Tackling men's obesity using medication and coaching](https://news.ycombinator.com/item?id=28257352)
-- [IceFireDB: Distributed disk storage database based on Raft and Redis protocol](https://github.com/gitsrc/IceFireDB)
-- [Thoughts of work invaded my life–until I learned how to unplug](https://www.sciencemag.org/careers/2021/08/thoughts-work-invaded-my-life-until-i-learned-how-unplug)
-- [Benefits of Not Using an IDE](https://alexander-hansen.dev/blog/benefits-of-not-using-an-ide)
-- [Snap: A microkernel approach to host networking](https://research.google/pubs/pub48630/)
+- [Balaji: The collapse in state capacity has not been priced in](https://twitter.com/balajis/status/1429109239436308482)
+- [The Normalization of Violence in Commercial Kitchens Through Food Media](https://journals.sagepub.com/doi/10.1177/08862605211005138)
+- [The Transcendence of Tantric Sex](https://nautil.us/issue/104/harmony/the-transcendence-of-tantric-sex)
+- [Genius Checklist](https://supermemo.guru/wiki/Genius_checklist)
+- [Job-hopping heats up: 65% of U.S. workers are looking for a new job](https://fortune.com/2021/08/20/us-workers-looking-for-jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
