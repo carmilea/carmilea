@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [India approves first DNA Covid vaccine](https://www.bbc.co.uk/news/world-asia-india-57774294)
+- [Engineers put Leonardo da Vinci's bridge design to the test (2019)](https://techxplore.com/news/2019-10-leonardo-da-vinci-bridge.html)
+- [Is Internet Addiction Real?](https://www.deprocrastination.co/blog/is-internet-addiction-real)
+- [Janet Programming Language](https://janet-lang.org/)
 - [Jiga (YC W21) Is Hiring a FS Developer (100% remote, flexible, parent friendly)](https://www.workatastartup.com/jobs/44310)
-- [Patterns in Confusing Explanations](https://jvns.ca/blog/confusing-explanations/)
-- [Obstructive Sleep Apnea Is Associated with Low Testosterone Levels](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8350060/)
-- [Amazon Genomics CLI](https://aws.amazon.com/blogs/industries/announcing-amazon-genomics-cli-preview/)
-- [Generics enabled by default in Go tip](https://go-review.googlesource.com/c/go/+/343732/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
