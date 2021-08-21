@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Finary (YC W21) Discord for Investing – Is Hiring a Senior Software Engineer](https://boards.greenhouse.io/finary/jobs/4031690004)
-- [Google's Secret Initiative – “Project Hug”](https://twitter.com/jowens510/status/1428415192480698371)
-- [‘I Don’t Want to Be Like a Family with My Co-Workers’](https://www.thecut.com/article/i-dont-want-to-be-like-a-family-with-my-co-workers.html)
-- [The World’s Largest Computer Chip](https://www.newyorker.com/tech/annals-of-technology/the-worlds-largest-computer-chip)
-- [Orlando urges residents to conserve water because of surge in hospitalizations](https://www.washingtonpost.com/health/2021/08/20/covid-surge-orlando-water-conservation/)
+- [Benefits of Not Using an IDE](https://alexander-hansen.dev/blog/benefits-of-not-using-an-ide)
+- [The Taliban Have Seized U.S. Military Biometrics Devices](https://theintercept.com/2021/08/17/afghanistan-taliban-military-biometrics/)
+- [The Apollo Affair](https://en.wikipedia.org/wiki/The_Apollo_Affair)
+- [The reason you’re not more productive at work? It’s not boredom–it’s bad UX](https://www.fastcompany.com/90667790/the-real-reason-youre-not-more-productive-at-work-its-not-boredom-its-bad-ux)
+- [The Extraordinary Power of Japan's Sixth-Gen F-X Fighter Jet](https://interestingengineering.com/the-extraordinary-power-of-japans-sixth-gen-f-x-fighter-jet?_source=newsletter&_campaign=1E1pdYlXkkx04&_uid=LDdwmgxga1&_h=ea90de89f1bceca46d02cad80716fb4006725c29&utm_source=newsletter&utm_medium=mailing&utm_campaign=Newsletter-20-08-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
