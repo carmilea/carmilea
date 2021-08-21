@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
+- [Schema on write is better to live by](https://hrishioa.github.io/schema-on-write-is-better-to-live-by/)
+- [A Game Art Trick: Don’t Starve, Diablo – Parallax 7](http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
 - [Project Jupyter Celebrates 20 Years, Fernando Pérez Reflects on How It Started](https://data.berkeley.edu/news/project-jupyter-celebrates-20-years-fernando-perez-reflects-how-it-started-open-sciences)
 - [EFF Joins Global Coalition Asking Apple CEO Tim Cook to Stop Phone-Scanning](https://www.eff.org/deeplinks/2021/08/eff-joins-global-coalition-asking-apple-ceo-tim-cook-stop-phone-scanning)
-- [Urban Dictionary on Hacker News](https://www.urbandictionary.com/define.php?term=hacker%20news)
-- [Strict Tables – Column type constraints in SQLite - Draft](https://www.sqlite.org/draft/stricttables.html)
-- [Parser generators vs. handwritten parsers: surveying major languages in 2021](https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
