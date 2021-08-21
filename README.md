@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Genomics CLI](https://aws.amazon.com/blogs/industries/announcing-amazon-genomics-cli-preview/)
 - [Generics enabled by default in Go tip](https://go-review.googlesource.com/c/go/+/343732/)
-- [Airliner Number 4](https://en.wikipedia.org/wiki/Airliner_Number_4)
 - [Enhanced Support for Citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/)
 - [Golang.org will be merged into go.dev](https://go.dev/blog/tidy-web)
 - [Court rules California's Prop. 22 on Uber, Lyft drivers unconstitutional](https://www.sacbee.com/news/politics-government/capitol-alert/article253647838.html)
