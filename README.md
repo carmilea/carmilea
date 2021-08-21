@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Airliner Number 4](https://en.wikipedia.org/wiki/Airliner_Number_4)
 - [Enhanced Support for Citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/)
 - [Golang.org will be merged into go.dev](https://go.dev/blog/tidy-web)
 - [CA Superior Court judge finds Prop 22 Unconstitutional](https://www.sacbee.com/news/politics-government/capitol-alert/article253647838.html)
 - [Prop 22 found unconstitutional by California Superior Court](https://twitter.com/veenadubal/status/1428873686212173826)
-- [The Secret Lives of Mosquitoes, the World’s Most Hated Insects](https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2021/08/19/secret-life-worlds-most-hated-insect/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
