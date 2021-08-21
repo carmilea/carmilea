@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Jupyter Celebrates 20 Years, Fernando Pérez Reflects on How It Started](https://data.berkeley.edu/news/project-jupyter-celebrates-20-years-fernando-perez-reflects-how-it-started-open-sciences)
 - [EFF Joins Global Coalition Asking Apple CEO Tim Cook to Stop Phone-Scanning](https://www.eff.org/deeplinks/2021/08/eff-joins-global-coalition-asking-apple-ceo-tim-cook-stop-phone-scanning)
 - [Urban Dictionary on Hacker News](https://www.urbandictionary.com/define.php?term=hacker%20news)
 - [Strict Tables – Column type constraints in SQLite - Draft](https://www.sqlite.org/draft/stricttables.html)
 - [Parser generators vs. handwritten parsers: surveying major languages in 2021](https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html)
-- [Find eng roles at 800 high-growth YC startups on ycombinator.com](https://www.ycombinator.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
