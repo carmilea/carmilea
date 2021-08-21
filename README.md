@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Find eng roles at 800 high-growth YC startups on Y Combinator.com](https://www.ycombinator.com/jobs)
+- [GitHub Issues-only project management](https://blog.placemark.io/2021/07/19/issues-only-management.html)
 - [Balaji: The collapse in state capacity has not been priced in](https://twitter.com/balajis/status/1429109239436308482)
-- [The Normalization of Violence in Commercial Kitchens Through Food Media](https://journals.sagepub.com/doi/10.1177/08862605211005138)
-- [The Transcendence of Tantric Sex](https://nautil.us/issue/104/harmony/the-transcendence-of-tantric-sex)
-- [Genius Checklist](https://supermemo.guru/wiki/Genius_checklist)
-- [Job-hopping heats up: 65% of U.S. workers are looking for a new job](https://fortune.com/2021/08/20/us-workers-looking-for-jobs/)
+- [An Opinionated Guide to Xargs](https://www.oilshell.org/blog/2021/08/xargs.html)
+- [Prop. 22, the gig worker exemption for Uber and Lyft, is ruled unconstitutional](https://www.sfchronicle.com/tech/article/Prop-22-the-gig-worker-exemption-for-Uber-and-16401915.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
