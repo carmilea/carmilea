@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Avis “Stole” Back Car from Customer and Denied It](https://twitter.com/tarikhcampbell/status/1428707006412640271)
+- [Obstructive Sleep Apnea Is Associated with Low Testosterone Levels](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8350060/)
+- [New NTSB chief warns against false claims on automated driving](https://www.autonews.com/regulation-safety/new-ntsb-chief-warns-against-false-claims-automated-driving)
 - [Amazon Genomics CLI](https://aws.amazon.com/blogs/industries/announcing-amazon-genomics-cli-preview/)
 - [Generics enabled by default in Go tip](https://go-review.googlesource.com/c/go/+/343732/)
-- [Enhanced Support for Citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/)
-- [Golang.org will be merged into go.dev](https://go.dev/blog/tidy-web)
-- [Court rules California's Prop. 22 on Uber, Lyft drivers unconstitutional](https://www.sacbee.com/news/politics-government/capitol-alert/article253647838.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
