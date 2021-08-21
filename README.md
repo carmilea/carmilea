@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I won't be posting any more preimages against neuralhash for now](https://news.ycombinator.com/item?id=28261147)
+- [Tikz.net – Graphics with TikZ in LaTeX](https://tikz.net/)
+- [DeepfakeHTTP – Your 100% static dynamic back end](https://github.com/xnbox/DeepfakeHTTP)
 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
-- [Highly Vaccinated Israel Is Seeing a Dramatic Surge in New Covid Cases](https://www.npr.org/sections/goatsandsoda/2021/08/20/1029628471/highly-vaccinated-israel-is-seeing-a-dramatic-surge-in-new-covid-cases-heres-why)
 - [Schema on write is better to live by](https://hrishioa.github.io/schema-on-write-is-better-to-live-by/)
-- [Cyber Attack, Possible Serious Breach, at U.S. State Department](https://twitter.com/JacquiHeinrich/status/1429173367643516936)
-- [A Game Art Trick: Don’t Starve, Diablo – Parallax 7](http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
