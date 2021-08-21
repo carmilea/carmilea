@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
+- [Highly Vaccinated Israel Is Seeing a Dramatic Surge in New Covid Cases](https://www.npr.org/sections/goatsandsoda/2021/08/20/1029628471/highly-vaccinated-israel-is-seeing-a-dramatic-surge-in-new-covid-cases-heres-why)
 - [Schema on write is better to live by](https://hrishioa.github.io/schema-on-write-is-better-to-live-by/)
+- [Cyber Attack, Possible Serious Breach, at U.S. State Department](https://twitter.com/JacquiHeinrich/status/1429173367643516936)
 - [A Game Art Trick: Don’t Starve, Diablo – Parallax 7](http://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
-- [Project Jupyter Celebrates 20 Years, Fernando Pérez Reflects on How It Started](https://data.berkeley.edu/news/project-jupyter-celebrates-20-years-fernando-perez-reflects-how-it-started-open-sciences)
-- [EFF Joins Global Coalition Asking Apple CEO Tim Cook to Stop Phone-Scanning](https://www.eff.org/deeplinks/2021/08/eff-joins-global-coalition-asking-apple-ceo-tim-cook-stop-phone-scanning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
