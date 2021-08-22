@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Record rise in U.S. rents](https://www.bloomberg.com/news/articles/2021-08-18/housing-hunt-turns-to-desperation-with-record-rise-in-u-s-rents)
-- [Cutting off Jobless Benefits Is Found to Get Few Back to Work](https://www.nytimes.com/2021/08/20/business/economy/unemployment-benefits-economy-states.html)
-- [Skio (YC S20) is hiring founding engineers](https://skio.com/careers/)
-- [Many invasive plants are still being sold at garden centers](https://www.smithsonianmag.com/smart-news/worlds-worst-invasive-weed-sold-us-garden-centers-180978481/)
-- [Evolution is now accepted by a majority of Americans](https://phys.org/news/2021-08-evolution-majority-americans.html)
+- [On the link between great thinking and obsessive walking](https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking/)
+- [Even my bigoted critics deserve free speech](https://www.spiked-online.com/2021/08/18/even-my-bigoted-critics-deserve-free-speech/)
+- [Pam Duress – Alternate passwords for panic situations](https://github.com/nuvious/pam-duress)
+- [One does not simply calculate the absolute value](https://habr.com/en/post/574082/)
+- [I recommend CGI instead of web frameworks](https://halestrom.net/darksleep/blog/046_cgi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
