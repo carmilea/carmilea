@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I won't be posting any more preimages against neuralhash for now](https://news.ycombinator.com/item?id=28261147)
 - [Tikz.net – Graphics with TikZ in LaTeX](https://tikz.net/)
-- [DeepfakeHTTP – Your 100% static dynamic back end](https://github.com/xnbox/DeepfakeHTTP)
+- [Expert help needed to decode rare piece of space history: Lunokhod data tapes](https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece.html)
 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
 - [Schema on write is better to live by](https://hrishioa.github.io/schema-on-write-is-better-to-live-by/)
+- [Cyber Attack, Possible Serious Breach, at U.S. State Department](https://twitter.com/JacquiHeinrich/status/1429173367643516936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
