@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: Whats you're ideal PhD workflow](https://news.ycombinator.com/item?id=28262180)
 - [Pyret Programming Language](http://pyret.org/index.html)
-- [Police helicopter's 100mph chase with 'super sophisticated' drone near Tucson](https://www.dailymail.co.uk/news/article-9912999/FAA-audio-reveals-police-helicopters-100mph-chase-sophisticated-drone.html)
+- [Police helicopter's 100mph chase with 'super sophisticated' drone near Tucson](https://www.thedrive.com/the-war-zone/42021/radio-transmissions-from-police-helicopters-chase-of-bizarre-craft-over-tucson-add-to-mystery)
 - [Tikz.net – Graphics with TikZ in LaTeX](https://tikz.net/)
 - [Expert help needed to decode rare piece of space history: Lunokhod data tapes](https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece.html)
 <!-- BLOG-POST-LIST:END -->
