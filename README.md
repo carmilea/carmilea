@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [Long-haul symptoms affect majority of Covid-19 patients, UA study finds](https://tucson.com/news/local/subscriber/long-haul-symptoms-affect-majority-of-covid-19-patients-ua-study-finds/article_a6ae8c24-f9fe-11eb-b677-fb1f1eb2abfc.html)
-- [Ask HN: Whats you're ideal PhD workflow](https://news.ycombinator.com/item?id=28262180)
+- [George Mason professor wins Covid antibody lawsuit as vaccine exemption](https://nclalegal.org/2021/08/george-mason-univ-caves-to-nclas-lawsuit-over-vaccine-mandate-grants-prof-medical-exemption/)
 - [Pyret Programming Language](http://pyret.org/index.html)
+- [Amiga 1200 PiStorm Development](https://linuxjedi.co.uk/2021/08/15/this-week-in-pistorm-2021-08-15/)
 - [Police helicopter's 100mph chase with 'super sophisticated' drone near Tucson](https://www.thedrive.com/the-war-zone/42021/radio-transmissions-from-police-helicopters-chase-of-bizarre-craft-over-tucson-add-to-mystery)
 <!-- BLOG-POST-LIST:END -->
 
