@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Skio is hiring founding engineers (launched recently/just raised $3.3m)](https://skio.com/careers/)
-- ['World’s Worst Invasive Weed' Sold at Many U.S. Garden Centers](https://www.smithsonianmag.com/smart-news/worlds-worst-invasive-weed-sold-us-garden-centers-180978481/)
-- [Waymo is 99% of the way to self-driving cars. The last 1% is the hardest](https://www.bloomberg.com/news/articles/2021-08-17/waymo-s-self-driving-cars-are-99-of-the-way-there-the-last-1-is-the-hardest)
-- [FSNotes v5: Notes manager for macOS and iOS – native, open source](https://fsnot.es/)
-- [Seattle Ferries maintains a clean and refreshing PDA version of their schedule](https://wsdot.com/Ferries/Schedule/Small/pda.aspx)
+- [Record rise in U.S. rents](https://www.bloomberg.com/news/articles/2021-08-18/housing-hunt-turns-to-desperation-with-record-rise-in-u-s-rents)
+- [Cutting off Jobless Benefits Is Found to Get Few Back to Work](https://www.nytimes.com/2021/08/20/business/economy/unemployment-benefits-economy-states.html)
+- [Skio (YC S20) is hiring founding engineers](https://skio.com/careers/)
+- [Many invasive plants are still being sold at garden centers](https://www.smithsonianmag.com/smart-news/worlds-worst-invasive-weed-sold-us-garden-centers-180978481/)
+- [Evolution is now accepted by a majority of Americans](https://phys.org/news/2021-08-evolution-majority-americans.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
