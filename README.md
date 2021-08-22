@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are there contemporary notebooks up for tinkerers?](https://news.ycombinator.com/item?id=28266459)
-- [C++20 Concepts: The Definitive Guide](https://thecodepad.com/cpp/c20-concepts-the-definitive-guide/)
-- [Cognitive deficits in people who have recovered from Covid-19](https://www.researchhub.com/paper/1266004/cognitive-deficits-in-people-who-have-recovered-from-covid-19)
-- [Buy an Empty House in Japan for Less Than a Month's Rent](https://www.travelpirates.com/others/buy-an-empty-house-in-japan-for-less-than-a-months-rent)
-- [Bringing the Unix Philosophy to the 21st Century](https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/)
+- [Skio is hiring founding engineers (launched recently/just raised $3.3m)](https://skio.com/careers/)
+- ['World’s Worst Invasive Weed' Sold at Many U.S. Garden Centers](https://www.smithsonianmag.com/smart-news/worlds-worst-invasive-weed-sold-us-garden-centers-180978481/)
+- [Waymo is 99% of the way to self-driving cars. The last 1% is the hardest](https://www.bloomberg.com/news/articles/2021-08-17/waymo-s-self-driving-cars-are-99-of-the-way-there-the-last-1-is-the-hardest)
+- [FSNotes v5: Notes manager for macOS and iOS – native, open source](https://fsnot.es/)
+- [Seattle Ferries maintains a clean and refreshing PDA version of their schedule](https://wsdot.com/Ferries/Schedule/Small/pda.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
