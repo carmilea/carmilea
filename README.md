@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Countering climate change with cool pavements](https://news.mit.edu/2021/countering-climate-change-cool-pavements-0822)
 - [Kraftful (YC S19) hiring SDRs to build the software layer for the physical world](https://www.kraftful.com/team)
 - [A DIY E-bike Conversion on the Cheap](https://spectrum.ieee.org/a-diy-e-bike-conversion-on-the-cheap)
+- [Working towards a source-based bootstrapping path to a GNU+Linux system](https://bootstrappable.org/projects/mes.html)
 - [On the link between great thinking and obsessive walking](https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking/)
-- [Even my bigoted critics deserve free speech](https://www.spiked-online.com/2021/08/18/even-my-bigoted-critics-deserve-free-speech/)
-- [PAM Duress – Alternate passwords for panic situations](https://github.com/nuvious/pam-duress)
 <!-- BLOG-POST-LIST:END -->
 
 ---
