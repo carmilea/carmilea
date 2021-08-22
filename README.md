@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kraftful (YC S19) hiring SDRs to build the software layer for the physical world](https://www.kraftful.com/team)
+- [A DIY E-bike Conversion on the Cheap](https://spectrum.ieee.org/a-diy-e-bike-conversion-on-the-cheap)
 - [On the link between great thinking and obsessive walking](https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking/)
+- [Even my bigoted critics deserve free speech](https://www.spiked-online.com/2021/08/18/even-my-bigoted-critics-deserve-free-speech/)
 - [PAM Duress – Alternate passwords for panic situations](https://github.com/nuvious/pam-duress)
-- [One does not simply calculate the absolute value](https://habr.com/en/post/574082/)
-- [Skio (YC S20) is hiring founding engineers](https://skio.com/careers/)
-- [Many invasive plants are still being sold at garden centers](https://www.smithsonianmag.com/smart-news/worlds-worst-invasive-weed-sold-us-garden-centers-180978481/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
