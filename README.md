@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [George Mason professor wins Covid antibody lawsuit as vaccine exemption](https://nclalegal.org/2021/08/george-mason-univ-caves-to-nclas-lawsuit-over-vaccine-mandate-grants-prof-medical-exemption/)
+- [Signadot (YC W20) Is Hiring Golang Engineers](https://www.workatastartup.com/jobs/42298/)
 - [I Was There: When the DC-8 Went Supersonic](https://www.airspacemag.com/history-of-flight/i-was-there-when-the-dc-8-went-supersonic-27846699/)
+- [Just how far can you travel by bus from London in 24 hours?](https://twitter.com/politic_animal/status/1428438081871433731)
 - [Pyret Programming Language](http://pyret.org/index.html)
 - [Amiga 1200 PiStorm Development](https://linuxjedi.co.uk/2021/08/15/this-week-in-pistorm-2021-08-15/)
 <!-- BLOG-POST-LIST:END -->
