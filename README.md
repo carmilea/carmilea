@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Free to play old-school browser MMORPG](https://data.mo.ee/loader.html)
+- [Lowkey (YC S18) is hiring a Senior Software Engineer who likes games](https://lowkeygg.notion.site/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
+- [Hydrogen lobbyist quits, slams oil companies’ “false claims” about blue hydrogen](https://arstechnica.com/tech-policy/2021/08/ex-lobbyist-slams-blue-hydrogen-says-it-would-lock-in-fossil-fuel-dependence/)
+- [OnlyFans banning sexually explicit content b/C of MasterCard rules starting Oct](https://twitter.com/PostCultRev/status/1428584133555482630)
+- [WinFsp – Windows File System Proxy](https://github.com/billziss-gh/winfsp)
 - [Astronomers have just found more than half a million new asteroids](https://www.newscientist.com/article/2287725-astronomers-have-just-found-more-than-half-a-million-new-asteroids/)
-- [Noted study in psychology fails to replicate, crumbles with evidence of fraud](https://statmodeling.stat.columbia.edu/2021/08/19/a-scandal-in-tedhemia-noted-study-in-psychology-first-fails-to-replicate-but-is-still-promoted-by-npr-then-crumbles-with-striking-evidence-of-data-fraud/)
-- [Homemade computer chips / integrated circuits](http://sam.zeloof.xyz/first-ic/)
-- [New research shows some mental abilities improve as we get older](https://www.sciencealert.com/aging-isn-t-all-bad-some-key-mental-abilities-improve-as-we-get-older)
 <!-- BLOG-POST-LIST:END -->
 
 ---
