@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [On the link between great thinking and obsessive walking](https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking/)
-- [Even my bigoted critics deserve free speech](https://www.spiked-online.com/2021/08/18/even-my-bigoted-critics-deserve-free-speech/)
-- [Pam Duress – Alternate passwords for panic situations](https://github.com/nuvious/pam-duress)
+- [PAM Duress – Alternate passwords for panic situations](https://github.com/nuvious/pam-duress)
 - [One does not simply calculate the absolute value](https://habr.com/en/post/574082/)
-- [I recommend CGI instead of web frameworks](https://halestrom.net/darksleep/blog/046_cgi/)
+- [Skio (YC S20) is hiring founding engineers](https://skio.com/careers/)
+- [Many invasive plants are still being sold at garden centers](https://www.smithsonianmag.com/smart-news/worlds-worst-invasive-weed-sold-us-garden-centers-180978481/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
