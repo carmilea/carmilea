@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - [George Mason professor wins Covid antibody lawsuit as vaccine exemption](https://nclalegal.org/2021/08/george-mason-univ-caves-to-nclas-lawsuit-over-vaccine-mandate-grants-prof-medical-exemption/)
+- [I Was There: When the DC-8 Went Supersonic](https://www.airspacemag.com/history-of-flight/i-was-there-when-the-dc-8-went-supersonic-27846699/)
 - [Pyret Programming Language](http://pyret.org/index.html)
 - [Amiga 1200 PiStorm Development](https://linuxjedi.co.uk/2021/08/15/this-week-in-pistorm-2021-08-15/)
-- [Police helicopter's 100mph chase with 'super sophisticated' drone near Tucson](https://www.thedrive.com/the-war-zone/42021/radio-transmissions-from-police-helicopters-chase-of-bizarre-craft-over-tucson-add-to-mystery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
