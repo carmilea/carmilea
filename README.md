@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hospitals and Insurers Didn’t Want You to See These Prices. Here’s Why](https://www.nytimes.com/interactive/2021/08/22/upshot/hospital-prices.html)
 - [Lowkey (YC S18) is hiring a Senior Software Engineer who likes games](https://lowkeygg.notion.site/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
 - [Hydrogen lobbyist quits, slams oil companies’ “false claims” about blue hydrogen](https://arstechnica.com/tech-policy/2021/08/ex-lobbyist-slams-blue-hydrogen-says-it-would-lock-in-fossil-fuel-dependence/)
-- [OnlyFans banning sexually explicit content b/C of MasterCard rules starting Oct](https://twitter.com/PostCultRev/status/1428584133555482630)
-- [WinFsp – Windows File System Proxy](https://github.com/billziss-gh/winfsp)
-- [Astronomers have just found more than half a million new asteroids](https://www.newscientist.com/article/2287725-astronomers-have-just-found-more-than-half-a-million-new-asteroids/)
+- [The Middle East is running out of water, and parts of it becoming uninhabitable](https://lite.cnn.com/en/article/h_c68d65f14dea3cfd383f1627438ca5c7)
+- [A man spent a year in jail on murder charge that hinged on disputed AI evidence](https://www.theregister.com/2021/08/22/in_brief_ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
