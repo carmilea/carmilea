@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Japan Is Holding Back as the World Rushes Toward Electric Cars](https://www.nytimes.com/2021/03/09/business/electric-cars-japan.html)
+- [Homemade computer chips / integrated circuits](http://sam.zeloof.xyz/first-ic/)
 - [New research shows some mental abilities improve as we get older](https://www.sciencealert.com/aging-isn-t-all-bad-some-key-mental-abilities-improve-as-we-get-older)
 - [Signadot (YC W20) Is Hiring Golang Engineers](https://www.workatastartup.com/jobs/42298/)
 - [Getting my personal Dogsheep up and running again](https://simonwillison.net/2021/Aug/22/weeknotes-dogsheep/)
-- [The world needs a proper investigation into how Covid-19 started](https://www.economist.com/international/2021/08/21/the-world-needs-a-proper-investigation-into-how-covid-19-started)
-- [Gitfs: Version Controlled File System](https://www.presslabs.com/docs/code/gitfs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
