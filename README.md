@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rescue dogs shot dead by NSW council due to Covid-19 restrictions](https://www.smh.com.au/national/nsw/rescue-dogs-shot-dead-by-nsw-council-due-to-covid-19-restrictions-20210821-p58ksh.html)
-- [Clickbait Is Unreasonably Effective](https://www.youtube.com/watch?v=S2xHZPH5Sng)
-- [The Tesla Semi Is an Engineering Failure](https://www.youtube.com/watch?v=w__a8EcM2jI)
-- [Volkswagen ID.3 Bursts into Flames in the Netherlands](https://insideevs.com/news/527874/volkswagen-id3-netherlands-fire-charging/)
-- [Lowkey (YC S18) is hiring a Senior Software Engineer who likes games](https://lowkeygg.notion.site/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
+- [Are there contemporary notebooks up for tinkerers?](https://news.ycombinator.com/item?id=28266459)
+- [C++20 Concepts: The Definitive Guide](https://thecodepad.com/cpp/c20-concepts-the-definitive-guide/)
+- [Cognitive deficits in people who have recovered from Covid-19](https://www.researchhub.com/paper/1266004/cognitive-deficits-in-people-who-have-recovered-from-covid-19)
+- [Buy an Empty House in Japan for Less Than a Month's Rent](https://www.travelpirates.com/others/buy-an-empty-house-in-japan-for-less-than-a-months-rent)
+- [Bringing the Unix Philosophy to the 21st Century](https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
