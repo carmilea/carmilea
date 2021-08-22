@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [Long-haul symptoms affect majority of Covid-19 patients, UA study finds](https://tucson.com/news/local/subscriber/long-haul-symptoms-affect-majority-of-covid-19-patients-ua-study-finds/article_a6ae8c24-f9fe-11eb-b677-fb1f1eb2abfc.html)
 - [Ask HN: Whats you're ideal PhD workflow](https://news.ycombinator.com/item?id=28262180)
 - [Pyret Programming Language](http://pyret.org/index.html)
 - [Police helicopter's 100mph chase with 'super sophisticated' drone near Tucson](https://www.thedrive.com/the-war-zone/42021/radio-transmissions-from-police-helicopters-chase-of-bizarre-craft-over-tucson-add-to-mystery)
-- [Tikz.net – Graphics with TikZ in LaTeX](https://tikz.net/)
-- [Expert help needed to decode rare piece of space history: Lunokhod data tapes](https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
