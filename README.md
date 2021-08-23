@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An empirical cybersecurity evaluation of GitHub Copilot's code contributions](https://arxiv.org/abs/2108.09293)
+- [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
+- [Modern IRC Client Protocol](https://modern.ircdocs.horse/)
+- [Mosquito saliva alone has profound effects on the human immune system](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006439)
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Twitter adds warning label to tweet from Liberal candidate Chrystia Freeland](https://www.cbc.ca/news/politics/twitter-labels-freeland-tweet-manipulated-media-1.6149734)
-- [Firefox follows Chrome and prepares to block insecure downloads](https://therecord.media/firefox-follows-chrome-and-prepares-to-block-insecure-downloads/)
-- [Launch HN: Zen (YC S21) – Posture-correcting software via webcam](https://news.ycombinator.com/item?id=28278618)
-- [Launch HN: Buoyant (YC S21) – Blimp drones for air freight](https://news.ycombinator.com/item?id=28278515)
 <!-- BLOG-POST-LIST:END -->
 
 ---
