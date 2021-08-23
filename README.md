@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Staffer Says She Was Fired over Bathroom Breaks for Bowel Issue](https://www.businessinsider.com/amazon-staffer-bathroom-breaks-irritable-bowel-syndrome-lawsuit-2021-8)
+- [Moldable Emacs: Vega-Lite, Nyxt and Emacs Towards Sustainable Development](https://ag91.github.io/blog/2021/08/22/moldable-emacs-vega-lite-nyxt-and-emacs-towards-sustainable-development/)
 - [Gnome Shell on the Apple M1, bare metal](https://twitter.com/alyssarzg/status/1429579145827127296)
 - [Why protecting privacy is a losing game today (2018)](https://www.brookings.edu/research/why-protecting-privacy-is-a-losing-game-today-and-how-to-change-the-game/)
 - [PlsExplain: A small dynamic programming language where every value is explained](https://github.com/langjam/jam0001/tree/main/hope)
