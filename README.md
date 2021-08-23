@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [dns_deep_state – Find all secrets about DNS governing a domain](https://github.com/lelutin/dns_deep_state)
+- [Scrimba (YC S20) is hiring Imba developers to make CS education more accessible](https://jobs.scrimba.com)
+- [Afghans Delete Social Media as Taliban Seizes US Surveillance Equipment](https://www.theepochtimes.com/stranded-afghans-delete-social-media-as-taliban-seizes-us-surveillance-equipment_3958444.html)
 - [Tesla Project Dojo Overview](https://perspectives.mvdirona.com/2021/08/tesla-project-dojo-overview/)
-- [Nvidia's takeover of Arm raises serious concerns, says watchdog](https://www.bbc.com/news/business-58284204.html)
 - [Aquaplus P/ECE (Vs Panic Playdate)](https://blog.gingerbeardman.com/2021/08/19/aquaplus-piece-vs-panic-playdate/)
 - [Moldable Emacs: Vega-Lite, Nyxt and Emacs Towards Sustainable Development](https://ag91.github.io/blog/2021/08/22/moldable-emacs-vega-lite-nyxt-and-emacs-towards-sustainable-development/)
 <!-- BLOG-POST-LIST:END -->
