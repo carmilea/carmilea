@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Staffer Says She Was Fired over Bathroom Breaks for Bowel Issue](https://www.businessinsider.com/amazon-staffer-bathroom-breaks-irritable-bowel-syndrome-lawsuit-2021-8)
+- [Gnome Shell on the Apple M1, bare metal](https://twitter.com/alyssarzg/status/1429579145827127296)
+- [Why protecting privacy is a losing game today (2018)](https://www.brookings.edu/research/why-protecting-privacy-is-a-losing-game-today-and-how-to-change-the-game/)
+- [PlsExplain: A small dynamic programming language where every value is explained](https://github.com/langjam/jam0001/tree/main/hope)
 - [How can we make air conditioners 33% more efficient? A revolutionary solution](https://youtube.com/watch?v=2TFiL5BM3ss)
-- [Countering climate change with cool pavements](https://news.mit.edu/2021/countering-climate-change-cool-pavements-0822)
-- [Kraftful (YC S19) hiring SDRs to build the software layer for the physical world](https://www.kraftful.com/team)
-- [A DIY E-bike Conversion on the Cheap](https://spectrum.ieee.org/a-diy-e-bike-conversion-on-the-cheap)
-- [Bigger vehicles are directly resulting in more deaths of people walking](https://smartgrowthamerica.org/bigger-vehicles-are-directly-resulting-in-more-deaths-of-people-walking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
