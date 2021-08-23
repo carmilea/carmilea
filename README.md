@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wikidata or Scraping Wikipedia](http://simia.net/wiki/Wikidata_or_scraping_Wikipedia)
-- [Nailgun: A Rust DNS performance testing client](https://leshow.github.io/post/nailgun/)
-- [Physicist Discovered an Escape from Hawking’s Black Hole Paradox](https://www.quantamagazine.org/this-physicist-discovered-an-escape-from-hawkings-black-hole-paradox-20210823/)
-- [The role of high-skilled foreign labor in startup performance](https://www.sciencedirect.com/science/article/abs/pii/S0304405X2100235X)
-- [Self-powered Diaper Sensors that Monitor Urine Sugar Levels](https://www.tus.ac.jp/en/mediarelations/archive/20210811_6384.html)
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Twitter adds warning label to tweet from Liberal candidate Chrystia Freeland](https://www.cbc.ca/news/politics/twitter-labels-freeland-tweet-manipulated-media-1.6149734)
+- [Firefox follows Chrome and prepares to block insecure downloads](https://therecord.media/firefox-follows-chrome-and-prepares-to-block-insecure-downloads/)
+- [Launch HN: Zen (YC S21) – Posture-correcting software via webcam](https://news.ycombinator.com/item?id=28278618)
+- [Launch HN: Buoyant (YC S21) – Blimp drones for air freight](https://news.ycombinator.com/item?id=28278515)
 <!-- BLOG-POST-LIST:END -->
 
 ---
