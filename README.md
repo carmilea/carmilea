@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikidata or Scraping Wikipedia](http://simia.net/wiki/Wikidata_or_scraping_Wikipedia)
+- [Nailgun: A Rust DNS performance testing client](https://leshow.github.io/post/nailgun/)
 - [Physicist Discovered an Escape from Hawking’s Black Hole Paradox](https://www.quantamagazine.org/this-physicist-discovered-an-escape-from-hawkings-black-hole-paradox-20210823/)
+- [The role of high-skilled foreign labor in startup performance](https://www.sciencedirect.com/science/article/abs/pii/S0304405X2100235X)
 - [Self-powered Diaper Sensors that Monitor Urine Sugar Levels](https://www.tus.ac.jp/en/mediarelations/archive/20210811_6384.html)
-- [Cloudflare: Warp for Linux and Proxy Mode](https://blog.cloudflare.com/announcing-warp-for-linux-and-proxy-mode/)
-- [Please, stop forcing a dark theme on a web-site visitors](https://news.ycombinator.com/item?id=28276614)
-- [Modern XMPP](https://docs.modernxmpp.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
