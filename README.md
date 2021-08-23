@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The study on dishonesty was based on fraudulent data](https://www.economist.com/graphic-detail/2021/08/20/a-study-on-dishonesty-was-based-on-fraudulent-data)
+- [Tesla Project Dojo Overview](https://perspectives.mvdirona.com/2021/08/tesla-project-dojo-overview/)
+- [Aquaplus P/ECE (Vs Panic Playdate)](https://blog.gingerbeardman.com/2021/08/19/aquaplus-piece-vs-panic-playdate/)
 - [Moldable Emacs: Vega-Lite, Nyxt and Emacs Towards Sustainable Development](https://ag91.github.io/blog/2021/08/22/moldable-emacs-vega-lite-nyxt-and-emacs-towards-sustainable-development/)
 - [Gnome Shell on the Apple M1, bare metal](https://twitter.com/alyssarzg/status/1429579145827127296)
-- [Why protecting privacy is a losing game today (2018)](https://www.brookings.edu/research/why-protecting-privacy-is-a-losing-game-today-and-how-to-change-the-game/)
-- [PlsExplain: A small dynamic programming language where every value is explained](https://github.com/langjam/jam0001/tree/main/hope)
-- [How can we make air conditioners 33% more efficient? A revolutionary solution](https://youtube.com/watch?v=2TFiL5BM3ss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
