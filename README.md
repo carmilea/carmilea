@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Actors Working as Protestors](https://twitter.com/chadloder/status/1422413663055486977)
+- [John Carmack on SpaceX Starbase](https://twitter.com/ID_AA_Carmack/status/1429907886159941638)
+- [Science Saturday: How disease, diet, and genomics interact with gut virome](https://newsnetwork.mayoclinic.org/discussion/science-saturday-how-disease-diet-and-genomics-interact-with-gut-virome/)
 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - [darktable: An open source photography workflow application](https://darktable.org)
-- [Tech Interview Handbook](https://techinterviewhandbook.org/)
-- [RustPython: A Python interpreter written in Rust](https://github.com/RustPython/RustPython)
-- [How we paid for the War on Terror](https://adamtooze.substack.com/p/chartbook-34-how-we-paid-for-the)
 <!-- BLOG-POST-LIST:END -->
 
 ---
