@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When America Had an Atomic Mecha Warrior Robot](https://orangebeanindiana.com/2021/04/09/once-upon-a-time-america-had-an-atomic-mecha-warrior-robot/)
+- [Electric Cars and Batteries: How Will the World Produce Enough?](https://www.nature.com/articles/d41586-021-02222-1)
+- [The Coronavirus Is Here Forever](https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/)
 - [Perfect Recall (YC W20) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/perfect-recall/jobs/kcrysro-founding-engineer)
 - [ISA-95 and IIoT](https://blog.isa.org/isa-95-and-iiot-power-is-nothing-without-control)
-- [Visa Buys CryptoPunk #7610](https://twitter.com/VisaNews/status/1429745230023208969)
-- [Ah yes, my mouse driver is asking for a firewall exemption (2019)](https://twitter.com/Foone/status/1146135405793669121)
-- [Life Saving Therapy Inhibition by Phones Containing Magnets](https://bhrs.com/important-life-saving-therapy-inhibition-by-phones-containing-magnets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
