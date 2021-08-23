@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sonic Pi – Code based live music creation tool](https://github.com/sonic-pi-net/sonic-pi)
+- [Platforms Want to Be Utilities, Self-Govern Like Empires](https://www.eff.org/deeplinks/2021/08/utilities-governed-empires)
+- [Coinbase plans to add $500M worth of crypto to its balance sheet](https://www.forbes.com/sites/billybambrough/2021/08/20/coinbase-ceo-reveals-500-million-bitcoin-ethereum-and-crypto-bombshell-as-the-market-price-breaks-2-trillion/)
 - [Online Publisher Dependent Upon Facebook Shuts Down, Blaming Algorithm Change (2018)](https://daringfireball.net/linked/2018/02/28/littlethings)
 - [Solar power in Australia outstrips coal-fired electricity for first time](https://www.theguardian.com/australia-news/2021/aug/23/solar-power-in-australia-outstrips-coal-fired-electricity-for-first-time)
-- [Hand gestures that last longer than spoken languages](https://www.bbc.com/future/article/20210818-the-hand-gestures-that-last-longer-than-spoken-languages)
-- [Image2Lego: Customized Lego Set Generation from Images](https://arxiv.org/abs/2108.08477)
-- [Scrimba (YC S20) is hiring Imba developers to make CS education more accessible](https://jobs.scrimba.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
