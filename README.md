@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Russian Spy Ship Yantar Loitering Near Trans-Atlantic Internet Cables](https://www.navalnews.com/naval-news/2021/08/russian-spy-ship-yantar-loitering-near-trans-atlantic-internet-cables/)
-- [Google found guilty of infringing 5 of Sonos' patents](https://www.phonearena.com/news/sonos-lawsuit-against-google-winning-could-get-google-home-smart-speakers-banned_id134397)
+- [Online Publisher Dependent Upon Facebook Shuts Down, Blaming Algorithm Change (2018)](https://daringfireball.net/linked/2018/02/28/littlethings)
+- [Google found guilty of infringing Sonos patents](https://www.phonearena.com/news/sonos-lawsuit-against-google-winning-could-get-google-home-smart-speakers-banned_id134397)
 - [Hand gestures that last longer than spoken languages](https://www.bbc.com/future/article/20210818-the-hand-gestures-that-last-longer-than-spoken-languages)
 - [Image2Lego: Customized Lego Set Generation from Images](https://arxiv.org/abs/2108.08477)
 - [Scrimba (YC S20) is hiring Imba developers to make CS education more accessible](https://jobs.scrimba.com)
