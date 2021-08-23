@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FDA Pfizer-BioNTech: Covid vaccine wins full approval, clearing path to mandates](https://www.cnbc.com/2021/08/23/fda-pfizer-biontech-covid-vaccine-wins-full-approval-clearing-path-to-mandates.html)
+- [FDA Approves First Covid-19 Vaccine](https://www.fda.gov/news-events/press-announcements/fda-approves-first-covid-19-vaccine)
+- [Fighting Like Taliban](https://scholars-stage.org/fighting-like-taliban/)
 - [When America Had an Atomic Mecha Warrior Robot](https://orangebeanindiana.com/2021/04/09/once-upon-a-time-america-had-an-atomic-mecha-warrior-robot/)
 - [Electric Cars and Batteries: How Will the World Produce Enough?](https://www.nature.com/articles/d41586-021-02222-1)
-- [The Coronavirus Is Here Forever](https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/)
-- [Perfect Recall (YC W20) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/perfect-recall/jobs/kcrysro-founding-engineer)
-- [ISA-95 and IIoT](https://blog.isa.org/isa-95-and-iiot-power-is-nothing-without-control)
 <!-- BLOG-POST-LIST:END -->
 
 ---
