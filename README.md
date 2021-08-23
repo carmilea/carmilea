@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Online Publisher Dependent Upon Facebook Shuts Down, Blaming Algorithm Change (2018)](https://daringfireball.net/linked/2018/02/28/littlethings)
-- [Google found guilty of infringing Sonos patents](https://www.phonearena.com/news/sonos-lawsuit-against-google-winning-could-get-google-home-smart-speakers-banned_id134397)
+- [Solar power in Australia outstrips coal-fired electricity for first time](https://www.theguardian.com/australia-news/2021/aug/23/solar-power-in-australia-outstrips-coal-fired-electricity-for-first-time)
 - [Hand gestures that last longer than spoken languages](https://www.bbc.com/future/article/20210818-the-hand-gestures-that-last-longer-than-spoken-languages)
 - [Image2Lego: Customized Lego Set Generation from Images](https://arxiv.org/abs/2108.08477)
 - [Scrimba (YC S20) is hiring Imba developers to make CS education more accessible](https://jobs.scrimba.com)
