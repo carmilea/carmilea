@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [darktable: An open source photography workflow application](https://darktable.org)
 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
-- [Notes on Living in Los Angeles](https://sashachapin.substack.com/p/notes-on-living-in-los-angeles)
 - [RustPython: A Python interpreter written in Rust](https://github.com/RustPython/RustPython)
 - [How we paid for the War on Terror](https://adamtooze.substack.com/p/chartbook-34-how-we-paid-for-the)
-- [Plane damaged after being hit by York police drone at Buttonville Airport](https://toronto.ctvnews.ca/plane-damaged-after-being-hit-by-york-police-drone-at-buttonville-airport-1.5554617)
 <!-- BLOG-POST-LIST:END -->
 
 ---
