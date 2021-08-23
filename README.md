@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Russian Spy Ship Yantar Loitering Near Trans-Atlantic Internet Cables](https://www.navalnews.com/naval-news/2021/08/russian-spy-ship-yantar-loitering-near-trans-atlantic-internet-cables/)
+- [Google found guilty of infringing 5 of Sonos' patents](https://www.phonearena.com/news/sonos-lawsuit-against-google-winning-could-get-google-home-smart-speakers-banned_id134397)
+- [Hand gestures that last longer than spoken languages](https://www.bbc.com/future/article/20210818-the-hand-gestures-that-last-longer-than-spoken-languages)
+- [Image2Lego: Customized Lego Set Generation from Images](https://arxiv.org/abs/2108.08477)
 - [Scrimba (YC S20) is hiring Imba developers to make CS education more accessible](https://jobs.scrimba.com)
-- [Afghans Delete Social Media as Taliban Seizes US Surveillance Equipment](https://www.theepochtimes.com/stranded-afghans-delete-social-media-as-taliban-seizes-us-surveillance-equipment_3958444.html)
-- [Tesla Project Dojo Overview](https://perspectives.mvdirona.com/2021/08/tesla-project-dojo-overview/)
-- [Aquaplus P/ECE (Vs Panic Playdate)](https://blog.gingerbeardman.com/2021/08/19/aquaplus-piece-vs-panic-playdate/)
-- [Moldable Emacs: Vega-Lite, Nyxt and Emacs Towards Sustainable Development](https://ag91.github.io/blog/2021/08/22/moldable-emacs-vega-lite-nyxt-and-emacs-towards-sustainable-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
