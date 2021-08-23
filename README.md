@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plane damaged after being hit by York police drone at Buttonville Airport](https://toronto.ctvnews.ca/plane-damaged-after-being-hit-by-york-police-drone-at-buttonville-airport-1.5554617)
+- [High-accuracy thrust measurements of the EMDrive, elimination of false-positives](https://link.springer.com/article/10.1007/s12567-021-00385-1)
+- [How I Experience Web Today](https://how-i-experience-web-today.com/)
+- [A bike parts company ditched Amazon to support indie shops instead](https://www.theverge.com/22618306/pacific-northwest-components-bike-company-quit-amazon-support-indie-shops)
 - [An empirical cybersecurity evaluation of GitHub Copilot's code contributions](https://arxiv.org/abs/2108.09293)
-- [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
-- [Modern IRC Client Protocol](https://modern.ircdocs.horse/)
-- [Mosquito saliva alone has profound effects on the human immune system](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006439)
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
