@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reversing ocean acidification with aggressive CO2 removal will take 700+ years](https://www.ibtimes.co.uk/reversing-ocean-acidification-aggressive-co2-removal-will-take-more-700-years-1513897)
 - [Sweden must repay $1.6M in Bitcoin to convicted drug dealer](https://nypost.com/2021/08/23/sweden-must-repay-1-6m-in-bitcoin-to-convicted-drug-dealer/)
 - [Gail.com](https://gail.com)
 - [Science hobbyist website since 1994](http://amasci.com/)
-- [Convergent patterns between grizzly bear genetics and Indigenous language groups](https://www.ecologyandsociety.org/vol26/iss3/art7/)
-- [Error stack traces in Go with x/xerror](https://brandur.org/fragments/go-xerror)
+- [James Loewen, Author of ‘Lies My Teacher Told Me,’ Dies at 79](https://www.npr.org/2021/08/23/1030442282/james-loewen-author-of-lies-my-teacher-told-me-dies-at-79)
 <!-- BLOG-POST-LIST:END -->
 
 ---
