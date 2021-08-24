@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Keeper Tax (YC W19) Hiring Performance Mktg Lead](https://www.notion.so/keepertax/Come-work-with-us-98a6be20e7e44922be6291f5513af40d?p=751015f797c64917944d0c491aa81ecd)
-- [Show HN: Kryptor – A simple, modern, and secure encryption tool](https://www.kryptor.co.uk/)
-- [Rolling Stones drummer Charlie Watts dies at 80](https://www.bbc.com/news/entertainment-arts-58316842)
-- [Welcoming our first riders in San Francisco](https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html)
-- [The NPM registry is deprecating TLS 1.0 and TLS 1.1](https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/)
+- [How Discord Stores Billions of Messages (2017)](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
+- [Aggregate streaming data in real-time with WebAssembly](https://infinyon.com/blog/2021/08/smartstream-aggregates)
+- [Launch HN: SafeBeat Rx (YC S21)- At-home ECG software to replace hospitalization](https://news.ycombinator.com/item?id=28292206)
+- [Launch HN: Level (YC S21) – Flexible financing for early-stage lending startups](https://news.ycombinator.com/item?id=28292078)
+- [Ramp raises $300M to keep saving time and money for businesses](https://ramp.com/blog/ramp-finance-automation-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
