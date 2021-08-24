@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Observability: A New Theory Based on the Group of Invariance](https://www.maa.org/press/maa-reviews/observability-a-new-theory-based-on-the-group-of-invariance)
 - [Eight Sleep (YC S15) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/eight-sleep/jobs/slZD7gD-full-stack-engineer-web-focus)
+- [Life Before Unicode](https://baturin.org/blog/life-before-unicode/)
+- [Show HN: SlashApi – a web platform to build REST APIs without code](https://slashapi.com/)
 - [Tell HN: Signing out and in to Apple device forcefully activates iCloud sync](https://news.ycombinator.com/item?id=28285567)
-- [Ploopy: open hardware trackballs and mouse](https://ploopy.co/)
-- [Reversing ocean acidification with aggressive CO2 removal will take 700+ years (2015)](https://www.ibtimes.co.uk/reversing-ocean-acidification-aggressive-co2-removal-will-take-more-700-years-1513897)
-- [Gail.com](https://gail.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
