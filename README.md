@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX ships 100k Starlink terminals to customers](https://techcrunch.com/2021/08/23/spacex-ships-100000-starlink-terminals-to-customers-eyes-future-launches-using-starship/)
 - [They thought they were going to rehab. They ended up in chicken plants](https://revealnews.org/article/they-thought-they-were-going-to-rehab-they-ended-up-in-chicken-plants/)
 - [Apple's Bizarre Crackdown on Multicast](https://thomask.sdf.org/blog/2021/08/24/apples-bizarre-crackdown-on-multicast.html)
 - [Show HN: AI-Generated Illustrations of Plants](https://www.easyzoom.com/imageaccess/2128f27845ed4921b3143004dc550c3e)
 - [Y Combinator’s European founder intake continues to grow to record levels](https://sifted.eu/articles/y-combinator-founder-intake/)
-- [Observability: A New Theory Based on the Group of Invariance](https://www.maa.org/press/maa-reviews/observability-a-new-theory-based-on-the-group-of-invariance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
