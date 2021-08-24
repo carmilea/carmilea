@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: MergeFeed – Paste a bunch of links to create a multifeed](https://mergefeed.net/)
-- [Mux (YC W16) is hiring devs to contribute to open source players](https://mux.com/jobs?hnj=oss-players)
-- [Ask HN: Managing career progression for those with no interest in progressing?](https://news.ycombinator.com/item?id=28287617)
-- [Should Your Web History Impact Your Credit Score? The IMF Thinks So](https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so)
-- [Samsung kills the cameras on the Galaxy Z Fold 3 if you unlock the bootloader](https://www.xda-developers.com/samsung-galaxy-z-fold-3-unlock-bootloader-broken-camera/)
+- [Is Hacker News a Good Predictor of Future Tech Trends?](https://jamespotter.dev/hacker-news-tech-trends/)
+- [Pacaso is turning houses into corporations](https://www.npr.org/sections/money/2021/08/24/1030151330/a-unicorn-startup-is-turning-houses-into-corporations)
+- [Samsung Reveals DDR5-7200 512GB RAM](https://www.tomshardware.com/news/samsung-reveals-ddr5-7200-512gb-ram)
+- [The Growing Market of Not Cutting Down Trees](https://www.wsj.com/podcasts/the-journal/the-growing-market-of-not-cutting-down-trees/5e0b4e3d-f26e-42cf-94e8-acaab805a65a)
+- [More than eighty cultures still speak in whistles](https://www.smithsonianmag.com/science-nature/studying-whistled-languages-180978484/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
