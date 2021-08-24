@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hire for the Ability to Get Shit Done (2011)](http://blog.eladgil.com/2011/09/hire-for-ability-to-get-shit-done.html)
+- [Two perspectives on the designer who Steve Jobs could not hire](https://www.arun.is/blog/richard-sapper/)
+- [The Case for a Shorter Workweek](https://www.bbc.com/worklife/article/20210819-the-case-for-a-shorter-workweek)
 - [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
 - [Volley (YC W18) is the fast growing “Netflix of Voice” / Hiring 12 roles in SF](https://jobs.lever.co/volleythat)
-- [Man steals 620k photos from iCloud accounts from home without Apple noticing](https://www.latimes.com/california/story/2021-08-23/icloud-photo-theft-nude-women)
-- [SQLModel – SQL Databases in FastAPI](https://github.com/tiangolo/sqlmodel)
-- [Scylla – Real-Time Big Data Database](https://www.scylladb.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
