@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: AI-Generated Illustrations of Plants](https://www.easyzoom.com/imageaccess/2128f27845ed4921b3143004dc550c3e)
+- [Y Combinator’s European founder intake continues to grow to record levels](https://sifted.eu/articles/y-combinator-founder-intake/)
 - [Observability: A New Theory Based on the Group of Invariance](https://www.maa.org/press/maa-reviews/observability-a-new-theory-based-on-the-group-of-invariance)
+- [How the transparency collective DDoSecrets eclipsed WikiLeaks](https://newrepublic.com/article/163106/ddossecrets-new-wikileaks-julian-assange)
 - [Eight Sleep (YC S15) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/eight-sleep/jobs/slZD7gD-full-stack-engineer-web-focus)
-- [Life Before Unicode](https://baturin.org/blog/life-before-unicode/)
-- [Show HN: SlashApi – a web platform to build REST APIs without code](https://slashapi.com/)
-- [Tell HN: Signing out and in to Apple device forcefully activates iCloud sync](https://news.ycombinator.com/item?id=28285567)
 <!-- BLOG-POST-LIST:END -->
 
 ---
