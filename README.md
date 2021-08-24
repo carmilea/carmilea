@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cast AI vs. Spot.io: Two approaches to automated cloud cost optimization](https://cast.ai/blog/cast-ai-vs-spot-io-two-approaches-to-automated-cloud-cost-optimization/)
-- [Twitter starts to require login to view tweets](https://www.reddit.com/r/DataHoarder/comments/pa6dra/twitter_starts_to_require_login_to_view_tweets/)
-- [Is Hacker News a good predictor of future tech trends?](https://jamespotter.dev/hacker-news-tech-trends/)
-- [Pacaso is turning houses into corporations](https://www.npr.org/sections/money/2021/08/24/1030151330/a-unicorn-startup-is-turning-houses-into-corporations)
-- [Samsung Reveals DDR5-7200 512GB RAM](https://www.tomshardware.com/news/samsung-reveals-ddr5-7200-512gb-ram)
+- [Waymo: Welcoming our first riders in San Francisco](https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html)
+- [Waymo starts offering autonomous rides in San Francisco](https://www.theverge.com/2021/8/24/22639226/waymo-san-francisco-rides-self-driving-service)
+- [The NPM registry is deprecating TLS 1.0 and TLS 1.1](https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/)
+- [SM2 Decryption Buffer Overflow](https://www.openssl.org/news/secadv/20210824.txt)
+- [Reuters photographer was killed after being left behind in retreat](https://www.reuters.com/investigates/special-report/afghanistan-conflict-reuters-siddiqui/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
