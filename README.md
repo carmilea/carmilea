@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX ships 100k Starlink terminals to customers](https://techcrunch.com/2021/08/23/spacex-ships-100000-starlink-terminals-to-customers-eyes-future-launches-using-starship/)
-- [They thought they were going to rehab. They ended up in chicken plants](https://revealnews.org/article/they-thought-they-were-going-to-rehab-they-ended-up-in-chicken-plants/)
-- [Apple's Bizarre Crackdown on Multicast](https://thomask.sdf.org/blog/2021/08/24/apples-bizarre-crackdown-on-multicast.html)
-- [Show HN: AI-Generated Illustrations of Plants](https://www.easyzoom.com/imageaccess/2128f27845ed4921b3143004dc550c3e)
-- [Y Combinator’s European founder intake continues to grow to record levels](https://sifted.eu/articles/y-combinator-founder-intake/)
+- [Mux (YC W16) is hiring devs to contribute to open source players](https://mux.com/jobs?hnj=oss-players)
+- [Should Your Web History Impact Your Credit Score? The IMF Thinks So](https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so)
+- [Samsung kills the cameras on the Galaxy Z Fold 3 if you unlock the bootloader](https://www.xda-developers.com/samsung-galaxy-z-fold-3-unlock-bootloader-broken-camera/)
+- [Bahraini Government Hacks Activists with NSO Group Zero-Click iPhone Exploits](https://citizenlab.ca/2021/08/bahrain-hacks-activists-with-nso-group-zero-click-iphone-exploits/)
+- [Pinterest Required to Spend $3B on AWS](https://twitter.com/bensign/status/1429942858669244422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
