@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymo: Welcoming our first riders in San Francisco](https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html)
-- [Waymo starts offering autonomous rides in San Francisco](https://www.theverge.com/2021/8/24/22639226/waymo-san-francisco-rides-self-driving-service)
+- [Keeper Tax (YC W19) Hiring Performance Mktg Lead](https://www.notion.so/keepertax/Come-work-with-us-98a6be20e7e44922be6291f5513af40d?p=751015f797c64917944d0c491aa81ecd)
+- [Show HN: Kryptor – A simple, modern, and secure encryption tool](https://www.kryptor.co.uk/)
+- [Rolling Stones drummer Charlie Watts dies at 80](https://www.bbc.com/news/entertainment-arts-58316842)
+- [Welcoming our first riders in San Francisco](https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html)
 - [The NPM registry is deprecating TLS 1.0 and TLS 1.1](https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/)
-- [SM2 Decryption Buffer Overflow](https://www.openssl.org/news/secadv/20210824.txt)
-- [Reuters photographer was killed after being left behind in retreat](https://www.reuters.com/investigates/special-report/afghanistan-conflict-reuters-siddiqui/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
