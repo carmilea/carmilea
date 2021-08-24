@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Error stack traces in Go with x/xerror](https://brandur.org/fragments/go-xerror)
 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
-- [John Carmack visits Starbase](https://twitter.com/ID_AA_Carmack/status/1429907886159941638)
 - [Science Saturday: How disease, diet, and genomics interact with gut virome](https://newsnetwork.mayoclinic.org/discussion/science-saturday-how-disease-diet-and-genomics-interact-with-gut-virome/)
 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - [One man's immunity to ticks (2015)](https://www.caryinstitute.org/news-insights/media-coverage/how-one-local-mans-immunity-ticks-could-save-us-all)
