@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: MergeFeed – Paste a bunch of links to create a multifeed](https://mergefeed.net/)
 - [Mux (YC W16) is hiring devs to contribute to open source players](https://mux.com/jobs?hnj=oss-players)
+- [Ask HN: Managing career progression for those with no interest in progressing?](https://news.ycombinator.com/item?id=28287617)
 - [Should Your Web History Impact Your Credit Score? The IMF Thinks So](https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so)
 - [Samsung kills the cameras on the Galaxy Z Fold 3 if you unlock the bootloader](https://www.xda-developers.com/samsung-galaxy-z-fold-3-unlock-bootloader-broken-camera/)
-- [Bahraini Government Hacks Activists with NSO Group Zero-Click iPhone Exploits](https://citizenlab.ca/2021/08/bahrain-hacks-activists-with-nso-group-zero-click-iphone-exploits/)
-- [Pinterest Required to Spend $3B on AWS](https://twitter.com/bensign/status/1429942858669244422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
