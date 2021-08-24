@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Hacker News a Good Predictor of Future Tech Trends?](https://jamespotter.dev/hacker-news-tech-trends/)
+- [Cast AI vs. Spot.io: Two approaches to automated cloud cost optimization](https://cast.ai/blog/cast-ai-vs-spot-io-two-approaches-to-automated-cloud-cost-optimization/)
+- [Twitter starts to require login to view tweets](https://www.reddit.com/r/DataHoarder/comments/pa6dra/twitter_starts_to_require_login_to_view_tweets/)
+- [Is Hacker News a good predictor of future tech trends?](https://jamespotter.dev/hacker-news-tech-trends/)
 - [Pacaso is turning houses into corporations](https://www.npr.org/sections/money/2021/08/24/1030151330/a-unicorn-startup-is-turning-houses-into-corporations)
 - [Samsung Reveals DDR5-7200 512GB RAM](https://www.tomshardware.com/news/samsung-reveals-ddr5-7200-512gb-ram)
-- [The Growing Market of Not Cutting Down Trees](https://www.wsj.com/podcasts/the-journal/the-growing-market-of-not-cutting-down-trees/5e0b4e3d-f26e-42cf-94e8-acaab805a65a)
-- [More than eighty cultures still speak in whistles](https://www.smithsonianmag.com/science-nature/studying-whistled-languages-180978484/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
