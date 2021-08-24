@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nelua Programming Language](https://nelua.io/)
-- [Golang vs. C# (.NET 5.0) at Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/go-csharpcore.html)
-- [How Discord Stores Billions of Messages (2017)](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
-- [Aggregate streaming data in real-time with WebAssembly](https://infinyon.com/blog/2021/08/smartstream-aggregates)
-- [Launch HN: SafeBeat Rx (YC S21)- At-home ECG software to replace hospitalization](https://news.ycombinator.com/item?id=28292206)
+- [Volley (YC W18) is the fast growing “Netflix of Voice” / Hiring 12 roles in SF](https://jobs.lever.co/volleythat)
+- [Man steals 620k photos from iCloud accounts from home without Apple noticing](https://www.latimes.com/california/story/2021-08-23/icloud-photo-theft-nude-women)
+- [SQLModel – SQL Databases in FastAPI](https://github.com/tiangolo/sqlmodel)
+- [Scylla – Real-Time Big Data Database](https://www.scylladb.com/)
+- [Googlespeak – How Google Limits Thought About Antitrust](https://zyppy.com/googlespeak/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
