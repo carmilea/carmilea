@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity [pdf]](https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1.full.pdf)
 - [Smarking (YC W15) Is Hiring a Head of Engineering to Digitize $131B Parking](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - [Burning Out and Quitting](https://mayakaczorowski.com/blogs/burnout)
 - [Responsibly recycle your used Dell and non-Dell equipment for free](https://recycling.dell.com/)
-- [An analysis of Amazon Echo's network behavior](https://arxiv.org/abs/2105.13500)
-- [Jsc: My New Best Friend](https://furbo.org/2021/08/25/jsc-my-new-best-friend/)
+- [K/V Benchmark: PostgreSQL vs. Redis vs. Memcached](https://www.cybertec-postgresql.com/en/postgresql-vs-redis-vs-memcached-performance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
