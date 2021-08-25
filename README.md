@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The leak that brought the H-bomb debate out of the cold](http://blog.nuclearsecrecy.com/2021/06/14/the-leak-that-brought-the-h-bomb-debate-out-of-the-cold/)
 - [The Principles Underlying Radio Communication](https://archive.org/details/principlesunderl00unitrich)
 - [Noam Chomsky – Startup Culture](https://www.youtube.com/watch?v=6jhwA1vLEpU)
 - [An Introduction to JQ](https://earthly.dev/blog/jq-select/)
 - [SQL vs. NoSQL Is the Wrong Distinction](https://www.softwareatscale.dev/p/sql-vs-nosql-is-the-wrong-distinction)
-- [The Search for a Free/Open Source Mobile Operating System](https://blog.emacsen.net/blog/2021/08/23/floss-mobile-os-aug-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
