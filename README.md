@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Turing Pi V2 is here](https://turingpi.com/turing-pi-v2-is-here/)
+- [A catalog of naturally occurring images whose Apple NeuralHash is identical](https://github.com/roboflow-ai/neuralhash-collisions)
 - [Ask HN: Companies of one, what is your tech stack?](https://news.ycombinator.com/item?id=28299053)
 - [What’s ugliest about M1 Macs and needs improvement](https://eclecticlight.co/2021/08/25/whats-ugliest-about-m1-macs-and-needs-improvement/)
 - [Enso (YC S21) Is Hiring senior interpreter developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
-- [Miller CLI – Like Awk, sed, cut, join, and sort for CSV, TSV and JSON](https://github.com/johnkerl/miller)
 <!-- BLOG-POST-LIST:END -->
 
 ---
