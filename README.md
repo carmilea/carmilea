@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810)
-- [A Cartrivision Player TV](https://twitter.com/Foone/status/1423369057181454339)
-- [The Begum's Fortune](https://en.wikipedia.org/wiki/The_Begum%27s_Fortune)
-- [T. rex’s jaw had sensors to make it an even more fearsome predator](https://www.newswise.com/articles/t-rex-s-jaw-had-sensors-to-make-it-an-even-more-fearsome-predator-new-digital-study-finds?sc=dwhn)
-- [Show HN: Exatorrent – Self-hostable Torrent client written in Go](https://github.com/varbhat/exatorrent)
+- [BoldVoice (YC S21) – Accent Coaching App – Is Hiring Full Stack Engineer](https://www.ycombinator.com/companies/boldvoice/jobs/BSms6T6-full-stack-engineer-react-native-node-js)
+- [‘Building back badly’: Global power sector emissions soar](https://ember-climate.org/project/global-electricity-review-h1-2021/)
+- [Vulnerability in Bumble dating app reveals any user's exact location](https://robertheaton.com/bumble-vulnerability/)
+- [Do vision transformers see like convolutional neural networks?](https://arxiv.org/abs/2108.08810)
+- [Stop that It’s not Tourette’s but a new type of mass sociogenic illness](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awab316/6356504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
