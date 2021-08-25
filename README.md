@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OnlyFans suspends plan to ban “sexually explicit” content](https://www.axios.com/onlyfans-cancels-sexually-explicit-content-ban-172203d1-e505-4089-9b56-d2b225aef82e.html)
+- [Show HN: Exatorrent – Self-hostable Torrent client written in Go](https://github.com/varbhat/exatorrent)
+- [Show HN: WebCrate – an open source, social and self-hosted bookmarking tool](https://webcrate.app)
+- [OnlyFans suspends plan to ban "sexually explicit" content after outcry](https://www.axios.com/onlyfans-cancels-sexually-explicit-content-ban-172203d1-e505-4089-9b56-d2b225aef82e.html)
 - [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
-- [OnlyFans Drops Planned Porn Ban](https://variety.com/2021/digital/news/onlyfans-drops-porn-ban-sexually-explicit-policy-1235048705/)
 - [Launch HN: Litnerd (YC S21) – Sesame Street Inspired Reading Program for Schools](https://news.ycombinator.com/item?id=28300640)
-- [The Science of Underground Kingdoms](https://www.caltech.edu/about/news/the-science-of-underground-kingdoms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
