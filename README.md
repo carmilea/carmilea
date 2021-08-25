@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: 59a34eabe31910abfb06f308 NeuralHash Collision Demo](https://thishashcollisionisnotporn.com)
-- [Launch HN: Evidence (YC S21) – Web framework for data analysts](https://news.ycombinator.com/item?id=28304781)
-- [BoldVoice (YC S21) – Accent Coaching App – Is Hiring Full Stack Engineer](https://www.ycombinator.com/companies/boldvoice/jobs/BSms6T6-full-stack-engineer-react-native-node-js)
-- [Vulnerability in Bumble dating app reveals any user's exact location](https://robertheaton.com/bumble-vulnerability/)
-- [Do vision transformers see like convolutional neural networks?](https://arxiv.org/abs/2108.08810)
+- [Happy birthday – 30 years of Linux – Ubuntu](https://ubuntu.com/blog/happy-birthday-30-years-of-linux)
+- [Mind-Bending Perceptual Illusions (2018)](https://nautil.us/blog/12-mind_bending-perceptual-illusions)
+- [Bashly – Create beautiful bash scripts from simple YAML configuration](https://github.com/DannyBen/bashly)
+- [Show HN: 59a34eabe31910abfb06f308 – NeuralHash Collision Demo](https://thishashcollisionisnotporn.com)
+- [Surveillance of the Internet Backbone](https://www.schneier.com/blog/archives/2021/08/surveillance-of-the-internet-backbone.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
