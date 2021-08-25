@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Litnerd (YC S21) – Sesame Street Inspired Reading Program for Schools](https://news.ycombinator.com/item?id=28300640)
+- [The Science of Underground Kingdoms](https://www.caltech.edu/about/news/the-science-of-underground-kingdoms)
+- [Stacker (YC S20) is hiring all roles (Remote in European timezones)](https://stackerhq.com/careers)
+- [Human Rights Are Not a Bug](https://labs.ripe.net/author/niels-ten-oever/human-rights-are-not-a-bug/)
 - [U.S. drone pilot leaks footage reveals accidental killing of children and adults](https://eminetra.co.uk/u-s-drone-pilot-leaks-footage-reveals-accidental-killing-of-two-children-and-two-adults-in-afghanistan/663346/)
-- [S.Korea parliament committee votes to curb Google, Apple commission dominance](https://www.reuters.com/technology/skorea-parliament-committee-votes-curb-google-apple-commission-dominance-2021-08-25/)
-- [Turing Pi V2 is here](https://turingpi.com/turing-pi-v2-is-here/)
-- [A catalog of naturally occurring images whose Apple NeuralHash is identical](https://github.com/roboflow-ai/neuralhash-collisions)
-- [Ask HN: Companies of one, what is your tech stack?](https://news.ycombinator.com/item?id=28299053)
 <!-- BLOG-POST-LIST:END -->
 
 ---
