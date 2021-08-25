@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Enso (YC S21) Is Hiring senior interpreter developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
 - [The leak that brought the H-bomb debate out of the cold](http://blog.nuclearsecrecy.com/2021/06/14/the-leak-that-brought-the-h-bomb-debate-out-of-the-cold/)
 - [The Principles Underlying Radio Communication](https://archive.org/details/principlesunderl00unitrich)
 - [Noam Chomsky – Startup Culture](https://www.youtube.com/watch?v=6jhwA1vLEpU)
 - [An Introduction to JQ](https://earthly.dev/blog/jq-select/)
-- [SQL vs. NoSQL Is the Wrong Distinction](https://www.softwareatscale.dev/p/sql-vs-nosql-is-the-wrong-distinction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
