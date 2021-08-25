@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy birthday – 30 years of Linux – Ubuntu](https://ubuntu.com/blog/happy-birthday-30-years-of-linux)
-- [Mind-Bending Perceptual Illusions (2018)](https://nautil.us/blog/12-mind_bending-perceptual-illusions)
-- [Bashly – Create beautiful bash scripts from simple YAML configuration](https://github.com/DannyBen/bashly)
-- [Show HN: 59a34eabe31910abfb06f308 – NeuralHash Collision Demo](https://thishashcollisionisnotporn.com)
-- [Surveillance of the Internet Backbone](https://www.schneier.com/blog/archives/2021/08/surveillance-of-the-internet-backbone.html)
+- [Smarking (YC W15) Is Hiring a Head of Engineering to Digitize $131B Parking](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Burning Out and Quitting](https://mayakaczorowski.com/blogs/burnout)
+- [Responsibly recycle your used Dell and non-Dell equipment for free](https://recycling.dell.com/)
+- [An analysis of Amazon Echo's network behavior](https://arxiv.org/abs/2105.13500)
+- [Jsc: My New Best Friend](https://furbo.org/2021/08/25/jsc-my-new-best-friend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
