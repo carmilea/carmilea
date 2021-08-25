@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OnlyFans suspends plan to ban “sexually explicit” content](https://www.axios.com/onlyfans-cancels-sexually-explicit-content-ban-172203d1-e505-4089-9b56-d2b225aef82e.html)
+- [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+- [OnlyFans Drops Planned Porn Ban](https://variety.com/2021/digital/news/onlyfans-drops-porn-ban-sexually-explicit-policy-1235048705/)
 - [Launch HN: Litnerd (YC S21) – Sesame Street Inspired Reading Program for Schools](https://news.ycombinator.com/item?id=28300640)
 - [The Science of Underground Kingdoms](https://www.caltech.edu/about/news/the-science-of-underground-kingdoms)
-- [Stacker (YC S20) is hiring all roles (Remote in European timezones)](https://stackerhq.com/careers)
-- [Human Rights Are Not a Bug](https://labs.ripe.net/author/niels-ten-oever/human-rights-are-not-a-bug/)
-- [U.S. drone pilot leaks footage reveals accidental killing of children and adults](https://eminetra.co.uk/u-s-drone-pilot-leaks-footage-reveals-accidental-killing-of-two-children-and-two-adults-in-afghanistan/663346/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
