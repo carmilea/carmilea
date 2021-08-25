@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity [pdf]](https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1.full.pdf)
+- [Mass extinction pulses driven by major marine carbon cycle perturbations (2020)](https://www.nature.com/articles/s41561-020-00646-4)
+- [Man Robbed of 16 Bitcoin Sues Young Thieves’ Parents](https://krebsonsecurity.com/2021/08/man-robbed-of-16-bitcoin-sues-young-thieves-parents/)
+- [Google is committing $10B to advance cybersecurity](https://blog.google/technology/safety-security/why-were-committing-10-billion-to-advance-cybersecurity/)
 - [Smarking (YC W15) Is Hiring a Head of Engineering to Digitize $131B Parking](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - [Burning Out and Quitting](https://mayakaczorowski.com/blogs/burnout)
-- [Responsibly recycle your used Dell and non-Dell equipment for free](https://recycling.dell.com/)
-- [K/V Benchmark: PostgreSQL vs. Redis vs. Memcached](https://www.cybertec-postgresql.com/en/postgresql-vs-redis-vs-memcached-performance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
