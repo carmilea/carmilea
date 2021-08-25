@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hire for the Ability to Get Shit Done (2011)](http://blog.eladgil.com/2011/09/hire-for-ability-to-get-shit-done.html)
-- [Two perspectives on the designer who Steve Jobs could not hire](https://www.arun.is/blog/richard-sapper/)
+- [Waymo has no viable business model](https://provscons.com/why-will-waymo-fail/)
+- [Jeff Varasano's NY Pizza Recipe (2008)](http://www.varasanos.com/pizzarecipe.htm)
+- [QEMU Version 6.1.0 Released](https://www.qemu.org/2021/08/24/qemu-6-1-0/)
+- [Two perspectives on a designer who Steve Jobs could not hire](https://www.arun.is/blog/richard-sapper/)
 - [The Case for a Shorter Workweek](https://www.bbc.com/worklife/article/20210819-the-case-for-a-shorter-workweek)
-- [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
-- [Volley (YC W18) is the fast growing “Netflix of Voice” / Hiring 12 roles in SF](https://jobs.lever.co/volleythat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
