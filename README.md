@@ -54,8 +54,8 @@
 - [The Principles Underlying Radio Communication](https://archive.org/details/principlesunderl00unitrich)
 - [Noam Chomsky – Startup Culture](https://www.youtube.com/watch?v=6jhwA1vLEpU)
 - [An Introduction to JQ](https://earthly.dev/blog/jq-select/)
-- [Airbnb offers free accommodation for 20k Afghan refugees](https://www.bbc.com/news/business-58315378)
 - [SQL vs. NoSQL Is the Wrong Distinction](https://www.softwareatscale.dev/p/sql-vs-nosql-is-the-wrong-distinction)
+- [The Search for a Free/Open Source Mobile Operating System](https://blog.emacsen.net/blog/2021/08/23/floss-mobile-os-aug-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
