@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Almost all of the top subreddits are moderated by the same people](https://www.reddit.com/r/ThatsInsane/comments/pbloje/almost_all_of_the_top_subreddits_are_moderated_by/)
+- [A simple string handling library for Microsoft Fortran-80](https://github.com/ratboy666/string)
 - [Toshiba reports milestone in quantum cryptography](https://www3.nhk.or.jp/nhkworld/en/news/20210826_10/)
 - [There is no such thing as a “glibc based alpine image”](https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/)
 - [Google to pay Apple $15B to remain default Safari search engine in 2021](https://9to5mac.com/2021/08/25/analysts-google-to-pay-apple-15-billion-to-remain-default-safari-search-engine-in-2021/)
-- [‘Extraordinary’ hacking powers pass Australian Parliament](https://www.innovationaus.com/extraordinary-new-hacking-powers-pass-parliament/)
-- [Raycast (YC W20) Is Hiring macOS and React Engineers to Make Teams More Productive](https://www.raycast.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
