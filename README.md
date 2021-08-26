@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Great Question (YC W21) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=28317509)
-- [Google has killed Discord's best music bot](https://www.pcgamer.com/google-has-killed-discords-best-music-bot/)
-- [Portal Windows for Electron](https://blog.tandem.chat/portal-windows/)
-- [FBI Palantir glitch allowed unauthorized access to private data](https://nypost.com/2021/08/25/fbi-palantir-glitch-allowed-unauthorized-access-to-private-data/)
-- [An Illustrated Guide to Post-Orwellian Censorship](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-post-orwellian-censorship/)
+- [High Performance Correctly Rounded Math Libraries for 32-Bit Floating Point](https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libraries-for-32-bit-floating-point-representations/)
+- [Simple Tips for Overcoming Procrastination](https://meetmaya.world/4-simple-tips-of-overcoming-procrastination/)
+- [PureOS – a pure Linux phone experience](https://puri.sm/products/librem-5/pureos-mobile/)
+- [Immunity Generated from Covid-19 Vaccines Differs from an Infection](https://directorsblog.nih.gov/2021/06/22/how-immunity-generated-from-covid-19-vaccines-differs-from-an-infection/)
+- [Fixing under-engineered code vs. fixing over-engineered code](https://github.com/Dobiasd/articles/blob/master/fixing_underengineered_code_vs_fixing_overengineered_code.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
