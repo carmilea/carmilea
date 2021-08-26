@@ -55,7 +55,7 @@
 - [The Muse (YC W12) Is Hiring a Senior Growth/Front End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer)
 - [I switched from macOS to Linux after 15 years of Apple](https://markosaric.com/linux/)
 - [Show HN: With a 9-5 job and 2 kids I have finally finished my first MVP](https://news.ycombinator.com/item?id=28320346)
-- [Yt-dlp – A YouTube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
+- [Nauka's Troubled Flight–Before It Tumbled the ISS](https://spectrum.ieee.org/naukas-troubled-flight-t)
 <!-- BLOG-POST-LIST:END -->
 
 ---
