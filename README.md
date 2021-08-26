@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Co-Founder and Former CEO of Headspin Charged with Fraud](https://www.justice.gov/usao-ndca/pr/co-founder-and-former-ceo-palo-alto-based-start-technology-company-headspin-charged)
 - [The Mathematics of 2048: Optimal Play with Markov Decision Processes](https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html)
+- [ONE MILLION! (2011)](https://blog.whatsapp.com/on-e-millio-n)
+- [Free Machine Learning crash course from Google](https://developers.google.com/machine-learning/crash-course/)
 - [Canistilluse.com](https://blog.jim-nielsen.com/2021/canistilluse.com/)
-- [The All-Seeing “i”: Apple Just Declared War on Your Privacy](https://edwardsnowden.substack.com/p/all-seeing-i)
-- [The Chief People Officer as PM: Rethinking Systems and Tools](https://review.firstround.com/the-chief-people-officer-as-pm:-rethinking-the-systems-and-tools-that-run-the-company)
-- [Thousands of Debian packages updated from their upstream Git repository](https://www.jelmer.uk/fresh-builds.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
