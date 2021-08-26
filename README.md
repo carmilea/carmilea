@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing a simple JSON library from scratch: a tour through modern C++](https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html)
 - [The Muse (YC W12) Is Hiring a Senior Growth/Front End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer)
 - [I switched from macOS to Linux after 15 years of Apple](https://markosaric.com/linux/)
 - [Show HN: With a 9-5 job and 2 kids I have finally finished my first MVP](https://news.ycombinator.com/item?id=28320346)
 - [Yt-dlp – A YouTube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
-- [More and more humans are growing an extra artery, showing we're still evolving](https://www.sciencealert.com/more-humans-are-growing-an-extra-artery-in-our-arms-because-we-re-still-evolving)
 <!-- BLOG-POST-LIST:END -->
 
 ---
