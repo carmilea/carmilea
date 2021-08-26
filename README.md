@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung punishes Galaxy Fold 3 modders by disabling their cameras](https://arstechnica.com/gadgets/2021/08/samsung-punishes-galaxy-fold-3-modders-by-disabling-their-cameras/)
+- [Federal government to expand use of facial recognition despite growing concerns](https://www.washingtonpost.com/technology/2021/08/25/federal-facial-recognition-expansion/)
+- [mRNA vaccine trial for Lyme disease](https://www.pfizer.com/news/press-release/press-release-detail/valneva-and-pfizer-announce-initiation-phase-2-study-lyme)
+- [Hospitalizations hit 100k in United States for first time since January](https://www.washingtonpost.com/nation/2021/08/26/covid-delta-variant-live-updates/)
 - [Almost all of the top subreddits are moderated by the same people](https://www.reddit.com/r/ThatsInsane/comments/pbloje/almost_all_of_the_top_subreddits_are_moderated_by/)
-- [A simple string handling library for Microsoft Fortran-80](https://github.com/ratboy666/string)
-- [Toshiba reports milestone in quantum cryptography](https://www3.nhk.or.jp/nhkworld/en/news/20210826_10/)
-- [There is no such thing as a “glibc based alpine image”](https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/)
-- [Google to pay Apple $15B to remain default Safari search engine in 2021](https://9to5mac.com/2021/08/25/analysts-google-to-pay-apple-15-billion-to-remain-default-safari-search-engine-in-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
