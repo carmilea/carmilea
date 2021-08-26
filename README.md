@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toshiba reports milestone in quantum cryptography](https://www3.nhk.or.jp/nhkworld/en/news/20210826_10/)
+- [Google to pay Apple $15B to remain default Safari search engine in 2021](https://9to5mac.com/2021/08/25/analysts-google-to-pay-apple-15-billion-to-remain-default-safari-search-engine-in-2021/)
+- [‘Extraordinary’ hacking powers pass Australian Parliament](https://www.innovationaus.com/extraordinary-new-hacking-powers-pass-parliament/)
 - [Raycast (YC W20) Is Hiring macOS and React Engineers to Make Teams More Productive](https://www.raycast.com/jobs)
 - [The Mathematics of 2048: Optimal Play with Markov Decision Processes (2018)](https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html)
-- [Canistilluse.com](https://blog.jim-nielsen.com/2021/canistilluse.com/)
-- [The All-Seeing “i”: Apple Just Declared War on Your Privacy](https://edwardsnowden.substack.com/p/all-seeing-i)
-- [The Chief People Officer as PM: Rethinking Systems and Tools](https://review.firstround.com/the-chief-people-officer-as-pm:-rethinking-the-systems-and-tools-that-run-the-company)
 <!-- BLOG-POST-LIST:END -->
 
 ---
