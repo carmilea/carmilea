@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Work Hard (By Terence Tao)](https://terrytao.wordpress.com/career-advice/work-hard/)
-- [My Tungsten Cube](https://thume.ca/2019/03/03/my-tungsten-cube/)
-- [Seeking Early Signals of Dementia in Driving and Credit Scores](https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html)
-- [High Performance Correctly Rounded Math Libraries for 32-Bit Floating Point](https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libraries-for-32-bit-floating-point-representations/)
-- [Simple Tips for Overcoming Procrastination](https://meetmaya.world/4-simple-tips-of-overcoming-procrastination/)
+- [Yt-dlp – A YouTube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
+- [More and more humans are growing an extra artery, showing we're still evolving](https://www.sciencealert.com/more-humans-are-growing-an-extra-artery-in-our-arms-because-we-re-still-evolving)
+- [Work Hard (2007)](https://terrytao.wordpress.com/career-advice/work-hard/)
+- [My Tungsten Cube (2019)](https://thume.ca/2019/03/03/my-tungsten-cube/)
+- [Seeking early signals of dementia in driving and credit scores](https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
