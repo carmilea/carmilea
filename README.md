@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Work Hard (By Terence Tao)](https://terrytao.wordpress.com/career-advice/work-hard/)
+- [My Tungsten Cube](https://thume.ca/2019/03/03/my-tungsten-cube/)
+- [Seeking Early Signals of Dementia in Driving and Credit Scores](https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html)
 - [High Performance Correctly Rounded Math Libraries for 32-Bit Floating Point](https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libraries-for-32-bit-floating-point-representations/)
 - [Simple Tips for Overcoming Procrastination](https://meetmaya.world/4-simple-tips-of-overcoming-procrastination/)
-- [PureOS – a pure Linux phone experience](https://puri.sm/products/librem-5/pureos-mobile/)
-- [Immunity Generated from Covid-19 Vaccines Differs from an Infection](https://directorsblog.nih.gov/2021/06/22/how-immunity-generated-from-covid-19-vaccines-differs-from-an-infection/)
-- [Fixing under-engineered code vs. fixing over-engineered code](https://github.com/Dobiasd/articles/blob/master/fixing_underengineered_code_vs_fixing_overengineered_code.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
