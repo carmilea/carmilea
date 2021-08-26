@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse (YC W12) Is Hiring a Senior Growth/Front End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer)
+- [I switched from macOS to Linux after 15 years of Apple](https://markosaric.com/linux/)
+- [Show HN: With a 9-5 job and 2 kids I have finally finished my first MVP](https://news.ycombinator.com/item?id=28320346)
 - [Yt-dlp – A YouTube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
 - [More and more humans are growing an extra artery, showing we're still evolving](https://www.sciencealert.com/more-humans-are-growing-an-extra-artery-in-our-arms-because-we-re-still-evolving)
-- [Work Hard (2007)](https://terrytao.wordpress.com/career-advice/work-hard/)
-- [My Tungsten Cube (2019)](https://thume.ca/2019/03/03/my-tungsten-cube/)
-- [Seeking early signals of dementia in driving and credit scores](https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
