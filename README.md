@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Great Question (YC W21) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=28317509)
+- [Google has killed Discord's best music bot](https://www.pcgamer.com/google-has-killed-discords-best-music-bot/)
+- [Portal Windows for Electron](https://blog.tandem.chat/portal-windows/)
 - [FBI Palantir glitch allowed unauthorized access to private data](https://nypost.com/2021/08/25/fbi-palantir-glitch-allowed-unauthorized-access-to-private-data/)
-- [LimeSDR](https://limemicro.com/products/boards/limesdr/)
-- [Why Are Hyperlinks Blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
-- [Cloud pricing comparison: AWS vs. Azure vs. Google Cloud in 2021](https://cast.ai/blog/ultimate-cloud-pricing-comparison-aws-vs-azure-vs-google-cloud-in-2021/)
-- [Launch YC S21: Meet the Batch, Thread #9](https://news.ycombinator.com/item?id=28315042)
+- [An Illustrated Guide to Post-Orwellian Censorship](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-post-orwellian-censorship/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
