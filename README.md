@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The All-Seeing “i”: Apple Just Declared War on Your Privacy](https://edwardsnowden.substack.com/p/all-seeing-i)
 - [The Chief People Officer as PM: Rethinking Systems and Tools](https://review.firstround.com/the-chief-people-officer-as-pm:-rethinking-the-systems-and-tools-that-run-the-company)
-- [The Dream of Carbon Air Capture Edges Toward Reality](https://e360.yale.edu/features/the-dream-of-co2-air-capture-edges-toward-reality)
+- [The dream of carbon air capture edges toward reality](https://e360.yale.edu/features/the-dream-of-co2-air-capture-edges-toward-reality)
 - [Thousands of Debian packages updated from their upstream Git repository](https://www.jelmer.uk/fresh-builds.html)
 - [Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity [pdf]](https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1.full.pdf)
-- [Smarking (YC W15) is hiring a head of engineering to help digitize parking](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 <!-- BLOG-POST-LIST:END -->
 
 ---
