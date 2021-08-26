@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch YC S21: Meet the Batch, Thread #9](https://news.ycombinator.com/item?id=28315042)
+- [Adding Optimistic Locking to an API](https://www.moderntreasury.com/journal/designing-ledgers-with-optimistic-locking)
+- [Rent control isn’t working in Sweden](https://www.bbc.com/news/business-58317555)
 - [Silent changes to Western Digital’s budget SSD may lower speeds by up to 50%](https://arstechnica.com/gadgets/2021/08/silent-changes-to-western-digitals-budget-ssd-may-lower-speeds-by-up-to-50/)
 - [Heroic Labs (YC S15) Is Hiring a Lead Web Engineer](https://www.ycombinator.com/companies/heroic-labs/jobs/cCzMNxe-lead-web-engineer)
-- [Sailfish 4](https://sailfishos.org/)
-- [TSMC hikes chip prices up to 20% amid supply shortage](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-hikes-chip-prices-up-to-20-amid-supply-shortage)
-- [UK to overhaul privacy rules in post-Brexit departure from GDPR](https://www.theguardian.com/technology/2021/aug/26/uk-to-overhaul-privacy-rules-in-post-brexit-departure-from-gdpr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
