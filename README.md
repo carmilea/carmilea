@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Silent changes to Western Digital’s budget SSD may lower speeds by up to 50%](https://arstechnica.com/gadgets/2021/08/silent-changes-to-western-digitals-budget-ssd-may-lower-speeds-by-up-to-50/)
 - [Heroic Labs (YC S15) Is Hiring a Lead Web Engineer](https://www.ycombinator.com/companies/heroic-labs/jobs/cCzMNxe-lead-web-engineer)
+- [Sailfish 4](https://sailfishos.org/)
 - [TSMC hikes chip prices up to 20% amid supply shortage](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-hikes-chip-prices-up-to-20-amid-supply-shortage)
 - [UK to overhaul privacy rules in post-Brexit departure from GDPR](https://www.theguardian.com/technology/2021/aug/26/uk-to-overhaul-privacy-rules-in-post-brexit-departure-from-gdpr)
-- [Federal government to expand use of facial recognition despite growing concerns](https://www.washingtonpost.com/technology/2021/08/25/federal-facial-recognition-expansion/)
-- [mRNA vaccine trial for Lyme disease](https://www.pfizer.com/news/press-release/press-release-detail/valneva-and-pfizer-announce-initiation-phase-2-study-lyme)
 <!-- BLOG-POST-LIST:END -->
 
 ---
