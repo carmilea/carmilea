@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The hard men removing squatters in Spain](https://www.bbc.com/news/stories-58310532)
+- [FBI Palantir glitch allowed unauthorized access to private data](https://nypost.com/2021/08/25/fbi-palantir-glitch-allowed-unauthorized-access-to-private-data/)
+- [LimeSDR](https://limemicro.com/products/boards/limesdr/)
+- [Why Are Hyperlinks Blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
+- [Cloud pricing comparison: AWS vs. Azure vs. Google Cloud in 2021](https://cast.ai/blog/ultimate-cloud-pricing-comparison-aws-vs-azure-vs-google-cloud-in-2021/)
 - [Launch YC S21: Meet the Batch, Thread #9](https://news.ycombinator.com/item?id=28315042)
-- [T-Mobile Hacker Who Stole Data on 50M Customers: ‘Their Security Is Awful’](https://www.wsj.com/articles/t-mobile-hacker-who-stole-data-on-50-million-customers-their-security-is-awful-11629985105)
-- [Adding Optimistic Locking to an API](https://www.moderntreasury.com/journal/designing-ledgers-with-optimistic-locking)
-- [Rent control isn’t working in Sweden](https://www.bbc.com/news/business-58317555)
 <!-- BLOG-POST-LIST:END -->
 
 ---
