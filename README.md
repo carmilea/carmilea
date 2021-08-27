@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why San Francisco’s city government is so dysfunctional](https://www.economist.com/united-states/2021/08/28/why-san-franciscos-city-government-is-so-dysfunctional)
+- [An error message if you put more than 2^24 items in a JS Map object](https://searchvoidstar.tumblr.com/post/659634228574715904/an-amazing-error-message-if-you-put-more-than-2-24)
 - [Human Dx is hiring part-time community/growth team members](https://www.humandx.org/team?gh_jid=4859261002)
 - [Sad Little Men: Assessing the impact of an elite education](https://www.economist.com/books-and-arts/2021/08/28/britains-private-schools-are-lambasted-in-richard-beards-book)
-- [The Evolution of Smalltalk from Smalltalk-72 to Squeak, by Daniel Ingalls, 2021](https://www.pldi21.org/prerecorded_hopl.17.html)
-- [LED Light Spectrum Enhancement with Transparent Pigmented Glazes (2016)](https://www.led-professional.com/resources-1/articles/led-light-spectrum-enhancement-with-transparent-pigmented-glazes-by-light-spectrum-glazes)
-- [Buoyant wants to solve middle-mile delivery with cargo airships](https://techcrunch.com/2021/08/27/yc-grad-buoyant-wants-to-solve-middle-mile-delivery-with-cargo-airships/)
+- [The Evolution of Smalltalk from Smalltalk-72 to Squeak [video]](https://www.pldi21.org/prerecorded_hopl.17.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
