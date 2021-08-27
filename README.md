@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CookUnity fabricated an order with random items and charged my credit card](https://sillycross.github.io/assets/cookunity-rants.html)
+- [Bash Hacker's Illustrated File Redirection Tutorial](https://wiki.bash-hackers.org/howto/redirection_tutorial)
 - [Apple will let developers accept payment outside App Store](https://www.washingtonpost.com/technology/2021/08/26/apple-app-store-payment-settlement/)
 - [SnakeOS: Bootable x86 snake game in Rust](https://github.com/trusch/snakeos)
 - [100 Salesforce employees work in its 61-story HQ](https://www.sfexaminer.com/news/how-sf-tech-giants-are-navigating-a-successful-return-to-the-office/)
