@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [UK loses 83% of department stores since BHS collapsed](https://www.bbc.com/news/business-58331168)
+- [Five Ansible Techniques I Wish I’d Known Earlier](https://zwischenzugs.com/2021/08/27/five-ansible-techniques-i-wish-id-known-earlier/)
+- [Apple’s $100M settlement agreement changes a key App Store rule for devs](https://www.theverge.com/2021/8/26/22643807/apple-developer-class-action-lawsuit-collect-information-ios-apps-anti-steering)
 - [Launch HN: Hotswap (YC S21) – Easily migrate customers away from competitors](https://news.ycombinator.com/item?id=28327660)
 - [Having SARS-CoV-2 once confers much greater immunity than a vaccine](https://www.sciencemag.org/news/2021/08/having-sars-cov-2-once-confers-much-greater-immunity-vaccine-no-infection-parties)
-- [Fundamental physics sees worlds in grains of sand and infinities in hours](https://www.economist.com/leaders/2021/08/28/fundamental-physics-is-humanitys-most-extraordinary-achievement)
-- [Researchers Ready Lab-Grown Delta for Human Trials](https://www.wsj.com/articles/researchers-ready-lab-grown-covid-19-delta-variant-for-human-trials-11630053797)
+- [Power users mourn features lost in Windows 11 'simplification'](https://www.theregister.com/2021/08/26/windows_11_user_feedback/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
