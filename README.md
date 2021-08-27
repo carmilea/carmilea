@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Evolution of Smalltalk from Smalltalk-72 to Squeak, by Daniel Ingalls, 2021](https://www.pldi21.org/prerecorded_hopl.17.html)
+- [LED Light Spectrum Enhancement with Transparent Pigmented Glazes (2016)](https://www.led-professional.com/resources-1/articles/led-light-spectrum-enhancement-with-transparent-pigmented-glazes-by-light-spectrum-glazes)
+- [Buoyant wants to solve middle-mile delivery with cargo airships](https://techcrunch.com/2021/08/27/yc-grad-buoyant-wants-to-solve-middle-mile-delivery-with-cargo-airships/)
 - [When Do Investors Freak Out? Machine Learning Predictions of Panic Selling [pdf]](https://poseidon01.ssrn.com/delivery.php?ID=271115095026087012004098001108106006017000060055059029121029112023088077096031119125100029055040112124009075016079123071120103119082082087053120022023118001080067018048118087123006081016028097113126006080089092084009084124127019000127065111081086&EXT=pdf&INDEX=TRUE)
 - [Brussels battles old prejudices as it frees unloved river from its vault](https://www.theguardian.com/world/2021/aug/27/brussels-battles-old-prejudices-as-it-frees-unloved-river-senne-from-its-vault)
-- [40M People Rely on the Colorado River. It’s Drying Up Fast](https://www.nytimes.com/2021/08/27/sunday-review/colorado-river-drying-up.html)
-- [Database internals are becoming less important than developer experience](https://planetscale.com/blog/nonesql-all-the-devex)
-- [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
