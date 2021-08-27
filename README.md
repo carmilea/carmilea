@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Supreme Court ends CDC's pandemic residential eviction moratorium](https://www.reuters.com/world/us/us-supreme-court-ends-federal-residential-eviction-moratorium-2021-08-27/)
+- [Quit Genius (YC) is hiring software engineers to help people overcome addiction](https://jobs.lever.co/quitgenius/c0ecc630-9899-4249-99a2-8a2e23a336c6)
+- [Michael Lewis and the parable of the lucky man taking the extra cookie (2017)](http://kottke.org/17/06/michael-lewis-and-the-parable-of-the-lucky-man-taking-the-extra-cookie)
+- [OpenShot 2.6.0 Released – AI and Computer Vision and Audio Effects](https://www.openshot.org/blog/2021/08/25/new_openshot_release_260/)
 - [Where did this interaction come from? – a brief history of interaction design](https://uxdesign.cc/where-did-this-interaction-come-from-a-brief-history-of-interaction-design-ebcc8c278ae7)
 - [Bash Hacker's Illustrated File Redirection Tutorial](https://wiki.bash-hackers.org/howto/redirection_tutorial)
-- [Apple will let developers accept payment outside App Store](https://www.washingtonpost.com/technology/2021/08/26/apple-app-store-payment-settlement/)
-- [SnakeOS: Bootable x86 snake game in Rust](https://github.com/trusch/snakeos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
