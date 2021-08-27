@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why San Francisco’s city government is so dysfunctional](https://www.economist.com/united-states/2021/08/28/why-san-franciscos-city-government-is-so-dysfunctional)
+- [Recent and not so recent changes in OpenBSD that make life better](https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html)
+- [The Semiconductor Heist of the Century](https://semianalysis.com/the-semiconductor-heist-of-the-century-arm-china-has-gone-completely-rogue-operating-as-an-independent-company-with-their-own-ip/)
+- [Proxmox VE 7.0 Released](https://forum.proxmox.com/threads/proxmox-ve-7-0-released.92006/)
 - [An error message if you put more than 2^24 items in a JS Map object](https://searchvoidstar.tumblr.com/post/659634228574715904/an-amazing-error-message-if-you-put-more-than-2-24)
 - [Human Dx is hiring part-time community/growth team members](https://www.humandx.org/team?gh_jid=4859261002)
-- [Sad Little Men: Assessing the impact of an elite education](https://www.economist.com/books-and-arts/2021/08/28/britains-private-schools-are-lambasted-in-richard-beards-book)
-- [The Evolution of Smalltalk from Smalltalk-72 to Squeak [video]](https://www.pldi21.org/prerecorded_hopl.17.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
