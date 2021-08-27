@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fundamental physics is humanity’s most extraordinary achievement](https://www.economist.com/leaders/2021/08/28/fundamental-physics-is-humanitys-most-extraordinary-achievement)
+- [UK loses 83% of department stores since BHS collapsed](https://www.bbc.com/news/business-58331168)
+- [Launch HN: Hotswap (YC S21) – Easily migrate customers away from competitors](https://news.ycombinator.com/item?id=28327660)
+- [Having SARS-CoV-2 once confers much greater immunity than a vaccine](https://www.sciencemag.org/news/2021/08/having-sars-cov-2-once-confers-much-greater-immunity-vaccine-no-infection-parties)
+- [Fundamental physics sees worlds in grains of sand and infinities in hours](https://www.economist.com/leaders/2021/08/28/fundamental-physics-is-humanitys-most-extraordinary-achievement)
 - [Researchers Ready Lab-Grown Delta for Human Trials](https://www.wsj.com/articles/researchers-ready-lab-grown-covid-19-delta-variant-for-human-trials-11630053797)
-- [Latency Sneaks Up on You](https://brooker.co.za/blog/2021/08/05/utilization.html)
-- [IPv4 vs. IPv6 FAQ](https://tailscale.com/kb/1134/ipv6-faq/)
-- [Slapdash (YC W19) is hiring engineers to build a Command Bar for work](https://slapdash.com/about)
 <!-- BLOG-POST-LIST:END -->
 
 ---
