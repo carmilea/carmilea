@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Five Ansible Techniques I Wish I’d Known Earlier](https://zwischenzugs.com/2021/08/27/five-ansible-techniques-i-wish-id-known-earlier/)
-- [Apple’s $100M settlement agreement changes a key App Store rule for devs](https://www.theverge.com/2021/8/26/22643807/apple-developer-class-action-lawsuit-collect-information-ios-apps-anti-steering)
-- [Launch HN: Hotswap (YC S21) – Easily migrate customers away from competitors](https://news.ycombinator.com/item?id=28327660)
-- [Having SARS-CoV-2 once confers much greater immunity than a vaccine](https://www.sciencemag.org/news/2021/08/having-sars-cov-2-once-confers-much-greater-immunity-vaccine-no-infection-parties)
-- [Power users mourn features lost in Windows 11 'simplification'](https://www.theregister.com/2021/08/26/windows_11_user_feedback/)
+- [Hurricane Ida could be close to Cat 4, dump up to 20“ of rain in S.E. Louisiana](https://www.nola.com/news/hurricane/article_a708d202-073b-11ec-9caa-0f909fa26fd7.html)
+- [Western Digital confirms speed crippling SN550 SSD flash change](https://www.bleepingcomputer.com/news/hardware/western-digital-confirms-speed-crippling-sn550-ssd-flash-change/)
+- [Samsung Is the Latest SSD Manufacturer Caught Cheating Its Customers](https://www.extremetech.com/computing/326377-samsung-is-the-latest-ssd-manufacturer-cheating-its-customers?source=flipboard)
+- [Police Shared Intelligence on Protesters with Pipeline Company](https://theintercept.com/2021/08/27/enbridge-line-3-pipeline-police-training-intelligence/)
+- [App Store Payments Will Have Increased Competition](https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
