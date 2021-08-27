@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fundamental physics is humanity’s most extraordinary achievement](https://www.economist.com/leaders/2021/08/28/fundamental-physics-is-humanitys-most-extraordinary-achievement)
+- [Researchers Ready Lab-Grown Delta for Human Trials](https://www.wsj.com/articles/researchers-ready-lab-grown-covid-19-delta-variant-for-human-trials-11630053797)
+- [Latency Sneaks Up on You](https://brooker.co.za/blog/2021/08/05/utilization.html)
+- [IPv4 vs. IPv6 FAQ](https://tailscale.com/kb/1134/ipv6-faq/)
 - [Slapdash (YC W19) is hiring engineers to build a Command Bar for work](https://slapdash.com/about)
-- [A Bad Solar Storm Could Cause an 'Internet Apocalypse'](https://www.wired.com/story/solar-storm-internet-apocalypse-undersea-cables/)
-- [IEEE 754 round-off errors](https://yurichev.com/news/20210131_IEEE_754/)
-- [Who Would Kidnap a Space Telescope?](https://www.theatlantic.com/science/archive/2021/03/nasa-james-webb-space-telescope-pirates/618268/)
-- [Twelve-year-old boy makes £290k from whale NFTs](https://www.bbc.com/news/technology-58343062)
 <!-- BLOG-POST-LIST:END -->
 
 ---
