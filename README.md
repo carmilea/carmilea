@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple chief executive Tim Cook gets $750m payout](https://www.bbc.com/news/business-58352098)
 - [Conversations on Quantum Gravity](https://www.math.columbia.edu/~woit/wordpress/?p=12458)
 - [Chinese authorities say overtime '996' policy is illegal](https://www.reuters.com/world/china/chinese-authorities-say-overtime-996-policy-is-illegal-2021-08-27/)
 - [Facebook “transparency report” turns out to be anything but](https://www.cjr.org/the_media_today/facebook-transparency-report-turns-out-to-be-anything-but.php)
 - [Quit Genius (YC) is hiring software engineers to help people overcome addiction](https://jobs.lever.co/quitgenius/c0ecc630-9899-4249-99a2-8a2e23a336c6)
-- [Michael Lewis and the parable of the lucky man taking the extra cookie (2017)](http://kottke.org/17/06/michael-lewis-and-the-parable-of-the-lucky-man-taking-the-extra-cookie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
