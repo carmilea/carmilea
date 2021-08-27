@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple will let developers accept payment outside App Store](https://www.washingtonpost.com/technology/2021/08/26/apple-app-store-payment-settlement/)
+- [SnakeOS: Bootable x86 snake game in Rust](https://github.com/trusch/snakeos)
 - [Apple agrees to settle potential class action suit by U.S. developers](https://www.axios.com/apple-settles-developer-class-action-c13bb308-daf3-4231-a399-ffd48b6b2c52.html)
 - [The QSBS Tax Exemption: A Valuable Benefit for Startup Founders and Builders](https://www.brownadvisory.com/us/theadvisory/qsbs-tax-exemption-valuable-benefit-startup-founders-and-builders)
 - [Using Computer Vision to Win at Duck Hunt](https://blog.roboflow.com/computer-vision-win-games-duck-hunt/)
-- [Microsoft warns thousands of cloud customers of exposed databases](https://www.reuters.com/technology/exclusive-microsoft-warns-thousands-cloud-customers-exposed-databases-emails-2021-08-26/)
-- [TL;DR Chrome Extension [DistilBART]](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
