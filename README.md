@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Database internals are becoming less important than developer experience](https://planetscale.com/blog/nonesql-all-the-devex)
 - [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
-- [Some Vermonters Turn to Ayahuasca as Last Resort to Heal Their Bodies and Minds](https://www.sevendaysvt.com/vermont/some-vermonters-turn-to-ayahuasca-as-a-last-resort-to-heal-their-bodies-and-minds/Content?oid=32812290)
 - [The Dresden Job](https://www.gq.com/story/the-dresden-job)
-- [One Week of Bugs](https://danluu.com/everything-is-broken/)
+- [One Week of Bugs (2014)](https://danluu.com/everything-is-broken/)
 - [The Semiconductor Heist of the Century – Arm China Has Gone Completely Rogue](https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century)
 <!-- BLOG-POST-LIST:END -->
 
