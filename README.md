@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Supreme Court ends CDC's pandemic residential eviction moratorium](https://www.reuters.com/world/us/us-supreme-court-ends-federal-residential-eviction-moratorium-2021-08-27/)
+- [Where did this interaction come from? – a brief history of interaction design](https://uxdesign.cc/where-did-this-interaction-come-from-a-brief-history-of-interaction-design-ebcc8c278ae7)
 - [Bash Hacker's Illustrated File Redirection Tutorial](https://wiki.bash-hackers.org/howto/redirection_tutorial)
 - [Apple will let developers accept payment outside App Store](https://www.washingtonpost.com/technology/2021/08/26/apple-app-store-payment-settlement/)
 - [SnakeOS: Bootable x86 snake game in Rust](https://github.com/trusch/snakeos)
-- [100 Salesforce employees work in its 61-story HQ](https://www.sfexaminer.com/news/how-sf-tech-giants-are-navigating-a-successful-return-to-the-office/)
-- [Apple agrees to settle potential class action suit by U.S. developers](https://www.axios.com/apple-settles-developer-class-action-c13bb308-daf3-4231-a399-ffd48b6b2c52.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
