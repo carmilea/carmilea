@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple chief executive Tim Cook gets $750m payout](https://www.bbc.com/news/business-58352098)
-- [Conversations on Quantum Gravity](https://www.math.columbia.edu/~woit/wordpress/?p=12458)
-- [Chinese authorities say overtime '996' policy is illegal](https://www.reuters.com/world/china/chinese-authorities-say-overtime-996-policy-is-illegal-2021-08-27/)
-- [Facebook “transparency report” turns out to be anything but](https://www.cjr.org/the_media_today/facebook-transparency-report-turns-out-to-be-anything-but.php)
-- [Quit Genius (YC) is hiring software engineers to help people overcome addiction](https://jobs.lever.co/quitgenius/c0ecc630-9899-4249-99a2-8a2e23a336c6)
+- [Slapdash (YC W19) is hiring engineers to build a Command Bar for work](https://slapdash.com/about)
+- [A Bad Solar Storm Could Cause an 'Internet Apocalypse'](https://www.wired.com/story/solar-storm-internet-apocalypse-undersea-cables/)
+- [IEEE 754 round-off errors](https://yurichev.com/news/20210131_IEEE_754/)
+- [Who Would Kidnap a Space Telescope?](https://www.theatlantic.com/science/archive/2021/03/nasa-james-webb-space-telescope-pirates/618268/)
+- [Twelve-year-old boy makes £290k from whale NFTs](https://www.bbc.com/news/technology-58343062)
 <!-- BLOG-POST-LIST:END -->
 
 ---
