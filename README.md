@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hurricane Ida could be close to Cat 4, dump up to 20“ of rain in S.E. Louisiana](https://www.nola.com/news/hurricane/article_a708d202-073b-11ec-9caa-0f909fa26fd7.html)
-- [Western Digital confirms speed crippling SN550 SSD flash change](https://www.bleepingcomputer.com/news/hardware/western-digital-confirms-speed-crippling-sn550-ssd-flash-change/)
-- [Samsung Is the Latest SSD Manufacturer Caught Cheating Its Customers](https://www.extremetech.com/computing/326377-samsung-is-the-latest-ssd-manufacturer-cheating-its-customers?source=flipboard)
-- [Police Shared Intelligence on Protesters with Pipeline Company](https://theintercept.com/2021/08/27/enbridge-line-3-pipeline-police-training-intelligence/)
-- [App Store Payments Will Have Increased Competition](https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/)
+- [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
+- [Some Vermonters Turn to Ayahuasca as Last Resort to Heal Their Bodies and Minds](https://www.sevendaysvt.com/vermont/some-vermonters-turn-to-ayahuasca-as-a-last-resort-to-heal-their-bodies-and-minds/Content?oid=32812290)
+- [The Dresden Job](https://www.gq.com/story/the-dresden-job)
+- [One Week of Bugs](https://danluu.com/everything-is-broken/)
+- [The Semiconductor Heist of the Century – Arm China Has Gone Completely Rogue](https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century)
 <!-- BLOG-POST-LIST:END -->
 
 ---
