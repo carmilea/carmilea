@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When Do Investors Freak Out? Machine Learning Predictions of Panic Selling [pdf]](https://poseidon01.ssrn.com/delivery.php?ID=271115095026087012004098001108106006017000060055059029121029112023088077096031119125100029055040112124009075016079123071120103119082082087053120022023118001080067018048118087123006081016028097113126006080089092084009084124127019000127065111081086&EXT=pdf&INDEX=TRUE)
+- [Brussels battles old prejudices as it frees unloved river from its vault](https://www.theguardian.com/world/2021/aug/27/brussels-battles-old-prejudices-as-it-frees-unloved-river-senne-from-its-vault)
+- [40M People Rely on the Colorado River. It’s Drying Up Fast](https://www.nytimes.com/2021/08/27/sunday-review/colorado-river-drying-up.html)
 - [Database internals are becoming less important than developer experience](https://planetscale.com/blog/nonesql-all-the-devex)
 - [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
-- [The Dresden Job](https://www.gq.com/story/the-dresden-job)
-- [One Week of Bugs (2014)](https://danluu.com/everything-is-broken/)
-- [The Semiconductor Heist of the Century – Arm China Has Gone Completely Rogue](https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century)
 <!-- BLOG-POST-LIST:END -->
 
 ---
