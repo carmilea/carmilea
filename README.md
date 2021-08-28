@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Infracost (YC W21) Is Hiring a Sr Software Engineer: Love Your Cloud Bills](https://www.ycombinator.com/companies/infracost/jobs/9fGDG72-senior-software-engineer)
+- [Morgan Stanley Just Reduced TSMC’s Value by $25B](https://semianalysis.substack.com/p/morgan-stanley-just-reduced-tsmcs)
+- [Infracost (YC W21) Is Hiring a Senior Software Engineer](https://www.ycombinator.com/companies/infracost/jobs/9fGDG72-senior-software-engineer)
 - [Climate change will alter where many crops are grown](https://www.economist.com/international/2021/08/28/climate-change-will-alter-where-many-crops-are-grown)
 - [Google: 'Reverse Warrants' Becoming Law Enforcement's Go-To Investigative Tool](https://www.techdirt.com/articles/20210821/10494847401/google-report-shows-reverse-warrants-are-swiftly-becoming-law-enforcements-go-to-investigative-tool.shtml)
-- [What’s it like to work at Big Tech](https://oilyraincloud.com/2021/08/13/whats-it-like-to-work-at-big-tech/)
 - [Chicago sues Grubhub and DoorDash for allegedly deceptive practices](https://chicago.eater.com/2021/8/27/22644787/chicago-grubhub-doordash-lawsuit-third-party-delivery)
 <!-- BLOG-POST-LIST:END -->
 
