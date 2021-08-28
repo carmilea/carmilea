@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Does feeding garden birds do more harm than good?](https://www.bbc.co.uk/news/science-environment-58346043)
 - [Weird Languages](http://paulgraham.com/weird.html)
 - [Ask HN: Is there a recruiter email blocklist somewhere?](https://news.ycombinator.com/item?id=28336742)
 - [Emacs Modernization: Simple Changes Emacs Should Adopt](http://ergoemacs.org/emacs/modernization.html)
 - [Brazil prisoners reading books to shorten their sentences](http://prison-off.com/brazil-prisoners-reading-books-to-shorten-their-sentences/?lang=en)
-- [Samsung seemingly caught swapping components in its 970 Evo Plus SSDs](https://arstechnica.com/gadgets/2021/08/samsung-seemingly-caught-swapping-components-in-its-970-evo-plus-ssds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
