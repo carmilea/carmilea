@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dover (YC S19) just raised $20m and is hiring for all roles](https://www.dover.com/careers)
+- [Dover (YC S19) is hiring for all roles](https://www.dover.com/careers)
 - [Nuclear scientists as assassination targets (2012)](https://journals.sagepub.com/doi/full/10.1177/0096340211433019)
 - [Apple’s new Private Relay is leaking your original address through WebRTC](https://www.reddit.com/r/privacy/comments/pd4y5m/apples_new_private_relay_is_leaking_your_original/)
-- [Sprint ICBM Missile Site price reduced](http://mobile.missilebaseforsale.com/)
+- [Missile Base for Sale](http://mobile.missilebaseforsale.com/)
 - [After 18 years, SCO's IBM litigation may be settled for $14.5M](https://news.slashdot.org/story/21/08/28/0237243/after-18-years-scos-ibm-litigation-may-be-settled-for-145-million)
 <!-- BLOG-POST-LIST:END -->
 
