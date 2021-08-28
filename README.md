@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Next-Gen Chips Will Be Powered from Below](https://spectrum.ieee.org/next-gen-chips-will-be-powered-from-below)
+- [In a patch of Arizona, everyone knows Waymo. But few use it](https://www.morningbrew.com/emerging-tech/stories/2021/08/23/patch-arizona-everyone-knows-waymo-use)
+- [Elizabeth Holmes to Accuse Ex-Boyfriend of Abuse at Trial](https://www.npr.org/2021/08/28/1031961327/elizabeth-holmes-theranos-trial-boyfriend-balwani-emotional-sexual-abuse)
 - [The real OnlyFans scandal is the unaccountable power of platforms and banks](https://www.theguardian.com/commentisfree/2021/aug/28/onlyfans-scandal-platforms-banks-ban-sexual-content-sex-workers)
 - [Porter (YC S20) Is Hiring Kubernetes Engineers](https://www.ycombinator.com/companies/porter/jobs/8Z7ZVWb-kubernetes-engineer)
-- [Does feeding garden birds do more harm than good?](https://www.bbc.co.uk/news/science-environment-58346043)
-- [Weird Languages](http://paulgraham.com/weird.html)
-- [Ask HN: Is there a recruiter email blocklist somewhere?](https://news.ycombinator.com/item?id=28336742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
