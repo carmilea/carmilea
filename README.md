@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPost (YC S13) is building the logistics platform for ecommerce](https://www.easypost.com/careers)
-- [Off-grid shower heated by compost](https://www.youtube.com/watch?v=xh_731DFSY0)
+- [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [FB messenger silently censoring links, claims they were sent](https://twitter.com/kylejohnmorris/status/1431714982782066688)
+- [Glenn Greenwald Speaks Truth to Reply Guys](https://nymag.com/intelligencer/2021/08/glenn-greenwald-speaks-truth-to-reply-guys.html)
+- [Rivian Files for IPO, Seeking About $80B Valuation](https://www.bloomberg.com/news/articles/2021-08-27/rivian-is-said-to-file-for-ipo-seek-about-80-billion-valuation)
 - [Apple can read your iMessages (even though they’re E2E encrypted)](https://old.reddit.com/r/privacy/comments/pcb3ej/a_timely_reminder_that_apple_can_read_your/)
-- [Life After White Collar Crime](https://www.newyorker.com/magazine/2021/08/30/life-after-white-collar-crime)
-- [Inductive Reasoning Aptitude](https://en.wikipedia.org/wiki/Inductive_reasoning_aptitude)
 <!-- BLOG-POST-LIST:END -->
 
 ---
