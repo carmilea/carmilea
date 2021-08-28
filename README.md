@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The real OnlyFans scandal is the unaccountable power of platforms and banks](https://www.theguardian.com/commentisfree/2021/aug/28/onlyfans-scandal-platforms-banks-ban-sexual-content-sex-workers)
+- [Porter (YC S20) Is Hiring Kubernetes Engineers](https://www.ycombinator.com/companies/porter/jobs/8Z7ZVWb-kubernetes-engineer)
 - [Does feeding garden birds do more harm than good?](https://www.bbc.co.uk/news/science-environment-58346043)
 - [Weird Languages](http://paulgraham.com/weird.html)
 - [Ask HN: Is there a recruiter email blocklist somewhere?](https://news.ycombinator.com/item?id=28336742)
-- [Emacs Modernization: Simple Changes Emacs Should Adopt](http://ergoemacs.org/emacs/modernization.html)
-- [Brazil prisoners reading books to shorten their sentences](http://prison-off.com/brazil-prisoners-reading-books-to-shorten-their-sentences/?lang=en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
