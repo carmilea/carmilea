@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple can read your iMessages (even though they’re E2E encrypted)](https://old.reddit.com/r/privacy/comments/pcb3ej/a_timely_reminder_that_apple_can_read_your/)
+- [Watch Windows 95 crash live as it exceeds 49.7 days uptime [livestream]](https://www.youtube.com/watch?v=tdrRoSdBM5M)
+- [Launch HN: Kalam Labs (YC S21) – Science games and live game streaming for kids](https://news.ycombinator.com/item?id=28339991)
+- [“He who pays the piper calls the tune”: Funders suppress health trial findings](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255704)
 - [Dover (YC S19) is hiring for all roles](https://www.dover.com/careers)
-- [Nuclear scientists as assassination targets (2012)](https://journals.sagepub.com/doi/full/10.1177/0096340211433019)
-- [Apple’s new Private Relay is leaking your original address through WebRTC](https://www.reddit.com/r/privacy/comments/pd4y5m/apples_new_private_relay_is_leaking_your_original/)
-- [Missile Base for Sale](http://mobile.missilebaseforsale.com/)
-- [After 18 years, SCO's IBM litigation may be settled for $14.5M](https://news.slashdot.org/story/21/08/28/0237243/after-18-years-scos-ibm-litigation-may-be-settled-for-145-million)
 <!-- BLOG-POST-LIST:END -->
 
 ---
