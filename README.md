@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Morgan Stanley Just Reduced TSMC’s Value by $25B](https://semianalysis.substack.com/p/morgan-stanley-just-reduced-tsmcs)
+- [Samsung seemingly caught swapping components in its 970 Evo Plus SSDs](https://arstechnica.com/gadgets/2021/08/samsung-seemingly-caught-swapping-components-in-its-970-evo-plus-ssds/)
+- [AT&T Archives: The Unix Operating System [video] (1982)](https://www.youtube.com/watch?v=tc4ROCJYbm0)
 - [Infracost (YC W21) Is Hiring a Senior Software Engineer](https://www.ycombinator.com/companies/infracost/jobs/9fGDG72-senior-software-engineer)
-- [Climate change will alter where many crops are grown](https://www.economist.com/international/2021/08/28/climate-change-will-alter-where-many-crops-are-grown)
-- [Google: 'Reverse Warrants' Becoming Law Enforcement's Go-To Investigative Tool](https://www.techdirt.com/articles/20210821/10494847401/google-report-shows-reverse-warrants-are-swiftly-becoming-law-enforcements-go-to-investigative-tool.shtml)
-- [Chicago sues Grubhub and DoorDash for allegedly deceptive practices](https://chicago.eater.com/2021/8/27/22644787/chicago-grubhub-doordash-lawsuit-third-party-delivery)
+- [Tupolev Tu-144: The Soviets' doomed rival to Concorde (2017)](https://edition.cnn.com/style/article/tupolev-tu-144-concordski/index.html)
+- [The cruel history of rum – and why we drink to forget it](https://www.newstatesman.com/culture/food-drink/2021/08/cruel-history-rum-and-why-we-drink-forget-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
