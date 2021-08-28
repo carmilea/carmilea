@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Woman ordered to pay $30K for defamation by BC Supreme Court for online review](https://www.cbc.ca/news/canada/british-columbia/woman-ordered-to-pay-30k-in-damages-for-negative-breast-implant-review-1.6156240)
-- [Chicago Sues Grubhub and DoorDash for Allegedly Scamming Basically Everyone](https://chicago.eater.com/2021/8/27/22644787/chicago-grubhub-doordash-lawsuit-third-party-delivery)
+- [Chicago sues Grubhub and DoorDash for allegedly deceptive practices](https://chicago.eater.com/2021/8/27/22644787/chicago-grubhub-doordash-lawsuit-third-party-delivery)
 - [I believe California is the dumping ground for America's homeless problem](https://streetlifesolutions.blogspot.com/2021/08/i-believe-california-is-dumping-ground.html)
 - [The Future of discord.py](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)
+- [Viral dynamics of SARS-CoV-2 variants in vaccinated and unvaccinated individuals](https://www.medrxiv.org/content/10.1101/2021.02.16.21251535v3)
 - [Recent and not so recent changes in OpenBSD](https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html)
 <!-- BLOG-POST-LIST:END -->
 
