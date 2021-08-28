@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Weird Languages](http://paulgraham.com/weird.html)
+- [Ask HN: Is there a recruiter email blocklist somewhere?](https://news.ycombinator.com/item?id=28336742)
+- [Emacs Modernization: Simple Changes Emacs Should Adopt](http://ergoemacs.org/emacs/modernization.html)
+- [Brazil prisoners reading books to shorten their sentences](http://prison-off.com/brazil-prisoners-reading-books-to-shorten-their-sentences/?lang=en)
 - [Samsung seemingly caught swapping components in its 970 Evo Plus SSDs](https://arstechnica.com/gadgets/2021/08/samsung-seemingly-caught-swapping-components-in-its-970-evo-plus-ssds/)
-- [AT&T Archives: The Unix Operating System [video] (1982)](https://www.youtube.com/watch?v=tc4ROCJYbm0)
-- [Infracost (YC W21) Is Hiring a Senior Software Engineer](https://www.ycombinator.com/companies/infracost/jobs/9fGDG72-senior-software-engineer)
-- [Tupolev Tu-144: The Soviets' doomed rival to Concorde (2017)](https://edition.cnn.com/style/article/tupolev-tu-144-concordski/index.html)
-- [The cruel history of rum – and why we drink to forget it](https://www.newstatesman.com/culture/food-drink/2021/08/cruel-history-rum-and-why-we-drink-forget-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
