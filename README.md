@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sprint ICBM Missile Site price reduced](http://mobile.missilebaseforsale.com/)
+- [After 18 years, SCO's IBM litigation may be settled for $14.5M](https://news.slashdot.org/story/21/08/28/0237243/after-18-years-scos-ibm-litigation-may-be-settled-for-145-million)
+- [NetBSD Booting on the Apple M1](https://twitter.com/jmcwhatever/status/1431575270436319235)
+- [Pocuter – A coin-sized micro computer with WiFi and BLE](https://www.kickstarter.com/projects/zepsch/pocuter)
 - [Tesla Packs 50B Transistors onto D1 Dojo Chip](https://www.tomshardware.com/news/tesla-d1-ai-chip)
-- [Repairs of San Francisco Skyscraper on Hold; Engineering Expert Blasts Plan](https://sanfrancisco.cbslocal.com/2021/08/27/repairs-sinking-san-francisco-skyscraper-on-hold-engineering-expert-blasts-plan/)
-- [Next-Gen Chips Will Be Powered from Below](https://spectrum.ieee.org/next-gen-chips-will-be-powered-from-below)
-- [In a patch of Arizona, everyone knows Waymo, but few use it](https://www.morningbrew.com/emerging-tech/stories/2021/08/23/patch-arizona-everyone-knows-waymo-use)
-- [EU agency advises against using search and browsing history for credit scores](https://therecord.media/eu-agency-advises-against-using-search-browsing-history-for-credit-scores/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
