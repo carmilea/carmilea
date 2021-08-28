@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Recent and not so recent changes in OpenBSD that make life better](https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html)
-- [The Semiconductor Heist of the Century](https://semianalysis.com/the-semiconductor-heist-of-the-century-arm-china-has-gone-completely-rogue-operating-as-an-independent-company-with-their-own-ip/)
+- [I believe California is the dumping ground for America's homeless problem](https://streetlifesolutions.blogspot.com/2021/08/i-believe-california-is-dumping-ground.html)
+- [The Future of discord.py](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)
+- [Viral dynamics of SARS-CoV-2 variants in vaccinated and unvaccinated individuals](https://www.medrxiv.org/content/10.1101/2021.02.16.21251535v3)
+- [Recent and not so recent changes in OpenBSD](https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html)
 - [Proxmox VE 7.0 Released](https://forum.proxmox.com/threads/proxmox-ve-7-0-released.92006/)
-- [An error message if you put more than 2^24 items in a JS Map object](https://searchvoidstar.tumblr.com/post/659634228574715904/an-amazing-error-message-if-you-put-more-than-2-24)
-- [Human Dx is hiring part-time community/growth team members](https://www.humandx.org/team?gh_jid=4859261002)
 <!-- BLOG-POST-LIST:END -->
 
 ---
