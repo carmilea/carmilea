@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost (YC S13) is building the logistics platform for ecommerce](https://www.easypost.com/careers)
+- [Off-grid shower heated by compost](https://www.youtube.com/watch?v=xh_731DFSY0)
 - [Apple can read your iMessages (even though they’re E2E encrypted)](https://old.reddit.com/r/privacy/comments/pcb3ej/a_timely_reminder_that_apple_can_read_your/)
-- [Microsoft is threatening to withhold Windows 11 updates if your CPU is old](https://www.theverge.com/2021/8/28/22646035/microsoft-windows-11-iso-workaround-no-update-guarantee)
 - [Life After White Collar Crime](https://www.newyorker.com/magazine/2021/08/30/life-after-white-collar-crime)
 - [Inductive Reasoning Aptitude](https://en.wikipedia.org/wiki/Inductive_reasoning_aptitude)
-- [LucidVR open source force feedback VR gloves](https://github.com/LucidVR/lucidgloves/releases/tag/Proto4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
