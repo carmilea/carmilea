@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Apple can read your iMessages (even though they’re E2E encrypted)](https://old.reddit.com/r/privacy/comments/pcb3ej/a_timely_reminder_that_apple_can_read_your/)
-- [Watch Windows 95 crash live as it exceeds 49.7 days uptime [livestream]](https://www.youtube.com/watch?v=tdrRoSdBM5M)
-- [Launch HN: Kalam Labs (YC S21) – Science games and live game streaming for kids](https://news.ycombinator.com/item?id=28339991)
-- [“He who pays the piper calls the tune”: Funders suppress health trial findings](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255704)
-- [Dover (YC S19) is hiring for all roles](https://www.dover.com/careers)
+- [Microsoft is threatening to withhold Windows 11 updates if your CPU is old](https://www.theverge.com/2021/8/28/22646035/microsoft-windows-11-iso-workaround-no-update-guarantee)
+- [Life After White Collar Crime](https://www.newyorker.com/magazine/2021/08/30/life-after-white-collar-crime)
+- [Inductive Reasoning Aptitude](https://en.wikipedia.org/wiki/Inductive_reasoning_aptitude)
+- [LucidVR open source force feedback VR gloves](https://github.com/LucidVR/lucidgloves/releases/tag/Proto4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
