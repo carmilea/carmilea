@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Our most dazzling self-taught students may find college admission difficult](https://www.washingtonpost.com/local/education/unconventional-path-to-college/2021/08/29/a8b2c1d6-05b9-11ec-a654-900a78538242_story.html)
+- [Colorado county's voting machines banned after security breach](https://www.npr.org/2021/08/12/1027225157/after-data-is-posted-on-conspiracy-website-colo-countys-voting-machines-are-bann)
+- [The New Chief Chaplain at Harvard? An Atheist](https://www.nytimes.com/2021/08/26/us/harvard-chaplain-greg-epstein.html)
 - [Sirum (YC W15) needs engineers to automate a pharmacy](https://boards.greenhouse.io/sirum)
-- [The Death of Behavioral Economics](https://www.thebehavioralscientist.com/articles/the-death-of-behavioral-economics)
-- [A bad solar storm could cause an “Internet apocalypse”](https://arstechnica.com/science/2021/08/a-bad-solar-storm-could-cause-an-internet-apocalypse/)
-- [Road safety: Europe’s roads are getting safer but progress remains too slow](https://ec.europa.eu/transport/media/news/2020-06-11-road-safety-statistics-2019_en)
-- [High blood pressure cases double in 30 years](https://taipeitimes.com/News/world/archives/2021/08/26/2003763267)
+- [Ask HN: Book Recommendations](https://news.ycombinator.com/item?id=28345952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
