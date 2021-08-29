@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Degrowth: Solving the Climate Impasse by Magical Thinking](https://brankomilanovic.substack.com/p/degrowth-solving-the-impasse-by-magical)
+- [Caches, Modes, and Unstable Systems](https://brooker.co.za/blog/2021/08/27/caches.html)
 - [The intriguing world of medieval Chinese ceramic pillows](https://www.medievalists.net/2021/08/medieval-chinese-ceramic-pillows/)
-- [Breakthrough: Quantum computers will soon fit in your phone – Sifted](https://sifted.eu/articles/diamond-quantum-computer)
 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - [Oil firms slash U.S. Gulf of Mexico output by 91% ahead of Hurricane Ida](https://www.cnbc.com/2021/08/28/oil-firms-cut-us-gulf-of-mexico-output-by-91percent-ahead-of-hurricane-ida.html)
-- [Starbucks workers in New York are organizing to form first US union](https://www.theguardian.com/us-news/2021/aug/28/starbucks-workers-buffalo-ny-organizing-union-first-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
