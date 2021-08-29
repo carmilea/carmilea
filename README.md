@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Degrowth: Solving the Climate Impasse by Magical Thinking](https://brankomilanovic.substack.com/p/degrowth-solving-the-impasse-by-magical)
-- [Caches, Modes, and Unstable Systems](https://brooker.co.za/blog/2021/08/27/caches.html)
-- [The intriguing world of medieval Chinese ceramic pillows](https://www.medievalists.net/2021/08/medieval-chinese-ceramic-pillows/)
-- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [Oil firms slash U.S. Gulf of Mexico output by 91% ahead of Hurricane Ida](https://www.cnbc.com/2021/08/28/oil-firms-cut-us-gulf-of-mexico-output-by-91percent-ahead-of-hurricane-ida.html)
+- [Ask HN: What problem are you close to solving and how can we help?](https://news.ycombinator.com/item?id=28344952)
+- [Summary After Four Months with Ada](https://pyjarrett.github.io/programming-with-ada/four-months-summary.html)
+- [Why do bats have such bizarrely long lifespans?](https://arstechnica.com/science/2019/06/why-do-bats-have-such-bizarrely-long-lifespans)
+- [Three Super-Massive Black Holes Merging Together in Our Nearby Universe](https://pib.gov.in/PressReleasePage.aspx?PRID=1749437)
+- [Big company tale: six months for a list and a button](https://rachelbythebay.com/w/2021/08/28/big/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
