@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: We built an end-to-end encrypted alternative to Google Photos](https://news.ycombinator.com/item?id=28347439)
+- [Personal finance experts don’t get wealthy by following their own advice](https://larryludwig.com/all-personal-finance-experts-are-liars/)
+- [iPhone 13 to support LEO satellite communication](https://9to5mac.com/2021/08/29/kuo-iphone-13-to-support-leo-satellite-communication-allowing-users-to-make-phone-calls-and-send-texts-without-cell-signal/)
+- [“Worst cloud vulnerability you can imagine” discovered in Microsoft Azure](https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/)
 - [A new path: vm86-based venix emulator](http://bsdimp.blogspot.com/2021/08/a-new-path-vm86-based-venix-emulator.html)
-- [Launch HN: KaiPod Learning (YC S21) – A physical place for online schoolers](https://news.ycombinator.com/item?id=28346873)
-- [Show HN: Voicera – Add life-like AI voice dictation to your blogs and articles](https://www.voicera.co)
-- [Sony’s new PS5 model weighs less because it has a smaller heatsink](https://www.theverge.com/2021/8/29/22646963/sony-new-ps5-model-lighter-smaller-heatsink-teardown)
-- [To catch a paedophile, you only need to look at their hands](https://www.wired.co.uk/article/sue-black-forensics-hand-markings-paedophiles-rapists)
 <!-- BLOG-POST-LIST:END -->
 
 ---
