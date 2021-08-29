@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Air Independent Propulsion Could Create Silent Killer Submarines](https://nationalinterest.org/blog/reboot/air-independent-propulsion-could-create-silent-killer-submarines-192514)
+- [Programming, Math, Science: A list with links to useful resources](https://github.com/bobeff/programming-math-science)
 - [Patera – Dynamic Documents](https://patera.io/)
 - [Spherical Panoramas](https://stuvel.eu/articles/spherical-panoramas/)
 - [The Orbit of Planet Nine](https://findplanetnine.blogspot.com/2021/08/the-orbit-of-planet-nine.html)
-- [Esperanto Champions the Efficiency of Its 1,092-Core RISC-V Chip](https://www.hpcwire.com/2021/08/27/esperanto-silicon-in-hand-champions-the-efficiency-of-its-1092-core-risc-v-chip/)
-- [Train Wheels Are Cones](http://awesci.com/train-wheels-are-amazing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
