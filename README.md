@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reducing sugar in packaged foods can prevent disease in millions](https://www.eurekalert.org/news-releases/926613)
-- [Why AM and Eurisko Appear to Work (1983) [pdf]](https://www.aaai.org/Papers/AAAI/1983/AAAI83-059.pdf)
-- [NP Complete 3rd Grade Math Problems (2018)](https://leosstemhacks.wordpress.com/2018/03/27/np-complete-3rd-grade-math-problems/)
-- [Xiaomi Redmi Note 10 Pro: flagship features at half the price](https://davidgerard.co.uk/blockchain/2021/08/28/xiaomi-redmi-note-10-pro-flagship-features-at-half-the-price/)
-- [New study examines ‘Achilles heel’ of cancer tumours](https://www.med.ubc.ca/news/new-study-examines-achilles-heel-of-cancer-tumours-paving-the-way-for-new-treatment-strategies/)
+- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [A CSS framework to recreate Windows 7 GUI. Accessible, semantic](https://github.com/khang-nd/7.css)
+- [JScript](https://en.wikipedia.org/wiki/JScript)
+- [Police find electronic signal-jamming device inside California home](https://www.whio.com/news/trending/police-find-electronic-signal-jamming-device-inside-california-home/EUFEFSKWNZGDPJFWUBL7PD3V6Y/)
+- [When Police Lie, the Innocent Pay. Some Are Fighting Back](https://www.nytimes.com/2021/08/28/us/false-police-statements.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
