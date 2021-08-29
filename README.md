@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The intriguing world of medieval Chinese ceramic pillows](https://www.medievalists.net/2021/08/medieval-chinese-ceramic-pillows/)
 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [NumWorks Calculator Changes Licensing (June 2021)](https://tiplanet.org/forum/viewtopic.php?t=24968&p=261770&lang=en#p261770)
+- [An Open Source Multi-Player Starship Bridge Simulator for Linux](https://smcameron.github.io/space-nerds-in-space/)
 - [A CSS framework to recreate Windows 7 GUI. Accessible, semantic](https://github.com/khang-nd/7.css)
-- [JScript](https://en.wikipedia.org/wiki/JScript)
-- [Police find electronic signal-jamming device inside California home](https://www.whio.com/news/trending/police-find-electronic-signal-jamming-device-inside-california-home/EUFEFSKWNZGDPJFWUBL7PD3V6Y/)
-- [When Police Lie, the Innocent Pay. Some Are Fighting Back](https://www.nytimes.com/2021/08/28/us/false-police-statements.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
