@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Air Independent Propulsion Could Create Silent Killer Submarines](https://nationalinterest.org/blog/reboot/air-independent-propulsion-could-create-silent-killer-submarines-192514)
-- [Programming, Math, Science: A list with links to useful resources](https://github.com/bobeff/programming-math-science)
-- [Patera – Dynamic Documents](https://patera.io/)
-- [Spherical Panoramas](https://stuvel.eu/articles/spherical-panoramas/)
-- [The Orbit of Planet Nine](https://findplanetnine.blogspot.com/2021/08/the-orbit-of-planet-nine.html)
+- [Inspectify (YC S20) Is Hiring a Project Manager – Home Insights in Seattle](https://www.ycombinator.com/companies/inspectify/jobs/GhiNAqq-project-manager-home-insights)
+- [Clustering Algorithms with Python](https://machinelearningmastery.com/clustering-algorithms-with-python/)
+- [Fake animal rescue videos have become a new frontier for animal abuse](https://www.nationalgeographic.com/animals/article/how-fake-animal-rescue-videos-have-become-a-new-frontier-for-animal-abuse)
+- [Boys in Custody and the Women Who Abuse Them](https://www.propublica.org/article/boys-in-custody-and-the-women-who-abuse-them)
+- [Overwriting Hard Drive Data: The Great Wiping Controversy (2008) [pdf]](http://www.vidarholen.net/~vidar/overwriting_hard_drive_data.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
