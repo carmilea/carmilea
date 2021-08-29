@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patera – Dynamic Documents](https://patera.io/)
+- [Spherical Panoramas](https://stuvel.eu/articles/spherical-panoramas/)
+- [The Orbit of Planet Nine](https://findplanetnine.blogspot.com/2021/08/the-orbit-of-planet-nine.html)
+- [Esperanto Champions the Efficiency of Its 1,092-Core RISC-V Chip](https://www.hpcwire.com/2021/08/27/esperanto-silicon-in-hand-champions-the-efficiency-of-its-1092-core-risc-v-chip/)
 - [Train Wheels Are Cones](http://awesci.com/train-wheels-are-amazing/)
-- [8Gb USB Flash Drive Endurance Test (2017)](https://goughlui.com/2017/05/30/experiment-8gb-usb-flash-drive-endurance-test/)
-- [5G from Space: An Overview of 3GPP Non-Terrestrial Networks](https://arxiv.org/abs/2103.09156)
-- [Study: Challenges students face when learning SQL](https://www.growkudos.com/publications/10.1145%25252F3446871.3469759/reader)
-- [Toyota halts all self-driving e-Palette vehicles after Olympic village accident](https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
