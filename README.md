@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A new path: vm86-based venix emulator](http://bsdimp.blogspot.com/2021/08/a-new-path-vm86-based-venix-emulator.html)
+- [Launch HN: KaiPod Learning (YC S21) – A physical place for online schoolers](https://news.ycombinator.com/item?id=28346873)
+- [Show HN: Voicera – Add life-like AI voice dictation to your blogs and articles](https://www.voicera.co)
 - [Sony’s new PS5 model weighs less because it has a smaller heatsink](https://www.theverge.com/2021/8/29/22646963/sony-new-ps5-model-lighter-smaller-heatsink-teardown)
-- [Show HN: Bhagavad Gita Android App for searching verses by topics like anxiety](https://play.google.com/store/apps/details?id=com.grewon.searchgita)
-- [Project Horizon [pdf]](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB479/docs/EBB-Moon01A_sm.pdf)
-- [The Afghan minister who became a bicycle courier in Germany](https://www.reuters.com/world/afghan-minister-who-became-bicycle-courier-germany-2021-08-26/)
-- [Our most dazzling self-taught students may find college admission difficult](https://www.washingtonpost.com/local/education/unconventional-path-to-college/2021/08/29/a8b2c1d6-05b9-11ec-a654-900a78538242_story.html)
+- [To catch a paedophile, you only need to look at their hands](https://www.wired.co.uk/article/sue-black-forensics-hand-markings-paedophiles-rapists)
 <!-- BLOG-POST-LIST:END -->
 
 ---
