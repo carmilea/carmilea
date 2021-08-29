@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mortuaries fill, hospitals clog in rural California towns](https://www.latimes.com/california/story/2021-08-28/la-me-rural-california-covid-surge-vaccinations-lag)
-- [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [FB messenger silently censoring links, claims they were sent](https://twitter.com/kylejohnmorris/status/1431714982782066688)
-- [Rivian Files for IPO, Seeking About $80B Valuation](https://www.bloomberg.com/news/articles/2021-08-27/rivian-is-said-to-file-for-ipo-seek-about-80-billion-valuation)
-- [Apple can read your iMessages (even though they’re E2E encrypted)](https://old.reddit.com/r/privacy/comments/pcb3ej/a_timely_reminder_that_apple_can_read_your/)
+- [Tesla on part-automated drive system slams into police car](https://apnews.com/article/technology-business-florida-001915f68f2327a42eb5b6f5c4ccd2b7)
+- [Mean World Syndrome](https://en.wikipedia.org/wiki/Mean_world_syndrome)
+- [US special operations vets carry out daring mission to save Afghan allies](https://abcnews.go.com/Politics/us-special-operations-vets-carry-daring-mission-save/story?id=79670236)
+- [Ether Rock – Pet Rocks on the Blockchain](https://etherrock.com/)
+- [Canada, April: Under-65 excess mortality exceeds under-65 Covid-19 deaths](https://www150.statcan.gc.ca/n1/daily-quotidien/210712/dq210712b-eng.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
