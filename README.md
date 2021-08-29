@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Summary After Four Months with Ada](https://pyjarrett.github.io/programming-with-ada/four-months-summary.html)
-- [Why do bats have such bizarrely long lifespans?](https://arstechnica.com/science/2019/06/why-do-bats-have-such-bizarrely-long-lifespans)
-- [Three Super-Massive Black Holes Merging Together in Our Nearby Universe](https://pib.gov.in/PressReleasePage.aspx?PRID=1749437)
-- [Big company tale: six months for a list and a button](https://rachelbythebay.com/w/2021/08/28/big/)
-- [Caches, Modes, and Unstable Systems](https://brooker.co.za/blog/2021/08/27/caches.html)
+- [Sirum (YC W15) needs engineers to automate a pharmacy](https://boards.greenhouse.io/sirum)
+- [The Death of Behavioral Economics](https://www.thebehavioralscientist.com/articles/the-death-of-behavioral-economics)
+- [A bad solar storm could cause an “Internet apocalypse”](https://arstechnica.com/science/2021/08/a-bad-solar-storm-could-cause-an-internet-apocalypse/)
+- [Road safety: Europe’s roads are getting safer but progress remains too slow](https://ec.europa.eu/transport/media/news/2020-06-11-road-safety-statistics-2019_en)
+- [High blood pressure cases double in 30 years](https://taipeitimes.com/News/world/archives/2021/08/26/2003763267)
 <!-- BLOG-POST-LIST:END -->
 
 ---
