@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Toyota halts all self-driving e-Palette vehicles after Olympic village accident](https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/)
+- [Substack Is Hiring Eng Managers to Build a Better Business Model for Writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7?utm_source=hn&utm_content=eng)
 - [Show HN: We built an end-to-end encrypted alternative to Google Photos](https://news.ycombinator.com/item?id=28347439)
 - [Personal finance experts don’t get wealthy by following their own advice](https://larryludwig.com/all-personal-finance-experts-are-liars/)
 - [iPhone 13 to support LEO satellite communication](https://9to5mac.com/2021/08/29/kuo-iphone-13-to-support-leo-satellite-communication-allowing-users-to-make-phone-calls-and-send-texts-without-cell-signal/)
-- [“Worst cloud vulnerability you can imagine” discovered in Microsoft Azure](https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/)
-- [A new path: vm86-based venix emulator](http://bsdimp.blogspot.com/2021/08/a-new-path-vm86-based-venix-emulator.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
