@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony’s new PS5 model weighs less because it has a smaller heatsink](https://www.theverge.com/2021/8/29/22646963/sony-new-ps5-model-lighter-smaller-heatsink-teardown)
+- [Show HN: Bhagavad Gita Android App for searching verses by topics like anxiety](https://play.google.com/store/apps/details?id=com.grewon.searchgita)
+- [Project Horizon [pdf]](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB479/docs/EBB-Moon01A_sm.pdf)
+- [The Afghan minister who became a bicycle courier in Germany](https://www.reuters.com/world/afghan-minister-who-became-bicycle-courier-germany-2021-08-26/)
 - [Our most dazzling self-taught students may find college admission difficult](https://www.washingtonpost.com/local/education/unconventional-path-to-college/2021/08/29/a8b2c1d6-05b9-11ec-a654-900a78538242_story.html)
-- [Colorado county's voting machines banned after security breach](https://www.npr.org/2021/08/12/1027225157/after-data-is-posted-on-conspiracy-website-colo-countys-voting-machines-are-bann)
-- [The New Chief Chaplain at Harvard? An Atheist](https://www.nytimes.com/2021/08/26/us/harvard-chaplain-greg-epstein.html)
-- [Sirum (YC W15) needs engineers to automate a pharmacy](https://boards.greenhouse.io/sirum)
-- [Ask HN: Book Recommendations](https://news.ycombinator.com/item?id=28345952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
