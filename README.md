@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla on part-automated drive system slams into police car](https://apnews.com/article/technology-business-florida-001915f68f2327a42eb5b6f5c4ccd2b7)
-- [Mean World Syndrome](https://en.wikipedia.org/wiki/Mean_world_syndrome)
-- [US special operations vets carry out daring mission to save Afghan allies](https://abcnews.go.com/Politics/us-special-operations-vets-carry-daring-mission-save/story?id=79670236)
-- [Ether Rock – Pet Rocks on the Blockchain](https://etherrock.com/)
+- [Reducing sugar in packaged foods can prevent disease in millions](https://www.eurekalert.org/news-releases/926613)
+- [Why Am and Eurisko Appear to Work (1983, PDF)](https://www.aaai.org/Papers/AAAI/1983/AAAI83-059.pdf)
+- [NP Complete 3rd Grade Math Problems (2018)](https://leosstemhacks.wordpress.com/2018/03/27/np-complete-3rd-grade-math-problems/)
+- [New study examines ‘Achilles heel’ of cancer tumours](https://www.med.ubc.ca/news/new-study-examines-achilles-heel-of-cancer-tumours-paving-the-way-for-new-treatment-strategies/)
 - [Canada, April: Under-65 excess mortality exceeds under-65 Covid-19 deaths](https://www150.statcan.gc.ca/n1/daily-quotidien/210712/dq210712b-eng.htm)
 <!-- BLOG-POST-LIST:END -->
 
