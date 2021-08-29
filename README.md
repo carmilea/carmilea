@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What problem are you close to solving and how can we help?](https://news.ycombinator.com/item?id=28344952)
 - [Summary After Four Months with Ada](https://pyjarrett.github.io/programming-with-ada/four-months-summary.html)
 - [Why do bats have such bizarrely long lifespans?](https://arstechnica.com/science/2019/06/why-do-bats-have-such-bizarrely-long-lifespans)
 - [Three Super-Massive Black Holes Merging Together in Our Nearby Universe](https://pib.gov.in/PressReleasePage.aspx?PRID=1749437)
 - [Big company tale: six months for a list and a button](https://rachelbythebay.com/w/2021/08/28/big/)
+- [Caches, Modes, and Unstable Systems](https://brooker.co.za/blog/2021/08/27/caches.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
