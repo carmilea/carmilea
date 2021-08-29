@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Queer Past Gets Deleted on eBay](https://www.newyorker.com/culture/cultural-comment/the-queer-past-gets-deleted-on-ebay)
+- [Why the Covid Vaccines Aren’t Dangerous](https://www.newyorker.com/science/medical-dispatch/why-the-covid-vaccines-arent-dangerous)
+- [Helm is a personal server that lives where you do](https://thehelm.com/)
 - [Inspectify (YC S20) Is Hiring a Project Manager – Home Insights in Seattle](https://www.ycombinator.com/companies/inspectify/jobs/GhiNAqq-project-manager-home-insights)
 - [Clustering Algorithms with Python](https://machinelearningmastery.com/clustering-algorithms-with-python/)
-- [Fake animal rescue videos have become a new frontier for animal abuse](https://www.nationalgeographic.com/animals/article/how-fake-animal-rescue-videos-have-become-a-new-frontier-for-animal-abuse)
-- [Boys in Custody and the Women Who Abuse Them](https://www.propublica.org/article/boys-in-custody-and-the-women-who-abuse-them)
-- [Overwriting Hard Drive Data: The Great Wiping Controversy (2008) [pdf]](http://www.vidarholen.net/~vidar/overwriting_hard_drive_data.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
