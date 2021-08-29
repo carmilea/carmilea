@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Train Wheels Are Cones](http://awesci.com/train-wheels-are-amazing/)
+- [8Gb USB Flash Drive Endurance Test (2017)](https://goughlui.com/2017/05/30/experiment-8gb-usb-flash-drive-endurance-test/)
+- [5G from Space: An Overview of 3GPP Non-Terrestrial Networks](https://arxiv.org/abs/2103.09156)
+- [Study: Challenges students face when learning SQL](https://www.growkudos.com/publications/10.1145%25252F3446871.3469759/reader)
 - [Toyota halts all self-driving e-Palette vehicles after Olympic village accident](https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/)
-- [Substack Is Hiring Eng Managers to Build a Better Business Model for Writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7?utm_source=hn&utm_content=eng)
-- [Show HN: We built an end-to-end encrypted alternative to Google Photos](https://news.ycombinator.com/item?id=28347439)
-- [Personal finance experts don’t get wealthy by following their own advice](https://larryludwig.com/all-personal-finance-experts-are-liars/)
-- [iPhone 13 to support LEO satellite communication](https://9to5mac.com/2021/08/29/kuo-iphone-13-to-support-leo-satellite-communication-allowing-users-to-make-phone-calls-and-send-texts-without-cell-signal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
