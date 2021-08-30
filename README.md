@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If software engineering is in demand, why is it so hard to get a job?](https://betterprogramming.pub/if-software-engineering-is-in-demand-why-is-it-so-hard-to-get-a-software-engineering-job-c043a964e463)
+- [Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/archive/2021/2021_cwe_top25.html)
 - [The PineNote is an e-ink notebook that runs Linux](https://tuxphones.com/pinenote-eink-linux-tablet-remarkable-alternative/)
+- [Walking increases spontaneous fluctuations in the brain](https://www.salon.com/2021/08/28/walking-and-spontaneous-fluctuations-brain/)
 - [Monaru (YC S19) Is Hiring an iOS Engineer](https://www.ycombinator.com/companies/monaru/jobs/xY3DJ1O-ios-engineer)
-- [Writing Programs with Ncurses](https://invisible-island.net/ncurses/ncurses-intro.html)
-- [Gap Inc. acquires 3D fitting room startup Drapr](https://www.retaildive.com/news/gap-inc-acquires-3d-fitting-room-startup-drapr/605691/)
-- [Guide to Firefox Containers (2018)](https://www.thechiefmeat.com/guides/containers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
