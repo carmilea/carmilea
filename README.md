@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why does validating a user require 14000 files?](https://news.ycombinator.com/item?id=28353387)
+- [Music composition with Deep Learning: a review](https://arxiv.org/abs/2108.12290)
 - [Scrimba (YC S20) Is Hiring a Web Dev Instructor (Remote)](https://www.ycombinator.com/companies/scrimba/jobs/hncPa2P-web-development-instructor)
-- [Of Course “changeme” Is Valid Base64](https://susam.in/cafe/of-course-changeme-is-valid-base64.html)
+- [Of Course “changeme” Is Valid Base64 (2020)](https://susam.in/cafe/of-course-changeme-is-valid-base64.html)
 - [Building a Desktop Application for Datasette](https://simonwillison.net/2021/Aug/30/datasette-app/)
-- [Pico8Lisp: A toy Lisp interpreter for PICO-8](https://www.lexaloffle.com/bbs/?tid=44438)
-- [Burning Out and Finding Stability (2019)](https://destroytoday.com/blog/burning-out-and-finding-stability)
 <!-- BLOG-POST-LIST:END -->
 
 ---
