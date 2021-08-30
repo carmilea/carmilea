@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Compass for the Politics of Collapse: A Short Straightforward Introduction](https://write.as/conjure-utopia/a-compass-for-the-politics-of-collapse-a-short-straightforward-introduction)
+- [FCC Temporary Waiver Permits Higher Symbol Rate Data for Hurricane Ida Traffic](http://www.arrl.org/news/view/fcc-grants-temporary-waiver-to-permit-higher-symbol-rate-data-transmissions-for-hurricane-ida-traffi)
 - [China has forbidden under-18s from playing games for more than three hours/week](https://www.reuters.com/world/china/china-rolls-out-new-rules-minors-online-gaming-xinhua-2021-08-30/)
 - [Alternative Milks](https://blog.bramp.net/post/2021/04/03/alternative-milks/)
-- [Ask HN: What is the highest consulting rate that you have come across, in tech?](https://news.ycombinator.com/item?id=28356047)
-- [New smb3 kernel server (ksmbd)](http://lkml.iu.edu/hypermail/linux/kernel/2108.3/05470.html)
-- [Reverse engineering software licensing from early-2000s abandonware](https://yingtongli.me/blog/2021/08/29/drm5-1.html)
+- [A new wave of Hacktivists is turning the surveillance state against itself](https://therecord.media/a-new-wave-of-hacktivists-is-turning-the-surveillance-state-against-itself/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
