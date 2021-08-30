@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pico8Lisp: A toy Lisp interpreter for PICO-8](https://www.lexaloffle.com/bbs/?tid=44438)
+- [Burning Out and Finding Stability](https://destroytoday.com/blog/burning-out-and-finding-stability)
+- [The Oasis of Palmyra](https://www.laphamsquarterly.org/home/oasis-palmyra)
 - [Show HN: A strongly-typed document DB that runs on any transactional KV store](https://github.com/losfair/RefineDB)
 - [Connectionstrings.com – Forgot that connection string? Get it here](https://www.connectionstrings.com/)
-- [Stop Waiting for Godot](https://itch.io/jam/stop-waiting-for-godot)
-- [Why pigeons mean peril for satellite broadband](https://www.bbc.com/news/technology-58061230)
-- [Show HN: Pylectronics – Reproduce digital electronics in Python](https://github.com/fgarci03/pylectronics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
