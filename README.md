@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If software engineering is in demand, why is it so hard to get a job?](https://betterprogramming.pub/if-software-engineering-is-in-demand-why-is-it-so-hard-to-get-a-software-engineering-job-c043a964e463)
-- [Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/archive/2021/2021_cwe_top25.html)
-- [The PineNote is an e-ink notebook that runs Linux](https://tuxphones.com/pinenote-eink-linux-tablet-remarkable-alternative/)
-- [Walking increases spontaneous fluctuations in the brain](https://www.salon.com/2021/08/28/walking-and-spontaneous-fluctuations-brain/)
-- [Monaru (YC S19) Is Hiring an iOS Engineer](https://www.ycombinator.com/companies/monaru/jobs/xY3DJ1O-ios-engineer)
+- [China has forbidden under-18s from playing games for more than three hours/week](https://www.reuters.com/world/china/china-rolls-out-new-rules-minors-online-gaming-xinhua-2021-08-30/)
+- [Alternative Milks](https://blog.bramp.net/post/2021/04/03/alternative-milks/)
+- [Ask HN: What is the highest consulting rate that you have come across, in tech?](https://news.ycombinator.com/item?id=28356047)
+- [New smb3 kernel server (ksmbd)](http://lkml.iu.edu/hypermail/linux/kernel/2108.3/05470.html)
+- [Reverse engineering software licensing from early-2000s abandonware](https://yingtongli.me/blog/2021/08/29/drm5-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
