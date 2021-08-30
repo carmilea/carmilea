@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal (YC S11) Is Hiring Senior Product Engineers](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
 - [The quick and simple editor for cron schedule expressions](https://crontab.guru/)
-- [What are some products and services in the US that are not in Nigeria?](https://news.ycombinator.com/item?id=28360081)
+- [eBPF: A curated list of projects related to eBPF](https://github.com/zoidbergwill/awesome-ebpf)
 - [Struggling to learn a new language? Blame it on your stable brain](https://www.ucsf.edu/news/2021/08/421316/struggling-learn-new-language-blame-it-your-stable-brain)
 - [Playdate Pulp: Zero to video game in 60 Seconds](https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds)
-- [How the Airline Industry Got Wise to Seat Belts](https://www.airspacemag.com/history-of-flight/how-airline-industry-got-wise-seat-belts-180978271/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
