@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Life-Changing Magic of High-Speed Career Sampling](https://www.nateliason.com/blog/career-sampling)
+- [How to fight microplastic pollution with magnets](https://www.bbc.com/future/article/20210825-how-to-fight-microplastic-pollution-with-magnets)
+- [A Screeching Voice of the Minority](https://meta.ath0.com/2021/08/apple-csam-scanning/)
+- [When AWS, Azure, or GCP Becomes the Competition (2019)](https://www.gkogan.co/blog/big-cloud/)
+- [8 Bits of history: My first game is still available on the internet](https://smackeyacky.blogspot.com/2021/08/8-bits-of-history-my-first-game-is.html)
 - [Nvui: A NeoVim GUI written in C++ and Qt](https://github.com/rohit-px2/nvui)
-- [The Fatiguing Effects of Camera Use in Virtual Meetings [pdf]](https://psycnet.apa.org/fulltext/2021-77825-003.pdf)
-- [Darktile – GPU rendered terminal emulator designed for tiling window managers](https://github.com/liamg/darktile)
-- [MarkMonitor left 60k domains for the taking](https://ian.sh/markmonitor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
