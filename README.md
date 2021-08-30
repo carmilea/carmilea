@@ -38,8 +38,8 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
-- [Tech Talk - Scaling Data-Intensive Applications with SingleStore and Vectorized](https://www.youtube.com/watch?v=z1TntAhiR4c)
 - [Getting Started with SingleStore](https://www.youtube.com/watch?v=bIFrJJkUftA)
+- [Tech Talk - Scaling Data-Intensive Applications with SingleStore and Vectorized](https://www.youtube.com/watch?v=z1TntAhiR4c)
 - [Igniting Innovation and Summer Release 2021 Highlights](https://www.youtube.com/watch?v=F2OwEKtwRPY)
 - [Igniting Innovation - Launch Event](https://www.youtube.com/watch?v=Q3ENLi7FQAc)
 - [Customer Showcase: IEX Cloud & SingleStore for Real-time Market Data](https://www.youtube.com/watch?v=4KM5xYmhRcc)
