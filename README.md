@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NYC major crime complaints fell when cops took a break from ‘proactive policing’](https://www.latimes.com/science/sciencenow/la-sci-sn-proactive-policing-crime-20170925-story.html)
 - [OneSignal (YC S11) Is Hiring Senior Product Engineers](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
 - [The quick and simple editor for cron schedule expressions](https://crontab.guru/)
-- [eBPF: A curated list of projects related to eBPF](https://github.com/zoidbergwill/awesome-ebpf)
 - [Struggling to learn a new language? Blame it on your stable brain](https://www.ucsf.edu/news/2021/08/421316/struggling-learn-new-language-blame-it-your-stable-brain)
 - [Playdate Pulp: Zero to video game in 60 Seconds](https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds)
 <!-- BLOG-POST-LIST:END -->
