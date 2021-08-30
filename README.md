@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The PineNote is an e-ink notebook that runs Linux](https://tuxphones.com/pinenote-eink-linux-tablet-remarkable-alternative/)
 - [Monaru (YC S19) Is Hiring an iOS Engineer](https://www.ycombinator.com/companies/monaru/jobs/xY3DJ1O-ios-engineer)
 - [Writing Programs with Ncurses](https://invisible-island.net/ncurses/ncurses-intro.html)
-- [Three Clocks Are Better Than One](https://www.tigerbeetle.com/post/three-clocks-are-better-than-one)
 - [Gap Inc. acquires 3D fitting room startup Drapr](https://www.retaildive.com/news/gap-inc-acquires-3d-fitting-room-startup-drapr/605691/)
-- [Guide to Firefox Containers](https://www.thechiefmeat.com/guides/containers.html)
+- [Guide to Firefox Containers (2018)](https://www.thechiefmeat.com/guides/containers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
