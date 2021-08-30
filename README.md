@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Clocks Are Better Than One](https://www.tigerbeetle.com/post/three-clocks-are-better-than-one)
 - [EU states looking for MS Teams/O365 alternatives](https://news.ycombinator.com/item?id=28353718)
-- [Music streaming payouts comparison](https://freeyourmusic.com/blog/how-much-does-spotify-pay-per-stream)
 - [Music composition with Deep Learning: a review](https://arxiv.org/abs/2108.12290)
 - [Scrimba (YC S20) Is Hiring a Web Dev Instructor (Remote)](https://www.ycombinator.com/companies/scrimba/jobs/hncPa2P-web-development-instructor)
-- [Building a Desktop Application for Datasette](https://simonwillison.net/2021/Aug/30/datasette-app/)
+- [Stanford researchers make rechargeable batteries that store 6x more charge](https://news.stanford.edu/2021/08/25/researchers-make-alkali-metal-chlorine-batteries-rechargeable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
