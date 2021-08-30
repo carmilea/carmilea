@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Monaru (YC S19) Is Hiring an iOS Engineer](https://www.ycombinator.com/companies/monaru/jobs/xY3DJ1O-ios-engineer)
+- [Writing Programs with Ncurses](https://invisible-island.net/ncurses/ncurses-intro.html)
 - [Three Clocks Are Better Than One](https://www.tigerbeetle.com/post/three-clocks-are-better-than-one)
+- [Gap Inc. acquires 3D fitting room startup Drapr](https://www.retaildive.com/news/gap-inc-acquires-3d-fitting-room-startup-drapr/605691/)
 - [Guide to Firefox Containers](https://www.thechiefmeat.com/guides/containers.html)
-- [Music Composition with Deep Learning: A Review](https://arxiv.org/abs/2108.12290)
-- [Scrimba (YC S20) Is Hiring a Web Dev Instructor (Remote)](https://www.ycombinator.com/companies/scrimba/jobs/hncPa2P-web-development-instructor)
-- [Stanford researchers make rechargeable batteries that store 6x more charge](https://news.stanford.edu/2021/08/25/researchers-make-alkali-metal-chlorine-batteries-rechargeable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
