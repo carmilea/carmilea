@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ex-Caldera dev describes lost “WinBolt” Win9x-capable version of DR-DOS (2007)](https://msfn.org/board/topic/109018-windows-98-in-dr-dos/?tab=comments#comment-721209)
-- [Publication of Hiroshima in the New Yorker (1997)](http://www.herseyhiroshima.com/hiro.php)
-- [Creating a VPN Gateway with a Unikernel Running WireGuard](https://nanovms.com/dev/tutorials/running-nanos-wireguard-vpn-gateway)
-- [The open calendar, task and note space is a mess](https://stevenvanbael.com/open-calendar-task-space-is-a-mess)
-- [How Bad Photography Has Changed Our Definition of Good Pictures](https://www.collectorsweekly.com/articles/bad-photography-and-good-pictures/)
+- [The quick and simple editor for cron schedule expressions](https://crontab.guru/)
+- [What are some products and services in the US that are not in Nigeria?](https://news.ycombinator.com/item?id=28360081)
+- [Struggling to learn a new language? Blame it on your stable brain](https://www.ucsf.edu/news/2021/08/421316/struggling-learn-new-language-blame-it-your-stable-brain)
+- [Playdate Pulp: Zero to video game in 60 Seconds](https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds)
+- [How the Airline Industry Got Wise to Seat Belts](https://www.airspacemag.com/history-of-flight/how-airline-industry-got-wise-seat-belts-180978271/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
