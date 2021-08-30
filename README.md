@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Upsolve (YC W19) Is Hiring for the Breyer Labs Social Impact Fellowship](https://upsolve.org/careers/breyer-labs-social-impact-fellow/)
+- [European Union recommends halting non-essential travel from the U.S.](https://www.axios.com/eu-travel-restrictions-us-6f8f73f7-af1e-4614-a73e-46404ee0b085.html)
+- [Apple acquires classical music streaming service Primephonic](https://www.apple.com/newsroom/2021/08/apple-acquires-classical-music-streaming-service-primephonic/)
 - [A Compass for the Politics of Collapse: A Short Straightforward Introduction](https://write.as/conjure-utopia/a-compass-for-the-politics-of-collapse-a-short-straightforward-introduction)
-- [FCC Temporary Waiver Permits Higher Symbol Rate Data for Hurricane Ida Traffic](http://www.arrl.org/news/view/fcc-grants-temporary-waiver-to-permit-higher-symbol-rate-data-transmissions-for-hurricane-ida-traffi)
-- [China has forbidden under-18s from playing games for more than three hours/week](https://www.reuters.com/world/china/china-rolls-out-new-rules-minors-online-gaming-xinhua-2021-08-30/)
-- [Alternative Milks](https://blog.bramp.net/post/2021/04/03/alternative-milks/)
-- [A new wave of Hacktivists is turning the surveillance state against itself](https://therecord.media/a-new-wave-of-hacktivists-is-turning-the-surveillance-state-against-itself/)
+- [The Unsolved Mystery of the D-Day Puzzles](https://www.history.co.uk/articles/the-unsolved-mystery-of-the-d-day-puzzles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
