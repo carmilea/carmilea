@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Connectionstrings.com – Forgot that connection string? Get it here](https://www.connectionstrings.com/)
+- [Stop Waiting for Godot](https://itch.io/jam/stop-waiting-for-godot)
+- [Why pigeons mean peril for satellite broadband](https://www.bbc.com/news/technology-58061230)
+- [Show HN: Pylectronics – Reproduce digital electronics in Python](https://github.com/fgarci03/pylectronics)
 - [Show HN: A C# library to help you enforce a Given-When-Then structured Unit test](https://news.ycombinator.com/item?id=28352300)
-- [How to fight microplastic pollution with magnets](https://www.bbc.com/future/article/20210825-how-to-fight-microplastic-pollution-with-magnets)
-- [Software Development Waste](https://neverworkintheory.org/2021/08/29/software-development-waste.html)
-- [A Screeching Voice of the Minority](https://meta.ath0.com/2021/08/apple-csam-scanning/)
-- [When AWS, Azure, or GCP Becomes the Competition (2019)](https://www.gkogan.co/blog/big-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
