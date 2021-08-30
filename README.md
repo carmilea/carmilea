@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NYC major crime complaints fell when cops took a break from ‘proactive policing’](https://www.latimes.com/science/sciencenow/la-sci-sn-proactive-policing-crime-20170925-story.html)
-- [OneSignal (YC S11) Is Hiring Senior Product Engineers](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
-- [The quick and simple editor for cron schedule expressions](https://crontab.guru/)
-- [Struggling to learn a new language? Blame it on your stable brain](https://www.ucsf.edu/news/2021/08/421316/struggling-learn-new-language-blame-it-your-stable-brain)
-- [Playdate Pulp: Zero to video game in 60 Seconds](https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds)
+- [How do I turn off the “Try the new Safari” notification?](https://discussions.apple.com/thread/252412228)
+- [Async Overloading](https://blog.yoshuawuyts.com/async-overloading/)
+- [What Is the Most Free TLD?](https://slc.is/#The%20Best%20TLD%20is%20Not%20.com)
+- [Rob Pike Essentials](http://genius.cat-v.org/rob-pike/)
+- [Implementing a class with void*](http://web.eecs.utk.edu/~jplank/plank/classes/cs140/Notes/Running_Times/voidstar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
