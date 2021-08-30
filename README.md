@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why does validating a user require 14000 files?](https://news.ycombinator.com/item?id=28353387)
+- [EU states looking for MS Teams/O365 alternatives](https://news.ycombinator.com/item?id=28353718)
+- [Music streaming payouts comparison](https://freeyourmusic.com/blog/how-much-does-spotify-pay-per-stream)
 - [Music composition with Deep Learning: a review](https://arxiv.org/abs/2108.12290)
 - [Scrimba (YC S20) Is Hiring a Web Dev Instructor (Remote)](https://www.ycombinator.com/companies/scrimba/jobs/hncPa2P-web-development-instructor)
-- [Of Course “changeme” Is Valid Base64 (2020)](https://susam.in/cafe/of-course-changeme-is-valid-base64.html)
 - [Building a Desktop Application for Datasette](https://simonwillison.net/2021/Aug/30/datasette-app/)
 <!-- BLOG-POST-LIST:END -->
 
