@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Three Clocks Are Better Than One](https://www.tigerbeetle.com/post/three-clocks-are-better-than-one)
-- [EU states looking for MS Teams/O365 alternatives](https://news.ycombinator.com/item?id=28353718)
-- [Music composition with Deep Learning: a review](https://arxiv.org/abs/2108.12290)
+- [Guide to Firefox Containers](https://www.thechiefmeat.com/guides/containers.html)
+- [Music Composition with Deep Learning: A Review](https://arxiv.org/abs/2108.12290)
 - [Scrimba (YC S20) Is Hiring a Web Dev Instructor (Remote)](https://www.ycombinator.com/companies/scrimba/jobs/hncPa2P-web-development-instructor)
 - [Stanford researchers make rechargeable batteries that store 6x more charge](https://news.stanford.edu/2021/08/25/researchers-make-alkali-metal-chlorine-batteries-rechargeable/)
 <!-- BLOG-POST-LIST:END -->
