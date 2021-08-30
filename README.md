@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Almost 600 Louisiana sites with toxic chemicals lie in Hurricane Ida's path](https://www.nola.com/news/environment/article_85d4a426-0835-11ec-80b5-0b11ebddb24b.html)
-- [Helm is a personal server that lives where you do](https://thehelm.com/)
-- [Inspectify (YC S20) Is Hiring a Project Manager – Home Insights in Seattle](https://www.ycombinator.com/companies/inspectify/jobs/GhiNAqq-project-manager-home-insights)
-- [Clustering Algorithms with Python](https://machinelearningmastery.com/clustering-algorithms-with-python/)
-- [Boys in Custody and the Women Who Abuse Them](https://www.propublica.org/article/boys-in-custody-and-the-women-who-abuse-them)
+- [The Life-Changing Magic of High-Speed Career Sampling](https://www.nateliason.com/blog/career-sampling)
+- [Nvui: A NeoVim GUI written in C++ and Qt](https://github.com/rohit-px2/nvui)
+- [The Fatiguing Effects of Camera Use in Virtual Meetings [pdf]](https://psycnet.apa.org/fulltext/2021-77825-003.pdf)
+- [Darktile – GPU rendered terminal emulator designed for tiling window managers](https://github.com/liamg/darktile)
+- [MarkMonitor left 60k domains for the taking](https://ian.sh/markmonitor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
