@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [System76 Pangolin “Linux-first” laptop with AMD internals now in stock](https://system76.com/laptops/pangolin#specs)
-- [Apple just banned a pay equity Slack channel but lets fun dogs channel lie](https://www.theverge.com/2021/8/31/22650751/apple-bans-pay-equity-slack-channel)
+- [Retool (YC W17) is hiring engineers](https://news.ycombinator.com/item?id=28373610)
+- [Adapting the OCaml Ecosystem for Multicore OCaml](https://watch.ocaml.org/videos/watch/playlist/7a4ad26a-b8c5-4588-bf2a-4b981fed87f2?playlistPosition=2)
+- [System76 Pangolin Linux-first laptop with AMD internals now in stock](https://system76.com/laptops/pangolin)
+- [Apple banned a pay equity Slack channel](https://www.theverge.com/2021/8/31/22650751/apple-bans-pay-equity-slack-channel)
 - [Surveilance bill rushed through Australian parliament in 24 hours](https://tutanota.com/blog/posts/australia-surveillance-bill/)
-- [LiveCode drops its Open Source Support](https://livecode.org/)
-- [Perfect pitch study: Why can’t we identify music notes as well as colors?](https://news.uchicago.edu/story/why-cant-we-identify-music-notes-well-colors-perfect-pitch-study-offers-clues)
 <!-- BLOG-POST-LIST:END -->
 
 ---
