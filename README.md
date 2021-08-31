@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 available on October 5](https://blogs.windows.com/windowsexperience/2021/08/31/windows-11-available-on-october-5/)
+- [The Tesla Dojo Chip Is Impressive, but There Are Some Major Technical Issues](https://semianalysis.com/the-tesla-dojo-chip-is-impressive-but-there-are-some-major-technical-issues/)
+- [Allbirds S-1 IPO](https://www.sec.gov/Archives/edgar/data/1653909/000162828021017824/0001628280-21-017824-index.htm)
+- [The Gafam Poster Campaign](https://gafam.info/)
 - [Toxic ‘forever chemicals’ contaminate indoor air at worrying levels](https://www.theguardian.com/society/2021/aug/31/pfas-toxic-forever-chemicals-air-breathing)
 - [In the US, wind power is getting bigger and better, report says](https://arstechnica.com/science/2021/08/in-the-us-wind-power-is-getting-bigger-and-better-report-says/)
-- [A visual introduction to Gaussian Belief Propagation](https://gaussianbp.github.io/)
-- [Getting the maximum of your C compiler, for security](https://airbus-seclab.github.io/c-compiler-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
