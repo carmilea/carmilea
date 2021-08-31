@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Remind – a sophisticated calendar and alarm program](https://dianne.skoll.ca/projects/remind/)
+- [Navajo Water Project](http://uswateralliance.org/organization/navajo-water-project)
 - [Forest Service officials close all California national forests](https://www.latimes.com/california/story/2021-08-30/officials-to-close-all-california-national-forests-a)
 - [Remind HN: .com prices increase Sep 1, 2021](https://news.ycombinator.com/item?id=28362488)
 - [Show HN: Blur Webcam Background on Linux](https://github.com/jashandeep-sohi/webcam-filters)
-- [Async Overloading](https://blog.yoshuawuyts.com/async-overloading/)
-- [What Is the Most Free TLD?](https://slc.is/#The%20Best%20TLD%20is%20Not%20.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
