@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Judge in Nokia and Apple lawsuit owned Apple stock during proceedings](https://appleinsider.com/articles/21/08/31/judge-in-nokia-and-apple-lawsuit-owned-apple-stock-during-proceedings)
+- [Wild claims about K performance](https://mlochbaum.github.io/BQN/implementation/kclaims.html)
 - [58% of Hacker News, Reddit and tech-savvy audiences block Google Analytics](https://plausible.io/blog/google-analytics-adblockers-missing-data)
 - [Brooks, Wirth and Go](https://www.fredrikholmqvist.com/posts/brooks-wirth-go/)
 - [Turns Jupyter notebooks into standalone web applications and dashboards](https://voila.readthedocs.io/en/stable/)
-- [Reasonable Person Principle](http://www.cs.cmu.edu/~weigand/staff/)
-- [GCC Rust Monthly Report #9 August 2021](https://thephilbert.io/2021/08/30/gcc-rust-monthly-report-9-august-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
