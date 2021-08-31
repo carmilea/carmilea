@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tesla Dojo Chip Is Impressive, but There Are Some Major Technical Issues](https://semianalysis.com/the-tesla-dojo-chip-is-impressive-but-there-are-some-major-technical-issues/)
-- [Allbirds S-1 IPO](https://www.sec.gov/Archives/edgar/data/1653909/000162828021017824/0001628280-21-017824-index.htm)
-- [The Gafam Poster Campaign](https://gafam.info/)
-- [Toxic ‘forever chemicals’ contaminate indoor air at worrying levels](https://www.theguardian.com/society/2021/aug/31/pfas-toxic-forever-chemicals-air-breathing)
-- [In the US, wind power is getting bigger and better, report says](https://arstechnica.com/science/2021/08/in-the-us-wind-power-is-getting-bigger-and-better-report-says/)
+- [First US Census Bureau Report on Growing Childless Older Adult Population](https://www.census.gov/newsroom/press-releases/2021/childless-older-adult-population.html)
+- [Apollo 68080 – Motorola 680x0 High Performance Processor in FPGA](http://www.apollo-core.com/features.html)
+- [1910 intro to Astronomy textbook, with the right amount of math [pdf]](http://gron.ca/math/dupuis_1910/dupuis.pdf)
+- [Shipwreck reveals ancient market for knock-off consumer goods (2019)](https://arstechnica.com/science/2019/02/shipwreck-reveals-ancient-market-for-knock-off-consumer-goods/)
+- [One Remote Island's Battle Against Acid-Spewing Ants](https://www.audubon.org/magazine/july-august-2015/one-remote-islands-battle-against-acid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
