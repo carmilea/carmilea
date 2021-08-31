@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple and Google must allow other payment systems, new Korean law declares](https://www.theverge.com/2021/8/31/22643800/apple-google-south-korea-app-store-payment-legislation-passes)
-- [Judge in Nokia and Apple lawsuit owned Apple stock during proceedings](https://appleinsider.com/articles/21/08/31/judge-in-nokia-and-apple-lawsuit-owned-apple-stock-during-proceedings)
-- [Facebook open sources Glean: a scalable code search and query engine](https://glean.software/?open)
-- [I got multiple FAANG offers in Europe](https://blog.goncharov.page/how-i-got-multiple-faang-offers-in-europe)
-- [Wild claims about K performance](https://mlochbaum.github.io/BQN/implementation/kclaims.html)
+- [The rich get richer and rates get lower](https://www.ft.com/content/256acf1b-5bbb-475b-9df3-6d0b3a59389a)
+- [Shelf Engine (YC S18) is hiring a Data Scientist Manager to stop food waste](https://www.shelfengine.com/careers/?gh_jid=4099404004)
+- [Staying Visual in a CLIP World](http://liipetti.net/visual/staying-visual-in-a-clip-world/)
+- [Extreme Ironing](https://en.wikipedia.org/wiki/Extreme_ironing)
+- [At the world's oldest social housing, rent hasn't changed since 1521](https://www.cbc.ca/radio/day6/hazaras-at-risk-in-afghanistan-the-meaning-of-comirnaty-a-brief-history-of-poppers-nancy-drew-at-91-more-1.6155032/at-the-world-s-oldest-social-housing-rent-hasn-t-changed-since-1521-1.6155041)
 <!-- BLOG-POST-LIST:END -->
 
 ---
