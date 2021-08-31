@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL Subtransactions Considered Harmful](https://postgres.ai/blog/20210831-postgresql-subtransactions-considered-harmful)
+- [Rolling your own minimal embedded Linux for the Raspberry Pi](https://kevinboone.me/pi_minimal.html)
+- [The U.S. Army Tried Portable Nuclear Power at Remote Bases 60 Years Ago](https://www.atlasobscura.com/articles/camp-century-portable-nuclear-reactor)
 - [You want enabling CSS selectors, not disabling ones](https://css-tricks.com/you-want-enabling-css-selectors-not-disabling-ones/)
 - [Retool (YC W17) is hiring engineers](https://news.ycombinator.com/item?id=28373610)
-- [Adapting the OCaml Ecosystem for Multicore OCaml](https://watch.ocaml.org/videos/watch/playlist/7a4ad26a-b8c5-4588-bf2a-4b981fed87f2?playlistPosition=2)
-- [System76 Pangolin Linux-first laptop with AMD internals now in stock](https://system76.com/laptops/pangolin)
-- [Apple banned a pay equity Slack channel](https://www.theverge.com/2021/8/31/22650751/apple-bans-pay-equity-slack-channel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
