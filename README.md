@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How do I turn off the “Try the new Safari” notification?](https://discussions.apple.com/thread/252412228)
+- [DockerHub Pushing Issues](https://status.io/pages/incident/533c6539221ae15e3f000031/612d722c063764061e25aa70)
+- [Remind HN: .com prices increase Sep 1, 2021](https://news.ycombinator.com/item?id=28362488)
 - [Async Overloading](https://blog.yoshuawuyts.com/async-overloading/)
 - [What Is the Most Free TLD?](https://slc.is/#The%20Best%20TLD%20is%20Not%20.com)
-- [Rob Pike Essentials](http://genius.cat-v.org/rob-pike/)
 - [Implementing a class with void*](http://web.eecs.utk.edu/~jplank/plank/classes/cs140/Notes/Running_Times/voidstar.html)
 <!-- BLOG-POST-LIST:END -->
 
