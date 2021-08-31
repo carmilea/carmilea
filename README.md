@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Predictors of Nonseroconversion after SARS-CoV-2 Infection](https://wwwnc.cdc.gov/eid/article/27/9/21-1042_article)
-- [Australian Police get online account takeover, data disruption powers](https://www.itnews.com.au/news/police-get-online-account-takeover-data-disruption-powers-569062)
-- [More wind energy was installed in 2020 than any other energy source](https://www.energy.gov/eere/wind/articles/land-based-wind-market-report-2021-edition-released)
-- [SnapEDA (YC S15) is hiring devs to improve electronic component sourcing](https://careers.snapeda.com/)
-- [White House Launches US Digital Corps](https://www.fedscoop.com/white-house-launches-us-digital-corps/)
+- [Turns Jupyter notebooks into standalone web applications and dashboards](https://voila.readthedocs.io/en/stable/)
+- [Reasonable Person Principle](http://www.cs.cmu.edu/~weigand/staff/)
+- [GCC Rust Monthly Report #9 August 2021](https://thephilbert.io/2021/08/30/gcc-rust-monthly-report-9-august-2021/)
+- [RFC-0082: Runnning unmodified Linux programs on Fuchsia](https://fuchsia.dev/fuchsia-src/contribute/governance/rfcs/0082_starnix?hl=en)
+- [MDcat – Simple Markdown to GitHub styled HTML converter](https://github.com/calganaygun/MDcat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
