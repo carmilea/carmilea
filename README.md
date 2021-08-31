@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple and Google must allow other payment systems, new Korean law declares](https://www.theverge.com/2021/8/31/22643800/apple-google-south-korea-app-store-payment-legislation-passes)
 - [Judge in Nokia and Apple lawsuit owned Apple stock during proceedings](https://appleinsider.com/articles/21/08/31/judge-in-nokia-and-apple-lawsuit-owned-apple-stock-during-proceedings)
+- [Facebook open sources Glean: a scalable code search and query engine](https://glean.software/?open)
+- [I got multiple FAANG offers in Europe](https://blog.goncharov.page/how-i-got-multiple-faang-offers-in-europe)
 - [Wild claims about K performance](https://mlochbaum.github.io/BQN/implementation/kclaims.html)
-- [58% of Hacker News, Reddit and tech-savvy audiences block Google Analytics](https://plausible.io/blog/google-analytics-adblockers-missing-data)
-- [Brooks, Wirth and Go](https://www.fredrikholmqvist.com/posts/brooks-wirth-go/)
-- [Turns Jupyter notebooks into standalone web applications and dashboards](https://voila.readthedocs.io/en/stable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
