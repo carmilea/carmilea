@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [79 Bay Area startups from Y Combinator's biggest Demo Day batch yet](https://www.bizjournals.com/sanjose/news/2021/08/30/79-bay-area-startups-from-ycs-biggest-batch-yet.html)
-- [Fake Banksy NFT sold through artist's website for £244k](https://www.bbc.co.uk/news/technology-58399338)
 - [RSA/SHA1 signature type disabled by default in OpenSSH](https://undeadly.org/cgi?action=article;sid=20210830113413)
 - [Perfect pitch study: Why can’t we identify music notes as well as colors?](https://news.uchicago.edu/story/why-cant-we-identify-music-notes-well-colors-perfect-pitch-study-offers-clues)
 - [Tor is a great sysadmin tool (2020)](https://www.jamieweb.net/blog/tor-is-a-great-sysadmin-tool/)
+- [Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React)](https://useavenue.notion.site/Software-Engineer-Avenue-d68ff1ec6b064380b3afa85d5d1b3276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
