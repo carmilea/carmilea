@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [58% of Hacker News, Reddit and tech-savvy audiences block Google Analytics](https://plausible.io/blog/google-analytics-adblockers-missing-data)
+- [Brooks, Wirth and Go](https://www.fredrikholmqvist.com/posts/brooks-wirth-go/)
 - [Turns Jupyter notebooks into standalone web applications and dashboards](https://voila.readthedocs.io/en/stable/)
 - [Reasonable Person Principle](http://www.cs.cmu.edu/~weigand/staff/)
 - [GCC Rust Monthly Report #9 August 2021](https://thephilbert.io/2021/08/30/gcc-rust-monthly-report-9-august-2021/)
-- [RFC-0082: Runnning unmodified Linux programs on Fuchsia](https://fuchsia.dev/fuchsia-src/contribute/governance/rfcs/0082_starnix?hl=en)
-- [MDcat – Simple Markdown to GitHub styled HTML converter](https://github.com/calganaygun/MDcat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
