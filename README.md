@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [79 Bay Area startups from Y Combinator's biggest Demo Day batch yet](https://www.bizjournals.com/sanjose/news/2021/08/30/79-bay-area-startups-from-ycs-biggest-batch-yet.html)
-- [RSA/SHA1 signature type disabled by default in OpenSSH](https://undeadly.org/cgi?action=article;sid=20210830113413)
+- [System76 Pangolin “Linux-first” laptop with AMD internals now in stock](https://system76.com/laptops/pangolin#specs)
+- [Apple just banned a pay equity Slack channel but lets fun dogs channel lie](https://www.theverge.com/2021/8/31/22650751/apple-bans-pay-equity-slack-channel)
+- [Surveilance bill rushed through Australian parliament in 24 hours](https://tutanota.com/blog/posts/australia-surveillance-bill/)
+- [LiveCode drops its Open Source Support](https://livecode.org/)
 - [Perfect pitch study: Why can’t we identify music notes as well as colors?](https://news.uchicago.edu/story/why-cant-we-identify-music-notes-well-colors-perfect-pitch-study-offers-clues)
-- [Tor is a great sysadmin tool (2020)](https://www.jamieweb.net/blog/tor-is-a-great-sysadmin-tool/)
-- [Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React)](https://useavenue.notion.site/Software-Engineer-Avenue-d68ff1ec6b064380b3afa85d5d1b3276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
