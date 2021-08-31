@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [36% of Covid patients never make antibodies](https://wwwnc.cdc.gov/eid/article/27/9/21-1042_article)
 - [More wind energy was installed in 2020 than any other energy source](https://www.energy.gov/eere/wind/articles/land-based-wind-market-report-2021-edition-released)
 - [SnapEDA (YC S15) is hiring devs to improve electronic component sourcing](https://careers.snapeda.com/)
 - [White House Launches US Digital Corps](https://www.fedscoop.com/white-house-launches-us-digital-corps/)
 - [Remind – a sophisticated calendar and alarm program](https://dianne.skoll.ca/projects/remind/)
-- [Navajo Water Project](http://uswateralliance.org/organization/navajo-water-project)
 <!-- BLOG-POST-LIST:END -->
 
 ---
