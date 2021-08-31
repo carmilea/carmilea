@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First US Census Bureau Report on Growing Childless Older Adult Population](https://www.census.gov/newsroom/press-releases/2021/childless-older-adult-population.html)
-- [Apollo 68080 – Motorola 680x0 High Performance Processor in FPGA](http://www.apollo-core.com/features.html)
-- [1910 intro to Astronomy textbook, with the right amount of math [pdf]](http://gron.ca/math/dupuis_1910/dupuis.pdf)
-- [Shipwreck reveals ancient market for knock-off consumer goods (2019)](https://arstechnica.com/science/2019/02/shipwreck-reveals-ancient-market-for-knock-off-consumer-goods/)
-- [One Remote Island's Battle Against Acid-Spewing Ants](https://www.audubon.org/magazine/july-august-2015/one-remote-islands-battle-against-acid)
+- [Tor is a great sysadmin tool](https://www.jamieweb.net/blog/tor-is-a-great-sysadmin-tool/)
+- [Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React)](https://useavenue.notion.site/Software-Engineer-Avenue-d68ff1ec6b064380b3afa85d5d1b3276)
+- [Roman Priest’s Exceptionally Well-Preserved Remains Found in Pompeii](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-most-well-preserved-human-remains-pompeii-date-180978455/)
+- [Anti-Sabotage Your Hiring](https://creatingvalue.substack.com/p/sabotage-proof-your-hiring)
+- [Intel's Lidar, face recognition, and tracking cameras will be discontinued](https://spectrum.ieee.org/intel-realsense)
 <!-- BLOG-POST-LIST:END -->
 
 ---
