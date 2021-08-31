@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The rich get richer and rates get lower](https://www.ft.com/content/256acf1b-5bbb-475b-9df3-6d0b3a59389a)
-- [Shelf Engine (YC S18) is hiring a Data Scientist Manager to stop food waste](https://www.shelfengine.com/careers/?gh_jid=4099404004)
-- [Staying Visual in a CLIP World](http://liipetti.net/visual/staying-visual-in-a-clip-world/)
-- [Extreme Ironing](https://en.wikipedia.org/wiki/Extreme_ironing)
-- [At the world's oldest social housing, rent hasn't changed since 1521](https://www.cbc.ca/radio/day6/hazaras-at-risk-in-afghanistan-the-meaning-of-comirnaty-a-brief-history-of-poppers-nancy-drew-at-91-more-1.6155032/at-the-world-s-oldest-social-housing-rent-hasn-t-changed-since-1521-1.6155041)
+- [Toxic ‘forever chemicals’ contaminate indoor air at worrying levels](https://www.theguardian.com/society/2021/aug/31/pfas-toxic-forever-chemicals-air-breathing)
+- [In the US, wind power is getting bigger and better, report says](https://arstechnica.com/science/2021/08/in-the-us-wind-power-is-getting-bigger-and-better-report-says/)
+- [A visual introduction to Gaussian Belief Propagation](https://gaussianbp.github.io/)
+- [Getting the maximum of your C compiler, for security](https://airbus-seclab.github.io/c-compiler-security/)
+- [The Winners of Remote Work](https://www.nytimes.com/2021/08/31/upshot/the-winners-of-remote-work.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
