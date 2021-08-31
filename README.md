@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [More wind energy was installed in 2020 than any other energy source](https://www.energy.gov/eere/wind/articles/land-based-wind-market-report-2021-edition-released)
 - [SnapEDA (YC S15) is hiring devs to improve electronic component sourcing](https://careers.snapeda.com/)
+- [White House Launches US Digital Corps](https://www.fedscoop.com/white-house-launches-us-digital-corps/)
 - [Remind – a sophisticated calendar and alarm program](https://dianne.skoll.ca/projects/remind/)
 - [Navajo Water Project](http://uswateralliance.org/organization/navajo-water-project)
-- [Forest Service officials close all California national forests](https://www.latimes.com/california/story/2021-08-30/officials-to-close-all-california-national-forests-a)
-- [Remind HN: .com prices increase Sep 1, 2021](https://news.ycombinator.com/item?id=28362488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
