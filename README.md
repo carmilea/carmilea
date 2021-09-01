@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complex Truth About ‘Junk DNA’](https://www.quantamagazine.org/the-complex-truth-about-junk-dna-20210901/)
-- [Tyler Cowen is the best curator of talent in the world](https://kulesa.substack.com/p/tyler-cowen-is-the-best-curator-of)
-- [Israel’s Covid-19 boosters are preventing infections, new studies suggest](https://www.science.org/content/article/israel-s-covid-19-boosters-are-preventing-infections-new-studies-suggest)
-- [Linux on the Framework Laptop](https://frame.work/blog/linux-on-the-framework-laptop)
-- [Ask HN: Who is hiring? (September 2021)](https://news.ycombinator.com/item?id=28380661)
+- [Mozilla VPN Completes Independent Security Audit by Cure53](https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53/)
+- [Improving Git protocol security on GitHub](https://github.blog/2021-09-01-improving-git-protocol-security-github/)
+- [Mednet (YC W17) Is Hiring](https://www.workatastartup.com/jobs/15406)
+- [65,000 fake students applied for financial aid in wide community college scam](https://www.latimes.com/california/story/2021-09-01/california-college-financial-aid-scam-fake-students)
+- [Lenovo tablet forced update shows un-dismissable, un-mutable, ad notifications](https://twitter.com/benkrasnow/status/1433096367992295427)
 <!-- BLOG-POST-LIST:END -->
 
 ---
