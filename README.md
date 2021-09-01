@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon asked FCC to reject Starlink plan because it can’t compete, SpaceX says](https://arstechnica.com/tech-policy/2021/09/spacex-slams-amazons-obstructionist-ploy-to-block-starlink-upgrade-plan/)
+- [The Thoughts the Civilized Keep](https://www.noemamag.com/the-thoughts-the-civilized-keep/)
+- [The Guide to Kubernetes Labels](https://blog.kubecost.com/blog/kubernetes-labels/)
+- [Multiplayer Prototyping: If your tools aren’t fun, you’re not doing it right](https://www.felt.com/blog/multiplayer-prototyping-tools)
 - [Helio Project: libre music composition software](https://helio.fm/)
-- [How to Study Effectively](https://psyche.co/guides/how-research-from-psychology-can-help-you-study-effectively)
-- [Writing, Technically](https://signalsandthreads.com/writing-technically/)
-- [Mozilla VPN Completes Independent Security Audit by Cure53](https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53/)
-- [Improving Git protocol security on GitHub](https://github.blog/2021-09-01-improving-git-protocol-security-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
