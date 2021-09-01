@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Open-Source multi-dashboarding platform for teams and client reporting](https://github.com/chartbrew/chartbrew)
+- [Regulators and Reality](https://stratechery.com/2021/regulators-and-reality/)
+- [YouTube starts to require a credit card or ID to verify the age in EU (2020)](https://blog.youtube/news-and-events/using-technology-more-consistently-apply-age-restrictions/)
 - [Streak (YC S11) is hiring a TypeScript/React expert who likes shipping (remote)](https://www.streak.com/careers/product-engineer)
 - [Inequality, Interest Rates, Aging, and the Role of Central Banks](https://theovershoot.co/p/inequality-interest-rates-aging-and)
-- [Documents ≠ Programs](https://mckinley.cc/blog/20210831.html)
-- [How I re–over-engineered my home network for privacy and security](https://ben.balter.com/2021/09/01/how-i-re-over-engineered-my-home-network/)
-- [Dutch Entrepreneurs avoiding negative interest by opening multiple bank accounts](https://nltimes.nl/2021/09/01/entrepreneurs-avoiding-negative-interest-opening-multiple-bank-accounts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
