@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Complex Truth About ‘Junk DNA’](https://www.quantamagazine.org/the-complex-truth-about-junk-dna-20210901/)
+- [Tyler Cowen is the best curator of talent in the world](https://kulesa.substack.com/p/tyler-cowen-is-the-best-curator-of)
+- [Israel’s Covid-19 boosters are preventing infections, new studies suggest](https://www.science.org/content/article/israel-s-covid-19-boosters-are-preventing-infections-new-studies-suggest)
+- [Linux on the Framework Laptop](https://frame.work/blog/linux-on-the-framework-laptop)
 - [Ask HN: Who is hiring? (September 2021)](https://news.ycombinator.com/item?id=28380661)
-- [Forward and Reverse Proxies Explained](https://www.haskellforall.com/2021/09/forward-and-reverse-proxies-explained.html)
-- [Tardigrades Walk, and We Were Not Ready for the Footage](https://www.sciencealert.com/scientists-take-videos-of-tardigrades-lumbering-to-work-out-why-they-walk-funny)
-- [AAS Journals Will Switch to Open Access](https://aas.org/press/aas-journals-open-access)
-- [The Internet ‘Died’ Five Years Ago](https://www.theatlantic.com/technology/archive/2021/08/dead-internet-theory-wrong-but-feels-true/619937/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
