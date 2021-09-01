@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dutch Entrepreneurs avoiding negative interest by opening multiple bank accounts](https://nltimes.nl/2021/09/01/entrepreneurs-avoiding-negative-interest-opening-multiple-bank-accounts)
+- [Project Aquiline – 1970s CIA UAV [pdf]](https://www.cia.gov/readingroom/docs/PROJECT%20AQUILINE%5B15784065%5D.pdf)
+- [Bare metal Apple M1 Debian at 4K 60](https://twitter.com/alyssarzg/status/1432927311058194436)
+- [North Korea produces new vanity vlogs in social media propaganda comeback](https://www.nknews.org/2021/08/north-korea-produces-new-vanity-vlogs-in-social-media-propaganda-comeback/)
 - [M1 Icestorm cores can still perform well](https://eclecticlight.co/2021/09/01/m1-icestorm-cores-can-still-perform-very-well/)
-- [C# for Systems Programming](https://github.com/MichalStrehovsky/zerosharp)
-- [OpenBSD: Hibernate Time Reduced](https://www.undeadly.org/cgi?action=article;sid=20210831050932)
-- [Robert Sapolsky on Depression (2009)](https://www.robertsapolskyrocks.com/depression.html)
-- [Cooperative Package Management for Python](https://lwn.net/SubscriberLink/867657/0efafb319ce20e3e/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
