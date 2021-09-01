@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon CEO unveils 55k tech jobs in his first hiring push](https://www.reuters.com/technology/exclusive-amazon-ceo-unveils-55000-tech-jobs-first-hiring-push-under-his-watch-2021-09-01/)
-- [AmberBox Gunshot Detection (YC W16) Is Hiring a Remote Full-Stack Engineer](https://www.ycombinator.com/companies/amberbox-gunshot-detection/jobs/oAfXcHq-full-stack-engineer-gunshot-detection-fully-remote)
-- [ES2022 feature: class static initialization blocks](https://2ality.com/2021/09/class-static-block.html)
+- [Streak (YC S11) is hiring a TypeScript/React expert who likes shipping (remote)](https://www.streak.com/careers/product-engineer)
+- [Inequality, Interest Rates, Aging, and the Role of Central Banks](https://theovershoot.co/p/inequality-interest-rates-aging-and)
+- [Documents ≠ Programs](https://mckinley.cc/blog/20210831.html)
+- [How I re–over-engineered my home network for privacy and security](https://ben.balter.com/2021/09/01/how-i-re-over-engineered-my-home-network/)
 - [Dutch Entrepreneurs avoiding negative interest by opening multiple bank accounts](https://nltimes.nl/2021/09/01/entrepreneurs-avoiding-negative-interest-opening-multiple-bank-accounts)
-- [Man can change his pupil size on command, once thought an impossible feat](https://www.livescience.com/man-can-control-pupil-dilation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
