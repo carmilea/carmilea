@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [C# for Systems Programming](https://github.com/MichalStrehovsky/zerosharp)
+- [Stanford's Sapolsky on Depression (2009)](https://www.robertsapolskyrocks.com/depression.html)
+- [Cooperative Package Management for Python](https://lwn.net/SubscriberLink/867657/0efafb319ce20e3e/)
 - [Automatic Extraction of Secrets from the Transistor Jungle Using Laser-Assisted [pdf]](https://www.usenix.org/system/files/sec21-krachenfels.pdf)
 - [Show HN: Compile for Arm at native speeds in an emulated system](https://github.com/valkmit/aws-graviton2-on-intel)
-- [Vintage Computer Festival Midwest 16](http://vcfmw.org/)
-- [Google's New AI Photo Upscaling Tech Is Jaw-Dropping](https://petapixel.com/2021/08/30/googles-new-ai-photo-upscaling-tech-is-jaw-dropping/)
-- [CSS Nesting Module (First Public Working Draft)](https://www.w3.org/blog/news/archives/9236)
 <!-- BLOG-POST-LIST:END -->
 
 ---
