@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Nesting Module (First Public Working Draft)](https://www.w3.org/blog/news/archives/9236)
 - [BuildZoom (remote project management for construction) is hiring](https://jobs.lever.co/buildzoom)
-- [Metaphor: Searching the Web with Language Models](https://metaphor.so/)
 - [Multiplying Matrices Without Multiplying](https://arxiv.org/abs/2106.10860)
 - [A guide to fun mathematics YouTube channels](https://samenright.com/2021/08/31/a-laymans-guide-to-recreational-mathematics-videos/)
 - [It's Time for Operating Systems to Rediscover Hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote)
