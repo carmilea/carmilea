@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [M1 Icestorm cores can still perform well](https://eclecticlight.co/2021/09/01/m1-icestorm-cores-can-still-perform-very-well/)
 - [C# for Systems Programming](https://github.com/MichalStrehovsky/zerosharp)
 - [OpenBSD: Hibernate Time Reduced](https://www.undeadly.org/cgi?action=article;sid=20210831050932)
 - [Robert Sapolsky on Depression (2009)](https://www.robertsapolskyrocks.com/depression.html)
 - [Cooperative Package Management for Python](https://lwn.net/SubscriberLink/867657/0efafb319ce20e3e/)
-- [Automatic Extraction of Secrets from the Transistor Jungle Using Laser-Assisted [pdf]](https://www.usenix.org/system/files/sec21-krachenfels.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
