@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon CEO unveils 55k tech jobs in his first hiring push](https://www.reuters.com/technology/exclusive-amazon-ceo-unveils-55000-tech-jobs-first-hiring-push-under-his-watch-2021-09-01/)
+- [AmberBox Gunshot Detection (YC W16) Is Hiring a Remote Full-Stack Engineer](https://www.ycombinator.com/companies/amberbox-gunshot-detection/jobs/oAfXcHq-full-stack-engineer-gunshot-detection-fully-remote)
+- [ES2022 feature: class static initialization blocks](https://2ality.com/2021/09/class-static-block.html)
 - [Dutch Entrepreneurs avoiding negative interest by opening multiple bank accounts](https://nltimes.nl/2021/09/01/entrepreneurs-avoiding-negative-interest-opening-multiple-bank-accounts)
-- [Project Aquiline – 1970s CIA UAV [pdf]](https://www.cia.gov/readingroom/docs/PROJECT%20AQUILINE%5B15784065%5D.pdf)
-- [Bare metal Apple M1 Debian at 4K 60](https://twitter.com/alyssarzg/status/1432927311058194436)
-- [North Korea produces new vanity vlogs in social media propaganda comeback](https://www.nknews.org/2021/08/north-korea-produces-new-vanity-vlogs-in-social-media-propaganda-comeback/)
-- [M1 Icestorm cores can still perform well](https://eclecticlight.co/2021/09/01/m1-icestorm-cores-can-still-perform-very-well/)
+- [Man can change his pupil size on command, once thought an impossible feat](https://www.livescience.com/man-can-control-pupil-dilation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
