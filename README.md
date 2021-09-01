@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA Releases Data Showing Trends in Dangerous Laser Strikes](https://www.faa.gov/newsroom/faa-releases-data-showing-trends-dangerous-laser-strikes)
+- [The Sackler Family Wins Immunity from Future Opioid Lawsuits](https://www.npr.org/2021/09/01/1031053251/sackler-family-immunity-purdue-pharma-oxcyontin-opioid-epidemic)
+- [Your Standards Are Too High](https://www.neelnanda.io/blog/35-standards)
 - [Bonsai (YC W16) Hiring Head of Growth Marketing](https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing)
 - [The Red Warning Light on Richard Branson’s Space Flight](https://www.newyorker.com/news/news-desk/the-red-warning-light-on-richard-bransons-space-flight)
-- [Amazon asked FCC to reject Starlink plan because it can’t compete, SpaceX says](https://arstechnica.com/tech-policy/2021/09/spacex-slams-amazons-obstructionist-ploy-to-block-starlink-upgrade-plan/)
-- [The Thoughts the Civilized Keep](https://www.noemamag.com/the-thoughts-the-civilized-keep/)
-- [The Guide to Kubernetes Labels](https://blog.kubecost.com/blog/kubernetes-labels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
