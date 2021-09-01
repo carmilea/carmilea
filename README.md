@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL Subtransactions Considered Harmful](https://postgres.ai/blog/20210831-postgresql-subtransactions-considered-harmful)
-- [Rolling your own minimal embedded Linux for the Raspberry Pi](https://kevinboone.me/pi_minimal.html)
-- [The U.S. Army Tried Portable Nuclear Power at Remote Bases 60 Years Ago](https://www.atlasobscura.com/articles/camp-century-portable-nuclear-reactor)
-- [You want enabling CSS selectors, not disabling ones](https://css-tricks.com/you-want-enabling-css-selectors-not-disabling-ones/)
-- [Retool (YC W17) is hiring engineers](https://news.ycombinator.com/item?id=28373610)
+- [BuildZoom (remote project management for construction) is hiring](https://jobs.lever.co/buildzoom)
+- [Metaphor: Searching the Web with Language Models](https://metaphor.so/)
+- [Multiplying Matrices Without Multiplying](https://arxiv.org/abs/2106.10860)
+- [A guide to fun mathematics YouTube channels](https://samenright.com/2021/08/31/a-laymans-guide-to-recreational-mathematics-videos/)
+- [It's Time for Operating Systems to Rediscover Hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote)
 <!-- BLOG-POST-LIST:END -->
 
 ---
