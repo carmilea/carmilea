@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Automatic Extraction of Secrets from the Transistor Jungle Using Laser-Assisted [pdf]](https://www.usenix.org/system/files/sec21-krachenfels.pdf)
+- [Show HN: Compile for Arm at native speeds in an emulated system](https://github.com/valkmit/aws-graviton2-on-intel)
 - [Vintage Computer Festival Midwest 16](http://vcfmw.org/)
 - [Google's New AI Photo Upscaling Tech Is Jaw-Dropping](https://petapixel.com/2021/08/30/googles-new-ai-photo-upscaling-tech-is-jaw-dropping/)
 - [CSS Nesting Module (First Public Working Draft)](https://www.w3.org/blog/news/archives/9236)
-- [BuildZoom (remote project management for construction) is hiring](https://jobs.lever.co/buildzoom)
-- [Multiplying Matrices Without Multiplying](https://arxiv.org/abs/2106.10860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
