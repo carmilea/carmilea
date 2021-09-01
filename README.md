@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Open-Source multi-dashboarding platform for teams and client reporting](https://github.com/chartbrew/chartbrew)
-- [Regulators and Reality](https://stratechery.com/2021/regulators-and-reality/)
-- [YouTube starts to require a credit card or ID to verify the age in EU (2020)](https://blog.youtube/news-and-events/using-technology-more-consistently-apply-age-restrictions/)
-- [Streak (YC S11) is hiring a TypeScript/React expert who likes shipping (remote)](https://www.streak.com/careers/product-engineer)
-- [Inequality, Interest Rates, Aging, and the Role of Central Banks](https://theovershoot.co/p/inequality-interest-rates-aging-and)
+- [Ask HN: Who is hiring? (September 2021)](https://news.ycombinator.com/item?id=28380661)
+- [Forward and Reverse Proxies Explained](https://www.haskellforall.com/2021/09/forward-and-reverse-proxies-explained.html)
+- [Tardigrades Walk, and We Were Not Ready for the Footage](https://www.sciencealert.com/scientists-take-videos-of-tardigrades-lumbering-to-work-out-why-they-walk-funny)
+- [AAS Journals Will Switch to Open Access](https://aas.org/press/aas-journals-open-access)
+- [The Internet ‘Died’ Five Years Ago](https://www.theatlantic.com/technology/archive/2021/08/dead-internet-theory-wrong-but-feels-true/619937/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
