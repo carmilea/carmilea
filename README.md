@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [About Super Follows](https://help.twitter.com/en/using-twitter/super-follows)
 - [FAA Releases Data Showing Trends in Dangerous Laser Strikes](https://www.faa.gov/newsroom/faa-releases-data-showing-trends-dangerous-laser-strikes)
 - [The Sackler Family Wins Immunity from Future Opioid Lawsuits](https://www.npr.org/2021/09/01/1031053251/sackler-family-immunity-purdue-pharma-oxcyontin-opioid-epidemic)
 - [Your Standards Are Too High](https://www.neelnanda.io/blog/35-standards)
 - [Bonsai (YC W16) Hiring Head of Growth Marketing](https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing)
-- [The Red Warning Light on Richard Branson’s Space Flight](https://www.newyorker.com/news/news-desk/the-red-warning-light-on-richard-bransons-space-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
