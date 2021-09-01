@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Study Effectively](https://psyche.co/guides/how-research-from-psychology-can-help-you-study-effectively)
+- [Writing, Technically](https://signalsandthreads.com/writing-technically/)
 - [Mozilla VPN Completes Independent Security Audit by Cure53](https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53/)
 - [Improving Git protocol security on GitHub](https://github.blog/2021-09-01-improving-git-protocol-security-github/)
 - [Mednet (YC W17) Is Hiring](https://www.workatastartup.com/jobs/15406)
-- [65,000 fake students applied for financial aid in wide community college scam](https://www.latimes.com/california/story/2021-09-01/california-college-financial-aid-scam-fake-students)
-- [Lenovo tablet forced update shows un-dismissable, un-mutable, ad notifications](https://twitter.com/benkrasnow/status/1433096367992295427)
 <!-- BLOG-POST-LIST:END -->
 
 ---
