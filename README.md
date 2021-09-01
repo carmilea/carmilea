@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [C# for Systems Programming](https://github.com/MichalStrehovsky/zerosharp)
-- [Stanford's Sapolsky on Depression (2009)](https://www.robertsapolskyrocks.com/depression.html)
+- [OpenBSD: Hibernate Time Reduced](https://www.undeadly.org/cgi?action=article;sid=20210831050932)
+- [Robert Sapolsky on Depression (2009)](https://www.robertsapolskyrocks.com/depression.html)
 - [Cooperative Package Management for Python](https://lwn.net/SubscriberLink/867657/0efafb319ce20e3e/)
 - [Automatic Extraction of Secrets from the Transistor Jungle Using Laser-Assisted [pdf]](https://www.usenix.org/system/files/sec21-krachenfels.pdf)
-- [Show HN: Compile for Arm at native speeds in an emulated system](https://github.com/valkmit/aws-graviton2-on-intel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
