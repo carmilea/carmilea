@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [McCarthy Threatens Technology Firms That Comply with Riot Inquiry](https://www.nytimes.com/2021/09/01/us/politics/mccarthy-capitol-riot.html)
+- [Apple to Allow Spotify, Other Media Apps to Link to Websites for Payment Options](https://www.wsj.com/articles/apple-to-allow-spotify-other-media-apps-to-link-to-websites-for-payment-options-11630544101)
+- [The World After Capital](https://worldaftercapital.org/)
+- [The evolution of WebRTC 1.0 (2017)](https://blog.mozilla.org/webrtc/the-evolution-of-webrtc/)
 - [Finley (YC W21) is hiring full-stack engineers to reimagine the capital markets](https://www.finleycms.com/careers/)
-- [My co-founder was a worthless chump but I survived](https://smackeyacky.blogspot.com/2021/09/my-co-founder-was-worthless-chump-but-i.html)
-- [Japan Fair Trade Commission Closes App Store Investigation](https://www.apple.com/newsroom/2021/09/japan-fair-trade-commission-closes-app-store-investigation/)
-- [The Feds Want to Know What the McFuck Is Going on with the McFlurry Machines](https://gizmodo.com/the-feds-want-to-know-what-the-mcfuck-is-going-on-with-1847601805)
-- [Can you guess which movie based on AI-generated poster?](https://noahveltman.com/aimovies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
