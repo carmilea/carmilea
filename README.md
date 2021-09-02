@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Threat from the Illiberal Left](https://www.economist.com/leaders/2021/09/04/the-threat-from-the-illiberal-left)
-- [Crew completes spaceship fit check ahead of all-private mission to orbit](https://spaceflightnow.com/2021/09/01/crew-completes-spaceship-fit-check-ahead-of-all-private-mission-to-orbit/)
-- [I interviewed Brian J. Fox, the creator of Bash](https://podcast.curiefense.io/22)
-- [Xiaomi Camera censoring German postal voting documents](https://www.reddit.com/r/Xiaomi/comments/pgk8y3/xiaomi_camera_censoring_german_postal_voting/)
-- [How Computationally Complex Is a Single Neuron?](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/)
+- [RISC-V Scalar Cryptography Extension reaches public review](https://github.com/riscv/riscv-crypto/releases/tag/v1.0.0-rc2-scalar)
+- [ReadMe (YC W15) is hiring a Product Marketer who loves developers](https://readme.com/careers#product-marketing-manager)
+- [How ksqlDB Works: Internal Architecture and Advanced Features](https://www.confluent.io/blog/ksqldb-architecture-and-advanced-features/)
+- [Ask HN: Do any discussion boards that aren't Facebook/Reddit still exist?](https://news.ycombinator.com/item?id=28394321)
+- [Gift Card Gang Extracts Cash from 100k Inboxes Daily](https://krebsonsecurity.com/2021/09/gift-card-gang-extracts-cash-from-100k-inboxes-daily/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
