@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [China's Alibaba to invest $15.5 bln for “common prosperity”](https://www.reuters.com/world/china/chinas-alibaba-invest-155-bln-towards-common-prosperity-2021-09-02/)
+- [A Founder’s Exponential Toolset: Wright’s Law, Moore’s Law, & More](https://www.nfx.com/post/exponential-age/)
+- [Picturing Git: Conceptions and Misconceptions](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/)
+- [European Payments Initiative (EPI)](https://www.epicompany.eu/)
 - [NEC’s Forgotten FPUs](https://www.cpushack.com/2021/09/01/necs-forgotten-fpus/)
-- [Tesla Model Y takes over Norway, pushes electric car sales to 72% market share](https://electrek.co/2021/09/02/tesla-model-y-takes-over-norway-electric-car-sales-market-share/)
-- [Someone could be tracking you through your headphones](https://nrkbeta.no/2021/09/02/someone-could-be-tracking-you-through-your-headphones/)
-- [The Australian federal government is planning to de-anonymize the internet](https://twitter.com/Alpha_Mind7/status/1433385841179643910)
-- [Fuzzing open source projects with OSS-Fuzz](https://adalogics.com/blog/fuzzing-100-open-source-projects-with-oss-fuzz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
