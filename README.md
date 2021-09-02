@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: It is a simple recording program with the ability to record the screen](https://github.com/akon47/ScreenRecorder)
+- [Pong Circuit-Level Simulation](https://www.falstad.com/pong/vonly.html)
 - [Apple Watch production delayed as engineers wrestle with quality issues](https://asia.nikkei.com/Business/Technology/Apple-Watch-production-delayed-as-engineers-wrestle-with-quality-issues)
 - [MadeWithML – A practical approach to learning production machine learning](https://github.com/GokuMohandas/MadeWithML)
 - [Opendesktop.org – Libre Cloud Services](https://www.opendesktop.org/)
-- [Apple to Allow Media Apps to Link to Own Websites for Payment Options](https://www.wsj.com/articles/apple-to-allow-spotify-other-media-apps-to-link-to-websites-for-payment-options-11630544101)
-- [The World After Capital (2018)](https://worldaftercapital.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
