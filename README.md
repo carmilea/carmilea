@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Skio (YC S20, just raised $3.3m) is hiring founding engineers](https://skio.com/careers)
-- [The iPhone 13 Does Not Have Satellite Internet, Band N53 and Globalstar](https://semianalysis.com/no-the-iphone-13-does-not-have-satellite-internet-band-n53-globalstar-gsat-explained/)
-- [New Tesla Roadster delayed again, now shooting for 2023](https://uk.motor1.com/news/530472/tesla-roadster-delayed-2023/)
-- [GateBoy – a gate-level Game Boy simulator](https://github.com/aappleby/MetroBoy)
-- [Amazon to remove more content that violates rules from cloud service – sources](https://www.reuters.com/technology/exclusive-amazon-proactively-remove-more-content-that-violates-rules-cloud-2021-09-02/)
+- [Security Analysis of Satisfyer Sex Toys](https://bananamafia.dev/post/satisfyer/)
+- [Chicken Scheme](https://call-cc.org/)
+- [Show HN: A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+- [Hoover (Seal)](https://en.wikipedia.org/wiki/Hoover_(seal))
+- [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
