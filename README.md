@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tomu – An ARM microprocessor which fits in your USB port](https://tomu.im/tomu.html)
+- [94% of 36 AI systems evaluated were less accurate than a single radiologist](https://www.bmj.com/content/374/bmj.n1872)
+- [Experiments on a $50 DIY air purifier you can make in 30s](https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/)
 - [RISC-V Scalar Cryptography Extension reaches public review](https://github.com/riscv/riscv-crypto/releases/tag/v1.0.0-rc2-scalar)
-- [ReadMe (YC W15) is hiring a Product Marketer who loves developers](https://readme.com/careers#product-marketing-manager)
-- [How ksqlDB Works: Internal Architecture and Advanced Features](https://www.confluent.io/blog/ksqldb-architecture-and-advanced-features/)
-- [Ask HN: Do any discussion boards that aren't Facebook/Reddit still exist?](https://news.ycombinator.com/item?id=28394321)
-- [Gift Card Gang Extracts Cash from 100k Inboxes Daily](https://krebsonsecurity.com/2021/09/gift-card-gang-extracts-cash-from-100k-inboxes-daily/)
+- [Sacklers granted lifetime legal immunity in opioid settlement](https://arstechnica.com/science/2021/09/billionaire-sacklers-granted-lifetime-legal-immunity-in-opioid-settlement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
