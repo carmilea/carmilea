@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NuCypher (YC S16) Is Hiring Engineers](https://docs.google.com/document/d/1Ghcx8K78iwpWQ77mRUhtlWuVgpAsBz-iYUyNDdV2EBE/edit?usp=sharing)
+- [Irish data privacy watchdog fines WhatsApp 225 mln euros](https://www.reuters.com/technology/irish-data-privacy-watchdog-fines-whatsapp-225-mln-euros-2021-09-02/)
 - [Record €225m fine for WhatsApp Ireland over data protection breaches](http://www.rte.ie/news/business/2021/0902/1244293-whatsapp-gdpr-ruling/)
 - [NitroPhone – Pixel 4a phone with GrapheneOS](https://www.nitrokey.com/news/2021/nitrophone-most-secure-android-planet)
-- [California to open five natural gas plants to avoid blackouts](https://kmph.com/news/local/california-to-open-5-natural-gas-plants-to-avoid-blackouts)
 - [Show HN: HN Badges – Displays game-like badges for your HN profile](https://hnbadges.netlify.app/)
-- [UK ISP Sky feeds realtime customer bandwidth data to litigous anti-piracy firm](https://torrentfreak.com/sky-subscribers-piracy-habits-directly-help-premier-league-block-illegal-streams-210828/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
