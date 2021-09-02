@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ampro “Little Board” PC](https://www.retrotechnology.com/restore/ampro_lb.html)
+- [Japan needs a lot more tech workers. Can it find a place for women?](https://www.japantimes.co.jp/news/2021/09/02/business/japan-tech-workers-women/)
+- [You Need a Novelty Budget (2018)](https://shimweasel.com/2018/08/25/novelty-budgets)
 - [Tomu – An ARM microprocessor which fits in your USB port](https://tomu.im/tomu.html)
 - [94% of 36 AI systems evaluated were less accurate than a single radiologist](https://www.bmj.com/content/374/bmj.n1872)
-- [Experiments on a $50 DIY air purifier you can make in 30s](https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/)
-- [RISC-V Scalar Cryptography Extension reaches public review](https://github.com/riscv/riscv-crypto/releases/tag/v1.0.0-rc2-scalar)
-- [Sacklers granted lifetime legal immunity in opioid settlement](https://arstechnica.com/science/2021/09/billionaire-sacklers-granted-lifetime-legal-immunity-in-opioid-settlement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
