@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Security Analysis of Satisfyer Sex Toys](https://bananamafia.dev/post/satisfyer/)
+- [The bias that makes innocent emails seem offensive](https://www.bbc.com/worklife/article/20210830-why-emails-often-read-more-negative-than-they-actually-are)
+- [FAA Investigates If It's Safer to Leave Cellphones On](https://spectrum.ieee.org/cellphones-turned-on-for-flight)
 - [Chicken Scheme](https://call-cc.org/)
 - [Show HN: A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
-- [Hoover (Seal)](https://en.wikipedia.org/wiki/Hoover_(seal))
-- [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
