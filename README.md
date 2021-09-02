@@ -54,8 +54,8 @@
 - [Apple Watch production delayed as engineers wrestle with quality issues](https://asia.nikkei.com/Business/Technology/Apple-Watch-production-delayed-as-engineers-wrestle-with-quality-issues)
 - [MadeWithML – A practical approach to learning production machine learning](https://github.com/GokuMohandas/MadeWithML)
 - [Opendesktop.org – Libre Cloud Services](https://www.opendesktop.org/)
-- [Apple to Allow Spotify, Other Media Apps to Link to Websites for Payment Options](https://www.wsj.com/articles/apple-to-allow-spotify-other-media-apps-to-link-to-websites-for-payment-options-11630544101)
-- [The World After Capital](https://worldaftercapital.org/)
+- [Apple to Allow Media Apps to Link to Own Websites for Payment Options](https://www.wsj.com/articles/apple-to-allow-spotify-other-media-apps-to-link-to-websites-for-payment-options-11630544101)
+- [The World After Capital (2018)](https://worldaftercapital.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
