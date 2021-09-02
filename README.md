@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla is ordered to turn over Autopilot data to a federal safety agency](https://www.nytimes.com/2021/09/01/business/tesla-autopilot-investigation.html)
-- [Mayor suggests Helsinki declare itself an English-language city](https://www.theguardian.com/world/2021/sep/02/mayor-suggests-helsinki-declare-english-language-city-finnish)
-- [NuCypher (YC S16) Is Hiring Engineers](https://docs.google.com/document/d/1Ghcx8K78iwpWQ77mRUhtlWuVgpAsBz-iYUyNDdV2EBE/edit?usp=sharing)
-- [Record €225m fine for WhatsApp Ireland over data protection breaches](http://www.rte.ie/news/business/2021/0902/1244293-whatsapp-gdpr-ruling/)
-- [NitroPhone – Pixel 4a phone with GrapheneOS](https://www.nitrokey.com/news/2021/nitrophone-most-secure-android-planet)
+- [NEC’s Forgotten FPUs](https://www.cpushack.com/2021/09/01/necs-forgotten-fpus/)
+- [Tesla Model Y takes over Norway, pushes electric car sales to 72% market share](https://electrek.co/2021/09/02/tesla-model-y-takes-over-norway-electric-car-sales-market-share/)
+- [Someone could be tracking you through your headphones](https://nrkbeta.no/2021/09/02/someone-could-be-tracking-you-through-your-headphones/)
+- [The Australian federal government is planning to de-anonymize the internet](https://twitter.com/Alpha_Mind7/status/1433385841179643910)
+- [Fuzzing open source projects with OSS-Fuzz](https://adalogics.com/blog/fuzzing-100-open-source-projects-with-oss-fuzz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
