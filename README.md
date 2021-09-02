@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Startup Cities and the Housing Crisis: The Only Way Out Is Up](https://profectusmag.com/startup-cities/)
+- [An optimal algorithm for bounded random integers](https://github.com/apple/swift/pull/39143)
+- [A grim warning from Israel: Vaccination blunts, but does not defeat Delta](https://www.science.org/news/2021/08/grim-warning-israel-vaccination-blunts-does-not-defeat-delta)
 - [Ampro “Little Board” PC](https://www.retrotechnology.com/restore/ampro_lb.html)
 - [Japan needs a lot more tech workers. Can it find a place for women?](https://www.japantimes.co.jp/news/2021/09/02/business/japan-tech-workers-women/)
-- [You Need a Novelty Budget (2018)](https://shimweasel.com/2018/08/25/novelty-budgets)
-- [Tomu – An ARM microprocessor which fits in your USB port](https://tomu.im/tomu.html)
-- [94% of 36 AI systems evaluated were less accurate than a single radiologist](https://www.bmj.com/content/374/bmj.n1872)
 <!-- BLOG-POST-LIST:END -->
 
 ---
