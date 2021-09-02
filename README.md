@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [About Super Follows](https://help.twitter.com/en/using-twitter/super-follows)
-- [FAA Releases Data Showing Trends in Dangerous Laser Strikes](https://www.faa.gov/newsroom/faa-releases-data-showing-trends-dangerous-laser-strikes)
-- [The Sackler Family Wins Immunity from Future Opioid Lawsuits](https://www.npr.org/2021/09/01/1031053251/sackler-family-immunity-purdue-pharma-oxcyontin-opioid-epidemic)
-- [Your Standards Are Too High](https://www.neelnanda.io/blog/35-standards)
-- [Bonsai (YC W16) Hiring Head of Growth Marketing](https://www.ycombinator.com/companies/bonsai/jobs/HY1P6AN-head-of-growth-marketing)
+- [Finley (YC W21) is hiring full-stack engineers to reimagine the capital markets](https://www.finleycms.com/careers/)
+- [My co-founder was a worthless chump but I survived](https://smackeyacky.blogspot.com/2021/09/my-co-founder-was-worthless-chump-but-i.html)
+- [Japan Fair Trade Commission Closes App Store Investigation](https://www.apple.com/newsroom/2021/09/japan-fair-trade-commission-closes-app-store-investigation/)
+- [The Feds Want to Know What the McFuck Is Going on with the McFlurry Machines](https://gizmodo.com/the-feds-want-to-know-what-the-mcfuck-is-going-on-with-1847601805)
+- [Can you guess which movie based on AI-generated poster?](https://noahveltman.com/aimovies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
