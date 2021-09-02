@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: HN Badges – Displays game-like badges for your HN profile](https://hnbadges.netlify.app/)
+- [UK ISP Sky feeds realtime customer bandwidth data to litigous anti-piracy firm](https://torrentfreak.com/sky-subscribers-piracy-habits-directly-help-premier-league-block-illegal-streams-210828/)
+- [Ask HN: Aren't you terrified of Plaid account verification approach?](https://news.ycombinator.com/item?id=28389576)
 - [M1 MacBook Screen Crack Investigation](https://classlawdc.com/2021/08/04/m1-macbook-screen-crack-investigation/)
 - [Stacker (YC S20) Is Hiring a Growth Engineer](https://apply.workable.com/stackerhq/j/ED8D9D7580/)
-- [ListMonk – High performance, self-hosted newsletter and mailing list manager](https://github.com/knadh/listmonk)
-- [RFC 791: Internet Protocol (1981)](https://datatracker.ietf.org/doc/html/rfc791)
-- [Show HN: It is a simple recording program with the ability to record the screen](https://github.com/akon47/ScreenRecorder)
 <!-- BLOG-POST-LIST:END -->
 
 ---
