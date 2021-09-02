@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Startup Cities and the Housing Crisis: The Only Way Out Is Up](https://profectusmag.com/startup-cities/)
-- [An optimal algorithm for bounded random integers](https://github.com/apple/swift/pull/39143)
-- [A grim warning from Israel: Vaccination blunts, but does not defeat Delta](https://www.science.org/news/2021/08/grim-warning-israel-vaccination-blunts-does-not-defeat-delta)
-- [Ampro “Little Board” PC](https://www.retrotechnology.com/restore/ampro_lb.html)
-- [Japan needs a lot more tech workers. Can it find a place for women?](https://www.japantimes.co.jp/news/2021/09/02/business/japan-tech-workers-women/)
+- [Skio (YC S20, just raised $3.3m) is hiring founding engineers](https://skio.com/careers)
+- [The iPhone 13 Does Not Have Satellite Internet, Band N53 and Globalstar](https://semianalysis.com/no-the-iphone-13-does-not-have-satellite-internet-band-n53-globalstar-gsat-explained/)
+- [New Tesla Roadster delayed again, now shooting for 2023](https://uk.motor1.com/news/530472/tesla-roadster-delayed-2023/)
+- [GateBoy – a gate-level Game Boy simulator](https://github.com/aappleby/MetroBoy)
+- [Amazon to remove more content that violates rules from cloud service – sources](https://www.reuters.com/technology/exclusive-amazon-proactively-remove-more-content-that-violates-rules-cloud-2021-09-02/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
