@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [M1 MacBook Screen Crack Investigation](https://classlawdc.com/2021/08/04/m1-macbook-screen-crack-investigation/)
 - [Stacker (YC S20) Is Hiring a Growth Engineer](https://apply.workable.com/stackerhq/j/ED8D9D7580/)
 - [ListMonk – High performance, self-hosted newsletter and mailing list manager](https://github.com/knadh/listmonk)
-- [Happy 40th IPv4, a.k.a. RFC 791](https://datatracker.ietf.org/doc/html/rfc791)
+- [RFC 791: Internet Protocol (1981)](https://datatracker.ietf.org/doc/html/rfc791)
 - [Show HN: It is a simple recording program with the ability to record the screen](https://github.com/akon47/ScreenRecorder)
-- [Pong Circuit-Level Simulation](https://www.falstad.com/pong/vonly.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
