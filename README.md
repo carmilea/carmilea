@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stacker (YC S20) Is Hiring a Growth Engineer](https://apply.workable.com/stackerhq/j/ED8D9D7580/)
+- [ListMonk – High performance, self-hosted newsletter and mailing list manager](https://github.com/knadh/listmonk)
+- [Happy 40th IPv4, a.k.a. RFC 791](https://datatracker.ietf.org/doc/html/rfc791)
 - [Show HN: It is a simple recording program with the ability to record the screen](https://github.com/akon47/ScreenRecorder)
 - [Pong Circuit-Level Simulation](https://www.falstad.com/pong/vonly.html)
-- [Apple Watch production delayed as engineers wrestle with quality issues](https://asia.nikkei.com/Business/Technology/Apple-Watch-production-delayed-as-engineers-wrestle-with-quality-issues)
-- [MadeWithML – A practical approach to learning production machine learning](https://github.com/GokuMohandas/MadeWithML)
-- [Opendesktop.org – Libre Cloud Services](https://www.opendesktop.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
