@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NitroPhone – “Most Secure Android on the Planet”](https://www.nitrokey.com/news/2021/nitrophone-most-secure-android-planet)
+- [Record €225m fine for WhatsApp Ireland over data protection breaches](http://www.rte.ie/news/business/2021/0902/1244293-whatsapp-gdpr-ruling/)
+- [NitroPhone – Pixel 4a phone with GrapheneOS](https://www.nitrokey.com/news/2021/nitrophone-most-secure-android-planet)
+- [California to open five natural gas plants to avoid blackouts](https://kmph.com/news/local/california-to-open-5-natural-gas-plants-to-avoid-blackouts)
 - [Show HN: HN Badges – Displays game-like badges for your HN profile](https://hnbadges.netlify.app/)
 - [UK ISP Sky feeds realtime customer bandwidth data to litigous anti-piracy firm](https://torrentfreak.com/sky-subscribers-piracy-habits-directly-help-premier-league-block-illegal-streams-210828/)
-- [M1 MacBook Screen Crack Investigation](https://classlawdc.com/2021/08/04/m1-macbook-screen-crack-investigation/)
-- [Stacker (YC S20) Is Hiring a Growth Engineer](https://apply.workable.com/stackerhq/j/ED8D9D7580/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
