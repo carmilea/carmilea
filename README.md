@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China's Alibaba to invest $15.5 bln for “common prosperity”](https://www.reuters.com/world/china/chinas-alibaba-invest-155-bln-towards-common-prosperity-2021-09-02/)
-- [A Founder’s Exponential Toolset: Wright’s Law, Moore’s Law, & More](https://www.nfx.com/post/exponential-age/)
-- [Picturing Git: Conceptions and Misconceptions](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/)
-- [European Payments Initiative (EPI)](https://www.epicompany.eu/)
-- [NEC’s Forgotten FPUs](https://www.cpushack.com/2021/09/01/necs-forgotten-fpus/)
+- [The Threat from the Illiberal Left](https://www.economist.com/leaders/2021/09/04/the-threat-from-the-illiberal-left)
+- [Crew completes spaceship fit check ahead of all-private mission to orbit](https://spaceflightnow.com/2021/09/01/crew-completes-spaceship-fit-check-ahead-of-all-private-mission-to-orbit/)
+- [I interviewed Brian J. Fox, the creator of Bash](https://podcast.curiefense.io/22)
+- [Xiaomi Camera censoring German postal voting documents](https://www.reddit.com/r/Xiaomi/comments/pgk8y3/xiaomi_camera_censoring_german_postal_voting/)
+- [How Computationally Complex Is a Single Neuron?](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
