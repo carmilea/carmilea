@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Runops (YC W21) Is Hiring a Developer That Enjoys Content Creation](https://news.ycombinator.com/item?id=28406679)
-- [PC-86-DOS](https://www.os2museum.com/wp/pc-86-dos/)
-- [Mass exploitation of Atlassian Confluence CVE-2021-26084](https://twitter.com/CNMF_CyberAlert/status/1433787671785185283)
-- [US Patent Office Report concludes software piracy increases innovation](https://www.uspto.gov/ip-policy/economic-research/publications/working-papers)
-- [MIT Mathlets](https://mathlets.org/mathlets/)
+- [Surgical masks reduce Covid-19 spread, large-scale Stanford study shows](https://med.stanford.edu/news/all-news/2021/09/surgical-masks-covid-19.html)
+- [Traceroute(8) Gets Speed Boost](http://undeadly.org/cgi?action=article;sid=20210903094704)
+- [The fungal mind: on the evidence for mushroom intelligence](https://psyche.co/ideas/the-fungal-mind-on-the-evidence-for-mushroom-intelligence)
+- [Bionic Hand Provides Strength and Haptic Feedback](https://www.machinedesign.com/medical-design/video/21174228/bionic-hand-provides-strength-and-haptic-feedback)
+- [Housing First [pdf]](https://www.hcd.ca.gov/grants-funding/active-funding/docs/housing-first-fact-sheet.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
