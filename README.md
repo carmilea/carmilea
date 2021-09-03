@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon’s answer to delivery driver shortage: Pot smokers](https://www.latimes.com/business/technology/story/2021-09-01/amazons-answer-to-delivery-driver-shortage-recruit-pot-smokers)
-- [UBS CEO: Those who don’t want the vaccine can work from home](https://remoteclan.com/s/vdktrc/ubs_ceo_s_new_remote_work_policy_those_who)
+- [Amazon “may be the largest unregulated pawnshop on the face of the planet”](https://www.wsj.com/articles/cvs-home-depot-theft-organized-crime-11630505851)
+- [Apple Delaying Rollout of Controversial Child Safety Features](https://www.macrumors.com/2021/09/03/apple-delaying-rollout-of-child-safety-features/)
+- [OpenMoji: Open-source emojis for designers, developers and everyone else](https://openmoji.org)
 - [Poll Everywhere (YC S08) Is Hiring Product Designers](https://bookface.ycombinator.com/company/282/jobs/46181)
-- [Take-Two Sues Enthusiasts Behind GTA Fan Projects Re3 and ReVC](https://torrentfreak.com/take-two-sues-enthusiasts-behind-gta-fan-projects-re3-revc-210903/)
-- [GitHub Copilot Generated Insecure Code in 40% of Circumstances During Experiment](https://www.theinsaneapp.com/2021/09/github-copilot-generated-40-percent-insecure-code.html)
+- [Windows 11: a survey of text boxes](https://sjmulder.nl/2021/textboxes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
