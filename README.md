@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Please don’t theme our apps](https://stopthemingmy.app/)
 - [Renaissance executives agree to pay around $7B to settle dispute with IRS](https://www.reuters.com/article/renaissance-technologies-llc-irs/update-3-renaissance-executives-agree-to-pay-around-7-bln-to-settle-tax-dispute-with-irs-source-idUSL4N2Q43IN)
 - [Keyboard Latency](https://danluu.com/keyboard-latency/)
 - [U.S. labor agency investigating two complaints from Apple workers](https://www.reuters.com/technology/us-national-labor-relations-board-investigating-two-complaints-apple-workers-2021-09-02/)
-- [Show HN: EvalRSS – A Social RSS Aggregator](https://www.evalrss.com/)
-- [DARPA Developed Nonsurgical Brain Interfaces to Control Drones Using Thoughts](https://idstch.com/technology/biosciences/darpa-n3-developing-nonsurgical-brain-machine-interfaces-for-soldiers-to-use-his-thoughts-alone-to-control-multiple-unmanned-vehicles-or-a-bomb-disposal-robot-on-battlefield/)
+- [Wildfire in the Western United States: Past, Present, and Future](https://storymaps.arcgis.com/stories/bb7fe74c1f9f4fec8910a1b39e1c42ff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
