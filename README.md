@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome to remove detailed cookie and site data controls](https://lapcatsoftware.com/articles/chrome-cookie.html)
+- [The Reactive Manifesto](https://www.reactivemanifesto.org/)
+- [Hardest amorphous material can scratch even diamond](https://www.chemistryworld.com/news/hardest-amorphous-material-can-scratch-even-diamond/4014257.article)
 - [Surgical masks reduce Covid-19 spread, large-scale Stanford study shows](https://med.stanford.edu/news/all-news/2021/09/surgical-masks-covid-19.html)
-- [Traceroute(8) Gets Speed Boost](http://undeadly.org/cgi?action=article;sid=20210903094704)
-- [The fungal mind: on the evidence for mushroom intelligence](https://psyche.co/ideas/the-fungal-mind-on-the-evidence-for-mushroom-intelligence)
-- [Bionic Hand Provides Strength and Haptic Feedback](https://www.machinedesign.com/medical-design/video/21174228/bionic-hand-provides-strength-and-haptic-feedback)
-- [Housing First [pdf]](https://www.hcd.ca.gov/grants-funding/active-funding/docs/housing-first-fact-sheet.pdf)
+- [India’s DNA Covid vaccine is a world first – more are coming](https://www.nature.com/articles/d41586-021-02385-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
