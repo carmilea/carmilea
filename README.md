@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Exploring RISC-V, Hiring RISC-V 'High Performance' Programmers](https://www.tomshardware.com/news/apple-looking-for-risc-v-programmers)
 - [Designing Aero Snap (2009)](https://web.archive.org/web/20200211122709/https://docs.microsoft.com/en-us/archive/blogs/e7/designing-aero-snap)
 - [A new way to detect ‘deepfake’ picture editing](https://www.lightbluetouchpaper.org/2021/06/07/a-new-way-to-detect-deepfake-picture-editing/)
 - [Raycast (YC W20) Is Hiring macOS Engineers to Make Dev Teams More Productive](https://www.raycast.com/jobs/software-engineer-macos/)
 - [Show HN: A tool for your learning, like Anki and Notion in one](https://notegarden.web.app/)
-- [Show HN: AI powered meme search, open-source](http://examples.jina.ai:8501/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
