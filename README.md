@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Air Force chief software officer quits](https://www.theregister.com/2021/09/03/usaf_chief_software_officer_quits_angry_post/)
+- [The Unsuccessful Treatment of a Case of “Writer's Block” (1974) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1311997/pdf/jaba00061-0143a.pdf)
+- [Mushroom Time-Lapses Are Filmed [video]](https://www.youtube.com/watch?v=5yq0_mqN97s)
 - [Google Chrome to remove detailed cookie and site data controls](https://lapcatsoftware.com/articles/chrome-cookie.html)
 - [The Reactive Manifesto](https://www.reactivemanifesto.org/)
-- [Hardest amorphous material can scratch even diamond](https://www.chemistryworld.com/news/hardest-amorphous-material-can-scratch-even-diamond/4014257.article)
-- [Surgical masks reduce Covid-19 spread, large-scale Stanford study shows](https://med.stanford.edu/news/all-news/2021/09/surgical-masks-covid-19.html)
-- [India’s DNA Covid vaccine is a world first – more are coming](https://www.nature.com/articles/d41586-021-02385-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
