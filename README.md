@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Runops (YC W21) Is Hiring a Developer That Enjoys Content Creation](https://news.ycombinator.com/item?id=28406679)
+- [PC-86-DOS](https://www.os2museum.com/wp/pc-86-dos/)
 - [Mass exploitation of Atlassian Confluence CVE-2021-26084](https://twitter.com/CNMF_CyberAlert/status/1433787671785185283)
 - [US Patent Office Report concludes software piracy increases innovation](https://www.uspto.gov/ip-policy/economic-research/publications/working-papers)
 - [MIT Mathlets](https://mathlets.org/mathlets/)
-- [You’ve Never Seen the Opioid Crisis Like This Before: A Review of Empire of Pain](https://nursingclio.org/2021/08/12/youve-never-seen-the-opioid-crisis-like-this-before-a-review-of-empire-of-pain/)
-- [Gitpod shipped GitHub a launch cake for Codespaces](https://www.gitpod.io/blog/cake)
 <!-- BLOG-POST-LIST:END -->
 
 ---
