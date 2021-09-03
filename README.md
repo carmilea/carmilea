@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mushroom Cultivation Automation [video]](https://www.youtube.com/watch?v=z41Wy5ZF4O8)
+- [Why can an ad break the Windows 11 desktop and taskbar?](https://www.ctrl.blog/entry/windows11-empty-taskbar.html)
 - [The NSA's Backdoor in Dual EC](https://twitter.com/matthew_d_green/status/1433470109742518273)
-- [Apple to Delay iPhone Update That Could Scan Device for Illegal Content](https://www.wsj.com/articles/apple-to-delay-iphone-update-that-could-scan-device-for-illegal-content-11630676309)
-- [Perusing the People’s Computing Company](https://hackaday.com/2021/09/02/perusing-the-peoples-computing-company/)
 - [RNA breakthrough creates crops that can grow 50 percent more potatoes, rice](https://www.sciencedaily.com/releases/2021/07/210722112953.htm)
 - [Retailers are spending millions to combat organized theft from stores](https://www.wsj.com/articles/cvs-home-depot-theft-organized-crime-11630505851)
 <!-- BLOG-POST-LIST:END -->
