@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon’s answer to delivery driver shortage: Pot smokers](https://www.latimes.com/business/technology/story/2021-09-01/amazons-answer-to-delivery-driver-shortage-recruit-pot-smokers)
+- [UBS CEO: Those who don’t want the vaccine can work from home](https://remoteclan.com/s/vdktrc/ubs_ceo_s_new_remote_work_policy_those_who)
+- [Poll Everywhere (YC S08) Is Hiring Product Designers](https://bookface.ycombinator.com/company/282/jobs/46181)
+- [Take-Two Sues Enthusiasts Behind GTA Fan Projects Re3 and ReVC](https://torrentfreak.com/take-two-sues-enthusiasts-behind-gta-fan-projects-re3-revc-210903/)
 - [GitHub Copilot Generated Insecure Code in 40% of Circumstances During Experiment](https://www.theinsaneapp.com/2021/09/github-copilot-generated-40-percent-insecure-code.html)
-- [Operations is not Developer IT](https://matduggan.com/operations-is-not-developer-it/)
-- [Apple Exploring RISC-V, Hiring RISC-V 'High Performance' Programmers](https://www.tomshardware.com/news/apple-looking-for-risc-v-programmers)
-- [Designing Aero Snap (2009)](https://web.archive.org/web/20200211122709/https://docs.microsoft.com/en-us/archive/blogs/e7/designing-aero-snap)
-- [A new way to detect ‘deepfake’ picture editing](https://www.lightbluetouchpaper.org/2021/06/07/a-new-way-to-detect-deepfake-picture-editing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
