@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon “may be the largest unregulated pawnshop on the face of the planet”](https://www.wsj.com/articles/cvs-home-depot-theft-organized-crime-11630505851)
-- [Apple Delaying Rollout of Controversial Child Safety Features](https://www.macrumors.com/2021/09/03/apple-delaying-rollout-of-child-safety-features/)
-- [OpenMoji: Open-source emojis for designers, developers and everyone else](https://openmoji.org)
-- [Poll Everywhere (YC S08) Is Hiring Product Designers](https://bookface.ycombinator.com/company/282/jobs/46181)
-- [Windows 11: a survey of text boxes](https://sjmulder.nl/2021/textboxes/)
+- [The NSA's Backdoor in Dual EC](https://twitter.com/matthew_d_green/status/1433470109742518273)
+- [Apple to Delay iPhone Update That Could Scan Device for Illegal Content](https://www.wsj.com/articles/apple-to-delay-iphone-update-that-could-scan-device-for-illegal-content-11630676309)
+- [Perusing the People’s Computing Company](https://hackaday.com/2021/09/02/perusing-the-peoples-computing-company/)
+- [RNA breakthrough creates crops that can grow 50 percent more potatoes, rice](https://www.sciencedaily.com/releases/2021/07/210722112953.htm)
+- [Retailers are spending millions to combat organized theft from stores](https://www.wsj.com/articles/cvs-home-depot-theft-organized-crime-11630505851)
 <!-- BLOG-POST-LIST:END -->
 
 ---
