@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. labor agency investigating two complaints from Apple workers](https://www.reuters.com/technology/us-national-labor-relations-board-investigating-two-complaints-apple-workers-2021-09-02/)
+- [Show HN: EvalRSS – A Social RSS Aggregator](https://www.evalrss.com/)
 - [Pavel Durov: Most studies show humanity is now less free than several years ago](https://t.me/durov/165)
 - [Awesome Lattice FPGA Boards](https://github.com/kelu124/awesome-latticeFPGAs)
 - [DARPA Developed Nonsurgical Brain Interfaces to Control Drones Using Thoughts](https://idstch.com/technology/biosciences/darpa-n3-developing-nonsurgical-brain-machine-interfaces-for-soldiers-to-use-his-thoughts-alone-to-control-multiple-unmanned-vehicles-or-a-bomb-disposal-robot-on-battlefield/)
-- [Security Analysis of Satisfyer Sex Toys](https://bananamafia.dev/post/satisfyer/)
-- [Chicken Scheme](https://call-cc.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
