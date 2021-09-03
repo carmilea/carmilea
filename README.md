@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Ways to Be Told That Your Python Code Is Bad](https://nickdrozd.github.io/2021/09/02/new-pylint-checks.html)
+- [The pandemic’s true death toll](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-estimates)
 - [Security Analysis of Satisfyer Sex Toys](https://bananamafia.dev/post/satisfyer/)
-- [The bias that makes innocent emails seem offensive](https://www.bbc.com/worklife/article/20210830-why-emails-often-read-more-negative-than-they-actually-are)
-- [FAA Investigates If It's Safer to Leave Cellphones On](https://spectrum.ieee.org/cellphones-turned-on-for-flight)
 - [Chicken Scheme](https://call-cc.org/)
 - [Show HN: A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 <!-- BLOG-POST-LIST:END -->
