@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Tesorio (YC S15) is hiring – join our fully distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - [Vacation isn’t the answer to employee burnout](https://technical.ly/2021/08/30/vacation-employee-burnout/)
+- [Stanford researchers develop an engineered 'mini' CRISPR genome editing system](https://news.stanford.edu/2021/09/03/researchers-develop-hypercompact-crispr/)
 - [US Air Force chief software officer quits](https://www.theregister.com/2021/09/03/usaf_chief_software_officer_quits_angry_post/)
 - [The Unsuccessful Treatment of a Case of “Writer's Block” (1974) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1311997/pdf/jaba00061-0143a.pdf)
-- [Mushroom Time-Lapses Are Filmed [video]](https://www.youtube.com/watch?v=5yq0_mqN97s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
