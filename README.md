@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mushroom Cultivation Automation [video]](https://www.youtube.com/watch?v=z41Wy5ZF4O8)
-- [Why can an ad break the Windows 11 desktop and taskbar?](https://www.ctrl.blog/entry/windows11-empty-taskbar.html)
-- [The NSA's Backdoor in Dual EC](https://twitter.com/matthew_d_green/status/1433470109742518273)
-- [RNA breakthrough creates crops that can grow 50 percent more potatoes, rice](https://www.sciencedaily.com/releases/2021/07/210722112953.htm)
-- [Retailers are spending millions to combat organized theft from stores](https://www.wsj.com/articles/cvs-home-depot-theft-organized-crime-11630505851)
+- [Mass exploitation of Atlassian Confluence CVE-2021-26084](https://twitter.com/CNMF_CyberAlert/status/1433787671785185283)
+- [US Patent Office Report concludes software piracy increases innovation](https://www.uspto.gov/ip-policy/economic-research/publications/working-papers)
+- [MIT Mathlets](https://mathlets.org/mathlets/)
+- [You’ve Never Seen the Opioid Crisis Like This Before: A Review of Empire of Pain](https://nursingclio.org/2021/08/12/youve-never-seen-the-opioid-crisis-like-this-before-a-review-of-empire-of-pain/)
+- [Gitpod shipped GitHub a launch cake for Codespaces](https://www.gitpod.io/blog/cake)
 <!-- BLOG-POST-LIST:END -->
 
 ---
