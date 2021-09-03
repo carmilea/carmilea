@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio (YC S15) is hiring – join our fully distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [Vacation isn’t the answer to employee burnout](https://technical.ly/2021/08/30/vacation-employee-burnout/)
 - [US Air Force chief software officer quits](https://www.theregister.com/2021/09/03/usaf_chief_software_officer_quits_angry_post/)
 - [The Unsuccessful Treatment of a Case of “Writer's Block” (1974) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1311997/pdf/jaba00061-0143a.pdf)
 - [Mushroom Time-Lapses Are Filmed [video]](https://www.youtube.com/watch?v=5yq0_mqN97s)
-- [Google Chrome to remove detailed cookie and site data controls](https://lapcatsoftware.com/articles/chrome-cookie.html)
-- [The Reactive Manifesto](https://www.reactivemanifesto.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
