@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing Aero Snap (2009)](https://web.archive.org/web/20200211122709/https://docs.microsoft.com/en-us/archive/blogs/e7/designing-aero-snap)
+- [A new way to detect ‘deepfake’ picture editing](https://www.lightbluetouchpaper.org/2021/06/07/a-new-way-to-detect-deepfake-picture-editing/)
 - [Raycast (YC W20) Is Hiring macOS Engineers to Make Dev Teams More Productive](https://www.raycast.com/jobs/software-engineer-macos/)
-- [We Don't Do Daily Stand-Ups at Supercede](https://jezenthomas.com/why-we-dont-do-daily-stand-ups-at-supercede/)
 - [Show HN: A tool for your learning, like Anki and Notion in one](https://notegarden.web.app/)
 - [Show HN: AI powered meme search, open-source](http://examples.jina.ai:8501/)
-- [Renaissance executives agree to pay around $7B to settle dispute with IRS](https://www.reuters.com/article/renaissance-technologies-llc-irs/update-3-renaissance-executives-agree-to-pay-around-7-bln-to-settle-tax-dispute-with-irs-source-idUSL4N2Q43IN)
 <!-- BLOG-POST-LIST:END -->
 
 ---
