@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Please don’t theme our apps](https://stopthemingmy.app/)
+- [Show HN: A tool for your learning, like Anki and Notion in one](https://notegarden.web.app/)
+- [Show HN: AI powered meme search, open-source](http://examples.jina.ai:8501/)
+- [The Little Things: Comparing Floating Point Numbers](https://codingnest.com/the-little-things-comparing-floating-point-numbers/)
 - [Renaissance executives agree to pay around $7B to settle dispute with IRS](https://www.reuters.com/article/renaissance-technologies-llc-irs/update-3-renaissance-executives-agree-to-pay-around-7-bln-to-settle-tax-dispute-with-irs-source-idUSL4N2Q43IN)
-- [Keyboard Latency](https://danluu.com/keyboard-latency/)
-- [U.S. labor agency investigating two complaints from Apple workers](https://www.reuters.com/technology/us-national-labor-relations-board-investigating-two-complaints-apple-workers-2021-09-02/)
-- [Wildfire in the Western United States: Past, Present, and Future](https://storymaps.arcgis.com/stories/bb7fe74c1f9f4fec8910a1b39e1c42ff)
+- [Keyboard Latency (2017)](https://danluu.com/keyboard-latency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
