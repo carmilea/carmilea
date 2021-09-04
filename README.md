@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator's Demo Day loses luster](https://www.axios.com/y-combinators-demo-day-loses-luster-fe34966b-062c-4591-af9a-3eabb4237571.html)
+- [Many young people diagnosed with Tourette’s after watching a YouTube channel](https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann)
+- [The Invisible Rulebooks](https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html?)
+- [Kei Car](https://en.wikipedia.org/wiki/Kei_car)
 - [GoDaddy Is Giving Texas Abortion Snitching Site the Boot](https://gizmodo.com/godaddy-is-giving-texas-abortion-snitching-site-the-boo-1847616447)
-- [Smarking (YC W15) Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Fish eyes grown in a petri dish from embryonic stem cells](https://phys.org/news/2021-09-fish-eyes-grown-petri-dish.html)
-- [Back Orifice (1998)](https://web.archive.org/web/20180715070715/http://www.cultdeadcow.com/tools/bo.html)
-- [WaterBear – A free library of documentaries and shorts](https://www.waterbear.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
