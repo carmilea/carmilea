@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PayPal Mafia](https://en.wikipedia.org/wiki/PayPal_Mafia)
 - [Y Combinator's Demo Day loses luster](https://www.axios.com/y-combinators-demo-day-loses-luster-fe34966b-062c-4591-af9a-3eabb4237571.html)
 - [Many young people diagnosed with Tourette’s after watching a YouTube channel](https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann)
 - [The Invisible Rulebooks](https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html?)
 - [Kei Car](https://en.wikipedia.org/wiki/Kei_car)
-- [GoDaddy Is Giving Texas Abortion Snitching Site the Boot](https://gizmodo.com/godaddy-is-giving-texas-abortion-snitching-site-the-boo-1847616447)
 <!-- BLOG-POST-LIST:END -->
 
 ---
