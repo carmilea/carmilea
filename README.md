@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why California liberals turn into raging conservatives over housing](https://www.sfchronicle.com/opinion/openforum/article/Why-California-liberals-are-so-conservative-about-16432660.php)
+- [An Epidemic of Wage Theft Is Costing Workers Hundreds of Millions a Year](https://www.epi.org/publication/epidemic-wage-theft-costing-workers-hundreds/)
+- [New Texas Abortion Law Likely to Unleash a Torrent of Lawsuits Against Education](https://www.eff.org/deeplinks/2021/09/new-texas-abortion-law-likely-unleash-torrent-lawsuits-against-online-education)
 - [Bitwarden is now in Arch Linux community repository](https://archlinux.org/packages/community/x86_64/bitwarden)
 - [Dime (YC S21) is hiring a full time software engineer](https://www.ycombinator.com/companies/dime/jobs/Syx4e1Y-full-time-engineer-3-employee-at-dime)
 - [The Age of the Essay (2004)](http://paulgraham.com/essay.html)
-- [MicroAcquire: Sell Your Startup](https://microacquire.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
