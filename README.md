@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD Patent Proposes Teleportation to Make Quantum Computing More Efficient](https://www.tomshardware.com/news/amd-teleportation-quantum-computing-patent)
+- [Zorin OS 16 is what a Linux desktop distribution should be](https://www.techrepublic.com/article/zorinos-16-is-exactly-what-a-linux-desktop-distribution-should-be/)
+- [Amtrak might add more than 50 new routes. But they won't be faster than a car](https://edition.cnn.com/2021/09/01/tech/amtrak-speed-trains/index.html)
+- [Flowers Make a Nice Gift](https://www.echevarria.io/blog/flowers-make-a-nice-gift/index.html)
 - [An Epidemic of Wage Theft Is Costing Workers Hundreds of Millions a Year](https://www.epi.org/publication/epidemic-wage-theft-costing-workers-hundreds/)
-- [New Texas Abortion Law Likely to Unleash a Torrent of Lawsuits Against Education](https://www.eff.org/deeplinks/2021/09/new-texas-abortion-law-likely-unleash-torrent-lawsuits-against-online-education)
-- [Bitwarden is now in Arch Linux community repository](https://archlinux.org/packages/community/x86_64/bitwarden)
-- [Dime (YC S21) is hiring a full time software engineer](https://www.ycombinator.com/companies/dime/jobs/Syx4e1Y-full-time-engineer-3-employee-at-dime)
-- [The Age of the Essay (2004)](http://paulgraham.com/essay.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
