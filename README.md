@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating to Next.js from React.js](https://nextjs.org/docs/migrating/from-create-react-app)
+- [Shlinkedin – Satirical Social Network](https://www.shlinkedin.com/)
+- [Neurocracy](https://neurocracy.site/)
 - [A nasty bit of undefined timezone behavior in Golang](https://www.dolthub.com/blog/2021-09-03-golang-time-bugs/)
 - [Forgetting My First Language](https://www.newyorker.com/culture/personal-history/forgetting-my-first-language)
-- [uBlock Origin–everything you need to know about the ad blocker](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/)
-- [NoProto: Flexible, Fast and Compact Serialization with RPC](https://github.com/only-cliches/NoProto)
-- [Tesorio (YC S15) is hiring – join our fully distributed fintech team](https://www.tesorio.com/careers#job-openings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
