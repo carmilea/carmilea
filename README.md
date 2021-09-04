@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dover (YC S19) is hiring for all roles](https://dover.com/careers)
-- [Kubescape - first open-source tool to test K8s according to NSA and CISA](https://github.com/armosec/kubescape)
-- [How you can track your personal finances using Python](https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/)
-- [Lyft, Uber lash out at legal threat from strict Texas abortion law](https://www.cbc.ca/news/world/texas-abortion-ban-lyft-uber-fight-back-1.6165045)
-- [New NTFS Read-Write Driver from Paragon Merged to Linux Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f7464060f7ab9a2424428008f0ee9f1e267e410f)
+- [ANA, JAL plan drone services to boost remote areas, own bottom lines](https://mainichi.jp/english/articles/20210903/p2g/00m/0bu/040000c)
+- [Unearthing the City Grid That Would Have Been in Central Park (2016)](https://www.newyorker.com/news/news-desk/unearthing-the-city-grid-that-would-have-been-in-central-park)
+- [Morse Code Palindromes](https://www.johndcook.com/blog/2021/09/04/morse-code-palindromes/)
+- [Ask HN: How much is Google collecting and keeping on Android if not signed in?](https://news.ycombinator.com/item?id=28419727)
+- [Ask HN: What do you think of System76?](https://news.ycombinator.com/item?id=28419456)
 <!-- BLOG-POST-LIST:END -->
 
 ---
