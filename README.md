@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ERs are backed up with ivermectin overdoses while gunshot victims wait: Oklahoma](https://www.insider.com/oklahomas-emergency-rooms-are-clogged-with-people-overdosing-on-ivermectin-2021-9)
 - [MIT CSAIL network design principles](https://tig.csail.mit.edu/network-wireless/wireless-design/)
+- [Delays Aren't Good Enough–Apple Must Abandon Its Surveillance Plans](https://www.eff.org/deeplinks/2021/09/delays-arent-good-enough-apple-must-abandon-its-surveillance-plans)
 - [Faust: Functional programming language for sound synthesis and audio processing](https://faust.grame.fr/)
 - [How to build silos and decrease collaboration (on purpose)](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
-- [Migrating to Next.js from React.js](https://nextjs.org/docs/migrating/from-create-react-app)
-- [Shlinkedin – Satirical Social Network](https://www.shlinkedin.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
