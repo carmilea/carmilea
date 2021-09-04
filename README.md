@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pint: Makes Units Easy -Python](https://pint.readthedocs.io/en/stable/)
 - [Generally Intelligent (YC S17) Looking for Machine Learning Research Engineers](https://www.ycombinator.com/companies/generally-intelligent/jobs/x7wiRgJfa-machine-learning-research-engineer-full-time-sf)
 - [MIT CSAIL network design principles](https://tig.csail.mit.edu/network-wireless/wireless-design/)
 - [Delays aren't good enough–Apple must abandon its surveillance plans](https://www.eff.org/deeplinks/2021/09/delays-arent-good-enough-apple-must-abandon-its-surveillance-plans)
 - [Faust: Functional programming language for sound synthesis and audio processing](https://faust.grame.fr/)
-- [How to build silos and decrease collaboration (on purpose)](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
