@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A nasty bit of undefined timezone behavior in Golang](https://www.dolthub.com/blog/2021-09-03-golang-time-bugs/)
+- [Forgetting My First Language](https://www.newyorker.com/culture/personal-history/forgetting-my-first-language)
 - [uBlock Origin–everything you need to know about the ad blocker](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/)
 - [NoProto: Flexible, Fast and Compact Serialization with RPC](https://github.com/only-cliches/NoProto)
-- [UK scientists not backing Covid jabs for 12 to 15-year-olds](https://www.bbc.com/news/health-58438669)
 - [Tesorio (YC S15) is hiring – join our fully distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [Vacation isn’t the answer to employee burnout](https://technical.ly/2021/08/30/vacation-employee-burnout/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
