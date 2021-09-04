@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why California liberals turn into raging conservatives over housing](https://www.sfchronicle.com/opinion/openforum/article/Why-California-liberals-are-so-conservative-about-16432660.php)
+- [Bitwarden is now in Arch Linux community repository](https://archlinux.org/packages/community/x86_64/bitwarden)
 - [Dime (YC S21) is hiring a full time software engineer](https://www.ycombinator.com/companies/dime/jobs/Syx4e1Y-full-time-engineer-3-employee-at-dime)
-- [Doctors and pharmacists ramp up calls for Americans to stop using ivermectin](https://www.adn.com/nation-world/2021/09/03/doctors-and-pharmacists-ramp-up-calls-for-americans-to-stop-using-ivermectin-to-treat-covid-19/)
-- [Developer returns to game after 4 decades, discovers and fixes typo so it works](https://www.pcgamer.com/developer-returns-to-game-after-four-decades-discovers-and-fixes-typo-so-it-works/)
-- [Writing Well-Documented Code – Learn from Examples](https://codecatalog.org/2021/09/04/well-documented-code.html)
-- [Facebook Apologizes After A.I. Puts “Primates” Label on Video of Black Men](https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.html)
+- [The Age of the Essay (2004)](http://paulgraham.com/essay.html)
+- [MicroAcquire: Sell Your Startup](https://microacquire.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
