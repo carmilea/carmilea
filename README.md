@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring fff part 1 – main](https://qmacro.org/autodidactics/2021/09/03/exploring-fff-part-1-main/)
-- [Pint – A Python package to define, operate and manipulate physical quantities](https://pint.readthedocs.io/en/stable/)
-- [Generally Intelligent (YC S17) Looking for Machine Learning Research Engineers](https://www.ycombinator.com/companies/generally-intelligent/jobs/x7wiRgJfa-machine-learning-research-engineer-full-time-sf)
-- [MIT CSAIL network design principles](https://tig.csail.mit.edu/network-wireless/wireless-design/)
-- [Delays aren’t good enough – Apple must abandon its surveillance plans](https://www.eff.org/deeplinks/2021/09/delays-arent-good-enough-apple-must-abandon-its-surveillance-plans)
+- [GoDaddy Is Giving Texas Abortion Snitching Site the Boot](https://gizmodo.com/godaddy-is-giving-texas-abortion-snitching-site-the-boo-1847616447)
+- [Smarking (YC W15) Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Fish eyes grown in a petri dish from embryonic stem cells](https://phys.org/news/2021-09-fish-eyes-grown-petri-dish.html)
+- [Back Orifice](https://web.archive.org/web/20180715070715/http://www.cultdeadcow.com/tools/bo.html)
+- [WaterBear – A free library of documentaries and shorts](https://www.waterbear.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
