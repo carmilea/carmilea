@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT CSAIL network design principles](https://tig.csail.mit.edu/network-wireless/wireless-design/)
+- [Faust: Functional programming language for sound synthesis and audio processing](https://faust.grame.fr/)
+- [How to build silos and decrease collaboration (on purpose)](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
 - [Migrating to Next.js from React.js](https://nextjs.org/docs/migrating/from-create-react-app)
 - [Shlinkedin – Satirical Social Network](https://www.shlinkedin.com/)
-- [Neurocracy](https://neurocracy.site/)
-- [A nasty bit of undefined timezone behavior in Golang](https://www.dolthub.com/blog/2021-09-03-golang-time-bugs/)
-- [Forgetting My First Language](https://www.newyorker.com/culture/personal-history/forgetting-my-first-language)
 <!-- BLOG-POST-LIST:END -->
 
 ---
