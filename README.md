@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. companies lash out at Texas law changes, including abortion ban](https://www.reuters.com/legal/government/lyft-will-pay-legal-fees-drivers-sued-under-texas-abortion-ban-ceo-2021-09-03/)
+- [Facebook Apologizes After A.I. Puts “Primates” Label on Video of Black Men](https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.html)
 - [PayPal Mafia](https://en.wikipedia.org/wiki/PayPal_Mafia)
 - [Y Combinator's Demo Day loses luster](https://www.axios.com/y-combinators-demo-day-loses-luster-fe34966b-062c-4591-af9a-3eabb4237571.html)
 - [Many young people diagnosed with Tourette’s after watching a YouTube channel](https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann)
-- [The Invisible Rulebooks](https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html?)
-- [Kei Car](https://en.wikipedia.org/wiki/Kei_car)
 <!-- BLOG-POST-LIST:END -->
 
 ---
