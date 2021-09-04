@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Dover (YC S19) is hiring for all roles](https://dover.com/careers)
 - [Kubescape - first open-source tool to test K8s according to NSA and CISA](https://github.com/armosec/kubescape)
-- [Before Rosa Parks, There Was Claudette Colvin (2009)](https://www.npr.org/2009/03/15/101719889/before-rosa-parks-there-was-claudette-colvin)
+- [How you can track your personal finances using Python](https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/)
 - [Lyft, Uber lash out at legal threat from strict Texas abortion law](https://www.cbc.ca/news/world/texas-abortion-ban-lyft-uber-fight-back-1.6165045)
 - [New NTFS Read-Write Driver from Paragon Merged to Linux Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f7464060f7ab9a2424428008f0ee9f1e267e410f)
 <!-- BLOG-POST-LIST:END -->
