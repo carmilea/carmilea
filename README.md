@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Analysis unlocks secret of the Vinland Map – it’s a fake](https://news.yale.edu/2021/09/01/analysis-unlocks-secret-vinland-map-its-fake)
 - [Your Phone Is Your Private Space](https://www.theatlantic.com/ideas/archive/2021/09/spyware-your-iphone-step-too-far-privacy/619987/)
 - [Today Sci-Hub is 10 years old. I'll publish 2M new articles to celebrate](https://twitter.com/ringo_ring/status/1434356217208623106)
 - [Show HN: Relativity: A Modern Primer](http://ramp-book.com/)
 - [SafeButler (YC S17) Is Hiring Content Marketing Associate](https://www.safebutler.com/careers)
-- [Why is a Dollar like a Neanderthal](https://www.etymonline.com/columns/post/why-is-a-dollar-like-a-neanderthal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
