@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Relativity: A Modern Primer](http://ramp-book.com/)
 - [SafeButler (YC S17) Is Hiring Content Marketing Associate](https://www.safebutler.com/careers)
+- [NETworkManager 2021.9.5.0 Released](https://github.com/BornToBeRoot/NETworkManager/releases/tag/2021.9.5.0)
+- [Run GUI applications and desktops in Docker](https://github.com/mviereck/x11docker)
 - [Plain Text Accounting Apps](https://plaintextaccounting.org/#plain-text-accounting-apps)
-- [OpenWrt 21.02.0 Released](https://openwrt.org/releases/21.02/notes-21.02.0)
-- [The Browser Interviews Applied Divinity Studies on Cultural Writing](https://thebrowser.com/notes/applied-divinity-studies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
