@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mikrocodesimulator MikroSim 2010 – The Ultimate CPU-Simulation Program](http://www.mikrocodesimulator.de/index_eng.php)
+- [Incident: Airbus A330 at Taipei, primary computers failed on touchdown (2020)](https://avherald.com/h?article=4d97ca46&opt=0)
+- [Regular exercisers drink more but are less likely to be problem drinkers – study](https://www.outsideonline.com/health/running/exercise-alcohol-research/)
+- [Larry Page: “I think we should look into acquiring YouTube” (2005)](https://twitter.com/TechEmails/status/1433837480449613839)
 - [Suture: A Ruby gem that helps you refactor your legacy code](https://github.com/testdouble/suture)
-- [A Hasidic rabbi created a Shabbat jacket for carrying guns in synagogues](https://forward.com/fast-forward/475080/a-hasidic-rabbi-created-a-shabbat-jacket-for-carrying-guns-in-synagogues/)
-- [Increased risk of traffic accidents in subjects with latent toxoplasmosis (2002)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC117239/)
-- [Make a Joule Thief](http://bigclive.com/joule.htm)
-- [Git-cliff: generate changelog files from the Git history](https://github.com/orhun/git-cliff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
