@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Relativity: A Modern Primer](http://ramp-book.com/)
 - [SafeButler (YC S17) Is Hiring Content Marketing Associate](https://www.safebutler.com/careers)
 - [Plain Text Accounting Apps](https://plaintextaccounting.org/#plain-text-accounting-apps)
 - [OpenWrt 21.02.0 Released](https://openwrt.org/releases/21.02/notes-21.02.0)
 - [The Browser Interviews Applied Divinity Studies on Cultural Writing](https://thebrowser.com/notes/applied-divinity-studies/)
-- [BookWyrm Is the Federated Goodreads Replacement I Didn’t Know I Needed](https://wedistribute.org/2021/08/bookwyrm-is-the-federated-goodreads-replacement-i-didnt-know-i-needed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
