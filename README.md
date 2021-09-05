@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Git-cliff: generate changelog files from the Git history](https://github.com/orhun/git-cliff)
+- [Progress on C23](https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting)
 - [Porter (YC S20) Is Hiring Front End Engineers](https://www.ycombinator.com/companies/porter/jobs/V5kia33-frontend-engineer)
+- [ZeroTier – Global Area Networking](https://github.com/zerotier/ZeroTierOne)
 - [Dogs distinguish human intentional and unintentional action](https://www.nature.com/articles/s41598-021-94374-3)
-- [Arc – A P2P CDN that runs in the browser](https://arc.io)
-- [Dutch cities want to ban property investors in all neighborhoods](https://nltimes.nl/2021/09/02/dutch-cities-want-ban-property-investors-neighborhoods)
-- [Who's downloading pirated papers? Everyone [2016]](https://www.science.org/lookup/doi/10.1126/science.352.6285.508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
