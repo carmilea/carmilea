@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Suture: A Ruby gem that helps you refactor your legacy code](https://github.com/testdouble/suture)
+- [A Hasidic rabbi created a Shabbat jacket for carrying guns in synagogues](https://forward.com/fast-forward/475080/a-hasidic-rabbi-created-a-shabbat-jacket-for-carrying-guns-in-synagogues/)
+- [Increased risk of traffic accidents in subjects with latent toxoplasmosis (2002)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC117239/)
+- [Make a Joule Thief](http://bigclive.com/joule.htm)
 - [Git-cliff: generate changelog files from the Git history](https://github.com/orhun/git-cliff)
-- [Progress on C23](https://thephd.dev/c-the-improvements-june-september-virtual-c-meeting)
-- [Porter (YC S20) Is Hiring Front End Engineers](https://www.ycombinator.com/companies/porter/jobs/V5kia33-frontend-engineer)
-- [ZeroTier – Global Area Networking](https://github.com/zerotier/ZeroTierOne)
-- [Dogs distinguish human intentional and unintentional action](https://www.nature.com/articles/s41598-021-94374-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
