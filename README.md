@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Art Student’s 407-Piece Hand-Carved Wooden Clock Literally Writes the Time, 2016](https://www.ablogtowatch.com/suzuki-kango-plock-wooden-automaton-time-writing-clock/)
+- [Climate activist arrested after ProtonMail provided his IP address](https://twitter.com/tenacioustek/status/1434604102676271106)
+- [The moments that could have accidentally ended humanity](https://www.bbc.com/future/article/20210217-the-moments-that-we-could-have-destroyed-humanity)
+- [Art student’s 407-piece hand-carved wooden clock (2016)](https://www.ablogtowatch.com/suzuki-kango-plock-wooden-automaton-time-writing-clock/)
 - [German government wants to support Tesla battery cell plant with 1.14B euros](https://news.in-24.com/business/151911.html)
 - [On beaming solar power from low earth orbit](https://innovationfrontier.org/space-solar-power-an-extraterrestrial-energy-resource-for-the-u-s/)
-- [Dendron (YC W21) Is Hiring React/TS Expert to Build a Better Tool for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
-- [Juniper breach mystery starts to clear with new details on hackers and U.S. role](https://www.bloomberg.com/news/features/2021-09-02/juniper-mystery-attacks-traced-to-pentagon-role-and-chinese-hackers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
