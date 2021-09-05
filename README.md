@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dutch cities want to ban property investors in all neighborhoods](https://nltimes.nl/2021/09/02/dutch-cities-want-ban-property-investors-neighborhoods)
+- [Who's downloading pirated papers? Everyone [2016]](https://www.science.org/lookup/doi/10.1126/science.352.6285.508)
+- [Chekhov's Gun](https://en.wikipedia.org/wiki/Chekhov%27s_gun)
+- [Is a self-driving car smarter than a seven-month-old?](https://www.economist.com/science-and-technology/is-it-smarter-than-a-seven-month-old/21804141)
 - [Infracost (YC W21) Is Hiring a Software Engineer: Love Your Cloud Bills](https://www.ycombinator.com/companies/infracost/jobs/DGIz1Uv-software-engineer)
-- [Analysis unlocks secret of the Vinland Map – it’s a fake](https://news.yale.edu/2021/09/01/analysis-unlocks-secret-vinland-map-its-fake)
-- [Send Email Directly from JavaScript](https://www.emailjs.com/)
-- [Your Phone Is Your Private Space](https://www.theatlantic.com/ideas/archive/2021/09/spyware-your-iphone-step-too-far-privacy/619987/)
-- [Today Sci-Hub is 10 years old. I'll publish 2M new articles to celebrate](https://twitter.com/ringo_ring/status/1434356217208623106)
 <!-- BLOG-POST-LIST:END -->
 
 ---
