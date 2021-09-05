@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Year in Deno Land](https://www.kitsonkelly.com/posts/a-year-in-deno-land/)
+- [For scientists, path to Covid-19 endgame remains uncertain](https://www.adn.com/nation-world/2021/09/04/for-scientists-path-to-covid-19-endgame-remains-uncertain/)
+- [Towards a taxonomy of cliches in Space Opera](http://www.antipope.org/charlie/blog-static/2016/03/towards-a-taxonomy-of-cliches-.html)
 - [EasyPost (YC S13) is profitable and hiring](https://www.easypost.com/careers)
 - [Application of automotive alternators in small wind turbines[2012]](https://repository.tudelft.nl/islandora/object/uuid%3A60a3ca0e-25f0-4892-ae52-300dcb4443ab)
 - [Climate activist arrested after ProtonMail provided his IP address](https://twitter.com/tenacioustek/status/1434604102676271106)
-- [The moments that could have accidentally ended humanity](https://www.bbc.com/future/article/20210217-the-moments-that-we-could-have-destroyed-humanity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
