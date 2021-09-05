@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dendron (YC W21) Is Hiring React/TS Expert to Build a Better Tool for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
+- [It's not a labor shortage – it's a wage and workers rights shortage](https://thehill.com/opinion/finance/570441-its-not-a-labor-shortage-its-a-wage-and-worker-rights-shortage)
+- [Ask HN: What could a modern database do that PostgreSQL and MySQL can't](https://news.ycombinator.com/item?id=28425379)
 - [Juniper breach mystery starts to clear with new details on hackers and U.S. role](https://www.bloomberg.com/news/features/2021-09-02/juniper-mystery-attacks-traced-to-pentagon-role-and-chinese-hackers)
 - [Fast Rust Builds](https://matklad.github.io/2021/09/04/fast-rust-builds.html)
-- [Mikrocodesimulator MikroSim 2010 – The Ultimate CPU-Simulation Program](http://www.mikrocodesimulator.de/index_eng.php)
-- [New Orleans levees passed their first major test](https://www.nationalgeographic.com/environment/article/new-orleans-levees-passed-their-first-major-test)
-- [Incident: Airbus A330 at Taipei, primary computers failed on touchdown (2020)](https://avherald.com/h?article=4d97ca46&opt=0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
