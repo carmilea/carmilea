@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenWrt 21.02.0 Released](https://openwrt.org/releases/21.02/notes-21.02.0)
+- [SEO warring against the Texas abortion snitch site](https://www.prolifewhistleblower.net/blog/blog-post-one-7ttjl)
+- [200 Years Ago, Faraday Invented the Electric Motor](https://spectrum.ieee.org/200-years-ago-faraday-invented-the-electric-motor)
+- [Vapor-collection technology saves water while clearing the air](https://news.mit.edu/2021/infinite-cooling-nuclear-0803)
 - [ANA, JAL plan drone services to boost remote areas, own bottom lines](https://mainichi.jp/english/articles/20210903/p2g/00m/0bu/040000c)
-- [Unearthing the City Grid That Would Have Been in Central Park (2016)](https://www.newyorker.com/news/news-desk/unearthing-the-city-grid-that-would-have-been-in-central-park)
-- [Morse Code Palindromes](https://www.johndcook.com/blog/2021/09/04/morse-code-palindromes/)
-- [Ask HN: How much is Google collecting and keeping on Android if not signed in?](https://news.ycombinator.com/item?id=28419727)
-- [Ask HN: What do you think of System76?](https://news.ycombinator.com/item?id=28419456)
 <!-- BLOG-POST-LIST:END -->
 
 ---
