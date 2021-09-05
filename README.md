@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Year in Deno Land](https://www.kitsonkelly.com/posts/a-year-in-deno-land/)
 - [EasyPost (YC S13) is profitable and hiring](https://www.easypost.com/careers)
+- [Application of automotive alternators in small wind turbines[2012]](https://repository.tudelft.nl/islandora/object/uuid%3A60a3ca0e-25f0-4892-ae52-300dcb4443ab)
 - [Climate activist arrested after ProtonMail provided his IP address](https://twitter.com/tenacioustek/status/1434604102676271106)
 - [The moments that could have accidentally ended humanity](https://www.bbc.com/future/article/20210217-the-moments-that-we-could-have-destroyed-humanity)
-- [Art student’s 407-piece hand-carved wooden clock (2016)](https://www.ablogtowatch.com/suzuki-kango-plock-wooden-automaton-time-writing-clock/)
-- [On beaming solar power from low earth orbit](https://innovationfrontier.org/space-solar-power-an-extraterrestrial-energy-resource-for-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
