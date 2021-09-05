@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pellagra in the United States](https://www.theelephant.info/op-eds/2021/09/03/hunger-in-the-heart-of-empire-pellagra-in-the-united-states/)
 - [Dendron (YC W21) Is Hiring React/TS Expert to Build a Better Tool for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
 - [It's not a labor shortage – it's a wage and workers rights shortage](https://thehill.com/opinion/finance/570441-its-not-a-labor-shortage-its-a-wage-and-worker-rights-shortage)
-- [Ask HN: What could a modern database do that PostgreSQL and MySQL can't](https://news.ycombinator.com/item?id=28425379)
 - [Juniper breach mystery starts to clear with new details on hackers and U.S. role](https://www.bloomberg.com/news/features/2021-09-02/juniper-mystery-attacks-traced-to-pentagon-role-and-chinese-hackers)
 - [Fast Rust Builds](https://matklad.github.io/2021/09/04/fast-rust-builds.html)
 <!-- BLOG-POST-LIST:END -->
