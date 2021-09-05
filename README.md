@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Juniper breach mystery starts to clear with new details on hackers and U.S. role](https://www.bloomberg.com/news/features/2021-09-02/juniper-mystery-attacks-traced-to-pentagon-role-and-chinese-hackers)
+- [Fast Rust Builds](https://matklad.github.io/2021/09/04/fast-rust-builds.html)
 - [Mikrocodesimulator MikroSim 2010 – The Ultimate CPU-Simulation Program](http://www.mikrocodesimulator.de/index_eng.php)
+- [New Orleans levees passed their first major test](https://www.nationalgeographic.com/environment/article/new-orleans-levees-passed-their-first-major-test)
 - [Incident: Airbus A330 at Taipei, primary computers failed on touchdown (2020)](https://avherald.com/h?article=4d97ca46&opt=0)
-- [Regular exercisers drink more but are less likely to be problem drinkers – study](https://www.outsideonline.com/health/running/exercise-alcohol-research/)
-- [Larry Page: “I think we should look into acquiring YouTube” (2005)](https://twitter.com/TechEmails/status/1433837480449613839)
-- [Suture: A Ruby gem that helps you refactor your legacy code](https://github.com/testdouble/suture)
 <!-- BLOG-POST-LIST:END -->
 
 ---
