@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pellagra in the United States](https://www.theelephant.info/op-eds/2021/09/03/hunger-in-the-heart-of-empire-pellagra-in-the-united-states/)
+- [Art Student’s 407-Piece Hand-Carved Wooden Clock Literally Writes the Time, 2016](https://www.ablogtowatch.com/suzuki-kango-plock-wooden-automaton-time-writing-clock/)
+- [German government wants to support Tesla battery cell plant with 1.14B euros](https://news.in-24.com/business/151911.html)
+- [On beaming solar power from low earth orbit](https://innovationfrontier.org/space-solar-power-an-extraterrestrial-energy-resource-for-the-u-s/)
 - [Dendron (YC W21) Is Hiring React/TS Expert to Build a Better Tool for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
-- [It's not a labor shortage – it's a wage and workers rights shortage](https://thehill.com/opinion/finance/570441-its-not-a-labor-shortage-its-a-wage-and-worker-rights-shortage)
 - [Juniper breach mystery starts to clear with new details on hackers and U.S. role](https://www.bloomberg.com/news/features/2021-09-02/juniper-mystery-attacks-traced-to-pentagon-role-and-chinese-hackers)
-- [Fast Rust Builds](https://matklad.github.io/2021/09/04/fast-rust-builds.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
