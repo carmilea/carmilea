@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SafeButler (YC S17) Is Hiring Content Marketing Associate](https://www.safebutler.com/careers)
+- [Plain Text Accounting Apps](https://plaintextaccounting.org/#plain-text-accounting-apps)
 - [OpenWrt 21.02.0 Released](https://openwrt.org/releases/21.02/notes-21.02.0)
-- [SEO warring against the Texas abortion snitch site](https://www.prolifewhistleblower.net/blog/blog-post-one-7ttjl)
-- [200 Years Ago, Faraday Invented the Electric Motor](https://spectrum.ieee.org/200-years-ago-faraday-invented-the-electric-motor)
-- [Vapor-collection technology saves water while clearing the air](https://news.mit.edu/2021/infinite-cooling-nuclear-0803)
-- [ANA, JAL plan drone services to boost remote areas, own bottom lines](https://mainichi.jp/english/articles/20210903/p2g/00m/0bu/040000c)
+- [The Browser Interviews Applied Divinity Studies on Cultural Writing](https://thebrowser.com/notes/applied-divinity-studies/)
+- [BookWyrm Is the Federated Goodreads Replacement I Didn’t Know I Needed](https://wedistribute.org/2021/08/bookwyrm-is-the-federated-goodreads-replacement-i-didnt-know-i-needed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
