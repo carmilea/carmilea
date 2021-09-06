@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chia Coin Miners Are Reselling Used SSDs as New](https://www.tomshardware.com/news/used-chia-ssds-resold)
 - [Minus](https://minus.social/)
-- [Substack (YC W18) Is Hiring Engineering Managers to Build the Future of Writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7?utm_source=hn&utm_content=eng)
-- [age v1.0.0 – simple, modern and secure file encryption](https://github.com/FiloSottile/age/releases/tag/v1.0.0)
-- [Code Interviews](https://alaiacano.github.io/interviews/2021/08/11/interviews.html)
-- [Kanye West AI in JavaScript (React and TFJS)](https://autoyeai.com/)
+- [Predictions for September 2031](https://www.museum-on-the-coast.com/predictions-for-september-2031.html)
+- [V8 Release v9.4](https://v8.dev/blog/v8-release-94)
+- [An Introduction to Polkadot [pdf]](https://polkadot.network/Polkadot-lightpaper.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
