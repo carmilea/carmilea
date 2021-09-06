@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html)
+- [Hummingbirds can smell their way out of danger](https://news.ucr.edu/articles/2021/09/06/hummingbirds-can-smell-their-way-out-danger)
+- [The mystery of Truman Capote's final novel](https://www.townandcountrymag.com/society/money-and-power/a36740693/truman-capote-la-cote-basque-scandal-answered-prayers-mystery/)
 - [Keeper Tax (YC W19) is hiring an engineer in San Francisco](https://angel.co/l/2vLWVu)
-- [Greedy AI agents learn to cooperate](https://spectrum.ieee.org/reinforcement-learning)
-- [The gloves are off, the pants are on](https://www.cold-takes.com/the-gloves-are-off-the-pants-are-on/)
-- [Plans are useless, but planning is indispensable (2005)](https://www.pmi.org/learning/library/planning-process-indispensable-software-projects-7487)
-- [Ode to the Clamshell iBook G3 – a.k.a. “The Toiletseat”](https://lunduke.substack.com/p/ode-to-the-clamshell-ibook-g3-aka)
+- [Who Owns the US National Debt?](https://www.thebalance.com/who-owns-the-u-s-national-debt-3306124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
