@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Minus](https://minus.social/)
 - [Substack (YC W18) Is Hiring Engineering Managers to Build the Future of Writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7?utm_source=hn&utm_content=eng)
+- [age v1.0.0 – simple, modern and secure file encryption](https://github.com/FiloSottile/age/releases/tag/v1.0.0)
 - [Code Interviews](https://alaiacano.github.io/interviews/2021/08/11/interviews.html)
 - [Kanye West AI in JavaScript (React and TFJS)](https://autoyeai.com/)
-- [Quad9 Files Official Objection Opposing Sony Music’s German Court Ruling](https://quad9.net/news/blog/quad9-files-official-objection-opposing-sony-music-s-german-court-ruling/)
-- [Five Fallacies About 100% Renewable Energy](https://danieldwilliam.dreamwidth.org/216421.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
