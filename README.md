@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Apple mouses and Braun shavers share](https://rubenerd.com/what-apple-magic-mouses-and-braun-shavers-share/)
+- [Intel SGX Protects German Electronic Patient Records](https://www.intel.com/content/www/us/en/newsroom/news/intel-sgx-protects-german-electronic-patient-records.html#gs.a6d2md)
+- [The signs that can reveal a fake photo](https://www.bbc.com/future/article/20170629-the-hidden-signs-that-can-reveal-if-a-photo-is-fake)
 - [Led by Tesla, EVs drive chip industry's shift beyond silicon](https://asia.nikkei.com/Business/Tech/Semiconductors/Led-by-Tesla-EVs-drive-chip-industry-s-shift-beyond-silicon)
-- [People are realizing that degrowth is bad](https://noahpinion.substack.com/p/people-are-realizing-that-degrowth)
 - [US Cybercom says mass exploitation of Atlassian Confluence vulnerability ongoing](https://www.zdnet.com/article/us-cybercom-says-mass-exploitation-of-atlassian-confluence-vulnerability-ongoing-and-expected-to-accelerate/)
 - [Spaceflight Before 1951](https://en.wikipedia.org/wiki/Spaceflight_before_1951)
 <!-- BLOG-POST-LIST:END -->
