@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel SGX Protects German Electronic Patient Records](https://www.intel.com/content/www/us/en/newsroom/news/intel-sgx-protects-german-electronic-patient-records.html#gs.a6d2md)
-- [The signs that can reveal a fake photo](https://www.bbc.com/future/article/20170629-the-hidden-signs-that-can-reveal-if-a-photo-is-fake)
+- [UK publishes draft Online Safety Bill](https://techcrunch.com/2021/05/12/uk-publishes-draft-online-safety-bill/)
+- [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [UK Online Safety Bill proposes age verification for all user-interactive sites](https://www.openrightsgroup.org/blog/age-verification-in-the-online-safety-bill/)
+- [Signs that can reveal a fake photo](https://www.bbc.com/future/article/20170629-the-hidden-signs-that-can-reveal-if-a-photo-is-fake)
 - [Led by Tesla, EVs drive chip industry's shift beyond silicon](https://asia.nikkei.com/Business/Tech/Semiconductors/Led-by-Tesla-EVs-drive-chip-industry-s-shift-beyond-silicon)
-- [US Cybercom says mass exploitation of Atlassian Confluence vulnerability ongoing](https://www.zdnet.com/article/us-cybercom-says-mass-exploitation-of-atlassian-confluence-vulnerability-ongoing-and-expected-to-accelerate/)
-- [Spaceflight Before 1951](https://en.wikipedia.org/wiki/Spaceflight_before_1951)
 <!-- BLOG-POST-LIST:END -->
 
 ---
