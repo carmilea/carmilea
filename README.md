@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Roadrunner Blocked by U.S. Border Wall Wins Best Bird Photo of 2021](https://petapixel.com/2021/09/01/roadrunner-blocked-by-u-s-border-wall-wins-best-bird-photo-of-2021/)
-- [Media trust hits new low](https://axios.com/media-trust-crisis-2bf0ec1c-00c0-4901-9069-e26b21c283a9.html)
-- [todo-or-die – TODOs you cannot forget!](https://github.com/davidpdrsn/todo-or-die)
+- [GitHub Codespaces vs. Gitpod: Choosing the Best Online Code Editor](https://hackernoon.com/github-codespaces-vs-gitpod-choosing-the-best-online-code-editor)
+- [Show HN: Postgres Docker image with common extensions](https://github.com/supabase/postgres)
+- [Code Runs on People](https://rachelbythebay.com/w/2021/09/05/clever/)
+- [Todo-or-die – Provides procedural macros that act as checked reminders](https://github.com/davidpdrsn/todo-or-die)
 - [Podman, the open source Docker alternative ported to M1 (Apple Silicon) machines](https://github.com/simnalamburt/homebrew-x/blob/main/Formula/podman-apple-silicon.rb)
-- [ZFS is mysteriously eating my CPU](https://www.brendangregg.com/blog/2021-09-06/zfs-is-mysteriously-eating-my-cpu.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
