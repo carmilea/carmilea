@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Codespaces vs. Gitpod: Choosing the Best Online Code Editor](https://hackernoon.com/github-codespaces-vs-gitpod-choosing-the-best-online-code-editor)
+- [A curated list of awesome things related to GitHub Actions](https://github.com/sdras/awesome-actions)
 - [Show HN: Postgres Docker image with common extensions](https://github.com/supabase/postgres)
 - [Code Runs on People](https://rachelbythebay.com/w/2021/09/05/clever/)
 - [Todo-or-die – Provides procedural macros that act as checked reminders](https://github.com/davidpdrsn/todo-or-die)
-- [Podman, the open source Docker alternative ported to M1 (Apple Silicon) machines](https://github.com/simnalamburt/homebrew-x/blob/main/Formula/podman-apple-silicon.rb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
