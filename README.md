@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers studying Facebook misinformation say they were deplatformed](https://www.cnn.com/2021/09/05/media/reliable-sources-facebook-researchers-deplatform/index.html)
 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - [Russia asks Google to clamp down on Navalny′s ′Smart Voting′](https://m.dw.com/en/russia-google-told-to-clamp-down-on-navalnys-smart-voting/a-59092740)
 - [Materials to get lights on are getting scarce](https://www.reddit.com/r/PrepperIntel/comments/piddj6/electric_distribution_utility_employee_here_in/)
-- [Towards a taxonomy of cliches in Space Opera](http://www.antipope.org/charlie/blog-static/2016/03/towards-a-taxonomy-of-cliches-.html)
-- [Application of automotive alternators in small wind turbines (2012)](https://repository.tudelft.nl/islandora/object/uuid%3A60a3ca0e-25f0-4892-ae52-300dcb4443ab)
+- [Docker compatible open source: Containerd nerdctl](https://github.com/containerd/nerdctl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
