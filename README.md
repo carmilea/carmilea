@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [For scientists, path to Covid-19 endgame remains uncertain](https://www.adn.com/nation-world/2021/09/04/for-scientists-path-to-covid-19-endgame-remains-uncertain/)
+- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [Germany pushing EU to require 7 years of updates on Android, iOS devices](https://9to5google.com/2021/09/05/germany-reportedly-pushing-eu-to-require-7-years-of-updates-on-android-ios-devices/)
 - [Towards a taxonomy of cliches in Space Opera](http://www.antipope.org/charlie/blog-static/2016/03/towards-a-taxonomy-of-cliches-.html)
-- [EasyPost (YC S13) is profitable and hiring](https://www.easypost.com/careers)
-- [Application of automotive alternators in small wind turbines[2012]](https://repository.tudelft.nl/islandora/object/uuid%3A60a3ca0e-25f0-4892-ae52-300dcb4443ab)
+- [Application of automotive alternators in small wind turbines (2012)](https://repository.tudelft.nl/islandora/object/uuid%3A60a3ca0e-25f0-4892-ae52-300dcb4443ab)
 - [Climate activist arrested after ProtonMail provided his IP address](https://twitter.com/tenacioustek/status/1434604102676271106)
 <!-- BLOG-POST-LIST:END -->
 
