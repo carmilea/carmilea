@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Progressives Be Convinced That Genetics Matters?](https://www.newyorker.com/magazine/2021/09/13/can-progressives-be-convinced-that-genetics-matters)
+- [Jean-Paul Belmondo, Magnetic Star of the French New Wave, Dies at 88](https://www.nytimes.com/2021/09/06/movies/jean-paul-belmondo-dead.html)
+- [Apple iMessage Zero-Click Hacks](https://www.wired.com/story/apple-imessage-zero-click-hacks/)
+- [An interactive 19-lesson course to master VSCode's keyboard shortcuts](https://keycombiner.com/courses/master-vscode/)
 - [Chia Coin Miners Are Reselling Used SSDs as New](https://www.tomshardware.com/news/used-chia-ssds-resold)
-- [Minus](https://minus.social/)
-- [Predictions for September 2031](https://www.museum-on-the-coast.com/predictions-for-september-2031.html)
-- [V8 Release v9.4](https://v8.dev/blog/v8-release-94)
-- [An Introduction to Polkadot [pdf]](https://polkadot.network/Polkadot-lightpaper.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
