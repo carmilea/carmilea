@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok overtakes YouTube for average watch time in US and UK](https://www.bbc.co.uk/news/technology-58464745)
+- [Five Fallacies About 100% Renewable Energy](https://danieldwilliam.dreamwidth.org/216421.html)
+- [Revolt: Open-source alternative to Discord written in Rust](https://revolt.chat/)
+- [ProtonMail: Important clarifications regarding arrest of climate activist](https://protonmail.com/blog/climate-activist-arrest/)
 - [Germany wants smartphone makers to offer 7 years of software updates](https://www.xda-developers.com/germany-smartphone-makers-7-years-software-updates/)
 - [The Turn (1993)](https://web.archive.org/web/20210226192444/https://www.theatlantic.com/past/docs/unbound/langew/turn.htm)
-- [Show HN: Auto-generate vanilla JavaScript alternatives for jQuery methods](https://github.com/sachinchoolur/replace-jquery)
-- [ProtonMail logged IP address of French activist after order by Swiss authorities](https://techcrunch.com/2021/09/06/protonmail-logged-ip-address-of-french-activist-after-order-by-swiss-authorities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
