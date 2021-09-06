@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [SpaceX cleared for historic civilian launch next week](https://nypost.com/2021/09/05/spacex-cleared-for-historic-civilian-launch-next-week/)
+- [Switching to the I3 Window Manager](https://vincent.bernat.ch/en/blog/2021-i3-window-manager)
 - [GitHub Codespaces vs. Gitpod: Choosing the Best Online Code Editor](https://hackernoon.com/github-codespaces-vs-gitpod-choosing-the-best-online-code-editor)
-- [A curated list of awesome things related to GitHub Actions](https://github.com/sdras/awesome-actions)
+- [A curated list of actions to use on GitHub](https://github.com/sdras/awesome-actions)
 - [Show HN: Postgres Docker image with common extensions](https://github.com/supabase/postgres)
-- [Code Runs on People](https://rachelbythebay.com/w/2021/09/05/clever/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
