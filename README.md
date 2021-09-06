@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers studying Facebook misinformation say they were deplatformed](https://www.cnn.com/2021/09/05/media/reliable-sources-facebook-researchers-deplatform/index.html)
-- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [Russia asks Google to clamp down on Navalny′s ′Smart Voting′](https://m.dw.com/en/russia-google-told-to-clamp-down-on-navalnys-smart-voting/a-59092740)
-- [Materials to get lights on are getting scarce](https://www.reddit.com/r/PrepperIntel/comments/piddj6/electric_distribution_utility_employee_here_in/)
-- [Docker compatible open source: Containerd nerdctl](https://github.com/containerd/nerdctl)
+- [Roadrunner Blocked by U.S. Border Wall Wins Best Bird Photo of 2021](https://petapixel.com/2021/09/01/roadrunner-blocked-by-u-s-border-wall-wins-best-bird-photo-of-2021/)
+- [Media trust hits new low](https://axios.com/media-trust-crisis-2bf0ec1c-00c0-4901-9069-e26b21c283a9.html)
+- [todo-or-die – TODOs you cannot forget!](https://github.com/davidpdrsn/todo-or-die)
+- [Podman, the open source Docker alternative ported to M1 (Apple Silicon) machines](https://github.com/simnalamburt/homebrew-x/blob/main/Formula/podman-apple-silicon.rb)
+- [ZFS is mysteriously eating my CPU](https://www.brendangregg.com/blog/2021-09-06/zfs-is-mysteriously-eating-my-cpu.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
