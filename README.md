@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok overtakes YouTube for average watch time in US and UK](https://www.bbc.co.uk/news/technology-58464745)
+- [Germany wants smartphone makers to offer 7 years of software updates](https://www.xda-developers.com/germany-smartphone-makers-7-years-software-updates/)
+- [The Turn (1993)](https://web.archive.org/web/20210226192444/https://www.theatlantic.com/past/docs/unbound/langew/turn.htm)
 - [Show HN: Auto-generate vanilla JavaScript alternatives for jQuery methods](https://github.com/sachinchoolur/replace-jquery)
-- [IRS Poses as Bitcoin Trader ‘Mr Coins’ in $180k Sting](https://decrypt.co/80040/irs-poses-bitcoin-trader-mr-coins-180000-sting)
-- [We don’t need nearly as much protein as we consume](https://www.bbc.com/future/article/20180522-we-dont-need-nearly-as-much-protein-as-we-consume)
-- [Why Did Palantir Technologies Move Its Headquarters from SiliValley to Denver?](https://www.5280.com/2020/12/why-did-palantir-technologies-move-its-headquarters-from-silicon-valley-to-denver/)
-- [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [ProtonMail logged IP address of French activist after order by Swiss authorities](https://techcrunch.com/2021/09/06/protonmail-logged-ip-address-of-french-activist-after-order-by-swiss-authorities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
