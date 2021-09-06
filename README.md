@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Progressives Be Convinced That Genetics Matters?](https://www.newyorker.com/magazine/2021/09/13/can-progressives-be-convinced-that-genetics-matters)
-- [Jean-Paul Belmondo, Magnetic Star of the French New Wave, Dies at 88](https://www.nytimes.com/2021/09/06/movies/jean-paul-belmondo-dead.html)
-- [Apple iMessage Zero-Click Hacks](https://www.wired.com/story/apple-imessage-zero-click-hacks/)
-- [An interactive 19-lesson course to master VSCode's keyboard shortcuts](https://keycombiner.com/courses/master-vscode/)
-- [Chia Coin Miners Are Reselling Used SSDs as New](https://www.tomshardware.com/news/used-chia-ssds-resold)
+- [Keeper Tax (YC W19) is hiring an engineer in San Francisco](https://angel.co/l/2vLWVu)
+- [Greedy AI agents learn to cooperate](https://spectrum.ieee.org/reinforcement-learning)
+- [The gloves are off, the pants are on](https://www.cold-takes.com/the-gloves-are-off-the-pants-are-on/)
+- [Plans are useless, but planning is indispensable (2005)](https://www.pmi.org/learning/library/planning-process-indispensable-software-projects-7487)
+- [Ode to the Clamshell iBook G3 – a.k.a. “The Toiletseat”](https://lunduke.substack.com/p/ode-to-the-clamshell-ibook-g3-aka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
