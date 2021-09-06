@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quad9 Files Official Objection Opposing Sony Music’s German Court Ruling](https://quad9.net/news/blog/quad9-files-official-objection-opposing-sony-music-s-german-court-ruling/)
+- [Plans for $400B new city in the American desert unveiled](https://www.cnn.com/style/article/telosa-marc-lore-blake-ingels-new-city/index.html)
 - [Five Fallacies About 100% Renewable Energy](https://danieldwilliam.dreamwidth.org/216421.html)
 - [Revolt: Open-source alternative to Discord written in Rust](https://revolt.chat/)
 - [ProtonMail: Important clarifications regarding arrest of climate activist](https://protonmail.com/blog/climate-activist-arrest/)
-- [Germany wants smartphone makers to offer 7 years of software updates](https://www.xda-developers.com/germany-smartphone-makers-7-years-software-updates/)
-- [The Turn (1993)](https://web.archive.org/web/20210226192444/https://www.theatlantic.com/past/docs/unbound/langew/turn.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
