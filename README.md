@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [Germany pushing EU to require 7 years of updates on Android, iOS devices](https://9to5google.com/2021/09/05/germany-reportedly-pushing-eu-to-require-7-years-of-updates-on-android-ios-devices/)
+- [Russia asks Google to clamp down on Navalny′s ′Smart Voting′](https://m.dw.com/en/russia-google-told-to-clamp-down-on-navalnys-smart-voting/a-59092740)
+- [Materials to get lights on are getting scarce](https://www.reddit.com/r/PrepperIntel/comments/piddj6/electric_distribution_utility_employee_here_in/)
 - [Towards a taxonomy of cliches in Space Opera](http://www.antipope.org/charlie/blog-static/2016/03/towards-a-taxonomy-of-cliches-.html)
 - [Application of automotive alternators in small wind turbines (2012)](https://repository.tudelft.nl/islandora/object/uuid%3A60a3ca0e-25f0-4892-ae52-300dcb4443ab)
-- [Climate activist arrested after ProtonMail provided his IP address](https://twitter.com/tenacioustek/status/1434604102676271106)
 <!-- BLOG-POST-LIST:END -->
 
 ---
