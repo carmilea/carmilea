@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack (YC W18) Is Hiring Engineering Managers to Build the Future of Writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7?utm_source=hn&utm_content=eng)
+- [Code Interviews](https://alaiacano.github.io/interviews/2021/08/11/interviews.html)
+- [Kanye West AI in JavaScript (React and TFJS)](https://autoyeai.com/)
 - [Quad9 Files Official Objection Opposing Sony Music’s German Court Ruling](https://quad9.net/news/blog/quad9-files-official-objection-opposing-sony-music-s-german-court-ruling/)
-- [Plans for $400B new city in the American desert unveiled](https://www.cnn.com/style/article/telosa-marc-lore-blake-ingels-new-city/index.html)
 - [Five Fallacies About 100% Renewable Energy](https://danieldwilliam.dreamwidth.org/216421.html)
-- [Revolt: Open-source alternative to Discord written in Rust](https://revolt.chat/)
-- [ProtonMail: Important clarifications regarding arrest of climate activist](https://protonmail.com/blog/climate-activist-arrest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
