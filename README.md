@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Joins Open Infrastructure Foundation](https://www.zdnet.com/article/microsoft-joins-open-infrastructure-foundation/)
+- [Apple Event Announced: 'California Streaming' on September 14](https://www.macrumors.com/2021/09/07/apple-september-14-event/?scrolla=5eb6d68b7fedc32c19ef33b4)
+- [Centaur Labs (YC W19) just raised $15M and is hiring back end engineers](https://www.centaurlabs.com/open-positions)
+- [Apple Event on Sept 14 – “California streaming”](https://developer.apple.com/news/?id=445tn08p)
 - [El Salvador adopts Bitcoin as official currency, first country to do so](https://www.nbcnews.com/news/latino/el-salvador-adopts-bitcoin-official-currency-first-country-rcna1910)
-- [Cannabis use linked to higher risk of myocardial infarction in adults 18-44yr](https://www.cmaj.ca/content/193/35/E1377)
-- [Show HN: Web-browser to help programmers think clearly](https://bonsaibrowser.com)
-- [Netflix is not a tech company](https://www.ben-evans.com/benedictevans/2019/7/31/Netflix)
-- [Art Gallery Datasets](https://www.artnome.com/art-data)
 <!-- BLOG-POST-LIST:END -->
 
 ---
