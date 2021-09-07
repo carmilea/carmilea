@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Manara (YC W21) Seeking Head of Marketing (Backed by Stripe, Reid Hoffman)](https://www.ycombinator.com/companies/manara/jobs/ITiuktF-director-head-of-marketing)
+- [Tesla’s Fatal Error: Defensive Driving](https://www.eetimes.com/teslas-fatal-error-defensive-driving/)
 - [Morashon](http://www.morashon.com/)
 - [Zero-Trust RDP and SSH Access to VMs on Google Cloud](https://github.com/GoogleCloudPlatform/iap-desktop)
 - [MangaDex infrastructure overview](https://mangadex.dev/mangadex-v5-infrastructure-overview/)
-- [Low Cost Banana Pi BPI-R2 Pro 5-Port Gigabit Ethernet Router Board](https://www.cnx-software.com/2021/08/30/banana-pi-bpi-r2-pro-5-port-gigabit-ethernet-router-board-rockchip-rk3568/)
-- [Looking into Odin and Zig](https://ayende.com/blog/194466-A/looking-into-odin-and-zig-my-notes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
