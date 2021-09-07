@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Swap on HDD: Does placement matter? (tl;dr: Yes)](https://www.vidarholen.net/contents/blog/?p=1110)
-- [Show HN: Arxiv.org on IPFS](https://www.xirva.org)
-- [Htmlq: like jq, but for html](https://github.com/mgdm/htmlq)
-- [Manara (YC W21) is hiring a head of marketing](https://www.ycombinator.com/companies/manara/jobs/ITiuktF-director-head-of-marketing)
-- [Morashon](http://www.morashon.com/)
+- [Upsolve (YC W19) is hiring a senior software engineer (React, Node, TypeScript)](https://upsolve.org/careers/software-engineer/)
+- [Over 1k migrant children are missing in the U.S.](https://www.axios.com/1475-migrant-children-missing-f046e010-7a5b-44cf-864a-7bf2e535d327.html)
+- [ProtonMail deletes 'we don't log your IP' from website after activist arrested](https://www.theregister.com/2021/09/07/protonmail_hands_user_ip_address_police/)
+- [The Linux Experiments YouTube channel has been terminated](https://twitter.com/thelinuxEXP/status/1434952628337795072)
+- [Swap on HDD: Does placement matter?](https://www.vidarholen.net/contents/blog/?p=1110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
