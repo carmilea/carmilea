@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing software that's reliable enough for production](https://pythonspeed.com/fil/docs/fil4prod/reliable.html)
-- [Crafting “Crafting Interpreters” (2020)](http://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/)
-- [Three near-identical Boris Vishnevskys on St Petersburg election ballot](https://www.theguardian.com/world/2021/sep/06/three-near-identical-boris-vishnevskys-on-st-petersburg-election-ballot)
-- [Kenyan social media campaign designed to undermine the country’s judiciary](https://restofworld.org/2021/kenya-disinformation-bbi-judiciary/)
-- [Sri Lanka’s overnight flip to organic farming has led to an economic disaster](https://theprint.in/world/how-sri-lankas-overnight-flip-to-total-organic-farming-has-led-to-an-economic-disaster/728414/)
+- [El Salvador adopts Bitcoin as official currency, first country to do so](https://www.nbcnews.com/news/latino/el-salvador-adopts-bitcoin-official-currency-first-country-rcna1910)
+- [Cannabis use linked to higher risk of myocardial infarction in adults 18-44yr](https://www.cmaj.ca/content/193/35/E1377)
+- [Show HN: Web-browser to help programmers think clearly](https://bonsaibrowser.com)
+- [Netflix is not a tech company](https://www.ben-evans.com/benedictevans/2019/7/31/Netflix)
+- [Art Gallery Datasets](https://www.artnome.com/art-data)
 <!-- BLOG-POST-LIST:END -->
 
 ---
