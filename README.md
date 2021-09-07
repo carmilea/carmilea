@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [James Webb Space Telescope launch media kit [pdf]](https://esamultimedia.esa.int/docs/science/Webb-LaunchKit_EN.pdf)
-- [ProtonMail removed “we do not keep any IP logs” from its privacy policy](https://arstechnica.com/information-technology/2021/09/privacy-focused-protonmail-provided-a-users-ip-address-to-authorities/)
+- [SBCL: The Assembly Code Breadboard (2014)](https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/)
 - [Replit (YC W18) Is Hiring Engineers/Designers to Invent the Future of Programming](https://replit.com/site/careers)
 - [Misbehaving Microsoft Teams ad brings down the entire Windows 11 desktop](https://arstechnica.com/gadgets/2021/09/misbehaving-microsoft-teams-ad-brings-down-the-entire-windows-11-desktop)
 - [Anatomy of a Catastrophic Boiler Accident (1997)](https://www.nationalboard.org/Index.aspx?pageID=164&ID=226)
