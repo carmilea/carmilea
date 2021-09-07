@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Puppy-killing scientist smuggles rainforest babies in body cavity (2015)](https://thesmallermajority.com/2015/01/09/puppy-killing-scientist-smuggles-rainforest-babies-in-body-cavity/)
-- [Serving 2000 requests/s on a ~US$1500/month budget](https://mangadex.dev/mangadex-v5-infrastructure-overview/)
+- [Morashon](http://www.morashon.com/)
+- [Zero-Trust RDP and SSH Access to VMs on Google Cloud](https://github.com/GoogleCloudPlatform/iap-desktop)
+- [MangaDex infrastructure overview](https://mangadex.dev/mangadex-v5-infrastructure-overview/)
+- [Low Cost Banana Pi BPI-R2 Pro 5-Port Gigabit Ethernet Router Board](https://www.cnx-software.com/2021/08/30/banana-pi-bpi-r2-pro-5-port-gigabit-ethernet-router-board-rockchip-rk3568/)
 - [Looking into Odin and Zig](https://ayende.com/blog/194466-A/looking-into-odin-and-zig-my-notes)
-- [Linux implementation of Homa, a protocol to replace TCP for low-latency RPC](https://www.micahlerner.com/2021/08/29/a-linux-kernel-implementation-of-the-homa-transport-protocol.html)
-- [The operating system: should there be one?](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.715.9197&rep=rep1&type=pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
