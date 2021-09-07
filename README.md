@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
+- [Japanese researchers have created an effective vaccine for Alzheimer's disease](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2050101/)
+- [Who is Monica Main, and where is ex-NYT bestselling author Judith McNaught?](https://accrispin.blogspot.com/2021/09/very-weird-solicitation-alert-monica.html)
 - [Sirum (YC Nonprofit) needs engineers to automate medicine delivery](https://news.ycombinator.com/item?id=28439730)
-- [Missing businesswoman urges ex-husband not to publish book critical of China](https://www.npr.org/2021/09/06/1034556269/red-roulette-reveals-the-inside-of-chinas-wealth-making-machine)
-- [Libwebsockets a powerful and lightweight pure C library](https://libwebsockets.org/)
-- [Updating an App to Use Swift Concurrency](https://developer.apple.com/documentation/swift/swift_standard_library/concurrency/updating_an_app_to_use_swift_concurrency)
-- [SystemE – A lightweight systemd replacement written in Emacs Lisp](https://github.com/a-schaefers/systemE)
+- [Intel’s Turnaround and the Future of Chipmaking](https://www.economist.com/business/intels-turnaround-and-the-future-of-chipmaking/21804288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
