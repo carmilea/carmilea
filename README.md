@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Duck says ‘You bloody fool’ and can imitate other sound, scientists fascinated](https://www.zmescience.com/ecology/animals-ecology/this-australian-duck-says-you-bloody-fool-and-can-imitate-other-sounds-and-scientists-couldnt-be-more-fascinated/)
+- [“Disinformation influencers” for hire, only $15 a day](https://restofworld.org/2021/kenya-disinformation-bbi-judiciary/)
+- [Firefox 92](https://www.mozilla.org/en-US/firefox/92.0/releasenotes/)
 - [SpaceX rolls Inspiration4 Falcon 9 rocket to the pad for historic launch](https://www.teslarati.com/spacex-inspiration4-falcon-9-rocket-launch-pad/)
-- [Sri Lanka’s overnight flip to organic farming has led to an economic disaster](https://theprint.in/world/how-sri-lankas-overnight-flip-to-total-organic-farming-has-led-to-an-economic-disaster/728414/)
-- [OpenSSL 3.0](https://www.openssl.org/news/cl30.txt)
-- [Fans of a 2013 Japanese soccer game tracked down a bizarre floating point bug](https://dolphin-emu.org/blog/2021/09/07/dolphin-progress-report-august-2021/)
-- [Upsolve (YC W19) is hiring a senior software engineer (React, Node, TypeScript)](https://upsolve.org/careers/software-engineer/)
+- [Germany complains to Moscow over pre-election phishing attacks on politicians](https://www.washingtonpost.com/world/germany-russia-cyber-attack/2021/09/06/7b9ca734-0f28-11ec-baca-86b144fc8a2d_story.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
