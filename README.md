@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html)
-- [Micro-GPS: High-Precision Localization Using Ground Texture (2018)](https://microgps.cs.princeton.edu/)
-- [Hummingbirds can smell their way out of danger](https://news.ucr.edu/articles/2021/09/06/hummingbirds-can-smell-their-way-out-danger)
-- [The mystery of Truman Capote's final novel](https://www.townandcountrymag.com/society/money-and-power/a36740693/truman-capote-la-cote-basque-scandal-answered-prayers-mystery/)
-- [Keeper Tax (YC W19) is hiring an engineer in San Francisco](https://angel.co/l/2vLWVu)
+- [Sirum (YC Nonprofit) needs engineers to automate medicine delivery](https://news.ycombinator.com/item?id=28439730)
+- [Missing businesswoman urges ex-husband not to publish book critical of China](https://www.npr.org/2021/09/06/1034556269/red-roulette-reveals-the-inside-of-chinas-wealth-making-machine)
+- [Libwebsockets a powerful and lightweight pure C library](https://libwebsockets.org/)
+- [Updating an App to Use Swift Concurrency](https://developer.apple.com/documentation/swift/swift_standard_library/concurrency/updating_an_app_to_use_swift_concurrency)
+- [SystemE – A lightweight systemd replacement written in Emacs Lisp](https://github.com/a-schaefers/systemE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
