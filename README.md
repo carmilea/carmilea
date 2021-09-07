@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OnlyFans Is Not a Safe Platform for ‘Sex Work.’ It’s a Pimp](https://www.nytimes.com/2021/09/06/opinion/onlyfans-sex-work-safety.html)
-- [Facebook apology as AI labels black men 'primates'](https://www.bbc.com/news/technology-58462511)
+- [Serving 2000 requests/s on a ~US$1500/month budget](https://mangadex.dev/mangadex-v5-infrastructure-overview/)
+- [The operating system: should there be one?](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.715.9197&rep=rep1&type=pdf)
+- [The Unraveling of the Real 3D Mandelbulb (2009)](https://www.skytopia.com/project/fractal/mandelbulb.html)
+- [Commodore 64 Ads from the 1980s](https://lunduke.substack.com/p/commodore-64-ads-from-the-1980s-still)
 - [Who is Monica Main, and where is ex-NYT bestselling author Judith McNaught?](https://accrispin.blogspot.com/2021/09/very-weird-solicitation-alert-monica.html)
-- [Sirum (YC Nonprofit) needs engineers to automate medicine delivery](https://news.ycombinator.com/item?id=28439730)
-- [Intel’s Turnaround and the Future of Chipmaking](https://www.economist.com/business/intels-turnaround-and-the-future-of-chipmaking/21804288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
