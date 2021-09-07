@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Qubes Now a Preinstall Option for Librem 14 and Mini](https://puri.sm/posts/qubes-now-a-preinstall-option-for-librem-14-and-mini/)
-- [Companies that are avoiding hiring in Colorado](https://www.coloradoexcluded.com/)
-- [The Tragedy of America’s Rural Schools](https://www.nytimes.com/2021/09/07/magazine/rural-public-education.html)
-- [WhatsApp Moderators Can Read Your Messages](https://gizmodo.com/whatsapp-moderators-can-read-your-messages-1847629241)
-- [Ford Hires Away Executive Leading Apple’s Car Project](https://www.bloomberg.com/news/articles/2021-09-07/ford-is-said-to-hire-away-executive-leading-apple-s-car-project)
+- [Replit (YC W18) Is Hiring Engineers/Designers to Invent the Future of Programming](https://replit.com/site/careers)
+- [Misbehaving Microsoft Teams ad brings down the entire Windows 11 desktop](https://arstechnica.com/gadgets/2021/09/misbehaving-microsoft-teams-ad-brings-down-the-entire-windows-11-desktop)
+- [Anatomy of a Catastrophic Boiler Accident (1997)](https://www.nationalboard.org/Index.aspx?pageID=164&ID=226)
+- [Spice.ai – open-source, time series AI for developers](https://blog.spiceai.org/posts/2021/09/07/introducing-spice.ai-open-source-time-series-ai-for-developers/)
+- [My £4 a month server can handle 4.2M requests a day](https://mark.mcnally.je/blog/post/My%20%C2%A34%20a%20month%20server%20can%20handle%204.2%20million%20requests%20a%20day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
