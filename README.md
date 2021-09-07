@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Soft, Wearable Brain–Machine Interface](https://spectrum.ieee.org/a-soft-wearable-brain-machine-interface)
-- [Unity Patents ECS](https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10599560)
-- [Legend](https://legendapp.com/)
-- [Microsoft Joins Open Infrastructure Foundation](https://www.zdnet.com/article/microsoft-joins-open-infrastructure-foundation/)
-- [Centaur Labs (YC W19) just raised $15M and is hiring back end engineers](https://www.centaurlabs.com/open-positions)
+- [Elizabeth Holmes staying at $135M estate during Theranos trial](https://www.cnbc.com/2021/09/07/elizabeth-holmes-staying-at-135-million-silicon-valley-estate-during-theranos-trial.html)
+- [Building Fizzbuzz in Fractran from the Bottom Up](https://malisper.me/building-fizzbuzz-fractran-bottom/)
+- [John Carmack on Hiring](https://twitter.com/id_aa_carmack/status/1435307747470454787)
+- [“It's open source! We’ll let our customers fix it.”](https://miles.land/posts/corporate-open-source/)
+- [NRO Manned Orbiting Laboratory](https://archive.org/details/nro-dorian-mol/01-MOL-MISC-PHOTOS/mode/2up)
 <!-- BLOG-POST-LIST:END -->
 
 ---
