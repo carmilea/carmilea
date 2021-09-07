@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Swap on HDD: Does placement matter? (tl;dr: Yes)](https://www.vidarholen.net/contents/blog/?p=1110)
 - [Show HN: Arxiv.org on IPFS](https://www.xirva.org)
 - [Htmlq: like jq, but for html](https://github.com/mgdm/htmlq)
-- [Manara (YC W21) Seeking Head of Marketing (Backed by Stripe, Reid Hoffman)](https://www.ycombinator.com/companies/manara/jobs/ITiuktF-director-head-of-marketing)
-- [“You don't need this overengineered goo for your project.”](https://twitter.com/FransBouma/status/1434903696048070659)
+- [Manara (YC W21) is hiring a head of marketing](https://www.ycombinator.com/companies/manara/jobs/ITiuktF-director-head-of-marketing)
 - [Morashon](http://www.morashon.com/)
 <!-- BLOG-POST-LIST:END -->
 
