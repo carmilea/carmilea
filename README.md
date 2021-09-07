@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Arxiv.org on IPFS](https://www.xirva.org)
+- [htmlq: like jq, but for html](https://github.com/mgdm/htmlq)
 - [Manara (YC W21) Seeking Head of Marketing (Backed by Stripe, Reid Hoffman)](https://www.ycombinator.com/companies/manara/jobs/ITiuktF-director-head-of-marketing)
-- [Tesla’s Fatal Error: Defensive Driving](https://www.eetimes.com/teslas-fatal-error-defensive-driving/)
+- [“You don't need this overengineered goo for your project.”](https://twitter.com/FransBouma/status/1434903696048070659)
 - [Morashon](http://www.morashon.com/)
-- [Zero-Trust RDP and SSH Access to VMs on Google Cloud](https://github.com/GoogleCloudPlatform/iap-desktop)
-- [MangaDex infrastructure overview](https://mangadex.dev/mangadex-v5-infrastructure-overview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
