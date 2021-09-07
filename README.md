@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elizabeth Holmes staying at $135M estate during Theranos trial](https://www.cnbc.com/2021/09/07/elizabeth-holmes-staying-at-135-million-silicon-valley-estate-during-theranos-trial.html)
-- [Building Fizzbuzz in Fractran from the Bottom Up](https://malisper.me/building-fizzbuzz-fractran-bottom/)
-- [John Carmack on Hiring](https://twitter.com/id_aa_carmack/status/1435307747470454787)
-- [“It's open source! We’ll let our customers fix it.”](https://miles.land/posts/corporate-open-source/)
-- [NRO Manned Orbiting Laboratory](https://archive.org/details/nro-dorian-mol/01-MOL-MISC-PHOTOS/mode/2up)
+- [Qubes Now a Preinstall Option for Librem 14 and Mini](https://puri.sm/posts/qubes-now-a-preinstall-option-for-librem-14-and-mini/)
+- [Companies that are avoiding hiring in Colorado](https://www.coloradoexcluded.com/)
+- [The Tragedy of America’s Rural Schools](https://www.nytimes.com/2021/09/07/magazine/rural-public-education.html)
+- [WhatsApp Moderators Can Read Your Messages](https://gizmodo.com/whatsapp-moderators-can-read-your-messages-1847629241)
+- [Ford Hires Away Executive Leading Apple’s Car Project](https://www.bloomberg.com/news/articles/2021-09-07/ford-is-said-to-hire-away-executive-leading-apple-s-car-project)
 <!-- BLOG-POST-LIST:END -->
 
 ---
