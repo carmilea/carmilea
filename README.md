@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX rolls Inspiration4 Falcon 9 rocket to the pad for historic launch](https://www.teslarati.com/spacex-inspiration4-falcon-9-rocket-launch-pad/)
+- [Sri Lanka’s overnight flip to organic farming has led to an economic disaster](https://theprint.in/world/how-sri-lankas-overnight-flip-to-total-organic-farming-has-led-to-an-economic-disaster/728414/)
+- [OpenSSL 3.0](https://www.openssl.org/news/cl30.txt)
+- [Fans of a 2013 Japanese soccer game tracked down a bizarre floating point bug](https://dolphin-emu.org/blog/2021/09/07/dolphin-progress-report-august-2021/)
 - [Upsolve (YC W19) is hiring a senior software engineer (React, Node, TypeScript)](https://upsolve.org/careers/software-engineer/)
-- [Over 1k migrant children are missing in the U.S.](https://www.axios.com/1475-migrant-children-missing-f046e010-7a5b-44cf-864a-7bf2e535d327.html)
-- [ProtonMail deletes 'we don't log your IP' from website after activist arrested](https://www.theregister.com/2021/09/07/protonmail_hands_user_ip_address_police/)
-- [The Linux Experiments YouTube channel has been terminated](https://twitter.com/thelinuxEXP/status/1434952628337795072)
-- [Swap on HDD: Does placement matter?](https://www.vidarholen.net/contents/blog/?p=1110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
