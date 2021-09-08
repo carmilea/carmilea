@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions Limitations and Gotchas](https://www.cbui.dev/github-actions-limitations-and-gotchas/)
 - [Quadrant Eye (YC W21) Is Hiring a Head of Research, Engineering, Design](https://www.notion.so/quadranteye/Welcome-to-the-Quadrant-Eye-jobs-page-daca8963683b4435bd871032224343c0)
+- [Toyota to spend 1.5T yen on EV battery development](https://www.asahi.com/ajw/articles/14436029)
 - [The Creative World’s Bullshit Industrial Complex](https://99u.adobe.com/articles/55974/the-creative-worlds-bullshit-industrial-complex)
 - [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)
-- [How Docker broke in half](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html)
-- [Pedalboard: Spotify’s Audio Effects Library for Python](https://engineering.atspotify.com/2021/09/07/introducing-pedalboard-spotifys-audio-effects-library-for-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
