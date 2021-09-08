@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘No point in anything else’: Gen Z members flock to climate careers](https://www.theguardian.com/environment/2021/sep/06/gen-z-climate-change-careers-jobs)
+- [20 years after 9/11: Will we ever stop taking our shoes off at airports?](https://www.ocregister.com/2021/09/07/20-years-after-9-11-will-we-ever-stop-taking-our-shoes-off-at-airports/)
+- [The IBM Mainframe: The most powerful and cost-effective computing platform](https://www.planetmainframe.com/2021/09/the-ibm-mainframe-the-most-powerful-and-cost-effective-computing-platform-for-business/)
+- [Miegakure Update September 2021](https://marctenbosch.com/news/2021/09/miegakure-update-september-2021/)
 - [Space station astronaut captures breathtaking view of the edge of the Earth](https://www.cnet.com/news/space-station-astronaut-captures-breathtaking-view-of-the-edge-of-the-earth/)
-- [MagicBell (YC W21), a 5 people team, is hiring a Ruby engineer (async remote)](https://magicbell.notion.site/Senior-Backend-Engineer-Fully-Remote-d70c9500f10548c29729a4998a556822)
-- [Solarpunk Is Not About Pretty Aesthetics. It's About the End of Capitalism](https://www.vice.com/en/article/wx5aym/solarpunk-is-not-about-pretty-aesthetics-its-about-the-end-of-capitalism)
-- [ByteDance in talks with banks to borrow over $3B](https://www.reuters.com/technology/bytedance-talks-borrow-up-5-bln-information-2021-09-08/)
-- [Disinformation-for-hire in Kenya](https://foundation.mozilla.org/en/blog/fellow-research-inside-the-shadowy-world-of-disinformation-for-hire-in-kenya/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
