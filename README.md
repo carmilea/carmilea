@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
-- [Hustle culture is not toxic](https://bugragunduz.com/blog/hustle-culture/)
+- [We Could Brighten Clouds to Cool the Earth](https://spectrum.ieee.org/climate-change-2654802125)
+- [Rust Programs Written in Rust](https://blog.sunfishcode.online/rust-programs-entirely-in-rust/)
 - [Big Brothers Has Privatized](https://javani.substack.com/p/big-brothers-has-privatized)
 - [Show HN: An infinite record playlist of out-of-copyright works](https://www.locserendipity.com/PushPlay.html)
-- [Australia’s new mass surveillance mandate](https://digitalrightswatch.org.au/2021/09/02/australias-new-mass-surveillance-mandate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
