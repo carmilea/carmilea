@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Let Your Top Performers Move Around the Company](https://hbr.org/2021/08/let-your-top-performers-move-around-the-company)
+- [In the 1980s, James Dallas Egbert and the Media Blamed Dungeons and Dragons](https://quidplura.com/2021/09/07/but-down-in-the-underground-youll-find-someone-true-2/)
 - [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
 - [We Could Brighten Clouds to Cool the Earth](https://spectrum.ieee.org/climate-change-2654802125)
 - [Rust Programs Written in Rust](https://blog.sunfishcode.online/rust-programs-entirely-in-rust/)
-- [Big Brothers Has Privatized](https://javani.substack.com/p/big-brothers-has-privatized)
-- [Show HN: An infinite record playlist of out-of-copyright works](https://www.locserendipity.com/PushPlay.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
