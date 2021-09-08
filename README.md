@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Triplebyte Hiring Head of Engineering](https://news.ycombinator.com/item?id=28462991)
-- [How to Replace Docker with Podman on a Mac](https://www.redhat.com/sysadmin/replace-docker-podman-macos)
-- [Silanano launches the first new commercial battery chemistry since 1991](https://silanano.com/news/one-small-new-battery-one-giant-leap-for-our-energy-future/?referrer)
-- [Massive animal species discovered in half-billion-year-old Burgess Shale](https://www.rom.on.ca/en/about-us/newsroom/press-releases/massive-new-animal-species-discovered-in-half-billion-year-old)
-- [How We Went All In on sqlc/pgx for Postgres and Go](https://brandur.org/sqlc)
+- [Opal Camera](https://opalcamera.com/)
+- [Show HN: PeeYork, Bathroom finder app for NY](https://peeyork.webflow.io/)
+- [Soar Cognitive Architecture](https://soar.eecs.umich.edu/)
+- [Public Comment on Inflation Measurement](http://www.shadowstats.com/article/no-438-public-comment-on-inflation-measurement)
+- [NASA's James Webb Space Telescope Launch Delayed to December](https://www.space.com/james-webb-space-telescope-launch-december-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
