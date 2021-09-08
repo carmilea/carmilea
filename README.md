@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The ADE 651 is a fake bomb detector, sold for up to US$60k each](https://en.wikipedia.org/wiki/ADE_651)
-- [Archive.is owner on “continuity of his project”](https://blog.archive.today/post/660719734341386240/is-there-any-structure-in-place-to-assure-the)
-- [Ask HN: How did you become a software engineer?](https://news.ycombinator.com/item?id=28457499)
-- [Monitoring my home's air quality with AirGradient's DIY sensor](https://www.jeffgeerling.com/blog/2021/airgradient-diy-air-quality-monitor-co2-pm25)
-- [Show HN: Low-Code Metrics Store](https://github.com/mlcraft-io/mlcraft)
+- [Maintain It with Zig](https://kristoff.it/blog/maintain-it-with-zig/)
+- [The 'megacomet' Bernardinelli-Bernstein is the find of a decade](https://www.space.com/giant-comet-bernardinelli-bernstein-discovery-size-activity)
+- [Generating Random Numbers Is a Lot Harder Than You Think](https://betterprogramming.pub/generating-random-numbers-is-a-lot-harder-than-you-think-b121c3e75d08)
+- [Built to Last – RSS, HTTP (2015)](https://blog.theoldreader.com/post/111572910019/standard)
+- [Web3 Is a Stupid Idea](https://timdaub.github.io/2020/09/08/web3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
