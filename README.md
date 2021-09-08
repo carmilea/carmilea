@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The bargain at the heart of the BBC is fraying](https://jamesomalley.substack.com/p/the-bbc-faces-a-death-spiral-and)
-- [GitHub Actions Limitations and Gotchas](https://www.cbui.dev/github-actions-limitations-and-gotchas/)
-- [Quadrant Eye (YC W21) Is Hiring a Head of Research, Engineering, Design](https://www.notion.so/quadranteye/Welcome-to-the-Quadrant-Eye-jobs-page-daca8963683b4435bd871032224343c0)
-- [Toyota to spend 1.5T yen on EV battery development](https://www.asahi.com/ajw/articles/14436029)
-- [The Creative World’s Bullshit Industrial Complex](https://99u.adobe.com/articles/55974/the-creative-worlds-bullshit-industrial-complex)
+- [Silanano launches the first new commercial battery chemistry since 1991](https://silanano.com/news/one-small-new-battery-one-giant-leap-for-our-energy-future/?referrer)
+- [Massive animal species discovered in half-billion-year-old Burgess Shale](https://www.rom.on.ca/en/about-us/newsroom/press-releases/massive-new-animal-species-discovered-in-half-billion-year-old)
+- [How We Went All In on sqlc/pgx for Postgres and Go](https://brandur.org/sqlc)
+- [FD 100](https://susam.in/maze/fd-100.html)
+- [LAPD officers told to collect social media data on every civilian they stop](https://www.theguardian.com/us-news/2021/sep/08/revealed-los-angeles-police-officers-gathering-social-media)
 <!-- BLOG-POST-LIST:END -->
 
 ---
