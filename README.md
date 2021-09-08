@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Space station astronaut captures breathtaking view of the edge of the Earth](https://www.cnet.com/news/space-station-astronaut-captures-breathtaking-view-of-the-edge-of-the-earth/)
 - [MagicBell (YC W21), a 5 people team, is hiring a Ruby engineer (async remote)](https://magicbell.notion.site/Senior-Backend-Engineer-Fully-Remote-d70c9500f10548c29729a4998a556822)
+- [Solarpunk Is Not About Pretty Aesthetics. It's About the End of Capitalism](https://www.vice.com/en/article/wx5aym/solarpunk-is-not-about-pretty-aesthetics-its-about-the-end-of-capitalism)
 - [ByteDance in talks with banks to borrow over $3B](https://www.reuters.com/technology/bytedance-talks-borrow-up-5-bln-information-2021-09-08/)
 - [Disinformation-for-hire in Kenya](https://foundation.mozilla.org/en/blog/fellow-research-inside-the-shadowy-world-of-disinformation-for-hire-in-kenya/)
-- [Almost free serverless on-demand Minecraft server in AWS](https://github.com/doctorray117/minecraft-ondemand)
-- [First Edition Unix Manual 'Miscellaneous' Section (1971) [pdf]](http://web.archive.org/web/20000829224359/http://cm.bell-labs.com/cm/cs/who/dmr/man71.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
