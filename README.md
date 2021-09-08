@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Let Your Top Performers Move Around the Company](https://hbr.org/2021/08/let-your-top-performers-move-around-the-company)
+- [Sir Tim Berners-Lee joins Proton’s advisory board](https://protonmail.com/blog/sir-tim-berners-lee-advisory-board/)
+- [Thread: Some sketchy behavior coming out of the SEC recently](https://twitter.com/brian_armstrong/status/1435439291715358721)
 - [In the 1980s, James Dallas Egbert and the Media Blamed Dungeons and Dragons](https://quidplura.com/2021/09/07/but-down-in-the-underground-youll-find-someone-true-2/)
 - [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
-- [We Could Brighten Clouds to Cool the Earth](https://spectrum.ieee.org/climate-change-2654802125)
 - [Rust Programs Written in Rust](https://blog.sunfishcode.online/rust-programs-entirely-in-rust/)
 <!-- BLOG-POST-LIST:END -->
 
