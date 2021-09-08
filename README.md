@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The SEC has told us it wants to sue us over Lend. We don’t know why](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
+- [Somali feminist: Facebook is being used to silence me](https://www.bbc.com/news/world-africa-58355603)
 - [Sir Tim Berners-Lee joins Proton’s advisory board](https://protonmail.com/blog/sir-tim-berners-lee-advisory-board/)
+- [The Problems with Deliberate Practice](https://commoncog.com/blog/the-problems-with-deliberate-practice/)
 - [Thread: Some sketchy behavior coming out of the SEC recently](https://twitter.com/brian_armstrong/status/1435439291715358721)
-- [In the 1980s, James Dallas Egbert and the Media Blamed Dungeons and Dragons](https://quidplura.com/2021/09/07/but-down-in-the-underground-youll-find-someone-true-2/)
-- [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
-- [Rust Programs Written in Rust](https://blog.sunfishcode.online/rust-programs-entirely-in-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
