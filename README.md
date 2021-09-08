@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese activist Ai Weiwei says Credit Suisse closing foundation's bank account](https://www.reuters.com/world/china/chinese-activist-ai-weiwei-says-credit-suisse-closing-his-foundations-bank-2021-09-07/)
+- [Lemmy a federated open-source alternative to Reddit](https://join-lemmy.org/)
 - [The SEC has told us it wants to sue us over Lend. We don’t know why](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
 - [Somali feminist: Facebook is being used to silence me](https://www.bbc.com/news/world-africa-58355603)
 - [Sir Tim Berners-Lee joins Proton’s advisory board](https://protonmail.com/blog/sir-tim-berners-lee-advisory-board/)
-- [The Problems with Deliberate Practice](https://commoncog.com/blog/the-problems-with-deliberate-practice/)
-- [Thread: Some sketchy behavior coming out of the SEC recently](https://twitter.com/brian_armstrong/status/1435439291715358721)
 <!-- BLOG-POST-LIST:END -->
 
 ---
