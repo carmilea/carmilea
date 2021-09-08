@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope launch media kit [pdf]](https://esamultimedia.esa.int/docs/science/Webb-LaunchKit_EN.pdf)
-- [SBCL: The Assembly Code Breadboard (2014)](https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/)
-- [Replit (YC W18) Is Hiring Engineers/Designers to Invent the Future of Programming](https://replit.com/site/careers)
-- [Misbehaving Microsoft Teams ad brings down the entire Windows 11 desktop](https://arstechnica.com/gadgets/2021/09/misbehaving-microsoft-teams-ad-brings-down-the-entire-windows-11-desktop)
-- [Anatomy of a Catastrophic Boiler Accident (1997)](https://www.nationalboard.org/Index.aspx?pageID=164&ID=226)
+- [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
+- [Hustle culture is not toxic](https://bugragunduz.com/blog/hustle-culture/)
+- [Big Brothers Has Privatized](https://javani.substack.com/p/big-brothers-has-privatized)
+- [Show HN: An infinite record playlist of out-of-copyright works](https://www.locserendipity.com/PushPlay.html)
+- [Australia’s new mass surveillance mandate](https://digitalrightswatch.org.au/2021/09/02/australias-new-mass-surveillance-mandate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
