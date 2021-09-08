@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Triplebyte Hiring Head of Engineering](https://news.ycombinator.com/item?id=28462991)
+- [How to Replace Docker with Podman on a Mac](https://www.redhat.com/sysadmin/replace-docker-podman-macos)
 - [Silanano launches the first new commercial battery chemistry since 1991](https://silanano.com/news/one-small-new-battery-one-giant-leap-for-our-energy-future/?referrer)
 - [Massive animal species discovered in half-billion-year-old Burgess Shale](https://www.rom.on.ca/en/about-us/newsroom/press-releases/massive-new-animal-species-discovered-in-half-billion-year-old)
 - [How We Went All In on sqlc/pgx for Postgres and Go](https://brandur.org/sqlc)
-- [FD 100](https://susam.in/maze/fd-100.html)
-- [LAPD officers told to collect social media data on every civilian they stop](https://www.theguardian.com/us-news/2021/sep/08/revealed-los-angeles-police-officers-gathering-social-media)
 <!-- BLOG-POST-LIST:END -->
 
 ---
