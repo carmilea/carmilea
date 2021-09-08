@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [‘No point in anything else’: Gen Z members flock to climate careers](https://www.theguardian.com/environment/2021/sep/06/gen-z-climate-change-careers-jobs)
-- [20 years after 9/11: Will we ever stop taking our shoes off at airports?](https://www.ocregister.com/2021/09/07/20-years-after-9-11-will-we-ever-stop-taking-our-shoes-off-at-airports/)
-- [The IBM Mainframe: The most powerful and cost-effective computing platform](https://www.planetmainframe.com/2021/09/the-ibm-mainframe-the-most-powerful-and-cost-effective-computing-platform-for-business/)
-- [Miegakure Update September 2021](https://marctenbosch.com/news/2021/09/miegakure-update-september-2021/)
-- [Space station astronaut captures breathtaking view of the edge of the Earth](https://www.cnet.com/news/space-station-astronaut-captures-breathtaking-view-of-the-edge-of-the-earth/)
+- [The ADE 651 is a fake bomb detector, sold for up to US$60k each](https://en.wikipedia.org/wiki/ADE_651)
+- [Archive.is owner on “continuity of his project”](https://blog.archive.today/post/660719734341386240/is-there-any-structure-in-place-to-assure-the)
+- [Ask HN: How did you become a software engineer?](https://news.ycombinator.com/item?id=28457499)
+- [Monitoring my home's air quality with AirGradient's DIY sensor](https://www.jeffgeerling.com/blog/2021/airgradient-diy-air-quality-monitor-co2-pm25)
+- [Show HN: Low-Code Metrics Store](https://github.com/mlcraft-io/mlcraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
