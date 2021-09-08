@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Chinese activist Ai Weiwei says Credit Suisse closing foundation's bank account](https://www.reuters.com/world/china/chinese-activist-ai-weiwei-says-credit-suisse-closing-his-foundations-bank-2021-09-07/)
-- [Lemmy a federated open-source alternative to Reddit](https://join-lemmy.org/)
-- [The SEC has told us it wants to sue us over Lend. We don’t know why](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
-- [Somali feminist: Facebook is being used to silence me](https://www.bbc.com/news/world-africa-58355603)
+- [Lemmy – A link aggregator for the fediverse](https://join-lemmy.org/)
 - [Sir Tim Berners-Lee joins Proton’s advisory board](https://protonmail.com/blog/sir-tim-berners-lee-advisory-board/)
+- [The Problems with Deliberate Practice (2020)](https://commoncog.com/blog/the-problems-with-deliberate-practice/)
+- [The Great Boston Molasses Flood of 1919 (2018)](https://www.newenglandhistoricalsociety.com/great-boston-molasses-disaster-1919/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
