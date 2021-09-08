@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How strong would a magnetic field have to be to kill you?](https://gravityandlevity.wordpress.com/2015/01/12/how-strong-would-a-magnetic-field-have-to-be-to-kill-you/#comment-3929)
 - [Opal Camera](https://opalcamera.com/)
+- [How Doctors die. It’s not like the rest of us (2016)](https://archive.cancerworld.net/featured/how-doctors-die/)
 - [Show HN: PeeYork, Bathroom finder app for NY](https://peeyork.webflow.io/)
 - [Soar Cognitive Architecture](https://soar.eecs.umich.edu/)
-- [Public Comment on Inflation Measurement](http://www.shadowstats.com/article/no-438-public-comment-on-inflation-measurement)
-- [NASA's James Webb Space Telescope Launch Delayed to December](https://www.space.com/james-webb-space-telescope-launch-december-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
