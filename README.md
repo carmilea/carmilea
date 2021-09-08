@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Maintain It with Zig](https://kristoff.it/blog/maintain-it-with-zig/)
-- [The 'megacomet' Bernardinelli-Bernstein is the find of a decade](https://www.space.com/giant-comet-bernardinelli-bernstein-discovery-size-activity)
-- [Generating Random Numbers Is a Lot Harder Than You Think](https://betterprogramming.pub/generating-random-numbers-is-a-lot-harder-than-you-think-b121c3e75d08)
-- [Built to Last – RSS, HTTP (2015)](https://blog.theoldreader.com/post/111572910019/standard)
-- [Web3 Is a Stupid Idea](https://timdaub.github.io/2020/09/08/web3/)
+- [Quadrant Eye (YC W21) Is Hiring a Head of Research, Engineering, Design](https://www.notion.so/quadranteye/Welcome-to-the-Quadrant-Eye-jobs-page-daca8963683b4435bd871032224343c0)
+- [The Creative World’s Bullshit Industrial Complex](https://99u.adobe.com/articles/55974/the-creative-worlds-bullshit-industrial-complex)
+- [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)
+- [How Docker broke in half](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html)
+- [Pedalboard: Spotify’s Audio Effects Library for Python](https://engineering.atspotify.com/2021/09/07/introducing-pedalboard-spotifys-audio-effects-library-for-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
