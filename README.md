@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How the Wire’s Omar Changed TV](https://www.theguardian.com/tv-and-radio/2021/sep/07/shotgun-briefcase-omar-wire-great-scenes-michael-k-williams-changed-tv)
+- [MagicBell (YC W21), a 5 people team, is hiring a Ruby engineer (async remote)](https://magicbell.notion.site/Senior-Backend-Engineer-Fully-Remote-d70c9500f10548c29729a4998a556822)
+- [ByteDance in talks with banks to borrow over $3B](https://www.reuters.com/technology/bytedance-talks-borrow-up-5-bln-information-2021-09-08/)
+- [Disinformation-for-hire in Kenya](https://foundation.mozilla.org/en/blog/fellow-research-inside-the-shadowy-world-of-disinformation-for-hire-in-kenya/)
 - [Almost free serverless on-demand Minecraft server in AWS](https://github.com/doctorray117/minecraft-ondemand)
 - [First Edition Unix Manual 'Miscellaneous' Section (1971) [pdf]](http://web.archive.org/web/20000829224359/http://cm.bell-labs.com/cm/cs/who/dmr/man71.pdf)
-- [Lemmy – A link aggregator for the fediverse](https://join-lemmy.org/)
-- [The SEC has told us it wants to sue us over Lend. We don’t know why](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
 <!-- BLOG-POST-LIST:END -->
 
 ---
