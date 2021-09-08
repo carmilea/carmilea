@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First Edition Unix Manual 'Miscellaneous' Section (1971) [pdf]](http://web.archive.org/web/20000829224359/http://cm.bell-labs.com/cm/cs/who/dmr/man71.pdf)
 - [Chinese activist Ai Weiwei says Credit Suisse closing foundation's bank account](https://www.reuters.com/world/china/chinese-activist-ai-weiwei-says-credit-suisse-closing-his-foundations-bank-2021-09-07/)
 - [Lemmy – A link aggregator for the fediverse](https://join-lemmy.org/)
-- [Sir Tim Berners-Lee joins Proton’s advisory board](https://protonmail.com/blog/sir-tim-berners-lee-advisory-board/)
+- [The SEC has told us it wants to sue us over Lend. We don’t know why](https://blog.coinbase.com/the-sec-has-told-us-it-wants-to-sue-us-over-lend-we-have-no-idea-why-a3a1b6507009)
 - [The Problems with Deliberate Practice (2020)](https://commoncog.com/blog/the-problems-with-deliberate-practice/)
-- [The Great Boston Molasses Flood of 1919 (2018)](https://www.newenglandhistoricalsociety.com/great-boston-molasses-disaster-1919/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
