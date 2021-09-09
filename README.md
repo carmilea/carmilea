@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Amiga – Part 1 (2018)](https://www.thedigitalcatonline.com/blog/2018/05/28/exploring-the-amiga-1/)
-- [Canada aims to block Chelsea Manning from entering country](https://www.theglobeandmail.com/canada/article-canada-aims-to-block-chelsea-manning-from-entering-country/)
-- [Digital Minimalism: What are the alternative to screen time?](https://news.ycombinator.com/item?id=28465181)
-- [Amid a Pandemic, a Health Care Algorithm Shows Promise and Peril](https://undark.org/2021/05/27/health-care-algorithm-promise-peril/)
-- [Australia media can be sued for social media comments, court rules](https://www.bbc.com/news/world-australia-58484205)
+- [Event Horizon Telescope Traces Magnetic Fields Around a Black Hole](https://aasnova.org/2021/03/24/event-horizon-telescope-traces-magnetic-fields-around-a-black-hole/)
+- [Amazon EKS Anywhere](https://github.com/aws/eks-anywhere)
+- [Absorption of 5G Radiation in Brain Tissue as a Function of Freq, Power and Time](https://ieeexplore.ieee.org/abstract/document/9115853)
+- [The web is swallowing the desktop whole and nobody noticed (2017)](https://char.gd/blog/2017/the-web-is-swallowing-the-desktop-whole-and-nobody-noticed)
+- [No One Ever Saw the Snow Cruiser Again](https://orangebeanindiana.com/2019/12/06/no-one-saw-the-snow-cruiser-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
