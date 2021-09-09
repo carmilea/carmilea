@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mad Max Fury Road vehicle auction](https://www.lloydsonline.com.au/LotDetails.aspx?lid=3091593)
+- [Tell HN: Thanks to thehodge and littlewarden.com, this site is up today](https://news.ycombinator.com/item?id=28472350)
+- [The most cited neural networks all build on work done in my labs](https://people.idsia.ch/~juergen/most-cited-neural-nets.html)
 - [Navattic (YC W21) is hiring](https://news.ycombinator.com/item?id=28471878)
-- [California Bill Passes, Giving Amazon Warehouse Workers Power to Fight Quotas](https://www.npr.org/2021/09/08/1034776936/amazon-warehouse-workers-speed-quotas-california-bill)
-- [New Math Book Rescues Landmark Topology Proof](https://www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/)
-- [HAProxy vulnerability enables HTTP request smuggling attacks](https://portswigger.net/daily-swig/haproxy-vulnerability-enables-http-request-smuggling-attacks)
-- [MasterCard Acquires CipherTrace to Enhance Crypto Capabilities](https://www.mastercard.com/news/press/2021/september/mastercard-acquires-ciphertrace-to-enhance-crypto-capabilities/)
+- [Facebook, Ray-Ban debut picture-taking smart glasses](https://www.axios.com/facebook-ray-ban-wayfarer-stories-5f113bfa-797f-4e2d-b99c-7d65a8726607.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
