@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook, Ray-Ban launch smart glasses](https://apnews.com/article/technology-business-7108e4104b31e349a64de6bf96b970a0)
+- [Navattic (YC W21) is hiring](https://news.ycombinator.com/item?id=28471878)
+- [California Bill Passes, Giving Amazon Warehouse Workers Power to Fight Quotas](https://www.npr.org/2021/09/08/1034776936/amazon-warehouse-workers-speed-quotas-california-bill)
+- [New Math Book Rescues Landmark Topology Proof](https://www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/)
+- [HAProxy vulnerability enables HTTP request smuggling attacks](https://portswigger.net/daily-swig/haproxy-vulnerability-enables-http-request-smuggling-attacks)
 - [MasterCard Acquires CipherTrace to Enhance Crypto Capabilities](https://www.mastercard.com/news/press/2021/september/mastercard-acquires-ciphertrace-to-enhance-crypto-capabilities/)
-- [Amazon to pay full college tuition for its front-line employees](https://www.aboutamazon.com/news/workplace/amazon-to-pay-full-college-tuition-for-front-line-employees)
-- [Artificial Cells That Mimic Living Cells’ Ability to Capture, Process and Expel](https://www.nyu.edu/about/news-publications/news/2021/september/artificial-cells.html)
-- [Paid influencers must label posts as ads, German court rules](https://www.reuters.com/technology/paid-influencers-must-label-posts-ads-german-court-rules-2021-09-09/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
