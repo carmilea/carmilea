@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Nihilism is OK” is not OK](https://meaningness.com/nihilism-considered-harmful)
 - [Event Horizon Telescope Traces Magnetic Fields Around a Black Hole](https://aasnova.org/2021/03/24/event-horizon-telescope-traces-magnetic-fields-around-a-black-hole/)
+- [mRNA cancer therapy now in human trials after shrinking mouse tumours](https://www.newscientist.com/article/2289334-mrna-cancer-therapy-now-in-human-trials-after-shrinking-mouse-tumours/)
 - [Amazon EKS Anywhere](https://github.com/aws/eks-anywhere)
-- [Absorption of 5G Radiation in Brain Tissue as a Function of Freq, Power and Time](https://ieeexplore.ieee.org/abstract/document/9115853)
-- [The web is swallowing the desktop whole and nobody noticed (2017)](https://char.gd/blog/2017/the-web-is-swallowing-the-desktop-whole-and-nobody-noticed)
-- [No One Ever Saw the Snow Cruiser Again](https://orangebeanindiana.com/2019/12/06/no-one-saw-the-snow-cruiser-again/)
+- [Absorption of 5G Radiation in Brain Tissue](https://ieeexplore.ieee.org/abstract/document/9115853)
 <!-- BLOG-POST-LIST:END -->
 
 ---
