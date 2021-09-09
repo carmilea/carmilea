@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook, Ray-Ban launch smart glasses](https://apnews.com/article/technology-business-7108e4104b31e349a64de6bf96b970a0)
+- [MasterCard Acquires CipherTrace to Enhance Crypto Capabilities](https://www.mastercard.com/news/press/2021/september/mastercard-acquires-ciphertrace-to-enhance-crypto-capabilities/)
+- [Amazon to pay full college tuition for its front-line employees](https://www.aboutamazon.com/news/workplace/amazon-to-pay-full-college-tuition-for-front-line-employees)
 - [Artificial Cells That Mimic Living Cells’ Ability to Capture, Process and Expel](https://www.nyu.edu/about/news-publications/news/2021/september/artificial-cells.html)
-- [Rust 1.55.0](https://blog.rust-lang.org/2021/09/09/Rust-1.55.0.html)
-- [How a foil-wrapped home survived the Caldor Fire as everything around it burned](https://www.sfchronicle.com/california-wildfires/article/How-one-foil-wrapped-home-survived-the-Caldor-16444302.php)
-- [Ministry of Freedom – GNU+Linux laptops with Libreboot preinstalled](https://minifree.org)
-- [What if I were 1% charged? (2013)](https://gravityandlevity.wordpress.com/2013/05/22/what-if-i-were-1-charged/)
+- [Paid influencers must label posts as ads, German court rules](https://www.reuters.com/technology/paid-influencers-must-label-posts-ads-german-court-rules-2021-09-09/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
