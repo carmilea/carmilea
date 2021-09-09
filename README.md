@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Money creation in the modern economy [pdf]](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf)
-- [New Horizons for SPJ (Simon Peyton Jones Is Leaving Microsoft Research)](https://discourse.haskell.org/t/new-horizons-for-spj/3099)
-- [Undercover at a Troll Farm](https://www.investigate-europe.eu/en/2019/undercover-at-a-troll-farm/)
-- [JP Morgan's Coffee Machine](https://www.coppolacomment.com/2021/09/jp-morgans-coffee-machine.html)
-- [PaddleOCR: Lightweight, 80 Langauge OCR](https://huggingface.co/spaces/akhaliq/PaddleOCR)
+- [TrueVault (YC W14) Is Hiring a VP of Eng to Help SMBs with Data Privacy Laws](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering)
+- [NIST research reveals new details about a possible fifth force of nature](https://www.nist.gov/news-events/news/2021/09/groundbreaking-technique-yields-important-new-details-silicon-subatomic)
+- [Hong Kong: Police Raid Tiananmen Square Museum](https://www.bbc.co.uk/news/world-asia-china-58506598)
+- [Shipping Clubhouse on Android in 10 Weeks](https://blog.clubhouse.com/shipping-clubhouse-on-android-in-10-weeks/)
+- [Money creation in the modern economy (2014) [pdf]](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
