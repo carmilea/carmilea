@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Amiga – Part 1 (2018)](https://www.thedigitalcatonline.com/blog/2018/05/28/exploring-the-amiga-1/)
+- [Canada aims to block Chelsea Manning from entering country](https://www.theglobeandmail.com/canada/article-canada-aims-to-block-chelsea-manning-from-entering-country/)
 - [Digital Minimalism: What are the alternative to screen time?](https://news.ycombinator.com/item?id=28465181)
-- ['Epic'–-How a Largely Untested AI Algorithm Crept into Hundreds of Hospitals](https://undark.org/2021/05/27/health-care-algorithm-promise-peril/)
-- [Most physicians would forgo aggressive treatment for themselves at EOL (2014)](https://med.stanford.edu/news/all-news/2014/05/most-physicians-would-forgo-aggressive-treatment-for-themselves-.html)
+- [Amid a Pandemic, a Health Care Algorithm Shows Promise and Peril](https://undark.org/2021/05/27/health-care-algorithm-promise-peril/)
 - [Australia media can be sued for social media comments, court rules](https://www.bbc.com/news/world-australia-58484205)
-- [How strong would a magnetic field have to be to kill you?](https://gravityandlevity.wordpress.com/2015/01/12/how-strong-would-a-magnetic-field-have-to-be-to-kill-you/#comment-3929)
 <!-- BLOG-POST-LIST:END -->
 
 ---
