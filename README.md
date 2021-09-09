@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Nihilism is OK” is not OK](https://meaningness.com/nihilism-considered-harmful)
+- [In the Memory Ward: Britain's most eccentric and original library (2015)](https://www.newyorker.com/magazine/2015/03/16/in-the-memory-ward)
+- [The US Government Tried to Kill Weed Smokers with a Toxic Chemical in the 1980s](https://thoughtcatalog.com/jeremy-london/2018/08/paraquat-pot/)
 - [Event Horizon Telescope Traces Magnetic Fields Around a Black Hole](https://aasnova.org/2021/03/24/event-horizon-telescope-traces-magnetic-fields-around-a-black-hole/)
 - [mRNA cancer therapy now in human trials after shrinking mouse tumours](https://www.newscientist.com/article/2289334-mrna-cancer-therapy-now-in-human-trials-after-shrinking-mouse-tumours/)
 - [Amazon EKS Anywhere](https://github.com/aws/eks-anywhere)
-- [Absorption of 5G Radiation in Brain Tissue](https://ieeexplore.ieee.org/abstract/document/9115853)
 <!-- BLOG-POST-LIST:END -->
 
 ---
