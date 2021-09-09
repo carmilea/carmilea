@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s effort to court ‘ethical’ hackers draws poor reviews](https://www.washingtonpost.com/technology/2021/09/09/apple-bug-bounty/)
+- [Native Rust Support on Cloudflare Workers](https://blog.cloudflare.com/workers-rust-sdk/)
+- [El Salvador’s new Bitcoin wallets could cost Western Union $400M a year](https://www.cnbc.com/2021/09/09/el-salvador-bitcoin-move-could-cost-western-union-400-million-a-year.html)
 - [Show HN: FractalCrypt 2.0 – free deniable encryption cryptoarchiver](http://github.com/zorggish/FractalCryptGUI)
 - [California aims to ban recycling symbols on things that aren’t recyclable](https://www.nytimes.com/2021/09/08/climate/arrows-recycling-symbol-california.html)
-- [Pachyderm Is Hiring Senior DevOps, Golang Engs, and Product Managers](https://www.pachyderm.com/careers/#positions)
-- [Show HN: Heroku Alternative for Python/Django apps](https://appliku.com/)
-- [Smoke alarms go off at the International Space Station](https://www.euronews.com/2021/09/09/smoke-alarms-go-off-at-the-international-space-station)
 <!-- BLOG-POST-LIST:END -->
 
 ---
