@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [In the Memory Ward: Britain's most eccentric and original library (2015)](https://www.newyorker.com/magazine/2015/03/16/in-the-memory-ward)
-- [The US Government Tried to Kill Weed Smokers with a Toxic Chemical in the 1980s](https://thoughtcatalog.com/jeremy-london/2018/08/paraquat-pot/)
 - [Event Horizon Telescope Traces Magnetic Fields Around a Black Hole](https://aasnova.org/2021/03/24/event-horizon-telescope-traces-magnetic-fields-around-a-black-hole/)
 - [mRNA cancer therapy now in human trials after shrinking mouse tumours](https://www.newscientist.com/article/2289334-mrna-cancer-therapy-now-in-human-trials-after-shrinking-mouse-tumours/)
 - [Amazon EKS Anywhere](https://github.com/aws/eks-anywhere)
+- [No One Ever Saw the Snow Cruiser Again (2019)](https://orangebeanindiana.com/2019/12/06/no-one-saw-the-snow-cruiser-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
