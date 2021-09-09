@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MDMA Reopens Child-Like “Critical Periods” in the Brain](https://www.analyticalcannabis.com/articles/mdma-reopens-child-like-critical-periods-in-the-brain-to-promote-mental-healing-313357)
-- [Introduction to OWASP Top 10 2021](https://owasp.org/Top10/)
-- [GitHub Actions checkspelling community workflow GitHub_TOKEN leakage via symlink](https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md)
-- [Pumpkin OS: x64 port/re-implementation of PalmOS](https://pmig96.wordpress.com/2021/09/08/pumpkin-os/)
-- [Event Horizon Telescope Traces Magnetic Fields Around a Black Hole](https://aasnova.org/2021/03/24/event-horizon-telescope-traces-magnetic-fields-around-a-black-hole/)
+- [Show HN: FractalCrypt 2.0 – free deniable encryption cryptoarchiver](http://github.com/zorggish/FractalCryptGUI)
+- [California aims to ban recycling symbols on things that aren’t recyclable](https://www.nytimes.com/2021/09/08/climate/arrows-recycling-symbol-california.html)
+- [Pachyderm Is Hiring Senior DevOps, Golang Engs, and Product Managers](https://www.pachyderm.com/careers/#positions)
+- [Show HN: Heroku Alternative for Python/Django apps](https://appliku.com/)
+- [Smoke alarms go off at the International Space Station](https://www.euronews.com/2021/09/09/smoke-alarms-go-off-at-the-international-space-station)
 <!-- BLOG-POST-LIST:END -->
 
 ---
