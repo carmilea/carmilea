@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Silicon Valley finds remote work is easier to begin than end](https://www.mercurynews.com/2021/09/08/silicon-valley-finds-remote-work-is-easier-to-begin-than-end/)
-- [Three Stanford professors on the sensible regulation of Big Tech](https://thebrowser.com/notes/system-error-rob-reich-jeremy-weinstein-mehran-sahami/)
-- [Mad Max Fury Road vehicle auction](https://www.lloydsonline.com.au/LotDetails.aspx?lid=3091593)
-- [Tell HN: Thanks to thehodge and littlewarden.com, this site is up today](https://news.ycombinator.com/item?id=28472350)
-- [Twenty percent of a picture of a dog](https://www.bloomberg.com/opinion/articles/2021-09-09/twenty-percent-of-a-picture-of-a-dog)
+- [Money creation in the modern economy [pdf]](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf)
+- [New Horizons for SPJ (Simon Peyton Jones Is Leaving Microsoft Research)](https://discourse.haskell.org/t/new-horizons-for-spj/3099)
+- [Undercover at a Troll Farm](https://www.investigate-europe.eu/en/2019/undercover-at-a-troll-farm/)
+- [JP Morgan's Coffee Machine](https://www.coppolacomment.com/2021/09/jp-morgans-coffee-machine.html)
+- [PaddleOCR: Lightweight, 80 Langauge OCR](https://huggingface.co/spaces/akhaliq/PaddleOCR)
 <!-- BLOG-POST-LIST:END -->
 
 ---
