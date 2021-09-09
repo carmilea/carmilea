@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sayings of Spartan Women](https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/moralia/sayings_of_spartan_women*.html)
+- [Climate: Majority of fossil fuels need to stay underground, study says](https://www.cnbc.com/2021/09/09/climate-majority-of-fossil-fuels-need-to-stay-underground-study-says.html)
+- [GNU+Linux Laptops with Libreboot. Secure, Private. Free as in Freedom](https://minifree.org)
+- [What if I were 1% charged? (2013)](https://gravityandlevity.wordpress.com/2013/05/22/what-if-i-were-1-charged/)
 - [Apple’s effort to court ‘ethical’ hackers draws poor reviews](https://www.washingtonpost.com/technology/2021/09/09/apple-bug-bounty/)
-- [Native Rust Support on Cloudflare Workers](https://blog.cloudflare.com/workers-rust-sdk/)
-- [El Salvador’s new Bitcoin wallets could cost Western Union $400M a year](https://www.cnbc.com/2021/09/09/el-salvador-bitcoin-move-could-cost-western-union-400-million-a-year.html)
-- [Show HN: FractalCrypt 2.0 – free deniable encryption cryptoarchiver](http://github.com/zorggish/FractalCryptGUI)
-- [California aims to ban recycling symbols on things that aren’t recyclable](https://www.nytimes.com/2021/09/08/climate/arrows-recycling-symbol-california.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
