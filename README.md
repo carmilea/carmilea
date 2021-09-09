@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Silicon Valley finds remote work is easier to begin than end](https://www.mercurynews.com/2021/09/08/silicon-valley-finds-remote-work-is-easier-to-begin-than-end/)
+- [Three Stanford professors on the sensible regulation of Big Tech](https://thebrowser.com/notes/system-error-rob-reich-jeremy-weinstein-mehran-sahami/)
 - [Mad Max Fury Road vehicle auction](https://www.lloydsonline.com.au/LotDetails.aspx?lid=3091593)
 - [Tell HN: Thanks to thehodge and littlewarden.com, this site is up today](https://news.ycombinator.com/item?id=28472350)
-- [The most cited neural networks all build on work done in my labs](https://people.idsia.ch/~juergen/most-cited-neural-nets.html)
-- [Navattic (YC W21) is hiring](https://news.ycombinator.com/item?id=28471878)
-- [Facebook, Ray-Ban debut picture-taking smart glasses](https://www.axios.com/facebook-ray-ban-wayfarer-stories-5f113bfa-797f-4e2d-b99c-7d65a8726607.html)
+- [Twenty percent of a picture of a dog](https://www.bloomberg.com/opinion/articles/2021-09-09/twenty-percent-of-a-picture-of-a-dog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
