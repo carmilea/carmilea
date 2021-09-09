@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Undermines Privacy Protections for Its 2B WhatsApp Users](https://thewire.in/tech/facebook-undermines-privacy-protections-whatsapp-users)
+- [Panama unveils bill to make Bitcoin legal tender](https://www.cnet.com/personal-finance/panama-unveils-bill-to-make-bitcoin-legal-tender/)
 - [In the Memory Ward: Britain's most eccentric and original library (2015)](https://www.newyorker.com/magazine/2015/03/16/in-the-memory-ward)
 - [Event Horizon Telescope Traces Magnetic Fields Around a Black Hole](https://aasnova.org/2021/03/24/event-horizon-telescope-traces-magnetic-fields-around-a-black-hole/)
 - [mRNA cancer therapy now in human trials after shrinking mouse tumours](https://www.newscientist.com/article/2289334-mrna-cancer-therapy-now-in-human-trials-after-shrinking-mouse-tumours/)
-- [Amazon EKS Anywhere](https://github.com/aws/eks-anywhere)
-- [No One Ever Saw the Snow Cruiser Again (2019)](https://orangebeanindiana.com/2019/12/06/no-one-saw-the-snow-cruiser-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
