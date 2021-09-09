@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sayings of Spartan Women](https://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/moralia/sayings_of_spartan_women*.html)
-- [Climate: Majority of fossil fuels need to stay underground, study says](https://www.cnbc.com/2021/09/09/climate-majority-of-fossil-fuels-need-to-stay-underground-study-says.html)
-- [GNU+Linux Laptops with Libreboot. Secure, Private. Free as in Freedom](https://minifree.org)
+- [Artificial Cells That Mimic Living Cells’ Ability to Capture, Process and Expel](https://www.nyu.edu/about/news-publications/news/2021/september/artificial-cells.html)
+- [Rust 1.55.0](https://blog.rust-lang.org/2021/09/09/Rust-1.55.0.html)
+- [How a foil-wrapped home survived the Caldor Fire as everything around it burned](https://www.sfchronicle.com/california-wildfires/article/How-one-foil-wrapped-home-survived-the-Caldor-16444302.php)
+- [Ministry of Freedom – GNU+Linux laptops with Libreboot preinstalled](https://minifree.org)
 - [What if I were 1% charged? (2013)](https://gravityandlevity.wordpress.com/2013/05/22/what-if-i-were-1-charged/)
-- [Apple’s effort to court ‘ethical’ hackers draws poor reviews](https://www.washingtonpost.com/technology/2021/09/09/apple-bug-bounty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
