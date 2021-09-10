@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Inai (YC S21) Is Hiring](https://www.ycombinator.com/companies/inai/jobs/fRqdcKA-business-development-representative)
+- [Our fridge just emailed us to say we opened its door too many times](https://twitter.com/hondanhon/status/1436027395115393024)
+- [Twitter to label 'good' bot accounts](https://www.bbc.com/news/technology-58510594)
 - [TrackerControl](https://trackercontrol.org/)
 - [Clearing up Myths about Ada](https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html)
-- [Protein and Transpacific Power](https://fortisanalysis.substack.com/p/protein-and-transpacific-power)
-- [Squats can boost brain activity [video]](https://www.bbc.com/reel/video/p09v8wyh/how-squats-can-boost-your-brain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
