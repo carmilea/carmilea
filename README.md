@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Atomic Gardening](https://www.atlasobscura.com/articles/radioactive-atomic-gardening)
-- [Coalton: How to Have Our (Typed) Cake and (Safely) Eat It Too, in Common Lisp](https://coalton-lang.github.io/20211010-introducing-coalton/)
-- [WhatsApp – Security of End-to-End Encrypted Backups [pdf]](https://www.whatsapp.com/security/WhatsApp_Security_Encrypted_Backups_Whitepaper.pdf)
-- [YOLOv5 on CPUs: Sparsifying to Achieve GPU-Level Performance](https://neuralmagic.com/blog/benchmark-yolov5-on-cpus-with-deepsparse/)
-- [Modern Treasury (YC S18) is hiring new grad engineers for Jan. 2022](https://jobs.ashbyhq.com/moderntreasury/a14a33e3-c262-425a-830c-d86965d2a864?utm_source=yYPEbOqnBd)
+- [Windy.com](https://windy.com)
+- [Windows Subsystem for Linux GUI](https://github.com/microsoft/wslg)
+- [London's Oyster card: Are its days numbered?](https://www.bbc.co.uk/news/uk-england-london-58197631)
+- [Google illegally underpaid thousands of workers](https://www.theguardian.com/technology/2021/sep/10/google-underpaid-workers-illegal-pay-disparity-documents)
+- [KrebsOnSecurity Hit by Huge New IoT Botnet “Meris”](https://krebsonsecurity.com/2021/09/krebsonsecurity-hit-by-huge-new-iot-botnet-meris/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
