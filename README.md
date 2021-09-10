@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
+- [A second hexagon in the stratosphere of Saturn](https://mesonstars.com/inteteresting/they-find-a-second-hexagon-in-the-stratosphere-of-saturn/)
+- [Ruby Type Conversion](https://kddnewton.com/2021/09/09/ruby-type-conversion.html)
 - [Windy.com](https://windy.com)
 - [Windows Subsystem for Linux GUI](https://github.com/microsoft/wslg)
-- [London's Oyster card: Are its days numbered?](https://www.bbc.co.uk/news/uk-england-london-58197631)
-- [Google illegally underpaid thousands of workers](https://www.theguardian.com/technology/2021/sep/10/google-underpaid-workers-illegal-pay-disparity-documents)
-- [KrebsOnSecurity Hit by Huge New IoT Botnet “Meris”](https://krebsonsecurity.com/2021/09/krebsonsecurity-hit-by-huge-new-iot-botnet-meris/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
