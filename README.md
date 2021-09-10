@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US’s wealthiest 1% are failing to pay $160bn a year in taxes, report finds](https://www.theguardian.com/us-news/2021/sep/08/us-wealthiest-responsible-yearly-160bn-lost-tax-revenue)
-- [TrueVault (YC W14) Is Hiring a VP of Eng to Help SMBs with Data Privacy Laws](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering)
-- [NIST research reveals new details about a possible fifth force of nature](https://www.nist.gov/news-events/news/2021/09/groundbreaking-technique-yields-important-new-details-silicon-subatomic)
-- [Hong Kong: Police Raid Tiananmen Square Museum](https://www.bbc.co.uk/news/world-asia-china-58506598)
-- [Shipping Clubhouse on Android in 10 Weeks](https://blog.clubhouse.com/shipping-clubhouse-on-android-in-10-weeks/)
+- [A Twitter user insulted a German politician. Police then raided his house](https://www.washingtonpost.com/world/2021/09/09/pimmelgate-german-politician-police-raid/)
+- [Why Don’t the French Celebrate Lafayette?](https://www.newyorker.com/magazine/2021/08/23/why-dont-the-french-celebrate-lafayette)
+- [Epic tests Apple with new request: let us relaunch Fortnite in Korea](https://www.theverge.com/2021/9/9/22665826/epic-games-apple-reinstate-fortnite-ios-korea-app-store-payment)
+- [The KIMplement 0.2b: a KIM-1 emulator for the Commodore 64](https://oldvcr.blogspot.com/2021/09/the-incredible-kimplement-02b-kim-1.html)
+- [Jay Leiderman Has Died](https://gizmodo.com/hacker-lawyer-jay-leiderman-is-dead-at-50-1847646284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
