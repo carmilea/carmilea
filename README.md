@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Upside-down rhino research wins Ig Nobel Prize](https://www.bbc.com/news/science-environment-58507100)
 - [Inai (YC S21) Is Hiring](https://www.ycombinator.com/companies/inai/jobs/fRqdcKA-business-development-representative)
-- [Our fridge just emailed us to say we opened its door too many times](https://twitter.com/hondanhon/status/1436027395115393024)
 - [Twitter to label 'good' bot accounts](https://www.bbc.com/news/technology-58510594)
 - [TrackerControl](https://trackercontrol.org/)
 - [Clearing up Myths about Ada](https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html)
