@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Major win for Epic Games: Apple has 90 days to open up app store payments](https://arstechnica.com/gadgets/2021/09/injunction-apple-must-open-up-app-store-payments-in-90-days/)
+- [Modern Treasury (YC S18) is hiring new grad engineers for Jan. 2022](https://jobs.ashbyhq.com/moderntreasury/a14a33e3-c262-425a-830c-d86965d2a864?utm_source=yYPEbOqnBd)
+- [Postgres: Boundless `Text` and Back Again](https://brandur.org/text)
+- [Apple Trial Ends in Mixed Verdict After Epic’s Monopoly Allegations](https://www.wsj.com/articles/apple-trial-ends-in-mixed-verdict-after-fortnite-makers-monopoly-allegations-11631289792)
 - [Write More, but Shorter](https://blog.kewah.com/2021/write-more-but-shorter/)
 - [Containers Don't Solve Everything](https://blog.deref.io/containers-dont-solve-everything/)
-- [Oracle SQL Is the Devil](https://codingtofreedom.com/oracle-sql-is-the-devil/)
-- [PC DOS 1.1 from Scratch](https://www.os2museum.com/wp/pc-dos-1-1-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
