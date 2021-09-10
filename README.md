@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [JSON Schema bundling finally formalised](https://json-schema.org/blog/posts/bundling-json-schema-compound-documents)
+- [Libreboot: Freedom-Respecting Boot Firmware](https://libreboot.org/)
 - [Ask HN: Books that teach you programming languages via systems projects?](https://news.ycombinator.com/item?id=28478751)
 - [A cross-platform GUI for YouTube-dl](https://github.com/jely2002/youtube-dl-gui)
 - [Inai (YC S21) Is Hiring](https://www.ycombinator.com/companies/inai/jobs/fRqdcKA-business-development-representative)
-- [Our fridge just emailed us to say we opened its door too many times](https://twitter.com/hondanhon/status/1436027395115393024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
