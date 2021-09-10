@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PalmOS on Raspberry Pi](https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/)
+- [Indra – Hackers Behind Recent Attacks on Iran](https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/)
 - [Wait, Did AS8003 just disappear?](https://www.kentik.com/blog/wait-did-as8003-just-disappear/)
 - [POW Captcha: a lightweight, self-hosted proof-of-work captcha](https://git.sequentialread.com/forest/pow-captcha)
 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
-- [A second hexagon in the stratosphere of Saturn](https://mesonstars.com/inteteresting/they-find-a-second-hexagon-in-the-stratosphere-of-saturn/)
-- [Ruby Type Conversion](https://kddnewton.com/2021/09/09/ruby-type-conversion.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
