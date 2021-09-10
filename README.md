@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Word Error Rate a Good Metric for Speech Recognition Models?](https://www.assemblyai.com/blog/word-error-rate)
+- [We (Still) Believe in Private Offices (2015)](https://stackoverflow.blog/2015/01/16/why-we-still-believe-in-private-offices/)
 - [Meticulous (YC S21) Is Hiring #1 Founding Engineer](https://news.ycombinator.com/item?id=28480327)
 - [JSON Schema bundling finally formalised](https://json-schema.org/blog/posts/bundling-json-schema-compound-documents)
 - [Libreboot: Freedom-Respecting Boot Firmware](https://libreboot.org/)
-- [Ask HN: Books that teach you programming languages via systems projects?](https://news.ycombinator.com/item?id=28478751)
-- [A cross-platform GUI for YouTube-dl](https://github.com/jely2002/youtube-dl-gui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
