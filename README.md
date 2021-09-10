@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wait, Did AS8003 just disappear?](https://www.kentik.com/blog/wait-did-as8003-just-disappear/)
+- [POW Captcha: a lightweight, self-hosted proof-of-work captcha](https://git.sequentialread.com/forest/pow-captcha)
 - [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
 - [A second hexagon in the stratosphere of Saturn](https://mesonstars.com/inteteresting/they-find-a-second-hexagon-in-the-stratosphere-of-saturn/)
 - [Ruby Type Conversion](https://kddnewton.com/2021/09/09/ruby-type-conversion.html)
-- [Windy.com](https://windy.com)
-- [Windows Subsystem for Linux GUI](https://github.com/microsoft/wslg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
