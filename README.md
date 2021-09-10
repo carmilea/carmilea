@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inai (YC S21) Is Hiring](https://www.ycombinator.com/companies/inai/jobs/fRqdcKA-business-development-representative)
 - [TrackerControl](https://trackercontrol.org/)
 - [Clearing up Myths about Ada](https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html)
 - [Protein and Transpacific Power](https://fortisanalysis.substack.com/p/protein-and-transpacific-power)
 - [Squats can boost brain activity [video]](https://www.bbc.com/reel/video/p09v8wyh/how-squats-can-boost-your-brain)
-- [The Future Shape of Ruby Objects](https://chrisseaton.com/truffleruby/rubykaigi21/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
