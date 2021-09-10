@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Upside-down rhino research wins Ig Nobel Prize](https://www.bbc.com/news/science-environment-58507100)
+- [JSON Schema bundling finally formalised](https://json-schema.org/blog/posts/bundling-json-schema-compound-documents)
+- [Ask HN: Books that teach you programming languages via systems projects?](https://news.ycombinator.com/item?id=28478751)
+- [A cross-platform GUI for YouTube-dl](https://github.com/jely2002/youtube-dl-gui)
 - [Inai (YC S21) Is Hiring](https://www.ycombinator.com/companies/inai/jobs/fRqdcKA-business-development-representative)
-- [Twitter to label 'good' bot accounts](https://www.bbc.com/news/technology-58510594)
-- [TrackerControl](https://trackercontrol.org/)
-- [Clearing up Myths about Ada](https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html)
+- [Our fridge just emailed us to say we opened its door too many times](https://twitter.com/hondanhon/status/1436027395115393024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
