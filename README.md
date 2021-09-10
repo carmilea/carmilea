@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple fires senior engineering program manager Ashley for leaking information](https://www.theverge.com/2021/9/9/22666049/apple-fires-senior-engineering-program-manager-ashley-gjovik-for-allegedly-leaking-information)
+- [Apple fires engineering manager Ashley Gjøvik for allegedly leaking information](https://www.theverge.com/2021/9/9/22666049/apple-fires-senior-engineering-program-manager-ashley-gjovik-for-allegedly-leaking-information)
 - [Clearing up Myths about Ada](https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html)
 - [Protein and Transpacific Power](https://fortisanalysis.substack.com/p/protein-and-transpacific-power)
 - [Squats can boost brain activity [video]](https://www.bbc.com/reel/video/p09v8wyh/how-squats-can-boost-your-brain)
