@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wide-ranging SolarWinds probe sparks fear in Corporate America](https://www.reuters.com/technology/exclusive-wide-ranging-solarwinds-probe-sparks-fear-corporate-america-2021-09-10/)
-- [Nuclear War Survival Skills](https://www.oism.org/nwss/)
-- [CISA Zero Trust Maturity Model](https://www.cisa.gov/publication/zero-trust-maturity-model)
-- [KrebsOnSecurity hit by same IoT botnet that hit a record DDoS on Cloudflare](https://twitter.com/briankrebs/status/1436309299131789326)
-- [A Better Shell (2019)](https://matklad.github.io/2019/11/16/a-better-shell.html)
+- [Major win for Epic Games: Apple has 90 days to open up app store payments](https://arstechnica.com/gadgets/2021/09/injunction-apple-must-open-up-app-store-payments-in-90-days/)
+- [Write More, but Shorter](https://blog.kewah.com/2021/write-more-but-shorter/)
+- [Containers Don't Solve Everything](https://blog.deref.io/containers-dont-solve-everything/)
+- [Oracle SQL Is the Devil](https://codingtofreedom.com/oracle-sql-is-the-devil/)
+- [PC DOS 1.1 from Scratch](https://www.os2museum.com/wp/pc-dos-1-1-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
