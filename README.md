@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Squats can boost your brain [video]](https://www.bbc.com/reel/video/p09v8wyh/how-squats-can-boost-your-brain)
-- [A Twitter user insulted a German politician. Police then raided his house](https://www.washingtonpost.com/world/2021/09/09/pimmelgate-german-politician-police-raid/)
-- [“Front end” or “Back end” is the wrong way to name Engineering you like](https://www.michellelim.org/writing/stop-using-frontend-backend/)
+- [Protein and Transpacific Power](https://fortisanalysis.substack.com/p/protein-and-transpacific-power)
+- [Squats can boost brain activity [video]](https://www.bbc.com/reel/video/p09v8wyh/how-squats-can-boost-your-brain)
+- [A Twitter user insulted a German politician, then raided his house](https://www.washingtonpost.com/world/2021/09/09/pimmelgate-german-politician-police-raid/)
+- [Stop just using “Frontend” or “Backend” to describe the Engineering you like](https://www.michellelim.org/writing/stop-using-frontend-backend/)
 - [Why Don’t the French Celebrate Lafayette?](https://www.newyorker.com/magazine/2021/08/23/why-dont-the-french-celebrate-lafayette)
-- [Epic tests Apple with new request: let us relaunch Fortnite in Korea](https://www.theverge.com/2021/9/9/22665826/epic-games-apple-reinstate-fortnite-ios-korea-app-store-payment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
