@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal (YC S11) Is Hiring a Head of Product Engineering](https://onesignal.com/careers/5accd5c2-4a81-45ca-9813-701cae3cbec4)
+- [Rouille](https://github.com/bnjbvr/rouille)
+- [To Don't – The reverse to-do list](https://crazymarvin.com/to-dont/)
 - [Geizhals (Tech Product Price Comparison and Tracking)](https://geizhals.eu)
 - [Facial Recognition Technology: How to Opt Out at the Airport](https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport)
-- [Mistakes I've Made in AWS](https://laravel-news.com/aws-mistakes)
-- [How PCI-Express works (2020)](https://www.ovh.com/blog/how-pci-express-works-and-why-you-should-care-gpu/)
-- [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
