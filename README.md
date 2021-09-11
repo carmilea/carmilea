@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Global warming: is weight loss a solution?](https://www.nature.com/articles/ijo2011151)
+- [Social Networks: It's worse than you think](https://meta.ath0.com/2020/12/social-notwork/)
 - [Does Cloudflare's 1.1.1.1 DNS Block Archive.is? (2019)](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
 - [Become a Copenhagen Suborbitals Supporter](https://copenhagensuborbitals.com/support-us/)
-- [Microsoft study on the effects of remote work](https://www.nature.com/articles/s41562-021-01196-4)
+- [The effects of remote work on collaboration among information workers](https://www.nature.com/articles/s41562-021-01196-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
