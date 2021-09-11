@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Steam Top Games: 72% Work on Linux in September 2021](https://boilingsteam.com/steam-top-50-games-72-work-on-linux-in-sept-2021/)
-- [An Implementation of J – Incunabulum](https://www.jsoftware.com/ioj/iojATW.htm)
-- [Do rainbows have ultraviolet bands and infrared bands? (2015)](https://physics.stackexchange.com/questions/185231/do-rainbows-have-ultraviolet-bands-and-infrared-bands)
-- [Ask HN: How are you onboarding new team members?](https://news.ycombinator.com/item?id=28491442)
-- [High-powered motorcycle vibrations might impact iPhone camera](https://support.apple.com/en-us/HT212803)
+- [September 11, 2001 media synced in real-time](https://911realtime.org/)
+- [Interpretable Model-Based Hierarchical RL Using Inductive Logic Programming](https://arxiv.org/abs/2106.11417)
+- [The Privacy Lesson of 9/11: Mass Surveillance Is Not the Way Forward](https://www.aclu.org/news/national-security/the-privacy-lesson-of-9-11-mass-surveillance-is-not-the-way-forward/)
+- [Aggregators Aren't Open-Ended](https://subconscious.substack.com/p/aggregators-arent-open-ended)
+- [Pentagon retakes control of IP addresses it moved in last minutes of presidency](https://www.washingtonpost.com/technology/2021/09/10/pentagon-internet-protocol-addresses-trump/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
