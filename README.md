@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [PalmOS on Raspberry Pi](https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/)
+- [Andreessen Pulls a Bezos](https://www.drorpoleg.com/pulling-a-bezos/)
 - [Indra – Hackers Behind Recent Attacks on Iran](https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/)
+- [Show HN: LunarVim – An opinionated, extensible, and fast IDE layer for Neovim](https://www.lunarvim.org)
 - [Wait, Did AS8003 just disappear?](https://www.kentik.com/blog/wait-did-as8003-just-disappear/)
-- [POW Captcha: a lightweight, self-hosted proof-of-work captcha](https://git.sequentialread.com/forest/pow-captcha)
-- [AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators](https://careers.atob.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
