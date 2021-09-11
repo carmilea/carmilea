@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesforce Will Help Relocate Employees from Texas After Abortion Law](https://www.businessinsider.com/salesforce-will-help-relocate-employees-from-texas-after-abortion-law-2021-9)
 - [The effects of a warmer world are visible in animals’ bodies](https://www.economist.com/science-and-technology/2021/09/11/the-effects-of-a-warmer-world-are-visible-in-animals-bodies)
 - [Facebook Censored Me for Mentioning Open-Source Social Network Mastodon](https://changelog.complete.org/archives/10285-facebook-censored-me-for-mentioning-open-source-social-network-mastodon)
 - [Simple, opinionated and automated contract testing for your JSON API's](https://github.com/hellgrenj/Rumpel)
 - [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
-- [Medium Is Bad. Stop Using It](https://nomedium.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
