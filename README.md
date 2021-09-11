@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [LibreELEC 10.0.0](http://libreelec.tv/2021/08/26/libreelec-matrix-10-0/)
+- [UK faces 'permanent' food shortages](https://www.liverpoolecho.co.uk/news/uk-world-news/uk-faces-permanent-food-shortages-21533789)
 - [PalmOS on Raspberry Pi](https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/)
 - [Indra – Hackers Behind Recent Attacks on Iran](https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/)
 - [Show HN: LunarVim – An opinionated, extensible, and fast IDE layer for Neovim](https://www.lunarvim.org)
-- [Wait, Did AS8003 just disappear?](https://www.kentik.com/blog/wait-did-as8003-just-disappear/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
