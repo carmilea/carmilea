@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
+- [If-then-else had to be invented](https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md)
 - [Visually stunning math concepts which are easy to explain](https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain)
-- [The Availability of Rad Studio 11 Alexandria (Delphi)](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-11-alexandria/)
-- [Court rules for Florida governor, reinstates ban on mask mandates in FL schools](https://www.reuters.com/world/us/appeals-court-rules-favor-florida-governor-reinstates-ban-mask-mandates-florida-2021-09-10/)
-- [Apple II Double High Resolution Graphics (2017)](http://lukazi.blogspot.com/2017/03/double-high-resolution-graphics-dhgr.html)
-- [Gobang – Cross-platform TUI database management tool written in Rust](https://github.com/TaKO8Ki/gobang/tree/v0.1.0-alpha.3)
+- [Why did the web take over desktop and not mobile?](https://subconscious.substack.com/p/why-did-the-web-take-over-desktop)
+- [RAD Studio 11 Alexandria](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-11-alexandria/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
