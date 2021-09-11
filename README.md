@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NY hospital to pause baby deliveries after staffers quit over vaccine mandate](https://www.kiro7.com/news/trending/ny-hospital-pause-baby-deliveries-after-staffers-quit-over-vaccine-mandate/NNMBMQ6VTFFT5DDAMXV46DQ5TQ/)
-- [Does Cloudflare's 1.1.1.1 DNS Block Archive.is?](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
+- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Global warming: is weight loss a solution?](https://www.nature.com/articles/ijo2011151)
+- [Does Cloudflare's 1.1.1.1 DNS Block Archive.is? (2019)](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
 - [Become a Copenhagen Suborbitals Supporter](https://copenhagensuborbitals.com/support-us/)
 - [Microsoft study on the effects of remote work](https://www.nature.com/articles/s41562-021-01196-4)
-- [Stop Using Encrypted Email](https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
