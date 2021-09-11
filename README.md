@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facial Recognition Technology: How to Opt Out at the Airport](https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport)
 - [Mistakes I've Made in AWS](https://laravel-news.com/aws-mistakes)
 - [How PCI-Express works (2020)](https://www.ovh.com/blog/how-pci-express-works-and-why-you-should-care-gpu/)
 - [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
 - [Visually stunning math concepts which are easy to explain](https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain)
-- [RAD Studio 11 Alexandria](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-11-alexandria/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
