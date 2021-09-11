@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Room in 3D](https://my-room-in-3d.vercel.app/)
+- [Epic vs. Apple injunction doesn't allow for alternative IN-APP payment mechanism](http://www.fosspatents.com/2021/09/no-epic-v-apple-injunction-absolutely.html)
+- [AlphaGo: The Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
 - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Social Networks: It's worse than you think](https://meta.ath0.com/2020/12/social-notwork/)
-- [Does Cloudflare's 1.1.1.1 DNS Block Archive.is? (2019)](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
-- [Become a Copenhagen Suborbitals Supporter](https://copenhagensuborbitals.com/support-us/)
-- [The effects of remote work on collaboration among information workers](https://www.nature.com/articles/s41562-021-01196-4)
+- [Phony Diagnoses Hide High Rates of Drugging at Nursing Homes](https://www.nytimes.com/2021/09/11/health/nursing-homes-schizophrenia-antipsychotics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
