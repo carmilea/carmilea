@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Genius of the “dc” Desktop Calculator](https://www.youtube.com/watch?v=WxCP8oHq_Ss&ab_channel=CalculatorCulture)
+- [Steam Top Games: 72% Work on Linux in September 2021](https://boilingsteam.com/steam-top-50-games-72-work-on-linux-in-sept-2021/)
+- [An Implementation of J – Incunabulum](https://www.jsoftware.com/ioj/iojATW.htm)
 - [Do rainbows have ultraviolet bands and infrared bands? (2015)](https://physics.stackexchange.com/questions/185231/do-rainbows-have-ultraviolet-bands-and-infrared-bands)
-- [World’s Top Beef Supplier Approves Methane-Busting Cow Feed](https://www.bloomberg.com/news/articles/2021-09-09/world-s-top-beef-supplier-approves-methane-busting-cow-feed)
-- [OneSignal (YC S11) Is Hiring a Head of Product Engineering](https://onesignal.com/careers/5accd5c2-4a81-45ca-9813-701cae3cbec4)
-- [Some of the most iconic 9/11 news coverage is lost. Blame Adobe Flash](https://edition.cnn.com/2021/09/10/tech/digital-news-coverage-9-11/index.html)
+- [Ask HN: How are you onboarding new team members?](https://news.ycombinator.com/item?id=28491442)
+- [High-powered motorcycle vibrations might impact iPhone camera](https://support.apple.com/en-us/HT212803)
 <!-- BLOG-POST-LIST:END -->
 
 ---
