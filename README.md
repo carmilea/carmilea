@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Visually stunning math concepts which are easy to explain](https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain)
+- [The Availability of Rad Studio 11 Alexandria (Delphi)](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-11-alexandria/)
+- [Court rules for Florida governor, reinstates ban on mask mandates in FL schools](https://www.reuters.com/world/us/appeals-court-rules-favor-florida-governor-reinstates-ban-mask-mandates-florida-2021-09-10/)
 - [Apple II Double High Resolution Graphics (2017)](http://lukazi.blogspot.com/2017/03/double-high-resolution-graphics-dhgr.html)
 - [Gobang – Cross-platform TUI database management tool written in Rust](https://github.com/TaKO8Ki/gobang/tree/v0.1.0-alpha.3)
-- [LibreELEC 10.0.0](http://libreelec.tv/2021/08/26/libreelec-matrix-10-0/)
-- [PalmOS on Raspberry Pi](https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/)
-- [Show HN: LunarVim – An opinionated, extensible, and fast IDE layer for Neovim](https://www.lunarvim.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
