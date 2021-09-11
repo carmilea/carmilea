@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [September 11, 2001 media synced in real-time](https://911realtime.org/)
-- [Interpretable Model-Based Hierarchical RL Using Inductive Logic Programming](https://arxiv.org/abs/2106.11417)
-- [The Privacy Lesson of 9/11: Mass Surveillance Is Not the Way Forward](https://www.aclu.org/news/national-security/the-privacy-lesson-of-9-11-mass-surveillance-is-not-the-way-forward/)
-- [Aggregators Aren't Open-Ended](https://subconscious.substack.com/p/aggregators-arent-open-ended)
-- [Pentagon retakes control of IP addresses it moved in last minutes of presidency](https://www.washingtonpost.com/technology/2021/09/10/pentagon-internet-protocol-addresses-trump/)
+- [Simple, opinionated and automated contract testing for your JSON API's](https://github.com/hellgrenj/Rumpel)
+- [Flexport is hiring employees all over the world](https://www.flexport.com/careers)
+- ['The world 9/11 created: What if the U.S. had not invaded Iraq?'](https://www.washingtonpost.com/world/2021/09/09/911-us-invasion-iraq-counterfactual/)
+- [K Programming Language](https://kparc.com/)
+- [A cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
