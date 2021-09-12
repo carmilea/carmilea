@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Explaining how the MASM 2-pass assembler works](https://www.os2museum.com/wp/learn-something-old-every-day-part-iii/)
+- [Germany's federal police agency purchased and used 'Pegasus' spyware](https://www.techspot.com/news/91174-germany-federal-police-agency-secretly-purchased-used-controversial.html)
 - [Comp.lang.c Frequently Asked Questions](http://c-faq.com/)
 - [How Many People Can Someone Lead?](https://www.patkua.com/blog/how-many-people-can-someone-lead/)
 - [Adults with history of recreational cannabis use have altered speech production](https://www.sciencedirect.com/science/article/abs/pii/S0376871621004580)
-- [Experts vs elites](https://overcomingbias.com/2021/02/experts-versus-elites.html/)
-- [Why can’t I go faster than the speed of light?](https://gravityandlevity.wordpress.com/2009/04/08/why-cant-i-go-faster-than-the-speed-of-light-hints-from-electrodynamics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
