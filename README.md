@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast (YC W20) Is Hiring macOS Engineers (Remote)](https://www.raycast.com/jobs/software-engineer-macos/)
 - [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [Xiaomi is disabling some phones devices imported to certain regions](https://www.androidauthority.com/import-xiaomi-phone-problem-3019867/)
 - [Ask HN: Graduating CS soon, how do I find a job?](https://news.ycombinator.com/item?id=28498305)
 - [macOS persistence – Beyond the good ol' LaunchAgents](https://theevilbit.github.io/beyond/)
-- [Much less than, Much greater than symbols](https://www.johndcook.com/blog/2021/09/11/much-less-than-much-greater-than/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
