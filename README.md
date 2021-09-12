@@ -54,8 +54,8 @@
 - [Linux Phones [are less secure than mainstream Android]](https://madaidans-insecurities.github.io/linux-phones.html)
 - [2MW Electric Aircraft Engine](https://www.weflywright.com/technology#motors)
 - [NASA Awards $152.5M GOES-U Launch Contract to SpaceX](https://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-goes-u-mission/)
-- [Why most gas stations don’t make money from selling gas](https://thehustle.co/why-most-gas-stations-dont-make-money-from-selling-gas/)
-- [25% of students age 16-32 take Adderall 1-7 times per week, not prescribed](https://twitter.com/hubermanlab/status/1436822606116622336)
+- [The Forever Trial at Guantanamo](https://www.newyorker.com/magazine/2021/09/20/the-forever-trial-at-guantanamo)
+- [We Are All Scutoids: A Brand-New Shape, Explained (2018)](https://www.newyorker.com/elements/lab-notes/we-are-all-scutoids-a-brand-new-shape-explained)
 <!-- BLOG-POST-LIST:END -->
 
 ---
