@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Paper: NIH Funded Wuhan to Study Mutating SARS-CoV](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4936131/)
+- [Adults with history of recreational cannabis use have altered speech production](https://www.sciencedirect.com/science/article/abs/pii/S0376871621004580)
+- [Experts vs elites](https://overcomingbias.com/2021/02/experts-versus-elites.html/)
+- [FBI releases 9/11 investigation document that scrutinized Saudis](https://www.washingtonpost.com/national-security/fbi-911-document-declassified/2021/09/12/fa37b584-13c9-11ec-9589-31ac3173c2e5_story.html)
+- [OpenAI Shuts Down Chatbot Project by Indie Developer](https://gadgets.ndtv.com/internet/news/openai-chatbot-gpt-3-samantha-shut-down-dilute-jason-rohrer-possible-misuse-2537388)
 - [Beam/Erlang/Elixir Concept Explanations](http://beam-wisdoms.clau.se/en/latest/index.html)
-- [Ask HN: Books that teach you logic building skills](https://news.ycombinator.com/item?id=28500951)
-- [2MW Electric Aircraft Engine](https://www.weflywright.com/technology#motors)
-- [NASA has selected SpaceX for GOES-U mission](https://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-goes-u-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
