@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Got a 'Mild' Breakthrough Case. Here's What I Wish I'd Known](https://www.npr.org/sections/health-shots/2021/09/12/1036356773/i-got-a-mild-breakthrough-case-heres-what-i-wish-id-known)
+- [17Bn life years could be saved if air pollution was reduced to WHO standards](https://tribunemag.co.uk/2021/09/fossil-fuel-capitalism-is-cutting-our-lives-short)
+- [I Got a 'Mild' Breakthrough Case](https://www.npr.org/sections/health-shots/2021/09/12/1036356773/i-got-a-mild-breakthrough-case-heres-what-i-wish-id-known)
 - [Transmission torrent client ported to C++](https://github.com/transmission/transmission/pull/1787)
 - [I got the J language working on OpenBSD](https://briancallahan.net/blog/20210911.html)
 - [Explaining how the MASM 2-pass assembler works](https://www.os2museum.com/wp/learn-something-old-every-day-part-iii/)
-- [Germany's federal police agency purchased and used 'Pegasus' spyware](https://www.techspot.com/news/91174-germany-federal-police-agency-secretly-purchased-used-controversial.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
