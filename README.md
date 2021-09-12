@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Truth About a&W's Third-Pound Burger and the Major Math Mix-Up](https://awrestaurants.com/blog/aw-third-pound-burger-fractions)
+- [Poll: Covid Vaccine Mandate in Tech](https://news.ycombinator.com/item?id=28505526)
+- [Australian gov to use facial recognition and GPS tracking to enforce quarantine](https://www.geospatialworld.net/news/australian-government-to-develop-a-smartphone-app-for-facial-recognition-and-gps-tracking-for-covid-19/)
+- [Jupyter Book](https://jupyterbook.org/intro.html)
 - [Reverse-Engineering Apple Dictionary](https://fmentzer.github.io/posts/2020/dictionary/)
-- [AMule 2.3.3 – The “delayed too many times, but still not too late” version](https://github.com/amule-project/amule/releases/tag/2.3.3)
-- [Adam Smith didn't accept inequality as a necessary trade-off for a rich economy](https://blogs.lse.ac.uk/politicsandpolicy/adam-smith-and-inequality/)
-- [Ergo IRC Server](https://ergo.chat)
-- [The Buffett Indicator](https://www.currentmarketvaluation.com/models/buffett-indicator.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
