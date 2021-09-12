@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future Is Big Graphs: A Community View on Graph Processing Systems](https://cacm.acm.org/magazines/2021/9/255040-the-future-is-big-graphs/fulltext)
+- [We found a phone with pre-installed malware via the Lifeline Assistance program](https://blog.malwarebytes.com/android/2020/07/we-found-yet-another-phone-with-pre-installed-malware-via-the-lifeline-assistance-program/)
+- [England vaccine passport plans ditched](https://www.bbc.co.uk/news/uk-58535258)
 - [Transport noise linked to increased risk of dementia, study finds](https://www.theguardian.com/society/2021/sep/09/transport-noise-linked-to-increased-risk-of-dementia-study-finds)
-- [Google Drive forced upgrade on Windows](https://support.google.com/drive/thread/121013958/disable-google-drive-drive-letter)
-- [Peermaps – distributed, offline-friendly alternative to commercial map providers](https://peermaps.org/)
-- [Raycast (YC W20) Is Hiring macOS Engineers (Remote)](https://www.raycast.com/jobs/software-engineer-macos/)
-- [Open source applications for macOS](https://github.com/serhii-londar/open-source-mac-os-apps)
+- [Disable Google Drive drive letter](https://support.google.com/drive/thread/121013958/disable-google-drive-drive-letter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
