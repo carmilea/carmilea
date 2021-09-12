@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse-Engineering Apple Dictionary](https://fmentzer.github.io/posts/2020/dictionary/)
+- [AMule 2.3.3 – The “delayed too many times, but still not too late” version](https://github.com/amule-project/amule/releases/tag/2.3.3)
+- [Adam Smith didn't accept inequality as a necessary trade-off for a rich economy](https://blogs.lse.ac.uk/politicsandpolicy/adam-smith-and-inequality/)
 - [Ergo IRC Server](https://ergo.chat)
-- [Cleaning up header bars in GNOME 41](https://blogs.gnome.org/alexm/2021/09/10/cleaning-up-header-bars/)
-- [The Met commissioner: Tech giants make it impossible to stop terrorists](https://www.bbc.com/news/business-58537599)
-- [Let's Encrypt API v2 Service Disruption (12 Sep 2021)](https://letsencrypt.status.io/?hn)
-- [17Bn life years could be saved if air pollution was reduced to WHO standards](https://tribunemag.co.uk/2021/09/fossil-fuel-capitalism-is-cutting-our-lives-short)
+- [The Buffett Indicator](https://www.currentmarketvaluation.com/models/buffett-indicator.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
