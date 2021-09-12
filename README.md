@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Phones [are less secure than mainstream Android]](https://madaidans-insecurities.github.io/linux-phones.html)
+- [Paper: NIH Funded Wuhan to Study Mutating SARS-CoV](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4936131/)
+- [Beam/Erlang/Elixir Concept Explanations](http://beam-wisdoms.clau.se/en/latest/index.html)
+- [Ask HN: Books that teach you logic building skills](https://news.ycombinator.com/item?id=28500951)
 - [2MW Electric Aircraft Engine](https://www.weflywright.com/technology#motors)
-- [NASA Awards $152.5M GOES-U Launch Contract to SpaceX](https://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-goes-u-mission/)
-- [The Forever Trial at Guantanamo](https://www.newyorker.com/magazine/2021/09/20/the-forever-trial-at-guantanamo)
-- [We Are All Scutoids: A Brand-New Shape, Explained (2018)](https://www.newyorker.com/elements/lab-notes/we-are-all-scutoids-a-brand-new-shape-explained)
+- [NASA has selected SpaceX for GOES-U mission](https://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-goes-u-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
