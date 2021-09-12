@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Got a 'Mild' Breakthrough Case. Here's What I Wish I'd Known](https://www.npr.org/sections/health-shots/2021/09/12/1036356773/i-got-a-mild-breakthrough-case-heres-what-i-wish-id-known)
+- [Transmission torrent client ported to C++](https://github.com/transmission/transmission/pull/1787)
+- [I got the J language working on OpenBSD](https://briancallahan.net/blog/20210911.html)
 - [Explaining how the MASM 2-pass assembler works](https://www.os2museum.com/wp/learn-something-old-every-day-part-iii/)
 - [Germany's federal police agency purchased and used 'Pegasus' spyware](https://www.techspot.com/news/91174-germany-federal-police-agency-secretly-purchased-used-controversial.html)
-- [Comp.lang.c Frequently Asked Questions](http://c-faq.com/)
-- [How Many People Can Someone Lead?](https://www.patkua.com/blog/how-many-people-can-someone-lead/)
-- [Adults with history of recreational cannabis use have altered speech production](https://www.sciencedirect.com/science/article/abs/pii/S0376871621004580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
