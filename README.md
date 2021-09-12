@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [Xiaomi is disabling some phones devices imported to certain regions](https://www.androidauthority.com/import-xiaomi-phone-problem-3019867/)
-- [FBI releases newly declassified record on Sept. 11 attacks](https://apnews.com/article/joe-biden-jamal-khashoggi-terrorist-attacks-86eec32f1b5b2ad7c9ba6bfbb98a4adb)
 - [Ask HN: Graduating CS soon, how do I find a job?](https://news.ycombinator.com/item?id=28498305)
 - [macOS persistence – Beyond the good ol' LaunchAgents](https://theevilbit.github.io/beyond/)
 - [Much less than, Much greater than symbols](https://www.johndcook.com/blog/2021/09/11/much-less-than-much-greater-than/)
