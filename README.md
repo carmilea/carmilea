@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi is disabling some phones devices imported to certain regions](https://www.androidauthority.com/import-xiaomi-phone-problem-3019867/)
+- [FBI releases newly declassified record on Sept. 11 attacks](https://apnews.com/article/joe-biden-jamal-khashoggi-terrorist-attacks-86eec32f1b5b2ad7c9ba6bfbb98a4adb)
+- [Ask HN: Graduating CS soon, how do I find a job?](https://news.ycombinator.com/item?id=28498305)
+- [macOS persistence – Beyond the good ol' LaunchAgents](https://theevilbit.github.io/beyond/)
 - [Much less than, Much greater than symbols](https://www.johndcook.com/blog/2021/09/11/much-less-than-much-greater-than/)
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28497623)
-- [Samantha considering the prospect of being monitored for violations by OpenAI](https://twitter.com/jasonrohrer/status/1419795724217331716)
-- [Honk: “An ActivityPub server with minimal setup and support costs”](https://humungus.tedunangst.com/r/honk)
-- [Welcome to Cloudintosh](https://cloudintosh.sharedigm.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
