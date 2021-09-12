@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Transport noise linked to increased risk of dementia, study finds](https://www.theguardian.com/society/2021/sep/09/transport-noise-linked-to-increased-risk-of-dementia-study-finds)
 - [Google Drive forced upgrade on Windows](https://support.google.com/drive/thread/121013958/disable-google-drive-drive-letter)
+- [Peermaps – distributed, offline-friendly alternative to commercial map providers](https://peermaps.org/)
 - [Raycast (YC W20) Is Hiring macOS Engineers (Remote)](https://www.raycast.com/jobs/software-engineer-macos/)
 - [Open source applications for macOS](https://github.com/serhii-londar/open-source-mac-os-apps)
-- [The Busy Developers's Guide to Go Profiling, Tracing and Observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
