@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Room in 3D](https://my-room-in-3d.vercel.app/)
-- [Epic vs. Apple injunction doesn't allow for alternative IN-APP payment mechanism](http://www.fosspatents.com/2021/09/no-epic-v-apple-injunction-absolutely.html)
-- [AlphaGo: The Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
-- [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Phony Diagnoses Hide High Rates of Drugging at Nursing Homes](https://www.nytimes.com/2021/09/11/health/nursing-homes-schizophrenia-antipsychotics.html)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28497623)
+- [Samantha considering the prospect of being monitored for violations by OpenAI](https://twitter.com/jasonrohrer/status/1419795724217331716)
+- [Honk: “An ActivityPub server with minimal setup and support costs”](https://humungus.tedunangst.com/r/honk)
+- [Welcome to Cloudintosh](https://cloudintosh.sharedigm.com)
+- [Code Coverage for Zig with Callgrind](https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
