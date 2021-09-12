@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future Is Big Graphs: A Community View on Graph Processing Systems](https://cacm.acm.org/magazines/2021/9/255040-the-future-is-big-graphs/fulltext)
-- [We found a phone with pre-installed malware via the Lifeline Assistance program](https://blog.malwarebytes.com/android/2020/07/we-found-yet-another-phone-with-pre-installed-malware-via-the-lifeline-assistance-program/)
-- [England vaccine passport plans ditched](https://www.bbc.co.uk/news/uk-58535258)
-- [Transport noise linked to increased risk of dementia, study finds](https://www.theguardian.com/society/2021/sep/09/transport-noise-linked-to-increased-risk-of-dementia-study-finds)
-- [Disable Google Drive drive letter](https://support.google.com/drive/thread/121013958/disable-google-drive-drive-letter)
+- [Infracost (YC W21) Is Hiring Principal Software Engineer: Love Your Cloud Bills](https://www.ycombinator.com/companies/infracost/jobs/Epvol5L-principal-software-engineer)
+- [Is this proof of lab leak lies?](https://unherd.com/2021/09/is-this-proof-of-a-lab-leak-cover-up/)
+- [Starbucks and TrustArc add fake cookie processing delay if you don't click agree](https://twitter.com/pixelscript/status/1436664488913215490)
+- [Why is IRC distributed across multiple servers?](https://gist.github.com/rain-1/c4be54e6506116c7b99e8f474a3b1ca8)
+- [New alternatives to HSL and HSV that better match color perception](https://bottosson.github.io/posts/colorpicker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
