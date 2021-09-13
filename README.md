@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Energy Prices in Europe Hit Records After Wind Stops Blowing](https://www.wsj.com/articles/energy-prices-in-europe-hit-records-after-wind-stops-blowing-11631528258)
-- [Scorned wife raids ex-husband’s cryogenics lab, stealing frozen brains](https://www.thesun.co.uk/news/16105464/scorned-wife-raids-ex-husbands-lab/)
+- [Trademark Actions Against the PostgreSQL Community](https://www.postgresql.org/about/news/trademark-actions-against-the-postgresql-community-2302/)
+- [Use your own WiFi connection test server in Windows](https://www.nu42.com/2021/09/use-your-own-wifi-connection-test.html)
+- [Facebook Says Its Rules Apply to All. Documents Reveal an Elite That’s Exempt](https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353)
+- [My Life After Quitting Social Media](https://durmonski.com/life-advice/life-after-quitting-social-media/)
 - [Length-Limited Prefix Codes](https://create.stephan-brumme.com/length-limited-prefix-codes/)
-- [Usage statistics of server-side programming languages for websites](https://w3techs.com/technologies/history_overview/programming_language/ms/y)
-- [Mozilla has defeated Microsoft’s default browser protections in Windows](https://www.theverge.com/2021/9/13/22671182/mozilla-default-browser-windows-protections-firefox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
