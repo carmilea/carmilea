@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [PHP is still by far the most used server-side language with 78.9% market share](https://w3techs.com/technologies/history_overview/programming_language/ms/y)
+- [Mozilla has defeated Microsoft’s default browser protections in Windows](https://www.theverge.com/2021/9/13/22671182/mozilla-default-browser-windows-protections-firefox)
 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [Ship / Show / Ask: A modern branching strategy](https://martinfowler.com/articles/ship-show-ask.html)
 - [Custom Search Engine Built on Searx](https://jpreston.xyz/custom-search-engine.html)
-- [Britain tamed Big Tech and nobody noticed](https://www.wired.co.uk/article/age-appropriate-design-code-big-tech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
