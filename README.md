@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio (YC S15) is hiring – join our fully distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - [Intel issues end-of-life notice for RealSense Lidar](https://www.therobotreport.com/intel-issues-end-of-life-notice-realsense-lidar/)
 - [I refuse to let Amazon define Rust](https://twitter.com/steveklabnik/status/1437441118745071617)
 - [Disclosing E2EE vulnerability in multiple Matrix clients](https://matrix.org/blog/2021/09/13/vulnerability-disclosure-key-sharing)
 - [Welcome to Speed Week and a Waitless Internet](https://blog.cloudflare.com/fastest-internet/)
-- [Trademark Actions Against the PostgreSQL Community](https://www.postgresql.org/about/news/trademark-actions-against-the-postgresql-community-2302/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
