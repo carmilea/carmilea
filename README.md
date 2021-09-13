@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer's Porn Stash Gets Banned from Steam](https://steamcommunity.com/groups/Sentinels_of_the_Store/announcements/detail/2990942216950569314)
 - [Has AI found a new foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/)
 - [Epiousios](https://en.wikipedia.org/wiki/Epiousios)
 - [HashiCorp Terraform and Community Contributions](https://www.hashicorp.com/blog/terraform-community-contributions)
 - [Eleven proofs of the Gaussian integral [pdf]](https://kconrad.math.uconn.edu/blurbs/analysis/gaussianintegral.pdf)
-- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
