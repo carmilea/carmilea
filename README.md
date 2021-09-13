@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Truth About a&W's Third-Pound Burger and the Major Math Mix-Up](https://awrestaurants.com/blog/aw-third-pound-burger-fractions)
-- [Poll: Covid Vaccine Mandate in Tech](https://news.ycombinator.com/item?id=28505526)
-- [Australian gov to use facial recognition and GPS tracking to enforce quarantine](https://www.geospatialworld.net/news/australian-government-to-develop-a-smartphone-app-for-facial-recognition-and-gps-tracking-for-covid-19/)
+- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [Laion-400M: open-source dataset of 400M image-text pairs](https://laion.ai/laion-400-open-dataset/)
+- [Pixie – A full-featured 2D graphics library for Nim](https://github.com/treeform/pixie)
+- [9/11 Material Released in Response to Executive Order 14040](https://vault.fbi.gov/9-11-attacks-investigation-and-related-materials/9-11-material-released-in-response-to-executive-order-14040)
 - [Jupyter Book](https://jupyterbook.org/intro.html)
-- [Reverse-Engineering Apple Dictionary](https://fmentzer.github.io/posts/2020/dictionary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
