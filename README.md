@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Do you still miss your RIM BlackBerry?](https://news.ycombinator.com/item?id=28517447)
+- [UK hotels adding service charge to room rate](https://www.headforpoints.com/2021/09/13/uk-hotels-adding-service-charges-to-room-rate/)
+- [Firefox Browser: best for a free web](https://www.mozilla.org/en-GB/firefox/new/)
 - [Adam Curtis’ “Bitter Lake”: A Review](https://im1776.com/2021/09/10/graveyard-empire/)
+- [Smart kids should skip high school (2015)](https://www.sonyaellenmann.com/2015/09/why-skip-high-school.html)
 - [EasyPost (YC S13) is profitable and hiring](https://www.easypost.com/careers)
-- [Engineers grow pancreatic organoids that mimic the real thing](https://news.mit.edu/2021/pancreatic-organoids-cancer-0913)
-- [Intuit to Acquire Mailchimp for $12b](https://www.investors.intuit.com/news/news-details/2021/Intuit-to-Acquire-Mailchimp/default.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
