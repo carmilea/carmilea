@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Hrmpf rescue system, built on Void Linux](https://github.com/leahneukirchen/hrmpf)
-- [Parachute use to prevent death and major trauma: systematic review of RCTs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC300808/)
-- [Developer's Porn Stash Gets Banned from Steam](https://steamcommunity.com/groups/Sentinels_of_the_Store/announcements/detail/2990942216950569314)
+- [Technology prediction for the 2020s](https://twitter.com/sama/status/1436028666887086104)
+- [Hyperbaric oxygen therapy reverses hallmarks of Alzheimer’s disease and dementia](https://www.technology.org/2021/09/10/hyperbaric-oxygen-therapy-reverses-hallmarks-of-alzheimers-disease-and-dementia/)
+- [Apple Won a Battle to Lose the War](https://500ish.com/apple-won-a-battle-to-lose-the-war-3ce6c3701918)
 - [Has AI found a new foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/)
-- [Epiousios](https://en.wikipedia.org/wiki/Epiousios)
 <!-- BLOG-POST-LIST:END -->
 
 ---
