@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hrmpf rescue system, built on Void Linux](https://github.com/leahneukirchen/hrmpf)
+- [Parachute use to prevent death and major trauma: systematic review of RCTs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC300808/)
 - [Developer's Porn Stash Gets Banned from Steam](https://steamcommunity.com/groups/Sentinels_of_the_Store/announcements/detail/2990942216950569314)
 - [Has AI found a new foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/)
 - [Epiousios](https://en.wikipedia.org/wiki/Epiousios)
-- [HashiCorp Terraform and Community Contributions](https://www.hashicorp.com/blog/terraform-community-contributions)
-- [Eleven proofs of the Gaussian integral [pdf]](https://kconrad.math.uconn.edu/blurbs/analysis/gaussianintegral.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
