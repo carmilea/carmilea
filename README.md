@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber Loses Battle over Drivers’ Rights in the Netherlands](https://www.bloomberg.com/news/articles/2021-09-13/uber-loses-battle-over-drivers-rights-in-the-netherlands)
 - [Fortran Web Framework](https://fortran.io/)
-- [What do Germans fear the most?](https://www.dw.com/en/what-do-germans-fear-the-most/a-59129913)
 - [Record number of environmental activists murdered](https://www.bbc.co.uk/news/science-environment-58508001)
 - [Lock-free, allocation-free, efficient thread pool](https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291)
 - [Minimal APIs at a glance in .NET 6](https://www.hanselman.com/blog/minimal-apis-at-a-glance-in-net-6)
