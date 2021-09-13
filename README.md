@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Video2WebP – convert videos to animated WebP in the browser](https://video2webp.mattj.io)
+- [X Windows on a Floppy](http://pupngo.dk/xwinflpy/xwoaf_rebuild.html)
+- [How to Crawl the Web with Scrapy](https://www.babbling.fish/scraping-for-a-job/)
+- [Hate Sleeps](https://howhatesleeps.com/)
 - [Barnyard breakthrough: Researchers successfully potty train cows](https://www.science.org/content/article/barnyard-breakthrough-researchers-successfully-potty-train-cows)
-- [Census Bureau’s Survey Shows Significant Increase in Homeschooling Rates](https://www.census.gov/library/stories/2021/03/homeschooling-on-the-rise-during-covid-19-pandemic.html)
-- [Show HN: TweeView – A Tree Visualisation of Twitter Conversations](https://tweeview.ml/)
-- [RaveDJ – AI Music Mashup Maker](https://rave.dj/)
-- [RIP Jekyll (The Genesis of the Jamstack)](https://www.bridgetownrb.com/future/rip-jekyll/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
