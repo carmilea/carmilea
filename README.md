@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost (YC S13) is profitable and hiring](https://www.easypost.com/careers)
+- [Intuit to Acquire Mailchimp for $12b](https://www.investors.intuit.com/news/news-details/2021/Intuit-to-Acquire-Mailchimp/default.aspx)
 - [NSO Group iMessage Zero-Click Exploit Captured in the Wild](https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/)
 - [Kite: An interactive visualization tool for graph theory](https://erkal.github.io/kite/)
-- [Tesla opens a center on Native American land, selling cars straight to consumers](https://www.businessinsider.com/tesla-new-mexico-nambe-pueblo-tribal-land-direct-sales-ban-2021-9)
-- [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List)
-- [YouTube takes down the Ig Nobel show because of a 1914 recording](https://www.improbable.com/2021/09/13/youtube-the-ig-nobel-prizes-and-the-year-1914/)
+- [Apple Issues Emergency Security Updates to Close a Spyware Flaw](https://www.nytimes.com/2021/09/13/technology/apple-software-update-spyware-nso-group.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
