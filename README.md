@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Do you still miss your RIM BlackBerry?](https://news.ycombinator.com/item?id=28517447)
+- [Adam Curtis’ “Bitter Lake”: A Review](https://im1776.com/2021/09/10/graveyard-empire/)
 - [EasyPost (YC S13) is profitable and hiring](https://www.easypost.com/careers)
+- [Engineers grow pancreatic organoids that mimic the real thing](https://news.mit.edu/2021/pancreatic-organoids-cancer-0913)
 - [Intuit to Acquire Mailchimp for $12b](https://www.investors.intuit.com/news/news-details/2021/Intuit-to-Acquire-Mailchimp/default.aspx)
-- [NSO Group iMessage Zero-Click Exploit Captured in the Wild](https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/)
-- [Kite: An interactive visualization tool for graph theory](https://erkal.github.io/kite/)
-- [Apple Issues Emergency Security Updates to Close a Spyware Flaw](https://www.nytimes.com/2021/09/13/technology/apple-software-update-spyware-nso-group.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
