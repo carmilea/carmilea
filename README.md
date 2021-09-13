@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Has AI found a new foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/)
 - [Epiousios](https://en.wikipedia.org/wiki/Epiousios)
-- [A new book looks behind Xi Jinping’s anti-corruption campaign](https://www.economist.com/china/2021/09/11/a-new-book-looks-behind-xi-jinpings-anti-corruption-campaign)
 - [HashiCorp Terraform and Community Contributions](https://www.hashicorp.com/blog/terraform-community-contributions)
 - [Eleven proofs of the Gaussian integral [pdf]](https://kconrad.math.uconn.edu/blurbs/analysis/gaussianintegral.pdf)
+- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
