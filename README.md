@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Video2WebP – convert videos to animated WebP in the browser](https://video2webp.mattj.io)
-- [X Windows on a Floppy](http://pupngo.dk/xwinflpy/xwoaf_rebuild.html)
-- [How to Crawl the Web with Scrapy](https://www.babbling.fish/scraping-for-a-job/)
-- [Hate Sleeps](https://howhatesleeps.com/)
-- [Barnyard breakthrough: Researchers successfully potty train cows](https://www.science.org/content/article/barnyard-breakthrough-researchers-successfully-potty-train-cows)
+- [NSO Group iMessage Zero-Click Exploit Captured in the Wild](https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/)
+- [Kite: An interactive visualization tool for graph theory](https://erkal.github.io/kite/)
+- [Tesla opens a center on Native American land, selling cars straight to consumers](https://www.businessinsider.com/tesla-new-mexico-nambe-pueblo-tribal-land-direct-sales-ban-2021-9)
+- [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List)
+- [YouTube takes down the Ig Nobel show because of a 1914 recording](https://www.improbable.com/2021/09/13/youtube-the-ig-nobel-prizes-and-the-year-1914/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
