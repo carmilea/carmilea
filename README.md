@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fortran Web Framework](https://fortran.io/)
+- [What do Germans fear the most?](https://www.dw.com/en/what-do-germans-fear-the-most/a-59129913)
 - [Record number of environmental activists murdered](https://www.bbc.co.uk/news/science-environment-58508001)
-- [Hrmpf rescue system, built on Void Linux](https://github.com/leahneukirchen/hrmpf)
-- [Hyperbaric oxygen therapy reverses hallmarks of Alzheimer’s disease and dementia](https://www.technology.org/2021/09/10/hyperbaric-oxygen-therapy-reverses-hallmarks-of-alzheimers-disease-and-dementia/)
-- [Apple Won a Battle to Lose the War](https://500ish.com/apple-won-a-battle-to-lose-the-war-3ce6c3701918)
-- [Has AI found a new foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/)
+- [Lock-free, allocation-free, efficient thread pool](https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291)
+- [Minimal APIs at a glance in .NET 6](https://www.hanselman.com/blog/minimal-apis-at-a-glance-in-net-6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
