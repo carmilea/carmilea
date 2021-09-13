@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesorio (YC S15) is hiring – join our fully distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [Intel issues end-of-life notice for RealSense Lidar](https://www.therobotreport.com/intel-issues-end-of-life-notice-realsense-lidar/)
-- [I refuse to let Amazon define Rust](https://twitter.com/steveklabnik/status/1437441118745071617)
-- [Disclosing E2EE vulnerability in multiple Matrix clients](https://matrix.org/blog/2021/09/13/vulnerability-disclosure-key-sharing)
-- [Welcome to Speed Week and a Waitless Internet](https://blog.cloudflare.com/fastest-internet/)
+- [Barnyard breakthrough: Researchers successfully potty train cows](https://www.science.org/content/article/barnyard-breakthrough-researchers-successfully-potty-train-cows)
+- [Census Bureau’s Survey Shows Significant Increase in Homeschooling Rates](https://www.census.gov/library/stories/2021/03/homeschooling-on-the-rise-during-covid-19-pandemic.html)
+- [Show HN: TweeView – A Tree Visualisation of Twitter Conversations](https://tweeview.ml/)
+- [RaveDJ – AI Music Mashup Maker](https://rave.dj/)
+- [RIP Jekyll (The Genesis of the Jamstack)](https://www.bridgetownrb.com/future/rip-jekyll/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
