@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel issues end-of-life notice for RealSense Lidar](https://www.therobotreport.com/intel-issues-end-of-life-notice-realsense-lidar/)
+- [I refuse to let Amazon define Rust](https://twitter.com/steveklabnik/status/1437441118745071617)
+- [Disclosing E2EE vulnerability in multiple Matrix clients](https://matrix.org/blog/2021/09/13/vulnerability-disclosure-key-sharing)
+- [Welcome to Speed Week and a Waitless Internet](https://blog.cloudflare.com/fastest-internet/)
 - [Trademark Actions Against the PostgreSQL Community](https://www.postgresql.org/about/news/trademark-actions-against-the-postgresql-community-2302/)
-- [Use your own WiFi connection test server in Windows](https://www.nu42.com/2021/09/use-your-own-wifi-connection-test.html)
-- [Facebook Says Its Rules Apply to All. Documents Reveal an Elite That’s Exempt](https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353)
-- [My Life After Quitting Social Media](https://durmonski.com/life-advice/life-after-quitting-social-media/)
-- [Length-Limited Prefix Codes](https://create.stephan-brumme.com/length-limited-prefix-codes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
