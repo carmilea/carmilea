@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tianwen-1 attitude in Mars orbit](https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/)
+- [Epik Registrar Hacked](https://ddosecrets.com/wiki/Epik)
+- [Climate change risk assessment 2021 [pdf]](https://www.chathamhouse.org/sites/default/files/2021-09/2021-09-14-climate-change-risk-assessment-quiggin-et-al.pdf)
 - [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
 - [What Is the Data Lakehouse Pattern?](https://timeflow.systems/what-is-the-data-lakehouse-pattern/)
-- [Ex-NSA cyberspies reveal how they helped hack foes of UAE](https://www.reuters.com/investigates/special-report/usa-spying-raven/)
-- [Spectrum OS: a declarative, reproducible, compartmentalized Linux](https://spectrum-os.org/)
-- [Sprout: P2P Routing with Social Networks (2004) [pdf]](http://ilpubs.stanford.edu:8090/763/1/2004-10.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
