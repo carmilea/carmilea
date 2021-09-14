@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stripe Banned Us for Payment Disputes but We Never Had a Single Dispute](https://justuseapp.com/page/stripe-ban)
+- [Gordian Software (YC W19) Is Hiring Software Engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
+- [Stripe banned us for payment disputes but we never had a single dispute](https://justuseapp.com/page/stripe-ban)
+- [Common cold combats Covid-19](https://news.yale.edu/2021/06/15/common-cold-combats-covid-19)
 - [Australian Govt to revoke citizenship based on “confidential information”](https://www.sbs.com.au/news/legal-experts-have-criticised-the-government-s-proposed-amendments-to-visa-and-citizenship-laws/0287a0ce-229d-44f6-b3bb-4e86bcc46d5f)
 - [Intel Is Reducing Server Chip Pricing in Attempt to Stem the AMD Tide](https://www.tomshardware.com/news/intel-reduces-server-pricing-to-fight-amd)
-- [MIT: Measuring media bias in major news outlets with machine learning](https://www.unite.ai/mit-measuring-media-bias-in-major-news-outlets-with-machine-learning/)
-- [Job vacancies surge past one million in new record](https://www.bbc.co.uk/news/business-58543554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
