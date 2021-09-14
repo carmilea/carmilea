@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How percentile approximation works (and why it's more useful than averages)](https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/)
-- [Efficient service isolation on Alpine with VRFs](https://ariadne.space/2021/09/13/efficient-service-isolation-on-alpine-with-vrfs/)
-- [Donations make up a quarter of my income](https://method.ac/writing/work_journal/donations.html)
-- [Rainbow Six Vegas, SWAT 4 unplayable due to disabled ad server](https://twitter.com/_eezstreet_/status/1437652748179234819)
-- [Java 17 / JDK 17: General Availability](https://mail.openjdk.java.net/pipermail/jdk-dev/2021-September/006037.html)
+- [Reflect (YC S20) is hiring an engineer to automate web testing](https://bookface.ycombinator.com/company/22252/jobs/46431)
+- [Online coding school Treehouse lays off most of its staff](https://www.oregonlive.com/silicon-forest/2021/09/online-coding-school-treehouse-formerly-based-in-portland-lays-off-most-of-its-staff.html)
+- [Steven Pinker Thinks Your Sense of Imminent Doom Is Wrong](https://www.nytimes.com/interactive/2021/09/06/magazine/steven-pinker-interview.html)
+- [Simple Mathematical Law Predicts Movement in Cities Around the World](https://www.scientificamerican.com/article/simple-mathematical-law-predicts-movement-in-cities-around-the-world/)
+- [How percentile approximation works and why it's more useful than averages](https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
