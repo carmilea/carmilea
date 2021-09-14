@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook denies having '2 systems of justice' for users after WSJ report](https://www.foxbusiness.com/technology/facebook-denies-two-systems-of-justice-wall-street-journal)
+- [AI generated girl becomes influencer and lands 100 sponsorships](https://www.allkpop.com/article/2021/09/social-media-influencer-model-created-from-artificial-intelligence-lands-100-sponsorships)
+- [Faster Quantized Neural Network Inference with XNNPack](https://blog.tensorflow.org/2021/09/faster-quantized-inference-with-xnnpack.html)
 - [Why Monero](https://benkaiser.dev/why-monero/)
 - [Ask HN: Do you still miss your RIM BlackBerry?](https://news.ycombinator.com/item?id=28517447)
 - [Firefox Browser: best for a free web](https://www.mozilla.org/en-GB/firefox/new/)
-- [Adam Curtis’ “Bitter Lake”: A Review](https://im1776.com/2021/09/10/graveyard-empire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
