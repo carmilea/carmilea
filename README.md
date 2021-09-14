@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [China’s dodgy-debt double act](https://www.economist.com/leaders/2021/09/04/chinas-dodgy-debt-double-act)
+- [Things Fall Apart](https://magazine.atavist.com/things-fall-apart-makoko-floating-school/)
+- [(L)Awful Interception](https://mullvad.net/en/blog/2021/4/22/lawful-interception/)
 - [A Look at Barbara Kruger and Jenny Holzer’s Use of Typography](https://catnormoyle.com/2011/02/02/a-look-at-barbara-kruger-and-jenny-holzers-use-of-typographic-art/)
-- [Q1K3 - An homage to Quake in 13kb of JavaScript](https://js13kgames.com/entries/q1k3)
-- [AI generated girl becomes influencer and lands 100 sponsorships](https://www.allkpop.com/article/2021/09/social-media-influencer-model-created-from-artificial-intelligence-lands-100-sponsorships)
-- [Faster Quantized Neural Network Inference with XNNPack](https://blog.tensorflow.org/2021/09/faster-quantized-inference-with-xnnpack.html)
-- [Why Monero](https://benkaiser.dev/why-monero/)
+- [FreshTomato](https://freshtomato.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
