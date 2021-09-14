@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi Unveils Xiaomi Smart Glasses](https://blog.mi.com/en/2021/09/14/xiaomi-unveils-xiaomi-smart-glasses/)
 - [China’s dodgy-debt double act](https://www.economist.com/leaders/2021/09/04/chinas-dodgy-debt-double-act)
 - [Things Fall Apart](https://magazine.atavist.com/things-fall-apart-makoko-floating-school/)
 - [(L)Awful Interception](https://mullvad.net/en/blog/2021/4/22/lawful-interception/)
 - [A Look at Barbara Kruger and Jenny Holzer’s Use of Typography](https://catnormoyle.com/2011/02/02/a-look-at-barbara-kruger-and-jenny-holzers-use-of-typographic-art/)
-- [FreshTomato](https://freshtomato.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
