@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Norm Macdonald Dead: ‘Saturday Night Live’ Alum and Veteran Comic Was 61](https://deadline.com/2021/09/norm-macdonald-dead-obituary-comedian-saturday-night-live-weekend-update-anchor-was-61-1234833212/)
-- [Apple Watch Series 7](https://www.apple.com/apple-watch-series-7/)
-- [Show HN: HackerPen a better tool for tech interview](https://hackerpen.io)
-- [Reflect (YC S20) is hiring an engineer to automate web testing](https://bookface.ycombinator.com/company/22252/jobs/46431)
-- [Online coding school Treehouse lays off most of its staff](https://www.oregonlive.com/silicon-forest/2021/09/online-coding-school-treehouse-formerly-based-in-portland-lays-off-most-of-its-staff.html)
+- [Five Minute Journal – Daily Journal Techniques and Tips](https://briansunter.com/blog/five-minute-journal/)
+- [Minimum wage would be $26 an hour if it had grown in line with productivity](https://www.cbsnews.com/news/minimum-wage-26-dollars-economy-productivity/)
+- [Norm Macdonald Dead: Comedian and 'SNL' Star Was 61](https://variety.com/2021/tv/news/norm-macdonald-dead-dies-snl-1235064570/)
+- [Sinus flush after positive Covid test reduced risks 19 times](https://www.medrxiv.org/content/10.1101/2021.08.16.21262044v1)
+- [Bespoke Synth 1.0 – open-source software modular synthesizer](http://www.bespokesynth.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
