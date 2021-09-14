@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Go’ing Insane: Endless Error Handling](https://jesseduffield.com/Gos-Shortcomings-1/)
+- [Vaccine experts: Covid-19 booster shots aren't needed now](https://www.axios.com/covid-19-vaccine-booster-not-needed-experts-fda-lancet-44bc8a25-c640-4268-8841-e652e285d8fe.html)
 - [Coal replaces wind as most important energy source in Germany in H1](https://renewablesnow.com/news/coal-replaces-wind-as-most-important-energy-source-in-germany-in-h1-753756/)
-- [Xiaomi Unveils Xiaomi Smart Glasses](https://blog.mi.com/en/2021/09/14/xiaomi-unveils-xiaomi-smart-glasses/)
-- [China’s dodgy-debt double act](https://www.economist.com/leaders/2021/09/04/chinas-dodgy-debt-double-act)
 - [Things Fall Apart](https://magazine.atavist.com/things-fall-apart-makoko-floating-school/)
 - [(L)Awful Interception](https://mullvad.net/en/blog/2021/4/22/lawful-interception/)
 <!-- BLOG-POST-LIST:END -->
