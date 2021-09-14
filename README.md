@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Facebook denies having '2 systems of justice' for users after WSJ report](https://www.foxbusiness.com/technology/facebook-denies-two-systems-of-justice-wall-street-journal)
+- [Why Monero](https://benkaiser.dev/why-monero/)
+- [Ask HN: Do you still miss your RIM BlackBerry?](https://news.ycombinator.com/item?id=28517447)
 - [Firefox Browser: best for a free web](https://www.mozilla.org/en-GB/firefox/new/)
 - [Adam Curtis’ “Bitter Lake”: A Review](https://im1776.com/2021/09/10/graveyard-empire/)
-- [Smart kids should skip high school (2015)](https://www.sonyaellenmann.com/2015/09/why-skip-high-school.html)
-- [EasyPost (YC S13) is profitable and hiring](https://www.easypost.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
