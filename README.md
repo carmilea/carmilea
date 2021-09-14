@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gordian Software (YC W19) Is Hiring Software Engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
-- [Stripe banned us for payment disputes but we never had a single dispute](https://justuseapp.com/page/stripe-ban)
-- [Common cold combats Covid-19](https://news.yale.edu/2021/06/15/common-cold-combats-covid-19)
-- [Australian Govt to revoke citizenship based on “confidential information”](https://www.sbs.com.au/news/legal-experts-have-criticised-the-government-s-proposed-amendments-to-visa-and-citizenship-laws/0287a0ce-229d-44f6-b3bb-4e86bcc46d5f)
-- [Intel Is Reducing Server Chip Pricing in Attempt to Stem the AMD Tide](https://www.tomshardware.com/news/intel-reduces-server-pricing-to-fight-amd)
+- [Steve Wozniak announces private space company to clean up space debris in orbit](https://www.independent.co.uk/life-style/gadgets-and-tech/apple-founder-wozniak-space-debris-company-b1919747.html)
+- [AI Recognises Race in Medical Images](https://explainthispaper.com/ai-recognises-race-in-medical-images/)
+- [China uses anti-fraud app to track access to overseas financial news sites](https://www.ft.com/content/84b6b889-ae03-47f7-9cd0-bd604b21d5de)
+- [14kb WASM game written in D](https://skoppe.github.io/spasm/examples/underrun/)
+- [Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739)
 <!-- BLOG-POST-LIST:END -->
 
 ---
