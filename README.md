@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Go’ing Insane: Endless Error Handling](https://jesseduffield.com/Gos-Shortcomings-1/)
-- [Vaccine experts: Covid-19 booster shots aren't needed now](https://www.axios.com/covid-19-vaccine-booster-not-needed-experts-fda-lancet-44bc8a25-c640-4268-8841-e652e285d8fe.html)
-- [Coal replaces wind as most important energy source in Germany in H1](https://renewablesnow.com/news/coal-replaces-wind-as-most-important-energy-source-in-germany-in-h1-753756/)
-- [Things Fall Apart](https://magazine.atavist.com/things-fall-apart-makoko-floating-school/)
-- [(L)Awful Interception](https://mullvad.net/en/blog/2021/4/22/lawful-interception/)
+- [Stripe Banned Us for Payment Disputes but We Never Had a Single Dispute](https://justuseapp.com/page/stripe-ban)
+- [Australian Govt to revoke citizenship based on “confidential information”](https://www.sbs.com.au/news/legal-experts-have-criticised-the-government-s-proposed-amendments-to-visa-and-citizenship-laws/0287a0ce-229d-44f6-b3bb-4e86bcc46d5f)
+- [Intel Is Reducing Server Chip Pricing in Attempt to Stem the AMD Tide](https://www.tomshardware.com/news/intel-reduces-server-pricing-to-fight-amd)
+- [MIT: Measuring media bias in major news outlets with machine learning](https://www.unite.ai/mit-measuring-media-bias-in-major-news-outlets-with-machine-learning/)
+- [Job vacancies surge past one million in new record](https://www.bbc.co.uk/news/business-58543554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
