@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Five Minute Journal – Daily Journal Techniques and Tips](https://briansunter.com/blog/five-minute-journal/)
-- [Minimum wage would be $26 an hour if it had grown in line with productivity](https://www.cbsnews.com/news/minimum-wage-26-dollars-economy-productivity/)
-- [Norm Macdonald Dead: Comedian and 'SNL' Star Was 61](https://variety.com/2021/tv/news/norm-macdonald-dead-dies-snl-1235064570/)
-- [Sinus flush after positive Covid test reduced risks 19 times](https://www.medrxiv.org/content/10.1101/2021.08.16.21262044v1)
-- [Bespoke Synth 1.0 – open-source software modular synthesizer](http://www.bespokesynth.com/)
+- [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
+- [What Is the Data Lakehouse Pattern?](https://timeflow.systems/what-is-the-data-lakehouse-pattern/)
+- [Ex-NSA cyberspies reveal how they helped hack foes of UAE](https://www.reuters.com/investigates/special-report/usa-spying-raven/)
+- [Spectrum OS: a declarative, reproducible, compartmentalized Linux](https://spectrum-os.org/)
+- [Sprout: P2P Routing with Social Networks (2004) [pdf]](http://ilpubs.stanford.edu:8090/763/1/2004-10.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
