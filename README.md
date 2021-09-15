@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pay Transparency Is Coming, and Employers Are Terrified](https://www.businessinsider.com/pay-transparency-salary-range-disclosure-laws-colorado-employers-terrified)
+- [Modern snakes evolved from few survivors of dino-killing asteroid](https://www.miragenews.com/modern-snakes-evolved-from-few-survivors-of-631873/)
 - [Username ending with MIME type format is not allowed](https://gitlab.com/gitlab-org/gitlab/-/issues/335278)
 - [OpenBSD's Pledge and Unveil from Python](https://nullprogram.com/blog/2021/09/15/)
-- [HSBC exits US mass market retail banking](https://www.about.us.hsbc.com/news-and-media/hsbc-exits-us-mass-market-retail-banking)
 - [Baraka (YC S21) Is Hiring](https://www.ycombinator.com/companies/baraka/jobs/8RulLko-ios-mobile-engineer)
-- [Three Former U.S. Intelligence Operatives Admit Hacking for United Arab Emirates](https://www.npr.org/2021/09/14/1037132503/us-charges-former-intelligence-operatives-hacking-for-uae)
 <!-- BLOG-POST-LIST:END -->
 
 ---
