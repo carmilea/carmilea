@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Are you sure you understand 'indemnity'](https://news.ycombinator.com/item?id=28538879)
-- [Why Are So Many Young Men Giving Up on College?](https://www.theatlantic.com/ideas/archive/2021/09/young-men-college-decline-gender-gap-higher-education/620066/)
-- [Show HN: Display a bell emoji on HN comments you haven't read yet](https://gist.github.com/linkdd/76fd57d02480c3e36a4e3f8ce39322b1)
-- [Futarchy: Robin Hanson on How Prediction Markets Can Take over the World](https://richardhanania.substack.com/p/futarchy-robin-hanson-on-how-prediction)
-- [QuestDB (time-series database) is hiring engineers and dev rel](https://questdb.io/careers/)
+- [Faroe Islands: Anger over killing of 1,400 dolphins in one day](https://www.bbc.com/news/world-europe-58555694)
+- [A dive into the world of MS-DOS viruses (2019)](https://blog.benjojo.co.uk/post/dive-into-the-world-of-dos-viruses)
+- [Show HN: Time Travel Debugger](https://www.replay.io/)
+- [Facebook tried to make its platform a healthier place, but it got angrier](https://www.wsj.com/articles/facebook-algorithm-change-zuckerberg-11631654215)
+- [Outdated Answers: accepted answer is now unpinned on Stack Overflow](https://meta.stackoverflow.com/questions/411352/outdated-answers-accepted-answer-is-now-unpinned-on-stack-overflow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
