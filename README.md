@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Prefer the British Style of Quotation Mark Punctuation over the American](https://www.erichgrunewald.com/posts/the-american-style-of-quotation-mark-punctuation-makes-no-sense/)
 - [Microsoft Azure silently install management agents with vulns on your Linux VMs](https://twitter.com/gossithedog/status/1437896101756030982)
 - [Dynamic Queries in Ecto (Elixir Lang)](https://bartoszgorka.com/dynamic-queries-in-ecto)
 - [Modern snakes evolved from few survivors of dino-killing asteroid](https://www.miragenews.com/modern-snakes-evolved-from-few-survivors-of-631873/)
 - [Username ending with MIME type format is not allowed](https://gitlab.com/gitlab-org/gitlab/-/issues/335278)
-- [OpenBSD's Pledge and Unveil from Python](https://nullprogram.com/blog/2021/09/15/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
