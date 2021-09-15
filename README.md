@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Scientists Say They Could Bring Back Woolly Mammoths. But Maybe They Shouldn't](https://www.npr.org/2021/09/14/1036884561/dna-resurrection-jurassic-park-woolly-mammoth)
 - [Baraka (YC S21) Is Hiring](https://www.ycombinator.com/companies/baraka/jobs/8RulLko-ios-mobile-engineer)
-- [Three Former U.S. Intelligence Operatives Admit Hacking for United Arab Emirates](https://www.npr.org/2021/09/14/1037132503/us-charges-former-intelligence-operatives-hacking-for-uae)
 - [Vex – open-source visual editor for XML](https://www.eclipse.org/vex/)
 - [Remembering When Only Barbarians Drank Milk (2018)](https://www.atlasobscura.com/articles/history-of-milk)
+- ["Secret" Agent Exposes Azure Customers to Unauthorized Code Execution](https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
