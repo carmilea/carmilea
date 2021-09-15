@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Not Signal?](https://dessalines.github.io/essays/why_not_signal.html)
+- [GM tells Bolt owners to park 50 feet away from other cars](https://www.autonews.com/manufacturing/gm-tells-some-bolt-owners-park-50-feet-away-other-cars)
+- [A Tour of the Oil Language](https://www.oilshell.org/release/latest/doc/oil-language-tour.html)
+- [Will Xi Move on Taiwan?](https://asia.nikkei.com/Spotlight/20-years-after-9-11/Will-Xi-move-on-Taiwan-History-warns-he-might-Niall-Ferguson)
+- [Home Assistant – open-source home automation](https://www.home-assistant.io/)
 - [Facebook under fire over secret teen research](https://www.bbc.co.uk/news/technology-58570353)
-- [Substack (YC W18) Is Hiring Engineering Managers to Build the Future of Writing](https://substack.com/jobs?utm_source=hn&utm_content=engmanager)
-- [Crypto Fund Manager/Scammer Sentenced to 7yrs](https://www.justice.gov/usao-sdny/pr/founder-90-million-cryptocurrency-hedge-fund-sentenced-more-seven-years-prison)
-- [Bitcoin consumes 2nd highest electricity per capita](https://twitter.com/chinmayshah899/status/1436077836155056134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
