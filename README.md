@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Michelin's Airless Tires Hit the Streets for the First Time](https://interestingengineering.com/michelin-airless-tires-hit-public-streets-for-first-time?_source=newsletter&_campaign=4yVo2pDYZvnrN&_uid=LDdwmgxga1&_h=ea90de89f1bceca46d02cad80716fb4006725c29&utm_source=newsletter&utm_medium=mailing&utm_campaign=Newsletter-14-09-2021)
+- [Seq: A programming language for high-performance computational genomics](https://github.com/seq-lang/seq)
 - [Prefer the British Style of Quotation Mark Punctuation over the American](https://www.erichgrunewald.com/posts/the-american-style-of-quotation-mark-punctuation-makes-no-sense/)
 - [Microsoft Azure silently install management agents with vulns on your Linux VMs](https://twitter.com/gossithedog/status/1437896101756030982)
 - [Dynamic Queries in Ecto (Elixir Lang)](https://bartoszgorka.com/dynamic-queries-in-ecto)
-- [Modern snakes evolved from few survivors of dino-killing asteroid](https://www.miragenews.com/modern-snakes-evolved-from-few-survivors-of-631873/)
-- [Username ending with MIME type format is not allowed](https://gitlab.com/gitlab-org/gitlab/-/issues/335278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
