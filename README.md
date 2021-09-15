@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deaths involving Covid-19 by vaccination status, England](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsinvolvingcovid19byvaccinationstatusengland/deathsoccurringbetween2januaryand2july2021)
-- [H3: Hexagonal hierarchical geospatial indexing system](https://h3geo.org/)
-- [How much faster is Java 17?](https://www.optaplanner.org/blog/2021/09/15/HowMuchFasterIsJava17.html)
-- [A dive into the world of MS-DOS viruses (2019)](https://blog.benjojo.co.uk/post/dive-into-the-world-of-dos-viruses)
-- [COBOL- still standing the test of time](https://blog.microfocus.com/cobol-still-standing-the-test-of-time/)
+- [Find engineering roles at over 800 YC-funded startups](https://ycombinator.com/jobs)
+- [The First Webcam Was Invented to Keep an Eye on a Coffee Pot](https://www.openculture.com/2021/09/the-very-first-webcam-was-invented-to-keep-an-eye-on-a-coffee-pot-at-cambridge-university.html)
+- [HTTP Status 418 – I'm a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
+- [Three ex-US intelligence officers admit hacking for UAE](https://www.justice.gov/opa/pr/three-former-us-intelligence-community-and-military-personnel-agree-pay-more-168-million)
+- [Automatic cipher suite ordering in Go’s crypto/tls](https://go.dev/blog/tls-cipher-suites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
