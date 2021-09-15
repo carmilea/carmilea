@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists Say They Could Bring Back Woolly Mammoths. But Maybe They Shouldn't](https://www.npr.org/2021/09/14/1036884561/dna-resurrection-jurassic-park-woolly-mammoth)
+- [HSBC exits US mass market retail banking](https://www.about.us.hsbc.com/news-and-media/hsbc-exits-us-mass-market-retail-banking)
 - [Baraka (YC S21) Is Hiring](https://www.ycombinator.com/companies/baraka/jobs/8RulLko-ios-mobile-engineer)
+- [Designing Beautiful Shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/)
 - [Vex – open-source visual editor for XML](https://www.eclipse.org/vex/)
 - [Remembering When Only Barbarians Drank Milk (2018)](https://www.atlasobscura.com/articles/history-of-milk)
-- ["Secret" Agent Exposes Azure Customers to Unauthorized Code Execution](https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
