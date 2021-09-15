@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Steve Jobs: Let's force Amazon to use our payment system (2010)](https://twitter.com/TechEmails/status/1438188756738191362/photo/1)
-- [Nikon's 2021 Photomicrography Competition Winners](https://www.nikonsmallworld.com/galleries/2021-photomicrography-competition)
-- [Find engineering roles at over 800 YC-funded startups](https://ycombinator.com/jobs)
-- [The First Webcam Was Invented to Keep an Eye on a Coffee Pot](https://www.openculture.com/2021/09/the-very-first-webcam-was-invented-to-keep-an-eye-on-a-coffee-pot-at-cambridge-university.html)
-- [Show HN: NFC Passport/ID for remote user registration](https://passportreader.app)
+- [Why Authorization Is Hard](https://www.osohq.com/post/why-authorization-is-hard)
+- [North Korean missiles land in Japan EEZ as nuclear threat grows](https://www.japantimes.co.jp/news/2021/09/15/asia-pacific/north-korea-fires-apparent-ballistic-missile-days-testing-new-weapon/)
+- [I ruin developers’ lives with my code reviews and I'm sorry](https://habr.com/en/post/440736/)
+- [Fauci-Email](https://github.com/nveldt/fauci-email)
+- [Show HN: Paper to HTML Converter](https://papertohtml.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
