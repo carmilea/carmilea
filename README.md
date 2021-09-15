@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anonymous Hacks Epik](https://4chan.partyvan.epikfail.win:55899/)
-- [Tianwen-1 attitude in Mars orbit](https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/)
-- [Climate change risk assessment 2021 [pdf]](https://www.chathamhouse.org/sites/default/files/2021-09/2021-09-14-climate-change-risk-assessment-quiggin-et-al.pdf)
-- [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
-- [What Is the Data Lakehouse Pattern?](https://timeflow.systems/what-is-the-data-lakehouse-pattern/)
+- [Baraka (YC S21) Is Hiring](https://www.ycombinator.com/companies/baraka/jobs/8RulLko-ios-mobile-engineer)
+- [Young People Are Anxious About Climate Change, Say Governments Are Failing Them](https://text.npr.org/1037023551)
+- ['Concerned Citizen'at Theranos CEO Elizabeth Holmes Trial Turns Out to Be Family](https://www.npr.org/2021/09/14/1036835868/elizabeth-holmes-trial-hotelier-bill-evans-goes-incognito)
+- [Remembering When Only Barbarians Drank Milk (2018)](https://www.atlasobscura.com/articles/history-of-milk)
+- ["Secret" Agent Exposes Azure Customers to Unauthorized Code Execution](https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
