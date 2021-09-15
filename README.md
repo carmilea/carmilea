@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pay Transparency Is Coming, and Employers Are Terrified](https://www.businessinsider.com/pay-transparency-salary-range-disclosure-laws-colorado-employers-terrified)
+- [Microsoft Azure silently install management agents with vulns on your Linux VMs](https://twitter.com/gossithedog/status/1437896101756030982)
+- [Dynamic Queries in Ecto (Elixir Lang)](https://bartoszgorka.com/dynamic-queries-in-ecto)
 - [Modern snakes evolved from few survivors of dino-killing asteroid](https://www.miragenews.com/modern-snakes-evolved-from-few-survivors-of-631873/)
 - [Username ending with MIME type format is not allowed](https://gitlab.com/gitlab-org/gitlab/-/issues/335278)
 - [OpenBSD's Pledge and Unveil from Python](https://nullprogram.com/blog/2021/09/15/)
-- [AWS federation comes to GitHub Actions](https://awsteele.com/blog/2021/09/15/aws-federation-comes-to-github-actions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
