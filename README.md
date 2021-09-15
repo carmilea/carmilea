@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Faroe Islands: Anger over killing of 1,400 dolphins in one day](https://www.bbc.com/news/world-europe-58555694)
+- [Deaths involving Covid-19 by vaccination status, England](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsinvolvingcovid19byvaccinationstatusengland/deathsoccurringbetween2januaryand2july2021)
+- [H3: Hexagonal hierarchical geospatial indexing system](https://h3geo.org/)
+- [How much faster is Java 17?](https://www.optaplanner.org/blog/2021/09/15/HowMuchFasterIsJava17.html)
 - [A dive into the world of MS-DOS viruses (2019)](https://blog.benjojo.co.uk/post/dive-into-the-world-of-dos-viruses)
-- [Show HN: Time Travel Debugger](https://www.replay.io/)
-- [Facebook tried to make its platform a healthier place, but it got angrier](https://www.wsj.com/articles/facebook-algorithm-change-zuckerberg-11631654215)
-- [Outdated Answers: accepted answer is now unpinned on Stack Overflow](https://meta.stackoverflow.com/questions/411352/outdated-answers-accepted-answer-is-now-unpinned-on-stack-overflow)
+- [COBOL- still standing the test of time](https://blog.microfocus.com/cobol-still-standing-the-test-of-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
