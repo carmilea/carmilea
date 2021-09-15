@@ -55,7 +55,7 @@
 - [Modern snakes evolved from few survivors of dino-killing asteroid](https://www.miragenews.com/modern-snakes-evolved-from-few-survivors-of-631873/)
 - [Username ending with MIME type format is not allowed](https://gitlab.com/gitlab-org/gitlab/-/issues/335278)
 - [OpenBSD's Pledge and Unveil from Python](https://nullprogram.com/blog/2021/09/15/)
-- [Baraka (YC S21) Is Hiring](https://www.ycombinator.com/companies/baraka/jobs/8RulLko-ios-mobile-engineer)
+- [AWS federation comes to GitHub Actions](https://awsteele.com/blog/2021/09/15/aws-federation-comes-to-github-actions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
