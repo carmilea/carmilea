@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Authorization Is Hard](https://www.osohq.com/post/why-authorization-is-hard)
-- [North Korean missiles land in Japan EEZ as nuclear threat grows](https://www.japantimes.co.jp/news/2021/09/15/asia-pacific/north-korea-fires-apparent-ballistic-missile-days-testing-new-weapon/)
-- [I ruin developers’ lives with my code reviews and I'm sorry](https://habr.com/en/post/440736/)
-- [Fauci-Email](https://github.com/nveldt/fauci-email)
-- [Show HN: Paper to HTML Converter](https://papertohtml.org)
+- [Substack (YC W18) Is Hiring Engineering Managers to Build the Future of Writing](https://substack.com/jobs?utm_source=hn&utm_content=engmanager)
+- [The pleasure of writing Go](https://fakturo.io/blog/the-pleasure-writing-go/?hn)
+- [Bitcoin consumes 2nd highest electricity per capita](https://twitter.com/chinmayshah899/status/1436077836155056134)
+- [OpenSea product chief accused of flipping NFTs with insider information](https://www.theverge.com/2021/9/15/22676075/opensea-insider-information-nft-trading-nate-chastain)
+- [Linux Sucks 2021 – The End of Linux Is Nigh [video]](https://lunduke.locals.com/post/437549/linux-sucks-2021-the-end-of-linux-is-nigh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
