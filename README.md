@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Not Signal?](https://dessalines.github.io/essays/why_not_signal.html)
+- [Facebook under fire over secret teen research](https://www.bbc.co.uk/news/technology-58570353)
 - [Substack (YC W18) Is Hiring Engineering Managers to Build the Future of Writing](https://substack.com/jobs?utm_source=hn&utm_content=engmanager)
-- [The pleasure of writing Go](https://fakturo.io/blog/the-pleasure-writing-go/?hn)
+- [Crypto Fund Manager/Scammer Sentenced to 7yrs](https://www.justice.gov/usao-sdny/pr/founder-90-million-cryptocurrency-hedge-fund-sentenced-more-seven-years-prison)
 - [Bitcoin consumes 2nd highest electricity per capita](https://twitter.com/chinmayshah899/status/1436077836155056134)
-- [OpenSea product chief accused of flipping NFTs with insider information](https://www.theverge.com/2021/9/15/22676075/opensea-insider-information-nft-trading-nate-chastain)
-- [Linux Sucks 2021 – The End of Linux Is Nigh [video]](https://lunduke.locals.com/post/437549/linux-sucks-2021-the-end-of-linux-is-nigh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
