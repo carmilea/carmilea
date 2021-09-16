@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Justice Department Moves to Block the Purdue Pharma Sackler Bankruptcy Deal](https://www.npr.org/2021/09/16/1037806819/opioids-purdue-pharma-sackler-settlement-bankruptcy-deal)
-- [Home computing pioneer Sir Clive Sinclair dies aged 81](https://www.theguardian.com/technology/2021/sep/16/home-computing-pioneer-sir-clive-sinclair-dies-aged-81)
-- [The Perils of an .xyz Domain](https://www.spotvirtual.com/blog/the-perils-of-an-xyz-domain/)
-- [Ambition (YC W14) Is Hiring Head of Revenue Enablement](https://ambition.com/career/opportunity/head-revenue-enablement/)
-- [Toward Modern Fortran Tooling and a Thriving Developer Community](https://arxiv.org/abs/2109.07382)
+- [U.S. court upholds dismissal of lawsuit against NSA on 'state secrets' grounds](https://www.reuters.com/world/us/us-court-upholds-dismissal-suit-against-nsa-state-secrets-grounds-2021-09-16/)
+- [Shitlassian – story about how Atlassian fired me because my wife had cancer](https://shitlassian.com/)
+- [Windows 11: Just say no](https://www.computerworld.com/article/3633630/windows-11-just-say-no.html)
+- [Video streaming battery life improved from 12h (12 Pro Max) to 25h (13 Pro Max)](https://www.apple.com/iphone/compare/?modelList=iphone13promax,iphone13pro,iphone12promax)
+- [DOJ Seeks To Block Purdue Pharma Bankruptcy Deal](https://www.npr.org/2021/09/16/1037806819/opioids-purdue-pharma-sackler-settlement-bankruptcy-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
