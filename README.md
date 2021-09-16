@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GM tells Bolt owners to park 50 feet away from other cars](https://www.autonews.com/manufacturing/gm-tells-some-bolt-owners-park-50-feet-away-other-cars)
-- [A Tour of the Oil Language](https://www.oilshell.org/release/latest/doc/oil-language-tour.html)
-- [Will Xi Move on Taiwan?](https://asia.nikkei.com/Spotlight/20-years-after-9-11/Will-Xi-move-on-Taiwan-History-warns-he-might-Niall-Ferguson)
-- [Home Assistant – open-source home automation](https://www.home-assistant.io/)
-- [Facebook under fire over secret teen research](https://www.bbc.co.uk/news/technology-58570353)
+- [DeepSource (YC W20) Is Looking for a Talent Acquisition Lead (Bangalore)](https://careers.deepsource.io/o/lead-talent-acquisition)
+- [SpaceX Live Updates: The Inspiration4 Crew Embarks on a 3-Day Mission to Orbit](https://www.nytimes.com/live/2021/09/15/science/spacex-launch-inspiration4)
+- [Sheriff's Office Told Officer to Play Copyrighted Music to Shut Down Recordings](https://www.techdirt.com/articles/20210911/21360647545/officer-claims-sheriffs-office-told-him-to-play-copyrighted-music-to-shut-down-citizens-recordings.shtml)
+- [Weaponizing Middleboxes for TCP Reflected Amplification](https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/)
+- [Live: SpaceX to launch four civilians to orbit in mission known as Inspiration4](https://www.youtube.com/watch?v=bZVgBAurxsI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
