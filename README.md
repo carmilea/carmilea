@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lawmakers Ask Zuck to Drop 'Instagram for Kids' Since App Made Kids Suicidal](https://gizmodo.com/lawmakers-ask-zuckerberg-to-drop-instagram-for-kids-aft-1847683217)
+- [Every engineer should do a stint in consulting](https://cloudirregular.substack.com/p/every-engineer-should-do-a-stint)
+- [Backpage founders get mistrial because US overplayed child sex trafficking claim](https://arstechnica.com/tech-policy/2021/09/backpage-founders-get-mistrial-because-us-overplayed-child-sex-trafficking-claims/)
+- [Donate to the Internet Achieve](https://archive.org/donate)
 - [DeepSource (YC W20) Is Looking for a Talent Acquisition Lead (Bangalore)](https://careers.deepsource.io/o/lead-talent-acquisition)
-- [SpaceX Live Updates: The Inspiration4 Crew Embarks on a 3-Day Mission to Orbit](https://www.nytimes.com/live/2021/09/15/science/spacex-launch-inspiration4)
-- [Sheriff's Office Told Officer to Play Copyrighted Music to Shut Down Recordings](https://www.techdirt.com/articles/20210911/21360647545/officer-claims-sheriffs-office-told-him-to-play-copyrighted-music-to-shut-down-citizens-recordings.shtml)
-- [Weaponizing Middleboxes for TCP Reflected Amplification](https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/)
-- [Live: SpaceX to launch four civilians to orbit in mission known as Inspiration4](https://www.youtube.com/watch?v=bZVgBAurxsI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
