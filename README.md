@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Use of eBPF in CPU Scheduler](https://linuxplumbersconf.org/event/11/contributions/954/)
-- [iOS on QEMU](https://github.com/alephsecurity/xnu-qemu-arm64)
-- [Show HN: Qsh – improved database querying from your terminal](https://github.com/muhmud/qsh)
-- [A search engine that favors text-heavy sites and punishes modern web design](https://search.marginalia.nu/)
-- [ChowJS: An AOT JavaScript engine for game consoles](https://mp2.dk/techblog/chowjs)
+- [When Republicans control state legislatures, infant mortality is higher](https://www.elsevier.com/about/press-releases/research-and-journals/when-republicans-control-state-legislatures-infant-mortality-is-higher)
+- [Do adults need tetanus booster shots?](https://www.health.harvard.edu/blog/do-adults-really-need-tetanus-booster-shots-2020051219786)
+- [AP Computer Science Tips](https://www.albert.io/blog/ap-computer-science-tips/)
+- [Show HN: Embeddinghub: A vector database built for Machine Learning embeddings](https://github.com/featureform/embeddinghub)
+- [The ownership and future of Mullvad VPN](https://mullvad.net/en/blog/2021/9/16/ownership-and-future-mullvad-vpn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
