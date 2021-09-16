@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ledger of Harms](https://ledger.humanetech.com/)
 - [Opvia (YC S20) Is Hiring in London](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
 - [Ship code when it is ready and valuable (2020)](https://iism.org/article/is-management-pressuring-you-to-deliver-unfinished-code-59)
 - [New Eco-Friendly and Sustainable Algae-Based Way to Fight Water Pollution](https://shooliniuniversity.com/blog/green-and-clean-new-eco-friendly-and-sustainable-algae-based-way-to-fight-water-pollution/)
 - [Adopting the OpenAPI schema to generate Plaid’s SDKs](https://plaid.com/blog/adopting-the-openapi-schema-to-generate-plaids-sdks/)
-- [Where is the scrutiny over FDA’s role in the overdose epidemic?](https://www.inquirer.com/opinion/commentary/opioids-accountability-fda-janet-woodcock-20210914.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
