@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ambition (YC W14) Is Hiring Head of Revenue Enablement](https://ambition.com/career/opportunity/head-revenue-enablement/)
+- [The new warrant: how US police mine Google for your location and search history](https://www.theguardian.com/us-news/2021/sep/16/geofence-warrants-reverse-search-warrants-police-google)
+- [Developer, You May Need a Co-Founder in Marketing](https://microfounder.com/blog/cofounder-in-marketing)
 - [The Ultimate Commodore 1541 Disk Drive Talk [video]](https://www.pagetable.com/?p=1595)
 - [Facebook to target harmful coordination by real accounts](https://www.reuters.com/technology/exclusive-facebook-target-harmful-coordination-by-real-accounts-using-playbook-2021-09-16/)
-- [NIH-funded research to address rising male infertility](https://news.cornell.edu/stories/2021/09/nih-funded-research-address-rising-male-infertility)
-- [Biologists Rethink the Logic Behind Cells’ Molecular Signals](https://www.quantamagazine.org/biologists-rethink-the-logic-behind-cells-molecular-signals-20210916/)
-- [Kape Technologies buys ExpressVPN for $936M](https://alternativeto.net/news/2021/9/kape-technologies-buys-expressvpn-for-936-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
