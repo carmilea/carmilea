@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Justice Department Moves to Block the Purdue Pharma Sackler Bankruptcy Deal](https://www.npr.org/2021/09/16/1037806819/opioids-purdue-pharma-sackler-settlement-bankruptcy-deal)
+- [Home computing pioneer Sir Clive Sinclair dies aged 81](https://www.theguardian.com/technology/2021/sep/16/home-computing-pioneer-sir-clive-sinclair-dies-aged-81)
+- [The Perils of an .xyz Domain](https://www.spotvirtual.com/blog/the-perils-of-an-xyz-domain/)
 - [Ambition (YC W14) Is Hiring Head of Revenue Enablement](https://ambition.com/career/opportunity/head-revenue-enablement/)
-- [The new warrant: how US police mine Google for your location and search history](https://www.theguardian.com/us-news/2021/sep/16/geofence-warrants-reverse-search-warrants-police-google)
-- [Developer, You May Need a Co-Founder in Marketing](https://microfounder.com/blog/cofounder-in-marketing)
-- [The Ultimate Commodore 1541 Disk Drive Talk [video]](https://www.pagetable.com/?p=1595)
-- [Facebook to target harmful coordination by real accounts](https://www.reuters.com/technology/exclusive-facebook-target-harmful-coordination-by-real-accounts-using-playbook-2021-09-16/)
+- [Toward Modern Fortran Tooling and a Thriving Developer Community](https://arxiv.org/abs/2109.07382)
 <!-- BLOG-POST-LIST:END -->
 
 ---
