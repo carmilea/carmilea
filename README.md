@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS on QEMU](https://github.com/alephsecurity/xnu-qemu-arm64)
+- [Show HN: Qsh – improved database querying from your terminal](https://github.com/muhmud/qsh)
+- [A search engine that favors text-heavy sites and punishes modern web design](https://search.marginalia.nu/)
 - [ChowJS: An AOT JavaScript engine for game consoles](https://mp2.dk/techblog/chowjs)
 - [Algofi (YC S21) Is Hiring](https://www.workatastartup.com/jobs/46396)
-- [Genius Sells Assets for 80M](https://www.bloombergquint.com/markets/former-startup-darling-genius-sells-assets-for-80-million)
-- [Instagram Ruined Photography for Me](https://alvar.dev/blog/instagram-ruined-photography)
-- [Show HN: Dieter Rams' design principles applied to software engineering](https://github.com/zedr/dieter-rams-10-applied-to-software)
 <!-- BLOG-POST-LIST:END -->
 
 ---
