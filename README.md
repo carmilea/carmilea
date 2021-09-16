@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Use of eBPF in CPU Scheduler](https://linuxplumbersconf.org/event/11/contributions/954/)
 - [iOS on QEMU](https://github.com/alephsecurity/xnu-qemu-arm64)
 - [Show HN: Qsh – improved database querying from your terminal](https://github.com/muhmud/qsh)
 - [A search engine that favors text-heavy sites and punishes modern web design](https://search.marginalia.nu/)
 - [ChowJS: An AOT JavaScript engine for game consoles](https://mp2.dk/techblog/chowjs)
-- [Algofi (YC S21) Is Hiring](https://www.workatastartup.com/jobs/46396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
