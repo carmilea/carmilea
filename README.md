@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adopting the OpenAPI schema to generate Plaid’s SDKs](https://plaid.com/blog/adopting-the-openapi-schema-to-generate-plaids-sdks/)
 - [Where is the scrutiny over FDA’s role in the overdose epidemic?](https://www.inquirer.com/opinion/commentary/opioids-accountability-fda-janet-woodcock-20210914.html)
 - [Black Radicalism’s Complex Relationship with Japanese Empire (2018)](https://daily.jstor.org/black-radicalisms-complex-relationship-with-japanese-empire/)
 - [Losing Covid-19 antibody immunity after six months after Pfizer vaccine](https://thedaily.case.edu/new-study-nursing-home-residents-health-care-workers-lose-more-than-80-of-their-covid-19-immunity-six-months-after-pfizer-vaccine/)
 - [Is America Inc getting less dynamic, less global and more monopolistic?](https://www.economist.com/business/is-america-inc-getting-less-dynamic-less-global-and-more-monopolistic/21804757)
-- [Lumber crash leads to 'blowout' sales as prices crater](https://www.cbc.ca/news/business/lumber-prices-1.6177016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
