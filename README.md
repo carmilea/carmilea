@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using the FreeBSD Rack TCP Stack](https://klarasystems.com/articles/using-the-freebsd-rack-tcp-stack/)
+- [Amazon reaches agreement with trade unions in Italy](https://www.reuters.com/business/amazon-reaches-agreement-with-trade-unions-italy-2021-09-15/)
 - [Ledger of Harms](https://ledger.humanetech.com/)
 - [Opvia (YC S20) Is Hiring in London](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
 - [Ship code when it is ready and valuable (2020)](https://iism.org/article/is-management-pressuring-you-to-deliver-unfinished-code-59)
-- [New Eco-Friendly and Sustainable Algae-Based Way to Fight Water Pollution](https://shooliniuniversity.com/blog/green-and-clean-new-eco-friendly-and-sustainable-algae-based-way-to-fight-water-pollution/)
-- [Adopting the OpenAPI schema to generate Plaid’s SDKs](https://plaid.com/blog/adopting-the-openapi-schema-to-generate-plaids-sdks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
