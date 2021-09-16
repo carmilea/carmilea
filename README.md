@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tracking space debris is a growing business](https://www.economist.com/science-and-technology/tracking-space-debris-is-a-growing-business/21804756)
 - [U.S. court upholds dismissal of lawsuit against NSA on 'state secrets' grounds](https://www.reuters.com/world/us/us-court-upholds-dismissal-suit-against-nsa-state-secrets-grounds-2021-09-16/)
-- [Shitlassian – story about how Atlassian fired me because my wife had cancer](https://shitlassian.com/)
+- [Atlassian fired me while I was taking care of my wife who is fighting cancer](https://shitlassian.com/)
 - [Windows 11: Just say no](https://www.computerworld.com/article/3633630/windows-11-just-say-no.html)
 - [Video streaming battery life improved from 12h (12 Pro Max) to 25h (13 Pro Max)](https://www.apple.com/iphone/compare/?modelList=iphone13promax,iphone13pro,iphone12promax)
-- [DOJ Seeks To Block Purdue Pharma Bankruptcy Deal](https://www.npr.org/2021/09/16/1037806819/opioids-purdue-pharma-sackler-settlement-bankruptcy-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
