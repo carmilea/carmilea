@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- ['Dieselgate' trial opens in Germany without ex-VW boss](https://www.rfi.fr/en/business-and-tech/20210916-dieselgate-trial-opens-in-germany-without-ex-vw-boss)
-- [Provenance: iOS and tvOS multi-emulator front end](https://github.com/Provenance-Emu/Provenance)
-- [Using the FreeBSD Rack TCP Stack](https://klarasystems.com/articles/using-the-freebsd-rack-tcp-stack/)
-- [Amazon reaches agreement with trade unions in Italy](https://www.reuters.com/business/amazon-reaches-agreement-with-trade-unions-italy-2021-09-15/)
-- [Ledger of Harms](https://ledger.humanetech.com/)
+- [ChowJS: An AOT JavaScript engine for game consoles](https://mp2.dk/techblog/chowjs)
+- [Algofi (YC S21) Is Hiring](https://www.workatastartup.com/jobs/46396)
+- [Genius Sells Assets for 80M](https://www.bloombergquint.com/markets/former-startup-darling-genius-sells-assets-for-80-million)
+- [Instagram Ruined Photography for Me](https://alvar.dev/blog/instagram-ruined-photography)
+- [Show HN: Dieter Rams' design principles applied to software engineering](https://github.com/zedr/dieter-rams-10-applied-to-software)
 <!-- BLOG-POST-LIST:END -->
 
 ---
