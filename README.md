@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When Republicans control state legislatures, infant mortality is higher](https://www.elsevier.com/about/press-releases/research-and-journals/when-republicans-control-state-legislatures-infant-mortality-is-higher)
-- [Do adults need tetanus booster shots?](https://www.health.harvard.edu/blog/do-adults-really-need-tetanus-booster-shots-2020051219786)
-- [AP Computer Science Tips](https://www.albert.io/blog/ap-computer-science-tips/)
-- [Show HN: Embeddinghub: A vector database built for Machine Learning embeddings](https://github.com/featureform/embeddinghub)
-- [The ownership and future of Mullvad VPN](https://mullvad.net/en/blog/2021/9/16/ownership-and-future-mullvad-vpn/)
+- [The Ultimate Commodore 1541 Disk Drive Talk [video]](https://www.pagetable.com/?p=1595)
+- [Facebook to target harmful coordination by real accounts](https://www.reuters.com/technology/exclusive-facebook-target-harmful-coordination-by-real-accounts-using-playbook-2021-09-16/)
+- [NIH-funded research to address rising male infertility](https://news.cornell.edu/stories/2021/09/nih-funded-research-address-rising-male-infertility)
+- [Biologists Rethink the Logic Behind Cells’ Molecular Signals](https://www.quantamagazine.org/biologists-rethink-the-logic-behind-cells-molecular-signals-20210916/)
+- [Kape Technologies buys ExpressVPN for $936M](https://alternativeto.net/news/2021/9/kape-technologies-buys-expressvpn-for-936-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
