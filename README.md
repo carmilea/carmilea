@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- ['Dieselgate' trial opens in Germany without ex-VW boss](https://www.rfi.fr/en/business-and-tech/20210916-dieselgate-trial-opens-in-germany-without-ex-vw-boss)
+- [Provenance: iOS and tvOS multi-emulator front end](https://github.com/Provenance-Emu/Provenance)
 - [Using the FreeBSD Rack TCP Stack](https://klarasystems.com/articles/using-the-freebsd-rack-tcp-stack/)
 - [Amazon reaches agreement with trade unions in Italy](https://www.reuters.com/business/amazon-reaches-agreement-with-trade-unions-italy-2021-09-15/)
 - [Ledger of Harms](https://ledger.humanetech.com/)
-- [Opvia (YC S20) Is Hiring in London](https://www.notion.so/opvia/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc)
-- [Ship code when it is ready and valuable (2020)](https://iism.org/article/is-management-pressuring-you-to-deliver-unfinished-code-59)
 <!-- BLOG-POST-LIST:END -->
 
 ---
