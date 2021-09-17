@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Life-Size Camel Sculptures in Saudi Arabia Are Older Than Stonehenge, Pyramids](https://www.smithsonianmag.com/smart-news/life-size-camel-sculptures-in-saudi-arabia-are-older-than-stonehenge-pyramids-of-giza-180978693/)
+- [Researchers bake malware protection directly into SSDs](https://www.tomshardware.com/news/researchers-bake-malware-protection-directly-into-ssds)
+- [Cloudflare Images Now Available to Everyone](https://blog.cloudflare.com/announcing-cloudflare-images/)
+- [Shenandoah in OpenJDK 17: Sub-millisecond GC pauses](https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-millisecond-gc-pauses)
 - [Experimenting with a new OpenBSD development lab](https://dataswamp.org/~solene/2021-09-16-experiments-openbsd-building.html)
-- [A Single Fire Killed at Least 10% of the World's Giant Sequoias, Study Says](https://text.npr.org/1002894521)
-- [18/19 September 2021 – Online EuroBSDCon Schedule](https://2021.eurobsdcon.org/about/program/)
-- [Playable Quotes for Game Boy](https://tenmile.quote.games/)
-- [Google, Apple remove Navalny app from stores as Russian elections begin](https://www.reuters.com/world/europe/google-apple-remove-navalny-app-stores-russian-elections-begin-2021-09-17/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
