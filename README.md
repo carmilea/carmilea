@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Newsom Signs SB 9 and SB 10, ending single family zoning in California](https://www.gov.ca.gov/2021/09/16/governor-newsom-signs-historic-legislation-to-boost-californias-housing-supply-and-fight-the-housing-crisis/)
+- [AMD ready to flex its ARMs](https://amd-now.com/amd-ready-to-flex-its-arms/)
 - [Reversing Sinclair's 1974 calculator hack (2013)](http://files.righto.com/calculator/sinclair_scientific_simulator.html)
-- [Facebook bans German anti-lockdown accounts under new ‘social harm’ policy](https://www.marketwatch.com/story/facebook-bans-german-anti-lockdown-accounts-under-new-social-harm-policy-01631832325)
+- [How to build a search engine with Ruby on Rails](https://blog.testdouble.com/posts/2021-09-09-how-to-build-a-search-engine-with-ruby-on-rails/)
 - [Ask HN: Advice on bringing community broadband to Los Alamos?](https://news.ycombinator.com/item?id=28558854)
 - [Smarking (YC W15) Is Hiring a Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 <!-- BLOG-POST-LIST:END -->
