@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AMA: I make $100K+ ARR from my microstartups](https://news.ycombinator.com/item?id=28561132)
+- [Walkman Archive](http://walkman-archive.com/gadgets/index.html)
+- [“The infringer is my alt account”](https://github.com/github/dmca/blob/master/2021/09/2021-09-02-zmessenger.md)
+- [China prepares to test thorium-fuelled nuclear reactor](https://www.nature.com/articles/d41586-021-02459-w)
 - [Moderna's Financials](https://littlebitofeverything.substack.com/p/moderna-financials)
-- [Monotype acquires Hoefler&Co](https://www.typography.com/blog/monotype-acquires-hoeflerco)
-- [Reversing Sinclair's 1974 calculator hack (2013)](http://files.righto.com/calculator/sinclair_scientific_simulator.html)
-- [How to build a search engine with Ruby on Rails](https://blog.testdouble.com/posts/2021-09-09-how-to-build-a-search-engine-with-ruby-on-rails/)
-- [Ask HN: Advice on bringing community broadband to Los Alamos?](https://news.ycombinator.com/item?id=28558854)
 <!-- BLOG-POST-LIST:END -->
 
 ---
