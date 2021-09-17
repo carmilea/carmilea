@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How ‘Trainable’ Is VO2 Max Really? – A Case Study](https://simplifaster.com/articles/how-trainable-is-vo2-max/)
+- [FDA panel rejects plan to administer Pfizer’s booster doses to general public](https://www.cnbc.com/2021/09/17/fda-panel-begins-voting-on-pfizers-covid-booster-doses-rejecting-shots-for-general-public.html)
+- [Foreman 3.0](https://theforeman.org/2021/09/foreman-30-is-here.html)
+- [How ‘Trainable’ Is VO2 Max Really? – A Case Study (2019)](https://simplifaster.com/articles/how-trainable-is-vo2-max/)
 - [Gitlab S-1](https://www.sec.gov/Archives/edgar/data/1653482/000162828021018818/gitlab-sx1.htm)
 - [Transforming OpenStreetMap into thick roads and intersections](https://a-b-street.github.io/docs/tech/map/geometry/index.html)
-- [Inspectify (YC S20) Is Hiring a Product Manager in Seattle](https://www.ycombinator.com/companies/inspectify/jobs/NDcfaSX-product-manager)
-- [Seed – A Rust front-end framework for creating fast and reliable web apps](https://github.com/seed-rs/seed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
