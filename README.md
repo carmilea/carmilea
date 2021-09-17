@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AMA: I make $100K+ ARR from my microstartups](https://news.ycombinator.com/item?id=28561132)
+- [Mailchimp founders promised to never sell, withheld equity, then sold for $12B](https://www.businessinsider.com/mailchimp-insiders-react-to-employees-getting-no-equity-2021-9)
 - [Walkman Archive](http://walkman-archive.com/gadgets/index.html)
-- [“The infringer is my alt account”](https://github.com/github/dmca/blob/master/2021/09/2021-09-02-zmessenger.md)
 - [China prepares to test thorium-fuelled nuclear reactor](https://www.nature.com/articles/d41586-021-02459-w)
 - [Moderna's Financials](https://littlebitofeverything.substack.com/p/moderna-financials)
 <!-- BLOG-POST-LIST:END -->
