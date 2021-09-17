@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Building apps in minutes, not months](https://alexanderobenauer.com/labnotes/001/)
+- [Chery QQ Ice Cream EV car goes on sale in China for USD$4600 can carry 4 persons](https://gadgettendency.com/a-modern-electric-car-for-4600-chery-qq-ice-cream-goes-on-sale-in-china/)
+- [Video of Tesla FSD almost hitting pedestrian receives DMCA takedown](https://twitter.com/russ1mitchell/status/1438609715026530326)
 - [United States Broadband speed ranks 12th according to SpeedTest Global Index](https://www.speedtest.net/global-index)
-- [Surveillance capitalism will transform the domain name system](https://www.zdnet.com/article/how-surveillance-capitalism-will-totally-transform-the-domain-name-system/)
-- [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
-- [A $795M analogy: Locast, broadcast copyright, and the fall of big antenna](https://ravik.substack.com/p/a-795m-analogy)
-- [My FOSS Story (2020)](https://blog.burntsushi.net/foss/)
+- [Run code samples directly in the Google Cloud documentation](https://cloud.google.com/blog/topics/developers-practitioners/run-code-samples-directly-google-cloud-documentation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
