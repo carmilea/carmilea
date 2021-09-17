@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Life-Size Camel Sculptures in Saudi Arabia Are Older Than Stonehenge, Pyramids](https://www.smithsonianmag.com/smart-news/life-size-camel-sculptures-in-saudi-arabia-are-older-than-stonehenge-pyramids-of-giza-180978693/)
-- [Cloudflare Images Now Available to Everyone](https://blog.cloudflare.com/announcing-cloudflare-images/)
-- [Hobbling computer vision datasets against unauthorized use](https://www.unite.ai/hobbling-computer-vision-datasets-against-unauthorized-use/)
-- [Shenandoah in OpenJDK 17: Sub-millisecond GC pauses](https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-millisecond-gc-pauses)
-- [Experimenting with a new OpenBSD development lab](https://dataswamp.org/~solene/2021-09-16-experiments-openbsd-building.html)
+- [I Failed to Transform the Enterprise](https://anonyfox.com/blog/i-failed-to-transform-the-enterprise/)
+- [Lowkey (YC S18) Is Hiring a Senior Full-Stack Engineer](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
+- [Taking part in Y Combinator from Europe: is it worth it?](https://sifted.eu/articles/yc-combinator-alum-tips/)
+- [Today's front page news, curated](https://files.rayogram.com/news/)
+- [Black Lotus Labs uncovers Linux executables deployed as stealth Windows loaders](https://blog.lumen.com/no-longer-just-theory-black-lotus-labs-uncovers-linux-executables-deployed-as-stealth-windows-loaders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
