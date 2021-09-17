@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD ready to flex its ARMs](https://amd-now.com/amd-ready-to-flex-its-arms/)
+- [Moderna's Financials](https://littlebitofeverything.substack.com/p/moderna-financials)
+- [Monotype acquires Hoefler&Co](https://www.typography.com/blog/monotype-acquires-hoeflerco)
 - [Reversing Sinclair's 1974 calculator hack (2013)](http://files.righto.com/calculator/sinclair_scientific_simulator.html)
 - [How to build a search engine with Ruby on Rails](https://blog.testdouble.com/posts/2021-09-09-how-to-build-a-search-engine-with-ruby-on-rails/)
 - [Ask HN: Advice on bringing community broadband to Los Alamos?](https://news.ycombinator.com/item?id=28558854)
-- [Smarking (YC W15) Is Hiring a Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 <!-- BLOG-POST-LIST:END -->
 
 ---
