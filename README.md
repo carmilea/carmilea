@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gitlab S-1](https://www.sec.gov/Archives/edgar/data/1653482/000162828021018818/gitlab-sx1.htm)
+- [Transforming OpenStreetMap into thick roads and intersections](https://a-b-street.github.io/docs/tech/map/geometry/index.html)
+- [Inuit Parents Teach Kids to Control Their Anger (2019)](https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger?t=1578497750132)
 - [Inspectify (YC S20) Is Hiring a Product Manager in Seattle](https://www.ycombinator.com/companies/inspectify/jobs/NDcfaSX-product-manager)
 - [Seed – A Rust front-end framework for creating fast and reliable web apps](https://github.com/seed-rs/seed)
-- [“The world is on a catastrophic pathway to 2.7C-degrees of heating”](https://www.france24.com/en/science/20210917-world-on-catastrophic-path-to-2-7c-warming-warns-un-chief)
-- [YouTube: On YouTube’s Recommendation System](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)
-- [Renting a car will be a pain until at least 2022](https://www.latimes.com/business/story/2021-09-13/car-rental-problems-persist-until-at-least-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
