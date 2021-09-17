@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How ‘Trainable’ Is VO2 Max Really? – A Case Study](https://simplifaster.com/articles/how-trainable-is-vo2-max/)
 - [Gitlab S-1](https://www.sec.gov/Archives/edgar/data/1653482/000162828021018818/gitlab-sx1.htm)
 - [Transforming OpenStreetMap into thick roads and intersections](https://a-b-street.github.io/docs/tech/map/geometry/index.html)
-- [Inuit Parents Teach Kids to Control Their Anger (2019)](https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger?t=1578497750132)
 - [Inspectify (YC S20) Is Hiring a Product Manager in Seattle](https://www.ycombinator.com/companies/inspectify/jobs/NDcfaSX-product-manager)
 - [Seed – A Rust front-end framework for creating fast and reliable web apps](https://github.com/seed-rs/seed)
 <!-- BLOG-POST-LIST:END -->
