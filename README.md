@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Experimenting with a new OpenBSD development lab](https://dataswamp.org/~solene/2021-09-16-experiments-openbsd-building.html)
+- [A Single Fire Killed at Least 10% of the World's Giant Sequoias, Study Says](https://text.npr.org/1002894521)
+- [18/19 September 2021 – Online EuroBSDCon Schedule](https://2021.eurobsdcon.org/about/program/)
+- [Playable Quotes for Game Boy](https://tenmile.quote.games/)
 - [Google, Apple remove Navalny app from stores as Russian elections begin](https://www.reuters.com/world/europe/google-apple-remove-navalny-app-stores-russian-elections-begin-2021-09-17/)
-- [Show HN: Flowbite – Tailwind CSS Components Library [MIT License]](https://flowbite.com/docs/getting-started/introduction/)
-- [Treasury Dept. Seeks to Track Transactions of Personal Bank Accounts over $600](https://fee.org/articles/treasury-department-seeks-to-track-financial-transactions-of-personal-bank-accounts-over-600/)
-- [Mailchimp founders promised to never sell, withheld equity, then sold for $12B](https://www.businessinsider.com/mailchimp-insiders-react-to-employees-getting-no-equity-2021-9)
-- [Walkman Archive](http://walkman-archive.com/gadgets/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
