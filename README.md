@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google, Apple remove Navalny app from stores as Russian elections begin](https://www.reuters.com/world/europe/google-apple-remove-navalny-app-stores-russian-elections-begin-2021-09-17/)
+- [Show HN: Flowbite – Tailwind CSS Components Library [MIT License]](https://flowbite.com/docs/getting-started/introduction/)
+- [Treasury Dept. Seeks to Track Transactions of Personal Bank Accounts over $600](https://fee.org/articles/treasury-department-seeks-to-track-financial-transactions-of-personal-bank-accounts-over-600/)
 - [Mailchimp founders promised to never sell, withheld equity, then sold for $12B](https://www.businessinsider.com/mailchimp-insiders-react-to-employees-getting-no-equity-2021-9)
 - [Walkman Archive](http://walkman-archive.com/gadgets/index.html)
-- [China prepares to test thorium-fuelled nuclear reactor](https://www.nature.com/articles/d41586-021-02459-w)
-- [Moderna's Financials](https://littlebitofeverything.substack.com/p/moderna-financials)
-- [Monotype acquires Hoefler&Co](https://www.typography.com/blog/monotype-acquires-hoeflerco)
 <!-- BLOG-POST-LIST:END -->
 
 ---
