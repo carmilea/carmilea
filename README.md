@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Building apps in minutes, not months](https://alexanderobenauer.com/labnotes/001/)
-- [Chery QQ Ice Cream EV car goes on sale in China for USD$4600 can carry 4 persons](https://gadgettendency.com/a-modern-electric-car-for-4600-chery-qq-ice-cream-goes-on-sale-in-china/)
-- [Video of Tesla FSD almost hitting pedestrian receives DMCA takedown](https://twitter.com/russ1mitchell/status/1438609715026530326)
-- [United States Broadband speed ranks 12th according to SpeedTest Global Index](https://www.speedtest.net/global-index)
-- [Run code samples directly in the Google Cloud documentation](https://cloud.google.com/blog/topics/developers-practitioners/run-code-samples-directly-google-cloud-documentation)
+- [Inspectify (YC S20) Is Hiring a Product Manager in Seattle](https://www.ycombinator.com/companies/inspectify/jobs/NDcfaSX-product-manager)
+- [Seed – A Rust front-end framework for creating fast and reliable web apps](https://github.com/seed-rs/seed)
+- [“The world is on a catastrophic pathway to 2.7C-degrees of heating”](https://www.france24.com/en/science/20210917-world-on-catastrophic-path-to-2-7c-warming-warns-un-chief)
+- [YouTube: On YouTube’s Recommendation System](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)
+- [Renting a car will be a pain until at least 2022](https://www.latimes.com/business/story/2021-09-13/car-rental-problems-persist-until-at-least-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
