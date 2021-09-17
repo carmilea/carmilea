@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SafeButler (YC S17) Is Hiring Software Engineer (Remote)](https://www.safebutler.com/careers)
+- [Tailscale free for open source projects](https://tailscale.com/blog/community-github-pricing/)
+- [OECD Releases “Education at a Glance 2021”](https://www.oecd-ilibrary.org/education/education-at-a-glance-2021_b35a14e5-en)
 - [FDA panel rejects plan to administer Pfizer’s booster doses to general public](https://www.cnbc.com/2021/09/17/fda-panel-begins-voting-on-pfizers-covid-booster-doses-rejecting-shots-for-general-public.html)
-- [Foreman 3.0](https://theforeman.org/2021/09/foreman-30-is-here.html)
-- [How ‘Trainable’ Is VO2 Max Really? – A Case Study (2019)](https://simplifaster.com/articles/how-trainable-is-vo2-max/)
-- [Gitlab S-1](https://www.sec.gov/Archives/edgar/data/1653482/000162828021018818/gitlab-sx1.htm)
-- [Transforming OpenStreetMap into thick roads and intersections](https://a-b-street.github.io/docs/tech/map/geometry/index.html)
+- [Bricks and the Industrial Revolution](https://constructionphysics.substack.com/p/bricks-and-the-industrial-revolution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
