@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Life-Size Camel Sculptures in Saudi Arabia Are Older Than Stonehenge, Pyramids](https://www.smithsonianmag.com/smart-news/life-size-camel-sculptures-in-saudi-arabia-are-older-than-stonehenge-pyramids-of-giza-180978693/)
-- [Researchers bake malware protection directly into SSDs](https://www.tomshardware.com/news/researchers-bake-malware-protection-directly-into-ssds)
 - [Cloudflare Images Now Available to Everyone](https://blog.cloudflare.com/announcing-cloudflare-images/)
+- [Hobbling computer vision datasets against unauthorized use](https://www.unite.ai/hobbling-computer-vision-datasets-against-unauthorized-use/)
 - [Shenandoah in OpenJDK 17: Sub-millisecond GC pauses](https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-millisecond-gc-pauses)
 - [Experimenting with a new OpenBSD development lab](https://dataswamp.org/~solene/2021-09-16-experiments-openbsd-building.html)
 <!-- BLOG-POST-LIST:END -->
