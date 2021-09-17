@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My FOSS Story (2020)](https://blog.burntsushi.net/foss/)
 - [I Failed to Transform the Enterprise](https://anonyfox.com/blog/i-failed-to-transform-the-enterprise/)
 - [Lowkey (YC S18) Is Hiring a Senior Full-Stack Engineer](https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748)
 - [Taking part in Y Combinator from Europe: is it worth it?](https://sifted.eu/articles/yc-combinator-alum-tips/)
-- [Today's front page news, curated](https://files.rayogram.com/news/)
-- [Black Lotus Labs uncovers Linux executables deployed as stealth Windows loaders](https://blog.lumen.com/no-longer-just-theory-black-lotus-labs-uncovers-linux-executables-deployed-as-stealth-windows-loaders/)
+- [NEWScan – Front pages of today’s newspapers in customizable carousel view](https://files.rayogram.com/news/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
