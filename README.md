@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Subscribe to RSS Feeds over Email](https://rssby.email/)
+- [France Recalls Its Ambassadors to the U.S. and Australia over a Submarine Deal](https://www.npr.org/2021/09/17/1038395237/france-recalls-ambassadors-us-australia-nuclear-submarine-deal)
 - [SafeButler (YC S17) Is Hiring Software Engineer (Remote)](https://www.safebutler.com/careers)
 - [Tailscale free for open source projects](https://tailscale.com/blog/community-github-pricing/)
 - [OECD Releases “Education at a Glance 2021”](https://www.oecd-ilibrary.org/education/education-at-a-glance-2021_b35a14e5-en)
-- [Bricks and the Industrial Revolution](https://constructionphysics.substack.com/p/bricks-and-the-industrial-revolution)
-- [Gitlab S-1](https://www.sec.gov/Archives/edgar/data/1653482/000162828021018818/gitlab-sx1.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
