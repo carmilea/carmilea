@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Excision's CRISPR HIV therapy is heading into human testing after FDA clearance](https://www.fiercebiotech.com/biotech/excision-hiv-crispr-gene-editing-therapy-cleared-for-human-studies-by-fda)
-- [Belgian ISP under 250 Gbps DDoS for days on end](https://issues.edpnet.be/)
-- [You don't (may not) need Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
-- [Cinepaint: The long forgotten GIMP fork that once powered the cinema industry](https://cinepaint.bigasterisk.com/TheHistoryOfCinePaint/)
-- [GNU/Linux Open Hardware PowerPC Notebook Project](https://www.powerpc-notebook.org)
+- [Modern Treasury (YC S18) is hiring senior software engineers](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
+- [Why the American Shoe Disappeared and Why It's So Hard to Bring It Back (2019)](https://www.npr.org/2019/06/19/731268823/why-the-american-shoe-disappeared-and-why-its-so-hard-to-bring-it-back)
+- [Tired of dating apps, Vancouver man launches social experiment to find companion](https://www.cbc.ca/news/canada/british-columbia/dating-social-experiment-dawn-hawkins-1.6180147)
+- [Alpine Linux: Proposal to move Rust to main](https://gitlab.alpinelinux.org/alpine/tsc/-/issues/21)
+- [Good Design vs. Great Design](https://www.andy.works/words/good-vs-great-design)
 <!-- BLOG-POST-LIST:END -->
 
 ---
