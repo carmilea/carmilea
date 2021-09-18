@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GNU/Linux Open Hardware PowerPC Notebook Project](https://www.powerpc-notebook.org)
+- [Building Less Flawed Metrics: Dodging Goodhart and Campbell's Laws](https://mpra.ub.uni-muenchen.de/98288/)
+- [Consolidation of the VPN industry spells trouble for the consumer](https://blog.windscribe.com/consolidation-of-the-vpn-industry-spells-trouble-for-the-consumer-57e638634cf0)
 - [Replit (YC W18) is hiring Designers who Code to invent the future of programming](https://replit.com/careers)
-- [How to Rapidly Improve at Any Programming Language](https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/)
-- [Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
-- [Show HN: Pytest-watcher – A working alternative to Pytest-watch](https://github.com/olzhasar/pytest-watcher)
-- [Sysz – An fzf terminal UI for systemctl](https://github.com/joehillen/sysz)
+- [Let’s talk about founder compensation](https://auren.substack.com/p/lets-talk-about-founder-compensation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
