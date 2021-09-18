@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wasp-Lang (YC W21) Is Hiring Founding Engineer](https://news.ycombinator.com/item?id=28574293)
+- [Miniaturization and Integration of 3D Printed Microfluidics](https://rdcu.be/cxWVY)
 - [Report Details Abuse and Trauma of Immigrant Women in ICE Detention in Georgia](https://projectsouth.org/new-report-details-abuse-and-trauma-of-immigrant-women-in-ice-detention-in-georgia/)
+- [Project 4K77](https://www.thestarwarstrilogy.com/project-4k77/)
 - [6th Generation Stealth Fighter: Joint Effort by UK, Japan, Italy and Sweden?](https://www.19fortyfive.com/2021/09/6th-generation-stealth-fighter-joint-effort-by-uk-japan-italy-and-sweden/)
-- [Greek Delivery Giant Efood Faces Major Backlash over Worker’s Rights](https://greekreporter.com/2021/09/17/greek-delivery-giant-efood-faces-major-backlash-over-workers-rights/)
-- [The whitest paint could eliminate the need for air conditioning](https://news.yahoo.com/scientists-created-worlds-whitest-paint-163538024.html)
-- [ChucK: Strongly-Timed, Concurrent, and On-the-Fly Music Programming Language](https://chuck.cs.princeton.edu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
