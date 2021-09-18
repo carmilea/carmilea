@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Justin Trudeau Vows Two-Year Ban on Foreign Home Buyers in Canada Election](https://www.bloomberg.com/news/articles/2021-08-24/trudeau-vows-two-year-ban-on-foreign-home-buyers-if-re-elected)
+- [Headscale: Open-source implementation of the Tailscale control server](https://github.com/juanfont/headscale)
 - [Subscribe to RSS Feeds over Email](https://rssby.email/)
-- [France Recalls Its Ambassadors to the U.S. and Australia over a Submarine Deal](https://www.npr.org/2021/09/17/1038395237/france-recalls-ambassadors-us-australia-nuclear-submarine-deal)
 - [SafeButler (YC S17) Is Hiring Software Engineer (Remote)](https://www.safebutler.com/careers)
 - [Tailscale free for open source projects](https://tailscale.com/blog/community-github-pricing/)
-- [OECD Releases “Education at a Glance 2021”](https://www.oecd-ilibrary.org/education/education-at-a-glance-2021_b35a14e5-en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
