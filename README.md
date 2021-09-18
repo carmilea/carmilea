@@ -54,8 +54,8 @@
 - [Wasp-Lang (YC W21) Is Hiring Founding Engineer](https://news.ycombinator.com/item?id=28574293)
 - [Miniaturization and Integration of 3D Printed Microfluidics](https://rdcu.be/cxWVY)
 - [Report Details Abuse and Trauma of Immigrant Women in ICE Detention in Georgia](https://projectsouth.org/new-report-details-abuse-and-trauma-of-immigrant-women-in-ice-detention-in-georgia/)
-- [Project 4K77](https://www.thestarwarstrilogy.com/project-4k77/)
-- [6th Generation Stealth Fighter: Joint Effort by UK, Japan, Italy and Sweden?](https://www.19fortyfive.com/2021/09/6th-generation-stealth-fighter-joint-effort-by-uk-japan-italy-and-sweden/)
+- [What I Learnt Becoming a Tech Lead](https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/)
+- [No-bullshit tenets for faster decision-making](https://www.rubick.com/tenets-for-faster-decisionmaking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
