@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit (YC W18) is hiring Designers who Code to invent the future of programming](https://replit.com/careers)
+- [How to Rapidly Improve at Any Programming Language](https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/)
+- [Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
 - [Show HN: Pytest-watcher – A working alternative to Pytest-watch](https://github.com/olzhasar/pytest-watcher)
 - [Sysz – An fzf terminal UI for systemctl](https://github.com/joehillen/sysz)
-- [Groundbreaking arm amputation surgery makes a ‘phantom’ hand seem real](https://www.statnews.com/2021/09/14/i-can-still-feel-it-new-arm-amputation-surgery-makes-a-phantom-hand-seem-real/)
-- [The pitfalls of using SSH-agent, or how to use an agent safely](https://rabexc.org/posts/pitfalls-of-ssh-agents)
-- [Norway is wealthy because of oil. Can it give up fossil fuels?](https://www.csmonitor.com/World/Europe/2021/0913/Norway-is-wealthy-because-of-oil.-Can-it-give-up-fossil-fuels)
 <!-- BLOG-POST-LIST:END -->
 
 ---
