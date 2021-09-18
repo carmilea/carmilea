@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alexa leaks your private wishlists](https://shkspr.mobi/blog/2021/09/alexa-leaks-your-private-wishlists/)
+- [Anatomy of a Cloud Infrastructure Attack via a Pull Request](https://goteleport.com/blog/hack-via-pull-request/)
+- [Shortcomings of Amazon Mechanical Turk May Threaten Natural Language Generation](https://www.unite.ai/the-shortcomings-of-amazon-mechanical-turk-may-threaten-natural-language-generation-systems/)
 - [Git Commands Explained with Cats (2017)](https://girliemac.com/blog/2017/12/26/git-purr/)
 - [Porter (YC W22) Is Hiring a UX/Product Engineer](https://docs.google.com/spreadsheets/d/1EX95XOnOKJdantxM9VCO68KEE8Tbltvedlzji9KoQhY/edit?usp=sharing)
-- [Ultrawhite BaSO4 Paints and Films for Daytime Radiative Cooling](https://pubs.acs.org/doi/10.1021/acsami.1c02368)
-- [Python Programming Puzzles](https://github.com/microsoft/PythonProgrammingPuzzles)
-- [Acoup: The Trench Stalemate](https://acoup.blog/2021/09/17/collections-no-mans-land-part-i-the-trench-stalemate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
