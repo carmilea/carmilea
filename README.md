@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TrackerZapper Mac app silently removes tracking parameters from links you copy](https://github.com/rknightuk/TrackerZapper)
+- [WAGI: WebAssembly Gateway Interface](https://github.com/deislabs/wagi)
 - [Alexa leaks your private wishlists](https://shkspr.mobi/blog/2021/09/alexa-leaks-your-private-wishlists/)
 - [Anatomy of a Cloud Infrastructure Attack via a Pull Request](https://goteleport.com/blog/hack-via-pull-request/)
-- [Shortcomings of Amazon Mechanical Turk May Threaten Natural Language Generation](https://www.unite.ai/the-shortcomings-of-amazon-mechanical-turk-may-threaten-natural-language-generation-systems/)
-- [Git Commands Explained with Cats (2017)](https://girliemac.com/blog/2017/12/26/git-purr/)
-- [Porter (YC W22) Is Hiring a UX/Product Engineer](https://docs.google.com/spreadsheets/d/1EX95XOnOKJdantxM9VCO68KEE8Tbltvedlzji9KoQhY/edit?usp=sharing)
+- [Learning Mathematical Properties of Integers](https://arxiv.org/abs/2109.07230)
 <!-- BLOG-POST-LIST:END -->
 
 ---
