@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TrackerZapper Mac app silently removes tracking parameters from links you copy](https://github.com/rknightuk/TrackerZapper)
-- [WAGI: WebAssembly Gateway Interface](https://github.com/deislabs/wagi)
-- [Alexa leaks your private wishlists](https://shkspr.mobi/blog/2021/09/alexa-leaks-your-private-wishlists/)
-- [Anatomy of a Cloud Infrastructure Attack via a Pull Request](https://goteleport.com/blog/hack-via-pull-request/)
-- [Learning Mathematical Properties of Integers](https://arxiv.org/abs/2109.07230)
+- [Norway is wealthy because of oil. Can it give up fossil fuels?](https://www.csmonitor.com/World/Europe/2021/0913/Norway-is-wealthy-because-of-oil.-Can-it-give-up-fossil-fuels)
+- [A collection of modern games for the TI-99/4A](http://tigameshelf.net/asm.htm)
+- [Gimp 2.10.28 Released](https://www.gimp.org/news/2021/09/18/gimp-2-10-28-released/)
+- [Ireland raises privacy question over Facebook smart glasses](https://www.reuters.com/technology/ireland-raises-privacy-question-over-facebook-smart-glasses-2021-09-17/)
+- [Reality Check for Cloudflare Wasm Workers and Rust](https://nickb.dev/blog/reality-check-for-cloudflare-wasm-workers-and-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
