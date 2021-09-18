@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Belgian ISP under 250 Gbps DDoS for days on end](https://issues.edpnet.be/)
 - [GNU/Linux Open Hardware PowerPC Notebook Project](https://www.powerpc-notebook.org)
+- [AirGuard: Protect yourself from being tracked by AirTags and Find My accessories](https://github.com/seemoo-lab/AirGuard)
 - [Building Less Flawed Metrics: Dodging Goodhart and Campbell's Laws](https://mpra.ub.uni-muenchen.de/98288/)
 - [Consolidation of the VPN industry spells trouble for the consumer](https://blog.windscribe.com/consolidation-of-the-vpn-industry-spells-trouble-for-the-consumer-57e638634cf0)
-- [Replit (YC W18) is hiring Designers who Code to invent the future of programming](https://replit.com/careers)
-- [Let’s talk about founder compensation](https://auren.substack.com/p/lets-talk-about-founder-compensation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
