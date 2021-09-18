@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon says it’s permanently banned 600 Chinese brands for review fraud](https://fintechzoom.com/fintech_news_amazon-nasdaq-amzn/amazon-says-its-permanently-banned-600-chinese-brands-for-review-fraud/)
+- [Color Map Advice for Scientific Visualization](https://www.kennethmoreland.com/color-advice/)
 - [Can You See the Republic of Ireland from England? – Menu](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/)
 - [Modern Treasury (YC S18) is hiring senior software engineers](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
-- [Why the American Shoe Disappeared and Why It's So Hard to Bring It Back (2019)](https://www.npr.org/2019/06/19/731268823/why-the-american-shoe-disappeared-and-why-its-so-hard-to-bring-it-back)
-- [Tired of dating apps, Vancouver man launches social experiment to find companion](https://www.cbc.ca/news/canada/british-columbia/dating-social-experiment-dawn-hawkins-1.6180147)
 - [Alpine Linux: Proposal to move Rust to main](https://gitlab.alpinelinux.org/alpine/tsc/-/issues/21)
 <!-- BLOG-POST-LIST:END -->
 
