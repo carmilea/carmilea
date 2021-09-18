@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Renting 'is unaffordable to minimum wage workers in every state,' study finds](https://money.yahoo.com/renting-unaffordable-minimum-wage-workers-200709826.html)
-- [Read, write, and edit PDF files with borb, a pure Python library](https://borbpdf.com/)
+- [Acoup: The Trench Stalemate](https://acoup.blog/2021/09/17/collections-no-mans-land-part-i-the-trench-stalemate/)
+- [Modifying the Linux Kernel – New Syscalls](https://codingkaiser.blog/2021/07/17/create-your-own-system-calls%e2%80%8a-%e2%80%8aprocess-weights/)
+- [Doing a Job – The Management Philosophy of Adm. Hyman G. Rickover](https://govleaders.org/rickover.htm)
+- [Borb – A python library to read, write, and edit PDF files](https://borbpdf.com/)
 - [Wasp-Lang (YC W21) Is Hiring Founding Engineer](https://news.ycombinator.com/item?id=28574293)
-- [Miniaturization and Integration of 3D Printed Microfluidics](https://rdcu.be/cxWVY)
-- [What I Learnt Becoming a Tech Lead](https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
