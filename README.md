@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Justin Trudeau Vows Two-Year Ban on Foreign Home Buyers in Canada Election](https://www.bloomberg.com/news/articles/2021-08-24/trudeau-vows-two-year-ban-on-foreign-home-buyers-if-re-elected)
+- [DOS Subsystem for Linux](https://github.com/haileys/doslinux)
+- [Tim Cook Faces Surprising Employee Unrest at Apple](https://www.nytimes.com/2021/09/17/technology/apple-employee-unrest.html)
+- [1960s Mouse Utopias Led to Grim Predictions for Future of Humanity](https://www.smithsonianmag.com/smart-news/how-mouse-utopias-1960s-led-grim-predictions-humans-180954423/)
 - [Headscale: Open-source implementation of the Tailscale control server](https://github.com/juanfont/headscale)
-- [Subscribe to RSS Feeds over Email](https://rssby.email/)
-- [SafeButler (YC S17) Is Hiring Software Engineer (Remote)](https://www.safebutler.com/careers)
-- [Tailscale free for open source projects](https://tailscale.com/blog/community-github-pricing/)
+- [A Review of “Kill It with Fire: Manage Aging Computer Systems”](https://www.usenix.org/publications/loginonline/kill-it-fire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
