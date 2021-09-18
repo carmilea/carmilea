@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Commands Explained with Cats (2017)](https://girliemac.com/blog/2017/12/26/git-purr/)
+- [Porter (YC W22) Is Hiring a UX/Product Engineer](https://docs.google.com/spreadsheets/d/1EX95XOnOKJdantxM9VCO68KEE8Tbltvedlzji9KoQhY/edit?usp=sharing)
+- [Ultrawhite BaSO4 Paints and Films for Daytime Radiative Cooling](https://pubs.acs.org/doi/10.1021/acsami.1c02368)
+- [Python Programming Puzzles](https://github.com/microsoft/PythonProgrammingPuzzles)
 - [Acoup: The Trench Stalemate](https://acoup.blog/2021/09/17/collections-no-mans-land-part-i-the-trench-stalemate/)
-- [Modifying the Linux Kernel – New Syscalls](https://codingkaiser.blog/2021/07/17/create-your-own-system-calls%e2%80%8a-%e2%80%8aprocess-weights/)
-- [Doing a Job – The Management Philosophy of Adm. Hyman G. Rickover](https://govleaders.org/rickover.htm)
-- [Borb – A python library to read, write, and edit PDF files](https://borbpdf.com/)
-- [Wasp-Lang (YC W21) Is Hiring Founding Engineer](https://news.ycombinator.com/item?id=28574293)
 <!-- BLOG-POST-LIST:END -->
 
 ---
