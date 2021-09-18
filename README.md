@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Report Details Abuse and Trauma of Immigrant Women in ICE Detention in Georgia](https://projectsouth.org/new-report-details-abuse-and-trauma-of-immigrant-women-in-ice-detention-in-georgia/)
 - [6th Generation Stealth Fighter: Joint Effort by UK, Japan, Italy and Sweden?](https://www.19fortyfive.com/2021/09/6th-generation-stealth-fighter-joint-effort-by-uk-japan-italy-and-sweden/)
+- [Greek Delivery Giant Efood Faces Major Backlash over Worker’s Rights](https://greekreporter.com/2021/09/17/greek-delivery-giant-efood-faces-major-backlash-over-workers-rights/)
 - [The whitest paint could eliminate the need for air conditioning](https://news.yahoo.com/scientists-created-worlds-whitest-paint-163538024.html)
-- [DOS Subsystem for Linux](https://github.com/haileys/doslinux)
-- [1960s Mouse Utopias Led to Grim Predictions for Future of Humanity](https://www.smithsonianmag.com/smart-news/how-mouse-utopias-1960s-led-grim-predictions-humans-180954423/)
-- [Headscale: Open-source implementation of the Tailscale control server](https://github.com/juanfont/headscale)
+- [ChucK: Strongly-Timed, Concurrent, and On-the-Fly Music Programming Language](https://chuck.cs.princeton.edu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
