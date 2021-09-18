@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Scientists created the whitest paint. It could eliminate aircons](https://news.yahoo.com/scientists-created-worlds-whitest-paint-163538024.html)
-- [There won’t be a Goddamn creator economy if we don’t invest directly in creators](https://pizzaparty.substack.com/p/there-wont-be-a-goddamn-creator-economy)
 - [DOS Subsystem for Linux](https://github.com/haileys/doslinux)
-- [Tim Cook Faces Surprising Employee Unrest at Apple](https://www.nytimes.com/2021/09/17/technology/apple-employee-unrest.html)
 - [1960s Mouse Utopias Led to Grim Predictions for Future of Humanity](https://www.smithsonianmag.com/smart-news/how-mouse-utopias-1960s-led-grim-predictions-humans-180954423/)
+- [Headscale: Open-source implementation of the Tailscale control server](https://github.com/juanfont/headscale)
+- [A Review of “Kill It with Fire: Manage Aging Computer Systems”](https://www.usenix.org/publications/loginonline/kill-it-fire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
