@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Renting 'is unaffordable to minimum wage workers in every state,' study finds](https://money.yahoo.com/renting-unaffordable-minimum-wage-workers-200709826.html)
+- [Read, write, and edit PDF files with borb, a pure Python library](https://borbpdf.com/)
 - [Wasp-Lang (YC W21) Is Hiring Founding Engineer](https://news.ycombinator.com/item?id=28574293)
 - [Miniaturization and Integration of 3D Printed Microfluidics](https://rdcu.be/cxWVY)
-- [Report Details Abuse and Trauma of Immigrant Women in ICE Detention in Georgia](https://projectsouth.org/new-report-details-abuse-and-trauma-of-immigrant-women-in-ice-detention-in-georgia/)
 - [What I Learnt Becoming a Tech Lead](https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/)
-- [No-bullshit tenets for faster decision-making](https://www.rubick.com/tenets-for-faster-decisionmaking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
