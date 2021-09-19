@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Combinatorial Object Server](http://combos.org/)
 - [Percept.ai (YC S17) Is Hiring a Back End Engineer](https://apply.workable.com/percept-ai/j/0FA1CF8FF9/)
+- [Games That Emphasize Emergent Narrative](https://www.emergentmage.com/articles/guide-to-games-that-emphasize-emergent-narrative)
 - [Big Tech is replacing human artists](https://erikhoel.substack.com/p/big-tech-is-replacing-human-artists)
 - [3D Pipes Screensaver](https://1j01.github.io/pipes/)
-- [Bye YouTube, Hello PeerTube (video)](https://diode.zone/w/ooKHgZQnFkGjzbjZjRkZf7?autoplay=1&auto_play=true&start=4m19s)
-- [Forget oil or water. In Iceland, well diggers seek to tap a volcano’s magma](https://www.science.org/content/article/forget-oil-or-water-iceland-well-diggers-seek-tap-volcano-s-magma)
 <!-- BLOG-POST-LIST:END -->
 
 ---
