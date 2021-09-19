@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The computer chip industry has a dirty climate secret](https://www.theguardian.com/environment/2021/sep/18/semiconductor-silicon-chips-carbon-footprint-climate)
+- [Currying in JavaScript](https://javascript.info/currying-partials)
+- [Show HN: Aquila.network – a search first hub for bookmarks](https://aquila.network)
 - [Russia restricts opposition election voting app](https://netblocks.org/reports/russia-restricts-opposition-election-voting-app-from-apple-app-store-and-google-play-store-JBZrPaB6)
 - [The Reemergent 1977 H1N1 Strain and the Gain-of-Function Debate (2015)](https://journals.asm.org/doi/10.1128/mbio.01013-15?permanently=true&)
 - [An appeal for an objective, open, transparent debate re: the origin of Covid-19](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02019-5/fulltext)
-- [OCW MIT: 6.006 Intro to Algorithms 2020](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
