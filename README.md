@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon says it’s permanently banned 600 Chinese brands for review fraud](https://fintechzoom.com/fintech_news_amazon-nasdaq-amzn/amazon-says-its-permanently-banned-600-chinese-brands-for-review-fraud/)
-- [Color Map Advice for Scientific Visualization](https://www.kennethmoreland.com/color-advice/)
-- [Can You See the Republic of Ireland from England? – Menu](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/)
-- [Modern Treasury (YC S18) is hiring senior software engineers](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
-- [Alpine Linux: Proposal to move Rust to main](https://gitlab.alpinelinux.org/alpine/tsc/-/issues/21)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28580769)
+- [Amazon says it’s permanently banned 600 Chinese brands for review fraud](https://www.theverge.com/2021/9/17/22680269/amazon-ban-chinese-brands-review-abuse-fraud-policy)
+- [Can You See the Republic of Ireland from England?](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/)
+- [Why the American shoe disappeared and why it's so hard to bring it back (2019)](https://www.npr.org/2019/06/19/731268823/why-the-american-shoe-disappeared-and-why-its-so-hard-to-bring-it-back)
+- [Visual Git Cheat Sheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
 <!-- BLOG-POST-LIST:END -->
 
 ---
