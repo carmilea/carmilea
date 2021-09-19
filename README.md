@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Private companies will launch a new fleet of moon landers](https://www.science.org/content/article/new-fleet-moon-landers-will-set-sail-next-year-backed-private-companies)
+- [Freenet is a peer-to-peer platform for censorship-resistant communication](https://freenetproject.org/index.html)
+- [PenPot 1.8.0 Alpha](https://penpot.app/dev-diaries.html)
+- [What Is Property Based Testing?](https://hypothesis.works/articles/what-is-property-based-testing/)
 - [The Combinatorial Object Server](http://combos.org/)
-- [Percept.ai (YC S17) Is Hiring a Back End Engineer](https://apply.workable.com/percept-ai/j/0FA1CF8FF9/)
-- [Games That Emphasize Emergent Narrative](https://www.emergentmage.com/articles/guide-to-games-that-emphasize-emergent-narrative)
-- [Big Tech is replacing human artists](https://erikhoel.substack.com/p/big-tech-is-replacing-human-artists)
-- [3D Pipes Screensaver](https://1j01.github.io/pipes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
