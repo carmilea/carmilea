@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Percept.ai (YC S17) Is Hiring a Back End Engineer](https://apply.workable.com/percept-ai/j/0FA1CF8FF9/)
-- [Ask HN: How did Google botch messaging/video/hangouts so badly?](https://news.ycombinator.com/item?id=28585379)
+- [Big Tech is replacing human artists](https://erikhoel.substack.com/p/big-tech-is-replacing-human-artists)
+- [3D Pipes Screensaver](https://1j01.github.io/pipes/)
+- [Bye YouTube, Hello PeerTube (video)](https://diode.zone/w/ooKHgZQnFkGjzbjZjRkZf7?autoplay=1&auto_play=true&start=4m19s)
 - [Forget oil or water. In Iceland, well diggers seek to tap a volcano’s magma](https://www.science.org/content/article/forget-oil-or-water-iceland-well-diggers-seek-tap-volcano-s-magma)
-- [Show HN: Fully-searchable Library Genesis on IPFS](https://libgen.fun/dweb.html)
-- [Things To Do Before And After You Write Code](https://somehowmanage.com/2021/09/05/things-to-do-before-and-after-you-write-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
