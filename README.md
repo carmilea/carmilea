@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- ['They' are controlling you. 'They' are silencing you. – Washington Times](https://m.washingtontimes.com/news/2021/sep/12/they-are-controlling-you-they-are-silencing-you/)
-- [71% of small and medium businesses survived the pandemic by going digital](https://www.salesforce.com/news/stories/growing-smbs-survived-the-pandemic-by-going-digital/)
-- [The reason employees aren't returning to work in America](https://www.youtube.com/watch?v=52HpzZ4HT4g)
-- [The Form and Function of Science Fiction](https://franklloydwright.org/the-form-and-function-of-science-fiction/)
-- [SmackTLS: State Machine Attacks](https://www.smacktls.com/)
+- [Serving Netflix Video at 400Gb/s [pdf]](https://people.freebsd.org/~gallatin/talks/euro2021.pdf)
+- [Dot Browser – privacy-conscious web browser](https://github.com/dothq/browser)
+- [Analog – An analogous, indented syntax for the Rust programming language](https://github.com/asvln/analog)
+- [Ask HN: Is anyone monitoring popular apps to check if they're listening?](https://news.ycombinator.com/item?id=28584564)
+- [Revisiting Java in 2021 – Part II](https://www.avanwyk.com/revisiting-java-in-2021-ii/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
