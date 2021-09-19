@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Currying in JavaScript](https://javascript.info/currying-partials)
-- [Show HN: Aquila.network – a search first hub for bookmarks](https://aquila.network)
-- [Russia restricts opposition election voting app](https://netblocks.org/reports/russia-restricts-opposition-election-voting-app-from-apple-app-store-and-google-play-store-JBZrPaB6)
-- [The Reemergent 1977 H1N1 Strain and the Gain-of-Function Debate (2015)](https://journals.asm.org/doi/10.1128/mbio.01013-15?permanently=true&)
-- [An appeal for an objective, open, transparent debate re: the origin of Covid-19](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02019-5/fulltext)
+- [Project Deluge: Xbox and Dreamcast](https://hiddenpalace.org/News/Project_Deluge:_Xbox_and_Dreamcast)
+- [Sirum (YC Nonprofit) needs engineers to automate medicine delivery](https://news.ycombinator.com/item?id=28583652)
+- [Paradise lost: The rise and ruin of Couchsurfing.com](https://www.inputmag.com/features/rise-and-ruin-of-couchsurfing)
+- [Show HN: Optimule, a free vehicle routing platform built with Open Route Service](https://optimule.com/)
+- [Is 2021 the Year of the Linux Desktop?](https://linux.slashdot.org/story/21/09/18/0050255/is-2021-the-year-of-the-linux-desktop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
