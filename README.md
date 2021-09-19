@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [KySync: A complete, modern C++ rewrite of Zsync with 3x-10x+ performance boost](https://kyall.notion.site/KySync-v1-0-29eaad446308449a8c9a2373850eed62)
-- [Rock against anything: how metal became so fucking reactionary](https://toiletovhell.com/rock-against-anything-how-metal-became-so-fucking-reactionary-and-what-to-do-about-it/)
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28580769)
-- [Pantagruel: An Extremely Lightweight Specification Language](https://pantagruel-language.com/)
 - [Amazon says it’s permanently banned 600 Chinese brands for review fraud](https://www.theverge.com/2021/9/17/22680269/amazon-ban-chinese-brands-review-abuse-fraud-policy)
+- [Can You See the Republic of Ireland from England?](https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/)
+- [Why the American shoe disappeared and why it's so hard to bring it back (2019)](https://www.npr.org/2019/06/19/731268823/why-the-american-shoe-disappeared-and-why-its-so-hard-to-bring-it-back)
 <!-- BLOG-POST-LIST:END -->
 
 ---
