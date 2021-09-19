@@ -55,7 +55,7 @@
 - [Sirum (YC Nonprofit) needs engineers to automate medicine delivery](https://news.ycombinator.com/item?id=28583652)
 - [Paradise lost: The rise and ruin of Couchsurfing.com](https://www.inputmag.com/features/rise-and-ruin-of-couchsurfing)
 - [Show HN: Optimule, a free vehicle routing platform built with Open Route Service](https://optimule.com/)
-- [Is 2021 the Year of the Linux Desktop?](https://linux.slashdot.org/story/21/09/18/0050255/is-2021-the-year-of-the-linux-desktop)
+- [Terraform Is Not the Golden Hammer](https://hub.qovery.com/guides/engineering/terraform-not-the-golden-hammer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
