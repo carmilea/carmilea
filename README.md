@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Percept.ai (YC S17) Is Hiring a Back End Engineer](https://apply.workable.com/percept-ai/j/0FA1CF8FF9/)
 - [Ask HN: How did Google botch messaging/video/hangouts so badly?](https://news.ycombinator.com/item?id=28585379)
+- [Forget oil or water. In Iceland, well diggers seek to tap a volcano’s magma](https://www.science.org/content/article/forget-oil-or-water-iceland-well-diggers-seek-tap-volcano-s-magma)
 - [Show HN: Fully-searchable Library Genesis on IPFS](https://libgen.fun/dweb.html)
-- [Volcano erupts on Spanish island of La Palma](https://p.dw.com/p/40X7R)
-- [Serving Netflix Video at 400Gb/s [pdf]](https://people.freebsd.org/~gallatin/talks/euro2021.pdf)
-- [Elite Biases Make Policy Biases](https://www.overcomingbias.com/2021/09/elite-biases-make-policy-biases.html)
+- [Things To Do Before And After You Write Code](https://somehowmanage.com/2021/09/05/things-to-do-before-and-after-you-write-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
