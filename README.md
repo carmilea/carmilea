@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PCB Metro Map](https://chaijiaxun.com/pcb-metro-map-build-log/)
 - [OneSignal (YC S11) Is Hiring a Product Manager](https://onesignal.com/careers/3e185556-91ea-4d65-82ca-dd1520b2e8cb)
 - [Show HN: I Built Four Eight-Foot-Long Handwriting Robots](https://twitter.com/aarondfrancis/status/1438888219471491074)
 - [Private companies will launch a new fleet of moon landers](https://www.science.org/content/article/new-fleet-moon-landers-will-set-sail-next-year-backed-private-companies)
 - [Freenet is a peer-to-peer platform for censorship-resistant communication](https://freenetproject.org/index.html)
-- [PenPot 1.8.0 Alpha](https://penpot.app/dev-diaries.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
