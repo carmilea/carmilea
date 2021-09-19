@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Project Deluge: Xbox and Dreamcast](https://hiddenpalace.org/News/Project_Deluge:_Xbox_and_Dreamcast)
-- [Sirum (YC Nonprofit) needs engineers to automate medicine delivery](https://news.ycombinator.com/item?id=28583652)
-- [Paradise lost: The rise and ruin of Couchsurfing.com](https://www.inputmag.com/features/rise-and-ruin-of-couchsurfing)
-- [Show HN: Optimule, a free vehicle routing platform built with Open Route Service](https://optimule.com/)
-- [Terraform Is Not the Golden Hammer](https://hub.qovery.com/guides/engineering/terraform-not-the-golden-hammer/)
+- ['They' are controlling you. 'They' are silencing you. – Washington Times](https://m.washingtontimes.com/news/2021/sep/12/they-are-controlling-you-they-are-silencing-you/)
+- [71% of small and medium businesses survived the pandemic by going digital](https://www.salesforce.com/news/stories/growing-smbs-survived-the-pandemic-by-going-digital/)
+- [The reason employees aren't returning to work in America](https://www.youtube.com/watch?v=52HpzZ4HT4g)
+- [The Form and Function of Science Fiction](https://franklloydwright.org/the-form-and-function-of-science-fiction/)
+- [SmackTLS: State Machine Attacks](https://www.smacktls.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
