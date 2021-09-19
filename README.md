@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How did Google botch messaging/video/hangouts so badly?](https://news.ycombinator.com/item?id=28585379)
+- [Show HN: Fully-searchable Library Genesis on IPFS](https://libgen.fun/dweb.html)
+- [Volcano erupts on Spanish island of La Palma](https://p.dw.com/p/40X7R)
 - [Serving Netflix Video at 400Gb/s [pdf]](https://people.freebsd.org/~gallatin/talks/euro2021.pdf)
-- [Dot Browser – privacy-conscious web browser](https://github.com/dothq/browser)
-- [Analog – An analogous, indented syntax for the Rust programming language](https://github.com/asvln/analog)
-- [Ask HN: Is anyone monitoring popular apps to check if they're listening?](https://news.ycombinator.com/item?id=28584564)
-- [Revisiting Java in 2021 – Part II](https://www.avanwyk.com/revisiting-java-in-2021-ii/)
+- [Elite Biases Make Policy Biases](https://www.overcomingbias.com/2021/09/elite-biases-make-policy-biases.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
