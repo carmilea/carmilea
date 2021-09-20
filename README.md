@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube has a spam problem, and it's getting worse](https://news.ycombinator.com/item?id=28588896)
+- [New engine design could muffle roar of fighter jets](https://www.uc.edu/news/articles/2021/09/uc-engineers-quieter-jet-engines-for-fighter-planes.html)
 - [Tribler:  Search and download torrents with less worries or censorship](https://www.tribler.org/)
 - [“600-500 BC Etruscan” Ceramic Boar Vessel exposed as probable fake](https://twitter.com/diffendale/status/1439204731403055114)
 - [PCB Metro Map](https://chaijiaxun.com/pcb-metro-map-build-log/)
