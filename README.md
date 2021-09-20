@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube has a spam problem, and it's getting worse](https://news.ycombinator.com/item?id=28588896)
+- [Tribler:  Search and download torrents with less worries or censorship](https://www.tribler.org/)
 - [“600-500 BC Etruscan” Ceramic Boar Vessel exposed as probable fake](https://twitter.com/diffendale/status/1439204731403055114)
+- [PCB Metro Map](https://chaijiaxun.com/pcb-metro-map-build-log/)
 - [OneSignal (YC S11) Is Hiring a Product Manager](https://onesignal.com/careers/3e185556-91ea-4d65-82ca-dd1520b2e8cb)
-- [How to make $80k per month on the Apple App Store (2017)](https://blog.lockdownprivacy.com/2020/11/25/how-to-make-80000.html)
-- [Show HN: I built four eight-foot-long handwriting robots](https://twitter.com/aarondfrancis/status/1438888219471491074)
-- [Private companies will launch a new fleet of moon landers](https://www.science.org/content/article/new-fleet-moon-landers-will-set-sail-next-year-backed-private-companies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
