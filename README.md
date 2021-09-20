@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wall St Tumbles over 2%](https://www.reuters.com/business/futures-fall-over-1-growth-worries-focus-turns-fed-2021-09-20/)
+- [Inspecting coredumps like it's 2021](https://nixos.mayflower.consulting/blog/2021/09/06/coredumpctl/)
 - [Wcap: Simple and efficient screen recording utility for Windows](https://github.com/mmozeiko/wcap)
-- [iOS 15 Is Available](https://www.apple.com/ios/ios-15/)
+- [iOS 15](https://www.apple.com/ios/ios-15/)
 - [Supabase (YC S20) Is Hiring SRE and DevOps Engineers](https://bookface.ycombinator.com/company/22091/jobs/43570)
-- [Show HN: 40k Book Recommendations on HN Extracted Using Deep Learning](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
-- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
