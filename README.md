@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Marketron Hit by Cyber Attack](https://radioinsight.com/headlines/213080/marketron-hit-by-cyber-attack/)
 - [New engine design could muffle roar of fighter jets](https://www.uc.edu/news/articles/2021/09/uc-engineers-quieter-jet-engines-for-fighter-planes.html)
+- [Bend-It: Design and Fabrication of Kinetic Wire Characters (2018)](https://la.disneyresearch.com/publication/bend-it/)
 - [Tribler:  Search and download torrents with less worries or censorship](https://www.tribler.org/)
-- [“600-500 BC Etruscan” Ceramic Boar Vessel exposed as probable fake](https://twitter.com/diffendale/status/1439204731403055114)
 - [PCB Metro Map](https://chaijiaxun.com/pcb-metro-map-build-log/)
-- [OneSignal (YC S11) Is Hiring a Product Manager](https://onesignal.com/careers/3e185556-91ea-4d65-82ca-dd1520b2e8cb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
