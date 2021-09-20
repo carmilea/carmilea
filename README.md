@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Full function emergency phone powered by a single AA with a 15 year shelf life](https://www.core77.com/posts/110069/Emergency-Phone-With-a-Surprising-Screen)
-- [Pen: The programming language for scalable development](https://github.com/pen-lang/pen)
-- [Father-Son Hacker Duo Is Helping People Crack into Their Lost Bitcoin](https://hypebeast.com/2021/9/bitcoin-wallet-hacker-chris-charlie-crypto-asset-recovery)
-- [Marketron Hit by Cyber Attack](https://radioinsight.com/headlines/213080/marketron-hit-by-cyber-attack/)
-- [Show HN: Errorpush – Minimalist Sentry alternative using PostgreSQL](https://github.com/hauxir/errorpush)
+- [Why Figma Wins (2020)](https://kwokchain.com/2020/06/19/why-figma-wins/)
+- [Uncontrolled Spread: Science, Policy, Institutions, Infrastructure](https://future.a16z.com/podcasts/uncontrolled-spread-gottlieb-book-science-policy-institutions-technology-infrastructure-public-private-pandemic-emergency-beyond)
+- [Pen: A programming language for scalable development](https://github.com/pen-lang/pen)
+- [Revolt of the Delivery Workers](https://www.curbed.com/article/nyc-delivery-workers.html)
+- [An Introduction to WebRTC Simulcast](https://blog.livekit.io/an-introduction-to-webrtc-simulcast-6c5f1f6402eb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
