@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux Networking: Mac VLANs and Virtual Ethernets](http://www.pocketnix.org/posts/Linux%20Networking:%20MAC%20VLANs%20and%20Virtual%20Ethernets)
+- [Footage of Australian Raven Attacking a Wing Drone in Canberra, Australia](https://www.linkedin.com/posts/robertsforwriting_i-am-in-the-wing-delivery-area-in-canberra-activity-6845498818092498944-A8sh)
+- [France cancels defence meeting with UK over submarine row, sources say](https://www.reuters.com/world/europe/france-cancels-defence-meeting-with-uk-over-submarine-row-sources-say-2021-09-19/)
+- [Rendezvous Hashing Explained](https://randorithms.com/2020/12/26/rendezvous-hashing.html)
 - [Xata – Database service for serverless apps](https://www.xata.io/)
-- [Germany’s no-emotion voting guide surges despite campaign of personalities](https://www.politico.eu/article/germany-election-2021-rational-voting-wahl-o-mat-survey/)
-- [Zerotier – multiple vulnerabilities lead to private network access](https://pulsesecurity.co.nz/advisories/Zerotier-Private-Network-Access.html)
-- [Why Figma Wins (2020)](https://kwokchain.com/2020/06/19/why-figma-wins/)
-- [Uncontrolled Spread: Science, Policy, Institutions, Infrastructure](https://future.a16z.com/podcasts/uncontrolled-spread-gottlieb-book-science-policy-institutions-technology-infrastructure-public-private-pandemic-emergency-beyond)
 <!-- BLOG-POST-LIST:END -->
 
 ---
