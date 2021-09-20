@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabase (YC S20) Is Hiring SRE and DevOps Engineers](https://bookface.ycombinator.com/company/22091/jobs/43570)
+- [Show HN: 40k Book Recommendations on HN Extracted Using Deep Learning](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
+- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
+- [ClickHouse, Inc](https://github.com/ClickHouse/ClickHouse/blob/master/website/blog/en/2021/clickhouse-inc.md)
 - [FBI: Fortune seized in LA was criminals’ loot. Owners: Where’s the proof?](https://www.latimes.com/california/story/2021-09-19/fbi-seizure-cash-beverly-hills-vault-spawns-epic-court-battle)
-- [Excel as Code](https://github.com/GavinMendelGleason/excel_as_code)
-- [Show HN: A microservice framework, listed in CNCF Landscape, 1 year 10k+ stars](https://github.com/zeromicro/go-zero)
-- [Unmatched: Repairing the U.S. Medical Residency Pipeline](https://www.niskanencenter.org/unmatched-repairing-the-u-s-medical-residency-pipeline/)
-- [Ruby for eBook Publishing](https://nts.strzibny.name/ruby-for-ebook-publishing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
