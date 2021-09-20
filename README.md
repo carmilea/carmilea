@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wcap: Simple and efficient screen recording utility for Windows](https://github.com/mmozeiko/wcap)
+- [iOS 15 Is Available](https://www.apple.com/ios/ios-15/)
 - [Supabase (YC S20) Is Hiring SRE and DevOps Engineers](https://bookface.ycombinator.com/company/22091/jobs/43570)
 - [Show HN: 40k Book Recommendations on HN Extracted Using Deep Learning](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
 - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
-- [ClickHouse, Inc](https://github.com/ClickHouse/ClickHouse/blob/master/website/blog/en/2021/clickhouse-inc.md)
-- [FBI: Fortune seized in LA was criminals’ loot. Owners: Where’s the proof?](https://www.latimes.com/california/story/2021-09-19/fbi-seizure-cash-beverly-hills-vault-spawns-epic-court-battle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
