@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nano98: Windows 98 that boots and runs under 5MB](http://web.archive.org/web/20090209050149/http://www.etek.chalmers.se/~e8gus/nano98/)
-- [Get rid of those boolean function parameters (2015)](https://mortoray.com/2015/06/15/get-rid-of-those-boolean-function-parameters/)
-- [Linux Networking: MAC VLANs and Virtual Ethernets](http://www.pocketnix.org/posts/Linux%20Networking:%20MAC%20VLANs%20and%20Virtual%20Ethernets)
-- [Footage of Australian Raven Attacking a Wing Drone in Canberra, Australia](https://www.linkedin.com/posts/robertsforwriting_i-am-in-the-wing-delivery-area-in-canberra-activity-6845498818092498944-A8sh)
-- [Rendezvous Hashing Explained](https://randorithms.com/2020/12/26/rendezvous-hashing.html)
+- [Quran API – Free and simple access to the holy Quran](https://m3o.com/quran)
+- [Mozilla HTTP Observatory](https://observatory.mozilla.org/)
+- [If I could bring one thing back to the internet it would be blogs](http://tttthis.com/blog/if-i-could-bring-one-thing-back-to-the-internet-it-would-be-blogs)
+- [Nano98: Windows 98 that boots and runs under 5MB (2003)](http://web.archive.org/web/20090209050149/http://www.etek.chalmers.se/~e8gus/nano98/)
+- [Why has the price of electricity in Europe reached record highs?](https://www.economist.com/the-economist-explains/2021/09/15/why-has-the-price-of-electricity-in-europe-reached-record-highs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
