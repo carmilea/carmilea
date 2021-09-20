@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Networking: Mac VLANs and Virtual Ethernets](http://www.pocketnix.org/posts/Linux%20Networking:%20MAC%20VLANs%20and%20Virtual%20Ethernets)
+- [Nano98: Windows 98 that boots and runs under 5MB](http://web.archive.org/web/20090209050149/http://www.etek.chalmers.se/~e8gus/nano98/)
+- [Get rid of those boolean function parameters (2015)](https://mortoray.com/2015/06/15/get-rid-of-those-boolean-function-parameters/)
+- [Linux Networking: MAC VLANs and Virtual Ethernets](http://www.pocketnix.org/posts/Linux%20Networking:%20MAC%20VLANs%20and%20Virtual%20Ethernets)
 - [Footage of Australian Raven Attacking a Wing Drone in Canberra, Australia](https://www.linkedin.com/posts/robertsforwriting_i-am-in-the-wing-delivery-area-in-canberra-activity-6845498818092498944-A8sh)
-- [France cancels defence meeting with UK over submarine row, sources say](https://www.reuters.com/world/europe/france-cancels-defence-meeting-with-uk-over-submarine-row-sources-say-2021-09-19/)
 - [Rendezvous Hashing Explained](https://randorithms.com/2020/12/26/rendezvous-hashing.html)
-- [Xata – Database service for serverless apps](https://www.xata.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
