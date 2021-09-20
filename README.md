@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Quran API – Free and simple access to the holy Quran](https://m3o.com/quran)
+- [RocketLit (YC S16) Is Hiring](https://www.ycombinator.com/companies/rocketlit/jobs/63r2CMn-full-stack-mid-level-php-developer-for-ed-tech-remote-full-time-or-contract)
+- [Something big Just hit Jupiter](https://www.universetoday.com/152583/something-big-just-hit-jupiter/)
+- [Advice to New Managers: Don't Joke About Firing People](https://staysaasy.com/engineering/2020/06/09/Don%27t-Joke.html)
+- [VPN users unmasked by zero-day vulnerability in Virgin Media routers](https://portswigger.net/daily-swig/vpn-users-unmasked-by-zero-day-vulnerability-in-virgin-media-routers)
 - [Mozilla HTTP Observatory](https://observatory.mozilla.org/)
-- [If I could bring one thing back to the internet it would be blogs](http://tttthis.com/blog/if-i-could-bring-one-thing-back-to-the-internet-it-would-be-blogs)
-- [Nano98: Windows 98 that boots and runs under 5MB (2003)](http://web.archive.org/web/20090209050149/http://www.etek.chalmers.se/~e8gus/nano98/)
-- [Why has the price of electricity in Europe reached record highs?](https://www.economist.com/the-economist-explains/2021/09/15/why-has-the-price-of-electricity-in-europe-reached-record-highs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
