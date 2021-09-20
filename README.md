@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Home Price to Income Ratio](https://www.longtermtrends.net/home-price-median-annual-income-ratio/)
-- [There are six internet links on my office on wheels. Seven when Starlink arrives](https://ghuntley.com/internet/)
-- [Big tech’s pro-climate rhetoric is not matched by policy action, report finds](https://www.theguardian.com/environment/2021/sep/20/big-tech-climate-change)
-- [So what is the deal with A/UX anyways?](https://virtuallyfun.com/wordpress/2021/09/19/so-what-is-the-deal-with-a-ux-anyways/)
-- [How Indian lawyers, scientists gave Sci-Hub its first legal defence team](https://news.careers360.com/sci-hub-scihub-libgen-alexandra-elbakyan-lawsuit-india-delhi-high-court-du-sol-delhi-university-iiser-jnu-mit-iit-science-research-elsevier)
+- [FBI: Fortune seized in LA was criminals’ loot. Owners: Where’s the proof?](https://www.latimes.com/california/story/2021-09-19/fbi-seizure-cash-beverly-hills-vault-spawns-epic-court-battle)
+- [Excel as Code](https://github.com/GavinMendelGleason/excel_as_code)
+- [Show HN: A microservice framework, listed in CNCF Landscape, 1 year 10k+ stars](https://github.com/zeromicro/go-zero)
+- [Unmatched: Repairing the U.S. Medical Residency Pipeline](https://www.niskanencenter.org/unmatched-repairing-the-u-s-medical-residency-pipeline/)
+- [Ruby for eBook Publishing](https://nts.strzibny.name/ruby-for-ebook-publishing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
