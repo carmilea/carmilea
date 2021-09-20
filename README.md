@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xata – Database service for serverless apps](https://www.xata.io/)
+- [Germany’s no-emotion voting guide surges despite campaign of personalities](https://www.politico.eu/article/germany-election-2021-rational-voting-wahl-o-mat-survey/)
+- [Zerotier – multiple vulnerabilities lead to private network access](https://pulsesecurity.co.nz/advisories/Zerotier-Private-Network-Access.html)
 - [Why Figma Wins (2020)](https://kwokchain.com/2020/06/19/why-figma-wins/)
 - [Uncontrolled Spread: Science, Policy, Institutions, Infrastructure](https://future.a16z.com/podcasts/uncontrolled-spread-gottlieb-book-science-policy-institutions-technology-infrastructure-public-private-pandemic-emergency-beyond)
-- [Pen: A programming language for scalable development](https://github.com/pen-lang/pen)
-- [Revolt of the Delivery Workers](https://www.curbed.com/article/nyc-delivery-workers.html)
-- [An Introduction to WebRTC Simulcast](https://blog.livekit.io/an-introduction-to-webrtc-simulcast-6c5f1f6402eb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
