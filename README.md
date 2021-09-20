@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Full function emergency phone powered by a single AA with a 15 year shelf life](https://www.core77.com/posts/110069/Emergency-Phone-With-a-Surprising-Screen)
+- [Pen: The programming language for scalable development](https://github.com/pen-lang/pen)
+- [Father-Son Hacker Duo Is Helping People Crack into Their Lost Bitcoin](https://hypebeast.com/2021/9/bitcoin-wallet-hacker-chris-charlie-crypto-asset-recovery)
 - [Marketron Hit by Cyber Attack](https://radioinsight.com/headlines/213080/marketron-hit-by-cyber-attack/)
-- [New engine design could muffle roar of fighter jets](https://www.uc.edu/news/articles/2021/09/uc-engineers-quieter-jet-engines-for-fighter-planes.html)
-- [Bend-It: Design and Fabrication of Kinetic Wire Characters (2018)](https://la.disneyresearch.com/publication/bend-it/)
-- [Tribler:  Search and download torrents with less worries or censorship](https://www.tribler.org/)
-- [PCB Metro Map](https://chaijiaxun.com/pcb-metro-map-build-log/)
+- [Show HN: Errorpush – Minimalist Sentry alternative using PostgreSQL](https://github.com/hauxir/errorpush)
 <!-- BLOG-POST-LIST:END -->
 
 ---
