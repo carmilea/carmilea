@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [La Palma Volcano Live [video]](https://www.youtube.com/watch?v=4h67mS5teg8)
-- [Decision Making Under Uncertainty with POMDPs.jl](https://juliaacademy.com/p/decision-making-under-uncertainty-with-pomdps-jl)
-- [Subscribing to RSS Feeds on your E-Reader](https://wpfriends.at/2021/09/20/subscribing-to-rss-feeds-on-your-e-reader/)
-- [RocketLit (YC S16) Is Hiring](https://www.ycombinator.com/companies/rocketlit/jobs/63r2CMn-full-stack-mid-level-php-developer-for-ed-tech-remote-full-time-or-contract)
-- [Something big Just hit Jupiter](https://www.universetoday.com/152583/something-big-just-hit-jupiter/)
+- [There are six internet links on my office on wheels. Seven when Starlink arrives](https://ghuntley.com/internet/)
+- [Big tech’s pro-climate rhetoric is not matched by policy action, report finds](https://www.theguardian.com/environment/2021/sep/20/big-tech-climate-change)
+- [So what is the deal with A/UX anyways?](https://virtuallyfun.com/wordpress/2021/09/19/so-what-is-the-deal-with-a-ux-anyways/)
+- [Watch an election being stolen in realtime](https://twitter.com/jsrailton/status/1439545705765408771)
+- [How Indian lawyers, scientists gave Sci-Hub its first legal defence team](https://news.careers360.com/sci-hub-scihub-libgen-alexandra-elbakyan-lawsuit-india-delhi-high-court-du-sol-delhi-university-iiser-jnu-mit-iit-science-research-elsevier)
 <!-- BLOG-POST-LIST:END -->
 
 ---
