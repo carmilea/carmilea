@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. sanctions virtual currency exchange after spike in ransomware attacks](https://www.cbsnews.com/news/cryptocurrency-exchange-sanctions-name-biden-administration/)
 - [Compound (YC S19) is hiring designers to build products for startup employees](https://withcompound.com/)
 - [The truly epic BYTE magazine covers by Robert Tinney](https://lunduke.substack.com/p/the-truly-epic-byte-magazine-covers)
 - [The Framework is the most exciting laptop I've ever used](https://pluralistic.net/2021/09/21/monica-byrne/#think-different)
 - [ZeroTier – Incident Response to September 20th 2021](https://www.zerotier.com/2021/09/21/incident-response-to-september-20th-2021/)
-- [Internet Freedom Around the World Declines for 11th Consecutive Year](https://freedomhouse.org/report/freedom-net/2021/global-drive-control-big-tech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
