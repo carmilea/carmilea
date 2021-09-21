@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What can I do to actively fight climate change?](https://news.ycombinator.com/item?id=28601257)
+- [Ruby Packer: distribute your Ruby code as a compiled binary](https://github.com/pmq20/ruby-packer)
+- [I started SaaS companies in 2013 and 2021. Here's how things have changed](https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed/)
 - [Jerry (YC S17) Is Hiring](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [A function decorator that rewrites the bytecode to enable goto in Python](https://github.com/snoack/python-goto)
-- [What's the deal with tab size (8 spaces) in the GitHub UI?](https://github.community/t/whats-the-deal-with-tab-sizes-on-github-gists/954)
-- [Structural pattern matching in Python 3.10](https://benhoyt.com/writings/python-pattern-matching/)
-- [What is this Gemini thing, and why am I excited about it? (2020)](https://drewdevault.com/2020/11/01/What-is-Gemini-anyway.html)
+- [Python GUIs for Humans – Transforms UI into People-Friendly Pythonic Interfaces](https://github.com/PySimpleGUI/PySimpleGUI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
