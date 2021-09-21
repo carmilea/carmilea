@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. sanctions virtual currency exchange after spike in ransomware attacks](https://www.cbsnews.com/news/cryptocurrency-exchange-sanctions-name-biden-administration/)
-- [Compound (YC S19) is hiring designers to build products for startup employees](https://withcompound.com/)
-- [The truly epic BYTE magazine covers by Robert Tinney](https://lunduke.substack.com/p/the-truly-epic-byte-magazine-covers)
-- [The Framework is the most exciting laptop I've ever used](https://pluralistic.net/2021/09/21/monica-byrne/#think-different)
-- [ZeroTier – Incident Response to September 20th 2021](https://www.zerotier.com/2021/09/21/incident-response-to-september-20th-2021/)
+- [Are You Playing to Play, or Playing to Win?](https://commoncog.com/blog/playing-to-play-playing-to-win/)
+- [WhatsApp addiction and BPD: A new therapeutic challenge](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4919976/)
+- [Taming Go’s Memory Usage, or How We Avoided Rewriting Our Client in Rust](https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust)
+- [Manyverse – A social network off the grid](https://www.manyver.se/)
+- [Rome will be written in Rust](https://rome.tools/blog/2021/09/21/rome-will-be-rewritten-in-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
