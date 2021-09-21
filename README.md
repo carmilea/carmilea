@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are You Playing to Play, or Playing to Win?](https://commoncog.com/blog/playing-to-play-playing-to-win/)
-- [WhatsApp addiction and BPD: A new therapeutic challenge](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4919976/)
+- [MIT study finds Tesla drivers become inattentive when Autopilot is activated](https://techcrunch.com/2021/09/20/mit-study-finds-tesla-drivers-become-inattentive-when-autopilot-is-activated/)
+- [Are you playing to play, or playing to win?](https://commoncog.com/blog/playing-to-play-playing-to-win/)
 - [Taming Go’s Memory Usage, or How We Avoided Rewriting Our Client in Rust](https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust)
 - [Manyverse – A social network off the grid](https://www.manyver.se/)
-- [Rome will be written in Rust](https://rome.tools/blog/2021/09/21/rome-will-be-rewritten-in-rust)
+- [U.S. sanctions virtual currency exchange after spike in ransomware attacks](https://www.cbsnews.com/news/cryptocurrency-exchange-sanctions-name-biden-administration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
