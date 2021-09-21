@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Former NSA Hacker Describes Being Recruited for UAE Spy Program](https://zetter.substack.com/p/former-nsa-hacker-describes-being)
 - [Amazon’s AI cameras are punishing drivers for mistakes they didn’t make](https://www.vice.com/en/article/88npjv/amazons-ai-cameras-are-punishing-drivers-for-mistakes-they-didnt-make)
 - [GitHub Actions: Ephemeral self-hosted runners and new webhooks for auto-scaling](https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/)
 - [Arm AArch64 Adds Memcpy() Instructions](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/arm-a-profile-architecture-developments-2021)
-- [Ruby Packer: distribute your Ruby code as a compiled binary](https://github.com/pmq20/ruby-packer)
-- [I started SaaS companies in 2013 and 2021 – how things have changed](https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed/)
+- [Ipv6excuses.com](https://ipv6excuses.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
