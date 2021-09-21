@@ -55,7 +55,7 @@
 - [Amazon’s AI cameras are punishing drivers for mistakes they didn’t make](https://www.vice.com/en/article/88npjv/amazons-ai-cameras-are-punishing-drivers-for-mistakes-they-didnt-make)
 - [GitHub Actions: Ephemeral self-hosted runners and new webhooks for auto-scaling](https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/)
 - [Arm AArch64 Adds Memcpy() Instructions](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/arm-a-profile-architecture-developments-2021)
-- [Ipv6excuses.com](https://ipv6excuses.com/)
+- [Theatre.js: Animation motion design editor / library for high-fidelity graphics](https://github.com/AriaMinaei/theatre)
 <!-- BLOG-POST-LIST:END -->
 
 ---
