@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No More Apologies: Inside Facebook’s Push to Defend Its Image](https://www.nytimes.com/2021/09/21/technology/zuckerberg-facebook-project-amplify.html)
+- [DOJ Sues to Block Domestic Alliance Between American Airlines and JetBlue](https://www.justice.gov/opa/pr/justice-department-sues-block-unprecedented-domestic-alliance-between-american-airlines-and)
 - [Mux is looking for engineers with experience building WebRTC infrastructure](https://mux.com/jobs?hnj=real-time-video)
-- [Goats Became the Unconventional Weapon Against Wildfires](https://www.nytimes.com/2021/09/18/business/wildfires-goats-prevention.html)
-- [What Happened to Safe: Valuation Cap and Discount?](https://www.ycombinator.com/documents/)
-- [Roblox Introducing Age Verification System, Includes Government ID Scan](https://blog.roblox.com/2021/09/introducing-age-verification/)
-- [Django 4.0 alpha 1 released](https://www.djangoproject.com/weblog/2021/sep/21/django-40-alpha-1-released/)
+- [The Hitchhiker's Guide to Kotlin](https://nathan-contino.github.io/site,/name,/colors,/web/2020/12/11/hitchhikersGuideToKotlin.html)
+- [Introduction to Hippo: The WebAssembly PaaS](https://deislabs.io/posts/introducing-hippo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
