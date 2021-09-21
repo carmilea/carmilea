@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin (YC S15) Is Hiring a Developer Advocate (Remote)](https://bitmovin.com/careers/5520683002)
 - [Autumn Lisp Game Jam 2021](https://itch.io/jam/autumn-lisp-game-jam-2021)
+- [Show HN: Qodebeam - platform for data sharing between users and services](https://qodebeam.com)
 - [Build Deeper Connections with Friends](https://www.hmsklt.app)
-- [Trailerduck is a smart e-bike trailer](https://www.autoevolution.com/news/trailerduck-is-a-smart-e-bike-trailer-thats-bound-to-make-city-life-easier-168072.html)
 - [Epolevne by Kultisti](https://kultisti.itch.io/epolevne)
-- [Royal Holloway music professor quits over cancel culture](https://www.thetimes.co.uk/article/royal-holloway-music-professor-quits-cancel-culture-spd08wkfj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
