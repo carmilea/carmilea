@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Database containing personal info of 106M visitors to Thailand exposed online](https://www.comparitech.com/blog/information-security/thai-traveler-data-leak/)
-- [A Tunguska size burst destroyed Tall el-Hammam, Bronze Age city in Jordan Valley](https://www.nature.com/articles/s41598-021-97778-3)
-- [Former NSA Hacker Describes Being Recruited for UAE Spy Program](https://zetter.substack.com/p/former-nsa-hacker-describes-being)
-- [Amazon’s AI cameras are punishing drivers for mistakes they didn’t make](https://www.vice.com/en/article/88npjv/amazons-ai-cameras-are-punishing-drivers-for-mistakes-they-didnt-make)
-- [GitHub Actions: Ephemeral self-hosted runners and new webhooks for auto-scaling](https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/)
+- [Autumn Lisp Game Jam 2021](https://itch.io/jam/autumn-lisp-game-jam-2021)
+- [Build Deeper Connections with Friends](https://www.hmsklt.app)
+- [Trailerduck is a smart e-bike trailer](https://www.autoevolution.com/news/trailerduck-is-a-smart-e-bike-trailer-thats-bound-to-make-city-life-easier-168072.html)
+- [Epolevne by Kultisti](https://kultisti.itch.io/epolevne)
+- [Royal Holloway music professor quits over cancel culture](https://www.thetimes.co.uk/article/royal-holloway-music-professor-quits-cancel-culture-spd08wkfj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
