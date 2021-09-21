@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI held back ransomware decryption key to run operation targeting hackers](https://www.washingtonpost.com/national-security/ransomware-fbi-revil-decryption-key/2021/09/21/4a9417d0-f15f-11eb-a452-4da5fe48582d_story.html)
+- [Ask HN: How do I easily catalog a couple thousand physical books?](https://news.ycombinator.com/item?id=28605777)
 - [Robots Must Be Ephemeralized](https://blog.evjang.com/2021/09/ephemeralization.html)
-- [Amazon’s new Kindle Paperwhite adds bigger screen, longer battery life and USB-C](https://www.theverge.com/2021/9/21/22684801/amazon-kindle-paperwhite-features-price-release-date)
+- [Amazon’s new Kindle Paperwhite](https://www.theverge.com/2021/9/21/22684801/amazon-kindle-paperwhite-features-price-release-date)
 - [BlackRock and HSBC funds boosted Evergrande holdings as crisis loomed](https://www.ft.com/content/87fddf09-ef69-49b3-87bc-1a2d84fffd91)
-- [NYT Confirms Israel Killed an Iranian Nuclear Scientist with a Robot Sniper](https://futurism.com/the-byte/nyt-israel-robot-sniper)
-- [Mathematician Answers Chess Problem About Attacking Queens](https://www.quantamagazine.org/mathematician-answers-chess-problem-about-attacking-queens-20210921/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
