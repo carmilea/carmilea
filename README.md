@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MIT study finds Tesla drivers become inattentive when Autopilot is activated](https://techcrunch.com/2021/09/20/mit-study-finds-tesla-drivers-become-inattentive-when-autopilot-is-activated/)
-- [Are you playing to play, or playing to win?](https://commoncog.com/blog/playing-to-play-playing-to-win/)
-- [Taming Go’s Memory Usage, or How We Avoided Rewriting Our Client in Rust](https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust)
-- [Manyverse – A social network off the grid](https://www.manyver.se/)
-- [U.S. sanctions virtual currency exchange after spike in ransomware attacks](https://www.cbsnews.com/news/cryptocurrency-exchange-sanctions-name-biden-administration/)
+- [Mux is looking for engineers with experience building WebRTC infrastructure](https://mux.com/jobs?hnj=real-time-video)
+- [Goats Became the Unconventional Weapon Against Wildfires](https://www.nytimes.com/2021/09/18/business/wildfires-goats-prevention.html)
+- [What Happened to Safe: Valuation Cap and Discount?](https://www.ycombinator.com/documents/)
+- [Roblox Introducing Age Verification System, Includes Government ID Scan](https://blog.roblox.com/2021/09/introducing-age-verification/)
+- [Django 4.0 alpha 1 released](https://www.djangoproject.com/weblog/2021/sep/21/django-40-alpha-1-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
