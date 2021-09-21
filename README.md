@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [More Casio Watch Mods (LCD Colors, Transparent Display, Micro SD, Strap Remover)](https://n-o-d-e.net/watch_mods.html)
 - [Bitmovin (YC S15) Is Hiring a Developer Advocate (Remote)](https://bitmovin.com/careers/5520683002)
 - [Autumn Lisp Game Jam 2021](https://itch.io/jam/autumn-lisp-game-jam-2021)
 - [Show HN: Qodebeam - platform for data sharing between users and services](https://qodebeam.com)
 - [Build Deeper Connections with Friends](https://www.hmsklt.app)
-- [Epolevne by Kultisti](https://kultisti.itch.io/epolevne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
