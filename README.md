@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Actuarial Notation](https://en.wikipedia.org/wiki/Actuarial_notation)
-- [More Casio Watch Mods (2017)](https://n-o-d-e.net/watch_mods.html)
-- [J&J Says Its Booster Shot Provides Increased Protection from Covid](https://www.npr.org/2021/09/21/1039168781/johnson-johnson-booster-shot-provides-increased-protection-from-covid)
-- [Bitmovin (YC S15) Is Hiring a Developer Advocate (Remote)](https://bitmovin.com/careers/5520683002)
-- [Show HN: Qodebeam - platform for data sharing between users and services](https://qodebeam.com)
+- [Robots Must Be Ephemeralized](https://blog.evjang.com/2021/09/ephemeralization.html)
+- [Amazon’s new Kindle Paperwhite adds bigger screen, longer battery life and USB-C](https://www.theverge.com/2021/9/21/22684801/amazon-kindle-paperwhite-features-price-release-date)
+- [BlackRock and HSBC funds boosted Evergrande holdings as crisis loomed](https://www.ft.com/content/87fddf09-ef69-49b3-87bc-1a2d84fffd91)
+- [NYT Confirms Israel Killed an Iranian Nuclear Scientist with a Robot Sniper](https://futurism.com/the-byte/nyt-israel-robot-sniper)
+- [Mathematician Answers Chess Problem About Attacking Queens](https://www.quantamagazine.org/mathematician-answers-chess-problem-about-attacking-queens-20210921/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
