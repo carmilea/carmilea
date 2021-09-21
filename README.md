@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI held back ransomware decryption key to run operation targeting hackers](https://www.washingtonpost.com/national-security/ransomware-fbi-revil-decryption-key/2021/09/21/4a9417d0-f15f-11eb-a452-4da5fe48582d_story.html)
-- [Ask HN: How do I easily catalog a couple thousand physical books?](https://news.ycombinator.com/item?id=28605777)
-- [Robots Must Be Ephemeralized](https://blog.evjang.com/2021/09/ephemeralization.html)
-- [Amazon’s new Kindle Paperwhite](https://www.theverge.com/2021/9/21/22684801/amazon-kindle-paperwhite-features-price-release-date)
-- [BlackRock and HSBC funds boosted Evergrande holdings as crisis loomed](https://www.ft.com/content/87fddf09-ef69-49b3-87bc-1a2d84fffd91)
+- [Compound (YC S19) is hiring designers to build products for startup employees](https://withcompound.com/)
+- [The truly epic BYTE magazine covers by Robert Tinney](https://lunduke.substack.com/p/the-truly-epic-byte-magazine-covers)
+- [The Framework is the most exciting laptop I've ever used](https://pluralistic.net/2021/09/21/monica-byrne/#think-different)
+- [ZeroTier – Incident Response to September 20th 2021](https://www.zerotier.com/2021/09/21/incident-response-to-september-20th-2021/)
+- [Internet Freedom Around the World Declines for 11th Consecutive Year](https://freedomhouse.org/report/freedom-net/2021/global-drive-control-big-tech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
