@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous (YC S21) Is Hiring First Engineer (London and Remote)](https://news.ycombinator.com/item?id=28615351)
+- [Principles of Green Software Engineering](https://principles.green/)
+- [2,400 LED Icosahedron](https://gregdavill.com/blog/d20)
 - [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/)
-- [Share video feed (camera, screen, file, etc.) from ffmpeg to web(rtc)](https://github.com/ashellunts/ffmpeg-to-webrtc)
-- [Agile Is Dead, McKinsey Just Killed It](https://terem.tech/agile-is-dead/)
-- [Mother of all lawsuits quietly filed last month vs. Facebook in Delaware](https://twitter.com/jason_kint/status/1440304941428473857)
-- [Taloflow (YC W21) Is Hiring a Front-End Developer (Contract / Project)](https://www.ycombinator.com/companies/taloflow/jobs/kG3E8h1-contract-front-end-developer-for-2-4-week-project)
+- [FFmpeg to WebRTC](https://github.com/ashellunts/ffmpeg-to-webrtc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
