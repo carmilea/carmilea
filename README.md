@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [VergeSense (YC S17) Is Hiring Machine Learning Engineers](https://www.ycombinator.com/companies/vergesense/jobs/0moZx0r-machine-learning-engineer)
+- [Brave Launches Brave Talk for Privacy-Preserving Video Conferencing](https://brave.com/brave-talk-launch/)
 - [Hospitals lift curtain on prices, revealing swings in pricing by procedure](https://www.healthcaredive.com/news/hospitals-price-transparency-spotty-compliance-swings-price/596183/)
 - [Spook: Side channel attack which could read the memory from Password Managers](https://www.spookjs.com/)
 - [Mitigating Lunar Dust: Masten Completes Fast Landing Pad Study](https://masten.aero/blog/mitigating-lunar-dust-masten-completes-fast-landing-pad-study/)
-- [Decentralizing the Internet's Root](https://blog.ipfs.io/decentralizing-the-internet-s-root/)
-- [Workers are often told not to talk about pay. That's not legal](https://www.usatoday.com/story/money/2021/09/21/north-carolina-workers-discuss-wages-despite-workplace-rule/5796705001/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
