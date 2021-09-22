@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Objectivity and rigor are “harmful practices,” says major DC think tank](https://twitter.com/zaidjilani/status/1440468467484815368)
-- [List of Lists of Lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
-- [Amazon Is Lobbying the US Government to Make Pot Legal](https://www.businessinsider.com/amazon-lobbying-us-government-to-make-pot-legal-2021-9)
-- [Meticulous (YC S21) Is Hiring First Engineer (London and Remote)](https://news.ycombinator.com/item?id=28615351)
-- [Principles of Green Software Engineering](https://principles.green/)
+- [Leaving the Apple ecosystem behind](https://h2x.sh/apple/)
+- [Lesson of ivermectin: meta-analyses based on summary data alone are unreliable](https://www.nature.com/articles/s41591-021-01535-y?error=cookies_not_supported&code=812c9165-4140-416f-aaf8-f0b91736a86c)
+- [Stop Reading News (2013)](https://fs.blog/2013/12/stop-reading-news/)
+- [ROT8000](http://rot8000.com/info)
+- [Some Netgear Routers Need to Be Patched Immediately](https://www.pcmag.com/news/thanks-to-disney-11-netgear-routers-need-to-be-patched-immediately)
 <!-- BLOG-POST-LIST:END -->
 
 ---
