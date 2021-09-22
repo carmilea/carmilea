@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mother of all lawsuits quietly filed last month vs. Facebook in Delaware](https://twitter.com/jason_kint/status/1440304941428473857)
+- [Busting the 10x software engineer myth](https://www.swarmia.com/blog/busting-the-10x-software-engineer-myth/)
 - [Taloflow (YC W21) Is Hiring a Front-End Developer (Contract / Project)](https://www.ycombinator.com/companies/taloflow/jobs/kG3E8h1-contract-front-end-developer-for-2-4-week-project)
 - [Below: A time travelling resource monitoring tool](https://developers.facebook.com/blog/post/2021/09/21/below-time-travelling-resource-monitoring-tool/)
 - [The First Rule of Machine Learning: Start Without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/)
-- [The first and last time AIM was hacked](https://g.livejournal.com/8390.html)
-- [The Open Book Project: open-hardware e-ink eBook reader](https://github.com/joeycastillo/The-Open-Book)
 <!-- BLOG-POST-LIST:END -->
 
 ---
