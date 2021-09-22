@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Below: A time travelling resource monitoring tool](https://developers.facebook.com/blog/post/2021/09/21/below-time-travelling-resource-monitoring-tool/)
+- [Germany is not as stable as we think. Just ask its preppers](https://www.economist.com/1843/2021/09/17/germany-is-not-as-stable-as-we-think-just-ask-its-preppers)
 - [The First Rule of Machine Learning: Start Without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/)
 - [The first and last time AIM was hacked](https://g.livejournal.com/8390.html)
-- [Cosmic Rays Flipping Bits](https://www.johndcook.com/blog/2019/05/20/cosmic-rays-flipping-bits/)
 - [Earthquake in Melbourne, Australia (9.15 AM 22nd Sep 21, AEST)](https://earthquakes.ga.gov.au/event/ga2021sqogij)
-- [The Open Book Project: open-hardware e-ink eBook reader](https://github.com/joeycastillo/The-Open-Book)
 <!-- BLOG-POST-LIST:END -->
 
 ---
