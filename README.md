@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Walking Trees, Parasitic Flowers, and Other Remarkable Plants](https://thereader.mitpress.mit.edu/walking-trees-parasitic-flowers-remarkable-plants-illustrated-guide/)
+- [Goldman Sachs: Here’s How Oil Prices Could Reach $90 This Winter](https://oilprice.com/Energy/Oil-Prices/Goldman-Sachs-Heres-How-Oil-Prices-Could-Reach-90-This-Winter.html)
 - [Cow Dung Capitalism (2016)](https://openthemagazine.com/cover-stories/cow-dung-capitalism-milking-the-holy-cow/)
-- [Asteroid Spotting](https://www.worksinprogress.co/issue/asteroid-spotting/)
+- [Raspberry Pi KVMs Compared: TinyPilot and Pi-KVM v3](http://www.jeffgeerling.com/blog/2021/raspberry-pi-kvms-compared-tinypilot-and-pi-kvm-v3)
 - [Understanding Pakistan through the story of Karachi](https://lithub.com/understanding-pakistan-through-the-story-of-karachi/)
-- [‘Every message was copied to the police’](https://www.theguardian.com/australia-news/2021/sep/11/inside-story-most-daring-surveillance-sting-in-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
