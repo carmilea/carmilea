@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Waydroid – run Android containers on Ubuntu](https://waydro.id/)
-- [Improve Your Life with Long Error Messages](https://blog.appsignal.com/2021/09/22/improve-your-life-with-long-error-messages.html)
-- [Xiaomi Phones can detect terms such as “Free Tibet”. Lithuania discovered](https://twitter.com/anneapplebaum/status/1440601477706178560)
-- [Startup aims to make piloting a jetpack as easy as flying a drone](https://spectrum.ieee.org/will-this-jetpack-fly-itself)
-- [Andrew Left banned from trading in HK for saying China Evergrande was insolvent](https://www.institutionalinvestor.com/article/b1sz8v1gt3f5rh/Andrew-Left-Was-Banned-From-Trading-in-Hong-Kong-for-Saying-China-Evergrande-Group-Was-Insolvent-Was-He-Right-All-Along)
+- [Hospitals lift curtain on prices, revealing swings in pricing by procedure](https://www.healthcaredive.com/news/hospitals-price-transparency-spotty-compliance-swings-price/596183/)
+- [Spook: Side channel attack which could read the memory from Password Managers](https://www.spookjs.com/)
+- [Mitigating Lunar Dust: Masten Completes Fast Landing Pad Study](https://masten.aero/blog/mitigating-lunar-dust-masten-completes-fast-landing-pad-study/)
+- [Decentralizing the Internet's Root](https://blog.ipfs.io/decentralizing-the-internet-s-root/)
+- [Workers are often told not to talk about pay. That's not legal](https://www.usatoday.com/story/money/2021/09/21/north-carolina-workers-discuss-wages-despite-workplace-rule/5796705001/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
