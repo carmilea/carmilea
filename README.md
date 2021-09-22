@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alabama Had More Deaths Than Births in 2020](https://www.npr.org/2021/09/20/1038950564/alabama-deaths-births-2020-coronavirus-surge-vaccination-rate)
+- [Cosmic Rays Flipping Bits](https://www.johndcook.com/blog/2019/05/20/cosmic-rays-flipping-bits/)
+- [Earthquake in Melbourne, Australia (9.15 AM 22nd Sep 21, AEST)](https://earthquakes.ga.gov.au/)
 - [The Open Book Project: open-hardware e-ink eBook reader](https://github.com/joeycastillo/The-Open-Book)
 - [TikTokers Are Trading Stocks by Copying What Members of Congress Do](https://text.npr.org/1039313011)
-- [DOJ sues to block domestic alliance between American Airlines and JetBlue](https://www.justice.gov/opa/pr/justice-department-sues-block-unprecedented-domestic-alliance-between-american-airlines-and)
-- [Confessions of a Michelin Star Inspector](https://www.luxeat.com/blog/confessions-of-a-michelin-inspector/)
-- [Mux is looking for engineers with experience building WebRTC infrastructure](https://mux.com/jobs?hnj=real-time-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
