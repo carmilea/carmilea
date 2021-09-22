@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Objectivity and rigor are “harmful practices,” says major DC think tank](https://twitter.com/zaidjilani/status/1440468467484815368)
+- [List of Lists of Lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
+- [Amazon Is Lobbying the US Government to Make Pot Legal](https://www.businessinsider.com/amazon-lobbying-us-government-to-make-pot-legal-2021-9)
 - [Meticulous (YC S21) Is Hiring First Engineer (London and Remote)](https://news.ycombinator.com/item?id=28615351)
 - [Principles of Green Software Engineering](https://principles.green/)
-- [2,400 LED Icosahedron](https://gregdavill.com/blog/d20)
-- [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/)
-- [FFmpeg to WebRTC](https://github.com/ashellunts/ffmpeg-to-webrtc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
