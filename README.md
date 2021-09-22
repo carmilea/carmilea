@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mother of all lawsuits quietly filed last month vs. Facebook in Delaware](https://twitter.com/jason_kint/status/1440304941428473857)
-- [Busting the 10x software engineer myth](https://www.swarmia.com/blog/busting-the-10x-software-engineer-myth/)
-- [Taloflow (YC W21) Is Hiring a Front-End Developer (Contract / Project)](https://www.ycombinator.com/companies/taloflow/jobs/kG3E8h1-contract-front-end-developer-for-2-4-week-project)
-- [Below: A time travelling resource monitoring tool](https://developers.facebook.com/blog/post/2021/09/21/below-time-travelling-resource-monitoring-tool/)
-- [The First Rule of Machine Learning: Start Without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/)
+- [DuckDuckGo Is Now Carbon Negative](https://spreadprivacy.com/duckduckgo-goes-carbon-negative/)
+- [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/)
+- [Share video feed (camera, screen, file, etc.) from ffmpeg to web(rtc)](https://github.com/ashellunts/ffmpeg-to-webrtc)
+- [Agile Is Dead, McKinsey Just Killed It](https://terem.tech/agile-is-dead/)
+- [Sweden’s Cultural Revolution](https://unherd.com/2021/09/swedens-cultural-revolution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
