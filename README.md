@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [VergeSense (YC S17) Is Hiring Machine Learning Engineers](https://www.ycombinator.com/companies/vergesense/jobs/0moZx0r-machine-learning-engineer)
-- [Brave Launches Brave Talk for Privacy-Preserving Video Conferencing](https://brave.com/brave-talk-launch/)
-- [Hospitals lift curtain on prices, revealing swings in pricing by procedure](https://www.healthcaredive.com/news/hospitals-price-transparency-spotty-compliance-swings-price/596183/)
-- [Spook: Side channel attack which could read the memory from Password Managers](https://www.spookjs.com/)
-- [Mitigating Lunar Dust: Masten Completes Fast Landing Pad Study](https://masten.aero/blog/mitigating-lunar-dust-masten-completes-fast-landing-pad-study/)
+- [Walking Trees, Parasitic Flowers, and Other Remarkable Plants](https://thereader.mitpress.mit.edu/walking-trees-parasitic-flowers-remarkable-plants-illustrated-guide/)
+- [Cow Dung Capitalism (2016)](https://openthemagazine.com/cover-stories/cow-dung-capitalism-milking-the-holy-cow/)
+- [Asteroid Spotting](https://www.worksinprogress.co/issue/asteroid-spotting/)
+- [Understanding Pakistan through the story of Karachi](https://lithub.com/understanding-pakistan-through-the-story-of-karachi/)
+- [‘Every message was copied to the police’](https://www.theguardian.com/australia-news/2021/sep/11/inside-story-most-daring-surveillance-sting-in-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
