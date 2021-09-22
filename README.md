@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The First Rule of Machine Learning: Start Without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/)
 - [The first and last time AIM was hacked](https://g.livejournal.com/8390.html)
 - [Cosmic Rays Flipping Bits](https://www.johndcook.com/blog/2019/05/20/cosmic-rays-flipping-bits/)
 - [Earthquake in Melbourne, Australia (9.15 AM 22nd Sep 21, AEST)](https://earthquakes.ga.gov.au/event/ga2021sqogij)
 - [The Open Book Project: open-hardware e-ink eBook reader](https://github.com/joeycastillo/The-Open-Book)
-- [TikTokers Are Trading Stocks by Copying What Members of Congress Do](https://text.npr.org/1039313011)
 <!-- BLOG-POST-LIST:END -->
 
 ---
