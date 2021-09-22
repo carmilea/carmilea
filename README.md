@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CoinTracker (YC W18) is hiring first PM to make cryptocurrency accessible](https://www.cointracker.io/careers)
+- [Google Drive of Historical Footage Locked and Flagged as Terrorist Activity](https://support.google.com/drive/thread/127021326/google-has-locked-my-account-for-sharing-a-historical-archive-they-labeled-as-terrorist-activity?hl=en)
+- [Lab-grown meat companies may be on a billion-dollar crash course with reality](https://thecounter.org/lab-grown-cultivated-meat-cost-at-scale/)
+- [Micro-Max, a 133-line Chess Source](https://home.hccnet.nl/h.g.muller/max-src2.html)
 - [How We Got to LiveView](https://fly.io/blog/how-we-got-to-liveview/)
-- [Walking Trees, Parasitic Flowers, and Other Remarkable Plants](https://thereader.mitpress.mit.edu/walking-trees-parasitic-flowers-remarkable-plants-illustrated-guide/)
-- [Goldman Sachs: Here’s How Oil Prices Could Reach $90 This Winter](https://oilprice.com/Energy/Oil-Prices/Goldman-Sachs-Heres-How-Oil-Prices-Could-Reach-90-This-Winter.html)
-- [Raspberry Pi KVMs Compared: TinyPilot and Pi-KVM v3](http://www.jeffgeerling.com/blog/2021/raspberry-pi-kvms-compared-tinypilot-and-pi-kvm-v3)
-- [Understanding Pakistan through the story of Karachi](https://lithub.com/understanding-pakistan-through-the-story-of-karachi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
