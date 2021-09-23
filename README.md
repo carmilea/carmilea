@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fourier Series Visualisation with D3](https://bl.ocks.org/jinroh/7524988)
-- [RedBalloon – The Free Speech Job Board](https://redballoon.work/)
-- [Facebook paid billions extra to the FTC to spare Zuckerberg in data suit](https://www.politico.com/news/2021/09/21/facebook-paid-billions-extra-to-the-ftc-to-spare-zuckerberg-in-data-suit-shareholders-allege-513456)
-- [Twitter enables tipping with Bitcoin, plans to let users authenticate NFTs](https://www.theverge.com/2021/9/23/22689806/twitter-bitcoin-lightning-tipping-nft-authentication)
-- [Tesla pushes U.S. to boost fuel economy penalties](https://www.autonews.com/regulation-safety/tesla-pushes-us-boost-fuel-economy-penalties)
+- [Give Notion the Superpowers of Google Sheets](https://notion2sheets.com/)
+- [What the Tibetan Book of the Dead Teaches Us About Life](https://catapult.co/stories/darjeeling-journal-what-the-tibetan-book-of-the-dead-teaches-us-about-life-ann-tashi-slater)
+- [Native-Land.ca – Our home on native land](https://native-land.ca/)
+- [Mozilla Says Chrome’s Latest Feature Enables Surveillance](https://www.howtogeek.com/756338/mozilla-says-chromes-latest-feature-enables-surveillance/)
+- [gRPC for Microservices Communication](https://techdozo.dev/grpc-for-microservices-communication/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
