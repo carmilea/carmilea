@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It costs $436 to deploy a smartcontract on Ethereum](https://twitter.com/eric_khun/status/1440899940453060608)
+- [EU plans to force OEMs to use a common charger for all phones](https://www.xda-developers.com/eu-plans-common-phone-charger/)
+- [Delphi 11 Alexandria Has Been Released](https://blog.marcocantu.com/blog/2021-september-delphi-11-released.html)
 - [Sid Meier and the meaning of ‘Civilization’](https://www.newyorker.com/books/under-review/sid-meier-and-the-meaning-of-civilization)
 - [Updated WHO global air quality guidelines](https://apps.who.int/iris/handle/10665/345329)
 - [Haku: A toy functional programming language based on literary Japanese](https://codeberg.org/wimvanderbauwhede/haku)
-- [AWS Region Coming to New Zealand](https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-new-zealand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
