@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The SaaS Template](https://github.com/gmpetrov/utlimate-saas-js)
+- [Covid-19 overtakes 1918 Spanish flu as deadliest disease in American history](https://www.statnews.com/2021/09/20/covid-19-set-to-overtake-1918-spanish-flu-as-deadliest-disease-in-american-history/)
+- [EU about to pass USB-C law](https://www.theverge.com/2021/9/23/22626723/eu-commission-universal-charger-usb-c-micro-lightning-connector-smartphones)
 - [Apple threatened Facebook ban over slavery posts on Instagram](https://www.bbc.co.uk/news/technology-58645547)
-- [Infracost (YC W21) Is Hiring a Sr Software Engineer: Love Your Cloud Bills](https://www.ycombinator.com/companies/infracost/jobs/9fGDG72-senior-software-engineer)
-- [2006: Dwarf Fortress](https://if50.substack.com/p/2006-dwarf-fortress)
-- [Authenticated Boot and Disk Encryption on Linux](http://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html)
-- [SR-72 ‘Son of Blackbird’: USAF’s Mach 6 Monster](https://www.19fortyfive.com/2021/09/sr-72-son-of-blackbird-the-air-forces-mach-6-monster/)
+- [Show HN: Logparser – Alternative to GoAccess Written in Python](https://github.com/lucianmarin/logparser)
 <!-- BLOG-POST-LIST:END -->
 
 ---
