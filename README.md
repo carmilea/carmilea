@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It costs $436 to deploy a smartcontract on Ethereum](https://twitter.com/eric_khun/status/1440899940453060608)
+- [We Need Software Updates Forever](https://spectrum.ieee.org/we-need-software-updates-forever)
+- [How people reason their way through echo chambers and what might guide them out](https://www.niemanlab.org/2021/09/this-study-shows-how-people-reason-their-way-through-echo-chambers-and-what-might-guide-them-out/)
+- [Sid Meier and the meaning of ‘Civilization’](https://www.newyorker.com/books/under-review/sid-meier-and-the-meaning-of-civilization)
 - [Updated WHO global air quality guidelines](https://apps.who.int/iris/handle/10665/345329)
-- [Haku: A toy functional programming language based on literary Japanese](https://codeberg.org/wimvanderbauwhede/haku)
-- [AWS Region Coming to New Zealand](https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-new-zealand/)
-- [Nyxt 2.2.0](https://nyxt.atlas.engineer/article/release-2.2.0.org)
-- [Show HN: A pattern generator with 1300 shapes and 300 dpi](https://tool.graphics/geometric)
 <!-- BLOG-POST-LIST:END -->
 
 ---
