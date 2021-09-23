@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Will Not Reinstate Epic’s Fortnite Developer Account](https://daringfireball.net/2021/09/epic_apple_developer_accounts)
+- [Google Finally Shifting to “Upstream First” Linux Kernel Approach for Android](https://www.phoronix.com/scan.php?page=news_item&px=Android-Linux-Upstream-First)
 - [EU plans to force OEMs to use a common charger for all phones](https://www.xda-developers.com/eu-plans-common-phone-charger/)
 - [Delphi 11 Alexandria Has Been Released](https://blog.marcocantu.com/blog/2021-september-delphi-11-released.html)
 - [Sid Meier and the meaning of ‘Civilization’](https://www.newyorker.com/books/under-review/sid-meier-and-the-meaning-of-civilization)
-- [Updated WHO global air quality guidelines](https://apps.who.int/iris/handle/10665/345329)
-- [Haku: A toy functional programming language based on literary Japanese](https://codeberg.org/wimvanderbauwhede/haku)
 <!-- BLOG-POST-LIST:END -->
 
 ---
