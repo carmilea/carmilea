@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS SIGv4 and SIGv4A – How AWS Signs and Verifies API Requests](https://shufflesharding.com/posts/aws-sigv4-and-sigv4a)
+- [Apple's Texas-Sized Problem](https://daringfireball.net/linked/2021/09/23/apple-texas-sized-problem)
+- [Epic Games Announce Full Easy Anti-Cheat Support for Linux Incl. Wine and Proton](https://www.gamingonlinux.com/2021/09/epic-games-announce-full-easy-anti-cheat-for-linux-including-wine-a-proton)
+- [Easy Anti Cheat on Linux, Mac, and Steam Deck](https://dev.epicgames.com/en-US/news/epic-online-services-launches-anti-cheat-support-for-linux-mac-and-steam-deck)
 - [Give Notion the Superpowers of Google Sheets](https://notion2sheets.com/)
-- [What the Tibetan Book of the Dead Teaches Us About Life](https://catapult.co/stories/darjeeling-journal-what-the-tibetan-book-of-the-dead-teaches-us-about-life-ann-tashi-slater)
-- [Native-Land.ca – Our home on native land](https://native-land.ca/)
-- [Mozilla Says Chrome’s Latest Feature Enables Surveillance](https://www.howtogeek.com/756338/mozilla-says-chromes-latest-feature-enables-surveillance/)
-- [gRPC for Microservices Communication](https://techdozo.dev/grpc-for-microservices-communication/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
