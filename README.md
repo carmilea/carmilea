@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS SIGv4 and SIGv4A – How AWS Signs and Verifies API Requests](https://shufflesharding.com/posts/aws-sigv4-and-sigv4a)
-- [Apple's Texas-Sized Problem](https://daringfireball.net/linked/2021/09/23/apple-texas-sized-problem)
-- [Epic Games Announce Full Easy Anti-Cheat Support for Linux Incl. Wine and Proton](https://www.gamingonlinux.com/2021/09/epic-games-announce-full-easy-anti-cheat-for-linux-including-wine-a-proton)
-- [Easy Anti Cheat on Linux, Mac, and Steam Deck](https://dev.epicgames.com/en-US/news/epic-online-services-launches-anti-cheat-support-for-linux-mac-and-steam-deck)
-- [Give Notion the Superpowers of Google Sheets](https://notion2sheets.com/)
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Ask HN: Are you also getting extremely obvious spam bypassing Gmail's filters?](https://news.ycombinator.com/item?id=28635313)
+- [Slacktyping: I'm typing when you're typing (2018)](https://github.com/will/slacktyping)
+- [TSA’s “See cash, seize cash” policy](https://twitter.com/jodybarr/status/1440856486280785922)
+- [Lost perspective? Try this linguistic trick to reset your view](https://psyche.co/ideas/lost-perspective-try-this-linguistic-trick-to-reset-your-view)
 <!-- BLOG-POST-LIST:END -->
 
 ---
