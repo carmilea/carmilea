@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zendar (YC S17) Is Hiring a Platform Engineer](https://jobs.ashbyhq.com/zendar/ca3dde1b-ad32-43e2-bcde-7bb3c404017c)
-- [Google keeps records of everything you buy, even if you delete the email receipt](https://mastodon.social/@gerowen/106978308085702358)
-- [Use Two Keyboards at Once for Pain Relief](https://symboliclogic.io/years-of-pain-solved-by-really-obvious-keyboard-tweak/)
-- [Oliver Burkeman on the flaw with productivity geek thinking](https://thebrowser.com/notes/oliver-burkeman/#geek%2F%2F%2F%2F/)
-- [Deep learning meets vector-symbolic AI](https://research.ibm.com/blog/deep-learning-meets-symbolic-ai)
+- [Fourier Series Visualisation with D3](https://bl.ocks.org/jinroh/7524988)
+- [RedBalloon – The Free Speech Job Board](https://redballoon.work/)
+- [Facebook paid billions extra to the FTC to spare Zuckerberg in data suit](https://www.politico.com/news/2021/09/21/facebook-paid-billions-extra-to-the-ftc-to-spare-zuckerberg-in-data-suit-shareholders-allege-513456)
+- [Twitter enables tipping with Bitcoin, plans to let users authenticate NFTs](https://www.theverge.com/2021/9/23/22689806/twitter-bitcoin-lightning-tipping-nft-authentication)
+- [Tesla pushes U.S. to boost fuel economy penalties](https://www.autonews.com/regulation-safety/tesla-pushes-us-boost-fuel-economy-penalties)
 <!-- BLOG-POST-LIST:END -->
 
 ---
