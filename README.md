@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple threatened Facebook ban over slavery posts on Instagram](https://www.bbc.co.uk/news/technology-58645547)
+- [Infracost (YC W21) Is Hiring a Sr Software Engineer: Love Your Cloud Bills](https://www.ycombinator.com/companies/infracost/jobs/9fGDG72-senior-software-engineer)
+- [2006: Dwarf Fortress](https://if50.substack.com/p/2006-dwarf-fortress)
 - [Authenticated Boot and Disk Encryption on Linux](http://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html)
-- [Apple Will Not Reinstate Epic’s Fortnite Developer Account](https://daringfireball.net/2021/09/epic_apple_developer_accounts)
-- [Google Finally Shifting to “Upstream First” Linux Kernel Approach for Android](https://www.phoronix.com/scan.php?page=news_item&px=Android-Linux-Upstream-First)
-- [Samoa Scraps Daylight Saving Time (DST)](https://www.timeanddate.com/news/time/samoa-removes-dst.html)
-- [EU plans to force OEMs to use a common charger for all phones](https://www.xda-developers.com/eu-plans-common-phone-charger/)
+- [SR-72 ‘Son of Blackbird’: USAF’s Mach 6 Monster](https://www.19fortyfive.com/2021/09/sr-72-son-of-blackbird-the-air-forces-mach-6-monster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
