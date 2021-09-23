@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Biomarkers of dairy fat intake, cardiovascular disease, and all-cause mortality](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003763)
 - [AWS Region Coming to New Zealand](https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-new-zealand/)
+- [Nyxt 2.2.0](https://nyxt.atlas.engineer/article/release-2.2.0.org)
+- [Show HN: A pattern generator with 1300 shapes and 300 dpi](https://tool.graphics/geometric)
 - [Lives of the Most Excellent Painters, Sculptors, and Architects](https://fantasticanachronism.com/2021/09/17/book-review-the-lives-of-the-most-excellent-painters-sculptors-and-architects/)
-- [CoinTracker (YC W18) is hiring first PM to make cryptocurrency accessible](https://www.cointracker.io/careers)
-- [JupyterLab Desktop App now available](https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
