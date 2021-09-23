@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Prometheus Fuels (YC W19) Closes Series B with 1.5B Valuation](https://prometheusfuels.com)
-- [The NSA and CIA Use Ad Blockers Because Online Advertising is So Dangerous](https://www.vice.com/en/article/93ypke/the-nsa-and-cia-use-ad-blockers-because-online-advertising-is-so-dangerous)
-- [Binary Banshees and Digital Demons](https://thephd.dev/binary-banshees-digital-demons-abi-c-c++-help-me-god-please)
-- [Reactive Clojure: You don't need a web framework, you need a web language](https://hyperfiddle.notion.site/hyperfiddle/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)
-- [Facebook to testify on kids' safety as lawmakers probe whistleblower revelations](https://www.washingtonpost.com/politics/2021/09/23/facebook-testify-kids-safety-lawmakers-probe-whistleblowers-revelations/)
+- [Zendar (YC S17) Is Hiring a Platform Engineer](https://jobs.ashbyhq.com/zendar/ca3dde1b-ad32-43e2-bcde-7bb3c404017c)
+- [Google keeps records of everything you buy, even if you delete the email receipt](https://mastodon.social/@gerowen/106978308085702358)
+- [Use Two Keyboards at Once for Pain Relief](https://symboliclogic.io/years-of-pain-solved-by-really-obvious-keyboard-tweak/)
+- [Oliver Burkeman on the flaw with productivity geek thinking](https://thebrowser.com/notes/oliver-burkeman/#geek%2F%2F%2F%2F/)
+- [Deep learning meets vector-symbolic AI](https://research.ibm.com/blog/deep-learning-meets-symbolic-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
