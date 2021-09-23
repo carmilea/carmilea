@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Authenticated Boot and Disk Encryption on Linux](http://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html)
 - [Apple Will Not Reinstate Epic’s Fortnite Developer Account](https://daringfireball.net/2021/09/epic_apple_developer_accounts)
 - [Google Finally Shifting to “Upstream First” Linux Kernel Approach for Android](https://www.phoronix.com/scan.php?page=news_item&px=Android-Linux-Upstream-First)
+- [Samoa Scraps Daylight Saving Time (DST)](https://www.timeanddate.com/news/time/samoa-removes-dst.html)
 - [EU plans to force OEMs to use a common charger for all phones](https://www.xda-developers.com/eu-plans-common-phone-charger/)
-- [Delphi 11 Alexandria Has Been Released](https://blog.marcocantu.com/blog/2021-september-delphi-11-released.html)
-- [Sid Meier and the meaning of ‘Civilization’](https://www.newyorker.com/books/under-review/sid-meier-and-the-meaning-of-civilization)
 <!-- BLOG-POST-LIST:END -->
 
 ---
