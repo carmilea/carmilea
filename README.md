@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skia Shaders in Compose Desktop](https://www.pushing-pixels.org/2021/09/22/skia-shaders-in-compose-desktop.html)
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [Ask HN: Are you also getting extremely obvious spam bypassing Gmail's filters?](https://news.ycombinator.com/item?id=28635313)
 - [Slacktyping: I'm typing when you're typing (2018)](https://github.com/will/slacktyping)
 - [TSA’s “See cash, seize cash” policy](https://twitter.com/jodybarr/status/1440856486280785922)
-- [Lost perspective? Try this linguistic trick to reset your view](https://psyche.co/ideas/lost-perspective-try-this-linguistic-trick-to-reset-your-view)
 <!-- BLOG-POST-LIST:END -->
 
 ---
