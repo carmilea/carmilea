@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Lives of the Most Excellent Painters, Sculptors, and Architects](https://fantasticanachronism.com/2021/09/17/book-review-the-lives-of-the-most-excellent-painters-sculptors-and-architects/)
-- [Firefox for Android is a mess, and something needs to change](https://blog.nori.moe/firefox-for-android-is-a-mess/)
 - [CoinTracker (YC W18) is hiring first PM to make cryptocurrency accessible](https://www.cointracker.io/careers)
 - [JupyterLab Desktop App now available](https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a)
 - [Spotify Box](https://evanhailey.com/2021/09/20/spot-box/)
+- [Google Drive of historical footage locked and flagged as terrorist activity](https://support.google.com/drive/thread/127021326/google-has-locked-my-account-for-sharing-a-historical-archive-they-labeled-as-terrorist-activity?hl=en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
