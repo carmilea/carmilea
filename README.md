@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Whistleblower Might Go Public](https://www.washingtonpost.com/politics/2021/09/23/facebook-testify-kids-safety-lawmakers-probe-whistleblowers-revelations/)
 - [Spain will ban selling fruit and vegetables in plastic containers starting 2023](https://www.hortidaily.com/article/9357439/spain-will-ban-selling-fruit-and-vegetables-in-plastic-containers-starting-2023/)
 - [Norway bans gas cars in 2025 but trends point toward 100%EV sales as early April](https://electrek.co/2021/09/23/norway-bans-gas-cars-in-2025-but-trends-point-toward-100-ev-sales-as-early-as-april/)
 - [What Does Evergrande Meltdown Mean for China?](https://carnegieendowment.org/chinafinancialmarkets/85391)
 - [Japan’s deep connection to childish relationships (2019)](https://www.bbc.com/future/article/20191212-japans-deep-connection-to-childish-relationships)
-- [The ultimate SaaS template](https://github.com/gmpetrov/utlimate-saas-js)
 <!-- BLOG-POST-LIST:END -->
 
 ---
