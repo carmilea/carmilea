@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Release Grain v0.4 – Cereal](https://grain-lang.org/blog/2021/09/08/new-release-grain-v0.4-cereal/)
-- [Sunlight-driven photocatalytic water splitting for hydrogen production at scale](https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production-scale.html)
-- [Six reasons the EU should force the iPhone to use USB-C](https://thenextweb.com/news/usb-c-on-iphone)
-- [Luxury Linux Smartphones](https://tuxphones.com/luxury-linux-phones/)
-- [Putting a DELL XPS laptop in a bag voids its warranty](https://www.dell.com/community/XPS/FAQ-Modern-Standby/td-p/7514448)
+- [Ruin Marble](https://en.wikipedia.org/wiki/Ruin_marble)
+- [Qventus (YC W15) Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba)
+- [‘The Contrarian’ Goes Searching for Peter Thiel’s Elusive Core](https://www.nytimes.com/2021/09/13/books/review-contrarian-peter-thiel-silicon-valley-max-chafkin.html)
+- [Bitcoin falls as China declares crypto ‘illegal’](https://dailybusinessgroup.co.uk/2021/09/bitcoin-falls-as-china-declares-crypto-illegal/)
+- [Show HN: Bomberland – An AI competition to build the best Bomberman bot](https://www.gocoder.one/bomberland)
 <!-- BLOG-POST-LIST:END -->
 
 ---
