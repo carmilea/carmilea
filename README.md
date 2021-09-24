@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The detectives untangling the global supply chain](https://www.theguardian.com/news/2021/sep/16/food-fraud-counterfeit-cotton-detectives-untangling-global-supply-chain)
-- [Summarizing Books with Human Feedback](https://openai.com/blog/summarizing-books/)
-- [Energy Compensation and Adiposity in Humans](https://www.sciencedirect.com/science/article/pii/S0960982221011209)
-- [ExpressVPN employees complain about ex-spy's top role at company](https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-top-role-company-2021-09-23/)
-- [iPhone 13 Pro camera review: Tanzania](https://austinmann.com/trek/iphone-13-pro-camera-review-tanzania)
+- [History of The Atlantic Cable and Undersea Communications](https://atlantic-cable.com/)
+- [FBI arrests 75-year-old for allegedly placing pipe bombs outside phone stores](https://www.zdnet.com/article/fbi-arrests-75-year-old-for-allegedly-placing-pipe-bombs-outside-phone-carrier-stores/)
+- [Disappearing Bicyclist Puzzle – Sam Loyd](https://www.geogebra.org/m/hypuahfc)
+- [We Killed Our End-to-End Test Suite](https://building.nubank.com.br/why-we-killed-our-end-to-end-test-suite/)
+- [Show HN: Machine Learning for Google Sheets](https://www.magicsheets.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
