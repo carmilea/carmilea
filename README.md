@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [History of The Atlantic Cable and Undersea Communications](https://atlantic-cable.com/)
-- [FBI arrests 75-year-old for allegedly placing pipe bombs outside phone stores](https://www.zdnet.com/article/fbi-arrests-75-year-old-for-allegedly-placing-pipe-bombs-outside-phone-carrier-stores/)
-- [Disappearing Bicyclist Puzzle – Sam Loyd](https://www.geogebra.org/m/hypuahfc)
-- [We Killed Our End-to-End Test Suite](https://building.nubank.com.br/why-we-killed-our-end-to-end-test-suite/)
-- [Show HN: Machine Learning for Google Sheets](https://www.magicsheets.io/)
+- [Pachyderm Is Hiring Senior DevOps, Golang, and Automation and Testing Engineers](https://www.pachyderm.com/careers/#positions)
+- [UC reactor converts carbon dioxide to fuel to address climate change](https://www.uc.edu/news/articles/2021/09/uc-reactor-converts-carbon-dioxide-to-fuel-to-address-climate-change.html)
+- [L.A. County sheriff’s unit accused of targeting political enemies, vocal critics](https://www.latimes.com/california/story/2021-09-23/sheriff-alex-villanueva-secret-police)
+- [GNU coreutils 9 is released](https://news.ycombinator.com/item?id=28644525)
+- [Collections: No Man’s Land, Part II: Breaking the Stalemate](https://acoup.blog/2021/09/24/collections-no-mans-land-part-ii-breaking-the-stalemate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
