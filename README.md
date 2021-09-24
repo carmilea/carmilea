@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Corporations Paid $0 in Federal Taxes on 2020 Profits](https://itep.org/55-profitable-corporations-zero-corporate-tax/)
-- [House Committee Will Vote on Federal Marijuana Legalization Bill Next Week](https://www.marijuanamoment.net/house-committee-will-vote-on-federal-marijuana-legalization-bill-next-week-days-after-banking-reform-advances/)
+- [Unlocked OS Build for the Oculus Go](https://twitter.com/id_aa_carmack/status/1441496416463904768)
 - [America is substantially reducing poverty among children](https://www.economist.com/united-states/america-is-substantially-reducing-poverty-among-children/21804765)
 - [Deep Learning's Diminishing Returns](https://spectrum.ieee.org/deep-learning-computational-cost)
+- [200k-year-old hand art found near a Tibetan hot spring](https://gizmodo.com/200-000-year-old-hand-art-found-near-a-tibetan-hot-spri-1847682046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
