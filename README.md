@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fun with Redirection](https://christine.website/blog/fun-with-redirection-2021-09-22)
-- [Easy-ISLisp](https://github.com/sasagawa888/eisl)
+- [Know Labs unveils glucose monitor that swaps fingersticks for RF sensors](https://www.fiercebiotech.com/medtech/know-labs-unveils-pocket-sized-glucose-monitor-swaps-fingersticks-for-radiofrequency)
+- [Show HN: Go playground powered by WASM that runs in the browser](https://go-playground-wasm.vercel.app/)
 - [Skia Shaders in Compose Desktop](https://www.pushing-pixels.org/2021/09/22/skia-shaders-in-compose-desktop.html)
-- [“A Tour of Grant Imahara's Shop” left untouched since his passing](https://www.youtube.com/watch?v=hsCSTO8SaQU)
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Ask HN: Are you also getting extremely obvious spam bypassing Gmail's filters?](https://news.ycombinator.com/item?id=28635313)
 <!-- BLOG-POST-LIST:END -->
 
 ---
