@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If AT&T Had Managed the Phone Business Like Google](https://tedgioia.substack.com/p/if-at-and-t-had-managed-the-phone)
+- [AI powered LEDs for veins finding](https://christiemed.com/vein-illumination/)
+- [San Francisco’s bizarre, costly quest for the perfect trash can](https://missionlocal.org/2021/09/san-francisco-garbage-can-designer/)
+- [Alternative materials could shrink concrete’s giant carbon footprint](https://cen.acs.org/materials/inorganic-chemistry/Alternative-materials-shrink-concretes-giant/98/i45)
 - [Disclosure of three 0-day iOS vulnerabilities](https://habr.com/en/post/579714/)
-- [Discontinue Sourcetrail](https://sourcetrail.com/blog/discontinue_sourcetrail/)
-- [Apple's Power Move to Kneecap Facebook Advertising Is Working](https://bigtechnology.substack.com/p/completely-running-blind-apples-power)
-- [Know Labs unveils glucose monitor that swaps fingersticks for RF sensors](https://www.fiercebiotech.com/medtech/know-labs-unveils-pocket-sized-glucose-monitor-swaps-fingersticks-for-radiofrequency)
-- [Show HN: Go playground powered by WASM that runs in the browser](https://go-playground-wasm.vercel.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
