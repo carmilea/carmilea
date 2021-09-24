@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [China Bans Crypto Mining: Chinese Crypto Traders at Loss](https://startuptoenterprise.com/china-bans-crypto-mining-chinese-crypto-traders-at-loss/)
-- [A single person answered 76,229 questions about SQL on StackOverflow](https://stackoverflow.com/nocaptcha?s=f29968b0-76eb-45d9-8d63-95c38f69a4a4)
-- [Many Believe It's Time to Do Away with Lawmakers Making Stock Trades](https://www.npr.org/2021/09/22/1039565467/many-believe-its-time-to-do-away-with-lawmakers-making-stock-trades)
-- [Are NFTs Status Symbols?](https://dirt.substack.com/p/dirt-are-nfts-status-symbols)
-- [Show HN: Building an Airtable Front End Using Low-Code](https://www.dronahq.com/build-airtable-frontend/)
+- [The detectives untangling the global supply chain](https://www.theguardian.com/news/2021/sep/16/food-fraud-counterfeit-cotton-detectives-untangling-global-supply-chain)
+- [Summarizing Books with Human Feedback](https://openai.com/blog/summarizing-books/)
+- [Energy Compensation and Adiposity in Humans](https://www.sciencedirect.com/science/article/pii/S0960982221011209)
+- [ExpressVPN employees complain about ex-spy's top role at company](https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-top-role-company-2021-09-23/)
+- [iPhone 13 Pro camera review: Tanzania](https://austinmann.com/trek/iphone-13-pro-camera-review-tanzania)
 <!-- BLOG-POST-LIST:END -->
 
 ---
