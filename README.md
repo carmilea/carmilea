@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Locked Down Under](https://thecritic.co.uk/locked-down-under/)
-- [Asynchronous Programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
-- [Ruin Marble](https://en.wikipedia.org/wiki/Ruin_marble)
-- [Qventus (YC W15) Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba)
-- [Examining Btrfs, Linux's perpetually half finished file system](https://arstechnica.com/gadgets/2021/09/examining-btrfs-linuxs-perpetually-half-finished-filesystem/)
+- [China Bans Crypto Mining: Chinese Crypto Traders at Loss](https://startuptoenterprise.com/china-bans-crypto-mining-chinese-crypto-traders-at-loss/)
+- [A single person answered 76,229 questions about SQL on StackOverflow](https://stackoverflow.com/nocaptcha?s=f29968b0-76eb-45d9-8d63-95c38f69a4a4)
+- [Many Believe It's Time to Do Away with Lawmakers Making Stock Trades](https://www.npr.org/2021/09/22/1039565467/many-believe-its-time-to-do-away-with-lawmakers-making-stock-trades)
+- [Are NFTs Status Symbols?](https://dirt.substack.com/p/dirt-are-nfts-status-symbols)
+- [Show HN: Building an Airtable Front End Using Low-Code](https://www.dronahq.com/build-airtable-frontend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
