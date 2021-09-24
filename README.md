@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why doesn't HN scrub this train emoji?](https://news.ycombinator.com/item?id=28639075)
+- [RBoy: A Gameboy Emulator in Rust](https://github.com/mvdnes/rboy)
+- [The world's worst Linux kernel module](https://github.com/davidmalcolm/antipatterns.ko)
+- [Tesla Model S locks up in the middle of a highway](https://twitter.com/repkord/status/1440908464625106946)
 - [If AT&T Had Managed the Phone Business Like Google](https://tedgioia.substack.com/p/if-at-and-t-had-managed-the-phone)
-- [AI powered LEDs for veins finding](https://christiemed.com/vein-illumination/)
-- [San Francisco’s bizarre, costly quest for the perfect trash can](https://missionlocal.org/2021/09/san-francisco-garbage-can-designer/)
-- [Alternative materials could shrink concrete’s giant carbon footprint](https://cen.acs.org/materials/inorganic-chemistry/Alternative-materials-shrink-concretes-giant/98/i45)
-- [Disclosure of three 0-day iOS vulnerabilities](https://habr.com/en/post/579714/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
