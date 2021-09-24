@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Disclosure of three 0-day iOS vulnerabilities](https://habr.com/en/post/579714/)
+- [Discontinue Sourcetrail](https://sourcetrail.com/blog/discontinue_sourcetrail/)
+- [Apple's Power Move to Kneecap Facebook Advertising Is Working](https://bigtechnology.substack.com/p/completely-running-blind-apples-power)
 - [Know Labs unveils glucose monitor that swaps fingersticks for RF sensors](https://www.fiercebiotech.com/medtech/know-labs-unveils-pocket-sized-glucose-monitor-swaps-fingersticks-for-radiofrequency)
 - [Show HN: Go playground powered by WASM that runs in the browser](https://go-playground-wasm.vercel.app/)
-- [Skia Shaders in Compose Desktop](https://www.pushing-pixels.org/2021/09/22/skia-shaders-in-compose-desktop.html)
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Ask HN: Are you also getting extremely obvious spam bypassing Gmail's filters?](https://news.ycombinator.com/item?id=28635313)
 <!-- BLOG-POST-LIST:END -->
 
 ---
