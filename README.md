@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why doesn't HN scrub this train emoji?](https://news.ycombinator.com/item?id=28639075)
+- [Neuro (YC W21) Is Hiring Engineers to Build APIs for ML Compute, £40-100k Bath,UK](https://jobs.lever.co/Neuro/20602492-eaf6-4e42-936a-1e2928e851b8)
 - [RBoy: A Gameboy Emulator in Rust](https://github.com/mvdnes/rboy)
+- [Total surveillance law proposed in Serbia](https://www.sharefoundation.info/en/total-surveillance-law-proposed-in-serbia/)
 - [The world's worst Linux kernel module](https://github.com/davidmalcolm/antipatterns.ko)
 - [Tesla Model S locks up in the middle of a highway](https://twitter.com/repkord/status/1440908464625106946)
-- [If AT&T Had Managed the Phone Business Like Google](https://tedgioia.substack.com/p/if-at-and-t-had-managed-the-phone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
