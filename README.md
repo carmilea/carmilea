@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Release Grain v0.4 – Cereal](https://grain-lang.org/blog/2021/09/08/new-release-grain-v0.4-cereal/)
+- [Sunlight-driven photocatalytic water splitting for hydrogen production at scale](https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production-scale.html)
+- [Six reasons the EU should force the iPhone to use USB-C](https://thenextweb.com/news/usb-c-on-iphone)
 - [Luxury Linux Smartphones](https://tuxphones.com/luxury-linux-phones/)
 - [Putting a DELL XPS laptop in a bag voids its warranty](https://www.dell.com/community/XPS/FAQ-Modern-Standby/td-p/7514448)
-- [A note on recent content takedowns](https://www.researchgate.net/blog/post/a-note-on-recent-content-takedowns)
-- [Opening http://../foo on Android Chrome crashes the browser](https://bugs.chromium.org/p/chromium/issues/detail?id=1252624)
-- [Neuro (YC W21) Is Hiring Engineers to Build APIs for ML Compute, £40-100k Bath,UK](https://jobs.lever.co/Neuro/20602492-eaf6-4e42-936a-1e2928e851b8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
