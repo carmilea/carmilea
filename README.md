@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Unlocked OS Build for the Oculus Go](https://twitter.com/id_aa_carmack/status/1441496416463904768)
-- [America is substantially reducing poverty among children](https://www.economist.com/united-states/america-is-substantially-reducing-poverty-among-children/21804765)
-- [Deep Learning's Diminishing Returns](https://spectrum.ieee.org/deep-learning-computational-cost)
-- [200k-year-old hand art found near a Tibetan hot spring](https://gizmodo.com/200-000-year-old-hand-art-found-near-a-tibetan-hot-spri-1847682046)
+- [A monk in 14th-century Italy wrote about the Americas](https://www.economist.com/the-americas/2021/09/25/a-monk-in-14th-century-italy-wrote-about-the-americas)
+- [New Site Tracking Reported Tesla Fires](https://www.tesla-fire.com/)
+- [As More Workers Go Solo, the Software Stack Is the New Firm – Future](https://future.a16z.com/solo-workers-software-stack/)
+- [Ten Commandments of Salary Negotiation](https://www.lennysnewsletter.com/p/negotiating-comp)
+- [Wyoming natural gas flared for cryptocurrency mining exempt from taxation](https://oilcity.news/wyoming/legislature/2021/04/15/gordon-signs-bill-exempting-wyoming-natural-gas-flared-for-cryptocurrency-mining-from-taxation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
