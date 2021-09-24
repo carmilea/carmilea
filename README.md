@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Opening HTTP://../foo on Android Chrome crashes the browser](https://bugs.chromium.org/p/chromium/issues/detail?id=1252624)
+- [Luxury Linux Smartphones](https://tuxphones.com/luxury-linux-phones/)
+- [Putting a DELL XPS laptop in a bag voids its warranty](https://www.dell.com/community/XPS/FAQ-Modern-Standby/td-p/7514448)
+- [A note on recent content takedowns](https://www.researchgate.net/blog/post/a-note-on-recent-content-takedowns)
+- [Opening http://../foo on Android Chrome crashes the browser](https://bugs.chromium.org/p/chromium/issues/detail?id=1252624)
 - [Neuro (YC W21) Is Hiring Engineers to Build APIs for ML Compute, £40-100k Bath,UK](https://jobs.lever.co/Neuro/20602492-eaf6-4e42-936a-1e2928e851b8)
-- [Why EFF Flew a Plane over Apple's Headquarters – Electronic Frontier Foundation](https://www.eff.org/deeplinks/2021/09/why-eff-flew-plane-over-apples-headquarters)
-- [RBoy: A Gameboy Emulator in Rust](https://github.com/mvdnes/rboy)
-- [Total surveillance law proposed in Serbia](https://www.sharefoundation.info/en/total-surveillance-law-proposed-in-serbia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
