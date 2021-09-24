@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [John Stossel Sues Facebook for Allegedly Defaming Him with Fact-Check](https://www.hollywoodreporter.com/business/digital/john-stossel-sues-facebook-1235019248/)
+- [Developers fix multitude of vulnerabilities in Apache HTTP Server](https://portswigger.net/daily-swig/developers-fix-multitude-of-vulnerabilities-in-apache-http-server)
 - [Pachyderm Is Hiring Senior DevOps, Golang, and Automation and Testing Engineers](https://www.pachyderm.com/careers/#positions)
-- [UC reactor converts carbon dioxide to fuel to address climate change](https://www.uc.edu/news/articles/2021/09/uc-reactor-converts-carbon-dioxide-to-fuel-to-address-climate-change.html)
-- [L.A. County sheriff’s unit accused of targeting political enemies, vocal critics](https://www.latimes.com/california/story/2021-09-23/sheriff-alex-villanueva-secret-police)
-- [GNU coreutils 9 is released](https://news.ycombinator.com/item?id=28644525)
-- [Collections: No Man’s Land, Part II: Breaking the Stalemate](https://acoup.blog/2021/09/24/collections-no-mans-land-part-ii-breaking-the-stalemate/)
+- [10 Year Smartphone](https://10yearphone.com/)
+- [UC reactor converts carbon dioxide to fuel](https://www.uc.edu/news/articles/2021/09/uc-reactor-converts-carbon-dioxide-to-fuel-to-address-climate-change.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
