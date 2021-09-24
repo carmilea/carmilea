@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America is substantially reducing poverty among children](https://www.economist.com/united-states/america-is-substantially-reducing-poverty-among-children/21804765)
 - [Deep Learning's Diminishing Returns](https://spectrum.ieee.org/deep-learning-computational-cost)
-- [200k-Year-Old Hand Art Found Near a Tibetan Hot Spring](https://gizmodo.com/200-000-year-old-hand-art-found-near-a-tibetan-hot-spri-1847682046)
-- [John Stossel Sues Facebook for Allegedly Defaming Him with Fact-Check](https://www.hollywoodreporter.com/business/digital/john-stossel-sues-facebook-1235019248/)
+- [200k-year-old hand art found near a Tibetan hot spring](https://gizmodo.com/200-000-year-old-hand-art-found-near-a-tibetan-hot-spri-1847682046)
+- [John Stossel sues Facebook for allegedly defaming him with fact-check](https://www.hollywoodreporter.com/business/digital/john-stossel-sues-facebook-1235019248/)
 - [Developers fix multitude of vulnerabilities in Apache HTTP Server](https://portswigger.net/daily-swig/developers-fix-multitude-of-vulnerabilities-in-apache-http-server)
-- [Pachyderm Is Hiring Senior DevOps, Golang, and Automation and Testing Engineers](https://www.pachyderm.com/careers/#positions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
