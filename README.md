@@ -54,8 +54,8 @@
 - [Speech Synthesis on Linux (2020)](https://darkshadow.io/2020/08/01/speech-synthesis-on-linux.html)
 - [“The most scarily/stunningly impressive linguistic feat I’ve ever seen“](https://twitter.com/mattgemmell/status/1441497498573545478)
 - [New insights into the existing image encryption algorithms based on DNA coding](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7584250/)
+- [Is the touch sensitive iPod going to be a reality? (2006)](https://web.archive.org/web/20060220062810/http://hrmpf.com/wordpress/54/touch-sensitive-ipod/)
 - [Grommunio an open source Exchange replacement](https://grommunio.com/)
-- [A Guide to the Georgian Coaching Inn](https://about1816.wordpress.com/2021/09/23/a-guide-to-the-georgian-coaching-inn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
