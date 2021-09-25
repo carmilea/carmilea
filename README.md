@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [I Am Not Satoshi Nakamoto](https://www.schneier.com/blog/archives/2021/09/i-am-not-satoshi-nakamoto.html)
 - [Limits on Toilet Paper and Cleaning Supplies Are Back at Costco](https://www.npr.org/sections/coronavirus-live-updates/2021/09/24/1040471872/limits-toilet-paper-cleaning-supplies-costco-delta-covid)
+- [Facebook Is Other People](https://kevinmunger.substack.com/p/facebook-is-other-people)
+- [Tree-ring dating of musical instruments](https://doi.org/10.1126/science.abj3823)
 - [AMD’s Lisa Su Breaks Through the Silicon Ceiling](https://spectrum.ieee.org/amds-lisa-su-breaks-through-the-silicon-ceiling)
-- [A monk in 14th-century Italy wrote about the Americas](https://www.economist.com/the-americas/2021/09/25/a-monk-in-14th-century-italy-wrote-about-the-americas)
-- [Ten Commandments of Salary Negotiation](https://www.lennysnewsletter.com/p/negotiating-comp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
