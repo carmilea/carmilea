@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“The most scarily/stunningly impressive linguistic feat I’ve ever seen“](https://twitter.com/mattgemmell/status/1441497498573545478)
+- [All businesses will eventually turn into subscriptions](https://blog.viveksrinivasan.com/p/subscriptions-learning-by-proxy)
+- [Grommunio an open source Exchange replacement](https://grommunio.com/)
 - [The Missions of Astronomy (2009)](https://nybooks.com/articles/2009/10/22/the-missions-of-astronomy/)
 - [A Guide to the Georgian Coaching Inn](https://about1816.wordpress.com/2021/09/23/a-guide-to-the-georgian-coaching-inn/)
-- [The grandfather of modern self-help](https://3quarksdaily.com/3quarksdaily/2021/09/the-grandfather-of-modern-self-help.html)
-- [Lessons learned from running GraphQL at scale](https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb)
-- [Data scientists shouldn’t need to know Kubernetes](https://huyenchip.com/2021/09/13/data-science-infrastructure.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
