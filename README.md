@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Did a Chinese hack kill Canada's greatest tech company? (2020)](http://www.bnnbloomberg.ca/did-a-chinese-hack-kill-canada-s-greatest-tech-company-1.1459269)
-- [Modern Communication: Sockets](https://ocaml.github.io/ocamlunix/sockets.html)
-- [Closest known relatives of virus behind Covid-19 found in Laos](https://www.nature.com/articles/d41586-021-02596-2?error=cookies_not_supported&code=99d71081-fa4f-4589-aa71-68669d32302f)
-- [What will programming look like in 2020? （from lambda-the-untimate)](http://lambda-the-ultimate.org/node/4655)
-- [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [Copyright claims on YouTube Bach videos](https://www.youtube.com/watch?v=YfF4D5x_UTE)
+- [When the FBI seizes your messages from Big Tech, you may not know it for years](https://www.washingtonpost.com/technology/2021/09/25/tech-subpoena-secrecy-fight/)
+- [Did a Chinese hack kill Nortel? (2020)](http://www.bnnbloomberg.ca/did-a-chinese-hack-kill-canada-s-greatest-tech-company-1.1459269)
+- [How to Deal with Complexity Like a Pilot (Part 1)](https://www.franklinfaraday.com/how-to-deal-with-complexity-like-a-pilot-part-1/)
+- [Testing a compiler that can’t even print](https://blog.danieljanus.pl/2021/09/25/testing-lithium/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
