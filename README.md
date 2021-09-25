@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Missions of Astronomy (2009)](https://nybooks.com/articles/2009/10/22/the-missions-of-astronomy/)
+- [A Guide to the Georgian Coaching Inn](https://about1816.wordpress.com/2021/09/23/a-guide-to-the-georgian-coaching-inn/)
+- [The grandfather of modern self-help](https://3quarksdaily.com/3quarksdaily/2021/09/the-grandfather-of-modern-self-help.html)
+- [Lessons learned from running GraphQL at scale](https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb)
 - [Data scientists shouldn’t need to know Kubernetes](https://huyenchip.com/2021/09/13/data-science-infrastructure.html)
-- [Facebook is other people](https://kevinmunger.substack.com/p/facebook-is-other-people)
-- [Tree-ring dating of musical instruments](https://doi.org/10.1126/science.abj3823)
-- [AMD’s Lisa Su](https://spectrum.ieee.org/amds-lisa-su-breaks-through-the-silicon-ceiling)
-- [A monk in 14th-century Italy wrote about the Americas](https://www.economist.com/the-americas/2021/09/25/a-monk-in-14th-century-italy-wrote-about-the-americas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
