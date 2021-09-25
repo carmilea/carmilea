@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make Housing More Affordable](https://www.hoover.org/research/how-make-housing-more-affordable)
+- [In search of the perfect URL validation regex (2010)](https://mathiasbynens.be/demo/url-regex)
+- [Fast PCIe 5.0 SSD prototype hits sequential read speeds of 14,000 MB/s](https://www.notebookcheck.net/Blazing-fast-PCIe-5-0-SSD-prototype-hits-sequential-read-speeds-of-14-000-MB-s.564595.0.html)
 - [Flexport is hiring people who want to help uncork global supply chains](https://www.flexport.com/careers)
 - [Apple Is Working on iPhone Features to Help Detect Depression, Cognitive Decline](https://www.wsj.com/articles/apple-wants-iphones-to-help-detect-depression-cognitive-decline-sources-say-11632216601)
-- [Arctic World Archive Adds Latest Data Deposit in Svalbard Facility](https://www.datacenterdynamics.com/en/news/arctic-world-archive-adds-latest-data-deposit-in-svalbard-facility/)
-- [Firefox Addons Unable to Update, Undisclosed AMO Issues](https://discourse.mozilla.org/t/can-anyone-release-extensions-right-now-to-me-it-looks-like-addons-mozilla-org-is-critically-broken/84830)
-- [Paint.NET 4.3 is now available](https://blog.getpaint.net/2021/09/22/paint-net-4-3-is-now-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
