@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Am Not Satoshi Nakamoto](https://www.schneier.com/blog/archives/2021/09/i-am-not-satoshi-nakamoto.html)
+- [Limits on Toilet Paper and Cleaning Supplies Are Back at Costco](https://www.npr.org/sections/coronavirus-live-updates/2021/09/24/1040471872/limits-toilet-paper-cleaning-supplies-costco-delta-covid)
+- [AMD’s Lisa Su Breaks Through the Silicon Ceiling](https://spectrum.ieee.org/amds-lisa-su-breaks-through-the-silicon-ceiling)
 - [A monk in 14th-century Italy wrote about the Americas](https://www.economist.com/the-americas/2021/09/25/a-monk-in-14th-century-italy-wrote-about-the-americas)
-- [New Site Tracking Reported Tesla Fires](https://www.tesla-fire.com/)
-- [As More Workers Go Solo, the Software Stack Is the New Firm – Future](https://future.a16z.com/solo-workers-software-stack/)
 - [Ten Commandments of Salary Negotiation](https://www.lennysnewsletter.com/p/negotiating-comp)
-- [Wyoming natural gas flared for cryptocurrency mining exempt from taxation](https://oilcity.news/wyoming/legislature/2021/04/15/gordon-signs-bill-exempting-wyoming-natural-gas-flared-for-cryptocurrency-mining-from-taxation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
