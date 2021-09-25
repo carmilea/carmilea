@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Visualize 3D hyperbolic honeycombs and sphere packings](https://github.com/neozhaoliang/Hyperbolic-Honeycombs)
-- [Open Source Jobs Report](https://www.linuxfoundation.org/resources/publications/open-source-jobs-report-2021/)
-- [Heimdal (YC S21) Is Hiring an Electrical Engineer](https://www.ycombinator.com/companies/heimdal/jobs/MnF3GwV-electrical-engineer-carbon-capture)
-- [EU Is Warned Green Label for Gas Would Be ‘Disastrous’ Mistake](https://www.bloomberg.com/news/articles/2021-09-22/eu-is-warned-green-label-for-gas-would-be-disastrous-mistake)
-- [Italy wants an exception to Europe's gas-engine ban for Ferrari, Lamborghini](https://driving.ca/auto-news/industry/italy-wants-an-exception-to-europes-combustion-engine-ban-for-ferrari-lamborghini)
+- [Firefox Addons Unable to Update, Undisclosed AMO Issues](https://discourse.mozilla.org/t/can-anyone-release-extensions-right-now-to-me-it-looks-like-addons-mozilla-org-is-critically-broken/84830)
+- [TheseToonsDoNotExist: StyleGAN2-ADA trained on CG cartoon faces](http://www.thesetoonsdonotexist.com/)
+- [A hamster has been trading cryptocurrencies in a cage](https://markets.businessinsider.com/news/currencies/hamster-trading-cryptocurrencies-rigged-cage-goxx-bitcoin-price-ether-doge-2021-9)
+- [Google CEO allegedly sought to keep Incognito mode issues out of spotlight](https://www.reuters.com/technology/google-ceo-sought-keep-incognito-mode-issues-out-spotlight-lawsuit-alleges-2021-09-24/)
+- [Create, train and run Scikit-learn and TensorFlow models in Excel](https://predictionlaboratory.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
