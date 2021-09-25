@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Heimdal (YC S21) Is Hiring an Electrical Engineer](https://www.ycombinator.com/companies/heimdal/jobs/MnF3GwV-electrical-engineer-carbon-capture)
+- [EU Is Warned Green Label for Gas Would Be ‘Disastrous’ Mistake](https://www.bloomberg.com/news/articles/2021-09-22/eu-is-warned-green-label-for-gas-would-be-disastrous-mistake)
+- [Pope Francis and Other Christian Leaders Are Calling for Bold Climate Action](https://text.npr.org/2021/09/10/1035653392/pope-francis-and-other-christian-leaders-are-calling-for-bold-climate-action)
 - [Italy wants an exception to Europe's gas-engine ban for Ferrari, Lamborghini](https://driving.ca/auto-news/industry/italy-wants-an-exception-to-europes-combustion-engine-ban-for-ferrari-lamborghini)
 - [Demonopolizing the Internet with Interoperability](https://pluralistic.net/2021/09/24/comcom-acm/)
-- [AS13335 doing SSH scanning](https://encryp.ch/blog/cloudflare-abuses-22-tcp/)
-- [Speech Synthesis on Linux (2020)](https://darkshadow.io/2020/08/01/speech-synthesis-on-linux.html)
-- [“The most scarily/stunningly impressive linguistic feat I’ve ever seen“](https://twitter.com/mattgemmell/status/1441497498573545478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
