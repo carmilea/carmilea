@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thermal Grill Illusion](https://en.wikipedia.org/wiki/Thermal_grill_illusion)
+- [Code Review from the Command Line](https://blog.jez.io/cli-code-review/)
+- [Maybe the Spaghetti Code Conjecture Is False](https://nickdrozd.github.io/2021/09/25/spaghetti-code-conjecture-false.html)
 - [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
 - [In search of the perfect URL validation regex (2010)](https://mathiasbynens.be/demo/url-regex)
-- [OpenTTD 12.0-RC1](https://www.openttd.org/news/2021/09/25/openttd-12-0-rc1.html)
-- [Fast PCIe 5.0 SSD prototype hits sequential read speeds of 14,000 MB/s](https://www.notebookcheck.net/Blazing-fast-PCIe-5-0-SSD-prototype-hits-sequential-read-speeds-of-14-000-MB-s.564595.0.html)
-- [Flexport is hiring people who want to help uncork global supply chains](https://www.flexport.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
