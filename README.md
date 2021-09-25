@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [“The most scarily/stunningly impressive linguistic feat I’ve ever seen“](https://twitter.com/mattgemmell/status/1441497498573545478)
+- [New insights into the existing image encryption algorithms based on DNA coding](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7584250/)
 - [All businesses will eventually turn into subscriptions](https://blog.viveksrinivasan.com/p/subscriptions-learning-by-proxy)
 - [Grommunio an open source Exchange replacement](https://grommunio.com/)
 - [The Missions of Astronomy (2009)](https://nybooks.com/articles/2009/10/22/the-missions-of-astronomy/)
-- [A Guide to the Georgian Coaching Inn](https://about1816.wordpress.com/2021/09/23/a-guide-to-the-georgian-coaching-inn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
