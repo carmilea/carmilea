@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Thiel became the most feared man in Silicon Valley](https://nypost.com/2021/09/25/how-peter-thiel-became-the-most-feared-man-in-silicon-valley/)
+- [Flexport is hiring people who want to help uncork global supply chains](https://www.flexport.com/careers)
+- [Apple Is Working on iPhone Features to Help Detect Depression, Cognitive Decline](https://www.wsj.com/articles/apple-wants-iphones-to-help-detect-depression-cognitive-decline-sources-say-11632216601)
+- [Arctic World Archive Adds Latest Data Deposit in Svalbard Facility](https://www.datacenterdynamics.com/en/news/arctic-world-archive-adds-latest-data-deposit-in-svalbard-facility/)
 - [Firefox Addons Unable to Update, Undisclosed AMO Issues](https://discourse.mozilla.org/t/can-anyone-release-extensions-right-now-to-me-it-looks-like-addons-mozilla-org-is-critically-broken/84830)
 - [Paint.NET 4.3 is now available](https://blog.getpaint.net/2021/09/22/paint-net-4-3-is-now-available/)
-- [TheseToonsDoNotExist: StyleGAN2-ADA trained on CG cartoon faces](http://www.thesetoonsdonotexist.com/)
-- [A hamster has been trading cryptocurrencies in a cage](https://markets.businessinsider.com/news/currencies/hamster-trading-cryptocurrencies-rigged-cage-goxx-bitcoin-price-ether-doge-2021-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
