@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Housing More Affordable](https://www.hoover.org/research/how-make-housing-more-affordable)
+- [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
 - [In search of the perfect URL validation regex (2010)](https://mathiasbynens.be/demo/url-regex)
+- [OpenTTD 12.0-RC1](https://www.openttd.org/news/2021/09/25/openttd-12-0-rc1.html)
 - [Fast PCIe 5.0 SSD prototype hits sequential read speeds of 14,000 MB/s](https://www.notebookcheck.net/Blazing-fast-PCIe-5-0-SSD-prototype-hits-sequential-read-speeds-of-14-000-MB-s.564595.0.html)
 - [Flexport is hiring people who want to help uncork global supply chains](https://www.flexport.com/careers)
-- [Apple Is Working on iPhone Features to Help Detect Depression, Cognitive Decline](https://www.wsj.com/articles/apple-wants-iphones-to-help-detect-depression-cognitive-decline-sources-say-11632216601)
 <!-- BLOG-POST-LIST:END -->
 
 ---
