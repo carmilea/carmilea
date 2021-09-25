@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thermal Grill Illusion](https://en.wikipedia.org/wiki/Thermal_grill_illusion)
-- [Code Review from the Command Line](https://blog.jez.io/cli-code-review/)
-- [Maybe the Spaghetti Code Conjecture Is False](https://nickdrozd.github.io/2021/09/25/spaghetti-code-conjecture-false.html)
-- [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
-- [In search of the perfect URL validation regex (2010)](https://mathiasbynens.be/demo/url-regex)
+- [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [Bandwidth is experiencing a major outage](https://status.bandwidth.com)
+- [Why Telegram had to follow Apple and Google when they suspended a voting app](https://telegra.ph/Why-Telegram-had-to-follow-Apple-and-Google-when-they-suspended-a-voting-app-09-25)
+- [Ask HN: What is going wrong at Amazon?](https://news.ycombinator.com/item?id=28655917)
+- [Fedora Workstation: Our Vision for Linux Desktop](https://blogs.gnome.org/uraeus/2021/09/24/fedora-workstation-our-vision-for-linux-desktop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
