@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook's Journey to the Metaverse](https://www.theguardian.com/technology/2021/sep/26/is-facebook-leading-us-on-a-journey-to-the-metaverse)
-- [Sustainable coffee grown in Finland with cellular agriculture](https://www.vttresearch.com/en/news-and-ideas/sustainable-coffee-grown-finland-land-drinks-most-coffee-capita-produces-its-first)
-- [Noam Chomsky on the cruelty of American imperialism](https://www.economist.com/by-invitation/2021/09/24/noam-chomsky-on-the-cruelty-of-american-imperialism)
-- [Paul Osman thinks about longterm strategies,open telemetry and boring systems](https://www.opslevel.com/blog/opslevel-convos-paul-osman/)
-- [How to Live in Airbnbs for the Price of an Apartment Lease](https://esimoney.com/how-to-live-in-airbnbs-for-the-price-of-an-apartment-lease/)
+- [Reflect (YC S20) is hiring a software engineer to revolutionize web testing](https://www.workatastartup.com/jobs/46431)
+- [Category Theory Illustrated – Logic](https://boris-marinov.github.io/category-theory-illustrated/05_logic/)
+- [Fukushima studies show wildlife is doing nicely without humans](https://www.theregister.com/2021/09/24/fukushima_wildlife_diversity/)
+- [Shader School - An introduction to GLSL shaders that runs in your web browser](https://github.com/stackgl/shader-school)
+- [We are now Solar Powered](https://www.andrewjvpowell.com/articles/we-are-solar-powered)
 <!-- BLOG-POST-LIST:END -->
 
 ---
