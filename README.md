@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Face ID stops working if you replace the iPhone 13 screen with 3rd-party repair](https://newztrends.com/face-id-stops-working-if-you-replace-the-iphone-13-screen-with-third-party-repair-video/)
+- [Tech firms' nightmare: Vanishing green cards](https://www.axios.com/tech-firms-nightmare-vanishing-green-cards-587ef9a5-8152-465f-ac9a-3f1c913ead48.html)
 - [“Death” one of 5 ways to lose at Chess, according to PGN standard](http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm#c9.8.1)
-- [Are There More Surviving Ancient Writings in Greek or Latin?](https://talesoftimesforgotten.com/2021/09/25/are-there-more-surviving-ancient-writings-in-greek-or-latin/)
-- [EasyPost (YC S13) Is Hiring (Remote)](https://www.easypost.com/careers)
-- [Tracking software for remote work is only getting smarter](https://www.washingtonpost.com/technology/2021/09/24/remote-work-from-home-surveillance/)
-- [Racketscript/Racketscript: Racket to JavaScript Compiler](https://github.com/racketscript/racketscript)
+- [Getting Started with GitHub Actions with Python](https://ghapi.fast.ai/tutorial_actions.html)
+- [Ask HN: How do you do estimates in 2021?](https://news.ycombinator.com/item?id=28662856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
