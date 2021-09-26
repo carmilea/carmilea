@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thousands of student files lost in error](https://www.taipeitimes.com/News/taiwan/archives/2021/09/26/2003765032)
+- [Free Parking Is Killing Cities](https://www.bloomberg.com/news/features/2021-08-31/why-free-parking-is-bad-according-to-one-ucla-professor)
 - [A Brief History of Markov Chains](https://mewo2.com/notes/markov-history/)
 - [San Francisco raises Tesla 'self-driving' safety concerns as public test nears](https://www.reuters.com/business/autos-transportation/san-francisco-raises-tesla-self-driving-safety-concerns-public-test-nears-2021-09-23/)
 - [“Logic Alone, All Love Laid By”: Arthur Koestler’s “Darkness at Noon” (2019)](https://lareviewofbooks.org/article/logic-alone-all-love-laid-by-returning-to-arthur-koestlers-darkness-at-noon/)
-- [Clearview AI hits watchdog groups with subpoenas](https://www.politico.com/news/2021/09/24/clearview-ai-subpoena-watchdog-groups-514273)
-- [How great is the great firewall? Measuring China’s DNS censorship [pdf]](https://www.usenix.org/system/files/sec21-hoang.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
