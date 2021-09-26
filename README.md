@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Computer Engineering for Babies Book](https://www.kickstarter.com/projects/babyengineering/computer-engineering-for-babies)
+- [Twitter seeking input as it explores Filter and Limit controls on tweets](https://www.theverge.com/2021/9/24/22692264/twitter-filter-limit-tweet-replies-automatic)
+- [How Does Progress Happen?](https://www.vox.com/future-perfect/22652782/roots-of-progress-jason-crawford)
 - [Kidnapping, assassination and a London shoot-out: secret plans against WikiLeaks](https://news.yahoo.com/kidnapping-assassination-and-a-london-shoot-out-inside-the-ci-as-secret-war-plans-against-wiki-leaks-090057786.html)
 - [Nitter and other Internet reclamation projects](https://drewdevault.com/2021/09/23/Nitter-and-other-internet-reclamation-projects.html)
-- [Reflect (YC S20) is hiring a software engineer to revolutionize web testing](https://www.workatastartup.com/jobs/46431)
-- [Category Theory Illustrated – Logic](https://boris-marinov.github.io/category-theory-illustrated/05_logic/)
-- [Fukushima studies show wildlife is doing nicely without humans](https://www.theregister.com/2021/09/24/fukushima_wildlife_diversity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
