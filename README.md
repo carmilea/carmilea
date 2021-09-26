@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jellyfin: The Free Software Media System](https://jellyfin.org/)
+- [What Our Research Says About Teen Well-Being and Instagram](https://about.fb.com/news/2021/09/research-teen-well-being-and-instagram/)
+- [Shodan Search Engine: Search Engine for the Internet of Everything](https://www.shodan.io/)
+- [Jellyfin: Free Software Media System](https://jellyfin.org/)
 - [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
 - [Show HN: Generate shared 2FA codes for your entire team](https://tfa.one)
-- [Show HN: MPLG – Matplotlib GUI, design plots visually and export as Python code](https://everydayanchovies.github.io/mplg/mplg)
-- [Frustrated dev drops three zero-day vulns affecting Apple iOS 15](https://www.theregister.com/2021/09/24/apple_zeroday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
