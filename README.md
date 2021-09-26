@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists complete starch synthesis from CO2, revolutionary for agricultural](https://www.globaltimes.cn/page/202109/1235013.shtml)
+- [The Universe Is a Machine That Keeps Learning, Scientists Say](https://www.popularmechanics.com/science/a36112655/universe-is-self-learning-algorithm/)
 - [Congratulations, Mini, You Made the Stupidest Turn Signals Ever](https://jalopnik.com/congratulations-mini-you-made-the-stupidest-turn-sign-1847727385)
-- [Everyone Wants to Be an Influencer](https://www.axios.com/everyone-wants-to-be-an-influencer-458459d1-09f3-4396-a66c-fe03c9f38a7d.html)
-- [Iceland elects its first female-majority parliament](https://apnews.com/article/business-europe-elections-environment-and-nature-iceland-f9e66907b6e25560a508de0f4b118ddd)
-- [Show HN: Computer Engineering for Babies Book](https://www.kickstarter.com/projects/babyengineering/computer-engineering-for-babies)
-- [Designing Low Upkeep Software](https://www.jefftk.com/p/designing-low-upkeep-software)
+- [Bitcoin Miners Eye Nuclear Power as Environmental Criticism Mounts](https://www.wsj.com/articles/bitcoin-miners-eye-nuclear-power-as-environmental-criticism-mounts-11632654002)
+- [Am I Mining to Somebody?](https://www.reddit.com/r/docker/comments/pvsjsq/am_i_mining_to_somebody/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
