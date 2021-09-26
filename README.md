@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28657485)
+- [JSFuck](http://www.jsfuck.com/)
+- [Napster.com banned at some universities for clogging networks (2000)](https://www.iowastatedaily.com/napster-com-banned-at-some-universities-for-clogging-networks/article_23a8a315-cccc-5e15-9fdc-19145e034d3b.html)
 - [Copyright claims on YouTube Bach videos](https://www.youtube.com/watch?v=YfF4D5x_UTE)
 - [When the FBI seizes your messages from Big Tech, you may not know it for years](https://www.washingtonpost.com/technology/2021/09/25/tech-subpoena-secrecy-fight/)
-- [Did a Chinese hack kill Nortel? (2020)](http://www.bnnbloomberg.ca/did-a-chinese-hack-kill-canada-s-greatest-tech-company-1.1459269)
-- [How to Deal with Complexity Like a Pilot (Part 1)](https://www.franklinfaraday.com/how-to-deal-with-complexity-like-a-pilot-part-1/)
-- [Testing a compiler that can’t even print](https://blog.danieljanus.pl/2021/09/25/testing-lithium/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
