@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Noam Chomsky on the cruelty of American imperialism](https://www.economist.com/by-invitation/2021/09/24/noam-chomsky-on-the-cruelty-of-american-imperialism)
+- [How to Live in Airbnbs for the Price of an Apartment Lease – ESI Money](https://esimoney.com/how-to-live-in-airbnbs-for-the-price-of-an-apartment-lease/)
 - [Edge.org's Annual Questions](https://www.edge.org/annual-questions)
 - [Trusting science leaves people vulnerable to believing pseudoscience](https://journalistsresource.org/health/trust-science-pseudoscience-misinformation/)
 - [Thousands of student files lost in error](https://www.taipeitimes.com/News/taiwan/archives/2021/09/26/2003765032)
-- [Free Parking Is Killing Cities](https://www.bloomberg.com/news/features/2021-08-31/why-free-parking-is-bad-according-to-one-ucla-professor)
-- [A Brief History of Markov Chains](https://mewo2.com/notes/markov-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
