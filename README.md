@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Death” one of 5 ways to lose at Chess, according to PGN standard](http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm#c9.8.1)
+- [Are There More Surviving Ancient Writings in Greek or Latin?](https://talesoftimesforgotten.com/2021/09/25/are-there-more-surviving-ancient-writings-in-greek-or-latin/)
 - [EasyPost (YC S13) Is Hiring (Remote)](https://www.easypost.com/careers)
-- [California makes zero-emission autonomous vehicles mandatory by 2030](https://www.engadget.com/california-zero-emissions-autonomous-vehicles-2030-162009922.html)
-- [Scientists complete starch synthesis from CO2, revolutionary for agricultural](https://www.globaltimes.cn/page/202109/1235013.shtml)
-- [Ask HN: Did you buy Etheria tiles in 2015? You are likely rich](https://news.ycombinator.com/item?id=28661909)
-- [The Universe Is a Machine That Keeps Learning, Scientists Say](https://www.popularmechanics.com/science/a36112655/universe-is-self-learning-algorithm/)
+- [Tracking software for remote work is only getting smarter](https://www.washingtonpost.com/technology/2021/09/24/remote-work-from-home-surveillance/)
+- [Racketscript/Racketscript: Racket to JavaScript Compiler](https://github.com/racketscript/racketscript)
 <!-- BLOG-POST-LIST:END -->
 
 ---
