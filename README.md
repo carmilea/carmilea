@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop making employees turn on webcams during meetings](https://www.cnn.com/2021/09/24/tech/webcams-workplace-meetings/index.html)
+- [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
+- [Show HN: Generate shared 2FA codes for your entire team](https://tfa.one)
 - [Frustrated dev drops three zero-day vulns affecting Apple iOS 15](https://www.theregister.com/2021/09/24/apple_zeroday/)
 - [COVIDSafe: Australia’s digital contact tracing failure](https://ghuntley.com/covidsafe/)
 - [Moiré No More](https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319)
-- [Apple’s app review prevents developer from submitting fix to game for the blind](https://www.applevis.com/forum/accessibility-advocacy/apples-app-review-team-accessible-hangman)
 <!-- BLOG-POST-LIST:END -->
 
 ---
