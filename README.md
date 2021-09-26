@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost (YC S13) Is Hiring (Remote)](https://www.easypost.com/careers)
+- [California makes zero-emission autonomous vehicles mandatory by 2030](https://www.engadget.com/california-zero-emissions-autonomous-vehicles-2030-162009922.html)
 - [Scientists complete starch synthesis from CO2, revolutionary for agricultural](https://www.globaltimes.cn/page/202109/1235013.shtml)
+- [Ask HN: Did you buy Etheria tiles in 2015? You are likely rich](https://news.ycombinator.com/item?id=28661909)
 - [The Universe Is a Machine That Keeps Learning, Scientists Say](https://www.popularmechanics.com/science/a36112655/universe-is-self-learning-algorithm/)
-- [Congratulations, Mini, You Made the Stupidest Turn Signals Ever](https://jalopnik.com/congratulations-mini-you-made-the-stupidest-turn-sign-1847727385)
-- [Bitcoin Miners Eye Nuclear Power as Environmental Criticism Mounts](https://www.wsj.com/articles/bitcoin-miners-eye-nuclear-power-as-environmental-criticism-mounts-11632654002)
-- [Am I Mining to Somebody?](https://www.reddit.com/r/docker/comments/pvsjsq/am_i_mining_to_somebody/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
