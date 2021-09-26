@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook's Journey to the Metaverse](https://www.theguardian.com/technology/2021/sep/26/is-facebook-leading-us-on-a-journey-to-the-metaverse)
+- [Sustainable coffee grown in Finland with cellular agriculture](https://www.vttresearch.com/en/news-and-ideas/sustainable-coffee-grown-finland-land-drinks-most-coffee-capita-produces-its-first)
 - [Noam Chomsky on the cruelty of American imperialism](https://www.economist.com/by-invitation/2021/09/24/noam-chomsky-on-the-cruelty-of-american-imperialism)
-- [How to Live in Airbnbs for the Price of an Apartment Lease – ESI Money](https://esimoney.com/how-to-live-in-airbnbs-for-the-price-of-an-apartment-lease/)
-- [Edge.org's Annual Questions](https://www.edge.org/annual-questions)
-- [Trusting science leaves people vulnerable to believing pseudoscience](https://journalistsresource.org/health/trust-science-pseudoscience-misinformation/)
-- [Thousands of student files lost in error](https://www.taipeitimes.com/News/taiwan/archives/2021/09/26/2003765032)
+- [Paul Osman thinks about longterm strategies,open telemetry and boring systems](https://www.opslevel.com/blog/opslevel-convos-paul-osman/)
+- [How to Live in Airbnbs for the Price of an Apartment Lease](https://esimoney.com/how-to-live-in-airbnbs-for-the-price-of-an-apartment-lease/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
