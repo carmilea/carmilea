@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Leo as an Extension for VSCode](https://github.com/boltex/leointeg)
+- [New CA law allows to pull identifying info of gun owners from state registry](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB173)
+- [“Logic Alone, All Love Laid By”: Arthur Koestler’s “Darkness at Noon” (2019)](https://lareviewofbooks.org/article/logic-alone-all-love-laid-by-returning-to-arthur-koestlers-darkness-at-noon/)
 - [Clearview AI hits watchdog groups with subpoenas](https://www.politico.com/news/2021/09/24/clearview-ai-subpoena-watchdog-groups-514273)
 - [How great is the great firewall? Measuring China’s DNS censorship [pdf]](https://www.usenix.org/system/files/sec21-hoang.pdf)
 - [The Problem of Marital Loneliness](https://www.newyorker.com/culture/cultural-comment/the-problem-of-marital-loneliness)
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28657485)
 <!-- BLOG-POST-LIST:END -->
 
 ---
