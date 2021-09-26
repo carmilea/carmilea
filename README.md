@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lofi beats with nice bass to listen while you code, study or work](https://open.spotify.com/playlist/03XGVdYSFum8T6McmcU998)
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28657485)
 - [JSFuck](http://www.jsfuck.com/)
 - [Napster.com banned at some universities for clogging networks (2000)](https://www.iowastatedaily.com/napster-com-banned-at-some-universities-for-clogging-networks/article_23a8a315-cccc-5e15-9fdc-19145e034d3b.html)
 - [Found a program I wrote in 1981 and decided to bring it back to life](https://madned.substack.com/p/the-dead-code-diaries)
-- [Show HN: LIV is a webmail front-end for your personal email server](https://github.com/derek-zhou/liv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
