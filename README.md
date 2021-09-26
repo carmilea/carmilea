@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jellyfin: The Free Software Media System](https://jellyfin.org/)
 - [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
 - [Show HN: Generate shared 2FA codes for your entire team](https://tfa.one)
+- [Show HN: MPLG – Matplotlib GUI, design plots visually and export as Python code](https://everydayanchovies.github.io/mplg/mplg)
 - [Frustrated dev drops three zero-day vulns affecting Apple iOS 15](https://www.theregister.com/2021/09/24/apple_zeroday/)
-- [COVIDSafe: Australia’s digital contact tracing failure](https://ghuntley.com/covidsafe/)
-- [Moiré No More](https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319)
 <!-- BLOG-POST-LIST:END -->
 
 ---
