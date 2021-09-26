@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Congratulations, Mini, You Made the Stupidest Turn Signals Ever](https://jalopnik.com/congratulations-mini-you-made-the-stupidest-turn-sign-1847727385)
+- [Everyone Wants to Be an Influencer](https://www.axios.com/everyone-wants-to-be-an-influencer-458459d1-09f3-4396-a66c-fe03c9f38a7d.html)
+- [Iceland elects its first female-majority parliament](https://apnews.com/article/business-europe-elections-environment-and-nature-iceland-f9e66907b6e25560a508de0f4b118ddd)
 - [Show HN: Computer Engineering for Babies Book](https://www.kickstarter.com/projects/babyengineering/computer-engineering-for-babies)
-- [Twitter seeking input as it explores Filter and Limit controls on tweets](https://www.theverge.com/2021/9/24/22692264/twitter-filter-limit-tweet-replies-automatic)
-- [How Does Progress Happen?](https://www.vox.com/future-perfect/22652782/roots-of-progress-jason-crawford)
-- [Kidnapping, assassination and a London shoot-out: secret plans against WikiLeaks](https://news.yahoo.com/kidnapping-assassination-and-a-london-shoot-out-inside-the-ci-as-secret-war-plans-against-wiki-leaks-090057786.html)
-- [Nitter and other Internet reclamation projects](https://drewdevault.com/2021/09/23/Nitter-and-other-internet-reclamation-projects.html)
+- [Designing Low Upkeep Software](https://www.jefftk.com/p/designing-low-upkeep-software)
 <!-- BLOG-POST-LIST:END -->
 
 ---
