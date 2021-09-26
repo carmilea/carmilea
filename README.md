@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Face ID stops working if you replace the iPhone 13 screen with 3rd-party repair](https://newztrends.com/face-id-stops-working-if-you-replace-the-iphone-13-screen-with-third-party-repair-video/)
-- [Tech firms' nightmare: Vanishing green cards](https://www.axios.com/tech-firms-nightmare-vanishing-green-cards-587ef9a5-8152-465f-ac9a-3f1c913ead48.html)
-- [“Death” one of 5 ways to lose at Chess, according to PGN standard](http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm#c9.8.1)
-- [Getting Started with GitHub Actions with Python](https://ghapi.fast.ai/tutorial_actions.html)
-- [Ask HN: How do you do estimates in 2021?](https://news.ycombinator.com/item?id=28662856)
+- [Stop making employees turn on webcams during meetings](https://www.cnn.com/2021/09/24/tech/webcams-workplace-meetings/index.html)
+- [Frustrated dev drops three zero-day vulns affecting Apple iOS 15](https://www.theregister.com/2021/09/24/apple_zeroday/)
+- [COVIDSafe: Australia’s digital contact tracing failure](https://ghuntley.com/covidsafe/)
+- [Moiré No More](https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319)
+- [Apple’s app review prevents developer from submitting fix to game for the blind](https://www.applevis.com/forum/accessibility-advocacy/apples-app-review-team-accessible-hangman)
 <!-- BLOG-POST-LIST:END -->
 
 ---
