@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily (YC W16) Is Hiring Product Managers](https://dailyco.notion.site/Product-Manager-1ddece309c8c4e6ea20eb1c11299a972)
+- [Prevent Google from mangling search result links when click/copying on Firefox](https://gist.github.com/radiantly/e1c7319214c77fa007f323fc56cd0239)
 - [Benchmark results: Cassandra 4.0, 3.11, Scylla 4.4 [video]](https://www.youtube.com/watch?v=hrA-Exd_qI4)
+- [Bitfinex just spent $23.7M in fees to make a single Ethereum transaction](https://www.theblockcrypto.com/post/118753/bitfinex-just-spent-23-7-million-in-fees-to-make-one-ethereum-transaction)
 - [Wonk is a tool for combining a set of AWS policy files into smaller sets](https://github.com/aminohealth/wonk)
-- [On the Internet, We’re Always Famous](https://www.newyorker.com/news/essay/on-the-internet-were-always-famous)
-- [I bricked then recovered my reMarkable 2](https://operand.ca/2021/09/27/how_i_bricked_then_recovered_my_remarkable_2.html)
-- [India bans all form of Recurring Card Charges](https://qz.com/india/229295/the-rbis-stringent-rules-on-recurring-payments-are-driving-away-indias-software-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
