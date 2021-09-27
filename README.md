@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pausing “Instagram Kids” and Building Parental Supervision Tools](https://about.instagram.com/blog/announcements/pausing-instagram-kids)
-- [Porter (YC W22) Is Hiring a UX/Product Engineer](https://www.ycombinator.com/companies/porter/jobs/V5kia33-ux-product-engineer)
-- [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
-- [Lite XL: A lightweight text editor written in Lua](https://github.com/lite-xl/lite-xl)
-- [Show HN: Tape It, iOS recording app for musicians](https://news.ycombinator.com/item?id=28669373)
+- [Is Competition for Losers?](https://rugpullindex.com/blog#IsCompetitionForLosers)
+- [Pumps run dry at gas stations in Britain](https://www.reuters.com/world/uk/uk-gas-stations-are-running-dry-english-cities-retailers-association-says-2021-09-27/)
+- [The Cybernetics Scare and the Origins of the Internet](https://balticworlds.com/the-cybernetics-scare-and-the-origins-of-the-internet/)
+- [What if Git worked with Programming Languages?](https://github.com/GavinMendelGleason/syntactic_versioning)
+- [TV is a cross-platform CSV pretty printer made to maximize viewer enjoyment](https://github.com/alexhallam/tv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
