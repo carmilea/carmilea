@@ -55,7 +55,7 @@
 - [What Is Domain-Driven Design (DDD)](https://verraes.net/2021/09/what-is-domain-driven-design-ddd/)
 - [Heroku's Managed DB's have been down for 2+ hours](https://status.heroku.com/incidents/2361)
 - [Always Multiply Your Estimates by π](https://web.archive.org/web/20170603123809/http://www.tuicool.com:80/articles/7niyym)
-- [Signal is experiencing technical difficulties](https://status.signal.org/)
+- [US military eyes prototype mobile nuclear reactor in Idaho](https://apnews.com/article/joe-biden-science-technology-business-us-department-of-defense-8e719afd9538b14cb8aa0c4031deb31b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
