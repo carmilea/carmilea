@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily (YC W16) Is Hiring Product Managers](https://dailyco.notion.site/Product-Manager-1ddece309c8c4e6ea20eb1c11299a972)
-- [Prevent Google from mangling search result links when click/copying on Firefox](https://gist.github.com/radiantly/e1c7319214c77fa007f323fc56cd0239)
-- [Benchmark results: Cassandra 4.0, 3.11, Scylla 4.4 [video]](https://www.youtube.com/watch?v=hrA-Exd_qI4)
-- [Bitfinex just spent $23.7M in fees to make a single Ethereum transaction](https://www.theblockcrypto.com/post/118753/bitfinex-just-spent-23-7-million-in-fees-to-make-one-ethereum-transaction)
-- [Wonk is a tool for combining a set of AWS policy files into smaller sets](https://github.com/aminohealth/wonk)
+- [Laboratory Notebook Skills [pdf]](https://www.dur.ac.uk/resources/physics/students/labs/skills/notebookskills.pdf)
+- [Japan breaks world record for fastest internet speed](https://www.freethink.com/technology/fastest-internet-speed)
+- [RFC 3: Documentation conventions (1969)](https://datatracker.ietf.org/doc/html/rfc3)
+- [What if there were no ad blockers?](https://www.rlvision.com/blog/what-if-there-were-no-ad-blockers/)
+- [What John von Neumann Did at Los Alamos](https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
