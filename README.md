@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Medical debt plays a role in a majority of Oregon bankruptcy filings](https://www.opb.org/article/2021/09/27/medical-debt-plays-a-role-in-a-majority-of-oregon-bankruptcy-filings/)
 - [Something weird is happening on Facebook](https://www.politicalorphans.com/something-weird-is-happening-on-facebook/)
 - [Laboratory Notebook Skills [pdf]](https://www.dur.ac.uk/resources/physics/students/labs/skills/notebookskills.pdf)
-- [Retail jobs are treated as a temporary bridge to something better.  But why?](https://www.npr.org/2021/09/27/1039706916/retail-jobs-are-treated-as-a-temporary-bridge-to-something-better-but-why)
-- [Renters Now Rule the Suburbs in DC, Miami and Los Angeles](https://commercialobserver.com/2021/09/renters-now-rule-the-suburbs-in-dc-miami-and-los-angeles/)
-- [Google Is Appealing a $5B Antitrust Fine in the EU](https://www.npr.org/2021/09/27/1040889789/google-eu-android-appeal-antitrust)
+- [Japan breaks world record for fastest internet speed](https://www.freethink.com/technology/fastest-internet-speed)
+- [What John von Neumann Did at Los Alamos](https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
