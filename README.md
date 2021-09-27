@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Optromloader: 8086 floppy-loading of option ROMs](https://github.com/rvalles/optromloader)
 - [Spellbrush (YC W18) is hiring an Anime Games marketer](https://www.workatastartup.com/jobs/46307)
 - [3D Printing – High Security Key](https://github.com/feelsong/3d-printing-high-security-key)
 - [Serious privacy/security concerns raised about Portpass vaccine verification app](https://www.cbc.ca/news/canada/calgary/portpass-security-concerns-1.6190403)
 - [Intergalactic jump inspired by science-fiction movies](https://starrior.com)
-- [We Put a Blockchain on Google Sheets](https://github.com/nalinbhardwaj/shiit-coin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
