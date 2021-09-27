@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Competition for Losers?](https://rugpullindex.com/blog#IsCompetitionForLosers)
-- [Pumps run dry at gas stations in Britain](https://www.reuters.com/world/uk/uk-gas-stations-are-running-dry-english-cities-retailers-association-says-2021-09-27/)
-- [The Cybernetics Scare and the Origins of the Internet](https://balticworlds.com/the-cybernetics-scare-and-the-origins-of-the-internet/)
-- [What if Git worked with Programming Languages?](https://github.com/GavinMendelGleason/syntactic_versioning)
-- [TV is a cross-platform CSV pretty printer made to maximize viewer enjoyment](https://github.com/alexhallam/tv)
+- [India bans all form of Recurring Card Charges](https://qz.com/india/229295/the-rbis-stringent-rules-on-recurring-payments-are-driving-away-indias-software-companies/)
+- [Samsung proposes copying brains to neuromorphic chips](https://www.nature.com/articles/s41928-021-00646-1)
+- [‘Impossible’ Particle Discovery Adds Key Piece to the Strong Force Puzzle](https://www.quantamagazine.org/impossible-particle-discovery-adds-key-piece-to-the-strong-force-puzzle-20210927/)
+- [Why Lockdown, Distance Learning Likely to Increase Social Class Achievement Gap](https://www.nature.com/articles/s41562-021-01212-7)
+- [Teaching a cheap ethernet switch new tricks (2019)](https://blog.benjojo.co.uk/post/dell-switch-hacking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
