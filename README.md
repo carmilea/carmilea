@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Signal is experiencing technical difficulties](https://status.signal.org/)
+- [Ask HN: Software design patterns for projects without a scope?](https://news.ycombinator.com/item?id=28667078)
+- [US military eyes prototype mobile nuclear reactor in Idaho](https://apnews.com/article/joe-biden-science-technology-business-us-department-of-defense-8e719afd9538b14cb8aa0c4031deb31b)
+- [Apple Disables FaceID if you change the screen yourself – even with OEM screen](https://www.youtube.com/watch?v=c7P7Ytl7DGM)
 - [Optromloader: 8086 floppy-loading of option ROMs](https://github.com/rvalles/optromloader)
-- [Spellbrush (YC W18) is hiring an Anime Games marketer](https://www.workatastartup.com/jobs/46307)
-- [3D Printing – High Security Key](https://github.com/feelsong/3d-printing-high-security-key)
-- [Serious privacy/security concerns raised about Portpass vaccine verification app](https://www.cbc.ca/news/canada/calgary/portpass-security-concerns-1.6190403)
-- [Intergalactic jump inspired by science-fiction movies](https://starrior.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
