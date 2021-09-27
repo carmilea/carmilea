@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Find Reddit discussion threads for your TV shows](https://www.redditdiscuss.com/)
+- [Explained: Knightian Uncertainty](https://news.mit.edu/2010/explained-knightian-0602)
+- [Why America has a school bus driver shortage](https://thehustle.co/why-america-has-a-school-bus-driver-shortage/)
+- [Sometimes Mindlessness Is Better Than Mindfulness](https://www.scientificamerican.com/article/sometimes-mindlessness-is-better-than-mindfulness/)
 - [What Our Research Says About Teen Well-Being and Instagram](https://about.fb.com/news/2021/09/research-teen-well-being-and-instagram/)
-- [Shodan Search Engine: Search Engine for the Internet of Everything](https://www.shodan.io/)
-- [Jellyfin: Free Software Media System](https://jellyfin.org/)
-- [Skio (YC S20) is hiring founding engineers](https://skio.com/careers)
-- [Show HN: Generate shared 2FA codes for your entire team](https://tfa.one)
 <!-- BLOG-POST-LIST:END -->
 
 ---
