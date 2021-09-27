@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spellbrush (YC W18) is hiring an anime games marketer](https://www.workatastartup.com/jobs/46307)
+- [Spellbrush (YC W18) is hiring an Anime Games marketer](https://www.workatastartup.com/jobs/46307)
 - [3D Printing – High Security Key](https://github.com/feelsong/3d-printing-high-security-key)
-- [It's not your age that's slowing your metabolism, new research says](https://lite.cnn.com/en/article/h_6393a3cab16cabbe7bfa1e77505a6ef8)
+- [Serious privacy/security concerns raised about Portpass vaccine verification app](https://www.cbc.ca/news/canada/calgary/portpass-security-concerns-1.6190403)
 - [Intergalactic jump inspired by science-fiction movies](https://starrior.com)
 - [We Put a Blockchain on Google Sheets](https://github.com/nalinbhardwaj/shiit-coin)
 <!-- BLOG-POST-LIST:END -->
