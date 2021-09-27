@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Has to Disclose How Its Algorithms Judge Workers Per a New California Law](https://interestingengineering.com/amazon-has-to-disclose-how-its-algorithms-judge-workers-per-a-new-california-law)
-- [The Mom Test – How to talk to customers](https://sandro.volpee.de/the-mom-test-summary-validate-ideas)
-- [Domain-Driven Design (DDD)](https://verraes.net/2021/09/what-is-domain-driven-design-ddd/)
-- [Heroku's Managed DB's have been down for 2+ hours](https://status.heroku.com/incidents/2361)
-- [Always Multiply Your Estimates by π (2013)](https://web.archive.org/web/20170603123809/http://www.tuicool.com:80/articles/7niyym)
+- [Porter (YC W22) Is Hiring a UX/Product Engineer](https://www.ycombinator.com/companies/porter/jobs/V5kia33-ux-product-engineer)
+- [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
+- [Lite XL: A lightweight text editor written in Lua](https://github.com/lite-xl/lite-xl)
+- [Show HN: Tape It, iOS recording app for musicians](https://news.ycombinator.com/item?id=28669373)
+- [Europe's energy crisis is coming for the rest of the world, too](https://www.bloomberg.com/news/articles/2021-09-27/europe-s-energy-crisis-is-about-to-go-global-as-gas-prices-soar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
