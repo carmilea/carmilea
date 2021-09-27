@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Mom Test – How to Talk to Customers. A Summary](https://sandro.volpee.de/the-mom-test-summary-validate-ideas)
+- [What Is Domain-Driven Design (DDD)](https://verraes.net/2021/09/what-is-domain-driven-design-ddd/)
+- [Heroku's Managed DB's have been down for 2+ hours](https://status.heroku.com/incidents/2361)
+- [Always Multiply Your Estimates by π](https://web.archive.org/web/20170603123809/http://www.tuicool.com:80/articles/7niyym)
 - [Signal is experiencing technical difficulties](https://status.signal.org/)
-- [Ask HN: Software design patterns for projects without a scope?](https://news.ycombinator.com/item?id=28667078)
-- [US military eyes prototype mobile nuclear reactor in Idaho](https://apnews.com/article/joe-biden-science-technology-business-us-department-of-defense-8e719afd9538b14cb8aa0c4031deb31b)
-- [Apple Disables FaceID if you change the screen yourself – even with OEM screen](https://www.youtube.com/watch?v=c7P7Ytl7DGM)
-- [Optromloader: 8086 floppy-loading of option ROMs](https://github.com/rvalles/optromloader)
 <!-- BLOG-POST-LIST:END -->
 
 ---
