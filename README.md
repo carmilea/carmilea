@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Image Sharing. No Bullshit](https://imgz.org)
+- [Cloud Run Quietly Swaps Home Env Var in Docker](https://chanind.github.io/2021/09/27/cloud-run-home-env-change.html)
 - [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
+- [Raspberry Pi 4 model Bs arriving with newer 'C0' stepping](http://www.jeffgeerling.com/blog/2021/raspberry-pi-4-model-bs-arriving-newer-c0-stepping)
 - [ETH: $23M transaction fee sent to a miner](https://etherscan.io/tx/0x2c9931793876db33b1a9aad123ad4921dfb9cd5e59dbb78ce78f277759587115)
-- [U.S. to open program to replace Huawei equipment in U.S. networks](https://www.reuters.com/business/media-telecom/us-open-program-replace-huawei-equipment-us-networks-2021-09-27/)
-- [DoS Attacks against my Online Game](https://hookrace.net/blog/dos-attacks-against-online-game/)
-- [Imgur Acquired by Medialab](https://imgur.com/gallery/We6yCM2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
