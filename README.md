@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Benchmark results: Cassandra 4.0, 3.11, Scylla 4.4 [video]](https://www.youtube.com/watch?v=hrA-Exd_qI4)
+- [Wonk is a tool for combining a set of AWS policy files into smaller sets](https://github.com/aminohealth/wonk)
+- [On the Internet, We’re Always Famous](https://www.newyorker.com/news/essay/on-the-internet-were-always-famous)
+- [I bricked then recovered my reMarkable 2](https://operand.ca/2021/09/27/how_i_bricked_then_recovered_my_remarkable_2.html)
 - [India bans all form of Recurring Card Charges](https://qz.com/india/229295/the-rbis-stringent-rules-on-recurring-payments-are-driving-away-indias-software-companies/)
-- [Samsung proposes copying brains to neuromorphic chips](https://www.nature.com/articles/s41928-021-00646-1)
-- [‘Impossible’ Particle Discovery Adds Key Piece to the Strong Force Puzzle](https://www.quantamagazine.org/impossible-particle-discovery-adds-key-piece-to-the-strong-force-puzzle-20210927/)
-- [Why Lockdown, Distance Learning Likely to Increase Social Class Achievement Gap](https://www.nature.com/articles/s41562-021-01212-7)
-- [Teaching a cheap ethernet switch new tricks (2019)](https://blog.benjojo.co.uk/post/dell-switch-hacking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
