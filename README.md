@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Has to Disclose How Its Algorithms Judge Workers Per a New California Law](https://interestingengineering.com/amazon-has-to-disclose-how-its-algorithms-judge-workers-per-a-new-california-law)
 - [JSON5 Data Interchange Format](https://json5.org/)
 - [The Mom Test – How to talk to customers](https://sandro.volpee.de/the-mom-test-summary-validate-ideas)
 - [Domain-Driven Design (DDD)](https://verraes.net/2021/09/what-is-domain-driven-design-ddd/)
 - [Heroku's Managed DB's have been down for 2+ hours](https://status.heroku.com/incidents/2361)
-- [Always Multiply Your Estimates by π](https://web.archive.org/web/20170603123809/http://www.tuicool.com:80/articles/7niyym)
 <!-- BLOG-POST-LIST:END -->
 
 ---
