@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Medical debt plays a role in a majority of Oregon bankruptcy filings](https://www.opb.org/article/2021/09/27/medical-debt-plays-a-role-in-a-majority-of-oregon-bankruptcy-filings/)
-- [Something weird is happening on Facebook](https://www.politicalorphans.com/something-weird-is-happening-on-facebook/)
-- [Laboratory Notebook Skills [pdf]](https://www.dur.ac.uk/resources/physics/students/labs/skills/notebookskills.pdf)
-- [Japan breaks world record for fastest internet speed](https://www.freethink.com/technology/fastest-internet-speed)
-- [What John von Neumann Did at Los Alamos](https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html)
+- [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
+- [ETH: $23M transaction fee sent to a miner](https://etherscan.io/tx/0x2c9931793876db33b1a9aad123ad4921dfb9cd5e59dbb78ce78f277759587115)
+- [U.S. to open program to replace Huawei equipment in U.S. networks](https://www.reuters.com/business/media-telecom/us-open-program-replace-huawei-equipment-us-networks-2021-09-27/)
+- [DoS Attacks against my Online Game](https://hookrace.net/blog/dos-attacks-against-online-game/)
+- [Imgur Acquired by Medialab](https://imgur.com/gallery/We6yCM2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
