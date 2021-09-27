@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Find Reddit discussion threads for your TV shows](https://www.redditdiscuss.com/)
-- [Explained: Knightian Uncertainty](https://news.mit.edu/2010/explained-knightian-0602)
-- [Why America has a school bus driver shortage](https://thehustle.co/why-america-has-a-school-bus-driver-shortage/)
-- [Sometimes Mindlessness Is Better Than Mindfulness](https://www.scientificamerican.com/article/sometimes-mindlessness-is-better-than-mindfulness/)
-- [What Our Research Says About Teen Well-Being and Instagram](https://about.fb.com/news/2021/09/research-teen-well-being-and-instagram/)
+- [Spellbrush (YC W18) is hiring an anime games marketer](https://www.workatastartup.com/jobs/46307)
+- [3D Printing – High Security Key](https://github.com/feelsong/3d-printing-high-security-key)
+- [It's not your age that's slowing your metabolism, new research says](https://lite.cnn.com/en/article/h_6393a3cab16cabbe7bfa1e77505a6ef8)
+- [Intergalactic jump inspired by science-fiction movies](https://starrior.com)
+- [We Put a Blockchain on Google Sheets](https://github.com/nalinbhardwaj/shiit-coin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
