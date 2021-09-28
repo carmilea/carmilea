@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Interview Engineers (2020)](https://www.spakhm.com/p/how-to-interview-engineers)
 - [Amplosion: US$ 3 for never seeing an AMP link again (iOS)](https://apps.apple.com/br/app/amplosion-redirect-amp-links/id1585734696?l=en)
+- [Partitioning GitHub's databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
 - [Synth (YC S21) Is Hiring](https://www.workatastartup.com/companies/synth-2)
 - [Ford to invest in EV and battery plants in Tennessee and Kentucky [pdf]](https://s23.q4cdn.com/799033206/files/doc_news/2021/09/27/Press-Release_Ford-Multi-State-Investment_9-27-21.pdf)
-- [Beware survivorship bias in advice on science careers](https://www.nature.com/articles/d41586-021-02634-z)
-- [What it's like to spend 40-50 hours in VR every week](https://blog.immersed.team/working-from-orbit-39bf95a6d385)
 <!-- BLOG-POST-LIST:END -->
 
 ---
