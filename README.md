@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Substack (YC W18) Is Hiring Engineering Managers to Build the Future of Writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
+- [Squirrel stores thousands of nuts inside man's parked truck](https://local12.com/news/offbeat/squirrel-stores-thousands-of-nuts-inside-mans-parked-truck-north-dakota-storage-bill-fischer-engine-compartment-black-walnuts-cleanup-gallons-chevy-avalanche)
+- [Dude, Where’s My Stuff?](https://am.jpmorgan.com/us/en/asset-management/institutional/insights/market-insights/eye-on-the-market/dude-where-is-my-stuff/)
+- [Substack (YC W18) is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
 - [Podman in Linux](http://diego-pacheco.blogspot.com/2021/09/podmain-in-linux.html)
-- [America is highly vulnerable to a missile attack](https://asiatimes.com/2021/09/america-is-highly-vulnerable-to-a-missile-attack/)
-- [Exercise is neuroprotective, in part via Irisin (hormone released from FNDC5)](http://www.nia.nih.gov/news/hormone-links-exercise-cognitive-benefits)
-- [Xi Jinping’s War on Spontaneous Order](https://scholars-stage.org/xi-jinpings-war-on-spontaneous-order/)
+- [My Wife Was Dying of Brain Cancer. My Boss at Amazon Told Me to Perform or Quit](https://www.motherjones.com/politics/2021/09/my-wife-was-dying-of-brain-cancer-my-boss-at-amazon-told-me-to-perform-or-quit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
