@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The train that shrunk France and Western Europe](https://arstechnica.com/cars/2021/09/the-train-that-shrunk-france-and-europe/)
 - [Jerry (YC S17) Is Hiring](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - [Google sets burial date for legacy Chrome Extensions, fears for ad-blockers grow](https://www.theregister.com/2021/09/27/google_chrome_manifest_v2_extensions/)
-- [Listmonk – Free and open source self-hosted newsletter and mailing list manager](https://listmonk.app/)
 - [How to Write a Killer Remote Developer Job Description (+ Checklist)](https://arc.dev/blog/remote-developer-job-description-cxe1psag4y)
-- [Round rectangles are everywhere (1981)](https://www.folklore.org/StoryView.py?story=Round_Rects_Are_Everywhere.txt)
+- [I don't think Elasticsearch is a good logging system](https://blog.sinkingpoint.com/posts/elasticsearch-logging/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
