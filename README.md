@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jerry (YC S17) Is Hiring](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [Google sets burial date for legacy Chrome Extensions, fears for ad-blockers grow](https://www.theregister.com/2021/09/27/google_chrome_manifest_v2_extensions/)
+- [Listmonk – Free and open source self-hosted newsletter and mailing list manager](https://listmonk.app/)
 - [How to Write a Killer Remote Developer Job Description (+ Checklist)](https://arc.dev/blog/remote-developer-job-description-cxe1psag4y)
 - [Round rectangles are everywhere (1981)](https://www.folklore.org/StoryView.py?story=Round_Rects_Are_Everywhere.txt)
-- [Product Design Basics – A toolkit of concepts and frameworks](https://modelthinkers.com/playbook/product-design-basics)
-- [Project IceStorm: open-source toolchain for Lattice iCE40 FPGAs](http://www.clifford.at/icestorm/)
-- [Generate a Elixir/Phoenix Boilerplate and save hours on your next project](https://fullstackphoenix.com/boilerplates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
