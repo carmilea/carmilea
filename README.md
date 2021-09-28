@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Angellist: Stack](https://www.angellist.com/stack)
 - [Welcome (YC W20) is hiring junior engineers](https://jobs.lever.co/welcome/afc63c2f-f6f9-461d-b05f-9d06ab6efe03?lever-origin=applied&lever-source%5B%5D=Hackernews)
 - [A visual C4 model tool for your team](https://icepanel.io/c4-model/?utm_source=hacker_news&utm_medium=post&utm_campaign=version_15_launch)
-- [Dropbox Capture](https://www.dropbox.com/capture)
 - [Vintage Byte Magazine Library](https://vintageapple.org/byte/)
 - [You either die an MVP or live long enough to build content moderation](https://mux.com/blog/you-either-die-an-mvp-or-live-long-enough-to-build-content-moderation)
 <!-- BLOG-POST-LIST:END -->
