@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [23 years of Byte Magazine scans (Sept 1975 to July 1998)](https://vintageapple.org/byte/)
+- [You either die an MVP or live long enough to build content moderation](https://mux.com/blog/you-either-die-an-mvp-or-live-long-enough-to-build-content-moderation)
+- [Show HN: Self-Parking Car Evolution](https://trekhleb.dev/self-parking-car-evolution/)
 - [Launch HN: RescueTime (YC W08) – Redesigned for wellness, balance, remote work](https://news.ycombinator.com/item?id=28683597)
 - [Masscan: Scan the entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
-- [Stack size is invisible in C and the effects on “portability”](https://utcc.utoronto.ca/~cks/space/blog/programming/CStackSizeInvisible)
-- [Australia has lost one-third of its koalas in the past three years](https://www.reuters.com/world/asia-pacific/australia-has-lost-one-third-its-koalas-past-three-years-2021-09-21/)
-- [Tesla Sues for Defamation over Social Media Posts](https://jalopnik.com/tesla-sues-for-defamation-over-social-media-posts-1847750963)
 <!-- BLOG-POST-LIST:END -->
 
 ---
