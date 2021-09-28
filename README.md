@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Procedurally generating a rounded box mesh](https://wwwtyro.net/2021/09/24/rounded-box.html)
-- [IMGZ – Paid image sharing](https://imgz.org)
-- [Cloud Run Quietly Swaps Home Env Var in Docker](https://chanind.github.io/2021/09/27/cloud-run-home-env-change.html)
-- [Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
-- [U.S. to open program to replace Huawei equipment in U.S. networks](https://www.reuters.com/business/media-telecom/us-open-program-replace-huawei-equipment-us-networks-2021-09-27/)
+- [Synth (YC S21) Is Hiring](https://www.workatastartup.com/companies/synth-2)
+- [Ford to invest $11.4B in EV and battery plants in TN and KY, Create 11k Jobs [pdf]](https://s23.q4cdn.com/799033206/files/doc_news/2021/09/27/Press-Release_Ford-Multi-State-Investment_9-27-21.pdf)
+- [What It's Like to Spend 40-50 Hours in VR Every Week](https://blog.immersed.team/working-from-orbit-39bf95a6d385)
+- [Canadian military saw pandemic as opportunity to test propaganda techniques](https://ottawacitizen.com/news/national/defence-watch/military-leaders-saw-pandemic-as-unique-opportunity-to-test-propaganda-techniques-on-canadians-forces-report-says)
+- [Malware gets into the App Store and why Apple can't stop that](https://habr.com/en/post/580272/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
