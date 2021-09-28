@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dover (YC S19) just raised $20m and is hiring eng leadership](https://www.dover.com/open-roles/engineering-manager)
-- [Inkscape 1.1.1 Is Released](https://inkscape.org/release/inkscape-1.1.1/)
-- [Google’s dominance in ad tech supply chain harms businesses and consumers](https://www.accc.gov.au/media-release/google%E2%80%99s-dominance-in-ad-tech-supply-chain-harms-businesses-and-consumers)
-- [Google and Facebook, I am facilitating packet filtering to block your tracking](https://peguero.xyz/blog/google_and_facebook_i_am_facilitating_packet_filtering_to_block_your_tracking.html)
-- [Hell is other people: a monk’s guide to office life](https://www.economist.com/1843/2021/07/14/hell-is-other-people-a-monks-guide-to-office-life)
+- [Revenge Bedtime Procrastination](https://annehelen.substack.com/p/revenge-bedtime-procrastination)
+- [Half of American Kids Have Lead in Their Blood, Doctors Say](https://futurism.com/neoscope/half-american-kids-lead-blood-doctors-say)
+- [Cloudflare R2 Storage: Rapid and Reliable Object Storage, Minus the Egress Fees](https://blog.cloudflare.com/introducing-r2-object-storage/)
+- [Ask HN: Where are all the Show HNs?](https://news.ycombinator.com/item?id=28682173)
+- [Masked Email from Fastmail and 1Password](https://www.fastmail.com/1password/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
