@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Project IceStorm: open-source toolchain for Lattice iCE40 FPGAs](http://www.clifford.at/icestorm/)
+- [Worldwide energy shortage shows up in surging coal, gas and oil prices](https://www.reuters.com/business/energy/worldwide-energy-shortage-shows-up-surging-coal-gas-oil-prices-kemp-2021-09-24/)
 - [How to Interview Engineers (2020)](https://www.spakhm.com/p/how-to-interview-engineers)
-- [Amplosion: US$ 3 for never seeing an AMP link again (iOS)](https://apps.apple.com/br/app/amplosion-redirect-amp-links/id1585734696?l=en)
-- [Partitioning GitHub's databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
-- [Synth (YC S21) Is Hiring](https://www.workatastartup.com/companies/synth-2)
-- [Ford to invest in EV and battery plants in Tennessee and Kentucky [pdf]](https://s23.q4cdn.com/799033206/files/doc_news/2021/09/27/Press-Release_Ford-Multi-State-Investment_9-27-21.pdf)
+- [‎Amplosion: Redirect AMP Links on the App Store](https://apps.apple.com/br/app/amplosion-redirect-amp-links/id1585734696?l=en)
+- [Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
