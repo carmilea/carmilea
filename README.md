@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FCC just rolled out its updated broadband and LTE maps](https://www.fcc.gov/BroadbandData/MobileMaps/mobile-map)
-- [Hypersonic HAWC Missile Flies, but Details Are Kept Hidden](https://www.airforcemag.com/hypersonic-hawc-missile-flies-details-kept-hidden/)
-- [OBS Studio 27.1.1](https://github.com/obsproject/obs-studio/releases/tag/27.1.1)
-- [Refined Hacker News](https://github.com/plibither8/refined-hacker-news)
-- [The iPhone of Robotics: The killer product of robotics is hidden in plain sight](https://lorenzopieri.com/cobot/)
+- [Substack (YC W18) Is Hiring Engineering Managers to Build the Future of Writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
+- [Podman in Linux](http://diego-pacheco.blogspot.com/2021/09/podmain-in-linux.html)
+- [America is highly vulnerable to a missile attack](https://asiatimes.com/2021/09/america-is-highly-vulnerable-to-a-missile-attack/)
+- [Exercise is neuroprotective, in part via Irisin (hormone released from FNDC5)](http://www.nia.nih.gov/news/hormone-links-exercise-cognitive-benefits)
+- [Xi Jinping’s War on Spontaneous Order](https://scholars-stage.org/xi-jinpings-war-on-spontaneous-order/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
