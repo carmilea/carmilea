@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cooling system leak led Tesla Megapack battery fire](https://esv.vic.gov.au/news/cooling-system-leak-led-to-victorian-big-battery-fire/)
-- [Intel breaks ground on $20 bln Arizona plants as U.S. chip factory race heats up](https://www.reuters.com/technology/intel-breaks-ground-20-bln-arizona-plants-us-chip-factory-race-heats-up-2021-09-24/)
-- [How to Visualize Decision Trees](https://explained.ai/decision-tree-viz/index.html)
-- [False Pro-China Accounts Invade Twitter in the UK](https://bitterwinter.org/pro-ccp-false-pro-china-accounts-invade-twitter-in-the-uk/)
-- [WhatsApp – About multi-device beta](https://faq.whatsapp.com/general/download-and-installation/about-multi-device-beta/?lang=en)
+- [Dover (YC S19) just raised $20m and is hiring eng leadership](https://www.dover.com/open-roles/engineering-manager)
+- [Inkscape 1.1.1 Is Released](https://inkscape.org/release/inkscape-1.1.1/)
+- [Google’s dominance in ad tech supply chain harms businesses and consumers](https://www.accc.gov.au/media-release/google%E2%80%99s-dominance-in-ad-tech-supply-chain-harms-businesses-and-consumers)
+- [Google and Facebook, I am facilitating packet filtering to block your tracking](https://peguero.xyz/blog/google_and_facebook_i_am_facilitating_packet_filtering_to_block_your_tracking.html)
+- [Hell is other people: a monk’s guide to office life](https://www.economist.com/1843/2021/07/14/hell-is-other-people-a-monks-guide-to-office-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
