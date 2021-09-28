@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Write a Killer Remote Developer Job Description (+ Checklist)](https://arc.dev/blog/remote-developer-job-description-cxe1psag4y)
+- [Round rectangles are everywhere (1981)](https://www.folklore.org/StoryView.py?story=Round_Rects_Are_Everywhere.txt)
+- [Product Design Basics – A toolkit of concepts and frameworks](https://modelthinkers.com/playbook/product-design-basics)
 - [Project IceStorm: open-source toolchain for Lattice iCE40 FPGAs](http://www.clifford.at/icestorm/)
-- [Worldwide energy shortage shows up in surging coal, gas and oil prices](https://www.reuters.com/business/energy/worldwide-energy-shortage-shows-up-surging-coal-gas-oil-prices-kemp-2021-09-24/)
-- [How to Interview Engineers (2020)](https://www.spakhm.com/p/how-to-interview-engineers)
-- [‎Amplosion: Redirect AMP Links on the App Store](https://apps.apple.com/br/app/amplosion-redirect-amp-links/id1585734696?l=en)
-- [Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
+- [Generate a Elixir/Phoenix Boilerplate and save hours on your next project](https://fullstackphoenix.com/boilerplates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
