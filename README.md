@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amplosion: US$ 3 for never seeing an AMP link again (iOS)](https://apps.apple.com/br/app/amplosion-redirect-amp-links/id1585734696?l=en)
 - [Synth (YC S21) Is Hiring](https://www.workatastartup.com/companies/synth-2)
-- [Ford to invest $11.4B in EV and battery plants in TN and KY, Create 11k Jobs [pdf]](https://s23.q4cdn.com/799033206/files/doc_news/2021/09/27/Press-Release_Ford-Multi-State-Investment_9-27-21.pdf)
+- [Ford to invest in EV and battery plants in Tennessee and Kentucky [pdf]](https://s23.q4cdn.com/799033206/files/doc_news/2021/09/27/Press-Release_Ford-Multi-State-Investment_9-27-21.pdf)
 - [Beware survivorship bias in advice on science careers](https://www.nature.com/articles/d41586-021-02634-z)
 - [What it's like to spend 40-50 hours in VR every week](https://blog.immersed.team/working-from-orbit-39bf95a6d385)
-- [Canadian military saw pandemic as opportunity to test propaganda techniques](https://ottawacitizen.com/news/national/defence-watch/military-leaders-saw-pandemic-as-unique-opportunity-to-test-propaganda-techniques-on-canadians-forces-report-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
