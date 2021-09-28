@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Revenge Bedtime Procrastination](https://annehelen.substack.com/p/revenge-bedtime-procrastination)
-- [Half of American Kids Have Lead in Their Blood, Doctors Say](https://futurism.com/neoscope/half-american-kids-lead-blood-doctors-say)
-- [Cloudflare R2 Storage: Rapid and Reliable Object Storage, Minus the Egress Fees](https://blog.cloudflare.com/introducing-r2-object-storage/)
-- [Ask HN: Where are all the Show HNs?](https://news.ycombinator.com/item?id=28682173)
-- [Masked Email from Fastmail and 1Password](https://www.fastmail.com/1password/)
+- [Masscan: Scan the entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
+- [Stack size is invisible in C and the effects on “portability”](https://utcc.utoronto.ca/~cks/space/blog/programming/CStackSizeInvisible)
+- [Australia has lost one-third of its koalas in the past three years](https://www.reuters.com/world/asia-pacific/australia-has-lost-one-third-its-koalas-past-three-years-2021-09-21/)
+- [Tesla Sues for Defamation over Social Media Posts](https://jalopnik.com/tesla-sues-for-defamation-over-social-media-posts-1847750963)
+- [Show HN: Pixeldrain – File sharing service optimized for speed and ease of use](https://pixeldrain.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
