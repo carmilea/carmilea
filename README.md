@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oculus will allow sideloading and rooting to avoid e-waste](https://twitter.com/id_aa_carmack/status/1441496418368294914)
-- [Show HN: Instant Preview for Static Websites](https://www.instantpreview.dev/)
-- [Join the waitlist for the fastest flowchart editor](https://www.knotend.com/waitlist)
+- [FCC just rolled out its updated broadband and LTE maps](https://www.fcc.gov/BroadbandData/MobileMaps/mobile-map)
+- [Hypersonic HAWC Missile Flies, but Details Are Kept Hidden](https://www.airforcemag.com/hypersonic-hawc-missile-flies-details-kept-hidden/)
+- [OBS Studio 27.1.1](https://github.com/obsproject/obs-studio/releases/tag/27.1.1)
+- [Refined Hacker News](https://github.com/plibither8/refined-hacker-news)
 - [The iPhone of Robotics: The killer product of robotics is hidden in plain sight](https://lorenzopieri.com/cobot/)
-- [The code worked differently when the moon was full](https://www.hanselman.com/blog/the-code-worked-differently-when-the-moon-was-full)
 <!-- BLOG-POST-LIST:END -->
 
 ---
