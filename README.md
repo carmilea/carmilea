@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Angellist: Stack](https://www.angellist.com/stack)
-- [Welcome (YC W20) is hiring junior engineers](https://jobs.lever.co/welcome/afc63c2f-f6f9-461d-b05f-9d06ab6efe03?lever-origin=applied&lever-source%5B%5D=Hackernews)
-- [A visual C4 model tool for your team](https://icepanel.io/c4-model/?utm_source=hacker_news&utm_medium=post&utm_campaign=version_15_launch)
-- [Vintage Byte Magazine Library](https://vintageapple.org/byte/)
-- [You either die an MVP or live long enough to build content moderation](https://mux.com/blog/you-either-die-an-mvp-or-live-long-enough-to-build-content-moderation)
+- [Oculus will allow sideloading and rooting to avoid e-waste](https://twitter.com/id_aa_carmack/status/1441496418368294914)
+- [Show HN: Instant Preview for Static Websites](https://www.instantpreview.dev/)
+- [Join the waitlist for the fastest flowchart editor](https://www.knotend.com/waitlist)
+- [The iPhone of Robotics: The killer product of robotics is hidden in plain sight](https://lorenzopieri.com/cobot/)
+- [The code worked differently when the moon was full](https://www.hanselman.com/blog/the-code-worked-differently-when-the-moon-was-full)
 <!-- BLOG-POST-LIST:END -->
 
 ---
