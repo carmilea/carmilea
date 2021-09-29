@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud-native App on AWS to contact trace passengers in Victoria during Covid](https://towardsaws.com/how-i-developed-a-cloud-native-web-app-on-aws-to-contact-trace-public-transport-passengers-in-vic-266342664f)
+- [Proposal to Merge YJIT into Ruby](https://bugs.ruby-lang.org/issues/18229)
 - [Bitmovin (YC S15) Is Hiring a Head of Demand Generation](https://bitmovin.com/careers/5524567002?gh_jid=5524567002)
+- [Apple AirTag Bug Enables ‘Good Samaritan’ Attack](https://krebsonsecurity.com/2021/09/apple-airtag-bug-enables-good-samaritan-attack/)
 - [Python behind the scenes #13: the GIL and its effects on Python multithreading](https://tenthousandmeters.com/blog/python-behind-the-scenes-13-the-gil-and-its-effects-on-python-multithreading/)
-- [About Offline First](https://rxdb.info/offline-first.html)
-- [Scientists create their own GPS by spying on internet satellites](https://www.science.org/content/article/scientists-create-their-own-gps-spying-internet-satellites)
-- [Statistics as algorithmic summarization](http://benjamin-recht.github.io/2021/09/28/summarization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
