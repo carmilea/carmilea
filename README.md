@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cambly (YC W14) is hiring product managers to break down language barriers](https://jobs.lever.co/cambly/ccdf38c1-b07b-466b-8b1b-51be11166a78)
+- [Why Your Website Should Use Dithered Images (2020)](https://endtimes.dev/why-you-should-dither-images/)
 - [Mosquitto: An open-source MQTT broker](https://github.com/eclipse/mosquitto)
-- [When new seat belt laws drew fire as a violation of personal freedom (2020)](https://www.history.com/news/seat-belt-laws-resistance)
+- [DEA Still Insists Marijuana Has No ‘Accepted Medical Use'](https://reason.com/2021/09/28/dea-still-insists-marijuana-has-no-accepted-medical-use/)
 - [Kraken Security Labs Identifies Vulnerabilities in Commonly Used Bitcoin ATM](https://blog.kraken.com/post/11263/kraken-security-labs-identifies-vulnerabilities-in-commonly-used-bitcoin-atm/)
-- [Elizabeth Holmes urged employees to hide Theranos’ lab equipment from inspectors](https://arstechnica.com/tech-policy/2021/09/elizabeth-holmes-urged-employees-to-hide-theranos-lab-equipment-from-inspectors/)
-- [Your Company Should Probably Pay $2k per Person for Open Source](https://gratipay.news/your-company-should-probably-pay-2000-per-person-for-open-source-9205443e209d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
