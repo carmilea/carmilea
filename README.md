@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Python behind the scenes #13: the GIL and its effects on Python multithreading](https://tenthousandmeters.com/blog/python-behind-the-scenes-13-the-gil-and-its-effects-on-python-multithreading/)
+- [Who’s homeless enough for housing? In San Francisco, an algorithm decides](https://www.codastory.com/authoritarian-tech/san-francisco-homeless-algorithm/)
+- [About Offline First](https://rxdb.info/offline-first.html)
+- [Scientists create their own GPS by spying on internet satellites](https://www.science.org/content/article/scientists-create-their-own-gps-spying-internet-satellites)
 - [Statistics as algorithmic summarization](http://benjamin-recht.github.io/2021/09/28/summarization/)
-- [Rivian R1T: First Drive in the Electric Pickup](https://www.businessinsider.com/rivian-r1t-ev-electric-pickup-first-drive-impressions-photos-2021-9)
-- [Selecting and Hardening Remote Access VPN Solutions [pdf]](https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF)
-- [Publishers unite to tackle doctored images in research papers](https://www.nature.com/articles/d41586-021-02610-7)
-- [Karbon Card (YC S21) Is Hiring](https://www.ycombinator.com/companies/karbon-card/jobs/R0EDqNY-chief-risk-officer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
