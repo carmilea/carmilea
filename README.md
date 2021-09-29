@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube is banning anti-vaccine activists and blocking all anti-vaccine content](https://www.washingtonpost.com/technology/2021/09/29/youtube-ban-joseph-mercola/)
+- [My Job Offer Was Rescinded After I’d Given Notice](https://www.thecut.com/article/ask-a-boss-my-job-offer-was-rescinded-after-i-gave-notice.html)
 - [Work at YC and write software that helps YC startups start their companies](https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer)
 - [How We Made Bracket Pair Colorization 10,000x Faster](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
-- [The Value of In-House Expertise](https://danluu.com/in-house/)
-- [Almost All of Facebook’s Top Christian Page Run by Foreign Troll Farms](https://www.relevantmagazine.com/culture/tech-gaming/almost-all-of-facebooks-top-christian-pages-are-run-by-foreign-troll-farms/)
-- [Response to 'Call for Review: Decentralized Identifiers (DIDs) v1.0'](https://lists.w3.org/Archives/Public/public-new-work/2021Sep/0000.html)
+- [I'm working on open source full time](https://www.willmcgugan.com/blog/tech/post/doing-open-source-full-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
