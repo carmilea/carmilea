@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cambly (YC W14) is hiring product managers to break down language barriers](https://jobs.lever.co/cambly/ccdf38c1-b07b-466b-8b1b-51be11166a78)
-- [Why Your Website Should Use Dithered Images (2020)](https://endtimes.dev/why-you-should-dither-images/)
-- [Mosquitto: An open-source MQTT broker](https://github.com/eclipse/mosquitto)
-- [DEA Still Insists Marijuana Has No ‘Accepted Medical Use'](https://reason.com/2021/09/28/dea-still-insists-marijuana-has-no-accepted-medical-use/)
-- [Kraken Security Labs Identifies Vulnerabilities in Commonly Used Bitcoin ATM](https://blog.kraken.com/post/11263/kraken-security-labs-identifies-vulnerabilities-in-commonly-used-bitcoin-atm/)
+- [Questions as pot comes to work](https://www.wsj.com/articles/is-it-ever-ok-to-get-stoned-with-a-client-and-other-questions-as-pot-comes-to-work-11632907802)
+- [Art or Heist? A Danish Artist Took $84,000 and Sent a Museum 2 Blank Canvases](https://www.npr.org/2021/09/29/1041492941/jens-haaning-kunsten-take-the-money-and-run-art-denmark-blank)
+- [Raspberry Pi as a Router Using a Single Network Interface](https://louwrentius.com/raspberry-pi-as-a-router-using-a-single-network-interface.html)
+- [Explore your JavaScript dependencies with Lighthouse Treemap](https://sia.codes/posts/lighthouse-treemap/)
+- [What's New in React 18?](https://yagmurcetintas.com/journal/whats-new-in-react-18/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
