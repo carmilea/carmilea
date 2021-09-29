@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube is banning anti-vaccine activists and blocking all anti-vaccine content](https://www.washingtonpost.com/technology/2021/09/29/youtube-ban-joseph-mercola/)
-- [My Job Offer Was Rescinded After I’d Given Notice](https://www.thecut.com/article/ask-a-boss-my-job-offer-was-rescinded-after-i-gave-notice.html)
-- [Work at YC and write software that helps YC startups start their companies](https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer)
-- [How We Made Bracket Pair Colorization 10,000x Faster](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
-- [I'm working on open source full time](https://www.willmcgugan.com/blog/tech/post/doing-open-source-full-time/)
+- [Elizabeth Holmes urged employees to hide Theranos’ lab equipment from inspectors](https://arstechnica.com/tech-policy/2021/09/elizabeth-holmes-urged-employees-to-hide-theranos-lab-equipment-from-inspectors/)
+- [Workers who keep global supply chains moving warn of 'system collapse'](https://www.cnn.com/2021/09/29/business/supply-chain-workers/index.html)
+- [Why Science Can't Settle Political Disputes](https://thereader.mitpress.mit.edu/why-science-cant-fix-politics/)
+- [YouTube removes “I Can't Believe You've Done This” video from 2007](https://twitter.com/twotafkap/status/1442952265552187394)
+- [iPhone Remains Findable After Power Off](https://twitter.com/matthew_d_green/status/1442870352799879174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
