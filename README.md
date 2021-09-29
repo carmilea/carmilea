@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Questions as pot comes to work](https://www.wsj.com/articles/is-it-ever-ok-to-get-stoned-with-a-client-and-other-questions-as-pot-comes-to-work-11632907802)
+- [How to fit any dataset with a single parameter](https://arxiv.org/abs/1904.12320)
+- [Show HN: See HN, Twitter discussions and posts mentioning the page you are on](https://ampie.app)
 - [Art or Heist? A Danish Artist Took $84,000 and Sent a Museum 2 Blank Canvases](https://www.npr.org/2021/09/29/1041492941/jens-haaning-kunsten-take-the-money-and-run-art-denmark-blank)
 - [Raspberry Pi as a Router Using a Single Network Interface](https://louwrentius.com/raspberry-pi-as-a-router-using-a-single-network-interface.html)
 - [Explore your JavaScript dependencies with Lighthouse Treemap](https://sia.codes/posts/lighthouse-treemap/)
-- [What's New in React 18?](https://yagmurcetintas.com/journal/whats-new-in-react-18/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
