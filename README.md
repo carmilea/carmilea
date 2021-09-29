@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mosquitto: An open-source MQTT broker](https://github.com/eclipse/mosquitto)
+- [When new seat belt laws drew fire as a violation of personal freedom (2020)](https://www.history.com/news/seat-belt-laws-resistance)
+- [Kraken Security Labs Identifies Vulnerabilities in Commonly Used Bitcoin ATM](https://blog.kraken.com/post/11263/kraken-security-labs-identifies-vulnerabilities-in-commonly-used-bitcoin-atm/)
 - [Elizabeth Holmes urged employees to hide Theranos’ lab equipment from inspectors](https://arstechnica.com/tech-policy/2021/09/elizabeth-holmes-urged-employees-to-hide-theranos-lab-equipment-from-inspectors/)
-- [Vive Liberapay (2018)](https://gratipay.news/vive-la-liberapay-14057a25eacb)
-- [Workers who keep global supply chains moving warn of 'system collapse'](https://www.cnn.com/2021/09/29/business/supply-chain-workers/index.html)
-- [Private Censorship Is Not the Best Way to Fight Hate or Defend Democracy(2018)](https://www.eff.org/deeplinks/2018/01/private-censorship-not-best-way-fight-hate-or-defend-democracy-here-are-some)
-- [Ask HN: Best Tip for Landing Pages?](https://news.ycombinator.com/item?id=28693542)
+- [Your Company Should Probably Pay $2k per Person for Open Source](https://gratipay.news/your-company-should-probably-pay-2000-per-person-for-open-source-9205443e209d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
