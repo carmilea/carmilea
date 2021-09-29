@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Elizabeth Holmes urged employees to hide Theranos’ lab equipment from inspectors](https://arstechnica.com/tech-policy/2021/09/elizabeth-holmes-urged-employees-to-hide-theranos-lab-equipment-from-inspectors/)
+- [Vive Liberapay (2018)](https://gratipay.news/vive-la-liberapay-14057a25eacb)
 - [Workers who keep global supply chains moving warn of 'system collapse'](https://www.cnn.com/2021/09/29/business/supply-chain-workers/index.html)
-- [Why Science Can't Settle Political Disputes](https://thereader.mitpress.mit.edu/why-science-cant-fix-politics/)
-- [YouTube removes “I Can't Believe You've Done This” video from 2007](https://twitter.com/twotafkap/status/1442952265552187394)
-- [iPhone Remains Findable After Power Off](https://twitter.com/matthew_d_green/status/1442870352799879174)
+- [Private Censorship Is Not the Best Way to Fight Hate or Defend Democracy(2018)](https://www.eff.org/deeplinks/2018/01/private-censorship-not-best-way-fight-hate-or-defend-democracy-here-are-some)
+- [Ask HN: Best Tip for Landing Pages?](https://news.ycombinator.com/item?id=28693542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
