@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unhook: Hide YouTube Recommendations](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
+- [Stripe launched 10 years ago today](https://twitter.com/patrickc/status/1443289393695911938)
 - [How to fit any dataset with a single parameter](https://arxiv.org/abs/1904.12320)
 - [Show HN: See HN, Twitter discussions and posts mentioning the page you are on](https://ampie.app)
-- [Art or Heist? A Danish Artist Took $84,000 and Sent a Museum 2 Blank Canvases](https://www.npr.org/2021/09/29/1041492941/jens-haaning-kunsten-take-the-money-and-run-art-denmark-blank)
-- [Raspberry Pi as a Router Using a Single Network Interface](https://louwrentius.com/raspberry-pi-as-a-router-using-a-single-network-interface.html)
-- [Explore your JavaScript dependencies with Lighthouse Treemap](https://sia.codes/posts/lighthouse-treemap/)
+- [Facebook's Mariana Trench Java static code analyzer](https://mariana-tren.ch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
