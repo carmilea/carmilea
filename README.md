@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Universities Turning into Social Justice Factory?](https://www.economist.com/united-states/2021/09/25/a-professors-resignation-highlights-pressures-within-academia-to-conform)
+- [Karbon Card (YC S21) Is Hiring](https://bookface.ycombinator.com/company/24006/jobs/46737)
+- [A professor’s resignation highlights pressures within academia to conform](https://www.economist.com/united-states/2021/09/25/a-professors-resignation-highlights-pressures-within-academia-to-conform)
+- [Is Web Scraping Legal? A Comprehensive Review of the Legality of Web Scraping](https://www.crawlnow.com/blog/is-web-scraping-legal)
 - [Secret military aircraft possibly exposed on TikTok](https://warisboring.com/secret-military-aircraft-possibly-exposed-on-tiktok/)
-- [Squirrel stores thousands of nuts inside man's parked truck](https://local12.com/news/offbeat/squirrel-stores-thousands-of-nuts-inside-mans-parked-truck-north-dakota-storage-bill-fischer-engine-compartment-black-walnuts-cleanup-gallons-chevy-avalanche)
-- [Dude, Where’s My Stuff?](https://am.jpmorgan.com/us/en/asset-management/institutional/insights/market-insights/eye-on-the-market/dude-where-is-my-stuff/)
-- [Substack (YC W18) is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
+- [Gemini: The Misaligned Incentives](https://gerikson.com/blog/comm/Gemini-misaligned-incentives.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
