@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple didn't revolutionize power supplies; new transistors did](http://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
+- [AWS launches ARM-powered Lambdas](https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/)
 - [Chums (YC W21) Is Hiring a Lead Designer and a Back End Engineer](https://chumsco.notion.site/chumsco/Come-Work-Chums-d4788a53d8ee4820891e2ae7fa156120)
+- [Steve Jobs emails Eric Schmidt (2007)](https://twitter.com/TechEmails/status/1443263744906305543/photo/1)
 - [When users never use the features they asked for](https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html)
-- [πfs - the data-free filesystem](https://github.com/philipl/pifs)
-- [Pitch: Control Flow Negation Statements (2019)](https://forums.swift.org/t/pitch-control-flow-negation-statements/22447)
-- [Unhook: Hide YouTube Recommendations](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
