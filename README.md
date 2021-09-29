@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I got to drive the Rivian R1T. It redefines what a truck can be](https://www.businessinsider.com/rivian-r1t-ev-electric-pickup-first-drive-impressions-photos-2021-9)
-- [NSA – Selecting and Hardening Remote Access VPN Solutions [pdf]](https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF)
-- [Karbon Card (YC S21) Is Hiring](https://bookface.ycombinator.com/company/24006/jobs/46737)
+- [Statistics as algorithmic summarization](http://benjamin-recht.github.io/2021/09/28/summarization/)
+- [Rivian R1T: First Drive in the Electric Pickup](https://www.businessinsider.com/rivian-r1t-ev-electric-pickup-first-drive-impressions-photos-2021-9)
+- [Selecting and Hardening Remote Access VPN Solutions [pdf]](https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF)
+- [Karbon Card (YC S21) Is Hiring](https://www.ycombinator.com/companies/karbon-card/jobs/R0EDqNY-chief-risk-officer)
 - [New tool reveals ultimate owners of companies](https://www.skoltech.ru/en/2021/09/new-tool-reveals-ultimate-owners-of-companies/)
-- [The Legality of Web Scraping](https://www.crawlnow.com/blog/is-web-scraping-legal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
