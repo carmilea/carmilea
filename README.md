@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chums (YC W21) Is Hiring a Lead Designer and a Back End Engineer](https://chumsco.notion.site/chumsco/Come-Work-Chums-d4788a53d8ee4820891e2ae7fa156120)
+- [When users never use the features they asked for](https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html)
+- [πfs - the data-free filesystem](https://github.com/philipl/pifs)
+- [Pitch: Control Flow Negation Statements (2019)](https://forums.swift.org/t/pitch-control-flow-negation-statements/22447)
 - [Unhook: Hide YouTube Recommendations](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
-- [Stripe launched 10 years ago today](https://twitter.com/patrickc/status/1443289393695911938)
-- [How to fit any dataset with a single parameter](https://arxiv.org/abs/1904.12320)
-- [Show HN: See HN, Twitter discussions and posts mentioning the page you are on](https://ampie.app)
-- [Facebook's Mariana Trench Java static code analyzer](https://mariana-tren.ch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
