@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Karbon Card (YC S21) Is Hiring](https://bookface.ycombinator.com/company/24006/jobs/46737)
-- [A professor’s resignation highlights pressures within academia to conform](https://www.economist.com/united-states/2021/09/25/a-professors-resignation-highlights-pressures-within-academia-to-conform)
-- [Is Web Scraping Legal? A Comprehensive Review of the Legality of Web Scraping](https://www.crawlnow.com/blog/is-web-scraping-legal)
+- [New tool reveals ultimate owners of companies](https://www.skoltech.ru/en/2021/09/new-tool-reveals-ultimate-owners-of-companies/)
+- [The Legality of Web Scraping](https://www.crawlnow.com/blog/is-web-scraping-legal)
 - [Secret military aircraft possibly exposed on TikTok](https://warisboring.com/secret-military-aircraft-possibly-exposed-on-tiktok/)
 - [Gemini: The Misaligned Incentives](https://gerikson.com/blog/comm/Gemini-misaligned-incentives.html)
 <!-- BLOG-POST-LIST:END -->
