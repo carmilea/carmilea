@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Bans Ron Paul Institute](https://twitter.com/RonPaul/status/1443628757676331012)
+- [Chip shortage leads carmaker Opel to shut German plant until 2022](https://www.reuters.com/business/autos-transportation/chip-shortage-leads-carmaker-opel-shut-german-plant-until-2022-2021-09-30/)
 - [Learning to Superoptimize real-world programs](https://arxiv.org/abs/2109.13498)
 - [The Ticket Fairy (YC S15) Is Hiring a Senior UI Designer](https://angel.co/l/2vRXdr)
 - [Things Unlearned](https://scattered-thoughts.net/writing/things-unlearned/)
-- [Minecraft to add telemetry](https://www.minecraft.net/en-us/article/minecraft-snapshot-21w38a)
-- [MEGA65 – highly advanced C64 and C65 compatible 8-bit computer](https://shop.trenz-electronic.de/en/TE0765-03-S001-MEGA65-highly-advanced-C64-and-C65-compatible-8-bit-computer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
