@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Silicon Lottery Closing Down](https://siliconlottery.com/)
-- [Slack is experiencing a service disruption](https://status.slack.com/2021-09/06c1e17de93e7dc2)
-- [U.S. declares more than 20 species extinct after exhaustive searches](https://www.axios.com/us-23-extinct-species-endangered-species-list-0555df01-b298-4df0-bc24-466d79530f2d.html)
-- [The Vanishing Climate Archives](https://graphics.reuters.com/CLIMATE-CHANGE/ICE-CORES/zjvqkjkjlvx/)
-- [Chip shortage leads carmaker Opel to shut German plant until 2022](https://www.reuters.com/business/autos-transportation/chip-shortage-leads-carmaker-opel-shut-german-plant-until-2022-2021-09-30/)
+- [During Banned Books Week, Readers Explore What It Means to Challenge Texts](https://www.npr.org/2021/09/30/1041610286/during-banned-books-week-readers-explore-what-it-means-to-challenge-texts)
+- [AWS Cloud Control API, a Uniform API to Access AWS and Third-Party Services](https://aws.amazon.com/blogs/aws/announcing-aws-cloud-control-api/)
+- [The Bulky Bears of Fat Bear Week 2021](https://www.smithsonianmag.com/smart-news/get-to-known-the-bodacious-bulky-bears-of-fat-bear-week-2021-180978778/)
+- [DMV Approves Cruise and Waymo to Operate Commercial Service in Parts of Bay Area](https://www.dmv.ca.gov/portal/news-and-media/117199-2/)
+- [Cruise gets permit to give driverless rides to passengers in San Francisco](https://www.marketscreener.com/quote/stock/SOFTBANK-GROUP-CORP-6492452/news/GM-s-Cruise-gets-permit-to-give-driverless-rides-to-passengers-in-San-Francisco-36563635/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
