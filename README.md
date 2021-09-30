@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No Difference in Viral Load Between Un/Vaxed/a/Symptomatic Covid Delta Infected](https://med.papers.bar/paper/2021.09.28.21264262)
-- [Understanding Awk](https://earthly.dev/blog/awk-examples/)
-- [The Great AI Reckoning](https://spectrum.ieee.org/special-reports/the-great-ai-reckoning/)
-- [Truth Behind Neo4j’s “Trillion” Relationship Graph](https://www.tigergraph.com/blogs/benchmark/truth-behind-neo4js-trillion-relationship-graph/)
-- [Major Quantum Computing Strategy Suffers Serious Setbacks](https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/)
+- [Learning to Superoptimize real-world programs](https://arxiv.org/abs/2109.13498)
+- [The Ticket Fairy (YC S15) Is Hiring a Senior UI Designer](https://angel.co/l/2vRXdr)
+- [Things Unlearned](https://scattered-thoughts.net/writing/things-unlearned/)
+- [Minecraft to add telemetry](https://www.minecraft.net/en-us/article/minecraft-snapshot-21w38a)
+- [MEGA65 – highly advanced C64 and C65 compatible 8-bit computer](https://shop.trenz-electronic.de/en/TE0765-03-S001-MEGA65-highly-advanced-C64-and-C65-compatible-8-bit-computer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
