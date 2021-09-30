@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Bans Ron Paul Institute](https://twitter.com/RonPaul/status/1443628757676331012)
+- [Silicon Lottery Closing Down](https://siliconlottery.com/)
+- [Slack is experiencing a service disruption](https://status.slack.com/2021-09/06c1e17de93e7dc2)
+- [U.S. declares more than 20 species extinct after exhaustive searches](https://www.axios.com/us-23-extinct-species-endangered-species-list-0555df01-b298-4df0-bc24-466d79530f2d.html)
+- [The Vanishing Climate Archives](https://graphics.reuters.com/CLIMATE-CHANGE/ICE-CORES/zjvqkjkjlvx/)
 - [Chip shortage leads carmaker Opel to shut German plant until 2022](https://www.reuters.com/business/autos-transportation/chip-shortage-leads-carmaker-opel-shut-german-plant-until-2022-2021-09-30/)
-- [Learning to Superoptimize real-world programs](https://arxiv.org/abs/2109.13498)
-- [The Ticket Fairy (YC S15) Is Hiring a Senior UI Designer](https://angel.co/l/2vRXdr)
-- [Things Unlearned](https://scattered-thoughts.net/writing/things-unlearned/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
