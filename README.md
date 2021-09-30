@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [During Banned Books Week, Readers Explore What It Means to Challenge Texts](https://www.npr.org/2021/09/30/1041610286/during-banned-books-week-readers-explore-what-it-means-to-challenge-texts)
-- [AWS Cloud Control API, a Uniform API to Access AWS and Third-Party Services](https://aws.amazon.com/blogs/aws/announcing-aws-cloud-control-api/)
-- [The Bulky Bears of Fat Bear Week 2021](https://www.smithsonianmag.com/smart-news/get-to-known-the-bodacious-bulky-bears-of-fat-bear-week-2021-180978778/)
-- [DMV Approves Cruise and Waymo to Operate Commercial Service in Parts of Bay Area](https://www.dmv.ca.gov/portal/news-and-media/117199-2/)
-- [Cruise gets permit to give driverless rides to passengers in San Francisco](https://www.marketscreener.com/quote/stock/SOFTBANK-GROUP-CORP-6492452/news/GM-s-Cruise-gets-permit-to-give-driverless-rides-to-passengers-in-San-Francisco-36563635/)
+- [Avenue (YC W21) is hiring across engineering, design, and bizops](https://jobs.ashbyhq.com/avenue)
+- [Senators Blast Facebook for Concealing Instagram's Risks to Kids](https://www.npr.org/2021/09/30/1041864356/instagram-kids-safety-congress-hearing)
+- [How Masten Space Systems Is Using Ada and Spark to Land on the Moon's South Pole [pdf]](https://www.adacore.com/uploads/techPapers/Masten-case-study.pdf)
+- [Sparta Was Much More Than an Army of Super Warriors](https://www.smithsonianmag.com/history/sparta-much-more-army-warriors-180978583/)
+- [Coping with the Clutter of Houseplants](https://dirtwise.substack.com/p/navigating-the-urban-jungle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
