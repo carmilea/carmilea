@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emacs org-mode version 9.5, a major release, is out](https://orgmode.org/Changes.html)
 - [On Logic, and How Not to Do It (1913)](https://landondcelkind.com/2021/03/31/wittgensteins-1913-on-logic-and-how-not-to-do-it/)
 - [The biggest churches in the world: Anglo-Norman eleventh-century cathedrals](https://stainedglassattitudes.wordpress.com/2021/05/07/the-biggest-churches-in-the-world-anglo-norman-eleventh-century-cathedrals/)
 - [A bit of math around Cloudflare's R2 pricing model](https://twitter.com/QuinnyPig/status/1443028078196711426)
 - [Low-cost brain computer interface for everyday use](https://www.researchgate.net/publication/354935534_Low-cost_brain_computer_interface_for_everyday_use)
-- [Writing Python Extensions in Assembly](https://tonybaloney.github.io/posts/extending-python-with-assembly.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
