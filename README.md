@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sensei's Library](https://senseis.xmp.net/)
+- [Mailgun Acquired by Sinch](https://www.mailgun.com/blog/sinch-to-acquire-pathwire/)
 - [New leak of Epik data exposes company’s entire server](https://www.dailydot.com/debug/anonymous-new-epik-leak/)
 - [Fusion News Ignites Optimism](https://www.nature.com/articles/s41566-021-00890-z)
 - [What a crossword AI reveals about humans' way with words](https://www.wired.com/story/crossword-ai-humans-way-with-words/)
-- [The Art of Linear Algebra [pdf]](https://raw.githubusercontent.com/kenjihiranabe/The-Art-of-Linear-Algebra/main/The-Art-of-Linear-Algebra.pdf)
-- [Emacs org-mode version 9.5, a major release, is out](https://orgmode.org/Changes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
