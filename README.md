@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gopher Is Still Worth Checking Out](https://hackaday.com/2021/09/28/gopher-the-competing-standard-to-www-in-the-90s-is-still-worth-checking-out/)
 - [Questbook is hiring a Golang Back end Engineer](https://www.ycombinator.com/companies/creatoros-questbook/jobs/3DHDEnz-golang-backend-engineer)
 - [Apple didn't revolutionize power supplies; new transistors did (2012)](http://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
 - [AWS launches ARM-powered Lambdas](https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/)
-- [Steve Jobs emails Eric Schmidt (2007)](https://twitter.com/TechEmails/status/1443263744906305543)
-- [When users never use the features they asked for](https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html)
+- [Face detection for my leaf blower](http://www.jeffgeerling.com/blog/2021/face-detection-my-leaf-blower)
 <!-- BLOG-POST-LIST:END -->
 
 ---
