@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Questbook is hiring a Golang Back end Engineer](https://www.ycombinator.com/companies/creatoros-questbook/jobs/3DHDEnz-golang-backend-engineer)
 - [Apple didn't revolutionize power supplies; new transistors did (2012)](http://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
 - [AWS launches ARM-powered Lambdas](https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/)
-- [Chums (YC W21) Is Hiring a Lead Designer and a Back End Engineer](https://chumsco.notion.site/chumsco/Come-Work-Chums-d4788a53d8ee4820891e2ae7fa156120)
-- [Steve Jobs emails Eric Schmidt (2007)](https://twitter.com/TechEmails/status/1443263744906305543/photo/1)
+- [Steve Jobs emails Eric Schmidt (2007)](https://twitter.com/TechEmails/status/1443263744906305543)
 - [When users never use the features they asked for](https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html)
 <!-- BLOG-POST-LIST:END -->
 
