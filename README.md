@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New leak of Epik data exposes company’s entire server](https://www.dailydot.com/debug/anonymous-new-epik-leak/)
+- [Fusion News Ignites Optimism](https://www.nature.com/articles/s41566-021-00890-z)
 - [What a crossword AI reveals about humans' way with words](https://www.wired.com/story/crossword-ai-humans-way-with-words/)
-- [Israeli Diplomat Pressured UNC to Remove Teacher Who Criticized Israel](https://theintercept.com/2021/09/28/israel-palestine-unc-academic-freedom/)
+- [The Art of Linear Algebra [pdf]](https://raw.githubusercontent.com/kenjihiranabe/The-Art-of-Linear-Algebra/main/The-Art-of-Linear-Algebra.pdf)
 - [Emacs org-mode version 9.5, a major release, is out](https://orgmode.org/Changes.html)
-- [On Logic, and How Not to Do It (1913)](https://landondcelkind.com/2021/03/31/wittgensteins-1913-on-logic-and-how-not-to-do-it/)
-- [The biggest churches in the world: Anglo-Norman eleventh-century cathedrals](https://stainedglassattitudes.wordpress.com/2021/05/07/the-biggest-churches-in-the-world-anglo-norman-eleventh-century-cathedrals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
