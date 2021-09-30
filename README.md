@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gopher Is Still Worth Checking Out](https://hackaday.com/2021/09/28/gopher-the-competing-standard-to-www-in-the-90s-is-still-worth-checking-out/)
+- [A bit of math around Cloudflare's R2 pricing model](https://twitter.com/QuinnyPig/status/1443028078196711426)
+- [Discipline by King Crimson](https://www.loudersound.com/features/why-you-should-definitely-own-discipline-by-king-crimson)
 - [Questbook is hiring a Golang Back end Engineer](https://www.ycombinator.com/companies/creatoros-questbook/jobs/3DHDEnz-golang-backend-engineer)
+- [Show HN: React Oxide: open source in-browser code editor with tabs and files](https://github.com/bootrino/reactoxide)
 - [Apple didn't revolutionize power supplies; new transistors did (2012)](http://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
-- [AWS launches ARM-powered Lambdas](https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/)
-- [Face detection for my leaf blower](http://www.jeffgeerling.com/blog/2021/face-detection-my-leaf-blower)
 <!-- BLOG-POST-LIST:END -->
 
 ---
