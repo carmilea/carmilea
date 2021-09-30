@@ -54,8 +54,8 @@
 - [The OpenBSD Webzine](https://webzine.puffy.cafe/)
 - [Always-on Processor magic: How Find My works while iPhone is powered off](https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html)
 - [Avenue (YC W21) is hiring across engineering, design, and bizops](https://jobs.ashbyhq.com/avenue)
-- [Senators Blast Facebook for Concealing Instagram's Risks to Kids](https://www.npr.org/2021/09/30/1041864356/instagram-kids-safety-congress-hearing)
 - [How Masten Space Systems Is Using Ada and Spark to Land on the Moon's South Pole [pdf]](https://www.adacore.com/uploads/techPapers/Masten-case-study.pdf)
+- [Sparta was much more than an army of super warriors](https://www.smithsonianmag.com/history/sparta-much-more-army-warriors-180978583/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
