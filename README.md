@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No Difference in Viral Load Between Un/Vaxed/a/Symptomatic Covid Delta Infected](https://med.papers.bar/paper/2021.09.28.21264262)
+- [Understanding Awk](https://earthly.dev/blog/awk-examples/)
+- [The Great AI Reckoning](https://spectrum.ieee.org/special-reports/the-great-ai-reckoning/)
+- [Truth Behind Neo4j’s “Trillion” Relationship Graph](https://www.tigergraph.com/blogs/benchmark/truth-behind-neo4js-trillion-relationship-graph/)
 - [Major Quantum Computing Strategy Suffers Serious Setbacks](https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/)
-- [First Human Case of Rabies in Illinois Since 1954](https://www.dph.illinois.gov/news/illinois-department-public-health-reporting-first-human-case-rabies-illinois-1954)
-- [Linux Achieves 5.1M IOPS Per-Core with AMD Zen 3 and Intel Optane](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.1M-IOPS-Per-Core)
-- [TaskJuggler – A Free and Open Source Project Management Software](https://taskjuggler.org/)
-- [Klimaticket: All public transport in Austria with a single ticket for 1095 EUR/y](https://www.klimaticket.at/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
