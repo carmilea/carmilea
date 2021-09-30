@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL 14 Released](https://www.postgresql.org/about/news/postgresql-14-released-2318/)
 - [Path (YC S19) is hiring Engineers to automate Gen Z finance](https://pathfinance.notion.site/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
-- [Fairphone 4 has a 5-year warranty, aims for 6 years of updates](https://arstechnica.com/gadgets/2021/09/fairphone-4-has-an-incredible-5-year-warranty-aims-for-6-years-of-updates/)
+- [Fairphone 4 has a five-year warranty and aims for six years of updates](https://arstechnica.com/gadgets/2021/09/fairphone-4-has-an-incredible-5-year-warranty-aims-for-6-years-of-updates/)
+- [Developers, your manager is likely clueless](https://ewattwhere.substack.com/p/developers-your-manager-is-likely)
 - [What happened to construction productivity? Part 1: Measurement](https://noahpinion.substack.com/p/what-happened-to-construction-productivity)
-- [Show HN: Hacker News with a twist](https://haxplore.pabue.co)
-- [Augmented Reality Ducks](https://tyler.io/augmented-reality-ducks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
