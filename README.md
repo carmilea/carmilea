@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Major Quantum Computing Strategy Suffers Serious Setbacks](https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/)
+- [First Human Case of Rabies in Illinois Since 1954](https://www.dph.illinois.gov/news/illinois-department-public-health-reporting-first-human-case-rabies-illinois-1954)
+- [Linux Achieves 5.1M IOPS Per-Core with AMD Zen 3 and Intel Optane](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.1M-IOPS-Per-Core)
 - [TaskJuggler – A Free and Open Source Project Management Software](https://taskjuggler.org/)
 - [Klimaticket: All public transport in Austria with a single ticket for 1095 EUR/y](https://www.klimaticket.at/en/)
-- [Are Software Engineering “best practices” just developer preferences?](https://floverfelt.org/posts/software-best-practices.html)
-- [Ampere Altra Max 128-Core CPU Is Priced Lower Than Flagship Xeon, EPYC CPUs](https://www.phoronix.com/scan.php?page=news_item&px=Ampere-Altra-Max-Pricing&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Phoronix+%28Phoronix%29)
-- [The greatest resume I've ever seen](https://cloudirregular.substack.com/p/the-greatest-resume-ive-ever-seen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
