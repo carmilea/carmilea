@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Peter Thiel: The education of a libertarian (2009)](https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian)
+- [S.Korea broadband firm sues Netflix after traffic surge from 'Squid Game'](https://www.reuters.com/business/media-telecom/skorea-broadband-firm-sues-netflix-after-traffic-surge-squid-game-2021-10-01/)
+- [What’s Destroying My Yard? Pest Detection with Raspberry Pi](https://www.hackster.io/tjvantoll/what-s-destroying-my-yard-pest-detection-with-raspberry-pi-890c3a)
+- [Facebook’s Documents About Instagram and Teens, Published](https://www.wsj.com/articles/facebook-documents-instagram-teens-11632953840)
 - [Cryptocurrency mining using integrated photonics](http://phe.tue.nl/news/)
-- [Session Encrypted Messenger](https://getsession.org/)
-- [Ashby (YC W19) Is Hiring Engineers and EMs (US and Europe)](https://jobs.ashbyhq.com/Ashby?utm_source=hn)
-- [Ocean drone captures video from inside a hurricane](http://www.noaa.gov/news-release/world-first-ocean-drone-captures-video-from-inside-hurricane)
-- ['Google' is most searched word on Bing](https://www.bbc.com/news/technology-58749525)
 <!-- BLOG-POST-LIST:END -->
 
 ---
