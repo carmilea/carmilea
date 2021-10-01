@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gold Fig Labs (YC S19) is hiring our founding full-stack engineer](https://www.goldfiglabs.com/team/)
+- [This influenza lineage may have become extinct](https://www.nature.com/articles/s41579-021-00642-4)
 - [Government asks German residents to drive lorries even if they never have before](https://www.independent.co.uk/news/uk/politics/hgv-lorry-driver-shortage-germans-b1930558.html)
-- [Twitter disallows liking, commenting, or retweeting “Misleading” tweets](https://twitter.com/MichaelPSenger/status/1443238759944785922)
+- [Replace std:find_if in 80% of the cases](https://www.sandordargo.com/blog/2021/09/29/replace-find-if-with-any_of-none_of-all_of)
 - [Freqfs: In-memory filesystem cache for Rust](https://docs.rs/freqfs/0.4.3/freqfs/)
-- [Learning Common Lisp to beat Java and Rust on a phone encoding problem](https://renato.athaydes.com/posts/revenge_of_lisp.html)
-- [FundersClub (YC S12) Is Hiring Sr Engineers – 4 Day Work Week, Remote](https://careers.fundersclub.com/senior-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
