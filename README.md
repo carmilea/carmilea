@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CNLabelContactRelationYoungerCousinMothersSiblingsDaughterOrFathersSistersDaught](https://developer.apple.com/documentation/contacts/cnlabelcontactrelationyoungercousinmotherssiblingsdaughterorfatherssistersdaughter)
 - [PwC Tells U.S. Employees They Need Never Return to the Office](https://www.reuters.com/business/exclusive-pwc-tells-us-employees-they-need-never-return-office-2021-09-30/)
-- [Deaf Man Who Couldn't Hear Police Commands Was Tased and Spent 4 Months in Jail](https://www.npr.org/2021/09/29/1041562502/deaf-man-tased-police-colorado-lawsuit)
 - [The OpenBSD Webzine](https://webzine.puffy.cafe/)
 - [Always-on Processor magic: How Find My works while iPhone is powered off](https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html)
+- [Avenue (YC W21) is hiring across engineering, design, and bizops](https://jobs.ashbyhq.com/avenue)
+- [How Masten Space Systems Is Using Ada and Spark to Land on the Moon's South Pole [pdf]](https://www.adacore.com/uploads/techPapers/Masten-case-study.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
