@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Treating beef like coal would make a big dent in greenhouse-gas emissions](https://www.economist.com/graphic-detail/2021/10/02/treating-beef-like-coal-would-make-a-big-dent-in-greenhouse-gas-emissions)
 - [NFT Projects Are Just MLMs for Tech Elites](https://every.to/napkin-math/nft-projects-are-just-mlms-for-tech-elites)
 - [The OpenBSD Webzine](https://webzine.puffy.cafe/)
 - [Always-on Processor magic: How Find My works while iPhone is powered off](https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html)
 - [Avenue (YC W21) is hiring across engineering, design, and bizops](https://jobs.ashbyhq.com/avenue)
-- [How Masten Space Systems Is Using Ada and Spark to Land on the Moon's South Pole [pdf]](https://www.adacore.com/uploads/techPapers/Masten-case-study.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
