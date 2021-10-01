@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sloppy Data Analysis in NYT's Partisan Tale about Covid and the Unvaccinated](https://outsidevoices.substack.com/p/the-nyts-partisan-tale-about-covid)
+- [Freqfs: In-memory filesystem cache for Rust](https://docs.rs/freqfs/0.4.3/freqfs/)
+- [Internal emails show Zuckerberg and Facebook execs discuss cloning competitors](https://twitter.com/TechEmails/status/1398702289007828992)
 - [Learning Common Lisp to beat Java and Rust on a phone encoding problem](https://renato.athaydes.com/posts/revenge_of_lisp.html)
 - [The scramble to make climate change in Alaska feel real](https://contrapost.substack.com/p/i-knew-i-had-the-story-when-i-smelled)
-- [FundersClub (YC S12) Is Hiring Sr Engineers – 4 Day Work Week, Remote](https://careers.fundersclub.com/senior-software-engineer)
-- [What a solid made of electrons looks like](https://www.nature.com/articles/d41586-021-02657-6)
-- [Google Drops Plan to Offer Bank Accounts](https://seekingalpha.com/news/3747066-google-drops-plan-to-offer-bank-accounts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
