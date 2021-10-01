@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ashby (YC W19) Is Hiring Engineers and EMs (US and Europe)](https://jobs.ashbyhq.com/Ashby?utm_source=hn)
+- [A world first: Ocean drone captures video from inside a hurricane](http://www.noaa.gov/news-release/world-first-ocean-drone-captures-video-from-inside-hurricane)
+- [So You Want to Compete with Roblox](https://www.fortressofdoors.com/so-you-want-to-compete-with-roblox/)
 - [DNS Record Types](https://www.nslookup.io/learning/dns-record-types/)
 - [Reverse-engineering an unusual IBM modem board from 1965](https://www.righto.com/2021/09/reverse-engineering-unusual-ibm-modem.html)
-- [Treating beef like coal would make a big dent in greenhouse-gas emissions](https://www.economist.com/graphic-detail/2021/10/02/treating-beef-like-coal-would-make-a-big-dent-in-greenhouse-gas-emissions)
-- [NFT Projects Are Just MLMs for Tech Elites](https://every.to/napkin-math/nft-projects-are-just-mlms-for-tech-elites)
-- [The OpenBSD Webzine](https://webzine.puffy.cafe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
