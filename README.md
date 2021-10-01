@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ozy Media Says It Is Shutting Down](https://www.nytimes.com/2021/10/01/business/media/ozy-media.html)
+- [Ludum Dare 49 (Game jam)](https://ldjam.com/events/ludum-dare/49)
 - [Gold Fig Labs (YC S19) is hiring our founding full-stack engineer](https://www.goldfiglabs.com/team/)
 - [This influenza lineage may have become extinct](https://www.nature.com/articles/s41579-021-00642-4)
 - [Government asks German residents to drive lorries even if they never have before](https://www.independent.co.uk/news/uk/politics/hgv-lorry-driver-shortage-germans-b1930558.html)
-- [Replace std:find_if in 80% of the cases](https://www.sandordargo.com/blog/2021/09/29/replace-find-if-with-any_of-none_of-all_of)
-- [Freqfs: In-memory filesystem cache for Rust](https://docs.rs/freqfs/0.4.3/freqfs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
