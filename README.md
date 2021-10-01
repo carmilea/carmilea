@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Thiel: The education of a libertarian (2009)](https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian)
-- [S.Korea broadband firm sues Netflix after traffic surge from 'Squid Game'](https://www.reuters.com/business/media-telecom/skorea-broadband-firm-sues-netflix-after-traffic-surge-squid-game-2021-10-01/)
-- [What’s Destroying My Yard? Pest Detection with Raspberry Pi](https://www.hackster.io/tjvantoll/what-s-destroying-my-yard-pest-detection-with-raspberry-pi-890c3a)
-- [Facebook’s Documents About Instagram and Teens, Published](https://www.wsj.com/articles/facebook-documents-instagram-teens-11632953840)
-- [Cryptocurrency mining using integrated photonics](http://phe.tue.nl/news/)
+- [Web3 – A Vision for a Decentralized Web](https://blog.cloudflare.com/what-is-web3/)
+- [Downsides of Offline First](https://rxdb.info/downsides-of-offline-first.html)
+- [The Emacs-28 release branch has been created](https://mail.gnu.org/archive/html/emacs-devel/2021-09/msg02290.html)
+- [Replit (YC W18) is hiring Designers Who Code to invent the future of programming](https://jobs.lever.co/replit/4ef495be-6ced-42d9-bcc1-3c6f57a346bd)
+- [Redditors are right about the unfairness of the market](https://www.bloomberg.com/opinion/articles/2021-10-01/ordinary-investors-don-t-get-a-fair-shot-when-the-powerful-flout-the-rules)
 <!-- BLOG-POST-LIST:END -->
 
 ---
