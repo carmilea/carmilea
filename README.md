@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Microsoft Study of 60k Employees: Remote Work Threatens Innovation](https://www.inc.com/jessica-stillman/remote-hybrid-work-paradox-microsoft-satya-nadella.html)
+- [Demo of a WAM Prolog Implementation in Python](https://github.com/brunokim/prol)
+- [Coinbase Breach Notification](https://oag.ca.gov/ecrime/databreach/reports/sb24-545815)
+- [Ask HN: Do you donate money to open source?](https://news.ycombinator.com/item?id=28719643)
 - [Ask HN: Who is hiring? (October 2021)](https://news.ycombinator.com/item?id=28719320)
-- [Banking-Crisis Interventions, 1257-2019 [pdf]](https://som.yale.edu/sites/default/files/files/II__metrick-schmelzing%2C%20body%20-%209-7.pdf)
-- [Show HN: UI for Apache Kafka](https://github.com/provectus/kafka-ui)
-- [The Rise of One-Time Password Interception Bots](https://krebsonsecurity.com/2021/09/the-rise-of-one-time-password-interception-bots/)
-- [Cloudflare Distributed Web Gateways: Unlocking the Web3 Metaverse](https://blog.cloudflare.com/announcing-web3-gateways/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
