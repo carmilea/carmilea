@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto currency mining using integrated photonics](http://phe.tue.nl/news/)
+- [Session Encrypted Messenger](https://getsession.org/)
 - [Ashby (YC W19) Is Hiring Engineers and EMs (US and Europe)](https://jobs.ashbyhq.com/Ashby?utm_source=hn)
 - [A world first: Ocean drone captures video from inside a hurricane](http://www.noaa.gov/news-release/world-first-ocean-drone-captures-video-from-inside-hurricane)
-- [So You Want to Compete with Roblox](https://www.fortressofdoors.com/so-you-want-to-compete-with-roblox/)
-- [DNS Record Types](https://www.nslookup.io/learning/dns-record-types/)
-- [Reverse-engineering an unusual IBM modem board from 1965](https://www.righto.com/2021/09/reverse-engineering-unusual-ibm-modem.html)
+- ['Google' is most searched word on Bing](https://www.bbc.com/news/technology-58749525)
 <!-- BLOG-POST-LIST:END -->
 
 ---
