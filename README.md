@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto currency mining using integrated photonics](http://phe.tue.nl/news/)
+- [Cryptocurrency mining using integrated photonics](http://phe.tue.nl/news/)
 - [Session Encrypted Messenger](https://getsession.org/)
 - [Ashby (YC W19) Is Hiring Engineers and EMs (US and Europe)](https://jobs.ashbyhq.com/Ashby?utm_source=hn)
-- [A world first: Ocean drone captures video from inside a hurricane](http://www.noaa.gov/news-release/world-first-ocean-drone-captures-video-from-inside-hurricane)
+- [Ocean drone captures video from inside a hurricane](http://www.noaa.gov/news-release/world-first-ocean-drone-captures-video-from-inside-hurricane)
 - ['Google' is most searched word on Bing](https://www.bbc.com/news/technology-58749525)
 <!-- BLOG-POST-LIST:END -->
 
