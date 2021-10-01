@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Who is hiring? (October 2021)](https://news.ycombinator.com/item?id=28719320)
+- [Banking-Crisis Interventions, 1257-2019 [pdf]](https://som.yale.edu/sites/default/files/files/II__metrick-schmelzing%2C%20body%20-%209-7.pdf)
 - [Show HN: UI for Apache Kafka](https://github.com/provectus/kafka-ui)
 - [The Rise of One-Time Password Interception Bots](https://krebsonsecurity.com/2021/09/the-rise-of-one-time-password-interception-bots/)
 - [Cloudflare Distributed Web Gateways: Unlocking the Web3 Metaverse](https://blog.cloudflare.com/announcing-web3-gateways/)
-- [Web3 – A Vision for a Decentralized Web](https://blog.cloudflare.com/what-is-web3/)
-- [Downsides of Offline First](https://rxdb.info/downsides-of-offline-first.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
