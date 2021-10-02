@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The surprising downsides to planting trillions of trees](https://www.vox.com/platform/amp/down-to-earth/22679378/tree-planting-forest-restoration-climate-solutions)
+- [Apple and Disney among companies backing groups against US climate bill](https://www.theguardian.com/us-news/2021/oct/01/apple-amazon-microsoft-disney-lobby-groups-climate-bill-analysis)
+- [Six more zeros are to be removed from Venezuelan currency](https://en.mercopress.com/2021/10/01/fear-reigns-among-venezuelans-as-six-more-zeros-are-to-be-removed-from-local-currency)
+- [Career feels like a few key hours with year-long cool-down periods](https://old.reddit.com/r/cscareerquestions/comments/pzofk7/this_career_feels_like_a_few_key_hours_every_year/)
 - [A dependently typed language for proofs that you can implement in one day](https://github.com/caotic123/PomPom-Language)
-- [USPS suspends mail deliveries to New Zealand](https://www.rnz.co.nz/news/national/452764/united-states-postal-service-suspends-mail-deliveries-to-new-zealand)
-- [Factorio's Belt Bug](http://pubby.games/factorio.html)
-- [So You Want to Go to Grad School (In the Academic Humanities)?](https://acoup.blog/2021/10/01/collections-so-you-want-to-go-to-grad-school-in-the-academic-humanities/)
-- [Details of some 100M visitors to Thailand exposed online](https://www.scmp.com/news/asia/southeast-asia/article/3149475/details-some-100-million-visitors-thailand-exposed-online)
 <!-- BLOG-POST-LIST:END -->
 
 ---
