@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Traces of 122 different pesticides in 12 most polluted fruit and veg products](https://www.theguardian.com/environment/2021/sep/29/cocktail-pesticides-almost-all-oranges-grapes-uk-study)
+- [Honda prepping AI robots electric air travel and lunar technology for 2030](https://www.zdnet.com/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/)
+- [Why does iPhone 13 screen replacement disable Face ID](https://icorrect.co.uk/blog/iphone-13-screen-replacement-disables-face-id-why)
 - [Google developing own CPUs for Chromebook laptops](https://asia.nikkei.com/Business/Tech/Semiconductors/Google-developing-own-CPUs-for-Chromebook-laptops)
-- [Amazon-backed EV maker Rivian discloses nearly $1B losses in IPO filing](https://finance.yahoo.com/news/ev-maker-rivian-makes-ipo-213740672.html)
-- [Gollum – A simple, Git-powered wiki with a sweet API and local frontend](https://github.com/gollum/gollum)
-- [Show HN: AirSS is a web-based feed reader that put your privacy first](https://airss.roastidio.us/)
-- [There’s a Multibillion-Dollar Market for Your Phone’s Location Data](https://themarkup.org/privacy/2021/09/30/theres-a-multibillion-dollar-market-for-your-phones-location-data?via=biztoc.com)
+- [Windows 11 review: An unnecessary replacement for Windows 10](https://www.pcworld.com/article/539183/windows-11-review-an-unnecessary-replacement-for-windows-10.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
