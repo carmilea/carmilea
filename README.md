@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It costs $438,000 to jail one person for one year at Rikers Island](https://www.economist.com/united-states/2021/10/02/the-jail-on-rikers-island-is-both-appalling-and-generously-funded)
+- [In America’s Next War, Machines Will Do the Thinking](https://www.bloombergquint.com/gadfly/ai-machines-will-do-the-thinking-in-the-next-u-s-war)
+- [Tesla Autopilot Hits a Deer [video]](https://www.youtube.com/watch?v=jrWH_0YA5XM)
 - [Mac SE/30 Odyssey](https://axio.ms/blog/2021/10/02/MacSE30.html)
 - [Is Stock Market Rigged? Insider Trading by Executives Is Pervasive, Critics Say](https://www.bloomberg.com/news/features/2021-09-29/is-stock-market-rigged-insider-trading-by-executives-is-pervasive-critics-say)
-- [Stock Sale Day Before Fed Emergency](https://www.zerohedge.com/markets/fed-vice-chair-clarida-traded-millions-one-day-powell-emergency-pandemic-statement)
-- [Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform](https://www.paperspace.com/careers#open-positions)
-- [Is Hacking the Next Struggle for Agriculture?](https://www.agweek.com/opinion/columns/7205478-Is-hacking-the-next-struggle-for-agriculture)
 <!-- BLOG-POST-LIST:END -->
 
 ---
