@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CEOs are at their wits’ end – they don’t know how to get their employees back in](https://www.cnbc.com/2021/10/01/ceos-are-at-their-wits-ends-dont-know-how-to-get-employees-back-in.html)
+- [Fuzzbuzz (YC W19) Is Hiring Full Stack Engineers (Reacty/Go) in SF Bay Area](https://angel.co/l/2vStjg)
+- [Google Is Scrapping Its Plan to Offer Bank Accounts to Users](https://www.wsj.com/articles/google-is-scrapping-its-plan-to-offer-bank-accounts-to-users-11633104001)
+- [Tesla produces 238k; delivers 241k vehicles in Q3 2021](https://ir.tesla.com/press-release/tesla-q3-2021-vehicle-production-deliveries)
+- [73 Beautiful Books from the MIT Press Essential Knowledge Series](https://abakcus.com/seventy-three-beautiful-books-from-the-mit-press-essential-knowledge-series/)
 - [Why Carmakers Can’t Transition to Newer Chips](https://jalopnik.com/i-asked-experts-why-carmakers-cant-just-transition-to-n-1847739665)
-- [DroneSploit – A pentesting console framework dedicated to drones](https://github.com/dhondta/dronesploit)
-- [After 3.5M-year hiatus, largest comet ever discovered is headed our way](https://www.livescience.com/Bernardinelli-Bernstein-close-approach-2031)
-- [As a whistleblower prepares to speak out, what can be done to rein in Facebook?](https://www.theguardian.com/technology/2021/oct/02/facebook-whistleblower-tech-firms-social-media-instagram-children-mental-health-us-senators)
 <!-- BLOG-POST-LIST:END -->
 
 ---
