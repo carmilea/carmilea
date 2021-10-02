@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You Are Overpaying Jeff Bezos for Your Databases](https://ottertune.com/blog/overpaying-jeff-bezos-for-aws-databases)
+- [Wave of US labor unrest could see tens of thousands on strike within weeks](https://www.theguardian.com/us-news/2021/oct/01/us-labor-unrest-unions-strikes)
 - [Details of some 100M visitors to Thailand exposed online](https://www.scmp.com/news/asia/southeast-asia/article/3149475/details-some-100-million-visitors-thailand-exposed-online)
 - [A Conspiracy to Kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 - [How Japan’s Thomas Edison Built the Nation’s Most Complicated Clock](https://watchesbysjx.com/2016/09/how-japans-thomas-edison-built-the-nations-most-complicated-clock.html)
