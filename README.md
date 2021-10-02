@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rivian S-1](https://www.sec.gov/Archives/edgar/data/1874178/000119312521289903/d157488ds1.htm)
-- [Ozy Media Says It Is Shutting Down](https://www.nytimes.com/2021/10/01/business/media/ozy-media.html)
-- [Ludum Dare 49 (Game jam)](https://ldjam.com/events/ludum-dare/49)
-- [Gold Fig Labs (YC S19) is hiring our founding full-stack engineer](https://www.goldfiglabs.com/team/)
-- [This influenza lineage may have become extinct](https://www.nature.com/articles/s41579-021-00642-4)
+- [Private jet rage grows as a record number of fliers strain the system](https://www.cnbc.com/2021/10/01/private-jet-rage-grows-as-a-record-number-of-fliers-strain-the-system.html)
+- [Coinbase Cloud](https://www.coinbase.com/cloud)
+- [Alex Jones held liable in Sandy Hook defamation cases](https://www.wsj.com/articles/alex-jones-held-liable-in-sandy-hook-defamation-cases-11633107365)
+- [Why do we tune in 5ths?](https://www.violinist.com/discussion/archive/17290/)
+- [Anil Seth Finds Consciousness in Life’s Push Against Entropy](https://www.quantamagazine.org/anil-seth-finds-consciousness-in-lifes-push-against-entropy-20210930/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
