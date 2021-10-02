@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gentle introduction to GPUs inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
+- [The Wayforward Machine](https://wayforward.archive.org)
 - [New Story (YC S15) Is Hiring a CFO](https://newstorycharity.org/careers/)
-- [Black mamba venom is 'better painkiller' than morphine](https://www.bbc.com/news/health-19812064)
-- [The Software Industry Is Still the Problem](https://queue.acm.org/detail.cfm?id=3489045)
-- [Show HN: The Billboard, a fully decentralised billboard stored in Ethereum](https://thebillboard.vercel.app/)
+- [Black mamba venom is 'better painkiller' than morphine (2012)](https://www.bbc.com/news/health-19812064)
 - [Archivematica: Open-source digital preservation system](https://www.archivematica.org/en/)
 <!-- BLOG-POST-LIST:END -->
 
