@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stanford students are more likely to wear masks on bicycles than helmets](https://stanfordreview.org/stanford-bicycles-helmets-masks/)
+- [CEOs are at their wits’ end – they don’t know how to get their employees back in](https://www.cnbc.com/2021/10/01/ceos-are-at-their-wits-ends-dont-know-how-to-get-employees-back-in.html)
 - [Why Carmakers Can’t Transition to Newer Chips](https://jalopnik.com/i-asked-experts-why-carmakers-cant-just-transition-to-n-1847739665)
 - [DroneSploit – A pentesting console framework dedicated to drones](https://github.com/dhondta/dronesploit)
-- [Ask HN: Why is Node.js hated so much?](https://news.ycombinator.com/item?id=28728591)
+- [After 3.5M-year hiatus, largest comet ever discovered is headed our way](https://www.livescience.com/Bernardinelli-Bernstein-close-approach-2031)
 - [As a whistleblower prepares to speak out, what can be done to rein in Facebook?](https://www.theguardian.com/technology/2021/oct/02/facebook-whistleblower-tech-firms-social-media-instagram-children-mental-health-us-senators)
 <!-- BLOG-POST-LIST:END -->
 
