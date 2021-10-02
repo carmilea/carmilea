@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mac SE/30 Odyssey](https://axio.ms/blog/2021/10/02/MacSE30.html)
+- [Is Stock Market Rigged? Insider Trading by Executives Is Pervasive, Critics Say](https://www.bloomberg.com/news/features/2021-09-29/is-stock-market-rigged-insider-trading-by-executives-is-pervasive-critics-say)
 - [Stock Sale Day Before Fed Emergency](https://www.zerohedge.com/markets/fed-vice-chair-clarida-traded-millions-one-day-powell-emergency-pandemic-statement)
 - [Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform](https://www.paperspace.com/careers#open-positions)
 - [Is Hacking the Next Struggle for Agriculture?](https://www.agweek.com/opinion/columns/7205478-Is-hacking-the-next-struggle-for-agriculture)
-- [Traces of 122 different pesticides in 12 most polluted fruit and veg products](https://www.theguardian.com/environment/2021/sep/29/cocktail-pesticides-almost-all-oranges-grapes-uk-study)
-- [Honda prepping AI robots electric air travel and lunar technology for 2030](https://www.zdnet.com/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
