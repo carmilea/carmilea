@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [There’s a Multibillion-Dollar Market for Your Phone’s Location Data](https://themarkup.org/privacy/2021/09/30/theres-a-multibillion-dollar-market-for-your-phones-location-data?via=biztoc.com)
+- [Alexa, Ring, and Astro: Where's My Privacy, Amazon?](https://www.zdnet.com/article/alexa-ring-and-astro-wheres-my-privacy-amazon/)
+- [Brain-cleaning sleeping cap gets US Army funding](https://newatlas.com/science/brain-cleaning-skullcap-sleep-glymphatic-system-us-army/)
+- [An eccentric engineer at the Beatles’ record company invented the CT scan](https://www.fastcompany.com/90682224/beatles-engineer-ct-scan-invention-50-anniversary)
 - [Fuzzbuzz (YC W19) Is Hiring Full Stack Engineers (Reacty/Go) in SF Bay Area](https://angel.co/l/2vStjg)
-- [Google Is Scrapping Its Plan to Offer Bank Accounts to Users](https://www.wsj.com/articles/google-is-scrapping-its-plan-to-offer-bank-accounts-to-users-11633104001)
-- [Tesla produces 238k; delivers 241k vehicles in Q3 2021](https://ir.tesla.com/press-release/tesla-q3-2021-vehicle-production-deliveries)
-- [73 Beautiful Books from the MIT Press Essential Knowledge Series](https://abakcus.com/seventy-three-beautiful-books-from-the-mit-press-essential-knowledge-series/)
-- [Why Carmakers Can’t Transition to Newer Chips](https://jalopnik.com/i-asked-experts-why-carmakers-cant-just-transition-to-n-1847739665)
 <!-- BLOG-POST-LIST:END -->
 
 ---
