@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fly.io (YC W20) Is Hiring](https://fly.io/blog/fly-io-is-hiring-technical-writers/)
+- [The Martians of Budapest](https://www.privatdozent.co/p/the-martians-of-budapest-03b)
 - [The surprising downsides to planting trillions of trees](https://www.vox.com/platform/amp/down-to-earth/22679378/tree-planting-forest-restoration-climate-solutions)
 - [Apple and Disney among companies backing groups against US climate bill](https://www.theguardian.com/us-news/2021/oct/01/apple-amazon-microsoft-disney-lobby-groups-climate-bill-analysis)
-- [Six more zeros are to be removed from Venezuelan currency](https://en.mercopress.com/2021/10/01/fear-reigns-among-venezuelans-as-six-more-zeros-are-to-be-removed-from-local-currency)
 - [Career feels like a few key hours with year-long cool-down periods](https://old.reddit.com/r/cscareerquestions/comments/pzofk7/this_career_feels_like_a_few_key_hours_every_year/)
-- [A dependently typed language for proofs that you can implement in one day](https://github.com/caotic123/PomPom-Language)
 <!-- BLOG-POST-LIST:END -->
 
 ---
