@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Babies are full of microplastics, new research shows](https://www.euronews.com/green/2021/10/01/babies-are-full-of-microplastics-new-research-shows)
 - [Fly.io (YC W20) Is Hiring](https://fly.io/blog/fly-io-is-hiring-technical-writers/)
 - [The Martians of Budapest](https://www.privatdozent.co/p/the-martians-of-budapest-03b)
 - [The surprising downsides to planting trillions of trees](https://www.vox.com/platform/amp/down-to-earth/22679378/tree-planting-forest-restoration-climate-solutions)
 - [Apple and Disney among companies backing groups against US climate bill](https://www.theguardian.com/us-news/2021/oct/01/apple-amazon-microsoft-disney-lobby-groups-climate-bill-analysis)
-- [Career feels like a few key hours with year-long cool-down periods](https://old.reddit.com/r/cscareerquestions/comments/pzofk7/this_career_feels_like_a_few_key_hours_every_year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
