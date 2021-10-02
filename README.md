@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Story (YC S15) Is Hiring a CFO](https://newstorycharity.org/careers/)
+- [Black mamba venom is 'better painkiller' than morphine](https://www.bbc.com/news/health-19812064)
+- [The Software Industry Is Still the Problem](https://queue.acm.org/detail.cfm?id=3489045)
 - [Show HN: The Billboard, a fully decentralised billboard stored in Ethereum](https://thebillboard.vercel.app/)
 - [Archivematica: Open-source digital preservation system](https://www.archivematica.org/en/)
-- [Maker of ATM bombing tutorials blew himself up – Euro cops](https://www.theregister.com/2021/10/02/europol_atm_bombing/)
-- [Babies are full of microplastics, new research shows](https://www.euronews.com/green/2021/10/01/babies-are-full-of-microplastics-new-research-shows)
-- [Fly.io (YC W20) Is Hiring](https://fly.io/blog/fly-io-is-hiring-technical-writers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
