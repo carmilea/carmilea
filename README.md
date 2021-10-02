@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Biggest Bitcoin Hacks in History](https://coinful.net/biggest-bitcoin-hacks-in-history/)
-- [Coast Guard's first Black woman pilot helped give the next one her wings](https://www.npr.org/2021/10/02/1042336503/storycorps-military-coast-guard-history-first-black-woman-pilots)
+- [Stanford students are more likely to wear masks on bicycles than helmets](https://stanfordreview.org/stanford-bicycles-helmets-masks/)
+- [Why Carmakers Can’t Transition to Newer Chips](https://jalopnik.com/i-asked-experts-why-carmakers-cant-just-transition-to-n-1847739665)
+- [DroneSploit – A pentesting console framework dedicated to drones](https://github.com/dhondta/dronesploit)
+- [Ask HN: Why is Node.js hated so much?](https://news.ycombinator.com/item?id=28728591)
 - [As a whistleblower prepares to speak out, what can be done to rein in Facebook?](https://www.theguardian.com/technology/2021/oct/02/facebook-whistleblower-tech-firms-social-media-instagram-children-mental-health-us-senators)
-- [Can Geoengineering Fix Climate Change?](https://www.nytimes.com/2021/10/01/opinion/climate-change-geoengineering.html)
-- [Gentle introduction to GPUs inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
