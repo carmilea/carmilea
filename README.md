@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: The Billboard, a fully decentralised billboard stored in Ethereum](https://thebillboard.vercel.app/)
+- [Archivematica: Open-source digital preservation system](https://www.archivematica.org/en/)
 - [Maker of ATM bombing tutorials blew himself up – Euro cops](https://www.theregister.com/2021/10/02/europol_atm_bombing/)
 - [Babies are full of microplastics, new research shows](https://www.euronews.com/green/2021/10/01/babies-are-full-of-microplastics-new-research-shows)
 - [Fly.io (YC W20) Is Hiring](https://fly.io/blog/fly-io-is-hiring-technical-writers/)
-- [The Martians of Budapest](https://www.privatdozent.co/p/the-martians-of-budapest-03b)
-- [Apple and Disney among companies backing groups against US climate bill](https://www.theguardian.com/us-news/2021/oct/01/apple-amazon-microsoft-disney-lobby-groups-climate-bill-analysis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
