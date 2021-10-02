@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Private jet rage grows as a record number of fliers strain the system](https://www.cnbc.com/2021/10/01/private-jet-rage-grows-as-a-record-number-of-fliers-strain-the-system.html)
-- [Coinbase Cloud](https://www.coinbase.com/cloud)
-- [Alex Jones held liable in Sandy Hook defamation cases](https://www.wsj.com/articles/alex-jones-held-liable-in-sandy-hook-defamation-cases-11633107365)
-- [Why do we tune in 5ths?](https://www.violinist.com/discussion/archive/17290/)
-- [Anil Seth Finds Consciousness in Life’s Push Against Entropy](https://www.quantamagazine.org/anil-seth-finds-consciousness-in-lifes-push-against-entropy-20210930/)
+- [You Are Overpaying Jeff Bezos for Your Databases](https://ottertune.com/blog/overpaying-jeff-bezos-for-aws-databases)
+- [Details of some 100M visitors to Thailand exposed online](https://www.scmp.com/news/asia/southeast-asia/article/3149475/details-some-100-million-visitors-thailand-exposed-online)
+- [A Conspiracy to Kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
+- [How Japan’s Thomas Edison Built the Nation’s Most Complicated Clock](https://watchesbysjx.com/2016/09/how-japans-thomas-edison-built-the-nations-most-complicated-clock.html)
+- [The new dot com bubble is here: It's called online advertising](https://thecorrespondent.com/100/the-new-dot-com-bubble-is-here-its-called-online-advertising)
 <!-- BLOG-POST-LIST:END -->
 
 ---
