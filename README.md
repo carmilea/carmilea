@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Research AI – Your 24/7 AI Writing Assistant](https://researchai.co)
 - [Austria to introduce new carbon tax next year](https://apnews.com/article/climate-change-business-europe-austria-1b30ccdced4371bc5c7b306fca5e7c6e)
-- [Removing my site from Google search](https://www.btao.org/2021/10/03/removing-from-google/)
-- [Unified Shader Programming in C++](https://arxiv.org/abs/2109.14682)
-- [Ambition (YC W14) Is Hiring VP – Marketing and Head of Enablement](https://ambition.com/careers/)
-- [Offshore havens and hidden riches of world leaders and billionaires exposed](https://www.icij.org/investigations/pandora-papers/global-investigation-tax-havens-offshore/)
+- [The Nernst Lamp](https://edisontechcenter.org/NernstLamps.html)
+- [A massive oil spill in the Pacific Ocean reached the Southern California coast](https://www.npr.org/2021/10/03/1042846846/a-massive-oil-spill-in-the-pacific-ocean-has-reached-the-southern-california-coa)
+- [BANCStar: Financial Programming Language](https://esolangs.org/wiki/BANCStar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
