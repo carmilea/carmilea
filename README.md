@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Crypto Banking the Unbanked?](https://blog.prologe.press/blog/crypto-and-the-unbanked)
 - [Effective Go](https://golang.org/doc/effective_go)
 - [Can Boom Supersonic Succeed Where the Concorde Failed?](https://www.johncoogan.com/boom-supersonic/)
 - [Git Internals – Learn by Building Your Own Git](https://www.leshenko.net/p/ugit/#)
 - [Choice Architecture [pdf]](https://www.sas.upenn.edu/~baron/475/choice.architecture.pdf)
-- [Acetaminophen use during pregnancy and offspring ADHD](https://acamh.onlinelibrary.wiley.com/doi/10.1002/jcv2.12020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
