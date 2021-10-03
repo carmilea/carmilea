@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paradoxical Compression with VDF](https://github.com/pornin/paradox-compress)
+- [‘Seinfeld’ Fans Upset That Netflix’s Aspect Ratio Cuts Out Jokes, Literally](https://www.rollingstone.com/tv/tv-news/seinfeld-netflix-aspect-ratio-1236110/)
 - [Modern Treasury (YC S18) is hiring engineers (SF, NYC, remote)](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
+- [Ask HN: Why are relational DBs are the standard instead of graph-based DBs?](https://news.ycombinator.com/item?id=28736405)
 - [“Static Linking Considered Harmful” Considered Harmful](https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/)
-- [Nobody Really Knows How the Economy Works. A Fed Paper Is the Latest Sign](https://www.nytimes.com/2021/10/01/upshot/inflation-economy-analysis.html)
-- [Effective Go](https://golang.org/doc/effective_go)
-- [Game where you build a CPU and assembly language from circuits](https://store.steampowered.com/app/1444480/Turing_Complete/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
