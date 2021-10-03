@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Austria to introduce new carbon tax next year](https://apnews.com/article/climate-change-business-europe-austria-1b30ccdced4371bc5c7b306fca5e7c6e)
 - [Removing my site from Google search](https://www.btao.org/2021/10/03/removing-from-google/)
-- [The Concept of “Cultural Appropriation”](https://stallman.org/articles/cultural-appropriation.html)
-- [Novel Results Considered Harmful](https://adamdrake.com/novel-results-considered-harmful.html)
 - [Unified Shader Programming in C++](https://arxiv.org/abs/2109.14682)
 - [Ambition (YC W14) Is Hiring VP – Marketing and Head of Enablement](https://ambition.com/careers/)
+- [Offshore havens and hidden riches of world leaders and billionaires exposed](https://www.icij.org/investigations/pandora-papers/global-investigation-tax-havens-offshore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
