@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Removing my site from Google search](https://www.btao.org/2021/10/03/removing-from-google/)
+- [The Concept of “Cultural Appropriation”](https://stallman.org/articles/cultural-appropriation.html)
+- [Novel Results Considered Harmful](https://adamdrake.com/novel-results-considered-harmful.html)
+- [Unified Shader Programming in C++](https://arxiv.org/abs/2109.14682)
 - [Ambition (YC W14) Is Hiring VP – Marketing and Head of Enablement](https://ambition.com/careers/)
-- [Eric Lippert on Why Programming Languages Turn Out the Way They Do](https://georgestocker.com/2021/09/23/eric-lippert-on-why-programming-languages-turn-out-the-way-they-do/)
-- [Offshore havens and hidden riches of world leaders and billionaires exposed](https://www.icij.org/investigations/pandora-papers/global-investigation-tax-havens-offshore/)
-- [Pandora Papers](https://www.icij.org/investigations/pandora-papers)
-- [Pandora papers: biggest leak of offshore data exposes financial secrets of rich](https://www.theguardian.com/news/2021/oct/03/pandora-papers-biggest-ever-leak-of-offshore-data-exposes-financial-secrets-of-rich-and-powerful)
 <!-- BLOG-POST-LIST:END -->
 
 ---
