@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Sirum (YC Nonprofit) Is Hiring Mission-Driven Founding Engineers](https://news.ycombinator.com/item?id=28740459)
 - [E-Ink Magic Calendar that runs off a battery powered Raspberry Pi](https://github.com/speedyg0nz/MagInkCal)
-- [Facebook whistleblower to claim company contributed to Capitol attack](https://www.theguardian.com/us-news/2021/oct/03/facebook-whistleblower-capitol-attack)
+- [Turmoil at Bezos' Blue Origin: Talent exodus after CEO push for return to office](https://www.cnbc.com/2021/10/01/jeff-bezos-blue-origin-talent-exodus-ceo-pushed-return-to-office.html)
 - [A Macintosh History 85.10](https://systemtalk.org/post/macintosh-history-8510/)
 - [Show HN: Research AI – AI Writing Assistant](https://researchai.co)
 <!-- BLOG-POST-LIST:END -->
