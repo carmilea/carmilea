@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It costs $438,000 to jail one person for one year at Rikers Island](https://www.economist.com/united-states/2021/10/02/the-jail-on-rikers-island-is-both-appalling-and-generously-funded)
-- [In America’s Next War, Machines Will Do the Thinking](https://www.bloombergquint.com/gadfly/ai-machines-will-do-the-thinking-in-the-next-u-s-war)
-- [Tesla Autopilot Hits a Deer [video]](https://www.youtube.com/watch?v=jrWH_0YA5XM)
-- [Mac SE/30 Odyssey](https://axio.ms/blog/2021/10/02/MacSE30.html)
-- [Is Stock Market Rigged? Insider Trading by Executives Is Pervasive, Critics Say](https://www.bloomberg.com/news/features/2021-09-29/is-stock-market-rigged-insider-trading-by-executives-is-pervasive-critics-say)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28733646)
+- [.NET Licenser is an exact software licensing tool](https://github.com/Rustemsoft/Skater-.NET-Obfuscator/wiki/.NET-Licenser-API-assembly)
+- [If your MacBook Pro shows high % CPU, try charging on the right and not the left](https://apple.stackexchange.com/a/363933)
+- [Two Weeks Later: Finding and Eliminating Long Tail Latencies](https://blog.cloudflare.com/two-weeks-later-finding-and-eliminating-long-tail-latencies/)
+- [Farmer Born in 1842 Talks About Life and Change: Filmed in 1929](https://youtu.be/mD9ctCudvlw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
