@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto CEO threatens customers after mistakenly sending them millions](https://mashable.com/article/compound-ceo-asks-for-money-back-defi-bug)
+- [HelloSystem 0.6.0](https://github.com/helloSystem/ISO/releases/tag/r0.6.0)
 - [Beware Centralization](https://www.overcomingbias.com/2021/10/beware-centralization.html)
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28733646)
 - [If your MacBook Pro shows high % CPU, try charging on the right and not the left (2019)](https://apple.stackexchange.com/a/363933)
-- [Building with Nix on Replit](https://docs.replit.com/tutorials/30-build-with-nix)
-- [Two Weeks Later: Finding and Eliminating Long Tail Latencies](https://blog.cloudflare.com/two-weeks-later-finding-and-eliminating-long-tail-latencies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
