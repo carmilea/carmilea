@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Havana Syndrome most likely just crickets: declassified Dept of State report](https://www.buzzfeednews.com/article/danvergano/havana-syndrome-jason-crickets)
-- [Ask HN: Are people only smart til they talk about something you are specialized?](https://news.ycombinator.com/item?id=28737192)
-- [Generate ASCII graphic for code or mail signatures](http://www.network-science.de/ascii/)
-- [Double-Odd Elliptic Curves](https://doubleodd.group/front.html)
-- [Paradoxical Compression with VDF](https://github.com/pornin/paradox-compress)
+- [Show HN: SpotML – Managed ML Training on Cheap AWS/GCP Spot Instances](https://spotml.io/)
+- [Skunk Works Boss Says He Can't Comment on TikTok Video of Stealth Shape](https://www.thedrive.com/the-war-zone/42568/skunk-works-boss-says-he-cant-comment-on-video-of-mysterious-stealth-shape-at-radar-test-range)
+- [Robotic Process Automation and Artificial Intelligence in Industry 4.0](https://www.sciencedirect.com/science/article/pii/S1877050921001393)
+- [Word-Aligned Bloom Filters](https://lemire.me/blog/2021/10/03/word-aligned-bloom-filters/)
+- [DARPA's hypersonic scramjet achieves successful flight](https://www.darpa.mil/news-events/2021-09-27)
 <!-- BLOG-POST-LIST:END -->
 
 ---
