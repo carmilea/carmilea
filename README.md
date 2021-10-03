@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New study reveals iPhones aren't as private as you think](https://www.tomsguide.com/news/android-ios-data-collection)
+- [FoundationDB: A Distributed Unbundled Transactional Key Value Store](https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html)
 - [Sirum (YC Nonprofit) Is Hiring Mission-Driven Founding Engineers](https://news.ycombinator.com/item?id=28740459)
 - [E-Ink Magic Calendar that runs off a battery powered Raspberry Pi](https://github.com/speedyg0nz/MagInkCal)
-- [Turmoil at Bezos' Blue Origin: Talent exodus after CEO push for return to office](https://www.cnbc.com/2021/10/01/jeff-bezos-blue-origin-talent-exodus-ceo-pushed-return-to-office.html)
-- [A Macintosh History 85.10](https://systemtalk.org/post/macintosh-history-8510/)
-- [Show HN: Research AI – AI Writing Assistant](https://researchai.co)
+- [Supply Chain and Network Security for Military 5G Networks [pdf]](https://ccdcoe.org/uploads/2021/10/Report_Supply_Chain_and_Network_Security_for_Military_5G_Networks.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
