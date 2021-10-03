@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Research AI – Your 24/7 AI Writing Assistant](https://researchai.co)
-- [Austria to introduce new carbon tax next year](https://apnews.com/article/climate-change-business-europe-austria-1b30ccdced4371bc5c7b306fca5e7c6e)
-- [The Nernst Lamp](https://edisontechcenter.org/NernstLamps.html)
-- [A massive oil spill in the Pacific Ocean reached the Southern California coast](https://www.npr.org/2021/10/03/1042846846/a-massive-oil-spill-in-the-pacific-ocean-has-reached-the-southern-california-coa)
-- [BANCStar: Financial Programming Language](https://esolangs.org/wiki/BANCStar)
+- [Sirum (YC Nonprofit) Is Hiring Mission-Driven Founding Engineers](https://news.ycombinator.com/item?id=28740459)
+- [E-Ink Magic Calendar that runs off a battery powered Raspberry Pi](https://github.com/speedyg0nz/MagInkCal)
+- [Facebook whistleblower to claim company contributed to Capitol attack](https://www.theguardian.com/us-news/2021/oct/03/facebook-whistleblower-capitol-attack)
+- [A Macintosh History 85.10](https://systemtalk.org/post/macintosh-history-8510/)
+- [Show HN: Research AI – AI Writing Assistant](https://researchai.co)
 <!-- BLOG-POST-LIST:END -->
 
 ---
