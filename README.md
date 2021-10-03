@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Paradoxical Compression with VDF](https://github.com/pornin/paradox-compress)
+- [Where Have All the Sex Scenes Gone?](https://freebeacon.com/culture/where-have-all-sex-scenes-gone/)
 - [‘Seinfeld’ Fans Upset That Netflix’s Aspect Ratio Cuts Out Jokes, Literally](https://www.rollingstone.com/tv/tv-news/seinfeld-netflix-aspect-ratio-1236110/)
 - [Modern Treasury (YC S18) is hiring engineers (SF, NYC, remote)](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
 - [Ask HN: Why are relational DBs are the standard instead of graph-based DBs?](https://news.ycombinator.com/item?id=28736405)
-- [“Static Linking Considered Harmful” Considered Harmful](https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
