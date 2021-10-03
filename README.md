@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Effective Go](https://golang.org/doc/effective_go)
+- [Can Boom Supersonic Succeed Where the Concorde Failed?](https://www.johncoogan.com/boom-supersonic/)
+- [Git Internals – Learn by Building Your Own Git](https://www.leshenko.net/p/ugit/#)
 - [Choice Architecture [pdf]](https://www.sas.upenn.edu/~baron/475/choice.architecture.pdf)
-- [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
-- [R, OpenMP, MKL, Disaster](https://www.jyotirmoy.net/posts/2021-10-03-r-mkl-openmp.html)
-- [The Fastest Path to the CEO Job, According to a 10-Year Study (2018)](https://hbr.org/2018/01/the-fastest-path-to-the-ceo-job-according-to-a-10-year-study)
-- [Paracetamol use during pregnancy – a call for precautionary action](https://www.nature.com/articles/s41574-021-00553-7)
+- [Acetaminophen use during pregnancy and offspring ADHD](https://acamh.onlinelibrary.wiley.com/doi/10.1002/jcv2.12020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
