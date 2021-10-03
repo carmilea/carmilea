@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Havana Syndrome most likely just crickets: declassified Dept of State report](https://www.buzzfeednews.com/article/danvergano/havana-syndrome-jason-crickets)
+- [Ask HN: Are people only smart til they talk about something you are specialized?](https://news.ycombinator.com/item?id=28737192)
+- [Generate ASCII graphic for code or mail signatures](http://www.network-science.de/ascii/)
+- [Double-Odd Elliptic Curves](https://doubleodd.group/front.html)
 - [Paradoxical Compression with VDF](https://github.com/pornin/paradox-compress)
-- [Where Have All the Sex Scenes Gone?](https://freebeacon.com/culture/where-have-all-sex-scenes-gone/)
-- [‘Seinfeld’ Fans Upset That Netflix’s Aspect Ratio Cuts Out Jokes, Literally](https://www.rollingstone.com/tv/tv-news/seinfeld-netflix-aspect-ratio-1236110/)
-- [Modern Treasury (YC S18) is hiring engineers (SF, NYC, remote)](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
-- [Ask HN: Why are relational DBs are the standard instead of graph-based DBs?](https://news.ycombinator.com/item?id=28736405)
 <!-- BLOG-POST-LIST:END -->
 
 ---
