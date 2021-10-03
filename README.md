@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fastest Path to the CEO Job, According to a 10-Year Study](https://hbr.org/2018/01/the-fastest-path-to-the-ceo-job-according-to-a-10-year-study)
+- [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
+- [The Fastest Path to the CEO Job, According to a 10-Year Study (2018)](https://hbr.org/2018/01/the-fastest-path-to-the-ceo-job-according-to-a-10-year-study)
+- [Americans Have No Idea What the Supply Chain Is](https://www.theatlantic.com/technology/archive/2021/09/pandemic-supply-chain-nightmare-slow-shipping/620147/)
 - [Paracetamol use during pregnancy – a call for precautionary action](https://www.nature.com/articles/s41574-021-00553-7)
 - [HelloSystem 0.6.0](https://github.com/helloSystem/ISO/releases/tag/r0.6.0)
-- [Beware Centralization](https://www.overcomingbias.com/2021/10/beware-centralization.html)
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28733646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
