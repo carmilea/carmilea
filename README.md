@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Crypto Banking the Unbanked?](https://blog.prologe.press/blog/crypto-and-the-unbanked)
+- [Nobody Really Knows How the Economy Works. A Fed Paper Is the Latest Sign](https://www.nytimes.com/2021/10/01/upshot/inflation-economy-analysis.html)
+- [Cryptocurrency and the unbanked](https://blog.prologe.press/blog/crypto-and-the-unbanked)
 - [Effective Go](https://golang.org/doc/effective_go)
+- [Game where you build a CPU and assembly language from circuits](https://store.steampowered.com/app/1444480/Turing_Complete/)
 - [Can Boom Supersonic Succeed Where the Concorde Failed?](https://www.johncoogan.com/boom-supersonic/)
-- [Git Internals – Learn by Building Your Own Git](https://www.leshenko.net/p/ugit/#)
-- [Choice Architecture [pdf]](https://www.sas.upenn.edu/~baron/475/choice.architecture.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
