@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beware Centralization](https://www.overcomingbias.com/2021/10/beware-centralization.html)
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28733646)
-- [.NET Licenser is an exact software licensing tool](https://github.com/Rustemsoft/Skater-.NET-Obfuscator/wiki/.NET-Licenser-API-assembly)
-- [If your MacBook Pro shows high % CPU, try charging on the right and not the left](https://apple.stackexchange.com/a/363933)
+- [If your MacBook Pro shows high % CPU, try charging on the right and not the left (2019)](https://apple.stackexchange.com/a/363933)
+- [Building with Nix on Replit](https://docs.replit.com/tutorials/30-build-with-nix)
 - [Two Weeks Later: Finding and Eliminating Long Tail Latencies](https://blog.cloudflare.com/two-weeks-later-finding-and-eliminating-long-tail-latencies/)
-- [Farmer Born in 1842 Talks About Life and Change: Filmed in 1929](https://youtu.be/mD9ctCudvlw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
