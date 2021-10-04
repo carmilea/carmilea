@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Was a Facebook Fact-Checker. It Was Like Playing a Doomed Game of Whack-a-Mole (2019)](https://www.buzzfeednews.com/article/brookebinkowski/fact-checking-facebook-doomed)
 - [An Honest Look at Urbit](https://jayriverlong.substack.com/p/36-an-honest-look-at-urbit)
 - [Python 3.11](https://docs.python.org/3.11/whatsnew/changelog.html#changelog)
-- [The delights and the dangers of deplatforming extremists](https://conversationalist.org/2021/10/01/the-delights-and-the-dangers-of-deplatforming-extremists/)
 - [Firefighters say they’re swamped by calls for routine care from senior homes](https://www.oregonlive.com/business/2021/10/firefighters-say-theyre-swamped-by-calls-for-routine-care-from-senior-homes-setting-off-one-sided-political-battle.html)
 - [Whistleblower: Facebook is misleading the public](https://www.cbsnews.com/news/facebook-whistleblower-misinformation-public-60-minutes-2021-10-03/)
 <!-- BLOG-POST-LIST:END -->
