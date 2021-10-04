@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is Hacker News slow today?](https://news.ycombinator.com/item?id=28749476)
+- [Facebook.com Is Listed for Sale](https://uniregistry.com/market/domain/facebook.com?d=facebok.com&src=domaintools)
+- [Android 12 is live in AOSP](https://android-developers.googleblog.com/2021/10/android-12-is-live-in-aosp.html)
 - [Thread.com (YC S12) | Lead iOS Engineer – London, England – Full-Time](https://news.ycombinator.com/item?id=28749424)
 - [Apple execs describe a “unique arrangement” with Netflix](https://twitter.com/TechEmails/status/1444367219509637123)
 - [Personal Information of More Than 1.5B Facebook Users Sold on Hacker Forum](https://www.privacyaffairs.com/facebook-data-sold-on-hacker-forum/)
-- [Shaded Relief Maps in Blender](https://github.com/joewdavies/geoblender)
 <!-- BLOG-POST-LIST:END -->
 
 ---
