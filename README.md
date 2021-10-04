@@ -55,7 +55,7 @@
 - [It takes a PhD to develop that](https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/)
 - [I Was a Facebook Fact-Checker (2019)](https://www.buzzfeednews.com/article/brookebinkowski/fact-checking-facebook-doomed)
 - [BepiColombo’s First Views of Mercury](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_s_first_views_of_Mercury)
-- [An Honest Look at Urbit](https://jayriverlong.substack.com/p/36-an-honest-look-at-urbit)
+- [Python 3.11](https://docs.python.org/3.11/whatsnew/changelog.html#changelog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
