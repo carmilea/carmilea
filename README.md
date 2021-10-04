@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook.com Is Listed for Sale](https://uniregistry.com/market/domain/facebook.com?d=facebok.com&src=domaintools)
+- [Ask HN: Is HN having problem keeping up today?](https://news.ycombinator.com/item?id=28750538)
+- [Metastable Failures in Distributed Systems [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s11-bronson.pdf)
 - [Android 12 is live in AOSP](https://android-developers.googleblog.com/2021/10/android-12-is-live-in-aosp.html)
 - [Thread.com (YC S12) | Lead iOS Engineer – London, England – Full-Time](https://news.ycombinator.com/item?id=28749424)
 - [Apple execs describe a “unique arrangement” with Netflix](https://twitter.com/TechEmails/status/1444367219509637123)
-- [Personal Information of More Than 1.5B Facebook Users Sold on Hacker Forum](https://www.privacyaffairs.com/facebook-data-sold-on-hacker-forum/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
