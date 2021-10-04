@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Knowledge Proofs for Private Web Attestation with Multi-Vendor Hardware](https://blog.cloudflare.com/introducing-zero-knowledge-proofs-for-private-web-attestation-with-cross-multi-vendor-hardware/)
-- [Not -Werror considered harmful](https://rsalsamendi.github.io/salsablog/#not--werror-considered-harmful)
-- [OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email](https://onesignal.com/careers)
-- [Facebook Is Weaker Than We Knew](https://www.nytimes.com/2021/10/04/technology/facebook-files.html)
-- [VMware Fusion for Apple Silicon Public Tech Preview Now Available](https://blogs.vmware.com/teamfusion/2021/09/fusion-for-m1-public-tech-preview-now-available.html)
+- [Cloudflare just disrupted 3 industries in 1 week](https://www.indiehackers.com/post/cloudflare-just-disrupted-3-industries-in-1-week-907e44a8f5)
+- [AI Is No Match for the Quirks of Human Intelligence](https://thereader.mitpress.mit.edu/ai-insight-problems-quirks-human-intelligence/)
+- [Implicit Overflow Considered Harmful (and how to fix it)](https://blog.polybdenum.com/2021/10/03/implicit-overflow-considered-harmful-and-how-to-fix-it.html)
+- [McKinsey never told the FDA it was working for both the FDA and opioid makers](https://www.propublica.org/article/mckinsey-never-told-the-fda-it-was-working-for-opioid-makers-while-also-working-for-the-agency)
+- [Ask HN: What do engineers never talk to their bosses about, but should?](https://news.ycombinator.com/item?id=28746023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
