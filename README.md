@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepMind AI predicts incoming rainfall with high accuracy](https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/)
 - [Raycast (YC W20) Is Hiring Product Designers](https://www.raycast.com/jobs/product-designer)
 - [It takes a PhD to develop that](https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/)
-- [I Was a Facebook Fact-Checker (2019)](https://www.buzzfeednews.com/article/brookebinkowski/fact-checking-facebook-doomed)
 - [BepiColombo’s First Views of Mercury](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_s_first_views_of_Mercury)
-- [Python 3.11](https://docs.python.org/3.11/whatsnew/changelog.html#changelog)
+- [Facebook whistleblower says she wants to fix company, not harm it](https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
