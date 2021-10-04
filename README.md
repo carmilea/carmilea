@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Autonomous vehicles create new problems and solve none](https://news.ycombinator.com/item?id=28744724)
+- [How store anti-theft alarms work: Magnetostriction (2015)](https://hackaday.com/2015/12/03/how-store-anti-theft-alarms-work-magnetostriction/)
 - [DeepMind AI predicts incoming rainfall with high accuracy](https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/)
 - [Raycast (YC W20) Is Hiring Product Designers](https://www.raycast.com/jobs/product-designer)
 - [It takes a PhD to develop that](https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/)
-- [BepiColombo’s First Views of Mercury](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_s_first_views_of_Mercury)
-- [Facebook whistleblower says she wants to fix company, not harm it](https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
