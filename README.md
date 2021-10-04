@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Google’s New Spyware in Chrome 94](https://fossforce.com/2021/10/googles-new-spyware-in-chrome-94/)
-- [What is BGP? – BGP routing explained](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
-- [Every device with FB app is now DDoSing recursive DNS resolvers](https://twitter.com/blazejkrajnak/status/1445063232486531099)
-- [What Happened to Facebook, Instagram, and WhatsApp?](https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/)
+- [New York's largest healthcare provider fires 1,400 unvaccinated workers](https://www.reuters.com/business/healthcare-pharmaceuticals/new-yorks-largest-healthcare-provider-fires-1400-unvaccinated-workers-2021-10-04/)
+- [Facebook is back up](https://facebook.com/)
+- [Facebook Downtime Counter](https://www.fbdowntime.com/)
+- [A Tale of DNS and BGP: The Facebook Outage, October 2021](https://riskledger.com/blog/facebook-outage)
+- [The Facebook Status Page is up again](https://status.fb.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
