@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Whistleblower: FB misleading pub on progress vs. hate speech, violence, misinfo](https://www.cbsnews.com/news/facebook-whistleblower-misinformation-public-60-minutes-2021-10-03/)
+- [The FB Whistleblower, Frances Haugen, Says She Wants to Fix Company, Not Harm It](https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122)
+- [What If Trigger Warnings Don’t Work?](https://www.newyorker.com/news/our-columnists/what-if-trigger-warnings-dont-work)
 - [New study reveals iPhones aren't as private as you think](https://www.tomsguide.com/news/android-ios-data-collection)
-- [FoundationDB: A Distributed Unbundled Transactional Key Value Store](https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html)
-- [Sirum (YC Nonprofit) Is Hiring Mission-Driven Founding Engineers](https://news.ycombinator.com/item?id=28740459)
-- [E-Ink Magic Calendar that runs off a battery powered Raspberry Pi](https://github.com/speedyg0nz/MagInkCal)
-- [Supply Chain and Network Security for Military 5G Networks [pdf]](https://ccdcoe.org/uploads/2021/10/Report_Supply_Chain_and_Network_Security_for_Military_5G_Networks.pdf)
+- [Show HN: A curated list of PaaS and tools to emulate PaaS on cloud](https://github.com/debarshibasak/awesome-paas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
