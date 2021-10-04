@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Every device with FB app is now DDoSing recursive DNS resolvers](https://twitter.com/blazejkrajnak/status/1445063232486531099)
+- [What Happened to Facebook, Instagram, and WhatsApp?](https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/)
+- [Facebook employees badges aren't working, unable to enter buildings](https://twitter.com/sheeraf/status/1445099150316503057)
 - [Ask HN: Is HN having problem keeping up today?](https://news.ycombinator.com/item?id=28750538)
-- [Metastable Failures in Distributed Systems [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s11-bronson.pdf)
-- [Android 12 is live in AOSP](https://android-developers.googleblog.com/2021/10/android-12-is-live-in-aosp.html)
-- [Thread.com (YC S12) | Lead iOS Engineer – London, England – Full-Time](https://news.ycombinator.com/item?id=28749424)
-- [Apple execs describe a “unique arrangement” with Netflix](https://twitter.com/TechEmails/status/1444367219509637123)
+- [Security Best Practices for Fintech Application Development](https://community.marqeta.com/t5/engineering-blogs/security-best-practices-for-fintech-application-development/ba-p/375)
 <!-- BLOG-POST-LIST:END -->
 
 ---
