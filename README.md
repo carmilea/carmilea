@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Google’s New Spyware in Chrome 94](https://fossforce.com/2021/10/googles-new-spyware-in-chrome-94/)
+- [What is BGP? – BGP routing explained](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
 - [Every device with FB app is now DDoSing recursive DNS resolvers](https://twitter.com/blazejkrajnak/status/1445063232486531099)
 - [What Happened to Facebook, Instagram, and WhatsApp?](https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/)
-- [Facebook employees badges aren't working, unable to enter buildings](https://twitter.com/sheeraf/status/1445099150316503057)
-- [Ask HN: Is HN having problem keeping up today?](https://news.ycombinator.com/item?id=28750538)
-- [Security Best Practices for Fintech Application Development](https://community.marqeta.com/t5/engineering-blogs/security-best-practices-for-fintech-application-development/ba-p/375)
 <!-- BLOG-POST-LIST:END -->
 
 ---
