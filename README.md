@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Front End Philosophy](https://jaredgorski.org/writing/15-practical-frontend-philosophy/)
-- [Ask HN: How to get compeitors to use our open source interop-prototcol?](https://news.ycombinator.com/item?id=28747428)
-- [Profilerpedia: A Map of the Software Profiling Ecosystem](https://www.markhansen.co.nz/profilerpedia/)
-- [Credibility Requires Accountability: Monitoring Priests’ Cellphones](https://www.thepublicdiscourse.com/2021/08/77598/)
-- [The Apple A15 SoC Performance Review: Faster and More Efficient](https://www.anandtech.com/show/16983/the-apple-a15-soc-performance-review-faster-more-efficient/)
+- [Apple execs describe a “unique arrangement” with Netflix](https://twitter.com/TechEmails/status/1444367219509637123)
+- [Shaded Relief Maps in Blender](https://github.com/joewdavies/geoblender)
+- [Why Obsessively Following Successful People Online Is Dangerous](https://durmonski.com/life-advice/following-people-online-is-dangerous/)
+- [Facebook-owned sites are down](https://facebook.com)
+- [Captain Kirk: Bezos' Blue Origin to Send William Shatner into Space](https://www.bbc.co.uk/news/world-us-canada-58792761)
 <!-- BLOG-POST-LIST:END -->
 
 ---
