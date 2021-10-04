@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Autonomous vehicles create new problems and solve none](https://news.ycombinator.com/item?id=28744724)
-- [How store anti-theft alarms work: Magnetostriction (2015)](https://hackaday.com/2015/12/03/how-store-anti-theft-alarms-work-magnetostriction/)
-- [DeepMind AI predicts incoming rainfall with high accuracy](https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/)
-- [Raycast (YC W20) Is Hiring Product Designers](https://www.raycast.com/jobs/product-designer)
-- [It takes a PhD to develop that](https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/)
+- [For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore](https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare)
+- [Discoveres of receptors for temperature and touch awarded Medicine Nobel Prize](https://www.nobelprize.org/prizes/medicine/2021/press-release/)
+- [Map of PFAS(Forever Chemicals) Contamination in the United States](https://www.ewg.org/interactive-maps/pfas_contamination/map/)
+- [Constipation drug 'could boost memory after just six days'](https://www.telegraph.co.uk/news/2021/10/04/constipation-drug-could-boost-memory-just-six-days/)
+- [Policing of foreign tech investment in the US is broken](https://www.protocol.com/cfius-tech-investment-oversight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
