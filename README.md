@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New York's largest healthcare provider fires 1,400 unvaccinated workers](https://www.reuters.com/business/healthcare-pharmaceuticals/new-yorks-largest-healthcare-provider-fires-1400-unvaccinated-workers-2021-10-04/)
+- [Facebook going down meant more than just a social network being unavailable](https://twitter.com/abgutman/status/1445124247005933573)
 - [Facebook is back up](https://facebook.com/)
-- [Facebook Downtime Counter](https://www.fbdowntime.com/)
 - [A Tale of DNS and BGP: The Facebook Outage, October 2021](https://riskledger.com/blog/facebook-outage)
-- [The Facebook Status Page is up again](https://status.fb.com/)
+- [Rent The Runway S-1 IPO](https://www.sec.gov/Archives/edgar/data/1468327/000119312521291103/d194411ds1.htm)
+- [Understanding how Facebook disappeared from the internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
