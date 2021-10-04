@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero-Knowledge Proofs for Private Web Attestation with Multi-Vendor Hardware](https://blog.cloudflare.com/introducing-zero-knowledge-proofs-for-private-web-attestation-with-cross-multi-vendor-hardware/)
+- [Not -Werror considered harmful](https://rsalsamendi.github.io/salsablog/#not--werror-considered-harmful)
 - [OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email](https://onesignal.com/careers)
 - [Facebook Is Weaker Than We Knew](https://www.nytimes.com/2021/10/04/technology/facebook-files.html)
-- [AI can predict if it will rain in two hours' time](https://www.bbc.com/news/technology-58748934)
 - [VMware Fusion for Apple Silicon Public Tech Preview Now Available](https://blogs.vmware.com/teamfusion/2021/09/fusion-for-m1-public-tech-preview-now-available.html)
-- [Self-driving Citroën Skate carries swappable pods for inner-city travel](https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
