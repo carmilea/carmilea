@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore](https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare)
-- [Discoveres of receptors for temperature and touch awarded Medicine Nobel Prize](https://www.nobelprize.org/prizes/medicine/2021/press-release/)
-- [Map of PFAS(Forever Chemicals) Contamination in the United States](https://www.ewg.org/interactive-maps/pfas_contamination/map/)
-- [Constipation drug 'could boost memory after just six days'](https://www.telegraph.co.uk/news/2021/10/04/constipation-drug-could-boost-memory-just-six-days/)
-- [Policing of foreign tech investment in the US is broken](https://www.protocol.com/cfius-tech-investment-oversight)
+- [OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email](https://onesignal.com/careers)
+- [Facebook Is Weaker Than We Knew](https://www.nytimes.com/2021/10/04/technology/facebook-files.html)
+- [AI can predict if it will rain in two hours' time](https://www.bbc.com/news/technology-58748934)
+- [VMware Fusion for Apple Silicon Public Tech Preview Now Available](https://blogs.vmware.com/teamfusion/2021/09/fusion-for-m1-public-tech-preview-now-available.html)
+- [Self-driving Citroën Skate carries swappable pods for inner-city travel](https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
