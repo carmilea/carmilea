@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Was a Facebook Fact-Checker. It Was Like Playing a Doomed Game of Whack-a-Mole (2019)](https://www.buzzfeednews.com/article/brookebinkowski/fact-checking-facebook-doomed)
+- [Raycast (YC W20) Is Hiring Product Designers](https://www.raycast.com/jobs/product-designer)
+- [It takes a PhD to develop that](https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/)
+- [I Was a Facebook Fact-Checker (2019)](https://www.buzzfeednews.com/article/brookebinkowski/fact-checking-facebook-doomed)
 - [BepiColombo’s First Views of Mercury](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_s_first_views_of_Mercury)
 - [An Honest Look at Urbit](https://jayriverlong.substack.com/p/36-an-honest-look-at-urbit)
-- [Python 3.11](https://docs.python.org/3.11/whatsnew/changelog.html#changelog)
-- [Whistleblower: Facebook is misleading the public](https://www.cbsnews.com/news/facebook-whistleblower-misinformation-public-60-minutes-2021-10-03/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
