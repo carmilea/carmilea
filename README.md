@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [78 minutes of advice from YC founders and partners](https://quest.audio/t/8nzavsX7VY/inside-y-combinator)
-- [Stripe Press](https://press.stripe.com)
-- [Tools to Explore BGP](https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/)
-- [LLVM 13.0.0 Released](https://lwn.net/Articles/871960/)
-- [Comparing AWS's RDS and PlanetScale](https://planetscale.com/blog/planetscale-vs-aws-rds)
+- [Debrief (YC W21) Is Hiring a founding growth and a founding product engineer](https://www.getdebrief.com/careers)
+- [Celebrating Steve](https://www.apple.com/celebrating-steve)
+- [JavaScript Restrictor](https://polcak.github.io/jsrestrictor/)
+- [Mewe.com](https://mewe.com/)
+- [The New Timescale Cloud](https://blog.timescale.com/blog/announcing-the-new-timescale-cloud-and-a-new-vision-for-the-future-of-database-services-in-the-cloud/amp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
