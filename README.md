@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Direct detection of dark energy: the XENON1T excess and future prospects](https://arxiv.org/abs/2103.15834)
+- [Running BGP in large-scale data centers](https://engineering.fb.com/2021/05/13/data-center-engineering/bgp/)
+- [Open Source Tax Software](http://ctskennerton.github.io/2021/08/30/open-source-tax-software/)
 - [Update about the October 4th outage](https://engineering.fb.com/2021/10/04/networking-traffic/outage/)
 - [Drones Raining from the Sky in Zhengzhou](https://twitter.com/pitdesi/status/1445118812659933187)
-- [Akudo (YC S21) Is Hiring Software Developer – Front End Mobile](https://www.ycombinator.com/companies/akudo/jobs/rf2FbFj-software-developer-frontend-mobile)
-- [Time machine: Solaris 2.6 on QEMU](https://smackeyacky.blogspot.com/2021/10/time-machine-solaris-26-on-qemu.html)
-- [FCC plans to rein in “gateway” carriers that bring foreign robocalls to US](https://arstechnica.com/tech-policy/2021/10/fcc-plans-to-rein-in-gateway-carriers-that-bring-foreign-robocalls-to-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
