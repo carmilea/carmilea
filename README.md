@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport is hiring engineers to build the future of global trade](https://www.flexport.com/careers)
 - [PayPal Raises Fees for Most Domestic Transaction Types to 3.49% + $0.49](https://www.paypal.com/us/webapps/mpp/merchant-fees)
-- [Hackers drain cryptocurrency accounts of thousands of Coinbase users](https://www.pcgamer.com/hackers-drain-cryptocurrency-accounts-of-thousands-of-coinbase-users/)
 - [My own personal AWS S3 bucket](https://blog.jonudell.net/2021/10/04/my-own-personal-aws-s3-bucket/)
+- [Tesla must pay $137M to ex-worker over hostile work environment, racism](https://www.cnbc.com/2021/10/05/tesla-must-pay-137-million-to-ex-worker-over-hostile-work-environment-racism.html)
 - [Direct detection of dark energy: the XENON1T excess and future prospects](https://arxiv.org/abs/2103.15834)
-- [Running BGP in large-scale data centers](https://engineering.fb.com/2021/05/13/data-center-engineering/bgp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
