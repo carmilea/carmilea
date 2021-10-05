@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Drones Raining from the Sky in Zhengzhou](https://twitter.com/pitdesi/status/1445118812659933187)
 - [Akudo (YC S21) Is Hiring Software Developer – Front End Mobile](https://www.ycombinator.com/companies/akudo/jobs/rf2FbFj-software-developer-frontend-mobile)
+- [Time machine: Solaris 2.6 on QEMU](https://smackeyacky.blogspot.com/2021/10/time-machine-solaris-26-on-qemu.html)
 - [FCC plans to rein in “gateway” carriers that bring foreign robocalls to US](https://arstechnica.com/tech-policy/2021/10/fcc-plans-to-rein-in-gateway-carriers-that-bring-foreign-robocalls-to-us/)
-- [Why curiosity is better than being smart?](https://durmonski.com/life-advice/curiosity-is-better-than-being-smart/)
-- [Squeezing Down the Theory Space for Cosmic Inflation](https://physics.aps.org/articles/v14/135)
-- [Ask HN: How many lives have been negatively affected by WhatsApp going down?](https://news.ycombinator.com/item?id=28753055)
+- [Curiosity Is Better Than Being Smart?](https://durmonski.com/life-advice/curiosity-is-better-than-being-smart/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
