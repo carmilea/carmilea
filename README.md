@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My own personal AWS S3 bucket](https://blog.jonudell.net/2021/10/04/my-own-personal-aws-s3-bucket/)
 - [Direct detection of dark energy: the XENON1T excess and future prospects](https://arxiv.org/abs/2103.15834)
 - [Running BGP in large-scale data centers](https://engineering.fb.com/2021/05/13/data-center-engineering/bgp/)
 - [Open Source Tax Software](http://ctskennerton.github.io/2021/08/30/open-source-tax-software/)
 - [Update about the October 4th outage](https://engineering.fb.com/2021/10/04/networking-traffic/outage/)
-- [Drones Raining from the Sky in Zhengzhou](https://twitter.com/pitdesi/status/1445118812659933187)
 <!-- BLOG-POST-LIST:END -->
 
 ---
