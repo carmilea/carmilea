@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Startup guide: How to build a big brand on a small budget](https://docs.google.com/presentation/d/1zd8ZyqO1Jlo1A_Javgsl8ytWu-cMGLL7NYe5ps5mx9Y/edit#slide=id.gea743b29fd_6_132)
-- [Centaur Labs (YC W19) Is Hiring a Head of Information Security](https://www.centaurlabs.com/open-positions)
-- [PostgreSQL: Kubegres is available as open source](https://www.postgresql.org/about/news/kubegres-is-available-as-open-source-2197/)
-- [Is 40 the New 60?](https://neverworkintheory.org/2021/10/03/is-40-the-new-60.html)
-- [Break into this CEO’s laptop to steal company secrets and plant malware](https://twitter.com/SecurityJon/status/1445020885472235524)
+- [Rowy: Open-source Airtable alternative on Google Cloud](https://www.rowy.io)
+- [Facebook misled investors about its reach, whistleblower tells SEC](https://on.ft.com/2YldSxc)
+- [Phrack Issue 70](http://phrack.org/issues/70/1.html)
+- [Ask HN: How should I back up data on devices if I'm not smart?](https://news.ycombinator.com/item?id=28758415)
+- [Udemy S-1 IPO](https://www.sec.gov/Archives/edgar/data/1607939/000119312521291460/d163445ds1.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
