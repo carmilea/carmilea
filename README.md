@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Obscure challenges supporting Kubernetes 1.22 in Pixie](https://blog.px.dev/k8s-122-challenge/)
+- [Telegram founder says over 70 mln new users joined during Facebook outage](https://www.reuters.com/technology/telegram-founder-says-over-70-mln-new-users-joined-during-facebook-outage-2021-10-05/)
+- [Facebook’s cowardly attempt to smear the whistleblower](https://www.theverge.com/2021/10/5/22711182/facebook-whistleblower-smear-pr-response)
 - [Cryptocurrencies’ Carbon Footprint Underestimated](https://blog.dshr.org/2021/10/cryptocurrencys-carbon-footprint.html)
 - [Asahi Linux for M1 Macs: progress report for September 2021](https://asahilinux.org/2021/10/progress-report-september-2021/)
 - [Complex Systems: A Physicist's Viewpoint (G. Parisi)](https://arxiv.org/abs/0205297)
-- [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
