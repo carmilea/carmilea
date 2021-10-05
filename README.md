@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Debrief (YC W21) Is Hiring a founding growth and a founding product engineer](https://www.getdebrief.com/careers)
-- [Celebrating Steve](https://www.apple.com/celebrating-steve)
-- [JavaScript Restrictor](https://polcak.github.io/jsrestrictor/)
-- [Mewe.com](https://mewe.com/)
-- [The New Timescale Cloud](https://blog.timescale.com/blog/announcing-the-new-timescale-cloud-and-a-new-vision-for-the-future-of-database-services-in-the-cloud/amp/)
+- [Asahi Linux for M1 Macs: progress report for September 2021](https://asahilinux.org/2021/10/progress-report-september-2021/)
+- [Complex Systems: A Physicist's Viewpoint (G. Parisi)](https://arxiv.org/abs/0205297)
+- [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
+- [OpenBGPD: The OpenBSD BGP internet routing daemon](https://www.openbgpd.org/)
+- [Tab Unloading in Firefox 93](https://hacks.mozilla.org/2021/10/tab-unloading-in-firefox-93/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
