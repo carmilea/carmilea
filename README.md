@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Long Covid is overblown and often something else, says Oxford professor](https://www.thetimes.co.uk/article/long-covid-is-overblown-and-often-something-else-says-oxford-professor-x62ghkt3c)
+- [After a decade as Apple’s assistant, Siri still hasn’t figured out the job](https://www.theverge.com/22704233/siri-apple-digital-assistant-10-years-development-problems-why)
+- [Why Are American Houses So Flimsy and Poorly Built?](https://dengarden.com/misc/American-Houses-and-Bad-Quality)
 - [Seattle Votes to Decriminalize Psilocybin and Similar Substances](https://www.bloomberg.com/news/articles/2021-10-04/seattle-votes-to-decriminalize-psylocybin-and-similar-substances)
 - [A new public beta of GitHub Releases](https://github.blog/2021-10-04-beta-github-releases-improving-release-experience/)
-- [Flexport is hiring engineers to build the future of global trade](https://www.flexport.com/careers)
-- [PayPal Raises Fees for Most Domestic Transaction Types to 3.49% + $0.49](https://www.paypal.com/us/webapps/mpp/merchant-fees)
-- [Hackers drain cryptocurrency accounts of thousands of Coinbase users](https://www.pcgamer.com/hackers-drain-cryptocurrency-accounts-of-thousands-of-coinbase-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
