@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Nobel Prize in Physics 2021- Physics for climate and other complex phenomena](https://www.nobelprize.org/prizes/physics/2021/press-release/)
-- [After a decade as Apple’s assistant, Siri still hasn’t figured out the job](https://www.theverge.com/22704233/siri-apple-digital-assistant-10-years-development-problems-why)
-- [Show HN: Sixel-tmux displays graphics even if your terminal has no Sixel support](https://github.com/csdvrx/sixel-tmux)
-- [Seattle Votes to Decriminalize Psilocybin and Similar Substances](https://www.bloomberg.com/news/articles/2021-10-04/seattle-votes-to-decriminalize-psylocybin-and-similar-substances)
-- [A new public beta of GitHub Releases](https://github.blog/2021-10-04-beta-github-releases-improving-release-experience/)
+- [Startup guide: How to build a big brand on a small budget](https://docs.google.com/presentation/d/1zd8ZyqO1Jlo1A_Javgsl8ytWu-cMGLL7NYe5ps5mx9Y/edit#slide=id.gea743b29fd_6_132)
+- [Centaur Labs (YC W19) Is Hiring a Head of Information Security](https://www.centaurlabs.com/open-positions)
+- [PostgreSQL: Kubegres is available as open source](https://www.postgresql.org/about/news/kubegres-is-available-as-open-source-2197/)
+- [Is 40 the New 60?](https://neverworkintheory.org/2021/10/03/is-40-the-new-60.html)
+- [Break into this CEO’s laptop to steal company secrets and plant malware](https://twitter.com/SecurityJon/status/1445020885472235524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
