@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why web3 distributed libraries will change the world](https://mirror.xyz/0x679d87D8640e66778c3419D164998E720D7495f6/R9_-f3CnHw7CGEvq9uTHBK0a_Ru90qO2rw_JeEU04dA)
+- [We need to take CO2 out of the sky](https://www.orbuch.com/carbon-removal/)
 - [Detecting Photoshopped Faces by Scripting Photoshop (2019)](https://arxiv.org/abs/1906.05856)
 - [Qventus (YC W15) Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba)
 - [New York Public Library ends all late fees](https://www.npr.org/2021/10/05/1043412502/library-fees-eliminated-new-york)
-- [Towards Learning to Play Piano with Dexterous Hands and Touch](https://arxiv.org/abs/2106.02040)
-- [Show HN: ChessCoach – A neural chess engine that comments on each player's moves](https://chrisbutner.github.io/ChessCoach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
