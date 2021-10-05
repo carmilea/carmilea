@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET Foundation under fire as resigning board member questions its role](https://www.theregister.com/AMP/2021/10/05/microsoft_net_foundation_under_fire/)
-- [GitHub Having Issues](https://www.githubstatus.com/incidents/bdbzpz7qxmbx)
-- [My Logging Best Practices (2020)](https://tuhrig.de/my-logging-best-practices/)
-- [Firefox 93](https://www.mozilla.org/en-US/firefox/93.0/releasenotes/)
-- [A quick note on airships (2020)](https://caseyhandmer.wordpress.com/2020/05/20/a-quick-note-on-airships/)
+- [78 minutes of advice from YC founders and partners](https://quest.audio/t/8nzavsX7VY/inside-y-combinator)
+- [Stripe Press](https://press.stripe.com)
+- [Tools to Explore BGP](https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/)
+- [LLVM 13.0.0 Released](https://lwn.net/Articles/871960/)
+- [Comparing AWS's RDS and PlanetScale](https://planetscale.com/blog/planetscale-vs-aws-rds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
