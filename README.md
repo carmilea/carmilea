@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook going down meant more than just a social network being unavailable](https://twitter.com/abgutman/status/1445124247005933573)
-- [Facebook is back up](https://facebook.com/)
-- [A Tale of DNS and BGP: The Facebook Outage, October 2021](https://riskledger.com/blog/facebook-outage)
-- [Rent The Runway S-1 IPO](https://www.sec.gov/Archives/edgar/data/1468327/000119312521291103/d194411ds1.htm)
-- [Understanding how Facebook disappeared from the internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
+- [Akudo (YC S21) Is Hiring Software Developer – Front End Mobile](https://www.ycombinator.com/companies/akudo/jobs/rf2FbFj-software-developer-frontend-mobile)
+- [FCC plans to rein in “gateway” carriers that bring foreign robocalls to US](https://arstechnica.com/tech-policy/2021/10/fcc-plans-to-rein-in-gateway-carriers-that-bring-foreign-robocalls-to-us/)
+- [Why curiosity is better than being smart?](https://durmonski.com/life-advice/curiosity-is-better-than-being-smart/)
+- [Squeezing Down the Theory Space for Cosmic Inflation](https://physics.aps.org/articles/v14/135)
+- [Ask HN: How many lives have been negatively affected by WhatsApp going down?](https://news.ycombinator.com/item?id=28753055)
 <!-- BLOG-POST-LIST:END -->
 
 ---
