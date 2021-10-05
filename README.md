@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rowy: Open-source Airtable alternative on Google Cloud](https://www.rowy.io)
-- [Facebook misled investors about its reach, whistleblower tells SEC](https://on.ft.com/2YldSxc)
-- [Phrack Issue 70](http://phrack.org/issues/70/1.html)
-- [Ask HN: How should I back up data on devices if I'm not smart?](https://news.ycombinator.com/item?id=28758415)
-- [Udemy S-1 IPO](https://www.sec.gov/Archives/edgar/data/1607939/000119312521291460/d163445ds1.htm)
+- [.NET Foundation under fire as resigning board member questions its role](https://www.theregister.com/AMP/2021/10/05/microsoft_net_foundation_under_fire/)
+- [GitHub Having Issues](https://www.githubstatus.com/incidents/bdbzpz7qxmbx)
+- [My Logging Best Practices (2020)](https://tuhrig.de/my-logging-best-practices/)
+- [Firefox 93](https://www.mozilla.org/en-US/firefox/93.0/releasenotes/)
+- [A quick note on airships (2020)](https://caseyhandmer.wordpress.com/2020/05/20/a-quick-note-on-airships/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
