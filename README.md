@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Introducing raspberrypi.com](https://www.raspberrypi.org/blog/introducing-raspberrypicom/)
-- [Rigetti Computing to go public through SPAC at $1.5b valuation](https://www.rigetti.com/merger-announcement)
+- [Rigetti Computing to go public](https://www.rigetti.com/merger-announcement)
+- [Dangerous Feelings](https://www.collaborativefund.com/blog/dangerous-feelings/)
 - [Mythia (YC W21) Is Hiring](https://www.ycombinator.com/companies/mythia/jobs/wA4lTrr-founding-android-developer-fintech)
 - [The Skill of Org Design](https://commoncog.com/blog/org-design-skill/)
-- [Python 3.11: “Zero cost” exception handling](https://bugs.python.org/issue40222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
