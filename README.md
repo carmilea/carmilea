@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Smarking (YC W15) Is Hiring Head of Eng to Digitize $655B Parking Industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Twitch is hacked, and its source code leaked](https://kotaku.com/report-twitch-is-hacked-and-its-source-code-is-in-the-1847808252)
-- [Will Cloudflare R2 Win Customers from Amazon S3?](https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3)
-- [Ask HN: How to teach young kids about money?](https://news.ycombinator.com/item?id=28774683)
-- [Nearly half of toys from third-party online sellers found to be dangerous](https://www.theguardian.com/money/2021/oct/05/nearly-half-toys-from-third-party-online-sellers-found-dangerous)
+- [Pipeline company paid Minnesota police for arresting and surveilling protesters](https://www.theguardian.com/uk-news/2021/oct/05/line-3-pipeline-enbridge-paid-police-arrest-protesters)
+- [Anthony Levandowski to Larry Page: Google's self-driving project is broken](https://twitter.com/techemails/status/1445802721014009859)
+- [An ex-FBI agent's guide to winning people over](https://memod.com/WorkingOnWellness/an-ex-fbi-agent-s-guide-to-winning-people-over-2644)
+- [OPPA: Ohio could become the third US state to enact a new consumer privacy law](https://portswigger.net/daily-swig/oppa-ohio-could-become-the-third-us-state-to-enact-a-new-consumer-privacy-law-in-2021)
+- [Twitch Hack of 135 GB of Data Includes How Much Its Biggest Streamers Make](https://www.vice.com/amp/en/article/dyvnjk/twitch-hack-of-135-gb-of-data-includes-how-much-its-biggest-streamers-make)
 <!-- BLOG-POST-LIST:END -->
 
 ---
