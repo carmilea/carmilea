@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge Tools (YC W21) Is Hiring](https://www.workatastartup.com/jobs/46779)
+- [Apple announces “Report a scam or fraud” App Store option](https://developer.apple.com/news/?id=j5uyprul)
+- [U.S. Tech Salaries Grow, but Not for Everyone (IEEE-USA's 2021 Salary Survey)](https://spectrum.ieee.org/engineer-salary)
+- [Norway to hit 100% electric vehicle sales by early next year](https://www.drive.com.au/news/norway-to-hit-100-per-cent-electric-vehicle-sales-by-next-year/)
 - [The ultimate SMD marking codes database](https://smd.yooneed.one/)
-- [The Tech Worker Handbook](https://techworkerhandbook.org/)
-- [We (Wallaroo) Moved from Pony to Rust](https://www.wallaroo.ai/blog-posts/wallaroo-move-to-rust)
-- [Apple requires account deletion within apps in AppStore starting January 31](https://developer.apple.com/news/?id=mdkbobfo)
-- [Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
