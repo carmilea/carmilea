@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Responsible Tech Playbook by Thoughtworks](https://www.thoughtworks.com/about-us/social-change/responsible-tech-playbook)
+- [Show HN: Work for Performance – Open performance issues on open-source](https://www.workforperformance.com/)
+- [European Parliament Calls for a Ban on Facial Recognition](https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/)
 - [Introducing raspberrypi.com](https://www.raspberrypi.org/blog/introducing-raspberrypicom/)
 - [Rigetti Computing to go public](https://www.rigetti.com/merger-announcement)
-- [Dangerous Feelings](https://www.collaborativefund.com/blog/dangerous-feelings/)
-- [Mythia (YC W21) Is Hiring](https://www.ycombinator.com/companies/mythia/jobs/wA4lTrr-founding-android-developer-fintech)
-- [The Skill of Org Design](https://commoncog.com/blog/org-design-skill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
