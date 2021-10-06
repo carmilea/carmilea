@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PLOS2021: ISO-C became unusable for operating systems](https://www.yodaiken.com/2021/10/06/plos-2021-paper-how-iso-c-became-unusable-for-operating-system-development/)
 - [Emerge Tools (YC W21) Is Hiring](https://www.workatastartup.com/jobs/46779)
 - [Apple announces “Report a scam or fraud” App Store option](https://developer.apple.com/news/?id=j5uyprul)
 - [U.S. Tech Salaries Grow, but Not for Everyone (IEEE-USA's 2021 Salary Survey)](https://spectrum.ieee.org/engineer-salary)
 - [Norway to hit 100% electric vehicle sales by early next year](https://www.drive.com.au/news/norway-to-hit-100-per-cent-electric-vehicle-sales-by-next-year/)
-- [The ultimate SMD marking codes database](https://smd.yooneed.one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
