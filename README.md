@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing raspberrypi.com](https://www.raspberrypi.org/blog/introducing-raspberrypicom/)
+- [Rigetti Computing to go public through SPAC at $1.5b valuation](https://www.rigetti.com/merger-announcement)
 - [Mythia (YC W21) Is Hiring](https://www.ycombinator.com/companies/mythia/jobs/wA4lTrr-founding-android-developer-fintech)
 - [The Skill of Org Design](https://commoncog.com/blog/org-design-skill/)
-- [Clean environment could become U.N. human right. Not so fast, say U.S., Britain](https://www.reuters.com/business/environment/clean-environment-could-become-un-human-right-not-so-fast-say-us-britain-2021-10-05/)
-- [Alleged Twitch Data Breach](https://twitter.com/troyhunt/status/1445706515323637767)
-- [Sqlfluff the SQL Linter for Humans](https://www.sqlfluff.com/)
+- [Python 3.11: “Zero cost” exception handling](https://bugs.python.org/issue40222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
