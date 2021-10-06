@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Jupiter (YC S19) Is Hiring Front End Engineers](https://jupiter.co/careers)
+- [Hackers leaked her photos then she was charged for breaking anti-porn laws](https://restofworld.org/2021/women-east-africa-cybercrime-laws/)
 - [How to replace estimations and guesses with a Monte Carlo simulation](https://lucasfcosta.com/2021/09/20/monte-carlo-forecasts.html)
 - [Show HN: PeerSend – Social Payments powered by crypto](https://www.peersend.com/)
-- [Facebook harms children and weakens democracy: ex-employee](https://www.bbc.com/news/world-us-canada-58805965)
 - [Choosing the Right Wall Anchors](https://www.finewoodworking.com/2021/07/19/choosing-the-right-wall-anchors)
 <!-- BLOG-POST-LIST:END -->
 
