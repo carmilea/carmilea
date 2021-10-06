@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Nobel Prize in Chemistry 2021](https://www.nobelprize.org/prizes/chemistry/2021/press-release/)
-- [How to permanently delete your Facebook account](https://www.facebook.com/help/224562897555674/)
-- [Clinical trial shows that the use of Vitamin D supplement improves sleep quality](https://pubmed.ncbi.nlm.nih.gov/28475473/)
-- [Twitch source code and customer data has reportedly been leaked](https://www.videogameschronicle.com/news/the-entirety-of-twitch-has-reportedly-been-leaked/)
-- [Jupiter (YC S19) Is Hiring Front End Engineers](https://jupiter.co/careers)
+- [Mythia (YC W21) Is Hiring](https://www.ycombinator.com/companies/mythia/jobs/wA4lTrr-founding-android-developer-fintech)
+- [The Skill of Org Design](https://commoncog.com/blog/org-design-skill/)
+- [Clean environment could become U.N. human right. Not so fast, say U.S., Britain](https://www.reuters.com/business/environment/clean-environment-could-become-un-human-right-not-so-fast-say-us-britain-2021-10-05/)
+- [Alleged Twitch Data Breach](https://twitter.com/troyhunt/status/1445706515323637767)
+- [Sqlfluff the SQL Linter for Humans](https://www.sqlfluff.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
