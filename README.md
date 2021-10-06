@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Nobel Prize in Chemistry 2021](https://www.nobelprize.org/prizes/chemistry/2021/press-release/)
 - [How to permanently delete your Facebook account](https://www.facebook.com/help/224562897555674/)
 - [Clinical trial shows that the use of Vitamin D supplement improves sleep quality](https://pubmed.ncbi.nlm.nih.gov/28475473/)
-- [The Nobel Prize in Physics 2021](https://www.nobelprize.org/prizes/physics/2021/summary/)
 - [Twitch source code and customer data has reportedly been leaked](https://www.videogameschronicle.com/news/the-entirety-of-twitch-has-reportedly-been-leaked/)
 - [Jupiter (YC S19) Is Hiring Front End Engineers](https://jupiter.co/careers)
 <!-- BLOG-POST-LIST:END -->
