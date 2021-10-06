@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brain implant provided immediate relief to a severely depressed patient](https://www.statnews.com/2021/10/04/deep-brain-stimulation-depression-relief-research/)
+- [Intermittent fasting in mice improves long-term memory retention](https://www.kcl.ac.uk/news/intermittent-fasting-in-mice-demonstrably-more-effective-at-promoting-long-term-memory-retention)
+- [Why it has to be NoSQL](https://rxdb.info/why-nosql.html)
+- [Moving Google Toward the Mainline](https://lwn.net/SubscriberLink/871195/d7e9acf5894446e6/)
 - [Jerry (YC S17) Is Hiring Product Managers (All Levels)](https://jobs.lever.co/getjerry/ca3e605d-d309-4a9b-8df6-cd982cc6c71c)
-- [Zuckerberg's Statement](https://www.facebook.com/4/posts/10113961365418581/?d=n)
-- [Nios V – Intel's RISC-V Processor](https://www.intel.com/content/www/us/en/products/details/fpga/nios-processor/v.html)
-- [We need to take CO2 out of the sky](https://www.orbuch.com/carbon-removal/)
-- [New York Public Library ends all late fees](https://www.npr.org/2021/10/05/1043412502/library-fees-eliminated-new-york)
 <!-- BLOG-POST-LIST:END -->
 
 ---
