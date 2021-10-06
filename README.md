@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitch source code and customer data has reportedly been leaked](https://www.videogameschronicle.com/news/the-entirety-of-twitch-has-reportedly-been-leaked/)
 - [Jupiter (YC S19) Is Hiring Front End Engineers](https://jupiter.co/careers)
 - [Hackers leaked her photos then she was charged for breaking anti-porn laws](https://restofworld.org/2021/women-east-africa-cybercrime-laws/)
 - [How to replace estimations and guesses with a Monte Carlo simulation](https://lucasfcosta.com/2021/09/20/monte-carlo-forecasts.html)
 - [Show HN: PeerSend – Social Payments powered by crypto](https://www.peersend.com/)
-- [Choosing the Right Wall Anchors](https://www.finewoodworking.com/2021/07/19/choosing-the-right-wall-anchors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
