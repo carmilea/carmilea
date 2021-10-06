@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don't Write Bugs](https://www.teamten.com/lawrence/programming/dont-write-bugs.html)
+- [Singapore population sees biggest percentage drop since 1950](https://www.reuters.com/world/asia-pacific/singapore-population-sees-biggest-percentage-drop-since-1950-2021-09-28/)
+- [Why Isn't Google Fiber Peered with Google](https://bgp.he.net/AS16591#_peers)
 - [Brain implant provided immediate relief to a severely depressed patient](https://www.statnews.com/2021/10/04/deep-brain-stimulation-depression-relief-research/)
 - [Intermittent fasting in mice improves long-term memory retention](https://www.kcl.ac.uk/news/intermittent-fasting-in-mice-demonstrably-more-effective-at-promoting-long-term-memory-retention)
-- [Why it has to be NoSQL](https://rxdb.info/why-nosql.html)
-- [Moving Google Toward the Mainline](https://lwn.net/SubscriberLink/871195/d7e9acf5894446e6/)
-- [Jerry (YC S17) Is Hiring Product Managers (All Levels)](https://jobs.lever.co/getjerry/ca3e605d-d309-4a9b-8df6-cd982cc6c71c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
