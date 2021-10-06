@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Responsible Tech Playbook by Thoughtworks](https://www.thoughtworks.com/about-us/social-change/responsible-tech-playbook)
-- [Show HN: Work for Performance – Open performance issues on open-source](https://www.workforperformance.com/)
-- [European Parliament Calls for a Ban on Facial Recognition](https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/)
-- [Introducing raspberrypi.com](https://www.raspberrypi.org/blog/introducing-raspberrypicom/)
-- [Rigetti Computing to go public](https://www.rigetti.com/merger-announcement)
+- [Will Cloudflare R2 Win Customers from Amazon S3?](https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3)
+- [What's the best SaaS starter kit?](https://news.ycombinator.com/item?id=28774647)
+- [Evergrande Is Only the Beginning](https://www.brookfieldbrief.com/posts/evergrande-is-only-the-beginning)
+- [QNTM on memes, anti-memes, and knowledge that doesn't want to be shared](https://thebrowser.com/notes/qntm/)
+- [Tutorial: Writing a “bare metal” operating system for Raspberry Pi 4](https://github.com/isometimes/rpi4-osdev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
