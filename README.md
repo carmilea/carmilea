@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
+- [Investigators say they've finally identified the Zodiac Killer](https://www.fox13now.com/news/national-news/investigators-say-theyve-finally-identified-the-zodiac-killer)
+- [Dubai ruler hacked ex-wife using NSO Pegasus spyware, high court judge finds](https://www.theguardian.com/world/2021/oct/06/dubai-ruler-hacked-ex-wife-using-nso-pegasus-spyware-high-court-judge-finds-sheikh-mohammed-princess-haya)
+- [Abusing Terraform to Upload Static Websites to S3](https://www.tangramvision.com/blog/abusing-terraform-to-upload-static-websites-to-s3)
 - [Pipeline company paid Minnesota police for arresting and surveilling protesters](https://www.theguardian.com/uk-news/2021/oct/05/line-3-pipeline-enbridge-paid-police-arrest-protesters)
-- [Anthony Levandowski to Larry Page: Google's self-driving project is broken](https://twitter.com/techemails/status/1445802721014009859)
-- [An ex-FBI agent's guide to winning people over](https://memod.com/WorkingOnWellness/an-ex-fbi-agent-s-guide-to-winning-people-over-2644)
-- [OPPA: Ohio could become the third US state to enact a new consumer privacy law](https://portswigger.net/daily-swig/oppa-ohio-could-become-the-third-us-state-to-enact-a-new-consumer-privacy-law-in-2021)
-- [Twitch Hack of 135 GB of Data Includes How Much Its Biggest Streamers Make](https://www.vice.com/amp/en/article/dyvnjk/twitch-hack-of-135-gb-of-data-includes-how-much-its-biggest-streamers-make)
 <!-- BLOG-POST-LIST:END -->
 
 ---
