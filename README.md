@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The ultimate SMD marking codes database](https://smd.yooneed.one/)
+- [The Tech Worker Handbook](https://techworkerhandbook.org/)
+- [We (Wallaroo) Moved from Pony to Rust](https://www.wallaroo.ai/blog-posts/wallaroo-move-to-rust)
+- [Apple requires account deletion within apps in AppStore starting January 31](https://developer.apple.com/news/?id=mdkbobfo)
 - [Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
-- [Investigators say they've finally identified the Zodiac Killer](https://www.fox13now.com/news/national-news/investigators-say-theyve-finally-identified-the-zodiac-killer)
-- [Dubai ruler hacked ex-wife using NSO Pegasus spyware, high court judge finds](https://www.theguardian.com/world/2021/oct/06/dubai-ruler-hacked-ex-wife-using-nso-pegasus-spyware-high-court-judge-finds-sheikh-mohammed-princess-haya)
-- [Abusing Terraform to Upload Static Websites to S3](https://www.tangramvision.com/blog/abusing-terraform-to-upload-static-websites-to-s3)
-- [Pipeline company paid Minnesota police for arresting and surveilling protesters](https://www.theguardian.com/uk-news/2021/oct/05/line-3-pipeline-enbridge-paid-police-arrest-protesters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
