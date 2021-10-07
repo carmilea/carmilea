@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“looks like Firefox quietly added ads into the address bar”](https://twitter.com/ladyaeva/status/1445834339917320194)
-- [The Iraqi who saved Norway from oil](https://web.archive.org/web/20100123225932/http://www.ft.com/cms/s/2/99680a04-92a0-11de-b63b-00144feabdc0.html)
-- [Firefox Suggest (address bar based ads, currently limited to US)](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduct)
+- [Hyperbaric Oxygen Treatment for Alzheimer's](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293997/)
+- [The History of OS/2 (2001)](http://www.landley.net/history/mirror/os2/history/)
+- [Medical Ethicist at UC Irvine on leave for challenging Vaccine mandate](https://aaronkheriaty.substack.com/p/legal-update-10521)
+- [An Iraqi who saved Norway from oil (2009)](https://web.archive.org/web/20100123225932/http://www.ft.com/cms/s/2/99680a04-92a0-11de-b63b-00144feabdc0.html)
 - [Canyon.mid](https://canyonmid.com/)
-- [The Insane Innovation of TI Calculator Hobbyists](https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
