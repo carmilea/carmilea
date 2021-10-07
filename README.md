@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I'm Sorry](https://github.com/dotnet-foundation/Home/discussions/39)
-- [PLOS2021: ISO-C became unusable for operating systems](https://www.yodaiken.com/2021/10/06/plos-2021-paper-how-iso-c-became-unusable-for-operating-system-development/)
-- [Emerge Tools (YC W21) Is Hiring](https://www.workatastartup.com/jobs/46779)
-- [New “Report a Problem” link on product pages](https://developer.apple.com/news/?id=j5uyprul)
-- [Norway to hit 100% electric vehicle sales by early next year](https://www.drive.com.au/news/norway-to-hit-100-per-cent-electric-vehicle-sales-by-next-year/)
+- [“looks like Firefox quietly added ads into the address bar”](https://twitter.com/ladyaeva/status/1445834339917320194)
+- [The Iraqi who saved Norway from oil](https://web.archive.org/web/20100123225932/http://www.ft.com/cms/s/2/99680a04-92a0-11de-b63b-00144feabdc0.html)
+- [Firefox Suggest (address bar based ads, currently limited to US)](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduct)
+- [Canyon.mid](https://canyonmid.com/)
+- [The Insane Innovation of TI Calculator Hobbyists](https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
