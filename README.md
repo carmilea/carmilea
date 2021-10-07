@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook is nearing a reputational point of no return](https://www.economist.com/leaders/2021/10/09/facebook-is-nearing-a-reputational-point-of-no-return)
-- [Help Us Find the Apps That Sell Your Location](https://themarkup.org/privacy/2021/10/07/help-us-find-the-apps-that-sell-your-location)
-- [Sorted 3: Tasks and calendar events in a unified timeline](https://www.sortedapp.com)
-- [Robservable: Use of Observable notebooks (or parts of them) as htmlwidgets in R](https://juba.github.io/robservable/)
-- [Atomic resolution video of salt crystals forming in real time](https://phys.org/news/2021-01-first-ever-atomic-resolution-video-salt.html)
+- [Faster Python with Guido van Rossum](https://www.softwareatscale.dev/p/software-at-scale-34-faster-python)
+- [How to train large deep learning models as a startup](https://www.assemblyai.com/blog/how-to-train-large-deep-learning-models-as-a-startup/)
+- [NUMA Siloing in the FreeBSD Network Stack [pdf]](https://2019.eurobsdcon.org/slides/NUMA%20Optimizations%20in%20the%20FreeBSD%20Network%20Stack%20-%20Drew%20Gallatin.pdf)
+- [California is shutting down its last nuclear plant](https://www.cnbc.com/2021/10/02/why-is-california-closing-diablo-canyon-nuclear-plant.html)
+- [Self directed IRAs under attack in proposed tax bill](https://www.advantaira.com/blog/urgent-action-needed-to-protect-your-self-directed-ira/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
