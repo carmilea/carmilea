@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gordian Software (YC W19) Is Hiring Software Engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
 - [Paddle announces iOS IAP alternative that avoids Apple's 30% fees](https://paddle.com/platform/in-app-purchase/)
-- [Intel CEO Cites Brexit as Reason for Chip Fab Plans in UK Not an Option](https://www.techpowerup.com/287574/intel-ceo-cites-brexit-as-reason-for-chip-fab-plans-in-uk-not-an-option)
+- [Facebook trying to recover its money during the outage (by screwing advertisers)](https://www.indiehackers.com/post/how-facebook-is-trying-to-recover-the-money-it-lost-during-the-outage-03a6ec6218)
 - [Mozilla to put ads in Firefox address bar suggestions](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest#w_contextual-suggestions)
-- [Shopscribe (YC S21) Is Hiring a Full Stack Hacker](https://www.ycombinator.com/companies/shopscribe/jobs/Ym3v6k1-full-stack-software-engineer)
 - [RenderingNG: An architecture that makes and keeps Chrome fast for the long term](https://blog.chromium.org/2021/10/renderingng.html)
 <!-- BLOG-POST-LIST:END -->
 
