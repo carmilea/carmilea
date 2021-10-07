@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Paddle announces iOS IAP alternative that avoids Apple's 30% fees](https://paddle.com/platform/in-app-purchase/)
+- [Intel CEO Cites Brexit as Reason for Chip Fab Plans in UK Not an Option](https://www.techpowerup.com/287574/intel-ceo-cites-brexit-as-reason-for-chip-fab-plans-in-uk-not-an-option)
 - [Mozilla to put ads in Firefox address bar suggestions](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest#w_contextual-suggestions)
 - [Shopscribe (YC S21) Is Hiring a Full Stack Hacker](https://www.ycombinator.com/companies/shopscribe/jobs/Ym3v6k1-full-stack-software-engineer)
 - [RenderingNG: An architecture that makes and keeps Chrome fast for the long term](https://blog.chromium.org/2021/10/renderingng.html)
-- [Effective Code Browsing](https://noahan.me/posts/effective-code-browsing-part1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
