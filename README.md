@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paddle announces iOS IAP alternative that avoids Apple's 30% fees](https://paddle.com/platform/in-app-purchase/)
 - [Mozilla to put ads in Firefox address bar suggestions](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest#w_contextual-suggestions)
 - [Shopscribe (YC S21) Is Hiring a Full Stack Hacker](https://www.ycombinator.com/companies/shopscribe/jobs/Ym3v6k1-full-stack-software-engineer)
 - [RenderingNG: An architecture that makes and keeps Chrome fast for the long term](https://blog.chromium.org/2021/10/renderingng.html)
 - [Effective Code Browsing](https://noahan.me/posts/effective-code-browsing-part1/)
-- [Protein complex prediction with AlphaFold-Multimer](https://deepmind.com/research/publications/2021/protein-complex-prediction-with-alphafold-multimer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
