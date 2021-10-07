@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I'm donating $150/month (10% of my income) to the musl Libc project (2019)](https://andrewkelley.me/post/why-donating-to-musl-libc-project.html)
+- [Is Ford about to reinvent the bicycle derailleur?](https://www.cyclingweekly.com/products/are-ford-about-to-reinvent-the-bicycle-derailleur)
 - [DiveHealth (YC S21) Is Hiring – Chief Marketing Officer](https://divehealth.com/careers/chief-marketing-officer)
 - [Facebook banned me for life because I help people use it less](https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html)
 - [A lesser known mechanism for alcohol tolerance](https://trevorklee.com/a-lesser-known-mechanism-for-alcohol-tolerance/)
-- [.club domains are not resolving](https://www.reddit.com/r/sysadmin/comments/q38p8x)
-- [AWS S3? Cloudflare R2? We think we know what's coming next](https://object-storage-name-generator.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
