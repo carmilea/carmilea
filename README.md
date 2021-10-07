@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Faster Python with Guido van Rossum](https://www.softwareatscale.dev/p/software-at-scale-34-faster-python)
-- [How to train large deep learning models as a startup](https://www.assemblyai.com/blog/how-to-train-large-deep-learning-models-as-a-startup/)
-- [NUMA Siloing in the FreeBSD Network Stack [pdf]](https://2019.eurobsdcon.org/slides/NUMA%20Optimizations%20in%20the%20FreeBSD%20Network%20Stack%20-%20Drew%20Gallatin.pdf)
-- [California is shutting down its last nuclear plant](https://www.cnbc.com/2021/10/02/why-is-california-closing-diablo-canyon-nuclear-plant.html)
-- [Self directed IRAs under attack in proposed tax bill](https://www.advantaira.com/blog/urgent-action-needed-to-protect-your-self-directed-ira/)
+- [AWS S3? Cloudflare R2? We think we know what's coming next](https://object-storage-name-generator.com/)
+- [Facebook ends 'WFH forever' rule after mega outage](https://www.techradar.com/uk/amp/news/facebook-ends-wfh-forever-rule-after-mega-outage)
+- [America is running out of everything](https://www.theatlantic.com/ideas/archive/2021/10/america-is-choking-under-an-everything-shortage/620322/)
+- [Show HN: Graphsignal – Production Model Monitoring: Anomalies, Drift, Exceptions](https://github.com/graphsignal/graphsignal)
+- [Thoughts on chess improvement, after gaining 600 points in 6 months](https://mbuffett.com/posts/chess_improvement_thoughts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
