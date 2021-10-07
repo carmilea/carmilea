@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Going from $110k to $24k for more skin in the game](https://interdimensional-television.com/post/2021/10/06/skin-in-the-game/)
-- [First-ever atomic resolution video of salt crystals forming in real time](https://phys.org/news/2021-01-first-ever-atomic-resolution-video-salt.html)
-- [Dutch watchdog finds Apple App Store payment rules anti-competitive](https://www.reuters.com/technology/exclusive-dutch-watchdog-finds-apple-app-store-payment-rules-anti-competitive-2021-10-07/)
-- [OCaml is getting multicore support in the next major version (v5)](https://discuss.ocaml.org/t/the-road-to-ocaml-5-0/8584)
-- [Retired Husband Syndrome](https://en.wikipedia.org/wiki/Retired_husband_syndrome)
+- [Facebook is nearing a reputational point of no return](https://www.economist.com/leaders/2021/10/09/facebook-is-nearing-a-reputational-point-of-no-return)
+- [Help Us Find the Apps That Sell Your Location](https://themarkup.org/privacy/2021/10/07/help-us-find-the-apps-that-sell-your-location)
+- [Sorted 3: Tasks and calendar events in a unified timeline](https://www.sortedapp.com)
+- [Robservable: Use of Observable notebooks (or parts of them) as htmlwidgets in R](https://juba.github.io/robservable/)
+- [Atomic resolution video of salt crystals forming in real time](https://phys.org/news/2021-01-first-ever-atomic-resolution-video-salt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
