@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Why masterclass isn't about mastery](https://every.to/napkin-math/why-masterclass-isnt-really-about-610214)
-- [El Salvador's Bitcoin use grows but headaches persist](https://www.reuters.com/technology/one-month-el-salvadors-bitcoin-use-grows-headaches-persist-2021-10-07/)
-- [Cloudflare doesn’t have to cut off copyright-infringing websites, judge rules](https://arstechnica.com/tech-policy/2021/10/cloudflare-doesnt-have-to-cut-off-copyright-infringing-websites-judge-rules/)
-- [Android Wallpaper Images Can Threaten Your Privacy](https://fingerprintjs.com/blog/how-android-wallpaper-images-threaten-privacy/)
+- [A partially-automated medium-throughput homemade cider press with lasers](https://biotinker.dev/posts/cider.html)
+- [AT&T helped build far-right One America News](https://www.reuters.com/investigates/special-report/usa-oneamerica-att/)
+- [Bringing Objective-C to the Amiga](https://blog.nil.im/?76)
+- [Underdog Devs: supporting formerly incarcerated and disadvantaged aspiring devs](https://www.underdogdevs.org)
+- [Rescale (YC W12) is hiring software engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 <!-- BLOG-POST-LIST:END -->
 
 ---
