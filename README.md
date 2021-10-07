@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yes, Bitcoin Is a Ponzi](https://ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html)
+- [Protein complex prediction with AlphaFold-Multimer](https://deepmind.com/research/publications/2021/protein-complex-prediction-with-alphafold-multimer)
 - [A Bitcoin Mining Operation Started a Secret Power Plant, It Did Not Go as Plannd](https://gizmodo.com/a-bitcoin-mining-operation-started-a-secret-power-plant-1847811718)
 - [Hyperbaric Oxygen Treatment for Alzheimer's](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293997/)
 - [Facebook Political Problems](https://stratechery.com/2021/facebook-political-problems/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJlbnQiOnsidXJpIjpbImh0dHBzOi8vc3RyYXRlY2hlcnkuY29tLzIwMjEvZmFjZWJvb2stcG9saXRpY2FsLXByb2JsZW1zLyJdfSwiZXhwIjoxNjM2MTMwMDQ1LCJpYXQiOjE2MzM1MzgwNDUsImlzcyI6Imh0dHBzOi8vc3RyYXRlY2hlcnkucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJhcnRpY2xlOnJlYWQgY2F0ZWdvcnk6cmVhZCIsInN1YiI6IkxHQUNiVVRGS1dtVWMxRFRkNXFtMW0iLCJ1c2UiOiJhY2Nlc3MifQ.PMr73FtoayLlKQVtITLPhzQLkDzDZBwfc1DMGGVupIsDlq_cQ5HdYx6NFyKFvknnyubEP4W1IpRSFQ4cLsg2-F8OGWBjmjXKVVx-VZq5Bw4wrBdwFtaFVL9ZAR419j3PbocuVmyXaEjahuDvyO8FPb9xmWIn0nOBCxSjjaioSFfNtPYJkrNaEjlplO6tShfh610j29o-nfQZ8qF_fOL87__CGrZzqf0COsGaq850ozNViqf4LWf9POcCRMt74MHwcfdoI4JPJg84KbvE2FeWrzGgeW3guTTQZn59cQFXlLulPrlqIyPugmw2wcpm2bHXY-VqSMECcTOc2TKMx4oLDw)
-- [The History of OS/2 (2001)](http://www.landley.net/history/mirror/os2/history/)
-- [An Iraqi who saved Norway from oil (2009)](https://web.archive.org/web/20100123225932/http://www.ft.com/cms/s/2/99680a04-92a0-11de-b63b-00144feabdc0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
