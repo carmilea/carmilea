@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [Why masterclass isn't about mastery](https://every.to/napkin-math/why-masterclass-isnt-really-about-610214)
+- [El Salvador's Bitcoin use grows but headaches persist](https://www.reuters.com/technology/one-month-el-salvadors-bitcoin-use-grows-headaches-persist-2021-10-07/)
+- [Cloudflare doesn’t have to cut off copyright-infringing websites, judge rules](https://arstechnica.com/tech-policy/2021/10/cloudflare-doesnt-have-to-cut-off-copyright-infringing-websites-judge-rules/)
 - [Android Wallpaper Images Can Threaten Your Privacy](https://fingerprintjs.com/blog/how-android-wallpaper-images-threaten-privacy/)
-- [Why didn’t auto-braking stop these crashes?](https://www.latimes.com/business/story/2021-10-07/why-arent-automatic-braking-systems-stopping-deadly-tesla-crashes)
-- [Finland joins Sweden and Denmark in limiting Moderna Covid-19 vaccine](https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07/)
-- [Yorkshire gang's Game Boy device could unlock car in seconds](https://www.bbc.com/news/uk-england-leeds-58788627)
-- [Do Unified Databases Make Polyglot Persistence Irrelevant?](https://www.singlestore.com/blog/do-unified-databases-make-polyglot-persistance-irrelevant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
