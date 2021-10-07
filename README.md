@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DiveHealth (YC S21) Is Hiring – Chief Marketing Officer](https://divehealth.com/careers/chief-marketing-officer)
+- [Facebook banned me for life because I help people use it less](https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html)
+- [A lesser known mechanism for alcohol tolerance](https://trevorklee.com/a-lesser-known-mechanism-for-alcohol-tolerance/)
+- [.club domains are not resolving](https://www.reddit.com/r/sysadmin/comments/q38p8x)
 - [AWS S3? Cloudflare R2? We think we know what's coming next](https://object-storage-name-generator.com/)
-- [Facebook ends 'WFH forever' rule after mega outage](https://www.techradar.com/uk/amp/news/facebook-ends-wfh-forever-rule-after-mega-outage)
-- [America is running out of everything](https://www.theatlantic.com/ideas/archive/2021/10/america-is-choking-under-an-everything-shortage/620322/)
-- [Show HN: Graphsignal – Production Model Monitoring: Anomalies, Drift, Exceptions](https://github.com/graphsignal/graphsignal)
-- [Thoughts on chess improvement, after gaining 600 points in 6 months](https://mbuffett.com/posts/chess_improvement_thoughts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
