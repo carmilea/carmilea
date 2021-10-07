@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Diet soda may prompt food cravings, especially in women and people with obesity](https://www.npr.org/sections/health-shots/2021/10/07/1044010141/diet-soda-may-prompt-food-cravings-especially-in-women-and-people-with-obesity)
 - [Why I'm donating $150/month (10% of my income) to the musl Libc project (2019)](https://andrewkelley.me/post/why-donating-to-musl-libc-project.html)
-- [Is Ford about to reinvent the bicycle derailleur?](https://www.cyclingweekly.com/products/are-ford-about-to-reinvent-the-bicycle-derailleur)
 - [DiveHealth (YC S21) Is Hiring – Chief Marketing Officer](https://divehealth.com/careers/chief-marketing-officer)
 - [Facebook banned me for life because I help people use it less](https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html)
 - [A lesser known mechanism for alcohol tolerance](https://trevorklee.com/a-lesser-known-mechanism-for-alcohol-tolerance/)
