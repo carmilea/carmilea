@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [USS Connecticut (SSN 22) struck an object while submerged on Oct. 2](https://www.cpf.navy.mil/News/Article/2797630/statement-regarding-uss-connecticut-ssn-22/)
 - [A partially-automated medium-throughput homemade cider press with lasers](https://biotinker.dev/posts/cider.html)
-- [AT&T helped build far-right One America News](https://www.reuters.com/investigates/special-report/usa-oneamerica-att/)
+- [Autonomous drone navigates independently through the forest at 40 km/h](https://www.media.uzh.ch/en/Press-Releases/2021/Drone-in-the-wild.html)
 - [Bringing Objective-C to the Amiga](https://blog.nil.im/?76)
 - [Underdog Devs: supporting formerly incarcerated and disadvantaged aspiring devs](https://www.underdogdevs.org)
-- [Rescale (YC W12) is hiring software engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 <!-- BLOG-POST-LIST:END -->
 
 ---
