@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smoothness and performance of Qt based systems compared to native apps and OS](https://news.ycombinator.com/item?id=28798868)
+- [State of Digital Nomads](https://nomadlist.com/digital-nomad-statistics?ref=83333)
 - [Roapi: An API Server for Static Datasets](https://tech.marksblogg.com/roapi-rust-data-api.html)
-- [New York City to Phase Out Its Gifted and Talented Program](https://www.nytimes.com/2021/10/08/nyregion/gifted-talented-nyc-schools.html)
+- [When did we start signing our names to authenticate documents? (2011)](https://slate.com/news-and-politics/2011/03/when-did-we-start-signing-our-names-to-authenticate-documents.html)
 - [Xkit (YC S18) Is Hiring a Senior UX Engineer](https://github.com/xkit-co/jobs/blob/main/senior-ux-engineer.md)
-- [Ask HN: People who cashed out early and stopped working. what is your life like?](https://news.ycombinator.com/item?id=28798089)
-- [What’s the Point of 15-Minute Grocery Delivery?](https://www.vice.com/en/article/k78mkv/whats-the-point-of-15-minute-grocery-delivery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
