@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lots to See in Firefox 93](https://hacks.mozilla.org/2021/10/lots-to-see-in-firefox-93/)
+- [1 Year of Coinbase as a mission focused company – Brian Armstrong](https://twitter.com/brian_armstrong/status/1443727729476530178)
 - [Facebook bans, sends C&D letter to developer of Unfollow Everything extension](https://www.techspot.com/news/91650-facebook-bans-sends-cease-desist-letter-developer-unfollow.html)
 - [Ophelia (YC W20) is hiring software engineers to help solve the opioid crisis](https://jobs.lever.co/ophelia/ea3e680d-659a-4478-a863-c2bf35177227)
 - [136 Countries agree to minimum corporate tax rate](https://lite.cnn.com/en/article/h_ae2e1cd7c5997036404936c0eacc8356)
-- [136 Countries agree to minimum corporate tax rate](https://www.cnn.com/2021/10/08/business/ireland-global-tax-deal-oecd/index.html)
-- [Crews Are Abandoned on Ships in Record Numbers Without Pay, Food or a Way Home](https://www.wsj.com/articles/crews-are-abandoned-on-ships-in-record-numbers-without-pay-food-or-a-way-home-11633699978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
