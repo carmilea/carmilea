@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: Practically accepting cryptocurrency for businesses without middlemen?](https://news.ycombinator.com/item?id=28795005)
+- [When Facebook went down this week, traffic to news sites went up](https://www.niemanlab.org/2021/10/when-facebook-went-down-this-week-traffic-to-news-sites-went-up/)
 - [How the .NET Foundation kerfuffle became a brouhaha](https://robmensching.com/blog/posts/2021/10/6/how-the-.net-foundation-kerfuffle-became-a-brouhaha/)
 - [XMonad – The Automated Tiling WM](https://xmonad.org/)
-- [Samsung Outlines 3nm Plans](https://news.samsung.com/global/samsung-foundry-innovations-power-the-future-of-big-data-ai-ml-and-smart-connected-devices)
-- [Laser for control of mosquitos, weeds and pests](https://github.com/Ildaron/Laser_control)
+- [Vim Anti-Patterns That Cause Beginners To:Quit](https://paweldu.dev/posts/vim-anti-patterns-that-cause-beginners-to-quit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
