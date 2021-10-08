@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 - [The Nobel Peace Prize 2021](https://www.nobelprize.org/prizes/peace/2021/press-release/)
+- [Explaining explaining: a quick guide on explanatory writing](https://lucasfcosta.com/2021/09/30/explaining-in-writing.html)
+- [Quickemu: Quickly create and run optimised Win-10,11/macOS/Linux on Linux](https://github.com/wimpysworld/quickemu)
 - [We set up an offshore company in a tax haven](https://www.npr.org/2021/10/06/1043746410/we-set-up-an-offshore-company-in-a-tax-haven-classic)
-- [USPS Begins Postal Banking Pilot Program](https://prospect.org/economy/usps-begins-postal-banking-pilot-program/)
-- [Opvia (YC S20) Is Hiring a Senior Product Engineer in London](https://www.notion.so/opvia/Senior-Product-Engineer-160ee0167887461cabc7acfc468a5b8d)
-- [An Engineer's Guide to Building a Database for Data-Intensive Applications](https://www.singlestore.com/blog/engineers-guide-building-database-for-data-intensive-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
