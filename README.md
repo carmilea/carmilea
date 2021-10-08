@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
-- [100-year-old former Nazi guard has gone on trial, facing charges for 3518 deaths](https://www.npr.org/2021/10/07/1043971890/100-year-old-nazi-guard-on-trial-germany)
-- [Explaining explaining: a quick guide on explanatory writing](https://lucasfcosta.com/2021/09/30/explaining-in-writing.html)
-- [Quickemu: Quickly create and run optimised Win-10,11/macOS/Linux on Linux](https://github.com/wimpysworld/quickemu)
-- [USPS Begins Postal Banking Pilot Program](https://prospect.org/economy/usps-begins-postal-banking-pilot-program/)
+- [Roapi: An API Server for Static Datasets](https://tech.marksblogg.com/roapi-rust-data-api.html)
+- [New York City to Phase Out Its Gifted and Talented Program](https://www.nytimes.com/2021/10/08/nyregion/gifted-talented-nyc-schools.html)
+- [Xkit (YC S18) Is Hiring a Senior UX Engineer](https://github.com/xkit-co/jobs/blob/main/senior-ux-engineer.md)
+- [Ask HN: People who cashed out early and stopped working. what is your life like?](https://news.ycombinator.com/item?id=28798089)
+- [What’s the Point of 15-Minute Grocery Delivery?](https://www.vice.com/en/article/k78mkv/whats-the-point-of-15-minute-grocery-delivery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
