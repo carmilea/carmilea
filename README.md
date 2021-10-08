@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A visit from a social robot improves hospitalized children’s outlook](https://newsroom.ucla.edu/releases/social-robot-improves-hospitalized-children-outlook)
+- [Orion is the new WebKit-based browser for Mac](https://browser.kagi.com/)
 - [Smoothness and performance of Qt based systems compared to native apps and OS](https://news.ycombinator.com/item?id=28798868)
 - [State of Digital Nomads](https://nomadlist.com/digital-nomad-statistics?ref=83333)
-- [Roapi: An API Server for Static Datasets](https://tech.marksblogg.com/roapi-rust-data-api.html)
-- [When did we start signing our names to authenticate documents? (2011)](https://slate.com/news-and-politics/2011/03/when-did-we-start-signing-our-names-to-authenticate-documents.html)
-- [Xkit (YC S18) Is Hiring a Senior UX Engineer](https://github.com/xkit-co/jobs/blob/main/senior-ux-engineer.md)
+- [Elite MBAs are no Longer Relevant](https://news.ycombinator.com/item?id=28798440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
