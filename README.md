@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Practically accepting cryptocurrency for businesses without middlemen?](https://news.ycombinator.com/item?id=28795005)
+- [Hugo Themes ranked by GitHub Stars](https://hugoranked.com/)
 - [When Facebook went down this week, traffic to news sites went up](https://www.niemanlab.org/2021/10/when-facebook-went-down-this-week-traffic-to-news-sites-went-up/)
 - [How the .NET Foundation kerfuffle became a brouhaha](https://robmensching.com/blog/posts/2021/10/6/how-the-.net-foundation-kerfuffle-became-a-brouhaha/)
 - [XMonad – The Automated Tiling WM](https://xmonad.org/)
