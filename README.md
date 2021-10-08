@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [USS Connecticut (SSN 22) struck an object while submerged on Oct. 2](https://www.cpf.navy.mil/News/Article/2797630/statement-regarding-uss-connecticut-ssn-22/)
-- [A partially-automated medium-throughput homemade cider press with lasers](https://biotinker.dev/posts/cider.html)
-- [Autonomous drone navigates independently through the forest at 40 km/h](https://www.media.uzh.ch/en/Press-Releases/2021/Drone-in-the-wild.html)
-- [Bringing Objective-C to the Amiga](https://blog.nil.im/?76)
-- [Underdog Devs: supporting formerly incarcerated and disadvantaged aspiring devs](https://www.underdogdevs.org)
+- [XMonad – The Automated Tiling WM](https://xmonad.org/)
+- [Samsung Outlines 3nm Plans](https://news.samsung.com/global/samsung-foundry-innovations-power-the-future-of-big-data-ai-ml-and-smart-connected-devices)
+- [Laser to Kill Mosquitoes](https://github.com/Ildaron/Laser_control)
+- [Why kidney failure led me to found an Health Tech Startup](https://news.ycombinator.com/item?id=28793637)
+- [Tesla Moves HQ from California to Austin](https://www.kxan.com/news/business/elon-musk-announces-teslas-headquarters-will-move-to-austin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
