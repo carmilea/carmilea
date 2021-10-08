@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Opvia (YC S20) Is Hiring a Senior Product Engineer in London](https://www.notion.so/opvia/Senior-Product-Engineer-160ee0167887461cabc7acfc468a5b8d)
 - [An Engineer's Guide to Building a Database for Data-Intensive Applications](https://www.singlestore.com/blog/engineers-guide-building-database-for-data-intensive-applications/)
 - [Hugo Themes ranked by GitHub Stars](https://hugoranked.com/)
 - [When Facebook went down this week, traffic to news sites went up](https://www.niemanlab.org/2021/10/when-facebook-went-down-this-week-traffic-to-news-sites-went-up/)
 - [How the .NET Foundation kerfuffle became a brouhaha](https://robmensching.com/blog/posts/2021/10/6/how-the-.net-foundation-kerfuffle-became-a-brouhaha/)
-- [XMonad – The Automated Tiling WM](https://xmonad.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
