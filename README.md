@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US Justice Department Launches a National Cryptocurrency Enforcement Team](https://therecord.media/justice-department-launches-a-national-cryptocurrency-enforcement-team/)
+- [Lego to release a 9,090-piece scale model of the Titanic](https://www.cnn.com/style/article/titanic-lego-model-intl-scli/index.html)
+- [Firefox: Dark pattern consent dialog invites users to share their location](https://www.theregister.com/2021/10/08/mozilla_adding_sponsored_search_results/)
+- [Iceland stops using Moderna Covid-19 vaccine](https://www-visir-is.translate.goog/g/20212167101d/stodva-notkun-boluefnis-moderna-her-a-landi-i-ljosi-nyrra-gagna?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=nui)
 - [Tesorio (YC S15) is Hiring a Head of Talent to help us grow 2x next year](https://jobs.lever.co/tesorio/cb6976de-e744-4f68-b10a-a9c2c62b3911)
-- [Byzantine warrior with gold-threaded jaw unearthed in Greece](https://www.livescience.com/byzantine-warrior-fractured-jaw)
-- [Dos-like: Engine for making things with a MS-DOS feel, but for modern platforms](https://github.com/mattiasgustavsson/dos-like)
-- [The Uncertain Future of Ham Radio](https://spectrum.ieee.org/ham-radio)
-- [A Modest Apology for the Man in the Bottle (1749)](https://publicdomainreview.org/collection/bottleman/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
