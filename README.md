@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Practically accepting cryptocurrency for businesses without middlemen?](https://news.ycombinator.com/item?id=28795005)
+- [How the .NET Foundation kerfuffle became a brouhaha](https://robmensching.com/blog/posts/2021/10/6/how-the-.net-foundation-kerfuffle-became-a-brouhaha/)
 - [XMonad – The Automated Tiling WM](https://xmonad.org/)
 - [Samsung Outlines 3nm Plans](https://news.samsung.com/global/samsung-foundry-innovations-power-the-future-of-big-data-ai-ml-and-smart-connected-devices)
-- [Laser to Kill Mosquitoes](https://github.com/Ildaron/Laser_control)
-- [Why kidney failure led me to found an Health Tech Startup](https://news.ycombinator.com/item?id=28793637)
-- [Tesla Moves HQ from California to Austin](https://www.kxan.com/news/business/elon-musk-announces-teslas-headquarters-will-move-to-austin/)
+- [Laser for control of mosquitos, weeds and pests](https://github.com/Ildaron/Laser_control)
 <!-- BLOG-POST-LIST:END -->
 
 ---
