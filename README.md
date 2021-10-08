@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Python leads Tiobe Index for first time in 20 years](https://www.tiobe.com/tiobe-index/)
+- [What happened on the Internet during the Facebook outage](https://blog.cloudflare.com/during-the-facebook-outage/)
+- [Git as a Storage](https://bronevichok.ru/posts/git-as-a-storage.html)
+- [Rust, Wright's Law, and the Future of Low-Latency Systems](https://www.youtube.com/watch?v=cuvp-e4ztC0)
 - [Rust: Enums to Wrap Multiple Errors](https://fettblog.eu/rust-enums-wrapping-errors/)
-- [AutoEQ: Automatic headphone equalization from frequency responses](https://github.com/jaakkopasanen/AutoEq)
-- [Computer Game Play Reduces Intrusive Memories of Experimental Trauma (2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4526368/)
-- [ETL Pipelines with Airflow: The Good, the Bad and the Ugly](https://airbyte.io/blog/airflow-etl-pipelines)
-- [SpaceX hits $100B valuation after secondary share sale](https://www.cnbc.com/2021/10/08/elon-musks-spacex-valuation-100-billion.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
