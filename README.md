@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook bans, sends C&D letter to developer of Unfollow Everything extension](https://www.techspot.com/news/91650-facebook-bans-sends-cease-desist-letter-developer-unfollow.html)
+- [Ophelia (YC W20) is hiring software engineers to help solve the opioid crisis](https://jobs.lever.co/ophelia/ea3e680d-659a-4478-a863-c2bf35177227)
 - [136 Countries agree to minimum corporate tax rate](https://lite.cnn.com/en/article/h_ae2e1cd7c5997036404936c0eacc8356)
-- [Mighty (YC S19) is hiring engineers to make a faster browser](https://www.notion.so/mightyapp/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
+- [136 Countries agree to minimum corporate tax rate](https://www.cnn.com/2021/10/08/business/ireland-global-tax-deal-oecd/index.html)
 - [Crews Are Abandoned on Ships in Record Numbers Without Pay, Food or a Way Home](https://www.wsj.com/articles/crews-are-abandoned-on-ships-in-record-numbers-without-pay-food-or-a-way-home-11633699978)
-- [Ask HN: Unplugging](https://news.ycombinator.com/item?id=28801221)
-- [What happened on the Internet during the Facebook outage](https://blog.cloudflare.com/during-the-facebook-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
