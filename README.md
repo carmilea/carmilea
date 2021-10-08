@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Python leads Tiobe Index for first time in 20 years](https://www.tiobe.com/tiobe-index/)
+- [136 Countries agree to minimum corporate tax rate](https://lite.cnn.com/en/article/h_ae2e1cd7c5997036404936c0eacc8356)
+- [Mighty (YC S19) is hiring engineers to make a faster browser](https://www.notion.so/mightyapp/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
+- [Crews Are Abandoned on Ships in Record Numbers Without Pay, Food or a Way Home](https://www.wsj.com/articles/crews-are-abandoned-on-ships-in-record-numbers-without-pay-food-or-a-way-home-11633699978)
+- [Ask HN: Unplugging](https://news.ycombinator.com/item?id=28801221)
 - [What happened on the Internet during the Facebook outage](https://blog.cloudflare.com/during-the-facebook-outage/)
-- [Git as a Storage](https://bronevichok.ru/posts/git-as-a-storage.html)
-- [Rust, Wright's Law, and the Future of Low-Latency Systems](https://www.youtube.com/watch?v=cuvp-e4ztC0)
-- [Rust: Enums to Wrap Multiple Errors](https://fettblog.eu/rust-enums-wrapping-errors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
