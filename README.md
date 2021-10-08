@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Engineer's Guide to Building a Database for Data-Intensive Applications](https://www.singlestore.com/blog/engineers-guide-building-database-for-data-intensive-applications/)
 - [Hugo Themes ranked by GitHub Stars](https://hugoranked.com/)
 - [When Facebook went down this week, traffic to news sites went up](https://www.niemanlab.org/2021/10/when-facebook-went-down-this-week-traffic-to-news-sites-went-up/)
 - [How the .NET Foundation kerfuffle became a brouhaha](https://robmensching.com/blog/posts/2021/10/6/how-the-.net-foundation-kerfuffle-became-a-brouhaha/)
 - [XMonad – The Automated Tiling WM](https://xmonad.org/)
-- [Vim Anti-Patterns That Cause Beginners To:Quit](https://paweldu.dev/posts/vim-anti-patterns-that-cause-beginners-to-quit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
