@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A visit from a social robot improves hospitalized children’s outlook](https://newsroom.ucla.edu/releases/social-robot-improves-hospitalized-children-outlook)
-- [Orion is the new WebKit-based browser for Mac](https://browser.kagi.com/)
-- [Smoothness and performance of Qt based systems compared to native apps and OS](https://news.ycombinator.com/item?id=28798868)
-- [State of Digital Nomads](https://nomadlist.com/digital-nomad-statistics?ref=83333)
-- [Elite MBAs are no Longer Relevant](https://news.ycombinator.com/item?id=28798440)
+- [Rust: Enums to Wrap Multiple Errors](https://fettblog.eu/rust-enums-wrapping-errors/)
+- [AutoEQ: Automatic headphone equalization from frequency responses](https://github.com/jaakkopasanen/AutoEq)
+- [Computer Game Play Reduces Intrusive Memories of Experimental Trauma (2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4526368/)
+- [ETL Pipelines with Airflow: The Good, the Bad and the Ugly](https://airbyte.io/blog/airflow-etl-pipelines)
+- [SpaceX hits $100B valuation after secondary share sale](https://www.cnbc.com/2021/10/08/elon-musks-spacex-valuation-100-billion.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
