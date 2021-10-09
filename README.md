@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [30 days ago I was an Apple employee](https://twitter.com/ashleygjovik/status/1446882093305319424)
+- [Self-parking Car in 500 Lines of Code](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
 - [Meticulous (YC S21) Is Hiring First Engineer (London and Remote)](https://news.ycombinator.com/item?id=28811444)
 - [Tech Jobs Are Everywhere Now](https://www.nytimes.com/2021/10/08/opinion/tech-jobs-tesla.html)
 - [Lifehacks Stacks Exchange](https://lifehacks.stackexchange.com/)
-- [Real-world data show that filters clean Covid-causing virus from air](https://www.nature.com/articles/d41586-021-02669-2)
-- [Reddit uses “reddit.com” itself as the endpoint for logging usage data](https://twitter.com/wongmjane/status/1446556836497264641)
 <!-- BLOG-POST-LIST:END -->
 
 ---
