@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Mirror Links for "Unfollow Everything"](https://www.reddit.com/r/programming/comments/q3smfr/unfollow_everything_developer_banned_for_life/)
+- [How to Evaluate Startup Offers – A Beginner's Guide](https://faingezicht.com/articles/2021/09/20/evaluating-startup-offers/)
 - [Bitmovin (YC S15) Is Hiring to build the future of video infrastructure](https://bitmovin.com/careers/)
 - [Spread the word about your next cool project](https://github.com/trekhleb/promote-your-next-startup)
 - [Black Children Were Jailed for a Crime That Doesn’t Exist](https://www.propublica.org/article/black-children-were-jailed-for-a-crime-that-doesnt-exist)
-- [Telephone Central Office Building Pictures](http://www.co-buildings.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
