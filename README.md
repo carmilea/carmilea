@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Off-Grid Laws of Every State in America](https://www.primalsurvivor.net/living-off-grid-legal/)
 - [Private Networks and Industrial IoT](https://www.privatelteand5g.com/private-networks-and-industrial-iot-remote-monitoring-and-control-of-industry-4-0-for-dynamic-decision-making/)
 - [Ć Programming Language](https://github.com/pfusik/cito)
-- [Hydrogen’s moment is here at last](https://www.economist.com/leaders/2021/10/09/hydrogens-moment-is-here-at-last)
 - [Ireland joins OECD International Tax agreement](https://www.gov.ie/en/press-release/59812-ireland-joins-oecd-international-tax-agreement/)
 - [The American Aristotle](https://aeon.co/essays/charles-sanders-peirce-was-americas-greatest-thinker)
 <!-- BLOG-POST-LIST:END -->
