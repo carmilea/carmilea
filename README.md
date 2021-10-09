@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mirror Links for "Unfollow Everything"](https://www.reddit.com/r/programming/comments/q3smfr/unfollow_everything_developer_banned_for_life/)
 - [Bitmovin (YC S15) Is Hiring to build the future of video infrastructure](https://bitmovin.com/careers/)
 - [Spread the word about your next cool project](https://github.com/trekhleb/promote-your-next-startup)
-- [Your Money and Your Life (Edward Snowden)](https://edwardsnowden.substack.com/p/cbdcs)
-- [Pandora Papers: is the world’s biggest leak the world’s biggest cover-up?](https://www.michaelwest.com.au/pandora-papers-is-the-worlds-biggest-leak-the-worlds-biggest-cover-up/)
-- [The Off-Grid Laws of Every State in America](https://www.primalsurvivor.net/living-off-grid-legal/)
+- [Black Children Were Jailed for a Crime That Doesn’t Exist](https://www.propublica.org/article/black-children-were-jailed-for-a-crime-that-doesnt-exist)
+- [Telephone Central Office Building Pictures](http://www.co-buildings.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
