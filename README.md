@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous (YC S21) Is Hiring First Engineer (London and Remote)](https://news.ycombinator.com/item?id=28811444)
+- [Tech Jobs Are Everywhere Now](https://www.nytimes.com/2021/10/08/opinion/tech-jobs-tesla.html)
 - [Lifehacks Stacks Exchange](https://lifehacks.stackexchange.com/)
+- [Real-world data show that filters clean Covid-causing virus from air](https://www.nature.com/articles/d41586-021-02669-2)
 - [Reddit uses “reddit.com” itself as the endpoint for logging usage data](https://twitter.com/wongmjane/status/1446556836497264641)
-- [“If You Are Not Drowning in Demand, You Don’t Have Product-Market Fit” (2017)](https://capitalandgrowth.org/michael-seibel/)
-- [AT&T’s Abandoned Microwave Tower Network (2017)](https://99percentinvisible.org/article/vintage-skynet-atts-abandoned-long-lines-microwave-tower-network/)
-- [Key witness in Assange case jailed after admitting to lies and crime spree](https://stundin.is/grein/14117/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
