@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Economists helped Big Oil obstruct climate action for decades](https://grist.org/accountability/economists-role-in-big-oil-pr-machine/)
+- [Apple rejects developer's horoscope app, says App Store has enough](https://www.imore.com/apple-rejects-developers-horoscope-app-says-app-store-has-enough)
 - [The Off-Grid Laws of Every State in America](https://www.primalsurvivor.net/living-off-grid-legal/)
 - [Private Networks and Industrial IoT](https://www.privatelteand5g.com/private-networks-and-industrial-iot-remote-monitoring-and-control-of-industry-4-0-for-dynamic-decision-making/)
 - [Ć Programming Language](https://github.com/pfusik/cito)
-- [Ireland joins OECD International Tax agreement](https://www.gov.ie/en/press-release/59812-ireland-joins-oecd-international-tax-agreement/)
-- [The American Aristotle](https://aeon.co/essays/charles-sanders-peirce-was-americas-greatest-thinker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
