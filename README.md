@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dead Internet Theory: Most of the Internet Is Fake](https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011/)
+- [The Acme User Interface for Programmers](http://acme.cat-v.org/)
+- [The Mind Has No Firewall](https://press.armywarcollege.edu/cgi/viewcontent.cgi?article=1871&context=parameters)
+- [Why Did Satoshi Decide to Use Secp256k1 Instead of Secp256r1?](https://dappworks.com/why-did-satoshi-decide-to-use-secp256k1-instead-of-secp256r1/)
 - [EasyPost (YC S13) Is Hiring Remote (Or SLC and Austin)](https://www.easypost.com/careers)
-- [Facebook's own data is not as conclusive about teens and mental health](https://www.npr.org/2021/10/06/1043138622/facebook-instagram-teens-mental-health)
-- [Soupault (soup-oh) is a tool that helps you create and manage static websites](https://soupault.app/)
-- [SpaceX becomes the second-ever unicorn company to reach a $100B valuation](https://www.teslaoracle.com/2021/10/09/spacex-100-billion-elon-musk-30b-lead-jeff-bezos/)
-- [A probe intended to study the Trojan asteroids takes off shortly](https://www.economist.com/science-and-technology/2021/10/09/a-probe-intended-to-study-the-trojan-asteroids-takes-off-shortly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
