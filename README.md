@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lifehacks Stacks Exchange](https://lifehacks.stackexchange.com/)
+- [Reddit uses “reddit.com” itself as the endpoint for logging usage data](https://twitter.com/wongmjane/status/1446556836497264641)
 - [“If You Are Not Drowning in Demand, You Don’t Have Product-Market Fit” (2017)](https://capitalandgrowth.org/michael-seibel/)
 - [AT&T’s Abandoned Microwave Tower Network (2017)](https://99percentinvisible.org/article/vintage-skynet-atts-abandoned-long-lines-microwave-tower-network/)
-- [China proposes prohibiting private investment in news service sector](https://www.bloombergquint.com/global-economics/china-s-negative-list-adds-entry-limits-to-news-service-sector)
-- [EU court rules no EULA can forbid decompilation, if you want to fix a bug](https://curia.europa.eu/juris/document/document.jsf?text=&docid=247056&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1&cid=6413406)
-- [Libre Endowment Fund: Sustainable Development of Free Software](https://www.fdl-lef.org/)
+- [Key witness in Assange case jailed after admitting to lies and crime spree](https://stundin.is/grein/14117/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
