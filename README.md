@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dead Internet Theory: Most of the Internet Is Fake](https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011/)
+- [North Korean (DPRK) Textbooks](https://archive.org/details/DPRKTexts)
 - [The Acme User Interface for Programmers](http://acme.cat-v.org/)
-- [The Mind Has No Firewall](https://press.armywarcollege.edu/cgi/viewcontent.cgi?article=1871&context=parameters)
+- [The Mind Has No Firewall [PDF]](https://press.armywarcollege.edu/cgi/viewcontent.cgi?article=1871&context=parameters)
 - [Why Did Satoshi Decide to Use Secp256k1 Instead of Secp256r1?](https://dappworks.com/why-did-satoshi-decide-to-use-secp256k1-instead-of-secp256r1/)
 - [EasyPost (YC S13) Is Hiring Remote (Or SLC and Austin)](https://www.easypost.com/careers)
 <!-- BLOG-POST-LIST:END -->
