@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Usenix ATC '21/OSDI '21: It's Time for Operating Systems to Rediscover Hardware](https://www.youtube.com/watch?v=36myc8wQhLo)
-- [Google Dropping Material Design for iOS Apps](https://sixcolors.com/link/2021/10/googles-apps-to-embrace-ios-on-ios/)
-- [Mirror Links for "Unfollow Everything"](https://www.reddit.com/r/programming/comments/q3smfr/unfollow_everything_developer_banned_for_life/)
-- [How to Evaluate Startup Offers](https://faingezicht.com/articles/2021/09/20/evaluating-startup-offers/)
-- [Bitmovin (YC S15) Is Hiring to build the future of video infrastructure](https://bitmovin.com/careers/)
+- [Philippine 2021 Nobel winner Ressa calls Facebook “biased against facts”](https://www.reuters.com/world/philippine-nobel-winner-ressa-calls-facebook-biased-against-facts-2021-10-09/)
+- [OurBoard – free and open source online whiteboard](https://www.ourboard.io/)
+- [Phillip Cross: The Mystery Wikipedia Editor Targeting Anti-War Sites](https://www.mintpressnews.com/phillip-cross-the-mystery-wikipedia-editor-targeting-anti-war-sites/250824/)
+- [Ask HN: What is your story of immigrating to another country?](https://news.ycombinator.com/item?id=28808468)
+- [Gmail password first character is case insensitive on mobile device](https://support.google.com/mail/thread/55577729/gmail-password-first-character-is-case-insensitive-on-mobile-device?hl=en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
