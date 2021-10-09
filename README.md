@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Philippine 2021 Nobel winner Ressa calls Facebook “biased against facts”](https://www.reuters.com/world/philippine-nobel-winner-ressa-calls-facebook-biased-against-facts-2021-10-09/)
-- [OurBoard – free and open source online whiteboard](https://www.ourboard.io/)
-- [Phillip Cross: The Mystery Wikipedia Editor Targeting Anti-War Sites](https://www.mintpressnews.com/phillip-cross-the-mystery-wikipedia-editor-targeting-anti-war-sites/250824/)
-- [Ask HN: What is your story of immigrating to another country?](https://news.ycombinator.com/item?id=28808468)
-- [Gmail password first character is case insensitive on mobile device](https://support.google.com/mail/thread/55577729/gmail-password-first-character-is-case-insensitive-on-mobile-device?hl=en)
+- [GiveCampus (YC S15) Is Hiring Software Engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Nuclear waste is a solved problem](https://marginalrevolution.com/marginalrevolution/2021/10/from-the-comments-on-nuclear-waste-storage.html)
+- [The Xterm Window Manager Homepage](https://xtermwm.sourceforge.io/)
+- [A new biography explains the genius of John von Neumann](https://www.economist.com/books-and-arts/a-new-biography-explains-the-genius-of-john-von-neumann/21805346)
+- [Show HN: OurBoard – free and open source online whiteboard](https://www.ourboard.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
