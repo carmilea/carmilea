@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [30 days ago I was an Apple employee](https://twitter.com/ashleygjovik/status/1446882093305319424)
+- [America’s unemployed are sending a message: Safety and compensation matter](https://www.washingtonpost.com/business/2021/10/08/september-jobs-report-takeaway/)
+- [Microsoft Introduces EdgelessDB: A Database Designed for Confidential Computing](https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-edgelessdb-a-database-designed-for-confidential/ba-p/2813631)
 - [Self-parking Car in 500 Lines of Code](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
 - [Meticulous (YC S21) Is Hiring First Engineer (London and Remote)](https://news.ycombinator.com/item?id=28811444)
-- [Tech Jobs Are Everywhere Now](https://www.nytimes.com/2021/10/08/opinion/tech-jobs-tesla.html)
 - [Lifehacks Stacks Exchange](https://lifehacks.stackexchange.com/)
 <!-- BLOG-POST-LIST:END -->
 
