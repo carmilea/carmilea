@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin (YC S15) Is Hiring to build the future of video infrastructure](https://bitmovin.com/careers/)
+- [Spread the word about your next cool project](https://github.com/trekhleb/promote-your-next-startup)
 - [Your Money and Your Life (Edward Snowden)](https://edwardsnowden.substack.com/p/cbdcs)
 - [Pandora Papers: is the world’s biggest leak the world’s biggest cover-up?](https://www.michaelwest.com.au/pandora-papers-is-the-worlds-biggest-leak-the-worlds-biggest-cover-up/)
-- [Apple rejects developer's horoscope app, says App Store has enough](https://www.imore.com/apple-rejects-developers-horoscope-app-says-app-store-has-enough)
 - [The Off-Grid Laws of Every State in America](https://www.primalsurvivor.net/living-off-grid-legal/)
-- [Private Networks and Industrial IoT](https://www.privatelteand5g.com/private-networks-and-industrial-iot-remote-monitoring-and-control-of-industry-4-0-for-dynamic-decision-making/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
