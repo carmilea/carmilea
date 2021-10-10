@@ -55,7 +55,7 @@
 - [Supabase (YC S20) Is Hiring SREs to Manage a Fleet of Postgres Databases](https://about.supabase.com/careers/sre)
 - [The latest campus cancellation is different](https://www.theatlantic.com/ideas/archive/2021/10/why-latest-campus-cancellation-different/620352/)
 - [SerenityOS: Year 3 in Review](https://serenityos.org/happy/3rd/)
-- [Kairos](https://en.wikipedia.org/wiki/Kairos)
+- [For software performance, can you always trust inlining?](https://lemire.me/blog/2021/10/09/for-software-performance-can-you-always-trust-inlining/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
