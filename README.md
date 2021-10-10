@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Happiness in early adulthood may protect against dementia](https://www.ucsf.edu/news/2021/09/421506/happiness-early-adulthood-may-protect-against-dementia)
-- [Waterfox](https://www.waterfox.net/)
-- [Lisp in a Weekend](https://github.com/fragglet/yoctolisp/blob/master/yoctolisp.md)
-- [Canada's 'gamble' on delaying, mixing and matching Covid-19 vaccines paid off](https://www.cbc.ca/news/health/canada-vaccine-effectiveness-data-delayed-doses-mixing-matching-covid-19-vaccines-1.6205993)
-- [Incenser, or how NSA and GCHQ are tapping internet cables (2014)](https://www.electrospaces.net/2014/11/incenser-or-how-nsa-and-gchq-are.html)
+- [GraphSCAD – A User Friendly Nodal Editor for OpenSCAD](http://graphscad.blogspot.com/)
+- [Show HN: OpenDeck – platform for building MIDI controllers](https://github.com/shanteacontrols/OpenDeck)
+- [Facebook Harms Its Users Because That’s Where Its Profits Are](https://jacobinmag.com/2021/10/facebook-whistleblower-haugen-profits-addiction-public-utility-regulation-censorship-moderation-zuckerberg)
+- [The Shocking Immaturity of JavaScript](https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70)
+- [Microsoft's Experimental OS – Singularity](https://codingkaiser.blog/2021/07/23/operating-systems-are-more-exciting-than-you-think/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
