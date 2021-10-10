@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Which Version of JDK Should I Use?](http://whichjdk.com/)
+- [Photos from NASA's Perseverance rover indicate ancient flash floods on Mars](https://www.science.org/doi/10.1126/science.abl4051)
+- [A web app that can play musical scales according to mathematical equations](https://alexcrist.github.io/scaler/)
+- [Localstack – Local AWS Emulator](https://github.com/localstack/localstack)
 - [Porter (YC W22) Is Hiring](https://www.ycombinator.com/companies/porter/jobs/V5kia33-ux-product-engineer)
-- [3D Printing Sex Toys: A Quick, Easy and Safe Method](https://www.billieruben.info/post/3d-printing-sex-toys-a-quick-easy-and-safe-method)
-- [Crunchy Bridge: In-place Upgrades, Postgres 14, more](https://blog.crunchydata.com/blog/crunchy-bridge-in-place-upgrades-postgres-14)
-- [How the biggest consumer apps got their first 1k users](https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got)
-- [Scaling Large Production Clusters at Alibaba with Partitioned Synchronization](https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
