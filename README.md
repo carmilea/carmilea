@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Programming PIC32 Microcontroller with Rust](https://gill.net.in/posts/pic32-blink-led-rust/)
+- [Foreign money floods U.S. tax havens. Some of it is tainted](https://www.washingtonpost.com/business/interactive/2021/booming-us-tax-haven-industry/)
+- [Using load shedding to avoid overload](https://aws.amazon.com/builders-library/using-load-shedding-to-avoid-overload/)
 - [How South Dakota has become a global tax haven](https://www.cnbc.com/2021/10/05/heres-how-states-like-south-dakota-have-become-global-tax-havens.html)
-- [Taming the BPF Superpowers](https://lwn.net/Articles/870269/)
-- [Supabase (YC S20) Is Hiring SREs to Manage a Fleet of Postgres Databases](https://about.supabase.com/careers/sre)
-- [The latest campus cancellation is different](https://www.theatlantic.com/ideas/archive/2021/10/why-latest-campus-cancellation-different/620352/)
-- [SerenityOS: Year 3 in Review](https://serenityos.org/happy/3rd/)
+- [DOJ launches a plan to go after contractors that hide data breaches](https://www.protocol.com/bulletins/doj-cyber-fraud-initiative)
 <!-- BLOG-POST-LIST:END -->
 
 ---
