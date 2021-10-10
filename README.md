@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Norm Macdonald's story about the first time he met Bob Dylan](https://twitter.com/smalwigwamlight/status/1446881138895568899)
 - [Suicides among Swedish men decreased after Viagra became more affordable](https://sapienjournal.org/suicides-among-swedish-men-decreased-after-viagra-became-more-affordable/)
 - [The Trouble with Checked Exceptions (2003)](https://www.artima.com/articles/the-trouble-with-checked-exceptions)
 - [Linux from Scratch with Training Wheels](https://philsyme.github.io/lfs-tw/)
 - [Which Version of JDK Should I Use?](http://whichjdk.com/)
-- [Photos from NASA's Perseverance rover indicate ancient flash floods on Mars](https://www.science.org/doi/10.1126/science.abl4051)
 <!-- BLOG-POST-LIST:END -->
 
 ---
