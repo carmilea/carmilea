@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Attacked from Within](https://atdt.freeshell.org/k5/story_2009_3_12_33338_3000.html)
-- [GraphSCAD – A User Friendly Nodal Editor for OpenSCAD](http://graphscad.blogspot.com/)
-- [Show HN: OpenDeck – platform for building MIDI controllers](https://github.com/shanteacontrols/OpenDeck)
-- [Facebook Harms Its Users Because That’s Where Its Profits Are](https://jacobinmag.com/2021/10/facebook-whistleblower-haugen-profits-addiction-public-utility-regulation-censorship-moderation-zuckerberg)
-- [M(57885161) verified as 48th Mersenne Prime](https://www.mersenne.org/)
+- [Taming the BPF Superpowers](https://lwn.net/Articles/870269/)
+- [Supabase (YC S20) Is Hiring SREs to Manage a Fleet of Postgres Databases](https://about.supabase.com/careers/sre)
+- [The latest campus cancellation is different](https://www.theatlantic.com/ideas/archive/2021/10/why-latest-campus-cancellation-different/620352/)
+- [SerenityOS: Year 3 in Review](https://serenityos.org/happy/3rd/)
+- [Kairos](https://en.wikipedia.org/wiki/Kairos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
