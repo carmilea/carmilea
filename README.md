@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Porter (YC W22) Is Hiring](https://www.ycombinator.com/companies/porter/jobs/V5kia33-ux-product-engineer)
+- [3D Printing Sex Toys: A Quick, Easy and Safe Method](https://www.billieruben.info/post/3d-printing-sex-toys-a-quick-easy-and-safe-method)
+- [Crunchy Bridge: In-place Upgrades, Postgres 14, more](https://blog.crunchydata.com/blog/crunchy-bridge-in-place-upgrades-postgres-14)
+- [How the biggest consumer apps got their first 1k users](https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got)
 - [Scaling Large Production Clusters at Alibaba with Partitioned Synchronization](https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html)
-- [Bashcrawl: Learn Linux commands by playing a simple text adventure](https://gitlab.com/slackermedia/bashcrawl)
-- [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
-- [Keybase Browser Extension Insecure](https://www.grepular.com/Keybase_Browser_Extension_Insecure)
-- [Programming PIC32 Microcontroller with Rust](https://gill.net.in/posts/pic32-blink-led-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
