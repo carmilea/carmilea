@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Classified tank specs leaked on War Thunder game forums – again](https://ukdefencejournal.org.uk/classified-tank-specs-leaked-on-war-thunder-game-forums-again/)
 - [Skio is hiring founding engineers](https://skio.com/careers)
 - [Senegal Programming Language](https://github.com/SenegalLang/Senegal)
 - [Slowed canonical progress in large fields of science](https://www.pnas.org/content/118/41/e2021636118)
-- [Norm Macdonald's story about the first time he met Bob Dylan](https://twitter.com/smalwigwamlight/status/1446881138895568899)
-- [What we learn from twitch source code leak](https://everlastingbits.com/2021/10/10/twitch-banned-user-names/)
+- [Using Yubikey with Pam Module](https://yahes.space/posts/using-yubikey-with-pam-module/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
