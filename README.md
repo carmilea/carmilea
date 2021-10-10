@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tinyprinter.club](https://tinyprinter.club/)
+- [Facebook Recruiter Correspondence](https://george.mand.is/2021/10/facebook-recruiter-correspondence/)
+- [Lebanon's central electricity grid shuts down as fuel shortages continue](https://www.npr.org/2021/10/09/1044766802/lebanon-power-grid-shutdown-fuel-shortage)
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28814844)
 - [V-USB – A Firmware-Only USB Driver for Atmel AVR Microcontrollers](https://www.obdev.at/products/vusb/index.html)
-- [Blue light from monitors no danger to eyes or sleep](https://www.aerzteblatt.de/nachrichten/127272/Blaues-Licht-von-Monitoren-laut-Fachgesellschaft-keine-Gefahr-fuer-Augen-oder-Schlaf)
-- [HN 15 Years ago](https://news.ycombinator.com/front?day=2006-10-09)
-- [Graph of Keybase commits pre and post Zoom acquisition](https://github.com/keybase/client/graphs/contributors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
