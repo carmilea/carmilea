@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Waterfox](https://www.waterfox.net/)
 - [Canada's 'gamble' on delaying, mixing and matching Covid-19 vaccines paid off](https://www.cbc.ca/news/health/canada-vaccine-effectiveness-data-delayed-doses-mixing-matching-covid-19-vaccines-1.6205993)
 - [Incenser, or how NSA and GCHQ are tapping internet cables (2014)](https://www.electrospaces.net/2014/11/incenser-or-how-nsa-and-gchq-are.html)
 - [Tinyprinter.club](https://tinyprinter.club/)
 - [Facebook Recruiter Correspondence](https://george.mand.is/2021/10/facebook-recruiter-correspondence/)
-- [Lebanon's central electricity grid shuts down as fuel shortages continue](https://www.npr.org/2021/10/09/1044766802/lebanon-power-grid-shutdown-fuel-shortage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
