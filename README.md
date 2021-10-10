@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio is hiring founding engineers](https://skio.com/careers)
+- [Senegal Programming Language](https://github.com/SenegalLang/Senegal)
+- [Slowed canonical progress in large fields of science](https://www.pnas.org/content/118/41/e2021636118)
 - [Norm Macdonald's story about the first time he met Bob Dylan](https://twitter.com/smalwigwamlight/status/1446881138895568899)
-- [Suicides among Swedish men decreased after Viagra became more affordable](https://sapienjournal.org/suicides-among-swedish-men-decreased-after-viagra-became-more-affordable/)
-- [The Trouble with Checked Exceptions (2003)](https://www.artima.com/articles/the-trouble-with-checked-exceptions)
-- [Linux from Scratch with Training Wheels](https://philsyme.github.io/lfs-tw/)
-- [Which Version of JDK Should I Use?](http://whichjdk.com/)
+- [What we learn from twitch source code leak](https://everlastingbits.com/2021/10/10/twitch-banned-user-names/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
