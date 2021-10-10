@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Incenser, or how NSA and GCHQ are tapping internet cables (2014)](https://www.electrospaces.net/2014/11/incenser-or-how-nsa-and-gchq-are.html)
 - [Tinyprinter.club](https://tinyprinter.club/)
 - [Facebook Recruiter Correspondence](https://george.mand.is/2021/10/facebook-recruiter-correspondence/)
 - [Lebanon's central electricity grid shuts down as fuel shortages continue](https://www.npr.org/2021/10/09/1044766802/lebanon-power-grid-shutdown-fuel-shortage)
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28814844)
-- [V-USB – A Firmware-Only USB Driver for Atmel AVR Microcontrollers](https://www.obdev.at/products/vusb/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
