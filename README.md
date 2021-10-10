@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaling Large Production Clusters at Alibaba with Partitioned Synchronization](https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html)
+- [Bashcrawl: Learn Linux commands by playing a simple text adventure](https://gitlab.com/slackermedia/bashcrawl)
+- [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
+- [Keybase Browser Extension Insecure](https://www.grepular.com/Keybase_Browser_Extension_Insecure)
 - [Programming PIC32 Microcontroller with Rust](https://gill.net.in/posts/pic32-blink-led-rust/)
-- [Foreign money floods U.S. tax havens. Some of it is tainted](https://www.washingtonpost.com/business/interactive/2021/booming-us-tax-haven-industry/)
-- [Using load shedding to avoid overload](https://aws.amazon.com/builders-library/using-load-shedding-to-avoid-overload/)
-- [How South Dakota has become a global tax haven](https://www.cnbc.com/2021/10/05/heres-how-states-like-south-dakota-have-become-global-tax-havens.html)
-- [DOJ launches a plan to go after contractors that hide data breaches](https://www.protocol.com/bulletins/doj-cyber-fraud-initiative)
 <!-- BLOG-POST-LIST:END -->
 
 ---
