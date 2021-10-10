@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [North Korean (DPRK) Textbooks](https://archive.org/details/DPRKTexts)
-- [The Acme User Interface for Programmers](http://acme.cat-v.org/)
-- [The Mind Has No Firewall [PDF]](https://press.armywarcollege.edu/cgi/viewcontent.cgi?article=1871&context=parameters)
-- [Why Did Satoshi Decide to Use Secp256k1 Instead of Secp256r1?](https://dappworks.com/why-did-satoshi-decide-to-use-secp256k1-instead-of-secp256r1/)
-- [EasyPost (YC S13) Is Hiring Remote (Or SLC and Austin)](https://www.easypost.com/careers)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28814844)
+- [V-USB – A Firmware-Only USB Driver for Atmel AVR Microcontrollers](https://www.obdev.at/products/vusb/index.html)
+- [Blue light from monitors no danger to eyes or sleep](https://www.aerzteblatt.de/nachrichten/127272/Blaues-Licht-von-Monitoren-laut-Fachgesellschaft-keine-Gefahr-fuer-Augen-oder-Schlaf)
+- [HN 15 Years ago](https://news.ycombinator.com/front?day=2006-10-09)
+- [Graph of Keybase commits pre and post Zoom acquisition](https://github.com/keybase/client/graphs/contributors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
