@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Attacked from Within](https://atdt.freeshell.org/k5/story_2009_3_12_33338_3000.html)
 - [GraphSCAD – A User Friendly Nodal Editor for OpenSCAD](http://graphscad.blogspot.com/)
 - [Show HN: OpenDeck – platform for building MIDI controllers](https://github.com/shanteacontrols/OpenDeck)
 - [Facebook Harms Its Users Because That’s Where Its Profits Are](https://jacobinmag.com/2021/10/facebook-whistleblower-haugen-profits-addiction-public-utility-regulation-censorship-moderation-zuckerberg)
-- [The Shocking Immaturity of JavaScript](https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70)
-- [Microsoft's Experimental OS – Singularity](https://codingkaiser.blog/2021/07/23/operating-systems-are-more-exciting-than-you-think/)
+- [M(57885161) verified as 48th Mersenne Prime](https://www.mersenne.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
