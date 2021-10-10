@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Suicides among Swedish men decreased after Viagra became more affordable](https://sapienjournal.org/suicides-among-swedish-men-decreased-after-viagra-became-more-affordable/)
+- [The Trouble with Checked Exceptions (2003)](https://www.artima.com/articles/the-trouble-with-checked-exceptions)
+- [Linux from Scratch with Training Wheels](https://philsyme.github.io/lfs-tw/)
 - [Which Version of JDK Should I Use?](http://whichjdk.com/)
 - [Photos from NASA's Perseverance rover indicate ancient flash floods on Mars](https://www.science.org/doi/10.1126/science.abl4051)
-- [A web app that can play musical scales according to mathematical equations](https://alexcrist.github.io/scaler/)
-- [Localstack – Local AWS Emulator](https://github.com/localstack/localstack)
-- [Porter (YC W22) Is Hiring](https://www.ycombinator.com/companies/porter/jobs/V5kia33-ux-product-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
