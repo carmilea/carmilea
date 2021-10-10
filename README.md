@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Waterfox](https://www.waterfox.net/)
+- [Lisp in a Weekend](https://github.com/fragglet/yoctolisp/blob/master/yoctolisp.md)
 - [Canada's 'gamble' on delaying, mixing and matching Covid-19 vaccines paid off](https://www.cbc.ca/news/health/canada-vaccine-effectiveness-data-delayed-doses-mixing-matching-covid-19-vaccines-1.6205993)
 - [Incenser, or how NSA and GCHQ are tapping internet cables (2014)](https://www.electrospaces.net/2014/11/incenser-or-how-nsa-and-gchq-are.html)
 - [Tinyprinter.club](https://tinyprinter.club/)
-- [Facebook Recruiter Correspondence](https://george.mand.is/2021/10/facebook-recruiter-correspondence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
