@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How South Dakota has become a global tax haven](https://www.cnbc.com/2021/10/05/heres-how-states-like-south-dakota-have-become-global-tax-havens.html)
 - [Taming the BPF Superpowers](https://lwn.net/Articles/870269/)
 - [Supabase (YC S20) Is Hiring SREs to Manage a Fleet of Postgres Databases](https://about.supabase.com/careers/sre)
 - [The latest campus cancellation is different](https://www.theatlantic.com/ideas/archive/2021/10/why-latest-campus-cancellation-different/620352/)
 - [SerenityOS: Year 3 in Review](https://serenityos.org/happy/3rd/)
-- [For software performance, can you always trust inlining?](https://lemire.me/blog/2021/10/09/for-software-performance-can-you-always-trust-inlining/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
