@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2,050-year-old Roman tomb offers insights on ancient concrete resilience](https://news.mit.edu/2021/roman-tomb-offers-insights-ancient-concrete-resilience-1008)
+- [A Multi-Billion Dollar Real Estate Project Is Rising on Native Land in Vancouver](https://www.architecturaldigest.com/story/vancouver-real-estate-native-reserve-land)
+- [Nvidia releases Alias-Free GAN code and pre-trained models, naming it StyleGAN3](https://github.com/NVlabs/stylegan3)
 - [AtoB (YC S20) is building Stripe for Transportation. We are hiring](https://careers.atob.com/)
 - [FAA Fumbled Its Response to a Surge in GPS Jamming](https://spectrum.ieee.org/gps-jamming)
-- [Nestlé to Debut Plant-Based Eggs, Shrimp](https://www.foodprocessing.com/industrynews/2021/nestle-to-debut-plant-based-eggs-shrimp/)
-- [Is Going to the Office a Broken Way of Working?](https://www.newyorker.com/culture/office-space/is-going-to-the-office-a-broken-way-of-working)
-- [Farm equipment security at DEF CON 29](https://www.kaspersky.com/blog/hacking-agriculture-defcon29/42402/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
