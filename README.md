@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nestlé to Debut Plant-Based Eggs, Shrimp](https://www.foodprocessing.com/industrynews/2021/nestle-to-debut-plant-based-eggs-shrimp/)
+- [Is Going to the Office a Broken Way of Working?](https://www.newyorker.com/culture/office-space/is-going-to-the-office-a-broken-way-of-working)
+- [Farm equipment security at DEF CON 29](https://www.kaspersky.com/blog/hacking-agriculture-defcon29/42402/)
+- [Full WireGuard Support in ProtonVPN for Android](https://github.com/ProtonVPN/android-app/releases/tag/2.9.0.28)
 - [Hacking YouTube with a MP4](https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html)
-- [Amazon will allow many employees to work remotely indefinitely](https://www.seattletimes.com/business/amazon/amazon-will-allow-many-employees-to-work-remotely-indefinitely/)
-- [Sony to join TSMC on new $7B chip plant in Japan](https://asia.nikkei.com/Business/Tech/Semiconductors/Sony-to-join-TSMC-on-new-7bn-chip-plant-in-Japan)
-- [Led by France, 10 EU countries call on Brussels to label nuclear energy as green](https://www.euronews.com/2021/10/11/led-by-france-10-eu-countries-call-on-brussels-to-label-nuclear-energy-as-green-source)
-- [Companies that use Lisp extensively](https://github.com/azzamsa/awesome-lisp-companies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
