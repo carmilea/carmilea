@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily (YC W16) Is Hiring iOS and Android Engineers](https://www.notion.so/dailyco/Mobile-Frameworks-Engineer-f24179000f2d47cda1eba1ef4b4a46a8)
-- [FugueSQL: SQL-ish for pandas, dask, spark](https://fugue-tutorials.readthedocs.io/en/latest/tutorials/fugue_sql/index.html)
-- [California first state to require ethnic studies for high school graduation](https://www.latimes.com/california/story/2021-10-08/california-first-state-require-ethnic-studies-high-school-graduation)
-- [2021 Nobel Prize for Economics](https://www.nobelprize.org/prizes/economic-sciences/2021/popular-information/)
-- [And you will know us by the company we keep](https://www.eugenewei.com/blog/2021/9/29/and-you-will-know-us-by-the-company-we-keep)
+- [Sony to join TSMC on new $7bn chip plant in Japan](https://asia.nikkei.com/Business/Tech/Semiconductors/Sony-to-join-TSMC-on-new-7bn-chip-plant-in-Japan)
+- [Companies that use Lisp extensively](https://github.com/azzamsa/awesome-lisp-companies)
+- [Show HN: Caribou – a GitHub app to help you manage technical debt](https://www.hellocaribou.com)
+- [The CodeRibbon code editor plugin](https://utk-se.github.io/CodeRibbon/)
+- [Apple 'Surprised' by Developer Frustration with Its App Review Process](https://www.macrumors.com/2021/03/22/apple-surprised-developer-concerns-app-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
