@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sneaker Does Not Exist](https://thissneakerdoesnotexist.com/)
+- [Benchmarking the oksh shell, or, let's look at a lot of C compilers](https://briancallahan.net/blog/20211010.html)
 - [Coal Prices Rising Exponentially](https://tradingeconomics.com/commodity/coal)
 - [Worst Case](https://www.tbray.org/ongoing/When/202x/2021/10/08/The-WOrst-Case)
 - [Credit-card firms are becoming reluctant regulators of the web](https://www.economist.com/finance-and-economics/2021/10/10/credit-card-firms-are-becoming-reluctant-regulators-of-the-web)
-- [A supertanker has a million barrels of oil aboard. What if it explodes?](https://www.newyorker.com/magazine/2021/10/11/the-ship-that-became-a-bomb)
-- [TLS Certificate Transparency logs let us assess Certificate Authorities](https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCTLetsUsMeasureCAUsage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
