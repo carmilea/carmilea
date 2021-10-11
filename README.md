@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Large percentage fear having children because of climate crisis](https://thehill.com/changing-america/sustainability/climate-change/572140-poll-finds-huge-percentage-fear-having)
 - [RIP Jörg Schilling](https://minnie.tuhs.org/pipermail/tuhs/2021-October/024523.html)
-- [Please Don't Give Up on Having Kids Because of Climate Change](https://astralcodexten.substack.com/p/please-dont-give-up-on-having-kids)
 - [Pachyderm Is Hiring for Go and DevOps to Build the Data Foundation for ML](https://www.pachyderm.com/careers/#positions)
 - [The City of London Is Hiding the World’s Stolen Money](https://www.nytimes.com/2021/10/11/opinion/pandora-papers-britain-london.html)
 - [Malwarebytes' privacy VPN is Mullvad in a shady trenchcoat](https://dustri.org/b/malwarebytes-privacy-vpn-is-mullvad-in-a-shady-trenchcoat.html)
