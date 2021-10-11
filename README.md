@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The US Is a Banana Republic: The 1% Own More Wealth Than the Entire Middle Class](https://www.zerohedge.com/markets/us-officially-banana-republic-top-1-now-own-more-wealth-entire-middle-class)
 - [A cryptography game-changer for biomedical research at scale](https://www.nature.com/articles/s41467-021-25972-y)
 - [So You Want to Rust the Linux Kernel?](https://paulmck.livejournal.com/62436.html)
 - [I keep making things out of checkboxes](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
 - [Sneaker Does Not Exist](https://thissneakerdoesnotexist.com/)
-- [Benchmarking the oksh shell, or, let's look at a lot of C compilers](https://briancallahan.net/blog/20211010.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
