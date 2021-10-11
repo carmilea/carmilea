@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Exhausted and underpaid’: teachers across the US are leaving their jobs](https://www.theguardian.com/world/2021/oct/04/teachers-quitting-jobs-covid-record-numbers)
+- [Southwest operational meltdown as hundreds of flights canceled or delayed](https://thepointsguy.com/news/southwest-meldown/)
+- [V7 Unix had no stack size limit, and when Unix acquired one](https://utcc.utoronto.ca/~cks/space/blog/unix/StackSizeLimitWhen)
 - [Maryland nuclear engineer and spouse arrested on espionage-related charges](https://www.justice.gov/opa/pr/maryland-nuclear-engineer-and-spouse-arrested-espionage-related-charges)
 - [Software for Math Research](https://amathr.org/software/)
 - [Pump up the charge: Getting -5V from a 5V power supply](https://nicole.express/2021/dont-be-so-negative.html)
-- [Classified tank specs leaked on War Thunder game forums again](https://ukdefencejournal.org.uk/classified-tank-specs-leaked-on-war-thunder-game-forums-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
