@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sony to join TSMC on new $7bn chip plant in Japan](https://asia.nikkei.com/Business/Tech/Semiconductors/Sony-to-join-TSMC-on-new-7bn-chip-plant-in-Japan)
+- [Hacking YouTube with a MP4](https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html)
+- [Amazon will allow many employees to work remotely indefinitely](https://www.seattletimes.com/business/amazon/amazon-will-allow-many-employees-to-work-remotely-indefinitely/)
+- [Sony to join TSMC on new $7B chip plant in Japan](https://asia.nikkei.com/Business/Tech/Semiconductors/Sony-to-join-TSMC-on-new-7bn-chip-plant-in-Japan)
+- [Led by France, 10 EU countries call on Brussels to label nuclear energy as green](https://www.euronews.com/2021/10/11/led-by-france-10-eu-countries-call-on-brussels-to-label-nuclear-energy-as-green-source)
 - [Companies that use Lisp extensively](https://github.com/azzamsa/awesome-lisp-companies)
-- [Show HN: Caribou – a GitHub app to help you manage technical debt](https://www.hellocaribou.com)
-- [The CodeRibbon code editor plugin](https://utk-se.github.io/CodeRibbon/)
-- [Apple 'Surprised' by Developer Frustration with Its App Review Process](https://www.macrumors.com/2021/03/22/apple-surprised-developer-concerns-app-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
