@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AtoB (YC S20) is building Stripe for Transportation. We are hiring](https://careers.atob.com/)
+- [FAA Fumbled Its Response to a Surge in GPS Jamming](https://spectrum.ieee.org/gps-jamming)
 - [Nestlé to Debut Plant-Based Eggs, Shrimp](https://www.foodprocessing.com/industrynews/2021/nestle-to-debut-plant-based-eggs-shrimp/)
 - [Is Going to the Office a Broken Way of Working?](https://www.newyorker.com/culture/office-space/is-going-to-the-office-a-broken-way-of-working)
 - [Farm equipment security at DEF CON 29](https://www.kaspersky.com/blog/hacking-agriculture-defcon29/42402/)
-- [Full WireGuard Support in ProtonVPN for Android](https://github.com/ProtonVPN/android-app/releases/tag/2.9.0.28)
-- [Hacking YouTube with a MP4](https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
