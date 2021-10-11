@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [World food prices hit 10-year peak -FAO](https://www.reuters.com/business/world-food-prices-hit-10-year-peak-fao-2021-10-07/)
+- [Worst Case](https://www.tbray.org/ongoing/When/202x/2021/10/08/The-WOrst-Case)
+- [A supertanker has a million barrels of oil aboard. What if it explodes?](https://www.newyorker.com/magazine/2021/10/11/the-ship-that-became-a-bomb)
+- [TLS Certificate Transparency logs let us assess Certificate Authorities](https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCTLetsUsMeasureCAUsage)
+- [World food prices hit 10-year peak – FAO](https://www.reuters.com/business/world-food-prices-hit-10-year-peak-fao-2021-10-07/)
 - [Nvidia Scientists Take Top Spots in 2021 Brain Tumor Segmentation Challenge](https://developer.nvidia.com/blog/nvidia-data-scientists-take-top-spots-in-miccai-2021-brain-tumor-segmentation-challenge/)
-- [Southwest operational meltdown as hundreds of flights canceled or delayed](https://thepointsguy.com/news/southwest-meldown/)
-- [V7 Unix had no stack size limit, and when Unix acquired one](https://utcc.utoronto.ca/~cks/space/blog/unix/StackSizeLimitWhen)
-- [We've been lied to: JavaScript is fast](https://jyelewis.com/blog/2021-09-28-javascript-is-fast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
