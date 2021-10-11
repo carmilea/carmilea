@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The US Is a Banana Republic: The 1% Own More Wealth Than the Entire Middle Class](https://www.zerohedge.com/markets/us-officially-banana-republic-top-1-now-own-more-wealth-entire-middle-class)
-- [A cryptography game-changer for biomedical research at scale](https://www.nature.com/articles/s41467-021-25972-y)
-- [So You Want to Rust the Linux Kernel?](https://paulmck.livejournal.com/62436.html)
-- [I keep making things out of checkboxes](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
-- [Sneaker Does Not Exist](https://thissneakerdoesnotexist.com/)
+- [RIP Jörg Schilling](https://minnie.tuhs.org/pipermail/tuhs/2021-October/024523.html)
+- [Please Don't Give Up on Having Kids Because of Climate Change](https://astralcodexten.substack.com/p/please-dont-give-up-on-having-kids)
+- [Pachyderm Is Hiring for Go and DevOps to Build the Data Foundation for ML](https://www.pachyderm.com/careers/#positions)
+- [The City of London Is Hiding the World’s Stolen Money](https://www.nytimes.com/2021/10/11/opinion/pandora-papers-britain-london.html)
+- [Malwarebytes' privacy VPN is Mullvad in a shady trenchcoat](https://dustri.org/b/malwarebytes-privacy-vpn-is-mullvad-in-a-shady-trenchcoat.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
