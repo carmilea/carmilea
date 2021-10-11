@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Large percentage fear having children because of climate crisis](https://thehill.com/changing-america/sustainability/climate-change/572140-poll-finds-huge-percentage-fear-having)
-- [RIP Jörg Schilling](https://minnie.tuhs.org/pipermail/tuhs/2021-October/024523.html)
-- [Pachyderm Is Hiring for Go and DevOps to Build the Data Foundation for ML](https://www.pachyderm.com/careers/#positions)
-- [The City of London Is Hiding the World’s Stolen Money](https://www.nytimes.com/2021/10/11/opinion/pandora-papers-britain-london.html)
-- [Malwarebytes' privacy VPN is Mullvad in a shady trenchcoat](https://dustri.org/b/malwarebytes-privacy-vpn-is-mullvad-in-a-shady-trenchcoat.html)
+- [Open Source Tractor](https://opensourceecology.dozuki.com/c/LifeTrac)
+- [New cancer treatment destroys tumours in terminally ill, finds trial](https://www.theguardian.com/society/2021/oct/11/new-cancer-treatment-destroys-tumours-in-terminally-ill-finds-trial)
+- [The State of Web Scraping in 2021](https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/)
+- [Jörg Schilling has died](https://minnie.tuhs.org/pipermail/tuhs/2021-October/024523.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
