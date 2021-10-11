@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Peter Norvig Leaves Google to Join Stanford HAI](https://hai.stanford.edu/news/peter-norvig-todays-most-pressing-questions-ai-are-human-centered)
+- [Instagram has largely replaced TikTok in India and erased working-class creators](https://restofworld.org/2021/instagram-and-class-in-india/)
+- [‘Give away your Legos’ and other commandments for scaling startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups)
 - [2,050-year-old Roman tomb offers insights on ancient concrete resilience](https://news.mit.edu/2021/roman-tomb-offers-insights-ancient-concrete-resilience-1008)
 - [A Multi-Billion Dollar Real Estate Project Is Rising on Native Land in Vancouver](https://www.architecturaldigest.com/story/vancouver-real-estate-native-reserve-land)
-- [Nvidia releases Alias-Free GAN code and pre-trained models, naming it StyleGAN3](https://github.com/NVlabs/stylegan3)
-- [AtoB (YC S20) is building Stripe for Transportation. We are hiring](https://careers.atob.com/)
-- [FAA Fumbled Its Response to a Surge in GPS Jamming](https://spectrum.ieee.org/gps-jamming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
