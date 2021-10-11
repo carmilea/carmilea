@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [World food prices hit 10-year peak -FAO](https://www.reuters.com/business/world-food-prices-hit-10-year-peak-fao-2021-10-07/)
 - [Nvidia Scientists Take Top Spots in 2021 Brain Tumor Segmentation Challenge](https://developer.nvidia.com/blog/nvidia-data-scientists-take-top-spots-in-miccai-2021-brain-tumor-segmentation-challenge/)
-- [This Real Estate Bubble Won't Pop](https://jaredabrock.substack.com/p/real-estate-bubble)
 - [Southwest operational meltdown as hundreds of flights canceled or delayed](https://thepointsguy.com/news/southwest-meldown/)
 - [V7 Unix had no stack size limit, and when Unix acquired one](https://utcc.utoronto.ca/~cks/space/blog/unix/StackSizeLimitWhen)
 - [We've been lied to: JavaScript is fast](https://jyelewis.com/blog/2021-09-28-javascript-is-fast/)
