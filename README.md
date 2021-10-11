@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [And You Will Know Us by the Company We Keep](https://www.eugenewei.com/blog/2021/9/29/and-you-will-know-us-by-the-company-we-keep)
-- [Windows Package Manager 1.1](https://devblogs.microsoft.com/commandline/windows-package-manager-1-1/)
-- [My First Industry Job: Lies, Deceptions, and Layoffs](https://jeremyaboyd.com/post/my-first-industry-job)
-- [Ask HN: Any Decent Firefox Alternatives?](https://news.ycombinator.com/item?id=28829488)
-- [Web SQL Database: In Memoriam (2014)](https://nolanlawson.com/2014/04/26/web-sql-database-in-memoriam/)
+- [Daily (YC W16) Is Hiring iOS and Android Engineers](https://www.notion.so/dailyco/Mobile-Frameworks-Engineer-f24179000f2d47cda1eba1ef4b4a46a8)
+- [FugueSQL: SQL-ish for pandas, dask, spark](https://fugue-tutorials.readthedocs.io/en/latest/tutorials/fugue_sql/index.html)
+- [California first state to require ethnic studies for high school graduation](https://www.latimes.com/california/story/2021-10-08/california-first-state-require-ethnic-studies-high-school-graduation)
+- [2021 Nobel Prize for Economics](https://www.nobelprize.org/prizes/economic-sciences/2021/popular-information/)
+- [And you will know us by the company we keep](https://www.eugenewei.com/blog/2021/9/29/and-you-will-know-us-by-the-company-we-keep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
