@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Large percentage fear having children because of climate crisis](https://thehill.com/changing-america/sustainability/climate-change/572140-poll-finds-huge-percentage-fear-having)
+- [Web SQL Database: In Memoriam (2014)](https://nolanlawson.com/2014/04/26/web-sql-database-in-memoriam/)
+- [European Parliament Voted to Ban Remote Biometric Surveillance](https://www.schneier.com/blog/archives/2021/10/the-european-parliament-voted-to-ban-remote-biometric-surveillance.html)
+- [England's Data Guardian warns of plans to grant police access to patient data](https://www.theregister.com/2021/10/11/data_guardian_police_bill/)
+- [The Shadow Penal System for Struggling Kids](https://www.newyorker.com/magazine/2021/10/18/the-shadow-penal-system-for-struggling-kids)
 - [Open Source Tractor](https://opensourceecology.dozuki.com/c/LifeTrac)
-- [New cancer treatment destroys tumours in terminally ill, finds trial](https://www.theguardian.com/society/2021/oct/11/new-cancer-treatment-destroys-tumours-in-terminally-ill-finds-trial)
-- [The State of Web Scraping in 2021](https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/)
-- [Jörg Schilling has died](https://minnie.tuhs.org/pipermail/tuhs/2021-October/024523.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
