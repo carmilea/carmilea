@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Worst Case](https://www.tbray.org/ongoing/When/202x/2021/10/08/The-WOrst-Case)
+- [Credit-card firms are becoming reluctant regulators of the web](https://www.economist.com/finance-and-economics/2021/10/10/credit-card-firms-are-becoming-reluctant-regulators-of-the-web)
 - [A supertanker has a million barrels of oil aboard. What if it explodes?](https://www.newyorker.com/magazine/2021/10/11/the-ship-that-became-a-bomb)
 - [TLS Certificate Transparency logs let us assess Certificate Authorities](https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCTLetsUsMeasureCAUsage)
 - [World food prices hit 10-year peak – FAO](https://www.reuters.com/business/world-food-prices-hit-10-year-peak-fao-2021-10-07/)
-- [Nvidia Scientists Take Top Spots in 2021 Brain Tumor Segmentation Challenge](https://developer.nvidia.com/blog/nvidia-data-scientists-take-top-spots-in-miccai-2021-brain-tumor-segmentation-challenge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
