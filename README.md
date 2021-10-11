@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [And You Will Know Us by the Company We Keep](https://www.eugenewei.com/blog/2021/9/29/and-you-will-know-us-by-the-company-we-keep)
+- [Windows Package Manager 1.1](https://devblogs.microsoft.com/commandline/windows-package-manager-1-1/)
+- [My First Industry Job: Lies, Deceptions, and Layoffs](https://jeremyaboyd.com/post/my-first-industry-job)
+- [Ask HN: Any Decent Firefox Alternatives?](https://news.ycombinator.com/item?id=28829488)
 - [Web SQL Database: In Memoriam (2014)](https://nolanlawson.com/2014/04/26/web-sql-database-in-memoriam/)
-- [European Parliament Voted to Ban Remote Biometric Surveillance](https://www.schneier.com/blog/archives/2021/10/the-european-parliament-voted-to-ban-remote-biometric-surveillance.html)
-- [England's Data Guardian warns of plans to grant police access to patient data](https://www.theregister.com/2021/10/11/data_guardian_police_bill/)
-- [The Shadow Penal System for Struggling Kids](https://www.newyorker.com/magazine/2021/10/18/the-shadow-penal-system-for-struggling-kids)
-- [Open Source Tractor](https://opensourceecology.dozuki.com/c/LifeTrac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
