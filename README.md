@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepnote (YC S19) is hiring engineers to build a better data science notebook](https://deepnote.com/join-us)
+- [Why birds can fly over Mount Everest](https://nautil.us/issue/86/energy/why-birds-can-fly-over-mount-everest)
+- [Remote Ham Radio](https://www.remotehamradio.com/)
 - [SHA-1 'Fully and Practically Broken' by New Collision (2020)](https://duo.com/decipher/sha-1-fully-and-practically-broken-by-new-collision)
 - [Highschool student hacks entire districts IoT network for Rickroll senior prank](https://whitehoodhacker.net/posts/2021-10-04-the-big-rick)
-- [Samsung’s 50-Mpixel GN2 Image Sensor Sports Pro Camera Features](https://www.eejournal.com/article/samsungs-50-mpixel-gn2-image-sensor-sports-pro-camera-features/)
-- [Adobe Uses DMCA to Nuke Project That Keeps Flash Alive, Secure and Adware Free](https://torrentfreak.com/adobe-uses-dmca-to-nuke-project-that-keeps-flash-alive-secure-adware-free-211012/)
-- [Group effort to study the mathematical sciences for “saving the planet.”](https://www.azimuthproject.org/azimuth/show/HomePage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
