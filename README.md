@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deepnote (YC S19) is hiring engineers to build a better data science notebook](https://deepnote.com/join-us)
-- [Why birds can fly over Mount Everest](https://nautil.us/issue/86/energy/why-birds-can-fly-over-mount-everest)
-- [Remote Ham Radio](https://www.remotehamradio.com/)
-- [SHA-1 'Fully and Practically Broken' by New Collision (2020)](https://duo.com/decipher/sha-1-fully-and-practically-broken-by-new-collision)
-- [Highschool student hacks entire districts IoT network for Rickroll senior prank](https://whitehoodhacker.net/posts/2021-10-04-the-big-rick)
+- [Monorepos and Forced Migrations](https://buttondown.email/j2kun/archive/monorepos-and-forced-migrations/)
+- [Meterorite chunk crashes into house, bedroom, pillow](https://www.cbc.ca/news/canada/british-columbia/meteorite-crashes-into-womans-bedroom-golden-bc-1.6207904)
+- [Mechanical sympathy for QR codes: making NSW check-in better](https://huonw.github.io/blog/2021/10/nsw-covid-qr/)
+- [Coinbase NFT: Create. Collect. Connect. Launching This Year](https://www.coinbase.com/nft/announce/1PN6H2)
+- [Show HN: A world map of 24x365 average temperature “fingerprints”](https://weatherspark.com/map)
 <!-- BLOG-POST-LIST:END -->
 
 ---
