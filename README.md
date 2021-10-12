@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bright (YC W15) Is Hiring an Impact Driven Product Management Lead](https://www.ycombinator.com/companies/bright/jobs/Cqjidjw-impact-driven-product-management-lead)
+- [Magpie Driven Development (MDD)](http://www.nichesoftware.co.nz/2021/07/10/magpie-driven-development.html)
+- [Ask HN: Ever lost your love for coding? How did you get it back?](https://news.ycombinator.com/item?id=28838530)
+- [Why Japan Looks the Way It Does: Zoning](https://www.youtube.com/watch?v=wfm2xCKOCNk)
 - [Ask HN: Solo-preneurs, how do you DevOps to save time?](https://news.ycombinator.com/item?id=28838132)
-- [Magic Leap 2 announced for 2022](https://www.magicleap.com/en-us/news/op-ed/my-first-year-at-magic-leap-and-the-opportunity-ahead)
-- [Effective Concurrency with Algebraic Effects in Multicore OCaml](https://kcsrk.info/ocaml/multicore/2015/05/20/effects-multicore/)
-- [Scribe – An alternative front-end to Medium](https://scribe.rip/)
-- [Cynthia Rudin wins the 2021 AAAI Squirrel AI Award](https://pratt.duke.edu/about/news/rudin-squirrel-award)
 <!-- BLOG-POST-LIST:END -->
 
 ---
