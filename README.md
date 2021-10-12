@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hi, I'm benny. How can I help?](https://almalinux.org/blog/hi-im-benny-how-can-i-help/)
 - [Motion (YC W20) Is Hiring Software Engineers](https://www.workatastartup.com/jobs/47069)
+- [There will soon be no more ads denying climate change on Google](https://arstechnica.com/tech-policy/2021/10/there-will-soon-be-no-more-ads-denying-climate-change-on-google/)
 - [Stripe Is Hiring a Crypto Team 3 Years After Ending Bitcoin Support](https://www.coindesk.com/business/2021/10/12/stripe-is-hiring-a-crypto-team-3-years-after-ending-its-bitcoin-support/)
 - [Finland lobbied EU to declare nuclear power sustainable](https://yle.fi/uutiset/osasto/news/finland_lobbied_eu_to_declare_nuclear_power_sustainable_after_unpublished_cabinet_decision_supported_by_greens/12135621)
-- [Nuclear Power in France](https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/france.aspx)
-- [Covid lesson: trust the public with hard truths](https://www.nature.com/articles/d41586-021-02758-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
