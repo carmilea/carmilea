@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobel Prize: We will not have gender or ethnicity quotas – top scientist](https://www.bbc.co.uk/news/world-europe-58875152)
+- [3 TypeScript Tricks I wish I knew when I learned TypeScript](https://www.cstrnt.dev/blog/three-typescript-tricks)
 - [React Internals (2017)](https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/)
 - [Use Raspberry Pi as Airplay server to screen mirror on TVs, monitors, projectors](https://github.com/rahul-thakoor/air-pi-play)
 - [Structured Identifiers](https://pernos.co/blog/structured-identifiers/)
-- [Apple Maps' Acceleration](https://www.justinobeirne.com/apple-maps-acceleration)
+- [Rancher Desktop, a Docker Desktop Replacement](https://rancherdesktop.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
