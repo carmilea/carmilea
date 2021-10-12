@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Monorepos and Forced Migrations](https://buttondown.email/j2kun/archive/monorepos-and-forced-migrations/)
-- [Meterorite chunk crashes into house, bedroom, pillow](https://www.cbc.ca/news/canada/british-columbia/meteorite-crashes-into-womans-bedroom-golden-bc-1.6207904)
-- [Mechanical sympathy for QR codes: making NSW check-in better](https://huonw.github.io/blog/2021/10/nsw-covid-qr/)
-- [Coinbase NFT: Create. Collect. Connect. Launching This Year](https://www.coinbase.com/nft/announce/1PN6H2)
-- [Show HN: A world map of 24x365 average temperature “fingerprints”](https://weatherspark.com/map)
+- [On Slow Writing](https://lithub.com/a-revolution-in-creativity-on-slow-writing/)
+- [Ten Years of Rows and Columns (1989)](https://aresluna.org/attached/computerhistory/articles/spreadsheets/tenyearsofrowsandcolumns)
+- [The Problem with Macros](https://ianthehenry.com/posts/janet-game/the-problem-with-macros/)
+- [An Organocatalysis Nobel](https://www.science.org/content/blog-post/organocatalysis-nobel)
+- [Reversal of cognitive decline: A novel therapeutic program](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4221920/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
