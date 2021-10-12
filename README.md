@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The planet survived six hours without Facebook. Let's make it longer next time](https://www.theregister.com/2021/10/11/facebook_opinion_column/)
+- [A New Link to an Old Model Could Crack the Mystery of Deep Learning](https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/)
 - [Bright (YC W15) Is Hiring an Impact Driven Product Management Lead](https://www.ycombinator.com/companies/bright/jobs/Cqjidjw-impact-driven-product-management-lead)
 - [Magpie Driven Development (MDD)](http://www.nichesoftware.co.nz/2021/07/10/magpie-driven-development.html)
 - [Ask HN: Ever lost your love for coding? How did you get it back?](https://news.ycombinator.com/item?id=28838530)
-- [Why Japan Looks the Way It Does: Zoning](https://www.youtube.com/watch?v=wfm2xCKOCNk)
-- [Ask HN: Solo-preneurs, how do you DevOps to save time?](https://news.ycombinator.com/item?id=28838132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
