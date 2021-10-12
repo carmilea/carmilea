@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Structured Identifiers](https://pernos.co/blog/structured-identifiers/)
 - [Rancher Desktop, a Docker Desktop Replacement](https://rancherdesktop.io/)
 - [The Home Depot Teams Up with Walmart to Expand Same-Day and Next-Day Delivery](https://corporate.homedepot.com/newsroom/expands-same-day-next-day-delivery-with-walmart)
 - [World’s deadliest bird was raised by people 18,000 years ago](https://www.nytimes.com/2021/09/28/science/most-dangerous-bird-cassowary.html)
 - [Peter Norvig Joins Stanford HAI](https://hai.stanford.edu/news/peter-norvig-todays-most-pressing-questions-ai-are-human-centered)
-- [‘Give away your Legos’ and other commandments for scaling startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups)
 <!-- BLOG-POST-LIST:END -->
 
 ---
