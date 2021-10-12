@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [3 TypeScript Tricks I wish I knew when I learned TypeScript](https://www.cstrnt.dev/blog/three-typescript-tricks)
-- [React Internals (2017)](https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/)
-- [Use Raspberry Pi as Airplay server to screen mirror on TVs, monitors, projectors](https://github.com/rahul-thakoor/air-pi-play)
-- [Structured Identifiers](https://pernos.co/blog/structured-identifiers/)
-- [Rancher Desktop, a Docker Desktop Replacement](https://rancherdesktop.io/)
+- [Ask HN: Solo-preneurs, how do you DevOps to save time?](https://news.ycombinator.com/item?id=28838132)
+- [Magic Leap 2 announced for 2022](https://www.magicleap.com/en-us/news/op-ed/my-first-year-at-magic-leap-and-the-opportunity-ahead)
+- [Effective Concurrency with Algebraic Effects in Multicore OCaml](https://kcsrk.info/ocaml/multicore/2015/05/20/effects-multicore/)
+- [Scribe – An alternative front-end to Medium](https://scribe.rip/)
+- [Cynthia Rudin wins the 2021 AAAI Squirrel AI Award](https://pratt.duke.edu/about/news/rudin-squirrel-award)
 <!-- BLOG-POST-LIST:END -->
 
 ---
