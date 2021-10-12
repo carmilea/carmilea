@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Australians ‘complacent’ to rapid growth in digital surveillance](https://www.innovationaus.com/australians-complacent-to-rapid-growth-in-digital-surveillance/)
+- [Record share of small businesses in U.S. report job vacancies](https://www.ocregister.com/2021/10/08/record-share-of-small-businesses-in-u-s-report-job-vacancies/)
 - [Peter Norvig Leaves Google to Join Stanford HAI](https://hai.stanford.edu/news/peter-norvig-todays-most-pressing-questions-ai-are-human-centered)
-- [Instagram has largely replaced TikTok in India and erased working-class creators](https://restofworld.org/2021/instagram-and-class-in-india/)
+- [Instagram has largely replaced TikTok in India](https://restofworld.org/2021/instagram-and-class-in-india/)
 - [‘Give away your Legos’ and other commandments for scaling startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups)
-- [2,050-year-old Roman tomb offers insights on ancient concrete resilience](https://news.mit.edu/2021/roman-tomb-offers-insights-ancient-concrete-resilience-1008)
-- [A Multi-Billion Dollar Real Estate Project Is Rising on Native Land in Vancouver](https://www.architecturaldigest.com/story/vancouver-real-estate-native-reserve-land)
 <!-- BLOG-POST-LIST:END -->
 
 ---
