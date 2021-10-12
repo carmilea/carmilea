@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [React Internals](https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/)
+- [Use Raspberry Pi as Airplay server to screen mirror on TVs, monitors, projectors](https://github.com/rahul-thakoor/air-pi-play)
 - [Structured Identifiers](https://pernos.co/blog/structured-identifiers/)
+- [Apple Maps' Acceleration](https://www.justinobeirne.com/apple-maps-acceleration)
 - [Rancher Desktop, a Docker Desktop Replacement](https://rancherdesktop.io/)
-- [The Home Depot Teams Up with Walmart to Expand Same-Day and Next-Day Delivery](https://corporate.homedepot.com/newsroom/expands-same-day-next-day-delivery-with-walmart)
-- [World’s deadliest bird was raised by people 18,000 years ago](https://www.nytimes.com/2021/09/28/science/most-dangerous-bird-cassowary.html)
-- [Peter Norvig Joins Stanford HAI](https://hai.stanford.edu/news/peter-norvig-todays-most-pressing-questions-ai-are-human-centered)
 <!-- BLOG-POST-LIST:END -->
 
 ---
