@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The planet survived six hours without Facebook. Let's make it longer next time](https://www.theregister.com/2021/10/11/facebook_opinion_column/)
-- [A New Link to an Old Model Could Crack the Mystery of Deep Learning](https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/)
-- [Bright (YC W15) Is Hiring an Impact Driven Product Management Lead](https://www.ycombinator.com/companies/bright/jobs/Cqjidjw-impact-driven-product-management-lead)
-- [Magpie Driven Development (MDD)](http://www.nichesoftware.co.nz/2021/07/10/magpie-driven-development.html)
-- [Ask HN: Ever lost your love for coding? How did you get it back?](https://news.ycombinator.com/item?id=28838530)
+- [Ask HN: How can I get a tech job that's more social?](https://news.ycombinator.com/item?id=28839819)
+- [Plant-based meat deceleration signals niche future](https://foodinstitute.com/focus/plant-based-meat-deceleration-signals-niche-future/)
+- [How do you memorize things you read?](https://news.ycombinator.com/item?id=28839573)
+- [Impact of circulating SARS-CoV-2 variants on mRNA vaccine-induced immunity](https://www.nature.com/articles/s41586-021-04085-y)
+- [Is This Peak Gas?](https://consciousnessofsheep.co.uk/2021/10/11/is-this-peak-gas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
