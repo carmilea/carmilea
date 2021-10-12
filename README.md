@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How can I get a tech job that's more social?](https://news.ycombinator.com/item?id=28839819)
-- [Plant-based meat deceleration signals niche future](https://foodinstitute.com/focus/plant-based-meat-deceleration-signals-niche-future/)
-- [How do you memorize things you read?](https://news.ycombinator.com/item?id=28839573)
-- [Impact of circulating SARS-CoV-2 variants on mRNA vaccine-induced immunity](https://www.nature.com/articles/s41586-021-04085-y)
-- [Is This Peak Gas?](https://consciousnessofsheep.co.uk/2021/10/11/is-this-peak-gas/)
+- [Show HN: Identify car crash editorial anti-patterns using NLP](https://visionzeroreporting.com/)
+- [ALGEBRAIC DATA TYPES: THINGS I WISH SOMEONE HAD EXPLAINED ABOUT FP](https://jrsinclair.com/articles/2019/algebraic-data-types-what-i-wish-someone-had-explained-about-functional-programming/)
+- [A variable signal at heart of the Milky Way](https://www.sciencedaily.com/releases/2021/10/211012080039.htm)
+- [Major nuclear fusion milestone reached as ‘ignition’ triggered in a lab](https://www.imperial.ac.uk/news/228373/major-nuclear-fusion-milestone-reached-ignition/)
+- [Quantum Annealing opens a new door to Simulation Hypothesis](https://www.vesselproject.io/life-through-quantum-annealing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
