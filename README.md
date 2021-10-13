@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nonconsenting prisoners are the source of many organ transplantations in China](https://www.jtcvs.org/article/S0022-5223(21)01375-1/fulltext?rss=yes)
+- [Why HN is the way it is, and why we hope it will stay that way](https://news.ycombinator.com/item?id=27161491)
 - [Software Sweatshop – Inside Billionaire Joe Liemandt's Empire](https://colinkeeley.com/blog/joe-liemandt-esw-capital-operating-manual)
 - [The 100 MHz 6502](http://www.e-basteln.de/computing/65f02/65f02/)
 - [Please stop calling dopamine an addictive rewarding neurochemical (2017)](https://www.psychologytoday.com/intl/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
-- [Depressed People See the World More Realistically](https://www.vice.com/en/article/8x9j3k/depressed-people-see-the-world-more-realistically)
-- [Find images from movies based on what you draw](https://huggingface.co/spaces/osanseviero/draw_to_search)
 <!-- BLOG-POST-LIST:END -->
 
 ---
