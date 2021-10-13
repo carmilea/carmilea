@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SUVs Are Off Setting the EV Car Gains](https://the-ken.com/greenmargins/when-the-suv-craze-goes-up-what-comes-down/)
+- [Riot Games is disabling all chat in League of Legends](https://www.leagueoflegends.com/en-us/news/game-updates/disabling-all-chat/)
 - [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
 - [GCP releases Spot VMs, the next generation of Pre-emptible VMs](https://cloud.google.com/kubernetes-engine/docs/concepts/spot-vms)
 - [The great executive-employee disconnect](https://futureforum.com/2021/10/05/the-great-executive-employee-disconnect/)
-- [Use of GitHub Enterprise](https://github.com/dotnet-foundation/Home/discussions/59)
-- [Remarkable starts implementing subscription plans for its cloud features](https://remarkable.com/store/connect)
 <!-- BLOG-POST-LIST:END -->
 
 ---
