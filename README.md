@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Slow Writing](https://lithub.com/a-revolution-in-creativity-on-slow-writing/)
+- [Replit (YC W18) Is Hiring to Make Programming More Accessible](https://replit.com/careers)
+- [History of Mathematics Project](https://history-of-mathematics.org/)
+- [Facebook's Novi wallet hits trouble as two top engineers depart](https://financefeeds.com/facebooks-novi-wallet-hits-trouble-as-two-top-engineers-depart/)
 - [Ten Years of Rows and Columns (1989)](https://aresluna.org/attached/computerhistory/articles/spreadsheets/tenyearsofrowsandcolumns)
 - [The Problem with Macros](https://ianthehenry.com/posts/janet-game/the-problem-with-macros/)
-- [An Organocatalysis Nobel](https://www.science.org/content/blog-post/organocatalysis-nobel)
-- [Reversal of cognitive decline: A novel therapeutic program](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4221920/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
