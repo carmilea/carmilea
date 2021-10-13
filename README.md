@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chernobyl’s Blown Up Reactor 4 Just Woke Up](https://historyofyesterday.com/chernobyls-blown-up-reactor-4-just-woke-up-74bedd5fc92d?gi=404e39cf92f1)
 - [Apple Set to Cut iPhone Production Goals Due to Chip Crunch](https://www.bloomberg.com/news/articles/2021-10-12/apple-poised-to-slash-iphone-production-goals-due-to-chip-crunch)
 - [OVH is down along with its status page](https://status.ovh.com)
+- [A QEMU case study in grappling with software complexity](https://lwn.net/SubscriberLink/872321/2e4d8002f40ae38d/)
 - [GTFOBins](https://gtfobins.github.io/)
-- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [Showing GUIs from Shell Scripts](https://sixtyfps.io/blog/showing-guis-from-shell-scripts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
