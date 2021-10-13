@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Culture Biosciences (YC W18) Is Hiring Product Managers to Make AWS for Biotech](https://www.culturebiosciences.com/careers?gh_jid=4712856003)
+- [How to Get over Fear of Disappointing Others (FODO)](https://nickwignall.com/fear-of-disappointing-others/)
+- [Janet – a Lisp-like functional, imperative programming language](https://github.com/janet-lang/janet)
 - [AI predicts accident hot-spots from satellite imagery and GPS data](https://www.unite.ai/ai-predicts-accident-hot-spots-from-satellite-imagery-and-gps-data/)
-- [Lets talk about how NFTs are a giant scam](https://twitter.com/smdiehl/status/1445795667826208770)
-- [Dopamine, Smartphones and You: A battle for your time](https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/)
-- [How apt renders its fancy progress bar?](https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html)
-- [Time Millionaires](https://www.theguardian.com/lifeandstyle/2021/oct/12/time-millionaires-meet-the-people-pursuing-the-pleasure-of-leisure)
+- [COSO, an ultrasound-based and reversible approach to male contraception](https://www.jamesdysonaward.org/2021/project/coso-the-new-way-of-male-contraception/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
