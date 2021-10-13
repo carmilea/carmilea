@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Substack (YC W18) is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
+- [Adventuron – Text Adventure Authoring in the Browser](https://adventuron.io/)
 - [Typography of “2001: A Space Odyssey”](https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/)
 - [Always Do Extra](http://www.bennorthrop.com/Essays/2021/always-do-extra.php)
-- [Kape Now Owns ExpressVPN, CyberGhost, PIA, Zenmate, and VPN “Review” Sites](https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/)
-- [Apple silently fixes iOS zero-day, asks bug reporter to keep quiet](https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet/)
+- [Strike Date Set for 60k Film and Television Workers](https://iatse.net/strike-date-set-for-60000-film-and-television-workers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
