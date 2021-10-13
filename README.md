@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nonconsenting prisoners are the source of many organ transplantations in China](https://www.jtcvs.org/article/S0022-5223(21)01375-1/fulltext?rss=yes)
-- [Why HN is the way it is, and why we hope it will stay that way](https://news.ycombinator.com/item?id=27161491)
+- [Okay (YC W20) Is Hiring a Fullstack Senior Engineer](https://www.ycombinator.com/companies/okay/jobs/0O0s8usap-fullstack-senior-engineer)
+- [State of Open Source: The UK in 2021](https://openuk.uk/stateofopen/)
+- [What If Performance Advertising Is Just an Analytics Scam?](https://sparktoro.com/blog/what-if-performance-advertising-is-just-an-analytics-scam/)
 - [Software Sweatshop – Inside Billionaire Joe Liemandt's Empire](https://colinkeeley.com/blog/joe-liemandt-esw-capital-operating-manual)
 - [The 100 MHz 6502](http://www.e-basteln.de/computing/65f02/65f02/)
-- [Please stop calling dopamine an addictive rewarding neurochemical (2017)](https://www.psychologytoday.com/intl/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
