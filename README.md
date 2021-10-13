@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [Showing GUIs from Shell Scripts](https://sixtyfps.io/blog/showing-guis-from-shell-scripts.html)
+- [Microsoft is ditching Electron for Teams](https://blog.devgenius.io/microsoft-is-finally-ditching-electron-9e081757f9db?gi=bd4952a2226a)
 - [SUVs Are Off Setting the EV Car Gains](https://the-ken.com/greenmargins/when-the-suv-craze-goes-up-what-comes-down/)
 - [Riot Games is disabling all chat in League of Legends](https://www.leagueoflegends.com/en-us/news/game-updates/disabling-all-chat/)
-- [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
-- [GCP releases Spot VMs, the next generation of Pre-emptible VMs](https://cloud.google.com/kubernetes-engine/docs/concepts/spot-vms)
-- [The great executive-employee disconnect](https://futureforum.com/2021/10/05/the-great-executive-employee-disconnect/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
