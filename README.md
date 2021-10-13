@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: GPX replay map that shows terrain shadows during activities](https://shademap.app/gpxreplay/)
+- [Fast character case conversion (or how to compress sparse arrays)](https://github.com/apankrat/notes/tree/master/fast-case-conversion)
+- [Generate Unicode Calendars for Markdown](https://qwerty.dev/calendar-generator/)
 - [Okay (YC W20) Is Hiring a Fullstack Senior Engineer](https://www.ycombinator.com/companies/okay/jobs/0O0s8usap-fullstack-senior-engineer)
-- [State of Open Source: The UK in 2021](https://openuk.uk/stateofopen/)
-- [What If Performance Advertising Is Just an Analytics Scam?](https://sparktoro.com/blog/what-if-performance-advertising-is-just-an-analytics-scam/)
-- [Software Sweatshop – Inside Billionaire Joe Liemandt's Empire](https://colinkeeley.com/blog/joe-liemandt-esw-capital-operating-manual)
-- [The 100 MHz 6502](http://www.e-basteln.de/computing/65f02/65f02/)
+- [Wavelets Allow Researchers to Transform – and Understand – Data](https://www.quantamagazine.org/how-wavelets-allow-researchers-to-transform-and-understand-data-20211013/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
