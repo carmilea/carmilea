@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software Sweatshop – Inside Billionaire Joe Liemandt's Empire](https://colinkeeley.com/blog/joe-liemandt-esw-capital-operating-manual)
+- [The 100 MHz 6502](http://www.e-basteln.de/computing/65f02/65f02/)
+- [Please stop calling dopamine an addictive rewarding neurochemical (2017)](https://www.psychologytoday.com/intl/blog/women-who-stray/201701/no-dopamine-is-not-addictive)
+- [Depressed People See the World More Realistically](https://www.vice.com/en/article/8x9j3k/depressed-people-see-the-world-more-realistically)
 - [Find images from movies based on what you draw](https://huggingface.co/spaces/osanseviero/draw_to_search)
-- [The Venus Project](https://www.thevenusproject.com/)
-- [U.S. inflation rate rises to 13-year high of 5.4%](https://www.cbc.ca/news/business/us-inflation-1.6208981)
-- [Cosmic inflation preceded the Big Bang](https://bigthink.com/starts-with-a-bang/big-bang-beginning-universe/)
-- [Windows 11’s first update makes AMD CPU performance even worse](https://www.theverge.com/2021/10/13/22723998/windows-11-update-amd-ryzen-cpu-performance-worse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
