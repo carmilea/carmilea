@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using ASCII waveforms to test real-time audio code](https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code)
+- [Intellectuals urge Germany to keep nuclear plants online](https://www.euractiv.com/section/electricity/news/german-intellectuals-urge-state-to-keep-nuclear-plants-online/)
+- [Southwest new CEO denies walk-off rumors, defends pilots amid schedule meltdown](https://thepointsguy.com/news/southwest-airlines-new-ceo-pilots-cancellations/)
 - [Show HN: GPX replay map that shows terrain shadows during activities](https://shademap.app/gpxreplay/)
 - [Fast character case conversion (or how to compress sparse arrays)](https://github.com/apankrat/notes/tree/master/fast-case-conversion)
-- [Generate Unicode Calendars for Markdown](https://qwerty.dev/calendar-generator/)
-- [Okay (YC W20) Is Hiring a Fullstack Senior Engineer](https://www.ycombinator.com/companies/okay/jobs/0O0s8usap-fullstack-senior-engineer)
-- [Wavelets Allow Researchers to Transform – and Understand – Data](https://www.quantamagazine.org/how-wavelets-allow-researchers-to-transform-and-understand-data-20211013/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
