@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11’s first update makes AMD CPU performance even worse](https://www.theverge.com/2021/10/13/22723998/windows-11-update-amd-ryzen-cpu-performance-worse)
+- [Amazon copied products and rigged search results, documents show](https://www.reuters.com/investigates/special-report/amazon-india-rigging/)
+- [Back to EU](https://adambird.com/posts/back-to-eu/)
+- [M3O – An open source AWS alternative](https://github.com/m3o/m3o)
 - [Culture Biosciences (YC W18) Is Hiring Product Managers to Make AWS for Biotech](https://www.culturebiosciences.com/careers?gh_jid=4712856003)
-- [How to Get over Fear of Disappointing Others (FODO)](https://nickwignall.com/fear-of-disappointing-others/)
-- [Janet – a Lisp-like functional, imperative programming language](https://github.com/janet-lang/janet)
-- [AI predicts accident hot-spots from satellite imagery and GPS data](https://www.unite.ai/ai-predicts-accident-hot-spots-from-satellite-imagery-and-gps-data/)
-- [COSO, an ultrasound-based and reversible approach to male contraception](https://www.jamesdysonaward.org/2021/project/coso-the-new-way-of-male-contraception/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
