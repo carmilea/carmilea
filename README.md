@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Find images from movies based on what you draw](https://huggingface.co/spaces/osanseviero/draw_to_search)
+- [The Venus Project](https://www.thevenusproject.com/)
+- [U.S. inflation rate rises to 13-year high of 5.4%](https://www.cbc.ca/news/business/us-inflation-1.6208981)
+- [Cosmic inflation preceded the Big Bang](https://bigthink.com/starts-with-a-bang/big-bang-beginning-universe/)
 - [Windows 11’s first update makes AMD CPU performance even worse](https://www.theverge.com/2021/10/13/22723998/windows-11-update-amd-ryzen-cpu-performance-worse)
-- [Amazon copied products and rigged search results, documents show](https://www.reuters.com/investigates/special-report/amazon-india-rigging/)
-- [Back to EU](https://adambird.com/posts/back-to-eu/)
-- [M3O – An open source AWS alternative](https://github.com/m3o/m3o)
-- [Culture Biosciences (YC W18) Is Hiring Product Managers to Make AWS for Biotech](https://www.culturebiosciences.com/careers?gh_jid=4712856003)
 <!-- BLOG-POST-LIST:END -->
 
 ---
