@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kongsberg: Several killed in Norway bow and arrow attack](https://www.bbc.co.uk/news/world-europe-58906165)
+- [Apple silently fixes iOS zero-day, asks bug reporter to keep quiet](https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet/)
 - [Using ASCII waveforms to test real-time audio code](https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code)
+- [Climate Clock](https://climateclock.world)
 - [Intellectuals urge Germany to keep nuclear plants online](https://www.euractiv.com/section/electricity/news/german-intellectuals-urge-state-to-keep-nuclear-plants-online/)
-- [Southwest new CEO denies walk-off rumors, defends pilots amid schedule meltdown](https://thepointsguy.com/news/southwest-airlines-new-ceo-pilots-cancellations/)
-- [Show HN: GPX replay map that shows terrain shadows during activities](https://shademap.app/gpxreplay/)
-- [Fast character case conversion (or how to compress sparse arrays)](https://github.com/apankrat/notes/tree/master/fast-case-conversion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
