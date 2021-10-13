@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Use of GitHub Enterprise](https://github.com/dotnet-foundation/Home/discussions/59)
+- [Remarkable starts implementing subscription plans for its cloud features](https://remarkable.com/store/connect)
 - [Replit (YC W18) Is Hiring to Make Programming More Accessible](https://replit.com/careers)
+- [Walgreens closing 5 San Francisco stores due to 'organized retail crime'](https://www.sfgate.com/bayarea/article/Walgreens-closing-5-Sf-stores-crime-shoplifting-16527801.php)
 - [History of Mathematics Project](https://history-of-mathematics.org/)
-- [Facebook's Novi wallet hits trouble as two top engineers depart](https://financefeeds.com/facebooks-novi-wallet-hits-trouble-as-two-top-engineers-depart/)
-- [Ten Years of Rows and Columns (1989)](https://aresluna.org/attached/computerhistory/articles/spreadsheets/tenyearsofrowsandcolumns)
-- [The Problem with Macros](https://ianthehenry.com/posts/janet-game/the-problem-with-macros/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
