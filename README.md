@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kongsberg: Several killed in Norway bow and arrow attack](https://www.bbc.co.uk/news/world-europe-58906165)
+- [Substack (YC W18) is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
+- [Typography of “2001: A Space Odyssey”](https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/)
+- [Always Do Extra](http://www.bennorthrop.com/Essays/2021/always-do-extra.php)
+- [Kape Now Owns ExpressVPN, CyberGhost, PIA, Zenmate, and VPN “Review” Sites](https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/)
 - [Apple silently fixes iOS zero-day, asks bug reporter to keep quiet](https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet/)
-- [Using ASCII waveforms to test real-time audio code](https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code)
-- [Climate Clock](https://climateclock.world)
-- [Intellectuals urge Germany to keep nuclear plants online](https://www.euractiv.com/section/electricity/news/german-intellectuals-urge-state-to-keep-nuclear-plants-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
