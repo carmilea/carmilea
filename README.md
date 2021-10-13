@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
 - [GCP releases Spot VMs, the next generation of Pre-emptible VMs](https://cloud.google.com/kubernetes-engine/docs/concepts/spot-vms)
-- [44% of executives want to return to work, 17% of employees do](https://futureforum.com/2021/10/05/the-great-executive-employee-disconnect/)
-- [US attorney details illegal acts, sealing the fate of the “nuclear Renaissance”](https://thebulletin.org/2021/08/us-attorney-details-illegal-acts-at-construction-projects-sealing-the-fate-of-the-nuclear-renaissance/)
+- [The great executive-employee disconnect](https://futureforum.com/2021/10/05/the-great-executive-employee-disconnect/)
 - [Use of GitHub Enterprise](https://github.com/dotnet-foundation/Home/discussions/59)
 - [Remarkable starts implementing subscription plans for its cloud features](https://remarkable.com/store/connect)
 <!-- BLOG-POST-LIST:END -->
