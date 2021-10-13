@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Patrick Stewart on the teacher who spotted his talent – and saved him](https://www.theguardian.com/lifeandstyle/2021/oct/13/a-moment-that-changed-me-patrick-stewart-on-the-teacher-who-spotted-his-talent-and-saved-him)
 - [Substack (YC W18) is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
 - [Adventuron – Text Adventure Authoring in the Browser](https://adventuron.io/)
-- [Typography of “2001: A Space Odyssey”](https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/)
+- [Typography of 2001: A Space Odyssey (2014)](https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/)
 - [Always Do Extra](http://www.bennorthrop.com/Essays/2021/always-do-extra.php)
-- [Strike Date Set for 60k Film and Television Workers](https://iatse.net/strike-date-set-for-60000-film-and-television-workers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
