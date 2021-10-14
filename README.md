@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anti-Café](https://en.wikipedia.org/wiki/Anti-caf%C3%A9)
 - [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
 - [Design patterns let you apply existing solutions to your code](https://stackoverflow.blog/2021/10/13/why-solve-a-problem-twice-design-patterns-let-you-apply-existing-solutions-to-your-code/)
 - [esbuild – An extremely fast JavaScript bundler](https://esbuild.github.io/)
 - [Practice Problems for Hardware Engineers](https://arxiv.org/abs/2110.06526)
-- [FTC Puts Hundreds of Businesses on Notice about Fake Reviews](https://www.ftc.gov/news-events/press-releases/2021/10/ftc-puts-hundreds-businesses-notice-about-fake-reviews-other)
 <!-- BLOG-POST-LIST:END -->
 
 ---
