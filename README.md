@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UpCodes is hiring our first recruiter to help automate compliance for architects](https://up.codes/careers#recruiter)
+- [Cloud-to-butt plugin used in Amazon Job Posting?](https://web.archive.org/web/20211014200658/https://www.amazon.jobs/en/jobs/1773420/software-development-engineer)
+- [First Ever Image of a Multi-Planet System Around a Sun-Like Star (2020)](https://www.eso.org/public/news/eso2011/)
 - [Strict Id Laws Don’t Stop Voters: Evidence from a U.S. Nationwide Panel](https://academic.oup.com/qje/article-abstract/136/4/2615/6281042)
-- [Ubuntu 21.10](https://ubuntu.com/blog/ubuntu-21-10-has-landed)
-- [Weir-A System for Making Generative Art (Common-Lisp))](https://github.com/inconvergent/weir)
-- [Show HN: OtterTune – Automated Database Tuning Service for RDS MySQL/Postgres](https://news.ycombinator.com/item?id=28868382)
-- [Missouri Governor Vows to Prosecute St. Louis Post-Dispatch for Reporting](https://krebsonsecurity.com/2021/10/missouri-governor-vows-to-prosecute-st-louis-post-dispatch-for-reporting-security-vulnerability/)
+- [Spinoza’s God: Einstein believed in it, but what was it?](https://www.prospectmagazine.co.uk/philosophy/spinozas-religion-clare-carlisle-god-einstein-philosophy-religion-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
