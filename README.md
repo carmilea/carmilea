@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What is your labor worth? Tech compensation in 2021](https://jacobian.org/2021/oct/13/tech-salaries-2021/)
+- [In Britain, childlessness seems likely to return to 1920s levels](https://www.economist.com/britain/2021/10/14/in-britain-childlessness-seems-likely-to-return-to-1920s-levels)
+- [Tech compensation in 2021](https://jacobian.org/2021/oct/13/tech-salaries-2021/)
 - [UpCodes is hiring our first recruiter to help automate compliance for architects](https://up.codes/careers#recruiter)
 - [The Serde Rust Framework](https://serde.rs/)
-- [Cloud-to-butt plugin used in Amazon Job Posting?](https://web.archive.org/web/20211014200658/https://www.amazon.jobs/en/jobs/1773420/software-development-engineer)
 - [First Ever Image of a Multi-Planet System Around a Sun-Like Star (2020)](https://www.eso.org/public/news/eso2011/)
 <!-- BLOG-POST-LIST:END -->
 
