@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Letter of Solidarity with the University of Sussex from UK Philosophers](https://openlettertosussexfromukphilosophers.wordpress.com/)
+- [Decompilation of 3D Pinball for Windows – Space Cadet](https://github.com/k4zmu2a/SpaceCadetPinball)
+- [Seven Deadly Sins of Introductory Programming Language Design (1996) [pdf]](https://users.monash.edu/~damian/papers/PDF/SevenDeadlySins.pdf)
 - [Parcel v2](https://parceljs.org/blog/v2/)
-- [TX Bans Local Nurses from Quitting to Work FEMA Crisis Contracts in State](https://nurse.org/articles/texas-bans-nurses-from-in-state-crisis-contracts/)
-- [Patrick Stewart on the teacher who spotted his talent – and saved him](https://www.theguardian.com/lifeandstyle/2021/oct/13/a-moment-that-changed-me-patrick-stewart-on-the-teacher-who-spotted-his-talent-and-saved-him)
-- [Kyshtym Disaster](https://en.wikipedia.org/wiki/Kyshtym_disaster)
-- [WebAuthn – The Passwordless Future](https://webauthn.io/)
+- [Patrick Stewart on the teacher who spotted his talent](https://www.theguardian.com/lifeandstyle/2021/oct/13/a-moment-that-changed-me-patrick-stewart-on-the-teacher-who-spotted-his-talent-and-saved-him)
 <!-- BLOG-POST-LIST:END -->
 
 ---
