@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Coinbase Digital Asset Policy Proposal](https://github.com/coinbase/digital-asset-policy-proposal)
+- [Strict Id Laws Don’t Stop Voters: Evidence from a U.S. Nationwide Panel](https://academic.oup.com/qje/article-abstract/136/4/2615/6281042)
+- [Ubuntu 21.10](https://ubuntu.com/blog/ubuntu-21-10-has-landed)
+- [Weir-A System for Making Generative Art (Common-Lisp))](https://github.com/inconvergent/weir)
+- [Show HN: OtterTune – Automated Database Tuning Service for RDS MySQL/Postgres](https://news.ycombinator.com/item?id=28868382)
 - [Missouri Governor Vows to Prosecute St. Louis Post-Dispatch for Reporting](https://krebsonsecurity.com/2021/10/missouri-governor-vows-to-prosecute-st-louis-post-dispatch-for-reporting-security-vulnerability/)
-- [On Receiving My Certificate of Loss of (US) Nationality (2016)](https://rachelsruminations.com/certificate-loss-nationality/)
-- [Release (YC W20) Is Hiring – Product Marketing Manager](https://releasehub.com/company#hire)
-- [There Is No Shortage of Reasons for the Broken Supply Chain](https://www.bloomberg.com/opinion/articles/2021-10-11/supply-chain-disruptions-almost-too-many-reasons-to-count)
 <!-- BLOG-POST-LIST:END -->
 
 ---
