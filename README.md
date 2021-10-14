@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [FTC Puts Hundreds of Businesses on Notice about Fake Reviews](https://www.ftc.gov/news-events/press-releases/2021/10/ftc-puts-hundreds-businesses-notice-about-fake-reviews-other)
 - [Decompilation of 3D Pinball for Windows – Space Cadet](https://github.com/k4zmu2a/SpaceCadetPinball)
+- [Syncthing – a continuous file synchronization program](https://syncthing.net/)
 - [Seven Deadly Sins of Introductory Programming Language Design (1996) [pdf]](https://users.monash.edu/~damian/papers/PDF/SevenDeadlySins.pdf)
 - [You Already Know Formal Methods](https://galois.com/blog/2021/10/you-already-know-formal-methods/)
-- [Parcel v2](https://parceljs.org/blog/v2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
