@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SkipTheInterview launches then promptly shuts down](https://www.protocol.com/site-allowing-you-to-skip-the-interview-launches-promptly-shuts-down)
-- [Waymo's Self-Driving Cars Are Flocking to a Dead-End Street in San Francisco](https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042)
+- [Alden Global Capital, the secretive hedge fund gutting newsrooms](https://www.theatlantic.com/magazine/archive/2021/11/alden-global-capital-killing-americas-newspapers/620171/)
+- [Global Climate Report – September 2021](https://www.ncdc.noaa.gov/sotc/global/202109)
+- [Apple Joins Blender Development Fund](https://www.blender.org/press/apple-joins-blender-development-fund/)
 - [Michelin Airless](https://www.michelin.com/en/innovation/vision-concept/airless/)
-- [Estimate earth radius from sunset photo](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
-- [After 2hrs sunscreen that includes zinc oxide loses effectiveness, becomes toxic](https://phys.org/news/2021-10-hours-sunscreen-zinc-oxide-effectiveness.html)
+- [Sunset Geometry (2016)](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
