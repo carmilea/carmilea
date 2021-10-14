@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [G7 finance officials endorse principles for central bank digital currencies](https://www.reuters.com/business/g7-finance-officials-endorse-principles-central-bank-digital-currencies-2021-10-14/)
+- [esbuild – An extremely fast JavaScript bundler](https://esbuild.github.io/)
+- [Practice Problems for Hardware Engineers](https://arxiv.org/abs/2110.06526)
 - [FTC Puts Hundreds of Businesses on Notice about Fake Reviews](https://www.ftc.gov/news-events/press-releases/2021/10/ftc-puts-hundreds-businesses-notice-about-fake-reviews-other)
 - [Decompilation of 3D Pinball for Windows – Space Cadet](https://github.com/k4zmu2a/SpaceCadetPinball)
-- [Syncthing – a continuous file synchronization program](https://syncthing.net/)
-- [Seven Deadly Sins of Introductory Programming Language Design (1996) [pdf]](https://users.monash.edu/~damian/papers/PDF/SevenDeadlySins.pdf)
-- [You Already Know Formal Methods](https://galois.com/blog/2021/10/you-already-know-formal-methods/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
