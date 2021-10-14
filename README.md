@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase Digital Asset Policy Proposal](https://github.com/coinbase/digital-asset-policy-proposal)
 - [Missouri Governor Vows to Prosecute St. Louis Post-Dispatch for Reporting](https://krebsonsecurity.com/2021/10/missouri-governor-vows-to-prosecute-st-louis-post-dispatch-for-reporting-security-vulnerability/)
 - [On Receiving My Certificate of Loss of (US) Nationality (2016)](https://rachelsruminations.com/certificate-loss-nationality/)
 - [Release (YC W20) Is Hiring – Product Marketing Manager](https://releasehub.com/company#hire)
 - [There Is No Shortage of Reasons for the Broken Supply Chain](https://www.bloomberg.com/opinion/articles/2021-10-11/supply-chain-disruptions-almost-too-many-reasons-to-count)
-- [Governor vows criminal prosecution of reporter who found flaw in state website](https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
