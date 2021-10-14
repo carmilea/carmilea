@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to Britain, the bank scam capital of the world](https://www.reuters.com/world/uk/welcome-britain-bank-scam-capital-world-2021-10-14/)
-- [YouTube censors David Davis MP’s speech against vaccine passports](https://bigbrotherwatch.org.uk/2021/10/youtube-censors-david-davis-mps-speech-against-vaccine-passports/)
+- [FIFA seeks $1B+ (per 4 years) from EA for name usage](https://www.nytimes.com/2021/10/13/sports/soccer/ea-sports-fifa.html)
+- [OpenBSD 7.0 Released](https://www.openbsd.org/70.html)
+- [An unprecedented wave of online bank fraud is hitting Britain](https://www.reuters.com/world/uk/welcome-britain-bank-scam-capital-world-2021-10-14/)
 - [UK MP speech about freedoms censored by YouTube](https://twitter.com/BigBrotherWatch/status/1448544035799552004)
-- [Ask HN: What does one look for in a laptop these days?](https://news.ycombinator.com/item?id=28861949)
-- [Anti-Café](https://en.wikipedia.org/wiki/Anti-caf%C3%A9)
+- [Hands-On Rust: Effective Learning Through 2D Game Development and Play](https://pragprog.com/titles/hwrust/hands-on-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
