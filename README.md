@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to Britain, the bank scam capital of the world](https://www.reuters.com/world/uk/welcome-britain-bank-scam-capital-world-2021-10-14/)
+- [YouTube censors David Davis MP’s speech against vaccine passports](https://bigbrotherwatch.org.uk/2021/10/youtube-censors-david-davis-mps-speech-against-vaccine-passports/)
+- [UK MP speech about freedoms censored by YouTube](https://twitter.com/BigBrotherWatch/status/1448544035799552004)
+- [Ask HN: What does one look for in a laptop these days?](https://news.ycombinator.com/item?id=28861949)
 - [Anti-Café](https://en.wikipedia.org/wiki/Anti-caf%C3%A9)
-- [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
-- [Design patterns let you apply existing solutions to your code](https://stackoverflow.blog/2021/10/13/why-solve-a-problem-twice-design-patterns-let-you-apply-existing-solutions-to-your-code/)
-- [esbuild – An extremely fast JavaScript bundler](https://esbuild.github.io/)
-- [Practice Problems for Hardware Engineers](https://arxiv.org/abs/2110.06526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
