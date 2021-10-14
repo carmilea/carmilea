@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Release (YC W20) Is Hiring – Product Marketing Manager](https://releasehub.com/company#hire)
+- [Instagram took down post with figure from paper showing male advantage in sports](https://twitter.com/SwipeWright/status/1448064426670583814)
 - [Alden Global Capital, the secretive hedge fund gutting newsrooms](https://www.theatlantic.com/magazine/archive/2021/11/alden-global-capital-killing-americas-newspapers/620171/)
 - [Global Climate Report – September 2021](https://www.ncdc.noaa.gov/sotc/global/202109)
 - [Apple Joins Blender Development Fund](https://www.blender.org/press/apple-joins-blender-development-fund/)
-- [Michelin Airless](https://www.michelin.com/en/innovation/vision-concept/airless/)
-- [Sunset Geometry (2016)](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
