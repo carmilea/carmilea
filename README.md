@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Missouri Governor Vows to Prosecute St. Louis Post-Dispatch for Reporting](https://krebsonsecurity.com/2021/10/missouri-governor-vows-to-prosecute-st-louis-post-dispatch-for-reporting-security-vulnerability/)
+- [On Receiving My Certificate of Loss of (US) Nationality (2016)](https://rachelsruminations.com/certificate-loss-nationality/)
 - [Release (YC W20) Is Hiring – Product Marketing Manager](https://releasehub.com/company#hire)
-- [Instagram took down post with figure from paper showing male advantage in sports](https://twitter.com/SwipeWright/status/1448064426670583814)
-- [Alden Global Capital, the secretive hedge fund gutting newsrooms](https://www.theatlantic.com/magazine/archive/2021/11/alden-global-capital-killing-americas-newspapers/620171/)
-- [Global Climate Report – September 2021](https://www.ncdc.noaa.gov/sotc/global/202109)
-- [Apple Joins Blender Development Fund](https://www.blender.org/press/apple-joins-blender-development-fund/)
+- [There Is No Shortage of Reasons for the Broken Supply Chain](https://www.bloomberg.com/opinion/articles/2021-10-11/supply-chain-disruptions-almost-too-many-reasons-to-count)
+- [Governor vows criminal prosecution of reporter who found flaw in state website](https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
