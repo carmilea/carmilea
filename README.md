@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tenured Professors Can Be Fired Without Faculty Input in Georgia](https://www.nytimes.com/2021/10/13/us/georgia-university-system-tenure.html)
-- [What I wish I knew when learning F#](https://danielbachler.de/2020/12/23/what-i-wish-i-knew-when-learning-fsharp.html)
-- [QuestDB Is Hiring Customer Success Engineers](https://questdb.io/careers/customer-success-engineer/)
-- [‘Nanotargeting’ Facebook users based on their perceived interests](https://www.unite.ai/facebook-nanotargeting-users-based-solely-on-their-perceived-interests/)
-- [FB seals off some internal message boards to prevent leaking, immediately leaked](https://www.businessinsider.com/facebook-whistleblower-leaks-restricts-staff-access-message-boards-elections-safety-2021-10)
+- [Apple Captures 75% of Global Handset Market Operating Profit in Q2 2021](https://www.counterpointresearch.com/global-handset-market-operating-profit-q2-2021/)
+- [Harnessing the benefits of UVA light treatment in Covid-19 patients](https://www.healtheuropa.eu/harnessing-benefits-uva-light-treatment-covid-19-patients/111044/)
+- [Countries are gathering in an effort to stop a biodiversity collapse](https://www.nytimes.com/2021/10/14/climate/un-biodiversity-conference-climate-change.html)
+- [Gitlab from YC to IPO](https://blog.ycombinator.com/gitlab-from-yc-to-ipo/)
+- [Every search bar looks like a URL bar to users](https://shkspr.mobi/blog/2021/10/every-search-bar-looks-like-a-url-bar-to-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
