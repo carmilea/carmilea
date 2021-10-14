@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Letter of Solidarity with the University of Sussex from UK Philosophers](https://openlettertosussexfromukphilosophers.wordpress.com/)
+- [Apple to make ten million fewer iPhones due to micro chip shortage](https://www.cbc.ca/news/business/apple-iphones-semiconductors-1.6208996)
+- [FTC Puts Hundreds of Businesses on Notice about Fake Reviews](https://www.ftc.gov/news-events/press-releases/2021/10/ftc-puts-hundreds-businesses-notice-about-fake-reviews-other)
 - [Decompilation of 3D Pinball for Windows – Space Cadet](https://github.com/k4zmu2a/SpaceCadetPinball)
 - [Seven Deadly Sins of Introductory Programming Language Design (1996) [pdf]](https://users.monash.edu/~damian/papers/PDF/SevenDeadlySins.pdf)
 - [Parcel v2](https://parceljs.org/blog/v2/)
-- [Patrick Stewart on the teacher who spotted his talent](https://www.theguardian.com/lifeandstyle/2021/oct/13/a-moment-that-changed-me-patrick-stewart-on-the-teacher-who-spotted-his-talent-and-saved-him)
 <!-- BLOG-POST-LIST:END -->
 
 ---
