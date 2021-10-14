@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Captures 75% of Global Handset Market Operating Profit in Q2 2021](https://www.counterpointresearch.com/global-handset-market-operating-profit-q2-2021/)
-- [Harnessing the benefits of UVA light treatment in Covid-19 patients](https://www.healtheuropa.eu/harnessing-benefits-uva-light-treatment-covid-19-patients/111044/)
-- [Countries are gathering in an effort to stop a biodiversity collapse](https://www.nytimes.com/2021/10/14/climate/un-biodiversity-conference-climate-change.html)
-- [Gitlab from YC to IPO](https://blog.ycombinator.com/gitlab-from-yc-to-ipo/)
-- [Every search bar looks like a URL bar to users](https://shkspr.mobi/blog/2021/10/every-search-bar-looks-like-a-url-bar-to-users/)
+- [SkipTheInterview launches then promptly shuts down](https://www.protocol.com/site-allowing-you-to-skip-the-interview-launches-promptly-shuts-down)
+- [Waymo's Self-Driving Cars Are Flocking to a Dead-End Street in San Francisco](https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042)
+- [Michelin Airless](https://www.michelin.com/en/innovation/vision-concept/airless/)
+- [Estimate earth radius from sunset photo](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
+- [After 2hrs sunscreen that includes zinc oxide loses effectiveness, becomes toxic](https://phys.org/news/2021-10-hours-sunscreen-zinc-oxide-effectiveness.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
