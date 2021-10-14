@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tenured Professors Can Be Fired Without Faculty Input in Georgia](https://www.nytimes.com/2021/10/13/us/georgia-university-system-tenure.html)
 - [What I wish I knew when learning F#](https://danielbachler.de/2020/12/23/what-i-wish-i-knew-when-learning-fsharp.html)
-- [Bitcoin could trigger financial meltdown, warns Bank of England](https://www.theguardian.com/technology/2021/oct/13/bitcoin-could-trigger-financial-meltdown-warns-bank-of-england-deputy)
 - [QuestDB Is Hiring Customer Success Engineers](https://questdb.io/careers/customer-success-engineer/)
-- [A Different Approach to Anti-Racism](https://reason.com/2021/10/09/a-different-approach-to-anti-racism/)
-- [Facebook: ‘Nanotargeting’ users based solely on their perceived interests](https://www.unite.ai/facebook-nanotargeting-users-based-solely-on-their-perceived-interests/)
+- [‘Nanotargeting’ Facebook users based on their perceived interests](https://www.unite.ai/facebook-nanotargeting-users-based-solely-on-their-perceived-interests/)
+- [FB seals off some internal message boards to prevent leaking, immediately leaked](https://www.businessinsider.com/facebook-whistleblower-leaks-restricts-staff-access-message-boards-elections-safety-2021-10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
