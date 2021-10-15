@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In Britain, childlessness seems likely to return to 1920s levels](https://www.economist.com/britain/2021/10/14/in-britain-childlessness-seems-likely-to-return-to-1920s-levels)
-- [Tech compensation in 2021](https://jacobian.org/2021/oct/13/tech-salaries-2021/)
-- [UpCodes is hiring our first recruiter to help automate compliance for architects](https://up.codes/careers#recruiter)
-- [The Serde Rust Framework](https://serde.rs/)
-- [First Ever Image of a Multi-Planet System Around a Sun-Like Star (2020)](https://www.eso.org/public/news/eso2011/)
+- [Meat and mental health: Meat eaters suffer less depression, anxiety](https://www.tandfonline.com/doi/full/10.1080/10408398.2021.1974336)
+- [Canada imposes Covid-19 vaccine mandate on federal workers, transportation](https://www.reuters.com/world/americas/unvaccinated-federal-workers-canada-will-be-put-unpaid-leave-globe-mail-2021-10-06/)
+- [Y Combinator company “skip the interview” reaches top ten of r/recruitinghell](https://old.reddit.com/r/SubredditDrama/comments/q80h7h/tech_bro_invents_a_skip_the_interview_tool_where/)
+- [By 2500 earth could be alien to humans](https://www.mcgill.ca/channels/channels/news/2500-earth-could-be-alien-humans-334080)
+- [Covid super-immunity: one of the pandemic’s great puzzles](https://www.nature.com/articles/d41586-021-02795-x)
 <!-- BLOG-POST-LIST:END -->
 
 ---
