@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Habitable Software](http://akkartik.name/post/habitability)
+- [YJIT: Building a New JIT Compiler for CRuby](https://shopify.engineering/yjit-just-in-time-compiler-cruby)
 - [Create and share beautiful images of your source code](https://carbon.now.sh/)
 - [Remote OK Open Startup](https://remoteok.io/open)
 - [The void in Calgary: How office towers emptied in a once bustling downtown](https://www.theglobeandmail.com/canada/alberta/article-the-void-in-calgary-how-office-towers-emptied-in-a-once-bustling/)
-- [Postgres text search: balancing query time and relevancy](https://about.sourcegraph.com/blog/postgres-text-search-balancing-query-time-and-relevancy/)
-- [Multiple vulnerabilities in WP Fastest Cache plugin](https://jetpack.com/2021/10/14/multiple-vulnerabilities-in-wp-fastest-cache-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
