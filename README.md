@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Create and share beautiful images of your source code](https://carbon.now.sh/)
+- [Remote OK Open Startup](https://remoteok.io/open)
+- [The void in Calgary: How office towers emptied in a once bustling downtown](https://www.theglobeandmail.com/canada/alberta/article-the-void-in-calgary-how-office-towers-emptied-in-a-once-bustling/)
 - [Postgres text search: balancing query time and relevancy](https://about.sourcegraph.com/blog/postgres-text-search-balancing-query-time-and-relevancy/)
 - [Multiple vulnerabilities in WP Fastest Cache plugin](https://jetpack.com/2021/10/14/multiple-vulnerabilities-in-wp-fastest-cache-plugin/)
-- [Twitter is being sued for letting Saudi spies inside the company](https://www.protocol.com/bulletins/saudi-dissident-twitter-lawsuit-spies)
-- [Crystal 1.2.0 Is Released](https://crystal-lang.org/2021/10/14/1.2.0-released.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
