@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Poll Everywhere (YC S08) Is Hiring a Front End Engineer](https://jobs.lever.co/polleverywhere/c2fe868d-a814-475d-bc20-b3a088f2f66c)
+- [Women earned the majority of doctoral degrees in 2020 for the 12th straight year](https://www.aei.org/carpe-diem/women-earned-the-majority-of-doctoral-degrees-in-2020-for-the-12th-straight-year-and-outnumber-men-in-grad-school-148-to-100/)
 - [Senators aim to block tech giants from prioritizing own products over rivals’](https://www.washingtonpost.com/technology/2021/10/14/klobuchar-grassley-antitrust-bill/)
+- [Munchy, a search engine to discover recipes](https://joinmunchy.com/)
 - [Cloudflare Uses HashiCorp Nomad](https://blog.cloudflare.com/how-we-use-hashicorp-nomad/)
-- [Speed Matters](https://scattered-thoughts.net/writing/speed-matters/)
-- [Army Delays $22B Augmented Reality Goggle Program](https://federalnewsnetwork.com/army/2021/10/army-delays-22-billion-augmented-reality-goggle-program/)
-- [Most Canadians believe Facebook harms their mental health](https://www.theglobeandmail.com/canada/article-most-canadians-believe-facebook-harms-their-mental-health-survey-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
