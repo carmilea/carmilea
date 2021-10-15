@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How not to blow up the production database](https://blog.battlefy.com/how-not-to-blow-up-the-production-database-424c162dccc6?gi=8ec446ad5e47)
+- [Steam bans all blockchain and NFT games on its platform](https://www.theverge.com/2021/10/15/22728425/valve-steam-blockchain-nft-crypto-ban-games-age-of-rust)
+- [Implementing form filling and accessibility in the Firefox PDF viewer](https://hacks.mozilla.org/2021/10/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/)
+- [The Lisp OS “Mezzano” Running Native on Librebooted ThinkPads](https://www.fitzsim.org/blog/?p=445)
 - [A viable solution for Python concurrency](https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/)
-- [(Archive) Missouri website that leaked SSN](https://web.archive.org/web/20210814172757/https://apps.dese.mo.gov/HQT/CredentialListerChecker.aspx)
-- [Poll Everywhere (YC S08) Is Hiring a Front End Engineer](https://jobs.lever.co/polleverywhere/c2fe868d-a814-475d-bc20-b3a088f2f66c)
-- [Women earned the majority of doctoral degrees in 2020 for the 12th straight year](https://www.aei.org/carpe-diem/women-earned-the-majority-of-doctoral-degrees-in-2020-for-the-12th-straight-year-and-outnumber-men-in-grad-school-148-to-100/)
-- [Senators aim to block tech giants from prioritizing own products over rivals’](https://www.washingtonpost.com/technology/2021/10/14/klobuchar-grassley-antitrust-bill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
