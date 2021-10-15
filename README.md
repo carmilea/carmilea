@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Explore the most detailed map of the universe – EPFL Longread](https://longread.epfl.ch/en/dossier/virup/)
+- [“as_strided” and “sum” are all you need](https://jott.live/markdown/as_strided)
 - [Rutter (YC S19) is hiring engineers to build the data layer for ecommerce](https://rutterapi.notion.site/Software-Engineer-539dcb012094497794fd087e93d7929e)
 - [Productivity and Velocity](https://danluu.com/productivity-velocity/)
 - [How not to blow up the production database](https://blog.battlefy.com/how-not-to-blow-up-the-production-database-424c162dccc6?gi=8ec446ad5e47)
-- [Implementing form filling and accessibility in the Firefox PDF viewer](https://hacks.mozilla.org/2021/10/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/)
-- [The Lisp OS “Mezzano” Running Native on Librebooted ThinkPads](https://www.fitzsim.org/blog/?p=445)
 <!-- BLOG-POST-LIST:END -->
 
 ---
