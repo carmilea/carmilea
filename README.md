@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Can't Epic's AI model Detect Sepsis?](https://explainthispaper.com/external-validation-of-a-widely-implemented-proprietary-sepsis-prediction-model-in-hospitalized-patients/)
+- [Antiviral compound blocks SARS-CoV-2 from entering cells](https://medicine.wustl.edu/news/antiviral-compound-blocks-sars-cov-2-from-entering-cells/)
 - [Launch HN: Inflow (YC S21) – Self-help app for people with ADHD](https://news.ycombinator.com/item?id=28877003)
 - [StudyStream (YC S21) Is Hiring a Mobile App Developer iOS (Remote)](https://www.ycombinator.com/companies/studystream/jobs/On2eXOU-mobile-app-developer-ios)
 - [Privacy fears as Moscow metro rolls out facial recognition pay system](https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system)
-- [Students’ solar-powered camper van turns heads on 1,800-mile road trip](https://www.theguardian.com/environment/2021/oct/15/students-solar-powered-camper-van-turns-heads-on-1800-mile-road-trip)
-- [The Single-Page-App Morality Play](https://www.baldurbjarnason.com/2021/single-page-app-morality-play/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
