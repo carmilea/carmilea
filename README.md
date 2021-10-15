@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Can't Epic's AI model Detect Sepsis?](https://explainthispaper.com/external-validation-of-a-widely-implemented-proprietary-sepsis-prediction-model-in-hospitalized-patients/)
+- [M3O – An open source AWS alternative](https://github.com/m3o/m3o)
+- [How my ivermectin research led to Twitter death threats](https://www.theguardian.com/world/2021/oct/13/how-my-ivermectin-research-led-to-twitter-death-threats)
+- [PinePhone Pro Announced](https://www.pine64.org/pinephonepro/)
 - [Antiviral compound blocks SARS-CoV-2 from entering cells](https://medicine.wustl.edu/news/antiviral-compound-blocks-sars-cov-2-from-entering-cells/)
-- [Launch HN: Inflow (YC S21) – Self-help app for people with ADHD](https://news.ycombinator.com/item?id=28877003)
-- [StudyStream (YC S21) Is Hiring a Mobile App Developer iOS (Remote)](https://www.ycombinator.com/companies/studystream/jobs/On2eXOU-mobile-app-developer-ios)
-- [Privacy fears as Moscow metro rolls out facial recognition pay system](https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system)
+- [Diffusion Normalizing Flow](https://arxiv.org/abs/2110.07579)
 <!-- BLOG-POST-LIST:END -->
 
 ---
