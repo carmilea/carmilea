@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meat and mental health: Meat eaters suffer less depression, anxiety](https://www.tandfonline.com/doi/full/10.1080/10408398.2021.1974336)
-- [By 2500 earth could be alien to humans](https://www.mcgill.ca/channels/channels/news/2500-earth-could-be-alien-humans-334080)
-- [Covid super-immunity: one of the pandemic’s great puzzles](https://www.nature.com/articles/d41586-021-02795-x)
+- [Multiple vulnerabilities in WP Fastest Cache plugin](https://jetpack.com/2021/10/14/multiple-vulnerabilities-in-wp-fastest-cache-plugin/)
+- [Tesla officially launches its insurance using ‘real-time driving behavior’](https://electrek.co/2021/10/14/tesla-officially-launches-insurance-using-real-time-driving-behavior-texas/)
+- [Twitter is being sued for letting Saudi spies inside the company](https://www.protocol.com/bulletins/saudi-dissident-twitter-lawsuit-spies)
+- [Crystal 1.2.0 Is Released](https://crystal-lang.org/2021/10/14/1.2.0-released.html)
 - [Chemicals used in packaging may play role in 100k US deaths a year – study](https://www.theguardian.com/us-news/2021/oct/14/phthalates-deaths-older-americans-study-chemicals)
-- [Former Boeing 737 Max Chief Technical Pilot Indicted for Fraud](https://www.justice.gov/usao-ndtx/pr/former-boeing-737-max-chief-technical-pilot-indicted-fraud)
 <!-- BLOG-POST-LIST:END -->
 
 ---
