@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [V8 Release v9.6](https://v8.dev/blog/v8-release-96)
+- [New Zealand council ends contract with wizard after 23 years of service](https://www.theguardian.com/world/2021/oct/15/new-zealand-council-ends-contract-with-wizard-after-two-decades-of-service)
 - [OpenBSD Webzine Issue #2](https://webzine.puffy.cafe/issue-2.html)
 - [Carp – A statically typed Lisp, without a GC, for real-time applications](https://github.com/carp-lang/Carp)
 - [Habitable Software](http://akkartik.name/post/habitability)
-- [YJIT: Building a New JIT Compiler for CRuby](https://shopify.engineering/yjit-just-in-time-compiler-cruby)
-- [Create and share beautiful images of your source code](https://carbon.now.sh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
