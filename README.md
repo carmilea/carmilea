@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenBSD Webzine Issue #2](https://webzine.puffy.cafe/issue-2.html)
+- [Carp – A statically typed Lisp, without a GC, for real-time applications](https://github.com/carp-lang/Carp)
 - [Habitable Software](http://akkartik.name/post/habitability)
 - [YJIT: Building a New JIT Compiler for CRuby](https://shopify.engineering/yjit-just-in-time-compiler-cruby)
 - [Create and share beautiful images of your source code](https://carbon.now.sh/)
-- [Remote OK Open Startup](https://remoteok.io/open)
-- [The void in Calgary: How office towers emptied in a once bustling downtown](https://www.theglobeandmail.com/canada/alberta/article-the-void-in-calgary-how-office-towers-emptied-in-a-once-bustling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
