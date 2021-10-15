@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [M3O – An open source AWS alternative](https://github.com/m3o/m3o)
-- [How my ivermectin research led to Twitter death threats](https://www.theguardian.com/world/2021/oct/13/how-my-ivermectin-research-led-to-twitter-death-threats)
-- [PinePhone Pro Announced](https://www.pine64.org/pinephonepro/)
-- [Antiviral compound blocks SARS-CoV-2 from entering cells](https://medicine.wustl.edu/news/antiviral-compound-blocks-sars-cov-2-from-entering-cells/)
-- [Diffusion Normalizing Flow](https://arxiv.org/abs/2110.07579)
+- [Senators aim to block tech giants from prioritizing own products over rivals’](https://www.washingtonpost.com/technology/2021/10/14/klobuchar-grassley-antitrust-bill/)
+- [Cloudflare Uses HashiCorp Nomad](https://blog.cloudflare.com/how-we-use-hashicorp-nomad/)
+- [Speed Matters](https://scattered-thoughts.net/writing/speed-matters/)
+- [Army Delays $22B Augmented Reality Goggle Program](https://federalnewsnetwork.com/army/2021/10/army-delays-22-billion-augmented-reality-goggle-program/)
+- [Most Canadians believe Facebook harms their mental health](https://www.theglobeandmail.com/canada/article-most-canadians-believe-facebook-harms-their-mental-health-survey-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
