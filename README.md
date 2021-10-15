@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rutter (YC S19) is hiring engineers to build the data layer for ecommerce](https://rutterapi.notion.site/Software-Engineer-539dcb012094497794fd087e93d7929e)
+- [More Than Half a Million Health Care Workers Quit Their Jobs in August](https://www.newsweek.com/more-half-million-health-care-workers-quit-jobs-august-1638407)
 - [Productivity and Velocity](https://danluu.com/productivity-velocity/)
 - [How not to blow up the production database](https://blog.battlefy.com/how-not-to-blow-up-the-production-database-424c162dccc6?gi=8ec446ad5e47)
-- [Steam bans all blockchain and NFT games on its platform](https://www.theverge.com/2021/10/15/22728425/valve-steam-blockchain-nft-crypto-ban-games-age-of-rust)
 - [Implementing form filling and accessibility in the Firefox PDF viewer](https://hacks.mozilla.org/2021/10/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/)
-- [The Lisp OS “Mezzano” Running Native on Librebooted ThinkPads](https://www.fitzsim.org/blog/?p=445)
 <!-- BLOG-POST-LIST:END -->
 
 ---
