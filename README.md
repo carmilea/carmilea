@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A study of data collection by Android devices](https://lwn.net/Articles/872639/)
-- [Nomad vs. Kubernetes](https://www.nomadproject.io/docs/nomad-vs-kubernetes)
-- [V8 Release v9.6](https://v8.dev/blog/v8-release-96)
-- [New Zealand council ends contract with wizard after 23 years of service](https://www.theguardian.com/world/2021/oct/15/new-zealand-council-ends-contract-with-wizard-after-two-decades-of-service)
-- [OpenBSD Webzine Issue #2](https://webzine.puffy.cafe/issue-2.html)
+- [StudyStream (YC S21) Is Hiring a Mobile App Developer iOS (Remote)](https://www.ycombinator.com/companies/studystream/jobs/On2eXOU-mobile-app-developer-ios)
+- [Privacy fears as Moscow metro rolls out facial recognition pay system](https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system)
+- [Students’ solar-powered camper van turns heads on 1,800-mile road trip](https://www.theguardian.com/environment/2021/oct/15/students-solar-powered-camper-van-turns-heads-on-1800-mile-road-trip)
+- [The Single-Page-App Morality Play](https://www.baldurbjarnason.com/2021/single-page-app-morality-play/)
+- [How Animals Map 3D Spaces Surprises Brain Researchers](https://www.quantamagazine.org/how-animals-map-3d-spaces-surprises-brain-researchers-20211014/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
