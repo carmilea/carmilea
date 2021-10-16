@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Neutralizing antibodies from the B cells of 1918 influenza pandemic survivors](https://europepmc.org/article/PMC/PMC2848880)
+- [Wearable Microphone Jamming](http://sandlab.cs.uchicago.edu/jammer/)
+- [Redis Cluster Re-Implemented in Rust: Scaling Redis Easily in Kubernetes](https://github.com/doyoubi/undermoon)
 - [Theory of Computation ocw course (Sipser)](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/)
 - [Deepdive on USDT fraud: The GrantWilliams Podcast: BennettTomlin and GeorgeNoble](https://www.grant-williams.com/podcast/the-grant-williams-podcast-bennett-tomlin-george-noble/)
-- [The Complete Technical Guide for Adhesive Tape](https://www.echotape.com/blog/complete-technical-guide-adhesive-tape/)
-- [Apple fires leader of AppleToo movement](https://appleinsider.com/articles/21/10/15/apple-fires-leader-of-appletoo-movement)
+- [Louisville sawmill challenges perception about wages](https://cdispatch.com/opinions/2021-10-13/slimantics-louisville-sawmill-challenges-perception-about-wages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
