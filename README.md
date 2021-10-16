@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California Scrambles to Find Electricity to Offset Plant Closures](https://www.wsj.com/articles/california-scrambles-to-find-electricity-to-offset-plant-closures-11634376600)
+- [Teen Girls Are Developing Tics. Doctors Say TikTok Could Be a Factor](https://www.wsj.com/articles/teen-girls-are-developing-tics-doctors-say-tiktok-could-be-a-factor-11634389201)
+- [Show HN: Stormah, cloud notes stored in your own Git repo](https://stormah.com/)
+- [Researchers show Facebook’s ad tools can target a single user](https://techcrunch.com/2021/10/15/researchers-show-facebooks-ad-tools-can-target-a-single-user/)
+- [Canon sued for disabling scanner when printers run out of ink](https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/)
 - [Study Warns Android Phones from Samsung, Xiaomi and Others Are Spying on Users](https://hothardware.com/news/samsung-xiaomi-other-android-phones-spying-on-users)
-- [YC Founders at YC's Startup Career Expo on November 18th](https://www.workatastartup.com/events/startup-tech-expo-winter-2021)
-- [Ask HN: Best way to organize 100-200 emails/day in outlook](https://news.ycombinator.com/item?id=28887234)
-- [Gotify/server: A simple server for sending and receiving messages in real-time](https://github.com/gotify/server)
 <!-- BLOG-POST-LIST:END -->
 
 ---
