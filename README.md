@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple fires leader of AppleToo movement](https://appleinsider.com/articles/21/10/15/apple-fires-leader-of-appletoo-movement)
+- [Theory of Computation ocw course (Sipser)](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/)
 - [Louisville sawmill challenges perception about wages](https://cdispatch.com/opinions/2021-10-13/slimantics-louisville-sawmill-challenges-perception-about-wages/)
 - [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
 - [Minias – A mini x86-64 assembler for fun and learning](https://github.com/andrewchambers/minias)
