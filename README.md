@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Covid is the #1 killer of LEOs in 2020 and 2021](https://www.odmp.org/search/year?year=2021)
+- [Dislike button would improve Spotify's recommendations](https://news.cornell.edu/stories/2021/09/dislike-button-would-improve-spotifys-recommendations)
+- [Roguelike Celebration 2021](https://roguelike.club/event2021.html)
+- [Great Movies Each Written and Directed by the Same Person](https://moviewise.substack.com/p/fifteen-great-movies-each-written)
+- [Genode – Sculpt Operating System 21.10](https://genode.org/documentation/articles/sculpt-21-10)
 - [Implementing Hash Tables in C](https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1)
-- [Dendron (YC W21) Is Hiring React/TS Expert to Build Better Tools for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
-- [UK to put nuclear power at heart of net zero emissions strategy](https://www.ft.com/content/e6426194-21e6-49c4-9520-97c337b350fd)
-- [Ask HN: What's the fastest way to become employable in tech](https://news.ycombinator.com/item?id=28889090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
