@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Circle Medical (YC S15) is hiring fullstack engineers to reimagine primary care](https://www.ycombinator.com/companies/circle-medical/jobs/ZpIlsd7-fullstack-engineer-react-js-ruby-rails)
+- [Is my Facebook activity fcking my finances?](https://foundation.mozilla.org/en/blog/is-my-facebook-activity-fcking-my-finances-mozilla-explains-data-brokers/)
+- [Functional Algorithms, Verified](https://functional-algorithms-verified.org)
 - [Explore the most detailed map of the universe – EPFL Longread](https://longread.epfl.ch/en/dossier/virup/)
-- [“as_strided” and “sum” are all you need](https://jott.live/markdown/as_strided)
-- [Rutter (YC S19) is hiring engineers to build the data layer for ecommerce](https://rutterapi.notion.site/Software-Engineer-539dcb012094497794fd087e93d7929e)
-- [Productivity and Velocity](https://danluu.com/productivity-velocity/)
-- [How not to blow up the production database](https://blog.battlefy.com/how-not-to-blow-up-the-production-database-424c162dccc6?gi=8ec446ad5e47)
+- [Cortical Column Networks](https://thesmartrobot.github.io/2021/08/26/thousand-brains.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
