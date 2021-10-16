@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Corretto JDK](https://docs.aws.amazon.com/corretto/)
+- [Pirate Party member: GDPR-compliant Whois will lead to 'doxxing and death lists'](https://www.theregister.com/2021/10/15/eu_nis_directive_article_23_death_lists/)
+- [Declassified docs reveal truth about FBI’s contribution to Hemingway’s demise](https://www.history101.com/hemingway-fbi-declassified/)
 - [USC to apologize for WWII actions that derailed Japanese American students](https://www.latimes.com/california/story/2021-10-14/usc-apologizes-wwii-action-against-japanese-americans-offer-honorary-degrees)
-- [Ghost CEO lectures locked out customer about empathy](https://twitter.com/amyhoy/status/1449093879546843137)
 - [Path (YC S19) Is Hiring Founding Engineers to Automate Gen-Z Finance](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
-- [VirtualMEC – a free 3D CAD for MECCANO](http://www.virtualmec.com)
-- [Why nobody hires junior developers and what happens next](https://www.notonlycode.org/nobody-hires-juniors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
