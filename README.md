@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [USC to apologize for WWII actions that derailed Japanese American students](https://www.latimes.com/california/story/2021-10-14/usc-apologizes-wwii-action-against-japanese-americans-offer-honorary-degrees)
+- [Ghost CEO lectures locked out customer about empathy](https://twitter.com/amyhoy/status/1449093879546843137)
 - [Path (YC S19) Is Hiring Founding Engineers to Automate Gen-Z Finance](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
 - [VirtualMEC – a free 3D CAD for MECCANO](http://www.virtualmec.com)
 - [Why nobody hires junior developers and what happens next](https://www.notonlycode.org/nobody-hires-juniors/)
-- [Manipulation versus Communication](http://charltonteaching.blogspot.com/2021/09/what-is-meaning-of-establishment.html)
-- [Dislike button would improve Spotify's recommendations](https://news.cornell.edu/stories/2021/09/dislike-button-would-improve-spotifys-recommendations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
