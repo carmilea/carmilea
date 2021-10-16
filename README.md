@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Safely Think in Systems](https://lethain.com/how-to-safely-think-in-systems/)
+- [Show HN: Add a command-line interface to any C++ program](https://github.com/empirical-soft/command-interface)
+- [ADOP: Approximate Differentiable One-Pixel Point Rendering](https://arxiv.org/abs/2110.06635)
 - [Writesonic (YC S21) Is Looking for Founding Fullstack Engineer](https://www.ycombinator.com/companies/writesonic/jobs/x3TOSI1-founding-fullstack-engineer)
 - [Slowing Down, Yes, but to What?](https://alhambrapartners.com/2021/10/15/slowing-down-yes-but-to-what/)
-- [Deeper Than Pixels: A Reading List on Video Games](https://longreads.com/2021/10/07/deeper-than-pixels-a-reading-list-on-video-games/)
-- [The Reemergence of Style in Software](https://future.a16z.com/software-style-over-branding/)
-- [Wearable Microphone Jamming](http://sandlab.cs.uchicago.edu/jammer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
