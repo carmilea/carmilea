@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Teen Girls Are Developing Tics. Doctors Say TikTok Could Be a Factor](https://www.wsj.com/articles/teen-girls-are-developing-tics-doctors-say-tiktok-could-be-a-factor-11634389201)
-- [Show HN: Stormah, cloud notes stored in your own Git repo](https://stormah.com/)
-- [Researchers show Facebook’s ad tools can target a single user](https://techcrunch.com/2021/10/15/researchers-show-facebooks-ad-tools-can-target-a-single-user/)
-- [Canon sued for disabling scanner when printers run out of ink](https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/)
-- [Study Warns Android Phones from Samsung, Xiaomi and Others Are Spying on Users](https://hothardware.com/news/samsung-xiaomi-other-android-phones-spying-on-users)
+- [Dendron (YC W21) Is Hiring React/TS Expert to Build Better Tools for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
+- [US throws out millions of doses of Covid vaccine as world goes wanting](https://www.theguardian.com/world/2021/oct/16/us-throws-out-millions-doses-covid-vaccine-world-shortages)
+- [Is This True?](https://cards.jordanscales.com/is-this-true)
+- [A New Way to Learn Kanji](https://japanesecomplete.com/articles/?p=1512)
+- [Git Command Explorer](https://gitexplorer.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
