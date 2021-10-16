@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Path (YC S19) Is Hiring Founding Engineers to Automate Gen-Z Finance](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
+- [VirtualMEC – a free 3D CAD for MECCANO](http://www.virtualmec.com)
+- [Why nobody hires junior developers and what happens next](https://www.notonlycode.org/nobody-hires-juniors/)
+- [Manipulation versus Communication](http://charltonteaching.blogspot.com/2021/09/what-is-meaning-of-establishment.html)
 - [Dislike button would improve Spotify's recommendations](https://news.cornell.edu/stories/2021/09/dislike-button-would-improve-spotifys-recommendations)
-- [Roguelike Celebration 2021](https://roguelike.club/event2021.html)
-- [Great Movies Each Written and Directed by the Same Person](https://moviewise.substack.com/p/fifteen-great-movies-each-written)
-- [Genode – Sculpt Operating System 21.10](https://genode.org/documentation/articles/sculpt-21-10)
-- [Implementing Hash Tables in C](https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
