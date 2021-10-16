@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YC Founders at YC's Startup Career Expo on November 18th](https://www.workatastartup.com/events/startup-tech-expo-winter-2021)
+- [Mao Quotes on the Professional Managerial Class](https://twitter.com/Logo_Daedalus/status/1449204409850683394)
+- [Vienna museums open adult-only OnlyFans account to display nudes](https://www.theguardian.com/artanddesign/2021/oct/16/vienna-museums-open-adult-only-onlyfans-account-to-display-nudes)
+- [Ask HN: Is Anyone Here a Professional Baker?](https://news.ycombinator.com/item?id=28886933)
 - [Cracking Random Number Generators Using Machine Learning](https://research.nccgroup.com/2021/10/15/cracking-random-number-generators-using-machine-learning-part-1-xorshift128/)
-- [Kanidm: A simple, secure and fast identity management platform](https://github.com/kanidm/kanidm)
-- [How to Safely Think in Systems](https://lethain.com/how-to-safely-think-in-systems/)
-- [Show HN: Add a command-line interface to any C++ program](https://github.com/empirical-soft/command-interface)
-- [ADOP: Approximate Differentiable One-Pixel Point Rendering](https://arxiv.org/abs/2110.06635)
 <!-- BLOG-POST-LIST:END -->
 
 ---
