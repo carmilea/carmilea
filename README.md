@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Hash Tables in C](https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1)
+- [Francis Fukuyama’s Defense of Liberalism](https://www.persuasion.community/p/fukuyama)
 - [Dendron (YC W21) Is Hiring React/TS Expert to Build Better Tools for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
-- [US throws out millions of doses of Covid vaccine as world goes wanting](https://www.theguardian.com/world/2021/oct/16/us-throws-out-millions-doses-covid-vaccine-world-shortages)
-- [Is This True?](https://cards.jordanscales.com/is-this-true)
-- [A New Way to Learn Kanji](https://japanesecomplete.com/articles/?p=1512)
+- [UK to put nuclear power at heart of net zero emissions strategy](https://www.ft.com/content/e6426194-21e6-49c4-9520-97c337b350fd)
 - [Git Command Explorer](https://gitexplorer.com/)
 <!-- BLOG-POST-LIST:END -->
 
