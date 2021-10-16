@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Neutralizing antibodies from the B cells of 1918 influenza pandemic survivors](https://europepmc.org/article/PMC/PMC2848880)
 - [Theory of Computation ocw course (Sipser)](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/)
-- [Louisville sawmill challenges perception about wages](https://cdispatch.com/opinions/2021-10-13/slimantics-louisville-sawmill-challenges-perception-about-wages/)
-- [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
-- [Minias – A mini x86-64 assembler for fun and learning](https://github.com/andrewchambers/minias)
-- [Circle Medical (YC S15) is hiring fullstack engineers to reimagine primary care](https://www.ycombinator.com/companies/circle-medical/jobs/ZpIlsd7-fullstack-engineer-react-js-ruby-rails)
+- [Deepdive on USDT fraud: The GrantWilliams Podcast: BennettTomlin and GeorgeNoble](https://www.grant-williams.com/podcast/the-grant-williams-podcast-bennett-tomlin-george-noble/)
+- [The Complete Technical Guide for Adhesive Tape](https://www.echotape.com/blog/complete-technical-guide-adhesive-tape/)
+- [Apple fires leader of AppleToo movement](https://appleinsider.com/articles/21/10/15/apple-fires-leader-of-appletoo-movement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
