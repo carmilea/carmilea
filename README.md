@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Writesonic (YC S21) Is Looking for Founding Fullstack Engineer](https://www.ycombinator.com/companies/writesonic/jobs/x3TOSI1-founding-fullstack-engineer)
+- [Deeper Than Pixels: A Reading List on Video Games](https://longreads.com/2021/10/07/deeper-than-pixels-a-reading-list-on-video-games/)
 - [Wearable Microphone Jamming](http://sandlab.cs.uchicago.edu/jammer/)
 - [Redis Cluster Re-Implemented in Rust: Scaling Redis Easily in Kubernetes](https://github.com/doyoubi/undermoon)
 - [Theory of Computation ocw course (Sipser)](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/)
-- [Deepdive on USDT fraud: The GrantWilliams Podcast: BennettTomlin and GeorgeNoble](https://www.grant-williams.com/podcast/the-grant-williams-podcast-bennett-tomlin-george-noble/)
-- [Louisville sawmill challenges perception about wages](https://cdispatch.com/opinions/2021-10-13/slimantics-louisville-sawmill-challenges-perception-about-wages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
