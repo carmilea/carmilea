@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
+- [Minias – A mini x86-64 assembler for fun and learning](https://github.com/andrewchambers/minias)
 - [Circle Medical (YC S15) is hiring fullstack engineers to reimagine primary care](https://www.ycombinator.com/companies/circle-medical/jobs/ZpIlsd7-fullstack-engineer-react-js-ruby-rails)
-- [Is my Facebook activity fcking my finances?](https://foundation.mozilla.org/en/blog/is-my-facebook-activity-fcking-my-finances-mozilla-explains-data-brokers/)
 - [Functional Algorithms, Verified](https://functional-algorithms-verified.org)
 - [Explore the most detailed map of the universe – EPFL Longread](https://longread.epfl.ch/en/dossier/virup/)
-- [Cortical Column Networks](https://thesmartrobot.github.io/2021/08/26/thousand-brains.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
