@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK Home Secretary considering removing right to anonymity on social media](https://www.independent.co.uk/news/uk/politics/priti-patel-david-amess-social-media-b1939775.html)
+- [Roger Hui has passed away](http://jsoftware.com/pipermail/programming/2021-October/059091.html)
+- [Why not “Why not WireGuard?”](https://tailscale.com/blog/why-not-why-not-wireguard/)
 - [Fly.io (YC W20) is hiring technical writers](https://fly.io/blog/fly-io-is-hiring-technical-writers/)
 - [New Startup to find Companies using Technologies you Love](https://techmap.io/)
-- [“With HTTP, you search for locations. With IPFS, you search for content.” (2015)](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html)
-- [Remote sensing shows Antarctic green snow algae is important terran carbon sink](https://www.nature.com/articles/s41467-020-16018-w)
-- [The booming business of knitting together the world’s electricity grids](https://www.economist.com/business/2021/10/16/the-booming-business-of-knitting-together-the-worlds-electricity-grids)
 <!-- BLOG-POST-LIST:END -->
 
 ---
