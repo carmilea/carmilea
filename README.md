@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [UK Home Secretary considering removing right to anonymity on social media](https://www.independent.co.uk/news/uk/politics/priti-patel-david-amess-social-media-b1939775.html)
 - [Roger Hui has passed away](http://jsoftware.com/pipermail/programming/2021-October/059091.html)
-- [Why not “Why not WireGuard?”](https://tailscale.com/blog/why-not-why-not-wireguard/)
+- [Why not “Why not WireGuard?” (2020)](https://tailscale.com/blog/why-not-why-not-wireguard/)
 - [Fly.io (YC W20) is hiring technical writers](https://fly.io/blog/fly-io-is-hiring-technical-writers/)
 - [New Startup to find Companies using Technologies you Love](https://techmap.io/)
 <!-- BLOG-POST-LIST:END -->
