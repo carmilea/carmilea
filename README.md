@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software developers have stopped caring about reliability](https://drewdevault.com/2021/10/17/Reliability.html)
+- [Notion interview with Alan Kay: On context and catalysts of personal computing](https://www.notion.so/blog/alan-kay)
 - [Automatic CPU speed and power optimizer for Linux](https://github.com/AdnanHodzic/auto-cpufreq)
 - [Joybubbles](https://en.wikipedia.org/wiki/Joybubbles)
 - [AnalogueOS, the “Library of Alexandria of video games.”](https://www.analogue.co/os)
-- [An underwater mystery on Canada's coast](https://www.bbc.com/travel/article/20211013-an-underwater-mystery-on-canadas-coast)
-- [Bisqwit: YouTube Deletes Your Comment](https://www.youtube.com/watch?v=PVlobDyTqeY)
 <!-- BLOG-POST-LIST:END -->
 
 ---
