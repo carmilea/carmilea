@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups are betting on a psychedelic gold rush](https://www.vox.com/recode/22716491/psychedelics-ketamine-mental-health-research-fda)
 - [Gold Fig Labs (YC S19) is hiring our founding engineering to make devsecops easy](https://www.goldfiglabs.com/team/)
+- [Lightning-fast rebases with Git-move](https://blog.waleedkhan.name/in-memory-rebases/)
 - [NixOS on Framework Laptop](http://kvark.github.io/linux/framework/2021/10/17/framework-nixos.html)
-- [Roger Hui has passed away](http://jsoftware.com/pipermail/programming/2021-October/059091.html)
-- [Why not “Why not WireGuard?” (2020)](https://tailscale.com/blog/why-not-why-not-wireguard/)
-- [New Startup to find Companies using Technologies you Love](https://techmap.io/)
+- [Roger Hui has died](http://jsoftware.com/pipermail/programming/2021-October/059091.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
