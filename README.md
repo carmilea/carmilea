@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Automatic CPU speed and power optimizer for Linux](https://github.com/AdnanHodzic/auto-cpufreq)
-- [Joe Manchin's Dirty Empire](https://theintercept.com/2021/09/03/joe-manchin-coal-fossil-fuels-pollution/)
 - [Joybubbles](https://en.wikipedia.org/wiki/Joybubbles)
 - [AnalogueOS, the “Library of Alexandria of video games.”](https://www.analogue.co/os)
 - [An underwater mystery on Canada's coast](https://www.bbc.com/travel/article/20211013-an-underwater-mystery-on-canadas-coast)
+- [Bisqwit: YouTube Deletes Your Comment](https://www.youtube.com/watch?v=PVlobDyTqeY)
 <!-- BLOG-POST-LIST:END -->
 
 ---
