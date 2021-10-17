@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla's Musk invited to a video call into Volkswagen executive conference](https://www.reuters.com/article/volkswagen-tesla-video-call-idUSKBN2H60CF)
+- [Netflix's new player is an open web nightmare](https://plopdown.video/blog/netflix-open-web-failure)
+- [It's been 42 years since 'The Hitchhiker's Guide' answered the ultimate question](https://www.npr.org/2021/10/17/1046593657/its-been-42-years-since-the-hitchhikers-guide-answered-the-ultimate-question)
+- [Physicists take a key step in correcting quantum computer errors](https://www.science.org/content/article/physicists-take-key-step-correcting-quantum-computer-errors)
 - [Facebook is researching AI systems that see, hear, remember everything you do](https://www.theverge.com/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research)
-- [Selective abortion in India could lead to 6.8m fewer girls being born by 2030](https://www.theguardian.com/global-development/2020/aug/21/selective-abortion-in-india-could-lead-to-68m-fewer-girls-being-born-by-2030)
-- [The Great Re-Evaluation – Robert Reich](https://robertreich.substack.com/p/the-great-re-evaluation)
-- [Ask a Librarian](https://ask.loc.gov/)
+- [Show HN: Vizzu – Open-source charting library focused on animating charts](https://lib.vizzuhq.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
