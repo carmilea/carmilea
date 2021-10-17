@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An underwater mystery on Canada's coast](https://www.bbc.com/travel/article/20211013-an-underwater-mystery-on-canadas-coast)
+- [Bisqwit: YouTube Deletes Your Comment](https://www.youtube.com/watch?v=PVlobDyTqeY)
 - [Tesla FSD Beta Barely Avoids Crashing into Pole](https://twitter.com/BS__Exposed/status/1449158254081290242)
-- [Weird Soviet devices cure diseases](https://www.rbth.com/lifestyle/334310-soviet-devices-physiotherapy)
 - [The unsolved mystery of the Earth blobs (2019)](https://eos.org/features/the-unsolved-mystery-of-the-earth-blobs)
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28893073)
-- [New wave of strikes will test worker power](https://www.axios.com/new-wave-of-strikes-worker-power-07f5df47-8825-4e76-a951-c8812d686d94.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
