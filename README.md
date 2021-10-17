@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Startup to find Companies using Technologies you Love](https://techmap.io/)
+- [“With HTTP, you search for locations. With IPFS, you search for content.”](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html)
 - [Remote sensing shows Antarctic green snow algae is important terran carbon sink](https://www.nature.com/articles/s41467-020-16018-w)
 - [The booming business of knitting together the world’s electricity grids](https://www.economist.com/business/2021/10/16/the-booming-business-of-knitting-together-the-worlds-electricity-grids)
 - [Netflix's new player breaks the ability to modify the seeking of a playing video](https://plopdown.video/blog/netflix-open-web-failure)
-- [It's been 42 years since 'The Hitchhiker's Guide' answered the ultimate question](https://www.npr.org/2021/10/17/1046593657/its-been-42-years-since-the-hitchhikers-guide-answered-the-ultimate-question)
-- [Why Not WireGuard (2020)](https://blog.ipfire.org/post/why-not-wireguard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
