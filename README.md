@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The unsolved mystery of the Earth blobs](https://eos.org/features/the-unsolved-mystery-of-the-earth-blobs)
+- [On Democracy as a Necessary Anarchist Value](https://c4ss.org/content/49295)
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28893073)
-- [The JavaScript ecosystem is a hot mess and so is software development in general](https://nadh.in/blog/javascript-ecosystem-software-development-are-a-hot-mess/)
-- [Affluent Americans Rush to Retire in New ‘Life-Is-Short’ Mindset](https://www.bloomberg.com/news/articles/2021-04-30/more-americans-are-considering-retirement-because-of-covid)
-- [The Fugate Family of Kentucky Has Had Blue Skin for Centuries – Here’s Why](https://allthatsinteresting.com/fugate-family-blue-people-of-kentucky)
-- [Show HN: Think Like a Bot – Guess labels applied by AI to random images](https://www.thinklikeabot.com/)
+- [New wave of strikes will test worker power](https://www.axios.com/new-wave-of-strikes-worker-power-07f5df47-8825-4e76-a951-c8812d686d94.html)
+- [More Americans are considering retirement](https://www.bloomberg.com/news/articles/2021-04-30/more-americans-are-considering-retirement-because-of-covid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
