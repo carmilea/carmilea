@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fly.io (YC W20) is hiring technical writers](https://fly.io/blog/fly-io-is-hiring-technical-writers/)
 - [New Startup to find Companies using Technologies you Love](https://techmap.io/)
-- [“With HTTP, you search for locations. With IPFS, you search for content.”](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html)
+- [“With HTTP, you search for locations. With IPFS, you search for content.” (2015)](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html)
 - [Remote sensing shows Antarctic green snow algae is important terran carbon sink](https://www.nature.com/articles/s41467-020-16018-w)
 - [The booming business of knitting together the world’s electricity grids](https://www.economist.com/business/2021/10/16/the-booming-business-of-knitting-together-the-worlds-electricity-grids)
-- [Netflix's new player breaks the ability to modify the seeking of a playing video](https://plopdown.video/blog/netflix-open-web-failure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
