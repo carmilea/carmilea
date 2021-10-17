@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Startups are betting on a psychedelic gold rush](https://www.vox.com/recode/22716491/psychedelics-ketamine-mental-health-research-fda)
-- [Gold Fig Labs (YC S19) is hiring our founding engineering to make devsecops easy](https://www.goldfiglabs.com/team/)
-- [Lightning-fast rebases with Git-move](https://blog.waleedkhan.name/in-memory-rebases/)
-- [NixOS on Framework Laptop](http://kvark.github.io/linux/framework/2021/10/17/framework-nixos.html)
-- [Roger Hui has died](http://jsoftware.com/pipermail/programming/2021-October/059091.html)
+- [Fixed Point Arithmetic](https://vha3.github.io/FixedPoint/FixedPoint.html)
+- [Travel on Airless Worlds (2014)](http://hopsblog-hop.blogspot.com/2014/06/travel-on-airless-worlds.html)
+- [‘The Billion Dollar Code’: Developers Who Sued Over Google Earth Algorithm](https://decider.com/2021/10/07/the-billion-dollar-code-netflix-review/)
+- [Gold Fig Labs (YC S19) is hiring founding engineers to make devsecops easy](https://www.goldfiglabs.com/team/)
+- [Fast rebases with git-move](https://blog.waleedkhan.name/in-memory-rebases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
