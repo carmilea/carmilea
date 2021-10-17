@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The unsolved mystery of the Earth blobs](https://eos.org/features/the-unsolved-mystery-of-the-earth-blobs)
-- [On Democracy as a Necessary Anarchist Value](https://c4ss.org/content/49295)
+- [Tesla FSD Beta Barely Avoids Crashing into Pole](https://twitter.com/BS__Exposed/status/1449158254081290242)
+- [Weird Soviet devices cure diseases](https://www.rbth.com/lifestyle/334310-soviet-devices-physiotherapy)
+- [The unsolved mystery of the Earth blobs (2019)](https://eos.org/features/the-unsolved-mystery-of-the-earth-blobs)
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28893073)
 - [New wave of strikes will test worker power](https://www.axios.com/new-wave-of-strikes-worker-power-07f5df47-8825-4e76-a951-c8812d686d94.html)
-- [What Richard Feynman’s PhD Thesis Looks Like: A Video Introduction (2020)](https://www.openculture.com/2020/04/this-is-what-richard-feynmans-phd-thesis-looks-like-a-video-introduction.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
