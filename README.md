@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix's new player is an open web nightmare](https://plopdown.video/blog/netflix-open-web-failure)
+- [Remote sensing shows Antarctic green snow algae is important terran carbon sink](https://www.nature.com/articles/s41467-020-16018-w)
+- [The booming business of knitting together the world’s electricity grids](https://www.economist.com/business/2021/10/16/the-booming-business-of-knitting-together-the-worlds-electricity-grids)
+- [Netflix's new player breaks the ability to modify the seeking of a playing video](https://plopdown.video/blog/netflix-open-web-failure)
 - [It's been 42 years since 'The Hitchhiker's Guide' answered the ultimate question](https://www.npr.org/2021/10/17/1046593657/its-been-42-years-since-the-hitchhikers-guide-answered-the-ultimate-question)
-- [Physicists take a key step in correcting quantum computer errors](https://www.science.org/content/article/physicists-take-key-step-correcting-quantum-computer-errors)
-- [Facebook is researching AI systems that see, hear, remember everything you do](https://www.theverge.com/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research)
-- [Show HN: Vizzu – Open-source charting library focused on animating charts](https://lib.vizzuhq.com/)
+- [Why Not WireGuard (2020)](https://blog.ipfire.org/post/why-not-wireguard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
