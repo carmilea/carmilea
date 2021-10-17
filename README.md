@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Great Re-Evaluation – Robert Reich](https://robertreich.substack.com/p/the-great-re-evaluation)
+- [Chums (YC W21) Is Hiring a Lead Designer and a Back End Engineer](https://chumsco.notion.site/chumsco/Come-Work-Chums-d4788a53d8ee4820891e2ae7fa156120)
+- [Apparently, it's the next big thing. What is the metaverse?](https://www.bbc.co.uk/news/technology-58749529)
 - [Go: Don't Change the Libraries in 1.18](https://github.com/golang/go/issues/48918)
-- [The Ideal Economy](https://habr.com/en/post/583884/)
-- [UK spies incited mass murder of Indonesia’s communists](https://www.theguardian.com/world/2021/oct/17/revealed-how-uk-spies-incited-mass-of-indonesias-communists)
-- [Notion interview with Alan Kay: On context and catalysts of personal computing](https://www.notion.so/blog/alan-kay)
-- [A second brain, for you, forever](https://obsidian.md/)
+- [Because wrong storytelling – Why Mathematics Is Boring (John C. Baez,2007) [pdf]](https://math.ucr.edu/home/baez/boring.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
