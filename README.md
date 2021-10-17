@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Corretto JDK](https://docs.aws.amazon.com/corretto/)
-- [Pirate Party member: GDPR-compliant Whois will lead to 'doxxing and death lists'](https://www.theregister.com/2021/10/15/eu_nis_directive_article_23_death_lists/)
-- [Declassified docs reveal truth about FBI’s contribution to Hemingway’s demise](https://www.history101.com/hemingway-fbi-declassified/)
-- [USC to apologize for WWII actions that derailed Japanese American students](https://www.latimes.com/california/story/2021-10-14/usc-apologizes-wwii-action-against-japanese-americans-offer-honorary-degrees)
-- [Path (YC S19) Is Hiring Founding Engineers to Automate Gen-Z Finance](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28893073)
+- [The JavaScript ecosystem is a hot mess and so is software development in general](https://nadh.in/blog/javascript-ecosystem-software-development-are-a-hot-mess/)
+- [Affluent Americans Rush to Retire in New ‘Life-Is-Short’ Mindset](https://www.bloomberg.com/news/articles/2021-04-30/more-americans-are-considering-retirement-because-of-covid)
+- [The Fugate Family of Kentucky Has Had Blue Skin for Centuries – Here’s Why](https://allthatsinteresting.com/fugate-family-blue-people-of-kentucky)
+- [Show HN: Think Like a Bot – Guess labels applied by AI to random images](https://www.thinklikeabot.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
