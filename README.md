@@ -55,7 +55,7 @@
 - [On Democracy as a Necessary Anarchist Value](https://c4ss.org/content/49295)
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28893073)
 - [New wave of strikes will test worker power](https://www.axios.com/new-wave-of-strikes-worker-power-07f5df47-8825-4e76-a951-c8812d686d94.html)
-- [More Americans are considering retirement](https://www.bloomberg.com/news/articles/2021-04-30/more-americans-are-considering-retirement-because-of-covid)
+- [What Richard Feynman’s PhD Thesis Looks Like: A Video Introduction (2020)](https://www.openculture.com/2020/04/this-is-what-richard-feynmans-phd-thesis-looks-like-a-video-introduction.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
