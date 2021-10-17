@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How a massacre of Algerians in Paris was covered up](https://www.bbc.co.uk/news/world-africa-58927939)
+- [Go: Don't Change the Libraries in 1.18](https://github.com/golang/go/issues/48918)
 - [The Ideal Economy](https://habr.com/en/post/583884/)
-- [Slaughter in Indonesia: Britain’s propaganda war](https://www.theguardian.com/world/2021/oct/17/slaughter-in-indonesia-britains-secret-propaganda-war)
+- [UK spies incited mass murder of Indonesia’s communists](https://www.theguardian.com/world/2021/oct/17/revealed-how-uk-spies-incited-mass-of-indonesias-communists)
 - [Notion interview with Alan Kay: On context and catalysts of personal computing](https://www.notion.so/blog/alan-kay)
 - [A second brain, for you, forever](https://obsidian.md/)
 <!-- BLOG-POST-LIST:END -->
