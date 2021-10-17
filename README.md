@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla's Musk invited to a video call into Volkswagen executive conference](https://www.reuters.com/article/volkswagen-tesla-video-call-idUSKBN2H60CF)
+- [Facebook is researching AI systems that see, hear, remember everything you do](https://www.theverge.com/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research)
+- [Selective abortion in India could lead to 6.8m fewer girls being born by 2030](https://www.theguardian.com/global-development/2020/aug/21/selective-abortion-in-india-could-lead-to-68m-fewer-girls-being-born-by-2030)
 - [The Great Re-Evaluation – Robert Reich](https://robertreich.substack.com/p/the-great-re-evaluation)
-- [Chums (YC W21) Is Hiring a Lead Designer and a Back End Engineer](https://chumsco.notion.site/chumsco/Come-Work-Chums-d4788a53d8ee4820891e2ae7fa156120)
-- [Apparently, it's the next big thing. What is the metaverse?](https://www.bbc.co.uk/news/technology-58749529)
-- [Go: Don't Change the Libraries in 1.18](https://github.com/golang/go/issues/48918)
-- [Because wrong storytelling – Why Mathematics Is Boring (John C. Baez,2007) [pdf]](https://math.ucr.edu/home/baez/boring.pdf)
+- [Ask a Librarian](https://ask.loc.gov/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
