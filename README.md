@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I get abuse and threats online – why can't it be stopped?](https://www.bbc.co.uk/news/uk-58924168)
 - [Is it time to rewrite the Operating System in Rust? – Bryan Cantrill (2018)](https://www.youtube.com/watch?v=HgtRAbE1nBM)
-- [Airbnb removes 80 percent of ads in Amsterdam after registration obligation](https://www.ruetir.com/2021/10/18/airbnb-removes-more-than-three-quarters-of-advertisements-in-amsterdam-after-registration-obligation/)
+- [Airbnb removes 80% of advertisements in Amsterdam after registration obligation](https://www.ruetir.com/2021/10/18/airbnb-removes-more-than-three-quarters-of-advertisements-in-amsterdam-after-registration-obligation/)
 - [OpenMW: Open-source reimplementation of TES3 Morrowind](https://github.com/OpenMW/openmw)
 - [Privacy Redirect: Redirects browser requests to privacy-friendly alternatives](https://github.com/SimonBrazell/privacy-redirect)
-- [Turing Complete is a game about computer science](https://turingcomplete.game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
