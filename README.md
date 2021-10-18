@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Litnerd (YC S21) Is Hiring Senior Full Stack Developer](https://bookface.ycombinator.com/company/24558/jobs/44838/edit)
+- [Building on soil in Big Sandy: Regenerative organic farming in rural Montana](https://montanafreepress.org/2021/10/14/building-on-soil-in-big-sandy-regenerative-organic-agriculture/)
 - [Show HN: Simple access to your music from the web](https://github.com/DusteDdk/dstream)
-- [No ink, no scan: Canon USA printers hit with class-action suit](https://www.zdnet.com/article/untrustworthy-canon-printer-lawsuit/)
 - [Expensify S-1](https://www.sec.gov/Archives/edgar/data/1476840/000162828021020115/expensifys-1.htm)
-- [Stop Equating “Science” with Truth (2017)](https://slate.com/technology/2017/08/evolutionary-psychology-is-the-most-obvious-example-of-how-science-is-flawed.html)
 - [MacBook Pro 14-inch and MacBook Pro 16-inch](https://www.apple.com/macbook-pro-14-and-16/)
 <!-- BLOG-POST-LIST:END -->
 
