@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Before Pong, There Was Computer Space](https://thereader.mitpress.mit.edu/before-pong-there-was-computer-space/)
+- [What every software engineer should know about search](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d)
 - [Thank HN: 7 years and $7M later, it all started right here](https://news.ycombinator.com/item?id=28902215)
 - [Seashells: Pipe output from command-line programs to the web in real-time](https://seashells.io/)
 - [Manifold: Java typesafe metaprogramming with IDE support by abusing the compiler](http://manifold.systems/)
-- [Pop OS – System76](https://pop.system76.com/)
-- [Awesome-loginless: internet services that don't require registrations](https://github.com/fiatjaf/awesome-loginless)
 <!-- BLOG-POST-LIST:END -->
 
 ---
