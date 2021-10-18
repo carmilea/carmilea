@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Litnerd (YC S21) Is Hiring Senior Full Stack Developer](https://bookface.ycombinator.com/company/24558/jobs/44838/edit)
+- [Ambition (YC W14) Is Hiring Python Engineers and a QA Analyst](https://ambition.com/careers/)
+- [Physicists make most precise measurement ever of neutron’s lifetime](https://www.nature.com/articles/d41586-021-02812-z)
+- [My indoor rowing tips after 15M meters](https://onlyrss.org/posts/my-rowing-tips-after-15-million-meters.html)
+- [Conspiracy Theories and Religion: Reframing Conspiracy Theories as Bliks](https://www.cambridge.org/core/journals/episteme/article/abs/conspiracy-theories-and-religion-reframing-conspiracy-theories-as-bliks/5C6A020BDEEC2BFB3189120A15CFCB73)
 - [Building on soil in Big Sandy: Regenerative organic farming in rural Montana](https://montanafreepress.org/2021/10/14/building-on-soil-in-big-sandy-regenerative-organic-agriculture/)
-- [Show HN: Simple access to your music from the web](https://github.com/DusteDdk/dstream)
-- [Expensify S-1](https://www.sec.gov/Archives/edgar/data/1476840/000162828021020115/expensifys-1.htm)
-- [MacBook Pro 14-inch and MacBook Pro 16-inch](https://www.apple.com/macbook-pro-14-and-16/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
