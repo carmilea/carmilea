@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In the Shadow of the Great War](https://rootsofprogress.org/in-the-shadow-of-the-great-war)
+- [Backblaze S-1 IPO](https://www.sec.gov/Archives/edgar/data/1462056/000119312521301141/d62601ds1.htm)
+- [Johns Hopkins Receives 1st Fed. Grant 4 Psychedelic Treatment Research in 50 Yrs](https://www.hopkinsmedicine.org/news/newsroom/news-releases/johns-hopkins-medicine-receives-first-federal-grant-for-psychedelic-treatment-research-in-50-years)
 - [Ambition (YC W14) Is Hiring Python Engineers and a QA Analyst](https://ambition.com/careers/)
 - [Physicists make most precise measurement ever of neutron’s lifetime](https://www.nature.com/articles/d41586-021-02812-z)
-- [My indoor rowing tips after 15M meters](https://onlyrss.org/posts/my-rowing-tips-after-15-million-meters.html)
-- [Conspiracy Theories and Religion: Reframing Conspiracy Theories as Bliks](https://www.cambridge.org/core/journals/episteme/article/abs/conspiracy-theories-and-religion-reframing-conspiracy-theories-as-bliks/5C6A020BDEEC2BFB3189120A15CFCB73)
-- [Building on soil in Big Sandy: Regenerative organic farming in rural Montana](https://montanafreepress.org/2021/10/14/building-on-soil-in-big-sandy-regenerative-organic-agriculture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
