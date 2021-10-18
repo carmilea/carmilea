@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What =delete means](https://quuxplusone.github.io/blog/2021/10/17/equals-delete-means/)
-- [Unflow (YC S19) Is Hiring iOS Engineer to Join Early Monzo and Intercom Team](https://www.ycombinator.com/companies/unflow/jobs/xY3DJ1O-ios-engineer)
-- [Show HN: Dev's Full Stack Nightmare (an accurate representation)](https://sleepy-meadow-72878.herokuapp.com/)
-- [The race to grab all the UK’s lithium before it’s too late](https://www.wired.co.uk/article/cornwall-lithium)
-- [Usbimager – A non-electron based alternative to Balena Etcher](https://gitlab.com/bztsrc)
+- [The wealthiest 10% of Americans own a record 89% of all U.S. stocks](https://www.cnbc.com/2021/10/18/the-wealthiest-10percent-of-americans-own-a-record-89percent-of-all-us-stocks.html)
+- [Binance just transferred 6B Tethers to an unknown address](https://twitter.com/whale_alert/status/1450005292599726083)
+- [Lake Tahoe hits a critically low water threshold](https://www.sfgate.com/renotahoe/article/Lake-Tahoe-drought-water-rim-algae-16533020.php)
+- [First model released by BigScience outperforms GPT-3 while being 16x smaller](https://huggingface.co/bigscience/T0pp)
+- [Arthritis drug that cost $198 in 2008 is now more than $10k](https://www.axios.com/indocin-suppository-drug-prices-assertio-zyla-egalet-3278e307-d900-475c-92c9-8e5ff828a7da.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
