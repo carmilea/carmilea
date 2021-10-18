@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbnb removes 80 percent of ads in Amsterdam after registration obligation](https://www.ruetir.com/2021/10/18/airbnb-removes-more-than-three-quarters-of-advertisements-in-amsterdam-after-registration-obligation/)
+- [Privacy Redirect: Redirects browser requests to privacy-friendly alternatives](https://github.com/SimonBrazell/privacy-redirect)
+- [At Axel Springer, Politico’s New Owner, Allegations of Sex, Lies, Secret Payment](https://www.nytimes.com/2021/10/17/business/media/axel-springer-bild-julian-reichelt.html)
+- [Turing Complete is a game about computer science](https://turingcomplete.game/)
 - [Before Pong, There Was Computer Space](https://thereader.mitpress.mit.edu/before-pong-there-was-computer-space/)
-- [What every software engineer should know about search](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d)
-- [Thank HN: 7 years and $7M later, it all started right here](https://news.ycombinator.com/item?id=28902215)
-- [The Go+ language for engineering, STEM education, and data science](https://github.com/goplus/gop)
-- [Seashells: Pipe output from command-line programs to the web in real-time](https://seashells.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
