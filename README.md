@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook will count one person as two on its platform](https://www.indiehackers.com/post/facebook-will-count-one-person-as-two-on-its-platform-03784c81f6)
+- [Code CAD – Use code to create CAD models](https://cadhub.xyz/u/caterpillar/moving_fish/ide)
+- [My Framework for Building Side Projects as a Solo Developer](https://raumet.com/framework)
+- [DeepMind open-sourcing MuJoCo simulator](https://deepmind.com/blog/announcements/mujoco)
 - [The wealthiest 10% of Americans own a record 89% of all U.S. stocks](https://www.cnbc.com/2021/10/18/the-wealthiest-10percent-of-americans-own-a-record-89percent-of-all-us-stocks.html)
-- [Binance just transferred 6B Tethers to an unknown address](https://twitter.com/whale_alert/status/1450005292599726083)
-- [Lake Tahoe hits a critically low water threshold](https://www.sfgate.com/renotahoe/article/Lake-Tahoe-drought-water-rim-algae-16533020.php)
-- [First model released by BigScience outperforms GPT-3 while being 16x smaller](https://huggingface.co/bigscience/T0pp)
-- [Arthritis drug that cost $198 in 2008 is now more than $10k](https://www.axios.com/indocin-suppository-drug-prices-assertio-zyla-egalet-3278e307-d900-475c-92c9-8e5ff828a7da.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
