@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-driving Waymo cars clog up dead-end San Francisco street](https://www.bbc.com/news/technology-58928706)
+- [Sinclair TV stations disrupted across the US in apparent ransomware attack](https://therecord.media/sinclair-tv-stations-disrupted-across-the-us-in-apparent-ransomware-attack/)
+- [L0phtCrack Is Now Open Source](https://l0phtcrack.gitlab.io/)
+- [Of Scarface and the Nobel – The Double Life of Mariel](https://adamtooze.com/2021/10/12/chartbook-45-of-scarface-the-nobel-the-double-life-of-mariel/)
 - [Fixed Point Arithmetic](https://vha3.github.io/FixedPoint/FixedPoint.html)
-- [Travel on Airless Worlds (2014)](http://hopsblog-hop.blogspot.com/2014/06/travel-on-airless-worlds.html)
-- [‘The Billion Dollar Code’: Developers Who Sued Over Google Earth Algorithm](https://decider.com/2021/10/07/the-billion-dollar-code-netflix-review/)
-- [Gold Fig Labs (YC S19) is hiring founding engineers to make devsecops easy](https://www.goldfiglabs.com/team/)
-- [Fast rebases with git-move](https://blog.waleedkhan.name/in-memory-rebases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
