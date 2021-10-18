@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MindsDB (YC W20) Is Hiring](https://www.ycombinator.com/companies/mindsdb/jobs/moM5HiX-technical-writer-sales-engineer)
+- [Attorney General Orders Unregistered Crypto Lending Platforms to Exit NY](https://ag.ny.gov/press-release/2021/attorney-general-james-directs-unregistered-crypto-lending-platforms-cease)
+- [AMD Laptops finally reach the 4k screen barrier](https://amd-now.com/amd-laptops-finally-reach-the-4k-screen-barrier-with-the-lenovo-thinkpad-t14s-gen-2-and-thinkpad-p14-gen-2/)
+- [Tests aren’t enough: Case study after adding type hints to urllib3](https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3)
 - [Facebook will count one person as two on its platform](https://www.indiehackers.com/post/facebook-will-count-one-person-as-two-on-its-platform-03784c81f6)
-- [Code CAD – Use code to create CAD models](https://cadhub.xyz/u/caterpillar/moving_fish/ide)
-- [My Framework for Building Side Projects as a Solo Developer](https://raumet.com/framework)
-- [DeepMind open-sourcing MuJoCo simulator](https://deepmind.com/blog/announcements/mujoco)
-- [The wealthiest 10% of Americans own a record 89% of all U.S. stocks](https://www.cnbc.com/2021/10/18/the-wealthiest-10percent-of-americans-own-a-record-89percent-of-all-us-stocks.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
