@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the ‘Big Short’ Guys Think Bitcoin Is a Bubble](https://nymag.com/intelligencer/2021/10/why-the-big-short-guys-think-bitcoin-is-a-bubble.html)
+- [Seashells: Pipe output from command-line programs to the web in real-time](https://seashells.io/)
+- [Pop OS – System76](https://pop.system76.com/)
 - [Awesome-loginless: internet services that don't require registrations](https://github.com/fiatjaf/awesome-loginless)
 - [Show HN: I built a sonar into my surfboard](https://foobarbecue.github.io/surfsonar/)
-- [How Time Series Databases Work–and Where They Don't](https://www.honeycomb.io/blog/time-series-database/)
-- [Self-driving Waymo cars clog up dead-end San Francisco street](https://www.bbc.com/news/technology-58928706)
-- [Sinclair TV stations disrupted across the US in apparent ransomware attack](https://therecord.media/sinclair-tv-stations-disrupted-across-the-us-in-apparent-ransomware-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
