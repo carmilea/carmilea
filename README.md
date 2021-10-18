@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it time to rewrite the Operating System in Rust? – Bryan Cantrill (2018)](https://www.youtube.com/watch?v=HgtRAbE1nBM)
 - [Airbnb removes 80 percent of ads in Amsterdam after registration obligation](https://www.ruetir.com/2021/10/18/airbnb-removes-more-than-three-quarters-of-advertisements-in-amsterdam-after-registration-obligation/)
+- [OpenMW: Open-source reimplementation of TES3 Morrowind](https://github.com/OpenMW/openmw)
 - [Privacy Redirect: Redirects browser requests to privacy-friendly alternatives](https://github.com/SimonBrazell/privacy-redirect)
-- [At Axel Springer, Politico’s New Owner, Allegations of Sex, Lies, Secret Payment](https://www.nytimes.com/2021/10/17/business/media/axel-springer-bild-julian-reichelt.html)
 - [Turing Complete is a game about computer science](https://turingcomplete.game/)
-- [Before Pong, There Was Computer Space](https://thereader.mitpress.mit.edu/before-pong-there-was-computer-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
