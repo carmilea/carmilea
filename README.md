@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What =delete means](https://quuxplusone.github.io/blog/2021/10/17/equals-delete-means/)
 - [Unflow (YC S19) Is Hiring iOS Engineer to Join Early Monzo and Intercom Team](https://www.ycombinator.com/companies/unflow/jobs/xY3DJ1O-ios-engineer)
+- [Show HN: Dev's Full Stack Nightmare (an accurate representation)](https://sleepy-meadow-72878.herokuapp.com/)
 - [The race to grab all the UK’s lithium before it’s too late](https://www.wired.co.uk/article/cornwall-lithium)
-- [$0 to $200M in 18 Months, A Case Study](https://allthingsretail.substack.com/p/all-things-retail-11-0-to-200-million)
-- [What to Learn](https://danluu.com/learn-what/)
-- [AWS is playing chess, Cloudflare is playing Go](https://www.swyx.io/cloudflare-go/)
+- [Usbimager – A non-electron based alternative to Balena Etcher](https://gitlab.com/bztsrc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
