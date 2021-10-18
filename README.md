@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Simple access to your music from the web](https://github.com/DusteDdk/dstream)
+- [No ink, no scan: Canon USA printers hit with class-action suit](https://www.zdnet.com/article/untrustworthy-canon-printer-lawsuit/)
 - [Expensify S-1](https://www.sec.gov/Archives/edgar/data/1476840/000162828021020115/expensifys-1.htm)
+- [Stop Equating “Science” with Truth (2017)](https://slate.com/technology/2017/08/evolutionary-psychology-is-the-most-obvious-example-of-how-science-is-flawed.html)
 - [MacBook Pro 14-inch and MacBook Pro 16-inch](https://www.apple.com/macbook-pro-14-and-16/)
-- [Apple’s new M1 Pro and M1 Max processors](https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/)
-- [YouTube: filmmakers presumed guilty until maybe proven innocent](https://larryjordan.com/articles/youtube-filmmakers-presumed-guilty-until-maybe-proven-innocent/)
-- [Apple October Event [video]](https://www.youtube.com/watch?v=exM1uajp--A)
 <!-- BLOG-POST-LIST:END -->
 
 ---
