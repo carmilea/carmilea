@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Colin Powell has died](https://www.cnn.com/2021/10/18/politics/colin-powell-dies/index.html)
 - [Unflow (YC S19) Is Hiring iOS Engineer to Join Early Monzo and Intercom Team](https://www.ycombinator.com/companies/unflow/jobs/xY3DJ1O-ios-engineer)
-- [Facial recognition cameras installed in UK school canteens](https://www.independent.co.uk/news/education/education-news/facial-recognition-uk-school-canteens-b1940109.html)
+- [The race to grab all the UK’s lithium before it’s too late](https://www.wired.co.uk/article/cornwall-lithium)
+- [$0 to $200M in 18 Months, A Case Study](https://allthingsretail.substack.com/p/all-things-retail-11-0-to-200-million)
 - [What to Learn](https://danluu.com/learn-what/)
-- [A difficult case: Diagnosis made by hallucinatory voices (1997)](https://www.bmj.com/content/315/7123/1685)
+- [AWS is playing chess, Cloudflare is playing Go](https://www.swyx.io/cloudflare-go/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
