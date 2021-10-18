@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Awesome-loginless: internet services that don't require registrations](https://github.com/fiatjaf/awesome-loginless)
+- [Show HN: I built a sonar into my surfboard](https://foobarbecue.github.io/surfsonar/)
+- [How Time Series Databases Work–and Where They Don't](https://www.honeycomb.io/blog/time-series-database/)
 - [Self-driving Waymo cars clog up dead-end San Francisco street](https://www.bbc.com/news/technology-58928706)
 - [Sinclair TV stations disrupted across the US in apparent ransomware attack](https://therecord.media/sinclair-tv-stations-disrupted-across-the-us-in-apparent-ransomware-attack/)
-- [L0phtCrack Is Now Open Source](https://l0phtcrack.gitlab.io/)
-- [Of Scarface and the Nobel – The Double Life of Mariel](https://adamtooze.com/2021/10/12/chartbook-45-of-scarface-the-nobel-the-double-life-of-mariel/)
-- [Fixed Point Arithmetic](https://vha3.github.io/FixedPoint/FixedPoint.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
