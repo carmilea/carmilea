@@ -54,8 +54,8 @@
 - [Before Pong, There Was Computer Space](https://thereader.mitpress.mit.edu/before-pong-there-was-computer-space/)
 - [What every software engineer should know about search](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d)
 - [Thank HN: 7 years and $7M later, it all started right here](https://news.ycombinator.com/item?id=28902215)
+- [The Go+ language for engineering, STEM education, and data science](https://github.com/goplus/gop)
 - [Seashells: Pipe output from command-line programs to the web in real-time](https://seashells.io/)
-- [Manifold: Java typesafe metaprogramming with IDE support by abusing the compiler](http://manifold.systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
