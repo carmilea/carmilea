@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I get abuse and threats online – why can't it be stopped?](https://www.bbc.co.uk/news/uk-58924168)
-- [Is it time to rewrite the Operating System in Rust? – Bryan Cantrill (2018)](https://www.youtube.com/watch?v=HgtRAbE1nBM)
-- [Airbnb removes 80% of advertisements in Amsterdam after registration obligation](https://www.ruetir.com/2021/10/18/airbnb-removes-more-than-three-quarters-of-advertisements-in-amsterdam-after-registration-obligation/)
-- [OpenMW: Open-source reimplementation of TES3 Morrowind](https://github.com/OpenMW/openmw)
-- [Privacy Redirect: Redirects browser requests to privacy-friendly alternatives](https://github.com/SimonBrazell/privacy-redirect)
+- [Colin Powell has died](https://www.cnn.com/2021/10/18/politics/colin-powell-dies/index.html)
+- [Unflow (YC S19) Is Hiring iOS Engineer to Join Early Monzo and Intercom Team](https://www.ycombinator.com/companies/unflow/jobs/xY3DJ1O-ios-engineer)
+- [Facial recognition cameras installed in UK school canteens](https://www.independent.co.uk/news/education/education-news/facial-recognition-uk-school-canteens-b1940109.html)
+- [What to Learn](https://danluu.com/learn-what/)
+- [A difficult case: Diagnosis made by hallucinatory voices (1997)](https://www.bmj.com/content/315/7123/1685)
 <!-- BLOG-POST-LIST:END -->
 
 ---
