@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Polishing Cloth](https://www.apple.com/shop/product/MM6F3AM/A/polishing-cloth)
+- [First Geekbench for MacBook Pro M1 Max with 2x Faster Multi-Core Performance](https://www.macrumors.com/2021/10/18/first-m1-max-geekbench-score-surfaces/)
 - [Redis Anti-Patterns Every Developer Should Avoid](https://developer.redis.com/howtos/antipatterns/)
 - [The SaaS Metrics That Matter](https://sacks.substack.com/p/the-saas-metrics-that-matter)
 - [David Zucker reflects on "Airplane!" in 2021](https://www.commentary.org/articles/david-zucker/wokeness_destroys-comedy/)
-- [Dense Vectors: Capturing Meaning with Code](https://www.pinecone.io/learn/dense-vector-embeddings-nlp/)
-- [Transplanting the Mac’s Central Processor: Gary Davidian and His 68000 Emulator](https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-davidian-and-his-68000-emulator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
