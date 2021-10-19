@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflect (YC S20) is hiring a software engineer to modernize web testing](https://www.workatastartup.com/jobs/46431)
+- [Deleting an S3 Bucket Costs Money](https://cloudcasts.io/article/deleting-an-s3-bucket-costs-money)
+- [High schoolers are training to drive 18-wheelers amid shortage of truck drivers](https://www.npr.org/2021/10/13/1045463623/high-schoolers-are-training-to-drive-18-wheelers-amid-a-shortage-of-truck-driver)
+- [Cognitive Warfare Project](https://www.innovationhub-act.org/content/cw-documents)
 - [Hacker steals government ID database for Argentina's entire population](https://therecord.media/hacker-steals-government-id-database-for-argentinas-entire-population/)
-- [Heron Data (YC S20) Is Hiring a Full-Stack Engineer (London)](https://www.ycombinator.com/companies/heron-data/jobs/kN46lMk-software-engineer)
-- [Three hours to save Integral spacecraft](https://www.esa.int/Enabling_Support/Operations/Three_hours_to_save_Integral)
-- [Nim 1.6](https://nim-lang.org/blog/2021/10/19/version-160-released.html)
-- [Israeli diver finds 900-year-old sword, said to be Crusader knight’s weapon](https://www.washingtonpost.com/world/2021/10/19/900-year-old-crusader-sword-israel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
