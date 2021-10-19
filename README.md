@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal (YC S11) is hiring for sales, product management, and engineering](https://onesignal.com/careers)
+- [The guide to San Francisco crime data](https://www.sfchronicle.com/crime/article/The-Chronicle-guide-to-San-Francisco-crime-data-16543888.php)
+- [Hindenburg Research Announces $1M Bounty for Details on Tether’s Backing](https://hindenburgresearch.com/tether/)
 - [Math Foundations from Scratch](https://learnaifromscratch.github.io/math.html)
 - [Version Control for Structure Editing](https://alarmingdevelopment.org/?p=1570)
-- [Michael Tomczyk: Commodore Vic-20 Developer, Computer Pioneer](https://talesfromthecollection.com/2021/10/19/michael-tomczyk-commodore/)
-- [Five Things We Still Don’t Know About Water](https://nautil.us/issue/25/water/five-things-we-still-dont-know-about-water)
-- [Google Pixel 6 and Pixel 6 Pro](https://store.google.com/category/phones?hl=en-US)
 <!-- BLOG-POST-LIST:END -->
 
 ---
