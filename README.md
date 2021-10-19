@@ -55,7 +55,7 @@
 - [Victorian gas lamps that sold cups of hot coffee (2012)](https://www.ianvisits.co.uk/blog/2012/10/01/the-victorian-gas-lamps-that-sold-cups-of-hot-coffee/)
 - [Backblaze S-1 IPO](https://www.sec.gov/Archives/edgar/data/1462056/000119312521301141/d62601ds1.htm)
 - [First federal grant for psychedelic treatment research in 50 years](https://www.hopkinsmedicine.org/news/newsroom/news-releases/johns-hopkins-medicine-receives-first-federal-grant-for-psychedelic-treatment-research-in-50-years)
-- [Physicists make most precise measurement ever of neutron’s lifetime](https://www.nature.com/articles/d41586-021-02812-z)
+- [The Myth of Self-Documenting Code](https://buttondown.email/hillelwayne/archive/the-myth-of-self-documenting-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
