@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DIY Airless Bicycle Tire](https://www.core77.com/posts/110314/DIY-Airless-Bicycle-Tires)
+- [Transplanting the Mac’s Central Processor: Gary Davidian and His 68000 Emulator](https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-davidian-and-his-68000-emulator/)
+- [94% of the universe’s galaxies are permanently beyond our reach](https://bigthink.com/starts-with-a-bang/universes-galaxies-unreachable/)
 - [SigNoz (YC W21) Is Hiring a senior back-end engineer](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-founding-sr-backend-engineer)
 - [Victorian gas lamps that sold cups of hot coffee (2012)](https://www.ianvisits.co.uk/blog/2012/10/01/the-victorian-gas-lamps-that-sold-cups-of-hot-coffee/)
-- [Backblaze S-1 IPO](https://www.sec.gov/Archives/edgar/data/1462056/000119312521301141/d62601ds1.htm)
-- [First federal grant for psychedelic treatment research in 50 years](https://www.hopkinsmedicine.org/news/newsroom/news-releases/johns-hopkins-medicine-receives-first-federal-grant-for-psychedelic-treatment-research-in-50-years)
-- [The Myth of Self-Documenting Code](https://buttondown.email/hillelwayne/archive/the-myth-of-self-documenting-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
