@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Polishing Cloth](https://www.apple.com/shop/product/MM6F3AM/A/polishing-cloth)
-- [First Geekbench for MacBook Pro M1 Max with 2x Faster Multi-Core Performance](https://www.macrumors.com/2021/10/18/first-m1-max-geekbench-score-surfaces/)
-- [Redis Anti-Patterns Every Developer Should Avoid](https://developer.redis.com/howtos/antipatterns/)
-- [The SaaS Metrics That Matter](https://sacks.substack.com/p/the-saas-metrics-that-matter)
-- [David Zucker reflects on "Airplane!" in 2021](https://www.commentary.org/articles/david-zucker/wokeness_destroys-comedy/)
+- [Cue: A new language for data validation](https://cuelang.org/)
+- [Printf(“%s %s”, dependency, injection)](https://www.fredrikholmqvist.com/posts/print-dependency-injection/)
+- [Raspberry Pi Build HAT – Controls Lego Technic motors and sensors](https://www.raspberrypi.com/news/raspberry-pi-build-hat-lego-education/)
+- [Star's strange path around black hole proves Einstein right – again](https://www.science.org/content/article/star-s-strange-path-around-black-hole-proves-einstein-right-again)
+- [Vector-based pedestrian navigation in cities](https://www.nature.com/articles/s43588-021-00130-y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
