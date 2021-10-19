@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Algorithm Searches Historic Documents to Identify Noteworthy People](http://www.buffalo.edu/ubnow/campus.host.html/content/shared/university/news/ub-reporter-articles/stories/2021/10/algorithm-historical-documents.detail.html)
+- [Benjamin Button Reviews the New MacBook Pro 2022 (2016)](https://blog.pinboard.in/2016/10/benjamin_button_reviews_the_new_macbook_pro/)
+- [Five Things We Still Don’t Know About Water](https://nautil.us/issue/25/water/five-things-we-still-dont-know-about-water)
 - [Aspirin About-Face](https://davidepstein.bulletin.com/563262208234593/)
 - [Google Pixel 6 and Pixel 6 Pro](https://store.google.com/category/phones?hl=en-US)
-- [The FDA wants you to be able to buy a hearing aid without a prescription](https://text.npr.org/1047303559)
-- [Study: Recycled Lithium Batteries as Good as Newly Mined](https://spectrum.ieee.org/recycled-batteries-good-as-newly-mined)
-- [Pilot: An Operating System for a Personal Computer (1980) [pdf]](https://courses.cs.washington.edu/courses/cse550/20au/papers/CSE550.Pilot.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
