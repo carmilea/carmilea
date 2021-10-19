@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jitx (YC S18) is hiring software engineers to automate circuit board design](https://www.jitx.com/careers)
+- [Google Pixel 6 Launch [video]](https://pixelevent.withgoogle.com/)
+- ["Why I Hate Frameworks", or Nobody Buys Hammers Anymore](https://www.fredrikholmqvist.com/pages/why-i-hate-frameworks.html)
 - [Function pipelines: Building functional programming into PostgreSQL](https://blog.timescale.com/blog/function-pipelines-building-functional-programming-into-postgresql-using-custom-operators/)
 - [Show HN: Datree (YC W20): Prevent K8s misconfigurations from reaching production](https://news.ycombinator.com/item?id=28918850)
-- [Former Netflix exec facing 7 years in prison is a cautionary tale for startups](https://www.businessofbusiness.com/articles/why-a-former-netflix-exec-facing-7-years-in-prison-for-bribery-is-a-cautionary-tale-for-startups/)
-- [A Graduate Course in Applied Cryptography [pdf] (2020)](https://toc.cryptobook.us/book.pdf)
-- [Working Multiple Jobs](https://avc.com/2021/10/working-multiple-jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
