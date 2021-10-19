@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DIY Airless Bicycle Tire](https://www.core77.com/posts/110314/DIY-Airless-Bicycle-Tires)
+- [The SaaS Metrics That Matter](https://sacks.substack.com/p/the-saas-metrics-that-matter)
+- [David Zucker reflects on "Airplane!" in 2021](https://www.commentary.org/articles/david-zucker/wokeness_destroys-comedy/)
+- [Dense Vectors: Capturing Meaning with Code](https://www.pinecone.io/learn/dense-vector-embeddings-nlp/)
 - [Transplanting the Mac’s Central Processor: Gary Davidian and His 68000 Emulator](https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-davidian-and-his-68000-emulator/)
 - [94% of the universe’s galaxies are permanently beyond our reach](https://bigthink.com/starts-with-a-bang/universes-galaxies-unreachable/)
-- [SigNoz (YC W21) Is Hiring a senior back-end engineer](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-founding-sr-backend-engineer)
-- [Victorian gas lamps that sold cups of hot coffee (2012)](https://www.ianvisits.co.uk/blog/2012/10/01/the-victorian-gas-lamps-that-sold-cups-of-hot-coffee/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
