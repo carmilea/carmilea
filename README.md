@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spork: Peer-to-peer socket magic in the air](https://spork.sh/)
+- [Big Ball of Mud](http://laputan.org/mud/mud.html)
 - [Cue: A new language for data validation](https://cuelang.org/)
 - [Printf(“%s %s”, dependency, injection)](https://www.fredrikholmqvist.com/posts/print-dependency-injection/)
 - [Raspberry Pi Build HAT – Controls Lego Technic motors and sensors](https://www.raspberrypi.com/news/raspberry-pi-build-hat-lego-education/)
-- [Star's strange path around black hole proves Einstein right – again](https://www.science.org/content/article/star-s-strange-path-around-black-hole-proves-einstein-right-again)
-- [Vector-based pedestrian navigation in cities](https://www.nature.com/articles/s43588-021-00130-y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
