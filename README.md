@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Communism: How we cut our Load Balancing cost by more than 96%](https://www.setops.co/blog/aws-communism-part-1-how-we-cut-our-load-balancing-cost)
-- [The Day My Script Killed 10k Phones in South America](https://new.pythonforengineers.com/blog/the-day-i/)
-- [How to Create a SaaS and Compete with the Big Players as a Solo Founder](https://www.mikealche.com/product-development/an-underdog-guide-to-creating-alternative-in-markets)
-- [Reflect (YC S20) is hiring a software engineer to modernize web testing](https://www.workatastartup.com/jobs/46431)
-- [Deleting an S3 Bucket Costs Money](https://cloudcasts.io/article/deleting-an-s3-bucket-costs-money)
+- [Apple’s Gaming Revenue Reportedly Exceeds Sony, Microsoft and Nintendo Combined](https://hypebeast.com/2021/10/apple-gaming-revenue-report-wall-street-journal)
+- [A Graduate Course in Applied Cryptography [pdf] (2020)](https://toc.cryptobook.us/book.pdf)
+- [Working Multiple Jobs](https://avc.com/2021/10/working-multiple-jobs/)
+- [You shouldn't invoke setup.py directly](https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html)
+- [Recovering locked Facebook accounts is a nightmare. That’s on purpose](https://www.washingtonpost.com/technology/2021/09/29/hacked-social-media-account/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
