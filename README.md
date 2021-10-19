@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Single sign-on and identity for government services: What we've learned so far](https://gds.blog.gov.uk/2021/10/19/single-sign-on-what-we-learned-during-our-identity-alpha/)
+- [Gell-Mann amnesia and its opposite](https://www.johndcook.com/blog/2021/01/18/gell-mann-amnesia/)
+- [SFC files lawsuit against Vizio Inc. for GPL violations](https://sfconservancy.org/copyleft-compliance/vizio.html?s=03)
 - [OneSignal (YC S11) is hiring for sales, product management, and engineering](https://onesignal.com/careers)
-- [The guide to San Francisco crime data](https://www.sfchronicle.com/crime/article/The-Chronicle-guide-to-San-Francisco-crime-data-16543888.php)
-- [Hindenburg Research Announces $1M Bounty for Details on Tether’s Backing](https://hindenburgresearch.com/tether/)
-- [Math Foundations from Scratch](https://learnaifromscratch.github.io/math.html)
-- [Version Control for Structure Editing](https://alarmingdevelopment.org/?p=1570)
+- [You probably shouldn’t add a CLA to your open source project (2018)](https://ben.balter.com/2018/01/02/why-you-probably-shouldnt-add-a-cla-to-your-open-source-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
