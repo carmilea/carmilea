@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What does Google think minimum wage is?](https://shkspr.mobi/blog/2021/10/what-does-google-think-the-minimum-wage-is/)
+- [AWS Communism: How we cut our Load Balancing cost by more than 96%](https://www.setops.co/blog/aws-communism-part-1-how-we-cut-our-load-balancing-cost)
+- [The Day My Script Killed 10k Phones in South America](https://new.pythonforengineers.com/blog/the-day-i/)
+- [How to Create a SaaS and Compete with the Big Players as a Solo Founder](https://www.mikealche.com/product-development/an-underdog-guide-to-creating-alternative-in-markets)
 - [Reflect (YC S20) is hiring a software engineer to modernize web testing](https://www.workatastartup.com/jobs/46431)
 - [Deleting an S3 Bucket Costs Money](https://cloudcasts.io/article/deleting-an-s3-bucket-costs-money)
-- [Tesla's Growing Investor Revolt](https://www.morningstar.com/articles/1061914/teslas-growing-investor-revolt)
-- [How the Brain Navigates Cities](https://news.mit.edu/2021/how-brain-navigates-cities-1018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
