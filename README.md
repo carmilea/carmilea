@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s Gaming Revenue Reportedly Exceeds Sony, Microsoft and Nintendo Combined](https://hypebeast.com/2021/10/apple-gaming-revenue-report-wall-street-journal)
+- [Function pipelines: Building functional programming into PostgreSQL](https://blog.timescale.com/blog/function-pipelines-building-functional-programming-into-postgresql-using-custom-operators/)
+- [Show HN: Datree (YC W20): Prevent K8s misconfigurations from reaching production](https://news.ycombinator.com/item?id=28918850)
+- [Former Netflix exec facing 7 years in prison is a cautionary tale for startups](https://www.businessofbusiness.com/articles/why-a-former-netflix-exec-facing-7-years-in-prison-for-bribery-is-a-cautionary-tale-for-startups/)
 - [A Graduate Course in Applied Cryptography [pdf] (2020)](https://toc.cryptobook.us/book.pdf)
 - [Working Multiple Jobs](https://avc.com/2021/10/working-multiple-jobs/)
-- [You shouldn't invoke setup.py directly](https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html)
-- [Recovering locked Facebook accounts is a nightmare. That’s on purpose](https://www.washingtonpost.com/technology/2021/09/29/hacked-social-media-account/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
