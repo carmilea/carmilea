@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What does Google think minimum wage is?](https://shkspr.mobi/blog/2021/10/what-does-google-think-the-minimum-wage-is/)
 - [Reflect (YC S20) is hiring a software engineer to modernize web testing](https://www.workatastartup.com/jobs/46431)
 - [Deleting an S3 Bucket Costs Money](https://cloudcasts.io/article/deleting-an-s3-bucket-costs-money)
-- [High schoolers are training to drive 18-wheelers amid shortage of truck drivers](https://www.npr.org/2021/10/13/1045463623/high-schoolers-are-training-to-drive-18-wheelers-amid-a-shortage-of-truck-driver)
-- [Cognitive Warfare Project](https://www.innovationhub-act.org/content/cw-documents)
-- [Hacker steals government ID database for Argentina's entire population](https://therecord.media/hacker-steals-government-id-database-for-argentinas-entire-population/)
+- [Tesla's Growing Investor Revolt](https://www.morningstar.com/articles/1061914/teslas-growing-investor-revolt)
+- [How the Brain Navigates Cities](https://news.mit.edu/2021/how-brain-navigates-cities-1018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
