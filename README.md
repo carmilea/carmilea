@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Heron Data (YC S20) Is Hiring a Full-Stack Engineer (London)](https://www.ycombinator.com/companies/heron-data/jobs/kN46lMk-software-engineer)
+- [Nim 1.6](https://nim-lang.org/blog/2021/10/19/version-160-released.html)
+- [Israeli diver finds 900-year-old sword, said to be Crusader knight’s weapon](https://www.washingtonpost.com/world/2021/10/19/900-year-old-crusader-sword-israel/)
 - [Spork: Peer-to-peer socket magic in the air](https://spork.sh/)
 - [Big Ball of Mud](http://laputan.org/mud/mud.html)
-- [Cue: A new language for data validation](https://cuelang.org/)
-- [Printf(“%s %s”, dependency, injection)](https://www.fredrikholmqvist.com/posts/print-dependency-injection/)
-- [Raspberry Pi Build HAT – Controls Lego Technic motors and sensors](https://www.raspberrypi.com/news/raspberry-pi-build-hat-lego-education/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
