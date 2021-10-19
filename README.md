@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jitx (YC S18) is hiring software engineers to automate circuit board design](https://www.jitx.com/careers)
-- [Google Pixel 6 Launch [video]](https://pixelevent.withgoogle.com/)
-- ["Why I Hate Frameworks", or Nobody Buys Hammers Anymore](https://www.fredrikholmqvist.com/pages/why-i-hate-frameworks.html)
-- [Function pipelines: Building functional programming into PostgreSQL](https://blog.timescale.com/blog/function-pipelines-building-functional-programming-into-postgresql-using-custom-operators/)
-- [Show HN: Datree (YC W20): Prevent K8s misconfigurations from reaching production](https://news.ycombinator.com/item?id=28918850)
+- [Aspirin About-Face](https://davidepstein.bulletin.com/563262208234593/)
+- [Google Pixel 6 and Pixel 6 Pro](https://store.google.com/category/phones?hl=en-US)
+- [The FDA wants you to be able to buy a hearing aid without a prescription](https://text.npr.org/1047303559)
+- [Study: Recycled Lithium Batteries as Good as Newly Mined](https://spectrum.ieee.org/recycled-batteries-good-as-newly-mined)
+- [Pilot: An Operating System for a Personal Computer (1980) [pdf]](https://courses.cs.washington.edu/courses/cse550/20au/papers/CSE550.Pilot.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
