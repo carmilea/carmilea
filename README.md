@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Redis Anti-Patterns Every Developer Should Avoid](https://developer.redis.com/howtos/antipatterns/)
 - [The SaaS Metrics That Matter](https://sacks.substack.com/p/the-saas-metrics-that-matter)
 - [David Zucker reflects on "Airplane!" in 2021](https://www.commentary.org/articles/david-zucker/wokeness_destroys-comedy/)
 - [Dense Vectors: Capturing Meaning with Code](https://www.pinecone.io/learn/dense-vector-embeddings-nlp/)
 - [Transplanting the Mac’s Central Processor: Gary Davidian and His 68000 Emulator](https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-davidian-and-his-68000-emulator/)
-- [94% of the universe’s galaxies are permanently beyond our reach](https://bigthink.com/starts-with-a-bang/universes-galaxies-unreachable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
