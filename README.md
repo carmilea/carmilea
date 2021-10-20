@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Carbon-neutrality is a tale: the race for renewables is burning Europe's forests](https://www.theguardian.com/world/2021/jan/14/carbon-neutrality-is-a-fairy-tale-how-the-race-for-renewables-is-burning-europes-forests)
+- [Tom’s Essay by Suzanne Vega (2008)](https://opinionator.blogs.nytimes.com/2008/09/23/toms-essay/)
+- [Show HN: Combining UTC and local times (time zones) in one new clock](https://thehtime.com)
 - [Polish Amazon warehouse employee dies of overworking at 49](https://gloswielkopolski.pl/smierc-w-amazonie-potraktowali-go-jak-typowy-odpad-jak-smiecia-czy-49letni-pracownik-amazona-musial-umrzec/ar/c1-15844965)
 - [AI can see through you: CEOs' language under machine microscope](https://www.reuters.com/technology/ai-can-see-through-you-ceos-language-under-machine-microscope-2021-10-20/)
-- [I found an Amazon folder with thousands of audio recordings from my home gadgets](https://nypost.com/2021/10/19/i-found-an-amazon-folder-with-thousands-of-audio-recordings-from-my-home-gadgets/)
-- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [Google, Mozilla Close to Finalizing Sanitizer API for Chrome and Firefox Browse](https://portswigger.net/daily-swig/google-mozilla-close-to-finalizing-sanitizer-api-for-chrome-and-firefox-browsers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
