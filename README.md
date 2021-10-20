@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [List of IEEE Milestones](https://ethw.org/Milestones:List_of_IEEE_Milestones)
+- [Facebook fined £50.5m for breaching order in Giphy takeover investigation](https://www.theguardian.com/technology/2021/oct/20/facebook-fined-for-breaching-order-in-giphy-takeover-investigation)
 - [Carbon-neutrality is a tale: the race for renewables is burning Europe's forests](https://www.theguardian.com/world/2021/jan/14/carbon-neutrality-is-a-fairy-tale-how-the-race-for-renewables-is-burning-europes-forests)
 - [Tom’s Essay by Suzanne Vega (2008)](https://opinionator.blogs.nytimes.com/2008/09/23/toms-essay/)
-- [Show HN: Combining UTC and local times (time zones) in one new clock](https://thehtime.com)
-- [Polish Amazon warehouse employee dies of overworking at 49](https://gloswielkopolski.pl/smierc-w-amazonie-potraktowali-go-jak-typowy-odpad-jak-smiecia-czy-49letni-pracownik-amazona-musial-umrzec/ar/c1-15844965)
-- [AI can see through you: CEOs' language under machine microscope](https://www.reuters.com/technology/ai-can-see-through-you-ceos-language-under-machine-microscope-2021-10-20/)
+- [Show HN: M3O – an open source public cloud platform](https://blog.m3o.com/2021/10/20/m3o-an-open-source-aws-alternative.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
