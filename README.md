@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flow Club (YC S21) is hiring across engineering, design, and ops](https://flowclub.notion.site/Work-at-Flow-Club-1e6cc84bfc0d4463ab333ee9bc02c46a)
 - [Vscode.dev](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)
+- [Museum Starts OnlyFans Account After Its TikTok Is Banned for Posting Nudes](https://www.vice.com/en/article/93b995/museum-starts-onlyfans-account-after-its-tiktok-is-banned-for-posting-nudes)
 - [All Atari Games](https://voxodyssey.com/atari-2600)
-- [Lavish wealth tolerated more for individuals than groups](https://news.cornell.edu/stories/2021/10/lavish-wealth-tolerated-more-individuals-groups)
 - [Conservation should be allowed to pay its own way on public lands](https://legal-planet.org/2021/08/27/science-article-argues-that-conservation-should-be-allowed-to-pay-its-own-way-on-public-lands/)
-- [Leaded fuel reduced IQ of children born before 1990](https://twitter.com/emollick/status/1450591638796087296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
