@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Polish Amazon warehouse employee dies of overworking at 49](https://gloswielkopolski.pl/smierc-w-amazonie-potraktowali-go-jak-typowy-odpad-jak-smiecia-czy-49letni-pracownik-amazona-musial-umrzec/ar/c1-15844965)
+- [AI can see through you: CEOs' language under machine microscope](https://www.reuters.com/technology/ai-can-see-through-you-ceos-language-under-machine-microscope-2021-10-20/)
+- [I found an Amazon folder with thousands of audio recordings from my home gadgets](https://nypost.com/2021/10/19/i-found-an-amazon-folder-with-thousands-of-audio-recordings-from-my-home-gadgets/)
 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - [Google, Mozilla Close to Finalizing Sanitizer API for Chrome and Firefox Browse](https://portswigger.net/daily-swig/google-mozilla-close-to-finalizing-sanitizer-api-for-chrome-and-firefox-browsers)
-- [Optimizations Enabled by -ffast-Math](https://kristerw.github.io/2021/10/19/fast-math/)
-- [Code quality: a concern for businesses, bottom lines, and empathetic programmers](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/)
-- [Avoid all links to kicad-pcb.org – Use kicad.org](https://forum.kicad.info/t/warning-avoid-all-links-to-kicad-pcb-org-use-kicad-org/31521)
 <!-- BLOG-POST-LIST:END -->
 
 ---
