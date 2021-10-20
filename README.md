@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [10 ways to get the best out of OpenSCAD](https://calbryant.uk/blog/10-ways-to-get-the-best-out-of-openscad/)
+- [Tech Salaries Fall in Bay Area, New York City, Rise in Austin, San Diego](https://www.bloomberg.com/news/articles/2021-10-19/new-york-san-francisco-see-tech-salaries-slip-amid-remote-work)
 - [Head of California's largest union arrested for theft, fraud](https://www.mercurynews.com/2021/10/15/head-of-californias-largest-union-arrested-on-theft-fraud-charges/)
 - [Tesla earned $1.6B in the third quarter as car sales surged](https://www.nytimes.com/2021/10/20/business/tesla-earnings.html)
 - [Theranos devices ran “null protocol” to skip actual demo for investors](https://arstechnica.com/tech-policy/2021/10/theranos-devices-ran-demo-apps-that-blocked-error-messages-during-investor-pitches/)
-- [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Injury response to DNA damage in live tumor cells promotes antitumor immunity](https://www.science.org/doi/10.1126/scisignal.abc4764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
