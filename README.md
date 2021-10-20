@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brave Search Replaces Google as Default Search Engine in the Brave Browser](https://brave.com/search-and-web-discovery/)
+- [Brave Search replaces Google as default search engine in the Brave browser](https://brave.com/search-and-web-discovery/)
 - [A drone company is working to airlift dogs stranded by the volcano in La Palma](https://www.npr.org/2021/10/19/1047360268/drone-rescue-dogs-volcano-la-palma-spain)
+- [Simple Linux kernel memory corruption bug can lead to complete system compromise](https://googleprojectzero.blogspot.com/2021/10/how-simple-linux-kernel-memory.html)
 - [Five U.S. lawmakers accuse Amazon of possibly lying to Congress](https://www.reuters.com/technology/five-us-lawmakers-accuse-amazon-possibly-lying-congress-following-reuters-report-2021-10-18/)
 - [Zeus (YC S11) Is Hiring for EA to the CEO/Co-Founder](https://news.ycombinator.com/item?id=28925621)
-- [New Optical Switch Up to 1000x Faster Than Transistors](https://spectrum.ieee.org/optical-switch-1000x-faster-transistors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
