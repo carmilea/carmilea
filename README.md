@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vscode.dev](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)
 - [All Atari Games](https://voxodyssey.com/atari-2600)
-- [Bitcoin Just Hit a New All Time High in US Dollars](https://bitcoin.clarkmoody.com/dashboard/)
 - [Lavish wealth tolerated more for individuals than groups](https://news.cornell.edu/stories/2021/10/lavish-wealth-tolerated-more-individuals-groups)
 - [Conservation should be allowed to pay its own way on public lands](https://legal-planet.org/2021/08/27/science-article-argues-that-conservation-should-be-allowed-to-pay-its-own-way-on-public-lands/)
 - [Leaded fuel reduced IQ of children born before 1990](https://twitter.com/emollick/status/1450591638796087296)
