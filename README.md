@@ -55,7 +55,7 @@
 - [Google, Mozilla Close to Finalizing Sanitizer API for Chrome and Firefox Browse](https://portswigger.net/daily-swig/google-mozilla-close-to-finalizing-sanitizer-api-for-chrome-and-firefox-browsers)
 - [Optimizations Enabled by -ffast-Math](https://kristerw.github.io/2021/10/19/fast-math/)
 - [Code quality: a concern for businesses, bottom lines, and empathetic programmers](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/)
-- [WARNING: Avoid all links to kicad-pcb.org – Use kicad.org](https://forum.kicad.info/t/warning-avoid-all-links-to-kicad-pcb-org-use-kicad-org/31521)
+- [Avoid all links to kicad-pcb.org – Use kicad.org](https://forum.kicad.info/t/warning-avoid-all-links-to-kicad-pcb-org-use-kicad-org/31521)
 <!-- BLOG-POST-LIST:END -->
 
 ---
