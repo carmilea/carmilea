@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Head of California's largest union arrested for theft, fraud](https://www.mercurynews.com/2021/10/15/head-of-californias-largest-union-arrested-on-theft-fraud-charges/)
+- [Tesla earned $1.6B in the third quarter as car sales surged](https://www.nytimes.com/2021/10/20/business/tesla-earnings.html)
+- [Theranos devices ran “null protocol” to skip actual demo for investors](https://arstechnica.com/tech-policy/2021/10/theranos-devices-ran-demo-apps-that-blocked-error-messages-during-investor-pitches/)
 - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Platonism in the Philosophy of Mathematics](https://plato.stanford.edu/entries/platonism-mathematics/)
-- [Tesla 3Q2021 Earnings Result](https://tesla-cdn.thron.com/static/TWPKBV_TSLA_Q3_2021_Quarterly_Update_SI1AKE.pdf?xseo=&response-content-disposition=inline%3Bfilename%3D%22TSLA-Q3-2021-Quarterly-Update.pdf%22)
-- [California ports among world’s least efficient, ranking shows](https://www.reuters.com/world/us/california-ports-key-us-supply-chain-among-worlds-least-efficient-2021-10-20/)
-- [Bioelektryczność – Polish Robotics (1968) [video]](https://www.youtube.com/watch?v=NjrYk546uBA)
+- [Injury response to DNA damage in live tumor cells promotes antitumor immunity](https://www.science.org/doi/10.1126/scisignal.abc4764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
