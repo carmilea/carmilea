@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Worn-out nurses hit the road for better pay, stressing hospital budgets, morale](https://text.npr.org/1046131313)
+- [Facebook plans to change its name as part of company rebrand](https://www.theguardian.com/technology/2021/oct/20/facebook-plans-to-change-its-name-as-part-of-company-rebrand-report)
+- [Verilog Simulation with Verilator and SDL](https://projectf.io/posts/verilog-sim-verilator-sdl/)
+- [Facebook settles federal lawsuit over allegations it favored foreign applicants](https://www.npr.org/2021/10/19/1047354380/facebook-settles-a-federal-lawsuit-over-allegations-it-favored-foreign-job-appli)
+- [A Talk with Computer Gaming Pioneer Walter Bright About Empire](https://madned.substack.com/p/a-talk-with-computer-gaming-pioneer)
 - [Is APL Dead?](https://www.sacrideo.us/is-apl-dead/)
-- [One Month (YC S13) Is Hiring a Teacher's Assistant (HTML, JavaScript, Python)](https://forms.gle/Vy5qAi9AmujxjFJB6)
-- [List of IEEE Milestones](https://ethw.org/Milestones:List_of_IEEE_Milestones)
-- [Trustworthy Computing in 2021](https://ariadne.space/2021/10/19/trustworthy-computing-in-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
