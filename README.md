@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Zeus (YC S11) Is Hiring for EA to the CEO/Co-Founder](https://news.ycombinator.com/item?id=28925621)
+- [New Optical Switch Up to 1000x Faster Than Transistors](https://spectrum.ieee.org/optical-switch-1000x-faster-transistors)
 - [Overly analytical guide to escorting](https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/)
 - [Single sign-on and identity for government services: What we've learned so far](https://gds.blog.gov.uk/2021/10/19/single-sign-on-what-we-learned-during-our-identity-alpha/)
 - [Outdated, vulnerable open source components shipped with Windows 10 and 11](https://seclists.org/fulldisclosure/2021/Oct/17)
-- [Math Foundations from Scratch](https://learnaifromscratch.github.io/math.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
