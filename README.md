@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zeus (YC S11) Is Hiring for EA to the CEO/Co-Founder](https://news.ycombinator.com/item?id=28925621)
+- [Overly analytical guide to escorting](https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/)
 - [Single sign-on and identity for government services: What we've learned so far](https://gds.blog.gov.uk/2021/10/19/single-sign-on-what-we-learned-during-our-identity-alpha/)
-- [Gell-Mann amnesia and its opposite](https://www.johndcook.com/blog/2021/01/18/gell-mann-amnesia/)
-- [SFC files lawsuit against Vizio Inc. for GPL violations](https://sfconservancy.org/copyleft-compliance/vizio.html?s=03)
-- [OneSignal (YC S11) is hiring for sales, product management, and engineering](https://onesignal.com/careers)
-- [You probably shouldn’t add a CLA to your open source project (2018)](https://ben.balter.com/2018/01/02/why-you-probably-shouldnt-add-a-cla-to-your-open-source-project/)
+- [Outdated, vulnerable open source components shipped with Windows 10 and 11](https://seclists.org/fulldisclosure/2021/Oct/17)
+- [Math Foundations from Scratch](https://learnaifromscratch.github.io/math.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
