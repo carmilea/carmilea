@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All Atari Games](https://voxodyssey.com/atari-2600)
+- [Bitcoin Just Hit a New All Time High in US Dollars](https://bitcoin.clarkmoody.com/dashboard/)
+- [Lavish wealth tolerated more for individuals than groups](https://news.cornell.edu/stories/2021/10/lavish-wealth-tolerated-more-individuals-groups)
 - [Conservation should be allowed to pay its own way on public lands](https://legal-planet.org/2021/08/27/science-article-argues-that-conservation-should-be-allowed-to-pay-its-own-way-on-public-lands/)
-- [Is Nim a Transpiler?](https://peterme.net/is-nim-a-transpiler.html)
-- [Facebook plans to change its name as part of company rebrand](https://www.theguardian.com/technology/2021/oct/20/facebook-plans-to-change-its-name-as-part-of-company-rebrand-report)
-- [Builder Pattern in Rust](https://www.greyblake.com/blog/2021-10-19-builder-pattern-in-rust/)
-- [Verilog Simulation with Verilator and SDL](https://projectf.io/posts/verilog-sim-verilator-sdl/)
+- [Leaded fuel reduced IQ of children born before 1990](https://twitter.com/emollick/status/1450591638796087296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
