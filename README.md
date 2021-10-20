@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vikings were in North America in 1021, latest research shows](https://www.nature.com/articles/s41586-021-03972-8)
+- [U.S. Tightens Export Controls on Items Used in Surveillance of Private Citizens](https://www.commerce.gov/news/press-releases/2021/10/commerce-tightens-export-controls-items-used-surveillance-private)
 - [Apple M1 Max Geekbench Score](https://browser.geekbench.com/v5/cpu/10496766)
-- [Moderna won't share vaccine recipe. WHO has hired African startup to crack it](https://www.npr.org/sections/goatsandsoda/2021/10/19/1047411856/the-great-vaccine-bake-off-has-begun)
-- [Flow Club (YC S21) is hiring across engineering, design, and ops](https://flowclub.notion.site/Work-at-Flow-Club-1e6cc84bfc0d4463ab333ee9bc02c46a)
-- [Vscode.dev](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)
-- [Museum Starts OnlyFans Account After Its TikTok Is Banned for Posting Nudes](https://www.vice.com/en/article/93b995/museum-starts-onlyfans-account-after-its-tiktok-is-banned-for-posting-nudes)
+- [We Analyzed 425,909 Favicons](https://iconmap.io/blog)
+- [WHO asks South African startup to replicate Moderna's mRNA vaccine](https://www.npr.org/sections/goatsandsoda/2021/10/19/1047411856/the-great-vaccine-bake-off-has-begun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
