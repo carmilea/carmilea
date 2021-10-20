@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple M1 Max Geekbench Score](https://browser.geekbench.com/v5/cpu/10496766)
+- [Moderna won't share vaccine recipe. WHO has hired African startup to crack it](https://www.npr.org/sections/goatsandsoda/2021/10/19/1047411856/the-great-vaccine-bake-off-has-begun)
 - [Flow Club (YC S21) is hiring across engineering, design, and ops](https://flowclub.notion.site/Work-at-Flow-Club-1e6cc84bfc0d4463ab333ee9bc02c46a)
 - [Vscode.dev](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)
 - [Museum Starts OnlyFans Account After Its TikTok Is Banned for Posting Nudes](https://www.vice.com/en/article/93b995/museum-starts-onlyfans-account-after-its-tiktok-is-banned-for-posting-nudes)
-- [All Atari Games](https://voxodyssey.com/atari-2600)
-- [Conservation should be allowed to pay its own way on public lands](https://legal-planet.org/2021/08/27/science-article-argues-that-conservation-should-be-allowed-to-pay-its-own-way-on-public-lands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
