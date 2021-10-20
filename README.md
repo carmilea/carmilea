@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vikings were in North America in 1021, latest research shows](https://www.nature.com/articles/s41586-021-03972-8)
-- [U.S. Tightens Export Controls on Items Used in Surveillance of Private Citizens](https://www.commerce.gov/news/press-releases/2021/10/commerce-tightens-export-controls-items-used-surveillance-private)
-- [Apple M1 Max Geekbench Score](https://browser.geekbench.com/v5/cpu/10496766)
-- [We Analyzed 425,909 Favicons](https://iconmap.io/blog)
-- [WHO asks South African startup to replicate Moderna's mRNA vaccine](https://www.npr.org/sections/goatsandsoda/2021/10/19/1047411856/the-great-vaccine-bake-off-has-begun)
+- [Valorant's anti-cheat system requires TPM 2.0 and secure boot on Windows 11](https://www.techspot.com/news/91138-valorant-anti-cheat-system-requires-tpm-20-secure.html)
+- [California ports among world’s least efficient, ranking shows](https://www.reuters.com/world/us/california-ports-key-us-supply-chain-among-worlds-least-efficient-2021-10-20/)
+- [Bioelektryczność – Polish Robotics (1968) [video]](https://www.youtube.com/watch?v=NjrYk546uBA)
+- [Eliminating Gifted Programs Won’t Make Education Fair](https://americasfuture.org/eliminating-gifted-programs-wont-make-education-fair/)
+- [The determined math tutor teaching calculus on Pornhub](https://melmagazine.com/en-us/story/math-lessons-on-pornhub)
 <!-- BLOG-POST-LIST:END -->
 
 ---
