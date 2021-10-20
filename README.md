@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizations Enabled by -ffast-Math](https://kristerw.github.io/2021/10/19/fast-math/)
+- [Code quality: a concern for businesses, bottom lines, and empathetic programmers](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/)
+- [WARNING: Avoid all links to kicad-pcb.org – Use kicad.org](https://forum.kicad.info/t/warning-avoid-all-links-to-kicad-pcb-org-use-kicad-org/31521)
 - [Brave Search replaces Google as default search engine in the Brave browser](https://brave.com/search-and-web-discovery/)
-- [A drone company is working to airlift dogs stranded by the volcano in La Palma](https://www.npr.org/2021/10/19/1047360268/drone-rescue-dogs-volcano-la-palma-spain)
-- [Simple Linux kernel memory corruption bug can lead to complete system compromise](https://googleprojectzero.blogspot.com/2021/10/how-simple-linux-kernel-memory.html)
-- [Five U.S. lawmakers accuse Amazon of possibly lying to Congress](https://www.reuters.com/technology/five-us-lawmakers-accuse-amazon-possibly-lying-congress-following-reuters-report-2021-10-18/)
-- [Zeus (YC S11) Is Hiring for EA to the CEO/Co-Founder](https://news.ycombinator.com/item?id=28925621)
+- [UserTesting S-1](https://sec.report/Document/0001628280-21-020026/usertestingincs-1.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
