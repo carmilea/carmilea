@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unconventional Sorting Algorithms](https://codingkaiser.blog/2021/10/20/most-bizzare-sorting-algorithms-you-will-ever-see/)
-- [Gov Parson pushes to prosecute reporter who found security flaw in state site](https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site/)
-- [We Just Gave $154,999.89 to Open Source Maintainers](https://blog.sentry.io/2021/10/21/we-just-gave-154-999-dollars-and-89-cents-to-open-source-maintainers/)
-- [[Resolved] GitHub is returning 500 for all requests](https://github.com)
-- [What is ClickHouse how it compares to PostgreSQL and TimescaleDB for time series](https://blog.timescale.com/blog/what-is-clickhouse-how-does-it-compare-to-postgresql-and-timescaledb-and-how-does-it-perform-for-time-series-data/)
+- [Tesla is outrunning the supply chain crunch](https://www.axios.com/tesla-income-supply-chain-chip-shortage-13de2644-704d-426f-a510-f667de93f1da.html)
+- [Launch HN: Rainforest QA (YC S21) – No-Code UI Test Automation](https://news.ycombinator.com/item?id=28947689)
+- [Beyond Smart](http://paulgraham.com/smart.html)
+- [Compose.ai (YC W21) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/compose-ai/jobs/vUQpBfl-senior-frontend-engineer)
+- [Sam Altman’s Worldcoin wants to scan eyeballs in exchange for crypto](https://techcrunch.com/2021/10/21/sam-altmans-worldcoin-wants-to-scan-every-humans-eyeball-and-give-them-crypto-in-exchange/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
