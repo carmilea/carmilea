@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Oil System Collapsing So Fast It May Derail Renewables](https://bylinetimes.com/2021/10/20/oil-system-collapsing-so-fast-it-may-derail-renewables-warn-french-government-scientists/)
-- [We built an open source, cookie-less marketing funnel that works: here's how](https://www.ethicalads.io/blog/2021/10/building-an-ethical-marketing-funnel/)
+- [ContainIQ (YC S21) Is Hiring eBPF and Kernel Engineer (Remote)](https://news.ycombinator.com/item?id=28950789)
+- [BYD has reportedly received 10 GWh of orders from Tesla for LFP batteries](https://pushevs.com/2021/10/21/byd-has-reportedly-received-10-gwh-of-orders-from-tesla-for-lfp-batteries/)
+- [YouTube will be removed from Roku as of December 9th existing users unaffected](https://9to5google.com/2021/10/21/youtube-will-be-removed-from-roku-as-of-december-9-existing-users-unaffected/)
+- [Let’s Talk about PAKE](https://blog.cryptographyengineering.com/2018/10/19/lets-talk-about-pake/)
 - [Fed to ban policymakers from owning individual stocks](https://www.cnbc.com/2021/10/21/fed-to-ban-policymakers-from-owning-individual-stocks-restrict-trading-following-controversy.html)
-- [Docs for Developers: An Engineer’s Field Guide to Technical Writing](https://www.apress.com/gp/book/9781484272169)
-- [Building the Brex API](https://building.brex.com/building-the-brex-api-52dcb26cacc8?gi=a8b7e7a3a9bc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
