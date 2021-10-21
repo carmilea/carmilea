@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gtk4 Tutorial](https://github.com/ToshioCP/Gtk4-tutorial/blob/main/Readme.md)
+- [Cannabis and Male Fertility: A Systematic Review](https://pubmed.ncbi.nlm.nih.gov/30916627/)
+- [Alibaba Open Source XuanTie RISC-V Cores, Introduces In-House Armv9 Server Chip](https://fuse.wikichip.org/news/6413/alibaba-open-source-xuantie-risc-v-cores-introduces-in-house-armv9-server-chip/)
 - [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
-- [Machu Picchu was built over major fault zones. Researchers think they know why (2019)](https://www.science.org/content/article/machu-picchu-was-built-over-major-fault-zones-now-researchers-think-they-know-why)
-- [OWASP top 10 change visualization from 2004 to now](https://public.flourish.studio/visualisation/7574790/)
-- [Merge YJIT: an in-process JIT compiler](https://github.com/ruby/ruby/pull/4992)
-- [Discovery of hundreds of genes that contribute to different traits and diseases](https://www.nature.com/articles/s41586-021-04103-z)
+- [Apple sends DMCA takedown for IP address](https://twitter.com/RayRedacted/status/1450712865552412675)
 <!-- BLOG-POST-LIST:END -->
 
 ---
