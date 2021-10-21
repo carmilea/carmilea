@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mihály CSíkszentmihályi – Flow Theory Architect – Dies Aged 88](https://hungarytoday.hu/mihaly-csikszentmihalyi-flow-theory-architect-dies/)
+- [Oil System Collapsing So Fast It May Derail Renewables](https://bylinetimes.com/2021/10/20/oil-system-collapsing-so-fast-it-may-derail-renewables-warn-french-government-scientists/)
+- [We built an open source, cookie-less marketing funnel that works: here's how](https://www.ethicalads.io/blog/2021/10/building-an-ethical-marketing-funnel/)
+- [Fed to ban policymakers from owning individual stocks](https://www.cnbc.com/2021/10/21/fed-to-ban-policymakers-from-owning-individual-stocks-restrict-trading-following-controversy.html)
 - [Docs for Developers: An Engineer’s Field Guide to Technical Writing](https://www.apress.com/gp/book/9781484272169)
 - [Building the Brex API](https://building.brex.com/building-the-brex-api-52dcb26cacc8?gi=a8b7e7a3a9bc)
-- [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/)
-- [Launch HN: Rainforest QA (YC S12) – No-Code UI Test Automation](https://news.ycombinator.com/item?id=28947689)
 <!-- BLOG-POST-LIST:END -->
 
 ---
