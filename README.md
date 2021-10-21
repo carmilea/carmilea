@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The communications systems at the US Central Command headquarters](https://www.electrospaces.net/2021/04/the-communications-equipment-at-us.html)
 - [ContainIQ (YC S21) Is Hiring eBPF and Kernel Engineer (Remote)](https://news.ycombinator.com/item?id=28950789)
+- ['High Power Mode' Coming to 16-Inch MacBook Pro with M1 Max, Apple Confirms](https://appleinsider.com/articles/21/10/21/high-power-mode-coming-to-16-inch-macbook-pro-with-m1-max-apple-confirms)
+- [Mastodon: AGPLv3 FOSS social network server](https://github.com/mastodon/mastodon)
 - [BYD has reportedly received 10 GWh of orders from Tesla for LFP batteries](https://pushevs.com/2021/10/21/byd-has-reportedly-received-10-gwh-of-orders-from-tesla-for-lfp-batteries/)
-- [YouTube will be removed from Roku as of December 9th existing users unaffected](https://9to5google.com/2021/10/21/youtube-will-be-removed-from-roku-as-of-december-9-existing-users-unaffected/)
-- [Let’s Talk about PAKE](https://blog.cryptographyengineering.com/2018/10/19/lets-talk-about-pake/)
-- [Fed to ban policymakers from owning individual stocks](https://www.cnbc.com/2021/10/21/fed-to-ban-policymakers-from-owning-individual-stocks-restrict-trading-following-controversy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
