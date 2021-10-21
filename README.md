@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast (YC W20) Is Hiring Developers and Designers (Remote)](https://www.raycast.com/jobs)
 - [Yamaha DX7 Technical Analysis](https://ajxs.me/blog/Yamaha_DX7_Technical_Analysis.html)
-- [Covid-19 Vaccines and the Menstrual Cycle](https://covid19.nih.gov/news-and-stories/covid-19-vaccines-and-menstrual-cycle)
 - [Goggles: Democracy dies in darkness, and so does the Web [pdf]](https://brave.com/wp-content/uploads/2021/03/goggles.pdf)
-- [Cosmopolitan Identiﬁers](https://obua.com/publications/cosmo-id/3/)
 - [The History of Surveying](https://www.alifewithoutlimits.com.au/the-history-of-surveying/)
+- [Mihalyi Csikszentmihalyi who recognised the psychological concept of flow died](https://twitter.com/sbkaufman/status/1450946151352471553)
 <!-- BLOG-POST-LIST:END -->
 
 ---
