@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California tried to save the nation from tax filing – then Intuit stepped in](https://www.latimes.com/politics/story/2021-10-21/california-tried-to-save-the-nation-from-the-misery-of-tax-filing-then-intuit-stepped-in)
-- [Tesla's German plant hits snag as public consultation repeated](https://www.reuters.com/world/europe/teslas-german-plant-hits-snag-public-consultation-repeated-2021-10-21/)
-- [Cloudflare’s Pace of Innovation](https://blog.cloudflare.com/the-secret-to-cloudflare-pace-of-innovation/)
-- [Roku tells customers it is unable to strike a deal with YouTube](https://www.axios.com/roku-youtube-tv-google-unable-to-strike-deal-de879a12-079b-4329-a27f-5692c19bea2c.html)
-- [Banning anonymous social media accounts is not the answer to online abuse](https://phys.org/news/2021-10-anonymous-social-media-accounts-online.html)
+- [GitHub is returning 500 for all requests](https://github.com)
+- [What is ClickHouse how it compares to PostgreSQL and TimescaleDB for time series](https://blog.timescale.com/blog/what-is-clickhouse-how-does-it-compare-to-postgresql-and-timescaledb-and-how-does-it-perform-for-time-series-data/)
+- [Incident with GitHub Actions, Issues, Pull Requests, and Webhooks](https://www.githubstatus.com/incidents/m78sypncxsdw)
+- [Rust 1.56.0 and Rust 2021](https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html)
+- [How 'speed friending' events can banish loneliness](https://www.abc.net.au/news/2021-10-21/finding-friends-as-an-adult-through-friend-request-events/100551648)
 <!-- BLOG-POST-LIST:END -->
 
 ---
