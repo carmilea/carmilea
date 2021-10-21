@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub is returning 500 for all requests](https://github.com)
+- [Unconventional Sorting Algorithms](https://codingkaiser.blog/2021/10/20/most-bizzare-sorting-algorithms-you-will-ever-see/)
+- [Gov Parson pushes to prosecute reporter who found security flaw in state site](https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site/)
+- [We Just Gave $154,999.89 to Open Source Maintainers](https://blog.sentry.io/2021/10/21/we-just-gave-154-999-dollars-and-89-cents-to-open-source-maintainers/)
+- [[Resolved] GitHub is returning 500 for all requests](https://github.com)
 - [What is ClickHouse how it compares to PostgreSQL and TimescaleDB for time series](https://blog.timescale.com/blog/what-is-clickhouse-how-does-it-compare-to-postgresql-and-timescaledb-and-how-does-it-perform-for-time-series-data/)
-- [Incident with GitHub Actions, Issues, Pull Requests, and Webhooks](https://www.githubstatus.com/incidents/m78sypncxsdw)
-- [Rust 1.56.0 and Rust 2021](https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html)
-- [How 'speed friending' events can banish loneliness](https://www.abc.net.au/news/2021-10-21/finding-friends-as-an-adult-through-friend-request-events/100551648)
 <!-- BLOG-POST-LIST:END -->
 
 ---
