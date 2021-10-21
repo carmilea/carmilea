@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [iNotch for Gnome Shell](https://github.com/AlynxZhou/gnome-shell-extension-inotch)
-- [Gtk4 Tutorial](https://github.com/ToshioCP/Gtk4-tutorial/blob/main/Readme.md)
-- [Cannabis and Male Fertility: A Systematic Review](https://pubmed.ncbi.nlm.nih.gov/30916627/)
 - [Alibaba Open Source XuanTie RISC-V Cores, Introduces In-House Armv9 Server Chip](https://fuse.wikichip.org/news/6413/alibaba-open-source-xuantie-risc-v-cores-introduces-in-house-armv9-server-chip/)
 - [SwiftSku (YC W21) Is Hiring Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
+- [Machu Picchu was built over major fault zones (2019)](https://www.science.org/content/article/machu-picchu-was-built-over-major-fault-zones-now-researchers-think-they-know-why)
+- [OWASP top 10 change visualization from 2004 to now](https://public.flourish.studio/visualisation/7574790/)
+- [Exome sequencing and analysis of 450k UK Biobank participants](https://www.nature.com/articles/s41586-021-04103-z)
 <!-- BLOG-POST-LIST:END -->
 
 ---
