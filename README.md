@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California tried to save the nation from tax filing – then Intuit stepped in](https://www.latimes.com/politics/story/2021-10-21/california-tried-to-save-the-nation-from-the-misery-of-tax-filing-then-intuit-stepped-in)
+- [Tesla's German plant hits snag as public consultation repeated](https://www.reuters.com/world/europe/teslas-german-plant-hits-snag-public-consultation-repeated-2021-10-21/)
+- [Cloudflare’s Pace of Innovation](https://blog.cloudflare.com/the-secret-to-cloudflare-pace-of-innovation/)
+- [Roku tells customers it is unable to strike a deal with YouTube](https://www.axios.com/roku-youtube-tv-google-unable-to-strike-deal-de879a12-079b-4329-a27f-5692c19bea2c.html)
 - [Banning anonymous social media accounts is not the answer to online abuse](https://phys.org/news/2021-10-anonymous-social-media-accounts-online.html)
-- [All standard-range Teslas will now use cheaper LFP battery chemistry](https://arstechnica.com/cars/2021/10/tesla-made-1-6-billion-in-q3-is-switching-to-lfp-batteries-globally/)
-- [TeamOut (YC W22) Is Hiring](https://news.ycombinator.com/item?id=28943172)
-- [When to Use Goto](https://beej.us/guide/bgc/html/split/goto.html)
-- [People Who Jump to Conclusions Show Other Kinds of Thinking Errors](https://www.scientificamerican.com/article/people-who-jump-to-conclusions-show-other-kinds-of-thinking-errors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
