@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Former U.S. president Donald Trump launches 'TRUTH' social media platform](https://www.reuters.com/world/us/former-us-president-donald-trump-launches-new-social-media-platform-2021-10-21/)
+- [TeamOut (YC W22) Is Hiring](https://news.ycombinator.com/item?id=28943172)
+- [When to Use Goto](https://beej.us/guide/bgc/html/split/goto.html)
+- [People Who Jump to Conclusions Show Other Kinds of Thinking Errors](https://www.scientificamerican.com/article/people-who-jump-to-conclusions-show-other-kinds-of-thinking-errors/)
+- [78% of the Web Powered by PHP](https://haydenjames.io/78-of-the-web-powered-by-php-1-on-php-8/)
 - [Explaining top(1) on FreeBSD](https://klarasystems.com/articles/explaining-top1-on-freebsd/)
-- [Willingness to Look Stupid](https://danluu.com/look-stupid/)
-- [FlixMobility Acquires Greyhound to Expand U.S. Intercity Bus Services](https://corporate.flixbus.com/flixmobility-acquires-greyhound-to-expand-us-intercity-bus-services/)
-- [Raycast (YC W20) Is Hiring Developers and Designers (Remote)](https://www.raycast.com/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
