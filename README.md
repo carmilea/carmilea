@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [10 ways to get the best out of OpenSCAD](https://calbryant.uk/blog/10-ways-to-get-the-best-out-of-openscad/)
-- [Tech Salaries Fall in Bay Area, New York City, Rise in Austin, San Diego](https://www.bloomberg.com/news/articles/2021-10-19/new-york-san-francisco-see-tech-salaries-slip-amid-remote-work)
-- [Head of California's largest union arrested for theft, fraud](https://www.mercurynews.com/2021/10/15/head-of-californias-largest-union-arrested-on-theft-fraud-charges/)
-- [Tesla earned $1.6B in the third quarter as car sales surged](https://www.nytimes.com/2021/10/20/business/tesla-earnings.html)
-- [Theranos devices ran “null protocol” to skip actual demo for investors](https://arstechnica.com/tech-policy/2021/10/theranos-devices-ran-demo-apps-that-blocked-error-messages-during-investor-pitches/)
+- [SwiftSku (YC W21) Is Hiring Gujarati Account Executives](https://www.ycombinator.com/companies/swiftsku/jobs/YhllV1x-sales-account-executive)
+- [Machu Picchu was built over major fault zones. Researchers think they know why (2019)](https://www.science.org/content/article/machu-picchu-was-built-over-major-fault-zones-now-researchers-think-they-know-why)
+- [OWASP top 10 change visualization from 2004 to now](https://public.flourish.studio/visualisation/7574790/)
+- [Merge YJIT: an in-process JIT compiler](https://github.com/ruby/ruby/pull/4992)
+- [Discovery of hundreds of genes that contribute to different traits and diseases](https://www.nature.com/articles/s41586-021-04103-z)
 <!-- BLOG-POST-LIST:END -->
 
 ---
