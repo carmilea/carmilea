@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FlixMobility Acquires Greyhound to Expand U.S. Intercity Bus Services](https://corporate.flixbus.com/flixmobility-acquires-greyhound-to-expand-us-intercity-bus-services/)
 - [Raycast (YC W20) Is Hiring Developers and Designers (Remote)](https://www.raycast.com/jobs)
 - [Yamaha DX7 Technical Analysis](https://ajxs.me/blog/Yamaha_DX7_Technical_Analysis.html)
 - [Goggles: Democracy dies in darkness, and so does the Web [pdf]](https://brave.com/wp-content/uploads/2021/03/goggles.pdf)
-- [Cosmopolitan Identiﬁers](https://obua.com/publications/cosmo-id/3/)
 - [The History of Surveying](https://www.alifewithoutlimits.com.au/the-history-of-surveying/)
 <!-- BLOG-POST-LIST:END -->
 
