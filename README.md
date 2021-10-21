@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Western Maryland asks West Virginia to 'consider adding us' to their state](https://www.baltimoresun.com/politics/bs-md-pol-western-md-wv-20211021-iyugtyt72rfzjlkzt4jigs2wky-story.html)
-- [Trump’s new social media site collapses after trolls flood it before launch](https://www.dailydot.com/debug/trump-truth-media-platform-shuts-down-trolling/)
+- [Mihály CSíkszentmihályi – Flow Theory Architect – Dies Aged 88](https://hungarytoday.hu/mihaly-csikszentmihalyi-flow-theory-architect-dies/)
+- [Docs for Developers: An Engineer’s Field Guide to Technical Writing](https://www.apress.com/gp/book/9781484272169)
 - [Building the Brex API](https://building.brex.com/building-the-brex-api-52dcb26cacc8?gi=a8b7e7a3a9bc)
 - [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/)
-- [Tesla is outrunning the supply chain crunch](https://www.axios.com/tesla-income-supply-chain-chip-shortage-13de2644-704d-426f-a510-f667de93f1da.html)
+- [Launch HN: Rainforest QA (YC S12) – No-Code UI Test Automation](https://news.ycombinator.com/item?id=28947689)
 <!-- BLOG-POST-LIST:END -->
 
 ---
