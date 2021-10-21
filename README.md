@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Western Maryland asks West Virginia to 'consider adding us' to their state](https://www.baltimoresun.com/politics/bs-md-pol-western-md-wv-20211021-iyugtyt72rfzjlkzt4jigs2wky-story.html)
+- [Trump’s new social media site collapses after trolls flood it before launch](https://www.dailydot.com/debug/trump-truth-media-platform-shuts-down-trolling/)
+- [Building the Brex API](https://building.brex.com/building-the-brex-api-52dcb26cacc8?gi=a8b7e7a3a9bc)
+- [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/)
 - [Tesla is outrunning the supply chain crunch](https://www.axios.com/tesla-income-supply-chain-chip-shortage-13de2644-704d-426f-a510-f667de93f1da.html)
-- [Launch HN: Rainforest QA (YC S21) – No-Code UI Test Automation](https://news.ycombinator.com/item?id=28947689)
-- [Beyond Smart](http://paulgraham.com/smart.html)
-- [Compose.ai (YC W21) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/compose-ai/jobs/vUQpBfl-senior-frontend-engineer)
-- [Sam Altman’s Worldcoin wants to scan eyeballs in exchange for crypto](https://techcrunch.com/2021/10/21/sam-altmans-worldcoin-wants-to-scan-every-humans-eyeball-and-give-them-crypto-in-exchange/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
