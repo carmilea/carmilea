@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Billions of banknotes are missing. Why does nobody care?](https://www.economist.com/1843/2021/10/18/billions-of-banknotes-are-missing-why-does-nobody-care)
+- [DZone/SingleStore Webinar 1 of 3: Kubernetes &#038; State](https://www.singlestore.com/blog/dzone-memsql-webinar-1-of-3-kubernetes-state)
+- [Propositional logic exercises with the lean theorem prover](https://github.com/ImperialCollegeLondon/M40001_lean/blob/master/src/2021/logic/README.md)
 - [The communications systems at the US Central Command headquarters](https://www.electrospaces.net/2021/04/the-communications-equipment-at-us.html)
 - [ContainIQ (YC S21) Is Hiring eBPF and Kernel Engineer (Remote)](https://news.ycombinator.com/item?id=28950789)
-- ['High Power Mode' Coming to 16-Inch MacBook Pro with M1 Max, Apple Confirms](https://appleinsider.com/articles/21/10/21/high-power-mode-coming-to-16-inch-macbook-pro-with-m1-max-apple-confirms)
-- [Mastodon: AGPLv3 FOSS social network server](https://github.com/mastodon/mastodon)
-- [BYD has reportedly received 10 GWh of orders from Tesla for LFP batteries](https://pushevs.com/2021/10/21/byd-has-reportedly-received-10-gwh-of-orders-from-tesla-for-lfp-batteries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
