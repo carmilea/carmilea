@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Qventus (YC W15) Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba)
+- [NPM package ‘ua-parser-JS’ with more than 7M weekly download is compromised](https://old.reddit.com/r/programming/comments/qdlela/breaking_npm_package_uaparserjs_with_more_than_7m/)
+- [Kina Knowledge, using Common Lisp extensively in their document processing stack](https://lisp-journey.gitlab.io/blog/lisp-interview-kina/)
 - [Vinyl records are now outselling CDs](https://twitter.com/robwalling/status/1451570246935003140)
-- [Trump's new platform and the Affero General Public License of Mastodon](https://sfconservancy.org/blog/2021/oct/21/trump-groups-violates-affero-gpl/)
 - [Theorem demonstrates that CNNs can always be trained on quantum computers](https://discover.lanl.gov/news/releases/1015-quantum-ai/)
-- [The age of machine learning as code has arrived](https://huggingface.co/blog/the-age-of-ml-as-code)
-- [Predicting stock market returns from news photos](https://www.rmit.edu.au/news/media-releases-and-expert-comments/2021/oct/investor-mood-stock-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
