@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eleven reasons to switch from Windows to Linux](https://www.lpi.org/blog/2021/10/05/eleven-reasons-switch-windows-linux)
+- [Wall of Sound](https://en.wikipedia.org/wiki/Wall_of_Sound)
 - [Acho (YC W20) Is Hiring](https://jobs.acho.io/22429)
 - [Police Can’t Demand You Reveal Your Phone Passcode Then Tell a Jury You Refused](https://www.eff.org/deeplinks/2021/10/police-cant-demand-you-reveal-your-phone-passcode-and-then-tell-jury-you-refused)
-- [Going to Work for the Tor Project](https://diziet.dreamwidth.org/10255.html)
-- [After the Pandemic, We Can’t Go Back to Sleep](https://theanarchistlibrary.org/library/david-graeber-after-the-pandemic-we-can-t-go-back-to-sleep)
-- [Our Content Removal Transparency Report for January to June 2021](https://blog.google/outreach-initiatives/public-policy/our-content-removal-transparency-report-january-june-2021/)
+- [New Kubernetes high severity vulnerability alert: CVE-2021-25742](https://www.armosec.io/blog/new-kubernetes-high-severity-vulnerability-alert-cve-2021-25742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
