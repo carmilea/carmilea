@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain voting is overrated among uninformed but underrated among informed](https://vitalik.ca/general/2021/05/25/voting2.html)
 - [Qventus (YC W15) Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba)
+- [Fake shutters make me angry](https://thecraftsmanblog.com/why-fake-shutters-make-me-angry/)
 - [NPM package ‘ua-parser-JS’ with more than 7M weekly download is compromised](https://old.reddit.com/r/programming/comments/qdlela/breaking_npm_package_uaparserjs_with_more_than_7m/)
-- [Kina Knowledge, using Common Lisp extensively in their document processing stack](https://lisp-journey.gitlab.io/blog/lisp-interview-kina/)
-- [Vinyl records are now outselling CDs](https://twitter.com/robwalling/status/1451570246935003140)
-- [Theorem demonstrates that CNNs can always be trained on quantum computers](https://discover.lanl.gov/news/releases/1015-quantum-ai/)
+- [The Hidden Costs of Living Alone](https://www.theatlantic.com/family/archive/2021/10/living-alone-couple-partner-single/620434/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
