@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [John Carmack pushes out unlocked OS for defunct Oculus Go headset](https://arstechnica.com/gaming/2021/10/john-carmack-pushes-out-unlocked-os-for-defunct-oculus-go-headset/)
+- [Science of Slow Cooking](https://www.scienceofcooking.com/meat/slow_cooking1.htm)
 - [The Next Big Thing: Introducing IPU-POD128 and IPU-POD256](https://www.graphcore.ai/posts/the-next-big-thing-introducing-ipu-pod128-and-ipu-pod256)
-- [TCL: The Tool Command Language – Lisp for the Masses [video]](https://www.youtube.com/watch?v=3YwFHPFL20c)
-- [The War over Academic Freedom](https://www.newstatesman.com/politics/feminism/2021/10/kathleen-stock-and-sussex-university-the-war-over-academic-freedom)
-- [Bid to unionize Amazon workers in New York nears milestone](https://apnews.com/article/technology-business-staten-island-labor-unions-national-labor-relations-board-e0b998ff8b79bff7e4c48234b7d3490a)
-- [Google takes two-to-four times as much as the fees charged by rival ad networks](https://www.wsj.com/articles/google-charges-more-than-twice-its-rivals-in-ad-deals-wins-80-of-its-own-auctions-court-documents-say-11634912297)
+- [The monopoly strategy behind the Google/Microsoft mobile patent wars](https://pluralistic.net/2021/10/20/vizio-vs-the-world/)
+- [Ask HN: Best way to host a website for 500 years?](https://news.ycombinator.com/item?id=28957573)
 <!-- BLOG-POST-LIST:END -->
 
 ---
