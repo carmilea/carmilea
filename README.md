@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Just 10 News Photos Can Predict Global Daily Stock Market Returns](https://www.rmit.edu.au/news/media-releases-and-expert-comments/2021/oct/investor-mood-stock-photos)
-- [Chilling Effects](https://astralcodexten.substack.com/p/chilling-effects)
-- [Major Linux Problems on the Desktop, 2021 edition](https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html)
-- [YouTube is about to pull its apps from Roku](https://www.cnbc.com/2021/10/22/google-to-remove-youtube-apps-from-roku.html)
-- [Prometheus (YC W19) Is Hiring a Mechanical Engineer](https://www.ycombinator.com/companies/prometheus/jobs/j5qH6A6-mechanical-engineer)
+- [Vinyl records are now outselling CDs](https://twitter.com/robwalling/status/1451570246935003140)
+- [Trump's new platform and the Affero General Public License of Mastodon](https://sfconservancy.org/blog/2021/oct/21/trump-groups-violates-affero-gpl/)
+- [Theorem demonstrates that CNNs can always be trained on quantum computers](https://discover.lanl.gov/news/releases/1015-quantum-ai/)
+- [The age of machine learning as code has arrived](https://huggingface.co/blog/the-age-of-ml-as-code)
+- [Predicting stock market returns from news photos](https://www.rmit.edu.au/news/media-releases-and-expert-comments/2021/oct/investor-mood-stock-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
