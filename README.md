@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Billions of banknotes are missing. Why does nobody care?](https://www.economist.com/1843/2021/10/18/billions-of-banknotes-are-missing-why-does-nobody-care)
+- [Banks, gangsters and the strange resurgence of cash](https://www.economist.com/1843/2021/10/18/billions-of-banknotes-are-missing-why-does-nobody-care)
 - [DZone/SingleStore Webinar 1 of 3: Kubernetes &#038; State](https://www.singlestore.com/blog/dzone-memsql-webinar-1-of-3-kubernetes-state)
 - [Propositional logic exercises with the lean theorem prover](https://github.com/ImperialCollegeLondon/M40001_lean/blob/master/src/2021/logic/README.md)
 - [The communications systems at the US Central Command headquarters](https://www.electrospaces.net/2021/04/the-communications-equipment-at-us.html)
-- [ContainIQ (YC S21) Is Hiring eBPF and Kernel Engineer (Remote)](https://news.ycombinator.com/item?id=28950789)
+- [Recoll: A desktop full-text search tool](https://www.lesbonscomptes.com/recoll/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
