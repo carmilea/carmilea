@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Eleven reasons to switch from Windows to Linux](https://www.lpi.org/blog/2021/10/05/eleven-reasons-switch-windows-linux)
-- [Wall of Sound](https://en.wikipedia.org/wiki/Wall_of_Sound)
-- [Acho (YC W20) Is Hiring](https://jobs.acho.io/22429)
-- [Police Can’t Demand You Reveal Your Phone Passcode Then Tell a Jury You Refused](https://www.eff.org/deeplinks/2021/10/police-cant-demand-you-reveal-your-phone-passcode-and-then-tell-jury-you-refused)
-- [New Kubernetes high severity vulnerability alert: CVE-2021-25742](https://www.armosec.io/blog/new-kubernetes-high-severity-vulnerability-alert-cve-2021-25742)
+- [The Next Big Thing: Introducing IPU-POD128 and IPU-POD256](https://www.graphcore.ai/posts/the-next-big-thing-introducing-ipu-pod128-and-ipu-pod256)
+- [TCL: The Tool Command Language – Lisp for the Masses [video]](https://www.youtube.com/watch?v=3YwFHPFL20c)
+- [The War over Academic Freedom](https://www.newstatesman.com/politics/feminism/2021/10/kathleen-stock-and-sussex-university-the-war-over-academic-freedom)
+- [Bid to unionize Amazon workers in New York nears milestone](https://apnews.com/article/technology-business-staten-island-labor-unions-national-labor-relations-board-e0b998ff8b79bff7e4c48234b7d3490a)
+- [Google takes two-to-four times as much as the fees charged by rival ad networks](https://www.wsj.com/articles/google-charges-more-than-twice-its-rivals-in-ad-deals-wins-80-of-its-own-auctions-court-documents-say-11634912297)
 <!-- BLOG-POST-LIST:END -->
 
 ---
