@@ -54,7 +54,7 @@
 - [Acho (YC W20) Is Hiring](https://jobs.acho.io/22429)
 - [Police Can’t Demand You Reveal Your Phone Passcode Then Tell a Jury You Refused](https://www.eff.org/deeplinks/2021/10/police-cant-demand-you-reveal-your-phone-passcode-and-then-tell-jury-you-refused)
 - [Going to Work for the Tor Project](https://diziet.dreamwidth.org/10255.html)
-- [David Graeber: After the Pandemic, We Can’t Go Back to Sleep](https://theanarchistlibrary.org/library/david-graeber-after-the-pandemic-we-can-t-go-back-to-sleep)
+- [After the Pandemic, We Can’t Go Back to Sleep](https://theanarchistlibrary.org/library/david-graeber-after-the-pandemic-we-can-t-go-back-to-sleep)
 - [Our Content Removal Transparency Report for January to June 2021](https://blog.google/outreach-initiatives/public-policy/our-content-removal-transparency-report-january-june-2021/)
 <!-- BLOG-POST-LIST:END -->
 
