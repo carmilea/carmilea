@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Prometheus (YC W19) Is Hiring](https://www.ycombinator.com/companies/prometheus/jobs/j5qH6A6-mechanical-engineer)
+- [Truth Social broke software rules, says copyleft group](https://www.theverge.com/2021/10/22/22740354/trump-truth-social-network-spac-mastodon-license-software-freedom-conservancy)
+- [Show HN: Semgrep App](https://news.ycombinator.com/item?id=28959174)
+- [Breaking Britain](https://novaramedia.com/focus/breaking-britain/)
 - [John Carmack pushes out unlocked OS for defunct Oculus Go headset](https://arstechnica.com/gaming/2021/10/john-carmack-pushes-out-unlocked-os-for-defunct-oculus-go-headset/)
-- [Science of Slow Cooking](https://www.scienceofcooking.com/meat/slow_cooking1.htm)
-- [The Next Big Thing: Introducing IPU-POD128 and IPU-POD256](https://www.graphcore.ai/posts/the-next-big-thing-introducing-ipu-pod128-and-ipu-pod256)
-- [The monopoly strategy behind the Google/Microsoft mobile patent wars](https://pluralistic.net/2021/10/20/vizio-vs-the-world/)
-- [Ask HN: Best way to host a website for 500 years?](https://news.ycombinator.com/item?id=28957573)
 <!-- BLOG-POST-LIST:END -->
 
 ---
