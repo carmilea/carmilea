@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Just 10 News Photos Can Predict Global Daily Stock Market Returns](https://www.rmit.edu.au/news/media-releases-and-expert-comments/2021/oct/investor-mood-stock-photos)
+- [Chilling Effects](https://astralcodexten.substack.com/p/chilling-effects)
 - [Major Linux Problems on the Desktop, 2021 edition](https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html)
 - [YouTube is about to pull its apps from Roku](https://www.cnbc.com/2021/10/22/google-to-remove-youtube-apps-from-roku.html)
-- [Prometheus (YC W19) Is Hiring](https://www.ycombinator.com/companies/prometheus/jobs/j5qH6A6-mechanical-engineer)
-- [Truth Social broke software rules, says copyleft group](https://www.theverge.com/2021/10/22/22740354/trump-truth-social-network-spac-mastodon-license-software-freedom-conservancy)
-- [Show HN: Semgrep App](https://news.ycombinator.com/item?id=28959174)
+- [Prometheus (YC W19) Is Hiring a Mechanical Engineer](https://www.ycombinator.com/companies/prometheus/jobs/j5qH6A6-mechanical-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
