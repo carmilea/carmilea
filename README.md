@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How is bamboo- lumber made](https://www.bambooimport.com/en/how-is-bamboo-lumber-made)
+- [ConcernedApe's Haunted Chocolatier](https://www.hauntedchocolatier.net/)
 - [The 'impossible' crane shot from Soy Cuba (1964) [video]](https://twitter.com/nickdale/status/1450617359375343617)
-- [State Plates Project](https://stateplatesproject.com/)
+- [Knowledge Graphs](https://arxiv.org/abs/2003.02320)
 - [We're seeing an ongoing attack against our primary network provider](https://www.fastmailstatus.com/)
-- [Banks, gangsters and the strange resurgence of cash](https://www.economist.com/1843/2021/10/18/billions-of-banknotes-are-missing-why-does-nobody-care)
-- [DZone/SingleStore Webinar 1 of 3: Kubernetes &#038; State](https://www.singlestore.com/blog/dzone-memsql-webinar-1-of-3-kubernetes-state)
 <!-- BLOG-POST-LIST:END -->
 
 ---
