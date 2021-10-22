@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Major Linux Problems on the Desktop, 2021 edition](https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html)
+- [YouTube is about to pull its apps from Roku](https://www.cnbc.com/2021/10/22/google-to-remove-youtube-apps-from-roku.html)
 - [Prometheus (YC W19) Is Hiring](https://www.ycombinator.com/companies/prometheus/jobs/j5qH6A6-mechanical-engineer)
 - [Truth Social broke software rules, says copyleft group](https://www.theverge.com/2021/10/22/22740354/trump-truth-social-network-spac-mastodon-license-software-freedom-conservancy)
 - [Show HN: Semgrep App](https://news.ycombinator.com/item?id=28959174)
-- [Breaking Britain](https://novaramedia.com/focus/breaking-britain/)
-- [John Carmack pushes out unlocked OS for defunct Oculus Go headset](https://arstechnica.com/gaming/2021/10/john-carmack-pushes-out-unlocked-os-for-defunct-oculus-go-headset/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
