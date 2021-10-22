@@ -54,7 +54,7 @@
 - [Stacker (YC S20) Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
 - [Half a Million South Korean Workers Prepare to Walk Off Jobs in General Strike](https://truthout.org/articles/half-a-million-south-korean-workers-prepare-to-walk-off-jobs-in-general-strike/)
 - [Magit, the Magical Git Interface](https://emacsair.me/2017/09/01/the-magical-git-interface/)
-- [How is bamboo- lumber made](https://www.bambooimport.com/en/how-is-bamboo-lumber-made)
+- [How is Bamboo Lumber Made?](https://www.bambooimport.com/en/how-is-bamboo-lumber-made)
 - [ConcernedApe's Haunted Chocolatier](https://www.hauntedchocolatier.net/)
 <!-- BLOG-POST-LIST:END -->
 
