@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Let's discuss the source code for the GPLed parts of Tesla cars (2019)](https://sfconservancy.org/blog/2019/oct/30/calling-all-tesla-owners/)
+- [European Parliament: UK and US are global hubs for money laundering, tax evasion](https://www.brusselstimes.com/news/eu-affairs/190352/pandora-papers-european-parliament-describes-uk-and-us-as-global-hubs-for-money-laundering-and-tax-evasion/)
+- [Google sought fellow tech giants' help in stalling kids' privacy protections](https://www.politico.com/news/2021/10/22/google-kids-privacy-protections-tech-giants-516834)
 - [When People Carved Turnips Instead of Pumpkins for Halloween](https://www.smithsonianmag.com/smart-news/when-people-carved-turnips-instead-of-pumpkins-for-halloween-180978922/)
 - [What's more important, being passionate or being curious?](https://tinkeredthinking.com/index.php?id=22)
-- [How Americans Became So Sensitive to Harm (2016)](https://www.theatlantic.com/politics/archive/2016/04/concept-creep/477939/)
-- [Scryer-Prolog: modern Prolog implementation written mostly in Rust](https://github.com/mthom/scryer-prolog)
-- [Federal Judges or Their Brokers Traded Stocks of Litigants During Cases](https://www.wsj.com/articles/federal-judges-brokers-traded-stocks-of-litigants-during-cases-walmart-pfizer-11634306192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
