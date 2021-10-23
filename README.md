@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Federal Judges or Their Brokers Traded Stocks of Litigants During Cases](https://www.wsj.com/articles/federal-judges-brokers-traded-stocks-of-litigants-during-cases-walmart-pfizer-11634306192)
 - [Leaving Google](https://jayconrod.com/posts/122/leaving-google)
 - [IBM PS/2 Keyboard Modification](https://ardent-tool.com/keyboard/mods/Model_M_Modifications.html)
 - [Stayflexi (YC W21) Is Hiring](https://www.ycombinator.com/companies/stayflexi/jobs/XOgPJYp-software-developer)
 - [What Makes Stuff Rot?](https://www.overcomingbias.com/2021/10/what-makes-stuff-rot.html)
-- [Feasibility of a Dune Ornithopter](http://pages.erau.edu/~andrewsa/sci_fi_projects_spring_2015/Project_2/Eilts_Mitchell/Dune%20Eilts/Dune%20Eilts/index_Eilts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
