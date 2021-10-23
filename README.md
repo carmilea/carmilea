@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stayflexi (YC W21) Is Hiring](https://www.ycombinator.com/companies/stayflexi/jobs/XOgPJYp-software-developer)
+- [Facebook Faulted by Staff over Jan. 6 Insurrection: 'Abdication'](https://www.bloomberg.com/news/articles/2021-10-22/facebook-faulted-by-staff-over-jan-6-insurrection-abdication)
 - [Fastmail is having problems again](https://www.fastmailstatus.com/services/general)
-- [Blockchain voting is overrated among uninformed but underrated among informed](https://vitalik.ca/general/2021/05/25/voting2.html)
-- [Qventus (YC W15) Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/qventus/3f29db7c-a1c6-4c67-abf6-fb0d5b965bba)
 - [Fake shutters make me angry](https://thecraftsmanblog.com/why-fake-shutters-make-me-angry/)
 - [NPM package ‘ua-parser-JS’ with more than 7M weekly download is compromised](https://old.reddit.com/r/programming/comments/qdlela/breaking_npm_package_uaparserjs_with_more_than_7m/)
 <!-- BLOG-POST-LIST:END -->
