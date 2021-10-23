@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM PS/2 Keyboard Modification](https://ardent-tool.com/keyboard/mods/Model_M_Modifications.html)
+- [Nassim Nicholas Taleb Calls Bitcoin a Tulip Bubble Without the Aesthetics](https://www.bloomberg.com/news/articles/2021-10-21/taleb-calls-bitcoin-a-tulip-bubble-without-the-aesthetics)
 - [Stayflexi (YC W21) Is Hiring](https://www.ycombinator.com/companies/stayflexi/jobs/XOgPJYp-software-developer)
-- [Facebook Faulted by Staff over Jan. 6 Insurrection: 'Abdication'](https://www.bloomberg.com/news/articles/2021-10-22/facebook-faulted-by-staff-over-jan-6-insurrection-abdication)
-- [Fastmail is having problems again](https://www.fastmailstatus.com/services/general)
-- [Fake shutters make me angry](https://thecraftsmanblog.com/why-fake-shutters-make-me-angry/)
+- [Feasibility of a Dune Ornithopter](http://pages.erau.edu/~andrewsa/sci_fi_projects_spring_2015/Project_2/Eilts_Mitchell/Dune%20Eilts/Dune%20Eilts/index_Eilts.html)
 - [NPM package ‘ua-parser-JS’ with more than 7M weekly download is compromised](https://old.reddit.com/r/programming/comments/qdlela/breaking_npm_package_uaparserjs_with_more_than_7m/)
 <!-- BLOG-POST-LIST:END -->
 
