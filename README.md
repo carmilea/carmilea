@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [People who “drink to cope” can make their symptoms worse: study](https://digest.bps.org.uk/2021/10/20/drinking-to-cope-doesnt-work-even-when-we-believe-that-it-does/)
+- [Flexport is hiring engineers to help uncork global supply chains](https://www.flexport.com/careers)
+- [Framework: Solving for Silicon Shortages](https://frame.work/blog/solving-for-silicon-shortages)
 - [Raspberry Pi 3 Fastboot – Less Than 2 Seconds](https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/)
 - [React Docs Beta – rewritten with hooks and interactive examples](https://beta.reactjs.org/)
 - [AMD Short Interest Has Grown by 234% in Nine Months Reveals Data](https://wccftech.com/amd-short-interest-has-grown-by-234-in-nine-months-reveals-data/)
-- [The Air Force Has a Plan to Make Jet Fuel Out of Thin Air](https://www.thedrive.com/the-war-zone/42852/the-air-force-has-a-plan-to-make-jet-fuel-out-of-thin-air)
 <!-- BLOG-POST-LIST:END -->
 
 ---
