@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Super low-latency jamming over the internet](https://sub.live)
+- [AMD Short Interest Has Grown by 234% in Nine Months Reveals Data](https://wccftech.com/amd-short-interest-has-grown-by-234-in-nine-months-reveals-data/)
+- [The Air Force Has a Plan to Make Jet Fuel Out of Thin Air](https://www.thedrive.com/the-war-zone/42852/the-air-force-has-a-plan-to-make-jet-fuel-out-of-thin-air)
+- [Can we trust Microsoft with Open Source?](https://dusted.codes/can-we-trust-microsoft-with-open-source)
+- [Show HN: Super low-latency jamming over the internet](https://sub.live)
 - [What do I need to read to be a great at CSS?](https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/)
-- [Fastmail, Runbox, and Posteo under DDoS extortion attack](https://blog.runbox.com/2021/10/runbox-is-under-attack-by-extortionists/)
-- [YouTube deletes rapper's 'Let's Go Brandon' song claiming medical misinformation](https://www.foxnews.com/politics/youtube-deletes-rappers-lets-go-brandon-song-medical-misinformation)
-- [Google said it had successfully ‘slowed down’ European privacy rules](https://www.nytimes.com/2021/10/22/technology/google-privacy-lawsuit.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
