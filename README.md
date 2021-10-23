@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube deletes rapper's 'Let's Go Brandon' song claiming medical misinformation](https://www.foxnews.com/politics/youtube-deletes-rappers-lets-go-brandon-song-medical-misinformation)
+- [Covid Pass in Lithuania and Throughout Europe](https://txti.es/covid-pass/images)
 - [Google said it had successfully ‘slowed down’ European privacy rules](https://www.nytimes.com/2021/10/22/technology/google-privacy-lawsuit.html)
 - [Sirum (YC W15) is hiring to help automate safety-net pharmacies](https://news.ycombinator.com/item?id=28967604)
 - [Google 'colluded' with Facebook to bypass Apple privacy](https://www.theregister.com/2021/10/22/google_facebook_antitrust_complaint/)
-- [Plea: Help us get home from Afghanistan](https://drive.google.com/file/d/1yk56BqGH-tjsErcWaiLlGEaHoB3Y1sie/view)
-- [Gallium helps convert CO2 into Carbon and Oxygen](https://www.mining.com/liquid-metal-helps-convert-co2-into-useful-resources/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
