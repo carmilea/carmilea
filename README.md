@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Something special is happening in Barcelona](https://twitter.com/zachklein/status/1450113164775870468)
+- [N.I.N.A. – Nighttime Imaging 'N' Astronomy](https://nighttime-imaging.eu/)
 - [Flexport is hiring engineers to help uncork global supply chains](https://www.flexport.com/careers)
 - [Framework: Solving for Silicon Shortages](https://frame.work/blog/solving-for-silicon-shortages)
 - [Raspberry Pi 3 Fastboot – Less Than 2 Seconds](https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/)
-- [React Docs Beta – rewritten with hooks and interactive examples](https://beta.reactjs.org/)
-- [AMD Short Interest Has Grown by 234% in Nine Months Reveals Data](https://wccftech.com/amd-short-interest-has-grown-by-234-in-nine-months-reveals-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
