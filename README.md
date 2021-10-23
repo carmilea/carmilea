@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scryer-Prolog: modern Prolog implementation written mostly in Rust](https://github.com/mthom/scryer-prolog)
 - [Federal Judges or Their Brokers Traded Stocks of Litigants During Cases](https://www.wsj.com/articles/federal-judges-brokers-traded-stocks-of-litigants-during-cases-walmart-pfizer-11634306192)
-- [Leaving Google](https://jayconrod.com/posts/122/leaving-google)
-- [IBM PS/2 Keyboard Modification](https://ardent-tool.com/keyboard/mods/Model_M_Modifications.html)
-- [Stayflexi (YC W21) Is Hiring](https://www.ycombinator.com/companies/stayflexi/jobs/XOgPJYp-software-developer)
-- [What Makes Stuff Rot?](https://www.overcomingbias.com/2021/10/what-makes-stuff-rot.html)
+- [Facebook crisis grows as new whistleblower and leaked documents emerge](https://www.theguardian.com/technology/2021/oct/22/facebook-whistleblower-hate-speech-illegal-report)
+- [The Ultimate Student: Best Practices for 100 Mental Models](https://app.telepathylab.com/ultimate-student)
+- [BioBlock nasal spray protects against all major variants of coronaviruses](https://www.icosagen.com/news/new-laboratory-studies-suggest-that-bioblock-r-nasal-spray-provides-protection-against-all-major-variants-of-coronaviruses)
 <!-- BLOG-POST-LIST:END -->
 
 ---
