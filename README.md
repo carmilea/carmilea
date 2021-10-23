@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Leaving Google (Golang Team)](https://jayconrod.com/posts/122/leaving-google)
+- [Leaving Google](https://jayconrod.com/posts/122/leaving-google)
 - [IBM PS/2 Keyboard Modification](https://ardent-tool.com/keyboard/mods/Model_M_Modifications.html)
 - [Stayflexi (YC W21) Is Hiring](https://www.ycombinator.com/companies/stayflexi/jobs/XOgPJYp-software-developer)
 - [Feasibility of a Dune Ornithopter](http://pages.erau.edu/~andrewsa/sci_fi_projects_spring_2015/Project_2/Eilts_Mitchell/Dune%20Eilts/Dune%20Eilts/index_Eilts.html)
-- [GPT Code Clippy, the Open Source Version of GitHub Copilot](https://github.com/CodedotAl/gpt-code-clippy)
+- [The IBM 4020 Military Computer – Tracking Missiles with 6-Bit Bytes](https://www.cpushack.com/2021/10/22/the-ibm-4020-military-computer-tracking-missiles-with-6-bit-bytes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
