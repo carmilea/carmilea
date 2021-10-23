@@ -54,8 +54,8 @@
 - [Scryer-Prolog: modern Prolog implementation written mostly in Rust](https://github.com/mthom/scryer-prolog)
 - [Federal Judges or Their Brokers Traded Stocks of Litigants During Cases](https://www.wsj.com/articles/federal-judges-brokers-traded-stocks-of-litigants-during-cases-walmart-pfizer-11634306192)
 - [Facebook crisis grows as new whistleblower and leaked documents emerge](https://www.theguardian.com/technology/2021/oct/22/facebook-whistleblower-hate-speech-illegal-report)
-- [The Ultimate Student: Best Practices for 100 Mental Models](https://app.telepathylab.com/ultimate-student)
-- [BioBlock nasal spray protects against all major variants of coronaviruses](https://www.icosagen.com/news/new-laboratory-studies-suggest-that-bioblock-r-nasal-spray-provides-protection-against-all-major-variants-of-coronaviruses)
+- [An enormous thread on alleged Google Facebook collusion](https://twitter.com/PatrickMcGee_/status/1451619916994396164)
+- [Glimmer DSL for LibUI – Simplest Native Cross-Platform GUI Library](https://github.com/AndyObtiva/glimmer-dsl-libui)
 <!-- BLOG-POST-LIST:END -->
 
 ---
