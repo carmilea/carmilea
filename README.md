@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Long Beach removed container stacking rule after Flexport CEO's tweet](https://twitter.com/typesfast/status/1451673736877428742)
 - [Something special is happening in Barcelona](https://twitter.com/zachklein/status/1450113164775870468)
 - [N.I.N.A. – Nighttime Imaging 'N' Astronomy](https://nighttime-imaging.eu/)
 - [Flexport is hiring engineers to help uncork global supply chains](https://www.flexport.com/careers)
 - [Framework: Solving for Silicon Shortages](https://frame.work/blog/solving-for-silicon-shortages)
-- [Raspberry Pi 3 Fastboot – Less Than 2 Seconds](https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
