@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [People who “drink to cope” can make their symptoms worse: study](https://digest.bps.org.uk/2021/10/20/drinking-to-cope-doesnt-work-even-when-we-believe-that-it-does/)
+- [Raspberry Pi 3 Fastboot – Less Than 2 Seconds](https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/)
+- [React Docs Beta – rewritten with hooks and interactive examples](https://beta.reactjs.org/)
 - [AMD Short Interest Has Grown by 234% in Nine Months Reveals Data](https://wccftech.com/amd-short-interest-has-grown-by-234-in-nine-months-reveals-data/)
 - [The Air Force Has a Plan to Make Jet Fuel Out of Thin Air](https://www.thedrive.com/the-war-zone/42852/the-air-force-has-a-plan-to-make-jet-fuel-out-of-thin-air)
-- [Can we trust Microsoft with Open Source?](https://dusted.codes/can-we-trust-microsoft-with-open-source)
-- [Show HN: Super low-latency jamming over the internet](https://sub.live)
-- [What do I need to read to be a great at CSS?](https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
