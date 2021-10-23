@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Let's discuss the source code for the GPLed parts of Tesla cars (2019)](https://sfconservancy.org/blog/2019/oct/30/calling-all-tesla-owners/)
-- [European Parliament: UK and US are global hubs for money laundering, tax evasion](https://www.brusselstimes.com/news/eu-affairs/190352/pandora-papers-european-parliament-describes-uk-and-us-as-global-hubs-for-money-laundering-and-tax-evasion/)
-- [Google sought fellow tech giants' help in stalling kids' privacy protections](https://www.politico.com/news/2021/10/22/google-kids-privacy-protections-tech-giants-516834)
-- [When People Carved Turnips Instead of Pumpkins for Halloween](https://www.smithsonianmag.com/smart-news/when-people-carved-turnips-instead-of-pumpkins-for-halloween-180978922/)
-- [What's more important, being passionate or being curious?](https://tinkeredthinking.com/index.php?id=22)
+- [Google said it had successfully ‘slowed down’ European privacy rules](https://www.nytimes.com/2021/10/22/technology/google-privacy-lawsuit.html)
+- [Sirum (YC W15) is hiring to help automate safety-net pharmacies](https://news.ycombinator.com/item?id=28967604)
+- [Google 'colluded' with Facebook to bypass Apple privacy](https://www.theregister.com/2021/10/22/google_facebook_antitrust_complaint/)
+- [Plea: Help us get home from Afghanistan](https://drive.google.com/file/d/1yk56BqGH-tjsErcWaiLlGEaHoB3Y1sie/view)
+- [Gallium helps convert CO2 into Carbon and Oxygen](https://www.mining.com/liquid-metal-helps-convert-co2-into-useful-resources/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
