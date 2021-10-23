@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft re-adds .NET hot-reload](https://github.com/dotnet/sdk/pull/22262)
+- [Philip K. Dick: How to Build a Universe That Doesn’t Fall Apart Two Days Later](https://urbigenous.net/library/how_to_build.html)
+- [Revert "Remove Hot Reload support from dotnet watch"](https://github.com/dotnet/sdk/pull/22262)
+- [Go the F to Sleep](https://aplus.rs/2021/hackintosh-sleep-wake/)
 - [Smarking (YC W15) Is Hiring Head of Eng to Digitize $655B Parking Industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - [Long Beach has temporarily suspended container stacking limitations](https://twitter.com/typesfast/status/1451673736877428742)
-- [20Y study finds little evidence religiosity leads to greater life satisfaction](https://www.psypost.org/2021/10/a-20-year-longitudinal-study-finds-little-evidence-that-religiosity-leads-to-greater-life-satisfaction-61991)
-- [ProjectM – The most advanced open-source music visualizer](https://github.com/projectM-visualizer/projectm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
