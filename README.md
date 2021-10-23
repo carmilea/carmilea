@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaving Google (Golang Team)](https://jayconrod.com/posts/122/leaving-google)
 - [IBM PS/2 Keyboard Modification](https://ardent-tool.com/keyboard/mods/Model_M_Modifications.html)
-- [Nassim Nicholas Taleb Calls Bitcoin a Tulip Bubble Without the Aesthetics](https://www.bloomberg.com/news/articles/2021-10-21/taleb-calls-bitcoin-a-tulip-bubble-without-the-aesthetics)
 - [Stayflexi (YC W21) Is Hiring](https://www.ycombinator.com/companies/stayflexi/jobs/XOgPJYp-software-developer)
 - [Feasibility of a Dune Ornithopter](http://pages.erau.edu/~andrewsa/sci_fi_projects_spring_2015/Project_2/Eilts_Mitchell/Dune%20Eilts/Dune%20Eilts/index_Eilts.html)
-- [NPM package ‘ua-parser-JS’ with more than 7M weekly download is compromised](https://old.reddit.com/r/programming/comments/qdlela/breaking_npm_package_uaparserjs_with_more_than_7m/)
+- [GPT Code Clippy, the Open Source Version of GitHub Copilot](https://github.com/CodedotAl/gpt-code-clippy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
