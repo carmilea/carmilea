@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Long Beach removed container stacking rule after Flexport CEO's tweet](https://twitter.com/typesfast/status/1451673736877428742)
+- [Long Beach has temporarily suspended container stacking limitations](https://twitter.com/typesfast/status/1451673736877428742)
+- [20Y study finds little evidence religiosity leads to greater life satisfaction](https://www.psypost.org/2021/10/a-20-year-longitudinal-study-finds-little-evidence-that-religiosity-leads-to-greater-life-satisfaction-61991)
+- [ProjectM – The most advanced open-source music visualizer](https://github.com/projectM-visualizer/projectm)
 - [Something special is happening in Barcelona](https://twitter.com/zachklein/status/1450113164775870468)
 - [N.I.N.A. – Nighttime Imaging 'N' Astronomy](https://nighttime-imaging.eu/)
-- [Flexport is hiring engineers to help uncork global supply chains](https://www.flexport.com/careers)
-- [Framework: Solving for Silicon Shortages](https://frame.work/blog/solving-for-silicon-shortages)
 <!-- BLOG-POST-LIST:END -->
 
 ---
