@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Super low-latency jamming over the internet](https://sub.live)
+- [What do I need to read to be a great at CSS?](https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/)
+- [Fastmail, Runbox, and Posteo under DDoS extortion attack](https://blog.runbox.com/2021/10/runbox-is-under-attack-by-extortionists/)
 - [YouTube deletes rapper's 'Let's Go Brandon' song claiming medical misinformation](https://www.foxnews.com/politics/youtube-deletes-rappers-lets-go-brandon-song-medical-misinformation)
-- [Covid Pass in Lithuania and Throughout Europe](https://txti.es/covid-pass/images)
 - [Google said it had successfully ‘slowed down’ European privacy rules](https://www.nytimes.com/2021/10/22/technology/google-privacy-lawsuit.html)
-- [Sirum (YC W15) is hiring to help automate safety-net pharmacies](https://news.ycombinator.com/item?id=28967604)
-- [Google 'colluded' with Facebook to bypass Apple privacy](https://www.theregister.com/2021/10/22/google_facebook_antitrust_complaint/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
