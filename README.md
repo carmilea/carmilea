@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [US west coast braces for ‘atmospheric river’ as storm brews](https://www.theguardian.com/us-news/2021/oct/23/california-storm-atmospheric-river-flooding)
+- [Despite having just 5.8% sales, over 38% of bug reports come from Linux](https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)
 - [Signal for Help](https://en.wikipedia.org/wiki/Signal_for_Help)
-- [The Real Scandal About Ivermectin](https://www.theatlantic.com/science/archive/2021/10/ivermectin-research-problems/620473/)
-- [Tesco say website and app down after hack attempt](https://www.bbc.com/news/business-59027423)
-- [Internet Object – A JSON alternative data serialization format](https://internetobject.org/)
-- [NSA's Key Role in Major Developments in Computer Science [pdf]](https://media.defense.gov/2021/Jul/01/2002754533/-1/-1/0/6586785-NSA-KEY-ROLE-IN-MAJOR-DEVELOPMENTS-IN-COMPUTER-SCIENCE.PDF)
+- [Shoddy Ivermectin research is unremarkable in its shoddiness](https://www.theatlantic.com/science/archive/2021/10/ivermectin-research-problems/620473/)
+- [Tens of millions of filthy, used medical gloves imported into the US](https://lite.cnn.com/en/article/h_d40465d82e17ebe6c44736dc91cfb6fe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
