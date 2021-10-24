@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
 - [Google has a secret deal with FB called “Jedi Blue” that they knew was illegal](https://twitter.com/fasterthanlime/status/1452053940024057857)
-- [An analysis of 7,020,950 NFT transactions on the Ethereum blockchain](https://old.reddit.com/r/MachineLearning/comments/qcychj/p_an_analysis_of_7020950_nft_transactions_on_the/)
-- [Does Captain Kirk die when he goes through the transporter?](http://backreaction.blogspot.com/2021/10/does-captain-kirk-die-when-he-goes.html)
+- [Barcelona’s Bicibús: hundreds of families biking to school together](https://www.npr.org/2021/10/22/1047341052/barcelona-bicibus-kids-parents-bike-ride-to-school)
 - [230 people living communally on 175 acre eco village](https://www.youtube.com/watch?v=n-uH36w9xg8)
 <!-- BLOG-POST-LIST:END -->
 
