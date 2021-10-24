@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Google digital advertising antitrust litigation [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.152.0_1.pdf)
-- [Air Force proves it’s possible to make jet fuel out of thin air](https://www.afmc.af.mil/News/Article-Display/Article/2820003/air-force-partners-with-twelve-proves-its-possible-to-make-jet-fuel-out-of-thin/)
 - [Pong using browser windows as the paddles and ball (2009)](http://stewd.io/pong/)
 - [Gunship “Tech Noir” Breakdown](https://synthctrl.com/blogs/blog/gunship-tech-noir-breakdown)
+- [EU scientists reveal long-term brain damage caused by Covid](https://www.rfi.fr/en/france/20211022-eu-research-reveals-long-term-brain-damage-caused-by-covid)
 - [Google had a plan called “Project NERA” to turn the web into a walled garden](https://twitter.com/fasterthanlime/status/1452053941504684036)
 <!-- BLOG-POST-LIST:END -->
 
