@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft no longer signs Windows drivers for Process Hacker](https://borncity.com/win/2021/10/23/microsoft-signiert-windows-treiber-fr-process-hacker-nicht-mehr/)
+- [Habits I've Developed for Fast and Efficient Programming](https://cprimozic.net/blog/programming-speed-strategies/)
+- [The falsehoods of anti-AGPL propaganda (2020)](https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html)
 - [Google digital advertising antitrust litigation [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.152.0_1.pdf)
 - [Pong using browser windows as the paddles and ball (2009)](http://stewd.io/pong/)
-- [Gunship “Tech Noir” Breakdown](https://synthctrl.com/blogs/blog/gunship-tech-noir-breakdown)
-- [EU scientists reveal long-term brain damage caused by Covid](https://www.rfi.fr/en/france/20211022-eu-research-reveals-long-term-brain-damage-caused-by-covid)
-- [Google had a plan called “Project NERA” to turn the web into a walled garden](https://twitter.com/fasterthanlime/status/1452053941504684036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
