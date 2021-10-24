@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Signal for Help](https://en.wikipedia.org/wiki/Signal_for_Help)
+- [The Real Scandal About Ivermectin](https://www.theatlantic.com/science/archive/2021/10/ivermectin-research-problems/620473/)
 - [Tesco say website and app down after hack attempt](https://www.bbc.com/news/business-59027423)
 - [Internet Object – A JSON alternative data serialization format](https://internetobject.org/)
 - [NSA's Key Role in Major Developments in Computer Science [pdf]](https://media.defense.gov/2021/Jul/01/2002754533/-1/-1/0/6586785-NSA-KEY-ROLE-IN-MAJOR-DEVELOPMENTS-IN-COMPUTER-SCIENCE.PDF)
-- [TagSpaces: Organize Your Files with Tags](https://www.tagspaces.org/)
-- [Polyhedra Viewer: Visualize relationships between convex regular-faced polyhedra](https://polyhedra.tessera.li/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
