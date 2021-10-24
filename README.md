@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
-- [Google has a secret deal with FB called “Jedi Blue” that they knew was illegal](https://twitter.com/fasterthanlime/status/1452053940024057857)
-- [Barcelona’s Bicibús: hundreds of families biking to school together](https://www.npr.org/2021/10/22/1047341052/barcelona-bicibus-kids-parents-bike-ride-to-school)
-- [230 people living communally on 175 acre eco village](https://www.youtube.com/watch?v=n-uH36w9xg8)
+- [Tesco say website and app down after hack attempt](https://www.bbc.com/news/business-59027423)
+- [Internet Object – A JSON alternative data serialization format](https://internetobject.org/)
+- [NSA's Key Role in Major Developments in Computer Science [pdf]](https://media.defense.gov/2021/Jul/01/2002754533/-1/-1/0/6586785-NSA-KEY-ROLE-IN-MAJOR-DEVELOPMENTS-IN-COMPUTER-SCIENCE.PDF)
+- [TagSpaces: Organize Your Files with Tags](https://www.tagspaces.org/)
+- [Polyhedra Viewer: Visualize relationships between convex regular-faced polyhedra](https://polyhedra.tessera.li/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
