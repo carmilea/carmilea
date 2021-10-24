@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Philip K. Dick: How to Build a Universe That Doesn’t Fall Apart Two Days Later](https://urbigenous.net/library/how_to_build.html)
-- [Revert "Remove Hot Reload support from dotnet watch"](https://github.com/dotnet/sdk/pull/22262)
-- [Go the F to Sleep](https://aplus.rs/2021/hackintosh-sleep-wake/)
-- [Smarking (YC W15) Is Hiring Head of Eng to Digitize $655B Parking Industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Long Beach has temporarily suspended container stacking limitations](https://twitter.com/typesfast/status/1451673736877428742)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28973926)
+- [San Fransicko: A cautionary tale from the streets of San Francisco](https://www.economist.com/books-and-arts/2021/10/23/a-cautionary-tale-from-the-streets-of-san-francisco)
+- [Your Phone Is Listening and It's Not Paranoia (2018)](https://www.vice.com/en/article/wjbzzy/your-phone-is-listening-and-its-not-paranoia)
+- [How to build a universe that doesn’t fall apart two days later (1978)](https://urbigenous.net/library/how_to_build.html)
+- [No time to die: An indepth analysis of James Bonds exposure to infectious agents](https://www.sciencedirect.com/science/article/pii/S1477893921002167)
 <!-- BLOG-POST-LIST:END -->
 
 ---
