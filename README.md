@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NYT Ben Hubbard Hacked with Pegasus After Reporting on Previous Hacking Attempts](https://citizenlab.ca/2021/10/breaking-news-new-york-times-journalist-ben-hubbard-pegasus/)
-- [Self Studying the MIT Applied Math Curriculum](https://www.smallstepcap.com/)
-- [Emerge Tools (YC W21) Is Hiring a Senior Software Engineer (Remote)](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer)
-- [Show HN: Pimp My Readme](https://pimp-my-readme.webapp.io/)
-- [New Brunswick’s Mystery Disease](https://thewalrus.ca/new-brunswicks-medical-mystery/)
+- [The FT 404 page ... someone put some thought into this ...](https://www.ft.com/3lJQa6w)
+- [Bullets: Sizes, Calibers, and Types (2020)](https://www.pewpewtactical.com/bullet-sizes-calibers-and-types/)
+- [5 side projects in 6 years, earning $0](https://kwcodes.com/how-i-failed-5-side-projects-in-6-years-earning-0/)
+- [NYT journalist hacked with Pegasus after reporting on previous hacking attempts](https://citizenlab.ca/2021/10/breaking-news-new-york-times-journalist-ben-hubbard-pegasus/)
+- [A few of the best math explainers from this summer [video]](https://www.youtube.com/watch?v=F3Qixy-r_rQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
