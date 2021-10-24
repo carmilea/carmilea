@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NYT Ben Hubbard Hacked with Pegasus After Reporting on Previous Hacking Attempts](https://citizenlab.ca/2021/10/breaking-news-new-york-times-journalist-ben-hubbard-pegasus/)
+- [Self Studying the MIT Applied Math Curriculum](https://www.smallstepcap.com/)
 - [Emerge Tools (YC W21) Is Hiring a Senior Software Engineer (Remote)](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer)
-- [Raspberry Pi, Static HTTPS Site with Docker and Nginx](https://gist.github.com/rain-1/2d6033ee2b63c0a3ab802b5572df3ba9)
-- [Ask HN: What’s your favorite tool for planning your day?](https://news.ycombinator.com/item?id=28979602)
-- [Controlling the Terminal with Common Lisp](https://turtleware.eu/posts/Controlling-the-terminal.html)
-- [Ask HN: Switch from Development to Security?](https://news.ycombinator.com/item?id=28979231)
+- [Show HN: Pimp My Readme](https://pimp-my-readme.webapp.io/)
+- [New Brunswick’s Mystery Disease](https://thewalrus.ca/new-brunswicks-medical-mystery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
