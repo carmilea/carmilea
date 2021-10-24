@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists have found a way to harden wood to make a knife that rivals steel](https://www.cbc.ca/radio/quirks/oct-23-vikings-in-newfoundland-new-rocks-from-the-moon-making-wood-better-and-more-1.6219865/scientists-have-found-a-way-to-harden-wood-to-make-a-knife-that-rivals-steel-1.6219874)
-- [Two conspiracy theories about cola](https://dynomight.net/cola/)
-- [Percentage of Hacker News job postings that mention a remote option 2017-2021](https://rinzewind.org/blog-en/2021/percentage-of-hacker-news-job-postings-that-mention-a-remote-option.html)
-- [US west coast braces for ‘atmospheric river’ as storm brews](https://www.theguardian.com/us-news/2021/oct/23/california-storm-atmospheric-river-flooding)
-- [Despite having just 5.8% sales, over 38% of bug reports come from Linux](https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)
+- [Emerge Tools (YC W21) Is Hiring a Senior Software Engineer (Remote)](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer)
+- [Raspberry Pi, Static HTTPS Site with Docker and Nginx](https://gist.github.com/rain-1/2d6033ee2b63c0a3ab802b5572df3ba9)
+- [Ask HN: What’s your favorite tool for planning your day?](https://news.ycombinator.com/item?id=28979602)
+- [Controlling the Terminal with Common Lisp](https://turtleware.eu/posts/Controlling-the-terminal.html)
+- [Ask HN: Switch from Development to Security?](https://news.ycombinator.com/item?id=28979231)
 <!-- BLOG-POST-LIST:END -->
 
 ---
