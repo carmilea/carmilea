@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists have found a way to harden wood to make a knife that rivals steel](https://www.cbc.ca/radio/quirks/oct-23-vikings-in-newfoundland-new-rocks-from-the-moon-making-wood-better-and-more-1.6219865/scientists-have-found-a-way-to-harden-wood-to-make-a-knife-that-rivals-steel-1.6219874)
+- [Two conspiracy theories about cola](https://dynomight.net/cola/)
+- [Percentage of Hacker News job postings that mention a remote option 2017-2021](https://rinzewind.org/blog-en/2021/percentage-of-hacker-news-job-postings-that-mention-a-remote-option.html)
 - [US west coast braces for ‘atmospheric river’ as storm brews](https://www.theguardian.com/us-news/2021/oct/23/california-storm-atmospheric-river-flooding)
 - [Despite having just 5.8% sales, over 38% of bug reports come from Linux](https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)
-- [Signal for Help](https://en.wikipedia.org/wiki/Signal_for_Help)
-- [Shoddy Ivermectin research is unremarkable in its shoddiness](https://www.theatlantic.com/science/archive/2021/10/ivermectin-research-problems/620473/)
-- [Tens of millions of filthy, used medical gloves imported into the US](https://lite.cnn.com/en/article/h_d40465d82e17ebe6c44736dc91cfb6fe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
