@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jack Dorsey says ‘hyperinflation’ will happen soon in the U.S. and the world](https://www.cnbc.com/2021/10/23/twitter-and-square-ceo-jack-dorsey-says-hyperinflation-will-happen-soon-in-the-us-and-the-world.html)
 - [Ask HN: Is the Great Resignation in tech real? If so, why?](https://news.ycombinator.com/item?id=28973942)
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=28973926)
 - [Prosecutors uncover money-laundering operation between US and Dubai](https://samsung.tribunecontentagency.com/2021/10/23/prosecutors-in-detroit-uncover-massive-money-laundering-operation-between-us-and-dubai/)
-- [San Fransicko: A cautionary tale from the streets of San Francisco](https://www.economist.com/books-and-arts/2021/10/23/a-cautionary-tale-from-the-streets-of-san-francisco)
-- [Goodnight Dune](https://goodnightdune.com/)
+- [A cautionary tale from the streets of San Francisco](https://www.economist.com/books-and-arts/2021/10/23/a-cautionary-tale-from-the-streets-of-san-francisco)
 <!-- BLOG-POST-LIST:END -->
 
 ---
