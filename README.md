@@ -54,8 +54,8 @@
 - [Let’s Put an End to Prosecutorial Immunity (2018)](https://www.themarshallproject.org/2018/03/13/let-s-put-an-end-to-prosecutorial-immunity)
 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - [Deadly infection linked to contaminated room spray sold at Walmart](https://www.statnews.com/2021/10/22/melioidosis-outbreak-georgia-walmart/)
-- [Delete Your Facebook App](https://www.forbes.com/sites/zakdoffman/2021/10/23/apple-iphone-users-delete-facebook-app-after-new-tracking-warning/)
 - [Richard Feynman and the Connection Machine (1989)](https://longnow.org/essays/richard-feynman-connection-machine/)
+- [The Financial Times’ 404 page](https://www.ft.com/3lJQa6w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
