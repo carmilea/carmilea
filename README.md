@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [230 people living communally on 175 acre eco village](https://www.youtube.com/watch?v=n-uH36w9xg8)
 - [Microsoft no longer signs Windows drivers for Process Hacker](https://borncity.com/win/2021/10/23/microsoft-signiert-windows-treiber-fr-process-hacker-nicht-mehr/)
 - [Habits I've Developed for Fast and Efficient Programming](https://cprimozic.net/blog/programming-speed-strategies/)
 - [The falsehoods of anti-AGPL propaganda (2020)](https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html)
 - [Google digital advertising antitrust litigation [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.152.0_1.pdf)
-- [Pong using browser windows as the paddles and ball (2009)](http://stewd.io/pong/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
