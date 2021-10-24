@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - [The FT 404 page ... someone put some thought into this ...](https://www.ft.com/3lJQa6w)
 - [Bullets: Sizes, Calibers, and Types (2020)](https://www.pewpewtactical.com/bullet-sizes-calibers-and-types/)
 - [5 side projects in 6 years, earning $0](https://kwcodes.com/how-i-failed-5-side-projects-in-6-years-earning-0/)
 - [NYT journalist hacked with Pegasus after reporting on previous hacking attempts](https://citizenlab.ca/2021/10/breaking-news-new-york-times-journalist-ben-hubbard-pegasus/)
-- [A few of the best math explainers from this summer [video]](https://www.youtube.com/watch?v=F3Qixy-r_rQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
