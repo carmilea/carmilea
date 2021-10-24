@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
+- [Google has a secret deal with FB called “Jedi Blue” that they knew was illegal](https://twitter.com/fasterthanlime/status/1452053940024057857)
+- [An analysis of 7,020,950 NFT transactions on the Ethereum blockchain](https://old.reddit.com/r/MachineLearning/comments/qcychj/p_an_analysis_of_7020950_nft_transactions_on_the/)
+- [Does Captain Kirk die when he goes through the transporter?](http://backreaction.blogspot.com/2021/10/does-captain-kirk-die-when-he-goes.html)
 - [230 people living communally on 175 acre eco village](https://www.youtube.com/watch?v=n-uH36w9xg8)
-- [Microsoft no longer signs Windows drivers for Process Hacker](https://borncity.com/win/2021/10/23/microsoft-signiert-windows-treiber-fr-process-hacker-nicht-mehr/)
-- [Habits I've Developed for Fast and Efficient Programming](https://cprimozic.net/blog/programming-speed-strategies/)
-- [The falsehoods of anti-AGPL propaganda (2020)](https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html)
-- [Google digital advertising antitrust litigation [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.152.0_1.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
