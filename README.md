@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Node-RED: Low-code programming for event-driven applications](https://nodered.org/)
-- [WhatsApp scaled to 1B users with only 50 engineers](https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion)
 - [Payflow (YC S21) Is Hiring](https://www.ycombinator.com/companies/payflow/jobs/N6SNNmG-vp-of-engineering)
 - [Strings, arrays, recursion, and parsing JSON: Exploring PL/pgSQL](https://notes.eatonphil.com/exploring-plpgsql.html)
 - [Ask HN: Which NoCode platforms are fine?](https://news.ycombinator.com/item?id=28984955)
+- [A Big Little Country](https://www.afar.com/magazine/westarctica-antarctica-a-micronation-with-a-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
