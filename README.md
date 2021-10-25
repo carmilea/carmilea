@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rewriting Reddit (2005)](http://www.aaronsw.com/weblog/rewritingreddit)
 - [Servicing and repairing electric cars requires new skills](https://www.economist.com/science-and-technology/servicing-and-repairing-electric-cars-requires-new-skills/21805752)
-- [Fork Freshness: Discover Active Forks of Abandoned GitHub Repositories](https://gilesbowkett.com/blog/2021/08/15/fork-freshness-project-lifespans-in-the-ruby-ecosystem/)
-- [Show HN: Online editor to create animated SVG](https://bestsnip.com/svg_animation/)
+- [Fork Freshness: Project lifespans in the Ruby ecosystem](https://gilesbowkett.com/blog/2021/08/15/fork-freshness-project-lifespans-in-the-ruby-ecosystem/)
 - [Jetson One – Personal Electric Aerial Vehicle](https://www.jetsonaero.com/)
 - [Tesorio (YC S15) is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
 <!-- BLOG-POST-LIST:END -->
