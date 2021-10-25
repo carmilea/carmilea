@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Ultra-Precise Clock Shows How to Link the Quantum World with Gravity](https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/)
-- [Blamer.el: A Git blame plugin for Emacs inspired by VS Code’s GitLens plugin](https://github.com/Artawower/blamer.el)
-- [We Are Qualitatively Different from Other Species](https://nav.al/species)
-- [Nim receives $100k in Bitcoin donations](https://nim-lang.org/blog/2021/10/25/nim-receives-100k-usd-bitcoin.html)
-- [Being spied on by the makers of Pegasus, then lured them into a trap](https://darknetdiaries.com/episode/100/)
+- [With corporate tax off table, U.S. Democrats turn to billionaires](https://www.reuters.com/world/us/with-corporate-tax-off-table-us-democrats-turn-billionaires-fund-spending-bill-2021-10-25/)
+- [Neo-Amish Drop Outs](https://kk.org/)
+- [Car accidents cause death, injury and trauma. Why do we shrug them off?](https://www.nbcnews.com/think/opinion/car-accidents-cause-death-injury-trauma-why-do-we-shrug-ncna1282193)
+- [50 years ago, The Electric Company used comedy to boost kids' reading skills](https://text.npr.org/1048365940)
+- [14-inch MacBook Pro review: A Mac Pro in your backpack](https://sixcolors.com/post/2021/10/review-14-inch-macbook-pro-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
