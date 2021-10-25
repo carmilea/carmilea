@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Metadrop is hiring front end devs interested in crypto / nfts](https://jobs.metadrop.com/22815)
-- [Orbital Reef – 'Commercial' Space Station by Boeing, BlueOrigin and Co](https://www.orbitalreef.com)
-- [Neo-Amish Drop Outs](https://kk.org/)
-- [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
-- [50 years ago, The Electric Company used comedy to boost kids' reading skills](https://www.npr.org/2021/10/25/1048365940/50-years-ago-the-electric-company-used-comedy-to-boost-kids-reading-skills)
+- [Ephemeralization](https://en.wikipedia.org/wiki/Ephemeralization)
+- [History of Lisp (1979) [pdf]](http://jmc.stanford.edu/articles/lisp/lisp.pdf)
+- [Metadrop is hiring front end devs interested in cryptocurrency, NFTs](https://jobs.metadrop.com/22815)
+- [Orbital Reef: Commercial space station by BlueOrigin, Sierra Space, Boeing](https://www.orbitalreef.com)
+- [The FBI's internal guide for getting data from AT&T, T-Mobile, Verizon](https://www.vice.com/en/article/m7vqkv/how-fbi-gets-phone-data-att-tmobile-verizon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
