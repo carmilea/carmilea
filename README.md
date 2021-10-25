@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [With corporate tax off table, U.S. Democrats turn to billionaires](https://www.reuters.com/world/us/with-corporate-tax-off-table-us-democrats-turn-billionaires-fund-spending-bill-2021-10-25/)
+- [Metadrop is hiring front end devs interested in crypto / nfts](https://jobs.metadrop.com/22815)
+- [Orbital Reef – 'Commercial' Space Station by Boeing, BlueOrigin and Co](https://www.orbitalreef.com)
 - [Neo-Amish Drop Outs](https://kk.org/)
-- [Car accidents cause death, injury and trauma. Why do we shrug them off?](https://www.nbcnews.com/think/opinion/car-accidents-cause-death-injury-trauma-why-do-we-shrug-ncna1282193)
-- [50 years ago, The Electric Company used comedy to boost kids' reading skills](https://text.npr.org/1048365940)
-- [14-inch MacBook Pro review: A Mac Pro in your backpack](https://sixcolors.com/post/2021/10/review-14-inch-macbook-pro-2021/)
+- [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
+- [50 years ago, The Electric Company used comedy to boost kids' reading skills](https://www.npr.org/2021/10/25/1048365940/50-years-ago-the-electric-company-used-comedy-to-boost-kids-reading-skills)
 <!-- BLOG-POST-LIST:END -->
 
 ---
