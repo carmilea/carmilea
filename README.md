@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jury Hands Victory to Facebook and Oculus VR Founder in Rift Ownership Trial](https://lawstreetmedia.com/news/tech/jury-hands-victory-to-facebook-and-oculus-vr-founder-in-rift-ownership-trial/)
+- [Misskey: Alternative Fediverse software that also uses ActivityPub](https://www.paritybit.ca/blog/mastodon-is-dead-long-live-misskey)
+- [Jury hands victory to Facebook and Oculus VR founder in Rift ownership trial](https://lawstreetmedia.com/news/tech/jury-hands-victory-to-facebook-and-oculus-vr-founder-in-rift-ownership-trial/)
 - [My experience of losing a friend to heroin (2020)](https://mattlakeman.org/2020/01/22/the-new-epidemic-my-experience-of-losing-a-friend-to-heroin/)
 - [BillionToOne (YC S17) is hiring a senior data scientist](https://apply.workable.com/billiontoone/j/13515313DF/)
 - [PiBox Mini – Modular Raspberry Pi Storage Server](https://pibox.io)
-- [I’ve been reading a whole lot about tomatoes](https://buttondown.email/hardwarethings/archive/hardware-things-im-betting-that-you-need-a-break/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
