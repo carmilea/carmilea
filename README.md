@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WWII ships raised from watery graves by volcanic activity](https://taiwanenglishnews.com/volcanic-activity-seismic-shifts-wwii-ships-from-battle-of-iwo-jima-raised-from-watery-graves/)
+- [Show HN: I built a fake VS Code to browse live cricket score in office](https://cric-code.pankajtanwar.in/)
+- [Microservices and the layers to watch for when architecting your system](https://www.infoq.com/articles/consistency-coupling-complexity/)
 - [Node-RED: Low-code programming for event-driven applications](https://nodered.org/)
-- [Payflow (YC S21) Is Hiring](https://www.ycombinator.com/companies/payflow/jobs/N6SNNmG-vp-of-engineering)
-- [Strings, arrays, recursion, and parsing JSON: Exploring PL/pgSQL](https://notes.eatonphil.com/exploring-plpgsql.html)
-- [Ask HN: Which NoCode platforms are fine?](https://news.ycombinator.com/item?id=28984955)
-- [A Big Little Country](https://www.afar.com/magazine/westarctica-antarctica-a-micronation-with-a-mission)
+- [WhatsApp scaled to 1B users with only 50 engineers](https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
