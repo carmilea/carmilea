@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Running SSH-MitM on Android Devices](https://github.com/ssh-mitm/ssh-mitm/discussions/83)
 - [Anakin (YC S21) is Hiring web/app scraping engineers (Remote)](https://www.ycombinator.com/companies/anakin/jobs/9GpOWPi-senior-software-engineer)
-- [Facebook Failed the People Who Tried to Improve It](https://www.wired.com/story/facebook-papers-badge-posts-former-employees/)
-- [When the USSR tried to change the computer](https://www.inexhibit.com/case-studies/project-sphinx-when-the-ussr-tried-to-change-the-computer/)
-- [Employees pleaded with Facebook to stop letting politicians bend rules](https://www.ft.com/content/67ad6eda-eb1c-4c97-bb3e-464c65bd63e7)
-- [Luxe: Cross platform, rapid development game engine](https://luxeengine.com/about/)
+- [Nine Raspberry Pis power this entire office](https://www.raspberrypi.com/news/nine-raspberry-pis-power-this-entire-office/)
+- [Star Labs StarLite Mk IV 11" Linux Laptop with Coreboot](https://starlabs.systems/pages/starlite)
+- [Ebcdic Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
