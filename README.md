@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BillionToOne (YC S17) Is Hiring a Senior Data Scientist](https://apply.workable.com/billiontoone/j/13515313DF/)
+- [Facebook Reports Third Quarter 2021 Results 2021 (pdf)](https://s21.q4cdn.com/399680738/files/doc_news/Facebook-Reports-Third-Quarter-2021-Results-2021.pdf)
+- [Facebook 3Q2021 Earnings Results](https://investor.fb.com/investor-news/press-release-details/2021/Facebook-Reports-Third-Quarter-2021-Results/)
+- [EFF co-founder John Gilmore removed from org's Board](https://www.theregister.com/2021/10/25/john_gilmore_removed_from_eff_board/)
 - [I’ve been reading a whole lot about tomatoes](https://buttondown.email/hardwarethings/archive/hardware-things-im-betting-that-you-need-a-break/)
-- [Ask HN: Can you please add transcription to vocal messages in messaging apps?](https://news.ycombinator.com/item?id=28992195)
-- [Grand mosaic of the Milky Way is now larger than ever](https://astroanarchy.blogspot.com/2021/10/grand-mosaic-of-milky-way-is-now-large.html)
-- [Ephemeralization](https://en.wikipedia.org/wiki/Ephemeralization)
-- [History of Lisp (1979) [pdf]](http://jmc.stanford.edu/articles/lisp/lisp.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
