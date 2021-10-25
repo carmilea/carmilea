@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Art Vote](https://artvote.net/)
 - [MTA tests new subway map that evokes jettisoned 1972 version](https://www.wsj.com/articles/mta-tests-new-subway-map-that-evokes-jettisoned-1972-version-11634119201)
 - [Rewriting Reddit (2005)](http://www.aaronsw.com/weblog/rewritingreddit)
 - [The fatiguing effects of camera use in virtual meetings](https://doi.apa.org/fulltext/2021-77825-003.html)
-- [Fork Freshness: Project lifespans in the Ruby ecosystem](https://gilesbowkett.com/blog/2021/08/15/fork-freshness-project-lifespans-in-the-ruby-ecosystem/)
-- [Show HN: Online editor to create animated SVG](https://bestsnip.com/svg_animation/)
+- [Prince of Persia has been released for the Atari XL/XE](https://www.vintageisthenewold.com/prince-of-persia-for-the-atari-xl-xe-a-deserved-port-hits-the-atari-8-bit-computers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
