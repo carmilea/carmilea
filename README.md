@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BillionToOne (YC S17) Is Hiring a Senior Data Scientist](https://apply.workable.com/billiontoone/j/13515313DF/)
-- [Facebook Reports Third Quarter 2021 Results 2021 (pdf)](https://s21.q4cdn.com/399680738/files/doc_news/Facebook-Reports-Third-Quarter-2021-Results-2021.pdf)
-- [Facebook 3Q2021 Earnings Results](https://investor.fb.com/investor-news/press-release-details/2021/Facebook-Reports-Third-Quarter-2021-Results/)
-- [EFF co-founder John Gilmore removed from org's Board](https://www.theregister.com/2021/10/25/john_gilmore_removed_from_eff_board/)
+- [Jury Hands Victory to Facebook and Oculus VR Founder in Rift Ownership Trial](https://lawstreetmedia.com/news/tech/jury-hands-victory-to-facebook-and-oculus-vr-founder-in-rift-ownership-trial/)
+- [My experience of losing a friend to heroin (2020)](https://mattlakeman.org/2020/01/22/the-new-epidemic-my-experience-of-losing-a-friend-to-heroin/)
+- [BillionToOne (YC S17) is hiring a senior data scientist](https://apply.workable.com/billiontoone/j/13515313DF/)
+- [PiBox Mini – Modular Raspberry Pi Storage Server](https://pibox.io)
 - [I’ve been reading a whole lot about tomatoes](https://buttondown.email/hardwarethings/archive/hardware-things-im-betting-that-you-need-a-break/)
 <!-- BLOG-POST-LIST:END -->
 
