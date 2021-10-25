@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kerla: Monolithic kernel in Rust, aiming for Linux ABI compatibility](https://github.com/nuta/kerla)
-- [Internet disrupted in Sudan amid reports of coup attempt](https://netblocks.org/reports/internet-disrupted-in-sudan-amid-reports-of-coup-attempt-Q8ov93yn)
-- [WWII ships raised from watery graves by volcanic activity](https://taiwanenglishnews.com/volcanic-activity-seismic-shifts-wwii-ships-from-battle-of-iwo-jima-raised-from-watery-graves/)
-- [Show HN: I built a fake VS Code to browse live cricket score in office](https://cric-code.pankajtanwar.in/)
-- [Microservices and the layers to watch for when architecting your system](https://www.infoq.com/articles/consistency-coupling-complexity/)
+- [Anakin (YC S21) is Hiring web/app scraping engineers (Remote)](https://www.ycombinator.com/companies/anakin/jobs/9GpOWPi-senior-software-engineer)
+- [Facebook Failed the People Who Tried to Improve It](https://www.wired.com/story/facebook-papers-badge-posts-former-employees/)
+- [When the USSR tried to change the computer](https://www.inexhibit.com/case-studies/project-sphinx-when-the-ussr-tried-to-change-the-computer/)
+- [Employees pleaded with Facebook to stop letting politicians bend rules](https://www.ft.com/content/67ad6eda-eb1c-4c97-bb3e-464c65bd63e7)
+- [Luxe: Cross platform, rapid development game engine](https://luxeengine.com/about/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
