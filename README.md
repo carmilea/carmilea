@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Astro Anarchy: Grand Mosaic of the Milky Way is now large than ever](https://astroanarchy.blogspot.com/2021/10/grand-mosaic-of-milky-way-is-now-large.html)
+- [I’ve been reading a whole lot about tomatoes](https://buttondown.email/hardwarethings/archive/hardware-things-im-betting-that-you-need-a-break/)
+- [Ask HN: Can you please add transcription to vocal messages in messaging apps?](https://news.ycombinator.com/item?id=28992195)
+- [Grand mosaic of the Milky Way is now larger than ever](https://astroanarchy.blogspot.com/2021/10/grand-mosaic-of-milky-way-is-now-large.html)
 - [Ephemeralization](https://en.wikipedia.org/wiki/Ephemeralization)
 - [History of Lisp (1979) [pdf]](http://jmc.stanford.edu/articles/lisp/lisp.pdf)
-- [Metadrop is hiring front end devs interested in cryptocurrency, NFTs](https://jobs.metadrop.com/22815)
-- [The FBI's internal guide for getting data from AT&T, T-Mobile, Verizon](https://www.vice.com/en/article/m7vqkv/how-fbi-gets-phone-data-att-tmobile-verizon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
