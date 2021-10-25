@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kerla: Monolithic kernel in Rust, aiming for Linux ABI compatibility](https://github.com/nuta/kerla)
+- [Internet disrupted in Sudan amid reports of coup attempt](https://netblocks.org/reports/internet-disrupted-in-sudan-amid-reports-of-coup-attempt-Q8ov93yn)
 - [WWII ships raised from watery graves by volcanic activity](https://taiwanenglishnews.com/volcanic-activity-seismic-shifts-wwii-ships-from-battle-of-iwo-jima-raised-from-watery-graves/)
 - [Show HN: I built a fake VS Code to browse live cricket score in office](https://cric-code.pankajtanwar.in/)
 - [Microservices and the layers to watch for when architecting your system](https://www.infoq.com/articles/consistency-coupling-complexity/)
-- [Node-RED: Low-code programming for event-driven applications](https://nodered.org/)
-- [WhatsApp scaled to 1B users with only 50 engineers](https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
