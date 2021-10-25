@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Ultra-Precise Clock Shows How to Link the Quantum World with Gravity](https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/)
+- [Blamer.el: A Git blame plugin for Emacs inspired by VS Code’s GitLens plugin](https://github.com/Artawower/blamer.el)
+- [We Are Qualitatively Different from Other Species](https://nav.al/species)
+- [Nim receives $100k in Bitcoin donations](https://nim-lang.org/blog/2021/10/25/nim-receives-100k-usd-bitcoin.html)
 - [Being spied on by the makers of Pegasus, then lured them into a trap](https://darknetdiaries.com/episode/100/)
-- [The Facebook Papers: dozens of stories based on whistleblower docs dropped](https://www.businessinsider.com/facebook-papers-mark-zuckerberg-frances-haugen-leaked-docs-2021-10)
-- [We Memo All the Things](https://attardi.org/why-we-memo-all-the-things/)
-- [MacBook Pro 14-inch and 16-inch review (2021): Apple’s mighty Macs](https://www.engadget.com/mac-book-pro-14-16-inch-review-2021-apple-mighty-macs-130011975.html)
-- [Running SSH-MitM on Android Devices](https://github.com/ssh-mitm/ssh-mitm/discussions/83)
 <!-- BLOG-POST-LIST:END -->
 
 ---
