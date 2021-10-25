@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Astro Anarchy: Grand Mosaic of the Milky Way is now large than ever](https://astroanarchy.blogspot.com/2021/10/grand-mosaic-of-milky-way-is-now-large.html)
 - [Ephemeralization](https://en.wikipedia.org/wiki/Ephemeralization)
 - [History of Lisp (1979) [pdf]](http://jmc.stanford.edu/articles/lisp/lisp.pdf)
 - [Metadrop is hiring front end devs interested in cryptocurrency, NFTs](https://jobs.metadrop.com/22815)
-- [Orbital Reef: Commercial space station by BlueOrigin, Sierra Space, Boeing](https://www.orbitalreef.com)
 - [The FBI's internal guide for getting data from AT&T, T-Mobile, Verizon](https://www.vice.com/en/article/m7vqkv/how-fbi-gets-phone-data-att-tmobile-verizon)
 <!-- BLOG-POST-LIST:END -->
 
