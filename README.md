@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Payflow (YC S21) Is Hiring](https://www.ycombinator.com/companies/payflow/jobs/N6SNNmG-vp-of-engineering)
+- [Strings, arrays, recursion, and parsing JSON: Exploring PL/pgSQL](https://notes.eatonphil.com/exploring-plpgsql.html)
+- [Ask HN: Which NoCode platforms are fine?](https://news.ycombinator.com/item?id=28984955)
 - [A Big Little Country](https://www.afar.com/magazine/westarctica-antarctica-a-micronation-with-a-mission)
 - [Fun with Nano Server](https://virtuallyfun.com/wordpress/2021/10/17/fun-with-nano-server/)
-- [Art Vote](https://artvote.net/)
-- [MTA tests new subway map that evokes jettisoned 1972 version](https://www.wsj.com/articles/mta-tests-new-subway-map-that-evokes-jettisoned-1972-version-11634119201)
-- [Rewriting Reddit (2005)](http://www.aaronsw.com/weblog/rewritingreddit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
