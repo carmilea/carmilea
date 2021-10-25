@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Being spied on by the makers of Pegasus, then lured them into a trap](https://darknetdiaries.com/episode/100/)
+- [The Facebook Papers: dozens of stories based on whistleblower docs dropped](https://www.businessinsider.com/facebook-papers-mark-zuckerberg-frances-haugen-leaked-docs-2021-10)
+- [We Memo All the Things](https://attardi.org/why-we-memo-all-the-things/)
+- [MacBook Pro 14-inch and 16-inch review (2021): Apple’s mighty Macs](https://www.engadget.com/mac-book-pro-14-16-inch-review-2021-apple-mighty-macs-130011975.html)
 - [Running SSH-MitM on Android Devices](https://github.com/ssh-mitm/ssh-mitm/discussions/83)
-- [Anakin (YC S21) is Hiring web/app scraping engineers (Remote)](https://www.ycombinator.com/companies/anakin/jobs/9GpOWPi-senior-software-engineer)
-- [Nine Raspberry Pis power this entire office](https://www.raspberrypi.com/news/nine-raspberry-pis-power-this-entire-office/)
-- [Star Labs StarLite Mk IV 11" Linux Laptop with Coreboot](https://starlabs.systems/pages/starlite)
-- [Ebcdic Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
