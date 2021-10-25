@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Big Little Country](https://www.afar.com/magazine/westarctica-antarctica-a-micronation-with-a-mission)
+- [Fun with Nano Server](https://virtuallyfun.com/wordpress/2021/10/17/fun-with-nano-server/)
 - [Art Vote](https://artvote.net/)
 - [MTA tests new subway map that evokes jettisoned 1972 version](https://www.wsj.com/articles/mta-tests-new-subway-map-that-evokes-jettisoned-1972-version-11634119201)
 - [Rewriting Reddit (2005)](http://www.aaronsw.com/weblog/rewritingreddit)
-- [The fatiguing effects of camera use in virtual meetings](https://doi.apa.org/fulltext/2021-77825-003.html)
-- [Prince of Persia has been released for the Atari XL/XE](https://www.vintageisthenewold.com/prince-of-persia-for-the-atari-xl-xe-a-deserved-port-hits-the-atari-8-bit-computers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
