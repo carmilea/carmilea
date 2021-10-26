@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Get AWS costs posted directly to Slack](https://www.vantage.sh/blog/vantage-slack-notifications)
-- [We need new data books, so we published one](https://theinformedcompany.com/posts/we-need-new-data-books-so-we-published-one/)
-- [Allwinner D1s/F133 RISC-V Processor Integrates 64MB DDR2](https://www.cnx-software.com/2021/10/25/allwinner-d1s-f133-risc-v-processor-64mb-ddr2/)
-- [SARS-CoV-2 variant A.30 is heavily mutated and evades vaccine-induced antibodies](https://www.nature.com/articles/s41423-021-00779-5)
-- [Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
+- [EasyPost (YC S13) Is Default Remote and Hiring](https://www.easypost.com/careers)
+- [FDA advisory panel recommends Pfizer Covid-19 vaccine be authorized for children](https://www.statnews.com/2021/10/26/fda-vrbpac-pfizer-vaccine-covid-kids/)
+- [Building a recommendation engine inside Postgres with Python and Pandas](https://blog.crunchydata.com/blog/recommendation_engine_in_postgres_with_pandas_and_python)
+- [Bugs in Our Pockets: The Risks of Client-Side Scanning](https://arxiv.org/abs/2110.07450)
+- [Alphabet Earnings [pdf]](https://abc.xyz/investor/static/pdf/2021Q3_alphabet_earnings_release.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
