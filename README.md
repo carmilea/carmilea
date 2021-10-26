@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Photoshop's Journey to the Web](https://web.dev/ps-on-the-web/)
+- [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-18-10-2021/)
+- [Europol investigation busts 150 'high value' darknet vendors](https://www.dw.com/en/europol-investigation-busts-150-high-value-darknet-vendors/a-59625287)
 - [The ‘Dune’ Screenplay Was Written in MS-DOS](https://www.vice.com/en/article/wxdeay/the-dune-screenplay-was-written-in-ms-dos)
-- [MagicBell (YC W21) Is Hiring a Senior Ruby on Rails Engineer – Remote](https://boards.eu.greenhouse.io/magicbell/jobs/4002168101?gh_src=0d086342teu)
-- [Iran says cyberattack closes gas stations across country](https://apnews.com/article/business-middle-east-iran-dubai-united-arab-emirates-0342c10733bc89379e00d99152fe7a1f)
-- [My interview with Steven Levy re. leaking of my Facebook Goodbye post](https://alecmuffett.com/article/14994)
-- [What is an In-Memory Database?](https://www.singlestore.com/blog/what-is-an-in-memory-database)
+- [They left Facebooks integrity team. Now they want the world to know how it works](https://www.protocol.com/policy/integrity-institute)
 <!-- BLOG-POST-LIST:END -->
 
 ---
