@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Etleap (YC W13) Is Hiring an Integrations Engineer](https://news.ycombinator.com/item?id=28995191)
+- [Reddit alternative Ruqqus shutting down](https://ruqqus.com/)
+- [High End Rendering Benchmarks on the M1 Max versus Intel and AMD](https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html)
+- [Google intentionally slowed down non-amp ads to give AMP a Boost](https://twitter.com/tmcw/status/1451938637982142467)
 - [Misskey: Alternative Fediverse software that also uses ActivityPub](https://www.paritybit.ca/blog/mastodon-is-dead-long-live-misskey)
-- [Jury hands victory to Facebook and Oculus VR founder in Rift ownership trial](https://lawstreetmedia.com/news/tech/jury-hands-victory-to-facebook-and-oculus-vr-founder-in-rift-ownership-trial/)
-- [My experience of losing a friend to heroin (2020)](https://mattlakeman.org/2020/01/22/the-new-epidemic-my-experience-of-losing-a-friend-to-heroin/)
-- [BillionToOne (YC S17) is hiring a senior data scientist](https://apply.workable.com/billiontoone/j/13515313DF/)
-- [PiBox Mini – Modular Raspberry Pi Storage Server](https://pibox.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
