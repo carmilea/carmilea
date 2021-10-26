@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A bug that doesn’t exist on x86: Exploiting an ARM-only race condition](https://github.com/stong/how-to-exploit-a-double-free)
 - [A Love Letter to Ruby and Rails](https://jmarchello.com/a-love-letter-to-ruby-and-rails)
 - [FBI raids researcher who discovered private patient data on public server](https://www.dailydot.com/debug/justin-shafer-fbi-raid/)
 - [Right-to-disconnect legislation being introduced by Ontario Government](https://www.cbc.ca/news/canada/toronto/ontario-to-introduce-legislation-to-help-protect-workers-1.6223719)
 - [Slow Down, Finish Faster](https://briandicroce.com/slow-down-finish-faster/)
-- [Offline-First Database Comparison](https://github.com/pubkey/client-side-databases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
