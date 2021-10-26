@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The ‘Dune’ Screenplay Was Written in MS-DOS](https://www.vice.com/en/article/wxdeay/the-dune-screenplay-was-written-in-ms-dos)
 - [MagicBell (YC W21) Is Hiring a Senior Ruby on Rails Engineer – Remote](https://boards.eu.greenhouse.io/magicbell/jobs/4002168101?gh_src=0d086342teu)
 - [Iran says cyberattack closes gas stations across country](https://apnews.com/article/business-middle-east-iran-dubai-united-arab-emirates-0342c10733bc89379e00d99152fe7a1f)
-- [Frances Haugen Leaking My Facebook Engineering “Goodbye Post”](https://alecmuffett.com/article/14994)
+- [My interview with Steven Levy re. leaking of my Facebook Goodbye post](https://alecmuffett.com/article/14994)
 - [What is an In-Memory Database?](https://www.singlestore.com/blog/what-is-an-in-memory-database)
-- [Apple Privacy Rules to Blame for Facebook's Lower Than Expected Quarterly Growth](https://www.macrumors.com/2021/10/26/apple-privacy-rules-blame-facebook-earnings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
