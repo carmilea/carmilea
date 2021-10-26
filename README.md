@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikivoyage Has Disappeared from DuckDuckGo](https://gaganpreet.in/posts/duckduckgo-wikivoyage/)
 - [France moves to shield its book industry from Amazon](https://www.reuters.com/business/retail-consumer/france-moves-shield-its-book-industry-amazon-2021-10-25/)
 - [EasyPost (YC S13) Is Default Remote and Hiring](https://www.easypost.com/careers)
 - [Why Lisp? (2015)](http://blog.rongarret.info/2015/05/why-lisp.html)
-- [Announcing Vitess 12](https://vitess.io/blog/2021-10-26-announcing-vitess-12/)
 - [Building a recommendation engine inside Postgres with Python and Pandas (2020)](https://blog.crunchydata.com/blog/recommendation_engine_in_postgres_with_pandas_and_python)
 <!-- BLOG-POST-LIST:END -->
 
