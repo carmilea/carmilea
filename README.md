@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Photoshop's Journey to the Web](https://web.dev/ps-on-the-web/)
-- [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-18-10-2021/)
-- [Europol investigation busts 150 'high value' darknet vendors](https://www.dw.com/en/europol-investigation-busts-150-high-value-darknet-vendors/a-59625287)
-- [The ‘Dune’ Screenplay Was Written in MS-DOS](https://www.vice.com/en/article/wxdeay/the-dune-screenplay-was-written-in-ms-dos)
-- [They left Facebooks integrity team. Now they want the world to know how it works](https://www.protocol.com/policy/integrity-institute)
+- [Next.js 12](https://nextjs.org/blog/next-12)
+- [MobaXterm free Xserver and tabbed SSH client for Windows](https://mobaxterm.mobatek.net/)
+- [Short Week: The Main Thing with Kids Is to Keep Them Alive](https://freddiedeboer.substack.com/p/short-week-the-main-thing-with-kids)
+- [Is college worth it? A return-on-investment analysis](https://freopp.org/is-college-worth-it-a-comprehensive-return-on-investment-analysis-1b2ad17f84c8?gi=eb96088eb650)
+- [Porting WebGL Shaders to WebGPU](https://www.construct.net/en/blogs/ashleys-blog-2/porting-webgl-shaders-webgpu-1576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
