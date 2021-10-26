@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 12](https://nextjs.org/blog/next-12)
-- [MobaXterm free Xserver and tabbed SSH client for Windows](https://mobaxterm.mobatek.net/)
-- [Short Week: The Main Thing with Kids Is to Keep Them Alive](https://freddiedeboer.substack.com/p/short-week-the-main-thing-with-kids)
-- [Is college worth it? A return-on-investment analysis](https://freopp.org/is-college-worth-it-a-comprehensive-return-on-investment-analysis-1b2ad17f84c8?gi=eb96088eb650)
-- [Porting WebGL Shaders to WebGPU](https://www.construct.net/en/blogs/ashleys-blog-2/porting-webgl-shaders-webgpu-1576)
+- [CareRev (YC S16) Is Hiring Data Eng and Data Architect](https://news.ycombinator.com/item?id=29002941)
+- [10% of households pay more than 80% of taxes on alcohol and cigarettes](https://www2.nber.org/papers/w29393%23fromrss)
+- [Geothermal's Path to Relevance: Cheap Drilling](https://austinvernon.site/blog/drillingplan.html)
+- [Hacking Hacker News for Fun and Profit – Part 1](https://blog.arnica.io/hacking-hacker-news-for-fun-and-profit-part-1-41bd6a48a2c2?gi=60c4e82c053c)
+- [Where Have All the Insects Gone?](https://www.newyorker.com/magazine/2021/11/01/where-have-all-the-insects-gone-e-o-wilson-silent-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
