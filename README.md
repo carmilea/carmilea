@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub stale bot considered harmful](https://drewdevault.com/2021/10/26/stalebot.html)
 - [Apple Is Normalising Surveillance](https://www.wired.co.uk/article/apple-surveillance-technology)
 - [Edward Snowden Slams Sam Altman's Worldcoin: 'Don't Catalogue Eyeballs'](https://decrypt.co/84277/snowden-slams-sam-altman-worldcoin-eyeball-scan-for-crypto)
 - [Facing sky-high connection fees, rural Ontarians go off the grid](https://www.cbc.ca/news/canada/toronto/wind-solar-power-rural-ontario-1.6224159)
 - [Sudan woke up without Internet](https://blog.cloudflare.com/sudan-woke-up-without-internet/)
-- [Writing a Linux-compatible kernel in Rust](https://seiya.me/writing-linux-clone-in-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
