@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Love Letter to Ruby and Rails](https://jmarchello.com/a-love-letter-to-ruby-and-rails)
+- [FBI raids researcher who discovered private patient data on public server](https://www.dailydot.com/debug/justin-shafer-fbi-raid/)
 - [Right-to-disconnect legislation being introduced by Ontario Government](https://www.cbc.ca/news/canada/toronto/ontario-to-introduce-legislation-to-help-protect-workers-1.6223719)
 - [Slow Down, Finish Faster](https://briandicroce.com/slow-down-finish-faster/)
 - [Offline-First Database Comparison](https://github.com/pubkey/client-side-databases)
-- [Etleap (YC W13) Is Hiring an Integrations Engineer](https://news.ycombinator.com/item?id=28995191)
-- [Rendering on the Apple M1 Max Chip](https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
