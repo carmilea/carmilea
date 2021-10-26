@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Slow Down, Finish Faster](https://briandicroce.com/slow-down-finish-faster/)
+- [I Made the Exact Same App with Firebase,AWS Amplify,RxDB,PouchDB,WatermelonDB](https://github.com/pubkey/client-side-databases)
 - [Etleap (YC W13) Is Hiring an Integrations Engineer](https://news.ycombinator.com/item?id=28995191)
-- [Reddit alternative Ruqqus shutting down](https://ruqqus.com/)
-- [High End Rendering Benchmarks on the M1 Max versus Intel and AMD](https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html)
-- [Google intentionally slowed down non-amp ads to give AMP a Boost](https://twitter.com/tmcw/status/1451938637982142467)
-- [Misskey: Alternative Fediverse software that also uses ActivityPub](https://www.paritybit.ca/blog/mastodon-is-dead-long-live-misskey)
+- [I’m not a pilot, but I just flew a helicopter over California](https://www.nytimes.com/2021/10/25/technology/automated-flight-helicopter-skyryse.html)
+- [Rendering on the Apple M1 Max Chip](https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
