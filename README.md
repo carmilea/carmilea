@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MagicBell (YC W21) Is Hiring a Senior Ruby on Rails Engineer – Remote](https://boards.eu.greenhouse.io/magicbell/jobs/4002168101?gh_src=0d086342teu)
+- [Apple Privacy Rules to Blame for Facebook's Lower Than Expected Quarterly Growth](https://www.macrumors.com/2021/10/26/apple-privacy-rules-blame-facebook-earnings/)
+- [CRDT resources](https://wiki.nikitavoloboev.xyz/distributed-systems/crdt)
 - [GitHub stale bot considered harmful](https://drewdevault.com/2021/10/26/stalebot.html)
 - [Apple Is Normalising Surveillance](https://www.wired.co.uk/article/apple-surveillance-technology)
-- [Edward Snowden Slams Sam Altman's Worldcoin: 'Don't Catalogue Eyeballs'](https://decrypt.co/84277/snowden-slams-sam-altman-worldcoin-eyeball-scan-for-crypto)
-- [Facing sky-high connection fees, rural Ontarians go off the grid](https://www.cbc.ca/news/canada/toronto/wind-solar-power-rural-ontario-1.6224159)
-- [Sudan woke up without Internet](https://blog.cloudflare.com/sudan-woke-up-without-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
