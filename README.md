@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Allwinner D1s/F133 RISC-V Processor Integrates 64MB DDR2 – CNX Software](https://www.cnx-software.com/2021/10/25/allwinner-d1s-f133-risc-v-processor-64mb-ddr2/)
+- [Get AWS costs posted directly to Slack](https://www.vantage.sh/blog/vantage-slack-notifications)
+- [We need new data books, so we published one](https://theinformedcompany.com/posts/we-need-new-data-books-so-we-published-one/)
+- [Allwinner D1s/F133 RISC-V Processor Integrates 64MB DDR2](https://www.cnx-software.com/2021/10/25/allwinner-d1s-f133-risc-v-processor-64mb-ddr2/)
 - [SARS-CoV-2 variant A.30 is heavily mutated and evades vaccine-induced antibodies](https://www.nature.com/articles/s41423-021-00779-5)
-- [Jobs That Marry Together the Most](https://flowingdata.com/2021/05/26/jobs-that-marry-together/)
 - [Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
-- [How Postgres Audit Tables Saved Us from Taking Down Production](https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production)
 <!-- BLOG-POST-LIST:END -->
 
 ---
