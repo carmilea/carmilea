@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Privacy Is a Human Right](https://blog.torproject.org/privacy-is-a-human-right)
+- [Missing hiker ignores calls from rescuers as they didn’t recognise the number](https://www.theguardian.com/us-news/2021/oct/26/hiker-lost-on-us-mountain-ignored-calls-from-rescuers-because-he-didnt-recognise-the-number)
 - [Humanloop (YC S20) is hiring designers, front end and machine learning engineers](https://careers.humanloop.com/)
 - [A Librarian and a Food Historian Rediscovered the Recipes of Moorish Spain](https://www.atlasobscura.com/articles/moorish-cuisine)
 - [A bug that doesn’t exist on x86: Exploiting an ARM-only race condition](https://github.com/stong/how-to-exploit-a-double-free)
-- [A Love Letter to Ruby and Rails](https://jmarchello.com/a-love-letter-to-ruby-and-rails)
-- [FBI raids researcher who discovered private patient data on public server (2016)](https://www.dailydot.com/debug/justin-shafer-fbi-raid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
