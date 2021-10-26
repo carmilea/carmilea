@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Right-to-disconnect legislation being introduced by Ontario Government](https://www.cbc.ca/news/canada/toronto/ontario-to-introduce-legislation-to-help-protect-workers-1.6223719)
 - [Slow Down, Finish Faster](https://briandicroce.com/slow-down-finish-faster/)
-- [I Made the Exact Same App with Firebase,AWS Amplify,RxDB,PouchDB,WatermelonDB](https://github.com/pubkey/client-side-databases)
+- [Offline-First Database Comparison](https://github.com/pubkey/client-side-databases)
 - [Etleap (YC W13) Is Hiring an Integrations Engineer](https://news.ycombinator.com/item?id=28995191)
-- [I’m not a pilot, but I just flew a helicopter over California](https://www.nytimes.com/2021/10/25/technology/automated-flight-helicopter-skyryse.html)
 - [Rendering on the Apple M1 Max Chip](https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html)
 <!-- BLOG-POST-LIST:END -->
 
