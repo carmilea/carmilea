@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Radio Station WWV](https://www.nist.gov/time-distribution/radio-station-wwv)
+- [The ‘semi-rich’: Millions of high-income Americans may not feel wealthy but are](https://grow.acorns.com/the-semi-rich-americans-who-may-not-feel-wealthy/)
+- [Tim Sweeney: Tax bill would likely end founder control of independent companies](https://twitter.com/TimSweeneyEpic/status/1453484672827240457)
 - [Compute vs. Hardware](https://tellusim.com/compute-raster/)
-- [Skio (YC S20) is hiring founding engineers](https://skio.com/careers/)
-- [Artificial intelligence sheds light on how the brain processes language](https://news.mit.edu/2021/artificial-intelligence-brain-language-1025)
-- [Paxos automatically determined safe and secure](https://news.umich.edu/distributed-protocol-underpinning-cloud-computing-automatically-determined-safe-and-secure/)
-- [URI-Based Integration](https://www.tbray.org/ongoing/When/202x/2021/10/26/URI-based-Integration)
+- [Which stars can see Earth as a transiting exoplanet?](https://academic.oup.com/mnrasl/article/499/1/L111/5931805)
 <!-- BLOG-POST-LIST:END -->
 
 ---
