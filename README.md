@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ashby (YC W19) Is Hiring Engineers Who Can Design (+ EMs)](https://jobs.ashbyhq.com/ashby)
+- [Comparing SQLite, DuckDB and Arrow](https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/)
 - [Roy Fielding's Misappropriated REST Dissertation (2020)](https://twobithistory.org/2020/06/28/rest.html)
 - [Sci-Fi Icon Neal Stephenson Finally Takes on Global Warming](https://www.wired.com/story/sci-fi-icon-neal-stephenson-global-warming/)
 - [Models of Programming](https://lambdaland.org/posts/2021-09-25_models_of_programming_draft2/)
-- [Bitcoin is largely controlled by a small group of investors and miners](https://www.techspot.com/news/91937-bitcoin-largely-controlled-small-group-investors-miners-study.html)
-- [Giant, free index to world's research papers released online](https://www.nature.com/articles/d41586-021-02895-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
