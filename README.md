@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Abba on fame, divorce, ageing backwards](https://www.theguardian.com/music/2021/oct/27/abba-reunion-interview-voyage-younger-selves)
 - [$1.5B lithium deposit discovered in Maine; excavating it poses a legal challenge](https://www.themainemonitor.org/staggering-1-5-billion-lithium-deposit-discovered-near-newry-excavating-it-poses-a-challenge/)
 - [GiveCampus (YC S15) Is Hiring Our First Senior QA Engineer](https://jobs.lever.co/givecampus/9f90a193-53be-48e3-8d0e-533b89a097a6)
-- [34% of white college students lied about their race to improve admission chance](https://www.intelligent.com/34-of-white-college-students-lied-about-their-race-to-improve-chances-of-admission-financial-aid-benefits/)
 - [Launch HN: Eduflow (YC S17) – Async Social Learning](https://news.ycombinator.com/item?id=29011896)
 - [Sequoia Productive Capital](https://stratechery.com/2021/sequoia-productive-capital/)
 <!-- BLOG-POST-LIST:END -->
