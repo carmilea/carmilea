@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sci-Fi Icon Neal Stephenson Finally Takes on Global Warming](https://www.wired.com/story/sci-fi-icon-neal-stephenson-global-warming/)
+- [Models of Programming](https://lambdaland.org/posts/2021-09-25_models_of_programming_draft2/)
 - [Bitcoin is largely controlled by a small group of investors and miners](https://www.techspot.com/news/91937-bitcoin-largely-controlled-small-group-investors-miners-study.html)
 - [Giant, free index to world's research papers released online](https://www.nature.com/articles/d41586-021-02895-8)
 - [Make Your Own ColecoVision at Home (Part 4 – Quadrature Controllers)](https://www.leadedsolder.com/2021/10/26/colecovision-diy-part-4.html)
-- [Howard University’s removal of classics is a spiritual catastrophe](https://www.washingtonpost.com/opinions/2021/04/19/cornel-west-howard-classics/)
-- [Wikivoyage has disappeared from DuckDuckGo](https://gaganpreet.in/posts/duckduckgo-wikivoyage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
