@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Coding Font – find your true love of coding fonts](https://www.codingfont.com/)
-- [Ashby (YC W19) Is Hiring Engineers Who Can Design (+ EMs)](https://jobs.ashbyhq.com/ashby)
-- [My Ideal Rust Workflow](https://fasterthanli.me/articles/my-ideal-rust-workflow)
-- [Comparing SQLite, DuckDB and Arrow](https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/)
-- [Roy Fielding's Misappropriated REST Dissertation (2020)](https://twobithistory.org/2020/06/28/rest.html)
+- [Indian Supreme Court orders inquiry into state’s use of Pegasus spyware](https://www.theguardian.com/news/2021/oct/27/indian-supreme-court-orders-inquiry-into-states-use-of-pegasus-spyware)
+- [Large Language Models: A New Moore's Law?](https://huggingface.co/blog/large-language-models)
+- [Walmart Billionaire Marc Lore Is Planning a $500B “City of the Future”](https://www.architecturaldigest.com/story/telosa-city-of-the-future)
+- [Remembering Intel 740](https://www.raspberrypi.com/news/remembering-intel-740-custom-pc-218/)
+- [Show HN: Coding Font – A game to find your favorite coding font](https://www.codingfont.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
