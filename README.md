@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Affordable 70 MPH electric motorcycle is already here and no one noticed](https://electrek.co/2021/10/26/north-americas-most-affordable-70-mph-electric-motorcycle-is-already-here-and-no-one-noticed/)
+- [Giant, free index to world's research papers released online](https://www.nature.com/articles/d41586-021-02895-8)
 - [Make Your Own ColecoVision at Home (Part 4 – Quadrature Controllers)](https://www.leadedsolder.com/2021/10/26/colecovision-diy-part-4.html)
 - [Howard University’s removal of classics is a spiritual catastrophe](https://www.washingtonpost.com/opinions/2021/04/19/cornel-west-howard-classics/)
-- [Retrieve a random Wikipedia page](https://en.wikipedia.org/wiki/Special:Random)
-- [Hertz agrees to buy 100k Teslas](https://www.npr.org/2021/10/25/1048953565/hertz-will-buy-100-000-teslas-electric-vehicles)
 - [Wikivoyage has disappeared from DuckDuckGo](https://gaganpreet.in/posts/duckduckgo-wikivoyage/)
 <!-- BLOG-POST-LIST:END -->
 
