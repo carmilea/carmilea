@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prepare for a Technical Interview](https://www.theretro.dev/article/how-to-prepare-for-a-php-technical-interview/)
-- [Where Transcendental Numbers Hide in Everyday Math](https://www.quantamagazine.org/where-transcendental-numbers-hide-in-everyday-math-20211027/)
-- [Photoshop will get a ‘prepare as NFT’ option soon](https://www.theverge.com/2021/10/26/22745506/adobe-nft-art-theft-content-credentials-opensea-rarible-photoshop)
-- [Apple is ready to admit it was wrong about the future of laptops](https://www.theverge.com/22734645/apple-macbook-pro-2021-ports-magsafe-touch-bar-usb-c-future)
-- [Show HN: Kit55, a Desktop Web Builder GUI – Jekyll, Next, WordPress Alternative](https://stack55.com/)
+- [Bruno Pontecorvo](https://en.wikipedia.org/wiki/Bruno_Pontecorvo)
+- [Microsoft has detected nation-state activity associated with NOBELIUM](https://www.microsoft.com/security/blog/2021/10/25/nobelium-targeting-delegated-administrative-privileges-to-facilitate-broader-attacks/)
+- [Windows 11 Pro: about 11% slower than Linux on Intel Core i9 11900K](https://www.phoronix.com/scan.php?page=article&item=11900k-windows11-clear&num=1)
+- [Law Firm Sues Kellogg for Not Enough Strawberries in Pop-Tarts](https://www.foodprocessing.com/industrynews/2021/law-firm-sues-kellogg-for-not-enough-strawberries-in-pop-tarts/)
+- [Is Scientific Progress Waning?](http://blog.pnas.org/2021/10/is-scientific-progress-waning-too-many-new-papers-may-mean-novel-ideas-rarely-rack-up-citations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
