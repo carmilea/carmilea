@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bruno Pontecorvo](https://en.wikipedia.org/wiki/Bruno_Pontecorvo)
-- [Microsoft has detected nation-state activity associated with NOBELIUM](https://www.microsoft.com/security/blog/2021/10/25/nobelium-targeting-delegated-administrative-privileges-to-facilitate-broader-attacks/)
-- [Windows 11 Pro: about 11% slower than Linux on Intel Core i9 11900K](https://www.phoronix.com/scan.php?page=article&item=11900k-windows11-clear&num=1)
-- [Law Firm Sues Kellogg for Not Enough Strawberries in Pop-Tarts](https://www.foodprocessing.com/industrynews/2021/law-firm-sues-kellogg-for-not-enough-strawberries-in-pop-tarts/)
-- [Is Scientific Progress Waning?](http://blog.pnas.org/2021/10/is-scientific-progress-waning-too-many-new-papers-may-mean-novel-ideas-rarely-rack-up-citations/)
+- [Some Were Meant for C (2017) [pdf]](https://www.humprog.org/~stephen/research/papers/kell17some-preprint.pdf)
+- [Welcome to the brand new Erlang Forums](https://erlangforums.com/t/welcome-to-the-brand-new-erlang-forums/214)
+- [Ask HN: State of PHP at Facebook](https://news.ycombinator.com/item?id=29015130)
+- [2021 MacBook Pro has a replaceable battery](https://www.ifixit.com/News/54122/macbook-pro-2021-teardown)
+- [In-demand tech skills are the last thing to look for in IT hires](https://www.netsuite.com/portal/business-benchmark-brainyard/industries/articles/cfo-central/in-demand-tech-skills.shtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
