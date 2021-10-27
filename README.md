@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kicad 6: New feature review for open source eda tool](https://techexplorations.com/blog/kicad/kicad-6-review-new-and-improved-features/)
+- [Skio is hiring founding engineers (just raised $3.7m)](https://skio.com/careers/)
+- [Paxos automatically determined safe and secure](https://news.umich.edu/distributed-protocol-underpinning-cloud-computing-automatically-determined-safe-and-secure/)
+- [Kicad 6: new feature review for open source EDA tool](https://techexplorations.com/blog/kicad/kicad-6-review-new-and-improved-features/)
 - [SqueakJS – A Squeak VM in JavaScript](https://squeak.js.org/)
-- [Riding the Writing Wave](https://perell.com/essay/writing/)
-- [Decades of disinformation by fossil fuels halted US climate policy](https://www.npr.org/2021/10/27/1047583610/once-again-the-u-s-has-failed-to-take-sweeping-climate-action-heres-why)
-- [Why Turtl switched from Common Lisp to JavaScript (2019)](https://lisp-journey.gitlab.io/blog/why-turtl-switched-from-lisp-to-js/)
+- [Open-source economics is not what you think](https://mikemcquaid.com/2021/10/27/open-source-economics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
