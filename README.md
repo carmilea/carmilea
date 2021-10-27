@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Abba on fame, divorce, ageing backwards](https://www.theguardian.com/music/2021/oct/27/abba-reunion-interview-voyage-younger-selves)
-- [$1.5B lithium deposit discovered in Maine; excavating it poses a legal challenge](https://www.themainemonitor.org/staggering-1-5-billion-lithium-deposit-discovered-near-newry-excavating-it-poses-a-challenge/)
-- [GiveCampus (YC S15) Is Hiring Our First Senior QA Engineer](https://jobs.lever.co/givecampus/9f90a193-53be-48e3-8d0e-533b89a097a6)
-- [Launch HN: Eduflow (YC S17) – Async Social Learning](https://news.ycombinator.com/item?id=29011896)
-- [Sequoia Productive Capital](https://stratechery.com/2021/sequoia-productive-capital/)
+- [How to Prepare for a Technical Interview](https://www.theretro.dev/article/how-to-prepare-for-a-php-technical-interview/)
+- [Where Transcendental Numbers Hide in Everyday Math](https://www.quantamagazine.org/where-transcendental-numbers-hide-in-everyday-math-20211027/)
+- [Photoshop will get a ‘prepare as NFT’ option soon](https://www.theverge.com/2021/10/26/22745506/adobe-nft-art-theft-content-credentials-opensea-rarible-photoshop)
+- [Apple is ready to admit it was wrong about the future of laptops](https://www.theverge.com/22734645/apple-macbook-pro-2021-ports-magsafe-touch-bar-usb-c-future)
+- [Show HN: Kit55, a Desktop Web Builder GUI – Jekyll, Next, WordPress Alternative](https://stack55.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
