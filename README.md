@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Indian Supreme Court orders inquiry into state’s use of Pegasus spyware](https://www.theguardian.com/news/2021/oct/27/indian-supreme-court-orders-inquiry-into-states-use-of-pegasus-spyware)
-- [Large Language Models: A New Moore's Law?](https://huggingface.co/blog/large-language-models)
-- [Walmart Billionaire Marc Lore Is Planning a $500B “City of the Future”](https://www.architecturaldigest.com/story/telosa-city-of-the-future)
-- [Remembering Intel 740](https://www.raspberrypi.com/news/remembering-intel-740-custom-pc-218/)
-- [Show HN: Coding Font – A game to find your favorite coding font](https://www.codingfont.com/)
+- [$1.5B lithium deposit discovered in Maine; excavating it poses a legal challenge](https://www.themainemonitor.org/staggering-1-5-billion-lithium-deposit-discovered-near-newry-excavating-it-poses-a-challenge/)
+- [GiveCampus (YC S15) Is Hiring Our First Senior QA Engineer](https://jobs.lever.co/givecampus/9f90a193-53be-48e3-8d0e-533b89a097a6)
+- [34% of white college students lied about their race to improve admission chance](https://www.intelligent.com/34-of-white-college-students-lied-about-their-race-to-improve-chances-of-admission-financial-aid-benefits/)
+- [Launch HN: Eduflow (YC S17) – Async Social Learning](https://news.ycombinator.com/item?id=29011896)
+- [Sequoia Productive Capital](https://stratechery.com/2021/sequoia-productive-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
