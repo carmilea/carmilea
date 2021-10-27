@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pachyderm Is Hiring Go Engineers to Build the Data Foundation for MLOps](https://www.pachyderm.com/careers/#positions)
-- [We Built a Cross-Platform Library with Rust](https://www.osohq.com/post/cross-platform-rust-libraries)
-- [Welcome to the brand new Erlang Forums](https://erlangforums.com/t/welcome-to-the-brand-new-erlang-forums/214)
-- [Ask HN: State of PHP at Facebook](https://news.ycombinator.com/item?id=29015130)
-- [2021 MacBook Pro has a replaceable battery](https://www.ifixit.com/News/54122/macbook-pro-2021-teardown)
+- [Facebook Removed the News Feed Algorithm in an Experiment. Then It Gave Up](https://bigtechnology.substack.com/p/facebook-removed-the-news-feed-algorithm)
+- [GitHub Copilot available for JetBrains and Neovim](https://github.com/github/copilot-docs/tree/main/docs)
+- [Female African Elephants Are Evolving Without Tusks Due to Ivory Poaching](https://theswaddle.com/female-african-elephants-are-evolving-without-tusks-due-to-ivory-poaching/)
+- [Xorg-Server 21.1.0](https://lists.x.org/archives/xorg/2021-October/060799.html)
+- [The Amish understand a life-changing truth about technology the rest of us don’t](https://qz.com/1275194/the-amish-understand-a-life-changing-truth-about-technology-the-rest-of-us-dont/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
