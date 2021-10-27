@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kicad 6: New feature review for open source eda tool](https://techexplorations.com/blog/kicad/kicad-6-review-new-and-improved-features/)
+- [SqueakJS – A Squeak VM in JavaScript](https://squeak.js.org/)
+- [Riding the Writing Wave](https://perell.com/essay/writing/)
 - [Decades of disinformation by fossil fuels halted US climate policy](https://www.npr.org/2021/10/27/1047583610/once-again-the-u-s-has-failed-to-take-sweeping-climate-action-heres-why)
-- [Nearly a third of new code on GitHub is written with AI help](https://www.axios.com/copilot-artificial-intelligence-coding-github-9a202f40-9af7-4786-9dcb-b678683b360f.html)
 - [Why Turtl switched from Common Lisp to JavaScript (2019)](https://lisp-journey.gitlab.io/blog/why-turtl-switched-from-lisp-to-js/)
-- [How Debian cron handles DST transitions](https://blog.healthchecks.io/2021/10/how-debian-cron-handles-dst-transitions/)
-- [Facebook removed the news feed algorithm in an experiment](https://bigtechnology.substack.com/p/facebook-removed-the-news-feed-algorithm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
