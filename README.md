@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wikivoyage Has Disappeared from DuckDuckGo](https://gaganpreet.in/posts/duckduckgo-wikivoyage/)
-- [France moves to shield its book industry from Amazon](https://www.reuters.com/business/retail-consumer/france-moves-shield-its-book-industry-amazon-2021-10-25/)
-- [EasyPost (YC S13) Is Default Remote and Hiring](https://www.easypost.com/careers)
-- [Why Lisp? (2015)](http://blog.rongarret.info/2015/05/why-lisp.html)
-- [Building a recommendation engine inside Postgres with Python and Pandas (2020)](https://blog.crunchydata.com/blog/recommendation_engine_in_postgres_with_pandas_and_python)
+- [Make Your Own ColecoVision at Home (Part 4 – Quadrature Controllers)](https://www.leadedsolder.com/2021/10/26/colecovision-diy-part-4.html)
+- [Howard University’s removal of classics is a spiritual catastrophe](https://www.washingtonpost.com/opinions/2021/04/19/cornel-west-howard-classics/)
+- [Retrieve a random Wikipedia page](https://en.wikipedia.org/wiki/Special:Random)
+- [Hertz agrees to buy 100k Teslas](https://www.npr.org/2021/10/25/1048953565/hertz-will-buy-100-000-teslas-electric-vehicles)
+- [Wikivoyage has disappeared from DuckDuckGo](https://gaganpreet.in/posts/duckduckgo-wikivoyage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
