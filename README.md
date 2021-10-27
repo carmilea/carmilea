@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Skio is hiring founding engineers (just raised $3.7m)](https://skio.com/careers/)
+- [Compute vs. Hardware](https://tellusim.com/compute-raster/)
+- [Skio (YC S20) is hiring founding engineers](https://skio.com/careers/)
+- [Artificial intelligence sheds light on how the brain processes language](https://news.mit.edu/2021/artificial-intelligence-brain-language-1025)
 - [Paxos automatically determined safe and secure](https://news.umich.edu/distributed-protocol-underpinning-cloud-computing-automatically-determined-safe-and-secure/)
-- [Kicad 6: new feature review for open source EDA tool](https://techexplorations.com/blog/kicad/kicad-6-review-new-and-improved-features/)
-- [SqueakJS – A Squeak VM in JavaScript](https://squeak.js.org/)
-- [Open-source economics is not what you think](https://mikemcquaid.com/2021/10/27/open-source-economics/)
+- [URI-Based Integration](https://www.tbray.org/ongoing/When/202x/2021/10/26/URI-based-Integration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
