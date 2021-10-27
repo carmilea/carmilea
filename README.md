@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Some Were Meant for C (2017) [pdf]](https://www.humprog.org/~stephen/research/papers/kell17some-preprint.pdf)
+- [Pachyderm Is Hiring Go Engineers to Build the Data Foundation for MLOps](https://www.pachyderm.com/careers/#positions)
+- [We Built a Cross-Platform Library with Rust](https://www.osohq.com/post/cross-platform-rust-libraries)
 - [Welcome to the brand new Erlang Forums](https://erlangforums.com/t/welcome-to-the-brand-new-erlang-forums/214)
 - [Ask HN: State of PHP at Facebook](https://news.ycombinator.com/item?id=29015130)
 - [2021 MacBook Pro has a replaceable battery](https://www.ifixit.com/News/54122/macbook-pro-2021-teardown)
-- [In-demand tech skills are the last thing to look for in IT hires](https://www.netsuite.com/portal/business-benchmark-brainyard/industries/articles/cfo-central/in-demand-tech-skills.shtml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
