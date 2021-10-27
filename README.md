@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook Removed the News Feed Algorithm in an Experiment. Then It Gave Up](https://bigtechnology.substack.com/p/facebook-removed-the-news-feed-algorithm)
-- [GitHub Copilot available for JetBrains and Neovim](https://github.com/github/copilot-docs/tree/main/docs)
-- [Female African Elephants Are Evolving Without Tusks Due to Ivory Poaching](https://theswaddle.com/female-african-elephants-are-evolving-without-tusks-due-to-ivory-poaching/)
-- [Xorg-Server 21.1.0](https://lists.x.org/archives/xorg/2021-October/060799.html)
-- [The Amish understand a life-changing truth about technology the rest of us don’t](https://qz.com/1275194/the-amish-understand-a-life-changing-truth-about-technology-the-rest-of-us-dont/)
+- [Decades of disinformation by fossil fuels halted US climate policy](https://www.npr.org/2021/10/27/1047583610/once-again-the-u-s-has-failed-to-take-sweeping-climate-action-heres-why)
+- [Nearly a third of new code on GitHub is written with AI help](https://www.axios.com/copilot-artificial-intelligence-coding-github-9a202f40-9af7-4786-9dcb-b678683b360f.html)
+- [Why Turtl switched from Common Lisp to JavaScript (2019)](https://lisp-journey.gitlab.io/blog/why-turtl-switched-from-lisp-to-js/)
+- [How Debian cron handles DST transitions](https://blog.healthchecks.io/2021/10/how-debian-cron-handles-dst-transitions/)
+- [Facebook removed the news feed algorithm in an experiment](https://bigtechnology.substack.com/p/facebook-removed-the-news-feed-algorithm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
