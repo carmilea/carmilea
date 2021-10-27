@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Affordable 70 MPH electric motorcycle is already here and no one noticed](https://electrek.co/2021/10/26/north-americas-most-affordable-70-mph-electric-motorcycle-is-already-here-and-no-one-noticed/)
+- [Bitcoin is largely controlled by a small group of investors and miners](https://www.techspot.com/news/91937-bitcoin-largely-controlled-small-group-investors-miners-study.html)
+- [Tesla Plans to Add Three New Paint Colors](https://blog.onlyusedtesla.com/tesla-plans-to-add-three-new-paint-colors-83226ada3479?gi=66172418149e)
 - [Giant, free index to world's research papers released online](https://www.nature.com/articles/d41586-021-02895-8)
 - [Make Your Own ColecoVision at Home (Part 4 – Quadrature Controllers)](https://www.leadedsolder.com/2021/10/26/colecovision-diy-part-4.html)
 - [Howard University’s removal of classics is a spiritual catastrophe](https://www.washingtonpost.com/opinions/2021/04/19/cornel-west-howard-classics/)
-- [Wikivoyage has disappeared from DuckDuckGo](https://gaganpreet.in/posts/duckduckgo-wikivoyage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
