@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fake retinas used at scale to claim Sam Altman’s World Coin](https://twitter.com/ibobbyshell/status/1453450514520182787)
+- [I was rejected by Codecademy 3 times. So I built my own](https://codeamigo.dev?ref=HN)
+- [Starship is still not understood](https://caseyhandmer.wordpress.com/2021/10/28/starship-is-still-not-understood/)
 - [Zentail (YC S12) Is Hiring Full Stack Engineers in Columbia, MD](https://jobs.lever.co/zentail/342133ef-1fbd-4a49-b346-bc4710250e7c)
 - [Intel Alder Lake Mobility CPU Faster Than Apple M1 Max](https://wccftech.com/intel-alder-lake-mobility-cpu-benchmarks-leaked-faster-than-the-apple-m1-max-smokes-amd-5980hx-11980hk/)
-- [The HTML video element needs to go back on the drawing board](https://www.ctrl.blog/entry/html-responsive-video.html)
-- [Reflections on Software Development from Anywhere on an iPad](https://ghuntley.com/anywhere/)
-- [Post-SSRI Sexual Dysfunction](https://rxisk.org/post-ssri-sexual-dysfunction-pssd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
