@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fake retinas used at scale to claim Sam Altman’s World Coin](https://twitter.com/ibobbyshell/status/1453450514520182787)
+- [In 1783, an English rector predicted black holes using classical mechanics](https://interestingengineering.com/forgotten-preacher-predicts-black-holes-a-century-before-einstein)
+- [Show HN: NLP and NER-powered beautiful bank transaction feed](https://try.herondata.io/)
+- [National Intelligence Estimate on Climate Change [pdf]](https://www.dni.gov/files/ODNI/documents/assessments/NIE_Climate_Change_and_National_Security.pdf)
+- [U.S. government owes over $100M for TSA's patent infringement](https://www.reuters.com/legal/transactional/us-government-owes-over-100-million-tsas-patent-infringement-2021-10-25/)
 - [I was rejected by Codecademy 3 times. So I built my own](https://codeamigo.dev?ref=HN)
-- [Starship is still not understood](https://caseyhandmer.wordpress.com/2021/10/28/starship-is-still-not-understood/)
-- [Zentail (YC S12) Is Hiring Full Stack Engineers in Columbia, MD](https://jobs.lever.co/zentail/342133ef-1fbd-4a49-b346-bc4710250e7c)
-- [Intel Alder Lake Mobility CPU Faster Than Apple M1 Max](https://wccftech.com/intel-alder-lake-mobility-cpu-benchmarks-leaked-faster-than-the-apple-m1-max-smokes-amd-5980hx-11980hk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
