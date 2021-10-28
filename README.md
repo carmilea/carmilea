@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shelf Engine (YC S18) is hiring a Head of Product. Help us stop food waste](https://www.shelfengine.com/careers/?gh_jid=4157189004)
+- [Poor parents receiving universal payments increase spending on kids](https://news.wsu.edu/press-release/2021/10/28/poor-parents-receiving-universal-payments-increase-spending-on-kids/)
+- [Your Sex Toy Might Be Spying on You](https://thewalrus.ca/your-sex-toy-might-be-spying-on-you/)
 - [Why noise is necessary for our brains to perform at a high-level](https://ekin.substack.com/p/noise)
 - [The Unceasing Cessna Hacienda](https://www.damninteresting.com/the-unceasing-cessna-hacienda/)
-- [Teenage Engineering Computer-1 mini-ITX Chassis](https://teenage.engineering/products/computer-1)
-- [The main thing about P2P meth is that there's so much of it](https://dynomight.net/p2p-meth/)
-- [Europe’s First Hydrogen Fuel Cell Sea-Going Ferry Is Powered by Renewable Energy](https://www.autoevolution.com/news/europes-first-hydrogen-fuel-cell-sea-going-ferry-is-powered-purely-by-renewable-energy-172235.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
