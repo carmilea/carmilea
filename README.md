@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1.1.1.1 for Families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/)
+- [Project Gutenberg is no longer fully blocked in Germany](https://news.ycombinator.com/item?id=29024039)
+- [Open secrets about Hacker News](https://bengtan.com/blog/open-secrets-hacker-news/)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://www.raycast.com/jobs)
 - [Your Code Displays Japanese Wrong](https://heistak.github.io/your-code-displays-japanese-wrong/)
-- [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/news/new-raspberry-pi-zero-2-w-2/)
-- [How Microsoft reduced Windows 11 update size by 40%](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/how-microsoft-reduced-windows-11-update-size-by-40/ba-p/2839794)
-- [So you want to write a technical book](http://terathon.com/blog/so-you-want-to-write-a-technical-book/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
