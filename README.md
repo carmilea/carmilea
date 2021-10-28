@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [The Robot and the Baby (2004)](http://www-formal.stanford.edu/jmc/robotandbaby/robotandbaby.html)
+- [Online GIF Tools – Simple, free and easy to use GIF utilities](https://onlinegiftools.com)
 - [Radio Station WWV](https://www.nist.gov/time-distribution/radio-station-wwv)
-- [The ‘semi-rich’: Millions of high-income Americans may not feel wealthy but are](https://grow.acorns.com/the-semi-rich-americans-who-may-not-feel-wealthy/)
 - [Tim Sweeney: Tax bill would likely end founder control of independent companies](https://twitter.com/TimSweeneyEpic/status/1453484672827240457)
-- [Compute vs. Hardware](https://tellusim.com/compute-raster/)
-- [Which stars can see Earth as a transiting exoplanet?](https://academic.oup.com/mnrasl/article/499/1/L111/5931805)
 <!-- BLOG-POST-LIST:END -->
 
 ---
