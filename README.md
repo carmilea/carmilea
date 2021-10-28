@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://www.raycast.com/jobs)
+- [Raspberry Pi Zero 2 – 5x performance](https://thepihut.com/products/raspberry-pi-zero-2)
+- [Your Code Displays Japanese Wrong](https://heistak.github.io/your-code-displays-japanese-wrong/)
+- [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/news/new-raspberry-pi-zero-2-w-2/)
 - [How Microsoft reduced Windows 11 update size by 40%](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/how-microsoft-reduced-windows-11-update-size-by-40/ba-p/2839794)
-- [So you want to write a technical book](http://terathon.com/blog/so-you-want-to-write-a-technical-book/)
-- [Astronomers witnessed the death of a star as it happened](https://news.ucsc.edu/2021/10/supernova-rosetta.html)
-- [South America's second-largest river retreats to lowest levels in 77 years](https://graphics.reuters.com/CLIMATE-UN/ARGENTINA-RIVER/zdpxoreykvx/)
-- [Open IP over VHF/UHF Part 5](https://www.rowetel.com/?p=7898)
 <!-- BLOG-POST-LIST:END -->
 
 ---
