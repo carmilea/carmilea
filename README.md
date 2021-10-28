@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [The Robot and the Baby (2004)](http://www-formal.stanford.edu/jmc/robotandbaby/robotandbaby.html)
-- [Online GIF Tools – Simple, free and easy to use GIF utilities](https://onlinegiftools.com)
-- [Radio Station WWV](https://www.nist.gov/time-distribution/radio-station-wwv)
-- [Tim Sweeney: Tax bill would likely end founder control of independent companies](https://twitter.com/TimSweeneyEpic/status/1453484672827240457)
+- [Closing Email with “Thanks” Gets the Most Replies](https://blog.boomerangapp.com/2017/01/how-to-end-an-email-email-sign-offs/)
+- [Non-Transitive Dice](https://singingbanana.com/dice/article.htm)
+- [Jerry (YC S17) is hiring a senior software engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [End Amazon’s Surveillance Partnership with Police](https://www.endringpartnerships.com/)
+- [Expectations for Generics in Go 1.18](https://groups.google.com/g/golang-dev/c/iuB22_G9Kbo/m/7B1jd1I3BQAJ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
