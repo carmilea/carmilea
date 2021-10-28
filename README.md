@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter hijacked the meta username for Facebook](https://web.archive.org/web/20211027005802/https://twitter.com/meta)
+- [What caused all the supply chain bottlenecks?](https://twitter.com/typesfast/status/1453753924960219145)
+- [IPv6 Progress Top Sites 2021](https://www.6connect.com/ipv6/ipv6-progress-report-top-sites-2019/)
 - [Facebook Renames to Meta](https://about.facebook.com/meta/)
-- [Tony Hsieh delusional from drug use, malnourished in final years, court docs say](https://www.reviewjournal.com/local/local-las-vegas/hsieh-delusional-from-drug-use-malnourished-in-final-years-court-docs-say-2466956/)
 - [Zappos CEO’s final months describe drug-addicted psychosis in court documents](https://www.8newsnow.com/i-team/i-team-tony-hsiehs-final-months-described-as-drug-addicted-psychosis-as-family-fights-off-lawsuits-staking-claim-to-estate-zappos-las-vegas-nevada/)
-- [I created a front page Show HN project CodingFont.com with low code](https://retool.com/blog/how-i-created-a-coding-font-game-with-low-code/)
-- [High-Level Synthesis for RISC-V](https://semiengineering.com/high-level-synthesis-for-risc-v/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
