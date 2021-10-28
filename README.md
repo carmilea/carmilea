@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Microsoft reduced Windows 11 update size by 40%](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/how-microsoft-reduced-windows-11-update-size-by-40/ba-p/2839794)
+- [So you want to write a technical book](http://terathon.com/blog/so-you-want-to-write-a-technical-book/)
 - [Astronomers witnessed the death of a star as it happened](https://news.ucsc.edu/2021/10/supernova-rosetta.html)
+- [South America's second-largest river retreats to lowest levels in 77 years](https://graphics.reuters.com/CLIMATE-UN/ARGENTINA-RIVER/zdpxoreykvx/)
 - [Open IP over VHF/UHF Part 5](https://www.rowetel.com/?p=7898)
-- [A tutorial on the principles of fault tolerance (1987) [pdf]](https://www.ias.ac.in/article/fulltext/sadh/011/01-02/0007-0022)
-- [The 50-year-old P-NP problem that eludes theoretical computer science](https://www.technologyreview.com/2021/10/27/1037123/p-np-theoretical-computer-science/)
-- [Flexible device could treat hearing loss without batteries](https://www.acs.org/content/acs/en/pressroom/presspacs/2021/acs-presspac-october-27-2021/flexible-device-could-treat-hearing-loss-without-batteries.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
