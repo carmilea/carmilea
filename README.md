@@ -54,8 +54,8 @@
 - [Why are our brains shrinking?](https://usfblogs.usfca.edu/biol100/2018/03/20/why-are-our-brains-shrinking/)
 - [Substack (YC W18) is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
 - [The Animated Guide to Symex (Emacs Structural Editing with Lisp)](https://countvajhula.com/2021/09/25/the-animated-guide-to-symex/)
-- [Apple Reports Fourth Quarter Results](https://www.apple.com/newsroom/2021/10/apple-reports-fourth-quarter-results/)
-- [55GiB/s FizzBuzz](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
+- [Politics and the English Language. George Orwell, 1946](https://gutenberg.net.au/ebooks02/0200151h.html)
+- [55 GiB/s FizzBuzz](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
 <!-- BLOG-POST-LIST:END -->
 
 ---
