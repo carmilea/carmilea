@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why noise is necessary for our brains to perform at a high-level](https://ekin.substack.com/p/noise)
+- [The Unceasing Cessna Hacienda](https://www.damninteresting.com/the-unceasing-cessna-hacienda/)
+- [Teenage Engineering Computer-1 mini-ITX Chassis](https://teenage.engineering/products/computer-1)
+- [The main thing about P2P meth is that there's so much of it](https://dynomight.net/p2p-meth/)
 - [Europe’s First Hydrogen Fuel Cell Sea-Going Ferry Is Powered by Renewable Energy](https://www.autoevolution.com/news/europes-first-hydrogen-fuel-cell-sea-going-ferry-is-powered-purely-by-renewable-energy-172235.html)
-- [An Unexpected Victory: Container Stacking at the Port of Los Angeles](https://thezvi.wordpress.com/2021/10/28/an-unexpected-victory-container-stacking-at-the-port-of-los-angeles/)
-- [Debian's Which Hunt](https://lwn.net/SubscriberLink/874049/bf89a969ed3dde87/)
-- [In 1783, an English rector predicted black holes using classical mechanics](https://interestingengineering.com/forgotten-preacher-predicts-black-holes-a-century-before-einstein)
-- [Conflict-free replicated datatypes solve distributed data consistency challenges](https://ably.com/blog/crdts-distributed-data-consistency-challenges)
 <!-- BLOG-POST-LIST:END -->
 
 ---
