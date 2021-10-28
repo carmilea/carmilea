@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://www.raycast.com/jobs)
-- [Raspberry Pi Zero 2 – 5x performance](https://thepihut.com/products/raspberry-pi-zero-2)
 - [Your Code Displays Japanese Wrong](https://heistak.github.io/your-code-displays-japanese-wrong/)
 - [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/news/new-raspberry-pi-zero-2-w-2/)
 - [How Microsoft reduced Windows 11 update size by 40%](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/how-microsoft-reduced-windows-11-update-size-by-40/ba-p/2839794)
+- [So you want to write a technical book](http://terathon.com/blog/so-you-want-to-write-a-technical-book/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
