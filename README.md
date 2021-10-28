@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blender 3.x Roadmap](https://code.blender.org/2021/10/blender-3-x-roadmap/)
+- [What Is It About Peter Thiel?](https://www.newyorker.com/news/letter-from-silicon-valley/what-is-it-about-peter-thiel)
+- [Autonomous Boats Seem More Solvable Than Autonomous Cars](https://spectrum.ieee.org/mit-robot-boats)
 - [1.1.1.1 for Families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/)
 - [Project Gutenberg is no longer fully blocked in Germany](https://news.ycombinator.com/item?id=29024039)
-- [Open secrets about Hacker News](https://bengtan.com/blog/open-secrets-hacker-news/)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://www.raycast.com/jobs)
-- [Your Code Displays Japanese Wrong](https://heistak.github.io/your-code-displays-japanese-wrong/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
