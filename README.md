@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open IP over VHF/UHF Part 5](https://www.rowetel.com/?p=7898)
 - [A tutorial on the principles of fault tolerance (1987) [pdf]](https://www.ias.ac.in/article/fulltext/sadh/011/01-02/0007-0022)
 - [The 50-year-old P-NP problem that eludes theoretical computer science](https://www.technologyreview.com/2021/10/27/1037123/p-np-theoretical-computer-science/)
-- [Closing email with “thanks” gets the most replies](https://blog.boomerangapp.com/2017/01/how-to-end-an-email-email-sign-offs/)
-- [Non-Transitive Dice](https://singingbanana.com/dice/article.htm)
-- [Jerry (YC S17) is hiring a senior software engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [Flexible device could treat hearing loss without batteries](https://www.acs.org/content/acs/en/pressroom/presspacs/2021/acs-presspac-october-27-2021/flexible-device-could-treat-hearing-loss-without-batteries.html)
+- [Ancient Xinjiang Mummies Are Not of Indo-European Origin](https://www.nature.com/articles/s41586-021-04052-7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
