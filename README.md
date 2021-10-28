@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter hijacked the meta username for Facebook](https://web.archive.org/web/20211027005802/https://twitter.com/meta)
+- [Zuckerberg Announces Fantasy World Where Facebook Is Not a Horrible Company](https://www.vice.com/en/article/qjb485/zuckerberg-facebook-new-name-meta-metaverse-presentation)
+- [Merriam Webster adds 455 new words to the dictionary in Oct 2021](https://www.merriam-webster.com/words-at-play/new-words-in-the-dictionary)
+- [Meta: A Social Technology Company](https://about.fb.com/news/2021/10/facebook-company-is-now-meta/)
 - [What caused all the supply chain bottlenecks?](https://twitter.com/typesfast/status/1453753924960219145)
 - [IPv6 Progress Top Sites 2021](https://www.6connect.com/ipv6/ipv6-progress-report-top-sites-2019/)
-- [Facebook Renames to Meta](https://about.facebook.com/meta/)
-- [Zappos CEO’s final months describe drug-addicted psychosis in court documents](https://www.8newsnow.com/i-team/i-team-tony-hsiehs-final-months-described-as-drug-addicted-psychosis-as-family-fights-off-lawsuits-staking-claim-to-estate-zappos-las-vegas-nevada/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
