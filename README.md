@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blender 3.x Roadmap](https://code.blender.org/2021/10/blender-3-x-roadmap/)
-- [What Is It About Peter Thiel?](https://www.newyorker.com/news/letter-from-silicon-valley/what-is-it-about-peter-thiel)
-- [Autonomous Boats Seem More Solvable Than Autonomous Cars](https://spectrum.ieee.org/mit-robot-boats)
-- [1.1.1.1 for Families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/)
-- [Project Gutenberg is no longer fully blocked in Germany](https://news.ycombinator.com/item?id=29024039)
+- [Zentail (YC S12) Is Hiring Full Stack Engineers in Columbia, MD](https://jobs.lever.co/zentail/342133ef-1fbd-4a49-b346-bc4710250e7c)
+- [Intel Alder Lake Mobility CPU Faster Than Apple M1 Max](https://wccftech.com/intel-alder-lake-mobility-cpu-benchmarks-leaked-faster-than-the-apple-m1-max-smokes-amd-5980hx-11980hk/)
+- [The HTML video element needs to go back on the drawing board](https://www.ctrl.blog/entry/html-responsive-video.html)
+- [Reflections on Software Development from Anywhere on an iPad](https://ghuntley.com/anywhere/)
+- [Post-SSRI Sexual Dysfunction](https://rxisk.org/post-ssri-sexual-dysfunction-pssd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
