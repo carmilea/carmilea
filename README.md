@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Shelf Engine (YC S18) is hiring a Head of Product. Help us stop food waste](https://www.shelfengine.com/careers/?gh_jid=4157189004)
-- [Poor parents receiving universal payments increase spending on kids](https://news.wsu.edu/press-release/2021/10/28/poor-parents-receiving-universal-payments-increase-spending-on-kids/)
-- [Your Sex Toy Might Be Spying on You](https://thewalrus.ca/your-sex-toy-might-be-spying-on-you/)
-- [Why noise is necessary for our brains to perform at a high-level](https://ekin.substack.com/p/noise)
-- [The Unceasing Cessna Hacienda](https://www.damninteresting.com/the-unceasing-cessna-hacienda/)
+- [Facebook Renames to Meta](https://about.facebook.com/meta/)
+- [Tony Hsieh delusional from drug use, malnourished in final years, court docs say](https://www.reviewjournal.com/local/local-las-vegas/hsieh-delusional-from-drug-use-malnourished-in-final-years-court-docs-say-2466956/)
+- [Zappos CEO’s final months describe drug-addicted psychosis in court documents](https://www.8newsnow.com/i-team/i-team-tony-hsiehs-final-months-described-as-drug-addicted-psychosis-as-family-fights-off-lawsuits-staking-claim-to-estate-zappos-las-vegas-nevada/)
+- [I created a front page Show HN project CodingFont.com with low code](https://retool.com/blog/how-i-created-a-coding-font-game-with-low-code/)
+- [High-Level Synthesis for RISC-V](https://semiengineering.com/high-level-synthesis-for-risc-v/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
