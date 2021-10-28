@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zuckerberg Announces Fantasy World Where Facebook Is Not a Horrible Company](https://www.vice.com/en/article/qjb485/zuckerberg-facebook-new-name-meta-metaverse-presentation)
-- [Merriam Webster adds 455 new words to the dictionary in Oct 2021](https://www.merriam-webster.com/words-at-play/new-words-in-the-dictionary)
-- [Meta: A Social Technology Company](https://about.fb.com/news/2021/10/facebook-company-is-now-meta/)
-- [What caused all the supply chain bottlenecks?](https://twitter.com/typesfast/status/1453753924960219145)
-- [IPv6 Progress Top Sites 2021](https://www.6connect.com/ipv6/ipv6-progress-report-top-sites-2019/)
+- [Why are our brains shrinking?](https://usfblogs.usfca.edu/biol100/2018/03/20/why-are-our-brains-shrinking/)
+- [Substack (YC W18) is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
+- [The Animated Guide to Symex (Emacs Structural Editing with Lisp)](https://countvajhula.com/2021/09/25/the-animated-guide-to-symex/)
+- [Apple Reports Fourth Quarter Results](https://www.apple.com/newsroom/2021/10/apple-reports-fourth-quarter-results/)
+- [55GiB/s FizzBuzz](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
 <!-- BLOG-POST-LIST:END -->
 
 ---
