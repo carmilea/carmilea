@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PhotoRoom (YC S20) Is Hiring a Computer Vision Lead (Paris/Remote)](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
 - [Open Steno Project – freeing stenography](http://www.openstenoproject.org/)
 - [Revisiting “The 4-Hour Workweek”](https://www.newyorker.com/culture/office-space/revisiting-the-4-hour-workweek)
 - [First Flight of Kestrel, the FPGA OpenPOWER-Based BMC, and Arctic Tern](https://www.talospace.com/2021/10/first-flight-of-kestrel-fpga-openpower.html)
 - [Chevron wins case to jail lawyer Steven Donziger](https://www.offshore-technology.com/news/chevron-wins-case-to-jail-lawyer/)
-- [Roblox Service Disruption](https://status.roblox.com/pages/59db90dbcdeb2f04dadcf16d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
