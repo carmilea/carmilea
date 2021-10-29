@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Roblox Service Disruption](https://status.roblox.com/pages/59db90dbcdeb2f04dadcf16d)
 - [Reasons Truck Drivers Walk Out the Door [video]](https://www.youtube.com/watch?v=S7xqbZk8GCU)
 - [Why do dogs tilt their heads? New study offers clues](https://www.science.org/content/article/why-do-dogs-tilt-their-heads-new-study-offers-clues)
 - [The M1 Max is the fastest GPU we have ever measured in Affinity Photo benchmark](https://twitter.com/andysomerfield/status/1451859111843356676)
 - [Swift Distributed Actors](https://swift.org/blog/distributed-actors/)
-- [Remote-first work is taking over the rich world](https://www.economist.com/finance-and-economics/2021/10/30/remote-first-work-is-taking-over-the-rich-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
