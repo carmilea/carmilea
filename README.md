@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Circular Harmonics](https://valdes.cc/articles/ch.html)
+- [Why Is Houseplant Advice So Bad?](https://dirtwise.substack.com/p/why-is-houseplant-advice-so-bad)
 - [FAA approves hundreds more engines to use unleaded avgas](https://www.aopa.org/news-and-media/all-news/2021/october/28/faa-approves-hundreds-more-engines-to-use-unleaded-avgas)
-- [Release (YC W20) Is Hiring – Product Director – Remote](https://releasehub.com/company#hire)
-- [Search warrant for Signal user data, Santa Clara County](https://signal.org/bigbrother/santaclara/)
-- [What if performance advertising isn't just an analytics scam?](https://mackgrenfell.com/blog/what-if-performance-advertising-isnt-just-an-analytics-scam)
-- [An Interview with the Old Man of Floating-Point (1998)](https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html)
+- [Release (YC W20) Is Hiring a Product Director – Remote](https://releasehub.com/company#hire)
+- [3½ years on my custom emperor mattress – a retrospective](https://www.middleendian.com/emperor_retrospective)
 <!-- BLOG-POST-LIST:END -->
 
 ---
