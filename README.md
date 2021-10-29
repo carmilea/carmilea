@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Nginx performance in bare metal and virtual environments](https://www.nginx.com/blog/comparing-nginx-performance-bare-metal-and-virtual-environments/)
-- [TrueVault (YC W14) is hiring devs to help make complying with CCPA easier for SMBs](https://www.ycombinator.com/companies/truevault/jobs/2EUmtf8-staff-software-engineer)
-- [Publish your PWA to the iOS App Store](https://blog.pwabuilder.com/posts/publish-your-pwa-to-the-ios-app-store/)
-- [Gender in Latin and Beyond: A Philologist’s Take](https://antigonejournal.com/2021/10/gender-in-latin-and-beyond/)
-- [Rich Salz to OpenSSL: Please change your mind](https://mta.openssl.org/pipermail/openssl-project/2021-October/002777.html)
+- [An Interview with the Old Man of Floating-Point (1998)](https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html)
+- [Medieval scholars of English commenting on the drift from Anglo Saxon](https://www.etymonline.com/columns/post/out-of-time)
+- [Browser Fingerprinting Without JavaScript](https://fingerprintjs.com/blog/disabling-javascript-wont-stop-fingerprinting/)
+- [MethaneSAT](https://www.methanesat.org//)
+- [Grand jury subpoena for Signal user data, Central District of California](https://signal.org/bigbrother/cd-california-grand-jury/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
