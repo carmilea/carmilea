@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Roblox has been down for over 24 hours](https://status.roblox.com/)
 - [Circular Harmonics](https://valdes.cc/articles/ch.html)
-- [Why Is Houseplant Advice So Bad?](https://dirtwise.substack.com/p/why-is-houseplant-advice-so-bad)
+- [Why is houseplant advice so bad?](https://dirtwise.substack.com/p/why-is-houseplant-advice-so-bad)
 - [FAA approves hundreds more engines to use unleaded avgas](https://www.aopa.org/news-and-media/all-news/2021/october/28/faa-approves-hundreds-more-engines-to-use-unleaded-avgas)
 - [Release (YC W20) Is Hiring a Product Director – Remote](https://releasehub.com/company#hire)
-- [3½ years on my custom emperor mattress – a retrospective](https://www.middleendian.com/emperor_retrospective)
 <!-- BLOG-POST-LIST:END -->
 
 ---
