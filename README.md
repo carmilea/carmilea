@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparing Nginx performance in bare metal and virtual environments](https://www.nginx.com/blog/comparing-nginx-performance-bare-metal-and-virtual-environments/)
 - [TrueVault (YC W14) is hiring devs to help make complying with CCPA easier for SMBs](https://www.ycombinator.com/companies/truevault/jobs/2EUmtf8-staff-software-engineer)
-- [Turning stem cells into human eggs](https://conception.bio/)
 - [Publish your PWA to the iOS App Store](https://blog.pwabuilder.com/posts/publish-your-pwa-to-the-ios-app-store/)
-- [Meta shares jump on name-change news, but it's a Canadian materials company](https://www.cbc.ca/news/business/meta-materials-facebook-1.6229983)
-- [A new 100-page report raises alarm over Chevron’s impact on planet](https://news.mongabay.com/2021/10/a-new-100-page-report-raises-alarm-over-chevrons-impact-on-planet/)
+- [Gender in Latin and Beyond: A Philologist’s Take](https://antigonejournal.com/2021/10/gender-in-latin-and-beyond/)
+- [Rich Salz to OpenSSL: Please change your mind](https://mta.openssl.org/pipermail/openssl-project/2021-October/002777.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
