@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TSMC founder questions US move to rebuild chip supply chain](https://itwire.com/government-tech-policy/tsmc-founder-questions-us-move-to-rebuild-chip-supply-chain.html)
+- [Reasons Truck Drivers Walk Out the Door [video]](https://www.youtube.com/watch?v=S7xqbZk8GCU)
 - [Why do dogs tilt their heads? New study offers clues](https://www.science.org/content/article/why-do-dogs-tilt-their-heads-new-study-offers-clues)
 - [The M1 Max is the fastest GPU we have ever measured in Affinity Photo benchmark](https://twitter.com/andysomerfield/status/1451859111843356676)
 - [Swift Distributed Actors](https://swift.org/blog/distributed-actors/)
