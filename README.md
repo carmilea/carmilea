@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Keyence, the Japanese world-beating firm you've never heard of](https://asia.nikkei.com/Business/Technology/Evolve-or-die-How-nimble-Keyence-grew-into-a-140bn-titan)
-- [Seemingly Impossible Functional Programs](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
-- [Stratechery – An Interview with Mark Zuckerberg about the Metaverse](https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/)
+- [How nimble Keyence grew into a $140B titan](https://asia.nikkei.com/Business/Technology/Evolve-or-die-How-nimble-Keyence-grew-into-a-140bn-titan)
+- [Seemingly impossible functional programs](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
+- [An interview with Mark Zuckerberg about the Metaverse](https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/)
+- [Why are our brains shrinking?](https://usfblogs.usfca.edu/biol100/2018/03/20/why-are-our-brains-shrinking/)
 - [Substack (YC W18) is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
-- [Animated guide to Symex: Emacs structural editing with Lisp](https://countvajhula.com/2021/09/25/the-animated-guide-to-symex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
