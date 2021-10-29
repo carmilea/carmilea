@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Swift Distributed Actors](https://swift.org/blog/distributed-actors/)
+- [Remote-first work is taking over the rich world](https://www.economist.com/finance-and-economics/2021/10/30/remote-first-work-is-taking-over-the-rich-world)
+- [Facebook Unceremoniously Kills Off 'Oculus' Brand](https://techcrunch.com/2021/10/28/facebook-errr-meta-unceremoniously-kills-off-oculus-brand/)
 - [How nimble Keyence grew into a $140B titan](https://asia.nikkei.com/Business/Technology/Evolve-or-die-How-nimble-Keyence-grew-into-a-140bn-titan)
 - [Seemingly impossible functional programs](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
-- [An interview with Mark Zuckerberg about the Metaverse](https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/)
-- [Why are our brains shrinking?](https://usfblogs.usfca.edu/biol100/2018/03/20/why-are-our-brains-shrinking/)
-- [Substack (YC W18) is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
