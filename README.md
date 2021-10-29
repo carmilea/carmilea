@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I have been through this before](https://www.tabletmag.com/sections/arts-letters/articles/i-have-been-through-this-before-bauer)
+- [Architect Resigns in Protest over UCSB Mega-Dorm](https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm/)
+- [Launch HN: Secoda (YC S21) – Searchable Company Data](https://news.ycombinator.com/item?id=29038087)
+- [The Bicycle Thief](https://www.chicagomag.com/chicago-magazine/february-2019/bicycle-bank-robber-tom-justice/)
 - [Optery (YC W22) Hiring First Product Manager, Growth Marketer, Back End Engineer](https://optery.breezy.hr)
-- [Zuckerberg wants to be the hero of the metaverse because Facebook is boring](https://www.theatlantic.com/ideas/archive/2021/10/facebook-metaverse-mark-zuckerberg/620538/)
 - [Julian Assange Extradition Appeal: Day 2](https://assangedefense.org/hearing-coverage/julian-assange-extradition-appeal-day-2/)
-- [For a legally blind player, Far Cry 6’s accessibility options are empowering](https://www.polygon.com/22748526/far-cry-6-accessibility-pc-xbox-one-series-x-ps5-ps4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
