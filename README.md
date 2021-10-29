@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Steno Project – freeing stenography](http://www.openstenoproject.org/)
+- [Revisiting “The 4-Hour Workweek”](https://www.newyorker.com/culture/office-space/revisiting-the-4-hour-workweek)
+- [First Flight of Kestrel, the FPGA OpenPOWER-Based BMC, and Arctic Tern](https://www.talospace.com/2021/10/first-flight-of-kestrel-fpga-openpower.html)
+- [Chevron wins case to jail lawyer Steven Donziger](https://www.offshore-technology.com/news/chevron-wins-case-to-jail-lawyer/)
 - [Roblox Service Disruption](https://status.roblox.com/pages/59db90dbcdeb2f04dadcf16d)
-- [Reasons Truck Drivers Walk Out the Door [video]](https://www.youtube.com/watch?v=S7xqbZk8GCU)
-- [Why do dogs tilt their heads? New study offers clues](https://www.science.org/content/article/why-do-dogs-tilt-their-heads-new-study-offers-clues)
-- [The M1 Max is the fastest GPU we have ever measured in Affinity Photo benchmark](https://twitter.com/andysomerfield/status/1451859111843356676)
-- [Swift Distributed Actors](https://swift.org/blog/distributed-actors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
