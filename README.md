@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA approves hundreds more engines to use unleaded avgas](https://www.aopa.org/news-and-media/all-news/2021/october/28/faa-approves-hundreds-more-engines-to-use-unleaded-avgas)
+- [Release (YC W20) Is Hiring – Product Director – Remote](https://releasehub.com/company#hire)
+- [Search warrant for Signal user data, Santa Clara County](https://signal.org/bigbrother/santaclara/)
+- [What if performance advertising isn't just an analytics scam?](https://mackgrenfell.com/blog/what-if-performance-advertising-isnt-just-an-analytics-scam)
 - [An Interview with the Old Man of Floating-Point (1998)](https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html)
-- [Medieval scholars of English commenting on the drift from Anglo Saxon](https://www.etymonline.com/columns/post/out-of-time)
-- [Browser Fingerprinting Without JavaScript](https://fingerprintjs.com/blog/disabling-javascript-wont-stop-fingerprinting/)
-- [MethaneSAT](https://www.methanesat.org//)
-- [Grand jury subpoena for Signal user data, Central District of California](https://signal.org/bigbrother/cd-california-grand-jury/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
