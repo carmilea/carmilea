@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TSMC founder questions US move to rebuild chip supply chain](https://itwire.com/government-tech-policy/tsmc-founder-questions-us-move-to-rebuild-chip-supply-chain.html)
+- [Why do dogs tilt their heads? New study offers clues](https://www.science.org/content/article/why-do-dogs-tilt-their-heads-new-study-offers-clues)
+- [The M1 Max is the fastest GPU we have ever measured in Affinity Photo benchmark](https://twitter.com/andysomerfield/status/1451859111843356676)
 - [Swift Distributed Actors](https://swift.org/blog/distributed-actors/)
 - [Remote-first work is taking over the rich world](https://www.economist.com/finance-and-economics/2021/10/30/remote-first-work-is-taking-over-the-rich-world)
-- [Facebook Unceremoniously Kills Off 'Oculus' Brand](https://techcrunch.com/2021/10/28/facebook-errr-meta-unceremoniously-kills-off-oculus-brand/)
-- [How nimble Keyence grew into a $140B titan](https://asia.nikkei.com/Business/Technology/Evolve-or-die-How-nimble-Keyence-grew-into-a-140bn-titan)
-- [Seemingly impossible functional programs](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
