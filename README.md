@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DuckDB-Wasm: Efficient Analytical SQL in the Browser](https://duckdb.org/2021/10/29/duckdb-wasm.html)
+- [G-20 Climate Talks Threatened by Clash over Coal Ahead of COP26](https://www.wsj.com/articles/g-20-climate-talks-threatened-by-clash-over-coal-ahead-of-cop26-11635491696)
+- [Generation X Is Sick of Your Bullshit (2011)](https://gizmodo.com/generation-x-is-sick-of-your-bullshit-5851062)
+- [Meow Hash](https://mollyrocket.com/meowhash)
 - [Architect Resigns in Protest over UCSB Mega-Dorm](https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm/)
-- [Launch HN: Secoda (YC S21) – Searchable Company Data](https://news.ycombinator.com/item?id=29038087)
-- [The Bicycle Thief](https://www.chicagomag.com/chicago-magazine/february-2019/bicycle-bank-robber-tom-justice/)
-- [Optery (YC W22) Hiring First Product Manager, Growth Marketer, Back End Engineer](https://optery.breezy.hr)
-- [Julian Assange Extradition Appeal: Day 2](https://assangedefense.org/hearing-coverage/julian-assange-extradition-appeal-day-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
