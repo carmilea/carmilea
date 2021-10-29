@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What every IT person needs to know about OpenBSD Part 1: How it all started](https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/)
-- [Neuroscientist argues the left side of our brains have taken over our minds](https://www.cbc.ca/radio/ideas/neuroscientist-argues-the-left-side-of-our-brains-have-taken-over-our-minds-1.6219688)
-- [Firefox on Unix is moving away from X11-based remote control](https://utcc.utoronto.ca/~cks/space/blog/unix/FirefoxNoX11RemoteControl)
-- [PhotoRoom (YC S20) Is Hiring a Computer Vision Lead (Paris/Remote)](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
-- [Scientists recreated classic origin-of-life experiment and made a new discovery](https://arstechnica.com/science/2021/10/scientists-recreated-classic-origin-of-life-experiment-and-made-a-new-discovery/)
+- [Optery (YC W22) Hiring First Product Manager, Growth Marketer, Back End Engineer](https://optery.breezy.hr)
+- [Zuckerberg wants to be the hero of the metaverse because Facebook is boring](https://www.theatlantic.com/ideas/archive/2021/10/facebook-metaverse-mark-zuckerberg/620538/)
+- [Julian Assange Extradition Appeal: Day 2](https://assangedefense.org/hearing-coverage/julian-assange-extradition-appeal-day-2/)
+- [For a legally blind player, Far Cry 6’s accessibility options are empowering](https://www.polygon.com/22748526/far-cry-6-accessibility-pc-xbox-one-series-x-ps5-ps4)
+- [OpenBSD: How it all started](https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
