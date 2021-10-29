@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What every IT person needs to know about OpenBSD Part 1: How it all started](https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/)
+- [Neuroscientist argues the left side of our brains have taken over our minds](https://www.cbc.ca/radio/ideas/neuroscientist-argues-the-left-side-of-our-brains-have-taken-over-our-minds-1.6219688)
+- [Firefox on Unix is moving away from X11-based remote control](https://utcc.utoronto.ca/~cks/space/blog/unix/FirefoxNoX11RemoteControl)
 - [PhotoRoom (YC S20) Is Hiring a Computer Vision Lead (Paris/Remote)](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
 - [Scientists recreated classic origin-of-life experiment and made a new discovery](https://arstechnica.com/science/2021/10/scientists-recreated-classic-origin-of-life-experiment-and-made-a-new-discovery/)
-- [Open Steno Project – freeing stenography](http://www.openstenoproject.org/)
-- [First Flight of Kestrel, the FPGA OpenPOWER-Based BMC, and Arctic Tern](https://www.talospace.com/2021/10/first-flight-of-kestrel-fpga-openpower.html)
-- [NetBSD is Looking for various WiFi hardware](https://mail-index.netbsd.org/current-users/2021/10/27/msg041612.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
