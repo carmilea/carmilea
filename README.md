@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Casey Muratori: Simple Code, High Performance](https://www.youtube.com/watch?v=Ge3aKEmZcqY)
+- [Roku releases IDK to allow consumers to develop applications for their Roku](https://blog.roku.com/developer/2021/10/26/idk)
 - [Tao: Facebook’s distributed data store for the social graph](https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html)
 - [OpenWorm](https://github.com/openworm)
 - [Aurora Forecast](https://www.gi.alaska.edu/monitors/aurora-forecast)
-- [“Metaverse” creator reacts to Facebook name change](https://www.axios.com/metaverse-creator-neal-stephenson-facebook-name-change-a4259282-5016-4c67-a7ae-b0eb381a7773.html)
-- [Vimconf 2021 – Oct 29, 30](https://www.vimconf.live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
