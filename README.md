@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Study: Better sleep habits lead to better college grades (2019)](https://news.mit.edu/2019/better-sleep-better-grades-1001)
+- [Prague's Brutalist Buildings](https://www.calvertjournal.com/features/show/13210/best-brutalist-buildings-in-prague-czech-republic-socialist-modernist-architecture)
 - [Bitmovin (YC S15) Is Hiring a Head of Demand Generation](https://bitmovin.com/careers/5524567002?gh_jid=5524567002)
 - [U.S. House Prices Are Rising Exponentially Faster Than Income (2021 Data)](https://www.realestatewitch.com/house-price-to-income-ratio-2021/)
 - [The Metaverse Is Bullshit](https://outline.com/DUdr8Y)
-- [Simple Code, High Performance [video]](https://www.youtube.com/watch?v=Ge3aKEmZcqY)
-- [Roku releases IDK to allow consumers to develop applications for their Roku](https://blog.roku.com/developer/2021/10/26/idk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
