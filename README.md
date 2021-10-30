@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. House Prices Are Rising Exponentially Faster Than Income (2021 Data)](https://www.realestatewitch.com/house-price-to-income-ratio-2021/)
+- [The Metaverse Is Bullshit](https://outline.com/DUdr8Y)
 - [US Robotics 56k Modems](https://www.usr.com/products/56k-dialup-modem/)
 - [Simple Code, High Performance [video]](https://www.youtube.com/watch?v=Ge3aKEmZcqY)
 - [Roku releases IDK to allow consumers to develop applications for their Roku](https://blog.roku.com/developer/2021/10/26/idk)
-- [Tao: Facebook’s distributed data store for the social graph](https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html)
-- [OpenWorm](https://github.com/openworm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
