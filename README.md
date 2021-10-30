@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer's resume with fake buzzwords gets 90% replies, the actual one gets 0%](https://twitter.com/Coding_Career/status/1454293034179317764)
+- [Edward Snowden on corporate media hiring surveillance state operatives and liars](https://twitter.com/Snowden/status/1454542964470996999)
+- [Fundamentals of Piano Practice](https://fundamentals-of-piano-practice.readthedocs.io/)
 - [Path (YC S19) Is Hiring Founding Engineers](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
 - [macOS has become more reliable](https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/)
-- [Dangerous Logging in Swift](https://indiestack.com/2021/10/dangerous-logging-in-swift/)
-- [How will MIDI 2.0 change music? (2020)](https://qz.com/1788828/how-will-midi-2-0-change-music/)
-- [Strong AI Requires Autonomous Building of Composable Models](https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
