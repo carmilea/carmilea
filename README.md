@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tao: Facebook’s distributed data store for the social graph](https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html)
+- [OpenWorm](https://github.com/openworm)
+- [Aurora Forecast](https://www.gi.alaska.edu/monitors/aurora-forecast)
+- [“Metaverse” creator reacts to Facebook name change](https://www.axios.com/metaverse-creator-neal-stephenson-facebook-name-change-a4259282-5016-4c67-a7ae-b0eb381a7773.html)
 - [Vimconf 2021 – Oct 29, 30](https://www.vimconf.live/)
-- [Roblox has been down for over 24 hours](https://status.roblox.com/)
-- [Circular Harmonics](https://valdes.cc/articles/ch.html)
-- [Better Operator Precedence](https://scattered-thoughts.net/writing/better-operator-precedence/)
-- [FAA approves hundreds more engines to use unleaded avgas](https://www.aopa.org/news-and-media/all-news/2021/october/28/faa-approves-hundreds-more-engines-to-use-unleaded-avgas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
