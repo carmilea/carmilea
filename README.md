@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin (YC S15) Is Hiring a Head of Demand Generation](https://bitmovin.com/careers/5524567002?gh_jid=5524567002)
 - [U.S. House Prices Are Rising Exponentially Faster Than Income (2021 Data)](https://www.realestatewitch.com/house-price-to-income-ratio-2021/)
 - [The Metaverse Is Bullshit](https://outline.com/DUdr8Y)
-- [US Robotics 56k Modems](https://www.usr.com/products/56k-dialup-modem/)
 - [Simple Code, High Performance [video]](https://www.youtube.com/watch?v=Ge3aKEmZcqY)
 - [Roku releases IDK to allow consumers to develop applications for their Roku](https://blog.roku.com/developer/2021/10/26/idk)
 <!-- BLOG-POST-LIST:END -->
