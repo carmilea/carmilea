@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond inductive datatypes: exploring Self types](https://github.com/kind-lang/Kind/blob/master/blog/1-beyond-inductive-datatypes.md)
+- [An Ode to the 10k RPM Western Digital (Veloci)Raptor](https://louwrentius.com/an-ode-to-the-10000-rpm-western-digital-velociraptor.html)
+- [Raspberry Pi 4 achieves Vulkan 1.1 conformance, gets 60% GPU performance boost](https://www.cnx-software.com/2021/10/27/raspberry-pi-4-achieves-vulkan-1-1-conformance-gets-up-to-60-gpu-performance-boost/)
 - [Meta buys Within, the studio behind VR fitness app Supernatural](https://www.roadtovr.com/meta-facebook-within-supernatural-acquisition-vr-studio/)
-- [2010 Fisher-Price Music Box Record Player Doesn't Work Like the Original](https://twitter.com/Foone/status/1454230585933631488)
-- [Fire, Fire, Fire: How Navy Failures Destroyed the Bonhomme Richard](https://gcaptain.com/fire-fire-fire-how-navy-failures-destroyed-the-uss-bonhomme-richard/)
-- [My students never knew’: the lecturer who lived in a tent](https://www.theguardian.com/education/2021/oct/30/my-students-never-knew-the-lecturer-who-lived-in-a-tent)
-- [Meticulous (YC S21) Is Hiring Founding Engineer (London)](https://news.ycombinator.com/item?id=29048110)
+- [How to help a programming student get unstuck](https://offbyone.us/posts/how-to-help-a-student-get-unstuck/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
