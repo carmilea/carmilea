@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous (YC S21) Is Hiring Founding Engineer (London)](https://news.ycombinator.com/item?id=29048110)
+- [Universal Android Debloater](https://github.com/0x192/universal-android-debloater)
+- [Programmer's emotions](https://blog.sidebits.tech/programmers-emotions/)
+- [Ceefax from an old Raspberry Pi](http://www.suppertime.co.uk/blogmywiki/2021/10/ceefax-from-an-old-raspberry-pi/)
 - [Show HN: SectorLISP Now Fits in One Sector](https://justine.lol/sectorlisp/)
-- [Study: Better sleep habits lead to better college grades (2019)](https://news.mit.edu/2019/better-sleep-better-grades-1001)
-- [Prague's Brutalist Buildings](https://www.calvertjournal.com/features/show/13210/best-brutalist-buildings-in-prague-czech-republic-socialist-modernist-architecture)
-- [U.S. spy agencies say origins of Covid-19 may never be known](https://www.reuters.com/world/us-intelligence-releases-report-covid-19-origins-2021-10-29/)
-- [The metaverse is already here, it's called the internet](https://canolcer.com/post/metaverse-is-already-here/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
