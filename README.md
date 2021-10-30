@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Study: Better sleep habits lead to better college grades (2019)](https://news.mit.edu/2019/better-sleep-better-grades-1001)
 - [Prague's Brutalist Buildings](https://www.calvertjournal.com/features/show/13210/best-brutalist-buildings-in-prague-czech-republic-socialist-modernist-architecture)
+- [U.S. spy agencies say origins of Covid-19 may never be known](https://www.reuters.com/world/us-intelligence-releases-report-covid-19-origins-2021-10-29/)
+- [The metaverse is already here, it's called the internet](https://canolcer.com/post/metaverse-is-already-here/)
 - [Bitmovin (YC S15) Is Hiring a Head of Demand Generation](https://bitmovin.com/careers/5524567002?gh_jid=5524567002)
-- [U.S. House Prices Are Rising Exponentially Faster Than Income (2021 Data)](https://www.realestatewitch.com/house-price-to-income-ratio-2021/)
-- [The Metaverse Is Bullshit](https://outline.com/DUdr8Y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
