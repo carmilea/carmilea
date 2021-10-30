@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- ['Sleeping Whale' Awakens as Unused Bitcoin Wallet Comes Online](https://www.tomshardware.com/news/long-dormant-bitcoin-wallet-comes-online)
-- [California condors can reproduce without having sex, San Diego Zoo reports](https://apnews.com/article/science-lifestyle-environment-and-nature-california-san-diego-681720b1602ab1a93792c7c1f68a9c54)
-- [Pre-industrial workers had a shorter workweek than today's (1991)](https://groups.csail.mit.edu/mac/users/rauch/worktime/hours_workweek.html)
-- [Rutter (YC S19) is hiring engineers to build the data layer for ecommerce](https://www.ycombinator.com/companies/rutter/jobs/jS7fiSp-software-engineer)
-- [Async Ruby](https://brunosutic.com/blog/async-ruby)
+- [Dangerous Logging in Swift](https://indiestack.com/2021/10/dangerous-logging-in-swift/)
+- [How will MIDI 2.0 change music? (2020)](https://qz.com/1788828/how-will-midi-2-0-change-music/)
+- [Schoellkopf Power Station Disaster – a history](https://www.niagarafrontier.com/schoellkopf.html)
+- [Biometric and behavioural mass surveillance in EU Member States](https://www.greens-efa.eu/biometricsurveillance/)
+- [Young people are leaving their jobs in record numbers and not going back](https://time.com/6111245/young-workers-quitting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
