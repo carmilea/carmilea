@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My students never knew’: the lecturer who lived in a tent](https://www.theguardian.com/education/2021/oct/30/my-students-never-knew-the-lecturer-who-lived-in-a-tent)
 - [Meticulous (YC S21) Is Hiring Founding Engineer (London)](https://news.ycombinator.com/item?id=29048110)
-- [Universal Android Debloater](https://github.com/0x192/universal-android-debloater)
+- [Rare, ancient Maya canoe found in Mexico's Yucatan](https://www.reuters.com/world/americas/rare-ancient-maya-canoe-found-mexicos-yucatan-2021-10-30/)
 - [Programmer's emotions](https://blog.sidebits.tech/programmers-emotions/)
 - [Ceefax from an old Raspberry Pi](http://www.suppertime.co.uk/blogmywiki/2021/10/ceefax-from-an-old-raspberry-pi/)
-- [Show HN: SectorLISP Now Fits in One Sector](https://justine.lol/sectorlisp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
