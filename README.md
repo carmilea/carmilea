@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vimconf 2021 – Oct 29, 30](https://www.vimconf.live/)
 - [Roblox has been down for over 24 hours](https://status.roblox.com/)
 - [Circular Harmonics](https://valdes.cc/articles/ch.html)
-- [Why is houseplant advice so bad?](https://dirtwise.substack.com/p/why-is-houseplant-advice-so-bad)
+- [Better Operator Precedence](https://scattered-thoughts.net/writing/better-operator-precedence/)
 - [FAA approves hundreds more engines to use unleaded avgas](https://www.aopa.org/news-and-media/all-news/2021/october/28/faa-approves-hundreds-more-engines-to-use-unleaded-avgas)
-- [Release (YC W20) Is Hiring a Product Director – Remote](https://releasehub.com/company#hire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
