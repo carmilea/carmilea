@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Our ancestors may not have been rich, but they had an abundance of leisure](https://groups.csail.mit.edu/mac/users/rauch/worktime/hours_workweek.html)
+- [Rutter (YC S19) is hiring engineers to build the data layer for ecommerce](https://www.ycombinator.com/companies/rutter/jobs/jS7fiSp-software-engineer)
+- [Async Ruby](https://brunosutic.com/blog/async-ruby)
+- [Investors Spent Millions on ‘Evolved Apes’ NFTs. Then They Got Scammed](https://www.vice.com/en/article/y3dyem/investors-spent-millions-on-evolved-apes-nfts-then-they-got-scammed)
 - [Beyond inductive datatypes: exploring Self types](https://github.com/kind-lang/Kind/blob/master/blog/1-beyond-inductive-datatypes.md)
-- [An Ode to the 10k RPM Western Digital (Veloci)Raptor](https://louwrentius.com/an-ode-to-the-10000-rpm-western-digital-velociraptor.html)
-- [Raspberry Pi 4 achieves Vulkan 1.1 conformance, gets 60% GPU performance boost](https://www.cnx-software.com/2021/10/27/raspberry-pi-4-achieves-vulkan-1-1-conformance-gets-up-to-60-gpu-performance-boost/)
-- [Meta buys Within, the studio behind VR fitness app Supernatural](https://www.roadtovr.com/meta-facebook-within-supernatural-acquisition-vr-studio/)
-- [How to help a programming student get unstuck](https://offbyone.us/posts/how-to-help-a-student-get-unstuck/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
