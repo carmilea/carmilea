@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Our ancestors may not have been rich, but they had an abundance of leisure](https://groups.csail.mit.edu/mac/users/rauch/worktime/hours_workweek.html)
+- ['Sleeping Whale' Awakens as Unused Bitcoin Wallet Comes Online](https://www.tomshardware.com/news/long-dormant-bitcoin-wallet-comes-online)
+- [California condors can reproduce without having sex, San Diego Zoo reports](https://apnews.com/article/science-lifestyle-environment-and-nature-california-san-diego-681720b1602ab1a93792c7c1f68a9c54)
+- [Pre-industrial workers had a shorter workweek than today's (1991)](https://groups.csail.mit.edu/mac/users/rauch/worktime/hours_workweek.html)
 - [Rutter (YC S19) is hiring engineers to build the data layer for ecommerce](https://www.ycombinator.com/companies/rutter/jobs/jS7fiSp-software-engineer)
-- [Async Ruby](https://brunosutic.com/blog/async-ruby)
-- [Investors Spent Millions on ‘Evolved Apes’ NFTs. Then They Got Scammed](https://www.vice.com/en/article/y3dyem/investors-spent-millions-on-evolved-apes-nfts-then-they-got-scammed)
-- [Beyond inductive datatypes: exploring Self types](https://github.com/kind-lang/Kind/blob/master/blog/1-beyond-inductive-datatypes.md)
+- [Colony was a rare dystopia that tried something new (2018)](https://www.theverge.com/2018/8/5/17648524/colony-cancelation-dystopia-usa-network-carlton-cuse-rip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
