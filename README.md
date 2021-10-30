@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Path (YC S19) Is Hiring Founding Engineers](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
 - [Dangerous Logging in Swift](https://indiestack.com/2021/10/dangerous-logging-in-swift/)
 - [How will MIDI 2.0 change music? (2020)](https://qz.com/1788828/how-will-midi-2-0-change-music/)
+- [Strong AI Requires Autonomous Building of Composable Models](https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/)
 - [Schoellkopf Power Station Disaster – a history](https://www.niagarafrontier.com/schoellkopf.html)
-- [Biometric and behavioural mass surveillance in EU Member States](https://www.greens-efa.eu/biometricsurveillance/)
-- [Young people are leaving their jobs in record numbers and not going back](https://time.com/6111245/young-workers-quitting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
