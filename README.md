@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta buys Within, the studio behind VR fitness app Supernatural](https://www.roadtovr.com/meta-facebook-within-supernatural-acquisition-vr-studio/)
+- [2010 Fisher-Price Music Box Record Player Doesn't Work Like the Original](https://twitter.com/Foone/status/1454230585933631488)
+- [Fire, Fire, Fire: How Navy Failures Destroyed the Bonhomme Richard](https://gcaptain.com/fire-fire-fire-how-navy-failures-destroyed-the-uss-bonhomme-richard/)
 - [My students never knew’: the lecturer who lived in a tent](https://www.theguardian.com/education/2021/oct/30/my-students-never-knew-the-lecturer-who-lived-in-a-tent)
 - [Meticulous (YC S21) Is Hiring Founding Engineer (London)](https://news.ycombinator.com/item?id=29048110)
-- [Rare, ancient Maya canoe found in Mexico's Yucatan](https://www.reuters.com/world/americas/rare-ancient-maya-canoe-found-mexicos-yucatan-2021-10-30/)
-- [Programmer's emotions](https://blog.sidebits.tech/programmers-emotions/)
-- [Ceefax from an old Raspberry Pi](http://www.suppertime.co.uk/blogmywiki/2021/10/ceefax-from-an-old-raspberry-pi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
