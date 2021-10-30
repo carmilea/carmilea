@@ -55,7 +55,7 @@
 - [California condors can reproduce without having sex, San Diego Zoo reports](https://apnews.com/article/science-lifestyle-environment-and-nature-california-san-diego-681720b1602ab1a93792c7c1f68a9c54)
 - [Pre-industrial workers had a shorter workweek than today's (1991)](https://groups.csail.mit.edu/mac/users/rauch/worktime/hours_workweek.html)
 - [Rutter (YC S19) is hiring engineers to build the data layer for ecommerce](https://www.ycombinator.com/companies/rutter/jobs/jS7fiSp-software-engineer)
-- [Colony was a rare dystopia that tried something new (2018)](https://www.theverge.com/2018/8/5/17648524/colony-cancelation-dystopia-usa-network-carlton-cuse-rip)
+- [Async Ruby](https://brunosutic.com/blog/async-ruby)
 <!-- BLOG-POST-LIST:END -->
 
 ---
