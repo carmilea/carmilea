@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SigNoz (YC W21) Is Hiring Golang Engineers](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-founding-sr-backend-engineer)
 - [All Applications for Nuclear Energy at COP26 Rejected](https://www.world-nuclear-news.org/Articles/Message-Nuclear-must-be-represented-at-COP26,-says)
 - [Awesome Userscripts](https://project-awesome.org/brunocvcunha/awesome-userscripts)
 - [Substantially more monarch butterflies have arrived in California to overwinter](https://www.goodnewsnetwork.org/far-more-monarch-butterflies-in-ca-this-year/)
 - [Death by Bureaucracy](https://www.wethecitizens.net/death-by-bureaucracy/)
-- [Lumina Desktop Environment](https://lumina-desktop.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
