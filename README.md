@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substantially more monarch butterflies have arrived in California to overwinter](https://www.goodnewsnetwork.org/far-more-monarch-butterflies-in-ca-this-year/)
+- [Death by Bureaucracy](https://www.wethecitizens.net/death-by-bureaucracy/)
 - [Seeding oceans with volcanic ash could be new tool to tackle climate change](https://www.chemistryworld.com/news/seeding-oceans-with-volcanic-ash-could-be-new-tool-to-tackle-climate-change/4012523.article)
 - [I Miss the Old Internet (2019)](http://misc-stuff.terraaeon.com/articles/miss-old-internet.html/)
-- [The Long, Hidden History of the Viking Obsession with Werewolves](https://www.atlasobscura.com/articles/hidden-history-viking-wolf-warrior-werewolf)
-- [Flexport Is Hiring Engineers to Help Us Uncork Global Supply Chains](https://flexport.com)
-- [Ask HN: If the Internet were redesigned today, what changes would you make?](https://news.ycombinator.com/item?id=29053266)
+- [The Viking obsession with werewolves](https://www.atlasobscura.com/articles/hidden-history-viking-wolf-warrior-werewolf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
