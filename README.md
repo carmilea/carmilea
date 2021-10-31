@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Candy Shortage Is but a Sign of Much Worse](https://brownstone.org/articles/the-candy-shortage-is-but-a-sign-of-much-worse/)
-- [Zillow has listed 93% of the hundreds of Phoenix homes it owns at a loss](https://www.businessinsider.com/zillow-offers-ibuyer-sell-phoenix-homes-at-a-loss-2021-10)
-- [Watermelons Are a Technology](https://seasonal.substack.com/p/watermelons)
-- [Show HN: Use your iPhone's camera to see any photo on your wall](https://apps.apple.com/us/app/canvify/id1591755222)
-- [How to send a real number using a single bit (and some shared randomness)](http://mybiasedcoin.blogspot.com/2021/10/how-to-send-real-number-using-single.html)
+- [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack developer](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
+- [Avoiding bot detection: How to scrape the web without getting blocked?](https://github.com/niespodd/browser-fingerprinting)
+- [Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnot](https://devlog.hexops.com/2021/perfecting-glfw-for-zig-and-finding-undefined-behavior)
+- [Overcoming Bias: ‘The Profit’ Socialism Challenge](https://www.overcomingbias.com/2021/10/the-profit-socialism-challenge.html)
+- [The Metaverse Is Bullshit](https://www.pcgamer.com/uk/the-metaverse-is-bullshit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
