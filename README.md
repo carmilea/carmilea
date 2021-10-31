@@ -54,8 +54,8 @@
 - [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack developer](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
 - [Avoiding bot detection: How to scrape the web without getting blocked?](https://github.com/niespodd/browser-fingerprinting)
 - [Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnot](https://devlog.hexops.com/2021/perfecting-glfw-for-zig-and-finding-undefined-behavior)
-- [Overcoming Bias: ‘The Profit’ Socialism Challenge](https://www.overcomingbias.com/2021/10/the-profit-socialism-challenge.html)
-- [The Metaverse Is Bullshit](https://www.pcgamer.com/uk/the-metaverse-is-bullshit/)
+- [Zillow has listed 93% of the hundreds of Phoenix homes it owns at a loss](https://www.businessinsider.com/zillow-offers-ibuyer-sell-phoenix-homes-at-a-loss-2021-10)
+- [Watermelons](https://seasonal.substack.com/p/watermelons)
 <!-- BLOG-POST-LIST:END -->
 
 ---
