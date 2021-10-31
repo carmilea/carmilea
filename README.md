@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mind Grenade (2019)](http://www.fourmilab.ch/webtools/MindGrenade/)
+- [Fastmail Seems to Be Down](https://status.fastmail.com/)
+- [Oracle's JDK 17 – Free Again for Commercial Use](https://www.infoq.com/news/2021/10/oracle-jdk-free-again/)
 - [Repeat Yourself, a Lot](https://tomtunguz.com/why-you-should-repeat-yourself/)
 - [Ask HN: Will there ever be a vendor agnostic GPU interface?](https://news.ycombinator.com/item?id=29058681)
-- [Covid-19 Mortality Risk Correlates Inversely with Vitamin D3 Status](https://pubmed.ncbi.nlm.nih.gov/34684596/)
-- [Roblox has been down for days and it’s not because of Chipotle](https://www.theverge.com/2021/10/30/22754107/roblox-down-outage-chipotle-server-issues-status)
-- [Declarative, non-intrusive, compile-time C++ reflection for audio plug-ins](https://github.com/celtera/avendish)
 <!-- BLOG-POST-LIST:END -->
 
 ---
