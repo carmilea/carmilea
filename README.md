@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese live streamer does $2bn of sales in one day](https://www.bnnbloomberg.ca/china-s-lipstick-brother-livestream-has-record-2-billion-day-1.1669469)
+- [Brain implant may lift most severe depression](https://www.bbc.com/news/health-58719089)
 - [Get Started Making Music](https://learningmusic.ableton.com/)
 - [Six Truths About Video Game Stories](https://bottomfeeder.substack.com/p/six-truths-about-video-game-stories)
 - [SigNoz (YC W21) Is Hiring Golang Engineers](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-founding-sr-backend-engineer)
-- [Awesome Userscripts](https://project-awesome.org/brunocvcunha/awesome-userscripts)
-- [Timing with curl (2010)](https://susam.in/maze/timing-with-curl.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
