@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mind Grenade (2019)](http://www.fourmilab.ch/webtools/MindGrenade/)
-- [Fastmail Seems to Be Down](https://status.fastmail.com/)
-- [Oracle's JDK 17 – Free Again for Commercial Use](https://www.infoq.com/news/2021/10/oracle-jdk-free-again/)
-- [Repeat Yourself, a Lot](https://tomtunguz.com/why-you-should-repeat-yourself/)
-- [Ask HN: Will there ever be a vendor agnostic GPU interface?](https://news.ycombinator.com/item?id=29058681)
+- [The Candy Shortage Is but a Sign of Much Worse](https://brownstone.org/articles/the-candy-shortage-is-but-a-sign-of-much-worse/)
+- [Zillow has listed 93% of the hundreds of Phoenix homes it owns at a loss](https://www.businessinsider.com/zillow-offers-ibuyer-sell-phoenix-homes-at-a-loss-2021-10)
+- [Watermelons Are a Technology](https://seasonal.substack.com/p/watermelons)
+- [Show HN: Use your iPhone's camera to see any photo on your wall](https://apps.apple.com/us/app/canvify/id1591755222)
+- [How to send a real number using a single bit (and some shared randomness)](http://mybiasedcoin.blogspot.com/2021/10/how-to-send-real-number-using-single.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
