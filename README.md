@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Miss the Old Internet](http://misc-stuff.terraaeon.com/articles/miss-old-internet.html/)
+- [Seeding oceans with volcanic ash could be new tool to tackle climate change](https://www.chemistryworld.com/news/seeding-oceans-with-volcanic-ash-could-be-new-tool-to-tackle-climate-change/4012523.article)
+- [I Miss the Old Internet (2019)](http://misc-stuff.terraaeon.com/articles/miss-old-internet.html/)
+- [The Long, Hidden History of the Viking Obsession with Werewolves](https://www.atlasobscura.com/articles/hidden-history-viking-wolf-warrior-werewolf)
 - [Flexport Is Hiring Engineers to Help Us Uncork Global Supply Chains](https://flexport.com)
 - [Ask HN: If the Internet were redesigned today, what changes would you make?](https://news.ycombinator.com/item?id=29053266)
-- [Edward Snowden on corporate media hiring surveillance state operatives and liars](https://twitter.com/Snowden/status/1454542964470996999)
-- [Fundamentals of Piano Practice](https://fundamentals-of-piano-practice.readthedocs.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
