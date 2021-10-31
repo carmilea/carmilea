@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Live Not by Lies (1974)](https://www.solzhenitsyncenter.org/live-not-by-lies)
+- [Open-source is eating the world: Ex-Firebase investor co-leads a $10m see (cont)](https://hazardlights.net/2021/10/26/our-investment-in-appwrite/)
 - [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack developer](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
 - [Avoiding bot detection: How to scrape the web without getting blocked?](https://github.com/niespodd/browser-fingerprinting)
 - [Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnot](https://devlog.hexops.com/2021/perfecting-glfw-for-zig-and-finding-undefined-behavior)
-- [Zillow has listed 93% of the hundreds of Phoenix homes it owns at a loss](https://www.businessinsider.com/zillow-offers-ibuyer-sell-phoenix-homes-at-a-loss-2021-10)
-- [Watermelons](https://seasonal.substack.com/p/watermelons)
 <!-- BLOG-POST-LIST:END -->
 
 ---
