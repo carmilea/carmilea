@@ -55,7 +55,7 @@
 - [Six Truths About Video Game Stories](https://bottomfeeder.substack.com/p/six-truths-about-video-game-stories)
 - [SigNoz (YC W21) Is Hiring Golang Engineers](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-founding-sr-backend-engineer)
 - [Awesome Userscripts](https://project-awesome.org/brunocvcunha/awesome-userscripts)
-- [Pianoplayer: Automatic fingering generator for piano scores](https://github.com/marcomusy/pianoplayer)
+- [Timing with curl (2010)](https://susam.in/maze/timing-with-curl.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
