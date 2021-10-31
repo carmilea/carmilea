@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Miss the Old Internet](http://misc-stuff.terraaeon.com/articles/miss-old-internet.html/)
 - [Flexport Is Hiring Engineers to Help Us Uncork Global Supply Chains](https://flexport.com)
+- [Ask HN: If the Internet were redesigned today, what changes would you make?](https://news.ycombinator.com/item?id=29053266)
 - [Edward Snowden on corporate media hiring surveillance state operatives and liars](https://twitter.com/Snowden/status/1454542964470996999)
 - [Fundamentals of Piano Practice](https://fundamentals-of-piano-practice.readthedocs.io/)
-- [Considerate Book Pricing](https://sive.rs/bp)
-- [macOS has become more reliable](https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
