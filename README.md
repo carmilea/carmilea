@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Six Truths About Video Game Stories](https://bottomfeeder.substack.com/p/six-truths-about-video-game-stories)
 - [SigNoz (YC W21) Is Hiring Golang Engineers](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-founding-sr-backend-engineer)
-- [All Applications for Nuclear Energy at COP26 Rejected](https://www.world-nuclear-news.org/Articles/Message-Nuclear-must-be-represented-at-COP26,-says)
 - [Awesome Userscripts](https://project-awesome.org/brunocvcunha/awesome-userscripts)
-- [Substantially more monarch butterflies have arrived in California to overwinter](https://www.goodnewsnetwork.org/far-more-monarch-butterflies-in-ca-this-year/)
-- [Death by Bureaucracy](https://www.wethecitizens.net/death-by-bureaucracy/)
+- [RFC1606 – A Historical Perspective on the Usage of IP Version 9](https://datatracker.ietf.org/doc/html/rfc1606)
+- [Pianoplayer: Automatic fingering generator for piano scores](https://github.com/marcomusy/pianoplayer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
