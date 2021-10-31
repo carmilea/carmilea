@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are We on the Verge of Chatting with Whales?](https://www.hakaimagazine.com/features/are-we-on-the-verge-of-chatting-with-whales/)
+- [A completely-from-scratch hobby operating system](https://github.com/klange/toaruos)
 - [Wacom drawing tablets track the name of every application that you open](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
-- [Diablo Immortal](https://www.tbray.org/ongoing/When/202x/2021/10/30/Diablo-Immortal)
-- [Ask HN: Been in the IT Industry for 10 Years with Nothing to Show For](https://news.ycombinator.com/item?id=29056426)
+- [Ask HN: Been in the IT industry for 10 years with nothing to show for it](https://news.ycombinator.com/item?id=29056426)
 - [The economics of pumpkin patches](https://thehustle.co/the-economics-of-pumpkin-patches/)
-- [Supabase (YC S20) Is Hiring Data Engineers](https://www.ycombinator.com/companies/supabase/jobs/CGzteOc-data-engineering-at-supabase)
 <!-- BLOG-POST-LIST:END -->
 
 ---
