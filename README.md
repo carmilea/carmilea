@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All Applications for Nuclear Energy at COP26 Rejected](https://www.world-nuclear-news.org/Articles/Message-Nuclear-must-be-represented-at-COP26,-says)
+- [Awesome Userscripts](https://project-awesome.org/brunocvcunha/awesome-userscripts)
 - [Substantially more monarch butterflies have arrived in California to overwinter](https://www.goodnewsnetwork.org/far-more-monarch-butterflies-in-ca-this-year/)
 - [Death by Bureaucracy](https://www.wethecitizens.net/death-by-bureaucracy/)
-- [Seeding oceans with volcanic ash could be new tool to tackle climate change](https://www.chemistryworld.com/news/seeding-oceans-with-volcanic-ash-could-be-new-tool-to-tackle-climate-change/4012523.article)
-- [I Miss the Old Internet (2019)](http://misc-stuff.terraaeon.com/articles/miss-old-internet.html/)
-- [The Viking obsession with werewolves](https://www.atlasobscura.com/articles/hidden-history-viking-wolf-warrior-werewolf)
+- [Lumina Desktop Environment](https://lumina-desktop.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
