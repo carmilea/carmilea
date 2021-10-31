@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Encrypting Postgres Data at Rest in Kubernetes](https://blog.crunchydata.com/blog/encrypting-postgres-data-at-rest-in-kubernetes)
+- [CT Scan of a Pumpkin](http://randomfootage.homestead.com/pumpkinctscan.html)
 - [Are We on the Verge of Chatting with Whales?](https://www.hakaimagazine.com/features/are-we-on-the-verge-of-chatting-with-whales/)
 - [A completely-from-scratch hobby operating system](https://github.com/klange/toaruos)
 - [Wacom drawing tablets track the name of every application that you open](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
-- [Ask HN: Been in the IT industry for 10 years with nothing to show for it](https://news.ycombinator.com/item?id=29056426)
-- [The economics of pumpkin patches](https://thehustle.co/the-economics-of-pumpkin-patches/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
