@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Diablo Immortal](https://www.tbray.org/ongoing/When/202x/2021/10/30/Diablo-Immortal)
+- [The Economics of Pumpkin Patches](https://thehustle.co/the-economics-of-pumpkin-patches/)
 - [Supabase (YC S20) Is Hiring Data Engineers](https://www.ycombinator.com/companies/supabase/jobs/CGzteOc-data-engineering-at-supabase)
 - [Researchers found a way to operate many qubits simultaneously on a single chip](https://news.ku.dk/all_news/2021/10/innovative-chip-built-by-ucph-physicists-resolves-quantum-headache/)
 - [Updating (and Git-Ifying) David MacKay's Sustainable Energy Without the Hot Air](https://climate.lifeitself.us/without-hot-air/)
-- [Reinkstone R1, the Ultimate True Color DES E-Paper Tablet](https://reinkstone.com/)
-- [Billionaires back new media firm to combat disinformation](https://www.axios.com/soros-hoffman-disinformation-tara-mcgowan-b1e7cb89-a4f7-4281-8e0a-3877fe8a3944.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
