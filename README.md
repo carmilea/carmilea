@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MindsDB (YC W20) Is Hiring](https://www.ycombinator.com/companies/mindsdb/jobs/9MzLACt-creative-marketing-specialist)
+- [Bash functions are better than I thought](https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/)
+- [Old towns eager for new blood sell Italy homes for $1](https://www.latimes.com/world-nation/story/2021-10-27/italy-super-cheap-homes-one-euro)
 - [Encrypting Postgres Data at Rest in Kubernetes](https://blog.crunchydata.com/blog/encrypting-postgres-data-at-rest-in-kubernetes)
 - [CT Scan of a Pumpkin](http://randomfootage.homestead.com/pumpkinctscan.html)
-- [Are We on the Verge of Chatting with Whales?](https://www.hakaimagazine.com/features/are-we-on-the-verge-of-chatting-with-whales/)
-- [A completely-from-scratch hobby operating system](https://github.com/klange/toaruos)
-- [Wacom drawing tablets track the name of every application that you open](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
