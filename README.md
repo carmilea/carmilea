@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wacom drawing tablets track the name of every application that you open](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
 - [Diablo Immortal](https://www.tbray.org/ongoing/When/202x/2021/10/30/Diablo-Immortal)
-- [The Economics of Pumpkin Patches](https://thehustle.co/the-economics-of-pumpkin-patches/)
+- [Ask HN: Been in the IT Industry for 10 Years with Nothing to Show For](https://news.ycombinator.com/item?id=29056426)
+- [The economics of pumpkin patches](https://thehustle.co/the-economics-of-pumpkin-patches/)
 - [Supabase (YC S20) Is Hiring Data Engineers](https://www.ycombinator.com/companies/supabase/jobs/CGzteOc-data-engineering-at-supabase)
-- [Researchers found a way to operate many qubits simultaneously on a single chip](https://news.ku.dk/all_news/2021/10/innovative-chip-built-by-ucph-physicists-resolves-quantum-headache/)
-- [Updating (and Git-Ifying) David MacKay's Sustainable Energy Without the Hot Air](https://climate.lifeitself.us/without-hot-air/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
