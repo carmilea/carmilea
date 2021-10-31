@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chinese live streamer does $2bn of sales in one day](https://www.bnnbloomberg.ca/china-s-lipstick-brother-livestream-has-record-2-billion-day-1.1669469)
-- [Brain implant may lift most severe depression](https://www.bbc.com/news/health-58719089)
-- [Get Started Making Music](https://learningmusic.ableton.com/)
-- [Six Truths About Video Game Stories](https://bottomfeeder.substack.com/p/six-truths-about-video-game-stories)
-- [SigNoz (YC W21) Is Hiring Golang Engineers](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-founding-sr-backend-engineer)
+- [Supabase (YC S20) Is Hiring Data Engineers](https://www.ycombinator.com/companies/supabase/jobs/CGzteOc-data-engineering-at-supabase)
+- [Researchers found a way to operate many qubits simultaneously on a single chip](https://news.ku.dk/all_news/2021/10/innovative-chip-built-by-ucph-physicists-resolves-quantum-headache/)
+- [Updating (and Git-Ifying) David MacKay's Sustainable Energy Without the Hot Air](https://climate.lifeitself.us/without-hot-air/)
+- [Reinkstone R1, the Ultimate True Color DES E-Paper Tablet](https://reinkstone.com/)
+- [Billionaires back new media firm to combat disinformation](https://www.axios.com/soros-hoffman-disinformation-tara-mcgowan-b1e7cb89-a4f7-4281-8e0a-3877fe8a3944.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
