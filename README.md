@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer's resume with fake buzzwords gets 90% replies, the actual one gets 0%](https://twitter.com/Coding_Career/status/1454293034179317764)
+- [Flexport Is Hiring Engineers to Help Us Uncork Global Supply Chains](https://flexport.com)
 - [Edward Snowden on corporate media hiring surveillance state operatives and liars](https://twitter.com/Snowden/status/1454542964470996999)
 - [Fundamentals of Piano Practice](https://fundamentals-of-piano-practice.readthedocs.io/)
-- [Path (YC S19) Is Hiring Founding Engineers](https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d)
+- [Considerate Book Pricing](https://sive.rs/bp)
 - [macOS has become more reliable](https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/)
 <!-- BLOG-POST-LIST:END -->
 
