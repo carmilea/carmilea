@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Most Covid-19 hospitalizations due to four conditions](https://www.nih.gov/news-events/nih-research-matters/most-covid-19-hospitalizations-due-four-conditions)
+- [The Patriot Act Has Threatened Freedom for 20 Years](https://www.cato.org/commentary/patriot-act-has-threatened-freedom-20-years)
+- [Skimpflation: A reason inflation is worse than the government says it is](https://www.npr.org/sections/money/2021/10/26/1048892388/meet-skimpflation-a-reason-inflation-is-worse-than-the-government-says-it-is?ft=nprml&amp;f=1048892388)
+- [An Update on Our Outage](https://blog.roblox.com/2021/10/update-recent-service-outage/)
 - [OmniDB – Open-Source Collaborative Environment for Database Management](https://omnidb.org/)
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=29062037)
-- [Trojan Source: Invisible Vulnerabilities](https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/)
-- [The most powerful MRI scanner in the world delivers its first images](https://www.cea.fr/english/Pages/News/premieres-images-irm-iseult-2021.aspx)
-- [It's hard to overstate what a scam academic and scientific publishing is](https://twitter.com/doctorow/status/1453753539726094341)
 <!-- BLOG-POST-LIST:END -->
 
 ---
