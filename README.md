@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Results from being #1 on Hacker News for 6 hours](https://codeamigo.dev/blog/results-from-hn-1)
+- [Ask HN: Has your company ever accounted for inflation?](https://news.ycombinator.com/item?id=29065832)
+- [Global Green Up Slows Warming](https://earthobservatory.nasa.gov/images/146296/global-green-up-slows-warming)
 - [Poll Everywhere (YC S08) Is Hiring a Front End Engineer](https://jobs.lever.co/polleverywhere/c2fe868d-a814-475d-bc20-b3a088f2f66c)
-- [GCC Rust Monthly Report #11 October 2021](https://thephilbert.io/2021/11/01/gcc-rust-monthly-report-11-october-2021/)
-- [Using a VPN could become a criminal offence under new CFAA interpretation](https://news.ycombinator.com/item?id=29065443)
-- [Terminal boredom, or how to go on with life when less is indeed less](https://applied-langua.ge/posts/terminal-boredom.html)
-- [They don't even know the fundamentals](https://blog.royalsloth.eu/posts/they-dont-even-know-the-fundamentals/)
+- [GCC Rust Monthly Report – October 2021](https://thephilbert.io/2021/11/01/gcc-rust-monthly-report-11-october-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
