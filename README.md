@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Terminal boredom, or how to go on with life when less is indeed less](https://applied-langua.ge/posts/terminal-boredom.html)
 - [They don't even know the fundamentals](https://blog.royalsloth.eu/posts/they-dont-even-know-the-fundamentals/)
+- [Is it unprofessional to leave a new job where everything is a mess?](https://news.ycombinator.com/item?id=29064692)
 - [Google's 'Be Evil' transformation is complete: Time for the end game](https://www.theregister.com/2021/11/01/google_opinion_column/)
 - [Current value of the top 30 YC companies is about $575B](https://twitter.com/paulg/status/1455102046902816775)
-- [Dummy Display for Apple Silicon Macs to Achieve Custom Resolutions](https://github.com/waydabber/BetterDummy)
-- [C++ Coroutines Do Not Spark Joy](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
