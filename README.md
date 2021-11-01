@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Poll Everywhere (YC S08) Is Hiring a Front End Engineer](https://jobs.lever.co/polleverywhere/c2fe868d-a814-475d-bc20-b3a088f2f66c)
+- [GCC Rust Monthly Report #11 October 2021](https://thephilbert.io/2021/11/01/gcc-rust-monthly-report-11-october-2021/)
+- [Using a VPN could become a criminal offence under new CFAA interpretation](https://news.ycombinator.com/item?id=29065443)
 - [Terminal boredom, or how to go on with life when less is indeed less](https://applied-langua.ge/posts/terminal-boredom.html)
 - [They don't even know the fundamentals](https://blog.royalsloth.eu/posts/they-dont-even-know-the-fundamentals/)
-- [Is it unprofessional to leave a new job where everything is a mess?](https://news.ycombinator.com/item?id=29064692)
-- [Google's 'Be Evil' transformation is complete: Time for the end game](https://www.theregister.com/2021/11/01/google_opinion_column/)
-- [Current value of the top 30 YC companies is about $575B](https://twitter.com/paulg/status/1455102046902816775)
 <!-- BLOG-POST-LIST:END -->
 
 ---
