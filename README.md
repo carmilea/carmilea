@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [3Blue1Brown – SoME1 (Summer of Math Expositions) Results](https://www.3blue1brown.com/blog/some1-results)
 - [Stephen Wolfram: The Personal Analytics of My Life](https://www.wired.com/2012/03/opinion-wolfram-life-analytics/)
+- [Crypto Cities](https://vitalik.ca/general/2021/10/31/cities.html)
 - [Apache Drill: the reports of my death have been greatly exaggerated](https://drill.apache.org/blog/2021/10/30/reports-of-my-death/)
 - [‘Trojan Source’ Bug Threatens the Security of All Code](https://krebsonsecurity.com/2021/11/trojan-source-bug-threatens-the-security-of-all-code/)
-- [Most Covid-19 hospitalizations due to four conditions](https://www.nih.gov/news-events/nih-research-matters/most-covid-19-hospitalizations-due-four-conditions)
-- [The Patriot Act Has Threatened Freedom for 20 Years](https://www.cato.org/commentary/patriot-act-has-threatened-freedom-20-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
