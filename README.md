@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [As teens left Facebook, company planned to lure 6-year-olds, documents show](https://arstechnica.com/tech-policy/2021/11/facebook-wanted-to-hook-6-year-olds-with-new-apps-documents-show/)
+- [Two stories about tacit knowledge](https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge)
+- [Jsquery: A PostgreSQL extension for searching nested jsonb objects and arrays](https://github.com/postgrespro/jsquery)
 - [Hyper (YC S21) is hiring a founding iOS Eng for an avatar live-streaming app](https://www.ycombinator.com/companies/hyper-2/jobs/vU0Kljl-founding-ios-engineer)
 - [Chicken Checker – See how often salmonella was found at meat processing plants](https://projects.propublica.org/chicken/)
-- [Famicom Party: Making NES Games in Assembly](https://famicom.party/book/)
-- [Daylight saving time is 'not helpful' and has 'no upsides,' experts say](https://www.usatoday.com/story/news/health/2021/11/01/fall-back-daylight-saving-time-health-experts-want-you-know/6174156001/)
-- [Show HN: When Will the New MacBook Pro Be Refurbished?](https://www.refurb.me/blog/when-will-the-new-macbook-pro-be-refurbished)
 <!-- BLOG-POST-LIST:END -->
 
 ---
