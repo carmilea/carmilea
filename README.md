@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OmniDB – Open-Source Collaborative Environment for Database Management](https://omnidb.org/)
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=29062037)
 - [Trojan Source: Invisible Vulnerabilities](https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/)
 - [The most powerful MRI scanner in the world delivers its first images](https://www.cea.fr/english/Pages/News/premieres-images-irm-iseult-2021.aspx)
-- [Xt_sslpin: TLS Cert Pinning with Netfilter](https://github.com/fredburger/xt_sslpin)
 - [It's hard to overstate what a scam academic and scientific publishing is](https://twitter.com/doctorow/status/1453753539726094341)
 <!-- BLOG-POST-LIST:END -->
 
