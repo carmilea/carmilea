@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform](https://www.paperspace.com/careers#open-positions)
+- [New Proposed E+e- Collider](https://arxiv.org/abs/2110.15800)
+- [Tesla rear ended me on autopilot, no one will investigate at all?](https://news.ycombinator.com/item?id=29072408)
+- [Improving First Impressions on Signal](https://signal.org/blog/keeping-spam-off-signal/)
 - [Report on Stablecoins [pdf]](https://home.treasury.gov/system/files/136/StableCoinReport_Nov1_508.pdf)
-- [A truly open-source MongoDB alternative](https://www.mangodb.io/)
-- [Launch HN: Promoted (YC W21) - Search and feed ranking for marketplaces](https://news.ycombinator.com/item?id=29071609)
-- [Engelbart's Violin (2012)](http://www.loper-os.org/?p=861)
-- [As teens left Facebook, it planned to target 6-year-olds, documents show](https://arstechnica.com/tech-policy/2021/11/facebook-wanted-to-hook-6-year-olds-with-new-apps-documents-show/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
