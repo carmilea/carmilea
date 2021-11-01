@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [As teens left Facebook, company planned to lure 6-year-olds, documents show](https://arstechnica.com/tech-policy/2021/11/facebook-wanted-to-hook-6-year-olds-with-new-apps-documents-show/)
+- [Engelbart's Violin (2012)](http://www.loper-os.org/?p=861)
+- [What 3°C of global warming looks like](https://www.economist.com/films/2021/10/30/this-is-what-3degc-of-global-warming-looks-like)
+- [As teens left Facebook, it planned to target 6-year-olds, documents show](https://arstechnica.com/tech-policy/2021/11/facebook-wanted-to-hook-6-year-olds-with-new-apps-documents-show/)
+- [LLDB serial port communication support](https://www.moritz.systems/blog/lldb-serial-port-communication-support/)
 - [Two stories about tacit knowledge](https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge)
-- [Jsquery: A PostgreSQL extension for searching nested jsonb objects and arrays](https://github.com/postgrespro/jsquery)
-- [Hyper (YC S21) is hiring a founding iOS Eng for an avatar live-streaming app](https://www.ycombinator.com/companies/hyper-2/jobs/vU0Kljl-founding-ios-engineer)
-- [Chicken Checker – See how often salmonella was found at meat processing plants](https://projects.propublica.org/chicken/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
