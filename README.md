@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stephen Wolfram: The Personal Analytics of My Life](https://www.wired.com/2012/03/opinion-wolfram-life-analytics/)
+- [Apache Drill: the reports of my death have been greatly exaggerated](https://drill.apache.org/blog/2021/10/30/reports-of-my-death/)
 - [‘Trojan Source’ Bug Threatens the Security of All Code](https://krebsonsecurity.com/2021/11/trojan-source-bug-threatens-the-security-of-all-code/)
 - [Most Covid-19 hospitalizations due to four conditions](https://www.nih.gov/news-events/nih-research-matters/most-covid-19-hospitalizations-due-four-conditions)
 - [The Patriot Act Has Threatened Freedom for 20 Years](https://www.cato.org/commentary/patriot-act-has-threatened-freedom-20-years)
-- [Skimpflation: A reason inflation is worse than the government says it is](https://www.npr.org/sections/money/2021/10/26/1048892388/meet-skimpflation-a-reason-inflation-is-worse-than-the-government-says-it-is?ft=nprml&amp;f=1048892388)
-- [Visual Git](https://visualgit.io/news.html#20211031)
 <!-- BLOG-POST-LIST:END -->
 
 ---
