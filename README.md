@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [They don't even know the fundamentals](https://blog.royalsloth.eu/posts/they-dont-even-know-the-fundamentals/)
+- [Google's 'Be Evil' transformation is complete: Time for the end game](https://www.theregister.com/2021/11/01/google_opinion_column/)
+- [Current value of the top 30 YC companies is about $575B](https://twitter.com/paulg/status/1455102046902816775)
 - [Dummy Display for Apple Silicon Macs to Achieve Custom Resolutions](https://github.com/waydabber/BetterDummy)
-- [Apple: Ten Years Forward](https://mondaynote.com/apple-ten-years-forward-10dfabf00706?gi=665f5d3c344f)
-- [Epigallocatechin gallate from green tea effectively blocks infection of Covid](https://cellandbioscience.biomedcentral.com/articles/10.1186/s13578-021-00680-8)
-- [Sparse vs. Dense Arrays in JavaScript](https://dmitripavlutin.com/javascript-sparse-dense-arrays/)
-- [A cross platform front-end GUI of the popular YouTube-dl written in wxPython](https://github.com/MrS0m30n3/youtube-dl-gui)
+- [C++ Coroutines Do Not Spark Joy](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
