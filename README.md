@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A cross platform front-end GUI of the popular YouTube-dl written in wxPython](https://github.com/MrS0m30n3/youtube-dl-gui)
 - [3Blue1Brown – SoME1 (Summer of Math Expositions) Results](https://www.3blue1brown.com/blog/some1-results)
-- [Stephen Wolfram: The Personal Analytics of My Life](https://www.wired.com/2012/03/opinion-wolfram-life-analytics/)
-- [Crypto Cities](https://vitalik.ca/general/2021/10/31/cities.html)
+- [Stephen Wolfram: The Personal Analytics of My Life (2012)](https://www.wired.com/2012/03/opinion-wolfram-life-analytics/)
 - [Apache Drill: the reports of my death have been greatly exaggerated](https://drill.apache.org/blog/2021/10/30/reports-of-my-death/)
 - [‘Trojan Source’ Bug Threatens the Security of All Code](https://krebsonsecurity.com/2021/11/trojan-source-bug-threatens-the-security-of-all-code/)
 <!-- BLOG-POST-LIST:END -->
