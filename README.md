@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Report on Stablecoins [pdf]](https://home.treasury.gov/system/files/136/StableCoinReport_Nov1_508.pdf)
+- [A truly open-source MongoDB alternative](https://www.mangodb.io/)
+- [Launch HN: Promoted (YC W21) - Search and feed ranking for marketplaces](https://news.ycombinator.com/item?id=29071609)
 - [Engelbart's Violin (2012)](http://www.loper-os.org/?p=861)
-- [What 3°C of global warming looks like](https://www.economist.com/films/2021/10/30/this-is-what-3degc-of-global-warming-looks-like)
 - [As teens left Facebook, it planned to target 6-year-olds, documents show](https://arstechnica.com/tech-policy/2021/11/facebook-wanted-to-hook-6-year-olds-with-new-apps-documents-show/)
-- [LLDB serial port communication support](https://www.moritz.systems/blog/lldb-serial-port-communication-support/)
-- [Two stories about tacit knowledge](https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
