@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Telecoms Are Going to Start Physically Removing Huawei Gear](https://www.bloomberg.com/news/newsletters/2021-11-01/u-s-telecoms-are-going-to-start-physically-removing-huawei-gear)
+- [FUTEX2's Sys_futex_waitv() Sent in for Linux 5.16 to Help Linux Gaming](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.16-sys_futex_waitv)
 - [Results from being #1 on Hacker News for 6 hours](https://codeamigo.dev/blog/results-from-hn-1)
-- [Ask HN: Has your company ever accounted for inflation?](https://news.ycombinator.com/item?id=29065832)
-- [Global Green Up Slows Warming](https://earthobservatory.nasa.gov/images/146296/global-green-up-slows-warming)
-- [Poll Everywhere (YC S08) Is Hiring a Front End Engineer](https://jobs.lever.co/polleverywhere/c2fe868d-a814-475d-bc20-b3a088f2f66c)
-- [GCC Rust Monthly Report – October 2021](https://thephilbert.io/2021/11/01/gcc-rust-monthly-report-11-october-2021/)
+- [Researchers are discovering surprising capabilities among a group of arachnids](https://arstechnica.com/science/2021/10/spiders-are-much-smarter-than-you-think/)
+- [Binance Halts All Crypto Withdrawals](https://cryptobriefing.com/binance-halts-crypto-withdrawals-citing-large-backlog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
