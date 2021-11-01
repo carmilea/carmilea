@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When Will the New MacBook Pro Be Refurbished?](https://www.refurb.me/blog/when-will-the-new-macbook-pro-be-refurbished)
-- [Man left shocked as his house is 'stolen'](https://www.bbc.co.uk/news/uk-england-essex-59069662)
-- [SizeBench: A new tool for analyzing Windows binary size](https://devblogs.microsoft.com/performance-diagnostics/sizebench-a-new-tool-for-analyzing-windows-binary-size/)
-- [Livermore's Centennial Light, the World's Longest Burning Light Bulb](https://www.centennialbulb.org/)
-- [Ask HN: Who is hiring? (November 2021)](https://news.ycombinator.com/item?id=29067493)
+- [Hyper (YC S21) is hiring a founding iOS Eng for an avatar live-streaming app](https://www.ycombinator.com/companies/hyper-2/jobs/vU0Kljl-founding-ios-engineer)
+- [Chicken Checker – See how often salmonella was found at meat processing plants](https://projects.propublica.org/chicken/)
+- [Famicom Party: Making NES Games in Assembly](https://famicom.party/book/)
+- [Daylight saving time is 'not helpful' and has 'no upsides,' experts say](https://www.usatoday.com/story/news/health/2021/11/01/fall-back-daylight-saving-time-health-experts-want-you-know/6174156001/)
+- [Show HN: When Will the New MacBook Pro Be Refurbished?](https://www.refurb.me/blog/when-will-the-new-macbook-pro-be-refurbished)
 <!-- BLOG-POST-LIST:END -->
 
 ---
