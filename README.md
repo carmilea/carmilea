@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Telecoms Are Going to Start Physically Removing Huawei Gear](https://www.bloomberg.com/news/newsletters/2021-11-01/u-s-telecoms-are-going-to-start-physically-removing-huawei-gear)
-- [FUTEX2's Sys_futex_waitv() Sent in for Linux 5.16 to Help Linux Gaming](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.16-sys_futex_waitv)
-- [Results from being #1 on Hacker News for 6 hours](https://codeamigo.dev/blog/results-from-hn-1)
-- [Researchers are discovering surprising capabilities among a group of arachnids](https://arstechnica.com/science/2021/10/spiders-are-much-smarter-than-you-think/)
-- [Binance Halts All Crypto Withdrawals](https://cryptobriefing.com/binance-halts-crypto-withdrawals-citing-large-backlog/)
+- [Ask HN: Who is hiring? (November 2021)](https://news.ycombinator.com/item?id=29067493)
+- [Ask HN: Freelancer? Seeking freelancer? (November 2021)](https://news.ycombinator.com/item?id=29067492)
+- [US Series I Savings Bonds Now Yielding 7.12%](https://www.treasurydirect.gov/indiv/research/indepth/ibonds/res_ibonds.htm)
+- [Trolls will be jailed for ‘psychological harm’](https://twitter.com/thetimes/status/1455120966145740802)
+- [WebKit: Introducing the layer based SVG engine](https://blogs.igalia.com/nzimmermann/posts/2021-10-29-layer-based-svg-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
