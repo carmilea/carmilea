@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Stole Our Name and Livelihood](https://meta.company/)
+- [Townscaper’s Rendering Style in WebGL](https://reindernijhoff.net/2021/11/townscapers-rendering-style-in-webgl/)
+- [Ask HN: What you up to? (Who doesn't want to be hired?)](https://news.ycombinator.com/item?id=29073996)
+- [The high cost of software in the 1980s (2019)](https://robservatory.com/the-high-cost-of-software-in-the-1980s/)
 - [Modern Treasury (YC S18) is hiring engineers to build a universal banking API](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
-- [C$^3$: A "cool" route to the Higgs boson and beyond](https://arxiv.org/abs/2110.15800)
-- [Tesla rear ended me on autopilot, no one will investigate at all?](https://news.ycombinator.com/item?id=29072408)
-- [UK Online Harms Bill criminalises posts causing “psychological harm” [pdf]](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/985033/Draft_Online_Safety_Bill_Bookmarked.pdf)
-- [Improving First Impressions on Signal](https://signal.org/blog/keeping-spam-off-signal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
