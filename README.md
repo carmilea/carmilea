@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When Will the New MacBook Pro Be Refurbished?](https://www.refurb.me/blog/when-will-the-new-macbook-pro-be-refurbished)
+- [Man left shocked as his house is 'stolen'](https://www.bbc.co.uk/news/uk-england-essex-59069662)
+- [SizeBench: A new tool for analyzing Windows binary size](https://devblogs.microsoft.com/performance-diagnostics/sizebench-a-new-tool-for-analyzing-windows-binary-size/)
+- [Livermore's Centennial Light, the World's Longest Burning Light Bulb](https://www.centennialbulb.org/)
 - [Ask HN: Who is hiring? (November 2021)](https://news.ycombinator.com/item?id=29067493)
-- [Ask HN: Freelancer? Seeking freelancer? (November 2021)](https://news.ycombinator.com/item?id=29067492)
-- [US Series I Savings Bonds Now Yielding 7.12%](https://www.treasurydirect.gov/indiv/research/indepth/ibonds/res_ibonds.htm)
-- [Trolls will be jailed for ‘psychological harm’](https://twitter.com/thetimes/status/1455120966145740802)
-- [WebKit: Introducing the layer based SVG engine](https://blogs.igalia.com/nzimmermann/posts/2021-10-29-layer-based-svg-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
