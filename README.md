@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform](https://www.paperspace.com/careers#open-positions)
-- [New Proposed E+e- Collider](https://arxiv.org/abs/2110.15800)
+- [Modern Treasury (YC S18) is hiring engineers to build a universal banking API](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
+- [C$^3$: A "cool" route to the Higgs boson and beyond](https://arxiv.org/abs/2110.15800)
 - [Tesla rear ended me on autopilot, no one will investigate at all?](https://news.ycombinator.com/item?id=29072408)
+- [UK Online Harms Bill criminalises posts causing “psychological harm” [pdf]](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/985033/Draft_Online_Safety_Bill_Bookmarked.pdf)
 - [Improving First Impressions on Signal](https://signal.org/blog/keeping-spam-off-signal/)
-- [Report on Stablecoins [pdf]](https://home.treasury.gov/system/files/136/StableCoinReport_Nov1_508.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
