@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Live Not by Lies (1974)](https://www.solzhenitsyncenter.org/live-not-by-lies)
-- [Open-source is eating the world: Ex-Firebase investor co-leads a $10m see (cont)](https://hazardlights.net/2021/10/26/our-investment-in-appwrite/)
-- [OneSignal (Messaging and Push Notification APIs) is hiring a full-stack developer](https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96)
-- [Avoiding bot detection: How to scrape the web without getting blocked?](https://github.com/niespodd/browser-fingerprinting)
-- [Perfecting GLFW for Zig, and finding lurking undefined behavior that went unnot](https://devlog.hexops.com/2021/perfecting-glfw-for-zig-and-finding-undefined-behavior)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=29062037)
+- [Trojan Source: Invisible Vulnerabilities](https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/)
+- [The most powerful MRI scanner in the world delivers its first images](https://www.cea.fr/english/Pages/News/premieres-images-irm-iseult-2021.aspx)
+- [Xt_sslpin: TLS Cert Pinning with Netfilter](https://github.com/fredburger/xt_sslpin)
+- [It's hard to overstate what a scam academic and scientific publishing is](https://twitter.com/doctorow/status/1453753539726094341)
 <!-- BLOG-POST-LIST:END -->
 
 ---
