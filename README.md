@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Service Terms 42.10](https://aws.amazon.com/service-terms/)
-- [Tesla opens charging network to other EVs for the first time](https://www.reuters.com/business/autos-transportation/tesla-opens-charging-network-other-evs-netherlands-2021-11-01/)
-- [Webiny (YC W21) Is Hiring – Technical Content Writer](https://www.ycombinator.com/companies/webiny/jobs/njOiniP-technical-content-writer)
-- [Ada implementation of an X Window System Server (1989)](https://sci-hub.se/10.1145/74261.74264)
-- [Mysorean Rockets](https://en.wikipedia.org/wiki/Mysorean_rockets)
+- [ProPhone (YC W21) Is Hiring – VP of Engineering](https://www.ycombinator.com/companies/prophone/jobs/g0jaPbJ-vp-of-engineering)
+- [Zoom Video adding advertisements to the free tier of its service](https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/)
+- [Silicon Valley wants to power the U.S. war machine](https://www.fastcompany.com/90686262/silicon-valley-wants-to-power-the-u-s-war-machine)
+- [Trump's new social media platform violates Mastodon's licence](https://blog.joinmastodon.org/2021/10/trumps-new-social-media-platform-found-using-mastodon-code/)
+- [Ask HN: Best Alternative to Homebrew in 2021?](https://news.ycombinator.com/item?id=29079096)
 <!-- BLOG-POST-LIST:END -->
 
 ---
