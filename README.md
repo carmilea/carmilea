@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Edge GA on Linux](https://blogs.windows.com/msedgedev/2021/11/02/edge-ignite-nov-2021/)
 - [Launch HN: Typedream (YC W20) – WYSIWYG website builder](https://news.ycombinator.com/item?id=29084309)
-- [An Update on Our Use of Face Recognition](https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/)
-- [Facebook Plans to Shut Down Facial Recognition System](https://www.nytimes.com/2021/11/02/technology/facebook-facial-recognition.html)
-- [Fella Health (YC W20) is hiring engineers and a head of growth to tackle obesity](https://jobs.ashbyhq.com/Fella?utm_source=B699OXKw5Q)
-- [Apple Silicon Macs can't boot from external drive if internal drive failed](https://bombich.com/blog/2021/05/19/beyond-bootable-backups-adapting-recovery-strategies-evolving-platform)
+- [Toxiproxy is a framework for simulating network conditions](https://github.com/Shopify/toxiproxy)
+- [Scientists: Don’t Feed the Doubt Machine](https://www.nature.com/articles/d41586-021-02993-7)
+- [Facebook plans to shut down facial recognition system](https://www.nytimes.com/2021/11/02/technology/facebook-facial-recognition.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
