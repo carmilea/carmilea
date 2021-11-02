@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nginx – The Architecture of Open Source Applications](https://aosabook.org/en/nginx.html)
 - [ct.css – Take a look inside your &lt;head&gt;](https://github.com/csswizardry/ct)
 - [Zillow to stop flipping homes, loses more than $550M, lays off 25% of staff](https://www.marketwatch.com/story/zillow-to-stop-flipping-homes-for-good-as-it-stands-to-lose-more-than-550-million-will-lay-off-a-quarter-of-staff-11635885027)
 - [A U.S. submarine struck an underwater mountain last month, the Navy says](https://www.npr.org/2021/11/02/1051422572/navy-submarine-nuclear-collision-south-china-sea)
 - [Backblaze IPO](https://www.sec.gov/Archives/edgar/data/0001462056/000119312521316078/d62601ds1a.htm)
-- [Multiverse is hiring a full-stack engineer to build next-gen roleplaying games](https://www.notion.so/multiversecom/Full-stack-Engineer-e13ed03023f94cb1b6761782d3981d7c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
