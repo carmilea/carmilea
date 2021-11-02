@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zepto (YC W21), a grocery delivery app in India, raises $60M](https://techcrunch.com/2021/10/31/indias-zepto-a-10-minute-grocery-delivery-app-founded-by-two-19-year-old-stanford-dropouts-raises-60-million/)
+- [Use YouTube to improve your English pronunciation](https://youglish.com/)
 - [Microsoft Edge GA on Linux](https://blogs.windows.com/msedgedev/2021/11/02/edge-ignite-nov-2021/)
 - [Launch HN: Typedream (YC W20) – WYSIWYG website builder](https://news.ycombinator.com/item?id=29084309)
 - [Toxiproxy is a framework for simulating network conditions](https://github.com/Shopify/toxiproxy)
-- [Scientists: Don’t Feed the Doubt Machine](https://www.nature.com/articles/d41586-021-02993-7)
-- [Facebook plans to shut down facial recognition system](https://www.nytimes.com/2021/11/02/technology/facebook-facial-recognition.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
