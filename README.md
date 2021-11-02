@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ammonia Sparks Unexpected Exotic Lightning on Jupiter](https://news.cornell.edu/stories/2020/08/ammonia-sparks-unexpected-exotic-lightning-jupiter)
+- [Fedora 35](https://getfedora.org/en/workstation/download/)
 - [How to Read “Gilgamesh”](https://www.newyorker.com/magazine/2019/10/14/how-to-read-gilgamesh)
 - [Meadowlark, fully-featured DAW written in Rust](https://github.com/MeadowlarkDAW/Meadowlark)
 - [People prefer friendliness, trustworthiness in teammates over skill competency](https://www.binghamton.edu/news/story/3318/research-people-prefer-friendliness-trustworthiness-in-teammates-over-skill-competency)
-- [Zillow to sell 7k homes for $2.8B after flipping flop](https://www.bloomberg.com/news/articles/2021-11-01/zillow-selling-7-000-homes-for-2-8-billion-after-flipping-halt)
-- [SPARCbook 3000ST: The coolest 90s laptop (2019)](https://jasoneckert.github.io/myblog/sparcbook3000st-the-coolest-90s-laptop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
