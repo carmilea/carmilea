@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ammonia Sparks Unexpected Exotic Lightning on Jupiter](https://news.cornell.edu/stories/2020/08/ammonia-sparks-unexpected-exotic-lightning-jupiter)
-- [Fedora 35](https://getfedora.org/en/workstation/download/)
-- [How to Read “Gilgamesh”](https://www.newyorker.com/magazine/2019/10/14/how-to-read-gilgamesh)
-- [Meadowlark, fully-featured DAW written in Rust](https://github.com/MeadowlarkDAW/Meadowlark)
-- [People prefer friendliness, trustworthiness in teammates over skill competency](https://www.binghamton.edu/news/story/3318/research-people-prefer-friendliness-trustworthiness-in-teammates-over-skill-competency)
+- [Launch HN: Typedream (YC W20) – WYSIWYG website builder](https://news.ycombinator.com/item?id=29084309)
+- [An Update on Our Use of Face Recognition](https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/)
+- [Facebook Plans to Shut Down Facial Recognition System](https://www.nytimes.com/2021/11/02/technology/facebook-facial-recognition.html)
+- [Fella Health (YC W20) is hiring engineers and a head of growth to tackle obesity](https://jobs.ashbyhq.com/Fella?utm_source=B699OXKw5Q)
+- [Apple Silicon Macs can't boot from external drive if internal drive failed](https://bombich.com/blog/2021/05/19/beyond-bootable-backups-adapting-recovery-strategies-evolving-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
