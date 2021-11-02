@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brown Physics Student Manfred Steiner Earns PhD at Age 89](https://www.brown.edu/academics/physics/news/2021/11/brown-physics-student-manfred-steiner-earns-phd-age-89)
-- [When “Foundation” Gets the Blockbuster Treatment, Asimov’s Vision Gets Lost](https://www.newyorker.com/magazine/2021/11/08/when-foundation-gets-the-blockbuster-treatment-isaac-asimovs-vision-gets-lost-sci-fi)
+- [Physics Student Earns PhD at Age 89](https://www.brown.edu/academics/physics/news/2021/11/brown-physics-student-manfred-steiner-earns-phd-age-89)
 - [Show HN: Privacy-first, minimal, fast blogging/newsletter platform](https://papyrus.so/)
+- [John Deere boosts pay, retirement benefits in new offer to striking UAW](https://www.desmoinesregister.com/story/money/business/2021/10/31/john-deere-boosts-pay-retirement-benefits-new-offer-striking-uaw-labor-union-united-auto-workers/6225314001/)
 - [Finley (YC W21) is hiring engineers to build fintech infrastructure](https://www.finleycms.com/careers/)
-- [Core scheduling lands in [Linux] 5.14](https://lwn.net/Articles/861251/)
+- [Core scheduling lands in Linux 5.14](https://lwn.net/Articles/861251/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
