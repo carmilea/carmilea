@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anatomy of a Terminal Emulator](https://www.poor.dev/terminal-anatomy/)
+- [Show HN: Localization without tears? Translate with Open-source tool Tolgee](https://tolgee.io/)
+- [The crypto loophole only Congress can close](https://www.axios.com/massive-cryptocurrency-loophole-congress-close-376ea178-d257-4909-8df9-59ff040cafe6.html)
 - [ProPhone (YC W21) Is Hiring – VP of Engineering](https://www.ycombinator.com/companies/prophone/jobs/g0jaPbJ-vp-of-engineering)
-- [Zoom Video adding advertisements to the free tier of its service](https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/)
-- [Silicon Valley wants to power the U.S. war machine](https://www.fastcompany.com/90686262/silicon-valley-wants-to-power-the-u-s-war-machine)
-- [Trump's new social media platform violates Mastodon's licence](https://blog.joinmastodon.org/2021/10/trumps-new-social-media-platform-found-using-mastodon-code/)
-- [Ask HN: Best Alternative to Homebrew in 2021?](https://news.ycombinator.com/item?id=29079096)
+- [VR-reversal – a Lua-plugin for MPV to watch 360-degree video](https://github.com/dfaker/VR-reversal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
