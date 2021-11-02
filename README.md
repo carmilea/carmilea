@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Multiverse Is Hiring a Full-Stack Engineer to build next-gen roleplaying games](https://www.notion.so/multiversecom/Full-stack-Engineer-e13ed03023f94cb1b6761782d3981d7c)
+- [Craigslist Shuts Down Personals Section After Congress Pass Bill on Trafficking (2018)](https://www.npr.org/sections/thetwo-way/2018/03/23/596460672/craigslist-shuts-down-personals-section-after-congress-passes-bill-on-traffickin)
+- [Suspected head of $21B crime syndicate may be world’s most innovative drug lord](https://torontolife.com/city/this-man-is-the-jeff-bezos-of-the-international-drug-trade/)
+- [The Pioneer PX-V7: MSX over All?](https://nicole.express/2021/palcom-ntsc-edition.html)
 - [Justice sues to block Penguin Random House’s acquisition of Simon and Schuster](https://www.justice.gov/opa/pr/justice-department-sues-block-penguin-random-house-s-acquisition-rival-publisher-simon)
-- [Zepto (YC W21), a grocery delivery app in India, raises $60M](https://techcrunch.com/2021/10/31/indias-zepto-a-10-minute-grocery-delivery-app-founded-by-two-19-year-old-stanford-dropouts-raises-60-million/)
-- [Use YouTube to improve your English pronunciation](https://youglish.com/)
-- [Launch HN: Typedream (YC W20) – WYSIWYG website builder](https://news.ycombinator.com/item?id=29084309)
-- [Toxiproxy is a framework for simulating network conditions](https://github.com/Shopify/toxiproxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
