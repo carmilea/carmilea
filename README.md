@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Finley (YC W21) is hiring engineers to build fintech infrastructure](https://www.finleycms.com/careers/)
+- [Bringing back Cartoon Modern, a rare animation artbook](https://animationobsessive.substack.com/p/our-treat-to-you)
 - [Townscaper’s Rendering Style in WebGL](https://reindernijhoff.net/2021/11/townscapers-rendering-style-in-webgl/)
 - [Ask HN: What you up to? (Who doesn't want to be hired?)](https://news.ycombinator.com/item?id=29073996)
 - [Culture shock](https://siddhesh.substack.com/p/culture-shock)
-- [The high cost of software in the 1980s (2019)](https://robservatory.com/the-high-cost-of-software-in-the-1980s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
