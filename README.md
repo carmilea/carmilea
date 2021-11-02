@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zillow to sell 7k homes, many for less than it paid, after flipping flop](https://www.ocregister.com/2021/11/01/zillow-to-sell-7000-homes-for-2-8-billion-after-flipping-flop/)
-- [SPARCbook 3000ST: The coolest 90s laptop](https://jasoneckert.github.io/myblog/sparcbook3000st-the-coolest-90s-laptop/)
-- [Leaving Debian](https://corecursive.com/leaving-debian/)
-- [SSH alternatives for mobile, low-latency or unreliable connections](https://console.dev/articles/ssh-alternatives-for-mobile-low-latency-unreliable-connections/)
-- [Firefox 94](https://www.mozilla.org/en-US/firefox/94.0/releasenotes/)
+- [How to Read “Gilgamesh”](https://www.newyorker.com/magazine/2019/10/14/how-to-read-gilgamesh)
+- [Meadowlark, fully-featured DAW written in Rust](https://github.com/MeadowlarkDAW/Meadowlark)
+- [People prefer friendliness, trustworthiness in teammates over skill competency](https://www.binghamton.edu/news/story/3318/research-people-prefer-friendliness-trustworthiness-in-teammates-over-skill-competency)
+- [Zillow to sell 7k homes for $2.8B after flipping flop](https://www.bloomberg.com/news/articles/2021-11-01/zillow-selling-7-000-homes-for-2-8-billion-after-flipping-halt)
+- [SPARCbook 3000ST: The coolest 90s laptop (2019)](https://jasoneckert.github.io/myblog/sparcbook3000st-the-coolest-90s-laptop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
