@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Multiverse Is Hiring a Full-Stack Engineer to build next-gen roleplaying games](https://www.notion.so/multiversecom/Full-stack-Engineer-e13ed03023f94cb1b6761782d3981d7c)
-- [Craigslist Shuts Down Personals Section After Congress Pass Bill on Trafficking (2018)](https://www.npr.org/sections/thetwo-way/2018/03/23/596460672/craigslist-shuts-down-personals-section-after-congress-passes-bill-on-traffickin)
-- [Suspected head of $21B crime syndicate may be world’s most innovative drug lord](https://torontolife.com/city/this-man-is-the-jeff-bezos-of-the-international-drug-trade/)
-- [The Pioneer PX-V7: MSX over All?](https://nicole.express/2021/palcom-ntsc-edition.html)
-- [Justice sues to block Penguin Random House’s acquisition of Simon and Schuster](https://www.justice.gov/opa/pr/justice-department-sues-block-penguin-random-house-s-acquisition-rival-publisher-simon)
+- [ct.css – Take a look inside your &lt;head&gt;](https://github.com/csswizardry/ct)
+- [Zillow to stop flipping homes, loses more than $550M, lays off 25% of staff](https://www.marketwatch.com/story/zillow-to-stop-flipping-homes-for-good-as-it-stands-to-lose-more-than-550-million-will-lay-off-a-quarter-of-staff-11635885027)
+- [A U.S. submarine struck an underwater mountain last month, the Navy says](https://www.npr.org/2021/11/02/1051422572/navy-submarine-nuclear-collision-south-china-sea)
+- [Backblaze IPO](https://www.sec.gov/Archives/edgar/data/0001462056/000119312521316078/d62601ds1a.htm)
+- [Multiverse is hiring a full-stack engineer to build next-gen roleplaying games](https://www.notion.so/multiversecom/Full-stack-Engineer-e13ed03023f94cb1b6761782d3981d7c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
