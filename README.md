@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anatomy of a Terminal Emulator](https://www.poor.dev/terminal-anatomy/)
-- [Show HN: Localization without tears? Translate with Open-source tool Tolgee](https://tolgee.io/)
-- [The crypto loophole only Congress can close](https://www.axios.com/massive-cryptocurrency-loophole-congress-close-376ea178-d257-4909-8df9-59ff040cafe6.html)
-- [ProPhone (YC W21) Is Hiring – VP of Engineering](https://www.ycombinator.com/companies/prophone/jobs/g0jaPbJ-vp-of-engineering)
-- [VR-reversal – a Lua-plugin for MPV to watch 360-degree video](https://github.com/dfaker/VR-reversal)
+- [Zillow to sell 7k homes, many for less than it paid, after flipping flop](https://www.ocregister.com/2021/11/01/zillow-to-sell-7000-homes-for-2-8-billion-after-flipping-flop/)
+- [SPARCbook 3000ST: The coolest 90s laptop](https://jasoneckert.github.io/myblog/sparcbook3000st-the-coolest-90s-laptop/)
+- [Leaving Debian](https://corecursive.com/leaving-debian/)
+- [SSH alternatives for mobile, low-latency or unreliable connections](https://console.dev/articles/ssh-alternatives-for-mobile-low-latency-unreliable-connections/)
+- [Firefox 94](https://www.mozilla.org/en-US/firefox/94.0/releasenotes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
