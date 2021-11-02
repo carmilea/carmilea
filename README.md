@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Privacy-first, minimal, fast blogging/newsletter platform](https://papyrus.so/)
 - [Finley (YC W21) is hiring engineers to build fintech infrastructure](https://www.finleycms.com/careers/)
+- [Core scheduling lands in [Linux] 5.14](https://lwn.net/Articles/861251/)
 - [Bringing back Cartoon Modern, a rare animation artbook](https://animationobsessive.substack.com/p/our-treat-to-you)
-- [Townscaper’s Rendering Style in WebGL](https://reindernijhoff.net/2021/11/townscapers-rendering-style-in-webgl/)
-- [Ask HN: What you up to? (Who doesn't want to be hired?)](https://news.ycombinator.com/item?id=29073996)
-- [Culture shock](https://siddhesh.substack.com/p/culture-shock)
+- [U.S. Recession Probabilities September 2021: 44%](https://fred.stlouisfed.org/series/RECPROUSM156N)
 <!-- BLOG-POST-LIST:END -->
 
 ---
