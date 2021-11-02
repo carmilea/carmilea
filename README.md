@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Webiny (YC W21) Is Hiring – Technical Content Writer](https://www.ycombinator.com/companies/webiny/jobs/njOiniP-technical-content-writer)
+- [Bitcoin Is a Ponzi Scheme](https://www.ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html)
+- [Ada implementation of an X Window System Server (1989)](https://sci-hub.se/10.1145/74261.74264)
 - [Mysorean Rockets](https://en.wikipedia.org/wiki/Mysorean_rockets)
 - [Physics Student Earns PhD at Age 89](https://www.brown.edu/academics/physics/news/2021/11/brown-physics-student-manfred-steiner-earns-phd-age-89)
-- [Show HN: Privacy-first, minimal, fast blogging/newsletter platform](https://papyrus.so/)
-- [John Deere boosts pay, retirement benefits in new offer to striking UAW](https://www.desmoinesregister.com/story/money/business/2021/10/31/john-deere-boosts-pay-retirement-benefits-new-offer-striking-uaw-labor-union-united-auto-workers/6225314001/)
-- [Finley (YC W21) is hiring engineers to build fintech infrastructure](https://www.finleycms.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
