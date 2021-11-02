@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Getting Started with SingleStore w/ Joe Karlsson](https://www.youtube.com/watch?v=YRUGd6UaYyA)
 - [Scaling Data-Intensive Applications with SingleStore and Vectorized.io](https://www.youtube.com/watch?v=EDQjy_BMSyQ)
 - [SingleStore Raises $80M in Series F Funding](https://www.youtube.com/watch?v=gCXF_2YBzcM)
 - [Getting Started with SingleStore](https://www.youtube.com/watch?v=bIFrJJkUftA)
 - [Igniting Innovation and Summer Release 2021 Highlights](https://www.youtube.com/watch?v=F2OwEKtwRPY)
-- [Igniting Innovation - Launch Event](https://www.youtube.com/watch?v=Q3ENLi7FQAc)
 <!-- YOUTUBE:END -->
 
 
