@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hetzner Cloud Goes US (Ashburn/VA)](https://twitter.com/Hetzner_Online/status/1455837994259210242)
-- [Using Zig's translate-C to understand weird C code](https://zig.news/sobeston/using-zig-and-translate-c-to-understand-weird-c-code-4f8)
-- [Ask HN: Functioning hidpi setup on Linux, how?](https://news.ycombinator.com/item?id=29092447)
-- [How Temporal Workload Shifting Can Reduce Carbon Emissions in the Cloud](https://arxiv.org/abs/2110.13234)
-- [Zig monthly, October 2021: Games, gamedev, Elixir, tools and more](https://zigmonthly.org/letters/2021/october/)
+- [Nazca – New GUI for the Web](https://github.com/Qinti/nazca)
+- [CoinTracker (YC W18) is hiring second recruiter to build a formidable team](https://jobs.ashbyhq.com/cointracker/b236a2ed-620f-4ccf-a1b6-a281da36ace0)
+- [Beyond Whiteboarding: Creating Expert System Architecture Diagrams](https://blog.ilograph.com/posts/beyond-whiteboarding-creating-expert-system-architecture-diagrams/)
+- [Ask HN: Salary discussions – numbers are before or after taxes?](https://news.ycombinator.com/item?id=29093338)
+- [Microcentury (2020)](https://susam.in/blog/microcentury.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
