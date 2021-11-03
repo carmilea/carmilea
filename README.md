@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fuzzbuzz (YC W19) Is Hiring a Full Stack Engineer and Developer Advocate](https://angel.co/company/fuzzbuzz/jobs)
+- [AWS releases their version of Google Spanner's TrueTime API](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-time-sync-service-generate-compare-timestamps/)
+- [Ask HN: Who's Not Sucky to Work For?](https://news.ycombinator.com/item?id=29099746)
+- [Truck Driver Leads NJ Senate President After Spending $153 on Campaign](https://www.nbcphiladelphia.com/news/local/truck-driver-leads-nj-senate-president-after-spending-153-on-campaign/3030225/)
 - [Fortification, Part I: The Besieger’s Playbook](https://acoup.blog/2021/10/29/collections-fortification-part-i-the-besiegers-playbook/)
-- [San Francisco's homelessness is a humanitarian crisis](https://www.sfchronicle.com/opinion/editorials/article/Editorial-San-Francisco-s-homelessness-is-a-16586799.php)
-- [TypeScript: Control flow analysis for destructured discriminated unions](https://github.com/microsoft/TypeScript/pull/46266)
-- [New Colorways for Firefox 94](https://blog.mozilla.org/en/products/firefox/introducing-new-colorways-for-firefox-94/)
-- [Reporter who told Missouri officials of website flaw did 'nothing out of line'](https://statescoop.com/missouri-parson-reporter-did-nothing-wrong/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
