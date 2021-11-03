@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox 94 inserting VPN ads into private browsing tabs](https://bugzilla.mozilla.org/show_bug.cgi?id=1739049)
-- [How X Window Managers Work, and How to Write One](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
+- [Standard (YC S17) Is Hiring SREs and MLEs, US and Europe (Remote)](https://careers.standard.ai/)
+- [How X Window Managers Work, and How to Write One (2014)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
 - [Pyheatmagic: Profile and view your Python code as a heat map](https://github.com/csurfer/pyheatmagic)
 - [Show HN: AWS credentials management CLI tool](https://github.com/iamarkadyt/aws-auth)
 - [TLSNotary – Prove you received a webpage from a server with TLS signatures](https://tlsnotary.org)
