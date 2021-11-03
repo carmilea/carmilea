@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dystopian B2B Bullshit Generator](https://phrasegenerator.com/b2b)
 - [Notice of Stolen EVGA GeForce RTX 30-Series Graphics Cards](https://forums.evga.com/Notice-of-Stolen-EVGA-GeForce-RTX-30Series-Graphics-Cards-m3490851.aspx)
 - [Minimum Viable Secure Product](https://mvsp.dev/)
 - [Fuzzbuzz (YC W19) Is Hiring a Full Stack Engineer and Developer Advocate](https://angel.co/company/fuzzbuzz/jobs)
 - [Maine voters reject Quebec hydropower transmission line](https://www.reuters.com/world/americas/maine-voters-reject-quebec-hydropower-transmission-line-2021-11-03/)
-- [AWS releases their version of Google Spanner's TrueTime API](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-time-sync-service-generate-compare-timestamps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
