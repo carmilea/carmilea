@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hetzner Cloud Goes US (Ashburn/VA)](https://twitter.com/Hetzner_Online/status/1455837994259210242)
 - [Using Zig's translate-C to understand weird C code](https://zig.news/sobeston/using-zig-and-translate-c-to-understand-weird-c-code-4f8)
 - [Ask HN: Functioning hidpi setup on Linux, how?](https://news.ycombinator.com/item?id=29092447)
 - [How Temporal Workload Shifting Can Reduce Carbon Emissions in the Cloud](https://arxiv.org/abs/2110.13234)
 - [Zig monthly, October 2021: Games, gamedev, Elixir, tools and more](https://zigmonthly.org/letters/2021/october/)
-- [Standard (YC S17) Is Hiring SREs and MLEs, US and Europe (Remote)](https://careers.standard.ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
