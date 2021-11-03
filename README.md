@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Colorways for Firefox 94](https://blog.mozilla.org/en/products/firefox/introducing-new-colorways-for-firefox-94/)
+- [Reporter who told Missouri officials of website flaw did 'nothing out of line'](https://statescoop.com/missouri-parson-reporter-did-nothing-wrong/)
 - [Debunking our narratives of the late 70s and early 80s](https://noahpinion.substack.com/p/much-of-what-youve-heard-about-carter)
 - [Luau Goes Open-Source](https://luau-lang.org/2021/11/03/luau-goes-open-source.html)
 - [Stepful (YC S21) Is Hiring](https://www.linkedin.com/posts/eserra_hiring-engineers-activity-6861688942266318849-MUIO)
-- [Show HN: I built a CNC-machine from scratch, using 40x 3D-printed parts](https://github.com/maxvfischer/DIY-CNC-machine)
-- [TimescaleDB vs ClickHouse](https://pradeepchhetri.xyz/clickhousevstimescaledb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
