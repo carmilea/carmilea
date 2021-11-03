@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fortification, Part I: The Besieger’s Playbook](https://acoup.blog/2021/10/29/collections-fortification-part-i-the-besiegers-playbook/)
+- [San Francisco's homelessness is a humanitarian crisis](https://www.sfchronicle.com/opinion/editorials/article/Editorial-San-Francisco-s-homelessness-is-a-16586799.php)
+- [TypeScript: Control flow analysis for destructured discriminated unions](https://github.com/microsoft/TypeScript/pull/46266)
 - [New Colorways for Firefox 94](https://blog.mozilla.org/en/products/firefox/introducing-new-colorways-for-firefox-94/)
 - [Reporter who told Missouri officials of website flaw did 'nothing out of line'](https://statescoop.com/missouri-parson-reporter-did-nothing-wrong/)
-- [Debunking our narratives of the late 70s and early 80s](https://noahpinion.substack.com/p/much-of-what-youve-heard-about-carter)
-- [Luau Goes Open-Source](https://luau-lang.org/2021/11/03/luau-goes-open-source.html)
-- [Stepful (YC S21) Is Hiring](https://www.linkedin.com/posts/eserra_hiring-engineers-activity-6861688942266318849-MUIO)
 <!-- BLOG-POST-LIST:END -->
 
 ---
