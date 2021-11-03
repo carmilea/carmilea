@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Notice of Stolen EVGA GeForce RTX 30-Series Graphics Cards](https://forums.evga.com/Notice-of-Stolen-EVGA-GeForce-RTX-30Series-Graphics-Cards-m3490851.aspx)
+- [Minimum Viable Secure Product](https://mvsp.dev/)
 - [Fuzzbuzz (YC W19) Is Hiring a Full Stack Engineer and Developer Advocate](https://angel.co/company/fuzzbuzz/jobs)
+- [Maine voters reject Quebec hydropower transmission line](https://www.reuters.com/world/americas/maine-voters-reject-quebec-hydropower-transmission-line-2021-11-03/)
 - [AWS releases their version of Google Spanner's TrueTime API](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-time-sync-service-generate-compare-timestamps/)
-- [Ask HN: Who's Not Sucky to Work For?](https://news.ycombinator.com/item?id=29099746)
-- [Truck Driver Leads NJ Senate President After Spending $153 on Campaign](https://www.nbcphiladelphia.com/news/local/truck-driver-leads-nj-senate-president-after-spending-153-on-campaign/3030225/)
-- [Fortification, Part I: The Besieger’s Playbook](https://acoup.blog/2021/10/29/collections-fortification-part-i-the-besiegers-playbook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
