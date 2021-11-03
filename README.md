@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Corrily (YC W21) Is Hiring – Senior Data Engineer](https://corrily.crew.work/jobs/61816dd0b896270d9e61c812)
+- [CoV–2 Spike Impairs DNA Damage Repair – Inhibits V(D)J Recombination in Vitro](https://www.mdpi.com/1999-4915/13/10/2056/htm)
+- [Corrily (YC W21) Is Hiring a Senior Data Engineer](https://corrily.crew.work/jobs/61816dd0b896270d9e61c812)
 - [Modernizing the Wolfenstein 3D Fizzlefade Algorithm (2017)](https://jacopretorius.net/2017/09/wolfeinstein-3d-fizzlefade-algorithm.html)
 - [Stop spending so much time being trolled by billionaire corps](https://lemire.me/blog/2021/11/02/stop-spending-so-much-time-being-trolled-by-billionaire-corporations/)
-- [Nginx – The Architecture of Open Source Applications](https://aosabook.org/en/nginx.html)
-- [ct.css – Take a look inside your &lt;head&gt;](https://github.com/csswizardry/ct)
+- [The Architecture of Open Source Applications: Nginx (2012)](https://aosabook.org/en/nginx.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
