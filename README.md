@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: AWS credentials management CLI tool](https://github.com/iamarkadyt/aws-auth)
 - [What I learned from a year on Substack](https://www.niemanlab.org/2021/09/what-i-learned-from-a-year-on-substack/)
 - [Elements may have been forged on Earth, as well as in space](https://physicsworld.com/a/elements-may-have-been-forged-on-earth-as-well-as-in-space/)
 - [Corrily (YC W21) Is Hiring a Senior Data Engineer](https://corrily.crew.work/jobs/61816dd0b896270d9e61c812)
-- [Show HN: The most popular newspaper in Denmark, and its insane font sizes](https://www.bt.dk/)
 - [Stop spending so much time being trolled by billionaire corps](https://lemire.me/blog/2021/11/02/stop-spending-so-much-time-being-trolled-by-billionaire-corporations/)
 <!-- BLOG-POST-LIST:END -->
 
