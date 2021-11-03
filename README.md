@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Debunking our narratives of the late 70s and early 80s](https://noahpinion.substack.com/p/much-of-what-youve-heard-about-carter)
+- [Luau Goes Open-Source](https://luau-lang.org/2021/11/03/luau-goes-open-source.html)
 - [Stepful (YC S21) Is Hiring](https://www.linkedin.com/posts/eserra_hiring-engineers-activity-6861688942266318849-MUIO)
-- [Please Shrink the Trackpad](https://mjtsai.com/blog/2021/11/02/please-shrink-the-trackpad/)
 - [Show HN: I built a CNC-machine from scratch, using 40x 3D-printed parts](https://github.com/maxvfischer/DIY-CNC-machine)
-- [Thank You, GitHub](https://github.blog/2021-11-03-thank-you-github/)
-- [Organ transplant patients (maybe) don't get dementia. Here's why](https://trevorklee.com/organ-transplant-patients-maybe-dont-get-dementia-heres-why/)
+- [TimescaleDB vs ClickHouse](https://pradeepchhetri.xyz/clickhousevstimescaledb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
