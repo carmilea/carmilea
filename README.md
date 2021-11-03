@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can helium be mixed with hydrogen to form a non-explosive mix?](http://www.madsci.org/posts/archives/2003-07/1057952816.Ph.r.html)
+- ['Useless Specks of Dust' Turn Out to Be Building Blocks of All Vertebrate Genome](https://www.sciencealert.com/useless-specks-of-dust-turn-out-to-be-ancient-building-blocks-of-all-vertebrate-genomes)
 - [Nazca – New GUI for the Web](https://github.com/Qinti/nazca)
 - [CoinTracker (YC W18) is hiring second recruiter to build a formidable team](https://jobs.ashbyhq.com/cointracker/b236a2ed-620f-4ccf-a1b6-a281da36ace0)
 - [Beyond Whiteboarding: Creating Expert System Architecture Diagrams](https://blog.ilograph.com/posts/beyond-whiteboarding-creating-expert-system-architecture-diagrams/)
-- [Ask HN: Salary discussions – numbers are before or after taxes?](https://news.ycombinator.com/item?id=29093338)
-- [Microcentury (2020)](https://susam.in/blog/microcentury.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
