@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fabrik a Visual Programming Environment](https://web.archive.org/web/20070927190552/http://users.ipa.net/~dwighth/smalltalk/Fabrik/Fabrik.html)
-- [What's New in Red Hat Enterprise Linux 9 Beta](https://www.redhat.com/en/blog/whats-new-rhel-90-beta)
-- [Python interpreter written in rust reaches 10000 commits](https://github.com/RustPython/RustPython/blob/main/README.md)
-- [Kazakhstan to restrict crypto miners amid power shortages](https://eurasianet.org/kazakhstan-to-restrict-crypto-miners-amid-power-shortages)
-- [Can helium be mixed with hydrogen to form a non-explosive mix? (2003)](http://www.madsci.org/posts/archives/2003-07/1057952816.Ph.r.html)
+- [Thank You, GitHub](https://github.blog/2021-11-03-thank-you-github/)
+- [Show HN: airovic.com ¿what are you doing this weekend?](https://www.airovic.com/)
+- [Israeli spyware company NSO Group placed on US blacklist](https://www.theguardian.com/us-news/2021/nov/03/nso-group-pegasus-spyware-us-blacklist)
+- [Organ transplant patients (maybe) don't get dementia. Here's why](https://trevorklee.com/organ-transplant-patients-maybe-dont-get-dementia-heres-why/)
+- [US puts Israeli spyware firm NSO Group on trade blacklist](https://www.ft.com/content/e381b556-c859-4a3b-8f7c-5fe80d3272d2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
