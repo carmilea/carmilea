@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Zig's translate-C to understand weird C code](https://zig.news/sobeston/using-zig-and-translate-c-to-understand-weird-c-code-4f8)
+- [Ask HN: Functioning hidpi setup on Linux, how?](https://news.ycombinator.com/item?id=29092447)
 - [How Temporal Workload Shifting Can Reduce Carbon Emissions in the Cloud](https://arxiv.org/abs/2110.13234)
 - [Zig monthly, October 2021: Games, gamedev, Elixir, tools and more](https://zigmonthly.org/letters/2021/october/)
 - [Standard (YC S17) Is Hiring SREs and MLEs, US and Europe (Remote)](https://careers.standard.ai/)
-- [How X Window Managers Work, and How to Write One (2014)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
-- [Pyheatmagic: Profile and view your Python code as a heat map](https://github.com/csurfer/pyheatmagic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
