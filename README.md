@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Corrily (YC W21) Is Hiring – Senior Data Engineer](https://corrily.crew.work/jobs/61816dd0b896270d9e61c812)
+- [Modernizing the Wolfenstein 3D Fizzlefade Algorithm (2017)](https://jacopretorius.net/2017/09/wolfeinstein-3d-fizzlefade-algorithm.html)
+- [Stop spending so much time being trolled by billionaire corps](https://lemire.me/blog/2021/11/02/stop-spending-so-much-time-being-trolled-by-billionaire-corporations/)
 - [Nginx – The Architecture of Open Source Applications](https://aosabook.org/en/nginx.html)
 - [ct.css – Take a look inside your &lt;head&gt;](https://github.com/csswizardry/ct)
-- [Zillow to stop flipping homes, loses more than $550M, lays off 25% of staff](https://www.marketwatch.com/story/zillow-to-stop-flipping-homes-for-good-as-it-stands-to-lose-more-than-550-million-will-lay-off-a-quarter-of-staff-11635885027)
-- [A U.S. submarine struck an underwater mountain last month, the Navy says](https://www.npr.org/2021/11/02/1051422572/navy-submarine-nuclear-collision-south-china-sea)
-- [Backblaze IPO](https://www.sec.gov/Archives/edgar/data/0001462056/000119312521316078/d62601ds1a.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
