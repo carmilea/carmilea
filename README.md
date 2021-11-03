@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stepful (YC S21) Is Hiring](https://www.linkedin.com/posts/eserra_hiring-engineers-activity-6861688942266318849-MUIO)
+- [Please Shrink the Trackpad](https://mjtsai.com/blog/2021/11/02/please-shrink-the-trackpad/)
+- [Show HN: I built a CNC-machine from scratch, using 40x 3D-printed parts](https://github.com/maxvfischer/DIY-CNC-machine)
 - [Thank You, GitHub](https://github.blog/2021-11-03-thank-you-github/)
-- [Israeli spyware company NSO Group placed on US blacklist](https://www.theguardian.com/us-news/2021/nov/03/nso-group-pegasus-spyware-us-blacklist)
 - [Organ transplant patients (maybe) don't get dementia. Here's why](https://trevorklee.com/organ-transplant-patients-maybe-dont-get-dementia-heres-why/)
-- [US puts Israeli spyware firm NSO Group on trade blacklist](https://www.ft.com/content/e381b556-c859-4a3b-8f7c-5fe80d3272d2)
-- [Waymo will start testing self-driving cars in New York City](https://blog.waymo.com/2021/11/introducing-waymo-driver-to-new-york.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
