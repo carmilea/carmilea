@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You shop, Maersk ships: A new challenger to Amazon emerges](https://www.cnet.com/tech/you-shop-maersk-ships-a-new-challenger-to-amazon-emerges/)
-- [Parents built their own school app, ignoring warnings that it might be illegal](https://www.wired.co.uk/article/sweden-stockholm-school-app-open-source)
-- [Can't Get You Out of My Head](https://en.wikipedia.org/wiki/Can%27t_Get_You_Out_of_My_Head_(TV_series))
-- [A Haskell memory leak in way too much detail with Cachegrind](https://www.tweag.io/blog/2021-11-04-haskell-profiling-cachegrind/)
-- [LibreWolf – A fork of Firefox, focused on privacy, security and freedom](https://librewolf-community.gitlab.io/)
+- [The Surprising Subtleties of Zeroing a Register](https://randomascii.wordpress.com/2012/12/29/the-surprising-subtleties-of-zeroing-a-register/)
+- [Ask HN: What are some technically inspiring movies, TV shows or documentaries?](https://news.ycombinator.com/item?id=29106967)
+- [How to finish your first game (or any side project) while working full-time](https://jasont.co/finishing-games/)
+- [Show HN: Initiative.sh, an in-browser command line for D&D](https://initiative.sh/)
+- [They executed people for the state of South Carolina. It nearly destroyed them](https://www.thestate.com/news/local/crime/article254201328.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
