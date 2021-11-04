@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Metabook](https://metabook.fyi/)
 - [Is Matrix less private than other E2EE messaging protocols?](https://gitlab.com/libremonde-org/papers/research/privacy-matrix.org/-/blob/master/part1/README.md)
+- [Making Emacs Popular Again (2020)](https://lwn.net/Articles/819452/)
 - [Coconut-Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)
 - [Linux x86 program start up](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
-- [Our self imposed scarcity of nice places](https://www.strongtowns.org/journal/2021/11/3/our-self-imposed-scarcity-of-nice-places)
-- [XMPP: Admin-in-the-Middle](https://infosec-handbook.eu/articles/xmpp-aitm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
