@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Would Jesus’s Resume Say? (2018)](https://randomascii.wordpress.com/2018/01/16/what-would-jesuss-resume-say/)
+- [Angular Is Rotten to the Core](http://blog.worldmaker.net/2021/06/26/angular/)
+- [GPD Pocket 3 – Handheld PC with KVM and RS-232](https://gpd.hk/gpdpocket3)
 - [An Embedded USB Device Stack in Ada](https://blog.adacore.com/an-embedded-usb-device-stack-in-ada)
-- [HashiCorp S1](https://sec.report/Document/0001193125-21-319849/)
 - [HashiCorp – S1](https://www.sec.gov/Archives/edgar/data/1720671/000119312521319849/d205906ds1.htm)
-- [Timeline of the Human Condition](https://www.southampton.ac.uk/~cpd/history.html)
-- [Cortex (YC W20) is hiring full-stack engineers to solve microservice complexity](https://jobs.ashbyhq.com/cortex/c26bd57b-97d3-41fc-accd-fbf24c4e917a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
