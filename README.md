@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ITER Organization Concedes Reactor Is Not Designed for Net Power Production](http://news.newenergytimes.net/2021/11/03/iter-organization-concedes-reactor-is-not-designed-for-net-power-production/)
+- [An oral history of Bank Python](https://calpaterson.com/bank-python.html)
+- [Technosignature recorded during observations towards Proxima Centauri](https://www.nature.com/articles/s41550-021-01479-w)
 - [I introduced my 5-year-old and 2-year-old to startx and xmonad (2012)](https://changelog.complete.org/archives/7562-i-introduced-my-5-year-old-and-2-year-old-to-startx-and-xmonad-theyre-delighted)
 - [Chinese athlete accuses former top Communist Party official of sexual assault](https://www.npr.org/sections/goatsandsoda/2021/11/03/1051873031/chinese-tennis-athlete-accuses-former-top-communist-party-official-of-sexual-ass)
 - [StudyStream (YC S21) Is Hiring a DevOps Engineer](https://www.ycombinator.com/companies/studystream/jobs/JyXg96W-community-manager)
-- [Baking bread using 4,500 year old yeast from Ancient Egyptian pottery (2019)](https://twitter.com/SeamusBlackley/status/1158264819503419392)
 <!-- BLOG-POST-LIST:END -->
 
 ---
