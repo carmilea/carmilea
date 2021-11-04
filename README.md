@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Jitsu (YC S20) – Open-Source Segment Alternative](https://news.ycombinator.com/item?id=29106082)
-- [Convictional (YC W19) is hiring engineers to build the future of B2B trade](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
-- [Billionaire defends windowless dorm rooms for California students](https://www.cbc.ca/radio/asithappens/as-it-happens-the-tuesday-edition-1.6234150/billionaire-defends-windowless-dorm-rooms-for-california-students-1.6234462)
-- [Is Matrix less private than other E2EE messaging protocols? (2019)](https://gitlab.com/libremonde-org/papers/research/privacy-matrix.org/-/blob/master/part1/README.md)
-- [Coconut-Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)
+- [You shop, Maersk ships: A new challenger to Amazon emerges](https://www.cnet.com/tech/you-shop-maersk-ships-a-new-challenger-to-amazon-emerges/)
+- [Parents built their own school app, ignoring warnings that it might be illegal](https://www.wired.co.uk/article/sweden-stockholm-school-app-open-source)
+- [Can't Get You Out of My Head](https://en.wikipedia.org/wiki/Can%27t_Get_You_Out_of_My_Head_(TV_series))
+- [A Haskell memory leak in way too much detail with Cachegrind](https://www.tweag.io/blog/2021-11-04-haskell-profiling-cachegrind/)
+- [LibreWolf – A fork of Firefox, focused on privacy, security and freedom](https://librewolf-community.gitlab.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
