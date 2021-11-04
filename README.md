@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Embedded USB Device Stack in Ada](https://blog.adacore.com/an-embedded-usb-device-stack-in-ada)
+- [HashiCorp S1](https://sec.report/Document/0001193125-21-319849/)
+- [HashiCorp – S1](https://www.sec.gov/Archives/edgar/data/1720671/000119312521319849/d205906ds1.htm)
+- [Timeline of the Human Condition](https://www.southampton.ac.uk/~cpd/history.html)
 - [Cortex (YC W20) is hiring full-stack engineers to solve microservice complexity](https://jobs.ashbyhq.com/cortex/c26bd57b-97d3-41fc-accd-fbf24c4e917a)
-- [The Pentagon’s view of climate change and the risks of state collapse](https://futureoflife.org/2021/07/30/michael-klare-on-the-pentagons-view-of-climate-change-and-the-risks-of-state-collapse/)
-- [Genshin Impact Made More Money in Its First Year Than Any Other Game](https://gamerant.com/genshin-impact-made-more-money-in-its-first-year-than-any-other-game/)
-- [Resource bundle for learning Kafka Streams](https://forum.confluent.io/t/kafka-streams-101-resources-to-get-started/3283)
-- [Fascine Mattresses: Basketry Gone Wild](https://solar.lowtechmagazine.com/2021/11/fascine-mattresses-basketry-gone-wild.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
