@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Magnavox Odyssey was the first commercial home video game console](https://voxodyssey.com/magnavox-odyssey)
+- [Ovipost (YC W18) Is Hiring a Farm Ops Manager](https://www.ycombinator.com/companies/ovipost/jobs/S3obfl8-farm-operations-manager)
+- [Why is Delta so infectious? New tool spotlights little-noticed mutation](https://www.science.org/content/article/why-delta-so-infectious-new-lab-tool-spotlights-little-noticed-mutation-speeds-viral-spread)
+- [Dimensions: Database of Dimensioned Drawings](https://www.dimensions.com/)
 - [Fuck.com (1997)](http://www.links.net/webpub/fuck.com.html)
-- [The Gunpowder Plot](https://www.historytoday.com/archive/head-head/why-has-gunpowder-plot-been-remembered-centuries)
-- [DeFi and the “digital asset” felony hidden in the infrastructure bill](https://www.decential.io/features/defi-and-the-digital-asset-felony-hidden-in-the-infrastructure-bill)
-- [Why does anyone use Angular in production?](http://blog.worldmaker.net/2021/06/26/angular/)
-- [GPD Pocket 3 – Handheld PC with KVM and RS-232](https://gpd.hk/gpdpocket3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
