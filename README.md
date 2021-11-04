@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Surprising Subtleties of Zeroing a Register](https://randomascii.wordpress.com/2012/12/29/the-surprising-subtleties-of-zeroing-a-register/)
-- [Ask HN: What are some technically inspiring movies, TV shows or documentaries?](https://news.ycombinator.com/item?id=29106967)
-- [How to finish your first game (or any side project) while working full-time](https://jasont.co/finishing-games/)
-- [Show HN: Initiative.sh, an in-browser command line for D&D](https://initiative.sh/)
-- [They executed people for the state of South Carolina. It nearly destroyed them](https://www.thestate.com/news/local/crime/article254201328.html)
+- [The nation’s last uranium mill plans to import Estonia’s radioactive waste](https://www.hcn.org/issues/53.11/indigenous-affairs-nuclear-energy-the-nations-last-uranium-mill-plans-to-import-estonias-radioactive-waste)
+- [Clerk: Local-First Notebooks for Clojure](https://github.com/nextjournal/clerk)
+- [The Surprising Subtleties of Zeroing a Register (2012)](https://randomascii.wordpress.com/2012/12/29/the-surprising-subtleties-of-zeroing-a-register/)
+- [Fasting Improves Physiological and Molecular Markers of Aging (2019)](https://www.cell.com/action/showPdf?pii=S1550-4131%2819%2930429-2)
+- [How you can finish your first game while working full-time](https://jasont.co/finishing-games/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
