@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Would Jesus’s Resume Say? (2018)](https://randomascii.wordpress.com/2018/01/16/what-would-jesuss-resume-say/)
-- [Angular Is Rotten to the Core](http://blog.worldmaker.net/2021/06/26/angular/)
+- [Fuck.com (1997)](http://www.links.net/webpub/fuck.com.html)
+- [The Gunpowder Plot](https://www.historytoday.com/archive/head-head/why-has-gunpowder-plot-been-remembered-centuries)
+- [DeFi and the “digital asset” felony hidden in the infrastructure bill](https://www.decential.io/features/defi-and-the-digital-asset-felony-hidden-in-the-infrastructure-bill)
+- [Why does anyone use Angular in production?](http://blog.worldmaker.net/2021/06/26/angular/)
 - [GPD Pocket 3 – Handheld PC with KVM and RS-232](https://gpd.hk/gpdpocket3)
-- [An Embedded USB Device Stack in Ada](https://blog.adacore.com/an-embedded-usb-device-stack-in-ada)
-- [HashiCorp – S1](https://www.sec.gov/Archives/edgar/data/1720671/000119312521319849/d205906ds1.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
