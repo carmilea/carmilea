@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Metabook](https://metabook.fyi/)
-- [Is Matrix less private than other E2EE messaging protocols?](https://gitlab.com/libremonde-org/papers/research/privacy-matrix.org/-/blob/master/part1/README.md)
-- [Making Emacs Popular Again (2020)](https://lwn.net/Articles/819452/)
+- [Launch HN: Jitsu (YC S20) – Open-Source Segment Alternative](https://news.ycombinator.com/item?id=29106082)
+- [Convictional (YC W19) is hiring engineers to build the future of B2B trade](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
+- [Billionaire defends windowless dorm rooms for California students](https://www.cbc.ca/radio/asithappens/as-it-happens-the-tuesday-edition-1.6234150/billionaire-defends-windowless-dorm-rooms-for-california-students-1.6234462)
+- [Is Matrix less private than other E2EE messaging protocols? (2019)](https://gitlab.com/libremonde-org/papers/research/privacy-matrix.org/-/blob/master/part1/README.md)
 - [Coconut-Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)
-- [Linux x86 program start up](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
