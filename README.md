@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [StudyStream (YC S21) Is Hiring a DevOps Engineer](https://www.ycombinator.com/companies/studystream/jobs/JyXg96W-community-manager)
-- [Why Podcasts Are My New Wikipedia](https://www.listennotes.com/blog/why-podcasts-are-my-new-wikipedia-the-perfect-41/)
+- [Baking bread using 4,500 year old yeast from Ancient Egyptian pottery (2019)](https://twitter.com/SeamusBlackley/status/1158264819503419392)
+- [Podcasts are my new Wikipedia](https://www.listennotes.com/blog/why-podcasts-are-my-new-wikipedia-the-perfect-41/)
 - [Some Whales Can Eat Upwards of 16 Tons of Tiny Shrimp a Day](https://www.smithsonianmag.com/science-nature/some-whales-can-eat-upwards-of-16-tons-of-tiny-shrimp-a-day-180978987/)
 - [Knapsack algorithm in PostgreSQL source code](https://github.com/postgres/postgres/blob/master/src/backend/lib/knapsack.c)
-- [NASA Shows the First 3D Imagery Captured of Jupiter's Atmosphere](https://petapixel.com/2021/11/01/nasa-shows-the-first-3d-imagery-captured-of-jupiters-atmosphere/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
