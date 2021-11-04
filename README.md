@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No, It’s Not Just You: Why time “speeds up” as we get older](https://sitn.hms.harvard.edu/flash/2019/no-not-just-time-speeds-get-older/)
-- [Don't build your castle in other people's kingdoms](https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/)
-- [Space Station 14 – Open-Source Remake of Space Station 13](https://spacestation14.io/)
-- [Astronomers want NASA to build a giant space telescope to peer at alien Earths](https://www.npr.org/2021/11/04/1052153703/astronomers-want-nasa-to-build-a-giant-space-telescope-to-peer-at-alien-earths)
-- [The nation’s last uranium mill plans to import Estonia’s radioactive waste](https://www.hcn.org/issues/53.11/indigenous-affairs-nuclear-energy-the-nations-last-uranium-mill-plans-to-import-estonias-radioactive-waste)
+- [Cortex (YC W20) is hiring full-stack engineers to solve microservice complexity](https://jobs.ashbyhq.com/cortex/c26bd57b-97d3-41fc-accd-fbf24c4e917a)
+- [The Pentagon’s view of climate change and the risks of state collapse](https://futureoflife.org/2021/07/30/michael-klare-on-the-pentagons-view-of-climate-change-and-the-risks-of-state-collapse/)
+- [Genshin Impact Made More Money in Its First Year Than Any Other Game](https://gamerant.com/genshin-impact-made-more-money-in-its-first-year-than-any-other-game/)
+- [Resource bundle for learning Kafka Streams](https://forum.confluent.io/t/kafka-streams-101-resources-to-get-started/3283)
+- [Fascine Mattresses: Basketry Gone Wild](https://solar.lowtechmagazine.com/2021/11/fascine-mattresses-basketry-gone-wild.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
