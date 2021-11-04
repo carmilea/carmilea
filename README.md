@@ -54,8 +54,8 @@
 - [Space Companies at Y Combinator](https://spacedotbiz.substack.com/p/y-combinator)
 - [Hierarchical transformers are more efficient language models](https://arxiv.org/abs/2110.13711)
 - [Closed-loop enhancement and neural decoding of cognitive control in humans](https://www.nature.com/articles/s41551-021-00804-y)
+- [Gitlab servers are being exploited in DDoS attacks](https://therecord.media/gitlab-servers-are-being-exploited-in-ddos-attacks-in-excess-of-1-tbps/)
 - [The Magnavox Odyssey was the first commercial home video game console](https://voxodyssey.com/magnavox-odyssey)
-- [Ovipost (YC W18) Is Hiring a Farm Ops Manager](https://www.ycombinator.com/companies/ovipost/jobs/S3obfl8-farm-operations-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
