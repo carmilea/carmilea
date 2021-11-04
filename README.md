@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Truth about ProtonMail](https://encryp.ch/blog/truth-about-protonmail/)
+- [I introduced my 5-year-old and 2-year-old to startx and xmonad](https://changelog.complete.org/archives/7562-i-introduced-my-5-year-old-and-2-year-old-to-startx-and-xmonad-theyre-delighted)
 - [StudyStream (YC S21) Is Hiring a DevOps Engineer](https://www.ycombinator.com/companies/studystream/jobs/JyXg96W-community-manager)
 - [Baking bread using 4,500 year old yeast from Ancient Egyptian pottery (2019)](https://twitter.com/SeamusBlackley/status/1158264819503419392)
+- [Podcasts are my new Wikipedia](https://www.listennotes.com/blog/why-podcasts-are-my-new-wikipedia-the-perfect-41/)
 - [Some Whales Can Eat Upwards of 16 Tons of Tiny Shrimp a Day](https://www.smithsonianmag.com/science-nature/some-whales-can-eat-upwards-of-16-tons-of-tiny-shrimp-a-day-180978987/)
-- [Knapsack algorithm in PostgreSQL source code](https://github.com/postgres/postgres/blob/master/src/backend/lib/knapsack.c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
