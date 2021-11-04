@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Matrix less private than other E2EE messaging protocols?](https://gitlab.com/libremonde-org/papers/research/privacy-matrix.org/-/blob/master/part1/README.md)
+- [Coconut-Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)
+- [Linux x86 program start up](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
 - [Our self imposed scarcity of nice places](https://www.strongtowns.org/journal/2021/11/3/our-self-imposed-scarcity-of-nice-places)
 - [XMPP: Admin-in-the-Middle](https://infosec-handbook.eu/articles/xmpp-aitm/)
-- [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [An oral history of Bank Python](https://calpaterson.com/bank-python.html)
-- [Angular v13 Released](https://blog.angular.io/angular-v13-is-now-available-cce66f7bc296?gi=978215207a39)
 <!-- BLOG-POST-LIST:END -->
 
 ---
