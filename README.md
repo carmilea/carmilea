@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Companies at Y Combinator](https://spacedotbiz.substack.com/p/y-combinator)
+- [Hierarchical transformers are more efficient language models](https://arxiv.org/abs/2110.13711)
+- [Closed-loop enhancement and neural decoding of cognitive control in humans](https://www.nature.com/articles/s41551-021-00804-y)
 - [The Magnavox Odyssey was the first commercial home video game console](https://voxodyssey.com/magnavox-odyssey)
 - [Ovipost (YC W18) Is Hiring a Farm Ops Manager](https://www.ycombinator.com/companies/ovipost/jobs/S3obfl8-farm-operations-manager)
-- [Why is Delta so infectious? New tool spotlights little-noticed mutation](https://www.science.org/content/article/why-delta-so-infectious-new-lab-tool-spotlights-little-noticed-mutation-speeds-viral-spread)
-- [Dimensions: Database of Dimensioned Drawings](https://www.dimensions.com/)
-- [Fuck.com (1997)](http://www.links.net/webpub/fuck.com.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
