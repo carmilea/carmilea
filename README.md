@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dystopian B2B Bullshit Generator](https://phrasegenerator.com/b2b)
-- [Notice of Stolen EVGA GeForce RTX 30-Series Graphics Cards](https://forums.evga.com/Notice-of-Stolen-EVGA-GeForce-RTX-30Series-Graphics-Cards-m3490851.aspx)
-- [Minimum Viable Secure Product](https://mvsp.dev/)
-- [Fuzzbuzz (YC W19) Is Hiring a Full Stack Engineer and Developer Advocate](https://angel.co/company/fuzzbuzz/jobs)
-- [Maine voters reject Quebec hydropower transmission line](https://www.reuters.com/world/americas/maine-voters-reject-quebec-hydropower-transmission-line-2021-11-03/)
+- [StudyStream (YC S21) Is Hiring a DevOps Engineer](https://www.ycombinator.com/companies/studystream/jobs/JyXg96W-community-manager)
+- [Why Podcasts Are My New Wikipedia](https://www.listennotes.com/blog/why-podcasts-are-my-new-wikipedia-the-perfect-41/)
+- [Some Whales Can Eat Upwards of 16 Tons of Tiny Shrimp a Day](https://www.smithsonianmag.com/science-nature/some-whales-can-eat-upwards-of-16-tons-of-tiny-shrimp-a-day-180978987/)
+- [Knapsack algorithm in PostgreSQL source code](https://github.com/postgres/postgres/blob/master/src/backend/lib/knapsack.c)
+- [NASA Shows the First 3D Imagery Captured of Jupiter's Atmosphere](https://petapixel.com/2021/11/01/nasa-shows-the-first-3d-imagery-captured-of-jupiters-atmosphere/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
