@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Our self imposed scarcity of nice places](https://www.strongtowns.org/journal/2021/11/3/our-self-imposed-scarcity-of-nice-places)
+- [XMPP: Admin-in-the-Middle](https://infosec-handbook.eu/articles/xmpp-aitm/)
 - [Jerry (YC S17) Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - [An oral history of Bank Python](https://calpaterson.com/bank-python.html)
-- [I introduced my 5-year-old and 2-year-old to startx and xmonad (2012)](https://changelog.complete.org/archives/7562-i-introduced-my-5-year-old-and-2-year-old-to-startx-and-xmonad-theyre-delighted)
-- [Chinese athlete accuses former top Communist Party official of sexual assault](https://www.npr.org/sections/goatsandsoda/2021/11/03/1051873031/chinese-tennis-athlete-accuses-former-top-communist-party-official-of-sexual-ass)
-- [Baking bread using 4,500 year old yeast from Ancient Egyptian pottery (2019)](https://twitter.com/SeamusBlackley/status/1158264819503419392)
+- [Angular v13 Released](https://blog.angular.io/angular-v13-is-now-available-cce66f7bc296?gi=978215207a39)
 <!-- BLOG-POST-LIST:END -->
 
 ---
