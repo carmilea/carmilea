@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ZeroCater (YC W11) Is Hiring Python Engineers](https://news.ycombinator.com/item?id=29124696)
 - [An Incremental Approach to Compiler Construction (2006) [pdf]](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
-- [In C, how do you know if the dynamic allocation succeeded?](https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/)
 - [University of Florida reverses course, allows professors to testify](https://www.wuft.org/news/2021/11/05/university-of-florida-reverses-course-allows-professors-to-testify-regardless-of-compensation/)
 - [RFC: Make NPM install scripts opt-in](https://github.com/npm/rfcs/pull/488)
 - [Orca – esoteric programming language, designed to create procedural sequencers](http://100r.co/site/orca.html)
