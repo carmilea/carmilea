@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the Job Search Sucks (2018)](https://blog.webb.page/2018-01-11-why-the-job-search-sucks.txt)
+- [React Aria: a headless UI component library](https://react-spectrum.adobe.com/react-aria/)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 - [Calm Technology](https://calmtech.com/)
 - [Moving Apollo Federation 2 to the Elastic License v2](https://www.apollographql.com/blog/announcement/moving-apollo-federation-2-to-the-elastic-license-v2/)
-- [DJI Mavic 3 Drone](https://www.dji.com/mavic-3)
-- [The decline of baleen whales has led to a decline of krill, researchers find](https://news.stanford.edu/press-releases/2021/11/03/researchers-findles-eat-expected/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
