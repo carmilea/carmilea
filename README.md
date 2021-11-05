@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Terra (YC W21) – API to easily connect wearables to apps](https://tryterra.co)
-- [Show HN: View the patent and innovation history of any company](https://goodip.io/iq/)
-- [From macOS to Arch Linux](https://www.juxt.pro/blog/from-mac-to-arch)
-- [China'll hold supporters of Taiwan independence criminally responsible for life](https://www.reuters.com/world/china/china-says-it-will-hold-supporters-taiwans-independence-criminally-responsible-2021-11-05/)
-- [Factored Quality (YC W20) Is Hiring a Front End Engineer (4 Years Experience)](https://news.ycombinator.com/item?id=29118003)
+- [Zillow sold back my house for $350k after bought it from me for $550k last week](https://twitter.com/BillyMcFarlend/status/1456357784828715020)
+- [Complex Chips Make Security More Difficult](https://semiengineering.com/complex-chips-make-security-more-difficult/)
+- [Intel Core i5 12600K / Core i9 12900K “Alder Lake” Linux Performance](https://www.phoronix.com/scan.php?page=article&item=intel-12600k-12900k&num=1)
+- [Show HN: My wife is pregnant; naturally I made a baby-name app to prepare](https://nomdebebe.app/)
+- [Pfizer's oral Covid-19 antiviral cuts hospitalization, death by 85%](https://www.fiercebiotech.com/biotech/pfizer-s-oral-covid-19-antiviral-cuts-hospitalization-death-by-85-sending-team-barreling-to)
 <!-- BLOG-POST-LIST:END -->
 
 ---
