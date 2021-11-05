@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LVGL – Light and Versatile Embedded Graphics Library](https://lvgl.io/)
+- [Psilocybin clinical trial to treat anxiety disorder receives approval](https://www.monash.edu/research/research-news/world-first-psilocybin-clinical-trial-in-the-treatment-of-generalised-anxiety-disorder-receives-ethics-approval)
+- [The Biodegradable Battery](https://www.empa.ch/web/s604/papierbatterie)
 - [ZeroCater (YC W11) Is Hiring Python Engineers](https://news.ycombinator.com/item?id=29124696)
-- [An Incremental Approach to Compiler Construction (2006) [pdf]](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
-- [University of Florida reverses course, allows professors to testify](https://www.wuft.org/news/2021/11/05/university-of-florida-reverses-course-allows-professors-to-testify-regardless-of-compensation/)
-- [RFC: Make NPM install scripts opt-in](https://github.com/npm/rfcs/pull/488)
-- [Orca – esoteric programming language, designed to create procedural sequencers](http://100r.co/site/orca.html)
+- [Contract for Sale of Soul](https://liminalwarmth.com/contract-for-sale-of-soul/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
