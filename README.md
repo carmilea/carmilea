@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Top officers of a Navy nuclear sub have lost their jobs over undersea collision](https://www.npr.org/2021/11/04/1052513150/nuclear-sub-uss-connecticut-officers-undersea-collision)
-- [Embedded Malware in Coa](https://github.com/advisories/GHSA-73qr-pfmq-6rp8)
-- [How to learn compilers: LLVM Edition](https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/)
-- [React Aria: a headless UI component library](https://react-spectrum.adobe.com/react-aria/)
-- [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
+- [Factored Quality (YC W20) Is Hiring a Front End Engineer (4 Years Experience)](https://news.ycombinator.com/item?id=29118003)
+- [Japanese death row inmates sue over same-day executions](https://www.bbc.com/news/world-asia-59173259)
+- [Smart sunglasses with lenses displaying real-time data for cyclers](https://road.cc/content/tech-news/engo-eyewears-new-smart-sunnies-real-time-data-lenses-287531)
+- [WhatsApp: My Security code changed for all contacts (No login or logout)](https://old.reddit.com/r/whatsapp/comments/qmwtyn/my_security_code_changed_no_login_or_logout/)
+- [Peeking Through Logs](https://asylum.madhouse-project.org/blog/2021/10/23/peeking-through-logs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
