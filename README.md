@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Space Companies at Y Combinator](https://spacedotbiz.substack.com/p/y-combinator)
-- [Hierarchical transformers are more efficient language models](https://arxiv.org/abs/2110.13711)
-- [Closed-loop enhancement and neural decoding of cognitive control in humans](https://www.nature.com/articles/s41551-021-00804-y)
-- [Gitlab servers are being exploited in DDoS attacks](https://therecord.media/gitlab-servers-are-being-exploited-in-ddos-attacks-in-excess-of-1-tbps/)
-- [The Magnavox Odyssey was the first commercial home video game console](https://voxodyssey.com/magnavox-odyssey)
+- [QuestDB (YC S20) Is Hiring C++ Core Database Engineers](https://questdb.io/careers/backend-software-engineer/)
+- [The Soviet 1801VM2 LSI-11 Processor](https://www.cpushack.com/2021/11/04/the-soviet-1801vm2-lsi-11-processor/)
+- [Web fonts, boy, I don't know (2016)](https://meowni.ca/posts/web-fonts/)
+- [M1 Pro First Impressions: Core Management and CPU Performance](https://eclecticlight.co/2021/11/04/m1-pro-first-impressions-2-core-management-and-cpu-performance/)
+- [World food prices reach new peak since July 2011](https://www.fao.org/worldfoodsituation/foodpricesindex/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
