@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is German Internet So Bad](https://russianvagabond.com/why-is-german-internet-so-bad-true-answer/)
-- [Red Hat to hire less experienced engineers](https://lunduke.substack.com/p/red-hat-to-hire-less-experienced)
-- [Orca – esoteric programming language, designed to create procedural sequencers](http://100r.co/site/orca.html)
-- [Embedded malware in RC (NPM package)](https://github.com/advisories/GHSA-g2q5-5433-rhrf)
-- [Rinse (YC S21) Is Hiring](https://www.ycombinator.com/companies/rinse/jobs/QZYk7L2-founding-engineer-cto)
+- [Microsoft open-sourcing VS Code Server and Gitpod won't send them a cake](https://www.gitpod.io/blog/vscode-server)
+- [Guido van Rossum](https://gvanrossum.github.io/)
+- [Algorithm accurately predicts when teens have suicidal thoughts, behavior](https://news.byu.edu/intellect/byu-algorithm-accurately-predicts-when-teens-likely-to-have-suicidal-thoughts-behavior)
+- [University of Florida reverses course, allows professors to testify](https://www.wuft.org/news/2021/11/05/university-of-florida-reverses-course-allows-professors-to-testify-regardless-of-compensation/)
+- [Greater cognitive ability is generally advantageous](https://journals.sagepub.com/eprint/BXVIYIMMDVDABBVGRTZD/full#.YYF4iQoENWs.twitter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
