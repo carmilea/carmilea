@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook is backing away from facial recognition. Meta isn’t](https://www.vox.com/recode/22761598/facebook-facial-recognition-meta)
+- [Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html)
+- [Selective Unit Testing – Costs and Benefits (2009)](https://blog.stevensanderson.com/2009/11/04/selective-unit-testing-costs-and-benefits/)
+- [Ask HN: Coping with cancer in the family](https://news.ycombinator.com/item?id=29120388)
 - [An inside look into the illicit ad industry](https://ariadne.space/2021/11/04/an-inside-look-into-the-illicit-ad-industry/)
-- [Ask HN: Does your company measure the long term benefit of interview code tests?](https://news.ycombinator.com/item?id=29120330)
-- [Async Python is not faster (2020)](https://calpaterson.com/async-python-is-not-faster.html)
-- [Why Co–Star Uses Haskell](https://www.costarastrology.com/why-haskell)
-- [Sam Altman is investing in Helion for Fusion power](https://blog.samaltman.com/helion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
