@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft open-sourcing VS Code Server and Gitpod won't send them a cake](https://www.gitpod.io/blog/vscode-server)
-- [Guido van Rossum](https://gvanrossum.github.io/)
-- [Algorithm accurately predicts when teens have suicidal thoughts, behavior](https://news.byu.edu/intellect/byu-algorithm-accurately-predicts-when-teens-likely-to-have-suicidal-thoughts-behavior)
+- [An Incremental Approach to Compiler Construction (2006) [pdf]](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
+- [In C, how do you know if the dynamic allocation succeeded?](https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/)
 - [University of Florida reverses course, allows professors to testify](https://www.wuft.org/news/2021/11/05/university-of-florida-reverses-course-allows-professors-to-testify-regardless-of-compensation/)
-- [Greater cognitive ability is generally advantageous](https://journals.sagepub.com/eprint/BXVIYIMMDVDABBVGRTZD/full#.YYF4iQoENWs.twitter)
+- [RFC: Make NPM install scripts opt-in](https://github.com/npm/rfcs/pull/488)
+- [Orca – esoteric programming language, designed to create procedural sequencers](http://100r.co/site/orca.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
