@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DJI Mavic 3 Drone](https://www.dji.com/mavic-3)
 - [Health-care cyberattack is worst in Canadian history, says expert](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-cyber-attack-worst-canada-1.6236210)
-- [Whales are more important ecosystems engineers than previously thought](https://news.stanford.edu/press-releases/2021/11/03/researchers-findles-eat-expected/)
+- [The decline of baleen whales has led to a decline of krill, researchers find](https://news.stanford.edu/press-releases/2021/11/03/researchers-findles-eat-expected/)
 - [Widespread security risk identified in phones and Bluetooth devices](https://spectrum.ieee.org/bluetooth-security)
 - [QuestDB (YC S20) Is Hiring C++ Core Database Engineers](https://questdb.io/careers/backend-software-engineer/)
-- [Amazon.com BBB Business Profile](https://www.bbb.org/us/wa/seattle/profile/ecommerce/amazoncom-1296-7039385)
 <!-- BLOG-POST-LIST:END -->
 
 ---
