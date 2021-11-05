@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Top officers of a Navy nuclear sub have lost their jobs over undersea collision](https://www.npr.org/2021/11/04/1052513150/nuclear-sub-uss-connecticut-officers-undersea-collision)
 - [Embedded Malware in Coa](https://github.com/advisories/GHSA-73qr-pfmq-6rp8)
-- [California Tries to Close the Gap in Math, but Sets Off a Backlash](https://www.nytimes.com/2021/11/04/us/california-math-curriculum-guidelines.html)
-- [Why the Job Search Sucks (2018)](https://blog.webb.page/2018-01-11-why-the-job-search-sucks.txt)
+- [How to learn compilers: LLVM Edition](https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/)
 - [React Aria: a headless UI component library](https://react-spectrum.adobe.com/react-aria/)
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
 <!-- BLOG-POST-LIST:END -->
