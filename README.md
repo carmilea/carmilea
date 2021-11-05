@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Is German Internet So Bad](https://russianvagabond.com/why-is-german-internet-so-bad-true-answer/)
+- [Red Hat to hire less experienced engineers](https://lunduke.substack.com/p/red-hat-to-hire-less-experienced)
+- [Orca – esoteric programming language, designed to create procedural sequencers](http://100r.co/site/orca.html)
+- [Embedded malware in RC (NPM package)](https://github.com/advisories/GHSA-g2q5-5433-rhrf)
 - [Rinse (YC S21) Is Hiring](https://www.ycombinator.com/companies/rinse/jobs/QZYk7L2-founding-engineer-cto)
-- [IAB Europe consent pop-ups used by Google et al. are unlawful and infringe GDPR](https://www.iccl.ie/news/online-consent-pop-ups-used-by-google-and-other-tech-firms-declared-illegal/)
-- [High Fructose Corn Syrup-Moderate Fat Diet Potentiates Anxio-Depressive Behavior](https://pubmed.ncbi.nlm.nih.gov/34121997/)
-- [Show HN: F# web server in 3-4 lines of code](https://github.com/RussBaz/WebFrame)
-- [We bootstrapped our open source Google Analytics alternative to $500k ARR](https://plausible.io/blog/bootstrapping-saas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
