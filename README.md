@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [End Software Patents](https://endsoftwarepatents.org/)
 - [Moving Apollo Federation 2 to the Elastic License v2](https://www.apollographql.com/blog/announcement/moving-apollo-federation-2-to-the-elastic-license-v2/)
+- [Crypto cash markets are “beyond our expertise”, says CFTC Commissioner Stump](https://financefeeds.com/crypto-cash-markets-beyond-expertise-says-cftc-commissioner-stump/)
 - [DJI Mavic 3 Drone](https://www.dji.com/mavic-3)
 - [Health-care cyberattack is worst in Canadian history, says expert](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-cyber-attack-worst-canada-1.6236210)
 - [The decline of baleen whales has led to a decline of krill, researchers find](https://news.stanford.edu/press-releases/2021/11/03/researchers-findles-eat-expected/)
