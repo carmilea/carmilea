@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/jobs)
-- [Show HN: DNS-based alternative to Semantic Web – 23M data points now in DNS](https://news.ycombinator.com/item?id=29115950)
 - [Calm Technology](https://calmtech.com/)
 - [Moving Apollo Federation 2 to the Elastic License v2](https://www.apollographql.com/blog/announcement/moving-apollo-federation-2-to-the-elastic-license-v2/)
-- [Crypto cash markets are “beyond our expertise”, says CFTC Commissioner Stump](https://financefeeds.com/crypto-cash-markets-beyond-expertise-says-cftc-commissioner-stump/)
+- [DJI Mavic 3 Drone](https://www.dji.com/mavic-3)
+- [The decline of baleen whales has led to a decline of krill, researchers find](https://news.stanford.edu/press-releases/2021/11/03/researchers-findles-eat-expected/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
