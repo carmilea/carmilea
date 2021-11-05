@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LVGL – Light and Versatile Embedded Graphics Library](https://lvgl.io/)
-- [Psilocybin clinical trial to treat anxiety disorder receives approval](https://www.monash.edu/research/research-news/world-first-psilocybin-clinical-trial-in-the-treatment-of-generalised-anxiety-disorder-receives-ethics-approval)
+- [Pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
 - [The Biodegradable Battery](https://www.empa.ch/web/s604/papierbatterie)
 - [ZeroCater (YC W11) Is Hiring Python Engineers](https://news.ycombinator.com/item?id=29124696)
 - [Contract for Sale of Soul](https://liminalwarmth.com/contract-for-sale-of-soul/)
+- [The secret lives of cells – as never seen before](https://www.nature.com/articles/d41586-021-02904-w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
