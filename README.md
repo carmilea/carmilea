@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Terra (YC W21) – API to easily connect wearables to apps](https://tryterra.co)
+- [Show HN: View the patent and innovation history of any company](https://goodip.io/iq/)
+- [From macOS to Arch Linux](https://www.juxt.pro/blog/from-mac-to-arch)
+- [China'll hold supporters of Taiwan independence criminally responsible for life](https://www.reuters.com/world/china/china-says-it-will-hold-supporters-taiwans-independence-criminally-responsible-2021-11-05/)
 - [Factored Quality (YC W20) Is Hiring a Front End Engineer (4 Years Experience)](https://news.ycombinator.com/item?id=29118003)
-- [Japanese death row inmates sue over same-day executions](https://www.bbc.com/news/world-asia-59173259)
-- [Smart sunglasses with lenses displaying real-time data for cyclers](https://road.cc/content/tech-news/engo-eyewears-new-smart-sunnies-real-time-data-lenses-287531)
-- [WhatsApp: My Security code changed for all contacts (No login or logout)](https://old.reddit.com/r/whatsapp/comments/qmwtyn/my_security_code_changed_no_login_or_logout/)
-- [Peeking Through Logs](https://asylum.madhouse-project.org/blog/2021/10/23/peeking-through-logs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
