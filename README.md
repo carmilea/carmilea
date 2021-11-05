@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Health-care cyberattack is worst in Canadian history, says expert](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-cyber-attack-worst-canada-1.6236210)
+- [Whales are more important ecosystems engineers than previously thought](https://news.stanford.edu/press-releases/2021/11/03/researchers-findles-eat-expected/)
+- [Widespread security risk identified in phones and Bluetooth devices](https://spectrum.ieee.org/bluetooth-security)
 - [QuestDB (YC S20) Is Hiring C++ Core Database Engineers](https://questdb.io/careers/backend-software-engineer/)
-- [The Soviet 1801VM2 LSI-11 Processor](https://www.cpushack.com/2021/11/04/the-soviet-1801vm2-lsi-11-processor/)
-- [Web fonts, boy, I don't know (2016)](https://meowni.ca/posts/web-fonts/)
-- [M1 Pro First Impressions: Core Management and CPU Performance](https://eclecticlight.co/2021/11/04/m1-pro-first-impressions-2-core-management-and-cpu-performance/)
-- [World food prices reach new peak since July 2011](https://www.fao.org/worldfoodsituation/foodpricesindex/en/)
+- [Amazon.com BBB Business Profile](https://www.bbb.org/us/wa/seattle/profile/ecommerce/amazoncom-1296-7039385)
 <!-- BLOG-POST-LIST:END -->
 
 ---
