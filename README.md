@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zillow sold back my house for $350k after bought it from me for $550k last week](https://twitter.com/BillyMcFarlend/status/1456357784828715020)
-- [Complex Chips Make Security More Difficult](https://semiengineering.com/complex-chips-make-security-more-difficult/)
-- [Intel Core i5 12600K / Core i9 12900K “Alder Lake” Linux Performance](https://www.phoronix.com/scan.php?page=article&item=intel-12600k-12900k&num=1)
-- [Show HN: My wife is pregnant; naturally I made a baby-name app to prepare](https://nomdebebe.app/)
-- [Pfizer's oral Covid-19 antiviral cuts hospitalization, death by 85%](https://www.fiercebiotech.com/biotech/pfizer-s-oral-covid-19-antiviral-cuts-hospitalization-death-by-85-sending-team-barreling-to)
+- [An inside look into the illicit ad industry](https://ariadne.space/2021/11/04/an-inside-look-into-the-illicit-ad-industry/)
+- [Ask HN: Does your company measure the long term benefit of interview code tests?](https://news.ycombinator.com/item?id=29120330)
+- [Async Python is not faster (2020)](https://calpaterson.com/async-python-is-not-faster.html)
+- [Why Co–Star Uses Haskell](https://www.costarastrology.com/why-haskell)
+- [Sam Altman is investing in Helion for Fusion power](https://blog.samaltman.com/helion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
