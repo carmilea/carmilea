@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverie Labs (YC W18) Is Hiring Software Engineers in Boston](https://www.reverielabs.com/careers)
-- [It's Time to Get Hyped About Const Generics in Rust](https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/)
-- [Pop _OS to use it own desktop environment, written in Rust](https://old.reddit.com/r/pop_os/comments/qnvrou/will_pop_os_ever_do_an_officially_kde_flavor_or/)
-- [The tomato was feared in Europe for more than 200 years (2013)](https://www.smithsonianmag.com/arts-culture/why-the-tomato-was-feared-in-europe-for-more-than-200-years-863735/)
-- [What Collective Narcissism Does to Society](https://www.theatlantic.com/family/archive/2021/11/group-narcissism/620632/)
+- [Big Tech Coding Interview Framework – Pt 1. Inspect](https://fangprep.substack.com/p/the-coding-interview-pt-1-inspect)
+- [Keyoxide: A privacy-friendly platform to establish your decentralized identity](https://codeberg.org/keyoxide/keyoxide-web/src/branch/main/content/about.md)
+- [An Epic future for SPJ](https://discourse.haskell.org/t/an-epic-future-for-spj/3573)
+- [Parents built a school app. Then the city called the cops](https://www.wired.com/story/sweden-stockholm-school-app-open-source/)
+- [Whatever Happened to Wolfram Alpha?](https://news.ycombinator.com/item?id=29131931)
 <!-- BLOG-POST-LIST:END -->
 
 ---
