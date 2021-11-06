@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Walmart Spent 7 Years Fighting the $7k Fine for a Worker's Crowd Death (2015)](https://www.huffpost.com/entry/walmart-black-friday-death_n_6904604)
+- [Racket v8.3](https://blog.racket-lang.org/2021/11/racket-v8-3.html)
+- [Why Tokyo Works](https://metropolisjapan.com/why-tokyo-works/)
 - [Replit (YC W18) Is Hiring IDE Hackers and Designers](https://replit.com/careers)
-- [DirectX 12 Applications No Longer Working on 4th Gen Intel Processor Graphics](https://www.intel.com/content/www/us/en/support/articles/000057520/graphics/graphics-for-4th-generation-intel-processors.html)
+- [DirectX 12 applications no longer working on 4th gen Intel processor graphics](https://www.intel.com/content/www/us/en/support/articles/000057520/graphics/graphics-for-4th-generation-intel-processors.html)
 - [A Close Look at a Spinlock](https://blog.regehr.org/archives/2173)
-- [ASCII Paint](http://ascii.alienmelon.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
