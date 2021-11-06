@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Some new BMWs won't have touchscreens thanks to chip shortage](https://www.theverge.com/2021/11/5/22765709/bmw-chip-shortage-touchscreen-car-suv-manufacturing)
+- [“Thread: How NFTs will change hiring forever”](https://twitter.com/gregisenberg/status/1456588823287275528)
+- [A photo on Wikipedia can ruin your life](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2021-10-31/Opinion)
+- [Show HN: How does Jax allocate memory on a TPU? An interactive C++ walkthrough](https://gist.github.com/shawwn/0e524d4a7a5d8fb152a86616559cc02a)
 - [Against Discord Channels](https://becca.ooo/discord)
-- [Reflecting on the Shake Build System](http://neilmitchell.blogspot.com/2021/09/reflecting-on-shake-build-system.html)
-- [Hundreds of ancient Maya sites hidden under Mexico reveal a mysterious blueprint](https://www.sciencealert.com/hundreds-of-ancient-maya-sites-hidden-under-mexico-reveal-a-mysterious-blueprint)
-- [PhotoRoom (YC S20) Is Hiring a Head of Computer Vision (Paris, Remote ± 1h)](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
-- [Why Nuclear Fusion Yields More Energy Than Fission](https://www.physlink.com/education/askexperts/ae534.cfm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
