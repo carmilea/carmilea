@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ASCII Paint](http://ascii.alienmelon.com/)
+- [Cellular Automata in F#](https://isthisit.nz/posts/2020/cellular-automata-in-fsharp/)
+- [Setting Up Gmail in Doom Emacs using mbsync and mu4e](https://www.erichgrunewald.com/posts/setting-up-gmail-in-doom-emacs-using-mbsync-and-mu4e/)
 - [How profitable was/is tobacco?](https://genehoots.substack.com/p/how-profitable-wasis-tobacco)
 - [Spending $5k to learn how database indexes work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
-- [Apple’s New Screen Repair Trap Could Change the Repair Industry Forever](https://www.ifixit.com/News/54829/apples-new-screen-repair-trap-could-change-the-repair-industry-forever)
-- [Big Tech Coding Interview Framework – Pt 1. Inspect](https://fangprep.substack.com/p/the-coding-interview-pt-1-inspect)
-- [Keyoxide: A privacy-friendly platform to establish your decentralized identity](https://codeberg.org/keyoxide/keyoxide-web/src/branch/main/content/about.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
