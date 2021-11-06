@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microcontroller VGA Interface Projects](http://tinyvga.com/)
+- [Enabling scroll lock at boot fixes crashes caused by DRM on Intel 12th gen CPUs](https://www.intel.com/content/www/us/en/support/articles/000088259/processors/intel-core-processors.html)
+- [AMP Has Irreparably Damaged Publishers’ Trust in Google-Led Initiatives](https://wptavern.com/amp-has-irreparably-damaged-publishers-trust-in-google-led-initiatives)
 - [Ask HN: How were video games from the 90s so efficient?](https://news.ycombinator.com/item?id=29127098)
 - [Sirum (YC W15) is hiring a Chief of Staff to help make medicine affordable](https://boards.greenhouse.io/sirum?iframe=true&nonce=2021-11-01T17:50:53.991Z)
-- [Barbados’s long-drawn-out promise of a republic](https://constitutionnet.org/news/barbadoss-long-drawn-out-promise-republic)
-- [Why SQLite does not use Git (2018)](https://sqlite.org/whynotgit.html)
-- [Nuclear power is the best climate-change solution](https://www.wsj.com/articles/nuclear-power-best-climate-change-solution-by-far-global-warming-emissions-cop26-11636056581)
 <!-- BLOG-POST-LIST:END -->
 
 ---
