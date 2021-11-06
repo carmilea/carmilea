@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Against Discord Channels](https://becca.ooo/discord)
 - [Reflecting on the Shake Build System](http://neilmitchell.blogspot.com/2021/09/reflecting-on-shake-build-system.html)
 - [Hundreds of ancient Maya sites hidden under Mexico reveal a mysterious blueprint](https://www.sciencealert.com/hundreds-of-ancient-maya-sites-hidden-under-mexico-reveal-a-mysterious-blueprint)
-- [Swedish government agencies say energy-intensive crypto mining should be banned](https://www.fi.se/en/published/presentations/2021/crypto-assets-are-a-threat-to-the-climate-transition--energy-intensive-mining-should-be-banned/)
 - [PhotoRoom (YC S20) Is Hiring a Head of Computer Vision (Paris, Remote ± 1h)](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
-- [Microcontroller VGA Interface Projects](http://tinyvga.com/)
+- [Why Nuclear Fusion Yields More Energy Than Fission](https://www.physlink.com/education/askexperts/ae534.cfm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
