@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverie Labs (YC W18) Is Hiring Software Engineers in Boston](https://www.reverielabs.com/careers)
+- [It's Time to Get Hyped About Const Generics in Rust](https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/)
+- [Pop _OS to use it own desktop environment, written in Rust](https://old.reddit.com/r/pop_os/comments/qnvrou/will_pop_os_ever_do_an_officially_kde_flavor_or/)
+- [The tomato was feared in Europe for more than 200 years (2013)](https://www.smithsonianmag.com/arts-culture/why-the-tomato-was-feared-in-europe-for-more-than-200-years-863735/)
 - [What Collective Narcissism Does to Society](https://www.theatlantic.com/family/archive/2021/11/group-narcissism/620632/)
-- [American trains need more than railfan nostalgia](https://www.slowboring.com/p/amtrak-review)
-- [Guide of CPython’s Parser](https://devguide.python.org/parser/)
-- [The Dangerous Power of Crowds](https://www.newyorker.com/magazine/2011/02/07/crush-point)
-- [The fastest object diff library in JavaScript](https://github.com/AsyncBanana/microdiff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
