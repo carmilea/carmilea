@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don’t Be Spooky](https://therealadam.com/2021/11/01/dont-be-spooky/)
+- [Raspberry Pi Colocation: Decentralized. Exclusive. Green](https://pi-colocation.com)
+- [Exclusive Interview with Billionaire Charlie Munger on Controversial UCSB Dorm](https://www.architecturalrecord.com/articles/15378-exclusive-interview-with-billionaire-charlie-munger-on-controversial-ucsb-dorm)
+- [It‘s been 9 years since Valve rolled out the Steam Linux beta](https://www.phoronix.com/scan.php?page=news_item&px=Steam-Linux-9-Years-Since-Beta)
 - [An intact slave's room found in Pompeii's ruins](http://pompeiisites.org/en/comunicati/the-room-of-the-slaves-the-latest-discovery-at-civita-giuliana/)
-- [OKRs vs. KPIs: understanding measurements for your SaaS business](https://userpilot.com/blog/okrs-vs-kpis/)
-- [The Fertilizer Shortage](https://www.reuters.com/business/energy/nitrogen-fertilizer-shortage-threatens-cut-global-crop-yields-cf-industries-2021-11-04/)
-- [Ruth Health (YC S21) Is Hiring](https://news.ycombinator.com/item?id=29129477)
-- [Some new BMWs won't have touchscreens thanks to chip shortage](https://www.theverge.com/2021/11/5/22765709/bmw-chip-shortage-touchscreen-car-suv-manufacturing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
