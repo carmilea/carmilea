@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Person Furious That Someone Right Click Saved Their Precious NFT](https://futurism.com/person-furious-right-click-saved-precious-nft)
 - [After months of delay, the House passes infrastructure bill](https://www.npr.org/2021/11/05/1050012853/the-house-has-passed-the-1-trillion-infrastructure-plan-sending-it-to-bidens-des)
 - [Ruth Health (YC S21) Is Hiring](https://news.ycombinator.com/item?id=29129477)
 - [Some new BMWs won't have touchscreens thanks to chip shortage](https://www.theverge.com/2021/11/5/22765709/bmw-chip-shortage-touchscreen-car-suv-manufacturing)
 - [Ask HN: Where would you start looking for development clients?](https://news.ycombinator.com/item?id=29129148)
-- [Ask HN: Connect to the Internet the old way during next Ethiopian lockdown](https://news.ycombinator.com/item?id=29129133)
 <!-- BLOG-POST-LIST:END -->
 
 ---
