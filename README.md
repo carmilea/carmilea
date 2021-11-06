@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflecting on the Shake Build System](http://neilmitchell.blogspot.com/2021/09/reflecting-on-shake-build-system.html)
+- [Hundreds of ancient Maya sites hidden under Mexico reveal a mysterious blueprint](https://www.sciencealert.com/hundreds-of-ancient-maya-sites-hidden-under-mexico-reveal-a-mysterious-blueprint)
+- [Swedish government agencies say energy-intensive mining should be banned](https://www.fi.se/en/published/presentations/2021/crypto-assets-are-a-threat-to-the-climate-transition--energy-intensive-mining-should-be-banned/)
 - [PhotoRoom (YC S20) Is Hiring a Head of Computer Vision (Paris, Remote ± 1h)](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
 - [Microcontroller VGA Interface Projects](http://tinyvga.com/)
-- [Why can DRM crash some games on 12th gen Intel core processors?](https://www.intel.com/content/www/us/en/support/articles/000088259/processors/intel-core-processors.html)
-- [AMP Has Irreparably Damaged Publishers’ Trust in Google-Led Initiatives](https://wptavern.com/amp-has-irreparably-damaged-publishers-trust-in-google-led-initiatives)
-- [Ask HN: How were video games from the 90s so efficient?](https://news.ycombinator.com/item?id=29127098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
