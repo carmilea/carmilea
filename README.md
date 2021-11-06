@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sirum hiring Chief of Staff to help make medicine affordable](https://boards.greenhouse.io/sirum?iframe=true&nonce=2021-11-01T17:50:53.991Z)
+- [Why SQLite Does Not Use Git](https://sqlite.org/whynotgit.html)
+- [Nuclear Power Is the Best Climate-Change Solution by Far](https://www.wsj.com/articles/nuclear-power-best-climate-change-solution-by-far-global-warming-emissions-cop26-11636056581)
 - [Pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
 - [The Biodegradable Battery](https://www.empa.ch/web/s604/papierbatterie)
-- [ZeroCater (YC W11) Is Hiring Python Engineers](https://news.ycombinator.com/item?id=29124696)
-- [Contract for Sale of Soul](https://liminalwarmth.com/contract-for-sale-of-soul/)
-- [The secret lives of cells – as never seen before](https://www.nature.com/articles/d41586-021-02904-w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
