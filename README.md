@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don’t Be Spooky](https://therealadam.com/2021/11/01/dont-be-spooky/)
-- [Raspberry Pi Colocation: Decentralized. Exclusive. Green](https://pi-colocation.com)
-- [Exclusive Interview with Billionaire Charlie Munger on Controversial UCSB Dorm](https://www.architecturalrecord.com/articles/15378-exclusive-interview-with-billionaire-charlie-munger-on-controversial-ucsb-dorm)
-- [It‘s been 9 years since Valve rolled out the Steam Linux beta](https://www.phoronix.com/scan.php?page=news_item&px=Steam-Linux-9-Years-Since-Beta)
-- [An intact slave's room found in Pompeii's ruins](http://pompeiisites.org/en/comunicati/the-room-of-the-slaves-the-latest-discovery-at-civita-giuliana/)
+- [What Collective Narcissism Does to Society](https://www.theatlantic.com/family/archive/2021/11/group-narcissism/620632/)
+- [American trains need more than railfan nostalgia](https://www.slowboring.com/p/amtrak-review)
+- [Guide of CPython’s Parser](https://devguide.python.org/parser/)
+- [The Dangerous Power of Crowds](https://www.newyorker.com/magazine/2011/02/07/crush-point)
+- [The fastest object diff library in JavaScript](https://github.com/AsyncBanana/microdiff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
