@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Microcontroller VGA Interface Projects](http://tinyvga.com/)
-- [Enabling scroll lock at boot fixes crashes caused by DRM on Intel 12th gen CPUs](https://www.intel.com/content/www/us/en/support/articles/000088259/processors/intel-core-processors.html)
+- [Why can DRM crash some games on 12th gen Intel core processors?](https://www.intel.com/content/www/us/en/support/articles/000088259/processors/intel-core-processors.html)
 - [AMP Has Irreparably Damaged Publishers’ Trust in Google-Led Initiatives](https://wptavern.com/amp-has-irreparably-damaged-publishers-trust-in-google-led-initiatives)
 - [Ask HN: How were video games from the 90s so efficient?](https://news.ycombinator.com/item?id=29127098)
 - [Sirum (YC W15) is hiring a Chief of Staff to help make medicine affordable](https://boards.greenhouse.io/sirum?iframe=true&nonce=2021-11-01T17:50:53.991Z)
