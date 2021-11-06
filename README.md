@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit (YC W18) Is Hiring IDE Hackers and Designers](https://replit.com/careers)
+- [DirectX 12 Applications No Longer Working on 4th Gen Intel Processor Graphics](https://www.intel.com/content/www/us/en/support/articles/000057520/graphics/graphics-for-4th-generation-intel-processors.html)
 - [ASCII Paint](http://ascii.alienmelon.com/)
 - [Cellular Automata in F#](https://isthisit.nz/posts/2020/cellular-automata-in-fsharp/)
 - [Setting Up Gmail in Doom Emacs using mbsync and mu4e](https://www.erichgrunewald.com/posts/setting-up-gmail-in-doom-emacs-using-mbsync-and-mu4e/)
-- [How profitable was/is tobacco?](https://genehoots.substack.com/p/how-profitable-wasis-tobacco)
-- [Spending $5k to learn how database indexes work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
