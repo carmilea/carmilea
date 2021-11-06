@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Sirum hiring Chief of Staff to help make medicine affordable](https://boards.greenhouse.io/sirum?iframe=true&nonce=2021-11-01T17:50:53.991Z)
-- [Why SQLite Does Not Use Git](https://sqlite.org/whynotgit.html)
+- [The road of Barbados becoming a republic](https://constitutionnet.org/news/barbadoss-long-drawn-out-promise-republic)
+- [Why SQLite does not use Git (2018)](https://sqlite.org/whynotgit.html)
 - [Nuclear Power Is the Best Climate-Change Solution by Far](https://www.wsj.com/articles/nuclear-power-best-climate-change-solution-by-far-global-warming-emissions-cop26-11636056581)
 - [Pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
-- [The Biodegradable Battery](https://www.empa.ch/web/s604/papierbatterie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
