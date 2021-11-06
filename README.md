@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [After months of delay, the House passes infrastructure bill](https://www.npr.org/2021/11/05/1050012853/the-house-has-passed-the-1-trillion-infrastructure-plan-sending-it-to-bidens-des)
+- [Ruth Health (YC S21) Is Hiring](https://news.ycombinator.com/item?id=29129477)
 - [Some new BMWs won't have touchscreens thanks to chip shortage](https://www.theverge.com/2021/11/5/22765709/bmw-chip-shortage-touchscreen-car-suv-manufacturing)
-- [“Thread: How NFTs will change hiring forever”](https://twitter.com/gregisenberg/status/1456588823287275528)
-- [A photo on Wikipedia can ruin your life](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2021-10-31/Opinion)
-- [Show HN: How does Jax allocate memory on a TPU? An interactive C++ walkthrough](https://gist.github.com/shawwn/0e524d4a7a5d8fb152a86616559cc02a)
-- [Against Discord Channels](https://becca.ooo/discord)
+- [Ask HN: Where would you start looking for development clients?](https://news.ycombinator.com/item?id=29129148)
+- [Ask HN: Connect to the Internet the old way during next Ethiopian lockdown](https://news.ycombinator.com/item?id=29129133)
 <!-- BLOG-POST-LIST:END -->
 
 ---
