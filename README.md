@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How profitable was/is tobacco?](https://genehoots.substack.com/p/how-profitable-wasis-tobacco)
+- [Spending $5k to learn how database indexes work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
+- [Apple’s New Screen Repair Trap Could Change the Repair Industry Forever](https://www.ifixit.com/News/54829/apples-new-screen-repair-trap-could-change-the-repair-industry-forever)
 - [Big Tech Coding Interview Framework – Pt 1. Inspect](https://fangprep.substack.com/p/the-coding-interview-pt-1-inspect)
 - [Keyoxide: A privacy-friendly platform to establish your decentralized identity](https://codeberg.org/keyoxide/keyoxide-web/src/branch/main/content/about.md)
-- [An Epic future for SPJ](https://discourse.haskell.org/t/an-epic-future-for-spj/3573)
-- [Parents built a school app. Then the city called the cops](https://www.wired.com/story/sweden-stockholm-school-app-open-source/)
-- [Whatever Happened to Wolfram Alpha?](https://news.ycombinator.com/item?id=29131931)
 <!-- BLOG-POST-LIST:END -->
 
 ---
