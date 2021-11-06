@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Walmart Spent 7 Years Fighting the $7k Fine for a Worker's Crowd Death (2015)](https://www.huffpost.com/entry/walmart-black-friday-death_n_6904604)
 - [Replit (YC W18) Is Hiring IDE Hackers and Designers](https://replit.com/careers)
 - [DirectX 12 Applications No Longer Working on 4th Gen Intel Processor Graphics](https://www.intel.com/content/www/us/en/support/articles/000057520/graphics/graphics-for-4th-generation-intel-processors.html)
+- [A Close Look at a Spinlock](https://blog.regehr.org/archives/2173)
 - [ASCII Paint](http://ascii.alienmelon.com/)
-- [Cellular Automata in F#](https://isthisit.nz/posts/2020/cellular-automata-in-fsharp/)
-- [Setting Up Gmail in Doom Emacs using mbsync and mu4e](https://www.erichgrunewald.com/posts/setting-up-gmail-in-doom-emacs-using-mbsync-and-mu4e/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
