@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Making Students Use Eclipse (2020)](https://nora.codes/post/stop-making-students-use-eclipse/)
 - [Ask HN: How is the “metaverse” concept different from the Second Life boom](https://news.ycombinator.com/item?id=29136478)
 - [How does a Game Engine work? An Overview](https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine)
 - [The fast-food workers’ season of rebellion](https://www.washingtonpost.com/nation/interactive/2021/rebellion-mcdonalds-bradford-pa/)
 - [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
-- [Flexport is hiring engineers to help us uncork global supply chains](https://www.flexport.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
