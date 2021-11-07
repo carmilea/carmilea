@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Muse (YC W12) Is Hiring a Senior Site Reliability Engineer](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer-d0ced3)
-- [Ask HN: Starting a career as a programmer in my mid-40s](https://news.ycombinator.com/item?id=29140927)
-- [Alibaba open sources four RISC-V cores: XuanTie E902, E906, C906 and C910](https://www.cnx-software.com/2021/10/20/alibaba-open-source-risc-v-cores-xuantie-e902-e906-c906-and-c910/)
-- [Common Lisp Code Optimisation](https://write.as/loke/common-lisp-code-optimisation)
-- [Ask HN: What was it like to use BBS in the good old times?](https://news.ycombinator.com/item?id=29140217)
+- [Designing better file organization around tags, not hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
+- [Google’s work-life research: those who separate personal and work lives happier](https://rework.withgoogle.com/blog/googles-work-life-balance-segmentors-v-integrators/)
+- [The Intellectual Incoherence of Cryptoassets](https://www.stephendiehl.com/blog/crypto-absurd.html)
+- [Please ask stupid questions as a new software developer](https://www.nikitakazakov.com/ask-stupid-questions-as-software-developer)
+- [Audio Tempo and Beat Detection Tutorial at the ISMIR2021 Conference](https://tempobeatdownbeat.github.io/tutorial/intro.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
