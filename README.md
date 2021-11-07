@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fly.io (YC W20) Is Hiring Rust Developers](https://fly.io/blog/fly-io-is-hiring-rust-developers/)
+- [Epitaph for a Bronx Accent](https://www.tabletmag.com/sections/community/articles/epitaph-for-a-bronx-accent)
+- [Falsehoods programmers believe about names – with examples (2018)](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/)
 - [_why's Estate](https://viewsourcecode.org/why/)
-- [Denoflare – develop, test, and deploy Cloudflare workers with Deno](https://denoflare.dev/)
-- [The Bongcloud Attack](https://www.chess.com/blog/ThummimS/the-bongcloud-attack)
-- [The Melancholy of Subculture Society](https://www.gwern.net/The-Melancholy-of-Subculture-Society)
-- [Learn in Public](https://www.swyx.io/learn-in-public/)
+- [Your users will do what you make easy (in language design)](https://c3.handmade.network/blog/p/8208-when_making_things_easy_is_bad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
