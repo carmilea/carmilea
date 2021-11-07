@@ -54,8 +54,8 @@
 - [“It's a Walkout!”](https://www.washingtonpost.com/nation/interactive/2021/rebellion-mcdonalds-bradford-pa/)
 - [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
 - [Flexport is hiring engineers to help us uncork global supply chains](https://www.flexport.com/careers)
-- [Ask HN: Why crypto is rising so fast when its not creating value?](https://news.ycombinator.com/item?id=29135226)
 - [SpaceX shut down part of Dishy's API](https://tysonpower.de/blog/spacex-shutdown-part-of-dishys-api-because-of-me-and-others)
+- [Racket v8.3](https://blog.racket-lang.org/2021/11/racket-v8-3.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
