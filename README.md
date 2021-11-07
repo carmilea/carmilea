@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How is the “metaverse” concept different from the Second Life boom](https://news.ycombinator.com/item?id=29136478)
+- [How does a Game Engine work? An Overview](https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine)
 - [The fast-food workers’ season of rebellion](https://www.washingtonpost.com/nation/interactive/2021/rebellion-mcdonalds-bradford-pa/)
 - [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
 - [Flexport is hiring engineers to help us uncork global supply chains](https://www.flexport.com/careers)
-- [SpaceX shut down part of Dishy's API](https://tysonpower.de/blog/spacex-shutdown-part-of-dishys-api-because-of-me-and-others)
-- [Racket v8.3](https://blog.racket-lang.org/2021/11/racket-v8-3.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
