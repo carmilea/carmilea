@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“It's a Walkout!”](https://www.washingtonpost.com/nation/interactive/2021/rebellion-mcdonalds-bradford-pa/)
+- [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
 - [Flexport is hiring engineers to help us uncork global supply chains](https://www.flexport.com/careers)
-- [SpaceX shutdown part of Dishys API because of me (and others)](https://tysonpower.de/blog/spacex-shutdown-part-of-dishys-api-because-of-me-and-others)
-- [Racket v8.3](https://blog.racket-lang.org/2021/11/racket-v8-3.html)
-- [Why Tokyo Works](https://metropolisjapan.com/why-tokyo-works/)
-- [DirectX 12 applications no longer working on 4th gen Intel processor graphics](https://www.intel.com/content/www/us/en/support/articles/000057520/graphics/graphics-for-4th-generation-intel-processors.html)
+- [Ask HN: Why crypto is rising so fast when its not creating value?](https://news.ycombinator.com/item?id=29135226)
+- [SpaceX shut down part of Dishy's API](https://tysonpower.de/blog/spacex-shutdown-part-of-dishys-api-because-of-me-and-others)
 <!-- BLOG-POST-LIST:END -->
 
 ---
