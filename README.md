@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse (YC W12) Is Hiring a Senior Site Reliability Engineer](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer-d0ced3)
+- [Ask HN: Starting a career as a programmer in my mid-40s](https://news.ycombinator.com/item?id=29140927)
 - [Alibaba open sources four RISC-V cores: XuanTie E902, E906, C906 and C910](https://www.cnx-software.com/2021/10/20/alibaba-open-source-risc-v-cores-xuantie-e902-e906-c906-and-c910/)
-- [Two Rich Men Decided to Fund a Failing City. Some People Say They Made It Worse](https://time.com/6110450/kalamazoo-foundation-for-excellence/)
+- [Common Lisp Code Optimisation](https://write.as/loke/common-lisp-code-optimisation)
 - [Ask HN: What was it like to use BBS in the good old times?](https://news.ycombinator.com/item?id=29140217)
-- [Ask HN: Is it worth to invest in learning TypeScript?](https://news.ycombinator.com/item?id=29140062)
-- [Ancient Rome’s party town, now buried by the sea](https://www.theguardian.com/world/2021/oct/30/baiae-naples-ancient-rome-party-town-)
 <!-- BLOG-POST-LIST:END -->
 
 ---
