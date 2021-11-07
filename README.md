@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport is hiring engineers to help us uncork global supply chains](https://www.flexport.com/careers)
+- [SpaceX shutdown part of Dishys API because of me (and others)](https://tysonpower.de/blog/spacex-shutdown-part-of-dishys-api-because-of-me-and-others)
 - [Racket v8.3](https://blog.racket-lang.org/2021/11/racket-v8-3.html)
 - [Why Tokyo Works](https://metropolisjapan.com/why-tokyo-works/)
-- [Replit (YC W18) Is Hiring IDE Hackers and Designers](https://replit.com/careers)
 - [DirectX 12 applications no longer working on 4th gen Intel processor graphics](https://www.intel.com/content/www/us/en/support/articles/000057520/graphics/graphics-for-4th-generation-intel-processors.html)
-- [A Close Look at a Spinlock](https://blog.regehr.org/archives/2173)
 <!-- BLOG-POST-LIST:END -->
 
 ---
