@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn in Public](https://www.swyx.io/learn-in-public/)
+- [Memory leaks are crippling my M1 MacBook Pro](https://www.macworld.com/article/549755/m1-macbook-app-memory-leaks-macos.html)
+- [Don’t Do Interviews, Do Discussions](https://thinkingthrough.substack.com/p/dont-do-interviews-do-discussions)
 - [Designing better file organization around tags, not hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
-- [Google’s work-life research: those who separate personal and work lives happier](https://rework.withgoogle.com/blog/googles-work-life-balance-segmentors-v-integrators/)
-- [The Intellectual Incoherence of Cryptoassets](https://www.stephendiehl.com/blog/crypto-absurd.html)
-- [Please ask stupid questions as a new software developer](https://www.nikitakazakov.com/ask-stupid-questions-as-software-developer)
-- [Audio Tempo and Beat Detection Tutorial at the ISMIR2021 Conference](https://tempobeatdownbeat.github.io/tutorial/intro.html)
+- [Segmentors vs Integrators: Google’s work-life-balance research](https://rework.withgoogle.com/blog/googles-work-life-balance-segmentors-v-integrators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
