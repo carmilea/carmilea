@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
 - [Fly.io (YC W20) Is Hiring Rust Developers](https://fly.io/blog/fly-io-is-hiring-rust-developers/)
 - [Epitaph for a Bronx Accent](https://www.tabletmag.com/sections/community/articles/epitaph-for-a-bronx-accent)
 - [Falsehoods programmers believe about names – with examples (2018)](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/)
-- [_why's Estate](https://viewsourcecode.org/why/)
-- [Your users will do what you make easy (in language design)](https://c3.handmade.network/blog/p/8208-when_making_things_easy_is_bad)
+- [Why is Tcl syntax so weird (2013)](https://wiki.tcl-lang.org/page/Why+is+TCL+syntax+so+weird)
 <!-- BLOG-POST-LIST:END -->
 
 ---
