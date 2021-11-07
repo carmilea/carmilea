@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Making $5k/mo from my blog “dogfooding” my own SEO content software](https://www.indiehackers.com/post/case-study-making-5k-mo-from-my-blog-using-my-own-seo-content-software-ba395c1b60)
+- [First evidence of cell membrane molecules in space](https://astronomy.com/news/2021/05/first-evidence-of-cell-membrane-molecules-in-space)
 - [ContentFly (YC W21) Is Hiring a Director, Marketplace Support](https://apply.workable.com/contentfly/j/8C4ECBB360/)
-- [Facebook announced their new name, despite it belonging to an existing company](https://web.archive.org/web/20211103213225/https://meta.company/)
+- [Bachelors vs. Masters vs. PhD – Explained in Pictures (2016)](https://www.happyschools.com/bachelors-vs-masters-vs-phd/)
 - [Annotated code for a demo of WebSocket chat in Deno Deploy](https://til.simonwillison.net/deno/annotated-deno-deploy-demo)
-- [Lightweight Cryptography](https://csrc.nist.gov/Projects/Lightweight-Cryptography)
-- [Spiders are much smarter than you think](https://knowablemagazine.org/article/mind/2021/are-spiders-intelligent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
