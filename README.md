@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [_why's Estate](https://viewsourcecode.org/why/)
+- [Denoflare – develop, test, and deploy Cloudflare workers with Deno](https://denoflare.dev/)
+- [The Bongcloud Attack](https://www.chess.com/blog/ThummimS/the-bongcloud-attack)
+- [The Melancholy of Subculture Society](https://www.gwern.net/The-Melancholy-of-Subculture-Society)
 - [Learn in Public](https://www.swyx.io/learn-in-public/)
-- [Memory leaks are crippling my M1 MacBook Pro](https://www.macworld.com/article/549755/m1-macbook-app-memory-leaks-macos.html)
-- [Don’t Do Interviews, Do Discussions](https://thinkingthrough.substack.com/p/dont-do-interviews-do-discussions)
-- [Designing better file organization around tags, not hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
-- [Segmentors vs Integrators: Google’s work-life-balance research](https://rework.withgoogle.com/blog/googles-work-life-balance-segmentors-v-integrators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
