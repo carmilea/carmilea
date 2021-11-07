@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Capitalism is killing the planet – it’s time to stop buying into our destruction](https://www.theguardian.com/environment/2021/oct/30/capitalism-is-killing-the-planet-its-time-to-stop-buying-into-our-own-destruction)
+- [ContentFly (YC W21) Is Hiring a Director, Marketplace Support](https://apply.workable.com/contentfly/j/8C4ECBB360/)
+- [Facebook announced their new name, despite it belonging to an existing company](https://web.archive.org/web/20211103213225/https://meta.company/)
+- [Annotated code for a demo of WebSocket chat in Deno Deploy](https://til.simonwillison.net/deno/annotated-deno-deploy-demo)
 - [Lightweight Cryptography](https://csrc.nist.gov/Projects/Lightweight-Cryptography)
 - [Spiders are much smarter than you think](https://knowablemagazine.org/article/mind/2021/are-spiders-intelligent)
-- [ES Modules Are Terrible](https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3)
-- [Decline in effectiveness of all three US Covid-19 vaccines over time](https://www.latimes.com/science/story/2021-11-04/study-shows-dramatic-decline-in-effectiveness-of-covid-19-vaccines)
 <!-- BLOG-POST-LIST:END -->
 
 ---
