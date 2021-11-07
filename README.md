@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spiders are much smarter than you think](https://knowablemagazine.org/article/mind/2021/are-spiders-intelligent)
+- [Decline in effectiveness of all three US Covid-19 vaccines over time](https://www.latimes.com/science/story/2021-11-04/study-shows-dramatic-decline-in-effectiveness-of-covid-19-vaccines)
 - [How does Covid-19 change the brain? This scientist is finding out](https://www.latimes.com/science/story/2021-11-05/how-does-covid-19-change-the-brain-this-scientist-is-finding-out)
 - [Bitmovin (YC S15) Is Hiring Various Engineering Jobs in Video](https://bitmovin.com/careers/)
-- [Stop Making Students Use Eclipse (2020)](https://nora.codes/post/stop-making-students-use-eclipse/)
-- [How does a Game Engine work? An Overview](https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine)
-- [The fast-food workers’ season of rebellion](https://www.washingtonpost.com/nation/interactive/2021/rebellion-mcdonalds-bradford-pa/)
+- [System76 Reportedly Developing Their Own Rust-Written Desktop](https://www.phoronix.com/scan.php?page=news_item&px=Pop-OS-New-Rust-Desktop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
