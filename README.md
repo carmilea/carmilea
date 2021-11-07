@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First evidence of cell membrane molecules in space](https://astronomy.com/news/2021/05/first-evidence-of-cell-membrane-molecules-in-space)
-- [Alogorithm Archive: A Collaborative Book on Algorithms](https://www.algorithm-archive.org/)
-- [ContentFly (YC W21) Is Hiring a Director, Marketplace Support](https://apply.workable.com/contentfly/j/8C4ECBB360/)
-- [Bachelors vs. Masters vs. PhD – Explained in Pictures (2016)](https://www.happyschools.com/bachelors-vs-masters-vs-phd/)
-- [Learning to Speak Shrub](https://worldsensorium.com/learning-to-speak-shrub/)
+- [Ancient Rome’s party town, now buried by the sea](https://www.theguardian.com/world/2021/oct/30/baiae-naples-ancient-rome-party-town-)
+- [A terrible schema from a clueless programmer](http://rachelbythebay.com/w/2021/11/06/sql/)
+- [Ask HN: What Is the “HN” of “Web3”, Crypto, DeFi, NFT, etc](https://news.ycombinator.com/item?id=29139813)
+- [Zillow Just Gave Us a Look at Machine Learning's Future](https://vinvashishta.substack.com/p/zillow-just-gave-us-a-look-at-machine)
+- [The Joy of Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
