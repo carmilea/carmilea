@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“It's a Walkout!”](https://www.washingtonpost.com/nation/interactive/2021/rebellion-mcdonalds-bradford-pa/)
+- [The fast-food workers’ season of rebellion](https://www.washingtonpost.com/nation/interactive/2021/rebellion-mcdonalds-bradford-pa/)
 - [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
 - [Flexport is hiring engineers to help us uncork global supply chains](https://www.flexport.com/careers)
 - [SpaceX shut down part of Dishy's API](https://tysonpower.de/blog/spacex-shutdown-part-of-dishys-api-because-of-me-and-others)
