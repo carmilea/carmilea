@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NSO spyware found on 6 Palestinian activists&#39; phones](https://apnews.com/article/technology-business-israel-jamal-khashoggi-hacking-6bfc5bc992de7f33f5c8e969e69ce15c)
-- [A Botched Circumcision and Its Aftermath](https://www.newyorker.com/magazine/2021/10/11/a-botched-circumcision-and-its-aftermath)
+- [Aaron Swartz – The Network Transformation](https://www.youtube.com/watch?v=7AG-fy-vK3w)
+- [Raspberry Pi Zero 2 W die shots](http://electronupdate.blogspot.com/2021/11/raspberry-pi-zero-2w-what-does-silicon.html)
+- [All Those 23andMe Spit Tests Were Part of a Bigger Plan](https://www.bloomberg.com/news/features/2021-11-04/23andme-to-use-dna-tests-to-make-cancer-drugs)
+- [A recruiter lined me up an interview. With the employer that just fired me](https://twitter.com/Firr/status/1456324664628846599)
 - [One Man’s Quest to Preserve the World’s Smallest Oil Refiner](https://www.atlasobscura.com/articles/worlds-smallest-oil-refinery-wyoming)
-- [French couple wins legal fight over wind ‘turbine syndrome’](https://www.theguardian.com/world/2021/nov/08/french-couple-wins-legal-fight-wind-turbine-syndrome-windfarm-health)
-- [Litnerd &lpar;YC S21&rpar; Is Hiring for Children&#39;s Book Editor](https://www.ycombinator.com/companies/litnerd/jobs/tGFTEph-editor-media-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
