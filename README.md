@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The LZ4 introduced in PostgreSQL 14 provides faster compression](https://www.postgresql.fastware.com/blog/what-is-the-new-lz4-toast-compression-in-postgresql-14)
+- [A look at the die of the 8086 processor](http://www.righto.com/2020/06/a-look-at-die-of-8086-processor.html)
 - [MLAT order from Luxembourg for Signal user data](https://signal.org/bigbrother/northern-california-order/)
 - [Blind People Won the Right to Break eBook DRM. Time to Make It Permanent](https://www.wired.com/story/ebooks-drm-blind-accessibility-dmca/)
 - [Beeper &lpar;YC S21&rpar; is hiring a senior Android engineer](https://beeper.notion.site/Senior-Android-Engineer-Beeper-ef7007ef879942e2a4c0492ec52021f0)
-- [Playstation 5 root keys obtained](https://twitter.com/fail0verflow/status/1457526453105569793)
-- [Telegram Ad Platform](https://promote.telegram.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
