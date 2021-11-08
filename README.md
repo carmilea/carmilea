@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dover &lpar;YC S19&rpar; is hiring for all roles](https://www.dover.com/careers#roles)
-- [A spoonful of sugar helps the radioactive oatmeal go down &lpar;2017&rpar;](https://www.smithsonianmag.com/history/spoonful-sugar-helps-radioactive-oatmeal-go-down-180962424/)
-- [Driftwood: Know if Private Keys are Sensitive](https://trufflesecurity.com/blog/driftwood)
-- [An Ambitious Diary](https://www.newyorker.com/magazine/2021/11/08/the-most-ambitious-diary-in-history-claude-fredericks)
-- [A Beginner’s Guide to Understanding Game Hacking Techniques [pdf]](https://gamehacking.academy/GameHackingAcademy.pdf)
+- [Jog: Print the last 10 commands you ran in the current directory](https://github.com/natethinks/jog)
+- [Relaunch HN: Escape Team](https://www.escape-team.com)
+- [Time Travel: Probability and Impossibility](https://ndpr.nd.edu/reviews/time-travel-probability-and-impossibility/)
+- [DBCore](https://www.dbcore.org/)
+- [Robinhood Announces Data Security Incident](https://blog.robinhood.com/news/2021/11/8/data-security-incident)
 <!-- BLOG-POST-LIST:END -->
 
 ---
