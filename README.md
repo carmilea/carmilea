@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Litnerd &lpar;YC S21&rpar; Is Hiring for Children&#39;s Book Editor](https://www.ycombinator.com/companies/litnerd/jobs/tGFTEph-editor-media-manager)
 - [Aaron Swartz Rememberance Day This Monday](https://news.ycombinator.com/item?id=29147888)
 - [The LZ4 introduced in PostgreSQL 14 provides faster compression](https://www.postgresql.fastware.com/blog/what-is-the-new-lz4-toast-compression-in-postgresql-14)
+- [iPhone apps can tell many things about you through the accelerometer](https://www.mysk.blog/2021/10/24/accelerometer-ios/)
 - [Six Palestinian human rights defenders hacked with NSO Group’s Pegasus Spyware](https://www.frontlinedefenders.org/en/statement-report/statement-targeting-palestinian-hrds-pegasus)
-- [Beg Bounties](https://www.troyhunt.com/beg-bounties/)
-- [A look at the die of the 8086 processor &lpar;2020&rpar;](http://www.righto.com/2020/06/a-look-at-die-of-8086-processor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
