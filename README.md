@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We broke TLS on hundreds of websites.](https://trufflesecurity.com/blog/driftwood)
+- [The Billion Dollar Airline Routes](https://www.travelstatsman.com/05112018/the-billion-dollar-airline-routes/)
+- [E-bike popularity of isn’t slowing: e-bikes outsell electric cars](https://www.nytimes.com/2021/11/08/business/e-bikes-urban-transit.html)
 - [Show HN: Document and automate your operations playbooks and business processes](https://www.workflow86.com/)
 - [China to supercharge uranium race with 150 new nuclear reactors](https://smallcaps.com.au/china-supercharge-uranium-race-150-new-nuclear-reactors/)
-- [Flow Club &lpar;YC S21&rpar; is hiring a founding front-end engineer](https://flowclub.notion.site/Work-at-Flow-Club-1e6cc84bfc0d4463ab333ee9bc02c46a)
-- [How Pinterest utterly ruined photo search on the internet](https://www.inputmag.com/culture/pinterest-sucks-google-image-photo-search-ruining-internet)
+- [Welcome to C# 10](https://devblogs.microsoft.com/dotnet/welcome-to-csharp-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
