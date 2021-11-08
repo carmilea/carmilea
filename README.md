@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [China to supercharge uranium race with 150 new nuclear reactors](https://smallcaps.com.au/china-supercharge-uranium-race-150-new-nuclear-reactors/)
 - [Flow Club &lpar;YC S21&rpar; is hiring a founding front-end engineer](https://flowclub.notion.site/Work-at-Flow-Club-1e6cc84bfc0d4463ab333ee9bc02c46a)
 - [How Pinterest utterly ruined photo search on the internet](https://www.inputmag.com/culture/pinterest-sucks-google-image-photo-search-ruining-internet)
 - [.NET 6 Released](https://devblogs.microsoft.com/dotnet/announcing-net-6/)
 - [China Bans Flightradar24](https://theprint.in/opinion/chinascope/china-says-indian-govt-backed-group-evil-flower-is-attacking-it-shuts-down-airlines-data/762663/)
-- [How I got wealthy without working too hard](https://amaca.substack.com/p/how-to-become-a-millionaire-without)
 <!-- BLOG-POST-LIST:END -->
 
 ---
