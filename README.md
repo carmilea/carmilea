@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NSO spyware found on 6 Palestinian activists&#39; phones](https://apnews.com/article/technology-business-israel-jamal-khashoggi-hacking-6bfc5bc992de7f33f5c8e969e69ce15c)
+- [A Botched Circumcision and Its Aftermath](https://www.newyorker.com/magazine/2021/10/11/a-botched-circumcision-and-its-aftermath)
+- [One Man’s Quest to Preserve the World’s Smallest Oil Refiner](https://www.atlasobscura.com/articles/worlds-smallest-oil-refinery-wyoming)
+- [French couple wins legal fight over wind ‘turbine syndrome’](https://www.theguardian.com/world/2021/nov/08/french-couple-wins-legal-fight-wind-turbine-syndrome-windfarm-health)
 - [Litnerd &lpar;YC S21&rpar; Is Hiring for Children&#39;s Book Editor](https://www.ycombinator.com/companies/litnerd/jobs/tGFTEph-editor-media-manager)
-- [Aaron Swartz Rememberance Day This Monday](https://news.ycombinator.com/item?id=29147888)
-- [The LZ4 introduced in PostgreSQL 14 provides faster compression](https://www.postgresql.fastware.com/blog/what-is-the-new-lz4-toast-compression-in-postgresql-14)
-- [iPhone apps can tell many things about you through the accelerometer](https://www.mysk.blog/2021/10/24/accelerometer-ios/)
-- [Six Palestinian human rights defenders hacked with NSO Group’s Pegasus Spyware](https://www.frontlinedefenders.org/en/statement-report/statement-targeting-palestinian-hrds-pegasus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
