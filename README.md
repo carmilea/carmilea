@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Any indications Copilot scans your local files?](https://news.ycombinator.com/item?id=29150011)
-- [The benefits of staying off social media](https://durmonski.com/life-advice/benefits-of-staying-off-social-media/)
-- [The Great Organic-Food Fraud](https://www.newyorker.com/magazine/2021/11/15/the-great-organic-food-fraud)
-- [Ask HN: Is it legal to barter or volunteer help in Western Europe?](https://news.ycombinator.com/item?id=29149851)
-- [Portugal makes it illegal for your boss to text you after work](https://www.euronews.com/next/2021/11/08/portugal-makes-it-illegal-for-your-boss-to-text-you-after-work)
+- [China Bans Flightradar24](https://theprint.in/opinion/chinascope/china-says-indian-govt-backed-group-evil-flower-is-attacking-it-shuts-down-airlines-data/762663/)
+- [Visual Studio 2022 now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-now-available/)
+- [I found a bug in Intel Skylake processors](http://gallium.inria.fr/blog/intel-skylake-bug/)
+- [Photographing a Raspberry Pi 2 with Xenon flash makes it power down &lpar;2015&rpar;](https://www.raspberrypi.com/news/xenon-death-flash-a-free-physics-lesson/)
+- [Superintelligence Cannot Be Contained: Lessons from Computability Theory](https://jair.org/index.php/jair/article/view/12202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
