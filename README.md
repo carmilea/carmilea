@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Billion Dollar Airline Routes](https://www.travelstatsman.com/05112018/the-billion-dollar-airline-routes/)
-- [E-bike popularity of isn’t slowing: e-bikes outsell electric cars](https://www.nytimes.com/2021/11/08/business/e-bikes-urban-transit.html)
-- [Show HN: Document and automate your operations playbooks and business processes](https://www.workflow86.com/)
-- [China to supercharge uranium race with 150 new nuclear reactors](https://smallcaps.com.au/china-supercharge-uranium-race-150-new-nuclear-reactors/)
-- [Welcome to C# 10](https://devblogs.microsoft.com/dotnet/welcome-to-csharp-10/)
+- [Dover &lpar;YC S19&rpar; is hiring for all roles](https://www.dover.com/careers#roles)
+- [A spoonful of sugar helps the radioactive oatmeal go down &lpar;2017&rpar;](https://www.smithsonianmag.com/history/spoonful-sugar-helps-radioactive-oatmeal-go-down-180962424/)
+- [Driftwood: Know if Private Keys are Sensitive](https://trufflesecurity.com/blog/driftwood)
+- [An Ambitious Diary](https://www.newyorker.com/magazine/2021/11/08/the-most-ambitious-diary-in-history-claude-fredericks)
+- [A Beginner’s Guide to Understanding Game Hacking Techniques [pdf]](https://gamehacking.academy/GameHackingAcademy.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
