@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beeper &lpar;YC S21&rpar; is hiring a senior Android engineer](https://beeper.notion.site/Senior-Android-Engineer-Beeper-ef7007ef879942e2a4c0492ec52021f0)
 - [Telegram Ad Platform](https://promote.telegram.org/)
 - [Pilot Says Too Many Jumpers Outside Led to King Air Spin](https://www.avweb.com/aviation-news/pilot-says-skydive-king-air-spun-after-c-of-g-exceeded/)
-- [Generally Intelligent (YC S17) Is Hiring ML Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=29145171)
 - [Porting Pinnacle Station forward 11 years](https://www.me3tweaks.com/blog/modding/porting-pinnacle-station-forward-11-years/)
 - [Writing a Clojure highlighter from scratch](https://blog.michielborkent.nl/writing-clojure-highlighter.html)
 <!-- BLOG-POST-LIST:END -->
