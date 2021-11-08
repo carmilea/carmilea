@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=29145171)
-- [Raylib is a simple and easy-to-use library to enjoy videogames programming](https://www.raylib.com/)
+- [Generally Intelligent (YC S17) Is Hiring ML Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=29145171)
 - [Porting Pinnacle Station forward 11 years](https://www.me3tweaks.com/blog/modding/porting-pinnacle-station-forward-11-years/)
 - [Writing a Clojure highlighter from scratch](https://blog.michielborkent.nl/writing-clojure-highlighter.html)
-- [Supreme Court Declines to Hear Challenge to Secrecy of U.S. Surveillance Court](https://knightcolumbia.org/content/supreme-court-declines-to-hear-first-amendment-challenge-to-secrecy-of-us-surveillance-court)
+- [Taking notes in mathematics lectures using LaTeX and Vim (2019)](https://castel.dev/post/lecture-notes-1/)
+- [Epitaph for a Bronx Accent](https://www.tabletmag.com/sections/community/articles/epitaph-for-a-bronx-accent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
