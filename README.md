@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An unofficial and free mod for FS2020 to load Google Maps textures](https://old.reddit.com/r/flightsim/comments/qpdf5a/ms_fs2020_can_now_load_google_maps_textures/)
 - [Jog: Print the last 10 commands you ran in the current directory](https://github.com/natethinks/jog)
-- [Relaunch HN: Escape Team](https://www.escape-team.com)
+- [Show HN: Escape Team](https://www.escape-team.com)
+- [Blockchain 101: The Simplest Guide You Will Ever Read](https://www.velotio.com/engineering-blog/introduction-to-blockchain-and-how-bitcoin-works)
 - [Time Travel: Probability and Impossibility](https://ndpr.nd.edu/reviews/time-travel-probability-and-impossibility/)
-- [DBCore](https://www.dbcore.org/)
-- [Robinhood Announces Data Security Incident](https://blog.robinhood.com/news/2021/11/8/data-security-incident)
 <!-- BLOG-POST-LIST:END -->
 
 ---
