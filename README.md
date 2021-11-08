@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Taking notes in mathematics lectures using LaTeX and Vim (2019)](https://castel.dev/post/lecture-notes-1/)
-- [Fly.io (YC W20) Is Hiring Rust Developers](https://fly.io/blog/fly-io-is-hiring-rust-developers/)
-- [Epitaph for a Bronx Accent](https://www.tabletmag.com/sections/community/articles/epitaph-for-a-bronx-accent)
-- [Falsehoods programmers believe about names – with examples (2018)](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/)
-- [Why is Tcl syntax so weird (2013)](https://wiki.tcl-lang.org/page/Why+is+TCL+syntax+so+weird)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)](https://news.ycombinator.com/item?id=29145171)
+- [Raylib is a simple and easy-to-use library to enjoy videogames programming](https://www.raylib.com/)
+- [Porting Pinnacle Station forward 11 years](https://www.me3tweaks.com/blog/modding/porting-pinnacle-station-forward-11-years/)
+- [Writing a Clojure highlighter from scratch](https://blog.michielborkent.nl/writing-clojure-highlighter.html)
+- [Supreme Court Declines to Hear Challenge to Secrecy of U.S. Surveillance Court](https://knightcolumbia.org/content/supreme-court-declines-to-hear-first-amendment-challenge-to-secrecy-of-us-surveillance-court)
 <!-- BLOG-POST-LIST:END -->
 
 ---
