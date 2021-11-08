@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aaron Swartz Rememberance Day This Monday](https://news.ycombinator.com/item?id=29147888)
 - [The LZ4 introduced in PostgreSQL 14 provides faster compression](https://www.postgresql.fastware.com/blog/what-is-the-new-lz4-toast-compression-in-postgresql-14)
-- [A look at the die of the 8086 processor](http://www.righto.com/2020/06/a-look-at-die-of-8086-processor.html)
-- [MLAT order from Luxembourg for Signal user data](https://signal.org/bigbrother/northern-california-order/)
-- [Blind People Won the Right to Break eBook DRM. Time to Make It Permanent](https://www.wired.com/story/ebooks-drm-blind-accessibility-dmca/)
-- [Beeper &lpar;YC S21&rpar; is hiring a senior Android engineer](https://beeper.notion.site/Senior-Android-Engineer-Beeper-ef7007ef879942e2a4c0492ec52021f0)
+- [Six Palestinian human rights defenders hacked with NSO Group’s Pegasus Spyware](https://www.frontlinedefenders.org/en/statement-report/statement-targeting-palestinian-hrds-pegasus)
+- [Beg Bounties](https://www.troyhunt.com/beg-bounties/)
+- [A look at the die of the 8086 processor &lpar;2020&rpar;](http://www.righto.com/2020/06/a-look-at-die-of-8086-processor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
