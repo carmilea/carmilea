@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MLAT order from Luxembourg for Signal user data](https://signal.org/bigbrother/northern-california-order/)
+- [Blind People Won the Right to Break eBook DRM. Time to Make It Permanent](https://www.wired.com/story/ebooks-drm-blind-accessibility-dmca/)
 - [Beeper &lpar;YC S21&rpar; is hiring a senior Android engineer](https://beeper.notion.site/Senior-Android-Engineer-Beeper-ef7007ef879942e2a4c0492ec52021f0)
 - [Playstation 5 root keys obtained](https://twitter.com/fail0verflow/status/1457526453105569793)
 - [Telegram Ad Platform](https://promote.telegram.org/)
-- [Pilot Says Too Many Jumpers Outside Led to King Air Spin](https://www.avweb.com/aviation-news/pilot-says-skydive-king-air-spun-after-c-of-g-exceeded/)
-- [Porting Pinnacle Station forward 11 years](https://www.me3tweaks.com/blog/modding/porting-pinnacle-station-forward-11-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
