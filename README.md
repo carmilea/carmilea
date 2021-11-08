@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Aaron Swartz – The Network Transformation](https://www.youtube.com/watch?v=7AG-fy-vK3w)
-- [Raspberry Pi Zero 2 W die shots](http://electronupdate.blogspot.com/2021/11/raspberry-pi-zero-2w-what-does-silicon.html)
-- [All Those 23andMe Spit Tests Were Part of a Bigger Plan](https://www.bloomberg.com/news/features/2021-11-04/23andme-to-use-dna-tests-to-make-cancer-drugs)
-- [A recruiter lined me up an interview. With the employer that just fired me](https://twitter.com/Firr/status/1456324664628846599)
-- [One Man’s Quest to Preserve the World’s Smallest Oil Refiner](https://www.atlasobscura.com/articles/worlds-smallest-oil-refinery-wyoming)
+- [Ask HN: Any indications Copilot scans your local files?](https://news.ycombinator.com/item?id=29150011)
+- [The benefits of staying off social media](https://durmonski.com/life-advice/benefits-of-staying-off-social-media/)
+- [The Great Organic-Food Fraud](https://www.newyorker.com/magazine/2021/11/15/the-great-organic-food-fraud)
+- [Ask HN: Is it legal to barter or volunteer help in Western Europe?](https://news.ycombinator.com/item?id=29149851)
+- [Portugal makes it illegal for your boss to text you after work](https://www.euronews.com/next/2021/11/08/portugal-makes-it-illegal-for-your-boss-to-text-you-after-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
