@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What the Hell Is ‘Right-Clicker Mentality’?](https://www.vice.com/en/article/5dgzed/what-the-hell-is-right-clicker-mentality)
+- [$ sudo rm -rf / === NPM install](https://ghuntley.com/sudo-rm-rf/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [Google’s New Business Profile: When Search Becomes a Political Tool](https://www.nearmedia.co/does-the-gmb-rebranding-mean-more-or-less-than-google-say/)
 - [The machine that saved Moore&#39;s Law](https://web.archive.org/web/20211102230038/https://www.technologyreview.com/2021/10/27/1037118/moores-law-computer-chips/)
-- [WSL2 can now mount Linux ext4 disks directly](https://www.hanselman.com/blog/wsl2-can-now-mount-linux-ext4-disks-directly)
-- [Ruby 3.1.0 Preview 1](https://www.ruby-lang.org/en/news/2021/11/09/ruby-3-1-0-preview1-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
