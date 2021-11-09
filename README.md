@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What I wish I had known when I was starting out as a developer](https://www.mooreds.com/wordpress/archives/3376)
+- [Ask HN: Why aren&#39;t there other biographies of Steve Jobs?](https://news.ycombinator.com/item?id=29160093)
+- [Ruby 3.1.0 Preview 1](https://www.ruby-lang.org/en/news/2021/11/09/ruby-3-1-0-preview1-released/)
 - [Pyjion – A Python JIT Compiler](https://www.trypyjion.com/)
 - [JSONiq: The JSON Query Language](https://www.jsoniq.org/)
-- [Ask HN: Could VSCode be the new Emacs?](https://news.ycombinator.com/item?id=29159192)
 - [AWS Global Accelerator is really fast and good](https://www.lifeofguenter.de/2021/11/fasters-dereferer-service-with-aws-global-accelerator.html)
 <!-- BLOG-POST-LIST:END -->
 
