@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What I wish I had known when I was starting out as a developer](https://www.mooreds.com/wordpress/archives/3376)
+- [Pyjion – A Python JIT Compiler](https://www.trypyjion.com/)
+- [JSONiq: The JSON Query Language](https://www.jsoniq.org/)
 - [Ask HN: Could VSCode be the new Emacs?](https://news.ycombinator.com/item?id=29159192)
 - [AWS Global Accelerator is really fast and good](https://www.lifeofguenter.de/2021/11/fasters-dereferer-service-with-aws-global-accelerator.html)
-- [liblinux: Architecture-independent access to Linux system calls](https://github.com/matheusmoreira/liblinux)
-- [Show HN: Hamilton, a Microframework for Creating Dataframes](https://github.com/stitchfix/hamilton)
-- [My Emacs Lisp book is finished](http://mbork.pl/2021-11-06_The_Emacs_Lisp_book_is_finished)
 <!-- BLOG-POST-LIST:END -->
 
 ---
