@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ProctorU Is Dystopian Spyware](https://shkspr.mobi/blog/2021/11/proctoru-is-dystopian-spyware/)
+- [Rollercoaster: Communicating Efficiently and Anonymously in Large Groups](https://www.lightbluetouchpaper.org/2021/11/09/rollercoaster-communicating-efficiently-and-anonymously-in-large-groups/)
+- [Lesser Known PostgreSQL Features](https://hakibenita.com/postgresql-unknown-features)
+- [ProctorU is dystopian spyware](https://shkspr.mobi/blog/2021/11/proctoru-is-dystopian-spyware/)
 - [The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/)
 - [Robinhood says millions of customer names, email addresses taken in data breach](https://techcrunch.com/2021/11/09/robinhood-data-breach/)
-- [Comcast Outage Affecting US](https://www.sfchronicle.com/bayarea/article/Forget-checking-your-cables-the-Xfinity-outage-16604558.php)
-- [GE to split into three separate companies](https://www.ft.com/content/fb73e702-e885-4c20-8857-ddd29dc623af)
 <!-- BLOG-POST-LIST:END -->
 
 ---
