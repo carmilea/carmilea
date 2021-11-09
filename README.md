@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My Emacs Lisp book is finished](http://mbork.pl/2021-11-06_The_Emacs_Lisp_book_is_finished)
+- [The Lesson from Private Ski Lesson, or How Money Cannot Buy Performance](https://liuliu.me/eyes/the-lesson-from-private-ski-lesson-or-how-money-cannot-buy-performance/)
 - [Melbourne Train Control System is still running on a hardware “emulated” PDP11](https://mastodon.sdf.org/@dervishe/107242749336390295)
 - [REvil Ransom Arrest, $6M Seizure, and $10M Reward](https://krebsonsecurity.com/2021/11/revil-ransom-arrest-6m-seizure-and-10m-reward/)
-- [Mozilla Guidelines to Secure SSH](https://infosec.mozilla.org/guidelines/openssh)
 - [It’s mostly a demand shock, not a supply shock, and it’s everywhere](https://www.bridgewater.com/its-mostly-a-demand-shock-not-a-supply-shock-and-its-everywhere)
-- [Making an old USB printer support Apple AirPrint using a Raspberry Pi](https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
