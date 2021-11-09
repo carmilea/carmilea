@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Europa.eu domain name contacted through Signal Helper](https://community.signalusers.org/t/europa-eu-domain-name-contacted-through-signal-helper/38748)
+- [Ask HN: Could VSCode be the new Emacs?](https://news.ycombinator.com/item?id=29159192)
 - [AWS Global Accelerator is really fast and good](https://www.lifeofguenter.de/2021/11/fasters-dereferer-service-with-aws-global-accelerator.html)
 - [liblinux: Architecture-independent access to Linux system calls](https://github.com/matheusmoreira/liblinux)
 - [Show HN: Hamilton, a Microframework for Creating Dataframes](https://github.com/stitchfix/hamilton)
