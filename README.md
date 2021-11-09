@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Smarking &lpar;YC W15&rpar; Is Hiring Head of Eng to digitize $655B hidden industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Squid game: how we load-tested Ably’s Control API](https://ably.com/blog/how-we-load-tested-control-api)
-- [Tim Cook Says Apple Is Looking into Cryptocurrency](https://www.wsj.com/articles/tim-cook-says-apple-is-looking-into-cryptocurrency-11636475111)
-- [Microsoft and the Metaverse](https://stratechery.com/2021/microsoft-and-the-metaverse/)
-- [USC Pushed a $115,000 Online Degree. Graduates Got Low Salaries, Debts](https://www.wsj.com/articles/usc-online-social-work-masters-11636435900)
+- [Concurrency in Julia](https://lwn.net/SubscriberLink/875367/bd24fc983affbed4/)
+- [We saved millions in SSD costs by upgrading our filesystem](https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem)
+- [Launch HN: Gallery &lpar;YC S21&rpar; – On-demand environments on any cloud provider](https://news.ycombinator.com/item?id=29164556)
+- [Nap Framework: Real-time control and visualization platform](https://www.napframework.com/)
+- [Instead of cheques to fight climate change, billionaires should just pay taxes](https://www.cbc.ca/radio/day6/fighting-climate-change-wealthy-donors-1.6239230)
 <!-- BLOG-POST-LIST:END -->
 
 ---
