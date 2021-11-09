@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unity Purchases Weta Digital](https://blog.unity.com/news/welcome-weta-digital)
-- [Macron says France will build new nuclear energy reactors](https://www.reuters.com/business/energy/macron-says-france-will-build-more-nuclear-energy-reactors-2021-11-09/)
-- [Unity is buying Peter Jackson’s Weta Digital for over $1.6B](https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/)
+- [Unity is buying Peter Jackson’s Weta Digital for $1.6B](https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/)
 - [Show HN: I&#39;m 48 and finally learning how to be a game developer](https://apps.apple.com/us/app/slingshot-effect/id1537916631)
 - [The Surreal Horror of Pam](https://christine.website/talks/surreal-horror-pam-2021-11-09)
+- [Digital Legacy](https://digital-legacy.apple.com)
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
