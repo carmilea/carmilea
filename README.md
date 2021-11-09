@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Europa.eu domain name contacted through Signal Helper](https://community.signalusers.org/t/europa-eu-domain-name-contacted-through-signal-helper/38748)
+- [AWS Global Accelerator is really fast and good](https://www.lifeofguenter.de/2021/11/fasters-dereferer-service-with-aws-global-accelerator.html)
 - [liblinux: Architecture-independent access to Linux system calls](https://github.com/matheusmoreira/liblinux)
-- [NFT misconception: JPEG aren&#39;t stored on the Blockchain](https://erickhun.com/posts/nft-misconception-image-arent-on-blockchains/)
 - [Show HN: Hamilton, a Microframework for Creating Dataframes](https://github.com/stitchfix/hamilton)
 - [My Emacs Lisp book is finished](http://mbork.pl/2021-11-06_The_Emacs_Lisp_book_is_finished)
-- [Melbourne Train Control System is still running on a hardware “emulated” PDP11](https://mastodon.sdf.org/@dervishe/107242749336390295)
 <!-- BLOG-POST-LIST:END -->
 
 ---
