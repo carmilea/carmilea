@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [liblinux: Architecture-independent access to Linux system calls](https://github.com/matheusmoreira/liblinux)
+- [NFT misconception: JPEG aren&#39;t stored on the Blockchain](https://erickhun.com/posts/nft-misconception-image-arent-on-blockchains/)
+- [Show HN: Hamilton, a Microframework for Creating Dataframes](https://github.com/stitchfix/hamilton)
 - [My Emacs Lisp book is finished](http://mbork.pl/2021-11-06_The_Emacs_Lisp_book_is_finished)
-- [The Lesson from Private Ski Lesson, or How Money Cannot Buy Performance](https://liuliu.me/eyes/the-lesson-from-private-ski-lesson-or-how-money-cannot-buy-performance/)
 - [Melbourne Train Control System is still running on a hardware “emulated” PDP11](https://mastodon.sdf.org/@dervishe/107242749336390295)
-- [REvil Ransom Arrest, $6M Seizure, and $10M Reward](https://krebsonsecurity.com/2021/11/revil-ransom-arrest-6m-seizure-and-10m-reward/)
-- [It’s mostly a demand shock, not a supply shock, and it’s everywhere](https://www.bridgewater.com/its-mostly-a-demand-shock-not-a-supply-shock-and-its-everywhere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
