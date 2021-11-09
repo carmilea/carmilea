@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel Hardware allows activation of test or debug logic at runtime](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00528.html)
 - [Tor Browser 11.0](https://blog.torproject.org/new-release-tor-browser-11-0)
-- [Show HN: You.com, private search engine that summarizes the web – built for devs](https://you.com/search?q=you.com&fromSearchBar=true)
 - [The U.S. Treasury is buying private app data to target and investigate people](https://theintercept.com/2021/11/04/treasury-surveillance-location-data-babel-street/)
 - [Concurrency in Julia](https://lwn.net/SubscriberLink/875367/bd24fc983affbed4/)
-- [US House Republicans introduce strategy to establish national privacy standard](https://republicans-energycommerce.house.gov/news/press-release/ec-republicans-unveil-comprehensive-strategy-to-establish-a-national-privacy-standard/)
+- [We saved millions in SSD costs by upgrading our filesystem](https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
