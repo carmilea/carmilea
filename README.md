@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Melbourne Train Control System is still running on a hardware “emulated” PDP11](https://mastodon.sdf.org/@dervishe/107242749336390295)
+- [REvil Ransom Arrest, $6M Seizure, and $10M Reward](https://krebsonsecurity.com/2021/11/revil-ransom-arrest-6m-seizure-and-10m-reward/)
 - [It’s mostly a demand shock, not a supply shock, and it’s everywhere](https://www.bridgewater.com/its-mostly-a-demand-shock-not-a-supply-shock-and-its-everywhere)
 - [Making an old USB printer support Apple AirPrint using a Raspberry Pi](https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html)
 - [Etleap &lpar;YC W13&rpar; Is Hiring](https://www.ycombinator.com/companies/etleap/jobs/UQuf3oX-etleap-is-hiring-software-engineer-integrations)
-- [Shooting an Elephant &lpar;1936&rpar;](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/shooting-an-elephant/)
-- [Real-time search with Typesense](https://servicestack.net/blog/typesense-realtime-search)
 <!-- BLOG-POST-LIST:END -->
 
 ---
