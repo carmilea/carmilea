@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s mostly a demand shock, not a supply shock, and it’s everywhere](https://www.bridgewater.com/its-mostly-a-demand-shock-not-a-supply-shock-and-its-everywhere)
+- [Making an old USB printer support Apple AirPrint using a Raspberry Pi](https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html)
 - [Etleap &lpar;YC W13&rpar; Is Hiring](https://www.ycombinator.com/companies/etleap/jobs/UQuf3oX-etleap-is-hiring-software-engineer-integrations)
-- [Unix Mouse Shootout](https://vermaden.wordpress.com/2021/11/09/unix-mouse-shootout/)
-- [Culturally Transmitted Skills and Values](https://danluu.com/culture/)
-- [An unofficial and free mod for FS2020 to load Google Maps textures](https://old.reddit.com/r/flightsim/comments/qpdf5a/ms_fs2020_can_now_load_google_maps_textures/)
-- [Jog: Print the last 10 commands you ran in the current directory](https://github.com/natethinks/jog)
+- [Shooting an Elephant &lpar;1936&rpar;](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/shooting-an-elephant/)
+- [Real-time search with Typesense](https://servicestack.net/blog/typesense-realtime-search)
 <!-- BLOG-POST-LIST:END -->
 
 ---
