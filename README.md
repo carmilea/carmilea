@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Organized retail criminals are making the most of San Francisco’s urban chaos](https://www.nationalreview.com/magazine/2021/11/15/the-orc-invasion/)
-- [Ask HN: How do you find funds to invest in?](https://news.ycombinator.com/item?id=29161098)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Google’s New Business Profile: When Search Becomes a Political Tool](https://www.nearmedia.co/does-the-gmb-rebranding-mean-more-or-less-than-google-say/)
-- [WSL2 can now mount Linux ext4 disks directly](https://www.hanselman.com/blog/wsl2-can-now-mount-linux-ext4-disks-directly)
+- [ProctorU Is Dystopian Spyware](https://shkspr.mobi/blog/2021/11/proctoru-is-dystopian-spyware/)
+- [The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/)
+- [Robinhood says millions of customer names, email addresses taken in data breach](https://techcrunch.com/2021/11/09/robinhood-data-breach/)
+- [Comcast Outage Affecting US](https://www.sfchronicle.com/bayarea/article/Forget-checking-your-cables-the-Xfinity-outage-16604558.php)
+- [GE to split into three separate companies](https://www.ft.com/content/fb73e702-e885-4c20-8857-ddd29dc623af)
 <!-- BLOG-POST-LIST:END -->
 
 ---
