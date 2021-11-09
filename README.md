@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tor Browser 11.0](https://blog.torproject.org/new-release-tor-browser-11-0)
+- [Show HN: You.com, private search engine that summarizes the web – built for devs](https://you.com/search?q=you.com&fromSearchBar=true)
+- [The U.S. Treasury is buying private app data to target and investigate people](https://theintercept.com/2021/11/04/treasury-surveillance-location-data-babel-street/)
 - [Concurrency in Julia](https://lwn.net/SubscriberLink/875367/bd24fc983affbed4/)
-- [We saved millions in SSD costs by upgrading our filesystem](https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem)
-- [Launch HN: Gallery &lpar;YC S21&rpar; – On-demand environments on any cloud provider](https://news.ycombinator.com/item?id=29164556)
-- [Nap Framework: Real-time control and visualization platform](https://www.napframework.com/)
-- [Instead of cheques to fight climate change, billionaires should just pay taxes](https://www.cbc.ca/radio/day6/fighting-climate-change-wealthy-donors-1.6239230)
+- [US House Republicans introduce strategy to establish national privacy standard](https://republicans-energycommerce.house.gov/news/press-release/ec-republicans-unveil-comprehensive-strategy-to-establish-a-national-privacy-standard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
