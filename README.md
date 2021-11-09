@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rollercoaster: Communicating Efficiently and Anonymously in Large Groups](https://www.lightbluetouchpaper.org/2021/11/09/rollercoaster-communicating-efficiently-and-anonymously-in-large-groups/)
-- [Lesser Known PostgreSQL Features](https://hakibenita.com/postgresql-unknown-features)
-- [ProctorU is dystopian spyware](https://shkspr.mobi/blog/2021/11/proctoru-is-dystopian-spyware/)
-- [The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/)
-- [Robinhood says millions of customer names, email addresses taken in data breach](https://techcrunch.com/2021/11/09/robinhood-data-breach/)
+- [Smarking &lpar;YC W15&rpar; Is Hiring Head of Eng to digitize $655B hidden industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Squid game: how we load-tested Ably’s Control API](https://ably.com/blog/how-we-load-tested-control-api)
+- [Tim Cook Says Apple Is Looking into Cryptocurrency](https://www.wsj.com/articles/tim-cook-says-apple-is-looking-into-cryptocurrency-11636475111)
+- [Microsoft and the Metaverse](https://stratechery.com/2021/microsoft-and-the-metaverse/)
+- [USC Pushed a $115,000 Online Degree. Graduates Got Low Salaries, Debts](https://www.wsj.com/articles/usc-online-social-work-masters-11636435900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
