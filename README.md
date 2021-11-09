@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
+- [Secrets of The Great Families](https://astralcodexten.substack.com/p/secrets-of-the-great-families)
 - [Intel Hardware allows activation of test or debug logic at runtime](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00528.html)
 - [Tor Browser 11.0](https://blog.torproject.org/new-release-tor-browser-11-0)
-- [The U.S. Treasury is buying private app data to target and investigate people](https://theintercept.com/2021/11/04/treasury-surveillance-location-data-babel-street/)
-- [Concurrency in Julia](https://lwn.net/SubscriberLink/875367/bd24fc983affbed4/)
-- [We saved millions in SSD costs by upgrading our filesystem](https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem)
+- [Show HN: You.com, private search engine that summarizes the web – built for devs](https://you.com/search?q=you.com&fromSearchBar=true)
 <!-- BLOG-POST-LIST:END -->
 
 ---
