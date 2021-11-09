@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Etleap &lpar;YC W13&rpar; Is Hiring](https://www.ycombinator.com/companies/etleap/jobs/UQuf3oX-etleap-is-hiring-software-engineer-integrations)
+- [Unix Mouse Shootout](https://vermaden.wordpress.com/2021/11/09/unix-mouse-shootout/)
+- [Culturally Transmitted Skills and Values](https://danluu.com/culture/)
 - [An unofficial and free mod for FS2020 to load Google Maps textures](https://old.reddit.com/r/flightsim/comments/qpdf5a/ms_fs2020_can_now_load_google_maps_textures/)
 - [Jog: Print the last 10 commands you ran in the current directory](https://github.com/natethinks/jog)
-- [Show HN: Escape Team](https://www.escape-team.com)
-- [Blockchain 101: The Simplest Guide You Will Ever Read](https://www.velotio.com/engineering-blog/introduction-to-blockchain-and-how-bitcoin-works)
-- [Time Travel: Probability and Impossibility](https://ndpr.nd.edu/reviews/time-travel-probability-and-impossibility/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
