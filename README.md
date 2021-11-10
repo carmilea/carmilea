@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio &lpar;YC S15&rpar; is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [Google Summer of Code in 2022 – No longer limited to students](https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html)
 - [A Guide to Your 1816 Stagecoach Journey](https://about1816.wordpress.com/2021/11/09/a-regency-stagecoach-guide-part-one/)
-- [KalidoKit – Face, Pose, and Hand Tracking Kinematics](https://github.com/yeemachine/kalidokit)
-- [Show HN: Cedille, the largest French language model, released in open source](https://news.ycombinator.com/item?id=29179429)
-- [Rivian valued at over $100B after biggest IPO of 2021](https://www.reuters.com/business/autos-transportation/ev-maker-rivian-set-high-profile-market-debut-after-mammoth-ipo-2021-11-10/)
-- [Google&#39;s new related search box optimizes for the wrong metric](https://smitop.com/post/google-related/)
+- [CIA and Gen Z](https://www.washingtonian.com/2021/11/09/how-gen-z-and-the-tiktok-generation-are-becoming-spies/)
+- [Methane Plume Seen by Satellite over Alabama Mystifies Experts](https://www.bloombergquint.com/business/methane-plume-seen-by-satellite-over-alabama-mystifies-experts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
