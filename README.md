@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Justice Department Sues Uber for Overcharging People with Disabilities](https://www.justice.gov/opa/pr/justice-department-sues-uber-overcharging-people-disabilities)
-- [Hop: 25x faster than unzip and 10x faster than tar at reading individual files](https://github.com/Jarred-Sumner/hop)
-- [Evergrande teeters on edge of default as $148M payment falls due](https://www.reuters.com/business/investors-await-evergrandes-overdue-148-mln-payment-amid-contagion-fears-2021-11-09/)
-- [Making the dislike count private across YouTube](https://support.google.com/youtube/thread/134791097/update-to-youtube-dislike-counts?hl=en)
-- [Veterans use Apple technology to revolutionize trauma medicine](https://www.apple.com/newsroom/2021/11/veterans-use-apple-technology-to-revolutionize-trauma-medicine/)
+- [A Guide to Your 1816 Stagecoach Journey](https://about1816.wordpress.com/2021/11/09/a-regency-stagecoach-guide-part-one/)
+- [KalidoKit – Face, Pose, and Hand Tracking Kinematics](https://github.com/yeemachine/kalidokit)
+- [Show HN: Cedille, the largest French language model, released in open source](https://news.ycombinator.com/item?id=29179429)
+- [Rivian valued at over $100B after biggest IPO of 2021](https://www.reuters.com/business/autos-transportation/ev-maker-rivian-set-high-profile-market-debut-after-mammoth-ipo-2021-11-10/)
+- [Google&#39;s new related search box optimizes for the wrong metric](https://smitop.com/post/google-related/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
