@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Python needs to be paused during profiling – but Ruby doesn&#39;t always](https://www.benfrederickson.com/why-python-needs-paused-during-profiling/)
 - [Corrily &lpar;YC W21&rpar; Is Hiring a Senior Back-End Engineer](https://corrily.crew.work/jobs/61813ccf6fe1e5d3f8686048)
-- [Facebook is blocking searches for “Kyle Rittenhouse”](https://www.facebook.com/search/top/?q=Kyle%20Rittenhouse)
+- [The Question We’ve Stopped Asking About Teen-Agers and Social Media](https://www.newyorker.com/culture/office-space/the-question-weve-stopped-asking-about-teen-agers-and-social-media)
 - [Compass Pathways&#39; Phase IIb psilocybin trial shows reduced depression symptoms](https://endpts.com/compass-pathways-phase-iib-psilocybin-trial-shows-reduced-depression-symptoms/)
 - [Unity is buying Peter Jackson’s Weta Digital for $1.6B](https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/)
-- [Show HN: I&#39;m 48 and finally learning how to be a game developer](https://apps.apple.com/us/app/slingshot-effect/id1537916631)
 <!-- BLOG-POST-LIST:END -->
 
 ---
