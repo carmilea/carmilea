@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Chromium: Permit blocking of view-source: with URLBlocklist](https://chromium-review.googlesource.com/c/chromium/src/+/3260807)
 - [AirCover by Airbnb](https://www.airbnb.com/aircover)
+- [A no-go fantasy: writing Go in Ruby with Ruby Next](https://evilmartians.com/chronicles/a-no-go-fantasy-writing-go-in-ruby-with-ruby-next)
 - [raylib v4.0.0 Released](https://github.com/raysan5/raylib/releases/tag/4.0.0)
 - [Judge orders Apple to allow external payment options for App Store](https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules)
-- [Safari Ruined My Tuesday](https://fly.io/blog/how-safari-ruined-my-tuesday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
