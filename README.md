@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube makes dislike count private](https://blog.youtube/news-and-events/update-to-youtube/)
+- [Marketing sneakily affects our decision-making](https://memod.com/MrBusiness/how-does-marketing-affect-our-decision-making-629)
+- [Veterans use Apple technology to revolutionize trauma medicine](https://www.apple.com/newsroom/2021/11/veterans-use-apple-technology-to-revolutionize-trauma-medicine/)
 - [PcapPlusPlus v21.11 released – C++ library for analyzing network packets](https://github.com/seladb/PcapPlusPlus/releases/tag/v21.11)
 - [Emerge Tools &lpar;YC W21&rpar; is hiring to build the future of mobile performance](https://www.workatastartup.com/jobs/46779)
-- [Uncovering the secret offshore accounts of the global elite](https://www.newyorker.com/news/annals-of-inquiry/uncovering-the-secret-offshore-accounts-of-the-global-elite)
-- [Launch HN: Dendron &lpar;YC W21&rpar; – Structured note-taking for developers and teams](https://news.ycombinator.com/item?id=29176158)
-- [Uber, DoorDash and similar firms can’t defy the laws of capitalism after all](https://www.economist.com/business/uber-doordash-and-similar-firms-cant-defy-the-laws-of-capitalism-after-all/21806198)
 <!-- BLOG-POST-LIST:END -->
 
 ---
