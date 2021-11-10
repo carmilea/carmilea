@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thousands of vital phone boxes around the UK will be protected from closure](https://www.ofcom.org.uk/news-centre/2021/thousands-of-call-boxes-set-for-protection)
+- [Google sends anti-regulation propaganda to small businesses using Google Maps](https://arstechnica.com/gadgets/2021/11/google-sends-anti-regulation-propaganda-to-small-businesses-using-google-maps/)
+- [Atacama Desert: The Ancient, Alien Landscape of Northern Chile](https://allthatsinteresting.com/atacama-desert)
 - [Standard &lpar;YC S17&rpar; Is Hiring SREs and Rust Infra Engineers, US and Europe](https://careers.standard.ai/)
-- [Rows.com: Yahoo Pipes on Spreadsheets](https://rows.com/)
-- [PyGaze – open-source eye-tracking software and more](https://www.pygaze.org/)
-- [Will the climate crisis force America to reconsider nuclear power?](https://www.economist.com/united-states/will-the-climate-crisis-force-america-to-reconsider-nuclear-power/21806194)
-- [The Costs of Requiring Accounts](https://mako.cc/copyrighteous/the-hidden-costs-of-requiring-accounts)
+- [OpenBOR – 2D side scrolling engine for beat em&#39; ups, shooters, and more](https://github.com/DCurrent/openbor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
