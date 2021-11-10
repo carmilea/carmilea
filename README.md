@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Novi &lpar;FB Stablecoin USDP&rpar; Launched in US and Guatemala](https://news.ycombinator.com/item?id=29172391)
-- [Thousands of vital phone boxes around the UK will be protected from closure](https://www.ofcom.org.uk/news-centre/2021/thousands-of-call-boxes-set-for-protection)
 - [Google sends anti-regulation propaganda to small businesses using Google Maps](https://arstechnica.com/gadgets/2021/11/google-sends-anti-regulation-propaganda-to-small-businesses-using-google-maps/)
 - [Atacama Desert: The Ancient, Alien Landscape of Northern Chile](https://allthatsinteresting.com/atacama-desert)
+- [DoorDash Joins Forces with Wolt &lpar;€7.0B deal&rpar;](https://ir.doordash.com/news/news-details/2021/DoorDash-Joins-Forces-with-Wolt/default.aspx)
 - [Standard &lpar;YC S17&rpar; Is Hiring SREs and Rust Infra Engineers, US and Europe](https://careers.standard.ai/)
+- [OpenBOR – 2D side scrolling engine for beat em&#39; ups, shooters, and more](https://github.com/DCurrent/openbor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
