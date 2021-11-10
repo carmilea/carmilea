@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PcapPlusPlus v21.11 released – C++ library for analyzing network packets](https://github.com/seladb/PcapPlusPlus/releases/tag/v21.11)
+- [Emerge Tools &lpar;YC W21&rpar; is hiring to build the future of mobile performance](https://www.workatastartup.com/jobs/46779)
+- [Uncovering the secret offshore accounts of the global elite](https://www.newyorker.com/news/annals-of-inquiry/uncovering-the-secret-offshore-accounts-of-the-global-elite)
 - [Launch HN: Dendron &lpar;YC W21&rpar; – Structured note-taking for developers and teams](https://news.ycombinator.com/item?id=29176158)
-- [Image File Formats That Didn’t Make It](https://tedium.co/2021/11/10/10-forgotten-image-formats/)
 - [Uber, DoorDash and similar firms can’t defy the laws of capitalism after all](https://www.economist.com/business/uber-doordash-and-similar-firms-cant-defy-the-laws-of-capitalism-after-all/21806198)
-- [Google loses challenge against EU antitrust ruling, $2.8-bln fine](https://www.reuters.com/technology/eu-court-upholds-eu-antitrust-ruling-against-google-2021-11-10/)
-- [Tuvalu looking at legal ways to be a state if it is submerged](https://www.reuters.com/business/cop/tuvalu-looking-legal-ways-be-state-if-it-is-submerged-2021-11-09/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
