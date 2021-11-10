@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Standard &lpar;YC S17&rpar; Is Hiring SREs and Rust Infra Engineers, US and Europe](https://careers.standard.ai/)
+- [Rows.com: Yahoo Pipes on Spreadsheets](https://rows.com/)
 - [PyGaze – open-source eye-tracking software and more](https://www.pygaze.org/)
-- [Ask HN: How did Python become the lingua franca of ML/AI?](https://news.ycombinator.com/item?id=29171319)
+- [Will the climate crisis force America to reconsider nuclear power?](https://www.economist.com/united-states/will-the-climate-crisis-force-america-to-reconsider-nuclear-power/21806194)
 - [The Costs of Requiring Accounts](https://mako.cc/copyrighteous/the-hidden-costs-of-requiring-accounts)
-- [The Invisible JavaScript Backdoor](https://certitude.consulting/blog/en/invisible-backdoor/)
-- [AirCover by Airbnb](https://www.airbnb.com/aircover)
 <!-- BLOG-POST-LIST:END -->
 
 ---
