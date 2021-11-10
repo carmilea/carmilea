@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Tesorio &lpar;YC S15&rpar; is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - [Google Summer of Code in 2022 – No longer limited to students](https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html)
+- [The gradual extinction of softness](https://hippocampusmagazine.com/2021/11/the-gradual-extinction-of-softness-by-chantha-nguon-with-kim-green/)
 - [A Guide to Your 1816 Stagecoach Journey](https://about1816.wordpress.com/2021/11/09/a-regency-stagecoach-guide-part-one/)
 - [CIA and Gen Z](https://www.washingtonian.com/2021/11/09/how-gen-z-and-the-tiktok-generation-are-becoming-spies/)
-- [Methane Plume Seen by Satellite over Alabama Mystifies Experts](https://www.bloombergquint.com/business/methane-plume-seen-by-satellite-over-alabama-mystifies-experts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
