@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brain Implant Translates Paralyzed Man&#39;s Thoughts into Text with 94% Accuracy](https://www.sciencealert.com/brain-implant-enables-paralyzed-man-to-communicate-thoughts-via-imaginary-handwriting)
+- [The “Sold-Out” Effect](https://tips.ariyh.com/p/sold-out-effect)
 - [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [An original Apple-1 computer sells for $400k](https://www.npr.org/2021/11/09/1053895250/an-original-apple-1-computer-sells-for-400-000)
 - [Standardized Brain Molecular Atlas for Systems Modeling and Simulation](https://www.frontiersin.org/articles/10.3389/fnmol.2021.604559/full)
-- [Thousands of phone boxes around the UK will be protected from closure](https://www.ofcom.org.uk/news-centre/2021/thousands-of-call-boxes-set-for-protection)
-- [Google sends anti-regulation propaganda to small businesses using Google Maps](https://arstechnica.com/gadgets/2021/11/google-sends-anti-regulation-propaganda-to-small-businesses-using-google-maps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
