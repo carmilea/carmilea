@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube makes dislike count private](https://blog.youtube/news-and-events/update-to-youtube/)
-- [Marketing sneakily affects our decision-making](https://memod.com/MrBusiness/how-does-marketing-affect-our-decision-making-629)
+- [Justice Department Sues Uber for Overcharging People with Disabilities](https://www.justice.gov/opa/pr/justice-department-sues-uber-overcharging-people-disabilities)
+- [Hop: 25x faster than unzip and 10x faster than tar at reading individual files](https://github.com/Jarred-Sumner/hop)
+- [Evergrande teeters on edge of default as $148M payment falls due](https://www.reuters.com/business/investors-await-evergrandes-overdue-148-mln-payment-amid-contagion-fears-2021-11-09/)
+- [Making the dislike count private across YouTube](https://support.google.com/youtube/thread/134791097/update-to-youtube-dislike-counts?hl=en)
 - [Veterans use Apple technology to revolutionize trauma medicine](https://www.apple.com/newsroom/2021/11/veterans-use-apple-technology-to-revolutionize-trauma-medicine/)
-- [PcapPlusPlus v21.11 released – C++ library for analyzing network packets](https://github.com/seladb/PcapPlusPlus/releases/tag/v21.11)
-- [Emerge Tools &lpar;YC W21&rpar; is hiring to build the future of mobile performance](https://www.workatastartup.com/jobs/46779)
 <!-- BLOG-POST-LIST:END -->
 
 ---
