@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chromium: Permit blocking of view-source: with URLBlocklist](https://chromium-review.googlesource.com/c/chromium/src/+/3260807)
+- [AirCover by Airbnb](https://www.airbnb.com/aircover)
+- [raylib v4.0.0 Released](https://github.com/raysan5/raylib/releases/tag/4.0.0)
 - [Judge orders Apple to allow external payment options for App Store](https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules)
 - [Safari Ruined My Tuesday](https://fly.io/blog/how-safari-ruined-my-tuesday/)
-- [Why Python needs to be paused during profiling – but Ruby doesn&#39;t always](https://www.benfrederickson.com/why-python-needs-paused-during-profiling/)
-- [Corrily &lpar;YC W21&rpar; Is Hiring a Senior Back-End Engineer](https://corrily.crew.work/jobs/61813ccf6fe1e5d3f8686048)
-- [The Question We’ve Stopped Asking About Teen-Agers and Social Media](https://www.newyorker.com/culture/office-space/the-question-weve-stopped-asking-about-teen-agers-and-social-media)
 <!-- BLOG-POST-LIST:END -->
 
 ---
