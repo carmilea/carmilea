@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacking the Sony Playstation 5](https://www.schneier.com/blog/archives/2021/11/hacking-the-sony-playstation-5.html)
 - [Brain Implant Translates Paralyzed Man&#39;s Thoughts into Text with 94% Accuracy](https://www.sciencealert.com/brain-implant-enables-paralyzed-man-to-communicate-thoughts-via-imaginary-handwriting)
 - [The “Sold-Out” Effect](https://tips.ariyh.com/p/sold-out-effect)
+- [AMD Gives Details on EPYC Zen4: Genoa and Bergamo, Up to 96 and 128 Cores](https://www.anandtech.com/show/17055/amd-gives-details-on-epyc-zen4-genoa-and-bergamo-up-to-96-and-128-cores)
 - [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [An original Apple-1 computer sells for $400k](https://www.npr.org/2021/11/09/1053895250/an-original-apple-1-computer-sells-for-400-000)
-- [Standardized Brain Molecular Atlas for Systems Modeling and Simulation](https://www.frontiersin.org/articles/10.3389/fnmol.2021.604559/full)
 <!-- BLOG-POST-LIST:END -->
 
 ---
