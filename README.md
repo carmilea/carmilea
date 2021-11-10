@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make a CPU – A Simple Picture Based Explanation](https://blog.robertelder.org/how-to-make-a-cpu/)
-- [Apple Business Essentials](https://www.apple.com/business/essentials/)
-- [Astrophysicists unveil glut of gravitational-wave detections](https://www.nature.com/articles/d41586-021-03089-y)
-- [M1 Pro and M1 Max MacBook Pro Crash When Playing HDR YouTube Videos](https://www.macrumors.com/2021/11/05/m1-pro-max-youtube-hdr-crashes/)
-- [US inflation jumps to 31-year high amid global supply chain crisis](https://www.theguardian.com/business/live/2021/nov/10/inflation-picks-up-china-germany-oil-prices-surge-stocks-retreat-business-live)
+- [Launch HN: Dendron &lpar;YC W21&rpar; – Structured note-taking for developers and teams](https://news.ycombinator.com/item?id=29176158)
+- [Image File Formats That Didn’t Make It](https://tedium.co/2021/11/10/10-forgotten-image-formats/)
+- [Uber, DoorDash and similar firms can’t defy the laws of capitalism after all](https://www.economist.com/business/uber-doordash-and-similar-firms-cant-defy-the-laws-of-capitalism-after-all/21806198)
+- [Google loses challenge against EU antitrust ruling, $2.8-bln fine](https://www.reuters.com/technology/eu-court-upholds-eu-antitrust-ruling-against-google-2021-11-10/)
+- [Tuvalu looking at legal ways to be a state if it is submerged](https://www.reuters.com/business/cop/tuvalu-looking-legal-ways-be-state-if-it-is-submerged-2021-11-09/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
