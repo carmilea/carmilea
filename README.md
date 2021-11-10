@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking the Sony Playstation 5](https://www.schneier.com/blog/archives/2021/11/hacking-the-sony-playstation-5.html)
-- [Brain Implant Translates Paralyzed Man&#39;s Thoughts into Text with 94% Accuracy](https://www.sciencealert.com/brain-implant-enables-paralyzed-man-to-communicate-thoughts-via-imaginary-handwriting)
-- [The “Sold-Out” Effect](https://tips.ariyh.com/p/sold-out-effect)
-- [AMD Gives Details on EPYC Zen4: Genoa and Bergamo, Up to 96 and 128 Cores](https://www.anandtech.com/show/17055/amd-gives-details-on-epyc-zen4-genoa-and-bergamo-up-to-96-and-128-cores)
-- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [How to Make a CPU – A Simple Picture Based Explanation](https://blog.robertelder.org/how-to-make-a-cpu/)
+- [Apple Business Essentials](https://www.apple.com/business/essentials/)
+- [Astrophysicists unveil glut of gravitational-wave detections](https://www.nature.com/articles/d41586-021-03089-y)
+- [M1 Pro and M1 Max MacBook Pro Crash When Playing HDR YouTube Videos](https://www.macrumors.com/2021/11/05/m1-pro-max-youtube-hdr-crashes/)
+- [US inflation jumps to 31-year high amid global supply chain crisis](https://www.theguardian.com/business/live/2021/nov/10/inflation-picks-up-china-germany-oil-prices-surge-stocks-retreat-business-live)
 <!-- BLOG-POST-LIST:END -->
 
 ---
