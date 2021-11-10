@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chromium: Permit blocking of view-source: with URLBlocklist](https://chromium-review.googlesource.com/c/chromium/src/+/3260807)
+- [PyGaze – open-source eye-tracking software and more](https://www.pygaze.org/)
+- [Ask HN: How did Python become the lingua franca of ML/AI?](https://news.ycombinator.com/item?id=29171319)
+- [The Costs of Requiring Accounts](https://mako.cc/copyrighteous/the-hidden-costs-of-requiring-accounts)
+- [The Invisible JavaScript Backdoor](https://certitude.consulting/blog/en/invisible-backdoor/)
 - [AirCover by Airbnb](https://www.airbnb.com/aircover)
-- [A no-go fantasy: writing Go in Ruby with Ruby Next](https://evilmartians.com/chronicles/a-no-go-fantasy-writing-go-in-ruby-with-ruby-next)
-- [raylib v4.0.0 Released](https://github.com/raysan5/raylib/releases/tag/4.0.0)
-- [Judge orders Apple to allow external payment options for App Store](https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules)
 <!-- BLOG-POST-LIST:END -->
 
 ---
