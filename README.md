@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hardening ELF Binaries Using Relocation Read-Only &lpar;Relro&rpar;](https://www.redhat.com/en/blog/hardening-elf-binaries-using-relocation-read-only-relro)
+- [I&#39;m “still afraid to use spaces in file names” years old](https://twitter.com/TheIdOfAlan/status/1458117496087748618)
 - [American spy hacked Booking.com, company stayed silent](https://www.nrc.nl/nieuws/2021/11/10/american-spy-hacked-bookingcom-company-stayed-silent-a4065086)
 - [Our World in Data &lpar;YC W19&rpar; Is Hiring Engineers &lpar;Data and Full-Stack&rpar;](https://ourworldindata.org/jobs)
-- [Inflation surges to its highest since 1990](https://www.npr.org/2021/11/10/1054019175/inflation-surges-to-its-highest-since-1990)
 - [Richard “Lowtax” Kyanka, creator of Somethingawful dies](https://forums.somethingawful.com/showthread.php?threadid=3984488)
-- [Chu Spaces: A Visual Introduction](http://adelelopez.com/chu-are-you)
 <!-- BLOG-POST-LIST:END -->
 
 ---
