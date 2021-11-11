@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflections on E-Bikes](https://ebikes.neighbor-ryan.org/reflections)
+- [Chu Spaces: A Visual Introduction](http://adelelopez.com/chu-are-you)
+- [ASCII Video Player](https://pessimistress.github.io/ascii/)
 - [Crystal 1.2.2 Is Released](https://crystal-lang.org/2021/11/10/1.2.2-released.html)
-- [Firefox is the 45th result when searching for “Firefox” on Windows Store](https://old.reddit.com/r/firefox/comments/qq94ah/firefox_is_the_45_result_when_searching_for/)
 - [Types and Programming Languages &lpar;2002&rpar;](https://mitpress.mit.edu/books/types-and-programming-languages)
-- [Right-to-Repair causes Subaru to disable telematics in Massachusetts](https://www.thetruthaboutcars.com/2021/11/right-to-repair-victory-forces-subaru-to-tweak-things-in-massachusetts/)
-- [Trivy: A scanner for vulnerabilities in containers, file systems, and Git repos](https://github.com/aquasecurity/trivy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
