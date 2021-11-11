@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Caffeine Intake Induces Concentration and reduce human gray matter volume](https://academic.oup.com/cercor/advance-article-abstract/doi/10.1093/cercor/bhab005/6135013?redirectedFrom=fulltext)
+- [Apple&#39;s early success stemmed from a tiny 20kb computer program they didn&#39;t make](https://www.stackbit.com/blog/story-of-visicalc/)
+- [Copy This Book. An artist’s guide to copyright](https://copy-this-book.eu/)
+- [Trains could replace planes in Europe](https://www.economist.com/europe/2021/11/11/how-trains-could-replace-planes-in-europe)
+- [Faculty reflect on two decades of rapid expansion](https://yaledailynews.com/blog/2021/11/10/reluctance-on-the-part-of-its-leadership-to-lead-yales-administration-increases-by-nearly-50-percent/)
 - [ReadMe &lpar;YC W15&rpar; is hiring a Demand Gen Marketer who loves developers](https://readme.com/careers#demand-generation-manager)
-- [Canonical Multipass – Ubuntu VMs on demand for any workstation](https://multipass.run/)
-- [Utterances – a lightweight comments widget built on GitHub issues](https://utteranc.es)
-- [Experimenting with Programmatic SEO](https://allisonseboldt.com/experimenting-with-programmatic-seo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
