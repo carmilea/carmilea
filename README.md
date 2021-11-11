@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Querying AWS at scale across APIs, regions, and accounts](https://aws.amazon.com/blogs/opensource/querying-aws-at-scale-across-apis-regions-and-accounts/)
-- [Windows 11 blocks Edge browser competitors from opening links](https://www.ctrl.blog/entry/microsoft-edge-protocol-competition.html)
-- [HR5874: Restoring Software Patents in the US](https://patentlyo.com/patent/2021/11/restoring-leadership-innovation.html)
-- [Hiding in Plain Sight](https://www.paradigm.xyz/2021/11/hiding-in-plain-sight/)
-- [Copy This Book. An artist’s guide to copyright](https://copy-this-book.eu/)
+- [Rust Is the Future of JavaScript Infrastructure](https://leerob.io/blog/rust)
+- [Open Source Brain Computer Interface](https://github.com/Ildaron/ironbci)
+- [“We can’t get any more of our current CPU for 730 days.”](https://arstechnica.com/gaming/2021/11/playdate-delays-to-2022-amid-scramble-to-revise-the-entire-handheld-console/)
+- [3D-printable mirror array capable of reflecting light into arbitrary patterns](https://github.com/bencbartlett/3D-printed-mirror-array)
+- [New method shows today’s warming ‘unprecedented’ over past 24,000 years](https://www.washington.edu/news/2021/11/10/new-method-shows-todays-warming-unprecedented-over-past-24000-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
