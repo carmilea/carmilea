@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CareRev &lpar;YC S16&rpar; hiring engineers to transform the future of work in healthcare](https://grnh.se/072b12f63us)
-- [Is there a homelessness crisis?](https://dynomight.net/homeless-crisis/)
+- [Breakdown of data on homeless populations across the U.S.](https://dynomight.net/homeless-crisis/)
 - [Rust Is the Future of JavaScript Infrastructure](https://leerob.io/blog/rust)
 - [Ironbci: Open-Source Brain Computer Interface](https://github.com/Ildaron/ironbci)
 - [3D printed mirror array](https://github.com/bencbartlett/3D-printed-mirror-array)
