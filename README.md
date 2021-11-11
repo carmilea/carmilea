@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What do you think about the no-code movement?](https://news.ycombinator.com/item?id=29188355)
-- [Drunken-Driving Warning Systems Would Be Required for New Cars Under U.S. Bill](https://www.nytimes.com/2021/11/10/us/drunk-driving-system-mandate.html)
-- [Advice for Personal Digital Security](https://www.schneier.com/blog/archives/2021/11/advice-for-personal-digital-security.html)
-- [Microsoft Benchmarks Upcoming AMD Milan-X CPU](https://techcommunity.microsoft.com/t5/azure-compute/performance-amp-scalability-of-hbv3-vms-with-milan-x-cpus/ba-p/2939814)
-- [Rittenhouse lawyer claims iPad pinch-to-zoom uses AI to fake video footage](https://9to5mac.com/2021/11/11/rittenhouse-lawyer-pinch-to-zoom/)
+- [Godot Engine receives $100k donation from OP Games](https://godotengine.org/article/godot-engine-donation-opgames)
+- [The burgeoning business of OnlyFans consulting](https://thehustle.co/the-burgeoning-business-of-onlyfans-consulting/)
+- [Risk of dementia linked to diet low in fruits, vegetables, beans, tea: study](https://www.aan.com/PressRoom/Home/PressRelease/4935)
+- [Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS](https://www.intruder.io/research/practical-http-header-smuggling)
+- [Rich Harris joins Vercel to work on Svelte full time](https://twitter.com/Rich_Harris/status/1458822051263823875)
 <!-- BLOG-POST-LIST:END -->
 
 ---
