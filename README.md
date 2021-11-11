@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Godot Engine receives $100k donation from OP Games](https://godotengine.org/article/godot-engine-donation-opgames)
-- [The burgeoning business of OnlyFans consulting](https://thehustle.co/the-burgeoning-business-of-onlyfans-consulting/)
-- [Risk of dementia linked to diet low in fruits, vegetables, beans, tea: study](https://www.aan.com/PressRoom/Home/PressRelease/4935)
-- [Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS](https://www.intruder.io/research/practical-http-header-smuggling)
-- [Rich Harris joins Vercel to work on Svelte full time](https://twitter.com/Rich_Harris/status/1458822051263823875)
+- [Daily Caffeine Intake Induces Concentration and reduce human gray matter volume](https://academic.oup.com/cercor/advance-article-abstract/doi/10.1093/cercor/bhab005/6135013?redirectedFrom=fulltext)
+- [ReadMe &lpar;YC W15&rpar; is hiring a Demand Gen Marketer who loves developers](https://readme.com/careers#demand-generation-manager)
+- [Canonical Multipass – Ubuntu VMs on demand for any workstation](https://multipass.run/)
+- [Utterances – a lightweight comments widget built on GitHub issues](https://utteranc.es)
+- [Experimenting with Programmatic SEO](https://allisonseboldt.com/experimenting-with-programmatic-seo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
