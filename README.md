@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crystal 1.2.2 Is Released](https://crystal-lang.org/2021/11/10/1.2.2-released.html)
 - [Firefox is the 45th result when searching for “Firefox” on Windows Store](https://old.reddit.com/r/firefox/comments/qq94ah/firefox_is_the_45_result_when_searching_for/)
 - [Types and Programming Languages &lpar;2002&rpar;](https://mitpress.mit.edu/books/types-and-programming-languages)
 - [Right-to-Repair causes Subaru to disable telematics in Massachusetts](https://www.thetruthaboutcars.com/2021/11/right-to-repair-victory-forces-subaru-to-tweak-things-in-massachusetts/)
-- [As Ds and Fs soar, schools ditch inequitable grade systems](https://www.latimes.com/california/story/2021-11-08/as-ds-and-fs-soar-schools-ditch-inequitable-grade-systems)
-- [WhatsApp end-to-end encrypted backups security assessment](https://research.nccgroup.com/2021/10/27/public-report-whatsapp-end-to-end-encrypted-backups-security-assessment/)
+- [Trivy: A scanner for vulnerabilities in containers, file systems, and Git repos](https://github.com/aquasecurity/trivy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
