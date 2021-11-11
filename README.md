@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome team just landed a patch that lets sites block “View Source”](https://mastodon.social/@mhoye/107254323194914300)
+- [An Engineer&#39;s View of Venture Capitalists &lpar;2001&rpar;](https://spectrum.ieee.org/an-engineers-view-of-venture-capitalists)
+- [SpaceX is beginning to get the hang of human spaceflight](https://arstechnica.com/science/2021/11/spacex-is-beginning-to-get-the-hang-of-human-spaceflight/)
 - [Haskell IHP Framework, from a Technical and Business Perspective](https://www.gizra.com/content/haskell-ihp/)
 - [Siemens LOGO PLC turns 25](https://ingenuity.siemens.com/2021/11/the-people-behind-25-years-of-logo-helmut-schindler/)
-- [Two Bitcoin mining companies are battling it out in a Texas town](https://www.cnbc.com/2021/10/31/bitcoin-mining-giants-bitdeer-riot-blockchain-in-rockdale-texas.html)
 - [No-Code Self-Service BI/Data Analytics Tool](https://tablum.io)
 <!-- BLOG-POST-LIST:END -->
 
