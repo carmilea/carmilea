@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple&#39;s early success stemmed from a tiny 20kb computer program they didn&#39;t make](https://www.stackbit.com/blog/story-of-visicalc/)
+- [Querying AWS at scale across APIs, regions, and accounts](https://aws.amazon.com/blogs/opensource/querying-aws-at-scale-across-apis-regions-and-accounts/)
+- [Windows 11 blocks Edge browser competitors from opening links](https://www.ctrl.blog/entry/microsoft-edge-protocol-competition.html)
+- [HR5874: Restoring Software Patents in the US](https://patentlyo.com/patent/2021/11/restoring-leadership-innovation.html)
+- [Hiding in Plain Sight](https://www.paradigm.xyz/2021/11/hiding-in-plain-sight/)
 - [Copy This Book. An artist’s guide to copyright](https://copy-this-book.eu/)
-- [Trains could replace planes in Europe](https://www.economist.com/europe/2021/11/11/how-trains-could-replace-planes-in-europe)
-- [Faculty reflect on two decades of rapid expansion](https://yaledailynews.com/blog/2021/11/10/reluctance-on-the-part-of-its-leadership-to-lead-yales-administration-increases-by-nearly-50-percent/)
-- [ReadMe &lpar;YC W15&rpar; is hiring a Demand Gen Marketer who loves developers](https://readme.com/careers#demand-generation-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
