@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflections on E-Bikes](https://ebikes.neighbor-ryan.org/reflections)
 - [Chu Spaces: A Visual Introduction](http://adelelopez.com/chu-are-you)
 - [ASCII Video Player](https://pessimistress.github.io/ascii/)
 - [Crystal 1.2.2 Is Released](https://crystal-lang.org/2021/11/10/1.2.2-released.html)
 - [Types and Programming Languages &lpar;2002&rpar;](https://mitpress.mit.edu/books/types-and-programming-languages)
+- [Faced with soaring Ds and Fs, schools are ditching the old way of grading](https://www.latimes.com/california/story/2021-11-08/as-ds-and-fs-soar-schools-ditch-inequitable-grade-systems)
 <!-- BLOG-POST-LIST:END -->
 
 ---
