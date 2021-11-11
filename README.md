@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MagicBell &lpar;YC W21&rpar; Is Hiring a Founding Product Designer](https://boards.eu.greenhouse.io/magicbell/jobs/4005576101?gh_src=c51757b2teu)
-- [Moon’s top layer has enough oxygen to sustain 8B people for 100k years](https://theconversation.com/the-moons-top-layer-alone-has-enough-oxygen-to-sustain-8-billion-people-for-100-000-years-170013)
-- [Hardening ELF Binaries Using Relocation Read-Only &lpar;Relro&rpar;](https://www.redhat.com/en/blog/hardening-elf-binaries-using-relocation-read-only-relro)
-- [What Norwegians are learning as they pioneer autonomous ships](https://www.computerweekly.com/feature/What-Norwegians-are-learning-as-they-pioneer-autonomous-ships)
-- [American spy hacked Booking.com, company stayed silent](https://www.nrc.nl/nieuws/2021/11/10/american-spy-hacked-bookingcom-company-stayed-silent-a4065086)
+- [Chrome team just landed a patch that lets sites block “View Source”](https://mastodon.social/@mhoye/107254323194914300)
+- [Haskell IHP Framework, from a Technical and Business Perspective](https://www.gizra.com/content/haskell-ihp/)
+- [Siemens LOGO PLC turns 25](https://ingenuity.siemens.com/2021/11/the-people-behind-25-years-of-logo-helmut-schindler/)
+- [Two Bitcoin mining companies are battling it out in a Texas town](https://www.cnbc.com/2021/10/31/bitcoin-mining-giants-bitdeer-riot-blockchain-in-rockdale-texas.html)
+- [No-Code Self-Service BI/Data Analytics Tool](https://tablum.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
