@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lightsail Containers: An Easy Way to Run Your Containers in the Cloud &lpar;2020&rpar;](https://aws.amazon.com/blogs/aws/lightsail-containers-an-easy-way-to-run-your-containers-in-the-cloud/)
+- [Art Bell Back in Time Podcast](https://podcasts.apple.com/us/podcast/art-bell-back-in-time/id1496623191)
+- [Nukemap](https://nuclearsecrecy.com/nukemap/?&kt=1000&lat=38.8946925&lng=-77.0218993&hob_psi=5&hob_ft=10245&ff=50&psi=20,5,1&zm=11)
 - [CareRev &lpar;YC S16&rpar; hiring engineers to transform the future of work in healthcare](https://grnh.se/072b12f63us)
 - [Breakdown of data on homeless populations across the U.S.](https://dynomight.net/homeless-crisis/)
-- [Rust Is the Future of JavaScript Infrastructure](https://leerob.io/blog/rust)
-- [Ironbci: Open-Source Brain Computer Interface](https://github.com/Ildaron/ironbci)
-- [3D printed mirror array](https://github.com/bencbartlett/3D-printed-mirror-array)
 <!-- BLOG-POST-LIST:END -->
 
 ---
