@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CareRev &lpar;YC S16&rpar; hiring engineers to transform the future of work in healthcare](https://grnh.se/072b12f63us)
+- [Is there a homelessness crisis?](https://dynomight.net/homeless-crisis/)
 - [Rust Is the Future of JavaScript Infrastructure](https://leerob.io/blog/rust)
-- [Open Source Brain Computer Interface](https://github.com/Ildaron/ironbci)
-- [“We can’t get any more of our current CPU for 730 days.”](https://arstechnica.com/gaming/2021/11/playdate-delays-to-2022-amid-scramble-to-revise-the-entire-handheld-console/)
-- [3D-printable mirror array capable of reflecting light into arbitrary patterns](https://github.com/bencbartlett/3D-printed-mirror-array)
-- [New method shows today’s warming ‘unprecedented’ over past 24,000 years](https://www.washington.edu/news/2021/11/10/new-method-shows-todays-warming-unprecedented-over-past-24000-years/)
+- [Ironbci: Open-Source Brain Computer Interface](https://github.com/Ildaron/ironbci)
+- [3D printed mirror array](https://github.com/bencbartlett/3D-printed-mirror-array)
 <!-- BLOG-POST-LIST:END -->
 
 ---
