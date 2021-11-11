@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Engineer&#39;s View of Venture Capitalists &lpar;2001&rpar;](https://spectrum.ieee.org/an-engineers-view-of-venture-capitalists)
-- [SpaceX is beginning to get the hang of human spaceflight](https://arstechnica.com/science/2021/11/spacex-is-beginning-to-get-the-hang-of-human-spaceflight/)
-- [Haskell IHP Framework, from a Technical and Business Perspective](https://www.gizra.com/content/haskell-ihp/)
-- [Siemens LOGO PLC turns 25](https://ingenuity.siemens.com/2021/11/the-people-behind-25-years-of-logo-helmut-schindler/)
-- [No-Code Self-Service BI/Data Analytics Tool](https://tablum.io)
+- [Ask HN: What do you think about the no-code movement?](https://news.ycombinator.com/item?id=29188355)
+- [Drunken-Driving Warning Systems Would Be Required for New Cars Under U.S. Bill](https://www.nytimes.com/2021/11/10/us/drunk-driving-system-mandate.html)
+- [Advice for Personal Digital Security](https://www.schneier.com/blog/archives/2021/11/advice-for-personal-digital-security.html)
+- [Microsoft Benchmarks Upcoming AMD Milan-X CPU](https://techcommunity.microsoft.com/t5/azure-compute/performance-amp-scalability-of-hbv3-vms-with-milan-x-cpus/ba-p/2939814)
+- [Rittenhouse lawyer claims iPad pinch-to-zoom uses AI to fake video footage](https://9to5mac.com/2021/11/11/rittenhouse-lawyer-pinch-to-zoom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
