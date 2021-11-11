@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MagicBell &lpar;YC W21&rpar; Is Hiring a Founding Product Designer](https://boards.eu.greenhouse.io/magicbell/jobs/4005576101?gh_src=c51757b2teu)
 - [Moon’s top layer has enough oxygen to sustain 8B people for 100k years](https://theconversation.com/the-moons-top-layer-alone-has-enough-oxygen-to-sustain-8-billion-people-for-100-000-years-170013)
 - [Hardening ELF Binaries Using Relocation Read-Only &lpar;Relro&rpar;](https://www.redhat.com/en/blog/hardening-elf-binaries-using-relocation-read-only-relro)
 - [What Norwegians are learning as they pioneer autonomous ships](https://www.computerweekly.com/feature/What-Norwegians-are-learning-as-they-pioneer-autonomous-ships)
 - [American spy hacked Booking.com, company stayed silent](https://www.nrc.nl/nieuws/2021/11/10/american-spy-hacked-bookingcom-company-stayed-silent-a4065086)
-- [Our World in Data &lpar;YC W19&rpar; Is Hiring Engineers &lpar;Data and Full-Stack&rpar;](https://ourworldindata.org/jobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
