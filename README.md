@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nuclear Radiation Used To Transmit Digital Data Wirelessly With Californium-252](https://www.lancaster.ac.uk/news/nuclear-radiation-used-to-transmit-digital-data-wirelessly)
+- [tex.web – Version 3.141592653](https://ctan.math.utah.edu/ctan/tex-archive/systems/knuth/dist/tex/tex.web)
+- [Aliens Might Just Be Too Far Away](https://nav.al/far-away)
 - [Why Lisp?](https://atlas.engineer/technical-article/why-lisp.org)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring API Engineers](https://www.easypost.com/careers)
-- [Beware of Fast-Math](https://simonbyrne.github.io/notes/fastmath/)
-- [Portugal bans bosses texting staff after-hours](https://www.bbc.co.uk/news/business-59263300)
-- [Scalable PostgreSQL Connection Pooler](https://github.com/yandex/odyssey)
 <!-- BLOG-POST-LIST:END -->
 
 ---
