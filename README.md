@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google reorg moves AR, VR, Starline and Area 120 into new ‘Labs’ team](https://techcrunch.com/2021/11/11/google-reorg-moves-ar-vr-starline-and-area-120-into-new-labs-team-reporting-directly-to-sundar-pichai/)
 - [Useful sed scripts and patterns for day to day usage](https://github.com/adrianscheff/useful-sed)
 - [Amazon abandons package bin at apartment building, refuses to retrieve it](https://www.cambridgeday.com/2021/11/11/with-30-packages-dumped-in-the-wrong-lobby-resident-tried-harder-to-correct-it-than-amazon/)
 - [New – EC2 Instances &lpar;G5&rpar; with Nvidia A10G Tensor Core GPUs](https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/)
 - [Async Cancellation](https://blog.yoshuawuyts.com/async-cancellation-1/)
-- [Talyn Air &lpar;YC W20&rpar; Is Hiring](https://www.ycombinator.com/companies/talyn-air/jobs/DuvnNrk-flight-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
