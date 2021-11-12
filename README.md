@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Talyn Air &lpar;YC W20&rpar; Is Hiring](https://www.ycombinator.com/companies/talyn-air/jobs/DuvnNrk-flight-software-engineer)
 - [Lightsail Containers: An Easy Way to Run Your Containers in the Cloud &lpar;2020&rpar;](https://aws.amazon.com/blogs/aws/lightsail-containers-an-easy-way-to-run-your-containers-in-the-cloud/)
-- [Art Bell Back in Time Podcast](https://podcasts.apple.com/us/podcast/art-bell-back-in-time/id1496623191)
-- [Nukemap](https://nuclearsecrecy.com/nukemap/?&kt=1000&lat=38.8946925&lng=-77.0218993&hob_psi=5&hob_ft=10245&ff=50&psi=20,5,1&zm=11)
-- [CareRev &lpar;YC S16&rpar; hiring engineers to transform the future of work in healthcare](https://grnh.se/072b12f63us)
+- [Art Bell Back in Time](https://podcasts.apple.com/us/podcast/art-bell-back-in-time/id1496623191)
+- [I&#39;m Not a Woman in Tech &lpar;2017&rpar;](https://communequation.wordpress.com/2017/07/05/im-not-a-woman-in-tech/)
 - [Breakdown of data on homeless populations across the U.S.](https://dynomight.net/homeless-crisis/)
 <!-- BLOG-POST-LIST:END -->
 
