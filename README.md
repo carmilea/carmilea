@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon recruiter invites CTO of Azure to apply for SDE II](https://twitter.com/markrussinovich/status/1458485897683353601)
+- [Why Zillow Couldn’t Make Algorithmic House Pricing Work](https://www.wired.com/story/zillow-ibuyer-real-estate/)
+- [Async Cancellation](https://blog.yoshuawuyts.com/async-cancellation-1/)
 - [Talyn Air &lpar;YC W20&rpar; Is Hiring](https://www.ycombinator.com/companies/talyn-air/jobs/DuvnNrk-flight-software-engineer)
-- [Lightsail Containers: An Easy Way to Run Your Containers in the Cloud &lpar;2020&rpar;](https://aws.amazon.com/blogs/aws/lightsail-containers-an-easy-way-to-run-your-containers-in-the-cloud/)
-- [Art Bell Back in Time](https://podcasts.apple.com/us/podcast/art-bell-back-in-time/id1496623191)
-- [I&#39;m Not a Woman in Tech &lpar;2017&rpar;](https://communequation.wordpress.com/2017/07/05/im-not-a-woman-in-tech/)
-- [Breakdown of data on homeless populations across the U.S.](https://dynomight.net/homeless-crisis/)
+- [The Rust compiler has gotten faster again](https://nnethercote.github.io/2021/11/12/the-rust-compiler-has-gotten-faster-again.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
