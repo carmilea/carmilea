@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [There’s a Queue Coming for Tesla Charging, and That’s OK](https://spectrum.ieee.org/universal-tesla-supercharger-network)
-- [Programming with Something](https://tomstu.art/programming-with-something)
-- [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=29200687)
-- [What Is the Metaverse?](https://www.kanaandkatana.com/blog/what-is-the-metaverse)
-- [How do people resist Covid infections? Hospital workers offer a hint](https://www.nature.com/articles/d41586-021-03110-4)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring API Engineers](https://www.easypost.com/careers)
+- [Beware of Fast-Math](https://simonbyrne.github.io/notes/fastmath/)
+- [Portugal bans bosses texting staff after-hours](https://www.bbc.co.uk/news/business-59263300)
+- [Microsoft to Block Windows 11 Browser Workarounds](https://www.thurrott.com/windows/windows-11/259208/windows-11-to-block-windows-11-browser-workarounds)
+- [Scalable PostgreSQL Connection Pooler](https://github.com/yandex/odyssey)
 <!-- BLOG-POST-LIST:END -->
 
 ---
