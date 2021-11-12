@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio &lpar;YC S20&rpar; is hiring founding engineers](https://skio.com/careers)
+- [How many people have Q Clearance?](http://blog.nuclearsecrecy.com/2021/11/12/how-many-people-have-q-clearance/)
+- [All adults can get a Covid vaccine booster in CA, not just those CDC listed](https://www.npr.org/2021/11/11/1054851431/california-adults-covid-vaccine-booster)
+- [SDL gets an Epic MegaGrant to work on next-gen Vulkan API](https://www.patreon.com/posts/new-project-top-58563886)
 - [Show HN: Lifeee – Conway’s Game of Life with an infinite zoomable grid](https://lifeee.netlify.app/)
-- [It&#39;s probably time to stop recommending Clean Code](https://qntm.org/clean)
-- [Nuclear Radiation Used To Transmit Digital Data Wirelessly With Californium-252](https://www.lancaster.ac.uk/news/nuclear-radiation-used-to-transmit-digital-data-wirelessly)
-- [tex.web – Version 3.141592653](https://ctan.math.utah.edu/ctan/tex-archive/systems/knuth/dist/tex/tex.web)
-- [Why Lisp?](https://atlas.engineer/technical-article/why-lisp.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
