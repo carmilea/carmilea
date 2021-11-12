@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Lifeee – Conway’s Game of Life with an infinite zoomable grid](https://lifeee.netlify.app/)
+- [It&#39;s probably time to stop recommending Clean Code](https://qntm.org/clean)
 - [Nuclear Radiation Used To Transmit Digital Data Wirelessly With Californium-252](https://www.lancaster.ac.uk/news/nuclear-radiation-used-to-transmit-digital-data-wirelessly)
 - [tex.web – Version 3.141592653](https://ctan.math.utah.edu/ctan/tex-archive/systems/knuth/dist/tex/tex.web)
-- [Aliens Might Just Be Too Far Away](https://nav.al/far-away)
 - [Why Lisp?](https://atlas.engineer/technical-article/why-lisp.org)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring API Engineers](https://www.easypost.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
