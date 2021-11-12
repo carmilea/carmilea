@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [M1 Pro 14“ MacBook Pro Running KDE Plasma 5 on Arch Linux ARM](https://twitter.com/marcan42/status/1458473546225577987)
-- [Google down in the Netherlands? &lpar;Google Public DNS issues? 8.8.8.8&rpar;](https://outage.report/google)
-- [Boeing admits full responsibility for 737 Max plane crash in Ethiopia](https://www.theguardian.com/business/2021/nov/11/boeing-full-responsibility-737-max-plane-crash-ethiopia-compensation)
-- [ISO should make all standards Publicly Available](https://docs.google.com/document/d/12Gmy2s4Nmkw6VDv2B6b5K1DLYhPrTUqSntrlmYzJpNw/edit)
-- [Finley &lpar;YC W21&rpar; is hiring engineers to rethink capital markets](https://www.finleycms.com/careers/)
+- [Webamp IPFS media player; sample hash included;&rpar;](https://webamp-ipfs.netlify.app/Qmevni3vjqGiSAd7DE7kDhPXAqLNED2zUwJ5XaLyhc7rwK)
+- [Try charging on the right and not on the left](https://apple.stackexchange.com/questions/363337/how-to-find-cause-of-high-kernel-task-cpu-usage)
+- [Google Outage in Europe](https://www.google.com/appsstatus/dashboard/)
+- [Tips for Making a Popular Open-Source Project in 2021 [Ultimate Guide]](https://skerritt.blog/make-popular-open-source-projects/)
+- [Incident Affecting Google Cloud Infrastructure Components](https://status.cloud.google.com/incidents/1xkAB1KmLrh5g3v9ZEZ7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
