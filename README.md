@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Working on Indexing Instagram and TikTok Videos](https://www.searchenginejournal.com/google-working-on-indexing-instagram-tiktok-videos/421018/)
+- [Rules of static linking: libstdc++, Libc, libgcc &lpar;2012&rpar;](https://micro.nicholaswilson.me.uk/post/31855915892/rules-of-static-linking-libstdc-libc-libgcc)
+- [How to invest without knowing the future](https://compoundadvisors.com/2021/how-to-invest-without-knowing-the-future)
 - [How to Use OAuth to Add Authentication to Your React App](https://fusionauth.io/blog/2021/11/11/how-to-authenticate-your-react-app/)
 - [Capturing and Decrypting HTTPS Traffic from iOS Apps Using Frida &lpar;2019&rpar;](https://andydavies.me/blog/2019/12/12/capturing-and-decrypting-https-traffic-from-ios-apps/)
-- [Searx: Moving Away from DuckDuckGo](https://sagrista.info/../../../blog/2021/searx-or-duckduckgo/)
-- [Pachyderm is hiring a DevRel Lead to be the voice of our OSS community](https://www.pachyderm.com/careers/#positions)
+- [Searx – Privacy-respecting metasearch engine](https://sagrista.info/../../../blog/2021/searx-or-duckduckgo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
