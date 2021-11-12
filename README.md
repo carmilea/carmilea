@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google.com Down in the Netherlands](https://outage.report/google)
+- [M1 Pro 14“ MacBook Pro Running KDE Plasma 5 on Arch Linux ARM](https://twitter.com/marcan42/status/1458473546225577987)
+- [Google down in the Netherlands? &lpar;Google Public DNS issues? 8.8.8.8&rpar;](https://outage.report/google)
 - [Boeing admits full responsibility for 737 Max plane crash in Ethiopia](https://www.theguardian.com/business/2021/nov/11/boeing-full-responsibility-737-max-plane-crash-ethiopia-compensation)
 - [ISO should make all standards Publicly Available](https://docs.google.com/document/d/12Gmy2s4Nmkw6VDv2B6b5K1DLYhPrTUqSntrlmYzJpNw/edit)
 - [Finley &lpar;YC W21&rpar; is hiring engineers to rethink capital markets](https://www.finleycms.com/careers/)
-- [Google reorg moves AR, VR, Starline and Area 120 into new ‘Labs’ team](https://techcrunch.com/2021/11/11/google-reorg-moves-ar-vr-starline-and-area-120-into-new-labs-team-reporting-directly-to-sundar-pichai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
