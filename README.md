@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ruby vs. Python comes down to the for loop](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
+- [Nuclear energy is long-term sustainable](https://whatisnuclear.com/blog/2020-10-28-nuclear-energy-is-longterm-sustainable.html)
+- [Running a Law Firm on Linux](https://decoded.legal/blog/2021/11/running-a-law-firm-on-linux)
+- [Porch cameras and Facebook groups are turning streets into surveillance states](https://thewalrus.ca/porch-cameras-and-facebook-groups-are-turning-streets-into-surveillance-states/)
 - [Rules of static linking: libstdc++, Libc, libgcc &lpar;2012&rpar;](https://micro.nicholaswilson.me.uk/post/31855915892/rules-of-static-linking-libstdc-libc-libgcc)
-- [How to invest without knowing the future](https://compoundadvisors.com/2021/how-to-invest-without-knowing-the-future)
-- [How to Use OAuth to Add Authentication to Your React App](https://fusionauth.io/blog/2021/11/11/how-to-authenticate-your-react-app/)
-- [Capturing and Decrypting HTTPS Traffic from iOS Apps Using Frida &lpar;2019&rpar;](https://andydavies.me/blog/2019/12/12/capturing-and-decrypting-https-traffic-from-ios-apps/)
-- [Searx – Privacy-respecting metasearch engine](https://sagrista.info/../../../blog/2021/searx-or-duckduckgo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
