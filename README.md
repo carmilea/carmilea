@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Zulip will not get on the blockchain bandwagon](https://blog.zulip.com/2021/11/12/why-not-blockchain/)
 - [Fantasy Map Generator &lpar;2018&rpar;](https://azgaar.github.io/Fantasy-Map-Generator/)
 - [Open Source Vibrotactile Haptics Platform for On-Body Applications](https://ai.googleblog.com/2021/11/an-open-source-vibrotactile-haptics.html)
 - [Skio &lpar;YC S20&rpar; is hiring founding engineers](https://skio.com/careers)
 - [The Greatest Unsolved Heist in Irish History](https://www.atlasobscura.com/articles/irish-crown-jewels-theft)
-- [How many people have Q Clearance?](http://blog.nuclearsecrecy.com/2021/11/12/how-many-people-have-q-clearance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
