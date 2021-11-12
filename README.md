@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Lisp?](https://atlas.engineer/technical-article/why-lisp.org)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring API Engineers](https://www.easypost.com/careers)
 - [Beware of Fast-Math](https://simonbyrne.github.io/notes/fastmath/)
 - [Portugal bans bosses texting staff after-hours](https://www.bbc.co.uk/news/business-59263300)
-- [Microsoft to Block Windows 11 Browser Workarounds](https://www.thurrott.com/windows/windows-11/259208/windows-11-to-block-windows-11-browser-workarounds)
 - [Scalable PostgreSQL Connection Pooler](https://github.com/yandex/odyssey)
 <!-- BLOG-POST-LIST:END -->
 
