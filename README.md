@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fantasy Map Generator &lpar;2018&rpar;](https://azgaar.github.io/Fantasy-Map-Generator/)
+- [Open Source Vibrotactile Haptics Platform for On-Body Applications](https://ai.googleblog.com/2021/11/an-open-source-vibrotactile-haptics.html)
 - [Skio &lpar;YC S20&rpar; is hiring founding engineers](https://skio.com/careers)
+- [The Greatest Unsolved Heist in Irish History](https://www.atlasobscura.com/articles/irish-crown-jewels-theft)
 - [How many people have Q Clearance?](http://blog.nuclearsecrecy.com/2021/11/12/how-many-people-have-q-clearance/)
-- [All adults can get a Covid vaccine booster in CA, not just those CDC listed](https://www.npr.org/2021/11/11/1054851431/california-adults-covid-vaccine-booster)
-- [SDL gets an Epic MegaGrant to work on next-gen Vulkan API](https://www.patreon.com/posts/new-project-top-58563886)
-- [Show HN: Lifeee – Conway’s Game of Life with an infinite zoomable grid](https://lifeee.netlify.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
