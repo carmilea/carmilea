@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Useful sed scripts and patterns for day to day usage](https://github.com/adrianscheff/useful-sed)
 - [New – EC2 Instances &lpar;G5&rpar; with Nvidia A10G Tensor Core GPUs](https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/)
 - [Async Cancellation](https://blog.yoshuawuyts.com/async-cancellation-1/)
 - [Talyn Air &lpar;YC W20&rpar; Is Hiring](https://www.ycombinator.com/companies/talyn-air/jobs/DuvnNrk-flight-software-engineer)
 - [The Rust compiler has gotten faster again](https://nnethercote.github.io/2021/11/12/the-rust-compiler-has-gotten-faster-again.html)
-- [Art Bell Back in Time](https://podcasts.apple.com/us/podcast/art-bell-back-in-time/id1496623191)
 <!-- BLOG-POST-LIST:END -->
 
 ---
