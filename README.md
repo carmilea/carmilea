@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google.com Down in the Netherlands](https://outage.report/google)
+- [Boeing admits full responsibility for 737 Max plane crash in Ethiopia](https://www.theguardian.com/business/2021/nov/11/boeing-full-responsibility-737-max-plane-crash-ethiopia-compensation)
+- [ISO should make all standards Publicly Available](https://docs.google.com/document/d/12Gmy2s4Nmkw6VDv2B6b5K1DLYhPrTUqSntrlmYzJpNw/edit)
 - [Finley &lpar;YC W21&rpar; is hiring engineers to rethink capital markets](https://www.finleycms.com/careers/)
 - [Google reorg moves AR, VR, Starline and Area 120 into new ‘Labs’ team](https://techcrunch.com/2021/11/11/google-reorg-moves-ar-vr-starline-and-area-120-into-new-labs-team-reporting-directly-to-sundar-pichai/)
-- [Useful sed scripts and patterns for day to day usage](https://github.com/adrianscheff/useful-sed)
-- [Amazon abandons package bin at apartment building, refuses to retrieve it](https://www.cambridgeday.com/2021/11/11/with-30-packages-dumped-in-the-wrong-lobby-resident-tried-harder-to-correct-it-than-amazon/)
-- [New – EC2 Instances &lpar;G5&rpar; with Nvidia A10G Tensor Core GPUs](https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
