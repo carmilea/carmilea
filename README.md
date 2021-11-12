@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ruby vs. Python comes down to the for loop](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
-- [Nuclear energy is long-term sustainable](https://whatisnuclear.com/blog/2020-10-28-nuclear-energy-is-longterm-sustainable.html)
-- [Running a Law Firm on Linux](https://decoded.legal/blog/2021/11/running-a-law-firm-on-linux)
-- [Porch cameras and Facebook groups are turning streets into surveillance states](https://thewalrus.ca/porch-cameras-and-facebook-groups-are-turning-streets-into-surveillance-states/)
-- [Rules of static linking: libstdc++, Libc, libgcc &lpar;2012&rpar;](https://micro.nicholaswilson.me.uk/post/31855915892/rules-of-static-linking-libstdc-libc-libgcc)
+- [There’s a Queue Coming for Tesla Charging, and That’s OK](https://spectrum.ieee.org/universal-tesla-supercharger-network)
+- [Programming with Something](https://tomstu.art/programming-with-something)
+- [I&#39;m Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=29200687)
+- [What Is the Metaverse?](https://www.kanaandkatana.com/blog/what-is-the-metaverse)
+- [How do people resist Covid infections? Hospital workers offer a hint](https://www.nature.com/articles/d41586-021-03110-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
