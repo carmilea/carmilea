@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Webamp IPFS media player; sample hash included;&rpar;](https://webamp-ipfs.netlify.app/Qmevni3vjqGiSAd7DE7kDhPXAqLNED2zUwJ5XaLyhc7rwK)
-- [Try charging on the right and not on the left](https://apple.stackexchange.com/questions/363337/how-to-find-cause-of-high-kernel-task-cpu-usage)
-- [Google Outage in Europe](https://www.google.com/appsstatus/dashboard/)
-- [Tips for Making a Popular Open-Source Project in 2021 [Ultimate Guide]](https://skerritt.blog/make-popular-open-source-projects/)
-- [Incident Affecting Google Cloud Infrastructure Components](https://status.cloud.google.com/incidents/1xkAB1KmLrh5g3v9ZEZ7)
+- [Searx: Moving Away from DuckDuckGo](https://sagrista.info/../../../blog/2021/searx-or-duckduckgo/)
+- [Pachyderm is hiring a DevRel Lead to be the voice of our OSS community](https://www.pachyderm.com/careers/#positions)
+- [A complete guide to organizing settings in Django](https://apibakery.com/blog/django-settings-howto/)
+- [Fifty percent of Facebook Messenger’s total voice traffic comes from Cambodia](https://restofworld.org/2021/facebook-didnt-know-why-half-of-messengers-voice-traffic-comes-from-cambodia-heres-why/)
+- [Lithium Metal Batteries with High Concentration Electrolytes to Power the Future](https://dgist.ac.kr/en/html/sub06/060202.html?mode=V&no=11dec1121064f9774052689be821e96d&GotoPage=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
