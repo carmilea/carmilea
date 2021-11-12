@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Working on Indexing Instagram and TikTok Videos](https://www.searchenginejournal.com/google-working-on-indexing-instagram-tiktok-videos/421018/)
+- [How to Use OAuth to Add Authentication to Your React App](https://fusionauth.io/blog/2021/11/11/how-to-authenticate-your-react-app/)
+- [Capturing and Decrypting HTTPS Traffic from iOS Apps Using Frida &lpar;2019&rpar;](https://andydavies.me/blog/2019/12/12/capturing-and-decrypting-https-traffic-from-ios-apps/)
 - [Searx: Moving Away from DuckDuckGo](https://sagrista.info/../../../blog/2021/searx-or-duckduckgo/)
 - [Pachyderm is hiring a DevRel Lead to be the voice of our OSS community](https://www.pachyderm.com/careers/#positions)
-- [A complete guide to organizing settings in Django](https://apibakery.com/blog/django-settings-howto/)
-- [Fifty percent of Facebook Messenger’s total voice traffic comes from Cambodia](https://restofworld.org/2021/facebook-didnt-know-why-half-of-messengers-voice-traffic-comes-from-cambodia-heres-why/)
-- [Lithium Metal Batteries with High Concentration Electrolytes to Power the Future](https://dgist.ac.kr/en/html/sub06/060202.html?mode=V&no=11dec1121064f9774052689be821e96d&GotoPage=1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
