@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Where *Isn&#39;t* Planet 9?](https://www.syfy.com/syfy-wire/bad-astronomy-search-for-planet-nine-still-continues)
 - [Debit cards are hidden financial infrastructure](https://bam.kalzumeus.com/archive/debit-cards-are-hidden-financial-infrastructure/)
 - [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [Industrial Seed Oils Are Making Us Sick &lpar;2019&rpar;](https://chriskresser.com/how-industrial-seed-oils-are-making-us-sick/)
 - [Covid.com – trusted Connectivity Supplier for 40 years. Unfortunate URL](https://www.covid.com/)
-- [TQQQ Is Up 7,298% in 10 Years. You Don’t Want It](https://www.wsj.com/articles/this-fund-is-up-7-298-in-10-years-you-dont-want-it-11597417224)
+- [The Philosophical Game &lpar;1972&rpar;](https://www.theparisreview.org/blog/2021/11/04/a-philosophical-game-an-interview-with-saul-steinberg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
