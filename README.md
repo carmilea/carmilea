@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Higher Math for Beginners &lpar;Mostly Physicists and Engineers&rpar;](https://archive.org/details/HigherMathForBeginners)
+- [Confused Xerox copiers rewrite scanned documents, expert finds](https://www.bbc.com/news/technology-23588202)
 - [Where *Isn&#39;t* Planet 9?](https://www.syfy.com/syfy-wire/bad-astronomy-search-for-planet-nine-still-continues)
+- [Chinese embassy lobbies U.S. business to oppose China bills](https://www.reuters.com/business/exclusive-chinese-embassy-lobbies-us-business-oppose-china-bills-sources-2021-11-12/)
 - [Debit cards are hidden financial infrastructure](https://bam.kalzumeus.com/archive/debit-cards-are-hidden-financial-infrastructure/)
-- [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [Covid.com – trusted Connectivity Supplier for 40 years. Unfortunate URL](https://www.covid.com/)
-- [The Philosophical Game &lpar;1972&rpar;](https://www.theparisreview.org/blog/2021/11/04/a-philosophical-game-an-interview-with-saul-steinberg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
