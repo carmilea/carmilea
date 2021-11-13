@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Raycast &lpar;YC W20&rpar; Is Hiring to Make Developers More Productive &lpar;Remote, UTC ± 3h&rpar;](https://www.raycast.com/jobs)
-- [Does ES6 make JavaScript frameworks obsolete?](https://stackoverflow.blog/2021/11/10/does-es6-make-javascript-frameworks-obsolete/)
 - [Deldo is a sex toy control and teledildonics mode for Emacs](https://github.com/qdot/deldo)
 - [Have you considered hiring a head of growth?](https://draft.dev/learn/what-is-a-head-of-growth)
 - [Higher Math for Beginners &lpar;1987&rpar;](https://archive.org/details/ZeldovichYaglomHigherMathematics)
+- [Snowflake’s response to Databricks’ TPC-DS post](https://www.snowflake.com/blog/industry-benchmarks-and-competing-with-integrity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
