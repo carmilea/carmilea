@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Release &lpar;YC W20&rpar; Is Hiring a Director of Product Management](https://www.ycombinator.com/companies/release/jobs/84ycogd-director-of-product-management)
 - [It&#39;s Now Possible to Sign Arbitrary Data with Your SSH Keys](https://www.agwa.name/blog/post/ssh_signatures)
 - [Email from FBI Looks Odd](https://old.reddit.com/r/sysadmin/comments/qsun7o/email_from_fbi_looks_odd/)
 - [Why asynchronous Rust doesn&#39;t work](https://eta.st/2021/03/08/async-rust-2.html)
-- [Raycast &lpar;YC W20&rpar; Is Hiring to Make Developers More Productive &lpar;Remote, UTC ± 3h&rpar;](https://www.raycast.com/jobs)
 - [Deldo is a sex toy control and teledildonics mode for Emacs](https://github.com/qdot/deldo)
 <!-- BLOG-POST-LIST:END -->
 
