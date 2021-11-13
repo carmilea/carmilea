@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In a ‘learning trap’ experiment, adults leap conclusions while children explore](https://www.wsj.com/articles/why-children-learn-better-than-adults-11636033185)
-- [Substack &lpar;YC W18&rpar; is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
-- [The case of the 500-mile email &lpar;2002&rpar;](https://www.ibiblio.org/harris/500milemail.html)
-- [How Michigan grew its startup ecosystem](https://timesofe.com/how-michigan-grew-its-startup-ecosystem-and-became-the-state-with-the-fastest-growing-venture-capital/)
-- [Dte: A language for expressing and calculating date and time](https://github.com/mvrozanti/dte)
+- [Study finds a striking difference between neurons of humans and other mammals](https://news.mit.edu/2021/neurons-humans-mammals-1110)
+- [Atomic ‘avocado’ could change the way we navigate](https://asiatimes.com/2021/11/atomic-avocado-could-change-the-way-we-navigate/)
+- [Dataminers are finding developer comments and unlicensed songs in GTA Trilogy](https://www.pcgamer.com/uk/dataminers-are-finding-developer-comments-and-unlicensed-songs-in-gta-trilogy-as-rockstar-games-launcher-remains-offline/)
+- [Ask HN: Advice for moving on from a failed startup?](https://news.ycombinator.com/item?id=29213305)
+- [Ask HN: How do you back up your Android phone?](https://news.ycombinator.com/item?id=29213246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
