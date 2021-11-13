@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Would You Manage 70 Children and a 15-Ton Vehicle for $18 an Hour?](https://fivethirtyeight.com/features/would-you-manage-70-children-and-a-15-ton-vehicle-for-18-an-hour/)
+- [Should California’s last nuclear power plant stay open?](https://www.sandiegouniontribune.com/business/story/2021-11-12/should-californias-last-nuclear-power-plant-stay-open)
 - [Nuclear Fusion Is Close Enough to Start Dreaming](https://www.bloomberg.com/opinion/articles/2021-11-11/nuclear-fusion-is-close-enough-to-start-dreaming-of-a-new-world)
+- [Dte: A language for expressing and calculating date and time](https://github.com/mvrozanti/dte)
 - [Cloudflare blocks an almost 2 Tbps multi-vector DDoS attack](https://blog.cloudflare.com/cloudflare-blocks-an-almost-2-tbps-multi-vector-ddos-attack/)
-- [Project Euler](https://projecteuler.net)
-- [Reverse-engineering the Yamaha DX7 synthesizer&#39;s sound chip from die photos](https://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html)
-- [Shelf Engine &lpar;YC S18&rpar; Is Hiring a Data Science Manager. Help Us Stop Food Waste](https://www.shelfengine.com/careers/?gh_jid=4099404004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
