@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shelf Engine &lpar;YC S18&rpar; Is Hiring a Data Science Manager. Help Us Stop Food Waste](https://www.shelfengine.com/careers/?gh_jid=4099404004)
+- [Japanese Philosophies That&#39;ll Help You Spend Money Consciously](https://hulry.com/japanese-philosophies-money/)
 - [Monopolies Slowly Destroying The Pentagon](https://mattstoller.substack.com/p/monopolies-slowly-destroying-the)
 - [“Proof-of-Work” Proves Not to Work &lpar;2004&rpar; [pdf]](https://www.cl.cam.ac.uk/~rnc1/proofwork.pdf)
-- [How Agriculture Gave Rise to One of World’s Most Mysterious Language Families](https://www.science.org/content/article/how-agriculture-gave-rise-one-world-s-most-mysterious-language-families)
-- [Mailgun doesn&#39;t validate the email headers of email sent through their system](https://twitter.com/RadioToolbox/status/1459542957275717633)
-- [Intermittent fasting prompts anti-inflammatory response](https://academic.oup.com/ehjopen/article/1/2/oeab026/6363797)
+- [Moderna has fewer breakthrough cases than Pfizer&#39;s, but higher myocarditis rates](https://www.cnbc.com/2021/11/11/moderna-says-covid-vaccine-has-fewer-breakthrough-cases-than-pfizers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
