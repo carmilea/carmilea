@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Software company SAP: World-leading through intellectual property theft?](https://www.tagesschau.de/investigativ/mdr/sap-geistiges-eigentum-101.html)
+- [World’s first USB-C iPhone sells on eBay for $86,001](https://www.theverge.com/2021/11/12/22777988/usb-c-iphone-x-lightning-ebay-auction-86001)
+- [Collapse of international mobility a key factor behind wages growth](https://twitter.com/C_Barraud/status/1459440257783549954)
 - [Restic – Backups Done Right](https://restic.net/)
-- [Life is too short to depend on unstable software](https://blog.sidebits.tech/life-is-too-short-to-depend-on-unstable-software/)
-- [Doom’s Creator Goes After Doomscroll](https://www.wired.com/story/doom-creator-goes-after-doomscroll/)
-- [Release &lpar;YC W20&rpar; Is Hiring a Director of Product Management](https://www.ycombinator.com/companies/release/jobs/84ycogd-director-of-product-management)
-- [FBI email infrastructure has been compromised and is being used to send emails](https://twitter.com/GossiTheDog/status/1459451749811593219)
+- [The Breeder&#39;s Equation](https://www.edge.org/response-detail/27199)
 <!-- BLOG-POST-LIST:END -->
 
 ---
