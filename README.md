@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack Is Now a Playground for the Deplatformed](https://www.wired.co.uk/article/substack-future-chris-best)
+- [Email from FBI Looks Odd](https://old.reddit.com/r/sysadmin/comments/qsun7o/email_from_fbi_looks_odd/)
+- [Why asynchronous Rust doesn&#39;t work](https://eta.st/2021/03/08/async-rust-2.html)
 - [Raycast &lpar;YC W20&rpar; Is Hiring to Make Developers More Productive &lpar;Remote, UTC ± 3h&rpar;](https://www.raycast.com/jobs)
 - [Deldo is a sex toy control and teledildonics mode for Emacs](https://github.com/qdot/deldo)
-- [Have you considered hiring a head of growth?](https://draft.dev/learn/what-is-a-head-of-growth)
-- [Higher Math for Beginners &lpar;1987&rpar;](https://archive.org/details/ZeldovichYaglomHigherMathematics)
-- [Snowflake’s response to Databricks’ TPC-DS post](https://www.snowflake.com/blog/industry-benchmarks-and-competing-with-integrity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
