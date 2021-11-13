@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Democrats want to give a tax cut to the top%, 6x bigger than any other bracket](https://www.businessinsider.com/chart-democrats-plan-salt-tax-cut-to-moderately-rich-wealthy-2021-11)
+- [Nuclear Fusion Is Close Enough to Start Dreaming](https://www.bloomberg.com/opinion/articles/2021-11-11/nuclear-fusion-is-close-enough-to-start-dreaming-of-a-new-world)
 - [Cloudflare blocks an almost 2 Tbps multi-vector DDoS attack](https://blog.cloudflare.com/cloudflare-blocks-an-almost-2-tbps-multi-vector-ddos-attack/)
 - [Project Euler](https://projecteuler.net)
 - [Reverse-engineering the Yamaha DX7 synthesizer&#39;s sound chip from die photos](https://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html)
