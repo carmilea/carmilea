@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Would You Manage 70 Children and a 15-Ton Vehicle for $18 an Hour?](https://fivethirtyeight.com/features/would-you-manage-70-children-and-a-15-ton-vehicle-for-18-an-hour/)
+- [Substack &lpar;YC W18&rpar; is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
+- [Augmented Reality Pioneer Warns Metaverse Will Be Dystopian Nightmare](https://futurism.com/the-byte/ar-pioneer-warns-metaverse)
+- [Michigan Grew Its Startup Ecosystem and Became the Fastest Growing Venture Cap](https://timesofe.com/how-michigan-grew-its-startup-ecosystem-and-became-the-state-with-the-fastest-growing-venture-capital/)
+- [COP26 agrees new global climate deal](https://www.bbc.co.uk/news/world-59277788)
 - [Should California’s last nuclear power plant stay open?](https://www.sandiegouniontribune.com/business/story/2021-11-12/should-californias-last-nuclear-power-plant-stay-open)
-- [Nuclear Fusion Is Close Enough to Start Dreaming](https://www.bloomberg.com/opinion/articles/2021-11-11/nuclear-fusion-is-close-enough-to-start-dreaming-of-a-new-world)
-- [Dte: A language for expressing and calculating date and time](https://github.com/mvrozanti/dte)
-- [Cloudflare blocks an almost 2 Tbps multi-vector DDoS attack](https://blog.cloudflare.com/cloudflare-blocks-an-almost-2-tbps-multi-vector-ddos-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
