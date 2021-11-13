@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Goes Deep on Java with JCP Membership](https://thenewstack.io/microsoft-goes-deep-on-java-with-jcp-membership/)
-- [Doom’s creator goes after “Doomscroll](https://www.wired.com/story/doom-creator-goes-after-doomscroll/)
+- [Restic – Backups Done Right](https://restic.net/)
+- [Life is too short to depend on unstable software](https://blog.sidebits.tech/life-is-too-short-to-depend-on-unstable-software/)
+- [Doom’s Creator Goes After Doomscroll](https://www.wired.com/story/doom-creator-goes-after-doomscroll/)
 - [Release &lpar;YC W20&rpar; Is Hiring a Director of Product Management](https://www.ycombinator.com/companies/release/jobs/84ycogd-director-of-product-management)
 - [FBI email infrastructure has been compromised and is being used to send emails](https://twitter.com/GossiTheDog/status/1459451749811593219)
-- [It&#39;s Now Possible to Sign Arbitrary Data with Your SSH Keys](https://www.agwa.name/blog/post/ssh_signatures)
 <!-- BLOG-POST-LIST:END -->
 
 ---
