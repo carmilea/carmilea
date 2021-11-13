@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Higher Math for Beginners &lpar;Mostly Physicists and Engineers&rpar;](https://archive.org/details/HigherMathForBeginners)
+- [Higher Math for Beginners &lpar;Mostly Physicists and Engineers&rpar; &lpar;1987&rpar;](https://archive.org/details/ZeldovichYaglomHigherMathematics)
 - [Confused Xerox copiers rewrite scanned documents, expert finds](https://www.bbc.com/news/technology-23588202)
-- [Where *Isn&#39;t* Planet 9?](https://www.syfy.com/syfy-wire/bad-astronomy-search-for-planet-nine-still-continues)
 - [Chinese embassy lobbies U.S. business to oppose China bills](https://www.reuters.com/business/exclusive-chinese-embassy-lobbies-us-business-oppose-china-bills-sources-2021-11-12/)
 - [Debit cards are hidden financial infrastructure](https://bam.kalzumeus.com/archive/debit-cards-are-hidden-financial-infrastructure/)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
