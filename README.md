@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In a ‘learning trap’ experiment, adults leap conclusions while children explore](https://www.wsj.com/articles/why-children-learn-better-than-adults-11636033185)
 - [Substack &lpar;YC W18&rpar; is hiring engineering managers to build the future of writing](https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7)
-- [Augmented Reality Pioneer Warns Metaverse Will Be Dystopian Nightmare](https://futurism.com/the-byte/ar-pioneer-warns-metaverse)
-- [Michigan Grew Its Startup Ecosystem and Became the Fastest Growing Venture Cap](https://timesofe.com/how-michigan-grew-its-startup-ecosystem-and-became-the-state-with-the-fastest-growing-venture-capital/)
-- [COP26 agrees new global climate deal](https://www.bbc.co.uk/news/world-59277788)
-- [Should California’s last nuclear power plant stay open?](https://www.sandiegouniontribune.com/business/story/2021-11-12/should-californias-last-nuclear-power-plant-stay-open)
+- [The case of the 500-mile email &lpar;2002&rpar;](https://www.ibiblio.org/harris/500milemail.html)
+- [How Michigan grew its startup ecosystem](https://timesofe.com/how-michigan-grew-its-startup-ecosystem-and-became-the-state-with-the-fastest-growing-venture-capital/)
+- [Dte: A language for expressing and calculating date and time](https://github.com/mvrozanti/dte)
 <!-- BLOG-POST-LIST:END -->
 
 ---
