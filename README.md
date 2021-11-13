@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Zulip will not get on the blockchain bandwagon](https://blog.zulip.com/2021/11/12/why-not-blockchain/)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [TQQQ Is Up 7,298% in 10 Years. You Don’t Want It](https://www.wsj.com/articles/this-fund-is-up-7-298-in-10-years-you-dont-want-it-11597417224)
 - [Fantasy Map Generator &lpar;2018&rpar;](https://azgaar.github.io/Fantasy-Map-Generator/)
 - [Open Source Vibrotactile Haptics Platform for On-Body Applications](https://ai.googleblog.com/2021/11/an-open-source-vibrotactile-haptics.html)
-- [Skio &lpar;YC S20&rpar; is hiring founding engineers](https://skio.com/careers)
 - [The Greatest Unsolved Heist in Irish History](https://www.atlasobscura.com/articles/irish-crown-jewels-theft)
 <!-- BLOG-POST-LIST:END -->
 
