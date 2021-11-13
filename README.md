@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Software company SAP: World-leading through intellectual property theft?](https://www.tagesschau.de/investigativ/mdr/sap-geistiges-eigentum-101.html)
-- [World’s first USB-C iPhone sells on eBay for $86,001](https://www.theverge.com/2021/11/12/22777988/usb-c-iphone-x-lightning-ebay-auction-86001)
-- [Collapse of international mobility a key factor behind wages growth](https://twitter.com/C_Barraud/status/1459440257783549954)
-- [Restic – Backups Done Right](https://restic.net/)
-- [The Breeder&#39;s Equation](https://www.edge.org/response-detail/27199)
+- [Monopolies Slowly Destroying The Pentagon](https://mattstoller.substack.com/p/monopolies-slowly-destroying-the)
+- [“Proof-of-Work” Proves Not to Work &lpar;2004&rpar; [pdf]](https://www.cl.cam.ac.uk/~rnc1/proofwork.pdf)
+- [How Agriculture Gave Rise to One of World’s Most Mysterious Language Families](https://www.science.org/content/article/how-agriculture-gave-rise-one-world-s-most-mysterious-language-families)
+- [Mailgun doesn&#39;t validate the email headers of email sent through their system](https://twitter.com/RadioToolbox/status/1459542957275717633)
+- [Intermittent fasting prompts anti-inflammatory response](https://academic.oup.com/ehjopen/article/1/2/oeab026/6363797)
 <!-- BLOG-POST-LIST:END -->
 
 ---
