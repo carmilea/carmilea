@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast &lpar;YC W20&rpar; Is Hiring to Make Developers More Productive &lpar;Remote, UTC ± 3h&rpar;](https://www.raycast.com/jobs)
+- [Does ES6 make JavaScript frameworks obsolete?](https://stackoverflow.blog/2021/11/10/does-es6-make-javascript-frameworks-obsolete/)
 - [Deldo is a sex toy control and teledildonics mode for Emacs](https://github.com/qdot/deldo)
-- [Higher Math for Beginners &lpar;Mostly Physicists and Engineers&rpar; &lpar;1987&rpar;](https://archive.org/details/ZeldovichYaglomHigherMathematics)
-- [Snowflake’s response to Databricks’ TPC-DS post](https://www.snowflake.com/blog/industry-benchmarks-and-competing-with-integrity/)
-- [Confused Xerox copiers rewrite scanned documents, expert finds](https://www.bbc.com/news/technology-23588202)
-- [Chinese embassy lobbies U.S. business to oppose China bills](https://www.reuters.com/business/exclusive-chinese-embassy-lobbies-us-business-oppose-china-bills-sources-2021-11-12/)
+- [Have you considered hiring a head of growth?](https://draft.dev/learn/what-is-a-head-of-growth)
+- [Higher Math for Beginners &lpar;1987&rpar;](https://archive.org/details/ZeldovichYaglomHigherMathematics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
