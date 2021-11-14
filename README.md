@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; is hiring engineers to work on messaging: Push, SMS, &amp; Email](https://onesignal.com/careers)
 - [Accretion disk images guide theories on planet formation](https://www.quantamagazine.org/scientists-debate-if-cosmic-pebbles-create-rocky-planets-like-earth-20211103/)
 - [Apple isn’t patching all the security holes in older versions of macOS](https://arstechnica.com/gadgets/2021/11/psa-apple-isnt-actually-patching-all-the-security-holes-in-older-versions-of-macos/)
 - [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
-- [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Head of Computer Vision &lpar;Paris, Remote ± 1h&rpar;](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
 - [Debugging memory corruption: who the hell writes “2” into my stack? &lpar;2016&rpar;](https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
 <!-- BLOG-POST-LIST:END -->
 
