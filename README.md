@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria](https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html)
+- [Creating the first consumer humanoid robot – suggestions for apps?](https://news.ycombinator.com/item?id=29218686)
 - [Optery &lpar;YC W22&rpar; Hiring First Product Manager, Growth Marketer, Back End Engineer](https://optery.breezy.hr/)
 - [Show HN: I built a jigsaw puzzle website](https://puzzlepanda.com)
-- [Those Bullet Effects in Terminator 2 Weren’t CGI](https://hackaday.com/2021/11/14/those-bullet-effects-in-terminator-2-werent-cgi/)
-- [Easylang – An easy online programming language and development environment](https://easylang.online/)
-- [Colorado &#39;solar garden&#39; is literally a farm under solar panels](https://www.npr.org/2021/11/14/1054942590/solar-energy-colorado-garden-farm-land)
+- [Vizio makes more money spying on people who buy TVs than TVs themselves](https://pluralistic.net/2021/11/14/still-the-product/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
