@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Avenue &lpar;YC W21&rpar; Is Hiring Full-Stack Engineers in NYC &lpar;TypeScript, Node, React&rpar;](http://jobs.ashbyhq.com/avenue)
+- [Avenue &lpar;YC W21&rpar; is hiring full-stack engineers in NYC &lpar;TypeScript, Node, React&rpar;](http://jobs.ashbyhq.com/avenue)
 - [Why disaster happens at the edges: An introduction to queue theory](https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/)
 - [YAML: It&#39;s Time to Move On](https://nestedtext.org/en/latest/alternatives.html#yaml)
-- [From Zero to Hero: Contributing to Open Source](https://miparnisariblog.wordpress.com/2017/10/31/contributing-to-open-source/)
+- [From zero to hero: contributing to open source &lpar;2017&rpar;](https://miparnisariblog.wordpress.com/2017/10/31/contributing-to-open-source/)
 - [Conceptarium](https://paulbricman.com/thoughtware/conceptarium)
 <!-- BLOG-POST-LIST:END -->
 
