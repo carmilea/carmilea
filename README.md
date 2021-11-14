@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sweden no longer stands out in pandemic, says architect of ‘no lockdown’ policy](https://www.ft.com/content/0c07de5f-e852-4c23-823b-5f8f7d18ebef)
+- [Id Software Is Trying to Stop a Man Who Wants to Name His Band &#39;Doomscroll&#39;](https://kotaku.com/id-software-is-trying-to-stop-a-man-who-wants-to-name-h-1848052851)
+- [Red herring](https://en.wikipedia.org/wiki/Red_herring)
 - [OneSignal &lpar;YC S11&rpar; is hiring engineers to work on messaging: Push, SMS, &amp; Email](https://onesignal.com/careers)
 - [Accretion disk images guide theories on planet formation](https://www.quantamagazine.org/scientists-debate-if-cosmic-pebbles-create-rocky-planets-like-earth-20211103/)
 - [Apple isn’t patching all the security holes in older versions of macOS](https://arstechnica.com/gadgets/2021/11/psa-apple-isnt-actually-patching-all-the-security-holes-in-older-versions-of-macos/)
-- [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
