@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [There may be a steep privacy cost if you park at this Trader Joe’s](https://www.latimes.com/business/story/2021-11-09/column-trader-joes-parking-app)
 - [How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria](https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html)
 - [Creating the first consumer humanoid robot – suggestions for apps?](https://news.ycombinator.com/item?id=29218686)
 - [Optery &lpar;YC W22&rpar; Hiring First Product Manager, Growth Marketer, Back End Engineer](https://optery.breezy.hr/)
 - [Show HN: I built a jigsaw puzzle website](https://puzzlepanda.com)
-- [Vizio makes more money spying on people who buy TVs than TVs themselves](https://pluralistic.net/2021/11/14/still-the-product/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
