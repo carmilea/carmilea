@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Optery &lpar;YC W22&rpar; Hiring First Product Manager, Growth Marketer, Back End Engineer](https://optery.breezy.hr/)
+- [Show HN: I built a jigsaw puzzle website](https://puzzlepanda.com)
+- [Those Bullet Effects in Terminator 2 Weren’t CGI](https://hackaday.com/2021/11/14/those-bullet-effects-in-terminator-2-werent-cgi/)
 - [Easylang – An easy online programming language and development environment](https://easylang.online/)
-- [The US is making its biggest investment in broadband internet ever](https://www.popsci.com/technology/infrastructure-bill-broadband-access-us/)
-- [U.S. sets goal to drive down cost of removing CO2 from atmosphere](https://www.reuters.com/business/cop/us-sets-goal-drive-down-cost-removing-co2-atmosphere-2021-11-05/)
-- [Show HN: Windows 2000 on Docker](https://github.com/hectorm/docker-qemu-win2000)
-- [Show HN: Monte Carlo Methods or Why It&#39;s a Bad Idea to Go to the Casino](https://easylang.online/apps/tutorial_monte_carlo_methods.html)
+- [Colorado &#39;solar garden&#39; is literally a farm under solar panels](https://www.npr.org/2021/11/14/1054942590/solar-energy-colorado-garden-farm-land)
 <!-- BLOG-POST-LIST:END -->
 
 ---
