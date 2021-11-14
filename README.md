@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. states file updated antitrust complaint against Alphabet&#39;s Google](https://www.reuters.com/world/us/us-states-file-updated-antitrust-complaint-against-alphabets-google-2021-11-13/)
+- [Presidential Speech on Race Shocked the Nation in 1921](https://narratively.com/this-presidential-speech-on-race-shocked-the-nation-in-1921/)
+- [Hoax Email Blast Abused Poor Coding in FBI Website](https://krebsonsecurity.com/2021/11/hoax-email-blast-abused-poor-coding-in-fbi-website/)
 - [Study finds a striking difference between neurons of humans and other mammals](https://news.mit.edu/2021/neurons-humans-mammals-1110)
 - [Atomic ‘avocado’ could change the way we navigate](https://asiatimes.com/2021/11/atomic-avocado-could-change-the-way-we-navigate/)
-- [Dataminers are finding developer comments and unlicensed songs in GTA Trilogy](https://www.pcgamer.com/uk/dataminers-are-finding-developer-comments-and-unlicensed-songs-in-gta-trilogy-as-rockstar-games-launcher-remains-offline/)
-- [Ask HN: Advice for moving on from a failed startup?](https://news.ycombinator.com/item?id=29213305)
-- [Ask HN: How do you back up your Android phone?](https://news.ycombinator.com/item?id=29213246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
