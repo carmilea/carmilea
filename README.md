@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Covid-19 Cases and Deaths by Vaccination Status](https://www.dshs.texas.gov/immunize/covid19/data/vaccination-status/)
-- [Shadershop – Photoshop like interface for programming GPU shaders](https://github.com/cdglabs/Shadershop)
+- [Short-Term Thinking on Race Caused Long-Term Problems in Higher Education](https://www.jamesgmartin.center/2021/11/how-short-term-thinking-on-race-has-caused-long-term-problems-in-higher-education/#.YY_OVLXVTzs.twitter)
+- [3-D printing new houses in a Mexican village](https://www.nytimes.com/2021/09/28/business/3D-printing-homes.html)
 - [0xA000 Font Family – a tile mastered font-family](https://pippin.gimp.org/0xA000/)
 - [U.S. states file updated antitrust complaint against Google](https://www.reuters.com/world/us/us-states-file-updated-antitrust-complaint-against-alphabets-google-2021-11-13/)
 - [Richard ‘Lowtax’ Kyanka, founder of Something Awful, has died](https://www.vice.com/en/article/v7dmqb/richard-lowtax-kyanka-founder-of-something-awful-is-dead-at-45)
