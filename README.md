@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shadershop – Photoshop like interface for programming GPU shaders](https://github.com/cdglabs/Shadershop)
+- [0xA000 Font Family – a tile mastered font-family](https://pippin.gimp.org/0xA000/)
+- [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
 - [U.S. states file updated antitrust complaint against Google](https://www.reuters.com/world/us/us-states-file-updated-antitrust-complaint-against-alphabets-google-2021-11-13/)
 - [Richard ‘Lowtax’ Kyanka, founder of Something Awful, has died](https://www.vice.com/en/article/v7dmqb/richard-lowtax-kyanka-founder-of-something-awful-is-dead-at-45)
-- [Hoax email blast abused poor coding in FBI website](https://krebsonsecurity.com/2021/11/hoax-email-blast-abused-poor-coding-in-fbi-website/)
-- [Study finds a difference between neurons of humans and other mammals](https://news.mit.edu/2021/neurons-humans-mammals-1110)
-- [Vaccum-chamber quantum sensor device could allow GPS-free navigation](https://breakingdefense.com/2021/11/sandias-atomic-avocado-could-allow-gps-free-pnt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
