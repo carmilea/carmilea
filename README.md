@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook Employees Are Now More Willing to Leave, Tech Recruiters Say](https://www.businessinsider.com/facebook-employees-are-more-willing-to-leave-exodus-recruiters-say-2021-11)
-- [Netflix released a horror movie written by a bot and it&#39;s spectacular](https://www.cnet.com/news/netflix-released-a-horror-movie-written-by-a-bot-and-its-spectacular/)
-- [Wild Bidding Wars Erupt at Used-Tractor Auctions Across the U.S.](https://www.bloomberg.com/news/articles/2021-11-13/deere-strike-ignites-bidding-wars-for-used-tractors)
-- [Apple Buying Ads via Google for Subscription Apps to Capture App’s Revenue](https://www.forbes.com/sites/johnkoetsier/2021/11/12/apple-quietly-buying-ads-via-google-for-high-value-subscription-apps-to-capture-app-publisher-revenue/)
-- [Ask HN: Looking for a Book on Algorithms and Data Structures](https://news.ycombinator.com/item?id=29217252)
+- [Easylang – An easy online programming language and development environment](https://easylang.online/)
+- [The US is making its biggest investment in broadband internet ever](https://www.popsci.com/technology/infrastructure-bill-broadband-access-us/)
+- [U.S. sets goal to drive down cost of removing CO2 from atmosphere](https://www.reuters.com/business/cop/us-sets-goal-drive-down-cost-removing-co2-atmosphere-2021-11-05/)
+- [Show HN: Windows 2000 on Docker](https://github.com/hectorm/docker-qemu-win2000)
+- [Show HN: Monte Carlo Methods or Why It&#39;s a Bad Idea to Go to the Casino](https://easylang.online/apps/tutorial_monte_carlo_methods.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
