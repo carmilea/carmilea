@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nasally-Injected Brain Drug Can Help Treat Depression in 20 Minutes](https://interestingengineering.com/nasally-injected-brain-drug-can-help-treat-depression-in-20-minutes)
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Head of Computer Vision &lpar;Paris, Remote ± 1h&rpar;](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
+- [Who the hell writes “2” into my stack? &lpar;2016&rpar;](https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
 - [3-D printing new houses in a Mexican village](https://www.nytimes.com/2021/09/28/business/3D-printing-homes.html)
 - [0xA000 Font Family – A tile mastered font-family](https://pippin.gimp.org/0xA000/)
-- [U.S. states file updated antitrust complaint against Google](https://www.reuters.com/world/us/us-states-file-updated-antitrust-complaint-against-alphabets-google-2021-11-13/)
-- [Richard ‘Lowtax’ Kyanka, founder of Something Awful, has died](https://www.vice.com/en/article/v7dmqb/richard-lowtax-kyanka-founder-of-something-awful-is-dead-at-45)
 <!-- BLOG-POST-LIST:END -->
 
 ---
