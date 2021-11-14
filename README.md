@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mask Distraction](https://brownstone.org/articles/the-mask-distraction/)
-- [There may be a steep privacy cost if you park at this Trader Joe’s](https://www.latimes.com/business/story/2021-11-09/column-trader-joes-parking-app)
-- [How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria](https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html)
-- [Yann LeCun’s 2021 Deep Learning Course at CDS free and fully online](https://cds.nyu.edu/deep-learning/)
-- [Optery &lpar;YC W22&rpar; Hiring First Product Manager, Growth Marketer, Back End Engineer](https://optery.breezy.hr/)
+- [Avenue &lpar;YC W21&rpar; Is Hiring Full-Stack Engineers in NYC &lpar;TypeScript, Node, React&rpar;](http://jobs.ashbyhq.com/avenue)
+- [Why disaster happens at the edges: An introduction to queue theory](https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/)
+- [YAML: It&#39;s Time to Move On](https://nestedtext.org/en/latest/alternatives.html#yaml)
+- [From Zero to Hero: Contributing to Open Source](https://miparnisariblog.wordpress.com/2017/10/31/contributing-to-open-source/)
+- [Conceptarium](https://paulbricman.com/thoughtware/conceptarium)
 <!-- BLOG-POST-LIST:END -->
 
 ---
