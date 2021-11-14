@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple isn’t patching all the security holes in older versions of macOS](https://arstechnica.com/gadgets/2021/11/psa-apple-isnt-actually-patching-all-the-security-holes-in-older-versions-of-macos/)
+- [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
 - [Nasally-Injected Brain Drug Can Help Treat Depression in 20 Minutes](https://interestingengineering.com/nasally-injected-brain-drug-can-help-treat-depression-in-20-minutes)
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Head of Computer Vision &lpar;Paris, Remote ± 1h&rpar;](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
 - [Who the hell writes “2” into my stack? &lpar;2016&rpar;](https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
-- [3-D printing new houses in a Mexican village](https://www.nytimes.com/2021/09/28/business/3D-printing-homes.html)
-- [0xA000 Font Family – A tile mastered font-family](https://pippin.gimp.org/0xA000/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
