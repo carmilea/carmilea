@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29222377)
+- [The chip that changed the world](https://www.wsj.com/articles/the-chip-that-changed-the-world-microprocessor-computing-transistor-breakthrough-intel-11636903999)
 - [Show HN: PickBetterPack – Discover similar pkgs from package.json dependencies](https://pickbetterpack.com/)
 - [Why disaster happens at the edges: An introduction to queue theory](https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/)
 - [YAML: It&#39;s Time to Move On](https://nestedtext.org/en/latest/alternatives.html#yaml)
-- [China and India will have to ‘justify’ watered down coal pledge–Cop26 president](https://www.irishtimes.com/news/environment/china-and-india-will-have-to-justify-watered-down-coal-pledge-cop26-president-1.4728496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
