@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Selecting a programming language can be a form of premature optimization](https://snarky.ca/programming-language-selection-is-a-form-of-premature-optimization/)
+- [Flexible Monocopter Drone Can Be Completely Rolled Up](https://spectrum.ieee.org/foldable-monocopter-drone)
+- [Sourcehut’s Third Year](https://sourcehut.org/blog/2021-11-15-sourcehuts-third-year/)
 - [Terra &lpar;YC W21&rpar; Is Hiring a Sales Engineer in London](https://www.ycombinator.com/companies/terra/jobs/CoiffSb-sales-engineer)
 - [Direct file transfer via browser with no server involvement](http://cend.me/)
 - [JP Morgan Chase Bank, or Why Not to Whitelist Operating System User Agents](https://www.neelc.org/posts/chase-how-not-to-design-a-website/)
-- [The Rise and Fall of Commercial Smalltalk](http://www.wirfs-brock.com/allen/posts/914)
 <!-- BLOG-POST-LIST:END -->
 
 ---
