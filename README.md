@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Hex Tile Grid Map in Excel](https://simplexct.com/how-to-create-a-hex-tile-grid-map-in-excel)
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29222377)
 - [The chip that changed the world](https://www.wsj.com/articles/the-chip-that-changed-the-world-microprocessor-computing-transistor-breakthrough-intel-11636903999)
-- [Show HN: PickBetterPack – Discover similar pkgs from package.json dependencies](https://pickbetterpack.com/)
 - [Why disaster happens at the edges: An introduction to queue theory](https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/)
 - [YAML: It&#39;s Time to Move On](https://nestedtext.org/en/latest/alternatives.html#yaml)
 <!-- BLOG-POST-LIST:END -->
