@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Processing billions of events in real time at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-)
+- [Air cargo is suddenly affordable relative to ocean shipping](https://www.freightwaves.com/news/why-is-air-cargo-suddenly-more-affordable-compared-to-ocean-shipping)
+- [Space debris forces astronauts on space station to take shelter in return ships](https://www.space.com/space-debris-astronauts-shelter-november-2021)
+- [Processing billions of events in real time](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-)
 - [Semantics and the Web: An Awkward History](http://lists.xml.org/archives/xml-dev/202109/threads.html)
-- [Path &lpar;YC S19&rpar; is Hiring Engineers to automate gen z finance](https://usepath.com)
-- [My letter to Medicaid, appealing my child&#39;s Medicaid denial](https://kingsley.sh/posts/2021/sterlings-medicaid-hearing-response)
-- [Handling five billion sessions a day in real time](https://blog.twitter.com/engineering/en_us/a/2015/handling-five-billion-sessions-a-day-in-real-time)
+- [Path &lpar;YC S19&rpar; is hiring engineers to automate Gen Z finance](https://usepath.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
