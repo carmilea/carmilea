@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Selecting a programming language can be a form of premature optimization](https://snarky.ca/programming-language-selection-is-a-form-of-premature-optimization/)
 - [Terra &lpar;YC W21&rpar; Is Hiring a Sales Engineer in London](https://www.ycombinator.com/companies/terra/jobs/CoiffSb-sales-engineer)
 - [Direct file transfer via browser with no server involvement](http://cend.me/)
 - [JP Morgan Chase Bank, or Why Not to Whitelist Operating System User Agents](https://www.neelc.org/posts/chase-how-not-to-design-a-website/)
 - [The Rise and Fall of Commercial Smalltalk](http://www.wirfs-brock.com/allen/posts/914)
-- [Xerox scanners/photocopiers randomly alter numbers in scanned documents &lpar;2013&rpar;](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
