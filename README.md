@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Metaplane &lpar;YC W20&rpar; – Datadog for Data](https://news.ycombinator.com/item?id=29226864)
+- [Without Parental Leave I Might Be Dead](https://www.nytimes.com/2021/11/14/opinion/paid-family-leave-biden.html)
 - [Poll Everywhere &lpar;YC S08&rpar; Is Hiring QA Automation Engineer](https://jobs.lever.co/polleverywhere/427ac844-2c55-4c70-9513-4b8c9ce56bb0?ref=hackernews&utm_source=hackernews)
 - [Assume Everyone Is Stupid, Lazy and Possibly Insane &lpar;Including You&rpar;](https://lifehacker.com/why-you-should-assume-everyone-is-stupid-lazy-and-pos-1847997212)
 - [OAuth with Cloudflare Workers on a Statically Generated Site](https://abyteofcoding.com/blog/oauth-with-cloudflare-workers-on-a-statically-generated-site/)
-- [Bird flew from Alaska to Australia non-stop, 8,100 miles in 239 hours](https://www.audubon.org/news/these-mighty-shorebirds-keep-breaking-flight-records-and-you-can-follow-along)
-- [Fun with PostGIS: Mandelbrot set, game of life, and more](https://blog.jooq.org/fun-with-postgis-mandelbrot-set-game-of-life-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
