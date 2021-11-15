@@ -54,7 +54,7 @@
 - [Underdog No More, a Deaf Football Team Takes California by Storm](https://www.nytimes.com/2021/11/15/us/riverside-california-deaf-football-team.html)
 - [Briar 1.4 – Offline sharing, message transfer via SD cards and USB sticks](https://briarproject.org/news/2021-briar-1.4-released/)
 - [Durable Objects now Generally Available](https://blog.cloudflare.com/durable-objects-ga/)
-- [Why Your Website Should Not Use Dithered Images](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)
+- [Websites Should Not Use Dithered Images](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)
 - [Why Maharashtra&#39;s villages flood every year](https://www.newslaundry.com/2021/11/15/neglect-apathy-and-a-destructive-train-route-why-maharashtras-villages-flood-every-year)
 <!-- BLOG-POST-LIST:END -->
 
