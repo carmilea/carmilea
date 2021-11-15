@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California needs clean firm power, and so does the rest of the world [pdf]](https://www.edf.org/sites/default/files/documents/SB100%20clean%20firm%20power%20report%20plus%20SI.pdf)
+- [FreeBSD quarterly status report for Q3 2021](https://www.freebsd.org/status/report-2021-07-2021-09/)
 - [Highlights from Git 2.34](https://github.blog/2021-11-15-highlights-from-git-2-34/)
 - [Chile wants to export solar energy to Asia via 15,000km submarine cable](https://www.pv-magazine.com/2021/11/15/chile-wants-to-export-solar-energy-to-asia-via-15000km-submarine-cable/)
-- [Portugal proposed law tries to sneak in biometric mass surveillance](https://reclaimyourface.eu/portugal-proposed-law-tries-to-sneak-in-biometric-mass-surveillance/)
-- [If Apple keeps letting its software slip, the next big thing won’t matter](https://www.macworld.com/article/551393/apple-software-problems-regions-memories-bugs.html)
-- [English Coffeehouses, French Salons and the Age of the Enlightenment [pdf]](http://www.mrjohnmiddleton.org/uploads/2/4/2/3/24233509/shaping_the_public_sphere-_english_coffeehouses_and_french_salons.pdf)
+- [Flint water crisis costs Michigan $600M. Preventing would have cost $80/day](https://arstechnica.com/tech-policy/2021/11/children-poisoned-by-flint-water-will-receive-majority-of-626-million-settlement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
