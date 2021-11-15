@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Try, try and try again: why did modern humans take so long to settle in Europe?](https://www.theguardian.com/science/2021/nov/14/try-try-and-try-again-why-did-modern-humans-take-so-long-to-settle-in-europe)
+- [Kodak Shirley Cards](https://99percentinvisible.org/episode/shirley-cards/)
+- [Are AirPods Out? Why Cool Kids Are Wearing Wired Headphones](https://www.wsj.com/articles/are-airpods-out-why-cool-kids-are-wearing-wired-headphones-11636753407)
+- [I Write a Parenting Advice Column &lpar;Or How I Became Famous in My Neighborhood&rpar;](https://tedgioia.substack.com/p/i-write-a-parenting-advice-column)
 - [How to Create a Hex Tile Grid Map in Excel](https://simplexct.com/how-to-create-a-hex-tile-grid-map-in-excel)
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29222377)
-- [The chip that changed the world](https://www.wsj.com/articles/the-chip-that-changed-the-world-microprocessor-computing-transistor-breakthrough-intel-11636903999)
-- [Why disaster happens at the edges: An introduction to queue theory](https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/)
-- [YAML: It&#39;s Time to Move On](https://nestedtext.org/en/latest/alternatives.html#yaml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
