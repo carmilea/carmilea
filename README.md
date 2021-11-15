@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [California needs clean firm power, and so does the rest of the world [pdf]](https://www.edf.org/sites/default/files/documents/SB100%20clean%20firm%20power%20report%20plus%20SI.pdf)
-- [FreeBSD quarterly status report for Q3 2021](https://www.freebsd.org/status/report-2021-07-2021-09/)
-- [Highlights from Git 2.34](https://github.blog/2021-11-15-highlights-from-git-2-34/)
-- [Chile wants to export solar energy to Asia via 15,000km submarine cable](https://www.pv-magazine.com/2021/11/15/chile-wants-to-export-solar-energy-to-asia-via-15000km-submarine-cable/)
-- [Flint water crisis costs Michigan $600M. Preventing would have cost $80/day](https://arstechnica.com/tech-policy/2021/11/children-poisoned-by-flint-water-will-receive-majority-of-626-million-settlement/)
+- [Handling five billion sessions a day in real time](https://blog.twitter.com/engineering/en_us/a/2015/handling-five-billion-sessions-a-day-in-real-time)
+- [YouTube Takes Down Independent Court Livestreams](https://twitter.com/ReturnOfTheFleX/status/1460295030187438088)
+- [Teliva – an environment for end-user programming](https://github.com/akkartik/teliva)
+- [How to Scrape and Extract Hyperlink Networks with BeautifulSoup and NetworkX](https://connectingfigures.com/2021/11/15/how-to-scrape-and-extract-hyperlink-networks-with-beautifulsoup-and-networkx/)
+- [Updates to the Twitter developer platform](https://blog.twitter.com/developer/en_us/topics/tools/2021/build-whats-next-with-the-new-twitter-developer-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
