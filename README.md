@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Relational Database Connectors for Cloudflare Workers](https://blog.cloudflare.com/relational-database-connectors/)
+- [Your Next Car May Refuse to Start If It Thinks You&#39;ve Had a Drink](https://reason.com/2021/11/15/your-next-car-may-refuse-to-start-if-it-thinks-youve-had-a-drink/)
+- [Why Maharashtra&#39;s villages flood every year](https://www.newslaundry.com/2021/11/15/neglect-apathy-and-a-destructive-train-route-why-maharashtras-villages-flood-every-year)
 - [Launch HN: Metaplane &lpar;YC W20&rpar; – Datadog for Data](https://news.ycombinator.com/item?id=29226864)
-- [Without Parental Leave I Might Be Dead](https://www.nytimes.com/2021/11/14/opinion/paid-family-leave-biden.html)
 - [Poll Everywhere &lpar;YC S08&rpar; Is Hiring QA Automation Engineer](https://jobs.lever.co/polleverywhere/427ac844-2c55-4c70-9513-4b8c9ce56bb0?ref=hackernews&utm_source=hackernews)
-- [Assume Everyone Is Stupid, Lazy and Possibly Insane &lpar;Including You&rpar;](https://lifehacker.com/why-you-should-assume-everyone-is-stupid-lazy-and-pos-1847997212)
-- [OAuth with Cloudflare Workers on a Statically Generated Site](https://abyteofcoding.com/blog/oauth-with-cloudflare-workers-on-a-statically-generated-site/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
