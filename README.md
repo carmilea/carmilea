@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Processing billions of events in real time at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-)
 - [Semantics and the Web: An Awkward History](http://lists.xml.org/archives/xml-dev/202109/threads.html)
 - [Path &lpar;YC S19&rpar; is Hiring Engineers to automate gen z finance](https://usepath.com)
-- [A Time-Series Analysis of My Girlfriends Mood Swings](https://jabde.com/2021/05/23/girlfriends-mood-time-series-analysis/)
-- [Databricks response to Snowflake&#39;s accusation of lacking integrity](https://databricks.com/blog/2021/11/15/snowflake-claims-similar-price-performance-to-databricks-but-not-so-fast.html)
+- [My letter to Medicaid, appealing my child&#39;s Medicaid denial](https://kingsley.sh/posts/2021/sterlings-medicaid-hearing-response)
 - [Handling five billion sessions a day in real time](https://blog.twitter.com/engineering/en_us/a/2015/handling-five-billion-sessions-a-day-in-real-time)
 <!-- BLOG-POST-LIST:END -->
 
