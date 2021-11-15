@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Try, try and try again: why did modern humans take so long to settle in Europe?](https://www.theguardian.com/science/2021/nov/14/try-try-and-try-again-why-did-modern-humans-take-so-long-to-settle-in-europe)
-- [Kodak Shirley Cards](https://99percentinvisible.org/episode/shirley-cards/)
-- [Are AirPods Out? Why Cool Kids Are Wearing Wired Headphones](https://www.wsj.com/articles/are-airpods-out-why-cool-kids-are-wearing-wired-headphones-11636753407)
-- [I Write a Parenting Advice Column &lpar;Or How I Became Famous in My Neighborhood&rpar;](https://tedgioia.substack.com/p/i-write-a-parenting-advice-column)
-- [How to Create a Hex Tile Grid Map in Excel](https://simplexct.com/how-to-create-a-hex-tile-grid-map-in-excel)
+- [ACLU Comment on FBI Raid of Project Veritas Founder](https://www.aclu.org/press-releases/aclu-comment-fbi-raid-project-veritas-founder)
+- [Why did modern humans take so long to settle in Europe?](https://www.theguardian.com/science/2021/nov/14/try-try-and-try-again-why-did-modern-humans-take-so-long-to-settle-in-europe)
+- [Shirley Cards](https://99percentinvisible.org/episode/shirley-cards/)
+- [Corded headphones are making an unexpected return](https://www.wsj.com/articles/are-airpods-out-why-cool-kids-are-wearing-wired-headphones-11636753407)
+- [I write a parenting advice column &lpar;or how I became famous in my neighborhood&rpar;](https://tedgioia.substack.com/p/i-write-a-parenting-advice-column)
 <!-- BLOG-POST-LIST:END -->
 
 ---
