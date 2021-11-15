@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ACLU Comment on FBI Raid of Project Veritas Founder](https://www.aclu.org/press-releases/aclu-comment-fbi-raid-project-veritas-founder)
+- [Xerox scanners/photocopiers randomly alter numbers in scanned documents &lpar;2013&rpar;](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
 - [Why did modern humans take so long to settle in Europe?](https://www.theguardian.com/science/2021/nov/14/try-try-and-try-again-why-did-modern-humans-take-so-long-to-settle-in-europe)
 - [Shirley Cards](https://99percentinvisible.org/episode/shirley-cards/)
 - [Corded headphones are making an unexpected return](https://www.wsj.com/articles/are-airpods-out-why-cool-kids-are-wearing-wired-headphones-11636753407)
