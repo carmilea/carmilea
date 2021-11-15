@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple is reportedly relying on states to pay for digital ID rollouts](https://www.theverge.com/2021/11/14/22781570/apple-making-states-pay-digital-id-service)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29222377)
 - [Show HN: PickBetterPack – Discover similar pkgs from package.json dependencies](https://pickbetterpack.com/)
-- [Avenue &lpar;YC W21&rpar; is hiring full-stack engineers in NYC &lpar;TypeScript, Node, React&rpar;](http://jobs.ashbyhq.com/avenue)
 - [Why disaster happens at the edges: An introduction to queue theory](https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/)
 - [YAML: It&#39;s Time to Move On](https://nestedtext.org/en/latest/alternatives.html#yaml)
+- [China and India will have to ‘justify’ watered down coal pledge–Cop26 president](https://www.irishtimes.com/news/environment/china-and-india-will-have-to-justify-watered-down-coal-pledge-cop26-president-1.4728496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
