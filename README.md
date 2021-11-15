@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We need to have a talk about making life easier for newcomers to .NET](https://liamsymonds.com/we-need-to-have-a-talk-about-making-life-easier-for-newcomers-to-the-net-ecosystem/)
+- [Bird flew from Alaska to Australia non-stop, 8,100 miles in 239 hours](https://www.audubon.org/news/these-mighty-shorebirds-keep-breaking-flight-records-and-you-can-follow-along)
+- [Fun with PostGIS: Mandelbrot set, game of life, and more](https://blog.jooq.org/fun-with-postgis-mandelbrot-set-game-of-life-and-more/)
+- [Too Big to Sail: How a Legal Revolution Clogged Our Ports](https://mattstoller.substack.com/p/too-big-to-sail-how-a-legal-revolution)
 - [Flexible Monocopter Drone Can Be Completely Rolled Up](https://spectrum.ieee.org/foldable-monocopter-drone)
-- [Sourcehut’s Third Year](https://sourcehut.org/blog/2021-11-15-sourcehuts-third-year/)
-- [Terra &lpar;YC W21&rpar; Is Hiring a Sales Engineer in London](https://www.ycombinator.com/companies/terra/jobs/CoiffSb-sales-engineer)
-- [Direct file transfer via browser with no server involvement](http://cend.me/)
-- [JP Morgan Chase Bank, or Why Not to Whitelist Operating System User Agents](https://www.neelc.org/posts/chase-how-not-to-design-a-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
