@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Compound &lpar;YC S19&rpar; is hiring engineers to build products for startup employees](https://jobs.lever.co/compound/303d6057-520a-4b63-98cd-fa764ca2d2bd)
-- [Why salt was so important throughout history &lpar;2018&rpar;](https://bookworm.club/blog/salt/)
-- [DDR4 memory protections are broken wide open by new Rowhammer technique](https://arstechnica.com/gadgets/2021/11/ddr4-memory-is-even-more-susceptible-to-rowhammer-attacks-than-anyone-thought/)
-- [Blacksmith – Rowhammer bit flips on all DRAM devices today despite mitigations](https://comsec.ethz.ch/research/dram/blacksmith/)
-- [Open access book on scientific visualization using Python and matplotlib](https://github.com/rougier/scientific-visualization-book)
+- [Highlights from Git 2.34](https://github.blog/2021-11-15-highlights-from-git-2-34/)
+- [Chile wants to export solar energy to Asia via 15,000km submarine cable](https://www.pv-magazine.com/2021/11/15/chile-wants-to-export-solar-energy-to-asia-via-15000km-submarine-cable/)
+- [Portugal proposed law tries to sneak in biometric mass surveillance](https://reclaimyourface.eu/portugal-proposed-law-tries-to-sneak-in-biometric-mass-surveillance/)
+- [If Apple keeps letting its software slip, the next big thing won’t matter](https://www.macworld.com/article/551393/apple-software-problems-regions-memories-bugs.html)
+- [English Coffeehouses, French Salons and the Age of the Enlightenment [pdf]](http://www.mrjohnmiddleton.org/uploads/2/4/2/3/24233509/shaping_the_public_sphere-_english_coffeehouses_and_french_salons.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
