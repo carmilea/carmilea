@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Underdog No More, a Deaf Football Team Takes California by Storm](https://www.nytimes.com/2021/11/15/us/riverside-california-deaf-football-team.html)
-- [Briar 1.4 – Offline sharing, message transfer via SD cards and USB sticks](https://briarproject.org/news/2021-briar-1.4-released/)
-- [Durable Objects now Generally Available](https://blog.cloudflare.com/durable-objects-ga/)
-- [Websites Should Not Use Dithered Images](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)
-- [Why Maharashtra&#39;s villages flood every year](https://www.newslaundry.com/2021/11/15/neglect-apathy-and-a-destructive-train-route-why-maharashtras-villages-flood-every-year)
+- [Compound &lpar;YC S19&rpar; is hiring engineers to build products for startup employees](https://jobs.lever.co/compound/303d6057-520a-4b63-98cd-fa764ca2d2bd)
+- [Why salt was so important throughout history &lpar;2018&rpar;](https://bookworm.club/blog/salt/)
+- [DDR4 memory protections are broken wide open by new Rowhammer technique](https://arstechnica.com/gadgets/2021/11/ddr4-memory-is-even-more-susceptible-to-rowhammer-attacks-than-anyone-thought/)
+- [Blacksmith – Rowhammer bit flips on all DRAM devices today despite mitigations](https://comsec.ethz.ch/research/dram/blacksmith/)
+- [Open access book on scientific visualization using Python and matplotlib](https://github.com/rougier/scientific-visualization-book)
 <!-- BLOG-POST-LIST:END -->
 
 ---
