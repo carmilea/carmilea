@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Semantics and the Web: An Awkward History](http://lists.xml.org/archives/xml-dev/202109/threads.html)
+- [Path &lpar;YC S19&rpar; is Hiring Engineers to automate gen z finance](https://usepath.com)
+- [A Time-Series Analysis of My Girlfriends Mood Swings](https://jabde.com/2021/05/23/girlfriends-mood-time-series-analysis/)
+- [Databricks response to Snowflake&#39;s accusation of lacking integrity](https://databricks.com/blog/2021/11/15/snowflake-claims-similar-price-performance-to-databricks-but-not-so-fast.html)
 - [Handling five billion sessions a day in real time](https://blog.twitter.com/engineering/en_us/a/2015/handling-five-billion-sessions-a-day-in-real-time)
-- [YouTube Takes Down Independent Court Livestreams](https://twitter.com/ReturnOfTheFleX/status/1460295030187438088)
-- [Teliva – an environment for end-user programming](https://github.com/akkartik/teliva)
-- [How to Scrape and Extract Hyperlink Networks with BeautifulSoup and NetworkX](https://connectingfigures.com/2021/11/15/how-to-scrape-and-extract-hyperlink-networks-with-beautifulsoup-and-networkx/)
-- [Updates to the Twitter developer platform](https://blog.twitter.com/developer/en_us/topics/tools/2021/build-whats-next-with-the-new-twitter-developer-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
