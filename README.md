@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alloy 6 First Impressions](https://buttondown.email/hillelwayne/archive/alloy-6-first-impressions/)
 - [To set new tab as blank in MS Edge you need to enroll device in MDM](https://den.dev/blog/edge-blank-new-tab/)
-- [Renew your service or we’ll trash your credit score, Spectrum tells ex-customer](https://www.latimes.com/business/story/2021-10-12/column-spectrum-billing-threat)
 - [Chrome may start restricting requests to private networks](https://utcc.utoronto.ca/~cks/space/blog/web/ChromePrivateNetBlocks)
+- [Rainforest Rebellion: Mass Clear-Cutting in Congo](https://www.spiegel.de/international/rainforest-rebellion-mass-clear-cutting-in-congo-a-634618e3-2d65-4d99-b70b-9298302af6dd)
 - [It&#39;s Not All In Your Head](https://www.firstthings.com/article/2021/12/its-not-all-in-your-head)
-- [Divorce does funny things](https://www.theparisreview.org/blog/2021/11/09/divorce-does-funny-things/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
