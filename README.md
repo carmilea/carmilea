@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [About the Urgency of Building Web3](https://timdaub.github.io/2021/11/16/the-urgency-of-building-web3/)
-- [NPM – &quot;is-even&quot;, 160k weekly downloads](https://www.npmjs.com/package/is-even)
-- [Scrcpy v1.20](https://github.com/Genymobile/scrcpy/releases/tag/v1.20)
-- [Teapot: Type-Safe 3D Spreadsheet](https://www.syntax-k.de/projekte/teapot/)
-- [Lttng: An open-source alternative to eBPF](https://lttng.org/)
+- [Brave Wallet: a secure crypto wallet, built natively in a web3 browser](https://brave.com/wallet/)
+- [Vancouver is now completely cut off from the rest of Canada by road](https://www.kelownanow.com/watercooler/news/news/Provincial/Vancouver_is_now_completely_cut_off_to_the_rest_of_Canada_by_road/)
+- [Streak &lpar;YC W22&rpar; is hiring React and TypeScript experts](https://www.streak.com/careers/product-engineer)
+- [Why Philosophers Should Care About Computational Complexity](https://arxiv.org/abs/1108.1791)
+- [Show HN: Budibase – An open-source low code platform](https://budibase.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
