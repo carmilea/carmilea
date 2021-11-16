@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s holding open banking back?](https://sifted.eu/articles/open-banking-back-nordigen-api/)
-- [Sign in with Matrix](https://github.com/mishushakov/signin-with-matrix)
-- [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
-- [Ask HN: “HN” for Sysadmins?](https://news.ycombinator.com/item?id=29239785)
-- [Why isn’t British ‘sleaze’ called what it is?](https://www.aljazeera.com/opinions/2021/11/15/why-is-british-sleaze-not-called-what-it-really-is)
+- [Scrcpy v1.20](https://github.com/Genymobile/scrcpy/releases/tag/v1.20)
+- [The Steele Dossier Indicted the Media](https://www.nytimes.com/2021/11/15/opinion/steele-dossier.html)
+- [Teapot: Type-Safe 3D Spreadsheet](https://www.syntax-k.de/projekte/teapot/)
+- [Lttng: An open-source alternative to eBPF](https://lttng.org/)
+- [PlanetScale is now generally available](https://planetscale.com/blog/ga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
