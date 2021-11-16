@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [About the Urgency of Building Web3](https://timdaub.github.io/2021/11/16/the-urgency-of-building-web3/)
+- [NPM – &quot;is-even&quot;, 160k weekly downloads](https://www.npmjs.com/package/is-even)
 - [Scrcpy v1.20](https://github.com/Genymobile/scrcpy/releases/tag/v1.20)
-- [The Steele Dossier Indicted the Media](https://www.nytimes.com/2021/11/15/opinion/steele-dossier.html)
 - [Teapot: Type-Safe 3D Spreadsheet](https://www.syntax-k.de/projekte/teapot/)
 - [Lttng: An open-source alternative to eBPF](https://lttng.org/)
-- [PlanetScale is now generally available](https://planetscale.com/blog/ga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
