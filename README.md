@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Modern Treasury &lpar;YC S18&rpar; is hiring designers to build a universal banking API](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
+- [Skittish: A playful space for online events](https://skittish.com/)
+- [Types of Parser Combinators](https://sgt.hootr.club/molten-matter/types-of-parser-combinators/)
 - [A 1980s space telescope may have seen planet nine](https://gizmodo.com/a-1980s-space-telescope-may-have-seen-planet-nine-1848066820)
 - [Automatically generating types for Cloudflare Workers](https://blog.cloudflare.com/automatically-generated-types/)
-- [Security issues related to the NPM registry](https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/#security-issues-related-to-the-npm-registry)
-- [Cache of documents declassified by the NRO for its 60th anniversary](https://www.nro.gov/FOIA/Major-NRO-Programs-and-Projects/EOI-Documents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
