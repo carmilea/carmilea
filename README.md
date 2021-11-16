@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Air cargo is suddenly affordable relative to ocean shipping](https://www.freightwaves.com/news/why-is-air-cargo-suddenly-more-affordable-compared-to-ocean-shipping)
-- [Space debris forces astronauts on space station to take shelter in return ships](https://www.space.com/space-debris-astronauts-shelter-november-2021)
-- [Processing billions of events in real time](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-)
-- [Semantics and the Web: An Awkward History](http://lists.xml.org/archives/xml-dev/202109/threads.html)
-- [Path &lpar;YC S19&rpar; is hiring engineers to automate Gen Z finance](https://usepath.com)
+- [Individuals Matter](https://danluu.com/people-matter/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineers – Integrations](https://etleap.com/jobs/#software-engineer-integrations)
+- [Firefox 94 has No Visible Border on unfocused tabs](https://octodon.social/@joeyh/107283148035893045)
+- [Blender 3.0 takes support for AMD GPUs to the next level](https://gpuopen.com/blender-cycles-amd-gpu/)
+- [Show HN: I made a tool to create animated technical papers](https://textframe.app/examples/bitcoin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
