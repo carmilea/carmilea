@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The California Life of Czesław Miłosz](https://lareviewofbooks.org/article/a-home-in-the-neon-heat-of-nature-a-new-biography-of-czeslaw-milosz/)
+- [Netflix now sharing worldwide top10 viewing data with export options](https://top10.netflix.com/?)
+- [Unicast Use of the Formerly Reserved 127/8](https://www.ietf.org/id/draft-schoen-intarea-unicast-127-00.html)
 - [Modern Treasury &lpar;YC S18&rpar; is hiring designers to build a universal banking API](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
 - [Skittish: A playful space for online events](https://skittish.com/)
-- [Types of Parser Combinators](https://sgt.hootr.club/molten-matter/types-of-parser-combinators/)
-- [A 1980s space telescope may have seen planet nine](https://gizmodo.com/a-1980s-space-telescope-may-have-seen-planet-nine-1848066820)
-- [Automatically generating types for Cloudflare Workers](https://blog.cloudflare.com/automatically-generated-types/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
