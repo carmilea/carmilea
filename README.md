@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Divorce does funny things](https://www.theparisreview.org/blog/2021/11/09/divorce-does-funny-things/)
+- [How 12th-century Genoese merchants invented the idea of risk](https://psyche.co/ideas/how-12th-century-genoese-merchants-invented-the-idea-of-risk)
+- [Java Virtual Threads Preview](https://openjdk.java.net/jeps/8277131)
 - [Electric vehicles could fully recharge in 5 minutes with new cable design](https://www.purdue.edu/newsroom/releases/2021/Q4/electric-vehicles-could-fully-recharge-in-under-5-minutes-with-new-charging-station-cable-design.html)
 - [Individuals Matter](https://danluu.com/people-matter/)
-- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineers – Integrations](https://etleap.com/jobs/#software-engineer-integrations)
-- [Appflowy – open-source Notion Alternative](https://www.appflowy.io)
-- [Blender 3.0 takes support for AMD GPUs to the next level](https://gpuopen.com/blender-cycles-amd-gpu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
