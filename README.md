@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cache of documents declassified by the NRO for it&#39;s 60th anniversary](https://www.nro.gov/FOIA/Major-NRO-Programs-and-Projects/EOI-Documents/)
-- [IBM Unveils Breakthrough 127-Qubit Quantum Processor](https://newsroom.ibm.com/2021-11-16-IBM-Unveils-Breakthrough-127-Qubit-Quantum-Processor)
+- [Security issues related to the NPM registry](https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/#security-issues-related-to-the-npm-registry)
+- [Cache of documents declassified by the NRO for its 60th anniversary](https://www.nro.gov/FOIA/Major-NRO-Programs-and-Projects/EOI-Documents/)
+- [IBM unveils 127-qubit quantum processor](https://newsroom.ibm.com/2021-11-16-IBM-Unveils-Breakthrough-127-Qubit-Quantum-Processor)
+- [List of 8000 security vulnerabilities in 1200 Wi-Fi routers](https://modemly.com/m1/pulse)
 - [Show HN: Outage Bingo](https://outage.bingo)
-- [IoT Nixie Tubes](https://bert.org/2021/11/16/iot-nixie-tubes/)
-- [Error 404 &lpar;Not Found&rpar;](https://spotify.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
