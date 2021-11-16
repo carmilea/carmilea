@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hera &lpar;YC S21&rpar; is hiring a front-end engineer – $60K-$90K andequity – Remote UTC+-3](https://www.ycombinator.com/companies/hera/jobs/tyUzKGd-frontend-engineer)
+- [ZX Spectrum developer Bernie Drummond has died](https://www.gamedeveloper.com/design/obituary-zx-spectrum-developer-Bernie-Drummond-has-died)
+- [Multicore OCaml: October 2021](https://discuss.ocaml.org/t/multicore-ocaml-october-2021/8822)
 - [1632 by Eric Flint](http://www.baen.com/chapters/0671578499/0671578499.htm)
 - [Python: Please stop screwing over Linux distros](https://drewdevault.com/2021/11/16/Python-stop-screwing-distros-over.html)
-- [Show HN: Caffeine, minimum viable back end for prototyping](https://github.com/rehacktive/caffeine)
-- [Akiflow &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/akiflow/jobs/qXJ691N-react-js-developer)
-- [Letting users tick &lpar;select&rpar; a ‘none’ checkbox](https://designnotes.blog.gov.uk/2021/11/15/letting-users-tick-a-none-checkbox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
