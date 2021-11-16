@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s holding open banking back?](https://sifted.eu/articles/open-banking-back-nordigen-api/)
+- [Sign in with Matrix](https://github.com/mishushakov/signin-with-matrix)
+- [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
 - [Ask HN: “HN” for Sysadmins?](https://news.ycombinator.com/item?id=29239785)
-- [Hackerrank DMCA Notice](https://github.com/github/dmca/blob/master/2021/11/2021-11-12-hackerrank.md)
-- [Hera &lpar;YC S21&rpar; is hiring a front-end engineer – $60K-$90K andequity – Remote UTC+-3](https://www.ycombinator.com/companies/hera/jobs/tyUzKGd-frontend-engineer)
-- [ZX Spectrum developer Bernie Drummond has died](https://www.gamedeveloper.com/design/obituary-zx-spectrum-developer-Bernie-Drummond-has-died)
-- [Multicore OCaml: October 2021](https://discuss.ocaml.org/t/multicore-ocaml-october-2021/8822)
+- [Why isn’t British ‘sleaze’ called what it is?](https://www.aljazeera.com/opinions/2021/11/15/why-is-british-sleaze-not-called-what-it-really-is)
 <!-- BLOG-POST-LIST:END -->
 
 ---
