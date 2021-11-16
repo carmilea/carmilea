@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cache of documents declassified by the NRO for it&#39;s 60th anniversary](https://www.nro.gov/FOIA/Major-NRO-Programs-and-Projects/EOI-Documents/)
+- [IBM Unveils Breakthrough 127-Qubit Quantum Processor](https://newsroom.ibm.com/2021-11-16-IBM-Unveils-Breakthrough-127-Qubit-Quantum-Processor)
+- [Show HN: Outage Bingo](https://outage.bingo)
+- [IoT Nixie Tubes](https://bert.org/2021/11/16/iot-nixie-tubes/)
 - [Error 404 &lpar;Not Found&rpar;](https://spotify.com)
-- [Brave Wallet: a secure crypto wallet, built natively in a web3 browser](https://brave.com/wallet/)
-- [Does QE Cause Wealth Inequality?](https://www.lynalden.com/qe-and-inequality/)
-- [There is currently no way to drive between Vancouver and the rest of Canada](https://www.kelownanow.com/watercooler/news/news/Provincial/Vancouver_is_now_completely_cut_off_to_the_rest_of_Canada_by_road/)
-- [Streak &lpar;YC S11&rpar; is hiring React and TypeScript experts](https://www.streak.com/careers/product-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
