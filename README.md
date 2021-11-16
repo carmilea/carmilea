@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Electric vehicles could fully recharge in 5 minutes with new cable design](https://www.purdue.edu/newsroom/releases/2021/Q4/electric-vehicles-could-fully-recharge-in-under-5-minutes-with-new-charging-station-cable-design.html)
 - [Individuals Matter](https://danluu.com/people-matter/)
 - [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineers – Integrations](https://etleap.com/jobs/#software-engineer-integrations)
-- [Firefox 94 has No Visible Border on unfocused tabs](https://octodon.social/@joeyh/107283148035893045)
+- [Appflowy – open-source Notion Alternative](https://www.appflowy.io)
 - [Blender 3.0 takes support for AMD GPUs to the next level](https://gpuopen.com/blender-cycles-amd-gpu/)
-- [Show HN: I made a no-code tool to create animated technical papers](https://textframe.app/examples/bitcoin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
