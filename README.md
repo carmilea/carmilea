@@ -55,7 +55,7 @@
 - [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineers – Integrations](https://etleap.com/jobs/#software-engineer-integrations)
 - [Firefox 94 has No Visible Border on unfocused tabs](https://octodon.social/@joeyh/107283148035893045)
 - [Blender 3.0 takes support for AMD GPUs to the next level](https://gpuopen.com/blender-cycles-amd-gpu/)
-- [Show HN: I made a tool to create animated technical papers](https://textframe.app/examples/bitcoin)
+- [Show HN: I made a no-code tool to create animated technical papers](https://textframe.app/examples/bitcoin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
