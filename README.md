@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1632 by Eric Flint](http://www.baen.com/chapters/0671578499/0671578499.htm)
+- [Python: Please stop screwing over Linux distros](https://drewdevault.com/2021/11/16/Python-stop-screwing-distros-over.html)
+- [Show HN: Caffeine, minimum viable back end for prototyping](https://github.com/rehacktive/caffeine)
 - [Akiflow &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/akiflow/jobs/qXJ691N-react-js-developer)
 - [Some Notes on Using Esbuild](https://jvns.ca/blog/2021/11/15/esbuild-vue/)
-- [Ask HN: What are some great engineering blogs?](https://news.ycombinator.com/item?id=29237308)
-- [Alloy 6 First Impressions](https://buttondown.email/hillelwayne/archive/alloy-6-first-impressions/)
-- [To set new tab as blank in MS Edge you need to enroll device in MDM](https://den.dev/blog/edge-blank-new-tab/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
