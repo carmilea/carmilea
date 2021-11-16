@@ -55,7 +55,7 @@
 - [Python: Please stop screwing over Linux distros](https://drewdevault.com/2021/11/16/Python-stop-screwing-distros-over.html)
 - [Show HN: Caffeine, minimum viable back end for prototyping](https://github.com/rehacktive/caffeine)
 - [Akiflow &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/akiflow/jobs/qXJ691N-react-js-developer)
-- [Some Notes on Using Esbuild](https://jvns.ca/blog/2021/11/15/esbuild-vue/)
+- [Letting users tick &lpar;select&rpar; a ‘none’ checkbox](https://designnotes.blog.gov.uk/2021/11/15/letting-users-tick-a-none-checkbox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
