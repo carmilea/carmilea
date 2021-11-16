@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [To set new tab as blank in MS Edge you need to enroll device in MDM](https://den.dev/blog/edge-blank-new-tab/)
+- [Renew your service or we’ll trash your credit score, Spectrum tells ex-customer](https://www.latimes.com/business/story/2021-10-12/column-spectrum-billing-threat)
+- [Chrome may start restricting requests to private networks](https://utcc.utoronto.ca/~cks/space/blog/web/ChromePrivateNetBlocks)
+- [It&#39;s Not All In Your Head](https://www.firstthings.com/article/2021/12/its-not-all-in-your-head)
 - [Divorce does funny things](https://www.theparisreview.org/blog/2021/11/09/divorce-does-funny-things/)
-- [How 12th-century Genoese merchants invented the idea of risk](https://psyche.co/ideas/how-12th-century-genoese-merchants-invented-the-idea-of-risk)
-- [Java Virtual Threads Preview](https://openjdk.java.net/jeps/8277131)
-- [Electric vehicles could fully recharge in 5 minutes with new cable design](https://www.purdue.edu/newsroom/releases/2021/Q4/electric-vehicles-could-fully-recharge-in-under-5-minutes-with-new-charging-station-cable-design.html)
-- [Individuals Matter](https://danluu.com/people-matter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
