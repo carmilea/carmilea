@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: “HN” for Sysadmins?](https://news.ycombinator.com/item?id=29239785)
+- [Hackerrank DMCA Notice](https://github.com/github/dmca/blob/master/2021/11/2021-11-12-hackerrank.md)
 - [Hera &lpar;YC S21&rpar; is hiring a front-end engineer – $60K-$90K andequity – Remote UTC+-3](https://www.ycombinator.com/companies/hera/jobs/tyUzKGd-frontend-engineer)
 - [ZX Spectrum developer Bernie Drummond has died](https://www.gamedeveloper.com/design/obituary-zx-spectrum-developer-Bernie-Drummond-has-died)
 - [Multicore OCaml: October 2021](https://discuss.ocaml.org/t/multicore-ocaml-october-2021/8822)
-- [1632 by Eric Flint](http://www.baen.com/chapters/0671578499/0671578499.htm)
-- [Python: Please stop screwing over Linux distros](https://drewdevault.com/2021/11/16/Python-stop-screwing-distros-over.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
