@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Error 404 &lpar;Not Found&rpar;](https://spotify.com)
 - [Brave Wallet: a secure crypto wallet, built natively in a web3 browser](https://brave.com/wallet/)
-- [Vancouver is now completely cut off from the rest of Canada by road](https://www.kelownanow.com/watercooler/news/news/Provincial/Vancouver_is_now_completely_cut_off_to_the_rest_of_Canada_by_road/)
-- [Streak &lpar;YC W22&rpar; is hiring React and TypeScript experts](https://www.streak.com/careers/product-engineer)
-- [Why Philosophers Should Care About Computational Complexity](https://arxiv.org/abs/1108.1791)
-- [Show HN: Budibase – An open-source low code platform](https://budibase.com/)
+- [Does QE Cause Wealth Inequality?](https://www.lynalden.com/qe-and-inequality/)
+- [There is currently no way to drive between Vancouver and the rest of Canada](https://www.kelownanow.com/watercooler/news/news/Provincial/Vancouver_is_now_completely_cut_off_to_the_rest_of_Canada_by_road/)
+- [Streak &lpar;YC S11&rpar; is hiring React and TypeScript experts](https://www.streak.com/careers/product-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
