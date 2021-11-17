@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Expectations data indicate the US is entering recession about now](https://voxeu.org/article/expectations-data-indicate-us-entering-recession-about-now)
 - [.plan](https://plan.cat)
-- [Considering a Sphere](https://www.solipsys.co.uk/new/ConsideringASphere.html?UK16HN)
-- [The California Life of Czesław Miłosz](https://lareviewofbooks.org/article/a-home-in-the-neon-heat-of-nature-a-new-biography-of-czeslaw-milosz/)
+- [DoD&#39;s First Chief Software Officer Resigns in Frustration](https://www.secureworld.io/industry-news/chief-software-officer-resigns)
 - [Weekly Top 10 lists of the most-watched TV and films](https://top10.netflix.com/?)
 - [Modern Treasury &lpar;YC S18&rpar; is hiring designers to build a universal banking API](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
 <!-- BLOG-POST-LIST:END -->
