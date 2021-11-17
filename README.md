@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflect &lpar;YC S20&rpar; Is Hiring a Full-Stack Software Engineer](https://www.ycombinator.com/companies/reflect/jobs/Bdo0cAY-software-engineer)
-- [Firefox Relay](https://relay.firefox.com/)
-- [Learn RegEx step by step, from zero to advanced](https://regexlearn.com/)
-- [Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?](https://news.ycombinator.com/item?id=29251343)
-- [Microsoft Calls Firefox’s Browser Workaround “Improper,” Will Block It](https://www.howtogeek.com/768727/microsoft-calls-firefoxs-browser-workaround-improper-will-block-it/)
+- [Netlify Raises $105M](https://www.netlify.com/press/netlify-raises-usd105-million-to-transform-development-for-the-modern-web)
+- [Apple Announces Self Service Repair](https://www.apple.com/newsroom/2021/11/apple-announces-self-service-repair/)
+- [Show HN: No PortScan](https://git.encryp.ch/g00g1/no-portscan)
+- [The most influential man on the internet](https://maxread.substack.com/p/the-most-influential-man-on-the-internet)
+- [The Diet of the Future Is a Menu That Draws from the Ancient Past](https://www.sapiens.org/biology/bill-schindler-eating/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
