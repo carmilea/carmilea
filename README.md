@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Netlify Raises $105M](https://www.netlify.com/press/netlify-raises-usd105-million-to-transform-development-for-the-modern-web)
-- [Apple Announces Self Service Repair](https://www.apple.com/newsroom/2021/11/apple-announces-self-service-repair/)
-- [Show HN: No PortScan](https://git.encryp.ch/g00g1/no-portscan)
-- [The most influential man on the internet](https://maxread.substack.com/p/the-most-influential-man-on-the-internet)
-- [The Diet of the Future Is a Menu That Draws from the Ancient Past](https://www.sapiens.org/biology/bill-schindler-eating/)
+- [Mozilla publishes position paper on the EU Digital Identity Framework](https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/)
+- [I built a $5k Raspberry Pi server &lpar;yes, it&#39;s ridiculous&rpar;](https://www.jeffgeerling.com/blog/2021/i-built-5000-raspberry-pi-server-yes-its-ridiculous)
+- [Scan of the Month: Lego Minifigures](https://www.scanofthemonth.com/)
+- [Ask HN: What&#39;s the quickest way to get something online?](https://news.ycombinator.com/item?id=29253277)
+- [Netlify Raises $105M and aquires OneGraph](https://www.netlify.com/press/netlify-raises-usd105-million-to-transform-development-for-the-modern-web)
 <!-- BLOG-POST-LIST:END -->
 
 ---
