@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Truth Shall Make You Free: Catholicism and the CIA](https://lareviewofbooks.org/article/the-truth-shall-make-you-free-catholicism-and-the-cia/)
 - [Expectations data indicate the US is entering recession about now](https://voxeu.org/article/expectations-data-indicate-us-entering-recession-about-now)
-- [Protective effects on acute hypoxic-ischemic brain damage in mfat-1 transgenic](https://www.pubcard.net/paper/63f0c6db3c1a4a4989ecae1b5bd57b17)
 - [.plan](https://plan.cat)
 - [Weekly Top 10 lists of the most-watched TV and films](https://top10.netflix.com/?)
+- [Modern Treasury &lpar;YC S18&rpar; is hiring designers to build a universal banking API](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
