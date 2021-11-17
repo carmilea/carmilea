@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Does ES6 make JavaScript frameworks obsolete?](https://stackoverflow.blog/2021/11/10/does-es6-make-javascript-frameworks-obsolete/)
-- [Amazon to stop accepting UK Visa credit cards from 2022](https://www.bloomberg.com/news/articles/2021-11-17/amazon-will-stop-accepting-visa-credit-cards-issued-in-the-u-k)
+- [Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?](https://news.ycombinator.com/item?id=29251343)
+- [Microsoft Calls Firefox’s Browser Workaround “Improper,” Will Block It](https://www.howtogeek.com/768727/microsoft-calls-firefoxs-browser-workaround-improper-will-block-it/)
+- [Amazon to stop accepting UK Visa credit cards](https://www.bloomberg.com/news/articles/2021-11-17/amazon-will-stop-accepting-visa-credit-cards-issued-in-the-u-k)
+- [Upcoming/proposed breaking changes to Haskell](https://github.com/fumieval/Haskell-breaking-changes)
 - [“Click to subscribe, call to cancel” is illegal, FTC says](https://www.niemanlab.org/2021/11/the-end-of-click-to-subscribe-call-to-cancel-one-of-the-news-industrys-favorite-retention-tactics-is-illegal-ftc-says/)
-- [The Burnout Society by Byung-Chul Han](https://apposition.substack.com/p/the-burnout-society)
-- [The OBS project has accused Streamlabs of copying their name and trademark](https://twitter.com/OBSProject/status/1460782968633499651)
 <!-- BLOG-POST-LIST:END -->
 
 ---
