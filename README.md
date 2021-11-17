@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflect &lpar;YC S20&rpar; Is Hiring a Full-Stack Software Engineer](https://www.ycombinator.com/companies/reflect/jobs/Bdo0cAY-software-engineer)
+- [Firefox Relay](https://relay.firefox.com/)
+- [Learn RegEx step by step, from zero to advanced](https://regexlearn.com/)
 - [Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?](https://news.ycombinator.com/item?id=29251343)
 - [Microsoft Calls Firefox’s Browser Workaround “Improper,” Will Block It](https://www.howtogeek.com/768727/microsoft-calls-firefoxs-browser-workaround-improper-will-block-it/)
-- [Amazon to stop accepting UK Visa credit cards](https://www.bloomberg.com/news/articles/2021-11-17/amazon-will-stop-accepting-visa-credit-cards-issued-in-the-u-k)
-- [Upcoming/proposed breaking changes to Haskell](https://github.com/fumieval/Haskell-breaking-changes)
-- [“Click to subscribe, call to cancel” is illegal, FTC says](https://www.niemanlab.org/2021/11/the-end-of-click-to-subscribe-call-to-cancel-one-of-the-news-industrys-favorite-retention-tactics-is-illegal-ftc-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
