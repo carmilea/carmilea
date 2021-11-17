@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Busy Beaver champion derived from scratch](https://nickdrozd.github.io/2021/10/31/busy-beaver-derived.html)
+- [TPM Sniffing](https://blog.scrt.ch/2021/11/15/tpm-sniffing/)
 - [Fuzzbuzz &lpar;YC W19&rpar; Is Hiring a Security Dev Advocate, Full Stack/Back End Eng](https://angel.co/company/fuzzbuzz/jobs)
 - [Daddy isn’t coming back](https://www.ft.com/content/062b5655-28b3-4bf8-9629-c3eac803c3f3)
 - [ConstitutionDAO](https://www.constitutiondao.com/)
-- [Comparing Julia to Performance Portable Parallel Programming Models for HPC [pdf]](https://scwpub21:conf21%2f%2f@conferences.computer.org/scwpub/pdfs/PMBS2021-vSqRXl4nJSV5KT4jWO5cW/111800a094/111800a094.pdf)
-- [The TPC-DS Benchmarking Showdown - A SingleStore POV](https://www.singlestore.com/blog/tpcds-benchmarking-showdown-a-singlestore-pov)
 <!-- BLOG-POST-LIST:END -->
 
 ---
