@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The features that more cameras should have](https://photographylife.com/features-more-cameras-need)
 - [Three Sins of Authors in Computer Science and Math](https://www.cs.cmu.edu/~jrs/sins.html)
 - [XMPP, a Comeback Story: A Protocol for Robust, Private and Decentralized Comms](https://takebackourtech.org/xmpp-comeback/)
 - [SSH – Spoofing FIDO2 Tokens](https://github.com/ssh-mitm/ssh-mitm)
-- [Stop paying DocuSign $2 for an e-signature](https://www.cheapesignature.com)
 - [Hacking Ham Radio for Texting](https://spectrum.ieee.org/ham-radio-text-hacking)
 <!-- BLOG-POST-LIST:END -->
 
