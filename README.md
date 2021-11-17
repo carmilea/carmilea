@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop paying DocuSign $2 for an e-signature](https://www.cheapesignature.com)
+- [Hacking Ham Radio for Texting](https://spectrum.ieee.org/ham-radio-text-hacking)
 - [Www.hive.co &lpar;YC S14&rpar; Is Profitable and Hiring in Canada &lpar;Remote-OK&rpar;](https://www.hive.co/angel)
 - [How to Grow Sodium Chloride Crystals at Home](https://crystalverse.com/sodium-chloride-crystals/)
 - [Stacked changes: how FB and Google engineers stay unblocked and ship faster](https://graphite.dev/blog/post/DThX8ffP1gmxWJChEv0y)
-- [The Perfect Configuration Format? Try TypeScript](https://reflect.run/articles/typescript-the-perfect-file-format/)
-- [To Be Energy-Efficient, Brains Predict Their Perceptions](https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
