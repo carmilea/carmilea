@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon UK to stop accepting Visa credit cards from 2022](https://www.bloomberg.com/news/articles/2021-11-17/amazon-will-stop-accepting-visa-credit-cards-issued-in-the-u-k)
+- [“Click to subscribe, call to cancel” is illegal, FTC says](https://www.niemanlab.org/2021/11/the-end-of-click-to-subscribe-call-to-cancel-one-of-the-news-industrys-favorite-retention-tactics-is-illegal-ftc-says/)
 - [The Burnout Society by Byung-Chul Han](https://apposition.substack.com/p/the-burnout-society)
 - [The OBS project has accused Streamlabs of copying their name and trademark](https://twitter.com/OBSProject/status/1460782968633499651)
 - [Ivermectin: Much More Than You Wanted to Know](https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted)
-- [Consumption of coffee and tea and risk of developing stroke and dementia](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003830)
-- [The Truth Shall Make You Free: Catholicism and the CIA](https://lareviewofbooks.org/article/the-truth-shall-make-you-free-catholicism-and-the-cia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
