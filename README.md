@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Www.hive.co &lpar;YC S14&rpar; Is Profitable and Hiring in Canada &lpar;Remote-OK&rpar;](https://www.hive.co/angel)
+- [How to Grow Sodium Chloride Crystals at Home](https://crystalverse.com/sodium-chloride-crystals/)
+- [Stacked changes: how FB and Google engineers stay unblocked and ship faster](https://graphite.dev/blog/post/DThX8ffP1gmxWJChEv0y)
 - [The Perfect Configuration Format? Try TypeScript](https://reflect.run/articles/typescript-the-perfect-file-format/)
 - [To Be Energy-Efficient, Brains Predict Their Perceptions](https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/)
-- [Layout patterns – Collection of layout patterns built using CSS](https://web.dev/patterns/layout/)
-- [Mozilla publishes position paper on the EU Digital Identity Framework](https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/)
-- [I built a $5k Raspberry Pi server &lpar;yes, it&#39;s ridiculous&rpar;](https://www.jeffgeerling.com/blog/2021/i-built-5000-raspberry-pi-server-yes-its-ridiculous)
 <!-- BLOG-POST-LIST:END -->
 
 ---
