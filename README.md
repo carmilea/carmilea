@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Consumption of coffee and tea and risk of developing stroke and dementia](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003830)
 - [The Truth Shall Make You Free: Catholicism and the CIA](https://lareviewofbooks.org/article/the-truth-shall-make-you-free-catholicism-and-the-cia/)
 - [Expectations data indicate the US is entering recession about now](https://voxeu.org/article/expectations-data-indicate-us-entering-recession-about-now)
 - [.plan](https://plan.cat)
 - [Weekly Top 10 lists of the most-watched TV and films](https://top10.netflix.com/?)
-- [Modern Treasury &lpar;YC S18&rpar; is hiring designers to build a universal banking API](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
