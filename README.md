@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Perfect Configuration Format? Try TypeScript](https://reflect.run/articles/typescript-the-perfect-file-format/)
+- [To Be Energy-Efficient, Brains Predict Their Perceptions](https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/)
+- [Layout patterns – Collection of layout patterns built using CSS](https://web.dev/patterns/layout/)
 - [Mozilla publishes position paper on the EU Digital Identity Framework](https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/)
 - [I built a $5k Raspberry Pi server &lpar;yes, it&#39;s ridiculous&rpar;](https://www.jeffgeerling.com/blog/2021/i-built-5000-raspberry-pi-server-yes-its-ridiculous)
-- [Scan of the Month: Lego Minifigures](https://www.scanofthemonth.com/)
-- [Ask HN: What&#39;s the quickest way to get something online?](https://news.ycombinator.com/item?id=29253277)
-- [Netlify Raises $105M and aquires OneGraph](https://www.netlify.com/press/netlify-raises-usd105-million-to-transform-development-for-the-modern-web)
 <!-- BLOG-POST-LIST:END -->
 
 ---
