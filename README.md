@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Sins of Authors in Computer Science and Math](https://www.cs.cmu.edu/~jrs/sins.html)
+- [XMPP, a Comeback Story: A Protocol for Robust, Private and Decentralized Comms](https://takebackourtech.org/xmpp-comeback/)
+- [SSH – Spoofing FIDO2 Tokens](https://github.com/ssh-mitm/ssh-mitm)
 - [Stop paying DocuSign $2 for an e-signature](https://www.cheapesignature.com)
 - [Hacking Ham Radio for Texting](https://spectrum.ieee.org/ham-radio-text-hacking)
-- [Www.hive.co &lpar;YC S14&rpar; Is Profitable and Hiring in Canada &lpar;Remote-OK&rpar;](https://www.hive.co/angel)
-- [How to Grow Sodium Chloride Crystals at Home](https://crystalverse.com/sodium-chloride-crystals/)
-- [Stacked changes: how FB and Google engineers stay unblocked and ship faster](https://graphite.dev/blog/post/DThX8ffP1gmxWJChEv0y)
 <!-- BLOG-POST-LIST:END -->
 
 ---
