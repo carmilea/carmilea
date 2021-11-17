@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Scott Aaronson, when reached for comment, said](https://scottaaronson.blog/?p=6111)
+- [.plan](https://plan.cat)
 - [Considering a Sphere](https://www.solipsys.co.uk/new/ConsideringASphere.html?UK16HN)
 - [The California Life of Czesław Miłosz](https://lareviewofbooks.org/article/a-home-in-the-neon-heat-of-nature-a-new-biography-of-czeslaw-milosz/)
-- [Netflix now sharing worldwide top10 viewing data with export options](https://top10.netflix.com/?)
+- [Weekly Top 10 lists of the most-watched TV and films](https://top10.netflix.com/?)
 - [Modern Treasury &lpar;YC S18&rpar; is hiring designers to build a universal banking API](https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd)
 <!-- BLOG-POST-LIST:END -->
 
