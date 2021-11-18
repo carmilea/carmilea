@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The DOI System](https://www.doi.org/)
+- [Dangerous bug in Chrome’s ‘New Tab’ page bypassed security features](https://portswigger.net/daily-swig/dangerous-xss-bug-in-google-chromes-new-tab-page-bypassed-security-features)
 - [10 years of whatever this has been](https://apenwarr.ca/log/20211117)
 - [Power Fx: open-source now available](https://powerapps.microsoft.com/en-us/blog/power-fx-open-source-now-available/)
 - [Dask – a flexible library for parallel computing in Python](https://dask.org/)
-- [Microsoft gaming chief calls for industry-wide game preservation](https://www.axios.com/microsoft-old-games-preserve-emulation-748793a7-f559-4933-babf-81f34adc7cf6.html)
-- [Most who want simple ‘bonsai’ trees are ill-served by traditional bonsai methods](https://dirtwise.substack.com/p/the-wacky-wily-wonderful-world-of)
 <!-- BLOG-POST-LIST:END -->
 
 ---
