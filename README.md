@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TheNFTbay.org – The Billion Dollar Torrent &lpar;All NFT&#39;s from Ethereum and Solana&rpar;](https://thenftbay.org/description.html)
+- [Demystifying OpenZFS 2.0](https://klarasystems.com/articles/demystifying-openzfs-2-0/)
 - [German state planning to switch 25,000 PCs to LibreOffice](https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/)
 - [AtoB &lpar;YC S20&rpar; is building Stripe for Transportation and hiring eng managers](https://careers.atob.com/8655cd0666f64b10bef05ca7d5d34e09)
-- [Various ways to include comments on your static site](https://darekkay.com/blog/static-site-comments/)
-- [What does microblogging give you that forums didn&#39;t?](https://cybre.space/@tindall/107276933803596360)
-- [Ask HN: What are you using for public documentation these days?](https://news.ycombinator.com/item?id=29264374)
+- [Various ways to include comments on a static site &lpar;2018&rpar;](https://darekkay.com/blog/static-site-comments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
