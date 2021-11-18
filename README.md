@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Memfault &lpar;YC W19&rpar; Is Hiring Software Engineers in Germany](https://jobs.lever.co/memfault/f2ee407e-80b3-44c5-a01a-b6fd21a19e78)
 - [The DOI System](https://www.doi.org/)
 - [Tldraw – a tiny little drawing app](https://www.tldraw.com/)
 - [Renesas enters FPGA market with the first ultra-low-power, low-cost family](https://www.renesas.com/us/en/about/press-room/renesas-enters-fpga-market-first-ultra-low-power-low-cost-family-addressing-low-density-high-volume)
 - [Dangerous bug in Chrome’s ‘New Tab’ page bypassed security features](https://portswigger.net/daily-swig/dangerous-xss-bug-in-google-chromes-new-tab-page-bypassed-security-features)
-- [10 years of whatever this has been](https://apenwarr.ca/log/20211117)
 <!-- BLOG-POST-LIST:END -->
 
 ---
