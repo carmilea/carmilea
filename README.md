@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Dask – a flexible library for parallel computing in Python](https://dask.org/)
+- [Yes, PHP Is Worth Learning/Using in $Current_year](https://bulletproofphp.dev/yes-php-is-worth-using)
 - [Microsoft gaming chief calls for industry-wide game preservation](https://www.axios.com/microsoft-old-games-preserve-emulation-748793a7-f559-4933-babf-81f34adc7cf6.html)
 - [Most who want simple ‘bonsai’ trees are ill-served by traditional bonsai methods](https://dirtwise.substack.com/p/the-wacky-wily-wonderful-world-of)
 - [A Busy Beaver champion derived from scratch](https://nickdrozd.github.io/2021/10/31/busy-beaver-derived.html)
-- [TPM Sniffing](https://blog.scrt.ch/2021/11/15/tpm-sniffing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
