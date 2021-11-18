@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TensorFlow Graph Neural Networks](https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html)
-- [Twitter rolls back AMP support, no longer sends users to AMP pages](https://searchengineland.com/twitter-rolls-back-amp-support-no-longer-sends-users-to-amp-pages-376168)
-- [Cold War spy satellites were calibrated with marks in the Arizona desert](https://www.thespacereview.com/article/4094/1)
-- [Can beavers make our cities better?](https://www.rewildingmag.com/can-beavers-make-our-cities-better/)
-- [Palm oil favors tumor expansion](https://www.irbbarcelona.org/en/news/scientific/palmitic-acid-promotes-cancer-metastasis-and-leaves-more-aggressive-memory-tumour)
+- [Solar-Driven Water Splitting at 13.8% Solar-to-Hydrogen Efficiency](https://pubs.acs.org/doi/10.1021/acssuschemeng.1c03565)
+- [ECB sees rising risk that housing bubble will burst](https://www.reuters.com/article/ecb-economy-stability-idUSKBN2I20Q3)
+- [Learning Rust for Embedded Systems](https://www.EmbeddedRelated.com/showarticle/1432.php)
+- [Chess Grandmaster Kasparov on Mob Mentality and Groupthink](https://www.wsj.com/articles/woke-is-a-bad-word-for-a-real-threat-to-american-democracy-cancel-culture-freedom-11637184284)
+- [I would like closure, but I&#39;ll take honesty](https://freddiedeboer.substack.com/p/i-would-like-closure-but-ill-take)
 <!-- BLOG-POST-LIST:END -->
 
 ---
