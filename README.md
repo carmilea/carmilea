@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Biomarker predicts severity of Covid-19 infection early on](https://www.mpg.de/17722615/1021-pfor-biomarker-predicts-severity-of-covid-19-infection-early-on-149770-x)
-- [Memfault &lpar;YC W19&rpar; Is Hiring Software Engineers in Germany](https://jobs.lever.co/memfault/f2ee407e-80b3-44c5-a01a-b6fd21a19e78)
-- [The DOI System](https://www.doi.org/)
-- [Tldraw – a tiny little drawing app](https://www.tldraw.com/)
-- [Renesas enters FPGA market with the first ultra-low-power, low-cost family](https://www.renesas.com/us/en/about/press-room/renesas-enters-fpga-market-first-ultra-low-power-low-cost-family-addressing-low-density-high-volume)
+- [AtoB &lpar;YC S20&rpar; is building Stripe for Transportation and hiring eng managers](https://careers.atob.com/8655cd0666f64b10bef05ca7d5d34e09)
+- [Various ways to include comments on your static site](https://darekkay.com/blog/static-site-comments/)
+- [Ask HN: What are you using for public documentation these days?](https://news.ycombinator.com/item?id=29264374)
+- [IRCv3 spec round-up 2021](https://ircv3.net/2021/11/17/spec-round-up)
+- [Five mysteries the Standard Model can’t explain](https://www.symmetrymagazine.org/article/five-mysteries-the-standard-model-cant-explain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
