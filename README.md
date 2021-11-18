@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://www.usemotion.com/careers)
+- [MOOC on Mobile Robotics using ROS 2 and your own affordable robot](https://blog.hadabot.com/learn-ros2-mobile-robotics-mooc-with-hadabot-robot-kit.html)
 - [Solar-Driven Water Splitting at 13.8% Solar-to-Hydrogen Efficiency](https://pubs.acs.org/doi/10.1021/acssuschemeng.1c03565)
+- [Open Source Plastic Scanner](https://plasticscanner.com/)
 - [ECB sees rising risk that housing bubble will burst](https://www.reuters.com/article/ecb-economy-stability-idUSKBN2I20Q3)
-- [Learning Rust for Embedded Systems](https://www.EmbeddedRelated.com/showarticle/1432.php)
-- [Chess Grandmaster Kasparov on Mob Mentality and Groupthink](https://www.wsj.com/articles/woke-is-a-bad-word-for-a-real-threat-to-american-democracy-cancel-culture-freedom-11637184284)
-- [I would like closure, but I&#39;ll take honesty](https://freddiedeboer.substack.com/p/i-would-like-closure-but-ill-take)
 <!-- BLOG-POST-LIST:END -->
 
 ---
