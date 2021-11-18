@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Joy.js – make happy little programs](https://ncase.me/joy/#examples)
+- [How I got wealthy without working too hard](https://amaca.substack.com/p/how-i-got-wealthy-without-working)
 - [Ask HN: Career progression vs. meaningful/appealing products?](https://news.ycombinator.com/item?id=29266094)
+- [Lemmy Release v0.14.0: Federation with Mastodon and Pleroma](https://lemmy.ml/post/89740)
 - [Alpine Linux: Considering LibreSSL as default OpenSSL provider again](https://gitlab.alpinelinux.org/alpine/tsc/-/issues/28)
-- [Backdooring Rust crates for fun and profit](https://kerkour.com/rust-crate-backdoor/)
-- [How we protect our most sensitive secrets from the most determined attackers](https://monzo.com/blog/2021/11/18/protecting-our-most-sensitive-secrets/)
-- [OpenAI’s API Now Available with No Waitlist](https://openai.com/blog/api-no-waitlist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
