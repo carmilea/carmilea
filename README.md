@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dendron &lpar;YC W21&rpar; Is Hiring React/TS Expert to Build Better Tools for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
-- [Nona – A German Search Engine](https://www.nona.de/)
-- [LAPD: Spy Camera Detection Using Smartphone Time-of-Flight Sensors](https://dl.acm.org/doi/10.1145/3485730.3485941)
-- [Joy.js – make happy little programs](https://ncase.me/joy/#examples)
-- [How I got wealthy without working too hard](https://amaca.substack.com/p/how-i-got-wealthy-without-working)
+- [Twitter rolls back AMP support, no longer sends users to AMP pages](https://searchengineland.com/twitter-rolls-back-amp-support-no-longer-sends-users-to-amp-pages-376168)
+- [Cold War spy satellites were calibrated with marks in the Arizona desert](https://www.thespacereview.com/article/4094/1)
+- [Can beavers make our cities better?](https://www.rewildingmag.com/can-beavers-make-our-cities-better/)
+- [Palm oil favors tumor expansion](https://www.irbbarcelona.org/en/news/scientific/palmitic-acid-promotes-cancer-metastasis-and-leaves-more-aggressive-memory-tumour)
+- [A physicist studied Ben Franklin’s clever tricks to foil currency counterfeiters](https://arstechnica.com/science/2021/11/history-detective-using-physics-to-track-currency-fraud-forgery-through-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
