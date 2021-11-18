@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The DOI System](https://www.doi.org/)
+- [Tldraw – a tiny little drawing app](https://www.tldraw.com/)
+- [Renesas enters FPGA market with the first ultra-low-power, low-cost family](https://www.renesas.com/us/en/about/press-room/renesas-enters-fpga-market-first-ultra-low-power-low-cost-family-addressing-low-density-high-volume)
 - [Dangerous bug in Chrome’s ‘New Tab’ page bypassed security features](https://portswigger.net/daily-swig/dangerous-xss-bug-in-google-chromes-new-tab-page-bypassed-security-features)
 - [10 years of whatever this has been](https://apenwarr.ca/log/20211117)
-- [Power Fx: open-source now available](https://powerapps.microsoft.com/en-us/blog/power-fx-open-source-now-available/)
-- [Dask – a flexible library for parallel computing in Python](https://dask.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
