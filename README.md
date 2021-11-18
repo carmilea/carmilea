@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dask – a flexible library for parallel computing in Python](https://dask.org/)
 - [Microsoft gaming chief calls for industry-wide game preservation](https://www.axios.com/microsoft-old-games-preserve-emulation-748793a7-f559-4933-babf-81f34adc7cf6.html)
-- [HandBrake – An open source video transcoder](https://handbrake.fr/)
 - [A Busy Beaver champion derived from scratch](https://nickdrozd.github.io/2021/10/31/busy-beaver-derived.html)
 - [TPM Sniffing](https://blog.scrt.ch/2021/11/15/tpm-sniffing/)
 - [Fuzzbuzz &lpar;YC W19&rpar; Is Hiring a Security Dev Advocate, Full Stack/Back End Eng](https://angel.co/company/fuzzbuzz/jobs)
