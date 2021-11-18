@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Save the planet Program in C, avoid Python, Perl](https://www.cnx-software.com/2021/11/18/save-the-planet-program-in-c-avoid-python-perl/)
 - [Futurists have their heads in the clouds](https://erikhoel.substack.com/p/futurists-have-their-heads-in-the)
-- [SerenityOS demo at Handmade Seattle 2021](https://media.handmade-seattle.com/serenityos/)
+- [Show HN: I made a drag and drop website builder that works on mobile](https://straw.page)
+- [SerenityOS demo at Handmade Seattle 2021 [video]](https://media.handmade-seattle.com/serenityos/)
 - [Notes on Web3](https://society.robinsloan.com/archive/notes-on-web3/)
-- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://www.usemotion.com/careers)
-- [MOOC on Mobile Robotics using ROS 2 and your own affordable robot](https://blog.hadabot.com/learn-ros2-mobile-robotics-mooc-with-hadabot-robot-kit.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
