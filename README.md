@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TensorFlow Graph Neural Networks](https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html)
 - [Twitter rolls back AMP support, no longer sends users to AMP pages](https://searchengineland.com/twitter-rolls-back-amp-support-no-longer-sends-users-to-amp-pages-376168)
 - [Cold War spy satellites were calibrated with marks in the Arizona desert](https://www.thespacereview.com/article/4094/1)
 - [Can beavers make our cities better?](https://www.rewildingmag.com/can-beavers-make-our-cities-better/)
 - [Palm oil favors tumor expansion](https://www.irbbarcelona.org/en/news/scientific/palmitic-acid-promotes-cancer-metastasis-and-leaves-more-aggressive-memory-tumour)
-- [A physicist studied Ben Franklin’s clever tricks to foil currency counterfeiters](https://arstechnica.com/science/2021/11/history-detective-using-physics-to-track-currency-fraud-forgery-through-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
