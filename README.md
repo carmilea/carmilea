@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Futurists have their heads in the clouds](https://erikhoel.substack.com/p/futurists-have-their-heads-in-the)
+- [SerenityOS demo at Handmade Seattle 2021](https://media.handmade-seattle.com/serenityos/)
+- [Notes on Web3](https://society.robinsloan.com/archive/notes-on-web3/)
 - [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://www.usemotion.com/careers)
 - [MOOC on Mobile Robotics using ROS 2 and your own affordable robot](https://blog.hadabot.com/learn-ros2-mobile-robotics-mooc-with-hadabot-robot-kit.html)
-- [Solar-Driven Water Splitting at 13.8% Solar-to-Hydrogen Efficiency](https://pubs.acs.org/doi/10.1021/acssuschemeng.1c03565)
-- [Open Source Plastic Scanner](https://plasticscanner.com/)
-- [ECB sees rising risk that housing bubble will burst](https://www.reuters.com/article/ecb-economy-stability-idUSKBN2I20Q3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
