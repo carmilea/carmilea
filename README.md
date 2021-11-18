@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dendron &lpar;YC W21&rpar; Is Hiring React/TS Expert to Build Better Tools for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI.html)
+- [Nona – A German Search Engine](https://www.nona.de/)
+- [LAPD: Spy Camera Detection Using Smartphone Time-of-Flight Sensors](https://dl.acm.org/doi/10.1145/3485730.3485941)
 - [Joy.js – make happy little programs](https://ncase.me/joy/#examples)
 - [How I got wealthy without working too hard](https://amaca.substack.com/p/how-i-got-wealthy-without-working)
-- [Ask HN: Career progression vs. meaningful/appealing products?](https://news.ycombinator.com/item?id=29266094)
-- [Lemmy Release v0.14.0: Federation with Mastodon and Pleroma](https://lemmy.ml/post/89740)
-- [Alpine Linux: Considering LibreSSL as default OpenSSL provider again](https://gitlab.alpinelinux.org/alpine/tsc/-/issues/28)
 <!-- BLOG-POST-LIST:END -->
 
 ---
