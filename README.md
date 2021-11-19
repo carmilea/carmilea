@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Woman discovers AirTag on her vehicle after receiving iPhone alert](https://www.kait8.com/2021/11/18/jonesboro-woman-finds-something-unexpected-her-car/)
+- [In-orbit demonstration of an iodine electric propulsion system](https://www.nature.com/articles/s41586-021-04015-y)
+- [Pangea successfully hot fire tests first MethaLox aerospike engine in the world](https://www.satellite-evolution.com/post/pangea-aerospace-successfully-hot-fire-tests-the-first-methalox-aerospike-engine-in-the-world)
 - [Elfshaker: 400 GiB to 100 MiB, with 1s access time](https://github.com/elfshaker/elfshaker)
-- [Jitx &lpar;YC S18&rpar; is hiring senior developers to automate circuit board design](https://jobs.lever.co/jitxinc/6241d90f-03a1-40d0-8703-63c92fac5846)
-- [Effekt, a research language with effect handlers and lightweight polymorphism](https://effekt-lang.org/)
-- [Tasking developers with creating detailed estimates is a waste of time &lpar;2020&rpar;](https://iism.org/article/is-tasking-developers-with-creating-detailed-estimates-a-waste-of-company-money-42)
-- [Ask HN: Why is there no good open-source LMS?](https://news.ycombinator.com/item?id=29275470)
+- [The price of individualism has proved to be the loss of privacy](https://www.noemamag.com/surveillance-capitalism-vs-the-surveillance-state/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
