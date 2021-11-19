@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Woman discovers AirTag on her vehicle after receiving iPhone alert](https://www.kait8.com/2021/11/18/jonesboro-woman-finds-something-unexpected-her-car/)
-- [In-orbit demonstration of an iodine electric propulsion system](https://www.nature.com/articles/s41586-021-04015-y)
-- [Pangea successfully hot fire tests first MethaLox aerospike engine in the world](https://www.satellite-evolution.com/post/pangea-aerospace-successfully-hot-fire-tests-the-first-methalox-aerospike-engine-in-the-world)
-- [Elfshaker: 400 GiB to 100 MiB, with 1s access time](https://github.com/elfshaker/elfshaker)
-- [The price of individualism has proved to be the loss of privacy](https://www.noemamag.com/surveillance-capitalism-vs-the-surveillance-state/)
+- [Tech journalism is less diverse than tech &lpar;2020&rpar;](https://oonwoye.com/2020/07/31/tech-journalism-is-less-diverse-than-tech/)
+- [Marriott refused to host Uyghur conference, citing “political neutrality”](https://www.axios.com/marriott-uyghur-conference-d6deb429-9b5e-4759-ba10-98d59e81be12.html)
+- [Premature Blogging Death Notice](https://onemanandhisblog.com/2021/10/premature-blogging-death-notice/)
+- [Swedish study finds discrimination against men in female-dominated occupations](https://www.psypost.org/2021/05/swedish-study-suggests-hiring-discrimination-is-primarily-a-problem-for-men-in-female-dominated-occupations-60699)
+- [Crypto group loses bid to buy US Constitution copy](https://www.theblockcrypto.com/linked/124872/crypto-group-loses-bid-to-buy-rare-us-constitution-copy-in-record-breaking-sothebys-auction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
