@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Save the planet Program in C, avoid Python, Perl](https://www.cnx-software.com/2021/11/18/save-the-planet-program-in-c-avoid-python-perl/)
+- [Addressing Common Concerns with a World Without Timezones](https://www.connorcallahan.info/timezones.html)
+- [Acquisition of chess knowledge in AlphaZero](https://en.chessbase.com/post/acquisition-of-chess-knowledge-in-alphazero)
 - [Futurists have their heads in the clouds](https://erikhoel.substack.com/p/futurists-have-their-heads-in-the)
 - [Show HN: I made a drag and drop website builder that works on mobile](https://straw.page)
 - [SerenityOS demo at Handmade Seattle 2021 [video]](https://media.handmade-seattle.com/serenityos/)
-- [Notes on Web3](https://society.robinsloan.com/archive/notes-on-web3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
