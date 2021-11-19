@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla servers throwing 500 errors. People unable to unlock their cars](https://teslamotorsclub.com/tmc/threads/app-is-getting-500-server-error-cant-connect.247264/)
+- [A smart collar for cows could revolutionize farming](https://thehustle.co/11192021-cow-smart-collar/)
 - [Pabio &lpar;YC S21&rpar; Is Hiring a Senior Full Stack JavaScript/TS Engineer](https://careers.pabio.com/Senior-Full-Stack-JS-TS-Engineer-ba04ed2641b64499b57e91786d2c7bc6)
 - [Why Are Topre Keyboards So Expensive?](https://switchandclick.com/why-are-topre-keyboards-so-expensive/)
 - [Renaissance Science – XXII: Land Surveying](https://thonyc.wordpress.com/2021/11/04/renaissance-science-xxii/)
