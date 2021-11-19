@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pabio &lpar;YC S21&rpar; Is Hiring a Senior Full Stack JavaScript/TS Engineer](https://careers.pabio.com/Senior-Full-Stack-JS-TS-Engineer-ba04ed2641b64499b57e91786d2c7bc6)
+- [Why Are Topre Keyboards So Expensive?](https://switchandclick.com/why-are-topre-keyboards-so-expensive/)
+- [Renaissance Science – XXII: Land Surveying](https://thonyc.wordpress.com/2021/11/04/renaissance-science-xxii/)
 - [Ask HN: I purchased a domain and now the registry wants to take it back](https://news.ycombinator.com/item?id=29281532)
-- [Zstandard RFC 8878](https://datatracker.ietf.org/doc/html/rfc8878)
-- [The WeeCee – Tiny Vortex86-Based DOS Gaming PC](https://www.vogons.org/viewtopic.php?t=80651)
-- [Ask HN: Best cars without too much digitalization?](https://news.ycombinator.com/item?id=29281034)
-- [China&#39;s Foreign Ministry &#39;not aware&#39; of situation of tennis player Peng Shuai](https://www.espn.com/tennis/story/_/id/32665214/china-foreign-ministry-not-aware-situation-surrounding-tennis-player-peng-shuai)
+- [I feel so shallow and dumb when I see what other smart people are doing](https://news.ycombinator.com/item?id=29281468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
