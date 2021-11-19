@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scamspotter.org – Google and Cybercrime Support Network Partnership](https://scamspotter.org/)
+- [Ask HN: What extensions/packs of VS Code are must for web/developers to install?](https://news.ycombinator.com/item?id=29278370)
+- [Adults who microdose psychedelics report lower levels of depression and anxiety [pdf]](https://www.nature.com/articles/s41598-021-01811-4.pdf)
+- [Show HN: Pony is a messenger for mindful correspondence. It delivers once a day](https://www.ponymessenger.com)
 - [Tech journalism is less diverse than tech &lpar;2020&rpar;](https://oonwoye.com/2020/07/31/tech-journalism-is-less-diverse-than-tech/)
-- [Marriott refused to host Uyghur conference, citing “political neutrality”](https://www.axios.com/marriott-uyghur-conference-d6deb429-9b5e-4759-ba10-98d59e81be12.html)
-- [Premature Blogging Death Notice](https://onemanandhisblog.com/2021/10/premature-blogging-death-notice/)
-- [Swedish study finds discrimination against men in female-dominated occupations](https://www.psypost.org/2021/05/swedish-study-suggests-hiring-discrimination-is-primarily-a-problem-for-men-in-female-dominated-occupations-60699)
-- [Crypto group loses bid to buy US Constitution copy](https://www.theblockcrypto.com/linked/124872/crypto-group-loses-bid-to-buy-rare-us-constitution-copy-in-record-breaking-sothebys-auction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
