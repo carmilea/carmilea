@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stacker &lpar;YC S20&rpar; Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
 - [Fragment of lost 12th-century epic poem found in another book’s binding](https://www.theguardian.com/books/2021/nov/18/fragment-of-lost-12th-century-epic-poem-found-in-another-books-binding)
 - [IPv4 unicast extensions project – adding 419M new IPs to the world](https://github.com/schoen/unicast-extensions)
 - [80386DX ISA single board microcomputer](https://alexandrugroza.ro/microelectronics/system-design/isa-80386dx-sbmc/index.html)
 - [Google SAPI: Generate sandboxes for C/C++ libraries automatically](https://github.com/google/sandboxed-api)
-- [Notes on ConstitutionDAO](https://every.to/divinations/notes-on-constitutiondao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
