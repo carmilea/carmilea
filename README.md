@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyperseed, No-Code for Finance &lpar;YC S21&rpar; Is Hiring a Part-Time UI/UX Designer](https://www.ycombinator.com/companies/hyperseed/jobs/WxivDxl-ui-interface-workflow-designer-for-new-no-code-platform-for-finance)
+- [The Tinkerbell Griftopia](https://www.stephendiehl.com/blog/tinkerbell.html)
+- [70% of the volume in the top crypto exchanges is fraudulent wash trading](https://arxiv.org/abs/2108.10984)
 - [Scamspotter.org – Google and Cybercrime Support Network Partnership](https://scamspotter.org/)
-- [Ask HN: What extensions/packs of VS Code are must for web/developers to install?](https://news.ycombinator.com/item?id=29278370)
 - [Adults who microdose psychedelics report lower levels of depression and anxiety [pdf]](https://www.nature.com/articles/s41598-021-01811-4.pdf)
-- [Show HN: Pony is a messenger for mindful correspondence. It delivers once a day](https://www.ponymessenger.com)
-- [Tech journalism is less diverse than tech &lpar;2020&rpar;](https://oonwoye.com/2020/07/31/tech-journalism-is-less-diverse-than-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
