@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fragment of lost 12th-century epic poem found in another book’s binding](https://www.theguardian.com/books/2021/nov/18/fragment-of-lost-12th-century-epic-poem-found-in-another-books-binding)
+- [IPv4 unicast extensions project – adding 419M new IPs to the world](https://github.com/schoen/unicast-extensions)
+- [80386DX ISA single board microcomputer](https://alexandrugroza.ro/microelectronics/system-design/isa-80386dx-sbmc/index.html)
 - [Google SAPI: Generate sandboxes for C/C++ libraries automatically](https://github.com/google/sandboxed-api)
-- [A Xiaomi phone might’ve shipped with a censorship list in Europe](https://bigtechnology.substack.com/p/a-xiaomi-phone-mightve-shipped-with)
-- [FDA wants 55 years to process FOIA request over vaccine data](https://www.reuters.com/legal/government/wait-what-fda-wants-55-years-process-foia-request-over-vaccine-data-2021-11-18/)
-- [Duff’s Device in 2021](https://belaycpp.com/2021/11/18/duffs-device-in-2021/)
-- [Google Play permitting alternative billing systems for users in South Korea](https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-en.html)
+- [Notes on ConstitutionDAO](https://every.to/divinations/notes-on-constitutiondao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
