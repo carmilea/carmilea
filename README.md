@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jitx &lpar;YC S18&rpar; is hiring senior developers to automate circuit board design](https://jobs.lever.co/jitxinc/6241d90f-03a1-40d0-8703-63c92fac5846)
 - [Tasking developers with creating detailed estimates is a waste of time](https://iism.org/article/is-tasking-developers-with-creating-detailed-estimates-a-waste-of-company-money-42)
 - [UK to ban all in-hand mobile phone use while driving in 2022](https://www.theguardian.com/world/2021/nov/19/uk-drivers-face-200-fines-in-mobile-phone-clampdown)
 - [Ask HN: Why is there no good open-source LMS?](https://news.ycombinator.com/item?id=29275470)
 - [New Ransomware Reporting Rules for US Financial Institutions](https://www.cpomagazine.com/cyber-security/new-ransomware-reporting-rules-for-us-financial-institutions-proposed-bill-would-require-government-permission-for-payments-over-100000/)
-- [The Spiral Staircase Myth &lpar;2020&rpar;](https://triskeleheritage.triskelepublishing.com/mediaeval-mythbusting-blog-2-the-man-who-invented-the-spiral-staircase-myth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
