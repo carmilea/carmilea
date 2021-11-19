@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultracold, superdense atoms become invisible](https://news.mit.edu/2021/atoms-ultracold-scatter-light-1118)
-- [The Amazon lobbyists who kill U.S. consumer privacy protections](https://www.reuters.com/investigates/special-report/amazon-privacy-lobbying/)
-- [SpaceX will ‘hopefully’ launch first orbital Starship flight in January](https://www.cnbc.com/2021/11/17/elon-musk-spacex-will-hopefully-launch-starship-flight-in-january.html)
-- [Hyperseed, No-Code for Finance &lpar;YC S21&rpar; Is Hiring a Part-Time UI/UX Designer](https://www.ycombinator.com/companies/hyperseed/jobs/WxivDxl-ui-interface-workflow-designer-for-new-no-code-platform-for-finance)
-- [The Tinkerbell Griftopia](https://www.stephendiehl.com/blog/tinkerbell.html)
+- [Ask HN: I purchased a domain and now the registry wants to take it back](https://news.ycombinator.com/item?id=29281532)
+- [Zstandard RFC 8878](https://datatracker.ietf.org/doc/html/rfc8878)
+- [The WeeCee – Tiny Vortex86-Based DOS Gaming PC](https://www.vogons.org/viewtopic.php?t=80651)
+- [Ask HN: Best cars without too much digitalization?](https://news.ycombinator.com/item?id=29281034)
+- [China&#39;s Foreign Ministry &#39;not aware&#39; of situation of tennis player Peng Shuai](https://www.espn.com/tennis/story/_/id/32665214/china-foreign-ministry-not-aware-situation-surrounding-tennis-player-peng-shuai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
