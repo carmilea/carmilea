@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla servers throwing 500 errors. People unable to unlock their cars](https://teslamotorsclub.com/tmc/threads/app-is-getting-500-server-error-cant-connect.247264/)
 - [Pabio &lpar;YC S21&rpar; Is Hiring a Senior Full Stack JavaScript/TS Engineer](https://careers.pabio.com/Senior-Full-Stack-JS-TS-Engineer-ba04ed2641b64499b57e91786d2c7bc6)
 - [Why Are Topre Keyboards So Expensive?](https://switchandclick.com/why-are-topre-keyboards-so-expensive/)
 - [Renaissance Science – XXII: Land Surveying](https://thonyc.wordpress.com/2021/11/04/renaissance-science-xxii/)
-- [Ask HN: I purchased a domain and now the registry wants to take it back](https://news.ycombinator.com/item?id=29281532)
-- [I feel so shallow and dumb when I see what other smart people are doing](https://news.ycombinator.com/item?id=29281468)
+- [How Metro Agencies Design the Letter &#39;M&#39;](https://www.bloomberg.com/news/articles/2015-06-08/how-77-metro-agencies-design-the-letter-m-for-their-transit-logo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
