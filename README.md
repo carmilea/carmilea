@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google SAPI: Generate sandboxes for C/C++ libraries automatically](https://github.com/google/sandboxed-api)
+- [A Xiaomi phone might’ve shipped with a censorship list in Europe](https://bigtechnology.substack.com/p/a-xiaomi-phone-mightve-shipped-with)
 - [FDA wants 55 years to process FOIA request over vaccine data](https://www.reuters.com/legal/government/wait-what-fda-wants-55-years-process-foia-request-over-vaccine-data-2021-11-18/)
 - [Duff’s Device in 2021](https://belaycpp.com/2021/11/18/duffs-device-in-2021/)
 - [Xeact 0.0.69: A Revolutionary Femtoframework for High Efficiency JavaScript Dev](https://christine.website/blog/xeact-0.0.69-2021-11-18)
-- [Google Play permitting alternative billing systems for users in South Korea](https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-en.html)
-- [Where is Ruby Headed in 2021?](https://bignerdranch.com/blog/where-is-ruby-headed-in-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
