@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [If You’re So Smart, Why Aren’t You Rich?](https://www.technologyreview.com/2018/03/01/144958/if-youre-so-smart-why-arent-you-rich-turns-out-its-just-chance/)
+- [Ask HN: Why is there no good open-source LMS?](https://news.ycombinator.com/item?id=29275470)
+- [Austria makes Covid19 vaccination mandatory as of Feb 2022](https://www.rainews.it/tgr/tagesschau/articoli/2021/11/tag-Oesterreich-Lockdown-Salzburg-Oberoesterreich-Pandemie-Coronavirus-fcd1b77f-d64d-4e52-8dae-23301a7c2790.html)
 - [New Ransomware Reporting Rules for US Financial Institutions](https://www.cpomagazine.com/cyber-security/new-ransomware-reporting-rules-for-us-financial-institutions-proposed-bill-would-require-government-permission-for-payments-over-100000/)
 - [The Spiral Staircase Myth &lpar;2020&rpar;](https://triskeleheritage.triskelepublishing.com/mediaeval-mythbusting-blog-2-the-man-who-invented-the-spiral-staircase-myth/)
 - [Stacker &lpar;YC S20&rpar; Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
-- [Fragment of lost 12th-century epic poem found in another book’s binding](https://www.theguardian.com/books/2021/nov/18/fragment-of-lost-12th-century-epic-poem-found-in-another-books-binding)
 <!-- BLOG-POST-LIST:END -->
 
 ---
