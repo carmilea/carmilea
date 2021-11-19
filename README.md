@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A jury acquitted Kyle Rittenhouse of all charges](https://twitter.com/AP/status/1461760686799953922)
 - [Hyperseed, No-Code for Finance &lpar;YC S21&rpar; Is Hiring a Part-Time UI/UX Designer](https://www.ycombinator.com/companies/hyperseed/jobs/WxivDxl-ui-interface-workflow-designer-for-new-no-code-platform-for-finance)
 - [The Tinkerbell Griftopia](https://www.stephendiehl.com/blog/tinkerbell.html)
 - [70% of the volume in the top crypto exchanges is fraudulent wash trading](https://arxiv.org/abs/2108.10984)
 - [Scamspotter.org – Google and Cybercrime Support Network Partnership](https://scamspotter.org/)
-- [Adults who microdose psychedelics report lower levels of depression and anxiety [pdf]](https://www.nature.com/articles/s41598-021-01811-4.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
