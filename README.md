@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A jury acquitted Kyle Rittenhouse of all charges](https://twitter.com/AP/status/1461760686799953922)
+- [Ultracold, superdense atoms become invisible](https://news.mit.edu/2021/atoms-ultracold-scatter-light-1118)
+- [The Amazon lobbyists who kill U.S. consumer privacy protections](https://www.reuters.com/investigates/special-report/amazon-privacy-lobbying/)
+- [SpaceX will ‘hopefully’ launch first orbital Starship flight in January](https://www.cnbc.com/2021/11/17/elon-musk-spacex-will-hopefully-launch-starship-flight-in-january.html)
 - [Hyperseed, No-Code for Finance &lpar;YC S21&rpar; Is Hiring a Part-Time UI/UX Designer](https://www.ycombinator.com/companies/hyperseed/jobs/WxivDxl-ui-interface-workflow-designer-for-new-no-code-platform-for-finance)
 - [The Tinkerbell Griftopia](https://www.stephendiehl.com/blog/tinkerbell.html)
-- [70% of the volume in the top crypto exchanges is fraudulent wash trading](https://arxiv.org/abs/2108.10984)
-- [Scamspotter.org – Google and Cybercrime Support Network Partnership](https://scamspotter.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
