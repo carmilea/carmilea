@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If You’re So Smart, Why Aren’t You Rich?](https://www.technologyreview.com/2018/03/01/144958/if-youre-so-smart-why-arent-you-rich-turns-out-its-just-chance/)
+- [New Ransomware Reporting Rules for US Financial Institutions](https://www.cpomagazine.com/cyber-security/new-ransomware-reporting-rules-for-us-financial-institutions-proposed-bill-would-require-government-permission-for-payments-over-100000/)
 - [The Spiral Staircase Myth &lpar;2020&rpar;](https://triskeleheritage.triskelepublishing.com/mediaeval-mythbusting-blog-2-the-man-who-invented-the-spiral-staircase-myth/)
 - [Stacker &lpar;YC S20&rpar; Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
 - [Fragment of lost 12th-century epic poem found in another book’s binding](https://www.theguardian.com/books/2021/nov/18/fragment-of-lost-12th-century-epic-poem-found-in-another-books-binding)
-- [IPv4 unicast extensions project – adding 419M new IPs to the world](https://github.com/schoen/unicast-extensions)
-- [80386DX ISA single board microcomputer](https://alexandrugroza.ro/microelectronics/system-design/isa-80386dx-sbmc/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
