@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Duff’s Device in 2021](https://belaycpp.com/2021/11/18/duffs-device-in-2021/)
+- [Google Play permitting alternative billing systems for users in South Korea](https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-en.html)
+- [Where is Ruby Headed in 2021?](https://bignerdranch.com/blog/where-is-ruby-headed-in-2021/)
+- [HomeBrew Computers Web-Ring](https://www.homebrewcpuring.org/)
 - [Addressing Common Concerns with a World Without Timezones](https://www.connorcallahan.info/timezones.html)
-- [Acquisition of chess knowledge in AlphaZero](https://en.chessbase.com/post/acquisition-of-chess-knowledge-in-alphazero)
-- [Futurists have their heads in the clouds](https://erikhoel.substack.com/p/futurists-have-their-heads-in-the)
-- [Show HN: I made a drag and drop website builder that works on mobile](https://straw.page)
-- [SerenityOS demo at Handmade Seattle 2021 [video]](https://media.handmade-seattle.com/serenityos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
