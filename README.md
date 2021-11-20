@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oil 0.9.4 – User Feedback](http://www.oilshell.org/blog/2021/11/release-0.9.4.html)
 - [Ovipost &lpar;YC W18&rpar; Is Hiring a Project Manager](https://www.ycombinator.com/companies/ovipost/jobs/Tm5IP59-project-manager)
 - [The Soviet 1801VM3 Enhanced LSI-11 Processor](https://www.cpushack.com/2021/11/20/the-soviet-1801vm3-enhanced-lsi-11-processor/)
 - [VAmiga online: Amiga emulator in the browser](https://www.neoartcr.com/vamiga/index.htm)
-- [Ask HN: What is your favourite gaming hardware/device?](https://news.ycombinator.com/item?id=29291521)
-- [Lagrange: A desktop GUI client for Gemini](https://github.com/skyjake/lagrange)
+- [What it&#39;s like to ride 900 km in a day](https://cyclingtips.com/2021/11/what-its-like-to-ride-900-km-in-a-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
