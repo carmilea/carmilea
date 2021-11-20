@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Analog Devices AD1139](https://www.richis-lab.de/DAC07.htm)
+- [Supabase &lpar;YC S20&rpar; Is Hiring Developer Support and QA &lpar;Remote&rpar;](https://www.ycombinator.com/companies/supabase/jobs/8lEuz0r-developer-support-and-qa-engineers)
+- [Graphical Small Internet Client &lpar;2020&rpar; [HTTP,HTTPS,gemini,gopher,finger]](https://github.com/MasterQ32/kristall)
+- [Foundations of Dawn: The Untyped Concatenative Calculus](https://www.dawn-lang.org/posts/foundations-ucc/)
 - [Prospectus &lpar;1843&rpar;](https://www.economist.com/unknown/1843/08/05/prospectus)
-- [Will World Government Rot?](https://www.overcomingbias.com/2021/11/will-world-government-rot.html)
-- [Vertiwalk Vertical Walking](https://www.vertiwalk.com/)
-- [Box64 lets you run x86_64 programs on non-x86_64 systems](https://github.com/ptitSeb/box64)
-- [Hiking America’s three longest trails in less than a year. What could go wrong?](https://www.latimes.com/california/story/2021-11-19/how-2-stanford-students-conquered-the-triple-crown-of-hiking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
