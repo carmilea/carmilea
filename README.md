@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Prospectus &lpar;1843&rpar;](https://www.economist.com/unknown/1843/08/05/prospectus)
 - [Will World Government Rot?](https://www.overcomingbias.com/2021/11/will-world-government-rot.html)
-- [Decentralised finance is booming, but it has yet to find its purpose](https://www.economist.com/the-world-ahead/2021/11/08/decentralised-finance-is-booming-but-it-has-yet-to-find-its-purpose)
 - [Vertiwalk Vertical Walking](https://www.vertiwalk.com/)
 - [Box64 lets you run x86_64 programs on non-x86_64 systems](https://github.com/ptitSeb/box64)
 - [Hiking America’s three longest trails in less than a year. What could go wrong?](https://www.latimes.com/california/story/2021-11-19/how-2-stanford-students-conquered-the-triple-crown-of-hiking)
