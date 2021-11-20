@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Cleanvoice – Automated Podcast Editing](https://cleanvoice.ai)
+- [Autism affects the microbiome, not the other way around](https://arstechnica.com/science/2021/11/autism-affects-the-microbiome-not-the-other-way-around/)
+- [Tesla drivers left unable to start their cars after outage](https://www.bbc.com/news/technology-59357306)
+- [Microsoft Edge’s new ‘Buy now, pay later’ feature is the definition of bloatware](https://www.xda-developers.com/microsoft-edge-buy-now-pay-later/)
 - [Kia EV6 Smashes Tesla&#39;s World Record](https://carbuzz.com/news/kia-ev6-smashes-teslas-world-record)
-- [The Emperor&#39;s New Clothes: a story of motivated stupidity](https://wyclif.substack.com/p/the-emperors-new-clothes)
-- [Proof of steak: a scalable, efficient, protein-rich algorithm](https://meatver.se)
-- [Sci-Hub: Researchers File Intervention Application to Fight ISP Blocking](https://torrentfreak.com/sci-hub-researchers-file-intervention-application-to-fight-isp-blocking-211119/)
-- [Is it stealing to read by the light of your neighbour’s lamp?](https://mymisanthropicmusings.org.uk/is-it-stealing-to-read-by-the-light-of-your-neighbours-lamp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
