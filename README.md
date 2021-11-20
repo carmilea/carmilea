@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gay men earn undergraduate and graduate degrees at the highest rate in the US](https://phys.org/news/2021-11-gay-men-undergraduate-degrees-highest.html)
+- [Experts from a world that no longer exists](https://www.collaborativefund.com/blog/experts/)
+- [Installing Windows and Linux into the same partition](https://gist.github.com/motorailgun/cc2c573f253d0893f429a165b5f851ee)
 - [Show HN: Cleanvoice – Automated Podcast Editing](https://cleanvoice.ai)
 - [Autism affects the microbiome, not the other way around](https://arstechnica.com/science/2021/11/autism-affects-the-microbiome-not-the-other-way-around/)
-- [Tesla drivers left unable to start their cars after outage](https://www.bbc.com/news/technology-59357306)
-- [Microsoft Edge’s new ‘Buy now, pay later’ feature is the definition of bloatware](https://www.xda-developers.com/microsoft-edge-buy-now-pay-later/)
-- [Kia EV6 Smashes Tesla&#39;s World Record](https://carbuzz.com/news/kia-ev6-smashes-teslas-world-record)
 <!-- BLOG-POST-LIST:END -->
 
 ---
