@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kia EV6 Smashes Tesla&#39;s World Record](https://carbuzz.com/news/kia-ev6-smashes-teslas-world-record)
+- [The Emperor&#39;s New Clothes: a story of motivated stupidity](https://wyclif.substack.com/p/the-emperors-new-clothes)
+- [Proof of steak: a scalable, efficient, protein-rich algorithm](https://meatver.se)
+- [Sci-Hub: Researchers File Intervention Application to Fight ISP Blocking](https://torrentfreak.com/sci-hub-researchers-file-intervention-application-to-fight-isp-blocking-211119/)
 - [Is it stealing to read by the light of your neighbour’s lamp?](https://mymisanthropicmusings.org.uk/is-it-stealing-to-read-by-the-light-of-your-neighbours-lamp/)
-- [Deno for Infrastructure as Code](https://adnaan.badr.in/blog/2021/11/20/deno-for-infrastructure-as-code/)
-- [Trains restart on Dartmoor rail line after 49 years](https://www.bbc.co.uk/news/uk-england-devon-59358794)
-- [Taloflow &lpar;YC W21&rpar; is hiring a Game Designer to make selecting dev tools engaging](https://www.ycombinator.com/companies/taloflow/jobs/ix5ffnH-game-designer-contract-to-make-selecting-dev-tools-engaging)
-- [Ask HN: Why there are no Android mini phones?](https://news.ycombinator.com/item?id=29287158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
