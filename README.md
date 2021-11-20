@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Henry Kissinger and Eric Schmidt take on AI &lpar;book review&rpar;](https://www.economist.com/books-and-arts/2021/11/20/henry-kissinger-and-eric-schmidt-take-on-ai)
 - [Analog Devices AD1139](https://www.richis-lab.de/DAC07.htm)
 - [Supabase &lpar;YC S20&rpar; Is Hiring Developer Support and QA &lpar;Remote&rpar;](https://www.ycombinator.com/companies/supabase/jobs/8lEuz0r-developer-support-and-qa-engineers)
 - [“The NFT Bay” Shares Multi-Terabyte Archive of ‘Pirated’ NFTs](https://torrentfreak.com/the-nft-bay-shares-multi-terabyte-archive-of-pirated-nfts-211118/)
-- [Graphical Small Internet Client &lpar;2020&rpar; [HTTP,HTTPS,gemini,gopher,finger]](https://github.com/MasterQ32/kristall)
-- [Foundations of Dawn: The Untyped Concatenative Calculus](https://www.dawn-lang.org/posts/foundations-ucc/)
+- [Kristall – Visual cross-platform browser for gemini, http, https, gopher, finger](https://github.com/MasterQ32/kristall)
 <!-- BLOG-POST-LIST:END -->
 
 ---
