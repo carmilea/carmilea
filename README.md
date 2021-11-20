@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JEdit – Programmer&#39;s Text Editor](http://www.jedit.org/)
 - [How to programmatically find out if computer is on](https://www.haiku-os.org/legacy-docs/bebook/TheKernelKit_SystemInfo.html#is_computer_on)
 - [What every IT person needs to know about OpenBSD Part 3: That packet filter](https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/)
 - [Facebook tells LA police to stop spying on users with fake accounts](https://www.bbc.com/news/business-59341750)
-- [TheNFTBay: Fake, but Worth Discussing](https://www.clubnft.com/blog/the-trillion-byte-let-down)
-- [The history of Berkeley DB](https://queue.acm.org/detail.cfm?id=3501713)
+- [Tools I use: PyCharm / Idea plugins](https://blog.rfox.eu/en/Programming/Tools_I_use/Tools_I_use_PyCharm_-_Idea_plugins.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
