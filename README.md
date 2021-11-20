@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Overview of new features in Apache HTTP Server 2.6](https://httpd.apache.org/docs/trunk/fr/new_features_2_6.html)
 - [Oil 0.9.4 – User Feedback](http://www.oilshell.org/blog/2021/11/release-0.9.4.html)
+- [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
 - [Ovipost &lpar;YC W18&rpar; Is Hiring a Project Manager](https://www.ycombinator.com/companies/ovipost/jobs/Tm5IP59-project-manager)
 - [The Soviet 1801VM3 Enhanced LSI-11 Processor](https://www.cpushack.com/2021/11/20/the-soviet-1801vm3-enhanced-lsi-11-processor/)
-- [VAmiga online: Amiga emulator in the browser](https://www.neoartcr.com/vamiga/index.htm)
-- [What it&#39;s like to ride 900 km in a day](https://cyclingtips.com/2021/11/what-its-like-to-ride-900-km-in-a-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
