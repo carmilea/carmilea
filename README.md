@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Will World Government Rot?](https://www.overcomingbias.com/2021/11/will-world-government-rot.html)
+- [Decentralised finance is booming, but it has yet to find its purpose](https://www.economist.com/the-world-ahead/2021/11/08/decentralised-finance-is-booming-but-it-has-yet-to-find-its-purpose)
 - [Vertiwalk Vertical Walking](https://www.vertiwalk.com/)
 - [Box64 lets you run x86_64 programs on non-x86_64 systems](https://github.com/ptitSeb/box64)
-- [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [Surely You&#39;re Joking, Comrade Beria](http://blog.nuclearsecrecy.com/2021/11/19/surely-youre-joking-comrade-beria/)
-- [The Origins of Raoul Duke](https://themillions.com/2021/11/the-origins-of-raoul-duke.html)
+- [Hiking America’s three longest trails in less than a year. What could go wrong?](https://www.latimes.com/california/story/2021-11-19/how-2-stanford-students-conquered-the-triple-crown-of-hiking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
