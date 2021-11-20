@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it stealing to read by the light of your neighbour’s lamp?](https://mymisanthropicmusings.org.uk/is-it-stealing-to-read-by-the-light-of-your-neighbours-lamp/)
+- [Deno for Infrastructure as Code](https://adnaan.badr.in/blog/2021/11/20/deno-for-infrastructure-as-code/)
+- [Trains restart on Dartmoor rail line after 49 years](https://www.bbc.co.uk/news/uk-england-devon-59358794)
 - [Taloflow &lpar;YC W21&rpar; is hiring a Game Designer to make selecting dev tools engaging](https://www.ycombinator.com/companies/taloflow/jobs/ix5ffnH-game-designer-contract-to-make-selecting-dev-tools-engaging)
 - [Ask HN: Why there are no Android mini phones?](https://news.ycombinator.com/item?id=29287158)
-- [The ER charged him $6,589.77 for 6 stitches, cost that led his wife to avoid ER](https://www.npr.org/sections/health-shots/2021/11/19/1056866145/expensive-er-stitches-skip-care-bill-of-the-month)
-- [Analog Devices AD1139](https://www.richis-lab.de/DAC07.htm)
-- [“The NFT Bay” Shares Multi-Terabyte Archive of ‘Pirated’ NFTs](https://torrentfreak.com/the-nft-bay-shares-multi-terabyte-archive-of-pirated-nfts-211118/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
