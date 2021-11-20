@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vertiwalk Vertical Walking](https://www.vertiwalk.com/)
+- [Box64 lets you run x86_64 programs on non-x86_64 systems](https://github.com/ptitSeb/box64)
 - [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - [Surely You&#39;re Joking, Comrade Beria](http://blog.nuclearsecrecy.com/2021/11/19/surely-youre-joking-comrade-beria/)
 - [The Origins of Raoul Duke](https://themillions.com/2021/11/the-origins-of-raoul-duke.html)
-- [Amazon Ion – a richly-typed, self-describing, hierarchical serialization format](https://amzn.github.io/ion-docs/)
-- [Show HN: WildCard, a retro Hypercard/HyperTalk simulator](https://hypervariety.com/WildCard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
