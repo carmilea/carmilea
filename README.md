@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [JEdit – Programmer&#39;s Text Editor](http://www.jedit.org/)
-- [How to programmatically find out if computer is on](https://www.haiku-os.org/legacy-docs/bebook/TheKernelKit_SystemInfo.html#is_computer_on)
-- [What every IT person needs to know about OpenBSD Part 3: That packet filter](https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/)
-- [Facebook tells LA police to stop spying on users with fake accounts](https://www.bbc.com/news/business-59341750)
-- [Tools I use: PyCharm / Idea plugins](https://blog.rfox.eu/en/Programming/Tools_I_use/Tools_I_use_PyCharm_-_Idea_plugins.html)
+- [Ovipost &lpar;YC W18&rpar; Is Hiring a Project Manager](https://www.ycombinator.com/companies/ovipost/jobs/Tm5IP59-project-manager)
+- [The Soviet 1801VM3 Enhanced LSI-11 Processor](https://www.cpushack.com/2021/11/20/the-soviet-1801vm3-enhanced-lsi-11-processor/)
+- [VAmiga online: Amiga emulator in the browser](https://www.neoartcr.com/vamiga/index.htm)
+- [Ask HN: What is your favourite gaming hardware/device?](https://news.ycombinator.com/item?id=29291521)
+- [Lagrange: A desktop GUI client for Gemini](https://github.com/skyjake/lagrange)
 <!-- BLOG-POST-LIST:END -->
 
 ---
