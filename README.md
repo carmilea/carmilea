@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The history of Berkeley DB: A Conversation with Margo Seltzer and Mike Olson](https://queue.acm.org/detail.cfm?id=3501713)
-- [DeepSource Is Looking for a Technical Product Marketer in San Francisco](https://news.ycombinator.com/item?id=29289759)
-- [An argument for the impossibility of machine intelligence [pdf]](https://arxiv.org/abs/2111.07765)
-- [Gay men earn undergraduate and graduate degrees at the highest rate in the US](https://phys.org/news/2021-11-gay-men-undergraduate-degrees-highest.html)
-- [Experts from a world that no longer exists](https://www.collaborativefund.com/blog/experts/)
+- [How to programmatically find out if computer is on](https://www.haiku-os.org/legacy-docs/bebook/TheKernelKit_SystemInfo.html#is_computer_on)
+- [What every IT person needs to know about OpenBSD Part 3: That packet filter](https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/)
+- [Facebook tells LA police to stop spying on users with fake accounts](https://www.bbc.com/news/business-59341750)
+- [TheNFTBay: Fake, but Worth Discussing](https://www.clubnft.com/blog/the-trillion-byte-let-down)
+- [The history of Berkeley DB](https://queue.acm.org/detail.cfm?id=3501713)
 <!-- BLOG-POST-LIST:END -->
 
 ---
