@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Analog Devices AD1139](https://www.richis-lab.de/DAC07.htm)
 - [Supabase &lpar;YC S20&rpar; Is Hiring Developer Support and QA &lpar;Remote&rpar;](https://www.ycombinator.com/companies/supabase/jobs/8lEuz0r-developer-support-and-qa-engineers)
+- [“The NFT Bay” Shares Multi-Terabyte Archive of ‘Pirated’ NFTs](https://torrentfreak.com/the-nft-bay-shares-multi-terabyte-archive-of-pirated-nfts-211118/)
 - [Graphical Small Internet Client &lpar;2020&rpar; [HTTP,HTTPS,gemini,gopher,finger]](https://github.com/MasterQ32/kristall)
 - [Foundations of Dawn: The Untyped Concatenative Calculus](https://www.dawn-lang.org/posts/foundations-ucc/)
-- [Prospectus &lpar;1843&rpar;](https://www.economist.com/unknown/1843/08/05/prospectus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
