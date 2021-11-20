@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Henry Kissinger and Eric Schmidt take on AI &lpar;book review&rpar;](https://www.economist.com/books-and-arts/2021/11/20/henry-kissinger-and-eric-schmidt-take-on-ai)
+- [Taloflow &lpar;YC W21&rpar; is hiring a Game Designer to make selecting dev tools engaging](https://www.ycombinator.com/companies/taloflow/jobs/ix5ffnH-game-designer-contract-to-make-selecting-dev-tools-engaging)
+- [Ask HN: Why there are no Android mini phones?](https://news.ycombinator.com/item?id=29287158)
+- [The ER charged him $6,589.77 for 6 stitches, cost that led his wife to avoid ER](https://www.npr.org/sections/health-shots/2021/11/19/1056866145/expensive-er-stitches-skip-care-bill-of-the-month)
 - [Analog Devices AD1139](https://www.richis-lab.de/DAC07.htm)
-- [Supabase &lpar;YC S20&rpar; Is Hiring Developer Support and QA &lpar;Remote&rpar;](https://www.ycombinator.com/companies/supabase/jobs/8lEuz0r-developer-support-and-qa-engineers)
 - [“The NFT Bay” Shares Multi-Terabyte Archive of ‘Pirated’ NFTs](https://torrentfreak.com/the-nft-bay-shares-multi-terabyte-archive-of-pirated-nfts-211118/)
-- [Kristall – Visual cross-platform browser for gemini, http, https, gopher, finger](https://github.com/MasterQ32/kristall)
 <!-- BLOG-POST-LIST:END -->
 
 ---
