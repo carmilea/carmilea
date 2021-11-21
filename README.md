@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tracking Crucial Metrics of Earth&#39;s Global Warming](https://www.climatechangetracker.org/)
 - [Campbell&#39;s Law: The dark side of metric fixation](https://www.nngroup.com/articles/campbells-law/)
 - [Raycast &lpar;YC W20&rpar; Is Hiring macOS Engineers to Geek Out on UI &lpar;Remote in Europe&rpar;](https://raycast.com/jobs/software-engineer-macos/)
 - [PDP-11/40 &lpar;a.k.a. 11/35&rpar; emulator for various microcontrollers](https://gitlab.com/ChloeLunn/sam11)
 - [Discover Slitaz, a 50MB Lightweight Desktop Operating System](https://www.ubuntubuzz.com/2021/11/discover-slitaz-50mb-lightweight-desktop-operating-system.html)
-- [Upgrading the soldered-on RAM of a Dell XPS13 7390 laptop](https://gregdavill.github.io/posts/dell-xps13-ram-upgrade/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
