@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Taking digital X-ray shots for cheap](https://hackaday.io/project/62710-taking-digital-xray-shots-for-cheap-300)
-- [Factored Quality &lpar;YC W20&rpar; Is Hiring a Back End Engineer &lpar;4 Years Experience&rpar;](https://www.ycombinator.com/companies/factored-quality/jobs/MVUlgYh-backend-engineer-4-years-experience)
-- [Telnet BBS Guide](https://www.telnetbbsguide.com/)
-- [An introverts guide to increasing energy](https://ashleyjanssen.com/the-introverts-guide-to-increasing-energy/)
-- [Tracking Crucial Metrics of Earth&#39;s Global Warming](https://www.climatechangetracker.org/)
+- [Why thieves love to steal catalytic converters](https://thehustle.co/why-thieves-love-to-steal-catalytic-converters/)
+- [Doom on Windows Task Manager](https://twitter.com/commodoreblog/status/1461809737322876938)
+- [Adele gets Spotify to take shuffle button off all album pages](https://www.bbc.co.uk/news/entertainment-arts-59365019)
+- [Covid-19: stigmatising the unvaccinated is not justified](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02243-1/fulltext#%20)
+- [Wolves make roadways safer, generating large economic returns](https://www.pnas.org/content/118/22/e2023251118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
