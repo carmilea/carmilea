@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Trial of Mary Wade](https://www.oldbaileyonline.org/browse.jsp?div=t17890114-58)
+- [Git ls-files is Faster Than Fd and Find](https://cj.rs//blog/git-ls-files-is-faster-than-fd-and-find/)
 - [Northrop Grumman Announces Team for NASA’s Next-Generation Lunar Terrain Vehicle](https://news.northropgrumman.com/news/releases/northrop-grumman-announces-team-for-nasas-next-generation-lunar-terrain-vehicle)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring Founding Engineer in London](https://news.ycombinator.com/item?id=29297755)
 - [Ask HN: What mental models do you use everyday?](https://news.ycombinator.com/item?id=29297594)
-- [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/README.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
