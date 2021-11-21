@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Taking digital X-ray shots for cheap](https://hackaday.io/project/62710-taking-digital-xray-shots-for-cheap-300)
 - [Factored Quality &lpar;YC W20&rpar; Is Hiring a Back End Engineer &lpar;4 Years Experience&rpar;](https://www.ycombinator.com/companies/factored-quality/jobs/MVUlgYh-backend-engineer-4-years-experience)
-- [BBSes are still around – over 1000 Telnet/SSH BBSes on the Internet](https://www.telnetbbsguide.com/)
-- [The Introverts Guide to Increasing Energy](https://ashleyjanssen.com/the-introverts-guide-to-increasing-energy/)
+- [Telnet BBS Guide](https://www.telnetbbsguide.com/)
+- [An introverts guide to increasing energy](https://ashleyjanssen.com/the-introverts-guide-to-increasing-energy/)
 - [Tracking Crucial Metrics of Earth&#39;s Global Warming](https://www.climatechangetracker.org/)
-- [Preventing Timing Attacks on String Comparison with Double HMAC Strategy &lpar;2015&rpar;](https://paragonie.com/blog/2015/11/preventing-timing-attacks-on-string-comparison-with-double-hmac-strategy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
