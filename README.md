@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tiger Global: How to Win](https://www.readthegeneralist.com/briefing/tiger-global)
-- [Native-like Navigation of Web apps](https://hezedu.github.io/history-navigation-vue/)
-- [Automa: A Chrome extension for automating the browser](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca)
-- [Dopamine Fasting: A Maladaptive Fad](https://www.health.harvard.edu/blog/dopamine-fasting-misunderstanding-science-spawns-a-maladaptive-fad-2020022618917)
-- [Alan Kay at UCLA &lpar;2016&rpar; [video]](https://www.youtube.com/watch?v=m5L3EEWBJQw)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring Founding Engineer in London](https://news.ycombinator.com/item?id=29297755)
+- [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/README.html)
+- [Continuously Deploying a Chrome Extension &lpar;2019&rpar;](https://blog.rocketinsights.com/chrome-extension-cd/)
+- [Ask HN: Great tools for solo SaaS founders?](https://news.ycombinator.com/item?id=29297229)
+- [I moderate /r/kafka; people mistake it as a subreddit about kafka the product](https://twitter.com/LitAnscombe/status/1442683658951802882)
 <!-- BLOG-POST-LIST:END -->
 
 ---
