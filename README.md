@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Trial of Mary Wade](https://www.oldbaileyonline.org/browse.jsp?div=t17890114-58)
-- [Git ls-files is Faster Than Fd and Find](https://cj.rs//blog/git-ls-files-is-faster-than-fd-and-find/)
-- [Northrop Grumman Announces Team for NASA’s Next-Generation Lunar Terrain Vehicle](https://news.northropgrumman.com/news/releases/northrop-grumman-announces-team-for-nasas-next-generation-lunar-terrain-vehicle)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring Founding Engineer in London](https://news.ycombinator.com/item?id=29297755)
-- [Ask HN: What mental models do you use everyday?](https://news.ycombinator.com/item?id=29297594)
+- [Reverie Labs &lpar;YC W18&rpar; Is Hiring Data Scientists in Boston &lpar;Reverielabs.com&rpar;](https://jobs.lever.co/reverielabs/a9d925c7-25cf-47b0-992d-bf75dc67581a)
+- [Thoughts on “E-Readers” &lpar;2009&rpar;](https://news.ycombinator.com/item?id=1003052)
+- [Los Angeles is gearing up to ban wood-frame construction](https://www.pacificresearch.org/los-angeles-is-gearing-up-to-ban-wood-frame-construction-renters-will-soon-pay-the-price/)
+- [Functorio](https://bartoszmilewski.com/2021/02/16/functorio/)
+- [What&#39;s next for language design? &lpar;2017&rpar;](https://graydon2.dreamwidth.org/253769.html#cutid1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
