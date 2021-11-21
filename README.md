@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Factored Quality &lpar;YC W20&rpar; Is Hiring a Back End Engineer &lpar;4 Years Experience&rpar;](https://www.ycombinator.com/companies/factored-quality/jobs/MVUlgYh-backend-engineer-4-years-experience)
+- [BBSes are still around – over 1000 Telnet/SSH BBSes on the Internet](https://www.telnetbbsguide.com/)
+- [The Introverts Guide to Increasing Energy](https://ashleyjanssen.com/the-introverts-guide-to-increasing-energy/)
 - [Tracking Crucial Metrics of Earth&#39;s Global Warming](https://www.climatechangetracker.org/)
 - [Preventing Timing Attacks on String Comparison with Double HMAC Strategy &lpar;2015&rpar;](https://paragonie.com/blog/2015/11/preventing-timing-attacks-on-string-comparison-with-double-hmac-strategy)
-- [Campbell&#39;s Law: The dark side of metric fixation](https://www.nngroup.com/articles/campbells-law/)
-- [PDP-11/40 &lpar;a.k.a. 11/35&rpar; emulator for various microcontrollers](https://gitlab.com/ChloeLunn/sam11)
 <!-- BLOG-POST-LIST:END -->
 
 ---
