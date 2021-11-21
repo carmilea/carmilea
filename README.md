@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Problem of the New Right](https://scholars-stage.org/the-problem-of-the-new-right/)
 - [Japanese Dome House](http://www.i-domehouse.com/about_dome_house/)
 - [Explanations for the Havana Syndrome](http://backreaction.blogspot.com/2021/11/the-3-best-explanations-for-havana.html)
 - [Reverie Labs &lpar;YC W18&rpar; Is Hiring Data Scientists in Boston &lpar;Reverielabs.com&rpar;](https://jobs.lever.co/reverielabs/a9d925c7-25cf-47b0-992d-bf75dc67581a)
 - [Thoughts on “E-Readers” &lpar;2009&rpar;](https://news.ycombinator.com/item?id=1003052)
-- [Los Angeles is gearing up to ban wood-frame construction](https://www.pacificresearch.org/los-angeles-is-gearing-up-to-ban-wood-frame-construction-renters-will-soon-pay-the-price/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
