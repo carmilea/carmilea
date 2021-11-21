@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Discover Slitaz, a 50MB Lightweight Desktop Operating System](https://www.ubuntubuzz.com/2021/11/discover-slitaz-50mb-lightweight-desktop-operating-system.html)
 - [Upgrading the soldered-on RAM of a Dell XPS13 7390 laptop](https://gregdavill.github.io/posts/dell-xps13-ram-upgrade/)
-- [Five Myths About Building Billion-Dollar Startups](https://645ventures.com/top-five-myths-about-billion-dollar-companies/)
 - [WiFi Dabba, Inc. &lpar;YC W17&rpar; Is Hiring](https://www.ycombinator.com/companies/wifi-dabba-inc/jobs/wPQkG43-growth-head-wifi-dabba-inc)
 - [Cocoa Text System](http://www.hcs.harvard.edu/~jrus/Site/Cocoa%20Text%20System.html)
+- [Advent of Code 2021](https://adventofcode.com/2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
