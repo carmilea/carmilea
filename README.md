@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Overview of new features in Apache HTTP Server 2.6](https://httpd.apache.org/docs/trunk/fr/new_features_2_6.html)
-- [Oil 0.9.4 – User Feedback](http://www.oilshell.org/blog/2021/11/release-0.9.4.html)
-- [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
-- [Ovipost &lpar;YC W18&rpar; Is Hiring a Project Manager](https://www.ycombinator.com/companies/ovipost/jobs/Tm5IP59-project-manager)
-- [The Soviet 1801VM3 Enhanced LSI-11 Processor](https://www.cpushack.com/2021/11/20/the-soviet-1801vm3-enhanced-lsi-11-processor/)
+- [WiFi Dabba, Inc. &lpar;YC W17&rpar; Is Hiring](https://www.ycombinator.com/companies/wifi-dabba-inc/jobs/wPQkG43-growth-head-wifi-dabba-inc)
+- [Cocoa Text System](http://www.hcs.harvard.edu/~jrus/Site/Cocoa%20Text%20System.html)
+- [Advent of Code 2021](https://adventofcode.com/2021)
+- [Algorand – Fast, low fees and sustainable blockchain](https://www.algorand.com/)
+- [LLVM relicensing update and call for help](https://blog.llvm.org/posts/2021-11-18-relicensing-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
