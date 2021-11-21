@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast &lpar;YC W20&rpar; Is Hiring macOS Engineers to Geek Out on UI &lpar;Remote in Europe&rpar;](https://raycast.com/jobs/software-engineer-macos/)
 - [PDP-11/40 &lpar;a.k.a. 11/35&rpar; emulator for various microcontrollers](https://gitlab.com/ChloeLunn/sam11)
 - [Discover Slitaz, a 50MB Lightweight Desktop Operating System](https://www.ubuntubuzz.com/2021/11/discover-slitaz-50mb-lightweight-desktop-operating-system.html)
 - [Upgrading the soldered-on RAM of a Dell XPS13 7390 laptop](https://gregdavill.github.io/posts/dell-xps13-ram-upgrade/)
-- [WiFi Dabba, Inc. &lpar;YC W17&rpar; Is Hiring](https://www.ycombinator.com/companies/wifi-dabba-inc/jobs/wPQkG43-growth-head-wifi-dabba-inc)
 - [Cocoa Text System](http://www.hcs.harvard.edu/~jrus/Site/Cocoa%20Text%20System.html)
 <!-- BLOG-POST-LIST:END -->
 
