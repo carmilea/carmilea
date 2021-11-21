@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why thieves love to steal catalytic converters](https://thehustle.co/why-thieves-love-to-steal-catalytic-converters/)
-- [Doom on Windows Task Manager](https://twitter.com/commodoreblog/status/1461809737322876938)
-- [Adele gets Spotify to take shuffle button off all album pages](https://www.bbc.co.uk/news/entertainment-arts-59365019)
-- [Covid-19: stigmatising the unvaccinated is not justified](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02243-1/fulltext#%20)
-- [Wolves make roadways safer, generating large economic returns](https://www.pnas.org/content/118/22/e2023251118)
+- [Tiger Global: How to Win](https://www.readthegeneralist.com/briefing/tiger-global)
+- [Native-like Navigation of Web apps](https://hezedu.github.io/history-navigation-vue/)
+- [Automa: A Chrome extension for automating the browser](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca)
+- [Dopamine Fasting: A Maladaptive Fad](https://www.health.harvard.edu/blog/dopamine-fasting-misunderstanding-science-spawns-a-maladaptive-fad-2020022618917)
+- [Alan Kay at UCLA &lpar;2016&rpar; [video]](https://www.youtube.com/watch?v=m5L3EEWBJQw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
