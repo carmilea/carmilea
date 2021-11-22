@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29301507)
+- [Cop/Out](https://www.rifters.com/crawl/?p=10064)
 - [Octopuses, crabs and lobsters to be recognised as sentient beings under UK law](https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection)
-- [The many gifts of awkward SILENCE](https://jessicahagy.substack.com/p/the-many-gifts-of-awkward-silence)
+- [The many gifts of awkward silence](https://jessicahagy.substack.com/p/the-many-gifts-of-awkward-silence)
 - [I got nerd sniped into benchmarking legacy x86 instructions &lpar;2019&rpar;](https://www.acepace.net/2019-07-27-xlatb/)
-- [Smart Artificial Pancreas Could Conquer Diabetes](https://spectrum.ieee.org/artificial-pancreas-could-conquer-diabetes/particle-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
