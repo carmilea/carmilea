@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unmasking the Most Viral Page on Facebook](https://www.garbageday.email/p/when-the-traffic-firehose-is-pointed)
+- [Pay Transparency: Which States Have Laws and Do They Work?](https://money.com/pay-transparency-laws-employers-share-salaries/)
+- [What Makes Us Tick? New York Stock Exchange Cartoon &lpar;1952&rpar;](https://www.loc.gov/item/mbrs01891370/)
+- [Condition Handling in the Lisp Language Family](http://www.nhplace.com/kent/Papers/Condition-Handling-2001.html)
 - [900-mile mantle pipeline connects Galápagos to Panama](https://news.cornell.edu/stories/2021/11/900-mile-mantle-pipeline-connects-galapagos-panama)
-- [TrueVault &lpar;YC W14&rpar; Is Hiring a VP of Engineering](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering)
-- [The latest EU plan to outlaw encryption and introduce communication surveillance](https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl)
-- [Apple has a new work-from-home policy, but it’s still not what employees want](https://arstechnica.com/gadgets/2021/11/apple-employees-will-return-to-the-office-this-february-leaked-cook-email-says/)
-- [The Scranton Iron Furnaces](https://abandonedonline.net/location/scranton-iron-furnaces/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
