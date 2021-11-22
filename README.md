@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ted Nordhouse: How green activists mislead and hold back progress](https://www.economist.com/by-invitation/2021/11/19/ted-nordhaus-on-how-green-activists-mislead-and-hold-back-progress)
+- [The Scranton Iron Furnaces](https://abandonedonline.net/location/scranton-iron-furnaces/)
+- [Volta vs. Nvm for JavaScript Tooling](https://sirre.al/2021/02/12/volta-vs-nvm-for-managing-javascript-tooling/)
+- [True Convergence is Here: PureOS 10 is Released for all Librem Products](https://puri.sm/posts/true-convergence-is-here-pureos-10-is-released-for-all-librem-products/)
 - [Rust Moderation Team Resigns](https://github.com/rust-lang/team/pull/671)
-- [Building a bare-metal Kubernetes cluster on Raspberry Pi](https://anthonynsimon.com/blog/kubernetes-cluster-raspberry-pi/)
-- [How Google designed its wildfire feature for Maps](https://about.google/stories/wildfire-safety-innovation/)
-- [GoDaddy Security Breach](https://www.sec.gov/Archives/edgar/data/1609711/000160971121000122/gddyblogpostnov222021.htm)
-- [Gitlab.com is down](https://about.gitlab.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
