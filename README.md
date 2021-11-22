@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Head of Computer Vision &lpar;Paris, Remote ± 1h&rpar;](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
+- [The Microsoft .NET platform has been forked: Introducing Open.NET](https://github.com/open-dotnet)
 - [YARP – Microsoft toolkit to build fast reverse proxy servers](https://microsoft.github.io/reverse-proxy/)
 - [First stage POWER9 Firefox JIT passes tests](https://www.talospace.com/2021/11/51552-javascript-tests-cant-be-wrong.html)
 - [Amazon employees in 20 countries will strike on Black Friday](https://www.businessinsider.com/make-amazon-pay-campaign-staffers-will-strike-on-black-friday-2021-11)
-- [TIL the assumption that string length does not change when upper-cased is false](https://chaos.social/@movonw/107316601658567746)
-- [Combining Classic and Modern: A New Approach to Camera Simulation](https://canvatechblog.com/how-canva-combined-modern-image-processing-with-150-year-old-optics-for-a-new-approach-to-camera-e49ba6e4a6f6?gi=b8eddea8c73d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
