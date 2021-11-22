@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YARP – Microsoft toolkit to build fast reverse proxy servers](https://microsoft.github.io/reverse-proxy/)
 - [First stage POWER9 Firefox JIT passes tests](https://www.talospace.com/2021/11/51552-javascript-tests-cant-be-wrong.html)
+- [Amazon employees in 20 countries will strike on Black Friday](https://www.businessinsider.com/make-amazon-pay-campaign-staffers-will-strike-on-black-friday-2021-11)
 - [TIL the assumption that string length does not change when upper-cased is false](https://chaos.social/@movonw/107316601658567746)
-- [Intel Software Defined Silicon: additional CPU features after license activation](https://github.com/intel/intel-sdsi)
 - [Combining Classic and Modern: A New Approach to Camera Simulation](https://canvatechblog.com/how-canva-combined-modern-image-processing-with-150-year-old-optics-for-a-new-approach-to-camera-e49ba6e4a6f6?gi=b8eddea8c73d)
-- [Can mRNA Vaccines Defeat Herpes?](https://www.precisionvaccinations.com/can-mrna-vaccines-defeat-herpes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
