@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emojimix](https://tikolu.net/emojimix/)
 - [Ask HN: Those who quit their jobs without anything planned. How did it go?](https://news.ycombinator.com/item?id=29305516)
 - [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Site Reliability Engineer](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer-d0ced3)
+- [Ask HN: How do you start a new career &lpar;with minimal qualifications&rpar;?](https://news.ycombinator.com/item?id=29305389)
 - [‘Dancing molecules’ successfully repair severe spinal cord injuries](https://news.northwestern.edu/stories/2021/11/dancing-molecules-successfully-repair-severe-spinal-cord-injuries/)
-- [The Toit language is now open source](https://blog.toit.io/the-toit-language-is-now-open-source-14bdcb1604d9?gi=328077e6316)
-- [Readme in Static Site &lpar;RISS&rpar;](https://cj.rs//readme-in-static-site/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
