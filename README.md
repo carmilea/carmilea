@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fred Wilson: Swapping NFT&#39;s &lpar;startup idea&rpar;](https://avc.com/2021/11/swapping-nfts/)
+- [Svelte Cubed](https://svelte-cubed.vercel.app/)
+- [Tutanota is now free for open source projects](https://tutanota.com/blog/posts/tutanota-for-open-source-teams/)
+- [Books I loved reading this year](https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2021)
 - [Unmasking the Most Viral Page on Facebook](https://www.garbageday.email/p/when-the-traffic-firehose-is-pointed)
-- [Pay Transparency: Which States Have Laws and Do They Work?](https://money.com/pay-transparency-laws-employers-share-salaries/)
-- [What Makes Us Tick? New York Stock Exchange Cartoon &lpar;1952&rpar;](https://www.loc.gov/item/mbrs01891370/)
-- [Condition Handling in the Lisp Language Family](http://www.nhplace.com/kent/Papers/Condition-Handling-2001.html)
-- [900-mile mantle pipeline connects Galápagos to Panama](https://news.cornell.edu/stories/2021/11/900-mile-mantle-pipeline-connects-galapagos-panama)
 <!-- BLOG-POST-LIST:END -->
 
 ---
