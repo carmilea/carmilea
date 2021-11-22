@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Simplest stack to build web apps in 2021?](https://news.ycombinator.com/item?id=29311761)
+- [The Weirdness of Government Variation in Covid-19 Responses](https://richardhanania.substack.com/p/the-weirdness-of-government-variation)
+- [Rust-CUDA: Extremely fast GPU code fully in Rust](https://github.com/RDambrosio016/Rust-CUDA)
 - [Convictional &lpar;YC W19&rpar; Is Hiring Software Engineers &lpar;Remote&rpar;](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
 - [GitHub – tzarc/djinn: Djinn Split Keyboard](https://github.com/tzarc/djinn)
-- [Benchmarking the Apple M1 Max](https://tlkh.dev/benchmarking-the-apple-m1-max)
-- [Svelte Cubed](https://svelte-cubed.vercel.app/)
-- [Books I loved reading this year](https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
