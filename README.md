@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Dancing molecules’ successfully repair severe spinal cord injuries](https://news.northwestern.edu/stories/2021/11/dancing-molecules-successfully-repair-severe-spinal-cord-injuries/)
 - [The Toit language is now open source](https://blog.toit.io/the-toit-language-is-now-open-source-14bdcb1604d9?gi=328077e6316)
 - [Readme in Static Site &lpar;RISS&rpar;](https://cj.rs//readme-in-static-site/)
 - [No notebook is perfect, but the reMarkable comes close](https://cfenollosa.com/blog/no-notebook-is-perfect-but-the-remarkable-comes-really-close.html)
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Head of Computer Vision &lpar;Paris, Remote ± 1h&rpar;](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
-- [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
