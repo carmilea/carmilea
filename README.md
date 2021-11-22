@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ted Nordhouse: How green activists mislead and hold back progress](https://www.economist.com/by-invitation/2021/11/19/ted-nordhaus-on-how-green-activists-mislead-and-hold-back-progress)
+- [900-mile mantle pipeline connects Galápagos to Panama](https://news.cornell.edu/stories/2021/11/900-mile-mantle-pipeline-connects-galapagos-panama)
+- [TrueVault &lpar;YC W14&rpar; Is Hiring a VP of Engineering](https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-vp-engineering)
+- [The latest EU plan to outlaw encryption and introduce communication surveillance](https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl)
+- [Apple has a new work-from-home policy, but it’s still not what employees want](https://arstechnica.com/gadgets/2021/11/apple-employees-will-return-to-the-office-this-february-leaked-cook-email-says/)
 - [The Scranton Iron Furnaces](https://abandonedonline.net/location/scranton-iron-furnaces/)
-- [Volta vs. Nvm for JavaScript Tooling](https://sirre.al/2021/02/12/volta-vs-nvm-for-managing-javascript-tooling/)
-- [True Convergence is Here: PureOS 10 is Released for all Librem Products](https://puri.sm/posts/true-convergence-is-here-pureos-10-is-released-for-all-librem-products/)
-- [Rust Moderation Team Resigns](https://github.com/rust-lang/team/pull/671)
 <!-- BLOG-POST-LIST:END -->
 
 ---
