@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Imagined History of Agile Software Development](https://www.sicpers.info/2021/11/an-imagined-history-of-agile-software-development/)
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Head of Computer Vision &lpar;Paris, Remote ± 1h&rpar;](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
 - [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/)
 - [Django 4.0 release candidate 1 released](https://www.djangoproject.com/weblog/2021/nov/22/django-40-rc1/)
 - [Apple Monterey reserves port 5000, a common web development port](https://developer.apple.com/forums/thread/682332)
+- [YARP – Microsoft toolkit to build fast reverse proxy servers](https://microsoft.github.io/reverse-proxy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
