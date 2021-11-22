@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Toit language is now open source](https://blog.toit.io/the-toit-language-is-now-open-source-14bdcb1604d9?gi=328077e6316)
+- [Readme in Static Site &lpar;RISS&rpar;](https://cj.rs//readme-in-static-site/)
+- [No notebook is perfect, but the reMarkable comes close](https://cfenollosa.com/blog/no-notebook-is-perfect-but-the-remarkable-comes-really-close.html)
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Head of Computer Vision &lpar;Paris, Remote ± 1h&rpar;](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
 - [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/)
-- [Django 4.0 release candidate 1 released](https://www.djangoproject.com/weblog/2021/nov/22/django-40-rc1/)
-- [Apple Monterey reserves port 5000, a common web development port](https://developer.apple.com/forums/thread/682332)
-- [YARP – Microsoft toolkit to build fast reverse proxy servers](https://microsoft.github.io/reverse-proxy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
