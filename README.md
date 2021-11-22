@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Simplest stack to build web apps in 2021?](https://news.ycombinator.com/item?id=29311761)
-- [The Weirdness of Government Variation in Covid-19 Responses](https://richardhanania.substack.com/p/the-weirdness-of-government-variation)
+- [The case of Japan’s curiously quiescent inflation rate](https://www.economist.com/finance-and-economics/2021/11/20/the-case-of-the-curiously-quiescent-inflation-rate)
+- [Remix – A framework focused on web fundamentals and modern UX](https://remix.run/)
 - [Rust-CUDA: Extremely fast GPU code fully in Rust](https://github.com/RDambrosio016/Rust-CUDA)
+- [Back to basics: Writing an application using Go and PostgreSQL](https://henvic.dev/posts/go-postgres/)
 - [Convictional &lpar;YC W19&rpar; Is Hiring Software Engineers &lpar;Remote&rpar;](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
-- [GitHub – tzarc/djinn: Djinn Split Keyboard](https://github.com/tzarc/djinn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
