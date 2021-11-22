@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Problem of the New Right](https://scholars-stage.org/the-problem-of-the-new-right/)
-- [Japanese Dome House](http://www.i-domehouse.com/about_dome_house/)
-- [Explanations for the Havana Syndrome](http://backreaction.blogspot.com/2021/11/the-3-best-explanations-for-havana.html)
-- [Reverie Labs &lpar;YC W18&rpar; Is Hiring Data Scientists in Boston &lpar;Reverielabs.com&rpar;](https://jobs.lever.co/reverielabs/a9d925c7-25cf-47b0-992d-bf75dc67581a)
-- [Thoughts on “E-Readers” &lpar;2009&rpar;](https://news.ycombinator.com/item?id=1003052)
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29301507)
+- [Octopuses, crabs and lobsters to be recognised as sentient beings under UK law](https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection)
+- [The many gifts of awkward SILENCE](https://jessicahagy.substack.com/p/the-many-gifts-of-awkward-silence)
+- [I got nerd sniped into benchmarking legacy x86 instructions &lpar;2019&rpar;](https://www.acepace.net/2019-07-27-xlatb/)
+- [Smart Artificial Pancreas Could Conquer Diabetes](https://spectrum.ieee.org/artificial-pancreas-could-conquer-diabetes/particle-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
