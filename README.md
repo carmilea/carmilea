@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fingerprints Can Be Hacked for $5. Here’s How](https://blog.kraken.com/post/11905/your-fingerprint-can-be-hacked-for-5-heres-how/)
+- [Why are cross-country train tickets in EU still so complex?](https://euobserver.com/investigations/153542)
+- [Launching the 2021 Nim Community Survey](https://nim-lang.org/blog/2021/11/22/community-survey-2021.html)
+- [Show HN: Run Python, Ruby, Node.js, C++, Lua in the Browser via x86 to WASM JIT](https://repl.leaningtech.com/?python3)
 - [Emojimix](https://tikolu.net/emojimix/)
-- [Ask HN: Those who quit their jobs without anything planned. How did it go?](https://news.ycombinator.com/item?id=29305516)
-- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Site Reliability Engineer](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer-d0ced3)
-- [Ask HN: How do you start a new career &lpar;with minimal qualifications&rpar;?](https://news.ycombinator.com/item?id=29305389)
-- [‘Dancing molecules’ successfully repair severe spinal cord injuries](https://news.northwestern.edu/stories/2021/11/dancing-molecules-successfully-repair-severe-spinal-cord-injuries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
