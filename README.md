@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fingerprints Can Be Hacked for $5. Here’s How](https://blog.kraken.com/post/11905/your-fingerprint-can-be-hacked-for-5-heres-how/)
-- [Why are cross-country train tickets in EU still so complex?](https://euobserver.com/investigations/153542)
-- [Launching the 2021 Nim Community Survey](https://nim-lang.org/blog/2021/11/22/community-survey-2021.html)
-- [Show HN: Run Python, Ruby, Node.js, C++, Lua in the Browser via x86 to WASM JIT](https://repl.leaningtech.com/?python3)
-- [Emojimix](https://tikolu.net/emojimix/)
+- [Rust Moderation Team Resigns](https://github.com/rust-lang/team/pull/671)
+- [Building a bare-metal Kubernetes cluster on Raspberry Pi](https://anthonynsimon.com/blog/kubernetes-cluster-raspberry-pi/)
+- [How Google designed its wildfire feature for Maps](https://about.google/stories/wildfire-safety-innovation/)
+- [GoDaddy Security Breach](https://www.sec.gov/Archives/edgar/data/1609711/000160971121000122/gddyblogpostnov222021.htm)
+- [Gitlab.com is down](https://about.gitlab.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
