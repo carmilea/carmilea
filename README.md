@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL the assumption that string length does not change when upper-cased is false](https://chaos.social/@movonw/107316601658567746)
+- [Intel Software Defined Silicon: additional CPU features after license activation](https://github.com/intel/intel-sdsi)
 - [Combining Classic and Modern: A New Approach to Camera Simulation](https://canvatechblog.com/how-canva-combined-modern-image-processing-with-150-year-old-optics-for-a-new-approach-to-camera-e49ba6e4a6f6?gi=b8eddea8c73d)
+- [Can mRNA Vaccines Defeat Herpes?](https://www.precisionvaccinations.com/can-mrna-vaccines-defeat-herpes)
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29301507)
-- [Octopuses, crabs and lobsters to be recognised as sentient beings under UK law](https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection)
-- [The many gifts of awkward silence](https://jessicahagy.substack.com/p/the-many-gifts-of-awkward-silence)
-- [I got nerd sniped into benchmarking legacy x86 instructions &lpar;2019&rpar;](https://www.acepace.net/2019-07-27-xlatb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
