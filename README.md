@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [First stage POWER9 Firefox JIT passes tests](https://www.talospace.com/2021/11/51552-javascript-tests-cant-be-wrong.html)
 - [TIL the assumption that string length does not change when upper-cased is false](https://chaos.social/@movonw/107316601658567746)
 - [Intel Software Defined Silicon: additional CPU features after license activation](https://github.com/intel/intel-sdsi)
 - [Combining Classic and Modern: A New Approach to Camera Simulation](https://canvatechblog.com/how-canva-combined-modern-image-processing-with-150-year-old-optics-for-a-new-approach-to-camera-e49ba6e4a6f6?gi=b8eddea8c73d)
 - [Can mRNA Vaccines Defeat Herpes?](https://www.precisionvaccinations.com/can-mrna-vaccines-defeat-herpes)
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29301507)
 <!-- BLOG-POST-LIST:END -->
 
 ---
