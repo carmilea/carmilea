@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fred Wilson: Swapping NFT&#39;s &lpar;startup idea&rpar;](https://avc.com/2021/11/swapping-nfts/)
+- [Benchmarking the Apple M1 Max](https://tlkh.dev/benchmarking-the-apple-m1-max)
 - [Svelte Cubed](https://svelte-cubed.vercel.app/)
 - [Tutanota is now free for open source projects](https://tutanota.com/blog/posts/tutanota-for-open-source-teams/)
 - [Books I loved reading this year](https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2021)
