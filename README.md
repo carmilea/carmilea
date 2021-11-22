@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Convictional &lpar;YC W19&rpar; Is Hiring Software Engineers &lpar;Remote&rpar;](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
+- [GitHub – tzarc/djinn: Djinn Split Keyboard](https://github.com/tzarc/djinn)
 - [Benchmarking the Apple M1 Max](https://tlkh.dev/benchmarking-the-apple-m1-max)
 - [Svelte Cubed](https://svelte-cubed.vercel.app/)
-- [Tutanota is now free for open source projects](https://tutanota.com/blog/posts/tutanota-for-open-source-teams/)
 - [Books I loved reading this year](https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2021)
-- [Unmasking the Most Viral Page on Facebook](https://www.garbageday.email/p/when-the-traffic-firehose-is-pointed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
