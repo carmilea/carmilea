@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The black hole of software engineering research &lpar;2015&rpar;](https://blogs.uw.edu/ajko/2015/10/05/the-black-hole-of-software-engineering-research/)
+- [Slow Money Movement](https://beetcoin.org/movement)
+- [Nov 16 GCP Load Balancing Incident Report](https://status.cloud.google.com/incidents/6PM5mNd43NbMqjCZ5REh)
+- [Herbert Hoover in the USSR: The Greatest Humanitarian Campaign in History](https://nationalinterest.org/feature/herbert-hoover-ussr-greatest-humanitarian-campaign-history-196718)
 - [I Test in Prod](https://increment.com/testing/i-test-in-production/)
-- [No News Is Good News: A Critique of the One Billion Word Benchmark](https://arxiv.org/abs/2110.12609)
-- [Blood sugar level follows perceived time rather than actual time in diabetics](https://www.pnas.org/content/113/29/8168)
-- [Show HN: Retrocomputing with Clash: Haskell for FPGA Hardware Design](https://unsafeperform.io/retroclash/)
-- [Examples of the Importance of Context-Sensitivity in Data-Centric AI](https://www.surgehq.ai/blog/why-context-aware-datasets-are-crucial-for-data-centric-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
