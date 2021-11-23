@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Everyday robots are slowly leaving the lab](https://x.company/blog/posts/everyday-robots)
-- [Named Pipes in .NET 6 with Tray Icon and Service](https://erikengberg.com/named-pipes-in-net-6-with-tray-icon-and-service/)
-- [Instrument a Rust Application with OpenTelemetry](https://21-lessons.com/how-to-instrument-a-rust-application-with-opentelemetry/)
-- [Space colonies of the future as imagined by NASA in the 1970s](https://rarehistoricalphotos.com/nasa-space-colony-concepts/)
-- [Fun with Red Star OS](https://sizeofcat.ru/post/fun-with-redstar-os/)
+- [A Tale of Java Hash Tables](https://www.andreinc.net/2021/11/08/a-tale-of-java-hash-tables)
+- [Django, HTMX and Alpine.js: Modern Websites, JavaScript Optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/)
+- [Bash Patterns I Use Weekly](https://will-keleher.com/posts/5-Useful-Bash-Patterns.html)
+- [Tech investors can’t get enough of Europe’s fizzing startup scene](https://www.economist.com/business/tech-investors-cant-get-enough-of-europes-fizzing-startup-scene/21806435)
+- [Ask HN: How best to prepare for Python interviews starting in 3 months?](https://news.ycombinator.com/item?id=29318263)
 <!-- BLOG-POST-LIST:END -->
 
 ---
