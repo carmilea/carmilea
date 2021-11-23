@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What browser extensions are a must-have for HNers in 2021?](https://news.ycombinator.com/item?id=29314560)
+- [First partial skull of Homo Naledi child sheds light on enigmatic hominids](https://archaeologynewsnetwork.blogspot.com/2021/11/first-partial-skull-of-homo-naledi.html)
+- [Why IndexedDB is slow and what to use instead](https://rxdb.info/slow-indexeddb.html)
+- [Automatically detecting and replying to recruiter spam](https://blog.waleedkhan.name/detect-recruiter-spam/)
+- [Ask HN: What browser extensions are a must-have in 2021?](https://news.ycombinator.com/item?id=29314560)
 - [The black hole of software engineering research &lpar;2015&rpar;](https://blogs.uw.edu/ajko/2015/10/05/the-black-hole-of-software-engineering-research/)
-- [Slow Money Movement](https://beetcoin.org/movement)
-- [Nov 16 GCP Load Balancing Incident Report](https://status.cloud.google.com/incidents/6PM5mNd43NbMqjCZ5REh)
-- [I Test in Prod](https://increment.com/testing/i-test-in-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
