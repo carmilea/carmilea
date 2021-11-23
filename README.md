@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dover &lpar;YC S19&rpar; just raised $20m and is hiring for all roles](https://dover.com/careers)
+- [Our fundraising learnings post-YC](https://wasp-lang.dev/blog/2021/11/22/fundraising-learnings)
+- [The Catherine Project: A new experiment in liberal education](https://hedgehogreview.com/web-features/thr/posts/where-the-humanities-arent-in-crisis)
+- [Things I learned from building a production database](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html)
 - [India seeks to block most cryptocurrencies in new bill, government says](https://www.reuters.com/world/india/new-indian-law-will-allow-only-few-cryptocurrencies-government-says-2021-11-23/)
-- [An Engineer&#39;s Hype-Free Observations on Web3 &lpar;and Its Possibilities&rpar;](https://www.psl.com/feed-posts/web3-engineer-take)
-- [End of Support for Firefox Lockwise](https://support.mozilla.org/en-US/kb/end-of-support-firefox-lockwise)
-- [C64](https://replit.com/@mattiselin/C64?v=1)
-- [German car that was super-aerodynamic but impractical](https://rarehistoricalphotos.com/schlorwagen-photographs-1939/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
