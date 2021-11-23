@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. will tap strategic petroleum reserve as gas prices hover around 7-year high](https://www.cnbc.com/2021/11/23/biden-says-us-will-tap-strategic-petroleum-reserve-as-gas-prices-hover-around-7-hear-high.html)
+- [Ophelia &lpar;YC W20&rpar; is hiring software engineers to help solve the opioid crisis](https://jobs.lever.co/ophelia/ea3e680d-659a-4478-a863-c2bf35177227)
+- [I’m leaving London for NYC and taking my tech startup](https://sifted.eu/articles/brexit-london-new-york-leaving/)
 - [Earthquakes with Exaggerated Depth](https://glowy-earthquakes.glitch.me/)
 - [Cocaine Paraphernalia Ads in the 70s](https://rarehistoricalphotos.com/cocaine-paraphernalia-ads-1970s/)
-- [Prince of Persia open-source port based on the DOS version disassembly](https://github.com/NagyD/SDLPoP)
-- [Flatpak &lpar;and Snap&rpar; is not the future](https://ludocode.com/blog/flatpak-is-not-the-future)
-- [Full key extraction of Nvidia TSEC](https://gist.githubusercontent.com/plutooo/733318dbb57166d203c10d12f6c24e06/raw/15c5b2612ab62998243ce5e7877496466cabb77f/tsec.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
