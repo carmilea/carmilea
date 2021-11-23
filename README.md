@@ -55,7 +55,7 @@
 - [Our fundraising learnings post-YC](https://wasp-lang.dev/blog/2021/11/22/fundraising-learnings)
 - [The Catherine Project: A new experiment in liberal education](https://hedgehogreview.com/web-features/thr/posts/where-the-humanities-arent-in-crisis)
 - [Things I learned from building a production database](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html)
-- [India seeks to block most cryptocurrencies in new bill, government says](https://www.reuters.com/world/india/new-indian-law-will-allow-only-few-cryptocurrencies-government-says-2021-11-23/)
+- [An Engineer&#39;s Hype-Free Observations on Web3 &lpar;and Its Possibilities&rpar;](https://www.psl.com/feed-posts/web3-engineer-take)
 <!-- BLOG-POST-LIST:END -->
 
 ---
