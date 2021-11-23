@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Test in Prod](https://increment.com/testing/i-test-in-production/)
+- [No News Is Good News: A Critique of the One Billion Word Benchmark](https://arxiv.org/abs/2110.12609)
+- [Blood sugar level follows perceived time rather than actual time in diabetics](https://www.pnas.org/content/113/29/8168)
 - [Show HN: Retrocomputing with Clash: Haskell for FPGA Hardware Design](https://unsafeperform.io/retroclash/)
 - [Examples of the Importance of Context-Sensitivity in Data-Centric AI](https://www.surgehq.ai/blog/why-context-aware-datasets-are-crucial-for-data-centric-ai)
-- [Renesas introduces sub 50 cents FPGA family with Yosys-based development tools](https://www.cnx-software.com/2021/11/22/renesas-50-cents-fpga-forgefpga-yosys-development-tools/)
-- [SugarCoat: Private browsing without breaking the web](https://ucsdnews.ucsd.edu/pressrelease/SugarCoat)
-- [The 2 Sigma Problem [pdf]](https://web.mit.edu/5.95/readings/bloom-two-sigma.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
