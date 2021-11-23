@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Winamp: A fast, flexible, high-fidelity music player for Windows &lpar;1998&rpar;](https://web.archive.org/web/19981205015145/http://winamp.com/)
+- [Everyday robots are slowly leaving the lab](https://x.company/blog/posts/everyday-robots)
+- [Named Pipes in .NET 6 with Tray Icon and Service](https://erikengberg.com/named-pipes-in-net-6-with-tray-icon-and-service/)
+- [Instrument a Rust Application with OpenTelemetry](https://21-lessons.com/how-to-instrument-a-rust-application-with-opentelemetry/)
+- [Space colonies of the future as imagined by NASA in the 1970s](https://rarehistoricalphotos.com/nasa-space-colony-concepts/)
 - [Fun with Red Star OS](https://sizeofcat.ru/post/fun-with-redstar-os/)
-- [Vercel raises $150M Series D](https://vercel.com/blog/vercel-funding-series-d-and-valuation)
-- [An “incident” with the James Webb Space Telescope has occurred](https://arstechnica.com/science/2021/11/an-incident-with-the-james-webb-space-telescope-has-occurred/)
-- [Tilt-5 Was Magical](https://kguttag.com/2021/11/19/awe-2021-part-1-tilt-5-was-magical/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
