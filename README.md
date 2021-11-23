@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dover &lpar;YC S19&rpar; just raised $20m and is hiring for all roles](https://dover.com/careers)
-- [Our fundraising learnings post-YC](https://wasp-lang.dev/blog/2021/11/22/fundraising-learnings)
+- [California moves to recommend delaying algebra to 9th grade statewide](https://sfstandard.com/controversy-rages-as-california-follows-sfs-lead-with-new-approach-to-teaching-math/)
+- [Dover &lpar;YC S19&rpar; is hiring](https://dover.com/careers)
+- [Our fundraising learning post-YC](https://wasp-lang.dev/blog/2021/11/22/fundraising-learnings)
 - [The Catherine Project: A new experiment in liberal education](https://hedgehogreview.com/web-features/thr/posts/where-the-humanities-arent-in-crisis)
-- [Things I learned from building a production database](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html)
-- [An Engineer&#39;s Hype-Free Observations on Web3 &lpar;and Its Possibilities&rpar;](https://www.psl.com/feed-posts/web3-engineer-take)
+- [Facebook can pursue malware lawsuit against Israel&#39;s NSO Group -US appeals court](https://www.reuters.com/technology/facebook-can-pursue-malware-lawsuit-against-israels-nso-group-us-appeals-court-2021-11-08/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
