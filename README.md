@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. to release oil from reserves in coordination with other countries](https://www.cnbc.com/2021/11/23/biden-says-us-will-tap-strategic-petroleum-reserve-as-gas-prices-hover-around-7-hear-high.html)
-- [Ophelia &lpar;YC W20&rpar; is hiring software engineers to help solve the opioid crisis](https://jobs.lever.co/ophelia/ea3e680d-659a-4478-a863-c2bf35177227)
-- [Earthquakes with Exaggerated Depth](https://glowy-earthquakes.glitch.me/)
-- [Cocaine Paraphernalia Ads in the 70s](https://rarehistoricalphotos.com/cocaine-paraphernalia-ads-1970s/)
-- [Prince of Persia open-source port based on the DOS version disassembly](https://github.com/NagyD/SDLPoP)
+- [Winamp: A fast, flexible, high-fidelity music player for Windows &lpar;1998&rpar;](https://web.archive.org/web/19981205015145/http://winamp.com/)
+- [Fun with Red Star OS](https://sizeofcat.ru/post/fun-with-redstar-os/)
+- [Vercel raises $150M Series D](https://vercel.com/blog/vercel-funding-series-d-and-valuation)
+- [An “incident” with the James Webb Space Telescope has occurred](https://arstechnica.com/science/2021/11/an-incident-with-the-james-webb-space-telescope-has-occurred/)
+- [Tilt-5 Was Magical](https://kguttag.com/2021/11/19/awe-2021-part-1-tilt-5-was-magical/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
