@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Earthquakes with Exaggerated Depth](https://glowy-earthquakes.glitch.me/)
+- [Cocaine Paraphernalia Ads in the 70s](https://rarehistoricalphotos.com/cocaine-paraphernalia-ads-1970s/)
 - [Prince of Persia open-source port based on the DOS version disassembly](https://github.com/NagyD/SDLPoP)
 - [Flatpak &lpar;and Snap&rpar; is not the future](https://ludocode.com/blog/flatpak-is-not-the-future)
 - [Full key extraction of Nvidia TSEC](https://gist.githubusercontent.com/plutooo/733318dbb57166d203c10d12f6c24e06/raw/15c5b2612ab62998243ce5e7877496466cabb77f/tsec.txt)
-- [Deepnote &lpar;YC S19&rpar; Is Hiring to Build a Better Data Science Notebook](https://deepnote.com/join-us)
-- [How does the wind generate waves?](https://physicstoday.scitation.org/doi/full/10.1063/PT.3.4880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
