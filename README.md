@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [India seeks to block most cryptocurrencies in new bill, government says](https://www.reuters.com/world/india/new-indian-law-will-allow-only-few-cryptocurrencies-government-says-2021-11-23/)
+- [An Engineer&#39;s Hype-Free Observations on Web3 &lpar;and Its Possibilities&rpar;](https://www.psl.com/feed-posts/web3-engineer-take)
 - [End of Support for Firefox Lockwise](https://support.mozilla.org/en-US/kb/end-of-support-firefox-lockwise)
 - [C64](https://replit.com/@mattiselin/C64?v=1)
-- [How We Turn Authorization Logic into SQL](https://www.osohq.com/post/logic-into-sql)
-- [Blueboat, an open-source alternative to Cloudflare Workers](https://github.com/losfair/blueboat)
-- [Osseosurface Electronics – Musculoskeletal Biointerfaces](https://www.nature.com/articles/s41467-021-27003-2)
+- [German car that was super-aerodynamic but impractical](https://rarehistoricalphotos.com/schlorwagen-photographs-1939/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
