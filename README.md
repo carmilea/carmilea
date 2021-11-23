@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepnote &lpar;YC S19&rpar; Is Hiring to Build a Better Data Science Notebook](https://deepnote.com/join-us)
+- [How does the wind generate waves?](https://physicstoday.scitation.org/doi/full/10.1063/PT.3.4880)
+- [Winamp](https://www.winamp.com/)
 - [First partial skull of Homo Naledi child sheds light on enigmatic hominids](https://archaeologynewsnetwork.blogspot.com/2021/11/first-partial-skull-of-homo-naledi.html)
 - [Why IndexedDB is slow and what to use instead](https://rxdb.info/slow-indexeddb.html)
-- [Automatically detecting and replying to recruiter spam](https://blog.waleedkhan.name/detect-recruiter-spam/)
-- [Ask HN: What browser extensions are a must-have in 2021?](https://news.ycombinator.com/item?id=29314560)
-- [The black hole of software engineering research &lpar;2015&rpar;](https://blogs.uw.edu/ajko/2015/10/05/the-black-hole-of-software-engineering-research/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
