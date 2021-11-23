@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What browser extensions are a must-have for HNers in 2021?](https://news.ycombinator.com/item?id=29314560)
 - [The black hole of software engineering research &lpar;2015&rpar;](https://blogs.uw.edu/ajko/2015/10/05/the-black-hole-of-software-engineering-research/)
 - [Slow Money Movement](https://beetcoin.org/movement)
 - [Nov 16 GCP Load Balancing Incident Report](https://status.cloud.google.com/incidents/6PM5mNd43NbMqjCZ5REh)
-- [Herbert Hoover in the USSR: The Greatest Humanitarian Campaign in History](https://nationalinterest.org/feature/herbert-hoover-ussr-greatest-humanitarian-campaign-history-196718)
 - [I Test in Prod](https://increment.com/testing/i-test-in-production/)
 <!-- BLOG-POST-LIST:END -->
 
