@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Full key extraction of Nvidia TSEC](https://gist.githubusercontent.com/plutooo/733318dbb57166d203c10d12f6c24e06/raw/15c5b2612ab62998243ce5e7877496466cabb77f/tsec.txt)
 - [Deepnote &lpar;YC S19&rpar; Is Hiring to Build a Better Data Science Notebook](https://deepnote.com/join-us)
 - [How does the wind generate waves?](https://physicstoday.scitation.org/doi/full/10.1063/PT.3.4880)
-- [Winamp](https://www.winamp.com/)
 - [First partial skull of Homo Naledi child sheds light on enigmatic hominids](https://archaeologynewsnetwork.blogspot.com/2021/11/first-partial-skull-of-homo-naledi.html)
 - [Why IndexedDB is slow and what to use instead](https://rxdb.info/slow-indexeddb.html)
 <!-- BLOG-POST-LIST:END -->
