@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple sues NSO Group to curb the abuse of state-sponsored spyware](https://www.apple.com/newsroom/2021/11/apple-sues-nso-group-to-curb-the-abuse-of-state-sponsored-spyware/)
-- [Dollar Tree says US$1.25 price point to become new standard](https://www.bnnbloomberg.ca/dollar-tree-says-1-25-price-point-to-become-new-standard-1.1686022)
-- [Wirecutter strike and boycott Thanksgiving through Cyber Monday](https://twitter.com/wirecutterunion/status/1463175088325505035)
-- [A Tale of Three Codebases](https://blog.convex.dev/a-tale-of-three-codebases/)
-- [Flexport is hiring software engineers to fix global supply chains](https://www.flexport.com/careers)
+- [End of Support for Firefox Lockwise](https://support.mozilla.org/en-US/kb/end-of-support-firefox-lockwise)
+- [C64](https://replit.com/@mattiselin/C64?v=1)
+- [How We Turn Authorization Logic into SQL](https://www.osohq.com/post/logic-into-sql)
+- [Blueboat, an open-source alternative to Cloudflare Workers](https://github.com/losfair/blueboat)
+- [Osseosurface Electronics – Musculoskeletal Biointerfaces](https://www.nature.com/articles/s41467-021-27003-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
