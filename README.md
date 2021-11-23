@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport is hiring software engineers to fix global supply chains](https://www.flexport.com/careers)
+- [Your Boards of Directors is Probably Going to Fire You](https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html)
+- [The Max Headroom Incident, America’s Creepiest Unsolved TV Hack](https://allthatsinteresting.com/max-headroom-hack)
 - [A Tale of Java Hash Tables](https://www.andreinc.net/2021/11/08/a-tale-of-java-hash-tables)
-- [Django, HTMX and Alpine.js: Modern Websites, JavaScript Optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/)
-- [Bash Patterns I Use Weekly](https://will-keleher.com/posts/5-Useful-Bash-Patterns.html)
-- [Tech investors can’t get enough of Europe’s fizzing startup scene](https://www.economist.com/business/tech-investors-cant-get-enough-of-europes-fizzing-startup-scene/21806435)
-- [Ask HN: How best to prepare for Python interviews starting in 3 months?](https://news.ycombinator.com/item?id=29318263)
+- [Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
