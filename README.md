@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Ideas from a developing country to curb shoplifting in Bay Area](https://news.ycombinator.com/item?id=29327288)
+- [Standard &lpar;YC S17&rpar; Is Hiring Rust/Go Engineers, SREs, and MLEs](https://careers.standard.ai/)
+- [Tree Sitter and the Complications of Parsing Languages](https://www.masteringemacs.org/article/tree-sitter-complications-of-parsing-languages)
+- [I wish systemd logged information about the source of “transactions”](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdTransactionSourceWish)
+- [IPv6-only subnets and EC2 instances](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-ipv6-only-subnets-and-ec2-instances/)
 - [How the Rosetta Stone yielded its secrets](https://www.newyorker.com/magazine/2021/11/29/how-the-rosetta-stone-yielded-up-its-secrets-edward-dolnick-the-writing-of-the-gods)
-- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Representatives – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
-- [New emails released in the McDonald’s ice cream machine lawsuit](https://www.wired.com/story/mcdonalds-ice-cream-machine-hacking-kytch-taylor-internal-emails/)
-- [GoDaddy Breach Widens](https://www.wordfence.com/blog/2021/11/godaddy-tsohost-mediatemple-123reg-domain-factory-heart-internet-host-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
