@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung plans $17B chip plant in Taylor, Texas](https://www.datacenterdynamics.com/en/news/samsung-plans-17-billion-chip-plant-in-taylor-texas/)
-- [Alpine Linux 3.15](https://alpinelinux.org/posts/Alpine-3.15.0-released.html)
-- [GC Progress from Java 8 to 17](https://kstefanj.github.io/2021/11/24/gc-progress-8-17.html)
-- [The Further Text Adventures of Scott Adams &lpar;Interview and AMA&rpar;](https://madned.substack.com/p/the-further-text-adventures-of-scott)
-- [As calls to ban books intensify, digital librarians offer perspective](http://blog.archive.org/2021/11/24/as-calls-to-ban-books-intensify-digital-librarians-offer-perspective/)
+- [The Sticky Issue of Consent in Street Photography](https://dinalitovsky.bulletin.com/312411763768865/)
+- [Robots in Europe Vote for the Radical Right](https://www.knowledge.unibocconi.eu/notizia.php?idArt=23580)
+- [Teen caught in $46M dollar Bitcoin theft via buying a username](https://www.thespec.com/news/crime/2021/11/23/hamilton-cryptocurrency-bitcoin-theft.html)
+- [The Handwavy Technobabble Nothingburger of Crypto](https://www.stephendiehl.com/blog/nothing-burger.html)
+- [Import Substitution Is a Harsh Mistress](http://bactra.org/weblog/import-substitution-is-a-harsh-mistress.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
