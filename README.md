@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mystery of high-performing solar cell materials revealed in stunning clarity](https://www.cam.ac.uk/research/news/mystery-of-high-performing-solar-cell-materials-revealed-in-stunning-clarity)
+- [Show HN: Open-Source Auth for NextJS / React](https://ory.dev/login-spa-react-nextjs-authentication-example-api-open-source/)
+- [Minority professor denied grants because he hires on merit](https://nationalpost.com/news/canada/minority-professor-denied-grants-because-he-hires-on-merit-people-are-afraid-to-think)
+- [Is my cat Turing-complete?](https://belaycpp.com/2021/11/24/is-my-cat-turing-complete/)
 - [UPchieve &lpar;YC W21&rpar; Is Hiring a Content Marketing Manager](https://upchieve.welcomekit.co/jobs/content-marketing-manager_brooklyn)
-- [Parrots Will Share Currency to Help Their Pals Purchase Food](https://www.smithsonianmag.com/science-nature/parrots-share-currency-help-their-pals-purchase-food-180973917/)
-- [Please Stop “Fixing” Font Smoothing](https://usabilitypost.com/2012/11/05/stop-fixing-font-smoothing/)
-- [Overengineering can kill your product](https://www.mindtheproduct.com/overengineering-can-kill-your-product/)
-- [QOI: Lossless Image Compression in O&lpar;n&rpar; Time](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
 <!-- BLOG-POST-LIST:END -->
 
 ---
