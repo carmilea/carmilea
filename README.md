@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How the Rosetta Stone Yielded Its Secrets](https://www.newyorker.com/magazine/2021/11/29/how-the-rosetta-stone-yielded-up-its-secrets-edward-dolnick-the-writing-of-the-gods)
 - [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Representatives – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
-- [The New Ten-Factor Authentication Processes](https://www.mcsweeneys.net/articles/the-new-ten-factor-authentication-processes-for-university-faculty)
+- [The McDonald’s Ice Cream Machine Hacking Saga Has a New Twist](https://www.wired.com/story/mcdonalds-ice-cream-machine-hacking-kytch-taylor-internal-emails/)
 - [GoDaddy Breach Widens](https://www.wordfence.com/blog/2021/11/godaddy-tsohost-mediatemple-123reg-domain-factory-heart-internet-host-europe/)
 - [Our fundraising learning post-YC](https://wasp-lang.dev/blog/2021/11/22/fundraising-learnings)
-- [The Catherine Project: A new experiment in liberal education](https://hedgehogreview.com/web-features/thr/posts/where-the-humanities-arent-in-crisis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
