@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is back end dev generally easier than front end?](https://news.ycombinator.com/item?id=29328111)
-- [Standard &lpar;YC S17&rpar; Is Hiring Rust/Go Engineers, SREs, and MLEs](https://careers.standard.ai/)
-- [Tree Sitter and the Complications of Parsing Languages](https://www.masteringemacs.org/article/tree-sitter-complications-of-parsing-languages)
-- [I wish systemd logged information about the source of “transactions”](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdTransactionSourceWish)
-- [IPv6-only subnets and EC2 instances](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-ipv6-only-subnets-and-ec2-instances/)
+- [UPchieve &lpar;YC W21&rpar; Is Hiring a Content Marketing Manager](https://upchieve.welcomekit.co/jobs/content-marketing-manager_brooklyn)
+- [Parrots Will Share Currency to Help Their Pals Purchase Food](https://www.smithsonianmag.com/science-nature/parrots-share-currency-help-their-pals-purchase-food-180973917/)
+- [Please Stop “Fixing” Font Smoothing](https://usabilitypost.com/2012/11/05/stop-fixing-font-smoothing/)
+- [Overengineering can kill your product](https://www.mindtheproduct.com/overengineering-can-kill-your-product/)
+- [QOI: Lossless Image Compression in O&lpar;n&rpar; Time](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
 <!-- BLOG-POST-LIST:END -->
 
 ---
