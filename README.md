@@ -52,8 +52,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Representatives – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
-- [California moves to recommend delaying algebra to 9th grade statewide](https://sfstandard.com/controversy-rages-as-california-follows-sfs-lead-with-new-approach-to-teaching-math/)
-- [GoDaddy Breach Widens to TsoHost, Media Temple, 123Reg, Domain Factory and More](https://www.wordfence.com/blog/2021/11/godaddy-tsohost-mediatemple-123reg-domain-factory-heart-internet-host-europe/)
+- [The New Ten-Factor Authentication Processes](https://www.mcsweeneys.net/articles/the-new-ten-factor-authentication-processes-for-university-faculty)
+- [GoDaddy Breach Widens](https://www.wordfence.com/blog/2021/11/godaddy-tsohost-mediatemple-123reg-domain-factory-heart-internet-host-europe/)
 - [Our fundraising learning post-YC](https://wasp-lang.dev/blog/2021/11/22/fundraising-learnings)
 - [The Catherine Project: A new experiment in liberal education](https://hedgehogreview.com/web-features/thr/posts/where-the-humanities-arent-in-crisis)
 <!-- BLOG-POST-LIST:END -->
