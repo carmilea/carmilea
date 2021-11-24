@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Log-Structured Storage for High-Performance Streaming [pdf]](https://hal.inria.fr/hal-03300796/file/virtual_log_KerA30072021.pdf)
 - [Apple will notify users about state-sponsored cybersecurity threats](https://support.apple.com/en-us/HT212960)
 - [The 3-2-1 Backup Rule – Why Your Data Will Always Survive &lpar;2019&rpar;](https://www.vmwareblog.org/3-2-1-backup-rule-data-will-always-survive/)
-- [Koreans react to startling results in Pew &quot;what makes life meaningful&quot; poll](https://koreaexpose.com/what-makes-life-meaningful-in-korea/)
-- [Greek myths of programming – how to find a mythological god of programming?](https://pragmaticreview.com/greek-myths-of-programming/)
-- [Germany will legalize Marijuana and promote drug harm reduction](https://www.marijuanamoment.net/germany-will-legalize-marijuana-and-promote-drug-harm-reduction-governing-party-coalition-officially-announces/)
+- [Thinking in OODA Loops [slides]](https://www.slideshare.net/vgururao/thinking-in-ooda-loops)
+- [The Secret History of ATAPI](https://www.os2museum.com/wp/the-secret-history-of-atapi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
