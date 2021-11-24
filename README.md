@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Free Tier Data Transfer Expansion](https://aws.amazon.com/blogs/aws/aws-free-tier-data-transfer-expansion-100-gb-from-regions-and-1-tb-from-amazon-cloudfront-per-month/)
+- [BuildZoom &lpar;better way to build custom homes&rpar; is hiring all positions](https://jobs.lever.co/buildzoom)
 - [The Sticky Issue of Consent in Street Photography](https://dinalitovsky.bulletin.com/312411763768865/)
-- [Robots in Europe Vote for the Radical Right](https://www.knowledge.unibocconi.eu/notizia.php?idArt=23580)
-- [Teen caught in $46M dollar Bitcoin theft via buying a username](https://www.thespec.com/news/crime/2021/11/23/hamilton-cryptocurrency-bitcoin-theft.html)
 - [The Handwavy Technobabble Nothingburger of Crypto](https://www.stephendiehl.com/blog/nothing-burger.html)
-- [Import Substitution Is a Harsh Mistress](http://bactra.org/weblog/import-substitution-is-a-harsh-mistress.html)
+- [Japan to implement bank-deposit-backed digital currency in 2022](https://asia.nikkei.com/Business/Finance/Japan-to-implement-bank-deposit-backed-digital-currency-in-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
