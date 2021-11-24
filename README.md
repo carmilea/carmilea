@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Using TimescaleDB with PGO, the Open Source Postgres Operator](https://blog.crunchydata.com/blog/using-timescaledb-extension-with-the-pgo-the-postgres-operator)
+- [Distributed Authorization and Wayfair’s Supply Chain](https://www.aboutwayfair.com/careers/tech-blog/distributed-authorization-and-wayfairs-supply-chain-of-the-future)
 - [YC Founders Online at YC&#39;s Winter Job Expo on Thurs Dec 2nd](https://www.workatastartup.com/events/startup-tech-expo-winter-2021)
-- [Two Norwegian journalists arrested after interviewing Qatar World Cup Manager](https://www.nrk.no/urix/arrested-after-interviewing-the-world-cup-manager-1.15744167)
+- [A Smart Artificial Pancreas Could Conquer Diabetes](https://spectrum.ieee.org/artificial-pancreas-could-conquer-diabetes)
 - [In a Nation That Loves Accordions, He Loves to Fix Them](https://www.nytimes.com/2021/11/24/arts/music/accordion-repair-francisco-luis-ramirez.html)
-- [Virtual Log-Structured Storage for High-Performance Streaming [pdf]](https://hal.inria.fr/hal-03300796/file/virtual_log_KerA30072021.pdf)
-- [Apple will notify users about state-sponsored cybersecurity threats](https://support.apple.com/en-us/HT212960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
