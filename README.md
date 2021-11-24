@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RustBelt: Logical Foundations for the Future of Safe Systems Programming &lpar;2019&rpar;](https://www.janestreet.com/tech-talks/rustbelt/)
 - [How the Rosetta Stone Yielded Its Secrets](https://www.newyorker.com/magazine/2021/11/29/how-the-rosetta-stone-yielded-up-its-secrets-edward-dolnick-the-writing-of-the-gods)
 - [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Representatives – Full Time Remote](https://relationshiphero.com/careers?role=salesAssociate)
-- [The McDonald’s Ice Cream Machine Hacking Saga Has a New Twist](https://www.wired.com/story/mcdonalds-ice-cream-machine-hacking-kytch-taylor-internal-emails/)
+- [New emails released in the McDonald’s ice cream machine lawsuit](https://www.wired.com/story/mcdonalds-ice-cream-machine-hacking-kytch-taylor-internal-emails/)
 - [GoDaddy Breach Widens](https://www.wordfence.com/blog/2021/11/godaddy-tsohost-mediatemple-123reg-domain-factory-heart-internet-host-europe/)
-- [Our fundraising learning post-YC](https://wasp-lang.dev/blog/2021/11/22/fundraising-learnings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
