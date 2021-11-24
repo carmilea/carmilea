@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Using TimescaleDB with PGO, the Open Source Postgres Operator](https://blog.crunchydata.com/blog/using-timescaledb-extension-with-the-pgo-the-postgres-operator)
-- [Distributed Authorization and Wayfair’s Supply Chain](https://www.aboutwayfair.com/careers/tech-blog/distributed-authorization-and-wayfairs-supply-chain-of-the-future)
+- [Ask HN: I’d like to hire a personal/executive assistant – any tips or advice?](https://news.ycombinator.com/item?id=29336234)
+- [Getting Started with Reverb Design, Part 1: Dev Environments](https://valhalladsp.com/2021/09/20/getting-started-with-reverb-design-part-1-dev-environments/)
+- [Greening of the Earth mitigates surface warming](https://www.nasa.gov/feature/greening-of-the-earth-mitigates-surface-warming/)
 - [YC Founders Online at YC&#39;s Winter Job Expo on Thurs Dec 2nd](https://www.workatastartup.com/events/startup-tech-expo-winter-2021)
-- [A Smart Artificial Pancreas Could Conquer Diabetes](https://spectrum.ieee.org/artificial-pancreas-could-conquer-diabetes)
-- [In a Nation That Loves Accordions, He Loves to Fix Them](https://www.nytimes.com/2021/11/24/arts/music/accordion-repair-francisco-luis-ramirez.html)
+- [The brusque Mr. Fix-It for Mexico City’s accordions](https://www.nytimes.com/2021/11/24/arts/music/accordion-repair-francisco-luis-ramirez.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
