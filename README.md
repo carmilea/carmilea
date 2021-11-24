@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret History of ATAPI](https://www.os2museum.com/wp/the-secret-history-of-atapi/)
-- [In major shift, EU says vaccine boosters should be considered for all adults](https://www.reuters.com/world/europe/eus-health-agency-says-vaccine-boosters-should-be-considered-all-adults-2021-11-24/)
-- [Raising a Stink](https://www.guernicamag.com/raising-a-stink/)
-- [AWS Free Tier Data Transfer Expansion](https://aws.amazon.com/blogs/aws/aws-free-tier-data-transfer-expansion-100-gb-from-regions-and-1-tb-from-amazon-cloudfront-per-month/)
-- [BuildZoom &lpar;better way to build custom homes&rpar; is hiring all positions](https://jobs.lever.co/buildzoom)
+- [Apple will notify users about state-sponsored cybersecurity threats](https://support.apple.com/en-us/HT212960)
+- [The 3-2-1 Backup Rule – Why Your Data Will Always Survive &lpar;2019&rpar;](https://www.vmwareblog.org/3-2-1-backup-rule-data-will-always-survive/)
+- [Koreans react to startling results in Pew &quot;what makes life meaningful&quot; poll](https://koreaexpose.com/what-makes-life-meaningful-in-korea/)
+- [Greek myths of programming – how to find a mythological god of programming?](https://pragmaticreview.com/greek-myths-of-programming/)
+- [Germany will legalize Marijuana and promote drug harm reduction](https://www.marijuanamoment.net/germany-will-legalize-marijuana-and-promote-drug-harm-reduction-governing-party-coalition-officially-announces/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
