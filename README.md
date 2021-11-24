@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Standard &lpar;YC S17&rpar; Is Hiring Rust/Go Engineers, SREs, and MLEs](https://careers.standard.ai/)
+- [DBS Bank outage well into its second day with no meaningful update from DBD](https://www.nasdaq.com/articles/singapore-bank-dbs-says-services-disrupted-for-second-day)
 - [Tree Sitter and the Complications of Parsing Languages](https://www.masteringemacs.org/article/tree-sitter-complications-of-parsing-languages)
 - [I wish systemd logged information about the source of “transactions”](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdTransactionSourceWish)
 - [IPv6-only subnets and EC2 instances](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-ipv6-only-subnets-and-ec2-instances/)
-- [How the Rosetta Stone yielded its secrets](https://www.newyorker.com/magazine/2021/11/29/how-the-rosetta-stone-yielded-up-its-secrets-edward-dolnick-the-writing-of-the-gods)
 <!-- BLOG-POST-LIST:END -->
 
 ---
