@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Secret History of ATAPI](https://www.os2museum.com/wp/the-secret-history-of-atapi/)
+- [In major shift, EU says vaccine boosters should be considered for all adults](https://www.reuters.com/world/europe/eus-health-agency-says-vaccine-boosters-should-be-considered-all-adults-2021-11-24/)
+- [Raising a Stink](https://www.guernicamag.com/raising-a-stink/)
 - [AWS Free Tier Data Transfer Expansion](https://aws.amazon.com/blogs/aws/aws-free-tier-data-transfer-expansion-100-gb-from-regions-and-1-tb-from-amazon-cloudfront-per-month/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; is hiring all positions](https://jobs.lever.co/buildzoom)
-- [The Sticky Issue of Consent in Street Photography](https://dinalitovsky.bulletin.com/312411763768865/)
-- [The Handwavy Technobabble Nothingburger of Crypto](https://www.stephendiehl.com/blog/nothing-burger.html)
-- [Japan to implement bank-deposit-backed digital currency in 2022](https://asia.nikkei.com/Business/Finance/Japan-to-implement-bank-deposit-backed-digital-currency-in-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
