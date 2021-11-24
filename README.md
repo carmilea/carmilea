@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [British F-35B Crash in the Med Possibly Caused by ‘Rain Cover’ Left on at Launch](https://theaviationist.com/2021/11/24/f-35b-crash-cover-possible-cause/)
 - [Mystery of high-performing solar cell materials revealed in stunning clarity](https://www.cam.ac.uk/research/news/mystery-of-high-performing-solar-cell-materials-revealed-in-stunning-clarity)
 - [Show HN: Open-Source Auth for NextJS / React](https://ory.dev/login-spa-react-nextjs-authentication-example-api-open-source/)
-- [Minority professor denied grants because he hires on merit](https://nationalpost.com/news/canada/minority-professor-denied-grants-because-he-hires-on-merit-people-are-afraid-to-think)
 - [Is my cat Turing-complete?](https://belaycpp.com/2021/11/24/is-my-cat-turing-complete/)
 - [UPchieve &lpar;YC W21&rpar; Is Hiring a Content Marketing Manager](https://upchieve.welcomekit.co/jobs/content-marketing-manager_brooklyn)
 <!-- BLOG-POST-LIST:END -->
