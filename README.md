@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sirum Is Hiring Staff Engineers with Experience in Warehouse Automation](https://news.ycombinator.com/item?id=29340599)
+- [Why E, the Transcendental Math Constant, Is Just the Best](https://www.quantamagazine.org/why-eulers-number-is-just-the-best-20211124/)
+- [Euro Modules](https://www.bgelectrical.uk/wiring-devices/euro-module)
 - [Polypane: A browser for responsive and accessible development](https://polypane.app/)
 - [Ask HN: Tips on Sysadmin Job](https://news.ycombinator.com/item?id=29340015)
-- [BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/)
-- [Modern PHP Cheat Sheet](https://front-line-php.com/cheat-sheet)
-- [Ask HN: Why is machine learning easier to learn than basic social skills?](https://news.ycombinator.com/item?id=29339776)
 <!-- BLOG-POST-LIST:END -->
 
 ---
