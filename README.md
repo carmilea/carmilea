@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Brief Scientific History of Glass](https://www.smithsonianmag.com/science-nature/a-brief-scientific-history-of-glass-180979117/)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers in California, Texas, New York, &amp; London](http://onesignal.com/careers)
+- [In Praise of Idleness, by Bertrand Russell &lpar;1932&rpar;](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
 - [OpenLGTV: Legal reverse engineering and research of LG TVs firmware](https://openlgtv.github.io/)
 - [Jamulus ‒ Play music online. With friends. For free](https://jamulus.io/)
-- [Orion 0.17 – X25519 with formally-verified field arithemtic and serde support](https://github.com/orion-rs/orion)
-- [The Interactive Fiction Archive](https://www.ifarchive.org/)
-- [Tell HN: Happy Thanksgiving Everyone](https://news.ycombinator.com/item?id=29338155)
 <!-- BLOG-POST-LIST:END -->
 
 ---
