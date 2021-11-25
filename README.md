@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenLGTV: Legal reverse engineering and research of LG TVs firmware](https://openlgtv.github.io/)
+- [Jamulus ‒ Play music online. With friends. For free](https://jamulus.io/)
+- [Orion 0.17 – X25519 with formally-verified field arithemtic and serde support](https://github.com/orion-rs/orion)
+- [The Interactive Fiction Archive](https://www.ifarchive.org/)
 - [Tell HN: Happy Thanksgiving Everyone](https://news.ycombinator.com/item?id=29338155)
-- [Museum of Plugs and Sockets](https://www.plugsocketmuseum.nl/)
-- [Nvidia releases Paint me Picture – A web app for GauGAN2](https://blogs.nvidia.com/blog/2021/11/22/gaugan2-ai-art-demo/)
-- [The Chase for Fusion Energy](https://www.nature.com/immersive/d41586-021-03401-w/index.html)
-- [SafeButler &lpar;YC S17&rpar; Is Hiring Marketing Manager](https://www.safebutler.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
