@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Polypane: A browser for responsive and accessible development](https://polypane.app/)
+- [Ask HN: Tips on Sysadmin Job](https://news.ycombinator.com/item?id=29340015)
 - [BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/)
+- [Modern PHP Cheat Sheet](https://front-line-php.com/cheat-sheet)
 - [Ask HN: Why is machine learning easier to learn than basic social skills?](https://news.ycombinator.com/item?id=29339776)
-- [Jim Warren &lpar;Computer Faire, DDJ&rpar; Has Died](https://web.stanford.edu/~allison/JimWarren.html)
-- [LetsEncrypt Certificate Issuance Halted](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/619d84960c2793053b57117e)
-- [A Brief Scientific History of Glass](https://www.smithsonianmag.com/science-nature/a-brief-scientific-history-of-glass-180979117/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
