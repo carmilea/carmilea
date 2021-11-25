@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Sirum Is Hiring Staff Engineers with Experience in Warehouse Automation](https://news.ycombinator.com/item?id=29340599)
 - [Why E, the Transcendental Math Constant, Is Just the Best](https://www.quantamagazine.org/why-eulers-number-is-just-the-best-20211124/)
+- [Walmart pulls children&#39;s toy that swears and sings in Polish about doing cocaine](https://toronto.ctvnews.ca/walmart-pulls-children-s-toy-that-swears-and-sings-in-polish-about-doing-cocaine-1.5678364)
 - [Euro Modules](https://www.bgelectrical.uk/wiring-devices/euro-module)
 - [Polypane: A browser for responsive and accessible development](https://polypane.app/)
-- [Ask HN: Tips on Sysadmin Job](https://news.ycombinator.com/item?id=29340015)
 <!-- BLOG-POST-LIST:END -->
 
 ---
