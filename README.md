@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [SafeButler &lpar;YC S17&rpar; Is Hiring Marketing Manager](https://www.safebutler.com/careers)
+- [FarPlay: Low-Latency Audio over the Internet](https://farplay.io/)
 - [Show HN: My plugin system/package manager for Git](https://github.com/joshburnsxyz/git-plugins)
+- [Decompressing a Gzip File by Hand](https://ttay.me/blog/gzip_investigations/)
 - [Ask HN: I’d like to hire a personal/executive assistant – any tips or advice?](https://news.ycombinator.com/item?id=29336234)
-- [Getting Started with Reverb Design, Part 1: Dev Environments](https://valhalladsp.com/2021/09/20/getting-started-with-reverb-design-part-1-dev-environments/)
-- [Greening of the Earth mitigates surface warming](https://www.nasa.gov/feature/greening-of-the-earth-mitigates-surface-warming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
