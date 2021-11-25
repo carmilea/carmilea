@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Neural-Control Family: What Deep Learning and Control Enables in the Real World](https://www.gshi.me/blog/NeuralControl/)
+- [Nullc: Fast C-like programming language with advanced features](https://github.com/WheretIB/nullc)
+- [New German government calls for European ban on biometric mass surveillance](https://reclaimyourface.eu/new-german-government-calls-for-european-ban-on-biometric-mass-surveillance/)
+- [Batteries Included with Emacs](https://karthinks.com/software/batteries-included-with-emacs/)
 - [Abstract Clojure](https://www.juxt.pro/blog/abstract-clojure)
-- [The Fish Shell Is Amazing](https://rmpr.xyz/the-fish-shell-is-amazing/)
-- [TSMC “Apple-first” 3nm policy leads to AMD and Qualcomm mutiny](https://www.club386.com/tsmc-apple-first-3nm-policy-leads-to-amd-and-qualcomm-mutiny/)
-- [Underrated Reasons to Be Thankful](https://dynomight.net/thanks/)
-- [Transatlantic ping faster than sending a pixel to the screen? &lpar;2012&rpar;](https://superuser.com/questions/419070/transatlantic-ping-faster-than-sending-a-pixel-to-the-screen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
