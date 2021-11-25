@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jim Warren &lpar;Computer Faire, DDJ&rpar; Has Died](https://web.stanford.edu/~allison/JimWarren.html)
 - [LetsEncrypt Certificate Issuance Halted](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/619d84960c2793053b57117e)
 - [A Brief Scientific History of Glass](https://www.smithsonianmag.com/science-nature/a-brief-scientific-history-of-glass-180979117/)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers in California, Texas, New York, &amp; London](http://onesignal.com/careers)
 - [Take action to protect Open Source today](https://opensource.org/blog/2021-11-membership-drive)
-- [In Praise of Idleness, by Bertrand Russell &lpar;1932&rpar;](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
