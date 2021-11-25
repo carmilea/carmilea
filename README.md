@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I grew a YouTube channel from 2k views per year to 2.4k per day](https://chillital.com/youtube-case-study/)
 - [Abstract Clojure](https://www.juxt.pro/blog/abstract-clojure)
-- [Ask HN: How did you learn math notation?](https://news.ycombinator.com/item?id=29341152)
+- [The Fish Shell Is Amazing](https://rmpr.xyz/the-fish-shell-is-amazing/)
+- [TSMC “Apple-first” 3nm policy leads to AMD and Qualcomm mutiny](https://www.club386.com/tsmc-apple-first-3nm-policy-leads-to-amd-and-qualcomm-mutiny/)
 - [Underrated Reasons to Be Thankful](https://dynomight.net/thanks/)
 - [Transatlantic ping faster than sending a pixel to the screen? &lpar;2012&rpar;](https://superuser.com/questions/419070/transatlantic-ping-faster-than-sending-a-pixel-to-the-screen)
 <!-- BLOG-POST-LIST:END -->
