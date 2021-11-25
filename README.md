@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What are the early signs of singularity?](https://news.ycombinator.com/item?id=29343774)
+- [B.1.1.529](https://twitter.com/chrischirp/status/1463885539619311616)
 - [PHP 8.1.0 Release Announcement](https://www.php.net/releases/8.1/en.php)
-- [Nearly two-thirds of Gen Z think they’ll become crypto millionaires](https://fortune.com/2021/11/18/gen-z-adults-us-millionaires-crypto-investing/)
-- [A Gov.uk Site Dedicated to Porn? Absolutely. Best of British Porn? Not Quite](https://thecrow.uk/A-Gov.uk-site-dedicated-to-porn-Absolutely/)
-- [New differential fuzzing tool reveals novel HTTP request smuggling techniques](https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques)
+- [The New Luxury Vacation: Being Dumped in the Middle of Nowhere](https://www.newyorker.com/magazine/2021/11/29/the-new-luxury-vacation-being-dumped-in-the-middle-of-nowhere)
+- [Check Point discover vulnerabilities in chips embedded in 37% of smartphones](https://blog.checkpoint.com/2021/11/24/check-point-research-discover-vulnerabilities-in-smartphones-chips-embedded-in-37-of-smartphones-around-the-world/)
+- [Amazon Linux 2022](https://aws.amazon.com/linux/amazon-linux-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
