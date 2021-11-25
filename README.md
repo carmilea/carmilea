@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SafeButler &lpar;YC S17&rpar; Is Hiring Marketing Manager](https://www.safebutler.com/careers)
+- [Show HN: My plugin system/package manager for Git](https://github.com/joshburnsxyz/git-plugins)
 - [Ask HN: I’d like to hire a personal/executive assistant – any tips or advice?](https://news.ycombinator.com/item?id=29336234)
 - [Getting Started with Reverb Design, Part 1: Dev Environments](https://valhalladsp.com/2021/09/20/getting-started-with-reverb-design-part-1-dev-environments/)
 - [Greening of the Earth mitigates surface warming](https://www.nasa.gov/feature/greening-of-the-earth-mitigates-surface-warming/)
-- [YC Founders Online at YC&#39;s Winter Job Expo on Thurs Dec 2nd](https://www.workatastartup.com/events/startup-tech-expo-winter-2021)
-- [The brusque Mr. Fix-It for Mexico City’s accordions](https://www.nytimes.com/2021/11/24/arts/music/accordion-repair-francisco-luis-ramirez.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
