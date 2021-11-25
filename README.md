@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sirum Is Hiring Staff Engineers with Experience in Warehouse Automation](https://news.ycombinator.com/item?id=29340599)
-- [Why E, the Transcendental Math Constant, Is Just the Best](https://www.quantamagazine.org/why-eulers-number-is-just-the-best-20211124/)
-- [Walmart pulls children&#39;s toy that swears and sings in Polish about doing cocaine](https://toronto.ctvnews.ca/walmart-pulls-children-s-toy-that-swears-and-sings-in-polish-about-doing-cocaine-1.5678364)
-- [Euro Modules](https://www.bgelectrical.uk/wiring-devices/euro-module)
-- [Polypane: A browser for responsive and accessible development](https://polypane.app/)
+- [I grew a YouTube channel from 2k views per year to 2.4k per day](https://chillital.com/youtube-case-study/)
+- [Abstract Clojure](https://www.juxt.pro/blog/abstract-clojure)
+- [Ask HN: How did you learn math notation?](https://news.ycombinator.com/item?id=29341152)
+- [Underrated Reasons to Be Thankful](https://dynomight.net/thanks/)
+- [Transatlantic ping faster than sending a pixel to the screen? &lpar;2012&rpar;](https://superuser.com/questions/419070/transatlantic-ping-faster-than-sending-a-pixel-to-the-screen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
