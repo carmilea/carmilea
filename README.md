@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [What the world can learn from Britain’s humble hedge](https://knowablemagazine.org/article/food-environment/2021/what-world-can-learn-britains-humble-hedge)
 - [B.1.1.529](https://twitter.com/chrischirp/status/1463885539619311616)
 - [PHP 8.1.0 Release Announcement](https://www.php.net/releases/8.1/en.php)
 - [The New Luxury Vacation: Being Dumped in the Middle of Nowhere](https://www.newyorker.com/magazine/2021/11/29/the-new-luxury-vacation-being-dumped-in-the-middle-of-nowhere)
-- [Check Point discover vulnerabilities in chips embedded in 37% of smartphones](https://blog.checkpoint.com/2021/11/24/check-point-research-discover-vulnerabilities-in-smartphones-chips-embedded-in-37-of-smartphones-around-the-world/)
-- [Amazon Linux 2022](https://aws.amazon.com/linux/amazon-linux-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
