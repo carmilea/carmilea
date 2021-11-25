@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What’s the Best TV to Buy?](https://news.ycombinator.com/item?id=29343338)
 - [A Gov.uk Site Dedicated to Porn? Absolutely. Best of British Porn? Not Quite](https://thecrow.uk/A-Gov.uk-site-dedicated-to-porn-Absolutely/)
 - [New differential fuzzing tool reveals novel HTTP request smuggling techniques](https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques)
 - [Why a toaster from 1949 is still smarter than any sold today](https://www.theverge.com/22801890/sunbeam-radiant-control-toaster-t20-t35-vista)
 - [Smarking &lpar;YC W15&rpar; Is Hiring Head of Eng to Digitize $655B Parking Industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Neural-control family: what deep learning and control enables in the real world](https://www.gshi.me/blog/NeuralControl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
