@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Einstein award going to Paul Ginsparg for creating arXiv.org](https://idw-online.de/en/news781515)
 - [QuickNode &lpar;YC W21&rpar; Is Hiring for 45 Roles](https://jobs.lever.co/quicknode)
 - [Theoretical Computer Science Cheat Sheet [pdf]](https://www.tug.org/texshowcase/cheat.pdf)
 - [The Underhanded C Contest](http://www.underhanded-c.org/_page_id_2.html)
 - [The Humble Brilliance of Italy&#39;s Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
-- [A comprehensive guide to 50 years of evolution of strict C programming](https://github.com/agavrel/42_CheatSheet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
