@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An Odd Card Trick](https://chalkdustmagazine.com/features/an-odd-card-trick/)
+- [Dead Ends of IT](https://github.com/guettli/deadends-of-it)
+- [Umarell](https://en.wikipedia.org/wiki/Umarell)
 - [Heavily mutated coronavirus variant puts scientists on alert](https://www.nature.com/articles/d41586-021-03552-w)
 - [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Last year 90% of Black Friday deals were cheaper six months before sales event](https://www.bbc.com/news/business-59380453)
-- [What the world can learn from Britain’s humble hedge](https://knowablemagazine.org/article/food-environment/2021/what-world-can-learn-britains-humble-hedge)
-- [B.1.1.529](https://twitter.com/chrischirp/status/1463885539619311616)
 <!-- BLOG-POST-LIST:END -->
 
 ---
