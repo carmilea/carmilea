@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The warning signs are there for genocide in Ethiopia](https://www.theguardian.com./commentisfree/2021/nov/26/ethiopia-genocide-warning-signs-abiy-ahmed)
 - [Einstein award going to Paul Ginsparg for creating arXiv.org](https://idw-online.de/en/news781515)
 - [QuickNode &lpar;YC W21&rpar; Is Hiring for 45 Roles](https://jobs.lever.co/quicknode)
+- [A small scheme VM, compiler, and REPL in 4k](https://dl.acm.org/doi/10.1145/3486606.3486783)
 - [Theoretical Computer Science Cheat Sheet [pdf]](https://www.tug.org/texshowcase/cheat.pdf)
-- [The Underhanded C Contest](http://www.underhanded-c.org/_page_id_2.html)
-- [The Humble Brilliance of Italy&#39;s Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
