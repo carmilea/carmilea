@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Games for IBM AS/400](http://www.jcrcmds.com/jcrgames2.html)
+- [The internet is held together with spit and baling wire](https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire/)
 - [Samsara S-1](https://www.sec.gov/Archives/edgar/data/0001642896/000119312521334578/d261594ds1.htm)
 - [Classification of Omicron &lpar;B.1.1.529&rpar;: SARS-CoV-2 Variant of Concern](https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern)
 - [$200 ARM based Linux Laptop is Here](https://collabnix.com/a-first-look-at-pinebook-pro-a-14-arm-linux-laptop-for-just-200/)
-- [Two years and 300K downloads since The Program audio series&#39; launch on HN](https://programaudioseries.com/the-program-results-3/)
-- [Show HN: Fast&lpar;er&rpar; Sorting with Sorting Networks](https://github.com/zvrba/SortingNetworks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
