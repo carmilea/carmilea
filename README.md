@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [QuickNode &lpar;YC W21&rpar; Is Hiring for 45 Roles](https://jobs.lever.co/quicknode)
+- [Theoretical Computer Science Cheat Sheet [pdf]](https://www.tug.org/texshowcase/cheat.pdf)
+- [The Underhanded C Contest](http://www.underhanded-c.org/_page_id_2.html)
+- [The Humble Brilliance of Italy&#39;s Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
 - [A comprehensive guide to 50 years of evolution of strict C programming](https://github.com/agavrel/42_CheatSheet)
-- [Hacking CD/DVD/Blu-ray for Biosensing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6066758/)
-- [GetElementById vs. QuerySelector](https://blog.wesleyac.com/posts/getelementbyid-vs-queryselector)
-- [Black Friday/Cyber Monday Live Map](https://datastories.shopify.com/)
-- [Deuterium molecules in superposition act as slits for classic quantum experiment](https://www.chemistryworld.com/news/quantum-double-slit-experiment-done-with-molecules-for-the-first-time/4014819.article)
 <!-- BLOG-POST-LIST:END -->
 
 ---
