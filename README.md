@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [GetElementById vs. QuerySelector](https://blog.wesleyac.com/posts/getelementbyid-vs-queryselector)
 - [A Live Look at Black Friday/Cyber Monday Sales on Shopify](https://datastories.shopify.com/)
-- [Canada tells Boeing its bid for fighter jet contract falls short](https://www.reuters.com/business/aerospace-defense/canada-rules-boeing-out-c19-bln-fighter-jet-contract-canadian-press-2021-11-25/)
 - [An Odd Card Trick](https://chalkdustmagazine.com/features/an-odd-card-trick/)
 - [Umarell](https://en.wikipedia.org/wiki/Umarell)
+- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 <!-- BLOG-POST-LIST:END -->
 
 ---
