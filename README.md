@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Emerge Tools &lpar;YC W21&rpar; is hiring an Android engineer – Remote with company trips](https://www.workatastartup.com/jobs/47879)
-- [George Sand’s Boots](https://aeon.co/essays/how-aurore-dudevant-put-on-mens-boots-to-become-george-sand)
-- [Ask HN: Other communities with responses as good as the submissions?](https://news.ycombinator.com/item?id=29351635)
-- [Film industry solved unauthorised downloads; now it is “unsolving” it](https://walledculture.org/the-film-industry-effectively-solved-the-problem-of-unauthorised-downloads-now-it-is-unsolving-it/)
-- [Ask HN: What steps do you take to protect yourself and your family online?](https://news.ycombinator.com/item?id=29350826)
+- [Classification of Omicron &lpar;B.1.1.529&rpar;: SARS-CoV-2 Variant of Concern](https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern)
+- [Two years and 300K downloads since The Program audio series&#39; launch on HN](https://programaudioseries.com/the-program-results-3/)
+- [Show HN: Fast&lpar;er&rpar; Sorting with Sorting Networks](https://github.com/zvrba/SortingNetworks)
+- [Ask HN: How did you correct your sleep patterns?](https://news.ycombinator.com/item?id=29352030)
+- [Emerge Tools &lpar;YC W21&rpar; is hiring an Android engineer – remote with company trips](https://www.workatastartup.com/jobs/47879)
 <!-- BLOG-POST-LIST:END -->
 
 ---
