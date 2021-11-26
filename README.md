@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Omicron Variant: Early Analysis](https://thezvi.substack.com/p/omicron-variant-post-1-were-fed-its)
+- [New in C# 10: Easier Lambda Expressions](http://dontcodetired.com/blog/post/Whats-New-in-C-10-Easier-Lambda-Expressions)
+- [EU tech sector fights for a Level Playing Field with Microsoft](https://antitrust.nextcloud.com/)
 - [Skio &lpar;YC S20&rpar; Is Hiring](https://skio.com/careers)
-- [Ask HN: Is discrimination to promote diversity okay?](https://news.ycombinator.com/item?id=29354049)
-- [Repairing an HP 3478A Multimeter with a Hacksaw](https://tomverbeure.github.io/2021/11/26/HP3478A-Multimeter-Repair-with-a-Hacksaw.html)
-- [Games for IBM AS/400](http://www.jcrcmds.com/jcrgames2.html)
-- [The internet is held together with spit and baling wire](https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire/)
+- [Teach Yourself Computer Science &lpar;2020&rpar;](https://teachyourselfcs.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
