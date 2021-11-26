@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A comprehensive guide to 50 years of evolution of strict C programming](https://github.com/agavrel/42_CheatSheet)
+- [Hacking CD/DVD/Blu-ray for Biosensing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6066758/)
 - [GetElementById vs. QuerySelector](https://blog.wesleyac.com/posts/getelementbyid-vs-queryselector)
-- [A Live Look at Black Friday/Cyber Monday Sales on Shopify](https://datastories.shopify.com/)
-- [An Odd Card Trick](https://chalkdustmagazine.com/features/an-odd-card-trick/)
-- [Umarell](https://en.wikipedia.org/wiki/Umarell)
-- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [Black Friday/Cyber Monday Live Map](https://datastories.shopify.com/)
+- [Deuterium molecules in superposition act as slits for classic quantum experiment](https://www.chemistryworld.com/news/quantum-double-slit-experiment-done-with-molecules-for-the-first-time/4014819.article)
 <!-- BLOG-POST-LIST:END -->
 
 ---
