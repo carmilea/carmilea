@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerge Tools &lpar;YC W21&rpar; is hiring an Android engineer – Remote with company trips](https://www.workatastartup.com/jobs/47879)
+- [George Sand’s Boots](https://aeon.co/essays/how-aurore-dudevant-put-on-mens-boots-to-become-george-sand)
+- [Ask HN: Other communities with responses as good as the submissions?](https://news.ycombinator.com/item?id=29351635)
 - [Film industry solved unauthorised downloads; now it is “unsolving” it](https://walledculture.org/the-film-industry-effectively-solved-the-problem-of-unauthorised-downloads-now-it-is-unsolving-it/)
 - [Ask HN: What steps do you take to protect yourself and your family online?](https://news.ycombinator.com/item?id=29350826)
-- [WWWBrowser – a Haskell web browser &lpar;1994&rpar;](https://cth.altocumulus.org/~hallgren/wwwbrowser.html)
-- [The Impact of Vitamin D Level on Covid-19: Systematic Review Meta-Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7973108/)
-- [PostmarketOS Revolutionizes Smartphone Hacking](https://drewdevault.com/2021/11/26/postmarketos.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
