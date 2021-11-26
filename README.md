@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Atacama,a distributed app proto based on tangle replication and IPFS](https://omasome.fi/app/omasome.apk)
+- [WWWBrowser – a Haskell web browser &lpar;1994&rpar;](https://cth.altocumulus.org/~hallgren/wwwbrowser.html)
+- [The Impact of Vitamin D Level on Covid-19: Systematic Review Meta-Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7973108/)
 - [Tracking Covid-19 variant B.1.1.529](https://bnonews.com/index.php/2021/11/nu-tracker/)
-- [Ask HN: Was Your Turkey Dry?](https://news.ycombinator.com/item?id=29349952)
-- [Covid-19 vaccine certs on the dark web [pdf]](https://arxiv.org/abs/2111.12472)
-- [Physicists detect signs of neutrinos at Large Hadron Collider](https://phys.org/news/2021-11-physicists-neutrinos-large-hadron-collider.html)
-- [Tesorio &lpar;YC S15&rpar; is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [PostmarketOS Revolutionizes Smartphone Hacking](https://drewdevault.com/2021/11/26/postmarketos.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
