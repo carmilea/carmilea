@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Covid-19 vaccine certs on the dark web [pdf]](https://arxiv.org/abs/2111.12472)
+- [Physicists detect signs of neutrinos at Large Hadron Collider](https://phys.org/news/2021-11-physicists-neutrinos-large-hadron-collider.html)
 - [Tesorio &lpar;YC S15&rpar; is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [German Gov. Disease Modeling Software Open Source](https://github.com/devanshr/Epidemics)
 - [Rust maintainer perfectionism, or, the tragedy of Alacritty](https://gist.github.com/ctrlcctrlv/978b3ee4f55d4b4ec415a985e01cb1c9)
-- [The Sick History of Public Education](https://aproposofnothing.substack.com/p/beyond-conspiracy-theory-the-sick)
-- [Security service that protects from SQLi had critical SQLi vulnerability](https://portswigger.net/daily-swig/wordpress-security-plugin-hide-my-wp-addresses-sql-injection-deactivation-flaws)
-- [The warning signs are there for genocide in Ethiopia](https://www.theguardian.com./commentisfree/2021/nov/26/ethiopia-genocide-warning-signs-abiy-ahmed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
