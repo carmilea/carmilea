@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [California port truckers ‘drowning’ in supply chain inefficiencies](https://www.freightwaves.com/news/california-port-truckers-drowning-in-supply-chain-inefficiencies)
+- [PyTorch: Where we are headed and why it looks a lot like Julia &lpar;but not exactly&rpar;](https://dev-discuss.pytorch.org/t/where-we-are-headed-and-why-it-looks-a-lot-like-julia-but-not-exactly-like-julia/276)
 - [Omicron Variant: Early Analysis](https://thezvi.substack.com/p/omicron-variant-post-1-were-fed-its)
 - [New in C# 10: Easier Lambda Expressions](http://dontcodetired.com/blog/post/Whats-New-in-C-10-Easier-Lambda-Expressions)
 - [EU tech sector fights for a Level Playing Field with Microsoft](https://antitrust.nextcloud.com/)
-- [Skio &lpar;YC S20&rpar; Is Hiring](https://skio.com/careers)
-- [Teach Yourself Computer Science &lpar;2020&rpar;](https://teachyourselfcs.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
