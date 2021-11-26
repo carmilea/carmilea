@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Security service that protects from SQLi had critical SQLi vulnerability](https://portswigger.net/daily-swig/wordpress-security-plugin-hide-my-wp-addresses-sql-injection-deactivation-flaws)
 - [The warning signs are there for genocide in Ethiopia](https://www.theguardian.com./commentisfree/2021/nov/26/ethiopia-genocide-warning-signs-abiy-ahmed)
 - [Einstein award going to Paul Ginsparg for creating arXiv.org](https://idw-online.de/en/news781515)
 - [QuickNode &lpar;YC W21&rpar; Is Hiring for 45 Roles](https://jobs.lever.co/quicknode)
 - [A small scheme VM, compiler, and REPL in 4k](https://dl.acm.org/doi/10.1145/3486606.3486783)
-- [Theoretical Computer Science Cheat Sheet [pdf]](https://www.tug.org/texshowcase/cheat.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
