@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada tells Boeing its bid for fighter jet contract falls short](https://www.reuters.com/business/aerospace-defense/canada-rules-boeing-out-c19-bln-fighter-jet-contract-canadian-press-2021-11-25/)
 - [An Odd Card Trick](https://chalkdustmagazine.com/features/an-odd-card-trick/)
-- [Dead Ends of IT](https://github.com/guettli/deadends-of-it)
 - [Umarell](https://en.wikipedia.org/wiki/Umarell)
-- [Heavily mutated coronavirus variant puts scientists on alert](https://www.nature.com/articles/d41586-021-03552-w)
 - [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [90% of Black Friday deals were the same price or cheaper six months before](https://www.bbc.com/news/business-59380453)
 <!-- BLOG-POST-LIST:END -->
 
 ---
