@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio &lpar;YC S20&rpar; Is Hiring](https://skio.com/careers)
+- [Ask HN: Is discrimination to promote diversity okay?](https://news.ycombinator.com/item?id=29354049)
+- [Repairing an HP 3478A Multimeter with a Hacksaw](https://tomverbeure.github.io/2021/11/26/HP3478A-Multimeter-Repair-with-a-Hacksaw.html)
 - [Games for IBM AS/400](http://www.jcrcmds.com/jcrgames2.html)
 - [The internet is held together with spit and baling wire](https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire/)
-- [Samsara S-1](https://www.sec.gov/Archives/edgar/data/0001642896/000119312521334578/d261594ds1.htm)
-- [Classification of Omicron &lpar;B.1.1.529&rpar;: SARS-CoV-2 Variant of Concern](https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern)
-- [$200 ARM based Linux Laptop is Here](https://collabnix.com/a-first-look-at-pinebook-pro-a-14-arm-linux-laptop-for-just-200/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
