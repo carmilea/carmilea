@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Atacama,a distributed app proto based on tangle replication and IPFS](https://omasome.fi/app/omasome.apk)
+- [Film industry solved unauthorised downloads; now it is “unsolving” it](https://walledculture.org/the-film-industry-effectively-solved-the-problem-of-unauthorised-downloads-now-it-is-unsolving-it/)
+- [Ask HN: What steps do you take to protect yourself and your family online?](https://news.ycombinator.com/item?id=29350826)
 - [WWWBrowser – a Haskell web browser &lpar;1994&rpar;](https://cth.altocumulus.org/~hallgren/wwwbrowser.html)
 - [The Impact of Vitamin D Level on Covid-19: Systematic Review Meta-Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7973108/)
-- [Tracking Covid-19 variant B.1.1.529](https://bnonews.com/index.php/2021/11/nu-tracker/)
 - [PostmarketOS Revolutionizes Smartphone Hacking](https://drewdevault.com/2021/11/26/postmarketos.html)
 <!-- BLOG-POST-LIST:END -->
 
