@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Release &lpar;YC W20&rpar; Is Hiring – Senior Full Stack Back End Focused](https://www.workatastartup.com/jobs/41565)
+- [Bernie Madoff’s unwitting accomplice: The AS/400](https://web.archive.org/web/20170127061933/http://itknowledgeexchange.techtarget.com/IT-watch-blog/bernie-madoffs-unwitting-accomplice-the-as400/)
+- [SARS-CoV-2 escape in vitro from highly neutralizing Covid-19 convalescent plasma](https://www.biorxiv.org/content/10.1101/2020.12.28.424451v1)
 - [Interpersonal Traits of Aspies Placed in Context &lpar;2014&rpar;](https://gist.github.com/stared/00ce50e95f9bcecc8965feb04650c19d)
 - [You can&#39;t download this image](https://youcantdownloadthisimage.online/)
-- [MindsDB &lpar;YC W20&rpar; Is Hiring for an Executive Assistant/Chief of Staff](https://www.ycombinator.com/companies/mindsdb/jobs/wAlBPWv-executive-assistant)
-- [‘Super jelly’ can survive being run over by a car](https://www.cam.ac.uk/research/news/super-jelly-can-survive-being-run-over-by-a-car)
-- [City View Center – A Shopping Center That Sunk into Landfill It Was Built On](https://architecturalafterlife.com/2020/07/city-view-center/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
