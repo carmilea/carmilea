@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Smoking a Turkey with Prometheus, Home Assistant, and Grafana](https://www.blockloop.io/)
-- [India tells public to shun Musk-backed Starlink until it gets licence](https://www.reuters.com/technology/india-tells-public-shun-musk-backed-starlink-until-it-gets-licence-2021-11-27/)
+- [Comparison of Operating System Complexity &lpar;2020&rpar; [pdf]](https://pspodcasting.net/dan/blog/2020/complexity.pdf)
+- [Smoking a turkey with Prometheus, Home Assistant, and Grafana](https://www.blockloop.io/smoking-a-turkey-with-prometheus-home-assistant-and-grafana/)
+- [India tells public to shun Starlink until it gets licence](https://www.reuters.com/technology/india-tells-public-shun-musk-backed-starlink-until-it-gets-licence-2021-11-27/)
 - [Path &lpar;YC S19&rpar; is hiring engineers to help gen z pay for college](https://usepath.com)
-- [Zelda 64 has been fully decompiled](https://www.videogameschronicle.com/news/zelda-64-has-been-fully-decompiled-potentially-opening-the-door-for-mods-and-ports/)
 - [Show HN: Llr – a Clojure inspired Lisp that compiles to R in R](https://github.com/dirkschumacher/llr)
 <!-- BLOG-POST-LIST:END -->
 
