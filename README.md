@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Casting pig iron at the Iroquois smelter](https://www.echevarria.io/blog/casting-pig-iron-at-the-iroquois-smelter/index.html)
-- [Software Engineer hitting 40: what&#39;s next?](https://news.ycombinator.com/item?id=29360119)
-- [Show HN: I made a movie recommendation app based on your mood](https://www.mood2movie.com/ref=HN)
-- [VMware mouse driver for Windows 3.x](https://github.com/NattyNarwhal/vmwmouse)
-- [Release &lpar;YC W20&rpar; Is Hiring – Senior Full Stack Back End Focused](https://www.workatastartup.com/jobs/41565)
+- [The Brickyard Summer of 1957 &lpar;2008&rpar;](https://brickcollecting.com/merwin.htm)
+- [The Token Disconnect](https://www.stephendiehl.com/blog/disconnect.html)
+- [The fabulous Flamingo, a motorhome made from an abandoned aircraft](https://uk.motor1.com/news/549053/motorhome-made-from-abandoned-aircraft/)
+- [Typora 1.0 needs a license code to use](https://support.typora.io/What%27s-New-1.0/)
+- [EmacsConf 2021 – Live Now](https://live.emacsconf.org/main.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
