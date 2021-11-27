@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: GitHub is down again](https://news.ycombinator.com/item?id=29363169)
+- [SQLite Release 3.37.0](https://www.sqlite.org/releaselog/3_37_0.html)
+- [Show HN: A music player that creates real-time music videos](https://hyperchroma.app)
+- [Multiplayer in Godot 4.0: Scene Replication &lpar;Part 1&rpar;](https://godotengine.org/article/multiplayer-changes-godot-4-0-report-4)
 - [Comparison of Operating System Complexity &lpar;2020&rpar; [pdf]](https://pspodcasting.net/dan/blog/2020/complexity.pdf)
-- [Smoking a turkey with Prometheus, Home Assistant, and Grafana](https://www.blockloop.io/smoking-a-turkey-with-prometheus-home-assistant-and-grafana/)
-- [India tells public to shun Starlink until it gets licence](https://www.reuters.com/technology/india-tells-public-shun-musk-backed-starlink-until-it-gets-licence-2021-11-27/)
-- [Path &lpar;YC S19&rpar; is hiring engineers to help gen z pay for college](https://usepath.com)
-- [Show HN: Llr – a Clojure inspired Lisp that compiles to R in R](https://github.com/dirkschumacher/llr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
