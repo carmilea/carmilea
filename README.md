@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Paywalled Garden: iOS is Adware &lpar;2020&rpar;](https://stevestreza.com/2020/02/17/ios-adware/)
+- [What Happened to All the Diamonds in the Rough?](https://www.thediff.co/p/what-happened-to-all-the-diamonds)
+- [LemonScript: A typed programming language inspired by TypeScript and Python](https://plebussupremus1234.github.io//LemonScript/)
 - [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
-- [AWS price reduction for data transfers out to the internet](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/)
-- [California port truckers ‘drowning’ in supply chain inefficiencies](https://www.freightwaves.com/news/california-port-truckers-drowning-in-supply-chain-inefficiencies)
-- [Procrastination and the Extended Will [pdf]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.188.9521&rep=rep1&type=pdf)
-- [PyTorch: Where we are headed and why it looks a lot like Julia &lpar;but not exactly&rpar;](https://dev-discuss.pytorch.org/t/where-we-are-headed-and-why-it-looks-a-lot-like-julia-but-not-exactly-like-julia/276)
+- [Cognitive distortions predict safetyism-inspired beliefs in college students](https://psyarxiv.com/5g7nc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
