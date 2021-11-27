@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I made a movie recommendation app based on your mood](https://www.mood2movie.com/ref=HN)
+- [VMware mouse driver for Windows 3.x](https://github.com/NattyNarwhal/vmwmouse)
 - [Release &lpar;YC W20&rpar; Is Hiring – Senior Full Stack Back End Focused](https://www.workatastartup.com/jobs/41565)
+- [Omicron shares many key mutations of Alpha, Beta, Gamma and Delta, &amp; more](https://covariants.org/shared-mutations)
 - [Bernie Madoff’s unwitting accomplice: The AS/400 &lpar;2009&rpar;](https://web.archive.org/web/20170127061933/http://itknowledgeexchange.techtarget.com/IT-watch-blog/bernie-madoffs-unwitting-accomplice-the-as400/)
-- [A deep learning method to automatically enhance dog animations](https://techxplore.com/news/2021-11-deep-method-automatically-dog-animations.html)
-- [SARS-CoV-2 escape in vitro from highly neutralizing Covid-19 convalescent plasma &lpar;2020&rpar;](https://www.biorxiv.org/content/10.1101/2020.12.28.424451v1)
-- [‘Super jelly’ can survive being run over by a car](https://www.cam.ac.uk/research/news/super-jelly-can-survive-being-run-over-by-a-car)
 <!-- BLOG-POST-LIST:END -->
 
 ---
