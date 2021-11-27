@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [City View Center – A Shopping Center That Sunk into Landfill It Was Built On](https://architecturalafterlife.com/2020/07/city-view-center/)
 - [How did this PayPal spoof email pass SPF, DKIM and DMARC](https://security.stackexchange.com/questions/257417/how-did-this-paypal-spoof-email-pass-spf-dkim-and-dmarc)
-- [Bank Transfers as a Payment Method](https://bam.kalzumeus.com/archive/bank-transfers-as-a-payment-method/)
-- [Google: An Update on Our Privacy Sandbox Commitments](https://blog.google/around-the-globe/google-europe/update-our-privacy-sandbox-commitments/)
-- [Novel mind-body program outperforms other treatments for chronic back pain](https://www.bidmc.org/about-bidmc/news/2021/09/researchers-mind-body-program-outperforms-other-chronic-back-pain-treatment)
-- [No U PNP](https://computer.rip/2021-11-26-no-u-pnp.html)
+- [Kubernetes Cluster API v1.0, Production Ready](https://www.infoq.com/news/2021/11/kubernetes-cluster-api/)
+- [Teach yourself Computer Engineering with YouTube](https://cs1000.vercel.app)
+- [Bank transfers as a payment method](https://bam.kalzumeus.com/archive/bank-transfers-as-a-payment-method/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
