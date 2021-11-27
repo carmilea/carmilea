@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Interpersonal Traits of Aspies Placed in Context &lpar;2014&rpar;](https://gist.github.com/stared/00ce50e95f9bcecc8965feb04650c19d)
 - [You can&#39;t download this image](https://youcantdownloadthisimage.online/)
 - [MindsDB &lpar;YC W20&rpar; Is Hiring for an Executive Assistant/Chief of Staff](https://www.ycombinator.com/companies/mindsdb/jobs/wAlBPWv-executive-assistant)
 - [‘Super jelly’ can survive being run over by a car](https://www.cam.ac.uk/research/news/super-jelly-can-survive-being-run-over-by-a-car)
-- [NodeOS – A Node.js Operating System](https://node-os.com/)
 - [City View Center – A Shopping Center That Sunk into Landfill It Was Built On](https://architecturalafterlife.com/2020/07/city-view-center/)
 <!-- BLOG-POST-LIST:END -->
 
