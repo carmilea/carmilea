@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smoking a Turkey with Prometheus, Home Assistant, and Grafana](https://www.blockloop.io/)
+- [India tells public to shun Musk-backed Starlink until it gets licence](https://www.reuters.com/technology/india-tells-public-shun-musk-backed-starlink-until-it-gets-licence-2021-11-27/)
 - [Path &lpar;YC S19&rpar; is hiring engineers to help gen z pay for college](https://usepath.com)
 - [Zelda 64 has been fully decompiled](https://www.videogameschronicle.com/news/zelda-64-has-been-fully-decompiled-potentially-opening-the-door-for-mods-and-ports/)
-- [Effects of Toxoplasma on Human Behavior](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC2526142/)
-- [The Forest People](https://stoneageherbalist.substack.com/p/the-forest-people)
-- [Apple has stopped sales in Turkey after the lira crashed 15% in a day](https://www.reuters.com/markets/us/not-currently-available-turks-cant-buy-iphones-other-electronics-after-lira-2021-11-24/)
+- [Show HN: Llr – a Clojure inspired Lisp that compiles to R in R](https://github.com/dirkschumacher/llr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
