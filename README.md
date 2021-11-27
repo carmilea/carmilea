@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Brickyard Summer of 1957 &lpar;2008&rpar;](https://brickcollecting.com/merwin.htm)
-- [The Token Disconnect](https://www.stephendiehl.com/blog/disconnect.html)
-- [The fabulous Flamingo, a motorhome made from an abandoned aircraft](https://uk.motor1.com/news/549053/motorhome-made-from-abandoned-aircraft/)
-- [Typora 1.0 needs a license code to use](https://support.typora.io/What%27s-New-1.0/)
-- [EmacsConf 2021 – Live Now](https://live.emacsconf.org/main.html)
+- [Path &lpar;YC S19&rpar; is hiring engineers to help gen z pay for college](https://usepath.com)
+- [Zelda 64 has been fully decompiled](https://www.videogameschronicle.com/news/zelda-64-has-been-fully-decompiled-potentially-opening-the-door-for-mods-and-ports/)
+- [Effects of Toxoplasma on Human Behavior](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC2526142/)
+- [The Forest People](https://stoneageherbalist.substack.com/p/the-forest-people)
+- [Apple has stopped sales in Turkey after the lira crashed 15% in a day](https://www.reuters.com/markets/us/not-currently-available-turks-cant-buy-iphones-other-electronics-after-lira-2021-11-24/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
