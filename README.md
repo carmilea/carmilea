@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google: An Update on Our Privacy Sandbox Commitments](https://blog.google/around-the-globe/google-europe/update-our-privacy-sandbox-commitments/)
+- [Novel mind-body program outperforms other treatments for chronic back pain](https://www.bidmc.org/about-bidmc/news/2021/09/researchers-mind-body-program-outperforms-other-chronic-back-pain-treatment)
+- [No U PNP](https://computer.rip/2021-11-26-no-u-pnp.html)
 - [The Paywalled Garden: iOS is Adware &lpar;2020&rpar;](https://stevestreza.com/2020/02/17/ios-adware/)
 - [What Happened to All the Diamonds in the Rough?](https://www.thediff.co/p/what-happened-to-all-the-diamonds)
-- [Canada taps into strategic reserves to deal with shortage of maple syrup](https://www.npr.org/2021/11/25/1059236116/canada-taps-into-strategic-reserves-to-deal-with-massive-shortage-of-maple-syrup)
-- [LemonScript: A typed programming language inspired by TypeScript and Python](https://plebussupremus1234.github.io//LemonScript/)
-- [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
