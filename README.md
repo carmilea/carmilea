@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My friends Instagram was hacked and deep-fake videos posted in less than 6 hours](https://news.ycombinator.com/item?id=29364427)
+- [Ask HN: Why is Docusign a $50B company?](https://news.ycombinator.com/item?id=29363897)
 - [Tell HN: GitHub is down again](https://news.ycombinator.com/item?id=29363169)
 - [SQLite Release 3.37.0](https://www.sqlite.org/releaselog/3_37_0.html)
 - [Show HN: A music player that creates real-time music videos](https://hyperchroma.app)
-- [Multiplayer in Godot 4.0: Scene Replication &lpar;Part 1&rpar;](https://godotengine.org/article/multiplayer-changes-godot-4-0-report-4)
-- [Comparison of Operating System Complexity &lpar;2020&rpar; [pdf]](https://pspodcasting.net/dan/blog/2020/complexity.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
