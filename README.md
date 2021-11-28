@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [South Africa punished for scientific Discovery](https://www.bbc.com/news/world-59442129)
+- [Measuring Software Complexity: What Metrics to Use?](https://thevaluable.dev/complexity-metrics-software/)
 - [Venus on QEMU: Enabling the new virtual Vulkan driver](https://www.collabora.com/news-and-blog/blog/2021/11/26/venus-on-qemu-enabling-new-virtual-vulkan-driver/)
 - [Terra &lpar;YC W21&rpar; Is Hiring for Graduate Software Engineers in London](https://www.ycombinator.com/companies/terra/jobs/EWMMj0v-full-stack-developer-graduate)
 - [Indian academics throw weight behind Sci-Hub and LibGen in landmark case](https://www.trtworld.com/magazine/indian-academics-throw-weight-behind-sci-hub-and-libgen-in-landmark-case-51780)
-- [A Case for Asynchronous Computer Architecture](http://avlsi.csl.yale.edu/~rajit/abstracts/async-case.html)
-- [The “Freer Men” of Ham Radio: Social and Spatial Distance](https://www.jstor.org/stable/25148208?mag=ham-radio-and-gender-politics&seq=8#metadata_info_tab_contents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
