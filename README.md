@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Venus on QEMU: Enabling the new virtual Vulkan driver](https://www.collabora.com/news-and-blog/blog/2021/11/26/venus-on-qemu-enabling-new-virtual-vulkan-driver/)
 - [Terra &lpar;YC W21&rpar; Is Hiring for Graduate Software Engineers in London](https://www.ycombinator.com/companies/terra/jobs/EWMMj0v-full-stack-developer-graduate)
 - [Indian academics throw weight behind Sci-Hub and LibGen in landmark case](https://www.trtworld.com/magazine/indian-academics-throw-weight-behind-sci-hub-and-libgen-in-landmark-case-51780)
+- [A Case for Asynchronous Computer Architecture](http://avlsi.csl.yale.edu/~rajit/abstracts/async-case.html)
 - [Proof of stake is a scam and the people promoting it are scammers](https://yanmaani.github.io/proof-of-stake-is-a-scam-and-the-people-promoting-it-are-scammers/)
-- [Saintcon: Lock Picking Lawyer Keynote](https://www.youtube.com/watch?v=IH0GXWQDk0Q)
-- [Crypto enthusiasts want to buy an NBA team, after not purchasing US Constitution](https://www.npr.org/2021/11/26/1059413217/crypto-enthusiasts-want-to-buy-an-nba-team-after-failing-to-purchase-us-constitu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
