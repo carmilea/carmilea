@@ -55,7 +55,7 @@
 - [Terra &lpar;YC W21&rpar; Is Hiring for Graduate Software Engineers in London](https://www.ycombinator.com/companies/terra/jobs/EWMMj0v-full-stack-developer-graduate)
 - [Indian academics throw weight behind Sci-Hub and LibGen in landmark case](https://www.trtworld.com/magazine/indian-academics-throw-weight-behind-sci-hub-and-libgen-in-landmark-case-51780)
 - [A Case for Asynchronous Computer Architecture](http://avlsi.csl.yale.edu/~rajit/abstracts/async-case.html)
-- [Proof of stake is a scam and the people promoting it are scammers](https://yanmaani.github.io/proof-of-stake-is-a-scam-and-the-people-promoting-it-are-scammers/)
+- [The “Freer Men” of Ham Radio: Social and Spatial Distance](https://www.jstor.org/stable/25148208?mag=ham-radio-and-gender-politics&seq=8#metadata_info_tab_contents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
