@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The truth about turbinates &lpar;and sinusitis&rpar;](https://westportfacialplasticsurgery.com/blog/turbinate/)
 - [BMW removing touchscreen from a bunch of models due to chip shortage](https://www.autoblog.com/2021/11/05/bmws-losing-touchscreen-functionality/)
+- [Labors of Love: Translations of Dante](https://www.nybooks.com/articles/2021/12/16/dante-purgatorio-labors-love/)
 - [A small Scheme implementation with AOT and incremental compilers that fits in 4K](https://github.com/udem-dlteam/ribbit)
 - [The Fuel of Philosophers](https://www.illustratedphilosopher.com/episodes/the-fuel-of-philosophers)
-- [Today’s Disneyland is a price gouge, not a magical experience](https://www.sfgate.com/travel-column/article/Disneyland-is-a-price-gouge-16616134.php)
-- [The slowest SR-71 Blackbird fly-by](https://theaviationgeekclub.com/story-behind-famed-sr-71-blackbird-super-low-knife-edge-pass/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
