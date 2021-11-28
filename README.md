@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WHO – You cannot be Xi-rious](https://www.taiwannews.com.tw/en/news/4358336)
+- [Z Library](https://z-lib.org/)
+- [How to parse EVE Online chat logs &lpar;in Common Lisp&rpar;](https://blog.michaeldresser.io/posts/2021-11-27_how-to-parse-eve-chat-log.html)
+- [Australia to introduce new laws to force media platforms to unmask online trolls](https://www.reuters.com/world/asia-pacific/australia-introduce-new-laws-force-media-platforms-unmask-online-trolls-2021-11-28/)
+- [Aphantasia](https://en.wikipedia.org/wiki/Aphantasia)
 - [Books that changed my career as a software engineer](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer/)
-- [Permutation-Invariant Neural Networks for Reinforcement Learning](https://blog.otoro.net/2021/11/18/attentionneuron/)
-- [More Cash Invested in Stock in 2021 Than Two Decades Combined](https://www.bloomberg.com/news/articles/2021-11-25/stock-funds-took-in-more-cash-in-2021-than-two-decades-combined)
-- [Rare Greek Variables](https://www.gwern.net/Variables)
 <!-- BLOG-POST-LIST:END -->
 
 ---
