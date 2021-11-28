@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [South Africa punished for scientific Discovery](https://www.bbc.com/news/world-59442129)
 - [Measuring Software Complexity: What Metrics to Use?](https://thevaluable.dev/complexity-metrics-software/)
+- [Why are German numbers backwards?](https://german.stackexchange.com/questions/5009/why-are-german-numbers-backwards)
 - [Venus on QEMU: Enabling the new virtual Vulkan driver](https://www.collabora.com/news-and-blog/blog/2021/11/26/venus-on-qemu-enabling-new-virtual-vulkan-driver/)
 - [Terra &lpar;YC W21&rpar; Is Hiring for Graduate Software Engineers in London](https://www.ycombinator.com/companies/terra/jobs/EWMMj0v-full-stack-developer-graduate)
-- [Indian academics throw weight behind Sci-Hub and LibGen in landmark case](https://www.trtworld.com/magazine/indian-academics-throw-weight-behind-sci-hub-and-libgen-in-landmark-case-51780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
