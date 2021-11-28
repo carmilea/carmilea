@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Z Library](https://z-lib.org/)
+- [Crypto enthusiasts want to buy an NBA team, after not purchasing US Constitution](https://www.npr.org/2021/11/26/1059413217/crypto-enthusiasts-want-to-buy-an-nba-team-after-failing-to-purchase-us-constitu)
+- [Show HN: A search engine that lets you refine your queries](https://www.occamm.com/)
 - [How to parse EVE Online chat logs &lpar;in Common Lisp&rpar;](https://blog.michaeldresser.io/posts/2021-11-27_how-to-parse-eve-chat-log.html)
 - [Australia to introduce new laws to force media platforms to unmask online trolls](https://www.reuters.com/world/asia-pacific/australia-introduce-new-laws-force-media-platforms-unmask-online-trolls-2021-11-28/)
 - [Aphantasia](https://en.wikipedia.org/wiki/Aphantasia)
-- [Books that changed my career as a software engineer](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
