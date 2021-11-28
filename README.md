@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The truth about turbinates &lpar;and sinusitis&rpar;](https://westportfacialplasticsurgery.com/blog/turbinate/)
-- [BMW removing touchscreen from a bunch of models due to chip shortage](https://www.autoblog.com/2021/11/05/bmws-losing-touchscreen-functionality/)
-- [Labors of Love: Translations of Dante](https://www.nybooks.com/articles/2021/12/16/dante-purgatorio-labors-love/)
-- [A small Scheme implementation with AOT and incremental compilers that fits in 4K](https://github.com/udem-dlteam/ribbit)
-- [The Fuel of Philosophers](https://www.illustratedphilosopher.com/episodes/the-fuel-of-philosophers)
+- [Command Palettes: How Typing Commands Became the Norm Again](https://capiche.com/e/consumer-dev-tools-command-palette)
+- [Ask HN: Have you noticed difficulty tapping links on HN on iOS lately?](https://news.ycombinator.com/item?id=29373440)
+- [Colobot, an RTS game where you program your units in C++ like language](https://colobot.info/)
+- [Ask HN: Know any non Librem5 PinePhone for Mobile Linux? Legacy devices too!](https://news.ycombinator.com/item?id=29373106)
+- [Update on Omicron](https://www.who.int/news/item/28-11-2021-update-on-omicron)
 <!-- BLOG-POST-LIST:END -->
 
 ---
