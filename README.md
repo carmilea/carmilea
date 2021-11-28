@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [South Africa punished for scientific Discovery](https://www.bbc.com/news/world-59442129)
-- [Measuring Software Complexity: What Metrics to Use?](https://thevaluable.dev/complexity-metrics-software/)
-- [Why are German numbers backwards?](https://german.stackexchange.com/questions/5009/why-are-german-numbers-backwards)
-- [Venus on QEMU: Enabling the new virtual Vulkan driver](https://www.collabora.com/news-and-blog/blog/2021/11/26/venus-on-qemu-enabling-new-virtual-vulkan-driver/)
-- [Terra &lpar;YC W21&rpar; Is Hiring for Graduate Software Engineers in London](https://www.ycombinator.com/companies/terra/jobs/EWMMj0v-full-stack-developer-graduate)
+- [Use rust code in Python with pyo3](http://saidvandeklundert.net/learn/2021-11-18-calling-rust-from-python-using-pyo3/)
+- [Floating Point Visually Explained](https://fabiensanglard.net/floating_point_visually_explained/)
+- [GitHub Broken Download URLs](https://github.com/github/feedback/discussions/8149)
+- [The time complexity of the libc++ deque push_front implementation is O&lpar;log n&rpar;](https://1f604.blogspot.com/2021/11/the-libc-implementation-of-stl-deque.html)
+- [Omicron Update: Nov 27](https://yourlocalepidemiologist.substack.com/p/omicron-update-nov-27)
 <!-- BLOG-POST-LIST:END -->
 
 ---
