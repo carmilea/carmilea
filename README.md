@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Use rust code in Python with pyo3](http://saidvandeklundert.net/learn/2021-11-18-calling-rust-from-python-using-pyo3/)
-- [Floating Point Visually Explained](https://fabiensanglard.net/floating_point_visually_explained/)
-- [GitHub Broken Download URLs](https://github.com/github/feedback/discussions/8149)
-- [The time complexity of the libc++ deque push_front implementation is O&lpar;log n&rpar;](https://1f604.blogspot.com/2021/11/the-libc-implementation-of-stl-deque.html)
-- [Omicron Update: Nov 27](https://yourlocalepidemiologist.substack.com/p/omicron-update-nov-27)
+- [Is watching the 1984 Ghostbusters movie killing people?](https://www.covid-datascience.com/post/is-watching-the-1984-ghostbusters-movie-killing-people-a-statistician-s-perspective)
+- [Sudden cardiac death in young people with apparently normal heart &lpar;2001&rpar;](https://academic.oup.com/cardiovascres/article/50/2/399/274680)
+- [Show HN: 4K Desktop Wallpaper Generator](https://tanck.nl/wallpaper/)
+- [Generate Musical Accompaniment with R](https://flujoo.github.io/en/generate-accompaniment-progression/)
+- [Calling Rust from Python using PyO3](http://saidvandeklundert.net/learn/2021-11-18-calling-rust-from-python-using-pyo3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
