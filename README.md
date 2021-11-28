@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Web4 Should Run on LaTeX](https://www.cynicusrex.com/file/web4.html)
-- [I returned my Remarkable2](https://offbyone.us/posts/remarkable/)
-- [“The Pirate Bay Can’t Be Stopped,” Co-Founder Says](https://torrentfreak.com/the-pirate-bay-cant-be-stopped-co-founder-says-211128/)
-- [Show HN: Giving a 2D grid a 3D look – part 4](https://victorribeiro.com/random4/)
-- [MacBook Air M1: the best laptop?](https://michael.stapelberg.ch/posts/2021-11-28-macbook-air-m1/)
+- [Ask HN: EU devs who moved to the States for work, has it been worth it?](https://news.ycombinator.com/item?id=29370922)
+- [Ask HN: Jaded about the Internet?](https://news.ycombinator.com/item?id=29370894)
+- [Reverse-engineering the Yamaha DX7 synthesizer&#39;s clever exponential circuit](https://www.righto.com/2021/11/reverse-engineering-yamaha-dx7_28.html)
+- [Legendary F1 team boss Sir Frank Williams dies, aged 79](https://www.formula1.com/en/latest/article.breaking-legendary-f1-team-boss-sir-frank-williams-dies-aged-79.mCPM4nj5n62elIhFoPhtv.html)
+- [Linus on Line Breaks](https://lkml.org/lkml/2020/5/29/1038)
 <!-- BLOG-POST-LIST:END -->
 
 ---
