@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is watching the 1984 Ghostbusters movie killing people?](https://www.covid-datascience.com/post/is-watching-the-1984-ghostbusters-movie-killing-people-a-statistician-s-perspective)
-- [Show HN: 4K Desktop Wallpaper Generator](https://tanck.nl/wallpaper/)
-- [Generate Musical Accompaniment with R](https://flujoo.github.io/en/generate-accompaniment-progression/)
-- [Calling Rust from Python using PyO3](http://saidvandeklundert.net/learn/2021-11-18-calling-rust-from-python-using-pyo3/)
-- [Floating point visually explained &lpar;2017&rpar;](https://fabiensanglard.net/floating_point_visually_explained/)
+- [Web4 Should Run on LaTeX](https://www.cynicusrex.com/file/web4.html)
+- [I returned my Remarkable2](https://offbyone.us/posts/remarkable/)
+- [“The Pirate Bay Can’t Be Stopped,” Co-Founder Says](https://torrentfreak.com/the-pirate-bay-cant-be-stopped-co-founder-says-211128/)
+- [Show HN: Giving a 2D grid a 3D look – part 4](https://victorribeiro.com/random4/)
+- [MacBook Air M1: the best laptop?](https://michael.stapelberg.ch/posts/2021-11-28-macbook-air-m1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
