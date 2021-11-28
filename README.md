@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Aphantasia - the inability to voluntarily create mental images](https://en.wikipedia.org/wiki/Aphantasia)
-- [Mina: Cryptocurrency Protocol with a Succinct Blockchain](https://minaprotocol.com/https://docs.minaprotocol.comhttps://docs.minaprotocol.comhttps://docs.minaprotocol.comhttps://docs.minaprotocol.comhttps://docs.minaprotocol.comhttps://docs.minaprotocol.com/en)
+- [WHO – You cannot be Xi-rious](https://www.taiwannews.com.tw/en/news/4358336)
 - [Books that changed my career as a software engineer](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer/)
 - [Permutation-Invariant Neural Networks for Reinforcement Learning](https://blog.otoro.net/2021/11/18/attentionneuron/)
 - [More Cash Invested in Stock in 2021 Than Two Decades Combined](https://www.bloomberg.com/news/articles/2021-11-25/stock-funds-took-in-more-cash-in-2021-than-two-decades-combined)
+- [Rare Greek Variables](https://www.gwern.net/Variables)
 <!-- BLOG-POST-LIST:END -->
 
 ---
