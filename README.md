@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego Technic 8880 Super Car](http://www.technicopedia.com/8880.html)
+- [The WHO is seeking a new treaty on handling future pandemics](https://text.npr.org/1059025751)
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29375111)
-- [Anthocyanins](https://johncarlosbaez.wordpress.com/2021/11/28/anthocyanins/)
-- [How to Save a Ski Town](https://www.outsideonline.com/culture/essays-culture/how-to-save-a-ski-town-west-tourism-economy/)
-- [Command Palettes: How Typing Commands Became the Norm Again](https://capiche.com/e/consumer-dev-tools-command-palette)
-- [Ask HN: Have you noticed difficulty tapping links on HN on iOS lately?](https://news.ycombinator.com/item?id=29373440)
+- [A father comforts his son on deathbed. The photo that changed the face of AIDS](https://rarehistoricalphotos.com/father-son-deathbed-david-kirby-1989/)
+- [Herbs and Spices Might Contain Arsenic, Cadmium, and Lead](https://www.consumerreports.org/food-safety/your-herbs-and-spices-might-contain-arsenic-cadmium-and-lead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
