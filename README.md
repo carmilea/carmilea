@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up Cloudflare Argo and Access on a Raspberry Pi](https://erdaltoprak.com/setting-up-cloudflare-argo-and-access-on-a-raspberry-pi/)
+- [Ask HN: Are there any 4K “dumb” televisions?](https://news.ycombinator.com/item?id=29382643)
+- [Why I Have Settled on XChaCha20+Blake3 for AEAD](https://mccarty.io/cryptography/2021/11/29/chacha20-blake3.html)
 - [SuperTokens &lpar;YC S20&rpar; Is Hiring a devrel / dev advocate](https://angel.co/l/2wamXW)
 - [Launch HN: Parade &lpar;YC S20&rpar; – Launch your company without hiring a designer](https://news.ycombinator.com/item?id=29382127)
-- [Free Public Domain Audiobooks](https://librivox.org/)
-- [A cross-platform Markdown editor focused on speed and usability](https://marktext.app/)
-- [For DNSSEC](https://easydns.com/blog/2015/08/06/for-dnssec/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
