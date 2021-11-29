@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How LambdaMART Works](https://softwaredoug.com/blog/2021/11/28/how-lammbamart-works.html)
+- [CPU Pinning and CPU Sets](https://www.netmeister.org/blog/cpu-pinning-and-sets.html)
+- [Show HN: Rapid Recipe – Reader mode for recipes](https://rapidrecipe.reichel.dev)
+- [Winamp Source Code Leak](https://web.archive.org/web/20210515031018/https://github.com/CONIGUERO/winamp)
 - [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Front End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer-34f9e1)
-- [1958 proposal to dam the Bering Strait, nuclear powered propellers to melt pole](https://weathermodificationhistory.com/1958-dam-bering-strait-use-nuclear-powered-propellers-melt-poles/)
-- [V A D O](https://vado.cc)
-- [Disney’s Influence on U.S. Copyright Law](https://online.yu.edu/cardozo/blog/disney-influence-copyright-law)
-- [A $5B hoard of metal the world wants but can’t have](https://www.mining.com/web/the-5-billion-hoard-of-metal-the-world-wants-but-cant-have/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
