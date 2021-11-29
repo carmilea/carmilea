@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Security Camera Lens Calculator &lpar; www.jvsg.com/online/ &rpar;](https://news.ycombinator.com/item?id=29381055)
+- [Modeling suggests friendships may lead to lopsided elections](https://news.cornell.edu/stories/2021/11/modeling-suggests-friendships-may-lead-lopsided-elections)
+- [Vitalik Buterin Proposes New EIP to Tackle Ethereum’s Sky-High Gas Fees](https://cryptonews.com/news/vitalik-buterin-proposes-new-eip-to-tackle-ethereums-sky-high-gas-fees.htm)
+- [Why Adversarial Image Attacks Are No Joke](https://www.unite.ai/why-adversarial-image-attacks-are-no-joke/)
 - [Costly Airbus paint flaw goes wider than the Gulf](https://www.reuters.com/business/aerospace-defense/costly-airbus-paint-flaw-goes-wider-than-gulf-2021-11-29/)
-- [Could One Shot Kill the Flu?](https://www.newyorker.com/science/annals-of-medicine/could-one-shot-kill-the-flu)
-- [Jack Dorsey is expected to step down as Twitter CEO, sources say](https://www.cnbc.com/2021/11/29/twitter-ceo-jack-dorsey-is-expected-to-step-down-sources-say.html)
-- [Bring Back Web1](https://midrange.tedium.co/issues/bring-back-web1-905071)
-- [Susan Kare Explains Macintosh UI Ergonomics on the Computer Chronicles &lpar;1984&rpar;](https://www.youtube.com/watch?v=x_q50tvbQm4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
