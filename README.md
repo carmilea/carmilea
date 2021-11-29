@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Security Camera Lens Calculator &lpar; www.jvsg.com/online/ &rpar;](https://news.ycombinator.com/item?id=29381055)
-- [Modeling suggests friendships may lead to lopsided elections](https://news.cornell.edu/stories/2021/11/modeling-suggests-friendships-may-lead-lopsided-elections)
-- [Vitalik Buterin Proposes New EIP to Tackle Ethereum’s Sky-High Gas Fees](https://cryptonews.com/news/vitalik-buterin-proposes-new-eip-to-tackle-ethereums-sky-high-gas-fees.htm)
-- [Why Adversarial Image Attacks Are No Joke](https://www.unite.ai/why-adversarial-image-attacks-are-no-joke/)
-- [Costly Airbus paint flaw goes wider than the Gulf](https://www.reuters.com/business/aerospace-defense/costly-airbus-paint-flaw-goes-wider-than-gulf-2021-11-29/)
+- [SuperTokens &lpar;YC S20&rpar; Is Hiring a devrel / dev advocate](https://angel.co/l/2wamXW)
+- [Launch HN: Parade &lpar;YC S20&rpar; – Launch your company without hiring a designer](https://news.ycombinator.com/item?id=29382127)
+- [Free Public Domain Audiobooks](https://librivox.org/)
+- [A cross-platform Markdown editor focused on speed and usability](https://marktext.app/)
+- [For DNSSEC](https://easydns.com/blog/2015/08/06/for-dnssec/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
