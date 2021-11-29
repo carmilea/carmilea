@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Free SVG Image and Icon. All Contents Are Released Under Creative Commons CC0](https://svgsilh.com/)
+- [Tiny](https://www.tinycapital.com/)
 - [The Whole Earth Catalog, Where Counterculture Met Cyberculture](https://daily.jstor.org/the-whole-earth-catalog-where-counterculture-met-cyberculture/)
 - [A Handy Little System for Animated Entrances in CSS](https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/)
 - [CPython&#39;s main branch running in the browser with WebAssembly](https://twitter.com/ethanhs/status/1464308141105967104)
-- [Long-run effects of religious persecution: evidence from the Spanish Inquisition](https://www.pnas.org/content/118/33/e2022881118)
-- [Facebook Messenger – end-to-end encryption delayed to end of 2023](https://www.forbes.com/sites/zakdoffman/2021/11/27/apple-iphone-google-android-and-windows-10-11-users-given-reason-to-quit-facebook-messenger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
