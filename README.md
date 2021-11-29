@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Setting Up Cloudflare Argo and Access on a Raspberry Pi](https://erdaltoprak.com/setting-up-cloudflare-argo-and-access-on-a-raspberry-pi/)
+- [The Inherent Limitations of GPT-3](https://lastweekin.ai/p/the-inherent-limitations-of-gpt-3)
 - [Ask HN: Are there any 4K “dumb” televisions?](https://news.ycombinator.com/item?id=29382643)
 - [Why I Have Settled on XChaCha20+Blake3 for AEAD](https://mccarty.io/cryptography/2021/11/29/chacha20-blake3.html)
 - [SuperTokens &lpar;YC S20&rpar; Is Hiring a devrel / dev advocate](https://angel.co/l/2wamXW)
-- [Launch HN: Parade &lpar;YC S20&rpar; – Launch your company without hiring a designer](https://news.ycombinator.com/item?id=29382127)
 <!-- BLOG-POST-LIST:END -->
 
 ---
