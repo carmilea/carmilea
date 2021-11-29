@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox Is the Only Alternative](https://batsov.com/articles/2021/11/28/firefox-is-the-only-alternative/)
+- [Run as the Root Account](https://www.garyshood.com/root/)
+- [A Transparent Wishbone-to-SPI Bridge Supporting Execute-in-Place &lpar;XIP&rpar;](https://github.com/stnolting/wb_spi_bridge)
+- [The Origins of ‘Horn OK Please,’ India’s Most Ubiquitous Phrase](https://www.atlasobscura.com/articles/the-origins-of-horn-ok-please-indias-most-ubiquitous-phrase)
 - [Ask HN: Did you find something to use your Raspberry Pi 400 for?](https://news.ycombinator.com/item?id=29377783)
-- [UK regulator set to block Meta&#39;s Giphy deal](https://www.reuters.com/markets/deals/uk-regulator-set-block-metas-giphy-deal-ft-2021-11-29/)
-- [Fleet, a Lightweight IDE from JetBrains](https://blog.jetbrains.com/blog/2021/11/29/welcome-to-fleet/)
-- [Kavita – self-hosted digital library which supports a vast array of file formats](https://www.kavitareader.com/)
-- [JetBrains Fleet: The Next-Generation IDE by JetBrains](https://www.jetbrains.com/fleet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
