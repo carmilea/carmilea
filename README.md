@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK regulator set to block Meta&#39;s Giphy deal](https://www.reuters.com/markets/deals/uk-regulator-set-block-metas-giphy-deal-ft-2021-11-29/)
+- [Fleet, a Lightweight IDE from JetBrains](https://blog.jetbrains.com/blog/2021/11/29/welcome-to-fleet/)
+- [Kavita – self-hosted digital library which supports a vast array of file formats](https://www.kavitareader.com/)
+- [JetBrains Fleet: The Next-Generation IDE by JetBrains](https://www.jetbrains.com/fleet/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Engineers in Austria, Germany and Remote](https://bitmovin.com/careers/)
-- [Free SVG Image and Icon. All Contents Are Released Under Creative Commons CC0](https://svgsilh.com/)
-- [Tiny](https://www.tinycapital.com/)
-- [The Whole Earth Catalog, Where Counterculture Met Cyberculture](https://daily.jstor.org/the-whole-earth-catalog-where-counterculture-met-cyberculture/)
-- [A Handy Little System for Animated Entrances in CSS](https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
