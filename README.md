@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Did you find something to use your Raspberry Pi 400 for?](https://news.ycombinator.com/item?id=29377783)
 - [UK regulator set to block Meta&#39;s Giphy deal](https://www.reuters.com/markets/deals/uk-regulator-set-block-metas-giphy-deal-ft-2021-11-29/)
 - [Fleet, a Lightweight IDE from JetBrains](https://blog.jetbrains.com/blog/2021/11/29/welcome-to-fleet/)
 - [Kavita – self-hosted digital library which supports a vast array of file formats](https://www.kavitareader.com/)
 - [JetBrains Fleet: The Next-Generation IDE by JetBrains](https://www.jetbrains.com/fleet/)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Engineers in Austria, Germany and Remote](https://bitmovin.com/careers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
