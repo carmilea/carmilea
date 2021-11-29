@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox Is the Only Alternative](https://batsov.com/articles/2021/11/28/firefox-is-the-only-alternative/)
-- [Run as the Root Account](https://www.garyshood.com/root/)
-- [A Transparent Wishbone-to-SPI Bridge Supporting Execute-in-Place &lpar;XIP&rpar;](https://github.com/stnolting/wb_spi_bridge)
-- [The Origins of ‘Horn OK Please,’ India’s Most Ubiquitous Phrase](https://www.atlasobscura.com/articles/the-origins-of-horn-ok-please-indias-most-ubiquitous-phrase)
-- [Ask HN: Did you find something to use your Raspberry Pi 400 for?](https://news.ycombinator.com/item?id=29377783)
+- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Front End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer-34f9e1)
+- [1958 proposal to dam the Bering Strait, nuclear powered propellers to melt pole](https://weathermodificationhistory.com/1958-dam-bering-strait-use-nuclear-powered-propellers-melt-poles/)
+- [Disney’s Influence on U.S. Copyright Law](https://online.yu.edu/cardozo/blog/disney-influence-copyright-law)
+- [A $5B hoard of metal the world wants but can’t have](https://www.mining.com/web/the-5-billion-hoard-of-metal-the-world-wants-but-cant-have/)
+- [Flow-field.js – A library for generating flow fields](https://github.com/romellogoodman/flow-field.js)
 <!-- BLOG-POST-LIST:END -->
 
 ---
