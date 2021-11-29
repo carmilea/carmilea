@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Engineers in Austria, Germany and Remote](https://bitmovin.com/careers/)
 - [Free SVG Image and Icon. All Contents Are Released Under Creative Commons CC0](https://svgsilh.com/)
 - [Tiny](https://www.tinycapital.com/)
 - [The Whole Earth Catalog, Where Counterculture Met Cyberculture](https://daily.jstor.org/the-whole-earth-catalog-where-counterculture-met-cyberculture/)
 - [A Handy Little System for Animated Entrances in CSS](https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/)
-- [CPython&#39;s main branch running in the browser with WebAssembly](https://twitter.com/ethanhs/status/1464308141105967104)
 <!-- BLOG-POST-LIST:END -->
 
 ---
