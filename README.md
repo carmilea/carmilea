@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“It&#39;s not peaches and cream either for men”](https://avikdas.com/2021/11/29/its-not-peaches-and-cream-either-for-men.html)
+- [Team builds first living robots–that can reproduce](https://wyss.harvard.edu/news/team-builds-first-living-robots-that-can-reproduce/)
 - [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
 - [Pull Through Cache Repositories for Amazon Elastic Container Registry](https://aws.amazon.com/blogs/aws/announcing-pull-through-cache-repositories-for-amazon-elastic-container-registry/)
-- [Google Chromium, sans integration with Google](https://ungoogled-software.github.io/)
-- [AppFlowy: an open-source alternative to Notion](https://github.com/AppFlowy-IO/appflowy)
-- [Music is a negative superstimulus for speech &lpar;2020&rpar;](https://whatismusic.info/blog/MusicIsNotAPositiveSuperstimulusItsANegativeSuperstimulus.html)
+- [Asmrepl: REPL for x86 Assembly Language](https://github.com/tenderlove/asmrepl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
