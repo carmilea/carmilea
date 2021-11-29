@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“It&#39;s not peaches and cream either for men”](https://avikdas.com/2021/11/29/its-not-peaches-and-cream-either-for-men.html)
-- [Team builds first living robots–that can reproduce](https://wyss.harvard.edu/news/team-builds-first-living-robots-that-can-reproduce/)
-- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
-- [Pull Through Cache Repositories for Amazon Elastic Container Registry](https://aws.amazon.com/blogs/aws/announcing-pull-through-cache-repositories-for-amazon-elastic-container-registry/)
-- [Asmrepl: REPL for x86 Assembly Language](https://github.com/tenderlove/asmrepl)
+- [Ex-Google workers sue company, saying it betrayed &#39;Don&#39;t Be Evil&#39; motto](https://www.npr.org/2021/11/29/1059821677/google-dont-be-evil-lawsuit)
+- [Satellites Reveal Arctic Rivers are Changing Faster Than We Thought](https://www.umass.edu/news/article/satellites-reveal-arctic-rivers-are-changing-faster-we-thought)
+- [Researchers find xenobots can give rise to offspring](https://www.theguardian.com/science/2021/nov/29/amazing-science-researchers-find-xenobots-can-give-rise-to-offspring)
+- [Proof-of-Stake and Stablecoins: A Blockchain Centralization Dilemma](https://www.lynalden.com/proof-of-stake/)
+- [Show HN: An AWS Savings Plans Calculator](https://cloudshim.com/calculator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
