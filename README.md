@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Whole Earth Catalog, Where Counterculture Met Cyberculture](https://daily.jstor.org/the-whole-earth-catalog-where-counterculture-met-cyberculture/)
+- [A Handy Little System for Animated Entrances in CSS](https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/)
 - [CPython&#39;s main branch running in the browser with WebAssembly](https://twitter.com/ethanhs/status/1464308141105967104)
+- [Long-run effects of religious persecution: evidence from the Spanish Inquisition](https://www.pnas.org/content/118/33/e2022881118)
 - [Facebook Messenger – end-to-end encryption delayed to end of 2023](https://www.forbes.com/sites/zakdoffman/2021/11/27/apple-iphone-google-android-and-windows-10-11-users-given-reason-to-quit-facebook-messenger/)
-- [T-Mobile CDMA network shutting down soon](https://www.tmonews.com/2021/10/t-mobile-postpones-cdma-shutdown-date-another-three-months/)
-- [8880 Super Car &lpar;2010&rpar;](http://www.technicopedia.com/8880.html)
-- [The WHO is seeking a new treaty on handling future pandemics](https://text.npr.org/1059025751)
 <!-- BLOG-POST-LIST:END -->
 
 ---
