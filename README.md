@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
+- [Pull Through Cache Repositories for Amazon Elastic Container Registry](https://aws.amazon.com/blogs/aws/announcing-pull-through-cache-repositories-for-amazon-elastic-container-registry/)
+- [Google Chromium, sans integration with Google](https://ungoogled-software.github.io/)
 - [AppFlowy: an open-source alternative to Notion](https://github.com/AppFlowy-IO/appflowy)
-- [The poetry and brief life of a Foxconn worker: Xu Lizhi &lpar;2014&rpar;](https://libcom.org/blog/xulizhi-foxconn-suicide-poetry)
-- [Breakthrough, PhD student creates a simple, cost-effective laser on silicon](https://brighterworld.mcmaster.ca/articles/laser-on-silicon-khadijeh-miarabbas-kiani/)
-- [Setting Up Cloudflare Argo and Access on a Raspberry Pi](https://erdaltoprak.com/setting-up-cloudflare-argo-and-access-on-a-raspberry-pi/)
-- [The Inherent Limitations of GPT-3](https://lastweekin.ai/p/the-inherent-limitations-of-gpt-3)
+- [Music is a negative superstimulus for speech &lpar;2020&rpar;](https://whatismusic.info/blog/MusicIsNotAPositiveSuperstimulusItsANegativeSuperstimulus.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
