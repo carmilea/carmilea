@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AppFlowy: an open-source alternative to Notion](https://github.com/AppFlowy-IO/appflowy)
+- [The poetry and brief life of a Foxconn worker: Xu Lizhi &lpar;2014&rpar;](https://libcom.org/blog/xulizhi-foxconn-suicide-poetry)
+- [Breakthrough, PhD student creates a simple, cost-effective laser on silicon](https://brighterworld.mcmaster.ca/articles/laser-on-silicon-khadijeh-miarabbas-kiani/)
 - [Setting Up Cloudflare Argo and Access on a Raspberry Pi](https://erdaltoprak.com/setting-up-cloudflare-argo-and-access-on-a-raspberry-pi/)
 - [The Inherent Limitations of GPT-3](https://lastweekin.ai/p/the-inherent-limitations-of-gpt-3)
-- [Ask HN: Are there any 4K “dumb” televisions?](https://news.ycombinator.com/item?id=29382643)
-- [Why I Have Settled on XChaCha20+Blake3 for AEAD](https://mccarty.io/cryptography/2021/11/29/chacha20-blake3.html)
-- [SuperTokens &lpar;YC S20&rpar; Is Hiring a devrel / dev advocate](https://angel.co/l/2wamXW)
 <!-- BLOG-POST-LIST:END -->
 
 ---
