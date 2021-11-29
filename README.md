@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lego Technic 8880 Super Car](http://www.technicopedia.com/8880.html)
+- [T-Mobile CDMA network shutting down soon](https://www.tmonews.com/2021/10/t-mobile-postpones-cdma-shutdown-date-another-three-months/)
+- [8880 Super Car &lpar;2010&rpar;](http://www.technicopedia.com/8880.html)
 - [The WHO is seeking a new treaty on handling future pandemics](https://text.npr.org/1059025751)
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29375111)
-- [A father comforts his son on deathbed. The photo that changed the face of AIDS](https://rarehistoricalphotos.com/father-son-deathbed-david-kirby-1989/)
 - [Herbs and Spices Might Contain Arsenic, Cadmium, and Lead](https://www.consumerreports.org/food-safety/your-herbs-and-spices-might-contain-arsenic-cadmium-and-lead/)
 <!-- BLOG-POST-LIST:END -->
 
