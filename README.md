@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How LambdaMART Works](https://softwaredoug.com/blog/2021/11/28/how-lammbamart-works.html)
-- [CPU Pinning and CPU Sets](https://www.netmeister.org/blog/cpu-pinning-and-sets.html)
-- [Show HN: Rapid Recipe – Reader mode for recipes](https://rapidrecipe.reichel.dev)
-- [Winamp Source Code Leak](https://web.archive.org/web/20210515031018/https://github.com/CONIGUERO/winamp)
-- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Front End Engineer](https://www.themuse.com/jobs/themuse/senior-frontend-engineer-34f9e1)
+- [Costly Airbus paint flaw goes wider than the Gulf](https://www.reuters.com/business/aerospace-defense/costly-airbus-paint-flaw-goes-wider-than-gulf-2021-11-29/)
+- [Could One Shot Kill the Flu?](https://www.newyorker.com/science/annals-of-medicine/could-one-shot-kill-the-flu)
+- [Jack Dorsey is expected to step down as Twitter CEO, sources say](https://www.cnbc.com/2021/11/29/twitter-ceo-jack-dorsey-is-expected-to-step-down-sources-say.html)
+- [Bring Back Web1](https://midrange.tedium.co/issues/bring-back-web1-905071)
+- [Susan Kare Explains Macintosh UI Ergonomics on the Computer Chronicles &lpar;1984&rpar;](https://www.youtube.com/watch?v=x_q50tvbQm4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
