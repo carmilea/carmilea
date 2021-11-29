@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29375111)
+- [Anthocyanins](https://johncarlosbaez.wordpress.com/2021/11/28/anthocyanins/)
+- [How to Save a Ski Town](https://www.outsideonline.com/culture/essays-culture/how-to-save-a-ski-town-west-tourism-economy/)
 - [Command Palettes: How Typing Commands Became the Norm Again](https://capiche.com/e/consumer-dev-tools-command-palette)
 - [Ask HN: Have you noticed difficulty tapping links on HN on iOS lately?](https://news.ycombinator.com/item?id=29373440)
-- [Colobot, an RTS game where you program your units in C++ like language](https://colobot.info/)
-- [Ask HN: Know any non Librem5 PinePhone for Mobile Linux? Legacy devices too!](https://news.ycombinator.com/item?id=29373106)
-- [Update on Omicron](https://www.who.int/news/item/28-11-2021-update-on-omicron)
 <!-- BLOG-POST-LIST:END -->
 
 ---
