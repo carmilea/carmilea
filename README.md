@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CPython&#39;s main branch running in the browser with WebAssembly](https://twitter.com/ethanhs/status/1464308141105967104)
+- [Facebook Messenger – end-to-end encryption delayed to end of 2023](https://www.forbes.com/sites/zakdoffman/2021/11/27/apple-iphone-google-android-and-windows-10-11-users-given-reason-to-quit-facebook-messenger/)
 - [T-Mobile CDMA network shutting down soon](https://www.tmonews.com/2021/10/t-mobile-postpones-cdma-shutdown-date-another-three-months/)
 - [8880 Super Car &lpar;2010&rpar;](http://www.technicopedia.com/8880.html)
 - [The WHO is seeking a new treaty on handling future pandemics](https://text.npr.org/1059025751)
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29375111)
-- [Herbs and Spices Might Contain Arsenic, Cadmium, and Lead](https://www.consumerreports.org/food-safety/your-herbs-and-spices-might-contain-arsenic-cadmium-and-lead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
