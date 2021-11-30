@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [4x Smaller, 50x Faster](https://blog.asciinema.org/post/smaller-faster/)
+- [Long View: Is the World Deglobalising?](https://www.realchinacharts.com/p/8-long-view-is-the-world-deglobalising)
+- [Accepted and ghosted: interviewing for a leadership position at Stripe](https://news.ycombinator.com/item?id=29387264)
 - [Workers Quit Jobs in Droves to Become Their Own Bosses](https://www.wsj.com/articles/workers-quit-jobs-in-droves-to-become-their-own-bosses-11638199199)
-- [The Essence operating system at Handmade Seattle 2021 [video]](https://media.handmade-seattle.com/essence/)
-- [Satellites Reveal Arctic Rivers are Changing Faster Than We Thought](https://www.umass.edu/news/article/satellites-reveal-arctic-rivers-are-changing-faster-we-thought)
-- [Researchers find xenobots can give rise to offspring](https://www.theguardian.com/science/2021/nov/29/amazing-science-researchers-find-xenobots-can-give-rise-to-offspring)
-- [Crises of Elite Competition in the East and West](https://americanaffairsjournal.org/2021/11/crises-of-elite-competition-in-the-east-and-west/)
+- [Will Nix Overtake Docker](https://blog.replit.com/nix-vs-docker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
