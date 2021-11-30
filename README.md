@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney Combines CGI with Neural Rendering to Tackle the ‘Uncanny Valley’](https://www.unite.ai/disney-combines-cgi-with-neural-rendering-to-tackle-the-uncanny-valley/)
 - [Xenobots: replicating living robots made from frog cells](https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce)
 - [Stacker &lpar;YC S20&rpar; Is Hiring](https://news.ycombinator.com/item?id=29389687)
+- [A few About boxes from vintage Mac applications &lpar;2015&rpar;](https://systemfolder.wordpress.com/2015/01/17/about-box/)
 - [PostgREST v9.0.0](https://postgrest.org/en/v9.0/releases/v9.0.0.html)
-- [Architecture in Music: looking inside musical instruments](https://www.charlesbrooks.info/architecture-in-music)
-- [Design Issues for Foreign Function Interfaces &lpar;2004&rpar;](http://web.archive.org/web/20170315194527/http://autocad.xarch.at/lisp/ffis.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
