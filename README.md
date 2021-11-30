@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source RISC-V GPGPU](https://github.com/vortexgpgpu/vortex)
 - [4x Smaller, 50x Faster](https://blog.asciinema.org/post/smaller-faster/)
+- [Emacs Docs The modern documentation website Emacs deserves](https://www.emacsdocs.org/)
 - [Long View: Is the World Deglobalising?](https://www.realchinacharts.com/p/8-long-view-is-the-world-deglobalising)
 - [Accepted and ghosted: interviewing for a leadership position at Stripe](https://news.ycombinator.com/item?id=29387264)
-- [Workers Quit Jobs in Droves to Become Their Own Bosses](https://www.wsj.com/articles/workers-quit-jobs-in-droves-to-become-their-own-bosses-11638199199)
-- [Will Nix Overtake Docker](https://blog.replit.com/nix-vs-docker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
