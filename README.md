@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Xenobots: replicating living robots made from frog cells](https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce)
 - [Stacker &lpar;YC S20&rpar; Is Hiring](https://news.ycombinator.com/item?id=29389687)
 - [PostgREST v9.0.0](https://postgrest.org/en/v9.0/releases/v9.0.0.html)
 - [Architecture in Music: looking inside musical instruments](https://www.charlesbrooks.info/architecture-in-music)
 - [Design Issues for Foreign Function Interfaces &lpar;2004&rpar;](http://web.archive.org/web/20170315194527/http://autocad.xarch.at/lisp/ffis.html)
-- [Solidjs – JavaScript UI Library](https://www.solidjs.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
