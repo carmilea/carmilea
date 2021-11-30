@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Curri &lpar;YC S19&rpar; is hiring Senior Engineers to help reimagine construction delivery](https://www.ycombinator.com/companies/curri/jobs/LmFeCm9-senior-engineer)
-- [Show HN: Improve your Python regex skills with 75 interactive exercises](https://github.com/learnbyexample/py_regular_expressions/tree/master/interactive_exercises)
-- [Hubris – An OS from Oxide Computer](https://hubris.oxide.computer/)
-- [Haiku Now Has Experimental 3D Acceleration](https://discuss.haiku-os.org/t/vulkan-lavapipe-software-rendering-is-working-on-haiku/11363?page=13)
-- [Why Decentralization Matters](https://cdixon.org/2018/02/18/why-decentralization-matters/)
+- [A Review of “The Man Who Solved the Market”](https://scottlocklin.wordpress.com/2021/11/29/a-review-of-the-man-who-solved-the-market-and-the-captain/)
+- [Twitter Has a New CEO; What About a New Business Model?](https://stratechery.com/2021/twitter-has-a-new-ceo-what-about-a-new-business-model/)
+- [Ask HN: Are Indeed, LinkedIn the go-to places for exploring new jobs?](https://news.ycombinator.com/item?id=29391785)
+- [Web Streams at the Edge](https://deno.com/blog/deploy-streams)
+- [U.K. regulators order Facebook-owner Meta to sell Giphy](https://www.axios.com/uk-regulators-order-facebook-meta-giphy-sale-457ccd20-f28e-4631-a508-a88639b1b121.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
