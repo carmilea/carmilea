@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ex-Google workers sue company, saying it betrayed &#39;Don&#39;t Be Evil&#39; motto](https://www.npr.org/2021/11/29/1059821677/google-dont-be-evil-lawsuit)
+- [Workers Quit Jobs in Droves to Become Their Own Bosses](https://www.wsj.com/articles/workers-quit-jobs-in-droves-to-become-their-own-bosses-11638199199)
+- [The Essence operating system at Handmade Seattle 2021 [video]](https://media.handmade-seattle.com/essence/)
 - [Satellites Reveal Arctic Rivers are Changing Faster Than We Thought](https://www.umass.edu/news/article/satellites-reveal-arctic-rivers-are-changing-faster-we-thought)
 - [Researchers find xenobots can give rise to offspring](https://www.theguardian.com/science/2021/nov/29/amazing-science-researchers-find-xenobots-can-give-rise-to-offspring)
-- [Proof-of-Stake and Stablecoins: A Blockchain Centralization Dilemma](https://www.lynalden.com/proof-of-stake/)
-- [Show HN: An AWS Savings Plans Calculator](https://cloudshim.com/calculator)
+- [Crises of Elite Competition in the East and West](https://americanaffairsjournal.org/2021/11/crises-of-elite-competition-in-the-east-and-west/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
