@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Communist Party cancel culture targets internet celebrities – The Economist](https://www.economist.com/business/communist-party-cancel-culture-targets-internet-celebrities/21806541)
+- [Solidjs – JavaScript UI Library](https://www.solidjs.com/)
 - [Open source RISC-V GPGPU](https://github.com/vortexgpgpu/vortex)
+- [CD box sets are wonderful](https://smackeyacky.blogspot.com/2021/11/cd-box-sets-are-wonderful.html)
 - [4x Smaller, 50x Faster](https://blog.asciinema.org/post/smaller-faster/)
-- [Emacs Docs The modern documentation website Emacs deserves](https://www.emacsdocs.org/)
-- [Long View: Is the World Deglobalising?](https://www.realchinacharts.com/p/8-long-view-is-the-world-deglobalising)
-- [Accepted and ghosted: interviewing for a leadership position at Stripe](https://news.ycombinator.com/item?id=29387264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
