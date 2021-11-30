@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Review of “The Man Who Solved the Market”](https://scottlocklin.wordpress.com/2021/11/29/a-review-of-the-man-who-solved-the-market-and-the-captain/)
-- [Twitter Has a New CEO; What About a New Business Model?](https://stratechery.com/2021/twitter-has-a-new-ceo-what-about-a-new-business-model/)
-- [Ask HN: Are Indeed, LinkedIn the go-to places for exploring new jobs?](https://news.ycombinator.com/item?id=29391785)
-- [Web Streams at the Edge](https://deno.com/blog/deploy-streams)
-- [U.K. regulators order Facebook-owner Meta to sell Giphy](https://www.axios.com/uk-regulators-order-facebook-meta-giphy-sale-457ccd20-f28e-4631-a508-a88639b1b121.html)
+- [The Prince symbol has been salvaged from a 1993 floppy disk](https://cdm.link/2021/11/the-prince-symbol-has-been-salvaged-from-a-1992-floppy-disk/)
+- [Ask HN: Has Google search become quantitatively worse?](https://news.ycombinator.com/item?id=29392702)
+- [Raspberry Pi Trading plans £370m+ stock market IPO](https://www.club386.com/raspberry-pi-trading-plans-370m-stock-market-ipo/)
+- [Launch HN: Kitchenful &lpar;YC S21&rpar; – Weekly recipes with integrated shopping](https://news.ycombinator.com/item?id=29392454)
+- [Reading NFS at 25GB/s using FIO and libnfs](https://taras.glek.net/post/nfs-for-fio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
