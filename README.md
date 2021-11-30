@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stacker &lpar;YC S20&rpar; Is Hiring](https://news.ycombinator.com/item?id=29389687)
+- [PostgREST v9.0.0](https://postgrest.org/en/v9.0/releases/v9.0.0.html)
+- [Architecture in Music: looking inside musical instruments](https://www.charlesbrooks.info/architecture-in-music)
 - [Design Issues for Foreign Function Interfaces &lpar;2004&rpar;](http://web.archive.org/web/20170315194527/http://autocad.xarch.at/lisp/ffis.html)
-- [Camel beauty contests take center stage at a celebration of Bedouin culture](https://www.nytimes.com/2021/11/29/travel/camel-beauty-pageant.html)
 - [Solidjs – JavaScript UI Library](https://www.solidjs.com/)
-- [Open source RISC-V GPGPU](https://github.com/vortexgpgpu/vortex)
-- [CD box sets are wonderful](https://smackeyacky.blogspot.com/2021/11/cd-box-sets-are-wonderful.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
