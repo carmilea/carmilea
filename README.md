@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DevCycle.com – Feature Management Made Simple &lpar;YC W14&rpar; is hiring full-stack devs](https://devcycle.com/company/careers)
+- [AWS Private 5g - 5G As a Service](https://aws.amazon.com/private5g/)
+- [AWS Graviton 3 Instances](https://aws.amazon.com/blogs/aws/join-the-preview-amazon-ec2-c7g-instances-powered-by-new-aws-graviton3-processors/)
+- [DevCycle.com &lpar;YC W14&rpar;, Feature Management Made Simple, is hiring full-stack devs](https://devcycle.com/company/careers)
+- [Lazygit: A simple terminal UI for Git commands](https://github.com/jesseduffield/lazygit)
 - [US labor board official orders Amazon to redo union vote at Alabama warehouse](https://www.reuters.com/business/amazon-alabama-facility-ordered-re-run-union-election-us-labor-board-2021-11-29/)
-- [The Unknown Story of Phil Zimmermann](https://www.michaelrinderle.com/2020/05/27/the-unknown-story-of-phil-zimmermann/)
-- [K|Lens – The third dimension in image acquisition](https://www.k-lens-one.com/en/home)
-- [The Prince symbol has been salvaged from a 1993 floppy disk](https://cdm.link/2021/11/the-prince-symbol-has-been-salvaged-from-a-1992-floppy-disk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
