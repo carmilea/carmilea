@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Back End Developers on Hackathons Are Not Needed](https://sergeykibish.com/blog/backend-developers-on-hackathons-are-not-needed/)
-- [AWS Redshift Serverless](https://aws.amazon.com/blogs/aws/introducing-amazon-redshift-serverless-run-analytics-at-any-scale-without-having-to-manage-infrastructure/)
-- [AWS Private 5g - 5G As a Service](https://aws.amazon.com/private5g/)
-- [AWS Graviton 3 Instances](https://aws.amazon.com/blogs/aws/join-the-preview-amazon-ec2-c7g-instances-powered-by-new-aws-graviton3-processors/)
-- [DevCycle.com &lpar;YC W14&rpar;, Feature Management Made Simple, is hiring full-stack devs](https://devcycle.com/company/careers)
+- [FBI access levels to different messengers](https://propertyofthepeople.org/document-detail/)
+- [DESQview/X: The forgotten mid-1990s OS from the future](https://lunduke.substack.com/p/desqviewx-the-forgotten-mid-1990s)
+- [The US C-Band Spectrum Saga, Explained](https://payloadspace.com/the-us-c-band-spectrum-saga-explained/)
+- [Scaling Kafka at Honeycomb](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines/)
+- [AWS Nitro SSD – High Performance Storage for Your I/O-Intensive Applications](https://aws.amazon.com/blogs/aws/aws-nitro-ssd-high-performance-storage-for-your-i-o-intensive-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
