@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Event Sourcing Is Hard](https://chriskiehl.com/article/event-sourcing-is-hard)
-- [Managing Risks in Research](https://alastairreid.github.io/research-risks/)
-- [Release Candidate of PeerTube V4 is out](https://framablog.org/2021/11/30/peertube-v4-more-power-to-help-you-present-your-videos/)
-- [Disney Combines CGI with Neural Rendering to Tackle the ‘Uncanny Valley’](https://www.unite.ai/disney-combines-cgi-with-neural-rendering-to-tackle-the-uncanny-valley/)
-- [Xenobots: replicating living robots made from frog cells](https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce)
+- [Hubris – An OS from Oxide Computer](https://hubris.oxide.computer/)
+- [Haiku Now Has Experimental 3D Acceleration](https://discuss.haiku-os.org/t/vulkan-lavapipe-software-rendering-is-working-on-haiku/11363?page=13)
+- [Sorry, but you&#39;re already living in the “Squid Game”](https://www.welcometothejungle.com/en/articles/why-squid-games-is-not-just-dystopian-fiction)
+- [Why Decentralization Matters](https://cdixon.org/2018/02/18/why-decentralization-matters/)
+- [Event Sourcing Is Hard &lpar;2019&rpar;](https://chriskiehl.com/article/event-sourcing-is-hard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
