@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Unknown Story of Phil Zimmermann](https://www.michaelrinderle.com/2020/05/27/the-unknown-story-of-phil-zimmermann/)
+- [K|Lens – The third dimension in image acquisition](https://www.k-lens-one.com/en/home)
 - [The Prince symbol has been salvaged from a 1993 floppy disk](https://cdm.link/2021/11/the-prince-symbol-has-been-salvaged-from-a-1992-floppy-disk/)
 - [Ask HN: Has Google search become quantitatively worse?](https://news.ycombinator.com/item?id=29392702)
 - [Raspberry Pi Trading plans £370m+ stock market IPO](https://www.club386.com/raspberry-pi-trading-plans-370m-stock-market-ipo/)
-- [Launch HN: Kitchenful &lpar;YC S21&rpar; – Weekly recipes with integrated shopping](https://news.ycombinator.com/item?id=29392454)
-- [Reading NFS at 25GB/s using FIO and libnfs](https://taras.glek.net/post/nfs-for-fio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
