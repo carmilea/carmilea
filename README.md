@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UI/UX Designer at Nimble &lpar;YC S17&rpar; – P/T with F/T option](https://news.ycombinator.com/item?id=29397383)
+- [Proposed Bill to Outlaw Bots from Scalping Online Goods [pdf]](https://tonko.house.gov/uploadedfiles/grinch_bots_fact_sheet.pdf)
+- [An Illustrated Guide to Elliptic Curve Cryptography Validation](https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/)
+- [Moving Castles: Modular and Portable Multiplayer Miniverses](https://trust.support/feed/moving-castles)
 - [FBI access levels to different messengers](https://propertyofthepeople.org/document-detail/)
-- [DESQview/X: The forgotten mid-1990s OS from the future](https://lunduke.substack.com/p/desqviewx-the-forgotten-mid-1990s)
-- [The US C-Band Spectrum Saga, Explained](https://payloadspace.com/the-us-c-band-spectrum-saga-explained/)
-- [Scaling Kafka at Honeycomb](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines/)
-- [AWS Nitro SSD – High Performance Storage for Your I/O-Intensive Applications](https://aws.amazon.com/blogs/aws/aws-nitro-ssd-high-performance-storage-for-your-i-o-intensive-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
