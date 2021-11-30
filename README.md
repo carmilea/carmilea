@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Back End Developers on Hackathons Are Not Needed](https://sergeykibish.com/blog/backend-developers-on-hackathons-are-not-needed/)
+- [AWS Redshift Serverless](https://aws.amazon.com/blogs/aws/introducing-amazon-redshift-serverless-run-analytics-at-any-scale-without-having-to-manage-infrastructure/)
 - [AWS Private 5g - 5G As a Service](https://aws.amazon.com/private5g/)
 - [AWS Graviton 3 Instances](https://aws.amazon.com/blogs/aws/join-the-preview-amazon-ec2-c7g-instances-powered-by-new-aws-graviton3-processors/)
 - [DevCycle.com &lpar;YC W14&rpar;, Feature Management Made Simple, is hiring full-stack devs](https://devcycle.com/company/careers)
-- [Lazygit: A simple terminal UI for Git commands](https://github.com/jesseduffield/lazygit)
-- [US labor board official orders Amazon to redo union vote at Alabama warehouse](https://www.reuters.com/business/amazon-alabama-facility-ordered-re-run-union-election-us-labor-board-2021-11-29/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
