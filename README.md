@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Searchable flight logs from Jeffrey Epstein’s plane](https://epstein.flights/)
+- [Cancer therapy from Princeton holds potential to switch off major cancer types](https://www.princeton.edu/news/2021/11/29/new-cancer-therapy-yibin-kangs-lab-holds-potential-switch-major-cancer-types)
 - [UI/UX Designer at Nimble &lpar;YC S17&rpar; – P/T with F/T option](https://news.ycombinator.com/item?id=29397383)
 - [An Illustrated Guide to Elliptic Curve Cryptography Validation](https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/)
-- [Moving Castles: Modular and Portable Multiplayer Miniverses](https://trust.support/feed/moving-castles)
-- [FBI&#39;s ability to legally access secure messaging app content and metadata [pdf]](https://propertyofthepeople.org/document-detail/?doc-id=21114562)
-- [DESQview/X: Forgotten mid-1990s OS from the future](https://lunduke.substack.com/p/desqviewx-the-forgotten-mid-1990s)
+- [AWS Outposts](https://aws.amazon.com/blogs/aws/new-aws-outposts-servers-in-two-form-factors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
