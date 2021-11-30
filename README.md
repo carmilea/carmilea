@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Curri &lpar;YC S19&rpar; is hiring Senior Engineers to help reimagine construction delivery](https://www.ycombinator.com/companies/curri/jobs/LmFeCm9-senior-engineer)
+- [Show HN: Improve your Python regex skills with 75 interactive exercises](https://github.com/learnbyexample/py_regular_expressions/tree/master/interactive_exercises)
 - [Hubris – An OS from Oxide Computer](https://hubris.oxide.computer/)
 - [Haiku Now Has Experimental 3D Acceleration](https://discuss.haiku-os.org/t/vulkan-lavapipe-software-rendering-is-working-on-haiku/11363?page=13)
 - [Why Decentralization Matters](https://cdixon.org/2018/02/18/why-decentralization-matters/)
-- [Event Sourcing Is Hard &lpar;2019&rpar;](https://chriskiehl.com/article/event-sourcing-is-hard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
