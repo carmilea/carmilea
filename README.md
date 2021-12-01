@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram Is Facebook Now](https://embedded.substack.com/p/instagram-is-facebook-now)
+- [My worst tech interview experience](https://www.jessesquires.com/blog/2021/12/01/my-worst-tech-interview-experience/)
 - [Block &lpar;aka Square, Tidal, CashApp etc&rpar;](https://block.xyz/)
 - [Recurrency &lpar;YC S20&rpar; is hiring senior engineers to fix supply chain software](https://news.ycombinator.com/item?id=29409079)
 - [ImageMagick: CLI for Image Editing](https://imagemagick.org/script/index.php)
-- [Supersonic Trebuchet](https://hackaday.com/2021/12/01/supersonic-projectile-exceeds-engineers-dreams-the-supersonic-trebuchet/)
-- [Scamp CPU: A homebrew 16-bit CPU with a homebrew Unix-like-ish operating system](https://github.com/jes/scamp-cpu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
