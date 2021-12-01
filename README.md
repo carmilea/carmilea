@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Searchable flight logs from Jeffrey Epstein’s plane](https://epstein.flights/)
-- [Cancer therapy from Princeton holds potential to switch off major cancer types](https://www.princeton.edu/news/2021/11/29/new-cancer-therapy-yibin-kangs-lab-holds-potential-switch-major-cancer-types)
+- [Synthetic tissue can repair hearts, muscles, and vocal cords](https://www.mcgill.ca/newsroom/channels/news/synthetic-tissue-can-repair-hearts-muscles-and-vocal-cords-335206)
+- [The American Prison System’s War on Reading](https://proteanmag.com/2021/11/29/the-american-prison-systems-war-on-reading/)
+- [German Court Rules Against Internet Security Non-Profit Quad9](https://www.quad9.net/news/press/german-court-rules-against/)
+- [New cancer therapy holds potential to switch off major cancer types](https://www.princeton.edu/news/2021/11/29/new-cancer-therapy-yibin-kangs-lab-holds-potential-switch-major-cancer-types)
 - [UI/UX Designer at Nimble &lpar;YC S17&rpar; – P/T with F/T option](https://news.ycombinator.com/item?id=29397383)
-- [An Illustrated Guide to Elliptic Curve Cryptography Validation](https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/)
-- [AWS Outposts](https://aws.amazon.com/blogs/aws/new-aws-outposts-servers-in-two-form-factors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
