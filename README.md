@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [This shouldn&#39;t have happened: A vulnerability postmortem](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
+- [Post Infocom: Boffo Games](https://www.filfre.net/2021/11/boffo-games/)
+- [Ask HN: Definitive source for real estate statistics?](https://news.ycombinator.com/item?id=29407184)
 - [Show HN: Neko – Self hosted virtual browser that runs in Docker and uses WebRTC](https://github.com/m1k1o/neko)
 - [Centaur Labs &lpar;YC W19&rpar; Is Hiring an Infrastructure Tech Lead &lpar;Boston or Remote&rpar;](https://www.centaurlabs.com/open-positions?gh_jid=4150258004)
-- [Uno Platform 4](https://platform.uno/blog/announcing-uno-platform-4-0-four-major-components-added/)
-- [Amateur Archaeologist in Switzerland Unearths 2k-Year-Old Roman Dagger](https://www.smithsonianmag.com/smart-news/discovery-of-roman-dagger-leads-to-hundreds-more-artifacts-in-switzerland-180979122/)
-- [Turing Pi 2: 4 Raspberry Pi nodes on a mini ITX board](https://www.jeffgeerling.com/blog/2021/turing-pi-2-4-raspberry-pi-nodes-on-mini-itx-board)
 <!-- BLOG-POST-LIST:END -->
 
 ---
