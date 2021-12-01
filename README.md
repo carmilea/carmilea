@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [1700 1-sheet workouts on a clean, no-nonsense website](https://darebee.com/workouts.html)
 - [Pachyderm Is Hiring Go Engineers to Build the Data Management Platform for ML](https://www.pachyderm.com/careers/#positions)
-- [Wikipedia is loaded, so why’s it asking for donations?](https://thenextweb.com/news/why-is-wikipedia-asking-for-donations-when-it-has-vast-cash-reserves)
 - [Supabase open sourced their dashboard](https://github.com/supabase/supabase/tree/master/studio)
 - [HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing](https://yuval-alaluf.github.io/hyperstyle/)
 - [Fisher Price Chatter Telephone with Bluetooth](https://www.fisher-price.com/en-us/product/chatter-telephone-hgj69)
