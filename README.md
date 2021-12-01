@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Courts block Covid vaccine mandates for healthcare workers nationwide](https://www.reuters.com/legal/government/us-judge-blocks-vaccine-mandate-contractors-three-states-2021-11-30/)
-- [WebGPU computations performance in comparison to WebGL](https://pixelscommander.com/javascript/webgpu-computations-performance-in-comparison-to-webgl/)
-- [Study links high cholesterol, cardiovascular disease to plastics](https://news.ucr.edu/articles/2021/11/30/study-links-high-cholesterol-cardiovascular-disease-plastics)
-- [BetrFS, file system that uses Bε trees](https://www.betrfs.org/)
-- [Doctor Web discovered vulnerabilities in children’s smart watches](https://news.drweb.com/show/?i=14350)
+- [They Died from Covid. Then the Online Attacks Started](https://www.nytimes.com/2021/11/27/style/anti-vaccine-deaths-social-media.html)
+- [Stripe applicants say that the company is rescinding offers after it makes them](https://www.protocol.com/workplace/stripe-hiring-issues-rescinded-jobs)
+- [Ask HN: What are these low quality “Code Snippet” sites?](https://news.ycombinator.com/item?id=29403947)
+- [Price increase on .io domains on January 1, 2022 &lpar;Renewal: $55.00&rpar;](https://www.gandi.net/en-US/domain/tld/io)
+- [SQLite in a PWA &lpar;Anita&rpar; with FileSystemAccessAPI](https://anita-app.com/blog/articles/sqlite-in-a-pwa-with-file-system-access-api.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
