@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Father-son duo helped techies ‘hack exams’, earn top scores for big payday](https://theprint.in/india/how-father-son-duo-helped-techies-hack-exams-earn-top-scores-for-big-payday/774001/)
 - [Lessons from Seven Years of Remote Work](https://tylercipriani.com/blog/2021/12/01/lessons-from-seven-years-of-remote-work/)
 - [Questioning the Already Questionable State of Global Demand](https://alhambrapartners.com/2021/11/30/questioning-the-already-questionable-state-of-global-demand/)
 - [Excel-Virtual-Machine: C Compiler which targets Excel](https://github.com/mrthefakeperson/Excel-Virtual-Machine)
 - [Julia 1.7 Highlights](https://julialang.org/blog/2021/11/julia-1.7-highlights/)
-- [Researchers shrink camera to the size of a salt grain](https://engineering.princeton.edu/news/2021/11/29/researchers-shrink-camera-size-salt-grain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
