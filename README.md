@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can you safely parse a double when you need a float?](https://lemire.me/blog/2021/11/30/can-you-safely-parse-a-double-and-then-cast-to-a-float/)
 - [Supabase open sourced their dashboard](https://github.com/supabase/supabase/tree/master/studio)
 - [HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing](https://yuval-alaluf.github.io/hyperstyle/)
 - [Fisher Price Chatter Telephone with Bluetooth](https://www.fisher-price.com/en-us/product/chatter-telephone-hgj69)
-- [The one-more-re-nightmare compiler – A fast regex compiler in Common Lisp](https://applied-langua.ge/posts/omrn-compiler.html)
-- [Father-son duo helped techies ‘hack exams’, earn top scores for big payday](https://theprint.in/india/how-father-son-duo-helped-techies-hack-exams-earn-top-scores-for-big-payday/774001/)
+- [Right-clickers vs. the monkey JPG owners](https://www.garbageday.email/p/right-clickers-vs-the-monkey-jpg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
