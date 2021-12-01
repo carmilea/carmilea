@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Synthetic tissue can repair hearts, muscles, and vocal cords](https://www.mcgill.ca/newsroom/channels/news/synthetic-tissue-can-repair-hearts-muscles-and-vocal-cords-335206)
-- [The American Prison System’s War on Reading](https://proteanmag.com/2021/11/29/the-american-prison-systems-war-on-reading/)
-- [German Court Rules Against Internet Security Non-Profit Quad9](https://www.quad9.net/news/press/german-court-rules-against/)
-- [New cancer therapy holds potential to switch off major cancer types](https://www.princeton.edu/news/2021/11/29/new-cancer-therapy-yibin-kangs-lab-holds-potential-switch-major-cancer-types)
-- [UI/UX Designer at Nimble &lpar;YC S17&rpar; – P/T with F/T option](https://news.ycombinator.com/item?id=29397383)
+- [C Compiler Which Targets Excel &lpar;MS Office&rpar;](https://github.com/mrthefakeperson/Excel-Virtual-Machine)
+- [Julia 1.7 has been released](https://julialang.org/blog/2021/11/julia-1.7-highlights/)
+- [Researchers shrink camera to the size of a salt grain](https://engineering.princeton.edu/news/2021/11/29/researchers-shrink-camera-size-salt-grain)
+- [Alien hunters have spent 60 years finding new solutions for the Drake Equation](https://www.nationalgeographic.com/science/article/why-alien-hunters-have-spent-60-years-finding-new-solutions-for-the-drake-equation)
+- [Microcode Research Team](https://github.com/chip-red-pill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
