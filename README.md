@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fisher Price Chatter Telephone with Bluetooth](https://www.fisher-price.com/en-us/product/chatter-telephone-hgj69)
+- [Advent of Code 2021](https://adventofcode.com/2021/day/1)
+- [Which brand/fuel/color/plate of car has the most “psychopath drivers”?](https://www.scrapcarcomparison.co.uk/blog/which-drivers-are-most-likely-to-be-psychopaths/)
 - [Father-son duo helped techies ‘hack exams’, earn top scores for big payday](https://theprint.in/india/how-father-son-duo-helped-techies-hack-exams-earn-top-scores-for-big-payday/774001/)
-- [Lessons from Seven Years of Remote Work](https://tylercipriani.com/blog/2021/12/01/lessons-from-seven-years-of-remote-work/)
-- [Questioning the Already Questionable State of Global Demand](https://alhambrapartners.com/2021/11/30/questioning-the-already-questionable-state-of-global-demand/)
-- [Excel-Virtual-Machine: C Compiler which targets Excel](https://github.com/mrthefakeperson/Excel-Virtual-Machine)
-- [Julia 1.7 Highlights](https://julialang.org/blog/2021/11/julia-1.7-highlights/)
+- [Lazydocker: The lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
