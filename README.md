@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Websites Small](https://santurcesoftware.com/making-web-sites-small)
-- [Ask HN: Who is hiring? &lpar;December 2021&rpar;](https://news.ycombinator.com/item?id=29405056)
-- [Ask HN: Who wants to be hired? &lpar;December 2021&rpar;](https://news.ycombinator.com/item?id=29405054)
-- [Pixel sent to Google for replacement. They used it to post wife&#39;s nudes online](https://old.reddit.com/r/legaladvice/comments/r632w5/sent_my_phone_to_google_for_replacement_they/)
-- [Townscaper Running in the Browser](http://oskarstalberg.com/Townscaper/)
+- [Show HN: Neko – Self hosted virtual browser that runs in Docker and uses WebRTC](https://github.com/m1k1o/neko)
+- [Centaur Labs &lpar;YC W19&rpar; Is Hiring an Infrastructure Tech Lead &lpar;Boston or Remote&rpar;](https://www.centaurlabs.com/open-positions?gh_jid=4150258004)
+- [Uno Platform 4](https://platform.uno/blog/announcing-uno-platform-4-0-four-major-components-added/)
+- [Amateur Archaeologist in Switzerland Unearths 2k-Year-Old Roman Dagger](https://www.smithsonianmag.com/smart-news/discovery-of-roman-dagger-leads-to-hundreds-more-artifacts-in-switzerland-180979122/)
+- [Turing Pi 2: 4 Raspberry Pi nodes on a mini ITX board](https://www.jeffgeerling.com/blog/2021/turing-pi-2-4-raspberry-pi-nodes-on-mini-itx-board)
 <!-- BLOG-POST-LIST:END -->
 
 ---
