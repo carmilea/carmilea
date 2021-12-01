@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabase open sourced their dashboard](https://github.com/supabase/supabase/tree/master/studio)
+- [HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing](https://yuval-alaluf.github.io/hyperstyle/)
 - [Fisher Price Chatter Telephone with Bluetooth](https://www.fisher-price.com/en-us/product/chatter-telephone-hgj69)
-- [Advent of Code 2021](https://adventofcode.com/2021/day/1)
-- [Which brand/fuel/color/plate of car has the most “psychopath drivers”?](https://www.scrapcarcomparison.co.uk/blog/which-drivers-are-most-likely-to-be-psychopaths/)
+- [The one-more-re-nightmare compiler – A fast regex compiler in Common Lisp](https://applied-langua.ge/posts/omrn-compiler.html)
 - [Father-son duo helped techies ‘hack exams’, earn top scores for big payday](https://theprint.in/india/how-father-son-duo-helped-techies-hack-exams-earn-top-scores-for-big-payday/774001/)
-- [Lazydocker: The lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
