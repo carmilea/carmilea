@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ImageMagick: CLI for Image Editing](https://imagemagick.org/script/index.php)
+- [Supersonic Projectile Exceeds Engineers Dreams: The Supersonic Trebuchet](https://hackaday.com/2021/12/01/supersonic-projectile-exceeds-engineers-dreams-the-supersonic-trebuchet/)
+- [A homebrew 16-bit CPU with a homebrew Unix-like-ish operating system](https://github.com/jes/scamp-cpu)
+- [Moth Minds: Fund individuals doing work you believe in](https://www.mothminds.com)
 - [This shouldn&#39;t have happened: A vulnerability postmortem](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
-- [Post Infocom: Boffo Games](https://www.filfre.net/2021/11/boffo-games/)
-- [Ask HN: Definitive source for real estate statistics?](https://news.ycombinator.com/item?id=29407184)
-- [Show HN: Neko – Self hosted virtual browser that runs in Docker and uses WebRTC](https://github.com/m1k1o/neko)
-- [Centaur Labs &lpar;YC W19&rpar; Is Hiring an Infrastructure Tech Lead &lpar;Boston or Remote&rpar;](https://www.centaurlabs.com/open-positions?gh_jid=4150258004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
