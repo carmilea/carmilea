@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Block &lpar;aka Square, Tidal, CashApp etc&rpar;](https://block.xyz/)
 - [Recurrency &lpar;YC S20&rpar; is hiring senior engineers to fix supply chain software](https://news.ycombinator.com/item?id=29409079)
-- [Become a Signal Sustainer](https://signal.org/blog/become-a-signal-sustainer/)
 - [ImageMagick: CLI for Image Editing](https://imagemagick.org/script/index.php)
-- [Supersonic Projectile Exceeds Engineers Dreams: The Supersonic Trebuchet](https://hackaday.com/2021/12/01/supersonic-projectile-exceeds-engineers-dreams-the-supersonic-trebuchet/)
-- [A homebrew 16-bit CPU with a homebrew Unix-like-ish operating system](https://github.com/jes/scamp-cpu)
+- [Supersonic Trebuchet](https://hackaday.com/2021/12/01/supersonic-projectile-exceeds-engineers-dreams-the-supersonic-trebuchet/)
+- [Scamp CPU: A homebrew 16-bit CPU with a homebrew Unix-like-ish operating system](https://github.com/jes/scamp-cpu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
