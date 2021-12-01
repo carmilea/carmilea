@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [C Compiler Which Targets Excel &lpar;MS Office&rpar;](https://github.com/mrthefakeperson/Excel-Virtual-Machine)
-- [Julia 1.7 has been released](https://julialang.org/blog/2021/11/julia-1.7-highlights/)
+- [Two Triple Vaccinated Israeli Doctors Infected with Omicron](https://www.reuters.com/business/healthcare-pharmaceuticals/two-israeli-doctors-infected-with-omicron-hospital-says-2021-11-30/)
+- [Excel-Virtual-Machine: C Compiler which targets Excel](https://github.com/mrthefakeperson/Excel-Virtual-Machine)
+- [Julia 1.7 Highlights](https://julialang.org/blog/2021/11/julia-1.7-highlights/)
 - [Researchers shrink camera to the size of a salt grain](https://engineering.princeton.edu/news/2021/11/29/researchers-shrink-camera-size-salt-grain)
 - [Alien hunters have spent 60 years finding new solutions for the Drake Equation](https://www.nationalgeographic.com/science/article/why-alien-hunters-have-spent-60-years-finding-new-solutions-for-the-drake-equation)
-- [Microcode Research Team](https://github.com/chip-red-pill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
