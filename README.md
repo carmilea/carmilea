@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [1700 1-sheet workouts on a clean, no-nonsense website](https://darebee.com/workouts.html)
-- [Pachyderm Is Hiring Go Engineers to Build the Data Management Platform for ML](https://www.pachyderm.com/careers/#positions)
-- [Supabase open sourced their dashboard](https://github.com/supabase/supabase/tree/master/studio)
-- [HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing](https://yuval-alaluf.github.io/hyperstyle/)
-- [Fisher Price Chatter Telephone with Bluetooth](https://www.fisher-price.com/en-us/product/chatter-telephone-hgj69)
+- [Courts block Covid vaccine mandates for healthcare workers nationwide](https://www.reuters.com/legal/government/us-judge-blocks-vaccine-mandate-contractors-three-states-2021-11-30/)
+- [WebGPU computations performance in comparison to WebGL](https://pixelscommander.com/javascript/webgpu-computations-performance-in-comparison-to-webgl/)
+- [Study links high cholesterol, cardiovascular disease to plastics](https://news.ucr.edu/articles/2021/11/30/study-links-high-cholesterol-cardiovascular-disease-plastics)
+- [BetrFS, file system that uses Bε trees](https://www.betrfs.org/)
+- [Doctor Web discovered vulnerabilities in children’s smart watches](https://news.drweb.com/show/?i=14350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
