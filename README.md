@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [They Died from Covid. Then the Online Attacks Started](https://www.nytimes.com/2021/11/27/style/anti-vaccine-deaths-social-media.html)
-- [Stripe applicants say that the company is rescinding offers after it makes them](https://www.protocol.com/workplace/stripe-hiring-issues-rescinded-jobs)
-- [Ask HN: What are these low quality “Code Snippet” sites?](https://news.ycombinator.com/item?id=29403947)
-- [Price increase on .io domains on January 1, 2022 &lpar;Renewal: $55.00&rpar;](https://www.gandi.net/en-US/domain/tld/io)
-- [SQLite in a PWA &lpar;Anita&rpar; with FileSystemAccessAPI](https://anita-app.com/blog/articles/sqlite-in-a-pwa-with-file-system-access-api.html)
+- [Making Websites Small](https://santurcesoftware.com/making-web-sites-small)
+- [Ask HN: Who is hiring? &lpar;December 2021&rpar;](https://news.ycombinator.com/item?id=29405056)
+- [Ask HN: Who wants to be hired? &lpar;December 2021&rpar;](https://news.ycombinator.com/item?id=29405054)
+- [Pixel sent to Google for replacement. They used it to post wife&#39;s nudes online](https://old.reddit.com/r/legaladvice/comments/r632w5/sent_my_phone_to_google_for_replacement_they/)
+- [Townscaper Running in the Browser](http://oskarstalberg.com/Townscaper/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
