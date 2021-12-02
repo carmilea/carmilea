@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [What Will Enter the Public Domain in 2022?](https://publicdomainreview.org/features/entering-the-public-domain/2022/)
 - [“RISC V is a terrible architecture”](https://gmplib.org/list-archives/gmp-devel/2021-September/006013.html)
-- [The Young H.G. Wells](https://literaryreview.co.uk/visionary-of-bromley)
+- [Scraper for Y Combinator Directory](https://github.com/akshaybhalotia/yc_company_scraper)
 - [An Inconsistent Truth: Next.js and Typesafety](https://t3.gg/blog/posts/types-and-nextjs)
 - [Release of AWS CDKv2 and Construct Hub](https://aws.amazon.com/blogs/aws/announcing-general-availability-of-construct-hub-and-aws-cloud-development-kit-version-2/)
 <!-- BLOG-POST-LIST:END -->
