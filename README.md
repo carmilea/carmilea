@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving Advent of Code Puzzles with GitHub Copilot: Day 1](https://freddiev4.xyz/solving-advent-of-code-puzzles-with-github-copilot/)
+- [Facebook reverses Kyle Rittenhouse policy](https://www.bbc.com/news/technology-59486397)
+- [NIST is broadcasting a test signal on minute 8 of the hour on WWV and 48 on WWVH](https://wwvarc.org/wwvmodannouncement)
 - [Firefox&#39;s Optimized Zip Format: Reading Zip Files Quickly](https://taras.glek.net/post/optimized-zip-format/)
 - [Instagram Is Facebook Now](https://embedded.substack.com/p/instagram-is-facebook-now)
-- [My worst tech interview experience](https://www.jessesquires.com/blog/2021/12/01/my-worst-tech-interview-experience/)
-- [Block &lpar;aka Square, Tidal, CashApp etc&rpar;](https://block.xyz/)
-- [Recurrency &lpar;YC S20&rpar; is hiring senior engineers to fix supply chain software](https://news.ycombinator.com/item?id=29409079)
 <!-- BLOG-POST-LIST:END -->
 
 ---
