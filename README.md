@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter photo-removal policy aimed at improving privacy goes into effect](https://text.npr.org/1060600043)
+- [Show HN: KatLang – Language for Calculations](http://katlang.org/)
 - [Missouri found mask mandates work, but didn’t make findings public](https://news.stlpublicradio.org/coronavirus/2021-12-01/missouri-health-department-found-mask-mandates-work-but-didnt-make-findings-public)
 - [Testing Phone-Sized Faraday Bags](https://www.mattblaze.org/blog/faraday/)
 - [The Fastest FizzBuzz Implementation](https://tech.marksblogg.com/fastest-fizz-buzz.html)
-- [Google voluntarily de-lists The Pirate Bay](https://torrentfreak.com/google-removes-pirate-bay-domains-from-search-results-citing-dutch-court-order-211130/)
-- [Tvix: We Are Rewriting Nix](https://tvl.fyi/blog/rewriting-nix)
 <!-- BLOG-POST-LIST:END -->
 
 ---
