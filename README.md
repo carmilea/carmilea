@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [50 years of eBooks: 1971-2021](https://www.gutenberg.org/about/background/50years.html)
+- [Omicron Update, Dec 2](https://yourlocalepidemiologist.substack.com/p/omicron-update-dec-2)
 - [CoinTracker &lpar;YC W18&rpar; is hiring a Growth Engineer to help people build wealth](https://jobs.ashbyhq.com/cointracker/200dde3e-e295-40ab-a17f-4c2b636fb217)
+- [Microsoft’s new Windows prompts try to stop people downloading Chrome](https://www.theverge.com/2021/12/2/22813733/microsoft-windows-edge-download-chrome-prompts)
 - [Disclosing state-linked information operations we&#39;ve removed](https://blog.twitter.com/en_us/topics/company/2021/disclosing-state-linked-information-operations-we-ve-removed)
-- [Ask HN: How do you build your personal start page?](https://news.ycombinator.com/item?id=29414763)
-- [DeFi protocol BadgerDAO exploited for $120M in front-end attack](https://www.theblockcrypto.com/post/126072/defi-protocol-badgerdao-exploited-for-120-million-in-front-end-attack)
-- [Twitter photo-removal policy aimed at improving privacy goes into effect](https://text.npr.org/1060600043)
 <!-- BLOG-POST-LIST:END -->
 
 ---
