@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Will Enter the Public Domain in 2022?](https://publicdomainreview.org/features/entering-the-public-domain/2022/)
+- [“RISC V is a terrible architecture”](https://gmplib.org/list-archives/gmp-devel/2021-September/006013.html)
+- [The Young H.G. Wells](https://literaryreview.co.uk/visionary-of-bromley)
+- [An Inconsistent Truth: Next.js and Typesafety](https://t3.gg/blog/posts/types-and-nextjs)
 - [Release of AWS CDKv2 and Construct Hub](https://aws.amazon.com/blogs/aws/announcing-general-availability-of-construct-hub-and-aws-cloud-development-kit-version-2/)
-- [Some experts suggest Omicron variant may have evolved in an animal host](https://www.statnews.com/2021/12/02/some-experts-suggest-omicron-variant-may-have-evolved-in-an-animal-host/)
-- [Understanding Zero-knowledge proofs through illustrated examples](https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99?gi=d8d16717c242)
-- [Omicron Time](https://www.science.org/content/blog-post/omicron-time)
-- [Ashby &lpar;YC W19&rpar; engineers do product and design, join us](https://jobs.ashbyhq.com/ashby)
 <!-- BLOG-POST-LIST:END -->
 
 ---
