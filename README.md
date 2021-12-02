@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Release of AWS CDKv2 and Construct Hub](https://aws.amazon.com/blogs/aws/announcing-general-availability-of-construct-hub-and-aws-cloud-development-kit-version-2/)
+- [Some experts suggest Omicron variant may have evolved in an animal host](https://www.statnews.com/2021/12/02/some-experts-suggest-omicron-variant-may-have-evolved-in-an-animal-host/)
+- [Understanding Zero-knowledge proofs through illustrated examples](https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99?gi=d8d16717c242)
+- [Omicron Time](https://www.science.org/content/blog-post/omicron-time)
 - [Ashby &lpar;YC W19&rpar; engineers do product and design, join us](https://jobs.ashbyhq.com/ashby)
-- [Show HN: Federalist, an un-censorable browser for the swarm](https://github.com/publiusfederalist)
-- [Amazon EC2 M1 Mac Instances](https://aws.amazon.com/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/)
-- [Facing housing crisis, L.A. voters back duplexes in single-family neighborhoods](https://www.latimes.com/homeless-housing/story/2021-12-02/facing-housing-crisis-l-a-voters-back-duplexes-in-single-family-neighborhoods)
-- [New SiFive RISC-V core P650 with 40% IPC increase](https://www.sifive.com/press/sifive-raises-risc-v-performance-bar-with-new-best-in-class)
 <!-- BLOG-POST-LIST:END -->
 
 ---
