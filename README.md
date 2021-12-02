@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hamilton: A Microframework for Dataframe Generation](https://multithreaded.stitchfix.com/blog/2021/10/14/functions-dags-hamilton/)
-- [Why It’s So Difficult – and Costly – To Secure Chips](https://semiengineering.com/why-its-so-difficult-and-costly-to-secure-chips/)
-- [Ideal Monitor Rotation for Programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
-- [Here&#39;s Why Movie Dialogue Has Gotten More Difficult to Understand](https://www.slashfilm.com/673162/heres-why-movie-dialogue-has-gotten-more-difficult-to-understand-and-three-ways-to-fix-it/)
-- [Vivaldi Browser 5.0](https://vivaldi.com/changelog-vivaldi-browser-5-0/)
+- [Ashby &lpar;YC W19&rpar; engineers do product and design, join us](https://jobs.ashbyhq.com/ashby)
+- [Show HN: Federalist, an un-censorable browser for the swarm](https://github.com/publiusfederalist)
+- [Amazon EC2 M1 Mac Instances](https://aws.amazon.com/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/)
+- [Facing housing crisis, L.A. voters back duplexes in single-family neighborhoods](https://www.latimes.com/homeless-housing/story/2021-12-02/facing-housing-crisis-l-a-voters-back-duplexes-in-single-family-neighborhoods)
+- [New SiFive RISC-V core P650 with 40% IPC increase](https://www.sifive.com/press/sifive-raises-risc-v-performance-bar-with-new-best-in-class)
 <!-- BLOG-POST-LIST:END -->
 
 ---
