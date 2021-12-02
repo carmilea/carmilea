@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Ubiquiti employee charged with stealing data and extorting company](https://www.justice.gov/usao-sdny/pr/former-employee-technology-company-charged-stealing-confidential-data-and-extorting)
 - [Solving Advent of Code Puzzles with GitHub Copilot: Day 1](https://freddiev4.xyz/solving-advent-of-code-puzzles-with-github-copilot/)
 - [Facebook reverses Kyle Rittenhouse policy](https://www.bbc.com/news/technology-59486397)
 - [NIST is broadcasting a test signal on minute 8 of the hour on WWV and 48 on WWVH](https://wwvarc.org/wwvmodannouncement)
-- [Firefox&#39;s Optimized Zip Format: Reading Zip Files Quickly](https://taras.glek.net/post/optimized-zip-format/)
-- [Instagram Is Facebook Now](https://embedded.substack.com/p/instagram-is-facebook-now)
+- [Firefox&#39;s Optimized Zip Format](https://taras.glek.net/post/optimized-zip-format/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
