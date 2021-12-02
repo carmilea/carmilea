@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fastest FizzBuzz Implementation](https://tech.marksblogg.com/fastest-fizz-buzz.html)
+- [Google voluntarily de-lists The Pirate Bay](https://torrentfreak.com/google-removes-pirate-bay-domains-from-search-results-citing-dutch-court-order-211130/)
 - [Catholic church&#39;s proposed redesign of Notre Dame interior provokes outrage](https://www.theartnewspaper.com/2021/12/01/interior-redesign-notre-dame-cathedral)
 - [Tvix: We Are Rewriting Nix](https://tvl.fyi/blog/rewriting-nix)
 - [Glitch effect on text in pure CSS](https://dustri.org/b/glitch-effect-on-text-in-pure-css.html)
-- [Miso &lpar;YC S16&rpar; Is Hiring in Seoul, Korea](https://www.workatastartup.com/companies/miso)
-- [What Makes SRGB a Special Color Space? – PhotoSauce Blog](https://photosauce.net/blog/post/what-makes-srgb-a-special-color-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
