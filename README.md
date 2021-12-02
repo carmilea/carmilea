@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Catholic church&#39;s proposed redesign of Notre Dame interior provokes outrage](https://www.theartnewspaper.com/2021/12/01/interior-redesign-notre-dame-cathedral)
 - [Tvix: We Are Rewriting Nix](https://tvl.fyi/blog/rewriting-nix)
-- [MacKenzie Scott is giving away more money, faster, than anyone has before](https://www.economist.com/united-states/mackenzie-scott-is-shaking-up-the-world-of-giving/21806331)
+- [Glitch effect on text in pure CSS](https://dustri.org/b/glitch-effect-on-text-in-pure-css.html)
 - [Miso &lpar;YC S16&rpar; Is Hiring in Seoul, Korea](https://www.workatastartup.com/companies/miso)
-- [What Is Hammock Driven Development?](https://stokoe.me/summary-hammock-driven-development/)
 - [What Makes SRGB a Special Color Space? – PhotoSauce Blog](https://photosauce.net/blog/post/what-makes-srgb-a-special-color-space)
 <!-- BLOG-POST-LIST:END -->
 
