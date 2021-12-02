@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Pandemic of the Vaccinated](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext?s=08#%20)
+- [Miso &lpar;YC S16&rpar; Is Hiring in Seoul, Korea](https://www.workatastartup.com/companies/miso)
+- [What Is Hammock Driven Development?](https://stokoe.me/summary-hammock-driven-development/)
 - [What Makes SRGB a Special Color Space? – PhotoSauce Blog](https://photosauce.net/blog/post/what-makes-srgb-a-special-color-space)
 - [Former Ubiquiti employee charged with stealing data and extorting company](https://www.justice.gov/usao-sdny/pr/former-employee-technology-company-charged-stealing-confidential-data-and-extorting)
-- [Solving Advent of Code Puzzles with GitHub Copilot: Day 1](https://freddiev4.xyz/solving-advent-of-code-puzzles-with-github-copilot/)
-- [The Impending Cloud Reshuffle](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html)
-- [NIST is broadcasting a test signal on minute 8 of the hour on WWV and 48 on WWVH](https://wwvarc.org/wwvmodannouncement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
