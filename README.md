@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Pandemic of the Vaccinated](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext?s=08#%20)
+- [Tvix: We Are Rewriting Nix](https://tvl.fyi/blog/rewriting-nix)
+- [MacKenzie Scott is giving away more money, faster, than anyone has before](https://www.economist.com/united-states/mackenzie-scott-is-shaking-up-the-world-of-giving/21806331)
 - [Miso &lpar;YC S16&rpar; Is Hiring in Seoul, Korea](https://www.workatastartup.com/companies/miso)
 - [What Is Hammock Driven Development?](https://stokoe.me/summary-hammock-driven-development/)
 - [What Makes SRGB a Special Color Space? – PhotoSauce Blog](https://photosauce.net/blog/post/what-makes-srgb-a-special-color-space)
-- [Former Ubiquiti employee charged with stealing data and extorting company](https://www.justice.gov/usao-sdny/pr/former-employee-technology-company-charged-stealing-confidential-data-and-extorting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
