@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CoinTracker &lpar;YC W18&rpar; is hiring a Growth Engineer to help people build wealth](https://jobs.ashbyhq.com/cointracker/200dde3e-e295-40ab-a17f-4c2b636fb217)
+- [Disclosing state-linked information operations we&#39;ve removed](https://blog.twitter.com/en_us/topics/company/2021/disclosing-state-linked-information-operations-we-ve-removed)
+- [Ask HN: How do you build your personal start page?](https://news.ycombinator.com/item?id=29414763)
+- [DeFi protocol BadgerDAO exploited for $120M in front-end attack](https://www.theblockcrypto.com/post/126072/defi-protocol-badgerdao-exploited-for-120-million-in-front-end-attack)
 - [Twitter photo-removal policy aimed at improving privacy goes into effect](https://text.npr.org/1060600043)
-- [Show HN: KatLang – Language for Calculations](http://katlang.org/)
-- [Missouri found mask mandates work, but didn’t make findings public](https://news.stlpublicradio.org/coronavirus/2021-12-01/missouri-health-department-found-mask-mandates-work-but-didnt-make-findings-public)
-- [Testing Phone-Sized Faraday Bags](https://www.mattblaze.org/blog/faraday/)
-- [The Fastest FizzBuzz Implementation](https://tech.marksblogg.com/fastest-fizz-buzz.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
