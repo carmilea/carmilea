@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Stipop &lpar;YC S21&rpar; – Improving user engagement with stickers](https://news.ycombinator.com/item?id=29416785)
+- [100 years of whatever this will be](https://apenwarr.ca/log/20211201)
+- [Show HN: Earthly v0.6](https://earthly.dev/blog/earthly-v0-6/)
 - [50 years of eBooks: 1971-2021](https://www.gutenberg.org/about/background/50years.html)
-- [Omicron Update, Dec 2](https://yourlocalepidemiologist.substack.com/p/omicron-update-dec-2)
 - [CoinTracker &lpar;YC W18&rpar; is hiring a Growth Engineer to help people build wealth](https://jobs.ashbyhq.com/cointracker/200dde3e-e295-40ab-a17f-4c2b636fb217)
-- [Microsoft’s new Windows prompts try to stop people downloading Chrome](https://www.theverge.com/2021/12/2/22813733/microsoft-windows-edge-download-chrome-prompts)
-- [Disclosing state-linked information operations we&#39;ve removed](https://blog.twitter.com/en_us/topics/company/2021/disclosing-state-linked-information-operations-we-ve-removed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
