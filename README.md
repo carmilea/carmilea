@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What Will Enter the Public Domain in 2022?](https://publicdomainreview.org/features/entering-the-public-domain/2022/)
-- [“RISC V is a terrible architecture”](https://gmplib.org/list-archives/gmp-devel/2021-September/006013.html)
-- [Scraper for Y Combinator Directory](https://github.com/akshaybhalotia/yc_company_scraper)
-- [An Inconsistent Truth: Next.js and Typesafety](https://t3.gg/blog/posts/types-and-nextjs)
-- [Release of AWS CDKv2 and Construct Hub](https://aws.amazon.com/blogs/aws/announcing-general-availability-of-construct-hub-and-aws-cloud-development-kit-version-2/)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [An eccentric monk’s singular scrap cathedral](https://hazlitt.net/longreads/sacrifice)
+- [FTC Sues to Block $40B Semiconductor Chip Merger](https://www.ftc.gov/news-events/press-releases/2021/12/ftc-sues-block-40-billion-semiconductor-chip-merger)
+- [US Should Create Strategy by End of &#39;22 to Reduce Increasing Ocean Plastic Waste](https://www.nationalacademies.org/news/2021/12/u-s-should-create-national-strategy-by-end-of-2022-to-reduce-its-increasing-contribution-to-global-ocean-plastic-waste-says-new-report)
+- [Tcl library for Go-style concurrency based on Communicating Sequential Processes](https://github.com/securitykiss-com/csp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
