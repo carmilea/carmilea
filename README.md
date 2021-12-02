@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What Makes SRGB a Special Color Space? – PhotoSauce Blog](https://photosauce.net/blog/post/what-makes-srgb-a-special-color-space)
 - [Former Ubiquiti employee charged with stealing data and extorting company](https://www.justice.gov/usao-sdny/pr/former-employee-technology-company-charged-stealing-confidential-data-and-extorting)
 - [Solving Advent of Code Puzzles with GitHub Copilot: Day 1](https://freddiev4.xyz/solving-advent-of-code-puzzles-with-github-copilot/)
-- [Facebook reverses Kyle Rittenhouse policy](https://www.bbc.com/news/technology-59486397)
+- [The Impending Cloud Reshuffle](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html)
 - [NIST is broadcasting a test signal on minute 8 of the hour on WWV and 48 on WWVH](https://wwvarc.org/wwvmodannouncement)
-- [Firefox&#39;s Optimized Zip Format](https://taras.glek.net/post/optimized-zip-format/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
