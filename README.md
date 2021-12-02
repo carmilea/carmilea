@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Missouri found mask mandates work, but didn’t make findings public](https://news.stlpublicradio.org/coronavirus/2021-12-01/missouri-health-department-found-mask-mandates-work-but-didnt-make-findings-public)
 - [The Fastest FizzBuzz Implementation](https://tech.marksblogg.com/fastest-fizz-buzz.html)
 - [Google voluntarily de-lists The Pirate Bay](https://torrentfreak.com/google-removes-pirate-bay-domains-from-search-results-citing-dutch-court-order-211130/)
-- [Catholic church&#39;s proposed redesign of Notre Dame interior provokes outrage](https://www.theartnewspaper.com/2021/12/01/interior-redesign-notre-dame-cathedral)
 - [Tvix: We Are Rewriting Nix](https://tvl.fyi/blog/rewriting-nix)
-- [Glitch effect on text in pure CSS](https://dustri.org/b/glitch-effect-on-text-in-pure-css.html)
+- [Steve Simon announces WTA’s decision to suspend tournaments in China](https://www.wtatennis.com/news/2384758/steve-simon-announces-wta-s-decision-to-suspend-tournaments-in-china)
 <!-- BLOG-POST-LIST:END -->
 
 ---
