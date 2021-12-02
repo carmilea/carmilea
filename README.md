@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Rewrote WinUI to WPF](https://github.com/lepoco/wpfui)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
 - [Microsoft Windows RCE Vulnerability Gives an Attacker Complete Control](https://www.synack.com/blog/this-microsoft-windows-rce-vulnerability-gives-an-attacker-complete-control/)
 - [An eccentric monk’s singular scrap cathedral](https://hazlitt.net/longreads/sacrifice)
 - [FTC Sues to Block $40B Semiconductor Chip Merger](https://www.ftc.gov/news-events/press-releases/2021/12/ftc-sues-block-40-billion-semiconductor-chip-merger)
-- [US Should Create Strategy by End of &#39;22 to Reduce Increasing Ocean Plastic Waste](https://www.nationalacademies.org/news/2021/12/u-s-should-create-national-strategy-by-end-of-2022-to-reduce-its-increasing-contribution-to-global-ocean-plastic-waste-says-new-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
