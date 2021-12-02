@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Stipop &lpar;YC S21&rpar; – Improving user engagement with stickers](https://news.ycombinator.com/item?id=29416785)
-- [100 years of whatever this will be](https://apenwarr.ca/log/20211201)
-- [Show HN: Earthly v0.6](https://earthly.dev/blog/earthly-v0-6/)
-- [50 years of eBooks: 1971-2021](https://www.gutenberg.org/about/background/50years.html)
-- [CoinTracker &lpar;YC W18&rpar; is hiring a Growth Engineer to help people build wealth](https://jobs.ashbyhq.com/cointracker/200dde3e-e295-40ab-a17f-4c2b636fb217)
+- [Hamilton: A Microframework for Dataframe Generation](https://multithreaded.stitchfix.com/blog/2021/10/14/functions-dags-hamilton/)
+- [Why It’s So Difficult – and Costly – To Secure Chips](https://semiengineering.com/why-its-so-difficult-and-costly-to-secure-chips/)
+- [Ideal Monitor Rotation for Programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
+- [Here&#39;s Why Movie Dialogue Has Gotten More Difficult to Understand](https://www.slashfilm.com/673162/heres-why-movie-dialogue-has-gotten-more-difficult-to-understand-and-three-ways-to-fix-it/)
+- [Vivaldi Browser 5.0](https://vivaldi.com/changelog-vivaldi-browser-5-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
