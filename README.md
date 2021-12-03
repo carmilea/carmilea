@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My Worry for America](https://www.thecipherbrief.com/column_article/my-worry-for-america)
-- [Pg_GraphQL: A GraphQL Extension for PostgreSQL](https://supabase.com/blog/2021/12/03/pg-graphql)
-- [Blender 3.0 binaries](https://download.blender.org/release/Blender3.0/)
-- [Show HN: A tool to build real websites built exclusively in SVG](https://svija.love)
-- [Reasons to read the original works of great thinkers](https://goodoptics.wordpress.com/2021/11/16/two-simple-reasons-to-study-the-history-of-ideas/)
+- [How to Lose Stars on GitHub?](https://www.qovery.com/blog/we-lost-3800-stars-on-github-in-1-click/)
+- [Engineers Look to Nature to Create Bird-Like Robot – Unite.ai](https://www.unite.ai/engineers-look-to-nature-to-create-bird-like-robot/)
+- [Launch HN: Demigod &lpar;YC S19&rpar; – Build compounding habits with a dedicated coach](https://news.ycombinator.com/item?id=29431044)
+- [Eliminating Database Sprawl, Part 1: How to Escape a Slow-moving Car Crash](https://www.singlestore.com/blog/eliminating-database-sprawl-part-1-how-to-escape-a-car-crash)
+- [Using Entropy to Identify Obfuscated Malicious Code](http://blog.phylum.io/detecting-obfuscated-malicious-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
