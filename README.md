@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Verizon voice mail getting hijacked to the same number for years](https://800notes.com/Phone.aspx/1-605-615-0720)
+- [Where is the CRDT for syntax trees](https://writer.zohopublic.com/writer/published/grcwy5c699d67b9c444219b60cdb90ccbabc7)
+- [William Cook has died](https://mjtsai.com/blog/2021/12/02/william-cook-rip/)
+- [Game “While true: learn&lpar;&rpar;” for free in Epic Store](https://www.epicgames.com/store/en-US/p/while-true-learn)
 - [See brands&#39; supply chain linkages that are contributing to Amazon deforestation](https://www.stand.earth/publication/forest-conservation/amazon-forest-protection/amazon-leather-supply-chain)
 - [Germany: New government plans &#39;right to encryption&#39;](https://tutanota.com/blog/posts/germany-right-to-encryption/)
-- [An alarming trend in K-12 math education: a guest post and an open letter](https://scottaaronson.blog/?p=6146)
-- [Scientists find a way to ‘catapult’ rockets into space like ‘slingshots’](https://theswaddle.com/scientists-find-a-way-to-catapult-rockets-into-space-like-slingshots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
