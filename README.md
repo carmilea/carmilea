@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Podcast: Google&#39;s &#39;DeepMind&#39; Does Mathematics](https://www.numberphile.com/videos/deep-mind-podcast)
+- [What Is Dbt and Why Are Companies Using It?](https://seattledataguy.substack.com/p/what-is-dbt-and-why-are-companies)
 - [I Rewrote WinUI to WPF](https://github.com/lepoco/wpfui)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
 - [Microsoft Windows RCE Vulnerability Gives an Attacker Complete Control](https://www.synack.com/blog/this-microsoft-windows-rce-vulnerability-gives-an-attacker-complete-control/)
-- [An eccentric monk’s singular scrap cathedral](https://hazlitt.net/longreads/sacrifice)
-- [FTC Sues to Block $40B Semiconductor Chip Merger](https://www.ftc.gov/news-events/press-releases/2021/12/ftc-sues-block-40-billion-semiconductor-chip-merger)
 <!-- BLOG-POST-LIST:END -->
 
 ---
