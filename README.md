@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows urges users to use Bing same way as urgent security warnings](https://twitter.com/GossiTheDog/status/1428457677261246465)
+- [The Jami Conferencing System](https://jami.net/the-jami-conferencing-system/)
 - [BOOX Mira Pro – 25.3″ E Ink Monitors](https://shop.boox.com/products/mira)
 - [The big idea around unikernels](https://changelog.com/posts/the-big-idea-around-unikernels)
 - [The Rise of the Decentralized Startup](https://elizabethyin.com/2021/09/19/the-rise-of-the-decentralized-startup/)
-- [Buried in Infrastructure Bill Is a Mandatory Backdoor Kill Switch for Your Car](https://hothardware.com/news/bidens-infrastructure-bill-mandatory-backdoor-car-kill-switch)
-- [Kholia/OS X-KVM: Run macOS on QEMU/KVM](https://github.com/kholia/OSX-KVM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
