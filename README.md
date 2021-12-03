@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bomb Squad called to Royal Hospital after man gets WWII mortar stuck up his bum](https://www.gloucestershirelive.co.uk/news/gloucester-news/bomb-squad-called-gloucestershire-royal-6298076)
+- [Keep a Knowledge Log](https://bruno-oliveira.github.io/techblog/Keep-a-log/)
 - [Rclone: Rsync for cloud storage – CLI to sync between cloud storage providers](https://github.com/rclone/rclone)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 - [Your eBay account has been suspended](https://news.ycombinator.com/item?id=29435091)
-- [Magnus Carlsen wins longest world chess championship game of all time](https://www.chess.com/news/view/fide-world-chess-championship-2021-game-6)
-- [Common Infrastructure Errors I&#39;ve Made](https://matduggan.com/mistakes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
