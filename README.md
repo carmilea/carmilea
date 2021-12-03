@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Podcast: Google&#39;s &#39;DeepMind&#39; Does Mathematics](https://www.numberphile.com/videos/deep-mind-podcast)
+- [Show HN: Emoji to Scale](https://javier.xyz/emoji-to-scale/)
+- [Can deep learning help mathematicians build intuition?](https://theconversation.com/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900)
 - [What Is Dbt and Why Are Companies Using It?](https://seattledataguy.substack.com/p/what-is-dbt-and-why-are-companies)
+- [Interview with Hansen Hsu, engineer at Apple during transition from OS 9 to OS X](https://corecursive.com/cocoa-culture-with-hansen-hsu/)
 - [I Rewrote WinUI to WPF](https://github.com/lepoco/wpfui)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
-- [Microsoft Windows RCE Vulnerability Gives an Attacker Complete Control](https://www.synack.com/blog/this-microsoft-windows-rce-vulnerability-gives-an-attacker-complete-control/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
