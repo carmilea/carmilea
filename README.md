@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Verizon voice mail getting hijacked to the same number for years](https://800notes.com/Phone.aspx/1-605-615-0720)
+- [See brands&#39; supply chain linkages that are contributing to Amazon deforestation](https://www.stand.earth/publication/forest-conservation/amazon-forest-protection/amazon-leather-supply-chain)
+- [Germany: New government plans &#39;right to encryption&#39;](https://tutanota.com/blog/posts/germany-right-to-encryption/)
 - [An alarming trend in K-12 math education: a guest post and an open letter](https://scottaaronson.blog/?p=6146)
 - [Scientists find a way to ‘catapult’ rockets into space like ‘slingshots’](https://theswaddle.com/scientists-find-a-way-to-catapult-rockets-into-space-like-slingshots/)
-- [Privacy.com Reissuing All Cards](https://support.privacy.com/hc/en-us/categories/4414487825559-Privacy-Cards-Update-12-2021)
-- [Blender 3.0](https://www.blender.org/download/releases/3-0/)
-- [U.S. State Department phones hacked with Israeli company spyware](https://www.reuters.com/technology/exclusive-us-state-department-phones-hacked-with-israeli-company-spyware-sources-2021-12-03/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
