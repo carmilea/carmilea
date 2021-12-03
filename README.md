@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reality has a surprising amount of detail &lpar;2017&rpar;](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
+- [Show HN: Automatic proxy setup for SSH&#39;able boxes that have no network access](https://github.com/AkselAllas/airgapt)
+- [U.S. indicts two men for running a $20M YouTube content ID scam](https://torrentfreak.com/u-s-indicts-two-men-for-running-a-20-million-youtube-content-id-scam-211203/)
 - [Metaphor &lpar;YC S21&rpar;: Hiring Self-Supervised Learning Researchers](https://www.ycombinator.com/companies/metaphor/jobs/z9af6mz-research-scientist-or-research-engineer)
 - [Tell HN: Lost access to my Google account even with the correct credentials](https://news.ycombinator.com/item?id=29428922)
-- [Show HN: I had some time yesterday so I made a GPT3 podcast to help you sleep](https://anchor.fm/deepdreams)
-- [Windows urges users to use Bing same way as urgent security warnings](https://twitter.com/GossiTheDog/status/1428457677261246465)
-- [The Jami conferencing system](https://jami.net/the-jami-conferencing-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
