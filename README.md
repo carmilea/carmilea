@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Metaphor &lpar;YC S21&rpar;: Hiring Self-Supervised Learning Researchers](https://www.ycombinator.com/companies/metaphor/jobs/z9af6mz-research-scientist-or-research-engineer)
+- [Tell HN: Lost access to my Google account even with the correct credentials](https://news.ycombinator.com/item?id=29428922)
+- [Show HN: I had some time yesterday so I made a GPT3 podcast to help you sleep](https://anchor.fm/deepdreams)
 - [Windows urges users to use Bing same way as urgent security warnings](https://twitter.com/GossiTheDog/status/1428457677261246465)
-- [The Jami Conferencing System](https://jami.net/the-jami-conferencing-system/)
-- [BOOX Mira Pro – 25.3″ E Ink Monitors](https://shop.boox.com/products/mira)
-- [The big idea around unikernels](https://changelog.com/posts/the-big-idea-around-unikernels)
-- [The Rise of the Decentralized Startup](https://elizabethyin.com/2021/09/19/the-rise-of-the-decentralized-startup/)
+- [The Jami conferencing system](https://jami.net/the-jami-conferencing-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
