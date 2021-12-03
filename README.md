@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kholia/OS X-KVM: Run macOS on QEMU/KVM](https://github.com/kholia/OSX-KVM)
 - [On Pegasus – NSO, Israel, and the World](https://www.lrb.co.uk/the-paper/v43/n21/edan-ring/on-pegasus)
+- [Open 3D Foundation announces first major release of Open 3D Engine](https://o3de.org/blog/posts/o3de-2111-announcement/)
 - [How Bad Is Omicron?](https://www.nature.com/articles/d41586-021-03614-z)
 - [Empty and Misleading Communication Takes over Organizations](https://journals.sagepub.com/doi/10.1177/2631787720929704)
-- [One way a builder culture can fail](http://rachelbythebay.com/w/2021/12/02/build/)
-- [Artificial intelligence that understands object relationships](https://news.mit.edu/2021/ai-object-relationships-image-generation-1129)
 <!-- BLOG-POST-LIST:END -->
 
 ---
