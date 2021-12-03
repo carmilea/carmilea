@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Lose Stars on GitHub?](https://www.qovery.com/blog/we-lost-3800-stars-on-github-in-1-click/)
+- [U.S. State Department phones hacked with Israeli company spyware](https://www.reuters.com/technology/exclusive-us-state-department-phones-hacked-with-israeli-company-spyware-sources-2021-12-03/)
+- [Why Hive.co &lpar;YC S14&rpar; is a uniquely great place to work](https://blog.hive.co/why-is-hive-such-a-uniquely-dope-place-to-work/)
+- [A Website for Learning Vim](https://vim.is/#exercise)
+- [The Deadlock Empire](https://deadlockempire.github.io/)
 - [Engineers Look to Nature to Create Bird-Like Robot – Unite.ai](https://www.unite.ai/engineers-look-to-nature-to-create-bird-like-robot/)
-- [Launch HN: Demigod &lpar;YC S19&rpar; – Build compounding habits with a dedicated coach](https://news.ycombinator.com/item?id=29431044)
-- [Eliminating Database Sprawl, Part 1: How to Escape a Slow-moving Car Crash](https://www.singlestore.com/blog/eliminating-database-sprawl-part-1-how-to-escape-a-car-crash)
-- [Using Entropy to Identify Obfuscated Malicious Code](http://blog.phylum.io/detecting-obfuscated-malicious-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
