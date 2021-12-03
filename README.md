@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reality has a surprising amount of detail &lpar;2017&rpar;](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
-- [Show HN: Automatic proxy setup for SSH&#39;able boxes that have no network access](https://github.com/AkselAllas/airgapt)
-- [U.S. indicts two men for running a $20M YouTube content ID scam](https://torrentfreak.com/u-s-indicts-two-men-for-running-a-20-million-youtube-content-id-scam-211203/)
-- [Metaphor &lpar;YC S21&rpar;: Hiring Self-Supervised Learning Researchers](https://www.ycombinator.com/companies/metaphor/jobs/z9af6mz-research-scientist-or-research-engineer)
-- [Tell HN: Lost access to my Google account even with the correct credentials](https://news.ycombinator.com/item?id=29428922)
+- [Study: Most Dog Breeds Highly Inbred](https://www.ucdavis.edu/health/news/most-dogs-highly-inbred)
+- [Lego has designed a set that can&#39;t be taken apart](https://brickset.com/article/67650/lego-has-designed-a-set-that-can-t-be-taken-apart)
+- [Apple tracking devices being used in thefts of high-end cars](https://toronto.ctvnews.ca/apple-tracking-devices-being-used-in-thefts-of-high-end-cars-in-york-region-police-1.5690819)
+- [My Worry for America: General Michael Hayden](https://www.thecipherbrief.com/column_article/my-worry-for-america)
+- [Ask HN: Advice about Aging Parents](https://news.ycombinator.com/item?id=29429558)
 <!-- BLOG-POST-LIST:END -->
 
 ---
