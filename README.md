@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Buried in Infrastructure Bill Is a Mandatory Backdoor Kill Switch for Your Car](https://hothardware.com/news/bidens-infrastructure-bill-mandatory-backdoor-car-kill-switch)
 - [Kholia/OS X-KVM: Run macOS on QEMU/KVM](https://github.com/kholia/OSX-KVM)
 - [On Pegasus – NSO, Israel, and the World](https://www.lrb.co.uk/the-paper/v43/n21/edan-ring/on-pegasus)
 - [Open 3D Foundation announces first major release of Open 3D Engine](https://o3de.org/blog/posts/o3de-2111-announcement/)
-- [How Bad Is Omicron?](https://www.nature.com/articles/d41586-021-03614-z)
 - [Empty and Misleading Communication Takes over Organizations](https://journals.sagepub.com/doi/10.1177/2631787720929704)
 <!-- BLOG-POST-LIST:END -->
 
