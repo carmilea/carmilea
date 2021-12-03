@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An alarming trend in K-12 math education: a guest post and an open letter](https://scottaaronson.blog/?p=6146)
+- [Scientists find a way to ‘catapult’ rockets into space like ‘slingshots’](https://theswaddle.com/scientists-find-a-way-to-catapult-rockets-into-space-like-slingshots/)
+- [Privacy.com Reissuing All Cards](https://support.privacy.com/hc/en-us/categories/4414487825559-Privacy-Cards-Update-12-2021)
+- [Blender 3.0](https://www.blender.org/download/releases/3-0/)
 - [U.S. State Department phones hacked with Israeli company spyware](https://www.reuters.com/technology/exclusive-us-state-department-phones-hacked-with-israeli-company-spyware-sources-2021-12-03/)
-- [Why Hive.co &lpar;YC S14&rpar; is a uniquely great place to work](https://blog.hive.co/why-is-hive-such-a-uniquely-dope-place-to-work/)
-- [A Website for Learning Vim](https://vim.is/#exercise)
-- [The Deadlock Empire](https://deadlockempire.github.io/)
-- [Engineers Look to Nature to Create Bird-Like Robot – Unite.ai](https://www.unite.ai/engineers-look-to-nature-to-create-bird-like-robot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
