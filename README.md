@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Where is the CRDT for syntax trees](https://writer.zohopublic.com/writer/published/grcwy5c699d67b9c444219b60cdb90ccbabc7)
-- [William Cook has died](https://mjtsai.com/blog/2021/12/02/william-cook-rip/)
-- [Game “While true: learn&lpar;&rpar;” for free in Epic Store](https://www.epicgames.com/store/en-US/p/while-true-learn)
-- [See brands&#39; supply chain linkages that are contributing to Amazon deforestation](https://www.stand.earth/publication/forest-conservation/amazon-forest-protection/amazon-leather-supply-chain)
-- [Germany: New government plans &#39;right to encryption&#39;](https://tutanota.com/blog/posts/germany-right-to-encryption/)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Magnus Carlsen wins longest world chess championship game of all time](https://www.chess.com/news/view/fide-world-chess-championship-2021-game-6)
+- [Common Infrastructure Errors I&#39;ve Made](https://matduggan.com/mistakes/)
+- [YouTube deleting comments who criticize their hiding of the dislike count](https://www.youtube.com/watch?v=43wp_EUk2ho)
+- [The U.S. productivity slowdown: an economy-wide and industry-level analysis](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
