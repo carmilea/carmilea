@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Study: Most Dog Breeds Highly Inbred](https://www.ucdavis.edu/health/news/most-dogs-highly-inbred)
-- [Lego has designed a set that can&#39;t be taken apart](https://brickset.com/article/67650/lego-has-designed-a-set-that-can-t-be-taken-apart)
-- [Apple tracking devices being used in thefts of high-end cars](https://toronto.ctvnews.ca/apple-tracking-devices-being-used-in-thefts-of-high-end-cars-in-york-region-police-1.5690819)
-- [My Worry for America: General Michael Hayden](https://www.thecipherbrief.com/column_article/my-worry-for-america)
-- [Ask HN: Advice about Aging Parents](https://news.ycombinator.com/item?id=29429558)
+- [My Worry for America](https://www.thecipherbrief.com/column_article/my-worry-for-america)
+- [Pg_GraphQL: A GraphQL Extension for PostgreSQL](https://supabase.com/blog/2021/12/03/pg-graphql)
+- [Blender 3.0 binaries](https://download.blender.org/release/Blender3.0/)
+- [Show HN: A tool to build real websites built exclusively in SVG](https://svija.love)
+- [Reasons to read the original works of great thinkers](https://goodoptics.wordpress.com/2021/11/16/two-simple-reasons-to-study-the-history-of-ideas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
