@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rclone: Rsync for cloud storage – CLI to sync between cloud storage providers](https://github.com/rclone/rclone)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Your eBay account has been suspended](https://news.ycombinator.com/item?id=29435091)
 - [Magnus Carlsen wins longest world chess championship game of all time](https://www.chess.com/news/view/fide-world-chess-championship-2021-game-6)
 - [Common Infrastructure Errors I&#39;ve Made](https://matduggan.com/mistakes/)
-- [YouTube deleting comments who criticize their hiding of the dislike count](https://www.youtube.com/watch?v=43wp_EUk2ho)
-- [The U.S. productivity slowdown: an economy-wide and industry-level analysis](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
