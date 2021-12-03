@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On Pegasus – NSO, Israel, and the World](https://www.lrb.co.uk/the-paper/v43/n21/edan-ring/on-pegasus)
+- [How Bad Is Omicron?](https://www.nature.com/articles/d41586-021-03614-z)
+- [Empty and Misleading Communication Takes over Organizations](https://journals.sagepub.com/doi/10.1177/2631787720929704)
 - [One way a builder culture can fail](http://rachelbythebay.com/w/2021/12/02/build/)
 - [Artificial intelligence that understands object relationships](https://news.mit.edu/2021/ai-object-relationships-image-generation-1129)
-- [Show HN: Emoji to Scale](https://javier.xyz/emoji-to-scale/)
-- [Can deep learning help mathematicians build intuition?](https://theconversation.com/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900)
-- [What Is Dbt and Why Are Companies Using It?](https://seattledataguy.substack.com/p/what-is-dbt-and-why-are-companies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
