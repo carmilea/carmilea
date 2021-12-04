@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Dependency Graphs for Cloud Services?](https://news.ycombinator.com/item?id=29443137)
 - [Apache Guacamole](https://guacamole.apache.org/)
 - [On Hubris and Humility: developing an OS for robustness in Rust [video]](https://talks.osfc.io/osfc2021/talk/JTWYEH/)
 - [Knowledge Representation in Sanskrit and Artificial Intelligence](https://ojs.aaai.org//index.php/aimagazine/article/view/466)
 - [“coding is basically just ifs and for loops.”](https://twitter.com/ID_AA_Carmack/status/1466934223831506951)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=29442154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
