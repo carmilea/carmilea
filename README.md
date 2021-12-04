@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A no-reload HTML/CSS/JS playground with instant editor ↔ output Sync℠](https://blog.pdf.ist/webpdf-pro-what-is-new-2021-11/)
-- [ADSL works over wet string &lpar;2017&rpar;](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html)
-- [“UnGoogley”? Worker says she was fired for questioning no holiday pay](https://www.sfexaminer.com/news/fired-for-being-ungoogley-after-asking-about-holiday-pay/)
-- [Hackers Are Spamming Businesses’ Receipt Printers with ‘Antiwork’ Manifestos](https://www.vice.com/en/article/qjbb9d/hackers-are-spamming-businesses-receipt-printers-with-antiwork-manifestos)
-- [Convert latex notation to ready to be embedded Markdown](https://8holon.github.io/latex-to-markdown/)
+- [Three Ways to Debug Code in Elixir](https://blog.appsignal.com/2021/11/30/three-ways-to-debug-code-in-elixir.html)
+- [Report from the Hospital at the Epicenter of Omicron](https://www.samrc.ac.za/news/tshwane-district-omicron-variant-patient-profile-early-features)
+- [Why Bitcoin is not a socialist’s ally &lpar;2020&rpar;](https://diem25.org/why-bitcoin-not-socialists-ally-reply-ben-arc/)
+- [DocuSign Shares Plunge 42%](https://www.cnbc.com/2021/12/03/docusign-stock-plunges-after-the-company-gave-weak-q4-guidance.html)
+- [LLVM internals, part 4: attributes and attribute groups](https://blog.yossarian.net/2021/11/29/LLVM-internals-part-4-attributes-and-attribute-groups)
 <!-- BLOG-POST-LIST:END -->
 
 ---
