@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is the big tech era ending?](https://wyclif.substack.com/p/is-the-big-tech-era-ending)
-- [Sequin &lpar;YC S21&rpar; Is Hiring a Founding Engineer to Get Women Credit](https://www.ycombinator.com/companies/sequin/jobs/xxzJxtY-founding-engineer)
-- [FirefoxPWA: Progressive Web Apps for Firefox](https://github.com/filips123/FirefoxPWA)
-- [Estonian winter 1, delivery robots 0](https://twitter.com/UrbanFoxxxx/status/1466782775244111872)
-- [MH370: Could missing Malaysian Airlines plane finally be found?](https://www.bbc.com/news/business-59517821)
+- [ADSL works over wet string &lpar;2017&rpar;](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html)
+- [“UnGoogley”? Worker says she was fired for questioning no holiday pay](https://www.sfexaminer.com/news/fired-for-being-ungoogley-after-asking-about-holiday-pay/)
+- [Hackers Are Spamming Businesses’ Receipt Printers with ‘Antiwork’ Manifestos](https://www.vice.com/en/article/qjbb9d/hackers-are-spamming-businesses-receipt-printers-with-antiwork-manifestos)
+- [Convert latex notation to ready to be embedded Markdown](https://8holon.github.io/latex-to-markdown/)
+- [Hacker News: Collection of Hacker News apps, libraries, resources &amp; more](https://github.com/cheeaun/awesome-hacker-news)
 <!-- BLOG-POST-LIST:END -->
 
 ---
