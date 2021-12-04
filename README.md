@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A no-reload HTML/CSS/JS playground with instant editor ↔ output Sync℠](https://blog.pdf.ist/webpdf-pro-what-is-new-2021-11/)
 - [ADSL works over wet string &lpar;2017&rpar;](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html)
 - [“UnGoogley”? Worker says she was fired for questioning no holiday pay](https://www.sfexaminer.com/news/fired-for-being-ungoogley-after-asking-about-holiday-pay/)
 - [Hackers Are Spamming Businesses’ Receipt Printers with ‘Antiwork’ Manifestos](https://www.vice.com/en/article/qjbb9d/hackers-are-spamming-businesses-receipt-printers-with-antiwork-manifestos)
 - [Convert latex notation to ready to be embedded Markdown](https://8holon.github.io/latex-to-markdown/)
-- [Hacker News: Collection of Hacker News apps, libraries, resources &amp; more](https://github.com/cheeaun/awesome-hacker-news)
 <!-- BLOG-POST-LIST:END -->
 
 ---
