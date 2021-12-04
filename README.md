@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=29442154)
+- [Bitcoin Price Tumbles After Wall Street Selloff](https://www.wsj.com/articles/bitcoin-price-tumbles-after-wall-street-selloff-11638621435)
+- [The FAANG Market Is Fading](https://www.morningstar.com/articles/1070180/the-faang-market-is-fading)
 - [Three Ways to Debug Code in Elixir](https://blog.appsignal.com/2021/11/30/three-ways-to-debug-code-in-elixir.html)
 - [Report from the Hospital at the Epicenter of Omicron](https://www.samrc.ac.za/news/tshwane-district-omicron-variant-patient-profile-early-features)
-- [Why Bitcoin is not a socialist’s ally &lpar;2020&rpar;](https://diem25.org/why-bitcoin-not-socialists-ally-reply-ben-arc/)
-- [DocuSign Shares Plunge 42%](https://www.cnbc.com/2021/12/03/docusign-stock-plunges-after-the-company-gave-weak-q4-guidance.html)
-- [LLVM internals, part 4: attributes and attribute groups](https://blog.yossarian.net/2021/11/29/LLVM-internals-part-4-attributes-and-attribute-groups)
 <!-- BLOG-POST-LIST:END -->
 
 ---
