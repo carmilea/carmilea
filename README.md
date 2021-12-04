@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Super Pyxelate converts images to 8-bit pixel art](https://github.com/sedthh/pyxelate)
+- [Black couple ‘erases themselves’ from their home, its value goes up by $500k](https://www.sfchronicle.com/bayarea/article/Black-Marin-City-couple-sues-appraiser-for-16672840.php)
+- [ZSH Completions How To](https://github.com/zsh-users/zsh-completions/blob/master/zsh-completions-howto.org)
 - [Ask HN: Dependency Graphs for Cloud Services?](https://news.ycombinator.com/item?id=29443137)
-- [Apache Guacamole](https://guacamole.apache.org/)
-- [On Hubris and Humility: developing an OS for robustness in Rust [video]](https://talks.osfc.io/osfc2021/talk/JTWYEH/)
-- [Knowledge Representation in Sanskrit and Artificial Intelligence](https://ojs.aaai.org//index.php/aimagazine/article/view/466)
-- [“coding is basically just ifs and for loops.”](https://twitter.com/ID_AA_Carmack/status/1466934223831506951)
+- [It&#39;s December and it hasn&#39;t snowed in Denver yet. That&#39;s never been recorded](https://lite.cnn.com/en/article/h_7f69495d740ab8ce6728ce5646752faa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
