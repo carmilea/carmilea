@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
-- [The City of Palliative Care](https://jayriverlong.github.io/2021/11/28/palliative.html)
 - [To regrow forests the U.S. needs billions of seeds–and many more &#39;seed hunters&#39;](https://www.nationalgeographic.com/environment/article/to-regrow-forests-us-needs-billions-of-seeds-many-more-seed-hunters)
 - [The Fraud Supply Chain](https://bam.kalzumeus.com/archive/the-fraud-supply-chain/)
 - [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
+- [Show HN: I made a book with a hundred UI/UX tips](https://news.ycombinator.com/item?id=29437527)
 <!-- BLOG-POST-LIST:END -->
 
 ---
