@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Estonian winter 1, delivery robots 0](https://twitter.com/UrbanFoxxxx/status/1466782775244111872)
 - [Fast CSV Processing with SIMD](https://nullprogram.com/blog/2021/12/04/)
 - [Mister FPGA: The Future of Game and Computer Emulation](https://www.racketboy.com/retro/mister-fpga-the-future-of-retro-game-emulation-and-preservation)
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Head of Computer Vision &lpar;Paris, Remote ± 1h&rpar;](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
 - [Compile Python applications into stand-alone executables](https://www.pyinstaller.org/)
-- [Rule-Based Expert Systems: MYCIN Experiments of Stanford Heuristic Programming](https://people.dbmi.columbia.edu/~ehs7001/Buchanan-Shortliffe-1984/MYCIN%20Book.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
