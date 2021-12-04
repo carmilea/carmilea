@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The City of Palliative Care](https://jayriverlong.github.io/2021/11/28/palliative.html)
+- [To regrow forests the U.S. needs billions of seeds–and many more &#39;seed hunters&#39;](https://www.nationalgeographic.com/environment/article/to-regrow-forests-us-needs-billions-of-seeds-many-more-seed-hunters)
+- [The Fraud Supply Chain](https://bam.kalzumeus.com/archive/the-fraud-supply-chain/)
 - [Jerry &lpar;YC S17&rpar; Is Hiring Senior Software Engineer](https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8)
 - [Keep a Knowledge Log](https://bruno-oliveira.github.io/techblog/Keep-a-log/)
-- [Rclone: Rsync for cloud storage – CLI to sync between cloud storage providers](https://github.com/rclone/rclone)
-- [Your eBay account has been suspended](https://news.ycombinator.com/item?id=29435091)
-- [Common Infrastructure Errors I&#39;ve Made](https://matduggan.com/mistakes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
