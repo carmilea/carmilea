@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequin &lpar;YC S21&rpar; Is Hiring a Founding Engineer to Get Women Credit](https://www.ycombinator.com/companies/sequin/jobs/xxzJxtY-founding-engineer)
+- [FirefoxPWA: Progressive Web Apps for Firefox](https://github.com/filips123/FirefoxPWA)
 - [Estonian winter 1, delivery robots 0](https://twitter.com/UrbanFoxxxx/status/1466782775244111872)
+- [MH370: Could missing Malaysian Airlines plane finally be found?](https://www.bbc.com/news/business-59517821)
 - [Fast CSV Processing with SIMD](https://nullprogram.com/blog/2021/12/04/)
-- [Mister FPGA: The Future of Game and Computer Emulation](https://www.racketboy.com/retro/mister-fpga-the-future-of-retro-game-emulation-and-preservation)
-- [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Head of Computer Vision &lpar;Paris, Remote ± 1h&rpar;](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
-- [Compile Python applications into stand-alone executables](https://www.pyinstaller.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
