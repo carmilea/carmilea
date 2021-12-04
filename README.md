@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fast CSV Processing with SIMD](https://nullprogram.com/blog/2021/12/04/)
+- [Mister FPGA: The Future of Game and Computer Emulation](https://www.racketboy.com/retro/mister-fpga-the-future-of-retro-game-emulation-and-preservation)
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Head of Computer Vision &lpar;Paris, Remote ± 1h&rpar;](https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a)
 - [Rule-Based Expert Systems: MYCIN Experiments of Stanford Heuristic Programming](https://people.dbmi.columbia.edu/~ehs7001/Buchanan-Shortliffe-1984/MYCIN%20Book.htm)
 - [Getting a Computer Science PhD in the USA](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/)
-- [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
-- [To regrow forests the U.S. needs billions of seeds–and many more &#39;seed hunters&#39;](https://www.nationalgeographic.com/environment/article/to-regrow-forests-us-needs-billions-of-seeds-many-more-seed-hunters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
