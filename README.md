@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vegetable Oil for Lubricating Chainsaws](https://www.fs.fed.us/eng/pubs/html/98511316/98511316.html)
+- [All Horses Are the Same Color](https://jeremykun.com/2011/07/16/false-proof-all-horses-are-the-same-color/)
+- [Graviton2 and Graviton3](http://muratbuffalo.blogspot.com/2021/12/graviton2-and-graviton3.html)
+- [Vegetable Oil for Lubricating Chainsaws &lpar;2008&rpar;](https://www.fs.fed.us/eng/pubs/html/98511316/98511316.html)
 - [My Path to Magma](https://blainehansen.me/post/my-path-to-magma/)
-- [Ask HN: eBay alternatives for computers, embedded components, and tools](https://news.ycombinator.com/item?id=29444337)
 - [OneSignal &lpar;YC S11&rpar; is hiring engineers to work on messaging: Push, SMS, &amp; Email](https://onesignal.com/careers)
-- [Forced to settle for a nonideal job? Here’s how to make the most of it](https://www.science.org/content/article/forced-settle-nonideal-job-here-s-how-make-most-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
