@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache Guacamole](https://guacamole.apache.org/)
+- [On Hubris and Humility: developing an OS for robustness in Rust [video]](https://talks.osfc.io/osfc2021/talk/JTWYEH/)
+- [Knowledge Representation in Sanskrit and Artificial Intelligence](https://ojs.aaai.org//index.php/aimagazine/article/view/466)
+- [“coding is basically just ifs and for loops.”](https://twitter.com/ID_AA_Carmack/status/1466934223831506951)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=29442154)
-- [Bitcoin Price Tumbles After Wall Street Selloff](https://www.wsj.com/articles/bitcoin-price-tumbles-after-wall-street-selloff-11638621435)
-- [The FAANG Market Is Fading](https://www.morningstar.com/articles/1070180/the-faang-market-is-fading)
-- [Three Ways to Debug Code in Elixir](https://blog.appsignal.com/2021/11/30/three-ways-to-debug-code-in-elixir.html)
-- [Report from the Hospital at the Epicenter of Omicron](https://www.samrc.ac.za/news/tshwane-district-omicron-variant-patient-profile-early-features)
 <!-- BLOG-POST-LIST:END -->
 
 ---
