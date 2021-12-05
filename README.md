@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Correlation between the advent of refrigeration and the rise of Crohn&#39;s disease](https://academic.oup.com/ecco-jcc/article/15/4/678/5908865)
+- [Cancelled by His College](https://thecritic.co.uk/issues/march-2021/cancelled-by-his-college/)
 - [Gordian Software &lpar;YC W19&rpar; Is Hiring Back End Engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
-- [After December 31, LG phones&#39; bootloaders will no longer be able to be unlocked](https://developer.lge.com/main/RetrieveNoticePop.dev?nticId=NOT00005060&width=675)
+- [Termination of LG Mobile Developer website service](https://developer.lge.com/main/RetrieveNoticePop.dev?nticId=NOT00005060&width=675)
 - [Approx. 24 hours ago, Tether printed 1B $USDT out of thin air](https://whale-alert.io/transaction/tron/1a23f7a875deb2120f7efca0b426772737c3d2fc1f51b07ba9f9418d8027552f)
-- [Twitter’s heads of engineering and design will leave in a company shake-up](https://www.nytimes.com/2021/12/03/technology/twitter-engineering-design-shakeup.html)
-- [How to make any immutable data structure distributed](https://www.unison-lang.org/articles/distributed-datasets/core-idea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
