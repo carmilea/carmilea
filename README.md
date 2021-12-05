@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Convictional &lpar;YC W19&rpar; hiring engineers to build the future of B2B trade &lpar;Remote&rpar;](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
+- [Re-Thinking Electronic Mail](https://liw.fi/rethinking-email/)
 - [Bumble claims IP rights on employee&#39;s open-source libs](https://twitter.com/arkann1985/status/1467202744947822594)
 - [Kubernetes at Home with K3s](https://blog.nootch.net/post/kubernetes-at-home-with-k3s/)
-- [Show HN: Dfeed – a feed reader you can use without an account](https://dfeed.net/)
-- [Terra &lpar;YC W21&rpar; Is Hiring Sales Engineers in London](https://www.ycombinator.com/companies/terra/jobs/CoiffSb-sales-engineer)
-- [Monitoring 27kw Generac Generator with Raspberry Pi and Multimode Fiber](https://blog.networkprofile.org/monitoring-generac-generator-with-raspberry-pi-and-om3-fiber/)
+- [Singapore: Sovereign City](https://devonzuegel.com/post/singapore-sovereign-city)
 <!-- BLOG-POST-LIST:END -->
 
 ---
