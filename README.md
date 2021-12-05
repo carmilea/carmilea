@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You click a link to a news site, to read an article that seems interesting](https://mastodon.technology/@rysiek/107390725207653910)
+- [Analog Devices Expands over 1000 Linux Device Drivers to Support Development](https://www.analog.com/en/about-adi/news-room/press-releases/2021/11-30-2021-analog-devices-expands-linux-distribution.html)
+- [All Placebos are not created equal](https://atis.substack.com/p/all-placebos-are-not-created-equal)
 - [Correlation between the advent of refrigeration and the rise of Crohn&#39;s disease](https://academic.oup.com/ecco-jcc/article/15/4/678/5908865)
-- [Cancelled by His College](https://thecritic.co.uk/issues/march-2021/cancelled-by-his-college/)
-- [Gordian Software &lpar;YC W19&rpar; Is Hiring Back End Engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
-- [Termination of LG Mobile Developer website service](https://developer.lge.com/main/RetrieveNoticePop.dev?nticId=NOT00005060&width=675)
-- [Approx. 24 hours ago, Tether printed 1B $USDT out of thin air](https://whale-alert.io/transaction/tron/1a23f7a875deb2120f7efca0b426772737c3d2fc1f51b07ba9f9418d8027552f)
+- [Automated Time Series Processing and Forecasting](https://github.com/Nixtla/nixtla)
 <!-- BLOG-POST-LIST:END -->
 
 ---
