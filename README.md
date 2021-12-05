@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lawrence Krauss: Why the easily offended are a threat to scientific progress](https://nationalpost.com/opinion/lawrence-krauss-the-offence-offensive)
-- [TrueVault &lpar;YC W14&rpar; Is Hiring Staff Engineers to Help SMBs with Privacy](https://www.ycombinator.com/companies/truevault/jobs/2EUmtf8-staff-engineer)
-- [My Favorite Software Subreddits](https://notes.eatonphil.com/high-quality-subreddits-you-should-be-following.html)
-- [NoiseCraft: Browser-Based Visual Programming Language for Sound and Music](https://pointersgonewild.com/2021/12/05/noisecraft-a-browser-based-visual-programming-language-for-sound-music/)
-- [PineNote E Ink tablet and PinePhone Pro developer versions now shipping](https://goodereader.com/blog/tablet-slates/pinenote-e-ink-tablet-and-pinephone-pro-developer-versions-now-shipping)
+- [Crypto exchange BitMart confirms hack, loss of $150M in crypto](https://www.theblockcrypto.com/linked/126367/crypto-exchange-bitmart-reportedly-hacked-for-100-million)
+- [Hacking the planet with Notcurses: a guide to TUIs &lpar;2020&rpar; [pdf]](https://nick-black.com/htp-notcurses.pdf)
+- [Sarco suicide capsule ‘passes legal review’ in Switzerland](https://www.swissinfo.ch/eng/sci-tech/sarco-suicide-capsule--passes-legal-review--in-switzerland/46966510)
+- [Fakelish – Fake English word generator](https://fakelish.nwtgck.org/)
+- [2049 and the dreams of Philip K. Dick](http://strangehorizons.com/non-fiction/articles/it-will-prove-invincible-blade-runner-2049-and-the-dreams-of-philip-k-dick/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
