@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Library for creating terminal applications with text-based widgets](https://github.com/gansm/finalcut)
+- [Gordian Software &lpar;YC W19&rpar; Is Hiring Back End Engineers](https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22)
+- [After December 31, LG phones&#39; bootloaders will no longer be able to be unlocked](https://developer.lge.com/main/RetrieveNoticePop.dev?nticId=NOT00005060&width=675)
+- [Approx. 24 hours ago, Tether printed 1B $USDT out of thin air](https://whale-alert.io/transaction/tron/1a23f7a875deb2120f7efca0b426772737c3d2fc1f51b07ba9f9418d8027552f)
 - [Twitter’s heads of engineering and design will leave in a company shake-up](https://www.nytimes.com/2021/12/03/technology/twitter-engineering-design-shakeup.html)
-- [The Secretive Prisons That Keep Migrants Out of Europe](https://www.newyorker.com/magazine/2021/12/06/the-secretive-libyan-prisons-that-keep-migrants-out-of-europe)
 - [How to make any immutable data structure distributed](https://www.unison-lang.org/articles/distributed-datasets/core-idea/)
-- [Former Ubiquiti employee charged with hacking, extorting company](https://www.reuters.com/markets/currencies/former-ubiquiti-employee-charged-with-hacking-extorting-company-2021-12-01/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
