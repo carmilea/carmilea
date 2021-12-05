@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build $1M](https://reachpals.com/tools/how_to_build_million)
+- [One decade later: Minecraft world generation is finally interesting again](https://dither8.xyz/blog/minecraft-cliffs-terrain/)
 - [The Yesterweb](https://yesterweb.org)
 - [Apple Broke Up with Me](https://merecivilian.com/apple-broke-up-with-me/)
 - [Exodus – relocation of Linux binaries–and all of their deps–without containers](https://github.com/intoli/exodus)
