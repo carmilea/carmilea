@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zrythm: A highly automated and intuitive digital audio workstation](https://www.zrythm.org/en/index.html)
+- [Simple Raspberry Pi Powered SMS Gateway](https://blog.haschek.at/2021/raspberry-pi-sms-gateway.html)
 - [Widdler is a single binary that serves up TiddlyWikis](https://github.com/qbit/widdler)
 - [The Sea People: Alexander the Great Tread in the Footsteps of Forgotten Greeks](https://nemets.substack.com/p/the-sea-people)
 - [How new Linux users can increase their odds of success](https://drewdevault.com/2021/12/05/How-new-Linux-users-succeed.html)
-- [Convictional &lpar;YC W19&rpar; hiring engineers to build the future of B2B trade &lpar;Remote&rpar;](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
-- [Highlights of the HTTP Archive Web Almanac 2021](https://www.stefanjudis.com/blog/highlights-from-the-web-almanac-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
