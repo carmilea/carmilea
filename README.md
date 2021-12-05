@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zrythm: A highly automated and intuitive digital audio workstation](https://www.zrythm.org/en/index.html)
-- [Simple Raspberry Pi Powered SMS Gateway](https://blog.haschek.at/2021/raspberry-pi-sms-gateway.html)
-- [Widdler is a single binary that serves up TiddlyWikis](https://github.com/qbit/widdler)
-- [The Sea People: Alexander the Great Tread in the Footsteps of Forgotten Greeks](https://nemets.substack.com/p/the-sea-people)
-- [How new Linux users can increase their odds of success](https://drewdevault.com/2021/12/05/How-new-Linux-users-succeed.html)
+- [Lawrence Krauss: Why the easily offended are a threat to scientific progress](https://nationalpost.com/opinion/lawrence-krauss-the-offence-offensive)
+- [TrueVault &lpar;YC W14&rpar; Is Hiring Staff Engineers to Help SMBs with Privacy](https://www.ycombinator.com/companies/truevault/jobs/2EUmtf8-staff-engineer)
+- [My Favorite Software Subreddits](https://notes.eatonphil.com/high-quality-subreddits-you-should-be-following.html)
+- [NoiseCraft: Browser-Based Visual Programming Language for Sound and Music](https://pointersgonewild.com/2021/12/05/noisecraft-a-browser-based-visual-programming-language-for-sound-music/)
+- [PineNote E Ink tablet and PinePhone Pro developer versions now shipping](https://goodereader.com/blog/tablet-slates/pinenote-e-ink-tablet-and-pinephone-pro-developer-versions-now-shipping)
 <!-- BLOG-POST-LIST:END -->
 
 ---
