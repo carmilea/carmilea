@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Terra &lpar;YC W21&rpar; Is Hiring Sales Engineers in London](https://www.ycombinator.com/companies/terra/jobs/CoiffSb-sales-engineer)
+- [Singapore: Sovereign City](https://devonzuegel.com/post/singapore-sovereign-city)
 - [One decade later: Minecraft world generation is finally interesting again](https://dither8.xyz/blog/minecraft-cliffs-terrain/)
 - [The Yesterweb](https://yesterweb.org)
 - [Apple Broke Up with Me](https://merecivilian.com/apple-broke-up-with-me/)
-- [Exodus – relocation of Linux binaries–and all of their deps–without containers](https://github.com/intoli/exodus)
-- [Show HN: Collaborative RSS Reader](https://linklonk.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
