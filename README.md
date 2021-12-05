@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ll redesign any 3 websites in less than 3 hours: &lpar;Challenge?&rpar; HN](https://news.ycombinator.com/item?id=29451613)
-- [Who Invented the Peanut Butter and Jelly Sandwich?](https://www.nationalpeanutboard.org:443/news/who-invented-the-peanut-butter-and-jelly-sandwich.htm)
-- [Nvidia EditGAN: Image Editing with Full Control from Sketches](https://www.louisbouchard.ai/editgan/)
-- [Async I/O for Dummies &lpar;2018&rpar;](https://www.alwaysrightinstitute.com/async-io-by-example/)
-- [Crypto exchange BitMart confirms hack, loss of $150M in crypto](https://www.theblockcrypto.com/linked/126367/crypto-exchange-bitmart-reportedly-hacked-for-100-million)
+- [Library for creating terminal applications with text-based widgets](https://github.com/gansm/finalcut)
+- [Twitter’s heads of engineering and design will leave in a company shake-up](https://www.nytimes.com/2021/12/03/technology/twitter-engineering-design-shakeup.html)
+- [The Secretive Prisons That Keep Migrants Out of Europe](https://www.newyorker.com/magazine/2021/12/06/the-secretive-libyan-prisons-that-keep-migrants-out-of-europe)
+- [How to make any immutable data structure distributed](https://www.unison-lang.org/articles/distributed-datasets/core-idea/)
+- [Former Ubiquiti employee charged with hacking, extorting company](https://www.reuters.com/markets/currencies/former-ubiquiti-employee-charged-with-hacking-extorting-company-2021-12-01/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
