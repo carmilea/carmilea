@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bumble claims IP rights on employee&#39;s open-source libs](https://twitter.com/arkann1985/status/1467202744947822594)
+- [Kubernetes at Home with K3s](https://blog.nootch.net/post/kubernetes-at-home-with-k3s/)
 - [Show HN: Dfeed – a feed reader you can use without an account](https://dfeed.net/)
 - [Terra &lpar;YC W21&rpar; Is Hiring Sales Engineers in London](https://www.ycombinator.com/companies/terra/jobs/CoiffSb-sales-engineer)
 - [Monitoring 27kw Generac Generator with Raspberry Pi and Multimode Fiber](https://blog.networkprofile.org/monitoring-generac-generator-with-raspberry-pi-and-om3-fiber/)
-- [One decade later: Minecraft world generation is finally interesting again](https://dither8.xyz/blog/minecraft-cliffs-terrain/)
-- [The Yesterweb](https://yesterweb.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
