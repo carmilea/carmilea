@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ll redesign any 3 websites in less than 3 hours: &lpar;Challenge?&rpar; HN](https://news.ycombinator.com/item?id=29451613)
+- [Who Invented the Peanut Butter and Jelly Sandwich?](https://www.nationalpeanutboard.org:443/news/who-invented-the-peanut-butter-and-jelly-sandwich.htm)
+- [Nvidia EditGAN: Image Editing with Full Control from Sketches](https://www.louisbouchard.ai/editgan/)
+- [Async I/O for Dummies &lpar;2018&rpar;](https://www.alwaysrightinstitute.com/async-io-by-example/)
 - [Crypto exchange BitMart confirms hack, loss of $150M in crypto](https://www.theblockcrypto.com/linked/126367/crypto-exchange-bitmart-reportedly-hacked-for-100-million)
-- [Hacking the planet with Notcurses: a guide to TUIs &lpar;2020&rpar; [pdf]](https://nick-black.com/htp-notcurses.pdf)
-- [Sarco suicide capsule ‘passes legal review’ in Switzerland](https://www.swissinfo.ch/eng/sci-tech/sarco-suicide-capsule--passes-legal-review--in-switzerland/46966510)
-- [Fakelish – Fake English word generator](https://fakelish.nwtgck.org/)
-- [2049 and the dreams of Philip K. Dick](http://strangehorizons.com/non-fiction/articles/it-will-prove-invincible-blade-runner-2049-and-the-dreams-of-philip-k-dick/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
