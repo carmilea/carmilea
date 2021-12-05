@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sea People: Alexander the Great Tread in the Footsteps of Forgotten Greeks](https://nemets.substack.com/p/the-sea-people)
 - [“Take Her Down”: Inside eBay’s Stalking Campaign Against a Natick Couple](https://www.bostonmagazine.com/news/2021/12/02/ebay-ecommercebytes-stalking/)
 - [Convictional &lpar;YC W19&rpar; hiring engineers to build the future of B2B trade &lpar;Remote&rpar;](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
 - [Highlights of the HTTP Archive Web Almanac 2021](https://www.stefanjudis.com/blog/highlights-from-the-web-almanac-2021/)
 - [New EC2 Instance Types of Re:Invent 2021: What Does “X2iedn” or “Is4gen” Mean?](https://aws-native.com/new-ec2-instance-types-of-reinvent-2021)
-- [fe: Emerging smart contract language for the Ethereum blockchain](https://github.com/ethereum/fe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
