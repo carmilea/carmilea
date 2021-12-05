@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Exodus – relocation of Linux binaries–and all of their deps–without containers](https://github.com/intoli/exodus)
 - [Show HN: Collaborative RSS Reader](https://linklonk.com/)
 - [USBefuddled: Untangling the Rat’s Nest of USB-C Standards and Cables](https://tidbits.com/2021/12/03/usbefuddled-untangling-the-rats-nest-of-usb-c-standards-and-cables/)
 - [Show HN: MiroTalk – an alternative to Zoom / Teams](https://github.com/miroslavpejic85/mirotalksfu)
 - [How can a ski lift allow turns to the left and the right on its route? [video]](https://www.youtube.com/watch?v=x4Av3jGKee8)
-- [Threepp: A C++17 Port of Three.js](https://github.com/markaren/threepp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
