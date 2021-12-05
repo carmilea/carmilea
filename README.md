@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: Dfeed – a feed reader you can use without an account](https://dfeed.net/)
 - [Terra &lpar;YC W21&rpar; Is Hiring Sales Engineers in London](https://www.ycombinator.com/companies/terra/jobs/CoiffSb-sales-engineer)
-- [Singapore: Sovereign City](https://devonzuegel.com/post/singapore-sovereign-city)
 - [Monitoring 27kw Generac Generator with Raspberry Pi and Multimode Fiber](https://blog.networkprofile.org/monitoring-generac-generator-with-raspberry-pi-and-om3-fiber/)
 - [One decade later: Minecraft world generation is finally interesting again](https://dither8.xyz/blog/minecraft-cliffs-terrain/)
+- [The Yesterweb](https://yesterweb.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
