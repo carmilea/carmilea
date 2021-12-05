@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build $1M](https://reachpals.com/tools/how_to_build_million)
+- [The Yesterweb](https://yesterweb.org)
 - [Apple Broke Up with Me](https://merecivilian.com/apple-broke-up-with-me/)
 - [Exodus – relocation of Linux binaries–and all of their deps–without containers](https://github.com/intoli/exodus)
 - [Show HN: Collaborative RSS Reader](https://linklonk.com/)
-- [USBefuddled: Untangling the Rat’s Nest of USB-C Standards and Cables](https://tidbits.com/2021/12/03/usbefuddled-untangling-the-rats-nest-of-usb-c-standards-and-cables/)
-- [Show HN: MiroTalk – an alternative to Zoom / Teams](https://github.com/miroslavpejic85/mirotalksfu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
