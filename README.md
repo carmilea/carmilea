@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Broken Promises and Empty Threats: The Evolution of AI in the USA, 1956-1996](http://www.technologystories.org/ai-evolution/)
-- [DNS Doesn&#39;t “Propagate”](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
-- [Generic GPU Kernels](https://mikeinnes.github.io/2017/08/24/cudanative.html)
-- [Evidence for the “great resignation” is thin on the ground](https://www.economist.com/finance-and-economics/evidence-for-the-great-resignation-is-thin-on-the-ground/21806659)
-- [Show HN: Podcast Audiograms – Make clips with captions, title and audio waves](https://app.milkvideo.com/focused-flow)
+- [Show HN: I redesigned my landing page to be as unprofessional as possible](https://straw.page?ref=hn)
+- [DAO votes to join Blender Development Fund as Patron member](https://www.blender.org/press/new-patron-member-decentraland/)
+- [In 2019 40% of San Francisco traffic fatalities are from left turns](https://www.saferleftturns.org)
+- [The Evolution of AI in the USA, 1956-1996](http://www.technologystories.org/ai-evolution/)
+- [DNS doesn&#39;t “propagate”](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
