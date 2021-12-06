@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [$150B class-action suit filed against Meta for facilitating Rohingya Genocide [pdf]](https://edelson.com/wp-content/uploads/doevmetacomplaint.pdf)
+- [Show HN: I made a modern web UI for Wikipedia](https://www.modernwiki.app/)
 - [Testing Firefox more efficiently with machine learning](https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/)
 - [There are over one trillion SQLite databases in active use](https://www.sqlite.org/mostdeployed.html)
-- [Better.com CEO fires 900 employees on Zoom call](https://maggrand.com/new-york-ceo-fires-900-employees-on-zoom-call-video/)
-- [Should Windows Transition to Linux?](https://www.lifeintech.com/2021/12/02/windows-linux/)
-- [No Easter Eggs in Curl](https://daniel.haxx.se/blog/2021/12/06/no-easter-eggs-in-curl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
