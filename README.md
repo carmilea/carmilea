@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio &lpar;YC S15&rpar; is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
+- [Global Sequencer](https://globalsequencer.com/)
+- [The &#39;21 Vector&#39; XSS Challenge](https://21-vector.0e.vc/)
 - [Show HN: I redesigned my landing page to be as unprofessional as possible](https://straw.page?ref=hn)
-- [DAO votes to join Blender Development Fund as Patron member](https://www.blender.org/press/new-patron-member-decentraland/)
-- [In 2019 40% of San Francisco traffic fatalities are from left turns](https://www.saferleftturns.org)
-- [The Evolution of AI in the USA, 1956-1996](http://www.technologystories.org/ai-evolution/)
-- [DNS doesn&#39;t “propagate”](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
+- [Show HN: t2md – convert Trello to markdown folders on disk, fast](https://github.com/GSGBen/t2md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
