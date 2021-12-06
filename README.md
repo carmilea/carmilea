@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Cartel of Influential Datasets Are Dominating Machine Learning Research](https://www.unite.ai/a-cartel-of-influential-datasets-are-dominating-machine-learning-research-new-study-suggests/)
-- [We always end up with waterfall even with Scrum](https://www.amazingcto.com/why-we-always-endup-with-waterfall-even-scrum/)
-- [Some Latency Measurement Pitfalls](https://danluu.com/latency-pitfalls/)
-- [Zig Performance Tracking Dashboard](https://ziglang.org/perf/)
-- [Ask HN: What is the best book on data visualization in 2021?](https://news.ycombinator.com/item?id=29457470)
+- [The Amazon Empire Strikes Back](https://stratechery.com/2021/the-amazon-empire-strikes-back/)
+- [QuestDB Is Hiring a Python Back End Engineer](https://questdb.io/careers/senior-backend-engineer-python/)
+- [Half a Billion in Bitcoin, Lost in the Dump](https://www.newyorker.com/magazine/2021/12/13/half-a-billion-in-bitcoin-lost-in-the-dump)
+- [YouTube suspended my account for posting DeFi hackathon video](https://news.ycombinator.com/item?id=29458246)
+- [The utilization of 44/8: the reason I mapped IPv4 and IPv6](https://blog.daknob.net/mapping-44net/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
