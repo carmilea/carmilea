@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Running production server on M1 mini?](https://news.ycombinator.com/item?id=29459724)
-- [BuzzFeed to go public, after shareholders approve SPAC deal](https://www.axios.com/buzzfeed-to-go-public-after-shareholders-approve-spac-deal-373e2cc8-5efb-459b-a905-bfb2b5224213.html)
-- [WebAssembly and Back Again: Fine-Grained Sandboxing in Firefox 95](https://hacks.mozilla.org/2021/12/webassembly-and-back-again-fine-grained-sandboxing-in-firefox-95/)
-- [Stack Safety for Free?](https://hurryabit.github.io/blog/stack-safety-for-free/)
-- [How the GNU coreutils are tested](https://www.pixelbeat.org/docs/coreutils-testing.html)
+- [SEC probes Tesla over whistleblower claims on solar panel defects](https://www.reuters.com/markets/commodities/exclusive-sec-probes-tesla-over-whistleblower-claims-solar-panel-defects-2021-12-06/)
+- [No Easter Eggs in Curl](https://daniel.haxx.se/blog/2021/12/06/no-easter-eggs-in-curl/)
+- [How SQLite Is Tested](https://www.sqlite.org/testing.html)
+- [Open cores, ISAs, etc.: what is open about them?](https://ariadne.space/2021/12/06/open-cores-isas-etc-what-is-actually-open-about-them/)
+- [Popular Family Safety App Life360 Selling Precise Location Data on Its Users](https://themarkup.org/privacy/2021/12/06/the-popular-family-safety-app-life360-is-selling-precise-location-data-on-its-tens-of-millions-of-user)
 <!-- BLOG-POST-LIST:END -->
 
 ---
