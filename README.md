@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bob Dole and Jack Kemp &lpar;1996&rpar;](http://www.dolekemp96.org/main.htm)
+- [Coreutils Rewritten in Rust](https://github.com/uutils/coreutils)
+- [Show HN: Fourier Transform Visualized via WebGL](https://static.laszlokorte.de/fourier/)
 - [Leaving MySQL](https://blog.sesse.net/blog/tech/2021-12-05-16-41_leaving_mysql.html)
 - [Ubiquiti developer charged with extortion, causing 2020 “breach”](https://krebsonsecurity.com/2021/12/ubiquiti-developer-charged-with-extortion-causing-2020-breach/)
-- [Podcast about the best podcasting tools &lpar;record, edit, master, and transcribe&rpar;](https://tooltip.com/podcast)
-- [Color Vision Simulation](https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector/Simulation)
-- [Whitehead and Russell’s Principia rewritten in Coq](https://www.principiarewrite.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
