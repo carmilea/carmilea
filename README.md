@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SEC probes Tesla over whistleblower claims on solar panel defects](https://www.reuters.com/markets/commodities/exclusive-sec-probes-tesla-over-whistleblower-claims-solar-panel-defects-2021-12-06/)
+- [Testing Firefox more efficiently with machine learning](https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/)
+- [There are over one trillion SQLite databases in active use](https://www.sqlite.org/mostdeployed.html)
+- [Better.com CEO fires 900 employees on Zoom call](https://maggrand.com/new-york-ceo-fires-900-employees-on-zoom-call-video/)
+- [Should Windows Transition to Linux?](https://www.lifeintech.com/2021/12/02/windows-linux/)
 - [No Easter Eggs in Curl](https://daniel.haxx.se/blog/2021/12/06/no-easter-eggs-in-curl/)
-- [How SQLite Is Tested](https://www.sqlite.org/testing.html)
-- [Open cores, ISAs, etc.: what is open about them?](https://ariadne.space/2021/12/06/open-cores-isas-etc-what-is-actually-open-about-them/)
-- [Popular Family Safety App Life360 Selling Precise Location Data on Its Users](https://themarkup.org/privacy/2021/12/06/the-popular-family-safety-app-life360-is-selling-precise-location-data-on-its-tens-of-millions-of-user)
 <!-- BLOG-POST-LIST:END -->
 
 ---
