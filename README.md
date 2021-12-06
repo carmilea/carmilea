@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Principia Rewrite: Whitehead and Russell’s Principia Rewritten in Coq](https://www.principiarewrite.com/)
-- [You shouldn’t use Google Chrome &lpar;2020&rpar;](https://zapek.com/blog/why-you-shouldnt-use-google-chrome/)
-- [GhOSt: Fast and Flexible User-Space Delegation of Linux Scheduling](https://dl.acm.org/doi/10.1145/3477132.3483542)
-- [LineFS: SmartNIC Offload of a Distributed File System with Pipeline Parallelism](https://dl.acm.org/doi/10.1145/3477132.3483565)
-- [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29455025)
+- [Leaving MySQL](https://blog.sesse.net/blog/tech/2021-12-05-16-41_leaving_mysql.html)
+- [Ubiquiti developer charged with extortion, causing 2020 “breach”](https://krebsonsecurity.com/2021/12/ubiquiti-developer-charged-with-extortion-causing-2020-breach/)
+- [Podcast about the best podcasting tools &lpar;record, edit, master, and transcribe&rpar;](https://tooltip.com/podcast)
+- [Color Vision Simulation](https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector/Simulation)
+- [Whitehead and Russell’s Principia rewritten in Coq](https://www.principiarewrite.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
