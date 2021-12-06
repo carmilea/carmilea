@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GhOSt: Fast and Flexible User-Space Delegation of Linux Scheduling](https://dl.acm.org/doi/10.1145/3477132.3483542)
+- [LineFS: SmartNIC Offload of a Distributed File System with Pipeline Parallelism](https://dl.acm.org/doi/10.1145/3477132.3483565)
 - [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29455025)
 - [WhatsApp has removed answer to “how do I choose not to share data with FB”](https://faq.whatsapp.com/general/26000016)
 - [C++ Compile Time Parser Generator](https://github.com/peter-winter/ctpg)
-- [You click a link to a news site, to read an article that seems interesting](https://mastodon.technology/@rysiek/107390725207653910)
-- [Analog Devices Expands over 1000 Linux Device Drivers to Support Development](https://www.analog.com/en/about-adi/news-room/press-releases/2021/11-30-2021-analog-devices-expands-linux-distribution.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
