@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [My challenge to the web performance community](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/)
 - [Goodbye Brave](https://arunmozhi.in/2021/12/06/goodbye-brave/)
+- [CFTC Orders JPMorgan to Pay Record $920M for Spoofing and Manipulation](https://www.cftc.gov/PressRoom/PressReleases/8260-20)
 - [Show HN: PlanckForth – Bootstrapping an interpreter from handwritten 1kb binary](https://github.com/nineties/planckforth)
 - [Bob Dole and Jack Kemp &lpar;1996&rpar;](http://www.dolekemp96.org/main.htm)
-- [Coreutils Rewritten in Rust](https://github.com/uutils/coreutils)
-- [Show HN: Fourier Transform Visualized via WebGL](https://static.laszlokorte.de/fourier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
