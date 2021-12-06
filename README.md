@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Amazon Empire Strikes Back](https://stratechery.com/2021/the-amazon-empire-strikes-back/)
-- [QuestDB Is Hiring a Python Back End Engineer](https://questdb.io/careers/senior-backend-engineer-python/)
-- [YouTube suspended my account for posting DeFi hackathon video](https://news.ycombinator.com/item?id=29458246)
-- [The utilization of 44/8: the reason I mapped IPv4 and IPv6](https://blog.daknob.net/mapping-44net/)
-- [A Cartel of Influential Datasets Are Dominating Machine Learning Research](https://www.unite.ai/a-cartel-of-influential-datasets-are-dominating-machine-learning-research-new-study-suggests/)
+- [Ask HN: Running production server on M1 mini?](https://news.ycombinator.com/item?id=29459724)
+- [BuzzFeed to go public, after shareholders approve SPAC deal](https://www.axios.com/buzzfeed-to-go-public-after-shareholders-approve-spac-deal-373e2cc8-5efb-459b-a905-bfb2b5224213.html)
+- [WebAssembly and Back Again: Fine-Grained Sandboxing in Firefox 95](https://hacks.mozilla.org/2021/12/webassembly-and-back-again-fine-grained-sandboxing-in-firefox-95/)
+- [Stack Safety for Free?](https://hurryabit.github.io/blog/stack-safety-for-free/)
+- [How the GNU coreutils are tested](https://www.pixelbeat.org/docs/coreutils-testing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
