@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [$150B class-action suit filed against Meta for facilitating Rohingya Genocide [pdf]](https://edelson.com/wp-content/uploads/doevmetacomplaint.pdf)
-- [Show HN: I made a modern web UI for Wikipedia](https://www.modernwiki.app/)
-- [Testing Firefox more efficiently with machine learning](https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/)
-- [There are over one trillion SQLite databases in active use](https://www.sqlite.org/mostdeployed.html)
+- [Broken Promises and Empty Threats: The Evolution of AI in the USA, 1956-1996](http://www.technologystories.org/ai-evolution/)
+- [DNS Doesn&#39;t “Propagate”](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
+- [Generic GPU Kernels](https://mikeinnes.github.io/2017/08/24/cudanative.html)
+- [Evidence for the “great resignation” is thin on the ground](https://www.economist.com/finance-and-economics/evidence-for-the-great-resignation-is-thin-on-the-ground/21806659)
+- [Show HN: Podcast Audiograms – Make clips with captions, title and audio waves](https://app.milkvideo.com/focused-flow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
