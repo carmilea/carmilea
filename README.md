@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generally Intelligent Is Hiring Machine Learning Research Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29455025)
+- [WhatsApp has removed answer to “how do I choose not to share data with FB”](https://faq.whatsapp.com/general/26000016)
+- [C++ Compile Time Parser Generator](https://github.com/peter-winter/ctpg)
 - [You click a link to a news site, to read an article that seems interesting](https://mastodon.technology/@rysiek/107390725207653910)
 - [Analog Devices Expands over 1000 Linux Device Drivers to Support Development](https://www.analog.com/en/about-adi/news-room/press-releases/2021/11-30-2021-analog-devices-expands-linux-distribution.html)
-- [All Placebos are not created equal](https://atis.substack.com/p/all-placebos-are-not-created-equal)
-- [Correlation between the advent of refrigeration and the rise of Crohn&#39;s disease](https://academic.oup.com/ecco-jcc/article/15/4/678/5908865)
-- [Automated Time Series Processing and Forecasting](https://github.com/Nixtla/nixtla)
 <!-- BLOG-POST-LIST:END -->
 
 ---
