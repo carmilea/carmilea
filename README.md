@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple II Composite Artifact Color - NTSC, PAL and Filters](http://nerdlypleasures.blogspot.com/2021/10/apple-ii-composite-artifact-color-ntsc.html)
+- [Burned-Out Forests Are Not Re-Growing](https://dissidentvoice.org/2021/12/burned-out-forests-are-not-re-growing/)
+- [Ask HN: What should founders do to protect against inflation?](https://news.ycombinator.com/item?id=29466313)
+- [Amount of Covid found in the wastewater in Boston](https://www.mwra.com/biobot/biobotdata.htm)
 - [Web3? I have my DAOts](https://networked.substack.com/p/web3-i-have-my-daots)
-- [CT scans of AirPods evolution](https://scanofthemonth.com/)
-- [Tesorio &lpar;YC S15&rpar; is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
-- [Global Sequencer](https://globalsequencer.com/)
+- [Debunking Cloudflare’s recent performance tests](https://www.fastly.com/blog/debunking-cloudflares-recent-performance-tests)
 <!-- BLOG-POST-LIST:END -->
 
 ---
