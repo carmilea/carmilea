@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple II Composite Artifact Color - NTSC, PAL and Filters](http://nerdlypleasures.blogspot.com/2021/10/apple-ii-composite-artifact-color-ntsc.html)
+- [Web3? I have my DAOts](https://networked.substack.com/p/web3-i-have-my-daots)
+- [CT scans of AirPods evolution](https://scanofthemonth.com/)
 - [Tesorio &lpar;YC S15&rpar; is hiring – join our 100% distributed fintech team](https://www.tesorio.com/careers#job-openings)
 - [Global Sequencer](https://globalsequencer.com/)
-- [The &#39;21 Vector&#39; XSS Challenge](https://21-vector.0e.vc/)
-- [Show HN: I redesigned my landing page to be as unprofessional as possible](https://straw.page?ref=hn)
-- [Show HN: t2md – convert Trello to markdown folders on disk, fast](https://github.com/GSGBen/t2md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
