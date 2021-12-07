@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Redesigned Notepad for Windows 11](https://blogs.windows.com/windows-insider/2021/12/07/redesigned-notepad-for-windows-11-begins-rolling-out-to-windows-insiders/)
+- [Rockstar: A programming language for hard rock metal fans](https://codewithrockstar.com/)
 - [Disrupting the Glupteba Operation](https://blog.google/threat-analysis-group/disrupting-glupteba-operation/)
 - [Vectorizing Ragged Arrays](https://vladfeinberg.com/2021/01/07/vectorizing-ragged-arrays.html)
-- [Over 200 newspapers now involved in quiet lawsuits vs. Google, Facebook](https://www.axios.com/1-local-newspapers-lawsuits-facebook-google-3c3dee3a-cce3-49ef-b0a2-7a98c2e15c91.html)
-- [Show HN: RemoteLy – Receive curated remote jobs directly in your email](https://news.ycombinator.com/item?id=29475648)
-- [Almonds &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/almonds/jobs/0RmV5Jg-full-stack-engineer)
+- [Over 200 newspapers now involved in lawsuits vs. Google, Facebook](https://www.axios.com/1-local-newspapers-lawsuits-facebook-google-3c3dee3a-cce3-49ef-b0a2-7a98c2e15c91.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
