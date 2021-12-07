@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-proclaimed Bitcoin inventor largely prevails in $54B Bitcoin trial](https://www.reuters.com/article/us-crypto-currency-lawsuit-idUSKBN2IL25A)
+- [Almonds &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/almonds/jobs/0RmV5Jg-full-stack-engineer)
+- [Advice for music startups: &#39;Discovery is not a viable product&#39;](https://musically.com/2021/12/02/herskowitz-advice-for-music-startups/)
+- [Cloudflare Images has a lot of issues](https://blog.klungo.no/2021/12/07/cloudflare-images-has-a-lot-of-issues/)
 - [AWS Console is returning HTTP 500 errors](https://console.aws.amazon.com/console/home)
 - [A Submarine&#39;s Weakness: Its Software?](https://fixvms.com/)
-- [MikroTik RouterOS v7 stable released](https://mikrotik.com/download/changelogs#show-tab-tree_2-id-7cd31cf6820896d838535a73cafb15ca)
-- [AWS us-east-1 outage](https://us-east-1.console.aws.amazon.com/console/home)
 <!-- BLOG-POST-LIST:END -->
 
 ---
