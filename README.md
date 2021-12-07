@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: git-history, for analyzing scraped data collected using Git and SQLite](https://simonwillison.net/2021/Dec/7/git-history/)
+- [Open source Boston dynamic like robot platform](https://open-dynamic-robot-initiative.github.io/)
+- [Firefox 95 Released](https://www.mozilla.org/en-US/firefox/95.0/releasenotes/)
 - [New data: What developers look for in future job opportunities](https://stackoverflow.blog/2021/12/07/new-data-what-developers-look-for-in-future-job-opportunities/)
-- [You Can&#39;t Buy Integration](https://martinfowler.com/articles/cant-buy-integration.html#UseAGeneralPurposeLanguageToManageTheInterfaceEvolution)
-- [NASA Returns Hubble to Full Science Operations](https://www.nasa.gov/feature/goddard/2021/nasa-returns-hubble-to-full-science-operations/)
-- [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Senior Android Engineer – Remote](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
-- [Redesigned Notepad for Windows 11](https://blogs.windows.com/windows-insider/2021/12/07/redesigned-notepad-for-windows-11-begins-rolling-out-to-windows-insiders/)
+- [You Can&#39;t Buy Integration](https://martinfowler.com/articles/cant-buy-integration.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
