@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport Is Hiring Operations Research Leaders to Design Global Trade Networks](https://www.flexport.com/careers)
+- [I thought I was a free man: the engineer fighting Texas’s ban on Israel boycotts](https://www.theguardian.com/us-news/2021/dec/07/texas-ban-boycotting-israel)
+- [The Case Against Crypto](https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto)
 - [Unbundling Work from Employment &lpar;2020&rpar;](https://www.atelierventures.co/content/unbundling-work-from-employment)
 - [Common shell script mistakes &lpar;2008&rpar;](http://www.pixelbeat.org/programming/shell_script_mistakes.html)
-- [Image Kernels Explained Visually](https://setosa.io/ev/image-kernels/)
-- [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://raycast.com/jobs)
-- [Are 14 people looking at that product?](https://blog.devgenius.io/are-14-people-currently-looking-at-this-product-e7fe8412f16b?gi=e7a96dc956cf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
