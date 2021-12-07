@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Redesigned Notepad for Windows 11](https://blogs.windows.com/windows-insider/2021/12/07/redesigned-notepad-for-windows-11-begins-rolling-out-to-windows-insiders/)
+- [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Senior Android Engineer – Remote](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
+- [Bypassing 2FA – Secret double octopus [2019]](https://doubleoctopus.com/blog/threats-and-alerts/bypassing-2fa/)
 - [Rockstar: A programming language for hard rock metal fans](https://codewithrockstar.com/)
 - [Disrupting the Glupteba Operation](https://blog.google/threat-analysis-group/disrupting-glupteba-operation/)
 - [Vectorizing Ragged Arrays](https://vladfeinberg.com/2021/01/07/vectorizing-ragged-arrays.html)
-- [Over 200 newspapers now involved in lawsuits vs. Google, Facebook](https://www.axios.com/1-local-newspapers-lawsuits-facebook-google-3c3dee3a-cce3-49ef-b0a2-7a98c2e15c91.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
