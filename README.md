@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to convince big tech team that tests and code quality matter?](https://news.ycombinator.com/item?id=29469291)
+- [Ask HN: Does anyone have a backup of Aaron Swartz&#39; site: theinfo.org?](https://news.ycombinator.com/item?id=29469671)
+- [Dishonest and Contradictory: Fact-Checking CSIRO’s Communications about the Tru](https://microkerneldude.org/2021/11/17/dishonest-and-contradictory-fact-checking-csiros-communications-about-the-trustworthy-systems-group/)
+- [Why, oh WHY, do those #?@! nutheads use vi?](http://www.viemu.com/a-why-vi-vim.html)
 - [Sayonara, C++, and Hello to Rust](https://www.thecodedmessage.com/posts/hello-rust/)
-- [On Hubris and Humility](https://cliffle.com/blog/on-hubris-and-humility/)
-- [Miniature 3456 LED Cube](https://willempennings.nl/miniature-3456-led-cube/)
-- [Ask HN: How to be my own genetic disease researcher for my partner?](https://news.ycombinator.com/item?id=29468831)
+- [Viagra Is Linked to Almost 70% Lower Risk of Alzheimer&#39;s](https://www.sciencealert.com/giant-study-finds-viagra-is-linked-to-almost-70-lower-risk-of-alzheimer-s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
