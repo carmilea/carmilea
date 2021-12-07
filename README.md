@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Compiling Code into Silicon](https://www.siliconcompiler.com)
+- [We only talk about the third attack on Pearl Harbor](https://newsletter.butwhatfor.com/p/an-attack-on-pearl-harbor)
+- [Regularized Newton Method with Global $O&lpar;1/k^2&rpar;$ Convergence](https://arxiv.org/abs/2112.02089)
 - [Windows 10 RCE: The exploit is in the link](https://positive.security/blog/ms-officecmd-rce)
-- [Flexport Is Hiring Operations Research Leaders to Design Global Trade Networks](https://www.flexport.com/careers)
-- [I thought I was a free man: the engineer fighting Texas’s ban on Israel boycotts](https://www.theguardian.com/us-news/2021/dec/07/texas-ban-boycotting-israel)
-- [Hacked Cryptocurrency Platform Begs Hacker to Please Return $119M](https://www.vice.com/en/article/v7dv4a/hacked-cryptocurrency-platform-begs-hacker-to-please-return-dollar119-million)
-- [The Case Against Crypto](https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto)
+- [Flexport is hiring operations research leaders to design global trade networks](https://www.flexport.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
