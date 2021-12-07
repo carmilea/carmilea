@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SpotifyWrapped: Spotify Turned User Listening Stats to a Free Ad Campaign](https://www.businessbrief.xyz/p/spotifywrapped-how-spotify-turned)
 - [SuperTokens &lpar;YC S20&rpar; Is Hiring for devrel roles &lpar;remote&rpar;](https://angel.co/l/2wamZr)
-- [“I lasted three minutes at Amazon.”](https://old.reddit.com/r/antiwork/comments/ra7tjf/i_lasted_three_minutes_at_amazon/)
-- [Advent of Code 2021 using SQL &lpar;PostgreSQL-flavored&rpar;](https://github.com/mitchellh/advent-2021-sql)
-- [Apple is running out of time to deliver on its 2021 promises](https://www.macworld.com/article/557089/apple-ios-macos-features-universal-control-xcode.html)
+- [Advent of Code 2021 with PostgreSQL](https://github.com/mitchellh/advent-2021-sql)
 - [Elegant PCB Business Card Made with Inkscape, KiCad and Svg2Shenzen](https://github.com/Hanqaqa/PCB_Business_Card)
+- [Making Something Social Destroys the Truth of It](https://nav.al/social)
 <!-- BLOG-POST-LIST:END -->
 
 ---
