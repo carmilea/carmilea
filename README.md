@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Burned-Out Forests Are Not Re-Growing](https://dissidentvoice.org/2021/12/burned-out-forests-are-not-re-growing/)
-- [Ask HN: What should founders do to protect against inflation?](https://news.ycombinator.com/item?id=29466313)
-- [Amount of Covid found in the wastewater in Boston](https://www.mwra.com/biobot/biobotdata.htm)
-- [Web3? I have my DAOts](https://networked.substack.com/p/web3-i-have-my-daots)
-- [Debunking Cloudflare’s recent performance tests](https://www.fastly.com/blog/debunking-cloudflares-recent-performance-tests)
+- [SuperTokens &lpar;YC S20&rpar; Is Hiring for devrel roles &lpar;remote&rpar;](https://angel.co/l/2wamZr)
+- [“I lasted three minutes at Amazon.”](https://old.reddit.com/r/antiwork/comments/ra7tjf/i_lasted_three_minutes_at_amazon/)
+- [Advent of Code 2021 using SQL &lpar;PostgreSQL-flavored&rpar;](https://github.com/mitchellh/advent-2021-sql)
+- [Apple is running out of time to deliver on its 2021 promises](https://www.macworld.com/article/557089/apple-ios-macos-features-universal-control-xcode.html)
+- [Elegant PCB Business Card Made with Inkscape, KiCad and Svg2Shenzen](https://github.com/Hanqaqa/PCB_Business_Card)
 <!-- BLOG-POST-LIST:END -->
 
 ---
