@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New data: What developers look for in future job opportunities](https://stackoverflow.blog/2021/12/07/new-data-what-developers-look-for-in-future-job-opportunities/)
+- [You Can&#39;t Buy Integration](https://martinfowler.com/articles/cant-buy-integration.html#UseAGeneralPurposeLanguageToManageTheInterfaceEvolution)
+- [NASA Returns Hubble to Full Science Operations](https://www.nasa.gov/feature/goddard/2021/nasa-returns-hubble-to-full-science-operations/)
 - [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Senior Android Engineer – Remote](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
-- [Bypassing 2FA – Secret double octopus [2019]](https://doubleoctopus.com/blog/threats-and-alerts/bypassing-2fa/)
-- [Rockstar: A programming language for hard rock metal fans](https://codewithrockstar.com/)
-- [Disrupting the Glupteba Operation](https://blog.google/threat-analysis-group/disrupting-glupteba-operation/)
-- [Vectorizing Ragged Arrays](https://vladfeinberg.com/2021/01/07/vectorizing-ragged-arrays.html)
+- [Redesigned Notepad for Windows 11](https://blogs.windows.com/windows-insider/2021/12/07/redesigned-notepad-for-windows-11-begins-rolling-out-to-windows-insiders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
