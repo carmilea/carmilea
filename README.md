@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 10 RCE: The exploit is in the link](https://positive.security/blog/ms-officecmd-rce)
 - [Flexport Is Hiring Operations Research Leaders to Design Global Trade Networks](https://www.flexport.com/careers)
 - [I thought I was a free man: the engineer fighting Texas’s ban on Israel boycotts](https://www.theguardian.com/us-news/2021/dec/07/texas-ban-boycotting-israel)
+- [Hacked Cryptocurrency Platform Begs Hacker to Please Return $119M](https://www.vice.com/en/article/v7dv4a/hacked-cryptocurrency-platform-begs-hacker-to-please-return-dollar119-million)
 - [The Case Against Crypto](https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto)
-- [Unbundling Work from Employment &lpar;2020&rpar;](https://www.atelierventures.co/content/unbundling-work-from-employment)
-- [Common shell script mistakes &lpar;2008&rpar;](http://www.pixelbeat.org/programming/shell_script_mistakes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
