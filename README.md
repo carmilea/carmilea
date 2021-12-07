@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Compiling Code into Silicon](https://www.siliconcompiler.com)
-- [We only talk about the third attack on Pearl Harbor](https://newsletter.butwhatfor.com/p/an-attack-on-pearl-harbor)
-- [Regularized Newton Method with Global $O&lpar;1/k^2&rpar;$ Convergence](https://arxiv.org/abs/2112.02089)
-- [Windows 10 RCE: The exploit is in the link](https://positive.security/blog/ms-officecmd-rce)
-- [Flexport is hiring operations research leaders to design global trade networks](https://www.flexport.com/careers)
+- [Ask HN: Why doesn&#39;t YouTube have a competitor?](https://news.ycombinator.com/item?id=29473236)
+- [All Sound Recordings Prior to 1923 Will Enter the US Public Domain in 2022](https://publicdomainreview.org/blog/2021/12/all-sound-recordings-prior-to-1923-will-enter-the-us-public-domain-in-2022/)
+- [Twitter and Quill: Quill is joining Twitter](https://quill.chat/updates/2021-12-07-quill-twitter/)
+- [Google Webfonts Helper – Self-Hosting Google Fonts](https://google-webfonts-helper.herokuapp.com/)
+- [Fighting TLS Fingerprinting with Node.js](https://httptoolkit.tech/blog/tls-fingerprinting-node-js/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
