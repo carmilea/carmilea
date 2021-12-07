@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [C++ in the Linux Kernel](https://www.threatstack.com/blog/c-in-the-linux-kernel)
+- [Runc/libcontainer: insecure handling of bind mount sources](https://bugs.chromium.org/p/project-zero/issues/detail?id=2241)
 - [SpotifyWrapped: Spotify Turned User Listening Stats to a Free Ad Campaign](https://www.businessbrief.xyz/p/spotifywrapped-how-spotify-turned)
 - [SuperTokens &lpar;YC S20&rpar; Is Hiring for devrel roles &lpar;remote&rpar;](https://angel.co/l/2wamZr)
 - [Advent of Code 2021 with PostgreSQL](https://github.com/mitchellh/advent-2021-sql)
-- [Elegant PCB Business Card Made with Inkscape, KiCad and Svg2Shenzen](https://github.com/Hanqaqa/PCB_Business_Card)
-- [Making Something Social Destroys the Truth of It](https://nav.al/social)
 <!-- BLOG-POST-LIST:END -->
 
 ---
