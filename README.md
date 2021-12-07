@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why doesn&#39;t YouTube have a competitor?](https://news.ycombinator.com/item?id=29473236)
-- [All Sound Recordings Prior to 1923 Will Enter the US Public Domain in 2022](https://publicdomainreview.org/blog/2021/12/all-sound-recordings-prior-to-1923-will-enter-the-us-public-domain-in-2022/)
-- [Twitter and Quill: Quill is joining Twitter](https://quill.chat/updates/2021-12-07-quill-twitter/)
-- [Google Webfonts Helper – Self-Hosting Google Fonts](https://google-webfonts-helper.herokuapp.com/)
-- [Fighting TLS Fingerprinting with Node.js](https://httptoolkit.tech/blog/tls-fingerprinting-node-js/)
+- [Self-proclaimed Bitcoin inventor largely prevails in $54B Bitcoin trial](https://www.reuters.com/article/us-crypto-currency-lawsuit-idUSKBN2IL25A)
+- [AWS Console is returning HTTP 500 errors](https://console.aws.amazon.com/console/home)
+- [A Submarine&#39;s Weakness: Its Software?](https://fixvms.com/)
+- [MikroTik RouterOS v7 stable released](https://mikrotik.com/download/changelogs#show-tab-tree_2-id-7cd31cf6820896d838535a73cafb15ca)
+- [AWS us-east-1 outage](https://us-east-1.console.aws.amazon.com/console/home)
 <!-- BLOG-POST-LIST:END -->
 
 ---
