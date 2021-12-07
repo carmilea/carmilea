@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Disrupting the Glupteba Operation](https://blog.google/threat-analysis-group/disrupting-glupteba-operation/)
+- [You Won&#39;t Be My Neighbor: Opposition to High Density Development](https://journals.sagepub.com/doi/abs/10.1177/10780874211065776?journalCode=uarb&)
+- [Over 200 newspapers now involved in quiet lawsuits vs. Google, Facebook](https://www.axios.com/1-local-newspapers-lawsuits-facebook-google-3c3dee3a-cce3-49ef-b0a2-7a98c2e15c91.html)
 - [Almonds &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/almonds/jobs/0RmV5Jg-full-stack-engineer)
 - [Advice for music startups: &#39;Discovery is not a viable product&#39;](https://musically.com/2021/12/02/herskowitz-advice-for-music-startups/)
-- [Cloudflare Images has a lot of issues](https://blog.klungo.no/2021/12/07/cloudflare-images-has-a-lot-of-issues/)
-- [AWS Console is returning HTTP 500 errors](https://console.aws.amazon.com/console/home)
-- [A Submarine&#39;s Weakness: Its Software?](https://fixvms.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
