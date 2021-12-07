@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Miniature 3456 LED Cube](https://willempennings.nl/miniature-3456-led-cube/)
+- [Ask HN: How to be my own genetic disease researcher for my partner?](https://news.ycombinator.com/item?id=29468831)
+- [Numerics applied to Casimir geometry generates intersection with Alcubierre warp](https://epjc.epj.org/articles/epjc/abs/2021/07/10052_2021_Article_9484/10052_2021_Article_9484.html)
 - [C++ in the Linux Kernel](https://www.threatstack.com/blog/c-in-the-linux-kernel)
 - [Runc/libcontainer: insecure handling of bind mount sources](https://bugs.chromium.org/p/project-zero/issues/detail?id=2241)
-- [SpotifyWrapped: Spotify Turned User Listening Stats to a Free Ad Campaign](https://www.businessbrief.xyz/p/spotifywrapped-how-spotify-turned)
-- [SuperTokens &lpar;YC S20&rpar; Is Hiring for devrel roles &lpar;remote&rpar;](https://angel.co/l/2wamZr)
-- [Advent of Code 2021 with PostgreSQL](https://github.com/mitchellh/advent-2021-sql)
 <!-- BLOG-POST-LIST:END -->
 
 ---
