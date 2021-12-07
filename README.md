@@ -54,8 +54,8 @@
 - [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://raycast.com/jobs)
 - [Are 14 people looking at that product?](https://blog.devgenius.io/are-14-people-currently-looking-at-this-product-e7fe8412f16b?gi=e7a96dc956cf)
 - [FAQs: Why we don’t have them &lpar;2013&rpar;](https://gds.blog.gov.uk/2013/07/25/faqs-why-we-dont-have-them/)
-- [Why your external monitor looks awful on an M1 Mac](https://www.theregister.com/2021/12/03/apple_m1_drivers/)
 - [Ask HN: Does anyone have a backup of Aaron Swartz&#39; site: theinfo.org?](https://news.ycombinator.com/item?id=29469671)
+- [Fact-Checking CSIRO’s Communications about the Trustworthy Systems Group](https://microkerneldude.org/2021/11/17/dishonest-and-contradictory-fact-checking-csiros-communications-about-the-trustworthy-systems-group/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
