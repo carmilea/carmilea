@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Disrupting the Glupteba Operation](https://blog.google/threat-analysis-group/disrupting-glupteba-operation/)
-- [You Won&#39;t Be My Neighbor: Opposition to High Density Development](https://journals.sagepub.com/doi/abs/10.1177/10780874211065776?journalCode=uarb&)
+- [Vectorizing Ragged Arrays](https://vladfeinberg.com/2021/01/07/vectorizing-ragged-arrays.html)
 - [Over 200 newspapers now involved in quiet lawsuits vs. Google, Facebook](https://www.axios.com/1-local-newspapers-lawsuits-facebook-google-3c3dee3a-cce3-49ef-b0a2-7a98c2e15c91.html)
+- [Show HN: RemoteLy – Receive curated remote jobs directly in your email](https://news.ycombinator.com/item?id=29475648)
 - [Almonds &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/almonds/jobs/0RmV5Jg-full-stack-engineer)
-- [Advice for music startups: &#39;Discovery is not a viable product&#39;](https://musically.com/2021/12/02/herskowitz-advice-for-music-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
