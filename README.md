@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Devcycle.com – Feature Management and Experimentation – is hiring full-stack devs](https://devcycle.com/company/careers)
-- [Show HN: P2P remote desktop – an alternative to TeamViewer / AnyDesk](https://github.com/miroslavpejic85/p2p)
-- [Show HN: git-history, for analyzing scraped data collected using Git and SQLite](https://simonwillison.net/2021/Dec/7/git-history/)
-- [Open Dynamic Robot Initiative &lpar;2020&rpar;](https://open-dynamic-robot-initiative.github.io/)
-- [New data: What developers look for in future job opportunities](https://stackoverflow.blog/2021/12/07/new-data-what-developers-look-for-in-future-job-opportunities/)
+- [An Open Letter to Mr. Mark Zuckerberg: A Call to Act on Mental Health Science](https://www.oii.ox.ac.uk/an-open-letter-to-mark-zuckerberg/)
+- [The RNA World Hypothesis](https://www.ncbi.nlm.nih.gov/books/NBK26876/)
+- [Amazon packages pile up after AWS outage spawns delivery havoc](https://www.detroitnews.com/story/business/2021/12/07/amazon-aws-cloud-users-report-issues-accessing-websites/6419088001/)
+- [An indoor cultivation method for black morel mushrooms is finally developed](https://thedanishmorelproject.com/)
+- [Kubernetes 1.23 Released](https://kubernetes.io/blog/2021/12/07/kubernetes-1-23-release-announcement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
