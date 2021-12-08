@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Q&amp;A with NASA’s Astronaut Candidates](https://payloadspace.com/a-qa-with-nasas-astronaut-candidates/)
+- [An Incan Nobleman Contested Spanish History](https://daily.jstor.org/how-an-incan-nobleman-contested-spanish-history/)
 - [Hacking Go compiler to add a new keyword](https://avi.im/blag/2021/rc-day-24/)
 - [Improving GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
 - [Banner &lpar;YC S19&rpar; &lpar;Prop-tech&rpar; Is Hiring remote full-stack engineer](https://www.ycombinator.com/companies/banner/jobs/smO6Mdo-full-stack-engineer)
-- [Human Image Synthesis from Reflected Radio Waves](https://www.unite.ai/human-image-synthesis-from-reflected-radio-waves/)
-- [‘We’re losing IQ points’: the lead poisoning crisis unfolding among US children](https://www.theguardian.com/us-news/2021/dec/08/lead-poisoning-crisis-us-children)
 <!-- BLOG-POST-LIST:END -->
 
 ---
