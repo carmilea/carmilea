@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gopher – A 280B parameter language model](https://deepmind.com/blog/article/language-modelling-at-scale)
-- [The Microsoft paradox: Contributing to cyber threats and monetizing the cure](https://fortune.com/2021/12/06/microsoft-paradox-cybersecurity-solarwinds-exchange-national/)
-- [Renault Zoe NCAP crash rating: zero stars [pdf]](https://cdn.euroncap.com/media/66976/euroncap-2021-renault-zoe-datasheet.pdf)
-- [Building a PS1 style retro 3D renderer](https://www.david-colson.com/2021/11/30/ps1-style-renderer.html)
-- [Do you ever avoid submitting something on HN so devs won&#39;t ruin it?](https://news.ycombinator.com/item?id=29485904)
+- [Hacking Go compiler to add a new keyword](https://avi.im/blag/2021/rc-day-24/)
+- [Improving GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
+- [Banner &lpar;YC S19&rpar; &lpar;Prop-tech&rpar; Is Hiring remote full-stack engineer](https://www.ycombinator.com/companies/banner/jobs/smO6Mdo-full-stack-engineer)
+- [Human Image Synthesis from Reflected Radio Waves](https://www.unite.ai/human-image-synthesis-from-reflected-radio-waves/)
+- [‘We’re losing IQ points’: the lead poisoning crisis unfolding among US children](https://www.theguardian.com/us-news/2021/dec/08/lead-poisoning-crisis-us-children)
 <!-- BLOG-POST-LIST:END -->
 
 ---
