@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Climate Change May Make Hurricanes Hit Sooner and Last Longer](https://www.enn.com/articles/69296-climate-change-may-make-hurricanes-hit-sooner-and-last-longer)
-- [Twitter Suspension](https://patriotone.substack.com/p/twitter-suspension)
-- [Show HN: I rebuilt the flash app Scale of the Universe in WebGL](https://htwins.net/scale2/)
-- [The $11B Webb telescope aims to probe the early universe](https://www.nature.com/articles/d41586-021-03620-1)
-- [Reduce Your Website’s Environmental Impact with a Carbon Budget](https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/)
+- [Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation](https://arxiv.org/abs/2109.01950)
+- [Ensmallen: A C++ Library For Efficient Numerical Optimization](http://ensmallen.org/docs.html)
+- [Web Push Notifications in WebKit](https://bugs.webkit.org/show_bug.cgi?id=182566)
+- [Why do antibiotics exist?](https://journals.asm.org/doi/10.1128/mBio.01966-21)
+- [Dyson loses fight for $198M compensation over EU energy labelling rules](https://www.reuters.com/business/dyson-loses-fight-198-mln-compensation-over-eu-energy-labelling-rules-2021-12-08/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
