@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram Introduces DRM](https://telegram.org/blog/protected-content-delete-by-date-and-more)
 - [The Serverless Shell](https://github.com/crucial-project/serverless-shell)
 - [Ask HN: Anyone else getting a 500 on their Google Calendars?](https://news.ycombinator.com/item?id=29482573)
 - [The U.S. Air Force Has Doubts About the F-35](https://nationalinterest.org/blog/reboot/us-air-force-has-doubts-about-f-35-197539)
-- [MicroStudio now supports 4 programming languages: microScript,Python,JS and Lua](https://microstudio.dev/community/news/microstudio-now-supports-4-programming-languages-microscript-python-javascript-and-lua/254/)
-- [Beginner&#39;s Guide to the Flow Notes Method](https://www.routine.co/post/flow-notes)
+- [MicroStudio now supports microScript, Python, JavaScript and Lua](https://microstudio.dev/community/news/microstudio-now-supports-4-programming-languages-microscript-python-javascript-and-lua/254/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
