@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Web-Based Vulkan GLSL Ray Tracing Emulator](https://www.gsn-lib.org/apps/raytracing/index.php)
+- [Fedora 36 Planning to Run Wayland by Default with Nvidia&#39;s Proprietary Driver](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-36-NVIDIA-Wayland)
 - [Lack of sunlight makes our cells store more fat](https://www.ualberta.ca/folio/2018/01/reduced-sunlight-may-contribute-to-winter-weight-gain.html)
 - [Release &lpar;YC W20&rpar; Is Hiring – Senior Back End Engineer](https://www.ycombinator.com/companies/release/jobs/Co0LgYqSQ-senior-fullstack-engineer-backend-focus-rails-react-aws-k8s)
 - [20 year study of global wealth demolishes the myth of ‘trickle-down’](https://www.businessinsider.com/how-bad-is-inequality-trickle-down-economics-thomas-piketty-economists-2021-12)
-- [Telegram Introduces DRM](https://telegram.org/blog/protected-content-delete-by-date-and-more)
-- [The Serverless Shell](https://github.com/crucial-project/serverless-shell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
