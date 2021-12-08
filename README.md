@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MicroStudio now supports 4 programming languages: microScript,Python,JS and Lua](https://microstudio.dev/community/news/microstudio-now-supports-4-programming-languages-microscript-python-javascript-and-lua/254/)
+- [Crypto lobbying is going ballistic](https://www.economist.com/finance-and-economics/2021/12/07/crypto-lobbying-is-going-ballistic)
 - [Beginner&#39;s Guide to the Flow Notes Method](https://www.routine.co/post/flow-notes)
 - [DeepMind&#39;s Player of Games, a general-purpose game algorithm](https://arxiv.org/abs/2112.03178)
 - [Portable and Interoperable Async Rust](https://www.ncameron.org/blog/portable-and-interoperable-async-rust/)
-- [Psychedelics alter metaphysical beliefs](https://www.nature.com/articles/s41598-021-01209-2)
-- [Open letter to Mark Zuckerberg: act now on child and adolescent mental health](https://www.oii.ox.ac.uk/an-open-letter-to-mark-zuckerberg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
