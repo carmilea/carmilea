@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CareRev &lpar;YC S16&rpar; is hiring iOS developers to unite people in healthcare](https://grnh.se/ad461ea33us)
+- [Latest Earthquakes](https://earthquake.usgs.gov/earthquakes/map/?extent=36.72127,-143.37158&extent=50.94458,-108.21533&sort=largest&listOnlyShown=true)
 - [Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation](https://arxiv.org/abs/2109.01950)
+- [Why U.S. Infrastructure Costs So Much](https://www.bloomberg.com/news/articles/2021-12-08/why-building-roads-and-transit-costs-more-in-the-u-s)
 - [Ensmallen: A C++ Library For Efficient Numerical Optimization](http://ensmallen.org/docs.html)
-- [Web Push Notifications in WebKit](https://bugs.webkit.org/show_bug.cgi?id=182566)
-- [Why do antibiotics exist?](https://journals.asm.org/doi/10.1128/mBio.01966-21)
-- [Dyson loses fight for $198M compensation over EU energy labelling rules](https://www.reuters.com/business/dyson-loses-fight-198-mln-compensation-over-eu-energy-labelling-rules-2021-12-08/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
