@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PowerShell Inventor Jeffrey Snover Interview](https://evrone.com/jeffrey-snover-interview)
-- [Rust Support in the Linux Kernel](https://lkml.org/lkml/2021/12/6/461)
-- [Queue Despair: Ordering and Poison Messages](https://www.openmymind.net/Queue-Despair-Ordering-And-Poison-Messages/)
-- [Server Hardware Super-Cycle 2022, Software Developers Outlook](https://unum.am/post/2021-12-07-supercycle/)
-- [Twitter suspends account tracking Maxwell trial without explanation](https://twitter.com/TrackerTrial)
+- [Gopher – A 280B parameter language model](https://deepmind.com/blog/article/language-modelling-at-scale)
+- [The Microsoft paradox: Contributing to cyber threats and monetizing the cure](https://fortune.com/2021/12/06/microsoft-paradox-cybersecurity-solarwinds-exchange-national/)
+- [Renault Zoe NCAP crash rating: zero stars [pdf]](https://cdn.euroncap.com/media/66976/euroncap-2021-renault-zoe-datasheet.pdf)
+- [Building a PS1 style retro 3D renderer](https://www.david-colson.com/2021/11/30/ps1-style-renderer.html)
+- [Do you ever avoid submitting something on HN so devs won&#39;t ruin it?](https://news.ycombinator.com/item?id=29485904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
