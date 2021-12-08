@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lack of sunlight makes our cells store more fat](https://www.ualberta.ca/folio/2018/01/reduced-sunlight-may-contribute-to-winter-weight-gain.html)
+- [Release &lpar;YC W20&rpar; Is Hiring – Senior Back End Engineer](https://www.ycombinator.com/companies/release/jobs/Co0LgYqSQ-senior-fullstack-engineer-backend-focus-rails-react-aws-k8s)
+- [20 year study of global wealth demolishes the myth of ‘trickle-down’](https://www.businessinsider.com/how-bad-is-inequality-trickle-down-economics-thomas-piketty-economists-2021-12)
 - [Telegram Introduces DRM](https://telegram.org/blog/protected-content-delete-by-date-and-more)
 - [The Serverless Shell](https://github.com/crucial-project/serverless-shell)
-- [Ask HN: Anyone else getting a 500 on their Google Calendars?](https://news.ycombinator.com/item?id=29482573)
-- [The U.S. Air Force Has Doubts About the F-35](https://nationalinterest.org/blog/reboot/us-air-force-has-doubts-about-f-35-197539)
-- [MicroStudio now supports microScript, Python, JavaScript and Lua](https://microstudio.dev/community/news/microstudio-now-supports-4-programming-languages-microscript-python-javascript-and-lua/254/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
