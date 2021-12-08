@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginner&#39;s Guide to the Flow Notes Method](https://www.routine.co/post/flow-notes)
 - [DeepMind&#39;s Player of Games, a general-purpose game algorithm](https://arxiv.org/abs/2112.03178)
+- [Portable and Interoperable Async Rust](https://www.ncameron.org/blog/portable-and-interoperable-async-rust/)
 - [Psychedelics alter metaphysical beliefs](https://www.nature.com/articles/s41598-021-01209-2)
 - [Open letter to Mark Zuckerberg: act now on child and adolescent mental health](https://www.oii.ox.ac.uk/an-open-letter-to-mark-zuckerberg/)
-- [The RNA World Hypothesis](https://www.ncbi.nlm.nih.gov/books/NBK26876/)
-- [Amazon packages pile up after AWS outage spawns delivery havoc](https://www.detroitnews.com/story/business/2021/12/07/amazon-aws-cloud-users-report-issues-accessing-websites/6419088001/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
