@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Q&amp;A with NASA’s Astronaut Candidates](https://payloadspace.com/a-qa-with-nasas-astronaut-candidates/)
-- [An Incan Nobleman Contested Spanish History](https://daily.jstor.org/how-an-incan-nobleman-contested-spanish-history/)
-- [Hacking Go compiler to add a new keyword](https://avi.im/blag/2021/rc-day-24/)
-- [Improving GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
-- [Banner &lpar;YC S19&rpar; &lpar;Prop-tech&rpar; Is Hiring remote full-stack engineer](https://www.ycombinator.com/companies/banner/jobs/smO6Mdo-full-stack-engineer)
+- [Climate Change May Make Hurricanes Hit Sooner and Last Longer](https://www.enn.com/articles/69296-climate-change-may-make-hurricanes-hit-sooner-and-last-longer)
+- [Twitter Suspension](https://patriotone.substack.com/p/twitter-suspension)
+- [Show HN: I rebuilt the flash app Scale of the Universe in WebGL](https://htwins.net/scale2/)
+- [The $11B Webb telescope aims to probe the early universe](https://www.nature.com/articles/d41586-021-03620-1)
+- [Reduce Your Website’s Environmental Impact with a Carbon Budget](https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
