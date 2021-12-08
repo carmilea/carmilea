@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pfizer and Biontech provide update on Omicron variant](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-provide-update-omicron-variant)
-- [Amazon’s search results are full of ads ‘unlawfully deceiving’ consumers](https://www.washingtonpost.com/technology/2021/12/08/amazon-search-results-ftc-complaint/)
-- [Web-Based Vulkan GLSL Ray Tracing Emulator](https://www.gsn-lib.org/apps/raytracing/index.php)
-- [Fedora 36 Planning to Run Wayland by Default with Nvidia&#39;s Proprietary Driver](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-36-NVIDIA-Wayland)
-- [Show HN: SyncedStore CRDT – build multiplayer collaborative apps for React / Vue](https://syncedstore.org/docs/)
+- [PowerShell Inventor Jeffrey Snover Interview](https://evrone.com/jeffrey-snover-interview)
+- [Rust Support in the Linux Kernel](https://lkml.org/lkml/2021/12/6/461)
+- [Queue Despair: Ordering and Poison Messages](https://www.openmymind.net/Queue-Despair-Ordering-And-Poison-Messages/)
+- [Server Hardware Super-Cycle 2022, Software Developers Outlook](https://unum.am/post/2021-12-07-supercycle/)
+- [Twitter suspends account tracking Maxwell trial without explanation](https://twitter.com/TrackerTrial)
 <!-- BLOG-POST-LIST:END -->
 
 ---
