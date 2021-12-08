@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The U.S. Air Force Has Doubts About the F-35](https://nationalinterest.org/blog/reboot/us-air-force-has-doubts-about-f-35-197539)
 - [MicroStudio now supports 4 programming languages: microScript,Python,JS and Lua](https://microstudio.dev/community/news/microstudio-now-supports-4-programming-languages-microscript-python-javascript-and-lua/254/)
 - [Crypto lobbying is going ballistic](https://www.economist.com/finance-and-economics/2021/12/07/crypto-lobbying-is-going-ballistic)
 - [Beginner&#39;s Guide to the Flow Notes Method](https://www.routine.co/post/flow-notes)
 - [DeepMind&#39;s Player of Games, a general-purpose game algorithm](https://arxiv.org/abs/2112.03178)
-- [Portable and Interoperable Async Rust](https://www.ncameron.org/blog/portable-and-interoperable-async-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
