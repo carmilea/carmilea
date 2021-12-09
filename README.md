@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Taktile &lpar;YC S20&rpar; Is Hiring Senior Front End Engineer &lpar;Remote in Europe&rpar;](https://www.ycombinator.com/companies/taktile/jobs/3zSNBYP-senior-frontend-developer-f-m-d)
 - [Dracula Theme: a dark theme for 227 different apps](https://draculatheme.com)
 - [Jam – Self-Hosted Clubhouse](https://github.com/jam-systems/jam)
 - [Monoio – A thread-per-core Rust async runtime with io_uring](https://github.com/bytedance/monoio)
 - [Does Georgism work? Is land a big deal?](https://astralcodexten.substack.com/p/does-georgism-work-is-land-really)
-- [Pixel prevented me from calling 911](https://old.reddit.com/r/GooglePixel/comments/r4xz1f/pixel_prevented_me_from_calling_911/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
