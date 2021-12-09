@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stack Graphs](https://github.blog/2021-12-09-introducing-stack-graphs/)
-- [Expanding Sourcegraph from an on-premise product into a cloud offering](https://about.sourcegraph.com/blog/expanding-sourcegraph-from-on-premise-to-saas/)
-- [Don&#39;t spend 6mins doing it by hand when you can spend 6h failing to automate it](https://twitter.com/camilaleniss/status/1370883721319026690)
-- [Synapticure &lpar;YC S20&rpar; Is Hiring an Engineering Manager for ALS Telehealth Co](https://news.ycombinator.com/item?id=29499863)
-- [“Free Pacer” Bill Advances Through Senate Judiciary Unanimously](https://fixthecourt.com/2021/12/free-pacer-bill-advances-senate-judiciary-unanimously/)
+- [Tile buyer Life360 reportedly sells precise user location data to nearly anyone](https://appleinsider.com/articles/21/12/06/tile-buyer-life360-reportedly-sells-precise-user-location-data-to-nearly-anyone)
+- [Cat meow sounds visualized with Auto-Correlation Function](https://soundshader.github.io/cats.html)
+- [Tailwind CSS v3](https://tailwindcss.com/)
+- [Tailwind CSS v3.0](https://tailwindcss.com/blog/tailwindcss-v3)
+- [Haystack 1.0 – open-source NLP framework to build NLProc back end applications](https://github.com/deepset-ai/haystack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
