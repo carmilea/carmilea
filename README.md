@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tile buyer Life360 reportedly sells precise user location data to nearly anyone](https://appleinsider.com/articles/21/12/06/tile-buyer-life360-reportedly-sells-precise-user-location-data-to-nearly-anyone)
-- [Cat meow sounds visualized with Auto-Correlation Function](https://soundshader.github.io/cats.html)
-- [Tailwind CSS v3](https://tailwindcss.com/)
-- [Tailwind CSS v3.0](https://tailwindcss.com/blog/tailwindcss-v3)
-- [Haystack 1.0 – open-source NLP framework to build NLProc back end applications](https://github.com/deepset-ai/haystack)
+- [IPv4 Waiting List](https://www.ripe.net/manage-ips-and-asns/ipv4/ipv4-waiting-list)
+- [A molten salt storage solution using sodium hydroxide](https://sifted.eu/articles/salt-energy-storage-seaborg-hyme/)
+- [Toxicity Dataset](https://github.com/surge-ai/toxicity)
+- [Using deep learning to predict the olfactory properties of molecules &lpar;2019&rpar;](https://ai.googleblog.com/2019/10/learning-to-smell-using-deep-learning.html)
+- [Replit.com &lpar;YC W18&rpar; raises $80m Series B](https://blog.replit.com/b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
