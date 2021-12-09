@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 Is Not Decentralization](https://invisibleup.com/articles/38/)
+- [Ask HN: Does the Easel programming language still exist?](https://news.ycombinator.com/item?id=29492255)
 - [Writing a register based VM in less than 125 lines of C code](https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c)
 - [An update on 0day CVE-2021-43798: Grafana directory traversal](https://grafana.com/blog/2021/12/08/an-update-on-0day-cve-2021-43798-grafana-directory-traversal/)
 - [Why I stopped releasing EasyOS as an ISO file](https://bkhome.org/news/202112/why-iso-was-retired.html)
-- [Apple Open Source](https://opensource.apple.com/)
-- [CareRev &lpar;YC S16&rpar; is hiring iOS developers to unite people in healthcare](https://grnh.se/ad461ea33us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
