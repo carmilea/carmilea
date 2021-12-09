@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Synapticure &lpar;YC S20&rpar; Is Hiring an Engineering Manager for ALS Telehealth Co](https://news.ycombinator.com/item?id=29499863)
+- [“Free Pacer” Bill Advances Through Senate Judiciary Unanimously](https://fixthecourt.com/2021/12/free-pacer-bill-advances-senate-judiciary-unanimously/)
+- [America Is Running on Fumes](https://www.theatlantic.com/ideas/archive/2021/12/america-innovation-film-science-business/620858/)
 - [Parallel Logic Programming: A Sequel](https://arxiv.org/abs/2111.11218)
 - [StrongPity variant hides behind Notepad++ installation](https://blog.minerva-labs.com/a-new-strongpity-variant-hides-behind-notepad-installation)
-- [New Zealand plans to make it illegal for kids to buy cigarettes – for life](https://www.cbc.ca/news/world/new-zealand-smoking-illegal-for-kids-1.6279023)
-- [The final, anguished years of a warrior-scholar who exposed torture by US troops](https://www.npr.org/2021/12/02/1060884859/the-final-anguished-years-of-a-warrior-scholar-who-exposed-torture-by-u-s-troops)
-- [FBI may shut down police use-of-force database due to lack of police involvement](https://www.washingtonpost.com/crime-law/2021/12/09/fbi-police-shooting-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
