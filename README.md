@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IPv4 Waiting List](https://www.ripe.net/manage-ips-and-asns/ipv4/ipv4-waiting-list)
-- [A molten salt storage solution using sodium hydroxide](https://sifted.eu/articles/salt-energy-storage-seaborg-hyme/)
-- [Toxicity Dataset](https://github.com/surge-ai/toxicity)
-- [Using deep learning to predict the olfactory properties of molecules &lpar;2019&rpar;](https://ai.googleblog.com/2019/10/learning-to-smell-using-deep-learning.html)
-- [Replit.com &lpar;YC W18&rpar; raises $80m Series B](https://blog.replit.com/b)
+- [Replit &lpar;YC W18&rpar; Is Hiring to Bring the Next Billion Software Creators Online](https://replit.com/site/careers)
+- [PDM: A Modern Python Package Manager](https://pdm.fming.dev/)
+- [Chrome Users Beware: Manifest V3 Is Deceitful and Threatening](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
+- [Ask HN: Are new ThinkPad still worthy?](https://news.ycombinator.com/item?id=29502410)
+- [Radical Polish books to add to your reading list](https://www.calvertjournal.com/features/show/12858/queer-feminist-sci-fi-books-polish-literature)
 <!-- BLOG-POST-LIST:END -->
 
 ---
