@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Taktile &lpar;YC S20&rpar; Is Hiring Senior Front End Engineer &lpar;Remote in Europe&rpar;](https://www.ycombinator.com/companies/taktile/jobs/3zSNBYP-senior-frontend-developer-f-m-d)
+- [Two lines of CSS that will improve HN on mobile &lpar;IMO&rpar;](https://tdinh.notion.site/The-2-lines-of-CSS-that-will-improve-HN-on-mobile-cc7521e476ae487180e94e8dd4275c80)
 - [Dracula Theme: a dark theme for 227 different apps](https://draculatheme.com)
 - [Jam – Self-Hosted Clubhouse](https://github.com/jam-systems/jam)
 - [Monoio – A thread-per-core Rust async runtime with io_uring](https://github.com/bytedance/monoio)
-- [Does Georgism work? Is land a big deal?](https://astralcodexten.substack.com/p/does-georgism-work-is-land-really)
 <!-- BLOG-POST-LIST:END -->
 
 ---
