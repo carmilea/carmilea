@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon fined 1.1B euro in Italy for abuse of market dominance](https://www.reuters.com/technology/italys-antitrust-fines-amazon-113-bln-euros-alleged-abuse-market-dominance-2021-12-09/)
+- [Artificial Intelligence in the Cockpit](https://daedalean.ai/tpost/edft5l2a31-artificial-intelligence-in-the-cockpit-s)
+- [Italy fines Amazon record $1.3B for abuse of market dominance](https://www.reuters.com/technology/italys-antitrust-fines-amazon-113-bln-euros-alleged-abuse-market-dominance-2021-12-09/)
 - [Taktile &lpar;YC S20&rpar; Is Hiring Senior Front End Engineer &lpar;Remote in Europe&rpar;](https://www.ycombinator.com/companies/taktile/jobs/3zSNBYP-senior-frontend-developer-f-m-d)
 - [Two lines of CSS that will improve HN on mobile &lpar;IMO&rpar;](https://tdinh.notion.site/The-2-lines-of-CSS-that-will-improve-HN-on-mobile-cc7521e476ae487180e94e8dd4275c80)
-- [What I told the students of Princeton](https://abigailshrier.substack.com/p/what-i-told-the-students-of-princeton)
-- [Dracula Theme: a dark theme for 227 different apps](https://draculatheme.com)
+- [Dracula Theme – A dark theme for many different apps](https://draculatheme.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
