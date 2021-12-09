@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp Launches Instant Cryptocurrency Payments in the US](https://www.macrumors.com/2021/12/09/whatsapp-cryptocurrency-payments-us/)
 - [The Muse &lpar;YC W12&rpar; Is Hiring Senior Engineers](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer-d0ced3)
 - [Evergrande has defaulted on its debt](https://www.cnn.com/2021/12/09/investing/evergrande-default-fitch-intl-hnk/index.html)
 - [Artificial Intelligence in the Cockpit](https://daedalean.ai/tpost/edft5l2a31-artificial-intelligence-in-the-cockpit-s)
 - [Italy fines Amazon record $1.3B for abuse of market dominance](https://www.reuters.com/technology/italys-antitrust-fines-amazon-113-bln-euros-alleged-abuse-market-dominance-2021-12-09/)
-- [Number of journalists in jail reaches global high](https://cpj.org/reports/2021/12/number-of-journalists-behind-bars-reaches-global-high/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
