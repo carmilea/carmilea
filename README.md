@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dracula Theme: a dark theme for 227 different apps](https://draculatheme.com)
+- [Jam – Self-Hosted Clubhouse](https://github.com/jam-systems/jam)
 - [Monoio – A thread-per-core Rust async runtime with io_uring](https://github.com/bytedance/monoio)
 - [Does Georgism work? Is land a big deal?](https://astralcodexten.substack.com/p/does-georgism-work-is-land-really)
 - [Pixel prevented me from calling 911](https://old.reddit.com/r/GooglePixel/comments/r4xz1f/pixel_prevented_me_from_calling_911/)
-- [Web3 Is Not Decentralization](https://invisibleup.com/articles/38/)
-- [Ask HN: Does the Easel programming language still exist?](https://news.ycombinator.com/item?id=29492255)
 <!-- BLOG-POST-LIST:END -->
 
 ---
