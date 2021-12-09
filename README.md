@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Stack Graphs](https://github.blog/2021-12-09-introducing-stack-graphs/)
+- [Expanding Sourcegraph from an on-premise product into a cloud offering](https://about.sourcegraph.com/blog/expanding-sourcegraph-from-on-premise-to-saas/)
+- [Don&#39;t spend 6mins doing it by hand when you can spend 6h failing to automate it](https://twitter.com/camilaleniss/status/1370883721319026690)
 - [Synapticure &lpar;YC S20&rpar; Is Hiring an Engineering Manager for ALS Telehealth Co](https://news.ycombinator.com/item?id=29499863)
 - [“Free Pacer” Bill Advances Through Senate Judiciary Unanimously](https://fixthecourt.com/2021/12/free-pacer-bill-advances-senate-judiciary-unanimously/)
-- [America Is Running on Fumes](https://www.theatlantic.com/ideas/archive/2021/12/america-innovation-film-science-business/620858/)
-- [Parallel Logic Programming: A Sequel](https://arxiv.org/abs/2111.11218)
-- [StrongPity variant hides behind Notepad++ installation](https://blog.minerva-labs.com/a-new-strongpity-variant-hides-behind-notepad-installation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
