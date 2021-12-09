@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Full-Text Data in SingleStore &lpar;Part 2 of 3, Match and Highlight Functions&rpar;](https://www.youtube.com/watch?v=xL0dMFlkk5s)
+- [Full-Text Data in SingleStore &lpar;Part 1 of 3, Full Text Overview&rpar;](https://www.youtube.com/watch?v=mdM11SS82Vo)
 - [Sana Ahmed | SingleStore&#39;s Fall 2021 Announcements](https://www.youtube.com/watch?v=7_YDmeTjO44)
-- [Getting Started with SingleStore w/ Joe Karlsson](https://www.youtube.com/watch?v=YRUGd6UaYyA)
+- [Getting Started with SingleStore w/ Joe Karlsson [Live stream]](https://www.youtube.com/watch?v=YRUGd6UaYyA)
 - [Scaling Data-Intensive Applications with SingleStore and Vectorized.io](https://www.youtube.com/watch?v=EDQjy_BMSyQ)
-- [SingleStore Raises $80M in Series F Funding](https://www.youtube.com/watch?v=gCXF_2YBzcM)
-- [Getting Started with SingleStore](https://www.youtube.com/watch?v=bIFrJJkUftA)
 <!-- YOUTUBE:END -->
 
 
