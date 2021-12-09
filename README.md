@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp Launches Instant Cryptocurrency Payments in the US](https://www.macrumors.com/2021/12/09/whatsapp-cryptocurrency-payments-us/)
-- [The Muse &lpar;YC W12&rpar; Is Hiring Senior Engineers](https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer-d0ced3)
-- [Evergrande has defaulted on its debt](https://www.cnn.com/2021/12/09/investing/evergrande-default-fitch-intl-hnk/index.html)
-- [Artificial Intelligence in the Cockpit](https://daedalean.ai/tpost/edft5l2a31-artificial-intelligence-in-the-cockpit-s)
-- [Italy fines Amazon record $1.3B for abuse of market dominance](https://www.reuters.com/technology/italys-antitrust-fines-amazon-113-bln-euros-alleged-abuse-market-dominance-2021-12-09/)
+- [Car, gas industry knew about health risks of lead, sold it for 100 years anyway](https://theconversation.com/a-century-of-tragedy-how-the-car-and-gas-industry-knew-about-the-health-risks-of-leaded-fuel-but-sold-it-for-100-years-anyway-173395)
+- [Tell HN: You can&#39;t add “no ads” in your Play Store app&#39;s title](https://news.ycombinator.com/item?id=29497680)
+- [The CIA and the Media &lpar;1977&rpar;](http://www.carlbernstein.com/magazine_cia_and_media.php)
+- [Masayuki Uemura, Architect of the NES and SNES, Has Passed Away](https://www.thegamer.com/masayuki-uemura-creator-nes-snes-dies/)
+- [The biggest crypto lending company is a ponzi scheme](https://rorodi.substack.com/p/the-biggest-crypto-lending-company)
 <!-- BLOG-POST-LIST:END -->
 
 ---
