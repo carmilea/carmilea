@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Afterlife of Georges Braque](https://hyperallergic.com/697627/the-neglected-afterlife-of-the-great-georges-braque/)
-- [‘Tipping point’ makes partisan polarization irreversible in research model](https://news.cornell.edu/stories/2021/12/tipping-point-makes-partisan-polarization-irreversible)
 - [Defund the Police meets the crime wave](https://bariweiss.substack.com/p/when-the-crime-wave-hits-your-family)
 - [Faster Gitlab CI/CD pipelines](https://blog.nimbleways.com/let-s-make-faster-gitlab-ci-cd-pipelines/)
 - [Replit &lpar;YC W18&rpar; Is Hiring](https://replit.com/site/careers)
+- [PDM: A Modern Python Package Manager](https://pdm.fming.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
