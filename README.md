@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Time Series Data in SingleStore &lpar;Part 4 of 4, TIME_BUCKET Function&rpar;](https://www.youtube.com/watch?v=dGYGIPZlwYo)
+- [Time Series Data in SingleStore &lpar;Part 3 of 4, FIRST and LAST Functions&rpar;](https://www.youtube.com/watch?v=Cv5yRWBBPwk)
 - [Time Series Data in SingleStore &lpar;Part 2 of 4, Creating a Time Series Table&rpar;](https://www.youtube.com/watch?v=3h0UrNdypKg)
 - [Time Series Data in SingleStore &lpar;Part 1 of 4, Introduction to Time Series in SingleStore&rpar;](https://www.youtube.com/watch?v=mQnOKZoj3m8)
 - [Full-Text Data in SingleStore &lpar;Part 3 of 3, Full-Text Operators&rpar;](https://www.youtube.com/watch?v=RZHkLrFTbGI)
-- [Full-Text Data in SingleStore &lpar;Part 2 of 3, Match and Highlight Functions&rpar;](https://www.youtube.com/watch?v=xL0dMFlkk5s)
-- [Full-Text Data in SingleStore &lpar;Part 1 of 3, Full Text Overview&rpar;](https://www.youtube.com/watch?v=mdM11SS82Vo)
 <!-- YOUTUBE:END -->
 
 
