@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepMind’s AI helps untangle the mathematics of knots](https://www.nature.com/articles/d41586-021-03593-1)
+- [Imagor is a fast, Docker-ready image processing server written in Go](https://github.com/cshum/imagor)
 - [Oracle Giving Away 4-Core 24 GB Memory Ampere Instances](https://www.servethehome.com/oracle-cloud-giving-away-ampere-arm-a1-instances-always-free/)
-- [Ray Tracing with POV-Ray: 25 scenes in 25 days &lpar;2013&rpar;](https://github.com/spcask/pov-ray-tracing)
-- [C64 OS: make a Commodore 64 feel fast and useful](http://c64os.com/)
-- [Ask HN: What Happened to Borland?](https://news.ycombinator.com/item?id=29512963)
-- [Let&#39;s remove Quaternions from every 3D Engine &lpar;2018&rpar;](https://marctenbosch.com/quaternions/)
+- [Interview with Anders Hejlsberg on Delphi &lpar;1995&rpar;](https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html)
+- [Show HN: Decentralized, Mutable, Serverless Torrent Swarm Websites](https://github.com/publiusfederalist/federalist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
