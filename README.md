@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Turning a MacBook into a Touchscreen with $1 of Hardware](https://www.anishathalye.com/2018/04/03/macbook-touchscreen/)
 - [Algolia &lpar;YC W14&rpar; is hiring to reinvent the search experience](https://www.algolia.com/careers/?departments=Engineering)
+- [With Stuart Russell, UCBerkeley Kavli Centers on Ethics, Engagement in Science](https://news.berkeley.edu/2021/12/09/new-kavli-center-at-uc-berkeley-to-foster-ethics-engagement-in-science/)
 - [Is Web3... anything?](https://www.chris-granger.com/2021/12/09/is-web3-anything/)
-- [More than half of high-impact cancer lab studies could not be replicated](https://www.science.org/content/article/more-half-high-impact-cancer-lab-studies-could-not-be-replicated-controversial-analysis)
 - [Scala at scale at Databricks](https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html)
-- [Defensive CSS](https://ishadeed.com/article/defensive-css/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
