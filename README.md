@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [5G obsoletes 3G? forced obsolesence for profit?](https://www.fcc.gov/consumers/guides/plan-ahead-phase-out-3g-cellular-networks-and-service)
+- [New FDA-approved eye drops could replace reading glasses for millions](https://www.cbsnews.com/news/vuity-eye-drops-fda-approved-blurred-vision-presbyopia/#app)
 - [Jupiter &lpar;YC S19&rpar; Is Hiring a Senior Front End Engineer](https://www.notion.so/jupiterhome/Welcome-to-Jupiter-bebe2a3a69e348f995dbd1e7b89bcba8?p=694792097eb843d096a5aee95a67bb18)
+- [Higher Kinded Types in Rust](https://hugopeters.me/posts/14/)
 - [Julian Assange can be extradited to the US, court rules](https://www.bbc.com/news/uk-59608641)
-- [The Matrix Awakens: Unreal Engine 5 Techdemo [video]](https://www.youtube.com/watch?v=WU0gvPcc3jQ)
-- [Turning a MacBook into a Touchscreen with $1 of Hardware &lpar;2018&rpar;](https://www.anishathalye.com/2018/04/03/macbook-touchscreen/)
-- [With Stuart Russell, UCBerkeley Kavli Centers on Ethics, Engagement in Science](https://news.berkeley.edu/2021/12/09/new-kavli-center-at-uc-berkeley-to-foster-ethics-engagement-in-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
