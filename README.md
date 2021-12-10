@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Where are you finding freelance/fractional work?](https://news.ycombinator.com/item?id=29505524)
+- [Scala at Scale at Databricks](https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html)
+- [RCE 0-day exploit found in log4j, a popular Java logging package](https://www.lunasec.io/docs/blog/log4j-zero-day/)
+- [Dr. Strangelove&#39;s &#39;Doomsday Machine&#39;: It&#39;s Real](https://www.npr.org/templates/story/story.php?storyId=113242681)
 - [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – Integrations &lpar;Remote&rpar;](https://etleap.com/jobs/#software-engineer-integrations)
-- [Defensive CSS](https://ishadeed.com/article/defensive-css/)
-- [Log4j RCE Found](https://github.com/apache/logging-log4j2/pull/608)
-- [How Do You Fix a Stroad](https://www.strongtowns.org/journal/2021/12/2/how-do-you-actually-fix-a-stroad)
-- [Optimizing Your Wife](https://www.mathpages.com/home/kmath018/kmath018.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
