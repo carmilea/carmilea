@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Algolia &lpar;YC W14&rpar; is hiring to reinvent the search experience](https://www.algolia.com/careers/?departments=Engineering)
-- [With Stuart Russell, UCBerkeley Kavli Centers on Ethics, Engagement in Science](https://news.berkeley.edu/2021/12/09/new-kavli-center-at-uc-berkeley-to-foster-ethics-engagement-in-science/)
 - [Is Web3... anything?](https://www.chris-granger.com/2021/12/09/is-web3-anything/)
-- [Richard Feynman – Session IV &lpar;1966&rpar;](https://www.aip.org/history-programs/niels-bohr-library/oral-histories/5020-4)
 - [More than half of high-impact cancer lab studies could not be replicated](https://www.science.org/content/article/more-half-high-impact-cancer-lab-studies-could-not-be-replicated-controversial-analysis)
+- [Scala at scale at Databricks](https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html)
+- [Defensive CSS](https://ishadeed.com/article/defensive-css/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
