@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Web3... anything?](https://www.chris-granger.com/2021/12/09/is-web3-anything/)
+- [Richard Feynman – Session IV &lpar;1966&rpar;](https://www.aip.org/history-programs/niels-bohr-library/oral-histories/5020-4)
 - [More than half of high-impact cancer lab studies could not be replicated](https://www.science.org/content/article/more-half-high-impact-cancer-lab-studies-could-not-be-replicated-controversial-analysis)
 - [Scala at scale at Databricks](https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer – Integrations &lpar;Remote&rpar;](https://etleap.com/jobs/#software-engineer-integrations)
-- [Defensive CSS](https://ishadeed.com/article/defensive-css/)
-- [Log4j RCE Found](https://www.lunasec.io/docs/blog/log4j-zero-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
