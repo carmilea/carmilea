@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Where are you finding freelance/fractional work?](https://news.ycombinator.com/item?id=29505524)
-- [Scala at Scale at Databricks](https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html)
-- [RCE 0-day exploit found in log4j, a popular Java logging package](https://www.lunasec.io/docs/blog/log4j-zero-day/)
-- [Dr. Strangelove&#39;s &#39;Doomsday Machine&#39;: It&#39;s Real](https://www.npr.org/templates/story/story.php?storyId=113242681)
-- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – Integrations &lpar;Remote&rpar;](https://etleap.com/jobs/#software-engineer-integrations)
+- [More than half of high-impact cancer lab studies could not be replicated](https://www.science.org/content/article/more-half-high-impact-cancer-lab-studies-could-not-be-replicated-controversial-analysis)
+- [Scala at scale at Databricks](https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html)
+- [Dr. Strangelove&#39;s &#39;Doomsday Machine&#39;: It&#39;s real &lpar;2009&rpar;](https://www.npr.org/templates/story/story.php?storyId=113242681)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer – Integrations &lpar;Remote&rpar;](https://etleap.com/jobs/#software-engineer-integrations)
+- [Defensive CSS](https://ishadeed.com/article/defensive-css/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
