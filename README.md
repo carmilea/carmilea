@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning a MacBook into a Touchscreen with $1 of Hardware](https://www.anishathalye.com/2018/04/03/macbook-touchscreen/)
+- [Turning a MacBook into a Touchscreen with $1 of Hardware &lpar;2018&rpar;](https://www.anishathalye.com/2018/04/03/macbook-touchscreen/)
 - [Algolia &lpar;YC W14&rpar; is hiring to reinvent the search experience](https://www.algolia.com/careers/?departments=Engineering)
 - [With Stuart Russell, UCBerkeley Kavli Centers on Ethics, Engagement in Science](https://news.berkeley.edu/2021/12/09/new-kavli-center-at-uc-berkeley-to-foster-ethics-engagement-in-science/)
 - [Is Web3... anything?](https://www.chris-granger.com/2021/12/09/is-web3-anything/)
