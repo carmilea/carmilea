@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kropotkin escapes from prison](https://crimethinc.com/2021/12/09/june-30-1876-peter-kropotkin-escapes-from-prison-a-tale-of-derring-do-on-the-occasion-of-his-birthday)
+- [An 8-bit minicomputer with a fully custom architecture](https://github.com/jdah/jdh-8)
+- [Sleep technique used by Salvador Dalí works](https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot)
+- [0-Day Vulnerability on Log4j](https://blog.sonatype.com/a-new-0-day-log4j-vulnerability-discovered-in-the-wild)
 - [Skio is hiring founding engineers &lpar;$150-300k, lots of equity&rpar;](https://skio.com/careers)
-- [Better, cheaper, more abundant random numbers](https://www.economist.com/science-and-technology/how-to-generate-better-cheaper-more-abundant-random-numbers/21806558)
-- [Jumping the Air Gap: 15 Years of Nation-State Effort [pdf]](https://www.welivesecurity.com/wp-content/uploads/2021/12/eset_jumping_the_air_gap_wp.pdf)
-- [Yamaha DX7 chip reverse-engineering, part 4: how algorithms are implemented](http://www.righto.com/2021/12/yamaha-dx7-chip-reverse-engineering.html)
-- [Insects are more sensitive than they seem](https://www.bbc.com/future/article/20211126-why-insects-are-more-sensitive-than-they-seem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
