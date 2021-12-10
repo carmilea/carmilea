@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle Giving Away 4-Core 24 GB Memory Ampere Instances](https://www.servethehome.com/oracle-cloud-giving-away-ampere-arm-a1-instances-always-free/)
+- [Ray Tracing with POV-Ray: 25 scenes in 25 days &lpar;2013&rpar;](https://github.com/spcask/pov-ray-tracing)
+- [C64 OS: make a Commodore 64 feel fast and useful](http://c64os.com/)
 - [Ask HN: What Happened to Borland?](https://news.ycombinator.com/item?id=29512963)
 - [Let&#39;s remove Quaternions from every 3D Engine &lpar;2018&rpar;](https://marctenbosch.com/quaternions/)
-- [Fella Health &lpar;YC W20/S21&rpar; hiring founding roles to fight men&#39;s obesity &lpar;Remote&rpar;](https://jobs.ashbyhq.com/Fella?utm_source=B699OXKw5Q)
-- [Ask HN: What things has tech made worse in your life?](https://news.ycombinator.com/item?id=29511761)
-- [An Oil Spill Helped One Billionaire Avoid Paying Income Tax for 14 Years](https://www.propublica.org/article/a-massive-oil-spill-helped-one-billionaire-avoid-paying-income-tax-for-14-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
