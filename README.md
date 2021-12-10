@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Greece&#39;s Mount Athos, No Women Allowed](https://www.cntraveler.com/stories/2016-04-18/on-greece-mount-athos-no-women-allowed)
-- [Quaternions](https://liorsinai.github.io/mathematics/2021/11/05/quaternion-1-intro.html)
-- [SARS-CoV-2 infects human adipose tissue and elicits an inflammatory response](https://www.biorxiv.org/content/10.1101/2021.10.24.465626v1)
-- [A key inflation measure rose to a 39-year high last month](http://lite.cnn.com/en/article/h_28a127c8613541c21c31899bb26a6e09)
-- [EU Commission to open source software](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6649)
+- [Advanced NLP with spaCy v3](https://course.spacy.io/en/)
+- [How do you solve a problem like misinformation?](https://www.science.org/doi/10.1126/sciadv.abn0481)
+- [Freesound: Repository of more than 500k CC licensed sounds and effects samples](https://freesound.org/)
+- [Code to flood Kellogg with bogus job applications after strikers sacked](https://www.businessinsider.com/tiktoker-wrote-code-spam-kellogg-strike-busting-job-ad-site-2021-12)
+- [NCC Group’s Cryptopals Guided Tour](https://research.nccgroup.com/2021/12/10/announcing-ncc-groups-cryptopals-guided-tour/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
