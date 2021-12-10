@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On Greece&#39;s Mount Athos, No Women Allowed](https://www.cntraveler.com/stories/2016-04-18/on-greece-mount-athos-no-women-allowed)
+- [Quaternions](https://liorsinai.github.io/mathematics/2021/11/05/quaternion-1-intro.html)
+- [SARS-CoV-2 infects human adipose tissue and elicits an inflammatory response](https://www.biorxiv.org/content/10.1101/2021.10.24.465626v1)
+- [A key inflation measure rose to a 39-year high last month](http://lite.cnn.com/en/article/h_28a127c8613541c21c31899bb26a6e09)
 - [EU Commission to open source software](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6649)
-- [Ask HN: Where do you find weird and wonderful future tech nowadays?](https://news.ycombinator.com/item?id=29509694)
-- [AWS down again?](https://aws.amazon.com)
-- [Causal Information Affects Decisions](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-020-0206-z)
-- [Plan Ahead for Phase Out of 3G Cellular Networks and Service](https://www.fcc.gov/consumers/guides/plan-ahead-phase-out-3g-cellular-networks-and-service)
 <!-- BLOG-POST-LIST:END -->
 
 ---
