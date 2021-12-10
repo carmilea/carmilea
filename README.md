@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [5G obsoletes 3G? forced obsolesence for profit?](https://www.fcc.gov/consumers/guides/plan-ahead-phase-out-3g-cellular-networks-and-service)
-- [New FDA-approved eye drops could replace reading glasses for millions](https://www.cbsnews.com/news/vuity-eye-drops-fda-approved-blurred-vision-presbyopia/#app)
-- [Jupiter &lpar;YC S19&rpar; Is Hiring a Senior Front End Engineer](https://www.notion.so/jupiterhome/Welcome-to-Jupiter-bebe2a3a69e348f995dbd1e7b89bcba8?p=694792097eb843d096a5aee95a67bb18)
-- [Higher Kinded Types in Rust](https://hugopeters.me/posts/14/)
-- [Julian Assange can be extradited to the US, court rules](https://www.bbc.com/news/uk-59608641)
+- [EU Commission to open source software](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6649)
+- [Ask HN: Where do you find weird and wonderful future tech nowadays?](https://news.ycombinator.com/item?id=29509694)
+- [AWS down again?](https://aws.amazon.com)
+- [Causal Information Affects Decisions](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-020-0206-z)
+- [Plan Ahead for Phase Out of 3G Cellular Networks and Service](https://www.fcc.gov/consumers/guides/plan-ahead-phase-out-3g-cellular-networks-and-service)
 <!-- BLOG-POST-LIST:END -->
 
 ---
