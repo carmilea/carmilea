@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepMind’s AI helps untangle the mathematics of knots](https://www.nature.com/articles/d41586-021-03593-1)
-- [Imagor is a fast, Docker-ready image processing server written in Go](https://github.com/cshum/imagor)
-- [Oracle Giving Away 4-Core 24 GB Memory Ampere Instances](https://www.servethehome.com/oracle-cloud-giving-away-ampere-arm-a1-instances-always-free/)
-- [Interview with Anders Hejlsberg on Delphi &lpar;1995&rpar;](https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html)
-- [Show HN: Decentralized, Mutable, Serverless Torrent Swarm Websites](https://github.com/publiusfederalist/federalist)
+- [Skio is hiring founding engineers &lpar;$150-300k, lots of equity&rpar;](https://skio.com/careers)
+- [Better, cheaper, more abundant random numbers](https://www.economist.com/science-and-technology/how-to-generate-better-cheaper-more-abundant-random-numbers/21806558)
+- [Jumping the Air Gap: 15 Years of Nation-State Effort [pdf]](https://www.welivesecurity.com/wp-content/uploads/2021/12/eset_jumping_the_air_gap_wp.pdf)
+- [Yamaha DX7 chip reverse-engineering, part 4: how algorithms are implemented](http://www.righto.com/2021/12/yamaha-dx7-chip-reverse-engineering.html)
+- [Insects are more sensitive than they seem](https://www.bbc.com/future/article/20211126-why-insects-are-more-sensitive-than-they-seem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
