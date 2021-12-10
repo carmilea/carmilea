@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [More than half of high-impact cancer lab studies could not be replicated](https://www.science.org/content/article/more-half-high-impact-cancer-lab-studies-could-not-be-replicated-controversial-analysis)
 - [Scala at scale at Databricks](https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html)
-- [Dr. Strangelove&#39;s &#39;Doomsday Machine&#39;: It&#39;s real &lpar;2009&rpar;](https://www.npr.org/templates/story/story.php?storyId=113242681)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer – Integrations &lpar;Remote&rpar;](https://etleap.com/jobs/#software-engineer-integrations)
 - [Defensive CSS](https://ishadeed.com/article/defensive-css/)
+- [Log4j RCE Found](https://www.lunasec.io/docs/blog/log4j-zero-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
