@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Afterlife of Georges Braque](https://hyperallergic.com/697627/the-neglected-afterlife-of-the-great-georges-braque/)
-- [Defund the Police meets the crime wave](https://bariweiss.substack.com/p/when-the-crime-wave-hits-your-family)
-- [Faster Gitlab CI/CD pipelines](https://blog.nimbleways.com/let-s-make-faster-gitlab-ci-cd-pipelines/)
-- [Replit &lpar;YC W18&rpar; Is Hiring](https://replit.com/site/careers)
-- [PDM: A Modern Python Package Manager](https://pdm.fming.dev/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – Integrations &lpar;Remote&rpar;](https://etleap.com/jobs/#software-engineer-integrations)
+- [Defensive CSS](https://ishadeed.com/article/defensive-css/)
+- [Log4j RCE Found](https://github.com/apache/logging-log4j2/pull/608)
+- [How Do You Fix a Stroad](https://www.strongtowns.org/journal/2021/12/2/how-do-you-actually-fix-a-stroad)
+- [Optimizing Your Wife](https://www.mathpages.com/home/kmath018/kmath018.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
