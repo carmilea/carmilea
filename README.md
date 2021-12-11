@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
+- [Carolina Gold, the Best Rice You&#39;ve Never Tasted &lpar;2019&rpar;](https://www.seriouseats.com/carolina-gold-heirloom-rice-anson-mills)
+- [How to Train Your Decision-Making AIs](https://thegradient.pub/how-to-train-your-decision-making-ais/)
 - [Crows are self-aware just like us, says new study &lpar;2020&rpar;](https://bigthink.com/neuropsych/crows-higher-intelligence/)
-- [Log4j: Between a Rock and a Hard Place](https://crawshaw.io/blog/log4j)
-- [Professional maintainers: a wake-up call](https://blog.filippo.io/professional-maintainers/)
-- [StarFive Dubhe 64-bit RISC-V core to be found in 12nm, 2 GHz processors](https://www.cnx-software.com/2021/12/10/starfive-dubhe-64-bit-risc-v-core-12nm-2-ghz-processors/)
-- [Advent of Code 2021 in pure TensorFlow – day 1](https://pgaleone.eu/tensorflow/2021/12/11/advent-of-code-tensorflow/)
+- [Log4j: Between a rock and a hard place](https://crawshaw.io/blog/log4j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
