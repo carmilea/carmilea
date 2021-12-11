@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When bad software requirements happen to good people &lpar;2011&rpar;](https://smartbear.com/blog/when-bad-software-requirements-happen-to-good-peop/)
+- [Nobel Peace laureates blast tech giants and warn against rising authoritarianism](https://www.npr.org/2021/12/10/1063218669/nobel-peace-laureates-blast-tech-giants-and-warn-against-rising-authoritarianism)
+- [Ask HN: Why were a few rank numbers black on the homepage?](https://news.ycombinator.com/item?id=29524781)
 - [I have a brain injury [video]](https://www.youtube.com/watch?v=xJ3hWyfMlU0)
 - [Packaging for instant coffee made out of seaweed](https://sprudge.com/can-seaweed-replace-plastic-in-single-serve-coffee-183443.html)
-- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
-- [Carolina Gold was once the most popular rice grown in America &lpar;2019&rpar;](https://www.seriouseats.com/carolina-gold-heirloom-rice-anson-mills)
-- [How to train your decision-making AIs](https://thegradient.pub/how-to-train-your-decision-making-ais/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
