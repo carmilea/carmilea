@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [E-Shotgun](https://e-shotgun.com/)
+- [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [Jndi: An irresponsibly bad logging library](https://github.com/bradfitz/jndi)
 - [Magnus Carlsen retains title after winning lopsided match](https://en.chessbase.com/post/world-championship-2021-g11)
 - [Mercedes-Benz wins approval for Level 3 autonomous driving on the Autobahn](https://www.ttnews.com/articles/mercedes-beats-tesla-hands-free-driving-autobahn)
-- [Ten years of experience, still failing phone screens](https://kevin.burke.dev/kevin/phone-screens-broken/)
-- [Why does Minnesota sometimes get colder than the North Pole?](https://www.startribune.com/minnesota-winter-weather-temperature-cold-north-pole/600114153/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
