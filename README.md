@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canadian startup Kepler stirs debate with planned fleet of internet satellites](https://www.theglobeandmail.com/business/article-canadian-startup-keplers-planned-internet-satellite-fleet-worries/)
+- [BNT162b2 Vaccine Booster and Mortality Due to Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMoa2115624)
 - [Ask HN: Books Similar to Code by Charlse Petzold?](https://news.ycombinator.com/item?id=29522588)
 - [Scaling Tacit Knowledge](https://nintil.com/scaling-tacit-knowledge)
 - [ReadMe &lpar;YC W15&rpar; is hiring a Demand Gen Marketer who loves developers](https://readme.com/careers#demand-generation-manager)
-- [Ask HN: A cheap smartwatch with a supported SDK](https://news.ycombinator.com/item?id=29522170)
-- [Ask HN: Own .com for 7 years, a new company trademarked my name registered .NET](https://news.ycombinator.com/item?id=29521714)
 <!-- BLOG-POST-LIST:END -->
 
 ---
