@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ten years of experience, still failing phone screens](https://kevin.burke.dev/kevin/phone-screens-broken/)
 - [Why does Minnesota sometimes get colder than the North Pole?](https://www.startribune.com/minnesota-winter-weather-temperature-cold-north-pole/600114153/)
 - [The Strange, Unfinished Saga of Cyberpunk 2077](https://www.newyorker.com/tech/annals-of-technology/the-strange-unfinished-saga-of-cyberpunk-2077)
 - [Summary of the AWS Service Event in the Northern Virginia &lpar;US-East-1&rpar; Region](https://aws.amazon.com/message/12721/)
 - [Kropotkin escapes from prison](https://crimethinc.com/2021/12/09/june-30-1876-peter-kropotkin-escapes-from-prison-a-tale-of-derring-do-on-the-occasion-of-his-birthday)
-- [An 8-bit minicomputer with a fully custom architecture](https://github.com/jdah/jdh-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
