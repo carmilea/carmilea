@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I have a brain injury [video]](https://www.youtube.com/watch?v=xJ3hWyfMlU0)
+- [Packaging for instant coffee made out of seaweed](https://sprudge.com/can-seaweed-replace-plastic-in-single-serve-coffee-183443.html)
 - [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
-- [Carolina Gold, the Best Rice You&#39;ve Never Tasted &lpar;2019&rpar;](https://www.seriouseats.com/carolina-gold-heirloom-rice-anson-mills)
-- [How to Train Your Decision-Making AIs](https://thegradient.pub/how-to-train-your-decision-making-ais/)
-- [Crows are self-aware just like us, says new study &lpar;2020&rpar;](https://bigthink.com/neuropsych/crows-higher-intelligence/)
-- [Log4j: Between a rock and a hard place](https://crawshaw.io/blog/log4j)
+- [Carolina Gold was once the most popular rice grown in America &lpar;2019&rpar;](https://www.seriouseats.com/carolina-gold-heirloom-rice-anson-mills)
+- [How to train your decision-making AIs](https://thegradient.pub/how-to-train-your-decision-making-ais/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
