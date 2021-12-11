@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Own .com for 7 years, a new company trademarked my name registered .NET](https://news.ycombinator.com/item?id=29521714)
+- [I didn&#39;t say that. In fact, no one seems to have, according to Google](https://twitter.com/paulg/status/1469256270150520836)
+- [PDP-11 Booting](https://trmm.net/PDP-11/Booting/)
+- [Blizzard executive asks employees to “consider the consequences” of union card](https://twitter.com/charlieintel/status/1469361004056387584)
 - [Excel World Championship Finals](https://www.youtube.com/watch?v=NSU11kxxJvc)
-- [Amazon Facility Hit by Tornado](https://www.youtube.com/watch?v=TbkBeM6RP2I)
-- [BlueSCSI – Open, Low Cost, DIY SCSI to SD Device – TinkerDifferent](https://tinkerdifferent.com/threads/bluescsi-open-low-cost-diy-scsi-to-sd-device.29/#post-3389)
-- [Widespread Exploitation of Critical Remote Code Execution in Apache Log4j](https://www.rapid7.com/blog/post/2021/12/10/widespread-exploitation-of-critical-remote-code-execution-in-apache-log4j/)
-- [Bitcoin Failed in El Salvador. The President Says the Answer Is More Bitcoin](https://foreignpolicy.com/2021/12/06/bitcoin-city-el-salvador-nayib-bukele/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
