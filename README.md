@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ReadMe &lpar;YC W15&rpar; is hiring a Demand Gen Marketer who loves developers](https://readme.com/careers#demand-generation-manager)
+- [Ask HN: A cheap smartwatch with a supported SDK](https://news.ycombinator.com/item?id=29522170)
 - [Ask HN: Own .com for 7 years, a new company trademarked my name registered .NET](https://news.ycombinator.com/item?id=29521714)
-- [I didn&#39;t say that. In fact, no one seems to have, according to Google](https://twitter.com/paulg/status/1469256270150520836)
 - [PDP-11 Booting](https://trmm.net/PDP-11/Booting/)
-- [Blizzard executive asks employees to “consider the consequences” of union card](https://twitter.com/charlieintel/status/1469361004056387584)
-- [Excel World Championship Finals](https://www.youtube.com/watch?v=NSU11kxxJvc)
+- [Operation Whistle Pig: Inside the secret CBP unit with no rules](https://news.yahoo.com/operation-whistle-pig-inside-the-secret-cbp-unit-with-no-rules-that-investigates-americans-100000147.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
