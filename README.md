@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is there a minimal browser like uzbl that is up-to-date?](https://news.ycombinator.com/item?id=29520746)
+- [Excel World Championship Finals](https://www.youtube.com/watch?v=NSU11kxxJvc)
+- [Amazon Facility Hit by Tornado](https://www.youtube.com/watch?v=TbkBeM6RP2I)
+- [BlueSCSI – Open, Low Cost, DIY SCSI to SD Device – TinkerDifferent](https://tinkerdifferent.com/threads/bluescsi-open-low-cost-diy-scsi-to-sd-device.29/#post-3389)
+- [Widespread Exploitation of Critical Remote Code Execution in Apache Log4j](https://www.rapid7.com/blog/post/2021/12/10/widespread-exploitation-of-critical-remote-code-execution-in-apache-log4j/)
 - [Bitcoin Failed in El Salvador. The President Says the Answer Is More Bitcoin](https://foreignpolicy.com/2021/12/06/bitcoin-city-el-salvador-nayib-bukele/)
-- [BuildZoom &lpar;better way to build/remodel&rpar; is hiring a head of marketing](https://jobs.lever.co/buildzoom)
-- [Space-shooter.c: cross-platform, top-down 2D space shooter written in C](https://github.com/tsherif/space-shooter.c)
-- [Unix philosophy without left-pad, Part 2: Minimizing dependencies](https://raku-advent.blog/2021/12/11/unix_philosophy_without_leftpad_part2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
