@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Canadian startup Kepler stirs debate with planned fleet of internet satellites](https://www.theglobeandmail.com/business/article-canadian-startup-keplers-planned-internet-satellite-fleet-worries/)
-- [BNT162b2 Vaccine Booster and Mortality Due to Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMoa2115624)
-- [Ask HN: Books Similar to Code by Charlse Petzold?](https://news.ycombinator.com/item?id=29522588)
-- [Scaling Tacit Knowledge](https://nintil.com/scaling-tacit-knowledge)
-- [ReadMe &lpar;YC W15&rpar; is hiring a Demand Gen Marketer who loves developers](https://readme.com/careers#demand-generation-manager)
+- [Crows are self-aware just like us, says new study &lpar;2020&rpar;](https://bigthink.com/neuropsych/crows-higher-intelligence/)
+- [Log4j: Between a Rock and a Hard Place](https://crawshaw.io/blog/log4j)
+- [Professional maintainers: a wake-up call](https://blog.filippo.io/professional-maintainers/)
+- [StarFive Dubhe 64-bit RISC-V core to be found in 12nm, 2 GHz processors](https://www.cnx-software.com/2021/12/10/starfive-dubhe-64-bit-risc-v-core-12nm-2-ghz-processors/)
+- [Advent of Code 2021 in pure TensorFlow – day 1](https://pgaleone.eu/tensorflow/2021/12/11/advent-of-code-tensorflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
