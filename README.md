@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build/remodel&rpar; is hiring a head of marketing](https://jobs.lever.co/buildzoom)
+- [To secure the supply chain, you must properly fund it](https://ariadne.space/2021/12/11/to-secure-the-supply-chain-you-must-properly-fund-it/)
+- [Ask HN: Best way to prepare a codebase for open-source?](https://news.ycombinator.com/item?id=29519754)
 - [What happens to developers who never go into management?](https://www.wbscodingschool.com/what-happens-devs-never-management/)
 - [Show HN: Randomize HTML content to test your defensive CSS](https://cleartax.github.io/html-mocker/)
-- [E-Shotgun](https://e-shotgun.com/)
-- [Learn X in Y Minutes](https://learnxinyminutes.com/)
-- [Jndi: An irresponsibly bad logging library](https://github.com/bradfitz/jndi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
