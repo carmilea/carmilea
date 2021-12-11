@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Randomize HTML content to test your defensive CSS](https://cleartax.github.io/html-mocker/)
 - [E-Shotgun](https://e-shotgun.com/)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [Jndi: An irresponsibly bad logging library](https://github.com/bradfitz/jndi)
 - [Magnus Carlsen retains title after winning lopsided match](https://en.chessbase.com/post/world-championship-2021-g11)
-- [Mercedes-Benz wins approval for Level 3 autonomous driving on the Autobahn](https://www.ttnews.com/articles/mercedes-beats-tesla-hands-free-driving-autobahn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
