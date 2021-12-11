@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is there a minimal browser like uzbl that is up-to-date?](https://news.ycombinator.com/item?id=29520746)
+- [Bitcoin Failed in El Salvador. The President Says the Answer Is More Bitcoin](https://foreignpolicy.com/2021/12/06/bitcoin-city-el-salvador-nayib-bukele/)
 - [BuildZoom &lpar;better way to build/remodel&rpar; is hiring a head of marketing](https://jobs.lever.co/buildzoom)
-- [To secure the supply chain, you must properly fund it](https://ariadne.space/2021/12/11/to-secure-the-supply-chain-you-must-properly-fund-it/)
-- [Ask HN: Best way to prepare a codebase for open-source?](https://news.ycombinator.com/item?id=29519754)
-- [What happens to developers who never go into management?](https://www.wbscodingschool.com/what-happens-devs-never-management/)
-- [Show HN: Randomize HTML content to test your defensive CSS](https://cleartax.github.io/html-mocker/)
+- [Space-shooter.c: cross-platform, top-down 2D space shooter written in C](https://github.com/tsherif/space-shooter.c)
+- [Unix philosophy without left-pad, Part 2: Minimizing dependencies](https://raku-advent.blog/2021/12/11/unix_philosophy_without_leftpad_part2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
