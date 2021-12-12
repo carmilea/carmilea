@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [AtoB &lpar;YC S20&rpar; is building Stripe for Transportation and hiring early team members](https://careers.atob.com/)
+- [Coinbase founder co-founds longevity company](https://blog.newlimit.com/p/announcing-newlimit-a-company-built)
 - [Why the demographic transition is speeding up](https://www.economist.com/finance-and-economics/2021/12/11/why-the-demographic-transition-is-speeding-up)
-- [As an investor, why is crypto so hard to value?](https://fundamentalinvestor.substack.com/p/as-an-investor-why-is-crypto-so-hard)
-- [Ask HN: What programming tutorial/course/article/blog would you like to see?](https://news.ycombinator.com/item?id=29528305)
 - [NASA Ogma: generate hard-realtime C runtime monitoring applications](https://github.com/nasa/ogma)
 - [Wezterm](https://wezfurlong.org/wezterm/)
 <!-- BLOG-POST-LIST:END -->
