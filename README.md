@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Directory Opus is a complete replacement for Explorer](https://www.gpsoft.com.au/)
 - [Predict civilization collapse with Python and World3 model](https://github.com/cvanwynsberghe/pyworld3)
 - [Chemical emitted by babies could make men more docile, women more aggressive](https://www.science.org/content/article/chemical-emitted-babies-could-make-men-more-docile-women-more-aggressive)
 - [Backblaze restore for Personal Backup is awful](https://news.ycombinator.com/item?id=29533753)
 - [The Matrix Is Unreal](https://www.fxguide.com/fxfeatured/the-matrix-is-unreal/)
-- [A ghostly galaxy lacking dark matter](https://esahubble.org/images/heic1806a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
