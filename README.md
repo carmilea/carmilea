@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“Open source” is not broken](https://nadh.in/blog/open-source-is-not-broken/)
+- [Report shows HSE &lpar;Irish Health Service&rpar; hacked by malicious Excel file [pdf]](https://www.hse.ie/eng/services/publications/conti-cyber-attack-on-the-hse-full-report.pdf)
+- [Japanese scientists develop vaccine to eliminate cells behind aging](https://www.japantimes.co.jp/news/2021/12/12/national/science-health/aging-vaccine/)
+- [Fredrik Lundh Has Died](https://lwn.net/ml/python-dev/CAP7+vJLbxJY-SPPzaoT4qnhF9MRkXDuhmr8wxZ=Es1X2ob3gMg@mail.gmail.com/)
 - [Ask HN: Why is building Windows apps so complicated](https://news.ycombinator.com/item?id=29529267)
-- [Erich&#39;s Packing Center](https://erich-friedman.github.io/packing/index.html)
-- [Ask HN: Why have we accepted the cookie pop-up situation across the web?](https://news.ycombinator.com/item?id=29529062)
-- [AtoB &lpar;YC S20&rpar; is building Stripe for Transportation and hiring early team members](https://careers.atob.com/)
-- [Broccoli: Syncing faster by syncing less &lpar;2020&rpar;](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)
 <!-- BLOG-POST-LIST:END -->
 
 ---
