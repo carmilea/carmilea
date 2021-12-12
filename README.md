@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring for Product and Engineering](https://onesignal.com/careers)
+- [Implementing TLS Encrypted Client Hello [Nov 2021]](https://guardianproject.info/2021/11/30/implementing-tls-encrypted-client-hello/)
+- [Alarmed by Tesla’s self-driving test, legislators demand answers from CA DMV](https://www.latimes.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv)
 - [Dive into Ethereum signatures with Raku language](https://raku-advent.blog/2021/12/12/a-long-journey-to-ethereum-signatures/)
-- [Sending SMS Messages Through the ISS](https://www.kj7nzl.net/blog/sending-sms-messages-through-iss/)
-- [What would be your choice for setting up a new SaaS project for 2022?](https://news.ycombinator.com/item?id=29530391)
-- [For Americans Shocked by Inflation, Argentines Have Some Advice](https://www.bloomberg.com/news/articles/2021-12-11/the-inflation-pros-from-argentina-offer-tips-for-rattled-americans)
-- [Decred proposal: Change PoW/PoS Subsidy Split From 60/30 to 10/80](https://proposals.decred.org/record/427e1d4)
+- [Sending SMS Messages Through the ISS &lpar;2020&rpar;](https://www.kj7nzl.net/blog/sending-sms-messages-through-iss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
