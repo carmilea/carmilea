@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Great British Reading List](https://longreads.com/2021/11/11/the-great-british-reading-list/)
+- [The Internet Has a Rat Poison Problem](https://www.audubon.org/magazine/winter-2021/the-internet-has-rat-poison-problem)
 - [Arkham Quixote](https://sherief.fyi/post/arkham-quixote/)
 - [CP/M Source Code](http://www.cpm.z80.de/source.html)
 - [A home theater layout tool in Purecript](https://github.com/chriskiehl/home-theater-calculator)
-- [CISA Director on Log4j Vulnerability](https://www.cisa.gov/news/2021/12/11/statement-cisa-director-easterly-log4j-vulnerability)
-- [Building the atomic clock I’ve always wanted](https://www.dzombak.com/blog/2021/12/Building-the-atomic-clock-I-ve-always-wanted.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
