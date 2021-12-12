@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [OneSignal &lpar;YC S11&rpar; Is Hiring for Product and Engineering](https://onesignal.com/careers)
-- [Implementing TLS Encrypted Client Hello [Nov 2021]](https://guardianproject.info/2021/11/30/implementing-tls-encrypted-client-hello/)
-- [Alarmed by Tesla’s self-driving test, legislators demand answers from CA DMV](https://www.latimes.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv)
-- [Dive into Ethereum signatures with Raku language](https://raku-advent.blog/2021/12/12/a-long-journey-to-ethereum-signatures/)
-- [Sending SMS Messages Through the ISS &lpar;2020&rpar;](https://www.kj7nzl.net/blog/sending-sms-messages-through-iss/)
+- [Why Tacit Knowledge Is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
+- [Pfizer Course Has 23% Efficacy vs. Omicron in S. African Study](https://www.bnnbloomberg.ca/pfizer-course-has-23-efficacy-vs-omicron-in-s-african-study-1.1694395)
+- [Using BBS with my Amiga 3000 in 2021](https://www.epsilonsworld.com/2021/11/using-bbs-with-my-amiga-3000-in-2021.html)
+- [Show HN: AlterClass – A platform for making and selling programming courses](https://alterclass.io/)
+- [Here’s How Many People Default on Their Student Loans in the U.S.](https://www.credible.com/blog/statistics/student-loan-default-statistics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
