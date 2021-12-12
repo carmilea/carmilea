@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Actual CVE-2021-44228 payloads captured in the wild](https://blog.cloudflare.com/actual-cve-2021-44228-payloads-captured-in-the-wild/)
+- [Arkham Quixote](https://sherief.fyi/post/arkham-quixote/)
+- [CP/M Source Code](http://www.cpm.z80.de/source.html)
 - [A home theater layout tool in Purecript](https://github.com/chriskiehl/home-theater-calculator)
 - [CISA Director on Log4j Vulnerability](https://www.cisa.gov/news/2021/12/11/statement-cisa-director-easterly-log4j-vulnerability)
 - [Building the atomic clock I’ve always wanted](https://www.dzombak.com/blog/2021/12/Building-the-atomic-clock-I-ve-always-wanted.html)
-- [More Efficient In-Context Learning with GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
