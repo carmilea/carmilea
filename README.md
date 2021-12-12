@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [“Open source” is not broken](https://nadh.in/blog/open-source-is-not-broken/)
-- [Report shows HSE &lpar;Irish Health Service&rpar; hacked by malicious Excel file [pdf]](https://www.hse.ie/eng/services/publications/conti-cyber-attack-on-the-hse-full-report.pdf)
-- [Japanese scientists develop vaccine to eliminate cells behind aging](https://www.japantimes.co.jp/news/2021/12/12/national/science-health/aging-vaccine/)
-- [Fredrik Lundh Has Died](https://lwn.net/ml/python-dev/CAP7+vJLbxJY-SPPzaoT4qnhF9MRkXDuhmr8wxZ=Es1X2ob3gMg@mail.gmail.com/)
-- [Ask HN: Why is building Windows apps so complicated](https://news.ycombinator.com/item?id=29529267)
+- [Dive into Ethereum signatures with Raku language](https://raku-advent.blog/2021/12/12/a-long-journey-to-ethereum-signatures/)
+- [Sending SMS Messages Through the ISS](https://www.kj7nzl.net/blog/sending-sms-messages-through-iss/)
+- [What would be your choice for setting up a new SaaS project for 2022?](https://news.ycombinator.com/item?id=29530391)
+- [For Americans Shocked by Inflation, Argentines Have Some Advice](https://www.bloomberg.com/news/articles/2021-12-11/the-inflation-pros-from-argentina-offer-tips-for-rattled-americans)
+- [Decred proposal: Change PoW/PoS Subsidy Split From 60/30 to 10/80](https://proposals.decred.org/record/427e1d4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
