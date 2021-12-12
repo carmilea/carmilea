@@ -54,8 +54,8 @@
 - [Show HN: Yearly Faves – showcase your fave books and support indie bookshops](https://www.yearly-faves.com/)
 - [Ask HN: Is there a place on HN for interesting yet flame-war inducing topics?](https://news.ycombinator.com/item?id=29532676)
 - [Drop-In Replacement for Memcached](https://www.memc.rs)
-- [Terms of Service: Monitoring and Anti-Cheat](https://www.riotgames.com/en/terms-of-service#id.j9yhwirgp1kr)
-- [Tacit knowledge is more important than deliberate practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
+- [Signal Identification Guide](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
+- [Frickin&#39; Shaders with Frickin&#39; Laser Beams](https://acko.net/blog/frickin-shaders-with-frickin-laser-beams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
