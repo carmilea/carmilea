@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Yearly Faves – showcase your fave books and support indie bookshops](https://www.yearly-faves.com/)
-- [Ask HN: Is there a place on HN for interesting yet flame-war inducing topics?](https://news.ycombinator.com/item?id=29532676)
-- [Drop-In Replacement for Memcached](https://www.memc.rs)
-- [Signal Identification Guide](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
-- [Frickin&#39; Shaders with Frickin&#39; Laser Beams](https://acko.net/blog/frickin-shaders-with-frickin-laser-beams/)
+- [Predict civilization collapse with Python and World3 model](https://github.com/cvanwynsberghe/pyworld3)
+- [Chemical emitted by babies could make men more docile, women more aggressive](https://www.science.org/content/article/chemical-emitted-babies-could-make-men-more-docile-women-more-aggressive)
+- [Backblaze restore for Personal Backup is awful](https://news.ycombinator.com/item?id=29533753)
+- [The Matrix Is Unreal](https://www.fxguide.com/fxfeatured/the-matrix-is-unreal/)
+- [A ghostly galaxy lacking dark matter](https://esahubble.org/images/heic1806a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
