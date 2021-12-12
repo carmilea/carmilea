@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Riot may run programs in the background on your PC when not using the service](https://www.riotgames.com/en/terms-of-service)
 - [Why Tacit Knowledge Is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
-- [Pfizer Course Has 23% Efficacy vs. Omicron in S. African Study](https://www.bnnbloomberg.ca/pfizer-course-has-23-efficacy-vs-omicron-in-s-african-study-1.1694395)
+- [Old CSS, New CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
+- [Peer-to-Peer NAT64 Network](https://p2p.nat64.dk/)
 - [Using BBS with my Amiga 3000 in 2021](https://www.epsilonsworld.com/2021/11/using-bbs-with-my-amiga-3000-in-2021.html)
-- [Show HN: AlterClass – A platform for making and selling programming courses](https://alterclass.io/)
-- [Here’s How Many People Default on Their Student Loans in the U.S.](https://www.credible.com/blog/statistics/student-loan-default-statistics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
