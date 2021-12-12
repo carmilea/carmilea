@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Apple’s Newest OLED Supplier](https://asianometry.substack.com/p/boe-technology-apples-next-oled-supplier)
-- [Why you should check-in your node dependencies](https://www.jackfranklin.co.uk/blog/check-in-your-node-dependencies/)
+- [The state of Washington pays multimillion dollar salaries to college coaches](http://fiscal.wa.gov/salaries.aspx)
+- [Ancient Spartans didn’t kill ‘weak’ babies, new study argues](https://www.science.org/content/article/ancient-greeks-didn-t-kill-weak-babies-new-study-argues)
 - [Six Amazon workers killed after tornadoes reduce warehouse near St. Louis](https://www.reuters.com/world/us/injuries-reported-after-roof-collapse-amazon-warehouse-illinois-ap-2021-12-11/)
 - [A Future Without Manipulation](https://afuturewithoutmanipulation.eu/)
-- [Tiny primate may join the ranks of the world’s model organisms](https://www.economist.com/science-and-technology/a-tiny-primate-may-join-the-ranks-of-the-worlds-model-organisms/21806681)
 <!-- BLOG-POST-LIST:END -->
 
 ---
