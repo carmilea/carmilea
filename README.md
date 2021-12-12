@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why have we accepted the cookie pop-up situation across the web?](https://news.ycombinator.com/item?id=29529062)
 - [AtoB &lpar;YC S20&rpar; is building Stripe for Transportation and hiring early team members](https://careers.atob.com/)
-- [Coinbase founder co-founds longevity company](https://blog.newlimit.com/p/announcing-newlimit-a-company-built)
+- [Dropbox &lpar;2020&rpar; Broccoli: Syncing faster by syncing less](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)
+- [Formal Requirements Elicitation Tool](https://github.com/NASA-SW-VnV/fret)
 - [Why the demographic transition is speeding up](https://www.economist.com/finance-and-economics/2021/12/11/why-the-demographic-transition-is-speeding-up)
-- [NASA Ogma: generate hard-realtime C runtime monitoring applications](https://github.com/nasa/ogma)
-- [Wezterm](https://wezfurlong.org/wezterm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
