@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why is building Windows apps so complicated](https://news.ycombinator.com/item?id=29529267)
+- [Erich&#39;s Packing Center](https://erich-friedman.github.io/packing/index.html)
 - [Ask HN: Why have we accepted the cookie pop-up situation across the web?](https://news.ycombinator.com/item?id=29529062)
 - [AtoB &lpar;YC S20&rpar; is building Stripe for Transportation and hiring early team members](https://careers.atob.com/)
-- [Dropbox &lpar;2020&rpar; Broccoli: Syncing faster by syncing less](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)
-- [Formal Requirements Elicitation Tool](https://github.com/NASA-SW-VnV/fret)
-- [Why the demographic transition is speeding up](https://www.economist.com/finance-and-economics/2021/12/11/why-the-demographic-transition-is-speeding-up)
+- [Broccoli: Syncing faster by syncing less &lpar;2020&rpar;](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)
 <!-- BLOG-POST-LIST:END -->
 
 ---
