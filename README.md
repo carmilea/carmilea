@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [When bad software requirements happen to good people &lpar;2011&rpar;](https://smartbear.com/blog/when-bad-software-requirements-happen-to-good-peop/)
-- [Nobel Peace laureates blast tech giants and warn against rising authoritarianism](https://www.npr.org/2021/12/10/1063218669/nobel-peace-laureates-blast-tech-giants-and-warn-against-rising-authoritarianism)
-- [Ask HN: Why were a few rank numbers black on the homepage?](https://news.ycombinator.com/item?id=29524781)
-- [I have a brain injury [video]](https://www.youtube.com/watch?v=xJ3hWyfMlU0)
-- [Packaging for instant coffee made out of seaweed](https://sprudge.com/can-seaweed-replace-plastic-in-single-serve-coffee-183443.html)
+- [Apple’s Newest OLED Supplier](https://asianometry.substack.com/p/boe-technology-apples-next-oled-supplier)
+- [Why you should check-in your node dependencies](https://www.jackfranklin.co.uk/blog/check-in-your-node-dependencies/)
+- [Six Amazon workers killed after tornadoes reduce warehouse near St. Louis](https://www.reuters.com/world/us/injuries-reported-after-roof-collapse-amazon-warehouse-illinois-ap-2021-12-11/)
+- [A Future Without Manipulation](https://afuturewithoutmanipulation.eu/)
+- [Tiny primate may join the ranks of the world’s model organisms](https://www.economist.com/science-and-technology/a-tiny-primate-may-join-the-ranks-of-the-worlds-model-organisms/21806681)
 <!-- BLOG-POST-LIST:END -->
 
 ---
