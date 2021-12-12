@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Apple’s Newest OLED Supplier](https://asianometry.substack.com/p/boe-technology-apples-next-oled-supplier)
-- [The state of Washington pays multimillion dollar salaries to college coaches](http://fiscal.wa.gov/salaries.aspx)
 - [Ancient Spartans didn’t kill ‘weak’ babies, new study argues](https://www.science.org/content/article/ancient-greeks-didn-t-kill-weak-babies-new-study-argues)
 - [Six Amazon workers killed after tornadoes reduce warehouse near St. Louis](https://www.reuters.com/world/us/injuries-reported-after-roof-collapse-amazon-warehouse-illinois-ap-2021-12-11/)
 - [A Future Without Manipulation](https://afuturewithoutmanipulation.eu/)
+- [A Mac For Mick &lpar;1984&rpar;](https://www.folklore.org/StoryView.py?project=Macintosh&story=A_Mac_For_Mick.txt&sortOrder=Sort+by+Date)
 <!-- BLOG-POST-LIST:END -->
 
 ---
