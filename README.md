@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian Prime Minister Narendra Modi’s Twitter Account Gets Hacked](https://www.bloombergquint.com/technology/indian-prime-minister-narendra-modis-twitter-account-gets-hacked)
 - [The Great British Reading List](https://longreads.com/2021/11/11/the-great-british-reading-list/)
 - [The Internet Has a Rat Poison Problem](https://www.audubon.org/magazine/winter-2021/the-internet-has-rat-poison-problem)
-- [Arkham Quixote](https://sherief.fyi/post/arkham-quixote/)
+- [Arkham Quixote &lpar;2020&rpar;](https://sherief.fyi/post/arkham-quixote/)
 - [CP/M Source Code](http://www.cpm.z80.de/source.html)
-- [A home theater layout tool in Purecript](https://github.com/chriskiehl/home-theater-calculator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
