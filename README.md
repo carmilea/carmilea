@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Riot may run programs in the background on your PC when not using the service](https://www.riotgames.com/en/terms-of-service)
-- [Why Tacit Knowledge Is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
-- [Old CSS, New CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
-- [Peer-to-Peer NAT64 Network](https://p2p.nat64.dk/)
-- [Using BBS with my Amiga 3000 in 2021](https://www.epsilonsworld.com/2021/11/using-bbs-with-my-amiga-3000-in-2021.html)
+- [Show HN: Yearly Faves – showcase your fave books and support indie bookshops](https://www.yearly-faves.com/)
+- [Ask HN: Is there a place on HN for interesting yet flame-war inducing topics?](https://news.ycombinator.com/item?id=29532676)
+- [Drop-In Replacement for Memcached](https://www.memc.rs)
+- [Terms of Service: Monitoring and Anti-Cheat](https://www.riotgames.com/en/terms-of-service#id.j9yhwirgp1kr)
+- [Tacit knowledge is more important than deliberate practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
