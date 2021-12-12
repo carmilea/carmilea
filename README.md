@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Indian Prime Minister Narendra Modi’s Twitter Account Gets Hacked](https://www.bloombergquint.com/technology/indian-prime-minister-narendra-modis-twitter-account-gets-hacked)
+- [Ask HN: What programming tutorial/course/article/blog would you like to see?](https://news.ycombinator.com/item?id=29528305)
+- [Wezterm](https://wezfurlong.org/wezterm/)
+- [Civil War Cartoonist Created the Modern Image of Santa Claus as Union Propaganda](https://www.smithsonianmag.com/history/civil-war-cartoonist-created-modern-image-santa-claus-union-propaganda-180971074/)
 - [In 2021, 4.9B people &lpar;63% of the world’s population&rpar; were using the Internet](https://www.itu.int/itu-d/reports/statistics/2021/11/15/internet-use/)
 - [The Great British Reading List](https://longreads.com/2021/11/11/the-great-british-reading-list/)
-- [The Internet Has a Rat Poison Problem](https://www.audubon.org/magazine/winter-2021/the-internet-has-rat-poison-problem)
-- [Arkham Quixote &lpar;2020&rpar;](https://sherief.fyi/post/arkham-quixote/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
