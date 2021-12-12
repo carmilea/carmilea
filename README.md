@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the demographic transition is speeding up](https://www.economist.com/finance-and-economics/2021/12/11/why-the-demographic-transition-is-speeding-up)
+- [As an investor, why is crypto so hard to value?](https://fundamentalinvestor.substack.com/p/as-an-investor-why-is-crypto-so-hard)
 - [Ask HN: What programming tutorial/course/article/blog would you like to see?](https://news.ycombinator.com/item?id=29528305)
+- [NASA Ogma: generate hard-realtime C runtime monitoring applications](https://github.com/nasa/ogma)
 - [Wezterm](https://wezfurlong.org/wezterm/)
-- [Civil War Cartoonist Created the Modern Image of Santa Claus as Union Propaganda](https://www.smithsonianmag.com/history/civil-war-cartoonist-created-modern-image-santa-claus-union-propaganda-180971074/)
-- [In 2021, 4.9B people &lpar;63% of the world’s population&rpar; were using the Internet](https://www.itu.int/itu-d/reports/statistics/2021/11/15/internet-use/)
-- [The Great British Reading List](https://longreads.com/2021/11/11/the-great-british-reading-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
