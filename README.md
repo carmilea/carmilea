@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s Newest OLED Supplier](https://asianometry.substack.com/p/boe-technology-apples-next-oled-supplier)
-- [Ancient Spartans didn’t kill ‘weak’ babies, new study argues](https://www.science.org/content/article/ancient-greeks-didn-t-kill-weak-babies-new-study-argues)
-- [Six Amazon workers killed after tornadoes reduce warehouse near St. Louis](https://www.reuters.com/world/us/injuries-reported-after-roof-collapse-amazon-warehouse-illinois-ap-2021-12-11/)
-- [A Future Without Manipulation](https://afuturewithoutmanipulation.eu/)
-- [A Mac For Mick &lpar;1984&rpar;](https://www.folklore.org/StoryView.py?project=Macintosh&story=A_Mac_For_Mick.txt&sortOrder=Sort+by+Date)
+- [Actual CVE-2021-44228 payloads captured in the wild](https://blog.cloudflare.com/actual-cve-2021-44228-payloads-captured-in-the-wild/)
+- [A home theater layout tool in Purecript](https://github.com/chriskiehl/home-theater-calculator)
+- [CISA Director on Log4j Vulnerability](https://www.cisa.gov/news/2021/12/11/statement-cisa-director-easterly-log4j-vulnerability)
+- [Building the atomic clock I’ve always wanted](https://www.dzombak.com/blog/2021/12/Building-the-atomic-clock-I-ve-always-wanted.html)
+- [More Efficient In-Context Learning with GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
