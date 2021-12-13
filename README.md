@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook Exec Says Society to Blame, Not Facebook](https://www.axios.com/facebook-bosworth-covid-misinformation-89a751dc-6875-4ad3-8103-33cd10b9972c.html)
-- [SigNoz &lpar;YC W21&rpar; Is Hiring First Developer Relations Engineer](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-developer-relations-engineer)
-- [Fonts of Neon Genesis Evangelion &lpar;2019&rpar;](https://fontsinuse.com/uses/28760/neon-genesis-evangelion)
-- [Rising groundwater caused by climate change could devastate coastal communities](https://thinknewsmedia.com/2021/12/13/how-rising-groundwater-caused-by-climate-change-could-devastate-coastal-communities/)
-- [Kentucky candle factory: questions arise over why staff worked during tornadoes](https://www.theguardian.com/us-news/2021/dec/13/kentucky-tornadoes-candle-factory-search-survivors)
+- [NeXTSpirit, hires NeXTSTEP Icons for macOS](http://galgot.free.fr/wordpress/?p=1380)
+- [When HDMI 2.1 Isn&#39;t HDMI 2.1 – The Confusing World of the Standard](https://tftcentral.co.uk/articles/when-hdmi-2-1-isnt-hdmi-2-1)
+- [Log4Shell Log4j vulnerability &lpar;CVE-2021-44228&rpar; – cheat-sheet reference guide](https://www.techsolvency.com/story-so-far/cve-2021-44228-log4j-log4shell/)
+- [Nextspace, a desktop environment that brings a NeXTSTEP look and feel to Linux](https://github.com/trunkmaster/nextspace)
+- [More than you want to know about gift cards](https://bam.kalzumeus.com/archive/more-than-you-want-to-know-about-gift-cards/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
