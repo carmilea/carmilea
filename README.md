@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Exec Says Society to Blame, Not Facebook](https://www.axios.com/facebook-bosworth-covid-misinformation-89a751dc-6875-4ad3-8103-33cd10b9972c.html)
 - [SigNoz &lpar;YC W21&rpar; Is Hiring First Developer Relations Engineer](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-developer-relations-engineer)
-- [Fonts of Neon Genesis Evangelion](https://fontsinuse.com/uses/28760/neon-genesis-evangelion)
+- [Fonts of Neon Genesis Evangelion &lpar;2019&rpar;](https://fontsinuse.com/uses/28760/neon-genesis-evangelion)
 - [Rising groundwater caused by climate change could devastate coastal communities](https://thinknewsmedia.com/2021/12/13/how-rising-groundwater-caused-by-climate-change-could-devastate-coastal-communities/)
 - [Kentucky candle factory: questions arise over why staff worked during tornadoes](https://www.theguardian.com/us-news/2021/dec/13/kentucky-tornadoes-candle-factory-search-survivors)
-- [Americans are rethinking where they want to live](https://www.economist.com/united-states/why-americans-are-rethinking-where-they-want-to-live/21806771)
 <!-- BLOG-POST-LIST:END -->
 
 ---
