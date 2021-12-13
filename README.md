@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adventures of putting 16 GB RAM in a motherboard that doesn’t support it &lpar;2019&rpar;](https://www.downtowndougbrown.com/2019/04/adventures-of-putting-16-gb-of-ram-in-a-motherboard-that-doesnt-support-it/)
 - [CEPL: A lispy and REPL-friendly Common Lisp library for working with OpenGL](https://github.com/cbaggers/cepl)
 - [Show HN: We open sourced our new Mac developer setup script](https://github.com/vendasta/setup-new-computer-script)
 - [Generally Intelligent &lpar;YC S17&rpar; is hiring ML research engineers &lpar;remote, SF&rpar;](https://news.ycombinator.com/item?id=29535427)
 - [Hertz customers arrested, jailed and held at gunpoint after false theft reports](https://www.cbsnews.com/news/hertz-claims-false-arrests/)
-- [Americans overestimate social mobility in their country](https://www.economist.com/graphic-detail/2018/02/14/americans-overestimate-social-mobility-in-their-country)
 <!-- BLOG-POST-LIST:END -->
 
 ---
