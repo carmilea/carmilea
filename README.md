@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Evolutions of Lambdas in C++14, C++17 and C++20](https://www.fluentcpp.com/2021/12/13/the-evolutions-of-lambdas-in-c14-c17-and-c20/)
 - [Étoilé on Gnustep](http://etoileos.com/etoile/)
 - [GitHub taking down tools allowing defenders to reproduce the Log4j vulnerability](https://twitter.com/christophetd/status/1470287687265529861)
 - [GNUstep: Open-source, Object-oriented, Cross-platform Development Environment](http://gnustep.org)
 - [Enhance your dev detective powers with Sourcegraph](https://esteetey.dev/be-a-dev-detective-with-sourcegraph)
-- [Weird: Generative Art in Common Lisp](https://github.com/inconvergent/weird)
 <!-- BLOG-POST-LIST:END -->
 
 ---
