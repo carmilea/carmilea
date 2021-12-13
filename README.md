@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generally Intelligent &lpar;YC S17&rpar; is hiring ML research engineers &lpar;remote, SF&rpar;](https://news.ycombinator.com/item?id=29535427)
+- [Former BuzzFeed Employees Missed Their Big Payday](https://www.newyorker.com/news/annals-of-communications/how-former-buzzfeed-employees-missed-their-big-payday)
 - [Directory Opus is a complete replacement for Explorer](https://www.gpsoft.com.au/)
 - [Predict civilization collapse with Python and World3 model](https://github.com/cvanwynsberghe/pyworld3)
 - [Chemical emitted by babies could make men more docile, women more aggressive](https://www.science.org/content/article/chemical-emitted-babies-could-make-men-more-docile-women-more-aggressive)
-- [Backblaze restore for Personal Backup is awful](https://news.ycombinator.com/item?id=29533753)
-- [The Matrix Is Unreal](https://www.fxguide.com/fxfeatured/the-matrix-is-unreal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
