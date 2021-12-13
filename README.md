@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fixing a performance problem in Elm using Html.Lazy](https://blogg.bekk.no/fixing-a-performance-problem-in-elm-using-html-lazy-c4298b72500d?gi=65357a7e63ad)
+- [Ain&#39;t no party like a third party](https://adactio.com/articles/18676)
 - [Convictional &lpar;YC W19&rpar; is hiring engineers to build the future of B2B trade-Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
 - [Vivaldi: Violating CoC on forum may close your email account](https://vivaldi.com/privacy/code-of-conduct/)
 - [Deno Joins TC39](https://deno.com/blog/deno-joins-tc39)
-- [Borderless Media Consumption: Geoblocking Reform](https://www.fuen.org/en/article/Borderless-Media-Consumption-Geoblocking-reform-FUEN-sits-at-the-table-with-film-and-TV-industry)
-- [Marketing is scary for a solo developer](https://raumet.com/marketing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
