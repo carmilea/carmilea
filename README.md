@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaving Quora after 10 years of answering questions](http://exquora.thoughtstorms.info/)
+- [Sonic the Hedgehog for the Commodore 64 Announced](https://www.lemon64.com/forum/viewtopic.php?t=78945)
+- [The Hazards of Industrial Research](https://www.thearticle.com/the-hazards-of-industrial-research)
+- [Being Funny &lpar;2014&rpar;](https://www.smithsonianmag.com/arts-culture/being-funny-17061140/)
 - [Corrily &lpar;YC W21&rpar; Is Hiring a Founding Data Engineer](https://corrily.crew.work/jobs/61816dd0b896270d9e61c812)
-- [CPUC Guts Solar Power in name of “equity,” adds $8/kW monthly charge paid to PGE [pdf]](https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M430/K903/430903088.PDF)
-- [Spiking Neural Networks](https://simons.berkeley.edu/news/spiking-neural-networks)
-- [Wiretrustee CM4 Stata Board &lpar;Discontinued&rpar;](https://github.com/wiretrustee/cm4-sata-board)
-- [Kintsugi – The art of repair to make broken things better than before](https://traditionalkyoto.com/culture/kintsugi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
