@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Étoilé on Gnustep](http://etoileos.com/etoile/)
+- [GitHub taking down tools allowing defenders to reproduce the Log4j vulnerability](https://twitter.com/christophetd/status/1470287687265529861)
 - [GNUstep: Open-source, Object-oriented, Cross-platform Development Environment](http://gnustep.org)
 - [Enhance your dev detective powers with Sourcegraph](https://esteetey.dev/be-a-dev-detective-with-sourcegraph)
 - [Weird: Generative Art in Common Lisp](https://github.com/inconvergent/weird)
-- [Adventures of putting 16 GB RAM in a motherboard that doesn’t support it &lpar;2019&rpar;](https://www.downtowndougbrown.com/2019/04/adventures-of-putting-16-gb-of-ram-in-a-motherboard-that-doesnt-support-it/)
-- [CEPL: A lispy and REPL-friendly Common Lisp library for working with OpenGL](https://github.com/cbaggers/cepl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
