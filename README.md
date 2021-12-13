@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kentucky candle factory: questions arise over why staff worked during tornadoes](https://www.theguardian.com/us-news/2021/dec/13/kentucky-tornadoes-candle-factory-search-survivors)
+- [Show HN: I wrote a comprehensive book on web application deployment](https://deploymentfromscratch.com/)
+- [Reimagining projections for the interactive maps era](https://www.mapbox.com/blog/adaptive-projections)
+- [Researchers find a treatable indicator of blood clotting in Covid patients](https://engineering.virginia.edu/news/2021/12/new-technology-could-help-doctors-improve-covid-19-patient-outcomes)
 - [Framer Motion 3D](https://www.framer.com/docs/three-introduction/)
-- [How Much Does Education Improve Intelligence? A Meta-Analysis [pdf]](https://labs.la.utexas.edu/tucker-drob/files/2019/08/Ritchie-Tucker-Drob-2018-Psych-Science-How-Much-Does-Education-Improve-Intelligence.pdf)
-- [Apache Log4j vulnerability shows the importance of SBOMs of running apps](https://codenotary.com/blog/apache-log4j-vulnerability-shows-the-importance-of-sboms/)
-- [Ask HN: How to get the attention of a human at Meta/FB?](https://news.ycombinator.com/item?id=29539897)
-- [“We removed the RSS feed since this technology became obsolete”](https://twitter.com/DanielNemenyi/status/1470385279383089153)
 <!-- BLOG-POST-LIST:END -->
 
 ---
