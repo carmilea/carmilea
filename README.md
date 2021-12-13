@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SigNoz &lpar;YC W21&rpar; Is Hiring First Developer Relations Engineer](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-developer-relations-engineer)
+- [Fonts of Neon Genesis Evangelion](https://fontsinuse.com/uses/28760/neon-genesis-evangelion)
+- [Rising groundwater caused by climate change could devastate coastal communities](https://thinknewsmedia.com/2021/12/13/how-rising-groundwater-caused-by-climate-change-could-devastate-coastal-communities/)
 - [Kentucky candle factory: questions arise over why staff worked during tornadoes](https://www.theguardian.com/us-news/2021/dec/13/kentucky-tornadoes-candle-factory-search-survivors)
-- [Show HN: I wrote a comprehensive book on web application deployment](https://deploymentfromscratch.com/)
-- [Reimagining projections for the interactive maps era](https://www.mapbox.com/blog/adaptive-projections)
-- [Researchers find a treatable indicator of blood clotting in Covid patients](https://engineering.virginia.edu/news/2021/12/new-technology-could-help-doctors-improve-covid-19-patient-outcomes)
-- [Framer Motion 3D](https://www.framer.com/docs/three-introduction/)
+- [Americans are rethinking where they want to live](https://www.economist.com/united-states/why-americans-are-rethinking-where-they-want-to-live/21806771)
 <!-- BLOG-POST-LIST:END -->
 
 ---
