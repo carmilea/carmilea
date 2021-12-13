@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NeXTSpirit, hires NeXTSTEP Icons for macOS](http://galgot.free.fr/wordpress/?p=1380)
-- [When HDMI 2.1 Isn&#39;t HDMI 2.1 – The Confusing World of the Standard](https://tftcentral.co.uk/articles/when-hdmi-2-1-isnt-hdmi-2-1)
-- [Log4Shell Log4j vulnerability &lpar;CVE-2021-44228&rpar; – cheat-sheet reference guide](https://www.techsolvency.com/story-so-far/cve-2021-44228-log4j-log4shell/)
-- [Nextspace, a desktop environment that brings a NeXTSTEP look and feel to Linux](https://github.com/trunkmaster/nextspace)
-- [More than you want to know about gift cards](https://bam.kalzumeus.com/archive/more-than-you-want-to-know-about-gift-cards/)
+- [Kintsugi – The art of repair to make broken things better than before](https://traditionalkyoto.com/culture/kintsugi/)
+- [SQLite – The Session Extension](https://www.sqlite.org/sessionintro.html)
+- [Toyota owners have to pay $8/mo to keep using their key fob for remote start](https://arstechnica.com/cars/2021/12/toyota-owners-have-to-pay-8-mo-to-keep-using-their-key-fob-for-remote-start/)
+- [Optimizing the kernel to saturate a 100Gbps link &lpar;2017&rpar;](https://netflixtechblog.com/serving-100-gbps-from-an-open-connect-appliance-cdb51dda3b99?gi=7c9e72ecd546)
+- [NeXTSpirit, high-res NeXTSTEP Icons for macOS](http://galgot.free.fr/wordpress/?p=1380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
