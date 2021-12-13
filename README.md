@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Corrily &lpar;YC W21&rpar; Is Hiring a Founding Data Engineer](https://corrily.crew.work/jobs/61816dd0b896270d9e61c812)
+- [CPUC Guts Solar Power in name of “equity,” adds $8/kW monthly charge paid to PGE [pdf]](https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M430/K903/430903088.PDF)
+- [Spiking Neural Networks](https://simons.berkeley.edu/news/spiking-neural-networks)
+- [Wiretrustee CM4 Stata Board &lpar;Discontinued&rpar;](https://github.com/wiretrustee/cm4-sata-board)
 - [Kintsugi – The art of repair to make broken things better than before](https://traditionalkyoto.com/culture/kintsugi/)
-- [SQLite – The Session Extension](https://www.sqlite.org/sessionintro.html)
-- [Toyota owners have to pay $8/mo to keep using their key fob for remote start](https://arstechnica.com/cars/2021/12/toyota-owners-have-to-pay-8-mo-to-keep-using-their-key-fob-for-remote-start/)
-- [Optimizing the kernel to saturate a 100Gbps link &lpar;2017&rpar;](https://netflixtechblog.com/serving-100-gbps-from-an-open-connect-appliance-cdb51dda3b99?gi=7c9e72ecd546)
-- [NeXTSpirit, high-res NeXTSTEP Icons for macOS](http://galgot.free.fr/wordpress/?p=1380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
