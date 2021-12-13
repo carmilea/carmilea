@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing a performance problem in Elm using Html.Lazy](https://blogg.bekk.no/fixing-a-performance-problem-in-elm-using-html-lazy-c4298b72500d?gi=65357a7e63ad)
-- [Ain&#39;t no party like a third party](https://adactio.com/articles/18676)
-- [Convictional &lpar;YC W19&rpar; is hiring engineers to build the future of B2B trade-Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
-- [Vivaldi: Violating CoC on forum may close your email account](https://vivaldi.com/privacy/code-of-conduct/)
-- [Deno Joins TC39](https://deno.com/blog/deno-joins-tc39)
+- [Framer Motion 3D](https://www.framer.com/docs/three-introduction/)
+- [How Much Does Education Improve Intelligence? A Meta-Analysis [pdf]](https://labs.la.utexas.edu/tucker-drob/files/2019/08/Ritchie-Tucker-Drob-2018-Psych-Science-How-Much-Does-Education-Improve-Intelligence.pdf)
+- [Apache Log4j vulnerability shows the importance of SBOMs of running apps](https://codenotary.com/blog/apache-log4j-vulnerability-shows-the-importance-of-sboms/)
+- [Ask HN: How to get the attention of a human at Meta/FB?](https://news.ycombinator.com/item?id=29539897)
+- [“We removed the RSS feed since this technology became obsolete”](https://twitter.com/DanielNemenyi/status/1470385279383089153)
 <!-- BLOG-POST-LIST:END -->
 
 ---
