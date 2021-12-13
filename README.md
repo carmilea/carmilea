@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CEPL: A lispy and REPL-friendly Common Lisp library for working with OpenGL](https://github.com/cbaggers/cepl)
+- [Show HN: We open sourced our new Mac developer setup script](https://github.com/vendasta/setup-new-computer-script)
 - [Generally Intelligent &lpar;YC S17&rpar; is hiring ML research engineers &lpar;remote, SF&rpar;](https://news.ycombinator.com/item?id=29535427)
-- [Former BuzzFeed Employees Missed Their Big Payday](https://www.newyorker.com/news/annals-of-communications/how-former-buzzfeed-employees-missed-their-big-payday)
-- [Directory Opus is a complete replacement for Explorer](https://www.gpsoft.com.au/)
-- [Predict civilization collapse with Python and World3 model](https://github.com/cvanwynsberghe/pyworld3)
-- [Chemical emitted by babies could make men more docile, women more aggressive](https://www.science.org/content/article/chemical-emitted-babies-could-make-men-more-docile-women-more-aggressive)
+- [Hertz customers arrested, jailed and held at gunpoint after false theft reports](https://www.cbsnews.com/news/hertz-claims-false-arrests/)
+- [Americans overestimate social mobility in their country](https://www.economist.com/graphic-detail/2018/02/14/americans-overestimate-social-mobility-in-their-country)
 <!-- BLOG-POST-LIST:END -->
 
 ---
