@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Procedural SQL &lpar;Part 3 of 6, User Defined Functions&rpar;](https://www.youtube.com/watch?v=MXl0UHtB-58)
 - [Procedural SQL &lpar;Part 2 of 6, Procedural Syntax&rpar;](https://www.youtube.com/watch?v=it6a6DjlIoA)
 - [Procedural SQL &lpar;Part 1 of 6, Procedural SQL Introduction&rpar;](https://www.youtube.com/watch?v=tqU9VrAmgTo)
 - [Working with JSON &lpar;Part 4 of 4, JSON Functions&rpar;](https://www.youtube.com/watch?v=MOzkALqXc8w)
 - [Working with JSON &lpar;Part 3 of 4, Querying JSON Data&rpar;](https://www.youtube.com/watch?v=MLNGhXkOIVw)
-- [Working with JSON &lpar;Part 2 of 4, Creating JSON Tables&rpar;](https://www.youtube.com/watch?v=9W3jA4eDrIQ)
 <!-- YOUTUBE:END -->
 
 
