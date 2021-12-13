@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cultures where men and women don’t speak the same language](https://www.k-international.com/blog/men-and-women-dont-speak-the-same-language/)
-- [Managed by Bots: surveillance of gig economy workers](https://privacyinternational.org/long-read/4709/managed-bots-surveillance-gig-economy-workers)
-- [I am in favour of the term “Web4” to describe small, local, personal, private...](https://mastodon.social/@natecull/107438374262423694)
-- [The Evolutions of Lambdas in C++14, C++17 and C++20](https://www.fluentcpp.com/2021/12/13/the-evolutions-of-lambdas-in-c14-c17-and-c20/)
-- [Étoilé on Gnustep](http://etoileos.com/etoile/)
+- [Convictional &lpar;YC W19&rpar; is hiring engineers to build the future of B2B trade-Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
+- [Vivaldi: Violating CoC on forum may close your email account](https://vivaldi.com/privacy/code-of-conduct/)
+- [Deno Joins TC39](https://deno.com/blog/deno-joins-tc39)
+- [Borderless Media Consumption: Geoblocking Reform](https://www.fuen.org/en/article/Borderless-Media-Consumption-Geoblocking-reform-FUEN-sits-at-the-table-with-film-and-TV-industry)
+- [Marketing is scary for a solo developer](https://raumet.com/marketing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
