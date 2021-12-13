@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kryptology: Coinbase’s Open Source Cryptography Library](https://blog.coinbase.com/meet-kryptology-coinbases-open-source-cryptography-library-b5f22854f3f7)
+- [Bird populations declining fast across North America](https://emagazine.com/bird-population-declines/)
 - [Leaving Quora after 10 years of answering questions](http://exquora.thoughtstorms.info/)
-- [Sonic the Hedgehog for the Commodore 64 Announced](https://www.lemon64.com/forum/viewtopic.php?t=78945)
-- [The Hazards of Industrial Research](https://www.thearticle.com/the-hazards-of-industrial-research)
-- [Being Funny &lpar;2014&rpar;](https://www.smithsonianmag.com/arts-culture/being-funny-17061140/)
-- [Corrily &lpar;YC W21&rpar; Is Hiring a Founding Data Engineer](https://corrily.crew.work/jobs/61816dd0b896270d9e61c812)
+- [The Scientific Paper is Obsolete &lpar;2018&rpar;](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
+- [Sonic the Hedgehog for Commodore 64/128 + REU](https://www.lemon64.com/forum/viewtopic.php?t=78945)
 <!-- BLOG-POST-LIST:END -->
 
 ---
