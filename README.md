@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux Touchpad Like MacBook Update: Touchpad Gestures Now Shipping](https://www.gitclear.com/blog/linux_touchpad_update_december_2021)
+- [Dell and HPE switches come with &#39;American Megatrands&#39; stickers](https://www.servethehome.com/dude-dell-hpe-ami-american-megatrands/)
+- [Photos of a KH-12 Kennan Keyhole Secret Military Spy Satellite &lpar;2013&rpar;](https://www.spacesafetymagazine.com/space-debris/astrophotography/view-keyhole-satellite/)
 - [Find anything fast with Google&#39;s vector search technology](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
 - [The Arctic Is Warming Four Times Faster Than the Rest of the World](https://www.science.org/content/article/arctic-warming-four-times-faster-rest-world)
-- [Hex-rays is moving to a subscription model](https://hex-rays.com/blog/hex-rays-is-moving-to-a-subscription-model/)
-- [All Hyped Up for Hypercard: Further Adventures with an Apple Legacy Format](https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/)
-- [OpenSSL Security Advisory &lpar;14 December 2021&rpar;](https://www.openssl.org/news/secadv/20211214.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
