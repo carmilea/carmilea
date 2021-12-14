@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ice shelf the size of Florida within years of failure](https://www.science.org/content/article/ice-shelf-holding-back-keystone-antarctic-glacier-within-years-failure)
+- [California halts Pony.ai&#39;s driverless testing permit after accident](https://www.reuters.com/article/ponyai-autonomous-test-idCNL4N2SY4KG)
 - [Using WebScript](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_3.1/DevGuide/WebScript/WebScript.mif.book.html)
-- [Ublacklist – the missing button on Google search, IMO](https://github.com/iorate/uBlacklist)
-- [I Think about Writing](https://danluu.com/writing-non-advice/)
+- [uBlacklist: Blocks specific sites from appearing in Google search results](https://github.com/iorate/uBlacklist)
+- [Some thoughts on writing](https://danluu.com/writing-non-advice/)
 - [Kryptology: Coinbase’s Open Source Cryptography Library](https://blog.coinbase.com/meet-kryptology-coinbases-open-source-cryptography-library-b5f22854f3f7)
 <!-- BLOG-POST-LIST:END -->
 
