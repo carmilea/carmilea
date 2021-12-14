@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fixing a Tiny Corner of the Supply Chain](https://www.bunniestudios.com/blog/?p=6274)
+- [Preventing extreme polarization of political attitudes](https://www.pnas.org/content/118/50/e2102139118)
+- [Goodbye Gas Fees](https://every.to/almanack/layer-2)
+- [About the security content of macOS Monterey 12.1](https://support.apple.com/en-us/HT212978)
 - [Fun with File Formats](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/)
-- [Digital Painting with Real Brushes: Light Strokes for iPad](https://www.instructables.com/Digital-Painting-With-Real-Brushes-Light-Strokes-f/)
-- [California halts Pony.ai&#39;s driverless testing permit after accident](https://www.reuters.com/article/ponyai-autonomous-test-idCNL4N2SY4KG)
-- [uBlacklist: Blocks specific sites from appearing in Google search results](https://github.com/iorate/uBlacklist)
-- [Some thoughts on writing](https://danluu.com/writing-non-advice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
