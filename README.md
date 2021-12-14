@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Screw DSLs. Write migrations using plain SQL](https://github.com/charperbonaroo/pgmigrate)
-- [Dover &lpar;YC S19&rpar; just raised $20m and is hiring for all roles](https://dover.com/careers)
-- [Antarctica&#39;s &#39;Doomsday Glacier&#39; could meet its doom within 3 years](https://www.livescience.com/agu-antarctica-thwaites-glacier-future)
+- [Building an Autonomous Generative Art Collection with P5.js](https://richtabor.com/generative-art/)
+- [Tesla’s high-beam assist feature surprised by Swedish moose](https://www.vibilagare.se/nyheter/teslas-high-beam-assist-feature-surprised-swedish-moose)
+- [Pgmigrate: Write migrations using plain SQL](https://github.com/charperbonaroo/pgmigrate)
+- [Dover &lpar;YC S19&rpar; is hiring for all roles](https://dover.com/careers)
 - [XXH: Bring your favorite shell wherever you go through the SSH](https://github.com/xxh/xxh)
-- [Go Replaces Interface{} with &#39;Any&#39;](https://github.com/golang/go/commit/2580d0e08d5e9f979b943758d3c49877fb2324cb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
