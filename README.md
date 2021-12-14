@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ice shelf the size of Florida within years of failure](https://www.science.org/content/article/ice-shelf-holding-back-keystone-antarctic-glacier-within-years-failure)
+- [Using WebScript](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_3.1/DevGuide/WebScript/WebScript.mif.book.html)
+- [Ublacklist – the missing button on Google search, IMO](https://github.com/iorate/uBlacklist)
+- [I Think about Writing](https://danluu.com/writing-non-advice/)
 - [Kryptology: Coinbase’s Open Source Cryptography Library](https://blog.coinbase.com/meet-kryptology-coinbases-open-source-cryptography-library-b5f22854f3f7)
-- [Bird populations declining fast across North America](https://emagazine.com/bird-population-declines/)
-- [Leaving Quora after 10 years of answering questions](http://exquora.thoughtstorms.info/)
-- [The Scientific Paper is Obsolete &lpar;2018&rpar;](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
-- [Sonic the Hedgehog for Commodore 64/128 + REU](https://www.lemon64.com/forum/viewtopic.php?t=78945)
 <!-- BLOG-POST-LIST:END -->
 
 ---
