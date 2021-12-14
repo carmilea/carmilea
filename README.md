@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rijksmuseum to Stage the Largest Vermeer Exhibition Ever &lpar;2023&rpar;](https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-to-stage-the-largest-vermeer-exhibition-ever)
 - [Lightning-Fast and Powerful Code Editor Written in Rust](https://github.com/lapce/lapce)
 - [Standard &lpar;YC S17&rpar; Is Hiring Rust/Go Engineers, SREs, and MLEs](https://careers.standard.ai/)
 - [Argus: Debugging Performance Issues with Annotated Causal Tracing](https://www.usenix.org/conference/atc21/presentation/weng)
 - [Fixing a Tiny Corner of the Supply Chain](https://www.bunniestudios.com/blog/?p=6274)
-- [Preventing extreme polarization of political attitudes](https://www.pnas.org/content/118/50/e2102139118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
