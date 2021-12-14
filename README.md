@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX turned Apple employee speaks out about sexual harassment at space company](https://spaceexplored.com/2021/12/14/spacex-sexual-harassment/)
+- [Web3 is going just great](https://web3isgoinggreat.com/)
 - [Linux Touchpad Like MacBook Update: Touchpad Gestures Now Shipping](https://www.gitclear.com/blog/linux_touchpad_update_december_2021)
+- [Faiss: Facebook&#39;s open source vector search library](https://github.com/facebookresearch/faiss)
 - [Dell and HPE switches come with &#39;American Megatrands&#39; stickers](https://www.servethehome.com/dude-dell-hpe-ami-american-megatrands/)
-- [Photos of a KH-12 Kennan Keyhole Secret Military Spy Satellite &lpar;2013&rpar;](https://www.spacesafetymagazine.com/space-debris/astrophotography/view-keyhole-satellite/)
-- [Find anything fast with Google&#39;s vector search technology](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
-- [The Arctic Is Warming Four Times Faster Than the Rest of the World](https://www.science.org/content/article/arctic-warming-four-times-faster-rest-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
