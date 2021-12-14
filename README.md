@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paperspace &lpar;YC W15&rpar; is hiring engineers to build next-gen storage platforms](https://www.paperspace.com/careers#open-positions)
+- [JWST placed on top of Ariane 5](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_placed_on_top_of_Ariane_5)
 - [Analogue Pocket Hate Story](https://endrift.com/2021/12/13/analogue-pocket-hate-story/)
 - [PyTorch vs. TensorFlow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
-- [Wolfram Cloud](https://www.wolframcloud.com/)
-- [Omicron variant more resistant to vaccine but causes less severe Covid](https://www.washingtonpost.com/world/2021/12/14/south-africa-omicron-coronavirus/)
-- [Revolutionaries at the Workplace](https://damnoptimist.substack.com/p/revolutionaries-at-the-workplace)
+- [Air travel is good and we should want more of it](https://jamesomalley.substack.com/p/air-travel-is-good-and-we-should)
 <!-- BLOG-POST-LIST:END -->
 
 ---
