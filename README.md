@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Arkansas waitress fired after getting $4,400 tip](https://www.washingtonpost.com/nation/2021/12/14/waitress-fired-big-tip/)
+- [I Can’t See You but I’m Not Blind](https://steveblank.com/2021/12/14/i-cant-see-you-but-im-not-blind/)
+- [The Great Bifurcation](https://stratechery.com/2021/the-great-bifurcation/)
+- [Launch HN: PreFlight &lpar;YC W19&rpar; – Better No-Code Test Automation for Web Apps](https://preflight.com)
 - [The battle of the computing clouds is intensifying](https://www.economist.com/business/the-battle-of-the-computing-clouds-is-intensifying/21806813)
 - [User racked up $45,000 in AWS charges due to a cryptominer hacking their account](https://twitter.com/jonnyplatt/status/1470714901412954112)
-- [Mux &lpar;YC W16&rpar; Is Hiring an Engineering Manager for the Video Delivery Team](https://mux.com/jobs?hnj=video-delivery)
-- [SQL: The difference between WHERE and HAVING](https://sql-bits.com/the-difference-between-where-and-having/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
