@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Can’t See You but I’m Not Blind](https://steveblank.com/2021/12/14/i-cant-see-you-but-im-not-blind/)
-- [The Great Bifurcation](https://stratechery.com/2021/the-great-bifurcation/)
-- [Launch HN: PreFlight &lpar;YC W19&rpar; – Better No-Code Test Automation for Web Apps](https://preflight.com)
-- [The battle of the computing clouds is intensifying](https://www.economist.com/business/the-battle-of-the-computing-clouds-is-intensifying/21806813)
-- [User racked up $45,000 in AWS charges due to a cryptominer hacking their account](https://twitter.com/jonnyplatt/status/1470714901412954112)
+- [The Web Is Fucked](https://thewebisfucked.com/)
+- [Omicron variant more resistant to vaccine but causes less severe Covid](https://www.washingtonpost.com/world/2021/12/14/south-africa-omicron-coronavirus/)
+- [The Difference Between Revolutionary and Evolutionary Employees](https://damnoptimist.substack.com/p/revolutionaries-at-the-workplace)
+- [Ask HN: Are Cybersecurity Workers Ok?](https://news.ycombinator.com/item?id=29552136)
+- [Three loud climate warning signals](https://www.axios.com/three-climate-warning-signals-9f930b4e-110a-4225-9eb9-c63a22993b82.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
