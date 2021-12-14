@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX turned Apple employee speaks out about sexual harassment at space company](https://spaceexplored.com/2021/12/14/spacex-sexual-harassment/)
-- [Web3 is going just great](https://web3isgoinggreat.com/)
-- [Linux Touchpad Like MacBook Update: Touchpad Gestures Now Shipping](https://www.gitclear.com/blog/linux_touchpad_update_december_2021)
-- [Faiss: Facebook&#39;s open source vector search library](https://github.com/facebookresearch/faiss)
-- [Dell and HPE switches come with &#39;American Megatrands&#39; stickers](https://www.servethehome.com/dude-dell-hpe-ami-american-megatrands/)
+- [Screw DSLs. Write migrations using plain SQL](https://github.com/charperbonaroo/pgmigrate)
+- [Dover &lpar;YC S19&rpar; just raised $20m and is hiring for all roles](https://dover.com/careers)
+- [Antarctica&#39;s &#39;Doomsday Glacier&#39; could meet its doom within 3 years](https://www.livescience.com/agu-antarctica-thwaites-glacier-future)
+- [XXH: Bring your favorite shell wherever you go through the SSH](https://github.com/xxh/xxh)
+- [Go Replaces Interface{} with &#39;Any&#39;](https://github.com/golang/go/commit/2580d0e08d5e9f979b943758d3c49877fb2324cb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
