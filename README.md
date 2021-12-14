@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mux &lpar;YC W16&rpar; Is Hiring an Engineering Manager for the Video Delivery Team](https://mux.com/jobs?hnj=video-delivery)
+- [IHP v0.17.0 has been released](https://github.com/digitallyinduced/ihp/releases/tag/v0.17.0)
+- [Former Harvard chemistry chair to stand trial for allegedly hiding ties to China](https://www.wgbh.org/news/education/2021/12/13/former-harvard-chemistry-chair-to-stand-trial-for-allegedly-hiding-ties-to-china)
 - [Rijksmuseum to Stage the Largest Vermeer Exhibition Ever &lpar;2023&rpar;](https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-to-stage-the-largest-vermeer-exhibition-ever)
-- [Lightning-Fast and Powerful Code Editor Written in Rust](https://github.com/lapce/lapce)
-- [Standard &lpar;YC S17&rpar; Is Hiring Rust/Go Engineers, SREs, and MLEs](https://careers.standard.ai/)
-- [Argus: Debugging Performance Issues with Annotated Causal Tracing](https://www.usenix.org/conference/atc21/presentation/weng)
-- [Fixing a Tiny Corner of the Supply Chain](https://www.bunniestudios.com/blog/?p=6274)
+- [Lapce – Fast and Powerful Code Editor written in Rust](https://github.com/lapce/lapce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
