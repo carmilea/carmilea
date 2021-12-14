@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Standard &lpar;YC S17&rpar; Is Hiring Rust/Go Engineers, SREs, and MLEs](https://careers.standard.ai/)
 - [Fixing a Tiny Corner of the Supply Chain](https://www.bunniestudios.com/blog/?p=6274)
 - [Preventing extreme polarization of political attitudes](https://www.pnas.org/content/118/50/e2102139118)
-- [Goodbye Gas Fees](https://every.to/almanack/layer-2)
 - [About the security content of macOS Monterey 12.1](https://support.apple.com/en-us/HT212978)
 - [Fun with File Formats](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/)
 <!-- BLOG-POST-LIST:END -->
