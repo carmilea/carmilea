@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I am offering a $100k bounty to the person who sets me up with my life parter](https://github.com/tolicodes/tolidates/blob/gh-pages/index.md)
+- [Digital Painting with Real Brushes: Light Strokes for iPad](https://www.instructables.com/Digital-Painting-With-Real-Brushes-Light-Strokes-f/)
 - [California halts Pony.ai&#39;s driverless testing permit after accident](https://www.reuters.com/article/ponyai-autonomous-test-idCNL4N2SY4KG)
-- [Facebook owner is behind $60 mln deal for Meta name rights](https://www.reuters.com/business/media-telecom/exclusive-facebook-owner-is-behind-60-mln-deal-meta-name-rights-2021-12-13/)
 - [uBlacklist: Blocks specific sites from appearing in Google search results](https://github.com/iorate/uBlacklist)
 - [Some thoughts on writing](https://danluu.com/writing-non-advice/)
+- [Kryptology: Coinbase’s Open Source Cryptography Library](https://blog.coinbase.com/meet-kryptology-coinbases-open-source-cryptography-library-b5f22854f3f7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
