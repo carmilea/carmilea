@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Web Is Fucked](https://thewebisfucked.com/)
+- [Analogue Pocket Hate Story](https://endrift.com/2021/12/13/analogue-pocket-hate-story/)
+- [PyTorch vs. TensorFlow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
+- [Wolfram Cloud](https://www.wolframcloud.com/)
 - [Omicron variant more resistant to vaccine but causes less severe Covid](https://www.washingtonpost.com/world/2021/12/14/south-africa-omicron-coronavirus/)
-- [The Difference Between Revolutionary and Evolutionary Employees](https://damnoptimist.substack.com/p/revolutionaries-at-the-workplace)
-- [Ask HN: Are Cybersecurity Workers Ok?](https://news.ycombinator.com/item?id=29552136)
-- [Three loud climate warning signals](https://www.axios.com/three-climate-warning-signals-9f930b4e-110a-4225-9eb9-c63a22993b82.html)
+- [Revolutionaries at the Workplace](https://damnoptimist.substack.com/p/revolutionaries-at-the-workplace)
 <!-- BLOG-POST-LIST:END -->
 
 ---
