@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Saule Omarova says banks sank her chance to become a key regulator](https://www.npr.org/2021/12/13/1063767973/saule-omarova-gets-candid-banks-sank-her-nomination-to-head-occ)
+- [Gaming on Wayland](https://zamundaaa.github.io/wayland/2021/12/14/about-gaming-on-wayland.html)
+- [Foot: A fast and minimalistic Wayland terminal emulator](https://codeberg.org/dnkl/foot)
 - [Building an Autonomous Generative Art Collection with P5.js](https://richtabor.com/generative-art/)
-- [Tesla’s high-beam assist feature surprised by Swedish moose](https://www.vibilagare.se/nyheter/teslas-high-beam-assist-feature-surprised-swedish-moose)
 - [Pgmigrate: Write migrations using plain SQL](https://github.com/charperbonaroo/pgmigrate)
-- [Dover &lpar;YC S19&rpar; is hiring for all roles](https://dover.com/careers)
-- [XXH: Bring your favorite shell wherever you go through the SSH](https://github.com/xxh/xxh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
