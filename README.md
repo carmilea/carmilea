@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lightning-Fast and Powerful Code Editor Written in Rust](https://github.com/lapce/lapce)
+- [Can This DIY Rocket Program Send an Astronaut to Space](https://spectrum.ieee.org/diy-rocket-program)
 - [Standard &lpar;YC S17&rpar; Is Hiring Rust/Go Engineers, SREs, and MLEs](https://careers.standard.ai/)
+- [Argus: Debugging Performance Issues with Annotated Causal Tracing](https://www.usenix.org/conference/atc21/presentation/weng)
 - [Fixing a Tiny Corner of the Supply Chain](https://www.bunniestudios.com/blog/?p=6274)
-- [Preventing extreme polarization of political attitudes](https://www.pnas.org/content/118/50/e2102139118)
-- [About the security content of macOS Monterey 12.1](https://support.apple.com/en-us/HT212978)
-- [Fun with File Formats](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
