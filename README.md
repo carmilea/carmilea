@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Paperspace &lpar;YC W15&rpar; is hiring engineers to build next-gen storage platforms](https://www.paperspace.com/careers#open-positions)
-- [JWST placed on top of Ariane 5](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_placed_on_top_of_Ariane_5)
-- [Analogue Pocket Hate Story](https://endrift.com/2021/12/13/analogue-pocket-hate-story/)
-- [PyTorch vs. TensorFlow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
-- [Air travel is good and we should want more of it](https://jamesomalley.substack.com/p/air-travel-is-good-and-we-should)
+- [Find anything fast with Google&#39;s vector search technology](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
+- [The Arctic Is Warming Four Times Faster Than the Rest of the World](https://www.science.org/content/article/arctic-warming-four-times-faster-rest-world)
+- [Hex-rays is moving to a subscription model](https://hex-rays.com/blog/hex-rays-is-moving-to-a-subscription-model/)
+- [All Hyped Up for Hypercard: Further Adventures with an Apple Legacy Format](https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/)
+- [OpenSSL Security Advisory &lpar;14 December 2021&rpar;](https://www.openssl.org/news/secadv/20211214.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
