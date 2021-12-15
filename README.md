@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Unix System Implementation for System/370 [pdf]](https://www.bell-labs.com/usr/dmr/www/otherports/ibm.pdf)
+- [Clojure Macros and Metaprogramming](https://clojure-doc.github.io/articles/language/macros/)
 - [Relationship Hero &lpar;YC S17&rpar; Is Hiring Coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
-- [Allocgate: Restructuring how allocators work in Zig](https://pithlessly.github.io/allocgate.html)
-- [How to build large-scale end-to-end encrypted group video calls](https://signal.org/blog/how-to-build-encrypted-group-calls/)
-- [Building Sheds: 5 years of polishing, and only 3 points on HN](https://cassandraxia.com/writing/shed.html)
-- [Swift Playgrounds 4](https://www.apple.com/swift/playgrounds/)
+- [Attacking Natural Language Processing Systems with Adversarial Examples](https://www.unite.ai/attacking-natural-language-processing-systems-with-adversarial-examples/)
+- [Show HN: FastWSGI, an ultra-fast WSGI server for Python](https://github.com/jamesroberts/fastwsgi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
