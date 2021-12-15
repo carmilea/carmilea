@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Analysis of the 2nd Log4j CVE published earlier &lpar;CVE-2021-45046 / Log4Shell2&rpar;](https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/)
+- [Aviation Safety Whistleblower Report on 737 Max [pdf]](https://www.commerce.senate.gov/services/files/48E3E2DE-6DFC-4602-BADF-8926F551B670)
+- [Busy Simulator: Feign importance with repeating app sounds](https://busysimulator.com/)
 - [DevCycle.com &lpar;YC W14&rpar;, Feature Flags For Remote Teams, is hiring full-stack devs](https://devcycle.com/company/careers)
 - [Cash Glut in Eurozone Drives Dollar Demand](https://www.wsj.com/articles/cash-glut-in-eurozone-drives-dollar-demand-11639477801)
-- [AWS Translate and SingleStore](https://www.singlestore.com/blog/aws-translate-and-singlestore)
-- [Pico CSS Framework](https://picocss.com/)
-- [About Three-in-Ten U.S. Adults Are Now Religiously Unaffiliated](https://www.pewforum.org/2021/12/14/about-three-in-ten-u-s-adults-are-now-religiously-unaffiliated/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
