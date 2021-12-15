@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: JWEB &lpar;a modern implementation of the CWEB Literate Programming system&rpar;](https://github.com/matjp/jweb)
+- [Ask HN: How do you manage direct updates to databases in a production system](https://news.ycombinator.com/item?id=29563226)
 - [Caterwaul: A JavaScript-to-JavaScript Compiler](https://github.com/spencertipping/caterwaul)
 - [Writing a self-modifying x86 factorial program](https://brianstadnicki.github.io/posts/asm-self-modifying-factorial/)
 - [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://raycast.com/jobs)
-- [&#39;It Saved My Life&#39;: Depression Treatment Is Turning Lives Around in Five Days](https://www.kqed.org/news/11898991/it-saved-my-life-depression-treatment-turns-lives-around-in-five-days)
-- [Why battery costs have plunged since 2010](https://fullstackeconomics.com/untitled-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
