@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Chrome Zero Day CVE-2021-4102, Use after free in V8](https://chromereleases.googleblog.com/2021/12/stable-channel-update-for-desktop_13.html)
+- [Why battery costs have plunged 89 percent since 2010](https://fullstackeconomics.com/untitled-2/)
+- [Fish Sees Through Its Own Head](https://www.mbari.org/products/creature-feature/barreleye-landing-page/)
+- [NASA spacecraft ‘touches’ the Sun for the first time ever](https://www.nature.com/articles/d41586-021-03751-5)
 - [Analysis of the 2nd Log4j CVE published earlier &lpar;CVE-2021-45046 / Log4Shell2&rpar;](https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/)
 - [Ask HN: Private Alternatives to Alexa?](https://news.ycombinator.com/item?id=29561452)
-- [Aviation Safety Whistleblower Report on 737 Max [pdf]](https://www.commerce.senate.gov/services/files/48E3E2DE-6DFC-4602-BADF-8926F551B670)
-- [Busy Simulator: Feign importance with repeating app sounds](https://busysimulator.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
