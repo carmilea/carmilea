@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Stand Out with Your Job Application as a Junior Software Developer](https://akoskm.com/how-to-stand-out-with-your-job-application)
+- [Apple revoked developer account for 2.5 years and counting, unfair treatment](https://news.ycombinator.com/item?id=29569561)
 - [ATX-80 – ZX-80 computer clone with ATmega8 processor](http://www.breatharian.eu/hw/atx80/index_en.html)
-- [Brave: Preventing Pool-Party Attacks](https://brave.com/privacy-updates/13-pool-party-side-channels/)
+- [Preventing Pool-Party Attacks](https://brave.com/privacy-updates/13-pool-party-side-channels/)
 - [JFK Assassination Records – 2021 Additional Documents Release](https://www.archives.gov/research/jfk/release2021)
-- [Proof of Steak](https://arxiv.org/abs/2112.06498)
-- [A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution](https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
