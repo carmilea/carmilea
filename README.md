@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://raycast.com/jobs)
 - [Why battery costs have plunged since 2010](https://fullstackeconomics.com/untitled-2/)
 - [Barreleye fish](https://www.mbari.org/products/creature-feature/barreleye-landing-page/)
 - [NASA spacecraft ‘touches’ the Sun for the first time ever](https://www.nature.com/articles/d41586-021-03751-5)
 - [Log4Shell update: second Log4j vulnerability published](https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/)
-- [Ask HN: Private Alternatives to Alexa?](https://news.ycombinator.com/item?id=29561452)
 <!-- BLOG-POST-LIST:END -->
 
 ---
