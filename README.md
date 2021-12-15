@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Removes All References to Controversial CSAM Scanning Feature from Its…](https://www.macrumors.com/2021/12/15/apple-nixes-csam-references-website/)
+- [Raspberry Pi Zero 2 W external antenna mod](https://shop.sb-components.co.uk/blogs/posts/adding-an-additional-antenna-with-a-u-fl-rf-connection-to-a-raspberry-pi-zero-2-w)
 - [Myocarditis associated with Covid-19 compared to mRNA vaccines](https://www.nature.com/articles/s41591-021-01630-0)
+- [Gitlab Epic Issue Relationships Deleted](https://status.gitlab.com/pages/incident/5b36dc6502d06804c08349f7/61b948dd8e1cce053fe155de)
 - [Plasmic – The Headless Page Builder](https://github.com/plasmicapp/plasmic)
-- [Ask HN: Do you still use Clubhouse app?](https://news.ycombinator.com/item?id=29563527)
-- [Show HN: JWEB &lpar;a modern implementation of the CWEB Literate Programming system&rpar;](https://github.com/matjp/jweb)
-- [HTTP/3 Is Fast](https://requestmetrics.com/web-performance/http3-is-fast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
