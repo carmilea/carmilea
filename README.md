@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Unix System Implementation for System/370 [pdf]](https://www.bell-labs.com/usr/dmr/www/otherports/ibm.pdf)
-- [Clojure Macros and Metaprogramming](https://clojure-doc.github.io/articles/language/macros/)
-- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
-- [Attacking Natural Language Processing Systems with Adversarial Examples](https://www.unite.ai/attacking-natural-language-processing-systems-with-adversarial-examples/)
-- [Show HN: FastWSGI, an ultra-fast WSGI server for Python](https://github.com/jamesroberts/fastwsgi)
+- [Geoff Foster on the art of sound engineering](https://composer.spitfireaudio.com/en/articles/geoff-foster-on-the-art-of-engineering)
+- [Crypto wallets security as seen by security engineers](https://www.cossacklabs.com/blog/crypto-wallets-security/)
+- [Chess.com vs. Lichess](https://siddhesh.substack.com/p/chesscom-vs-lichess)
+- [Show HN: Overpass – a self-hosted video live streaming app](https://github.com/GOATS2K/overpass)
+- [A Unix System Implementation for System/370 &lpar;1984&rpar; [pdf]](https://www.bell-labs.com/usr/dmr/www/otherports/ibm.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
