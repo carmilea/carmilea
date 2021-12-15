@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Myocarditis associated with Covid-19 compared to mRNA vaccines](https://www.nature.com/articles/s41591-021-01630-0)
+- [Plasmic – The Headless Page Builder](https://github.com/plasmicapp/plasmic)
+- [Ask HN: Do you still use Clubhouse app?](https://news.ycombinator.com/item?id=29563527)
 - [Show HN: JWEB &lpar;a modern implementation of the CWEB Literate Programming system&rpar;](https://github.com/matjp/jweb)
-- [Ask HN: How do you manage direct updates to databases in a production system](https://news.ycombinator.com/item?id=29563226)
-- [Caterwaul: A JavaScript-to-JavaScript Compiler](https://github.com/spencertipping/caterwaul)
-- [Writing a self-modifying x86 factorial program](https://brianstadnicki.github.io/posts/asm-self-modifying-factorial/)
-- [Raycast &lpar;YC W20&rpar; Is Hiring to Make Work Frictionless &lpar;Remote in Europe&rpar;](https://raycast.com/jobs)
+- [HTTP/3 Is Fast](https://requestmetrics.com/web-performance/http3-is-fast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
