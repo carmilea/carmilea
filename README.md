@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Saule Omarova says banks sank her chance to become a key regulator](https://www.npr.org/2021/12/13/1063767973/saule-omarova-gets-candid-banks-sank-her-nomination-to-head-occ)
+- [Devcycle.com &lpar;YC W14&rpar;, Feature Flags For Remote Teams, is hiring full-stack devs](https://devcycle.com/company/careers)
+- [Pico CSS Framework](https://picocss.com/)
+- [About Three-in-Ten U.S. Adults Are Now Religiously Unaffiliated](https://www.pewforum.org/2021/12/14/about-three-in-ten-u-s-adults-are-now-religiously-unaffiliated/)
+- [When the government hides spy cameras on your land, fight back in court](https://www.tennessean.com/story/opinion/2021/12/13/when-government-hides-spy-cameras-your-land-fight-back-court/6500524001/)
 - [Gaming on Wayland](https://zamundaaa.github.io/wayland/2021/12/14/about-gaming-on-wayland.html)
-- [Foot: A fast and minimalistic Wayland terminal emulator](https://codeberg.org/dnkl/foot)
-- [Building an Autonomous Generative Art Collection with P5.js](https://richtabor.com/generative-art/)
-- [Pgmigrate: Write migrations using plain SQL](https://github.com/charperbonaroo/pgmigrate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
