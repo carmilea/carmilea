@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build large-scale end-to-end encrypted group video calls](https://signal.org/blog/how-to-build-encrypted-group-calls/)
+- [Inventing the Atari 2600](https://spectrum.ieee.org/atari-2600)
 - [How to Stand Out with Your Job Application as a Junior Software Developer](https://akoskm.com/how-to-stand-out-with-your-job-application)
 - [Apple revoked developer account for 2.5 years and counting, unfair treatment](https://news.ycombinator.com/item?id=29569561)
 - [ATX-80 – ZX-80 computer clone with ATmega8 processor](http://www.breatharian.eu/hw/atx80/index_en.html)
-- [Preventing Pool-Party Attacks](https://brave.com/privacy-updates/13-pool-party-side-channels/)
-- [JFK Assassination Records – 2021 Additional Documents Release](https://www.archives.gov/research/jfk/release2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
