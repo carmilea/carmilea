@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Devcycle.com &lpar;YC W14&rpar;, Feature Flags For Remote Teams, is hiring full-stack devs](https://devcycle.com/company/careers)
+- [DevCycle.com &lpar;YC W14&rpar;, Feature Flags For Remote Teams, is hiring full-stack devs](https://devcycle.com/company/careers)
+- [Cash Glut in Eurozone Drives Dollar Demand](https://www.wsj.com/articles/cash-glut-in-eurozone-drives-dollar-demand-11639477801)
+- [AWS Translate and SingleStore](https://www.singlestore.com/blog/aws-translate-and-singlestore)
 - [Pico CSS Framework](https://picocss.com/)
 - [About Three-in-Ten U.S. Adults Are Now Religiously Unaffiliated](https://www.pewforum.org/2021/12/14/about-three-in-ten-u-s-adults-are-now-religiously-unaffiliated/)
-- [When the government hides spy cameras on your land, fight back in court](https://www.tennessean.com/story/opinion/2021/12/13/when-government-hides-spy-cameras-your-land-fight-back-court/6500524001/)
-- [Gaming on Wayland](https://zamundaaa.github.io/wayland/2021/12/14/about-gaming-on-wayland.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
