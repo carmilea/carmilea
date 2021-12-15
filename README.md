@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Okta Outage](https://status.okta.com/)
-- [Ask HN: I&#39;ve lost faith in myself as a developer, how do I get it back?](https://news.ycombinator.com/item?id=29567743)
-- [Mayo Clinic research finds immune system responds to mRNA treatment for cancer](https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-finds-immune-system-responds-to-mrna-treatment-for-cancer/)
-- [AWS appears to be down again](https://news.ycombinator.com/item?id=29567170)
-- [Zed: lightning-fast, collaborative code editor written in Rust &lpar;Atom team&rpar;](https://zed.dev)
+- [A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution](https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html)
+- [DigiBuild Software &lpar;YC S21&rpar; Is Hiring a Principal Engineer/Tech Lead](https://www.ycombinator.com/companies/digibuild-software-inc/jobs/OGXJse8-digibuild-s21-is-hiring-a-principal-engineer-tech-lead-backed-by-yc-tim-draper-harvard-university)
+- [Mess with DNS](https://jvns.ca/blog/2021/12/15/mess-with-dns/)
+- [Arc Institute – A new institution for curiosity-driven biomed. science and tech](https://arcinstitute.org/)
+- [The growth of command line options, 1979-Present](https://danluu.com/cli-complexity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
