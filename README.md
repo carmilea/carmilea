@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Coaches – Full Time Remote](https://relationshiphero.com/careers?role=coach)
+- [Allocgate: Restructuring how allocators work in Zig](https://pithlessly.github.io/allocgate.html)
 - [How to build large-scale end-to-end encrypted group video calls](https://signal.org/blog/how-to-build-encrypted-group-calls/)
-- [Inventing the Atari 2600](https://spectrum.ieee.org/atari-2600)
-- [How to Stand Out with Your Job Application as a Junior Software Developer](https://akoskm.com/how-to-stand-out-with-your-job-application)
-- [Apple revoked developer account for 2.5 years and counting, unfair treatment](https://news.ycombinator.com/item?id=29569561)
-- [ATX-80 – ZX-80 computer clone with ATmega8 processor](http://www.breatharian.eu/hw/atx80/index_en.html)
+- [Building Sheds: 5 years of polishing, and only 3 points on HN](https://cassandraxia.com/writing/shed.html)
+- [Swift Playgrounds 4](https://www.apple.com/swift/playgrounds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
