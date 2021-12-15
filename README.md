@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zed: lightning-fast, collaborative code editor written in Rust](https://zed.dev)
-- [Pine64 and Radxa&#39;s new Pi CM4-compatible boards](https://www.jeffgeerling.com/blog/2021/pine64-and-radxas-new-pi-cm4-compatible-boards)
-- [The Serious and the Smirk – The Smile in Portraiture](https://publicdomainreview.org/essay/the-serious-and-the-smirk-the-smile-in-portraiture/)
-- [FreeBSD Handbook / Introduction](https://docs.freebsd.org/en/books/handbook/introduction/)
-- [No, we didn’t accidentally create a warp bubble](https://bigthink.com/starts-with-a-bang/no-warp-bubble/)
+- [Okta Outage](https://status.okta.com/)
+- [Ask HN: I&#39;ve lost faith in myself as a developer, how do I get it back?](https://news.ycombinator.com/item?id=29567743)
+- [Mayo Clinic research finds immune system responds to mRNA treatment for cancer](https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-research-finds-immune-system-responds-to-mrna-treatment-for-cancer/)
+- [AWS appears to be down again](https://news.ycombinator.com/item?id=29567170)
+- [Zed: lightning-fast, collaborative code editor written in Rust &lpar;Atom team&rpar;](https://zed.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
