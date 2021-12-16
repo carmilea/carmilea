@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [HitPay &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/hitpay/jobs/nJUX35c-product-manager)
-- [Google Sues dont.farm [pdf]](https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/1_Complaint.pdf)
-- [MovForth: Compiler for the Forth language using LLVM](https://github.com/Reschivon/movForth)
-- [Reddit Files IPO](https://www.reuters.com/markets/us/reddit-files-us-ipo-2021-12-16/)
+- [Google Sues Glupteba botnet [pdf]](https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/1_Complaint.pdf)
+- [No limit to maximal lifespan in humans: how to beat a 122-year-old record](https://pubmed.ncbi.nlm.nih.gov/34869788/)
+- [Reddit files to go public](https://www.reuters.com/markets/us/reddit-files-us-ipo-2021-12-16/)
 - [Yamaha RA-100 Rotating Speaker Organ Amp](http://www.lydian.ca/yamaha-ra-100-rotating-speaker-organ-amp/)
 <!-- BLOG-POST-LIST:END -->
 
