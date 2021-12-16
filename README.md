@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PostEra &lpar;YC W20&rpar; Is Hiring – ML for Drug Discovery – FS Developer and ML Engineer](https://news.ycombinator.com/item?id=29580457)
-- [Show HN: I made an app that tracks your devices&#39; batteries from your Mac](https://www.fadel.io/batteries)
-- [Windows 11 Officially Shuts Down Firefox’s Default Browser Workaround](https://www.howtogeek.com/774542/windows-11-officially-shuts-down-firefoxs-default-browser-workaround/)
-- [India defuses its population bomb: Fertility falls to two children per woman](https://www.science.org/content/article/india-defuses-its-population-bomb-fertility-falls-two-children-woman)
-- [Cryptocurrency scams cost owners $7.7B in 2021, driven by DeFi-based “rug pulls”](https://blog.chainalysis.com/reports/2021-crypto-scam-revenues/)
+- [Hugging Face Acquires Gradio](https://gradio.app/joining-huggingface/)
+- [NY Man Pleads Guilty in $20M SIM Swap Theft](https://krebsonsecurity.com/2021/12/ny-man-pleads-guilty-in-20-million-sim-swap-theft/)
+- [Expired web domains help criminal hackers unlock enterprise defenses](https://portswigger.net/daily-swig/how-expired-web-domains-help-criminal-hackers-unlock-enterprise-defenses)
+- [Ask HN: Are most of us developers lying about how much work we do?](https://news.ycombinator.com/item?id=29581125)
+- [Trying Out Generics in Go](https://markphelps.me/posts/trying-out-generics-in-go/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
