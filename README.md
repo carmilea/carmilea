@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [tqdm &lpar;Python&rpar;](https://tqdm.github.io/)
+- [A Discussion of Oberon](http://www.edm2.com/0608/oberon.html)
 - [Hugging Face Acquires Gradio](https://gradio.app/joining-huggingface/)
 - [NY Man Pleads Guilty in $20M SIM Swap Theft](https://krebsonsecurity.com/2021/12/ny-man-pleads-guilty-in-20-million-sim-swap-theft/)
 - [Expired web domains help criminal hackers unlock enterprise defenses](https://portswigger.net/daily-swig/how-expired-web-domains-help-criminal-hackers-unlock-enterprise-defenses)
-- [Show HN: Describe SQL using natural language, and execute against real data](https://news.ycombinator.com/item?id=29581376)
-- [Ask HN: Are most of us developers lying about how much work we do?](https://news.ycombinator.com/item?id=29581125)
 <!-- BLOG-POST-LIST:END -->
 
 ---
