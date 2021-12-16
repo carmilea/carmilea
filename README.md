@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PostEra &lpar;YC W20&rpar; Is Hiring – ML for Drug Discovery – FS Developer and ML Engineer](https://news.ycombinator.com/item?id=29580457)
+- [Show HN: I made an app that tracks your devices&#39; batteries from your Mac](https://www.fadel.io/batteries)
+- [Windows 11 Officially Shuts Down Firefox’s Default Browser Workaround](https://www.howtogeek.com/774542/windows-11-officially-shuts-down-firefoxs-default-browser-workaround/)
 - [India defuses its population bomb: Fertility falls to two children per woman](https://www.science.org/content/article/india-defuses-its-population-bomb-fertility-falls-two-children-woman)
 - [Cryptocurrency scams cost owners $7.7B in 2021, driven by DeFi-based “rug pulls”](https://blog.chainalysis.com/reports/2021-crypto-scam-revenues/)
-- [Why Level-3 Autonomy is a major milestone in self-driving cars](https://www.robotsinplainenglish.com/e/2021-12-12-level-3-autonomous.html)
-- [Nature does not use propellers. So why do people?](https://www.economist.com/science-and-technology/nature-does-not-use-propellers-so-why-do-people/21806832)
-- [What Does It Mean for AI to Understand?](https://www.quantamagazine.org/what-does-it-mean-for-ai-to-understand-20211216/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
