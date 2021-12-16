@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [tqdm &lpar;Python&rpar;](https://tqdm.github.io/)
-- [A Discussion of Oberon](http://www.edm2.com/0608/oberon.html)
-- [Hugging Face Acquires Gradio](https://gradio.app/joining-huggingface/)
-- [NY Man Pleads Guilty in $20M SIM Swap Theft](https://krebsonsecurity.com/2021/12/ny-man-pleads-guilty-in-20-million-sim-swap-theft/)
-- [Expired web domains help criminal hackers unlock enterprise defenses](https://portswigger.net/daily-swig/how-expired-web-domains-help-criminal-hackers-unlock-enterprise-defenses)
+- [Smarking &lpar;YC W15&rpar; Is Hiring a Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Ask HN: So who else is getting a pay cut this year?](https://news.ycombinator.com/item?id=29583788)
+- [The Golden Age of Compiler Design in an Era of HW/SW Co-Design [video]](https://www.youtube.com/watch?v=4HgShra-KnY)
+- [Cloudflare Experiencing Latency Issues](https://www.cloudflarestatus.com)
+- [Can “Distraction-Free” Devices Change the Way We Write?](https://www.newyorker.com/magazine/2021/12/20/can-distraction-free-devices-change-the-way-we-write)
 <!-- BLOG-POST-LIST:END -->
 
 ---
