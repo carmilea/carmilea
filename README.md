@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s the jankiest piece of tech you’ve seen a company depend on?](https://twitter.com/_brohrer_/status/1471112859400687627)
+- [Pelosi defends stock trading by lawmakers. ‘We are a free-market economy’](https://www.marketwatch.com/story/pelosi-defends-lawmakers-and-their-spouses-trading-stocks-we-are-a-free-market-economy-01639606786)
+- [Psygnosis &lpar;Wipeout, Lemmings etc.&rpar; co-founder Ian Hetherington has died](https://metro.co.uk/2021/12/16/psygnosis-co-founder-ian-hetherington-has-died-15780365/)
 - [From Node to Ruby on Rails](https://nikodunk.com/a-node-js-developer-discovers-rails/)
-- [Mathematician Hurls Structure and Disorder into Century-Old Problem](https://www.quantamagazine.org/oxford-mathematician-advances-century-old-combinatorics-problem-20211215/)
-- [Promoted.ai &lpar;YC W21&rpar; Is Hiring an Apache Flink Expert](https://www.ycombinator.com/companies/promoted/jobs/i92St29-apache-flink-expert)
-- [LibreQoS: QoS for ISPs](https://github.com/rchac/LibreQoS)
-- [Clever uses of pass, the Unix password manager](https://vitalyparnas.com/guides/pass/)
+- [What&#39;s New in ClickHouse 21.12](https://clickhouse.com/blog/en/2021/clickhouse-v21.12-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
