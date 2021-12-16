@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Log4j 2.15.0 – Previously suggested mitigations may not be enough](https://isc.sans.edu/diary/Log4j+2.15.0+and+previously+suggested+mitigations+may+not+be+enough/28134)
 - [Sturdy &lpar;YC W21&rpar; is hiring founding engineers in Stockholm, Sweden](https://news.ycombinator.com/item?id=29575782)
-- [Analysis of Leading Twitter Communities Disseminating ArXiv Information](https://arxiv.org/abs/2112.08073)
 - [To reduce student suicides by hanging to fans, institute in India removes fans](https://www.deccanherald.com/city/students-say-iisc-removing-fans-to-prevent-suicides-1061221.html)
 - [Kobayashi’s Maid Dragon Translation Notes](https://tlnotes.com/)
 - [Isn&#39;t she just Misunderstood? The Casio Loopy](https://nicole.express/2021/going-loopy-for-a-casio.html)
