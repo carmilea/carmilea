@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mathematician Hurls Structure and Disorder into Century-Old Problem](https://www.quantamagazine.org/oxford-mathematician-advances-century-old-combinatorics-problem-20211215/)
 - [Promoted.ai &lpar;YC W21&rpar; Is Hiring an Apache Flink Expert](https://www.ycombinator.com/companies/promoted/jobs/i92St29-apache-flink-expert)
 - [LibreQoS: QoS for ISPs](https://github.com/rchac/LibreQoS)
 - [Clever uses of pass, the Unix password manager](https://vitalyparnas.com/guides/pass/)
 - [Russian court accidentally confirmed Russian military presence in Ukraine](https://www.znak.com/2021-12-16/rostovskiy_sud_opublikoval_prigovor_s_podtverzhdeniem_prisutstviya_voennyh_rf_v_donbasse)
-- [Leveraging SIMD: Splitting CSV Files at 3Gb/S](https://blog.tinybird.co/2021/12/14/simd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
