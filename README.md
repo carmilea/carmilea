@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HitPay &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/hitpay/jobs/nJUX35c-product-manager)
+- [Google Sues dont.farm [pdf]](https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/1_Complaint.pdf)
+- [MovForth: Compiler for the Forth language using LLVM](https://github.com/Reschivon/movForth)
+- [Reddit Files IPO](https://www.reuters.com/markets/us/reddit-files-us-ipo-2021-12-16/)
 - [Yamaha RA-100 Rotating Speaker Organ Amp](http://www.lydian.ca/yamaha-ra-100-rotating-speaker-organ-amp/)
-- [Einstein Wins Again](https://www.mpifr-bonn.mpg.de/pressreleases/2021/12)
-- [GPT-3 APIs are now in public beta](https://openai.com/api/)
-- [For a second straight year, school enrollment is dropping](https://text.npr.org/1062999168)
-- [Tell HN: Azure is having a major outage](https://news.ycombinator.com/item?id=29574027)
 <!-- BLOG-POST-LIST:END -->
 
 ---
