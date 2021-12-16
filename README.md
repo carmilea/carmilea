@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [World of Text is an infinite grid of text editable by any visitor](https://www.yourworldoftext.com/)
+- [Don&#39;t start with microservices – monoliths are your friend](https://arnoldgalovics.com/microservices-in-production/)
 - [Awkward: Nested, jagged, differentiable, mixed type, GPU-enabled, JIT&#39;d NumPy](https://awkward-array.org/quickstart.html)
 - [Log4j 2.15.0 – Previously suggested mitigations may not be enough](https://isc.sans.edu/diary/Log4j+2.15.0+and+previously+suggested+mitigations+may+not+be+enough/28134)
 - [Sturdy &lpar;YC W21&rpar; is hiring founding engineers in Stockholm, Sweden](https://news.ycombinator.com/item?id=29575782)
-- [To reduce student suicides by hanging to fans, institute in India removes fans](https://www.deccanherald.com/city/students-say-iisc-removing-fans-to-prevent-suicides-1061221.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
