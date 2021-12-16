@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sturdy &lpar;YC W21&rpar; is hiring founding engineers in Stockholm, Sweden](https://news.ycombinator.com/item?id=29575782)
+- [Analysis of Leading Twitter Communities Disseminating ArXiv Information](https://arxiv.org/abs/2112.08073)
+- [To reduce student suicides by hanging to fans, institute in India removes fans](https://www.deccanherald.com/city/students-say-iisc-removing-fans-to-prevent-suicides-1061221.html)
 - [Kobayashi’s Maid Dragon Translation Notes](https://tlnotes.com/)
 - [Isn&#39;t she just Misunderstood? The Casio Loopy](https://nicole.express/2021/going-loopy-for-a-casio.html)
-- [QEMU 6.2](https://wiki.qemu.org/ChangeLog/6.2)
-- [HitPay &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/hitpay/jobs/nJUX35c-product-manager)
-- [Google Sues Glupteba botnet [pdf]](https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/1_Complaint.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
