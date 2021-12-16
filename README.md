@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Carmen Ortiz Has Blood on Her Hands](https://mattbruenig.com/2021/12/13/carmen-ortiz-has-blood-on-her-hands/)
+- [IBM and Samsung Unveil Semiconductor Breakthrough](https://newsroom.ibm.com/2021-12-14-IBM-and-Samsung-Unveil-Semiconductor-Breakthrough-That-Defies-Conventional-Design)
+- [Chiselstore: an embeddable, distributed SQLite for Rust](https://github.com/chiselstrike/chiselstore)
 - [Geoff Foster on the art of sound engineering](https://composer.spitfireaudio.com/en/articles/geoff-foster-on-the-art-of-engineering)
-- [Crypto wallets security as seen by security engineers](https://www.cossacklabs.com/blog/crypto-wallets-security/)
-- [Chess.com vs. Lichess](https://siddhesh.substack.com/p/chesscom-vs-lichess)
-- [Show HN: Overpass – a self-hosted video live streaming app](https://github.com/GOATS2K/overpass)
-- [A Unix System Implementation for System/370 &lpar;1984&rpar; [pdf]](https://www.bell-labs.com/usr/dmr/www/otherports/ibm.pdf)
+- [Crypto wallet security as seen by security engineers](https://www.cossacklabs.com/blog/crypto-wallets-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
