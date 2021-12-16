@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kobayashi’s Maid Dragon Translation Notes](https://tlnotes.com/)
+- [Isn&#39;t she just Misunderstood? The Casio Loopy](https://nicole.express/2021/going-loopy-for-a-casio.html)
+- [QEMU 6.2](https://wiki.qemu.org/ChangeLog/6.2)
 - [HitPay &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/hitpay/jobs/nJUX35c-product-manager)
 - [Google Sues Glupteba botnet [pdf]](https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/1_Complaint.pdf)
-- [No limit to maximal lifespan in humans: how to beat a 122-year-old record](https://pubmed.ncbi.nlm.nih.gov/34869788/)
-- [Reddit files to go public](https://www.reuters.com/markets/us/reddit-files-us-ipo-2021-12-16/)
-- [Yamaha RA-100 Rotating Speaker Organ Amp](http://www.lydian.ca/yamaha-ra-100-rotating-speaker-organ-amp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
