@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s the jankiest piece of tech you’ve seen a company depend on?](https://twitter.com/_brohrer_/status/1471112859400687627)
-- [Pelosi defends stock trading by lawmakers. ‘We are a free-market economy’](https://www.marketwatch.com/story/pelosi-defends-lawmakers-and-their-spouses-trading-stocks-we-are-a-free-market-economy-01639606786)
-- [Psygnosis &lpar;Wipeout, Lemmings etc.&rpar; co-founder Ian Hetherington has died](https://metro.co.uk/2021/12/16/psygnosis-co-founder-ian-hetherington-has-died-15780365/)
-- [From Node to Ruby on Rails](https://nikodunk.com/a-node-js-developer-discovers-rails/)
-- [What&#39;s New in ClickHouse 21.12](https://clickhouse.com/blog/en/2021/clickhouse-v21.12-released/)
+- [India defuses its population bomb: Fertility falls to two children per woman](https://www.science.org/content/article/india-defuses-its-population-bomb-fertility-falls-two-children-woman)
+- [Cryptocurrency scams cost owners $7.7B in 2021, driven by DeFi-based “rug pulls”](https://blog.chainalysis.com/reports/2021-crypto-scam-revenues/)
+- [Why Level-3 Autonomy is a major milestone in self-driving cars](https://www.robotsinplainenglish.com/e/2021-12-12-level-3-autonomous.html)
+- [Nature does not use propellers. So why do people?](https://www.economist.com/science-and-technology/nature-does-not-use-propellers-so-why-do-people/21806832)
+- [What Does It Mean for AI to Understand?](https://www.quantamagazine.org/what-does-it-mean-for-ai-to-understand-20211216/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
