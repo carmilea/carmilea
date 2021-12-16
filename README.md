@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Polars: Lightning-fast DataFrame library for Rust and Python](https://www.pola.rs/)
+- [ArchiveTeam Warrior backing up Reddit](https://tracker.archiveteam.org/reddit/)
+- [Dungeons and Dragons Is a Case Study in How Capitalism Kills Art](https://www.jacobinmag.com/2021/11/dd-ttrpgs-gygax-arneson-peterson-games-capitalism)
 - [Facebook bans 7 &#39;surveillance-for-hire&#39; companies that spied on 50k users](https://www.npr.org/2021/12/16/1064628654/facebook-bans-surveillance-firms-that-spied-on-50000-people)
 - [Smarking &lpar;YC W15&rpar; Is Hiring a Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [The Golden Age of Compiler Design in an Era of HW/SW Co-Design [video]](https://www.youtube.com/watch?v=4HgShra-KnY)
-- [Cloudflare Experiencing Latency Issues](https://www.cloudflarestatus.com)
-- [Can “Distraction-Free” Devices Change the Way We Write?](https://www.newyorker.com/magazine/2021/12/20/can-distraction-free-devices-change-the-way-we-write)
 <!-- BLOG-POST-LIST:END -->
 
 ---
