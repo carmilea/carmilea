@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yamaha RA-100 Rotating Speaker Organ Amp](http://www.lydian.ca/yamaha-ra-100-rotating-speaker-organ-amp/)
+- [Einstein Wins Again](https://www.mpifr-bonn.mpg.de/pressreleases/2021/12)
+- [GPT-3 APIs are now in public beta](https://openai.com/api/)
+- [For a second straight year, school enrollment is dropping](https://text.npr.org/1062999168)
 - [Tell HN: Azure is having a major outage](https://news.ycombinator.com/item?id=29574027)
-- [PNG Parser Differential](https://www.da.vidbuchanan.co.uk/widgets/pngdiff/)
-- [IBM and Samsung Unveil Semiconductor Breakthrough](https://newsroom.ibm.com/2021-12-14-IBM-and-Samsung-Unveil-Semiconductor-Breakthrough-That-Defies-Conventional-Design)
-- [Geoff Foster on the art of sound engineering](https://composer.spitfireaudio.com/en/articles/geoff-foster-on-the-art-of-engineering)
-- [Crypto wallet security as seen by security engineers](https://www.cossacklabs.com/blog/crypto-wallets-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
