@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Job Applicant Resumes Are Effectively Impossible to De-Gender](https://www.unite.ai/job-applicant-resumes-are-effectively-impossible-to-de-gender-ai-researchers-find/)
 - [Nim 1.6.2](https://nim-lang.org/blog/2021/12/17/version-162-released.html)
 - [Slitter: A slab allocator that trusts, but verifies](https://pvk.ca/Blog/2021/08/01/slitter-a-less-footgunny-slab-allocator/)
 - [Judge rejects Purdue Pharma&#39;s $4.5B opioid settlement](https://www.axios.com/purdue-pharma-opioids-settlement-ruling-5d56f27b-eebe-4d6e-a1ac-7915d45f8795.html)
-- [“Imagine If Doctors Relied on Google as Much as Programmers Do”](https://codelab.farai.xyz/posts/pros-use-google/)
 - [Pegasus vs. Predator: Dissident&#39;s Phone Reveals Cytrox Mercenary Spyware](https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/)
 <!-- BLOG-POST-LIST:END -->
 
