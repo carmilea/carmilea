@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No evidence that parachutes help prevent injuries when jumping out of planes](https://www.bmj.com/content/327/7429/1459)
-- [So called modern web developers are the culprits](https://unixsheikh.com/articles/so-called-modern-web-developers-are-the-culprits.html)
-- [Loumavox, the Forgotten, Mysterious Synthesizer from Louise and Marc Voksinski](https://www.synthanatomy.com/2021/12/loumavox-the-forgotten-mysterious-synthesizer-from-louise-and-marc-voksinski.html)
-- [Job Applicant Resumes Are Effectively Impossible to De-Gender](https://www.unite.ai/job-applicant-resumes-are-effectively-impossible-to-de-gender-ai-researchers-find/)
-- [AWS Tools Suck](https://www.cyclic.sh/posts/aws-tools-suck)
+- [Introduction to WebAssembly Components](https://radu-matei.com/blog/intro-wasm-components/)
+- [Lofty AI &lpar;YC S19&rpar; hiring Blockchain Eng. to build real estate token DEX and DAOs](https://www.ycombinator.com/companies/lofty-ai/jobs/qnmc6yE-senior-react-fullstack-engineer)
+- [Ask HN: How would prog. language look like if that was designed by no-programmer](https://news.ycombinator.com/item?id=29590681)
+- [The Bastard Operator from Hell Complete](http://bofh.bjash.com/)
+- [Authoring a SIMD enhanced WASM library with Rust](https://nickb.dev/blog/authoring-a-simd-enhanced-wasm-library-with-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
