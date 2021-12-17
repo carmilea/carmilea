@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Those seeking to deny those rights will need to pursue their education elsewhere](https://www.purdueexponent.org/campus/article_aa3e67de-5de9-11ec-9246-af6384980cbb.html)
 - [Introduction to WebAssembly Components](https://radu-matei.com/blog/intro-wasm-components/)
 - [Lofty AI &lpar;YC S19&rpar; hiring Blockchain Eng. to build real estate token DEX and DAOs](https://www.ycombinator.com/companies/lofty-ai/jobs/qnmc6yE-senior-react-fullstack-engineer)
-- [Ask HN: How would prog. language look like if that was designed by no-programmer](https://news.ycombinator.com/item?id=29590681)
-- [The Bastard Operator from Hell Complete](http://bofh.bjash.com/)
-- [Authoring a SIMD enhanced WASM library with Rust](https://nickb.dev/blog/authoring-a-simd-enhanced-wasm-library-with-rust)
+- [The dark side of rapeseed oil &lpar;2018&rpar;](https://www.smartholistics.co.uk/news-blog/the-dark-side-of-rapeseed-oil/)
+- [The Bastard Operator from Hell &lpar;1999&rpar;](http://bofh.bjash.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
