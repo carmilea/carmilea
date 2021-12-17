@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chaijs.com just let their domain expire](https://www.chaijs.com/api/bdd/)
 - [Evervault](https://evervault.com/)
 - [TikTok streaming software is an illegal fork of OBS](https://twitter.com/Naaackers/status/1471494415306788870)
 - [A Tour of Curve25519 in Erlang [pdf]](https://research.nccgroup.com/wp-content/uploads/2020/02/A_Tour_of_Curve25519_in_Erlang-1.pdf)
 - [The Third Web](https://tante.cc/2021/12/17/the-third-web/)
-- [The only two custom React hooks we ever use](https://blog.molecule.dev/the-only-custom-react-hooks-we-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
