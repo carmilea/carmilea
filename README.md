@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Bay Area has become a large declining tech company](http://www.yared.com/2021/12/the-entire-bay-area-has-become-large.html)
-- [Open Letter from the BMJ to Mark Zuckerberg](https://www.bmj.com/content/375/bmj.n2635/rr-80)
-- [Show HN: A labelling tool to easily extract and label Wikipedia data](https://news.ycombinator.com/item?id=29595512)
-- [Omicron largely evades immunity from past infection or two vaccine doses](https://www.imperial.ac.uk/news/232698/modelling-suggests-rapid-spread-omicron-england/)
-- [Kinesis Advantage 360](https://kinesis-ergo.com/keyboards/advantage360/)
+- [Notches Gone Wild – MacBook Pro related](https://blog.iconfactory.com/2021/12/notches-gone-wild/)
+- [Do not use Digital Ocean for production](https://news.ycombinator.com/item?id=29596138)
+- [Why Zulip will stand the test of time](https://blog.zulip.com/2021/12/17/why-zulip-will-stand-the-test-of-time/)
+- [California’s AV testing rules apply to Tesla’s “FSD”](https://cyberlaw.stanford.edu/blog/2021/12/californias-av-testing-rules-apply-teslas-fsd)
+- [JPMorgan Admits to Widespread Recordkeeping Failures, Agrees to Pay $125M](https://www.sec.gov/news/press-release/2021-262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
