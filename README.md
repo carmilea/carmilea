@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Chaijs.com just let their domain expire](https://www.chaijs.com/api/bdd/)
-- [Evervault](https://evervault.com/)
-- [TikTok streaming software is an illegal fork of OBS](https://twitter.com/Naaackers/status/1471494415306788870)
-- [A Tour of Curve25519 in Erlang [pdf]](https://research.nccgroup.com/wp-content/uploads/2020/02/A_Tour_of_Curve25519_in_Erlang-1.pdf)
-- [The Third Web](https://tante.cc/2021/12/17/the-third-web/)
+- [The Joule-Thomson Effect and Models We Know](https://mattferraro.dev/posts/joule-thomson)
+- [Fuite: a tool for finding memory leaks in web apps](https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-leaks-in-web-apps/)
+- [Google Drive could soon start locking your files](https://www.techradar.com/news/google-drive-could-soon-start-locking-your-personal-files)
+- [Forth BBS 2, 1985 Bulletin Board software written in Forth](https://github.com/RickCarlino/fbbs2)
+- [Harvard removes SAT/ACT scores as admission requirement](https://www.washingtonpost.com/education/2021/12/16/harvard-test-optional-college-admissions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
