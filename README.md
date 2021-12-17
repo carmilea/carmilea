@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pegasus vs. Predator: Dissident&#39;s Phone Reveals Cytrox Mercenary Spyware](https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/)
 - [Worker pay isn’t keeping up with inflation](https://www.axios.com/wages-inflation-economic-data-c912afdb-b950-4183-8283-50afff593576.html)
 - [Refugees lack Covid shots because drugmakers fear lawsuits, documents show](https://www.reuters.com/world/refugees-lack-covid-shots-because-drugmakers-fear-lawsuits-documents-2021-12-16/)
 - [I&#39;m getting tired of modern meme culture](https://forum.agoraroad.com/index.php?threads/im-getting-tired-of-modern-meme-culture.3884/)
 - [Indian online merchants cannot store credit card information from 2022](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12159&Mode=0)
-- [What is a Bitcoin worth?](https://bankunderground.co.uk/2021/12/14/what-is-a-bitcoin-worth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
