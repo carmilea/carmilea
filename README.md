@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No evidence that parachutes help prevent injuries when jumping out of planes](https://www.bmj.com/content/327/7429/1459)
+- [So called modern web developers are the culprits](https://unixsheikh.com/articles/so-called-modern-web-developers-are-the-culprits.html)
+- [Loumavox, the Forgotten, Mysterious Synthesizer from Louise and Marc Voksinski](https://www.synthanatomy.com/2021/12/loumavox-the-forgotten-mysterious-synthesizer-from-louise-and-marc-voksinski.html)
 - [Job Applicant Resumes Are Effectively Impossible to De-Gender](https://www.unite.ai/job-applicant-resumes-are-effectively-impossible-to-de-gender-ai-researchers-find/)
-- [Nim 1.6.2](https://nim-lang.org/blog/2021/12/17/version-162-released.html)
-- [Slitter: A slab allocator that trusts, but verifies](https://pvk.ca/Blog/2021/08/01/slitter-a-less-footgunny-slab-allocator/)
-- [Judge rejects Purdue Pharma&#39;s $4.5B opioid settlement](https://www.axios.com/purdue-pharma-opioids-settlement-ruling-5d56f27b-eebe-4d6e-a1ac-7915d45f8795.html)
-- [Pegasus vs. Predator: Dissident&#39;s Phone Reveals Cytrox Mercenary Spyware](https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/)
+- [AWS Tools Suck](https://www.cyclic.sh/posts/aws-tools-suck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
