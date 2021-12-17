@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon still isn&#39;t doing enough to stop bait-and-switch reviews](https://fullstackeconomics.com/amazon-isnt-doing-enough-to-stop-bait-and-switch-reviews/)
-- [Design evolution of the Windows control panel](https://www.versionmuseum.com/history-of/all-windows-control-panels)
-- [Judge tosses $4.5B deal shielding Purdue&#39;s Sackler family from opioid claims](https://www.reuters.com/business/judge-tosses-deal-shielding-purdues-sackler-family-opioid-claims-2021-12-17/)
-- [Quadratic voting: The mathematical method that could offer a fairer way to vote](https://www.economist.com/christmas-specials/2021/12/18/the-mathematical-method-that-could-offer-a-fairer-way-to-vote)
-- [Ambiguous PNG Packer: Craft PNG files that appear different in Apple software](https://github.com/DavidBuchanan314/ambiguous-png-packer)
+- [The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraud)
+- [From blood clots to infected neurons, how Covid threatens the brain](https://www.npr.org/sections/health-shots/2021/12/16/1064594686/how-covid-threatens-the-brain)
+- [There&#39;s been a big rise in monitoring workers at home](https://www.zdnet.com/article/employee-surveillance-is-on-the-rise-privacy-campaigners-are-worried-for-us-all/)
+- [Light Field Lab&#39;s SolidLight offers a true holographic video display](https://www.techhive.com/article/3644451/light-field-labs-solidlight-offers-a-true-holographic-video-display.html)
+- [Battle of the Bulge: How American Grit Halted Hitler&#39;s Last-Ditch Strike](https://www.history.com/news/battle-bulge-american-defeat-hitler)
 <!-- BLOG-POST-LIST:END -->
 
 ---
