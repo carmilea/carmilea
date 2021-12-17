@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Those seeking to deny those rights will need to pursue their education elsewhere](https://www.purdueexponent.org/campus/article_aa3e67de-5de9-11ec-9246-af6384980cbb.html)
-- [Introduction to WebAssembly Components](https://radu-matei.com/blog/intro-wasm-components/)
-- [Lofty AI &lpar;YC S19&rpar; hiring Blockchain Eng. to build real estate token DEX and DAOs](https://www.ycombinator.com/companies/lofty-ai/jobs/qnmc6yE-senior-react-fullstack-engineer)
-- [The dark side of rapeseed oil &lpar;2018&rpar;](https://www.smartholistics.co.uk/news-blog/the-dark-side-of-rapeseed-oil/)
-- [The Bastard Operator from Hell &lpar;1999&rpar;](http://bofh.bjash.com/)
+- [Evervault](https://evervault.com/)
+- [TikTok streaming software is an illegal fork of OBS](https://twitter.com/Naaackers/status/1471494415306788870)
+- [A Tour of Curve25519 in Erlang [pdf]](https://research.nccgroup.com/wp-content/uploads/2020/02/A_Tour_of_Curve25519_in_Erlang-1.pdf)
+- [The Third Web](https://tante.cc/2021/12/17/the-third-web/)
+- [The only two custom React hooks we ever use](https://blog.molecule.dev/the-only-custom-react-hooks-we-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
