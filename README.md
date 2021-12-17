@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Muse &lpar;YC S21&rpar; Is Hiring a Head of Web Graphics Engineer: Shopify for 3D Websites](https://muse.place/hiring)
-- [Building a simple room-based chat application in Nim &lpar;using HTMX&rpar;](https://arhamjain.com/2021/11/22/nim-simple-chat.html)
-- [Netflix Executive Sentenced to 30 Months for 700K Bribes, Kickbacks from Vendors](https://www.justice.gov/usao-ndca/pr/former-netflix-executive-sentenced-30-months-bribes-and-kickbacks-netflix-vendors)
-- [Using an ETL framework vs. writing yet another ETL script](https://airbyte.io/blog/etl-framework-vs-etl-script)
-- [The Joule-Thomson Effect and Models We Know](https://mattferraro.dev/posts/joule-thomson)
+- [The Bay Area has become a large declining tech company](http://www.yared.com/2021/12/the-entire-bay-area-has-become-large.html)
+- [Open Letter from the BMJ to Mark Zuckerberg](https://www.bmj.com/content/375/bmj.n2635/rr-80)
+- [Show HN: A labelling tool to easily extract and label Wikipedia data](https://news.ycombinator.com/item?id=29595512)
+- [Omicron largely evades immunity from past infection or two vaccine doses](https://www.imperial.ac.uk/news/232698/modelling-suggests-rapid-spread-omicron-england/)
+- [Kinesis Advantage 360](https://kinesis-ergo.com/keyboards/advantage360/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
