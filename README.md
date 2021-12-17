@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Polars: Lightning-fast DataFrame library for Rust and Python](https://www.pola.rs/)
-- [ArchiveTeam Warrior backing up Reddit](https://tracker.archiveteam.org/reddit/)
-- [Dungeons and Dragons Is a Case Study in How Capitalism Kills Art](https://www.jacobinmag.com/2021/11/dd-ttrpgs-gygax-arneson-peterson-games-capitalism)
-- [Facebook bans 7 &#39;surveillance-for-hire&#39; companies that spied on 50k users](https://www.npr.org/2021/12/16/1064628654/facebook-bans-surveillance-firms-that-spied-on-50000-people)
-- [Smarking &lpar;YC W15&rpar; Is Hiring a Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer – SF or London](https://etleap.com/jobs/#software-engineer)
+- [Defrag Like It&#39;s 1993](https://defrag.shiplift.dev/)
+- [FDA says abortion pills can be sent by mail](https://www.cnn.com/2021/12/16/politics/medication-abortion-fda-supreme-court/index.html)
+- [Ask HN: What&#39;s the easiest way to make a living with $600k in cash?](https://news.ycombinator.com/item?id=29585360)
+- [The empathy gap, or why good-seeming ideas fail](https://nathanieltravis.com/2021/12/16/why-good-research-ideas-fail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
