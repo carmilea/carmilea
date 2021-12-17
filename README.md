@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Muse &lpar;YC S21&rpar; Is Hiring a Head of Web Graphics Engineer: Shopify for 3D Websites](https://muse.place/hiring)
+- [Building a simple room-based chat application in Nim &lpar;using HTMX&rpar;](https://arhamjain.com/2021/11/22/nim-simple-chat.html)
+- [Netflix Executive Sentenced to 30 Months for 700K Bribes, Kickbacks from Vendors](https://www.justice.gov/usao-ndca/pr/former-netflix-executive-sentenced-30-months-bribes-and-kickbacks-netflix-vendors)
+- [Using an ETL framework vs. writing yet another ETL script](https://airbyte.io/blog/etl-framework-vs-etl-script)
 - [The Joule-Thomson Effect and Models We Know](https://mattferraro.dev/posts/joule-thomson)
-- [Fuite: a tool for finding memory leaks in web apps](https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-leaks-in-web-apps/)
-- [Google Drive could soon start locking your files](https://www.techradar.com/news/google-drive-could-soon-start-locking-your-personal-files)
-- [Forth BBS 2, 1985 Bulletin Board software written in Forth](https://github.com/RickCarlino/fbbs2)
-- [Harvard removes SAT/ACT scores as admission requirement](https://www.washingtonpost.com/education/2021/12/16/harvard-test-optional-college-admissions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
