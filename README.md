@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flow Club &lpar;YC S21&rpar; is hiring a chief of staff to build the future of work](https://jobs.ashbyhq.com/flowclub/bac6c765-e057-4b0c-85c4-04fc3c915336)
+- [Passage: A fork of password-store that uses age instead of GnuPG](https://github.com/FiloSottile/passage)
 - [Satellite detects large mass of water in Mars canyon](https://www.cnn.com/2021/12/16/world/exomars-water-mars-grand-canyon-scn/index.html)
 - [Why start a new database conference?](https://www.scattered-thoughts.net/writing/why-start-a-new-database-conference/)
-- [Notches Gone Wild – MacBook Pro related](https://blog.iconfactory.com/2021/12/notches-gone-wild/)
-- [Why Zulip will stand the test of time](https://blog.zulip.com/2021/12/17/why-zulip-will-stand-the-test-of-time/)
-- [California’s AV testing rules apply to Tesla’s “FSD”](https://cyberlaw.stanford.edu/blog/2021/12/californias-av-testing-rules-apply-teslas-fsd)
+- [Notches Gone Wild](https://blog.iconfactory.com/2021/12/notches-gone-wild/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
