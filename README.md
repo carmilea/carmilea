@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Judge tosses $4.5 bln deal shielding Purdue&#39;s Sackler family from opioid claims](https://www.reuters.com/business/judge-tosses-deal-shielding-purdues-sackler-family-opioid-claims-2021-12-17/)
+- [Ambiguous PNG Packer: Craft PNG files that appear different in Apple software](https://github.com/DavidBuchanan314/ambiguous-png-packer)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer – SF or London](https://etleap.com/jobs/#software-engineer)
+- [Valve actively supporting Godot to make the engine work well on the Steam Deck](https://wccftech.com/steam-deck-wont-have-any-exclusive-games-valve-confirms/)
 - [Defrag Like It&#39;s 1993](https://defrag.shiplift.dev/)
-- [FDA says abortion pills can be sent by mail](https://www.cnn.com/2021/12/16/politics/medication-abortion-fda-supreme-court/index.html)
-- [Ask HN: What&#39;s the easiest way to make a living with $600k in cash?](https://news.ycombinator.com/item?id=29585360)
-- [The empathy gap, or why good-seeming ideas fail](https://nathanieltravis.com/2021/12/16/why-good-research-ideas-fail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
