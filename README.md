@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Refugees lack Covid shots because drugmakers fear lawsuits, documents show](https://www.reuters.com/world/refugees-lack-covid-shots-because-drugmakers-fear-lawsuits-documents-2021-12-16/)
+- [Indian online merchants cannot store credit card information from 2022](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12159&Mode=0)
+- [What is a Bitcoin worth?](https://bankunderground.co.uk/2021/12/14/what-is-a-bitcoin-worth/)
 - [The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraud)
-- [From blood clots to infected neurons, how Covid threatens the brain](https://www.npr.org/sections/health-shots/2021/12/16/1064594686/how-covid-threatens-the-brain)
 - [There&#39;s been a big rise in monitoring workers at home](https://www.zdnet.com/article/employee-surveillance-is-on-the-rise-privacy-campaigners-are-worried-for-us-all/)
-- [Light Field Lab&#39;s SolidLight offers a true holographic video display](https://www.techhive.com/article/3644451/light-field-labs-solidlight-offers-a-true-holographic-video-display.html)
-- [Battle of the Bulge: How American Grit Halted Hitler&#39;s Last-Ditch Strike](https://www.history.com/news/battle-bulge-american-defeat-hitler)
 <!-- BLOG-POST-LIST:END -->
 
 ---
