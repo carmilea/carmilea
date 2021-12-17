@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellite detects large mass of water in Mars canyon](https://www.cnn.com/2021/12/16/world/exomars-water-mars-grand-canyon-scn/index.html)
+- [Why start a new database conference?](https://www.scattered-thoughts.net/writing/why-start-a-new-database-conference/)
 - [Notches Gone Wild – MacBook Pro related](https://blog.iconfactory.com/2021/12/notches-gone-wild/)
-- [Do not use Digital Ocean for production](https://news.ycombinator.com/item?id=29596138)
 - [Why Zulip will stand the test of time](https://blog.zulip.com/2021/12/17/why-zulip-will-stand-the-test-of-time/)
 - [California’s AV testing rules apply to Tesla’s “FSD”](https://cyberlaw.stanford.edu/blog/2021/12/californias-av-testing-rules-apply-teslas-fsd)
-- [JPMorgan Admits to Widespread Recordkeeping Failures, Agrees to Pay $125M](https://www.sec.gov/news/press-release/2021-262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
