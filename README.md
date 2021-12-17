@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Judge tosses $4.5 bln deal shielding Purdue&#39;s Sackler family from opioid claims](https://www.reuters.com/business/judge-tosses-deal-shielding-purdues-sackler-family-opioid-claims-2021-12-17/)
+- [Amazon still isn&#39;t doing enough to stop bait-and-switch reviews](https://fullstackeconomics.com/amazon-isnt-doing-enough-to-stop-bait-and-switch-reviews/)
+- [Design evolution of the Windows control panel](https://www.versionmuseum.com/history-of/all-windows-control-panels)
+- [Judge tosses $4.5B deal shielding Purdue&#39;s Sackler family from opioid claims](https://www.reuters.com/business/judge-tosses-deal-shielding-purdues-sackler-family-opioid-claims-2021-12-17/)
+- [Quadratic voting: The mathematical method that could offer a fairer way to vote](https://www.economist.com/christmas-specials/2021/12/18/the-mathematical-method-that-could-offer-a-fairer-way-to-vote)
 - [Ambiguous PNG Packer: Craft PNG files that appear different in Apple software](https://github.com/DavidBuchanan314/ambiguous-png-packer)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer – SF or London](https://etleap.com/jobs/#software-engineer)
-- [Valve actively supporting Godot to make the engine work well on the Steam Deck](https://wccftech.com/steam-deck-wont-have-any-exclusive-games-valve-confirms/)
-- [Defrag Like It&#39;s 1993](https://defrag.shiplift.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
