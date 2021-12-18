@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Perl Turns 34 Today](https://github.com/Perl/perl5/commit/8d063cd8450e59ea1c611a2f4f5a21059a2804f1)
 - [The Universe Is Expanding Faster Than It Should Be](https://www.nationalgeographic.com/science/article/the-universe-is-expanding-faster-than-it-should-be)
-- [Protonmail was identified as spam in Gmail](https://i.imgur.com/rpJDQX2.png)
 - [Libmobi: C library for handling eBook formats](https://github.com/bfabiszewski/libmobi)
+- [YouTube TV loses ESPN, ABC and other Disney channels in fee dispute](https://www.latimes.com/entertainment-arts/business/story/2021-12-17/youtube-tv-loses-espn-abc-and-other-disney-channels-in-fee-dispute)
 - [My Bose QC-35 II headphones burst into flames and left me with chemical burns](https://recursive-public-rants.blogspot.com/2021/12/my-bose-qc-35-ii-headphones-suddenly.html)
-- [Internet addiction and the habit of book reading](https://benwajdi.com/2021/12/18/is-internet-addiction-eradicating-the-habit-of-reading/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
