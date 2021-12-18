@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [Ask HN: Is it even worth reading news outside of HN?](https://news.ycombinator.com/item?id=29608394)
+- [Tell HN: AWS warns us about irregular activity related to Log4shell](https://news.ycombinator.com/item?id=29608244)
+- [RadioShack – Bringing Cryptocurrency to the Mainstream](https://www.radioshack.com/)
 - [Omniscient Mozart: library for automatic transcription of every aspect of music](https://github.com/Music-and-Culture-Technology-Lab/omnizart)
-- [A deep dive on a Facebook reseller of bikes stolen in Colorado](https://bikeindex.org/news/closing-the-loop-a-deep-dive-on-a-facebook-reseller-of-bikes-stolen-in)
-- [UberEats took unauthorized amount &lpar;and not willing to pay it back&rpar;](https://twitter.com/TamasNo1/status/1472271668898893834)
-- [Lead exposure from routine consumption of coffee and tea from ceramic mugs](https://foodcontaminationjournal.biomedcentral.com/articles/10.1186/s40550-017-0049-7)
-- [U.N. talks adjourn without deal to regulate &#39;killer robots&#39;](https://www.reuters.com/world/un-talks-adjourn-without-deal-regulate-killer-robots-2021-12-17/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
