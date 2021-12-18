@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Universe Is Expanding Faster Than It Should Be](https://www.nationalgeographic.com/science/article/the-universe-is-expanding-faster-than-it-should-be)
+- [Protonmail was identified as spam in Gmail](https://i.imgur.com/rpJDQX2.png)
 - [Libmobi: C library for handling eBook formats](https://github.com/bfabiszewski/libmobi)
 - [My Bose QC-35 II headphones burst into flames and left me with chemical burns](https://recursive-public-rants.blogspot.com/2021/12/my-bose-qc-35-ii-headphones-suddenly.html)
 - [Internet addiction and the habit of book reading](https://benwajdi.com/2021/12/18/is-internet-addiction-eradicating-the-habit-of-reading/)
-- [Matrix Multiplication Inches Closer To Mythic Goal](https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/)
-- [To Understand Language Is to Understand Generalization](https://evjang.com/2021/12/17/lang-generalization.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
