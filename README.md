@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lead exposure from routine consumption of coffee and tea from ceramic mugs](https://foodcontaminationjournal.biomedcentral.com/articles/10.1186/s40550-017-0049-7)
+- [U.N. talks adjourn without deal to regulate &#39;killer robots&#39;](https://www.reuters.com/world/un-talks-adjourn-without-deal-regulate-killer-robots-2021-12-17/)
+- [Ask HN: 27, accidentally became wealthy, lost drive. What should I do?](https://news.ycombinator.com/item?id=29606476)
 - [Prometheus &lpar;YC W19&rpar; Is Hiring](https://bookface.ycombinator.com/company/12287/jobs/48662)
-- [Ask HN: Is it me or are we entering an ARM era?](https://news.ycombinator.com/item?id=29605828)
 - [Show HN: Timeless articles posted on Hacker News, written 1321 to 2021](https://hn.lindylearn.io)
-- [Life Changing Books](https://news.ycombinator.com/item?id=29605394)
-- [To opt out of Google Analytics you have to install a browser extension](https://tools.google.com/dlpage/gaoptout/eula.html?hl=en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
