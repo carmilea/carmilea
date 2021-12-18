@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [First consumer charge card since Amex](https://www.point.app/titan)
-- [Fine for violating Congressional Stock Act is $200 [pdf]](https://ethics.house.gov/sites/ethics.house.gov/files/Late%20Fee%20Waiver%20form%20(final).pdf)
+- [Renay Mandel Corren has died](https://www.fayobserver.com/obituaries/m0028451)
 - [To Understand Language Is to Understand Generalization](https://evjang.com/2021/12/17/lang-generalization.html)
+- [Gene discoveries give new hope to people who stutter](https://news.vumc.org/2021/12/02/gene-discoveries-give-new-hope-to-people-who-stutter/)
 - [Melting glaciers may produce thousands of kilometers of new salmon habitat](https://www.science.org/content/article/melting-glaciers-may-produce-thousands-kilometers-new-salmon-habitat)
 - [CCPA Scam – human subject research study conducted by Princeton University](https://blog.freeradical.zone/post/ccpa-scam-2021-12/)
 <!-- BLOG-POST-LIST:END -->
