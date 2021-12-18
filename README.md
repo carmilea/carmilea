@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Log4j version 2.16 is vulnerable to DoS via “${${:-${:-$${:-j}}}}”](https://issues.apache.org/jira/browse/LOG4J2-3230)
+- [Y Combinator is hiring for a programs/ops person to grow Work at a Startup](https://news.ycombinator.com/item?id=29603844)
+- [On commercial forks FOSS projects](https://drewdevault.com/2021/12/18/Commercial-forks-of-FOSS-projects.html)
+- [Log4j 2.16: Certain strings can cause infinite recursion](https://issues.apache.org/jira/browse/LOG4J2-3230)
 - [Perl Turns 34 Today](https://github.com/Perl/perl5/commit/8d063cd8450e59ea1c611a2f4f5a21059a2804f1)
 - [The Universe Is Expanding Faster Than It Should Be](https://www.nationalgeographic.com/science/article/the-universe-is-expanding-faster-than-it-should-be)
-- [Libmobi: C library for handling eBook formats](https://github.com/bfabiszewski/libmobi)
-- [YouTube TV loses ESPN, ABC and other Disney channels in fee dispute](https://www.latimes.com/entertainment-arts/business/story/2021-12-17/youtube-tv-loses-espn-abc-and-other-disney-channels-in-fee-dispute)
 <!-- BLOG-POST-LIST:END -->
 
 ---
