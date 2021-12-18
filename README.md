@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Rust Is the Future](https://scalac.io/blog/5-reasons-why-rust-is-the-future-rust-functional-programming/)
+- [Omniscient Mozart: library for automatic transcription of every aspect of music](https://github.com/Music-and-Culture-Technology-Lab/omnizart)
+- [A deep dive on a Facebook reseller of bikes stolen in Colorado](https://bikeindex.org/news/closing-the-loop-a-deep-dive-on-a-facebook-reseller-of-bikes-stolen-in)
+- [UberEats took unauthorized amount &lpar;and not willing to pay it back&rpar;](https://twitter.com/TamasNo1/status/1472271668898893834)
 - [Lead exposure from routine consumption of coffee and tea from ceramic mugs](https://foodcontaminationjournal.biomedcentral.com/articles/10.1186/s40550-017-0049-7)
 - [U.N. talks adjourn without deal to regulate &#39;killer robots&#39;](https://www.reuters.com/world/un-talks-adjourn-without-deal-regulate-killer-robots-2021-12-17/)
-- [Prometheus &lpar;YC W19&rpar; Is Hiring](https://www.ycombinator.com/companies/prometheus/jobs/0UFcWd8-electrical-engineer)
-- [Show HN: Timeless articles posted on Hacker News, written 1321 to 2021](https://hn.lindylearn.io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
