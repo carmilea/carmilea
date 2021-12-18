@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Prometheus &lpar;YC W19&rpar; Is Hiring](https://bookface.ycombinator.com/company/12287/jobs/48662)
+- [Ask HN: Is it me or are we entering an ARM era?](https://news.ycombinator.com/item?id=29605828)
+- [Show HN: Timeless articles posted on Hacker News, written 1321 to 2021](https://hn.lindylearn.io)
 - [Life Changing Books](https://news.ycombinator.com/item?id=29605394)
 - [To opt out of Google Analytics you have to install a browser extension](https://tools.google.com/dlpage/gaoptout/eula.html?hl=en)
-- [Ask HN: Can web scraping be the basis of a viable business model?](https://news.ycombinator.com/item?id=29605104)
-- [Boston Police Bought Spy Tech with a Pot of Money Hidden from the Public](https://www.propublica.org/article/boston-police-bought-spy-tech-with-a-pot-of-money-hidden-from-the-public#1203986)
-- [JPMorgan hit with $200M in fines for letting employees use WhatsApp](https://www.cnbc.com/2021/12/17/jpmorgan-agrees-to-125-million-fine-for-letting-employees-use-whatsapp-to-evade-regulators.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
