@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I bought 1000 meters of wire to settle a physics debate](https://www.youtube.com/watch?v=2Vrhk5OjBP8)
-- [EDF shares plunge after faults found at French nuclear power reactor](https://www.reuters.com/world/europe/edf-shares-plunge-after-faults-found-french-nuclear-power-station-2021-12-16/)
-- [Flow Club &lpar;YC S21&rpar; is hiring a chief of staff to build the future of work](https://jobs.ashbyhq.com/flowclub/bac6c765-e057-4b0c-85c4-04fc3c915336)
-- [Passage: A fork of password-store that uses age instead of GnuPG](https://github.com/FiloSottile/passage)
-- [Satellite detects large mass of water in Mars canyon](https://www.cnn.com/2021/12/16/world/exomars-water-mars-grand-canyon-scn/index.html)
+- [Don&#39;t use Digital Ocean &lpar;DO&rpar; for production](https://news.ycombinator.com/item?id=29600320)
+- [Melting glaciers may produce thousands of kilometers of new salmon habitat](https://www.science.org/content/article/melting-glaciers-may-produce-thousands-kilometers-new-salmon-habitat)
+- [CCPA Scam – human subject research study conducted by Princeton University](https://blog.freeradical.zone/post/ccpa-scam-2021-12/)
+- [Postgres is a great pub/sub and job server &lpar;2019&rpar;](https://webapp.io/blog/postgres-is-the-answer/)
+- [I bought 1000 meters of wire to settle a physics debate [video]](https://www.youtube.com/watch?v=2Vrhk5OjBP8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
