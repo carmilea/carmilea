@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [San Francisco Mayor Declares State of Emergency to Fight City’s ‘Nasty Streets’](https://www.nytimes.com/2021/12/17/us/san-francisco-state-of-emergency-crime.html)
 - [Internet addiction and the habit of book reading](https://benwajdi.com/2021/12/18/is-internet-addiction-eradicating-the-habit-of-reading/)
+- [Matrix Multiplication Inches Closer To Mythic Goal](https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/)
 - [To Understand Language Is to Understand Generalization](https://evjang.com/2021/12/17/lang-generalization.html)
 - [Gene discoveries give new hope to people who stutter](https://news.vumc.org/2021/12/02/gene-discoveries-give-new-hope-to-people-who-stutter/)
-- [Melting glaciers may produce thousands of kilometers of new salmon habitat](https://www.science.org/content/article/melting-glaciers-may-produce-thousands-kilometers-new-salmon-habitat)
-- [CCPA Scam – human subject research study conducted by Princeton University](https://blog.freeradical.zone/post/ccpa-scam-2021-12/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
