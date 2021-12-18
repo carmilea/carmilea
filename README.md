@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What I saw at the Theranos trial](https://www.theguardian.com/technology/2021/dec/18/theranos-trial-elizabeth-holmes)
+- [Ask HN: How do you get articles/papers/talks recommendations?](https://news.ycombinator.com/item?id=29604618)
 - [Group of Monkeys Kill over 250 Dogs for &#39;Revenge&#39; in Indian Town](https://www.newsweek.com/group-monkeys-kill-over-250-dogs-revenge-indian-town-1660683)
+- [Why Wolfram Tech Isn’t Open Source–A Dozen Reasons](https://blog.wolfram.com/2019/04/02/why-wolfram-tech-isnt-open-source-a-dozen-reasons/)
 - [Opening a 50-year-old Christmas present from the Moon](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Opening_a_50-year-old_Christmas_present_from_the_Moon)
-- [Charles Babbage – Passages from the Life of a Philosopher](https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher)
-- [Y Combinator is hiring for a programs/ops person to grow Work at a Startup](https://news.ycombinator.com/item?id=29603844)
-- [On commercial forks FOSS projects](https://drewdevault.com/2021/12/18/Commercial-forks-of-FOSS-projects.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
