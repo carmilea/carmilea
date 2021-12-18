@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What is this user doing?](https://news.ycombinator.com/item?id=29609155)
+- [I created Traddit, a Reddit client that cuts through FUD and eliminates FOMO](https://news.ycombinator.com/item?id=29609041)
+- [Display-switch: Turn a $30 USB switch into a full-featured multi-monitor KVM](https://github.com/haimgel/display-switch)
 - [Hidden Pentagon Records Reveal Patterns of Failure in Deadly Airstrikes](https://www.nytimes.com/interactive/2021/12/18/us/airstrikes-pentagon-records-civilian-deaths.html)
 - [Thread Safety in C++ and Rust](https://blog.reverberate.org/2021/12/18/thread-safety-cpp-rust.html)
-- [An NFT without a Blockchain. No gas fees. No ETH. No gatekeepers](https://shkspr.mobi/blog/2021/12/an-nft-without-a-blockchain-no-gas-fees-no-eth/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
-- [Tell HN: AWS warns us about irregular activity related to Log4shell](https://news.ycombinator.com/item?id=29608244)
 <!-- BLOG-POST-LIST:END -->
 
 ---
