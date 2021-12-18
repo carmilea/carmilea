@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t use Digital Ocean &lpar;DO&rpar; for production](https://news.ycombinator.com/item?id=29600320)
+- [First consumer charge card since Amex](https://www.point.app/titan)
+- [Fine for violating Congressional Stock Act is $200 [pdf]](https://ethics.house.gov/sites/ethics.house.gov/files/Late%20Fee%20Waiver%20form%20(final).pdf)
+- [To Understand Language Is to Understand Generalization](https://evjang.com/2021/12/17/lang-generalization.html)
 - [Melting glaciers may produce thousands of kilometers of new salmon habitat](https://www.science.org/content/article/melting-glaciers-may-produce-thousands-kilometers-new-salmon-habitat)
 - [CCPA Scam – human subject research study conducted by Princeton University](https://blog.freeradical.zone/post/ccpa-scam-2021-12/)
-- [Postgres is a great pub/sub and job server &lpar;2019&rpar;](https://webapp.io/blog/postgres-is-the-answer/)
-- [I bought 1000 meters of wire to settle a physics debate [video]](https://www.youtube.com/watch?v=2Vrhk5OjBP8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
