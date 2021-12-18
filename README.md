@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Charles Babbage – Passages from the Life of a Philosopher](https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher)
 - [Y Combinator is hiring for a programs/ops person to grow Work at a Startup](https://news.ycombinator.com/item?id=29603844)
 - [On commercial forks FOSS projects](https://drewdevault.com/2021/12/18/Commercial-forks-of-FOSS-projects.html)
 - [Log4j 2.16: Certain strings can cause infinite recursion](https://issues.apache.org/jira/browse/LOG4J2-3230)
-- [Perl Turns 34 Today](https://github.com/Perl/perl5/commit/8d063cd8450e59ea1c611a2f4f5a21059a2804f1)
-- [The Universe Is Expanding Faster Than It Should Be](https://www.nationalgeographic.com/science/article/the-universe-is-expanding-faster-than-it-should-be)
+- [Necklaces worn to &#39;protect&#39; against 5G are radioactive experts warn](https://www.9news.com.au/world/quantum-pendants-anti-5g-necklaces-are-actually-radioactive-nuclear-scientists-warn/7610bf8e-51fd-49a5-844c-2a46488e8306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
