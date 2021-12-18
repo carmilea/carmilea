@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Group of Monkeys Kill over 250 Dogs for &#39;Revenge&#39; in Indian Town](https://www.newsweek.com/group-monkeys-kill-over-250-dogs-revenge-indian-town-1660683)
+- [Opening a 50-year-old Christmas present from the Moon](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Opening_a_50-year-old_Christmas_present_from_the_Moon)
 - [Charles Babbage – Passages from the Life of a Philosopher](https://standardebooks.org/ebooks/charles-babbage/passages-from-the-life-of-a-philosopher)
 - [Y Combinator is hiring for a programs/ops person to grow Work at a Startup](https://news.ycombinator.com/item?id=29603844)
 - [On commercial forks FOSS projects](https://drewdevault.com/2021/12/18/Commercial-forks-of-FOSS-projects.html)
-- [Log4j 2.16: Certain strings can cause infinite recursion](https://issues.apache.org/jira/browse/LOG4J2-3230)
-- [Necklaces worn to &#39;protect&#39; against 5G are radioactive experts warn](https://www.9news.com.au/world/quantum-pendants-anti-5g-necklaces-are-actually-radioactive-nuclear-scientists-warn/7610bf8e-51fd-49a5-844c-2a46488e8306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
