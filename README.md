@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What I saw at the Theranos trial](https://www.theguardian.com/technology/2021/dec/18/theranos-trial-elizabeth-holmes)
-- [Ask HN: How do you get articles/papers/talks recommendations?](https://news.ycombinator.com/item?id=29604618)
-- [Group of Monkeys Kill over 250 Dogs for &#39;Revenge&#39; in Indian Town](https://www.newsweek.com/group-monkeys-kill-over-250-dogs-revenge-indian-town-1660683)
-- [Why Wolfram Tech Isn’t Open Source–A Dozen Reasons](https://blog.wolfram.com/2019/04/02/why-wolfram-tech-isnt-open-source-a-dozen-reasons/)
-- [Opening a 50-year-old Christmas present from the Moon](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Opening_a_50-year-old_Christmas_present_from_the_Moon)
+- [Life Changing Books](https://news.ycombinator.com/item?id=29605394)
+- [To opt out of Google Analytics you have to install a browser extension](https://tools.google.com/dlpage/gaoptout/eula.html?hl=en)
+- [Ask HN: Can web scraping be the basis of a viable business model?](https://news.ycombinator.com/item?id=29605104)
+- [Boston Police Bought Spy Tech with a Pot of Money Hidden from the Public](https://www.propublica.org/article/boston-police-bought-spy-tech-with-a-pot-of-money-hidden-from-the-public#1203986)
+- [JPMorgan hit with $200M in fines for letting employees use WhatsApp](https://www.cnbc.com/2021/12/17/jpmorgan-agrees-to-125-million-fine-for-letting-employees-use-whatsapp-to-evade-regulators.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
