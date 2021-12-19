@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT Researchers Just Discovered an AI Mimicking the Brain on Its Own](https://interestingengineering.com/ai-mimicking-the-brain-on-its-own)
 - [SciRate: An open source website to browse, save, and comment ArXiv articles](https://scirate.com/)
 - [I was part of a human subject research study without my consent](https://christine.website/blog/princeton-study-2021-12-17)
 - [Unix Shell Programming: The Next 50 Years](https://www.micahlerner.com/2021/07/14/unix-shell-programming-the-next-50-years.html)
 - [Xcode 13.2 contains Log4j vulnerability](https://developer.apple.com/forums/thread/696785)
-- [Test Your Product on a Crappy Laptop](https://css-tricks.com/test-your-product-on-a-crappy-laptop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
