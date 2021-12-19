@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What is this user doing?](https://news.ycombinator.com/item?id=29609155)
-- [I created Traddit, a Reddit client that cuts through FUD and eliminates FOMO](https://news.ycombinator.com/item?id=29609041)
+- [What Children Lose When Their Brains Develop Too Fast](https://www.wsj.com/articles/what-children-lose-when-their-brains-develop-too-fast-11639071752)
+- [Apple&#39;s hackish attempt to make PNG decoding parallelizable](https://www.hackerfactor.com/blog/index.php?/archives/895-Connecting-the-iDOTs.html)
+- [Show HN: IR stove thermometer, firmware in Rust](https://www.anyleaf.org)
+- [Manifesto for Ubiquitous Linking](https://linkingmanifesto.org/)
 - [Display-switch: Turn a $30 USB switch into a full-featured multi-monitor KVM](https://github.com/haimgel/display-switch)
-- [Hidden Pentagon Records Reveal Patterns of Failure in Deadly Airstrikes](https://www.nytimes.com/interactive/2021/12/18/us/airstrikes-pentagon-records-civilian-deaths.html)
-- [Thread Safety in C++ and Rust](https://blog.reverberate.org/2021/12/18/thread-safety-cpp-rust.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
