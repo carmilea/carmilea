@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fish sausages: Ugandan CEO taps into demand](https://www.howwemadeitinafrica.com/fish-sausages-ugandan-ceo-taps-into-demand-for-fish-products/134985/)
+- [France latest to slap Clearview AI with order to delete data](https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/)
+- [Against Translation](https://libertiesjournal.com/articles/against-translation/)
+- [Comparing the Librem 5 USA and PinePhone Beta](https://amosbbatto.wordpress.com/2021/12/10/comparing-l5-and-pp/)
 - [Yo mama&#39;s mama&#39;s mama&#39;s mama: our understanding of human origins](https://razib.substack.com/p/yo-mamas-mamas-mamas-mama-etc)
-- [Derek Lowe: Omicron Update &lpar;Dec 17&rpar;](https://www.science.org/content/blog-post/omicron-update)
-- [Catching Lightning in a Bottle](https://arpa-e.energy.gov/news-and-media/blog-posts/playing-zeus)
-- [Reflect &lpar;YC S20&rpar; is hiring a Marketing Manager to help devs test better](https://www.ycombinator.com/companies/reflect/jobs/ACiNah4-marketing-manager)
-- [Nocom – 2b2t Minecraft server exploit using Monte-Carlo localization](https://github.com/nerdsinspace/nocom-explanation/blob/main/README.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
