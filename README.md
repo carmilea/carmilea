@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [MIT Researchers Just Discovered an AI Mimicking the Brain on Its Own](https://interestingengineering.com/ai-mimicking-the-brain-on-its-own)
+- [A Search for Analogs of Boyajian&#39;s Star: A Second List of Candidates](https://arxiv.org/abs/2111.01208)
 - [SciRate: An open source website to browse, save, and comment ArXiv articles](https://scirate.com/)
 - [I was part of a human subject research study without my consent](https://christine.website/blog/princeton-study-2021-12-17)
 - [Unix Shell Programming: The Next 50 Years](https://www.micahlerner.com/2021/07/14/unix-shell-programming-the-next-50-years.html)
