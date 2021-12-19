@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflect &lpar;YC S20&rpar; is hiring a Marketing Manager to help devs test better](https://www.ycombinator.com/companies/reflect/jobs/ACiNah4-marketing-manager)
+- [Ask HN: Programming on Plane Trips](https://news.ycombinator.com/item?id=29615484)
+- [Why do we still permit tobacco use? &lpar;2015&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4631133/)
+- [Children born in the pandemic have significantly reduced cognitive performance [pdf]](https://www.medrxiv.org/content/10.1101/2021.08.10.21261846v1.full.pdf)
 - [NYU Is Top-Ranked–In Loans That Alumni and Parents Struggle to Repay](https://www.wsj.com/articles/nyu-college-graduate-parent-student-loans-11639618241)
-- [I found that college fails to live up to being “The Great Equalizer”](https://www.visaalambalam.com/the-invisible-curriculum/)
-- [An iframe from googlesyndication.com tries to access the Camera and Microphone](https://techsparx.com/software-development/security/csp-camera-microphone.html)
-- [Writing embedded firmware using Rust](https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust)
-- [Ask HN: How to optimize your career for happiness?](https://news.ycombinator.com/item?id=29614095)
 <!-- BLOG-POST-LIST:END -->
 
 ---
