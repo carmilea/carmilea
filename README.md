@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Was Part of a Human Subject Research Study Without My Consent](https://christine.website/blog/princeton-study-2021-12-17)
+- [SciRate: An open source website to browse, save, and comment ArXiv articles](https://scirate.com/)
+- [I was part of a human subject research study without my consent](https://christine.website/blog/princeton-study-2021-12-17)
 - [Unix Shell Programming: The Next 50 Years](https://www.micahlerner.com/2021/07/14/unix-shell-programming-the-next-50-years.html)
+- [Xcode 13.2 contains Log4j vulnerability](https://developer.apple.com/forums/thread/696785)
 - [Test Your Product on a Crappy Laptop](https://css-tricks.com/test-your-product-on-a-crappy-laptop/)
-- [YouTube-DL core maintainer moves self to inactive list](https://github.com/ytdl-org/youtube-dl/commit/21b759057502c6e70d51011cfb3fb86d84055182)
-- [The Dead Sea of West Texas](https://www.texasmonthly.com/news-politics/lake-boehmer-dead-sea-west-texas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
