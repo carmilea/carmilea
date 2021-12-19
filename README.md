@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pfizer’s Covid-19 Pill is 89% Effective in Phase 2/3 Study](https://www.fdanews.com/articles/205801-pfizers-covid-19-pill-is-89-percent-effective-in-phase-23-study)
+- [Ken Shirriff: Holiday decap of a tiny chip that plays Christmas songs](https://twitter.com/kenshirriff/status/1472299012791230467)
+- [My Values, Howled into the Wind](https://scottaaronson.blog/?p=6173)
 - [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Fish sausages: Ugandan CEO taps into demand](https://www.howwemadeitinafrica.com/fish-sausages-ugandan-ceo-taps-into-demand-for-fish-products/134985/)
-- [Clumps of human brain cells in a dish can learn to play Pong faster than an AI](https://www.newscientist.com/article/2301500-human-brain-cells-in-a-dish-learn-to-play-pong-faster-than-an-ai/)
-- [Collection of Unix ASCII Games](http://ligurio.github.io/awesome-ttygames/)
-- [France latest to slap Clearview AI with order to delete data](https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/)
+- [How severe are Omicron Infections?](https://www.nature.com/articles/d41586-021-03794-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
