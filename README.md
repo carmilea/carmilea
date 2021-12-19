@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Outbreak caused by the SARS-CoV-2 Omicron variant in Norway, Nov to Dec 2021](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.50.2101147)
-- [Lisp in Vim with Slimv or Vlime &lpar;2019&rpar;](https://susam.in/blog/lisp-in-vim-with-slimv-or-vlime.html)
-- [A Search for Analogs of Boyajian&#39;s Star: A Second List of Candidates](https://arxiv.org/abs/2111.01208)
-- [SciRate: An open source website to browse, save, and comment ArXiv articles](https://scirate.com/)
-- [I was part of a human subject research study without my consent](https://christine.website/blog/princeton-study-2021-12-17)
+- [Ohio Gov deploys National Guard to hospitals as Covid deaths surpass 2020 levels](https://ohiocapitaljournal.com/2021/12/17/gov-dewine-deploys-national-guard-to-hospitals-as-covid-deaths-surpass-2020/)
+- [Sirum Is Hiring Experienced Developers in Atlanta](https://www.sirum.org/about/#careers)
+- [Bottles: GUI front end to run Windows software on Linux](https://usebottles.com/)
+- [Ask HN: Have you accepted the TOS that give FB access to your WhatsApp data?](https://news.ycombinator.com/item?id=29612778)
+- [Decap of a tiny chip that plays Christmas songs](https://twitter.com/kenshirriff/status/1472297415201869831)
 <!-- BLOG-POST-LIST:END -->
 
 ---
