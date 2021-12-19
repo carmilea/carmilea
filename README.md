@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Dead Sea of West Texas](https://www.texasmonthly.com/news-politics/lake-boehmer-dead-sea-west-texas/)
 - [What Children Lose When Their Brains Develop Too Fast](https://www.wsj.com/articles/what-children-lose-when-their-brains-develop-too-fast-11639071752)
 - [Apple&#39;s hackish attempt to make PNG decoding parallelizable](https://www.hackerfactor.com/blog/index.php?/archives/895-Connecting-the-iDOTs.html)
 - [Show HN: IR stove thermometer, firmware in Rust](https://www.anyleaf.org)
 - [Manifesto for Ubiquitous Linking](https://linkingmanifesto.org/)
-- [Display-switch: Turn a $30 USB switch into a full-featured multi-monitor KVM](https://github.com/haimgel/display-switch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
