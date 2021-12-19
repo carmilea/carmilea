@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yo mama&#39;s mama&#39;s mama&#39;s mama: our understanding of human origins](https://razib.substack.com/p/yo-mamas-mamas-mamas-mama-etc)
+- [Derek Lowe: Omicron Update &lpar;Dec 17&rpar;](https://www.science.org/content/blog-post/omicron-update)
+- [Catching Lightning in a Bottle](https://arpa-e.energy.gov/news-and-media/blog-posts/playing-zeus)
 - [Reflect &lpar;YC S20&rpar; is hiring a Marketing Manager to help devs test better](https://www.ycombinator.com/companies/reflect/jobs/ACiNah4-marketing-manager)
 - [Nocom – 2b2t Minecraft server exploit using Monte-Carlo localization](https://github.com/nerdsinspace/nocom-explanation/blob/main/README.md)
-- [Someone attached an AirTag to my car while I was in a bar](https://twitter.com/Sega__JEANAsis/status/1472198123506257937)
-- [Why do we still permit tobacco use? &lpar;2015&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4631133/)
-- [Newt: Low powered, FOSS, 2.7-inch IoT display, ESP32-S2 mod &amp; Sharp MiP LCD](https://www.crowdsupply.com/phambili/newt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
