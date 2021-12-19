@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lithuania evacuates its embassy in China](https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843)
-- [FPGA Advent Calendar](https://twitter.com/willflux/status/1465268154733637633)
-- [The rise and decline of thinking over feeling](https://marginalrevolution.com/marginalrevolution/2021/12/the-rise-and-decline-of-thinking-over-feeling.html)
-- [Ask HN: Strategies to land fully remote $250k+ job](https://news.ycombinator.com/item?id=29613382)
-- [Richard Rogers has died](https://www.theguardian.com/artanddesign/2021/dec/19/richard-rogers-pompidou-and-millennium-dome-architect-dies-aged-88)
+- [NYU Is Top-Ranked–In Loans That Alumni and Parents Struggle to Repay](https://www.wsj.com/articles/nyu-college-graduate-parent-student-loans-11639618241)
+- [I found that college fails to live up to being “The Great Equalizer”](https://www.visaalambalam.com/the-invisible-curriculum/)
+- [An iframe from googlesyndication.com tries to access the Camera and Microphone](https://techsparx.com/software-development/security/csp-camera-microphone.html)
+- [Writing embedded firmware using Rust](https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust)
+- [Ask HN: How to optimize your career for happiness?](https://news.ycombinator.com/item?id=29614095)
 <!-- BLOG-POST-LIST:END -->
 
 ---
