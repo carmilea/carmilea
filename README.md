@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Aussie Healthtech Trends Wrapped because we also have to jump on the bandwagon](https://www.whatthehealth.io/p/medtechactuatorhealthtechtrends)
+- [Outbreak caused by the SARS-CoV-2 Omicron variant in Norway, Nov to Dec 2021](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.50.2101147)
 - [A Search for Analogs of Boyajian&#39;s Star: A Second List of Candidates](https://arxiv.org/abs/2111.01208)
 - [SciRate: An open source website to browse, save, and comment ArXiv articles](https://scirate.com/)
 - [I was part of a human subject research study without my consent](https://christine.website/blog/princeton-study-2021-12-17)
-- [Unix Shell Programming: The Next 50 Years](https://www.micahlerner.com/2021/07/14/unix-shell-programming-the-next-50-years.html)
-- [Xcode 13.2 contains Log4j vulnerability](https://developer.apple.com/forums/thread/696785)
 <!-- BLOG-POST-LIST:END -->
 
 ---
