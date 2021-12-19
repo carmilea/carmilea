@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise and Decline of Thinking over Feeling](https://marginalrevolution.com/marginalrevolution/2021/12/the-rise-and-decline-of-thinking-over-feeling.html)
+- [Lithuania evacuates its embassy in China](https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843)
+- [FPGA Advent Calendar](https://twitter.com/willflux/status/1465268154733637633)
+- [The rise and decline of thinking over feeling](https://marginalrevolution.com/marginalrevolution/2021/12/the-rise-and-decline-of-thinking-over-feeling.html)
 - [Ask HN: Strategies to land fully remote $250k+ job](https://news.ycombinator.com/item?id=29613382)
-- [Richard Rogers: Pompidou and Millennium Dome architect dies aged 88](https://www.theguardian.com/artanddesign/2021/dec/19/richard-rogers-pompidou-and-millennium-dome-architect-dies-aged-88)
-- [Sirum Is Hiring Experienced Developers in Atlanta](https://www.sirum.org/about/#careers)
-- [Bottles: GUI front end to run Windows software on Linux](https://usebottles.com/)
+- [Richard Rogers has died](https://www.theguardian.com/artanddesign/2021/dec/19/richard-rogers-pompidou-and-millennium-dome-architect-dies-aged-88)
 <!-- BLOG-POST-LIST:END -->
 
 ---
