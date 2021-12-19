@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Reflect &lpar;YC S20&rpar; is hiring a Marketing Manager to help devs test better](https://www.ycombinator.com/companies/reflect/jobs/ACiNah4-marketing-manager)
-- [Ask HN: Programming on Plane Trips](https://news.ycombinator.com/item?id=29615484)
+- [Nocom – 2b2t Minecraft server exploit using Monte-Carlo localization](https://github.com/nerdsinspace/nocom-explanation/blob/main/README.md)
+- [Someone attached an AirTag to my car while I was in a bar](https://twitter.com/Sega__JEANAsis/status/1472198123506257937)
 - [Why do we still permit tobacco use? &lpar;2015&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4631133/)
-- [Children born in the pandemic have significantly reduced cognitive performance [pdf]](https://www.medrxiv.org/content/10.1101/2021.08.10.21261846v1.full.pdf)
-- [NYU Is Top-Ranked–In Loans That Alumni and Parents Struggle to Repay](https://www.wsj.com/articles/nyu-college-graduate-parent-student-loans-11639618241)
+- [Newt: Low powered, FOSS, 2.7-inch IoT display, ESP32-S2 mod &amp; Sharp MiP LCD](https://www.crowdsupply.com/phambili/newt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
