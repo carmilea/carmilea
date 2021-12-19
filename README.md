@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Aussie Healthtech Trends Wrapped because we also have to jump on the bandwagon](https://www.whatthehealth.io/p/medtechactuatorhealthtechtrends)
 - [Outbreak caused by the SARS-CoV-2 Omicron variant in Norway, Nov to Dec 2021](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.50.2101147)
+- [Lisp in Vim with Slimv or Vlime &lpar;2019&rpar;](https://susam.in/blog/lisp-in-vim-with-slimv-or-vlime.html)
 - [A Search for Analogs of Boyajian&#39;s Star: A Second List of Candidates](https://arxiv.org/abs/2111.01208)
 - [SciRate: An open source website to browse, save, and comment ArXiv articles](https://scirate.com/)
 - [I was part of a human subject research study without my consent](https://christine.website/blog/princeton-study-2021-12-17)
