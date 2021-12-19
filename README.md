@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The AlohaNet: Surfing for Wireless Data &lpar;2009&rpar; [pdf]](https://www.eng.hawaii.edu/wp-content/uploads/2020/06/THE-ALOHANET-%E2%80%94-SURFING-FOR-WIRELESS-DATA.pdf)
+- [Apple’s use of Swift and SwiftUI in iOS 15](https://blog.timac.org/2021/1219-state-of-swift-and-swiftui-ios15/)
+- [Forest data for 236 countries and territories in the period 1990-2020](https://www.fao.org/forest-resources-assessment/2020/en/)
 - [Pfizer’s Covid-19 Pill is 89% Effective in Phase 2/3 Study](https://www.fdanews.com/articles/205801-pfizers-covid-19-pill-is-89-percent-effective-in-phase-23-study)
-- [Ken Shirriff: Holiday decap of a tiny chip that plays Christmas songs](https://twitter.com/kenshirriff/status/1472299012791230467)
-- [My Values, Howled into the Wind](https://scottaaronson.blog/?p=6173)
-- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [How severe are Omicron Infections?](https://www.nature.com/articles/d41586-021-03794-8)
+- [The Timing of Evolutionary Transitions Suggests Intelligent Life Is Rare](https://www.liebertpub.com/doi/10.1089/ast.2019.2149)
 <!-- BLOG-POST-LIST:END -->
 
 ---
