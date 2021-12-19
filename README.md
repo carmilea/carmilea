@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [Fish sausages: Ugandan CEO taps into demand](https://www.howwemadeitinafrica.com/fish-sausages-ugandan-ceo-taps-into-demand-for-fish-products/134985/)
+- [Clumps of human brain cells in a dish can learn to play Pong faster than an AI](https://www.newscientist.com/article/2301500-human-brain-cells-in-a-dish-learn-to-play-pong-faster-than-an-ai/)
+- [Collection of Unix ASCII Games](http://ligurio.github.io/awesome-ttygames/)
 - [France latest to slap Clearview AI with order to delete data](https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/)
-- [Against Translation](https://libertiesjournal.com/articles/against-translation/)
-- [Comparing the Librem 5 USA and PinePhone Beta](https://amosbbatto.wordpress.com/2021/12/10/comparing-l5-and-pp/)
-- [Yo mama&#39;s mama&#39;s mama&#39;s mama: our understanding of human origins](https://razib.substack.com/p/yo-mamas-mamas-mamas-mama-etc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
