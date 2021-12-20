@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Beanstalk: A Decentralized Credit Based Stablecoin Protocol](https://bean.money/docs/intro-to-beanstalk)
+- [Honey bees, Varroa mites and unintended consequences](https://www.economist.com/science-and-technology/2021/12/15/honey-bees-varroa-mites-and-unintended-consequences/21806830)
 - [Amputated fingertips sometimes grow back &lpar;2013&rpar;](https://www.npr.org/sections/health-shots/2013/06/10/190385484/chopped-how-amputated-fingertips-sometimes-grow-back)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29620454)
 - [Overview: Alternate open-source front-ends for &lpar;YouTube, Twitter, etc.&rpar;](https://github.com/mendel5/alternative-front-ends)
