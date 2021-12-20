@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What&#39;s the next big thing in computing / programming?](https://news.ycombinator.com/item?id=29625625)
-- [Ask HN: Which tech stack is the most fun?](https://news.ycombinator.com/item?id=29625165)
+- [Ask HN: What tech stack would you use to build a new web app today?](https://news.ycombinator.com/item?id=29626371)
+- [Bugs are evolving to eat plastic](https://www.nationalobserver.com/2021/12/17/news/bugs-are-evolving-eat-plastic)
+- [The bulldozer vs. vetocracy political axis](https://vitalik.ca/general/2021/12/19/bullveto.html)
+- [Learn Accounting for Free](https://www.accountingcoach.com/)
 - [The QOI File Format Specification](https://phoboslab.org/log/2021/12/qoi-specification)
-- [HTTP Toolkit](https://httptoolkit.tech/)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=29623881)
 <!-- BLOG-POST-LIST:END -->
 
 ---
