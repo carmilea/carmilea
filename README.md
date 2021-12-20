@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTP Toolkit](https://httptoolkit.tech/)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=29623881)
 - [Tesla remotely unlocks Model 3 car, uses smart summon to help repo agent](https://tiremeetsroad.com/2021/03/18/tesla-allegedly-remotely-unlocks-model-3-owners-car-uses-smart-summon-to-help-repo-agent/)
 - [The Stick of Jan Sloot &lpar;2004&rpar;](http://www.spronck.net/sloot.html)
 - [Code Review as a Service](https://www.pullrequest.com/)
-- [ReactOS 0.4.14](https://reactos.org/project-news/reactos-0414-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
