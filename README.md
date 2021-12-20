@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How can a non-techie mom regain access to her FB account?](https://news.ycombinator.com/item?id=29623254)
-- [Moderna booster increased neutralizing antibody levels against Omicron ~37-fold](https://investors.modernatx.com/news/news-details/2021/Moderna-Announces-Preliminary-Booster-Data-and-Updates-Strategy-to-Address-Omicron-Variant/default.aspx)
-- [Local man switches to Arch, tells no one [satire]](https://lunduke.substack.com/p/local-man-switches-to-arch-tells)
-- [Show HN: Make My Screen Black](https://allblackscreen.com/)
-- [How do you manage or avoid meltdowns?](https://news.ycombinator.com/item?id=29622876)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=29623881)
+- [Tesla remotely unlocks Model 3 car, uses smart summon to help repo agent](https://tiremeetsroad.com/2021/03/18/tesla-allegedly-remotely-unlocks-model-3-owners-car-uses-smart-summon-to-help-repo-agent/)
+- [The Stick of Jan Sloot &lpar;2004&rpar;](http://www.spronck.net/sloot.html)
+- [Code Review as a Service](https://www.pullrequest.com/)
+- [ReactOS 0.4.14](https://reactos.org/project-news/reactos-0414-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
