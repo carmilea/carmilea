@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dramatic growth in mental-health apps has created a risky industry](https://www.economist.com/business/2021/12/11/dramatic-growth-in-mental-health-apps-has-created-a-risky-industry)
+- [You can&#39;t lure employees back to the office](https://www.zdnet.com/article/they-really-arent-going-back-work-from-home-is-here-to-stay/)
+- [Show HN: Lisp with GC in 436 Bytes](https://justine.lol/sectorlisp2/)
 - [Tesorio &lpar;YC S15&rpar; is hiring a Senior DevOps and more](https://www.tesorio.com/careers#job-openings)
-- [A challenger to the throne of vector graphics. SVG is dead, long live TinyVG](https://zig.news/xq/a-challenger-to-the-throne-of-vector-graphics-svg-is-dead-long-live-tinyvg-4on8)
-- [A review of ontologies for describing scholarly and scientific documents &lpar;2014&rpar; [pdf]](http://ceur-ws.org/Vol-1155/paper-07.pdf)
-- [Speedy Web Compiler – A Superfast TypeScript/JavaScript Compiler Written in Rust](https://github.com/swc-project/swc)
-- [UK’s largest flow battery energised at Energy Superhub Oxford](https://energysuperhuboxford.org/uks-largest-flow-battery-energised-at-energy-superhub-oxford/)
+- [Self arrest on the slippery slope of addiction](https://dimitarsimeonov.com/2021/12/20/self-arrest-on-the-slippery-slope-of-addiction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
