@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio &lpar;YC S15&rpar; is hiring a Senior DevOps and more](https://www.tesorio.com/careers#job-openings)
+- [A challenger to the throne of vector graphics. SVG is dead, long live TinyVG](https://zig.news/xq/a-challenger-to-the-throne-of-vector-graphics-svg-is-dead-long-live-tinyvg-4on8)
+- [A review of ontologies for describing scholarly and scientific documents &lpar;2014&rpar; [pdf]](http://ceur-ws.org/Vol-1155/paper-07.pdf)
+- [Speedy Web Compiler – A Superfast TypeScript/JavaScript Compiler Written in Rust](https://github.com/swc-project/swc)
 - [UK’s largest flow battery energised at Energy Superhub Oxford](https://energysuperhuboxford.org/uks-largest-flow-battery-energised-at-energy-superhub-oxford/)
-- [DARPA Selects Performers to Build, Test Manta Ray Unmanned Underwater Vehicles](https://www.darpa.mil/news-events/2021-12-20)
-- [Ubisoft&#39;s Unprecedented “Exodus” of Developers](https://www.axios.com/ubisoft-assassins-creed-great-resignation-aef86e61-75a8-4446-8ad6-f2c58bd0b730.html)
-- [Show HN: Python decorator that enables arbitrarily-deep tail/non-tail recursion](https://github.com/tylerhou/fiber)
-- [Launch HN: FlutterFlow &lpar;YC W21&rpar; – Build Apps Visually](https://news.ycombinator.com/item?id=29628716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
