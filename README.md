@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Scholarly Pursuit of Shrek](https://www.pastemagazine.com/comedy/shrek-irony-jamie-loftus/)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers in California, Texas, New York, &amp; London](https://onesignal.com/careers)
-- [Simon Willison&#39;s Annotated Explanation of David Beazley&#39;s Dataklasses](https://til.simonwillison.net/python/annotated-dataklasses)
-- [Fixing Memory Leaks in Popular Python Libraries](https://www.paulsprogrammingnotes.com/2021/12/python-memory-leaks.html)
-- [Against 3x Speed](https://perell.com/essay/against-3x-speed/)
+- [How do you manage or avoid meltdowns?](https://news.ycombinator.com/item?id=29622876)
+- [Opto-electronic voice transceiver for covert infra-red light communication](https://www.cryptomuseum.com/covert/opto/jo402/index.htm)
+- [Remove an Omnivore&#39;s Statue? Debate Ensues over the Legacy of Factory Farming](https://forum.effectivealtruism.org/posts/q5NaHbu7RmYmkrbkh/remove-an-omnivore-s-statue-debate-ensues-over-the-legacy-of)
+- [New EU data blockage as German court would ban many cookie management providers](https://iapp.org/news/a/new-eu-data-blockage-as-german-court-would-ban-many-cookie-management-providers/)
+- [There&#39;s never been a better time to build websites](https://www.simeongriggs.dev/there-has-never-been-a-better-time-to-build-websites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
