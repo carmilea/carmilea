@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Simon Willison&#39;s Annotated Explanation of David Beazley&#39;s Dataklasses](https://til.simonwillison.net/python/annotated-dataklasses)
+- [Fixing Memory Leaks in Popular Python Libraries](https://www.paulsprogrammingnotes.com/2021/12/python-memory-leaks.html)
 - [Against 3x Speed](https://perell.com/essay/against-3x-speed/)
 - [Implementing RSA in Python from Scratch](https://coderoasis.com/implementing-rsa-from-scratch-in-python/)
-- [I built a web app inspired by the 4 Disciplines of Execution for goal completion](https://www.GridGoal.com)
-- [S.Africa says vaccines, prior infection help mildness of Covid cases](https://www.reuters.com/world/africa/south-africa-seeing-slight-increase-covid-19-deaths-off-low-base-2021-12-17/)
-- [Honey bees, Varroa mites and unintended consequences](https://www.economist.com/science-and-technology/2021/12/15/honey-bees-varroa-mites-and-unintended-consequences/21806830)
+- [Maryland hasn&#39;t updated Covid case data for 15 days due to a security incident](https://health1.maryland.gov:443/incidentupdate/Pages/default.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
