@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What tech stack would you use to build a new web app today?](https://news.ycombinator.com/item?id=29626371)
+- [Jupe is hiring a CTO to build the tech for 1.5B humans](https://www.youtube.com/watch?v=xN_og8z5yQw&ab_channel=GarryTan)
+- [NeoPixel Christmas Tree Lights Controlled by a Raspberry Pi](https://shopmakergenix.blogspot.com/2021/12/neopixel-christmas-tree-lights.html)
+- [Julia Computing&#39;s co-founder involved in government mass surveillance project](https://twitter.com/palash2504/status/1472836458364878851)
 - [Bugs are evolving to eat plastic](https://www.nationalobserver.com/2021/12/17/news/bugs-are-evolving-eat-plastic)
 - [The bulldozer vs. vetocracy political axis](https://vitalik.ca/general/2021/12/19/bullveto.html)
-- [Learn Accounting for Free](https://www.accountingcoach.com/)
-- [The QOI File Format Specification](https://phoboslab.org/log/2021/12/qoi-specification)
 <!-- BLOG-POST-LIST:END -->
 
 ---
