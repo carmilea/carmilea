@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Jupe is hiring a CTO to build the tech for 1.5B humans](https://www.youtube.com/watch?v=xN_og8z5yQw&ab_channel=GarryTan)
-- [NeoPixel Christmas Tree Lights Controlled by a Raspberry Pi](https://shopmakergenix.blogspot.com/2021/12/neopixel-christmas-tree-lights.html)
-- [Julia Computing&#39;s co-founder involved in government mass surveillance project](https://twitter.com/palash2504/status/1472836458364878851)
-- [Bugs are evolving to eat plastic](https://www.nationalobserver.com/2021/12/17/news/bugs-are-evolving-eat-plastic)
-- [The bulldozer vs. vetocracy political axis](https://vitalik.ca/general/2021/12/19/bullveto.html)
+- [Progressive Caucus’ Endorsement of 32-Hour Workweek Act](https://takano.house.gov/newsroom/press-releases/rep-takano-statement-on-congressional-progressive-caucus-endorsement-of-32-hour-workweek-act)
+- [Apple added an orange dot that’s a showstopper for live visuals](https://cdm.link/2021/12/apple-added-an-orange-dot-thats-a-showstopper-for-live-visuals-and-it-needs-a-fix/)
+- [Elementary OS 6.1](https://blog.elementary.io/elementary-os-6-1-available-now/)
+- [Stealth bomber in flight on Google Maps](https://www.google.com/maps/place/39%C2%B001%2718.5%22N+93%C2%B035%2740.5%22W/@39.0219215,-93.5946774,253m/data=!3m1!1e3!4m5!3m4!1s0x0:0xd87af7588b9c362e!8m2!3d39.0218056!4d-93.5945833)
+- [European Alternatives for Digital Products](https://european-alternatives.eu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
