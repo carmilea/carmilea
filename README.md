@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How can a non-techie mom regain access to her FB account?](https://news.ycombinator.com/item?id=29623254)
+- [Moderna booster increased neutralizing antibody levels against Omicron ~37-fold](https://investors.modernatx.com/news/news-details/2021/Moderna-Announces-Preliminary-Booster-Data-and-Updates-Strategy-to-Address-Omicron-Variant/default.aspx)
+- [Local man switches to Arch, tells no one [satire]](https://lunduke.substack.com/p/local-man-switches-to-arch-tells)
+- [Show HN: Make My Screen Black](https://allblackscreen.com/)
 - [How do you manage or avoid meltdowns?](https://news.ycombinator.com/item?id=29622876)
-- [Opto-electronic voice transceiver for covert infra-red light communication](https://www.cryptomuseum.com/covert/opto/jo402/index.htm)
-- [Remove an Omnivore&#39;s Statue? Debate Ensues over the Legacy of Factory Farming](https://forum.effectivealtruism.org/posts/q5NaHbu7RmYmkrbkh/remove-an-omnivore-s-statue-debate-ensues-over-the-legacy-of)
-- [New EU data blockage as German court would ban many cookie management providers](https://iapp.org/news/a/new-eu-data-blockage-as-german-court-would-ban-many-cookie-management-providers/)
-- [There&#39;s never been a better time to build websites](https://www.simeongriggs.dev/there-has-never-been-a-better-time-to-build-websites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
