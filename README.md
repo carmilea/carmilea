@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [UK’s largest flow battery energised at Energy Superhub Oxford](https://energysuperhuboxford.org/uks-largest-flow-battery-energised-at-energy-superhub-oxford/)
+- [DARPA Selects Performers to Build, Test Manta Ray Unmanned Underwater Vehicles](https://www.darpa.mil/news-events/2021-12-20)
+- [Ubisoft&#39;s Unprecedented “Exodus” of Developers](https://www.axios.com/ubisoft-assassins-creed-great-resignation-aef86e61-75a8-4446-8ad6-f2c58bd0b730.html)
+- [Show HN: Python decorator that enables arbitrarily-deep tail/non-tail recursion](https://github.com/tylerhou/fiber)
 - [Launch HN: FlutterFlow &lpar;YC W21&rpar; – Build Apps Visually](https://news.ycombinator.com/item?id=29628716)
-- [Ask HN: How are your interviewers being rude to you?](https://news.ycombinator.com/item?id=29628450)
-- [Progressive Caucus’ Endorsement of 32-Hour Workweek Act](https://takano.house.gov/newsroom/press-releases/rep-takano-statement-on-congressional-progressive-caucus-endorsement-of-32-hour-workweek-act)
-- [Apple added an orange dot that’s a showstopper for live visuals](https://cdm.link/2021/12/apple-added-an-orange-dot-thats-a-showstopper-for-live-visuals-and-it-needs-a-fix/)
-- [Elementary OS 6.1](https://blog.elementary.io/elementary-os-6-1-available-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
