@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Scholarly Pursuit of Shrek](https://www.pastemagazine.com/comedy/shrek-irony-jamie-loftus/)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers in California, Texas, New York, &amp; London](https://onesignal.com/careers)
 - [Simon Willison&#39;s Annotated Explanation of David Beazley&#39;s Dataklasses](https://til.simonwillison.net/python/annotated-dataklasses)
 - [Fixing Memory Leaks in Popular Python Libraries](https://www.paulsprogrammingnotes.com/2021/12/python-memory-leaks.html)
 - [Against 3x Speed](https://perell.com/essay/against-3x-speed/)
-- [Implementing RSA in Python from Scratch](https://coderoasis.com/implementing-rsa-from-scratch-in-python/)
-- [Maryland hasn&#39;t updated Covid case data for 15 days due to a security incident](https://health1.maryland.gov:443/incidentupdate/Pages/default.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
