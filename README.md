@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Against 3x Speed](https://perell.com/essay/against-3x-speed/)
+- [Implementing RSA in Python from Scratch](https://coderoasis.com/implementing-rsa-from-scratch-in-python/)
+- [I built a web app inspired by the 4 Disciplines of Execution for goal completion](https://www.GridGoal.com)
+- [S.Africa says vaccines, prior infection help mildness of Covid cases](https://www.reuters.com/world/africa/south-africa-seeing-slight-increase-covid-19-deaths-off-low-base-2021-12-17/)
 - [Honey bees, Varroa mites and unintended consequences](https://www.economist.com/science-and-technology/2021/12/15/honey-bees-varroa-mites-and-unintended-consequences/21806830)
-- [Amputated fingertips sometimes grow back &lpar;2013&rpar;](https://www.npr.org/sections/health-shots/2013/06/10/190385484/chopped-how-amputated-fingertips-sometimes-grow-back)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29620454)
-- [Overview: Alternate open-source front-ends for &lpar;YouTube, Twitter, etc.&rpar;](https://github.com/mendel5/alternative-front-ends)
-- [Show HN: Mum&#39;s 80th birthday present- a rotary phone from the 1970&#39;s](http://fourlightyears.blogspot.com/2021/12/this-is-my-mums-80th-birthday-present.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
