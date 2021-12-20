@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zig 0.9.0](https://ziglang.org/download/0.9.0/release-notes.html)
+- [Google to end support for OnHub routers in 2022](https://support.google.com/googlenest/answer/11257354?hl=en)
+- [Giant 555 Timer](https://hackaday.com/2021/12/20/all-hail-your-new-giant-555-timer-overlord/)
 - [Dramatic growth in mental-health apps has created a risky industry](https://www.economist.com/business/2021/12/11/dramatic-growth-in-mental-health-apps-has-created-a-risky-industry)
-- [You can&#39;t lure employees back to the office](https://www.zdnet.com/article/they-really-arent-going-back-work-from-home-is-here-to-stay/)
 - [Show HN: Lisp with GC in 436 Bytes](https://justine.lol/sectorlisp2/)
-- [Tesorio &lpar;YC S15&rpar; is hiring a Senior DevOps and more](https://www.tesorio.com/careers#job-openings)
-- [Self arrest on the slippery slope of addiction](https://dimitarsimeonov.com/2021/12/20/self-arrest-on-the-slippery-slope-of-addiction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
