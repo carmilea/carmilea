@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If 6G Becomes just 5G+ We’ll Have Made a Big Mistake](https://spectrum.ieee.org/6g-semantic-communication)
+- [Ask HN: How many hours a day/week to you read books?](https://news.ycombinator.com/item?id=29624652)
 - [HTTP Toolkit](https://httptoolkit.tech/)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=29623881)
 - [Tesla remotely unlocks Model 3 car, uses smart summon to help repo agent](https://tiremeetsroad.com/2021/03/18/tesla-allegedly-remotely-unlocks-model-3-owners-car-uses-smart-summon-to-help-repo-agent/)
-- [The Stick of Jan Sloot &lpar;2004&rpar;](http://www.spronck.net/sloot.html)
-- [Code Review as a Service](https://www.pullrequest.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
