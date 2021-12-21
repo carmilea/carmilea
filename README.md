@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CDC: Omicron 73% of US Covid Cases Last Week](https://covid.cdc.gov/covid-data-tracker/#variant-proportions)
+- [An extinct millipede the length of a car once roamed northern England](https://www.npr.org/2021/12/20/1065759563/extinct-millipede-car-northern-england-arthropleura)
+- [Build retro games using WebAssembly for a fantasy console](https://wasm4.org/)
 - [Finley &lpar;YC W21&rpar; is hiring early engineers to build fintech SaaS &lpar;Remote&rpar;](https://www.finleycms.com/careers/)
 - [Unloved by generations of soldiers, the MRE finds a fan base](https://www.nytimes.com/2021/06/08/dining/mre-meals-ready-to-eat.html)
-- [Detailed Footage Finally Reveals What Triggers Lightning](https://www.quantamagazine.org/radio-telescope-reveals-how-lightning-begins-20211220/)
-- [Femtolisp – a lightweight, robust, scheme-like Lisp implementation](https://github.com/JeffBezanson/femtolisp)
-- [A simple proposal to humankind. Global Peace Dividend](https://peace-dividend.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
