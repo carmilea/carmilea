@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL&#39;s Missing DateDiff Function](https://www.narrator.ai/blog/postgres-missing-datediff-function/)
+- [The Great SPAC Scam: SPACs a Great Deal for Sponsors, but Not Others](https://www.mergersandinquisitions.com/great-spac-scam/)
 - [Apple and NeXT, 25 Years Ago this week](https://blog.hayman.net/blog/2021/12/20/apple-next-25-years-ago-today/)
 - [A Quadrillion Mainframes on Your Lap](https://spectrum.ieee.org/ibm-mainframe)
 - [Boeing, Airbus executives urge delay in U.S. 5G wireless deployment](https://www.reuters.com/business/aerospace-defense/boeing-airbus-executives-urge-delay-5g-wireless-deployment-2021-12-21/)
-- [Mantic Monday: Let Me Google That for You](https://astralcodexten.substack.com/p/mantic-monday-let-me-google-that)
-- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Dev Ops Engineer](https://www.themuse.com/jobs/themuse/senior-dev-ops-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
