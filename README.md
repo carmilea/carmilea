@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Dev Ops Engineer](https://www.themuse.com/jobs/themuse/senior-dev-ops-engineer)
+- [Hidden Networks in TP-Link Routers](https://jahed.dev/2021/12/19/hidden-networks-in-tp-link-routers/)
+- [The lives and deaths of Georgi Markov](https://www.eurozine.com/the-lives-and-deaths-of-georgi-markov/)
 - [DARPA open sources resources to aid evaluation of adversarial AI defenses](https://www.darpa.mil/news-events/2021-12-21)
 - [Devon calls victory in 27-year war on termites](https://www.theguardian.com/uk-news/2021/dec/21/a-world-first-devon-calls-victory-in-27-year-war-on-termites)
-- [Internet Movie Firearms Database](http://www.imfdb.org/wiki/Main_Page)
-- [Interactive maps of Europe in the 19th century](https://maps.arcanum.com/en/map/europe-19century-secondsurvey/)
-- [Over 7k SOL &lpar;$1.2M&rpar; got lost on Solana NFT mint due to a hack](https://blog.vanila.io/over-7-000-sol-1-2-946215a9ee0e?gi=9e0ce560928d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
