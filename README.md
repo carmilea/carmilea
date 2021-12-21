@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zig 0.9.0](https://ziglang.org/download/0.9.0/release-notes.html)
-- [Google to end support for OnHub routers in 2022](https://support.google.com/googlenest/answer/11257354?hl=en)
-- [Giant 555 Timer](https://hackaday.com/2021/12/20/all-hail-your-new-giant-555-timer-overlord/)
-- [Dramatic growth in mental-health apps has created a risky industry](https://www.economist.com/business/2021/12/11/dramatic-growth-in-mental-health-apps-has-created-a-risky-industry)
-- [Show HN: Lisp with GC in 436 Bytes](https://justine.lol/sectorlisp2/)
+- [Finley &lpar;YC W21&rpar; is hiring early engineers to build fintech SaaS &lpar;Remote&rpar;](https://www.finleycms.com/careers/)
+- [Unloved by generations of soldiers, the MRE finds a fan base](https://www.nytimes.com/2021/06/08/dining/mre-meals-ready-to-eat.html)
+- [Detailed Footage Finally Reveals What Triggers Lightning](https://www.quantamagazine.org/radio-telescope-reveals-how-lightning-begins-20211220/)
+- [Femtolisp – a lightweight, robust, scheme-like Lisp implementation](https://github.com/JeffBezanson/femtolisp)
+- [A simple proposal to humankind. Global Peace Dividend](https://peace-dividend.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
