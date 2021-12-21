@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook](https://deepnote.com/join-us)
+- [The Olkiluoto 3 EPR plant unit started up](https://www.tvo.fi/en/index/news/pressreleasesstockexchangereleases/2021/theolkiluoto3eprplantunitstartedup.html)
 - [Lottie – use After Effects animations in web and native apps](https://airbnb.io/lottie/)
 - [“It Started as a Joke”: On the Design of Idle Games &lpar;2019&rpar;](https://dl.acm.org/doi/10.1145/3311350.3347180)
-- [Ask HN: Recommended Domain Registrars?](https://news.ycombinator.com/item?id=29633404)
 - [Kodi: An Open Source Home Theater System](https://kodi.tv/)
-- [Omicron variant was 73% of U.S. covid cases last week](https://covid.cdc.gov/covid-data-tracker/#variant-proportions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
