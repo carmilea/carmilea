@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fishback &lpar;Bussard&rpar; ramjet revisited](https://www.sciencedirect.com/science/article/pii/S0094576521005804)
-- [Unix Admin. Horror Story Summary, Version 1.0](https://www-uxsup.csx.cam.ac.uk/misc/horror.txt)
-- [PR to Merge Multicore OCaml](https://github.com/ocaml/ocaml/pull/10831)
-- [Show HN: &quot;crzy64&quot;, base64 mod aimed for fastest decoding](https://github.com/ilyakurdyukov/crzy64)
-- [Ligatures in Programming Fonts: Hell No](https://practicaltypography.com/ligatures-in-programming-fonts-hell-no.html)
+- [SuperTokens &lpar;YC S20&rpar; Is Hiring a head of technical content](https://www.ycombinator.com/companies/supertokens/jobs/8b6xECpF3-head-of-technical-content-and-documentation)
+- [Teletext Archive – open repository for teletext recoverers](https://archive.teletextarchaeologist.org)
+- [John Carmack on using Internet Archive as a default host-of-record for startups](https://twitter.com/ID_AA_Carmack/status/1473327982605385735)
+- [Video of Tesla on Autopilot Crashing into Stopped Truck at 75mph](https://twitter.com/greentheonly/status/1473307236952940548)
+- [Moral lessons from free software and GNU Emacs – Protesilaos Stavrou](https://protesilaos.com/codelog/2021-04-16-emacs-moral-lessons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
