@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ordering Movie Credits with Graph Theory](https://endcrawl.com/credits-ordering/)
+- [EnTT: Gaming meets modern C++ 3.9 &lpar;ECS library and much more&rpar;](https://github.com/skypjack/entt)
 - [SuperTokens &lpar;YC S20&rpar; Is Hiring a head of technical content](https://www.ycombinator.com/companies/supertokens/jobs/8b6xECpF3-head-of-technical-content-and-documentation)
 - [Teletext Archive – open repository for teletext recoverers](https://archive.teletextarchaeologist.org)
 - [John Carmack on using Internet Archive as a default host-of-record for startups](https://twitter.com/ID_AA_Carmack/status/1473327982605385735)
-- [Video of Tesla on Autopilot Crashing into Stopped Truck at 75mph](https://twitter.com/greentheonly/status/1473307236952940548)
-- [Moral lessons from free software and GNU Emacs – Protesilaos Stavrou](https://protesilaos.com/codelog/2021-04-16-emacs-moral-lessons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
