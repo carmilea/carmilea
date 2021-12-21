@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [T-Mobile says it blocked 21B scam calls this year](https://www.bleepingcomputer.com/news/security/t-mobile-says-it-blocked-21-billion-scam-calls-this-year/)
+- [We fought an anti encryption law in Belgium – and won](https://tutanota.com/blog/posts/belgian-encryption-backdoor-law-stopped/)
+- [TSMC in Japan: things to know about its chip factory plans](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-in-Japan-5-things-to-know-about-its-chip-factory-plans)
 - [Pachyderm is hiring DevRel and Go Engineers to build world-class Data Versioning](https://www.pachyderm.com/careers/#positions)
 - [China forbids data encryption using a key greater than 256 bits](https://sanctionsnews.bakermckenzie.com/mofcom-issues-new-encryption-import-control-effective-immediately/)
-- [All Bitcoin private keys are on this website](https://playxo.com)
-- [How to develop black and white film at home with coffee](https://www.fieldmag.com/articles/how-to-develop-film-with-coffee-caffenol-guide)
-- [Animated Drawings](https://sketch.metademolab.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
