@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple and NeXT, 25 Years Ago this week](https://blog.hayman.net/blog/2021/12/20/apple-next-25-years-ago-today/)
+- [A Quadrillion Mainframes on Your Lap](https://spectrum.ieee.org/ibm-mainframe)
+- [Boeing, Airbus executives urge delay in U.S. 5G wireless deployment](https://www.reuters.com/business/aerospace-defense/boeing-airbus-executives-urge-delay-5g-wireless-deployment-2021-12-21/)
+- [Mantic Monday: Let Me Google That for You](https://astralcodexten.substack.com/p/mantic-monday-let-me-google-that)
 - [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Dev Ops Engineer](https://www.themuse.com/jobs/themuse/senior-dev-ops-engineer)
-- [Hidden Networks in TP-Link Routers](https://jahed.dev/2021/12/19/hidden-networks-in-tp-link-routers/)
-- [The lives and deaths of Georgi Markov](https://www.eurozine.com/the-lives-and-deaths-of-georgi-markov/)
-- [DARPA open sources resources to aid evaluation of adversarial AI defenses](https://www.darpa.mil/news-events/2021-12-21)
-- [Devon calls victory in 27-year war on termites](https://www.theguardian.com/uk-news/2021/dec/21/a-world-first-devon-calls-victory-in-27-year-war-on-termites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
