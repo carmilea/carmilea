@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DARPA open sources resources to aid evaluation of adversarial AI defenses](https://www.darpa.mil/news-events/2021-12-21)
+- [Devon calls victory in 27-year war on termites](https://www.theguardian.com/uk-news/2021/dec/21/a-world-first-devon-calls-victory-in-27-year-war-on-termites)
+- [Internet Movie Firearms Database](http://www.imfdb.org/wiki/Main_Page)
 - [Interactive maps of Europe in the 19th century](https://maps.arcanum.com/en/map/europe-19century-secondsurvey/)
 - [Over 7k SOL &lpar;$1.2M&rpar; got lost on Solana NFT mint due to a hack](https://blog.vanila.io/over-7-000-sol-1-2-946215a9ee0e?gi=9e0ce560928d)
-- [Ordering movie credits with graph theory](https://endcrawl.com/credits-ordering/)
-- [EnTT: Gaming meets modern C++ 3.9 &lpar;ECS library and much more&rpar;](https://github.com/skypjack/entt)
-- [SuperTokens &lpar;YC S20&rpar; is hiring a head of technical content](https://www.ycombinator.com/companies/supertokens/jobs/8b6xECpF3-head-of-technical-content-and-documentation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
