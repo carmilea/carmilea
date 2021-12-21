@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [All Bitcoin private keys are on this website](https://playxo.com)
+- [For Third Year, Committee to Protect Journalists Excludes Assange](https://thedissenter.org/cpj-still-excludes-assange-jailed-journalist-index/)
+- [How to Develop BW Film at Home with Coffee](https://www.fieldmag.com/articles/how-to-develop-film-with-coffee-caffenol-guide)
 - [Animated Drawings](https://sketch.metademolab.com/)
 - [RCE in Visual Studio Code&#39;s Remote WSL for Fun and Negative Profit](https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/)
-- [Tor in 2022](https://blog.torproject.org/tor-in-2022/)
-- [Diagon – Interactive ASCII art diagram generators](https://github.com/ArthurSonzogni/Diagon)
-- [Pre-commit: framework for managing/maintaining multi-language pre-commit hooks](https://pre-commit.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
