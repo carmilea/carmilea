@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Overemployed.com- work two remote jobs at once, gain financial freedom](https://overemployed.com/)
+- [“It Started as a Joke”: On the Design of Idle Games &lpar;2019&rpar;](https://dl.acm.org/doi/10.1145/3311350.3347180)
+- [My career of treating patients has ended](https://old.reddit.com/r/QAnonCasualties/comments/rakxun/my_career_of_treating_patients_has_ended/)
 - [Kodi: An Open Source Home Theater System](https://kodi.tv/)
 - [CDC: Omicron 73% of US Covid Cases Last Week](https://covid.cdc.gov/covid-data-tracker/#variant-proportions)
 - [An extinct millipede the length of a car once roamed northern England](https://www.npr.org/2021/12/20/1065759563/extinct-millipede-car-northern-england-arthropleura)
-- [Build retro games using WebAssembly for a fantasy console](https://wasm4.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
