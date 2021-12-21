@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Animated Drawings](https://sketch.metademolab.com/)
+- [RCE in Visual Studio Code&#39;s Remote WSL for Fun and Negative Profit](https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/)
+- [Tor in 2022](https://blog.torproject.org/tor-in-2022/)
+- [Diagon – Interactive ASCII art diagram generators](https://github.com/ArthurSonzogni/Diagon)
 - [Pre-commit: framework for managing/maintaining multi-language pre-commit hooks](https://pre-commit.com/)
-- [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook](https://deepnote.com/join-us)
-- [Tor Snowflake Proxy](https://snowflake.torproject.org/)
-- [The Olkiluoto 3 EPR plant unit started up](https://www.tvo.fi/en/index/news/pressreleasesstockexchangereleases/2021/theolkiluoto3eprplantunitstartedup.html)
-- [Lottie – use After Effects animations in web and native apps](https://airbnb.io/lottie/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
