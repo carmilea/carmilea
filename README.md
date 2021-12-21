@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ligatures in Programming Fonts: Hell No](https://practicaltypography.com/ligatures-in-programming-fonts-hell-no.html)
+- [Faking a Positive Covid Test](https://labs.f-secure.com/blog/faking-a-positive-covid-test)
+- [Show HN: Glitch Image Generator](https://glitchyimage.com/)
 - [T-Mobile says it blocked 21B scam calls this year](https://www.bleepingcomputer.com/news/security/t-mobile-says-it-blocked-21-billion-scam-calls-this-year/)
 - [We fought an anti encryption law in Belgium – and won](https://tutanota.com/blog/posts/belgian-encryption-backdoor-law-stopped/)
-- [TSMC in Japan: things to know about its chip factory plans](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-in-Japan-5-things-to-know-about-its-chip-factory-plans)
-- [Pachyderm is hiring DevRel and Go Engineers to build world-class Data Versioning](https://www.pachyderm.com/careers/#positions)
-- [China forbids data encryption using a key greater than 256 bits](https://sanctionsnews.bakermckenzie.com/mofcom-issues-new-encryption-import-control-effective-immediately/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
