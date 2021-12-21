@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Overemployed.com- work two remote jobs at once, gain financial freedom](https://overemployed.com/)
+- [Kodi: An Open Source Home Theater System](https://kodi.tv/)
 - [CDC: Omicron 73% of US Covid Cases Last Week](https://covid.cdc.gov/covid-data-tracker/#variant-proportions)
 - [An extinct millipede the length of a car once roamed northern England](https://www.npr.org/2021/12/20/1065759563/extinct-millipede-car-northern-england-arthropleura)
 - [Build retro games using WebAssembly for a fantasy console](https://wasm4.org/)
-- [Finley &lpar;YC W21&rpar; is hiring early engineers to build fintech SaaS &lpar;Remote&rpar;](https://www.finleycms.com/careers/)
-- [Unloved by generations of soldiers, the MRE finds a fan base](https://www.nytimes.com/2021/06/08/dining/mre-meals-ready-to-eat.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
