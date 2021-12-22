@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Minor Features in Go 1.18](https://blog.carlmjohnson.net/post/2021/golang-118-minor-features/)
+- [The Io Language](https://iolanguage.org/guide/guide.html)
 - [This Year in Matrix](https://matrix.org/blog/2021/12/22/the-mega-matrix-holiday-special-2021/)
+- [How to draw S-curved arrows between boxes](https://dragonman225.js.org/curved-arrows.html)
 - [Plato&#39;s Dashboards](https://ferd.ca/plato-s-dashboards.html)
-- [Underground Cellar &lpar;YC W15&rpar; is hiring a senior full-stack engineer](https://jobs.lever.co/undergroundcellar/ed30c9af-33c3-4920-8547-6eed6e1b32cd)
-- [Albanian prosecutors probe huge suspected leak of personal data](https://balkaninsight.com/2021/12/22/albanian-prosecutors-probe-huge-suspected-leak-of-personal-data/)
-- [Ancient DNA reveals the world’s oldest family tree](https://www.ncl.ac.uk/press/articles/latest/2021/11/neolithicfamilytree/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
