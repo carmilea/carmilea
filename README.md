@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Teams: 1 feature, 4 vulnerabilities](https://positive.security/blog/ms-teams-1-feature-4-vulns)
+- [mRNA-based Covid-19 vaccine boosters induce immunity against Omicron](https://med.papers.bar/paper/abf2d6a45d0411ec905035ac8856fc87)
 - [Current 0-day vulnerability on FreePBX](https://community.freepbx.org/t/0-day-freepbx-exploit/80092)
 - [“Zero fucks given” in other languages](https://nitter.net/AdamCSharp/status/1473035981511180291)
 - [Stacker &lpar;YC S20&rpar; Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
-- [English has been my pain for 15 years &lpar;2013&rpar;](http://antirez.com/news/61)
-- [Earth’s magnetic field illuminates Biblical history](https://www.economist.com/science-and-technology/earths-magnetic-field-illuminates-biblical-history/21806831)
 <!-- BLOG-POST-LIST:END -->
 
 ---
