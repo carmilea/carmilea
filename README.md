@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Working with large code base for the first time](https://news.ycombinator.com/item?id=29645433)
 - [&lpar;Mac&rpar;OStalgia. How Spotify, Slack, Chrome, Figma Could Look Like on Mac OS 9](http://swallowmygraphicdesign.com/project/macostalgia)
-- [The Prisoner-Run Radio Station That’s Reaching Men on Death Row](https://www.themarshallproject.org/2021/12/20/the-prison-radio-station-that-s-reaching-men-on-death-row)
 - [BuildZoom &lpar;better way to build custom homes&rpar; is hiring a head of marketing](https://jobs.lever.co/buildzoom)
 - [Intuitive Advanced Cryptography [pdf]](https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf)
 - [Quantum theory based on real numbers can be experimentally falsified](https://www.nature.com/articles/s41586-021-04160-4)
