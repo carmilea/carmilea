@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Bitcoin is worse than a Madoff-style Ponzi scheme](https://www.ft.com/content/83a14261-598d-4601-87fc-5dde528b33d0)
-- [Heroku Is Currently Down](https://dashboard.heroku.com/login)
-- [AWS appears to be down again](https://news.ycombinator.com/item?id=29648286)
-- [Convictional &lpar;YC W19&rpar; is hiring engineers to build the future of B2B trade-Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
-- [James Webb Space Telescope Launch Postponed](https://scitechdaily.com/james-webb-space-telescope-launch-postponed-heres-why-and-the-new-launch-date/)
+- [IMF, 10 countries simulate cyber attack on global financial system](https://www.nasdaq.com/articles/exclusive-imf-10-countries-simulate-cyber-attack-on-global-financial-system)
+- [Parser Combinators in Haskell](https://serokell.io/blog/parser-combinators-in-haskell)
+- [FreeBSD Jails for Fun and Profit](https://topikettunen.com/blog/freebsd-jails-for-fun-and-profit/)
+- [Tinder just permabanned me or the problem with big tech](https://paulefou.com/blog/tinder-permaban)
+- [Show HN: Metaheads, a search engine for Facebook comments](https://metaheads.xyz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
