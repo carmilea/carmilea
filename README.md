@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ModularGrid: Database and Planner for Modular Synthesizers](https://www.modulargrid.net/)
+- [Ed-Tech Company Skillsoft Buys Codecademy for $525M](https://www.skillsoft.com/press-releases/skillsoft-to-acquire-codecademy-a-leading-platform-for-learning-high-demand-technical-skills-creating-a-worldwide-community-of-more-than-85-million-learners)
 - [IMF, 10 countries simulate cyber attack on global financial system](https://www.nasdaq.com/articles/exclusive-imf-10-countries-simulate-cyber-attack-on-global-financial-system)
 - [Parser Combinators in Haskell](https://serokell.io/blog/parser-combinators-in-haskell)
 - [FreeBSD Jails for Fun and Profit](https://topikettunen.com/blog/freebsd-jails-for-fun-and-profit/)
-- [Tinder just permabanned me or the problem with big tech](https://paulefou.com/blog/tinder-permaban)
-- [Show HN: Metaheads, a search engine for Facebook comments](https://metaheads.xyz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
