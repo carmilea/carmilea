@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Buying Influence: How China manipulates Facebook and Twitter](https://www.nytimes.com/interactive/2021/12/20/technology/china-facebook-twitter-influence-manipulation.html)
+- [South Africa’s omicron coronavirus outbreak subsides as fast as it grew](https://www.washingtonpost.com/world/2021/12/22/south-africa-omicron-coronavirus-cases/)
+- [Our recent server issues](https://lichess.org/@/Lichess/blog/our-recent-server-issues/FdKHVehW)
+- [Germany is closing half of its reactors before the end of the year](https://www.bnnbloomberg.ca/germany-is-closing-half-of-its-reactors-at-worst-possible-time-1.1698757)
 - [Three Minor Features in Go 1.18](https://blog.carlmjohnson.net/post/2021/golang-118-minor-features/)
-- [The Io Language](https://iolanguage.org/guide/guide.html)
-- [This Year in Matrix](https://matrix.org/blog/2021/12/22/the-mega-matrix-holiday-special-2021/)
-- [How to draw S-curved arrows between boxes](https://dragonman225.js.org/curved-arrows.html)
-- [Plato&#39;s Dashboards](https://ferd.ca/plato-s-dashboards.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
