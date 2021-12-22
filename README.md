@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Current 0-day vulnerability on FreePBX](https://community.freepbx.org/t/0-day-freepbx-exploit/80092)
 - [“Zero fucks given” in other languages](https://nitter.net/AdamCSharp/status/1473035981511180291)
 - [Stacker &lpar;YC S20&rpar; Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
 - [English has been my pain for 15 years &lpar;2013&rpar;](http://antirez.com/news/61)
 - [Earth’s magnetic field illuminates Biblical history](https://www.economist.com/science-and-technology/earths-magnetic-field-illuminates-biblical-history/21806831)
-- [Improving Language Models by Retrieving from Trillions of Tokens](https://deepmind.com/research/publications/2021/improving-language-models-by-retrieving-from-trillions-of-tokens)
 <!-- BLOG-POST-LIST:END -->
 
 ---
