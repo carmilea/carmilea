@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Underground Cellar &lpar;YC W15&rpar; Is Hiring a Senior Full Stack Engineer](https://jobs.lever.co/undergroundcellar/ed30c9af-33c3-4920-8547-6eed6e1b32cd)
-- [Miller – tool for querying, shaping, reformatting data in CSV, TSV, and JSON](https://miller.readthedocs.io/en/latest/)
-- [Salaries of almost all Albanian employees are being circulated online](https://balkaninsight.com/2021/12/22/albanian-prosecutors-probe-huge-suspected-leak-of-personal-data/)
+- [This Year in Matrix](https://matrix.org/blog/2021/12/22/the-mega-matrix-holiday-special-2021/)
+- [Plato&#39;s Dashboards](https://ferd.ca/plato-s-dashboards.html)
+- [Underground Cellar &lpar;YC W15&rpar; is hiring a senior full-stack engineer](https://jobs.lever.co/undergroundcellar/ed30c9af-33c3-4920-8547-6eed6e1b32cd)
+- [Albanian prosecutors probe huge suspected leak of personal data](https://balkaninsight.com/2021/12/22/albanian-prosecutors-probe-huge-suspected-leak-of-personal-data/)
 - [Ancient DNA reveals the world’s oldest family tree](https://www.ncl.ac.uk/press/articles/latest/2021/11/neolithicfamilytree/)
-- [Technology Behind the Lilium Jet](https://lilium.com/newsroom-detail/technology-behind-the-lilium-jet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
