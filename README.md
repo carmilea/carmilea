@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Stacker &lpar;YC S20&rpar; Is Hiring for Across Engineering](https://www.stackerhq.com/careers#job-listing)
+- [“Zero fucks given” in other languages](https://nitter.net/AdamCSharp/status/1473035981511180291)
+- [Stacker &lpar;YC S20&rpar; Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
+- [English has been my pain for 15 years &lpar;2013&rpar;](http://antirez.com/news/61)
+- [Earth’s magnetic field illuminates Biblical history](https://www.economist.com/science-and-technology/earths-magnetic-field-illuminates-biblical-history/21806831)
 - [Improving Language Models by Retrieving from Trillions of Tokens](https://deepmind.com/research/publications/2021/improving-language-models-by-retrieving-from-trillions-of-tokens)
-- [DeepMind’s New AI with a Memory Outperforms Algorithms 25 Times Its Size](https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/)
-- [Construction of radio equipment in a Japanese PoW camp](https://histru.bournemouth.ac.uk/CHiDE/Oral_History_of_Defence_Electronics/r_g_wells.htm)
-- [Scientists find preserved dinosaur embryo preparing to hatch like a bird](https://www.theguardian.com/science/2021/dec/21/scientists-find-perfectly-preserved-dinosaur-embryo-preparing-to-hatch-like-a-bird)
 <!-- BLOG-POST-LIST:END -->
 
 ---
