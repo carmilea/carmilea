@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepMind’s New AI with a Memory Outperforms Algorithms 25 Times Its Size](https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/)
+- [Construction of radio equipment in a Japanese PoW camp](https://histru.bournemouth.ac.uk/CHiDE/Oral_History_of_Defence_Electronics/r_g_wells.htm)
+- [Scientists find preserved dinosaur embryo preparing to hatch like a bird](https://www.theguardian.com/science/2021/dec/21/scientists-find-perfectly-preserved-dinosaur-embryo-preparing-to-hatch-like-a-bird)
+- [Isolating Xwayland in a VM](https://roscidus.com/blog/blog/2021/10/30/xwayland/)
 - [Ask HN: Working with large code base for the first time](https://news.ycombinator.com/item?id=29645433)
-- [&lpar;Mac&rpar;OStalgia. How Spotify, Slack, Chrome, Figma Could Look Like on Mac OS 9](http://swallowmygraphicdesign.com/project/macostalgia)
-- [BuildZoom &lpar;better way to build custom homes&rpar; is hiring a head of marketing](https://jobs.lever.co/buildzoom)
-- [Intuitive Advanced Cryptography [pdf]](https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf)
-- [Quantum theory based on real numbers can be experimentally falsified](https://www.nature.com/articles/s41586-021-04160-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
