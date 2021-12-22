@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When Fossil Fuels Run Out, What Then? &lpar;It&#39;s 2060&rpar;](https://mahb.stanford.edu/library-item/fossil-fuels-run/)
+- [&lpar;Mac&rpar;OStalgia. How Spotify, Slack, Chrome, Figma Could Look Like on Mac OS 9](http://swallowmygraphicdesign.com/project/macostalgia)
+- [The Prisoner-Run Radio Station That’s Reaching Men on Death Row](https://www.themarshallproject.org/2021/12/20/the-prison-radio-station-that-s-reaching-men-on-death-row)
+- [11-week Kellogg’s strike to end after multi-year agreement reached](https://www.kiro7.com/news/trending/11-week-kelloggs-strike-end-after-multi-year-agreement-reached/25R67UQLN5FKDEKUQHDLZDWS2E/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; is hiring a head of marketing](https://jobs.lever.co/buildzoom)
-- [Intuitive Advanced Cryptography [pdf]](https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf)
-- [Quantum theory based on real numbers can be experimentally falsified](https://www.nature.com/articles/s41586-021-04160-4)
-- [2021-22 Tesla Model Y earns highest IIHS accolade](https://www.iihs.org/news/detail/2021-22-tesla-model-y-earns-highest-iihs-accolade)
-- [Show HN: Aftertext](https://breckyunits.com/aftertext.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
