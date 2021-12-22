@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL&#39;s Missing DateDiff Function](https://www.narrator.ai/blog/postgres-missing-datediff-function/)
-- [The Great SPAC Scam: SPACs a Great Deal for Sponsors, but Not Others](https://www.mergersandinquisitions.com/great-spac-scam/)
-- [Apple and NeXT, 25 Years Ago this week](https://blog.hayman.net/blog/2021/12/20/apple-next-25-years-ago-today/)
-- [A Quadrillion Mainframes on Your Lap](https://spectrum.ieee.org/ibm-mainframe)
-- [Boeing, Airbus executives urge delay in U.S. 5G wireless deployment](https://www.reuters.com/business/aerospace-defense/boeing-airbus-executives-urge-delay-5g-wireless-deployment-2021-12-21/)
+- [BuildZoom &lpar;better way to build custom homes&rpar; is hiring a head of marketing](https://jobs.lever.co/buildzoom)
+- [Intuitive Advanced Cryptography [pdf]](https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf)
+- [Quantum theory based on real numbers can be experimentally falsified](https://www.nature.com/articles/s41586-021-04160-4)
+- [2021-22 Tesla Model Y earns highest IIHS accolade](https://www.iihs.org/news/detail/2021-22-tesla-model-y-earns-highest-iihs-accolade)
+- [Show HN: Aftertext](https://breckyunits.com/aftertext.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
