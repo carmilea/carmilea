@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio is hiring founding engineers &lpar;$150-300k, lots of equity&rpar;](https://skio.com/careers/)
+- [AWS Account Takeover via Log4Shell](https://www.gigasheet.co/post/aws-account-takeover-via-log4shell)
+- [UBC bans non-minority candidates from applying for tenure-track quantum position](https://www.cs.ubc.ca/our-department/employment/canada-research-chair-tier-2-assistant-professor-tenure-track-position-computer-science-quantum)
+- [Regulators Shut Down Lending Platform &lpar;YC Alum&rpar; LendUp](https://www.consumerfinance.gov/about-us/newsroom/cfpb-shutters-lending-by-vc-backed-fintech-for-violating-agency-order/)
 - [Buying Influence: How China manipulates Facebook and Twitter](https://www.nytimes.com/interactive/2021/12/20/technology/china-facebook-twitter-influence-manipulation.html)
-- [South Africa’s omicron coronavirus outbreak subsides as fast as it grew](https://www.washingtonpost.com/world/2021/12/22/south-africa-omicron-coronavirus-cases/)
-- [Our recent server issues](https://lichess.org/@/Lichess/blog/our-recent-server-issues/FdKHVehW)
-- [Germany is closing half of its reactors before the end of the year](https://www.bnnbloomberg.ca/germany-is-closing-half-of-its-reactors-at-worst-possible-time-1.1698757)
-- [Three Minor Features in Go 1.18](https://blog.carlmjohnson.net/post/2021/golang-118-minor-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
