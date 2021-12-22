@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Skio is hiring founding engineers &lpar;$150-300k, lots of equity&rpar;](https://skio.com/careers/)
+- [Show HN: Jig – a tool to define, compute and monitor metrics](https://www.jigdev.com)
+- [Skio &lpar;YC S20&rpar; is hiring founding engineers](https://skio.com/careers/)
 - [AWS Account Takeover via Log4Shell](https://www.gigasheet.co/post/aws-account-takeover-via-log4shell)
 - [Regulators Shut Down Lending Platform &lpar;YC Alum&rpar; LendUp](https://www.consumerfinance.gov/about-us/newsroom/cfpb-shutters-lending-by-vc-backed-fintech-for-violating-agency-order/)
 - [Buying Influence: How China manipulates Facebook and Twitter](https://www.nytimes.com/interactive/2021/12/20/technology/china-facebook-twitter-influence-manipulation.html)
-- [South Africa’s omicron coronavirus outbreak subsides as fast as it grew](https://www.washingtonpost.com/world/2021/12/22/south-africa-omicron-coronavirus-cases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
