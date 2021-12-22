@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Teams: 1 feature, 4 vulnerabilities](https://positive.security/blog/ms-teams-1-feature-4-vulns)
-- [mRNA-based Covid-19 vaccine boosters induce immunity against Omicron](https://med.papers.bar/paper/abf2d6a45d0411ec905035ac8856fc87)
-- [Current 0-day vulnerability on FreePBX](https://community.freepbx.org/t/0-day-freepbx-exploit/80092)
-- [“Zero fucks given” in other languages](https://nitter.net/AdamCSharp/status/1473035981511180291)
-- [Stacker &lpar;YC S20&rpar; Is Hiring Across Engineering](https://www.stackerhq.com/careers#job-listing)
+- [Heroku Is Currently Down](https://dashboard.heroku.com/login)
+- [AWS appears to be down again](https://news.ycombinator.com/item?id=29648286)
+- [Convictional &lpar;YC W19&rpar; is hiring engineers to build the future of B2B trade-Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
+- [James Webb Space Telescope Launch Postponed](https://scitechdaily.com/james-webb-space-telescope-launch-postponed-heres-why-and-the-new-launch-date/)
+- [Pure Bash lightweight web server](https://github.com/remileduc/sherver)
 <!-- BLOG-POST-LIST:END -->
 
 ---
