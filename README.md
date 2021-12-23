@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Does the Bronze Garbage Collector Make Rust Easier to Use?](https://arxiv.org/abs/2110.01098)
+- [The Clean Language](https://clean.cs.ru.nl/Clean)
 - [Unmaking a Murderer](https://www.chicagomag.com/chicago-magazine/march-2022/unmaking-a-murderer/)
-- [CCP pulls support from Alibaba Cloud for not reporting Log4j flaw to gov first](https://www.scmp.com/tech/big-tech/article/3160670/apache-log4j-bug-chinas-industry-ministry-pulls-support-alibaba-cloud)
-- [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/)
-- [PortableApps.com Hits 1 Billion App Downloads](https://portableapps.com/news/2021-12-22--portableapps.com-hits-1-billion-portable-apps-downloaded)
-- [Saying goodbye to an old friend](https://ar.al/2021/12/16/saying-goodbye-to-an-old-friend/)
+- [AWS Support able to access any S3 object due to permission change](https://twitter.com/QuinnyPig/status/1473705669517791253)
+- [Apache Log4j bug: China’s industry ministry pulls support from Alibaba Cloud](https://www.scmp.com/tech/big-tech/article/3160670/apache-log4j-bug-chinas-industry-ministry-pulls-support-alibaba-cloud)
 <!-- BLOG-POST-LIST:END -->
 
 ---
