@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Low Expectations at Your Two Remote Jobs](https://overemployed.com/set-low-expectations-at-your-two-remote-jobs/)
 - [Decent &lpar;YC W22&rpar; Is Hiring a Senior Full Stack Web3 &lpar;Solidity&rpar; Engineer](https://www.ycombinator.com/companies/25950/jobs/gtwlg2C-senior-full-stack-engineer)
-- [50 Years ago the US launched the “war on cancer”](https://text.npr.org/1058107864)
-- [Facebook mistakenly auto-bans Merry Christmas message from Canadian MP](https://reclaimthenet.org/facebook-bans-mp-mark-strahls-christmas-message/)
-- [Beware of a New Amazon Token Crypto Scam](https://blog.avast.com/beware-of-a-new-amazon-token-crypto-scam)
-- [A Farewell to LWN](https://lwn.net/SubscriberLink/879072/24151294abe770de/)
+- [U.S. SEC rejects Valkyrie, Kryptoin Bitcoin trusts](https://www.reuters.com/markets/funds/us-sec-rejects-valkyrie-kryptoin-bitcoin-trusts-2021-12-23/)
+- [The roots of the National Cancer Act](https://www.npr.org/sections/health-shots/2021/12/23/1058107864/50-years-ago-nixon-gave-the-u-s-a-christmas-gift-it-launched-the-war-on-cancer)
+- [Facebook says it was wrong to ban Canadian MP’s Christmas message](https://reclaimthenet.org/facebook-bans-mp-mark-strahls-christmas-message/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
