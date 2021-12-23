@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Jig – a tool to define, compute and monitor metrics](https://www.jigdev.com)
-- [Skio &lpar;YC S20&rpar; is hiring founding engineers](https://skio.com/careers/)
-- [AWS Account Takeover via Log4Shell](https://www.gigasheet.co/post/aws-account-takeover-via-log4shell)
-- [Regulators Shut Down Lending Platform &lpar;YC Alum&rpar; LendUp](https://www.consumerfinance.gov/about-us/newsroom/cfpb-shutters-lending-by-vc-backed-fintech-for-violating-agency-order/)
-- [Buying Influence: How China manipulates Facebook and Twitter](https://www.nytimes.com/interactive/2021/12/20/technology/china-facebook-twitter-influence-manipulation.html)
+- [Cache Poisoning at Scale](https://youst.in/posts/cache-poisoning-at-scale/)
+- [Fq: Jq for Binary Formats](https://github.com/wader/fq)
+- [Show HN: Embed your source code in PNG files](https://github.com/Fusion/pngsource)
+- [Jean Gebser: The Ever Present Origin &lpar;1949&rpar;](https://archive.org/details/the-ever-present-origin-by-jean-gebser)
+- [Data leak of all Albanians 600k+ profiles](https://exit.al/en/2021/12/22/tirana-prosecution-to-investigate-alleged-data-leak-of-more-than-630000-albanian-citizens/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
