@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel apologises for vowing to avoid Xinjiang labour](https://www.reuters.com/technology/intel-china-apologises-over-xinjiang-supplier-statement-2021-12-23/)
+- [Dynamic XMPP Domains in MongooseIM](https://www.erlang-solutions.com/blog/dynamic-xmpp-domains-in-mongooseim/)
 - [Does the Bronze Garbage Collector Make Rust Easier to Use?](https://arxiv.org/abs/2110.01098)
+- [When Is a Scrape a Breach?](https://www.troyhunt.com/when-is-a-scrape-a-breach/)
 - [The Clean Language](https://clean.cs.ru.nl/Clean)
-- [Unmaking a Murderer](https://www.chicagomag.com/chicago-magazine/march-2022/unmaking-a-murderer/)
-- [AWS Support able to access any S3 object due to permission change](https://twitter.com/QuinnyPig/status/1473705669517791253)
-- [Apache Log4j bug: China’s industry ministry pulls support from Alibaba Cloud](https://www.scmp.com/tech/big-tech/article/3160670/apache-log4j-bug-chinas-industry-ministry-pulls-support-alibaba-cloud)
 <!-- BLOG-POST-LIST:END -->
 
 ---
