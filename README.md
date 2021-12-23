@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Where&#39;s the NFT Replicas Post?](https://news.ycombinator.com/item?id=29664620)
+- [AWS power failure in US-EAST-1 region killed some hardware and instances](https://www.theregister.com/2021/12/22/aws_outage/)
+- [Most advice is pretty bad](https://atis.substack.com/p/most-advice-is-pretty-bad)
 - [New Record Levels of Private Aviation Flights](https://www.sherpareport.com/aircraft/record-levels-private-aviation.html)
 - [Flexport is hiring software engineers to rebuild the global trading system](https://www.flexport.com/careers)
 - [A Survey of Programmers&#39; Cannabis Usage, Perception, and Motivation](https://arxiv.org/abs/2112.09365)
-- [/tap – Powerful and customizable note-taking system](https://www.tatatap.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
