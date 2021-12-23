@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Best alternatives to Google Analytics in 2021?](https://news.ycombinator.com/item?id=29662859)
 - [Bitwarden compatible server written in Rust](https://github.com/dani-garcia/vaultwarden)
-- [A For-Profit Company Is Trying to Privatize as Many Public Libraries as They Can](https://fair.org/home/a-for-profit-company-is-trying-to-privatize-as-many-public-libraries-as-they-can/)
 - [Alternative privacy-respecting front ends for popular services](https://github.com/digitalblossom/alternative-frontends)
 - [How to automatically close those annoying “Launch Meeting” tabs from Zoom](https://zapier.com/blog/automatically-close-the-launch-meeting-zoom-tab/)
-- [Promise of Analog AI Feeds Neural Net Hardware Pipeline](https://spectrum.ieee.org/new-devices-for-analog-ai)
+- [PineNote Developer Edition – E-Paper Tablet from Pine64](https://pine64.com/product/pinenote-developer-edition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
