@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New programming social media platform where your posts are NFT&#39;s](https://bbs.market/PRGMG/posts)
+- [Street Fighter II, the World Warrier](https://fabiensanglard.net/sf2_warrier/index.html)
 - [My productivity app for the past 12 years has been a single .txt file](https://jeffhuang.com/productivity_text_file/)
 - [What are Attackers after on IoT Devices?](https://arxiv.org/abs/2112.10974)
 - [DevCycle &lpar;YC W14&rpar; – Feature Flags for Remote Teams – Hiring Growth Engineer #1](https://devcycle.com/company/careers)
