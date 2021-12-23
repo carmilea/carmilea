@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Street Fighter II paper trails – allocating sprite space by hand](https://fabiensanglard.net/sf2_sheets/index.html)
 - [Cache Poisoning at Scale](https://youst.in/posts/cache-poisoning-at-scale/)
 - [Fq: Jq for Binary Formats](https://github.com/wader/fq)
 - [Show HN: Embed your source code in PNG files](https://github.com/Fusion/pngsource)
-- [Jean Gebser: The Ever Present Origin &lpar;1949&rpar;](https://archive.org/details/the-ever-present-origin-by-jean-gebser)
 - [Data leak of all Albanians 600k+ profiles](https://exit.al/en/2021/12/22/tirana-prosecution-to-investigate-alleged-data-leak-of-more-than-630000-albanian-citizens/)
 <!-- BLOG-POST-LIST:END -->
 
