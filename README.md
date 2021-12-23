@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Street Fighter II, paper trails](https://fabiensanglard.net/sf2_sheets/)
+- [Racial Differences in Time at Work Not Working](https://journals.sagepub.com/doi/full/10.1177/00197939211063863)
+- [Water drinking acutely improves orthostatic tolerance in healthy subjects &lpar;2002&rpar;](https://pubmed.ncbi.nlm.nih.gov/12451007/)
+- [Plot of the “no smell” complaints for the top three Yankee Candles on Amazon](https://twitter.com/nick_beauchamp/status/1473509106187223043)
 - [Democratic Domestic Product](https://ergodicityeconomics.com/2020/02/26/democratic-domestic-product/)
 - [On ELF, Part 2](https://kestrelcomputer.github.io/kestrel/2018/02/01/on-elf-2)
-- [The interview that disappeared – FIFA World Cup Qatar 2022](https://josimarfootball.com/the-interview-that-disappeared/)
-- [minisign](https://github.com/jedisct1/minisign)
 <!-- BLOG-POST-LIST:END -->
 
 ---
