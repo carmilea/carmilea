@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The satirical Non-Fungible Olive Gardens sold more than $130k in volume](https://opensea.io/collection/non-fungible-olive-gardens?tab=activity)
+- [Toyota &#39;Reviewing&#39; Key Fob Remote Start Subscription Plan After Blowback](https://www.thedrive.com/news/43636/toyota-reviewing-key-fob-remote-start-subscription-plan-after-massive-blowback)
+- [Ask HN: Those making $500/month on side projects in 2021 – Show and tell](https://news.ycombinator.com/item?id=29667095)
+- [Cornell McRay T&#39;Racing](https://github.com/h3r2tic/cornell-mcray)
 - [How to Set Low Expectations at Your Two Remote Jobs](https://overemployed.com/set-low-expectations-at-your-two-remote-jobs/)
-- [Decent &lpar;YC W22&rpar; Is Hiring a Senior Full Stack Web3 &lpar;Solidity&rpar; Engineer](https://www.ycombinator.com/companies/25950/jobs/gtwlg2C-senior-full-stack-engineer)
-- [U.S. SEC rejects Valkyrie, Kryptoin Bitcoin trusts](https://www.reuters.com/markets/funds/us-sec-rejects-valkyrie-kryptoin-bitcoin-trusts-2021-12-23/)
-- [The roots of the National Cancer Act](https://www.npr.org/sections/health-shots/2021/12/23/1058107864/50-years-ago-nixon-gave-the-u-s-a-christmas-gift-it-launched-the-war-on-cancer)
-- [Facebook says it was wrong to ban Canadian MP’s Christmas message](https://reclaimthenet.org/facebook-bans-mp-mark-strahls-christmas-message/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
