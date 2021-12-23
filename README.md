@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel apologises for vowing to avoid Xinjiang labour](https://www.reuters.com/technology/intel-china-apologises-over-xinjiang-supplier-statement-2021-12-23/)
-- [Dynamic XMPP Domains in MongooseIM](https://www.erlang-solutions.com/blog/dynamic-xmpp-domains-in-mongooseim/)
-- [Does the Bronze Garbage Collector Make Rust Easier to Use?](https://arxiv.org/abs/2110.01098)
-- [When Is a Scrape a Breach?](https://www.troyhunt.com/when-is-a-scrape-a-breach/)
-- [The Clean Language](https://clean.cs.ru.nl/Clean)
+- [Street Fighter II, paper trails](https://fabiensanglard.net/sf2_sheets/)
+- [Democratic Domestic Product](https://ergodicityeconomics.com/2020/02/26/democratic-domestic-product/)
+- [On ELF, Part 2](https://kestrelcomputer.github.io/kestrel/2018/02/01/on-elf-2)
+- [The interview that disappeared – FIFA World Cup Qatar 2022](https://josimarfootball.com/the-interview-that-disappeared/)
+- [minisign](https://github.com/jedisct1/minisign)
 <!-- BLOG-POST-LIST:END -->
 
 ---
