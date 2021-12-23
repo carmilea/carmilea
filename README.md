@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Racial Differences in Time at Work Not Working](https://journals.sagepub.com/doi/full/10.1177/00197939211063863)
+- [DevCycle &lpar;YC W14&rpar; – Feature Flags for Remote Teams – Hiring Growth Engineer #1](https://devcycle.com/company/careers)
 - [Water drinking acutely improves orthostatic tolerance in healthy subjects &lpar;2002&rpar;](https://pubmed.ncbi.nlm.nih.gov/12451007/)
-- [Plot of the “no smell” complaints for the top three Yankee Candles on Amazon](https://twitter.com/nick_beauchamp/status/1473509106187223043)
+- [Krita 5.0 Released](https://krita.org/en/item/krita-5-0-released/)
+- [Graph of the “no smell” complaints for the top three Yankee Candles on Amazon](https://twitter.com/nick_beauchamp/status/1473509106187223043)
 - [Democratic Domestic Product](https://ergodicityeconomics.com/2020/02/26/democratic-domestic-product/)
-- [On ELF, Part 2](https://kestrelcomputer.github.io/kestrel/2018/02/01/on-elf-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
