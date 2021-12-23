@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Best alternatives to Google Analytics in 2021?](https://news.ycombinator.com/item?id=29662859)
-- [Bitwarden compatible server written in Rust](https://github.com/dani-garcia/vaultwarden)
-- [Alternative privacy-respecting front ends for popular services](https://github.com/digitalblossom/alternative-frontends)
-- [How to automatically close those annoying “Launch Meeting” tabs from Zoom](https://zapier.com/blog/automatically-close-the-launch-meeting-zoom-tab/)
-- [PineNote Developer Edition – E-Paper Tablet from Pine64](https://pine64.com/product/pinenote-developer-edition/)
+- [New Record Levels of Private Aviation Flights](https://www.sherpareport.com/aircraft/record-levels-private-aviation.html)
+- [Flexport is hiring software engineers to rebuild the global trading system](https://www.flexport.com/careers)
+- [A Survey of Programmers&#39; Cannabis Usage, Perception, and Motivation](https://arxiv.org/abs/2112.09365)
+- [NFT Replicas: An app to mint a replica of virtually any NFT](https://nftreplicas.net)
+- [/tap – Powerful and customizable note-taking system](https://www.tatatap.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
