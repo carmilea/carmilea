@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Decent &lpar;YC W22&rpar; Is Hiring a Senior Full Stack Web3 &lpar;Solidity&rpar; Engineer](https://www.ycombinator.com/companies/25950/jobs/gtwlg2C-senior-full-stack-engineer)
+- [50 Years ago the US launched the “war on cancer”](https://text.npr.org/1058107864)
+- [Facebook mistakenly auto-bans Merry Christmas message from Canadian MP](https://reclaimthenet.org/facebook-bans-mp-mark-strahls-christmas-message/)
 - [Beware of a New Amazon Token Crypto Scam](https://blog.avast.com/beware-of-a-new-amazon-token-crypto-scam)
 - [A Farewell to LWN](https://lwn.net/SubscriberLink/879072/24151294abe770de/)
-- [Redirector – Browser extension to redirect to privacy respecting front-ends](https://github.com/einaregilsson/Redirector)
-- [AWS power failure in US-EAST-1 region killed some hardware and instances](https://www.theregister.com/2021/12/22/aws_outage/)
-- [Twitter’s founder admits that shutting down the API was “Worst thing we did”](https://www.revyuh.com/news/software/developers/twitters-founder-admits-that-shutting-down-the-api-was-worst-thing-we-did-it-affected-users-and-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
