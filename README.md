@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Beware of a New Amazon Token Crypto Scam](https://blog.avast.com/beware-of-a-new-amazon-token-crypto-scam)
+- [A Farewell to LWN](https://lwn.net/SubscriberLink/879072/24151294abe770de/)
+- [Redirector – Browser extension to redirect to privacy respecting front-ends](https://github.com/einaregilsson/Redirector)
 - [AWS power failure in US-EAST-1 region killed some hardware and instances](https://www.theregister.com/2021/12/22/aws_outage/)
-- [Most advice is pretty bad](https://atis.substack.com/p/most-advice-is-pretty-bad)
-- [New Record Levels of Private Aviation Flights](https://www.sherpareport.com/aircraft/record-levels-private-aviation.html)
-- [Flexport is hiring software engineers to rebuild the global trading system](https://www.flexport.com/careers)
-- [A Survey of Programmers&#39; Cannabis Usage, Perception, and Motivation](https://arxiv.org/abs/2112.09365)
+- [Twitter’s founder admits that shutting down the API was “Worst thing we did”](https://www.revyuh.com/news/software/developers/twitters-founder-admits-that-shutting-down-the-api-was-worst-thing-we-did-it-affected-users-and-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
