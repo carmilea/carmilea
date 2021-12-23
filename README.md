@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Street Fighter II, the World Warrier](https://fabiensanglard.net/sf2_warrier/index.html)
-- [My productivity app for the past 12 years has been a single .txt file](https://jeffhuang.com/productivity_text_file/)
-- [What are Attackers after on IoT Devices?](https://arxiv.org/abs/2112.10974)
-- [DevCycle &lpar;YC W14&rpar; – Feature Flags for Remote Teams – Hiring Growth Engineer #1](https://devcycle.com/company/careers)
-- [Grindr 6,500,000€ fine – “Data is not a commodity”](https://gdprhub.eu/index.php?title=Datatilsynet_(Norway)_-_20/02136-18)
+- [Bitwarden compatible server written in Rust](https://github.com/dani-garcia/vaultwarden)
+- [A For-Profit Company Is Trying to Privatize as Many Public Libraries as They Can](https://fair.org/home/a-for-profit-company-is-trying-to-privatize-as-many-public-libraries-as-they-can/)
+- [Alternative privacy-respecting front ends for popular services](https://github.com/digitalblossom/alternative-frontends)
+- [How to automatically close those annoying “Launch Meeting” tabs from Zoom](https://zapier.com/blog/automatically-close-the-launch-meeting-zoom-tab/)
+- [Promise of Analog AI Feeds Neural Net Hardware Pipeline](https://spectrum.ieee.org/new-devices-for-analog-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
