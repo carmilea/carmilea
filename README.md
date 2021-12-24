@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Matt Mullenweg save the internet?](https://www.protocol.com/matt-mullenweg)
 - [Smarking &lpar;YC W15&rpar; Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
 - [LaTeX Cookbook – Collection of LaTeX Recipes](https://latex-cookbook.net/)
 - [Building Remote Teams for Startups](https://vadimkravcenko.com/en/how-to-build-remote-teams-properly/)
 - [Running your own email is increasingly an artisanal choice, not a practical one](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailServersNoLongerPractical)
-- [On subversion and dissolution of opposition movements](https://inspiratron.org/blog/2021/12/24/on-subversion-and-dissolution-of-opposition-movements/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
