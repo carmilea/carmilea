@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The satirical Non-Fungible Olive Gardens sold more than $130k in volume](https://opensea.io/collection/non-fungible-olive-gardens?tab=activity)
-- [Toyota &#39;Reviewing&#39; Key Fob Remote Start Subscription Plan After Blowback](https://www.thedrive.com/news/43636/toyota-reviewing-key-fob-remote-start-subscription-plan-after-massive-blowback)
-- [Ask HN: Those making $500/month on side projects in 2021 – Show and tell](https://news.ycombinator.com/item?id=29667095)
-- [Cornell McRay T&#39;Racing](https://github.com/h3r2tic/cornell-mcray)
-- [How to Set Low Expectations at Your Two Remote Jobs](https://overemployed.com/set-low-expectations-at-your-two-remote-jobs/)
+- [Entire website in a single HTML file](https://css-tricks.com/a-whole-website-in-a-single-html-file/)
+- [Ask HN: What&#39;s the best book you read in 2021?](https://news.ycombinator.com/item?id=29668228)
+- [Google&#39;s removed all mentions of an Intercept investigation from Search](https://twitter.com/theintercept/status/1474135677419859981)
+- [Show HN: Jupyter kernel using Poetry for reproducible Python package management](https://github.com/pathbird/poetry-kernel)
+- [Toyota &#39;reviewing&#39; key fob remote start subscription plan after blowback](https://www.thedrive.com/news/43636/toyota-reviewing-key-fob-remote-start-subscription-plan-after-massive-blowback)
 <!-- BLOG-POST-LIST:END -->
 
 ---
