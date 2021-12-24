@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
+- [Georgia teacher read the fine print and won $13K &lpar;2019&rpar;](https://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.5045331/this-georgia-teacher-read-the-fine-print-and-won-13k-1.5045342)
+- [Attrs – The One Python Library Everyone Needs](https://glyph.twistedmatrix.com/2016/08/attrs.html)
 - [Quanta of the Third Kind](https://inference-review.com/article/quanta-of-the-third-kind)
 - [When do people learn languages? &lpar;2002&rpar;](https://www.zompist.com/whylang.html)
-- [Running IntelliJ Idea with JDK 17 for Better Render Performance with Metal](https://mustafaakin.dev/posts/2021-12-08-running-intellij-idea-with-jdk17-for-better-render-performance/)
-- [Crisp: Critical Path Analysis for Microservice Architectures](https://eng.uber.com/crisp-critical-path-analysis-for-microservice-architectures/)
-- [Walking the World: Bucharest](https://intellectualinting.substack.com/p/walking-the-world-bucharest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
