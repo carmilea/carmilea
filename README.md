@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Kanye Story](https://thekanyestory.com)
+- [The Google home page is 500K](https://pagespeed.web.dev/report)
 - [CSS Zen Garden: A demonstration of what can be achieved through CSS-based design](http://www.csszengarden.com/)
+- [Human geneticists curb use of the term ‘race’ in their papers](https://www.science.org/content/article/human-geneticists-curb-use-term-race-their-papers)
 - [Entire website in a single HTML file](https://css-tricks.com/a-whole-website-in-a-single-html-file/)
-- [Google&#39;s removed all mentions of an Intercept investigation from Search](https://twitter.com/theintercept/status/1474135677419859981)
-- [Show HN: Jupyter kernel using Poetry for reproducible Python package management](https://github.com/pathbird/poetry-kernel)
+- [Ask HN: What&#39;s the best book you read in 2021?](https://news.ycombinator.com/item?id=29668228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
