@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sweden Vindicated](https://swprs.org/judgment-day-sweden-vindicated/)
+- [Walking the World: Bucharest](https://intellectualinting.substack.com/p/walking-the-world-bucharest)
+- [Goddamn AWS seems to be down again 4th time this month alone](https://downdetector.in/status/aws-amazon-web-services/)
+- [Create and run your own light shows on Tesla vehicles](https://github.com/teslamotors/light-show)
 - [ReadMe &lpar;YC W15&rpar; Is Hiring a UI Engineer](https://readme.com/careers#ui-engineer)
-- [The leader who&#39;s standing up to China](https://www.reuters.com/investigates/special-report/taiwan-china-tsai/)
-- [DoorDash will require all employees to deliver goods](https://www.marketwatch.com/story/doordash-will-require-all-workers-to-deliver-goods-or-perform-other-gigs-and-some-of-them-arent-happy-11640300491)
-- [Penrose: From mathematical notation to beautiful diagrams](https://penrose.ink/siggraph20.html)
+- [Turkey&#39;s Financial Crisis](https://adamtooze.substack.com/p/chartbook-63-turkeys-financial-crisis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
