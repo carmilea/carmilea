@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quanta of the Third Kind](https://inference-review.com/article/quanta-of-the-third-kind)
 - [When do people learn languages? &lpar;2002&rpar;](https://www.zompist.com/whylang.html)
+- [Running IntelliJ Idea with JDK 17 for Better Render Performance with Metal](https://mustafaakin.dev/posts/2021-12-08-running-intellij-idea-with-jdk17-for-better-render-performance/)
+- [Crisp: Critical Path Analysis for Microservice Architectures](https://eng.uber.com/crisp-critical-path-analysis-for-microservice-architectures/)
 - [Walking the World: Bucharest](https://intellectualinting.substack.com/p/walking-the-world-bucharest)
-- [cal 9 1752](https://susam.in/maze/cal-9-1752.html)
-- [Joan Didion has died](https://www.nytimes.com/2021/12/23/books/joan-didion-dead.html)
-- [Create and run your own light shows on Tesla vehicles](https://github.com/teslamotors/light-show)
 <!-- BLOG-POST-LIST:END -->
 
 ---
