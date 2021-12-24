@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Systemd 250 Released](https://lwn.net/Articles/879739/)
+- [Advent of Code Surveys: Results](https://jeroenheijmans.github.io/advent-of-code-surveys/)
 - [Average color of each country &lpar;using satellite imagery&rpar;](https://eox.at/2021/08/average-colors-of-the-world/)
 - [To Craunch the Marmoset &lpar;2016&rpar;](https://sesquiotic.com/2016/05/02/to-craunch-the-marmoset/)
 - [Tesla bows to pressure, stops allowing drivers to play video games while driving](https://www.theguardian.com/technology/2021/dec/23/tesla-vehicles-video-games-driving)
-- [The Google home page is 500K](https://pagespeed.web.dev/report?url=https%3A%2F%2Fgoogle.com%2F)
-- [CSS Zen Garden: A demonstration of what can be achieved through CSS-based design](http://www.csszengarden.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
