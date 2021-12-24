@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When do people learn languages? &lpar;2002&rpar;](https://www.zompist.com/whylang.html)
 - [Walking the World: Bucharest](https://intellectualinting.substack.com/p/walking-the-world-bucharest)
-- [Goddamn AWS seems to be down again 4th time this month alone](https://downdetector.in/status/aws-amazon-web-services/)
+- [cal 9 1752](https://susam.in/maze/cal-9-1752.html)
+- [Joan Didion has died](https://www.nytimes.com/2021/12/23/books/joan-didion-dead.html)
 - [Create and run your own light shows on Tesla vehicles](https://github.com/teslamotors/light-show)
-- [ReadMe &lpar;YC W15&rpar; Is Hiring a UI Engineer](https://readme.com/careers#ui-engineer)
-- [Turkey&#39;s Financial Crisis](https://adamtooze.substack.com/p/chartbook-63-turkeys-financial-crisis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
