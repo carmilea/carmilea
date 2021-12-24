@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Best practices for writing code comments](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/)
-- [Is It Even Worth Working on FOSS Anymore?](https://gavinhoward.com/2021/12/is-it-even-worth-working-on-foss-anymore/)
-- [Alibaba researchers went rogue and disclosed Log4j now CCP is making Alibaba pay](https://twitter.com/nicoleperlroth/status/1474275566572347393)
-- [Robin Hanson Discusses the Karnataka Health Insurance Experiment](https://www.overcomingbias.com/2021/12/karnataka-hospital-insurance-experiment.html)
-- [The Sucker Complex](https://itsjoeco.substack.com/p/the-sucker-complex)
+- [Japanese university finds Alzheimer&#39;s drug effective in treating ALS](https://english.kyodonews.net/news/2021/12/f4b3d06d9d0a-breaking-news-japans-yamagata-univ-says-it-has-found-drug-effective-in-treating-als.html)
+- [Subsea Cable to Connect Asia, Europe, and North America Through the Arctic](https://www.cinia.fi/en/blog/blog/cinias-subsea-cable-to-connect-asia-europe-and-north-america-through-the-arctic-in-2025)
+- [Mkrl/misbrands: The most hated IT stickers](https://github.com/mkrl/misbrands)
+- [Electricity Is Magnetism](https://www.realworldtech.com/forum/?threadid=204461)
+- [The Mirage of Knowledge &lpar;2018&rpar;](https://www.harvardmagazine.com/2018/03/death-of-expertise-by-tom-nichols)
 <!-- BLOG-POST-LIST:END -->
 
 ---
