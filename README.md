@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Smarking &lpar;YC W15&rpar; Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Building Remote Teams for Startups](https://vadimkravcenko.com/en/how-to-build-remote-teams-properly/)
+- [On subversion and dissolution of opposition movements](https://inspiratron.org/blog/2021/12/24/on-subversion-and-dissolution-of-opposition-movements/)
+- [Scuttlebutt Protocol Guide](https://ssbc.github.io/scuttlebutt-protocol-guide/)
 - [Japanese university finds Alzheimer&#39;s drug effective in treating ALS](https://english.kyodonews.net/news/2021/12/f4b3d06d9d0a-breaking-news-japans-yamagata-univ-says-it-has-found-drug-effective-in-treating-als.html)
-- [Subsea Cable to Connect Asia, Europe, and North America Through the Arctic](https://www.cinia.fi/en/blog/blog/cinias-subsea-cable-to-connect-asia-europe-and-north-america-through-the-arctic-in-2025)
-- [Mkrl/misbrands: The most hated IT stickers](https://github.com/mkrl/misbrands)
-- [Electricity Is Magnetism](https://www.realworldtech.com/forum/?threadid=204461)
-- [The Mirage of Knowledge &lpar;2018&rpar;](https://www.harvardmagazine.com/2018/03/death-of-expertise-by-tom-nichols)
 <!-- BLOG-POST-LIST:END -->
 
 ---
