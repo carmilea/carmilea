@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is It Even Worth Working on FOSS Anymore?](https://gavinhoward.com/2021/12/is-it-even-worth-working-on-foss-anymore/)
 - [The Sucker Complex](https://itsjoeco.substack.com/p/the-sucker-complex)
 - [Systemd 250 Released](https://lwn.net/Articles/879739/)
+- [Apple to Apple Comparison: M1 Max vs. Intel](https://unum.cloud/post/2021-12-21-macbook/)
 - [Advent of Code Surveys: Results](https://jeroenheijmans.github.io/advent-of-code-surveys/)
-- [Average color of each country &lpar;using satellite imagery&rpar;](https://eox.at/2021/08/average-colors-of-the-world/)
-- [To Craunch the Marmoset &lpar;2016&rpar;](https://sesquiotic.com/2016/05/02/to-craunch-the-marmoset/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
