@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kanye Story](https://thekanyestory.com)
+- [CSS Zen Garden: A demonstration of what can be achieved through CSS-based design](http://www.csszengarden.com/)
 - [Entire website in a single HTML file](https://css-tricks.com/a-whole-website-in-a-single-html-file/)
-- [Ask HN: What&#39;s the best book you read in 2021?](https://news.ycombinator.com/item?id=29668228)
 - [Google&#39;s removed all mentions of an Intercept investigation from Search](https://twitter.com/theintercept/status/1474135677419859981)
 - [Show HN: Jupyter kernel using Poetry for reproducible Python package management](https://github.com/pathbird/poetry-kernel)
-- [Toyota &#39;reviewing&#39; key fob remote start subscription plan after blowback](https://www.thedrive.com/news/43636/toyota-reviewing-key-fob-remote-start-subscription-plan-after-massive-blowback)
 <!-- BLOG-POST-LIST:END -->
 
 ---
