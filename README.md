@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Best practices for writing code comments](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/)
 - [Is It Even Worth Working on FOSS Anymore?](https://gavinhoward.com/2021/12/is-it-even-worth-working-on-foss-anymore/)
+- [Alibaba researchers went rogue and disclosed Log4j now CCP is making Alibaba pay](https://twitter.com/nicoleperlroth/status/1474275566572347393)
+- [Robin Hanson Discusses the Karnataka Health Insurance Experiment](https://www.overcomingbias.com/2021/12/karnataka-hospital-insurance-experiment.html)
 - [The Sucker Complex](https://itsjoeco.substack.com/p/the-sucker-complex)
-- [Systemd 250 Released](https://lwn.net/Articles/879739/)
-- [Apple to Apple Comparison: M1 Max vs. Intel](https://unum.cloud/post/2021-12-21-macbook/)
-- [Advent of Code Surveys: Results](https://jeroenheijmans.github.io/advent-of-code-surveys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
