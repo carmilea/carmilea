@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Matt Mullenweg save the internet?](https://www.protocol.com/matt-mullenweg)
-- [Smarking &lpar;YC W15&rpar; Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [LaTeX Cookbook – Collection of LaTeX Recipes](https://latex-cookbook.net/)
-- [Building Remote Teams for Startups](https://vadimkravcenko.com/en/how-to-build-remote-teams-properly/)
-- [Running your own email is increasingly an artisanal choice, not a practical one](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailServersNoLongerPractical)
+- [Webb flies Ariane 5: watch the launch live on 25 December](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_flies_Ariane_5_watch_the_launch_live)
+- [Wish HN: Happy Holidays](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?cp=e30.)
+- [Ask HN: Show your failed projects and share a lesson you learned](https://news.ycombinator.com/item?id=29673707)
+- [Greenspun&#39;s Tenth Rule of Programming](https://en.wikipedia.org/wiki/Greenspun%27s_tenth_rule)
+- [Exiled from the Metaverse before it even started: Facebook bans are for life](https://www.brian.jp/2021/12/24/exiled-from-the-metaverse-before-it-even-started-the-dangers-of-relying-on-facebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
