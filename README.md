@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Smarking &lpar;YC W15&rpar; Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [LaTeX Cookbook – Collection of LaTeX Recipes](https://latex-cookbook.net/)
 - [Building Remote Teams for Startups](https://vadimkravcenko.com/en/how-to-build-remote-teams-properly/)
+- [Running your own email is increasingly an artisanal choice, not a practical one](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailServersNoLongerPractical)
 - [On subversion and dissolution of opposition movements](https://inspiratron.org/blog/2021/12/24/on-subversion-and-dissolution-of-opposition-movements/)
-- [Scuttlebutt Protocol Guide](https://ssbc.github.io/scuttlebutt-protocol-guide/)
-- [Japanese university finds Alzheimer&#39;s drug effective in treating ALS](https://english.kyodonews.net/news/2021/12/f4b3d06d9d0a-breaking-news-japans-yamagata-univ-says-it-has-found-drug-effective-in-treating-als.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
