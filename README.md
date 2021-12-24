@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [KiCad 6.0.0](https://gitlab.com/kicad/code/kicad/-/tree/6.0.0)
 - [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
+- [Corrugated-paper-making machine patent &lpar;1918&rpar;](https://patents.google.com/patent/US1264506A/en)
 - [Georgia teacher read the fine print and won $13K &lpar;2019&rpar;](https://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.5045331/this-georgia-teacher-read-the-fine-print-and-won-13k-1.5045342)
 - [Attrs – The One Python Library Everyone Needs](https://glyph.twistedmatrix.com/2016/08/attrs.html)
-- [Quanta of the Third Kind](https://inference-review.com/article/quanta-of-the-third-kind)
-- [When do people learn languages? &lpar;2002&rpar;](https://www.zompist.com/whylang.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
