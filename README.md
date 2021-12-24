@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [To Craunch the Marmoset &lpar;2016&rpar;](https://sesquiotic.com/2016/05/02/to-craunch-the-marmoset/)
+- [Tesla bows to pressure, stops allowing drivers to play video games while driving](https://www.theguardian.com/technology/2021/dec/23/tesla-vehicles-video-games-driving)
 - [The Google home page is 500K](https://pagespeed.web.dev/report)
 - [CSS Zen Garden: A demonstration of what can be achieved through CSS-based design](http://www.csszengarden.com/)
-- [Human geneticists curb use of the term ‘race’ in their papers](https://www.science.org/content/article/human-geneticists-curb-use-term-race-their-papers)
 - [Entire website in a single HTML file](https://css-tricks.com/a-whole-website-in-a-single-html-file/)
-- [Ask HN: What&#39;s the best book you read in 2021?](https://news.ycombinator.com/item?id=29668228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
