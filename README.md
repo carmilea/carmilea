@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb flies Ariane 5: watch the launch live on 25 December](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_flies_Ariane_5_watch_the_launch_live)
-- [Wish HN: Happy Holidays](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?cp=e30.)
-- [Ask HN: Show your failed projects and share a lesson you learned](https://news.ycombinator.com/item?id=29673707)
-- [Greenspun&#39;s Tenth Rule of Programming](https://en.wikipedia.org/wiki/Greenspun%27s_tenth_rule)
-- [Exiled from the Metaverse before it even started: Facebook bans are for life](https://www.brian.jp/2021/12/24/exiled-from-the-metaverse-before-it-even-started-the-dangers-of-relying-on-facebook/)
+- [Russian court fines Alphabet&#39;s Google 7.2 bln roubles](https://www.reuters.com/technology/russian-court-fines-alphabets-google-72-bln-roubles-2021-12-24/)
+- [List of 4,248 open source programming languages](https://codelani.com/lists/languages.html)
+- [Unbuffered I/O Can Make Your Rust Programs Much Slower](https://era.co/blog/unbuffered-io-slows-rust-programs)
+- [Trisquel GNU/Linux](https://trisquel.info/)
+- [YouTube is testing people now?](https://old.reddit.com/r/youtube/comments/rioyyj/youtube_is_testing_people_now_what_is_the_point/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
