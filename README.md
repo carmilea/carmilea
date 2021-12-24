@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Russian court fines Alphabet&#39;s Google 7.2 bln roubles](https://www.reuters.com/technology/russian-court-fines-alphabets-google-72-bln-roubles-2021-12-24/)
-- [List of 4,248 open source programming languages](https://codelani.com/lists/languages.html)
-- [Unbuffered I/O Can Make Your Rust Programs Much Slower](https://era.co/blog/unbuffered-io-slows-rust-programs)
-- [Trisquel GNU/Linux](https://trisquel.info/)
-- [YouTube is testing people now?](https://old.reddit.com/r/youtube/comments/rioyyj/youtube_is_testing_people_now_what_is_the_point/)
+- [Sweden Vindicated](https://swprs.org/judgment-day-sweden-vindicated/)
+- [ReadMe &lpar;YC W15&rpar; Is Hiring a UI Engineer](https://readme.com/careers#ui-engineer)
+- [The leader who&#39;s standing up to China](https://www.reuters.com/investigates/special-report/taiwan-china-tsai/)
+- [DoorDash will require all employees to deliver goods](https://www.marketwatch.com/story/doordash-will-require-all-workers-to-deliver-goods-or-perform-other-gigs-and-some-of-them-arent-happy-11640300491)
+- [Penrose: From mathematical notation to beautiful diagrams](https://penrose.ink/siggraph20.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
