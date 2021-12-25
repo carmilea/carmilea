@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Cool, but Obscure X11 Tools](http://cyber.dabamos.de/unix/x11/)
+- [No Other Love: Letters from Richard Feynman to His Late Wife, Arline](https://www.sothebys.com/en/articles/no-other-love-heart-wrenching-letters-from-richard-feynman-to-his-late-wife-arline)
 - [OBS and Streamlabs Commit to Long-Term Collaboration](https://obsproject.com/blog/obs-and-streamlabs-commit-to-long-term-collaboration)
 - [Terra &lpar;YC W21&rpar; Is Hiring for a Founder Associate in London](https://www.ycombinator.com/companies/terra/jobs/NGbGJeN-founder-associate)
 - [Gigantism is a never-ending temptation](https://spectrum.ieee.org/jumbo-airplane)
-- [I Lost My Past](http://glineq.blogspot.com/2017/09/how-i-lost-my-past.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
