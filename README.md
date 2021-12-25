@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cool, but Obscure X11 Tools](http://cyber.dabamos.de/unix/x11/)
+- [OBS and Streamlabs Commit to Long-Term Collaboration](https://obsproject.com/blog/obs-and-streamlabs-commit-to-long-term-collaboration)
 - [Terra &lpar;YC W21&rpar; Is Hiring for a Founder Associate in London](https://www.ycombinator.com/companies/terra/jobs/NGbGJeN-founder-associate)
 - [Gigantism is a never-ending temptation](https://spectrum.ieee.org/jumbo-airplane)
 - [I Lost My Past](http://glineq.blogspot.com/2017/09/how-i-lost-my-past.html)
-- [Canada&#39;s public health agency admits it tracked mobile devices during lockdown](https://nationalpost.com/news/canada/canadas-public-health-agency-admits-it-tracked-33-million-mobile-devices-during-lockdown)
-- [The Last Soviet Generation](https://www.aljazeera.com/features/2021/12/24/the-last-soviet-generation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
