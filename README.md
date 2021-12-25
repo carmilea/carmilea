@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gigantism is a never-ending temptation](https://spectrum.ieee.org/jumbo-airplane)
+- [I Lost My Past](http://glineq.blogspot.com/2017/09/how-i-lost-my-past.html)
 - [Canada&#39;s public health agency admits it tracked mobile devices during lockdown](https://nationalpost.com/news/canada/canadas-public-health-agency-admits-it-tracked-33-million-mobile-devices-during-lockdown)
 - [The Last Soviet Generation](https://www.aljazeera.com/features/2021/12/24/the-last-soviet-generation)
 - [Why don&#39;t governments mind that companies are explicitly trying to make AGIs?](https://forum.effectivealtruism.org/posts/wdk3LCg6iFxknCYG4/why-don-t-governments-seem-to-mind-that-companies-are)
-- [Fix the unit test and open a giant hole everywhere](http://rachelbythebay.com/w/2021/12/24/mkdir/)
-- [A Python Guide for the Ages](https://gto76.github.io/python-cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
