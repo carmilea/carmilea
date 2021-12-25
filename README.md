@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [KiCad 6.0.0](https://gitlab.com/kicad/code/kicad/-/tree/6.0.0)
-- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
-- [Corrugated-paper-making machine patent &lpar;1918&rpar;](https://patents.google.com/patent/US1264506A/en)
-- [Georgia teacher read the fine print and won $13K &lpar;2019&rpar;](https://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.5045331/this-georgia-teacher-read-the-fine-print-and-won-13k-1.5045342)
-- [Attrs – The One Python Library Everyone Needs](https://glyph.twistedmatrix.com/2016/08/attrs.html)
+- [Thanks to the Chip Shortage, Texas Instruments Is Worth $170 B](https://www.wsj.com/articles/thanks-to-the-chip-shortage-texas-instruments-is-worth-170-billion-11640341805)
+- [Locked-out New Zealanders outraged as visa scheme for rich foreigners resumes](https://www.theguardian.com/world/2021/dec/24/locked-out-new-zealanders-outraged-as-visa-scheme-for-rich-foreigners-resumes)
+- [ADHD Accommodations Guide](https://adhdatwork.add.org/adhd-accommodation-guide/)
+- [Could we stop building so many damn staircases?](https://slate.com/business/2021/12/staircases-floor-plan-twitter-housing-apartments.html)
+- [Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
