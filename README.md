@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ruby 3.1 Released, Featuring In-Process JIT Compiler](https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/)
+- [Germany’s Sovereign Tech Fund: Strengthening Digital Infrastructure+Open Source](https://sovereigntechfund.de/)
 - [Paperspace &lpar;YC W15&rpar; is hiring engineers to build a next-gen cloud](https://www.paperspace.com/careers)
 - [Zoom In: An Introduction to Circuits &lpar;2020&rpar;](https://distill.pub/2020/circuits/zoom-in/)
 - [Steam has been banned in China](https://www.thegamer.com/steam-banned-china-christmas-day/)
-- [The USS William D. Porter: The Unluckiest Ship in WWII](https://www.usna63.org/tradition/sea_stories/Destroyer.html)
-- [We Are Go for Launch](https://blogs.nasa.gov/webb/2021/12/25/we-are-go-for-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
