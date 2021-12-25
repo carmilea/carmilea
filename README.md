@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paperspace &lpar;YC W15&rpar; is hiring engineers to build a next-gen cloud](https://www.paperspace.com/careers)
+- [Zoom In: An Introduction to Circuits &lpar;2020&rpar;](https://distill.pub/2020/circuits/zoom-in/)
 - [Steam has been banned in China](https://www.thegamer.com/steam-banned-china-christmas-day/)
-- [The Source of the Nile River: A Mystery That Spanned Three Millennia](https://www.discovermagazine.com/planet-earth/the-source-of-the-nile-river-a-mystery-that-spanned-three-millennia)
-- [JWST Launch NASA Livestream](https://www.youtube.com/watch?v=7nT7JGZMbtM)
-- [Tell HN: You are not alone this Christmas](https://news.ycombinator.com/item?id=29682002)
-- [Ask HN: Could BTC price increase linearly with M2?](https://news.ycombinator.com/item?id=29681949)
+- [The USS William D. Porter: The Unluckiest Ship in WWII](https://www.usna63.org/tradition/sea_stories/Destroyer.html)
+- [We Are Go for Launch](https://blogs.nasa.gov/webb/2021/12/25/we-are-go-for-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
