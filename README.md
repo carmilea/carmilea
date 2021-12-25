@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A New Coefficient of Correlation](https://arxiv.org/abs/1909.10140)
 - [Christmas shopping the IBM way: computerized gift selection in 1962](https://www.righto.com/2021/12/christmas-shopping-ibm-way-computerized.html)
 - [Better SQL JOINs](https://news.ycombinator.com/item?id=29687134)
+- [Marktext – Elegant Markdown Editor for Linux, macOS, Windows](https://github.com/marktext/marktext)
 - [Ask HN: What are the single person activities in Christmas and/or New Year?](https://news.ycombinator.com/item?id=29686927)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
-- [New York City bans natural gas in new buildings](https://www.reuters.com/markets/us/new-york-city-set-ban-natural-gas-new-buildings-2021-12-15/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
