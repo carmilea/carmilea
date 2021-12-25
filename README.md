@@ -53,8 +53,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Thanks to the Chip Shortage, Texas Instruments Is Worth $170 B](https://www.wsj.com/articles/thanks-to-the-chip-shortage-texas-instruments-is-worth-170-billion-11640341805)
 - [Locked-out New Zealanders outraged as visa scheme for rich foreigners resumes](https://www.theguardian.com/world/2021/dec/24/locked-out-new-zealanders-outraged-as-visa-scheme-for-rich-foreigners-resumes)
+- [When a web PKI certificate won&#39;t cut it](https://emilymstark.com/2021/12/24/when-a-web-pki-certificate-wont-cut-it.html)
 - [ADHD Accommodations Guide](https://adhdatwork.add.org/adhd-accommodation-guide/)
-- [Could we stop building so many damn staircases?](https://slate.com/business/2021/12/staircases-floor-plan-twitter-housing-apartments.html)
 - [Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
 <!-- BLOG-POST-LIST:END -->
 
