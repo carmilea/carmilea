@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flow Club &lpar;YC S21&rpar; Is Hiring Front End Engineers Who Love React/TypeScript](https://jobs.ashbyhq.com/flowclub/1d5b1cf1-bf6b-474d-8328-438c90f3a8a7)
+- [Brexit one year on: so how’s it going?](https://www.theguardian.com/politics/2021/dec/25/brexit-one-year-on-so-hows-it-going)
 - [25-Dec. Shout-out to everyone else at work](https://news.ycombinator.com/item?id=29683936)
 - [Tell HN: Microsoft forks MIT licensed repo, and changes the copyright to them](https://github.com/microsoft/grpc_bench/commit/04c7143a39a0bb243369e31f3b3b797449468fdb)
 - [We Fund Public Interest Tech](https://prototypefund.de/en/)
-- [Ruby 3.1](https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/)
-- [“Autism Is a Spectrum” Doesn’t Mean What You Think &lpar;2019&rpar;](https://neuroclastic.com/its-a-spectrum-doesnt-mean-what-you-think/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
