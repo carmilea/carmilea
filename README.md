@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Christmas shopping the IBM way: computerized gift selection in 1962](https://www.righto.com/2021/12/christmas-shopping-ibm-way-computerized.html)
+- [Better SQL JOINs](https://news.ycombinator.com/item?id=29687134)
 - [Ask HN: What are the single person activities in Christmas and/or New Year?](https://news.ycombinator.com/item?id=29686927)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
-- [Buy a coal mine, drive a gas guzzler, and other uses of reverse logic](https://timharford.com/2021/12/buy-a-coal-mine-drive-a-gas-guzzler-and-other-uses-of-reverse-logic/)
-- [Reverse-engineering a tiny 1980s chip that plays Christmas tunes](https://www.righto.com/2021/12/reverse-engineering-tiny-1980s-chip.html)
-- [Ask HN: Remotely Helping Elderly Parents](https://news.ycombinator.com/item?id=29685115)
+- [New York City bans natural gas in new buildings](https://www.reuters.com/markets/us/new-york-city-set-ban-natural-gas-new-buildings-2021-12-15/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
