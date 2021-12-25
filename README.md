@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [12ft Ladder &lpar;Bypass any paywall&rpar;](https://12ft.io/)
-- [Alexa owners not using it after only two weeks](https://mashable.com/article/amazon-alexa-usage-drop)
-- [The Four Desires Driving All Human Behavior](https://www.themarginalian.org/2015/09/21/bertrand-russell-nobel-prize-acceptance-speech/)
-- [Rethinking Kandinsky](https://hyperallergic.com/699716/rethinking-kandinsky/)
-- [Thanks to the Chip Shortage, Texas Instruments Is Worth $170 B](https://www.wsj.com/articles/thanks-to-the-chip-shortage-texas-instruments-is-worth-170-billion-11640341805)
+- [Canada&#39;s public health agency admits it tracked mobile devices during lockdown](https://nationalpost.com/news/canada/canadas-public-health-agency-admits-it-tracked-33-million-mobile-devices-during-lockdown)
+- [The Last Soviet Generation](https://www.aljazeera.com/features/2021/12/24/the-last-soviet-generation)
+- [Why don&#39;t governments mind that companies are explicitly trying to make AGIs?](https://forum.effectivealtruism.org/posts/wdk3LCg6iFxknCYG4/why-don-t-governments-seem-to-mind-that-companies-are)
+- [A Python Guide for the Ages](https://gto76.github.io/python-cheatsheet/)
+- [Show me a 10ft paywall, I’ll show you a 12ft ladder](https://12ft.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
