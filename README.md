@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [25-Dec. Shout-out to everyone else at work](https://news.ycombinator.com/item?id=29683936)
 - [Tell HN: Microsoft forks MIT licensed repo, and changes the copyright to them](https://github.com/microsoft/grpc_bench/commit/04c7143a39a0bb243369e31f3b3b797449468fdb)
 - [We Fund Public Interest Tech](https://prototypefund.de/en/)
 - [Ruby 3.1](https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/)
 - [“Autism Is a Spectrum” Doesn’t Mean What You Think &lpar;2019&rpar;](https://neuroclastic.com/its-a-spectrum-doesnt-mean-what-you-think/)
-- [Paperspace &lpar;YC W15&rpar; is hiring engineers to build a next-gen cloud](https://www.paperspace.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
