@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ruby 3.1 Released, Featuring In-Process JIT Compiler](https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/)
-- [Germany’s Sovereign Tech Fund: Strengthening Digital Infrastructure+Open Source](https://sovereigntechfund.de/)
+- [Ruby 3.1](https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/)
+- [Shrooms: What You Need to Know](https://tripsafe.org/shrooms/)
 - [Paperspace &lpar;YC W15&rpar; is hiring engineers to build a next-gen cloud](https://www.paperspace.com/careers)
+- [Trade-Offs in Automatic Differentiation: TensorFlow, PyTorch, Jax, and Julia](http://www.stochasticlifestyle.com/engineering-trade-offs-in-automatic-differentiation-from-tensorflow-and-pytorch-to-jax-and-julia/)
 - [Zoom In: An Introduction to Circuits &lpar;2020&rpar;](https://distill.pub/2020/circuits/zoom-in/)
-- [Steam has been banned in China](https://www.thegamer.com/steam-banned-china-christmas-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
