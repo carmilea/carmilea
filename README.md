@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Buy a coal mine, drive a gas guzzler, and other uses of reverse logic](https://timharford.com/2021/12/buy-a-coal-mine-drive-a-gas-guzzler-and-other-uses-of-reverse-logic/)
 - [Reverse-engineering a tiny 1980s chip that plays Christmas tunes](https://www.righto.com/2021/12/reverse-engineering-tiny-1980s-chip.html)
 - [Ask HN: Remotely Helping Elderly Parents](https://news.ycombinator.com/item?id=29685115)
 - [Ask HN: Have you found something you love to do? If yes how?](https://news.ycombinator.com/item?id=29685021)
 - [After years of doubts, hopes grow that nuclear fusion is near](https://www.bostonglobe.com/2021/12/22/science/after-years-doubts-hopes-grow-that-nuclear-fusion-is-finally-real-could-help-address-climate-change/)
-- [Flow Club &lpar;YC S21&rpar; Is Hiring Front End Engineers Who Love React/TypeScript](https://jobs.ashbyhq.com/flowclub/1d5b1cf1-bf6b-474d-8328-438c90f3a8a7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
