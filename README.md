@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cool, but Obscure X11 Tools](http://cyber.dabamos.de/unix/x11/)
-- [No Other Love: Letters from Richard Feynman to His Late Wife, Arline](https://www.sothebys.com/en/articles/no-other-love-heart-wrenching-letters-from-richard-feynman-to-his-late-wife-arline)
-- [OBS and Streamlabs Commit to Long-Term Collaboration](https://obsproject.com/blog/obs-and-streamlabs-commit-to-long-term-collaboration)
-- [Terra &lpar;YC W21&rpar; Is Hiring for a Founder Associate in London](https://www.ycombinator.com/companies/terra/jobs/NGbGJeN-founder-associate)
-- [Gigantism is a never-ending temptation](https://spectrum.ieee.org/jumbo-airplane)
+- [Steam has been banned in China](https://www.thegamer.com/steam-banned-china-christmas-day/)
+- [The Source of the Nile River: A Mystery That Spanned Three Millennia](https://www.discovermagazine.com/planet-earth/the-source-of-the-nile-river-a-mystery-that-spanned-three-millennia)
+- [JWST Launch NASA Livestream](https://www.youtube.com/watch?v=7nT7JGZMbtM)
+- [Tell HN: You are not alone this Christmas](https://news.ycombinator.com/item?id=29682002)
+- [Ask HN: Could BTC price increase linearly with M2?](https://news.ycombinator.com/item?id=29681949)
 <!-- BLOG-POST-LIST:END -->
 
 ---
