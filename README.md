@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Microsoft Bot Is Forking Projects and Changing Their Licenses](https://floss.social/@carlschwan/107508229390635109)
+- [Ask HN: Remotely Helping Elderly Parents](https://news.ycombinator.com/item?id=29685115)
+- [Ask HN: Have you found something you love to do? If yes how?](https://news.ycombinator.com/item?id=29685021)
+- [After years of doubts, hopes grow that nuclear fusion is near](https://www.bostonglobe.com/2021/12/22/science/after-years-doubts-hopes-grow-that-nuclear-fusion-is-finally-real-could-help-address-climate-change/)
 - [Flow Club &lpar;YC S21&rpar; Is Hiring Front End Engineers Who Love React/TypeScript](https://jobs.ashbyhq.com/flowclub/1d5b1cf1-bf6b-474d-8328-438c90f3a8a7)
-- [Brexit one year on: so how’s it going?](https://www.theguardian.com/politics/2021/dec/25/brexit-one-year-on-so-hows-it-going)
-- [25-Dec. Shout-out to everyone else at work](https://news.ycombinator.com/item?id=29683936)
-- [Tell HN: Microsoft forks MIT licensed repo, and changes the copyright to them](https://github.com/microsoft/grpc_bench/commit/04c7143a39a0bb243369e31f3b3b797449468fdb)
-- [We Fund Public Interest Tech](https://prototypefund.de/en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
