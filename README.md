@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Heroes of Might and Magic](https://www.filfre.net/2021/12/heroes-of-might-and-magic/)
-- [Anti-mimetic tactics for living a counter-cultural life](https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/)
-- [100s of El Salvadorans Report Bitcoins Disappearing from Their Chivo Wallets](https://thecryptobasic.com/2021/12/25/hundreds-of-el-salvador-citizens-report-their-bitcoins-are-disappearing-from-stated-owned-chivo-wallet/)
-- [An Efficiency Comparison of Latex vs. Word](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115069)
-- [I found &lpar;and fixed&rpar; a vulnerability in Python](https://tldr.engineering/how-i-found-and-fixed-a-vulnerability-in-python/)
+- [Is It Snowing in Portland, Oregon?](http://isitsnowinginpdx.com/)
+- [Japan to pay companies to keep sensitive patents secret](https://www.reuters.com/technology/japan-pay-companies-keep-sensitive-patents-secret-nikkei-2021-12-25/)
+- [Finnish Man Blows Up Tesla Car Instead of Replacing Battery](https://gizmodo.com/finnish-man-passes-on-paying-22-600-to-replace-his-tes-1848268874)
+- [FAA Shows ‘Sample NOTAMs’ for Possible 5G Restrictions](https://www.avweb.com/aviation-news/faa-shows-sample-notams-for-possible-5g-restrictions/)
+- [Rainy years can’t make up for California’s groundwater use](https://arstechnica.com/science/2021/12/californias-groundwater-reserves-arent-recovering-from-recent-droughts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
