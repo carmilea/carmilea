@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Moving from tiny websites to serious tech skills?](https://news.ycombinator.com/item?id=29692160)
+- [Practicing Programming](https://sites.google.com/site/steveyegge2/practicing-programming)
+- [The Importance of Price Signals](https://www.lynalden.com/price-signals/)
+- [Ask HN: How do you validate demand for your side-project?](https://news.ycombinator.com/item?id=29691811)
 - [Streak &lpar;YC&rpar; is hiring remote &lpar;North America&rpar; Infrastructure engineers](https://www.streak.com/careers/backend-engineer)
-- [Mico: A PDM to USB Microphone Based on the Raspberry Pi RP2040](https://electronut.in//mico/)
-- [You block ads in your browser, why not in your city?](https://bearbin.net/blog/2021/adblock-your-city)
-- [My Path to Financial Independence as a Software Engineer](https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/)
-- [How can I learn to work with clients well?](https://news.ycombinator.com/item?id=29690950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
