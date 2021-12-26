@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tenacity, the Art of Integration, and the Key to a Flexible Mind](https://www.themarginalian.org/2020/10/20/mary-somerville/)
+- [Anti-LaTeX, Pro-Word paper corrections for “sizing and placement of the figures” &lpar;2015&rpar;](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0125830&type=printable)
 - [Is It Snowing in Portland, Oregon?](http://isitsnowinginpdx.com/)
 - [Japan to pay companies to keep sensitive patents secret](https://www.reuters.com/technology/japan-pay-companies-keep-sensitive-patents-secret-nikkei-2021-12-25/)
 - [Finnish Man Blows Up Tesla Car Instead of Replacing Battery](https://gizmodo.com/finnish-man-passes-on-paying-22-600-to-replace-his-tes-1848268874)
-- [FAA Shows ‘Sample NOTAMs’ for Possible 5G Restrictions](https://www.avweb.com/aviation-news/faa-shows-sample-notams-for-possible-5g-restrictions/)
-- [Rainy years can’t make up for California’s groundwater use](https://arstechnica.com/science/2021/12/californias-groundwater-reserves-arent-recovering-from-recent-droughts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
