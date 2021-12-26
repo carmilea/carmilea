@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In 2021 37% of the world’s population &lpar;2.9BLN&rpar; have still never used Internet](https://www.itu.int/hub/2021/11/facts-and-figures-2021-2-9-billion-people-still-offline/)
+- [Sequencing your DNA with a USB dongle and open source code](https://stackoverflow.blog/2021/12/24/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/)
+- [Gene Therapy for a Failing Heart](https://www.science.org/doi/10.1126/scitranslmed.abd6892)
 - [Tenacity, the Art of Integration, and the Key to a Flexible Mind](https://www.themarginalian.org/2020/10/20/mary-somerville/)
 - [Anti-LaTeX, Pro-Word paper corrections for “sizing and placement of the figures” &lpar;2015&rpar;](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0125830&type=printable)
-- [Is It Snowing in Portland, Oregon?](http://isitsnowinginpdx.com/)
-- [Japan to pay companies to keep sensitive patents secret](https://www.reuters.com/technology/japan-pay-companies-keep-sensitive-patents-secret-nikkei-2021-12-25/)
-- [Finnish Man Blows Up Tesla Car Instead of Replacing Battery](https://gizmodo.com/finnish-man-passes-on-paying-22-600-to-replace-his-tes-1848268874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
