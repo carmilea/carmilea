@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You block ads in your browser, why not in your city?](https://bearbin.net/blog/2021/adblock-your-city)
 - [My Path to Financial Independence as a Software Engineer](https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/)
 - [How can I learn to work with clients well?](https://news.ycombinator.com/item?id=29690950)
 - [Show HN: I&#39;m building a non-profit search engine](https://github.com/mwmbl/mwmbl)
 - [Desmond Tutu, anti-apartheid icon, dies at 90](https://www.theguardian.com/world/2021/dec/26/archbishop-desmond-tutu-giant-in-fight-against-apartheid-south-africa-dies-at-90)
-- [The Container Throttling Problem](https://danluu.com/cgroup-throttling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
