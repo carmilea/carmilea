@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: PiTheremin](https://github.com/Mylab6/PiTheremin)
+- [Love that lays the swale in rows](https://www.roughtype.com/?p=8783)
 - [DIY Off-Grid Solar Power](https://www.mobile-solarpower.com/)
 - [The Carpetbagger’s Guide to Home Ownership](https://www.granolashotgun.com/granolashotguncom/investors-and-affordable-housing)
 - [The Sound of Silence: A Noise Map of the U.S.](https://www.nps.gov/subjects/sound/soundmap.htm)
-- [Pixor: Real-Time 3D Object Detection from Point Clouds](https://github.com/philip-huang/PIXOR)
 <!-- BLOG-POST-LIST:END -->
 
 ---
