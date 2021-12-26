@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [100s of El Salvadorans Report Bitcoins Disappearing from Their Chivo Wallets](https://thecryptobasic.com/2021/12/25/hundreds-of-el-salvador-citizens-report-their-bitcoins-are-disappearing-from-stated-owned-chivo-wallet/)
+- [I found &lpar;and fixed&rpar; a vulnerability in Python](https://tldr.engineering/how-i-found-and-fixed-a-vulnerability-in-python/)
 - [Ask HN: Moving from tiny websites to serious tech skills?](https://news.ycombinator.com/item?id=29692160)
-- [Practicing Programming](https://sites.google.com/site/steveyegge2/practicing-programming)
+- [Practicing Programming &lpar;2005&rpar;](https://sites.google.com/site/steveyegge2/practicing-programming)
 - [The Importance of Price Signals](https://www.lynalden.com/price-signals/)
-- [Ask HN: How do you validate demand for your side-project?](https://news.ycombinator.com/item?id=29691811)
-- [Streak &lpar;YC&rpar; is hiring remote &lpar;North America&rpar; Infrastructure engineers](https://www.streak.com/careers/backend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
