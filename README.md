@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Corporations&#39; Repatriation of Offshore Profits: Evidence from 2018](https://www.federalreserve.gov/econres/notes/feds-notes/us-corporations-repatriation-of-offshore-profits-20190806.htm)
+- [DIY Off-Grid Solar Power](https://www.mobile-solarpower.com/)
+- [The Carpetbagger’s Guide to Home Ownership](https://www.granolashotgun.com/granolashotguncom/investors-and-affordable-housing)
 - [The Sound of Silence: A Noise Map of the U.S.](https://www.nps.gov/subjects/sound/soundmap.htm)
+- [Pixor: Real-Time 3D Object Detection from Point Clouds](https://github.com/philip-huang/PIXOR)
 - [Use deep fake tech to say stuff with your favorite characters](https://fakeyou.com)
-- [The Cost of Cloud](https://ptribble.blogspot.com/2021/12/the-cost-of-cloud.html)
-- [Simple server alerts on a need-to-know basis](https://nbailey.ca/post/simple-alerts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
