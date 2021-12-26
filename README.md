@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“This year, Oculus has sold more headsets than Microsoft did Xboxs.”](https://twitter.com/cdixon/status/1471555718746558466)
 - [Show HN: PiTheremin](https://github.com/Mylab6/PiTheremin)
 - [Love that lays the swale in rows &lpar;2020&rpar;](https://www.roughtype.com/?p=8783)
 - [DIY Off-Grid Solar Power](https://www.mobile-solarpower.com/)
 - [The Sound of Silence: A Noise Map of the U.S.](https://www.nps.gov/subjects/sound/soundmap.htm)
-- [Papers with Code](https://paperswithcode.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
