@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Coefficient of Correlation](https://arxiv.org/abs/1909.10140)
-- [Christmas shopping the IBM way: computerized gift selection in 1962](https://www.righto.com/2021/12/christmas-shopping-ibm-way-computerized.html)
-- [Better SQL JOINs](https://news.ycombinator.com/item?id=29687134)
-- [Marktext – Elegant Markdown Editor for Linux, macOS, Windows](https://github.com/marktext/marktext)
-- [Ask HN: What are the single person activities in Christmas and/or New Year?](https://news.ycombinator.com/item?id=29686927)
+- [U.S. Corporations&#39; Repatriation of Offshore Profits: Evidence from 2018](https://www.federalreserve.gov/econres/notes/feds-notes/us-corporations-repatriation-of-offshore-profits-20190806.htm)
+- [The Sound of Silence: A Noise Map of the U.S.](https://www.nps.gov/subjects/sound/soundmap.htm)
+- [Use deep fake tech to say stuff with your favorite characters](https://fakeyou.com)
+- [The Cost of Cloud](https://ptribble.blogspot.com/2021/12/the-cost-of-cloud.html)
+- [Simple server alerts on a need-to-know basis](https://nbailey.ca/post/simple-alerts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
