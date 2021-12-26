@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bingo – The missing package manager for Go binaries &lpar;Homebrew for “go install”&rpar;](https://github.com/TekWizely/bingo)
-- [This year, Oculus has sold more headsets than Microsoft did Xboxes](https://twitter.com/cdixon/status/1471555718746558466)
-- [Why Is US Labor Supply So Low?](https://www.gspublishing.com/content/research/en/reports/2021/12/16/877f23ba-3510-4001-a2b2-6faa87d94b86.html)
-- [Show HN: PiTheremin](https://github.com/Mylab6/PiTheremin)
-- [Love that lays the swale in rows &lpar;2020&rpar;](https://www.roughtype.com/?p=8783)
+- [My Path to Financial Independence as a Software Engineer](https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/)
+- [How can I learn to work with clients well?](https://news.ycombinator.com/item?id=29690950)
+- [Show HN: I&#39;m building a non-profit search engine](https://github.com/mwmbl/mwmbl)
+- [Desmond Tutu, anti-apartheid icon, dies at 90](https://www.theguardian.com/world/2021/dec/26/archbishop-desmond-tutu-giant-in-fight-against-apartheid-south-africa-dies-at-90)
+- [The Container Throttling Problem](https://danluu.com/cgroup-throttling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
