@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In 2021 37% of the world’s population &lpar;2.9BLN&rpar; have still never used Internet](https://www.itu.int/hub/2021/11/facts-and-figures-2021-2-9-billion-people-still-offline/)
+- [Intimate portraits of a hospital Covid unit from a photojournalist-turned-nurse](https://www.npr.org/sections/health-shots/2021/12/26/1066395049/intimate-portraits-of-a-hospital-covid-unit-from-a-photojournalist-turned-nurse)
+- [Raytracing Diamonds](https://11011110.github.io/blog/2021/12/23/raytracing-diamonds.html)
+- [37% of the world’s population have still never used the internet](https://www.itu.int/hub/2021/11/facts-and-figures-2021-2-9-billion-people-still-offline/)
+- [A Lunar Farside Low Radio Frequency Array for Dark Ages](https://arxiv.org/abs/2103.08623)
 - [Sequencing your DNA with a USB dongle and open source code](https://stackoverflow.blog/2021/12/24/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/)
-- [Gene Therapy for a Failing Heart](https://www.science.org/doi/10.1126/scitranslmed.abd6892)
-- [Tenacity, the Art of Integration, and the Key to a Flexible Mind](https://www.themarginalian.org/2020/10/20/mary-somerville/)
-- [Anti-LaTeX, Pro-Word paper corrections for “sizing and placement of the figures” &lpar;2015&rpar;](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0125830&type=printable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
