@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Show HN: PiTheremin](https://github.com/Mylab6/PiTheremin)
-- [Love that lays the swale in rows](https://www.roughtype.com/?p=8783)
+- [Love that lays the swale in rows &lpar;2020&rpar;](https://www.roughtype.com/?p=8783)
 - [DIY Off-Grid Solar Power](https://www.mobile-solarpower.com/)
-- [The Carpetbagger’s Guide to Home Ownership](https://www.granolashotgun.com/granolashotguncom/investors-and-affordable-housing)
 - [The Sound of Silence: A Noise Map of the U.S.](https://www.nps.gov/subjects/sound/soundmap.htm)
+- [Papers with Code](https://paperswithcode.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
