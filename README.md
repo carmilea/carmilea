@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Heroes of Might and Magic](https://www.filfre.net/2021/12/heroes-of-might-and-magic/)
+- [Anti-mimetic tactics for living a counter-cultural life](https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/)
 - [100s of El Salvadorans Report Bitcoins Disappearing from Their Chivo Wallets](https://thecryptobasic.com/2021/12/25/hundreds-of-el-salvador-citizens-report-their-bitcoins-are-disappearing-from-stated-owned-chivo-wallet/)
+- [An Efficiency Comparison of Latex vs. Word](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115069)
 - [I found &lpar;and fixed&rpar; a vulnerability in Python](https://tldr.engineering/how-i-found-and-fixed-a-vulnerability-in-python/)
-- [Ask HN: Moving from tiny websites to serious tech skills?](https://news.ycombinator.com/item?id=29692160)
-- [Practicing Programming &lpar;2005&rpar;](https://sites.google.com/site/steveyegge2/practicing-programming)
-- [The Importance of Price Signals](https://www.lynalden.com/price-signals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
