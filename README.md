@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Bingo – The missing package manager for Go binaries &lpar;Homebrew for “go install”&rpar;](https://github.com/TekWizely/bingo)
 - [This year, Oculus has sold more headsets than Microsoft did Xboxes](https://twitter.com/cdixon/status/1471555718746558466)
+- [Why Is US Labor Supply So Low?](https://www.gspublishing.com/content/research/en/reports/2021/12/16/877f23ba-3510-4001-a2b2-6faa87d94b86.html)
 - [Show HN: PiTheremin](https://github.com/Mylab6/PiTheremin)
 - [Love that lays the swale in rows &lpar;2020&rpar;](https://www.roughtype.com/?p=8783)
-- [DIY Off-Grid Solar Power](https://www.mobile-solarpower.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
