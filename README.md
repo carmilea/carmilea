@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Mux &lpar;YC W16&rpar; is hiring across the board to build the future of online video](https://mux.com/jobs)
+- [The Absurdity of Renting a Car Will No Longer Be Tolerated](https://www.theatlantic.com/technology/archive/2021/12/car-rental-shortage-covid/621068/)
 - [Preventing Log4j with Capabilities](https://justinpombrio.net/2021/12/26/preventing-log4j-with-capabilities.html)
 - [CPM MagnaCut – The Next Breakthrough in Knife Steel](https://knifesteelnerds.com/2021/03/25/cpm-magnacut/)
 - [Intimate portraits of a hospital Covid unit from a photojournalist-turned-nurse](https://www.npr.org/sections/health-shots/2021/12/26/1066395049/intimate-portraits-of-a-hospital-covid-unit-from-a-photojournalist-turned-nurse)
-- [Raytracing diamonds](https://11011110.github.io/blog/2021/12/23/raytracing-diamonds.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
