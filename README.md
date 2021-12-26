@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mux &lpar;YC W16&rpar; is hiring across the board to build the future of online video](https://mux.com/jobs)
+- [Preventing Log4j with Capabilities](https://justinpombrio.net/2021/12/26/preventing-log4j-with-capabilities.html)
+- [CPM MagnaCut – The Next Breakthrough in Knife Steel](https://knifesteelnerds.com/2021/03/25/cpm-magnacut/)
 - [Intimate portraits of a hospital Covid unit from a photojournalist-turned-nurse](https://www.npr.org/sections/health-shots/2021/12/26/1066395049/intimate-portraits-of-a-hospital-covid-unit-from-a-photojournalist-turned-nurse)
-- [Raytracing Diamonds](https://11011110.github.io/blog/2021/12/23/raytracing-diamonds.html)
-- [37% of the world’s population have still never used the internet](https://www.itu.int/hub/2021/11/facts-and-figures-2021-2-9-billion-people-still-offline/)
-- [A Lunar Farside Low Radio Frequency Array for Dark Ages](https://arxiv.org/abs/2103.08623)
-- [Sequencing your DNA with a USB dongle and open source code](https://stackoverflow.blog/2021/12/24/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/)
+- [Raytracing diamonds](https://11011110.github.io/blog/2021/12/23/raytracing-diamonds.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
