@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Streak &lpar;YC&rpar; is hiring remote &lpar;North America&rpar; Infrastructure engineers](https://www.streak.com/careers/backend-engineer)
+- [Mico: A PDM to USB Microphone Based on the Raspberry Pi RP2040](https://electronut.in//mico/)
 - [You block ads in your browser, why not in your city?](https://bearbin.net/blog/2021/adblock-your-city)
 - [My Path to Financial Independence as a Software Engineer](https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/)
 - [How can I learn to work with clients well?](https://news.ycombinator.com/item?id=29690950)
-- [Show HN: I&#39;m building a non-profit search engine](https://github.com/mwmbl/mwmbl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
