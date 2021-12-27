@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Speedcabling](http://schkolne.com/speedcabling/rules.html)
 - [Regression with the C64](https://tensorthings.com/2021/12/27/regression-with-the-c64/)
 - [Decoding James Webb Space Telescope](https://destevez.net/2021/12/decoding-james-webb-space-telescope/)
 - [Luerl – An Implementation of Lua in Erlang](https://github.com/rvirding/luerl)
 - [Show HN: We built an app for reading articles saved for later](https://alfreadapp.com/)
-- [For some Greenlanders, eating sugar is healthy](https://science.ku.dk/english/press/news/2021/for-some-greenlanders-eating-sugar-is-healthy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
