@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CDC Updates, Shortens Recommended Isolation and Quarantine Period](https://www.cdc.gov/media/releases/2021/s1227-isolation-quarantine-guidance.html)
+- [Coming to Agreement, a logic puzzle for Oxford admissions interviews](http://jdh.hamkins.org/coming-to-agreement-logic-puzzle/)
+- [The State of External Retina Displays, [Almost] 2022 Edition](https://www.caseyliss.com/2021/12/7/monitor-liss)
 - [Compose.ai &lpar;YC W21&rpar; Is Hiring Engineers and Designers](https://composeai.notion.site/Work-at-Compose-AI-f9259f8867b74b0ea8431e872ee9908f)
 - [The Economist tracks excess deaths](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker)
-- [Five takeaways from looking for a new senior role in tech](https://philcalcado.com/2021/12/20/job_hunt.html)
-- [Ask HN: How did my LastPass master password get leaked?](https://news.ycombinator.com/item?id=29705957)
-- [New muscle layer discovered on the jaw](https://www.unibas.ch/en/News-Events/News/Uni-Research/New-muscle-layer-discovered-on-the-jaw.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
