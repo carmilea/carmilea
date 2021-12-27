@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Regression with the C64](https://tensorthings.com/2021/12/27/regression-with-the-c64/)
+- [Decoding James Webb Space Telescope](https://destevez.net/2021/12/decoding-james-webb-space-telescope/)
 - [Luerl – An Implementation of Lua in Erlang](https://github.com/rvirding/luerl)
+- [Show HN: We built an app for reading articles saved for later](https://alfreadapp.com/)
 - [For some Greenlanders, eating sugar is healthy](https://science.ku.dk/english/press/news/2021/for-some-greenlanders-eating-sugar-is-healthy/)
-- [Ask HN: Favorite Podcast Episode of 2021?](https://news.ycombinator.com/item?id=29703564)
-- [Maybe we could tone down the JavaScript &lpar;2016&rpar;](https://eev.ee/blog/2016/03/06/maybe-we-could-tone-down-the-javascript/)
-- [Supermassive Black Hole Eruption Near Earth Spanning 16 Times Full Moon](https://scitechdaily.com/astronomers-capture-supermassive-black-hole-eruption-near-earth-spanning-16-times-the-full-moon-in-the-sky/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
