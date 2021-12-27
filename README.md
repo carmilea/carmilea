@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Favorite Podcast Episode of 2021?](https://news.ycombinator.com/item?id=29703564)
+- [Supermassive Black Hole Eruption Near Earth Spanning 16 Times Full Moon](https://scitechdaily.com/astronomers-capture-supermassive-black-hole-eruption-near-earth-spanning-16-times-the-full-moon-in-the-sky/)
+- [Italian Courts Find Open Source Software Terms Enforceable](http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable/)
 - [Rack 2 &lpar;Virtual Eurorack&rpar;](https://github.com/VCVRack/Rack)
-- [A Review of the Zig Programming Language &lpar;Using Advent of Code 2021&rpar;](https://www.duskborn.com/posts/2021-aoc-zig/)
-- [&quot;Widevine Dump&quot;:Leaked Code Downloads HD Video from Disney+, Amazon, and Netflix](https://torrentfreak.com/widevine-dump-leaked-code-downloads-hd-video-from-disney-amazon-and-netflix-211227/)
-- [What Animals Think of Death](https://aeon.co/essays/animals-wrestle-with-the-concept-of-death-and-mortality)
-- [OneSignal &lpar;YC S11&rpar; is hiring engineers to work on messaging: Push, SMS, &amp; Email](https://onesignal.com/careers)
+- [Ask HN: Please recommend a router without need for a cloud account](https://news.ycombinator.com/item?id=29702844)
 <!-- BLOG-POST-LIST:END -->
 
 ---
