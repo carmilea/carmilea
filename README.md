@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Widevine Dump”:Leaked Code Downloads HD Video from Disney+, Amazon, and Netflix](https://torrentfreak.com/widevine-dump-leaked-code-downloads-hd-video-from-disney-amazon-and-netflix-211227/)
+- [Rack 2 &lpar;Virtual Eurorack&rpar;](https://github.com/VCVRack/Rack)
+- [A Review of the Zig Programming Language &lpar;Using Advent of Code 2021&rpar;](https://www.duskborn.com/posts/2021-aoc-zig/)
+- [&quot;Widevine Dump&quot;:Leaked Code Downloads HD Video from Disney+, Amazon, and Netflix](https://torrentfreak.com/widevine-dump-leaked-code-downloads-hd-video-from-disney-amazon-and-netflix-211227/)
+- [What Animals Think of Death](https://aeon.co/essays/animals-wrestle-with-the-concept-of-death-and-mortality)
 - [OneSignal &lpar;YC S11&rpar; is hiring engineers to work on messaging: Push, SMS, &amp; Email](https://onesignal.com/careers)
-- [Windows 2000 Modernization Guide](https://w2k.phreaknet.org/guide)
-- [A stochastic method to generate the Sierpinski triangle](https://github.com/ajnirp/stochastic_sierpinski)
-- [rC3 Fahrplan – The Chaos Communication Congress 2021 schedule](https://rc3.world/2021/public_fahrplan#_)
 <!-- BLOG-POST-LIST:END -->
 
 ---
