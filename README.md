@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Farewell, University of California – By Aaron Kheriaty, MD](https://aaronkheriaty.substack.com/p/farewell-university-of-california)
-- [The Problem with Ponzis](https://adventuresincapitalism.com/2021/12/27/the-problem-with-ponzis/)
+- [There&#39;s an ARM Cortex-M4 inside a $3.85 Covid test kit](https://twitter.com/Foone/status/1475231857851527169)
 - [HyperNeRF](https://hypernerf.github.io/)
-- [Once poor, always poor? – Stears Business](https://www.stearsng.com/article/once-poor-always-poor)
-- [Omicron extensively but incompletely escapes Pfizer BNT162b2 neutralization](https://www.nature.com/articles/d41586-021-03824-5)
+- [Ask HN: Good Python projects to read for modern Python?](https://news.ycombinator.com/item?id=29698198)
+- [Omicron extensively but incompletely escapes Pfizer vaccine neutralization](https://www.nature.com/articles/d41586-021-03824-5)
+- [Ontario bans non-competes and creates right to disconnect from work](https://gowlingwlg.com/en/insights-resources/articles/2021/ontario-legislation-bill-27-non-competes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
