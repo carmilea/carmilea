@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A super-spreading event of Omicron amongst triple-vaccinated healthcare workers](https://www.medrxiv.org/content/10.1101/2021.12.22.21268021v1)
+- [OneSignal &lpar;YC S11&rpar; is hiring engineers to work on messaging: Push, SMS, &amp; Email](https://onesignal.com/careers)
 - [A stochastic method to generate the Sierpinski triangle](https://github.com/ajnirp/stochastic_sierpinski)
-- [Pioneer startup accelerator](https://pioneer.app/)
 - [E.O. Wilson has died](https://www.reuters.com/lifestyle/science/obituary-modern-day-darwin-eo-wilson-dies-92-2021-12-27/)
-- [Simula One vs. Quest 2 vs. Valve Index](https://simulavr.com/blog/vr-comparison/)
-- [Pytudes: Python programs for perfecting particular programming skills](https://github.com/norvig/pytudes)
+- [Ask HN: What is your spiritual practice?](https://news.ycombinator.com/item?id=29700445)
 <!-- BLOG-POST-LIST:END -->
 
 ---
