@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ubisoft Deleted Account with Hundreds of Dollars’ Worth of Games for Inactivity](https://mmos.com/news/ubisoft-deleted-account-with-hundreds-of-dollars-worth-of-games-for-inactivity)
-- [There&#39;s an ARM Cortex-M4 inside a Covid test kit](https://twitter.com/Foone/status/1475231857851527169)
+- [There&#39;s an ARM Cortex-M4 with Bluetooth inside a Covid test kit](https://twitter.com/Foone/status/1475231857851527169)
 - [HyperNeRF](https://hypernerf.github.io/)
 - [Ask HN: Good Python projects to read for modern Python?](https://news.ycombinator.com/item?id=29698198)
 - [Ontario bans non-competes and creates right to disconnect from work](https://gowlingwlg.com/en/insights-resources/articles/2021/ontario-legislation-bill-27-non-competes/)
