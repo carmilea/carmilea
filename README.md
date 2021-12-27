@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Give the disappointment of an NFT-gift without having to buy one](http://nftgift.info)
+- [Ask HN: How did my LastPass master password get leaked?](https://news.ycombinator.com/item?id=29705957)
+- [New muscle layer discovered on the jaw](https://www.unibas.ch/en/News-Events/News/Uni-Research/New-muscle-layer-discovered-on-the-jaw.html)
 - [Speedcabling](http://schkolne.com/speedcabling/rules.html)
-- [Regression with the C64](https://tensorthings.com/2021/12/27/regression-with-the-c64/)
-- [Decoding James Webb Space Telescope](https://destevez.net/2021/12/decoding-james-webb-space-telescope/)
-- [Luerl – An Implementation of Lua in Erlang](https://github.com/rvirding/luerl)
-- [Show HN: We built an app for reading articles saved for later](https://alfreadapp.com/)
+- [Quick and dirty way to rip an eBook from Android](https://shkspr.mobi/blog/2021/12/quick-and-dirty-way-to-rip-an-ebook-from-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
