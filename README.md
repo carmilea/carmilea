@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do you use HN?](https://news.ycombinator.com/item?id=29697572)
-- [Privacy-focused search engine DuckDuckGo grew by 46% in 2021](https://www.bleepingcomputer.com/news/technology/privacy-focused-search-engine-duckduckgo-grew-by-46-percent-in-2021/)
-- [Mux &lpar;YC W16&rpar; is hiring across the board to build the future of online video](https://mux.com/jobs)
-- [Preventing Log4j with Capabilities](https://justinpombrio.net/2021/12/26/preventing-log4j-with-capabilities.html)
-- [CPM MagnaCut – The Next Breakthrough in Knife Steel](https://knifesteelnerds.com/2021/03/25/cpm-magnacut/)
+- [HyperNeRF](https://hypernerf.github.io/)
+- [Once poor, always poor? – Stears Business](https://www.stearsng.com/article/once-poor-always-poor)
+- [Omicron extensively but incompletely escapes Pfizer BNT162b2 neutralization](https://www.nature.com/articles/d41586-021-03824-5)
+- [Ontario bans non-competes and creates right to disconnect from work](https://gowlingwlg.com/en/insights-resources/articles/2021/ontario-legislation-bill-27-non-competes/)
+- [Risk of myocarditis following sequential COVID-19 vaccinations by age and sex [pdf]](https://www.medrxiv.org/content/10.1101/2021.12.23.21268276v1.full.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
