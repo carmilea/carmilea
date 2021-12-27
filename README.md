@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Luerl – An Implementation of Lua in Erlang](https://github.com/rvirding/luerl)
+- [For some Greenlanders, eating sugar is healthy](https://science.ku.dk/english/press/news/2021/for-some-greenlanders-eating-sugar-is-healthy/)
 - [Ask HN: Favorite Podcast Episode of 2021?](https://news.ycombinator.com/item?id=29703564)
+- [Maybe we could tone down the JavaScript &lpar;2016&rpar;](https://eev.ee/blog/2016/03/06/maybe-we-could-tone-down-the-javascript/)
 - [Supermassive Black Hole Eruption Near Earth Spanning 16 Times Full Moon](https://scitechdaily.com/astronomers-capture-supermassive-black-hole-eruption-near-earth-spanning-16-times-the-full-moon-in-the-sky/)
-- [Italian Courts Find Open Source Software Terms Enforceable](http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable/)
-- [Rack 2 &lpar;Virtual Eurorack&rpar;](https://github.com/VCVRack/Rack)
-- [Ask HN: Please recommend a router without need for a cloud account](https://news.ycombinator.com/item?id=29702844)
 <!-- BLOG-POST-LIST:END -->
 
 ---
