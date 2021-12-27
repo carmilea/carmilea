@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A stochastic method to generate the Sierpinski triangle](https://github.com/ajnirp/stochastic_sierpinski)
+- [Pioneer startup accelerator](https://pioneer.app/)
+- [E.O. Wilson has died](https://www.reuters.com/lifestyle/science/obituary-modern-day-darwin-eo-wilson-dies-92-2021-12-27/)
 - [Simula One vs. Quest 2 vs. Valve Index](https://simulavr.com/blog/vr-comparison/)
 - [Pytudes: Python programs for perfecting particular programming skills](https://github.com/norvig/pytudes)
-- [Ubisoft deleted account with hundreds of dollars’ worth of games for inactivity](https://mmos.com/news/ubisoft-deleted-account-with-hundreds-of-dollars-worth-of-games-for-inactivity)
-- [There&#39;s an ARM Cortex-M4 with Bluetooth inside a Covid test kit](https://twitter.com/Foone/status/1475231857851527169)
-- [HyperNeRF](https://hypernerf.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
