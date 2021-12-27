@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A super-spreading event of Omicron amongst triple-vaccinated healthcare workers](https://www.medrxiv.org/content/10.1101/2021.12.22.21268021v1)
+- [‘Widevine Dump”:Leaked Code Downloads HD Video from Disney+, Amazon, and Netflix](https://torrentfreak.com/widevine-dump-leaked-code-downloads-hd-video-from-disney-amazon-and-netflix-211227/)
 - [OneSignal &lpar;YC S11&rpar; is hiring engineers to work on messaging: Push, SMS, &amp; Email](https://onesignal.com/careers)
+- [Windows 2000 Modernization Guide](https://w2k.phreaknet.org/guide)
 - [A stochastic method to generate the Sierpinski triangle](https://github.com/ajnirp/stochastic_sierpinski)
-- [E.O. Wilson has died](https://www.reuters.com/lifestyle/science/obituary-modern-day-darwin-eo-wilson-dies-92-2021-12-27/)
-- [Ask HN: What is your spiritual practice?](https://news.ycombinator.com/item?id=29700445)
+- [rC3 Fahrplan – The Chaos Communication Congress 2021 schedule](https://rc3.world/2021/public_fahrplan#_)
 <!-- BLOG-POST-LIST:END -->
 
 ---
