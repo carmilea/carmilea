@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Give the disappointment of an NFT-gift without having to buy one](http://nftgift.info)
+- [Compose.ai &lpar;YC W21&rpar; Is Hiring Engineers and Designers](https://composeai.notion.site/Work-at-Compose-AI-f9259f8867b74b0ea8431e872ee9908f)
+- [The Economist tracks excess deaths](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker)
+- [Five takeaways from looking for a new senior role in tech](https://philcalcado.com/2021/12/20/job_hunt.html)
 - [Ask HN: How did my LastPass master password get leaked?](https://news.ycombinator.com/item?id=29705957)
 - [New muscle layer discovered on the jaw](https://www.unibas.ch/en/News-Events/News/Uni-Research/New-muscle-layer-discovered-on-the-jaw.html)
-- [Speedcabling](http://schkolne.com/speedcabling/rules.html)
-- [Quick and dirty way to rip an eBook from Android](https://shkspr.mobi/blog/2021/12/quick-and-dirty-way-to-rip-an-ebook-from-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
