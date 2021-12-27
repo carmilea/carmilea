@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Farewell, University of California – By Aaron Kheriaty, MD](https://aaronkheriaty.substack.com/p/farewell-university-of-california)
+- [The Problem with Ponzis](https://adventuresincapitalism.com/2021/12/27/the-problem-with-ponzis/)
 - [HyperNeRF](https://hypernerf.github.io/)
 - [Once poor, always poor? – Stears Business](https://www.stearsng.com/article/once-poor-always-poor)
 - [Omicron extensively but incompletely escapes Pfizer BNT162b2 neutralization](https://www.nature.com/articles/d41586-021-03824-5)
-- [Ontario bans non-competes and creates right to disconnect from work](https://gowlingwlg.com/en/insights-resources/articles/2021/ontario-legislation-bill-27-non-competes/)
-- [Risk of myocarditis following sequential COVID-19 vaccinations by age and sex [pdf]](https://www.medrxiv.org/content/10.1101/2021.12.23.21268276v1.full.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
