@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do you use HN?](https://news.ycombinator.com/item?id=29697572)
+- [Privacy-focused search engine DuckDuckGo grew by 46% in 2021](https://www.bleepingcomputer.com/news/technology/privacy-focused-search-engine-duckduckgo-grew-by-46-percent-in-2021/)
 - [Mux &lpar;YC W16&rpar; is hiring across the board to build the future of online video](https://mux.com/jobs)
-- [The Absurdity of Renting a Car Will No Longer Be Tolerated](https://www.theatlantic.com/technology/archive/2021/12/car-rental-shortage-covid/621068/)
 - [Preventing Log4j with Capabilities](https://justinpombrio.net/2021/12/26/preventing-log4j-with-capabilities.html)
 - [CPM MagnaCut – The Next Breakthrough in Knife Steel](https://knifesteelnerds.com/2021/03/25/cpm-magnacut/)
-- [Intimate portraits of a hospital Covid unit from a photojournalist-turned-nurse](https://www.npr.org/sections/health-shots/2021/12/26/1066395049/intimate-portraits-of-a-hospital-covid-unit-from-a-photojournalist-turned-nurse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
