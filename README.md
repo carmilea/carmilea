@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Simula One vs. Quest 2 vs. Valve Index](https://simulavr.com/blog/vr-comparison/)
+- [Pytudes: Python programs for perfecting particular programming skills](https://github.com/norvig/pytudes)
 - [Ubisoft deleted account with hundreds of dollars’ worth of games for inactivity](https://mmos.com/news/ubisoft-deleted-account-with-hundreds-of-dollars-worth-of-games-for-inactivity)
 - [There&#39;s an ARM Cortex-M4 with Bluetooth inside a Covid test kit](https://twitter.com/Foone/status/1475231857851527169)
 - [HyperNeRF](https://hypernerf.github.io/)
-- [Ask HN: Good Python projects to read for modern Python?](https://news.ycombinator.com/item?id=29698198)
 <!-- BLOG-POST-LIST:END -->
 
 ---
