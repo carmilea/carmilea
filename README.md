@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Help HN: Stripe shutting us down with 48 hours notice on a holiday skeleton crew](https://news.ycombinator.com/item?id=29712023)
 - [Ask HN: How to find a job in 2021 if I dislike remote?](https://news.ycombinator.com/item?id=29711622)
 - [Rust: Experimental real-time global illumination renderer](https://github.com/EmbarkStudios/kajiya)
 - [Show HN: Distributed Tracing Using OpenTelemetry and ClickHouse](https://github.com/uptrace/uptrace)
 - [Swarm Consensus [pdf]](http://replicated.cc/files/schmebulock.pdf)
-- [Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/babysor/MockingBird)
 <!-- BLOG-POST-LIST:END -->
 
 ---
