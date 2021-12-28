@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there life after death? John Cleese discusses with panel of scientists](https://www.openculture.com/2021/12/is-there-life-after-death-john-cleese-and-a-panel-of-scientists-discuss-that-eternal-question.html)
+- [Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/babysor/MockingBird)
+- [Lua&#39;s Development Style &lpar;2008&rpar;](http://lua-users.org/lists/lua-l/2008-06/msg00407.html)
+- [WhatsApp API will switch to a conversation-based pricing model](https://developers.facebook.com/docs/whatsapp/pricing/conversationpricing/)
 - [Scientists build new atlas of ocean’s oxygen-starved waters](https://news.mit.edu/2021/oxygen-deficient-ocean-map-1227)
-- [Prince of Persia JavaScript](https://princejs.com/)
-- [A Zimbabwean archaeologist reimagines the story of an African civilisation](https://www.economist.com/interactives/christmas-specials/2021/12/18/great-zimbabwe-archaeology)
-- [The purpose of DRM is not to prevent copyright violations &lpar;2013&rpar;](https://web.archive.org/web/20140906214521/https://plus.google.com/+IanHickson/posts/iPmatxBYuj2)
-- [The Mirrortable](https://balajis.com/mirrortable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
