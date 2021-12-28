@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LastPass users warned their master passwords are compromised](https://www.bleepingcomputer.com/news/security/lastpass-users-warned-their-master-passwords-are-compromised/)
+- [Show HN: Bridge Audio Between Mumble and Discord](https://github.com/Stieneee/mumble-discord-bridge)
+- [Every DoorDash employee, from engineers to CEO, will make deliveries](https://www.cnn.com/2021/12/28/business/doordash-all-employees-delivery/index.html)
 - [Ask HN: How does my Instagram keep getting compromised?](https://news.ycombinator.com/item?id=29715989)
 - [Optimizing Postgres Queries at Scale](https://heap.io/blog/optimizing-postgres-queries-at-scale)
-- [Association of e-cigarette use with quitting smoking](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2787453)
-- [YC is hiring a product engineer for our admissions software team](https://www.ycombinator.com/companies/y-combinator/jobs/1x2BVnj-product-engineer-admissions)
-- [‘Hard’ skills from our PhDs remain relevant beyond academia](https://www.nature.com/articles/d41586-021-03756-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
