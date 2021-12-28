@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tardigrades walk like insects 500k times their size](https://arstechnica.com/science/2021/12/nifty-biomechanics-of-adorable-water-bears-lumbering-gait-may-inspire-microrobots/)
 - [Grok {Shan, Shui}*: Advent of understanding the generative art](https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html)
 - [The Quest to Trap Carbon in Stone–and Beat Climate Change](https://www.wired.com/story/the-quest-to-trap-carbon-in-stone-and-beat-climate-change/)
 - [Some Apple Engineers Rewarded Up to $180K in Stock Bonuses as Incentive to Stay](https://www.macrumors.com/2021/12/28/apple-engineers-stock-bonus/)
-- [Down the Rabbit Hole: The world of estranged parents&#39; forums](http://www.issendai.com/psychology/estrangement/index.html)
-- [Personal data should be auto-delete after a few months by default &lpar;2018&rpar;](https://www.ctrl.blog/entry/delete-old-data-gdpr.html)
+- [The Mysterious Bronze Objects That Have Baffled Archeologists for Centuries](https://www.mentalfloss.com/article/514246/are-roman-dodecahedrons-worlds-most-mysterious-artifact)
 <!-- BLOG-POST-LIST:END -->
 
 ---
