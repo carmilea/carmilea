@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s cheaper to stop emitting now than to pull carbon from the air later](https://arstechnica.com/science/2021/12/staying-below-2-c-warming-costs-less-than-overshooting-and-correcting/)
-- [LuaTeX Comes of Age &lpar;2017&rpar;](https://lwn.net/Articles/731581/)
-- [Alexa tells girl to put coin in plug socket](https://www.bbc.co.uk/news/technology-59810383)
-- [Mezli &lpar;YC W21&rpar; – hiring a full-stack SWE to build robot restaurant software](https://www.mezli.com/careers)
-- [Please don&#39;t use Discord for FOSS projects](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
+- [Godot CLI and libs to accelerate your dev &lpar;MIT repo&rpar;](https://github.com/uralys/fox)
+- [FBI document shows what data can be obtained from encrypted messaging apps](https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps/)
+- [Should you contribute open data to OpenStreetMap for free?](https://www.ctrl.blog/entry/re-maps-public-service.html)
+- [Challenging ‘rule breakers’ – children will confront their peers](https://www.plymouth.ac.uk/news/challenging-rule-breakers-children-will-confront-their-peers-but-how-they-do-so-varies-across-cultures)
+- [We Can Finally Do Away with the Accursed Beep-Beep of Heavy Machines](https://www.forbes.com/sites/bradtempleton/2021/12/27/we-can-finally-do-away-with-the-accursed-beep-beep-of-heavy-machinesand-evs-too/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
