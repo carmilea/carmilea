@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2021-44832: New Log4j 2 vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2021-44832)
+- [Revealed: Palantir’s Top-Secret User Manual for Cops](https://www.vice.com/en/article/9kx4z8/revealed-this-is-palantirs-top-secret-user-manual-for-cops)
+- [DoE Spent $1.1B to Build Just 3 Carbon Capture Demos](https://www.enr.com/articles/53336-report-doe-spent-11b-to-build-just-3-carbon-capture-demos)
 - [Tardigrades walk like insects 500k times their size](https://arstechnica.com/science/2021/12/nifty-biomechanics-of-adorable-water-bears-lumbering-gait-may-inspire-microrobots/)
 - [Grok {Shan, Shui}*: Advent of understanding the generative art](https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html)
-- [The Quest to Trap Carbon in Stone–and Beat Climate Change](https://www.wired.com/story/the-quest-to-trap-carbon-in-stone-and-beat-climate-change/)
-- [Some Apple Engineers Rewarded Up to $180K in Stock Bonuses as Incentive to Stay](https://www.macrumors.com/2021/12/28/apple-engineers-stock-bonus/)
-- [The Mysterious Bronze Objects That Have Baffled Archeologists for Centuries](https://www.mentalfloss.com/article/514246/are-roman-dodecahedrons-worlds-most-mysterious-artifact)
 <!-- BLOG-POST-LIST:END -->
 
 ---
