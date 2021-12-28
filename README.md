@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How to find a job in 2021 if I dislike remote?](https://news.ycombinator.com/item?id=29711622)
+- [Rust: Experimental real-time global illumination renderer](https://github.com/EmbarkStudios/kajiya)
 - [Show HN: Distributed Tracing Using OpenTelemetry and ClickHouse](https://github.com/uptrace/uptrace)
-- [Is there life after death? John Cleese discusses with panel of scientists](https://www.openculture.com/2021/12/is-there-life-after-death-john-cleese-and-a-panel-of-scientists-discuss-that-eternal-question.html)
+- [Swarm Consensus [pdf]](http://replicated.cc/files/schmebulock.pdf)
 - [Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/babysor/MockingBird)
-- [GitHub – hackerkid/Mind-Expanding-Books: Books everyone should read](https://github.com/hackerkid/Mind-Expanding-Books)
-- [Lua&#39;s Development Style &lpar;2008&rpar;](http://lua-users.org/lists/lua-l/2008-06/msg00407.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
