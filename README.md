@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mezli &lpar;YC W21&rpar; – hiring a full-stack SWE to build robot restaurant software](https://www.mezli.com/careers)
 - [Please don&#39;t use Discord for FOSS projects](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
 - [Help HN: Stripe shutting us down with 48 hours notice on a holiday skeleton crew](https://news.ycombinator.com/item?id=29712023)
 - [Ask HN: How to find a job in 2021 if I dislike remote?](https://news.ycombinator.com/item?id=29711622)
 - [Rust: Experimental real-time global illumination renderer](https://github.com/EmbarkStudios/kajiya)
-- [Show HN: Distributed Tracing Using OpenTelemetry and ClickHouse](https://github.com/uptrace/uptrace)
 <!-- BLOG-POST-LIST:END -->
 
 ---
