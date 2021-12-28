@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists build new atlas of ocean’s oxygen-starved waters](https://news.mit.edu/2021/oxygen-deficient-ocean-map-1227)
 - [Prince of Persia JavaScript](https://princejs.com/)
 - [A Zimbabwean archaeologist reimagines the story of an African civilisation](https://www.economist.com/interactives/christmas-specials/2021/12/18/great-zimbabwe-archaeology)
+- [The purpose of DRM is not to prevent copyright violations &lpar;2013&rpar;](https://web.archive.org/web/20140906214521/https://plus.google.com/+IanHickson/posts/iPmatxBYuj2)
 - [The Mirrortable](https://balajis.com/mirrortable/)
-- [Systems Software Research is Irrelevant [pdf]](http://herpolhode.com/rob/utah2000.pdf)
-- [Japan&#39;s Paper Culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998)
 <!-- BLOG-POST-LIST:END -->
 
 ---
