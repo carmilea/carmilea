@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LastPass users warned their master passwords are compromised](https://www.bleepingcomputer.com/news/security/lastpass-users-warned-their-master-passwords-are-compromised/)
-- [Show HN: Bridge Audio Between Mumble and Discord](https://github.com/Stieneee/mumble-discord-bridge)
-- [Every DoorDash employee, from engineers to CEO, will make deliveries](https://www.cnn.com/2021/12/28/business/doordash-all-employees-delivery/index.html)
-- [Ask HN: How does my Instagram keep getting compromised?](https://news.ycombinator.com/item?id=29715989)
-- [Optimizing Postgres Queries at Scale](https://heap.io/blog/optimizing-postgres-queries-at-scale)
+- [Grok {Shan, Shui}*: Advent of understanding the generative art](https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html)
+- [The Quest to Trap Carbon in Stone–and Beat Climate Change](https://www.wired.com/story/the-quest-to-trap-carbon-in-stone-and-beat-climate-change/)
+- [Some Apple Engineers Rewarded Up to $180K in Stock Bonuses as Incentive to Stay](https://www.macrumors.com/2021/12/28/apple-engineers-stock-bonus/)
+- [Down the Rabbit Hole: The world of estranged parents&#39; forums](http://www.issendai.com/psychology/estrangement/index.html)
+- [Personal data should be auto-delete after a few months by default &lpar;2018&rpar;](https://www.ctrl.blog/entry/delete-old-data-gdpr.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
