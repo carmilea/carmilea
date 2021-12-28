@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YC is hiring a product engineer for our admissions software team](https://www.ycombinator.com/companies/y-combinator/jobs/1x2BVnj-product-engineer-admissions)
+- [‘Hard’ skills from our PhDs remain relevant beyond academia](https://www.nature.com/articles/d41586-021-03756-0)
 - [Gobolinux : Redefining Linux filesystem hierarchy](https://gobolinux.org/)
+- [Closed-loop geothermal energy recovery from deep high enthalpy systems](https://www.sciencedirect.com/science/article/pii/S0960148121008922)
 - [Lead-Cooled Fast Reactor Proliferation Resistance White Paper 2021](https://www.gen-4.org/gif/jcms/c_196726/lfr-prpp-white-paper-2021-final-22102021-clean2?details=true)
-- [GnuPG used to ask for your support to help protect online privacy](https://gnupg.org/donate/index.html)
-- [Godot CLI and libs to accelerate your dev &lpar;MIT repo&rpar;](https://github.com/uralys/fox)
-- [FBI document shows what data can be obtained from encrypted messaging apps](https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
