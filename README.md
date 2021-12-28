@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gobolinux : Redefining Linux filesystem hierarchy](https://gobolinux.org/)
+- [Lead-Cooled Fast Reactor Proliferation Resistance White Paper 2021](https://www.gen-4.org/gif/jcms/c_196726/lfr-prpp-white-paper-2021-final-22102021-clean2?details=true)
+- [GnuPG used to ask for your support to help protect online privacy](https://gnupg.org/donate/index.html)
 - [Godot CLI and libs to accelerate your dev &lpar;MIT repo&rpar;](https://github.com/uralys/fox)
 - [FBI document shows what data can be obtained from encrypted messaging apps](https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps/)
-- [Should you contribute open data to OpenStreetMap for free?](https://www.ctrl.blog/entry/re-maps-public-service.html)
-- [Challenging ‘rule breakers’ – children will confront their peers](https://www.plymouth.ac.uk/news/challenging-rule-breakers-children-will-confront-their-peers-but-how-they-do-so-varies-across-cultures)
-- [We Can Finally Do Away with the Accursed Beep-Beep of Heavy Machines](https://www.forbes.com/sites/bradtempleton/2021/12/27/we-can-finally-do-away-with-the-accursed-beep-beep-of-heavy-machinesand-evs-too/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
