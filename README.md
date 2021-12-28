@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Distributed Tracing Using OpenTelemetry and ClickHouse](https://github.com/uptrace/uptrace)
 - [Is there life after death? John Cleese discusses with panel of scientists](https://www.openculture.com/2021/12/is-there-life-after-death-john-cleese-and-a-panel-of-scientists-discuss-that-eternal-question.html)
 - [Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/babysor/MockingBird)
+- [GitHub – hackerkid/Mind-Expanding-Books: Books everyone should read](https://github.com/hackerkid/Mind-Expanding-Books)
 - [Lua&#39;s Development Style &lpar;2008&rpar;](http://lua-users.org/lists/lua-l/2008-06/msg00407.html)
-- [WhatsApp API will switch to a conversation-based pricing model](https://developers.facebook.com/docs/whatsapp/pricing/conversationpricing/)
-- [Scientists build new atlas of ocean’s oxygen-starved waters](https://news.mit.edu/2021/oxygen-deficient-ocean-map-1227)
 <!-- BLOG-POST-LIST:END -->
 
 ---
