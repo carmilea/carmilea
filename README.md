@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2021-44832: New Log4j 2 vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2021-44832)
-- [Revealed: Palantir’s Top-Secret User Manual for Cops](https://www.vice.com/en/article/9kx4z8/revealed-this-is-palantirs-top-secret-user-manual-for-cops)
-- [DoE Spent $1.1B to Build Just 3 Carbon Capture Demos](https://www.enr.com/articles/53336-report-doe-spent-11b-to-build-just-3-carbon-capture-demos)
+- [Cyberattack on one of Norway’s largest media companies shuts down presses](https://www-therecord.recfut.com/cyberattack-on-one-of-norways-largest-media-companies-shuts-down-presses/)
+- [New Log4j2 vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2021-44832)
+- [Tools to Download Netflix / Disney / Apple TV Content](https://github.com/widevinedump)
+- [Rounds of the Prado](https://hudsonreview.com/2021/05/rounds-of-the-prado-the-place-of-painting/)
 - [Tardigrades walk like insects 500k times their size](https://arstechnica.com/science/2021/12/nifty-biomechanics-of-adorable-water-bears-lumbering-gait-may-inspire-microrobots/)
-- [Grok {Shan, Shui}*: Advent of understanding the generative art](https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
