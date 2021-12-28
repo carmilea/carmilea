@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Unearthing the truth &lpar;about Great Zimbabwe&rpar;](https://www.economist.com/interactives/christmas-specials/2021/12/18/great-zimbabwe-archaeology)
+- [Prince of Persia JavaScript](https://princejs.com/)
+- [A Zimbabwean archaeologist reimagines the story of an African civilisation](https://www.economist.com/interactives/christmas-specials/2021/12/18/great-zimbabwe-archaeology)
 - [The Mirrortable](https://balajis.com/mirrortable/)
 - [Systems Software Research is Irrelevant [pdf]](http://herpolhode.com/rob/utah2000.pdf)
-- [Ask HN: Is This Parenting or Scrum?](https://news.ycombinator.com/item?id=29709736)
 - [Japan&#39;s Paper Culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998)
 <!-- BLOG-POST-LIST:END -->
 
