@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is This Parenting or Scrum?](https://news.ycombinator.com/item?id=29709736)
+- [Japan&#39;s Paper Culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998)
+- [Alexa suggests lethal challenge to child](https://twitter.com/klivdahl/status/1475220450598924297)
 - [The FDA&#39;s Restrictive Regulation of Home-Testing Devices](https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=3914&context=dlj)
 - [Collection of V.90/V.92 modem sounds &lpar;2016&rpar;](https://goughlui.com/2016/05/03/project-the-definitive-collection-of-v-90v-92-modem-sounds/)
-- [AWS Ground Station](https://aws.amazon.com/ground-station/)
-- [The State of External Retina Displays](https://www.caseyliss.com/2021/12/7/monitor-liss)
-- [Compose.ai &lpar;YC W21&rpar; Is Hiring Engineers and Designers](https://composeai.notion.site/Work-at-Compose-AI-f9259f8867b74b0ea8431e872ee9908f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
