@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What are some good rust code to read to learn the language?](https://news.ycombinator.com/item?id=29723455)
+- [LastPass says no passwords were compromised following breach scare](https://www.theverge.com/2021/12/28/22857485/lastpass-compromised-breach-scare)
 - [This Year in Embedded Rust: 2021 edition](https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/)
 - [Brazillian businessman built a giant perpetual engine](https://web.archive.org/web/20161016224631/https://rarenergia.com.br/)
 - [A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev)
-- [SigNoz &lpar;YC W21&rpar; Is Hiring Senior Go Engineers to Build Open Source APM](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-sr-software-engineer-go)
-- [A realization of why email is critical infrastructure for the Internet](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailCriticalInfrastructure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
