@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Satoshi Leaked His Los Angeles IP Address](https://whoissatoshi.wordpress.com/2016/02/20/satoshi-in-california/)
-- [Public Domain Day 2022](https://web.law.duke.edu/cspd/publicdomainday/2022/)
-- [Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
-- [GCC: The customer has nuclear weapons. They do not do “bounty”](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95644#c4)
-- [ArduCAM High Resolution Autofocus Camera Module for Raspberry Pi](https://lemariva.com/blog/2021/12/raspberry-pi-powerful-usd25-camera-high-resolution-and-autofocus)
+- [Show HN: I learnt how to use WebSockets, made something beautiful/terrible](https://www.walloftext.art/)
+- [Tetr.io](https://tetr.io/)
+- [VLISP: A Verified Implementation of Scheme [pdf]](http://mirror.informatimago.com/scheme/repository.readscheme.org/ftp/papers/vlisp-lasc/vlisp.pdf)
+- [The bizarre Monowheel seen through vintage photographs](https://rarehistoricalphotos.com/monowheel-historical-photos/)
+- [Satoshi Leaked His Los Angeles IP Address &lpar;2016&rpar;](https://whoissatoshi.wordpress.com/2016/02/20/satoshi-in-california/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
