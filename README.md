@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Says Webb’s Excess Fuel Likely to Extend Its Lifetime Expectations](https://blogs.nasa.gov/webb/2021/12/29/nasa-says-webbs-excess-fuel-likely-to-extend-its-lifetime-expectations/)
-- [Using GroupBy on an array of objects in JavaScript](https://www.wisdomgeek.com/development/web-development/javascript/using-groupby-on-an-array-of-objects-in-javascript/)
-- [Amazon’s Alexa assistant told a child to do a potentially lethal challenge](https://www.cnbc.com/2021/12/29/amazons-alexa-told-a-child-to-do-a-potentially-lethal-challenge.html)
-- [Facebook Said My Article Was False. Now the Fact-Checkers Admit They Were Wrong](https://reason.com/2021/12/29/facebook-masks-false-information-science-feedback-wrong-covid/)
-- [Ketamine Therapy Is Going Mainstream. Are We Ready?](https://www.newyorker.com/culture/annals-of-inquiry/ketamine-therapy-is-going-mainstream-are-we-ready)
+- [Ask HN: How should I use my $2000 training budget before end of year?](https://news.ycombinator.com/item?id=29726779)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=29726723)
+- [Microsoft Buys AT&amp;T&#39;s Advanced Advertising Business](https://www.fiercevideo.com/video/microsoft-buys-xandr-atts-advanced-advertising-business)
+- [Show HN: Canada Posts systems to be down for 6 hours of “unplanned maintenance”](https://status.canadapost.ca/)
+- [Emacs for You – A 72 line –/.emacs to quickly set up vanilla Emacs for editing](https://github.com/susam/emfy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
