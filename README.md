@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [This Year in Embedded Rust: 2021 edition](https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/)
+- [Brazillian businessman built a giant perpetual engine](https://web.archive.org/web/20161016224631/https://rarenergia.com.br/)
 - [A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev)
 - [SigNoz &lpar;YC W21&rpar; Is Hiring Senior Go Engineers to Build Open Source APM](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-sr-software-engineer-go)
 - [A realization of why email is critical infrastructure for the Internet](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailCriticalInfrastructure)
-- [Bass – Lisp dialect for scripting the infrastructure beneath your project](https://bass-lang.org/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
