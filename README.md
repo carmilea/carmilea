@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The world’s biggest offshore wind farm, Hornsea 2, generates first power](https://orsted.com/en/media/newsroom/news/2021/12/20211220460511)
-- [Ask HN: Has remote work made you move to a new location or consider it?](https://news.ycombinator.com/item?id=29724108)
-- [Clerky is hiring senior full-stack software engineers &lpar;Ruby on Rails&rpar;](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64)
-- [Hong Kong pro-democracy Stand News shuts down after police raid, arrests](https://www.reuters.com/business/media-telecom/hong-kong-police-arrest-6-current-or-former-staff-online-media-outlet-2021-12-28/)
-- [When Wikileaks bumped into the CIA: Operation Kudo exposed [video]](https://streaming.media.ccc.de/rc3/relive/409)
+- [How I Was Unbanned from Hacker News &lpar;2013&rpar;](https://www.aha.io/blog/how-i-was-unbanned-from-hacker-news)
+- [What does 2022 have in store for cybersecurity and cloud security specialists?](https://cast.ai/blog/what-does-2022-have-in-store-for-cybersecurity-and-cloud-security-specialists/)
+- [Wargames can help you to learn and practice security concepts through games](https://overthewire.org/wargames/)
+- [DuckDuckGo&#39;s daily search queries surpassed 100M, a 47% increase](https://en.brinkwire.com/technology/duckduckgos-daily-search-queries-have-surpassed-100-million-with-a-47-increase-expected-in-2021/)
+- [Exploring the software that flies SpaceX rockets and Starships](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
