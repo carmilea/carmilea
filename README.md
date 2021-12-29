@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [This Year in Embedded Rust: 2021 edition](https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/)
+- [A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev)
 - [SigNoz &lpar;YC W21&rpar; Is Hiring Senior Go Engineers to Build Open Source APM](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-sr-software-engineer-go)
+- [A realization of why email is critical infrastructure for the Internet](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailCriticalInfrastructure)
 - [Bass – Lisp dialect for scripting the infrastructure beneath your project](https://bass-lang.org/index.html)
-- [glibc is still not Y2038 compliant by default](https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/)
-- [LaTeX Finite Automata and State Diagrams with Tikz](https://hayesall.com/blog/latex-automata/)
-- [The year in math and computer science](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
