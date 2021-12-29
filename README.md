@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Python, unlike C, has the mod operator always return a positive number](https://twitter.com/ID_AA_Carmack/status/1476294133975240712)
+- [The SQLite Amalgamation](https://www.sqlite.org/amalgamation.html)
 - [Show HN: I learnt how to use WebSockets, made something beautiful/terrible](https://www.walloftext.art/)
-- [Tetr.io](https://tetr.io/)
-- [VLISP: A Verified Implementation of Scheme [pdf]](http://mirror.informatimago.com/scheme/repository.readscheme.org/ftp/papers/vlisp-lasc/vlisp.pdf)
-- [The bizarre Monowheel seen through vintage photographs](https://rarehistoricalphotos.com/monowheel-historical-photos/)
-- [Satoshi Leaked His Los Angeles IP Address &lpar;2016&rpar;](https://whoissatoshi.wordpress.com/2016/02/20/satoshi-in-california/)
+- [FAA investigating controversial crash video](https://www.avweb.com/aviation-news/plane-crash-video-sparks-online-backlash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
