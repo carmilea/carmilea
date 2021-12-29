@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Satoshi Leaked His Los Angeles IP Address](https://whoissatoshi.wordpress.com/2016/02/20/satoshi-in-california/)
+- [Public Domain Day 2022](https://web.law.duke.edu/cspd/publicdomainday/2022/)
+- [Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
 - [GCC: The customer has nuclear weapons. They do not do “bounty”](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95644#c4)
-- [Why Web3?](https://avc.com/2021/12/why-web3/)
-- [A Texas School District Banned My Book. Then Things Got Ugly](https://www.texasmonthly.com/news-politics/texas-school-district-banned-my-book/)
 - [ArduCAM High Resolution Autofocus Camera Module for Raspberry Pi](https://lemariva.com/blog/2021/12/raspberry-pi-powerful-usd25-camera-high-resolution-and-autofocus)
-- [Apple gives top engineers bonuses up of $180k to curtail defections to Meta[..]](https://www.latimes.com/business/story/2021-12-28/apple-aims-to-prevent-defections-to-meta-with-180-000-bonuses-for-top-talent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
