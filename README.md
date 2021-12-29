@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Talk About Autism Respectfully](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/how-to-talk-about-autism-respectfully-84)
+- [Underground Cellar &lpar;YC W15&rpar; Is Hiring a Mobile Engineer &lpar;React Native&rpar;](https://jobs.lever.co/undergroundcellar/562bd3f4-2b93-44d2-ac57-764cf5a614c5)
+- [54% of adults in the United States have prose literacy below the 6th-grade level](https://en.wikipedia.org/wiki/Literacy_in_the_United_States)
 - [You Can&#39;t Win](https://kylepoyar.substack.com/p/you-cant-win)
-- [From the File of Bad Ideas: Banning unknown drugs with &quot;Machine Learning&quot;](https://undark.org/2021/12/29/how-ai-could-prevent-the-development-of-new-illicit-drugs/)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [Python, unlike C, has the mod operator always return a positive number](https://twitter.com/ID_AA_Carmack/status/1476294133975240712)
-- [Show HN: I learnt how to use WebSockets, made something beautiful/terrible](https://www.walloftext.art/)
+- [Go CheckLocks Analyzer](https://github.com/google/gvisor/tree/master/tools/checklocks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
