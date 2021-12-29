@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The world’s biggest offshore wind farm, Hornsea 2, generates first power](https://orsted.com/en/media/newsroom/news/2021/12/20211220460511)
 - [Ask HN: Has remote work made you move to a new location or consider it?](https://news.ycombinator.com/item?id=29724108)
 - [Clerky is hiring senior full-stack software engineers &lpar;Ruby on Rails&rpar;](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64)
 - [Hong Kong pro-democracy Stand News shuts down after police raid, arrests](https://www.reuters.com/business/media-telecom/hong-kong-police-arrest-6-current-or-former-staff-online-media-outlet-2021-12-28/)
-- [Ask HN: What are some good rust code to read to learn the language?](https://news.ycombinator.com/item?id=29723455)
-- [When WikiLeaks bumped into the CIA: Operation Kudo exposed [0:19:27]](https://streaming.media.ccc.de/rc3/relive/409)
+- [When Wikileaks bumped into the CIA: Operation Kudo exposed [video]](https://streaming.media.ccc.de/rc3/relive/409)
 <!-- BLOG-POST-LIST:END -->
 
 ---
