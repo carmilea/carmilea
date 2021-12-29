@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [LaTeX Finite Automata and State Diagrams with Tikz](https://hayesall.com/blog/latex-automata/)
 - [Miso &lpar;YC S16&rpar; Is Hiring in Seoul, Korea](https://www.workatastartup.com/companies/miso)
-- [The Year in Math and Computer Science](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/)
+- [The year in math and computer science](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/)
 - [Ask HN: Why doesn&#39;t YC list compensation for their own open positions?](https://news.ycombinator.com/item?id=29720803)
-- [Tech Won’t Save Us. Shrinking Consumption Will](https://thetyee.ca/Analysis/2021/11/03/Tech-Will-Not-Save-Us-Shrinking-Consumption-Will/)
 - [Oven Stoves and Heat Walls &lpar;2008&rpar;](https://www.lowtechmagazine.com/2008/12/tile-stoves.html)
 <!-- BLOG-POST-LIST:END -->
 
