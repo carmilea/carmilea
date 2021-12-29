@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [glibc is still not Y2038 compliant by default](https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/)
 - [LaTeX Finite Automata and State Diagrams with Tikz](https://hayesall.com/blog/latex-automata/)
 - [Miso &lpar;YC S16&rpar; Is Hiring in Seoul, Korea](https://www.workatastartup.com/companies/miso)
 - [The year in math and computer science](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/)
 - [Ask HN: Why doesn&#39;t YC list compensation for their own open positions?](https://news.ycombinator.com/item?id=29720803)
-- [Oven Stoves and Heat Walls &lpar;2008&rpar;](https://www.lowtechmagazine.com/2008/12/tile-stoves.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
