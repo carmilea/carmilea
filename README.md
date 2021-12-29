@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Was Unbanned from Hacker News &lpar;2013&rpar;](https://www.aha.io/blog/how-i-was-unbanned-from-hacker-news)
+- [US foreign policy is driven mostly by short-term politics, not coherent strategy](https://richardhanania.substack.com/p/new-book-public-choice-theory-and)
 - [What does 2022 have in store for cybersecurity and cloud security specialists?](https://cast.ai/blog/what-does-2022-have-in-store-for-cybersecurity-and-cloud-security-specialists/)
+- [Three Ways of Generating Terrain with Erosion Features](https://github.com/dandrino/terrain-erosion-3-ways)
 - [Wargames can help you to learn and practice security concepts through games](https://overthewire.org/wargames/)
 - [DuckDuckGo&#39;s daily search queries surpassed 100M, a 47% increase](https://en.brinkwire.com/technology/duckduckgos-daily-search-queries-have-surpassed-100-million-with-a-47-increase-expected-in-2021/)
-- [Exploring the software that flies SpaceX rockets and Starships](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
