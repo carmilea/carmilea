@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How should I use my $2000 training budget before end of year?](https://news.ycombinator.com/item?id=29726779)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=29726723)
-- [Microsoft Buys AT&amp;T&#39;s Advanced Advertising Business](https://www.fiercevideo.com/video/microsoft-buys-xandr-atts-advanced-advertising-business)
-- [Show HN: Canada Posts systems to be down for 6 hours of “unplanned maintenance”](https://status.canadapost.ca/)
-- [Emacs for You – A 72 line –/.emacs to quickly set up vanilla Emacs for editing](https://github.com/susam/emfy)
+- [GCC: The customer has nuclear weapons. They do not do “bounty”](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95644#c4)
+- [Why Web3?](https://avc.com/2021/12/why-web3/)
+- [A Texas School District Banned My Book. Then Things Got Ugly](https://www.texasmonthly.com/news-politics/texas-school-district-banned-my-book/)
+- [ArduCAM High Resolution Autofocus Camera Module for Raspberry Pi](https://lemariva.com/blog/2021/12/raspberry-pi-powerful-usd25-camera-high-resolution-and-autofocus)
+- [Apple gives top engineers bonuses up of $180k to curtail defections to Meta[..]](https://www.latimes.com/business/story/2021-12-28/apple-aims-to-prevent-defections-to-meta-with-180-000-bonuses-for-top-talent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
