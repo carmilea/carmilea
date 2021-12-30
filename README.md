@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Salt water lamp WaterLight set to power communities without electricity](https://www.designweek.co.uk/issues/12-18-april-2021/waterlight/)
+- [Ask HN: What’s the Most Outrageous Belief You’re Confident Is True?](https://news.ycombinator.com/item?id=29733026)
+- [The Black Sky Event](https://theblackskyevent.com/)
 - [Experimental depression treatment is nearly 80% effective in controlled study](https://med.stanford.edu/news/all-news/2021/10/depression-treatment.html)
 - [Databases in 2021: A Year in Review](https://ottertune.com/blog/2021-databases-retrospective/)
 - [Implant.ARM.iLOBleed.a](https://threats.amnpardaz.com/en/2021/12/28/implant-arm-ilobleed-a/)
-- [Underground Cellar &lpar;YC W15&rpar; Is Hiring a Mobile Engineer &lpar;React Native&rpar;](https://jobs.lever.co/undergroundcellar/562bd3f4-2b93-44d2-ac57-764cf5a614c5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
