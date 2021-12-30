@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Playable English Localizations of Slovak Digital Games from the Late 80s Period](https://scd.sk/clanky/playable-english-localizations-of-slovak-digital-games-from-the-late-80s-period/)
-- [Scientists have created the darkness measure, D score, for how dark you are](https://darkfactor.org/)
-- [Handbook of Graph Drawing and Visualization](https://cs.brown.edu/people/rtamassi/gdhandbook/)
-- [Webster’s 1913 Dictionary for macOS](https://github.com/cmod/websters-1913)
-- [The quest to build a general-purpose thought decoder](https://www.newyorker.com/magazine/2021/12/06/the-science-of-mind-reading)
+- [Bad characters: imperceptible Natural Language Processing attacks [pdf]](https://arxiv.org/abs/2106.09898)
+- [Browse the web like its 1999](https://oldweb.today/)
+- [You’re probably using the wrong dictionary &lpar;2014&rpar;](https://jsomers.net/blog/dictionary)
+- [Exposure to plastics during pregnancy can raise blood pressure](http://www.publichealth.columbia.edu/public-health-now/news/exposure-plastics-during-pregnancy-can-raise-blood-pressure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
