@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Women force change at Indian iPhone plant](https://www.reuters.com/world/india/women-force-change-indian-iphone-plant-sick-bad-food-crowded-dorms-2021-12-30/)
+- [An mRNA-based anti-tick vaccine catches ticks red-handed](https://www.science.org/doi/10.1126/scitranslmed.abm2504)
 - [SQL language proposal: JOIN FOREIGN](https://gist.github.com/joelonsql/15b50b65ec343dce94db6249cfea8aaa)
 - [Show HN: Pystitcher – A Declarative Alternative to Pdftk](https://github.com/captn3m0/pystitcher)
 - [Germany: Data retention to be abolished once and for all](https://tutanota.com/blog/posts/data-retention-germany/)
-- [New Year, New Industry: Flexport Is Hiring](https://flexport.com/careers)
-- [Sega accidentally published AWS credentials as part of major cloud breach](https://vpnoverview.com/news/sega-europe-suffers-major-security-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
