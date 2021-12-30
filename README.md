@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A fast SQLite PWA notebook for CSV files](https://dirtylittlesql.com)
+- [Table Oriented Programming &lpar;2002&rpar;](https://web.archive.org/web/20121024051826/http://www.geocities.com/tablizer/top.htm)
 - [Northvolt assembles first lithium-ion battery cell at Swedish gigafactory](https://northvolt.com/articles/first-cell/)
 - [Winnie-the-Pooh, Ernest Hemingway Classic Enter the Public Domain on January 1](https://www.smithsonianmag.com/smart-news/whats-entering-the-public-domain-on-january-1-winnie-pooh-ernest-hemingway-180979299/)
 - [Silero VAD: pre-trained enterprise-grade voice activity detector](https://github.com/snakers4/silero-vad)
-- [Anonymized data is rarely anonymous](https://flowingdata.com/2021/12/29/anonymized-data-is-rarely-anonymous/)
-- [Category Theory: Lecture Notes and Online Books](https://www.logicmatters.net/categories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
