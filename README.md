@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Skio is hiring founding engineers &lpar;$150-300k, lots of equity&rpar;](https://skio.com/careers)
-- [Big Cars Are Killing Americans](https://www.theatlantic.com/ideas/archive/2021/12/suvs-trucks-killing-pedestrians-cyclists/621102/)
-- [Deepfake detection by human crowds, machines, and machine-informed crowds](https://www.pnas.org/content/119/1/e2110013119)
-- [Women force change at Indian iPhone plant](https://www.reuters.com/world/india/women-force-change-indian-iphone-plant-sick-bad-food-crowded-dorms-2021-12-30/)
-- [Children&#39;s Risk of Serious Illness from Covid-19 Is as Low as It Is for the Flu](https://www.npr.org/sections/health-shots/2021/05/25/997467734/childrens-risk-of-serious-illness-from-covid-19-is-as-low-as-it-is-for-the-flu)
+- [The curious history of the clothespeg &lpar;2016&rpar;](https://medium.economist.com/the-curious-history-of-the-clothespeg-3f8615519c61?gi=5c6e0f307927)
+- [Copy Protection in Modern Microcontrollers &lpar;2001&rpar;](https://www.cl.cam.ac.uk/~sps32/mcu_lock.html)
+- [Tesla recalls nearly half a million Model 3 and Model S cars](https://www.theverge.com/2021/12/30/22859717/tesla-model-3-s-recall-trunk-latch-failure-nhtsa)
+- [Skio &lpar;YC S20&rpar; is hiring founding engineers](https://skio.com/careers)
+- [Tesla recalls almost half a million electric cars over safety issues](https://www.reuters.com/business/autos-transportation/tesla-recalls-over-475000-electric-vehicles-2021-12-30/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
