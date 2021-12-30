@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Long Now Years: Five-Digit Dates and Y10K-Compliance at Home &lpar;02013&rpar;](https://longnow.org/ideas/02013/12/31/long-now-years-five-digit-dates-and-10k-compliance-at-home/)
+- [On Emacs 28’ context menu and Unix mouse-usage in general](https://ruzkuku.com/texts/emacs-mouse.html)
 - [Why Can’t You Design Noise in Frequency Space?](https://blog.demofox.org/2021/12/29/why-cant-you-design-noise-in-frequency-space/)
 - [Changes in Dutch streets throughout the years &lpar;photo album&rpar;](https://imgur.com/a/rffE0Oz)
 - [Taloflow &lpar;YC W21&rpar; Is Hiring a Dev Tools Research Manager](https://www.ycombinator.com/companies/taloflow/jobs/vgV6Yzv-dev-tools-research-manager)
-- [A fast SQLite PWA notebook for CSV files](https://dirtylittlesql.com)
-- [Table Oriented Programming &lpar;2002&rpar;](https://web.archive.org/web/20121024051826/http://www.geocities.com/tablizer/top.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
