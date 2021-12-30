@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Talk About Autism Respectfully](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/how-to-talk-about-autism-respectfully-84)
+- [Experimental depression treatment is nearly 80% effective in controlled study](https://med.stanford.edu/news/all-news/2021/10/depression-treatment.html)
+- [Implant.ARM.iLOBleed.a](https://threats.amnpardaz.com/en/2021/12/28/implant-arm-ilobleed-a/)
 - [Underground Cellar &lpar;YC W15&rpar; Is Hiring a Mobile Engineer &lpar;React Native&rpar;](https://jobs.lever.co/undergroundcellar/562bd3f4-2b93-44d2-ac57-764cf5a614c5)
 - [54% of adults in the United States have prose literacy below the 6th-grade level](https://en.wikipedia.org/wiki/Literacy_in_the_United_States)
 - [You Can&#39;t Win](https://kylepoyar.substack.com/p/you-cant-win)
-- [Go CheckLocks Analyzer](https://github.com/google/gvisor/tree/master/tools/checklocks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
