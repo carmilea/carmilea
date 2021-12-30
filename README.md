@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepfake detection by human crowds, machines, and machine-informed crowds](https://www.pnas.org/content/119/1/e2110013119)
 - [Women force change at Indian iPhone plant](https://www.reuters.com/world/india/women-force-change-indian-iphone-plant-sick-bad-food-crowded-dorms-2021-12-30/)
-- [An mRNA-based anti-tick vaccine catches ticks red-handed](https://www.science.org/doi/10.1126/scitranslmed.abm2504)
-- [SQL language proposal: JOIN FOREIGN](https://gist.github.com/joelonsql/15b50b65ec343dce94db6249cfea8aaa)
-- [Show HN: Pystitcher – A Declarative Alternative to Pdftk](https://github.com/captn3m0/pystitcher)
-- [Germany: Data retention to be abolished once and for all](https://tutanota.com/blog/posts/data-retention-germany/)
+- [Children&#39;s Risk of Serious Illness from Covid-19 Is as Low as It Is for the Flu](https://www.npr.org/sections/health-shots/2021/05/25/997467734/childrens-risk-of-serious-illness-from-covid-19-is-as-low-as-it-is-for-the-flu)
+- [Gas tanker hit by super-yacht sinks off New Providence](http://www.tribune242.com/news/2021/dec/27/tanker-hit-super-yacht-sinks-new-providence/)
+- [An mRNA-based anti-tick vaccine](https://www.science.org/doi/10.1126/scitranslmed.abm2504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
