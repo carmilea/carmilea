@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Darker Side of Aaron Swartz](https://www.newyorker.com/magazine/2013/03/11/requiem-for-a-dream)
-- [DeepCreamPy- Decensoring Hentai with Deep Neural Networks](https://github.com/liaoxiong3x/DeepCreamPy)
-- [Long Now Years: Five-Digit Dates and Y10K-Compliance at Home &lpar;02013&rpar;](https://longnow.org/ideas/02013/12/31/long-now-years-five-digit-dates-and-10k-compliance-at-home/)
-- [On Emacs 28’ context menu and Unix mouse-usage in general](https://ruzkuku.com/texts/emacs-mouse.html)
-- [Why Can’t You Design Noise in Frequency Space?](https://blog.demofox.org/2021/12/29/why-cant-you-design-noise-in-frequency-space/)
+- [LastPass blog: Unusual Login Activity was due to bug](https://blog.lastpass.com/2021/12/unusual-attempted-login-activity-how-lastpass-protects-you/)
+- [Idiocracy: A disturbingly prophetic look at the future](https://www.theguardian.com/culture/2021/jul/19/idiocracy-a-disturbingly-prophetic-look-at-the-future-of-america-and-our-era-of-stupidity)
+- [The Darker Side of Aaron Swartz &lpar;2013&rpar;](https://www.newyorker.com/magazine/2013/03/11/requiem-for-a-dream)
+- [A Minimal GUI WEB browser – Financed through donations – Actively developed](https://textbrowser.github.io/dooble/)
+- [DeepCreamPy- Decensoring Hentai with Deep Neural Networks &lpar;2018&rpar;](https://github.com/liaoxiong3x/DeepCreamPy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
