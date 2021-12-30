@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [LastPass blog: Unusual Login Activity was due to bug](https://blog.lastpass.com/2021/12/unusual-attempted-login-activity-how-lastpass-protects-you/)
-- [Idiocracy: A disturbingly prophetic look at the future](https://www.theguardian.com/culture/2021/jul/19/idiocracy-a-disturbingly-prophetic-look-at-the-future-of-america-and-our-era-of-stupidity)
-- [The Darker Side of Aaron Swartz &lpar;2013&rpar;](https://www.newyorker.com/magazine/2013/03/11/requiem-for-a-dream)
-- [A Minimal GUI WEB browser – Financed through donations – Actively developed](https://textbrowser.github.io/dooble/)
-- [DeepCreamPy- Decensoring Hentai with Deep Neural Networks &lpar;2018&rpar;](https://github.com/liaoxiong3x/DeepCreamPy)
+- [New Year, New Industry: Flexport Is Hiring](https://flexport.com/careers)
+- [Sega accidentally published AWS credentials as part of major cloud breach](https://vpnoverview.com/news/sega-europe-suffers-major-security-breach/)
+- [Tokyo police lose 2 floppy disks containing personal info on citizens](https://mainichi.jp/english/articles/20211227/p2a/00m/0na/072000c)
+- [Court blocks Inglewood from destroying police records](https://www.latimes.com/california/story/2021-12-29/inglewood-blocked-from-destroying-police-disciplinary-records)
+- [Stanford requires booster shots for all students](https://studentaffairs.stanford.edu/resources-our-communities/covid-19-guidance-students/winter-break-return-testing-guide/booster-shot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
