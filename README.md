@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Can’t You Design Noise in Frequency Space?](https://blog.demofox.org/2021/12/29/why-cant-you-design-noise-in-frequency-space/)
+- [Changes in Dutch streets throughout the years &lpar;photo album&rpar;](https://imgur.com/a/rffE0Oz)
 - [Taloflow &lpar;YC W21&rpar; Is Hiring a Dev Tools Research Manager](https://www.ycombinator.com/companies/taloflow/jobs/vgV6Yzv-dev-tools-research-manager)
 - [A fast SQLite PWA notebook for CSV files](https://dirtylittlesql.com)
 - [Table Oriented Programming &lpar;2002&rpar;](https://web.archive.org/web/20121024051826/http://www.geocities.com/tablizer/top.htm)
-- [Northvolt assembles first lithium-ion battery cell at Swedish gigafactory](https://northvolt.com/articles/first-cell/)
-- [What’s entering the public domain on January 1](https://www.smithsonianmag.com/smart-news/whats-entering-the-public-domain-on-january-1-winnie-pooh-ernest-hemingway-180979299/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
