@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL language proposal: JOIN FOREIGN](https://gist.github.com/joelonsql/15b50b65ec343dce94db6249cfea8aaa)
+- [Show HN: Pystitcher – A Declarative Alternative to Pdftk](https://github.com/captn3m0/pystitcher)
+- [Germany: Data retention to be abolished once and for all](https://tutanota.com/blog/posts/data-retention-germany/)
 - [New Year, New Industry: Flexport Is Hiring](https://flexport.com/careers)
 - [Sega accidentally published AWS credentials as part of major cloud breach](https://vpnoverview.com/news/sega-europe-suffers-major-security-breach/)
-- [Tokyo police lose 2 floppy disks containing personal info on citizens](https://mainichi.jp/english/articles/20211227/p2a/00m/0na/072000c)
-- [Court blocks Inglewood from destroying police records](https://www.latimes.com/california/story/2021-12-29/inglewood-blocked-from-destroying-police-disciplinary-records)
-- [Stanford requires booster shots for all students](https://studentaffairs.stanford.edu/resources-our-communities/covid-19-guidance-students/winter-break-return-testing-guide/booster-shot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
