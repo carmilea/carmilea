@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Playable English Localizations of Slovak Digital Games from the Late 80s Period](https://scd.sk/clanky/playable-english-localizations-of-slovak-digital-games-from-the-late-80s-period/)
 - [Scientists have created the darkness measure, D score, for how dark you are](https://darkfactor.org/)
 - [Handbook of Graph Drawing and Visualization](https://cs.brown.edu/people/rtamassi/gdhandbook/)
 - [Webster’s 1913 Dictionary for macOS](https://github.com/cmod/websters-1913)
 - [The quest to build a general-purpose thought decoder](https://www.newyorker.com/magazine/2021/12/06/the-science-of-mind-reading)
-- [Google Apps Script for Gmail to filter and sort email from Gitlab](https://github.com/mattst88/gmail-gitlab-filtering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
