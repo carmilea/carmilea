@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anonymized data is rarely anonymous](https://flowingdata.com/2021/12/29/anonymized-data-is-rarely-anonymous/)
 - [Playable English Localizations of Slovak Digital Games from the Late 80s Period](https://scd.sk/clanky/playable-english-localizations-of-slovak-digital-games-from-the-late-80s-period/)
 - [Bad characters: imperceptible Natural Language Processing attacks [pdf]](https://arxiv.org/abs/2106.09898)
 - [Browse the web like its 1999](https://oldweb.today/)
 - [You’re probably using the wrong dictionary &lpar;2014&rpar;](https://jsomers.net/blog/dictionary)
-- [Exposure to plastics during pregnancy can raise blood pressure](http://www.publichealth.columbia.edu/public-health-now/news/exposure-plastics-during-pregnancy-can-raise-blood-pressure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
