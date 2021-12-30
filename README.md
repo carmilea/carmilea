@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What’s the Most Outrageous Belief You’re Confident Is True?](https://news.ycombinator.com/item?id=29733026)
+- [Google Apps Script for Gmail to filter and sort email from Gitlab](https://github.com/mattst88/gmail-gitlab-filtering)
 - [The Black Sky Event](https://theblackskyevent.com/)
 - [Experimental depression treatment is nearly 80% effective in controlled study](https://med.stanford.edu/news/all-news/2021/10/depression-treatment.html)
 - [Databases in 2021: A Year in Review](https://ottertune.com/blog/2021-databases-retrospective/)
