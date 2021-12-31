@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany shuts down half of its remaining nuclear plants](https://www.thehindu.com/news/international/germany-shuts-down-half-of-its-remaining-nuclear-plants/article38080285.ece)
 - [Update: iPhone Camera app did NOT replace man&#39;s head with a leaf](https://twitter.com/mitchcohen/status/1476951534160257026)
+- [Shard Manager: A generic shard management framework for geo-distributed apps](https://research.facebook.com/publications/shard-manager-a-generic-shard-management-framework-for-geo-distributed-applications/)
+- [Things I Learnt in 2021](https://drobinin.com/posts/things-i-learnt-in-2021/)
 - [Ask HN: If not fresh out of college, what did you do to join a FAANG?](https://news.ycombinator.com/item?id=29750353)
-- [Newsfeed for Crypto/DeFi Scams](https://rekt.news/)
-- [Circuit Design and Applied Optimization &lpar;Part 1&rpar;](https://stefanabikaram.com/writing/circuit-design-and-applied-optimization/)
-- [Decent &lpar;YC W22&rpar; Is Hiring a Senior Full Stack Web3 Engineer](https://www.ycombinator.com/companies/decent/jobs/gtwlg2C-senior-full-stack-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
