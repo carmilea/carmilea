@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Telegram Messenger circumvents Google Translate&#39;s API](https://danpetrov.xyz/programming/2021/12/30/telegram-google-translate.html)
+- [List of companies that had successful pivots](https://github.com/fikrikarim/companies-with-successful-pivot)
+- [HN: == Happy New Year HN == &lpar;What is your “plans” for the new year?&rpar;](https://news.ycombinator.com/item?id=29746344)
 - [Ask HN: What are you predictions for 2022?](https://news.ycombinator.com/item?id=29746236)
 - [Self-Hosting Dozens of Web Applications and Services on a Single Server](https://cprimozic.net/blog/my-selfhosted-websites-architecture/)
-- [Web3/Crypto: Why Bother?](https://continuations.com/post/671863718643105792/web3crypto-why-bother)
-- [Reporter likely to be charged for using “view source” feature on web browser](https://boingboing.net/2021/12/30/reporter-likely-to-be-charged-for-using-view-source-feature-on-web-browser.html)
-- [Systems, Mistakes, and the Sea &lpar;2019&rpar;](https://www.robinrendle.com/essays/systems-mistakes-and-the-sea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
