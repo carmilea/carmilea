@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sirum Is Hiring Experienced Developers in Atlanta](https://news.ycombinator.com/item?id=29747232)
+- [You shouldn&#39;t parse the output of ls&lpar;1&rpar;](https://mywiki.wooledge.org/ParsingLs)
 - [How Telegram Messenger circumvents Google Translate&#39;s API](https://danpetrov.xyz/programming/2021/12/30/telegram-google-translate.html)
-- [List of companies that had successful pivots](https://github.com/fikrikarim/companies-with-successful-pivot)
-- [HN: == Happy New Year HN == &lpar;What is your “plans” for the new year?&rpar;](https://news.ycombinator.com/item?id=29746344)
-- [Ask HN: What are you predictions for 2022?](https://news.ycombinator.com/item?id=29746236)
-- [Self-Hosting Dozens of Web Applications and Services on a Single Server](https://cprimozic.net/blog/my-selfhosted-websites-architecture/)
+- [The Price of Discipline](https://perell.com/essay/the-price-of-discipline/)
+- [Is Bluetooth holding back Apple&#39;s AirPods? We asked the man who made them](https://www.whathifi.com/features/is-bluetooth-holding-back-apples-airpods-we-asked-the-man-who-made-them)
 <!-- BLOG-POST-LIST:END -->
 
 ---
