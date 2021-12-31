@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Nerds of HN, did you overcome loneliness?](https://news.ycombinator.com/item?id=29748257)
-- [Ask HN: How did you move on from past experiences?](https://news.ycombinator.com/item?id=29748113)
-- [How a Single Line of Code Made a 24-Core Server Slower Than a Laptop](https://pkolaczk.github.io/server-slower-than-a-laptop/)
-- [Sirum Is Hiring Experienced Developers in Atlanta](https://news.ycombinator.com/item?id=29747232)
-- [Some sanity for C and C++ development on Windows](https://nullprogram.com/blog/2021/12/30/)
+- [Ask HN: Selling framed physical art online](https://news.ycombinator.com/item?id=29749090)
+- [Two NFT copycats are fighting over which is the real fake Bored Ape Yacht Club](https://www.theverge.com/2021/12/30/22860010/bored-ape-yacht-club-payc-phayc-copycat-nft)
+- [How to Help a Friend Who Lost Their Home in a Fire &lpar;2020&rpar;](https://www.sonomamag.com/how-to-help-a-friend-who-lost-their-home-in-a-fire/)
+- [Fiatjaf/nostr – a truly censorship-resistant alternative to Twitter](https://github.com/fiatjaf/nostr)
+- [Smartbolts](http://www.smartbolts.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
