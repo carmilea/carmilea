@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3/Crypto: Why Bother?](https://continuations.com/post/671863718643105792/web3crypto-why-bother)
+- [Systems, Mistakes, and the Sea &lpar;2019&rpar;](https://www.robinrendle.com/essays/systems-mistakes-and-the-sea/)
 - [C++ Modules Might Be Dead-on-Arrival &lpar;2019&rpar;](https://vector-of-bool.github.io/2019/01/27/modules-doa.html)
 - [PortableGL: An implementation of OpenGL 3.x-ish in clean C](https://github.com/rswinkle/PortableGL)
 - [Recovering a PostgreSQL database after a hard drive failure](https://sambhav.saggis.com/en/blog/recovering-postgresql-hard-drive-fail)
-- [Counterfactual Theory of Value](https://perell.com/note/the-counterfactual-theory-of-value/)
-- [MicroWeb DOS web browser – for 8088 systems](https://github.com/jhhoward/MicroWeb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
