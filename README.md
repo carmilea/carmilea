@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Nerds of HN, did you overcome loneliness?](https://news.ycombinator.com/item?id=29748257)
 - [Ask HN: How did you move on from past experiences?](https://news.ycombinator.com/item?id=29748113)
 - [How a Single Line of Code Made a 24-Core Server Slower Than a Laptop](https://pkolaczk.github.io/server-slower-than-a-laptop/)
 - [Sirum Is Hiring Experienced Developers in Atlanta](https://news.ycombinator.com/item?id=29747232)
 - [Some sanity for C and C++ development on Windows](https://nullprogram.com/blog/2021/12/30/)
-- [You shouldn&#39;t parse the output of ls&lpar;1&rpar;](https://mywiki.wooledge.org/ParsingLs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
