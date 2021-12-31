@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Science of Visual Data Communication: What Works](https://journals.sagepub.com/doi/10.1177/15291006211051956)
-- [The curious history of the clothespeg &lpar;2016&rpar;](https://medium.economist.com/the-curious-history-of-the-clothespeg-3f8615519c61?gi=5c6e0f307927)
-- [Copy Protection in Modern Microcontrollers &lpar;2001&rpar;](https://www.cl.cam.ac.uk/~sps32/mcu_lock.html)
-- [Tesla recalls nearly half a million Model 3 and Model S cars](https://www.theverge.com/2021/12/30/22859717/tesla-model-3-s-recall-trunk-latch-failure-nhtsa)
-- [Skio &lpar;YC S20&rpar; is hiring founding engineers](https://skio.com/careers)
+- [“Let&#39;s stop using NPS”](https://cranberryblog.substack.com/p/lets-stop-using-nps)
+- [Problematic Employers in Tech](https://www.beginningwithi.com/2021/12/30/problematic-employers-in-tech/)
+- [Linux Kernel RNG is now Blake2 instead of SHA1 and 3x faster](https://twitter.com/FiloSottile/status/1476698207413493766)
+- [Improving the quality of publicly trusted intermediate CA certificates](https://blog.mozilla.org/security/2021/12/09/improved-quality-of-intermediate-certificates-with-enhanced-oversight-and-automation/)
+- [Peter Thiel hires disgraced ex-Austrian chancellor Sebastian Kurz](https://nypost.com/2021/12/30/peter-thiel-hires-disgraced-ex-austrian-chancellor-sebastian-kurz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
