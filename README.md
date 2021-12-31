@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [T-Mobile Actively Censoring Certain URLs](https://www.youtube.com/watch?v=U-HE6_F3tMg)
 - [Hospitals Still Not Complying with Price Transparency](https://www.wsj.com/articles/hospital-price-public-biden-11640882507)
 - [“Let&#39;s stop using NPS”](https://cranberryblog.substack.com/p/lets-stop-using-nps)
 - [Linux Kernel RNG is now Blake2 instead of SHA1 and 3x faster](https://twitter.com/FiloSottile/status/1476698207413493766)
 - [Improving the quality of publicly trusted intermediate CA certificates](https://blog.mozilla.org/security/2021/12/09/improved-quality-of-intermediate-certificates-with-enhanced-oversight-and-automation/)
-- [Sciter, the 5 MB Electron alternative, has switched to JavaScript](https://terrainformatica.com/2021/04/25/sciter-uses-javascript-from-now-and-on/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
