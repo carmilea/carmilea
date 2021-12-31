@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why are we vaccinating children against Covid-19?](https://www.sciencedirect.com/science/article/pii/S221475002100161X)
 - [Sirum Is Hiring Experienced Developers in Atlanta](https://news.ycombinator.com/item?id=29747232)
 - [You shouldn&#39;t parse the output of ls&lpar;1&rpar;](https://mywiki.wooledge.org/ParsingLs)
 - [How Telegram Messenger circumvents Google Translate&#39;s API](https://danpetrov.xyz/programming/2021/12/30/telegram-google-translate.html)
 - [The Price of Discipline](https://perell.com/essay/the-price-of-discipline/)
-- [Is Bluetooth holding back Apple&#39;s AirPods? We asked the man who made them](https://www.whathifi.com/features/is-bluetooth-holding-back-apples-airpods-we-asked-the-man-who-made-them)
 <!-- BLOG-POST-LIST:END -->
 
 ---
