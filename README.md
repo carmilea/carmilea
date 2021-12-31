@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Recovering a PostgreSQL Database After a Hard Drive Failure](https://sambhav.saggis.com/en/blog/recovering-postgresql-hard-drive-fail)
-- [T-Mobile Actively Censoring Certain URLs](https://www.youtube.com/watch?v=U-HE6_F3tMg)
-- [Hospitals Still Not Complying with Price Transparency](https://www.wsj.com/articles/hospital-price-public-biden-11640882507)
-- [“Let&#39;s stop using NPS”](https://cranberryblog.substack.com/p/lets-stop-using-nps)
-- [Linux Kernel RNG is now Blake2 instead of SHA1 and 3x faster](https://twitter.com/FiloSottile/status/1476698207413493766)
+- [C++ Modules Might Be Dead-on-Arrival &lpar;2019&rpar;](https://vector-of-bool.github.io/2019/01/27/modules-doa.html)
+- [PortableGL: An implementation of OpenGL 3.x-ish in clean C](https://github.com/rswinkle/PortableGL)
+- [Recovering a PostgreSQL database after a hard drive failure](https://sambhav.saggis.com/en/blog/recovering-postgresql-hard-drive-fail)
+- [T-Mobile Actively Censoring Certain URLs [video]](https://www.youtube.com/watch?v=U-HE6_F3tMg)
+- [Hospitals still not fully complying with federal price-disclosure rules](https://www.wsj.com/articles/hospital-price-public-biden-11640882507)
 <!-- BLOG-POST-LIST:END -->
 
 ---
