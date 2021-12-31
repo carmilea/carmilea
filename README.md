@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Selling framed physical art online](https://news.ycombinator.com/item?id=29749090)
-- [Two NFT copycats are fighting over which is the real fake Bored Ape Yacht Club](https://www.theverge.com/2021/12/30/22860010/bored-ape-yacht-club-payc-phayc-copycat-nft)
-- [How to Help a Friend Who Lost Their Home in a Fire &lpar;2020&rpar;](https://www.sonomamag.com/how-to-help-a-friend-who-lost-their-home-in-a-fire/)
-- [Fiatjaf/nostr – a truly censorship-resistant alternative to Twitter](https://github.com/fiatjaf/nostr)
-- [Smartbolts](http://www.smartbolts.com/)
+- [Decent &lpar;YC W22&rpar; Is Hiring a Senior Full Stack Web3 Engineer](https://www.ycombinator.com/companies/decent/jobs/gtwlg2C-senior-full-stack-engineer)
+- [Thousands of coma patients may be conscious but we’re ignoring them](https://www.sciencefocus.com/the-human-body/comas-conscious-communicate/)
+- [Using Brave&#39;s “Private Window with Tor” could get you fired](https://old.reddit.com/r/cscareerquestions/comments/rsdg0r/til_pressing_altshiftn_in_brave_browser_will/)
+- [2021 in Database Startups: Gold Rush](https://unum.cloud/post/2021-12-31-dbms-startups/)
+- [CentOS Linux 8 Reaches End-of-Life](https://www.phoronix.com/scan.php?page=news_item&px=CentOS-Linux-8-EOL)
 <!-- BLOG-POST-LIST:END -->
 
 ---
