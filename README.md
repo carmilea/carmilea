@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany shuts down half of its remaining nuclear plants](https://www.thehindu.com/news/international/germany-shuts-down-half-of-its-remaining-nuclear-plants/article38080285.ece)
-- [Update: iPhone Camera app did NOT replace man&#39;s head with a leaf](https://twitter.com/mitchcohen/status/1476951534160257026)
-- [Shard Manager: A generic shard management framework for geo-distributed apps](https://research.facebook.com/publications/shard-manager-a-generic-shard-management-framework-for-geo-distributed-applications/)
-- [Things I Learnt in 2021](https://drobinin.com/posts/things-i-learnt-in-2021/)
-- [Ask HN: If not fresh out of college, what did you do to join a FAANG?](https://news.ycombinator.com/item?id=29750353)
+- [Betty White Dies at 99](https://www.cnn.com/2021/12/31/entertainment/betty-white-obituary/index.html)
+- [Unicode Normalization Forms: When ö ≠ ö](https://blog.opencore.ch/posts/unicode-normalization-forms/)
+- [Betty White Dies at 99](https://www.nydailynews.com/news/national/ny-betty-white-dead-age-99-tv-icon-20211231-o2zcyf56yrdvvhvwrceinqqwgi-story.html)
+- [Spirit Airlines to triple flight attendant pay through Jan. 4](https://www.reuters.com/business/aerospace-defense/spirit-airlines-triple-flight-attendant-pay-through-jan-4-union-2021-12-31/)
+- [Yesterday the FBI signed its first public contract with Clearview AI](https://twitter.com/_jack_poulson/status/1476936000454680576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
