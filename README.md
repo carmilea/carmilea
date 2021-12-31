@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [“Let&#39;s stop using NPS”](https://cranberryblog.substack.com/p/lets-stop-using-nps)
-- [Problematic Employers in Tech](https://www.beginningwithi.com/2021/12/30/problematic-employers-in-tech/)
 - [Linux Kernel RNG is now Blake2 instead of SHA1 and 3x faster](https://twitter.com/FiloSottile/status/1476698207413493766)
 - [Improving the quality of publicly trusted intermediate CA certificates](https://blog.mozilla.org/security/2021/12/09/improved-quality-of-intermediate-certificates-with-enhanced-oversight-and-automation/)
 - [Peter Thiel hires disgraced ex-Austrian chancellor Sebastian Kurz](https://nypost.com/2021/12/30/peter-thiel-hires-disgraced-ex-austrian-chancellor-sebastian-kurz/)
+- [Sciter, the 5 MB Electron alternative, has switched to JavaScript](https://terrainformatica.com/2021/04/25/sciter-uses-javascript-from-now-and-on/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
