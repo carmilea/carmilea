@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2021: Year in review](https://jvns.ca/blog/2021/12/31/2021--year-in-review/)
-- [Predict 3D position of flying bugs and pest to shoot down them with a laser](https://www.naro.go.jp/english/laboratory/nipp/press/3d/index.html)
-- [United States IPv6 adoption over 50%](https://www.google.com/intl/en/ipv6/statistics.html#tab=per-country-ipv6-adoption)
-- [Betty White has died](https://www.washingtonpost.com/local/obituaries/betty-white-dies/2021/12/31/628e2326-d610-11e7-a986-d0a9770d9a3e_story.html)
-- [Horrible insurance kerfuffle gone good](https://blog.plover.com/brain/insurance.html)
+- [Why Brahmins lead Western firms but rarely Indian ones](https://www.economist.com/asia/2022/01/01/why-brahmins-lead-western-firms-but-rarely-indian-ones)
+- [Python module for parsing Apple Numbers .numbers files](https://github.com/masaccio/numbers-parser)
+- [A new protocol and tool for PNG file attachments](https://nullprogram.com/blog/2021/12/31/)
+- [Belgian scientific base in Antarctica engulfed by Covid despite strict measures](https://www.brusselstimes.com/belgium-all-news/199687/belgian-scientific-base-in-antarctica-engulfed-by-covid-19-despite-strict-measures)
+- [My progress in porting Wine](https://discuss.haiku-os.org/t/my-progress-in-porting-wine/11741)
 <!-- BLOG-POST-LIST:END -->
 
 ---
