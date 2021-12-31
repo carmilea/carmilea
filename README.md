@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Betty White, one of the most endearing and enduring faces on television, dies](https://www.washingtonpost.com/local/obituaries/betty-white-dies/2021/12/31/628e2326-d610-11e7-a986-d0a9770d9a3e_story.html)
-- [Unicode Normalization Forms: When ö ≠ ö](https://blog.opencore.ch/posts/unicode-normalization-forms/)
-- [Spirit Airlines to triple flight attendant pay through Jan. 4](https://www.reuters.com/business/aerospace-defense/spirit-airlines-triple-flight-attendant-pay-through-jan-4-union-2021-12-31/)
-- [Yesterday the FBI signed its first public contract with Clearview AI](https://twitter.com/_jack_poulson/status/1476936000454680576)
-- [Update: iPhone Camera app did not replace person&#39;s head with a leaf](https://twitter.com/mitchcohen/status/1476951534160257026)
+- [2021: Year in review](https://jvns.ca/blog/2021/12/31/2021--year-in-review/)
+- [Predict 3D position of flying bugs and pest to shoot down them with a laser](https://www.naro.go.jp/english/laboratory/nipp/press/3d/index.html)
+- [United States IPv6 adoption over 50%](https://www.google.com/intl/en/ipv6/statistics.html#tab=per-country-ipv6-adoption)
+- [Betty White has died](https://www.washingtonpost.com/local/obituaries/betty-white-dies/2021/12/31/628e2326-d610-11e7-a986-d0a9770d9a3e_story.html)
+- [Horrible insurance kerfuffle gone good](https://blog.plover.com/brain/insurance.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
