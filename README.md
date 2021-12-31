@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What are you predictions for 2022?](https://news.ycombinator.com/item?id=29746236)
+- [Self-Hosting Dozens of Web Applications and Services on a Single Server](https://cprimozic.net/blog/my-selfhosted-websites-architecture/)
 - [Web3/Crypto: Why Bother?](https://continuations.com/post/671863718643105792/web3crypto-why-bother)
+- [Reporter likely to be charged for using “view source” feature on web browser](https://boingboing.net/2021/12/30/reporter-likely-to-be-charged-for-using-view-source-feature-on-web-browser.html)
 - [Systems, Mistakes, and the Sea &lpar;2019&rpar;](https://www.robinrendle.com/essays/systems-mistakes-and-the-sea/)
-- [C++ Modules Might Be Dead-on-Arrival &lpar;2019&rpar;](https://vector-of-bool.github.io/2019/01/27/modules-doa.html)
-- [PortableGL: An implementation of OpenGL 3.x-ish in clean C](https://github.com/rswinkle/PortableGL)
-- [Recovering a PostgreSQL database after a hard drive failure](https://sambhav.saggis.com/en/blog/recovering-postgresql-hard-drive-fail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
