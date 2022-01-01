@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [2022 Predictions](https://matt-rickard.com/2022-predictions/)
-- [Ask HN: Favorite/Classic HN threads of all time](https://news.ycombinator.com/item?id=29759993)
-- [Nuclear fallout is showing up in U.S. honey, decades after bomb tests](https://www.science.org/content/article/nuclear-fallout-showing-us-honey-decades-after-bomb-tests)
-- [Blender – Top Committers 2021](https://www.blender.org/development/top-30-committers-2021/)
-- [2021 Letter](https://danwang.co/2021-letter/)
+- [New Temperature Records for the UK](https://www.metoffice.gov.uk/about-us/press-office/news/weather-and-climate/2022/new-years-day)
+- [Advent of Haskell: Denotational Design](https://github.com/bolt12/advent-of-haskell-dd)
+- [The Problem with Vanity TLDs](https://www.templetons.com/brad/dns/vanity-tld.html)
+- [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
+- [Welcoming Recorded Music to the Public Domain](https://blog.archive.org/2022/01/01/welcoming-recorded-music-to-the-public-domain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
