@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [GLADOS – Generic Life Activity Data Organization System](https://github.com/kaustubh-karkare/glados)
-- [Ask HN: Do we need an easier Git?](https://news.ycombinator.com/item?id=29756272)
+- [New Findings on the Mycenaean Cemetery at the &#39;Palace of Nestor&#39; in Pylos](https://archaeologynewsnetwork.blogspot.com/2021/12/new-findings-on-mycenaean-cemetery-of.html)
 - [Ask HN: Is it still worth learning Kubernetes in 2022?](https://news.ycombinator.com/item?id=29756204)
 - [Poll: Did you know that HN allows you to make polls?](https://news.ycombinator.com/item?id=29755614)
 - [Winnie the Pooh to Enter the Public Domain in 2022](https://comicbook.com/movies/news/winnie-the-pooh-enter-public-domain-2022/)
