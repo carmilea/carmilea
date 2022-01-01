@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Linux is now my primary OS going into 2022](https://www.windowscentral.com/tired-windows-its-time-give-linux-try)
+- [Tokyo: The big city that is also pleasant to live in](https://www.economist.com/special-report/2021/12/07/the-big-city-that-is-also-pleasant-to-live-in)
+- [Poll: Did you know that HN allows you to make polls?](https://news.ycombinator.com/item?id=29755614)
+- [Winnie the Pooh to Enter the Public Domain in 2022](https://comicbook.com/movies/news/winnie-the-pooh-enter-public-domain-2022/)
 - [Finding your home in game graphics programming](http://alextardif.com/LearningGraphics.html)
 - [Turboencabulator](https://en.wikipedia.org/wiki/Turboencabulator)
-- [Do we need a link step?](https://robert.ocallahan.org/2021/12/do-we-really-need-link-step.html)
-- [TikTok trend that makes teens believe they have serious mental disorders](https://www.goodmorningamerica.com/wellness/story/experts-troubled-tiktok-trend-teens-believing-mental-disorders-81964649)
 <!-- BLOG-POST-LIST:END -->
 
 ---
