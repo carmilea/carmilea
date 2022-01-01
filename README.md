@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Vim9 Script Feature-Complete](https://groups.google.com/g/vim_announce/c/2XYAoPL2sqg)
-- [Ask HN: Best Engineering Blog Posts?](https://news.ycombinator.com/item?id=29758396)
-- [Chindōgu: The Japanese Art of Useless Inventions](https://www.equilibriumfans.com/chindogu-japanese-art-of-useless-inventions/)
-- [Wrapping Up 2021. Leaving C++](https://izzys.casa/2021/12/wrapping-up-2021/)
-- [The Hong Kongers Fleeing to Blackpool](https://www.economist.com/1843/2021/10/25/its-a-wonderful-placea-playland-the-hong-kongers-fleeing-to-blackpool)
+- [2021 Letter](https://danwang.co/2021-letter/)
+- [Haxor News](https://github.com/donnemartin/haxor-news)
+- [Ask HN: Who Wants to Collaborate?](https://news.ycombinator.com/item?id=29759115)
+- [Update on Linux hibernation support when lockdown is enabled](https://mjg59.dreamwidth.org/58077.html)
+- [Are Crypto Currencies to Blame for High GPU Prices?](https://blog.libove.org/posts/are-crypto-currencies-to-blame-for-high-gpu-prices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
