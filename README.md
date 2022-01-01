@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vim9 Script Feature-Complete](https://groups.google.com/g/vim_announce/c/2XYAoPL2sqg)
+- [Ask HN: Best Engineering Blog Posts?](https://news.ycombinator.com/item?id=29758396)
 - [Chindōgu: The Japanese Art of Useless Inventions](https://www.equilibriumfans.com/chindogu-japanese-art-of-useless-inventions/)
 - [Wrapping Up 2021. Leaving C++](https://izzys.casa/2021/12/wrapping-up-2021/)
-- [To learn Klingon or Esperanto: What invented languages can teach us](https://knowablemagazine.org/article/society/2021/what-invented-languages-can-teach-us)
-- [Giving Haiku Beta 3 a try](https://www.friendlyskies.net/notebook/giving-haiku-os-beta-3-a-try)
-- [Finding an optimal shortest path algorithm](https://blog.siraben.dev/2021/12/28/aoc-speedup.html)
+- [The Hong Kongers Fleeing to Blackpool](https://www.economist.com/1843/2021/10/25/its-a-wonderful-placea-playland-the-hong-kongers-fleeing-to-blackpool)
 <!-- BLOG-POST-LIST:END -->
 
 ---
