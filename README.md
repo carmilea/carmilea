@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [2022 Predictions](https://matt-rickard.com/2022-predictions/)
+- [Ask HN: Favorite/Classic HN threads of all time](https://news.ycombinator.com/item?id=29759993)
+- [Nuclear fallout is showing up in U.S. honey, decades after bomb tests](https://www.science.org/content/article/nuclear-fallout-showing-us-honey-decades-after-bomb-tests)
+- [Blender – Top Committers 2021](https://www.blender.org/development/top-30-committers-2021/)
 - [2021 Letter](https://danwang.co/2021-letter/)
-- [Haxor News](https://github.com/donnemartin/haxor-news)
-- [Ask HN: Who Wants to Collaborate?](https://news.ycombinator.com/item?id=29759115)
-- [Update on Linux hibernation support when lockdown is enabled](https://mjg59.dreamwidth.org/58077.html)
-- [Are Crypto Currencies to Blame for High GPU Prices?](https://blog.libove.org/posts/are-crypto-currencies-to-blame-for-high-gpu-prices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
