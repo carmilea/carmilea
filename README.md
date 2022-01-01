@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Brahmins lead Western firms but rarely Indian ones](https://www.economist.com/asia/2022/01/01/why-brahmins-lead-western-firms-but-rarely-indian-ones)
+- [Ask HN: How do you take care of yourself?](https://news.ycombinator.com/item?id=29754211)
+- [Truly Headless Draw.io Exports](https://fasterthanli.me/series/dont-shell-out/part-1)
+- [HD floppies, RLL encoding, disk density auto-detection and other fun](https://c65gs.blogspot.com/2022/01/more-work-on-hd-floppies-rll-encoding.html)
+- [If – A Poem by Rudyard Kipling](https://poets.org/poem/if)
 - [Python module for parsing Apple Numbers .numbers files](https://github.com/masaccio/numbers-parser)
-- [A new protocol and tool for PNG file attachments](https://nullprogram.com/blog/2021/12/31/)
-- [Belgian scientific base in Antarctica engulfed by Covid despite strict measures](https://www.brusselstimes.com/belgium-all-news/199687/belgian-scientific-base-in-antarctica-engulfed-by-covid-19-despite-strict-measures)
-- [My progress in porting Wine](https://discuss.haiku-os.org/t/my-progress-in-porting-wine/11741)
 <!-- BLOG-POST-LIST:END -->
 
 ---
