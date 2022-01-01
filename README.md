@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Update copyright year in your website](https://news.ycombinator.com/item?id=29757059)
-- [GLADOS – Generic Life Activity Data Organization System](https://github.com/kaustubh-karkare/glados)
-- [New Findings on the Mycenaean Cemetery at the &#39;Palace of Nestor&#39; in Pylos](https://archaeologynewsnetwork.blogspot.com/2021/12/new-findings-on-mycenaean-cemetery-of.html)
-- [Poll: Did you know that HN allows you to make polls?](https://news.ycombinator.com/item?id=29755614)
-- [Winnie the Pooh to Enter the Public Domain in 2022](https://comicbook.com/movies/news/winnie-the-pooh-enter-public-domain-2022/)
+- [Giving Haiku Beta 3 a try](https://www.friendlyskies.net/notebook/giving-haiku-os-beta-3-a-try)
+- [The FIP-FS “Microsoft” Scan Engine Failed. Can’t Convert “2201010001” to Long](https://twitter.com/miketheitguy/status/1477097527593734144)
+- [The IPv6 Mess &lpar;2002&rpar;](https://cr.yp.to/djbdns/ipv6mess.html)
+- [Speeding up Dijkstra by a factor of 2700](https://blog.siraben.dev/2021/12/28/aoc-speedup.html)
+- [Microsoft Exchange stops passing mail due to bug on 1/1/22](https://old.reddit.com/r/sysadmin/comments/rt91z6/exchange_2019_antimalware_bad_update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
