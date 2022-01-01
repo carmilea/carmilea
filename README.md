@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dendron &lpar;YC W21&rpar; Is Hiring React/TS Expert to Build Better Tools for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI/)
-- [7k varieties of apples and the 18 you need to know about &lpar;2013&rpar;](https://web.archive.org/web/20200813060444/https://www.weldonowen.com/2013/09/10/7000-varieties-of-apples-and-the-18-you-actually-need-to-know-about-2/)
-- [Winnie the Pooh is now in the public domain](https://www.npr.org/2021/12/31/1069434896/winnie-the-pooh-and-more-works-will-enter-the-public-domain-tomorrow)
-- [The Interledger Protocol](https://interledger.org/developer-tools/get-started/overview/)
-- [Go Fuzzing](https://tip.golang.org/doc/fuzz/)
+- [Portmaster – Open-source network monitor and firewall](https://safing.io/portmaster/)
+- [Log4jscanner](https://github.com/google/log4jscanner)
+- [Financial Independence / Retire Early Calculator](https://engaging-data.com/fire-calculator/)
+- [Why I&#39;m Using HTTP Basic Auth in 2022](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
+- [Depression alters the circadian pattern of online activity](https://www.nature.com/articles/s41598-020-74314-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
