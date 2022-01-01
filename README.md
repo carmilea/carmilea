@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why Linux is now my primary OS going into 2022](https://www.windowscentral.com/tired-windows-its-time-give-linux-try)
-- [Finding Your Home in Game Graphics Programming](http://alextardif.com/LearningGraphics.html)
+- [Finding your home in game graphics programming](http://alextardif.com/LearningGraphics.html)
 - [Turboencabulator](https://en.wikipedia.org/wiki/Turboencabulator)
+- [Do we need a link step?](https://robert.ocallahan.org/2021/12/do-we-really-need-link-step.html)
 - [TikTok trend that makes teens believe they have serious mental disorders](https://www.goodmorningamerica.com/wellness/story/experts-troubled-tiktok-trend-teens-believing-mental-disorders-81964649)
-- [Ask HN: How do you take care of yourself?](https://news.ycombinator.com/item?id=29754211)
 <!-- BLOG-POST-LIST:END -->
 
 ---
