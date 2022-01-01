@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Dissolution of the Nutrition Science Initiative](http://garytaubes.com/the-dissolution-of-the-nutrition-science-initiative/)
 - [Dicio: Free and open source voice assistant for Android](https://github.com/Stypox/dicio-android)
+- [A persistent denial of service vulnerability affecting iOS](https://trevorspiniolas.com/doorlock/doorlock.html)
 - [50 Years of Text Games: The End of a Journey](https://if50.substack.com/p/the-end-of-a-journey)
-- [Emirates’ &lpar;Probably&rpar; Terrifying Boeing 777 Flight to Washington](https://onemileatatime.com/news/emirates-terrifying-boeing-777-flight-washington/)
-- [Farnsworth Munsell 100 Hue Color Vision Test](https://www.colorblindnesstest.org/farnsworth-munsell-100-hue-test/)
+- [Boeing 777 departing Dubai nearly had a major incident after takeoff](https://onemileatatime.com/news/emirates-terrifying-boeing-777-flight-washington/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
