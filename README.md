@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Update copyright year in your website](https://news.ycombinator.com/item?id=29757059)
 - [GLADOS – Generic Life Activity Data Organization System](https://github.com/kaustubh-karkare/glados)
 - [New Findings on the Mycenaean Cemetery at the &#39;Palace of Nestor&#39; in Pylos](https://archaeologynewsnetwork.blogspot.com/2021/12/new-findings-on-mycenaean-cemetery-of.html)
-- [Ask HN: Is it still worth learning Kubernetes in 2022?](https://news.ycombinator.com/item?id=29756204)
 - [Poll: Did you know that HN allows you to make polls?](https://news.ycombinator.com/item?id=29755614)
 - [Winnie the Pooh to Enter the Public Domain in 2022](https://comicbook.com/movies/news/winnie-the-pooh-enter-public-domain-2022/)
 <!-- BLOG-POST-LIST:END -->
