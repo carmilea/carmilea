@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Portmaster – Open-source network monitor and firewall](https://safing.io/portmaster/)
-- [Log4jscanner](https://github.com/google/log4jscanner)
-- [Financial Independence / Retire Early Calculator](https://engaging-data.com/fire-calculator/)
-- [Why I&#39;m Using HTTP Basic Auth in 2022](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
-- [Depression alters the circadian pattern of online activity](https://www.nature.com/articles/s41598-020-74314-3)
+- [The Dissolution of the Nutrition Science Initiative](http://garytaubes.com/the-dissolution-of-the-nutrition-science-initiative/)
+- [Dicio: Free and open source voice assistant for Android](https://github.com/Stypox/dicio-android)
+- [50 Years of Text Games: The End of a Journey](https://if50.substack.com/p/the-end-of-a-journey)
+- [Emirates’ &lpar;Probably&rpar; Terrifying Boeing 777 Flight to Washington](https://onemileatatime.com/news/emirates-terrifying-boeing-777-flight-washington/)
+- [Farnsworth Munsell 100 Hue Color Vision Test](https://www.colorblindnesstest.org/farnsworth-munsell-100-hue-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
