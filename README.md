@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Temperature Records for the UK](https://www.metoffice.gov.uk/about-us/press-office/news/weather-and-climate/2022/new-years-day)
-- [Advent of Haskell: Denotational Design](https://github.com/bolt12/advent-of-haskell-dd)
-- [The Problem with Vanity TLDs](https://www.templetons.com/brad/dns/vanity-tld.html)
-- [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
-- [Welcoming Recorded Music to the Public Domain](https://blog.archive.org/2022/01/01/welcoming-recorded-music-to-the-public-domain/)
+- [Dendron &lpar;YC W21&rpar; Is Hiring React/TS Expert to Build Better Tools for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI/)
+- [7k varieties of apples and the 18 you need to know about &lpar;2013&rpar;](https://web.archive.org/web/20200813060444/https://www.weldonowen.com/2013/09/10/7000-varieties-of-apples-and-the-18-you-actually-need-to-know-about-2/)
+- [Winnie the Pooh is now in the public domain](https://www.npr.org/2021/12/31/1069434896/winnie-the-pooh-and-more-works-will-enter-the-public-domain-tomorrow)
+- [The Interledger Protocol](https://interledger.org/developer-tools/get-started/overview/)
+- [Go Fuzzing](https://tip.golang.org/doc/fuzz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
