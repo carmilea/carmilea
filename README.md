@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Chindōgu: The Japanese Art of Useless Inventions](https://www.equilibriumfans.com/chindogu-japanese-art-of-useless-inventions/)
+- [Wrapping Up 2021. Leaving C++](https://izzys.casa/2021/12/wrapping-up-2021/)
+- [To learn Klingon or Esperanto: What invented languages can teach us](https://knowablemagazine.org/article/society/2021/what-invented-languages-can-teach-us)
 - [Giving Haiku Beta 3 a try](https://www.friendlyskies.net/notebook/giving-haiku-os-beta-3-a-try)
-- [The FIP-FS “Microsoft” Scan Engine Failed. Can’t Convert “2201010001” to Long](https://twitter.com/miketheitguy/status/1477097527593734144)
-- [The IPv6 Mess &lpar;2002&rpar;](https://cr.yp.to/djbdns/ipv6mess.html)
-- [Speeding up Dijkstra by a factor of 2700](https://blog.siraben.dev/2021/12/28/aoc-speedup.html)
-- [Microsoft Exchange stops passing mail due to bug on 1/1/22](https://old.reddit.com/r/sysadmin/comments/rt91z6/exchange_2019_antimalware_bad_update/)
+- [Finding an optimal shortest path algorithm](https://blog.siraben.dev/2021/12/28/aoc-speedup.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
