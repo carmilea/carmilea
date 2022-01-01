@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tokyo: The big city that is also pleasant to live in](https://www.economist.com/special-report/2021/12/07/the-big-city-that-is-also-pleasant-to-live-in)
+- [GLADOS – Generic Life Activity Data Organization System](https://github.com/kaustubh-karkare/glados)
+- [Ask HN: Do we need an easier Git?](https://news.ycombinator.com/item?id=29756272)
+- [Ask HN: Is it still worth learning Kubernetes in 2022?](https://news.ycombinator.com/item?id=29756204)
 - [Poll: Did you know that HN allows you to make polls?](https://news.ycombinator.com/item?id=29755614)
 - [Winnie the Pooh to Enter the Public Domain in 2022](https://comicbook.com/movies/news/winnie-the-pooh-enter-public-domain-2022/)
-- [Finding your home in game graphics programming](http://alextardif.com/LearningGraphics.html)
-- [Turboencabulator](https://en.wikipedia.org/wiki/Turboencabulator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
