@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding Your Home in Game Graphics Programming](http://alextardif.com/LearningGraphics.html)
 - [Turboencabulator](https://en.wikipedia.org/wiki/Turboencabulator)
 - [TikTok trend that makes teens believe they have serious mental disorders](https://www.goodmorningamerica.com/wellness/story/experts-troubled-tiktok-trend-teens-believing-mental-disorders-81964649)
 - [Ask HN: How do you take care of yourself?](https://news.ycombinator.com/item?id=29754211)
 - [Don&#39;t Waste the Good Days](https://seths.blog/2021/12/dont-waste-the-good-days/)
-- [Intellectual Loneliness](https://perell.com/note/intellectual-loneliness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
