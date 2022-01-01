@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok trend that makes teens believe they have serious mental disorders](https://www.goodmorningamerica.com/wellness/story/experts-troubled-tiktok-trend-teens-believing-mental-disorders-81964649)
 - [Ask HN: How do you take care of yourself?](https://news.ycombinator.com/item?id=29754211)
-- [Truly Headless Draw.io Exports](https://fasterthanli.me/series/dont-shell-out/part-1)
-- [HD floppies, RLL encoding, disk density auto-detection and other fun](https://c65gs.blogspot.com/2022/01/more-work-on-hd-floppies-rll-encoding.html)
-- [If – A Poem by Rudyard Kipling](https://poets.org/poem/if)
-- [Python module for parsing Apple Numbers .numbers files](https://github.com/masaccio/numbers-parser)
+- [Don&#39;t Waste the Good Days](https://seths.blog/2021/12/dont-waste-the-good-days/)
+- [How the West Was Lost](https://notochina.org/how-china-is-using-amazon-to-wipe-out-the-middleman/)
+- [Coding error at Santander Bank put millions into random accounts on Christmas](https://newsconcerns.com/santander-accidentally-put-millions-into-random-accounts-on-christmas-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
