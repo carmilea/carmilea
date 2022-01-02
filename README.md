@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Book Review: “Viral” by Alina Chan and Matt Ridley](https://scottaaronson.blog/?p=6183)
-- [EU drafts plan to label gas and nuclear investments as green](https://www.reuters.com/markets/commodities/eu-drafts-plan-label-gas-nuclear-investments-green-2022-01-01/)
-- [The Dissolution of the Nutrition Science Initiative](http://garytaubes.com/the-dissolution-of-the-nutrition-science-initiative/)
-- [Dicio: Free and open source voice assistant for Android](https://github.com/Stypox/dicio-android)
-- [A persistent denial of service vulnerability affecting iOS](https://trevorspiniolas.com/doorlock/doorlock.html)
+- [Tepco slow to respond to growing crisis at Fukushima plant](https://www.asahi.com/ajw/articles/14503708)
+- [Covid vaccination and age-stratified all-cause mortality risk](https://www.researchgate.net/publication/355581860_COVID_vaccination_and_age-stratified_all-cause_mortality_risk)
+- [In 2022 a Moonrush will begin in earnest](https://www.economist.com/science-and-technology/2022/01/01/in-2022-a-moonrush-will-begin-in-earnest)
+- [The argument against clearing the database between tests &lpar;2020&rpar;](https://calpaterson.com/against-database-teardown.html)
+- [Show HN: A web app to turn photos into 3D AR models.](https://usdz.app?ref=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
