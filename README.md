@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [During 2021 Bitcoin consumed 134 TWh in total](https://twitter.com/digieconomist/status/1477420461122375683)
+- [Indiana life insurance CEO says deaths are up 40% among people ages 18-64](https://www.thecentersquare.com/indiana/indiana-life-insurance-ceo-says-deaths-are-up-40-among-people-ages-18-64/article_71473b12-6b1e-11ec-8641-5b2c06725e2c.html)
+- [Google owns TLDs: .web .meme and .lol](https://icannwiki.org/.meme)
 - [Nebulosity is now open-source and free](http://www.stark-labs.com)
 - [Your attention didn&#39;t collapse. It was stolen](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
-- [OpenDrop: An open Apple AirDrop implementation written in Python](https://github.com/seemoo-lab/opendrop)
-- [The Challenge of Flying Below Sea Level &lpar;2016&rpar;](https://avgeekery.com/challenge-flying-sea-level/)
-- [Visualizing Bayes Theorem &lpar;2009&rpar;](https://oscarbonilla.com/2009/05/visualizing-bayes-theorem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
