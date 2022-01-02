@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nebulosity is now open-source and free](http://www.stark-labs.com)
 - [Your attention didn&#39;t collapse. It was stolen](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
 - [OpenDrop: An open Apple AirDrop implementation written in Python](https://github.com/seemoo-lab/opendrop)
 - [The Challenge of Flying Below Sea Level &lpar;2016&rpar;](https://avgeekery.com/challenge-flying-sea-level/)
 - [Visualizing Bayes Theorem &lpar;2009&rpar;](https://oscarbonilla.com/2009/05/visualizing-bayes-theorem/)
-- [Baffling neurological illness affects growing number of young adults](https://www.theguardian.com/world/2022/jan/02/neurological-illness-affecting-young-adults-canada)
 <!-- BLOG-POST-LIST:END -->
 
 ---
