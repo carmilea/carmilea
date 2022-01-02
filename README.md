@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Book Review: “Viral” by Alina Chan and Matt Ridley](https://scottaaronson.blog/?p=6183)
 - [EU drafts plan to label gas and nuclear investments as green](https://www.reuters.com/markets/commodities/eu-drafts-plan-label-gas-nuclear-investments-green-2022-01-01/)
 - [The Dissolution of the Nutrition Science Initiative](http://garytaubes.com/the-dissolution-of-the-nutrition-science-initiative/)
 - [Dicio: Free and open source voice assistant for Android](https://github.com/Stypox/dicio-android)
 - [A persistent denial of service vulnerability affecting iOS](https://trevorspiniolas.com/doorlock/doorlock.html)
-- [50 Years of Text Games: The End of a Journey](https://if50.substack.com/p/the-end-of-a-journey)
 <!-- BLOG-POST-LIST:END -->
 
 ---
