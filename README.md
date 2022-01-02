@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Baffling neurological illness affects growing number of young adults](https://www.theguardian.com/world/2022/jan/02/neurological-illness-affecting-young-adults-canada)
+- [Fixing Stutters in Papers Please on Linux](https://blog.jhm.dev/posts/papers-please/)
+- [Ask HN: Why does a busy man build a shed?](https://news.ycombinator.com/item?id=29767682)
 - [Assembly Nights](https://ratfactor.com/assembly-nights)
 - [Viewstamped Replication Revisited](http://charap.co/reading-group-viewstamped-replication-revisited/)
-- [Ask HN: Predictions for 2022?](https://news.ycombinator.com/item?id=29767465)
-- [Ask HN: How do you cope with being interupted?](https://news.ycombinator.com/item?id=29767203)
-- [Almost Always Unsigned](https://graphitemaster.github.io/aau/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
