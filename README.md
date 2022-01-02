@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GhOSt: Fast and Flexible User-Space Delegation of Linux Scheduling](https://www.micahlerner.com/2021/12/28/ghost-fast-and-flexible-user-space-delegation-of-linux-scheduling.html)
+- [Notes on BPF and eBPF](https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/)
+- [Tcl/Tk Spline Editor](https://wiki.tcl-lang.org/page/SplineEditor)
+- [RSS-Bridge – The RSS feed for websites missing it](https://github.com/RSS-Bridge/rss-bridge)
 - [Google no longer producing high quality search results](https://twitter.com/mwseibel/status/1477701120319361026)
-- [Natural frequencies, chances, normalized frequencies, conditional probabilities](https://www.researchgate.net/figure/Gigerenzer-Hoffrage-Natural-frequencies-chances-normalized-frequencies-and_fig3_5881620)
-- [Microsoft confirms Exchange Year 2022 problem](https://borncity.com/win/2022/01/02/microsoft-besttigt-exchange-year-2022-problem-fip-fs-scan-engine-failed-to-load-1-jan-2022/)
-- [When they warn of rare disorders, these prenatal tests are usually wrong](https://www.nytimes.com/2022/01/01/upshot/pregnancy-birth-genetic-testing.html)
-- [The International Flag of Planet Earth](https://www.flagofplanetearth.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
