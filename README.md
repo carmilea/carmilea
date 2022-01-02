@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Secret Military Telephone Buttons](https://computer.rip/2022-01-01-secret-military-telephone-buttons.html)
 - [Many surprise medical bills are now illegal](https://www.axios.com/surprise-medical-bills-illegal-doctors-insurers-faac35a7-a2db-4555-a172-7de5f4c3cc54.html)
 - [Real-Time Tokyo Subway Map](https://minitokyo3d.com)
-- [The Coverage of Theranos Is Utter Bullshit &lpar;2015&rpar;](https://thehustle.co/the-coverage-of-theranos-is-utter-bullshit/)
-- [Tepco slow to respond to growing crisis at Fukushima plant](https://www.asahi.com/ajw/articles/14503708)
 - [In 2022 a Moonrush will begin in earnest](https://www.economist.com/science-and-technology/2022/01/01/in-2022-a-moonrush-will-begin-in-earnest)
+- [The argument against clearing the database between tests &lpar;2020&rpar;](https://calpaterson.com/against-database-teardown.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
