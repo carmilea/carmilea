@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Y2K problem came back with vengeance in 2022](https://borncity.com/win/2022/01/02/microsoft-besttigt-exchange-year-2022-problem-fip-fs-scan-engine-failed-to-load-1-jan-2022/)
+- [Google no longer producing high quality search results](https://twitter.com/mwseibel/status/1477701120319361026)
+- [Natural frequencies, chances, normalized frequencies, conditional probabilities](https://www.researchgate.net/figure/Gigerenzer-Hoffrage-Natural-frequencies-chances-normalized-frequencies-and_fig3_5881620)
+- [Microsoft confirms Exchange Year 2022 problem](https://borncity.com/win/2022/01/02/microsoft-besttigt-exchange-year-2022-problem-fip-fs-scan-engine-failed-to-load-1-jan-2022/)
 - [When they warn of rare disorders, these prenatal tests are usually wrong](https://www.nytimes.com/2022/01/01/upshot/pregnancy-birth-genetic-testing.html)
-- [Ask HN: How do you avoid dopamine addiction on social media?](https://news.ycombinator.com/item?id=29770887)
 - [The International Flag of Planet Earth](https://www.flagofplanetearth.com)
-- [Faster TypedArrays: Vector Addition in WebAssembly](https://jott.live/markdown/wasm_vector_addition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
