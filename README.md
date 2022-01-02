@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [15x Faster TypedArrays: Vector Addition in WebAssembly 154GB/S](https://jott.live/markdown/wasm_vector_addition)
-- [Tesla Q4 2021 Vehicle Production and Deliveries](https://ir.tesla.com/press-release/tesla-q4-2021-vehicle-production-deliveries)
-- [I Built a Shed](https://eduardosasso.co/blog/how-i-built-a-wfh-shed/)
-- [Preliminary analysis of the Hayabusa2 samples returned from asteroid Ryugu](https://www.nature.com/articles/s41550-021-01550-6)
-- [During 2021 Bitcoin consumed 134 TWh in total](https://twitter.com/digieconomist/status/1477420461122375683)
+- [Y2K problem came back with vengeance in 2022](https://borncity.com/win/2022/01/02/microsoft-besttigt-exchange-year-2022-problem-fip-fs-scan-engine-failed-to-load-1-jan-2022/)
+- [When they warn of rare disorders, these prenatal tests are usually wrong](https://www.nytimes.com/2022/01/01/upshot/pregnancy-birth-genetic-testing.html)
+- [Ask HN: How do you avoid dopamine addiction on social media?](https://news.ycombinator.com/item?id=29770887)
+- [The International Flag of Planet Earth](https://www.flagofplanetearth.com)
+- [Faster TypedArrays: Vector Addition in WebAssembly](https://jott.live/markdown/wasm_vector_addition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
