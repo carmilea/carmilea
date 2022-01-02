@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Coverage of Theranos Is Utter Bullshit &lpar;2015&rpar;](https://thehustle.co/the-coverage-of-theranos-is-utter-bullshit/)
 - [Tepco slow to respond to growing crisis at Fukushima plant](https://www.asahi.com/ajw/articles/14503708)
-- [Covid vaccination and age-stratified all-cause mortality risk](https://www.researchgate.net/publication/355581860_COVID_vaccination_and_age-stratified_all-cause_mortality_risk)
 - [In 2022 a Moonrush will begin in earnest](https://www.economist.com/science-and-technology/2022/01/01/in-2022-a-moonrush-will-begin-in-earnest)
 - [The argument against clearing the database between tests &lpar;2020&rpar;](https://calpaterson.com/against-database-teardown.html)
 - [Show HN: A web app to turn photos into 3D AR models.](https://usdz.app?ref=hn)
