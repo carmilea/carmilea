@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Google that produces high quality search results in significant categories](https://notrashsearch.github.io)
+- [Zotero- Free, easy-to-use tool to collect, organize, cite, and share research](https://www.zotero.org)
+- [The 30-Year Mortgage Is an Intrinsically Toxic Product &lpar;2019&rpar;](https://www.thediff.co/p/the-30-year-mortgage-is-an-intrinsically-toxic-product-200c901746a)
 - [Analysis of the overhead of a minimal Zig program](https://zig.news/aransentin/analysis-of-the-overhead-of-a-minimal-zig-program-4lg0)
-- [Google manipulated “Mass formation psychosis” search results after interview](https://stevekirsch.substack.com/p/how-google-manipulated-mass-formation)
-- [Bitcoin&#39;s electricity use 8 times higher than Google&#39;s and Facebook&#39;s combined](https://www.thenationalnews.com/business/cryptocurrencies/2021/12/30/bitcoins-electricity-consumption-is-now-eight-times-that-of-google-and-facebook-combined/)
 - [Show HN: Burglar simulation “The Clou” from 1994 ported right in the the browser](https://theclou.netlify.app/)
-- [Firehose of Falsehood](https://en.wikipedia.org/wiki/Firehose_of_falsehood)
 <!-- BLOG-POST-LIST:END -->
 
 ---
