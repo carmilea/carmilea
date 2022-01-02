@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Assembly Nights](https://ratfactor.com/assembly-nights)
+- [Viewstamped Replication Revisited](http://charap.co/reading-group-viewstamped-replication-revisited/)
+- [Ask HN: Predictions for 2022?](https://news.ycombinator.com/item?id=29767465)
 - [Ask HN: How do you cope with being interupted?](https://news.ycombinator.com/item?id=29767203)
-- [Ask HN: Do anti-C19 foggers do any good or is this performance?](https://news.ycombinator.com/item?id=29766747)
 - [Almost Always Unsigned](https://graphitemaster.github.io/aau/)
-- [Web3 Is More Centralized](https://blog.wesleyac.com/posts/web3-centralized)
-- [What’s the Difference Between American English and British English?](http://backreaction.blogspot.com/2022/01/whats-difference-between-american.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
