@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GhOSt: Fast and Flexible User-Space Delegation of Linux Scheduling](https://www.micahlerner.com/2021/12/28/ghost-fast-and-flexible-user-space-delegation-of-linux-scheduling.html)
-- [Notes on BPF and eBPF](https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/)
-- [Tcl/Tk Spline Editor](https://wiki.tcl-lang.org/page/SplineEditor)
-- [RSS-Bridge – The RSS feed for websites missing it](https://github.com/RSS-Bridge/rss-bridge)
-- [Google no longer producing high quality search results](https://twitter.com/mwseibel/status/1477701120319361026)
+- [Analysis of the overhead of a minimal Zig program](https://zig.news/aransentin/analysis-of-the-overhead-of-a-minimal-zig-program-4lg0)
+- [Google manipulated “Mass formation psychosis” search results after interview](https://stevekirsch.substack.com/p/how-google-manipulated-mass-formation)
+- [Bitcoin&#39;s electricity use 8 times higher than Google&#39;s and Facebook&#39;s combined](https://www.thenationalnews.com/business/cryptocurrencies/2021/12/30/bitcoins-electricity-consumption-is-now-eight-times-that-of-google-and-facebook-combined/)
+- [Show HN: Burglar simulation “The Clou” from 1994 ported right in the the browser](https://theclou.netlify.app/)
+- [Firehose of Falsehood](https://en.wikipedia.org/wiki/Firehose_of_falsehood)
 <!-- BLOG-POST-LIST:END -->
 
 ---
