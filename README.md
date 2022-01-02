@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A Google that produces high quality search results in significant categories](https://notrashsearch.github.io)
-- [Zotero- Free, easy-to-use tool to collect, organize, cite, and share research](https://www.zotero.org)
-- [The 30-Year Mortgage Is an Intrinsically Toxic Product &lpar;2019&rpar;](https://www.thediff.co/p/the-30-year-mortgage-is-an-intrinsically-toxic-product-200c901746a)
+- [Summary of Atomic Habits](https://www.chrisbehan.ca/posts/atomic-habits)
+- [Zotero: Free, easy-to-use tool to collect, organize, cite, and share research](https://www.zotero.org)
 - [Analysis of the overhead of a minimal Zig program](https://zig.news/aransentin/analysis-of-the-overhead-of-a-minimal-zig-program-4lg0)
 - [Show HN: Burglar simulation “The Clou” from 1994 ported right in the the browser](https://theclou.netlify.app/)
+- [Notes on BPF and eBPF](https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
