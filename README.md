@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [15x Faster TypedArrays: Vector Addition in WebAssembly 154GB/S](https://jott.live/markdown/wasm_vector_addition)
+- [Tesla Q4 2021 Vehicle Production and Deliveries](https://ir.tesla.com/press-release/tesla-q4-2021-vehicle-production-deliveries)
+- [I Built a Shed](https://eduardosasso.co/blog/how-i-built-a-wfh-shed/)
+- [Preliminary analysis of the Hayabusa2 samples returned from asteroid Ryugu](https://www.nature.com/articles/s41550-021-01550-6)
 - [During 2021 Bitcoin consumed 134 TWh in total](https://twitter.com/digieconomist/status/1477420461122375683)
-- [Indiana life insurance CEO says deaths are up 40% among people ages 18-64](https://www.thecentersquare.com/indiana/indiana-life-insurance-ceo-says-deaths-are-up-40-among-people-ages-18-64/article_71473b12-6b1e-11ec-8641-5b2c06725e2c.html)
-- [Google owns TLDs: .web .meme and .lol](https://icannwiki.org/.meme)
-- [Nebulosity is now open-source and free](http://www.stark-labs.com)
-- [Your attention didn&#39;t collapse. It was stolen](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
 <!-- BLOG-POST-LIST:END -->
 
 ---
