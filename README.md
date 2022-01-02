@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 Is More Centralized](https://blog.wesleyac.com/posts/web3-centralized)
 - [Secret Military Telephone Buttons](https://computer.rip/2022-01-01-secret-military-telephone-buttons.html)
 - [Many surprise medical bills are now illegal](https://www.axios.com/surprise-medical-bills-illegal-doctors-insurers-faac35a7-a2db-4555-a172-7de5f4c3cc54.html)
 - [Real-Time Tokyo Subway Map](https://minitokyo3d.com)
-- [In 2022 a Moonrush will begin in earnest](https://www.economist.com/science-and-technology/2022/01/01/in-2022-a-moonrush-will-begin-in-earnest)
-- [The argument against clearing the database between tests &lpar;2020&rpar;](https://calpaterson.com/against-database-teardown.html)
+- [HN Predictions for 2021 &lpar;2020&rpar;](https://news.ycombinator.com/item?id=25594068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
