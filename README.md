@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The American polity is cracked, and might collapse. Canada must prepare](https://www.theglobeandmail.com/opinion/article-the-american-polity-is-cracked-and-might-collapse-canada-must-prepare/)
+- [Gameboy CT scan – design lessons learned](https://scanofthemonth.com/game-boy-original/)
 - [The Demise of Scientific American](https://scottaaronson.blog/?p=6202)
+- [Ultra High Resolution Photo of Night Watch &lpar;2022&rpar;](https://www.rijksmuseum.nl/en/stories/operation-night-watch)
 - [Write Like You Code](https://www.chrisbehan.ca/posts/write-like-you-code)
 - [Evidence for a mouse origin of the SARS-CoV-2 Omicron variant](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8702434/)
-- [You don&#39;t need that CORS request](https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
