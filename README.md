@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why is there a chip shortage?](https://news.ycombinator.com/item?id=29781027)
-- [Hacking a VW Golf Power Steering ECU](https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part1/)
-- [Airports Had to Deal With Over 2B Litres of Airplane Toilet Waste in 2019](https://www.travelstatsman.com/03012022/airports-had-to-deal-with-over-2-billion-litres-of-airplane-toilet-waste-in-2019/)
-- [The Illustrated Retrieval Transformer](http://jalammar.github.io/illustrated-retrieval-transformer/)
-- [Ask HN: What do you do with your older hardware?](https://news.ycombinator.com/item?id=29780906)
+- [$2,500 Ethernet Switch Effectively Isolates Audiophiles from Cash](https://www.tomshardware.com/news/ethernet-switch-for-audiophiles)
+- [Paul Graham&#39;s Twitter thread on Search engines and SEO spam](https://twitter.com/paulg/status/1477760548787920901)
+- [Elena Ceausescu: Greatest Scientist Ever – except she was a fraud](https://paperpile.com/blog/elena-ceausescu-scientist-fraud/)
+- [Ask HN: Who is hiring? &lpar;January 2022&rpar;](https://news.ycombinator.com/item?id=29782099)
+- [Ask HN: Freelancer? Seeking freelancer? &lpar;January 2022&rpar;](https://news.ycombinator.com/item?id=29782097)
 <!-- BLOG-POST-LIST:END -->
 
 ---
