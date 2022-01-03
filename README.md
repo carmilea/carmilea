@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“A New Future for GnuPG”: GnuPG is now financially self-sustaining](https://lwn.net/Articles/880248/)
 - [Metaphor &lpar;YC S21&rpar; Is Hiring Self-Supervised Learning Researchers](https://www.ycombinator.com/companies/metaphor/jobs/z9af6mz-research-scientist-or-research-engineer)
+- [When WikiLeaks bumped into the CIA: Operation Kudo exposed [video]](https://media.ccc.de/v/rc3-2021-chaoszone-409-when-wikileaks-bu)
+- [Homelessness Rises Faster Where Rent Exceeds a Third of Income &lpar;2018&rpar;](https://www.zillow.com/research/homelessness-rent-affordability-22247/)
 - [RPi Pico: 100BASE-T with cheap ethernet PHY module](https://github.com/maximeborges/pico-rmii-ethernet)
-- [$2,500 Ethernet Switch Effectively Isolates Audiophiles from Cash](https://www.tomshardware.com/news/ethernet-switch-for-audiophiles)
-- [Search engines and SEO spam](https://twitter.com/paulg/status/1477760548787920901)
-- [Elena Ceausescu: Greatest Scientist Ever – except she was a fraud](https://paperpile.com/blog/elena-ceausescu-scientist-fraud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
