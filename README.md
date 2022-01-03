@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A unified theory of VC suckage &lpar;2005&rpar;](http://www.paulgraham.com/venturecapital.html)
 - [Things I Won&#39;t Work With: Dioxygen Difluoride &lpar;2010&rpar;](https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride)
 - [Unsupervised Brain Models](https://xcorr.net/2021/12/31/2021-in-review-unsupervised-brain-models/)
 - [Automated Code Optimization with E-Graphs](https://arxiv.org/abs/2112.14714)
 - [Slicer: Auto-Sharding for Datacenter Applications](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/adya)
-- [2.3k Patch Would Improve Linux Build Times 50~80% &amp; Fix “Dependency Hell”](https://www.phoronix.com/scan.php?page=news_item&px=Linux-Fast-Kernel-Headers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
