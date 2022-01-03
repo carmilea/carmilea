@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944)
+- [Declarative memory management &lpar;2019&rpar;](https://fasterthanli.me/articles/declarative-memory-management)
+- [DaedalOS: Desktop Environment in the Browser](https://dustinbrett.com)
+- [Genuary 2022: Generative Code Art Prompts for a Month](https://genuary.art/)
 - [Using a mild Twitter addiction to get things done](https://nick.comer.io/post/ios-shortcuts)
-- [Power, frequency, management: how M1 E cores win](https://eclecticlight.co/2022/01/03/power-frequency-management-how-m1-e-cores-win/)
-- [Ask HN: Why is today&#39;s Internet experience so user hostile?](https://news.ycombinator.com/item?id=29778880)
-- [Gameboy CT scan – design lessons learned](https://scanofthemonth.com/game-boy-original/)
-- [The Demise of Scientific American](https://scottaaronson.blog/?p=6202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
