@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Statistical Rethinking 2022 Lecture 01 – Richard McElreath](https://www.youtube.com/watch?v=cclUd_HoRlo)
-- [Vanta.js Animated 3D Backgrounds](https://www.vantajs.com/)
-- [How to Write about Africa](https://granta.com/how-to-write-about-africa/)
-- [AaronOS](https://aaronos.dev/AaronOS/aosBeta.php)
-- [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944)
+- [Ask HN: Why is there a chip shortage?](https://news.ycombinator.com/item?id=29781027)
+- [Hacking a VW Golf Power Steering ECU](https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part1/)
+- [Airports Had to Deal With Over 2B Litres of Airplane Toilet Waste in 2019](https://www.travelstatsman.com/03012022/airports-had-to-deal-with-over-2-billion-litres-of-airplane-toilet-waste-in-2019/)
+- [The Illustrated Retrieval Transformer](http://jalammar.github.io/illustrated-retrieval-transformer/)
+- [Ask HN: What do you do with your older hardware?](https://news.ycombinator.com/item?id=29780906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
