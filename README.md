@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Evidence for a mouse origin of the SARS-CoV-2 Omicron variant](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8702434/)
+- [Chief Justice Backs Plan to Review Patent Trial Forum-Shopping](https://www.bloomberg.com/news/articles/2022-01-01/chief-justice-backs-plan-to-review-patent-trial-forum-shopping)
+- [“Fast Kernel Headers” Tree -v1: Eliminate the Linux Kernel&#39;s “Dependency Hell”](https://lwn.net/ml/linux-kernel/YdIfz+LMewetSaEB@gmail.com/)
 - [A unified theory of VC suckage &lpar;2005&rpar;](http://www.paulgraham.com/venturecapital.html)
 - [DOSEMU2 Pre9](https://github.com/dosemu2/dosemu2/blob/0b8b53995b016d7c32b8b4f853e5fca77b461479/NEWS.md)
-- [Things I Won&#39;t Work With: Dioxygen Difluoride &lpar;2010&rpar;](https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride)
-- [Unsupervised Brain Models](https://xcorr.net/2021/12/31/2021-in-review-unsupervised-brain-models/)
-- [Automated Code Optimization with E-Graphs](https://arxiv.org/abs/2112.14714)
 <!-- BLOG-POST-LIST:END -->
 
 ---
