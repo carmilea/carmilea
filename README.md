@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI Declassifies Files on the Finders and Child Trafficking Cases](https://www.winterwatch.net/2021/12/the-fbi-declassifies-files-on-the-finders-child-trafficking-case-involving-mcmartin-preschool/)
-- [Terraform Scripting Concepts](https://serdigital64.github.io/post/terraform/terraform-scripting-concepts-part1of2/)
+- [Statistical Rethinking 2022 Lecture 01 – Richard McElreath](https://www.youtube.com/watch?v=cclUd_HoRlo)
+- [Vanta.js Animated 3D Backgrounds](https://www.vantajs.com/)
+- [How to Write about Africa](https://granta.com/how-to-write-about-africa/)
+- [AaronOS](https://aaronos.dev/AaronOS/aosBeta.php)
 - [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944)
-- [Declarative memory management &lpar;2019&rpar;](https://fasterthanli.me/articles/declarative-memory-management)
-- [DaedalOS: Desktop Environment in the Browser](https://dustinbrett.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
