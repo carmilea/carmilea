@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Reverie Labs &lpar;YC W18&rpar; Is Hiring Senior Software Engineers to Cure Cancer](https://jobs.lever.co/reverielabs/3215ba2d-a3be-412b-954d-10e1e75eb078)
+- [Winnie the Pooh should have been free decades ago: Copyrights should be shorter](https://fullstackeconomics.com/winnie-the-pooh-should-have-been-free-decades-ago/)
 - [Show HN: Clone your voice and speak a foreign language](https://coqui.ai/)
 - [Tips for making writing more fun](https://davnicwil.com/tips-for-making-writing-more-fun/)
 - [Book Review: The Future of Fusion Energy](https://martin.kleppmann.com/2022/01/03/future-of-fusion-energy.html)
-- [Major astronomy journals are now completely Open Access](https://journals.aas.org/oa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
