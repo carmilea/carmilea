@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Metaphor &lpar;YC S21&rpar; Is Hiring Self-Supervised Learning Researchers](https://www.ycombinator.com/companies/metaphor/jobs/z9af6mz-research-scientist-or-research-engineer)
+- [RPi Pico: 100BASE-T with cheap ethernet PHY module](https://github.com/maximeborges/pico-rmii-ethernet)
 - [$2,500 Ethernet Switch Effectively Isolates Audiophiles from Cash](https://www.tomshardware.com/news/ethernet-switch-for-audiophiles)
-- [Paul Graham&#39;s Twitter thread on Search engines and SEO spam](https://twitter.com/paulg/status/1477760548787920901)
+- [Search engines and SEO spam](https://twitter.com/paulg/status/1477760548787920901)
 - [Elena Ceausescu: Greatest Scientist Ever – except she was a fraud](https://paperpile.com/blog/elena-ceausescu-scientist-fraud/)
-- [Ask HN: Who is hiring? &lpar;January 2022&rpar;](https://news.ycombinator.com/item?id=29782099)
-- [Ask HN: Freelancer? Seeking freelancer? &lpar;January 2022&rpar;](https://news.ycombinator.com/item?id=29782097)
 <!-- BLOG-POST-LIST:END -->
 
 ---
