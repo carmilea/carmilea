@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A curated list of questionable installation instructions](https://curlsh.com/)
-- [Top Hacker News commenters of 2021](https://whaly.io/posts/top-10k-commenters-of-hacker-news-in-2021)
+- [Using a mild Twitter addiction to get things done](https://nick.comer.io/post/ios-shortcuts)
 - [Power, frequency, management: how M1 E cores win](https://eclecticlight.co/2022/01/03/power-frequency-management-how-m1-e-cores-win/)
 - [Ask HN: Why is today&#39;s Internet experience so user hostile?](https://news.ycombinator.com/item?id=29778880)
 - [Gameboy CT scan – design lessons learned](https://scanofthemonth.com/game-boy-original/)
+- [The Demise of Scientific American](https://scottaaronson.blog/?p=6202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
