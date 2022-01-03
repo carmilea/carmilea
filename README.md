@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [America gave up on truly educating all its kids. Then Jan. 6 happened](https://www.inquirer.com/opinion/january-6-anniversary-civics-education-in-america-20220102.html)
 - [A unified theory of VC suckage &lpar;2005&rpar;](http://www.paulgraham.com/venturecapital.html)
+- [DOSEMU2 Pre9](https://github.com/dosemu2/dosemu2/blob/0b8b53995b016d7c32b8b4f853e5fca77b461479/NEWS.md)
 - [Things I Won&#39;t Work With: Dioxygen Difluoride &lpar;2010&rpar;](https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride)
 - [Unsupervised Brain Models](https://xcorr.net/2021/12/31/2021-in-review-unsupervised-brain-models/)
 - [Automated Code Optimization with E-Graphs](https://arxiv.org/abs/2112.14714)
