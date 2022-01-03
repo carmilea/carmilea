@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Summary of Atomic Habits](https://www.chrisbehan.ca/posts/atomic-habits)
-- [Zotero: Free, easy-to-use tool to collect, organize, cite, and share research](https://www.zotero.org)
-- [Analysis of the overhead of a minimal Zig program](https://zig.news/aransentin/analysis-of-the-overhead-of-a-minimal-zig-program-4lg0)
-- [Show HN: Burglar simulation “The Clou” from 1994 ported right in the the browser](https://theclou.netlify.app/)
-- [Notes on BPF and eBPF](https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/)
+- [Things I Won&#39;t Work With: Dioxygen Difluoride &lpar;2010&rpar;](https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride)
+- [Unsupervised Brain Models](https://xcorr.net/2021/12/31/2021-in-review-unsupervised-brain-models/)
+- [Automated Code Optimization with E-Graphs](https://arxiv.org/abs/2112.14714)
+- [Slicer: Auto-Sharding for Datacenter Applications](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/adya)
+- [2.3k Patch Would Improve Linux Build Times 50~80% &amp; Fix “Dependency Hell”](https://www.phoronix.com/scan.php?page=news_item&px=Linux-Fast-Kernel-Headers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
