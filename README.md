@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Dura is a background process that watches your Git repositories](https://github.com/tkellogg/dura)
-- [Speaking Freely: Why I Resigned from the Canadian Broadcasting Corporation](https://tarahenley.substack.com/p/speaking-freely)
-- [GnuPG is now financially self-sustaining](https://lwn.net/Articles/880248/)
-- [C Runtime Overhead](http://ryanhileman.info/posts/lib43)
-- [Metaphor &lpar;YC S21&rpar; Is Hiring Self-Supervised Learning Researchers](https://www.ycombinator.com/companies/metaphor/jobs/z9af6mz-research-scientist-or-research-engineer)
+- [Tips for making writing more fun](https://davnicwil.com/tips-for-making-writing-more-fun/)
+- [Poll: Which FAANG is the most likely to decline in the years ahead?](https://news.ycombinator.com/item?id=29785046)
+- [High beef prices and the destruction of independent cattle ranching](https://mattstoller.substack.com/p/economists-to-cattle-ranchers-stop)
+- [NASM Assembly Language Tutorials](https://asmtutor.com/)
+- [The Matrix looks dramatically different on Hulu versus on HBO Max](https://www.echevarria.io/blog/the-matrix-looks-different-hulu-hbo-max/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
