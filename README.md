@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Write Like You Code](https://www.chrisbehan.ca/posts/write-like-you-code)
 - [Evidence for a mouse origin of the SARS-CoV-2 Omicron variant](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8702434/)
-- [Chief Justice Backs Plan to Review Patent Trial Forum-Shopping](https://www.bloomberg.com/news/articles/2022-01-01/chief-justice-backs-plan-to-review-patent-trial-forum-shopping)
 - [You don&#39;t need that CORS request](https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request/)
 - [“Fast Kernel Headers” Tree -v1: Eliminate the Linux Kernel&#39;s “Dependency Hell”](https://lwn.net/ml/linux-kernel/YdIfz+LMewetSaEB@gmail.com/)
+- [A unified theory of VC suckage &lpar;2005&rpar;](http://www.paulgraham.com/venturecapital.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
