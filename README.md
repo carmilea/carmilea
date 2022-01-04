@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Itchy eyes, any ideas / suggestions?](https://news.ycombinator.com/item?id=29792989)
+- [Ask HN: How to build a light weight personal blog?](https://news.ycombinator.com/item?id=29793389)
+- [Pg_cron](https://github.com/citusdata/pg_cron)
 - [OpenBSD Based Challenge Day 3](https://write.as/adventures-in-bsd/openbsd-based-challenge-day-3)
 - [Ban CSS Margins](https://mxstbr.com/thoughts/margin/)
 - [Tarot for Techies](https://witchcraft.computer)
-- [Ledger – the first peer-reviewed journal on blockchains and cryptocurrencies](https://ledger.pitt.edu/ojs/ledger)
 <!-- BLOG-POST-LIST:END -->
 
 ---
