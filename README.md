@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What password managers can you recommend?](https://news.ycombinator.com/item?id=29797022)
+- [Laylo &lpar;YC S20&rpar; Is Hiring a Growth Engineering Lead](https://angel.co/l/2wbqTS)
 - [Iceraven – Firefox for Android fork with more add-ons and configuration options](https://github.com/fork-maintainers/iceraven-browser)
 - [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows)
 - [Show HN: OnlyRecipe.app – Remove clutter from recipe sites. No story, no popups](https://showcase.onlyrecipe.app/)
-- [How to Mentor Software Engineers](https://xdg.me/mentor-engineers/)
-- [Show HN: A pure bash web server. No netcat, socat, etc.](https://github.com/dzove855/Bash-web-server)
 <!-- BLOG-POST-LIST:END -->
 
 ---
