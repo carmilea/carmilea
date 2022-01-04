@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ban CSS Margins](https://mxstbr.com/thoughts/margin/)
+- [Tarot for Techies](https://witchcraft.computer)
 - [Ledger – the first peer-reviewed journal on blockchains and cryptocurrencies](https://ledger.pitt.edu/ojs/ledger)
 - [The joy of building a ray tracer, for fun, in Rust](https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/)
 - [A New Future for GnuPG](https://gnupg.org/blog/20220102-a-new-future-for-gnupg.html)
-- [Tell HN: My Microstartups make $500/day while I&#39;m sleeping](https://news.ycombinator.com/item?id=29790964)
 <!-- BLOG-POST-LIST:END -->
 
 ---
