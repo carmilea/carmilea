@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iceraven – Firefox for Android fork with more add-ons and configuration options](https://github.com/fork-maintainers/iceraven-browser)
+- [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows)
 - [Show HN: OnlyRecipe.app – Remove clutter from recipe sites. No story, no popups](https://showcase.onlyrecipe.app/)
 - [How to Mentor Software Engineers](https://xdg.me/mentor-engineers/)
 - [Show HN: A pure bash web server. No netcat, socat, etc.](https://github.com/dzove855/Bash-web-server)
-- [IETF: The HTTP Query Method &lpar; Draft&rpar;](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-02.html)
-- [Rewriting Libimagequant in Rust for Portability](https://pngquant.org/rust.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
