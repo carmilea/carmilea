@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenBSD Based Challenge Day 3](https://write.as/adventures-in-bsd/openbsd-based-challenge-day-3)
 - [Ban CSS Margins](https://mxstbr.com/thoughts/margin/)
 - [Tarot for Techies](https://witchcraft.computer)
+- [Nobody pronounces the b in debt – and nobody ever did](https://www.merriam-webster.com/words-at-play/why-is-debt-spelled-like-that)
 - [Ledger – the first peer-reviewed journal on blockchains and cryptocurrencies](https://ledger.pitt.edu/ojs/ledger)
-- [The joy of building a ray tracer, for fun, in Rust](https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/)
-- [A New Future for GnuPG](https://gnupg.org/blog/20220102-a-new-future-for-gnupg.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
