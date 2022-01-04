@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No Way to Grow Up](https://www.nytimes.com/2022/01/04/briefing/american-children-crisis-pandemic.html)
+- [Is the Old Testament Historically Accurate?](https://www.smithsonianmag.com/history/archaeological-dig-reignites-debate-old-testament-historical-accuracy-180979011/)
+- [Ask HN: How to continue to be gracious about the good fortune of rich friends?](https://news.ycombinator.com/item?id=29800730)
 - [Hudu &lpar;YC W21&rpar; Is Hiring a JavaScript Engineer](https://www.ycombinator.com/companies/hudu/jobs/2L2oFZn-javascript-engineer-at-hudu)
-- [The UX on This Small Child Is Terrible](https://www.mcsweeneys.net/articles/the-ux-on-this-small-child-is-terrible)
-- [Show HN: I Launched a “Fun” Web App for Developers](https://news.ycombinator.com/item?id=29798077)
-- [Nginx gracefully upgrades executable on the fly](https://nginx.org/en/docs/control.html#upgrade)
-- [The Antikythera mechanism reveals new secrets](https://www.scientificamerican.com/article/an-ancient-greek-astronomical-calculation-machine-reveals-new-secrets/)
+- [A neuroscientist prepares for death](https://www.theatlantic.com/ideas/archive/2021/12/terminal-cancer-neuroscientist-prepares-death/621114/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
