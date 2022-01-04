@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New: NitroPhone 2/Pro with 4.5 Years of Software Updates](https://www.nitrokey.com/news/2022/new-nitrophone-2pro-45-years-software-updates)
-- [Show HN: Meetup with other travelers in a new place](https://travelfriends.xyz)
-- [How Video Streaming Processing Works](https://howvideo.works/#processing)
-- [Do not use &#39;week year&#39;: YYYY](https://github.com/graphhopper/graphhopper/pull/2505)
-- [Porting Rust&#39;s Std to Rustix](https://blog.sunfishcode.online/port-std-to-rustix/)
+- [France&#39;s Bogdanoff Twins Die Days Apart](https://www.bbc.co.uk/news/world-europe-59867046)
+- [IETF: The HTTP Query Method &lpar; Draft&rpar;](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-02.html)
+- [Rewriting Libimagequant in Rust for Portability](https://pngquant.org/rust.html)
+- [Ask HN: Let&#39;s build an HN uBlacklist to improve our Google search results?](https://news.ycombinator.com/item?id=29794372)
+- [NitroPhone 2/Pro with 4.5 years of software updates](https://www.nitrokey.com/news/2022/new-nitrophone-2pro-45-years-software-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
