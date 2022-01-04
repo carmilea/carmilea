@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [France&#39;s Bogdanoff Twins Die Days Apart](https://www.bbc.co.uk/news/world-europe-59867046)
+- [Show HN: OnlyRecipe.app – Remove clutter from recipe sites. No story, no popups](https://showcase.onlyrecipe.app/)
+- [How to Mentor Software Engineers](https://xdg.me/mentor-engineers/)
+- [Show HN: A pure bash web server. No netcat, socat, etc.](https://github.com/dzove855/Bash-web-server)
 - [IETF: The HTTP Query Method &lpar; Draft&rpar;](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-02.html)
 - [Rewriting Libimagequant in Rust for Portability](https://pngquant.org/rust.html)
-- [Ask HN: Let&#39;s build an HN uBlacklist to improve our Google search results?](https://news.ycombinator.com/item?id=29794372)
-- [NitroPhone 2/Pro with 4.5 years of software updates](https://www.nitrokey.com/news/2022/new-nitrophone-2pro-45-years-software-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
