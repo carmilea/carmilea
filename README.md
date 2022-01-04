@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [More Serious Than I Thought: Bank of America 800M Ounces Short on Silver](https://silverseek.com/article/more-serious-i-thought)
+- [Show HN: My Microstartups make $500/day while I&#39;m sleeping](https://news.ycombinator.com/item?id=29790964)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29790870)
+- [Mathematicians Outwit Hidden Number Conspiracy](https://www.quantamagazine.org/mathematicians-outwit-hidden-number-conspiracy-20220103/)
 - [ASML reports fire at its Berlin factory](https://www.reuters.com/technology/asml-reports-fire-its-berlin-factory-2022-01-03/)
-- [Elizabeth Holmes found guilty](https://www.axios.com/theranos-elizabeth-holmes-verdict-df20ad3f-95bd-400c-bf42-a379ade65c2c.html)
-- [Lab Leak 2.0?](https://bprice.substack.com/p/lab-leak-20)
-- [Copyright doesn&#39;t need 95 years to get the job done](https://fullstackeconomics.com/winnie-the-pooh-should-have-been-free-decades-ago/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
