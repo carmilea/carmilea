@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An Ancient Greek Astronomical Calculation Machine Reveals New Secrets](https://www.scientificamerican.com/article/an-ancient-greek-astronomical-calculation-machine-reveals-new-secrets/)
+- [Psilocybin has no short- or long-term detrimental effects in healthy people](https://www.kcl.ac.uk/news/psilocybin-in-10mg-or-25mg-doses-has-no-short-or-long-term-detrimental-effects-in-healthy-people)
+- [Show HN: I Launched a “Fun” Web App for Developers](https://news.ycombinator.com/item?id=29798077)
+- [Nginx gracefully upgrades executable on the fly](https://nginx.org/en/docs/control.html#upgrade)
+- [The Antikythera mechanism reveals new secrets](https://www.scientificamerican.com/article/an-ancient-greek-astronomical-calculation-machine-reveals-new-secrets/)
 - [DIY Onewheel – open-source self balancing skateboard](https://www.bytesizedengineering.com/projects/openwheel)
-- [A First Lesson in Econometrics &lpar;Paper&rpar; [pdf]](https://www.uibk.ac.at/econometrics/lit/siegfried_jpe_70.pdf)
-- [How do I open the Mercedes EQS’s hood?](https://tiremeetsroad.com/2021/12/19/how-do-i-open-the-hood-to-a-mercedes-eqs/)
-- [Laylo &lpar;YC S20&rpar; Is Hiring a Growth Engineering Lead](https://angel.co/l/2wbqTS)
 <!-- BLOG-POST-LIST:END -->
 
 ---
