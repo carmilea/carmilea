@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How to build a light weight personal blog?](https://news.ycombinator.com/item?id=29793389)
+- [How Video Streaming Processing Works](https://howvideo.works/#processing)
+- [Porting Rust&#39;s Std to Rustix](https://blog.sunfishcode.online/port-std-to-rustix/)
+- [Android in Docker without QEMU/emulator](https://github.com/remote-android/redroid-doc)
 - [Pg_cron](https://github.com/citusdata/pg_cron)
 - [OpenBSD Based Challenge Day 3](https://write.as/adventures-in-bsd/openbsd-based-challenge-day-3)
-- [Ban CSS Margins](https://mxstbr.com/thoughts/margin/)
-- [Tarot for Techies](https://witchcraft.computer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
