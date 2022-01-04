@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Rise in AWS accounts getting hacked and owner being stuck with the bill](https://news.ycombinator.com/item?id=29789417)
+- [Theranos founder Elizabeth Holmes found guilty of conspiracy](https://www.axios.com/theranos-elizabeth-holmes-verdict-df20ad3f-95bd-400c-bf42-a379ade65c2c.html)
+- [High-sucrose diets contribute to brain angiopathy and higher brain dysfunctions](https://www.science.org/doi/10.1126/sciadv.abl6077)
 - [Reverie Labs &lpar;YC W18&rpar; Is Hiring Senior Software Engineers to Cure Cancer](https://jobs.lever.co/reverielabs/3215ba2d-a3be-412b-954d-10e1e75eb078)
 - [Copyright doesn&#39;t need 95 years to get the job done](https://fullstackeconomics.com/winnie-the-pooh-should-have-been-free-decades-ago/)
-- [Show HN: Clone your voice and speak a foreign language](https://coqui.ai/)
-- [Tips for making writing more fun](https://davnicwil.com/tips-for-making-writing-more-fun/)
-- [Book Review: The Future of Fusion Energy](https://martin.kleppmann.com/2022/01/03/future-of-fusion-energy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
