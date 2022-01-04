@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: CryptoPocket, Encrypt anything then Decrypt by providing a required key](https://github.com/miroslavpejic85/cryptopocket)
-- [Sources: OpenSea Eyes $13B Valuation](https://www.newcomer.co/p/sources-opensea-eyes-13-billion-valuation)
-- [Leave Scrum to Rugby, I Like Getting Stuff Done](https://wagslane.dev/posts/leave-scrum-to-rugby/)
-- [Psilocybin has no short- or long-term detrimental effects in healthy people](https://www.kcl.ac.uk/news/psilocybin-in-10mg-or-25mg-doses-has-no-short-or-long-term-detrimental-effects-in-healthy-people)
+- [Hudu &lpar;YC W21&rpar; Is Hiring a JavaScript Engineer](https://www.ycombinator.com/companies/hudu/jobs/2L2oFZn-javascript-engineer-at-hudu)
+- [The UX on This Small Child Is Terrible](https://www.mcsweeneys.net/articles/the-ux-on-this-small-child-is-terrible)
 - [Show HN: I Launched a “Fun” Web App for Developers](https://news.ycombinator.com/item?id=29798077)
+- [Nginx gracefully upgrades executable on the fly](https://nginx.org/en/docs/control.html#upgrade)
+- [The Antikythera mechanism reveals new secrets](https://www.scientificamerican.com/article/an-ancient-greek-astronomical-calculation-machine-reveals-new-secrets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
