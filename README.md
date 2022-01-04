@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New: NitroPhone 2/Pro with 4.5 Years of Software Updates](https://www.nitrokey.com/news/2022/new-nitrophone-2pro-45-years-software-updates)
+- [Show HN: Meetup with other travelers in a new place](https://travelfriends.xyz)
 - [How Video Streaming Processing Works](https://howvideo.works/#processing)
+- [Do not use &#39;week year&#39;: YYYY](https://github.com/graphhopper/graphhopper/pull/2505)
 - [Porting Rust&#39;s Std to Rustix](https://blog.sunfishcode.online/port-std-to-rustix/)
-- [Android in Docker without QEMU/emulator](https://github.com/remote-android/redroid-doc)
-- [Pg_cron](https://github.com/citusdata/pg_cron)
-- [OpenBSD Based Challenge Day 3](https://write.as/adventures-in-bsd/openbsd-based-challenge-day-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
