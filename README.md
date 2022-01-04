@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Where have you gone, Peter Norton? &lpar;2014&rpar;](https://www.technologizer.com/2014/06/05/where-have-you-gone-peter-norton/)
+- [Updated MinIO NVMe Benchmarks: 2.6Tpbs on Get and 1.6 on Put](https://blog.min.io/nvme_benchmark/)
 - [No Way to Grow Up](https://www.nytimes.com/2022/01/04/briefing/american-children-crisis-pandemic.html)
 - [Is the Old Testament Historically Accurate?](https://www.smithsonianmag.com/history/archaeological-dig-reignites-debate-old-testament-historical-accuracy-180979011/)
 - [Ask HN: How to continue to be gracious about the good fortune of rich friends?](https://news.ycombinator.com/item?id=29800730)
-- [Hudu &lpar;YC W21&rpar; Is Hiring a JavaScript Engineer](https://www.ycombinator.com/companies/hudu/jobs/2L2oFZn-javascript-engineer-at-hudu)
-- [A neuroscientist prepares for death](https://www.theatlantic.com/ideas/archive/2021/12/terminal-cancer-neuroscientist-prepares-death/621114/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
