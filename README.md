@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Not Log](https://sobolevn.me/2020/03/do-not-log)
-- [How to Design a House to Last 1000 Years](https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for)
-- [Browser-Vite – Vite in the Browser](https://divriots.com/blog/vite-in-the-browser)
-- [Flatten Arrays in Vanilla JavaScript with Flat&lpar;&rpar; and FlatMap&lpar;&rpar;](https://www.wisdomgeek.com/development/flatten-arrays-in-vanilla-javascript-with-flat-and-flatmap/)
-- [Launch HN: Gravitl &lpar;YC W22&rpar; – VPN Platform Based on WireGuard](https://news.ycombinator.com/item?id=29809830)
+- [A record 4.5M workers quit their jobs in November](https://www.axios.com/workers-quit-jobs-november-data-labor-force-a58b23b6-ef54-4ed7-bb3b-78140b326a66.html)
+- [Tesorio &lpar;YC S15&rpar; is hiring a Senior DevOps and more](https://www.tesorio.com/careers#job-openings)
+- [An Injection of Chaos Solves Decades-Old Fluid Mystery](https://www.quantamagazine.org/an-injection-of-chaos-solves-decades-old-fluid-mystery-20220104/)
+- [95% of problems once solved by metaclasses can be solved by __init_subclass__](https://til.simonwillison.net/python/init-subclass)
+- [‘I felt powerless – so I started filming’: CyclingMikey vs. dangerous drivers](https://www.theguardian.com/lifeandstyle/2022/jan/05/filming-cyclingmikey-dangerous-drivers-mike-van-erp-motorists-britain-roads-safer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
