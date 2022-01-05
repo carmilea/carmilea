@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Work Stress: How the 42% Rule Could Help You Recover from Burnout](https://www.stylist.co.uk/long-reads/how-to-deal-with-stress-at-work-ways-to-reduce-stress-career-sleep-insomnia-books-reading-advice-science/256240)
-- [Ask HN: Is no-code a future of web development?](https://news.ycombinator.com/item?id=29808376)
+- [Launch HN: Gravitl &lpar;YC W22&rpar; – VPN Platform Based on WireGuard](https://news.ycombinator.com/item?id=29809830)
+- [ask HN:Why is Perl so dwarfed in data science by Python?](https://news.ycombinator.com/item?id=29809642)
+- [Minitorch: Implement the Torch API from Scratch, from Cornell Tech](https://minitorch.github.io/)
+- [Antiplatelet and anticoagulant therapy resolves long covid in 24 patients](https://www.researchgate.net/publication/357428572_Combined_triple_treatment_of_fibrin_amyloid_microclots_and_platelet_pathology_in_individuals_with_Long_COVID_Post-Acute_Sequelae_of_COVID-19_PASC_can_resolve_their_persistent_symptoms)
 - [Should you use Let&#39;s Encrypt for internal hostnames?](https://shkspr.mobi/blog/2022/01/should-you-use-lets-encrypt-for-internal-hostnames/)
-- [The Last Wild Lions of Europe](https://www.sapiens.org/archaeology/lions-europe/)
-- [Linuxgems – A succinct cheat sheet for newbie Linux coders and sysadmins](https://github.com/kevinthew/linuxgems)
 <!-- BLOG-POST-LIST:END -->
 
 ---
