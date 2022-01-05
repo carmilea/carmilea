@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How I took my SaaS from idea to sold in 14 months](https://masilotti.com/idea-to-sold-in-14-months/)
+- [Kazakh president’s home ablaze as protests escalate](https://apnews.com/article/business-kazakhstan-almaty-9da42330ca51c36fe9fd88f9ef35ff4e)
 - [A record 4.5M workers quit their jobs in November](https://www.axios.com/workers-quit-jobs-november-data-labor-force-a58b23b6-ef54-4ed7-bb3b-78140b326a66.html)
 - [Tesorio &lpar;YC S15&rpar; is hiring a Senior DevOps and more](https://www.tesorio.com/careers#job-openings)
 - [An Injection of Chaos Solves Decades-Old Fluid Mystery](https://www.quantamagazine.org/an-injection-of-chaos-solves-decades-old-fluid-mystery-20220104/)
-- [95% of problems once solved by metaclasses can be solved by __init_subclass__](https://til.simonwillison.net/python/init-subclass)
-- [‘I felt powerless – so I started filming’: CyclingMikey vs. dangerous drivers](https://www.theguardian.com/lifeandstyle/2022/jan/05/filming-cyclingmikey-dangerous-drivers-mike-van-erp-motorists-britain-roads-safer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
