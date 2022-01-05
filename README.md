@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Do Not Log](https://sobolevn.me/2020/03/do-not-log)
+- [How to Design a House to Last 1000 Years](https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for)
+- [Browser-Vite – Vite in the Browser](https://divriots.com/blog/vite-in-the-browser)
+- [Flatten Arrays in Vanilla JavaScript with Flat&lpar;&rpar; and FlatMap&lpar;&rpar;](https://www.wisdomgeek.com/development/flatten-arrays-in-vanilla-javascript-with-flat-and-flatmap/)
 - [Launch HN: Gravitl &lpar;YC W22&rpar; – VPN Platform Based on WireGuard](https://news.ycombinator.com/item?id=29809830)
-- [ask HN:Why is Perl so dwarfed in data science by Python?](https://news.ycombinator.com/item?id=29809642)
-- [Minitorch: Implement the Torch API from Scratch, from Cornell Tech](https://minitorch.github.io/)
-- [Antiplatelet and anticoagulant therapy resolves long covid in 24 patients](https://www.researchgate.net/publication/357428572_Combined_triple_treatment_of_fibrin_amyloid_microclots_and_platelet_pathology_in_individuals_with_Long_COVID_Post-Acute_Sequelae_of_COVID-19_PASC_can_resolve_their_persistent_symptoms)
-- [Should you use Let&#39;s Encrypt for internal hostnames?](https://shkspr.mobi/blog/2022/01/should-you-use-lets-encrypt-for-internal-hostnames/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
