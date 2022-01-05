@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Darling – run Mac apps on Linux](https://www.darlinghq.org/)
+- [I took a job at Amazon, only to leave after 10 months](https://benadam.me/thoughts/my-experience-at-amazon/)
 - [Why might you run your own DNS server?](https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/)
 - [Simple Dungeon Map Generation](https://smoldungeon.com/maps)
 - [We&#39;re two middle school teachers learning and teaching Python [audio]](https://www.teachingpython.fm/)
-- [How I took my SaaS from idea to sold in 14 months](https://masilotti.com/idea-to-sold-in-14-months/)
-- [A record 4.5M workers quit their jobs in November](https://www.axios.com/workers-quit-jobs-november-data-labor-force-a58b23b6-ef54-4ed7-bb3b-78140b326a66.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
