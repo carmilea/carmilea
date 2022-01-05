@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Utah tech executive resigns after anti-semitic email rant](https://www.fox13now.com/news/local-news/entrata-chair-emails-tech-ceos-claiming-covid-vaccine-part-of-sterilization-plot-by-the-jews)
+- [Intel claims new i9 is faster than M1 Max](https://www.intc.com/news-events/press-releases/detail/1517/intel-engineers-fastest-mobile-processor-ever-with-12th-gen)
 - [Where have you gone, Peter Norton? &lpar;2014&rpar;](https://www.technologizer.com/2014/06/05/where-have-you-gone-peter-norton/)
 - [Updated MinIO NVMe Benchmarks: 2.6Tpbs on Get and 1.6 on Put](https://blog.min.io/nvme_benchmark/)
 - [No Way to Grow Up](https://www.nytimes.com/2022/01/04/briefing/american-children-crisis-pandemic.html)
-- [Is the Old Testament Historically Accurate?](https://www.smithsonianmag.com/history/archaeological-dig-reignites-debate-old-testament-historical-accuracy-180979011/)
-- [Ask HN: How to continue to be gracious about the good fortune of rich friends?](https://news.ycombinator.com/item?id=29800730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
