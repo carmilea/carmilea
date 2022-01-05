@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google deploying planes over cities for 3D maps &lpar;2012&rpar;](https://www.reuters.com/article/us-google-maps-idUSBRE85516020120606)
+- [Sustainable, transparent, energy-efficient cloud infrastructures](https://the-report.cloud/sustainable-transparent-energy-efficient-cloud-infrastructures)
 - [Tauri – Electron alternative written in Rust](https://tauri.studio/en/)
 - [Wave Function Collapse library in pure C](https://github.com/krychu/wfc)
 - [Framework Laptop with Ubuntu Review](https://luisartola.com/framework-laptop-with-ubuntu-review/)
-- [My Evaluation of SvelteKit for Full-Stack Web App Development](https://cprimozic.net/blog/trying-out-sveltekit/)
-- [Lawsuit filed alleging Google is paying Apple to stay out of the search business](https://www.prnewswire.com/news-releases/class-action-lawsuit-filed-in-california-alleging-google-is-paying-apple-to-stay-out-of-the-search-engine-business-301453098.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
