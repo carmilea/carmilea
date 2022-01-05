@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Type Hints – How to Handle Optional Imports – Adam Johnson](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/)
+- [Leetcode has taught me that I&#39;m a bad engineer](https://news.ycombinator.com/item?id=29804607)
+- [Ruby&#39;s Email Address Regexp](https://github.com/ruby/ruby/blob/master/lib/uri/mailto.rb)
+- [OpenSea valued at $13.3B in new round of venture funding](https://www.nytimes.com/2022/01/04/business/opensea-13-billion-valuation-venture-funding.html)
+- [Python Type Hints – How to Handle Optional Imports](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/)
 - [Japanese Game Developer Hasn&#39;t Left the House in 10 Years](https://www.thegamer.com/japanese-game-developer-stay-home-10-years/)
-- [Where have you gone, Peter Norton? &lpar;2014&rpar;](https://www.technologizer.com/2014/06/05/where-have-you-gone-peter-norton/)
-- [Updated MinIO NVMe Benchmarks: 2.6Tpbs on Get and 1.6 on Put](https://blog.min.io/nvme_benchmark/)
-- [No Way to Grow Up](https://www.nytimes.com/2022/01/04/briefing/american-children-crisis-pandemic.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
