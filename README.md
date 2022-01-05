@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Asus will release a 17“ foldable OLED laptop](https://www.theverge.com/2022/1/5/22867624/asus-zenbook-17-fold-oled-foldable-laptop-tablet-specs-price-release-date)
+- [I analyzed 20k recommendations made by Jim Cramer during the last 5 years](https://old.reddit.com/r/options/comments/rwmxel/should_you_listen_to_jim_cramer_i_analyzed_20000/)
+- [QR code scammers hitting on-street parking in Texas cities](https://www.click2houston.com/news/local/2022/01/05/qr-code-scammers-hitting-on-street-parking-in-texas-cities-this-is-what-houston-officials-want-you-to-know/)
 - [I Miss RSS](https://www.wilcosky.com/d/20-i-miss-rss)
 - [History of energy consumption in the United States, 1775–2009 &lpar;2011&rpar;](https://www.eia.gov/todayinenergy/detail.php?id=10)
-- [Stars may form 10 times faster than thought](https://www.science.org/content/article/stars-may-form-10-times-faster-thought)
-- [Darling – run Mac apps on Linux](https://www.darlinghq.org/)
-- [I took a job at Amazon, only to leave after 10 months](https://benadam.me/thoughts/my-experience-at-amazon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
