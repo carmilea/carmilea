@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Miss RSS](https://www.wilcosky.com/d/20-i-miss-rss)
+- [History of energy consumption in the United States, 1775–2009 &lpar;2011&rpar;](https://www.eia.gov/todayinenergy/detail.php?id=10)
+- [Stars may form 10 times faster than thought](https://www.science.org/content/article/stars-may-form-10-times-faster-thought)
 - [Darling – run Mac apps on Linux](https://www.darlinghq.org/)
 - [I took a job at Amazon, only to leave after 10 months](https://benadam.me/thoughts/my-experience-at-amazon/)
-- [Why might you run your own DNS server?](https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/)
-- [Simple Dungeon Map Generation](https://smoldungeon.com/maps)
-- [We&#39;re two middle school teachers learning and teaching Python [audio]](https://www.teachingpython.fm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
