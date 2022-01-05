@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [ISS Docking Simulator – SpaceX](https://iss-sim.spacex.com/)
 - [Google deploying planes over cities for 3D maps &lpar;2012&rpar;](https://www.reuters.com/article/us-google-maps-idUSBRE85516020120606)
-- [Sustainable, transparent, energy-efficient cloud infrastructures](https://the-report.cloud/sustainable-transparent-energy-efficient-cloud-infrastructures)
 - [Tauri – Electron alternative written in Rust](https://tauri.studio/en/)
 - [Wave Function Collapse library in pure C](https://github.com/krychu/wfc)
-- [Framework Laptop with Ubuntu Review](https://luisartola.com/framework-laptop-with-ubuntu-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
