@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Work Stress: How the 42% Rule Could Help You Recover from Burnout](https://www.stylist.co.uk/long-reads/how-to-deal-with-stress-at-work-ways-to-reduce-stress-career-sleep-insomnia-books-reading-advice-science/256240)
+- [Ask HN: Is no-code a future of web development?](https://news.ycombinator.com/item?id=29808376)
+- [Should you use Let&#39;s Encrypt for internal hostnames?](https://shkspr.mobi/blog/2022/01/should-you-use-lets-encrypt-for-internal-hostnames/)
 - [The Last Wild Lions of Europe](https://www.sapiens.org/archaeology/lions-europe/)
-- [Internet disrupted in Kazakhstan amid energy price protests](https://netblocks.org/reports/internet-disrupted-in-kazakhstan-amid-energy-price-protests-oy9YQgy3)
-- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [ISS Docking Simulator – SpaceX](https://iss-sim.spacex.com/)
-- [Kosovo bans cryptocurrency mining to save electricity](https://www.reuters.com/markets/commodities/kosovo-bans-cryptocurrency-mining-save-electricity-2022-01-04/)
+- [Linuxgems – A succinct cheat sheet for newbie Linux coders and sysadmins](https://github.com/kevinthew/linuxgems)
 <!-- BLOG-POST-LIST:END -->
 
 ---
