@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Leetcode has taught me that I&#39;m a bad engineer](https://news.ycombinator.com/item?id=29804607)
-- [Ruby&#39;s Email Address Regexp](https://github.com/ruby/ruby/blob/master/lib/uri/mailto.rb)
+- [Show HN: I make $3K/mo from a browser extension](https://newsletter.tonydinh.com/issues/i-make-3k-mo-from-a-browser-extension-december-2021-updates-966892)
+- [DBOS: A DBMS-oriented Operating System [pdf]](https://vldb.org/pvldb/vol15/p21-skiadopoulos.pdf)
 - [Python Type Hints – How to Handle Optional Imports](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/)
-- [Japanese Game Developer Hasn&#39;t Left the House in 10 Years](https://www.thegamer.com/japanese-game-developer-stay-home-10-years/)
-- [Where have you gone, Peter Norton? &lpar;2014&rpar;](https://www.technologizer.com/2014/06/05/where-have-you-gone-peter-norton/)
+- [Japanese game developer hasn&#39;t left the house in 10 years](https://www.thegamer.com/japanese-game-developer-stay-home-10-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
