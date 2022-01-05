@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tauri – Electron alternative written in Rust](https://tauri.studio/en/)
+- [Wave Function Collapse library in pure C](https://github.com/krychu/wfc)
 - [Framework Laptop with Ubuntu Review](https://luisartola.com/framework-laptop-with-ubuntu-review/)
 - [My Evaluation of SvelteKit for Full-Stack Web App Development](https://cprimozic.net/blog/trying-out-sveltekit/)
 - [Lawsuit filed alleging Google is paying Apple to stay out of the search business](https://www.prnewswire.com/news-releases/class-action-lawsuit-filed-in-california-alleging-google-is-paying-apple-to-stay-out-of-the-search-engine-business-301453098.html)
-- [What Would Feynman Do? &lpar;2011&rpar;](https://ericlippert.com/2011/02/14/what-would-feynman-do/)
-- [TSMC’s Arizona Culture Clash](https://www.eetimes.com/tsmcs-arizona-culture-clash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
