@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Last Wild Lions of Europe](https://www.sapiens.org/archaeology/lions-europe/)
+- [Internet disrupted in Kazakhstan amid energy price protests](https://netblocks.org/reports/internet-disrupted-in-kazakhstan-amid-energy-price-protests-oy9YQgy3)
 - [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [ISS Docking Simulator – SpaceX](https://iss-sim.spacex.com/)
-- [Google deploying planes over cities for 3D maps &lpar;2012&rpar;](https://www.reuters.com/article/us-google-maps-idUSBRE85516020120606)
-- [Tauri – Electron alternative written in Rust](https://tauri.studio/en/)
-- [Wave Function Collapse library in pure C](https://github.com/krychu/wfc)
+- [Kosovo bans cryptocurrency mining to save electricity](https://www.reuters.com/markets/commodities/kosovo-bans-cryptocurrency-mining-save-electricity-2022-01-04/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
