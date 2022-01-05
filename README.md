@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [TSMC’s Arizona Culture Clash](https://www.eetimes.com/tsmcs-arizona-culture-clash/)
+- [The redacted lawsuit: Solarwinds board of directors sued by shareholders](https://github.com/jaybobo/jaybobo/blob/main/docs/solarwinds-complaint/summary-solarwinds.md)
 - [Leetcode has taught me that I&#39;m a bad engineer](https://news.ycombinator.com/item?id=29804607)
 - [Show HN: I make $3K/mo from a browser extension](https://newsletter.tonydinh.com/issues/i-make-3k-mo-from-a-browser-extension-december-2021-updates-966892)
-- [DBOS: A DBMS-oriented Operating System [pdf]](https://vldb.org/pvldb/vol15/p21-skiadopoulos.pdf)
 - [Python Type Hints – How to Handle Optional Imports](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/)
-- [Japanese game developer hasn&#39;t left the house in 10 years](https://www.thegamer.com/japanese-game-developer-stay-home-10-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
