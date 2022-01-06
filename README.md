@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Omicron at 100% Prevalence, Colorado](https://covid19.colorado.gov/data)
 - [Stacker &lpar;YC S20&rpar; Is Hiring for Data, Product Design, and Product Engineering](https://www.stackerhq.com/careers#job-listing)
 - [Longform.org Is Shutting Down](https://longform.org/)
 - [Mozilla&#39;s call for cryptocurrency donations angers founder](https://www.theregister.com/2022/01/05/mozilla_accepts_cryptocurrency/)
 - [Crypto: The Good, the Bad and the Ugly](https://seldo.com/posts/crypto-the-good-the-bad-and-the-ugly/)
-- [YK22 bug causing Honda clocks to stop working](https://www.crvownersclub.com/threads/clock-fault-year-2022-note-this-is-not-a-gps-related-issue-merged-master-thread.224326/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
