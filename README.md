@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pachyderm is hiring Python and Go Engineers to build world-class Data Versioning](https://www.pachyderm.com/careers/#positions)
+- [Ask HN: Who wants to help promote RSS?](https://news.ycombinator.com/item?id=29825844)
 - [Launch HN: ContainIQ &lpar;YC S21&rpar; – Kubernetes Native Monitoring with eBPF](https://news.ycombinator.com/item?id=29825681)
+- [Chatbots: Still dumb after all these years](https://mindmatters.ai/2022/01/will-chatbots-replace-the-art-of-human-conversation/)
 - [DuckDB Time Zones: Supporting Calendar Extensions](https://duckdb.org/2022/01/06/time-zones.html)
-- [Ask HN: Would you pass an interview for your current position?](https://news.ycombinator.com/item?id=29825080)
-- [Raspberry Pi Boot to Basic](https://popey.com/blog/2021/01/raspberry-pi-boot-to-basic/)
-- [Show HN: Possimpible: A Kernel Running on the Browser](https://github.com/intigos/possimpible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
