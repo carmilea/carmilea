@@ -54,7 +54,7 @@
 - [Brussels Airlines makes 3,000 unnecessary flights to maintain airport slots](https://www.thebulletin.be/brussels-airlines-makes-3000-unnecessary-flights-maintain-airport-slots)
 - [Drug ring hid $1B worth of coke on a single ship](https://www.freightwaves.com/news/case-closed-how-drug-ring-hid-20-tons-of-coke-on-a-single-ship)
 - [Staggering stat: 87% of U.S. teenagers have iPhones](https://www.axios.com/teen-iphone-use-spending-habits-bc2e598e-303d-4024-8db8-c345b1415ad4.html)
-- [GitHub Successors](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-user-accounts-repositories)
+- [Inviting another GitHub user to be your successor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-user-accounts-repositories)
 - [Facebook collecting people&#39;s data even when accounts are deactivated](https://digiday.com/media/why-facebook-keeps-collecting-peoples-data-and-building-their-profiles-even-when-their-accounts-are-deactivated/)
 <!-- BLOG-POST-LIST:END -->
 
