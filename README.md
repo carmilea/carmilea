@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pachyderm is hiring Python and Go Engineers to build world-class Data Versioning](https://www.pachyderm.com/careers/#positions)
-- [Ask HN: Who wants to help promote RSS?](https://news.ycombinator.com/item?id=29825844)
-- [Launch HN: ContainIQ &lpar;YC S21&rpar; – Kubernetes Native Monitoring with eBPF](https://news.ycombinator.com/item?id=29825681)
-- [Chatbots: Still dumb after all these years](https://mindmatters.ai/2022/01/will-chatbots-replace-the-art-of-human-conversation/)
-- [DuckDB Time Zones: Supporting Calendar Extensions](https://duckdb.org/2022/01/06/time-zones.html)
+- [Twilio suspended account because someone sent us a fraud text](https://news.ycombinator.com/item?id=29826725)
+- [Norton 360 Now Comes with a Cryptominer](https://krebsonsecurity.com/2022/01/norton-360-now-comes-with-a-cryptominer/)
+- [Illegal movie streaming service Popcorn Time shuts down](https://www.engadget.com/movie-piracy-app-popcorn-time-shuts-down-115523694.html)
+- [Swiss Army Bans Use of WhatsApp, Signal and Telegram](https://www.swissinfo.ch/eng/politics/swiss-army-restricts-use-of-messenger-apps/47238938)
+- [The Modern Metadata Platform: What, Why, and How?](https://metaphor.io/blog/the-modern-metadata-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ---
