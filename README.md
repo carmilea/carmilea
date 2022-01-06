@@ -55,7 +55,7 @@
 - [Longform.org Is Shutting Down](https://longform.org/)
 - [Mozilla&#39;s call for cryptocurrency donations angers founder](https://www.theregister.com/2022/01/05/mozilla_accepts_cryptocurrency/)
 - [Crypto: The Good, the Bad and the Ugly](https://seldo.com/posts/crypto-the-good-the-bad-and-the-ugly/)
-- [The cruel, ridiculous reality of &#39;virtual learning&#39;](https://www.macleans.ca/society/the-cruel-ridiculous-reality-of-virtual-learning/)
+- [YK22 bug causing Honda clocks to stop working](https://www.crvownersclub.com/threads/clock-fault-year-2022-note-this-is-not-a-gps-related-issue-merged-master-thread.224326/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
