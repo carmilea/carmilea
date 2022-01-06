@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Omicron at 100% Prevalence, Colorado](https://covid19.colorado.gov/data)
+- [Google fined 150M€, Facebook 60M€ for assymetric cookie dialogs](https://www.cnil.fr/en/cookies-cnil-fines-google-total-150-million-euros-and-facebook-60-million-euros-non-compliance)
+- [Russia sends paratroopers to Kazakhstan to quell deadly unrest](https://www.reuters.com/world/asia-pacific/troops-protesters-clash-almaty-main-square-kazakhstan-shots-heard-2022-01-06/)
 - [Stacker &lpar;YC S20&rpar; Is Hiring for Data, Product Design, and Product Engineering](https://www.stackerhq.com/careers#job-listing)
+- [Washed Up](https://infrequently.org/2022/01/washed-up/)
 - [Longform.org Is Shutting Down](https://longform.org/)
-- [Mozilla&#39;s call for cryptocurrency donations angers founder](https://www.theregister.com/2022/01/05/mozilla_accepts_cryptocurrency/)
-- [Crypto: The Good, the Bad and the Ugly](https://seldo.com/posts/crypto-the-good-the-bad-and-the-ugly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
