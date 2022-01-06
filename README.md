@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is America headed for a civil war?](https://www.economist.com/books-and-arts/2022/01/08/an-expert-on-civil-war-issues-a-warning-about-america)
 - [Deep Learning Can’t Be Trusted, Brain Modelling Pioneer Says](https://spectrum.ieee.org/deep-learning-cant-be-trusted)
 - [Ask HN: My boss doesn&#39;t think I&#39;m doing good work, how to proceed?](https://news.ycombinator.com/item?id=29830770)
+- [Quit Your Job](https://palladiummag.com/2022/01/06/quit-your-job/)
 - [DevCycle &lpar;YC W14&rpar; is looking for devs who want to build tools you&#39;d use yourself](https://devcycle.com/company/careers)
-- [How to Quit Like a Boss](https://jmsbrdy.com/blog/leaving-spring/)
-- [Autistic people challenge preconceived ideas about rationality](https://psyche.co/ideas/autistic-people-challenge-preconceived-ideas-about-rationality)
 <!-- BLOG-POST-LIST:END -->
 
 ---
