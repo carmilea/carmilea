@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paxos](https://martinfowler.com/articles/patterns-of-distributed-systems/paxos.html)
 - [Optimizing Docker image size and why it matters](https://contains.dev/blog/optimizing-docker-image-size)
 - [Show HN: 3D map of shade around the world](https://shademap.app/#37.74392,-119.56306,11.42013z,1641492931979t,-132.33425b,45p)
 - [Tips to grow your North Korean Startup](https://mrsteinberg.com/grow-your-north-korean-start-up/)
 - [Keyboard lets people type so fast it’s banned from typing competitions](https://www.vice.com/en/article/3abavv/this-keyboard-lets-people-type-so-fast-its-banned-from-typing-competitions)
-- [Farmers facing fertiliser sticker shock may cut use,raising food security risks](https://www.reuters.com/markets/commodities/global-farmers-facing-fertiliser-sticker-shock-may-cut-use-raising-food-security-2021-12-09/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
