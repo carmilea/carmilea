@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Great Question &lpar;YC W21&rpar; Is Hiring Full-Stack and Backend Engineers &lpar;Rails&rpar;](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-engineer)
+- [Stacker &lpar;YC S20&rpar; Is Hiring for Data, Product Design, and Product Engineering](https://www.stackerhq.com/careers#job-listing)
+- [Longform.org Is Shutting Down](https://longform.org/)
+- [Mozilla&#39;s call for cryptocurrency donations angers founder](https://www.theregister.com/2022/01/05/mozilla_accepts_cryptocurrency/)
 - [Crypto: The Good, the Bad and the Ugly](https://seldo.com/posts/crypto-the-good-the-bad-and-the-ugly/)
 - [The cruel, ridiculous reality of &#39;virtual learning&#39;](https://www.macleans.ca/society/the-cruel-ridiculous-reality-of-virtual-learning/)
-- [IPv6-ghost-ship: Using TOTP as part of an AWS EC2 IPv6 address](https://github.com/aidansteele/ipv6-ghost-ship)
-- [Brussels Airlines makes 3,000 unnecessary flights to maintain airport slots](https://www.thebulletin.be/brussels-airlines-makes-3000-unnecessary-flights-maintain-airport-slots)
 <!-- BLOG-POST-LIST:END -->
 
 ---
