@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twilio suspended account because someone sent us a fraud text](https://news.ycombinator.com/item?id=29826725)
-- [Norton 360 Now Comes with a Cryptominer](https://krebsonsecurity.com/2022/01/norton-360-now-comes-with-a-cryptominer/)
-- [Illegal movie streaming service Popcorn Time shuts down](https://www.engadget.com/movie-piracy-app-popcorn-time-shuts-down-115523694.html)
-- [Swiss Army Bans Use of WhatsApp, Signal and Telegram](https://www.swissinfo.ch/eng/politics/swiss-army-restricts-use-of-messenger-apps/47238938)
-- [The Modern Metadata Platform: What, Why, and How?](https://metaphor.io/blog/the-modern-metadata-platform)
+- [Optimizing Docker image size and why it matters](https://contains.dev/blog/optimizing-docker-image-size)
+- [Show HN: 3D map of shade around the world](https://shademap.app/#37.74392,-119.56306,11.42013z,1641492931979t,-132.33425b,45p)
+- [Tips to grow your North Korean Startup](https://mrsteinberg.com/grow-your-north-korean-start-up/)
+- [Keyboard lets people type so fast it’s banned from typing competitions](https://www.vice.com/en/article/3abavv/this-keyboard-lets-people-type-so-fast-its-banned-from-typing-competitions)
+- [Farmers facing fertiliser sticker shock may cut use,raising food security risks](https://www.reuters.com/markets/commodities/global-farmers-facing-fertiliser-sticker-shock-may-cut-use-raising-food-security-2021-12-09/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
