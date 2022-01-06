@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin network power slumps as Kazakhstan crackdown hits crypto miners](https://www.reuters.com/markets/europe/bitcoin-network-power-slumps-kazakhstan-crackdown-hits-crypto-miners-2022-01-06/)
+- [Deep Learning Can’t Be Trusted, Brain Modelling Pioneer Says](https://spectrum.ieee.org/deep-learning-cant-be-trusted)
+- [Ask HN: My boss doesn&#39;t think I&#39;m doing good work, how to proceed?](https://news.ycombinator.com/item?id=29830770)
+- [DevCycle &lpar;YC W14&rpar; is looking for devs who want to build tools you&#39;d use yourself](https://devcycle.com/company/careers)
+- [How to Quit Like a Boss](https://jmsbrdy.com/blog/leaving-spring/)
 - [Autistic people challenge preconceived ideas about rationality](https://psyche.co/ideas/autistic-people-challenge-preconceived-ideas-about-rationality)
-- [CDC Reports Increase in Human Rabies Cases Linked to Bats in the U.S.](https://www.cdc.gov/media/releases/2022/p0106-human-rabies.html)
-- [Beej&#39;s Guide to Unix IPC](http://beej.us/guide/bgipc/)
-- [Illicit activity a tiny part of cryptocurrency use](https://www.axios.com/cryptocurrency-scam-crime-popularity-report-63fb9757-d1c3-4103-82bd-7b68692f9f9c.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
