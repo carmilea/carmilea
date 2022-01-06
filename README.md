@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The 41 Best Pens for 2022: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-41-Best-Pens-for-2022-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
-- [Asus will release a 17“ foldable OLED laptop](https://www.theverge.com/2022/1/5/22867624/asus-zenbook-17-fold-oled-foldable-laptop-tablet-specs-price-release-date)
-- [I analyzed 20k recommendations made by Jim Cramer during the last 5 years](https://old.reddit.com/r/options/comments/rwmxel/should_you_listen_to_jim_cramer_i_analyzed_20000/)
-- [QR code scammers hitting on-street parking in Texas cities](https://www.click2houston.com/news/local/2022/01/05/qr-code-scammers-hitting-on-street-parking-in-texas-cities-this-is-what-houston-officials-want-you-to-know/)
-- [I Miss RSS](https://www.wilcosky.com/d/20-i-miss-rss)
+- [Facebook collecting people&#39;s data even when accounts are deactivated](https://digiday.com/media/why-facebook-keeps-collecting-peoples-data-and-building-their-profiles-even-when-their-accounts-are-deactivated/)
+- [You Don&#39;t Need a Mentor–Find a Nemesis Instead](https://tedgioia.substack.com/p/you-dont-need-a-mentorfind-a-nemesis)
+- [Restricting SSH Agent Keys](https://lwn.net/SubscriberLink/880458/5c4147ec8a7ca8df/)
+- [We handle 80TB and 5M page views a month for under $400](https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/)
+- [Best Pens for 2022: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-41-Best-Pens-for-2022-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
