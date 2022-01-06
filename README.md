@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Paxos](https://martinfowler.com/articles/patterns-of-distributed-systems/paxos.html)
-- [Optimizing Docker image size and why it matters](https://contains.dev/blog/optimizing-docker-image-size)
-- [Show HN: 3D map of shade around the world](https://shademap.app/#37.74392,-119.56306,11.42013z,1641492931979t,-132.33425b,45p)
-- [Tips to grow your North Korean Startup](https://mrsteinberg.com/grow-your-north-korean-start-up/)
-- [Keyboard lets people type so fast it’s banned from typing competitions](https://www.vice.com/en/article/3abavv/this-keyboard-lets-people-type-so-fast-its-banned-from-typing-competitions)
+- [Bitcoin network power slumps as Kazakhstan crackdown hits crypto miners](https://www.reuters.com/markets/europe/bitcoin-network-power-slumps-kazakhstan-crackdown-hits-crypto-miners-2022-01-06/)
+- [Autistic people challenge preconceived ideas about rationality](https://psyche.co/ideas/autistic-people-challenge-preconceived-ideas-about-rationality)
+- [CDC Reports Increase in Human Rabies Cases Linked to Bats in the U.S.](https://www.cdc.gov/media/releases/2022/p0106-human-rabies.html)
+- [Beej&#39;s Guide to Unix IPC](http://beej.us/guide/bgipc/)
+- [Illicit activity a tiny part of cryptocurrency use](https://www.axios.com/cryptocurrency-scam-crime-popularity-report-63fb9757-d1c3-4103-82bd-7b68692f9f9c.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
