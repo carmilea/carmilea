@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sublime Text misrepresents major version update, demands $80](https://forum.sublimetext.com/t/after-recent-update-i-see-license-upgrade-required/57924)
+- [Great Question &lpar;YC W21&rpar; Is Hiring Full-Stack and Backend Engineers &lpar;Rails&rpar;](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-engineer)
 - [The cruel, ridiculous reality of &#39;virtual learning&#39;](https://www.macleans.ca/society/the-cruel-ridiculous-reality-of-virtual-learning/)
 - [IPv6-ghost-ship: using TOTP as part of an AWS EC2 IPv6 address](https://github.com/aidansteele/ipv6-ghost-ship)
-- [Brussels Airlines makes 3,000 unnecessary flights to maintain airport slots](https://www.thebulletin.be/brussels-airlines-makes-3000-unnecessary-flights-maintain-airport-slots)
 - [Drug ring hid $1B worth of coke on a single ship](https://www.freightwaves.com/news/case-closed-how-drug-ring-hid-20-tons-of-coke-on-a-single-ship)
+- [Inviting another GitHub user to be your successor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-user-accounts-repositories)
 <!-- BLOG-POST-LIST:END -->
 
 ---
