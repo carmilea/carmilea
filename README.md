@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CoinTracker &lpar;YC W18&rpar; is hiring a Head of Talent to scale from 35 → 185 in 2022](https://www.cointracker.io/about)
+- [OpenBSD Webzine Issue #6](https://webzine.puffy.cafe/issue-6.html)
+- [What the World Will Be Like in a Hundred Years &lpar;1922&rpar;](https://www.loc.gov/resource/sn83045774/1922-05-07/ed-1?sp=87)
 - [Google fined 150M€, Facebook 60M€ for assymetric cookie dialogs](https://www.cnil.fr/en/cookies-cnil-fines-google-total-150-million-euros-and-facebook-60-million-euros-non-compliance)
 - [Russia sends paratroopers to Kazakhstan to quell deadly unrest](https://www.reuters.com/world/asia-pacific/troops-protesters-clash-almaty-main-square-kazakhstan-shots-heard-2022-01-06/)
-- [Stacker &lpar;YC S20&rpar; Is Hiring for Data, Product Design, and Product Engineering](https://www.stackerhq.com/careers#job-listing)
-- [Washed Up](https://infrequently.org/2022/01/washed-up/)
-- [Longform.org Is Shutting Down](https://longform.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
