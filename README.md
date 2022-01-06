@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [KiCad 6.0.0 Release](https://www.revk.uk/2022/01/kicad-6.html)
-- [What is the point of imagining new technologies without new ways of living?](https://reallifemag.com/same-old/)
-- [Unix in the Browser Tab](https://browsix.org/)
-- [Elixir and Machine Learning: Nx v0.1 released](https://dashbit.co/blog/elixir-and-machine-learning-nx-v0.1)
-- [CoinTracker &lpar;YC W18&rpar; is hiring a Head of Talent to scale from 35 → 185 in 2022](https://www.cointracker.io/about)
+- [Ask HN: How do you have fun without alcohol?](https://news.ycombinator.com/item?id=29824395)
+- [Roguelike Tutorial – Written in Python 3 and TCOD](http://rogueliketutorials.com/tutorials/tcod/v2/)
+- [Weather satellite detects meteor explosion near Pittsburgh on first day of 2022](https://www.upi.com/Science_News/2022/01/06/pittsburgh-meteor-explosion/9041641478280/)
+- [KiCad 6](https://www.revk.uk/2022/01/kicad-6.html)
+- [Show HN: Netvyne – a Chrome extension to leave and read comments on any URL](https://www.netvyne.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
