@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do you have fun without alcohol?](https://news.ycombinator.com/item?id=29824395)
-- [Roguelike Tutorial – Written in Python 3 and TCOD](http://rogueliketutorials.com/tutorials/tcod/v2/)
-- [Weather satellite detects meteor explosion near Pittsburgh on first day of 2022](https://www.upi.com/Science_News/2022/01/06/pittsburgh-meteor-explosion/9041641478280/)
-- [KiCad 6](https://www.revk.uk/2022/01/kicad-6.html)
-- [Show HN: Netvyne – a Chrome extension to leave and read comments on any URL](https://www.netvyne.com/)
+- [Launch HN: ContainIQ &lpar;YC S21&rpar; – Kubernetes Native Monitoring with eBPF](https://news.ycombinator.com/item?id=29825681)
+- [DuckDB Time Zones: Supporting Calendar Extensions](https://duckdb.org/2022/01/06/time-zones.html)
+- [Ask HN: Would you pass an interview for your current position?](https://news.ycombinator.com/item?id=29825080)
+- [Raspberry Pi Boot to Basic](https://popey.com/blog/2021/01/raspberry-pi-boot-to-basic/)
+- [Show HN: Possimpible: A Kernel Running on the Browser](https://github.com/intigos/possimpible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
