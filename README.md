@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Great Question &lpar;YC W21&rpar; Is Hiring Full-Stack and Backend Engineers &lpar;Rails&rpar;](https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-engineer)
+- [Crypto: The Good, the Bad and the Ugly](https://seldo.com/posts/crypto-the-good-the-bad-and-the-ugly/)
 - [The cruel, ridiculous reality of &#39;virtual learning&#39;](https://www.macleans.ca/society/the-cruel-ridiculous-reality-of-virtual-learning/)
-- [IPv6-ghost-ship: using TOTP as part of an AWS EC2 IPv6 address](https://github.com/aidansteele/ipv6-ghost-ship)
-- [Drug ring hid $1B worth of coke on a single ship](https://www.freightwaves.com/news/case-closed-how-drug-ring-hid-20-tons-of-coke-on-a-single-ship)
-- [Inviting another GitHub user to be your successor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-user-accounts-repositories)
+- [IPv6-ghost-ship: Using TOTP as part of an AWS EC2 IPv6 address](https://github.com/aidansteele/ipv6-ghost-ship)
+- [Brussels Airlines makes 3,000 unnecessary flights to maintain airport slots](https://www.thebulletin.be/brussels-airlines-makes-3000-unnecessary-flights-maintain-airport-slots)
 <!-- BLOG-POST-LIST:END -->
 
 ---
