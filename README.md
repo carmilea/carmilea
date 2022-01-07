@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Salary Data Is for Sale](https://news.ycombinator.com/item?id=29834753)
+- [Tell HN: Salary data is for sale](https://news.ycombinator.com/item?id=29834753)
 - [It&#39;s not what programming languages do, it&#39;s what they shepherd you to](https://nibblestew.blogspot.com/2020/03/its-not-what-programming-languages-do.html)
 - [Open-sourcing the Sorbet VS Code Extension](https://sorbet.org/blog/2022/01/06/open-sourcing-sorbet-vscode)
 - [GitHub Projects – Customizable, flexible tool for planning and tracking work](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
