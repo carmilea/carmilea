@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Squash and Rebase in Git](https://www.jenweber.dev/how-to-squash-and-rebase/)
-- [Crypto Mining and Energy Subsidies](https://www.interneteconomist.com/crypto-miners-abuse-energy-subsidies/)
-- [Key M1 Mac Engineer Departs Apple for Intel](https://www.macrumors.com/2022/01/06/m1-mac-engineer-departs-apple-intel/)
-- [The Future of Snapcraft](https://snapcraft.io/blog/the-future-of-snapcraft)
-- [Ask HN: Why does Cloudflare/hCaptcha care so much about buses, boats and trains?](https://news.ycombinator.com/item?id=29838908)
+- [Look How Big Is My Startup Team](https://nicolasbustamante.substack.com/p/look-how-big-is-my-team)
+- [Random number generator updates for 5.17](https://lore.kernel.org/lkml/20220106235920.995517-1-Jason@zx2c4.com/)
+- [Urea prices increase 270% in 1 year](https://www.indexmundi.com/commodities/?commodity=urea&months=60)
+- [Sidney Poitier, African American acting pioneer, dies aged 94](https://www.theguardian.com/film/2022/jan/07/sidney-poitier-in-the-heat-of-the-night-acting-pioneer-dies)
+- [Hello Cloudflare – A public letter to Cloudflare to fix their snoopy vendor](https://github.com/captn3m0/hello-cloudflare/blob/main/README.md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
