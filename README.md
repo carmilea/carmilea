@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I&#39;m 15 and building a live quiz app for classrooms: Quickz](https://quickz.org/play)
+- [The Anatomy of a Large-Scale Hypertextual Web Search Engine &lpar;1998&rpar; [pdf]](http://infolab.stanford.edu/pub/papers/google.pdf)
+- [Awesome Piracy: A Curated List of Arrrrrrrrr](https://github.com/Igglybuff/awesome-piracy)
 - [Pentagon and CIA shaped thousands of Hollywood movies into effective propaganda](https://worldbeyondwar.org/the-pentagon-and-cia-have-shaped-thousands-of-hollywood-movies-into-super-effective-propaganda/)
 - [Kagi: A Premium Search Engine](https://kagi.com/)
-- [Tell HN: Salary data is for sale](https://news.ycombinator.com/item?id=29834753)
-- [It&#39;s not what programming languages do, it&#39;s what they shepherd you to](https://nibblestew.blogspot.com/2020/03/its-not-what-programming-languages-do.html)
-- [Open-sourcing the Sorbet VS Code Extension](https://sorbet.org/blog/2022/01/06/open-sourcing-sorbet-vscode)
 <!-- BLOG-POST-LIST:END -->
 
 ---
