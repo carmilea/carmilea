@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A developer forced them out of their building. 3 yrs later, nearly half are dead](https://www.knkx.org/south-sound/2021-12-08/a-developer-forced-them-out-of-their-building-three-years-later-nearly-half-are-dead)
+- [Drop a raindrop anywhere in the world and watch where it ends up](https://river-runner-global.samlearner.com/)
 - [Ruling party figures say Poland has Pegasus spyware](https://www.reuters.com/world/europe/ruling-party-figures-say-poland-has-pegasus-spyware-2022-01-07/)
 - [Show HN: Radar Chat – Geolocation based communication](https://app.radar.chat)
-- [Gas Pump Golf](https://gaspumpgolf.github.io/)
-- [Google home speakers are about to get slightly worse because Sonos sued and won](https://www.theverge.com/2022/1/6/22871304/google-home-speaker-group-volume-control-changes-sonos-patent-decision)
-- [What it was like shooting the movie Sneakers](https://web.archive.org/web/20130128143144/http://www.slate.com/articles/arts/culturebox/2012/09/robert_redford_sidney_poitier_ben_kingsley_dan_aykroyd_what_it_was_like_shooting_the_movie_sneakers_.html)
+- [Folly: An open-source C++ library developed and used at Facebook](https://github.com/facebook/folly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
