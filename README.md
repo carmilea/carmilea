@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A routine gem update ended up creating $73k worth of subscriptions](https://serpapi.com/blog/how-a-routine-gem-update-ended-up-charging/)
+- [Nvidia tool generates full 3D models from a single still image](https://blogs.nvidia.com/blog/2021/04/16/gan-research-knight-rider-ai-omniverse/)
 - [Tech CEO pleads to wire fraud in IP address scheme](https://krebsonsecurity.com/2021/11/tech-ceo-pleads-to-wire-fraud-in-ip-address-scheme/)
+- [Gambler’s Fallacy and the Regression to the Mean](https://theness.com/neurologicablog/index.php/gamblers-fallacy-and-the-regression-to-the-mean/)
 - [Why “process substitution” is a late feature in Unix shells](https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessSubstitutionWhyLate)
-- [My First Impressions of Web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
-- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
-- [Launch HN: Homestead &lpar;YC W20&rpar; – Lot-splitting to build new housing supply](https://news.ycombinator.com/item?id=29844098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
