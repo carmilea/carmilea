@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
 - [Launch HN: Homestead &lpar;YC W20&rpar; – Lot-splitting to build new housing supply](https://news.ycombinator.com/item?id=29844098)
-- [California Considers Doubling Its Taxes](https://taxfoundation.org/california-health-care-tax-proposal/)
 - [A K8s-based game where you seek out and destroy pods in a shootem&#39; up style](https://github.com/Shogan/kube-chaos)
-- [Loopy Pro – the future of live looping](https://loopypro.com/)
+- [Loopy Pro](https://loopypro.com/)
 - [Unidentified PC DOS 1.1 Boot Sector Junk Identified](https://www.os2museum.com/wp/unidentified-pc-dos-1-1-boot-sector-junk-identified/)
 <!-- BLOG-POST-LIST:END -->
 
