@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech CEO pleads to wire fraud in IP address scheme](https://krebsonsecurity.com/2021/11/tech-ceo-pleads-to-wire-fraud-in-ip-address-scheme/)
+- [Why “process substitution” is a late feature in Unix shells](https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessSubstitutionWhyLate)
+- [My First Impressions of Web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
 - [Motion &lpar;YC W20&rpar; is hiring engineers to build the future of time management](https://jobs.ashbyhq.com/motion)
 - [Launch HN: Homestead &lpar;YC W20&rpar; – Lot-splitting to build new housing supply](https://news.ycombinator.com/item?id=29844098)
-- [A K8s-based game where you seek out and destroy pods in a shootem&#39; up style](https://github.com/Shogan/kube-chaos)
-- [Loopy Pro](https://loopypro.com/)
-- [Unidentified PC DOS 1.1 Boot Sector Junk Identified](https://www.os2museum.com/wp/unidentified-pc-dos-1-1-boot-sector-junk-identified/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
