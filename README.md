@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Look How Big Is My Startup Team](https://nicolasbustamante.substack.com/p/look-how-big-is-my-team)
-- [Random number generator updates for 5.17](https://lore.kernel.org/lkml/20220106235920.995517-1-Jason@zx2c4.com/)
-- [Urea prices increase 270% in 1 year](https://www.indexmundi.com/commodities/?commodity=urea&months=60)
-- [Sidney Poitier, African American acting pioneer, dies aged 94](https://www.theguardian.com/film/2022/jan/07/sidney-poitier-in-the-heat-of-the-night-acting-pioneer-dies)
-- [Hello Cloudflare – A public letter to Cloudflare to fix their snoopy vendor](https://github.com/captn3m0/hello-cloudflare/blob/main/README.md)
+- [Ruling party figures say Poland has Pegasus spyware](https://www.reuters.com/world/europe/ruling-party-figures-say-poland-has-pegasus-spyware-2022-01-07/)
+- [Show HN: Radar Chat – Geolocation based communication](https://app.radar.chat)
+- [Gas Pump Golf](https://gaspumpgolf.github.io/)
+- [Google home speakers are about to get slightly worse because Sonos sued and won](https://www.theverge.com/2022/1/6/22871304/google-home-speaker-group-volume-control-changes-sonos-patent-decision)
+- [What it was like shooting the movie Sneakers](https://web.archive.org/web/20130128143144/http://www.slate.com/articles/arts/culturebox/2012/09/robert_redford_sidney_poitier_ben_kingsley_dan_aykroyd_what_it_was_like_shooting_the_movie_sneakers_.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
