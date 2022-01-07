@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A developer forced them out of their building. 3 yrs later, nearly half are dead](https://www.knkx.org/south-sound/2021-12-08/a-developer-forced-them-out-of-their-building-three-years-later-nearly-half-are-dead)
+- [BNPLs: Businesses Needing Provided Legibility](https://bam.kalzumeus.com/archive/buy-now-pay-later/)
+- [Judge orders FDA to hasten FOIA release of Pfizer vaccine docs](https://www.reuters.com/legal/government/paramount-importance-judge-orders-fda-hasten-release-pfizer-vaccine-docs-2022-01-07/)
 - [Drop a raindrop anywhere in the world and watch where it ends up](https://river-runner-global.samlearner.com/)
 - [Ruling party figures say Poland has Pegasus spyware](https://www.reuters.com/world/europe/ruling-party-figures-say-poland-has-pegasus-spyware-2022-01-07/)
 - [Show HN: Radar Chat – Geolocation based communication](https://app.radar.chat)
-- [Folly: An open-source C++ library developed and used at Facebook](https://github.com/facebook/folly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
