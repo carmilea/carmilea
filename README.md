@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I&#39;m 15 and building a live quiz app for classrooms: Quickz](https://quickz.org/play)
-- [The Anatomy of a Large-Scale Hypertextual Web Search Engine &lpar;1998&rpar; [pdf]](http://infolab.stanford.edu/pub/papers/google.pdf)
-- [Awesome Piracy: A Curated List of Arrrrrrrrr](https://github.com/Igglybuff/awesome-piracy)
-- [Pentagon and CIA shaped thousands of Hollywood movies into effective propaganda](https://worldbeyondwar.org/the-pentagon-and-cia-have-shaped-thousands-of-hollywood-movies-into-super-effective-propaganda/)
-- [Kagi: A Premium Search Engine](https://kagi.com/)
+- [GiveCampus &lpar;YC S15&rpar; Is Hiring Senior Engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Commodore 900: The Unix-like workstation/server that was eclipsed by Amiga](https://vintagecomputer.ca/commodore-900/)
+- [Bound to Fail: The Rise and Fall of the Liberal International Order](https://direct.mit.edu/isec/article/43/4/7/12221/Bound-to-Fail-The-Rise-and-Fall-of-the-Liberal)
+- [A/B test improved your website&#39;s conversion rate? Not so fast](https://blog.alexandervolkmann.com/2022/01/05/conversion-rate-A-B-testing.html)
+- [Intel completely disables AVX-512 on Alder Lake after all](https://www.igorslab.de/en/intel-deactivated-avx-512-on-alder-lake-but-fully-questionable-interpretation-of-efficiency-news-editorial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
