@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BNPLs: Businesses Needing Provided Legibility](https://bam.kalzumeus.com/archive/buy-now-pay-later/)
-- [Judge orders FDA to hasten FOIA release of Pfizer vaccine docs](https://www.reuters.com/legal/government/paramount-importance-judge-orders-fda-hasten-release-pfizer-vaccine-docs-2022-01-07/)
-- [Drop a raindrop anywhere in the world and watch where it ends up](https://river-runner-global.samlearner.com/)
-- [Ruling party figures say Poland has Pegasus spyware](https://www.reuters.com/world/europe/ruling-party-figures-say-poland-has-pegasus-spyware-2022-01-07/)
-- [Show HN: Radar Chat – Geolocation based communication](https://app.radar.chat)
+- [Launch HN: Homestead &lpar;YC W20&rpar; – Lot-splitting to build new housing supply](https://news.ycombinator.com/item?id=29844098)
+- [California Considers Doubling Its Taxes](https://taxfoundation.org/california-health-care-tax-proposal/)
+- [A K8s-based game where you seek out and destroy pods in a shootem&#39; up style](https://github.com/Shogan/kube-chaos)
+- [Loopy Pro – the future of live looping](https://loopypro.com/)
+- [Unidentified PC DOS 1.1 Boot Sector Junk Identified](https://www.os2museum.com/wp/unidentified-pc-dos-1-1-boot-sector-junk-identified/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
