@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrity fascination tied to lower intelligence](https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-021-00679-3)
-- [Stripe is open-sourcing the Sorbet &lpar;Ruby&rpar; VS Code Extension](https://sorbet.org/blog/2022/01/06/open-sourcing-sorbet-vscode)
+- [Tell HN: Salary Data Is for Sale](https://news.ycombinator.com/item?id=29834753)
+- [It&#39;s not what programming languages do, it&#39;s what they shepherd you to](https://nibblestew.blogspot.com/2020/03/its-not-what-programming-languages-do.html)
+- [Open-sourcing the Sorbet VS Code Extension](https://sorbet.org/blog/2022/01/06/open-sourcing-sorbet-vscode)
 - [GitHub Projects – Customizable, flexible tool for planning and tracking work](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
 - [The ITC declares Google infringed on audio tech patents held by Sonos [pdf]](https://www.usitc.gov/system/files/secretary/fed_reg_notices/337/337_1191_notice01062022sgl.pdf)
-- [Ask HN: My boss doesn&#39;t think I&#39;m doing good work, how to proceed?](https://news.ycombinator.com/item?id=29830770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
