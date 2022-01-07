@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is America headed for a civil war?](https://www.economist.com/books-and-arts/2022/01/08/an-expert-on-civil-war-issues-a-warning-about-america)
-- [Deep Learning Can’t Be Trusted, Brain Modelling Pioneer Says](https://spectrum.ieee.org/deep-learning-cant-be-trusted)
+- [Stripe is open-sourcing the Sorbet &lpar;Ruby&rpar; VS Code Extension](https://sorbet.org/blog/2022/01/06/open-sourcing-sorbet-vscode)
+- [GitHub Projects – Customizable, flexible tool for planning and tracking work](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
+- [The ITC declares Google infringed on audio tech patents held by Sonos [pdf]](https://www.usitc.gov/system/files/secretary/fed_reg_notices/337/337_1191_notice01062022sgl.pdf)
+- [Deep learning can’t be trusted, brain modelling pioneer says](https://spectrum.ieee.org/deep-learning-cant-be-trusted)
 - [Ask HN: My boss doesn&#39;t think I&#39;m doing good work, how to proceed?](https://news.ycombinator.com/item?id=29830770)
-- [Quit Your Job](https://palladiummag.com/2022/01/06/quit-your-job/)
-- [DevCycle &lpar;YC W14&rpar; is looking for devs who want to build tools you&#39;d use yourself](https://devcycle.com/company/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
