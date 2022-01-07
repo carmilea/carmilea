@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Squash and Rebase in Git](https://www.jenweber.dev/how-to-squash-and-rebase/)
+- [Crypto Mining and Energy Subsidies](https://www.interneteconomist.com/crypto-miners-abuse-energy-subsidies/)
+- [Key M1 Mac Engineer Departs Apple for Intel](https://www.macrumors.com/2022/01/06/m1-mac-engineer-departs-apple-intel/)
 - [The Future of Snapcraft](https://snapcraft.io/blog/the-future-of-snapcraft)
 - [Ask HN: Why does Cloudflare/hCaptcha care so much about buses, boats and trains?](https://news.ycombinator.com/item?id=29838908)
-- [Update on fire incident at ASML Berlin](https://www.asml.com/en/news/press-releases/2022/update-fire-incident-at-asml-berlin)
-- [GiveCampus &lpar;YC S15&rpar; Is Hiring Senior Engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [Commodore 900: Unix-like workstation/server that was eclipsed by Amiga &lpar;2020&rpar;](https://vintagecomputer.ca/commodore-900/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
