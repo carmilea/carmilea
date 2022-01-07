@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kagi: A Premium Search Engine](https://kagi.com/)
 - [Tell HN: Salary data is for sale](https://news.ycombinator.com/item?id=29834753)
 - [It&#39;s not what programming languages do, it&#39;s what they shepherd you to](https://nibblestew.blogspot.com/2020/03/its-not-what-programming-languages-do.html)
 - [Open-sourcing the Sorbet VS Code Extension](https://sorbet.org/blog/2022/01/06/open-sourcing-sorbet-vscode)
 - [GitHub Projects – Customizable, flexible tool for planning and tracking work](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
-- [The ITC declares Google infringed on audio tech patents held by Sonos [pdf]](https://www.usitc.gov/system/files/secretary/fed_reg_notices/337/337_1191_notice01062022sgl.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
