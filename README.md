@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Some people want to run their own servers](https://staltz.com/some-people-want-to-run-their-own-servers.html)
 - [Finley &lpar;YC W21&rpar; is hiring in Eng and Sales to launch fintech infrastructure](https://www.finleycms.com/careers/)
+- [Sketch is a Common Lisp environment for the creation of electronic art](https://github.com/vydd/sketch)
+- [Fundamental Forth &lpar;2016&rpar;](https://www.forth.com/starting-forth/1-forth-stacks-dictionary/)
 - [Turkmenistan&#39;s leader wants &#39;Gates of Hell&#39; fire put out](https://www.npr.org/2022/01/08/1071565479/turkmenistan-gates-of-hell-fire)
-- [On Proebsting&#39;s Law &lpar;Compiler Advances Double Computing Power Every 18 Years&rpar;](https://zeux.io/2022/01/08/on-proebstings-law/)
-- [Land of Lisp &lpar;2010&rpar;](http://landoflisp.com/)
-- [The Pirate Bay Token](https://thepiratebay.org/token.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
