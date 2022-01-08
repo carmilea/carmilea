@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bevy game engine v0.6.0 released](https://bevyengine.org/news/bevy-0-6/)
+- [Mouseable: Replace a Mouse or Tackpad with the Keyboard](https://github.com/wirekang/mouseable)
+- [Neural network capable of solving university-level Mathematics problems at scale](https://arxiv.org/abs/2112.15594)
+- [JWST Completely and Successfully Unfolded](https://twitter.com/NASA/status/1479837936430596097)
 - [Fathom &lpar;YC W21&rpar; Is Hiring a Senior Full-Stack Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-senior-full-stack-engineer)
-- [Tesla&#39;s Next-Generation Model Y Chassis](https://blog.onlyusedtesla.com/tesla-begins-building-a-next-generation-model-y-chassis-6b2e1579d0aa?gi=3bf7909ae2e3)
-- [Edible Plants That Grow in the Shade](https://www.onegreenplanet.org/lifestyle/10-edible-plants-that-grow-in-the-shade/)
-- [DuckDuckGo Traffic](https://duckduckgo.com/traffic)
-- [Ask HN: Is anyone working on “downloading” knowledge to the brain?](https://news.ycombinator.com/item?id=29852426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
