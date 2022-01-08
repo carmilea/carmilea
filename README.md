@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dutch government to pay million Euro fine over racist data discrimination](https://netzpolitik.org/2022/childcare-benefits-scandal-dutch-government-to-pay-million-euro-fine-over-racist-data-discrimination/)
+- [The Hacker&#39;s Diet](https://www.fourmilab.ch/hackdiet/)
 - [My 70 year old mother has been using Linux on the desktop for the past 21 years](https://www.unixsheikh.com/articles/my-70-year-old-mother-has-been-using-linux-on-the-desktop-for-the-past-21-years.html)
 - [Fixing the Unfixable: Story of a Google Cloud SSRF](https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/)
 - [A routine gem update ended up creating $73k worth of subscriptions](https://serpapi.com/blog/how-a-routine-gem-update-ended-up-charging/)
-- [Nvidia tool generates full 3D models from a single still image](https://blogs.nvidia.com/blog/2021/04/16/gan-research-knight-rider-ai-omniverse/)
-- [Tech CEO pleads to wire fraud in IP address scheme](https://krebsonsecurity.com/2021/11/tech-ceo-pleads-to-wire-fraud-in-ip-address-scheme/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
