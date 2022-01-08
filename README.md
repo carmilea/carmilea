@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [My 70 year old mother has been using Linux on the desktop for the past 21 years](https://www.unixsheikh.com/articles/my-70-year-old-mother-has-been-using-linux-on-the-desktop-for-the-past-21-years.html)
 - [Fixing the Unfixable: Story of a Google Cloud SSRF](https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/)
-- [Venmo, PayPal, Cash App must report payments of $600 or more to IRS](https://www.wftv.com/news/trending/venmo-paypal-cash-app-must-report-payments-600-or-more-irs/23M5KZQXHNAJFBKKYI6FFGSSXI/)
-- [Salt-die/nurses_2: A widget and async-centric terminal graphics library](https://github.com/salt-die/nurses_2)
 - [A routine gem update ended up creating $73k worth of subscriptions](https://serpapi.com/blog/how-a-routine-gem-update-ended-up-charging/)
+- [Nvidia tool generates full 3D models from a single still image](https://blogs.nvidia.com/blog/2021/04/16/gan-research-knight-rider-ai-omniverse/)
+- [Tech CEO pleads to wire fraud in IP address scheme](https://krebsonsecurity.com/2021/11/tech-ceo-pleads-to-wire-fraud-in-ip-address-scheme/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
