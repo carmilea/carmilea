@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Log4Shell Vulnerabilities in VMware Horizon Targeted to Install Web Shells](https://digital.nhs.uk/cyber-alerts/2022/cc-4002)
+- [In Response to My first impressions of Web3](https://skerritt.blog/response-to-moxie/)
+- [Gnu taler a privacy friendly payment system](https://taler.net/en/index.html)
+- [How to make quitting your addiction easier](https://www.deprocrastination.co/blog/how-to-make-quitting-your-addiction-easier)
 - [UUIDs Are Popular, but Bad for Performance](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
-- [imap-backup: Backup Gmail &lpar;or other IMAP&rpar; accounts to disk](https://github.com/joeyates/imap-backup)
-- [Is Web3 a Scam?](https://stackdiary.com/web3-scam/)
-- [XMPP: An Under-Appreciated Attack Surface](https://bishopfox.com/blog/xmpp-underappreciated-attack-surface)
-- [School closures led to more sleep and better quality of life for adolescents](https://www.media.uzh.ch/en/Press-Releases/2022/Adolescent-Sleep.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
