@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Edible Plants That Grow in the Shade](https://www.onegreenplanet.org/lifestyle/10-edible-plants-that-grow-in-the-shade/)
+- [DuckDuckGo Traffic](https://duckduckgo.com/traffic)
+- [Ask HN: Is anyone working on “downloading” knowledge to the brain?](https://news.ycombinator.com/item?id=29852426)
+- [A reminder that life is short, go live it](https://thedeathclock.co/)
 - [Why do 70% of families lose their wealth in the 2nd generation? &lpar;2018&rpar;](https://www.nasdaq.com/articles/generational-wealth%3A-why-do-70-of-families-lose-their-wealth-in-the-2nd-generation-2018-10)
-- [Show HN: BookStack – An open source wiki platform and alternative to Confluence](https://www.bookstackapp.com/)
-- [Bashforth: A Forth interpreter, written as bash script](https://github.com/Bushmills/Bashforth)
-- [Toyota to remanufacture cars up to three times in UK](https://www.autocar.co.uk/car-news/business-tech%2C-development-and-manufacturing/toyota-remanufacture-cars-three-times-uk)
-- [Canon sells toner cartridges that register as counterfeit](https://twitter.com/naderman/status/1479529888977760258)
 <!-- BLOG-POST-LIST:END -->
 
 ---
