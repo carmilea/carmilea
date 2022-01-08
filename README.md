@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fathom &lpar;YC W21&rpar; Is Hiring a Senior Full-Stack Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-senior-full-stack-engineer)
+- [Tesla&#39;s Next-Generation Model Y Chassis](https://blog.onlyusedtesla.com/tesla-begins-building-a-next-generation-model-y-chassis-6b2e1579d0aa?gi=3bf7909ae2e3)
 - [Edible Plants That Grow in the Shade](https://www.onegreenplanet.org/lifestyle/10-edible-plants-that-grow-in-the-shade/)
 - [DuckDuckGo Traffic](https://duckduckgo.com/traffic)
 - [Ask HN: Is anyone working on “downloading” knowledge to the brain?](https://news.ycombinator.com/item?id=29852426)
-- [A reminder that life is short, go live it](https://thedeathclock.co/)
-- [Why do 70% of families lose their wealth in the 2nd generation? &lpar;2018&rpar;](https://www.nasdaq.com/articles/generational-wealth%3A-why-do-70-of-families-lose-their-wealth-in-the-2nd-generation-2018-10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
