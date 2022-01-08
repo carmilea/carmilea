@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Canon sells toner cartridges that register as counterfeit](https://twitter.com/naderman/status/1479529888977760258)
+- [GCD Grid on the Front Cover](https://susam.net/blog/gcd-grid.html)
+- [Open-source tests of web browser privacy](https://privacytests.org/)
 - [Tell HN: Full macOS reinstall because Apple ID](https://news.ycombinator.com/item?id=29850665)
 - [40% of shipping is fossil fuels](https://billmckibben.substack.com/p/the-happiest-number-ive-heard-in)
-- [MiniVM: A minimal cross-language interpreted runtime as fast as LuaJIT](https://github.com/FastVM/minivm)
-- [I Am a New York City Public High School Student. The Situation Is Beyond Control](https://old.reddit.com/r/nyc/comments/rxwnbl/i_am_a_new_york_city_public_high_school_student/)
-- [Bypassing Door Passwords](https://share.streamlit.io/actuallytest/test2/main/main.py)
 <!-- BLOG-POST-LIST:END -->
 
 ---
