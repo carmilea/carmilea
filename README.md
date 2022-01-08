@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [XMPP: An Under-Appreciated Attack Surface](https://bishopfox.com/blog/xmpp-underappreciated-attack-surface)
 - [School closures led to more sleep and better quality of life for adolescents](https://www.media.uzh.ch/en/Press-Releases/2022/Adolescent-Sleep.html)
 - [Show HN: Email encoder – protect your public emails from bots and crawlers](https://freetools.dev/email-encoder)
 - [Where is every IP Address?](https://tech.marksblogg.com/where-are-ip-addresses-ipinfo.html)
 - [My Experience as a SWE Intern at Goldman Sachs](https://www.lremes.com/posts/goldman-sachs/)
-- [The Hacker&#39;s Diet](https://www.fourmilab.ch/hackdiet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
