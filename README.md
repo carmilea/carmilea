@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Log4Shell Vulnerabilities in VMware Horizon Targeted to Install Web Shells](https://digital.nhs.uk/cyber-alerts/2022/cc-4002)
-- [In Response to My first impressions of Web3](https://skerritt.blog/response-to-moxie/)
-- [Gnu taler a privacy friendly payment system](https://taler.net/en/index.html)
-- [How to make quitting your addiction easier](https://www.deprocrastination.co/blog/how-to-make-quitting-your-addiction-easier)
-- [UUIDs Are Popular, but Bad for Performance](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
+- [Tell HN: Full macOS reinstall because Apple ID](https://news.ycombinator.com/item?id=29850665)
+- [40% of shipping is fossil fuels](https://billmckibben.substack.com/p/the-happiest-number-ive-heard-in)
+- [MiniVM: A minimal cross-language interpreted runtime as fast as LuaJIT](https://github.com/FastVM/minivm)
+- [I Am a New York City Public High School Student. The Situation Is Beyond Control](https://old.reddit.com/r/nyc/comments/rxwnbl/i_am_a_new_york_city_public_high_school_student/)
+- [Bypassing Door Passwords](https://share.streamlit.io/actuallytest/test2/main/main.py)
 <!-- BLOG-POST-LIST:END -->
 
 ---
