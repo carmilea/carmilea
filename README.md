@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Finley &lpar;YC W21&rpar; is hiring in Eng and Sales to launch fintech infrastructure](https://www.finleycms.com/careers/)
+- [Turkmenistan&#39;s leader wants &#39;Gates of Hell&#39; fire put out](https://www.npr.org/2022/01/08/1071565479/turkmenistan-gates-of-hell-fire)
+- [On Proebsting&#39;s Law &lpar;Compiler Advances Double Computing Power Every 18 Years&rpar;](https://zeux.io/2022/01/08/on-proebstings-law/)
+- [Land of Lisp &lpar;2010&rpar;](http://landoflisp.com/)
 - [The Pirate Bay Token](https://thepiratebay.org/token.html)
-- [Systemd, 10 years later: a historical and technical retrospective](https://blog.darknedgy.net/technology/2020/05/02/0/)
-- [Unpacking CVE-2021-40444: A Deep Technical Analysis of an Office RCE Exploit](https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce/)
-- [Xiaomi cellphones can censor searches: NCC – Taipei Times](https://taipeitimes.com/News/front/archives/2022/01/08/2003770963)
-- [Ask HN: Are We in a Bubble?](https://news.ycombinator.com/item?id=29854832)
 <!-- BLOG-POST-LIST:END -->
 
 ---
