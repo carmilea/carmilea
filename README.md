@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why do 70% of families lose their wealth in the 2nd generation? &lpar;2018&rpar;](https://www.nasdaq.com/articles/generational-wealth%3A-why-do-70-of-families-lose-their-wealth-in-the-2nd-generation-2018-10)
+- [Show HN: BookStack – An open source wiki platform and alternative to Confluence](https://www.bookstackapp.com/)
 - [Bashforth: A Forth interpreter, written as bash script](https://github.com/Bushmills/Bashforth)
 - [Toyota to remanufacture cars up to three times in UK](https://www.autocar.co.uk/car-news/business-tech%2C-development-and-manufacturing/toyota-remanufacture-cars-three-times-uk)
-- [Get Your Shit Off the Internet](https://www.getyourshitofftheinternet.com/)
 - [Canon sells toner cartridges that register as counterfeit](https://twitter.com/naderman/status/1479529888977760258)
-- [GCD Grid on the Front Cover](https://susam.net/blog/gcd-grid.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
