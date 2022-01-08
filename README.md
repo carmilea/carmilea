@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bashforth: A Forth interpreter, written as bash script](https://github.com/Bushmills/Bashforth)
+- [Toyota to remanufacture cars up to three times in UK](https://www.autocar.co.uk/car-news/business-tech%2C-development-and-manufacturing/toyota-remanufacture-cars-three-times-uk)
+- [Get Your Shit Off the Internet](https://www.getyourshitofftheinternet.com/)
 - [Canon sells toner cartridges that register as counterfeit](https://twitter.com/naderman/status/1479529888977760258)
 - [GCD Grid on the Front Cover](https://susam.net/blog/gcd-grid.html)
-- [Open-source tests of web browser privacy](https://privacytests.org/)
-- [Tell HN: Full macOS reinstall because Apple ID](https://news.ycombinator.com/item?id=29850665)
-- [40% of shipping is fossil fuels](https://billmckibben.substack.com/p/the-happiest-number-ive-heard-in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
