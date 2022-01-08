@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Pirate Bay Token](https://thepiratebay.org/token.html)
+- [Systemd, 10 years later: a historical and technical retrospective](https://blog.darknedgy.net/technology/2020/05/02/0/)
+- [Unpacking CVE-2021-40444: A Deep Technical Analysis of an Office RCE Exploit](https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce/)
+- [Xiaomi cellphones can censor searches: NCC – Taipei Times](https://taipeitimes.com/News/front/archives/2022/01/08/2003770963)
 - [Ask HN: Are We in a Bubble?](https://news.ycombinator.com/item?id=29854832)
-- [James Webb telescope completes epic deployment sequence](https://www.bbc.com/news/science-environment-59914936)
-- [James Webb is fully deployed](https://twitter.com/NASAWebb/status/1479880178021060609)
-- [Bevy game engine v0.6.0 released](https://bevyengine.org/news/bevy-0-6/)
-- [500M Avira Antivirus Users Introduced to Cryptomining](https://krebsonsecurity.com/2022/01/500m-avira-antivirus-users-introduced-to-cryptomining/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
