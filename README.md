@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Are We in a Bubble?](https://news.ycombinator.com/item?id=29854832)
+- [James Webb telescope completes epic deployment sequence](https://www.bbc.com/news/science-environment-59914936)
+- [James Webb is fully deployed](https://twitter.com/NASAWebb/status/1479880178021060609)
 - [Bevy game engine v0.6.0 released](https://bevyengine.org/news/bevy-0-6/)
-- [Mouseable: Replace a Mouse or Tackpad with the Keyboard](https://github.com/wirekang/mouseable)
-- [Neural network capable of solving university-level Mathematics problems at scale](https://arxiv.org/abs/2112.15594)
-- [JWST Completely and Successfully Unfolded](https://twitter.com/NASA/status/1479837936430596097)
-- [Fathom &lpar;YC W21&rpar; Is Hiring a Senior Full-Stack Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-senior-full-stack-engineer)
+- [500M Avira Antivirus Users Introduced to Cryptomining](https://krebsonsecurity.com/2022/01/500m-avira-antivirus-users-introduced-to-cryptomining/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
