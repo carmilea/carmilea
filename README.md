@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Largest Suite of Cosmic Simulations for AI Training Is Now Free to Download](https://today.uconn.edu/2022/01/the-largest-suite-of-cosmic-simulations-for-ai-training-is-now-free-to-download-already-spurring-discoveries/)
 - [Forced to sell chipless ink cartridges, Canon tells customers how to bypass DRM](https://boingboing.net/2022/01/08/forced-by-shortages-to-sell-chipless-cartridges-canon-tells-customers-how-to-bypass-drm-warnings.html)
 - [Donald Knuth – The Patron Saint of Yak Shaves](https://yakshav.es/the-patron-saint-of-yakshaves/)
 - [Gridrunner](https://mwenge.github.io/gridrunner/c64/)
 - [FX: An interactive alternative to jq to process JSON](https://github.com/antonmedv/fx)
-- [Literate programming: Knuth is doing it wrong &lpar;2014&rpar;](http://akkartik.name/post/literate-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
