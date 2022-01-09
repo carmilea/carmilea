@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Procedural Worlds from Simple Tiles](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
+- [SSH Agent Restriction &lpar;new in OpenSSH 8.9&rpar;](https://www.openssh.com/agent-restrict.html)
+- [Macrochips: A collection of laser engraved, 4 inch slate tile microchip coasters](https://www.evilgeniuslabs.org/macrochips)
 - [SafeBase &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/safebase/jobs/llXGC7Jbk-senior-full-stack-engineer)
 - [Serotonin selectively influences moral judgment and behavior](https://www.pnas.org/content/107/40/17433)
-- [Kakitype et kydoniaty: Photography with Persimmon Tannin or Quince Tannin](https://www.anneloubuzot.com/procedes-ecologiques/kakitype)
-- [Schelling&#39;s Model of Segregation](http://nifty.stanford.edu/2014/mccown-schelling-model-segregation/)
-- [Show HN: Evil Wordle](https://swag.github.io/evil-wordle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
