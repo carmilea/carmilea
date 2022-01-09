@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pluton is not &lpar;currently&rpar; a threat to software freedom](https://mjg59.dreamwidth.org/58125.html)
+- [Drones used by farmers could be spying](https://taipeitimes.com/News/taiwan/archives/2022/01/09/2003771022)
+- [John Deere unveils fully autonomous 8R tractor](https://www.agriculture.com/news/technology/john-deere-unveils-fully-autonomous-8r-tractor)
 - [RFC-2229 – A Dictionary Server Protocol](https://datatracker.ietf.org/doc/html/rfc2229)
 - [Tips for a Healthier Postgres Database](https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year)
-- [Do Climate Models Predict Extreme Weather?](http://backreaction.blogspot.com/2022/01/do-climate-models-predict-extreme.html)
-- [Elasticlunr, a full-text search library for Elixir](https://atandarash.me/blog/introduction-to-elasticlunr)
-- [Johann Hari’s Stolen Ideas](https://unherd.com/2022/01/johann-haris-stolen-ideas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
