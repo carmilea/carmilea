@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Command Line Video Player](https://github.com/mpv-player/mpv)
-- [Open source maintainer pulls the plug on NPM packages colors and faker, now what](https://snyk.io/blog/open-source-maintainer-pulls-the-plug-on-npm-packages-colors-and-faker-now-what/)
 - [CalyxOS now supports Pixel 6 and Pixel 6 Pro](https://calyxos.org/news/2022/01/08/android-12-pixel-6/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
 - [Fossils of a Prehistoric Rainforest Hide in Australia’s Rusted Rocks](https://www.nytimes.com/2022/01/07/science/fossils-australia-rainforest.html)
+- [Show HN: Keyboard Drill – Minimalist Typing Drill to fix common mistakes](https://keyboard-drill.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
