@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [Fossils of a Prehistoric Rainforest Hide in Australia’s Rusted Rocks](https://www.nytimes.com/2022/01/07/science/fossils-australia-rainforest.html)
+- [Show HN: Keyboard Drill – Minimalist Typing Drill to fix common mistakes](https://keyboard-drill.com)
+- [Cryptoland &lpar;Removed from YouTube&rpar;](https://peertube.social/videos/watch/8f7e61ed-47ab-4e82-a5c2-5a7d5e8bcb33)
 - [RSS Feeds about what the Government is doing](https://www.govinfo.gov/feeds)
-- [awkcc: awk-to-C transcompiler &lpar;1988, 2011&rpar;](https://github.com/nokia/awkcc)
-- [Astronomers Witness a Dying Star Reach Its Explosive End](https://keckobservatory.org/dying-star/)
-- [Charles Stross: Oh, 2022](http://www.antipope.org/charlie/blog-static/2022/01/oh-2022.html)
-- [Procedural Worlds from Simple Tiles](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
