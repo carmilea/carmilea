@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Proposed bill in New Hampshire would enshrine free software into law](https://libreboot.org/news/usa-libre.html)
-- [Approved Cameras](https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture)
-- [Some people want to run their own servers](https://staltz.com/some-people-want-to-run-their-own-servers.html)
-- [Finley &lpar;YC W21&rpar; is hiring in Eng and Sales to launch fintech infrastructure](https://www.finleycms.com/careers/)
-- [Sketch: A Common Lisp environment for the creation of electronic art](https://github.com/vydd/sketch)
+- [RFC-2229 – A Dictionary Server Protocol](https://datatracker.ietf.org/doc/html/rfc2229)
+- [Tips for a Healthier Postgres Database](https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year)
+- [Do Climate Models Predict Extreme Weather?](http://backreaction.blogspot.com/2022/01/do-climate-models-predict-extreme.html)
+- [Elasticlunr, a full-text search library for Elixir](https://atandarash.me/blog/introduction-to-elasticlunr)
+- [Johann Hari’s Stolen Ideas](https://unherd.com/2022/01/johann-haris-stolen-ideas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
