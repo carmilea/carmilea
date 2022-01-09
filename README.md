@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SafeBase &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/safebase/jobs/llXGC7Jbk-senior-full-stack-engineer)
+- [Serotonin selectively influences moral judgment and behavior](https://www.pnas.org/content/107/40/17433)
+- [Kakitype et kydoniaty: Photography with Persimmon Tannin or Quince Tannin](https://www.anneloubuzot.com/procedes-ecologiques/kakitype)
+- [Show HN: Evil Wordle](https://swag.github.io/evil-wordle/)
 - [FD 100](https://susam.net/blog/fd-100.html)
-- [Ask HN: Is ProductHunt Worth It?](https://news.ycombinator.com/item?id=29864157)
-- [Far-UVC light: A tool to control the spread of airborne-mediated microbial](https://www.nature.com/articles/s41598-018-21058-w)
-- [Ask HN: How do you start contracting?](https://news.ycombinator.com/item?id=29864014)
-- [Ask HN: How do I get over constant failure?](https://news.ycombinator.com/item?id=29863974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
