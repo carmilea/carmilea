@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In practice, Debian &lpar;and Ubuntu&rpar; have fixed minimum system UIDs and GIDs](https://utcc.utoronto.ca/~cks/space/blog/linux/DebianFixedMinimumUIDsGIDs)
-- [Pluton is not &lpar;currently&rpar; a threat to software freedom](https://mjg59.dreamwidth.org/58125.html)
+- [Explaining to My Parents What I Do: Intro to Power Pricing](https://www.neelsomani.com/blog/explaining-to-my-parents-what-i-do.php)
+- [In practice, Debian and Ubuntu have fixed minimum system UIDs and GIDs](https://utcc.utoronto.ca/~cks/space/blog/linux/DebianFixedMinimumUIDsGIDs)
+- [Youth suicide attempts soared during pandemic](https://www.nbcnews.com/news/us-news/youth-suicide-attempts-soared-during-pandemic-cdc-report-says-n1270463)
+- [Pluton is not currently a threat to software freedom](https://mjg59.dreamwidth.org/58125.html)
 - [Drones used by farmers could be spying](https://taipeitimes.com/News/taiwan/archives/2022/01/09/2003771022)
-- [John Deere unveils fully autonomous 8R tractor](https://www.agriculture.com/news/technology/john-deere-unveils-fully-autonomous-8r-tractor)
-- [RFC-2229 – A Dictionary Server Protocol](https://datatracker.ietf.org/doc/html/rfc2229)
 <!-- BLOG-POST-LIST:END -->
 
 ---
