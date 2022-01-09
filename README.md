@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In practice, Debian &lpar;and Ubuntu&rpar; have fixed minimum system UIDs and GIDs](https://utcc.utoronto.ca/~cks/space/blog/linux/DebianFixedMinimumUIDsGIDs)
 - [Pluton is not &lpar;currently&rpar; a threat to software freedom](https://mjg59.dreamwidth.org/58125.html)
 - [Drones used by farmers could be spying](https://taipeitimes.com/News/taiwan/archives/2022/01/09/2003771022)
 - [John Deere unveils fully autonomous 8R tractor](https://www.agriculture.com/news/technology/john-deere-unveils-fully-autonomous-8r-tractor)
 - [RFC-2229 – A Dictionary Server Protocol](https://datatracker.ietf.org/doc/html/rfc2229)
-- [Tips for a Healthier Postgres Database](https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year)
 <!-- BLOG-POST-LIST:END -->
 
 ---
