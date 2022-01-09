@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RSS Feeds about what the Government is doing](https://www.govinfo.gov/feeds)
+- [awkcc: awk-to-C transcompiler &lpar;1988, 2011&rpar;](https://github.com/nokia/awkcc)
+- [Astronomers Witness a Dying Star Reach Its Explosive End](https://keckobservatory.org/dying-star/)
+- [Charles Stross: Oh, 2022](http://www.antipope.org/charlie/blog-static/2022/01/oh-2022.html)
 - [Procedural Worlds from Simple Tiles](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
-- [SSH Agent Restriction &lpar;new in OpenSSH 8.9&rpar;](https://www.openssh.com/agent-restrict.html)
-- [Macrochips: A collection of laser engraved, 4 inch slate tile microchip coasters](https://www.evilgeniuslabs.org/macrochips)
-- [SafeBase &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/safebase/jobs/llXGC7Jbk-senior-full-stack-engineer)
-- [Serotonin selectively influences moral judgment and behavior](https://www.pnas.org/content/107/40/17433)
 <!-- BLOG-POST-LIST:END -->
 
 ---
