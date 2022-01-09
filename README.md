@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MBO – Garmin Watch Apps for Mountain Bike Orienteering](https://github.com/rjmccann101/MBO)
 - [The Rise of Performative Work](https://www.economist.com/business/2022/01/08/the-rise-of-performative-work)
 - [$35BN Match Group file multiple lawsuits after repeated failed acquisition offer](https://muzmatch.com/en-GB/blog/muzmatch/were-getting-sued)
 - [Explaining to My Parents What I Do: Intro to Power Pricing](https://www.neelsomani.com/blog/explaining-to-my-parents-what-i-do.php)
-- [In practice, Debian and Ubuntu have fixed minimum system UIDs and GIDs](https://utcc.utoronto.ca/~cks/space/blog/linux/DebianFixedMinimumUIDsGIDs)
-- [Youth suicide attempts soared during pandemic](https://www.nbcnews.com/news/us-news/youth-suicide-attempts-soared-during-pandemic-cdc-report-says-n1270463)
+- [Drones used by farmers could be spying](https://taipeitimes.com/News/taiwan/archives/2022/01/09/2003771022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
