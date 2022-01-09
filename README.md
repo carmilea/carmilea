@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Charles Mingus Cat Toilet Training Program](https://www.charlesmingus.com/mingus/cat-traning-program)
-- [Ask HN: Is Substack worth the hassle in 2022?](https://news.ycombinator.com/item?id=29863309)
-- [I feel dumb&lpar;er&rpar; when typing, and smart&lpar;er&rpar; when writing](https://news.ycombinator.com/item?id=29863108)
-- [JWST User Documentation](https://jwst-docs.stsci.edu/)
-- [Upwork asking me for a $12.5k refund as the client was using someone else’s card](https://alanany.com/2021/12/23/upwork-12k-refund-client-using-another-credit-card/)
+- [FD 100](https://susam.net/blog/fd-100.html)
+- [Ask HN: Is ProductHunt Worth It?](https://news.ycombinator.com/item?id=29864157)
+- [Far-UVC light: A tool to control the spread of airborne-mediated microbial](https://www.nature.com/articles/s41598-018-21058-w)
+- [Ask HN: How do you start contracting?](https://news.ycombinator.com/item?id=29864014)
+- [Ask HN: How do I get over constant failure?](https://news.ycombinator.com/item?id=29863974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
