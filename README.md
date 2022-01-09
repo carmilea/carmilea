@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Forced to sell chipless ink cartridges, Canon tells customers how to bypass DRM](https://boingboing.net/2022/01/08/forced-by-shortages-to-sell-chipless-cartridges-canon-tells-customers-how-to-bypass-drm-warnings.html)
+- [Donald Knuth – The Patron Saint of Yak Shaves](https://yakshav.es/the-patron-saint-of-yakshaves/)
+- [Gridrunner](https://mwenge.github.io/gridrunner/c64/)
 - [FX: An interactive alternative to jq to process JSON](https://github.com/antonmedv/fx)
 - [Literate programming: Knuth is doing it wrong &lpar;2014&rpar;](http://akkartik.name/post/literate-programming)
-- [Re: Moxie on Web3. On decentralization, servers, and cryptography](https://blog.plan99.net/re-moxie-on-web3-b0cfccd68067?gi=c5c13129e817)
-- [On Web3 Infrastructure](https://mirror.xyz/suzuha.eth/vb5E5lhzmPTcpxOJcz6Q211TDgSvoFwDLA6JSM1V37Q)
-- [MBO – Garmin Watch Apps for Mountain Bike Orienteering](https://github.com/rjmccann101/MBO)
 <!-- BLOG-POST-LIST:END -->
 
 ---
