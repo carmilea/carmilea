@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Literate programming: Knuth is doing it wrong](http://akkartik.name/post/literate-programming)
+- [On Web3 Infrastructure](https://mirror.xyz/suzuha.eth/vb5E5lhzmPTcpxOJcz6Q211TDgSvoFwDLA6JSM1V37Q)
 - [MBO – Garmin Watch Apps for Mountain Bike Orienteering](https://github.com/rjmccann101/MBO)
 - [The Rise of Performative Work](https://www.economist.com/business/2022/01/08/the-rise-of-performative-work)
-- [$35BN Match Group file multiple lawsuits after repeated failed acquisition offer](https://muzmatch.com/en-GB/blog/muzmatch/were-getting-sued)
-- [Explaining to My Parents What I Do: Intro to Power Pricing](https://www.neelsomani.com/blog/explaining-to-my-parents-what-i-do.php)
-- [Drones used by farmers could be spying](https://taipeitimes.com/News/taiwan/archives/2022/01/09/2003771022)
+- [Explaining to my parents what I do](https://www.neelsomani.com/blog/explaining-to-my-parents-what-i-do.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
