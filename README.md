@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The image they claimed was theirs is a photo of me. That I took of myself](https://twitter.com/chelscore/status/1479673857908764672)
+- [Charles Mingus Cat Toilet Training Program](https://www.charlesmingus.com/mingus/cat-traning-program)
+- [Ask HN: Is Substack worth the hassle in 2022?](https://news.ycombinator.com/item?id=29863309)
+- [I feel dumb&lpar;er&rpar; when typing, and smart&lpar;er&rpar; when writing](https://news.ycombinator.com/item?id=29863108)
 - [JWST User Documentation](https://jwst-docs.stsci.edu/)
-- [Upwork asking for a $12,500 refund as the client was using someone else&#39;s card](https://alanany.com/2021/12/23/upwork-12k-refund-client-using-another-credit-card/)
-- [Adversarial Wordle](https://qntm.org/files/wordle/index.html)
-- [Show HN: API to query catalogs of 20 streaming services across 60 countries](https://www.movieofthenight.com/about/api)
+- [Upwork asking me for a $12.5k refund as the client was using someone else’s card](https://alanany.com/2021/12/23/upwork-12k-refund-client-using-another-credit-card/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
