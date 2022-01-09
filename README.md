@@ -54,8 +54,8 @@
 - [SafeBase &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/safebase/jobs/llXGC7Jbk-senior-full-stack-engineer)
 - [Serotonin selectively influences moral judgment and behavior](https://www.pnas.org/content/107/40/17433)
 - [Kakitype et kydoniaty: Photography with Persimmon Tannin or Quince Tannin](https://www.anneloubuzot.com/procedes-ecologiques/kakitype)
+- [Schelling&#39;s Model of Segregation](http://nifty.stanford.edu/2014/mccown-schelling-model-segregation/)
 - [Show HN: Evil Wordle](https://swag.github.io/evil-wordle/)
-- [FD 100](https://susam.net/blog/fd-100.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
