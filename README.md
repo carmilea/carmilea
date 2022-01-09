@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Literate programming: Knuth is doing it wrong](http://akkartik.name/post/literate-programming)
+- [FX: An interactive alternative to jq to process JSON](https://github.com/antonmedv/fx)
+- [Literate programming: Knuth is doing it wrong &lpar;2014&rpar;](http://akkartik.name/post/literate-programming)
+- [Re: Moxie on Web3. On decentralization, servers, and cryptography](https://blog.plan99.net/re-moxie-on-web3-b0cfccd68067?gi=c5c13129e817)
 - [On Web3 Infrastructure](https://mirror.xyz/suzuha.eth/vb5E5lhzmPTcpxOJcz6Q211TDgSvoFwDLA6JSM1V37Q)
 - [MBO – Garmin Watch Apps for Mountain Bike Orienteering](https://github.com/rjmccann101/MBO)
-- [The Rise of Performative Work](https://www.economist.com/business/2022/01/08/the-rise-of-performative-work)
-- [Explaining to my parents what I do](https://www.neelsomani.com/blog/explaining-to-my-parents-what-i-do.php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
