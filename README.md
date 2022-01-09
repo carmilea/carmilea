@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The image they claimed was theirs is a photo of me. That I took of myself](https://twitter.com/chelscore/status/1479673857908764672)
+- [JWST User Documentation](https://jwst-docs.stsci.edu/)
+- [Upwork asking for a $12,500 refund as the client was using someone else&#39;s card](https://alanany.com/2021/12/23/upwork-12k-refund-client-using-another-credit-card/)
 - [Adversarial Wordle](https://qntm.org/files/wordle/index.html)
 - [Show HN: API to query catalogs of 20 streaming services across 60 countries](https://www.movieofthenight.com/about/api)
-- [Simplicity of IRC](https://susam.net/maze/simplicity-of-irc.html)
-- [Lithium: A Year of Progress and Protests](https://elkodaily.com/mining/lithium-a-year-of-progress-and-protests/article_6f35f8be-34a8-5406-b1fb-afaeeabec81d.html)
-- [The Largest Suite of Cosmic Simulations for AI Training Is Now Free to Download](https://today.uconn.edu/2022/01/the-largest-suite-of-cosmic-simulations-for-ai-training-is-now-free-to-download-already-spurring-discoveries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
