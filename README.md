@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I went back to using a ThinkPad from 2012](https://ounapuu.ee/posts/2022/01/09/why-i-went-back-to-using-a-thinkpad-from-2012/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Engineers in Video Compression and Players](https://bitmovin.com/careers/)
-- [Animals Laugh Too: UCLA Study Finds Laughter in 65 Species, from Rats to Cows](https://www.openculture.com/2022/01/animals-laugh-too-ucla-study-finds-laughter-in-65-species-from-rats-to-cows.html)
+- [XMPP: The secure communication protocol that respects privacy](https://notes.nicfab.it/post/xmpp/xmpp/)
+- [UCLA Study Finds Laughter in 65 Species, from Rats to Cows](https://www.openculture.com/2022/01/animals-laugh-too-ucla-study-finds-laughter-in-65-species-from-rats-to-cows.html)
 - [How health care is turning into a consumer product](https://www.economist.com/business/how-health-care-is-turning-into-a-consumer-product/21807114)
-- [Turn a Raspberry Pi into a Brain-Computer-Interface to Measure Biosignals](https://arxiv.org/abs/2201.02228)
-- [State of the Web: Deno](https://byteofdev.com/posts/deno/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
