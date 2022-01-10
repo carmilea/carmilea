@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Turn a Raspberry Pi into a Brain-Computer-Interface to Measure Biosignals](https://arxiv.org/abs/2201.02228)
+- [State of the Web: Deno](https://byteofdev.com/posts/deno/)
 - [noDRM&#39;s GitHub repo DeDRM_tools is disabled due to Readium&#39;s DMCA notice](https://github.com/github/dmca/blob/master/2022/01/2022-01-04-readium.md)
 - [Merchant Service Horror: Amazon Pay and the Disappearing $2300](https://www.bigmessowires.com/2022/01/09/merchant-service-horror-amazon-pay-and-the-disappearing-2300/)
 - [Bob Saget has died](https://www.news4jax.com/news/local/2022/01/10/sources-americas-dad-bob-saget-dies-at-orlando-hotel/)
-- [See how DMARC, SPF, and DKIM work interactively](https://www.learndmarc.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
