@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Someone Just Lasered the Wrong Aircraft](https://www.navalnews.com/naval-news/2022/01/french-navy-atl2-mpa-someone-just-lasered-the-wrong-aircraft/)
+- [Blame Cronyism, Not Capitalism](https://journals.aom.org/doi/full/10.5465/amp.2019.0198.summary)
+- [Apache Flink ML 2.0 is released: ML for streaming data](https://flink.apache.org/news/2022/01/07/release-ml-2.0.0.html)
+- [Launch HN: Nyckel &lpar;YC W22&rpar; – Train and deploy ML classifiers in minutes](https://news.ycombinator.com/item?id=29875132)
 - [City of Milan confirms new cycling network linking 80% of the city to bike paths](https://road.cc/content/news/milan-confirms-new-bike-network-289375)
-- [Ask HN: How to learn about text editor architectures and implementations?](https://news.ycombinator.com/item?id=29874669)
-- [LatencyFleX: A new approach to game latency reduction](https://ishitatsuyuki.github.io/post/latencyflex/)
-- [Who Wrote This Shit?](https://www.heltweg.org/posts/who-wrote-this-shit/)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers to Power the World&#39;s Messages](https://onesignal.com/careers/47cfa966-9689-400b-8d86-fd2707a6f045)
 <!-- BLOG-POST-LIST:END -->
 
 ---
