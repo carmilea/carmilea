@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Someone Just Lasered the Wrong Aircraft](https://www.navalnews.com/naval-news/2022/01/french-navy-atl2-mpa-someone-just-lasered-the-wrong-aircraft/)
-- [Blame Cronyism, Not Capitalism](https://journals.aom.org/doi/full/10.5465/amp.2019.0198.summary)
-- [Apache Flink ML 2.0 is released: ML for streaming data](https://flink.apache.org/news/2022/01/07/release-ml-2.0.0.html)
-- [Launch HN: Nyckel &lpar;YC W22&rpar; – Train and deploy ML classifiers in minutes](https://news.ycombinator.com/item?id=29875132)
-- [City of Milan confirms new cycling network linking 80% of the city to bike paths](https://road.cc/content/news/milan-confirms-new-bike-network-289375)
+- [Deep Learning Interviews book: Hundreds of fully solved job interview questions](https://github.com/BoltzmannEntropy/interviews.ai)
+- [Danish intelligence chief held over suspected info leaks, local media report](https://www.reuters.com/world/europe/danish-intelligence-chief-held-over-suspected-information-leaks-local-media-2022-01-10/)
+- [The burden of an Open Source maintainer](https://www.jeffgeerling.com/blog/2022/burden-open-source-maintainer)
+- [Google Had Secret Project to ‘Convince’ Employees ‘That Unions Suck’](https://www.vice.com/en/article/v7d7j9/google-had-secret-project-to-convince-employees-that-unions-suck)
+- [OCaml Multicore merged upstream](https://github.com/ocaml/ocaml/commit/001997e81342fd0d321fd877b73608150601e7d9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
