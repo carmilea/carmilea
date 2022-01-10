@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Who Wrote This Shit?](https://www.heltweg.org/posts/who-wrote-this-shit/)
+- [No one died in China of Covid since April 15th 2020](https://www.worldometers.info/coronavirus/country/china/)
 - [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers to Power the World&#39;s Messages](https://onesignal.com/careers/47cfa966-9689-400b-8d86-fd2707a6f045)
 - [Covid-19 may have killed nearly 3M in India, far more than official counts show](https://www.science.org/content/article/covid-19-may-have-killed-nearly-3-million-india-far-more-official-counts-show)
 - [Blockchain-based systems are not what they say they are](https://blog.mollywhite.net/blockchains-are-not-what-they-say/)
-- [BitTorrent v2 &lpar;2020&rpar;](https://blog.libtorrent.org/2020/09/bittorrent-v2/)
-- [Britain&#39;s largest &#39;Sea Dragon&#39; discovered in UK&#39;s smallest county](https://www.lrwt.org.uk/seadragon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
