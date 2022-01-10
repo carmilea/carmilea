@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The con artist who sold rich investors a fake country](https://thehustle.co/the-con-artist-who-sold-rich-investors-a-fake-country/)
+- [&#39;America&#39;s Dad’ Bob Saget Dies at Orlando Hotel](https://www.news4jax.com/news/local/2022/01/10/sources-americas-dad-bob-saget-dies-at-orlando-hotel/)
+- [See how DMARC, SPF, and DKIM work interactively](https://www.learndmarc.com/)
 - [The vicious cycle of food and sleep](https://knowablemagazine.org/article/mind/2021/vicious-cycle-food-sleep)
 - [Command Line Video Player](https://github.com/mpv-player/mpv)
 - [CalyxOS now supports Pixel 6 and Pixel 6 Pro](https://calyxos.org/news/2022/01/08/android-12-pixel-6/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
