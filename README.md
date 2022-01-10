@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Plastic Liberated and Entombed Us](https://commonreader.wustl.edu/c/how-plastic-liberated-and-entombed-us/)
+- [A Few Things I’ve Learned About Livestreaming](https://dantepfer.com/blog/?p=1005)
+- [Michigan DOT Snowplow Names](https://www.michigan.gov/mdot/0,4616,7-151-9615-575096--,00.html)
 - [A data ‘black hole’: Europol ordered to delete vast store of personal data](https://www.theguardian.com/world/2022/jan/10/a-data-black-hole-europol-ordered-to-delete-vast-store-of-personal-data)
-- [In first, US surgeons transplant pig heart into human patient](https://apnews.com/article/pig-heart-transplant-6651614cb9d73bada8eea2ecb6449aef)
-- [A man who lives in a Boeing 727 in Oregon &lpar;2020&rpar;](https://www.loveproperty.com/galleries/85843/the-man-who-lives-in-a-boeing-727-in-oregon)
-- [Flow Club &lpar;YC S21&rpar; is hiring our first marketer](https://flowclub.notion.site/Work-at-Flow-Club-1e6cc84bfc0d4463ab333ee9bc02c46a)
-- [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom)
+- [Windy.com: See the wind, temperature, rain and air quality around you](https://www.windy.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
