@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The con artist who sold rich investors a fake country](https://thehustle.co/the-con-artist-who-sold-rich-investors-a-fake-country/)
+- [The vicious cycle of food and sleep](https://knowablemagazine.org/article/mind/2021/vicious-cycle-food-sleep)
 - [Command Line Video Player](https://github.com/mpv-player/mpv)
 - [CalyxOS now supports Pixel 6 and Pixel 6 Pro](https://calyxos.org/news/2022/01/08/android-12-pixel-6/)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
-- [Fossils of a Prehistoric Rainforest Hide in Australia’s Rusted Rocks](https://www.nytimes.com/2022/01/07/science/fossils-australia-rainforest.html)
-- [Show HN: Keyboard Drill – Minimalist Typing Drill to fix common mistakes](https://keyboard-drill.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
