@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ford dealers able to add no-resale provision to 22MY F150 Lighting](https://www.lightningowners.com/threads/ford-warns-dealers.427/#post-2608)
+- [Flow Club &lpar;YC S21&rpar; Is Hiring Our First Marketer](https://flowclub.notion.site/Work-at-Flow-Club-1e6cc84bfc0d4463ab333ee9bc02c46a)
+- [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom)
+- [Inflammation in the gut is encoded by neurons in the brain](https://www.nature.com/articles/d41586-021-03802-x)
+- [CSVCHAIN - NFTs backed by CSV technology](https://csvchain.com/)
 - [New Year, New CEO](https://signal.org/blog/new-year-new-ceo/)
-- [T-Mobile begins blocking iPhone users from enabling iCloud Private Relay in US](https://9to5mac.com/2022/01/10/t-mobile-block-icloud-private-relay/)
-- [Invasive Bradford &lpar;Callery&rpar; Pear Tree Is Banned in Pa](https://www.birdsoutsidemywindow.org/2022/01/10/invasive-bradford-callery-pear-is-banned-in-pa/)
-- [Top Major Schools Illegally Collude to Limit Student Financial Aid, Lawsuit Says](https://www.wsj.com/articles/yale-georgetown-other-top-schools-illegally-collude-to-limit-student-financial-aid-lawsuit-alleges-11641829659)
 <!-- BLOG-POST-LIST:END -->
 
 ---
