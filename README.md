@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford dealers able to add no-resale provision to 22MY F150 Lighting](https://www.lightningowners.com/threads/ford-warns-dealers.427/#post-2608)
+- [New Year, New CEO](https://signal.org/blog/new-year-new-ceo/)
+- [T-Mobile begins blocking iPhone users from enabling iCloud Private Relay in US](https://9to5mac.com/2022/01/10/t-mobile-block-icloud-private-relay/)
 - [Invasive Bradford &lpar;Callery&rpar; Pear Tree Is Banned in Pa](https://www.birdsoutsidemywindow.org/2022/01/10/invasive-bradford-callery-pear-is-banned-in-pa/)
 - [Top Major Schools Illegally Collude to Limit Student Financial Aid, Lawsuit Says](https://www.wsj.com/articles/yale-georgetown-other-top-schools-illegally-collude-to-limit-student-financial-aid-lawsuit-alleges-11641829659)
-- [Liminal Space](https://aesthetics.fandom.com/wiki/Liminal_Space)
-- [I quit caffeine](https://keygen.sh/blog/i-quit/)
-- [More Americans are saying they’re ‘vaxxed and done’](https://www.theatlantic.com/ideas/archive/2022/01/covid-omicron-vaccination-rashomon/621199/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
