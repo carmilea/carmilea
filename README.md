@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You Feel Like Shit](https://youfeellikeshit.com/)
-- [New‐onset autoimmune phenomena post‐Covid‐19 vaccination](https://onlinelibrary.wiley.com/doi/10.1111/imm.13443)
-- [How to Start a Successful Freelance Business as a Software Developer](https://nickjanetakis.com/blog/how-to-start-a-successful-freelance-business-as-a-software-developer)
-- [Why I went back to using a ThinkPad from 2012](https://ounapuu.ee/posts/2022/01/09/why-i-went-back-to-using-a-thinkpad-from-2012/)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Engineers in Video Compression and Players](https://bitmovin.com/careers/)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers to Power the World&#39;s Messages](https://onesignal.com/careers/47cfa966-9689-400b-8d86-fd2707a6f045)
+- [Covid-19 may have killed nearly 3M in India, far more than official counts show](https://www.science.org/content/article/covid-19-may-have-killed-nearly-3-million-india-far-more-official-counts-show)
+- [Blockchain-based systems are not what they say they are](https://blog.mollywhite.net/blockchains-are-not-what-they-say/)
+- [BitTorrent v2 &lpar;2020&rpar;](https://blog.libtorrent.org/2020/09/bittorrent-v2/)
+- [Britain&#39;s largest &#39;Sea Dragon&#39; discovered in UK&#39;s smallest county](https://www.lrwt.org.uk/seadragon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
