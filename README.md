@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: ReCalendar – custom calendar generator for ReMarkable and e-ink tablets](https://recalendar.me/)
+- [What NPM Should Do Today to Stop a New Colors Attack Tomorrow](https://research.swtch.com/npm-colors)
 - [Deep Learning Interviews book: Hundreds of fully solved job interview questions](https://github.com/BoltzmannEntropy/interviews.ai)
 - [Danish intelligence chief held over suspected info leaks, local media report](https://www.reuters.com/world/europe/danish-intelligence-chief-held-over-suspected-information-leaks-local-media-2022-01-10/)
 - [The burden of an Open Source maintainer](https://www.jeffgeerling.com/blog/2022/burden-open-source-maintainer)
-- [Google Had Secret Project to ‘Convince’ Employees ‘That Unions Suck’](https://www.vice.com/en/article/v7d7j9/google-had-secret-project-to-convince-employees-that-unions-suck)
-- [OCaml Multicore merged upstream](https://github.com/ocaml/ocaml/commit/001997e81342fd0d321fd877b73608150601e7d9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
