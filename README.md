@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Quit!](https://keygen.sh/blog/i-quit/)
-- [Why Bolt are switching to a four day work week](https://www.bolt.com/blog/switching-four-day-workweek/#)
-- [YC’s $500k Standard Deal](https://blog.ycombinator.com/ycs-standard-deal/)
-- [Deep Learning Interviews book: Hundreds of fully solved job interview questions](https://github.com/BoltzmannEntropy/interviews.ai)
-- [Danish intelligence chief held over suspected info leaks, local media report](https://www.reuters.com/world/europe/danish-intelligence-chief-held-over-suspected-information-leaks-local-media-2022-01-10/)
+- [Invasive Bradford &lpar;Callery&rpar; Pear Tree Is Banned in Pa](https://www.birdsoutsidemywindow.org/2022/01/10/invasive-bradford-callery-pear-is-banned-in-pa/)
+- [Top Major Schools Illegally Collude to Limit Student Financial Aid, Lawsuit Says](https://www.wsj.com/articles/yale-georgetown-other-top-schools-illegally-collude-to-limit-student-financial-aid-lawsuit-alleges-11641829659)
+- [Liminal Space](https://aesthetics.fandom.com/wiki/Liminal_Space)
+- [I quit caffeine](https://keygen.sh/blog/i-quit/)
+- [More Americans are saying they’re ‘vaxxed and done’](https://www.theatlantic.com/ideas/archive/2022/01/covid-omicron-vaccination-rashomon/621199/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
