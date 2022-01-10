@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You Feel Like Shit](https://youfeellikeshit.com/)
+- [New‐onset autoimmune phenomena post‐Covid‐19 vaccination](https://onlinelibrary.wiley.com/doi/10.1111/imm.13443)
+- [How to Start a Successful Freelance Business as a Software Developer](https://nickjanetakis.com/blog/how-to-start-a-successful-freelance-business-as-a-software-developer)
 - [Why I went back to using a ThinkPad from 2012](https://ounapuu.ee/posts/2022/01/09/why-i-went-back-to-using-a-thinkpad-from-2012/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Engineers in Video Compression and Players](https://bitmovin.com/careers/)
-- [XMPP: The secure communication protocol that respects privacy](https://notes.nicfab.it/post/xmpp/xmpp/)
-- [Making Open Source economy more viable with dual license collectives](https://dpc.pw/making-open-source-economy-more-viable-with-dual-license-collectives)
-- [UCLA Study Finds Laughter in 65 Species, from Rats to Cows](https://www.openculture.com/2022/01/animals-laugh-too-ucla-study-finds-laughter-in-65-species-from-rats-to-cows.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
