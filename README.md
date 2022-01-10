@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: ReCalendar – custom calendar generator for ReMarkable and e-ink tablets](https://recalendar.me/)
-- [What NPM Should Do Today to Stop a New Colors Attack Tomorrow](https://research.swtch.com/npm-colors)
+- [I Quit!](https://keygen.sh/blog/i-quit/)
+- [Why Bolt are switching to a four day work week](https://www.bolt.com/blog/switching-four-day-workweek/#)
+- [YC’s $500k Standard Deal](https://blog.ycombinator.com/ycs-standard-deal/)
 - [Deep Learning Interviews book: Hundreds of fully solved job interview questions](https://github.com/BoltzmannEntropy/interviews.ai)
 - [Danish intelligence chief held over suspected info leaks, local media report](https://www.reuters.com/world/europe/danish-intelligence-chief-held-over-suspected-information-leaks-local-media-2022-01-10/)
-- [The burden of an Open Source maintainer](https://www.jeffgeerling.com/blog/2022/burden-open-source-maintainer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
