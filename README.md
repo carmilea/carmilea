@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Holocaust Survivor&#39;s Hardboiled Science Fiction](https://www.newyorker.com/magazine/2022/01/17/a-holocaust-survivors-hardboiled-science-fiction)
+- [Lufthansa confirmed that 18,000 flights had been flown empty to keep slots](https://www.airlive.net/lufthansa-group-confirmed-that-18000-flights-had-been-flown-empty-to-keep-airport-slots/)
 - [&#39;The Matrix Resurrections&#39; estimated to lose Warner Bros. $100M](https://wegotthiscovered.com/tv/the-matrix-resurrections-estimated-to-lose-warner-bros-100-million/)
 - [Relationship Hero &lpar;YC S17&rpar; Is Hiring Customer Support – Full Time Remote](https://relationshiphero.com/careers?role=customerSupport)
-- [Minecraft mod that runs RISC-V Linux](https://www.curseforge.com/minecraft/mc-mods/oc2?t=kCSXxSMmvEldLgPycfMRkg&s=09)
-- [Strengthening Our Efforts Against the Spread of Non-Consensual Intimate Images](https://about.fb.com/news/2021/12/strengthening-efforts-against-spread-of-non-consensual-intimate-images/)
-- [You Win, Broken Database Schemas](https://christine.website/blog/broken-database-schemas-2022-01-10)
+- [Milton Friedman’s Interest Rate Fallacy](https://maroonmacro.substack.com/p/issue-38-milton-friedmans-interest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
