@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Average HN User](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22Average%20hn%20user%22&sort=byDate&type=comment)
 - [Remora &lpar;YC W21&rpar; is hiring – carbon capture for semi-trucks](https://news.ycombinator.com/item?id=29890462)
 - [On Learning Smalltalk](https://blog.robsayers.com/on-learning-smalltalk)
 - [The Art of Lisp and Writing](https://dreamsongs.com/ArtOfLisp.html)
-- [CFU Playground: Full-Stack Open-Source Framework for TinyML Acceleration on FPGA](https://github.com/google/CFU-Playground)
-- [PHP in 2022](https://stitcher.io/blog/php-in-2022)
+- [Improving API Response Times by Migrating from Cloud Functions to Cloud Run](https://unloc.app/en/magazine/we-cut-our-average-api-response-time-by-30-when-changing-from-cloud-functions-to-cloud-run)
 <!-- BLOG-POST-LIST:END -->
 
 ---
