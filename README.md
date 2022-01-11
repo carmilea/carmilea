@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Plastic Liberated and Entombed Us](https://commonreader.wustl.edu/c/how-plastic-liberated-and-entombed-us/)
-- [A Few Things I’ve Learned About Livestreaming](https://dantepfer.com/blog/?p=1005)
-- [Michigan DOT Snowplow Names](https://www.michigan.gov/mdot/0,4616,7-151-9615-575096--,00.html)
-- [A data ‘black hole’: Europol ordered to delete vast store of personal data](https://www.theguardian.com/world/2022/jan/10/a-data-black-hole-europol-ordered-to-delete-vast-store-of-personal-data)
-- [Windy.com: See the wind, temperature, rain and air quality around you](https://www.windy.com)
+- [&#39;The Matrix Resurrections&#39; estimated to lose Warner Bros. $100M](https://wegotthiscovered.com/tv/the-matrix-resurrections-estimated-to-lose-warner-bros-100-million/)
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Customer Support – Full Time Remote](https://relationshiphero.com/careers?role=customerSupport)
+- [Minecraft mod that runs RISC-V Linux](https://www.curseforge.com/minecraft/mc-mods/oc2?t=kCSXxSMmvEldLgPycfMRkg&s=09)
+- [Strengthening Our Efforts Against the Spread of Non-Consensual Intimate Images](https://about.fb.com/news/2021/12/strengthening-efforts-against-spread-of-non-consensual-intimate-images/)
+- [You Win, Broken Database Schemas](https://christine.website/blog/broken-database-schemas-2022-01-10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
