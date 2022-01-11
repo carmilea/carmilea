@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Average HN User](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22Average%20hn%20user%22&sort=byDate&type=comment)
+- [Intel removes Xinjiang references from shareholder letter](https://www.nasdaq.com/articles/intel-deletes-reference-to-xinjiang-after-backlash-in-china)
+- [The Righteousness Fix](https://www.orionmagazine.org/article/the-righteousness-fix/)
+- [Google Is Intentionally Making Its Products Worse for Users &lpar;Sonos IP&rpar;](https://www.inc.com/jason-aten/google-is-intentionally-making-its-products-worse-for-users-reason-might-surprise-you.html)
+- [Nothing like this will be built again &lpar;2002&rpar;](https://www.antipope.org/charlie/blog-static/rants/nothing-like-this-will-be-buil.html)
 - [Remora &lpar;YC W21&rpar; is hiring – carbon capture for semi-trucks](https://news.ycombinator.com/item?id=29890462)
-- [On Learning Smalltalk](https://blog.robsayers.com/on-learning-smalltalk)
-- [The Art of Lisp and Writing](https://dreamsongs.com/ArtOfLisp.html)
-- [Improving API Response Times by Migrating from Cloud Functions to Cloud Run](https://unloc.app/en/magazine/we-cut-our-average-api-response-time-by-30-when-changing-from-cloud-functions-to-cloud-run)
 <!-- BLOG-POST-LIST:END -->
 
 ---
