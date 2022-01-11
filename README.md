@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Citadel &lpar;Groupware&rpar; Code of Conduct](https://www.citadel.org/code_of_conduct.html)
+- [Ask HN: Why is software quality always decreasing?](https://news.ycombinator.com/item?id=29896815)
+- [What Defcon Sounds Like: Skyking Emergency Action Messages &lpar;2016&rpar;](https://specialcollections.radio/This-Is-What-DEFCON-Sounds-Like-Skyking-Emergency-Action-Messages)
+- [New SysJoker Backdoor Targets Windows, Linux, and macOS](https://www.intezer.com/blog/malware-analysis/new-backdoor-sysjoker/)
 - [Yesterday, US grounded ALL planes on the west coast for ten minutes](https://kion546.com/money/cnn-business-consumer/2022/01/11/us-grounded-planes-after-norad-alerted-a-north-korean-missile-launch-official-says-2/)
-- [The Tipping Point: The Economics of Taxi Fares](https://www.gsb.stanford.edu/insights/tipping-point-subtle-psychology-economics-taxi-fares)
-- [W3C Privacy Interest Group &lpar;PING&rpar; 2021 year in review and thank yous](https://www.w3.org/blog/2022/01/privacy-interest-group-ping-2021-year-in-review-and-thank-yous/)
-- [Reading a Pacific navigator’s mysterious map may require a shift in perspective](https://knowablemagazine.org/article/society/2021/reading-pacific-navigators-mysterious-map)
-- [LastPass appears to be holding users&#39; passwords hostage](https://alternativeto.net/news/2022/1/lastpass-seemingly-deliberately-holding-users-password-data-hostage-alongside-new-pricing-plans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
