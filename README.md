@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel removes Xinjiang references from shareholder letter](https://www.nasdaq.com/articles/intel-deletes-reference-to-xinjiang-after-backlash-in-china)
-- [The Righteousness Fix](https://www.orionmagazine.org/article/the-righteousness-fix/)
-- [Google Is Intentionally Making Its Products Worse for Users &lpar;Sonos IP&rpar;](https://www.inc.com/jason-aten/google-is-intentionally-making-its-products-worse-for-users-reason-might-surprise-you.html)
-- [Nothing like this will be built again &lpar;2002&rpar;](https://www.antipope.org/charlie/blog-static/rants/nothing-like-this-will-be-buil.html)
-- [Remora &lpar;YC W21&rpar; is hiring – carbon capture for semi-trucks](https://news.ycombinator.com/item?id=29890462)
+- [Launch HN: Clover &lpar;YC S20&rpar; – Notes, whiteboarding, and daily planner in one tool](https://news.ycombinator.com/item?id=29892134)
+- [Microsoft posts its own teardown and repair video for the Surface Laptop SE](https://arstechnica.com/gadgets/2022/01/microsoft-posts-its-own-teardown-and-repair-video-for-the-surface-laptop-se/)
+- [BioNTech-InstaDeep Early Warning System to Detect High-Risk SARS-CoV-2 Variants](https://investors.biontech.de/news-releases/news-release-details/biontech-and-instadeep-developed-and-successfully-tested-early/)
+- [Firefox 96](https://www.mozilla.org/en-US/firefox/96.0/releasenotes/)
+- [Tell HN: GitHub no longer supporting unauthenticated `git://`](https://news.ycombinator.com/item?id=29891656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
