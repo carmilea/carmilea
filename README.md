@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Make Beautiful Gradients](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
 - [The Optional Chaining Operator, “Modern” Browsers, and My Mom](https://blog.jim-nielsen.com/2022/a-web-for-all/)
 - [MedMe Health &lpar;YC W21&rpar; Is Hiring a Director of Eng/Sr Eng to Transform Pharmacies](https://jobs.lever.co/bloom?team=MedMe)
-- [Djokovic&#39;s positive PCR test was manipulated](https://twitter.com/zerforschung/status/1480924205352996870)
+- [How to Use SingleStore as a Key-Value Store](https://www.singlestore.com/blog/how-to-use-singlestore-as-a-key-value-store)
 - [The WebSocket Handbook](https://ably.com/blog/introducing-the-websocket-handbook)
-- [NASA believes the James Webb Space Telescope has enough fuel to last 20 years](https://www.npr.org/live-updates/morning-edition-2022-01-11)
 <!-- BLOG-POST-LIST:END -->
 
 ---
