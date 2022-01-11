@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
+- [“Modern” C++ Lamentations&lpar;2018&rpar;](https://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/)
+- [Annotated equations for increased readability and understanding of papers](https://twitter.com/sibinmohan/status/1480583840858996743)
 - [Compound &lpar;YC S19&rpar; is hiring to build financial products for tech employees](https://withcompound.com/)
 - [Is the madness ever going to end?](https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html)
-- [The Future of Hardware Is Software](https://octoml.ai/blog/the-future-of-hardware-is-software/)
-- [Revisiting why hyperlinks are blue](https://blog.mozilla.org/en/internet-culture/why-are-hyperlinks-blue-revisited/)
-- [Make the “semantic web” web 3.0 again – with the help of SQLite](https://ansiwave.net/blog/semantic-web.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
