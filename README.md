@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Optional Chaining Operator, “Modern” Browsers, and My Mom](https://blog.jim-nielsen.com/2022/a-web-for-all/)
+- [MedMe Health &lpar;YC W21&rpar; Is Hiring a Director of Eng/Sr Eng to Transform Pharmacies](https://jobs.lever.co/bloom?team=MedMe)
+- [Djokovic&#39;s positive PCR test was manipulated](https://twitter.com/zerforschung/status/1480924205352996870)
 - [The WebSocket Handbook](https://ably.com/blog/introducing-the-websocket-handbook)
 - [NASA believes the James Webb Space Telescope has enough fuel to last 20 years](https://www.npr.org/live-updates/morning-edition-2022-01-11)
-- [Djokovic&#39;s PCR test was manipulated &lpar;OSINT by Zerforschung, in German&rpar;](https://twitter.com/zerforschung/status/1480919124117274625)
-- [Ask HN: Why isn&#39;t there a backlash around charging for security features?](https://news.ycombinator.com/item?id=29892472)
-- [Dsq: Commandline tool for running SQL queries against JSON, CSV, Parquet, etc.](https://datastation.multiprocess.io/blog/2022-01-11-dsq.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
