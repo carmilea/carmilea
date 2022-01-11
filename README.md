@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Justice Department forming unit to counter domestic terrorism](https://www.reuters.com/legal/government/us-justice-department-forming-unit-counter-domestic-terrorism-2022-01-11/)
-- [PCI-Sig Releases 256GBps PCIe 6.0 X16 Spec](https://www.servethehome.com/pci-sig-releases-256gbps-pcie-6-0-x16-spec/)
-- [CNCF 2021 Annual Report](https://www.cncf.io/cncf-annual-report-2021/)
-- [Microtargeting as Information Warfare [pdf]](https://cyberdefensereview.army.mil/Portals/6/Documents/2021_winter_cdr/04_CDR_V6N1_Dawson.pdf)
-- [What Defcon Sounds Like: Skyking Emergency Action Messages &lpar;2016&rpar;](https://specialcollections.radio/This-Is-What-DEFCON-Sounds-Like-Skyking-Emergency-Action-Messages)
+- [Compound &lpar;YC S19&rpar; is hiring to build financial products for tech employees](https://withcompound.com/)
+- [Is the madness ever going to end?](https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html)
+- [The Future of Hardware Is Software](https://octoml.ai/blog/the-future-of-hardware-is-software/)
+- [Revisiting why hyperlinks are blue](https://blog.mozilla.org/en/internet-culture/why-are-hyperlinks-blue-revisited/)
+- [Make the “semantic web” web 3.0 again – with the help of SQLite](https://ansiwave.net/blog/semantic-web.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
