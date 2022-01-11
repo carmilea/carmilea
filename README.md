@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Beautiful Gradients](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
-- [The Optional Chaining Operator, “Modern” Browsers, and My Mom](https://blog.jim-nielsen.com/2022/a-web-for-all/)
-- [MedMe Health &lpar;YC W21&rpar; Is Hiring a Director of Eng/Sr Eng to Transform Pharmacies](https://jobs.lever.co/bloom?team=MedMe)
-- [How to Use SingleStore as a Key-Value Store](https://www.singlestore.com/blog/how-to-use-singlestore-as-a-key-value-store)
-- [The WebSocket Handbook](https://ably.com/blog/introducing-the-websocket-handbook)
+- [Yesterday, US grounded ALL planes on the west coast for ten minutes](https://kion546.com/money/cnn-business-consumer/2022/01/11/us-grounded-planes-after-norad-alerted-a-north-korean-missile-launch-official-says-2/)
+- [The Tipping Point: The Economics of Taxi Fares](https://www.gsb.stanford.edu/insights/tipping-point-subtle-psychology-economics-taxi-fares)
+- [W3C Privacy Interest Group &lpar;PING&rpar; 2021 year in review and thank yous](https://www.w3.org/blog/2022/01/privacy-interest-group-ping-2021-year-in-review-and-thank-yous/)
+- [Reading a Pacific navigator’s mysterious map may require a shift in perspective](https://knowablemagazine.org/article/society/2021/reading-pacific-navigators-mysterious-map)
+- [LastPass appears to be holding users&#39; passwords hostage](https://alternativeto.net/news/2022/1/lastpass-seemingly-deliberately-holding-users-password-data-hostage-alongside-new-pricing-plans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
