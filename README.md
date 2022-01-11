@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Clover &lpar;YC S20&rpar; – Notes, whiteboarding, and daily planner in one tool](https://news.ycombinator.com/item?id=29892134)
-- [Microsoft posts its own teardown and repair video for the Surface Laptop SE](https://arstechnica.com/gadgets/2022/01/microsoft-posts-its-own-teardown-and-repair-video-for-the-surface-laptop-se/)
-- [BioNTech-InstaDeep Early Warning System to Detect High-Risk SARS-CoV-2 Variants](https://investors.biontech.de/news-releases/news-release-details/biontech-and-instadeep-developed-and-successfully-tested-early/)
-- [Firefox 96](https://www.mozilla.org/en-US/firefox/96.0/releasenotes/)
-- [Tell HN: GitHub no longer supporting unauthenticated `git://`](https://news.ycombinator.com/item?id=29891656)
+- [The WebSocket Handbook](https://ably.com/blog/introducing-the-websocket-handbook)
+- [NASA believes the James Webb Space Telescope has enough fuel to last 20 years](https://www.npr.org/live-updates/morning-edition-2022-01-11)
+- [Djokovic&#39;s PCR test was manipulated &lpar;OSINT by Zerforschung, in German&rpar;](https://twitter.com/zerforschung/status/1480919124117274625)
+- [Ask HN: Why isn&#39;t there a backlash around charging for security features?](https://news.ycombinator.com/item?id=29892472)
+- [Dsq: Commandline tool for running SQL queries against JSON, CSV, Parquet, etc.](https://datastation.multiprocess.io/blog/2022-01-11-dsq.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
