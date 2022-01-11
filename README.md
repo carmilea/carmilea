@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Monumental Record: the lives of the workers building the Great Pyramid of Giza](https://www.historytoday.com/archive/history-matters/monumental-record)
 - [Euler’s 243-Year-Old ‘Impossible’ Puzzle Gets a Quantum Solution](https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/)
 - [Indian threat actor Patchwork APT caught in its own web](https://blog.malwarebytes.com/threat-intelligence/2022/01/patchwork-apt-caught-in-its-own-web/)
 - [Edina Minnesota latest suburb to roll out homeowner surveillance camera program](https://www.startribune.com/edina-latest-suburb-to-roll-out-homeowner-surveillance-camera-program/600132122/)
 - [Crev – Socially scalable Code REView and recommendation system](https://github.com/crev-dev/)
-- [Is Google Search Deteriorating? Measuring Google&#39;s Search Quality in 2022](https://www.surgehq.ai/blog/is-google-search-deteriorating-measuring-search-quality-in-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
