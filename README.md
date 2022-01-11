@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Germans remain so jittery about nuclear power](https://www.economist.com/europe/2022/01/08/why-germans-remain-so-jittery-about-nuclear-power)
+- [Remora &lpar;YC W21&rpar; is hiring – carbon capture for semi-trucks](https://news.ycombinator.com/item?id=29890462)
+- [On Learning Smalltalk](https://blog.robsayers.com/on-learning-smalltalk)
+- [The Art of Lisp and Writing](https://dreamsongs.com/ArtOfLisp.html)
 - [CFU Playground: Full-Stack Open-Source Framework for TinyML Acceleration on FPGA](https://github.com/google/CFU-Playground)
-- [Show HN: I made a Novak Djokovic tennis game](https://thenewstoday.ie/djokovic/)
-- [Asian Boss planted deep blue YouTuber and pretended he was a &#39;man on the street&#39;](https://laorencha.blogspot.com/2022/01/yes-asian-boss-planted-deep-blue.html)
-- [Quines &lpar;Self-Replicating Programs&rpar;](http://www.madore.org/~david/computers/quine.html)
+- [PHP in 2022](https://stitcher.io/blog/php-in-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
