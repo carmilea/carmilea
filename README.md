@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Citadel &lpar;Groupware&rpar; Code of Conduct](https://www.citadel.org/code_of_conduct.html)
-- [Ask HN: Why is software quality always decreasing?](https://news.ycombinator.com/item?id=29896815)
+- [U.S. Justice Department forming unit to counter domestic terrorism](https://www.reuters.com/legal/government/us-justice-department-forming-unit-counter-domestic-terrorism-2022-01-11/)
+- [PCI-Sig Releases 256GBps PCIe 6.0 X16 Spec](https://www.servethehome.com/pci-sig-releases-256gbps-pcie-6-0-x16-spec/)
+- [CNCF 2021 Annual Report](https://www.cncf.io/cncf-annual-report-2021/)
+- [Microtargeting as Information Warfare [pdf]](https://cyberdefensereview.army.mil/Portals/6/Documents/2021_winter_cdr/04_CDR_V6N1_Dawson.pdf)
 - [What Defcon Sounds Like: Skyking Emergency Action Messages &lpar;2016&rpar;](https://specialcollections.radio/This-Is-What-DEFCON-Sounds-Like-Skyking-Emergency-Action-Messages)
-- [New SysJoker Backdoor Targets Windows, Linux, and macOS](https://www.intezer.com/blog/malware-analysis/new-backdoor-sysjoker/)
-- [Yesterday, US grounded ALL planes on the west coast for ten minutes](https://kion546.com/money/cnn-business-consumer/2022/01/11/us-grounded-planes-after-norad-alerted-a-north-korean-missile-launch-official-says-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
