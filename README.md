@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crev – Socially scalable Code REView and recommendation system](https://github.com/crev-dev/)
+- [Is Google Search Deteriorating? Measuring Google&#39;s Search Quality in 2022](https://www.surgehq.ai/blog/is-google-search-deteriorating-measuring-search-quality-in-2022)
 - [A Holocaust Survivor&#39;s Hardboiled Science Fiction](https://www.newyorker.com/magazine/2022/01/17/a-holocaust-survivors-hardboiled-science-fiction)
-- [Lufthansa confirmed that 18,000 flights had been flown empty to keep slots](https://www.airlive.net/lufthansa-group-confirmed-that-18000-flights-had-been-flown-empty-to-keep-airport-slots/)
-- [&#39;The Matrix Resurrections&#39; estimated to lose Warner Bros. $100M](https://wegotthiscovered.com/tv/the-matrix-resurrections-estimated-to-lose-warner-bros-100-million/)
+- [Lufthansa confirmed that 18k flights had been flown empty to keep slots](https://www.airlive.net/lufthansa-group-confirmed-that-18000-flights-had-been-flown-empty-to-keep-airport-slots/)
 - [Relationship Hero &lpar;YC S17&rpar; Is Hiring Customer Support – Full Time Remote](https://relationshiphero.com/careers?role=customerSupport)
-- [Milton Friedman’s Interest Rate Fallacy](https://maroonmacro.substack.com/p/issue-38-milton-friedmans-interest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
