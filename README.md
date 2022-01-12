@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
+- [Apache PLC4X announcing end of community support due to missing funding](https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc)
 - [Mullvad: Diskless infrastructure in beta &lpar;System Transparency: stboot&rpar;](https://mullvad.net/en/blog/2022/1/12/diskless-infrastructure-beta-system-transparency-stboot/)
 - [From TypeScript to ReScript](https://www.greyblake.com/blog/from-typescript-to-rescript/)
-- [State of Machine Learning in Julia](https://discourse.julialang.org/t/state-of-machine-learning-in-julia/74385)
-- [Large-scale, semi-automated Go GC tuning](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/)
-- [DMV ‘revisiting’ its approach to regulating Tesla’s public self-driving test](https://www.latimes.com/business/story/2022-01-11/dmv-message-to-legislatures-ontesla-full-self-driving-safety-its-not-our-job)
+- [Show HN: Extending SectorLISP to Implement Basic REPLs and Games](https://woodrush.github.io/blog/posts/2022-01-12-sectorlisp-io.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
