@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany doesn&#39;t rule out closing Telegram – interior minister](https://www.reuters.com/technology/germany-doesnt-rule-out-closing-telegram-interior-minister-2022-01-12/)
+- [Amish Hackers &lpar;2009&rpar;](https://kk.org/thetechnium/amish-hackers-a/)
+- [Convictional &lpar;YC W19&rpar; -hiring engineers to build the future of B2B trade &lpar;Remote&rpar;](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
+- [Ask HN: Career change for elderly UK ex-convict?](https://news.ycombinator.com/item?id=29904654)
 - [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
-- [Apache PLC4X announcing end of community support due to missing funding](https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc)
-- [Mullvad: Diskless infrastructure in beta &lpar;System Transparency: stboot&rpar;](https://mullvad.net/en/blog/2022/1/12/diskless-infrastructure-beta-system-transparency-stboot/)
-- [From TypeScript to ReScript](https://www.greyblake.com/blog/from-typescript-to-rescript/)
-- [Show HN: Extending SectorLISP to Implement Basic REPLs and Games](https://woodrush.github.io/blog/posts/2022-01-12-sectorlisp-io.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
