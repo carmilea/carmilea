@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [4-year old w/leukemia evicted from Ronald McDonald House due to vaccine status](https://tnc.news/2022/01/12/b-c-family-being-evicted-from-ronald-mcdonald-house-due-to-vaccine-status/)
+- [Apple execs: Let&#39;s take a 30% cut of Uber and Lyft&#39;s membership programs](https://twitter.com/TechEmails/status/1481339345822879745)
 - [Professor Ehud Qimron: “Ministry of Health, it’s time to admit failure”](https://swprs.org/professor-ehud-qimron-ministry-of-health-its-time-to-admit-failure/)
 - [World ocean temperatures in 2021 were the hottest ever recorded](https://www.axios.com/global-ocean-temperatures-record-high-935b1b7e-2adf-4759-b8a6-d4747a94c809.html)
 - [Heartfuck](https://github.com/burgravian/heartfuck)
