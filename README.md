@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [About the security content of iOS 15.2.1 and iPadOS 15.2.1](https://support.apple.com/en-us/HT213043)
-- [Using Git Commit Message Templates to Write Better Commit Messages](https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733)
-- [Async Rust in Practice: Performance, Pitfalls, Profiling](https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-profiling/)
-- [Vector Search with SQL](https://neuml.github.io/txtai/embeddings/)
-- [Show HN: I built a gravity simulator in pure CSS](https://www.multiplanetary.website/rocketscience)
+- [Heartfuck](https://github.com/burgravian/heartfuck)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [They Still Haven&#39;t Told You](https://arxiv.org/abs/2201.00223)
+- [Uncensorable, immutable microblogging platform that is completely decentralized](https://github.com/publiusfederalist/zooko)
+- [The Dark Web Has Its Own People&#39;s Court where cybercriminals work out disputes](https://analyst1.com/blog/dark-web-justice-league)
 <!-- BLOG-POST-LIST:END -->
 
 ---
