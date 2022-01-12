@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists believed Covid leaked from Wuhan lab, but feared debate could hurt](https://www.telegraph.co.uk/news/2022/01/11/scientists-believed-covid-leaked-wuhan-lab-feared-debate-could/)
 - [802.11bf: The next big Wi-Fi standard is for sensing, not communication](https://staceyoniot.com/the-next-big-wi-fi-standard-is-for-sensing-not-communication/)
 - [Welcome to Waifu Labs v2: How Do AIs Create?](https://waifulabs.com/blog/ai-creativity)
-- [Cannot Download GitHub Assets](https://codeload.github.com/)
 - [Ask HN: Why new browsers use Chromium instead of Firefox as their base?](https://news.ycombinator.com/item?id=29900496)
 - [The Great Siberian Thaw](https://www.newyorker.com/magazine/2022/01/17/the-great-siberian-thaw)
 <!-- BLOG-POST-LIST:END -->
