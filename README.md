@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Great Siberian Thaw](https://www.newyorker.com/magazine/2022/01/17/the-great-siberian-thaw)
 - [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
+- [Terence Tao&#39;s favorite problem-solving strategies &lpar;2010&rpar;](https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies/)
 - [“Modern” C++ Lamentations&lpar;2018&rpar;](https://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/)
 - [Annotated equations for increased readability and understanding of papers](https://twitter.com/sibinmohan/status/1480583840858996743)
-- [Compound &lpar;YC S19&rpar; is hiring to build financial products for tech employees](https://withcompound.com/)
-- [Is the madness ever going to end?](https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
