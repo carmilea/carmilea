@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mullvad: Diskless infrastructure in beta &lpar;System Transparency: stboot&rpar;](https://mullvad.net/en/blog/2022/1/12/diskless-infrastructure-beta-system-transparency-stboot/)
+- [From TypeScript to ReScript](https://www.greyblake.com/blog/from-typescript-to-rescript/)
 - [State of Machine Learning in Julia](https://discourse.julialang.org/t/state-of-machine-learning-in-julia/74385)
 - [Large-scale, semi-automated Go GC tuning](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/)
 - [DMV ‘revisiting’ its approach to regulating Tesla’s public self-driving test](https://www.latimes.com/business/story/2022-01-11/dmv-message-to-legislatures-ontesla-full-self-driving-safety-its-not-our-job)
-- [SAGE jumpstarted today’s technology and built IBM into a powerhouse](https://arstechnica.com/science/2022/01/the-most-important-computer-youve-never-heard-of/)
-- [Scientists believed Covid leaked from Wuhan lab, but feared debate could hurt](https://www.telegraph.co.uk/news/2022/01/11/scientists-believed-covid-leaked-wuhan-lab-feared-debate-could/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
