@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brazil&#39;s Favela Tech Boom](https://www.spiegel.de/international/world/brazil-s-favela-tech-boom-young-people-from-poor-neighborhoods-set-out-to-conquer-digital-world-a-81a80497-0634-49e1-ad31-d1c8d5f83382)
-- [Dutch Athletes Warned to Keep Phones and Laptops Out of China](https://www.reuters.com/lifestyle/sports/dutch-athletes-warned-keep-phones-laptops-out-china-media-2022-01-11/)
-- [Pikchr – PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/homepage.md)
-- [Parcel CSS: A new CSS parser, compiler, and minifier](https://parceljs.org/blog/parcel-css/)
-- [Supabase &lpar;YC S20&rpar; Is Hiring a Growth Marketer](https://about.supabase.com/careers/growth-marketer)
+- [Show HN: I built a gravity simulator in pure CSS](https://www.multiplanetary.website/rocketscience)
+- [RDS vs. PlanetScale: Pricing Considerations](https://www.vantage.sh/blog/2022-01-12-rds-vs-planetscale-pricing-considerations)
+- [Great AA Alkaline Battery Test](https://goughlui.com/2016/12/19/great-aa-alkaline-battery-test-pt-1-battery-testing-fundamentals/)
+- [Who Contributed to PostgreSQL Development in 2020 and 2021?](http://rhaas.blogspot.com/2022/01/who-contributed-to-postgresql.html)
+- [Young people from Brazil&#39;s favelas set out to conquer digital world](https://www.spiegel.de/international/world/brazil-s-favela-tech-boom-young-people-from-poor-neighborhoods-set-out-to-conquer-digital-world-a-81a80497-0634-49e1-ad31-d1c8d5f83382)
 <!-- BLOG-POST-LIST:END -->
 
 ---
