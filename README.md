@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany doesn&#39;t rule out closing Telegram – interior minister](https://www.reuters.com/technology/germany-doesnt-rule-out-closing-telegram-interior-minister-2022-01-12/)
 - [Amish Hackers &lpar;2009&rpar;](https://kk.org/thetechnium/amish-hackers-a/)
 - [Convictional &lpar;YC W19&rpar; -hiring engineers to build the future of B2B trade &lpar;Remote&rpar;](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
+- [How to easily read 50 books a year](https://www.ramoswriter.com/how-to-read-more/)
 - [Ask HN: Career change for elderly UK ex-convict?](https://news.ycombinator.com/item?id=29904654)
 - [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
 <!-- BLOG-POST-LIST:END -->
