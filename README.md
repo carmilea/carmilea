@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: I suck at math, where to start?](https://news.ycombinator.com/item?id=29905554)
-- [Two Years Is Long Enough](https://www.theatlantic.com/ideas/archive/2022/01/i-want-my-life-back-fear-covid/621214/)
-- [Amish Hackers &lpar;2009&rpar;](https://kk.org/thetechnium/amish-hackers-a/)
-- [Convictional &lpar;YC W19&rpar; -hiring engineers to build the future of B2B trade &lpar;Remote&rpar;](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
-- [Ask HN: New Programming Language?](https://news.ycombinator.com/item?id=29905166)
+- [Goldman Sachs invests $250m in compressed air energy storage](https://www.canarymedia.com/articles/long-duration-energy-storage/goldman-sachs-just-made-a-record-setting-investment-in-long-duration-energy-storage)
+- [Ask HN: Where Is the Cola?](https://news.ycombinator.com/item?id=29907013)
+- [Wordle is being punished by app stores for choosing the open web](https://techcrunch.com/2022/01/12/wordle-is-being-punished-by-app-stores-for-choosing-the-open-web/)
+- [Google hired union-busting consultants to convince employees “unions suck”](https://arstechnica.com/tech-policy/2022/01/google-hired-union-busting-consultants-to-convince-employees-unions-suck/)
+- [US consumer prices soared 7% in past year, most since 1982](https://apnews.com/article/consumer-prices-inflation-c1bfd93ed1719cf0135420f4fd0270f9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
