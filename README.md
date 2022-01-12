@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Are Microsoft development stack and Azure a dead-end career path?](https://news.ycombinator.com/item?id=29909541)
+- [Brazil&#39;s Favela Tech Boom](https://www.spiegel.de/international/world/brazil-s-favela-tech-boom-young-people-from-poor-neighborhoods-set-out-to-conquer-digital-world-a-81a80497-0634-49e1-ad31-d1c8d5f83382)
+- [Dutch Athletes Warned to Keep Phones and Laptops Out of China](https://www.reuters.com/lifestyle/sports/dutch-athletes-warned-keep-phones-laptops-out-china-media-2022-01-11/)
+- [Pikchr – PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/homepage.md)
+- [Parcel CSS: A new CSS parser, compiler, and minifier](https://parceljs.org/blog/parcel-css/)
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Growth Marketer](https://about.supabase.com/careers/growth-marketer)
-- [People behave more sadistically when they’re bored](https://digest.bps.org.uk/2022/01/12/people-behave-more-sadistically-when-theyre-bored/)
-- [FOSS donations which reach the roots](https://github.com/openfare/openfare)
-- [Who Is the Network Access Broker ‘Wazawaka?’](https://krebsonsecurity.com/2022/01/who-is-the-network-access-broker-wazawaka/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
