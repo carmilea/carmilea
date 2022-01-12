@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [802.11bf: The next big Wi-Fi standard is for sensing, not communication](https://staceyoniot.com/the-next-big-wi-fi-standard-is-for-sensing-not-communication/)
+- [Welcome to Waifu Labs v2: How Do AIs Create?](https://waifulabs.com/blog/ai-creativity)
 - [Cannot Download GitHub Assets](https://codeload.github.com/)
 - [Ask HN: Why new browsers use Chromium instead of Firefox as their base?](https://news.ycombinator.com/item?id=29900496)
 - [The Great Siberian Thaw](https://www.newyorker.com/magazine/2022/01/17/the-great-siberian-thaw)
-- [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
-- [Terence Tao&#39;s favorite problem-solving strategies &lpar;2010&rpar;](https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
