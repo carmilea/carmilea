@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Autofocus on a Pi – ArduCam&#39;s new 16MP camera](https://www.jeffgeerling.com/blog/2022/autofocus-on-pi-arducams-new-16mp-camera)
-- [Goldman Sachs invests $250m in compressed air energy storage](https://www.canarymedia.com/articles/long-duration-energy-storage/goldman-sachs-just-made-a-record-setting-investment-in-long-duration-energy-storage)
-- [Ask HN: Where Is the Cola?](https://news.ycombinator.com/item?id=29907013)
-- [Lawsuit aiming to break up Facebook group Meta can go ahead, US court rules](https://www.theguardian.com/technology/2022/jan/12/lawsuit-aiming-to-break-up-facebook-group-meta-can-go-ahead-us-court-rules)
-- [Release of IPython 8.0](https://blog.jupyter.org/release-of-ipython-8-0-6e034ff122ef?gi=5efbb52d543e)
+- [Ask HN: Are Microsoft development stack and Azure a dead-end career path?](https://news.ycombinator.com/item?id=29909541)
+- [Supabase &lpar;YC S20&rpar; Is Hiring a Growth Marketer](https://about.supabase.com/careers/growth-marketer)
+- [People behave more sadistically when they’re bored](https://digest.bps.org.uk/2022/01/12/people-behave-more-sadistically-when-theyre-bored/)
+- [FOSS donations which reach the roots](https://github.com/openfare/openfare)
+- [Who Is the Network Access Broker ‘Wazawaka?’](https://krebsonsecurity.com/2022/01/who-is-the-network-access-broker-wazawaka/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
