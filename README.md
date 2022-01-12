@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Autofocus on a Pi – ArduCam&#39;s new 16MP camera](https://www.jeffgeerling.com/blog/2022/autofocus-on-pi-arducams-new-16mp-camera)
 - [Goldman Sachs invests $250m in compressed air energy storage](https://www.canarymedia.com/articles/long-duration-energy-storage/goldman-sachs-just-made-a-record-setting-investment-in-long-duration-energy-storage)
 - [Ask HN: Where Is the Cola?](https://news.ycombinator.com/item?id=29907013)
-- [Wordle is being punished by app stores for choosing the open web](https://techcrunch.com/2022/01/12/wordle-is-being-punished-by-app-stores-for-choosing-the-open-web/)
-- [Google hired union-busting consultants to convince employees “unions suck”](https://arstechnica.com/tech-policy/2022/01/google-hired-union-busting-consultants-to-convince-employees-unions-suck/)
-- [US consumer prices soared 7% in past year, most since 1982](https://apnews.com/article/consumer-prices-inflation-c1bfd93ed1719cf0135420f4fd0270f9)
+- [Lawsuit aiming to break up Facebook group Meta can go ahead, US court rules](https://www.theguardian.com/technology/2022/jan/12/lawsuit-aiming-to-break-up-facebook-group-meta-can-go-ahead-us-court-rules)
+- [Release of IPython 8.0](https://blog.jupyter.org/release-of-ipython-8-0-6e034ff122ef?gi=5efbb52d543e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
