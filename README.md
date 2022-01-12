@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [4-year old w/leukemia evicted from Ronald McDonald House due to vaccine status](https://tnc.news/2022/01/12/b-c-family-being-evicted-from-ronald-mcdonald-house-due-to-vaccine-status/)
+- [Professor Ehud Qimron: “Ministry of Health, it’s time to admit failure”](https://swprs.org/professor-ehud-qimron-ministry-of-health-its-time-to-admit-failure/)
+- [World ocean temperatures in 2021 were the hottest ever recorded](https://www.axios.com/global-ocean-temperatures-record-high-935b1b7e-2adf-4759-b8a6-d4747a94c809.html)
 - [Heartfuck](https://github.com/burgravian/heartfuck)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [They Still Haven&#39;t Told You](https://arxiv.org/abs/2201.00223)
-- [Uncensorable, immutable microblogging platform that is completely decentralized](https://github.com/publiusfederalist/zooko)
-- [The Dark Web Has Its Own People&#39;s Court where cybercriminals work out disputes](https://analyst1.com/blog/dark-web-justice-league)
 <!-- BLOG-POST-LIST:END -->
 
 ---
