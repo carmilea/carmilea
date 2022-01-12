@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [About the security content of iOS 15.2.1 and iPadOS 15.2.1](https://support.apple.com/en-us/HT213043)
+- [Using Git Commit Message Templates to Write Better Commit Messages](https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733)
+- [Async Rust in Practice: Performance, Pitfalls, Profiling](https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-profiling/)
+- [Vector Search with SQL](https://neuml.github.io/txtai/embeddings/)
 - [Show HN: I built a gravity simulator in pure CSS](https://www.multiplanetary.website/rocketscience)
-- [RDS vs. PlanetScale: Pricing Considerations](https://www.vantage.sh/blog/2022-01-12-rds-vs-planetscale-pricing-considerations)
-- [Great AA Alkaline Battery Test](https://goughlui.com/2016/12/19/great-aa-alkaline-battery-test-pt-1-battery-testing-fundamentals/)
-- [Who Contributed to PostgreSQL Development in 2020 and 2021?](http://rhaas.blogspot.com/2022/01/who-contributed-to-postgresql.html)
-- [Young people from Brazil&#39;s favelas set out to conquer digital world](https://www.spiegel.de/international/world/brazil-s-favela-tech-boom-young-people-from-poor-neighborhoods-set-out-to-conquer-digital-world-a-81a80497-0634-49e1-ad31-d1c8d5f83382)
 <!-- BLOG-POST-LIST:END -->
 
 ---
