@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SvelteKit](https://kit.svelte.dev/)
-- [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
+- [DMV ‘revisiting’ its approach to regulating Tesla’s public self-driving test](https://www.latimes.com/business/story/2022-01-11/dmv-message-to-legislatures-ontesla-full-self-driving-safety-its-not-our-job)
+- [Sage jumpstarted today’s technology and built IBM into a powerhouse](https://arstechnica.com/science/2022/01/the-most-important-computer-youve-never-heard-of/)
 - [Scientists believed Covid leaked from Wuhan lab, but feared debate could hurt](https://www.telegraph.co.uk/news/2022/01/11/scientists-believed-covid-leaked-wuhan-lab-feared-debate-could/)
 - [Cannabinoids Block Cellular Entry of SARS-CoV-2 and the Emerging Variants](https://pubmed.ncbi.nlm.nih.gov/35007072/)
 - [The next big Wi-Fi standard is for sensing, not communication](https://staceyoniot.com/the-next-big-wi-fi-standard-is-for-sensing-not-communication/)
