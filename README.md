@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Anyone else having problems with Firefox?](https://news.ycombinator.com/item?id=29918052)
+- [Anyone else having problems with Firefox? &lpar;Fix in comments&rpar;](https://news.ycombinator.com/item?id=29918052)
 - [Toxic Culture Is Driving the Great Resignation](https://sloanreview.mit.edu/article/toxic-culture-is-driving-the-great-resignation/)
 - [QuestDB &lpar;YC S20&rpar; Is Hiring a Developer in Test &lpar;Java&rpar;](https://questdb.io/careers/developer-in-test)
 - [Ask HN: What does everyone here think of the Wordle guy not monetizing it?](https://news.ycombinator.com/item?id=29916899)
