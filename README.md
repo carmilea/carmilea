@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Anyone else having problems with Firefox?](https://news.ycombinator.com/item?id=29918052)
+- [Toxic Culture Is Driving the Great Resignation](https://sloanreview.mit.edu/article/toxic-culture-is-driving-the-great-resignation/)
 - [QuestDB &lpar;YC S20&rpar; Is Hiring a Developer in Test &lpar;Java&rpar;](https://questdb.io/careers/developer-in-test)
 - [Ask HN: What does everyone here think of the Wordle guy not monetizing it?](https://news.ycombinator.com/item?id=29916899)
-- [Ask HN: Have you ever been “poached” internally? Is this even a thing?](https://news.ycombinator.com/item?id=29916823)
 - [Show HN: Bang Bookmarks – replicate DuckDuckGo bangs in Firefox using Keymarks](https://github.com/jameshealyio/bang-bookmarks)
-- [To stop building heat islands, stop overbuilding parking lots](https://www.sightline.org/2022/01/11/to-stop-building-heat-islands-stop-overbuilding-parking-lots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
