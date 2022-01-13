@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PUBG Game maker says Apple, Google selling rip-offs in new lawsuit](https://www.reuters.com/legal/litigation/game-maker-says-apple-google-selling-rip-offs-new-lawsuit-2022-01-11/)
+- [Send text messages for free using Python](https://www.alfredosequeida.com/blog/how-to-send-text-messages-for-free-using-python-use-python-to-send-text-messages-via-email/)
 - [Raising Capital as a Pseudonymous Founder](https://soona.mirror.xyz/Or4pMNQKOgmDIrHkbbP0NF5lxXqOh-RNpCRtqeWupGA)
 - [Josh Hawley introducing his own stock ban bill](https://www.axios.com/josh-hawley-stock-ban-bill-c1f17548-286c-4244-8798-ce465efffc1f.html)
-- [Grocery store shortages are back](https://www.npr.org/2022/01/12/1072462477/grocery-shortage-shelves-reasons)
-- [Lab-Made Coronavirus Triggers Debate &lpar;2015&rpar;](https://web.archive.org/web/20200123174440/https://www.the-scientist.com/news-opinion/lab-made-coronavirus-triggers-debate-34502)
-- [Apple execs: Let&#39;s take a 30% cut of Uber and Lyft&#39;s membership programs &lpar;2018&rpar;](https://twitter.com/TechEmails/status/1481339345822879745)
+- [New info about cellular death process previously thought to be irreversible](https://today.uic.edu/scientists-uncover-new-information-about-cellular-death-process-previously-thought-to-be-irreversible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
