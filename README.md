@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Worrisome Rise of NFTs](https://nautil.us/issue/112/inspiration/the-worrisome-rise-of-nfts)
-- [Apply for a job via SSH – $ ssh jobs.hackclub.com](https://github.com/hackclub/jobs)
-- [Navy Unveils DDG&lpar;X&rpar; Warship Concept with Hypersonic Missiles, Lasers](https://news.usni.org/2022/01/12/navy-unveils-next-generation-ddgx-warship-concept-with-hypersonic-missiles-lasers)
+- [Nominative determinism in hospital medicine, by Limb, Limb, Limb and Limb](https://publishing.rcseng.ac.uk/doi/full/10.1308/147363515X14134529299420#/doi/full/10.1308/147363515X14134529299420)
 - [Overview &lpar;YC W19&rpar; Is Hiring Front End/Full Stack for Manufacturing/DL Platform](https://news.ycombinator.com/item?id=29926778)
-- [The cameras and lenses used on the latest Oscar nominated films](https://www.premiumbeat.com/blog/you-cant-afford-this-expensive-hollywood-camera-gear/)
+- [Provably Space-Efficient Parallel Functional Programming](https://blog.sigplan.org/2022/01/13/provably-space-efficient-parallel-functional-programming/)
+- [Scaling Vision with Sparse Mixture of Experts](https://ai.googleblog.com/2022/01/scaling-vision-with-sparse-mixture-of.html)
+- [Exploring System76&#39;s New Rust Based Desktop Environment](https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
