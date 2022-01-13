@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Diplomats in Geneva, Paris Struck with Suspected ‘Havana Syndrome’](https://www.wsj.com/articles/u-s-diplomats-in-geneva-paris-struck-with-suspected-havana-syndrome-11642075202)
+- [5.5 mm in 1.25 nanoseconds](https://randomascii.wordpress.com/2022/01/12/5-5-mm-in-1-25-nanoseconds/)
+- [How I Broke GitHub Copilot, And Got It To Talk.](https://dagshub.com/blog/github-copilot-not-code/)
 - [Write Shitty Code](https://www.cyclic.sh/posts/write-shitty-code)
 - [Ghost in the ethernet optic](https://blog.benjojo.co.uk/post/smart-sfp-linux-inside)
 - [Smarking &lpar;YC W15&rpar; Is Hiring Head of Eng to empower and grow eng team](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [AngularJS support is ending, and developers can migrate to Angular](https://twitter.com/angular/status/1481037637863579649)
 <!-- BLOG-POST-LIST:END -->
 
 ---
