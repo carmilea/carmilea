@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Write Shitty Code – why you should and feel good about it](https://www.cyclic.sh/posts/write-shitty-code)
-- [Ghost in the Ethernet Optic](https://blog.benjojo.co.uk/post/smart-sfp-linux-inside)
+- [U.S. Diplomats in Geneva, Paris Struck with Suspected ‘Havana Syndrome’](https://www.wsj.com/articles/u-s-diplomats-in-geneva-paris-struck-with-suspected-havana-syndrome-11642075202)
+- [Write Shitty Code](https://www.cyclic.sh/posts/write-shitty-code)
+- [Ghost in the ethernet optic](https://blog.benjojo.co.uk/post/smart-sfp-linux-inside)
 - [Smarking &lpar;YC W15&rpar; Is Hiring Head of Eng to empower and grow eng team](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Adhole.org Is Shutting Down](https://adhole.org/)
-- [How to Set Up a Router&#39;s Port Forwarding for a Nintendo Switch Console](https://en-americas-support.nintendo.com/app/answers/detail/a_id/22272/~/how-to-set-up-a-routers-port-forwarding-for-a-nintendo-switch-console)
+- [AngularJS support is ending, and developers can migrate to Angular](https://twitter.com/angular/status/1481037637863579649)
 <!-- BLOG-POST-LIST:END -->
 
 ---
