@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Austrian DSB: EU-US Data Transfers to Google Analytics Illegal](https://noyb.eu/en/austrian-dsb-eu-us-data-transfers-google-analytics-illegal)
 - [Anyone else having problems with Firefox? &lpar;Fix in comments&rpar;](https://news.ycombinator.com/item?id=29918052)
+- [Understanding as Hierarchical Model Building](https://notes.invertedpassion.com/Knowledge/Understanding+as+hierarchical+model+building)
+- [Database-Less Torrent Website](https://boredcaveman.xyz/post/0x1_dbless-torrent-website.html)
 - [Toxic Culture Is Driving the Great Resignation](https://sloanreview.mit.edu/article/toxic-culture-is-driving-the-great-resignation/)
-- [QuestDB &lpar;YC S20&rpar; Is Hiring a Developer in Test &lpar;Java&rpar;](https://questdb.io/careers/developer-in-test)
-- [Ask HN: What does everyone here think of the Wordle guy not monetizing it?](https://news.ycombinator.com/item?id=29916899)
-- [Show HN: Bang Bookmarks – replicate DuckDuckGo bangs in Firefox using Keymarks](https://github.com/jameshealyio/bang-bookmarks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
