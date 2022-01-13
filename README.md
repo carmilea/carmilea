@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [QuestDB &lpar;YC S20&rpar; Is Hiring a Developer in Test &lpar;Java&rpar;](https://questdb.io/careers/developer-in-test)
 - [Ask HN: What does everyone here think of the Wordle guy not monetizing it?](https://news.ycombinator.com/item?id=29916899)
 - [Ask HN: Have you ever been “poached” internally? Is this even a thing?](https://news.ycombinator.com/item?id=29916823)
 - [Show HN: Bang Bookmarks – replicate DuckDuckGo bangs in Firefox using Keymarks](https://github.com/jameshealyio/bang-bookmarks)
 - [To stop building heat islands, stop overbuilding parking lots](https://www.sightline.org/2022/01/11/to-stop-building-heat-islands-stop-overbuilding-parking-lots/)
-- [The Memories of Z80 Past: Zaxxon and Future Spy](https://nicole.express/2022/future-spy-but-its-now-the-future.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
