@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: What does everyone here think of the Wordle guy not monetizing it?](https://news.ycombinator.com/item?id=29916899)
+- [Ask HN: Have you ever been “poached” internally? Is this even a thing?](https://news.ycombinator.com/item?id=29916823)
 - [Show HN: Bang Bookmarks – replicate DuckDuckGo bangs in Firefox using Keymarks](https://github.com/jameshealyio/bang-bookmarks)
 - [To stop building heat islands, stop overbuilding parking lots](https://www.sightline.org/2022/01/11/to-stop-building-heat-islands-stop-overbuilding-parking-lots/)
 - [The Memories of Z80 Past: Zaxxon and Future Spy](https://nicole.express/2022/future-spy-but-its-now-the-future.html)
-- [5.16 Kernel Development Statistics](https://lwn.net/SubscriberLink/880699/63ad00ea7113bb26/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
