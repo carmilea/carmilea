@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nintendo wants users to forward ports 1~65535 to the Switch console](https://en-americas-support.nintendo.com/app/answers/detail/a_id/22272/~/how-to-set-up-a-routers-port-forwarding-for-a-nintendo-switch-console)
-- [Austrian DSB: EU-US Data Transfers to Google Analytics Illegal](https://noyb.eu/en/austrian-dsb-eu-us-data-transfers-google-analytics-illegal)
-- [Ask HN: Firefox connection problems after enabling DoH?](https://news.ycombinator.com/item?id=29918052)
-- [Understanding as Hierarchical Model Building](https://notes.invertedpassion.com/Knowledge/Understanding+as+hierarchical+model+building)
-- [Database-Less Torrent Website](https://boredcaveman.xyz/post/0x1_dbless-torrent-website.html)
+- [Write Shitty Code – why you should and feel good about it](https://www.cyclic.sh/posts/write-shitty-code)
+- [Ghost in the Ethernet Optic](https://blog.benjojo.co.uk/post/smart-sfp-linux-inside)
+- [Smarking &lpar;YC W15&rpar; Is Hiring Head of Eng to empower and grow eng team](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Adhole.org Is Shutting Down](https://adhole.org/)
+- [How to Set Up a Router&#39;s Port Forwarding for a Nintendo Switch Console](https://en-americas-support.nintendo.com/app/answers/detail/a_id/22272/~/how-to-set-up-a-routers-port-forwarding-for-a-nintendo-switch-console)
 <!-- BLOG-POST-LIST:END -->
 
 ---
