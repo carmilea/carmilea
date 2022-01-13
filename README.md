@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [5.5 mm in 1.25 nanoseconds](https://randomascii.wordpress.com/2022/01/12/5-5-mm-in-1-25-nanoseconds/)
-- [How I Broke GitHub Copilot, And Got It To Talk.](https://dagshub.com/blog/github-copilot-not-code/)
-- [Write Shitty Code](https://www.cyclic.sh/posts/write-shitty-code)
-- [Ghost in the ethernet optic](https://blog.benjojo.co.uk/post/smart-sfp-linux-inside)
-- [Smarking &lpar;YC W15&rpar; Is Hiring Head of Eng to empower and grow eng team](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Ask HN: Is Bay Area in a tipping point for tech talent?](https://news.ycombinator.com/item?id=29921265)
+- [Why is a browser extension required to access research papers?](https://news.ycombinator.com/item?id=29920956)
+- [Firefox – Fix parsing of content-length http3 header](https://phabricator.services.mozilla.com/D135871)
+- [The impact of sexual abuse on female development: a longitudinal study](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3693773/)
+- [Debunking Victorian Vibrators](https://emilynagoski.bulletin.com/debunking-victorian-vibrators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
