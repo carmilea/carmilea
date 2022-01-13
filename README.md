@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is Bay Area in a tipping point for tech talent?](https://news.ycombinator.com/item?id=29921265)
-- [Why is a browser extension required to access research papers?](https://news.ycombinator.com/item?id=29920956)
-- [Firefox – Fix parsing of content-length http3 header](https://phabricator.services.mozilla.com/D135871)
-- [The impact of sexual abuse on female development: a longitudinal study](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3693773/)
-- [Debunking Victorian Vibrators](https://emilynagoski.bulletin.com/debunking-victorian-vibrators/)
+- [Engine Cooling – Why &lpar;Rocket&rpar; Engines Don’t Melt](https://everydayastronaut.com/engine-cooling-methodes/)
+- [Cannabinoids Block Cellular Entry of SARS-CoV-2 and the Emerging Variants](https://pubs.acs.org/doi/10.1021/acs.jnatprod.1c00946)
+- [German company&#39;s use of Google Analytics breached GDPR](https://www.theregister.com/2022/01/13/google_analytics_gdpr/)
+- [Ask HN: Mistakes working with small local clients?](https://news.ycombinator.com/item?id=29921554)
+- [Why Google Treats SQL Like Code and You Should Too](https://blog.devgenius.io/why-google-treats-sql-like-code-and-you-should-too-53f97925037e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
