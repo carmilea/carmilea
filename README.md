@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Provably Space-Efficient Parallel Functional Programming](https://blog.sigplan.org/2022/01/13/provably-space-efficient-parallel-functional-programming/)
+- [Scaling Vision with Sparse Mixture of Experts](https://ai.googleblog.com/2022/01/scaling-vision-with-sparse-mixture-of.html)
 - [Exploring System76&#39;s New Rust Based Desktop Environment](https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/)
 - [Show HN: Create animations by dragging an element with your mouse](https://animatize.com/)
 - [Big Time Public License](https://writing.kemitchell.com/2021/06/15/Big-Time-1.0.0.html)
-- [Music industry is suing youtube-dl hoster Uberspace](https://news.i-n24.com/lifestyle/news/253970.html)
-- [Game Studios Are Turning Play into Work](https://www.wired.com/story/game-studios-turning-play-into-work-crypto-nfts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
