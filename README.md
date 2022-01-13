@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Engine Cooling – Why &lpar;Rocket&rpar; Engines Don’t Melt](https://everydayastronaut.com/engine-cooling-methodes/)
-- [Cannabinoids Block Cellular Entry of SARS-CoV-2 and the Emerging Variants](https://pubs.acs.org/doi/10.1021/acs.jnatprod.1c00946)
-- [German company&#39;s use of Google Analytics breached GDPR](https://www.theregister.com/2022/01/13/google_analytics_gdpr/)
-- [Ask HN: Mistakes working with small local clients?](https://news.ycombinator.com/item?id=29921554)
-- [Why Google Treats SQL Like Code and You Should Too](https://blog.devgenius.io/why-google-treats-sql-like-code-and-you-should-too-53f97925037e)
+- [SimulaVR – Why is the Simula One so expensive?](https://simulavr.com/blog/why-is-the-simula-one-so-expensive/)
+- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Dev Ops Engineer](https://www.themuse.com/jobs/themuse/senior-dev-ops-engineer)
+- [Dark Energy Spectroscopic Instrument &lpar;DESI&rpar; Creates Largest 3D Map of the Cosmos](https://newscenter.lbl.gov/2022/01/13/dark-energy-spectroscopic-instrument-desi-creates-largest-3d-map-of-the-cosmos/)
+- [BreakingFormation: AWS CloudFormation Vulnerability](https://orca.security/resources/blog/aws-cloudformation-vulnerability/)
+- [Minitel: The Online World France Built Before the Web](https://spectrum.ieee.org/minitel-the-online-world-france-built-before-the-web)
 <!-- BLOG-POST-LIST:END -->
 
 ---
