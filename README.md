@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Worrisome Rise of NFTs](https://nautil.us/issue/112/inspiration/the-worrisome-rise-of-nfts)
 - [Apply for a job via SSH – $ ssh jobs.hackclub.com](https://github.com/hackclub/jobs)
+- [Navy Unveils DDG&lpar;X&rpar; Warship Concept with Hypersonic Missiles, Lasers](https://news.usni.org/2022/01/12/navy-unveils-next-generation-ddgx-warship-concept-with-hypersonic-missiles-lasers)
 - [Overview &lpar;YC W19&rpar; Is Hiring Front End/Full Stack for Manufacturing/DL Platform](https://news.ycombinator.com/item?id=29926778)
-- [You Can’t Afford This Expensive Hollywood Camera Gear](https://www.premiumbeat.com/blog/you-cant-afford-this-expensive-hollywood-camera-gear/)
-- [Provably Space-Efficient Parallel Functional Programming](https://blog.sigplan.org/2022/01/13/provably-space-efficient-parallel-functional-programming/)
-- [Scaling Vision with Sparse Mixture of Experts](https://ai.googleblog.com/2022/01/scaling-vision-with-sparse-mixture-of.html)
+- [The cameras and lenses used on the latest Oscar nominated films](https://www.premiumbeat.com/blog/you-cant-afford-this-expensive-hollywood-camera-gear/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
