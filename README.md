@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple execs: Let&#39;s take a 30% cut of Uber and Lyft&#39;s membership programs](https://twitter.com/TechEmails/status/1481339345822879745)
-- [Professor Ehud Qimron: “Ministry of Health, it’s time to admit failure”](https://swprs.org/professor-ehud-qimron-ministry-of-health-its-time-to-admit-failure/)
-- [World ocean temperatures in 2021 were the hottest ever recorded](https://www.axios.com/global-ocean-temperatures-record-high-935b1b7e-2adf-4759-b8a6-d4747a94c809.html)
-- [Heartfuck](https://github.com/burgravian/heartfuck)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Raising Capital as a Pseudonymous Founder](https://soona.mirror.xyz/Or4pMNQKOgmDIrHkbbP0NF5lxXqOh-RNpCRtqeWupGA)
+- [Josh Hawley introducing his own stock ban bill](https://www.axios.com/josh-hawley-stock-ban-bill-c1f17548-286c-4244-8798-ce465efffc1f.html)
+- [Grocery store shortages are back](https://www.npr.org/2022/01/12/1072462477/grocery-shortage-shelves-reasons)
+- [Lab-Made Coronavirus Triggers Debate &lpar;2015&rpar;](https://web.archive.org/web/20200123174440/https://www.the-scientist.com/news-opinion/lab-made-coronavirus-triggers-debate-34502)
+- [Apple execs: Let&#39;s take a 30% cut of Uber and Lyft&#39;s membership programs &lpar;2018&rpar;](https://twitter.com/TechEmails/status/1481339345822879745)
 <!-- BLOG-POST-LIST:END -->
 
 ---
