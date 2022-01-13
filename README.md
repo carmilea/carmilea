@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SimulaVR – Why is the Simula One so expensive?](https://simulavr.com/blog/why-is-the-simula-one-so-expensive/)
-- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Dev Ops Engineer](https://www.themuse.com/jobs/themuse/senior-dev-ops-engineer)
-- [Dark Energy Spectroscopic Instrument &lpar;DESI&rpar; Creates Largest 3D Map of the Cosmos](https://newscenter.lbl.gov/2022/01/13/dark-energy-spectroscopic-instrument-desi-creates-largest-3d-map-of-the-cosmos/)
-- [BreakingFormation: AWS CloudFormation Vulnerability](https://orca.security/resources/blog/aws-cloudformation-vulnerability/)
-- [Minitel: The Online World France Built Before the Web](https://spectrum.ieee.org/minitel-the-online-world-france-built-before-the-web)
+- [Game Studios Are Turning Play into Work](https://www.wired.com/story/game-studios-turning-play-into-work-crypto-nfts/)
+- [Russia says Ukraine talks hit &#39;dead end&#39;, Poland warns of risk of war](https://www.reuters.com/world/europe/russia-says-us-nato-talks-so-far-unsuccessful-2022-01-13/)
+- [Green Lumber Fallacy in Software Engineering](https://www.chrisbehan.ca/posts/green-lumber-fallacy-in-software)
+- [SSH Bastion Host Best Practices](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/)
+- [Show HN: Login with HN &lpar;Unofficially&rpar;](https://loginwithhn.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
