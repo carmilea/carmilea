@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Stop Accepting Shitty Interviews](https://news.ycombinator.com/item?id=29930670)
+- [Keep hearing of train burglaries in LA on the scanner so went to LincolnHeights](https://twitter.com/johnschreiber/status/1481770722271760384)
 - [Show HN: Record Your Accomplishments](https://accomplishments.app/)
 - [Project Cybersyn and the Origins of the Big Data Nation](https://www.newyorker.com/magazine/2014/10/13/planning-machine)
-- [Counterfeit KN95 respirators](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html)
 - [Mathematicians clear hurdle in quest to decode primes](https://www.quantamagazine.org/mathematicians-clear-hurdle-in-quest-to-decode-prime-numbers-20220113/)
+- [Interlock/Apozy &lpar;YC W17&rpar; Is Hiring](https://interlock.breezy.hr/p/9ebe62d7d2cb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
