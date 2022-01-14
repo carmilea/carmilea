@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Instant Domain Search](https://instantdomainsearch.com)
 - [Zendesk pretends to be open source?](https://www.zendesk.co.uk/help-desk-software/open-source-ticket-system/#tools)
 - [Does Not Translate](https://doesnottranslate.com/)
-- [COVIDtests.gov – Free at-home Covid-19 tests](https://www.covidtests.gov/)
-- [Bintris – Golang Mobile Game](https://github.com/Lallassu/bintris)
+- [New theory proposes ‘forgetting’ is a form of learning](https://www.tcd.ie/news_events/articles/why-do-we-forget-new-theory-proposes-forgetting-is-actually-a-form-of-learning/)
 - [dwm](https://dwm.suckless.org)
 <!-- BLOG-POST-LIST:END -->
 
