@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Skio is hiring founding engineers in NYC &lpar;above market equity&rpar;](https://skio.com/careers)
-- [Show HN: Live-Editable SVG Shaders/Filters for Drawing](https://sketchy.cs.brown.edu/textures/#/textures/)
-- [Grep one-liners as CI tasks](https://phili.pe/posts/using-grep-for-simple-ci-tasks/)
-- [Age of the oldest known Homo sapiens from eastern Africa](https://www.nature.com/articles/s41586-021-04275-8)
-- [Jailer: A tool for database subsetting, schema and data browsing](https://wisser.github.io/Jailer/)
+- [Zendesk pretends to be open source?](https://www.zendesk.co.uk/help-desk-software/open-source-ticket-system/#tools)
+- [Does Not Translate](https://doesnottranslate.com/)
+- [COVIDtests.gov – Free at-home Covid-19 tests](https://www.covidtests.gov/)
+- [Bintris – Golang Mobile Game](https://github.com/Lallassu/bintris)
+- [dwm](https://dwm.suckless.org)
 <!-- BLOG-POST-LIST:END -->
 
 ---
