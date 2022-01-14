@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The enigmatic Portuguese R &lpar;long version&rpar;](http://hackingportuguese.com/pronunciation/portuguese-r-the-long-version/)
+- [YouTube suspended my channel for a video with disclosed issue in Grammarly](https://twitter.com/evilksandr/status/1479507618066571268)
+- [PayPal faces lawsuit for freezing customer accounts and funds](https://www.engadget.com/paypal-lawsuit-freezing-customer-accounts-funds-073128563.html)
 - [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – London](https://etleap.com/jobs/#software-engineer)
-- [Humble subscription service is dumping Mac, Linux access in 18 days](https://arstechnica.com/gaming/2022/01/humble-subscription-service-is-dumping-mac-linux-access-in-18-days/)
-- [Meta sued for £2.3bn over claim Facebook users in UK were exploited](https://www.theguardian.com/technology/2022/jan/14/meta-sued-for-23bn-over-claim-facebook-users-in-uk-were-exploited)
-- [Why can’t I play Ultra HD Blu-ray movies on my new Intel CPU platform?](https://www.cyberlink.com:443/support/faq-content.do?id=26690)
-- [India&#39;s richest man pouring $80B into green energy, including new ventures](https://www.cnn.com/2022/01/14/business/india-reliance-gujarat-green-energy-investment-intl-hnk/index.html)
+- [Shodan 2000](https://2000.shodan.io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
