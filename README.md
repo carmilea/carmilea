@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 - [Jan 6 committee subpoenas Meta, Google, Reddit etc. after &#39;inadequate responses&#39;](https://www.nbcnews.com/politics/congress/jan-6-committee-subpoenas-tech-giants-after-inadequate-response-n1287442)
 - [Browse the web like reading email? What is the name of that app?](https://news.ycombinator.com/item?id=29934745)
 - [FSB arrests REvil ransomware gang members](https://therecord.media/fsb-raids-revil-ransomware-gang-members/)
 - [Chatbots: Still Dumb After All These Years](https://statmodeling.stat.columbia.edu/2022/01/13/chatbots-still-dumb-after-all-these-years/)
-- [Ask HN: Should I publish my research code?](https://news.ycombinator.com/item?id=29934192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
