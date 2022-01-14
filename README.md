@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Interlock/Apozy &lpar;YC W17&rpar; Is Hiring](https://interlock.breezy.hr/p/9ebe62d7d2cb)
+- [Congress Needs to Stop Day Trading, Says Sen. Mark Warner](https://bigtechnology.substack.com/p/congress-needs-to-stop-day-trading)
+- [Slackware Linux 15.0 RC3](http://www.slackware.com/changelog/current.php?cpu=i386)
+- [Best Wordle Guessing Strategy](https://slc.is/#Best%20Wordle%20Strategy%20%E2%80%94%20Explore%20or%20Exploit)
 - [Nominative determinism in hospital medicine, by Limb, Limb, Limb and Limb](https://publishing.rcseng.ac.uk/doi/full/10.1308/147363515X14134529299420#/doi/full/10.1308/147363515X14134529299420)
-- [Overview &lpar;YC W19&rpar; Is Hiring Front End/Full Stack for Manufacturing/DL Platform](https://news.ycombinator.com/item?id=29926778)
-- [Provably Space-Efficient Parallel Functional Programming](https://blog.sigplan.org/2022/01/13/provably-space-efficient-parallel-functional-programming/)
-- [Scaling Vision with Sparse Mixture of Experts](https://ai.googleblog.com/2022/01/scaling-vision-with-sparse-mixture-of.html)
-- [Exploring System76&#39;s New Rust Based Desktop Environment](https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
