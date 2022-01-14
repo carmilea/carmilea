@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [60% of KN95 respirators in the United States are counterfeit](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html)
+- [Show HN: Record Your Accomplishments](https://accomplishments.app/)
+- [Project Cybersyn and the Origins of the Big Data Nation](https://www.newyorker.com/magazine/2014/10/13/planning-machine)
+- [Counterfeit KN95 respirators](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html)
 - [Mathematicians clear hurdle in quest to decode primes](https://www.quantamagazine.org/mathematicians-clear-hurdle-in-quest-to-decode-prime-numbers-20220113/)
 - [Interlock/Apozy &lpar;YC W17&rpar; Is Hiring](https://interlock.breezy.hr/p/9ebe62d7d2cb)
-- [Slackware Linux 15.0 RC3](http://www.slackware.com/changelog/current.php?cpu=i386)
-- [Best Wordle guessing strategy](https://slc.is/#Best%20Wordle%20Strategy%20%E2%80%94%20Explore%20or%20Exploit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
