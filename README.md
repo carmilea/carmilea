@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Reddit shows “Blocked” when accessed with Firefox](https://news.ycombinator.com/item?id=29938544)
+- [FedEx: equip aircraft with countermeasure against heat-seeking missiles [pdf]](https://public-inspection.federalregister.gov/2022-00505.pdf)
+- [Nuclear startup Oklo gets thumbs-down from regulators](https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-gets-thumbs-down-from-regulators-what-does-this-mean-for-next-gen-nuclear)
+- [The Facebook Text Prompt Zombie Land](https://www.garbageday.email/p/viral-content-optimized-to-piss-off)
 - [Space anemia](https://arstechnica.com/science/2022/01/we-dont-know-why-but-being-in-space-causes-us-to-destroy-our-blood/)
-- [Multiple Sclerosis Causality](https://www.science.org/content/blog-post/multiple-sclerosis-causality)
-- [Poll: Why are people leaving their jobs?](https://news.ycombinator.com/item?id=29937305)
-- [Clerky is hiring senior full-stack software engineers &lpar;Ruby on Rails&rpar;](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [1 week at Recurse Center: Rewriting my toy blockchain in Rust](https://ezzeriesa.notion.site/Rewriting-my-toy-blockchain-in-Rust-9a130f225666488491ba497004821fbb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
