@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Poll: Why are you staying at your job?](https://news.ycombinator.com/item?id=29939432)
-- [History of Pepper](https://www.ipcnet.org/history-of-pepper/)
-- [Dark Energy Spectroscopic Instrument Creates Largest 3D Map of the Cosmos](https://newscenter.lbl.gov/2022/01/13/dark-energy-spectroscopic-instrument-desi-creates-largest-3d-map-of-the-cosmos/)
-- [FedEx: equip aircraft with countermeasure against heat-seeking missiles [pdf]](https://public-inspection.federalregister.gov/2022-00505.pdf)
-- [Nuclear startup Oklo gets thumbs-down from regulators](https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-gets-thumbs-down-from-regulators-what-does-this-mean-for-next-gen-nuclear)
+- [Skio is hiring founding engineers in NYC &lpar;above market equity&rpar;](https://skio.com/careers)
+- [Show HN: Live-Editable SVG Shaders/Filters for Drawing](https://sketchy.cs.brown.edu/textures/#/textures/)
+- [Grep one-liners as CI tasks](https://phili.pe/posts/using-grep-for-simple-ci-tasks/)
+- [Age of the oldest known Homo sapiens from eastern Africa](https://www.nature.com/articles/s41586-021-04275-8)
+- [Jailer: A tool for database subsetting, schema and data browsing](https://wisser.github.io/Jailer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
