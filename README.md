@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Clerky is hiring senior full-stack software engineers &lpar;Ruby on Rails&rpar;](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [1 week at Recurse Center: Rewriting my toy blockchain in Rust](https://ezzeriesa.notion.site/Rewriting-my-toy-blockchain-in-Rust-9a130f225666488491ba497004821fbb)
+- [Are you sure you want to use MMAP in your database management system? [pdf]](https://db.cs.cmu.edu/papers/2022/p13-crotty.pdf)
 - [Cloud Native Interactive Landscape](https://landscape.cncf.io/)
-- [Jan 6 committee subpoenas Meta, Google, Reddit etc. after &#39;inadequate responses&#39;](https://www.nbcnews.com/politics/congress/jan-6-committee-subpoenas-tech-giants-after-inadequate-response-n1287442)
-- [Browse the web like reading email? What is the name of that app?](https://news.ycombinator.com/item?id=29934745)
-- [FSB arrests REvil ransomware gang members](https://therecord.media/fsb-raids-revil-ransomware-gang-members/)
-- [Chatbots: Still Dumb After All These Years](https://statmodeling.stat.columbia.edu/2022/01/13/chatbots-still-dumb-after-all-these-years/)
+- [Woob: interact with the web outside of browsers](https://woob.tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
