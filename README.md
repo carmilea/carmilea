@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Reddit shows “Blocked” when accessed with Firefox](https://news.ycombinator.com/item?id=29938544)
+- [Poll: Why are you staying at your job?](https://news.ycombinator.com/item?id=29939432)
+- [History of Pepper](https://www.ipcnet.org/history-of-pepper/)
+- [Dark Energy Spectroscopic Instrument Creates Largest 3D Map of the Cosmos](https://newscenter.lbl.gov/2022/01/13/dark-energy-spectroscopic-instrument-desi-creates-largest-3d-map-of-the-cosmos/)
 - [FedEx: equip aircraft with countermeasure against heat-seeking missiles [pdf]](https://public-inspection.federalregister.gov/2022-00505.pdf)
 - [Nuclear startup Oklo gets thumbs-down from regulators](https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-gets-thumbs-down-from-regulators-what-does-this-mean-for-next-gen-nuclear)
-- [The Facebook Text Prompt Zombie Land](https://www.garbageday.email/p/viral-content-optimized-to-piss-off)
-- [Space anemia](https://arstechnica.com/science/2022/01/we-dont-know-why-but-being-in-space-causes-us-to-destroy-our-blood/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
