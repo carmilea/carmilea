@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The enigmatic Portuguese R &lpar;long version&rpar;](http://hackingportuguese.com/pronunciation/portuguese-r-the-long-version/)
-- [YouTube suspended my channel for a video with disclosed issue in Grammarly](https://twitter.com/evilksandr/status/1479507618066571268)
-- [PayPal faces lawsuit for freezing customer accounts and funds](https://www.engadget.com/paypal-lawsuit-freezing-customer-accounts-funds-073128563.html)
-- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – London](https://etleap.com/jobs/#software-engineer)
-- [Shodan 2000](https://2000.shodan.io/)
+- [Chatbots: Still Dumb After All These Years](https://statmodeling.stat.columbia.edu/2022/01/13/chatbots-still-dumb-after-all-these-years/)
+- [Ask HN: Should I publish my research code?](https://news.ycombinator.com/item?id=29934192)
+- [We used C++20 to eliminate an entire class of runtime bugs](https://devblogs.microsoft.com/cppblog/how-we-used-cpp20-to-eliminate-an-entire-class-of-runtime-bugs/)
+- [Deta Cloud – Developer-friendly cloud platform](https://www.deta.sh/)
+- [The enigmatic Portuguese R &lpar;2013&rpar;](http://hackingportuguese.com/pronunciation/portuguese-r-the-long-version/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
