@@ -54,7 +54,7 @@
 - [Why can’t I play Ultra HD Blu-ray movies on my new Intel CPU platform?](https://www.cyberlink.com:443/support/faq-content.do?id=26690)
 - [India&#39;s richest man pouring $80B into green energy, including new ventures](https://www.cnn.com/2022/01/14/business/india-reliance-gujarat-green-energy-investment-intl-hnk/index.html)
 - [Former Uber Chief Security Officer to Face Wire Fraud Charges](https://www.justice.gov/usao-ndca/pr/former-uber-chief-security-officer-face-wire-fraud-charges-0)
-- [Show HN: My first blog post on Rust 1.58.0 format strings](https://www.rustnote.com/blog/format_strings.html)
+- [Format Strings in Rust 1.58](https://www.rustnote.com/blog/format_strings.html)
 - [Cyberattack hits Ukrainian government websites amid Russia tensions](https://www.reuters.com/technology/massive-cyberattack-hits-ukrainian-government-websites-amid-russia-tensions-2022-01-14/)
 <!-- BLOG-POST-LIST:END -->
 
