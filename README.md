@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Novak Djokovic&#39;s Visa Cancelled by Australian Minister for Immigration](https://twitter.com/BenRothenberg/status/1481882690140131328)
+- [Show HN: My first blog post on Rust 1.58.0 format strings](https://www.rustnote.com/blog/format_strings.html)
 - [Kanda &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/kanda/jobs/VEoVEkN-vp-of-engineering-at-kanda)
 - [Keep hearing of train burglaries in LA on the scanner so went to LincolnHeights](https://twitter.com/johnschreiber/status/1481770722271760384)
+- [Show HN: Record Your Accomplishments](https://accomplishments.app/)
 - [Project Cybersyn and the Origins of the Big Data Nation &lpar;2014&rpar;](https://www.newyorker.com/magazine/2014/10/13/planning-machine)
-- [Mathematicians clear hurdle in quest to decode primes](https://www.quantamagazine.org/mathematicians-clear-hurdle-in-quest-to-decode-prime-numbers-20220113/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
