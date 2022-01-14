@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [60% of KN95 respirators in the United States are counterfeit](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html)
+- [Mathematicians clear hurdle in quest to decode primes](https://www.quantamagazine.org/mathematicians-clear-hurdle-in-quest-to-decode-prime-numbers-20220113/)
 - [Interlock/Apozy &lpar;YC W17&rpar; Is Hiring](https://interlock.breezy.hr/p/9ebe62d7d2cb)
-- [Congress Needs to Stop Day Trading, Says Sen. Mark Warner](https://bigtechnology.substack.com/p/congress-needs-to-stop-day-trading)
 - [Slackware Linux 15.0 RC3](http://www.slackware.com/changelog/current.php?cpu=i386)
-- [Nominative determinism in hospital medicine, by Limb, Limb, Limb and Limb](https://publishing.rcseng.ac.uk/doi/full/10.1308/147363515X14134529299420#/doi/full/10.1308/147363515X14134529299420)
-- [Provably space-efficient parallel functional programming](https://blog.sigplan.org/2022/01/13/provably-space-efficient-parallel-functional-programming/)
+- [Best Wordle guessing strategy](https://slc.is/#Best%20Wordle%20Strategy%20%E2%80%94%20Explore%20or%20Exploit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
