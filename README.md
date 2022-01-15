@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Home made me miserable](https://stitcher.io/blog/twitter-home-made-me-miserable)
 - [Large Eruption Near Tonga, Heard in NZ. Tsunami at Tonga and Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/pt22015050/executive)
 - [It’s not still the early days of blockchain](https://blog.mollywhite.net/its-not-still-the-early-days/)
 - [United States Pirate Party](https://uspirates.org/faq/)
 - [Cog Resurgence](https://nedbatchelder.com/blog/202201/cog_resurgence.html)
-- [Python Communist Revolution](https://github.com/jokteur/python_communism)
 <!-- BLOG-POST-LIST:END -->
 
 ---
