@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google and Facebook execs allegedly approved dividing ad market among themselves](https://www.theregister.com/2022/01/15/googles_facebook_advertising/)
-- [Rich is a Python library for rich text and beautiful formatting in the terminal](https://github.com/Textualize/rich)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 founding engineer in London &lpar;£100k-£150k&rpar;](https://news.ycombinator.com/item?id=29945729)
-- [One of the rarest eagles in the world has birdwatchers flocking to Maine](https://www.npr.org/2022/01/14/1072706921/one-of-the-rarest-eagles-in-the-world-has-birdwatchers-flocking-to-maine)
-- [Smart sutures to monitor deep surgical wounds](https://news.nus.edu.sg/smart-sutures-to-monitor-deep-surgical-wounds/)
+- [Backdoor for Windows, macOS, and Linux went undetected until now](https://arstechnica.com/information-technology/2022/01/backdoor-for-windows-macos-and-linux-went-undetected-until-now/)
+- [Self-Replicating Radiation-Shield for Deep-Space Exploration: Radiotrophic Fungi](https://www.biorxiv.org/content/10.1101/2020.07.16.205534v6)
+- [Free book to master SSH tunneling concepts](https://github.com/opsdisk/the_cyber_plumbers_handbook)
+- [LAN-port-scan forbidder, browser addon to protect private network](https://github.com/garywill/LAN-port-scan-forbidder)
+- [How to Be Useless](https://psyche.co/guides/how-to-wander-free-and-easy-through-life-by-being-useless)
 <!-- BLOG-POST-LIST:END -->
 
 ---
