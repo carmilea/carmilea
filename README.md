@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SmallTalkUnix](http://thoughtstorms.info/view/SmallTalkUnix)
 - [Google, Amazon, Meta and Microsoft Weave a Fiber-Optic Web of Power](https://www.wsj.com/articles/google-amazon-meta-and-microsoft-weave-a-fiber-optic-web-of-power-11642222824)
-- [Ask HN: What if a new generation of developers is right about Web3?](https://news.ycombinator.com/item?id=29947785)
+- [Do tips make for better service?](https://www.economist.com/international/2022/01/15/do-tips-make-for-better-service)
 - [Exploiting IndexedDB API information leaks in Safari 15](https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/)
 - [Fexprs in Lisp: On Pitman&#39;s “Special Forms in Lisp”](https://www.kazimirmajorinc.com/Documents/On-Pitmans-Special-forms-in-Lisp/index.html)
-- [Setup a Practically Free CDN](https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889)
 <!-- BLOG-POST-LIST:END -->
 
 ---
