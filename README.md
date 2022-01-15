@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Backdoor for Windows, macOS, and Linux went undetected until now](https://arstechnica.com/information-technology/2022/01/backdoor-for-windows-macos-and-linux-went-undetected-until-now/)
-- [Self-Replicating Radiation-Shield for Deep-Space Exploration: Radiotrophic Fungi](https://www.biorxiv.org/content/10.1101/2020.07.16.205534v6)
-- [Free book to master SSH tunneling concepts](https://github.com/opsdisk/the_cyber_plumbers_handbook)
-- [LAN-port-scan forbidder, browser addon to protect private network](https://github.com/garywill/LAN-port-scan-forbidder)
-- [How to Be Useless](https://psyche.co/guides/how-to-wander-free-and-easy-through-life-by-being-useless)
+- [IndexedDB in Safari 15 leaks your browsing activity in real time](https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/)
+- [HelloFresh Open Salary Initiative 2022](https://hfsalary.org/)
+- [DSLRs Are Dead, and Lenses Are Never Going to Be the Same &lpar;Again&rpar;](https://nofilmschool.com/canon-kills-dslr)
+- [Show HN: SPADE, A simple programming language with a TUI IDE](https://hackage.haskell.org/package/spade)
+- [Francis Fukuyama – Against Identity Politics](https://amc.sas.upenn.edu/francis-fukuyama-against-identity-politics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
