@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cog Resurgence](https://nedbatchelder.com/blog/202201/cog_resurgence.html)
+- [Python Communist Revolution](https://github.com/jokteur/python_communism)
+- [Health Canada authorizes psychedelic drugs for therapies](https://www.gazette.gc.ca/rp-pr/p2/2022/2022-01-05/html/sor-dors271-eng.html)
 - [5G is for sensing, not communication [pdf]](https://acris.aalto.fi/ws/portalfiles/portal/20768974/sigg_et_al_VT_conf.pdf)
 - [Will you write HTML with us tomorrow?](http://html.energy/)
-- [Interactive piano reference to major and minor scales](https://muted.io/major-minor-scales/)
-- [Hallucinogens, alcohol and leadership strategies in the ancient Peruvian Andes](https://www.cambridge.org/core/journals/antiquity/article/hallucinogens-alcohol-and-shifting-leadership-strategies-in-the-ancient-peruvian-andes/15030A62A428B74805BADF7DB4137298)
-- [Zendesk pretends to be open source?](https://www.zendesk.co.uk/help-desk-software/open-source-ticket-system/#tools)
 <!-- BLOG-POST-LIST:END -->
 
 ---
