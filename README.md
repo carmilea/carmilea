@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s not still the early days of blockchain](https://blog.mollywhite.net/its-not-still-the-early-days/)
 - [Safety in numbers: crowdsourcing data on nefarious IP addresses](https://stackoverflow.blog/2022/01/14/crowdsec-security-ips-ip-blocking/)
-- [United States Pirate Party – No Safe Harbor for the Enemies of Liberty](https://uspirates.org/faq/)
-- [Outdoor cats are using $500 Starlink satellite dishes as self-heating beds](https://www.smithsonianmag.com/smart-news/outdoor-cats-are-using-500-starlink-satellite-dishes-as-self-heating-beds-180979401/)
+- [United States Pirate Party](https://uspirates.org/faq/)
 - [Cog Resurgence](https://nedbatchelder.com/blog/202201/cog_resurgence.html)
 - [Python Communist Revolution](https://github.com/jokteur/python_communism)
 <!-- BLOG-POST-LIST:END -->
