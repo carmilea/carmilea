@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Facebook top execs allegedly approved dividing ad market among themselves](https://www.theregister.com/2022/01/15/googles_facebook_advertising/)
+- [Google and Facebook execs allegedly approved dividing ad market among themselves](https://www.theregister.com/2022/01/15/googles_facebook_advertising/)
 - [Rich is a Python library for rich text and beautiful formatting in the terminal](https://github.com/Textualize/rich)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #2 founding engineer in London &lpar;£100k-£150k&rpar;](https://news.ycombinator.com/item?id=29945729)
 - [One of the rarest eagles in the world has birdwatchers flocking to Maine](https://www.npr.org/2022/01/14/1072706921/one-of-the-rarest-eagles-in-the-world-has-birdwatchers-flocking-to-maine)
