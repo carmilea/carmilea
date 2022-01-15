@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Maps No Longer Top App for Navigation and Offline Maps](https://www.autoevolution.com/news/google-maps-is-no-longer-the-top-app-for-navigation-and-offline-maps-179196.html)
-- [Ontario woman 30yo Stage 4 colon cancer surgery postponed indefinitely](https://toronto.ctvnews.ca/ontario-woman-with-stage-4-colon-cancer-has-life-saving-surgery-postponed-indefinitely-1.5739117)
-- [UX low-code, performant, and open source](https://thescottkrause.com/emerging_tech/neodigm55_ux_library/)
-- [Hiccupfx.js – Client side render feel](https://hiccupfx.telnet.asia/)
-- [The λ-Cube](https://en.wikiversity.org/wiki/Foundations_of_Functional_Programming/The_%CE%BB-cube)
+- [Switching from macOS to Pop _OS](https://support.system76.com/articles/switch-from-macos-to-popos/)
+- [Google helps Scientology billionaire Bob Duggan hide a dark family secret &lpar;2015&rpar;](https://tonyortega.org/2015/06/13/google-helps-scientology-billionaire-bob-duggan-hide-a-dark-family-secret/)
+- [Portable replacement for a $60k Vo2max machine](https://www.instructables.com/Accurate-VO2-Max-for-Zwift-and-Strava/)
+- [Saffron, the most expensive spice &lpar;2018&rpar;](https://gastropod.com/meet-saffron-the-worlds-most-expensive-spice/)
+- [Tesla Model 3 Owner Discovers Car Was Delivered Missing a Brake Pad](https://www.thedrive.com/news/43876/tesla-model-3-owner-discovers-car-was-delivered-missing-a-brake-pad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
