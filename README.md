@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In Turkmenistan a 230 feet wide gas crater has been burning since 1971](https://www.atlasobscura.com/places/the-gates-of-hell-turkmenistan)
 - [The Zen of Drinking Alone](https://drunkard.com/the-zen-of-drinking-alone/)
 - [Open Railway Map](https://www.openrailwaymap.org/)
-- [Switching from macOS to Pop _OS](https://support.system76.com/articles/switch-from-macos-to-popos/)
+- [Switching from macOS to Pop_OS](https://support.system76.com/articles/switch-from-macos-to-popos/)
 - [Google helps Scientology billionaire Bob Duggan hide a dark family secret &lpar;2015&rpar;](https://tonyortega.org/2015/06/13/google-helps-scientology-billionaire-bob-duggan-hide-a-dark-family-secret/)
-- [Street Fighter II, Sound System Internals](https://fabiensanglard.net/sf2_sound_system/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
