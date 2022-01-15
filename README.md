@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [War is expensive. It is impossible to hide the preparation for it](https://bbabo.net/en-GB/article/news/war-is-expensive-it-is-impossible-to-hide-the-preparation-for-it)
+- [Google Maps No Longer Top App for Navigation and Offline Maps](https://www.autoevolution.com/news/google-maps-is-no-longer-the-top-app-for-navigation-and-offline-maps-179196.html)
+- [Ontario woman 30yo Stage 4 colon cancer surgery postponed indefinitely](https://toronto.ctvnews.ca/ontario-woman-with-stage-4-colon-cancer-has-life-saving-surgery-postponed-indefinitely-1.5739117)
 - [UX low-code, performant, and open source](https://thescottkrause.com/emerging_tech/neodigm55_ux_library/)
+- [Hiccupfx.js – Client side render feel](https://hiccupfx.telnet.asia/)
 - [The λ-Cube](https://en.wikiversity.org/wiki/Foundations_of_Functional_Programming/The_%CE%BB-cube)
-- [Who Uses To-Do Lists?](https://arunkprasad.com/log/who-uses-todo-lists/)
-- [Open Infrastructure Map](https://openinframap.org/#2/26/12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
