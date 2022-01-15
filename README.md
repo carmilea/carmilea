@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Outdoor Cats Are Using $500 Starlink Satellite Dishes as Self-Heating Beds](https://www.smithsonianmag.com/smart-news/outdoor-cats-are-using-500-starlink-satellite-dishes-as-self-heating-beds-180979401/)
+- [Safety in numbers: crowdsourcing data on nefarious IP addresses](https://stackoverflow.blog/2022/01/14/crowdsec-security-ips-ip-blocking/)
+- [United States Pirate Party – No Safe Harbor for the Enemies of Liberty](https://uspirates.org/faq/)
+- [Outdoor cats are using $500 Starlink satellite dishes as self-heating beds](https://www.smithsonianmag.com/smart-news/outdoor-cats-are-using-500-starlink-satellite-dishes-as-self-heating-beds-180979401/)
 - [Cog Resurgence](https://nedbatchelder.com/blog/202201/cog_resurgence.html)
 - [Python Communist Revolution](https://github.com/jokteur/python_communism)
-- [Health Canada authorizes psychedelic drugs for therapies](https://www.gazette.gc.ca/rp-pr/p2/2022/2022-01-05/html/sor-dors271-eng.html)
-- [5G is for sensing, not communication [pdf]](https://acris.aalto.fi/ws/portalfiles/portal/20768974/sigg_et_al_VT_conf.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
