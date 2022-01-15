@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SmallTalkUnix](http://thoughtstorms.info/view/SmallTalkUnix)
-- [Google, Amazon, Meta and Microsoft Weave a Fiber-Optic Web of Power](https://www.wsj.com/articles/google-amazon-meta-and-microsoft-weave-a-fiber-optic-web-of-power-11642222824)
-- [Do tips make for better service?](https://www.economist.com/international/2022/01/15/do-tips-make-for-better-service)
-- [Exploiting IndexedDB API information leaks in Safari 15](https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/)
-- [Fexprs in Lisp: On Pitman&#39;s “Special Forms in Lisp”](https://www.kazimirmajorinc.com/Documents/On-Pitmans-Special-forms-in-Lisp/index.html)
+- [War is expensive. It is impossible to hide the preparation for it](https://bbabo.net/en-GB/article/news/war-is-expensive-it-is-impossible-to-hide-the-preparation-for-it)
+- [UX low-code, performant, and open source](https://thescottkrause.com/emerging_tech/neodigm55_ux_library/)
+- [The λ-Cube](https://en.wikiversity.org/wiki/Foundations_of_Functional_Programming/The_%CE%BB-cube)
+- [Who Uses To-Do Lists?](https://arunkprasad.com/log/who-uses-todo-lists/)
+- [Open Infrastructure Map](https://openinframap.org/#2/26/12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
