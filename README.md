@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [IndexedDB in Safari 15 leaks your browsing activity in real time](https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/)
-- [HelloFresh Open Salary Initiative 2022](https://hfsalary.org/)
-- [DSLRs Are Dead, and Lenses Are Never Going to Be the Same &lpar;Again&rpar;](https://nofilmschool.com/canon-kills-dslr)
-- [Show HN: SPADE, A simple programming language with a TUI IDE](https://hackage.haskell.org/package/spade)
-- [Francis Fukuyama – Against Identity Politics](https://amc.sas.upenn.edu/francis-fukuyama-against-identity-politics)
+- [Google, Amazon, Meta and Microsoft Weave a Fiber-Optic Web of Power](https://www.wsj.com/articles/google-amazon-meta-and-microsoft-weave-a-fiber-optic-web-of-power-11642222824)
+- [Ask HN: What if a new generation of developers is right about Web3?](https://news.ycombinator.com/item?id=29947785)
+- [Exploiting IndexedDB API information leaks in Safari 15](https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/)
+- [Fexprs in Lisp: On Pitman&#39;s “Special Forms in Lisp”](https://www.kazimirmajorinc.com/Documents/On-Pitmans-Special-forms-in-Lisp/index.html)
+- [Setup a Practically Free CDN](https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889)
 <!-- BLOG-POST-LIST:END -->
 
 ---
