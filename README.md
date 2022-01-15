@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 founding engineer in London &lpar;£100k-£150k&rpar;](https://news.ycombinator.com/item?id=29945729)
+- [Smart sutures to monitor deep surgical wounds](https://news.nus.edu.sg/smart-sutures-to-monitor-deep-surgical-wounds/)
 - [Twitter Home made me miserable](https://stitcher.io/blog/twitter-home-made-me-miserable)
+- [GNU Radio](https://github.com/gnuradio/gnuradio)
 - [Large Eruption Near Tonga, Heard in NZ. Tsunami at Tonga and Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/pt22015050/executive)
-- [It’s not still the early days of blockchain](https://blog.mollywhite.net/its-not-still-the-early-days/)
-- [United States Pirate Party](https://uspirates.org/faq/)
-- [Cog Resurgence](https://nedbatchelder.com/blog/202201/cog_resurgence.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
