@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sirum is hiring developers to help uninsured people afford medicine](https://news.ycombinator.com/item?id=29955269)
+- [No Way to Be Human: We now occupy a nearly natureless world](https://www.theatlantic.com/technology/archive/2022/01/machine-garden-natureless-world/621268/)
+- [BBC licence fee to be abolished in 2027 and funding frozen](https://www.theguardian.com/media/2022/jan/16/bbc-licence-fee-to-be-abolished-in-2027-and-funding-frozen)
 - [Kosovo pulls plug on energy-guzzling Bitcoin miners](https://www.theguardian.com/technology/2022/jan/16/panic-as-kosovo-pulls-the-plug-on-its-energy-guzzling-bitcoin-miners)
 - [You shouldn&#39;t have your crypto designed by a CEO](https://mailarchive.ietf.org/arch/msg/cose/8ywbcUy-YQZUh0JF4W5Tto1dCvg/)
-- [Why Galesburg has no money](https://inlandnobody.substack.com/p/why-galesburg-has-no-money)
-- [Shenanigans on Microsoft Feedback Hub](https://thomask.sdf.org/blog/2022/01/16/shenanigans-on-microsoft-feedback-hub.html)
-- [Why Foreign Function Interfaces are not an easy answer](https://flameeyes.blog/2012/03/07/why-foreign-function-interfaces-are-not-an-easy-answer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
