@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing a minimal Lua implementation with a virtual machine from scratch in Rust](https://notes.eatonphil.com/lua-in-rust.html)
+- [Government Requests to Remove Content](https://transparencyreport.google.com/government-removals/)
+- [Efficient Large Scale Language Modeling with Mixtures of Experts](https://arxiv.org/abs/2112.10684)
 - [Safari 15 IndexedDB Leaks](https://safarileaks.com/)
 - [The Gates of Hell](https://www.atlasobscura.com/places/the-gates-of-hell-turkmenistan)
-- [Essence: Desktop operating system built from scratch](https://nakst.gitlab.io/essence)
-- [The Zen of Drinking Alone](https://drunkard.com/the-zen-of-drinking-alone/)
-- [Switching from macOS to Pop_OS](https://support.system76.com/articles/switch-from-macos-to-popos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
