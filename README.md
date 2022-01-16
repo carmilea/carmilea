@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Blackjack: Procedural, node-based graphics modeling tool, made in Rust](https://github.com/setzer22/blackjack)
+- [Mark Zuckerberg, Sundar Pichai involved in ad collusion plot](https://www.theverge.com/2022/1/14/22883987/mark-zuckerberg-sundar-pichai-ad-collusion-tx-ag-paxton-complaint)
 - [Lenovo Vendor Locking Ryzen CPUs with AMD PSB](https://www.servethehome.com/lenovo-vendor-locking-ryzen-cpus-with-amd-psb-the-video/)
+- [The benefits of intermittent fasting the right way](https://www.bbc.com/future/article/20220110-the-benefits-of-intermittent-fasting-the-right-way)
 - [It&#39;s time for an inequality index for cryptocurrencies distribution](https://news.ycombinator.com/item?id=29957818)
-- [Proposal to merge WASI based WebAssembly support](https://bugs.ruby-lang.org/issues/18462)
-- [Why Ideologies Harm Individuals](https://thomasprosser.substack.com/p/dont-be-ideological)
-- [A simple defer feature for C](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2895.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
