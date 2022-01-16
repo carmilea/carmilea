@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Altair BASIC 3.2 &lpar;4K&rpar; – Annotated Disassembly](http://altairbasic.org/)
+- [Why isn&#39;t there a universal data-format for résumés?](https://toot.cat/@woozle/107634232290378715)
 - [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
 - [Rail Theft Soars in California](https://www.latimes.com/california/story/2022-01-16/rail-theft-soars-los-angeles-pilfered-packages-littering-tracks)
 - [Show HN: WallSmash – An Infinite Brick Breaker Game](https://wallsmash.com/)
-- [Python Bytecode Explained](https://github.com/MoserMichael/pyasmtool/blob/master/bytecode_disasm.md)
-- [Gokrazy – A Native Go Userland](https://gokrazy.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
