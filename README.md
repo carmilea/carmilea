@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [US Fed – Employee Religious Exception Request Information System](https://www.federalregister.gov/documents/2022/01/11/2021-28135/privacy-act-of-1974-system-of-records)
-- [My 486 Server](http://486servu.dy.fi/)
-- [Mozilla&#39;s Firefox Relay to be added to disposable-email-domains blacklist](https://github.com/disposable-email-domains/disposable-email-domains/pull/298)
-- [IETF should keep XMPP as IM standard, instead of Matrix](https://mailarchive.ietf.org/arch/msg/tools-discuss/Cj7n-7HwsN8xBzXCjD1pjD1j9Cg/)
-- [A connectomic study of a petascale fragment of human cerebral cortex](https://vcg.seas.harvard.edu/publications/a-connectomic-study-of-a-petascale-fragment-of-human-cerebral-cortex)
+- [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
+- [Rail Theft Soars in California](https://www.latimes.com/california/story/2022-01-16/rail-theft-soars-los-angeles-pilfered-packages-littering-tracks)
+- [Show HN: WallSmash – An Infinite Brick Breaker Game](https://wallsmash.com/)
+- [Python Bytecode Explained](https://github.com/MoserMichael/pyasmtool/blob/master/bytecode_disasm.md)
+- [Gokrazy – A Native Go Userland](https://gokrazy.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
