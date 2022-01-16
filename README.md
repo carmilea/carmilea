@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Blackjack: Procedural, node-based graphics modeling tool, made in Rust](https://github.com/setzer22/blackjack)
-- [Mark Zuckerberg, Sundar Pichai involved in ad collusion plot](https://www.theverge.com/2022/1/14/22883987/mark-zuckerberg-sundar-pichai-ad-collusion-tx-ag-paxton-complaint)
-- [Lenovo Vendor Locking Ryzen CPUs with AMD PSB](https://www.servethehome.com/lenovo-vendor-locking-ryzen-cpus-with-amd-psb-the-video/)
-- [The benefits of intermittent fasting the right way](https://www.bbc.com/future/article/20220110-the-benefits-of-intermittent-fasting-the-right-way)
-- [It&#39;s time for an inequality index for cryptocurrencies distribution](https://news.ycombinator.com/item?id=29957818)
+- [US Fed – Employee Religious Exception Request Information System](https://www.federalregister.gov/documents/2022/01/11/2021-28135/privacy-act-of-1974-system-of-records)
+- [My 486 Server](http://486servu.dy.fi/)
+- [Mozilla&#39;s Firefox Relay to be added to disposable-email-domains blacklist](https://github.com/disposable-email-domains/disposable-email-domains/pull/298)
+- [IETF should keep XMPP as IM standard, instead of Matrix](https://mailarchive.ietf.org/arch/msg/tools-discuss/Cj7n-7HwsN8xBzXCjD1pjD1j9Cg/)
+- [A connectomic study of a petascale fragment of human cerebral cortex](https://vcg.seas.harvard.edu/publications/a-connectomic-study-of-a-petascale-fragment-of-human-cerebral-cortex)
 <!-- BLOG-POST-LIST:END -->
 
 ---
