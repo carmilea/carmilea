@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I sent my boyfriend a picture of a storm. He got one of a woman and a dog](https://old.reddit.com/r/nonmurdermysteries/comments/s549b4/i_sent_my_boyfriend_a_picture_of_a_storm_he_got/)
-- [Carbon dating – is getting a major reboot](https://www.nature.com/articles/d41586-020-01499-y)
+- [Carbon dating is getting a major reboot &lpar;2020&rpar;](https://www.nature.com/articles/d41586-020-01499-y)
 - [Show HN: Brew.fm – An alliance of artists who remix and edit each other&#39;s tracks](https://www.brew.fm/)
 - [Are warp drives science now?](http://backreaction.blogspot.com/2022/01/are-warp-drives-science-now.html)
 - [Writing a minimal Lua implementation with a virtual machine from scratch in Rust](https://notes.eatonphil.com/lua-in-rust.html)
