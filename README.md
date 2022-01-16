@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Revealed: UK Gov’t Plans Publicity Blitz to Undermine Privacy of Your Chats](https://www.rollingstone.com/culture/culture-news/revealed-uk-government-publicity-blitz-to-undermine-privacy-encryption-1285453/)
+- [I wrote the Task Manager and I just remembered something](https://old.reddit.com/r/techsupport/comments/gqb915/i_wrote_task_manager_and_i_just_remembered/)
 - [PyFlow – Visual scripting framework for Python – NodeRED alternative?](https://github.com/wonderworks-software/PyFlow)
 - [Cheezam – Shazam for Cheese](https://cheezam.fr/)
 - [Sirum is hiring developers to help uninsured people afford medicine](https://news.ycombinator.com/item?id=29955269)
-- [No Way to Be Human: We now occupy a nearly natureless world](https://www.theatlantic.com/technology/archive/2022/01/machine-garden-natureless-world/621268/)
-- [BBC licence fee to be abolished in 2027 and funding frozen](https://www.theguardian.com/media/2022/jan/16/bbc-licence-fee-to-be-abolished-in-2027-and-funding-frozen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
