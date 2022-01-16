@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Faker.js is now a community controlled project](https://fakerjs.dev/update.html)
+- [Detic - Detecting Twenty-thousand Classes using Image-level Supervision](https://github.com/facebookresearch/Detic)
+- [Show HN: Hatchet – Extracts unique unsubscribe links from mailing lists in Gmail](https://github.com/AnalogJ/hatchet)
 - [Altair BASIC 3.2 &lpar;4K&rpar; – Annotated Disassembly](http://altairbasic.org/)
-- [Why isn&#39;t there a universal data-format for résumés?](https://toot.cat/@woozle/107634232290378715)
-- [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
-- [Rail Theft Soars in California](https://www.latimes.com/california/story/2022-01-16/rail-theft-soars-los-angeles-pilfered-packages-littering-tracks)
-- [Show HN: WallSmash – An Infinite Brick Breaker Game](https://wallsmash.com/)
+- [Why isn&#39;t there a universal data format for résumés?](https://toot.cat/@woozle/107634232290378715)
 <!-- BLOG-POST-LIST:END -->
 
 ---
