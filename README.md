@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Proposal to merge WASI based WebAssembly support](https://bugs.ruby-lang.org/issues/18462)
+- [Ask HN: What do you say to someone who wants to get into software development?](https://news.ycombinator.com/item?id=29957150)
 - [A simple defer feature for C](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2895.htm)
-- [Covid-19 breakthrough data](https://coronavirus.health.ny.gov/covid-19-breakthrough-data)
 - [Statistical Rethinking &lpar;2022 Edition&rpar;](https://github.com/rmcelreath/stat_rethinking_2022)
 - [Hackers disrupt payroll for thousands of employers – including hospitals](https://www.npr.org/2022/01/15/1072846933/kronos-hack-lawsuits)
-- [UK government plans publicity blitz to undermine privacy of chats](https://www.rollingstone.com/culture/culture-news/revealed-uk-government-publicity-blitz-to-undermine-privacy-encryption-1285453/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
