@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Kosovo pulls plug on energy-guzzling Bitcoin miners](https://www.theguardian.com/technology/2022/jan/16/panic-as-kosovo-pulls-the-plug-on-its-energy-guzzling-bitcoin-miners)
+- [You shouldn&#39;t have your crypto designed by a CEO](https://mailarchive.ietf.org/arch/msg/cose/8ywbcUy-YQZUh0JF4W5Tto1dCvg/)
 - [Why Galesburg has no money](https://inlandnobody.substack.com/p/why-galesburg-has-no-money)
 - [Shenanigans on Microsoft Feedback Hub](https://thomask.sdf.org/blog/2022/01/16/shenanigans-on-microsoft-feedback-hub.html)
-- [Do Success Stories Cause False Beliefs About Success?](https://www.asc.upenn.edu/news-events/news/do-success-stories-cause-false-beliefs-about-success)
-- [Sci Hub Injector](https://github.com/rickwierenga/sci-hub-injector)
-- [The Heaven’s Gate website is still live 25 years after all the members perished](https://thebodyintl.com/cults/left-alive-and-unchanged-the-heavens-gate-website)
+- [Why Foreign Function Interfaces are not an easy answer](https://flameeyes.blog/2012/03/07/why-foreign-function-interfaces-are-not-an-easy-answer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
