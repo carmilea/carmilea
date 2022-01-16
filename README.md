@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I sent my boyfriend a picture of a storm. He got one of a woman and a dog](https://old.reddit.com/r/nonmurdermysteries/comments/s549b4/i_sent_my_boyfriend_a_picture_of_a_storm_he_got/)
+- [Do Success Stories Cause False Beliefs About Success?](https://www.asc.upenn.edu/news-events/news/do-success-stories-cause-false-beliefs-about-success)
+- [The Heaven’s Gate website is still live 25 years after all the members perished](https://thebodyintl.com/cults/left-alive-and-unchanged-the-heavens-gate-website)
 - [Carbon dating is getting a major reboot &lpar;2020&rpar;](https://www.nature.com/articles/d41586-020-01499-y)
 - [Show HN: Brew.fm – An alliance of artists who remix and edit each other&#39;s tracks](https://www.brew.fm/)
 - [Are warp drives science now?](http://backreaction.blogspot.com/2022/01/are-warp-drives-science-now.html)
-- [Writing a minimal Lua implementation with a virtual machine from scratch in Rust](https://notes.eatonphil.com/lua-in-rust.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
