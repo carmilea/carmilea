@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [$200k stolen in 12 hours, YouTube crypto giveaway scams are out of control](https://scaminvestigations.substack.com/p/the-youtube-crypto-giveaway-scams)
+- [I sent my boyfriend a picture of a storm. He got one of a woman and a dog](https://old.reddit.com/r/nonmurdermysteries/comments/s549b4/i_sent_my_boyfriend_a_picture_of_a_storm_he_got/)
 - [Carbon dating – is getting a major reboot](https://www.nature.com/articles/d41586-020-01499-y)
 - [Show HN: Brew.fm – An alliance of artists who remix and edit each other&#39;s tracks](https://www.brew.fm/)
 - [Are warp drives science now?](http://backreaction.blogspot.com/2022/01/are-warp-drives-science-now.html)
