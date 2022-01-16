@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Lenovo Vendor Locking Ryzen CPUs with AMD PSB](https://www.servethehome.com/lenovo-vendor-locking-ryzen-cpus-with-amd-psb-the-video/)
+- [It&#39;s time for an inequality index for cryptocurrencies distribution](https://news.ycombinator.com/item?id=29957818)
 - [Proposal to merge WASI based WebAssembly support](https://bugs.ruby-lang.org/issues/18462)
-- [Ask HN: What do you say to someone who wants to get into software development?](https://news.ycombinator.com/item?id=29957150)
+- [Why Ideologies Harm Individuals](https://thomasprosser.substack.com/p/dont-be-ideological)
 - [A simple defer feature for C](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2895.htm)
-- [Statistical Rethinking &lpar;2022 Edition&rpar;](https://github.com/rmcelreath/stat_rethinking_2022)
-- [Hackers disrupt payroll for thousands of employers – including hospitals](https://www.npr.org/2022/01/15/1072846933/kronos-hack-lawsuits)
 <!-- BLOG-POST-LIST:END -->
 
 ---
