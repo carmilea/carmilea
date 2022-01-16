@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Statistical Rethinking &lpar;2022 Edition&rpar;](https://github.com/rmcelreath/stat_rethinking_2022)
+- [Should I accept the free Windows 11 upgrade?](https://news.ycombinator.com/item?id=29956225)
+- [Hackers disrupt payroll for thousands of employers – including hospitals](https://www.npr.org/2022/01/15/1072846933/kronos-hack-lawsuits)
 - [Revealed: UK Gov’t Plans Publicity Blitz to Undermine Privacy of Your Chats](https://www.rollingstone.com/culture/culture-news/revealed-uk-government-publicity-blitz-to-undermine-privacy-encryption-1285453/)
-- [I wrote the Task Manager and I just remembered something](https://old.reddit.com/r/techsupport/comments/gqb915/i_wrote_task_manager_and_i_just_remembered/)
-- [PyFlow – Visual scripting framework for Python – NodeRED alternative?](https://github.com/wonderworks-software/PyFlow)
-- [Cheezam – Shazam for Cheese](https://cheezam.fr/)
-- [Sirum is hiring developers to help uninsured people afford medicine](https://news.ycombinator.com/item?id=29955269)
+- [29-year-old Conway conjecture settled](https://cp4space.hatsya.com/2022/01/14/conway-conjecture-settled/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
