@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [$200k stolen in 12 hours, YouTube crypto giveaway scams are out of control](https://scaminvestigations.substack.com/p/the-youtube-crypto-giveaway-scams)
 - [Ready for an N95? Here&#39;s how to find a high-quality one that fits you well](https://www.npr.org/sections/health-shots/2022/01/15/1073273768/n95-mask-respirator-cdc)
-- [Writing a minimal Lua implementation with a virtual machine from scratch in Rust](https://notes.eatonphil.com/lua-in-rust.html)
-- [Government Requests to Remove Content](https://transparencyreport.google.com/government-removals/)
-- [Efficient Large Scale Language Modeling with Mixtures of Experts](https://arxiv.org/abs/2112.10684)
-- [Safari 15 IndexedDB Leaks](https://safarileaks.com/)
+- [Show HN: Brew.fm – An alliance of artists who remix and edit each other&#39;s tracks](https://www.brew.fm/)
+- [A computer from 1948 in ICMP packets](https://github.com/hrvach/babyping)
+- [Are warp drives science now?](http://backreaction.blogspot.com/2022/01/are-warp-drives-science-now.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
