@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [$200k stolen in 12 hours, YouTube crypto giveaway scams are out of control](https://scaminvestigations.substack.com/p/the-youtube-crypto-giveaway-scams)
-- [Ready for an N95? Here&#39;s how to find a high-quality one that fits you well](https://www.npr.org/sections/health-shots/2022/01/15/1073273768/n95-mask-respirator-cdc)
+- [Carbon dating – is getting a major reboot](https://www.nature.com/articles/d41586-020-01499-y)
 - [Show HN: Brew.fm – An alliance of artists who remix and edit each other&#39;s tracks](https://www.brew.fm/)
-- [A computer from 1948 in ICMP packets](https://github.com/hrvach/babyping)
 - [Are warp drives science now?](http://backreaction.blogspot.com/2022/01/are-warp-drives-science-now.html)
+- [Writing a minimal Lua implementation with a virtual machine from scratch in Rust](https://notes.eatonphil.com/lua-in-rust.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
