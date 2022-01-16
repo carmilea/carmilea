@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Galesburg has no money](https://inlandnobody.substack.com/p/why-galesburg-has-no-money)
 - [Shenanigans on Microsoft Feedback Hub](https://thomask.sdf.org/blog/2022/01/16/shenanigans-on-microsoft-feedback-hub.html)
 - [Do Success Stories Cause False Beliefs About Success?](https://www.asc.upenn.edu/news-events/news/do-success-stories-cause-false-beliefs-about-success)
 - [Sci Hub Injector](https://github.com/rickwierenga/sci-hub-injector)
 - [The Heaven’s Gate website is still live 25 years after all the members perished](https://thebodyintl.com/cults/left-alive-and-unchanged-the-heavens-gate-website)
-- [Rewatch: Stargate SG-1 &lpar;2019&rpar;](https://macmanx.com/2019/07/22/rewatch-stargate-sg-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
