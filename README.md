@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A simple defer feature for C](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2895.htm)
+- [Covid-19 breakthrough data](https://coronavirus.health.ny.gov/covid-19-breakthrough-data)
 - [Statistical Rethinking &lpar;2022 Edition&rpar;](https://github.com/rmcelreath/stat_rethinking_2022)
-- [Should I accept the free Windows 11 upgrade?](https://news.ycombinator.com/item?id=29956225)
 - [Hackers disrupt payroll for thousands of employers – including hospitals](https://www.npr.org/2022/01/15/1072846933/kronos-hack-lawsuits)
-- [Revealed: UK Gov’t Plans Publicity Blitz to Undermine Privacy of Your Chats](https://www.rollingstone.com/culture/culture-news/revealed-uk-government-publicity-blitz-to-undermine-privacy-encryption-1285453/)
-- [29-year-old Conway conjecture settled](https://cp4space.hatsya.com/2022/01/14/conway-conjecture-settled/)
+- [UK government plans publicity blitz to undermine privacy of chats](https://www.rollingstone.com/culture/culture-news/revealed-uk-government-publicity-blitz-to-undermine-privacy-encryption-1285453/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
