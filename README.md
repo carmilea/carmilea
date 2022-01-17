@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WLED Arduino WiFi LED Controller](https://github.com/Aircoookie/WLED)
-- [uLisp on the Raspberry Pi Pico](http://www.ulisp.com/show?3KN3)
-- [Show HN: MdSilo – A knowledge silo runs in your web browser](https://mdsilo.com/)
-- [A quick history of digital communication before the internet &lpar;2017&rpar;](https://eager.io/blog/communication-pre-internet/)
-- [A high-dimensional sphere spilling out of a high-dimensional cube](https://stanislavfort.github.io/blog/sphere-spilling-out/)
+- [Why I Enjoy PostgreSQL – Infrastructure Engineer&#39;s Perspective](https://www.shayon.dev/post/2022/17/why-i-enjoy-postgresql-infrastructure-engineers-perspective/)
+- [Who Watches Watchmen? – Integrating Elixir Applications with Systemd](https://hauleth.dev/post/who-watches-watchmen-i/)
+- [Matrix Multiplication](http://matrixmultiplication.xyz/)
+- [The SNESticle Liberation Project](https://dataswamp.org/~josk/snesticle/)
+- [Ruby: Porting YJIT to Rust](https://bugs.ruby-lang.org/issues/18481)
 <!-- BLOG-POST-LIST:END -->
 
 ---
