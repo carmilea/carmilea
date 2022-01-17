@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Some ways DNS can break](https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/)
+- [Debut of X](https://www.talisman.org/x-debut.shtml)
 - [How and why the Relational Model works for databases](https://blog.the-pans.com/relational/)
-- [Entropy isn&#39;t sufficient to measure password strength](https://www.benwr.net/2022/01/16/password_entropy.html)
 - [Union Pacific Addresses LA Cargo Thefts; Problem Requires Collective Effort](https://www.up.com/aboutup/community/inside_track/la-cargo-threats-aggressive-response-220116.htm)
 - [The Graphical User Interface History](https://kartsci.org/kocomu/computer-history/graphical-user-interface-history/)
-- [A Fossilized Blood-Engorged Mosquito Is Found for the First Time Ever &lpar;2013&rpar;](https://www.smithsonianmag.com/science-nature/a-fossilized-blood-engorged-mosquito-is-found-for-the-first-time-ever-1749788/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
