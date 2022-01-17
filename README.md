@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ffmpeg 5.0](https://ffmpeg.org/#pr5.0)
-- [The Life, Death, and Legacy of One Laptop per Child](https://morganya.org/charisma.html)
-- [Why I Enjoy PostgreSQL – Infrastructure Engineer&#39;s Perspective](https://www.shayon.dev/post/2022/17/why-i-enjoy-postgresql-infrastructure-engineers-perspective/)
-- [Who Watches Watchmen? – Integrating Elixir Applications with Systemd](https://hauleth.dev/post/who-watches-watchmen-i/)
-- [Matrix Multiplication](http://matrixmultiplication.xyz/)
+- [Containerize Go and SQLite with Docker – 9MB Image Size](https://awstip.com/containerize-go-sqlite-with-docker-6d7fbecd14f0)
+- [Zoroastrians make a comeback in northern Iraq](https://www.reuters.com/article/us-iraq-religion-zoroastrianism-idUSKBN26L336)
+- [Action: the first dynamic interface builder &lpar;1988&rpar; [video]](https://vimeo.com/62618532)
+- [Cain&#39;s Jawbone: Puzzle solved for just third time in almost 100 years &lpar;2020&rpar;](https://www.theguardian.com/books/2020/nov/10/literary-puzzle-solved-for-just-third-time-in-almost-100-years-cains-jawbone)
+- [Mars rover detects carbon signature that may hint at past life source](https://www.science.org/content/article/mars-rover-detects-carbon-signature-hints-past-life-source)
 <!-- BLOG-POST-LIST:END -->
 
 ---
