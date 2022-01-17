@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A high-dimensional sphere spilling out of a high-dimensional cube](https://stanislavfort.github.io/blog/sphere-spilling-out/)
+- [Ask HN: When to Quit?](https://news.ycombinator.com/item?id=29968663)
+- [Freshpaint &lpar;YC S19&rpar; Is Hiring – Head of Marketing](https://www.ycombinator.com/companies/freshpaint/jobs/9JGTh1N-head-of-marketing)
+- [Same-origin violation vulnerability in Safari 15 could leak a user’s website](https://portswigger.net/daily-swig/same-origin-violation-vulnerability-in-safari-15-could-leak-a-users-website-history-and-identity)
 - [I Have a Dream](https://www.americanrhetoric.com/speeches/mlkihaveadream.htm)
-- [Your app is not compliant with Google Play Policies: A story from hell](https://sylviavanos.nl/blog/2021/12/24/google_play_hell.html)
-- [Aduhelm and Medicare](https://www.science.org/content/blog-post/aduhelm-and-medicare)
-- [The Most Popular Online Textbook Platform](https://libretexts.org/)
-- [Ask HN: Why is spam email still a thing?](https://news.ycombinator.com/item?id=29966942)
 <!-- BLOG-POST-LIST:END -->
 
 ---
