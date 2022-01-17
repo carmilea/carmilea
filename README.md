@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon UK and Visa credit card reach a deal](https://news.ycombinator.com/item?id=29965144)
+- [The curious case of the Raspberry Pi in the network closet &lpar;2019&rpar;](https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html)
+- [You people are just vectors of disease to me](https://www.metafilter.com/194004/You-people-are-just-vectors-of-disease-to-me)
 - [Python on z/OS – creating a C extension](https://colinpaice.blog/2022/01/15/python-on-z-os-creating-a-c-extension/)
 - [€2.6M spent for a book at auction, believed they would own the IP](https://twitter.com/garybrannan/status/1482866885989478411)
-- [Show HN: CSS Speedrun – A small game to test and improve your CSS knowledge](https://css-speedrun.netlify.app/)
-- [AWS Lambda now supports IPv6 endpoints for inbound connections](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-ipv6-endpoints-inbound-connections/)
-- [Some ways DNS can break](https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
