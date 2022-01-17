@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t fully trust AI in dev work /yet](https://blog.akom.me/dont-fully-trust-ai-in-dev-work-yet)
+- [Show HN: CSS Speedrun – A small game to test and improve your CSS knowledge](https://css-speedrun.netlify.app/)
 - [AWS Lambda now supports IPv6 endpoints for inbound connections](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-ipv6-endpoints-inbound-connections/)
 - [Some ways DNS can break](https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/)
 - [Debut of X &lpar;1984&rpar;](https://www.talisman.org/x-debut.shtml)
