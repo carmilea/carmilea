@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Fossilized Blood-Engorged Mosquito Is Found for the First Time Ever &lpar;2013&rpar;](https://www.smithsonianmag.com/science-nature/a-fossilized-blood-engorged-mosquito-is-found-for-the-first-time-ever-1749788/)
 - [DOS on Dope](https://secretgeek.net/dod_intro)
 - [The Color of Infinite Temperature](https://johncarlosbaez.wordpress.com/2022/01/16/the-color-of-infinite-temperature/)
 - [A guide to building Lego Classic Town cars](https://brickset.com/article/70066/a-guide-to-building-classic-town-cars)
 - [APKTool: A tool for reverse engineering Android APK files](https://ibotpeaches.github.io/Apktool/)
-- [The Capital Sponge](https://www.lynalden.com/january-2022-newsletter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
