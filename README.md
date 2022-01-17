@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Entropy isn&#39;t sufficient to measure password strength](https://www.benwr.net/2022/01/16/password_entropy.html)
+- [Up Addresses Los Angeles Cargo Thefts; Problem Requires Collective Effort](https://www.up.com/aboutup/community/inside_track/la-cargo-threats-aggressive-response-220116.htm)
 - [The Graphical User Interface History](https://kartsci.org/kocomu/computer-history/graphical-user-interface-history/)
-- [Ask HN: New YouTube hover feature? Annoying as frig?](https://news.ycombinator.com/item?id=29962846)
 - [A Fossilized Blood-Engorged Mosquito Is Found for the First Time Ever &lpar;2013&rpar;](https://www.smithsonianmag.com/science-nature/a-fossilized-blood-engorged-mosquito-is-found-for-the-first-time-ever-1749788/)
 - [DOS on Dope](https://secretgeek.net/dod_intro)
-- [The Color of Infinite Temperature](https://johncarlosbaez.wordpress.com/2022/01/16/the-color-of-infinite-temperature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
