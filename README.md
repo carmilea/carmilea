@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Have a Dream](https://www.americanrhetoric.com/speeches/mlkihaveadream.htm)
+- [Your app is not compliant with Google Play Policies: A story from hell](https://sylviavanos.nl/blog/2021/12/24/google_play_hell.html)
 - [Aduhelm and Medicare](https://www.science.org/content/blog-post/aduhelm-and-medicare)
 - [The Most Popular Online Textbook Platform](https://libretexts.org/)
 - [Ask HN: Why is spam email still a thing?](https://news.ycombinator.com/item?id=29966942)
-- [Unredacted Antitrust Complaint Shows Google’s Ad Biz Even Scummier Than Imagined](https://www.nakedcapitalism.com/2022/01/unredacted-antitrust-complaint-shows-googles-ad-business-even-scummier-than-many-imagined.html)
-- [Netflix’s Prices Are Rising Faster Than Cable](https://www.interneteconomist.com/netflix-and-cable-prices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
