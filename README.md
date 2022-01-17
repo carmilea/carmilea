@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Graphviz: Open-source graph visualization software](https://graphviz.org/)
+- [Hello Mac OS X Tiger](http://bunn.dev/benchmark/2022/01/16/hello-tiger.html)
 - [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
 - [Why are air combat kills so rare? &lpar;2017&rpar;](https://www.bbc.com/news/world-40327934)
 - [UK schools receive 300k CO2 monitors in gov initiative to reduce COVID19 spread](https://www.imperial.ac.uk/news/233154/curbing-covid-19-schools-imperial-scientists-support/)
-- [Real-world stories of how we’ve compromised CI/CD pipelines](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/)
-- [Failing to Learn Zig via Advent of Code](https://www.forrestthewoods.com/blog/failing-to-learn-zig-via-advent-of-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
