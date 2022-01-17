@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A quick history of digital communication before the internet &lpar;2017&rpar;](https://eager.io/blog/communication-pre-internet/)
+- [Basic income would not reduce people’s willingness to work](https://www.universiteitleiden.nl/en/news/2022/01/basic-income-would-not-reduce-peoples-willingness-to-work)
 - [A high-dimensional sphere spilling out of a high-dimensional cube](https://stanislavfort.github.io/blog/sphere-spilling-out/)
-- [Ask HN: When to Quit?](https://news.ycombinator.com/item?id=29968663)
 - [Freshpaint &lpar;YC S19&rpar; Is Hiring – Head of Marketing](https://www.ycombinator.com/companies/freshpaint/jobs/9JGTh1N-head-of-marketing)
 - [Same-origin violation vulnerability in Safari 15 could leak a user’s website](https://portswigger.net/daily-swig/same-origin-violation-vulnerability-in-safari-15-could-leak-a-users-website-history-and-identity)
-- [I Have a Dream](https://www.americanrhetoric.com/speeches/mlkihaveadream.htm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
