@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Faker.js is now a community controlled project](https://fakerjs.dev/update.html)
-- [Detic - Detecting Twenty-thousand Classes using Image-level Supervision](https://github.com/facebookresearch/Detic)
-- [Show HN: Hatchet – Extracts unique unsubscribe links from mailing lists in Gmail](https://github.com/AnalogJ/hatchet)
-- [Rat Tickling](https://www.nc3rs.org.uk/rat-tickling)
-- [Altair BASIC 3.2 &lpar;4K&rpar; – Annotated Disassembly &lpar;2001&rpar;](http://altairbasic.org/)
+- [DOS on Dope](https://secretgeek.net/dod_intro)
+- [The Color of Infinite Temperature](https://johncarlosbaez.wordpress.com/2022/01/16/the-color-of-infinite-temperature/)
+- [A guide to building Lego Classic Town cars](https://brickset.com/article/70066/a-guide-to-building-classic-town-cars)
+- [APKTool: A tool for reverse engineering Android APK files](https://ibotpeaches.github.io/Apktool/)
+- [The Capital Sponge](https://www.lynalden.com/january-2022-newsletter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
