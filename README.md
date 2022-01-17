@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [WLED Arduino WiFi LED Controller](https://github.com/Aircoookie/WLED)
 - [uLisp on the Raspberry Pi Pico](http://www.ulisp.com/show?3KN3)
 - [Show HN: MdSilo – A knowledge silo runs in your web browser](https://mdsilo.com/)
 - [A quick history of digital communication before the internet &lpar;2017&rpar;](https://eager.io/blog/communication-pre-internet/)
-- [Basic income would not reduce people’s willingness to work](https://www.universiteitleiden.nl/en/news/2022/01/basic-income-would-not-reduce-peoples-willingness-to-work)
-- [Things I like about Python](https://www.forrestthewoods.com/blog/things-i-like-about-python/)
+- [A high-dimensional sphere spilling out of a high-dimensional cube](https://stanislavfort.github.io/blog/sphere-spilling-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
