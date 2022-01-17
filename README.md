@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon UK and Visa credit card reach a deal](https://news.ycombinator.com/item?id=29965144)
-- [The curious case of the Raspberry Pi in the network closet &lpar;2019&rpar;](https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html)
-- [You people are just vectors of disease to me](https://www.metafilter.com/194004/You-people-are-just-vectors-of-disease-to-me)
-- [Python on z/OS – creating a C extension](https://colinpaice.blog/2022/01/15/python-on-z-os-creating-a-c-extension/)
-- [€2.6M spent for a book at auction, believed they would own the IP](https://twitter.com/garybrannan/status/1482866885989478411)
+- [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
+- [Why are air combat kills so rare? &lpar;2017&rpar;](https://www.bbc.com/news/world-40327934)
+- [UK schools receive 300k CO2 monitors in gov initiative to reduce COVID19 spread](https://www.imperial.ac.uk/news/233154/curbing-covid-19-schools-imperial-scientists-support/)
+- [Real-world stories of how we’ve compromised CI/CD pipelines](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/)
+- [Failing to Learn Zig via Advent of Code](https://www.forrestthewoods.com/blog/failing-to-learn-zig-via-advent-of-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
