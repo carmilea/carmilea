@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Python on z/OS – creating a C extension](https://colinpaice.blog/2022/01/15/python-on-z-os-creating-a-c-extension/)
+- [€2.6M spent for a book at auction, believed they would own the IP](https://twitter.com/garybrannan/status/1482866885989478411)
 - [Show HN: CSS Speedrun – A small game to test and improve your CSS knowledge](https://css-speedrun.netlify.app/)
 - [AWS Lambda now supports IPv6 endpoints for inbound connections](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-ipv6-endpoints-inbound-connections/)
 - [Some ways DNS can break](https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/)
-- [Debut of X &lpar;1984&rpar;](https://www.talisman.org/x-debut.shtml)
-- [How and why the Relational Model works for databases](https://blog.the-pans.com/relational/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
