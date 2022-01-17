@@ -54,8 +54,8 @@
 - [Faker.js is now a community controlled project](https://fakerjs.dev/update.html)
 - [Detic - Detecting Twenty-thousand Classes using Image-level Supervision](https://github.com/facebookresearch/Detic)
 - [Show HN: Hatchet – Extracts unique unsubscribe links from mailing lists in Gmail](https://github.com/AnalogJ/hatchet)
-- [Altair BASIC 3.2 &lpar;4K&rpar; – Annotated Disassembly](http://altairbasic.org/)
-- [Why isn&#39;t there a universal data format for résumés?](https://toot.cat/@woozle/107634232290378715)
+- [Rat Tickling](https://www.nc3rs.org.uk/rat-tickling)
+- [Altair BASIC 3.2 &lpar;4K&rpar; – Annotated Disassembly &lpar;2001&rpar;](http://altairbasic.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
