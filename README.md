@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [uLisp on the Raspberry Pi Pico](http://www.ulisp.com/show?3KN3)
+- [Show HN: MdSilo – A knowledge silo runs in your web browser](https://mdsilo.com/)
 - [A quick history of digital communication before the internet &lpar;2017&rpar;](https://eager.io/blog/communication-pre-internet/)
 - [Basic income would not reduce people’s willingness to work](https://www.universiteitleiden.nl/en/news/2022/01/basic-income-would-not-reduce-peoples-willingness-to-work)
-- [A high-dimensional sphere spilling out of a high-dimensional cube](https://stanislavfort.github.io/blog/sphere-spilling-out/)
-- [Freshpaint &lpar;YC S19&rpar; Is Hiring – Head of Marketing](https://www.ycombinator.com/companies/freshpaint/jobs/9JGTh1N-head-of-marketing)
-- [Same-origin violation vulnerability in Safari 15 could leak a user’s website](https://portswigger.net/daily-swig/same-origin-violation-vulnerability-in-safari-15-could-leak-a-users-website-history-and-identity)
+- [Things I like about Python](https://www.forrestthewoods.com/blog/things-i-like-about-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
