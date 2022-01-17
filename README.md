@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t fully trust AI in dev work /yet](https://blog.akom.me/dont-fully-trust-ai-in-dev-work-yet)
+- [AWS Lambda now supports IPv6 endpoints for inbound connections](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-ipv6-endpoints-inbound-connections/)
 - [Some ways DNS can break](https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/)
-- [Debut of X](https://www.talisman.org/x-debut.shtml)
+- [Debut of X &lpar;1984&rpar;](https://www.talisman.org/x-debut.shtml)
 - [How and why the Relational Model works for databases](https://blog.the-pans.com/relational/)
-- [Union Pacific Addresses LA Cargo Thefts; Problem Requires Collective Effort](https://www.up.com/aboutup/community/inside_track/la-cargo-threats-aggressive-response-220116.htm)
-- [The Graphical User Interface History](https://kartsci.org/kocomu/computer-history/graphical-user-interface-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
