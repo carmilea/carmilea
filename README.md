@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How and why the Relational Model works for databases](https://blog.the-pans.com/relational/)
 - [Entropy isn&#39;t sufficient to measure password strength](https://www.benwr.net/2022/01/16/password_entropy.html)
-- [Up Addresses Los Angeles Cargo Thefts; Problem Requires Collective Effort](https://www.up.com/aboutup/community/inside_track/la-cargo-threats-aggressive-response-220116.htm)
+- [Union Pacific Addresses LA Cargo Thefts; Problem Requires Collective Effort](https://www.up.com/aboutup/community/inside_track/la-cargo-threats-aggressive-response-220116.htm)
 - [The Graphical User Interface History](https://kartsci.org/kocomu/computer-history/graphical-user-interface-history/)
 - [A Fossilized Blood-Engorged Mosquito Is Found for the First Time Ever &lpar;2013&rpar;](https://www.smithsonianmag.com/science-nature/a-fossilized-blood-engorged-mosquito-is-found-for-the-first-time-ever-1749788/)
-- [DOS on Dope](https://secretgeek.net/dod_intro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
