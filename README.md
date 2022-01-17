@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ffmpeg 5.0](https://ffmpeg.org/#pr5.0)
+- [The Life, Death, and Legacy of One Laptop per Child](https://morganya.org/charisma.html)
 - [Why I Enjoy PostgreSQL – Infrastructure Engineer&#39;s Perspective](https://www.shayon.dev/post/2022/17/why-i-enjoy-postgresql-infrastructure-engineers-perspective/)
 - [Who Watches Watchmen? – Integrating Elixir Applications with Systemd](https://hauleth.dev/post/who-watches-watchmen-i/)
 - [Matrix Multiplication](http://matrixmultiplication.xyz/)
-- [The SNESticle Liberation Project](https://dataswamp.org/~josk/snesticle/)
-- [Ruby: Porting YJIT to Rust](https://bugs.ruby-lang.org/issues/18481)
 <!-- BLOG-POST-LIST:END -->
 
 ---
