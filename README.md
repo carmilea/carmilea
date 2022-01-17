@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An anatomy of Bitcoin price manipulation](https://www.singlelunch.com/2022/01/09/an-anatomy-of-bitcoin-price-manipulation/)
-- [Graphviz: Open-source graph visualization software](https://graphviz.org/)
-- [Hello Mac OS X Tiger](http://bunn.dev/benchmark/2022/01/16/hello-tiger.html)
-- [Deepnote &lpar;YC S19&rpar; is hiring to build a better data science notebook &lpar;Europe&rpar;](https://deepnote.com/join-us)
-- [Why are air combat kills so rare? &lpar;2017&rpar;](https://www.bbc.com/news/world-40327934)
+- [Aduhelm and Medicare](https://www.science.org/content/blog-post/aduhelm-and-medicare)
+- [The Most Popular Online Textbook Platform](https://libretexts.org/)
+- [Ask HN: Why is spam email still a thing?](https://news.ycombinator.com/item?id=29966942)
+- [Unredacted Antitrust Complaint Shows Google’s Ad Biz Even Scummier Than Imagined](https://www.nakedcapitalism.com/2022/01/unredacted-antitrust-complaint-shows-googles-ad-business-even-scummier-than-many-imagined.html)
+- [Netflix’s Prices Are Rising Faster Than Cable](https://www.interneteconomist.com/netflix-and-cable-prices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
