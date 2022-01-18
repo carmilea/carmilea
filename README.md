@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Containerize Go and SQLite with Docker – 9MB Image Size](https://awstip.com/containerize-go-sqlite-with-docker-6d7fbecd14f0)
-- [Zoroastrians make a comeback in northern Iraq](https://www.reuters.com/article/us-iraq-religion-zoroastrianism-idUSKBN26L336)
-- [Action: the first dynamic interface builder &lpar;1988&rpar; [video]](https://vimeo.com/62618532)
-- [Cain&#39;s Jawbone: Puzzle solved for just third time in almost 100 years &lpar;2020&rpar;](https://www.theguardian.com/books/2020/nov/10/literary-puzzle-solved-for-just-third-time-in-almost-100-years-cains-jawbone)
-- [Mars rover detects carbon signature that may hint at past life source](https://www.science.org/content/article/mars-rover-detects-carbon-signature-hints-past-life-source)
+- [US claims jurisdiction over all .com/.net sites even if outside the US &lpar;2011&rpar;](https://web.archive.org/web/20111102045835/http://www.theinquirer.net/inquirer/news/2083906/claims-com-net-websites-jurisdiction)
+- [Israel Finds Fourth Covid Booster Is Ineffective](https://healthpolicy-watch.news/israel-fourth-covid-booster-ineffective/)
+- [In defense of flat earthers &lpar;2020&rpar;](http://danboykis.com/posts/flat-earth/)
+- [Containerize Go and SQLite with Docker](https://awstip.com/containerize-go-sqlite-with-docker-6d7fbecd14f0)
+- [Nerd-dictation, hackable speech to text on Linux](https://github.com/ideasman42/nerd-dictation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
