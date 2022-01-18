@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CyberChef – The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
+- [Unflow &lpar;YC S19&rpar; Is Hiring Founding iOS Engineer](https://www.ycombinator.com/companies/unflow/jobs/xY3DJ1O-ios-engineer)
+- [Tricking PostgreSQL into using an insane – but 200x faster – query plan](https://spacelift.io/blog/tricking-postgres-into-using-query-plan)
 - [Venmo, PayPal and Zelle must report $600 in transactions to IRS](https://www.nbcnews.com/news/venmo-paypal-zelle-must-report-600-transactions-irs-rcna11260)
 - [GPS](https://ciechanow.ski/gps/)
-- [Eyeo wins German copyright decision, sets legal precedent for who ‘owns’ HTML](https://eyeo.com/eyeo-wins-copyright-court-case/)
-- [The PinePhone Pro brings upgraded hardware to the Linux phone](https://arstechnica.com/gadgets/2022/01/the-pinephone-pro-brings-upgraded-hardware-to-the-linux-phone/)
-- [A pure C Mjpeg-over-HTTP server](https://github.com/nola-a/mjpeg2http)
 <!-- BLOG-POST-LIST:END -->
 
 ---
