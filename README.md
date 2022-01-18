@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The CIA lost track of who runs the UK, so I picked up the slack](https://www.opensanctions.org/articles/2022-01-18-peppercat/)
+- [Ireland to launch basic income program for artists](https://www.artforum.com/news/ireland-to-launch-universal-basic-income-program-for-artists-87612)
+- [A delightful quirk of relativity theory](https://twitter.com/MarkusDeserno/status/1482811504424542211)
 - [Around 1860, Britain was gripped with a craze for “cartes de visite”](https://www.bbc.com/culture/article/20220114-the-surprising-ways-that-victorians-flirted)
 - [How to build homes with virtually no heating &lpar;2020&rpar;](https://archipro.co.nz/articles/architecture/building-without-heating-how-to-build-warm-comfortable-homes-with-virtually-no-heating-archipro)
 - [Kakoune Code Editor](https://kakoune.org/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29974622)
 <!-- BLOG-POST-LIST:END -->
 
 ---
