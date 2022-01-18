@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ENS Domains](https://ens.domains/)
+- [Our Rails test suite runs in 1 minute on Buildkite](https://planetscale.com/blog/how-our-rails-test-suite-runs-in-1-minute-on-buildkite)
+- [Workers are calling out sick in droves](https://www.npr.org/2022/01/18/1073139544/staffing-shortages-omicron-grocery-hospital-workers-nurses-employers-covid)
+- [Order your rapid tests from the USPS &lpar;US only&rpar;](https://special.usps.com/testkits)
 - [CyberChef – The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
-- [Unflow &lpar;YC S19&rpar; Is Hiring Founding iOS Engineer](https://www.ycombinator.com/companies/unflow/jobs/xY3DJ1O-ios-engineer)
-- [Tricking PostgreSQL into using an insane – but 200x faster – query plan](https://spacelift.io/blog/tricking-postgres-into-using-query-plan)
-- [Venmo, PayPal and Zelle must report $600 in transactions to IRS](https://www.nbcnews.com/news/venmo-paypal-zelle-must-report-600-transactions-irs-rcna11260)
-- [GPS](https://ciechanow.ski/gps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
