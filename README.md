@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why are we so at the mercy of Google and Mozilla for web browsers?](https://news.ycombinator.com/item?id=29983542)
-- [Zooming in on Zero-Click Exploits](https://googleprojectzero.blogspot.com/2022/01/zooming-in-on-zero-click-exploits.html)
-- [Our Rails test suite runs in 1 minute on Buildkite](https://planetscale.com/blog/how-our-rails-test-suite-runs-in-1-minute-on-buildkite)
-- [Workers are calling out sick in droves](https://www.npr.org/2022/01/18/1073139544/staffing-shortages-omicron-grocery-hospital-workers-nurses-employers-covid)
-- [Order your rapid tests from the USPS &lpar;US only&rpar;](https://special.usps.com/testkits)
+- [Automation is reaching more companies](https://www.wired.com/story/rent-robot-worker-less-paying-human/)
+- [GNU Emacs Telegram Client](https://github.com/zevlg/telega.el)
+- [Locked out of &#39;God Mode&#39;, Runners are hacking their treadmills](https://www.wired.com/story/nordictrack-ifit-treadmill-privilege-mode/)
+- [The Autism Phenome Project: Toward Identifying Meaningful Subgroups of Autism](https://www.frontiersin.org/articles/10.3389/fnins.2021.786220/full)
+- [Ask HN: Why the $200 Overhead on Dell XPS Laptops with Linux?](https://news.ycombinator.com/item?id=29983812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
