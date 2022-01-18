@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn the workings of Git, not just the commands&lpar;2021&rpar;](https://developer.ibm.com/tutorials/d-learn-workings-git/)
+- [Show HN: Life calendar – use the concept of Momento Mori to embrace every week](https://life-cal.com)
+- [Ask HN: What is your system for backing up family photos and video?](https://news.ycombinator.com/item?id=29978099)
 - [Why It’s Great to Be a Consultant](https://zwischenzugs.com/2022/01/17/why-its-great-to-be-a-consultant/)
 - [Mux &lpar;YC W16&rpar; is hiring across the board to build the future of video infra](https://mux.com/jobs?hnj=future)
-- [Five Easy to Miss PostgreSQL Query Performance Bottlenecks](https://pawelurbanek.com/postgresql-query-bottleneck)
-- [The Silent, Vacinated, Impatient Majority](https://web.archive.org/web/20220118094431/https://www.theatlantic.com/international/archive/2022/01/politicians-against-unvaccinated-djokovic/621242/)
-- [You cannot play Diablo 2 resurrected after 30 days of being offline](https://twitter.com/DoesItPlay1/status/1483126058325090304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
