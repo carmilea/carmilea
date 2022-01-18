@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [US claims jurisdiction over all .com/.net sites even if outside the US &lpar;2011&rpar;](https://web.archive.org/web/20111102045835/http://www.theinquirer.net/inquirer/news/2083906/claims-com-net-websites-jurisdiction)
-- [Israel Finds Fourth Covid Booster Is Ineffective](https://healthpolicy-watch.news/israel-fourth-covid-booster-ineffective/)
 - [In defense of flat earthers &lpar;2020&rpar;](http://danboykis.com/posts/flat-earth/)
 - [Containerize Go and SQLite with Docker](https://awstip.com/containerize-go-sqlite-with-docker-6d7fbecd14f0)
 - [Nerd-dictation, hackable speech to text on Linux](https://github.com/ideasman42/nerd-dictation)
+- [Zoroastrians make a comeback in northern Iraq](https://www.reuters.com/article/us-iraq-religion-zoroastrianism-idUSKBN26L336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
