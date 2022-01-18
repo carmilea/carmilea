@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29974622)
+- [U.S. FAA clears 45% of commercial plane fleet after 5G deployed](https://www.reuters.com/business/aerospace-defense/us-faa-oks-45-commercial-airplane-fleet-operations-after-5g-deployment-2022-01-16/)
 - [US claims jurisdiction over all .com/.net sites even if outside the US &lpar;2011&rpar;](https://web.archive.org/web/20111102045835/http://www.theinquirer.net/inquirer/news/2083906/claims-com-net-websites-jurisdiction)
 - [In defense of flat earthers &lpar;2020&rpar;](http://danboykis.com/posts/flat-earth/)
 - [Containerize Go and SQLite with Docker](https://awstip.com/containerize-go-sqlite-with-docker-6d7fbecd14f0)
-- [Nerd-dictation, hackable speech to text on Linux](https://github.com/ideasman42/nerd-dictation)
-- [Zoroastrians make a comeback in northern Iraq](https://www.reuters.com/article/us-iraq-religion-zoroastrianism-idUSKBN26L336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
