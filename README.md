@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29974622)
 - [U.S. FAA clears 45% of commercial plane fleet after 5G deployed](https://www.reuters.com/business/aerospace-defense/us-faa-oks-45-commercial-airplane-fleet-operations-after-5g-deployment-2022-01-16/)
+- [Activision Blizzard fires 3 dozen people in sexual harassment probe](https://www.reuters.com/business/activision-blizzard-fires-more-people-sexual-harassment-probe-report-says-2022-01-17/)
 - [US claims jurisdiction over all .com/.net sites even if outside the US &lpar;2011&rpar;](https://web.archive.org/web/20111102045835/http://www.theinquirer.net/inquirer/news/2083906/claims-com-net-websites-jurisdiction)
 - [In defense of flat earthers &lpar;2020&rpar;](http://danboykis.com/posts/flat-earth/)
-- [Containerize Go and SQLite with Docker](https://awstip.com/containerize-go-sqlite-with-docker-6d7fbecd14f0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
