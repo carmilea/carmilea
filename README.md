@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ireland to launch basic income program for artists](https://www.artforum.com/news/ireland-to-launch-universal-basic-income-program-for-artists-87612)
-- [A delightful quirk of relativity theory](https://twitter.com/MarkusDeserno/status/1482811504424542211)
-- [Around 1860, Britain was gripped with a craze for “cartes de visite”](https://www.bbc.com/culture/article/20220114-the-surprising-ways-that-victorians-flirted)
-- [How to build homes with virtually no heating &lpar;2020&rpar;](https://archipro.co.nz/articles/architecture/building-without-heating-how-to-build-warm-comfortable-homes-with-virtually-no-heating-archipro)
-- [Kakoune Code Editor](https://kakoune.org/)
+- [Why It’s Great to Be a Consultant](https://zwischenzugs.com/2022/01/17/why-its-great-to-be-a-consultant/)
+- [Mux &lpar;YC W16&rpar; is hiring across the board to build the future of video infra](https://mux.com/jobs?hnj=future)
+- [Five Easy to Miss PostgreSQL Query Performance Bottlenecks](https://pawelurbanek.com/postgresql-query-bottleneck)
+- [The Silent, Vacinated, Impatient Majority](https://web.archive.org/web/20220118094431/https://www.theatlantic.com/international/archive/2022/01/politicians-against-unvaccinated-djokovic/621242/)
+- [You cannot play Diablo 2 resurrected after 30 days of being offline](https://twitter.com/DoesItPlay1/status/1483126058325090304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
