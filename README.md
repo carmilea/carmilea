@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Automation is reaching more companies](https://www.wired.com/story/rent-robot-worker-less-paying-human/)
-- [GNU Emacs Telegram Client](https://github.com/zevlg/telega.el)
-- [Locked out of &#39;God Mode&#39;, Runners are hacking their treadmills](https://www.wired.com/story/nordictrack-ifit-treadmill-privilege-mode/)
-- [The Autism Phenome Project: Toward Identifying Meaningful Subgroups of Autism](https://www.frontiersin.org/articles/10.3389/fnins.2021.786220/full)
-- [Ask HN: Why the $200 Overhead on Dell XPS Laptops with Linux?](https://news.ycombinator.com/item?id=29983812)
+- [Wine 7.0](https://www.winehq.org/announce/7.0)
+- [Do Svidaniya, Igor, and Thank You for Nginx](https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/)
+- [Paperspace &lpar;YC W15&rpar; is hiring engineers to build a next-gen cloud](https://www.paperspace.com/careers#open-positions)
+- [Google: The harmful consequences of Congress’s anti-tech bills](https://blog.google/outreach-initiatives/public-policy/the-harmful-consequences-of-congresss-anti-tech-bills/)
+- [Letter from Union Pacific to LA District Attorney re: train thefts, safety [pdf]](https://www.up.com/cs/groups/public/@uprr/@newsinfo/documents/up_pdf_nativedocs/pdf_up_la_district_atty_211221.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
