@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [ENS Domains](https://ens.domains/)
+- [Ask HN: Why are we so at the mercy of Google and Mozilla for web browsers?](https://news.ycombinator.com/item?id=29983542)
+- [Zooming in on Zero-Click Exploits](https://googleprojectzero.blogspot.com/2022/01/zooming-in-on-zero-click-exploits.html)
 - [Our Rails test suite runs in 1 minute on Buildkite](https://planetscale.com/blog/how-our-rails-test-suite-runs-in-1-minute-on-buildkite)
 - [Workers are calling out sick in droves](https://www.npr.org/2022/01/18/1073139544/staffing-shortages-omicron-grocery-hospital-workers-nurses-employers-covid)
 - [Order your rapid tests from the USPS &lpar;US only&rpar;](https://special.usps.com/testkits)
-- [CyberChef – The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
