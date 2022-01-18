@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Myths about Social Media](https://twitter.com/M_B_Petersen/status/1483457679800651787)
 - [Wine 7.0](https://www.winehq.org/announce/7.0)
 - [Show HN: SlateJS&lpar;rich text editor&rpar; Svelte view layer](https://nathanfaucett.github.io/svelte-slate/)
-- [Do Svidaniya, Igor, and Thank You for Nginx](https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/)
+- [Do svidaniya, Igor, and thank you for Nginx](https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/)
 - [Paperspace &lpar;YC W15&rpar; is hiring engineers to build a next-gen cloud](https://www.paperspace.com/careers#open-positions)
-- [Google: The harmful consequences of Congress’s anti-tech bills](https://blog.google/outreach-initiatives/public-policy/the-harmful-consequences-of-congresss-anti-tech-bills/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
