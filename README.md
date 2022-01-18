@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn the workings of Git, not just the commands&lpar;2021&rpar;](https://developer.ibm.com/tutorials/d-learn-workings-git/)
-- [Show HN: Life calendar – use the concept of Momento Mori to embrace every week](https://life-cal.com)
-- [Ask HN: What is your system for backing up family photos and video?](https://news.ycombinator.com/item?id=29978099)
-- [Why It’s Great to Be a Consultant](https://zwischenzugs.com/2022/01/17/why-its-great-to-be-a-consultant/)
-- [Mux &lpar;YC W16&rpar; is hiring across the board to build the future of video infra](https://mux.com/jobs?hnj=future)
+- [What is the ‘range’ of a number type?](https://lemire.me/blog/2022/01/17/what-is-the-range-of-a-number-type/)
+- [The Rise of A.I. Fighter Pilots](https://www.newyorker.com/magazine/2022/01/24/the-rise-of-ai-fighter-pilots)
+- [No Place to Hide – U.K. campaign against end-to-encryption encryption](https://noplacetohide.org.uk/)
+- [No Hello &lpar;2013&rpar;](https://www.nohello.com/)
+- [Microsoft to Acquire Activision Blizzard](https://news.microsoft.com/2022/01/14/__trashed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
