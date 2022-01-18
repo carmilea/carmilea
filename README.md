@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the ‘range’ of a number type?](https://lemire.me/blog/2022/01/17/what-is-the-range-of-a-number-type/)
-- [The Rise of A.I. Fighter Pilots](https://www.newyorker.com/magazine/2022/01/24/the-rise-of-ai-fighter-pilots)
-- [No Place to Hide – U.K. campaign against end-to-encryption encryption](https://noplacetohide.org.uk/)
-- [No Hello &lpar;2013&rpar;](https://www.nohello.com/)
-- [Microsoft to Acquire Activision Blizzard](https://news.microsoft.com/2022/01/14/__trashed/)
+- [The Intel Split](https://stratechery.com/2022/the-intel-split/)
+- [ID systems analysed: e-Estonia &lpar;X-Road&rpar;](https://privacyinternational.org/case-study/4737/id-systems-analysed-e-estonia-x-road)
+- [Launch HN: Fable &lpar;YC W21&rpar; – Collaborate on product specs, sync to issue trackers](https://news.ycombinator.com/item?id=29980162)
+- [Show HN: Polls for WhatsApp Groups](https://polls.fr)
+- [Farming Co. Says John Deere Is Monopolizing Repair Market](https://www.law360.com/articles/1454988/farming-co-says-john-deere-is-monopolizing-repair-market)
 <!-- BLOG-POST-LIST:END -->
 
 ---
