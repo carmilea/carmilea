@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Building without heating: how to build homes with virtually no heating &lpar;2020&rpar;](https://archipro.co.nz/articles/architecture/building-without-heating-how-to-build-warm-comfortable-homes-with-virtually-no-heating-archipro)
-- [Top VS Code Extensions you need for Web Development in 2022](https://creativedesignsguru.com/vscode-extensions-web-developers/)
+- [Chrome Banned “YouTube Rabbit Hole” Extension](https://chrome.google.com/webstore/detail/nlddakjbmpidooplakalfoogdincflfh)
+- [The surprising ways that Victorians flirted](https://www.bbc.com/culture/article/20220114-the-surprising-ways-that-victorians-flirted)
+- [How to build homes with virtually no heating &lpar;2020&rpar;](https://archipro.co.nz/articles/architecture/building-without-heating-how-to-build-warm-comfortable-homes-with-virtually-no-heating-archipro)
 - [Kakoune Code Editor](https://kakoune.org/)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=29974622)
-- [U.S. FAA clears 45% of commercial plane fleet after 5G deployed](https://www.reuters.com/business/aerospace-defense/us-faa-oks-45-commercial-airplane-fleet-operations-after-5g-deployment-2022-01-16/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
