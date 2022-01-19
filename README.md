@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mid air collision of two aircrafts taking off simultaneously averted in India](https://www.thehindu.com/news/national/mid-air-collision-between-two-aircraft-averted-at-kempegowda-international-airport-on-january-7/article38290778.ece)
+- [Gorillas: Special offer – unicorn slices, 150g &lpar;2021&rpar;](https://zerforschung.org/posts/gorillas-en/)
 - [Bitwarden – The Most Trusted Open Source Password Manager for Business](https://bitwarden.com/)
+- [Pijul 1.0 Beta](https://pijul.org/posts/2022-01-08-beta/)
 - [How to Prevent the Next Heartbleed](https://dwheeler.com/essays/heartbleed.html)
-- [An open letter on E.O. Wilson&#39;s legacy](https://razib.substack.com/p/setting-the-record-straight-open)
-- [Add 10 GbE to your system with an M.2 2280 module](https://www.cnx-software.com/2022/01/19/10-gbe-m-2-module-innodisk-egpl-t101/)
-- [Opensubtitles.org breached – Email addresses, IP addresses, Passwords, Usernames](https://forum.opensubtitles.org/viewtopic.php?t=17685)
 <!-- BLOG-POST-LIST:END -->
 
 ---
