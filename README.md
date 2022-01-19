@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to Prevent the Next Heartbleed](https://dwheeler.com/essays/heartbleed.html)
 - [An open letter on E.O. Wilson&#39;s legacy](https://razib.substack.com/p/setting-the-record-straight-open)
-- [Arm Predicts Stagnation If Nvidia Deal Fails](https://www.eetimes.com/arm-predicts-stagnation-if-nvidia-deal-fails/)
 - [Add 10 GbE to your system with an M.2 2280 module](https://www.cnx-software.com/2022/01/19/10-gbe-m-2-module-innodisk-egpl-t101/)
 - [Opensubtitles.org breached – Email addresses, IP addresses, Passwords, Usernames](https://forum.opensubtitles.org/viewtopic.php?t=17685)
+- [When tracking your period lets companies track you](https://www.npr.org/2021/12/29/1068930998/when-tracking-your-period-lets-companies-track-you)
 <!-- BLOG-POST-LIST:END -->
 
 ---
