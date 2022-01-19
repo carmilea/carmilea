@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When tracking your period lets companies track you](https://www.npr.org/2021/12/29/1068930998/when-tracking-your-period-lets-companies-track-you)
 - [How to put bad habits to good use](https://www.theguardian.com/lifeandstyle/2022/jan/01/be-bad-better-from-anger-to-laziness-how-to-put-your-worst-habits-to-good-use)
 - [The Native American population more than doubled since 2000](https://usafacts.org/articles/how-the-native-american-population-changed-since-the-last-census/)
 - [BCHS: OpenBSD, C, httpd and SQLite web stack](https://learnbchs.org/index.html)
 - [Dinosaur food: 100M year old foods we still eat today](https://borischerny.com/food/2022/01/17/Dinosaur-food.html)
-- [In place of a legal notice, here is a blessing](https://github.com/sqlite/sqlite/blob/master/src/main.c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
