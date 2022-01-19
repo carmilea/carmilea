@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EU planning to start their own DNS infrastructure](https://hadea.ec.europa.eu/calls-proposals/equipping-backbone-networks-high-performance-and-secure-dns-resolution-infrastructures-works_hr#pojedinosti)
+- [Google Analytics declared illegal in the EU](https://tutanota.com/blog/posts/google-analytics/)
 - [Underground Cellar &lpar;YC W15&rpar; Is Hiring a Senior Product Manager](https://jobs.lever.co/undergroundcellar/24adbf67-5ea8-4bff-9a50-8f7714985f4b)
 - [Craig Wright suing developers to forcibly give him access to internet coins](https://www.theregister.com/2022/01/19/craig_wright_bitcoin_sv_high_court_sueball/)
 - [Show HN: A simple tool to help filter recruiter spam](https://filteredreduced.dev/)
-- [Mid air collision of two aircrafts taking off simultaneously averted in India](https://www.thehindu.com/news/national/mid-air-collision-between-two-aircraft-averted-at-kempegowda-international-airport-on-january-7/article38290778.ece)
-- [Discovering a security vulnerability in a major grocery delivery platform](https://zerforschung.org/posts/gorillas-en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
