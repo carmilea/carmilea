@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Hebrew Wordle](https://wordleheb.web.app/)
-- [Equipping backbone networks with DNS resolution infrastructures](https://hadea.ec.europa.eu/calls-proposals/equipping-backbone-networks-high-performance-and-secure-dns-resolution-infrastructures-works_en)
-- [Underground Cellar &lpar;YC W15&rpar; Is Hiring a Senior Product Manager](https://jobs.lever.co/undergroundcellar/24adbf67-5ea8-4bff-9a50-8f7714985f4b)
-- [Craig Wright suing developers to forcibly give him access to internet coins](https://www.theregister.com/2022/01/19/craig_wright_bitcoin_sv_high_court_sueball/)
-- [Show HN: A simple tool to help filter recruiter spam](https://filteredreduced.dev/)
+- [mRNA Boosters Don’t Block Omicron, South African Study Shows](https://www.bloombergquint.com/business/mrna-boosters-don-t-block-omicron-south-african-study-shows)
+- [Meta &#39;most reluctant&#39; to work with government: Home Affairs](https://www.innovationaus.com/meta-most-reluctant-to-work-with-government-home-affairs/)
+- [Launch HN: Joon &lpar;YC W22&rpar; – A mobile game that teaches kids to build good habits](https://www.joonapp.io/)
+- [Show HN: Isgoogleanalyticsillegal.com](https://isgoogleanalyticsillegal.com/)
+- [1Password Has Raised $620M](https://blog.1password.com/future-of-1password/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
