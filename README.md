@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Kills YouTube Originals](https://arstechnica.com/gadgets/2022/01/google-kills-youtube-originals-its-original-video-content-group/)
-- [Nine-year-old kids are launching DDoS attacks against schools](https://www.bitdefender.com/blog/hotforsecurity/nine-year-old-kids-are-launching-ddos-attacks-against-schools/)
-- [Starlink Satellites Are Photo Bombing Astronomy Images](https://www.pcmag.com/news/starlink-satellites-are-photo-bombing-astronomy-images)
-- [I automated my job over a year ago and haven&#39;t told anyone](https://old.reddit.com/r/antiwork/comments/s2igq9/i_automated_my_job_over_a_year_ago_and_havent/)
-- [Meta &#39;most reluctant&#39; to work with government: Home Affairs](https://www.innovationaus.com/meta-most-reluctant-to-work-with-government-home-affairs/)
+- [Atomic &lpar;YC S20&rpar; Is Hiring Senior Back End Engineers &lpar;Golang&rpar;](https://www.ycombinator.com/companies/atomic/jobs/YGfhkDP-senior-backend-engineer-golang)
+- [Why static languages suffer from complexity](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity#)
+- [Show HN: A better way to timeblock your day](https://taskablehq.com/features/timeblock)
+- [How to securely encrypt a file with an insecure password in Rust](https://kerkour.com/rust-file-encryption-chacha20poly1305-argon2/)
+- [Eviction Notice Downloads Soar After Federal Moratorium Ends](https://www.lawdistrict.com/articles/eviction-notice-soar-after-federal-moratorium-ends)
 <!-- BLOG-POST-LIST:END -->
 
 ---
