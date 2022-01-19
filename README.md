@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [mRNA Boosters Don’t Block Omicron, South African Study Shows](https://www.bloombergquint.com/business/mrna-boosters-don-t-block-omicron-south-african-study-shows)
+- [Google Kills YouTube Originals](https://arstechnica.com/gadgets/2022/01/google-kills-youtube-originals-its-original-video-content-group/)
+- [Nine-year-old kids are launching DDoS attacks against schools](https://www.bitdefender.com/blog/hotforsecurity/nine-year-old-kids-are-launching-ddos-attacks-against-schools/)
+- [Starlink Satellites Are Photo Bombing Astronomy Images](https://www.pcmag.com/news/starlink-satellites-are-photo-bombing-astronomy-images)
+- [I automated my job over a year ago and haven&#39;t told anyone](https://old.reddit.com/r/antiwork/comments/s2igq9/i_automated_my_job_over_a_year_ago_and_havent/)
 - [Meta &#39;most reluctant&#39; to work with government: Home Affairs](https://www.innovationaus.com/meta-most-reluctant-to-work-with-government-home-affairs/)
-- [Launch HN: Joon &lpar;YC W22&rpar; – A mobile game that teaches kids to build good habits](https://www.joonapp.io/)
-- [Show HN: Isgoogleanalyticsillegal.com](https://isgoogleanalyticsillegal.com/)
-- [1Password Has Raised $620M](https://blog.1password.com/future-of-1password/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
