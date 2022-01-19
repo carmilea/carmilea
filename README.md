@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Underground Cellar &lpar;YC W15&rpar; Is Hiring a Senior Product Manager](https://jobs.lever.co/undergroundcellar/24adbf67-5ea8-4bff-9a50-8f7714985f4b)
+- [Craig Wright suing developers to forcibly give him access to internet coins](https://www.theregister.com/2022/01/19/craig_wright_bitcoin_sv_high_court_sueball/)
+- [Show HN: A simple tool to help filter recruiter spam](https://filteredreduced.dev/)
 - [Mid air collision of two aircrafts taking off simultaneously averted in India](https://www.thehindu.com/news/national/mid-air-collision-between-two-aircraft-averted-at-kempegowda-international-airport-on-january-7/article38290778.ece)
-- [Gorillas: Special offer – unicorn slices, 150g &lpar;2021&rpar;](https://zerforschung.org/posts/gorillas-en/)
-- [Bitwarden – The Most Trusted Open Source Password Manager for Business](https://bitwarden.com/)
-- [Pijul 1.0 Beta](https://pijul.org/posts/2022-01-08-beta/)
-- [How to Prevent the Next Heartbleed](https://dwheeler.com/essays/heartbleed.html)
+- [Discovering a security vulnerability in a major grocery delivery platform](https://zerforschung.org/posts/gorillas-en/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
