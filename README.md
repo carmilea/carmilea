@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to put bad habits to good use](https://www.theguardian.com/lifeandstyle/2022/jan/01/be-bad-better-from-anger-to-laziness-how-to-put-your-worst-habits-to-good-use)
+- [The Native American population more than doubled since 2000](https://usafacts.org/articles/how-the-native-american-population-changed-since-the-last-census/)
 - [BCHS: OpenBSD, C, httpd and SQLite web stack](https://learnbchs.org/index.html)
 - [Dinosaur food: 100M year old foods we still eat today](https://borischerny.com/food/2022/01/17/Dinosaur-food.html)
-- [NASA: Tonga blast was 10 megatons, more powerful than a nuclear bomb](https://www.npr.org/2022/01/18/1073800454/nasa-scientists-estimate-tonga-blast-at-10-megatons)
-- [Direct conversion of CO2 to solid carbon by Gallium-based liquid metals](https://pubs.rsc.org/en/content/articlelanding/2022/ee/d1ee03283f)
-- [Port of Jak and Daxter. 99% written in GOAL, custom Lisp language by Naughty Dog](https://github.com/water111/jak-project)
+- [In place of a legal notice, here is a blessing](https://github.com/sqlite/sqlite/blob/master/src/main.c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
