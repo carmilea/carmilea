@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Old Music Killing New Music?](https://tedgioia.substack.com/p/is-old-music-killing-new-music)
+- [Ask HN: Burned Out. What Now?](https://news.ycombinator.com/item?id=30000069)
+- [Forage &lpar;YC S21&rpar; Is Hiring a Software Engineers](https://www.ycombinator.com/companies/forage-2/jobs/lpQNgvs-software-engineer)
+- [The truth about starting with microservices](https://arnoldgalovics.com/truth-about-microservices/)
 - [No-code workflows for vector search](https://neuml.github.io/txtai/workflow/)
 - [Hotcaml: An OCaml interpreter with watching and reloading](https://github.com/let-def/hotcaml)
-- [Dendron: A personal knowledge management &lpar;PKM&rpar; solution built on VS Code](https://www.dendron.so//)
-- [A Simple Math Equation Can Transform Your Productivity](https://nextbigideaclub.com/magazine/simple-math-equation-can-transform-productivity/31950/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
