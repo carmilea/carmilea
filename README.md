@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BCHS: OpenBSD, C, httpd and SQLite web stack](https://learnbchs.org/index.html)
+- [Dinosaur food: 100M year old foods we still eat today](https://borischerny.com/food/2022/01/17/Dinosaur-food.html)
+- [NASA: Tonga blast was 10 megatons, more powerful than a nuclear bomb](https://www.npr.org/2022/01/18/1073800454/nasa-scientists-estimate-tonga-blast-at-10-megatons)
 - [Direct conversion of CO2 to solid carbon by Gallium-based liquid metals](https://pubs.rsc.org/en/content/articlelanding/2022/ee/d1ee03283f)
 - [Port of Jak and Daxter. 99% written in GOAL, custom Lisp language by Naughty Dog](https://github.com/water111/jak-project)
-- [Myths about Social Media](https://twitter.com/M_B_Petersen/status/1483457679800651787)
-- [Wine 7.0](https://www.winehq.org/announce/7.0)
-- [Do svidaniya, Igor, and thank you for Nginx](https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
