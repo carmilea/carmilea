@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [AI could end foreign-language subtitles](https://www.axios.com/artificial-intelligence-voice-dubbing-synthetic-14bfb3c6-99db-4406-920d-91b37d00a99a.html)
-- [Millionaires group calls for wealth tax at virtual Davos](https://www.reuters.com/business/millionaires-group-calls-wealth-tax-virtual-davos-2022-01-19/)
+- [Turning a GitHub Page into a Progressive Web App](https://christianheilmann.com/2022/01/13/turning-a-github-page-into-a-progressive-web-app/)
 - [Ask HN: Burned Out. What Now?](https://news.ycombinator.com/item?id=30000069)
 - [Forage &lpar;YC S21&rpar; Is Hiring a Software Engineers](https://www.ycombinator.com/companies/forage-2/jobs/lpQNgvs-software-engineer)
 - [Starting with microservices](https://arnoldgalovics.com/truth-about-microservices/)
+- [Hotcaml: An OCaml interpreter with watching and reloading](https://github.com/let-def/hotcaml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
