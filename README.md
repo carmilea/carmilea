@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Comcast Shot Themselves in the Foot with MTA-STS](https://www.agwa.name/blog/post/comcast_shot_themselves_in_the_foot_with_mta-sts)
+- [IRS Will Soon Require Selfies for Online Access](https://krebsonsecurity.com/2022/01/irs-will-soon-require-selfies-for-online-access/)
+- [‘G Suite legacy free’ users must start paying](https://9to5google.com/2022/01/19/g-suite-legacy-free-edition/)
 - [Atomic &lpar;YC S20&rpar; Is Hiring Senior Back End Engineers &lpar;Golang&rpar;](https://www.ycombinator.com/companies/atomic/jobs/YGfhkDP-senior-backend-engineer-golang)
 - [Why static languages suffer from complexity](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity#)
-- [Show HN: A better way to timeblock your day](https://taskablehq.com/features/timeblock)
-- [How to securely encrypt a file with an insecure password in Rust](https://kerkour.com/rust-file-encryption-chacha20poly1305-argon2/)
-- [Eviction Notice Downloads Soar After Federal Moratorium Ends](https://www.lawdistrict.com/articles/eviction-notice-soar-after-federal-moratorium-ends)
 <!-- BLOG-POST-LIST:END -->
 
 ---
