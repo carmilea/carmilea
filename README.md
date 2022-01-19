@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Old Music Killing New Music?](https://tedgioia.substack.com/p/is-old-music-killing-new-music)
+- [No-code workflows for vector search](https://neuml.github.io/txtai/workflow/)
+- [Hotcaml: An OCaml interpreter with watching and reloading](https://github.com/let-def/hotcaml)
+- [Dendron: A personal knowledge management &lpar;PKM&rpar; solution built on VS Code](https://www.dendron.so//)
 - [A Simple Math Equation Can Transform Your Productivity](https://nextbigideaclub.com/magazine/simple-math-equation-can-transform-productivity/31950/)
-- [Google kills free G Suite / Workspace versions for existing customers](https://support.google.com/a/answer/2855120?hl=en)
-- [Comcast Shot Themselves in the Foot with MTA-STS](https://www.agwa.name/blog/post/comcast_shot_themselves_in_the_foot_with_mta-sts)
-- [IRS Will Soon Require Selfies for Online Access](https://krebsonsecurity.com/2022/01/irs-will-soon-require-selfies-for-online-access/)
-- [Atomic &lpar;YC S20&rpar; Is Hiring Senior Back End Engineers &lpar;Golang&rpar;](https://www.ycombinator.com/companies/atomic/jobs/YGfhkDP-senior-backend-engineer-golang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
