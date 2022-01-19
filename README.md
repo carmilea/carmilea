@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Direct conversion of CO2 to solid carbon by Gallium-based liquid metals](https://pubs.rsc.org/en/content/articlelanding/2022/ee/d1ee03283f)
+- [Port of Jak and Daxter. 99% written in GOAL, custom Lisp language by Naughty Dog](https://github.com/water111/jak-project)
 - [Myths about Social Media](https://twitter.com/M_B_Petersen/status/1483457679800651787)
 - [Wine 7.0](https://www.winehq.org/announce/7.0)
-- [Show HN: SlateJS&lpar;rich text editor&rpar; Svelte view layer](https://nathanfaucett.github.io/svelte-slate/)
 - [Do svidaniya, Igor, and thank you for Nginx](https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/)
-- [Paperspace &lpar;YC W15&rpar; is hiring engineers to build a next-gen cloud](https://www.paperspace.com/careers#open-positions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
