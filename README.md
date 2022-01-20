@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Intuition Is a “Superpower” Representative of the Highest Forms of Intelligence](https://thepulse.one/2022/01/14/intuition-is-a-superpower-representing-one-of-the-highest-forms-of-intelligence/)
-- [Bad Emacs Advice](https://www.masteringemacs.org/article/bad-emacs-advice)
-- [Motorola 68k Application Binary Interface &lpar;ABI&rpar;](https://m680x0.github.io/doc/abi.html)
-- [How to grow monosodium glutamate &lpar;MSG&rpar; crystals](https://crystalverse.com/msg-crystals/)
-- [Streak &lpar;YC W22&rpar; is hiring front end engineering roles](https://www.streak.com/careers/product-engineer)
+- [Crypto.com accounts had unauthorized withdrawals](https://crypto.com/product-news/crypto-com-security-report-next-steps)
+- [Our Take on NFTs](https://www.jbr-holdings.com/post/our-take-on-nfts)
+- [Pine64 should re-evaluate their community priorities](https://drewdevault.com/2022/01/18/Pine64s-weird-priorities.html)
+- [Patents are out of control, and they’re hurting innovation &lpar;2017&rpar;](https://www.learnliberty.org/blog/patents-are-out-of-control-and-theyre-hurting-innovation/)
+- [Topic-Oriented Authoring &lpar;2010&rpar;](https://norman.walsh.name/2007/02/05/painting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
