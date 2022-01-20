@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Can the cheapest long term data storage be gold?](https://www.totenpass.com/)
 - [Dominant languages can spread even without coercion](https://www.economist.com/books-and-arts/2022/01/15/dominant-languages-can-spread-even-without-coercion)
 - [Dietary self-monitoring &lpar;Calorie Counting&rpar; doesn&#39;t increase eating disorder risk](https://pubmed.ncbi.nlm.nih.gov/34427188/)
 - [Ben Stiller’s New Series Is a Sci-Fi Take on Office Space, See the Trailer](https://www.giantfreakinrobot.com/ent/ben-stiller-severance.html)
 - [The QT Timebomb](https://fedguy.com/the-qt-timebomb/)
-- [Zettelkasten – Luhmann Style](https://github.com/Zettelkasten-Team/Zettelkasten)
 <!-- BLOG-POST-LIST:END -->
 
 ---
