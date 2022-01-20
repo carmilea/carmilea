@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Music is second worldwide with 15% market share with Spotify first at 31%](https://www.midiaresearch.com/blog/music-subscriber-market-shares-q2-2021)
-- [G Suite legacy free edition is finally over](https://support.google.com/a/answer/60217?hl=en)
-- [The Most Backdoor-Looking Bug I’ve Ever Seen &lpar;2021&rpar;](https://words.filippo.io/dispatches/telegram-ecdh/)
-- [Is screen scraping illegal? AmericanAirlines suing TPG &lpar;The Points Guy&rpar; over app](https://viewfromthewing.com/american-airlines-and-the-points-guy-are-suing-each-other/)
-- [Yes Hello](https://yeshello.org/)
+- [Reverie Labs &lpar;YC W18&rpar; Is Hiring Senior Software Engineers to Tackle Cancer](https://www.reverielabs.com/careers)
+- [Show HN: Get latest replies to an HN user](https://github.com/ggerganov/hnreplies)
+- [U.S. Senate Panel Approves Antitrust Bill That Would Allow Sideloading](https://www.macrumors.com/2022/01/20/senate-panel-sideloading-bill-advances/)
+- [Roblox October Outage Postmortem](https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/)
+- [Music subscriber market shares Q2 2021](https://www.midiaresearch.com/blog/music-subscriber-market-shares-q2-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
