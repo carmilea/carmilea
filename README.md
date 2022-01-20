@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook versus The BMJ: when fact checking goes wrong](https://www.bmj.com/content/376/bmj.o95)
 - [Von Neumann, Einstein, Morgenstern, Morse and Lefschetz &lpar;1952&rpar;](https://www.privatdozent.co/p/privatdozent-photo-edition-4)
-- [A bit on CIA funded propaganda ops, 2016-present](https://declassifieduk.org/cia-sidekick-gives-2-6m-to-uk-media-groups/)
+- [AWS Service Terms: the clause 42.10](https://aws.amazon.com/aispl/service-terms/)
+- [‘CIA sidekick’ gives £2.6M to U.K. media groups](https://declassifieduk.org/cia-sidekick-gives-2-6m-to-uk-media-groups/)
 - [Can artificially altered clouds save the great barrier reef?](https://www.nature.com/articles/d41586-021-02290-3)
-- [Computer Scientists Eliminate Pesky Quantum Computations](https://www.quantamagazine.org/computer-scientists-eliminate-pesky-quantum-computations-20220119/)
-- [Make Front End Shit Again](https://makefrontendshitagain.party/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
