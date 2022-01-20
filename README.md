@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook versus The BMJ: when fact checking goes wrong](https://www.bmj.com/content/376/bmj.o95)
-- [A website hosted on a floppy disk &lpar;Be patient while it&#39;s loading!&rpar;](https://old.bigcat.space/)
-- [SUSE announces new distro for those who miss the old CentOS: Liberty Linux](https://www.theregister.com/2022/01/20/suse_liberty_linux/)
-- [Von Neumann, Einstein, Morgenstern, Morse and Lefschetz &lpar;1952&rpar;](https://www.privatdozent.co/p/privatdozent-photo-edition-4)
-- [‘CIA sidekick’ gives £2.6M to U.K. media groups](https://declassifieduk.org/cia-sidekick-gives-2-6m-to-uk-media-groups/)
+- [Ask HN: What is your home networking setup?](https://news.ycombinator.com/item?id=30007856)
+- [Streak &lpar;YC W22&rpar; is hiring front end engineering roles](https://www.streak.com/careers/product-engineer)
+- [Morello research program hits milestone with hardware now available for testing](https://www.arm.com/company/news/2022/01/morello-research-program-hits-major-milestone-with-hardware-now-available-for-testing)
+- [Amazon’s DynamoDB – 10 years later](https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later)
+- [More people died of superbacteria in 2019 than HIV or malaria, study suggests](https://edition.cnn.com/2022/01/19/health/bacterial-antimicrobial-resistance/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
