@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“The Eyes Have It” by Phillip K. Dick](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
+- [Putin’s Challenge to Western Hegemony](https://adamtooze.com/2022/01/12/chartbook-68-putins-challenge-to-western-hegemony-the-2022-edition/)
 - [Can the cheapest long term data storage be gold?](https://www.totenpass.com/)
 - [Dominant languages can spread even without coercion](https://www.economist.com/books-and-arts/2022/01/15/dominant-languages-can-spread-even-without-coercion)
 - [Dietary self-monitoring &lpar;Calorie Counting&rpar; doesn&#39;t increase eating disorder risk](https://pubmed.ncbi.nlm.nih.gov/34427188/)
-- [Ben Stiller’s New Series Is a Sci-Fi Take on Office Space, See the Trailer](https://www.giantfreakinrobot.com/ent/ben-stiller-severance.html)
-- [The QT Timebomb](https://fedguy.com/the-qt-timebomb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
