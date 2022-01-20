@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Texas Electric Grid Failure Was a Warm-Up](https://www.texasmonthly.com/news-politics/texas-electric-grid-failure-warm-up/)
 - [“The Eyes Have It” by Phillip K. Dick](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
-- [Putin’s Challenge to Western Hegemony](https://adamtooze.com/2022/01/12/chartbook-68-putins-challenge-to-western-hegemony-the-2022-edition/)
 - [Can the cheapest long term data storage be gold?](https://www.totenpass.com/)
 - [Dominant languages can spread even without coercion](https://www.economist.com/books-and-arts/2022/01/15/dominant-languages-can-spread-even-without-coercion)
 - [Dietary self-monitoring &lpar;Calorie Counting&rpar; doesn&#39;t increase eating disorder risk](https://pubmed.ncbi.nlm.nih.gov/34427188/)
