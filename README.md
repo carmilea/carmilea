@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [No Amount of Alcohol Is Good for the Heart, Says World Heart Federation](https://world-heart-federation.org/news/no-amount-of-alcohol-is-good-for-the-heart-says-world-heart-federation/)
+- [NBA Metaverse Partner Terminates Relationship, Threatens Reporters Covering Deal](https://defector.com/metaverse-company-blames-unlikely-third-party-for-recent-misfortunes-following-termination-of-76ers-partnership/)
 - [Crypto.com accounts had unauthorized withdrawals](https://crypto.com/product-news/crypto-com-security-report-next-steps)
-- [Our Take on NFTs](https://www.jbr-holdings.com/post/our-take-on-nfts)
 - [Pine64 should re-evaluate their community priorities](https://drewdevault.com/2022/01/18/Pine64s-weird-priorities.html)
-- [Patents are out of control, and they’re hurting innovation &lpar;2017&rpar;](https://www.learnliberty.org/blog/patents-are-out-of-control-and-theyre-hurting-innovation/)
-- [Topic-Oriented Authoring &lpar;2010&rpar;](https://norman.walsh.name/2007/02/05/painting)
+- [Profound CTO Learnings of 2021](https://theventury.com/blog/leadership-learnings-of-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
