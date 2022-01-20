@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Facebook versus The BMJ: when fact checking goes wrong](https://www.bmj.com/content/376/bmj.o95)
+- [A website hosted on a floppy disk &lpar;Be patient while it&#39;s loading!&rpar;](https://old.bigcat.space/)
+- [SUSE announces new distro for those who miss the old CentOS: Liberty Linux](https://www.theregister.com/2022/01/20/suse_liberty_linux/)
 - [Von Neumann, Einstein, Morgenstern, Morse and Lefschetz &lpar;1952&rpar;](https://www.privatdozent.co/p/privatdozent-photo-edition-4)
-- [AWS Service Terms: the clause 42.10](https://aws.amazon.com/aispl/service-terms/)
 - [‘CIA sidekick’ gives £2.6M to U.K. media groups](https://declassifieduk.org/cia-sidekick-gives-2-6m-to-uk-media-groups/)
-- [Can artificially altered clouds save the great barrier reef?](https://www.nature.com/articles/d41586-021-02290-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
