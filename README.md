@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Long, Slow Process of Carcinogenesis](https://www.science.org/content/blog-post/long-slow-process-carcinogenesis)
+- [JSON Awareness in the Curl Tool](https://github.com/curl/curl/wiki/JSON)
+- [Adding unusable RAM for tax reasons](https://www.cpcwiki.eu/index.php/472)
 - [Dover &lpar;YC S19&rpar; just raised $20m and is hiring for all roles](https://dover.com/careers)
-- [Show HN: Make better food choices when grocery shopping](https://www.siftfoodlabels.com/features/browser-extension)
-- [Porting USB applications to the web. Part 1: libusb](https://web.dev/porting-libusb-to-webusb/)
-- [Best Practices for Deploying MinIO in Virtualized Environments](https://blog.min.io/best-practices-minio-virtualized/)
-- [NaturalDocs: Plain English Code Documentation](https://www.naturaldocs.org/getting_started/documenting_your_code/)
+- [cURL to add native JSON support](https://curl.se/mail/archive-2022-01/0043.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
