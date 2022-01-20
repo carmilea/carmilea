@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Music is second worldwide with 15% market share with Spotify first at 31%](https://www.midiaresearch.com/blog/music-subscriber-market-shares-q2-2021)
+- [G Suite legacy free edition is finally over](https://support.google.com/a/answer/60217?hl=en)
+- [The Most Backdoor-Looking Bug I’ve Ever Seen &lpar;2021&rpar;](https://words.filippo.io/dispatches/telegram-ecdh/)
 - [Is screen scraping illegal? AmericanAirlines suing TPG &lpar;The Points Guy&rpar; over app](https://viewfromthewing.com/american-airlines-and-the-points-guy-are-suing-each-other/)
-- [Tiny Alabama Town of 1,200 Has Been Overrun by Out Out of Control Police](https://jalopnik.com/this-tiny-alabama-town-of-1-200-has-been-overrun-by-pol-1848389331)
-- [Peloton insiders sold nearly $500M in stock before its big drop](https://www.cnbc.com/2022/01/19/peloton-insiders-sold-nearly-500-million-in-stock-before-its-big-drop-.html)
-- [The Long, Slow Process of Carcinogenesis](https://www.science.org/content/blog-post/long-slow-process-carcinogenesis)
-- [Show HN: AskPaulGraham](https://askpaulgraham.cyclic.app/)
+- [Yes Hello](https://yeshello.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
