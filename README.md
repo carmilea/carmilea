@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is screen scraping illegal? AmericanAirlines suing TPG &lpar;The Points Guy&rpar; over app](https://viewfromthewing.com/american-airlines-and-the-points-guy-are-suing-each-other/)
+- [Tiny Alabama Town of 1,200 Has Been Overrun by Out Out of Control Police](https://jalopnik.com/this-tiny-alabama-town-of-1-200-has-been-overrun-by-pol-1848389331)
+- [Peloton insiders sold nearly $500M in stock before its big drop](https://www.cnbc.com/2022/01/19/peloton-insiders-sold-nearly-500-million-in-stock-before-its-big-drop-.html)
 - [The Long, Slow Process of Carcinogenesis](https://www.science.org/content/blog-post/long-slow-process-carcinogenesis)
-- [JSON Awareness in the Curl Tool](https://github.com/curl/curl/wiki/JSON)
-- [Adding unusable RAM for tax reasons](https://www.cpcwiki.eu/index.php/472)
-- [Dover &lpar;YC S19&rpar; just raised $20m and is hiring for all roles](https://dover.com/careers)
-- [cURL to add native JSON support](https://curl.se/mail/archive-2022-01/0043.html)
+- [Show HN: AskPaulGraham](https://askpaulgraham.cyclic.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
