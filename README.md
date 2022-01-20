@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Spatial Data in Postgres](https://www.sqlshack.com/getting-started-with-spatial-data-in-postgresql/)
-- [Covid-19 vaccines and treatments: we must have raw data, now](https://www.bmj.com/content/376/bmj.o102)
-- [Using 4G LTE wireless modems on a Raspberry Pi](https://www.jeffgeerling.com/blog/2022/using-4g-lte-wireless-modems-on-raspberry-pi)
-- [Reverie Labs &lpar;YC W18&rpar; is hiring senior software engineers to tackle cancer](https://www.reverielabs.com/careers)
-- [Iosevka – Versatile typeface for code, from code](https://typeof.net/Iosevka/)
+- [SICP: JavaScript Edition available for pre-order](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1)
+- [The Ecology of Freedom &lpar;1982&rpar;](https://theanarchistlibrary.org/library/murray-bookchin-the-ecology-of-freedom)
+- [Google Camera randomly changes some QR code URLs on Android 12](https://www.androidpolice.com/google-camera-randomly-changes-some-qr-code-urls-on-android-12/)
+- [Thomas Hobbes’s Leviathan shaped modern politics](https://www.newstatesman.com/culture/books/2022/01/how-thomas-hobbes-shapes-modern-politics)
+- [Tonga volcano eruption created ripples in Earth’s atmosphere](https://www.nature.com/articles/d41586-022-00127-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
