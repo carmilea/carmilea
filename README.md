@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Von Neumann, Einstein, Morgenstern, Morse and Lefschetz &lpar;1952&rpar;](https://www.privatdozent.co/p/privatdozent-photo-edition-4)
+- [A bit on CIA funded propaganda ops, 2016-present](https://declassifieduk.org/cia-sidekick-gives-2-6m-to-uk-media-groups/)
+- [Can artificially altered clouds save the great barrier reef?](https://www.nature.com/articles/d41586-021-02290-3)
 - [Computer Scientists Eliminate Pesky Quantum Computations](https://www.quantamagazine.org/computer-scientists-eliminate-pesky-quantum-computations-20220119/)
 - [Make Front End Shit Again](https://makefrontendshitagain.party/)
-- [Tackling the crisis of care for older people: lessons from India and Japan](https://www.nature.com/articles/d41586-022-00074-x)
-- [Daily Step Count and All-Cause Mortality: A Dose-Response Meta-analysis](https://pubmed.ncbi.nlm.nih.gov/34417979/)
-- [Invisible Hierarchies](https://www.drorpoleg.com/invisible-hierarchies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
