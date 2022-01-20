@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Computer Scientists Eliminate Pesky Quantum Computations](https://www.quantamagazine.org/computer-scientists-eliminate-pesky-quantum-computations-20220119/)
+- [Make Front End Shit Again](https://makefrontendshitagain.party/)
+- [Tackling the crisis of care for older people: lessons from India and Japan](https://www.nature.com/articles/d41586-022-00074-x)
+- [Daily Step Count and All-Cause Mortality: A Dose-Response Meta-analysis](https://pubmed.ncbi.nlm.nih.gov/34417979/)
 - [Invisible Hierarchies](https://www.drorpoleg.com/invisible-hierarchies/)
-- [Number of people on government websites now](https://analytics.usa.gov)
-- [The Texas Electric Grid Failure Was a Warm-Up](https://www.texasmonthly.com/news-politics/texas-electric-grid-failure-warm-up/)
-- [“The Eyes Have It” by Phillip K. Dick &lpar;1953&rpar;](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
-- [Dominant languages can spread even without coercion](https://www.economist.com/books-and-arts/2022/01/15/dominant-languages-can-spread-even-without-coercion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
