@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverie Labs &lpar;YC W18&rpar; Is Hiring Senior Software Engineers to Tackle Cancer](https://www.reverielabs.com/careers)
-- [Show HN: Get latest replies to an HN user](https://github.com/ggerganov/hnreplies)
-- [U.S. Senate Panel Approves Antitrust Bill That Would Allow Sideloading](https://www.macrumors.com/2022/01/20/senate-panel-sideloading-bill-advances/)
-- [Roblox October Outage Postmortem](https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/)
-- [Music subscriber market shares Q2 2021](https://www.midiaresearch.com/blog/music-subscriber-market-shares-q2-2021)
+- [Getting Started with Spatial Data in Postgres](https://www.sqlshack.com/getting-started-with-spatial-data-in-postgresql/)
+- [Covid-19 vaccines and treatments: we must have raw data, now](https://www.bmj.com/content/376/bmj.o102)
+- [Using 4G LTE wireless modems on a Raspberry Pi](https://www.jeffgeerling.com/blog/2022/using-4g-lte-wireless-modems-on-raspberry-pi)
+- [Reverie Labs &lpar;YC W18&rpar; is hiring senior software engineers to tackle cancer](https://www.reverielabs.com/careers)
+- [Iosevka – Versatile typeface for code, from code](https://typeof.net/Iosevka/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
