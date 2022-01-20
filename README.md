@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning a GitHub Page into a Progressive Web App](https://christianheilmann.com/2022/01/13/turning-a-github-page-into-a-progressive-web-app/)
-- [Ask HN: Burned Out. What Now?](https://news.ycombinator.com/item?id=30000069)
-- [Forage &lpar;YC S21&rpar; Is Hiring a Software Engineers](https://www.ycombinator.com/companies/forage-2/jobs/lpQNgvs-software-engineer)
-- [Starting with microservices](https://arnoldgalovics.com/truth-about-microservices/)
-- [Hotcaml: An OCaml interpreter with watching and reloading](https://github.com/let-def/hotcaml)
+- [Google is wrong. Apple’s iMessage is a failure](https://www.macworld.com/article/606152/imessage-google-green-bubbles-sms-rcs.html)
+- [Before wave of train thefts, Union Pacific laid off some of its police force](https://www.lataco.com/union-pacific-theft-police-laid-off/)
+- [What it means to teach gifted learners well](http://www.nagc.org/resources-publications/gifted-education-practices/what-it-means-teach-gifted-learners-well)
+- [Postgres Indexes for Newbies](https://blog.crunchydata.com/blog/postgres-indexes-for-newbies)
+- [AI could end foreign-language subtitles](https://www.axios.com/artificial-intelligence-voice-dubbing-synthetic-14bfb3c6-99db-4406-920d-91b37d00a99a.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
