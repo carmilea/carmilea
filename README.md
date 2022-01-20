@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Invisible Hierarchies](https://www.drorpoleg.com/invisible-hierarchies/)
+- [Number of people on government websites now](https://analytics.usa.gov)
 - [The Texas Electric Grid Failure Was a Warm-Up](https://www.texasmonthly.com/news-politics/texas-electric-grid-failure-warm-up/)
-- [“The Eyes Have It” by Phillip K. Dick](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
-- [Can the cheapest long term data storage be gold?](https://www.totenpass.com/)
+- [“The Eyes Have It” by Phillip K. Dick &lpar;1953&rpar;](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
 - [Dominant languages can spread even without coercion](https://www.economist.com/books-and-arts/2022/01/15/dominant-languages-can-spread-even-without-coercion)
-- [Dietary self-monitoring &lpar;Calorie Counting&rpar; doesn&#39;t increase eating disorder risk](https://pubmed.ncbi.nlm.nih.gov/34427188/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
