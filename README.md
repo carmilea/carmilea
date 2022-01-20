@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [No Amount of Alcohol Is Good for the Heart, Says World Heart Federation](https://world-heart-federation.org/news/no-amount-of-alcohol-is-good-for-the-heart-says-world-heart-federation/)
-- [NBA Metaverse Partner Terminates Relationship, Threatens Reporters Covering Deal](https://defector.com/metaverse-company-blames-unlikely-third-party-for-recent-misfortunes-following-termination-of-76ers-partnership/)
-- [Crypto.com accounts had unauthorized withdrawals](https://crypto.com/product-news/crypto-com-security-report-next-steps)
-- [Pine64 should re-evaluate their community priorities](https://drewdevault.com/2022/01/18/Pine64s-weird-priorities.html)
-- [Profound CTO Learnings of 2021](https://theventury.com/blog/leadership-learnings-of-2021/)
+- [Dover &lpar;YC S19&rpar; just raised $20m and is hiring for all roles](https://dover.com/careers)
+- [Show HN: Make better food choices when grocery shopping](https://www.siftfoodlabels.com/features/browser-extension)
+- [Porting USB applications to the web. Part 1: libusb](https://web.dev/porting-libusb-to-webusb/)
+- [Best Practices for Deploying MinIO in Virtualized Environments](https://blog.min.io/best-practices-minio-virtualized/)
+- [NaturalDocs: Plain English Code Documentation](https://www.naturaldocs.org/getting_started/documenting_your_code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
