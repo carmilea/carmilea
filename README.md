@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What is your home networking setup?](https://news.ycombinator.com/item?id=30007856)
+- [Intuition Is a “Superpower” Representative of the Highest Forms of Intelligence](https://thepulse.one/2022/01/14/intuition-is-a-superpower-representing-one-of-the-highest-forms-of-intelligence/)
+- [Bad Emacs Advice](https://www.masteringemacs.org/article/bad-emacs-advice)
+- [Motorola 68k Application Binary Interface &lpar;ABI&rpar;](https://m680x0.github.io/doc/abi.html)
+- [How to grow monosodium glutamate &lpar;MSG&rpar; crystals](https://crystalverse.com/msg-crystals/)
 - [Streak &lpar;YC W22&rpar; is hiring front end engineering roles](https://www.streak.com/careers/product-engineer)
-- [DynamoDB 10 years later](https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later)
-- [More people died of superbacteria in 2019 than HIV or malaria, study suggests](https://edition.cnn.com/2022/01/19/health/bacterial-antimicrobial-resistance/index.html)
-- [Arm releases experimental CHERI-enabled Morello board](https://www.lightbluetouchpaper.org/2022/01/20/arm-releases-experimental-cheri-enabled-morello-board-as-part-of-187m-ukri-digital-security-by-design-programme/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
