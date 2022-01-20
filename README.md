@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google is wrong. Apple’s iMessage is a failure](https://www.macworld.com/article/606152/imessage-google-green-bubbles-sms-rcs.html)
-- [Before wave of train thefts, Union Pacific laid off some of its police force](https://www.lataco.com/union-pacific-theft-police-laid-off/)
-- [What it means to teach gifted learners well](http://www.nagc.org/resources-publications/gifted-education-practices/what-it-means-teach-gifted-learners-well)
-- [Postgres Indexes for Newbies](https://blog.crunchydata.com/blog/postgres-indexes-for-newbies)
-- [AI could end foreign-language subtitles](https://www.axios.com/artificial-intelligence-voice-dubbing-synthetic-14bfb3c6-99db-4406-920d-91b37d00a99a.html)
+- [Dominant languages can spread even without coercion](https://www.economist.com/books-and-arts/2022/01/15/dominant-languages-can-spread-even-without-coercion)
+- [Dietary self-monitoring &lpar;Calorie Counting&rpar; doesn&#39;t increase eating disorder risk](https://pubmed.ncbi.nlm.nih.gov/34427188/)
+- [Ben Stiller’s New Series Is a Sci-Fi Take on Office Space, See the Trailer](https://www.giantfreakinrobot.com/ent/ben-stiller-severance.html)
+- [The QT Timebomb](https://fedguy.com/the-qt-timebomb/)
+- [Zettelkasten – Luhmann Style](https://github.com/Zettelkasten-Team/Zettelkasten)
 <!-- BLOG-POST-LIST:END -->
 
 ---
