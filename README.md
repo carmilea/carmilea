@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fastmail: As a privacy orientated company,why not strip more header information?](https://news.ycombinator.com/item?id=30019330)
+- [Focalboard open source, self-hosted alternative to Trello, Notion, and Asana](https://github.com/mattermost/focalboard)
 - [The Windows 11 taskbar is an annoying step backward](https://www.pcworld.com/article/549576/the-windows-11-taskbar-is-an-annoying-step-backward.html)
-- [Fly.io – Free Postgres Databases &lpar;and free storage volumes, up to 3GB total&rpar;](https://fly.io/blog/free-postgres/)
+- [Free Postgres Databases](https://fly.io/blog/free-postgres/)
 - [Common Lisp ASDF maintainer considers resignation](https://mailman.common-lisp.net/pipermail/asdf-devel/2022-January/006680.html)
 - [Great Question &lpar;YC W21&rpar; Is Hiring BDR #1](https://careers.greatquestion.co/business-development-representative/en?)
 <!-- BLOG-POST-LIST:END -->
