@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Framework Laptop Embedded Controller &lpar;EC&rpar;](https://github.com/FrameworkComputer/EmbeddedController)
-- [Framework: Open Sourcing Our Firmware](https://frame.work/blog/open-sourcing-our-firmware)
-- [I built my own Sega Genesis &lpar;Mega Drive&rpar; hardware dev kit from scratch](https://nestenius.se/2022/01/18/how-i-built-my-own-sega-mega-drive-hardware-dev-kit-from-scratch/)
-- [Moosend&#39;s “Free Forever” plan no longer free](https://ahoi.dev/moosend-forever-free-accounts/)
-- [Wearable device for noninvasive optical brain imaging](https://spie.org/news/kernel-flow-a-wearable-device-for-noninvasive-optical-brain-imaging?SSO=1)
+- [Cryptocurrency Is a Giant Ponzi Scheme](https://jacobinmag.com/2022/01/cryptocurrency-scam-blockchain-bitcoin-economy-decentralization)
+- [Ask HN: Anyone making a living building desktop applications?](https://news.ycombinator.com/item?id=30027925)
+- [DIY Raspberry Pi Spectrometer Guide](https://github.com/leswright1977/PySpectrometer)
+- [Alphabet&#39;s Calico has begun trials on a molecule for neurovegetative diseases](https://aspenbraininstitute.org/blog-posts/the-miracle-molecule-that-could-treat-brain-injuries-and-boost-your-fading-memory)
+- [How to Make It Easier to Build Semiconductor Factories](https://semiliterate.substack.com/p/no-permits-no-fabs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
