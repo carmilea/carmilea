@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [MySQL to SingleStore demo](https://www.youtube.com/watch?v=MypQY_rDb2g)
 - [Databases and DevOps w/ Rizel Scarlett &lpar;GitHub&rpar;](https://www.youtube.com/watch?v=dSeMOp5lXos)
 - [Procedural SQL &lpar;Part 6 of 6, User-Defined Aggregate Functions&rpar;](https://www.youtube.com/watch?v=u2HTQtDltTs)
 - [Procedural SQL &lpar;Part  5 of 6, Table-Valued Functions&rpar;](https://www.youtube.com/watch?v=uTZYdIRb0aA)
 - [Procedural SQL &lpar;Part  4 of 6, Stored Procedures&rpar;](https://www.youtube.com/watch?v=_uCj63yovtQ)
-- [Procedural SQL &lpar;Part 3 of 6, User Defined Functions&rpar;](https://www.youtube.com/watch?v=MXl0UHtB-58)
 <!-- YOUTUBE:END -->
 
 
