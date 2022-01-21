@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ello &lpar;YC W20&rpar; Is Hiring a Lead Unity Engineer](https://www.ycombinator.com/companies/ello/jobs/26qbW2p-lead-unity-engineer)
+- [Cannabis use produces persistent cognitive impairments](https://www.addictionjournal.org/posts/cannabis-use-produces-persistent-cognitive-impairments)
 - [Focalboard open source, self-hosted alternative to Trello, Notion, and Asana](https://github.com/mattermost/focalboard)
 - [The Windows 11 taskbar is an annoying step backward](https://www.pcworld.com/article/549576/the-windows-11-taskbar-is-an-annoying-step-backward.html)
 - [Free Postgres Databases](https://fly.io/blog/free-postgres/)
-- [Common Lisp ASDF maintainer considers resignation](https://mailman.common-lisp.net/pipermail/asdf-devel/2022-January/006680.html)
-- [Great Question &lpar;YC W21&rpar; Is Hiring BDR #1](https://careers.greatquestion.co/business-development-representative/en?)
 <!-- BLOG-POST-LIST:END -->
 
 ---
