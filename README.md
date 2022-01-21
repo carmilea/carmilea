@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meat Loaf: Bat Out of Hell singer dead at 74](https://www.theguardian.com/music/2022/jan/21/meat-loaf-bat-out-of-hell-singer-dead-at-74)
-- [Ello &lpar;YC W20&rpar; Is Hiring a Lead Unity Engineer](https://www.ycombinator.com/companies/ello/jobs/26qbW2p-lead-unity-engineer)
-- [WebAssembly: The New Kubernetes?](https://wingolog.org/archives/2021/12/13/webassembly-the-new-kubernetes)
-- [Cannabis use produces persistent cognitive impairments: meta review](https://www.addictionjournal.org/posts/cannabis-use-produces-persistent-cognitive-impairments)
-- [Crystal Installs OpenBSD on the PinePhone](https://www.exoticsilicon.com/crystal/pinephone_openbsd)
+- [Tell HN: A Conversation Needs to Be Had over Subscription Software](https://news.ycombinator.com/item?id=30021404)
+- [International Linguistics Olympiad – Sample Problems](https://ioling.org/problems/samples/)
+- [Why Sweden Clears Snow-Covered Walkways Before Roads &lpar;2018&rpar;](https://usa.streetsblog.org/2018/01/24/why-sweden-clears-walkways-before-roads/)
+- [Meat Loaf, &#39;Bat Out Of Hell&#39; singer, has died at 74](https://www.cnn.com/2022/01/21/entertainment/meat-loaf-obit/index.html)
+- [Meta AI: Fist high-performance self-supervised algorithn for multiple modalities](https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
