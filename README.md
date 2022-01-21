@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Windows 11 taskbar is an annoying step backward](https://www.pcworld.com/article/549576/the-windows-11-taskbar-is-an-annoying-step-backward.html)
+- [Jack Dorsey and Marc Andreessen&#39;s Crypto Feud Puts Web3 at Risk](https://www.nytimes.com/2022/01/18/business/dealbook/web3-venture-capital-andreessen.html)
 - [Fly.io – Free Postgres Databases &lpar;and free storage volumes, up to 3GB total&rpar;](https://fly.io/blog/free-postgres/)
 - [Common Lisp ASDF maintainer considers resignation](https://mailman.common-lisp.net/pipermail/asdf-devel/2022-January/006680.html)
 - [Great Question &lpar;YC W21&rpar; Is Hiring BDR #1](https://careers.greatquestion.co/business-development-representative/en?)
-- [Remembering Mark Weiser: Chief Technologist Xerox PARC [pdf]](https://www.roywant.com/cv/papers/pubs/2000-02%20(IEEE%20PCom)%20weiser%20biography%20(print).pdf)
-- [Sir David Cox has died](https://rss.org.uk/news-publication/news-publications/2022/general-news/sir-david-cox-1924-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
