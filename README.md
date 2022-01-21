@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fastmail: As a privacy orientated company,why not strip more header information?](https://news.ycombinator.com/item?id=30019330)
 - [The Windows 11 taskbar is an annoying step backward](https://www.pcworld.com/article/549576/the-windows-11-taskbar-is-an-annoying-step-backward.html)
-- [Jack Dorsey and Marc Andreessen&#39;s Crypto Feud Puts Web3 at Risk](https://www.nytimes.com/2022/01/18/business/dealbook/web3-venture-capital-andreessen.html)
 - [Fly.io – Free Postgres Databases &lpar;and free storage volumes, up to 3GB total&rpar;](https://fly.io/blog/free-postgres/)
 - [Common Lisp ASDF maintainer considers resignation](https://mailman.common-lisp.net/pipermail/asdf-devel/2022-January/006680.html)
 - [Great Question &lpar;YC W21&rpar; Is Hiring BDR #1](https://careers.greatquestion.co/business-development-representative/en?)
