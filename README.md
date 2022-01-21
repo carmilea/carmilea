@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Hetzner announcement: Price changes for servers ordered via the Server Auction](https://news.ycombinator.com/item?id=30022698)
-- [Woman dies seven years after pricking finger in prion research lab](https://www.science.org/content/article/france-issues-moratorium-prion-research-after-fatal-brain-disease-strikes-two-lab)
-- [Starlink satellites hindering detection of near-Earth asteroids, study finds](https://web.archive.org/web/20220120172234/https://www.dailystar.co.uk/news/latest-news/elon-musks-starlink-satellites-hindering-26001740)
-- [Muse &lpar;YC S21&rpar; Is Hiring a Head of Web Graphics](https://jobs.ashbyhq.com/muse/1e73e735-3c63-4131-a04d-ff3c73f3567e?utm_source=w05n35VEGp)
-- [Notepad++ v8.2 Released](https://community.notepad-plus-plus.org/topic/22330/notepad-v8-2-release)
+- [Security vulnerability in Rust standard library](https://blog.rust-lang.org/2022/01/20/cve-2022-21658.html)
+- [StackOverflow: Sunsetting Jobs and Developer Story by April 2022](https://meta.stackoverflow.com/questions/415293/sunsetting-jobs-developer-story)
+- [Download Briar Desktop for Linux](https://briarproject.org/download-briar-desktop/)
+- [Center for Covid Control Tells Workers to Lie About Results,Throw Tests in Trash](https://blockclubchicago.org/2022/01/20/center-for-covid-control-got-124-million-from-feds-while-telling-workers-to-lie-about-results-throw-tests-in-the-trash-ex-employees-say/)
+- [Former Labor Secretary Found What Work Is Like Now](https://jasonstanford.substack.com/p/he-thought-tending-bar-sounded-like)
 <!-- BLOG-POST-LIST:END -->
 
 ---
