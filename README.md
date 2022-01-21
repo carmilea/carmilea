@@ -54,8 +54,8 @@
 - [Tell HN: A Conversation Needs to Be Had over Subscription Software](https://news.ycombinator.com/item?id=30021404)
 - [International Linguistics Olympiad – Sample Problems](https://ioling.org/problems/samples/)
 - [Why Sweden Clears Snow-Covered Walkways Before Roads &lpar;2018&rpar;](https://usa.streetsblog.org/2018/01/24/why-sweden-clears-walkways-before-roads/)
+- [Cannabidiol inhibits SARS-CoV-2 replication through induction of host ER stress](https://www.science.org/doi/10.1126/sciadv.abi6110)
 - [Meat Loaf, &#39;Bat Out Of Hell&#39; singer, has died at 74](https://www.cnn.com/2022/01/21/entertainment/meat-loaf-obit/index.html)
-- [Meta AI: Fist high-performance self-supervised algorithn for multiple modalities](https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
