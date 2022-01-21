@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [FreeBSD Jobs: Arm Compiler and Toolchain Engineer](https://klarasystems.com/careers/arm-compiler-and-toolchain-engineer/)
-- [FalsiScan: Make it look like a PDF has been hand signed and scanned](https://gitlab.com/edouardklein/falsisign)
-- [The revenge of the hot water bottle](https://solar.lowtechmagazine.com/2022/01/the-revenge-of-the-hot-water-bottle.html)
-- [The Revenge of the Hot Water Bottle](https://www.lowtechmagazine.com/2022/01/the-revenge-of-the-hot-water-bottle.html)
-- [Security vulnerability in Rust standard library](https://blog.rust-lang.org/2022/01/20/cve-2022-21658.html)
+- [Rnote – A simple note taking application written in Rust and GTK4](https://github.com/flxzt/rnote)
+- [Binance kept weak money-laundering checks even as it promised tougher compliance](https://www.reuters.com/investigates/special-report/finance-crypto-currency-binance/)
+- [Google Creates Blockchain Unit, Hires New ‘Founding Leader’](https://blockworks.co/google-creates-blockchain-unit-hires-new-founding-leader/)
+- [Git.io no longer accepts new URLs](https://github.blog/changelog/2022-01-11-git-io-no-longer-accepts-new-urls/)
+- [LambdaMART in Depth](https://softwaredoug.com/blog/2022/01/17/lambdamart-in-depth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
