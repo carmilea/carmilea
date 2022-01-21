@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cryptocurrency Is a Giant Ponzi Scheme](https://jacobinmag.com/2022/01/cryptocurrency-scam-blockchain-bitcoin-economy-decentralization)
 - [Ask HN: Anyone making a living building desktop applications?](https://news.ycombinator.com/item?id=30027925)
 - [DIY Raspberry Pi Spectrometer Guide](https://github.com/leswright1977/PySpectrometer)
 - [Alphabet&#39;s Calico has begun trials on a molecule for neurovegetative diseases](https://aspenbraininstitute.org/blog-posts/the-miracle-molecule-that-could-treat-brain-injuries-and-boost-your-fading-memory)
-- [How to Make It Easier to Build Semiconductor Factories](https://semiliterate.substack.com/p/no-permits-no-fabs)
+- [How to make it easier to build semiconductor factories](https://semiliterate.substack.com/p/no-permits-no-fabs)
+- [Hubble captures a black hole that is forming stars, not absorbing them](https://petapixel.com/2022/01/19/hubble-captures-a-black-hole-that-is-forming-stars-not-absorbing-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
