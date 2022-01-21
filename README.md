@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [SICP: JavaScript Edition available for pre-order](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1)
-- [The Ecology of Freedom &lpar;1982&rpar;](https://theanarchistlibrary.org/library/murray-bookchin-the-ecology-of-freedom)
-- [Google Camera randomly changes some QR code URLs on Android 12](https://www.androidpolice.com/google-camera-randomly-changes-some-qr-code-urls-on-android-12/)
-- [Thomas Hobbes’s Leviathan shaped modern politics](https://www.newstatesman.com/culture/books/2022/01/how-thomas-hobbes-shapes-modern-politics)
-- [Tonga volcano eruption created ripples in Earth’s atmosphere](https://www.nature.com/articles/d41586-022-00127-1)
+- [Great Question &lpar;YC W21&rpar; Is Hiring BDR #1](https://careers.greatquestion.co/business-development-representative/en?)
+- [Sir David Cox, 1924-2022](https://rss.org.uk/news-publication/news-publications/2022/general-news/sir-david-cox-1924-2022/)
+- [Make Your Python CLI Tools Pop with Rich](https://hackaday.com/2022/01/19/make-your-python-cli-tools-pop-with-rich/)
+- [70% of startups offer remote work options as hiring heats up, YC data shows](https://news.crunchbase.com/news/remote-work-y-combinator/)
+- [UK is spending £500k on a PR campaign demonising end-to-end encryption](https://www.theregister.com/2022/01/20/no_place_hide_campaign_anti_e2ee_ukgov/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
