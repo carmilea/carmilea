@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Thich Nhat Hanh, Vietnamese Zen Master, Dies at 95](https://tricycle.org/trikedaily/thich-nhat-hanh-dies/)
+- [How bad is QWERTY, really? A review of the literature, such as it is](https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is/)
+- [Google could face class action lawsuit over free G Suite legacy account shutdown](https://www.androidpolice.com/google-gsuite-free-legacy-class-action-investigation/)
+- [Thich Nhat Hanh has died](https://tricycle.org/trikedaily/thich-nhat-hanh-dies/)
+- [Soviet Military Maps of North America and UK](https://www.sovietmaps.com/node/2)
 - [AWS is not a dumb pipe](https://matt-rickard.com/aws-is-not-a-dumb-pipe/)
-- [Consistency Sin](https://furbo.org/2022/01/11/consistency-sin/)
-- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Ask HN: Anyone making a living building desktop applications?](https://news.ycombinator.com/item?id=30027925)
 <!-- BLOG-POST-LIST:END -->
 
 ---
