@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Hetzner announcement: Price changes for servers ordered via the Server Auction](https://news.ycombinator.com/item?id=30022698)
+- [Woman dies seven years after pricking finger in prion research lab](https://www.science.org/content/article/france-issues-moratorium-prion-research-after-fatal-brain-disease-strikes-two-lab)
 - [Starlink satellites hindering detection of near-Earth asteroids, study finds](https://web.archive.org/web/20220120172234/https://www.dailystar.co.uk/news/latest-news/elon-musks-starlink-satellites-hindering-26001740)
 - [Muse &lpar;YC S21&rpar; Is Hiring a Head of Web Graphics](https://jobs.ashbyhq.com/muse/1e73e735-3c63-4131-a04d-ff3c73f3567e?utm_source=w05n35VEGp)
 - [Notepad++ v8.2 Released](https://community.notepad-plus-plus.org/topic/22330/notepad-v8-2-release)
-- [Yemen has lost internet after Saudi-led airstrikes](https://www.npr.org/2022/01/21/1074659054/yemen-has-lost-internet-after-saudi-led-airstrikes)
-- [I Cannot Begin to Tell You How Proficient I Am in Microsoft Word](https://www.newyorker.com/humor/daily-shouts/i-cannot-begin-to-tell-you-how-proficient-i-am-in-microsoft-word)
 <!-- BLOG-POST-LIST:END -->
 
 ---
