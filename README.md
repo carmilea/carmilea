@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wearable device for noninvasive optical brain imaging](https://spie.org/news/kernel-flow-a-wearable-device-for-noninvasive-optical-brain-imaging?SSO=1)
+- [Basis &lpar;YC S21&rpar; Is hiring devs to refactor the modern data stack](https://www.notion.so/get-basis/Work-at-Basis-07bb5d7502a043b9b861f50ef24b45d8)
+- [Intel to invest up to $100 bln in Ohio chip plants](https://www.reuters.com/technology/intel-plans-new-chip-manufacturing-site-ohio-report-2022-01-21/)
 - [Rnote – A simple note taking application written in Rust and GTK4](https://github.com/flxzt/rnote)
 - [Binance kept weak money-laundering checks even as it promised tougher compliance](https://www.reuters.com/investigates/special-report/finance-crypto-currency-binance/)
-- [Google Creates Blockchain Unit, Hires New ‘Founding Leader’](https://blockworks.co/google-creates-blockchain-unit-hires-new-founding-leader/)
-- [Git.io no longer accepts new URLs](https://github.blog/changelog/2022-01-11-git-io-no-longer-accepts-new-urls/)
-- [LambdaMART in Depth](https://softwaredoug.com/blog/2022/01/17/lambdamart-in-depth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
