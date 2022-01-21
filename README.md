@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: A Conversation Needs to Be Had over Subscription Software](https://news.ycombinator.com/item?id=30021404)
-- [International Linguistics Olympiad – Sample Problems](https://ioling.org/problems/samples/)
-- [Why Sweden Clears Snow-Covered Walkways Before Roads &lpar;2018&rpar;](https://usa.streetsblog.org/2018/01/24/why-sweden-clears-walkways-before-roads/)
-- [Cannabidiol inhibits SARS-CoV-2 replication through induction of host ER stress](https://www.science.org/doi/10.1126/sciadv.abi6110)
-- [Meat Loaf, &#39;Bat Out Of Hell&#39; singer, has died at 74](https://www.cnn.com/2022/01/21/entertainment/meat-loaf-obit/index.html)
+- [Starlink satellites hindering detection of near-Earth asteroids, study finds](https://web.archive.org/web/20220120172234/https://www.dailystar.co.uk/news/latest-news/elon-musks-starlink-satellites-hindering-26001740)
+- [Muse &lpar;YC S21&rpar; Is Hiring a Head of Web Graphics](https://jobs.ashbyhq.com/muse/1e73e735-3c63-4131-a04d-ff3c73f3567e?utm_source=w05n35VEGp)
+- [Notepad++ v8.2 Released](https://community.notepad-plus-plus.org/topic/22330/notepad-v8-2-release)
+- [Yemen has lost internet after Saudi-led airstrikes](https://www.npr.org/2022/01/21/1074659054/yemen-has-lost-internet-after-saudi-led-airstrikes)
+- [I Cannot Begin to Tell You How Proficient I Am in Microsoft Word](https://www.newyorker.com/humor/daily-shouts/i-cannot-begin-to-tell-you-how-proficient-i-am-in-microsoft-word)
 <!-- BLOG-POST-LIST:END -->
 
 ---
