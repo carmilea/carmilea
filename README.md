@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD Jobs: Arm Compiler and Toolchain Engineer](https://klarasystems.com/careers/arm-compiler-and-toolchain-engineer/)
+- [FalsiScan: Make it look like a PDF has been hand signed and scanned](https://gitlab.com/edouardklein/falsisign)
+- [The revenge of the hot water bottle](https://solar.lowtechmagazine.com/2022/01/the-revenge-of-the-hot-water-bottle.html)
+- [The Revenge of the Hot Water Bottle](https://www.lowtechmagazine.com/2022/01/the-revenge-of-the-hot-water-bottle.html)
 - [Security vulnerability in Rust standard library](https://blog.rust-lang.org/2022/01/20/cve-2022-21658.html)
-- [StackOverflow: Sunsetting Jobs and Developer Story by April 2022](https://meta.stackoverflow.com/questions/415293/sunsetting-jobs-developer-story)
-- [Download Briar Desktop for Linux](https://briarproject.org/download-briar-desktop/)
-- [Center for Covid Control Tells Workers to Lie About Results,Throw Tests in Trash](https://blockclubchicago.org/2022/01/20/center-for-covid-control-got-124-million-from-feds-while-telling-workers-to-lie-about-results-throw-tests-in-the-trash-ex-employees-say/)
-- [Former Labor Secretary Found What Work Is Like Now](https://jasonstanford.substack.com/p/he-thought-tending-bar-sounded-like)
 <!-- BLOG-POST-LIST:END -->
 
 ---
