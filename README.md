@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thich Nhat Hanh, Vietnamese Zen Master, Dies at 95](https://tricycle.org/trikedaily/thich-nhat-hanh-dies/)
+- [AWS is not a dumb pipe](https://matt-rickard.com/aws-is-not-a-dumb-pipe/)
+- [Consistency Sin](https://furbo.org/2022/01/11/consistency-sin/)
 - [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [Ask HN: Anyone making a living building desktop applications?](https://news.ycombinator.com/item?id=30027925)
-- [DIY Raspberry Pi Spectrometer Guide](https://github.com/leswright1977/PySpectrometer)
-- [Alphabet&#39;s Calico has begun trials on a molecule for neurovegetative diseases](https://aspenbraininstitute.org/blog-posts/the-miracle-molecule-that-could-treat-brain-injuries-and-boost-your-fading-memory)
-- [How to make it easier to build semiconductor factories](https://semiliterate.substack.com/p/no-permits-no-fabs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
