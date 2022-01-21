@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Framework Laptop Embedded Controller &lpar;EC&rpar;](https://github.com/FrameworkComputer/EmbeddedController)
+- [Framework: Open Sourcing Our Firmware](https://frame.work/blog/open-sourcing-our-firmware)
+- [I built my own Sega Genesis &lpar;Mega Drive&rpar; hardware dev kit from scratch](https://nestenius.se/2022/01/18/how-i-built-my-own-sega-mega-drive-hardware-dev-kit-from-scratch/)
+- [Moosend&#39;s “Free Forever” plan no longer free](https://ahoi.dev/moosend-forever-free-accounts/)
 - [Wearable device for noninvasive optical brain imaging](https://spie.org/news/kernel-flow-a-wearable-device-for-noninvasive-optical-brain-imaging?SSO=1)
-- [Basis &lpar;YC S21&rpar; Is hiring devs to refactor the modern data stack](https://www.notion.so/get-basis/Work-at-Basis-07bb5d7502a043b9b861f50ef24b45d8)
-- [Intel to invest up to $100 bln in Ohio chip plants](https://www.reuters.com/technology/intel-plans-new-chip-manufacturing-site-ohio-report-2022-01-21/)
-- [Rnote – A simple note taking application written in Rust and GTK4](https://github.com/flxzt/rnote)
-- [Binance kept weak money-laundering checks even as it promised tougher compliance](https://www.reuters.com/investigates/special-report/finance-crypto-currency-binance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
