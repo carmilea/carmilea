@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesorio &lpar;YC S15&rpar; is hiring a Senior DevOps to join our fully distributed team](https://www.tesorio.com/careers#job-openings)
+- [Trust Undermines Science](http://worksinprogress.co/issue/how-trust-undermines-scien…)
+- [Photography Cheat Sheets](https://www.digitalcameraworld.com/tutorials/photography-cheat-sheets)
+- [Second hacker group arrested in Moscow](https://tass.com/society/1391807)
 - [Shell’s Carbon Capture Plant Is Emitting More Than It’s Capturing](https://www.vice.com/en/article/7kb43x/shell-quest-carbon-capture-plant-alberta)
-- [Bitcoin pyramid schemes wreak havoc on Brazil&#39;s &#39;New Egypt&#39;](https://apnews.com/article/cryptocurrency-technology-business-brazil-bitcoin-2dc801e5e3aa477ce7983d84dc8a64bb)
-- [Show HN: Hacker XP – Hacker News styled as a Windows XP Outlook email client](https://hackerxp.com/)
-- [More on housing &lpar;price&rpar; inflation &lpar;2021&rpar;](https://recoveringtradfichad.substack.com/p/more-on-that-lack-of-housing-inflation)
-- [Amazon activist’s firing deemed illegal by labor board officials](https://www.bloomberg.com/news/articles/2022-01-21/amazon-activist-s-firing-deemed-illegal-by-labor-board-officials)
 <!-- BLOG-POST-LIST:END -->
 
 ---
