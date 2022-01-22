@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Lego Spectrometer](https://publiclab.org/notes/warren/12-13-2017/assembling-the-public-lab-lego-spectrometer)
-- [Mapping my walks with OSRM and Rust](https://blog.dend.ro/mapping-my-walks-osrm-rust/)
-- [Strange DNA Structures Linked to Cancer](https://www.the-scientist.com/news-opinion/strange-dna-structures-linked-to-cancer-69624)
-- [MoonBounce: The dark side of UEFI firmware](https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468/)
-- [Industrial ammonia emits more CO2 than other chemical-making reactions &lpar;2019&rpar;](https://cen.acs.org/environment/green-chemistry/Industrial-ammonia-production-emits-CO2/97/i24)
+- [Procoto &lpar;YC W21&rpar; Is Hiring Front End Engineers](https://www.ycombinator.com/companies/procoto/jobs/SGo548h-front-end-engineer)
+- [Keeping POWER relevant in the open source world](https://peter.czanik.hu/posts/saving-power/)
+- [You&#39;re not dumb, the prerequisites are bullshit](https://markozivanovic.com/youre-not-dumb-the-prerequisites-are-bullshit/)
+- [LineageOS](https://lineageos.org/)
+- [Lego Spectrometer &lpar;2017&rpar;](https://publiclab.org/notes/warren/12-13-2017/assembling-the-public-lab-lego-spectrometer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
