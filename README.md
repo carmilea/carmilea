@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spaced Repetition as a Tool Against Anxiety and Depression](https://parrhesia.substack.com/p/spaced-repetition-as-a-tool-against)
-- [Framework vs. Apple](https://dche.cx/framework-vs-apple/)
+- [Why skyscrapers are so short](https://www.worksinprogress.co/issue/why-skyscrapers-are-so-short/)
+- [Diamond hauled from deep inside Earth holds never-before-seen mineral](https://www.livescience.com/new-mantle-mineral-found-in-diamond)
+- [Show HN: Perspec – Scriptable desktop app to correct the perspective of images](https://github.com/feramhq/Perspec)
+- [Myths About Cooking Steak That Need to Go Away &lpar;2013&rpar;](https://www.seriouseats.com/old-wives-tales-about-cooking-steak)
 - [Pydantic](https://github.com/samuelcolvin/pydantic)
-- [Tesorio &lpar;YC S15&rpar; is hiring a Senior DevOps to join our fully distributed team](https://www.tesorio.com/careers#job-openings)
-- [How trust undermines science](https://www.worksinprogress.co/issue/how-trust-undermines-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
