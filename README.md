@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Zendar &lpar;YC S17&rpar; Is Hiring Platform Engineering Manager](https://zendar.breezy.hr/p/a5536887620f)
-- [Ask HN: Is it just me or do 99% of SWE jobs offers seem completely pointless?](https://news.ycombinator.com/item?id=30038145)
+- [Amazon activist’s firing deemed illegal by labor board officials](https://www.bloomberg.com/news/articles/2022-01-21/amazon-activist-s-firing-deemed-illegal-by-labor-board-officials)
+- [Zendar &lpar;YC S17&rpar; Is Hiring a Platform Engineering Manager](https://zendar.breezy.hr/p/a5536887620f)
 - [How E Ink Developed Full-Color E-Paper](https://spectrum.ieee.org/how-e-ink-developed-full-color-epaper)
-- [Robot vacuum cleaner escapes from Cambridge Travelodge](https://www.bbc.com/news/uk-england-cambridgeshire-60084347)
-- [Uniqlo dangles $8.8m salaries to draw talent in Big Tech showdown](https://asia.nikkei.com/Business/Retail/Uniqlo-dangles-8.8m-salaries-to-draw-talent-in-Big-Tech-showdown)
+- [Kedro – Creating reproducible, maintainable and modular data science code](https://github.com/kedro-org/kedro)
+- [Ethnographic research on Dynamicland](https://www.christophlabacher.com/notes/ethnographic-research-on-dynamicland)
 <!-- BLOG-POST-LIST:END -->
 
 ---
