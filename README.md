@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [In rare cases, coronavirus vaccines may cause Long Covid–like symptoms](https://www.science.org/content/article/rare-cases-coronavirus-vaccines-may-cause-long-covid-symptoms)
+- [Everyone Is Bummed Out over Pixar’s Third Straight-to-Streaming Film](https://www.hollywoodreporter.com/movies/movie-features/pixar-animation-studio-turning-red-streaming-1235076701/)
 - [On Leaving Facebook](https://frantic.im/leaving-facebook/)
 - [Is programmable overhead worth the cost?](https://semiengineering.com/is-programmable-overhead-worth-the-cost/)
 - [Ask HN: What&#39;s Up with Google?](https://news.ycombinator.com/item?id=30031672)
