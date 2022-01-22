@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Lego Spectrometer](https://publiclab.org/notes/warren/12-13-2017/assembling-the-public-lab-lego-spectrometer)
 - [Mapping my walks with OSRM and Rust](https://blog.dend.ro/mapping-my-walks-osrm-rust/)
-- [De-Google-Ify Internet](https://degooglisons-internet.org/en/alternatives/)
 - [Strange DNA Structures Linked to Cancer](https://www.the-scientist.com/news-opinion/strange-dna-structures-linked-to-cancer-69624)
 - [MoonBounce: The dark side of UEFI firmware](https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468/)
+- [Industrial ammonia emits more CO2 than other chemical-making reactions &lpar;2019&rpar;](https://cen.acs.org/environment/green-chemistry/Industrial-ammonia-production-emits-CO2/97/i24)
 <!-- BLOG-POST-LIST:END -->
 
 ---
