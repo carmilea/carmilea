@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What fast fashion costs the world- Ending up in African landfills](https://expmag.com/2022/01/what-fast-fashion-costs-the-world/)
+- [Off the Grid – Hundred Rabbits](http://100r.co/site/off_the_grid.html)
+- [My self-hosting infrastructure, fully automated](https://github.com/khuedoan/homelab)
 - [How bad is QWERTY, really? A review of the literature, such as it is](https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is/)
 - [Google could face class action lawsuit over free G Suite legacy account shutdown](https://www.androidpolice.com/google-gsuite-free-legacy-class-action-investigation/)
-- [Thich Nhat Hanh has died](https://tricycle.org/trikedaily/thich-nhat-hanh-dies/)
-- [Soviet Military Maps of North America and UK](https://www.sovietmaps.com/node/2)
-- [AWS is not a dumb pipe](https://matt-rickard.com/aws-is-not-a-dumb-pipe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
