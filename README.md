@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Shell’s Carbon Capture Plant Is Emitting More Than It’s Capturing](https://www.vice.com/en/article/7kb43x/shell-quest-carbon-capture-plant-alberta)
+- [Bitcoin pyramid schemes wreak havoc on Brazil&#39;s &#39;New Egypt&#39;](https://apnews.com/article/cryptocurrency-technology-business-brazil-bitcoin-2dc801e5e3aa477ce7983d84dc8a64bb)
+- [Show HN: Hacker XP – Hacker News styled as a Windows XP Outlook email client](https://hackerxp.com/)
+- [More on housing &lpar;price&rpar; inflation &lpar;2021&rpar;](https://recoveringtradfichad.substack.com/p/more-on-that-lack-of-housing-inflation)
 - [Amazon activist’s firing deemed illegal by labor board officials](https://www.bloomberg.com/news/articles/2022-01-21/amazon-activist-s-firing-deemed-illegal-by-labor-board-officials)
-- [The Control Group Is Out of Control](https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/)
-- [Articulate and Incompetent](https://thekcpgroup.com/insights/the-attention-span-articulate-and-incompetent)
-- [Jeopardy Heatmap Written in Elm](http://www.szcz.org/jeopardyheatmap.html)
-- [Zendar &lpar;YC S17&rpar; Is Hiring a Platform Engineering Manager](https://zendar.breezy.hr/p/a5536887620f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
