@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Strange DNA Structures Linked to Cancer](https://www.the-scientist.com/news-opinion/strange-dna-structures-linked-to-cancer-69624)
 - [Industrial ammonia prod’n emits more CO2 than anyother chemical-making reaction](https://cen.acs.org/environment/green-chemistry/Industrial-ammonia-production-emits-CO2/97/i24)
+- [The case for a modern language &lpar;part 1&rpar;](https://jeang3nie.codeberg.page/case-for-modern-language-pt1/)
+- [New genetic study confirms that alcohol is a direct cause of cancer](https://www.ndph.ox.ac.uk/news/new-genetic-study-confirms-that-alcohol-is-a-direct-cause-of-cancer)
 - [Practical Pigment Mixing for Digital Painting](https://scrtwpns.com/mixbox/)
-- [Tyty: A TypeScript type checker in Rust](https://zackoverflow.dev/writing/tyty)
-- [Is Compensation Stagnation to Blame for the Great Resignation?](https://tomtunguz.com/employee_expense_inflation_2021/)
-- [On Leaving Facebook](https://frantic.im/leaving-facebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
