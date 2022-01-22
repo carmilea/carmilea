@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mapping my walks with OSRM and Rust](https://blog.dend.ro/mapping-my-walks-osrm-rust/)
+- [Deep Diving Zen 3 V-Cache](https://chipsandcheese.com/2022/01/21/deep-diving-zen-3-v-cache/)
 - [Strange DNA Structures Linked to Cancer](https://www.the-scientist.com/news-opinion/strange-dna-structures-linked-to-cancer-69624)
 - [Industrial ammonia prod’n emits more CO2 than anyother chemical-making reaction](https://cen.acs.org/environment/green-chemistry/Industrial-ammonia-production-emits-CO2/97/i24)
 - [The case for a modern language &lpar;part 1&rpar;](https://jeang3nie.codeberg.page/case-for-modern-language-pt1/)
-- [New genetic study confirms that alcohol is a direct cause of cancer](https://www.ndph.ox.ac.uk/news/new-genetic-study-confirms-that-alcohol-is-a-direct-cause-of-cancer)
-- [Practical Pigment Mixing for Digital Painting](https://scrtwpns.com/mixbox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
