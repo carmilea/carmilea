@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Zendar &lpar;YC S17&rpar; Is Hiring Platform Engineering Manager](https://zendar.breezy.hr/p/a5536887620f)
+- [Ask HN: Is it just me or do 99% of SWE jobs offers seem completely pointless?](https://news.ycombinator.com/item?id=30038145)
+- [How E Ink Developed Full-Color E-Paper](https://spectrum.ieee.org/how-e-ink-developed-full-color-epaper)
 - [Robot vacuum cleaner escapes from Cambridge Travelodge](https://www.bbc.com/news/uk-england-cambridgeshire-60084347)
-- [Kedro – Creating reproducible, maintainable and modular data science code](https://github.com/kedro-org/kedro)
-- [An Exclusive Peek into Dynamicland](https://www.christophlabacher.com/notes/ethnographic-research-on-dynamicland)
-- [Popular image viewer ImageGlass quietly added malware with this commit](https://github.com/d2phap/ImageGlass/commit/97c716cf1ad23535b7b6840ba189270e440e742e)
-- [Kobo unveils Sideload Mode to their e-readers](https://goodereader.com/blog/electronic-readers/kobo-unveils-sideload-mode-to-their-e-readers)
+- [Uniqlo dangles $8.8m salaries to draw talent in Big Tech showdown](https://asia.nikkei.com/Business/Retail/Uniqlo-dangles-8.8m-salaries-to-draw-talent-in-Big-Tech-showdown)
 <!-- BLOG-POST-LIST:END -->
 
 ---
