@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Amazon activist’s firing deemed illegal by labor board officials](https://www.bloomberg.com/news/articles/2022-01-21/amazon-activist-s-firing-deemed-illegal-by-labor-board-officials)
+- [The Control Group Is Out of Control](https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/)
+- [Articulate and Incompetent](https://thekcpgroup.com/insights/the-attention-span-articulate-and-incompetent)
+- [Jeopardy Heatmap Written in Elm](http://www.szcz.org/jeopardyheatmap.html)
 - [Zendar &lpar;YC S17&rpar; Is Hiring a Platform Engineering Manager](https://zendar.breezy.hr/p/a5536887620f)
-- [How E Ink Developed Full-Color E-Paper](https://spectrum.ieee.org/how-e-ink-developed-full-color-epaper)
-- [Kedro – Creating reproducible, maintainable and modular data science code](https://github.com/kedro-org/kedro)
-- [Ethnographic research on Dynamicland](https://www.christophlabacher.com/notes/ethnographic-research-on-dynamicland)
 <!-- BLOG-POST-LIST:END -->
 
 ---
