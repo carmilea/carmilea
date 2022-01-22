@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WSL with CUDA support](https://news.ycombinator.com/item?id=30033690)
+- [Industrial ammonia prod’n emits more CO2 than anyother chemical-making reaction](https://cen.acs.org/environment/green-chemistry/Industrial-ammonia-production-emits-CO2/97/i24)
+- [Practical Pigment Mixing for Digital Painting](https://scrtwpns.com/mixbox/)
 - [Tyty: A TypeScript type checker in Rust](https://zackoverflow.dev/writing/tyty)
 - [Is Compensation Stagnation to Blame for the Great Resignation?](https://tomtunguz.com/employee_expense_inflation_2021/)
 - [On Leaving Facebook](https://frantic.im/leaving-facebook/)
-- [Is programmable overhead worth the cost?](https://semiengineering.com/is-programmable-overhead-worth-the-cost/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
