@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Spaced Repetition as a Tool Against Anxiety and Depression](https://parrhesia.substack.com/p/spaced-repetition-as-a-tool-against)
+- [Framework vs. Apple](https://dche.cx/framework-vs-apple/)
+- [Pydantic](https://github.com/samuelcolvin/pydantic)
 - [Tesorio &lpar;YC S15&rpar; is hiring a Senior DevOps to join our fully distributed team](https://www.tesorio.com/careers#job-openings)
-- [Trust Undermines Science](http://worksinprogress.co/issue/how-trust-undermines-scien…)
-- [Photography Cheat Sheets](https://www.digitalcameraworld.com/tutorials/photography-cheat-sheets)
-- [Second hacker group arrested in Moscow](https://tass.com/society/1391807)
-- [Shell’s Carbon Capture Plant Is Emitting More Than It’s Capturing](https://www.vice.com/en/article/7kb43x/shell-quest-carbon-capture-plant-alberta)
+- [How trust undermines science](https://www.worksinprogress.co/issue/how-trust-undermines-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
