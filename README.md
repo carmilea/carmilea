@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux on a 486SX](https://ocawesome101.github.io/486-linux.html)
 - [Ireland to drop almost all Covid restrictions](https://www.reuters.com/business/healthcare-pharmaceuticals/ireland-set-rapidly-drop-almost-all-covid-19-restrictions-2022-01-21/)
 - [Procoto &lpar;YC W21&rpar; Is Hiring Front End Engineers](https://www.ycombinator.com/companies/procoto/jobs/SGo548h-front-end-engineer)
-- [Keeping POWER relevant in the open source world](https://peter.czanik.hu/posts/saving-power/)
+- [Keeping Power relevant in the open source world](https://peter.czanik.hu/posts/saving-power/)
 - [Zombocom is a well of deep wisdom &lpar;2021&rpar;](https://expmag.com/2021/09/the-internets-most-useless-website-is-a-well-of-deep-wisdom/)
-- [Lego Spectrometer &lpar;2017&rpar;](https://publiclab.org/notes/warren/12-13-2017/assembling-the-public-lab-lego-spectrometer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
