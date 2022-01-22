@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [tyty: A TypeScript type checker in Rust](https://zackoverflow.dev/writing/tyty)
-- [‘Farms Are Failing’ as Fertilizer Prices Drive Up Cost of Food](https://www.wsj.com/articles/farms-are-failing-as-fertilizer-prices-drive-up-cost-of-food-11642770182)
+- [WSL with CUDA support](https://news.ycombinator.com/item?id=30033690)
+- [Tyty: A TypeScript type checker in Rust](https://zackoverflow.dev/writing/tyty)
+- [Is Compensation Stagnation to Blame for the Great Resignation?](https://tomtunguz.com/employee_expense_inflation_2021/)
 - [On Leaving Facebook](https://frantic.im/leaving-facebook/)
 - [Is programmable overhead worth the cost?](https://semiengineering.com/is-programmable-overhead-worth-the-cost/)
-- [Ask HN: What&#39;s Up with Google?](https://news.ycombinator.com/item?id=30031672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
