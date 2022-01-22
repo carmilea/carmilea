@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [In rare cases, coronavirus vaccines may cause Long Covid–like symptoms](https://www.science.org/content/article/rare-cases-coronavirus-vaccines-may-cause-long-covid-symptoms)
+- [On Leaving Facebook](https://frantic.im/leaving-facebook/)
+- [Is programmable overhead worth the cost?](https://semiengineering.com/is-programmable-overhead-worth-the-cost/)
+- [Ask HN: What&#39;s Up with Google?](https://news.ycombinator.com/item?id=30031672)
 - [What fast fashion costs the world- Ending up in African landfills](https://expmag.com/2022/01/what-fast-fashion-costs-the-world/)
-- [Off the Grid – Hundred Rabbits](http://100r.co/site/off_the_grid.html)
-- [My self-hosting infrastructure, fully automated](https://github.com/khuedoan/homelab)
-- [How bad is QWERTY, really? A review of the literature, such as it is](https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is/)
-- [Google could face class action lawsuit over free G Suite legacy account shutdown](https://www.androidpolice.com/google-gsuite-free-legacy-class-action-investigation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
