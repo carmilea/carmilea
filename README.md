@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Today in the U.S. we are in the fourth superbubble of the last hundred years](https://www.gmo.com/americas/research-library/let-the-wild-rumpus-begin/)
-- [Linux on a 486SX](https://ocawesome101.github.io/486-linux.html)
-- [Ireland to drop almost all Covid restrictions](https://www.reuters.com/business/healthcare-pharmaceuticals/ireland-set-rapidly-drop-almost-all-covid-19-restrictions-2022-01-21/)
-- [Why Ireland&#39;s housing bubble burst](https://www.worksinprogress.co/issue/why-irelands-housing-bubble-burst/)
-- [Procoto &lpar;YC W21&rpar; Is Hiring Front End Engineers](https://www.ycombinator.com/companies/procoto/jobs/SGo548h-front-end-engineer)
+- [Robot vacuum cleaner escapes from Cambridge Travelodge](https://www.bbc.com/news/uk-england-cambridgeshire-60084347)
+- [Kedro – Creating reproducible, maintainable and modular data science code](https://github.com/kedro-org/kedro)
+- [An Exclusive Peek into Dynamicland](https://www.christophlabacher.com/notes/ethnographic-research-on-dynamicland)
+- [Popular image viewer ImageGlass quietly added malware with this commit](https://github.com/d2phap/ImageGlass/commit/97c716cf1ad23535b7b6840ba189270e440e742e)
+- [Kobo unveils Sideload Mode to their e-readers](https://goodereader.com/blog/electronic-readers/kobo-unveils-sideload-mode-to-their-e-readers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
