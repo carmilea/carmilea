@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [tyty: A TypeScript type checker in Rust](https://zackoverflow.dev/writing/tyty)
 - [‘Farms Are Failing’ as Fertilizer Prices Drive Up Cost of Food](https://www.wsj.com/articles/farms-are-failing-as-fertilizer-prices-drive-up-cost-of-food-11642770182)
-- [Everyone Is Bummed Out over Pixar’s Third Straight-to-Streaming Film](https://www.hollywoodreporter.com/movies/movie-features/pixar-animation-studio-turning-red-streaming-1235076701/)
 - [On Leaving Facebook](https://frantic.im/leaving-facebook/)
 - [Is programmable overhead worth the cost?](https://semiengineering.com/is-programmable-overhead-worth-the-cost/)
 - [Ask HN: What&#39;s Up with Google?](https://news.ycombinator.com/item?id=30031672)
