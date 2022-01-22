@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Today in the U.S. we are in the fourth superbubble of the last hundred years](https://www.gmo.com/americas/research-library/let-the-wild-rumpus-begin/)
 - [Linux on a 486SX](https://ocawesome101.github.io/486-linux.html)
 - [Ireland to drop almost all Covid restrictions](https://www.reuters.com/business/healthcare-pharmaceuticals/ireland-set-rapidly-drop-almost-all-covid-19-restrictions-2022-01-21/)
+- [Why Ireland&#39;s housing bubble burst](https://www.worksinprogress.co/issue/why-irelands-housing-bubble-burst/)
 - [Procoto &lpar;YC W21&rpar; Is Hiring Front End Engineers](https://www.ycombinator.com/companies/procoto/jobs/SGo548h-front-end-engineer)
-- [Keeping Power relevant in the open source world](https://peter.czanik.hu/posts/saving-power/)
-- [Zombocom is a well of deep wisdom &lpar;2021&rpar;](https://expmag.com/2021/09/the-internets-most-useless-website-is-a-well-of-deep-wisdom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
