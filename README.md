@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Decoupling as a moral decision](https://atis.substack.com/p/decoupling-as-a-moral-decision)
 - [The Future of E-Bikes](https://austinvernon.site/blog/ebikes.html)
+- [Why should you care about Ethereum Layer-2?](https://thecryptojournal.substack.com/p/what-is-ethereum-layer-2-and-why)
 - [Why I am not a utilitarian](https://fakenous.net/?p=2757)
-- [Automatic Ripping Machine &lpar;2016&rpar;](https://b3n.org/automatic-ripping-machine/)
-- [Llisp: Lisp in Lisp](https://stopa.io/post/292)
+- [Choose your browser carefully &lpar;2021&rpar;](https://www.unixsheikh.com/articles/choose-your-browser-carefully.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
