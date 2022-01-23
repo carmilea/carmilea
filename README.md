@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Pimiga - Raspberry Pi Powered Amiga](https://cubiclenate.com/pimiga/)
-- [Ask HN: How to make my iMac less distracting?](https://news.ycombinator.com/item?id=30043764)
+- [Ask HN: How to make my macOS less distracting?](https://news.ycombinator.com/item?id=30043764)
 - [Automatic Ripping Machine: Headless Blu-ray/DVD/CD Ripper](https://b3n.org/automatic-ripping-machine/)
-- [Yuzu-emu/yuzu: Nintendo Switch Emulator](https://github.com/yuzu-emu/yuzu)
-- [The FSF’s relationship with firmware is harmful to free software users](https://ariadne.space/2022/01/22/the-fsfs-relationship-with-firmware-is-harmful-to-free-software-users/)
+- [Llisp: Lisp in Lisp](https://stopa.io/post/292)
+- [Yuzu: Nintendo Switch Emulator](https://github.com/yuzu-emu/yuzu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
