@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [P2000r3: Direction for C++ [pdf]](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2000r3.pdf)
 - [Decoupling as a moral decision](https://atis.substack.com/p/decoupling-as-a-moral-decision)
-- [The Future of E-Bikes](https://austinvernon.site/blog/ebikes.html)
 - [Why should you care about Ethereum Layer-2?](https://thecryptojournal.substack.com/p/what-is-ethereum-layer-2-and-why)
-- [Why I am not a utilitarian](https://fakenous.net/?p=2757)
 - [Choose your browser carefully &lpar;2021&rpar;](https://www.unixsheikh.com/articles/choose-your-browser-carefully.html)
+- [22-year-old builds chips in his parents’ garage](https://www.wired.com/story/22-year-old-builds-chips-parents-garage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
