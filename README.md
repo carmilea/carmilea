@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Bell Labs Org Chart](https://neil.computer/notes/bell-labs-org-chart/)
-- [Over 90 WordPress themes, plugins backdoored in supply chain attack](https://www.bleepingcomputer.com/news/security/over-90-wordpress-themes-plugins-backdoored-in-supply-chain-attack/)
+- [The FSF’s relationship with firmware is harmful to free software users](https://ariadne.space/2022/01/22/the-fsfs-relationship-with-firmware-is-harmful-to-free-software-users/)
+- [Bell Labs Org Chart &lpar;1980&rpar;](https://neil.computer/notes/bell-labs-org-chart/)
+- [WordPress themes, plugins backdoored in supply chain attack](https://www.bleepingcomputer.com/news/security/over-90-wordpress-themes-plugins-backdoored-in-supply-chain-attack/)
+- [Golang’s most important feature is invisible](https://blog.devgenius.io/golangs-most-important-feature-is-invisible-6be9c1e7249b?gi=21e47786496b)
 - [Why skyscrapers are so short](https://www.worksinprogress.co/issue/why-skyscrapers-are-so-short/)
-- [Diamond hauled from deep inside Earth holds never-before-seen mineral](https://www.livescience.com/new-mantle-mineral-found-in-diamond)
-- [Show HN: Perspec – Scriptable desktop app to correct the perspective of images](https://github.com/feramhq/Perspec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
