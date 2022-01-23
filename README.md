@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A History and Defence of Venture Capital in “The Power Law” &lpar;PG quoted&rpar;](https://www.economist.com/culture/2022/01/22/a-history-and-defence-of-venture-capital-in-the-power-law)
-- [Stray bullet kills English astrophysicist visiting United States](https://www.dawn.com/news/1671018)
+- [Avoiding Fallback in Distributed Systems &lpar;2020&rpar;](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/)
+- [Ask HN: Is the Tech Bubble Crashing?](https://news.ycombinator.com/item?id=30048925)
+- [OneDNA – We&#39;ve Standardised the NDA](https://onenda.org)
+- [A history and defence of venture capital in “The Power Law”](https://www.economist.com/culture/2022/01/22/a-history-and-defence-of-venture-capital-in-the-power-law)
 - [Legion Health &lpar;YC S21&rpar; Is Hiring a Clinician Operations Lead](https://www.ycombinator.com/companies/legion-health/jobs/Vc1e3ii-clinical-operations-lead)
-- [Emergence of Life in an Inflationary Universe &lpar;2020&rpar;](https://www.nature.com/articles/s41598-020-58060-0)
-- [Staff Engineer Communities](https://noidea.dog/blog/staff-engineer-communities)
 <!-- BLOG-POST-LIST:END -->
 
 ---
