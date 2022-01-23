@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DevCycle &lpar;YC W14&rpar; is rebuilding feature flags from the ground up – come join us](https://devcycle.com/company/careers)
+- [Sex Differences in Friendship Preferences](https://www.sciencedirect.com/science/article/abs/pii/S109051382100074X)
+- [Solving Wordle in 3.64 Guesses on Average, 99.4% of the Time](https://lockwood.dev/wordle/python/2022/01/23/wordle-solved-average-3-64.html)
+- [The Design and Implementation of the Wolfram Language Compiler &lpar;2020&rpar; [pdf]](https://dakkak.dev/pdf/wolfram-compiler-cgo20.pdf)
 - [PlacesAPI](https://www.placesapi.co.uk)
-- [Alabama farmer sues John Deere for ‘right to repair’](https://www.al.com/news/2022/01/alabama-farmer-sues-john-deere-for-right-to-repair.html)
-- [Avoiding Fallback in Distributed Systems &lpar;2020&rpar;](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/)
-- [OneDNA – We&#39;ve Standardised the NDA](https://onenda.org)
-- [A history and defence of venture capital in “The Power Law”](https://www.economist.com/culture/2022/01/22/a-history-and-defence-of-venture-capital-in-the-power-law)
 <!-- BLOG-POST-LIST:END -->
 
 ---
