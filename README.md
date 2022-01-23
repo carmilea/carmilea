@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How bad have universities got?](https://thomasprosser.substack.com/p/how-bad-have-universities-got)
-- [A native Go userland for your Raspberry Pi 3 or 4 appliances](https://github.com/gokrazy/gokrazy)
-- [A field fixes itself: the applied turn in economics](https://www.newthingsunderthesun.com/pub/0f51xsb5/release/7)
-- [Age and High-Growth Entrepreneurship](https://www.aeaweb.org/articles?id=10.1257/aeri.20180582)
-- [Ask HN: Recommendations for an SMTP Sending Service](https://news.ycombinator.com/item?id=30046840)
+- [As HN: Am I being instructed to do something illegal? &lpar;DEI hiring practices&rpar;](https://news.ycombinator.com/item?id=30047796)
+- [Legion Health &lpar;YC S21&rpar; Is Hiring a Clinician Operations Lead](https://www.ycombinator.com/companies/legion-health/jobs/Vc1e3ii-clinical-operations-lead)
+- [Staff Engineer Communities](https://noidea.dog/blog/staff-engineer-communities)
+- [Show HN: Marginalia – Exploration Mode](https://search.marginalia.nu/explore/random)
+- [Increasing Politicization and Homogeneity in Scientific Funding](https://cspicenter.org/reports/increasing-politicization-and-homogeneity-in-scientific-funding-an-analysis-of-nsf-grants-1990-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
