@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [P2000r3: Direction for C++ [pdf]](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2000r3.pdf)
+- [Replit &lpar;YC W18&rpar; is hiring engineers to make delightful programming environments](https://replit.com/careers)
+- [Optimal coverage for Wordle with Monte Carlo methods – Part III](https://bytepawn.com/optimal-coverage-for-wordle-with-monte-carlo-methods-part-iii.html)
+- [The implementation of the UK Covid-19 dashboard](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/uk-covid-19-dashboard-built-using-postgres-and-citus-for/ba-p/3036276)
+- [The clock does not measure time; it produces it](https://www.noemamag.com/the-tyranny-of-time/)
 - [Decoupling as a moral decision](https://atis.substack.com/p/decoupling-as-a-moral-decision)
-- [Why should you care about Ethereum Layer-2?](https://thecryptojournal.substack.com/p/what-is-ethereum-layer-2-and-why)
-- [Choose your browser carefully &lpar;2021&rpar;](https://www.unixsheikh.com/articles/choose-your-browser-carefully.html)
-- [22-year-old builds chips in his parents’ garage](https://www.wired.com/story/22-year-old-builds-chips-parents-garage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
