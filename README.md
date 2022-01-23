@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PlacesAPI](https://www.placesapi.co.uk)
+- [Alabama farmer sues John Deere for ‘right to repair’](https://www.al.com/news/2022/01/alabama-farmer-sues-john-deere-for-right-to-repair.html)
 - [Avoiding Fallback in Distributed Systems &lpar;2020&rpar;](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/)
-- [Ask HN: Is the Tech Bubble Crashing?](https://news.ycombinator.com/item?id=30048925)
 - [OneDNA – We&#39;ve Standardised the NDA](https://onenda.org)
 - [A history and defence of venture capital in “The Power Law”](https://www.economist.com/culture/2022/01/22/a-history-and-defence-of-venture-capital-in-the-power-law)
-- [Legion Health &lpar;YC S21&rpar; Is Hiring a Clinician Operations Lead](https://www.ycombinator.com/companies/legion-health/jobs/Vc1e3ii-clinical-operations-lead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
