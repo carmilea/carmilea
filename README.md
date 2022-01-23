@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [DevCycle &lpar;YC W14&rpar; is rebuilding feature flags from the ground up – come join us](https://devcycle.com/company/careers)
+- [BLAKE2: “Harder, Better, Faster, Stronger” Than MD5 &lpar;2014&rpar;](https://leastauthority.com/blog/blake2-harder-better-faster-stronger-than-md5/)
 - [Sex Differences in Friendship Preferences](https://www.sciencedirect.com/science/article/abs/pii/S109051382100074X)
 - [Solving Wordle in 3.64 Guesses on Average, 99.4% of the Time](https://lockwood.dev/wordle/python/2022/01/23/wordle-solved-average-3-64.html)
 - [The Design and Implementation of the Wolfram Language Compiler &lpar;2020&rpar; [pdf]](https://dakkak.dev/pdf/wolfram-compiler-cgo20.pdf)
-- [PlacesAPI](https://www.placesapi.co.uk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
