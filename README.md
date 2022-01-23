@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Imperfect Union: How ConstitutionDAO Lost Its Way](https://www.fwb.help/wip/imperfect-union-how-constitutiondao-lost-its-way)
-- [A guide on how to use Ranch with Elixir](https://github.com/asciibeats/elixir_ranch)
-- [“Hell Line”: Lessons from Seoul&#39;s controversial privatized subway line](https://seungylee14.substack.com/p/hell-line-lessons-from-seouls-controversial)
-- [‘Not’ and its many permutations](https://theamericanscholar.org/a-matter-of-emphasis/)
-- [Replit &lpar;YC W18&rpar; is hiring engineers to make delightful programming environments](https://replit.com/careers)
+- [The Spacing Effect](https://fs.blog/spacing-effect/)
+- [Forever Stable Branch](https://gist.github.com/phoe/7d24bdb1f2be76a02fecba8cfecbef38)
+- [Show HN: Bulk convert images online without sending to server](https://www.webutils.app/image-compress)
+- [Lisp: Good News, Bad News, How to Win Big &lpar;1990&rpar; [pdf]](https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf)
+- [Sibyl – Prediction Service at DoorDash](https://doordash.engineering/2020/06/29/doordashs-new-prediction-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
