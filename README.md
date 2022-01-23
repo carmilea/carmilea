@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rise and Fall of &#39;Social Bot&#39; Research &lpar;2021&rpar;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814191)
+- [Once billed as a revolution in medicine, IBMs Watson Health is sold off in parts](https://www.statnews.com/2022/01/21/ibm-watson-health-sale-equity/)
+- [Strict Python Function Parameters](https://sethmlarson.dev/blog/strict-python-function-parameters)
 - [The Spacing Effect](https://fs.blog/spacing-effect/)
-- [Forever Stable Branch](https://gist.github.com/phoe/7d24bdb1f2be76a02fecba8cfecbef38)
 - [Show HN: Bulk convert images online without sending to server](https://www.webutils.app/image-compress)
-- [Lisp: Good News, Bad News, How to Win Big &lpar;1990&rpar; [pdf]](https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf)
-- [Sibyl – Prediction Service at DoorDash](https://doordash.engineering/2020/06/29/doordashs-new-prediction-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
