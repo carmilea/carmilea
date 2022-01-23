@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Brain of a White-Collar Worker](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(07)61127-1/fulltext)
+- [Gmail account security is insane](https://news.ycombinator.com/item?id=30051054)
 - [DevCycle &lpar;YC W14&rpar; is rebuilding feature flags from the ground up – come join us](https://devcycle.com/company/careers)
 - [BLAKE2: “Harder, Better, Faster, Stronger” Than MD5 &lpar;2014&rpar;](https://leastauthority.com/blog/blake2-harder-better-faster-stronger-than-md5/)
 - [Sex Differences in Friendship Preferences](https://www.sciencedirect.com/science/article/abs/pii/S109051382100074X)
-- [Solving Wordle in 3.64 Guesses on Average, 99.4% of the Time](https://lockwood.dev/wordle/python/2022/01/23/wordle-solved-average-3-64.html)
-- [The Design and Implementation of the Wolfram Language Compiler &lpar;2020&rpar; [pdf]](https://dakkak.dev/pdf/wolfram-compiler-cgo20.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
