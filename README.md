@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pimiga - Raspberry Pi Powered Amiga](https://cubiclenate.com/pimiga/)
+- [Ask HN: How to make my iMac less distracting?](https://news.ycombinator.com/item?id=30043764)
 - [Automatic Ripping Machine: Headless Blu-ray/DVD/CD Ripper](https://b3n.org/automatic-ripping-machine/)
 - [Yuzu-emu/yuzu: Nintendo Switch Emulator](https://github.com/yuzu-emu/yuzu)
 - [The FSF’s relationship with firmware is harmful to free software users](https://ariadne.space/2022/01/22/the-fsfs-relationship-with-firmware-is-harmful-to-free-software-users/)
-- [Bell Labs Org Chart &lpar;1980&rpar;](https://neil.computer/notes/bell-labs-org-chart/)
-- [WordPress themes, plugins backdoored in supply chain attack](https://www.bleepingcomputer.com/news/security/over-90-wordpress-themes-plugins-backdoored-in-supply-chain-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
