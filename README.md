@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Safari and iOS users: Your browsing activity is being leaked in real time](https://arstechnica.com/information-technology/2022/01/safari-and-ios-bug-reveals-your-browsing-activity-and-id-in-real-time/)
+- [The Future of E-Bikes](https://austinvernon.site/blog/ebikes.html)
+- [Why I am not a utilitarian](https://fakenous.net/?p=2757)
 - [Pimiga - Raspberry Pi Powered Amiga](https://cubiclenate.com/pimiga/)
 - [Ask HN: How to make my macOS less distracting?](https://news.ycombinator.com/item?id=30043764)
-- [Automatic Ripping Machine: Headless Blu-ray/DVD/CD Ripper](https://b3n.org/automatic-ripping-machine/)
-- [Llisp: Lisp in Lisp](https://stopa.io/post/292)
-- [Yuzu: Nintendo Switch Emulator](https://github.com/yuzu-emu/yuzu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
