@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [As HN: Am I being instructed to do something illegal? &lpar;DEI hiring practices&rpar;](https://news.ycombinator.com/item?id=30047796)
+- [A History and Defence of Venture Capital in “The Power Law” &lpar;PG quoted&rpar;](https://www.economist.com/culture/2022/01/22/a-history-and-defence-of-venture-capital-in-the-power-law)
+- [Stray bullet kills English astrophysicist visiting United States](https://www.dawn.com/news/1671018)
 - [Legion Health &lpar;YC S21&rpar; Is Hiring a Clinician Operations Lead](https://www.ycombinator.com/companies/legion-health/jobs/Vc1e3ii-clinical-operations-lead)
+- [Emergence of Life in an Inflationary Universe &lpar;2020&rpar;](https://www.nature.com/articles/s41598-020-58060-0)
 - [Staff Engineer Communities](https://noidea.dog/blog/staff-engineer-communities)
-- [Show HN: Marginalia – Exploration Mode](https://search.marginalia.nu/explore/random)
-- [Increasing Politicization and Homogeneity in Scientific Funding](https://cspicenter.org/reports/increasing-politicization-and-homogeneity-in-scientific-funding-an-analysis-of-nsf-grants-1990-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
