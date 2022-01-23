@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bell Labs Org Chart](https://neil.computer/notes/bell-labs-org-chart/)
+- [Over 90 WordPress themes, plugins backdoored in supply chain attack](https://www.bleepingcomputer.com/news/security/over-90-wordpress-themes-plugins-backdoored-in-supply-chain-attack/)
 - [Why skyscrapers are so short](https://www.worksinprogress.co/issue/why-skyscrapers-are-so-short/)
 - [Diamond hauled from deep inside Earth holds never-before-seen mineral](https://www.livescience.com/new-mantle-mineral-found-in-diamond)
 - [Show HN: Perspec – Scriptable desktop app to correct the perspective of images](https://github.com/feramhq/Perspec)
-- [Myths About Cooking Steak That Need to Go Away &lpar;2013&rpar;](https://www.seriouseats.com/old-wives-tales-about-cooking-steak)
-- [Pydantic](https://github.com/samuelcolvin/pydantic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
