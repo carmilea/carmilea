@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise and Fall of &#39;Social Bot&#39; Research &lpar;2021&rpar;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814191)
-- [Once billed as a revolution in medicine, IBMs Watson Health is sold off in parts](https://www.statnews.com/2022/01/21/ibm-watson-health-sale-equity/)
-- [Strict Python Function Parameters](https://sethmlarson.dev/blog/strict-python-function-parameters)
-- [The Spacing Effect](https://fs.blog/spacing-effect/)
-- [Show HN: Bulk convert images online without sending to server](https://www.webutils.app/image-compress)
+- [How bad have universities got?](https://thomasprosser.substack.com/p/how-bad-have-universities-got)
+- [A native Go userland for your Raspberry Pi 3 or 4 appliances](https://github.com/gokrazy/gokrazy)
+- [A field fixes itself: the applied turn in economics](https://www.newthingsunderthesun.com/pub/0f51xsb5/release/7)
+- [Age and High-Growth Entrepreneurship](https://www.aeaweb.org/articles?id=10.1257/aeri.20180582)
+- [Ask HN: Recommendations for an SMTP Sending Service](https://news.ycombinator.com/item?id=30046840)
 <!-- BLOG-POST-LIST:END -->
 
 ---
