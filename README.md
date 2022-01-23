@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Imperfect Union: How ConstitutionDAO Lost Its Way](https://www.fwb.help/wip/imperfect-union-how-constitutiondao-lost-its-way)
+- [A guide on how to use Ranch with Elixir](https://github.com/asciibeats/elixir_ranch)
+- [“Hell Line”: Lessons from Seoul&#39;s controversial privatized subway line](https://seungylee14.substack.com/p/hell-line-lessons-from-seouls-controversial)
+- [‘Not’ and its many permutations](https://theamericanscholar.org/a-matter-of-emphasis/)
 - [Replit &lpar;YC W18&rpar; is hiring engineers to make delightful programming environments](https://replit.com/careers)
-- [Optimal coverage for Wordle with Monte Carlo methods – Part III](https://bytepawn.com/optimal-coverage-for-wordle-with-monte-carlo-methods-part-iii.html)
-- [The implementation of the UK Covid-19 dashboard](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/uk-covid-19-dashboard-built-using-postgres-and-citus-for/ba-p/3036276)
-- [The clock does not measure time; it produces it](https://www.noemamag.com/the-tyranny-of-time/)
-- [Decoupling as a moral decision](https://atis.substack.com/p/decoupling-as-a-moral-decision)
 <!-- BLOG-POST-LIST:END -->
 
 ---
