@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft&#39;s Activision Blizzard deal is bad for privacy rights](https://www.msnbc.com/opinion/microsoft-s-activision-blizzard-deal-bad-privacy-rights-n1287894)
+- [Buy Things, Not Experiences](https://write.as/harold-lee/theres-a-phrase-going-around-that-you-should-buy-experiences-not-things)
+- [The Free and Open Source Silicon Foundation](https://www.fossi-foundation.org/)
+- [Ask HN: Is Twitter censoring Telegram links?](https://news.ycombinator.com/item?id=30056894)
 - [GiveCampus &lpar;YC S15&rpar; hiring Sr engineers to increase accessibility to education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [Webb’s Journey to L2 Is Nearly Complete](https://blogs.nasa.gov/webb/2022/01/21/webbs-journey-to-l2-is-nearly-complete/)
-- [Ask HN: How to begin learning assembler for university course?](https://news.ycombinator.com/item?id=30056451)
-- [Kazushige Goto, a patent clerk who became one of the best assembly optimisers](https://twitter.com/tef_ebooks/status/1484083444627947522)
-- [XSuspender Auto-suspend inactive X11 applications](https://kernc.github.io/xsuspender/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
