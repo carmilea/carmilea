@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. weighs sending 5k troops to Eastern Europe to counter Russia](https://www.npr.org/2022/01/23/1075240355/u-s-troops-ukraine-russia-crisis)
+- [Kazushige Goto, a patent clerk who became one of the best assembly optimisers](https://twitter.com/tef_ebooks/status/1484083444627947522)
+- [XSuspender Auto-suspend inactive X11 applications](https://kernc.github.io/xsuspender/)
 - [Last Windows 11 update changed all default browser settings to Edge](https://news.ycombinator.com/item?id=30055222)
-- [Poll HN: What operating system do you primarily develop on?](https://news.ycombinator.com/item?id=30055031)
 - [I got pwned by my cloud costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
-- [Wonder Bird Flies Thousands of Miles, Non-Stop, as Part of a Migration](https://www.smithsonianmag.com/science-nature/hudsonian-godwit-flies-thousands-miles-without-resting-180979248/)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Engineers in Support in EMEA](https://bitmovin.com/careers/5617278002?gh_jid=5617278002)
 <!-- BLOG-POST-LIST:END -->
 
 ---
