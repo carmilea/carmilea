@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR: High medical bill in the ER leaves family reeling](https://www.npr.org/sections/health-shots/2022/01/24/1074531328/the-doctor-didnt-show-up-but-the-hospital-er-still-billed-1-012)
-- [Ask HN: Who has changed careers from engineer to patent agent/lawyer?](https://news.ycombinator.com/item?id=30058057)
-- [Solving Open Source Supply Chain Security for the PHP Ecosystem](https://paragonie.com/blog/2022/01/solving-open-source-supply-chain-security-for-php-ecosystem)
-- [Presenting Lst.sh – Portable Shell Array Library](https://lonkamikaze.github.io/2022/01/23/bsda2-presenting-lst.sh)
-- [On Covid](https://avc.com/2022/01/on-covid/)
+- [Water circuit analogy to electric circuit](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/watcir.html)
+- [Fortune-500 company expects answers about Log4j vulnerability from curl dev](https://daniel.haxx.se/blog/2022/01/24/logj4-security-inquiry-response-required/)
+- [Web3 and crypto skepticism is growing and people are finally starting to listen](https://www.coywolf.news/webmaster/web3-crypto-skepticism/)
+- [You Don&#39;t Need the Cloud](https://80daystartup.com/day-10/you-dont-need-the-cloud/)
+- [Jay Peak Ponzi Scheme: Immigrant Investors File Class Action Against Vermont](https://www.classaction.org/news/jay-peak-ponzi-scheme-immigrant-investors-file-class-action-against-vermont-officials-over-qburke-hotel-project)
 <!-- BLOG-POST-LIST:END -->
 
 ---
