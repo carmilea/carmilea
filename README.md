@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Manara &lpar;YC W21&rpar; hiring full-stack engineers and designer &lpar;remote&rpar;](http://www.manara.tech/careers)
+- [FreeBSD has serious problems with focus, longevity and lifecycle](https://lists.freebsd.org/pipermail/freebsd-hackers/2012-January/037294.html)
 - [Meditation and the Unconscious](https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation/)
 - [Yet another hot take on “folders versus tags”](https://eleanorkonik.com/yet-another-hot-take-on-folders-versus-tags/)
 - [Reverse engineering the 1988 NeXT keyboard protocol](https://journal.spencerwnelson.com/entries/nextkb.html)
-- [Web Accessibility Guidelines: Would They Provide Benefits to Nondisabled Users?](https://journals.sagepub.com/doi/full/10.1177/0018720816640962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
