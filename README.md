@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fathom &lpar;YC W21&rpar; is hiring our first Product Analyst &lpar;remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/s1QdG0L-product-analyst-remote)
+- [Cheri C/C++ Programming Guide [pdf]](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-947.pdf)
+- [VW fired senior employee after they raised cyber security concerns](https://www.ft.com/content/f5db8164-6d82-495e-a0a0-f12ae96dbd55)
 - [Water circuit analogy to electric circuit](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/watcir.html)
 - [Fortune-500 company expects answers about Log4j vulnerability from curl dev](https://daniel.haxx.se/blog/2022/01/24/logj4-security-inquiry-response-required/)
-- [Web3 and crypto skepticism is growing and people are finally starting to listen](https://www.coywolf.news/webmaster/web3-crypto-skepticism/)
-- [You Don&#39;t Need the Cloud](https://80daystartup.com/day-10/you-dont-need-the-cloud/)
-- [Jay Peak Ponzi Scheme: Immigrant Investors File Class Action Against Vermont](https://www.classaction.org/news/jay-peak-ponzi-scheme-immigrant-investors-file-class-action-against-vermont-officials-over-qburke-hotel-project)
 <!-- BLOG-POST-LIST:END -->
 
 ---
