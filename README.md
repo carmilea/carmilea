@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse engineering the 1988 NeXT keyboard protocol](https://journal.spencerwnelson.com/entries/nextkb.html)
 - [Web Accessibility Guidelines: Would They Provide Benefits to Nondisabled Users?](https://journals.sagepub.com/doi/full/10.1177/0018720816640962)
 - [Meta Unveils New AI Supercomputer](https://www.wsj.com/articles/meta-unveils-new-ai-supercomputer-11643043601)
 - [The AI Research SuperCluster](https://ai.facebook.com/blog/ai-rsc/)
-- [Mozilla Rally to “fight big tech”](https://rally.mozilla.org/)
 - [Scam Alert: Fake DMCA Takedown for Link Insertion](https://blog.fosketts.net/2022/01/24/scam-alert-fake-dmca-takedown-for-link-insertion/)
 <!-- BLOG-POST-LIST:END -->
 
