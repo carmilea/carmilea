@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to add comments to Jekyll blog](https://joelchrono12.netlify.app/blog/how-to-add-mastodon-comments-to-jekyll-blog/)
-- [How to make Lisp go faster than C [pdf]](http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf)
-- [Aerotime &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/aerotime/jobs/HxfTJyw-founding-engineer-front-end)
-- [Scientists find there are 70% fewer pollinators, due to air pollution](https://www.openaccessgovernment.org/pollination-air-pollution/127964/)
-- [I accidentally used YAML.parse instead of JSON.parse, and it worked?](https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json)
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Engineers in Support in EMEA](https://bitmovin.com/careers/5617278002?gh_jid=5617278002)
+- [Winamp Skin Museum &lpar;Interactive&rpar;](https://skins.webamp.org)
+- [In praise of the vertically sliced St. Louis bagel](https://www.seriouseats.com/in-praise-of-st-louis-bagels)
+- [Malloy – A Better SQL, from Looker](https://github.com/looker-open-source/malloy)
+- [Internet disrupted in Burkina Faso amid military uprising](https://netblocks.org/reports/internet-disrupted-in-burkina-faso-amid-reports-of-coup-attempt-oy9Y9Qy3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
