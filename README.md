@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A surprisingly hard CS problem: sums of square roots](https://shlegeris.com/2018/10/23/sqrt.html)
-- [A meander through Martian minutes and the meaning of local time](https://interconnected.org/home/2022/01/18/sols)
-- [$130B wiped off crypto markets in 24 hours](https://www.cnbc.com/2022/01/24/bitcoin-ether-fall-as-130-billion-wiped-off-cryptocurrency-markets-.html)
-- [The Curse of NixOS](https://blog.wesleyac.com/posts/the-curse-of-nixos)
-- [Three Electric-Jaguar Years](https://www.tbray.org/ongoing/When/202x/2022/01/22/Three-Jaguar-Years)
+- [NPR: High medical bill in the ER leaves family reeling](https://www.npr.org/sections/health-shots/2022/01/24/1074531328/the-doctor-didnt-show-up-but-the-hospital-er-still-billed-1-012)
+- [Ask HN: Who has changed careers from engineer to patent agent/lawyer?](https://news.ycombinator.com/item?id=30058057)
+- [Solving Open Source Supply Chain Security for the PHP Ecosystem](https://paragonie.com/blog/2022/01/solving-open-source-supply-chain-security-for-php-ecosystem)
+- [Presenting Lst.sh – Portable Shell Array Library](https://lonkamikaze.github.io/2022/01/23/bsda2-presenting-lst.sh)
+- [On Covid](https://avc.com/2022/01/on-covid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
