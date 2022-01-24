@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon.com Homepage &lpar;1999&rpar;](https://web.archive.org/web/19991013091044/https://www.amazon.com/exec/obidos/subst/home/home.html)
+- [California school kids must get Covid vaccine under new bill](https://www.latimes.com/california/story/2022-01-24/new-vaccine-legislation-california-schoolchildren-mandate)
 - [Manara &lpar;YC W21&rpar; hiring full-stack engineers and designer &lpar;remote&rpar;](http://www.manara.tech/careers)
 - [FreeBSD has serious problems with focus, longevity and lifecycle](https://lists.freebsd.org/pipermail/freebsd-hackers/2012-January/037294.html)
 - [Meditation and the Unconscious](https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation/)
-- [Yet another hot take on “folders versus tags”](https://eleanorkonik.com/yet-another-hot-take-on-folders-versus-tags/)
-- [Reverse engineering the 1988 NeXT keyboard protocol](https://journal.spencerwnelson.com/entries/nextkb.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
