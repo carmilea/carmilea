@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [P2P Future Darkens as EDonkey Closes &lpar;2005&rpar;](https://web.archive.org/web/20110918133225/http://betanews.com/2005/09/28/p2p-future-darkens-as-edonkey-closes/)
+- [Wordle-Solver – solves 99.7% of common five-letter English words](https://github.com/jason-chao/wordle-solver)
 - [Aerotime &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/aerotime/jobs/HxfTJyw-founding-engineer-front-end)
-- [Roger Ebert: Mighty Morphin Power Rangers &lpar;1995&rpar;](https://www.rogerebert.com/reviews/mighty-morphin-power-rangers-the-movie-1995)
-- [Show HN: Shoot the neural network before it shoots you](https://github.com/victorqribeiro/bangBang)
-- [Ask HN: Where are you going to find long-form content online these days?](https://news.ycombinator.com/item?id=30051782)
-- [Huginn: System for building agents that perform automated tasks online](https://github.com/huginn/huginn)
+- [Scientists find there are 70% fewer pollinators, due to air pollution](https://www.openaccessgovernment.org/pollination-air-pollution/127964/)
+- [I accidentally used YAML.parse instead of JSON.parse, and it worked?](https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json)
 <!-- BLOG-POST-LIST:END -->
 
 ---
