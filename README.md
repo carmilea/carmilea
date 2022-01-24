@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Got Pwned by My Cloud Costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Engineers in Support in EMEA](https://bitmovin.com/careers/5617278002?gh_jid=5617278002)
 - [Winamp Skin Museum &lpar;Interactive&rpar;](https://skins.webamp.org)
+- [Const All the Things?](https://quuxplusone.github.io/blog/2022/01/23/dont-const-all-the-things/)
 - [In praise of the vertically sliced St. Louis bagel](https://www.seriouseats.com/in-praise-of-st-louis-bagels)
-- [Malloy – A Better SQL, from Looker](https://github.com/looker-open-source/malloy)
-- [Internet disrupted in Burkina Faso amid military uprising](https://netblocks.org/reports/internet-disrupted-in-burkina-faso-amid-reports-of-coup-attempt-oy9Y9Qy3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
