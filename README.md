@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add comments to Jekyll blog](https://joelchrono12.netlify.app/blog/how-to-add-mastodon-comments-to-jekyll-blog/)
 - [Wordle-Solver – solves 99.7% of common five-letter English words](https://github.com/jason-chao/wordle-solver)
 - [Aerotime &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/aerotime/jobs/HxfTJyw-founding-engineer-front-end)
 - [Scientists find there are 70% fewer pollinators, due to air pollution](https://www.openaccessgovernment.org/pollination-air-pollution/127964/)
 - [I accidentally used YAML.parse instead of JSON.parse, and it worked?](https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json)
-- [Roger Ebert: Mighty Morphin Power Rangers &lpar;1995&rpar;](https://www.rogerebert.com/reviews/mighty-morphin-power-rangers-the-movie-1995)
 <!-- BLOG-POST-LIST:END -->
 
 ---
