@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Last Windows 11 update changed all default browser settings to Edge](https://news.ycombinator.com/item?id=30055222)
+- [Poll HN: What operating system do you primarily develop on?](https://news.ycombinator.com/item?id=30055031)
 - [I got pwned by my cloud costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
 - [Wonder Bird Flies Thousands of Miles, Non-Stop, as Part of a Migration](https://www.smithsonianmag.com/science-nature/hudsonian-godwit-flies-thousands-miles-without-resting-180979248/)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring Software Engineers in Support in EMEA](https://bitmovin.com/careers/5617278002?gh_jid=5617278002)
-- [Winamp Skin Museum &lpar;Interactive&rpar;](https://skins.webamp.org)
-- [Const All the Things?](https://quuxplusone.github.io/blog/2022/01/23/dont-const-all-the-things/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
