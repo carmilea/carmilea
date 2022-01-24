@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. weighs sending 5k troops to Eastern Europe to counter Russia](https://www.npr.org/2022/01/23/1075240355/u-s-troops-ukraine-russia-crisis)
+- [GiveCampus &lpar;YC S15&rpar; hiring Sr engineers to increase accessibility to education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Webb’s Journey to L2 Is Nearly Complete](https://blogs.nasa.gov/webb/2022/01/21/webbs-journey-to-l2-is-nearly-complete/)
+- [Ask HN: How to begin learning assembler for university course?](https://news.ycombinator.com/item?id=30056451)
 - [Kazushige Goto, a patent clerk who became one of the best assembly optimisers](https://twitter.com/tef_ebooks/status/1484083444627947522)
 - [XSuspender Auto-suspend inactive X11 applications](https://kernc.github.io/xsuspender/)
-- [Last Windows 11 update changed all default browser settings to Edge](https://news.ycombinator.com/item?id=30055222)
-- [I got pwned by my cloud costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
