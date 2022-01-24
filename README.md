@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Brain of a White-Collar Worker](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(07)61127-1/fulltext)
-- [Gmail account security is insane](https://news.ycombinator.com/item?id=30051054)
-- [DevCycle &lpar;YC W14&rpar; is rebuilding feature flags from the ground up – come join us](https://devcycle.com/company/careers)
-- [BLAKE2: “Harder, Better, Faster, Stronger” Than MD5 &lpar;2014&rpar;](https://leastauthority.com/blog/blake2-harder-better-faster-stronger-than-md5/)
-- [Sex Differences in Friendship Preferences](https://www.sciencedirect.com/science/article/abs/pii/S109051382100074X)
+- [Aerotime &lpar;YC W21&rpar; Is Hiring](https://www.ycombinator.com/companies/aerotime/jobs/HxfTJyw-founding-engineer-front-end)
+- [Roger Ebert: Mighty Morphin Power Rangers &lpar;1995&rpar;](https://www.rogerebert.com/reviews/mighty-morphin-power-rangers-the-movie-1995)
+- [Show HN: Shoot the neural network before it shoots you](https://github.com/victorqribeiro/bangBang)
+- [Ask HN: Where are you going to find long-form content online these days?](https://news.ycombinator.com/item?id=30051782)
+- [Huginn: System for building agents that perform automated tasks online](https://github.com/huginn/huginn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
