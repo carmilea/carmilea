@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Fathom &lpar;YC W21&rpar; is hiring our first Product Analyst &lpar;remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/s1QdG0L-product-analyst-remote)
-- [Cheri C/C++ Programming Guide [pdf]](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-947.pdf)
-- [VW fired senior employee after they raised cyber security concerns](https://www.ft.com/content/f5db8164-6d82-495e-a0a0-f12ae96dbd55)
-- [Water circuit analogy to electric circuit](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/watcir.html)
-- [Fortune-500 company expects answers about Log4j vulnerability from curl dev](https://daniel.haxx.se/blog/2022/01/24/logj4-security-inquiry-response-required/)
+- [Scam Alert: Fake DMCA Takedown for Link Insertion](https://blog.fosketts.net/2022/01/24/scam-alert-fake-dmca-takedown-for-link-insertion/)
+- [Amazon suggests user delete tweet showing how much data they collect](https://twitter.com/amazonhelp/status/1485629674264969216)
+- [Get ahead by not shooting yourself in the foot](https://piszek.com/2022/01/24/stop-shooting-yourself-in-the-foot/)
+- [Coming to Grips with the American Civil War](https://nate.org/civil-war)
+- [Deskreen: Turn any device into a secondary screen for your computer](https://deskreen.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
