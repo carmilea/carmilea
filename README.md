@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Accessibility Guidelines: Would They Provide Benefits to Nondisabled Users?](https://journals.sagepub.com/doi/full/10.1177/0018720816640962)
+- [Meta Unveils New AI Supercomputer](https://www.wsj.com/articles/meta-unveils-new-ai-supercomputer-11643043601)
+- [The AI Research SuperCluster](https://ai.facebook.com/blog/ai-rsc/)
+- [Mozilla Rally to “fight big tech”](https://rally.mozilla.org/)
 - [Scam Alert: Fake DMCA Takedown for Link Insertion](https://blog.fosketts.net/2022/01/24/scam-alert-fake-dmca-takedown-for-link-insertion/)
-- [Amazon suggests user delete tweet showing how much data they collect](https://twitter.com/amazonhelp/status/1485629674264969216)
-- [Get ahead by not shooting yourself in the foot](https://piszek.com/2022/01/24/stop-shooting-yourself-in-the-foot/)
-- [Coming to Grips with the American Civil War](https://nate.org/civil-war)
-- [Deskreen: Turn any device into a secondary screen for your computer](https://deskreen.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
