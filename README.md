@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft&#39;s Activision Blizzard deal is bad for privacy rights](https://www.msnbc.com/opinion/microsoft-s-activision-blizzard-deal-bad-privacy-rights-n1287894)
-- [Buy Things, Not Experiences](https://write.as/harold-lee/theres-a-phrase-going-around-that-you-should-buy-experiences-not-things)
-- [The Free and Open Source Silicon Foundation](https://www.fossi-foundation.org/)
-- [Ask HN: Is Twitter censoring Telegram links?](https://news.ycombinator.com/item?id=30056894)
-- [GiveCampus &lpar;YC S15&rpar; hiring Sr engineers to increase accessibility to education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [A surprisingly hard CS problem: sums of square roots](https://shlegeris.com/2018/10/23/sqrt.html)
+- [A meander through Martian minutes and the meaning of local time](https://interconnected.org/home/2022/01/18/sols)
+- [$130B wiped off crypto markets in 24 hours](https://www.cnbc.com/2022/01/24/bitcoin-ether-fall-as-130-billion-wiped-off-cryptocurrency-markets-.html)
+- [The Curse of NixOS](https://blog.wesleyac.com/posts/the-curse-of-nixos)
+- [Three Electric-Jaguar Years](https://www.tbray.org/ongoing/When/202x/2022/01/22/Three-Jaguar-Years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
