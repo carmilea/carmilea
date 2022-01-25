@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Israel’s ‘Facebook law’ plans to control all Palestinian content online](http://www.ramzybaroud.net/how-israels-facebook-law-plans-to-control-all-palestinian-content-online/)
+- [AlphaFold-Powered Drug Discovery of a Novel CDK20 Inhibitor](https://arxiv.org/abs/2201.09647)
 - [Highlights from Git 2.35](https://github.blog/2022-01-24-highlights-from-git-2-35/)
 - [Harvard mathematician answers 150-year-old chess problem](https://news.harvard.edu/gazette/story/2022/01/harvard-mathematician-answers-150-year-old-chess-problem/)
 - [Thin PostgreSQL Clones](https://github.com/postgres-ai/database-lab-engine)
-- [Request your personal information](https://www.amazon.com/gp/help/customer/display.html?nodeId=GXPU3YPMBZQRWZK2)
-- [Ascension’s response to Thedacare’s motion for restraining order [pdf]](https://www.wpr.org/sites/default/files/ascensionbriefjan24.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
