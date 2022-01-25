@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Ur-Quan Masters](http://sc2.sourceforge.net/)
 - [The great renaming: what happened to Eth2?](https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming/)
-- [Show HN: Social network that looks and works more like a forum](https://hey.cafe)
+- [Nova by Panic](https://nova.app)
 - [717 Gigapixel Image of Rembrandt&#39;s Nightwatch](https://hyper-resolution.org/view.html?pointer=0.111,0.001&i=Rijksmuseum/SK-C-5/SK-C-5_VIS_5-um_2020-09-08)
 - [Lighthouse Map](https://geodienst.github.io/lighthousemap/)
 <!-- BLOG-POST-LIST:END -->
