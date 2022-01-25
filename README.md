@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [WebAssembly Techniques to Speed Up Matrix Multiplication by 120x](https://jott.live/markdown/mm_wasm)
-- [Ask HN: Who has moved from the U.S. to Europe?](https://news.ycombinator.com/item?id=30073066)
-- [Store SQLite in Cloudflare Durable Objects](https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects)
-- [The Writing on the Wall: Sci-Fi’s Empty Techno-Optimism](https://bloodknife.com/inadequacy-of-inspirational-scifi/)
-- [Lessons for a Young Scientist](https://nautil.us/lessons-for-a-young-scientist-2-13423/)
+- [Researchers Build AI That Builds AI](https://www.quantamagazine.org/researchers-build-ai-that-builds-ai-20220125/)
+- [Ribbon Health &lpar;YC S17&rpar; hiring values-driven Engineers to help patients find care](https://www.ribbonhealth.com/blog/how-ribbons-value-driven-tech-philosophy-helps-patients-find-care/)
+- [My new platform. Check it out](https://www.sonarmobileapp.com)
+- [Google Is Forcing Me to Dump a Perfectly Good Phone](https://www.vice.com/en/article/dypxpx/google-is-forcing-me-to-dump-a-perfectly-good-phone)
+- [Simulating the IBM 360/50 mainframe from its microcode](https://www.righto.com/2022/01/ibm360model50.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
