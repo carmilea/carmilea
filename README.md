@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia preparing to abandon acquisition of Arm - Bloomberg News](https://www.reuters.com/technology/nvidia-preparing-abandon-acquisition-arm-bloomberg-news-2022-01-25/)
-- [Nvidia Quietly Prepares to Abandon Takeover of Arm](https://www.bloomberg.com/news/articles/2022-01-25/nvidia-is-said-to-quietly-prepare-to-abandon-takeover-of-arm)
-- [Firefox about:config Menu Shortcut](https://github.com/garywill/aboutconfig-menu)
-- [Node-Red](https://github.com/naimo84/awesome-nodered)
-- [Censorship by Algorithm Does Far More Damage Than Conventional Censorship](https://caitlinjohnstone.substack.com/p/censorship-by-algorithm-does-far)
+- [Around one-in-three children globally suffer from lead poisoning](https://ourworldindata.org/reducing-lead-poisoning)
+- [Hypercontext &lpar;YC S21&rpar; is hiring a SwiftUI developer](https://www.ycombinator.com/companies/hypercontext/jobs/kVsnSnv-software-engineer-swift-ui-macos)
+- [Chesterton’s Fence](https://fs.blog/chestertons-fence/)
+- [What&#39;s New in Ruby 3.1?](https://nithinbekal.com/posts/ruby-3-1/)
+- [Nvidia prepares to abandon takeover of Arm](https://www.bloomberg.com/news/articles/2022-01-25/nvidia-is-said-to-quietly-prepare-to-abandon-takeover-of-arm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
