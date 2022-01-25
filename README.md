@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Biggest Mistake I See Engineers Make](https://thezbook.com/the-biggest-mistake-i-see-engineers-make/)
+- [I’m Porting the TypeScript Type Checker Tsc to Go](https://kdy1.dev/posts/2022/1/tsc-go)
 - [Researchers Build AI That Builds AI](https://www.quantamagazine.org/researchers-build-ai-that-builds-ai-20220125/)
 - [Ribbon Health &lpar;YC S17&rpar; hiring values-driven Engineers to help patients find care](https://www.ribbonhealth.com/blog/how-ribbons-value-driven-tech-philosophy-helps-patients-find-care/)
 - [My new platform. Check it out](https://www.sonarmobileapp.com)
-- [Google Is Forcing Me to Dump a Perfectly Good Phone](https://www.vice.com/en/article/dypxpx/google-is-forcing-me-to-dump-a-perfectly-good-phone)
-- [Simulating the IBM 360/50 mainframe from its microcode](https://www.righto.com/2022/01/ibm360model50.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
