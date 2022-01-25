@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Highlights from Git 2.35](https://github.blog/2022-01-24-highlights-from-git-2-35/)
 - [Harvard mathematician answers 150-year-old chess problem](https://news.harvard.edu/gazette/story/2022/01/harvard-mathematician-answers-150-year-old-chess-problem/)
-- [Request Your Personal Information from Amazon](https://www.amazon.com/gp/help/customer/display.html?nodeId=GXPU3YPMBZQRWZK2)
-- [“Your failure to prepare is not my personal emergency”: Thedacare vs. Ascension [pdf]](https://www.wpr.org/sites/default/files/ascensionbriefjan24.pdf)
-- [Papers We Love](https://github.com/papers-we-love/papers-we-love)
-- [North Korea may have its own corps of communist killer dolphins](https://www.military.com/off-duty/north-korea-may-have-its-own-corps-of-communist-killer-dolphins.html)
+- [Thin PostgreSQL Clones](https://github.com/postgres-ai/database-lab-engine)
+- [Request your personal information](https://www.amazon.com/gp/help/customer/display.html?nodeId=GXPU3YPMBZQRWZK2)
+- [Ascension’s response to Thedacare’s motion for restraining order [pdf]](https://www.wpr.org/sites/default/files/ascensionbriefjan24.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
