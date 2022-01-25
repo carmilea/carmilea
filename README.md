@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Israel’s ‘Facebook law’ plans to control all Palestinian content online](http://www.ramzybaroud.net/how-israels-facebook-law-plans-to-control-all-palestinian-content-online/)
+- [Node-Red](https://github.com/naimo84/awesome-nodered)
 - [AlphaFold-Powered Drug Discovery of a Novel CDK20 Inhibitor](https://arxiv.org/abs/2201.09647)
 - [Highlights from Git 2.35](https://github.blog/2022-01-24-highlights-from-git-2-35/)
 - [Harvard mathematician answers 150-year-old chess problem](https://news.harvard.edu/gazette/story/2022/01/harvard-mathematician-answers-150-year-old-chess-problem/)
