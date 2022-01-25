@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Biggest Mistake I See Engineers Make](https://thezbook.com/the-biggest-mistake-i-see-engineers-make/)
+- [Pfizer and BioNTech launch trial of Omicron-targeted Covid vaccine](https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-biontech-launch-trial-omicron-targeted-covid-vaccine-2022-01-25/)
+- [Doing too much work on one&#39;s own before looping in others](https://thezbook.com/the-biggest-mistake-i-see-engineers-make/)
 - [I’m Porting the TypeScript Type Checker Tsc to Go](https://kdy1.dev/posts/2022/1/tsc-go)
 - [Researchers Build AI That Builds AI](https://www.quantamagazine.org/researchers-build-ai-that-builds-ai-20220125/)
 - [Ribbon Health &lpar;YC S17&rpar; hiring values-driven Engineers to help patients find care](https://www.ribbonhealth.com/blog/how-ribbons-value-driven-tech-philosophy-helps-patients-find-care/)
-- [My new platform. Check it out](https://www.sonarmobileapp.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
