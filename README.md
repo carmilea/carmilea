@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia preparing to abandon acquisition of Arm - Bloomberg News](https://www.reuters.com/technology/nvidia-preparing-abandon-acquisition-arm-bloomberg-news-2022-01-25/)
+- [Nvidia Quietly Prepares to Abandon Takeover of Arm](https://www.bloomberg.com/news/articles/2022-01-25/nvidia-is-said-to-quietly-prepare-to-abandon-takeover-of-arm)
+- [Firefox about:config Menu Shortcut](https://github.com/garywill/aboutconfig-menu)
 - [Node-Red](https://github.com/naimo84/awesome-nodered)
-- [AlphaFold-Powered Drug Discovery of a Novel CDK20 Inhibitor](https://arxiv.org/abs/2201.09647)
-- [Highlights from Git 2.35](https://github.blog/2022-01-24-highlights-from-git-2-35/)
-- [Harvard mathematician answers 150-year-old chess problem](https://news.harvard.edu/gazette/story/2022/01/harvard-mathematician-answers-150-year-old-chess-problem/)
-- [Thin PostgreSQL Clones](https://github.com/postgres-ai/database-lab-engine)
+- [Censorship by Algorithm Does Far More Damage Than Conventional Censorship](https://caitlinjohnstone.substack.com/p/censorship-by-algorithm-does-far)
 <!-- BLOG-POST-LIST:END -->
 
 ---
