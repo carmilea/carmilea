@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ketogenic Diets and Chronic Disease: Benefits vs. Risks](https://www.frontiersin.org/articles/10.3389/fnut.2021.702802/full)
 - [Motion &lpar;YC W20&rpar; is hiring full stack and back end engineers](https://jobs.ashbyhq.com/motion)
-- [The end of poverty has just begun](https://ourworldindata.org/history-of-poverty-has-just-begun)
+- [Rebuilding Notre Dame Cathedral](https://casdinteret.com/2022/01/rebuilding-notre-dame-painstaking-battle-between-new-and-old/)
 - [Pwnkit: Local Privilege Escalation in polkit&#39;s pkexec &lpar;CVE-2021-4034&rpar;](https://seclists.org/oss-sec/2022/q1/80)
 - [Scary Fraud Ensues When ID Theft and Usury Collide](https://krebsonsecurity.com/2022/01/scary-fraud-ensues-when-id-theft-usury-collide/)
-- [Nintendo Switch game cartridges taste offensively bad &lpar;2017&rpar;](https://www.polygon.com/2017/3/1/14784140/nintendo-switch-cartridges-taste-awful-psa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
