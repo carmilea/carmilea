@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Silicon fluorescence from microcracks in cement, revealing signs of damage](https://www.nature.com/articles/s41598-022-05113-1)
+- [The Old Internet Shows Signs of Quietly Coming Back](https://cheapskatesguide.org/articles/old-internet-coming-back.html)
+- [Economists are revising their views on robots and jobs](https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs)
 - [Ketogenic Diets and Chronic Disease: Benefits vs. Risks](https://www.frontiersin.org/articles/10.3389/fnut.2021.702802/full)
 - [Motion &lpar;YC W20&rpar; is hiring full stack and back end engineers](https://jobs.ashbyhq.com/motion)
-- [Rebuilding Notre Dame Cathedral](https://casdinteret.com/2022/01/rebuilding-notre-dame-painstaking-battle-between-new-and-old/)
-- [Pwnkit: Local Privilege Escalation in polkit&#39;s pkexec &lpar;CVE-2021-4034&rpar;](https://seclists.org/oss-sec/2022/q1/80)
-- [Scary Fraud Ensues When ID Theft and Usury Collide](https://krebsonsecurity.com/2022/01/scary-fraud-ensues-when-id-theft-usury-collide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
