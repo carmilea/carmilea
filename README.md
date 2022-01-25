@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Flameshot v11.0.0](https://github.com/flameshot-org/flameshot/releases/tag/v11.0.0)
+- [Get to Know the New Topics API for Privacy Sandbox](https://blog.google/products/chrome/get-know-new-topics-api-privacy-sandbox/)
+- [Recovering redacted information from pixelated videos](https://positive.security/blog/video-depixelation)
 - [About Citation Files on GitHub](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
 - [We purchased a machine from China and it came with malware preinstalled](https://www.rmcybernetics.com/general/zhengbang-zb3245tss-pick-place-machine)
-- [Around one-in-three children globally suffer from lead poisoning](https://ourworldindata.org/reducing-lead-poisoning)
-- [Hypercontext &lpar;YC S21&rpar; is hiring a SwiftUI developer](https://www.ycombinator.com/companies/hypercontext/jobs/kVsnSnv-software-engineer-swift-ui-macos)
-- [Chesterton’s Fence &lpar;2020&rpar;](https://fs.blog/chestertons-fence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
