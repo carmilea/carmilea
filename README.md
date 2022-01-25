@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon.com Homepage &lpar;1999&rpar;](https://web.archive.org/web/19991013091044/https://www.amazon.com/exec/obidos/subst/home/home.html)
-- [California school kids must get Covid vaccine under new bill](https://www.latimes.com/california/story/2022-01-24/new-vaccine-legislation-california-schoolchildren-mandate)
-- [Manara &lpar;YC W21&rpar; hiring full-stack engineers and designer &lpar;remote&rpar;](http://www.manara.tech/careers)
-- [FreeBSD has serious problems with focus, longevity and lifecycle](https://lists.freebsd.org/pipermail/freebsd-hackers/2012-January/037294.html)
-- [Meditation and the Unconscious](https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation/)
+- [The Ur-Quan Masters](http://sc2.sourceforge.net/)
+- [The great renaming: what happened to Eth2?](https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming/)
+- [Show HN: Social network that looks and works more like a forum](https://hey.cafe)
+- [717 Gigapixel Image of Rembrandt&#39;s Nightwatch](https://hyper-resolution.org/view.html?pointer=0.111,0.001&i=Rijksmuseum/SK-C-5/SK-C-5_VIS_5-um_2020-09-08)
+- [Lighthouse Map](https://geodienst.github.io/lighthousemap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
