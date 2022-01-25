@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini is Solutionism at its Worst](https://xn--gckvb8fzb.com/gemini-is-solutionism-at-its-worst/)
 - [Paul Giamatti broke the California wine industry](https://thewhyaxis.substack.com/p/how-paul-giamatti-broke-the-california)
+- [Caffeine&#39;s Smarter Sibling: An Experience with Modafinil &lpar;2013&rpar;](https://erowid.org/experiences/exp.php?ID=100310)
 - [Bolt founder on Stripe/YC](https://twitter.com/theryanking/status/1485784823641755648)
 - [Are popular toxicity models simply profanity detectors?](https://www.surgehq.ai/blog/are-popular-toxicity-models-simply-profanity-detectors)
-- [The Ur-Quan Masters](http://sc2.sourceforge.net/)
-- [The great renaming: what happened to Eth2?](https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
