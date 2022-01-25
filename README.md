@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [About Citation Files on GitHub](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
+- [We purchased a machine from China and it came with malware preinstalled](https://www.rmcybernetics.com/general/zhengbang-zb3245tss-pick-place-machine)
 - [Around one-in-three children globally suffer from lead poisoning](https://ourworldindata.org/reducing-lead-poisoning)
 - [Hypercontext &lpar;YC S21&rpar; is hiring a SwiftUI developer](https://www.ycombinator.com/companies/hypercontext/jobs/kVsnSnv-software-engineer-swift-ui-macos)
-- [Chesterton’s Fence](https://fs.blog/chestertons-fence/)
-- [What&#39;s New in Ruby 3.1?](https://nithinbekal.com/posts/ruby-3-1/)
-- [Nvidia prepares to abandon takeover of Arm](https://www.bloomberg.com/news/articles/2022-01-25/nvidia-is-said-to-quietly-prepare-to-abandon-takeover-of-arm)
+- [Chesterton’s Fence &lpar;2020&rpar;](https://fs.blog/chestertons-fence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
