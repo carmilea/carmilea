@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Paul Giamatti broke the California wine industry](https://thewhyaxis.substack.com/p/how-paul-giamatti-broke-the-california)
+- [Bolt founder on Stripe/YC](https://twitter.com/theryanking/status/1485784823641755648)
+- [Are popular toxicity models simply profanity detectors?](https://www.surgehq.ai/blog/are-popular-toxicity-models-simply-profanity-detectors)
 - [The Ur-Quan Masters](http://sc2.sourceforge.net/)
 - [The great renaming: what happened to Eth2?](https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming/)
-- [Nova by Panic](https://nova.app)
-- [717 Gigapixel Image of Rembrandt&#39;s Nightwatch](https://hyper-resolution.org/view.html?pointer=0.111,0.001&i=Rijksmuseum/SK-C-5/SK-C-5_VIS_5-um_2020-09-08)
-- [Lighthouse Map](https://geodienst.github.io/lighthousemap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
