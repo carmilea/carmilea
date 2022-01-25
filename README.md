@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch HN: Castled Data &lpar;YC W22&rpar; – Open-Source Reverse ETL](https://github.com/castledio/castled)
-- [Flameshot v11.0.0](https://github.com/flameshot-org/flameshot/releases/tag/v11.0.0)
-- [Get to Know the New Topics API for Privacy Sandbox](https://blog.google/products/chrome/get-know-new-topics-api-privacy-sandbox/)
-- [25% of U.S. adults are not active enough to protect their health](https://www.cdc.gov/media/releases/2022/p0120-inactivity-map.html)
-- [Recovering redacted information from pixelated videos](https://positive.security/blog/video-depixelation)
+- [WebAssembly Techniques to Speed Up Matrix Multiplication by 120x](https://jott.live/markdown/mm_wasm)
+- [Ask HN: Who has moved from the U.S. to Europe?](https://news.ycombinator.com/item?id=30073066)
+- [Store SQLite in Cloudflare Durable Objects](https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects)
+- [The Writing on the Wall: Sci-Fi’s Empty Techno-Optimism](https://bloodknife.com/inadequacy-of-inspirational-scifi/)
+- [Lessons for a Young Scientist](https://nautil.us/lessons-for-a-young-scientist-2-13423/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
