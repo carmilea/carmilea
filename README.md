@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Castled Data &lpar;YC W22&rpar; – Open-Source Reverse ETL](https://github.com/castledio/castled)
 - [Flameshot v11.0.0](https://github.com/flameshot-org/flameshot/releases/tag/v11.0.0)
 - [Get to Know the New Topics API for Privacy Sandbox](https://blog.google/products/chrome/get-know-new-topics-api-privacy-sandbox/)
+- [25% of U.S. adults are not active enough to protect their health](https://www.cdc.gov/media/releases/2022/p0120-inactivity-map.html)
 - [Recovering redacted information from pixelated videos](https://positive.security/blog/video-depixelation)
-- [About Citation Files on GitHub](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
-- [We purchased a machine from China and it came with malware preinstalled](https://www.rmcybernetics.com/general/zhengbang-zb3245tss-pick-place-machine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
