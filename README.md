@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Harvard mathematician answers 150-year-old chess problem](https://news.harvard.edu/gazette/story/2022/01/harvard-mathematician-answers-150-year-old-chess-problem/)
 - [Request Your Personal Information from Amazon](https://www.amazon.com/gp/help/customer/display.html?nodeId=GXPU3YPMBZQRWZK2)
+- [“Your failure to prepare is not my personal emergency”: Thedacare vs. Ascension [pdf]](https://www.wpr.org/sites/default/files/ascensionbriefjan24.pdf)
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
-- [Militarized Dolphins Protect Almost a Quarter of the US Nuclear Stockpile](https://www.military.com/history/militarized-dolphins-protect-almost-quarter-of-us-nuclear-stockpile.html)
-- [Gemini is Solutionism](https://xn--gckvb8fzb.com/gemini-is-solutionism-at-its-worst/)
-- [Paul Giamatti broke the California wine industry](https://thewhyaxis.substack.com/p/how-paul-giamatti-broke-the-california)
+- [North Korea may have its own corps of communist killer dolphins](https://www.military.com/off-duty/north-korea-may-have-its-own-corps-of-communist-killer-dolphins.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
