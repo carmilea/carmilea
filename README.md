@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Quebec bans unvaccinated from buying groceries at Walmart, Costco](https://tnc.news/2022/01/24/quebec-bans-unvaccinated-from-buying-groceries-at-walmart-costco/)
-- [Electric Tables – an experiment in personal databases](https://tomcritchlow.com/2022/01/26/electric-tables/)
-- [Creating a Postgres Foreign Data Wrapper](https://www.dolthub.com/blog/2022-01-26-creating-a-postgres-foreign-data-wrapper/)
-- [Will charging for posts lead to higher social media content quality?](https://1life.cc/)
-- [Zim – A Desktop Wiki](https://zim-wiki.org/)
+- [Stop Brainstorming](https://matthewstrom.com/writing/stop-brainstorming/)
+- [Universe &lpar;YC W18&rpar; Is Hiring Product Leads for Creation and Commerce Tools](https://workatuniverse.com/product)
+- [Worst practices are viral for the wrong reasons &lpar;2014&rpar;](https://www.haskellforall.com/2014/04/worst-practices-are-viral-for-wrong.html)
+- [To my surprise and elation, the Webb Space Telescope is going to work](https://arstechnica.com/science/2022/01/whats-left-for-the-webb-telescope-now-waggling-mirrors-turning-on-instruments/)
+- [The impact of hardware specifications on reaching quantum advantage](https://avs.scitation.org/doi/10.1116/5.0073075)
 <!-- BLOG-POST-LIST:END -->
 
 ---
