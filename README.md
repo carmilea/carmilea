@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [YC&#39;s software team is looking for a full stack engineer](https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer)
+- [Information Hazards: A Typology of Potential Harms from Knowledge [pdf]](https://www.nickbostrom.com/information-hazards.pdf)
+- [How Claude Shannon Helped Kick-Start Machine Learning](https://spectrum.ieee.org/claude-shannon-information-theory)
 - [Sleep quality and consistency is associated with better academic performance](https://www.grelin.net/post/Urruj7Id8snp96DQRdPP)
 - [Machine Readable Specifications at Scale](https://alastairreid.github.io/mrs-at-scale/)
-- [Redis vs. Kafka vs. RabbitMQ](https://blog.devgenius.io/redis-vs-kafka-vs-rabbitmq-e935ebbc7ec?gi=b3138e222174)
-- [The Piano Test for Program Verification &lpar;2011&rpar;](https://blog.regehr.org/archives/364)
-- [Ask HN: Is the past dissapearing?](https://news.ycombinator.com/item?id=30083783)
 <!-- BLOG-POST-LIST:END -->
 
 ---
