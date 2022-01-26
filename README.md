@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A prisoner who worked out how to input Chinese characters into a machine](https://www.wired.com/story/kingdom-of-characters-jing-tsu-china-language-information/)
-- [We Studied 81,000 Page Titles – Google Rewrote 61% of Them](https://zyppy.com/blog/google-title-rewrite-study/)
-- [Show HN: A simple Wordle clone in 60 lines, using Hyperscript](https://arhamjain.com/hyperwordle/)
-- [AirPods Don&#39;t “Just Work”](https://philip.design/blog/airpods-dont-just-work/)
-- [Vintage Radio Broadcasting Equipment](https://www.oldradio.com/archives/hardware/)
+- [Panwriter – Distraction-free Markdown editor with pandoc integration](https://panwriter.com/)
+- [A Minimum Viable Computer, or Linux for $15](https://bbenchoff.github.io/pages/LinuxDevice.html)
+- [Show HN: Infracost &lpar;YC W21&rpar; – Open-source cloud cost policies](https://github.com/infracost/infracost)
+- [North Korean internet downed by suspected cyber attacks](https://www.reuters.com/world/asia-pacific/nkorean-internet-downed-by-suspected-cyber-attacks-researchers-2022-01-26/)
+- [Snowden: This is not a drill](https://twitter.com/Snowden/status/1486049822847250433)
 <!-- BLOG-POST-LIST:END -->
 
 ---
