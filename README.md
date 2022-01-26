@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Pachyderm is hiring data science bloggers to pioneer the modern MLOps stack](https://www.pachyderm.com/careers/#positions)
+- [Court rejects $1.2B EU antitrust fine against Intel](https://www.reuters.com/technology/court-rejects-12-bln-eu-antitrust-fine-against-intel-2022-01-26/)
 - [Panwriter – Distraction-free Markdown editor with pandoc integration](https://panwriter.com/)
 - [A Minimum Viable Computer, or Linux for $15](https://bbenchoff.github.io/pages/LinuxDevice.html)
 - [Show HN: Infracost &lpar;YC W21&rpar; – Open-source cloud cost policies](https://github.com/infracost/infracost)
-- [North Korean internet downed by suspected cyber attacks](https://www.reuters.com/world/asia-pacific/nkorean-internet-downed-by-suspected-cyber-attacks-researchers-2022-01-26/)
-- [Snowden: This is not a drill](https://twitter.com/Snowden/status/1486049822847250433)
 <!-- BLOG-POST-LIST:END -->
 
 ---
