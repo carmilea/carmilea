@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Quebec bans unvaccinated from buying groceries at Walmart, Costco](https://tnc.news/2022/01/24/quebec-bans-unvaccinated-from-buying-groceries-at-walmart-costco/)
 - [Electric Tables – an experiment in personal databases](https://tomcritchlow.com/2022/01/26/electric-tables/)
 - [Creating a Postgres Foreign Data Wrapper](https://www.dolthub.com/blog/2022-01-26-creating-a-postgres-foreign-data-wrapper/)
 - [Will charging for posts lead to higher social media content quality?](https://1life.cc/)
 - [Zim – A Desktop Wiki](https://zim-wiki.org/)
-- [No, Ethereum Name Service is still a clown show](https://yanmaani.github.io/no-ethereum-name-service-is-still-a-clown-show/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
