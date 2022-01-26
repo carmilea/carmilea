@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pfizer board member suggests end to mask, vaccine mandates](https://ntdca.com/pfizer-board-member-suggests-end-to-mask-vaccine-mandates/)
+- [A prisoner who worked out how to input Chinese characters into a machine](https://www.wired.com/story/kingdom-of-characters-jing-tsu-china-language-information/)
+- [We Studied 81,000 Page Titles – Google Rewrote 61% of Them](https://zyppy.com/blog/google-title-rewrite-study/)
+- [Show HN: A simple Wordle clone in 60 lines, using Hyperscript](https://arhamjain.com/hyperwordle/)
 - [AirPods Don&#39;t “Just Work”](https://philip.design/blog/airpods-dont-just-work/)
 - [Vintage Radio Broadcasting Equipment](https://www.oldradio.com/archives/hardware/)
-- [Facebook’s Libra is still dead – Diem to be sold off for spare parts](https://davidgerard.co.uk/blockchain/2022/01/26/facebooks-libra-is-still-dead-diem-to-be-sold-off-for-spare-parts/)
-- [Pwnkit: Local Privilege Escalation in polkit&#39;s pkexec &lpar;CVE-2021-4034&rpar;](https://www.qualys.com/2022/01/25/cve-2021-4034/pwnkit.txt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
