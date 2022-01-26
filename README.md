@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Electric Tables – an experiment in personal databases](https://tomcritchlow.com/2022/01/26/electric-tables/)
+- [Creating a Postgres Foreign Data Wrapper](https://www.dolthub.com/blog/2022-01-26-creating-a-postgres-foreign-data-wrapper/)
+- [Will charging for posts lead to higher social media content quality?](https://1life.cc/)
 - [Zim – A Desktop Wiki](https://zim-wiki.org/)
-- [UBS Acquires Wealthfront for $1.4B](https://www.reuters.com/business/finance/ubs-buy-us-wealth-management-specialist-wealthfront-14-bln-2022-01-26/)
-- [Wanna Buy a Radio Station? &lpar;2015&rpar;](https://darrylparks.com/2015/11/11/wanna-buy-a-radio-station-really-cheap/)
-- [Burning plasma achieved in inertial fusion](https://www.nature.com/articles/s41586-021-04281-w)
-- [Pachyderm &lpar;YC W15&rpar; is hiring data science bloggers](https://www.pachyderm.com/careers/#positions)
+- [No, Ethereum Name Service is still a clown show](https://yanmaani.github.io/no-ethereum-name-service-is-still-a-clown-show/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
