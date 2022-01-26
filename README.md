@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Agatha Christie could afford a maid and a nanny but not a car](https://fullstackeconomics.com/why-agatha-christie-could-afford-a-maid-and-a-nanny-but-not-a-car/)
+- [Two weeks later David Bennett is alive, his pig’s heart beating soundly](https://www.irishtimes.com/life-and-style/health-family/two-weeks-after-his-operation-david-bennett-is-alive-his-pig-s-heart-beating-soundly-1.4783776)
+- [The Polygons of Éric&#39;s Chahi Another World](https://fabiensanglard.net/another_world_polygons/index.html)
 - [Silicon fluorescence from microcracks in cement, revealing signs of damage](https://www.nature.com/articles/s41598-022-05113-1)
 - [The old internet shows signs of quietly coming back](https://cheapskatesguide.org/articles/old-internet-coming-back.html)
-- [Economists are revising their views on robots and jobs](https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs)
-- [Ketogenic Diets and Chronic Disease: Benefits vs. Risks](https://www.frontiersin.org/articles/10.3389/fnut.2021.702802/full)
-- [Motion &lpar;YC W20&rpar; is hiring full stack and back end engineers](https://jobs.ashbyhq.com/motion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
