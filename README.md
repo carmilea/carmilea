@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ashby &lpar;YC W19&rpar; hiring engineers who want to own product](https://jobs.ashbyhq.com/Ashby?utm_source=hn)
 - [Let&#39;s Encrypt: Issue with TLS-ALPN-01 Validation Method](https://community.letsencrypt.org/t/2022-01-25-issue-with-tls-alpn-01-validation-method/170450)
 - [Ask HN: How do you get out of a rut?](https://news.ycombinator.com/item?id=30082234)
+- [Elsevier embeds a hash in the PDF metadata that is unique for each download](https://twitter.com/json_dirs/status/1486120144141123584)
 - [Surprises in the Bitcoin blockchain and how they are stored &lpar;2014&rpar;](https://www.righto.com/2014/02/ascii-bernanke-wikileaks-photographs.html)
-- [Guide to Using YubiKey for GPG and SSH](https://github.com/drduh/YubiKey-Guide)
-- [Nature Neuroscience offers open access publishing for 11,390 USD per article](https://www.nature.com/articles/s41593-021-00995-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
