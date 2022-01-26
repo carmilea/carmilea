@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Agatha Christie could afford a maid and a nanny but not a car](https://fullstackeconomics.com/why-agatha-christie-could-afford-a-maid-and-a-nanny-but-not-a-car/)
+- [Guide to Using YubiKey for GPG and SSH](https://github.com/drduh/YubiKey-Guide)
+- [Nature Neuroscience offers open access publishing for 11,390 USD per article](https://www.nature.com/articles/s41593-021-00995-2)
+- [Agatha Christie could afford a maid and a nanny but not a car](https://fullstackeconomics.com/why-agatha-christie-could-afford-a-maid-and-a-nanny-but-not-a-car/)
 - [Two weeks later David Bennett is alive, his pig’s heart beating soundly](https://www.irishtimes.com/life-and-style/health-family/two-weeks-after-his-operation-david-bennett-is-alive-his-pig-s-heart-beating-soundly-1.4783776)
 - [The Polygons of Éric&#39;s Chahi Another World](https://fabiensanglard.net/another_world_polygons/index.html)
-- [How I write and curate the cron.weekly newsletter &lpar;2020&rpar;](https://ma.ttias.be/how-to-cron-weekly-newsletter/)
-- [Silicon fluorescence from microcracks in cement, revealing signs of damage](https://www.nature.com/articles/s41598-022-05113-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
