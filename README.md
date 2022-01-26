@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify not caving under pressure to censor is admirable and important](https://twitter.com/lexfridman/status/1486141056035004425)
+- [Let&#39;s Encrypt: Issue with TLS-ALPN-01 Validation Method](https://community.letsencrypt.org/t/2022-01-25-issue-with-tls-alpn-01-validation-method/170450)
+- [Ask HN: How do you get out of a rut?](https://news.ycombinator.com/item?id=30082234)
+- [Surprises in the Bitcoin blockchain and how they are stored &lpar;2014&rpar;](https://www.righto.com/2014/02/ascii-bernanke-wikileaks-photographs.html)
 - [Guide to Using YubiKey for GPG and SSH](https://github.com/drduh/YubiKey-Guide)
 - [Nature Neuroscience offers open access publishing for 11,390 USD per article](https://www.nature.com/articles/s41593-021-00995-2)
-- [Agatha Christie could afford a maid and a nanny but not a car](https://fullstackeconomics.com/why-agatha-christie-could-afford-a-maid-and-a-nanny-but-not-a-car/)
-- [Two weeks later David Bennett is alive, his pig’s heart beating soundly](https://www.irishtimes.com/life-and-style/health-family/two-weeks-after-his-operation-david-bennett-is-alive-his-pig-s-heart-beating-soundly-1.4783776)
 <!-- BLOG-POST-LIST:END -->
 
 ---
