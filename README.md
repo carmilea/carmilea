@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Pachyderm is hiring data science bloggers to pioneer the modern MLOps stack](https://www.pachyderm.com/careers/#positions)
-- [Court rejects $1.2B EU antitrust fine against Intel](https://www.reuters.com/technology/court-rejects-12-bln-eu-antitrust-fine-against-intel-2022-01-26/)
-- [Panwriter – Distraction-free Markdown editor with pandoc integration](https://panwriter.com/)
-- [A Minimum Viable Computer, or Linux for $15](https://bbenchoff.github.io/pages/LinuxDevice.html)
-- [Show HN: Infracost &lpar;YC W21&rpar; – Open-source cloud cost policies](https://github.com/infracost/infracost)
+- [Zim – A Desktop Wiki](https://zim-wiki.org/)
+- [UBS Acquires Wealthfront for $1.4B](https://www.reuters.com/business/finance/ubs-buy-us-wealth-management-specialist-wealthfront-14-bln-2022-01-26/)
+- [Wanna Buy a Radio Station? &lpar;2015&rpar;](https://darrylparks.com/2015/11/11/wanna-buy-a-radio-station-really-cheap/)
+- [Burning plasma achieved in inertial fusion](https://www.nature.com/articles/s41586-021-04281-w)
+- [Pachyderm &lpar;YC W15&rpar; is hiring data science bloggers](https://www.pachyderm.com/careers/#positions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
