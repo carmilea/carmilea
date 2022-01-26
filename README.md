@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Positive Covid-19 antigen tests with Norwegian blood samples from 2019](https://www.aftenposten.no/norge/i/wO5m2o/nakstad-om-funn-av-korona-i-norge-i-2019-smitte-kan-spre-seg-lenge)
-- [Ashby &lpar;YC W19&rpar; hiring engineers who want to own product](https://jobs.ashbyhq.com/Ashby?utm_source=hn)
-- [Let&#39;s Encrypt: Issue with TLS-ALPN-01 Validation Method](https://community.letsencrypt.org/t/2022-01-25-issue-with-tls-alpn-01-validation-method/170450)
-- [Ask HN: How do you get out of a rut?](https://news.ycombinator.com/item?id=30082234)
-- [Elsevier embeds a hash in the PDF metadata that is unique for each download](https://twitter.com/json_dirs/status/1486120144141123584)
+- [Sleep quality and consistency is associated with better academic performance](https://www.grelin.net/post/Urruj7Id8snp96DQRdPP)
+- [Machine Readable Specifications at Scale](https://alastairreid.github.io/mrs-at-scale/)
+- [Redis vs. Kafka vs. RabbitMQ](https://blog.devgenius.io/redis-vs-kafka-vs-rabbitmq-e935ebbc7ec?gi=b3138e222174)
+- [The Piano Test for Program Verification &lpar;2011&rpar;](https://blog.regehr.org/archives/364)
+- [Ask HN: Is the past dissapearing?](https://news.ycombinator.com/item?id=30083783)
 <!-- BLOG-POST-LIST:END -->
 
 ---
