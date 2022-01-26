@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Society has a trust problem. More censorship will only make it worse](https://on.substack.com/p/society-has-a-trust-problem-more)
+- [Turing Pi Trouble with PayPal](http://r.m.turingpi.com/mk/cl/f/SZzw-XuTuCG97cXCEr272YUNFvSE7EzBrX9767KDtWBeGCU9y6WiSybKiEa55s2o7HcwNzAu33JAkMrxayvLyxGEkjGJTSwGlz13hDSZHG5aada-YHjvP7lEpzPRIXPF4l4ibA4r9zR83oZ1H3CzX3jf6PjOwYgx1AHhD7Y2vYP8tzPUbuNKB9IE_vs7vwZrqd_pesR634uATmHTN6OihNFo4vldA0NCbs__7ET3)
+- [About the security content of macOS Monterey 12.2](https://support.apple.com/en-us/HT213054)
+- [A critique of longtermism: why you shouldn&#39;t worry about the far future](https://gautamcgoel.substack.com/p/a-critique-of-longtermism-why-you)
 - [Stop Brainstorming](https://matthewstrom.com/writing/stop-brainstorming/)
-- [Universe &lpar;YC W18&rpar; Is Hiring Product Leads for Creation and Commerce Tools](https://workatuniverse.com/product)
-- [Worst practices are viral for the wrong reasons &lpar;2014&rpar;](https://www.haskellforall.com/2014/04/worst-practices-are-viral-for-wrong.html)
-- [To my surprise and elation, the Webb Space Telescope is going to work](https://arstechnica.com/science/2022/01/whats-left-for-the-webb-telescope-now-waggling-mirrors-turning-on-instruments/)
-- [The impact of hardware specifications on reaching quantum advantage](https://avs.scitation.org/doi/10.1116/5.0073075)
 <!-- BLOG-POST-LIST:END -->
 
 ---
