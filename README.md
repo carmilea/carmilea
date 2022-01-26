@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Silicon fluorescence from microcracks in cement, revealing signs of damage](https://www.nature.com/articles/s41598-022-05113-1)
-- [The Old Internet Shows Signs of Quietly Coming Back](https://cheapskatesguide.org/articles/old-internet-coming-back.html)
+- [The old internet shows signs of quietly coming back](https://cheapskatesguide.org/articles/old-internet-coming-back.html)
 - [Economists are revising their views on robots and jobs](https://www.economist.com/finance-and-economics/2022/01/22/economists-are-revising-their-views-on-robots-and-jobs)
 - [Ketogenic Diets and Chronic Disease: Benefits vs. Risks](https://www.frontiersin.org/articles/10.3389/fnut.2021.702802/full)
 - [Motion &lpar;YC W20&rpar; is hiring full stack and back end engineers](https://jobs.ashbyhq.com/motion)
