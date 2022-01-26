@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Vintage Radio Broadcasting Equipment](https://www.oldradio.com/archives/hardware/)
+- [Facebook’s Libra is still dead – Diem to be sold off for spare parts](https://davidgerard.co.uk/blockchain/2022/01/26/facebooks-libra-is-still-dead-diem-to-be-sold-off-for-spare-parts/)
+- [Pwnkit: Local Privilege Escalation in polkit&#39;s pkexec &lpar;CVE-2021-4034&rpar;](https://www.qualys.com/2022/01/25/cve-2021-4034/pwnkit.txt)
 - [YC&#39;s software team is looking for a full stack engineer](https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer)
 - [Information Hazards: A Typology of Potential Harms from Knowledge [pdf]](https://www.nickbostrom.com/information-hazards.pdf)
-- [How Claude Shannon Helped Kick-Start Machine Learning](https://spectrum.ieee.org/claude-shannon-information-theory)
-- [Sleep quality and consistency is associated with better academic performance](https://www.grelin.net/post/Urruj7Id8snp96DQRdPP)
-- [Machine Readable Specifications at Scale](https://alastairreid.github.io/mrs-at-scale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
