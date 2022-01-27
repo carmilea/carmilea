@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Eating and coocking is so inneficient, better way?](https://news.ycombinator.com/item?id=30096878)
 - [She was a notorious hacker in the ’80s – then she disappeared](https://www.theverge.com/c/22889425/susy-thunder-headley-hackers-phone-phreakers-claire-evans)
+- [An old photo of a large BBS](http://rachelbythebay.com/w/2022/01/26/swcbbs/)
 - [The computer built to last 50 years &lpar;2021&rpar;](https://web.archive.org/web/20220108013041/https://ploum.net/the-computer-built-to-last-50-years/)
 - [Naomi Wu Demonetized on YouTube](https://twitter.com/RealSexyCyborg/status/1486526916433641472)
-- [Alder Lake Core i9 processor is faster than the M1 Max](https://www.macworld.com/article/608396/intel-alder-lake-m1-pro-max-benchmarks-power-efficiency.html)
-- [Supabase &lpar;YC S20&rpar; Is Hiring Senior Auth Engineers](https://about.supabase.com/careers/auth-engineers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
