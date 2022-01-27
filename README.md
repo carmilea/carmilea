@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Magic-trace: Diagnose tricky performance issues with Intel Processor Trace](https://blog.janestreet.com/magic-trace/)
+- [Masterclass on mathematical thinking](https://terrytao.wordpress.com/2022/01/27/masterclass-on-mathematical-thinking/)
 - [Who Got It Right: Orwell or Huxley?](https://www.pairagraph.com/dialogue/07d855107abf428c97583312e1e738fe)
-- [Apple Reports First Quarter Results](https://www.apple.com/newsroom/2022/01/apple-reports-first-quarter-results/)
 - [Writing an open source GPU driver – without the hardware](https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/)
-- [Crypto leads to surge in online scams](https://www.axios.com/crypto-scam-ftc-2079c3b2-6237-4ff8-92f2-d08382cd0d70.html)
 - [Hyperseed &lpar;YC S21&rpar;, no-code for finance pros, is hiring a front-end engineer](https://www.ycombinator.com/companies/hyperseed/jobs/18szLSd-front-end-engineer-for-the-no-code-platform-for-finance-professionals)
 <!-- BLOG-POST-LIST:END -->
 
