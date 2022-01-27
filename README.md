@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Crows may soon be Sweden’s newest litter pickers](https://www.thelocal.com/20220127/crows-may-soon-be-swedens-newest-litter-pickers/)
+- [Facebook promised poor countries free internet: People got charged anyway](https://www.business-standard.com/article/international/facebook-promised-poor-countries-free-internet-people-got-charged-anyway-122012501813_1.html)
+- [Jonathan the 190-Year-Old Tortoise Was Photographed in 1886 and Today](https://petapixel.com/2022/01/26/jonathan-the-190-year-old-tortoise-was-photographed-in-1886-and-today/)
+- [Redis scripts do not expire keys atomically](https://ably.com/blog/redis-keys-do-not-expire-atomically)
 - [LTO Tape data storage for Linux nerds](https://blog.benjojo.co.uk/post/lto-tape-backups-for-linux-nerds)
-- [DeepSource is looking for a developer advocate &lpar;Remote within US&rpar;](https://boards.greenhouse.io/deepsource/jobs/4289079004)
-- [Robotics 501: Mathematics for Robotics](https://github.com/michiganrobotics/rob501)
-- [Poll: Is the leetcode grind necessary to land a high paying remote job?](https://news.ycombinator.com/item?id=30098671)
-- [Ask HN: How do small companies do recruitment?](https://news.ycombinator.com/item?id=30098607)
 <!-- BLOG-POST-LIST:END -->
 
 ---
