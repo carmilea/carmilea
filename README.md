@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Open-source admin panel for Supabase](https://www.getmotoradmin.com/supabase)
-- [Origami and the Structure of Materials](https://sinews.siam.org/Details-Page/origami-and-the-structure-of-materials)
-- [Despite Decades of Hacking Attacks, Companies Leave Sensitive Data Unprotected](https://www.propublica.org/article/identity-theft-surged-during-the-pandemic-heres-where-a-lot-of-the-stolen-data-came-from)
-- [The Strangely Successful History of People Mailing Themselves in Boxes &lpar;2015&rpar;](https://www.atlasobscura.com/articles/the-strangely-successful-history-of-people-mailing-themselves-in-boxes)
-- [Crows may soon be Sweden’s newest litter pickers](https://www.thelocal.com/20220127/crows-may-soon-be-swedens-newest-litter-pickers/)
+- [Myocarditis Cases Reported After mRNA-Based Covid-19 Vaccination](https://jamanetwork.com/journals/jama/fullarticle/2788346)
+- [How Much Did a Tunic Cost in the Roman Empire?](https://www.bookandsword.com/2021/05/08/how-much-did-a-tunic-cost-in-the-roman-empire/)
+- [CVE-2021-4122 decryption through LUKS2 reencryption crash recovery](https://seclists.org/oss-sec/2022/q1/34)
+- [Turning a failing little coffee blog into a $1M dollar exit by doing less](https://typeshare.co/alxzoogmi/posts/how-i-turned-a-failing-little-coffee-blog-into-a-1-million-dollar-exit-by-doing-less)
+- [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
