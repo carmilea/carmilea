@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do small companies do recruitment?](https://news.ycombinator.com/item?id=30098607)
 - [Ask HN: Why the Obsession with Note Taking?](https://news.ycombinator.com/item?id=30098219)
 - [Decompiled 2022 Beijing Olympics Apps](https://github.com/jonathandata1/2022_beijing)
 - [Reasons Kubernetes is so complex](https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/)
 - [She was a notorious hacker in the ’80s – then she disappeared](https://www.theverge.com/c/22889425/susy-thunder-headley-hackers-phone-phreakers-claire-evans)
-- [An old photo of a large BBS](http://rachelbythebay.com/w/2022/01/26/swcbbs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
