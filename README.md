@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sweden approves plan to bury spent nuclear fuel for 100k years](https://www.nasdaq.com/articles/sweden-approves-plan-to-bury-spent-nuclear-fuel-for-100000-years)
+- [Why Can&#39;t You Reverse a String with a Flag Emoji?](https://davidamos.dev/why-cant-you-reverse-a-flag-emoji/)
 - [Not Another Framework](https://remix.run/blog/not-another-framework)
+- [On being a PhD student of Robert Harper](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/on-being-a-phd-student-of-robert-harper/B68BCF31384084D9FDCB17A7DF1DE7A0)
 - [Archaeologists Discover – and Start to Decode – Rare Medieval Runes](https://www.smithsonianmag.com/smart-news/newly-discovered-norwegian-runes-might-contain-a-medieval-joke-180979381/)
-- [New evidence that the “chaotic mind” of ADHD brings creative advantages](https://www.grelin.net/post/ZvkXvSXOPTHx7IqLuBsj)
-- [The Block Protocol](https://blockprotocol.org/)
-- [We have jetpacks and we do not care](https://www.theguardian.com/books/2022/jan/22/its-a-glorified-backpack-of-tubes-and-turbines-dave-eggers-on-jetpacks-and-the-enigma-of-solo-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
