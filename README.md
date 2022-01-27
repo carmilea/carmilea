@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [She was a notorious hacker in the ’80s – then she disappeared](https://www.theverge.com/c/22889425/susy-thunder-headley-hackers-phone-phreakers-claire-evans)
 - [The computer built to last 50 years &lpar;2021&rpar;](https://web.archive.org/web/20220108013041/https://ploum.net/the-computer-built-to-last-50-years/)
+- [Naomi Wu Demonetized on YouTube](https://twitter.com/RealSexyCyborg/status/1486526916433641472)
 - [Alder Lake Core i9 processor is faster than the M1 Max](https://www.macworld.com/article/608396/intel-alder-lake-m1-pro-max-benchmarks-power-efficiency.html)
 - [Supabase &lpar;YC S20&rpar; Is Hiring Senior Auth Engineers](https://about.supabase.com/careers/auth-engineers)
-- [Guidance on Software Development and Open Source Software [pdf]](https://dodcio.defense.gov/Portals/0/Documents/Library/SoftwareDev-OpenSource.pdf)
-- [Hellekson&#39;s Law](https://risacher.org/jfdi/2013/12/helleksons-law-how-did-i-do/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
