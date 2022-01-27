@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RegExr: Learn, Build and Test Regex](https://regexr.com/)
-- [Mighty &lpar;YC S19&rpar; Is Hiring a Windows Software Engineer](https://www.notion.so/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
-- [Ask HN: Hacker claimed ownership and then deleted my Facebook Page of 50k users](https://news.ycombinator.com/item?id=30102240)
-- [Guess the daily Wordle in one try using the tweet distribution](https://www.kaggle.com/benhamner/wordle-1-6)
-- [How much did a tunic cost in the Roman Empire? &lpar;2021&rpar;](https://www.bookandsword.com/2021/05/08/how-much-did-a-tunic-cost-in-the-roman-empire/)
+- [Not Another Framework](https://remix.run/blog/not-another-framework)
+- [Archaeologists Discover – and Start to Decode – Rare Medieval Runes](https://www.smithsonianmag.com/smart-news/newly-discovered-norwegian-runes-might-contain-a-medieval-joke-180979381/)
+- [New evidence that the “chaotic mind” of ADHD brings creative advantages](https://www.grelin.net/post/ZvkXvSXOPTHx7IqLuBsj)
+- [The Block Protocol](https://blockprotocol.org/)
+- [We have jetpacks and we do not care](https://www.theguardian.com/books/2022/jan/22/its-a-glorified-backpack-of-tubes-and-turbines-dave-eggers-on-jetpacks-and-the-enigma-of-solo-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
