@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RegExr: Learn, Build and Test Regex](https://regexr.com/)
+- [Mighty &lpar;YC S19&rpar; Is Hiring a Windows Software Engineer](https://www.notion.so/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
 - [Ask HN: Hacker claimed ownership and then deleted my Facebook Page of 50k users](https://news.ycombinator.com/item?id=30102240)
 - [Guess the daily Wordle in one try using the tweet distribution](https://www.kaggle.com/benhamner/wordle-1-6)
 - [How much did a tunic cost in the Roman Empire? &lpar;2021&rpar;](https://www.bookandsword.com/2021/05/08/how-much-did-a-tunic-cost-in-the-roman-empire/)
-- [CVE-2021-4122 decryption through LUKS2 reencryption crash recovery](https://seclists.org/oss-sec/2022/q1/34)
-- [Parsing Decimals four times faster](https://cantortrading.fi/rust_decimal_str/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
