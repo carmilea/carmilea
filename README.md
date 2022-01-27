@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why don&#39;t we use the math we learn in school?](https://www.scotthyoung.com/blog/2022/01/24/why-dont-we-use-the-math-we-learn-in-school/)
-- [Washington state shuts down Amazon price-fixing program nationwide](https://www.atg.wa.gov/news/news-releases/ag-ferguson-investigation-shuts-down-amazon-price-fixing-program-nationwide)
-- [Society has a trust problem. More censorship will only make it worse](https://on.substack.com/p/society-has-a-trust-problem-more)
-- [Turing Pi Trouble with PayPal](http://r.m.turingpi.com/mk/cl/f/SZzw-XuTuCG97cXCEr272YUNFvSE7EzBrX9767KDtWBeGCU9y6WiSybKiEa55s2o7HcwNzAu33JAkMrxayvLyxGEkjGJTSwGlz13hDSZHG5aada-YHjvP7lEpzPRIXPF4l4ibA4r9zR83oZ1H3CzX3jf6PjOwYgx1AHhD7Y2vYP8tzPUbuNKB9IE_vs7vwZrqd_pesR634uATmHTN6OihNFo4vldA0NCbs__7ET3)
-- [About the security content of macOS Monterey 12.2](https://support.apple.com/en-us/HT213054)
+- [Supabase &lpar;YC S20&rpar; Is Hiring Senior Auth Engineers](https://about.supabase.com/careers/auth-engineers)
+- [New Department of Defense Open Source Software Guidance Memo [pdf]](https://dodcio.defense.gov/Portals/0/Documents/Library/SoftwareDev-OpenSource.pdf)
+- [Hellekson&#39;s Law](https://risacher.org/jfdi/2013/12/helleksons-law-how-did-i-do/)
+- [Moral Machine](https://www.moralmachine.net/)
+- [MIT 6.S081 – Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
