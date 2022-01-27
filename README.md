@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ransomware-resistant backups with duplicity and AWS S3](https://www.franzoni.eu/ransomware-resistant-backups/)
-- [Spotify Removing Neil Young&#39;s Music](https://www.reuters.com/lifestyle/spotify-removing-neil-youngs-music-after-his-joe-rogan-ultimatum-2022-01-27/)
-- [Percent of Avocado oil is rancid/mixed with other oils](https://www.ucdavis.edu/food/news/study-finds-82-percent-avocado-oil-rancid-or-mixed-other-oils)
-- [Sweden approves plan to bury spent nuclear fuel for 100k years](https://www.nasdaq.com/articles/sweden-approves-plan-to-bury-spent-nuclear-fuel-for-100000-years)
-- [Why can&#39;t you reverse a string with a flag emoji?](https://davidamos.dev/why-cant-you-reverse-a-flag-emoji/)
+- [Hyperseed &lpar;YC S21&rpar;, no-code for finance pros, is hiring a front-end engineer](https://www.ycombinator.com/companies/hyperseed/jobs/18szLSd-front-end-engineer-for-the-no-code-platform-for-finance-professionals)
+- [Show HN: An in-browser text editor to easily create static HTML](https://triplelog.com/writer/)
+- [Session-lived Application Backends](https://driftingin.space/posts/session-lived-application-backends)
+- [The baseline for web development in 2022](https://engineering.linecorp.com/en/blog/the-baseline-for-web-development-in-2022/)
+- [Regression and Other Stories [pdf]](https://users.aalto.fi/~ave/ROS.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
