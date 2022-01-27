@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ransomware-resistant backups with duplicity and AWS S3](https://www.franzoni.eu/ransomware-resistant-backups/)
+- [Spotify Removing Neil Young&#39;s Music](https://www.reuters.com/lifestyle/spotify-removing-neil-youngs-music-after-his-joe-rogan-ultimatum-2022-01-27/)
+- [Percent of Avocado oil is rancid/mixed with other oils](https://www.ucdavis.edu/food/news/study-finds-82-percent-avocado-oil-rancid-or-mixed-other-oils)
 - [Sweden approves plan to bury spent nuclear fuel for 100k years](https://www.nasdaq.com/articles/sweden-approves-plan-to-bury-spent-nuclear-fuel-for-100000-years)
-- [Why Can&#39;t You Reverse a String with a Flag Emoji?](https://davidamos.dev/why-cant-you-reverse-a-flag-emoji/)
-- [Not Another Framework](https://remix.run/blog/not-another-framework)
-- [On being a PhD student of Robert Harper](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/on-being-a-phd-student-of-robert-harper/B68BCF31384084D9FDCB17A7DF1DE7A0)
-- [Archaeologists Discover – and Start to Decode – Rare Medieval Runes](https://www.smithsonianmag.com/smart-news/newly-discovered-norwegian-runes-might-contain-a-medieval-joke-180979381/)
+- [Why can&#39;t you reverse a string with a flag emoji?](https://davidamos.dev/why-cant-you-reverse-a-flag-emoji/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
