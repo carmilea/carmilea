@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Supabase &lpar;YC S20&rpar; Is Hiring Senior Auth Engineers](https://about.supabase.com/careers/auth-engineers)
-- [New Department of Defense Open Source Software Guidance Memo [pdf]](https://dodcio.defense.gov/Portals/0/Documents/Library/SoftwareDev-OpenSource.pdf)
+- [Guidance on Software Development and Open Source Software [pdf]](https://dodcio.defense.gov/Portals/0/Documents/Library/SoftwareDev-OpenSource.pdf)
 - [Hellekson&#39;s Law](https://risacher.org/jfdi/2013/12/helleksons-law-how-did-i-do/)
 - [Moral Machine](https://www.moralmachine.net/)
 - [MIT 6.S081 – Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html)
