@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Myocarditis Cases Reported After mRNA-Based Covid-19 Vaccination](https://jamanetwork.com/journals/jama/fullarticle/2788346)
-- [How Much Did a Tunic Cost in the Roman Empire?](https://www.bookandsword.com/2021/05/08/how-much-did-a-tunic-cost-in-the-roman-empire/)
+- [Ask HN: Hacker claimed ownership and then deleted my Facebook Page of 50k users](https://news.ycombinator.com/item?id=30102240)
+- [Guess the daily Wordle in one try using the tweet distribution](https://www.kaggle.com/benhamner/wordle-1-6)
+- [How much did a tunic cost in the Roman Empire? &lpar;2021&rpar;](https://www.bookandsword.com/2021/05/08/how-much-did-a-tunic-cost-in-the-roman-empire/)
 - [CVE-2021-4122 decryption through LUKS2 reencryption crash recovery](https://seclists.org/oss-sec/2022/q1/34)
-- [Turning a failing little coffee blog into a $1M dollar exit by doing less](https://typeshare.co/alxzoogmi/posts/how-i-turned-a-failing-little-coffee-blog-into-a-1-million-dollar-exit-by-doing-less)
-- [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)
+- [Parsing Decimals four times faster](https://cantortrading.fi/rust_decimal_str/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
