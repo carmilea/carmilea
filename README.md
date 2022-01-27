@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Open-source admin panel for Supabase](https://www.getmotoradmin.com/supabase)
+- [Origami and the Structure of Materials](https://sinews.siam.org/Details-Page/origami-and-the-structure-of-materials)
+- [Despite Decades of Hacking Attacks, Companies Leave Sensitive Data Unprotected](https://www.propublica.org/article/identity-theft-surged-during-the-pandemic-heres-where-a-lot-of-the-stolen-data-came-from)
+- [The Strangely Successful History of People Mailing Themselves in Boxes &lpar;2015&rpar;](https://www.atlasobscura.com/articles/the-strangely-successful-history-of-people-mailing-themselves-in-boxes)
 - [Crows may soon be Sweden’s newest litter pickers](https://www.thelocal.com/20220127/crows-may-soon-be-swedens-newest-litter-pickers/)
-- [Facebook promised poor countries free internet: People got charged anyway](https://www.business-standard.com/article/international/facebook-promised-poor-countries-free-internet-people-got-charged-anyway-122012501813_1.html)
-- [Jonathan the 190-Year-Old Tortoise Was Photographed in 1886 and Today](https://petapixel.com/2022/01/26/jonathan-the-190-year-old-tortoise-was-photographed-in-1886-and-today/)
-- [Redis scripts do not expire keys atomically](https://ably.com/blog/redis-keys-do-not-expire-atomically)
-- [LTO Tape data storage for Linux nerds](https://blog.benjojo.co.uk/post/lto-tape-backups-for-linux-nerds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
