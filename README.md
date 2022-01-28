@@ -54,8 +54,8 @@
 - [Atari System V Unix – Unofficial Website](http://www.atariunix.com/)
 - [Apple contributes to OBS to support screen capture using ScreenCaptureKit](https://github.com/obsproject/obs-studio/pull/5875/commits/551c54ba8440fcdf4cdc221f5d50a30a68b87a7e)
 - [“Dutch reach” car door opening method becomes law in the UK](https://www.bbc.com/news/uk-england-leicestershire-60089225)
+- [List of the 850 book proposed to be banned in Texas [pdf]](https://static.texastribune.org/media/files/94fee7ff93eff9609f141433e41f8ae1/krausebooklist.pdf)
 - [There’s No Such Thing as Clean Code](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code)
-- [Rebank &lpar;YC W19&rpar; Is Hiring a Software Engineer &lpar;Back End&rpar;](https://www.ycombinator.com/companies/rebank/jobs/J9gH1P4-software-engineer-backend)
 <!-- BLOG-POST-LIST:END -->
 
 ---
