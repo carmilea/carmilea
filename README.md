@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: IBM free z/OS classes return, low-cost license available on completing](https://news.ycombinator.com/item?id=30116199)
-- [Waymo sues state DMV to keep robotaxi safety details secret](https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice)
-- [Why is there no theory of the just riot? &lpar;2021&rpar;](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/british-academy-brian-barry-prize-essay-why-is-there-no-just-riot-theory/0FB53D483E24A115BB336DB95A8AC79A)
-- [Hive: A Globally-Distributed Key/Value Store [pdf]](https://papers.s3.fr-par.scw.cloud/hive.pdf)
-- [Apple removes Python 2.7 in macOS 12.3](https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python)
+- [Wire is now on F-Droid](https://f-droid.org/en/packages/com.wire/)
+- [Tell HN: Google returning &#39;Untitled&#39; results that redirect to malware/spam](https://news.ycombinator.com/item?id=30117388)
+- [Why, in 2022, is there no high quality method for voice control of a PC?](https://news.ycombinator.com/item?id=30117383)
+- [Anima &lpar;YC W21&rpar; is hiring engineers and designers: optimal patient care in 24 hours](https://news.ycombinator.com/item?id=30117306)
+- [A Study of Firecracker and gVisor &lpar;2020&rpar; [pdf]](https://pages.cs.wisc.edu/~swift/papers/vee20-isolation.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
