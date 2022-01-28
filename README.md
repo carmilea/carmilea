@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Major Bridge Collapses in Pittsburgh](https://triblive.com/local/frick-park-bridge-collapses-natural-gas-smell-in-area/)
-- [Sinking 1K NYC subway cars in the Atlantic to create a reef didn’t go as planned](https://www.fastcompany.com/90716245/sinking-1000-nyc-subway-cars-in-the-atlantic-to-create-a-reef-didnt-go-as-planned)
-- [Hacktivism and State-Sponsored Knock-Offs. Attributing Deceptive Hack Operations](https://www.sentinelone.com/labs/hacktivism-and-state-sponsored-knock-offs-attributing-deceptive-hack-and-leak-operations/)
-- [Tell HN: Twitter is growing increasingly unusable without an account](https://news.ycombinator.com/item?id=30114173)
-- [Evolution of the elephant depiction throughout the middle ages](https://www.uliwestphal.de/elephas-anthropogenus/index.html)
+- [Why is there no theory of the just riot?](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/british-academy-brian-barry-prize-essay-why-is-there-no-just-riot-theory/0FB53D483E24A115BB336DB95A8AC79A)
+- [Hive: A Globally-Distributed Key/Value Store [pdf]](https://papers.s3.fr-par.scw.cloud/hive.pdf)
+- [Apple removes Python 2.7 in macOS 12.3](https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python)
+- [‘Fix My Computer’ Cry Echos on Social Media; Air Force CIO Responds](https://www.airforcemag.com/fix-my-computer-cry-echos-on-social-media-air-force-cio-responds/)
+- [2FA app with 10k Google Play downloads loaded well-known banking trojan](https://arstechnica.com/information-technology/2022/01/2fa-app-with-10000-google-play-downloads-loaded-well-known-banking-trojan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
