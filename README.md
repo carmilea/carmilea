@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Arizona Introduces a bill to make Bitcoin Legal Tender [pdf]](https://www.azleg.gov/legtext/55leg/2R/bills/SB1341P.pdf)
+- [Multiverse &lpar;YC W20&rpar; Is Hiring an Eng Manager to Build the Future of Tabletop RPGs](https://www.ycombinator.com/companies/multiverse/jobs/gxcCkow-engineering-manager)
+- [New data shows Americans more miserable than we&#39;ve been in half a century](https://thewhyaxis.substack.com/p/new-data-shows-americans-more-miserable)
+- [Mementos Mori](https://thebaffler.com/latest/mementos-mori-haigney)
+- [Universe BIOS for NeoGeo](http://unibios.free.fr/index.html)
 - [Vitamin D supplementation reduces autoimmune disease risk in trial findings](https://www.bmj.com/content/376/bmj-2021-066452)
-- [Quitting Dgraph Labs](https://discuss.dgraph.io/t/quitting-dgraph-labs/16702)
-- [The Sun Was Dimmer When Earth Formed. How Did Life Emerge?](https://www.quantamagazine.org/the-sun-was-dimmer-when-earth-formed-how-did-life-emerge-20220127/)
-- [Twitter doesn&#39;t care about spam](https://twitter.com/paulg/status/1487022342630957062)
 <!-- BLOG-POST-LIST:END -->
 
 ---
