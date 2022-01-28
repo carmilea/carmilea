@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Manga Guide Series](https://www.ohmsha.co.jp/english/manga.htm)
+- [Prioritization, multiple work streams, unplanned work. Oh my](https://leeorengel.com/prioritization-multiple-work-streams-unplanned-work-oh-my/)
+- [Tell HN: We have a responsibility to speak out against blockchain technologies](https://news.ycombinator.com/item?id=30120437)
 - [Multiverse &lpar;YC W20&rpar; Is Hiring an Eng Manager to Build the Future of Tabletop RPGs](https://www.ycombinator.com/companies/multiverse/jobs/gxcCkow-engineering-manager)
-- [New data shows Americans more miserable than we&#39;ve been in half a century](https://thewhyaxis.substack.com/p/new-data-shows-americans-more-miserable)
-- [Mementos Mori](https://thebaffler.com/latest/mementos-mori-haigney)
-- [Universe BIOS for NeoGeo](http://unibios.free.fr/index.html)
-- [Vitamin D supplementation reduces autoimmune disease risk in trial findings](https://www.bmj.com/content/376/bmj-2021-066452)
+- [Orcas found to kill blue whales, the largest animals on Earth, for first time](https://www.nationalgeographic.com/animals/article/orcas-can-kill-blue-whales-the-biggest-animal-on-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
