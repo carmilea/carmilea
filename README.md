@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Brian Kernighan on the Origins of Unix](https://lwn.net/Articles/881431/)
+- [United Airlines completes flight using 100% sustainable aviation fuel &lpar;SAF&rpar;](https://www.ge.com/news/reports/united-flies-worlds-first-passenger-flight-on-100-sustainable-aviation-fuel-supplying-one)
 - [Regression and Other Stories by Andrew Gelman, Jennifer Hill, Aki Vehtari](https://avehtari.github.io/ROS-Examples/)
 - [If Looks Could Kill](https://vintagecomputerstories.blogspot.com/2022/01/if-looks-could-kill.html)
 - [I won the local election, but my township ignored the results and state law](https://twitter.com/gaughen/status/1486834885964832770)
-- [Magic-trace: Diagnose tricky performance issues with Intel Processor Trace](https://blog.janestreet.com/magic-trace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
