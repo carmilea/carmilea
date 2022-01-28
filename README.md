@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Long Road to Today’s Cochlear Implant](https://spectrum.ieee.org/cochlear-implant-history)
 - [Dozens of U.S. states say Apple stifles competition, back ‘Fortnite’ maker Epic](https://www.reuters.com/technology/dozens-us-states-say-apple-stifles-competition-back-fortnite-maker-2022-01-28/)
 - [Journey From the Oracle Database to SingleStore: A Database Odyssey](https://www.singlestore.com/blog/journey-from-the-oracle-database-to-singlestore-a-database-odyssey)
 - [Brian Kernighan on the Origins of Unix](https://lwn.net/Articles/881431/)
 - [United flies passenger flight on sustainable aviation fuel supplying one engine](https://www.ge.com/news/reports/united-flies-worlds-first-passenger-flight-on-100-sustainable-aviation-fuel-supplying-one)
-- [Regression and Other Stories by Andrew Gelman, Jennifer Hill, Aki Vehtari](https://avehtari.github.io/ROS-Examples/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
