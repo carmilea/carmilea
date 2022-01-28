@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Suicide hotline shares data with for-profit spinoff, raising ethical questions](https://subscriber.politicopro.com/article/2022/01/a-suicide-hotlines-data-deals-echo-silicon-valleys-privacy-debates-00002617)
+- [Right to Repair Fight](https://www.checkbook.org/national/right-to-repair/)
+- [On self-modifying executables in Rust](https://blog.dend.ro/self-modifying-rust/)
+- [Year old niche internet empire for sale](https://www.bizbuysell.com/Business-Opportunity/Internet-business-for-sale/1899750/)
 - [The Manga Guide Series](https://www.ohmsha.co.jp/english/manga.htm)
-- [Prioritization, multiple work streams, unplanned work. Oh my](https://leeorengel.com/prioritization-multiple-work-streams-unplanned-work-oh-my/)
-- [Tell HN: We have a responsibility to speak out against blockchain technologies](https://news.ycombinator.com/item?id=30120437)
-- [Multiverse &lpar;YC W20&rpar; Is Hiring an Eng Manager to Build the Future of Tabletop RPGs](https://www.ycombinator.com/companies/multiverse/jobs/gxcCkow-engineering-manager)
-- [Orcas found to kill blue whales, the largest animals on Earth, for first time](https://www.nationalgeographic.com/animals/article/orcas-can-kill-blue-whales-the-biggest-animal-on-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
