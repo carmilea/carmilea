@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why is there no Kickstarter for startups yet?](https://news.ycombinator.com/item?id=30114011)
+- [Nvidia GPUs Enable Simulation of a Living Cell](https://blogs.nvidia.com/blog/2022/01/20/living-cell-simulation/)
 - [Jiga &lpar;YC W21&rpar; Is Hiring Their 3rd Full Stack Engineer](https://news.ycombinator.com/item?id=30113576)
+- [Terminal support for Emoji – or why terminals don&#39;t like families](https://darrenburns.net/posts/emoji-in-the-terminal/)
 - [Stop contacing me, I paid $$$$ for perpetual license to use your software](https://twitter.com/linusgsebastian/status/1445974503771672581)
-- [Private Network Access web standard](https://wicg.github.io/private-network-access/)
-- [Atari System V Unix – Unofficial Website](http://www.atariunix.com/)
-- [Apple contributes to OBS to support screen capture using ScreenCaptureKit](https://github.com/obsproject/obs-studio/pull/5875/commits/551c54ba8440fcdf4cdc221f5d50a30a68b87a7e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
