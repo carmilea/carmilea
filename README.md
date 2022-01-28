@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rome: Decline and Fall? Part II: Institutions](https://acoup.blog/2022/01/28/collections-rome-decline-and-fall-part-ii-institutions/)
+- [PSA: One of the FANGs [sic] is about to internally implode](https://old.reddit.com/r/cscareerquestions/comments/setxnt/psa_one_of_the_fangs_is_about_to_internally/)
+- [Stepwise slime mould growth as a template for urban design](https://www.nature.com/articles/s41598-022-05439-w)
 - [Wire is now on F-Droid](https://f-droid.org/en/packages/com.wire/)
 - [Tell HN: Google returning &#39;Untitled&#39; results that redirect to malware/spam](https://news.ycombinator.com/item?id=30117388)
-- [Why, in 2022, is there no high quality method for voice control of a PC?](https://news.ycombinator.com/item?id=30117383)
-- [Anima &lpar;YC W21&rpar; is hiring engineers and designers: optimal patient care in 24 hours](https://news.ycombinator.com/item?id=30117306)
-- [A Study of Firecracker and gVisor &lpar;2020&rpar; [pdf]](https://pages.cs.wisc.edu/~swift/papers/vee20-isolation.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
