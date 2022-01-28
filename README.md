@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why is there no Kickstarter for startups yet?](https://news.ycombinator.com/item?id=30114011)
-- [Nvidia GPUs Enable Simulation of a Living Cell](https://blogs.nvidia.com/blog/2022/01/20/living-cell-simulation/)
-- [Jiga &lpar;YC W21&rpar; Is Hiring Their 3rd Full Stack Engineer](https://news.ycombinator.com/item?id=30113576)
-- [Terminal support for Emoji – or why terminals don&#39;t like families](https://darrenburns.net/posts/emoji-in-the-terminal/)
-- [Stop contacing me, I paid $$$$ for perpetual license to use your software](https://twitter.com/linusgsebastian/status/1445974503771672581)
+- [Major Bridge Collapses in Pittsburgh](https://triblive.com/local/frick-park-bridge-collapses-natural-gas-smell-in-area/)
+- [Sinking 1K NYC subway cars in the Atlantic to create a reef didn’t go as planned](https://www.fastcompany.com/90716245/sinking-1000-nyc-subway-cars-in-the-atlantic-to-create-a-reef-didnt-go-as-planned)
+- [Hacktivism and State-Sponsored Knock-Offs. Attributing Deceptive Hack Operations](https://www.sentinelone.com/labs/hacktivism-and-state-sponsored-knock-offs-attributing-deceptive-hack-and-leak-operations/)
+- [Tell HN: Twitter is growing increasingly unusable without an account](https://news.ycombinator.com/item?id=30114173)
+- [Evolution of the elephant depiction throughout the middle ages](https://www.uliwestphal.de/elephas-anthropogenus/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
