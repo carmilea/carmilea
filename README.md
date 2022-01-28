@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nostalgic Computing Center](http://www.nostalgiccomputing.org/index.html)
+- [Atari System V Unix – Unofficial Website](http://www.atariunix.com/)
+- [Apple contributes to OBS to support screen capture using ScreenCaptureKit](https://github.com/obsproject/obs-studio/pull/5875/commits/551c54ba8440fcdf4cdc221f5d50a30a68b87a7e)
+- [“Dutch reach” car door opening method becomes law in the UK](https://www.bbc.com/news/uk-england-leicestershire-60089225)
 - [There’s No Such Thing as Clean Code](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code)
 - [Rebank &lpar;YC W19&rpar; Is Hiring a Software Engineer &lpar;Back End&rpar;](https://www.ycombinator.com/companies/rebank/jobs/J9gH1P4-software-engineer-backend)
-- [The Long Road to Today’s Cochlear Implant](https://spectrum.ieee.org/cochlear-implant-history)
-- [Dozens of U.S. states say Apple stifles competition, back Epic](https://www.reuters.com/technology/dozens-us-states-say-apple-stifles-competition-back-fortnite-maker-2022-01-28/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
