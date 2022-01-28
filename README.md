@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Nostalgic Computing Center](http://www.nostalgiccomputing.org/index.html)
 - [There’s No Such Thing as Clean Code](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code)
 - [Rebank &lpar;YC W19&rpar; Is Hiring a Software Engineer &lpar;Back End&rpar;](https://www.ycombinator.com/companies/rebank/jobs/J9gH1P4-software-engineer-backend)
 - [The Long Road to Today’s Cochlear Implant](https://spectrum.ieee.org/cochlear-implant-history)
 - [Dozens of U.S. states say Apple stifles competition, back Epic](https://www.reuters.com/technology/dozens-us-states-say-apple-stifles-competition-back-fortnite-maker-2022-01-28/)
-- [Journey From the Oracle Database to SingleStore: A Database Odyssey](https://www.singlestore.com/blog/journey-from-the-oracle-database-to-singlestore-a-database-odyssey)
 <!-- BLOG-POST-LIST:END -->
 
 ---
