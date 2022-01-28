@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Jiga &lpar;YC W21&rpar; Is Hiring Their 3rd Full Stack Engineer](https://news.ycombinator.com/item?id=30113576)
+- [Stop contacing me, I paid $$$$ for perpetual license to use your software](https://twitter.com/linusgsebastian/status/1445974503771672581)
+- [Private Network Access web standard](https://wicg.github.io/private-network-access/)
 - [Atari System V Unix – Unofficial Website](http://www.atariunix.com/)
 - [Apple contributes to OBS to support screen capture using ScreenCaptureKit](https://github.com/obsproject/obs-studio/pull/5875/commits/551c54ba8440fcdf4cdc221f5d50a30a68b87a7e)
-- [“Dutch reach” car door opening method becomes law in the UK](https://www.bbc.com/news/uk-england-leicestershire-60089225)
-- [List of the 850 book proposed to be banned in Texas [pdf]](https://static.texastribune.org/media/files/94fee7ff93eff9609f141433e41f8ae1/krausebooklist.pdf)
-- [There’s No Such Thing as Clean Code](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code)
 <!-- BLOG-POST-LIST:END -->
 
 ---
