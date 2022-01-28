@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is there no theory of the just riot?](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/british-academy-brian-barry-prize-essay-why-is-there-no-just-riot-theory/0FB53D483E24A115BB336DB95A8AC79A)
+- [Tell HN: IBM free z/OS classes return, low-cost license available on completing](https://news.ycombinator.com/item?id=30116199)
+- [Waymo sues state DMV to keep robotaxi safety details secret](https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice)
+- [Why is there no theory of the just riot? &lpar;2021&rpar;](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/british-academy-brian-barry-prize-essay-why-is-there-no-just-riot-theory/0FB53D483E24A115BB336DB95A8AC79A)
 - [Hive: A Globally-Distributed Key/Value Store [pdf]](https://papers.s3.fr-par.scw.cloud/hive.pdf)
 - [Apple removes Python 2.7 in macOS 12.3](https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python)
-- [‘Fix My Computer’ Cry Echos on Social Media; Air Force CIO Responds](https://www.airforcemag.com/fix-my-computer-cry-echos-on-social-media-air-force-cio-responds/)
-- [2FA app with 10k Google Play downloads loaded well-known banking trojan](https://arstechnica.com/information-technology/2022/01/2fa-app-with-10000-google-play-downloads-loaded-well-known-banking-trojan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
