@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [If Looks Could Kill](https://vintagecomputerstories.blogspot.com/2022/01/if-looks-could-kill.html)
+- [I won the local election, but my township ignored the results and state law](https://twitter.com/gaughen/status/1486834885964832770)
 - [Magic-trace: Diagnose tricky performance issues with Intel Processor Trace](https://blog.janestreet.com/magic-trace/)
 - [Masterclass on mathematical thinking](https://terrytao.wordpress.com/2022/01/27/masterclass-on-mathematical-thinking/)
-- [Who Got It Right: Orwell or Huxley?](https://www.pairagraph.com/dialogue/07d855107abf428c97583312e1e738fe)
-- [Writing an open source GPU driver – without the hardware](https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/)
-- [Hyperseed &lpar;YC S21&rpar;, no-code for finance pros, is hiring a front-end engineer](https://www.ycombinator.com/companies/hyperseed/jobs/18szLSd-front-end-engineer-for-the-no-code-platform-for-finance-professionals)
+- [Prime Video Uses WebAssembly](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types)
 <!-- BLOG-POST-LIST:END -->
 
 ---
