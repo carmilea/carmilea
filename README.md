@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Arizona Introduces a bill to make Bitcoin Legal Tender [pdf]](https://www.azleg.gov/legtext/55leg/2R/bills/SB1341P.pdf)
+- [Vitamin D supplementation reduces autoimmune disease risk in trial findings](https://www.bmj.com/content/376/bmj-2021-066452)
+- [Quitting Dgraph Labs](https://discuss.dgraph.io/t/quitting-dgraph-labs/16702)
+- [The Sun Was Dimmer When Earth Formed. How Did Life Emerge?](https://www.quantamagazine.org/the-sun-was-dimmer-when-earth-formed-how-did-life-emerge-20220127/)
 - [Twitter doesn&#39;t care about spam](https://twitter.com/paulg/status/1487022342630957062)
-- [I got an FBI record at age 11 from dabbling in cryptography](https://web.stanford.edu/~learnest/les/crypto.htm)
-- [Pulumi and MinIO – Making Multi-Cloud Magic](https://blog.min.io/pulumi-and-minio-making-multi-cloud-magic/)
-- [Over 20k servers have their iLO exposed to the internet](https://isc.sans.edu/diary/Over+20+thousand+servers+have+their+iLO+interfaces+exposed+to+the+internet%2C+many+with+outdated+and+vulnerable+versions+of+FW/28276)
-- [Rome: Decline and Fall? Part II: Institutions](https://acoup.blog/2022/01/28/collections-rome-decline-and-fall-part-ii-institutions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
