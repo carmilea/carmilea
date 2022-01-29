@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An update on rust/coreutils: some binaries are significantly faster than GNU](https://sylvestre.ledru.info/blog/2022/01/29/an-update-on-rust-coreutils)
+- [Google terminates Play Store account of Simple Keyboard developer](https://github.com/rkkr/simple-keyboard/issues/333)
+- [The Pandemic Boom Goes Bust](https://therossreport.substack.com/p/the-pandemic-boom-goes-bust)
+- [As US Companies Beg for Applicants, Germany to Admit 400,000 Skilled Immigrants](https://www.newsweek.com/us-companies-beg-applicants-germany-admit-400000-skilled-immigrants-annually-1673761)
 - [Corrily &lpar;YC W21&rpar; Is Hiring a Senior Account Executive](https://corrily.crew.work/jobs/61f1b43a8ba64f35b1550241)
-- [How can you tell if the company youre interviewing with is rotten on the inside?](https://charity.wtf/2022/01/29/how-can-you-tell-if-the-company-youre-interviewing-with-is-rotten-on-the-inside/)
-- [Dutch-Japanese Relations](https://www.netherlandsandyou.nl/your-country-and-the-netherlands/japan/and-the-netherlands/dutch-japanese-relations)
-- [The Battle of Helm’s Deep, Part I: Bargaining for Goods at Helm’s Gate](https://acoup.blog/2020/05/01/collections-the-battle-of-helms-deep-part-i-bargaining-for-goods-at-helms-gate/)
-- [A pipe operator for JavaScript: introduction and use cases](https://2ality.com/2022/01/pipe-operator.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
