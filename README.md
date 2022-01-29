@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer – San Francisco/London](https://etleap.com/jobs/#software-engineer)
 - [The Disappearance of Japan’s “Third Gender”](https://daily.jstor.org/the-disappearance-of-japans-third-gender/)
-- [Latin as She Is Spoke: How Classicists Tricked Themselves](http://blogicarian.blogspot.com/2019/03/argumentum-ad-ignorantiam.html)
+- [Latin as She Is Spoke: How Classicists Tricked Themselves &lpar;2019&rpar;](http://blogicarian.blogspot.com/2019/03/argumentum-ad-ignorantiam.html)
+- [What to do if you get a question you&#39;ve already seen in a coding interview](https://news.ycombinator.com/item?id=30124062)
 - [The Hidden Engineering Protecting Getty Art from Earthquakes](https://www.getty.edu/news/the-hidden-engineering-protecting-getty-art-from-earthquakes/)
-- [Tor Browser: a legacy of advancing private browsing innovation](https://blog.torproject.org/tor-browser-advancing-privacy-innovation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
