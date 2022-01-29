@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html)
+- [Ask HN: Which VM orchestrator do you use?](https://news.ycombinator.com/item?id=30128865)
 - [DBOS: A DBMS-oriented Operating System [pdf]](https://vldb.org/pvldb/vol15/p21-skiadopoulos.pdf)
-- [Ask HN: Alternate Email hosting to G Suite](https://news.ycombinator.com/item?id=30128198)
-- [Nuanced communication usually doesn&#39;t work at scale](https://twitter.com/danluu/status/1487228574608211969)
-- [Don&#39;t you lecture me with your thirty dollar website](https://gdcolon.com/🗿)
-- [Path &lpar;YC S19&rpar; is hiring engineers to automate getting money for college](https://path.me)
+- [Simulation of Atmospheric Refraction](http://walter.bislins.ch/bloge/index.asp?page=Simulation+of+Atmospheric+Refraction)
+- [Create step-by-step documentation with screenshots, in seconds](https://www.tango.us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
