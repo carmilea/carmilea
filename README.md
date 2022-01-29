@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Wow Writing Literate API Documentation in Emacs Org Mode](https://joseph8th.github.io/posts/wow-writing-literate-api-documentation-in-emacs-org-mode/)
-- [Former NRC Chair Argues Nuclear Power Isn&#39;t a Climate Solution](https://www.powermag.com/blog/former-nuclear-leaders-say-no-to-new-reactors/)
-- [The &#39;Hidden Resignation&#39;: Employees are checked out](https://tidymails.com/business-insider/the-hidden-resignation-employees-are-checked-out-full-article/235949/)
-- [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html)
-- [Ask HN: Which VM orchestrator do you use?](https://news.ycombinator.com/item?id=30128865)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [Black, the uncompromising Python code formatter, is stable](https://pypi.org/project/black/)
+- [In quieter corners DAOs are forging a new ecosystem for digital startups](https://www.newyorker.com/culture/infinite-scroll/the-promise-of-daos-the-latest-craze-in-crypto)
+- [A dynamic tutorial about a compiler in one JavaScript file &lpar;2016&rpar;](https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js)
+- [Writing Literate API Documentation in Emacs Org Mode](https://joseph8th.github.io/posts/wow-writing-literate-api-documentation-in-emacs-org-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
