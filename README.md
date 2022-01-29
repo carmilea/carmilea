@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Latin as She Is Spoke: How Classicists Tricked Themselves](http://blogicarian.blogspot.com/2019/03/argumentum-ad-ignorantiam.html)
+- [The Hidden Engineering Protecting Getty Art from Earthquakes](https://www.getty.edu/news/the-hidden-engineering-protecting-getty-art-from-earthquakes/)
+- [Tor Browser: a legacy of advancing private browsing innovation](https://blog.torproject.org/tor-browser-advancing-privacy-innovation/)
 - [Heartbreaking: 6509 PSUs Fail After a Brief 22 Years of Service](https://www.jumboframeinternet.com/post/1/)
 - [Citizen developers are rapidly becoming the vanguard of corporate digitisation](https://www.economist.com/business/2022/01/29/what-if-all-workers-wrote-software-not-just-the-geek-elite)
-- [Nimble &lpar;YC S17&rpar; Is Hiring a QA Engineer &lpar;F/T and Remote&rpar;](https://news.ycombinator.com/item?id=30122645)
-- [Facebook page unpublished with no warning](https://news.ycombinator.com/item?id=30122572)
-- [Table Range Partitioning Is a Crutch. Here’s Why SingleStore Doesn’t Need It](https://www.singlestore.com/blog/table-range-partitioning-is-a-crutch-heres-why-singlestore-doesnt-need-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
