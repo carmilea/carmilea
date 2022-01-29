@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An update on rust/coreutils](https://sylvestre.ledru.info/blog/2022/01/29/an-update-on-rust-coreutils)
-- [Google terminates Play Store account of Simple Keyboard developer](https://github.com/rkkr/simple-keyboard/issues/333)
-- [The Pandemic Boom Goes Bust](https://therossreport.substack.com/p/the-pandemic-boom-goes-bust)
-- [Corrily &lpar;YC W21&rpar; Is Hiring a Senior Account Executive](https://corrily.crew.work/jobs/61f1b43a8ba64f35b1550241)
-- [The 512KB Club](https://512kb.club/)
+- [Recreating the Shortest Math Paper with Rust and WASM](https://carlkcarlk.github.io/shortestpaper/)
+- [Turning back time with epigenetic clocks](https://www.nature.com/articles/d41586-022-00077-8)
+- [Reasons for Servers to Support IPv6](https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/)
+- [Can computers cope with human races?](https://web.stanford.edu/~learnest/les/mongrel.htm)
+- [Si78c: Memory-accurate reimplementation of Space Invaders in C](https://github.com/loadzero/si78c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
