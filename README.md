@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DBOS: A DBMS-oriented Operating System [pdf]](https://vldb.org/pvldb/vol15/p21-skiadopoulos.pdf)
+- [Ask HN: Alternate Email hosting to G Suite](https://news.ycombinator.com/item?id=30128198)
+- [Nuanced communication usually doesn&#39;t work at scale](https://twitter.com/danluu/status/1487228574608211969)
 - [Don&#39;t you lecture me with your thirty dollar website](https://gdcolon.com/🗿)
 - [Path &lpar;YC S19&rpar; is hiring engineers to automate getting money for college](https://path.me)
-- [Plagiarism as a patent amplifier: Understanding the delayed rollout of PQC](https://blog.cr.yp.to/20220129-plagiarism.html)
-- [How FreeDOS Grew Up and Became a Modern DOS](https://www.cloudsavvyit.com/12250/how-freedos-grew-up-and-became-a-modern-dos/)
-- [Encyclopedia Professor Fortran](https://bashny.net/t/en/34007)
 <!-- BLOG-POST-LIST:END -->
 
 ---
