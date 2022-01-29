@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL used fsync incorrectly for 20 years &lpar;2019&rpar; [video]](https://archive.fosdem.org/2019/schedule/event/postgresql_fsync/)
 - [A pure Go embedded SQL database](https://gitlab.com/cznic/ql)
-- [Thailand oil spill: governor declares state of emergency on beach](https://asia.nikkei.com/Spotlight/Environment/Thailand-oil-spill-governor-declares-state-of-emergency-on-beach)
-- [Tell HN: Google don&#39;t work anymore for exact matches](https://news.ycombinator.com/item?id=30130535)
+- [Should I build a Tesla coil for a science fair?](https://www.teslacoildesign.com/appendix.html)
+- [Tell HN: Google doesn&#39;t work anymore for exact matches](https://news.ycombinator.com/item?id=30130535)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
-- [Black, the uncompromising Python code formatter, is stable](https://pypi.org/project/black/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
