@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer – San Francisco/London](https://etleap.com/jobs/#software-engineer)
+- [The Disappearance of Japan’s “Third Gender”](https://daily.jstor.org/the-disappearance-of-japans-third-gender/)
 - [Latin as She Is Spoke: How Classicists Tricked Themselves](http://blogicarian.blogspot.com/2019/03/argumentum-ad-ignorantiam.html)
 - [The Hidden Engineering Protecting Getty Art from Earthquakes](https://www.getty.edu/news/the-hidden-engineering-protecting-getty-art-from-earthquakes/)
 - [Tor Browser: a legacy of advancing private browsing innovation](https://blog.torproject.org/tor-browser-advancing-privacy-innovation/)
-- [Heartbreaking: 6509 PSUs Fail After a Brief 22 Years of Service](https://www.jumboframeinternet.com/post/1/)
-- [Citizen developers are rapidly becoming the vanguard of corporate digitisation](https://www.economist.com/business/2022/01/29/what-if-all-workers-wrote-software-not-just-the-geek-elite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
