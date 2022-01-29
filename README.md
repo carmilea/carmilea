@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Suicide hotline shares data with for-profit spinoff, raising ethical questions](https://subscriber.politicopro.com/article/2022/01/a-suicide-hotlines-data-deals-echo-silicon-valleys-privacy-debates-00002617)
+- [Nimble &lpar;YC S17&rpar; Is Hiring a QA Engineer &lpar;F/T and Remote&rpar;](https://news.ycombinator.com/item?id=30122645)
+- [Suicide hotline shares data with for-profit spinoff, raising ethical questions](https://www.politico.com/news/2022/01/28/suicide-hotline-silicon-valley-privacy-debates-00002617)
 - [Right to Repair Fight](https://www.checkbook.org/national/right-to-repair/)
 - [On self-modifying executables in Rust](https://blog.dend.ro/self-modifying-rust/)
-- [Year old niche internet empire for sale](https://www.bizbuysell.com/Business-Opportunity/Internet-business-for-sale/1899750/)
 - [The Manga Guide Series](https://www.ohmsha.co.jp/english/manga.htm)
 <!-- BLOG-POST-LIST:END -->
 
