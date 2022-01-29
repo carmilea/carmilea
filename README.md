@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Corrily &lpar;YC W21&rpar; Is Hiring a Senior Account Executive](https://corrily.crew.work/jobs/61f1b43a8ba64f35b1550241)
+- [How can you tell if the company youre interviewing with is rotten on the inside?](https://charity.wtf/2022/01/29/how-can-you-tell-if-the-company-youre-interviewing-with-is-rotten-on-the-inside/)
+- [Dutch-Japanese Relations](https://www.netherlandsandyou.nl/your-country-and-the-netherlands/japan/and-the-netherlands/dutch-japanese-relations)
 - [The Battle of Helm’s Deep, Part I: Bargaining for Goods at Helm’s Gate](https://acoup.blog/2020/05/01/collections-the-battle-of-helms-deep-part-i-bargaining-for-goods-at-helms-gate/)
 - [A pipe operator for JavaScript: introduction and use cases](https://2ality.com/2022/01/pipe-operator.html)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer – San Francisco/London](https://etleap.com/jobs/#software-engineer)
-- [Ask HN: Do people still use DeviantArt?](https://news.ycombinator.com/item?id=30124285)
-- [Latin as She Is Spoke: How Classicists Tricked Themselves &lpar;2019&rpar;](http://blogicarian.blogspot.com/2019/03/argumentum-ad-ignorantiam.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
