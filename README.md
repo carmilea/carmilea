@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Recreating the Shortest Math Paper with Rust and WASM](https://carlkcarlk.github.io/shortestpaper/)
-- [Turning back time with epigenetic clocks](https://www.nature.com/articles/d41586-022-00077-8)
-- [Reasons for Servers to Support IPv6](https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/)
-- [Can computers cope with human races?](https://web.stanford.edu/~learnest/les/mongrel.htm)
-- [Si78c: Memory-accurate reimplementation of Space Invaders in C](https://github.com/loadzero/si78c)
+- [The biggest secret in political science](https://thomasprosser.substack.com/p/the-biggest-secret-in-political-science)
+- [Deep physical neural networks trained with backpropagation](https://www.nature.com/articles/s41586-021-04223-6)
+- [One Gemini Battery Nearly Doubles Tesla Model S Range](https://www.motortrend.com/news/one-gemini-battery-tesla-model-s-range-test/)
+- [Rust extension traits, greppability and IDEs](https://eli.thegreenplace.net/2022/rust-extension-traits-greppability-and-ides/)
+- [Show HN: Wordle Image Maker](https://wordle.gary.mcad.am)
 <!-- BLOG-POST-LIST:END -->
 
 ---
