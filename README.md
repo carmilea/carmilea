@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The Battle of Helm’s Deep, Part I: Bargaining for Goods at Helm’s Gate](https://acoup.blog/2020/05/01/collections-the-battle-of-helms-deep-part-i-bargaining-for-goods-at-helms-gate/)
+- [A pipe operator for JavaScript: introduction and use cases](https://2ality.com/2022/01/pipe-operator.html)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer – San Francisco/London](https://etleap.com/jobs/#software-engineer)
 - [Ask HN: Do people still use DeviantArt?](https://news.ycombinator.com/item?id=30124285)
 - [Latin as She Is Spoke: How Classicists Tricked Themselves &lpar;2019&rpar;](http://blogicarian.blogspot.com/2019/03/argumentum-ad-ignorantiam.html)
-- [The Hidden Engineering Protecting Getty Art from Earthquakes](https://www.getty.edu/news/the-hidden-engineering-protecting-getty-art-from-earthquakes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
