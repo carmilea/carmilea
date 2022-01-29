@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A pure Go embedded SQL database](https://gitlab.com/cznic/ql)
+- [Thailand oil spill: governor declares state of emergency on beach](https://asia.nikkei.com/Spotlight/Environment/Thailand-oil-spill-governor-declares-state-of-emergency-on-beach)
+- [Tell HN: Google don&#39;t work anymore for exact matches](https://news.ycombinator.com/item?id=30130535)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
 - [Black, the uncompromising Python code formatter, is stable](https://pypi.org/project/black/)
-- [In quieter corners DAOs are forging a new ecosystem for digital startups](https://www.newyorker.com/culture/infinite-scroll/the-promise-of-daos-the-latest-craze-in-crypto)
-- [A dynamic tutorial about a compiler in one JavaScript file &lpar;2016&rpar;](https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js)
-- [Writing Literate API Documentation in Emacs Org Mode](https://joseph8th.github.io/posts/wow-writing-literate-api-documentation-in-emacs-org-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
