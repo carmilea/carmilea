@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The biggest secret in political science](https://thomasprosser.substack.com/p/the-biggest-secret-in-political-science)
-- [Deep physical neural networks trained with backpropagation](https://www.nature.com/articles/s41586-021-04223-6)
-- [One Gemini Battery Nearly Doubles Tesla Model S Range](https://www.motortrend.com/news/one-gemini-battery-tesla-model-s-range-test/)
-- [Rust extension traits, greppability and IDEs](https://eli.thegreenplace.net/2022/rust-extension-traits-greppability-and-ides/)
-- [Show HN: Wordle Image Maker](https://wordle.gary.mcad.am)
+- [Don&#39;t you lecture me with your thirty dollar website](https://gdcolon.com/🗿)
+- [Path &lpar;YC S19&rpar; is hiring engineers to automate getting money for college](https://path.me)
+- [Plagiarism as a patent amplifier: Understanding the delayed rollout of PQC](https://blog.cr.yp.to/20220129-plagiarism.html)
+- [How FreeDOS Grew Up and Became a Modern DOS](https://www.cloudsavvyit.com/12250/how-freedos-grew-up-and-became-a-modern-dos/)
+- [Encyclopedia Professor Fortran](https://bashny.net/t/en/34007)
 <!-- BLOG-POST-LIST:END -->
 
 ---
