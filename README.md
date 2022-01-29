@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [What if all workers wrote software, not just the geek elite?](https://www.economist.com/business/2022/01/29/what-if-all-workers-wrote-software-not-just-the-geek-elite)
 - [Nimble &lpar;YC S17&rpar; Is Hiring a QA Engineer &lpar;F/T and Remote&rpar;](https://news.ycombinator.com/item?id=30122645)
 - [Facebook page unpublished with no warning](https://news.ycombinator.com/item?id=30122572)
 - [Table Range Partitioning Is a Crutch. Here’s Why SingleStore Doesn’t Need It](https://www.singlestore.com/blog/table-range-partitioning-is-a-crutch-heres-why-singlestore-doesnt-need-it)
 - [Right to Repair Fight](https://www.checkbook.org/national/right-to-repair/)
+- [On self-modifying executables in Rust](https://blog.dend.ro/self-modifying-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
