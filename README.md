@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Wow Writing Literate API Documentation in Emacs Org Mode](https://joseph8th.github.io/posts/wow-writing-literate-api-documentation-in-emacs-org-mode/)
+- [Former NRC Chair Argues Nuclear Power Isn&#39;t a Climate Solution](https://www.powermag.com/blog/former-nuclear-leaders-say-no-to-new-reactors/)
+- [The &#39;Hidden Resignation&#39;: Employees are checked out](https://tidymails.com/business-insider/the-hidden-resignation-employees-are-checked-out-full-article/235949/)
 - [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html)
 - [Ask HN: Which VM orchestrator do you use?](https://news.ycombinator.com/item?id=30128865)
-- [DBOS: A DBMS-oriented Operating System [pdf]](https://vldb.org/pvldb/vol15/p21-skiadopoulos.pdf)
-- [Simulation of Atmospheric Refraction](http://walter.bislins.ch/bloge/index.asp?page=Simulation+of+Atmospheric+Refraction)
-- [Create step-by-step documentation with screenshots, in seconds](https://www.tango.us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
