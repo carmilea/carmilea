@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [An update on rust/coreutils: some binaries are significantly faster than GNU](https://sylvestre.ledru.info/blog/2022/01/29/an-update-on-rust-coreutils)
+- [An update on rust/coreutils](https://sylvestre.ledru.info/blog/2022/01/29/an-update-on-rust-coreutils)
 - [Google terminates Play Store account of Simple Keyboard developer](https://github.com/rkkr/simple-keyboard/issues/333)
 - [The Pandemic Boom Goes Bust](https://therossreport.substack.com/p/the-pandemic-boom-goes-bust)
-- [As US Companies Beg for Applicants, Germany to Admit 400,000 Skilled Immigrants](https://www.newsweek.com/us-companies-beg-applicants-germany-admit-400000-skilled-immigrants-annually-1673761)
 - [Corrily &lpar;YC W21&rpar; Is Hiring a Senior Account Executive](https://corrily.crew.work/jobs/61f1b43a8ba64f35b1550241)
+- [The 512KB Club](https://512kb.club/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
