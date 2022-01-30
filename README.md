@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SBCL: New in Version 2.2.1](http://www.sbcl.org/all-news.html?2.2.1#2.2.1)
 - [OneSignal &lpar;YC S11&rpar; is hiring engineers with distributed systems experience](https://onesignal.com/careers/9e1d251c-c1f9-49c7-98e9-c883e519f902)
-- [Would you take free land in rural America?](https://thehustle.co/would-you-take-free-land-in-rural-america/)
-- [Bubble sort: an archaeological algorithmic analysis](https://www.semanticscholar.org/paper/Bubble-sort%3A-an-archaeological-algorithmic-analysis-Astrachan/9109f7043198ea2d8f43f15a2ff7afa8e7c15f8d)
+- [Ask HN: Has anyone leveraged GDPR to overturn automated bans?](https://news.ycombinator.com/item?id=30138669)
 - [Hypercard Simulator](https://hypercardsimulator.com/)
 - [On the criteria to be used in decomposing systems into modules &lpar;1972&rpar; [pdf]](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
 <!-- BLOG-POST-LIST:END -->
