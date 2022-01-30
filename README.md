@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [A UX designer walks into a Tesla Bar](https://jenson.org/tesla/)
+- [The Great Unconformity: Research points to glaciers being the culprit](https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why)
 - [When the algorithm is your boss](https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance)
-- [Reducing inequality can reverse political polarisation: study](https://www.thesaint.scot/post/university-study-finds-reducing-inequality-can-reverse-political-polarisation)
 - [Show the case against](https://www.shubhro.com/2022/01/03/show-the-case-against/)
-- [Very Remote Lisp Debugging Story](https://susam.net/maze/very-remote-debugging.html)
-- [SBCL: New in Version 2.2.1](http://www.sbcl.org/all-news.html?2.2.1#2.2.1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
