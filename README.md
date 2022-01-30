@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [One More Small Step Toward the Right to Software Repair](https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/)
 - [Blueberry Earth or “what if the entire Earth was replaced with blueberries?“](https://arxiv.org/abs/1807.10553)
 - [tofuproxy – web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser](http://www.tofuproxy.stargrave.org/)
 - [Building single-page-apps with PostgREST](https://blog.polyglot.network/backend.sql-+-frontend.js-love)
 - [John Locke’s recipe for Pancakes &lpar;2021&rpar;](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
-- [Phone is still the best way to order pizza](https://dan.bulwinkle.net/blog/phone-is-still-the-best-way-to-order-pizza/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
