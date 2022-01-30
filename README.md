@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [backend.sql and frontend.js = ♥](https://blog.polyglot.network/backend.sql-+-frontend.js-love)
+- [Building single-page-apps with PostgREST](https://blog.polyglot.network/backend.sql-+-frontend.js-love)
 - [John Locke’s recipe for Pancakes &lpar;2021&rpar;](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
 - [Ask HN: At a peak of my dev career, I hate my life](https://news.ycombinator.com/item?id=30132560)
 - [Phone is still the best way to order pizza](https://dan.bulwinkle.net/blog/phone-is-still-the-best-way-to-order-pizza/)
