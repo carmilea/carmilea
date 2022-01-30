@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [tofuproxy – web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser](http://www.tofuproxy.stargrave.org/)
 - [Building single-page-apps with PostgREST](https://blog.polyglot.network/backend.sql-+-frontend.js-love)
 - [John Locke’s recipe for Pancakes &lpar;2021&rpar;](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
-- [Ask HN: At a peak of my dev career, I hate my life](https://news.ycombinator.com/item?id=30132560)
 - [Phone is still the best way to order pizza](https://dan.bulwinkle.net/blog/phone-is-still-the-best-way-to-order-pizza/)
 - [PostgreSQL used fsync incorrectly for 20 years &lpar;2019&rpar; [video]](https://archive.fosdem.org/2019/schedule/event/postgresql_fsync/)
 <!-- BLOG-POST-LIST:END -->
