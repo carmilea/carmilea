@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Taloflow &lpar;YC W21&rpar; Is Hiring a QA Engineer and Project Manager](https://www.ycombinator.com/companies/taloflow/jobs/bcdMpjv-qa-engineer-and-project-manager)
+- [I write about America’s health care system, and I got caught up in it](https://www.nakedcapitalism.com/2022/01/i-write-about-americas-absurd-health-care-system-then-i-got-caught-up-in-it.html)
 - [If It Were My Home](http://www.ifitweremyhome.com/compare/DE/US)
-- [Munich district court: embedding Google fonts violates GDPR, compensation 100 €](https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/)
+- [GDPR penalty for passing on of IP address to Google by using Google Fonts](https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/)
 - [Applying Offensive Reverse Engineering to Facebook Gameroom &lpar;2021&rpar;](https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom)
-- [One more small step toward the right to software repair](https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
