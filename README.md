@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Royal Society cautions against censorship of scientific misinformation online](https://royalsociety.org/news/2022/01/scientific-misinformation-report/)
 - [Operation Warp Speed: A new model for industrial policy](https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/)
 - [The Story of Maxis Software &lpar;1999&rpar;](https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html)
 - [Don&#39;t forget Microsoft](https://luttig.substack.com/p/dont-forget-microsoft)
 - [Deep symbolic regression for recurrent sequences](http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
