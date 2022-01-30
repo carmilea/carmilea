@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Taloflow &lpar;YC W21&rpar; Is Hiring a QA Engineer and Project Manager](https://www.ycombinator.com/companies/taloflow/jobs/bcdMpjv-qa-engineer-and-project-manager)
 - [If It Were My Home](http://www.ifitweremyhome.com/compare/DE/US)
 - [Munich district court: embedding Google fonts violates GDPR, compensation 100 €](https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/)
 - [Applying Offensive Reverse Engineering to Facebook Gameroom &lpar;2021&rpar;](https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom)
 - [One more small step toward the right to software repair](https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/)
-- [Did I just lose half a million dollars](https://old.reddit.com/r/ethereum/comments/sfz4kw/did_i_just_lose_half_a_million_dollars_by_sending/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
