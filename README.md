@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL used fsync incorrectly for 20 years &lpar;2019&rpar; [video]](https://archive.fosdem.org/2019/schedule/event/postgresql_fsync/)
-- [A pure Go embedded SQL database](https://gitlab.com/cznic/ql)
-- [Should I build a Tesla coil for a science fair?](https://www.teslacoildesign.com/appendix.html)
-- [Tell HN: Google doesn&#39;t work anymore for exact matches](https://news.ycombinator.com/item?id=30130535)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [My 15 days old app help more than 1000 people to find testing appointment](https://lavpatel.com/testing-appointment-app/)
+- [Mix and Match Mental Models](https://lethain.com/mental-models-mix-match/)
+- [The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraudhttps://www.usenix.org/publications/loginonline/web3-fraud)
+- [Joni Mitchell joins Neil Young in protest against Spotify](https://www.npr.org/2022/01/29/1076670679/joni-mitchell-neil-young-protest-spotify-rogan-misinformation)
+- [Magic Mouse 2 – A Terrible Design &lpar;2017&rpar;](https://fyngyrz.com/?p=3183)
 <!-- BLOG-POST-LIST:END -->
 
 ---
