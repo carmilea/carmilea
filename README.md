@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Operation Warp Speed: A new model for industrial policy](https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/)
+- [The Story of Maxis Software &lpar;1999&rpar;](https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html)
+- [Don&#39;t forget Microsoft](https://luttig.substack.com/p/dont-forget-microsoft)
+- [Deep symbolic regression for recurrent sequences](http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/)
 - [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
-- [A UX designer walks into a Tesla Bar](https://jenson.org/tesla/)
-- [The Great Unconformity: Research points to glaciers being the culprit](https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why)
-- [When the algorithm is your boss](https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance)
-- [Show the case against](https://www.shubhro.com/2022/01/03/show-the-case-against/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
