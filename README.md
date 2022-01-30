@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [University Study Finds Reducing Inequality Can Reverse Political Polarisation](https://www.thesaint.scot/post/university-study-finds-reducing-inequality-can-reverse-political-polarisation)
+- [Show the Case Against](https://www.shubhro.com/2022/01/03/show-the-case-against/)
 - [SBCL: New in Version 2.2.1](http://www.sbcl.org/all-news.html?2.2.1#2.2.1)
 - [OneSignal &lpar;YC S11&rpar; is hiring engineers with distributed systems experience](https://onesignal.com/careers/9e1d251c-c1f9-49c7-98e9-c883e519f902)
 - [Ask HN: Has anyone leveraged GDPR to overturn automated bans?](https://news.ycombinator.com/item?id=30138669)
-- [Hypercard Simulator](https://hypercardsimulator.com/)
-- [On the criteria to be used in decomposing systems into modules &lpar;1972&rpar; [pdf]](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
