@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [University Study Finds Reducing Inequality Can Reverse Political Polarisation](https://www.thesaint.scot/post/university-study-finds-reducing-inequality-can-reverse-political-polarisation)
-- [Show the Case Against](https://www.shubhro.com/2022/01/03/show-the-case-against/)
+- [When the algorithm is your boss](https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance)
+- [Reducing inequality can reverse political polarisation: study](https://www.thesaint.scot/post/university-study-finds-reducing-inequality-can-reverse-political-polarisation)
+- [Show the case against](https://www.shubhro.com/2022/01/03/show-the-case-against/)
+- [Very Remote Lisp Debugging Story](https://susam.net/maze/very-remote-debugging.html)
 - [SBCL: New in Version 2.2.1](http://www.sbcl.org/all-news.html?2.2.1#2.2.1)
-- [OneSignal &lpar;YC S11&rpar; is hiring engineers with distributed systems experience](https://onesignal.com/careers/9e1d251c-c1f9-49c7-98e9-c883e519f902)
-- [Ask HN: Has anyone leveraged GDPR to overturn automated bans?](https://news.ycombinator.com/item?id=30138669)
 <!-- BLOG-POST-LIST:END -->
 
 ---
