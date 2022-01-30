@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [One More Small Step Toward the Right to Software Repair](https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/)
+- [Applying Offensive Reverse Engineering to Facebook Gameroom &lpar;2021&rpar;](https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom)
+- [One more small step toward the right to software repair](https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/)
+- [Did I just lose half a million dollars](https://old.reddit.com/r/ethereum/comments/sfz4kw/did_i_just_lose_half_a_million_dollars_by_sending/)
 - [Blueberry Earth or “what if the entire Earth was replaced with blueberries?“](https://arxiv.org/abs/1807.10553)
 - [tofuproxy – web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser](http://www.tofuproxy.stargrave.org/)
-- [Building single-page-apps with PostgREST](https://blog.polyglot.network/backend.sql-+-frontend.js-love)
-- [John Locke’s recipe for Pancakes &lpar;2021&rpar;](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
