@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Regarding the Neil Young–Joe Rogan Spotify Saga](https://daringfireball.net/2022/01/young_rogan_spotify_saga)
+- [Ask HN: Getting film developed cheap in the US](https://news.ycombinator.com/item?id=30138117)
+- [Show HN: Web page that parses and explains the label on a bike tire](https://fahrrad-tools.de/tire.html)
+- [Midnight Commander Tips and Tricks](http://www.softpanorama.org/OFM/MC/mc_tips.shtml)
 - [GoSTL: Algorithm and datastructure library for Go similar to C++ STL](https://github.com/liyue201/gostl)
 - [Taloflow &lpar;YC W21&rpar; Is Hiring a QA Engineer and Project Manager](https://www.ycombinator.com/companies/taloflow/jobs/bcdMpjv-qa-engineer-and-project-manager)
-- [Uninitialized Memory: Unsafe Rust Is Too Hard](https://lucumr.pocoo.org/2022/1/30/unsafe-rust/)
-- [If It Were My Home](http://www.ifitweremyhome.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
