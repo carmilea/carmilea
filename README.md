@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Getting film developed cheap in the US](https://news.ycombinator.com/item?id=30138117)
-- [Show HN: Web page that parses and explains the label on a bike tire](https://fahrrad-tools.de/tire.html)
-- [Midnight Commander Tips and Tricks](http://www.softpanorama.org/OFM/MC/mc_tips.shtml)
-- [GoSTL: Algorithm and datastructure library for Go similar to C++ STL](https://github.com/liyue201/gostl)
-- [Taloflow &lpar;YC W21&rpar; Is Hiring a QA Engineer and Project Manager](https://www.ycombinator.com/companies/taloflow/jobs/bcdMpjv-qa-engineer-and-project-manager)
+- [OneSignal &lpar;YC S11&rpar; is hiring engineers with distributed systems experience](https://onesignal.com/careers/9e1d251c-c1f9-49c7-98e9-c883e519f902)
+- [Would you take free land in rural America?](https://thehustle.co/would-you-take-free-land-in-rural-america/)
+- [Bubble sort: an archaeological algorithmic analysis](https://www.semanticscholar.org/paper/Bubble-sort%3A-an-archaeological-algorithmic-analysis-Astrachan/9109f7043198ea2d8f43f15a2ff7afa8e7c15f8d)
+- [Hypercard Simulator](https://hypercardsimulator.com/)
+- [On the criteria to be used in decomposing systems into modules &lpar;1972&rpar; [pdf]](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
