@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Svix &lpar;YC W21&rpar; Is Hiring a Rust Back End Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/svix/jobs/7DMKXxB-rust-backend-engineer)
-- [Slack Having a Partial Outage](https://status.slack.com/2022-01/f7d4da863db0707c)
-- [PyFlow – visual and modular block programming in Python](https://github.com/Bycelium/PyFlow)
-- [How to approach and prioritize technical debt](https://leadership.garden/tips-on-prioritizing-tech-debt/)
-- [Giant Pyrosome](https://oceana.org/marine-life/giant-pyrosome/)
+- [Moderna’s HIV Vaccine Has Officially Begun Human Trials](https://www.them.us/story/hiv-aids-vaccine-human-trials-moderna)
+- [Yemen&#39;s Bifurcated Monetary System](http://jpkoning.blogspot.com/2022/01/yemens-bifurcated-monetary-system.html)
+- [The new hire who showed up is not the same person we interviewed](https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html)
+- [Svix &lpar;YC W21&rpar; Is Hiring a Rust Backend Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/svix/jobs/7DMKXxB-rust-backend-engineer)
+- [Show HN: Rich-CLI – A CLI toolbox for highlighting, Markdown, JSON and rich text](https://github.com/Textualize/rich-cli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
