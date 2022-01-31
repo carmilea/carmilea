@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [“This property is home to a decommissioned Atlas F missile silo complex”](https://www.zillow.com/homedetails/2432-Fair-Rd-Abilene-KS-67410/113177058_zpid/)
+- [Reimagining Chess with AlphaZero](https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext)
+- [How I Discovered Thousands of Open Databases on AWS](https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685)
 - [Mesmerizing Labor](https://daily.jstor.org/mesmerizing-labor/)
 - [Ylang: Universal Language for eBPF, Stap+, GDB, and More &lpar;2021&rpar;](https://blog.openresty.com/en/ylang-intro-part4/)
-- [Lizard Scale Patterns Described with Antiferromagnetic Model](https://physics.aps.org/articles/v15/s12)
-- [Unconscious R&amp;D &lpar;2021&rpar;](https://subconscious.substack.com/p/unconscious-r-and-d)
-- [State of the Web: Static Site Generators](https://byteofdev.com/posts/static-site-generators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
