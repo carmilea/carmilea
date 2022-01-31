@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Convictional &lpar;YC W19&rpar; is hiring engineers to build the future of B2B trade Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
-- [1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges](https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/)
-- [The Awk State Machine Parser Pattern &lpar;2018&rpar;](https://two-wrongs.com/awk-state-machine-parser-pattern.html)
-- [Finnish diplomats’ phones infected with NSO Group Pegasus spyware](https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/)
-- [Boyfriend Alert](https://github.com/jscd/Boyfriend-Alert)
+- [Driverless cars won’t be good for the environment if they lead to more auto use](https://theconversation.com/driverless-cars-wont-be-good-for-the-environment-if-they-lead-to-more-auto-use-173819)
+- [Polar bears move into abandoned Arctic weather station](https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay)
+- [MNT Reform laptop has fully open hardware and software–for better or worse](https://arstechnica.com/gadgets/2022/01/review-mnt-reform-laptop-has-fully-open-hardware-and-software-for-better-or-worse/)
+- [VT100 Machine Emulator in JavaScript](https://www.pcjs.org/machines/dec/vt100/)
+- [My dishwasher won’t start until I let it update its firmware over the WiFi](https://twitter.com/isislovecruft/status/1487947074901463040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
