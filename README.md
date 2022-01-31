@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Non-Tesla Supercharger Pilot](https://www.tesla.com/support/non-tesla-supercharging)
-- [The BBC Quietly Censors Its Own Archives](https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/)
-- [Driverless cars won’t be good for the environment if they lead to more auto use](https://theconversation.com/driverless-cars-wont-be-good-for-the-environment-if-they-lead-to-more-auto-use-173819)
-- [Polar bears move into abandoned Arctic weather station](https://www.theguardian.com/world/2022/jan/31/polar-bears-move-into-abandoned-arctic-weather-station-photo-essay)
-- [MNT Reform laptop has fully open hardware and software–for better or worse](https://arstechnica.com/gadgets/2022/01/review-mnt-reform-laptop-has-fully-open-hardware-and-software-for-better-or-worse/)
+- [Show HN: Magistrate – Plaintext Legal Contracts for Developers](https://magistrate.khanna.law/)
+- [Learn Elisp the Hard Way &lpar;2011&rpar;](https://github.com/hypernumbers/learn_elisp_the_hard_way)
+- [Xorg update adds touchpad gestures and variable refresh support &lpar;2021&rpar;](https://lists.x.org/archives/xorg/2021-September/060773.html)
+- [The Boring Technology Checklist](https://blog.staging.begin.com/posts/2022-01-27-the-boring-technology-checklist)
+- [Google critiqued the practice of displaying ads above search results](https://twitter.com/krebs_adrian/status/1488173888068542466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
