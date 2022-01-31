@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Convictional &lpar;YC W19&rpar; is hiring engineers to build the future of B2B trade Remote](https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3)
+- [1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges](https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/)
 - [The Awk State Machine Parser Pattern &lpar;2018&rpar;](https://two-wrongs.com/awk-state-machine-parser-pattern.html)
 - [Finnish diplomats’ phones infected with NSO Group Pegasus spyware](https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/)
 - [Boyfriend Alert](https://github.com/jscd/Boyfriend-Alert)
-- [Generate Static Sites from Markdown Files with Caddy](https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server)
-- [Examples of common false beliefs in mathematics](https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
