@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moderna’s HIV Vaccine Has Officially Begun Human Trials](https://www.them.us/story/hiv-aids-vaccine-human-trials-moderna)
-- [Yemen&#39;s Bifurcated Monetary System](http://jpkoning.blogspot.com/2022/01/yemens-bifurcated-monetary-system.html)
-- [The new hire who showed up is not the same person we interviewed](https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Rust Backend Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/svix/jobs/7DMKXxB-rust-backend-engineer)
-- [Show HN: Rich-CLI – A CLI toolbox for highlighting, Markdown, JSON and rich text](https://github.com/Textualize/rich-cli)
+- [What is VWRAP? &lpar;Linden&#39;s ten year old open Virtual World protocol&rpar;](https://meadhbh.hamrick.rocks/v2/technical/vwrap/index.html)
+- [Gains I&#39;m Seeing from My Second Brain Tool](https://joeldare.com/gains-im-seeing-from-my-second-brain-tool.html)
+- [Sony is buying Bungie, the developer of Destiny and original creator of Halo](https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo)
+- [Sony to buy video game maker Bungie in $3.6B deal](https://www.cnbc.com/2022/01/31/sony-to-buy-video-game-maker-bungie-in-3point6-billion-deal.html)
+- [Moderna’s HIV vaccine has officially begun human trials](https://www.them.us/story/hiv-aids-vaccine-human-trials-moderna)
 <!-- BLOG-POST-LIST:END -->
 
 ---
