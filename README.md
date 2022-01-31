@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The GNU Name System](https://lsd.gnunet.org/lsd0001/)
+- [The New York Times buys Wordle](https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html)
 - [Smarking &lpar;YC W15&rpar; Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [Upcoming new HTTP QUERY method](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-safe-method-w-body-02)
+- [It&#39;s dire: Raspberry Pi availability tracker](https://www.jeffgeerling.com/blog/2022/its-dire-raspberry-pi-availability-tracker-launched)
 - [Spanish Wordle](https://wordle.santiagodebus.com/)
-- [DockerHub Active Incident](https://status.docker.com/pages/history/533c6539221ae15e3f000031)
-- [Why Henry III&#39;s gold penny failed](http://jpkoning.blogspot.com/2022/01/why-henry-iiis-gold-penny-failed.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
