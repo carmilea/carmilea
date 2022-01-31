@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unconscious R&amp;D &lpar;2021&rpar;](https://subconscious.substack.com/p/unconscious-r-and-d)
+- [Basic Cryptography – The Vigenere Cipher](https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/)
+- [America&#39;s Favorite Pickup Truck Goes Electric](https://www.newyorker.com/magazine/2022/01/31/americas-favorite-pickup-truck-goes-electric)
+- [Seattle Telecommunications History Museum](https://www.telcomhistory.org/connections-museum-seattle/)
 - [Royal Society cautions against censorship of scientific misinformation online](https://royalsociety.org/news/2022/01/scientific-misinformation-report/)
-- [Operation Warp Speed: A new model for industrial policy](https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/)
-- [The Story of Maxis Software &lpar;1999&rpar;](https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html)
-- [Don&#39;t forget Microsoft](https://luttig.substack.com/p/dont-forget-microsoft)
-- [Deep symbolic regression for recurrent sequences](http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
