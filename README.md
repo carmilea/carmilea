@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Awk State Machine Parser Pattern &lpar;2018&rpar;](https://two-wrongs.com/awk-state-machine-parser-pattern.html)
+- [Finnish diplomats’ phones infected with NSO Group Pegasus spyware](https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/)
+- [Boyfriend Alert](https://github.com/jscd/Boyfriend-Alert)
 - [Generate Static Sites from Markdown Files with Caddy](https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server)
 - [Examples of common false beliefs in mathematics](https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics)
-- [Zero-copy network transmission with io_uring &lpar;2021&rpar;](https://lwn.net/Articles/879724/)
-- [Decommissioned Atlas F missile silo complex for sale](https://www.zillow.com/homedetails/2432-Fair-Rd-Abilene-KS-67410/113177058_zpid/)
-- [Reimagining Chess with AlphaZero](https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
