@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Red Light Green Light](https://jamessevedge.com/articles/red-light-green-light/)
+- [Pay Attention to WebAssembly](https://harshal.sheth.io/2022/01/31/webassembly.html)
 - [The GNU Name System](https://lsd.gnunet.org/lsd0001/)
 - [The New York Times buys Wordle](https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html)
 - [Smarking &lpar;YC W15&rpar; Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
-- [It&#39;s dire: Raspberry Pi availability tracker](https://www.jeffgeerling.com/blog/2022/its-dire-raspberry-pi-availability-tracker-launched)
-- [Spanish Wordle](https://wordle.santiagodebus.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
