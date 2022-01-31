@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [“This property is home to a decommissioned Atlas F missile silo complex”](https://www.zillow.com/homedetails/2432-Fair-Rd-Abilene-KS-67410/113177058_zpid/)
 - [Reimagining Chess with AlphaZero](https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext)
+- [Rents are up 40 percent in some cities, forcing millions to move](https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/)
 - [How I Discovered Thousands of Open Databases on AWS](https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685)
 - [Mesmerizing Labor](https://daily.jstor.org/mesmerizing-labor/)
-- [Ylang: Universal Language for eBPF, Stap+, GDB, and More &lpar;2021&rpar;](https://blog.openresty.com/en/ylang-intro-part4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
