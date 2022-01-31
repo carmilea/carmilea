@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Magistrate – Plaintext Legal Contracts for Developers](https://magistrate.khanna.law/)
-- [Learn Elisp the Hard Way &lpar;2011&rpar;](https://github.com/hypernumbers/learn_elisp_the_hard_way)
-- [Xorg update adds touchpad gestures and variable refresh support &lpar;2021&rpar;](https://lists.x.org/archives/xorg/2021-September/060773.html)
-- [The Boring Technology Checklist](https://blog.staging.begin.com/posts/2022-01-27-the-boring-technology-checklist)
-- [Google critiqued the practice of displaying ads above search results](https://twitter.com/krebs_adrian/status/1488173888068542466)
+- [Svix &lpar;YC W21&rpar; Is Hiring a Rust Back End Engineer &lpar;Remote&rpar;](https://www.ycombinator.com/companies/svix/jobs/7DMKXxB-rust-backend-engineer)
+- [Slack Having a Partial Outage](https://status.slack.com/2022-01/f7d4da863db0707c)
+- [PyFlow – visual and modular block programming in Python](https://github.com/Bycelium/PyFlow)
+- [How to approach and prioritize technical debt](https://leadership.garden/tips-on-prioritizing-tech-debt/)
+- [Giant Pyrosome](https://oceana.org/marine-life/giant-pyrosome/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
