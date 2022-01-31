@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mesmerizing Labor](https://daily.jstor.org/mesmerizing-labor/)
 - [Ylang: Universal Language for eBPF, Stap+, GDB, and More &lpar;2021&rpar;](https://blog.openresty.com/en/ylang-intro-part4/)
 - [Lizard Scale Patterns Described with Antiferromagnetic Model](https://physics.aps.org/articles/v15/s12)
+- [Unconscious R&amp;D &lpar;2021&rpar;](https://subconscious.substack.com/p/unconscious-r-and-d)
 - [State of the Web: Static Site Generators](https://byteofdev.com/posts/static-site-generators/)
-- [Basic Cryptography – The Vigenere Cipher](https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/)
-- [Seattle Telecommunications History Museum](https://www.telcomhistory.org/connections-museum-seattle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
