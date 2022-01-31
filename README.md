@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The unreasonable effectiveness of one-on-ones](https://www.benkuhn.net/11/)
 - [What is VWRAP? &lpar;Linden&#39;s ten year old open Virtual World protocol&rpar;](https://meadhbh.hamrick.rocks/v2/technical/vwrap/index.html)
 - [Gains I&#39;m Seeing from My Second Brain Tool](https://joeldare.com/gains-im-seeing-from-my-second-brain-tool.html)
 - [Sony is buying Bungie, the developer of Destiny and original creator of Halo](https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo)
 - [Sony to buy video game maker Bungie in $3.6B deal](https://www.cnbc.com/2022/01/31/sony-to-buy-video-game-maker-bungie-in-3point6-billion-deal.html)
-- [Moderna’s HIV vaccine has officially begun human trials](https://www.them.us/story/hiv-aids-vaccine-human-trials-moderna)
 <!-- BLOG-POST-LIST:END -->
 
 ---
