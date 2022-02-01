@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RF Signal Generator](https://joshajohnson.com/rf-signal-generator/)
 - [A Transistor for Sound Points Toward Whole New Electronics](https://spectrum.ieee.org/topological-transistor-acoustic)
-- [My Out-of-Body Experience](https://nautil.us/my-out_of_body-experience-13509/)
+- [Containers are not just for Kubernetes](https://ramansharma.substack.com/p/containers-are-not-just-for-kubernetes-fa330653cbbd)
 - [You can now send replies from your Duck Addresses](https://duckduckgo.com/email/faq)
 - [How to Mislead with Facts](https://consilienceproject.org/how-to-mislead-with-facts/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=30158223)
 <!-- BLOG-POST-LIST:END -->
 
 ---
