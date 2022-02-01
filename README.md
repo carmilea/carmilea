@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior React Engineer](https://www.themuse.com/jobs/themuse/senior-react-engineer)
-- [Austrian DPA Ruling Against Google Paves the Way to EU-Based Cloud Services](https://www.infoq.com/news/2022/01/austrian-privacy-gdpr-google/)
-- [Ask HN: How do you explain the sloppiness of modern software?](https://news.ycombinator.com/item?id=30160282)
-- [Installing Every Arch Package](https://ta180m.exozy.me/posts/installing-every-arch-package/)
-- [How to Explain an Idea](https://www.markpollard.net/how-to-explain-an-idea/)
+- [Europe Is Losing Nuclear Power Just When It Needs Energy](https://www.bloomberg.com/news/features/2022-01-31/europe-s-nuclear-power-plants-are-disappearing-just-as-energy-crisis-hits-hard)
+- [Improving MIT’s written commitment to freedom of expression](https://freespeech.mit.edu/improving-mit%E2%80%99s-written-commitment-freedom-expression)
+- [Fetch API has landed into Node.js](https://github.com/nodejs/node/commit/6ec225392675c92b102d3caad02ee3a157c9d1b7)
+- [Redirect to a custom login page when securing your Angular app with MSAL](https://blog.mastykarz.nl/redirect-custom-login-page-securing-angular-app-msal/)
+- [Ask HN: Did I make a mistake jumping on the homestead bandwagon?](https://news.ycombinator.com/item?id=30161578)
 <!-- BLOG-POST-LIST:END -->
 
 ---
