@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Colab-xterm – Open a terminal in colab, including the free tier](https://github.com/InfuseAI/colab-xterm)
-- [Building a Cross-Platform Web and Mobile App from the Ground Up](https://ambrook.com/blog/building-a-cross-platform-web-and-mobile-app-from-the-ground-up)
-- [Man found guilty of ‘grossly offensive’ tweet](https://news.stv.tv/west-central/man-found-guilty-of-grossly-offensive-captain-tom-tweet)
-- [Bottles – Run Windows software and games on Linux](https://github.com/bottlesdevs/Bottles)
-- [A short introduction to the undeciphered Aegean writing systems](https://itsallgreektoanna.wordpress.com/2019/01/29/a-very-short-introduction-to-the-undeciphered-aegean-writing-systems/)
+- [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)
+- [The Death of Wordle](https://reeshill.net/posts/death-of-wordle/)
+- [Crisis Text Line, from my perspective](http://www.zephoria.org/thoughts/archives/2022/01/31/crisis-text-line-from-my-perspective.html)
+- [The Sixth Mass Extinction: fact, fiction or speculation?](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12816)
+- [The Wondrous Wordplay of Lunar New Year Food](https://www.atlasobscura.com/articles/lunar-new-year-food)
 <!-- BLOG-POST-LIST:END -->
 
 ---
