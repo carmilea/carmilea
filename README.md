@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Clerky &lpar;YC S11&rpar; is hiring senior full-stack software engineers &lpar;Rails, remote&rpar;](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Show HN: Pesto, a Digital Workplace](https://pesto.app/)
-- [Ask HN: Who is hiring? &lpar;February 2022&rpar;](https://news.ycombinator.com/item?id=30164271)
-- [MariaDB to go public at $672M valuation](https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/)
-- [Tesla Issues Second Recall Connected to FSD. Now It Has to Do with Rolling Stops](https://www.autoevolution.com/news/tesla-issues-second-recall-connected-to-fsd-now-it-has-to-do-with-stop-signs-180495.html)
+- [Solana Pay](https://solana.com/news/solana-pay-announcement)
+- [Tell HN: Unable to login to HN from Firefox, a lovecraftian tale](https://andregarzia.com/2022/02/unable-to-login-to-hn-from-firefox-a-lovecraftian-tale.html)
+- [How a PhD astrophysicist thinks about data](https://hex.tech/blog/friends-of-data/melodie-kao-1/)
+- [Python Tools for the Semantic Web, an Overview](https://github.com/pysemtec/semantic-python-overview)
+- [Show HN: A new paradigm for cloud access management](https://demo.symops.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
