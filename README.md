@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla to recall nearly 54,000 vehicles that may disobey stop signs](https://www.reuters.com/business/autos-transportation/tesla-recalls-nearly-54000-us-vehicles-rolling-stop-software-feature-2022-02-01/)
+- [Clerky &lpar;YC S11&rpar; is hiring senior full-stack software engineers &lpar;Rails, remote&rpar;](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [Show HN: Pesto, a Digital Workplace](https://pesto.app/)
 - [Ask HN: Who is hiring? &lpar;February 2022&rpar;](https://news.ycombinator.com/item?id=30164271)
-- [Ask HN: Who wants to be hired? &lpar;February 2022&rpar;](https://news.ycombinator.com/item?id=30164269)
 - [MariaDB to go public at $672M valuation](https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/)
 - [Tesla Issues Second Recall Connected to FSD. Now It Has to Do with Rolling Stops](https://www.autoevolution.com/news/tesla-issues-second-recall-connected-to-fsd-now-it-has-to-do-with-stop-signs-180495.html)
 <!-- BLOG-POST-LIST:END -->
