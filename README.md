@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla is bringing popular privacy features to its desktop and mobile VPN](https://blog.mozilla.org/en/products/mozilla-vpn/multi-account-containers-add-on-on-mozilla-vpn/)
+- [Furiosa&#39;s Cat Feeder](https://blondihacks.com/furiosas-cat-feeder/)
+- [WebVM: Server-less x86 virtual machines in the browser](https://leaningtech.com/webvm-server-less-x86-virtual-machines-in-the-browser/)
+- [Israel Rolls Out Laser Defense System](https://www.reuters.com/world/middle-east/israel-speeds-roll-out-laser-based-defence-systems-bennett-says-2022-02-01/)
 - [Critical Samba flaw presents code execution threat](https://portswigger.net/daily-swig/critical-samba-flaw-presents-code-execution-threat)
-- [German gov plans software company&#39;s liability for damages caused by vulns](https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnancy-faeser-bundesregierung-plant-hersteller-haftung-fuer-software-maengel-2202-162832.html)
-- [The McNamara fallacy: Measurement is not understanding](http://mcnamarafallacy.com/)
-- [Tell HN: Unable to login to HN from Firefox, a Lovecraftian tale](https://andregarzia.com/2022/02/unable-to-login-to-hn-from-firefox-a-lovecraftian-tale.html)
-- [How a PhD astrophysicist thinks about data](https://hex.tech/blog/friends-of-data/melodie-kao-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
