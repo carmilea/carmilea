@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What do you do to jump start your brain in the morning?](https://news.ycombinator.com/item?id=30160348)
+- [Ask HN: How do you explain the sloppiness of modern software?](https://news.ycombinator.com/item?id=30160282)
+- [Installing Every Arch Package](https://ta180m.exozy.me/posts/installing-every-arch-package/)
 - [How to Explain an Idea](https://www.markpollard.net/how-to-explain-an-idea/)
 - [468 Capital raises $400M to back European startups](https://www.axios.com/468-capital-raises-400-million-to-back-european-startups-56cac497-e2c7-499a-a595-268bfe7699e3.html)
-- [I wrote a script to automatically fix 100s of Grammarly corrections](https://github.com/isneuu/autofix-grammarly-errors/blob/main/readme.md)
-- [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/)
-- [Vectorscan – portable fork of hyperscan – high-performance regex matching lib](https://github.com/VectorCamp/vectorscan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
