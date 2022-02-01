@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [RF Signal Generator](https://joshajohnson.com/rf-signal-generator/)
-- [A Transistor for Sound Points Toward Whole New Electronics](https://spectrum.ieee.org/topological-transistor-acoustic)
-- [Containers are not just for Kubernetes](https://ramansharma.substack.com/p/containers-are-not-just-for-kubernetes-fa330653cbbd)
-- [You can now send replies from your Duck Addresses](https://duckduckgo.com/email/faq)
-- [How to Mislead with Facts](https://consilienceproject.org/how-to-mislead-with-facts/)
+- [I wrote a script to automatically fix 100s of Grammarly corrections](https://github.com/isneuu/autofix-grammarly-errors/blob/main/readme.md)
+- [Nearly 1k mysterious strands revealed in Milky Way’s center](https://news.northwestern.edu/stories/2022/01/nearly-1000-mysterious-strands-revealed-in-milky-ways-center/)
+- [Ask HN: Should HN users be incentivized to use/visit newest submissions?](https://news.ycombinator.com/item?id=30159462)
+- [The Problem with C](https://cor3ntin.github.io/posts/c/)
+- [Fourth journalist killed in Mexico this year](https://www.axios.com/fourth-journalist-killed-mexico-january-2022-f71e872d-ddee-452e-9ed4-e7ba5c13a86e.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
