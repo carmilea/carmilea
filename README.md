@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Replace the X with a 5 in arXiv.org to display a paper in HTML](https://news.ycombinator.com/item?id=30163308)
-- [Gaming the Smiling Curve](https://stratechery.com/2022/gaming-the-smiling-curve/)
-- [Memberships Work: What I learned during the third year of my membership program](https://craigmod.com/essays/memberships_work/)
-- [Ask HN: How to send SMS cheaper than Twilio?](https://news.ycombinator.com/item?id=30162963)
-- [Ask HN: Who Wants to Collaborate?](https://news.ycombinator.com/item?id=30162767)
+- [Tesla to recall nearly 54,000 vehicles that may disobey stop signs](https://www.reuters.com/business/autos-transportation/tesla-recalls-nearly-54000-us-vehicles-rolling-stop-software-feature-2022-02-01/)
+- [Ask HN: Who is hiring? &lpar;February 2022&rpar;](https://news.ycombinator.com/item?id=30164271)
+- [Ask HN: Who wants to be hired? &lpar;February 2022&rpar;](https://news.ycombinator.com/item?id=30164269)
+- [MariaDB to go public at $672M valuation](https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/)
+- [Tesla Issues Second Recall Connected to FSD. Now It Has to Do with Rolling Stops](https://www.autoevolution.com/news/tesla-issues-second-recall-connected-to-fsd-now-it-has-to-do-with-stop-signs-180495.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
