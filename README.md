@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [America’s Covid job-saving programme gave most of its cash to the rich](https://www.economist.com/graphic-detail/2022/01/31/americas-covid-job-saving-programme-gave-most-of-its-cash-to-the-rich)
+- [A DNS resolver in 80 lines of Go](https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/)
 - [Alphabet Announces Fourth Quarter and Fiscal Year 2021 Results](https://abc.xyz/investor/static/pdf/2021Q4_alphabet_earnings_release.pdf?cache=d72fc76)
+- [C2rust: Transpile C to Rust](https://c2rust.com/)
 - [Fetch &lpar;YC S15&rpar; Is Hiring](https://www.ycombinator.com/companies/fetch/jobs/aTjJR0S-head-of-growth)
-- [Mozilla is bringing popular privacy features to its desktop and mobile VPN](https://blog.mozilla.org/en/products/mozilla-vpn/multi-account-containers-add-on-on-mozilla-vpn/)
-- [Google Maps now requires WiFi scanning to use navigation](https://news.ycombinator.com/item?id=30167865)
-- [Furiosa&#39;s Cat Feeder &lpar;2016&rpar;](https://blondihacks.com/furiosas-cat-feeder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
