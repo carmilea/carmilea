@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior React Engineer](https://www.themuse.com/jobs/themuse/senior-react-engineer)
 - [Austrian DPA Ruling Against Google Paves the Way to EU-Based Cloud Services](https://www.infoq.com/news/2022/01/austrian-privacy-gdpr-google/)
-- [Ask HN: What do you do to jump start your brain in the morning?](https://news.ycombinator.com/item?id=30160348)
 - [Ask HN: How do you explain the sloppiness of modern software?](https://news.ycombinator.com/item?id=30160282)
 - [Installing Every Arch Package](https://ta180m.exozy.me/posts/installing-every-arch-package/)
 - [How to Explain an Idea](https://www.markpollard.net/how-to-explain-an-idea/)
