@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Red Light Green Light](https://jamessevedge.com/articles/red-light-green-light/)
-- [Pay Attention to WebAssembly](https://harshal.sheth.io/2022/01/31/webassembly.html)
-- [The GNU Name System](https://lsd.gnunet.org/lsd0001/)
-- [The New York Times buys Wordle](https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html)
-- [Smarking &lpar;YC W15&rpar; Is Hiring Head of Eng to digitize $655B parking industry](https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567)
+- [Show HN: Colab-xterm – Open a terminal in colab, including the free tier](https://github.com/InfuseAI/colab-xterm)
+- [Building a Cross-Platform Web and Mobile App from the Ground Up](https://ambrook.com/blog/building-a-cross-platform-web-and-mobile-app-from-the-ground-up)
+- [Man found guilty of ‘grossly offensive’ tweet](https://news.stv.tv/west-central/man-found-guilty-of-grossly-offensive-captain-tom-tweet)
+- [Bottles – Run Windows software and games on Linux](https://github.com/bottlesdevs/Bottles)
+- [A short introduction to the undeciphered Aegean writing systems](https://itsallgreektoanna.wordpress.com/2019/01/29/a-very-short-introduction-to-the-undeciphered-aegean-writing-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
