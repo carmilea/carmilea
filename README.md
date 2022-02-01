@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Economics of Data Businesses](https://pivotal.substack.com/p/economics-of-data-biz)
-- [The Death of Wordle](https://reeshill.net/posts/death-of-wordle/)
-- [Crisis Text Line, from my perspective](http://www.zephoria.org/thoughts/archives/2022/01/31/crisis-text-line-from-my-perspective.html)
-- [The Sixth Mass Extinction: fact, fiction or speculation?](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12816)
-- [The Wondrous Wordplay of Lunar New Year Food](https://www.atlasobscura.com/articles/lunar-new-year-food)
+- [Free Wordle](https://wordle.nyc/)
+- [You can now send replies from your Duck Addresses](https://duckduckgo.com/email/faq)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=30158223)
+- [Why does my diet soda taste off? Aspartame hydrolysis](https://foodscienceinstitute.com/2022/01/31/why-does-my-diet-soda-taste-off/)
+- [Koenigsegg&#39;s Tiny Electric Motor Makes 335 HP and 443 LB-FT of Torque](https://www.roadandtrack.com/news/a38940998/koenigsegg-quark-electric-motor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
