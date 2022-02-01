@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Solana Pay](https://solana.com/news/solana-pay-announcement)
-- [Tell HN: Unable to login to HN from Firefox, a lovecraftian tale](https://andregarzia.com/2022/02/unable-to-login-to-hn-from-firefox-a-lovecraftian-tale.html)
+- [Critical Samba flaw presents code execution threat](https://portswigger.net/daily-swig/critical-samba-flaw-presents-code-execution-threat)
+- [German gov plans software company&#39;s liability for damages caused by vulns](https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnancy-faeser-bundesregierung-plant-hersteller-haftung-fuer-software-maengel-2202-162832.html)
+- [The McNamara fallacy: Measurement is not understanding](http://mcnamarafallacy.com/)
+- [Tell HN: Unable to login to HN from Firefox, a Lovecraftian tale](https://andregarzia.com/2022/02/unable-to-login-to-hn-from-firefox-a-lovecraftian-tale.html)
 - [How a PhD astrophysicist thinks about data](https://hex.tech/blog/friends-of-data/melodie-kao-1/)
-- [Python Tools for the Semantic Web, an Overview](https://github.com/pysemtec/semantic-python-overview)
-- [Show HN: A new paradigm for cloud access management](https://demo.symops.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
