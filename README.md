@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Explain an Idea](https://www.markpollard.net/how-to-explain-an-idea/)
+- [468 Capital raises $400M to back European startups](https://www.axios.com/468-capital-raises-400-million-to-back-european-startups-56cac497-e2c7-499a-a595-268bfe7699e3.html)
 - [I wrote a script to automatically fix 100s of Grammarly corrections](https://github.com/isneuu/autofix-grammarly-errors/blob/main/readme.md)
-- [Nearly 1k mysterious strands revealed in Milky Way’s center](https://news.northwestern.edu/stories/2022/01/nearly-1000-mysterious-strands-revealed-in-milky-ways-center/)
-- [Ask HN: Should HN users be incentivized to use/visit newest submissions?](https://news.ycombinator.com/item?id=30159462)
-- [The Problem with C](https://cor3ntin.github.io/posts/c/)
-- [Fourth journalist killed in Mexico this year](https://www.axios.com/fourth-journalist-killed-mexico-january-2022-f71e872d-ddee-452e-9ed4-e7ba5c13a86e.html)
+- [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/)
+- [Vectorscan – portable fork of hyperscan – high-performance regex matching lib](https://github.com/VectorCamp/vectorscan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
