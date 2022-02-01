@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Alphabet Announces Fourth Quarter and Fiscal Year 2021 Results](https://abc.xyz/investor/static/pdf/2021Q4_alphabet_earnings_release.pdf?cache=d72fc76)
+- [Fetch &lpar;YC S15&rpar; Is Hiring](https://www.ycombinator.com/companies/fetch/jobs/aTjJR0S-head-of-growth)
 - [Mozilla is bringing popular privacy features to its desktop and mobile VPN](https://blog.mozilla.org/en/products/mozilla-vpn/multi-account-containers-add-on-on-mozilla-vpn/)
-- [Furiosa&#39;s Cat Feeder](https://blondihacks.com/furiosas-cat-feeder/)
-- [WebVM: Server-less x86 virtual machines in the browser](https://leaningtech.com/webvm-server-less-x86-virtual-machines-in-the-browser/)
-- [Israel Rolls Out Laser Defense System](https://www.reuters.com/world/middle-east/israel-speeds-roll-out-laser-based-defence-systems-bennett-says-2022-02-01/)
-- [Critical Samba flaw presents code execution threat](https://portswigger.net/daily-swig/critical-samba-flaw-presents-code-execution-threat)
+- [Google Maps now requires WiFi scanning to use navigation](https://news.ycombinator.com/item?id=30167865)
+- [Furiosa&#39;s Cat Feeder &lpar;2016&rpar;](https://blondihacks.com/furiosas-cat-feeder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
