@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Transistor for Sound Points Toward Whole New Electronics](https://spectrum.ieee.org/topological-transistor-acoustic)
+- [My Out-of-Body Experience](https://nautil.us/my-out_of_body-experience-13509/)
 - [You can now send replies from your Duck Addresses](https://duckduckgo.com/email/faq)
 - [How to Mislead with Facts](https://consilienceproject.org/how-to-mislead-with-facts/)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers &lpar;Remote, SF&rpar;](https://news.ycombinator.com/item?id=30158223)
-- [Why does my diet soda taste off? Aspartame hydrolysis](https://foodscienceinstitute.com/2022/01/31/why-does-my-diet-soda-taste-off/)
-- [Koenigsegg&#39;s Tiny Electric Motor Makes 335 HP and 443 LB-FT of Torque](https://www.roadandtrack.com/news/a38940998/koenigsegg-quark-electric-motor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
