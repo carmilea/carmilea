@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [BlackBerry sells mobile patents to patent troll for $600M](https://appleinsider.com/articles/22/01/31/blackberry-sells-mobile-patents-to-patent-troll-for-600m)
-- [Europe Is Losing Nuclear Power Just When It Needs Energy](https://www.bloomberg.com/news/features/2022-01-31/europe-s-nuclear-power-plants-are-disappearing-just-as-energy-crisis-hits-hard)
-- [Bluetooth is named after King Harald Bluetooth who had a dead tooth](https://www.bluetooth.com/about-us/bluetooth-origin/)
-- [Improving MIT’s written commitment to freedom of expression](https://freespeech.mit.edu/improving-mit%E2%80%99s-written-commitment-freedom-expression)
-- [Fetch API has landed into Node.js](https://github.com/nodejs/node/commit/6ec225392675c92b102d3caad02ee3a157c9d1b7)
+- [Tell HN: Replace the X with a 5 in arXiv.org to display a paper in HTML](https://news.ycombinator.com/item?id=30163308)
+- [Gaming the Smiling Curve](https://stratechery.com/2022/gaming-the-smiling-curve/)
+- [Memberships Work: What I learned during the third year of my membership program](https://craigmod.com/essays/memberships_work/)
+- [Ask HN: How to send SMS cheaper than Twilio?](https://news.ycombinator.com/item?id=30162963)
+- [Ask HN: Who Wants to Collaborate?](https://news.ycombinator.com/item?id=30162767)
 <!-- BLOG-POST-LIST:END -->
 
 ---
