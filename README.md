@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Competitive Programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
+- [Failing to Reach 204 GB/S DDR4 Bandwidth](https://unum.cloud/post/2022-01-29-ddr4/)
+- [Why and How I Got My Own ASN](https://chown.me/blog/getting-my-own-asn)
+- [Show HN: Just Launched an App for Dads](https://news.ycombinator.com/item?id=30178571)
 - [Heroku Is Down](https://status.heroku.com/)
-- [Run Your Home on a Raspberry Pi](https://pragprog.com/titles/mrpython/portable-python-projects/)
-- [YouTube: Due to limited creator history we&#39;re limiting the number of views](https://reddit.com/r/assholedesign/comments/sim12o/well_fuck/)
-- [Adding custom RISC-V instructions to an open-source rv32 SoC](https://github.com/stnolting/neorv32/pull/264)
-- [A year on, GameStop champion Roaring Kitty is quiet – yet much richer](https://www.reuters.com/technology/year-gamestop-champion-roaring-kitty-is-quiet-yet-much-richer-2022-02-02/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
