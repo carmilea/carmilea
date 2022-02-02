@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London &lpar;£100k-£150k&rpar;](https://news.ycombinator.com/item?id=30180269)
-- [A Matter of Time: Evolving Clock Sync for Distributed Databases](https://blog.yugabyte.com/evolving-clock-sync-for-distributed-databases/)
-- [Tesla drivers report a surge in ‘phantom braking’](https://www.washingtonpost.com/technology/2022/02/02/tesla-phantom-braking/)
-- [CGI did, in fact, ruin movies](https://erikhoel.substack.com/p/cgi-did-in-fact-ruin-movies)
-- [Senate introduces bill to allow farmers to fix their own equipment](https://www.nbcnews.com/tech/new-senate-bill-farm-equipment-right-to-repair-rcna13961)
+- [Settings are not a design failure](https://linear.app/blog/settings-are-not-a-design-failure)
+- [New lightweight material is stronger than steel](https://news.mit.edu/2022/polymer-lightweight-material-2d-0202)
+- [North Korea Hacked Him. So He Took Down Its Internet](https://www.wired.com/story/north-korea-hacker-internet-outage/)
+- [Show HN: Federalist and Bob – uncensorable website with webtorrent and Handshake](https://news.ycombinator.com/item?id=30180399)
+- [Write It in Garamond](https://www.nytimes.com/2022/02/01/magazine/garamond.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
