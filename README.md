@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bristle &lpar;YC W21&rpar; Is Hiring a Front-end Engineer to improve oral health care](https://bristle.notion.site/Front-end-Full-stack-engineer-c12108aeabbc4875afd8c1983e8f9407)
 - [Rustenstein 3D: Game programming like it&#39;s 1992](https://tech.nextroll.com/blog/dev/2022/02/02/rustenstein.html)
 - [New material that can absorb and release enormous amounts of energy](https://phys.org/news/2022-02-scientists-material-absorb-enormous-amounts.html)
 - [Normalized crash data shows Autopilot is much less safe than Tesla claims](https://twitter.com/Tweetermeyer/status/1488673180403191808)
-- [Launch HN: Sieve &lpar;YC W22&rpar; – Pluggable APIs for Video Search](https://sievedata.com/)
-- [Solving some formal math olympiad problems](https://openai.com/blog/formal-math/)
+- [Why isn&#39;t there a replication crisis in math?](https://jaydaigle.net/blog/replication-crisis-math/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
