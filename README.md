@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Wordle, the NYT, and Antitrust](https://semiotech.substack.com/p/wordle)
+- [SoundPrint: Telling those of us with auditory sensitivities where not to go](https://accessible.substack.com/p/soundprint-telling-those-of-us-with)
+- [Starlink Premium](https://www.starlink.com/premium)
+- [Analysis of Magic Leap 2 at SPIE AR/VR/Mr 2022](https://kguttag.com/2022/01/31/magic-leap-2-at-spie-ar-vr-mr-2022/)
 - [America’s Covid job-saving programme gave most of its cash to the rich](https://www.economist.com/graphic-detail/2022/01/31/americas-covid-job-saving-programme-gave-most-of-its-cash-to-the-rich)
 - [Twitter stores original account names, dox vulnerability via Twitter Spaces](https://twitter.com/tszzl/status/1488466979799265281)
-- [A DNS resolver in 80 lines of Go](https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/)
-- [Alphabet Announces Fourth Quarter and Fiscal Year 2021 Results](https://abc.xyz/investor/static/pdf/2021Q4_alphabet_earnings_release.pdf?cache=d72fc76)
 <!-- BLOG-POST-LIST:END -->
 
 ---
