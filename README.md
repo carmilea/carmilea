@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [On Why I&#39;m Quitting Alcohol](https://annagat.substack.com/p/on-why-im-quitting-alcohol)
+- [The Complicated Futility of WordPress](https://coderjerk.com/the-complicated-futility-of-wordpress/)
 - [SoundPrint: Telling those of us with auditory sensitivities where not to go](https://accessible.substack.com/p/soundprint-telling-those-of-us-with)
 - [Starlink Premium](https://www.starlink.com/premium)
-- [Analysis of Magic Leap 2 at SPIE AR/VR/Mr 2022](https://kguttag.com/2022/01/31/magic-leap-2-at-spie-ar-vr-mr-2022/)
-- [America’s Covid job-saving programme gave most of its cash to the rich](https://www.economist.com/graphic-detail/2022/01/31/americas-covid-job-saving-programme-gave-most-of-its-cash-to-the-rich)
-- [Twitter stores original account names, dox vulnerability via Twitter Spaces](https://twitter.com/tszzl/status/1488466979799265281)
+- [Google to turn on activity tracking for many users who turned it off](https://news.ycombinator.com/item?id=30171800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
