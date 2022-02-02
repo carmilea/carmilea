@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [MagicBell &lpar;YC W21&rpar; Is Hiring a Founding Ruby on Rails Engineer [Remote]](https://www.magicbell.com/careers/Founding-Backend-Engineer-Async-Remote)
+- [LibreOffice 7.3](https://blog.documentfoundation.org/blog/2022/02/02/libreoffice-73-community/)
+- [Show HN: A daily math puzzle inspired by wordle](https://www.mathler.com/)
+- [Show HN: What do you think of my new social app?](https://news.ycombinator.com/item?id=30175863)
 - [Retrospective and Technical Details on the Recent Firefox Outage](https://hacks.mozilla.org/2022/02/retrospective-and-technical-details-on-the-recent-firefox-outage/)
-- [AdaCore and Ferrous Systems Joining Forces to Support Rust](https://blog.adacore.com/adacore-and-ferrous-systems-joining-forces-to-support-rust)
-- [Singapore prime minister Lee Hsien Loong&#39;s Sudoku Solver code runs in 1ms](https://leetcode.com/problems/sudoku-solver/discuss/15796/Singapore-prime-minister-Lee-Hsien-Loong%27s-Sudoku-Solver-code-runs-in-1ms)
-- [A Wordle clone in 50 lines of Bash](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513)
-- [An introduction to type programming in TypeScript](https://www.zhenghao.io/posts/type-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
