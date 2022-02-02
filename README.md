@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Why I&#39;m Quitting Alcohol](https://annagat.substack.com/p/on-why-im-quitting-alcohol)
-- [The Complicated Futility of WordPress](https://coderjerk.com/the-complicated-futility-of-wordpress/)
+- [mmWave radar, you won&#39;t see it coming](https://www.joshhorne.com/mmwave-radar-and-ambient-computing/)
+- [Running Lisp in Production – Grammarly Engineering Blog](https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
+- [The complicated futility of WordPress](https://coderjerk.com/the-complicated-futility-of-wordpress/)
 - [SoundPrint: Telling those of us with auditory sensitivities where not to go](https://accessible.substack.com/p/soundprint-telling-those-of-us-with)
 - [Starlink Premium](https://www.starlink.com/premium)
-- [Google to turn on activity tracking for many users who turned it off](https://news.ycombinator.com/item?id=30171800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
