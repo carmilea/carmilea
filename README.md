@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Postman Now Supports gRPC](https://blog.postman.com/postman-now-supports-grpc/)
-- [GDPR enforcer rules that IAB Europe’s consent popups are unlawful](https://www.iccl.ie/news/gdpr-enforcer-rules-that-iab-europes-consent-popups-are-unlawful/)
-- [Tesla admits its sales figures where wrong](https://www.drive.com.au/news/tesla-australia-admits-it-sales-figures-were-wrong/)
-- [MagicBell &lpar;YC W21&rpar; Is Hiring a Founding Ruby on Rails Engineer [Remote]](https://www.magicbell.com/careers/Founding-Backend-Engineer-Async-Remote)
-- [LibreOffice 7.3](https://blog.documentfoundation.org/blog/2022/02/02/libreoffice-73-community/)
+- [Run Your Home on a Raspberry Pi](https://pragprog.com/titles/mrpython/portable-python-projects/)
+- [YouTube limiting the amount of views small Channel can get](https://old.reddit.com/r/assholedesign/comments/sim12o/well_fuck/)
+- [YouTube’s new censorship tactic is to limit streams that are too popular](https://reclaimthenet.org/youtube-capping-viewer-limits/)
+- [Adding custom RISC-V instructions to an open-source rv32 SoC](https://github.com/stnolting/neorv32/pull/264)
+- [Rotterdam bridge to be dismantled for Bezos&#39; 127m sailing yacht](https://www.boatinternational.com/yachts/news/jeff-bezos-oceanco-sailing-yacht)
 <!-- BLOG-POST-LIST:END -->
 
 ---
