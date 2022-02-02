@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [An introduction to type programming in TypeScript – zhenghao](https://www.zhenghao.io/posts/type-programming)
+- [OCaml Labs Joins Tarides](https://tarides.com/blog/2022-01-27-ocaml-labs-joins-tarides/)
 - [mmWave radar, you won&#39;t see it coming](https://www.joshhorne.com/mmwave-radar-and-ambient-computing/)
 - [Running Lisp in Production – Grammarly Engineering Blog](https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
 - [The complicated futility of WordPress](https://coderjerk.com/the-complicated-futility-of-wordpress/)
-- [SoundPrint: Telling those of us with auditory sensitivities where not to go](https://accessible.substack.com/p/soundprint-telling-those-of-us-with)
-- [Starlink Premium](https://www.starlink.com/premium)
 <!-- BLOG-POST-LIST:END -->
 
 ---
