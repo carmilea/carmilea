@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: GitHub is Down](https://news.ycombinator.com/item?id=30182369)
+- [Rustenstein 3D: Game programming like it&#39;s 1992](https://tech.nextroll.com/blog/dev/2022/02/02/rustenstein.html)
 - [New material that can absorb and release enormous amounts of energy](https://phys.org/news/2022-02-scientists-material-absorb-enormous-amounts.html)
+- [Normalized crash data shows Autopilot is much less safe than Tesla claims](https://twitter.com/Tweetermeyer/status/1488673180403191808)
 - [Launch HN: Sieve &lpar;YC W22&rpar; – Pluggable APIs for Video Search](https://sievedata.com/)
-- [Reading on smartphone affects sigh generation, brain activity, and comprehension](https://www.nature.com/articles/s41598-022-05605-0)
-- [Show HN: Grafana Incident, smart incident management for your teams](https://grafana.com/blog/2022/02/02/announcing-grafana-incident-smart-incident-management-for-your-teams/)
+- [Solving some formal math olympiad problems](https://openai.com/blog/formal-math/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
