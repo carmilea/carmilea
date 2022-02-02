@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Heroku Is Down](https://status.heroku.com/)
 - [Run Your Home on a Raspberry Pi](https://pragprog.com/titles/mrpython/portable-python-projects/)
-- [YouTube limiting the amount of views small Channel can get](https://old.reddit.com/r/assholedesign/comments/sim12o/well_fuck/)
-- [YouTube’s new censorship tactic is to limit streams that are too popular](https://reclaimthenet.org/youtube-capping-viewer-limits/)
+- [YouTube: Due to limited creator history we&#39;re limiting the number of views](https://reddit.com/r/assholedesign/comments/sim12o/well_fuck/)
 - [Adding custom RISC-V instructions to an open-source rv32 SoC](https://github.com/stnolting/neorv32/pull/264)
-- [Rotterdam bridge to be dismantled for Bezos&#39; 127m sailing yacht](https://www.boatinternational.com/yachts/news/jeff-bezos-oceanco-sailing-yacht)
+- [A year on, GameStop champion Roaring Kitty is quiet – yet much richer](https://www.reuters.com/technology/year-gamestop-champion-roaring-kitty-is-quiet-yet-much-richer-2022-02-02/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
