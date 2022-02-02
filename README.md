@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Wordle clone in 50 lines of Bash](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513)
 - [An introduction to type programming in TypeScript – zhenghao](https://www.zhenghao.io/posts/type-programming)
 - [OCaml Labs Joins Tarides](https://tarides.com/blog/2022-01-27-ocaml-labs-joins-tarides/)
 - [mmWave radar, you won&#39;t see it coming](https://www.joshhorne.com/mmwave-radar-and-ambient-computing/)
 - [Running Lisp in Production &lpar;2020&rpar;](https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
-- [The complicated futility of WordPress](https://coderjerk.com/the-complicated-futility-of-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
