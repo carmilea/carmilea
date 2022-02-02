@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Competitive Programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
-- [Failing to Reach 204 GB/S DDR4 Bandwidth](https://unum.cloud/post/2022-01-29-ddr4/)
-- [Why and How I Got My Own ASN](https://chown.me/blog/getting-my-own-asn)
-- [Show HN: Just Launched an App for Dads](https://news.ycombinator.com/item?id=30178571)
-- [Heroku Is Down](https://status.heroku.com/)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #2 Founding Engineer in London &lpar;£100k-£150k&rpar;](https://news.ycombinator.com/item?id=30180269)
+- [A Matter of Time: Evolving Clock Sync for Distributed Databases](https://blog.yugabyte.com/evolving-clock-sync-for-distributed-databases/)
+- [Tesla drivers report a surge in ‘phantom braking’](https://www.washingtonpost.com/technology/2022/02/02/tesla-phantom-braking/)
+- [CGI did, in fact, ruin movies](https://erikhoel.substack.com/p/cgi-did-in-fact-ruin-movies)
+- [Senate introduces bill to allow farmers to fix their own equipment](https://www.nbcnews.com/tech/new-senate-bill-farm-equipment-right-to-repair-rcna13961)
 <!-- BLOG-POST-LIST:END -->
 
 ---
