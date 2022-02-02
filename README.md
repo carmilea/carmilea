@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Settings are not a design failure](https://linear.app/blog/settings-are-not-a-design-failure)
-- [New lightweight material is stronger than steel](https://news.mit.edu/2022/polymer-lightweight-material-2d-0202)
-- [North Korea Hacked Him. So He Took Down Its Internet](https://www.wired.com/story/north-korea-hacker-internet-outage/)
-- [Show HN: Federalist and Bob – uncensorable website with webtorrent and Handshake](https://news.ycombinator.com/item?id=30180399)
-- [Write It in Garamond](https://www.nytimes.com/2022/02/01/magazine/garamond.html)
+- [Tell HN: GitHub is Down](https://news.ycombinator.com/item?id=30182369)
+- [New material that can absorb and release enormous amounts of energy](https://phys.org/news/2022-02-scientists-material-absorb-enormous-amounts.html)
+- [Launch HN: Sieve &lpar;YC W22&rpar; – Pluggable APIs for Video Search](https://sievedata.com/)
+- [Reading on smartphone affects sigh generation, brain activity, and comprehension](https://www.nature.com/articles/s41598-022-05605-0)
+- [Show HN: Grafana Incident, smart incident management for your teams](https://grafana.com/blog/2022/02/02/announcing-grafana-incident-smart-incident-management-for-your-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
