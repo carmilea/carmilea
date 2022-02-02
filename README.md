@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Reduced-Hours Software Development Engineer Position at Amazon](https://www.amazon.jobs/en/jobs/1896107/reduced-hours-software-development-engineer)
-- [Final Fantasy VI – Ted Woolsey Uncensored Edition](https://www.romhacking.net/hacks/1386/)
-- [Bristle &lpar;YC W21&rpar; is hiring a front-end engineer to improve oral health care](https://bristle.notion.site/Front-end-Full-stack-engineer-c12108aeabbc4875afd8c1983e8f9407)
-- [SingleStore Joins Bytecode Alliance](https://www.singlestore.com/blog/singlestore-joins-bytecode-alliance)
-- [Rustenstein 3D: Game programming like it&#39;s 1992](https://tech.nextroll.com/blog/dev/2022/02/02/rustenstein.html)
+- [Cocktail Party Ideas](https://danluu.com/cocktail-ideas/)
+- [Facebook Parent Meta Platforms Shares Tank 20% on Q4 Earnings Miss](https://www.nasdaq.com/articles/facebook-parent-meta-platforms-shares-tank-20-on-q4-earnings-miss-weak-outlook)
+- [How Much Money Is Flowing into Crypto?](https://tomtunguz.com/how-much-money-flowing-into-crypto/)
+- [There Are Too Many Video Games](https://bottomfeeder.substack.com/p/there-are-too-many-video-games)
+- [Bluntly Stated: The Impacts of Lack of Sleep](https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
