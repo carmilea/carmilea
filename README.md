@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Postman Now Supports gRPC](https://blog.postman.com/postman-now-supports-grpc/)
+- [GDPR enforcer rules that IAB Europe’s consent popups are unlawful](https://www.iccl.ie/news/gdpr-enforcer-rules-that-iab-europes-consent-popups-are-unlawful/)
+- [Tesla admits its sales figures where wrong](https://www.drive.com.au/news/tesla-australia-admits-it-sales-figures-were-wrong/)
 - [MagicBell &lpar;YC W21&rpar; Is Hiring a Founding Ruby on Rails Engineer [Remote]](https://www.magicbell.com/careers/Founding-Backend-Engineer-Async-Remote)
 - [LibreOffice 7.3](https://blog.documentfoundation.org/blog/2022/02/02/libreoffice-73-community/)
-- [Show HN: A daily math puzzle inspired by wordle](https://www.mathler.com/)
-- [Show HN: What do you think of my new social app?](https://news.ycombinator.com/item?id=30175863)
-- [Retrospective and Technical Details on the Recent Firefox Outage](https://hacks.mozilla.org/2022/02/retrospective-and-technical-details-on-the-recent-firefox-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
