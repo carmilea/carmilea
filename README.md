@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AdaCore and Ferrous Systems Joining Forces to Support Rust](https://blog.adacore.com/adacore-and-ferrous-systems-joining-forces-to-support-rust)
+- [Singapore prime minister Lee Hsien Loong&#39;s Sudoku Solver code runs in 1ms](https://leetcode.com/problems/sudoku-solver/discuss/15796/Singapore-prime-minister-Lee-Hsien-Loong%27s-Sudoku-Solver-code-runs-in-1ms)
 - [A Wordle clone in 50 lines of Bash](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513)
 - [An introduction to type programming in TypeScript](https://www.zhenghao.io/posts/type-programming)
 - [mmWave radar, you won&#39;t see it coming](https://www.joshhorne.com/mmwave-radar-and-ambient-computing/)
-- [Running Lisp in Production &lpar;2020&rpar;](https://www.grammarly.com/blog/engineering/running-lisp-in-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
