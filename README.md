@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Try Turris Omnia, the open source router](https://opensource.com/article/22/1/turris-omnia-open-source-router)
 - [Optimizing GoAWK with a bytecode compiler and virtual machine](https://benhoyt.com/writings/goawk-compiler-vm/)
 - [Facebook says Apple iOS privacy change will result in $10B revenue hit this year](https://www.cnbc.com/2022/02/02/facebook-says-apple-ios-privacy-change-will-cost-10-billion-this-year.html)
 - [Squabble.me – Multiplayer Wordle Royale](https://squabble.me/)
 - [Mississippi is 37th state to legalize medical marijuana](https://www.npr.org/2022/02/02/1077784525/mississippi-becomes-the-37th-state-to-legalize-medical-marijuana)
-- [Iowa man convicted of lottery rigging scheme granted parole](https://www.pahomepage.com/news/national/iowa-man-convicted-of-lottery-rigging-scheme-granted-parole/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
