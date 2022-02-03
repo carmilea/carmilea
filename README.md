@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Brave doesn&#39;t want you to use a VPN. Doing so may label you &quot;suspect&quot;](https://support.brave.com/hc/en-us/articles/360055013431-Why-don-t-I-see-any-Brave-Ads-after-enabling-them-)
 - [Mississippi is 37th state to legalize medical marijuana](https://www.npr.org/2022/02/02/1077784525/mississippi-becomes-the-37th-state-to-legalize-medical-marijuana)
 - [Iowa man convicted of lottery rigging scheme granted parole](https://www.pahomepage.com/news/national/iowa-man-convicted-of-lottery-rigging-scheme-granted-parole/)
 - [Rebelle: Experimental online paint software](https://www.escapemotions.com/products/rebelle/try/)
 - [Flexport is hiring engineers to uncork global supply chains](https://Flexport.com/careers)
-- [In second largest DeFi hack, Blockchain Bridge loses $320M Ether](https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
