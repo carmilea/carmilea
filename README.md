@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Launch HN: Ploomber &lpar;YC W22&rpar; – Quickly deploy data pipelines from Jupyter/VSCode](https://github.com/ploomber/ploomber)
+- [App store bill sails out of Senate Judiciary Committee](https://www.axios.com/app-store-bill-sails-out-of-senate-judiciary-committee-c49c22bf-c9ae-41f4-b23e-55a3ce8caace.html)
 - [Bittersweet Symfony: Devs accidentally turn off CSRF protection in PHP framework](https://portswigger.net/daily-swig/bittersweet-symfony-devs-accidentally-turn-off-csrf-protection-in-php-framework)
-- [Dover &lpar;YC S19&rpar; just raised $20m and is hiring engineers at all levels](https://www.dover.com/open-roles/software-engineer)
+- [Dover &lpar;YC S19&rpar; is hiring engineers at all levels](https://www.dover.com/open-roles/software-engineer)
 - [Igalia announces Wolvic, a new browser project](https://www.igalia.com/2022/02/03/Introducing-Wolvic.html)
-- [Star Citizen will limit its roadmap, as players are getting upset over delays](https://www.eurogamer.net/articles/2022-02-03-star-citizen-slimming-down-roadmap-to-stop-having-to-update-roadmap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
