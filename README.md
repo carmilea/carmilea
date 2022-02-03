@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Flexport Is Hiring Engineers to Uncork Global Supply Chains](https://Flexport.com/careers)
-- [The Sumerian Game](https://en.wikipedia.org/wiki/The_Sumerian_Game)
+- [In Second Largest DeFi Hack Ever, Blockchain Bridge Loses $320M Ether](https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/)
+- [Starlink adds another 100Gbps connection to the SeattleIX](https://www.seattleix.net/participant-updates)
+- [The Sumerian Game](https://www.acriticalhit.com/sumerian-game-most-important-video-game-youve-never-heard/)
 - [Facebook loses users globally for the first time](https://www.washingtonpost.com/technology/2022/02/02/facebook-earnings-meta/)
-- [Show HN: Find alternatives to almost any popular GitHub repo](https://news.ycombinator.com/item?id=30185599)
-- [Cocktail party ideas](https://danluu.com/cocktail-ideas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
