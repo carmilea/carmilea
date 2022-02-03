@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon.com Announces Fourth Quarter Results [pdf]](https://s2.q4cdn.com/299287126/files/doc_financials/2021/q4/business_and_financial_update.pdf)
 - [Openbase &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/openbase/jobs/G21nU8U-community-manager)
+- [Dip Switch USB Stick](https://twitter.com/bikerglen/status/1482516332432162820)
 - [The Karikó problem: Lessons for funding basic research](https://www.statnews.com/2022/02/01/kariko-problem-lessons-funding-basic-research/)
 - [How we broke the supply chain](https://prospect.org/economy/how-we-broke-the-supply-chain-intro/)
-- [The 4-day week is flawed – workers still want it](https://www.wired.com/story/four-day-week-burnout/)
+- [I hacked SONOS and YouTube the same day](https://www.deadf00d.com/post/how-i-hacked-sonos-and-youtube-the-same-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
