@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cocktail Party Ideas](https://danluu.com/cocktail-ideas/)
-- [Facebook Parent Meta Platforms Shares Tank 20% on Q4 Earnings Miss](https://www.nasdaq.com/articles/facebook-parent-meta-platforms-shares-tank-20-on-q4-earnings-miss-weak-outlook)
-- [How Much Money Is Flowing into Crypto?](https://tomtunguz.com/how-much-money-flowing-into-crypto/)
-- [There Are Too Many Video Games](https://bottomfeeder.substack.com/p/there-are-too-many-video-games)
-- [Bluntly Stated: The Impacts of Lack of Sleep](https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html)
+- [Flexport Is Hiring Engineers to Uncork Global Supply Chains](https://Flexport.com/careers)
+- [The Sumerian Game](https://en.wikipedia.org/wiki/The_Sumerian_Game)
+- [Facebook loses users globally for the first time](https://www.washingtonpost.com/technology/2022/02/02/facebook-earnings-meta/)
+- [Show HN: Find alternatives to almost any popular GitHub repo](https://news.ycombinator.com/item?id=30185599)
+- [Cocktail party ideas](https://danluu.com/cocktail-ideas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
