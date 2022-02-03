@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: How do carriers throttle streaming to 480p resolution?](https://news.ycombinator.com/item?id=30192820)
-- [iPhone flaw exploited by second Israeli spy firm](https://www.reuters.com/technology/exclusive-iphone-flaw-exploited-by-second-israeli-spy-firm-sources-2022-02-03/)
-- [I took down Starlink &lpar;but I haven&#39;t cancelled&rpar;](https://www.jeffgeerling.com/blog/2022/i-took-down-starlink-i-havent-cancelled)
-- [Show HN: Veganize any recipe site with EatKind Chrome extension](https://chrome.google.com/webstore/detail/eatkind-for-chrome/ngojbbddpmckcgficlhojjcabamifdmi)
-- [Why Not Having a CS Degree Is Awesome &lpar;2019&rpar;](https://caitlyngreffly.com/why-no-cs-degree-is-awesome/)
+- [Show HN: I made a little digital circuit simulator that operates on PNGs](https://github.com/lynnpepin/reso)
+- [Ask HN: General Mood of the Community](https://news.ycombinator.com/item?id=30193946)
+- [Building a Modern Home in the woods](https://johnnyrodgers.is/building-a-modern-home)
+- [Electricity Prices Are a Lie](https://climateer.substack.com/p/price-lies)
+- [Why semi-trucks in US and Europe are so different?](https://nodum.org/why-semi-trucks-in-us-and-europe-are-so-different/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
