@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Design and Prototypical Implementation of an IRC Chat Server in Erlang OTP](https://www.linuxjournal.com/content/design-and-prototypical-implementation-irc-chat-server-erlang-otp)
-- [Yes, I can connect to a DB in CSS](https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html)
-- [Why it could be years until we see a normal housing market](https://awealthofcommonsense.com/2022/02/why-it-could-take-years-until-we-see-a-normal-housing-market/)
-- [Top Chess Engine Championship](https://tcec-chess.com/)
-- [A home made PCB stepper motor](https://kevinlynagh.com/pcb-stepper/)
+- [Show HN: Veganize any recipe site with EatKind Chrome extension](https://chrome.google.com/webstore/detail/eatkind-for-chrome/ngojbbddpmckcgficlhojjcabamifdmi)
+- [Signal asks for monthly contributions starting a 5 USD](https://support.signal.org/hc/en-us/articles/4408365318426-Sustainers-Boost-Badges#sustainer_what)
+- [Playing with Matplotlib style sheets](https://www.data21.io/blog/lazy-mans-way-to-good-looking-charts/)
+- [SnapFuzz: New fuzzing tool speeds up testing of network applications](https://portswigger.net/daily-swig/snapfuzz-new-fuzzing-tool-speeds-up-testing-of-network-applications)
+- [My Rocket Experiments](https://saatsazov.com/#/blog/rocket-motor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
