@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What do you do and what&#39;s your consulting rate?](https://news.ycombinator.com/item?id=30188101)
-- [Iowa man convicted of defrauding lottery with predictive code granted parole](https://www.pahomepage.com/news/national/iowa-man-convicted-of-lottery-rigging-scheme-granted-parole/)
-- [Flexport Is Hiring Engineers to Uncork Global Supply Chains](https://Flexport.com/careers)
-- [In Second Largest DeFi Hack Ever, Blockchain Bridge Loses $320M Ether](https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/)
+- [Iowa man convicted of lottery rigging scheme granted parole](https://www.pahomepage.com/news/national/iowa-man-convicted-of-lottery-rigging-scheme-granted-parole/)
+- [Rebelle: Experimental online paint software](https://www.escapemotions.com/products/rebelle/try/)
+- [Flexport is hiring engineers to uncork global supply chains](https://Flexport.com/careers)
+- [In second largest DeFi hack, Blockchain Bridge loses $320M Ether](https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/)
 - [Starlink adds another 100Gbps connection to the SeattleIX](https://www.seattleix.net/participant-updates)
 <!-- BLOG-POST-LIST:END -->
 
