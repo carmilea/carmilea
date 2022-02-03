@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Iowa man convicted of defrauding lottery with predictive code granted parole](https://www.pahomepage.com/news/national/iowa-man-convicted-of-lottery-rigging-scheme-granted-parole/)
 - [Flexport Is Hiring Engineers to Uncork Global Supply Chains](https://Flexport.com/careers)
 - [In Second Largest DeFi Hack Ever, Blockchain Bridge Loses $320M Ether](https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/)
 - [Starlink adds another 100Gbps connection to the SeattleIX](https://www.seattleix.net/participant-updates)
 - [The Sumerian Game](https://www.acriticalhit.com/sumerian-game-most-important-video-game-youve-never-heard/)
-- [Facebook loses users globally for the first time](https://www.washingtonpost.com/technology/2022/02/02/facebook-earnings-meta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
