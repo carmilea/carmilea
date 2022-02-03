@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do carriers throttle streaming to 480p resolution?](https://news.ycombinator.com/item?id=30192820)
+- [iPhone flaw exploited by second Israeli spy firm](https://www.reuters.com/technology/exclusive-iphone-flaw-exploited-by-second-israeli-spy-firm-sources-2022-02-03/)
+- [I took down Starlink &lpar;but I haven&#39;t cancelled&rpar;](https://www.jeffgeerling.com/blog/2022/i-took-down-starlink-i-havent-cancelled)
 - [Show HN: Veganize any recipe site with EatKind Chrome extension](https://chrome.google.com/webstore/detail/eatkind-for-chrome/ngojbbddpmckcgficlhojjcabamifdmi)
-- [Signal asks for monthly contributions starting a 5 USD](https://support.signal.org/hc/en-us/articles/4408365318426-Sustainers-Boost-Badges#sustainer_what)
-- [Playing with Matplotlib style sheets](https://www.data21.io/blog/lazy-mans-way-to-good-looking-charts/)
-- [SnapFuzz: New fuzzing tool speeds up testing of network applications](https://portswigger.net/daily-swig/snapfuzz-new-fuzzing-tool-speeds-up-testing-of-network-applications)
-- [My Rocket Experiments](https://saatsazov.com/#/blog/rocket-motor)
+- [Why Not Having a CS Degree Is Awesome &lpar;2019&rpar;](https://caitlyngreffly.com/why-no-cs-degree-is-awesome/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
