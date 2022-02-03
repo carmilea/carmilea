@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Systemd by example – Part 1: Minimization](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
-- [Silenced AirTags with disabled speakers are popping up for sale online](https://gizmodo.com/silenced-airtags-with-disabled-speakers-for-sale-online-1848473673)
-- [Wormhole confirms all $320M in funds have been restored](https://finbold.com/wormhole-confirms-all-300-million-in-funds-have-been-restored/)
-- [I hacked SONOS and YouTube the same day](https://www.deadf00d.com/post/how-i-hacked-sonos-and-youtube-the-same-day.html)
-- [Launch HN: Ploomber &lpar;YC W22&rpar; – Quickly deploy data pipelines from Jupyter/VSCode](https://github.com/ploomber/ploomber)
+- [Amazon.com Announces Fourth Quarter Results [pdf]](https://s2.q4cdn.com/299287126/files/doc_financials/2021/q4/business_and_financial_update.pdf)
+- [Openbase &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/openbase/jobs/G21nU8U-community-manager)
+- [The Karikó problem: Lessons for funding basic research](https://www.statnews.com/2022/02/01/kariko-problem-lessons-funding-basic-research/)
+- [How we broke the supply chain](https://prospect.org/economy/how-we-broke-the-supply-chain-intro/)
+- [The 4-day week is flawed – workers still want it](https://www.wired.com/story/four-day-week-burnout/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
