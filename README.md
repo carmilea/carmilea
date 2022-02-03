@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Why It Could Be Years Until We See a Normal Housing Market](https://awealthofcommonsense.com/2022/02/why-it-could-take-years-until-we-see-a-normal-housing-market/)
+- [Design and Prototypical Implementation of an IRC Chat Server in Erlang OTP](https://www.linuxjournal.com/content/design-and-prototypical-implementation-irc-chat-server-erlang-otp)
+- [Yes, I can connect to a DB in CSS](https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html)
+- [Why it could be years until we see a normal housing market](https://awealthofcommonsense.com/2022/02/why-it-could-take-years-until-we-see-a-normal-housing-market/)
 - [Top Chess Engine Championship](https://tcec-chess.com/)
 - [A home made PCB stepper motor](https://kevinlynagh.com/pcb-stepper/)
-- [Gee, I wonder how Apple Podcasts suddenly became a five-star app](https://www.theverge.com/2022/2/2/22914612/apple-podcasts-app-rating-user-reviews-problem)
-- [Try Turris Omnia, the open source router](https://opensource.com/article/22/1/turris-omnia-open-source-router)
 <!-- BLOG-POST-LIST:END -->
 
 ---
