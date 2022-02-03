@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Why It Could Be Years Until We See a Normal Housing Market](https://awealthofcommonsense.com/2022/02/why-it-could-take-years-until-we-see-a-normal-housing-market/)
+- [Top Chess Engine Championship](https://tcec-chess.com/)
+- [A home made PCB stepper motor](https://kevinlynagh.com/pcb-stepper/)
+- [Gee, I wonder how Apple Podcasts suddenly became a five-star app](https://www.theverge.com/2022/2/2/22914612/apple-podcasts-app-rating-user-reviews-problem)
 - [Try Turris Omnia, the open source router](https://opensource.com/article/22/1/turris-omnia-open-source-router)
-- [Optimizing GoAWK with a bytecode compiler and virtual machine](https://benhoyt.com/writings/goawk-compiler-vm/)
-- [Facebook says Apple iOS privacy change will result in $10B revenue hit this year](https://www.cnbc.com/2022/02/02/facebook-says-apple-ios-privacy-change-will-cost-10-billion-this-year.html)
-- [Squabble.me – Multiplayer Wordle Royale](https://squabble.me/)
-- [Mississippi is 37th state to legalize medical marijuana](https://www.npr.org/2022/02/02/1077784525/mississippi-becomes-the-37th-state-to-legalize-medical-marijuana)
 <!-- BLOG-POST-LIST:END -->
 
 ---
