@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: I made a little digital circuit simulator that operates on PNGs](https://github.com/lynnpepin/reso)
-- [Ask HN: General Mood of the Community](https://news.ycombinator.com/item?id=30193946)
-- [Building a Modern Home in the woods](https://johnnyrodgers.is/building-a-modern-home)
-- [Electricity Prices Are a Lie](https://climateer.substack.com/p/price-lies)
-- [Why semi-trucks in US and Europe are so different?](https://nodum.org/why-semi-trucks-in-us-and-europe-are-so-different/)
+- [Launch HN: Ploomber &lpar;YC W22&rpar; – Quickly deploy data pipelines from Jupyter/VSCode](https://github.com/ploomber/ploomber)
+- [Bittersweet Symfony: Devs accidentally turn off CSRF protection in PHP framework](https://portswigger.net/daily-swig/bittersweet-symfony-devs-accidentally-turn-off-csrf-protection-in-php-framework)
+- [Dover &lpar;YC S19&rpar; just raised $20m and is hiring engineers at all levels](https://www.dover.com/open-roles/software-engineer)
+- [Igalia announces Wolvic, a new browser project](https://www.igalia.com/2022/02/03/Introducing-Wolvic.html)
+- [Star Citizen will limit its roadmap, as players are getting upset over delays](https://www.eurogamer.net/articles/2022-02-03-star-citizen-slimming-down-roadmap-to-stop-having-to-update-roadmap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
