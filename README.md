@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Silenced AirTags with disabled speakers are popping up for sale online](https://gizmodo.com/silenced-airtags-with-disabled-speakers-for-sale-online-1848473673)
+- [Wormhole confirms all $320M in funds have been restored](https://finbold.com/wormhole-confirms-all-300-million-in-funds-have-been-restored/)
+- [I hacked SONOS and YouTube the same day](https://www.deadf00d.com/post/how-i-hacked-sonos-and-youtube-the-same-day.html)
 - [Launch HN: Ploomber &lpar;YC W22&rpar; – Quickly deploy data pipelines from Jupyter/VSCode](https://github.com/ploomber/ploomber)
 - [App store bill sails out of Senate Judiciary Committee](https://www.axios.com/app-store-bill-sails-out-of-senate-judiciary-committee-c49c22bf-c9ae-41f4-b23e-55a3ce8caace.html)
-- [Bittersweet Symfony: Devs accidentally turn off CSRF protection in PHP framework](https://portswigger.net/daily-swig/bittersweet-symfony-devs-accidentally-turn-off-csrf-protection-in-php-framework)
-- [Dover &lpar;YC S19&rpar; is hiring engineers at all levels](https://www.dover.com/open-roles/software-engineer)
-- [Igalia announces Wolvic, a new browser project](https://www.igalia.com/2022/02/03/Introducing-Wolvic.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
