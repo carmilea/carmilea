@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Early Animal Evolution Revealed by Chromosome ‘Tectonics’](https://www.quantamagazine.org/secrets-of-early-animal-evolution-revealed-by-chromosome-tectonics-20220202/)
+- [Mississippi is 37th state to legalize medical marijuana](https://www.npr.org/2022/02/02/1077784525/mississippi-becomes-the-37th-state-to-legalize-medical-marijuana)
 - [Iowa man convicted of lottery rigging scheme granted parole](https://www.pahomepage.com/news/national/iowa-man-convicted-of-lottery-rigging-scheme-granted-parole/)
 - [Rebelle: Experimental online paint software](https://www.escapemotions.com/products/rebelle/try/)
 - [Flexport is hiring engineers to uncork global supply chains](https://Flexport.com/careers)
-- [In second largest DeFi hack, Blockchain Bridge loses $320M Ether](https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/)
-- [Starlink adds another 100Gbps connection to the SeattleIX](https://www.seattleix.net/participant-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
