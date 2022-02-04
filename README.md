@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Protons are probably smaller than long thought](https://www.uni-bonn.de/en/news/020-2022)
+- [New research: natural gas appliances emit much more methane than realized](https://www.nature.com/articles/d41586-022-00240-1)
 - [Yamaha DX7 chip reverse-engineering, part V: the output circuitry](https://www.righto.com/2022/02/yamaha-dx7-chip-reverse-engineering.html)
 - [Reflect &lpar;YC S20&rpar; is hiring full-stack engineers and sales reps &lpar;US Remote&rpar;](https://www.ycombinator.com/companies/reflect)
 - [Ask HN: Is there any tool for benchmarking responsiveness for Linux?](https://news.ycombinator.com/item?id=30209366)
-- [How the physics of resonance shapes reality](https://www.quantamagazine.org/how-the-physics-of-resonance-shapes-reality-20220126/)
-- [The case for and against analogies](https://dynomight.net/analogies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
