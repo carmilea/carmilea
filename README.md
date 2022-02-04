@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [People Don&#39;t Want to Run Their Own Bank](https://shkspr.mobi/blog/2022/02/people-dont-want-to-run-their-own-bank/)
+- [The Payment Dance](https://www.solipsys.co.uk/new/ThePaymentDance.html?VB04HN)
+- [Bug 111373 – don&#39;t allow animated favicons &lpar;2001&rpar;](https://bugzilla.mozilla.org/show_bug.cgi?id=111373)
+- [People don&#39;t want to run their own bank](https://shkspr.mobi/blog/2022/02/people-dont-want-to-run-their-own-bank/)
 - [The Big Mac index: February 2022](https://www.economist.com/big-mac-index)
 - [101 AWS Lambda tutorial for Go developers](https://blog.mantil.com/dummy-guide-to-aws-lambda-for-go-developers-63192b684898?gi=3b481e39d855)
-- [The Infinite Loop That Wasn&#39;t &lpar;2020&rpar;](https://mgba.io/2020/01/25/infinite-loop-holy-grail/)
-- [Bright &lpar;YC W15&rpar; – Hiring an Impact Driven Front-End Engineer](https://www.ycombinator.com/companies/bright/jobs/EBUZwJq-impact-driven-frontend-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
