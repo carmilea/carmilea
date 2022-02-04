@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [People Don&#39;t Want to Run Their Own Bank](https://shkspr.mobi/blog/2022/02/people-dont-want-to-run-their-own-bank/)
+- [The Big Mac index: February 2022](https://www.economist.com/big-mac-index)
+- [101 AWS Lambda tutorial for Go developers](https://blog.mantil.com/dummy-guide-to-aws-lambda-for-go-developers-63192b684898?gi=3b481e39d855)
+- [The Infinite Loop That Wasn&#39;t &lpar;2020&rpar;](https://mgba.io/2020/01/25/infinite-loop-holy-grail/)
 - [Bright &lpar;YC W15&rpar; – Hiring an Impact Driven Front-End Engineer](https://www.ycombinator.com/companies/bright/jobs/EBUZwJq-impact-driven-frontend-engineer)
-- [Satellite finds methane leaks from gas pipelines](https://www.npr.org/2022/02/03/1077392791/a-satellite-finds-massive-methane-leaks-from-gas-pipelines)
-- [Country Flags in SVG](https://flagicons.lipis.dev/)
-- [What I&#39;d like to see in Go 2.0](https://www.sethvargo.com/what-id-like-to-see-in-go-2/)
-- [Play audio only on YouTube and save bandwidth](https://chrome.google.com/webstore/detail/music-mode-for-youtube/abbpaepbpakcpipajigmlpnhlnbennna)
 <!-- BLOG-POST-LIST:END -->
 
 ---
