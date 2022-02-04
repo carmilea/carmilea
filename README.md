@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cassowary – Run Windows Apps on Linux using a VM as if they were native apps](https://github.com/casualsnek/cassowary)
+- [Aro: A C compiler written in Zig](https://github.com/Vexu/arocc)
+- [Serenity OS](https://corecursive.com/serenity-os-with-andreas-kling/)
+- [Show HN: Angularis – like Tetris, but based on triangles](https://angularis.mondaybits.com/)
 - [Rails is not written in Ruby](https://solnic.codes/2022/02/02/rails-is-not-written-in-ruby/)
-- [That’s all folks, for me anyway. Canon Rumors will live on](https://www.canonrumors.com/thats-all-folks-for-me-anyway-canon-rumors-will-live-on/)
-- [Google Doesn&#39;t Parse Roman Numerals](https://www.google.com/search?q=ff+vi+remaster+date)
-- [Cosmic &lpar;YC W19&rpar; Is Hiring](https://news.ycombinator.com/item?id=30213125)
-- [For some searches the whole screen on Google is now ads](https://twitter.com/spakhm/status/1489480845979095040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
