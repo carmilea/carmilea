@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Pip Horror Story](https://archive.fo/pdYHy)
+- [World Is Not Normal](https://ycmusings.com/world-is-not-normal/)
+- [There Is a Much Larger Problem Than the Great Resignation](https://themakingofamillionaire.com/there-is-a-much-larger-problem-than-the-great-resignation-no-one-wants-to-talk-about-it-3922cf8aefd2)
 - [Where in the World Are Trader Joe’s Warehouses? &lpar;2015&rpar;](https://sburer.github.io/2015/06/02/Trader-Joes.html)
-- [Medical communication is bad–how can we fix it?](https://blog.tjcx.me/p/medical-communication-is-badhow-do)
 - [Go performance from version 1.2 to 1.18](https://benhoyt.com/writings/go-version-performance/)
-- [Gameboy Emulator in ARM Assembly](https://github.com/cottsay/arm_asm_emu)
-- [Compensation Data and Trends in the USA](https://dataforest.sequoia.com/reports/compensation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
