@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How Apple&#39;s privacy push cost Meta $10bn](https://www.economist.com/the-economist-explains/2022/02/03/how-apples-privacy-push-cost-meta-10bn)
+- [Apple will charge 27% commission for alternative payment systems in Netherlands](https://9to5mac.com/2022/02/04/apple-will-charge-27-commission-for-purchases-made-using-alternative-payment-systems-in-the-netherlands/)
+- [Burroughs B 5500 Infomration Processing System, 1964 [pdf]](http://s3data.computerhistory.org/brochures/burroughs.b5500.1964.102646215.pdf)
 - [Amazon Pip Horror Story](https://archive.fo/pdYHy)
 - [How the World Went from Post-Politics to Hyper-Politics](https://tribunemag.co.uk/2022/01/from-post-politics-to-hyper-politics)
-- [Where in the World Are Trader Joe’s Warehouses? &lpar;2015&rpar;](https://sburer.github.io/2015/06/02/Trader-Joes.html)
-- [Go performance from version 1.2 to 1.18](https://benhoyt.com/writings/go-version-performance/)
-- [Gameboy Emulator in ARM Assembly](https://github.com/cottsay/arm_asm_emu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
