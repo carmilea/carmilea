@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [GTA 6 Confirmed](https://www.ign.com/articles/gta-6-confirmed)
-- [Protons are probably smaller than long thought](https://www.uni-bonn.de/en/news/020-2022)
-- [New research: natural gas appliances emit much more methane than realized](https://www.nature.com/articles/d41586-022-00240-1)
-- [Poll: Where Do You Live?](https://news.ycombinator.com/item?id=30210378)
-- [Yamaha DX7 chip reverse-engineering, part V: the output circuitry](https://www.righto.com/2022/02/yamaha-dx7-chip-reverse-engineering.html)
+- [Cosmic &lpar;YC W19&rpar; Is Hiring](https://news.ycombinator.com/item?id=30213125)
+- [Nerves Quickstart, a video for the Elixir IoT framework](https://underjord.io/video-nerves-quickstart.html)
+- [Long-Term Visa for Remote Workers](https://work.iceland.is/working/icelands-remote-work-long-term-visa/)
+- [SingleStore Doubles Down on Community](https://www.singlestore.com/blog/singlestore-doubles-down-on-community)
+- [Biologist decided to disavow his own study](https://www.science.org/content/article/when-his-suspicions-went-unanswered-biologist-decided-disavow-his-own-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
