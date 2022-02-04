@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How Apple&#39;s privacy push cost Meta $10bn](https://www.economist.com/the-economist-explains/2022/02/03/how-apples-privacy-push-cost-meta-10bn)
-- [Burroughs B 5500 Infomration Processing System, 1964 [pdf]](http://s3data.computerhistory.org/brochures/burroughs.b5500.1964.102646215.pdf)
-- [Amazon Pip Horror Story](https://archive.fo/pdYHy)
-- [How the World Went from Post-Politics to Hyper-Politics](https://tribunemag.co.uk/2022/01/from-post-politics-to-hyper-politics)
-- [Where in the World Are Trader Joe’s Warehouses? &lpar;2015&rpar;](https://sburer.github.io/2015/06/02/Trader-Joes.html)
+- [Bright &lpar;YC W15&rpar; – Hiring an Impact Driven Front-End Engineer](https://www.ycombinator.com/companies/bright/jobs/EBUZwJq-impact-driven-frontend-engineer)
+- [Satellite finds methane leaks from gas pipelines](https://www.npr.org/2022/02/03/1077392791/a-satellite-finds-massive-methane-leaks-from-gas-pipelines)
+- [Country Flags in SVG](https://flagicons.lipis.dev/)
+- [What I&#39;d like to see in Go 2.0](https://www.sethvargo.com/what-id-like-to-see-in-go-2/)
+- [Play audio only on YouTube and save bandwidth](https://chrome.google.com/webstore/detail/music-mode-for-youtube/abbpaepbpakcpipajigmlpnhlnbennna)
 <!-- BLOG-POST-LIST:END -->
 
 ---
