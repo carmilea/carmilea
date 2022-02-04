@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Go performance from version 1.2 to 1.18](https://benhoyt.com/writings/go-version-performance/)
 - [Gameboy Emulator in ARM Assembly](https://github.com/cottsay/arm_asm_emu)
 - [Australian mining billionaire files lawsuit against Facebook over scam ads](https://www.reuters.com/technology/australian-mining-billionaire-files-lawsuit-against-facebook-over-scam-ads-2022-02-03/)
 - [Compensation Data and Trends in the USA](https://dataforest.sequoia.com/reports/compensation/)
 - [Slackware 15.0](http://www.slackware.com/releasenotes/15.0.php)
-- [Openbase &lpar;YC S20&rpar; Is Hiring](https://www.ycombinator.com/companies/openbase/jobs/G21nU8U-community-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
