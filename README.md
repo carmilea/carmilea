@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Deming&#39;s Red Bead Experiment](https://maaw.info/DemingsRedbeads.htm)
+- [A low-cost and shielding-free ultra-low-field brain MRI scanner with AI](https://www.nature.com/articles/s41467-021-27317-1)
+- [A Crash Course in Modern Hardware &lpar;2010&rpar;](https://www.infoq.com/presentations/click-crash-course-modern-hardware/)
+- [Precision in Technical Discussions](https://rtpg.co/2022/02/04/precision-in-technical-discussions.html)
 - [Don&#39;t make me think, or why I switched to Rails from JavaScript SPAs](https://reviewbunny.app/blog/dont-make-me-think-or-why-i-switched-to-rails-from-javascript-spas)
-- [The Payment Dance](https://www.solipsys.co.uk/new/ThePaymentDance.html?VB04HN)
-- [Days of Reckoning &lpar;Why the UK energy cap failed&rpar;](https://consciousnessofsheep.co.uk/2022/02/03/days-of-reckoning/)
-- [Omicron’s molecular structure could help explain its global takeover](https://www.nature.com/articles/d41586-022-00292-3)
-- [Bug 111373 – don&#39;t allow animated favicons &lpar;2001&rpar;](https://bugzilla.mozilla.org/show_bug.cgi?id=111373)
 <!-- BLOG-POST-LIST:END -->
 
 ---
