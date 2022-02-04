@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t make me think, or why I switched to Rails from JavaScript SPAs](https://reviewbunny.app/blog/dont-make-me-think-or-why-i-switched-to-rails-from-javascript-spas)
 - [The Payment Dance](https://www.solipsys.co.uk/new/ThePaymentDance.html?VB04HN)
+- [Days of Reckoning &lpar;Why the UK energy cap failed&rpar;](https://consciousnessofsheep.co.uk/2022/02/03/days-of-reckoning/)
+- [Omicron’s molecular structure could help explain its global takeover](https://www.nature.com/articles/d41586-022-00292-3)
 - [Bug 111373 – don&#39;t allow animated favicons &lpar;2001&rpar;](https://bugzilla.mozilla.org/show_bug.cgi?id=111373)
-- [People don&#39;t want to run their own bank](https://shkspr.mobi/blog/2022/02/people-dont-want-to-run-their-own-bank/)
-- [The Big Mac index: February 2022](https://www.economist.com/big-mac-index)
-- [101 AWS Lambda tutorial for Go developers](https://blog.mantil.com/dummy-guide-to-aws-lambda-for-go-developers-63192b684898?gi=3b481e39d855)
 <!-- BLOG-POST-LIST:END -->
 
 ---
