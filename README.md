@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yamaha DX7 chip reverse-engineering, part V: the output circuitry](https://www.righto.com/2022/02/yamaha-dx7-chip-reverse-engineering.html)
 - [Reflect &lpar;YC S20&rpar; is hiring full-stack engineers and sales reps &lpar;US Remote&rpar;](https://www.ycombinator.com/companies/reflect)
-- [Best F-Droid Apps](https://www.ikkaro.com/en/best-f-droid-apps/)
+- [Ask HN: Is there any tool for benchmarking responsiveness for Linux?](https://news.ycombinator.com/item?id=30209366)
 - [How the physics of resonance shapes reality](https://www.quantamagazine.org/how-the-physics-of-resonance-shapes-reality-20220126/)
-- [Ask HN: If Meta dies will React follow](https://news.ycombinator.com/item?id=30209117)
-- [The Case for and Against Analogies](https://dynomight.net/analogies/)
+- [The case for and against analogies](https://dynomight.net/analogies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
