@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Rails is not written in Ruby](https://solnic.codes/2022/02/02/rails-is-not-written-in-ruby/)
+- [That’s all folks, for me anyway. Canon Rumors will live on](https://www.canonrumors.com/thats-all-folks-for-me-anyway-canon-rumors-will-live-on/)
+- [Google Doesn&#39;t Parse Roman Numerals](https://www.google.com/search?q=ff+vi+remaster+date)
 - [Cosmic &lpar;YC W19&rpar; Is Hiring](https://news.ycombinator.com/item?id=30213125)
-- [Nerves Quickstart, a video for the Elixir IoT framework](https://underjord.io/video-nerves-quickstart.html)
-- [Long-Term Visa for Remote Workers](https://work.iceland.is/working/icelands-remote-work-long-term-visa/)
-- [SingleStore Doubles Down on Community](https://www.singlestore.com/blog/singlestore-doubles-down-on-community)
-- [Biologist decided to disavow his own study](https://www.science.org/content/article/when-his-suspicions-went-unanswered-biologist-decided-disavow-his-own-study)
+- [For some searches the whole screen on Google is now ads](https://twitter.com/spakhm/status/1489480845979095040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
