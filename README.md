@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Software correctness is a lot like flossing &lpar;2020&rpar;](https://www.hillelwayne.com/post/flossing/)
+- [Where in the World Are Trader Joe’s Warehouses? &lpar;2015&rpar;](https://sburer.github.io/2015/06/02/Trader-Joes.html)
+- [Medical communication is bad–how can we fix it?](https://blog.tjcx.me/p/medical-communication-is-badhow-do)
 - [Go performance from version 1.2 to 1.18](https://benhoyt.com/writings/go-version-performance/)
 - [Gameboy Emulator in ARM Assembly](https://github.com/cottsay/arm_asm_emu)
 - [Compensation Data and Trends in the USA](https://dataforest.sequoia.com/reports/compensation/)
-- [Why Not ZFS &lpar;2021&rpar;](https://storytime.ivysaur.me/posts/why-not-zfs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
