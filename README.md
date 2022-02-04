@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Uyghur kids detail abuse at China&#39;s boarding schools in Xinjiang](https://www.npr.org/2022/02/03/1073793823/china-uyghur-children-xinjiang-boarding-school)
-- [Software correctness is a lot like flossing](https://www.hillelwayne.com/post/flossing/)
+- [Software correctness is a lot like flossing &lpar;2020&rpar;](https://www.hillelwayne.com/post/flossing/)
 - [Go performance from version 1.2 to 1.18](https://benhoyt.com/writings/go-version-performance/)
 - [Gameboy Emulator in ARM Assembly](https://github.com/cottsay/arm_asm_emu)
 - [Compensation Data and Trends in the USA](https://dataforest.sequoia.com/reports/compensation/)
+- [Why Not ZFS &lpar;2021&rpar;](https://storytime.ivysaur.me/posts/why-not-zfs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
