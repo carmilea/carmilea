@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Deming&#39;s Red Bead Experiment](https://maaw.info/DemingsRedbeads.htm)
-- [A low-cost and shielding-free ultra-low-field brain MRI scanner with AI](https://www.nature.com/articles/s41467-021-27317-1)
-- [A Crash Course in Modern Hardware &lpar;2010&rpar;](https://www.infoq.com/presentations/click-crash-course-modern-hardware/)
-- [Precision in Technical Discussions](https://rtpg.co/2022/02/04/precision-in-technical-discussions.html)
-- [Don&#39;t make me think, or why I switched to Rails from JavaScript SPAs](https://reviewbunny.app/blog/dont-make-me-think-or-why-i-switched-to-rails-from-javascript-spas)
+- [Reflect &lpar;YC S20&rpar; is hiring full-stack engineers and sales reps &lpar;US Remote&rpar;](https://www.ycombinator.com/companies/reflect)
+- [Best F-Droid Apps](https://www.ikkaro.com/en/best-f-droid-apps/)
+- [How the physics of resonance shapes reality](https://www.quantamagazine.org/how-the-physics-of-resonance-shapes-reality-20220126/)
+- [Ask HN: If Meta dies will React follow](https://news.ycombinator.com/item?id=30209117)
+- [The Case for and Against Analogies](https://dynomight.net/analogies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
