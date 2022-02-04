@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Amazon Pip Horror Story](https://archive.fo/pdYHy)
 - [How the World Went from Post-Politics to Hyper-Politics](https://tribunemag.co.uk/2022/01/from-post-politics-to-hyper-politics)
-- [There Is a Much Larger Problem Than the Great Resignation](https://themakingofamillionaire.com/there-is-a-much-larger-problem-than-the-great-resignation-no-one-wants-to-talk-about-it-3922cf8aefd2)
 - [Where in the World Are Trader Joe’s Warehouses? &lpar;2015&rpar;](https://sburer.github.io/2015/06/02/Trader-Joes.html)
 - [Go performance from version 1.2 to 1.18](https://benhoyt.com/writings/go-version-performance/)
+- [Gameboy Emulator in ARM Assembly](https://github.com/cottsay/arm_asm_emu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
