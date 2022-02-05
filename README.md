@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Skio is hiring founding engineers in NYC &lpar;above market equity&rpar;](https://skio.com/careers)
 - [A drop-in replacement of Django Admin](https://www.jolie.dev/)
 - [Google Chrome U2F API decommission: What the change means](https://www.yubico.com/blog/google-chrome-u2f-api-decommission-what-the-change-means-for-your-users-and-how-to-prepare/)
 - [Bitcoin&#39;s fungibility graveyard](https://sethforprivacy.com/posts/fungibility-graveyard/)
 - [Apple bans accounts of developers from Belarus](https://developer.apple.com/forums/thread/700036)
-- [Fast File Finder for Windows is a tool for quickly finding files by name](https://blog.kowalczyk.info/software/fast-file-finder-for-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
