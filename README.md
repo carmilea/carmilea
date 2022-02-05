@@ -51,9 +51,9 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Eqtble &lpar;YC W21&rpar; is hiring a founding back end engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-backend-engineer-early-hire)
 - [Killed by Google](https://killedbygoogle.com)
 - [Show HN: Nine Letter Word – Daily Puzzle](https://www.nineletterwordgame.com)
-- [Letterle](https://edjefferson.com/letterle/)
 - [Datawrapper: Create Charts, Maps, and Tables](https://www.datawrapper.de)
 - [Old Heathkits Never Die, They Just Get Restored](https://www.nutsvolts.com/magazine/article/May2016_Heathkit_Restoration)
 <!-- BLOG-POST-LIST:END -->
