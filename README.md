@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Has anyone sold their employee stock on the secondary market?](https://news.ycombinator.com/item?id=30224241)
-- [I Used Linux-Based PinePhone Daily for a Year. Here’s What I Learned](https://news.itsfoss.com/pinephone-review/)
-- [Florida governor to investigate GoFundMe over Canada trucker donations](https://www.reuters.com/article/us-health-coronavirus-canada-trucking-go-idCAKBN2KA0H3)
-- [First Recorded Usage of “Hacker”](https://manybutfinite.com/post/first-recorded-usage-of-hacker/)
-- [Unlearning Perfectionism](https://arunkprasad.com/log/unlearning-perfectionism/)
+- [A drop-in replacement of Django Admin](https://www.jolie.dev/)
+- [Google Chrome U2F API decommission: What the change means](https://www.yubico.com/blog/google-chrome-u2f-api-decommission-what-the-change-means-for-your-users-and-how-to-prepare/)
+- [Bitcoin&#39;s fungibility graveyard](https://sethforprivacy.com/posts/fungibility-graveyard/)
+- [Apple bans accounts of developers from Belarus](https://developer.apple.com/forums/thread/700036)
+- [Fast File Finder for Windows is a tool for quickly finding files by name](https://blog.kowalczyk.info/software/fast-file-finder-for-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
