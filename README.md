@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia to Use Crisis Actors to Stage a False Flag and Start War in Days](https://www.state.gov/briefings/department-press-briefing-february-3-2022/)
+- [FOSDEM 2022 is going on now](https://fosdem.org/2022/live/)
+- [Sharp-Bilinear Shaders for Retroarch](https://github.com/rsn8887/Sharp-Bilinear-Shaders)
 - [A Primer: Accessing Services in Kubernetes](https://blog.alexellis.io/primer-accessing-kubernetes-services/)
 - [Eqtble &lpar;YC W21&rpar; is hiring a founding back end engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-backend-engineer-early-hire)
-- [A distributed peer to peer list of bad actor IP addresses and phone numbers](https://sentrypeer.org/)
-- [Internet Messaging vs. Congested Network](https://blog.lewman.com/internet-messaging-versus-congested-network.html)
-- [Killed by Google](https://killedbygoogle.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
