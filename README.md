@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [NetBSD Community Meeting](https://mail-index.netbsd.org/netbsd-announce/2022/02/04/msg000334.html)
-- [Coinbase’s Philosophy on Account Removal and Content Moderation](https://blog.coinbase.com/coinbases-philosophy-on-account-removal-and-content-moderation-c80d1aa452b7)
+- [Where Are Americans Born? An Analysis of U.S. Census Data from 1850 – 2020](https://www.welcomelawfirm.com/blog/where-americans-are-born/)
+- [Spotify deletes 70 Joe Rogan episodes](https://www.jremissing.com/)
+- [Coinbase’s philosophy on account removal and content moderation](https://blog.coinbase.com/coinbases-philosophy-on-account-removal-and-content-moderation-c80d1aa452b7)
 - [Sunsama &lpar;YC W19&rpar; Is Hiring a Product Expert](https://www.ycombinator.com/companies/sunsama/jobs/aeyN592-product-expert)
-- [Google gives execs raises after declining to boost employees&#39; pay – HRD Canada](https://www.hcamag.com/ca/specialization/industrial-relations/google-gives-execs-raises-after-declining-to-boost-employees-pay/321236)
 - [Why is LinkedIn so cringe?](https://trungphan.substack.com/p/why-is-linkedin-so-cringe)
 <!-- BLOG-POST-LIST:END -->
 
