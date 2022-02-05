@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase’s Philosophy on Account Removal and Content Moderation](https://blog.coinbase.com/coinbases-philosophy-on-account-removal-and-content-moderation-c80d1aa452b7)
 - [Sunsama &lpar;YC W19&rpar; Is Hiring a Product Expert](https://www.ycombinator.com/companies/sunsama/jobs/aeyN592-product-expert)
+- [Google gives execs raises after declining to boost employees&#39; pay – HRD Canada](https://www.hcamag.com/ca/specialization/industrial-relations/google-gives-execs-raises-after-declining-to-boost-employees-pay/321236)
 - [Why is LinkedIn so cringe?](https://trungphan.substack.com/p/why-is-linkedin-so-cringe)
 - [SpaceX engineers in Fiji for six months](https://www.fbcnews.com.fj/business/spacex-engineers-in-fiji-for-six-months/)
-- [Cassowary – Run Windows Apps on Linux using a VM as if they were native apps](https://github.com/casualsnek/cassowary)
-- [Aro: A C compiler written in Zig](https://github.com/Vexu/arocc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
