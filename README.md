@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe tricks users into a 12 month contract](https://twitter.com/darkpatterns/status/1489901640777973768)
+- [Getting Started with the GA144 and ArrayForth](https://bitlog.it/20141224_getting_started_with_the_ga144_and_arrayforth.html)
+- [Little games to learn Morse Code in the browser](https://alexanderell.is/posts/morse-code/)
+- [Jepsen: Radix DLT 1.0-Beta.35.1](https://jepsen.io/analyses/radix-dlt-1.0-beta.35.1)
 - [Ask HN: Why isn&#39;t computer programming a major part of the arts?](https://news.ycombinator.com/item?id=30220831)
-- [Burgeoning bike cities emerge across America](https://www.axios.com/burgeoning-biking-cities-america-298240b8-913e-4c59-8da3-8ea0167bbf54.html)
-- [FOSDEM 2022 is going on now](https://fosdem.org/2022/live/)
-- [Sharp-Bilinear Shaders for Retroarch](https://github.com/rsn8887/Sharp-Bilinear-Shaders)
-- [A Primer: Accessing Services in Kubernetes](https://blog.alexellis.io/primer-accessing-kubernetes-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
