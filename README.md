@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Younger Americans Benefit Less from Booster Shots Than Older People](https://www.nytimes.com/2022/02/04/health/covid-boosters-older-younger.html)
+- [Why would a Java prime sieve run at only half its speed _some_ of the times?](https://blog.agical.se/en/posts/java-bitset-performance-mystery)
 - [Skio is hiring founding engineers in NYC &lpar;above market equity&rpar;](https://skio.com/careers)
-- [A drop-in replacement of Django Admin](https://www.jolie.dev/)
+- [Jolie: A drop-in replacement of Django Admin](https://www.jolie.dev/)
 - [Google Chrome U2F API decommission: What the change means](https://www.yubico.com/blog/google-chrome-u2f-api-decommission-what-the-change-means-for-your-users-and-how-to-prepare/)
-- [Bitcoin&#39;s fungibility graveyard](https://sethforprivacy.com/posts/fungibility-graveyard/)
-- [Apple bans accounts of developers from Belarus](https://developer.apple.com/forums/thread/700036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
