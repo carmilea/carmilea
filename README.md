@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe tricks users into a 12 month contract](https://twitter.com/darkpatterns/status/1489901640777973768)
-- [Getting Started with the GA144 and ArrayForth](https://bitlog.it/20141224_getting_started_with_the_ga144_and_arrayforth.html)
-- [Little games to learn Morse Code in the browser](https://alexanderell.is/posts/morse-code/)
-- [Jepsen: Radix DLT 1.0-Beta.35.1](https://jepsen.io/analyses/radix-dlt-1.0-beta.35.1)
-- [Ask HN: Why isn&#39;t computer programming a major part of the arts?](https://news.ycombinator.com/item?id=30220831)
+- [Reverie Labs &lpar;YC W18&rpar; is hiring senior software engineers to tackle cancer](https://www.reverielabs.com/careers)
+- [Spam blicklisting is out of control](https://blog.roastidio.us/posts/spam_blacklists_are_out_of_control/)
+- [Ask HN: Banned from adsense for simply logging in to another account](https://news.ycombinator.com/item?id=30222722)
+- [Crypto Is Not Cryptocurrency](https://www.cryptoisnotcryptocurrency.com/)
+- [Show HN: Lava lamp simulated by neural net in infinite loop](https://github.com/muxamilian/duralava)
 <!-- BLOG-POST-LIST:END -->
 
 ---
