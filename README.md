@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A Primer: Accessing Services in Kubernetes](https://blog.alexellis.io/primer-accessing-kubernetes-services/)
 - [Eqtble &lpar;YC W21&rpar; is hiring a founding back end engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-backend-engineer-early-hire)
+- [A distributed peer to peer list of bad actor IP addresses and phone numbers](https://sentrypeer.org/)
+- [Internet Messaging vs. Congested Network](https://blog.lewman.com/internet-messaging-versus-congested-network.html)
 - [Killed by Google](https://killedbygoogle.com)
-- [Show HN: Nine Letter Word – Daily Puzzle](https://www.nineletterwordgame.com)
-- [Datawrapper: Create Charts, Maps, and Tables](https://www.datawrapper.de)
-- [Old Heathkits Never Die, They Just Get Restored](https://www.nutsvolts.com/magazine/article/May2016_Heathkit_Restoration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
