@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlearning Perfectionism](https://arunkprasad.com/log/unlearning-perfectionism/)
+- [Ask HN: Best hosted alternative to Google Workspace for email?](https://news.ycombinator.com/item?id=30223538)
+- [Ask HN: If Apple integrated Time Machine with iCloud, would you use it?](https://news.ycombinator.com/item?id=30223422)
 - [Reverie Labs &lpar;YC W18&rpar; is hiring senior software engineers to tackle cancer](https://www.reverielabs.com/careers)
 - [Spam blicklisting is out of control](https://blog.roastidio.us/posts/spam_blacklists_are_out_of_control/)
-- [Ask HN: Banned from adsense for simply logging in to another account](https://news.ycombinator.com/item?id=30222722)
-- [Crypto Is Not Cryptocurrency](https://www.cryptoisnotcryptocurrency.com/)
-- [Show HN: Lava lamp simulated by neural net in infinite loop](https://github.com/muxamilian/duralava)
 <!-- BLOG-POST-LIST:END -->
 
 ---
