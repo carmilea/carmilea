@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Sunsama &lpar;YC W19&rpar; Is Hiring a Product Expert](https://www.ycombinator.com/companies/sunsama/jobs/aeyN592-product-expert)
+- [Why is LinkedIn so cringe?](https://trungphan.substack.com/p/why-is-linkedin-so-cringe)
+- [SpaceX engineers in Fiji for six months](https://www.fbcnews.com.fj/business/spacex-engineers-in-fiji-for-six-months/)
 - [Cassowary – Run Windows Apps on Linux using a VM as if they were native apps](https://github.com/casualsnek/cassowary)
 - [Aro: A C compiler written in Zig](https://github.com/Vexu/arocc)
-- [Serenity OS](https://corecursive.com/serenity-os-with-andreas-kling/)
-- [Show HN: Angularis – like Tetris, but based on triangles](https://angularis.mondaybits.com/)
-- [Rails is not written in Ruby](https://solnic.codes/2022/02/02/rails-is-not-written-in-ruby/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
