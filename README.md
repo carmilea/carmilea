@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Datawrapper: Create Charts, Maps, and Tables](https://www.datawrapper.de)
+- [Old Heathkits Never Die, They Just Get Restored](https://www.nutsvolts.com/magazine/article/May2016_Heathkit_Restoration)
+- [The Biggest Mistake I See Engineers Make](https://www.thezbook.com/the-biggest-mistake-i-see-engineers-make-2/)
+- [Starfish Prime](https://en.wikipedia.org/wiki/Starfish_Prime)
 - [Where Are Americans Born? An Analysis of U.S. Census Data from 1850 – 2020](https://www.welcomelawfirm.com/blog/where-americans-are-born/)
-- [Delta CEO wants U.S. to put unruly passengers on &#39;no-fly&#39; list](https://www.reuters.com/business/aerospace-defense/delta-ceo-wants-us-place-convicted-unruly-passengers-no-fly-list-2022-02-04/)
-- [Coinbase’s philosophy on account removal and content moderation](https://blog.coinbase.com/coinbases-philosophy-on-account-removal-and-content-moderation-c80d1aa452b7)
-- [Sunsama &lpar;YC W19&rpar; Is Hiring a Product Expert](https://www.ycombinator.com/companies/sunsama/jobs/aeyN592-product-expert)
-- [Why is LinkedIn so cringe?](https://trungphan.substack.com/p/why-is-linkedin-so-cringe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
