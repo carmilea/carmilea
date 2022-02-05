@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Killed by Google](https://killedbygoogle.com)
+- [Show HN: Nine Letter Word – Daily Puzzle](https://www.nineletterwordgame.com)
+- [Letterle](https://edjefferson.com/letterle/)
 - [Datawrapper: Create Charts, Maps, and Tables](https://www.datawrapper.de)
-- [JRE Missing &lpar;Rogan episodes removed by Spotify&rpar;](https://jremissing.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://jremissing.com/%22,%22target%22:%22_blank%22,%22absolute%22:%22%22,%22linkText%22:%22JREMissing%22%7D)
 - [Old Heathkits Never Die, They Just Get Restored](https://www.nutsvolts.com/magazine/article/May2016_Heathkit_Restoration)
-- [The Biggest Mistake I See Engineers Make](https://www.thezbook.com/the-biggest-mistake-i-see-engineers-make-2/)
-- [Starfish Prime](https://en.wikipedia.org/wiki/Starfish_Prime)
 <!-- BLOG-POST-LIST:END -->
 
 ---
