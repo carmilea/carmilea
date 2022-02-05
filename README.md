@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Russia to Use Crisis Actors to Stage a False Flag and Start War in Days](https://www.state.gov/briefings/department-press-briefing-february-3-2022/)
+- [Ask HN: Why isn&#39;t computer programming a major part of the arts?](https://news.ycombinator.com/item?id=30220831)
+- [Burgeoning bike cities emerge across America](https://www.axios.com/burgeoning-biking-cities-america-298240b8-913e-4c59-8da3-8ea0167bbf54.html)
 - [FOSDEM 2022 is going on now](https://fosdem.org/2022/live/)
 - [Sharp-Bilinear Shaders for Retroarch](https://github.com/rsn8887/Sharp-Bilinear-Shaders)
 - [A Primer: Accessing Services in Kubernetes](https://blog.alexellis.io/primer-accessing-kubernetes-services/)
-- [Eqtble &lpar;YC W21&rpar; is hiring a founding back end engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-backend-engineer-early-hire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
