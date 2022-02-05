@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Datawrapper: Create Charts, Maps, and Tables](https://www.datawrapper.de)
+- [JRE Missing &lpar;Rogan episodes removed by Spotify&rpar;](https://jremissing.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://jremissing.com/%22,%22target%22:%22_blank%22,%22absolute%22:%22%22,%22linkText%22:%22JREMissing%22%7D)
 - [Old Heathkits Never Die, They Just Get Restored](https://www.nutsvolts.com/magazine/article/May2016_Heathkit_Restoration)
 - [The Biggest Mistake I See Engineers Make](https://www.thezbook.com/the-biggest-mistake-i-see-engineers-make-2/)
 - [Starfish Prime](https://en.wikipedia.org/wiki/Starfish_Prime)
-- [Where Are Americans Born? An Analysis of U.S. Census Data from 1850 – 2020](https://www.welcomelawfirm.com/blog/where-americans-are-born/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
