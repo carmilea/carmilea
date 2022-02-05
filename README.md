@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Has anyone sold their employee stock on the secondary market?](https://news.ycombinator.com/item?id=30224241)
+- [I Used Linux-Based PinePhone Daily for a Year. Here’s What I Learned](https://news.itsfoss.com/pinephone-review/)
+- [Florida governor to investigate GoFundMe over Canada trucker donations](https://www.reuters.com/article/us-health-coronavirus-canada-trucking-go-idCAKBN2KA0H3)
+- [First Recorded Usage of “Hacker”](https://manybutfinite.com/post/first-recorded-usage-of-hacker/)
 - [Unlearning Perfectionism](https://arunkprasad.com/log/unlearning-perfectionism/)
-- [Ask HN: Best hosted alternative to Google Workspace for email?](https://news.ycombinator.com/item?id=30223538)
-- [Ask HN: If Apple integrated Time Machine with iCloud, would you use it?](https://news.ycombinator.com/item?id=30223422)
-- [Reverie Labs &lpar;YC W18&rpar; is hiring senior software engineers to tackle cancer](https://www.reverielabs.com/careers)
-- [Spam blicklisting is out of control](https://blog.roastidio.us/posts/spam_blacklists_are_out_of_control/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
