@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: I&#39;m hesitant to helping colleagues, why?](https://news.ycombinator.com/item?id=30234847)
+- [Gut microbe linked to depression in large health study](https://www.science.org/content/article/gut-microbe-linked-depression-large-health-study)
+- [Tesla FSD Beta Crashes into Object](https://www.youtube.com/watch?v=sbSDsbDQjSU)
+- [Ask HN: How can I help you?](https://news.ycombinator.com/item?id=30235018)
 - [What&#39;s in a Good Error Message?](https://www.morling.dev/blog/whats-in-a-good-error-message/)
-- [Resistbot: Contact your officials by sending a text](https://resist.bot)
-- [Seis &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/seis/jobs/TC5he46-react-native-developer-remote)
-- [Before passwords - ribbons and seals for document security &lpar;2021&rpar;](https://prologue.blogs.archives.gov/2021/10/14/holding-it-together-before-passwords-ribbons-and-seals-for-document-security/)
+- [On Being Broke](https://thomasjbevan.substack.com/p/on-being-broke)
 <!-- BLOG-POST-LIST:END -->
 
 ---
