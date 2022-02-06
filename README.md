@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CI for the Debian Linux kernel team](https://www.decadent.org.uk/ben/blog/ci-for-the-debian-kernel-team.html)
+- [Lon Lat Lon Lat](https://macwright.com/lonlat/)
 - [Expanded Child Tax Policy Slashed Child Poverty](https://www.npr.org/2022/01/27/1075299510/the-expanded-child-tax-credit-briefly-slashed-child-poverty-heres-what-else-it-d)
-- [Ask HN: Does targeted advertising work at all?](https://news.ycombinator.com/item?id=30228458)
 - [Send your email right to the other person&#39;s spam](https://straight2spam.xyz)
-- [Show HN: Create-rust-app: now supports poem-web back end](https://github.com/Wulf/create-rust-app)
 - [Ask HN: Best books on managing software complexity?](https://news.ycombinator.com/item?id=30228261)
 <!-- BLOG-POST-LIST:END -->
 
