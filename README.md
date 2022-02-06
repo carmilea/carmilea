@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: How do you get started as independent consultant or contractor](https://news.ycombinator.com/item?id=30237149)
 - [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 - [Show HN: EBNF Specification of the BBC Shipping Forecast](https://github.com/jamespwilliams/ebnf-shipping-forecast)
 - [Professor’s perceptron paved the way for AI 60 years too soon &lpar;2019&rpar;](https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon)
 - [How to Pick a Good Monitor for Software Development](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development)
-- [Scientific Programming Blog](https://danielmuellerkomorowska.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
