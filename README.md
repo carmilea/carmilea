@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Expanded Child Tax Policy Slashed Child Poverty](https://www.npr.org/2022/01/27/1075299510/the-expanded-child-tax-credit-briefly-slashed-child-poverty-heres-what-else-it-d)
 - [Ask HN: Does targeted advertising work at all?](https://news.ycombinator.com/item?id=30228458)
 - [Send your email right to the other person&#39;s spam](https://straight2spam.xyz)
+- [Show HN: Create-rust-app: now supports poem-web back end](https://github.com/Wulf/create-rust-app)
 - [Ask HN: Best books on managing software complexity?](https://news.ycombinator.com/item?id=30228261)
-- [Imminent Merger of a Supermassive Black Hole Binary](https://arxiv.org/abs/2201.11633)
-- [Cause of Cambrian Explosion – Terrestrial or cosmic? &lpar;2018&rpar;](https://www.sciencedirect.com/science/article/pii/S0079610718300798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
