@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Any piece of hardware that was more of game changer than you expected?](https://news.ycombinator.com/item?id=30231171)
+- [Muse &lpar;YC S21&rpar; - Is Hiring, help us build 3D websites](https://muse.place/hiring)
+- [Undocumented x86 instructions to read/ write microcode](https://twitter.com/DuchyRE/status/1489925268571664388)
 - [What&#39;s inside a digital pregnancy test &lpar;2020&rpar;](https://twitter.com/Foone/status/1301707401024827392)
 - [TornadoVM: A practical and efficient heterogeneous programming framework](https://github.com/beehive-lab/TornadoVM)
 - [A Quick Introduction to R](https://github.com/karoliskoncevicius/tutorial_r_introduction/blob/main/README.md)
-- [Ask HN: How do you deal with getting old and feeling lost?](https://news.ycombinator.com/item?id=30230620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
