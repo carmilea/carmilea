@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [More than 1k Dutch residents plan to throw rotten eggs at Jeff Bezos&#39; superyacht](https://www.businessinsider.com/tech/news/more-than-1000-dutch-residents-plan-to-throw-rotten-eggs-at-jeff-bezos-superyacht-if-it-ends-up-forcing-a-historic-bridge-be-dismantled-for-it-to-pass-through/articleshow/89356031.cms)
+- [Ask HN: How do you deal with getting old and feeling lost?](https://news.ycombinator.com/item?id=30230620)
+- [15 EU states subsidise fossil-fuels more than renewables](https://euobserver.com/climate/154245)
 - [Inkscape 1.1.2](https://inkscape.org/release/1.1.2/)
 - [Web3 Doesn&#39;t Care About Your Privacy](https://coinsights.substack.com/p/the-duality-of-web3)
 - [CI for the Debian Linux kernel team](https://www.decadent.org.uk/ben/blog/ci-for-the-debian-kernel-team.html)
-- [Reproducible Builds in January 2022](https://reproducible-builds.org/reports/2022-01/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
