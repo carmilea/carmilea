@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Gut microbe linked to depression in large health study](https://www.science.org/content/article/gut-microbe-linked-depression-large-health-study)
-- [Tesla FSD Beta Crashes into Object](https://www.youtube.com/watch?v=sbSDsbDQjSU)
-- [Ask HN: How can I help you?](https://news.ycombinator.com/item?id=30235018)
-- [What&#39;s in a Good Error Message?](https://www.morling.dev/blog/whats-in-a-good-error-message/)
-- [On Being Broke](https://thomasjbevan.substack.com/p/on-being-broke)
+- [Professor’s perceptron paved the way for AI 60 years too soon &lpar;2019&rpar;](https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon)
+- [How to Pick a Good Monitor for Software Development](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development)
+- [Scientific Programming Blog](https://danielmuellerkomorowska.com/)
+- [Regulation of Neurotransmitters by the Gut Microbiota and Effects on Cognition](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8234057/)
+- [Connor Leahy on EleutherAI, Replicating GPT-2/GPT-3, AI Risk and Alignment](https://thegradientpub.substack.com/p/connor-leahy-on-eleutherai-replicating)
 <!-- BLOG-POST-LIST:END -->
 
 ---
