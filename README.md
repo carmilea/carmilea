@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Cause of Cambrian Explosion – Terrestrial or Cosmic?](https://www.sciencedirect.com/science/article/pii/S0079610718300798)
-- [Ask HN: Notes, mind-maps, browser tabs all in one solution?](https://news.ycombinator.com/item?id=30227292)
-- [Why would a Java prime sieve run at only half its speed _some_ of the times?](https://blog.agical.se/en/posts/java-bitset-performance-mystery)
-- [Skio is hiring founding engineers in NYC &lpar;above market equity&rpar;](https://skio.com/careers)
-- [Jolie: A drop-in replacement of Django Admin](https://www.jolie.dev/)
+- [Ask HN: Does targeted advertising work at all?](https://news.ycombinator.com/item?id=30228458)
+- [Send your email right to the other person&#39;s spam](https://straight2spam.xyz)
+- [Ask HN: Best books on managing software complexity?](https://news.ycombinator.com/item?id=30228261)
+- [Imminent Merger of a Supermassive Black Hole Binary](https://arxiv.org/abs/2201.11633)
+- [Cause of Cambrian Explosion – Terrestrial or cosmic? &lpar;2018&rpar;](https://www.sciencedirect.com/science/article/pii/S0079610718300798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
