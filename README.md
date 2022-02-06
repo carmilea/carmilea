@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Inkscape 1.1.2 Is Released](https://inkscape.org/release/1.1.2/)
 - [Web3 Doesn&#39;t Care About Your Privacy](https://coinsights.substack.com/p/the-duality-of-web3)
 - [CI for the Debian Linux kernel team](https://www.decadent.org.uk/ben/blog/ci-for-the-debian-kernel-team.html)
 - [Reproducible Builds in January 2022](https://reproducible-builds.org/reports/2022-01/)
 - [Lon Lat Lon Lat](https://macwright.com/lonlat/)
-- [Ask HN: Does targeted advertising work at all?](https://news.ycombinator.com/item?id=30228458)
 <!-- BLOG-POST-LIST:END -->
 
 ---
