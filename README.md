@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mystical Experiences of Arthur Koestler &lpar;1905 – 1983&rpar;](http://www.bodysoulandspirit.net/mystical_experiences/read/notables/koestler.shtml)
-- [Muse &lpar;YC S21&rpar; - Is Hiring, help us build 3D websites](https://muse.place/hiring)
-- [Undocumented x86 instructions to read/ write microcode](https://twitter.com/DuchyRE/status/1489925268571664388)
-- [What&#39;s inside a digital pregnancy test &lpar;2020&rpar;](https://twitter.com/Foone/status/1301707401024827392)
-- [TornadoVM: A practical and efficient heterogeneous programming framework](https://github.com/beehive-lab/TornadoVM)
+- [FBI used geofence warrant in Seattle after BLM protest attack, documents show](https://www.theverge.com/2022/2/5/22918487/fbi-geofence-seattle-blm-protest-police-guild-attack)
+- [Socioeconomic Background and Gene–Environment Interplay in Social Stratification](https://academic.oup.com/esr/article/38/1/1/6339981)
+- [Mystical Experiences of Arthur Koestler &lpar;1954&rpar;](http://www.bodysoulandspirit.net/mystical_experiences/read/notables/koestler.shtml)
+- [Barbed wire fences were an early DIY telephone network](https://gizmodo.com/barbed-wire-fences-were-an-early-diy-telephone-network-1493157700)
+- [Show HN: BeerBase – an accessible worldwide open beer database](https://beerba.se/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
