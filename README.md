@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Any piece of hardware that was more of game changer than you expected?](https://news.ycombinator.com/item?id=30231171)
+- [What&#39;s inside a digital pregnancy test &lpar;2020&rpar;](https://twitter.com/Foone/status/1301707401024827392)
+- [TornadoVM: A practical and efficient heterogeneous programming framework](https://github.com/beehive-lab/TornadoVM)
+- [A Quick Introduction to R](https://github.com/karoliskoncevicius/tutorial_r_introduction/blob/main/README.md)
 - [Ask HN: How do you deal with getting old and feeling lost?](https://news.ycombinator.com/item?id=30230620)
-- [15 EU states subsidise fossil-fuels more than renewables](https://euobserver.com/climate/154245)
-- [Inkscape 1.1.2](https://inkscape.org/release/1.1.2/)
-- [Web3 Doesn&#39;t Care About Your Privacy](https://coinsights.substack.com/p/the-duality-of-web3)
-- [CI for the Debian Linux kernel team](https://www.decadent.org.uk/ben/blog/ci-for-the-debian-kernel-team.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
