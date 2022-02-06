@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Cancer Moonshot initiative restarted by NIH](https://www.cancer.gov/research/key-initiatives/moonshot-cancer-initiative)
+- [On Building 30K Debian Packages](http://moyix.blogspot.com/2022/02/on-building-30k-debian-packages.html)
+- [My Seatbelt Rule for Judgment](https://www.dannyguo.com/blog/my-seatbelt-rule-for-judgment/)
+- [Ask HN: Should an experienced engineer join a startup?](https://news.ycombinator.com/item?id=30237425)
 - [Ask HN: How do you get started as independent consultant or contractor](https://news.ycombinator.com/item?id=30237149)
-- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Show HN: EBNF Specification of the BBC Shipping Forecast](https://github.com/jamespwilliams/ebnf-shipping-forecast)
-- [Professor’s perceptron paved the way for AI 60 years too soon &lpar;2019&rpar;](https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon)
-- [How to Pick a Good Monitor for Software Development](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development)
 <!-- BLOG-POST-LIST:END -->
 
 ---
