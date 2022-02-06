@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla – Devil Incarnate](https://digdeeper.neocities.org/ghost/mozilla.html)
+- [The End of Online Anonymity &lpar;2019&rpar;](https://pointersgonewild.com/2019/06/10/the-end-of-online-anonymity/)
+- [Markov Chain Monte Carlo analysis of climate-change variables](https://www.nature.com/articles/s41598-022-05643-8)
 - [FBI used geofence warrant in Seattle after BLM protest attack, documents show](https://www.theverge.com/2022/2/5/22918487/fbi-geofence-seattle-blm-protest-police-guild-attack)
-- [Socioeconomic Background and Gene–Environment Interplay in Social Stratification](https://academic.oup.com/esr/article/38/1/1/6339981)
-- [Mystical Experiences of Arthur Koestler &lpar;1954&rpar;](http://www.bodysoulandspirit.net/mystical_experiences/read/notables/koestler.shtml)
-- [Barbed wire fences were an early DIY telephone network](https://gizmodo.com/barbed-wire-fences-were-an-early-diy-telephone-network-1493157700)
-- [Show HN: BeerBase – an accessible worldwide open beer database](https://beerba.se/)
+- [CadQuery –- A Python parametric CAD scripting framework based on OCCT](https://github.com/CadQuery/cadquery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
