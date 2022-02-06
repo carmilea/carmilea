@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [What caused the Olympics to become so terrible?](https://news.ycombinator.com/item?id=30234367)
+- [Seis &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/seis/jobs/TC5he46-react-native-developer-remote)
+- [Before passwords - ribbons and seals for document security &lpar;2021&rpar;](https://prologue.blogs.archives.gov/2021/10/14/holding-it-together-before-passwords-ribbons-and-seals-for-document-security/)
 - [Boston Fed releases report, source code of digital currency prototype study](https://www.bostonfed.org/news-and-events/press-releases/2022/frbb-and-mit-open-cbdc-phase-one.aspx)
 - [Files – Single-file photo gallery and file manager](https://www.files.gallery/)
-- [Cool ice formations my friend discovered on his deck this morning](https://twitter.com/CJF_NC/status/1490093486330322949)
-- [Play Wordle from Your Terminal](https://crates.io/crates/cl-wordle)
-- [The Simulated World According to David Chalmers](https://nautil.us/the-simulated-world-according-to-david-chalmers-13749/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
