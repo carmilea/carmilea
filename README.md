@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mozilla – Devil Incarnate](https://digdeeper.neocities.org/ghost/mozilla.html)
-- [The End of Online Anonymity &lpar;2019&rpar;](https://pointersgonewild.com/2019/06/10/the-end-of-online-anonymity/)
-- [Markov Chain Monte Carlo analysis of climate-change variables](https://www.nature.com/articles/s41598-022-05643-8)
-- [FBI used geofence warrant in Seattle after BLM protest attack, documents show](https://www.theverge.com/2022/2/5/22918487/fbi-geofence-seattle-blm-protest-police-guild-attack)
-- [CadQuery –- A Python parametric CAD scripting framework based on OCCT](https://github.com/CadQuery/cadquery)
+- [Boston Fed releases report, source code of digital currency prototype study](https://www.bostonfed.org/news-and-events/press-releases/2022/frbb-and-mit-open-cbdc-phase-one.aspx)
+- [Files – Single-file photo gallery and file manager](https://www.files.gallery/)
+- [Cool ice formations my friend discovered on his deck this morning](https://twitter.com/CJF_NC/status/1490093486330322949)
+- [Play Wordle from Your Terminal](https://crates.io/crates/cl-wordle)
+- [The Simulated World According to David Chalmers](https://nautil.us/the-simulated-world-according-to-david-chalmers-13749/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
