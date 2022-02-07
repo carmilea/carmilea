@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [A middle aged CS major debunked a classic positive psychology finding &lpar;2013&rpar;](https://narratively.com/nick-brown-smelled-bull/)
-- [Amazon more than doubles max base pay to $350k](https://www.geekwire.com/2022/amazon-more-than-doubles-max-base-pay-to-350k-for-corporate-and-tech-workers-citing-labor-market/)
-- [Reconfigurable perovskite nickelate electronics for artificial intelligence](https://www.purdue.edu/newsroom/releases/2022/Q1/the-brains-secret-to-lifelong-learning-can-now-come-as-hardware-for-artificial-intelligence.html)
-- [A Married Undercover Cop Having Sex with Activists Killed a Climate Movement](https://www.vice.com/en/article/epxbpj/kate-wilson-mark-kennedy-undercover-cop-sex-with-activists)
-- [NEC V20: Inspiring, Inconspicuous](https://www.computer.org/csdl/magazine/mi/2021/06/09623441/1yJTuoB0mm4)
+- [Basis &lpar;YC S21&rpar; is hiring devs to refactor the modern data stack](https://www.workatastartup.com/companies/basis-2)
+- [Slow-Motion Suicide in San Francisco](https://bariweiss.substack.com/p/slow-motion-suicide-in-san-francisco)
+- [Show HN: Koda, a Typesafe Functional Toolkit for Python](https://pypi.org/project/koda/)
+- [Launch HN: OneChronos &lpar;YC S16&rpar; – Combinatorial auctions market for US equities](https://news.ycombinator.com/item?id=30247159)
+- [Unikraft is a fast, secure and open-source Unikernel Development Kit](https://unikraft.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
