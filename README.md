@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. is considering a radical rethinking of the dollar for today&#39;s digital world](https://www.npr.org/2022/02/06/1072406109/digital-dollar-federal-reserve-apple-pay-venmo-cbdc)
+- [Textbooks by the Faculty of the C.S. Department of Kansas State University](https://textbooks.cs.ksu.edu/)
+- [Matrix: An open network for secure, decentralized communication](https://matrix.org)
 - [Poll: Do you prefer the office or work from home?](https://news.ycombinator.com/item?id=30239441)
 - [Some of the error messages produced by Apple&#39;s MPW C compiler &lpar;2006&rpar;](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
-- [Our nation cannot censor its way back to cultural health](https://frenchpress.thedispatch.com/p/the-nation-cannot-censor-its-way)
-- [The Root from Issyk-Kul Revisited](https://undark.org/2016/03/31/did-solzhenitsyn-cure-his-own-testicular-cancer/)
-- [How the Boeing 737 Max disaster looks to a software developer &lpar;2019&rpar;](https://spectrum.ieee.org/how-the-boeing-737-max-disaster-looks-to-a-software-developer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
