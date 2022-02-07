@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Root from Issyk-Kul Revisited](https://undark.org/2016/03/31/did-solzhenitsyn-cure-his-own-testicular-cancer/)
-- [“How I Survived a Chinese ‘Reeducation’ Camp” by Gulbahar Haitiwaji](https://www.thetimes.co.uk/article/how-i-survived-a-chinese-reeducation-camp-by-gulbahar-haitiwaji-review-the-true-story-of-the-uighur-tragedy-xbzhq9b2w)
-- [No-JavaScript Fingerprinting](https://noscriptfingerprint.com/)
-- [Cancer Moonshot initiative restarted by NIH](https://www.cancer.gov/research/key-initiatives/moonshot-cancer-initiative)
-- [Show HN: Daily Read – Receive a chapter a day from popular public domain books](https://dailyread.xyz/)
+- [Ask HN: What is wrong with dating in 2022?](https://news.ycombinator.com/item?id=30239331)
+- [Ask HN: Who&#39;s Sick of Remote Work?](https://news.ycombinator.com/item?id=30239283)
+- [HN Users with Most Karma](https://news.ycombinator.com/leaders)
+- [Mark Zuckerberg’s Disaster Is Taking Silicon Valley with It](https://nymag.com/intelligencer/2022/02/mark-zuckerbergs-disaster-is-taking-silicon-valley-with-it.html)
+- [School Closures In 1918 Flu Had No Impact On Educational Or Career Attainment](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01170/109263/School-Closures-during-the-1918-Flu-Pandemic?redirectedFrom=fulltext)
 <!-- BLOG-POST-LIST:END -->
 
 ---
