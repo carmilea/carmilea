@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Proof That the Earth Spins](https://profmattstrassler.com/2022/02/07/the-best-proof-that-the-earth-spins/)
-- [Trudeau tries to bring back online censorship bill](https://torontosun.com/opinion/editorials/editorial-trudeau-tries-to-bring-back-online-censorship-bill)
 - [Can a $310M startup avoid due diligence?](https://svgossip.substack.com/p/can-a-310m-startup-avoid-due-diligence)
 - [Inside Space Warlord Organ Trading Simulator’s deliberately designed friction](https://www.gamedeveloper.com/design/inside-space-warlord-organ-trading-simulator-s-deliberately-designed-friction)
 - [Ask HN: How long until Google charges for private Gmail accounts?](https://news.ycombinator.com/item?id=30248203)
+- [Lightform&#39;s Sunset](https://lightform.com/blog/lightforms-sunset)
+- [Apple in 2021](https://sixcolors.com/post/2022/02/apple-in-2021-the-six-colors-report-card/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
