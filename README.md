@@ -54,8 +54,8 @@
 - [Managing People](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
 - [U.S. is considering a radical rethinking of the dollar for today&#39;s digital world](https://www.npr.org/2022/02/06/1072406109/digital-dollar-federal-reserve-apple-pay-venmo-cbdc)
 - [Textbooks by the Faculty of the C.S. Department of Kansas State University](https://textbooks.cs.ksu.edu/)
-- [Matrix: An open network for secure, decentralized communication](https://matrix.org)
 - [Poll: Do you prefer the office or work from home?](https://news.ycombinator.com/item?id=30239441)
+- [Our nation cannot censor its way back to cultural health](https://frenchpress.thedispatch.com/p/the-nation-cannot-censor-its-way)
 <!-- BLOG-POST-LIST:END -->
 
 ---
