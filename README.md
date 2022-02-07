@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring a VP Product Marketing &lpar;US/Europe/Remote&rpar;](https://bitmovin.com/careers/5866457002?gh_jid=5866457002)
+- [Ask HN: What is one book you would recommend everyone to read?](https://news.ycombinator.com/item?id=30241190)
+- [Wall Street was the real winner of the GameStop saga](https://www.economist.com/culture/2022/02/05/wall-street-was-the-real-winner-of-the-gamestop-saga)
 - [Managing People](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
 - [U.S. is considering a radical rethinking of the dollar for today&#39;s digital world](https://www.npr.org/2022/02/06/1072406109/digital-dollar-federal-reserve-apple-pay-venmo-cbdc)
-- [Textbooks by the Faculty of the C.S. Department of Kansas State University](https://textbooks.cs.ksu.edu/)
-- [Poll: Do you prefer the office or work from home?](https://news.ycombinator.com/item?id=30239441)
-- [Our nation cannot censor its way back to cultural health](https://frenchpress.thedispatch.com/p/the-nation-cannot-censor-its-way)
 <!-- BLOG-POST-LIST:END -->
 
 ---
