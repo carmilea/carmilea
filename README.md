@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Can a $310M startup avoid due diligence?](https://svgossip.substack.com/p/can-a-310m-startup-avoid-due-diligence)
-- [Inside Space Warlord Organ Trading Simulator’s deliberately designed friction](https://www.gamedeveloper.com/design/inside-space-warlord-organ-trading-simulator-s-deliberately-designed-friction)
-- [Ask HN: How long until Google charges for private Gmail accounts?](https://news.ycombinator.com/item?id=30248203)
-- [Lightform&#39;s Sunset](https://lightform.com/blog/lightforms-sunset)
-- [Apple in 2021](https://sixcolors.com/post/2022/02/apple-in-2021-the-six-colors-report-card/)
+- [You Can Change Your Number](https://signal.org/blog/change-number/)
+- [Spotify’s CEO apologizes to employees over Joe Rogan controversy](https://www.latimes.com/entertainment-arts/business/story/2022-02-06/spotify-joe-rogan-daniel-ek-neil-young)
+- [Artist uses AI to fake 70s science fiction pulp covers – artwork and titles](https://cdm.link/2022/02/artist-uses-ai-to-perfectly-fake-70s-science-fiction-pulp-covers-artwork-and-titles/)
+- [Yamaha DX7 chip reverse-engineering, part 6: the control registers](https://www.righto.com/2022/02/yamaha-dx7-chip-reverse-engineering_7.html)
+- [Long-term cardiovascular outcomes of Covid-19](https://www.nature.com/articles/s41591-022-01689-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
