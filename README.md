@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Basis &lpar;YC S21&rpar; is hiring devs to refactor the modern data stack](https://www.workatastartup.com/companies/basis-2)
-- [Slow-Motion Suicide in San Francisco](https://bariweiss.substack.com/p/slow-motion-suicide-in-san-francisco)
-- [Show HN: Koda, a Typesafe Functional Toolkit for Python](https://pypi.org/project/koda/)
-- [Launch HN: OneChronos &lpar;YC S16&rpar; – Combinatorial auctions market for US equities](https://news.ycombinator.com/item?id=30247159)
-- [Unikraft is a fast, secure and open-source Unikernel Development Kit](https://unikraft.org/)
+- [Proof That the Earth Spins](https://profmattstrassler.com/2022/02/07/the-best-proof-that-the-earth-spins/)
+- [Trudeau tries to bring back online censorship bill](https://torontosun.com/opinion/editorials/editorial-trudeau-tries-to-bring-back-online-censorship-bill)
+- [Can a $310M startup avoid due diligence?](https://svgossip.substack.com/p/can-a-310m-startup-avoid-due-diligence)
+- [Inside Space Warlord Organ Trading Simulator’s deliberately designed friction](https://www.gamedeveloper.com/design/inside-space-warlord-organ-trading-simulator-s-deliberately-designed-friction)
+- [Ask HN: How long until Google charges for private Gmail accounts?](https://news.ycombinator.com/item?id=30248203)
 <!-- BLOG-POST-LIST:END -->
 
 ---
