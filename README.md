@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What is wrong with dating in 2022?](https://news.ycombinator.com/item?id=30239331)
-- [Ask HN: Who&#39;s Sick of Remote Work?](https://news.ycombinator.com/item?id=30239283)
-- [HN Users with Most Karma](https://news.ycombinator.com/leaders)
-- [Mark Zuckerberg’s Disaster Is Taking Silicon Valley with It](https://nymag.com/intelligencer/2022/02/mark-zuckerbergs-disaster-is-taking-silicon-valley-with-it.html)
-- [School Closures In 1918 Flu Had No Impact On Educational Or Career Attainment](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01170/109263/School-Closures-during-the-1918-Flu-Pandemic?redirectedFrom=fulltext)
+- [Poll: Do you prefer the office or work from home?](https://news.ycombinator.com/item?id=30239441)
+- [Some of the error messages produced by Apple&#39;s MPW C compiler &lpar;2006&rpar;](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
+- [Our nation cannot censor its way back to cultural health](https://frenchpress.thedispatch.com/p/the-nation-cannot-censor-its-way)
+- [The Root from Issyk-Kul Revisited](https://undark.org/2016/03/31/did-solzhenitsyn-cure-his-own-testicular-cancer/)
+- [How the Boeing 737 Max disaster looks to a software developer &lpar;2019&rpar;](https://spectrum.ieee.org/how-the-boeing-737-max-disaster-looks-to-a-software-developer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
