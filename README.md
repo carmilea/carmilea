@@ -51,10 +51,10 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Shitpost Quiz](https://elontweets.me)
+- [Has the iPad Won the Tablet Wars?](https://news.ycombinator.com/item?id=30242480)
+- [Ten Years of ThinkPadding](https://127001.me/post/ten-years-of-thinkpadding/)
 - [The Dark Side of Smart Contracts](https://businesstechguides.co/smart-contracts)
 - [Bitmovin &lpar;YC S15&rpar; Is Hiring a VP Product Marketing &lpar;US/Europe/Remote&rpar;](https://bitmovin.com/careers/5866457002?gh_jid=5866457002)
-- [Ask HN: What is one book you would recommend everyone to read?](https://news.ycombinator.com/item?id=30241190)
 - [Neutralinojs – Cross-platform desktop application development framework](https://github.com/neutralinojs/neutralinojs)
 <!-- BLOG-POST-LIST:END -->
 
