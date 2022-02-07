@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I Quit Shopify After Five Months](https://www.joshcsimmons.com/posts/why-i-quit-shopify)
+- [Ask HN: Great Blogs by Programmers](https://news.ycombinator.com/item?id=30245247)
+- [America’s Liberal Social Climate and Trends: Change in 283 General Variables](https://academic.oup.com/poq/article/85/4/1009/6458238)
 - [Show HN: SHA-256 explained step-by-step visually](https://sha256algorithm.com/)
 - [MAME Turns 25](https://www.mameworld.info/ubbthreads/showthreaded.php?Cat=&Number=393225&page=0&view=expanded&sb=5&o=&fpart=1&vc=1)
-- [This app does not support the App Store’s private and secure payment system](https://twitter.com/marcoarment/status/1489595793506029578)
-- [Thank You, Valve](https://kinduff.com/2022/02/06/thank-you-valve/)
-- [Ask HN: How can I calculate my market value?](https://news.ycombinator.com/item?id=30244146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
