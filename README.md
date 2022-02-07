@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Root from Issyk-Kul Revisited](https://undark.org/2016/03/31/did-solzhenitsyn-cure-his-own-testicular-cancer/)
+- [“How I Survived a Chinese ‘Reeducation’ Camp” by Gulbahar Haitiwaji](https://www.thetimes.co.uk/article/how-i-survived-a-chinese-reeducation-camp-by-gulbahar-haitiwaji-review-the-true-story-of-the-uighur-tragedy-xbzhq9b2w)
+- [No-JavaScript Fingerprinting](https://noscriptfingerprint.com/)
 - [Cancer Moonshot initiative restarted by NIH](https://www.cancer.gov/research/key-initiatives/moonshot-cancer-initiative)
-- [On Building 30K Debian Packages](http://moyix.blogspot.com/2022/02/on-building-30k-debian-packages.html)
-- [My Seatbelt Rule for Judgment](https://www.dannyguo.com/blog/my-seatbelt-rule-for-judgment/)
-- [Ask HN: Should an experienced engineer join a startup?](https://news.ycombinator.com/item?id=30237425)
-- [Ask HN: How do you get started as independent consultant or contractor](https://news.ycombinator.com/item?id=30237149)
+- [Show HN: Daily Read – Receive a chapter a day from popular public domain books](https://dailyread.xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
