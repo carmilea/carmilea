@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: SHA-256 explained step-by-step visually](https://sha256algorithm.com/)
+- [MAME Turns 25](https://www.mameworld.info/ubbthreads/showthreaded.php?Cat=&Number=393225&page=0&view=expanded&sb=5&o=&fpart=1&vc=1)
+- [This app does not support the App Store’s private and secure payment system](https://twitter.com/marcoarment/status/1489595793506029578)
 - [Thank You, Valve](https://kinduff.com/2022/02/06/thank-you-valve/)
 - [Ask HN: How can I calculate my market value?](https://news.ycombinator.com/item?id=30244146)
-- [Fleek &lpar;YC W22&rpar; Is Hiring](https://news.ycombinator.com/item?id=30243606)
-- [Ask HN: Does the world need a “passport equality” movement?](https://news.ycombinator.com/item?id=30243302)
-- [Nim vs Rust Benchmarks](https://programming-language-benchmarks.vercel.app/nim-vs-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
