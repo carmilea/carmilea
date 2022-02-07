@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [I Quit Shopify After Five Months](https://www.joshcsimmons.com/posts/why-i-quit-shopify)
-- [Ask HN: Great Blogs by Programmers](https://news.ycombinator.com/item?id=30245247)
-- [America’s Liberal Social Climate and Trends: Change in 283 General Variables](https://academic.oup.com/poq/article/85/4/1009/6458238)
-- [Show HN: SHA-256 explained step-by-step visually](https://sha256algorithm.com/)
-- [MAME Turns 25](https://www.mameworld.info/ubbthreads/showthreaded.php?Cat=&Number=393225&page=0&view=expanded&sb=5&o=&fpart=1&vc=1)
+- [A middle aged CS major debunked a classic positive psychology finding &lpar;2013&rpar;](https://narratively.com/nick-brown-smelled-bull/)
+- [Amazon more than doubles max base pay to $350k](https://www.geekwire.com/2022/amazon-more-than-doubles-max-base-pay-to-350k-for-corporate-and-tech-workers-citing-labor-market/)
+- [Reconfigurable perovskite nickelate electronics for artificial intelligence](https://www.purdue.edu/newsroom/releases/2022/Q1/the-brains-secret-to-lifelong-learning-can-now-come-as-hardware-for-artificial-intelligence.html)
+- [A Married Undercover Cop Having Sex with Activists Killed a Climate Movement](https://www.vice.com/en/article/epxbpj/kate-wilson-mark-kennedy-undercover-cop-sex-with-activists)
+- [NEC V20: Inspiring, Inconspicuous](https://www.computer.org/csdl/magazine/mi/2021/06/09623441/1yJTuoB0mm4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
