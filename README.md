@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Fleek &lpar;YC W22&rpar; Is Hiring](https://news.ycombinator.com/item?id=30243606)
+- [Digital Signal Processing in Modern Communication Systems](http://signal-processing.net/)
 - [The Crypto Backlash Is Booming](https://www.theatlantic.com/technology/archive/2022/02/crypto-nft-web3-internet-future/621479/)
-- [9 ways Lego has changed since we were kids &lpar;2014&rpar;](https://www.todaysparent.com/blogs/9-ways-lego-has-changed-since-we-were-kids/)
-- [&#39;We conclude&#39; or &#39;I believe?&#39; Study finds rationality declined decades ago](https://phys.org/news/2022-01-rationality-declined-decades.html)
-- [Chip Red Pill: Arbitrary [Micro]Code Execution Inside Intel Atom CPUs](https://www.offensivecon.org/speakers/2022/maxim-goryachy.html)
-- [Less Than 10% of Firefox Users on Linux Are Running Wayland](https://www.phoronix.com/scan.php?page=news_item&px=Firefox-Wayland-X11-Stats)
+- [The End of Uber with Cory Doctorow](https://thewaroncars.org/transcript-episode-79-the-end-of-uber-with-cory-doctorow/)
+- [Lego has changed since we were kids &lpar;2014&rpar;](https://www.todaysparent.com/blogs/9-ways-lego-has-changed-since-we-were-kids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
