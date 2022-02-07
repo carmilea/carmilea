@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [You Can Change Your Number](https://signal.org/blog/change-number/)
-- [Spotify’s CEO apologizes to employees over Joe Rogan controversy](https://www.latimes.com/entertainment-arts/business/story/2022-02-06/spotify-joe-rogan-daniel-ek-neil-young)
+- [Moonshot Brands &lpar;YC W21&rpar; Is Hiring](https://moonshotbrands.breezy.hr/p/8d057efe0230-chief-technology-officer-cto)
+- [IRS to Ditch Biometric Requirement for Online Access](https://krebsonsecurity.com/2022/02/irs-to-ditch-biometric-requirement-for-online-access/)
+- [Recruiters lying about salary? Is this just me or is it getting out of control?](https://news.ycombinator.com/item?id=30250719)
+- [You can change your number](https://signal.org/blog/change-number/)
 - [Artist uses AI to fake 70s science fiction pulp covers – artwork and titles](https://cdm.link/2022/02/artist-uses-ai-to-perfectly-fake-70s-science-fiction-pulp-covers-artwork-and-titles/)
-- [Yamaha DX7 chip reverse-engineering, part 6: the control registers](https://www.righto.com/2022/02/yamaha-dx7-chip-reverse-engineering_7.html)
-- [Long-term cardiovascular outcomes of Covid-19](https://www.nature.com/articles/s41591-022-01689-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
