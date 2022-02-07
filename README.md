@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Managing People](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
 - [U.S. is considering a radical rethinking of the dollar for today&#39;s digital world](https://www.npr.org/2022/02/06/1072406109/digital-dollar-federal-reserve-apple-pay-venmo-cbdc)
 - [Textbooks by the Faculty of the C.S. Department of Kansas State University](https://textbooks.cs.ksu.edu/)
 - [Matrix: An open network for secure, decentralized communication](https://matrix.org)
 - [Poll: Do you prefer the office or work from home?](https://news.ycombinator.com/item?id=30239441)
-- [Some of the error messages produced by Apple&#39;s MPW C compiler &lpar;2006&rpar;](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
