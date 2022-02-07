@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Google pushes update to Lenovo Smart Display to disable viewing websites](https://support.google.com/assistant/thread/146642658/can-no-longer-view-websites-on-smart-display?hl=en)
+- [Unmasking Insubordination](https://mwi.usma.edu/unmasking-insubordination/)
 - [Read “Data and Reality”](https://buttondown.email/hillelwayne/archive/why-you-should-read-data-and-reality/)
 - [Red Teaming Language Models with Language Models](https://deepmind.com/research/publications/2022/Red-Teaming-Language-Models-with-Language-Models)
-- [Jay Powell traded during blackout period; failed to disclose most trade dates](https://occupythefed.substack.com/p/fed-scandal-bigger-than-watergate)
 - [Peter Thiel to step down from Meta’s board](https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html)
-- [Vue 3 as the New Default](https://blog.vuejs.org/posts/vue-3-as-the-new-default.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
