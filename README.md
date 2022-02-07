@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Thank You, Valve](https://kinduff.com/2022/02/06/thank-you-valve/)
+- [Ask HN: How can I calculate my market value?](https://news.ycombinator.com/item?id=30244146)
 - [Fleek &lpar;YC W22&rpar; Is Hiring](https://news.ycombinator.com/item?id=30243606)
-- [Digital Signal Processing in Modern Communication Systems](http://signal-processing.net/)
-- [The Crypto Backlash Is Booming](https://www.theatlantic.com/technology/archive/2022/02/crypto-nft-web3-internet-future/621479/)
-- [The End of Uber with Cory Doctorow](https://thewaroncars.org/transcript-episode-79-the-end-of-uber-with-cory-doctorow/)
-- [Lego has changed since we were kids &lpar;2014&rpar;](https://www.todaysparent.com/blogs/9-ways-lego-has-changed-since-we-were-kids/)
+- [Ask HN: Does the world need a “passport equality” movement?](https://news.ycombinator.com/item?id=30243302)
+- [Nim vs Rust Benchmarks](https://programming-language-benchmarks.vercel.app/nim-vs-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
