@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Moonshot Brands &lpar;YC W21&rpar; Is Hiring](https://moonshotbrands.breezy.hr/p/8d057efe0230-chief-technology-officer-cto)
-- [IRS to Ditch Biometric Requirement for Online Access](https://krebsonsecurity.com/2022/02/irs-to-ditch-biometric-requirement-for-online-access/)
-- [Recruiters lying about salary? Is this just me or is it getting out of control?](https://news.ycombinator.com/item?id=30250719)
-- [You can change your number](https://signal.org/blog/change-number/)
-- [Artist uses AI to fake 70s science fiction pulp covers – artwork and titles](https://cdm.link/2022/02/artist-uses-ai-to-perfectly-fake-70s-science-fiction-pulp-covers-artwork-and-titles/)
+- [Read “Data and Reality”](https://buttondown.email/hillelwayne/archive/why-you-should-read-data-and-reality/)
+- [Red Teaming Language Models with Language Models](https://deepmind.com/research/publications/2022/Red-Teaming-Language-Models-with-Language-Models)
+- [Jay Powell traded during blackout period; failed to disclose most trade dates](https://occupythefed.substack.com/p/fed-scandal-bigger-than-watergate)
+- [Peter Thiel to step down from Meta’s board](https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html)
+- [Vue 3 as the New Default](https://blog.vuejs.org/posts/vue-3-as-the-new-default.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
