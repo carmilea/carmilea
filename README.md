@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Where do you find your sense of purpose working in the private sector?](https://news.ycombinator.com/item?id=30258065)
-- [Exposing a web service with Cloudflare Tunnel](https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/)
-- [Show HN: Three Magic Words, a five-letter word game that isn’t Wordle](https://www.threemagicwords.app/play/)
-- [Show HN: An AI program to check videos for NSFW content](https://github.com/dynamite-ready/movie-parser)
-- [RankScience &lpar;YC W17&rpar; Is Hiring a Head of Content Marketing &lpar;Remote&rpar;](https://www.rankscience.com/jobs)
+- [Apple unveils contactless payments via Tap to Pay on iPhone](https://www.apple.com/newsroom/2022/02/apple-unveils-contactless-payments-via-tap-to-pay-on-iphone/)
+- [An Ancient Geometry Problem Falls to New Mathematical Techniques](https://www.quantamagazine.org/an-ancient-geometry-problem-falls-to-new-mathematical-techniques-20220208/)
+- [Django: Reformatted code with Black](https://github.com/django/django/pull/15387)
+- [MadMax: Analyzing the Out-of-Gas World of Smart Contracts &lpar;2020&rpar;](https://cacm.acm.org/magazines/2020/10/247600-madmax/fulltext)
+- [Show HN: Tally Forms – A free Typeform alternative](https://tally.so/?ref=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
