@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [RankScience &lpar;YC W17&rpar; Is Hiring a Head of Content Marketing &lpar;Remote&rpar;](https://www.rankscience.com/jobs)
+- [The Plausibly Deniable DataBase &lpar;PDDB&rpar;](https://www.bunniestudios.com/blog/?p=6307)
 - [Garage, our self-hosted distributed object storage solution](https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/)
 - [When the Stagnation Goes Virtual](https://palladiummag.com/2022/01/21/when-the-stagnation-goes-virtual/)
 - [Tell HN: Stack Exchange &lpar;Stack Overflow&rpar; is now blocking Tor](https://news.ycombinator.com/item?id=30256016)
-- [I would like a job writing Haskell](https://blog.plover.com/2022/02/07/)
-- [Ask HN: Neurodiversity/ADHD Friendly Companies](https://news.ycombinator.com/item?id=30255923)
 <!-- BLOG-POST-LIST:END -->
 
 ---
