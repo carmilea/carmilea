@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Garage, our self-hosted distributed object storage solution](https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/)
 - [When the Stagnation Goes Virtual](https://palladiummag.com/2022/01/21/when-the-stagnation-goes-virtual/)
 - [Tell HN: Stack Exchange &lpar;Stack Overflow&rpar; is now blocking Tor](https://news.ycombinator.com/item?id=30256016)
 - [I would like a job writing Haskell](https://blog.plover.com/2022/02/07/)
 - [Ask HN: Neurodiversity/ADHD Friendly Companies](https://news.ycombinator.com/item?id=30255923)
-- [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Senior Web Developer &lpar;Paris, Remote ± 1h&rpar;](https://jobs.lever.co/photoroom/1486369c-3123-49ea-9686-7ee828880997)
 <!-- BLOG-POST-LIST:END -->
 
 ---
