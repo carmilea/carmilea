@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Udacity dark pattern to cancel a subscription](https://news.ycombinator.com/item?id=30253785)
 - [MHDDoS – DDoS Attack Script with 36 Method](https://github.com/MHProDev/MHDDoS)
 - [Can no longer view websites on smart display](https://support.google.com/assistant/thread/146642658/can-no-longer-view-websites-on-smart-display?hl=en)
 - [Finding the average of two unsigned integers without overflow](https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223)
-- [Fire in the sky: a history of meteoritics](https://engelsbergideas.com/essays/fire-in-the-sky-a-history-of-meteoritics/)
-- [KDE: A Nice Tiling Environment and a Surprisingly Awesome DE](https://changelog.complete.org/archives/10338-kde-a-nice-tiling-envieonment-and-a-surprisingly-awesome-de)
+- [In underground waterways, an endangered ecosystem](https://undark.org/2022/02/07/in-underground-waterways-an-endangered-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
