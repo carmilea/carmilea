@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Every M1 Mac is due for a 2022 refresh with faster M2 chip, new designs](https://www.macworld.com/article/612350/apple-planning-to-upgrade-every-m1-mac-in-2022.html)
+- [Justice Dept. announces $3.6B crypto seizure, 2 arrests](https://apnews.com/article/cryptocurrency-stolen-arrest-7e83f7188e8e1580e9678d8a47d6ab32)
+- [PDEs You Should Know](https://www.lucaspauker.com/pdes)
 - [You cannot police misinformation in a fair, reproducible, and representative way](https://twitter.com/dnunan79/status/1491072159393148929)
-- [Intel, once king of microchips, is now far behind competitors](https://newslus.com/commentary-intel-as-soon-as-king-of-microchips-is-now-far-behind-opponents/)
 - [Hello, Dynaboard](https://dynaboard.com/blog/hello-dynaboard)
-- [Are modules without imports “considered harmful”?](https://c3.handmade.network/blog/p/8337-are_modules_without_imports_considered_harmful)
-- [Two arrested for alleged conspiracy to launder $4.5B in stolen cryptocurrency](https://www.justice.gov/opa/pr/two-arrested-alleged-conspiracy-launder-45-billion-stolen-cryptocurrency)
 <!-- BLOG-POST-LIST:END -->
 
 ---
