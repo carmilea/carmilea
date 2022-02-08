@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Gyroflow: Advanced open-source gyro-assisted video stabilization](https://gyroflow.xyz/)
+- [Peloton replaces CEO and lays off 2,800 people](https://www.cbc.ca/news/business/peloton-ceo-john-foley-1.6343537)
+- [Stripe is partnering with Apple to enable Tap to Pay on iPhone](https://twitter.com/patrickc/status/1491066192089722880)
 - [Apple unveils contactless payments via Tap to Pay on iPhone](https://www.apple.com/newsroom/2022/02/apple-unveils-contactless-payments-via-tap-to-pay-on-iphone/)
 - [An Ancient Geometry Problem Falls to New Mathematical Techniques](https://www.quantamagazine.org/an-ancient-geometry-problem-falls-to-new-mathematical-techniques-20220208/)
-- [Django: Reformatted code with Black](https://github.com/django/django/pull/15387)
-- [MadMax: Analyzing the Out-of-Gas World of Smart Contracts &lpar;2020&rpar;](https://cacm.acm.org/magazines/2020/10/247600-madmax/fulltext)
-- [Show HN: Tally Forms – A free Typeform alternative](https://tally.so/?ref=hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
