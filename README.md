@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Every M1 Mac is due for a 2022 refresh with faster M2 chip, new designs](https://www.macworld.com/article/612350/apple-planning-to-upgrade-every-m1-mac-in-2022.html)
-- [Justice Dept. announces $3.6B crypto seizure, 2 arrests](https://apnews.com/article/cryptocurrency-stolen-arrest-7e83f7188e8e1580e9678d8a47d6ab32)
-- [PDEs You Should Know](https://www.lucaspauker.com/pdes)
-- [You cannot police misinformation in a fair, reproducible, and representative way](https://twitter.com/dnunan79/status/1491072159393148929)
-- [Hello, Dynaboard](https://dynaboard.com/blog/hello-dynaboard)
+- [NetBeez &lpar;YC W16&rpar; Is Hiring a React.js Engineer [Remote &lpar;US&rpar;, Contract to Hire]](https://netbeez.bamboohr.com/jobs/view.php?id=21&source=aWQ9MjM%3D)
+- [9,200 Tree Species Likely Still Undiscovered](https://news.umich.edu/number-of-earths-tree-species-estimated-to-be-14-higher-than-currently-known-with-some-9200-species-yet-to-be-discovered/)
+- [Atari asks for help finding developer of mysterious 2600 game &lpar;Aquaventure&rpar;](https://venturebeat.com/2022/02/08/atari-asks-gamers-for-help-finding-developer-of-mysterious-2600-game/)
+- [Lego Ideas Boeing 747 Cockpit Achieves 10k Supporters](https://www.thebrickfan.com/lego-ideas-boeing-747-cockpit-achieves-10000-supporters/)
+- [Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
