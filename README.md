@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [We’re Fine Without Facebook, German and French Ministers Say [Bloomberg]](https://archive.fo/sPVCu)
+- [Ask HN: Where do you find your sense of purpose working in the private sector?](https://news.ycombinator.com/item?id=30258065)
+- [Exposing a web service with Cloudflare Tunnel](https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/)
+- [Show HN: Three Magic Words, a five-letter word game that isn’t Wordle](https://www.threemagicwords.app/play/)
 - [Show HN: An AI program to check videos for NSFW content](https://github.com/dynamite-ready/movie-parser)
 - [RankScience &lpar;YC W17&rpar; Is Hiring a Head of Content Marketing &lpar;Remote&rpar;](https://www.rankscience.com/jobs)
-- [Tesla cut a steering component from some cars, didn’t tell customers](https://www.cnbc.com/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html)
-- [The Plausibly Deniable DataBase &lpar;PDDB&rpar;](https://www.bunniestudios.com/blog/?p=6307)
 <!-- BLOG-POST-LIST:END -->
 
 ---
