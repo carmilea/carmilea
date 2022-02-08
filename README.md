@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Texas power crisis revealed flaw in market’s design](https://news.cornell.edu/stories/2022/02/texas-power-crisis-revealed-flaw-markets-design)
 - [NetBeez &lpar;YC W16&rpar; Is Hiring a React.js Engineer [Remote &lpar;US&rpar;, Contract to Hire]](https://netbeez.bamboohr.com/jobs/view.php?id=21&source=aWQ9MjM%3D)
+- [The unlimited storage that Google promised my university is being discontinued](https://twitter.com/bwjones/status/1490802506628145153)
 - [9,200 Tree Species Likely Still Undiscovered](https://news.umich.edu/number-of-earths-tree-species-estimated-to-be-14-higher-than-currently-known-with-some-9200-species-yet-to-be-discovered/)
 - [Atari asks for help finding developer of mysterious 2600 game &lpar;Aquaventure&rpar;](https://venturebeat.com/2022/02/08/atari-asks-gamers-for-help-finding-developer-of-mysterious-2600-game/)
-- [Lego Ideas Boeing 747 Cockpit Achieves 10k Supporters](https://www.thebrickfan.com/lego-ideas-boeing-747-cockpit-achieves-10000-supporters/)
-- [Heuristics that almost always work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
