@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The Waste Land](https://www.nybooks.com/articles/2022/02/24/the-waste-land-sewage-treatment/)
+- [CR+LF Has a Long History](https://www.revk.uk/2022/02/crlf-has-long-history.html)
+- [Tell HN: You can see your vouched and flagged items](https://news.ycombinator.com/item?id=30253799)
 - [Tell HN: Udacity dark pattern to cancel a subscription](https://news.ycombinator.com/item?id=30253785)
-- [MHDDoS – DDoS Attack Script with 36 Method](https://github.com/MHProDev/MHDDoS)
-- [Can no longer view websites on smart display](https://support.google.com/assistant/thread/146642658/can-no-longer-view-websites-on-smart-display?hl=en)
 - [Finding the average of two unsigned integers without overflow](https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223)
-- [In underground waterways, an endangered ecosystem](https://undark.org/2022/02/07/in-underground-waterways-an-endangered-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
