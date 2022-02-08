@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Google pushes update to Lenovo Smart Display to disable viewing websites](https://support.google.com/assistant/thread/146642658/can-no-longer-view-websites-on-smart-display?hl=en)
-- [Unmasking Insubordination](https://mwi.usma.edu/unmasking-insubordination/)
-- [Read “Data and Reality”](https://buttondown.email/hillelwayne/archive/why-you-should-read-data-and-reality/)
-- [Red Teaming Language Models with Language Models](https://deepmind.com/research/publications/2022/Red-Teaming-Language-Models-with-Language-Models)
-- [Peter Thiel to step down from Meta’s board](https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html)
+- [MHDDoS – DDoS Attack Script with 36 Method](https://github.com/MHProDev/MHDDoS)
+- [Can no longer view websites on smart display](https://support.google.com/assistant/thread/146642658/can-no-longer-view-websites-on-smart-display?hl=en)
+- [Finding the average of two unsigned integers without overflow](https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223)
+- [Fire in the sky: a history of meteoritics](https://engelsbergideas.com/essays/fire-in-the-sky-a-history-of-meteoritics/)
+- [KDE: A Nice Tiling Environment and a Surprisingly Awesome DE](https://changelog.complete.org/archives/10338-kde-a-nice-tiling-envieonment-and-a-surprisingly-awesome-de)
 <!-- BLOG-POST-LIST:END -->
 
 ---
