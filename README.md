@@ -55,7 +55,7 @@
 - [9,200 Tree Species Likely Still Undiscovered](https://news.umich.edu/number-of-earths-tree-species-estimated-to-be-14-higher-than-currently-known-with-some-9200-species-yet-to-be-discovered/)
 - [Atari asks for help finding developer of mysterious 2600 game &lpar;Aquaventure&rpar;](https://venturebeat.com/2022/02/08/atari-asks-gamers-for-help-finding-developer-of-mysterious-2600-game/)
 - [Lego Ideas Boeing 747 Cockpit Achieves 10k Supporters](https://www.thebrickfan.com/lego-ideas-boeing-747-cockpit-achieves-10000-supporters/)
-- [Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work)
+- [Heuristics that almost always work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
