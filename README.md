@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [When the Stagnation Goes Virtual](https://palladiummag.com/2022/01/21/when-the-stagnation-goes-virtual/)
+- [Tell HN: Stack Exchange &lpar;Stack Overflow&rpar; is now blocking Tor](https://news.ycombinator.com/item?id=30256016)
+- [I would like a job writing Haskell](https://blog.plover.com/2022/02/07/)
 - [Ask HN: Neurodiversity/ADHD Friendly Companies](https://news.ycombinator.com/item?id=30255923)
 - [PhotoRoom &lpar;YC S20&rpar; Is Hiring a Senior Web Developer &lpar;Paris, Remote ± 1h&rpar;](https://jobs.lever.co/photoroom/1486369c-3123-49ea-9686-7ee828880997)
-- [More Doorbell Adventures](https://mjg59.dreamwidth.org/56917.html)
-- [Wine bricks saved the U.S. wine industry during Prohibition](https://vinepair.com/wine-blog/how-wine-bricks-saved-the-u-s-wine-industry-during-prohibition/)
-- [SoftBank&#39;s Sale of Arm to Nvidia Collapses, Arm to IPO](https://www.reuters.com/business/softbanks-66-bln-sale-arm-nvidia-collapses-ft-2022-02-08/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
