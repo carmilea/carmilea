@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [You cannot police misinformation in a fair, reproducible, and representative way](https://twitter.com/dnunan79/status/1491072159393148929)
+- [Intel, once king of microchips, is now far behind competitors](https://newslus.com/commentary-intel-as-soon-as-king-of-microchips-is-now-far-behind-opponents/)
 - [Hello, Dynaboard](https://dynaboard.com/blog/hello-dynaboard)
 - [Are modules without imports “considered harmful”?](https://c3.handmade.network/blog/p/8337-are_modules_without_imports_considered_harmful)
-- [Show HN: Never have an SSL certificate expire again](https://www.haveibeenexpired.com)
 - [Two arrested for alleged conspiracy to launder $4.5B in stolen cryptocurrency](https://www.justice.gov/opa/pr/two-arrested-alleged-conspiracy-launder-45-billion-stolen-cryptocurrency)
-- [Zendar &lpar;YC S17&rpar; Is Hiring Platform Engineering Manager](https://zendar.breezy.hr/p/a5536887620f-platform-engineering-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
