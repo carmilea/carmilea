@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Two Arrested for Alleged Conspiracy to Launder $4.5B in Stolen Cryptocurrency](https://www.justice.gov/opa/pr/two-arrested-alleged-conspiracy-launder-45-billion-stolen-cryptocurrency)
+- [Zendar &lpar;YC S17&rpar; Is Hiring Platform Engineering Manager](https://zendar.breezy.hr/p/a5536887620f-platform-engineering-manager)
+- [Laravel 9 is Now Released](https://laravel-news.com/laravel-9-released)
 - [Gyroflow: Advanced open-source gyro-assisted video stabilization](https://gyroflow.xyz/)
 - [Peloton replaces CEO and lays off 2,800 people](https://www.cbc.ca/news/business/peloton-ceo-john-foley-1.6343537)
-- [Stripe is partnering with Apple to enable Tap to Pay on iPhone](https://twitter.com/patrickc/status/1491066192089722880)
-- [Apple unveils contactless payments via Tap to Pay on iPhone](https://www.apple.com/newsroom/2022/02/apple-unveils-contactless-payments-via-tap-to-pay-on-iphone/)
-- [An Ancient Geometry Problem Falls to New Mathematical Techniques](https://www.quantamagazine.org/an-ancient-geometry-problem-falls-to-new-mathematical-techniques-20220208/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
