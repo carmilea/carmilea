@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists raise alarm over ‘dangerously fast’ growth in atmospheric methane](https://www.nature.com/articles/d41586-022-00312-2)
 - [Selenium may explain brain boost from exercise](https://www.science.org/content/article/widely-available-supplement-may-explain-brain-boost-exercise)
 - [Wine bricks saved the U.S. wine industry during Prohibition](https://vinepair.com/wine-blog/how-wine-bricks-saved-the-u-s-wine-industry-during-prohibition/)
 - [SoftBank&#39;s Sale of Arm to Nvidia Collapses, Arm to IPO](https://www.reuters.com/business/softbanks-66-bln-sale-arm-nvidia-collapses-ft-2022-02-08/)
 - [CR+LF Has a Long History](https://www.revk.uk/2022/02/crlf-has-long-history.html)
-- [Tell HN: You can see your vouched and flagged items](https://news.ycombinator.com/item?id=30253799)
 <!-- BLOG-POST-LIST:END -->
 
 ---
