@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Our User-Mode WireGuard Year](https://fly.io/blog/our-user-mode-wireguard-year/)
-- [Ask HN: I am not a competitive guy, how will it affect my career?](https://news.ycombinator.com/item?id=30275825)
-- [A Man Who Tried to Redeem the World with Logic &lpar;2015&rpar;](https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-2885/)
-- [Words known better by males than females, and vice versa](https://observablehq.com/@yurivish/words)
-- [The data are clear: The boys are not all right](https://www.washingtonpost.com/opinions/2022/02/08/andrew-yang-boys-are-not-all-right/)
+- [Grad school is worse for public health than STDs &lpar;2019&rpar;](https://www.benkuhn.net/grad/)
+- [Sikorsky X-Wing](https://www.sikorskyarchives.com/X-WING.php)
+- [WinAmp Community Update Project](https://getwacup.com/)
+- [Apple’s profit is always the priority–no matter the cost](https://www.macworld.com/article/613085/apples-app-store-policies-prove-that-money-is-the-top-priority.html)
+- [My CEO’s rating on Glassdoor is so bad that all we are getting are shitty hires](https://old.reddit.com/r/cscareerquestions/comments/sofqaq/my_ceos_rating_on_glassdoor_is_so_bad_that_all_we/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
