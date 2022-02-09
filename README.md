@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Are Product Hunt&#39;s featured products still online today?](https://www.scrapingbee.com/blog/producthunt-cemetery/)
+- [Launch HN: Pelm &lpar;YC W22&rpar; – Plaid for Utilities](https://www.pelm.com/)
 - [ASCII art for semantic code commenting](https://asciiflow.com/#/)
 - [TikTok shares your data more than any other app and it’s unclear where it goes](https://www.cnbc.com/2022/02/08/tiktok-shares-your-data-more-than-any-other-social-media-app-study.html)
-- [Safari: Point to specific bugs and missing support that frustrate you](https://twitter.com/jensimmons/status/1491064075987873792)
-- [I decided to build a nine-bit computer](https://madned.substack.com/p/holy-nonads-a-nine-bit-computer)
-- [Data misreporting during the COVID19 crisis: The role of political institutions](https://www.sciencedirect.com/science/article/pii/S016517652200043X)
+- [Rome Formatter and Rust Update](https://rome.tools/blog/2022/02/08/rome-formatter-and-rust-update)
 <!-- BLOG-POST-LIST:END -->
 
 ---
