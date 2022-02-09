@@ -51,8 +51,8 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is ADHD Real?](https://news.ycombinator.com/item?id=30270829)
 - [Open Textbook Initiative from the American Institute of Mathematics](https://aimath.org/textbooks/approved-textbooks/)
-- [Ask HN: What Has Happened to Twitter?](https://news.ycombinator.com/item?id=30270379)
 - [Open Salary and Equity Database](https://topstartups.io)
 - [SigNoz &lpar;YC W21&rpar; Is Hiring Developer Advocate for Its Open Source APM Product](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-developer-advocate)
 - [Spinal implants allow paralysed people to walk, swim and cycle again](https://www.economist.com/science-and-technology/spinal-implants-allow-paralysed-people-to-walk-swim-and-cycle-again/21807596)
