@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Early ‘lab-grown’ Covid virus found in sample lends weight to Wuhan theory](https://www.telegraph.co.uk/news/2022/02/09/early-lab-grown-covid-virus-found-sample-lends-weight-wuhan/)
+- [Why Netflix Will Falter](https://tedgioia.substack.com/p/why-netflix-will-falter)
+- [Simutrans – Transport Simulator](https://www.simutrans.com/en/)
 - [Tesorio &lpar;YC S15&rpar; is hiring a Senior DevOps to join our fully distributed team](https://www.tesorio.com/careers#job-openings)
-- [Interview Questions to Ask Your Interviewer](https://daveceddia.com/interview-questions-to-ask-company/)
-- [The performative quality of computer-generated art](https://hyperallergic.com/710156/appreciating-the-performative-quality-of-computer-generated-art/)
-- [This needs some heavy checking... &lpar;line 1029&rpar;](https://github.com/torvalds/linux/blob/f4bc5bbb5fef3cf421ba3485d6d383c27ec473ed/kernel/sys.c)
-- [Grad school is worse for public health than STDs &lpar;2019&rpar;](https://www.benkuhn.net/grad/)
+- [Last call to voluntarily migrate Java accounts](https://www.minecraft.net/en-us/article/last-call-voluntarily-migrate-java-accounts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
