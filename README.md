@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [New Story &lpar;YC S15&rpar; Is Hiring a CFO](https://jobs.lever.co/newstory/cff5336f-adb1-4497-99fb-d827609224d1)
-- [Single Dependency Stacks](https://brandur.org/fragments/single-dependency-stacks)
-- [Could we please get back the master-branch on this repository?](https://github.com/fsnotify/fsnotify/issues/426)
-- [Are Product Hunt&#39;s featured products still online today?](https://www.scrapingbee.com/blog/producthunt-cemetery/)
-- [Launch HN: Pelm &lpar;YC W22&rpar; – Plaid for Utilities](https://www.pelm.com/)
+- [My best estimate is gas stoves decrease life expectancy by 53 days on average](https://dynomight.net/stoves/)
+- [Our User Mode WireGuard Year](https://fly.io/blog/our-user-mode-wireguard-year/)
+- [A Man Who Tried to Redeem the World with Logic &lpar;2015&rpar;](https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-2885/)
+- [AI Dreaming of Edgar Allan Poe&#39;s The Raven](https://twitter.com/stayfun_/status/1491463999120187399)
+- [Words known better by males than females, and vice versa](https://observablehq.com/@yurivish/words)
 <!-- BLOG-POST-LIST:END -->
 
 ---
