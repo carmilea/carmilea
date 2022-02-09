@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Early ‘lab-grown’ Covid virus found in sample lends weight to Wuhan theory](https://www.telegraph.co.uk/news/2022/02/09/early-lab-grown-covid-virus-found-sample-lends-weight-wuhan/)
-- [Why Netflix Will Falter](https://tedgioia.substack.com/p/why-netflix-will-falter)
 - [Simutrans – Transport Simulator](https://www.simutrans.com/en/)
 - [Tesorio &lpar;YC S15&rpar; is hiring a Senior DevOps to join our fully distributed team](https://www.tesorio.com/careers#job-openings)
 - [Last call to voluntarily migrate Java accounts](https://www.minecraft.net/en-us/article/last-call-voluntarily-migrate-java-accounts)
+- [Interview questions to ask your interviewer](https://daveceddia.com/interview-questions-to-ask-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
