@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Accidental implosion yields new measurement for ocean&#39;s deepest point](https://www.nationalgeographic.com/science/article/accidental-implosion-yields-new-measurement-for-oceans-deepest-point)
+- [Thousands of Mazdas in the Seattle area are stuck on a single FM radio station](https://www.kuow.org/stories/we-didn-t-mean-to-ruin-your-mazda-s-stereo)
+- [Telegram Became the Anti-Facebook](https://www.wired.com/story/how-telegram-became-anti-facebook/)
 - [Starlink lost 40 satellites to a geomagnetic storm](https://www.spacex.com/updates/)
 - [Show HN: PgCat, Postgres pooler with sharding, load balancing and failover](https://github.com/levkk/pgcat)
-- [Why is the Zoom app listening on my microphone when not in a meeting?](https://community.zoom.com/t5/Meetings/Why-is-the-Zoom-app-listening-on-my-microphone-when-not-in-a/td-p/29019)
-- [7 Keys to Delivering a Seamless Streaming Experience for This Year’s Big Game](https://www.singlestore.com/blog/7-keys-to-delivering-a-seamless-streaming-experience-for-this-years-big-game)
-- [A Lonely Universe](https://inference-review.com/article/a-lonely-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
