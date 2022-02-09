@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [ASCII art for semantic code commenting](https://asciiflow.com/#/)
+- [TikTok shares your data more than any other app and it’s unclear where it goes](https://www.cnbc.com/2022/02/08/tiktok-shares-your-data-more-than-any-other-social-media-app-study.html)
+- [Safari: Point to specific bugs and missing support that frustrate you](https://twitter.com/jensimmons/status/1491064075987873792)
 - [I decided to build a nine-bit computer](https://madned.substack.com/p/holy-nonads-a-nine-bit-computer)
-- [European researchers achieve fusion energy record](https://www.euro-fusion.org/news/2022/european-researchers-achieve-fusion-energy-record/)
-- [The dangers of high status, low wage jobs](https://economistwritingeveryday.com/2022/02/07/the-dangers-of-high-status-low-wage-jobs/)
-- [The urine revolution: how recycling pee could help to save the world](https://www.nature.com/articles/d41586-022-00338-6)
-- [Landing a new syscall, part 1: What is futex?](https://www.collabora.com/news-and-blog/blog/2022/02/08/landing-a-new-syscall-part-what-is-futex/)
+- [Data misreporting during the COVID19 crisis: The role of political institutions](https://www.sciencedirect.com/science/article/pii/S016517652200043X)
 <!-- BLOG-POST-LIST:END -->
 
 ---
