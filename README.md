@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [New Story &lpar;YC S15&rpar; Is Hiring a CFO](https://jobs.lever.co/newstory/cff5336f-adb1-4497-99fb-d827609224d1)
+- [Single Dependency Stacks](https://brandur.org/fragments/single-dependency-stacks)
+- [Could we please get back the master-branch on this repository?](https://github.com/fsnotify/fsnotify/issues/426)
 - [Are Product Hunt&#39;s featured products still online today?](https://www.scrapingbee.com/blog/producthunt-cemetery/)
 - [Launch HN: Pelm &lpar;YC W22&rpar; – Plaid for Utilities](https://www.pelm.com/)
-- [ASCII art for semantic code commenting](https://asciiflow.com/#/)
-- [TikTok shares your data more than any other app and it’s unclear where it goes](https://www.cnbc.com/2022/02/08/tiktok-shares-your-data-more-than-any-other-social-media-app-study.html)
-- [Rome Formatter and Rust Update](https://rome.tools/blog/2022/02/08/rome-formatter-and-rust-update)
 <!-- BLOG-POST-LIST:END -->
 
 ---
