@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [I decided to build a nine-bit computer](https://madned.substack.com/p/holy-nonads-a-nine-bit-computer)
+- [European researchers achieve fusion energy record](https://www.euro-fusion.org/news/2022/european-researchers-achieve-fusion-energy-record/)
 - [The dangers of high status, low wage jobs](https://economistwritingeveryday.com/2022/02/07/the-dangers-of-high-status-low-wage-jobs/)
 - [The urine revolution: how recycling pee could help to save the world](https://www.nature.com/articles/d41586-022-00338-6)
 - [Landing a new syscall, part 1: What is futex?](https://www.collabora.com/news-and-blog/blog/2022/02/08/landing-a-new-syscall-part-what-is-futex/)
-- [Oxford&#39;s JET lab smashes nuclear fusion energy output record](https://www.bbc.com/news/science-environment-60312633)
-- [Oxford&#39;s JET lab smashes nuclear fusion energy output record](https://www.bbc.co.uk/news/science-environment-60312633)
 <!-- BLOG-POST-LIST:END -->
 
 ---
