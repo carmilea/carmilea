@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Starlink lost 40 satellites to a geomagnetic storm](https://www.spacex.com/updates/)
+- [Show HN: PgCat, Postgres pooler with sharding, load balancing and failover](https://github.com/levkk/pgcat)
 - [Why is the Zoom app listening on my microphone when not in a meeting?](https://community.zoom.com/t5/Meetings/Why-is-the-Zoom-app-listening-on-my-microphone-when-not-in-a/td-p/29019)
+- [7 Keys to Delivering a Seamless Streaming Experience for This Year’s Big Game](https://www.singlestore.com/blog/7-keys-to-delivering-a-seamless-streaming-experience-for-this-years-big-game)
 - [A Lonely Universe](https://inference-review.com/article/a-lonely-universe)
-- [Tesla FSD Beta Lunges Toward Bicyclist](https://twitter.com/omedyentral/status/1491146820097298433)
-- [The Kelly criterion: How to size bets &lpar;2019&rpar;](https://explore.paulbutler.org/bet/)
-- [What driveling times are these! Georgian grumblings on an age of decline](https://www.laphamsquarterly.org/roundtable/what-driveling-times-are-these)
 <!-- BLOG-POST-LIST:END -->
 
 ---
