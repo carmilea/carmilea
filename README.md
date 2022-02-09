@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Is ADHD Real?](https://news.ycombinator.com/item?id=30270829)
-- [Open Textbook Initiative from the American Institute of Mathematics](https://aimath.org/textbooks/approved-textbooks/)
-- [Open Salary and Equity Database](https://topstartups.io)
-- [SigNoz &lpar;YC W21&rpar; Is Hiring Developer Advocate for Its Open Source APM Product](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-developer-advocate)
-- [Spinal implants allow paralysed people to walk, swim and cycle again](https://www.economist.com/science-and-technology/spinal-implants-allow-paralysed-people-to-walk-swim-and-cycle-again/21807596)
+- [Oxford&#39;s JET lab smashes nuclear fusion energy output record](https://www.bbc.com/news/science-environment-60312633)
+- [Oxford&#39;s JET lab smashes nuclear fusion energy output record](https://www.bbc.co.uk/news/science-environment-60312633)
+- [Mednet &lpar;YC W17&rpar; Is Hiring](https://www.ycombinator.com/companies/mednet/jobs/Oc4ZB2b-senior-backend-engineer-for-stack-overflow-for-doctors)
+- [Open Textbook Initiative](https://aimath.org/textbooks/)
+- [Ask HN: What Has Happened to Twitter?](https://news.ycombinator.com/item?id=30270379)
 <!-- BLOG-POST-LIST:END -->
 
 ---
