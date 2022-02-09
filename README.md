@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [My best estimate is gas stoves decrease life expectancy by 53 days on average](https://dynomight.net/stoves/)
-- [Our User Mode WireGuard Year](https://fly.io/blog/our-user-mode-wireguard-year/)
+- [Our User-Mode WireGuard Year](https://fly.io/blog/our-user-mode-wireguard-year/)
+- [Ask HN: I am not a competitive guy, how will it affect my career?](https://news.ycombinator.com/item?id=30275825)
 - [A Man Who Tried to Redeem the World with Logic &lpar;2015&rpar;](https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-2885/)
-- [AI Dreaming of Edgar Allan Poe&#39;s The Raven](https://twitter.com/stayfun_/status/1491463999120187399)
 - [Words known better by males than females, and vice versa](https://observablehq.com/@yurivish/words)
+- [The data are clear: The boys are not all right](https://www.washingtonpost.com/opinions/2022/02/08/andrew-yang-boys-are-not-all-right/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
