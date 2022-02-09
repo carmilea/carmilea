@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [SigNoz &lpar;YC W21&rpar; Is Hiring Developer Advocate for Its Open Source APM Product](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-developer-advocate)
+- [UK.gov to make adults give credit card details for access to Facebook or TikTok](https://www.theregister.com/2022/02/08/age_verification_for_social_media_ukgov_plans/)
 - [Surviving the front page of Hacker News on a 50 Mbps uplink](https://ounapuu.ee/posts/2022/02/09/hn-stats-analytics/)
 - [Accidental implosion yields new measurement for ocean&#39;s deepest point](https://www.nationalgeographic.com/science/article/accidental-implosion-yields-new-measurement-for-oceans-deepest-point)
 - [Thousands of Mazdas in the Seattle area are stuck on a single FM radio station](https://www.kuow.org/stories/we-didn-t-mean-to-ruin-your-mazda-s-stereo)
-- [Telegram Became the Anti-Facebook](https://www.wired.com/story/how-telegram-became-anti-facebook/)
-- [Starlink lost 40 satellites to a geomagnetic storm](https://www.spacex.com/updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
