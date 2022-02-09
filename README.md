@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Does Anyone else working in a crypto company feel this is all a scam?](https://news.ycombinator.com/item?id=30268807)
 - [Accidental implosion yields new measurement for ocean&#39;s deepest point](https://www.nationalgeographic.com/science/article/accidental-implosion-yields-new-measurement-for-oceans-deepest-point)
-- [Thousands of Mazdas in the Seattle area are stuck on a single FM radio station](https://www.kuow.org/stories/we-didn-t-mean-to-ruin-your-mazda-s-stereo)
+- [Thousands of mazdas in the Seattle area are stuck on a single fm radio station](https://www.kuow.org/stories/we-didn-t-mean-to-ruin-your-mazda-s-stereo)
 - [Telegram Became the Anti-Facebook](https://www.wired.com/story/how-telegram-became-anti-facebook/)
 - [Starlink lost 40 satellites to a geomagnetic storm](https://www.spacex.com/updates/)
-- [Show HN: PgCat, Postgres pooler with sharding, load balancing and failover](https://github.com/levkk/pgcat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
