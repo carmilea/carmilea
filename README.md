@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Textbook Initiative from the American Institute of Mathematics](https://aimath.org/textbooks/approved-textbooks/)
+- [Ask HN: What Has Happened to Twitter?](https://news.ycombinator.com/item?id=30270379)
 - [Open Salary and Equity Database](https://topstartups.io)
 - [SigNoz &lpar;YC W21&rpar; Is Hiring Developer Advocate for Its Open Source APM Product](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-developer-advocate)
-- [UK.gov to make adults give credit card details for access to Facebook or TikTok](https://www.theregister.com/2022/02/08/age_verification_for_social_media_ukgov_plans/)
 - [Spinal implants allow paralysed people to walk, swim and cycle again](https://www.economist.com/science-and-technology/spinal-implants-allow-paralysed-people-to-walk-swim-and-cycle-again/21807596)
-- [Surviving the front page of Hacker News on a 50 Mbps uplink](https://ounapuu.ee/posts/2022/02/09/hn-stats-analytics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
