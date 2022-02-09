@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas power crisis revealed flaw in market’s design](https://news.cornell.edu/stories/2022/02/texas-power-crisis-revealed-flaw-markets-design)
-- [NetBeez &lpar;YC W16&rpar; Is Hiring a React.js Engineer [Remote &lpar;US&rpar;, Contract to Hire]](https://netbeez.bamboohr.com/jobs/view.php?id=21&source=aWQ9MjM%3D)
-- [The unlimited storage that Google promised my university is being discontinued](https://twitter.com/bwjones/status/1490802506628145153)
-- [9,200 Tree Species Likely Still Undiscovered](https://news.umich.edu/number-of-earths-tree-species-estimated-to-be-14-higher-than-currently-known-with-some-9200-species-yet-to-be-discovered/)
-- [Atari asks for help finding developer of mysterious 2600 game &lpar;Aquaventure&rpar;](https://venturebeat.com/2022/02/08/atari-asks-gamers-for-help-finding-developer-of-mysterious-2600-game/)
+- [Why is the Zoom app listening on my microphone when not in a meeting?](https://community.zoom.com/t5/Meetings/Why-is-the-Zoom-app-listening-on-my-microphone-when-not-in-a/td-p/29019)
+- [A Lonely Universe](https://inference-review.com/article/a-lonely-universe)
+- [Tesla FSD Beta Lunges Toward Bicyclist](https://twitter.com/omedyentral/status/1491146820097298433)
+- [The Kelly criterion: How to size bets &lpar;2019&rpar;](https://explore.paulbutler.org/bet/)
+- [What driveling times are these! Georgian grumblings on an age of decline](https://www.laphamsquarterly.org/roundtable/what-driveling-times-are-these)
 <!-- BLOG-POST-LIST:END -->
 
 ---
