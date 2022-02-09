@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The dangers of high status, low wage jobs](https://economistwritingeveryday.com/2022/02/07/the-dangers-of-high-status-low-wage-jobs/)
+- [The urine revolution: how recycling pee could help to save the world](https://www.nature.com/articles/d41586-022-00338-6)
+- [Landing a new syscall, part 1: What is futex?](https://www.collabora.com/news-and-blog/blog/2022/02/08/landing-a-new-syscall-part-what-is-futex/)
 - [Oxford&#39;s JET lab smashes nuclear fusion energy output record](https://www.bbc.com/news/science-environment-60312633)
 - [Oxford&#39;s JET lab smashes nuclear fusion energy output record](https://www.bbc.co.uk/news/science-environment-60312633)
-- [Mednet &lpar;YC W17&rpar; Is Hiring](https://www.ycombinator.com/companies/mednet/jobs/Oc4ZB2b-senior-backend-engineer-for-stack-overflow-for-doctors)
-- [Open Textbook Initiative](https://aimath.org/textbooks/)
-- [Ask HN: What Has Happened to Twitter?](https://news.ycombinator.com/item?id=30270379)
 <!-- BLOG-POST-LIST:END -->
 
 ---
