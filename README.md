@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter is down 10.4% since IPO in 2013](https://www.google.com/finance/quote/TWTR:NYSE)
-- [France to Build Six New Nuclear Reactors](https://www.politico.eu/article/france-to-build-6-new-nuclear-reactors/)
-- [How to Load 100 Billion Rows of Data Ultrafast](https://www.singlestore.com/blog/how-to-load-100-billion-rows-of-data-ultrafast)
-- [Twitter misses ad revenue and user growth estimates](https://www.reuters.com/technology/twitter-misses-ad-revenue-user-growth-estimates-revenue-forecast-light-2022-02-10/)
-- [Show HN: EdgeDB 1.0](https://www.edgedb.com/blog/edgedb-1-0)
+- [Qvin &lpar;YC W16&rpar; Is Hiring a Women&#39;s Health D2C Product Lead](https://boards.greenhouse.io/qvin/jobs/4943736003)
+- [Procrastination That Works](http://www.structuredprocrastination.com/)
+- [Text is not the enemy: How illiterates use their mobile phones](https://www.researchgate.net/publication/266595198_Text_is_not_the_enemy_How_illiterates%27_use_their_mobile_phones)
+- [Cross Polarised Scanning on a Shoe String Budget &lpar;2017&rpar;](https://adamspring.co.uk/2017/12/17/cross-polarised-scanning-shoe-string-photogrammetry/)
+- [Twenty Years of C# with Anders Hejlsberg [audio]](https://www.dotnetrocks.com/?show=1780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
