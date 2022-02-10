@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily chart: A new low for global democracy](https://www.economist.com/graphic-detail/2022/02/09/a-new-low-for-global-democracy)
+- [TRS-80 Personal Stories](https://www.trs-80.com/wordpress/personal-stories/)
 - [10 Years of Nukemap](http://blog.nuclearsecrecy.com/2022/02/03/10-years-of-nukemap/)
 - [Lock-In and Multi-Cloud](https://www.tbray.org/ongoing/When/202x/2022/01/30/Cloud-Lock-In)
 - [JetBlue A320 tail strike on takeoff, B350 in opposite direction](https://avherald.com/h?article=4f3b0864)
-- [Show HN: Redirect your customers from your marketing page to your app](https://news.ycombinator.com/item?id=30281537)
-- [Words known better in the US than in the UK, and vice versa](https://observablehq.com/@yurivish/more-words)
 <!-- BLOG-POST-LIST:END -->
 
 ---
