@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Police fatally shot 1,055 people in 2021, highest total since tracking began](https://www.washingtonpost.com/investigations/2022/02/09/fatal-police-shootings-record-2021/)
+- [Modern human incursion into Neanderthal territories 54,000 years ago at Mandrin](http://dx.doi.org/10.1126/sciadv.abj9496)
+- [Node.js adds support for direct registry-less HTTPS imports](https://github.com/nodejs/node/pull/36328)
+- [Inflation rises 7.5% over past year, more than expected and highest since 1982](https://www.cnbc.com/2022/02/10/january-2022-cpi-inflation-rises-7point5percent-over-the-past-year-even-more-than-expected.html)
 - [Western Digital says contamination impacting production at Japanese facilities](https://www.reuters.com/business/western-digital-says-contamination-impacting-production-japanese-facilities-2022-02-10/)
-- [Covid-19 takes serious toll on heart health–a full year after recovery](https://www.science.org/content/article/covid-19-takes-serious-toll-heart-health-full-year-after-recovery)
-- [Every employee who leaves Apple becomes an ‘associate’](https://www.washingtonpost.com/technology/2022/02/10/apple-associate/)
-- [Is This the End of the Cannonball Run?](https://www.atlasobscura.com/articles/cannonball-run-cross-country-racing)
-- [BBC cryptocurrency documentary pulled from air at last minute](https://www.theguardian.com/media/2022/feb/10/bbc-cryptocurrency-documentary-pulled-from-air-at-last-minute)
 <!-- BLOG-POST-LIST:END -->
 
 ---
