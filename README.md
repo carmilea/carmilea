@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Police fatally shot 1,055 people in 2021, highest total since tracking began](https://www.washingtonpost.com/investigations/2022/02/09/fatal-police-shootings-record-2021/)
-- [Modern human incursion into Neanderthal territories 54,000 years ago at Mandrin](http://dx.doi.org/10.1126/sciadv.abj9496)
-- [Node.js adds support for direct registry-less HTTPS imports](https://github.com/nodejs/node/pull/36328)
-- [Inflation rises 7.5% over past year, more than expected and highest since 1982](https://www.cnbc.com/2022/02/10/january-2022-cpi-inflation-rises-7point5percent-over-the-past-year-even-more-than-expected.html)
-- [Western Digital says contamination impacting production at Japanese facilities](https://www.reuters.com/business/western-digital-says-contamination-impacting-production-japanese-facilities-2022-02-10/)
+- [U.S. Inflation Accelerates to 40-Year High](https://www.wsj.com/articles/us-inflation-consumer-price-index-january-2022-11644452274)
+- [An Interactive Introduction to A* &lpar;and other pathfinding algorithms&rpar;](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+- [Telegram now censoring channels in Germany for “violating local laws”](https://netzpolitik.org/2022/nach-gespraechen-mit-bundesregierung-telegram-sperrt-erstmals-kanaele-in-deutschland-wegen-lokalen-gesetzesverstoessen/)
+- [Policy CLI – “Docker” for your OPA policies](https://www.openpolicyregistry.io/blog/docker-workflow-for-opa/)
+- [uBlock Origin Release 1.41.0](https://github.com/gorhill/uBlock/releases/tag/1.41.0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
