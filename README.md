@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Is This the End of the Cannonball Run?](https://www.atlasobscura.com/articles/cannonball-run-cross-country-racing)
+- [BBC cryptocurrency documentary pulled from air at last minute](https://www.theguardian.com/media/2022/feb/10/bbc-cryptocurrency-documentary-pulled-from-air-at-last-minute)
+- [Imaginary Numbers Are Reality](https://nautil.us/imaginary-numbers-are-reality-13999/)
 - [Padlet &lpar;YC W13&rpar; Is Hiring Senior Elixir Engineers in San Francisco](https://jobs.lever.co/padlet/02f3b926-4260-4e4a-b1b2-4d0104d75cc8)
-- [New Map of Meaning in the Brain Changes Ideas About Memory](https://www.quantamagazine.org/new-map-of-meaning-in-the-brain-changes-ideas-about-memory-20220208/)
-- [New web hacking techniques](https://portswigger.net/research/top-10-web-hacking-techniques-of-2021)
-- [SSH into your private machines from anywhere, for free, using Cloudflare Tunnel](https://orth.uk/ssh-over-cloudflare/)
-- [Peloton – A call for action [pdf]](https://www.blackwellscap.com/wp-content/uploads/2022/02/BW_Peloton_Presentation_Feb072022.pdf)
+- [CNIL &lpar;France&rpar; decides EU-US data transfer to Google Analytics illegal](https://noyb.eu/en/update-cnil-decides-eu-us-data-transfer-google-analytics-illegal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
