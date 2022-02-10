@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Years of Nukemap](http://blog.nuclearsecrecy.com/2022/02/03/10-years-of-nukemap/)
 - [Lock-In and Multi-Cloud](https://www.tbray.org/ongoing/When/202x/2022/01/30/Cloud-Lock-In)
 - [JetBlue A320 tail strike on takeoff, B350 in opposite direction](https://avherald.com/h?article=4f3b0864)
 - [Show HN: Redirect your customers from your marketing page to your app](https://news.ycombinator.com/item?id=30281537)
-- [The Goat Boy Rises &lpar;1993&rpar;](https://www.newyorker.com/magazine/1993/11/01/the-goat-boy-rises)
-- [Universe &lpar;YC W18&rpar; Is Hiring Growth and BizOps People](https://news.ycombinator.com/item?id=30281116)
+- [Words known better in the US than in the UK, and vice versa](https://observablehq.com/@yurivish/more-words)
 <!-- BLOG-POST-LIST:END -->
 
 ---
