@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Western Digital says contamination impacting production at Japanese facilities](https://www.reuters.com/business/western-digital-says-contamination-impacting-production-japanese-facilities-2022-02-10/)
+- [Covid-19 takes serious toll on heart health–a full year after recovery](https://www.science.org/content/article/covid-19-takes-serious-toll-heart-health-full-year-after-recovery)
+- [Every employee who leaves Apple becomes an ‘associate’](https://www.washingtonpost.com/technology/2022/02/10/apple-associate/)
 - [Is This the End of the Cannonball Run?](https://www.atlasobscura.com/articles/cannonball-run-cross-country-racing)
 - [BBC cryptocurrency documentary pulled from air at last minute](https://www.theguardian.com/media/2022/feb/10/bbc-cryptocurrency-documentary-pulled-from-air-at-last-minute)
-- [Imaginary Numbers Are Reality](https://nautil.us/imaginary-numbers-are-reality-13999/)
-- [Padlet &lpar;YC W13&rpar; Is Hiring Senior Elixir Engineers in San Francisco](https://jobs.lever.co/padlet/02f3b926-4260-4e4a-b1b2-4d0104d75cc8)
-- [CNIL &lpar;France&rpar; decides EU-US data transfer to Google Analytics illegal](https://noyb.eu/en/update-cnil-decides-eu-us-data-transfer-google-analytics-illegal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
