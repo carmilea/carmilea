@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [We sound like idiots when we talk about technical debt](https://www.cyclic.sh/posts/we-sound-like-idiots-when-we-talk-about-technical-debt)
+- [New Map of Meaning in the Brain Changes Ideas About Memory](https://www.quantamagazine.org/new-map-of-meaning-in-the-brain-changes-ideas-about-memory-20220208/)
 - [Top web hacking techniques used in 2021](https://portswigger.net/research/top-10-web-hacking-techniques-of-2021)
+- [SSH into your private machines from anywhere, for free, using Cloudflare Tunnel](https://orth.uk/ssh-over-cloudflare/)
 - [Amazing deck on what &lpar;pre-layoff&rpar; Peloton looked like to their investors [pdf]](https://www.blackwellscap.com/wp-content/uploads/2022/02/BW_Peloton_Presentation_Feb072022.pdf)
-- [Phantom: Persistent Operating System](https://github.com/dzavalishin/phantomuserland)
-- [Life, school, and the 80/20 rule](https://xsrus.com/life-school-and-the-80-20-rule)
-- [Light to moderate coffee consumption is associated with lower risk of death](https://pubmed.ncbi.nlm.nih.gov/35048949/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
