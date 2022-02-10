@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter misses ad revenue and user growth estimates](https://www.reuters.com/technology/twitter-misses-ad-revenue-user-growth-estimates-revenue-forecast-light-2022-02-10/)
+- [Show HN: EdgeDB 1.0](https://www.edgedb.com/blog/edgedb-1-0)
+- [Have We Been Thinking about Inflation All Wrong?](https://thewalrus.ca/have-we-been-thinking-about-inflation-all-wrong/)
 - [A look inside the chips that powered the landmark Polaroid SX-70 instant camera](https://www.righto.com/2022/02/a-look-inside-chips-that-powered.html)
 - [Attacking an Ethereum L2 with Unbridled Optimism](https://www.saurik.com/optimism.html)
-- [Union54 &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/union54/jobs/PUv7dPT-senior-back-end-engineer)
-- [Ray Tracing for the TI-84 CE](https://github.com/TheScienceElf/TI-84-CE-Raytracing)
-- [Computer scientists prove why bigger neural networks do better](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
