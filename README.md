@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Early ‘lab-grown’ Covid virus found in sample lends weight to Wuhan theory](https://www.telegraph.co.uk/news/2022/02/09/early-lab-grown-covid-virus-found-sample-lends-weight-wuhan/)
-- [Simutrans – Transport Simulator](https://www.simutrans.com/en/)
-- [Tesorio &lpar;YC S15&rpar; is hiring a Senior DevOps to join our fully distributed team](https://www.tesorio.com/careers#job-openings)
-- [Last call to voluntarily migrate Java accounts](https://www.minecraft.net/en-us/article/last-call-voluntarily-migrate-java-accounts)
-- [Interview questions to ask your interviewer](https://daveceddia.com/interview-questions-to-ask-company/)
+- [Universe &lpar;YC W18&rpar; Is Hiring Growth and BizOps People](https://news.ycombinator.com/item?id=30281116)
+- [Incomplete history of Forbes.com as a platform for scams, grift, bad journalism](https://www.niemanlab.org/2022/02/an-incomplete-history-of-forbes-com-as-a-platform-for-scams-grift-and-bad-journalism/)
+- [Racket v8.4](https://blog.racket-lang.org/2022/02/racket-v8-4.html)
+- [CSS Aspect Ratio Is Great](https://css-irl.info/aspect-ratio-is-great/)
+- [Did HAL Commit Murder?](https://thereader.mitpress.mit.edu/when-hal-kills-computer-ethics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
