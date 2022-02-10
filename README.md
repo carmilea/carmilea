@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [JetBlue A320 tail strike on takeoff, B350 in opposite direction](https://avherald.com/h?article=4f3b0864)
+- [Show HN: Redirect your customers from your marketing page to your app](https://news.ycombinator.com/item?id=30281537)
+- [The Goat Boy Rises &lpar;1993&rpar;](https://www.newyorker.com/magazine/1993/11/01/the-goat-boy-rises)
 - [Universe &lpar;YC W18&rpar; Is Hiring Growth and BizOps People](https://news.ycombinator.com/item?id=30281116)
 - [Incomplete history of Forbes.com as a platform for scams, grift, bad journalism](https://www.niemanlab.org/2022/02/an-incomplete-history-of-forbes-com-as-a-platform-for-scams-grift-and-bad-journalism/)
-- [The Black Hole Photographs: Censored Images from America’s Great Depression](https://flashbak.com/weird-black-hole-photographs-58283/)
-- [Racket 8.4](https://blog.racket-lang.org/2022/02/racket-v8-4.html)
-- [Aspect-ratio is great](https://css-irl.info/aspect-ratio-is-great/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
