@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Universe &lpar;YC W18&rpar; Is Hiring Growth and BizOps People](https://news.ycombinator.com/item?id=30281116)
 - [Incomplete history of Forbes.com as a platform for scams, grift, bad journalism](https://www.niemanlab.org/2022/02/an-incomplete-history-of-forbes-com-as-a-platform-for-scams-grift-and-bad-journalism/)
-- [Racket v8.4](https://blog.racket-lang.org/2022/02/racket-v8-4.html)
-- [CSS Aspect Ratio Is Great](https://css-irl.info/aspect-ratio-is-great/)
-- [Did HAL Commit Murder?](https://thereader.mitpress.mit.edu/when-hal-kills-computer-ethics/)
+- [The Black Hole Photographs: Censored Images from America’s Great Depression](https://flashbak.com/weird-black-hole-photographs-58283/)
+- [Racket 8.4](https://blog.racket-lang.org/2022/02/racket-v8-4.html)
+- [Aspect-ratio is great](https://css-irl.info/aspect-ratio-is-great/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
