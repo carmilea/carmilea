@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [A look inside the chips that powered the landmark Polaroid SX-70 instant camera](https://www.righto.com/2022/02/a-look-inside-chips-that-powered.html)
+- [Attacking an Ethereum L2 with Unbridled Optimism](https://www.saurik.com/optimism.html)
 - [Union54 &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/union54/jobs/PUv7dPT-senior-back-end-engineer)
 - [Ray Tracing for the TI-84 CE](https://github.com/TheScienceElf/TI-84-CE-Raytracing)
-- [U.S. Inflation Accelerates to 40-Year High](https://www.wsj.com/articles/us-inflation-consumer-price-index-january-2022-11644452274)
-- [Computer Scientists Prove Why Bigger Neural Networks Do Better](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
-- [Introduction to the A* Algorithm &lpar;2014&rpar;](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+- [Computer scientists prove why bigger neural networks do better](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
