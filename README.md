@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [TRS-80 Personal Stories](https://www.trs-80.com/wordpress/personal-stories/)
-- [Samsung Galaxy S22 Ultra](https://www.samsung.com/au/smartphones/galaxy-s22-ultra/)
-- [10 Years of Nukemap](http://blog.nuclearsecrecy.com/2022/02/03/10-years-of-nukemap/)
-- [Lock-In and Multi-Cloud](https://www.tbray.org/ongoing/When/202x/2022/01/30/Cloud-Lock-In)
-- [JetBlue A320 tail strike on takeoff, B350 in opposite direction](https://avherald.com/h?article=4f3b0864)
+- [Top web hacking techniques used in 2021](https://portswigger.net/research/top-10-web-hacking-techniques-of-2021)
+- [Amazing deck on what &lpar;pre-layoff&rpar; Peloton looked like to their investors [pdf]](https://www.blackwellscap.com/wp-content/uploads/2022/02/BW_Peloton_Presentation_Feb072022.pdf)
+- [Phantom: Persistent Operating System](https://github.com/dzavalishin/phantomuserland)
+- [Life, school, and the 80/20 rule](https://xsrus.com/life-school-and-the-80-20-rule)
+- [Light to moderate coffee consumption is associated with lower risk of death](https://pubmed.ncbi.nlm.nih.gov/35048949/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
