@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Union54 &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/union54/jobs/PUv7dPT-senior-back-end-engineer)
+- [Ray Tracing for the TI-84 CE](https://github.com/TheScienceElf/TI-84-CE-Raytracing)
 - [U.S. Inflation Accelerates to 40-Year High](https://www.wsj.com/articles/us-inflation-consumer-price-index-january-2022-11644452274)
-- [An Interactive Introduction to A* &lpar;and other pathfinding algorithms&rpar;](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
-- [Telegram now censoring channels in Germany for “violating local laws”](https://netzpolitik.org/2022/nach-gespraechen-mit-bundesregierung-telegram-sperrt-erstmals-kanaele-in-deutschland-wegen-lokalen-gesetzesverstoessen/)
-- [Policy CLI – “Docker” for your OPA policies](https://www.openpolicyregistry.io/blog/docker-workflow-for-opa/)
-- [uBlock Origin Release 1.41.0](https://github.com/gorhill/uBlock/releases/tag/1.41.0)
+- [Computer Scientists Prove Why Bigger Neural Networks Do Better](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
+- [Introduction to the A* Algorithm &lpar;2014&rpar;](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
