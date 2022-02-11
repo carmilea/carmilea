@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Building real-time ETL pipelines with Apache Kafka](https://datacater.io/blog/2022-02-11/etl-pipeline-with-apache-kafka.html)
-- [An Optimization Story](https://tinkering.xyz/fmo-optimization-story/)
-- [How to know if you’re addicted](https://psyche.co/guides/how-to-know-if-youre-addicted-to-alcohol-or-drugs)
-- [I used Apple AirTags, Tiles and a GPS tracker to watch my husband’s every move](https://www.nytimes.com/2022/02/11/technology/airtags-gps-surveillance.html)
-- [Code execution as root via AT commands on the Quectel EG25-G modem &lpar;2021&rpar;](https://nns.ee/blog/2021/04/03/modem-rce.html)
+- [Show HN: Windi – knowledge management and sharing platform based on short notes](https://windi.app/)
+- [IBM Plex Typeface](https://www.ibm.com/plex/)
+- [The Factorio Mindset](https://www.thediff.co/p/the-factorio-mindset)
+- [Two Sparsities Are Better Than One:Performance Benefits of Sparse-Sparse Network](https://arxiv.org/abs/2112.13896)
+- [An Infinitely Large Napkin [pdf]](https://venhance.github.io/napkin/Napkin.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
