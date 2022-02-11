@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Yunit Inc &lpar;YC W22&rpar; is hiring a senior iOS developer](https://yunit.notion.site/Hiring-Alert-Senior-iOS-Engineer-421ae988d1b34f91aee3103f011d5002)
-- [Phone number has been used too many times](https://support.google.com/accounts/thread/27577851/this-phone-number-has-been-used-too-many-times?hl=en)
-- [Show HN: LiveViewJS – TypeScript back end for LiveView Apps &lpar;Phoenix LiveView&rpar;](https://github.com/floodfx/liveviewjs)
-- [Show HN: Windi – knowledge management and sharing platform based on short notes](https://windi.app/)
-- [The Factorio Mindset](https://www.thediff.co/p/the-factorio-mindset)
+- [Twitter seems to have some problems](https://downdetector.in/status/twitter/)
+- [CVE-2022-0435: A Remote Stack Overflow in the Linux Kernel](https://www.openwall.com/lists/oss-security/2022/02/10/1)
+- [LaserShark: Establish Fast, Bidirectional Communication into Air-Gapped Systems](https://intellisec.de/research/lasershark/)
+- [Twitter Problems?](https://news.ycombinator.com/item?id=30304053)
+- [How Fresh Grads with Zero Experience Get Hired as Senior Engineers](https://blog.kuperate.com/how-fresh-grads-who-have-never-coded-anything-of-significance-get-sold-as-senior-engineers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
