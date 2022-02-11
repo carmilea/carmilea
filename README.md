@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit &lpar;YC W18&rpar; Is Hiring Engineers to Make Delightful Programming Environments](https://replit.com/careers)
+- [MirageOS 3.0.0](https://mirage.io/blog/announcing-mirage-30-release)
 - [YSFlight – The only free flight simulator where anything is possible](https://ysflight.org/)
 - [Switching Rich Text Editors, Part 1: Picking Tiptap](https://www.ashbyhq.com/blog/company/tiptap-part-1)
-- [Nike.com&#39;s robots.txt](https://www.nike.com/robots.txt)
-- [Google&#39;s advertising tech targeted in European publishers&#39; complaint](https://www.reuters.com/technology/googles-advertising-tech-targeted-european-publishers-complaint-2022-02-11/)
-- [GPT-3&#39;s answers to arithmetic questions](https://gist.github.com/moyix/ca4091f16f0b5011bfa8f3f97f705a0d)
+- [Migrating from Netlify to Cloudflare Workers Sites for 2x Performance &lpar;2020&rpar;](https://brianli.com/migrating-from-netlify-to-cloudflare-workers-sites-for-2x-performance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
