@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Tim O&#39;Reilly on Web3: “Get ready for the crash”](https://www.cbsnews.com/news/web3-cryptocurrency-nft-tim-oreilly/)
+- [Launch HN: Anja Health &lpar;YC W22&rpar; – Freezing stem cells at birth for future health](https://anjahealth.com)
+- [Mozilla Partners with Meta on Privacy Preserving Attribution for Advertising](https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/)
 - [Show HN: MemSafeCrypto, Java cryptography primitives using DirectByteBuffer](https://github.com/andy-goryachev/MemSafeCrypto)
 - [CVE-2022-0435: A Remote Stack Overflow in the Linux Kernel](https://www.openwall.com/lists/oss-security/2022/02/10/1)
-- [LaserShark: Establish Fast, Bidirectional Communication into Air-Gapped Systems](https://intellisec.de/research/lasershark/)
-- [How fresh grads with zero experience get hired as senior engineers](https://blog.kuperate.com/how-fresh-grads-who-have-never-coded-anything-of-significance-get-sold-as-senior-engineers/)
+- [Lasershark: Fast, bidirectional communication into air-gapped systems](https://intellisec.de/research/lasershark/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
