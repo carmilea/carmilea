@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ask HN: Why do I get robocalls from recently-called area codes?](https://news.ycombinator.com/item?id=30307425)
 - [An Introduction to Deno: Is It Better Than Node.js?](https://blog.appsignal.com/2022/02/09/an-introduction-to-deno-is-it-better-than-nodejs.html)
-- [Lock the Doors: Remembering Columbia&#39;s Final Homecoming, OTD in 2003](https://www.americaspace.com/2020/02/01/lock-the-doors-remembering-columbias-final-homecoming-otd-in-2003/)
+- [Lock the doors: Remembering Columbia&#39;s final homecoming &lpar;2020&rpar;](https://www.americaspace.com/2020/02/01/lock-the-doors-remembering-columbias-final-homecoming-otd-in-2003/)
 - [DevCycle &lpar;YC W14&rpar; is hiring](https://jobs.lever.co/taplytics)
-- [Police hacking with Pegasus of key Netanyahu trial witness explodes into scandal](https://www.debka.com/police-hacking-of-key-netanyahu-trial-witness-explodes-into-full-blown-scandal/)
+- [A new programming language for high-performance computers](https://news.mit.edu/2022/new-programming-language-high-performance-computers-0207)
 <!-- BLOG-POST-LIST:END -->
 
 ---
