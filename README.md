@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [DevCycle &lpar;YC W14&rpar; is helping teams crush their DORA metrics – come join](https://devcycle.com)
+- [Hypertension: Is It Time to Replace Drugs with Nutrition? &lpar;2014&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3989080/)
+- [Google Project Zero hails dramatic acceleration in security bug remediation](https://portswigger.net/daily-swig/google-project-zero-hails-dramatic-acceleration-in-security-bug-remediation)
+- [A new programming language for high-performance computers](https://news.mit.edu/2022/new-programming-language-high-performance-computers-0207)
 - [Launch HN: Anja Health &lpar;YC W22&rpar; – Freezing stem cells at birth for future health](https://anjahealth.com)
-- [Mozilla Partners with Meta on Privacy Preserving Attribution for Advertising](https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/)
-- [Show HN: MemSafeCrypto, Java cryptography primitives using DirectByteBuffer](https://github.com/andy-goryachev/MemSafeCrypto)
-- [CVE-2022-0435: A Remote Stack Overflow in the Linux Kernel](https://www.openwall.com/lists/oss-security/2022/02/10/1)
-- [Lasershark: Fast, bidirectional communication into air-gapped systems](https://intellisec.de/research/lasershark/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
