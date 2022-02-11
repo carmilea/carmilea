@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Atlas &lpar;YC W22&rpar; Is Hiring – UIUX Designer](https://www.ycombinator.com/companies/atlas/jobs/jYQdJWU-uiux-designer)
 - [Case against OOP is understated, not overstated &lpar;2020&rpar;](https://boxbase.org/entries/2020/aug/3/case-against-oop/)
+- [Australian spy agency disrupts foreign election interference](https://mainichi.jp/english/articles/20220210/p2g/00m/0in/042000c)
 - [Wordle Now Redirects to NYT](https://news.ycombinator.com/item?id=30293297)
 - [Cloudflare announces fourth quarter and fiscal year 2021 financial results](https://cloudflare.net/news/news-details/2022/Cloudflare-Announces-Fourth-Quarter-and-Fiscal-Year-2021-Financial-Results/default.aspx)
-- [Qvin &lpar;YC W16&rpar; Is Hiring a Women&#39;s Health D2C Product Lead](https://boards.greenhouse.io/qvin/jobs/4943736003)
-- [Structured Procrastination &lpar;1995&rpar;](http://www.structuredprocrastination.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
