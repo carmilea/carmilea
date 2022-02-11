@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [osmf: A simple command-line tool to explore OSM data](https://github.com/codesoap/osmf)
+- [Turbine “torture” for Greek islanders as wind farms proliferate](https://www.channelnewsasia.com/sustainability/greece-island-evia-wind-turbines-torture-residents-2492426)
 - [Replit &lpar;YC W18&rpar; Is Hiring Engineers to Make Delightful Programming Environments](https://replit.com/careers)
 - [MirageOS 3.0.0](https://mirage.io/blog/announcing-mirage-30-release)
 - [YSFlight – The only free flight simulator where anything is possible](https://ysflight.org/)
-- [Switching Rich Text Editors, Part 1: Picking Tiptap](https://www.ashbyhq.com/blog/company/tiptap-part-1)
-- [Migrating from Netlify to Cloudflare Workers Sites for 2x Performance &lpar;2020&rpar;](https://brianli.com/migrating-from-netlify-to-cloudflare-workers-sites-for-2x-performance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
