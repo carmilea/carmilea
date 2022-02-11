@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter seems to have some problems](https://downdetector.in/status/twitter/)
+- [Tim O&#39;Reilly on Web3: “Get ready for the crash”](https://www.cbsnews.com/news/web3-cryptocurrency-nft-tim-oreilly/)
+- [Show HN: MemSafeCrypto, Java cryptography primitives using DirectByteBuffer](https://github.com/andy-goryachev/MemSafeCrypto)
 - [CVE-2022-0435: A Remote Stack Overflow in the Linux Kernel](https://www.openwall.com/lists/oss-security/2022/02/10/1)
 - [LaserShark: Establish Fast, Bidirectional Communication into Air-Gapped Systems](https://intellisec.de/research/lasershark/)
-- [Twitter Problems?](https://news.ycombinator.com/item?id=30304053)
-- [How Fresh Grads with Zero Experience Get Hired as Senior Engineers](https://blog.kuperate.com/how-fresh-grads-who-have-never-coded-anything-of-significance-get-sold-as-senior-engineers/)
+- [How fresh grads with zero experience get hired as senior engineers](https://blog.kuperate.com/how-fresh-grads-who-have-never-coded-anything-of-significance-get-sold-as-senior-engineers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
