@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: 50x50.space a public board to doodle together](https://50x50.space)
+- [New plant-derived composite is tough as bone and hard as aluminum](https://news.mit.edu/2022/plant-derived-composite-0210)
 - [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/)
 - [Troubleshooting a Hairy PostgreSQL Incident - War Story](https://ardentperf.com/2022/02/10/a-hairy-postgresql-incident/)
 - [Key senators have voted for the anti-encryption EARN IT act](https://www.eff.org/deeplinks/2022/02/key-senators-have-voted-anti-encryption-earn-it-act)
-- [Chess Minigames for Enjoyable Learning [pdf]](https://andytrattner.com/img/pdf/enjoy-chess.pdf)
-- [The Invention of Battlezone &lpar;1982&rpar;](https://spectrum.ieee.org/battlezone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
