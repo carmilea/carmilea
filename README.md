@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The future of education looks a lot like TikTok and Twitter](https://superduperserious.substack.com/p/virtual-education-zoom-lectures)
+- [Ask HN: What should I do with my unused 1Gig internet?](https://news.ycombinator.com/item?id=30296501)
+- [Troubleshooting a Hairy PostgreSQL Incident - War Story](https://ardentperf.com/2022/02/10/a-hairy-postgresql-incident/)
+- [Key senators have voted for the anti-encryption EARN IT act](https://www.eff.org/deeplinks/2022/02/key-senators-have-voted-anti-encryption-earn-it-act)
 - [Starship Update](https://www.youtube.com/watch?v=3N7L8Xhkzqo)
-- [Chess Minigames for Enjoyable Learning [pdf]](https://andytrattner.com/img/pdf/enjoy-chess.pdf)
-- [The Invention of Battlezone](https://spectrum.ieee.org/battlezone)
-- [Newly Declassified Docs Reveal Previously Secret CIA Bulk Collection](https://www.wyden.senate.gov/news/press-releases/wyden-and-heinrich-newly-declassified-documents-reveal-previously-secret-cia-bulk-collection-problems-with-cia-handling-of-americans-information)
-- [Atlas &lpar;YC W22&rpar; Is Hiring – UIUX Designer](https://www.ycombinator.com/companies/atlas/jobs/jYQdJWU-uiux-designer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
