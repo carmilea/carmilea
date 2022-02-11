@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The future of education looks a lot like TikTok and Twitter](https://superduperserious.substack.com/p/virtual-education-zoom-lectures)
-- [Ask HN: What should I do with my unused 1Gig internet?](https://news.ycombinator.com/item?id=30296501)
+- [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/)
 - [Troubleshooting a Hairy PostgreSQL Incident - War Story](https://ardentperf.com/2022/02/10/a-hairy-postgresql-incident/)
 - [Key senators have voted for the anti-encryption EARN IT act](https://www.eff.org/deeplinks/2022/02/key-senators-have-voted-anti-encryption-earn-it-act)
-- [Starship Update](https://www.youtube.com/watch?v=3N7L8Xhkzqo)
+- [Chess Minigames for Enjoyable Learning [pdf]](https://andytrattner.com/img/pdf/enjoy-chess.pdf)
+- [The Invention of Battlezone &lpar;1982&rpar;](https://spectrum.ieee.org/battlezone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
