@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Should I give my employer all my medical records?](https://news.ycombinator.com/item?id=30299412)
+- [YSFlight – The only free flight simulator where anything is possible](https://ysflight.org/)
+- [Switching Rich Text Editors, Part 1: Picking Tiptap](https://www.ashbyhq.com/blog/company/tiptap-part-1)
+- [Nike.com&#39;s robots.txt](https://www.nike.com/robots.txt)
+- [Google&#39;s advertising tech targeted in European publishers&#39; complaint](https://www.reuters.com/technology/googles-advertising-tech-targeted-european-publishers-complaint-2022-02-11/)
 - [GPT-3&#39;s answers to arithmetic questions](https://gist.github.com/moyix/ca4091f16f0b5011bfa8f3f97f705a0d)
-- [SNES Development Part 1: Getting Started](https://blog.wesleyac.com/posts/snes-dev-1-getting-started)
-- [Richard Feynman on meeting “great men”](https://cs.au.dk/~danvy/lafb.html)
-- [Earth-like planet spotted orbiting Sun’s closest star](https://www.nature.com/articles/d41586-022-00400-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
