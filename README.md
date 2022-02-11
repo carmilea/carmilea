@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [osmf: A simple command-line tool to explore OSM data](https://github.com/codesoap/osmf)
-- [Turbine “torture” for Greek islanders as wind farms proliferate](https://www.channelnewsasia.com/sustainability/greece-island-evia-wind-turbines-torture-residents-2492426)
-- [Replit &lpar;YC W18&rpar; Is Hiring Engineers to Make Delightful Programming Environments](https://replit.com/careers)
-- [MirageOS 3.0.0](https://mirage.io/blog/announcing-mirage-30-release)
-- [YSFlight – The only free flight simulator where anything is possible](https://ysflight.org/)
+- [Building real-time ETL pipelines with Apache Kafka](https://datacater.io/blog/2022-02-11/etl-pipeline-with-apache-kafka.html)
+- [An Optimization Story](https://tinkering.xyz/fmo-optimization-story/)
+- [How to know if you’re addicted](https://psyche.co/guides/how-to-know-if-youre-addicted-to-alcohol-or-drugs)
+- [I Used Apple AirTags, Tiles and a GPS Tracker to Watch My Husband’s Every Move](https://www.nytimes.com/2022/02/11/technology/airtags-gps-surveillance.html)
+- [Code execution as root via AT commands on the PinePhone Quectel EG25-G modem](https://nns.ee/blog/2021/04/03/modem-rce.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
