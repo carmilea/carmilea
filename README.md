@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [DevCycle &lpar;YC W14&rpar; is helping teams crush their DORA metrics – come join](https://devcycle.com)
-- [Hypertension: Is It Time to Replace Drugs with Nutrition? &lpar;2014&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3989080/)
-- [Google Project Zero hails dramatic acceleration in security bug remediation](https://portswigger.net/daily-swig/google-project-zero-hails-dramatic-acceleration-in-security-bug-remediation)
-- [A new programming language for high-performance computers](https://news.mit.edu/2022/new-programming-language-high-performance-computers-0207)
-- [Launch HN: Anja Health &lpar;YC W22&rpar; – Freezing stem cells at birth for future health](https://anjahealth.com)
+- [Ask HN: Why do I get robocalls from recently-called area codes?](https://news.ycombinator.com/item?id=30307425)
+- [An Introduction to Deno: Is It Better Than Node.js?](https://blog.appsignal.com/2022/02/09/an-introduction-to-deno-is-it-better-than-nodejs.html)
+- [Lock the Doors: Remembering Columbia&#39;s Final Homecoming, OTD in 2003](https://www.americaspace.com/2020/02/01/lock-the-doors-remembering-columbias-final-homecoming-otd-in-2003/)
+- [DevCycle &lpar;YC W14&rpar; is hiring](https://jobs.lever.co/taplytics)
+- [Police hacking with Pegasus of key Netanyahu trial witness explodes into scandal](https://www.debka.com/police-hacking-of-key-netanyahu-trial-witness-explodes-into-full-blown-scandal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
