@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Booking.com just fired thousands of people around the world](https://old.reddit.com/r/antiwork/comments/sp2e0g/bookingcom_just_fired_thousands_of_people_around/)
+- [San Francisco Is Sick](https://spectatorworld.com/topic/san-francisco-is-sick/)
 - [Heart-disease risk soars after Covid – even with a mild case](https://www.nature.com/articles/d41586-022-00403-0)
+- [Show HN: 50x50.space a public board to doodle together](https://50x50.space)
 - [New plant-derived composite is tough as bone and hard as aluminum](https://news.mit.edu/2022/plant-derived-composite-0210)
-- [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/)
-- [Troubleshooting a Hairy PostgreSQL Incident - War Story](https://ardentperf.com/2022/02/10/a-hairy-postgresql-incident/)
-- [Key senators have voted for the anti-encryption EARN IT act](https://www.eff.org/deeplinks/2022/02/key-senators-have-voted-anti-encryption-earn-it-act)
 <!-- BLOG-POST-LIST:END -->
 
 ---
