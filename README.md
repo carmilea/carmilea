@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Should I give my employer all my medical records?](https://news.ycombinator.com/item?id=30299412)
+- [GPT-3&#39;s answers to arithmetic questions](https://gist.github.com/moyix/ca4091f16f0b5011bfa8f3f97f705a0d)
+- [SNES Development Part 1: Getting Started](https://blog.wesleyac.com/posts/snes-dev-1-getting-started)
 - [Richard Feynman on meeting “great men”](https://cs.au.dk/~danvy/lafb.html)
-- [Booking.com just fired thousands of people around the world](https://old.reddit.com/r/antiwork/comments/sp2e0g/bookingcom_just_fired_thousands_of_people_around/)
-- [Heart-disease risk soars after Covid – even with a mild case](https://www.nature.com/articles/d41586-022-00403-0)
-- [Show HN: 50x50.space a public board to doodle together](https://50x50.space)
-- [New plant-derived composite is tough as bone and hard as aluminum](https://news.mit.edu/2022/plant-derived-composite-0210)
+- [Earth-like planet spotted orbiting Sun’s closest star](https://www.nature.com/articles/d41586-022-00400-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
