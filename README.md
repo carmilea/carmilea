@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Yunit Inc &lpar;YC W22&rpar; is hiring a senior iOS developer](https://yunit.notion.site/Hiring-Alert-Senior-iOS-Engineer-421ae988d1b34f91aee3103f011d5002)
+- [Phone number has been used too many times](https://support.google.com/accounts/thread/27577851/this-phone-number-has-been-used-too-many-times?hl=en)
+- [Show HN: LiveViewJS – TypeScript back end for LiveView Apps &lpar;Phoenix LiveView&rpar;](https://github.com/floodfx/liveviewjs)
 - [Show HN: Windi – knowledge management and sharing platform based on short notes](https://windi.app/)
-- [IBM Plex Typeface](https://www.ibm.com/plex/)
 - [The Factorio Mindset](https://www.thediff.co/p/the-factorio-mindset)
-- [Two Sparsities Are Better Than One:Performance Benefits of Sparse-Sparse Network](https://arxiv.org/abs/2112.13896)
-- [An Infinitely Large Napkin [pdf]](https://venhance.github.io/napkin/Napkin.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
