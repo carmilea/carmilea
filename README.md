@@ -51,7 +51,7 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: 50x50.space a public board to doodle together](https://50x50.space)
+- [Heart-disease risk soars after Covid – even with a mild case](https://www.nature.com/articles/d41586-022-00403-0)
 - [New plant-derived composite is tough as bone and hard as aluminum](https://news.mit.edu/2022/plant-derived-composite-0210)
 - [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/)
 - [Troubleshooting a Hairy PostgreSQL Incident - War Story](https://ardentperf.com/2022/02/10/a-hairy-postgresql-incident/)
