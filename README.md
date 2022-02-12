@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Nimble &lpar;YC S17&rpar; Seeks Product Designer &lpar;PT or FT, Remote&rpar;](https://news.ycombinator.com/item?id=30308933)
-- [Language Homogenization at Harvard](https://inteoryx.com/htmls/LanguageHomog.html)
-- [Building an Intelligent Emacs](https://ianyepan.github.io/posts/emacs-ide/)
-- [Transgender medicalization and the attempt to evade psychological distress](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7787368/)
-- [Lock the doors: Remembering Columbia&#39;s final homecoming &lpar;2020&rpar;](https://www.americaspace.com/2020/02/01/lock-the-doors-remembering-columbias-final-homecoming-otd-in-2003/)
+- [CAD files for the external shell &lpar;surface topology&rpar; of Steam Deck](https://gitlab.steamos.cloud/SteamDeck/hardware)
+- [Show HN: Plost – a deceptively simple plotting library](https://github.com/tvst/plost)
+- [Nimble &lpar;YC S17&rpar; seeks product designer &lpar;part-time or full-time, remote&rpar;](https://news.ycombinator.com/item?id=30308933)
+- [Blade Runner 2099 Sequel Series Coming from Ridley Scott](https://consequence.net/2022/02/ridley-scott-blade-runner-2099/)
+- [Language homogenization at Harvard](https://inteoryx.com/htmls/LanguageHomog.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
