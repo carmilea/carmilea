@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Dino 0.3: Video calls and conferences – encrypted and peer-to-peer](https://dino.im/blog/2022/02/dino-0.3-release/)
+- [Brainwashing Is Sorcery](https://www.overcomingbias.com/2022/02/brainwashing-is-sorcery.html)
+- [When Postgres blocks: tips for dealing with locks](https://www.citusdata.com/blog/2018/02/22/seven-tips-for-dealing-with-postgres-locks/)
 - [Motion &lpar;YC W20&rpar; Is Hiring a React Native Engineers](https://jobs.ashbyhq.com/motion/f421f314-f9d9-4e19-b664-af0067648faf)
-- [The Kobayashi Maru of Comparing Dates with Times](https://zachholman.com/posts/kobayashi-maru-of-comparing-dates-with-times)
-- [A disquisition into the sadly slovenly takeup of 10GBASE-T &lpar;2012&rpar;](https://www.sprezzatech.com/blog/0009-a-disquisition-into-the-sadly-slovenly-takeup-of-10gbase-t.html)
-- [Recycled silicon used in 19.7% efficient PERC solar cells](https://pv-magazine-usa.com/2022/02/07/recycled-silicon-used-in-19-7-efficient-perc-solar-cells/)
-- [GhOSt: Fast and Flexible User-Space Delegation of Linux Scheduling](https://www.micahlerner.com/2021/12/28/ghost-fast-and-flexible-user-space-delegation-of-linux-scheduling.html)
+- [If You’re So Smart, Why Aren’t You Happy?](https://nav.al/smart)
 <!-- BLOG-POST-LIST:END -->
 
 ---
