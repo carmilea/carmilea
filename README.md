@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [NanoVNA: Low-cost handheld 4GHz vector network analyzer](https://nanorfe.com/nanovna-v2.html)
+- [Can GPT-3 AI write comedy?](https://robmanuelfuckyeah.substack.com/p/someone-needs-to-stop-me-playing)
 - [Bloom Institute of Technology &lpar;YC S17&rpar; Is Hiring a Senior Salesforce Engineer](https://jobs.lever.co/BloomTech/b6130b48-dabf-4c8d-bf07-0b6614c6ae94)
-- [Discord is a black hole for information](https://knockout.chat/thread/33251/1#post-1176126)
-- [Git in one image](https://raw.githubusercontent.com/JannikArndt/git-in-one-image/master/git-in-one-image.svg)
-- [NFT marketplace shuts, citing &#39;rampant&#39; fakes, plagiarism problem](https://www.reuters.com/business/finance/nft-marketplace-shuts-citing-rampant-fakes-plagiarism-problem-2022-02-11/)
-- [All you should know about Flutter development](https://github.com/nepaul/awesome-flutter)
+- [What kind of Apple Mac did Arthur Dent have?](https://douglasadams.com/cgi-bin/mboard/info/dnathread.cgi?1546,2)
+- [Unpacking ASIC firmware: AntMiner Exploited &lpar;2019&rpar;](https://serhack.me/articles/unpacking-asic-firmware-antminer-exploited/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
