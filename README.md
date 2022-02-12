@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Putting Ideas into Words](http://paulgraham.com/words.html)
 - [Ask HN: After great HN feedback on my web page Amazon closed my account](https://news.ycombinator.com/item?id=30313169)
+- [Sustainability with Rust](https://aws.amazon.com/blogs/opensource/sustainability-with-rust/)
 - [Server-Sent Events: the alternative to WebSockets you should be using](https://germano.dev/sse-websockets/)
-- [Growing a mango tree from seed – one year time lapse [video]](https://www.youtube.com/watch?v=jh_ukt8g53c)
-- [NanoVNA: Low-cost handheld 4GHz vector network analyzer](https://nanorfe.com/nanovna-v2.html)
-- [Can GPT-3 AI write comedy?](https://robmanuelfuckyeah.substack.com/p/someone-needs-to-stop-me-playing)
+- [Why Peter Thiel Searches for Reality-Bending ‘Secrets’](https://perell.com/essay/why-peter-thiel-searches-for-reality-bending-secrets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
