@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;San Francisco / London&rpar;](https://etleap.com/jobs/#software-engineer)
+- [Nearly a third of TV ads play to empty rooms](https://news.cornell.edu/stories/2022/02/nearly-third-tv-ads-play-empty-rooms)
+- [David Rosenthal on cryptocurrencies](https://blog.dshr.org/2022/02/ee380-talk.html)
 - [Land-use changes across Europe linked to mortality during the Black Death](https://www.nature.com/articles/s41559-021-01652-4)
 - [Marijuana Accelerates Growth of HPV-Related Head and Neck Cancer &lpar;2020&rpar;](https://health.ucsd.edu/news/releases/Pages/2020-01-13-how-marijuana-accelerates-growth-of-hpv-related-head-and-neck-cancer-identified.aspx)
-- [Incident: Air Asia A320 near Kuching on Feb 10th 2022, snake on the plane](https://avherald.com/h?article=4f47cac0)
-- [Lingua-Go, the most accurate language detection for Go](https://github.com/pemistahl/lingua-go)
-- [DoltLab v0.2.0](https://www.dolthub.com/blog/2022-02-11-announcing-doltlab-v0.2.0/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
