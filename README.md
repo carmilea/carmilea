@@ -38,11 +38,11 @@
 ### 📺  YouTube Videos of Interest
 
 <!-- YOUTUBE:START -->
+- [Developer Architecture: A Primer on Distributed SQL Systems](https://www.youtube.com/watch?v=z9uoRMyNRYU)
 - [Databases and DevOps w/ Rizel Scarlett &lpar;GitHub&rpar;](https://www.youtube.com/watch?v=dSeMOp5lXos)
 - [Data Intensity with Oliver Schabenberger](https://www.youtube.com/watch?v=d2FQpiFrnBY)
 - [MySQL to SingleStore demo](https://www.youtube.com/watch?v=MypQY_rDb2g)
 - [Procedural SQL &lpar;Part 6 of 6, User-Defined Aggregate Functions&rpar;](https://www.youtube.com/watch?v=u2HTQtDltTs)
-- [Procedural SQL &lpar;Part  5 of 6, Table-Valued Functions&rpar;](https://www.youtube.com/watch?v=uTZYdIRb0aA)
 <!-- YOUTUBE:END -->
 
 
