@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Incident: Air Asia A320 near Kuching on Feb 10th 2022, snake on the plane](https://avherald.com/h?article=4f47cac0)
+- [Lingua-Go, the most accurate language detection for Go](https://github.com/pemistahl/lingua-go)
+- [DoltLab v0.2.0](https://www.dolthub.com/blog/2022-02-11-announcing-doltlab-v0.2.0/)
 - [CAD files for the external shell &lpar;surface topology&rpar; of Steam Deck](https://gitlab.steamos.cloud/SteamDeck/hardware)
 - [Show HN: Plost – a deceptively simple plotting library](https://github.com/tvst/plost)
-- [Nimble &lpar;YC S17&rpar; seeks product designer &lpar;part-time or full-time, remote&rpar;](https://news.ycombinator.com/item?id=30308933)
-- [Blade Runner 2099 Sequel Series Coming from Ridley Scott](https://consequence.net/2022/02/ridley-scott-blade-runner-2099/)
-- [Language homogenization at Harvard](https://inteoryx.com/htmls/LanguageHomog.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
