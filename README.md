@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Douglas Adams from first issue of Wired &lpar;1998&rpar;](https://douglasadams.com/dna/980707-05-a.html)
+- [Are you in a Religious Cult? Take the test](https://cult-escape.com/cult-test/)
+- [All you should know about Flutter development](https://github.com/nepaul/awesome-flutter)
+- [What have we got to lose? &lpar;1998&rpar;](https://douglasadams.com/dna/980707-05-a.html)
 - [Prefix Sum with SIMD](https://en.algorithmica.org/hpc/algorithms/prefix/)
 - [The complete idiot&#39;s guide to OpenBSD on the Pinebook Pro](https://tomscii.sig7.se/2022/02/Guide-to-OpenBSD-on-the-PinebookPro)
-- [15 of 23 Monkeys with Elon Musk’s Neuralink Brain Chips Reportedly Died](https://consequence.net/2022/02/elon-musk-neuralink-brain-chips-monkeys-died/)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;San Francisco / London&rpar;](https://etleap.com/jobs/#software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
