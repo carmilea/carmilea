@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Sci-Hub statistics and database are now available](https://sci-hub.ru/database)
-- [Signal Reflections: Why federated protocols don&#39;t work &lpar;2016&rpar;](https://signal.org/blog/the-ecosystem-is-moving/)
+- [On Dumpster Diving [pdf]](https://www.laprogram.org/docs/EighnerOnDumpsterDiving.pdf)
+- [Sci-Hub statistics and database](https://sci-hub.ru/database)
+- [Why federated protocols don&#39;t work &lpar;2016&rpar;](https://signal.org/blog/the-ecosystem-is-moving/)
 - [An unscientific benchmark of SQLite vs. the file system &lpar;btrfs&rpar;](https://github.com/chrisdavies/dbench)
-- [Evidence &lpar;YC S21&rpar; Is hiring engineers to build a web framework for data teams](https://www.workatastartup.com/jobs/49496)
-- [State of Rhombus [Programming Language]](https://github.com/racket/rhombus-prototype/blob/master/resources/state-of-rhombus.md)
+- [Evidence &lpar;YC S21&rpar; is hiring engineers to build a web framework for data teams](https://www.workatastartup.com/jobs/49496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
