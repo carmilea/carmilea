@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Putting Ideas into Words](http://paulgraham.com/words.html)
-- [Ask HN: After great HN feedback on my web page Amazon closed my account](https://news.ycombinator.com/item?id=30313169)
-- [Sustainability with Rust](https://aws.amazon.com/blogs/opensource/sustainability-with-rust/)
-- [Server-Sent Events: the alternative to WebSockets you should be using](https://germano.dev/sse-websockets/)
-- [Why Peter Thiel Searches for Reality-Bending ‘Secrets’](https://perell.com/essay/why-peter-thiel-searches-for-reality-bending-secrets/)
+- [Evidence &lpar;YC S21&rpar; Is hiring engineers to build a web framework for data teams](https://www.workatastartup.com/jobs/49496)
+- [State of Rhombus [Programming Language]](https://github.com/racket/rhombus-prototype/blob/master/resources/state-of-rhombus.md)
+- [Ask HN: Browser-extension creators, how do you write for multiple browsers?](https://news.ycombinator.com/item?id=30314053)
+- [Some Conclusions About the High Desert After 5 Months of Desert Life](https://sashachapin.substack.com/p/some-conclusions-about-the-high-desert)
+- [“Delta owes SkyMiles members $7.6B worth of travel”](https://viewfromthewing.com/5-things-delta-told-the-sec-about-its-skymiles-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
