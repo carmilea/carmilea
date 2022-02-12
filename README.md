@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Douglas Adams from first issue of Wired &lpar;1998&rpar;](https://douglasadams.com/dna/980707-05-a.html)
+- [Prefix Sum with SIMD](https://en.algorithmica.org/hpc/algorithms/prefix/)
 - [The complete idiot&#39;s guide to OpenBSD on the Pinebook Pro](https://tomscii.sig7.se/2022/02/Guide-to-OpenBSD-on-the-PinebookPro)
 - [15 of 23 Monkeys with Elon Musk’s Neuralink Brain Chips Reportedly Died](https://consequence.net/2022/02/elon-musk-neuralink-brain-chips-monkeys-died/)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;San Francisco / London&rpar;](https://etleap.com/jobs/#software-engineer)
-- [Nearly a third of TV ads play to empty rooms](https://news.cornell.edu/stories/2022/02/nearly-third-tv-ads-play-empty-rooms)
-- [Adobe XD, where did it go wrong?](https://www.goodlookingdesign.co.uk/blog/adobe-xd-where-did-it-go-wrong/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
