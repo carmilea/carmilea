@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: After great HN feedback on my web page Amazon closed my account](https://news.ycombinator.com/item?id=30313169)
+- [Server-Sent Events: the alternative to WebSockets you should be using](https://germano.dev/sse-websockets/)
 - [Growing a mango tree from seed – one year time lapse [video]](https://www.youtube.com/watch?v=jh_ukt8g53c)
 - [NanoVNA: Low-cost handheld 4GHz vector network analyzer](https://nanorfe.com/nanovna-v2.html)
 - [Can GPT-3 AI write comedy?](https://robmanuelfuckyeah.substack.com/p/someone-needs-to-stop-me-playing)
-- [Bloom Institute of Technology &lpar;YC S17&rpar; Is Hiring a Senior Salesforce Engineer](https://jobs.lever.co/BloomTech/b6130b48-dabf-4c8d-bf07-0b6614c6ae94)
-- [What kind of Apple Mac did Arthur Dent have?](https://douglasadams.com/cgi-bin/mboard/info/dnathread.cgi?1546,2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
