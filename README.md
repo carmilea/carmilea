@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Still-active phreak numbers, all safe and free](https://stormrider.io/odd-numbers.html)
-- [Webapp for comparing weather forcast providers](https://weather.simonton.app/)
-- [Pocket migration to Firefox accounts](https://support.mozilla.org/en-US/kb/pocket-firefox-account-migration)
-- [The housing market needs more condos](https://www.urban.org/urban-wire/housing-market-needs-more-condos-why-are-so-few-being-built)
-- [On Dumpster Diving &lpar;1991&rpar; [pdf]](https://www.laprogram.org/docs/EighnerOnDumpsterDiving.pdf)
+- [Motion &lpar;YC W20&rpar; Is Hiring a React Native Engineers](https://jobs.ashbyhq.com/motion/f421f314-f9d9-4e19-b664-af0067648faf)
+- [The Kobayashi Maru of Comparing Dates with Times](https://zachholman.com/posts/kobayashi-maru-of-comparing-dates-with-times)
+- [A disquisition into the sadly slovenly takeup of 10GBASE-T &lpar;2012&rpar;](https://www.sprezzatech.com/blog/0009-a-disquisition-into-the-sadly-slovenly-takeup-of-10gbase-t.html)
+- [Recycled silicon used in 19.7% efficient PERC solar cells](https://pv-magazine-usa.com/2022/02/07/recycled-silicon-used-in-19-7-efficient-perc-solar-cells/)
+- [GhOSt: Fast and Flexible User-Space Delegation of Linux Scheduling](https://www.micahlerner.com/2021/12/28/ghost-fast-and-flexible-user-space-delegation-of-linux-scheduling.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
