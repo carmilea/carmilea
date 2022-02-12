@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Land-use changes across Europe linked to mortality during the Black Death](https://www.nature.com/articles/s41559-021-01652-4)
 - [Marijuana Accelerates Growth of HPV-Related Head and Neck Cancer &lpar;2020&rpar;](https://health.ucsd.edu/news/releases/Pages/2020-01-13-how-marijuana-accelerates-growth-of-hpv-related-head-and-neck-cancer-identified.aspx)
 - [Incident: Air Asia A320 near Kuching on Feb 10th 2022, snake on the plane](https://avherald.com/h?article=4f47cac0)
 - [Lingua-Go, the most accurate language detection for Go](https://github.com/pemistahl/lingua-go)
 - [DoltLab v0.2.0](https://www.dolthub.com/blog/2022-02-11-announcing-doltlab-v0.2.0/)
-- [AWS Announces the General Availability of AWS CloudFormation Hooks](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-announces-general-availability-aws-cloudformation-hooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
