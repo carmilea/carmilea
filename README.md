@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [On Dumpster Diving [pdf]](https://www.laprogram.org/docs/EighnerOnDumpsterDiving.pdf)
-- [Sci-Hub statistics and database](https://sci-hub.ru/database)
-- [Why federated protocols don&#39;t work &lpar;2016&rpar;](https://signal.org/blog/the-ecosystem-is-moving/)
-- [An unscientific benchmark of SQLite vs. the file system &lpar;btrfs&rpar;](https://github.com/chrisdavies/dbench)
-- [Evidence &lpar;YC S21&rpar; is hiring engineers to build a web framework for data teams](https://www.workatastartup.com/jobs/49496)
+- [Still-active phreak numbers, all safe and free](https://stormrider.io/odd-numbers.html)
+- [Webapp for comparing weather forcast providers](https://weather.simonton.app/)
+- [Pocket migration to Firefox accounts](https://support.mozilla.org/en-US/kb/pocket-firefox-account-migration)
+- [The housing market needs more condos](https://www.urban.org/urban-wire/housing-market-needs-more-condos-why-are-so-few-being-built)
+- [On Dumpster Diving &lpar;1991&rpar; [pdf]](https://www.laprogram.org/docs/EighnerOnDumpsterDiving.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
