@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Are you in a Religious Cult? Take the test](https://cult-escape.com/cult-test/)
+- [Bloom Institute of Technology &lpar;YC S17&rpar; Is Hiring a Senior Salesforce Engineer](https://jobs.lever.co/BloomTech/b6130b48-dabf-4c8d-bf07-0b6614c6ae94)
+- [Discord is a black hole for information](https://knockout.chat/thread/33251/1#post-1176126)
+- [Git in one image](https://raw.githubusercontent.com/JannikArndt/git-in-one-image/master/git-in-one-image.svg)
+- [NFT marketplace shuts, citing &#39;rampant&#39; fakes, plagiarism problem](https://www.reuters.com/business/finance/nft-marketplace-shuts-citing-rampant-fakes-plagiarism-problem-2022-02-11/)
 - [All you should know about Flutter development](https://github.com/nepaul/awesome-flutter)
-- [What have we got to lose? &lpar;1998&rpar;](https://douglasadams.com/dna/980707-05-a.html)
-- [Prefix Sum with SIMD](https://en.algorithmica.org/hpc/algorithms/prefix/)
-- [The complete idiot&#39;s guide to OpenBSD on the Pinebook Pro](https://tomscii.sig7.se/2022/02/Guide-to-OpenBSD-on-the-PinebookPro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
