@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [The complete idiot&#39;s guide to OpenBSD on the Pinebook Pro](https://tomscii.sig7.se/2022/02/Guide-to-OpenBSD-on-the-PinebookPro)
+- [15 of 23 Monkeys with Elon Musk’s Neuralink Brain Chips Reportedly Died](https://consequence.net/2022/02/elon-musk-neuralink-brain-chips-monkeys-died/)
 - [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;San Francisco / London&rpar;](https://etleap.com/jobs/#software-engineer)
 - [Nearly a third of TV ads play to empty rooms](https://news.cornell.edu/stories/2022/02/nearly-third-tv-ads-play-empty-rooms)
-- [David Rosenthal on cryptocurrencies](https://blog.dshr.org/2022/02/ee380-talk.html)
-- [Land-use changes across Europe linked to mortality during the Black Death](https://www.nature.com/articles/s41559-021-01652-4)
-- [Marijuana Accelerates Growth of HPV-Related Head and Neck Cancer &lpar;2020&rpar;](https://health.ucsd.edu/news/releases/Pages/2020-01-13-how-marijuana-accelerates-growth-of-hpv-related-head-and-neck-cancer-identified.aspx)
+- [Adobe XD, where did it go wrong?](https://www.goodlookingdesign.co.uk/blog/adobe-xd-where-did-it-go-wrong/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
