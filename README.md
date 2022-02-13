@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [White Hat Hacker Awarded $2M for Fixing ETH-Creation Bug](https://cryptoadventure.com/white-hat-hacker-awarded-2-million-for-fixing-eth-creation-bug/)
+- [How to Write and Compile Shellcodes in Rust](https://kerkour.com/shellcode-in-rust/)
+- [Intent to Deprecate and Remove offscreenBuffering](https://groups.google.com/a/chromium.org/g/blink-dev/c/0LWNyj-edsQ)
+- [The Fall of Roam](https://every.to/superorganizers/the-fall-of-roam)
 - [GiveCampus &lpar;YC S15&rpar; is hiring senior engineers to help make education accessible](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-- [Ask HN: Easiest way to build a CRUD app](https://news.ycombinator.com/item?id=30320837)
-- [SPARKNaCl: A verified, fast re-implementation of TweetNaCl](https://fosdem.org/2022/schedule/event/ada_sparknacl/)
-- [Object about to hit moon is from Chang&#39;e 5, not SpaceX](https://www.projectpluto.com/temp/correct.htm)
-- [Simple XMPP command line client](https://holmeinbuch.de/repo/txmppc/file?name=txmppc.c&ci=tip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
