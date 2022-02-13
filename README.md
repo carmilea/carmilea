@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatic Musical Composition with Python](https://flujoo.github.io/en/my-approach-to-automatic-musical-composition/)
-- [Ask HN: What&#39;s Your Learning Strategy?](https://news.ycombinator.com/item?id=30321632)
-- [White Hat Hacker Awarded $2M for Fixing ETH-Creation Bug](https://cryptoadventure.com/white-hat-hacker-awarded-2-million-for-fixing-eth-creation-bug/)
-- [How to Write and Compile Shellcodes in Rust](https://kerkour.com/shellcode-in-rust/)
-- [Intent to Deprecate and Remove offscreenBuffering &lpar;2014&rpar;](https://groups.google.com/a/chromium.org/g/blink-dev/c/0LWNyj-edsQ)
+- [Virtual machines with KVM on Pixel 6 and Android 13 DP1](https://twitter.com/kdrag0n/status/1492712401262710784)
+- [Hong Kong Refugees Traumatized](https://taipeitimes.com/News/taiwan/archives/2022/02/13/2003773041)
+- [Show HN: Visualization tools for bicycle wheelbuilding](https://www.islandix.com/)
+- [Disillusioned with the Direction of Society and Technology](https://news.ycombinator.com/item?id=30321888)
+- [Graydon Hoare: &quot;Rust didn&#39;t start &#39;as a research project at Mozilla in 2010&#39;&quot;](https://twitter.com/graydon_pub/status/1492634815748739077)
 <!-- BLOG-POST-LIST:END -->
 
 ---
