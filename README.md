@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Displaying Tags on Mint Transactions](https://warkmilson.com/2015/09/18/displaying-tags-on-mint-transactions.html)
-- [Experiment &lpar;YC W13&rpar; Is Hiring a Reviewer &lpar;Remote&rpar;](https://news.ycombinator.com/item?id=30323197)
-- [Library to send and receive using infra-red signals on an Arduino](https://github.com/Arduino-IRremote/Arduino-IRremote)
-- [The Life of MS-DOS](https://b13rg.github.io/Life-of-MS-DOS/)
-- [Ask HN: How to make an extra $50k+ per year without changing jobs?](https://news.ycombinator.com/item?id=30322965)
+- [What does it mean to listen on a port?](https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/)
+- [Storks Deliver Babies &lpar;p= 0.008&rpar; [pdf]](https://web.archive.org/web/20210413060837/http://robertmatthews.org/wp-content/uploads/2016/03/RM-storks-paper.pdf)
+- [Anyone else feel the constant urge to leave the field and become a plumber?](https://old.reddit.com/r/cscareerquestions/comments/sm54ri/anyone_else_feel_the_constant_urge_to_leave_the/)
+- [Swiss back further restrictions on tobacco advertising](https://www.swissinfo.ch/eng/politics/swiss-to-vote-on-protecting-children-from-tobacco-ads/47336990)
+- [Patricia Highsmith: Diaries and Notebooks](https://www.prospectmagazine.co.uk/arts-and-books/patricia-highsmith-diaries-notebooks-review-ian-rankin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
