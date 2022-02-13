@@ -54,8 +54,8 @@
 - [Facebook Pay](https://pay.facebook.com/)
 - [I have never read a business plan or balance sheet](https://twitter.com/paulg/status/1492682253612113921)
 - [Single Pair Ethernet &lpar;SPE&rpar; – a leap forward in technology](https://www.digikey.com/en/blog/single-pair-ethernet-spe)
+- [How to Drop Out](https://ranprieur.com/essays/dropout.html)
 - [Prosecutor won&#39;t charge reporter who uncovered database flaw](https://www.kshb.com/news/local-news/prosecutor-wont-charge-reporter-who-uncovered-database-flaw)
-- [What we lost](https://randsinrepose.com/archives/what-we-lost/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
