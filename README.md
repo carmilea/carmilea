@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Facebook Pay](https://pay.facebook.com/)
+- [I have never read a business plan or balance sheet](https://twitter.com/paulg/status/1492682253612113921)
+- [Single Pair Ethernet &lpar;SPE&rpar; – a leap forward in technology](https://www.digikey.com/en/blog/single-pair-ethernet-spe)
 - [Prosecutor won&#39;t charge reporter who uncovered database flaw](https://www.kshb.com/news/local-news/prosecutor-wont-charge-reporter-who-uncovered-database-flaw)
-- [Simula One – Linux VR Computer](https://shop.simulavr.com/)
-- [What We Lost](https://randsinrepose.com/archives/what-we-lost/)
-- [Traffic Simulator](https://traffic-simulation.de/ring.html)
+- [What we lost](https://randsinrepose.com/archives/what-we-lost/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
