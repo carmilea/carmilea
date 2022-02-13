@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
-- [Ronja: Reasonable Optical Near Joint Access](http://ronja.twibright.com/about.php)
-- [Ultrahigh-energy photons up to 1.4 PeV from 12 γ-ray Galactic sources &lpar;2021&rpar;](https://www.nature.com/articles/s41586-021-03498-z)
-- [Tibia &lpar;1997&rpar; is one of the earliest and longest-running MMORPGs](https://en.wikipedia.org/wiki/Tibia_(video_game))
-- [Resurrecting the old Wordle for procrastinators](https://leancrew.com/all-this/2022/02/resurrecting-the-old-wordle-for-procrastinators/)
+- [Mark Cuban&#39;s pharmacy started with a cold email](https://www.beckershospitalreview.com/pharmacy/mark-cuban-s-pharmacy-started-with-a-cold-email.html)
+- [Is YC a Monopoly?](https://every.to/napkin-math/is-yc-the-monopoly-it-thinks-it-is)
+- [The once-extinct auroch may soon roam Europe again](https://www.atlasobscura.com/articles/aurochs-rewilding)
+- [Surveillance Too Cheap to Meter](https://queue.acm.org/detail.cfm?id=3511661)
+- [CFIREsim 3.0 – Retirement Simulator](https://www.cfiresim.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
