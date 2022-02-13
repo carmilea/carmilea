@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Design and Long-Term Use of a Personal Electronic Notebook: Reflective Analysis](https://web.archive.org/web/20090831073107/http://www.visi.com/~snowfall/notebook.html)
 - [Facebook Pay](https://pay.facebook.com/)
 - [I have never read a business plan or balance sheet](https://twitter.com/paulg/status/1492682253612113921)
-- [Single Pair Ethernet &lpar;SPE&rpar; – a leap forward in technology](https://www.digikey.com/en/blog/single-pair-ethernet-spe)
+- [Single Pair Ethernet &lpar;SPE&rpar; – a leap forward in technology &lpar;2020&rpar;](https://www.digikey.com/en/blog/single-pair-ethernet-spe)
 - [How to Drop Out](https://ranprieur.com/essays/dropout.html)
-- [Prosecutor won&#39;t charge reporter who uncovered database flaw](https://www.kshb.com/news/local-news/prosecutor-wont-charge-reporter-who-uncovered-database-flaw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
