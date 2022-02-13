@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [How to break long-term compatibility in NetBSD [pdf]](https://www.netbsd.org/gallery/presentations/joerg/asiabsdcon2016/asiabsdcon2016.pdf)
+- [Ask HN: Account has been permanently suspended from Reddit](https://news.ycombinator.com/item?id=30322513)
+- [Cryptocurrency off-ramps, and the shift towards centralization](https://blog.mollywhite.net/off-ramps/)
 - [Virtual machines with KVM on Pixel 6 and Android 13 DP1](https://twitter.com/kdrag0n/status/1492712401262710784)
-- [Hong Kong Refugees Traumatized](https://taipeitimes.com/News/taiwan/archives/2022/02/13/2003773041)
 - [Show HN: Visualization tools for bicycle wheelbuilding](https://www.islandix.com/)
-- [Disillusioned with the Direction of Society and Technology](https://news.ycombinator.com/item?id=30321888)
-- [Graydon Hoare: &quot;Rust didn&#39;t start &#39;as a research project at Mozilla in 2010&#39;&quot;](https://twitter.com/graydon_pub/status/1492634815748739077)
 <!-- BLOG-POST-LIST:END -->
 
 ---
