@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Tibia &lpar;1997&rpar; is one of the earliest and longest-running MMORPGs](https://en.wikipedia.org/wiki/Tibia_(video_game))
+- [Resurrecting the Old Wordle for Procrastinators](https://leancrew.com/all-this/2022/02/resurrecting-the-old-wordle-for-procrastinators/)
+- [Consent, GDPR and Google Analytics](https://cunderwood.dev/2022/02/13/consent-gdpr-and-google-analytics/)
 - [What does it mean to listen on a port?](https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/)
 - [Storks Deliver Babies &lpar;p= 0.008&rpar; &lpar;2000&rpar; [pdf]](https://web.archive.org/web/20210413060837/http://robertmatthews.org/wp-content/uploads/2016/03/RM-storks-paper.pdf)
-- [Anyone else feel the constant urge to leave the field and become a plumber?](https://old.reddit.com/r/cscareerquestions/comments/sm54ri/anyone_else_feel_the_constant_urge_to_leave_the/)
-- [Swiss back further restrictions on tobacco advertising](https://www.swissinfo.ch/eng/politics/swiss-to-vote-on-protecting-children-from-tobacco-ads/47336990)
-- [Patricia Highsmith: Diaries and Notebooks](https://www.prospectmagazine.co.uk/arts-and-books/patricia-highsmith-diaries-notebooks-review-ian-rankin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
