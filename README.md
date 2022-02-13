@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [Ronja: Reasonable Optical Near Joint Access](http://ronja.twibright.com/about.php)
+- [Ultrahigh-energy photons up to 1.4 PeV from 12 γ-ray Galactic sources &lpar;2021&rpar;](https://www.nature.com/articles/s41586-021-03498-z)
 - [Tibia &lpar;1997&rpar; is one of the earliest and longest-running MMORPGs](https://en.wikipedia.org/wiki/Tibia_(video_game))
-- [Resurrecting the Old Wordle for Procrastinators](https://leancrew.com/all-this/2022/02/resurrecting-the-old-wordle-for-procrastinators/)
-- [Consent, GDPR and Google Analytics](https://cunderwood.dev/2022/02/13/consent-gdpr-and-google-analytics/)
-- [What does it mean to listen on a port?](https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/)
-- [Storks Deliver Babies &lpar;p= 0.008&rpar; &lpar;2000&rpar; [pdf]](https://web.archive.org/web/20210413060837/http://robertmatthews.org/wp-content/uploads/2016/03/RM-storks-paper.pdf)
+- [Resurrecting the old Wordle for procrastinators](https://leancrew.com/all-this/2022/02/resurrecting-the-old-wordle-for-procrastinators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
