@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Automatic Musical Composition with Python](https://flujoo.github.io/en/my-approach-to-automatic-musical-composition/)
+- [Ask HN: What&#39;s Your Learning Strategy?](https://news.ycombinator.com/item?id=30321632)
 - [White Hat Hacker Awarded $2M for Fixing ETH-Creation Bug](https://cryptoadventure.com/white-hat-hacker-awarded-2-million-for-fixing-eth-creation-bug/)
 - [How to Write and Compile Shellcodes in Rust](https://kerkour.com/shellcode-in-rust/)
-- [Intent to Deprecate and Remove offscreenBuffering](https://groups.google.com/a/chromium.org/g/blink-dev/c/0LWNyj-edsQ)
-- [The Fall of Roam](https://every.to/superorganizers/the-fall-of-roam)
-- [GiveCampus &lpar;YC S15&rpar; is hiring senior engineers to help make education accessible](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Intent to Deprecate and Remove offscreenBuffering &lpar;2014&rpar;](https://groups.google.com/a/chromium.org/g/blink-dev/c/0LWNyj-edsQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
