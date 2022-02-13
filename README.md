@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Object about to hit moon is from Chang&#39;e 5, not SpaceX](https://www.projectpluto.com/temp/correct.htm)
 - [Spongebob-CLI – Watch classic spongebob from the terminal](https://github.com/trakBan/spongebob-cli)
 - [The Cost of Financialization-Globalization: You Lost $500k and Gained $137.13](http://charleshughsmith.blogspot.com/2022/02/the-cost-of-financialization.html)
 - [CORS is not meant to secure an API endpoint](https://nikofischer.com/cors-does-not-secure-api-endpoints)
 - [The Most Lavish Mesopotamian Tomb Ever Found Belongs to a Woman](https://www.atlasobscura.com/articles/ur-queen-puabi-mesopotamia-textiles)
-- [Design and Long-Term Use of a Personal Electronic Notebook: Reflective Analysis &lpar;1996&rpar;](https://web.archive.org/web/20090831073107/http://www.visi.com/~snowfall/notebook.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
