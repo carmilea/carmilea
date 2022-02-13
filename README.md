@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [How to break long-term compatibility in NetBSD [pdf]](https://www.netbsd.org/gallery/presentations/joerg/asiabsdcon2016/asiabsdcon2016.pdf)
-- [Ask HN: Account has been permanently suspended from Reddit](https://news.ycombinator.com/item?id=30322513)
-- [Cryptocurrency off-ramps, and the shift towards centralization](https://blog.mollywhite.net/off-ramps/)
-- [Virtual machines with KVM on Pixel 6 and Android 13 DP1](https://twitter.com/kdrag0n/status/1492712401262710784)
-- [Show HN: Visualization tools for bicycle wheelbuilding](https://www.islandix.com/)
+- [Displaying Tags on Mint Transactions](https://warkmilson.com/2015/09/18/displaying-tags-on-mint-transactions.html)
+- [Experiment &lpar;YC W13&rpar; Is Hiring a Reviewer &lpar;Remote&rpar;](https://news.ycombinator.com/item?id=30323197)
+- [Library to send and receive using infra-red signals on an Arduino](https://github.com/Arduino-IRremote/Arduino-IRremote)
+- [The Life of MS-DOS](https://b13rg.github.io/Life-of-MS-DOS/)
+- [Ask HN: How to make an extra $50k+ per year without changing jobs?](https://news.ycombinator.com/item?id=30322965)
 <!-- BLOG-POST-LIST:END -->
 
 ---
