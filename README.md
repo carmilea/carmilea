@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [CORS is not meant to secure an API endpoint](https://nikofischer.com/cors-does-not-secure-api-endpoints)
+- [The Most Lavish Mesopotamian Tomb Ever Found Belongs to a Woman](https://www.atlasobscura.com/articles/ur-queen-puabi-mesopotamia-textiles)
 - [Design and Long-Term Use of a Personal Electronic Notebook: Reflective Analysis](https://web.archive.org/web/20090831073107/http://www.visi.com/~snowfall/notebook.html)
 - [Facebook Pay](https://pay.facebook.com/)
 - [I have never read a business plan or balance sheet](https://twitter.com/paulg/status/1492682253612113921)
-- [Single Pair Ethernet &lpar;SPE&rpar; – a leap forward in technology &lpar;2020&rpar;](https://www.digikey.com/en/blog/single-pair-ethernet-spe)
-- [How to Drop Out](https://ranprieur.com/essays/dropout.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
