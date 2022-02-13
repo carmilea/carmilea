@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Pay](https://pay.facebook.com/)
 - [Prosecutor won&#39;t charge reporter who uncovered database flaw](https://www.kshb.com/news/local-news/prosecutor-wont-charge-reporter-who-uncovered-database-flaw)
 - [Simula One – Linux VR Computer](https://shop.simulavr.com/)
+- [What We Lost](https://randsinrepose.com/archives/what-we-lost/)
 - [Traffic Simulator](https://traffic-simulation.de/ring.html)
-- [Compile-Time Sort in D](https://dlang.org/blog/2017/06/05/compile-time-sort-in-d/)
-- [FPGA Interchange format to enable interoperable FPGA tooling](https://opensource.googleblog.com/2022/02/FPGA%20Interchange%20format%20to%20enable%20interoperable%20FPGA%20tooling.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
