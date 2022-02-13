@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Prosecutor won&#39;t charge reporter who uncovered database flaw](https://www.kshb.com/news/local-news/prosecutor-wont-charge-reporter-who-uncovered-database-flaw)
+- [Simula One – Linux VR Computer](https://shop.simulavr.com/)
 - [Traffic Simulator](https://traffic-simulation.de/ring.html)
-- [More Than Half of Bitcoin Investors Are in the Red, Study Says](https://money.com/bitcoin-crypto-losses-2022/)
 - [Compile-Time Sort in D](https://dlang.org/blog/2017/06/05/compile-time-sort-in-d/)
 - [FPGA Interchange format to enable interoperable FPGA tooling](https://opensource.googleblog.com/2022/02/FPGA%20Interchange%20format%20to%20enable%20interoperable%20FPGA%20tooling.html)
-- [SikuliX – Automate what you see on a computer monitor](http://sikulix.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
