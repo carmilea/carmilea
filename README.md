@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Mutt 2.2.0](http://www.mutt.org/relnotes/2.2/)
-- [HTTP/3: Everything you need to know about the next-generation web protocol](https://portswigger.net/daily-swig/http-3-everything-you-need-to-know-about-the-next-generation-web-protocol)
-- [Dino 0.3: Video calls and conferences – encrypted and peer-to-peer](https://dino.im/blog/2022/02/dino-0.3-release/)
-- [Brainwashing Is Sorcery](https://www.overcomingbias.com/2022/02/brainwashing-is-sorcery.html)
-- [When Postgres blocks: tips for dealing with locks](https://www.citusdata.com/blog/2018/02/22/seven-tips-for-dealing-with-postgres-locks/)
+- [Traffic Simulator](https://traffic-simulation.de/ring.html)
+- [More Than Half of Bitcoin Investors Are in the Red, Study Says](https://money.com/bitcoin-crypto-losses-2022/)
+- [Compile-Time Sort in D](https://dlang.org/blog/2017/06/05/compile-time-sort-in-d/)
+- [FPGA Interchange format to enable interoperable FPGA tooling](https://opensource.googleblog.com/2022/02/FPGA%20Interchange%20format%20to%20enable%20interoperable%20FPGA%20tooling.html)
+- [SikuliX – Automate what you see on a computer monitor](http://sikulix.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
