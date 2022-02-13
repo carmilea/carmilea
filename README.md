@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [GiveCampus &lpar;YC S15&rpar; is hiring senior engineers to help make education accessible](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+- [Ask HN: Easiest way to build a CRUD app](https://news.ycombinator.com/item?id=30320837)
+- [SPARKNaCl: A verified, fast re-implementation of TweetNaCl](https://fosdem.org/2022/schedule/event/ada_sparknacl/)
 - [Object about to hit moon is from Chang&#39;e 5, not SpaceX](https://www.projectpluto.com/temp/correct.htm)
-- [Spongebob-CLI – Watch classic spongebob from the terminal](https://github.com/trakBan/spongebob-cli)
-- [The Cost of Financialization-Globalization: You Lost $500k and Gained $137.13](http://charleshughsmith.blogspot.com/2022/02/the-cost-of-financialization.html)
-- [CORS is not meant to secure an API endpoint](https://nikofischer.com/cors-does-not-secure-api-endpoints)
-- [The Most Lavish Mesopotamian Tomb Ever Found Belongs to a Woman](https://www.atlasobscura.com/articles/ur-queen-puabi-mesopotamia-textiles)
+- [Simple XMPP command line client](https://holmeinbuch.de/repo/txmppc/file?name=txmppc.c&ci=tip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
