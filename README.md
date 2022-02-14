@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Contribute Anything Relevant in Web Forums Like Reddit](https://karl-voit.at/2020/10/23/avoid-web-forums/)
+- [A Look at Low-Risk Ways to Learn Crypto](https://unrealisedgains.substack.com/p/welcome-to-the-user-testnet)
+- [Don&#39;t contribute anything relevant in web forums &lpar;2020&rpar;](https://karl-voit.at/2020/10/23/avoid-web-forums/)
+- [U.S. posts $119B budget surplus in January; first in over 2 years](https://www.reuters.com/world/us/us-posts-119-billion-budget-surplus-january-first-over-2-years-2022-02-10/)
 - [TclTutor 3: Computer aided instruction package for learning the Tcl language](http://www.msen.com/~clif/TclTutor.html)
 - [Perl Saved the Human Genome Project &lpar;1996&rpar;](https://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html)
-- [The Future of 12ft Ladder](https://12ft.io/the-future)
-- [Mark Cuban&#39;s pharmacy started with a cold email](https://www.beckershospitalreview.com/pharmacy/mark-cuban-s-pharmacy-started-with-a-cold-email.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
