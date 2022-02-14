@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
+- [Swastika discovered at U.S. embassy in Bulgaria](https://www.axios.com/scoop-swastika-discovered-at-us-embassy-in-bulgaria-b3938245-c263-4ab5-8df1-b0d9990db847.html)
 - [The Future of 12ft Ladder](https://12ft.io/the-future)
 - [Those writing extensively on note-writing rarely have a serious context of use](https://notes.andymatuschak.org/z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb?stackedNotes=z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc&stackedNotes=zUMFE66dxeweppDvgbNAb5hukXzXQu8ErVNv)
 - [Mark Cuban&#39;s pharmacy started with a cold email](https://www.beckershospitalreview.com/pharmacy/mark-cuban-s-pharmacy-started-with-a-cold-email.html)
 - [Is YC a Monopoly?](https://every.to/napkin-math/is-yc-the-monopoly-it-thinks-it-is)
-- [The once-extinct auroch may soon roam Europe again](https://www.atlasobscura.com/articles/aurochs-rewilding)
 <!-- BLOG-POST-LIST:END -->
 
 ---
