@@ -52,10 +52,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The simple system I’m using to stay in touch with hundreds of people](https://jakobgreenfeld.com/stay-in-touch)
+- [The Go language&#39;s first commit &lpar;1972&rpar;](https://repography.com/blog/go-first-commit)
 - [What you should know about the Stock Market](https://betterexplained.com/articles/what-you-should-know-about-the-stock-market/)
 - [Show HN: No-code alternative to Retool, Appsmith, Internal, etc.](https://www.jetadmin.io/)
 - [Facebook Messenger blocks messages containing “di.wang”](https://twitter.com/atpCountry/status/1493103408462454787)
-- [Android 13 virtualization lets Pixel 6 run Windows 11, Linux distributions](https://www.cnx-software.com/2022/02/14/android-13-virtualization-lets-pixel-6-run-windows-11-linux-distributions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
