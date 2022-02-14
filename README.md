@@ -51,11 +51,11 @@
 ### 📕  Blog Posts of Interest
 
 <!-- BLOG-POST-LIST:START -->
-- [The Stacks 2.0 blockchain implementation in Rust](https://github.com/stacks-network/stacks-blockchain)
-- [Show HN: DIY Freud. Automated therapist on the cheap](https://jeremiewenger.com/diy-freud/)
-- [Happy 27th Birthday, Delphi](https://blogs.remobjects.com/2022/02/14/delphi27th/)
-- [Show HN: Free and open-source illustrations for your projects](https://iradesign.io/)
-- [Ask HN: Recent computer hacking convictions and employability](https://news.ycombinator.com/item?id=30332534)
+- [Freshpaint &lpar;YC S19&rpar; grew 8x last year and is hiring Software Engineers](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
+- [BlockFi is fined by the SEC for 100M for its Crypto Lending Product](https://www.sec.gov/news/press-release/2022-26)
+- [Names of Canada truck convoy donors leaked after reported hack](https://www.reuters.com/world/us/leak-site-says-it-has-been-given-list-canada-truck-convoy-donors-after-reported-2022-02-14/)
+- [Dell deletes Latitude CPU Throttling issue after link is posted here](https://news.ycombinator.com/item?id=30333956)
+- [Go’s Version Control History](https://research.swtch.com/govcs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
